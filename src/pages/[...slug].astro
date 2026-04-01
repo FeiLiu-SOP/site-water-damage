@@ -1,0 +1,92 @@
+---
+import { getCollection, render } from "astro:content";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("blog");
+  return posts.map((post) => ({
+    params: { slug: (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "") },
+    props: post,
+  }));
+}
+
+const post = Astro.props;
+const { Content } = await render(post);
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{post.data.title}</title>
+    <meta name="description" content={post.data.description} />
+    <style>
+      :root {
+        color-scheme: light;
+        font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      }
+      body {
+        margin: 0;
+        background: #f8fafc;
+        color: #0f172a;
+      }
+      main {
+        width: min(800px, 92vw);
+        margin: 2rem auto;
+        background: #fff;
+        border-radius: 12px;
+        padding: 2rem 1.25rem;
+        box-shadow: 0 8px 30px rgba(2, 6, 23, 0.08);
+      }
+      h1 {
+        line-height: 1.2;
+        margin-top: 0;
+      }
+      .service-info {
+        margin: 1.5rem 0 2rem;
+        padding: 1.25rem 1.4rem;
+        background: linear-gradient(180deg, #f8fafc 0%, #f1f5f9 100%);
+        border: 1px solid #cbd5e1;
+        border-left: 6px solid #0f172a;
+        border-radius: 10px;
+      }
+      .service-info h2 {
+        margin: 0 0 0.5rem;
+        font-size: 1.25rem;
+      }
+      .service-info p {
+        margin: 0.25rem 0;
+        color: #334155;
+      }
+      .service-meta {
+        font-size: 0.95rem;
+      }
+      .phone-btn {
+        display: inline-block;
+        margin-top: 0.8rem;
+        background: #dc2626;
+        color: #fff;
+        padding: 0.7rem 1rem;
+        border-radius: 8px;
+        text-decoration: none;
+        font-weight: 700;
+      }
+      .phone-btn:hover {
+        background: #b91c1c;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <article>
+        <h1>{post.data.title}</h1>
+        <div class="service-info">
+          <h2>24/7 Local Roofing Emergency Service</h2>
+          <p>Licensed local technicians available for urgent roof leaks and storm damage response.</p>
+          <p class="service-meta">Fast dispatch, transparent pricing, and free inspection availability.</p>
+          <a class="phone-btn" href="tel:+18005550199">Call Now: +1 (800) 555-0199</a>
+        </div>
+        <Content />
+      </article>
+    </main>
+  </body>
+</html>

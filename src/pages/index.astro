@@ -1,0 +1,79 @@
+---
+import { getCollection } from "astro:content";
+
+const posts = await getCollection("blog");
+function entryPath(entry: { id?: string; slug?: string }) {
+  const raw = entry.slug ?? entry.id ?? "";
+  return raw.replace(/\.(md|mdx)$/i, "");
+}
+const sortedPosts = [...posts].sort((a, b) => entryPath(a).localeCompare(entryPath(b)));
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Roofing Service Pages</title>
+    <meta name="description" content="Browse all local roofing service pages." />
+    <style>
+      :root {
+        font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      }
+      body {
+        margin: 0;
+        background: #f8fafc;
+        color: #0f172a;
+      }
+      main {
+        width: min(980px, 94vw);
+        margin: 2rem auto;
+        background: #fff;
+        padding: 1.5rem;
+        border-radius: 12px;
+        box-shadow: 0 8px 26px rgba(2, 6, 23, 0.08);
+      }
+      h1 {
+        margin: 0 0 0.4rem;
+      }
+      .meta {
+        color: #475569;
+        margin-bottom: 1rem;
+      }
+      ul {
+        margin: 0;
+        padding-left: 1.2rem;
+        columns: 2;
+        column-gap: 2rem;
+      }
+      li {
+        break-inside: avoid;
+        margin: 0.2rem 0;
+      }
+      a {
+        color: #1d4ed8;
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+      @media (max-width: 900px) {
+        ul {
+          columns: 1;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>All Roofing Pages</h1>
+      <p class="meta">Total pages: {sortedPosts.length}</p>
+      <ul>
+        {sortedPosts.map((post) => (
+          <li>
+            <a href={`/${entryPath(post)}/`}>{post.data.title}</a>
+          </li>
+        ))}
+      </ul>
+    </main>
+  </body>
+</html>
