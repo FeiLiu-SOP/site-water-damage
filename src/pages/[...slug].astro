@@ -1,5 +1,10 @@
 ---
 import { getCollection, render } from "astro:content";
+import {
+  PUBLIC_NICHE_LABEL,
+  PUBLIC_PHONE_DISPLAY,
+  PUBLIC_PHONE_E164,
+} from "../site-config";
 
 export async function getStaticPaths() {
   const posts = await getCollection("blog");
@@ -81,10 +86,16 @@ const { Content } = await render(post);
       <article>
         <h1>{post.data.title}</h1>
         <div class="service-info">
-          <h2>24/7 Local Roofing Emergency Service</h2>
-          <p>Licensed local technicians available for urgent roof leaks and storm damage response.</p>
+          <h2>24/7 Local {PUBLIC_NICHE_LABEL} Emergency Service</h2>
+          <p>
+            Licensed local technicians available for urgent{" "}
+            {PUBLIC_NICHE_LABEL.toLowerCase()} service calls and emergency
+            response.
+          </p>
           <p class="service-meta">Fast dispatch, transparent pricing, and free inspection availability.</p>
-          <a class="phone-btn" href="tel:+17733028078">Call Now: +1 (773) 302-8078</a>
+          <a class="phone-btn" href={`tel:${PUBLIC_PHONE_E164}`}>
+            Call Now: {PUBLIC_PHONE_DISPLAY}
+          </a>
         </div>
         <Content />
       </article>

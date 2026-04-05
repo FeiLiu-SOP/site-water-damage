@@ -1,7 +1,9 @@
 ---
 import { getCollection } from "astro:content";
+import { PUBLIC_NICHE_LABEL } from "../site-config";
 
 const posts = await getCollection("blog");
+const nicheLower = PUBLIC_NICHE_LABEL.toLowerCase();
 function entryPath(entry: { id?: string; slug?: string }) {
   const raw = entry.slug ?? entry.id ?? "";
   return raw.replace(/\.(md|mdx)$/i, "");
@@ -14,8 +16,11 @@ const sortedPosts = [...posts].sort((a, b) => entryPath(a).localeCompare(entryPa
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="google-site-verification" content="e8639489520c639b" />
-    <title>Roofing Service Pages</title>
-    <meta name="description" content="Browse all local roofing service pages." />
+    <title>{PUBLIC_NICHE_LABEL} Service Pages</title>
+    <meta
+      name="description"
+      content={`Browse all local ${nicheLower} service pages.`}
+    />
     <style>
       :root {
         font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
@@ -66,7 +71,7 @@ const sortedPosts = [...posts].sort((a, b) => entryPath(a).localeCompare(entryPa
   </head>
   <body>
     <main>
-      <h1>All Roofing Pages</h1>
+      <h1>All {PUBLIC_NICHE_LABEL} Pages</h1>
       <p class="meta">Total pages: {sortedPosts.length}</p>
       <ul>
         {sortedPosts.map((post) => (
