@@ -3,7 +3,7 @@
  * 未设置时默认为 `roofing`，与迁移前行为一致。
  * 新增领域：在 ALLOWED、content.config.ts、Go `niches` 三处同步扩展。
  */
-const ALLOWED = ["roofing"] as const;
+const ALLOWED = ["roofing", "plumbing"] as const;
 
 export type ActiveCollectionKey = (typeof ALLOWED)[number];
 
