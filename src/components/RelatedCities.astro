@@ -2,7 +2,7 @@
 import { getCollection } from "astro:content";
 import { ACTIVE_COLLECTION, type ActiveCollectionKey } from "../active-collection";
 import { resolvePageLocation } from "../lib/location";
-import { siteConfig } from "../site-config";
+import { canonicalPageUrl, siteConfig } from "../site-config";
 
 interface Props {
   currentSlug: string;
@@ -46,7 +46,7 @@ if (st.length === 2) {
   }
 
   links = shuffled.slice(0, 10).map((c) => ({
-    href: `/${c.slug}/`,
+    href: canonicalPageUrl(c.slug),
     title: c.title,
   }));
 }

@@ -3,7 +3,7 @@ import { getCollection } from "astro:content";
 import Footer from "../../components/Footer.astro";
 import { ACTIVE_COLLECTION } from "../../active-collection";
 import { resolvePageLocation } from "../../lib/location";
-import { siteConfig } from "../../site-config";
+import { canonicalPageUrl, siteConfig } from "../../site-config";
 
 type EntryLike = {
   id?: string;
@@ -14,12 +14,6 @@ type EntryLike = {
     state?: string;
     zipCode?: string;
   };
-};
-
-const COLLECTION_PREFIX: Record<typeof ACTIVE_COLLECTION, string> = {
-  roofing: "roofing",
-  plumbing: "plumbing",
-  pestcontrol: "pestcontrol",
 };
 
 const SERVICE_LABEL: Record<typeof ACTIVE_COLLECTION, string> = {
@@ -82,11 +76,7 @@ const posts = (await getCollection(ACTIVE_COLLECTION)) as EntryLike[];
 const statePosts = posts.filter((post) => entryState(post) === stateCode).sort(byPathAsc);
 
 const serviceLabel = SERVICE_LABEL[ACTIVE_COLLECTION];
-const collectionPrefix = COLLECTION_PREFIX[ACTIVE_COLLECTION];
-const canonicalUrl = new URL(
-  `/${collectionPrefix}/${stateParam}/`,
-  siteConfig.canonicalOrigin,
-).toString();
+const canonicalUrl = canonicalPageUrl(stateParam);
 const pageUrl = canonicalUrl;
 const pageSchema = {
   "@context": "https://schema.org",
@@ -165,7 +155,7 @@ const pageSchema = {
       <ul class="links">
         {statePosts.map((post) => (
           <li>
-            <a href={`/${entryPath(post)}/`}>{post.data.title}</a>
+            <a href={canonicalPageUrl(entryPath(post))}>{post.data.title}</a>
           </li>
         ))}
       </ul>

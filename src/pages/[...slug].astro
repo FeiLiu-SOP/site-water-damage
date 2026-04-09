@@ -3,7 +3,7 @@ import { getCollection, render } from "astro:content";
 import Footer from "../components/Footer.astro";
 import RelatedCities from "../components/RelatedCities.astro";
 import { ACTIVE_COLLECTION } from "../active-collection";
-import { siteConfig } from "../site-config";
+import { canonicalPageUrl, siteConfig } from "../site-config";
 import {
   buildFaqSchema,
   buildLocalBusinessSchema,
@@ -22,9 +22,7 @@ export async function getStaticPaths() {
 const post = Astro.props;
 const { Content } = await render(post);
 const entrySlug = (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
-const pagePath = Astro.url.pathname.replace(/\/+$/, "");
-const canonicalPath = pagePath === "" ? "/" : `${pagePath}/`;
-const pageUrl = new URL(canonicalPath, siteConfig.canonicalOrigin).toString();
+const pageUrl = canonicalPageUrl(entrySlug);
 const pageLocation = resolvePageLocation({
   collection: ACTIVE_COLLECTION,
   title: post.data.title,

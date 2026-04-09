@@ -91,3 +91,22 @@ export const siteConfig = {
   canonicalOrigin: PUBLIC_CANONICAL_ORIGIN,
   robotsContent: PUBLIC_ROBOTS_CONTENT,
 } as const;
+
+/**
+ * Canonical base without trailing slash (e.g. https://domain/plumbing or pages.dev root).
+ * Do not use `new URL("/tx/", canonicalOrigin)` — a leading `/` path is resolved from the
+ * origin root and drops the /plumbing segment, producing https://domain/tx/ by mistake.
+ */
+export function getCanonicalBase(): string {
+  return siteConfig.canonicalOrigin.replace(/\/$/, "");
+}
+
+/** Absolute URL for this service (trailing slash). No args = service index. */
+export function canonicalPageUrl(...segments: string[]): string {
+  const base = getCanonicalBase();
+  const parts = segments
+    .filter((s) => s != null && s !== "")
+    .map((s) => String(s).replace(/^\/+|\/+$/g, ""));
+  if (parts.length === 0) return `${base}/`;
+  return `${base}/${parts.join("/")}/`;
+}
