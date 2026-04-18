@@ -1,36 +1,38 @@
-{
-  "name": "absent-apogee",
-  "type": "module",
-  "version": "0.0.1",
-  "engines": {
-    "node": ">=22.12.0"
-  },
-  "scripts": {
-    "dev": "astro dev",
-    "dev:roofing": "cross-env ACTIVE_COLLECTION=roofing astro dev --host --port 4321",
-    "dev:plumbing": "cross-env ACTIVE_COLLECTION=plumbing astro dev --host --port 4321",
-    "dev:pestcontrol": "cross-env ACTIVE_COLLECTION=pestcontrol astro dev --host --port 4321",
-    "dev:water-damage": "cross-env ACTIVE_COLLECTION=water-damage astro dev --host --port 4321",
-    "dev:siding-services": "cross-env ACTIVE_COLLECTION=siding-services astro dev --host --port 4321",
-    "dev:plumbing-v2": "cross-env ACTIVE_COLLECTION=plumbing-v2 astro dev --host --port 4321",
-    "build": "astro build",
-    "build:roofing": "cross-env ACTIVE_COLLECTION=roofing astro build",
-    "build:plumbing": "cross-env ACTIVE_COLLECTION=plumbing astro build",
-    "build:pestcontrol": "cross-env ACTIVE_COLLECTION=pestcontrol astro build",
-    "build:water-damage": "cross-env ACTIVE_COLLECTION=water-damage astro build",
-    "build:siding-services": "cross-env ACTIVE_COLLECTION=siding-services astro build",
-    "build:plumbing-v2": "cross-env ACTIVE_COLLECTION=plumbing-v2 astro build",
-    "preview": "astro preview",
-    "astro": "astro",
-    "diversity": "cd .. && go run ./scripts/diversity -dist absent-apogee/dist",
-    "diversity:soft": "cd .. && go run ./scripts/diversity -dist absent-apogee/dist -no-fail",
-    "sync:env:other-repos": "pwsh -NoProfile -File ../sync-env-production-to-other-repos.ps1"
-  },
-  "devDependencies": {
-    "cross-env": "^7.0.3"
-  },
-  "dependencies": {
-    "@astrojs/sitemap": "^3.7.2",
-    "astro": "^6.1.2"
-  }
+﻿{
+    "name":  "absent-apogee",
+    "type":  "module",
+    "version":  "0.0.1",
+    "engines":  {
+                    "node":  "\u003e=22.12.0"
+                },
+    "scripts":  {
+                    "dev":  "astro dev",
+                    "dev:roofing":  "cross-env ACTIVE_COLLECTION=roofing astro dev --host --port 4321",
+                    "dev:plumbing":  "cross-env ACTIVE_COLLECTION=plumbing astro dev --host --port 4321",
+                    "dev:pestcontrol":  "cross-env ACTIVE_COLLECTION=pestcontrol astro dev --host --port 4321",
+                    "dev:water-damage":  "cross-env ACTIVE_COLLECTION=water-damage astro dev --host --port 4321",
+                    "dev:siding-services":  "cross-env ACTIVE_COLLECTION=siding-services astro dev --host --port 4321",
+                    "dev:plumbing-v2":  "cross-env ACTIVE_COLLECTION=plumbing-v2 astro dev --host --port 4321",
+                    "build":  "astro build",
+                    "build:roofing":  "cross-env ACTIVE_COLLECTION=roofing astro build",
+                    "build:plumbing":  "cross-env ACTIVE_COLLECTION=plumbing astro build",
+                    "build:pestcontrol":  "cross-env ACTIVE_COLLECTION=pestcontrol astro build",
+                    "build:water-damage":  "cross-env ACTIVE_COLLECTION=water-damage astro build",
+                    "build:siding-services":  "cross-env ACTIVE_COLLECTION=siding-services astro build",
+                    "build:plumbing-v2":  "cross-env ACTIVE_COLLECTION=plumbing-v2 astro build",
+                    "preview":  "astro preview",
+                    "astro":  "astro",
+                    "diversity":  "cd .. \u0026\u0026 go run ./scripts/diversity -dist absent-apogee/dist",
+                    "diversity:soft":  "cd .. \u0026\u0026 go run ./scripts/diversity -dist absent-apogee/dist -no-fail",
+                    "sync:env:other-repos":  "pwsh -NoProfile -File ../sync-env-production-to-other-repos.ps1"
+                },
+    "devDependencies":  {
+                            "cross-env":  "^7.0.3"
+                        },
+    "dependencies":  {
+                         "@astrojs/sitemap":  "^3.7.2",
+                         "astro":  "^6.1.2"
+                     },
+    "build_id":  "7af5f11fdfa2"
 }
+
