@@ -16,8 +16,9 @@ const fallbackSite = "https://la-roofing-v1.pages.dev";
 // Cloudflare 再把不存在的 /sitemap-index.xml 回退成首页 HTML。
 const mode = process.env.NODE_ENV === "production" ? "production" : "development";
 const fileEnv = loadEnv(mode, process.cwd(), "");
+/** 与同仓 `src/active-collection.ts` 默认一致；避免未设 Cloudflare 变量时误用 `roofing` 的 Hub base。 */
 const activeCollection =
-  process.env.ACTIVE_COLLECTION ?? fileEnv.ACTIVE_COLLECTION ?? "roofing";
+  process.env.ACTIVE_COLLECTION ?? fileEnv.ACTIVE_COLLECTION ?? "water-damage";
 const disableAugment =
   process.env.PUBLIC_AUTO_SITEMAP_PATH ?? fileEnv.PUBLIC_AUTO_SITEMAP_PATH;
 const fullSiteUrl = augmentHubPathForMainSite(
