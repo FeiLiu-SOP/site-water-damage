@@ -24,15 +24,14 @@ const disableAugment =
 const fullSiteUrl = augmentHubPathForMainSite(
   resolvePublicSiteUrl({
     site: process.env.PUBLIC_SITE_URL ?? fileEnv.PUBLIC_SITE_URL,
-    canonical: process.env.PUBLIC_CANONICAL_ORIGIN ?? fileEnv.PUBLIC_CANONICAL_ORIGIN,
+    canonical: undefined,
     fallback: fallbackSite,
   }),
   activeCollection,
   disableAugment
 );
-const { site, base } = toAstroSiteAndBase(fullSiteUrl, activeCollection);
-const normalizedCollection = String(activeCollection).toLowerCase().trim();
-const enforcedBase = normalizedCollection === "plumbing-v2" ? "/plumbing/" : base;
+const { site } = toAstroSiteAndBase(fullSiteUrl, activeCollection);
+const enforcedBase = "/water-damage/";
 
 // https://astro.build/config
 export default defineConfig({
