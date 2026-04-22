@@ -22,22 +22,34 @@ function entryPath(entry: { id?: string; slug?: string }) {
 }
 const sortedPosts = [...posts].sort((a, b) => entryPath(a).localeCompare(entryPath(b)));
 
-function entryStateFromSlug(entry: { id?: string; slug?: string }): string | null {
-  const slug = entryPath(entry);
-  const m = slug.match(/-([a-z]{2})-\d{5}$/i);
-  if (!m) return null;
-  return m[1]!.toUpperCase();
+const featuredCities = [
+  { city: "Los Angeles", state: "CA" },
+  { city: "San Diego", state: "CA" },
+  { city: "San Francisco", state: "CA" },
+  { city: "San Jose", state: "CA" },
+  { city: "Seattle", state: "WA" },
+  { city: "Boston", state: "MA" },
+  { city: "Miami", state: "FL" },
+  { city: "Washington", state: "DC" },
+  { city: "Honolulu", state: "HI" },
+  { city: "Jersey City", state: "NJ" },
+];
+function normalizeSlugPart(value: string) {
+  return value.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
 }
-
-const stateCounts = new Map<string, number>();
-for (const p of posts) {
-  const st = entryStateFromSlug(p);
-  if (!st) continue;
-  stateCounts.set(st, (stateCounts.get(st) ?? 0) + 1);
-}
-const statesSorted = Array.from(stateCounts.entries())
-  .sort((a, b) => a[0].localeCompare(b[0]))
-  .map(([st, count]) => ({ st, count, href: internalPath(st.toLowerCase()) }));
+const featuredHubs = featuredCities
+  .map((item) => {
+    const cityKey = normalizeSlugPart(item.city);
+    const stateKey = item.state.toLowerCase();
+    const directSlug = `${String(ACTIVE_COLLECTION)}-${cityKey}-${stateKey}`;
+    const byPrefix = sortedPosts.find((p) => entryPath(p).startsWith(`${directSlug}-`));
+    if (!byPrefix) return null;
+    return {
+      label: `${item.city}, ${item.state}`,
+      href: internalPath(entryPath(byPrefix)),
+    };
+  })
+  .filter((item): item is { label: string; href: string } => Boolean(item));
 const themeAccent = ACTIVE_COLLECTION === "plumbing-v2"
   ? REALTORS_AT_THE_BEACH_PLUMBING_V2.theme.accent
   : "#1d4ed8";
@@ -80,15 +92,22 @@ const themeAccent = ACTIVE_COLLECTION === "plumbing-v2"
         color: #475569;
         margin-bottom: 1rem;
       }
-      ul {
-        margin: 0;
-        padding-left: 1.2rem;
-        columns: 2;
-        column-gap: 2rem;
+      .tunnel {
+        margin: 1rem 0 1.25rem;
       }
-      li {
-        break-inside: avoid;
-        margin: 0.2rem 0;
+      .tunnel-btn {
+        display: inline-block;
+        padding: 0.65rem 1rem;
+        border: 2px solid var(--theme-accent, #1d4ed8);
+        border-radius: 10px;
+        font-weight: 700;
+        background: #eff6ff;
+      }
+      .featured-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 0.45rem 1rem;
+        padding-left: 1.1rem;
       }
       a {
         color: var(--theme-accent, #1d4ed8);
@@ -98,8 +117,8 @@ const themeAccent = ACTIVE_COLLECTION === "plumbing-v2"
         text-decoration: underline;
       }
       @media (max-width: 900px) {
-        ul {
-          columns: 1;
+        .featured-grid {
+          grid-template-columns: 1fr;
         }
       }
     </style>
@@ -108,22 +127,19 @@ const themeAccent = ACTIVE_COLLECTION === "plumbing-v2"
     <main>
       <h1>All {pageNicheLabel} Pages</h1>
       <p class="meta">Total pages: {sortedPosts.length}</p>
+      <p class="meta">Hub tunnel mode: centralized entry with weighted deep links.</p>
+      <div class="tunnel">
+        <a class="tunnel-btn" href={internalPath("national-service-coverage")}>
+          [+] View All U.S. Service Locations
+        </a>
+      </div>
 
-      <h2>Browse by state</h2>
-      <p class="meta">State indexes: {statesSorted.length}</p>
-      <ul>
-        {statesSorted.map((s) => (
+      <h2>Featured Hubs</h2>
+      <p class="meta">Direct authority links to priority city nodes.</p>
+      <ul class="featured-grid">
+        {featuredHubs.map((hub) => (
           <li>
-            <a href={s.href}>{pageNicheLabel} in {s.st}</a> ({s.count})
-          </li>
-        ))}
-      </ul>
-
-      <h2>Browse all city pages</h2>
-      <ul>
-        {sortedPosts.map((post) => (
-          <li>
-            <a href={internalPath(entryPath(post))}>{post.data.title}</a>
+            <a href={hub.href}>{pageNicheLabel} in {hub.label}</a>
           </li>
         ))}
       </ul>

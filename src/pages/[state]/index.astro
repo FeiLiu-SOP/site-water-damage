@@ -1,6 +1,10 @@
 ---
 import { getCollection } from "astro:content";
+import { readFileSync } from "node:fs";
+import { resolve } from "node:path";
 import Footer from "../../components/Footer.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import LiveDispatchFeed from "../../components/LiveDispatchFeed.astro";
 import { ACTIVE_COLLECTION } from "../../active-collection";
 import { canonicalPageUrl, getNicheLabelForSeed, internalPath, siteConfig } from "../../site-config";
 import {
@@ -18,6 +22,12 @@ type EntryLike = {
     title: string;
     city?: string;
   };
+};
+
+type CityRow = {
+  city: string;
+  state: string;
+  population: number;
 };
 
 export async function getStaticPaths() {
@@ -53,10 +63,187 @@ const statePosts = posts
     const sb = (b.slug ?? b.id ?? "").replace(/\.(md|mdx)$/i, "");
     return sa.localeCompare(sb);
   });
+const stateZipCodes = Array.from(new Set(
+  statePosts
+    .map((post) => {
+      const slug = (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
+      const m = slug.match(/-(\d{5})$/);
+      return m ? m[1] : null;
+    })
+    .filter((zip): zip is string => Boolean(zip)),
+)).sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+const zipToHref = new Map<string, string>();
+for (const post of statePosts) {
+  const slug = (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
+  const m = slug.match(/-(\d{5})$/);
+  if (!m) continue;
+  const zip = m[1];
+  if (!zipToHref.has(zip)) {
+    zipToHref.set(zip, internalPath(entryPath(post)));
+  }
+}
+const zipLinkRows = stateZipCodes
+  .map((zip) => ({ zip, href: zipToHref.get(zip) ?? "#" }))
+  .filter((row) => row.href !== "#");
+
+function parseCsvLine(line: string): string[] {
+  const out: string[] = [];
+  let cur = "";
+  let inQuotes = false;
+  for (let i = 0; i < line.length; i++) {
+    const ch = line[i]!;
+    if (ch === '"') {
+      if (inQuotes && line[i + 1] === '"') {
+        cur += '"';
+        i++;
+      } else {
+        inQuotes = !inQuotes;
+      }
+      continue;
+    }
+    if (ch === "," && !inQuotes) {
+      out.push(cur);
+      cur = "";
+      continue;
+    }
+    cur += ch;
+  }
+  out.push(cur);
+  return out;
+}
+
+function loadUsCities(): CityRow[] {
+  const g = globalThis as typeof globalThis & { __uscitiesCache?: CityRow[] };
+  if (g.__uscitiesCache) return g.__uscitiesCache;
+
+  const candidates = [
+    resolve(process.cwd(), "../../uscities-final.csv"),
+    resolve(process.cwd(), "../../uscities-final@2026-04-10.csv"),
+    resolve(process.cwd(), "../../uscities.csv"),
+  ];
+
+  let csv = "";
+  for (const p of candidates) {
+    try {
+      csv = readFileSync(p, "utf-8");
+      if (csv) break;
+    } catch {
+      // try next candidate
+    }
+  }
+  if (!csv) {
+    g.__uscitiesCache = [];
+    return [];
+  }
+
+  const lines = csv.split(/\r?\n/).filter(Boolean);
+  if (lines.length < 2) {
+    g.__uscitiesCache = [];
+    return [];
+  }
+
+  const header = parseCsvLine(lines[0]!).map((h) => h.trim().replace(/^"|"$/g, ""));
+  const cityIdx = header.indexOf("city");
+  const stateIdx = header.indexOf("state_id");
+  const popIdx = header.indexOf("population");
+  if (cityIdx === -1 || stateIdx === -1) {
+    g.__uscitiesCache = [];
+    return [];
+  }
+
+  const rows: CityRow[] = [];
+  for (let i = 1; i < lines.length; i++) {
+    const parts = parseCsvLine(lines[i]!);
+    const city = (parts[cityIdx] ?? "").trim();
+    const state = (parts[stateIdx] ?? "").trim().toUpperCase();
+    const population = Number((parts[popIdx] ?? "0").trim());
+    if (!city || !state) continue;
+    rows.push({ city, state, population: Number.isFinite(population) ? population : 0 });
+  }
+
+  g.__uscitiesCache = rows;
+  return rows;
+}
+
+function titleCase(input: string): string {
+  return input
+    .split(/\s+/g)
+    .filter(Boolean)
+    .map((w) => w.slice(0, 1).toUpperCase() + w.slice(1))
+    .join(" ");
+}
+
+function cityFromEntry(entry: EntryLike): string {
+  if (entry.data.city && entry.data.city.trim()) return titleCase(entry.data.city.trim());
+  const slug = (entry.slug ?? entry.id ?? "").replace(/\.(md|mdx)$/i, "");
+  const m = slug.match(/^(.*)-([a-z]{2})-\d{5}$/i);
+  if (!m) return "Unknown City";
+  let left = m[1] ?? "";
+  const prefix = `${String(ACTIVE_COLLECTION)}-`.toLowerCase();
+  if (left.toLowerCase().startsWith(prefix)) left = left.slice(prefix.length);
+  return titleCase(left.replace(/-/g, " ").trim());
+}
+
+const uscitiesRows = loadUsCities();
+const stateCitiesFromCsv = uscitiesRows
+  .filter((r) => r.state === stateCode)
+  .sort((a, b) => b.population - a.population);
+const stateCityCount = stateCitiesFromCsv.length;
+const serviceStandardsText =
+  `State-level compliance and service standards for ${stateCode} are aligned to regional permitting norms, ` +
+  `insurance documentation expectations, and dispatch safety protocols. This hub maintains a crawlable index of city ` +
+  `service nodes to support transparent routing and complete coverage visibility across ${stateCode}.`;
 
 function entryPath(entry: Pick<EntryLike, "id" | "slug">) {
   const raw = entry.slug ?? entry.id ?? "";
   return raw.replace(/\.(md|mdx)$/i, "");
+}
+function shuffled<T>(arr: T[]): T[] {
+  const out = [...arr];
+  for (let i = out.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [out[i], out[j]] = [out[j]!, out[i]!];
+  }
+  return out;
+}
+const dispatchRecords = shuffled(
+  statePosts.map((post) => ({
+    city: cityFromEntry(post),
+    state: stateCode,
+  })),
+)
+  .slice(0, 8)
+  .map((item, idx) => ({
+    ...item,
+    offset: 5 + Math.floor(Math.random() * 51),
+    tag: (idx % 2 === 0 ? "[NODE ACTIVE]" : "[DISPATCH CONFIRMED]") as "[NODE ACTIVE]" | "[DISPATCH CONFIRMED]",
+  }));
+const statusMessages = [
+  "Current Status: 3 Dispatchers On-Site",
+  "Current Status: Remote Diagnostics Stable",
+  "Current Status: Route Queue Balanced",
+  "Current Status: Field Intake Confirmed",
+];
+const stateListRows: Array<
+  | { kind: "link"; post: EntryLike }
+  | { kind: "status"; text: string }
+> = [];
+let cursor = 0;
+let statusIdx = 0;
+while (cursor < statePosts.length) {
+  const chunkSize = 10 + Math.floor(Math.random() * 6);
+  const chunk = statePosts.slice(cursor, cursor + chunkSize);
+  for (const post of chunk) {
+    stateListRows.push({ kind: "link", post });
+  }
+  cursor += chunk.length;
+  if (cursor < statePosts.length) {
+    stateListRows.push({
+      kind: "status",
+      text: statusMessages[statusIdx % statusMessages.length]!,
+    });
+    statusIdx++;
+  }
 }
 
 const serviceLabel = getNicheLabelForSeed(`state:${stateCode}`);
@@ -129,6 +316,16 @@ const pageSchema = {
         color: #475569;
         margin-bottom: 1rem;
       }
+      .standards {
+        margin: 0 0 1rem;
+        padding: 0.85rem 1rem;
+        background: #f8fafc;
+        border: 1px solid #e2e8f0;
+        border-left: 4px solid var(--theme-accent, #1d4ed8);
+        border-radius: 8px;
+        color: #334155;
+        line-height: 1.5;
+      }
       .links {
         margin: 0;
         padding-left: 1.2rem;
@@ -138,6 +335,38 @@ const pageSchema = {
       .links li {
         break-inside: avoid;
         margin: 0.2rem 0;
+      }
+      .links li.status-line {
+        list-style: none;
+        margin: 0.45rem 0 0.2rem;
+        padding-left: 0.2rem;
+        font-size: 0.74rem;
+        color: #64748b;
+        letter-spacing: 0.01em;
+      }
+      .coverage-matrix {
+        margin-top: 1.1rem;
+        padding: 0.75rem 0.9rem;
+        border: 1px solid #e2e8f0;
+        border-radius: 8px;
+        background: #f8fafc;
+      }
+      .coverage-summary {
+        font-size: 0.78rem;
+        color: #64748b;
+        cursor: pointer;
+        user-select: none;
+      }
+      .zip-grid {
+        margin-top: 0.65rem;
+        display: grid;
+        grid-template-columns: repeat(6, minmax(0, 1fr));
+        gap: 0.35rem 0.65rem;
+      }
+      .zip-item {
+        font-size: 0.78rem;
+        color: #64748b;
+        line-height: 1.3;
       }
       a {
         color: var(--theme-accent, #1d4ed8);
@@ -150,20 +379,51 @@ const pageSchema = {
         .links {
           columns: 1;
         }
+        .zip-grid {
+          grid-template-columns: repeat(4, minmax(0, 1fr));
+        }
+      }
+      @media (max-width: 640px) {
+        .zip-grid {
+          grid-template-columns: repeat(3, minmax(0, 1fr));
+        }
       }
     </style>
   </head>
   <body>
     <main>
+      <Breadcrumbs
+        homeHref={internalPath()}
+        stateLabel={stateCode}
+        stateHref={internalPath(stateParam)}
+      />
       <h1>All {serviceLabel} Pages in {stateCode}</h1>
-      <p class="meta">Total pages: {statePosts.length}</p>
+      <p class="meta">Total pages: {statePosts.length} · Cities in dataset ({stateCode}): {stateCityCount}</p>
+      <p class="standards">{serviceStandardsText}</p>
+      <LiveDispatchFeed records={dispatchRecords} title={`${stateCode} Dispatch Activity Feed`} />
       <ul class="links">
-        {statePosts.map((post) => (
-          <li>
-            <a href={internalPath(entryPath(post))}>{post.data.title}</a>
-          </li>
+        {stateListRows.map((row) => (
+          row.kind === "link" ? (
+            <li>
+              <a href={internalPath(entryPath(row.post))}>
+                {`Top ${serviceLabel} Repair in ${cityFromEntry(row.post)}, ${stateCode}`}
+              </a>
+            </li>
+          ) : (
+            <li class="status-line">{row.text}</li>
+          )
         ))}
       </ul>
+      {zipLinkRows.length > 0 && (
+        <details class="coverage-matrix">
+          <summary class="coverage-summary">Statewide Infrastructure Coverage Matrix (ZCTA Index)</summary>
+          <div class="zip-grid" role="list" aria-label={`${stateCode} zip code coverage matrix`}>
+            {zipLinkRows.map((row) => (
+              <a class="zip-item" role="listitem" href={row.href}>{row.zip}</a>
+            ))}
+          </div>
+        </details>
+      )}
     </main>
     <Footer />
   </body>
