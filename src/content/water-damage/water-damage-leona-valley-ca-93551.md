@@ -12,6 +12,7 @@ lng: -118.3000
 zipSample: ["93551"]
 zipCodes: ["93551"]
 localPaths: ["Los Angeles County / elevation 3228 ft band", "Los Angeles County / coords 34.6100, -118.3000", "Los Angeles County / ZIP 93551 sector", "Los Angeles County / primary ZIP 93551"]
+zillowHomeValueUsd: 592124
 ---
 
 **Engineering Notice for Leona Valley:** structural drying capacity optimized for 3228ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Los Angeles County. Relative Humidity Threshold: 70%. Sensor sync: Active.

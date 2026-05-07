@@ -12,6 +12,7 @@ lng: -78.8100
 zipSample: ["27704"]
 zipCodes: ["27704"]
 localPaths: ["Durham County / elevation 331 ft band", "Durham County / ZIP 27704 sector", "Durham County / primary ZIP 27704", "Durham County / coords 36.0400, -78.8100"]
+zillowHomeValueUsd: 310712
 ---
 
 **Engineering Notice for Gorman:** structural drying capacity optimized for 331ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Durham County. Relative Humidity Threshold: 76%. Sensor sync: Active.

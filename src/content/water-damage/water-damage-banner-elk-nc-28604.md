@@ -12,6 +12,7 @@ lng: -81.8700
 zipSample: ["28604"]
 zipCodes: ["28604"]
 localPaths: ["Avery County / primary ZIP 28604", "Avery County / elevation 3871 ft band", "Avery County / coords 36.1600, -81.8700", "Avery County / ZIP 28604 sector"]
+zillowHomeValueUsd: 489881
 ---
 
 **Engineering Notice for Banner Elk:** structural drying capacity optimized for 3871ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Avery County. Relative Humidity Threshold: 84%. Sensor sync: Active.

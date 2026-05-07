@@ -12,6 +12,7 @@ lng: -100.3800
 zipSample: ["79014"]
 zipCodes: ["79014"]
 localPaths: ["Hemphill County / elevation 2448 ft band", "Hemphill County / ZIP 79014 sector", "Hemphill County / coords 35.9100, -100.3800", "Hemphill County / primary ZIP 79014"]
+zillowHomeValueUsd: 170827
 ---
 
 **Engineering Notice for Canadian:** structural drying capacity optimized for 2448ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hemphill County. Relative Humidity Threshold: 67%. Sensor sync: Active.

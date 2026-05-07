@@ -12,6 +12,7 @@ lng: -90.3300
 zipSample: ["38941"]
 zipCodes: ["38941"]
 localPaths: ["Leflore County / elevation 118 ft band", "Leflore County / ZIP 38941 sector", "Leflore County / primary ZIP 38941", "Leflore County / coords 33.5000, -90.3300"]
+zillowHomeValueUsd: 52443
 ---
 
 **Engineering Notice for Itta Bena:** structural drying capacity optimized for 118ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Leflore County. Relative Humidity Threshold: 67%. Sensor sync: Active.

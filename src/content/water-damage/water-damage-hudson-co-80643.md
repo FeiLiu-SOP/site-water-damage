@@ -12,6 +12,7 @@ lng: -104.6200
 zipSample: ["80643", "80642"]
 zipCodes: ["80642", "80643"]
 localPaths: ["Weld County / ZIP 80643 sector", "Weld County / elevation 4941 ft band", "Weld County / primary ZIP 80643", "Weld County / coords 40.0900, -104.6200", "Weld County / ZIP 80642 sector"]
+zillowHomeValueUsd: 533910
 ---
 
 **Engineering Notice for Hudson:** structural drying capacity optimized for 4941ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Weld County. Relative Humidity Threshold: 75%. Sensor sync: Active.

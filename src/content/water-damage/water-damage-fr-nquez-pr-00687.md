@@ -12,6 +12,8 @@ lng: -66.4300
 zipSample: ["00687"]
 zipCodes: ["00687"]
 localPaths: ["Morovis County / ZIP 00687 sector", "Morovis County / primary ZIP 00687", "Morovis County / elevation 594 ft band", "Morovis County / coords 18.3400, -66.4300"]
+zillowHomeValueUsd: 363048
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Fránquez:** structural drying capacity optimized for 594ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Morovis County. Relative Humidity Threshold: 74%. Sensor sync: Active.

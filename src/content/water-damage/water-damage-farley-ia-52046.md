@@ -12,6 +12,7 @@ lng: -91.0100
 zipSample: ["52046"]
 zipCodes: ["52046"]
 localPaths: ["Dubuque County / coords 42.4400, -91.0100", "Dubuque County / primary ZIP 52046", "Dubuque County / ZIP 52046 sector", "Dubuque County / elevation 1119 ft band"]
+zillowHomeValueUsd: 306536
 ---
 
 **Engineering Notice for Farley:** structural drying capacity optimized for 1119ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dubuque County. Relative Humidity Threshold: 65%. Sensor sync: Active.

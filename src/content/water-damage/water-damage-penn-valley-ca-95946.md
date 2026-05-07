@@ -12,6 +12,7 @@ lng: -121.1900
 zipSample: ["95946"]
 zipCodes: ["95946"]
 localPaths: ["Nevada County / elevation 1460 ft band", "Nevada County / primary ZIP 95946", "Nevada County / coords 39.2000, -121.1900", "Nevada County / ZIP 95946 sector"]
+zillowHomeValueUsd: 519427
 ---
 
 **Engineering Notice for Penn Valley:** structural drying capacity optimized for 1460ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Nevada County. Relative Humidity Threshold: 69%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -122.5300
 zipSample: ["96064"]
 zipCodes: ["96064"]
 localPaths: ["Siskiyou County / ZIP 96064 sector", "Siskiyou County / coords 41.7300, -122.5300", "Siskiyou County / primary ZIP 96064", "Siskiyou County / elevation 2536 ft band"]
+zillowHomeValueUsd: 254972
 ---
 
 **Engineering Notice for Montague:** structural drying capacity optimized for 2536ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Siskiyou County. Relative Humidity Threshold: 67%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -102.2300
 zipSample: ["80758"]
 zipCodes: ["80758"]
 localPaths: ["Yuma County / coords 40.0800, -102.2300", "Yuma County / primary ZIP 80758", "Yuma County / ZIP 80758 sector", "Yuma County / elevation 3533 ft band"]
+zillowHomeValueUsd: 289382
 ---
 
 **Engineering Notice for Wray:** structural drying capacity optimized for 3533ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Yuma County. Relative Humidity Threshold: 68%. Sensor sync: Active.

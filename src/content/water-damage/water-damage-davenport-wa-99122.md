@@ -12,6 +12,7 @@ lng: -118.1500
 zipSample: ["99122"]
 zipCodes: ["99122"]
 localPaths: ["Lincoln County / primary ZIP 99122", "Lincoln County / coords 47.6600, -118.1500", "Lincoln County / elevation 2372 ft band", "Lincoln County / ZIP 99122 sector"]
+zillowHomeValueUsd: 363555
 ---
 
 **Engineering Notice for Davenport:** structural drying capacity optimized for 2372ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lincoln County. Relative Humidity Threshold: 69%. Sensor sync: Active.

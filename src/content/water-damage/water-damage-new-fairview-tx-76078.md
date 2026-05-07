@@ -12,6 +12,7 @@ lng: -97.4500
 zipSample: ["76078", "76247"]
 zipCodes: ["76078", "76247"]
 localPaths: ["Wise County / ZIP 76078 sector", "Wise County / ZIP 76247 sector", "Wise County / elevation 909 ft band", "Wise County / coords 33.1100, -97.4500", "Wise County / primary ZIP 76078"]
+zillowHomeValueUsd: 367216
 ---
 
 **Engineering Notice for New Fairview:** structural drying capacity optimized for 909ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wise County. Relative Humidity Threshold: 82%. Sensor sync: Active.

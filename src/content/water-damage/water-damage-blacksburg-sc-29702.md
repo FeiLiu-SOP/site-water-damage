@@ -12,6 +12,7 @@ lng: -81.5200
 zipSample: ["29702"]
 zipCodes: ["29702"]
 localPaths: ["Cherokee County / elevation 761 ft band", "Cherokee County / primary ZIP 29702", "Cherokee County / ZIP 29702 sector", "Cherokee County / coords 35.1200, -81.5200"]
+zillowHomeValueUsd: 160088
 ---
 
 **Engineering Notice for Blacksburg:** structural drying capacity optimized for 761ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cherokee County. Relative Humidity Threshold: 80%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -86.1400
 zipSample: ["35131"]
 zipCodes: ["35131"]
 localPaths: ["St. Clair County / coords 33.7500, -86.1400", "St. Clair County / ZIP 35131 sector", "St. Clair County / elevation 499 ft band", "St. Clair County / primary ZIP 35131"]
+zillowHomeValueUsd: 168807
 ---
 
 **Engineering Notice for Ragland:** structural drying capacity optimized for 499ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Clair County. Relative Humidity Threshold: 80%. Sensor sync: Active.

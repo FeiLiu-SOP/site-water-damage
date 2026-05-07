@@ -12,6 +12,7 @@ lng: -84.3500
 zipSample: ["45359"]
 zipCodes: ["45359"]
 localPaths: ["Miami County / primary ZIP 45359", "Miami County / coords 40.0500, -84.3500", "Miami County / ZIP 45359 sector", "Miami County / elevation 928 ft band"]
+zillowHomeValueUsd: 242321
 ---
 
 **Engineering Notice for Pleasant Hill:** structural drying capacity optimized for 928ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Miami County. Relative Humidity Threshold: 84%. Sensor sync: Active.

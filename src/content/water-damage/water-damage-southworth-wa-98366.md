@@ -12,6 +12,7 @@ lng: -122.5300
 zipSample: ["98386", "98384", "98366"]
 zipCodes: ["98384", "98386", "98366"]
 localPaths: ["Kitsap County / elevation 299 ft band", "Kitsap County / coords 47.5100, -122.5300", "Kitsap County / primary ZIP 98366", "Kitsap County / ZIP 98366 sector", "Kitsap County / ZIP 98384 sector"]
+zillowHomeValueUsd: 503724
 ---
 
 **Engineering Notice for Southworth:** structural drying capacity optimized for 299ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kitsap County. Relative Humidity Threshold: 84%. Sensor sync: Active.

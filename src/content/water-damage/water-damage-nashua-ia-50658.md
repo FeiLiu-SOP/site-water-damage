@@ -12,6 +12,7 @@ lng: -92.5400
 zipSample: ["50658"]
 zipCodes: ["50658"]
 localPaths: ["Chickasaw County / ZIP 50658 sector", "Chickasaw County / elevation 1007 ft band", "Chickasaw County / primary ZIP 50658", "Chickasaw County / coords 42.9500, -92.5400"]
+zillowHomeValueUsd: 189651
 ---
 
 **Engineering Notice for Nashua:** structural drying capacity optimized for 1007ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chickasaw County. Relative Humidity Threshold: 69%. Sensor sync: Active.

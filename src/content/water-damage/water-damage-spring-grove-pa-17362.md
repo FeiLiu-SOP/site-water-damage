@@ -12,6 +12,7 @@ lng: -76.8600
 zipSample: ["17362"]
 zipCodes: ["17362"]
 localPaths: ["York County / ZIP 17362 sector", "York County / coords 39.8800, -76.8600", "York County / elevation 502 ft band", "York County / primary ZIP 17362"]
+zillowHomeValueUsd: 327591
 ---
 
 **Engineering Notice for Spring Grove:** structural drying capacity optimized for 502ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: York County. Relative Humidity Threshold: 80%. Sensor sync: Active.

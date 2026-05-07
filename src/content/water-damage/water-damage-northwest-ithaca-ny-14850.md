@@ -12,6 +12,7 @@ lng: -76.5400
 zipSample: ["14850"]
 zipCodes: ["14850"]
 localPaths: ["Tompkins County / elevation 1024 ft band", "Tompkins County / primary ZIP 14850", "Tompkins County / coords 42.4600, -76.5400", "Tompkins County / ZIP 14850 sector"]
+zillowHomeValueUsd: 404632
 ---
 
 **Engineering Notice for Northwest Ithaca:** structural drying capacity optimized for 1024ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tompkins County. Relative Humidity Threshold: 82%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -81.8200
 zipSample: ["33834"]
 zipCodes: ["33834"]
 localPaths: ["Hardee County / elevation 138 ft band", "Hardee County / primary ZIP 33834", "Hardee County / ZIP 33834 sector", "Hardee County / coords 27.6400, -81.8200"]
+zillowHomeValueUsd: 197476
 ---
 
 **Engineering Notice for Bowling Green:** structural drying capacity optimized for 138ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hardee County. Relative Humidity Threshold: 72%. Sensor sync: Active.

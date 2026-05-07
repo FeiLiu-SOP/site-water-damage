@@ -12,6 +12,8 @@ lng: -102.2200
 zipSample: ["79752"]
 zipCodes: ["79752"]
 localPaths: ["Upton County / primary ZIP 79752", "Upton County / elevation 2448 ft band", "Upton County / ZIP 79752 sector", "Upton County / coords 31.1300, -102.2200"]
+zillowHomeValueUsd: 291668
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for McCamey:** structural drying capacity optimized for 2448ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Upton County. Relative Humidity Threshold: 81%. Sensor sync: Active.

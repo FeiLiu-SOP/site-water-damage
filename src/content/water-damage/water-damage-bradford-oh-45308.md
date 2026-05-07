@@ -12,6 +12,7 @@ lng: -84.4300
 zipSample: ["45308"]
 zipCodes: ["45308"]
 localPaths: ["Miami County / coords 40.1300, -84.4300", "Miami County / elevation 991 ft band", "Miami County / primary ZIP 45308", "Miami County / ZIP 45308 sector"]
+zillowHomeValueUsd: 205982
 ---
 
 **Engineering Notice for Bradford:** structural drying capacity optimized for 991ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Miami County. Relative Humidity Threshold: 85%. Sensor sync: Active.

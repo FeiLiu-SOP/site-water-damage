@@ -12,6 +12,7 @@ lng: -110.3900
 zipSample: ["84021"]
 zipCodes: ["84021"]
 localPaths: ["Duchesne County / ZIP 84021 sector", "Duchesne County / primary ZIP 84021", "Duchesne County / coords 40.1800, -110.3900", "Duchesne County / elevation 5719 ft band"]
+zillowHomeValueUsd: 339597
 ---
 
 **Engineering Notice for Duchesne:** structural drying capacity optimized for 5719ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Duchesne County. Relative Humidity Threshold: 79%. Sensor sync: Active.

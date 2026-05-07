@@ -12,6 +12,7 @@ lng: -82.8000
 zipSample: ["48097"]
 zipCodes: ["48097"]
 localPaths: ["St. Clair County / ZIP 48097 sector", "St. Clair County / elevation 794 ft band", "St. Clair County / coords 43.1300, -82.8000", "St. Clair County / primary ZIP 48097"]
+zillowHomeValueUsd: 247575
 ---
 
 **Engineering Notice for Yale:** structural drying capacity optimized for 794ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Clair County. Relative Humidity Threshold: 74%. Sensor sync: Active.

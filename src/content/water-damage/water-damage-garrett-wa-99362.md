@@ -12,6 +12,7 @@ lng: -118.4000
 zipSample: ["99362"]
 zipCodes: ["99362"]
 localPaths: ["Walla Walla County / coords 46.0600, -118.4000", "Walla Walla County / ZIP 99362 sector", "Walla Walla County / primary ZIP 99362", "Walla Walla County / elevation 771 ft band"]
+zillowHomeValueUsd: 413058
 ---
 
 **Engineering Notice for Garrett:** structural drying capacity optimized for 771ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Walla Walla County. Relative Humidity Threshold: 82%. Sensor sync: Active.

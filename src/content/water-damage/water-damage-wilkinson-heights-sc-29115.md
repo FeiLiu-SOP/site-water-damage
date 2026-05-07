@@ -12,6 +12,7 @@ lng: -80.8300
 zipSample: ["29115"]
 zipCodes: ["29115"]
 localPaths: ["Orangeburg County / elevation 220 ft band", "Orangeburg County / ZIP 29115 sector", "Orangeburg County / coords 33.4900, -80.8300", "Orangeburg County / primary ZIP 29115"]
+zillowHomeValueUsd: 123304
 ---
 
 **Engineering Notice for Wilkinson Heights:** structural drying capacity optimized for 220ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Orangeburg County. Relative Humidity Threshold: 76%. Sensor sync: Active.

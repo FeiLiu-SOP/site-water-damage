@@ -12,6 +12,7 @@ lng: -74.7800
 zipSample: ["08317", "08270", "08319", "08330"]
 zipCodes: ["08319", "08270", "08330", "08317"]
 localPaths: ["Atlantic County / ZIP 08319 sector", "Atlantic County / primary ZIP 08317", "Atlantic County / ZIP 08317 sector", "Atlantic County / elevation 49 ft band", "Atlantic County / coords 39.3600, -74.7800"]
+zillowHomeValueUsd: 361785
 ---
 
 **Engineering Notice for Estell Manor:** structural drying capacity optimized for 49ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Atlantic County. Relative Humidity Threshold: 67%. Sensor sync: Active.

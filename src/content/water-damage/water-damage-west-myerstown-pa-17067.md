@@ -12,6 +12,7 @@ lng: -76.3200
 zipSample: ["17067"]
 zipCodes: ["17067"]
 localPaths: ["Lebanon County / ZIP 17067 sector", "Lebanon County / elevation 482 ft band", "Lebanon County / primary ZIP 17067", "Lebanon County / coords 40.3700, -76.3200"]
+zillowHomeValueUsd: 312257
 ---
 
 **Engineering Notice for West Myerstown:** structural drying capacity optimized for 482ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lebanon County. Relative Humidity Threshold: 65%. Sensor sync: Active.

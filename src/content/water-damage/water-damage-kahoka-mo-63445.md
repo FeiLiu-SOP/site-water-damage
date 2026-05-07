@@ -12,6 +12,7 @@ lng: -91.7200
 zipSample: ["63445"]
 zipCodes: ["63445"]
 localPaths: ["Clark County / coords 40.4200, -91.7200", "Clark County / primary ZIP 63445", "Clark County / ZIP 63445 sector", "Clark County / elevation 699 ft band"]
+zillowHomeValueUsd: 168609
 ---
 
 **Engineering Notice for Kahoka:** structural drying capacity optimized for 699ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clark County. Relative Humidity Threshold: 65%. Sensor sync: Active.

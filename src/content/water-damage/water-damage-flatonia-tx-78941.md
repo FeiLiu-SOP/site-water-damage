@@ -12,6 +12,7 @@ lng: -97.1100
 zipSample: ["78941"]
 zipCodes: ["78941"]
 localPaths: ["Fayette County / primary ZIP 78941", "Fayette County / ZIP 78941 sector", "Fayette County / coords 29.6900, -97.1100", "Fayette County / elevation 453 ft band"]
+zillowHomeValueUsd: 451213
 ---
 
 **Engineering Notice for Flatonia:** structural drying capacity optimized for 453ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fayette County. Relative Humidity Threshold: 75%. Sensor sync: Active.

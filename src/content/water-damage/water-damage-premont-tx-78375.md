@@ -12,6 +12,8 @@ lng: -98.1200
 zipSample: ["78375"]
 zipCodes: ["78375"]
 localPaths: ["Jim Wells County / elevation 174 ft band", "Jim Wells County / ZIP 78375 sector", "Jim Wells County / coords 27.3600, -98.1200", "Jim Wells County / primary ZIP 78375"]
+zillowHomeValueUsd: 285390
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Premont:** structural drying capacity optimized for 174ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jim Wells County. Relative Humidity Threshold: 70%. Sensor sync: Active.

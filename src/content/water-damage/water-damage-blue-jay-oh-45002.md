@@ -12,6 +12,7 @@ lng: -84.7400
 zipSample: ["45002"]
 zipCodes: ["45002"]
 localPaths: ["Hamilton County / primary ZIP 45002", "Hamilton County / elevation 778 ft band", "Hamilton County / ZIP 45002 sector", "Hamilton County / coords 39.2300, -84.7400"]
+zillowHomeValueUsd: 352838
 ---
 
 **Engineering Notice for Blue Jay:** structural drying capacity optimized for 778ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hamilton County. Relative Humidity Threshold: 79%. Sensor sync: Active.

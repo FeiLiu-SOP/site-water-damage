@@ -12,6 +12,7 @@ lng: -106.6300
 zipSample: ["59323"]
 zipCodes: ["59323"]
 localPaths: ["Rosebud County / coords 45.8900, -106.6300", "Rosebud County / primary ZIP 59323", "Rosebud County / ZIP 59323 sector", "Rosebud County / elevation 3215 ft band"]
+zillowHomeValueUsd: 224911
 ---
 
 **Engineering Notice for Colstrip:** structural drying capacity optimized for 3215ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rosebud County. Relative Humidity Threshold: 83%. Sensor sync: Active.

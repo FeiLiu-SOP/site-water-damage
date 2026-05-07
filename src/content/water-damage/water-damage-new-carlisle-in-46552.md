@@ -12,6 +12,7 @@ lng: -86.4900
 zipSample: ["46552"]
 zipCodes: ["46552"]
 localPaths: ["St. Joseph County / primary ZIP 46552", "St. Joseph County / ZIP 46552 sector", "St. Joseph County / coords 41.7000, -86.4900", "St. Joseph County / elevation 758 ft band"]
+zillowHomeValueUsd: 273041
 ---
 
 **Engineering Notice for New Carlisle:** structural drying capacity optimized for 758ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Joseph County. Relative Humidity Threshold: 81%. Sensor sync: Active.

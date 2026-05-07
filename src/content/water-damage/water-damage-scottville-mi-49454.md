@@ -12,6 +12,7 @@ lng: -86.2800
 zipSample: ["49454"]
 zipCodes: ["49454"]
 localPaths: ["Mason County / primary ZIP 49454", "Mason County / coords 43.9500, -86.2800", "Mason County / elevation 682 ft band", "Mason County / ZIP 49454 sector"]
+zillowHomeValueUsd: 213099
 ---
 
 **Engineering Notice for Scottville:** structural drying capacity optimized for 682ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mason County. Relative Humidity Threshold: 70%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -79.9300
 zipSample: ["29479"]
 zipCodes: ["29479"]
 localPaths: ["Berkeley County / ZIP 29479 sector", "Berkeley County / primary ZIP 29479", "Berkeley County / coords 33.4000, -79.9300", "Berkeley County / elevation 72 ft band"]
+zillowHomeValueUsd: 217160
 ---
 
 **Engineering Notice for St. Stephen:** structural drying capacity optimized for 72ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Berkeley County. Relative Humidity Threshold: 80%. Sensor sync: Active.

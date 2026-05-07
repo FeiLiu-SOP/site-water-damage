@@ -12,6 +12,7 @@ lng: -86.8800
 zipSample: ["47959"]
 zipCodes: ["47959"]
 localPaths: ["White County / ZIP 47959 sector", "White County / elevation 682 ft band", "White County / primary ZIP 47959", "White County / coords 40.8600, -86.8800"]
+zillowHomeValueUsd: 179825
 ---
 
 **Engineering Notice for Monon:** structural drying capacity optimized for 682ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: White County. Relative Humidity Threshold: 85%. Sensor sync: Active.

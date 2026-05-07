@@ -12,6 +12,7 @@ lng: -76.4800
 zipSample: ["17083", "17042", "17046"]
 zipCodes: ["17042", "17083", "17046"]
 localPaths: ["Lebanon County / elevation 463 ft band", "Lebanon County / primary ZIP 17046", "Lebanon County / coords 40.3400, -76.4800", "Lebanon County / ZIP 17046 sector", "Lebanon County / ZIP 17083 sector"]
+zillowHomeValueUsd: 258553
 ---
 
 **Engineering Notice for Cleona:** structural drying capacity optimized for 463ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lebanon County. Relative Humidity Threshold: 77%. Sensor sync: Active.

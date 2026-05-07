@@ -12,6 +12,7 @@ lng: -121.9900
 zipSample: ["98290", "98272"]
 zipCodes: ["98290", "98272"]
 localPaths: ["Snohomish County / elevation 285 ft band", "Snohomish County / ZIP 98290 sector", "Snohomish County / coords 47.8800, -121.9900", "Snohomish County / ZIP 98272 sector", "Snohomish County / primary ZIP 98290"]
+zillowHomeValueUsd: 846883
 ---
 
 **Engineering Notice for Monroe North:** structural drying capacity optimized for 285ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Snohomish County. Relative Humidity Threshold: 84%. Sensor sync: Active.

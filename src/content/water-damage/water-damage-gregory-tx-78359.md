@@ -12,6 +12,8 @@ lng: -97.2900
 zipSample: ["78359"]
 zipCodes: ["78359"]
 localPaths: ["San Patricio County / elevation 43 ft band", "San Patricio County / ZIP 78359 sector", "San Patricio County / coords 27.9200, -97.2900", "San Patricio County / primary ZIP 78359"]
+zillowHomeValueUsd: 299011
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Gregory:** structural drying capacity optimized for 43ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Patricio County. Relative Humidity Threshold: 67%. Sensor sync: Active.

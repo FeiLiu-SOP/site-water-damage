@@ -12,6 +12,7 @@ lng: -87.7100
 zipSample: ["61817"]
 zipCodes: ["61817"]
 localPaths: ["Vermilion County / elevation 656 ft band", "Vermilion County / ZIP 61817 sector", "Vermilion County / coords 40.0700, -87.7100", "Vermilion County / primary ZIP 61817"]
+zillowHomeValueUsd: 166382
 ---
 
 **Engineering Notice for Catlin:** structural drying capacity optimized for 656ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Vermilion County. Relative Humidity Threshold: 75%. Sensor sync: Active.

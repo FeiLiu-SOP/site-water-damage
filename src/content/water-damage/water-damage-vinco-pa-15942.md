@@ -12,6 +12,7 @@ lng: -78.8400
 zipSample: ["15942", "15909"]
 zipCodes: ["15909", "15942"]
 localPaths: ["Cambria County / ZIP 15909 sector", "Cambria County / elevation 1857 ft band", "Cambria County / ZIP 15942 sector", "Cambria County / primary ZIP 15942", "Cambria County / coords 40.4100, -78.8400"]
+zillowHomeValueUsd: 136140
 ---
 
 **Engineering Notice for Vinco:** structural drying capacity optimized for 1857ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cambria County. Relative Humidity Threshold: 73%. Sensor sync: Active.

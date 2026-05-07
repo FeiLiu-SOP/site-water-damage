@@ -12,6 +12,7 @@ lng: -83.4500
 zipSample: ["48759"]
 zipCodes: ["48759"]
 localPaths: ["Huron County / ZIP 48759 sector", "Huron County / primary ZIP 48759", "Huron County / coords 43.7300, -83.4500", "Huron County / elevation 591 ft band"]
+zillowHomeValueUsd: 140843
 ---
 
 **Engineering Notice for Sebewaing:** structural drying capacity optimized for 591ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Huron County. Relative Humidity Threshold: 68%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -114.2500
 zipSample: ["59834"]
 zipCodes: ["59834"]
 localPaths: ["Missoula County / primary ZIP 59834", "Missoula County / coords 47.0300, -114.2500", "Missoula County / ZIP 59834 sector", "Missoula County / elevation 3038 ft band"]
+zillowHomeValueUsd: 666847
 ---
 
 **Engineering Notice for Frenchtown:** structural drying capacity optimized for 3038ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Missoula County. Relative Humidity Threshold: 66%. Sensor sync: Active.

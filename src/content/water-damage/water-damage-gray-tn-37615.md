@@ -12,6 +12,7 @@ lng: -82.4800
 zipSample: ["37615"]
 zipCodes: ["37615"]
 localPaths: ["Washington County / elevation 1581 ft band", "Washington County / coords 36.4200, -82.4800", "Washington County / primary ZIP 37615", "Washington County / ZIP 37615 sector"]
+zillowHomeValueUsd: 353156
 ---
 
 **Engineering Notice for Gray:** structural drying capacity optimized for 1581ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 79%. Sensor sync: Active.

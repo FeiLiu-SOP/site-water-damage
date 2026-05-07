@@ -12,6 +12,7 @@ lng: -88.3300
 zipSample: ["62869"]
 zipCodes: ["62869"]
 localPaths: ["White County / ZIP 62869 sector", "White County / primary ZIP 62869", "White County / elevation 427 ft band", "White County / coords 37.9800, -88.3300"]
+zillowHomeValueUsd: 122436
 ---
 
 **Engineering Notice for Norris City:** structural drying capacity optimized for 427ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: White County. Relative Humidity Threshold: 85%. Sensor sync: Active.

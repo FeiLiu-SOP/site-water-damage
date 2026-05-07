@@ -12,6 +12,7 @@ lng: -84.6000
 zipSample: ["41035"]
 zipCodes: ["41035"]
 localPaths: ["Grant County / ZIP 41035 sector", "Grant County / primary ZIP 41035", "Grant County / elevation 958 ft band", "Grant County / coords 38.6800, -84.6000"]
+zillowHomeValueUsd: 290666
 ---
 
 **Engineering Notice for Dry Ridge:** structural drying capacity optimized for 958ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grant County. Relative Humidity Threshold: 79%. Sensor sync: Active.

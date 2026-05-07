@@ -12,6 +12,7 @@ lng: -95.3100
 zipSample: ["74469"]
 zipCodes: ["74469"]
 localPaths: ["Muskogee County / coords 35.4900, -95.3100", "Muskogee County / ZIP 74469 sector", "Muskogee County / primary ZIP 74469", "Muskogee County / elevation 574 ft band"]
+zillowHomeValueUsd: 167509
 ---
 
 **Engineering Notice for Warner:** structural drying capacity optimized for 574ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Muskogee County. Relative Humidity Threshold: 78%. Sensor sync: Active.

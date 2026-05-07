@@ -12,6 +12,7 @@ lng: -73.9800
 zipSample: ["07760"]
 zipCodes: ["07760"]
 localPaths: ["Monmouth County / ZIP 07760 sector", "Monmouth County / elevation 10 ft band", "Monmouth County / primary ZIP 07760", "Monmouth County / coords 40.3700, -73.9800"]
+zillowHomeValueUsd: 1758732
 ---
 
 **Engineering Notice for Sea Bright:** structural drying capacity optimized for 10ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Monmouth County. Relative Humidity Threshold: 73%. Sensor sync: Active.

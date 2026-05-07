@@ -12,6 +12,7 @@ lng: -87.3400
 zipSample: ["37036"]
 zipCodes: ["37036"]
 localPaths: ["Dickson County / elevation 669 ft band", "Dickson County / coords 36.1900, -87.3400", "Dickson County / ZIP 37036 sector", "Dickson County / primary ZIP 37036"]
+zillowHomeValueUsd: 345303
 ---
 
 **Engineering Notice for Charlotte:** structural drying capacity optimized for 669ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dickson County. Relative Humidity Threshold: 78%. Sensor sync: Active.

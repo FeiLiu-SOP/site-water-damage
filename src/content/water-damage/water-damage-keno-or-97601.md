@@ -12,6 +12,7 @@ lng: -121.9300
 zipSample: ["97627", "97601"]
 zipCodes: ["97601", "97627"]
 localPaths: ["Klamath County / ZIP 97601 sector", "Klamath County / ZIP 97627 sector", "Klamath County / coords 42.1300, -121.9300", "Klamath County / primary ZIP 97601", "Klamath County / elevation 4111 ft band"]
+zillowHomeValueUsd: 273536
 ---
 
 **Engineering Notice for Keno:** structural drying capacity optimized for 4111ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Klamath County. Relative Humidity Threshold: 75%. Sensor sync: Active.

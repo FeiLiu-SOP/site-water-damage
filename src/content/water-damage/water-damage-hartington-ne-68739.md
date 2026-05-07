@@ -12,6 +12,7 @@ lng: -97.2700
 zipSample: ["68739"]
 zipCodes: ["68739"]
 localPaths: ["Cedar County / coords 42.6200, -97.2700", "Cedar County / ZIP 68739 sector", "Cedar County / elevation 1424 ft band", "Cedar County / primary ZIP 68739"]
+zillowHomeValueUsd: 266613
 ---
 
 **Engineering Notice for Hartington:** structural drying capacity optimized for 1424ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cedar County. Relative Humidity Threshold: 85%. Sensor sync: Active.

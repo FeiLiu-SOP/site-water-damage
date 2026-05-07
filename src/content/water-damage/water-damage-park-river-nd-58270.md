@@ -12,6 +12,7 @@ lng: -97.7400
 zipSample: ["58270"]
 zipCodes: ["58270"]
 localPaths: ["Walsh County / coords 48.3900, -97.7400", "Walsh County / primary ZIP 58270", "Walsh County / elevation 997 ft band", "Walsh County / ZIP 58270 sector"]
+zillowHomeValueUsd: 166212
 ---
 
 **Engineering Notice for Park River:** structural drying capacity optimized for 997ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Walsh County. Relative Humidity Threshold: 82%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -95.3300
 zipSample: ["56763"]
 zipCodes: ["56763"]
 localPaths: ["Roseau County / primary ZIP 56763", "Roseau County / elevation 1089 ft band", "Roseau County / coords 48.9200, -95.3300", "Roseau County / ZIP 56763 sector"]
+zillowHomeValueUsd: 218668
 ---
 
 **Engineering Notice for Warroad:** structural drying capacity optimized for 1089ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Roseau County. Relative Humidity Threshold: 81%. Sensor sync: Active.

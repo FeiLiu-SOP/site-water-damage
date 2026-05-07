@@ -12,6 +12,7 @@ lng: -83.5500
 zipSample: ["37820"]
 zipCodes: ["37820"]
 localPaths: ["Jefferson County / elevation 1060 ft band", "Jefferson County / ZIP 37820 sector", "Jefferson County / primary ZIP 37820", "Jefferson County / coords 36.1100, -83.5500"]
+zillowHomeValueUsd: 317534
 ---
 
 **Engineering Notice for New Market:** structural drying capacity optimized for 1060ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 72%. Sensor sync: Active.

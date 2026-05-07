@@ -12,6 +12,7 @@ lng: -78.1900
 zipSample: ["22942"]
 zipCodes: ["22942"]
 localPaths: ["Orange County / ZIP 22942 sector", "Orange County / primary ZIP 22942", "Orange County / coords 38.1400, -78.1900", "Orange County / elevation 479 ft band"]
+zillowHomeValueUsd: 407233
 ---
 
 **Engineering Notice for Gordonsville:** structural drying capacity optimized for 479ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Orange County. Relative Humidity Threshold: 65%. Sensor sync: Active.

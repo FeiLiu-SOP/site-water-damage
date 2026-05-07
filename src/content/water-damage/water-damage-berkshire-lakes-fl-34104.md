@@ -12,6 +12,7 @@ lng: -81.7300
 zipSample: ["34104"]
 zipCodes: ["34104"]
 localPaths: ["Collier County / coords 26.1600, -81.7300", "Collier County / elevation 23 ft band", "Collier County / ZIP 34104 sector", "Collier County / primary ZIP 34104"]
+zillowHomeValueUsd: 354662
 ---
 
 **Engineering Notice for Berkshire Lakes:** structural drying capacity optimized for 23ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Collier County. Relative Humidity Threshold: 69%. Sensor sync: Active.

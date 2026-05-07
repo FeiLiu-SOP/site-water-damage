@@ -12,6 +12,7 @@ lng: -118.4800
 zipSample: ["89419"]
 zipCodes: ["89419"]
 localPaths: ["Pershing County / primary ZIP 89419", "Pershing County / ZIP 89419 sector", "Pershing County / elevation 3986 ft band", "Pershing County / coords 40.1800, -118.4800"]
+zillowHomeValueUsd: 248487
 ---
 
 **Engineering Notice for Lovelock:** structural drying capacity optimized for 3986ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pershing County. Relative Humidity Threshold: 68%. Sensor sync: Active.

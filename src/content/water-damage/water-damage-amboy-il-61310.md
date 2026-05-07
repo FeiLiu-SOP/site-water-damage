@@ -12,6 +12,7 @@ lng: -89.3700
 zipSample: ["61310", "61021"]
 zipCodes: ["61310", "61021"]
 localPaths: ["Lee County / ZIP 61310 sector", "Lee County / coords 41.7300, -89.3700", "Lee County / elevation 781 ft band", "Lee County / ZIP 61021 sector", "Lee County / primary ZIP 61310"]
+zillowHomeValueUsd: 173100
 ---
 
 **Engineering Notice for Amboy:** structural drying capacity optimized for 781ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lee County. Relative Humidity Threshold: 80%. Sensor sync: Active.

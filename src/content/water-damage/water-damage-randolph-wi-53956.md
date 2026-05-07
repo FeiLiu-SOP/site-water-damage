@@ -12,6 +12,7 @@ lng: -89.0000
 zipSample: ["53957", "53956"]
 zipCodes: ["53957", "53956"]
 localPaths: ["Dodge County / ZIP 53956 sector", "Dodge County / ZIP 53957 sector", "Dodge County / primary ZIP 53956", "Dodge County / coords 43.5400, -89.0000", "Dodge County / elevation 965 ft band"]
+zillowHomeValueUsd: 292911
 ---
 
 **Engineering Notice for Randolph:** structural drying capacity optimized for 965ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dodge County. Relative Humidity Threshold: 78%. Sensor sync: Active.

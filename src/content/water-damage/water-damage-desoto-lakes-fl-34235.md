@@ -12,6 +12,7 @@ lng: -82.5000
 zipSample: ["34235"]
 zipCodes: ["34235"]
 localPaths: ["Sarasota County / elevation 52 ft band", "Sarasota County / primary ZIP 34235", "Sarasota County / coords 27.3800, -82.5000", "Sarasota County / ZIP 34235 sector"]
+zillowHomeValueUsd: 313113
 ---
 
 **Engineering Notice for Desoto Lakes:** structural drying capacity optimized for 52ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sarasota County. Relative Humidity Threshold: 65%. Sensor sync: Active.

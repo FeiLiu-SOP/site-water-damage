@@ -12,6 +12,7 @@ lng: -76.9800
 zipSample: ["14837"]
 zipCodes: ["14837"]
 localPaths: ["Yates County / primary ZIP 14837", "Yates County / ZIP 14837 sector", "Yates County / coords 42.5200, -76.9800", "Yates County / elevation 991 ft band"]
+zillowHomeValueUsd: 289381
 ---
 
 **Engineering Notice for Dundee:** structural drying capacity optimized for 991ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Yates County. Relative Humidity Threshold: 75%. Sensor sync: Active.

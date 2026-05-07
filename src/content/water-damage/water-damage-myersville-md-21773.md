@@ -12,6 +12,7 @@ lng: -77.5700
 zipSample: ["21773"]
 zipCodes: ["21773"]
 localPaths: ["Frederick County / elevation 636 ft band", "Frederick County / primary ZIP 21773", "Frederick County / ZIP 21773 sector", "Frederick County / coords 39.5100, -77.5700"]
+zillowHomeValueUsd: 554281
 ---
 
 **Engineering Notice for Myersville:** structural drying capacity optimized for 636ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Frederick County. Relative Humidity Threshold: 82%. Sensor sync: Active.

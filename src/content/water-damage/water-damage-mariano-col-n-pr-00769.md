@@ -12,6 +12,8 @@ lng: -66.3400
 zipSample: ["00769"]
 zipCodes: ["00769"]
 localPaths: ["Coamo County / primary ZIP 00769", "Coamo County / ZIP 00769 sector", "Coamo County / elevation 531 ft band", "Coamo County / coords 18.0300, -66.3400"]
+zillowHomeValueUsd: 358446
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Mariano Colón:** structural drying capacity optimized for 531ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Coamo County. Relative Humidity Threshold: 78%. Sensor sync: Active.

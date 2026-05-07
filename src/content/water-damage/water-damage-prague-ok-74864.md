@@ -12,6 +12,7 @@ lng: -96.7000
 zipSample: ["74864"]
 zipCodes: ["74864"]
 localPaths: ["Lincoln County / primary ZIP 74864", "Lincoln County / elevation 965 ft band", "Lincoln County / coords 35.5000, -96.7000", "Lincoln County / ZIP 74864 sector"]
+zillowHomeValueUsd: 195983
 ---
 
 **Engineering Notice for Prague:** structural drying capacity optimized for 965ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lincoln County. Relative Humidity Threshold: 74%. Sensor sync: Active.

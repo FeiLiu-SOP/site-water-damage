@@ -12,6 +12,7 @@ lng: -76.4100
 zipSample: ["17538"]
 zipCodes: ["17538"]
 localPaths: ["Lancaster County / ZIP 17538 sector", "Lancaster County / primary ZIP 17538", "Lancaster County / coords 40.0900, -76.4100", "Lancaster County / elevation 390 ft band"]
+zillowHomeValueUsd: 440022
 ---
 
 **Engineering Notice for Landisville:** structural drying capacity optimized for 390ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lancaster County. Relative Humidity Threshold: 65%. Sensor sync: Active.

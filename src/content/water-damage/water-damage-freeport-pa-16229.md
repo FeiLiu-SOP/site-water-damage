@@ -12,6 +12,7 @@ lng: -79.6800
 zipSample: ["16229"]
 zipCodes: ["16229"]
 localPaths: ["Armstrong County / coords 40.6800, -79.6800", "Armstrong County / elevation 1076 ft band", "Armstrong County / primary ZIP 16229", "Armstrong County / ZIP 16229 sector"]
+zillowHomeValueUsd: 207666
 ---
 
 **Engineering Notice for Freeport:** structural drying capacity optimized for 1076ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Armstrong County. Relative Humidity Threshold: 71%. Sensor sync: Active.

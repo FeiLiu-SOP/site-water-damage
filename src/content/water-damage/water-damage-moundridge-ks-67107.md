@@ -12,6 +12,7 @@ lng: -97.5200
 zipSample: ["67107"]
 zipCodes: ["67107"]
 localPaths: ["McPherson County / elevation 1499 ft band", "McPherson County / primary ZIP 67107", "McPherson County / coords 38.2000, -97.5200", "McPherson County / ZIP 67107 sector"]
+zillowHomeValueUsd: 238791
 ---
 
 **Engineering Notice for Moundridge:** structural drying capacity optimized for 1499ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McPherson County. Relative Humidity Threshold: 69%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -77.4700
 zipSample: ["21710"]
 zipCodes: ["21710"]
 localPaths: ["Frederick County / elevation 305 ft band", "Frederick County / primary ZIP 21710", "Frederick County / coords 39.3100, -77.4700", "Frederick County / ZIP 21710 sector"]
+zillowHomeValueUsd: 670699
 ---
 
 **Engineering Notice for Adamstown:** structural drying capacity optimized for 305ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Frederick County. Relative Humidity Threshold: 80%. Sensor sync: Active.

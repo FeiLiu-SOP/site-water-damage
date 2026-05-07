@@ -12,6 +12,7 @@ lng: -76.7100
 zipSample: ["17342", "17360", "17403"]
 zipCodes: ["17342", "17403", "17360"]
 localPaths: ["York County / ZIP 17360 sector", "York County / elevation 781 ft band", "York County / coords 39.8600, -76.7100", "York County / ZIP 17403 sector", "York County / ZIP 17342 sector"]
+zillowHomeValueUsd: 250743
 ---
 
 **Engineering Notice for Loganville:** structural drying capacity optimized for 781ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: York County. Relative Humidity Threshold: 82%. Sensor sync: Active.

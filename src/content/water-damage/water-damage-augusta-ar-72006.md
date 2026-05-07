@@ -12,6 +12,7 @@ lng: -91.3600
 zipSample: ["72006"]
 zipCodes: ["72006"]
 localPaths: ["Woodruff County / elevation 236 ft band", "Woodruff County / ZIP 72006 sector", "Woodruff County / primary ZIP 72006", "Woodruff County / coords 35.2900, -91.3600"]
+zillowHomeValueUsd: 72073
 ---
 
 **Engineering Notice for Augusta:** structural drying capacity optimized for 236ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Woodruff County. Relative Humidity Threshold: 73%. Sensor sync: Active.

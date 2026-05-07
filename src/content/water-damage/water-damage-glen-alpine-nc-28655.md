@@ -12,6 +12,7 @@ lng: -81.7800
 zipSample: ["28655", "28628"]
 zipCodes: ["28655", "28628"]
 localPaths: ["Burke County / elevation 1207 ft band", "Burke County / ZIP 28655 sector", "Burke County / ZIP 28628 sector", "Burke County / coords 35.7300, -81.7800", "Burke County / primary ZIP 28655"]
+zillowHomeValueUsd: 259568
 ---
 
 **Engineering Notice for Glen Alpine:** structural drying capacity optimized for 1207ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Burke County. Relative Humidity Threshold: 78%. Sensor sync: Active.

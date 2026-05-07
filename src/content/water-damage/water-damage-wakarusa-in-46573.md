@@ -12,6 +12,7 @@ lng: -86.0100
 zipSample: ["46573"]
 zipCodes: ["46573"]
 localPaths: ["Elkhart County / elevation 846 ft band", "Elkhart County / primary ZIP 46573", "Elkhart County / coords 41.5300, -86.0100", "Elkhart County / ZIP 46573 sector"]
+zillowHomeValueUsd: 311392
 ---
 
 **Engineering Notice for Wakarusa:** structural drying capacity optimized for 846ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Elkhart County. Relative Humidity Threshold: 67%. Sensor sync: Active.

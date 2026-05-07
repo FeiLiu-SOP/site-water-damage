@@ -12,6 +12,7 @@ lng: -93.1700
 zipSample: ["65740"]
 zipCodes: ["65740"]
 localPaths: ["Taney County / elevation 955 ft band", "Taney County / primary ZIP 65740", "Taney County / coords 36.7200, -93.1700", "Taney County / ZIP 65740 sector"]
+zillowHomeValueUsd: 182906
 ---
 
 **Engineering Notice for Merriam Woods:** structural drying capacity optimized for 955ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Taney County. Relative Humidity Threshold: 69%. Sensor sync: Active.

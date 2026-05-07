@@ -12,6 +12,7 @@ lng: -116.2300
 zipSample: ["83850"]
 zipCodes: ["83850"]
 localPaths: ["Shoshone County / primary ZIP 83850", "Shoshone County / ZIP 83850 sector", "Shoshone County / elevation 2228 ft band", "Shoshone County / coords 47.5400, -116.2300"]
+zillowHomeValueUsd: 303451
 ---
 
 **Engineering Notice for Pinehurst:** structural drying capacity optimized for 2228ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Shoshone County. Relative Humidity Threshold: 73%. Sensor sync: Active.

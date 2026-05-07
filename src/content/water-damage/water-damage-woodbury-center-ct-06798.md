@@ -12,6 +12,7 @@ lng: -73.2000
 zipSample: ["06798"]
 zipCodes: ["06798"]
 localPaths: ["Naugatuck Valley County / primary ZIP 06798", "Naugatuck Valley County / ZIP 06798 sector", "Naugatuck Valley County / coords 41.5400, -73.2000", "Naugatuck Valley County / elevation 469 ft band"]
+zillowHomeValueUsd: 521920
 ---
 
 **Engineering Notice for Woodbury Center:** structural drying capacity optimized for 469ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Naugatuck Valley County. Relative Humidity Threshold: 79%. Sensor sync: Active.

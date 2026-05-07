@@ -12,6 +12,7 @@ lng: -79.9000
 zipSample: ["15444", "15417"]
 zipCodes: ["15417", "15444"]
 localPaths: ["Fayette County / primary ZIP 15444", "Fayette County / elevation 1027 ft band", "Fayette County / ZIP 15444 sector", "Fayette County / ZIP 15417 sector", "Fayette County / coords 40.0100, -79.9000"]
+zillowHomeValueUsd: 84654
 ---
 
 **Engineering Notice for Hiller:** structural drying capacity optimized for 1027ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fayette County. Relative Humidity Threshold: 78%. Sensor sync: Active.

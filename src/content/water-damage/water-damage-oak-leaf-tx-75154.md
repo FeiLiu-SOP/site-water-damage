@@ -12,6 +12,7 @@ lng: -96.8600
 zipSample: ["75154"]
 zipCodes: ["75154"]
 localPaths: ["Ellis County / ZIP 75154 sector", "Ellis County / primary ZIP 75154", "Ellis County / elevation 617 ft band", "Ellis County / coords 32.5100, -96.8600"]
+zillowHomeValueUsd: 350971
 ---
 
 **Engineering Notice for Oak Leaf:** structural drying capacity optimized for 617ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ellis County. Relative Humidity Threshold: 75%. Sensor sync: Active.

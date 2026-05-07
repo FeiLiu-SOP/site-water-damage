@@ -12,6 +12,7 @@ lng: -88.5800
 zipSample: ["53121"]
 zipCodes: ["53121"]
 localPaths: ["Walworth County / ZIP 53121 sector", "Walworth County / primary ZIP 53121", "Walworth County / elevation 892 ft band", "Walworth County / coords 42.7700, -88.5800"]
+zillowHomeValueUsd: 394091
 ---
 
 **Engineering Notice for Lauderdale Lakes:** structural drying capacity optimized for 892ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Walworth County. Relative Humidity Threshold: 84%. Sensor sync: Active.

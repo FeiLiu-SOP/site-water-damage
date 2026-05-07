@@ -12,6 +12,7 @@ lng: -92.1100
 zipSample: ["70507", "70520", "70583"]
 zipCodes: ["70507", "70583", "70520"]
 localPaths: ["Lafayette Parish / ZIP 70507 sector", "Lafayette Parish / ZIP 70520 sector", "Lafayette Parish / ZIP 70583 sector", "Lafayette Parish / coords 30.2800, -92.1100", "Lafayette Parish / elevation 46 ft band"]
+zillowHomeValueUsd: 211684
 ---
 
 **Engineering Notice for Ossun:** structural drying capacity optimized for 46ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lafayette Parish. Relative Humidity Threshold: 74%. Sensor sync: Active.

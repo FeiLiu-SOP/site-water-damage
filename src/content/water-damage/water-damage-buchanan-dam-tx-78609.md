@@ -12,6 +12,7 @@ lng: -98.4400
 zipSample: ["78609", "78607"]
 zipCodes: ["78609", "78607"]
 localPaths: ["Llano County / coords 30.7800, -98.4400", "Llano County / ZIP 78609 sector", "Llano County / primary ZIP 78609", "Llano County / elevation 1017 ft band", "Llano County / ZIP 78607 sector"]
+zillowHomeValueUsd: 363235
 ---
 
 **Engineering Notice for Buchanan Dam:** structural drying capacity optimized for 1017ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Llano County. Relative Humidity Threshold: 77%. Sensor sync: Active.

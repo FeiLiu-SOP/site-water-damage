@@ -12,6 +12,7 @@ lng: -82.4000
 zipSample: ["30477"]
 zipCodes: ["30477"]
 localPaths: ["Jefferson County / ZIP 30477 sector", "Jefferson County / coords 32.8700, -82.4000", "Jefferson County / elevation 253 ft band", "Jefferson County / primary ZIP 30477"]
+zillowHomeValueUsd: 80908
 ---
 
 **Engineering Notice for Wadley:** structural drying capacity optimized for 253ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 68%. Sensor sync: Active.

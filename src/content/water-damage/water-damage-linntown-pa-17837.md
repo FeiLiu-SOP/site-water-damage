@@ -12,6 +12,7 @@ lng: -76.9000
 zipSample: ["17837"]
 zipCodes: ["17837"]
 localPaths: ["Union County / elevation 502 ft band", "Union County / coords 40.9600, -76.9000", "Union County / ZIP 17837 sector", "Union County / primary ZIP 17837"]
+zillowHomeValueUsd: 326507
 ---
 
 **Engineering Notice for Linntown:** structural drying capacity optimized for 502ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Union County. Relative Humidity Threshold: 80%. Sensor sync: Active.

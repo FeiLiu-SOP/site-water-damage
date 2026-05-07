@@ -12,6 +12,7 @@ lng: -155.4600
 zipSample: ["96727"]
 zipCodes: ["96727"]
 localPaths: ["Hawaii County / primary ZIP 96727", "Hawaii County / coords 20.0800, -155.4600", "Hawaii County / ZIP 96727 sector", "Hawaii County / elevation 1125 ft band"]
+zillowHomeValueUsd: 642780
 ---
 
 **Engineering Notice for Honokaa:** structural drying capacity optimized for 1125ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hawaii County. Relative Humidity Threshold: 68%. Sensor sync: Active.

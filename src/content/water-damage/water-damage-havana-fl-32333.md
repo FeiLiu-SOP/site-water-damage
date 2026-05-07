@@ -12,6 +12,7 @@ lng: -84.4100
 zipSample: ["32333"]
 zipCodes: ["32333"]
 localPaths: ["Gadsden County / ZIP 32333 sector", "Gadsden County / elevation 285 ft band", "Gadsden County / primary ZIP 32333", "Gadsden County / coords 30.6300, -84.4100"]
+zillowHomeValueUsd: 266152
 ---
 
 **Engineering Notice for Havana:** structural drying capacity optimized for 285ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gadsden County. Relative Humidity Threshold: 83%. Sensor sync: Active.

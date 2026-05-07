@@ -12,6 +12,7 @@ lng: -121.1800
 zipSample: ["97760"]
 zipCodes: ["97760"]
 localPaths: ["Deschutes County / elevation 2867 ft band", "Deschutes County / coords 44.3500, -121.1800", "Deschutes County / ZIP 97760 sector", "Deschutes County / primary ZIP 97760"]
+zillowHomeValueUsd: 579491
 ---
 
 **Engineering Notice for Terrebonne:** structural drying capacity optimized for 2867ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Deschutes County. Relative Humidity Threshold: 67%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -77.8200
 zipSample: ["21795"]
 zipCodes: ["21795"]
 localPaths: ["Washington County / coords 39.6000, -77.8200", "Washington County / ZIP 21795 sector", "Washington County / elevation 427 ft band", "Washington County / primary ZIP 21795"]
+zillowHomeValueUsd: 341872
 ---
 
 **Engineering Notice for Williamsport:** structural drying capacity optimized for 427ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 65%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -145.6100
 zipSample: ["99574"]
 zipCodes: ["99574"]
 localPaths: ["Chugach County / primary ZIP 99574", "Chugach County / elevation 0 ft band", "Chugach County / coords 60.5300, -145.6100", "Chugach County / ZIP 99574 sector"]
+zillowHomeValueUsd: 377453
 ---
 
 **Engineering Notice for Cordova:** structural drying capacity optimized for 0ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chugach County. Relative Humidity Threshold: 69%. Sensor sync: Active.

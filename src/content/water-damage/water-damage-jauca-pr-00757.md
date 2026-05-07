@@ -12,6 +12,8 @@ lng: -66.3700
 zipSample: ["00757"]
 zipCodes: ["00757"]
 localPaths: ["Santa Isabel County / coords 17.9600, -66.3700", "Santa Isabel County / ZIP 00757 sector", "Santa Isabel County / elevation 0 ft band", "Santa Isabel County / primary ZIP 00757"]
+zillowHomeValueUsd: 355270
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Jauca:** structural drying capacity optimized for 0ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Santa Isabel County. Relative Humidity Threshold: 83%. Sensor sync: Active.

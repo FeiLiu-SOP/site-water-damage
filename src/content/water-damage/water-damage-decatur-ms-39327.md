@@ -12,6 +12,7 @@ lng: -89.1100
 zipSample: ["39327"]
 zipCodes: ["39327"]
 localPaths: ["Newton County / elevation 417 ft band", "Newton County / primary ZIP 39327", "Newton County / coords 32.4300, -89.1100", "Newton County / ZIP 39327 sector"]
+zillowHomeValueUsd: 169481
 ---
 
 **Engineering Notice for Decatur:** structural drying capacity optimized for 417ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Newton County. Relative Humidity Threshold: 83%. Sensor sync: Active.

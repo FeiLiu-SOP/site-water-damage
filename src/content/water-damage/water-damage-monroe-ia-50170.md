@@ -12,6 +12,7 @@ lng: -93.1000
 zipSample: ["50170"]
 zipCodes: ["50170"]
 localPaths: ["Jasper County / elevation 915 ft band", "Jasper County / coords 41.5200, -93.1000", "Jasper County / primary ZIP 50170", "Jasper County / ZIP 50170 sector"]
+zillowHomeValueUsd: 255428
 ---
 
 **Engineering Notice for Monroe:** structural drying capacity optimized for 915ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jasper County. Relative Humidity Threshold: 78%. Sensor sync: Active.

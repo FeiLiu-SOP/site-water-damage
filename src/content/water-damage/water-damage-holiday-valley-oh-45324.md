@@ -12,6 +12,7 @@ lng: -83.9600
 zipSample: ["45324"]
 zipCodes: ["45324"]
 localPaths: ["Clark County / primary ZIP 45324", "Clark County / elevation 984 ft band", "Clark County / coords 39.8500, -83.9600", "Clark County / ZIP 45324 sector"]
+zillowHomeValueUsd: 202781
 ---
 
 **Engineering Notice for Holiday Valley:** structural drying capacity optimized for 984ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clark County. Relative Humidity Threshold: 74%. Sensor sync: Active.

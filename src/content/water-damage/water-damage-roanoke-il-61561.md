@@ -12,6 +12,7 @@ lng: -89.2000
 zipSample: ["61561"]
 zipCodes: ["61561"]
 localPaths: ["Woodford County / primary ZIP 61561", "Woodford County / ZIP 61561 sector", "Woodford County / elevation 738 ft band", "Woodford County / coords 40.8000, -89.2000"]
+zillowHomeValueUsd: 169025
 ---
 
 **Engineering Notice for Roanoke:** structural drying capacity optimized for 738ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Woodford County. Relative Humidity Threshold: 78%. Sensor sync: Active.

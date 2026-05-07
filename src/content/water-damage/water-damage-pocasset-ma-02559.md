@@ -12,6 +12,7 @@ lng: -70.6200
 zipSample: ["02559"]
 zipCodes: ["02559"]
 localPaths: ["Barnstable County / coords 41.6900, -70.6200", "Barnstable County / ZIP 02559 sector", "Barnstable County / elevation 20 ft band", "Barnstable County / primary ZIP 02559"]
+zillowHomeValueUsd: 754059
 ---
 
 **Engineering Notice for Pocasset:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Barnstable County. Relative Humidity Threshold: 77%. Sensor sync: Active.

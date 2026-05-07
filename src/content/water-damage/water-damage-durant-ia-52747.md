@@ -12,6 +12,7 @@ lng: -90.9100
 zipSample: ["52747"]
 zipCodes: ["52747"]
 localPaths: ["Cedar County / primary ZIP 52747", "Cedar County / elevation 719 ft band", "Cedar County / coords 41.6000, -90.9100", "Cedar County / ZIP 52747 sector"]
+zillowHomeValueUsd: 236758
 ---
 
 **Engineering Notice for Durant:** structural drying capacity optimized for 719ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cedar County. Relative Humidity Threshold: 73%. Sensor sync: Active.

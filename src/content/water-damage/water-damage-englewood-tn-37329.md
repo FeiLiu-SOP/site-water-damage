@@ -12,6 +12,7 @@ lng: -84.4900
 zipSample: ["37329"]
 zipCodes: ["37329"]
 localPaths: ["McMinn County / primary ZIP 37329", "McMinn County / coords 35.4200, -84.4900", "McMinn County / elevation 850 ft band", "McMinn County / ZIP 37329 sector"]
+zillowHomeValueUsd: 249204
 ---
 
 **Engineering Notice for Englewood:** structural drying capacity optimized for 850ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McMinn County. Relative Humidity Threshold: 83%. Sensor sync: Active.

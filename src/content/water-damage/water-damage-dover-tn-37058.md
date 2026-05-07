@@ -12,6 +12,7 @@ lng: -87.8400
 zipSample: ["37058"]
 zipCodes: ["37058"]
 localPaths: ["Stewart County / ZIP 37058 sector", "Stewart County / coords 36.4800, -87.8400", "Stewart County / elevation 502 ft band", "Stewart County / primary ZIP 37058"]
+zillowHomeValueUsd: 246497
 ---
 
 **Engineering Notice for Dover:** structural drying capacity optimized for 502ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stewart County. Relative Humidity Threshold: 82%. Sensor sync: Active.

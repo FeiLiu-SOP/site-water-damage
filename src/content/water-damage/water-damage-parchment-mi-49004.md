@@ -12,6 +12,7 @@ lng: -85.5700
 zipSample: ["49004"]
 zipCodes: ["49004"]
 localPaths: ["Kalamazoo County / ZIP 49004 sector", "Kalamazoo County / primary ZIP 49004", "Kalamazoo County / coords 42.3300, -85.5700", "Kalamazoo County / elevation 823 ft band"]
+zillowHomeValueUsd: 222822
 ---
 
 **Engineering Notice for Parchment:** structural drying capacity optimized for 823ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kalamazoo County. Relative Humidity Threshold: 75%. Sensor sync: Active.

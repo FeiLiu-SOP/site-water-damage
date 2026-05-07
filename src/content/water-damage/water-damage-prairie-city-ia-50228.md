@@ -12,6 +12,7 @@ lng: -93.2400
 zipSample: ["50228"]
 zipCodes: ["50228"]
 localPaths: ["Jasper County / primary ZIP 50228", "Jasper County / ZIP 50228 sector", "Jasper County / coords 41.6000, -93.2400", "Jasper County / elevation 922 ft band"]
+zillowHomeValueUsd: 265776
 ---
 
 **Engineering Notice for Prairie City:** structural drying capacity optimized for 922ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jasper County. Relative Humidity Threshold: 77%. Sensor sync: Active.

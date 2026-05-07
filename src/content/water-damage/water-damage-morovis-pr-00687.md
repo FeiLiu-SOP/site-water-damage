@@ -12,6 +12,8 @@ lng: -66.4100
 zipSample: ["00687"]
 zipCodes: ["00687"]
 localPaths: ["Morovis County / coords 18.3300, -66.4100", "Morovis County / primary ZIP 00687", "Morovis County / ZIP 00687 sector", "Morovis County / elevation 748 ft band"]
+zillowHomeValueUsd: 356353
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Morovis:** structural drying capacity optimized for 748ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Morovis County. Relative Humidity Threshold: 69%. Sensor sync: Active.

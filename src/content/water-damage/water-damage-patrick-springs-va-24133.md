@@ -12,6 +12,7 @@ lng: -80.2000
 zipSample: ["24133", "24171"]
 zipCodes: ["24171", "24133"]
 localPaths: ["Patrick County / coords 36.6300, -80.2000", "Patrick County / elevation 1240 ft band", "Patrick County / primary ZIP 24133", "Patrick County / ZIP 24171 sector", "Patrick County / ZIP 24133 sector"]
+zillowHomeValueUsd: 174530
 ---
 
 **Engineering Notice for Patrick Springs:** structural drying capacity optimized for 1240ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Patrick County. Relative Humidity Threshold: 84%. Sensor sync: Active.

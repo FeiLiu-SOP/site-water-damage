@@ -12,6 +12,7 @@ lng: -88.1600
 zipSample: ["61864"]
 zipCodes: ["61864"]
 localPaths: ["Champaign County / coords 40.0000, -88.1600", "Champaign County / ZIP 61864 sector", "Champaign County / primary ZIP 61864", "Champaign County / elevation 741 ft band"]
+zillowHomeValueUsd: 251209
 ---
 
 **Engineering Notice for Philo:** structural drying capacity optimized for 741ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Champaign County. Relative Humidity Threshold: 84%. Sensor sync: Active.

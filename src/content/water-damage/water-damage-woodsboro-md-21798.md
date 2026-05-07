@@ -12,6 +12,7 @@ lng: -77.3100
 zipSample: ["21798"]
 zipCodes: ["21798"]
 localPaths: ["Frederick County / primary ZIP 21798", "Frederick County / coords 39.5300, -77.3100", "Frederick County / elevation 335 ft band", "Frederick County / ZIP 21798 sector"]
+zillowHomeValueUsd: 504795
 ---
 
 **Engineering Notice for Woodsboro:** structural drying capacity optimized for 335ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Frederick County. Relative Humidity Threshold: 76%. Sensor sync: Active.

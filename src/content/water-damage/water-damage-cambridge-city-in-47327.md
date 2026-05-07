@@ -12,6 +12,7 @@ lng: -85.1700
 zipSample: ["47327"]
 zipCodes: ["47327"]
 localPaths: ["Wayne County / primary ZIP 47327", "Wayne County / coords 39.8100, -85.1700", "Wayne County / ZIP 47327 sector", "Wayne County / elevation 925 ft band"]
+zillowHomeValueUsd: 180824
 ---
 
 **Engineering Notice for Cambridge City:** structural drying capacity optimized for 925ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wayne County. Relative Humidity Threshold: 69%. Sensor sync: Active.

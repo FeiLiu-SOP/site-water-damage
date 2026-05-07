@@ -12,6 +12,7 @@ lng: -94.8300
 zipSample: ["77535", "77523"]
 zipCodes: ["77523", "77535"]
 localPaths: ["Chambers County / primary ZIP 77523", "Chambers County / ZIP 77523 sector", "Chambers County / coords 29.8700, -94.8300", "Chambers County / ZIP 77535 sector", "Chambers County / elevation 39 ft band"]
+zillowHomeValueUsd: 375915
 ---
 
 **Engineering Notice for Old River-Winfree:** structural drying capacity optimized for 39ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chambers County. Relative Humidity Threshold: 71%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -80.7600
 zipSample: ["44431"]
 zipCodes: ["44431"]
 localPaths: ["Columbiana County / ZIP 44431 sector", "Columbiana County / coords 40.8800, -80.7600", "Columbiana County / primary ZIP 44431", "Columbiana County / elevation 1109 ft band"]
+zillowHomeValueUsd: 176804
 ---
 
 **Engineering Notice for Leetonia:** structural drying capacity optimized for 1109ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Columbiana County. Relative Humidity Threshold: 71%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -112.0400
 zipSample: ["84404", "84201"]
 zipCodes: ["84404", "84201"]
 localPaths: ["Weber County / primary ZIP 84404", "Weber County / ZIP 84404 sector", "Weber County / elevation 4236 ft band", "Weber County / coords 41.2600, -112.0400", "Weber County / ZIP 84201 sector"]
+zillowHomeValueUsd: 433296
 ---
 
 **Engineering Notice for Marriott-Slaterville:** structural drying capacity optimized for 4236ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Weber County. Relative Humidity Threshold: 73%. Sensor sync: Active.

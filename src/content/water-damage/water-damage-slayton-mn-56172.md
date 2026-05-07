@@ -12,6 +12,7 @@ lng: -95.7600
 zipSample: ["56172"]
 zipCodes: ["56172"]
 localPaths: ["Murray County / elevation 1611 ft band", "Murray County / ZIP 56172 sector", "Murray County / coords 43.9900, -95.7600", "Murray County / primary ZIP 56172"]
+zillowHomeValueUsd: 218667
 ---
 
 **Engineering Notice for Slayton:** structural drying capacity optimized for 1611ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Murray County. Relative Humidity Threshold: 82%. Sensor sync: Active.

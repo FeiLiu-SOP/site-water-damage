@@ -12,6 +12,7 @@ lng: -86.1200
 zipSample: ["35956", "35954"]
 zipCodes: ["35954", "35956"]
 localPaths: ["Etowah County / ZIP 35956 sector", "Etowah County / elevation 1076 ft band", "Etowah County / primary ZIP 35956", "Etowah County / ZIP 35954 sector", "Etowah County / coords 34.1100, -86.1200"]
+zillowHomeValueUsd: 220899
 ---
 
 **Engineering Notice for Carlisle-Rockledge:** structural drying capacity optimized for 1076ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Etowah County. Relative Humidity Threshold: 65%. Sensor sync: Active.

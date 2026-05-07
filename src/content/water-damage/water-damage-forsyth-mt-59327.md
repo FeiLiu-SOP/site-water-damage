@@ -12,6 +12,7 @@ lng: -106.6700
 zipSample: ["59327"]
 zipCodes: ["59327"]
 localPaths: ["Rosebud County / primary ZIP 59327", "Rosebud County / coords 46.2700, -106.6700", "Rosebud County / elevation 2523 ft band", "Rosebud County / ZIP 59327 sector"]
+zillowHomeValueUsd: 223205
 ---
 
 **Engineering Notice for Forsyth:** structural drying capacity optimized for 2523ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rosebud County. Relative Humidity Threshold: 84%. Sensor sync: Active.

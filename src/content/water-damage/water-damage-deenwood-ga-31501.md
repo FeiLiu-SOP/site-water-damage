@@ -12,6 +12,7 @@ lng: -82.3700
 zipSample: ["31503", "31501"]
 zipCodes: ["31503", "31501"]
 localPaths: ["Ware County / ZIP 31503 sector", "Ware County / ZIP 31501 sector", "Ware County / coords 31.2500, -82.3700", "Ware County / primary ZIP 31501", "Ware County / elevation 161 ft band"]
+zillowHomeValueUsd: 133293
 ---
 
 **Engineering Notice for Deenwood:** structural drying capacity optimized for 161ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ware County. Relative Humidity Threshold: 78%. Sensor sync: Active.

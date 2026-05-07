@@ -12,6 +12,7 @@ lng: -70.6300
 zipSample: ["04085"]
 zipCodes: ["04085"]
 localPaths: ["Cumberland County / ZIP 04085 sector", "Cumberland County / primary ZIP 04085", "Cumberland County / coords 43.7900, -70.6300", "Cumberland County / elevation 322 ft band"]
+zillowHomeValueUsd: 426507
 ---
 
 **Engineering Notice for Steep Falls:** structural drying capacity optimized for 322ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cumberland County. Relative Humidity Threshold: 83%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -89.2700
 zipSample: ["39571"]
 zipCodes: ["39571"]
 localPaths: ["Harrison County / ZIP 39571 sector", "Harrison County / primary ZIP 39571", "Harrison County / coords 30.3800, -89.2700", "Harrison County / elevation 59 ft band"]
+zillowHomeValueUsd: 304033
 ---
 
 **Engineering Notice for DeLisle:** structural drying capacity optimized for 59ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harrison County. Relative Humidity Threshold: 67%. Sensor sync: Active.

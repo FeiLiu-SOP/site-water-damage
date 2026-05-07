@@ -12,6 +12,7 @@ lng: -77.6700
 zipSample: ["27823"]
 zipCodes: ["27823"]
 localPaths: ["Halifax County / primary ZIP 27823", "Halifax County / elevation 121 ft band", "Halifax County / coords 36.1800, -77.6700", "Halifax County / ZIP 27823 sector"]
+zillowHomeValueUsd: 74877
 ---
 
 **Engineering Notice for Enfield:** structural drying capacity optimized for 121ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Halifax County. Relative Humidity Threshold: 82%. Sensor sync: Active.

@@ -12,6 +12,8 @@ lng: -106.3700
 zipSample: ["87052"]
 zipCodes: ["87052"]
 localPaths: ["Sandoval County / primary ZIP 87052", "Sandoval County / ZIP 87052 sector", "Sandoval County / elevation 5164 ft band", "Sandoval County / coords 35.5200, -106.3700"]
+zillowHomeValueUsd: 316406
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Santo Domingo Pueblo:** structural drying capacity optimized for 5164ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sandoval County. Relative Humidity Threshold: 80%. Sensor sync: Active.

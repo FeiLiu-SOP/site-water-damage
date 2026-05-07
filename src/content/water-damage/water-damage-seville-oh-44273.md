@@ -12,6 +12,7 @@ lng: -81.8700
 zipSample: ["44273"]
 zipCodes: ["44273"]
 localPaths: ["Medina County / elevation 994 ft band", "Medina County / primary ZIP 44273", "Medina County / coords 41.0200, -81.8700", "Medina County / ZIP 44273 sector"]
+zillowHomeValueUsd: 322792
 ---
 
 **Engineering Notice for Seville:** structural drying capacity optimized for 994ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Medina County. Relative Humidity Threshold: 75%. Sensor sync: Active.

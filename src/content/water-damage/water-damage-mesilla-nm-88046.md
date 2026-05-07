@@ -12,6 +12,7 @@ lng: -106.8100
 zipSample: ["88046", "88005"]
 zipCodes: ["88046", "88005"]
 localPaths: ["Doña Ana County / ZIP 88005 sector", "Doña Ana County / ZIP 88046 sector", "Doña Ana County / elevation 3885 ft band", "Doña Ana County / coords 32.2700, -106.8100", "Doña Ana County / primary ZIP 88046"]
+zillowHomeValueUsd: 286925
 ---
 
 **Engineering Notice for Mesilla:** structural drying capacity optimized for 3885ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Doña Ana County. Relative Humidity Threshold: 70%. Sensor sync: Active.

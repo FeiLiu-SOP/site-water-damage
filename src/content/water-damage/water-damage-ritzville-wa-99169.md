@@ -12,6 +12,7 @@ lng: -118.3800
 zipSample: ["99169"]
 zipCodes: ["99169"]
 localPaths: ["Adams County / primary ZIP 99169", "Adams County / ZIP 99169 sector", "Adams County / elevation 1808 ft band", "Adams County / coords 47.1300, -118.3800"]
+zillowHomeValueUsd: 239031
 ---
 
 **Engineering Notice for Ritzville:** structural drying capacity optimized for 1808ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Adams County. Relative Humidity Threshold: 68%. Sensor sync: Active.

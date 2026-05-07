@@ -12,6 +12,7 @@ lng: -74.6600
 zipSample: ["08223"]
 zipCodes: ["08223"]
 localPaths: ["Cape May County / coords 39.2600, -74.6600", "Cape May County / ZIP 08223 sector", "Cape May County / elevation 30 ft band", "Cape May County / primary ZIP 08223"]
+zillowHomeValueUsd: 498063
 ---
 
 **Engineering Notice for Marmora:** structural drying capacity optimized for 30ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cape May County. Relative Humidity Threshold: 67%. Sensor sync: Active.

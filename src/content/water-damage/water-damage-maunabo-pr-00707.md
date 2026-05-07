@@ -12,6 +12,8 @@ lng: -65.9000
 zipSample: ["00707"]
 zipCodes: ["00707"]
 localPaths: ["Maunabo County / coords 18.0100, -65.9000", "Maunabo County / primary ZIP 00707", "Maunabo County / elevation 43 ft band", "Maunabo County / ZIP 00707 sector"]
+zillowHomeValueUsd: 350745
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Maunabo:** structural drying capacity optimized for 43ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Maunabo County. Relative Humidity Threshold: 73%. Sensor sync: Active.

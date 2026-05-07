@@ -12,6 +12,7 @@ lng: -93.9500
 zipSample: ["56065"]
 zipCodes: ["56065"]
 localPaths: ["Blue Earth County / coords 43.9300, -93.9500", "Blue Earth County / elevation 1050 ft band", "Blue Earth County / primary ZIP 56065", "Blue Earth County / ZIP 56065 sector"]
+zillowHomeValueUsd: 251461
 ---
 
 **Engineering Notice for Mapleton:** structural drying capacity optimized for 1050ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Blue Earth County. Relative Humidity Threshold: 66%. Sensor sync: Active.

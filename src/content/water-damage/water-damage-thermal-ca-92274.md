@@ -12,6 +12,7 @@ lng: -116.1300
 zipSample: ["92274"]
 zipCodes: ["92274"]
 localPaths: ["Riverside County / primary ZIP 92274", "Riverside County / coords 33.6300, -116.1300", "Riverside County / elevation -133 ft band", "Riverside County / ZIP 92274 sector"]
+zillowHomeValueUsd: 301902
 ---
 
 **Engineering Notice for Thermal:** structural drying capacity optimized for -133ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Riverside County. Relative Humidity Threshold: 75%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -84.8100
 zipSample: ["48625"]
 zipCodes: ["48625"]
 localPaths: ["Clare County / ZIP 48625 sector", "Clare County / elevation 1188 ft band", "Clare County / primary ZIP 48625", "Clare County / coords 44.0200, -84.8100"]
+zillowHomeValueUsd: 127899
 ---
 
 **Engineering Notice for Harrison:** structural drying capacity optimized for 1188ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clare County. Relative Humidity Threshold: 73%. Sensor sync: Active.

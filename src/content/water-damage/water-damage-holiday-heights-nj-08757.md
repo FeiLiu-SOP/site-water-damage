@@ -12,6 +12,7 @@ lng: -74.2600
 zipSample: ["08756", "08757"]
 zipCodes: ["08757", "08756"]
 localPaths: ["Ocean County / elevation 82 ft band", "Ocean County / primary ZIP 08757", "Ocean County / ZIP 08757 sector", "Ocean County / coords 39.9400, -74.2600", "Ocean County / ZIP 08756 sector"]
+zillowHomeValueUsd: 342379
 ---
 
 **Engineering Notice for Holiday Heights:** structural drying capacity optimized for 82ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ocean County. Relative Humidity Threshold: 81%. Sensor sync: Active.

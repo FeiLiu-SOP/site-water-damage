@@ -12,6 +12,7 @@ lng: -105.4300
 zipSample: ["82718"]
 zipCodes: ["82718"]
 localPaths: ["Campbell County / coords 44.2300, -105.4300", "Campbell County / primary ZIP 82718", "Campbell County / elevation 4583 ft band", "Campbell County / ZIP 82718 sector"]
+zillowHomeValueUsd: 361193
 ---
 
 **Engineering Notice for Sleepy Hollow:** structural drying capacity optimized for 4583ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Campbell County. Relative Humidity Threshold: 65%. Sensor sync: Active.

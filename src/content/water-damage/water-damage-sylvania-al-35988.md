@@ -12,6 +12,7 @@ lng: -85.8100
 zipSample: ["35988", "35968"]
 zipCodes: ["35988", "35968"]
 localPaths: ["DeKalb County / ZIP 35968 sector", "DeKalb County / elevation 1362 ft band", "DeKalb County / coords 34.5600, -85.8100", "DeKalb County / primary ZIP 35988", "DeKalb County / ZIP 35988 sector"]
+zillowHomeValueUsd: 195114
 ---
 
 **Engineering Notice for Sylvania:** structural drying capacity optimized for 1362ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: DeKalb County. Relative Humidity Threshold: 75%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -90.1000
 zipSample: ["70067"]
 zipCodes: ["70067"]
 localPaths: ["Jefferson Parish / coords 29.7500, -90.1000", "Jefferson Parish / elevation 3 ft band", "Jefferson Parish / primary ZIP 70067", "Jefferson Parish / ZIP 70067 sector"]
+zillowHomeValueUsd: 202495
 ---
 
 **Engineering Notice for Jean Lafitte:** structural drying capacity optimized for 3ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson Parish. Relative Humidity Threshold: 71%. Sensor sync: Active.

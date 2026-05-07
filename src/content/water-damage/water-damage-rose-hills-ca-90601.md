@@ -12,6 +12,7 @@ lng: -118.0400
 zipSample: ["90601"]
 zipCodes: ["90601"]
 localPaths: ["Los Angeles County / primary ZIP 90601", "Los Angeles County / elevation 476 ft band", "Los Angeles County / ZIP 90601 sector", "Los Angeles County / coords 34.0100, -118.0400"]
+zillowHomeValueUsd: 864686
 ---
 
 **Engineering Notice for Rose Hills:** structural drying capacity optimized for 476ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Los Angeles County. Relative Humidity Threshold: 68%. Sensor sync: Active.

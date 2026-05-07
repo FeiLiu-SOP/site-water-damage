@@ -12,6 +12,7 @@ lng: -80.5200
 zipSample: ["29168"]
 zipCodes: ["29168"]
 localPaths: ["Sumter County / elevation 223 ft band", "Sumter County / primary ZIP 29168", "Sumter County / coords 33.8800, -80.5200", "Sumter County / ZIP 29168 sector"]
+zillowHomeValueUsd: 182323
 ---
 
 **Engineering Notice for Wedgefield:** structural drying capacity optimized for 223ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sumter County. Relative Humidity Threshold: 76%. Sensor sync: Active.

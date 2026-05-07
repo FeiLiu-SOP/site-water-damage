@@ -12,6 +12,7 @@ lng: -82.3300
 zipSample: ["34224"]
 zipCodes: ["34224"]
 localPaths: ["Charlotte County / coords 26.9100, -82.3300", "Charlotte County / ZIP 34224 sector", "Charlotte County / elevation 20 ft band", "Charlotte County / primary ZIP 34224"]
+zillowHomeValueUsd: 280017
 ---
 
 **Engineering Notice for Grove City:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Charlotte County. Relative Humidity Threshold: 74%. Sensor sync: Active.

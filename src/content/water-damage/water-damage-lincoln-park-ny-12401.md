@@ -12,6 +12,7 @@ lng: -74.0000
 zipSample: ["12401"]
 zipCodes: ["12401"]
 localPaths: ["Ulster County / primary ZIP 12401", "Ulster County / elevation 184 ft band", "Ulster County / ZIP 12401 sector", "Ulster County / coords 41.9600, -74.0000"]
+zillowHomeValueUsd: 380964
 ---
 
 **Engineering Notice for Lincoln Park:** structural drying capacity optimized for 184ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ulster County. Relative Humidity Threshold: 72%. Sensor sync: Active.

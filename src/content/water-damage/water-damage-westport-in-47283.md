@@ -12,6 +12,7 @@ lng: -85.5700
 zipSample: ["47283"]
 zipCodes: ["47283"]
 localPaths: ["Decatur County / primary ZIP 47283", "Decatur County / coords 39.1800, -85.5700", "Decatur County / ZIP 47283 sector", "Decatur County / elevation 801 ft band"]
+zillowHomeValueUsd: 238251
 ---
 
 **Engineering Notice for Westport:** structural drying capacity optimized for 801ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Decatur County. Relative Humidity Threshold: 81%. Sensor sync: Active.

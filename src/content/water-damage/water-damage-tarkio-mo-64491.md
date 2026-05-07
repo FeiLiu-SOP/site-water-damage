@@ -12,6 +12,7 @@ lng: -95.3800
 zipSample: ["64491"]
 zipCodes: ["64491"]
 localPaths: ["Atchison County / elevation 1010 ft band", "Atchison County / coords 40.4400, -95.3800", "Atchison County / primary ZIP 64491", "Atchison County / ZIP 64491 sector"]
+zillowHomeValueUsd: 125848
 ---
 
 **Engineering Notice for Tarkio:** structural drying capacity optimized for 1010ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Atchison County. Relative Humidity Threshold: 85%. Sensor sync: Active.

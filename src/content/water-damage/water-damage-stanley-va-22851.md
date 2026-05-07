@@ -12,6 +12,7 @@ lng: -78.5000
 zipSample: ["22851"]
 zipCodes: ["22851"]
 localPaths: ["Page County / ZIP 22851 sector", "Page County / primary ZIP 22851", "Page County / elevation 1079 ft band", "Page County / coords 38.5800, -78.5000"]
+zillowHomeValueUsd: 297108
 ---
 
 **Engineering Notice for Stanley:** structural drying capacity optimized for 1079ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Page County. Relative Humidity Threshold: 82%. Sensor sync: Active.

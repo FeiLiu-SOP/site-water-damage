@@ -12,6 +12,7 @@ lng: -112.8600
 zipSample: ["85332"]
 zipCodes: ["85332"]
 localPaths: ["Yavapai County / coords 34.1500, -112.8600", "Yavapai County / ZIP 85332 sector", "Yavapai County / elevation 2992 ft band", "Yavapai County / primary ZIP 85332"]
+zillowHomeValueUsd: 354386
 ---
 
 **Engineering Notice for Congress:** structural drying capacity optimized for 2992ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Yavapai County. Relative Humidity Threshold: 83%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -84.1800
 zipSample: ["48857"]
 zipCodes: ["48857"]
 localPaths: ["Shiawassee County / elevation 889 ft band", "Shiawassee County / ZIP 48857 sector", "Shiawassee County / primary ZIP 48857", "Shiawassee County / coords 42.8400, -84.1800"]
+zillowHomeValueUsd: 239521
 ---
 
 **Engineering Notice for Morrice:** structural drying capacity optimized for 889ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Shiawassee County. Relative Humidity Threshold: 75%. Sensor sync: Active.

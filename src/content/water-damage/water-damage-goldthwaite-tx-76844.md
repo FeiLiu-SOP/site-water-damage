@@ -12,6 +12,7 @@ lng: -98.5700
 zipSample: ["76844"]
 zipCodes: ["76844"]
 localPaths: ["Mills County / ZIP 76844 sector", "Mills County / coords 31.4500, -98.5700", "Mills County / elevation 1565 ft band", "Mills County / primary ZIP 76844"]
+zillowHomeValueUsd: 370455
 ---
 
 **Engineering Notice for Goldthwaite:** structural drying capacity optimized for 1565ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mills County. Relative Humidity Threshold: 83%. Sensor sync: Active.

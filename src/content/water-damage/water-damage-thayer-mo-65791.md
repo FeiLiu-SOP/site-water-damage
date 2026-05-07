@@ -12,6 +12,7 @@ lng: -91.5400
 zipSample: ["65791"]
 zipCodes: ["65791"]
 localPaths: ["Oregon County / primary ZIP 65791", "Oregon County / elevation 617 ft band", "Oregon County / coords 36.5200, -91.5400", "Oregon County / ZIP 65791 sector"]
+zillowHomeValueUsd: 147027
 ---
 
 **Engineering Notice for Thayer:** structural drying capacity optimized for 617ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Oregon County. Relative Humidity Threshold: 65%. Sensor sync: Active.

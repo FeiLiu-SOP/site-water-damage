@@ -12,6 +12,7 @@ lng: -77.6400
 zipSample: ["20169", "20168"]
 zipCodes: ["20169", "20168"]
 localPaths: ["Prince William County / primary ZIP 20169", "Prince William County / elevation 364 ft band", "Prince William County / coords 38.8100, -77.6400", "Prince William County / ZIP 20169 sector", "Prince William County / ZIP 20168 sector"]
+zillowHomeValueUsd: 832988
 ---
 
 **Engineering Notice for Haymarket:** structural drying capacity optimized for 364ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Prince William County. Relative Humidity Threshold: 68%. Sensor sync: Active.

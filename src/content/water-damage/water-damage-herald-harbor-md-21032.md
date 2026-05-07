@@ -12,6 +12,7 @@ lng: -76.5700
 zipSample: ["21032"]
 zipCodes: ["21032"]
 localPaths: ["Anne Arundel County / elevation 89 ft band", "Anne Arundel County / ZIP 21032 sector", "Anne Arundel County / coords 39.0500, -76.5700", "Anne Arundel County / primary ZIP 21032"]
+zillowHomeValueUsd: 669444
 ---
 
 **Engineering Notice for Herald Harbor:** structural drying capacity optimized for 89ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Anne Arundel County. Relative Humidity Threshold: 66%. Sensor sync: Active.

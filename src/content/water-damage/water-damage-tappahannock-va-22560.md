@@ -12,6 +12,7 @@ lng: -76.8700
 zipSample: ["22560"]
 zipCodes: ["22560"]
 localPaths: ["Essex County / primary ZIP 22560", "Essex County / coords 37.9200, -76.8700", "Essex County / ZIP 22560 sector", "Essex County / elevation 3 ft band"]
+zillowHomeValueUsd: 301901
 ---
 
 **Engineering Notice for Tappahannock:** structural drying capacity optimized for 3ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Essex County. Relative Humidity Threshold: 69%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -74.5300
 zipSample: ["08873"]
 zipCodes: ["08873"]
 localPaths: ["Somerset County / elevation 131 ft band", "Somerset County / coords 40.5000, -74.5300", "Somerset County / primary ZIP 08873", "Somerset County / ZIP 08873 sector"]
+zillowHomeValueUsd: 567152
 ---
 
 **Engineering Notice for Middlebush:** structural drying capacity optimized for 131ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Somerset County. Relative Humidity Threshold: 85%. Sensor sync: Active.

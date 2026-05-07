@@ -12,6 +12,7 @@ lng: -121.0100
 zipSample: ["95351"]
 zipCodes: ["95351"]
 localPaths: ["Stanislaus County / elevation 98 ft band", "Stanislaus County / primary ZIP 95351", "Stanislaus County / coords 37.6200, -121.0100", "Stanislaus County / ZIP 95351 sector"]
+zillowHomeValueUsd: 379064
 ---
 
 **Engineering Notice for Rouse:** structural drying capacity optimized for 98ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stanislaus County. Relative Humidity Threshold: 72%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -117.1400
 zipSample: ["92028"]
 zipCodes: ["92028"]
 localPaths: ["San Diego County / elevation 1266 ft band", "San Diego County / primary ZIP 92028", "San Diego County / ZIP 92028 sector", "San Diego County / coords 33.4100, -117.1400"]
+zillowHomeValueUsd: 885158
 ---
 
 **Engineering Notice for Rainbow:** structural drying capacity optimized for 1266ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Diego County. Relative Humidity Threshold: 70%. Sensor sync: Active.

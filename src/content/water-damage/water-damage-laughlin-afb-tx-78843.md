@@ -12,6 +12,8 @@ lng: -100.7800
 zipSample: ["78840", "78843"]
 zipCodes: ["78840", "78843"]
 localPaths: ["Val Verde County / ZIP 78840 sector", "Val Verde County / coords 29.3600, -100.7800", "Val Verde County / elevation 1083 ft band", "Val Verde County / ZIP 78843 sector", "Val Verde County / primary ZIP 78843"]
+zillowHomeValueUsd: 299640
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Laughlin AFB:** structural drying capacity optimized for 1083ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Val Verde County. Relative Humidity Threshold: 72%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -79.5800
 zipSample: ["15425"]
 zipCodes: ["15425"]
 localPaths: ["Fayette County / ZIP 15425 sector", "Fayette County / primary ZIP 15425", "Fayette County / elevation 1293 ft band", "Fayette County / coords 39.9900, -79.5800"]
+zillowHomeValueUsd: 145788
 ---
 
 **Engineering Notice for South Connellsville:** structural drying capacity optimized for 1293ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fayette County. Relative Humidity Threshold: 68%. Sensor sync: Active.

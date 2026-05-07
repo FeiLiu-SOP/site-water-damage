@@ -12,6 +12,7 @@ lng: -86.4900
 zipSample: ["35186"]
 zipCodes: ["35186"]
 localPaths: ["Shelby County / ZIP 35186 sector", "Shelby County / coords 33.2300, -86.4900", "Shelby County / elevation 443 ft band", "Shelby County / primary ZIP 35186"]
+zillowHomeValueUsd: 360470
 ---
 
 **Engineering Notice for Wilsonville:** structural drying capacity optimized for 443ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Shelby County. Relative Humidity Threshold: 78%. Sensor sync: Active.

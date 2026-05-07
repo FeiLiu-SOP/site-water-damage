@@ -12,6 +12,7 @@ lng: -96.0700
 zipSample: ["51039"]
 zipCodes: ["51039"]
 localPaths: ["Woodbury County / primary ZIP 51039", "Woodbury County / ZIP 51039 sector", "Woodbury County / coords 42.4900, -96.0700", "Woodbury County / elevation 1181 ft band"]
+zillowHomeValueUsd: 267954
 ---
 
 **Engineering Notice for Moville:** structural drying capacity optimized for 1181ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Woodbury County. Relative Humidity Threshold: 85%. Sensor sync: Active.

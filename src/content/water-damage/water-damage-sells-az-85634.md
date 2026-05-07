@@ -12,6 +12,8 @@ lng: -111.8800
 zipSample: ["85634"]
 zipCodes: ["85634"]
 localPaths: ["Pima County / ZIP 85634 sector", "Pima County / elevation 2388 ft band", "Pima County / coords 31.9200, -111.8800", "Pima County / primary ZIP 85634"]
+zillowHomeValueUsd: 451791
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Sells:** structural drying capacity optimized for 2388ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pima County. Relative Humidity Threshold: 66%. Sensor sync: Active.

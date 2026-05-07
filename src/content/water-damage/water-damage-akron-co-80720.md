@@ -12,6 +12,7 @@ lng: -103.2200
 zipSample: ["80720"]
 zipCodes: ["80720"]
 localPaths: ["Washington County / ZIP 80720 sector", "Washington County / coords 40.1600, -103.2200", "Washington County / elevation 4682 ft band", "Washington County / primary ZIP 80720"]
+zillowHomeValueUsd: 253023
 ---
 
 **Engineering Notice for Akron:** structural drying capacity optimized for 4682ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 69%. Sensor sync: Active.

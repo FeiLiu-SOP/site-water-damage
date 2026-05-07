@@ -12,6 +12,7 @@ lng: -92.5800
 zipSample: ["72210", "72002"]
 zipCodes: ["72002", "72210"]
 localPaths: ["Saline County / coords 34.7000, -92.5800", "Saline County / elevation 594 ft band", "Saline County / ZIP 72002 sector", "Saline County / ZIP 72210 sector", "Saline County / primary ZIP 72210"]
+zillowHomeValueUsd: 270236
 ---
 
 **Engineering Notice for Avilla:** structural drying capacity optimized for 594ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Saline County. Relative Humidity Threshold: 66%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -74.8100
 zipSample: ["08270"]
 zipCodes: ["08270"]
 localPaths: ["Cape May County / primary ZIP 08270", "Cape May County / ZIP 08270 sector", "Cape May County / coords 39.2300, -74.8100", "Cape May County / elevation 33 ft band"]
+zillowHomeValueUsd: 323722
 ---
 
 **Engineering Notice for Woodbine:** structural drying capacity optimized for 33ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cape May County. Relative Humidity Threshold: 68%. Sensor sync: Active.

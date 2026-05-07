@@ -12,6 +12,7 @@ lng: -98.3600
 zipSample: ["73728"]
 zipCodes: ["73728"]
 localPaths: ["Alfalfa County / coords 36.7500, -98.3600", "Alfalfa County / elevation 1207 ft band", "Alfalfa County / primary ZIP 73728", "Alfalfa County / ZIP 73728 sector"]
+zillowHomeValueUsd: 76349
 ---
 
 **Engineering Notice for Cherokee:** structural drying capacity optimized for 1207ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Alfalfa County. Relative Humidity Threshold: 65%. Sensor sync: Active.

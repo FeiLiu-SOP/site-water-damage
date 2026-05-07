@@ -12,6 +12,7 @@ lng: -82.3900
 zipSample: ["43022"]
 zipCodes: ["43022"]
 localPaths: ["Knox County / primary ZIP 43022", "Knox County / ZIP 43022 sector", "Knox County / coords 40.3800, -82.3900", "Knox County / elevation 1070 ft band"]
+zillowHomeValueUsd: 371662
 ---
 
 **Engineering Notice for Gambier:** structural drying capacity optimized for 1070ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Knox County. Relative Humidity Threshold: 77%. Sensor sync: Active.

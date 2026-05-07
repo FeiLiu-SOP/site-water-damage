@@ -12,6 +12,7 @@ lng: -90.8400
 zipSample: ["52068"]
 zipCodes: ["52068"]
 localPaths: ["Dubuque County / ZIP 52068 sector", "Dubuque County / elevation 1063 ft band", "Dubuque County / primary ZIP 52068", "Dubuque County / coords 42.4500, -90.8400"]
+zillowHomeValueUsd: 428893
 ---
 
 **Engineering Notice for Peosta:** structural drying capacity optimized for 1063ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dubuque County. Relative Humidity Threshold: 70%. Sensor sync: Active.

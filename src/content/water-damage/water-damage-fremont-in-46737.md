@@ -12,6 +12,7 @@ lng: -84.9400
 zipSample: ["46737"]
 zipCodes: ["46737"]
 localPaths: ["Steuben County / ZIP 46737 sector", "Steuben County / coords 41.7300, -84.9400", "Steuben County / elevation 1047 ft band", "Steuben County / primary ZIP 46737"]
+zillowHomeValueUsd: 368235
 ---
 
 **Engineering Notice for Fremont:** structural drying capacity optimized for 1047ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Steuben County. Relative Humidity Threshold: 74%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -80.1700
 zipSample: ["15143"]
 zipCodes: ["15143"]
 localPaths: ["Allegheny County / elevation 1184 ft band", "Allegheny County / primary ZIP 15143", "Allegheny County / coords 40.5900, -80.1700", "Allegheny County / ZIP 15143 sector"]
+zillowHomeValueUsd: 520390
 ---
 
 **Engineering Notice for Bell Acres:** structural drying capacity optimized for 1184ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allegheny County. Relative Humidity Threshold: 77%. Sensor sync: Active.

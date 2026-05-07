@@ -12,6 +12,7 @@ lng: -76.5900
 zipSample: ["17363"]
 zipCodes: ["17363"]
 localPaths: ["York County / primary ZIP 17363", "York County / elevation 879 ft band", "York County / coords 39.7500, -76.5900", "York County / ZIP 17363 sector"]
+zillowHomeValueUsd: 387052
 ---
 
 **Engineering Notice for Stewartstown:** structural drying capacity optimized for 879ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: York County. Relative Humidity Threshold: 66%. Sensor sync: Active.

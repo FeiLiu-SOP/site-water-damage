@@ -12,6 +12,7 @@ lng: -75.5300
 zipSample: ["18444"]
 zipCodes: ["18444"]
 localPaths: ["Lackawanna County / coords 41.3400, -75.5300", "Lackawanna County / elevation 1821 ft band", "Lackawanna County / primary ZIP 18444", "Lackawanna County / ZIP 18444 sector"]
+zillowHomeValueUsd: 288589
 ---
 
 **Engineering Notice for Moscow:** structural drying capacity optimized for 1821ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lackawanna County. Relative Humidity Threshold: 68%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -78.9900
 zipSample: ["24538"]
 zipCodes: ["24538"]
 localPaths: ["Campbell County / ZIP 24538 sector", "Campbell County / elevation 856 ft band", "Campbell County / coords 37.3400, -78.9900", "Campbell County / primary ZIP 24538"]
+zillowHomeValueUsd: 290245
 ---
 
 **Engineering Notice for Concord:** structural drying capacity optimized for 856ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Campbell County. Relative Humidity Threshold: 73%. Sensor sync: Active.

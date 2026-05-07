@@ -12,6 +12,7 @@ lng: -93.5700
 zipSample: ["65633"]
 zipCodes: ["65633"]
 localPaths: ["Stone County / ZIP 65633 sector", "Stone County / coords 36.9000, -93.5700", "Stone County / elevation 1129 ft band", "Stone County / primary ZIP 65633"]
+zillowHomeValueUsd: 242319
 ---
 
 **Engineering Notice for Crane:** structural drying capacity optimized for 1129ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stone County. Relative Humidity Threshold: 73%. Sensor sync: Active.

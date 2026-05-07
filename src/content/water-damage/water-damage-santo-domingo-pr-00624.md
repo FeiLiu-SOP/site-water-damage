@@ -12,6 +12,8 @@ lng: -66.7500
 zipSample: ["00624"]
 zipCodes: ["00624"]
 localPaths: ["Peñuelas County / ZIP 00624 sector", "Peñuelas County / elevation 1188 ft band", "Peñuelas County / coords 18.0700, -66.7500", "Peñuelas County / primary ZIP 00624"]
+zillowHomeValueUsd: 360908
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Santo Domingo:** structural drying capacity optimized for 1188ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Peñuelas County. Relative Humidity Threshold: 68%. Sensor sync: Active.

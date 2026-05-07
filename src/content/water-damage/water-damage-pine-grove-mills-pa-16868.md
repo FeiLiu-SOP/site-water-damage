@@ -12,6 +12,7 @@ lng: -77.8900
 zipSample: ["16801", "16868"]
 zipCodes: ["16801", "16868"]
 localPaths: ["Centre County / coords 40.7300, -77.8900", "Centre County / primary ZIP 16868", "Centre County / elevation 1358 ft band", "Centre County / ZIP 16801 sector", "Centre County / ZIP 16868 sector"]
+zillowHomeValueUsd: 305004
 ---
 
 **Engineering Notice for Pine Grove Mills:** structural drying capacity optimized for 1358ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Centre County. Relative Humidity Threshold: 81%. Sensor sync: Active.

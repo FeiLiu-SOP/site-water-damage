@@ -12,6 +12,7 @@ lng: -83.4400
 zipSample: ["31647"]
 zipCodes: ["31647"]
 localPaths: ["Cook County / primary ZIP 31647", "Cook County / coords 31.1700, -83.4400", "Cook County / ZIP 31647 sector", "Cook County / elevation 269 ft band"]
+zillowHomeValueUsd: 125720
 ---
 
 **Engineering Notice for Sparks:** structural drying capacity optimized for 269ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cook County. Relative Humidity Threshold: 80%. Sensor sync: Active.

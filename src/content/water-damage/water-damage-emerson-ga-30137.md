@@ -12,6 +12,7 @@ lng: -84.7500
 zipSample: ["30121", "30120", "30137"]
 zipCodes: ["30120", "30137", "30121"]
 localPaths: ["Bartow County / ZIP 30121 sector", "Bartow County / coords 34.1300, -84.7500", "Bartow County / ZIP 30137 sector", "Bartow County / primary ZIP 30137", "Bartow County / elevation 1109 ft band"]
+zillowHomeValueUsd: 303508
 ---
 
 **Engineering Notice for Emerson:** structural drying capacity optimized for 1109ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bartow County. Relative Humidity Threshold: 71%. Sensor sync: Active.

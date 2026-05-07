@@ -12,6 +12,7 @@ lng: -97.6500
 zipSample: ["76665"]
 zipCodes: ["76665"]
 localPaths: ["Bosque County / primary ZIP 76665", "Bosque County / coords 31.9300, -97.6500", "Bosque County / ZIP 76665 sector", "Bosque County / elevation 771 ft band"]
+zillowHomeValueUsd: 268931
 ---
 
 **Engineering Notice for Meridian:** structural drying capacity optimized for 771ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bosque County. Relative Humidity Threshold: 81%. Sensor sync: Active.

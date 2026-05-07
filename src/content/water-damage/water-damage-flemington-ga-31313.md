@@ -12,6 +12,7 @@ lng: -81.5600
 zipSample: ["31313"]
 zipCodes: ["31313"]
 localPaths: ["Liberty County / primary ZIP 31313", "Liberty County / coords 31.8500, -81.5600", "Liberty County / ZIP 31313 sector", "Liberty County / elevation 59 ft band"]
+zillowHomeValueUsd: 236340
 ---
 
 **Engineering Notice for Flemington:** structural drying capacity optimized for 59ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Liberty County. Relative Humidity Threshold: 68%. Sensor sync: Active.

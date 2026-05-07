@@ -12,6 +12,7 @@ lng: -80.5800
 zipSample: ["29477"]
 zipCodes: ["29477"]
 localPaths: ["Dorchester County / elevation 102 ft band", "Dorchester County / coords 33.1900, -80.5800", "Dorchester County / primary ZIP 29477", "Dorchester County / ZIP 29477 sector"]
+zillowHomeValueUsd: 218154
 ---
 
 **Engineering Notice for St. George:** structural drying capacity optimized for 102ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dorchester County. Relative Humidity Threshold: 66%. Sensor sync: Active.

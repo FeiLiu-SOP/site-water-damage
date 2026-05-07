@@ -12,6 +12,7 @@ lng: -75.5400
 zipSample: ["18104"]
 zipCodes: ["18104"]
 localPaths: ["Lehigh County / elevation 433 ft band", "Lehigh County / coords 40.5900, -75.5400", "Lehigh County / ZIP 18104 sector", "Lehigh County / primary ZIP 18104"]
+zillowHomeValueUsd: 393796
 ---
 
 **Engineering Notice for Cetronia:** structural drying capacity optimized for 433ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lehigh County. Relative Humidity Threshold: 79%. Sensor sync: Active.

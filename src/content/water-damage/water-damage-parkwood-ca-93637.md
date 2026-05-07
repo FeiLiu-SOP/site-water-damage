@@ -12,6 +12,7 @@ lng: -120.0500
 zipSample: ["93637"]
 zipCodes: ["93637"]
 localPaths: ["Madera County / ZIP 93637 sector", "Madera County / primary ZIP 93637", "Madera County / elevation 269 ft band", "Madera County / coords 36.9300, -120.0500"]
+zillowHomeValueUsd: 402711
 ---
 
 **Engineering Notice for Parkwood:** structural drying capacity optimized for 269ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Madera County. Relative Humidity Threshold: 76%. Sensor sync: Active.

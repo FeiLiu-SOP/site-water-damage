@@ -12,6 +12,7 @@ lng: -89.8500
 zipSample: ["54494", "54469"]
 zipCodes: ["54469", "54494"]
 localPaths: ["Wood County / ZIP 54494 sector", "Wood County / elevation 984 ft band", "Wood County / coords 44.3500, -89.8500", "Wood County / primary ZIP 54469", "Wood County / ZIP 54469 sector"]
+zillowHomeValueUsd: 198334
 ---
 
 **Engineering Notice for Port Edwards:** structural drying capacity optimized for 984ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wood County. Relative Humidity Threshold: 79%. Sensor sync: Active.

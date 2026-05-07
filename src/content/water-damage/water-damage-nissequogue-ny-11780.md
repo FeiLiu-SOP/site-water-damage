@@ -12,6 +12,7 @@ lng: -73.1900
 zipSample: ["11780"]
 zipCodes: ["11780"]
 localPaths: ["Suffolk County / ZIP 11780 sector", "Suffolk County / primary ZIP 11780", "Suffolk County / elevation 128 ft band", "Suffolk County / coords 40.9000, -73.1900"]
+zillowHomeValueUsd: 826774
 ---
 
 **Engineering Notice for Nissequogue:** structural drying capacity optimized for 128ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Suffolk County. Relative Humidity Threshold: 69%. Sensor sync: Active.

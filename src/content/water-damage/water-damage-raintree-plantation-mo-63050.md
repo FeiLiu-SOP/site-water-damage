@@ -12,6 +12,7 @@ lng: -90.6000
 zipSample: ["63050"]
 zipCodes: ["63050"]
 localPaths: ["Jefferson County / ZIP 63050 sector", "Jefferson County / primary ZIP 63050", "Jefferson County / coords 38.2500, -90.6000", "Jefferson County / elevation 745 ft band"]
+zillowHomeValueUsd: 315261
 ---
 
 **Engineering Notice for Raintree Plantation:** structural drying capacity optimized for 745ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 67%. Sensor sync: Active.

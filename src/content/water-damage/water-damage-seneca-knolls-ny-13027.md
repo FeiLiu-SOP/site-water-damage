@@ -12,6 +12,7 @@ lng: -76.2900
 zipSample: ["13209", "13027"]
 zipCodes: ["13027", "13209"]
 localPaths: ["Onondaga County / primary ZIP 13027", "Onondaga County / coords 43.1200, -76.2900", "Onondaga County / elevation 413 ft band", "Onondaga County / ZIP 13209 sector", "Onondaga County / ZIP 13027 sector"]
+zillowHomeValueUsd: 324340
 ---
 
 **Engineering Notice for Seneca Knolls:** structural drying capacity optimized for 413ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Onondaga County. Relative Humidity Threshold: 80%. Sensor sync: Active.

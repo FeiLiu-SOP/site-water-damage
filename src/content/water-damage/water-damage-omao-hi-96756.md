@@ -12,6 +12,7 @@ lng: -159.4800
 zipSample: ["96756"]
 zipCodes: ["96756"]
 localPaths: ["Kauai County / primary ZIP 96756", "Kauai County / coords 21.9200, -159.4800", "Kauai County / ZIP 96756 sector", "Kauai County / elevation 449 ft band"]
+zillowHomeValueUsd: 1165007
 ---
 
 **Engineering Notice for Omao:** structural drying capacity optimized for 449ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kauai County. Relative Humidity Threshold: 67%. Sensor sync: Active.

@@ -12,6 +12,8 @@ lng: -67.1200
 zipSample: ["00676"]
 zipCodes: ["00676"]
 localPaths: ["Moca County / elevation 118 ft band", "Moca County / coords 18.3900, -67.1200", "Moca County / ZIP 00676 sector", "Moca County / primary ZIP 00676"]
+zillowHomeValueUsd: 379657
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Los Héroes Comunidad:** structural drying capacity optimized for 118ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Moca County. Relative Humidity Threshold: 74%. Sensor sync: Active.

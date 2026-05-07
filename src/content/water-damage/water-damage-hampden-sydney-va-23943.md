@@ -12,6 +12,8 @@ lng: -78.4700
 zipSample: ["23901", "23943"]
 zipCodes: ["23901", "23943"]
 localPaths: ["Prince Edward County / coords 37.2400, -78.4700", "Prince Edward County / elevation 535 ft band", "Prince Edward County / primary ZIP 23943", "Prince Edward County / ZIP 23901 sector", "Prince Edward County / ZIP 23943 sector"]
+zillowHomeValueUsd: 373892
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Hampden-Sydney:** structural drying capacity optimized for 535ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Prince Edward County. Relative Humidity Threshold: 71%. Sensor sync: Active.

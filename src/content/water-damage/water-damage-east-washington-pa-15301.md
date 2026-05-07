@@ -12,6 +12,7 @@ lng: -80.2300
 zipSample: ["15301"]
 zipCodes: ["15301"]
 localPaths: ["Washington County / ZIP 15301 sector", "Washington County / elevation 1155 ft band", "Washington County / primary ZIP 15301", "Washington County / coords 40.1700, -80.2300"]
+zillowHomeValueUsd: 233761
 ---
 
 **Engineering Notice for East Washington:** structural drying capacity optimized for 1155ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 76%. Sensor sync: Active.

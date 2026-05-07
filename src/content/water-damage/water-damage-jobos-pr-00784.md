@@ -12,6 +12,8 @@ lng: -66.1700
 zipSample: ["00784"]
 zipCodes: ["00784"]
 localPaths: ["Guayama County / elevation 36 ft band", "Guayama County / ZIP 00784 sector", "Guayama County / primary ZIP 00784", "Guayama County / coords 17.9600, -66.1700"]
+zillowHomeValueUsd: 351655
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Jobos:** structural drying capacity optimized for 36ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Guayama County. Relative Humidity Threshold: 73%. Sensor sync: Active.

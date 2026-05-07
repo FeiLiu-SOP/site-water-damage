@@ -12,6 +12,7 @@ lng: -91.4300
 zipSample: ["65041"]
 zipCodes: ["65041"]
 localPaths: ["Gasconade County / elevation 666 ft band", "Gasconade County / ZIP 65041 sector", "Gasconade County / primary ZIP 65041", "Gasconade County / coords 38.7000, -91.4300"]
+zillowHomeValueUsd: 256979
 ---
 
 **Engineering Notice for Hermann:** structural drying capacity optimized for 666ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gasconade County. Relative Humidity Threshold: 76%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -74.9200
 zipSample: ["19047", "19048", "19049"]
 zipCodes: ["19048", "19047", "19049"]
 localPaths: ["Bucks County / elevation 233 ft band", "Bucks County / ZIP 19049 sector", "Bucks County / primary ZIP 19047", "Bucks County / ZIP 19047 sector", "Bucks County / ZIP 19048 sector"]
+zillowHomeValueUsd: 560834
 ---
 
 **Engineering Notice for Langhorne:** structural drying capacity optimized for 233ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bucks County. Relative Humidity Threshold: 67%. Sensor sync: Active.

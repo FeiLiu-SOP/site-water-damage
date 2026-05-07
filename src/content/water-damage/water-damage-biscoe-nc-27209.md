@@ -12,6 +12,7 @@ lng: -79.7800
 zipSample: ["27209"]
 zipCodes: ["27209"]
 localPaths: ["Montgomery County / elevation 607 ft band", "Montgomery County / primary ZIP 27209", "Montgomery County / ZIP 27209 sector", "Montgomery County / coords 35.3600, -79.7800"]
+zillowHomeValueUsd: 161189
 ---
 
 **Engineering Notice for Biscoe:** structural drying capacity optimized for 607ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Montgomery County. Relative Humidity Threshold: 85%. Sensor sync: Active.

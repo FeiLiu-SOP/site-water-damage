@@ -12,6 +12,7 @@ lng: -81.5000
 zipSample: ["28612"]
 zipCodes: ["28612"]
 localPaths: ["Burke County / primary ZIP 28612", "Burke County / ZIP 28612 sector", "Burke County / elevation 1273 ft band", "Burke County / coords 35.7600, -81.5000"]
+zillowHomeValueUsd: 237895
 ---
 
 **Engineering Notice for Connelly Springs:** structural drying capacity optimized for 1273ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Burke County. Relative Humidity Threshold: 80%. Sensor sync: Active.

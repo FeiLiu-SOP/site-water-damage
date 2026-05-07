@@ -12,6 +12,7 @@ lng: -75.3800
 zipSample: ["13323"]
 zipCodes: ["13323"]
 localPaths: ["Oneida County / elevation 610 ft band", "Oneida County / coords 43.0500, -75.3800", "Oneida County / primary ZIP 13323", "Oneida County / ZIP 13323 sector"]
+zillowHomeValueUsd: 297039
 ---
 
 **Engineering Notice for Clinton:** structural drying capacity optimized for 610ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Oneida County. Relative Humidity Threshold: 84%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -78.3700
 zipSample: ["15537"]
 zipCodes: ["15537"]
 localPaths: ["Bedford County / coords 40.0100, -78.3700", "Bedford County / ZIP 15537 sector", "Bedford County / primary ZIP 15537", "Bedford County / elevation 1109 ft band"]
+zillowHomeValueUsd: 205677
 ---
 
 **Engineering Notice for Everett:** structural drying capacity optimized for 1109ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bedford County. Relative Humidity Threshold: 73%. Sensor sync: Active.

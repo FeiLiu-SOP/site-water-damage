@@ -12,6 +12,7 @@ lng: -88.4700
 zipSample: ["61911"]
 zipCodes: ["61911"]
 localPaths: ["Douglas County / primary ZIP 61911", "Douglas County / coords 39.7100, -88.4700", "Douglas County / ZIP 61911 sector", "Douglas County / elevation 666 ft band"]
+zillowHomeValueUsd: 194301
 ---
 
 **Engineering Notice for Arthur:** structural drying capacity optimized for 666ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Douglas County. Relative Humidity Threshold: 74%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -74.4800
 zipSample: ["07418", "07461"]
 zipCodes: ["07461", "07418"]
 localPaths: ["Sussex County / ZIP 07418 sector", "Sussex County / ZIP 07461 sector", "Sussex County / coords 41.2400, -74.4800", "Sussex County / primary ZIP 07461", "Sussex County / elevation 617 ft band"]
+zillowHomeValueUsd: 447842
 ---
 
 **Engineering Notice for Vernon Valley:** structural drying capacity optimized for 617ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sussex County. Relative Humidity Threshold: 74%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -108.7800
 zipSample: ["81648"]
 zipCodes: ["81648"]
 localPaths: ["Rio Blanco County / coords 40.0900, -108.7800", "Rio Blanco County / elevation 5276 ft band", "Rio Blanco County / ZIP 81648 sector", "Rio Blanco County / primary ZIP 81648"]
+zillowHomeValueUsd: 226731
 ---
 
 **Engineering Notice for Rangely:** structural drying capacity optimized for 5276ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rio Blanco County. Relative Humidity Threshold: 66%. Sensor sync: Active.

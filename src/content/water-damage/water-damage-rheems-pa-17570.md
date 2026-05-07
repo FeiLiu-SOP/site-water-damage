@@ -12,6 +12,8 @@ lng: -76.5700
 zipSample: ["17570", "17022", "17552"]
 zipCodes: ["17552", "17022", "17570"]
 localPaths: ["Lancaster County / primary ZIP 17570", "Lancaster County / ZIP 17570 sector", "Lancaster County / ZIP 17022 sector", "Lancaster County / coords 40.1300, -76.5700", "Lancaster County / ZIP 17552 sector"]
+zillowHomeValueUsd: 276508
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Rheems:** structural drying capacity optimized for 400ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lancaster County. Relative Humidity Threshold: 70%. Sensor sync: Active.

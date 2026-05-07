@@ -12,6 +12,7 @@ lng: -99.1300
 zipSample: ["76823"]
 zipCodes: ["76823"]
 localPaths: ["Brown County / coords 31.7200, -99.1300", "Brown County / elevation 1614 ft band", "Brown County / primary ZIP 76823", "Brown County / ZIP 76823 sector"]
+zillowHomeValueUsd: 170021
 ---
 
 **Engineering Notice for Bangs:** structural drying capacity optimized for 1614ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Brown County. Relative Humidity Threshold: 78%. Sensor sync: Active.

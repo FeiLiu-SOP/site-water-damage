@@ -12,6 +12,7 @@ lng: -90.0600
 zipSample: ["38921"]
 zipCodes: ["38921"]
 localPaths: ["Tallahatchie County / primary ZIP 38921", "Tallahatchie County / elevation 213 ft band", "Tallahatchie County / coords 34.0100, -90.0600", "Tallahatchie County / ZIP 38921 sector"]
+zillowHomeValueUsd: 99975
 ---
 
 **Engineering Notice for Charleston:** structural drying capacity optimized for 213ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tallahatchie County. Relative Humidity Threshold: 67%. Sensor sync: Active.

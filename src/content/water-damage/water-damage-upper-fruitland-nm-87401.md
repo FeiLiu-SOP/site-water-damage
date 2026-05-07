@@ -12,6 +12,7 @@ lng: -108.3200
 zipSample: ["87416", "87401"]
 zipCodes: ["87401", "87416"]
 localPaths: ["San Juan County / primary ZIP 87401", "San Juan County / ZIP 87401 sector", "San Juan County / coords 36.7200, -108.3200", "San Juan County / ZIP 87416 sector", "San Juan County / elevation 5174 ft band"]
+zillowHomeValueUsd: 265347
 ---
 
 **Engineering Notice for Upper Fruitland:** structural drying capacity optimized for 5174ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Juan County. Relative Humidity Threshold: 72%. Sensor sync: Active.

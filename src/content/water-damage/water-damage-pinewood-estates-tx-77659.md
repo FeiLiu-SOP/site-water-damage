@@ -12,6 +12,7 @@ lng: -94.3200
 zipSample: ["77659"]
 zipCodes: ["77659"]
 localPaths: ["Hardin County / coords 30.1700, -94.3200", "Hardin County / primary ZIP 77659", "Hardin County / ZIP 77659 sector", "Hardin County / elevation 62 ft band"]
+zillowHomeValueUsd: 269160
 ---
 
 **Engineering Notice for Pinewood Estates:** structural drying capacity optimized for 62ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hardin County. Relative Humidity Threshold: 69%. Sensor sync: Active.

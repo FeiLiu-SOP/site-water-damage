@@ -12,6 +12,7 @@ lng: -92.3100
 zipSample: ["52224"]
 zipCodes: ["52224"]
 localPaths: ["Tama County / elevation 965 ft band", "Tama County / primary ZIP 52224", "Tama County / ZIP 52224 sector", "Tama County / coords 42.1700, -92.3100"]
+zillowHomeValueUsd: 248268
 ---
 
 **Engineering Notice for Dysart:** structural drying capacity optimized for 965ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tama County. Relative Humidity Threshold: 85%. Sensor sync: Active.

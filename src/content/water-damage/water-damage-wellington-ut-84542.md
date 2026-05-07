@@ -12,6 +12,8 @@ lng: -110.7300
 zipSample: ["84501", "84542"]
 zipCodes: ["84501", "84542"]
 localPaths: ["Carbon County / coords 39.5400, -110.7300", "Carbon County / ZIP 84542 sector", "Carbon County / elevation 5394 ft band", "Carbon County / primary ZIP 84542", "Carbon County / ZIP 84501 sector"]
+zillowHomeValueUsd: 518756
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Wellington:** structural drying capacity optimized for 5394ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Carbon County. Relative Humidity Threshold: 78%. Sensor sync: Active.

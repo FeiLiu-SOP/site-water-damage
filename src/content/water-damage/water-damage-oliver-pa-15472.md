@@ -12,6 +12,8 @@ lng: -79.7200
 zipSample: ["15472", "15401"]
 zipCodes: ["15472", "15401"]
 localPaths: ["Fayette County / primary ZIP 15472", "Fayette County / coords 39.9200, -79.7200", "Fayette County / elevation 958 ft band", "Fayette County / ZIP 15401 sector", "Fayette County / ZIP 15472 sector"]
+zillowHomeValueUsd: 264774
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Oliver:** structural drying capacity optimized for 958ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fayette County. Relative Humidity Threshold: 79%. Sensor sync: Active.

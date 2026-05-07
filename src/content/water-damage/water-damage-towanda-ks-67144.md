@@ -12,6 +12,7 @@ lng: -97.0000
 zipSample: ["67144"]
 zipCodes: ["67144"]
 localPaths: ["Butler County / ZIP 67144 sector", "Butler County / coords 37.8000, -97.0000", "Butler County / primary ZIP 67144", "Butler County / elevation 1312 ft band"]
+zillowHomeValueUsd: 239607
 ---
 
 **Engineering Notice for Towanda:** structural drying capacity optimized for 1312ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Butler County. Relative Humidity Threshold: 65%. Sensor sync: Active.

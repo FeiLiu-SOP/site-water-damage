@@ -12,6 +12,7 @@ lng: -87.8500
 zipSample: ["60448"]
 zipCodes: ["60448"]
 localPaths: ["Will County / coords 41.5400, -87.8500", "Will County / elevation 728 ft band", "Will County / ZIP 60448 sector", "Will County / primary ZIP 60448"]
+zillowHomeValueUsd: 438005
 ---
 
 **Engineering Notice for Arbury Hills:** structural drying capacity optimized for 728ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Will County. Relative Humidity Threshold: 73%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -97.4300
 zipSample: ["57029"]
 zipCodes: ["57029"]
 localPaths: ["Hutchinson County / ZIP 57029 sector", "Hutchinson County / coords 43.3500, -97.4300", "Hutchinson County / elevation 1529 ft band", "Hutchinson County / primary ZIP 57029"]
+zillowHomeValueUsd: 243957
 ---
 
 **Engineering Notice for Freeman:** structural drying capacity optimized for 1529ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hutchinson County. Relative Humidity Threshold: 78%. Sensor sync: Active.

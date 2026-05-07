@@ -12,6 +12,7 @@ lng: -84.6700
 zipSample: ["32322"]
 zipCodes: ["32322"]
 localPaths: ["Franklin County / ZIP 32322 sector", "Franklin County / coords 29.8600, -84.6700", "Franklin County / primary ZIP 32322", "Franklin County / elevation 46 ft band"]
+zillowHomeValueUsd: 282234
 ---
 
 **Engineering Notice for Carrabelle:** structural drying capacity optimized for 46ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Franklin County. Relative Humidity Threshold: 80%. Sensor sync: Active.

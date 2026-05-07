@@ -12,6 +12,7 @@ lng: -73.9100
 zipSample: ["10960"]
 zipCodes: ["10960"]
 localPaths: ["Rockland County / coords 41.1100, -73.9100", "Rockland County / ZIP 10960 sector", "Rockland County / elevation 0 ft band", "Rockland County / primary ZIP 10960"]
+zillowHomeValueUsd: 754784
 ---
 
 **Engineering Notice for Upper Nyack:** structural drying capacity optimized for 0ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rockland County. Relative Humidity Threshold: 73%. Sensor sync: Active.

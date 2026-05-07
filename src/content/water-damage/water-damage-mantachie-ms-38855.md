@@ -12,6 +12,7 @@ lng: -88.5000
 zipSample: ["38855"]
 zipCodes: ["38855"]
 localPaths: ["Itawamba County / primary ZIP 38855", "Itawamba County / elevation 364 ft band", "Itawamba County / coords 34.3300, -88.5000", "Itawamba County / ZIP 38855 sector"]
+zillowHomeValueUsd: 166726
 ---
 
 **Engineering Notice for Mantachie:** structural drying capacity optimized for 364ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Itawamba County. Relative Humidity Threshold: 83%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -86.7700
 zipSample: ["47460"]
 zipCodes: ["47460"]
 localPaths: ["Owen County / coords 39.2900, -86.7700", "Owen County / ZIP 47460 sector", "Owen County / elevation 558 ft band", "Owen County / primary ZIP 47460"]
+zillowHomeValueUsd: 248954
 ---
 
 **Engineering Notice for Spencer:** structural drying capacity optimized for 558ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Owen County. Relative Humidity Threshold: 83%. Sensor sync: Active.

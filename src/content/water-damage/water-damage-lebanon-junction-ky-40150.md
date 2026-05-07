@@ -12,6 +12,7 @@ lng: -85.7200
 zipSample: ["40150"]
 zipCodes: ["40150"]
 localPaths: ["Bullitt County / elevation 554 ft band", "Bullitt County / coords 37.8400, -85.7200", "Bullitt County / ZIP 40150 sector", "Bullitt County / primary ZIP 40150"]
+zillowHomeValueUsd: 240992
 ---
 
 **Engineering Notice for Lebanon Junction:** structural drying capacity optimized for 554ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bullitt County. Relative Humidity Threshold: 67%. Sensor sync: Active.

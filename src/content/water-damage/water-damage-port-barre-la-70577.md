@@ -12,6 +12,7 @@ lng: -91.9600
 zipSample: ["70577"]
 zipCodes: ["70577"]
 localPaths: ["St. Landry Parish / coords 30.5600, -91.9600", "St. Landry Parish / primary ZIP 70577", "St. Landry Parish / ZIP 70577 sector", "St. Landry Parish / elevation 43 ft band"]
+zillowHomeValueUsd: 122634
 ---
 
 **Engineering Notice for Port Barre:** structural drying capacity optimized for 43ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Landry Parish. Relative Humidity Threshold: 79%. Sensor sync: Active.

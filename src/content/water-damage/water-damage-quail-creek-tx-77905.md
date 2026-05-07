@@ -12,6 +12,7 @@ lng: -97.0800
 zipSample: ["77905"]
 zipCodes: ["77905"]
 localPaths: ["Victoria County / coords 28.7800, -97.0800", "Victoria County / ZIP 77905 sector", "Victoria County / primary ZIP 77905", "Victoria County / elevation 115 ft band"]
+zillowHomeValueUsd: 260385
 ---
 
 **Engineering Notice for Quail Creek:** structural drying capacity optimized for 115ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Victoria County. Relative Humidity Threshold: 84%. Sensor sync: Active.

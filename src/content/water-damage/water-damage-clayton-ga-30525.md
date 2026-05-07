@@ -12,6 +12,7 @@ lng: -83.4000
 zipSample: ["30525"]
 zipCodes: ["30525"]
 localPaths: ["Rabun County / primary ZIP 30525", "Rabun County / coords 34.8800, -83.4000", "Rabun County / elevation 1939 ft band", "Rabun County / ZIP 30525 sector"]
+zillowHomeValueUsd: 357295
 ---
 
 **Engineering Notice for Clayton:** structural drying capacity optimized for 1939ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rabun County. Relative Humidity Threshold: 73%. Sensor sync: Active.

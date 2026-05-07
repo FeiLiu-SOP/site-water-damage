@@ -12,6 +12,8 @@ lng: -65.8500
 zipSample: ["00791", "00771"]
 zipCodes: ["00771", "00791"]
 localPaths: ["Humacao County / ZIP 00791 sector", "Humacao County / primary ZIP 00771", "Humacao County / ZIP 00771 sector", "Humacao County / coords 18.1700, -65.8500", "Humacao County / elevation 420 ft band"]
+zillowHomeValueUsd: 358444
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for La Fermina:** structural drying capacity optimized for 420ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Humacao County. Relative Humidity Threshold: 84%. Sensor sync: Active.

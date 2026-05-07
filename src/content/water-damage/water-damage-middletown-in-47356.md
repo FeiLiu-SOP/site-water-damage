@@ -12,6 +12,7 @@ lng: -85.5400
 zipSample: ["47356"]
 zipCodes: ["47356"]
 localPaths: ["Henry County / primary ZIP 47356", "Henry County / elevation 978 ft band", "Henry County / ZIP 47356 sector", "Henry County / coords 40.0600, -85.5400"]
+zillowHomeValueUsd: 240005
 ---
 
 **Engineering Notice for Middletown:** structural drying capacity optimized for 978ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Henry County. Relative Humidity Threshold: 72%. Sensor sync: Active.

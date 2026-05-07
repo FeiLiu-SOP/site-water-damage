@@ -12,6 +12,7 @@ lng: -85.4600
 zipSample: ["36016"]
 zipCodes: ["36016"]
 localPaths: ["Barbour County / elevation 584 ft band", "Barbour County / ZIP 36016 sector", "Barbour County / coords 31.8800, -85.4600", "Barbour County / primary ZIP 36016"]
+zillowHomeValueUsd: 111970
 ---
 
 **Engineering Notice for Clayton:** structural drying capacity optimized for 584ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Barbour County. Relative Humidity Threshold: 69%. Sensor sync: Active.

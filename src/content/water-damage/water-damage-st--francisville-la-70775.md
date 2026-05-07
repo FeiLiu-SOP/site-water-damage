@@ -12,6 +12,7 @@ lng: -91.3800
 zipSample: ["70775"]
 zipCodes: ["70775"]
 localPaths: ["West Feliciana Parish / coords 30.7900, -91.3800", "West Feliciana Parish / primary ZIP 70775", "West Feliciana Parish / elevation 154 ft band", "West Feliciana Parish / ZIP 70775 sector"]
+zillowHomeValueUsd: 379138
 ---
 
 **Engineering Notice for St. Francisville:** structural drying capacity optimized for 154ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: West Feliciana Parish. Relative Humidity Threshold: 69%. Sensor sync: Active.

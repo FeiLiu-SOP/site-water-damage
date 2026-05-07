@@ -12,6 +12,7 @@ lng: -88.8000
 zipSample: ["38230"]
 zipCodes: ["38230"]
 localPaths: ["Weakley County / primary ZIP 38230", "Weakley County / coords 36.1600, -88.8000", "Weakley County / elevation 440 ft band", "Weakley County / ZIP 38230 sector"]
+zillowHomeValueUsd: 153693
 ---
 
 **Engineering Notice for Greenfield:** structural drying capacity optimized for 440ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Weakley County. Relative Humidity Threshold: 76%. Sensor sync: Active.

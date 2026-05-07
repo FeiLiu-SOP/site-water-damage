@@ -12,6 +12,7 @@ lng: -98.6200
 zipSample: ["78357"]
 zipCodes: ["78357"]
 localPaths: ["Duval County / ZIP 78357 sector", "Duval County / coords 27.8800, -98.6200", "Duval County / elevation 525 ft band", "Duval County / primary ZIP 78357"]
+zillowHomeValueUsd: 80752
 ---
 
 **Engineering Notice for Freer:** structural drying capacity optimized for 525ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Duval County. Relative Humidity Threshold: 73%. Sensor sync: Active.

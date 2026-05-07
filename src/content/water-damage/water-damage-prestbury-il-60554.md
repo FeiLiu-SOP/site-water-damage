@@ -12,6 +12,7 @@ lng: -88.4200
 zipSample: ["60554"]
 zipCodes: ["60554"]
 localPaths: ["Kane County / primary ZIP 60554", "Kane County / coords 41.7800, -88.4200", "Kane County / elevation 719 ft band", "Kane County / ZIP 60554 sector"]
+zillowHomeValueUsd: 445551
 ---
 
 **Engineering Notice for Prestbury:** structural drying capacity optimized for 719ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kane County. Relative Humidity Threshold: 65%. Sensor sync: Active.

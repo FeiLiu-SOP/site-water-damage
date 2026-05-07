@@ -12,6 +12,7 @@ lng: -79.7000
 zipSample: ["16301", "16346"]
 zipCodes: ["16346", "16301"]
 localPaths: ["Venango County / elevation 1473 ft band", "Venango County / primary ZIP 16301", "Venango County / coords 41.4100, -79.7000", "Venango County / ZIP 16301 sector", "Venango County / ZIP 16346 sector"]
+zillowHomeValueUsd: 87096
 ---
 
 **Engineering Notice for Woodland Heights:** structural drying capacity optimized for 1473ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Venango County. Relative Humidity Threshold: 65%. Sensor sync: Active.

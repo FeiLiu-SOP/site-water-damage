@@ -12,6 +12,7 @@ lng: -122.7600
 zipSample: ["97224"]
 zipCodes: ["97224"]
 localPaths: ["Washington County / coords 45.3900, -122.7600", "Washington County / ZIP 97224 sector", "Washington County / elevation 226 ft band", "Washington County / primary ZIP 97224"]
+zillowHomeValueUsd: 607974
 ---
 
 **Engineering Notice for Durham:** structural drying capacity optimized for 226ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 77%. Sensor sync: Active.

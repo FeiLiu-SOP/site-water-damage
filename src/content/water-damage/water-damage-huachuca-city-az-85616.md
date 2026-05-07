@@ -12,6 +12,7 @@ lng: -110.3400
 zipSample: ["85616"]
 zipCodes: ["85616"]
 localPaths: ["Cochise County / ZIP 85616 sector", "Cochise County / primary ZIP 85616", "Cochise County / elevation 4367 ft band", "Cochise County / coords 31.6300, -110.3400"]
+zillowHomeValueUsd: 218489
 ---
 
 **Engineering Notice for Huachuca City:** structural drying capacity optimized for 4367ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cochise County. Relative Humidity Threshold: 75%. Sensor sync: Active.

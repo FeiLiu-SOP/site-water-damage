@@ -12,6 +12,7 @@ lng: -96.9900
 zipSample: ["76227"]
 zipCodes: ["76227"]
 localPaths: ["Denton County / elevation 702 ft band", "Denton County / primary ZIP 76227", "Denton County / ZIP 76227 sector", "Denton County / coords 33.2800, -96.9900"]
+zillowHomeValueUsd: 364119
 ---
 
 **Engineering Notice for Krugerville:** structural drying capacity optimized for 702ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Denton County. Relative Humidity Threshold: 70%. Sensor sync: Active.

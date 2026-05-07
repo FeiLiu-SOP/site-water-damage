@@ -12,6 +12,7 @@ lng: -82.7300
 zipSample: ["33707"]
 zipCodes: ["33707"]
 localPaths: ["Pinellas County / primary ZIP 33707", "Pinellas County / ZIP 33707 sector", "Pinellas County / elevation 16 ft band", "Pinellas County / coords 27.7500, -82.7300"]
+zillowHomeValueUsd: 361633
 ---
 
 **Engineering Notice for Bear Creek:** structural drying capacity optimized for 16ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pinellas County. Relative Humidity Threshold: 65%. Sensor sync: Active.

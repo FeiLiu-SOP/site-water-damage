@@ -12,6 +12,7 @@ lng: -76.7300
 zipSample: ["17737"]
 zipCodes: ["17737"]
 localPaths: ["Lycoming County / ZIP 17737 sector", "Lycoming County / elevation 584 ft band", "Lycoming County / coords 41.2400, -76.7300", "Lycoming County / primary ZIP 17737"]
+zillowHomeValueUsd: 250742
 ---
 
 **Engineering Notice for Hughesville:** structural drying capacity optimized for 584ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lycoming County. Relative Humidity Threshold: 67%. Sensor sync: Active.

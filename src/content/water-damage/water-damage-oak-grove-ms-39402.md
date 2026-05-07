@@ -12,6 +12,7 @@ lng: -89.4100
 zipSample: ["39402"]
 zipCodes: ["39402"]
 localPaths: ["Lamar County / ZIP 39402 sector", "Lamar County / elevation 410 ft band", "Lamar County / primary ZIP 39402", "Lamar County / coords 31.2900, -89.4100"]
+zillowHomeValueUsd: 276476
 ---
 
 **Engineering Notice for Oak Grove:** structural drying capacity optimized for 410ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lamar County. Relative Humidity Threshold: 80%. Sensor sync: Active.

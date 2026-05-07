@@ -12,6 +12,8 @@ lng: -87.8700
 zipSample: ["62466"]
 zipCodes: ["62466"]
 localPaths: ["Lawrence County / elevation 466 ft band", "Lawrence County / ZIP 62466 sector", "Lawrence County / coords 38.7200, -87.8700", "Lawrence County / primary ZIP 62466"]
+zillowHomeValueUsd: 228574
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Sumner:** structural drying capacity optimized for 466ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lawrence County. Relative Humidity Threshold: 79%. Sensor sync: Active.

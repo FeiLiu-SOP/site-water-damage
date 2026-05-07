@@ -12,6 +12,7 @@ lng: -81.4200
 zipSample: ["31320"]
 zipCodes: ["31320"]
 localPaths: ["Liberty County / elevation 26 ft band", "Liberty County / ZIP 31320 sector", "Liberty County / coords 31.8000, -81.4200", "Liberty County / primary ZIP 31320"]
+zillowHomeValueUsd: 288660
 ---
 
 **Engineering Notice for Midway:** structural drying capacity optimized for 26ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Liberty County. Relative Humidity Threshold: 84%. Sensor sync: Active.

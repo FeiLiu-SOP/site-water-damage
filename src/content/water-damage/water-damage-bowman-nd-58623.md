@@ -12,6 +12,7 @@ lng: -103.4000
 zipSample: ["58623"]
 zipCodes: ["58623"]
 localPaths: ["Bowman County / ZIP 58623 sector", "Bowman County / elevation 2963 ft band", "Bowman County / primary ZIP 58623", "Bowman County / coords 46.1800, -103.4000"]
+zillowHomeValueUsd: 192204
 ---
 
 **Engineering Notice for Bowman:** structural drying capacity optimized for 2963ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bowman County. Relative Humidity Threshold: 84%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -99.2400
 zipSample: ["78025"]
 zipCodes: ["78025"]
 localPaths: ["Kerr County / coords 30.0800, -99.2400", "Kerr County / elevation 1742 ft band", "Kerr County / ZIP 78025 sector", "Kerr County / primary ZIP 78025"]
+zillowHomeValueUsd: 374659
 ---
 
 **Engineering Notice for Ingram:** structural drying capacity optimized for 1742ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kerr County. Relative Humidity Threshold: 76%. Sensor sync: Active.

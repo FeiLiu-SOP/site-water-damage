@@ -12,6 +12,7 @@ lng: -84.1500
 zipSample: ["48655"]
 zipCodes: ["48655"]
 localPaths: ["Saginaw County / primary ZIP 48655", "Saginaw County / ZIP 48655 sector", "Saginaw County / elevation 617 ft band", "Saginaw County / coords 43.3000, -84.1500"]
+zillowHomeValueUsd: 196682
 ---
 
 **Engineering Notice for St. Charles:** structural drying capacity optimized for 617ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Saginaw County. Relative Humidity Threshold: 75%. Sensor sync: Active.

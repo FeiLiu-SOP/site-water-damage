@@ -12,6 +12,7 @@ lng: -89.8300
 zipSample: ["61046"]
 zipCodes: ["61046"]
 localPaths: ["Carroll County / elevation 879 ft band", "Carroll County / coords 42.1000, -89.8300", "Carroll County / primary ZIP 61046", "Carroll County / ZIP 61046 sector"]
+zillowHomeValueUsd: 316864
 ---
 
 **Engineering Notice for Lanark:** structural drying capacity optimized for 879ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Carroll County. Relative Humidity Threshold: 73%. Sensor sync: Active.

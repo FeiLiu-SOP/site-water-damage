@@ -12,6 +12,7 @@ lng: -85.9400
 zipSample: ["49451"]
 zipCodes: ["49451"]
 localPaths: ["Muskegon County / coords 43.1900, -85.9400", "Muskegon County / ZIP 49451 sector", "Muskegon County / elevation 696 ft band", "Muskegon County / primary ZIP 49451"]
+zillowHomeValueUsd: 294977
 ---
 
 **Engineering Notice for Ravenna:** structural drying capacity optimized for 696ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Muskegon County. Relative Humidity Threshold: 78%. Sensor sync: Active.

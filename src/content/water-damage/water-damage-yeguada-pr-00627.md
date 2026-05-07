@@ -12,6 +12,8 @@ lng: -66.8800
 zipSample: ["00627"]
 zipCodes: ["00627"]
 localPaths: ["Camuy County / ZIP 00627 sector", "Camuy County / primary ZIP 00627", "Camuy County / elevation 125 ft band", "Camuy County / coords 18.4800, -66.8800"]
+zillowHomeValueUsd: 367897
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Yeguada:** structural drying capacity optimized for 125ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Camuy County. Relative Humidity Threshold: 79%. Sensor sync: Active.

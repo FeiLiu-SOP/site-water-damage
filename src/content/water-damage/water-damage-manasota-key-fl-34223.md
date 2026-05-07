@@ -12,6 +12,7 @@ lng: -82.3500
 zipSample: ["34223"]
 zipCodes: ["34223"]
 localPaths: ["Charlotte County / elevation 16 ft band", "Charlotte County / coords 26.9200, -82.3500", "Charlotte County / ZIP 34223 sector", "Charlotte County / primary ZIP 34223"]
+zillowHomeValueUsd: 372642
 ---
 
 **Engineering Notice for Manasota Key:** structural drying capacity optimized for 16ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Charlotte County. Relative Humidity Threshold: 78%. Sensor sync: Active.

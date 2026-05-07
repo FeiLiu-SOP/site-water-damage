@@ -12,6 +12,7 @@ lng: -121.2300
 zipSample: ["96020"]
 zipCodes: ["96020"]
 localPaths: ["Plumas County / coords 40.3000, -121.2300", "Plumas County / primary ZIP 96020", "Plumas County / ZIP 96020 sector", "Plumas County / elevation 4537 ft band"]
+zillowHomeValueUsd: 345402
 ---
 
 **Engineering Notice for Chester:** structural drying capacity optimized for 4537ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Plumas County. Relative Humidity Threshold: 85%. Sensor sync: Active.

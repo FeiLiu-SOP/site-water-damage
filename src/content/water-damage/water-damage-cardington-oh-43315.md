@@ -12,6 +12,7 @@ lng: -82.8900
 zipSample: ["43315"]
 zipCodes: ["43315"]
 localPaths: ["Morrow County / ZIP 43315 sector", "Morrow County / primary ZIP 43315", "Morrow County / elevation 1014 ft band", "Morrow County / coords 40.5000, -82.8900"]
+zillowHomeValueUsd: 270195
 ---
 
 **Engineering Notice for Cardington:** structural drying capacity optimized for 1014ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Morrow County. Relative Humidity Threshold: 74%. Sensor sync: Active.

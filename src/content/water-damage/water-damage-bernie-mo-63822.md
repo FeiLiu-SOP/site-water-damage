@@ -12,6 +12,7 @@ lng: -89.9700
 zipSample: ["63822"]
 zipCodes: ["63822"]
 localPaths: ["Stoddard County / elevation 315 ft band", "Stoddard County / primary ZIP 63822", "Stoddard County / coords 36.6700, -89.9700", "Stoddard County / ZIP 63822 sector"]
+zillowHomeValueUsd: 108505
 ---
 
 **Engineering Notice for Bernie:** structural drying capacity optimized for 315ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stoddard County. Relative Humidity Threshold: 82%. Sensor sync: Active.

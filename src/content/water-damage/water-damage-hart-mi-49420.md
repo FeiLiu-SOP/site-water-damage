@@ -12,6 +12,7 @@ lng: -86.3700
 zipSample: ["49420"]
 zipCodes: ["49420"]
 localPaths: ["Oceana County / elevation 682 ft band", "Oceana County / coords 43.7000, -86.3700", "Oceana County / primary ZIP 49420", "Oceana County / ZIP 49420 sector"]
+zillowHomeValueUsd: 214555
 ---
 
 **Engineering Notice for Hart:** structural drying capacity optimized for 682ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Oceana County. Relative Humidity Threshold: 77%. Sensor sync: Active.

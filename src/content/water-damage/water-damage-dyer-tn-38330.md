@@ -12,6 +12,7 @@ lng: -88.9900
 zipSample: ["38330"]
 zipCodes: ["38330"]
 localPaths: ["Gibson County / ZIP 38330 sector", "Gibson County / elevation 344 ft band", "Gibson County / coords 36.0700, -88.9900", "Gibson County / primary ZIP 38330"]
+zillowHomeValueUsd: 147183
 ---
 
 **Engineering Notice for Dyer:** structural drying capacity optimized for 344ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gibson County. Relative Humidity Threshold: 85%. Sensor sync: Active.

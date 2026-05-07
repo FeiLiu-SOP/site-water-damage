@@ -12,6 +12,7 @@ lng: -88.0000
 zipSample: ["62844"]
 zipCodes: ["62844"]
 localPaths: ["White County / elevation 436 ft band", "White County / ZIP 62844 sector", "White County / coords 38.2600, -88.0000", "White County / primary ZIP 62844"]
+zillowHomeValueUsd: 77822
 ---
 
 **Engineering Notice for Grayville:** structural drying capacity optimized for 436ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: White County. Relative Humidity Threshold: 79%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -80.8200
 zipSample: ["44085", "44084"]
 zipCodes: ["44084", "44085"]
 localPaths: ["Ashtabula County / primary ZIP 44085", "Ashtabula County / elevation 846 ft band", "Ashtabula County / ZIP 44084 sector", "Ashtabula County / ZIP 44085 sector", "Ashtabula County / coords 41.6400, -80.8200"]
+zillowHomeValueUsd: 247168
 ---
 
 **Engineering Notice for Roaming Shores:** structural drying capacity optimized for 846ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ashtabula County. Relative Humidity Threshold: 71%. Sensor sync: Active.

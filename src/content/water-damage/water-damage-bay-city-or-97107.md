@@ -12,6 +12,7 @@ lng: -123.8900
 zipSample: ["97107"]
 zipCodes: ["97107"]
 localPaths: ["Tillamook County / ZIP 97107 sector", "Tillamook County / primary ZIP 97107", "Tillamook County / elevation 118 ft band", "Tillamook County / coords 45.5200, -123.8900"]
+zillowHomeValueUsd: 395269
 ---
 
 **Engineering Notice for Bay City:** structural drying capacity optimized for 118ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tillamook County. Relative Humidity Threshold: 66%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -77.1900
 zipSample: ["17065"]
 zipCodes: ["17065"]
 localPaths: ["Cumberland County / elevation 574 ft band", "Cumberland County / coords 40.1100, -77.1900", "Cumberland County / primary ZIP 17065", "Cumberland County / ZIP 17065 sector"]
+zillowHomeValueUsd: 283061
 ---
 
 **Engineering Notice for Mount Holly Springs:** structural drying capacity optimized for 574ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cumberland County. Relative Humidity Threshold: 69%. Sensor sync: Active.

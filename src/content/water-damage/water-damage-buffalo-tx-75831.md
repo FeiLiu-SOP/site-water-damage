@@ -12,6 +12,7 @@ lng: -96.0700
 zipSample: ["75831"]
 zipCodes: ["75831"]
 localPaths: ["Leon County / ZIP 75831 sector", "Leon County / primary ZIP 75831", "Leon County / coords 31.4600, -96.0700", "Leon County / elevation 387 ft band"]
+zillowHomeValueUsd: 290095
 ---
 
 **Engineering Notice for Buffalo:** structural drying capacity optimized for 387ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Leon County. Relative Humidity Threshold: 73%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -89.8000
 zipSample: ["62009"]
 zipCodes: ["62009"]
 localPaths: ["Macoupin County / primary ZIP 62009", "Macoupin County / ZIP 62009 sector", "Macoupin County / coords 39.0900, -89.8000", "Macoupin County / elevation 623 ft band"]
+zillowHomeValueUsd: 70470
 ---
 
 **Engineering Notice for Benld:** structural drying capacity optimized for 623ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Macoupin County. Relative Humidity Threshold: 65%. Sensor sync: Active.

@@ -12,6 +12,8 @@ lng: -97.3900
 zipSample: ["58205", "58204"]
 zipCodes: ["58205", "58204"]
 localPaths: ["Grand Forks County / ZIP 58205 sector", "Grand Forks County / primary ZIP 58205", "Grand Forks County / coords 47.9600, -97.3900", "Grand Forks County / elevation 896 ft band", "Grand Forks County / ZIP 58204 sector"]
+zillowHomeValueUsd: 251834
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Grand Forks AFB:** structural drying capacity optimized for 896ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grand Forks County. Relative Humidity Threshold: 72%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -95.0600
 zipSample: ["51455"]
 zipCodes: ["51455"]
 localPaths: ["Carroll County / elevation 1352 ft band", "Carroll County / primary ZIP 51455", "Carroll County / ZIP 51455 sector", "Carroll County / coords 41.9100, -95.0600"]
+zillowHomeValueUsd: 186660
 ---
 
 **Engineering Notice for Manning:** structural drying capacity optimized for 1352ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Carroll County. Relative Humidity Threshold: 73%. Sensor sync: Active.

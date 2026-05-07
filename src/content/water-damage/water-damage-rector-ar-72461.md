@@ -12,6 +12,7 @@ lng: -90.2900
 zipSample: ["72461"]
 zipCodes: ["72461"]
 localPaths: ["Clay County / primary ZIP 72461", "Clay County / ZIP 72461 sector", "Clay County / coords 36.2600, -90.2900", "Clay County / elevation 292 ft band"]
+zillowHomeValueUsd: 126630
 ---
 
 **Engineering Notice for Rector:** structural drying capacity optimized for 292ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clay County. Relative Humidity Threshold: 65%. Sensor sync: Active.

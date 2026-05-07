@@ -12,6 +12,7 @@ lng: -91.0700
 zipSample: ["39631"]
 zipCodes: ["39631"]
 localPaths: ["Wilkinson County / primary ZIP 39631", "Wilkinson County / elevation 384 ft band", "Wilkinson County / coords 31.0900, -91.0700", "Wilkinson County / ZIP 39631 sector"]
+zillowHomeValueUsd: 116914
 ---
 
 **Engineering Notice for Centreville:** structural drying capacity optimized for 384ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wilkinson County. Relative Humidity Threshold: 76%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -94.5000
 zipSample: ["50115"]
 zipCodes: ["50115"]
 localPaths: ["Guthrie County / coords 41.6800, -94.5000", "Guthrie County / primary ZIP 50115", "Guthrie County / elevation 1142 ft band", "Guthrie County / ZIP 50115 sector"]
+zillowHomeValueUsd: 206126
 ---
 
 **Engineering Notice for Guthrie Center:** structural drying capacity optimized for 1142ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Guthrie County. Relative Humidity Threshold: 79%. Sensor sync: Active.

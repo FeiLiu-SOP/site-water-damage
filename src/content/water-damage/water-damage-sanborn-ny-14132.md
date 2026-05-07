@@ -12,6 +12,7 @@ lng: -78.8800
 zipSample: ["14132"]
 zipCodes: ["14132"]
 localPaths: ["Niagara County / ZIP 14132 sector", "Niagara County / primary ZIP 14132", "Niagara County / coords 43.1500, -78.8800", "Niagara County / elevation 633 ft band"]
+zillowHomeValueUsd: 313613
 ---
 
 **Engineering Notice for Sanborn:** structural drying capacity optimized for 633ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Niagara County. Relative Humidity Threshold: 80%. Sensor sync: Active.

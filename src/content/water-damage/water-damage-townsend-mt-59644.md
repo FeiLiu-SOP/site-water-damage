@@ -12,6 +12,7 @@ lng: -111.5200
 zipSample: ["59644"]
 zipCodes: ["59644"]
 localPaths: ["Broadwater County / primary ZIP 59644", "Broadwater County / ZIP 59644 sector", "Broadwater County / coords 46.3200, -111.5200", "Broadwater County / elevation 3822 ft band"]
+zillowHomeValueUsd: 446988
 ---
 
 **Engineering Notice for Townsend:** structural drying capacity optimized for 3822ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Broadwater County. Relative Humidity Threshold: 80%. Sensor sync: Active.

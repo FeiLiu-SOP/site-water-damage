@@ -12,6 +12,7 @@ lng: -88.5000
 zipSample: ["49908"]
 zipCodes: ["49908"]
 localPaths: ["Baraga County / coords 46.7800, -88.5000", "Baraga County / ZIP 49908 sector", "Baraga County / primary ZIP 49908", "Baraga County / elevation 689 ft band"]
+zillowHomeValueUsd: 159697
 ---
 
 **Engineering Notice for Baraga:** structural drying capacity optimized for 689ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Baraga County. Relative Humidity Threshold: 74%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -84.6000
 zipSample: ["39866"]
 zipCodes: ["39866"]
 localPaths: ["Calhoun County / coords 31.5400, -84.6000", "Calhoun County / primary ZIP 39866", "Calhoun County / elevation 262 ft band", "Calhoun County / ZIP 39866 sector"]
+zillowHomeValueUsd: 122876
 ---
 
 **Engineering Notice for Morgan:** structural drying capacity optimized for 262ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Calhoun County. Relative Humidity Threshold: 72%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -114.1100
 zipSample: ["59864", "59855", "59860"]
 zipCodes: ["59855", "59864", "59860"]
 localPaths: ["Lake County / ZIP 59855 sector", "Lake County / ZIP 59864 sector", "Lake County / elevation 3107 ft band", "Lake County / primary ZIP 59864", "Lake County / ZIP 59860 sector"]
+zillowHomeValueUsd: 438304
 ---
 
 **Engineering Notice for Pablo:** structural drying capacity optimized for 3107ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lake County. Relative Humidity Threshold: 77%. Sensor sync: Active.

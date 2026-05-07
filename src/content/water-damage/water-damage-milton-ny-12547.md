@@ -12,6 +12,7 @@ lng: -73.9700
 zipSample: ["12547", "12542"]
 zipCodes: ["12547", "12542"]
 localPaths: ["Ulster County / coords 41.6600, -73.9700", "Ulster County / ZIP 12547 sector", "Ulster County / ZIP 12542 sector", "Ulster County / elevation 312 ft band", "Ulster County / primary ZIP 12547"]
+zillowHomeValueUsd: 463538
 ---
 
 **Engineering Notice for Milton:** structural drying capacity optimized for 312ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ulster County. Relative Humidity Threshold: 78%. Sensor sync: Active.

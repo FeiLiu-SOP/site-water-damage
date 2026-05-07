@@ -12,6 +12,7 @@ lng: -88.7400
 zipSample: ["53585"]
 zipCodes: ["53585"]
 localPaths: ["Walworth County / coords 42.5000, -88.7400", "Walworth County / primary ZIP 53585", "Walworth County / elevation 974 ft band", "Walworth County / ZIP 53585 sector"]
+zillowHomeValueUsd: 298707
 ---
 
 **Engineering Notice for Sharon:** structural drying capacity optimized for 974ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Walworth County. Relative Humidity Threshold: 77%. Sensor sync: Active.

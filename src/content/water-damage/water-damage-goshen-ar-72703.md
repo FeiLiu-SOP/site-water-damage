@@ -12,6 +12,7 @@ lng: -94.0000
 zipSample: ["72727", "72703", "72735"]
 zipCodes: ["72703", "72727", "72735"]
 localPaths: ["Washington County / ZIP 72727 sector", "Washington County / ZIP 72703 sector", "Washington County / primary ZIP 72703", "Washington County / ZIP 72735 sector", "Washington County / coords 36.1000, -94.0000"]
+zillowHomeValueUsd: 406310
 ---
 
 **Engineering Notice for Goshen:** structural drying capacity optimized for 1171ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 72%. Sensor sync: Active.

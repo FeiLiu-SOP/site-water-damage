@@ -12,6 +12,7 @@ lng: -84.6700
 zipSample: ["49250"]
 zipCodes: ["49250"]
 localPaths: ["Hillsdale County / elevation 1066 ft band", "Hillsdale County / primary ZIP 49250", "Hillsdale County / ZIP 49250 sector", "Hillsdale County / coords 41.9800, -84.6700"]
+zillowHomeValueUsd: 200524
 ---
 
 **Engineering Notice for Jonesville:** structural drying capacity optimized for 1066ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hillsdale County. Relative Humidity Threshold: 74%. Sensor sync: Active.

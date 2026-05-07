@@ -12,6 +12,7 @@ lng: -90.3900
 zipSample: ["70080", "70030", "70039"]
 zipCodes: ["70080", "70030", "70039"]
 localPaths: ["St. Charles Parish / ZIP 70080 sector", "St. Charles Parish / ZIP 70030 sector", "St. Charles Parish / elevation 20 ft band", "St. Charles Parish / ZIP 70039 sector", "St. Charles Parish / primary ZIP 70080"]
+zillowHomeValueUsd: 208378
 ---
 
 **Engineering Notice for Boutte:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Charles Parish. Relative Humidity Threshold: 67%. Sensor sync: Active.

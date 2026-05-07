@@ -12,6 +12,7 @@ lng: -74.0400
 zipSample: ["12515", "12528"]
 zipCodes: ["12528", "12515"]
 localPaths: ["Ulster County / coords 41.6900, -74.0400", "Ulster County / elevation 719 ft band", "Ulster County / primary ZIP 12515", "Ulster County / ZIP 12528 sector", "Ulster County / ZIP 12515 sector"]
+zillowHomeValueUsd: 450065
 ---
 
 **Engineering Notice for Clintondale:** structural drying capacity optimized for 719ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ulster County. Relative Humidity Threshold: 70%. Sensor sync: Active.

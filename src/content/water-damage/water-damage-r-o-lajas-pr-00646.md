@@ -12,6 +12,8 @@ lng: -66.2600
 zipSample: ["00646"]
 zipCodes: ["00646"]
 localPaths: ["Dorado County / elevation 220 ft band", "Dorado County / coords 18.4000, -66.2600", "Dorado County / primary ZIP 00646", "Dorado County / ZIP 00646 sector"]
+zillowHomeValueUsd: 351724
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Río Lajas:** structural drying capacity optimized for 220ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dorado County. Relative Humidity Threshold: 76%. Sensor sync: Active.

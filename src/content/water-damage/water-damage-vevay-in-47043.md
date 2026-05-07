@@ -12,6 +12,7 @@ lng: -85.0800
 zipSample: ["47043"]
 zipCodes: ["47043"]
 localPaths: ["Switzerland County / elevation 476 ft band", "Switzerland County / ZIP 47043 sector", "Switzerland County / coords 38.7400, -85.0800", "Switzerland County / primary ZIP 47043"]
+zillowHomeValueUsd: 234969
 ---
 
 **Engineering Notice for Vevay:** structural drying capacity optimized for 476ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Switzerland County. Relative Humidity Threshold: 68%. Sensor sync: Active.

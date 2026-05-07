@@ -12,6 +12,8 @@ lng: -74.3100
 zipSample: ["08832"]
 zipCodes: ["08832"]
 localPaths: ["Middlesex County / ZIP 08832 sector", "Middlesex County / elevation 23 ft band", "Middlesex County / coords 40.5100, -74.3100", "Middlesex County / primary ZIP 08832"]
+zillowHomeValueUsd: 680774
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Keasbey:** structural drying capacity optimized for 23ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Middlesex County. Relative Humidity Threshold: 82%. Sensor sync: Active.

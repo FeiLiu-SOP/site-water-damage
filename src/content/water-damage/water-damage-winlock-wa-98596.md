@@ -12,6 +12,7 @@ lng: -122.9300
 zipSample: ["98596"]
 zipCodes: ["98596"]
 localPaths: ["Lewis County / ZIP 98596 sector", "Lewis County / coords 46.4900, -122.9300", "Lewis County / primary ZIP 98596", "Lewis County / elevation 384 ft band"]
+zillowHomeValueUsd: 454279
 ---
 
 **Engineering Notice for Winlock:** structural drying capacity optimized for 384ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lewis County. Relative Humidity Threshold: 75%. Sensor sync: Active.

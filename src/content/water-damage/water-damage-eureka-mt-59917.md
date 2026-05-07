@@ -12,6 +12,7 @@ lng: -115.0500
 zipSample: ["59917"]
 zipCodes: ["59917"]
 localPaths: ["Lincoln County / primary ZIP 59917", "Lincoln County / coords 48.8800, -115.0500", "Lincoln County / ZIP 59917 sector", "Lincoln County / elevation 2687 ft band"]
+zillowHomeValueUsd: 529383
 ---
 
 **Engineering Notice for Eureka:** structural drying capacity optimized for 2687ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lincoln County. Relative Humidity Threshold: 65%. Sensor sync: Active.

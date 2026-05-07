@@ -12,6 +12,7 @@ lng: -75.7800
 zipSample: ["18640"]
 zipCodes: ["18640"]
 localPaths: ["Luzerne County / primary ZIP 18640", "Luzerne County / elevation 692 ft band", "Luzerne County / ZIP 18640 sector", "Luzerne County / coords 41.3100, -75.7800"]
+zillowHomeValueUsd: 201817
 ---
 
 **Engineering Notice for Browntown:** structural drying capacity optimized for 692ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Luzerne County. Relative Humidity Threshold: 73%. Sensor sync: Active.

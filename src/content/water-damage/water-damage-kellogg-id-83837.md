@@ -12,6 +12,7 @@ lng: -116.1400
 zipSample: ["83837"]
 zipCodes: ["83837"]
 localPaths: ["Shoshone County / primary ZIP 83837", "Shoshone County / elevation 2467 ft band", "Shoshone County / coords 47.5400, -116.1400", "Shoshone County / ZIP 83837 sector"]
+zillowHomeValueUsd: 276613
 ---
 
 **Engineering Notice for Kellogg:** structural drying capacity optimized for 2467ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Shoshone County. Relative Humidity Threshold: 72%. Sensor sync: Active.

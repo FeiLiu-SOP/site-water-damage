@@ -12,6 +12,7 @@ lng: -99.1000
 zipSample: ["76801"]
 zipCodes: ["76801"]
 localPaths: ["Brown County / ZIP 76801 sector", "Brown County / primary ZIP 76801", "Brown County / elevation 1486 ft band", "Brown County / coords 31.8200, -99.1000"]
+zillowHomeValueUsd: 168922
 ---
 
 **Engineering Notice for Lake Brownwood:** structural drying capacity optimized for 1486ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Brown County. Relative Humidity Threshold: 73%. Sensor sync: Active.

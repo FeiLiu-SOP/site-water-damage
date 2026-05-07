@@ -12,6 +12,7 @@ lng: -82.3000
 zipSample: ["28714"]
 zipCodes: ["28714"]
 localPaths: ["Yancey County / ZIP 28714 sector", "Yancey County / primary ZIP 28714", "Yancey County / elevation 2776 ft band", "Yancey County / coords 35.9200, -82.3000"]
+zillowHomeValueUsd: 318982
 ---
 
 **Engineering Notice for Burnsville:** structural drying capacity optimized for 2776ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Yancey County. Relative Humidity Threshold: 72%. Sensor sync: Active.

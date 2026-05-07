@@ -12,6 +12,7 @@ lng: -87.1400
 zipSample: ["47977"]
 zipCodes: ["47977"]
 localPaths: ["Jasper County / primary ZIP 47977", "Jasper County / ZIP 47977 sector", "Jasper County / elevation 732 ft band", "Jasper County / coords 40.7700, -87.1400"]
+zillowHomeValueUsd: 220495
 ---
 
 **Engineering Notice for Remington:** structural drying capacity optimized for 732ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jasper County. Relative Humidity Threshold: 76%. Sensor sync: Active.

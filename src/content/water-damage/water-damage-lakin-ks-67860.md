@@ -12,6 +12,7 @@ lng: -101.2600
 zipSample: ["67860"]
 zipCodes: ["67860"]
 localPaths: ["Kearny County / primary ZIP 67860", "Kearny County / ZIP 67860 sector", "Kearny County / elevation 3022 ft band", "Kearny County / coords 37.9400, -101.2600"]
+zillowHomeValueUsd: 200525
 ---
 
 **Engineering Notice for Lakin:** structural drying capacity optimized for 3022ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kearny County. Relative Humidity Threshold: 78%. Sensor sync: Active.

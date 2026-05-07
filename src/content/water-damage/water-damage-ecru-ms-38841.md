@@ -12,6 +12,7 @@ lng: -89.0200
 zipSample: ["38841"]
 zipCodes: ["38841"]
 localPaths: ["Pontotoc County / coords 34.3500, -89.0200", "Pontotoc County / elevation 394 ft band", "Pontotoc County / primary ZIP 38841", "Pontotoc County / ZIP 38841 sector"]
+zillowHomeValueUsd: 208784
 ---
 
 **Engineering Notice for Ecru:** structural drying capacity optimized for 394ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pontotoc County. Relative Humidity Threshold: 82%. Sensor sync: Active.

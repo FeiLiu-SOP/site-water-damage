@@ -12,6 +12,7 @@ lng: -96.2500
 zipSample: ["75160"]
 zipCodes: ["75160"]
 localPaths: ["Hunt County / primary ZIP 75160", "Hunt County / elevation 571 ft band", "Hunt County / coords 32.8300, -96.2500", "Hunt County / ZIP 75160 sector"]
+zillowHomeValueUsd: 261908
 ---
 
 **Engineering Notice for Poetry:** structural drying capacity optimized for 571ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hunt County. Relative Humidity Threshold: 76%. Sensor sync: Active.

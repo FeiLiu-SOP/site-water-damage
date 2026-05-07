@@ -12,6 +12,7 @@ lng: -81.7700
 zipSample: ["32134"]
 zipCodes: ["32134"]
 localPaths: ["Marion County / coords 29.3600, -81.7700", "Marion County / elevation 20 ft band", "Marion County / ZIP 32134 sector", "Marion County / primary ZIP 32134"]
+zillowHomeValueUsd: 152460
 ---
 
 **Engineering Notice for Lake Kerr:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marion County. Relative Humidity Threshold: 66%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -85.0900
 zipSample: ["49073"]
 zipCodes: ["49073"]
 localPaths: ["Barry County / primary ZIP 49073", "Barry County / coords 42.6000, -85.0900", "Barry County / elevation 817 ft band", "Barry County / ZIP 49073 sector"]
+zillowHomeValueUsd: 214823
 ---
 
 **Engineering Notice for Nashville:** structural drying capacity optimized for 817ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Barry County. Relative Humidity Threshold: 77%. Sensor sync: Active.

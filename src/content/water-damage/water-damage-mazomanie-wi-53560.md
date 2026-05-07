@@ -12,6 +12,7 @@ lng: -89.8000
 zipSample: ["53560"]
 zipCodes: ["53560"]
 localPaths: ["Dane County / primary ZIP 53560", "Dane County / ZIP 53560 sector", "Dane County / elevation 804 ft band", "Dane County / coords 43.1700, -89.8000"]
+zillowHomeValueUsd: 425614
 ---
 
 **Engineering Notice for Mazomanie:** structural drying capacity optimized for 804ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dane County. Relative Humidity Threshold: 82%. Sensor sync: Active.

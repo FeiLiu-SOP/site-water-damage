@@ -12,6 +12,7 @@ lng: -75.6600
 zipSample: ["19465"]
 zipCodes: ["19465"]
 localPaths: ["Chester County / primary ZIP 19465", "Chester County / ZIP 19465 sector", "Chester County / coords 40.2400, -75.6600", "Chester County / elevation 184 ft band"]
+zillowHomeValueUsd: 490225
 ---
 
 **Engineering Notice for South Pottstown:** structural drying capacity optimized for 184ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chester County. Relative Humidity Threshold: 81%. Sensor sync: Active.

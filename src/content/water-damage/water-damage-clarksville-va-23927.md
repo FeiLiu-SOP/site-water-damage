@@ -12,6 +12,7 @@ lng: -78.5600
 zipSample: ["23927"]
 zipCodes: ["23927"]
 localPaths: ["Mecklenburg County / ZIP 23927 sector", "Mecklenburg County / coords 36.6200, -78.5600", "Mecklenburg County / primary ZIP 23927", "Mecklenburg County / elevation 351 ft band"]
+zillowHomeValueUsd: 305678
 ---
 
 **Engineering Notice for Clarksville:** structural drying capacity optimized for 351ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mecklenburg County. Relative Humidity Threshold: 80%. Sensor sync: Active.

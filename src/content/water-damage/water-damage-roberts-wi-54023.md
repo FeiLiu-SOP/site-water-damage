@@ -12,6 +12,7 @@ lng: -92.5500
 zipSample: ["54023"]
 zipCodes: ["54023"]
 localPaths: ["St. Croix County / ZIP 54023 sector", "St. Croix County / elevation 978 ft band", "St. Croix County / coords 44.9700, -92.5500", "St. Croix County / primary ZIP 54023"]
+zillowHomeValueUsd: 411182
 ---
 
 **Engineering Notice for Roberts:** structural drying capacity optimized for 978ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Croix County. Relative Humidity Threshold: 76%. Sensor sync: Active.

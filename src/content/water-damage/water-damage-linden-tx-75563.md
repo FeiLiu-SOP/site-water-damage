@@ -12,6 +12,7 @@ lng: -94.3600
 zipSample: ["75563"]
 zipCodes: ["75563"]
 localPaths: ["Cass County / elevation 377 ft band", "Cass County / ZIP 75563 sector", "Cass County / coords 33.0100, -94.3600", "Cass County / primary ZIP 75563"]
+zillowHomeValueUsd: 144538
 ---
 
 **Engineering Notice for Linden:** structural drying capacity optimized for 377ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cass County. Relative Humidity Threshold: 70%. Sensor sync: Active.

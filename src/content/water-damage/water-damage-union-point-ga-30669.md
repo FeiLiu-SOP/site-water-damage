@@ -12,6 +12,7 @@ lng: -83.0800
 zipSample: ["30669"]
 zipCodes: ["30669"]
 localPaths: ["Greene County / elevation 679 ft band", "Greene County / coords 33.6200, -83.0800", "Greene County / primary ZIP 30669", "Greene County / ZIP 30669 sector"]
+zillowHomeValueUsd: 183350
 ---
 
 **Engineering Notice for Union Point:** structural drying capacity optimized for 679ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Greene County. Relative Humidity Threshold: 78%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -80.3100
 zipSample: ["26301"]
 zipCodes: ["26301"]
 localPaths: ["Harrison County / coords 39.2500, -80.3100", "Harrison County / primary ZIP 26301", "Harrison County / ZIP 26301 sector", "Harrison County / elevation 1211 ft band"]
+zillowHomeValueUsd: 116916
 ---
 
 **Engineering Notice for Stonewood:** structural drying capacity optimized for 1211ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harrison County. Relative Humidity Threshold: 68%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -90.4300
 zipSample: ["52031"]
 zipCodes: ["52031"]
 localPaths: ["Jackson County / ZIP 52031 sector", "Jackson County / coords 42.2600, -90.4300", "Jackson County / elevation 709 ft band", "Jackson County / primary ZIP 52031"]
+zillowHomeValueUsd: 308048
 ---
 
 **Engineering Notice for Bellevue:** structural drying capacity optimized for 709ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jackson County. Relative Humidity Threshold: 66%. Sensor sync: Active.

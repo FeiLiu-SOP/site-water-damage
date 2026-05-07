@@ -12,6 +12,7 @@ lng: -79.0400
 zipSample: ["14174"]
 zipCodes: ["14174"]
 localPaths: ["Niagara County / elevation 312 ft band", "Niagara County / primary ZIP 14174", "Niagara County / ZIP 14174 sector", "Niagara County / coords 43.2500, -79.0400"]
+zillowHomeValueUsd: 329463
 ---
 
 **Engineering Notice for Youngstown:** structural drying capacity optimized for 312ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Niagara County. Relative Humidity Threshold: 70%. Sensor sync: Active.

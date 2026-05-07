@@ -12,6 +12,7 @@ lng: -98.0400
 zipSample: ["78155", "78123", "78130"]
 zipCodes: ["78123", "78155", "78130"]
 localPaths: ["Guadalupe County / ZIP 78130 sector", "Guadalupe County / primary ZIP 78123", "Guadalupe County / elevation 561 ft band", "Guadalupe County / ZIP 78155 sector", "Guadalupe County / ZIP 78123 sector"]
+zillowHomeValueUsd: 424359
 ---
 
 **Engineering Notice for McQueeney:** structural drying capacity optimized for 561ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Guadalupe County. Relative Humidity Threshold: 82%. Sensor sync: Active.

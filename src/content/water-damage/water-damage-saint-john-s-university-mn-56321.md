@@ -12,6 +12,8 @@ lng: -94.3900
 zipSample: ["56321"]
 zipCodes: ["56321"]
 localPaths: ["Stearns County / coords 45.5800, -94.3900", "Stearns County / elevation 1227 ft band", "Stearns County / ZIP 56321 sector", "Stearns County / primary ZIP 56321"]
+zillowHomeValueUsd: 315494
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Saint John's University:** structural drying capacity optimized for 1227ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stearns County. Relative Humidity Threshold: 71%. Sensor sync: Active.

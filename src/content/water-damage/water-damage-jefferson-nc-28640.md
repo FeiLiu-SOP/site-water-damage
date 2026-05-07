@@ -12,6 +12,7 @@ lng: -81.4700
 zipSample: ["28640"]
 zipCodes: ["28640"]
 localPaths: ["Ashe County / coords 36.4200, -81.4700", "Ashe County / primary ZIP 28640", "Ashe County / elevation 2913 ft band", "Ashe County / ZIP 28640 sector"]
+zillowHomeValueUsd: 360110
 ---
 
 **Engineering Notice for Jefferson:** structural drying capacity optimized for 2913ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ashe County. Relative Humidity Threshold: 79%. Sensor sync: Active.

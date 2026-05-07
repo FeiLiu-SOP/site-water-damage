@@ -12,6 +12,7 @@ lng: -80.0800
 zipSample: ["15202"]
 zipCodes: ["15202"]
 localPaths: ["Allegheny County / primary ZIP 15202", "Allegheny County / ZIP 15202 sector", "Allegheny County / elevation 840 ft band", "Allegheny County / coords 40.5100, -80.0800"]
+zillowHomeValueUsd: 221008
 ---
 
 **Engineering Notice for Ben Avon:** structural drying capacity optimized for 840ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allegheny County. Relative Humidity Threshold: 69%. Sensor sync: Active.

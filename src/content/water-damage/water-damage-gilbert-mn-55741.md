@@ -12,6 +12,7 @@ lng: -92.4600
 zipSample: ["55734", "55741"]
 zipCodes: ["55741", "55734"]
 localPaths: ["St. Louis County / primary ZIP 55741", "St. Louis County / ZIP 55734 sector", "St. Louis County / coords 47.4900, -92.4600", "St. Louis County / elevation 1509 ft band", "St. Louis County / ZIP 55741 sector"]
+zillowHomeValueUsd: 176123
 ---
 
 **Engineering Notice for Gilbert:** structural drying capacity optimized for 1509ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Louis County. Relative Humidity Threshold: 71%. Sensor sync: Active.

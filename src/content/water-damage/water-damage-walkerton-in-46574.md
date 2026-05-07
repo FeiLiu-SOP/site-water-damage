@@ -12,6 +12,7 @@ lng: -86.4800
 zipSample: ["46574"]
 zipCodes: ["46574"]
 localPaths: ["St. Joseph County / primary ZIP 46574", "St. Joseph County / ZIP 46574 sector", "St. Joseph County / coords 41.4700, -86.4800", "St. Joseph County / elevation 728 ft band"]
+zillowHomeValueUsd: 228391
 ---
 
 **Engineering Notice for Walkerton:** structural drying capacity optimized for 728ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Joseph County. Relative Humidity Threshold: 83%. Sensor sync: Active.

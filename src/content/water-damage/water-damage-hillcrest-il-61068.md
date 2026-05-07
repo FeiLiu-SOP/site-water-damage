@@ -12,6 +12,7 @@ lng: -89.0600
 zipSample: ["61068"]
 zipCodes: ["61068"]
 localPaths: ["Ogle County / ZIP 61068 sector", "Ogle County / primary ZIP 61068", "Ogle County / elevation 820 ft band", "Ogle County / coords 41.9700, -89.0600"]
+zillowHomeValueUsd: 198198
 ---
 
 **Engineering Notice for Hillcrest:** structural drying capacity optimized for 820ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ogle County. Relative Humidity Threshold: 66%. Sensor sync: Active.

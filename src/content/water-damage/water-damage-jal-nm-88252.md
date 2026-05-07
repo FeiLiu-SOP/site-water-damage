@@ -12,6 +12,7 @@ lng: -103.1900
 zipSample: ["88252"]
 zipCodes: ["88252"]
 localPaths: ["Lea County / elevation 3051 ft band", "Lea County / coords 32.1100, -103.1900", "Lea County / primary ZIP 88252", "Lea County / ZIP 88252 sector"]
+zillowHomeValueUsd: 136204
 ---
 
 **Engineering Notice for Jal:** structural drying capacity optimized for 3051ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lea County. Relative Humidity Threshold: 85%. Sensor sync: Active.

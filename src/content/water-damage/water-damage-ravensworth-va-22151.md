@@ -12,6 +12,7 @@ lng: -77.2200
 zipSample: ["22151", "22160"]
 zipCodes: ["22151", "22160"]
 localPaths: ["Fairfax County / coords 38.8000, -77.2200", "Fairfax County / primary ZIP 22151", "Fairfax County / ZIP 22151 sector", "Fairfax County / elevation 269 ft band", "Fairfax County / ZIP 22160 sector"]
+zillowHomeValueUsd: 718988
 ---
 
 **Engineering Notice for Ravensworth:** structural drying capacity optimized for 269ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fairfax County. Relative Humidity Threshold: 77%. Sensor sync: Active.

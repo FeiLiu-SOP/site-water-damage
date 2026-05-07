@@ -12,6 +12,7 @@ lng: -75.7000
 zipSample: ["19562"]
 zipCodes: ["19562"]
 localPaths: ["Berks County / coords 40.5000, -75.7000", "Berks County / ZIP 19562 sector", "Berks County / primary ZIP 19562", "Berks County / elevation 492 ft band"]
+zillowHomeValueUsd: 260234
 ---
 
 **Engineering Notice for Topton:** structural drying capacity optimized for 492ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Berks County. Relative Humidity Threshold: 65%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -94.4600
 zipSample: ["64477"]
 zipCodes: ["64477"]
 localPaths: ["Clinton County / elevation 932 ft band", "Clinton County / ZIP 64477 sector", "Clinton County / coords 39.5600, -94.4600", "Clinton County / primary ZIP 64477"]
+zillowHomeValueUsd: 281432
 ---
 
 **Engineering Notice for Plattsburg:** structural drying capacity optimized for 932ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clinton County. Relative Humidity Threshold: 84%. Sensor sync: Active.

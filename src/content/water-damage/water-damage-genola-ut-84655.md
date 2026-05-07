@@ -12,6 +12,7 @@ lng: -111.8500
 zipSample: ["84655"]
 zipCodes: ["84655"]
 localPaths: ["Utah County / coords 40.0100, -111.8500", "Utah County / elevation 4528 ft band", "Utah County / primary ZIP 84655", "Utah County / ZIP 84655 sector"]
+zillowHomeValueUsd: 500648
 ---
 
 **Engineering Notice for Genola:** structural drying capacity optimized for 4528ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Utah County. Relative Humidity Threshold: 69%. Sensor sync: Active.

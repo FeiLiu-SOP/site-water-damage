@@ -12,6 +12,7 @@ lng: -119.5800
 zipSample: ["98840"]
 zipCodes: ["98840"]
 localPaths: ["Okanogan County / coords 48.3700, -119.5800", "Okanogan County / ZIP 98840 sector", "Okanogan County / primary ZIP 98840", "Okanogan County / elevation 853 ft band"]
+zillowHomeValueUsd: 272238
 ---
 
 **Engineering Notice for Okanogan:** structural drying capacity optimized for 853ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Okanogan County. Relative Humidity Threshold: 74%. Sensor sync: Active.

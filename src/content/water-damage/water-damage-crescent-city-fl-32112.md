@@ -12,6 +12,7 @@ lng: -81.5200
 zipSample: ["32112"]
 zipCodes: ["32112"]
 localPaths: ["Putnam County / primary ZIP 32112", "Putnam County / coords 29.4400, -81.5200", "Putnam County / elevation 56 ft band", "Putnam County / ZIP 32112 sector"]
+zillowHomeValueUsd: 208736
 ---
 
 **Engineering Notice for Crescent City:** structural drying capacity optimized for 56ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Putnam County. Relative Humidity Threshold: 83%. Sensor sync: Active.

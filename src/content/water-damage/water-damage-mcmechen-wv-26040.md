@@ -12,6 +12,7 @@ lng: -80.7300
 zipSample: ["26040"]
 zipCodes: ["26040"]
 localPaths: ["Marshall County / coords 39.9900, -80.7300", "Marshall County / primary ZIP 26040", "Marshall County / elevation 656 ft band", "Marshall County / ZIP 26040 sector"]
+zillowHomeValueUsd: 88832
 ---
 
 **Engineering Notice for McMechen:** structural drying capacity optimized for 656ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marshall County. Relative Humidity Threshold: 71%. Sensor sync: Active.

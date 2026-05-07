@@ -12,6 +12,7 @@ lng: -82.7300
 zipSample: ["41183", "41169"]
 zipCodes: ["41169", "41183"]
 localPaths: ["Greenup County / elevation 620 ft band", "Greenup County / ZIP 41183 sector", "Greenup County / coords 38.5400, -82.7300", "Greenup County / primary ZIP 41183", "Greenup County / ZIP 41169 sector"]
+zillowHomeValueUsd: 126122
 ---
 
 **Engineering Notice for Raceland:** structural drying capacity optimized for 620ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Greenup County. Relative Humidity Threshold: 72%. Sensor sync: Active.

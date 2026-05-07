@@ -12,6 +12,7 @@ lng: -79.5500
 zipSample: ["15601"]
 zipCodes: ["15601"]
 localPaths: ["Westmoreland County / primary ZIP 15601", "Westmoreland County / ZIP 15601 sector", "Westmoreland County / coords 40.2800, -79.5500", "Westmoreland County / elevation 1043 ft band"]
+zillowHomeValueUsd: 239879
 ---
 
 **Engineering Notice for South Greensburg:** structural drying capacity optimized for 1043ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Westmoreland County. Relative Humidity Threshold: 68%. Sensor sync: Active.

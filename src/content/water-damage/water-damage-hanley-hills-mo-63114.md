@@ -12,6 +12,7 @@ lng: -90.3300
 zipSample: ["63114", "63133"]
 zipCodes: ["63133", "63114"]
 localPaths: ["St. Louis County / ZIP 63133 sector", "St. Louis County / ZIP 63114 sector", "St. Louis County / primary ZIP 63114", "St. Louis County / coords 38.6900, -90.3300", "St. Louis County / elevation 564 ft band"]
+zillowHomeValueUsd: 139458
 ---
 
 **Engineering Notice for Hanley Hills:** structural drying capacity optimized for 564ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Louis County. Relative Humidity Threshold: 71%. Sensor sync: Active.

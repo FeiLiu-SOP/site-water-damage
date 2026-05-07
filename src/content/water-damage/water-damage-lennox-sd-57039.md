@@ -12,6 +12,7 @@ lng: -96.8900
 zipSample: ["57039"]
 zipCodes: ["57039"]
 localPaths: ["Lincoln County / primary ZIP 57039", "Lincoln County / ZIP 57039 sector", "Lincoln County / elevation 1348 ft band", "Lincoln County / coords 43.3500, -96.8900"]
+zillowHomeValueUsd: 322229
 ---
 
 **Engineering Notice for Lennox:** structural drying capacity optimized for 1348ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lincoln County. Relative Humidity Threshold: 75%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -82.5700
 zipSample: ["45656"]
 zipCodes: ["45656"]
 localPaths: ["Jackson County / primary ZIP 45656", "Jackson County / ZIP 45656 sector", "Jackson County / elevation 715 ft band", "Jackson County / coords 38.9000, -82.5700"]
+zillowHomeValueUsd: 118506
 ---
 
 **Engineering Notice for Oak Hill:** structural drying capacity optimized for 715ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jackson County. Relative Humidity Threshold: 66%. Sensor sync: Active.

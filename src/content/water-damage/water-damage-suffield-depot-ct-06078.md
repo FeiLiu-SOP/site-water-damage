@@ -12,6 +12,7 @@ lng: -72.6500
 zipSample: ["06078"]
 zipCodes: ["06078"]
 localPaths: ["Capitol County / coords 41.9800, -72.6500", "Capitol County / primary ZIP 06078", "Capitol County / elevation 161 ft band", "Capitol County / ZIP 06078 sector"]
+zillowHomeValueUsd: 478119
 ---
 
 **Engineering Notice for Suffield Depot:** structural drying capacity optimized for 161ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Capitol County. Relative Humidity Threshold: 68%. Sensor sync: Active.

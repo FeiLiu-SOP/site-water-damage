@@ -12,6 +12,7 @@ lng: -83.2700
 zipSample: ["48179"]
 zipCodes: ["48179"]
 localPaths: ["Monroe County / coords 42.0600, -83.2700", "Monroe County / elevation 581 ft band", "Monroe County / ZIP 48179 sector", "Monroe County / primary ZIP 48179"]
+zillowHomeValueUsd: 305749
 ---
 
 **Engineering Notice for South Rockwood:** structural drying capacity optimized for 581ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Monroe County. Relative Humidity Threshold: 75%. Sensor sync: Active.

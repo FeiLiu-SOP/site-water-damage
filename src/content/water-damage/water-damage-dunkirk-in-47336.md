@@ -12,6 +12,7 @@ lng: -85.2100
 zipSample: ["47336"]
 zipCodes: ["47336"]
 localPaths: ["Jay County / elevation 948 ft band", "Jay County / ZIP 47336 sector", "Jay County / coords 40.3700, -85.2100", "Jay County / primary ZIP 47336"]
+zillowHomeValueUsd: 126692
 ---
 
 **Engineering Notice for Dunkirk:** structural drying capacity optimized for 948ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jay County. Relative Humidity Threshold: 73%. Sensor sync: Active.

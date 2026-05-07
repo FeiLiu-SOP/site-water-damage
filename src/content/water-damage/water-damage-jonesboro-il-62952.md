@@ -12,6 +12,7 @@ lng: -89.2700
 zipSample: ["62952"]
 zipCodes: ["62952"]
 localPaths: ["Union County / primary ZIP 62952", "Union County / coords 37.4500, -89.2700", "Union County / elevation 535 ft band", "Union County / ZIP 62952 sector"]
+zillowHomeValueUsd: 134133
 ---
 
 **Engineering Notice for Jonesboro:** structural drying capacity optimized for 535ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Union County. Relative Humidity Threshold: 68%. Sensor sync: Active.

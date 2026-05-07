@@ -12,6 +12,7 @@ lng: -90.3200
 zipSample: ["54405", "54421"]
 zipCodes: ["54421", "54405"]
 localPaths: ["Marathon County / ZIP 54421 sector", "Marathon County / ZIP 54405 sector", "Marathon County / elevation 1417 ft band", "Marathon County / primary ZIP 54405", "Marathon County / coords 44.9400, -90.3200"]
+zillowHomeValueUsd: 193338
 ---
 
 **Engineering Notice for Abbotsford:** structural drying capacity optimized for 1417ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marathon County. Relative Humidity Threshold: 74%. Sensor sync: Active.

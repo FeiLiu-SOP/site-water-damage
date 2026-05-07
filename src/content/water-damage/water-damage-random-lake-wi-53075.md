@@ -12,6 +12,7 @@ lng: -87.9500
 zipSample: ["53075"]
 zipCodes: ["53075"]
 localPaths: ["Sheboygan County / ZIP 53075 sector", "Sheboygan County / elevation 866 ft band", "Sheboygan County / coords 43.5500, -87.9500", "Sheboygan County / primary ZIP 53075"]
+zillowHomeValueUsd: 355037
 ---
 
 **Engineering Notice for Random Lake:** structural drying capacity optimized for 866ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sheboygan County. Relative Humidity Threshold: 80%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -76.6200
 zipSample: ["27810"]
 zipCodes: ["27810"]
 localPaths: ["Beaufort County / ZIP 27810 sector", "Beaufort County / elevation 10 ft band", "Beaufort County / primary ZIP 27810", "Beaufort County / coords 35.5400, -76.6200"]
+zillowHomeValueUsd: 235358
 ---
 
 **Engineering Notice for Belhaven:** structural drying capacity optimized for 10ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Beaufort County. Relative Humidity Threshold: 68%. Sensor sync: Active.

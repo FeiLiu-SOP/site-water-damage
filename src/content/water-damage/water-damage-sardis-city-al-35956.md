@@ -12,6 +12,7 @@ lng: -86.1100
 zipSample: ["35956"]
 zipCodes: ["35956"]
 localPaths: ["Etowah County / elevation 1060 ft band", "Etowah County / coords 34.1700, -86.1100", "Etowah County / ZIP 35956 sector", "Etowah County / primary ZIP 35956"]
+zillowHomeValueUsd: 220900
 ---
 
 **Engineering Notice for Sardis City:** structural drying capacity optimized for 1060ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Etowah County. Relative Humidity Threshold: 82%. Sensor sync: Active.

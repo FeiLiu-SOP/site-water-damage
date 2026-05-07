@@ -12,6 +12,7 @@ lng: -77.5900
 zipSample: ["17063"]
 zipCodes: ["17063"]
 localPaths: ["Mifflin County / ZIP 17063 sector", "Mifflin County / elevation 801 ft band", "Mifflin County / coords 40.7200, -77.5900", "Mifflin County / primary ZIP 17063"]
+zillowHomeValueUsd: 192371
 ---
 
 **Engineering Notice for Milroy:** structural drying capacity optimized for 801ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mifflin County. Relative Humidity Threshold: 82%. Sensor sync: Active.

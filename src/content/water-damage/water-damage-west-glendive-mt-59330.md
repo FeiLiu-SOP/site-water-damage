@@ -12,6 +12,7 @@ lng: -104.7500
 zipSample: ["59330"]
 zipCodes: ["59330"]
 localPaths: ["Dawson County / ZIP 59330 sector", "Dawson County / primary ZIP 59330", "Dawson County / elevation 2093 ft band", "Dawson County / coords 47.1100, -104.7500"]
+zillowHomeValueUsd: 192013
 ---
 
 **Engineering Notice for West Glendive:** structural drying capacity optimized for 2093ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dawson County. Relative Humidity Threshold: 83%. Sensor sync: Active.

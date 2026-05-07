@@ -12,6 +12,7 @@ lng: -96.5200
 zipSample: ["56510"]
 zipCodes: ["56510"]
 localPaths: ["Norman County / ZIP 56510 sector", "Norman County / elevation 902 ft band", "Norman County / primary ZIP 56510", "Norman County / coords 47.3000, -96.5200"]
+zillowHomeValueUsd: 165063
 ---
 
 **Engineering Notice for Ada:** structural drying capacity optimized for 902ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Norman County. Relative Humidity Threshold: 77%. Sensor sync: Active.

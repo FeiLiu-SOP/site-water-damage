@@ -12,6 +12,7 @@ lng: -78.4000
 zipSample: ["16673"]
 zipCodes: ["16673"]
 localPaths: ["Blair County / coords 40.3300, -78.4000", "Blair County / primary ZIP 16673", "Blair County / ZIP 16673 sector", "Blair County / elevation 1273 ft band"]
+zillowHomeValueUsd: 193921
 ---
 
 **Engineering Notice for Roaring Spring:** structural drying capacity optimized for 1273ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Blair County. Relative Humidity Threshold: 85%. Sensor sync: Active.

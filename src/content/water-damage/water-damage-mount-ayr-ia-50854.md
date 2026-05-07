@@ -12,6 +12,7 @@ lng: -94.2400
 zipSample: ["50854"]
 zipCodes: ["50854"]
 localPaths: ["Ringgold County / ZIP 50854 sector", "Ringgold County / primary ZIP 50854", "Ringgold County / elevation 1243 ft band", "Ringgold County / coords 40.7100, -94.2400"]
+zillowHomeValueUsd: 139124
 ---
 
 **Engineering Notice for Mount Ayr:** structural drying capacity optimized for 1243ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ringgold County. Relative Humidity Threshold: 73%. Sensor sync: Active.

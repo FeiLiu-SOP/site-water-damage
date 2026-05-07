@@ -12,6 +12,7 @@ lng: -85.6300
 zipSample: ["46938"]
 zipCodes: ["46938"]
 localPaths: ["Grant County / elevation 837 ft band", "Grant County / primary ZIP 46938", "Grant County / coords 40.4800, -85.6300", "Grant County / ZIP 46938 sector"]
+zillowHomeValueUsd: 152667
 ---
 
 **Engineering Notice for Jonesboro:** structural drying capacity optimized for 837ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grant County. Relative Humidity Threshold: 66%. Sensor sync: Active.

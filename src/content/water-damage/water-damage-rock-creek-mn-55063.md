@@ -12,6 +12,7 @@ lng: -92.9100
 zipSample: ["55069", "55063", "55067"]
 zipCodes: ["55069", "55067", "55063"]
 localPaths: ["Pine County / primary ZIP 55063", "Pine County / elevation 919 ft band", "Pine County / ZIP 55067 sector", "Pine County / ZIP 55069 sector", "Pine County / coords 45.7600, -92.9100"]
+zillowHomeValueUsd: 285363
 ---
 
 **Engineering Notice for Rock Creek:** structural drying capacity optimized for 919ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pine County. Relative Humidity Threshold: 73%. Sensor sync: Active.

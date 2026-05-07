@@ -12,6 +12,7 @@ lng: -90.0200
 zipSample: ["70143", "70037"]
 zipCodes: ["70037", "70143"]
 localPaths: ["Plaquemines Parish / primary ZIP 70037", "Plaquemines Parish / ZIP 70037 sector", "Plaquemines Parish / elevation 3 ft band", "Plaquemines Parish / ZIP 70143 sector", "Plaquemines Parish / coords 29.8300, -90.0200"]
+zillowHomeValueUsd: 332476
 ---
 
 **Engineering Notice for New Orleans Station:** structural drying capacity optimized for 3ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Plaquemines Parish. Relative Humidity Threshold: 74%. Sensor sync: Active.

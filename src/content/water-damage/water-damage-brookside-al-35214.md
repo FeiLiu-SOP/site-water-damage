@@ -12,6 +12,7 @@ lng: -86.9000
 zipSample: ["35036", "35117", "35214", "35073"]
 zipCodes: ["35073", "35036", "35214", "35117"]
 localPaths: ["Jefferson County / primary ZIP 35214", "Jefferson County / ZIP 35117 sector", "Jefferson County / ZIP 35073 sector", "Jefferson County / ZIP 35214 sector", "Jefferson County / elevation 640 ft band"]
+zillowHomeValueUsd: 143776
 ---
 
 **Engineering Notice for Brookside:** structural drying capacity optimized for 640ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 79%. Sensor sync: Active.

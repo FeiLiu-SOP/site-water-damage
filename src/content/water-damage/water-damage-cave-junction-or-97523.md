@@ -12,6 +12,7 @@ lng: -123.6500
 zipSample: ["97523"]
 zipCodes: ["97523"]
 localPaths: ["Josephine County / coords 42.1700, -123.6500", "Josephine County / ZIP 97523 sector", "Josephine County / elevation 1339 ft band", "Josephine County / primary ZIP 97523"]
+zillowHomeValueUsd: 295538
 ---
 
 **Engineering Notice for Cave Junction:** structural drying capacity optimized for 1339ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Josephine County. Relative Humidity Threshold: 73%. Sensor sync: Active.

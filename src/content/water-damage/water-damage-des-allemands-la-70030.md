@@ -12,6 +12,7 @@ lng: -90.4700
 zipSample: ["70030"]
 zipCodes: ["70030"]
 localPaths: ["St. Charles Parish / elevation 3 ft band", "St. Charles Parish / coords 29.8200, -90.4700", "St. Charles Parish / primary ZIP 70030", "St. Charles Parish / ZIP 70030 sector"]
+zillowHomeValueUsd: 226599
 ---
 
 **Engineering Notice for Des Allemands:** structural drying capacity optimized for 3ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Charles Parish. Relative Humidity Threshold: 85%. Sensor sync: Active.

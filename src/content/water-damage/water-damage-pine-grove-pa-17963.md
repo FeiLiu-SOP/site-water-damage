@@ -12,6 +12,7 @@ lng: -76.3900
 zipSample: ["17963"]
 zipCodes: ["17963"]
 localPaths: ["Schuylkill County / ZIP 17963 sector", "Schuylkill County / coords 40.5500, -76.3900", "Schuylkill County / primary ZIP 17963", "Schuylkill County / elevation 528 ft band"]
+zillowHomeValueUsd: 251410
 ---
 
 **Engineering Notice for Pine Grove:** structural drying capacity optimized for 528ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Schuylkill County. Relative Humidity Threshold: 74%. Sensor sync: Active.

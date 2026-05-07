@@ -12,6 +12,7 @@ lng: -121.2300
 zipSample: ["95638", "95632"]
 zipCodes: ["95638", "95632"]
 localPaths: ["Sacramento County / coords 38.2900, -121.2300", "Sacramento County / ZIP 95632 sector", "Sacramento County / elevation 75 ft band", "Sacramento County / ZIP 95638 sector", "Sacramento County / primary ZIP 95632"]
+zillowHomeValueUsd: 533065
 ---
 
 **Engineering Notice for Herald:** structural drying capacity optimized for 75ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sacramento County. Relative Humidity Threshold: 75%. Sensor sync: Active.

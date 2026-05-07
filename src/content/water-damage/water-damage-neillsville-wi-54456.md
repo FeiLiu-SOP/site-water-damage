@@ -12,6 +12,7 @@ lng: -90.5900
 zipSample: ["54456"]
 zipCodes: ["54456"]
 localPaths: ["Clark County / ZIP 54456 sector", "Clark County / coords 44.5600, -90.5900", "Clark County / elevation 1050 ft band", "Clark County / primary ZIP 54456"]
+zillowHomeValueUsd: 210693
 ---
 
 **Engineering Notice for Neillsville:** structural drying capacity optimized for 1050ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clark County. Relative Humidity Threshold: 69%. Sensor sync: Active.

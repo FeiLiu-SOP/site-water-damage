@@ -12,6 +12,8 @@ lng: -65.8900
 zipSample: ["00729"]
 zipCodes: ["00729"]
 localPaths: ["Canóvanas County / coords 18.3400, -65.8900", "Canóvanas County / primary ZIP 00729", "Canóvanas County / ZIP 00729 sector", "Canóvanas County / elevation 180 ft band"]
+zillowHomeValueUsd: 379554
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Campo Rico:** structural drying capacity optimized for 180ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Canóvanas County. Relative Humidity Threshold: 65%. Sensor sync: Active.

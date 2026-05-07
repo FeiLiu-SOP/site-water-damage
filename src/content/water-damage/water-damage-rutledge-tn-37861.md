@@ -12,6 +12,7 @@ lng: -83.5300
 zipSample: ["37861"]
 zipCodes: ["37861"]
 localPaths: ["Grainger County / coords 36.2800, -83.5300", "Grainger County / ZIP 37861 sector", "Grainger County / elevation 991 ft band", "Grainger County / primary ZIP 37861"]
+zillowHomeValueUsd: 287388
 ---
 
 **Engineering Notice for Rutledge:** structural drying capacity optimized for 991ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grainger County. Relative Humidity Threshold: 69%. Sensor sync: Active.

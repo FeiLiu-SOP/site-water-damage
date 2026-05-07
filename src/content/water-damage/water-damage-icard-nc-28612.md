@@ -12,6 +12,7 @@ lng: -81.4600
 zipSample: ["28666", "28612", "28602"]
 zipCodes: ["28666", "28612", "28602"]
 localPaths: ["Burke County / elevation 1148 ft band", "Burke County / ZIP 28666 sector", "Burke County / primary ZIP 28612", "Burke County / ZIP 28612 sector", "Burke County / coords 35.7300, -81.4600"]
+zillowHomeValueUsd: 237896
 ---
 
 **Engineering Notice for Icard:** structural drying capacity optimized for 1148ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Burke County. Relative Humidity Threshold: 75%. Sensor sync: Active.

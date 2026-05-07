@@ -12,6 +12,7 @@ lng: -80.3800
 zipSample: ["16101"]
 zipCodes: ["16101"]
 localPaths: ["Lawrence County / elevation 1020 ft band", "Lawrence County / coords 41.0100, -80.3800", "Lawrence County / primary ZIP 16101", "Lawrence County / ZIP 16101 sector"]
+zillowHomeValueUsd: 117570
 ---
 
 **Engineering Notice for Oakwood:** structural drying capacity optimized for 1020ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lawrence County. Relative Humidity Threshold: 66%. Sensor sync: Active.

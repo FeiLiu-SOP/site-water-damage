@@ -12,6 +12,7 @@ lng: -86.1200
 zipSample: ["46504"]
 zipCodes: ["46504"]
 localPaths: ["Marshall County / primary ZIP 46504", "Marshall County / elevation 856 ft band", "Marshall County / coords 41.3000, -86.1200", "Marshall County / ZIP 46504 sector"]
+zillowHomeValueUsd: 234529
 ---
 
 **Engineering Notice for Bourbon:** structural drying capacity optimized for 856ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marshall County. Relative Humidity Threshold: 65%. Sensor sync: Active.

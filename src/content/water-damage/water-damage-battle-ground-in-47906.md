@@ -12,6 +12,7 @@ lng: -86.8500
 zipSample: ["47906", "47920"]
 zipCodes: ["47906", "47920"]
 localPaths: ["Tippecanoe County / primary ZIP 47906", "Tippecanoe County / elevation 659 ft band", "Tippecanoe County / coords 40.5100, -86.8500", "Tippecanoe County / ZIP 47920 sector", "Tippecanoe County / ZIP 47906 sector"]
+zillowHomeValueUsd: 363800
 ---
 
 **Engineering Notice for Battle Ground:** structural drying capacity optimized for 659ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tippecanoe County. Relative Humidity Threshold: 85%. Sensor sync: Active.

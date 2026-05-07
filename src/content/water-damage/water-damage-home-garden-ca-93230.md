@@ -12,6 +12,7 @@ lng: -119.6400
 zipSample: ["93230"]
 zipCodes: ["93230"]
 localPaths: ["Kings County / ZIP 93230 sector", "Kings County / elevation 240 ft band", "Kings County / primary ZIP 93230", "Kings County / coords 36.3000, -119.6400"]
+zillowHomeValueUsd: 382685
 ---
 
 **Engineering Notice for Home Garden:** structural drying capacity optimized for 240ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kings County. Relative Humidity Threshold: 78%. Sensor sync: Active.

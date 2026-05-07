@@ -12,6 +12,7 @@ lng: -80.5600
 zipSample: ["26034"]
 zipCodes: ["26034"]
 localPaths: ["Hancock County / coords 40.6100, -80.5600", "Hancock County / ZIP 26034 sector", "Hancock County / elevation 709 ft band", "Hancock County / primary ZIP 26034"]
+zillowHomeValueUsd: 119960
 ---
 
 **Engineering Notice for Chester:** structural drying capacity optimized for 709ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hancock County. Relative Humidity Threshold: 84%. Sensor sync: Active.

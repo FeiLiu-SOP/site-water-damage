@@ -12,6 +12,7 @@ lng: -95.8800
 zipSample: ["77482"]
 zipCodes: ["77482"]
 localPaths: ["Matagorda County / ZIP 77482 sector", "Matagorda County / primary ZIP 77482", "Matagorda County / elevation 59 ft band", "Matagorda County / coords 29.0300, -95.8800"]
+zillowHomeValueUsd: 236461
 ---
 
 **Engineering Notice for Van Vleck:** structural drying capacity optimized for 59ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Matagorda County. Relative Humidity Threshold: 82%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -83.5500
 zipSample: ["30558"]
 zipCodes: ["30558"]
 localPaths: ["Jackson County / primary ZIP 30558", "Jackson County / ZIP 30558 sector", "Jackson County / elevation 889 ft band", "Jackson County / coords 34.2600, -83.5500"]
+zillowHomeValueUsd: 355065
 ---
 
 **Engineering Notice for Maysville:** structural drying capacity optimized for 889ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jackson County. Relative Humidity Threshold: 80%. Sensor sync: Active.

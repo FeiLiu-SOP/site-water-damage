@@ -12,6 +12,7 @@ lng: -88.0700
 zipSample: ["53007"]
 zipCodes: ["53007"]
 localPaths: ["Waukesha County / coords 43.1100, -88.0700", "Waukesha County / primary ZIP 53007", "Waukesha County / elevation 768 ft band", "Waukesha County / ZIP 53007 sector"]
+zillowHomeValueUsd: 288586
 ---
 
 **Engineering Notice for Butler:** structural drying capacity optimized for 768ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Waukesha County. Relative Humidity Threshold: 70%. Sensor sync: Active.

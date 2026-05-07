@@ -12,6 +12,7 @@ lng: -82.5600
 zipSample: ["24290"]
 zipCodes: ["24290"]
 localPaths: ["Scott County / elevation 1362 ft band", "Scott County / ZIP 24290 sector", "Scott County / primary ZIP 24290", "Scott County / coords 36.6200, -82.5600"]
+zillowHomeValueUsd: 168392
 ---
 
 **Engineering Notice for Weber City:** structural drying capacity optimized for 1362ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Scott County. Relative Humidity Threshold: 70%. Sensor sync: Active.

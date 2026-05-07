@@ -12,6 +12,8 @@ lng: -91.8100
 zipSample: ["71369"]
 zipCodes: ["71369"]
 localPaths: ["Avoyelles Parish / coords 30.9800, -91.8100", "Avoyelles Parish / elevation 62 ft band", "Avoyelles Parish / ZIP 71369 sector", "Avoyelles Parish / primary ZIP 71369"]
+zillowHomeValueUsd: 197528
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Simmesport:** structural drying capacity optimized for 62ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Avoyelles Parish. Relative Humidity Threshold: 78%. Sensor sync: Active.

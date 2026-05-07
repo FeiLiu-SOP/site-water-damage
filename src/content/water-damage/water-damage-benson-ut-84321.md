@@ -12,6 +12,7 @@ lng: -111.9200
 zipSample: ["84339", "84321", "84335"]
 zipCodes: ["84339", "84335", "84321"]
 localPaths: ["Cache County / ZIP 84335 sector", "Cache County / ZIP 84339 sector", "Cache County / ZIP 84321 sector", "Cache County / elevation 4413 ft band", "Cache County / primary ZIP 84321"]
+zillowHomeValueUsd: 421492
 ---
 
 **Engineering Notice for Benson:** structural drying capacity optimized for 4413ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cache County. Relative Humidity Threshold: 74%. Sensor sync: Active.

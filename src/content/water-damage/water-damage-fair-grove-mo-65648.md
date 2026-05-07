@@ -12,6 +12,7 @@ lng: -93.1500
 zipSample: ["65648"]
 zipCodes: ["65648"]
 localPaths: ["Greene County / primary ZIP 65648", "Greene County / elevation 1217 ft band", "Greene County / ZIP 65648 sector", "Greene County / coords 37.3800, -93.1500"]
+zillowHomeValueUsd: 309628
 ---
 
 **Engineering Notice for Fair Grove:** structural drying capacity optimized for 1217ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Greene County. Relative Humidity Threshold: 79%. Sensor sync: Active.

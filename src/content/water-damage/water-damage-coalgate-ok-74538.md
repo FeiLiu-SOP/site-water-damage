@@ -12,6 +12,7 @@ lng: -96.2200
 zipSample: ["74538"]
 zipCodes: ["74538"]
 localPaths: ["Coal County / elevation 630 ft band", "Coal County / primary ZIP 74538", "Coal County / ZIP 74538 sector", "Coal County / coords 34.5300, -96.2200"]
+zillowHomeValueUsd: 128911
 ---
 
 **Engineering Notice for Coalgate:** structural drying capacity optimized for 630ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Coal County. Relative Humidity Threshold: 78%. Sensor sync: Active.

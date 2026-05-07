@@ -12,6 +12,7 @@ lng: -121.1000
 zipSample: ["95236"]
 zipCodes: ["95236"]
 localPaths: ["San Joaquin County / ZIP 95236 sector", "San Joaquin County / coords 38.0200, -121.1000", "San Joaquin County / elevation 89 ft band", "San Joaquin County / primary ZIP 95236"]
+zillowHomeValueUsd: 674364
 ---
 
 **Engineering Notice for Linden:** structural drying capacity optimized for 89ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Joaquin County. Relative Humidity Threshold: 82%. Sensor sync: Active.

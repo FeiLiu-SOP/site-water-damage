@@ -12,6 +12,7 @@ lng: -82.2100
 zipSample: ["28746"]
 zipCodes: ["28746"]
 localPaths: ["Rutherford County / coords 35.4400, -82.2100", "Rutherford County / elevation 1119 ft band", "Rutherford County / primary ZIP 28746", "Rutherford County / ZIP 28746 sector"]
+zillowHomeValueUsd: 443804
 ---
 
 **Engineering Notice for Lake Lure:** structural drying capacity optimized for 1119ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rutherford County. Relative Humidity Threshold: 73%. Sensor sync: Active.

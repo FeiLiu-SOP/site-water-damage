@@ -12,6 +12,7 @@ lng: -92.5800
 zipSample: ["50670"]
 zipCodes: ["50670"]
 localPaths: ["Butler County / primary ZIP 50670", "Butler County / elevation 915 ft band", "Butler County / ZIP 50670 sector", "Butler County / coords 42.7100, -92.5800"]
+zillowHomeValueUsd: 223947
 ---
 
 **Engineering Notice for Shell Rock:** structural drying capacity optimized for 915ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Butler County. Relative Humidity Threshold: 83%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -98.9200
 zipSample: ["68862", "68859"]
 zipCodes: ["68862", "68859"]
 localPaths: ["Valley County / ZIP 68862 sector", "Valley County / primary ZIP 68862", "Valley County / ZIP 68859 sector", "Valley County / coords 41.6000, -98.9200", "Valley County / elevation 2041 ft band"]
+zillowHomeValueUsd: 193120
 ---
 
 **Engineering Notice for Ord:** structural drying capacity optimized for 2041ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Valley County. Relative Humidity Threshold: 70%. Sensor sync: Active.

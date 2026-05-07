@@ -12,6 +12,7 @@ lng: -78.0200
 zipSample: ["16915"]
 zipCodes: ["16915"]
 localPaths: ["Potter County / primary ZIP 16915", "Potter County / elevation 1890 ft band", "Potter County / ZIP 16915 sector", "Potter County / coords 41.7800, -78.0200"]
+zillowHomeValueUsd: 180775
 ---
 
 **Engineering Notice for Coudersport:** structural drying capacity optimized for 1890ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Potter County. Relative Humidity Threshold: 66%. Sensor sync: Active.

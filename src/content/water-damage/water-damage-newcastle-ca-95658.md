@@ -12,6 +12,7 @@ lng: -121.1300
 zipSample: ["95658"]
 zipCodes: ["95658"]
 localPaths: ["Placer County / ZIP 95658 sector", "Placer County / elevation 820 ft band", "Placer County / primary ZIP 95658", "Placer County / coords 38.8700, -121.1300"]
+zillowHomeValueUsd: 930763
 ---
 
 **Engineering Notice for Newcastle:** structural drying capacity optimized for 820ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Placer County. Relative Humidity Threshold: 72%. Sensor sync: Active.

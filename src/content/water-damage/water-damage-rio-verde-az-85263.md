@@ -12,6 +12,7 @@ lng: -111.6700
 zipSample: ["85263"]
 zipCodes: ["85263"]
 localPaths: ["Maricopa County / ZIP 85263 sector", "Maricopa County / coords 33.7300, -111.6700", "Maricopa County / elevation 1608 ft band", "Maricopa County / primary ZIP 85263"]
+zillowHomeValueUsd: 841910
 ---
 
 **Engineering Notice for Rio Verde:** structural drying capacity optimized for 1608ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Maricopa County. Relative Humidity Threshold: 76%. Sensor sync: Active.

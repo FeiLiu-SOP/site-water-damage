@@ -12,6 +12,7 @@ lng: -82.8600
 zipSample: ["37873", "37857"]
 zipCodes: ["37873", "37857"]
 localPaths: ["Hawkins County / elevation 1388 ft band", "Hawkins County / ZIP 37857 sector", "Hawkins County / coords 36.4700, -82.8600", "Hawkins County / primary ZIP 37857", "Hawkins County / ZIP 37873 sector"]
+zillowHomeValueUsd: 231772
 ---
 
 **Engineering Notice for Surgoinsville:** structural drying capacity optimized for 1388ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hawkins County. Relative Humidity Threshold: 82%. Sensor sync: Active.

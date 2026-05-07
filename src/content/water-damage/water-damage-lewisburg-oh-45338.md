@@ -12,6 +12,7 @@ lng: -84.5400
 zipSample: ["45338"]
 zipCodes: ["45338"]
 localPaths: ["Preble County / coords 39.8500, -84.5400", "Preble County / elevation 1001 ft band", "Preble County / primary ZIP 45338", "Preble County / ZIP 45338 sector"]
+zillowHomeValueUsd: 245530
 ---
 
 **Engineering Notice for Lewisburg:** structural drying capacity optimized for 1001ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Preble County. Relative Humidity Threshold: 85%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -74.5400
 zipSample: ["07801"]
 zipCodes: ["07801"]
 localPaths: ["Morris County / coords 40.8800, -74.5400", "Morris County / primary ZIP 07801", "Morris County / ZIP 07801 sector", "Morris County / elevation 646 ft band"]
+zillowHomeValueUsd: 500472
 ---
 
 **Engineering Notice for Victory Gardens:** structural drying capacity optimized for 646ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Morris County. Relative Humidity Threshold: 65%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -120.6800
 zipSample: ["95709"]
 zipCodes: ["95709"]
 localPaths: ["El Dorado County / ZIP 95709 sector", "El Dorado County / primary ZIP 95709", "El Dorado County / elevation 3097 ft band", "El Dorado County / coords 38.7400, -120.6800"]
+zillowHomeValueUsd: 506765
 ---
 
 **Engineering Notice for Camino:** structural drying capacity optimized for 3097ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: El Dorado County. Relative Humidity Threshold: 81%. Sensor sync: Active.

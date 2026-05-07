@@ -12,6 +12,7 @@ lng: -99.8300
 zipSample: ["78801"]
 zipCodes: ["78801"]
 localPaths: ["Uvalde County / primary ZIP 78801", "Uvalde County / ZIP 78801 sector", "Uvalde County / elevation 935 ft band", "Uvalde County / coords 29.1700, -99.8300"]
+zillowHomeValueUsd: 182607
 ---
 
 **Engineering Notice for Uvalde Estates:** structural drying capacity optimized for 935ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Uvalde County. Relative Humidity Threshold: 82%. Sensor sync: Active.

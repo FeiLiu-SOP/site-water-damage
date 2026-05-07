@@ -12,6 +12,7 @@ lng: -85.6200
 zipSample: ["40220"]
 zipCodes: ["40220"]
 localPaths: ["Jefferson County / ZIP 40220 sector", "Jefferson County / elevation 568 ft band", "Jefferson County / coords 38.2300, -85.6200", "Jefferson County / primary ZIP 40220"]
+zillowHomeValueUsd: 290889
 ---
 
 **Engineering Notice for St. Regis Park:** structural drying capacity optimized for 568ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 65%. Sensor sync: Active.

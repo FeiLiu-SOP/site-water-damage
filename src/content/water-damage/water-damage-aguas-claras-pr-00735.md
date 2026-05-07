@@ -12,6 +12,8 @@ lng: -65.6700
 zipSample: ["00735"]
 zipCodes: ["00735"]
 localPaths: ["Ceiba County / coords 18.2400, -65.6700", "Ceiba County / ZIP 00735 sector", "Ceiba County / elevation 367 ft band", "Ceiba County / primary ZIP 00735"]
+zillowHomeValueUsd: 368080
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Aguas Claras:** structural drying capacity optimized for 367ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ceiba County. Relative Humidity Threshold: 79%. Sensor sync: Active.

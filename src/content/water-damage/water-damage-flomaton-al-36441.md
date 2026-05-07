@@ -12,6 +12,7 @@ lng: -87.2500
 zipSample: ["36441"]
 zipCodes: ["36441"]
 localPaths: ["Escambia County / primary ZIP 36441", "Escambia County / coords 31.0100, -87.2500", "Escambia County / ZIP 36441 sector", "Escambia County / elevation 138 ft band"]
+zillowHomeValueUsd: 140247
 ---
 
 **Engineering Notice for Flomaton:** structural drying capacity optimized for 138ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Escambia County. Relative Humidity Threshold: 71%. Sensor sync: Active.

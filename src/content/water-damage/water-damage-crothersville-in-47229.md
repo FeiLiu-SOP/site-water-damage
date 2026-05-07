@@ -12,6 +12,7 @@ lng: -85.8400
 zipSample: ["47229"]
 zipCodes: ["47229"]
 localPaths: ["Jackson County / coords 38.7900, -85.8400", "Jackson County / primary ZIP 47229", "Jackson County / ZIP 47229 sector", "Jackson County / elevation 564 ft band"]
+zillowHomeValueUsd: 196849
 ---
 
 **Engineering Notice for Crothersville:** structural drying capacity optimized for 564ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jackson County. Relative Humidity Threshold: 76%. Sensor sync: Active.

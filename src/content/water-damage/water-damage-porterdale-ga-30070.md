@@ -12,6 +12,8 @@ lng: -83.8900
 zipSample: ["30014", "30016", "30070"]
 zipCodes: ["30016", "30014", "30070"]
 localPaths: ["Newton County / primary ZIP 30070", "Newton County / ZIP 30016 sector", "Newton County / ZIP 30014 sector", "Newton County / ZIP 30070 sector", "Newton County / elevation 699 ft band"]
+zillowHomeValueUsd: 281209
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Porterdale:** structural drying capacity optimized for 699ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Newton County. Relative Humidity Threshold: 75%. Sensor sync: Active.

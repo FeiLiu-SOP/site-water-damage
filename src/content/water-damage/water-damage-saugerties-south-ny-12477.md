@@ -12,6 +12,7 @@ lng: -73.9500
 zipSample: ["12477"]
 zipCodes: ["12477"]
 localPaths: ["Ulster County / ZIP 12477 sector", "Ulster County / elevation 154 ft band", "Ulster County / primary ZIP 12477", "Ulster County / coords 42.0600, -73.9500"]
+zillowHomeValueUsd: 400289
 ---
 
 **Engineering Notice for Saugerties South:** structural drying capacity optimized for 154ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ulster County. Relative Humidity Threshold: 72%. Sensor sync: Active.

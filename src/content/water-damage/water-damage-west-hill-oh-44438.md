@@ -12,6 +12,7 @@ lng: -80.5300
 zipSample: ["44438"]
 zipCodes: ["44438"]
 localPaths: ["Trumbull County / ZIP 44438 sector", "Trumbull County / elevation 906 ft band", "Trumbull County / primary ZIP 44438", "Trumbull County / coords 41.2300, -80.5300"]
+zillowHomeValueUsd: 91225
 ---
 
 **Engineering Notice for West Hill:** structural drying capacity optimized for 906ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Trumbull County. Relative Humidity Threshold: 74%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -70.7300
 zipSample: ["02571"]
 zipCodes: ["02571"]
 localPaths: ["Plymouth County / primary ZIP 02571", "Plymouth County / coords 41.7400, -70.7300", "Plymouth County / ZIP 02571 sector", "Plymouth County / elevation 13 ft band"]
+zillowHomeValueUsd: 469233
 ---
 
 **Engineering Notice for Weweantic:** structural drying capacity optimized for 13ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Plymouth County. Relative Humidity Threshold: 74%. Sensor sync: Active.

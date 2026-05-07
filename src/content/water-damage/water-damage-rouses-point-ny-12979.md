@@ -12,6 +12,7 @@ lng: -73.3600
 zipSample: ["12979"]
 zipCodes: ["12979"]
 localPaths: ["Clinton County / ZIP 12979 sector", "Clinton County / primary ZIP 12979", "Clinton County / coords 44.9900, -73.3600", "Clinton County / elevation 95 ft band"]
+zillowHomeValueUsd: 205855
 ---
 
 **Engineering Notice for Rouses Point:** structural drying capacity optimized for 95ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clinton County. Relative Humidity Threshold: 78%. Sensor sync: Active.

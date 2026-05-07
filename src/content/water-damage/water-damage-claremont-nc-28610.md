@@ -12,6 +12,7 @@ lng: -81.1500
 zipSample: ["28610"]
 zipCodes: ["28610"]
 localPaths: ["Catawba County / coords 35.7100, -81.1500", "Catawba County / ZIP 28610 sector", "Catawba County / primary ZIP 28610", "Catawba County / elevation 965 ft band"]
+zillowHomeValueUsd: 259567
 ---
 
 **Engineering Notice for Claremont:** structural drying capacity optimized for 965ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Catawba County. Relative Humidity Threshold: 65%. Sensor sync: Active.

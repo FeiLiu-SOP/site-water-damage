@@ -12,6 +12,7 @@ lng: -83.7900
 zipSample: ["43569"]
 zipCodes: ["43569"]
 localPaths: ["Wood County / ZIP 43569 sector", "Wood County / coords 41.3500, -83.7900", "Wood County / elevation 682 ft band", "Wood County / primary ZIP 43569"]
+zillowHomeValueUsd: 163794
 ---
 
 **Engineering Notice for Weston:** structural drying capacity optimized for 682ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wood County. Relative Humidity Threshold: 77%. Sensor sync: Active.

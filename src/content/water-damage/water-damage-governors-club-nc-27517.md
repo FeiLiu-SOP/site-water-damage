@@ -12,6 +12,7 @@ lng: -79.0500
 zipSample: ["27517"]
 zipCodes: ["27517"]
 localPaths: ["Chatham County / coords 35.8400, -79.0500", "Chatham County / ZIP 27517 sector", "Chatham County / primary ZIP 27517", "Chatham County / elevation 469 ft band"]
+zillowHomeValueUsd: 674733
 ---
 
 **Engineering Notice for Governors Club:** structural drying capacity optimized for 469ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chatham County. Relative Humidity Threshold: 84%. Sensor sync: Active.

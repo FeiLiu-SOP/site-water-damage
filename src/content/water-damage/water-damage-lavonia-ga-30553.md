@@ -12,6 +12,7 @@ lng: -83.1100
 zipSample: ["30553"]
 zipCodes: ["30553"]
 localPaths: ["Franklin County / elevation 856 ft band", "Franklin County / ZIP 30553 sector", "Franklin County / coords 34.4300, -83.1100", "Franklin County / primary ZIP 30553"]
+zillowHomeValueUsd: 316703
 ---
 
 **Engineering Notice for Lavonia:** structural drying capacity optimized for 856ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Franklin County. Relative Humidity Threshold: 79%. Sensor sync: Active.

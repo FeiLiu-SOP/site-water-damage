@@ -12,6 +12,7 @@ lng: -85.7700
 zipSample: ["36330", "36322"]
 zipCodes: ["36322", "36330"]
 localPaths: ["Dale County / ZIP 36330 sector", "Dale County / ZIP 36322 sector", "Dale County / coords 31.3100, -85.7700", "Dale County / primary ZIP 36330", "Dale County / elevation 338 ft band"]
+zillowHomeValueUsd: 203873
 ---
 
 **Engineering Notice for Level Plains:** structural drying capacity optimized for 338ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dale County. Relative Humidity Threshold: 74%. Sensor sync: Active.

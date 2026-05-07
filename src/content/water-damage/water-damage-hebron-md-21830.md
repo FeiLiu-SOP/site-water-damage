@@ -12,6 +12,7 @@ lng: -75.6900
 zipSample: ["21830"]
 zipCodes: ["21830"]
 localPaths: ["Wicomico County / coords 38.4200, -75.6900", "Wicomico County / ZIP 21830 sector", "Wicomico County / primary ZIP 21830", "Wicomico County / elevation 39 ft band"]
+zillowHomeValueUsd: 315909
 ---
 
 **Engineering Notice for Hebron:** structural drying capacity optimized for 39ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wicomico County. Relative Humidity Threshold: 72%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -124.0600
 zipSample: ["97341"]
 zipCodes: ["97341"]
 localPaths: ["Lincoln County / primary ZIP 97341", "Lincoln County / coords 44.8100, -124.0600", "Lincoln County / ZIP 97341 sector", "Lincoln County / elevation 3 ft band"]
+zillowHomeValueUsd: 544632
 ---
 
 **Engineering Notice for Depoe Bay:** structural drying capacity optimized for 3ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lincoln County. Relative Humidity Threshold: 79%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -90.5300
 zipSample: ["38737"]
 zipCodes: ["38737"]
 localPaths: ["Sunflower County / coords 33.8100, -90.5300", "Sunflower County / elevation 144 ft band", "Sunflower County / primary ZIP 38737", "Sunflower County / ZIP 38737 sector"]
+zillowHomeValueUsd: 79827
 ---
 
 **Engineering Notice for Drew:** structural drying capacity optimized for 144ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sunflower County. Relative Humidity Threshold: 79%. Sensor sync: Active.

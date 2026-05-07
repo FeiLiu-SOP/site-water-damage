@@ -12,6 +12,7 @@ lng: -109.9500
 zipSample: ["84066"]
 zipCodes: ["84066"]
 localPaths: ["Uintah County / coords 40.2900, -109.9500", "Uintah County / elevation 5023 ft band", "Uintah County / ZIP 84066 sector", "Uintah County / primary ZIP 84066"]
+zillowHomeValueUsd: 371841
 ---
 
 **Engineering Notice for Ballard:** structural drying capacity optimized for 5023ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Uintah County. Relative Humidity Threshold: 67%. Sensor sync: Active.

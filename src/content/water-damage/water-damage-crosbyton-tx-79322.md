@@ -12,6 +12,7 @@ lng: -101.2400
 zipSample: ["79322"]
 zipCodes: ["79322"]
 localPaths: ["Crosby County / coords 33.6400, -101.2400", "Crosby County / ZIP 79322 sector", "Crosby County / elevation 3009 ft band", "Crosby County / primary ZIP 79322"]
+zillowHomeValueUsd: 74263
 ---
 
 **Engineering Notice for Crosbyton:** structural drying capacity optimized for 3009ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Crosby County. Relative Humidity Threshold: 73%. Sensor sync: Active.

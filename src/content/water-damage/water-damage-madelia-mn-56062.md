@@ -12,6 +12,7 @@ lng: -94.4200
 zipSample: ["56062"]
 zipCodes: ["56062"]
 localPaths: ["Watonwan County / ZIP 56062 sector", "Watonwan County / coords 44.0500, -94.4200", "Watonwan County / primary ZIP 56062", "Watonwan County / elevation 997 ft band"]
+zillowHomeValueUsd: 204234
 ---
 
 **Engineering Notice for Madelia:** structural drying capacity optimized for 997ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Watonwan County. Relative Humidity Threshold: 75%. Sensor sync: Active.

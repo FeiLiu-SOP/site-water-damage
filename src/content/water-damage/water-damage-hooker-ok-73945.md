@@ -12,6 +12,7 @@ lng: -101.2200
 zipSample: ["73945"]
 zipCodes: ["73945"]
 localPaths: ["Texas County / ZIP 73945 sector", "Texas County / elevation 2995 ft band", "Texas County / primary ZIP 73945", "Texas County / coords 36.8600, -101.2200"]
+zillowHomeValueUsd: 159440
 ---
 
 **Engineering Notice for Hooker:** structural drying capacity optimized for 2995ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Texas County. Relative Humidity Threshold: 68%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -90.5500
 zipSample: ["72411"]
 zipCodes: ["72411"]
 localPaths: ["Craighead County / primary ZIP 72411", "Craighead County / coords 35.7500, -90.5500", "Craighead County / ZIP 72411 sector", "Craighead County / elevation 223 ft band"]
+zillowHomeValueUsd: 136138
 ---
 
 **Engineering Notice for Bay:** structural drying capacity optimized for 223ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Craighead County. Relative Humidity Threshold: 68%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -76.7600
 zipSample: ["20772", "20613", "20775"]
 zipCodes: ["20613", "20772", "20775"]
 localPaths: ["Prince George's County / coords 38.7500, -76.7600", "Prince George's County / ZIP 20772 sector", "Prince George's County / ZIP 20613 sector", "Prince George's County / primary ZIP 20613", "Prince George's County / elevation 200 ft band"]
+zillowHomeValueUsd: 509175
 ---
 
 **Engineering Notice for Croom:** structural drying capacity optimized for 200ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Prince George's County. Relative Humidity Threshold: 78%. Sensor sync: Active.

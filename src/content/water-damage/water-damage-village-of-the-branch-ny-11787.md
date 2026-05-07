@@ -12,6 +12,7 @@ lng: -73.1800
 zipSample: ["11787"]
 zipCodes: ["11787"]
 localPaths: ["Suffolk County / primary ZIP 11787", "Suffolk County / ZIP 11787 sector", "Suffolk County / coords 40.8500, -73.1800", "Suffolk County / elevation 59 ft band"]
+zillowHomeValueUsd: 794529
 ---
 
 **Engineering Notice for Village of the Branch:** structural drying capacity optimized for 59ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Suffolk County. Relative Humidity Threshold: 82%. Sensor sync: Active.

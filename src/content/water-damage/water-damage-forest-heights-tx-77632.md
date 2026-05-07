@@ -12,6 +12,7 @@ lng: -93.7600
 zipSample: ["77632"]
 zipCodes: ["77632"]
 localPaths: ["Orange County / primary ZIP 77632", "Orange County / elevation 49 ft band", "Orange County / coords 30.2300, -93.7600", "Orange County / ZIP 77632 sector"]
+zillowHomeValueUsd: 222933
 ---
 
 **Engineering Notice for Forest Heights:** structural drying capacity optimized for 49ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Orange County. Relative Humidity Threshold: 76%. Sensor sync: Active.

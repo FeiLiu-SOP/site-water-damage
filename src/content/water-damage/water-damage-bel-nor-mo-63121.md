@@ -12,6 +12,7 @@ lng: -90.3200
 zipSample: ["63133", "63121"]
 zipCodes: ["63133", "63121"]
 localPaths: ["St. Louis County / elevation 659 ft band", "St. Louis County / primary ZIP 63121", "St. Louis County / coords 38.7000, -90.3200", "St. Louis County / ZIP 63121 sector", "St. Louis County / ZIP 63133 sector"]
+zillowHomeValueUsd: 89964
 ---
 
 **Engineering Notice for Bel-Nor:** structural drying capacity optimized for 659ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Louis County. Relative Humidity Threshold: 85%. Sensor sync: Active.

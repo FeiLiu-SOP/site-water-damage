@@ -12,6 +12,7 @@ lng: -84.7900
 zipSample: ["45390"]
 zipCodes: ["45390"]
 localPaths: ["Darke County / primary ZIP 45390", "Darke County / ZIP 45390 sector", "Darke County / coords 40.2000, -84.7900", "Darke County / elevation 1089 ft band"]
+zillowHomeValueUsd: 148130
 ---
 
 **Engineering Notice for Union City:** structural drying capacity optimized for 1089ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Darke County. Relative Humidity Threshold: 65%. Sensor sync: Active.

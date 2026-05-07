@@ -12,6 +12,7 @@ lng: -75.3300
 zipSample: ["19405", "19428", "19406"]
 zipCodes: ["19405", "19428", "19406"]
 localPaths: ["Montgomery County / coords 40.0900, -75.3300", "Montgomery County / ZIP 19405 sector", "Montgomery County / elevation 121 ft band", "Montgomery County / ZIP 19428 sector", "Montgomery County / ZIP 19406 sector"]
+zillowHomeValueUsd: 493196
 ---
 
 **Engineering Notice for Swedeland:** structural drying capacity optimized for 121ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Montgomery County. Relative Humidity Threshold: 72%. Sensor sync: Active.

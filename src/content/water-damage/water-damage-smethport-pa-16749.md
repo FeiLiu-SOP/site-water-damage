@@ -12,6 +12,7 @@ lng: -78.4400
 zipSample: ["16749"]
 zipCodes: ["16749"]
 localPaths: ["McKean County / ZIP 16749 sector", "McKean County / primary ZIP 16749", "McKean County / elevation 1476 ft band", "McKean County / coords 41.8100, -78.4400"]
+zillowHomeValueUsd: 126333
 ---
 
 **Engineering Notice for Smethport:** structural drying capacity optimized for 1476ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McKean County. Relative Humidity Threshold: 65%. Sensor sync: Active.

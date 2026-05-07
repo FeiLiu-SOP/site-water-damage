@@ -12,6 +12,8 @@ lng: -91.6700
 zipSample: ["72082"]
 zipCodes: ["72082"]
 localPaths: ["White County / primary ZIP 72082", "White County / coords 35.2400, -91.6700", "White County / elevation 226 ft band", "White County / ZIP 72082 sector"]
+zillowHomeValueUsd: 194326
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Kensett:** structural drying capacity optimized for 226ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: White County. Relative Humidity Threshold: 70%. Sensor sync: Active.

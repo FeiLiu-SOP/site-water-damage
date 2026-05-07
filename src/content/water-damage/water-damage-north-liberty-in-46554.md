@@ -12,6 +12,7 @@ lng: -86.4300
 zipSample: ["46554"]
 zipCodes: ["46554"]
 localPaths: ["St. Joseph County / coords 41.5300, -86.4300", "St. Joseph County / primary ZIP 46554", "St. Joseph County / elevation 728 ft band", "St. Joseph County / ZIP 46554 sector"]
+zillowHomeValueUsd: 264279
 ---
 
 **Engineering Notice for North Liberty:** structural drying capacity optimized for 728ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Joseph County. Relative Humidity Threshold: 71%. Sensor sync: Active.

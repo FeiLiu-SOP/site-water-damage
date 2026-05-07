@@ -12,6 +12,7 @@ lng: -117.8700
 zipSample: ["97883"]
 zipCodes: ["97883"]
 localPaths: ["Union County / elevation 2782 ft band", "Union County / coords 45.2100, -117.8700", "Union County / primary ZIP 97883", "Union County / ZIP 97883 sector"]
+zillowHomeValueUsd: 300000
 ---
 
 **Engineering Notice for Union:** structural drying capacity optimized for 2782ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Union County. Relative Humidity Threshold: 78%. Sensor sync: Active.

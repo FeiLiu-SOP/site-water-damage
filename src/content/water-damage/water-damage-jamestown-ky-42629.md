@@ -12,6 +12,7 @@ lng: -85.0700
 zipSample: ["42629"]
 zipCodes: ["42629"]
 localPaths: ["Russell County / ZIP 42629 sector", "Russell County / coords 36.9900, -85.0700", "Russell County / primary ZIP 42629", "Russell County / elevation 968 ft band"]
+zillowHomeValueUsd: 162251
 ---
 
 **Engineering Notice for Jamestown:** structural drying capacity optimized for 968ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Russell County. Relative Humidity Threshold: 81%. Sensor sync: Active.

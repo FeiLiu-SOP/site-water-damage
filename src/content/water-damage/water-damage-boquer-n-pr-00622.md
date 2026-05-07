@@ -12,6 +12,8 @@ lng: -67.1700
 zipSample: ["00622"]
 zipCodes: ["00622"]
 localPaths: ["Cabo Rojo County / primary ZIP 00622", "Cabo Rojo County / ZIP 00622 sector", "Cabo Rojo County / elevation 62 ft band", "Cabo Rojo County / coords 18.0300, -67.1700"]
+zillowHomeValueUsd: 377814
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Boquerón:** structural drying capacity optimized for 62ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cabo Rojo County. Relative Humidity Threshold: 83%. Sensor sync: Active.

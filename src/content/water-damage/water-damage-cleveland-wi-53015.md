@@ -12,6 +12,7 @@ lng: -87.7500
 zipSample: ["53015"]
 zipCodes: ["53015"]
 localPaths: ["Manitowoc County / primary ZIP 53015", "Manitowoc County / elevation 646 ft band", "Manitowoc County / coords 43.9200, -87.7500", "Manitowoc County / ZIP 53015 sector"]
+zillowHomeValueUsd: 311954
 ---
 
 **Engineering Notice for Cleveland:** structural drying capacity optimized for 646ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Manitowoc County. Relative Humidity Threshold: 73%. Sensor sync: Active.

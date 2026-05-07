@@ -12,6 +12,7 @@ lng: -83.7700
 zipSample: ["45101"]
 zipCodes: ["45101"]
 localPaths: ["Brown County / coords 38.6700, -83.7700", "Brown County / ZIP 45101 sector", "Brown County / elevation 528 ft band", "Brown County / primary ZIP 45101"]
+zillowHomeValueUsd: 199300
 ---
 
 **Engineering Notice for Aberdeen:** structural drying capacity optimized for 528ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Brown County. Relative Humidity Threshold: 66%. Sensor sync: Active.

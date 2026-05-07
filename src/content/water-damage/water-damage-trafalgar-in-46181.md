@@ -12,6 +12,7 @@ lng: -86.1500
 zipSample: ["46181"]
 zipCodes: ["46181"]
 localPaths: ["Johnson County / elevation 843 ft band", "Johnson County / ZIP 46181 sector", "Johnson County / primary ZIP 46181", "Johnson County / coords 39.4100, -86.1500"]
+zillowHomeValueUsd: 369072
 ---
 
 **Engineering Notice for Trafalgar:** structural drying capacity optimized for 843ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Johnson County. Relative Humidity Threshold: 75%. Sensor sync: Active.

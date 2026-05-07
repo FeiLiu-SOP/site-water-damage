@@ -12,6 +12,7 @@ lng: -103.8100
 zipSample: ["69357"]
 zipCodes: ["69357"]
 localPaths: ["Scotts Bluff County / elevation 3957 ft band", "Scotts Bluff County / ZIP 69357 sector", "Scotts Bluff County / coords 41.9400, -103.8100", "Scotts Bluff County / primary ZIP 69357"]
+zillowHomeValueUsd: 207090
 ---
 
 **Engineering Notice for Mitchell:** structural drying capacity optimized for 3957ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Scotts Bluff County. Relative Humidity Threshold: 65%. Sensor sync: Active.

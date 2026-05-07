@@ -12,6 +12,7 @@ lng: -86.8000
 zipSample: ["46120"]
 zipCodes: ["46120"]
 localPaths: ["Putnam County / primary ZIP 46120", "Putnam County / elevation 797 ft band", "Putnam County / coords 39.5200, -86.8000", "Putnam County / ZIP 46120 sector"]
+zillowHomeValueUsd: 256431
 ---
 
 **Engineering Notice for Cloverdale:** structural drying capacity optimized for 797ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Putnam County. Relative Humidity Threshold: 69%. Sensor sync: Active.

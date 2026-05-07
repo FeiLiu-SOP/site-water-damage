@@ -12,6 +12,7 @@ lng: -114.4100
 zipSample: ["83352"]
 zipCodes: ["83352"]
 localPaths: ["Lincoln County / primary ZIP 83352", "Lincoln County / elevation 3973 ft band", "Lincoln County / coords 42.9400, -114.4100", "Lincoln County / ZIP 83352 sector"]
+zillowHomeValueUsd: 302804
 ---
 
 **Engineering Notice for Shoshone:** structural drying capacity optimized for 3973ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lincoln County. Relative Humidity Threshold: 83%. Sensor sync: Active.

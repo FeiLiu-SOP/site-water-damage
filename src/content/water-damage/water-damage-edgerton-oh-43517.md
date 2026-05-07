@@ -12,6 +12,7 @@ lng: -84.7500
 zipSample: ["43517"]
 zipCodes: ["43517"]
 localPaths: ["Williams County / coords 41.4500, -84.7500", "Williams County / primary ZIP 43517", "Williams County / ZIP 43517 sector", "Williams County / elevation 846 ft band"]
+zillowHomeValueUsd: 196633
 ---
 
 **Engineering Notice for Edgerton:** structural drying capacity optimized for 846ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Williams County. Relative Humidity Threshold: 75%. Sensor sync: Active.

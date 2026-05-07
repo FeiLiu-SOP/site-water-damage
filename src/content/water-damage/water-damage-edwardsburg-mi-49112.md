@@ -12,6 +12,7 @@ lng: -86.0800
 zipSample: ["49112"]
 zipCodes: ["49112"]
 localPaths: ["Cass County / ZIP 49112 sector", "Cass County / elevation 843 ft band", "Cass County / primary ZIP 49112", "Cass County / coords 41.8000, -86.0800"]
+zillowHomeValueUsd: 300239
 ---
 
 **Engineering Notice for Edwardsburg:** structural drying capacity optimized for 843ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cass County. Relative Humidity Threshold: 66%. Sensor sync: Active.

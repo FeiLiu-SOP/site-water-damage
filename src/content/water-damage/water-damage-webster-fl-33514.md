@@ -12,6 +12,7 @@ lng: -82.0500
 zipSample: ["33514", "33597"]
 zipCodes: ["33597", "33514"]
 localPaths: ["Sumter County / coords 28.6100, -82.0500", "Sumter County / ZIP 33514 sector", "Sumter County / elevation 118 ft band", "Sumter County / ZIP 33597 sector", "Sumter County / primary ZIP 33514"]
+zillowHomeValueUsd: 293112
 ---
 
 **Engineering Notice for Webster:** structural drying capacity optimized for 118ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sumter County. Relative Humidity Threshold: 66%. Sensor sync: Active.

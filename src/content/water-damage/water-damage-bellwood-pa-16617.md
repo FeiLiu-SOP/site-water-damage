@@ -12,6 +12,7 @@ lng: -78.3300
 zipSample: ["16617"]
 zipCodes: ["16617"]
 localPaths: ["Blair County / elevation 1073 ft band", "Blair County / coords 40.6000, -78.3300", "Blair County / primary ZIP 16617", "Blair County / ZIP 16617 sector"]
+zillowHomeValueUsd: 165064
 ---
 
 **Engineering Notice for Bellwood:** structural drying capacity optimized for 1073ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Blair County. Relative Humidity Threshold: 76%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -80.2000
 zipSample: ["33150", "33138"]
 zipCodes: ["33138", "33150"]
 localPaths: ["Miami-Dade County / coords 25.8600, -80.2000", "Miami-Dade County / elevation 39 ft band", "Miami-Dade County / ZIP 33150 sector", "Miami-Dade County / primary ZIP 33138", "Miami-Dade County / ZIP 33138 sector"]
+zillowHomeValueUsd: 792353
 ---
 
 **Engineering Notice for El Portal:** structural drying capacity optimized for 39ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Miami-Dade County. Relative Humidity Threshold: 74%. Sensor sync: Active.

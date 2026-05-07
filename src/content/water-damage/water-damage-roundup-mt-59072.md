@@ -12,6 +12,7 @@ lng: -108.5400
 zipSample: ["59072"]
 zipCodes: ["59072"]
 localPaths: ["Musselshell County / ZIP 59072 sector", "Musselshell County / elevation 3228 ft band", "Musselshell County / primary ZIP 59072", "Musselshell County / coords 46.4500, -108.5400"]
+zillowHomeValueUsd: 233708
 ---
 
 **Engineering Notice for Roundup:** structural drying capacity optimized for 3228ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Musselshell County. Relative Humidity Threshold: 67%. Sensor sync: Active.

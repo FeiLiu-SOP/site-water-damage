@@ -12,6 +12,7 @@ lng: -81.4500
 zipSample: ["34746"]
 zipCodes: ["34746"]
 localPaths: ["Osceola County / coords 28.2600, -81.4500", "Osceola County / ZIP 34746 sector", "Osceola County / primary ZIP 34746", "Osceola County / elevation 85 ft band"]
+zillowHomeValueUsd: 360667
 ---
 
 **Engineering Notice for Campbell:** structural drying capacity optimized for 85ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Osceola County. Relative Humidity Threshold: 78%. Sensor sync: Active.

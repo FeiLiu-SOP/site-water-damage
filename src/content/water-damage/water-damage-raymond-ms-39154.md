@@ -12,6 +12,7 @@ lng: -90.4100
 zipSample: ["39154"]
 zipCodes: ["39154"]
 localPaths: ["Hinds County / elevation 318 ft band", "Hinds County / coords 32.2600, -90.4100", "Hinds County / primary ZIP 39154", "Hinds County / ZIP 39154 sector"]
+zillowHomeValueUsd: 257603
 ---
 
 **Engineering Notice for Raymond:** structural drying capacity optimized for 318ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hinds County. Relative Humidity Threshold: 76%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -96.2300
 zipSample: ["75144"]
 zipCodes: ["75144"]
 localPaths: ["Navarro County / elevation 384 ft band", "Navarro County / ZIP 75144 sector", "Navarro County / primary ZIP 75144", "Navarro County / coords 32.1300, -96.2300"]
+zillowHomeValueUsd: 221727
 ---
 
 **Engineering Notice for Kerens:** structural drying capacity optimized for 384ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Navarro County. Relative Humidity Threshold: 65%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -91.8900
 zipSample: ["52345"]
 zipCodes: ["52345"]
 localPaths: ["Benton County / elevation 915 ft band", "Benton County / coords 42.2300, -91.8900", "Benton County / primary ZIP 52345", "Benton County / ZIP 52345 sector"]
+zillowHomeValueUsd: 260847
 ---
 
 **Engineering Notice for Urbana:** structural drying capacity optimized for 915ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Benton County. Relative Humidity Threshold: 78%. Sensor sync: Active.

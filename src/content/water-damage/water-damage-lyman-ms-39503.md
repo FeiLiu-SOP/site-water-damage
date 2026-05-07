@@ -12,6 +12,7 @@ lng: -89.1300
 zipSample: ["39503"]
 zipCodes: ["39503"]
 localPaths: ["Harrison County / ZIP 39503 sector", "Harrison County / elevation 102 ft band", "Harrison County / coords 30.5000, -89.1300", "Harrison County / primary ZIP 39503"]
+zillowHomeValueUsd: 224218
 ---
 
 **Engineering Notice for Lyman:** structural drying capacity optimized for 102ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harrison County. Relative Humidity Threshold: 77%. Sensor sync: Active.

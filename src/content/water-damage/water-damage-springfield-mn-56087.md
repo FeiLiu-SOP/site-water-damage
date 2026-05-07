@@ -12,6 +12,7 @@ lng: -94.9800
 zipSample: ["56087"]
 zipCodes: ["56087"]
 localPaths: ["Brown County / primary ZIP 56087", "Brown County / elevation 1060 ft band", "Brown County / ZIP 56087 sector", "Brown County / coords 44.2400, -94.9800"]
+zillowHomeValueUsd: 206979
 ---
 
 **Engineering Notice for Springfield:** structural drying capacity optimized for 1060ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Brown County. Relative Humidity Threshold: 80%. Sensor sync: Active.

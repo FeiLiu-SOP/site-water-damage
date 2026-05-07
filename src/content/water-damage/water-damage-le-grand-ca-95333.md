@@ -12,6 +12,7 @@ lng: -120.2500
 zipSample: ["95333"]
 zipCodes: ["95333"]
 localPaths: ["Merced County / elevation 259 ft band", "Merced County / coords 37.2300, -120.2500", "Merced County / ZIP 95333 sector", "Merced County / primary ZIP 95333"]
+zillowHomeValueUsd: 349774
 ---
 
 **Engineering Notice for Le Grand:** structural drying capacity optimized for 259ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Merced County. Relative Humidity Threshold: 81%. Sensor sync: Active.

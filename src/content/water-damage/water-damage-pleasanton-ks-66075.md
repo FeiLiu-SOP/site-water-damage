@@ -12,6 +12,7 @@ lng: -94.7100
 zipSample: ["66075"]
 zipCodes: ["66075"]
 localPaths: ["Linn County / elevation 869 ft band", "Linn County / ZIP 66075 sector", "Linn County / coords 38.1800, -94.7100", "Linn County / primary ZIP 66075"]
+zillowHomeValueUsd: 167228
 ---
 
 **Engineering Notice for Pleasanton:** structural drying capacity optimized for 869ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Linn County. Relative Humidity Threshold: 84%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -76.6000
 zipSample: ["21032"]
 zipCodes: ["21032"]
 localPaths: ["Anne Arundel County / primary ZIP 21032", "Anne Arundel County / coords 39.0700, -76.6000", "Anne Arundel County / ZIP 21032 sector", "Anne Arundel County / elevation 75 ft band"]
+zillowHomeValueUsd: 669443
 ---
 
 **Engineering Notice for Arden on the Severn:** structural drying capacity optimized for 75ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Anne Arundel County. Relative Humidity Threshold: 65%. Sensor sync: Active.

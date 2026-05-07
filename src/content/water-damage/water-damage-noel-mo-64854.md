@@ -12,6 +12,7 @@ lng: -94.4900
 zipSample: ["64854"]
 zipCodes: ["64854"]
 localPaths: ["McDonald County / primary ZIP 64854", "McDonald County / elevation 869 ft band", "McDonald County / coords 36.5400, -94.4900", "McDonald County / ZIP 64854 sector"]
+zillowHomeValueUsd: 201820
 ---
 
 **Engineering Notice for Noel:** structural drying capacity optimized for 869ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McDonald County. Relative Humidity Threshold: 81%. Sensor sync: Active.

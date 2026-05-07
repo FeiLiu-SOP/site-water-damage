@@ -12,6 +12,7 @@ lng: -73.6700
 zipSample: ["10526", "10536"]
 zipCodes: ["10526", "10536"]
 localPaths: ["Westchester County / ZIP 10536 sector", "Westchester County / elevation 328 ft band", "Westchester County / coords 41.2900, -73.6700", "Westchester County / ZIP 10526 sector", "Westchester County / primary ZIP 10536"]
+zillowHomeValueUsd: 1075575
 ---
 
 **Engineering Notice for Golden's Bridge:** structural drying capacity optimized for 328ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Westchester County. Relative Humidity Threshold: 69%. Sensor sync: Active.

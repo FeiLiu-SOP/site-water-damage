@@ -12,6 +12,7 @@ lng: -81.5100
 zipSample: ["44662"]
 zipCodes: ["44662"]
 localPaths: ["Stark County / coords 40.7300, -81.5100", "Stark County / primary ZIP 44662", "Stark County / elevation 955 ft band", "Stark County / ZIP 44662 sector"]
+zillowHomeValueUsd: 210081
 ---
 
 **Engineering Notice for Navarre:** structural drying capacity optimized for 955ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stark County. Relative Humidity Threshold: 84%. Sensor sync: Active.

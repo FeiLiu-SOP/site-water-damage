@@ -12,6 +12,7 @@ lng: -81.1400
 zipSample: ["29172", "29170"]
 zipCodes: ["29172", "29170"]
 localPaths: ["Lexington County / elevation 184 ft band", "Lexington County / ZIP 29172 sector", "Lexington County / primary ZIP 29170", "Lexington County / ZIP 29170 sector", "Lexington County / coords 33.9100, -81.1400"]
+zillowHomeValueUsd: 245231
 ---
 
 **Engineering Notice for South Congaree:** structural drying capacity optimized for 184ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lexington County. Relative Humidity Threshold: 81%. Sensor sync: Active.

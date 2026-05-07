@@ -12,6 +12,7 @@ lng: -80.3900
 zipSample: ["29154"]
 zipCodes: ["29154"]
 localPaths: ["Sumter County / elevation 174 ft band", "Sumter County / coords 33.8200, -80.3900", "Sumter County / ZIP 29154 sector", "Sumter County / primary ZIP 29154"]
+zillowHomeValueUsd: 235595
 ---
 
 **Engineering Notice for Privateer:** structural drying capacity optimized for 174ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sumter County. Relative Humidity Threshold: 68%. Sensor sync: Active.

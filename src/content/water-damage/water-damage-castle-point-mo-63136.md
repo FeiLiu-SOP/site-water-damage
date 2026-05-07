@@ -12,6 +12,7 @@ lng: -90.2500
 zipSample: ["63136"]
 zipCodes: ["63136"]
 localPaths: ["St. Louis County / elevation 492 ft band", "St. Louis County / coords 38.7600, -90.2500", "St. Louis County / ZIP 63136 sector", "St. Louis County / primary ZIP 63136"]
+zillowHomeValueUsd: 85959
 ---
 
 **Engineering Notice for Castle Point:** structural drying capacity optimized for 492ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Louis County. Relative Humidity Threshold: 80%. Sensor sync: Active.

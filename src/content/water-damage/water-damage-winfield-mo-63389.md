@@ -12,6 +12,7 @@ lng: -90.7500
 zipSample: ["63389"]
 zipCodes: ["63389"]
 localPaths: ["Lincoln County / coords 38.9900, -90.7500", "Lincoln County / elevation 548 ft band", "Lincoln County / ZIP 63389 sector", "Lincoln County / primary ZIP 63389"]
+zillowHomeValueUsd: 279673
 ---
 
 **Engineering Notice for Winfield:** structural drying capacity optimized for 548ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lincoln County. Relative Humidity Threshold: 80%. Sensor sync: Active.

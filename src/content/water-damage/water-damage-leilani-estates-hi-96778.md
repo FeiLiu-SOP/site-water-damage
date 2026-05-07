@@ -12,6 +12,7 @@ lng: -154.9200
 zipSample: ["96778"]
 zipCodes: ["96778"]
 localPaths: ["Hawaii County / primary ZIP 96778", "Hawaii County / elevation 755 ft band", "Hawaii County / coords 19.4700, -154.9200", "Hawaii County / ZIP 96778 sector"]
+zillowHomeValueUsd: 288895
 ---
 
 **Engineering Notice for Leilani Estates:** structural drying capacity optimized for 755ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hawaii County. Relative Humidity Threshold: 66%. Sensor sync: Active.

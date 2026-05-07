@@ -12,6 +12,8 @@ lng: -96.0600
 zipSample: ["74050", "74107", "74131", "74157"]
 zipCodes: ["74050", "74107", "74157", "74131"]
 localPaths: ["Tulsa County / coords 36.0800, -96.0600", "Tulsa County / elevation 745 ft band", "Tulsa County / primary ZIP 74050", "Tulsa County / ZIP 74050 sector", "Tulsa County / ZIP 74107 sector"]
+zillowHomeValueUsd: 194498
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Oakhurst:** structural drying capacity optimized for 745ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tulsa County. Relative Humidity Threshold: 74%. Sensor sync: Active.

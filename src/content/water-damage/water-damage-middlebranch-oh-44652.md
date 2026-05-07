@@ -12,6 +12,8 @@ lng: -81.3300
 zipSample: ["44721", "44652"]
 zipCodes: ["44652", "44721"]
 localPaths: ["Stark County / primary ZIP 44652", "Stark County / ZIP 44652 sector", "Stark County / ZIP 44721 sector", "Stark County / elevation 1112 ft band", "Stark County / coords 40.9000, -81.3300"]
+zillowHomeValueUsd: 226600
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Middlebranch:** structural drying capacity optimized for 1112ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stark County. Relative Humidity Threshold: 85%. Sensor sync: Active.

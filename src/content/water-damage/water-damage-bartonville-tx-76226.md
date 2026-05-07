@@ -12,6 +12,7 @@ lng: -97.1500
 zipSample: ["76226"]
 zipCodes: ["76226"]
 localPaths: ["Denton County / elevation 696 ft band", "Denton County / coords 33.0800, -97.1500", "Denton County / ZIP 76226 sector", "Denton County / primary ZIP 76226"]
+zillowHomeValueUsd: 575137
 ---
 
 **Engineering Notice for Bartonville:** structural drying capacity optimized for 696ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Denton County. Relative Humidity Threshold: 76%. Sensor sync: Active.

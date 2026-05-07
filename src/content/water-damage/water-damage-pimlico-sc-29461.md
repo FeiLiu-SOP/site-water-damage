@@ -12,6 +12,7 @@ lng: -79.9600
 zipSample: ["29461"]
 zipCodes: ["29461"]
 localPaths: ["Berkeley County / primary ZIP 29461", "Berkeley County / elevation 20 ft band", "Berkeley County / coords 33.1000, -79.9600", "Berkeley County / ZIP 29461 sector"]
+zillowHomeValueUsd: 360111
 ---
 
 **Engineering Notice for Pimlico:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Berkeley County. Relative Humidity Threshold: 70%. Sensor sync: Active.

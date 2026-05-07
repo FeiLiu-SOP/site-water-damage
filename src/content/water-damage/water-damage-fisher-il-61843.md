@@ -12,6 +12,7 @@ lng: -88.3500
 zipSample: ["61843"]
 zipCodes: ["61843"]
 localPaths: ["Champaign County / coords 40.3200, -88.3500", "Champaign County / elevation 715 ft band", "Champaign County / primary ZIP 61843", "Champaign County / ZIP 61843 sector"]
+zillowHomeValueUsd: 226709
 ---
 
 **Engineering Notice for Fisher:** structural drying capacity optimized for 715ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Champaign County. Relative Humidity Threshold: 66%. Sensor sync: Active.

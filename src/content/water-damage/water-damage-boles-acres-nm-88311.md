@@ -12,6 +12,8 @@ lng: -105.9800
 zipSample: ["88310", "88311"]
 zipCodes: ["88311", "88310"]
 localPaths: ["Otero County / elevation 4111 ft band", "Otero County / primary ZIP 88311", "Otero County / coords 32.8200, -105.9800", "Otero County / ZIP 88311 sector", "Otero County / ZIP 88310 sector"]
+zillowHomeValueUsd: 317319
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Boles Acres:** structural drying capacity optimized for 4111ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Otero County. Relative Humidity Threshold: 80%. Sensor sync: Active.

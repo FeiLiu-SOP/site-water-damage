@@ -12,6 +12,7 @@ lng: -97.4600
 zipSample: ["68748"]
 zipCodes: ["68748"]
 localPaths: ["Madison County / elevation 1581 ft band", "Madison County / ZIP 68748 sector", "Madison County / primary ZIP 68748", "Madison County / coords 41.8300, -97.4600"]
+zillowHomeValueUsd: 214273
 ---
 
 **Engineering Notice for Madison:** structural drying capacity optimized for 1581ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Madison County. Relative Humidity Threshold: 76%. Sensor sync: Active.

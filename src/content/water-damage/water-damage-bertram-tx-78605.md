@@ -12,6 +12,7 @@ lng: -98.0600
 zipSample: ["78605"]
 zipCodes: ["78605"]
 localPaths: ["Burnet County / elevation 1270 ft band", "Burnet County / primary ZIP 78605", "Burnet County / coords 30.7400, -98.0600", "Burnet County / ZIP 78605 sector"]
+zillowHomeValueUsd: 422317
 ---
 
 **Engineering Notice for Bertram:** structural drying capacity optimized for 1270ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Burnet County. Relative Humidity Threshold: 84%. Sensor sync: Active.

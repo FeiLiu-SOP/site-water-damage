@@ -12,6 +12,7 @@ lng: -116.1100
 zipSample: ["89822"]
 zipCodes: ["89822"]
 localPaths: ["Elko County / primary ZIP 89822", "Elko County / ZIP 89822 sector", "Elko County / coords 40.7200, -116.1100", "Elko County / elevation 4961 ft band"]
+zillowHomeValueUsd: 216358
 ---
 
 **Engineering Notice for Carlin:** structural drying capacity optimized for 4961ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Elko County. Relative Humidity Threshold: 70%. Sensor sync: Active.

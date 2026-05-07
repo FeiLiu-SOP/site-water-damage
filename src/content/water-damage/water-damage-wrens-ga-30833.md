@@ -12,6 +12,7 @@ lng: -82.3900
 zipSample: ["30833"]
 zipCodes: ["30833"]
 localPaths: ["Jefferson County / coords 33.2100, -82.3900", "Jefferson County / primary ZIP 30833", "Jefferson County / ZIP 30833 sector", "Jefferson County / elevation 436 ft band"]
+zillowHomeValueUsd: 137155
 ---
 
 **Engineering Notice for Wrens:** structural drying capacity optimized for 436ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 74%. Sensor sync: Active.

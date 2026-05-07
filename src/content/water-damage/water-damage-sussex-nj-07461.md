@@ -12,6 +12,7 @@ lng: -74.6100
 zipSample: ["07461"]
 zipCodes: ["07461"]
 localPaths: ["Sussex County / primary ZIP 07461", "Sussex County / coords 41.2100, -74.6100", "Sussex County / elevation 449 ft band", "Sussex County / ZIP 07461 sector"]
+zillowHomeValueUsd: 447841
 ---
 
 **Engineering Notice for Sussex:** structural drying capacity optimized for 449ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sussex County. Relative Humidity Threshold: 74%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -88.0800
 zipSample: ["60433", "60436"]
 zipCodes: ["60436", "60433"]
 localPaths: ["Will County / ZIP 60436 sector", "Will County / ZIP 60433 sector", "Will County / primary ZIP 60433", "Will County / elevation 636 ft band", "Will County / coords 41.5000, -88.0800"]
+zillowHomeValueUsd: 207311
 ---
 
 **Engineering Notice for Preston Heights:** structural drying capacity optimized for 636ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Will County. Relative Humidity Threshold: 69%. Sensor sync: Active.

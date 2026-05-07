@@ -12,6 +12,7 @@ lng: -95.7200
 zipSample: ["74501", "74554"]
 zipCodes: ["74554", "74501"]
 localPaths: ["Pittsburg County / elevation 686 ft band", "Pittsburg County / primary ZIP 74554", "Pittsburg County / coords 34.9300, -95.7200", "Pittsburg County / ZIP 74554 sector", "Pittsburg County / ZIP 74501 sector"]
+zillowHomeValueUsd: 114882
 ---
 
 **Engineering Notice for Krebs:** structural drying capacity optimized for 686ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pittsburg County. Relative Humidity Threshold: 82%. Sensor sync: Active.

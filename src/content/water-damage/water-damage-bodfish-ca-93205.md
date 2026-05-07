@@ -12,6 +12,7 @@ lng: -118.4800
 zipSample: ["93205"]
 zipCodes: ["93205"]
 localPaths: ["Kern County / coords 35.5800, -118.4800", "Kern County / elevation 3389 ft band", "Kern County / ZIP 93205 sector", "Kern County / primary ZIP 93205"]
+zillowHomeValueUsd: 186257
 ---
 
 **Engineering Notice for Bodfish:** structural drying capacity optimized for 3389ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kern County. Relative Humidity Threshold: 67%. Sensor sync: Active.

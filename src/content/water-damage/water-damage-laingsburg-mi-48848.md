@@ -12,6 +12,7 @@ lng: -84.3500
 zipSample: ["48848"]
 zipCodes: ["48848"]
 localPaths: ["Shiawassee County / ZIP 48848 sector", "Shiawassee County / primary ZIP 48848", "Shiawassee County / coords 42.8900, -84.3500", "Shiawassee County / elevation 833 ft band"]
+zillowHomeValueUsd: 297989
 ---
 
 **Engineering Notice for Laingsburg:** structural drying capacity optimized for 833ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Shiawassee County. Relative Humidity Threshold: 70%. Sensor sync: Active.

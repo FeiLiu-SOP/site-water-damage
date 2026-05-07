@@ -12,6 +12,7 @@ lng: -78.6500
 zipSample: ["22842", "22847"]
 zipCodes: ["22842", "22847"]
 localPaths: ["Shenandoah County / elevation 932 ft band", "Shenandoah County / ZIP 22842 sector", "Shenandoah County / coords 38.7400, -78.6500", "Shenandoah County / primary ZIP 22847", "Shenandoah County / ZIP 22847 sector"]
+zillowHomeValueUsd: 368760
 ---
 
 **Engineering Notice for Mount Jackson:** structural drying capacity optimized for 932ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Shenandoah County. Relative Humidity Threshold: 79%. Sensor sync: Active.

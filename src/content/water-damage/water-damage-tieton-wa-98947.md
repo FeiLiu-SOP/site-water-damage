@@ -12,6 +12,7 @@ lng: -120.7600
 zipSample: ["98947"]
 zipCodes: ["98947"]
 localPaths: ["Yakima County / elevation 1926 ft band", "Yakima County / coords 46.7000, -120.7600", "Yakima County / ZIP 98947 sector", "Yakima County / primary ZIP 98947"]
+zillowHomeValueUsd: 345887
 ---
 
 **Engineering Notice for Tieton:** structural drying capacity optimized for 1926ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Yakima County. Relative Humidity Threshold: 73%. Sensor sync: Active.

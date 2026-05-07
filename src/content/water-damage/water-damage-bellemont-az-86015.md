@@ -12,6 +12,7 @@ lng: -111.8100
 zipSample: ["86015", "86001"]
 zipCodes: ["86015", "86001"]
 localPaths: ["Coconino County / ZIP 86015 sector", "Coconino County / coords 35.2400, -111.8100", "Coconino County / ZIP 86001 sector", "Coconino County / elevation 7169 ft band", "Coconino County / primary ZIP 86015"]
+zillowHomeValueUsd: 545348
 ---
 
 **Engineering Notice for Bellemont:** structural drying capacity optimized for 7169ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Coconino County. Relative Humidity Threshold: 69%. Sensor sync: Active.

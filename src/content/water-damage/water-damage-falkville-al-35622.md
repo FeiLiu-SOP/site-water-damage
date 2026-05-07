@@ -12,6 +12,7 @@ lng: -86.9100
 zipSample: ["35622"]
 zipCodes: ["35622"]
 localPaths: ["Morgan County / elevation 600 ft band", "Morgan County / primary ZIP 35622", "Morgan County / ZIP 35622 sector", "Morgan County / coords 34.3800, -86.9100"]
+zillowHomeValueUsd: 207665
 ---
 
 **Engineering Notice for Falkville:** structural drying capacity optimized for 600ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Morgan County. Relative Humidity Threshold: 68%. Sensor sync: Active.

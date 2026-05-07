@@ -12,6 +12,7 @@ lng: -89.1000
 zipSample: ["39443"]
 zipCodes: ["39443"]
 localPaths: ["Jones County / coords 31.7900, -89.1000", "Jones County / ZIP 39443 sector", "Jones County / elevation 315 ft band", "Jones County / primary ZIP 39443"]
+zillowHomeValueUsd: 173504
 ---
 
 **Engineering Notice for Sharon:** structural drying capacity optimized for 315ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jones County. Relative Humidity Threshold: 69%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -122.6700
 zipSample: ["94951"]
 zipCodes: ["94951"]
 localPaths: ["Sonoma County / elevation 85 ft band", "Sonoma County / coords 38.3000, -122.6700", "Sonoma County / ZIP 94951 sector", "Sonoma County / primary ZIP 94951"]
+zillowHomeValueUsd: 1261647
 ---
 
 **Engineering Notice for Penngrove:** structural drying capacity optimized for 85ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sonoma County. Relative Humidity Threshold: 77%. Sensor sync: Active.

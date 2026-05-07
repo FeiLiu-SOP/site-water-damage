@@ -12,6 +12,7 @@ lng: -95.2000
 zipSample: ["75765"]
 zipCodes: ["75765"]
 localPaths: ["Wood County / ZIP 75765 sector", "Wood County / primary ZIP 75765", "Wood County / elevation 430 ft band", "Wood County / coords 32.5900, -95.2000"]
+zillowHomeValueUsd: 256124
 ---
 
 **Engineering Notice for Hawkins:** structural drying capacity optimized for 430ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wood County. Relative Humidity Threshold: 72%. Sensor sync: Active.

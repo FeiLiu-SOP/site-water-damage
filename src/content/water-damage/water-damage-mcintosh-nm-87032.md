@@ -12,6 +12,7 @@ lng: -106.0600
 zipSample: ["87035", "87032", "87016"]
 zipCodes: ["87035", "87016", "87032"]
 localPaths: ["Torrance County / ZIP 87032 sector", "Torrance County / ZIP 87035 sector", "Torrance County / elevation 6152 ft band", "Torrance County / primary ZIP 87032", "Torrance County / coords 34.8800, -106.0600"]
+zillowHomeValueUsd: 217569
 ---
 
 **Engineering Notice for McIntosh:** structural drying capacity optimized for 6152ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Torrance County. Relative Humidity Threshold: 68%. Sensor sync: Active.

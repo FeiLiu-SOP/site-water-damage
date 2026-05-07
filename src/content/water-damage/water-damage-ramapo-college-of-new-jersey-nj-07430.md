@@ -12,6 +12,7 @@ lng: -74.1700
 zipSample: ["07430"]
 zipCodes: ["07430"]
 localPaths: ["Bergen County / primary ZIP 07430", "Bergen County / coords 41.0800, -74.1700", "Bergen County / elevation 335 ft band", "Bergen County / ZIP 07430 sector"]
+zillowHomeValueUsd: 713178
 ---
 
 **Engineering Notice for Ramapo College of New Jersey:** structural drying capacity optimized for 335ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bergen County. Relative Humidity Threshold: 67%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -78.1700
 zipSample: ["21750"]
 zipCodes: ["21750"]
 localPaths: ["Washington County / primary ZIP 21750", "Washington County / coords 39.7100, -78.1700", "Washington County / elevation 591 ft band", "Washington County / ZIP 21750 sector"]
+zillowHomeValueUsd: 255462
 ---
 
 **Engineering Notice for Hancock:** structural drying capacity optimized for 591ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 69%. Sensor sync: Active.

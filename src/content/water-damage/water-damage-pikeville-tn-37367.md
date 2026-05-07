@@ -12,6 +12,7 @@ lng: -85.2000
 zipSample: ["37367"]
 zipCodes: ["37367"]
 localPaths: ["Bledsoe County / ZIP 37367 sector", "Bledsoe County / primary ZIP 37367", "Bledsoe County / coords 35.6000, -85.2000", "Bledsoe County / elevation 840 ft band"]
+zillowHomeValueUsd: 243960
 ---
 
 **Engineering Notice for Pikeville:** structural drying capacity optimized for 840ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bledsoe County. Relative Humidity Threshold: 74%. Sensor sync: Active.

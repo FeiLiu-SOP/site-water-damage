@@ -12,6 +12,7 @@ lng: -92.7700
 zipSample: ["70655", "70648"]
 zipCodes: ["70655", "70648"]
 localPaths: ["Allen Parish / coords 30.6100, -92.7700", "Allen Parish / ZIP 70655 sector", "Allen Parish / ZIP 70648 sector", "Allen Parish / elevation 125 ft band", "Allen Parish / primary ZIP 70655"]
+zillowHomeValueUsd: 90593
 ---
 
 **Engineering Notice for Oberlin:** structural drying capacity optimized for 125ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allen Parish. Relative Humidity Threshold: 80%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -86.4500
 zipSample: ["47452"]
 zipCodes: ["47452"]
 localPaths: ["Orange County / ZIP 47452 sector", "Orange County / elevation 633 ft band", "Orange County / primary ZIP 47452", "Orange County / coords 38.6600, -86.4500"]
+zillowHomeValueUsd: 194168
 ---
 
 **Engineering Notice for Orleans:** structural drying capacity optimized for 633ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Orange County. Relative Humidity Threshold: 77%. Sensor sync: Active.

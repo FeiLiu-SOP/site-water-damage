@@ -12,6 +12,8 @@ lng: -149.8000
 zipSample: ["99694", "99652"]
 zipCodes: ["99652", "99694"]
 localPaths: ["Matanuska-Susitna County / ZIP 99652 sector", "Matanuska-Susitna County / primary ZIP 99694", "Matanuska-Susitna County / elevation 0 ft band", "Matanuska-Susitna County / coords 61.6200, -149.8000", "Matanuska-Susitna County / ZIP 99694 sector"]
+zillowHomeValueUsd: 359993
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Houston:** structural drying capacity optimized for 0ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Matanuska-Susitna County. Relative Humidity Threshold: 82%. Sensor sync: Active.

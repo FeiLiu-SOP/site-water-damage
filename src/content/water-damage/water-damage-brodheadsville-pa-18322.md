@@ -12,6 +12,7 @@ lng: -75.4000
 zipSample: ["18322"]
 zipCodes: ["18322"]
 localPaths: ["Monroe County / ZIP 18322 sector", "Monroe County / primary ZIP 18322", "Monroe County / elevation 768 ft band", "Monroe County / coords 40.9300, -75.4000"]
+zillowHomeValueUsd: 353569
 ---
 
 **Engineering Notice for Brodheadsville:** structural drying capacity optimized for 768ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Monroe County. Relative Humidity Threshold: 85%. Sensor sync: Active.

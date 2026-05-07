@@ -12,6 +12,7 @@ lng: -75.1500
 zipSample: ["08090"]
 zipCodes: ["08090"]
 localPaths: ["Gloucester County / coords 39.7900, -75.1500", "Gloucester County / primary ZIP 08090", "Gloucester County / elevation 82 ft band", "Gloucester County / ZIP 08090 sector"]
+zillowHomeValueUsd: 362635
 ---
 
 **Engineering Notice for Wenonah:** structural drying capacity optimized for 82ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gloucester County. Relative Humidity Threshold: 68%. Sensor sync: Active.

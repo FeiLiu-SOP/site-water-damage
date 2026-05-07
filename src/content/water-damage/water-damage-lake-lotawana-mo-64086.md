@@ -12,6 +12,7 @@ lng: -94.2600
 zipSample: ["64034", "64086"]
 zipCodes: ["64034", "64086"]
 localPaths: ["Jackson County / elevation 961 ft band", "Jackson County / coords 38.9000, -94.2600", "Jackson County / ZIP 64034 sector", "Jackson County / ZIP 64086 sector", "Jackson County / primary ZIP 64086"]
+zillowHomeValueUsd: 375451
 ---
 
 **Engineering Notice for Lake Lotawana:** structural drying capacity optimized for 961ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jackson County. Relative Humidity Threshold: 67%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -86.4600
 zipSample: ["36051", "36022"]
 zipCodes: ["36051", "36022"]
 localPaths: ["Autauga County / coords 32.6800, -86.4600", "Autauga County / primary ZIP 36022", "Autauga County / ZIP 36051 sector", "Autauga County / elevation 479 ft band", "Autauga County / ZIP 36022 sector"]
+zillowHomeValueUsd: 292447
 ---
 
 **Engineering Notice for Marbury:** structural drying capacity optimized for 479ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Autauga County. Relative Humidity Threshold: 68%. Sensor sync: Active.

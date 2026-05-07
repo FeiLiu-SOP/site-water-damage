@@ -12,6 +12,7 @@ lng: -103.6000
 zipSample: ["57730"]
 zipCodes: ["57730"]
 localPaths: ["Custer County / elevation 5318 ft band", "Custer County / primary ZIP 57730", "Custer County / ZIP 57730 sector", "Custer County / coords 43.7700, -103.6000"]
+zillowHomeValueUsd: 482740
 ---
 
 **Engineering Notice for Custer:** structural drying capacity optimized for 5318ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Custer County. Relative Humidity Threshold: 80%. Sensor sync: Active.

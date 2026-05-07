@@ -12,6 +12,7 @@ lng: -82.5500
 zipSample: ["25704", "25507"]
 zipCodes: ["25704", "25507"]
 localPaths: ["Wayne County / elevation 541 ft band", "Wayne County / ZIP 25704 sector", "Wayne County / coords 38.4000, -82.5500", "Wayne County / ZIP 25507 sector", "Wayne County / primary ZIP 25704"]
+zillowHomeValueUsd: 131563
 ---
 
 **Engineering Notice for Ceredo:** structural drying capacity optimized for 541ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wayne County. Relative Humidity Threshold: 76%. Sensor sync: Active.

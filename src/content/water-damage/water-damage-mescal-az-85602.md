@@ -12,6 +12,7 @@ lng: -110.4400
 zipSample: ["85602"]
 zipCodes: ["85602"]
 localPaths: ["Cochise County / ZIP 85602 sector", "Cochise County / primary ZIP 85602", "Cochise County / elevation 4160 ft band", "Cochise County / coords 31.9700, -110.4400"]
+zillowHomeValueUsd: 252921
 ---
 
 **Engineering Notice for Mescal:** structural drying capacity optimized for 4160ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cochise County. Relative Humidity Threshold: 81%. Sensor sync: Active.

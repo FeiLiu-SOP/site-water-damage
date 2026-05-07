@@ -12,6 +12,7 @@ lng: -78.4700
 zipSample: ["14778", "14706", "14760"]
 zipCodes: ["14778", "14706", "14760"]
 localPaths: ["Cattaraugus County / coords 42.0800, -78.4700", "Cattaraugus County / ZIP 14760 sector", "Cattaraugus County / ZIP 14778 sector", "Cattaraugus County / ZIP 14706 sector", "Cattaraugus County / elevation 1437 ft band"]
+zillowHomeValueUsd: 119187
 ---
 
 **Engineering Notice for St. Bonaventure:** structural drying capacity optimized for 1437ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cattaraugus County. Relative Humidity Threshold: 72%. Sensor sync: Active.

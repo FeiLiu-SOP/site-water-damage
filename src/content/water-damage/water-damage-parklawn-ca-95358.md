@@ -12,6 +12,7 @@ lng: -120.9800
 zipSample: ["95358"]
 zipCodes: ["95358"]
 localPaths: ["Stanislaus County / primary ZIP 95358", "Stanislaus County / elevation 89 ft band", "Stanislaus County / ZIP 95358 sector", "Stanislaus County / coords 37.6100, -120.9800"]
+zillowHomeValueUsd: 434063
 ---
 
 **Engineering Notice for Parklawn:** structural drying capacity optimized for 89ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stanislaus County. Relative Humidity Threshold: 80%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -96.4900
 zipSample: ["66846"]
 zipCodes: ["66846"]
 localPaths: ["Morris County / coords 38.6600, -96.4900", "Morris County / elevation 1250 ft band", "Morris County / primary ZIP 66846", "Morris County / ZIP 66846 sector"]
+zillowHomeValueUsd: 213969
 ---
 
 **Engineering Notice for Council Grove:** structural drying capacity optimized for 1250ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Morris County. Relative Humidity Threshold: 83%. Sensor sync: Active.

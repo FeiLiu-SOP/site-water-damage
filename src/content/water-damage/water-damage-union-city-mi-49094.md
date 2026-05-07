@@ -12,6 +12,7 @@ lng: -85.1400
 zipSample: ["49094"]
 zipCodes: ["49094"]
 localPaths: ["Branch County / coords 42.0700, -85.1400", "Branch County / ZIP 49094 sector", "Branch County / elevation 906 ft band", "Branch County / primary ZIP 49094"]
+zillowHomeValueUsd: 172175
 ---
 
 **Engineering Notice for Union City:** structural drying capacity optimized for 906ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Branch County. Relative Humidity Threshold: 80%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -76.4200
 zipSample: ["17815"]
 zipCodes: ["17815"]
 localPaths: ["Columbia County / primary ZIP 17815", "Columbia County / ZIP 17815 sector", "Columbia County / coords 41.0100, -76.4200", "Columbia County / elevation 492 ft band"]
+zillowHomeValueUsd: 256978
 ---
 
 **Engineering Notice for Espy:** structural drying capacity optimized for 492ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Columbia County. Relative Humidity Threshold: 76%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -77.1000
 zipSample: ["23890"]
 zipCodes: ["23890"]
 localPaths: ["Sussex County / coords 37.0300, -77.1000", "Sussex County / ZIP 23890 sector", "Sussex County / elevation 121 ft band", "Sussex County / primary ZIP 23890"]
+zillowHomeValueUsd: 192563
 ---
 
 **Engineering Notice for Waverly:** structural drying capacity optimized for 121ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sussex County. Relative Humidity Threshold: 81%. Sensor sync: Active.

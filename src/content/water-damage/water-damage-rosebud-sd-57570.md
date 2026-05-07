@@ -12,6 +12,8 @@ lng: -100.8200
 zipSample: ["57570"]
 zipCodes: ["57570"]
 localPaths: ["Todd County / elevation 2838 ft band", "Todd County / primary ZIP 57570", "Todd County / ZIP 57570 sector", "Todd County / coords 43.2400, -100.8200"]
+zillowHomeValueUsd: 296482
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Rosebud:** structural drying capacity optimized for 2838ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Todd County. Relative Humidity Threshold: 68%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -80.8200
 zipSample: ["29720"]
 zipCodes: ["29720"]
 localPaths: ["Lancaster County / primary ZIP 29720", "Lancaster County / ZIP 29720 sector", "Lancaster County / coords 34.6900, -80.8200", "Lancaster County / elevation 509 ft band"]
+zillowHomeValueUsd: 291614
 ---
 
 **Engineering Notice for Irwin:** structural drying capacity optimized for 509ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lancaster County. Relative Humidity Threshold: 83%. Sensor sync: Active.

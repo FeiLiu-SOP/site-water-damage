@@ -12,6 +12,7 @@ lng: -99.3700
 zipSample: ["73547"]
 zipCodes: ["73547"]
 localPaths: ["Greer County / primary ZIP 73547", "Greer County / coords 34.9600, -99.3700", "Greer County / elevation 1608 ft band", "Greer County / ZIP 73547 sector"]
+zillowHomeValueUsd: 92476
 ---
 
 **Engineering Notice for Granite:** structural drying capacity optimized for 1608ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Greer County. Relative Humidity Threshold: 65%. Sensor sync: Active.

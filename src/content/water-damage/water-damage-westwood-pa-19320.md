@@ -12,6 +12,7 @@ lng: -75.8600
 zipSample: ["19320"]
 zipCodes: ["19320"]
 localPaths: ["Chester County / primary ZIP 19320", "Chester County / coords 39.9700, -75.8600", "Chester County / elevation 387 ft band", "Chester County / ZIP 19320 sector"]
+zillowHomeValueUsd: 382350
 ---
 
 **Engineering Notice for Westwood:** structural drying capacity optimized for 387ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chester County. Relative Humidity Threshold: 84%. Sensor sync: Active.

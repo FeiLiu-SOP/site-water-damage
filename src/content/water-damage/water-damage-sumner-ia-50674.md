@@ -12,6 +12,7 @@ lng: -92.1000
 zipSample: ["50674"]
 zipCodes: ["50674"]
 localPaths: ["Bremer County / coords 42.8500, -92.1000", "Bremer County / ZIP 50674 sector", "Bremer County / primary ZIP 50674", "Bremer County / elevation 1063 ft band"]
+zillowHomeValueUsd: 203241
 ---
 
 **Engineering Notice for Sumner:** structural drying capacity optimized for 1063ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bremer County. Relative Humidity Threshold: 70%. Sensor sync: Active.

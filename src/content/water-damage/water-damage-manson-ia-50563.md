@@ -12,6 +12,7 @@ lng: -94.5400
 zipSample: ["50563"]
 zipCodes: ["50563"]
 localPaths: ["Calhoun County / coords 42.5300, -94.5400", "Calhoun County / ZIP 50563 sector", "Calhoun County / primary ZIP 50563", "Calhoun County / elevation 1204 ft band"]
+zillowHomeValueUsd: 192653
 ---
 
 **Engineering Notice for Manson:** structural drying capacity optimized for 1204ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Calhoun County. Relative Humidity Threshold: 77%. Sensor sync: Active.

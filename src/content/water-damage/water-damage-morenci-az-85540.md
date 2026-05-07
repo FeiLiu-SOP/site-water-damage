@@ -12,6 +12,8 @@ lng: -109.3300
 zipSample: ["85540"]
 zipCodes: ["85540"]
 localPaths: ["Greenlee County / elevation 4154 ft band", "Greenlee County / coords 33.0500, -109.3300", "Greenlee County / primary ZIP 85540", "Greenlee County / ZIP 85540 sector"]
+zillowHomeValueUsd: 443296
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Morenci:** structural drying capacity optimized for 4154ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Greenlee County. Relative Humidity Threshold: 84%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -81.1200
 zipSample: ["28675"]
 zipCodes: ["28675"]
 localPaths: ["Alleghany County / primary ZIP 28675", "Alleghany County / ZIP 28675 sector", "Alleghany County / coords 36.5000, -81.1200", "Alleghany County / elevation 2861 ft band"]
+zillowHomeValueUsd: 248361
 ---
 
 **Engineering Notice for Sparta:** structural drying capacity optimized for 2861ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Alleghany County. Relative Humidity Threshold: 69%. Sensor sync: Active.

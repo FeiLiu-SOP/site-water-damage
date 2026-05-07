@@ -12,6 +12,7 @@ lng: -112.1800
 zipSample: ["59422"]
 zipCodes: ["59422"]
 localPaths: ["Teton County / elevation 3829 ft band", "Teton County / primary ZIP 59422", "Teton County / ZIP 59422 sector", "Teton County / coords 47.8100, -112.1800"]
+zillowHomeValueUsd: 295657
 ---
 
 **Engineering Notice for Choteau:** structural drying capacity optimized for 3829ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Teton County. Relative Humidity Threshold: 66%. Sensor sync: Active.

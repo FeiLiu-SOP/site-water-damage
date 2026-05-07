@@ -12,6 +12,7 @@ lng: -119.4400
 zipSample: ["93618"]
 zipCodes: ["93618"]
 localPaths: ["Tulare County / ZIP 93618 sector", "Tulare County / coords 36.4800, -119.4400", "Tulare County / elevation 308 ft band", "Tulare County / primary ZIP 93618"]
+zillowHomeValueUsd: 357727
 ---
 
 **Engineering Notice for London:** structural drying capacity optimized for 308ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tulare County. Relative Humidity Threshold: 79%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -122.0700
 zipSample: ["98258"]
 zipCodes: ["98258"]
 localPaths: ["Snohomish County / coords 47.9900, -122.0700", "Snohomish County / ZIP 98258 sector", "Snohomish County / primary ZIP 98258", "Snohomish County / elevation 279 ft band"]
+zillowHomeValueUsd: 714424
 ---
 
 **Engineering Notice for Cavalero:** structural drying capacity optimized for 279ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Snohomish County. Relative Humidity Threshold: 80%. Sensor sync: Active.

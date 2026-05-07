@@ -12,6 +12,7 @@ lng: -95.6200
 zipSample: ["56175"]
 zipCodes: ["56175"]
 localPaths: ["Lyon County / coords 44.2400, -95.6200", "Lyon County / ZIP 56175 sector", "Lyon County / elevation 1378 ft band", "Lyon County / primary ZIP 56175"]
+zillowHomeValueUsd: 160171
 ---
 
 **Engineering Notice for Tracy:** structural drying capacity optimized for 1378ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lyon County. Relative Humidity Threshold: 84%. Sensor sync: Active.

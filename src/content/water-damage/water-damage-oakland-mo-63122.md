@@ -12,6 +12,7 @@ lng: -90.3800
 zipSample: ["63122"]
 zipCodes: ["63122"]
 localPaths: ["St. Louis County / ZIP 63122 sector", "St. Louis County / elevation 610 ft band", "St. Louis County / primary ZIP 63122", "St. Louis County / coords 38.5800, -90.3800"]
+zillowHomeValueUsd: 505182
 ---
 
 **Engineering Notice for Oakland:** structural drying capacity optimized for 610ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Louis County. Relative Humidity Threshold: 74%. Sensor sync: Active.

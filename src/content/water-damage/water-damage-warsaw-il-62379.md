@@ -12,6 +12,7 @@ lng: -91.4300
 zipSample: ["62379"]
 zipCodes: ["62379"]
 localPaths: ["Hancock County / elevation 659 ft band", "Hancock County / primary ZIP 62379", "Hancock County / coords 40.3500, -91.4300", "Hancock County / ZIP 62379 sector"]
+zillowHomeValueUsd: 111193
 ---
 
 **Engineering Notice for Warsaw:** structural drying capacity optimized for 659ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hancock County. Relative Humidity Threshold: 68%. Sensor sync: Active.

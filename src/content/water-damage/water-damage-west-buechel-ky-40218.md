@@ -12,6 +12,7 @@ lng: -85.6700
 zipSample: ["40218"]
 zipCodes: ["40218"]
 localPaths: ["Jefferson County / coords 38.2000, -85.6700", "Jefferson County / primary ZIP 40218", "Jefferson County / ZIP 40218 sector", "Jefferson County / elevation 472 ft band"]
+zillowHomeValueUsd: 217494
 ---
 
 **Engineering Notice for West Buechel:** structural drying capacity optimized for 472ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 83%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -91.4000
 zipSample: ["52645"]
 zipCodes: ["52645"]
 localPaths: ["Henry County / primary ZIP 52645", "Henry County / coords 40.9200, -91.4000", "Henry County / elevation 764 ft band", "Henry County / ZIP 52645 sector"]
+zillowHomeValueUsd: 184114
 ---
 
 **Engineering Notice for New London:** structural drying capacity optimized for 764ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Henry County. Relative Humidity Threshold: 79%. Sensor sync: Active.

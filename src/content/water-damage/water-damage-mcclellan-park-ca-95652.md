@@ -12,6 +12,8 @@ lng: -121.4000
 zipSample: ["95652"]
 zipCodes: ["95652"]
 localPaths: ["Sacramento County / ZIP 95652 sector", "Sacramento County / primary ZIP 95652", "Sacramento County / elevation 62 ft band", "Sacramento County / coords 38.6600, -121.4000"]
+zillowHomeValueUsd: 857098
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for McClellan Park:** structural drying capacity optimized for 62ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sacramento County. Relative Humidity Threshold: 75%. Sensor sync: Active.

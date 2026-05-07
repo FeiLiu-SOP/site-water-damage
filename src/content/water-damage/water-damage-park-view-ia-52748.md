@@ -12,6 +12,7 @@ lng: -90.5400
 zipSample: ["52748"]
 zipCodes: ["52748"]
 localPaths: ["Scott County / primary ZIP 52748", "Scott County / coords 41.7000, -90.5400", "Scott County / ZIP 52748 sector", "Scott County / elevation 768 ft band"]
+zillowHomeValueUsd: 347238
 ---
 
 **Engineering Notice for Park View:** structural drying capacity optimized for 768ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Scott County. Relative Humidity Threshold: 77%. Sensor sync: Active.

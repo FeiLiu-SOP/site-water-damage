@@ -12,6 +12,7 @@ lng: -94.6100
 zipSample: ["64865"]
 zipCodes: ["64865"]
 localPaths: ["Newton County / elevation 951 ft band", "Newton County / coords 36.8400, -94.6100", "Newton County / primary ZIP 64865", "Newton County / ZIP 64865 sector"]
+zillowHomeValueUsd: 214556
 ---
 
 **Engineering Notice for Seneca:** structural drying capacity optimized for 951ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Newton County. Relative Humidity Threshold: 77%. Sensor sync: Active.

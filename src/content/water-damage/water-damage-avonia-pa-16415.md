@@ -12,6 +12,7 @@ lng: -80.2800
 zipSample: ["16415"]
 zipCodes: ["16415"]
 localPaths: ["Erie County / coords 42.0500, -80.2800", "Erie County / primary ZIP 16415", "Erie County / elevation 689 ft band", "Erie County / ZIP 16415 sector"]
+zillowHomeValueUsd: 372641
 ---
 
 **Engineering Notice for Avonia:** structural drying capacity optimized for 689ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Erie County. Relative Humidity Threshold: 85%. Sensor sync: Active.

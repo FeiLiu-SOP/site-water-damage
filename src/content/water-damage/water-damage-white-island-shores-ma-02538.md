@@ -12,6 +12,7 @@ lng: -70.6400
 zipSample: ["02538"]
 zipCodes: ["02538"]
 localPaths: ["Plymouth County / elevation 72 ft band", "Plymouth County / ZIP 02538 sector", "Plymouth County / coords 41.7900, -70.6400", "Plymouth County / primary ZIP 02538"]
+zillowHomeValueUsd: 462304
 ---
 
 **Engineering Notice for White Island Shores:** structural drying capacity optimized for 72ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Plymouth County. Relative Humidity Threshold: 71%. Sensor sync: Active.

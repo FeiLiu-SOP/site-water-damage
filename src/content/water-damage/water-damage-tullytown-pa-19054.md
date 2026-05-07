@@ -12,6 +12,7 @@ lng: -74.8100
 zipSample: ["19054", "19007", "19055"]
 zipCodes: ["19007", "19055", "19054"]
 localPaths: ["Bucks County / primary ZIP 19054", "Bucks County / elevation 23 ft band", "Bucks County / ZIP 19007 sector", "Bucks County / ZIP 19055 sector", "Bucks County / coords 40.1400, -74.8100"]
+zillowHomeValueUsd: 397268
 ---
 
 **Engineering Notice for Tullytown:** structural drying capacity optimized for 23ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bucks County. Relative Humidity Threshold: 83%. Sensor sync: Active.

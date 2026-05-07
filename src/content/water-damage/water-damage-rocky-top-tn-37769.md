@@ -12,6 +12,7 @@ lng: -84.1500
 zipSample: ["37714", "37769"]
 zipCodes: ["37769", "37714"]
 localPaths: ["Anderson County / coords 36.2300, -84.1500", "Anderson County / ZIP 37769 sector", "Anderson County / ZIP 37714 sector", "Anderson County / primary ZIP 37769", "Anderson County / elevation 899 ft band"]
+zillowHomeValueUsd: 243961
 ---
 
 **Engineering Notice for Rocky Top:** structural drying capacity optimized for 899ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Anderson County. Relative Humidity Threshold: 84%. Sensor sync: Active.

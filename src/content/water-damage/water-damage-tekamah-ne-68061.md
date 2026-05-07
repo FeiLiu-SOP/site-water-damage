@@ -12,6 +12,7 @@ lng: -96.2200
 zipSample: ["68061"]
 zipCodes: ["68061"]
 localPaths: ["Burt County / primary ZIP 68061", "Burt County / ZIP 68061 sector", "Burt County / elevation 1066 ft band", "Burt County / coords 41.7800, -96.2200"]
+zillowHomeValueUsd: 194502
 ---
 
 **Engineering Notice for Tekamah:** structural drying capacity optimized for 1066ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Burt County. Relative Humidity Threshold: 80%. Sensor sync: Active.

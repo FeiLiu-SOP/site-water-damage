@@ -12,6 +12,7 @@ lng: -86.2600
 zipSample: ["49098"]
 zipCodes: ["49098"]
 localPaths: ["Berrien County / primary ZIP 49098", "Berrien County / ZIP 49098 sector", "Berrien County / coords 42.1900, -86.2600", "Berrien County / elevation 633 ft band"]
+zillowHomeValueUsd: 223948
 ---
 
 **Engineering Notice for Watervliet:** structural drying capacity optimized for 633ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Berrien County. Relative Humidity Threshold: 73%. Sensor sync: Active.

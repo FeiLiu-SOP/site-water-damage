@@ -12,6 +12,7 @@ lng: -73.7000
 zipSample: ["11001"]
 zipCodes: ["11001"]
 localPaths: ["Nassau County / primary ZIP 11001", "Nassau County / coords 40.7100, -73.7000", "Nassau County / elevation 72 ft band", "Nassau County / ZIP 11001 sector"]
+zillowHomeValueUsd: 850884
 ---
 
 **Engineering Notice for South Floral Park:** structural drying capacity optimized for 72ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Nassau County. Relative Humidity Threshold: 79%. Sensor sync: Active.

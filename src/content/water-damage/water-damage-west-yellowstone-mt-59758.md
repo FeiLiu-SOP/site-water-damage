@@ -12,6 +12,7 @@ lng: -111.1100
 zipSample: ["59758"]
 zipCodes: ["59758"]
 localPaths: ["Gallatin County / primary ZIP 59758", "Gallatin County / elevation 6670 ft band", "Gallatin County / coords 44.6600, -111.1100", "Gallatin County / ZIP 59758 sector"]
+zillowHomeValueUsd: 638953
 ---
 
 **Engineering Notice for West Yellowstone:** structural drying capacity optimized for 6670ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gallatin County. Relative Humidity Threshold: 75%. Sensor sync: Active.

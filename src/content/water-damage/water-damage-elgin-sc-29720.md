@@ -12,6 +12,7 @@ lng: -80.7200
 zipSample: ["29720"]
 zipCodes: ["29720"]
 localPaths: ["Lancaster County / primary ZIP 29720", "Lancaster County / elevation 633 ft band", "Lancaster County / coords 34.6700, -80.7200", "Lancaster County / ZIP 29720 sector"]
+zillowHomeValueUsd: 291612
 ---
 
 **Engineering Notice for Elgin:** structural drying capacity optimized for 633ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lancaster County. Relative Humidity Threshold: 77%. Sensor sync: Active.

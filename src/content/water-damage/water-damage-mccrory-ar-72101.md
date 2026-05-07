@@ -12,6 +12,7 @@ lng: -91.2000
 zipSample: ["72101"]
 zipCodes: ["72101"]
 localPaths: ["Woodruff County / elevation 223 ft band", "Woodruff County / coords 35.2600, -91.2000", "Woodruff County / ZIP 72101 sector", "Woodruff County / primary ZIP 72101"]
+zillowHomeValueUsd: 107946
 ---
 
 **Engineering Notice for McCrory:** structural drying capacity optimized for 223ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Woodruff County. Relative Humidity Threshold: 75%. Sensor sync: Active.

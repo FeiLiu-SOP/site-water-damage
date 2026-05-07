@@ -12,6 +12,7 @@ lng: -98.5200
 zipSample: ["57469"]
 zipCodes: ["57469"]
 localPaths: ["Spink County / elevation 1302 ft band", "Spink County / ZIP 57469 sector", "Spink County / coords 44.8700, -98.5200", "Spink County / primary ZIP 57469"]
+zillowHomeValueUsd: 162997
 ---
 
 **Engineering Notice for Redfield:** structural drying capacity optimized for 1302ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Spink County. Relative Humidity Threshold: 80%. Sensor sync: Active.

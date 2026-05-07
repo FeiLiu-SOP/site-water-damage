@@ -12,6 +12,7 @@ lng: -84.4600
 zipSample: ["45246"]
 zipCodes: ["45246"]
 localPaths: ["Hamilton County / ZIP 45246 sector", "Hamilton County / primary ZIP 45246", "Hamilton County / coords 39.2700, -84.4600", "Hamilton County / elevation 636 ft band"]
+zillowHomeValueUsd: 248045
 ---
 
 **Engineering Notice for Glendale:** structural drying capacity optimized for 636ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hamilton County. Relative Humidity Threshold: 83%. Sensor sync: Active.

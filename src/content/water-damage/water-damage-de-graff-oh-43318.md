@@ -12,6 +12,7 @@ lng: -83.9200
 zipSample: ["43318"]
 zipCodes: ["43318"]
 localPaths: ["Logan County / ZIP 43318 sector", "Logan County / coords 40.3100, -83.9200", "Logan County / primary ZIP 43318", "Logan County / elevation 1004 ft band"]
+zillowHomeValueUsd: 246758
 ---
 
 **Engineering Notice for De Graff:** structural drying capacity optimized for 1004ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Logan County. Relative Humidity Threshold: 83%. Sensor sync: Active.

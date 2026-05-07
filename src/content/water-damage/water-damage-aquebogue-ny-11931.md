@@ -12,6 +12,8 @@ lng: -72.6100
 zipSample: ["11901", "11931"]
 zipCodes: ["11901", "11931"]
 localPaths: ["Suffolk County / ZIP 11901 sector", "Suffolk County / ZIP 11931 sector", "Suffolk County / elevation 7 ft band", "Suffolk County / primary ZIP 11931", "Suffolk County / coords 40.9400, -72.6100"]
+zillowHomeValueUsd: 452513
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Aquebogue:** structural drying capacity optimized for 7ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Suffolk County. Relative Humidity Threshold: 70%. Sensor sync: Active.

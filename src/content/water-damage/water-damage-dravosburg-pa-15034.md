@@ -12,6 +12,7 @@ lng: -79.8900
 zipSample: ["15034"]
 zipCodes: ["15034"]
 localPaths: ["Allegheny County / ZIP 15034 sector", "Allegheny County / elevation 892 ft band", "Allegheny County / coords 40.3500, -79.8900", "Allegheny County / primary ZIP 15034"]
+zillowHomeValueUsd: 115430
 ---
 
 **Engineering Notice for Dravosburg:** structural drying capacity optimized for 892ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allegheny County. Relative Humidity Threshold: 75%. Sensor sync: Active.

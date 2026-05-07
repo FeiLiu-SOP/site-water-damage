@@ -12,6 +12,7 @@ lng: -88.1900
 zipSample: ["60010"]
 zipCodes: ["60010"]
 localPaths: ["Lake County / ZIP 60010 sector", "Lake County / primary ZIP 60010", "Lake County / elevation 745 ft band", "Lake County / coords 42.2400, -88.1900"]
+zillowHomeValueUsd: 700878
 ---
 
 **Engineering Notice for Port Barrington:** structural drying capacity optimized for 745ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lake County. Relative Humidity Threshold: 71%. Sensor sync: Active.

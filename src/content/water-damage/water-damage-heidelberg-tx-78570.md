@@ -12,6 +12,7 @@ lng: -97.8900
 zipSample: ["78570"]
 zipCodes: ["78570"]
 localPaths: ["Hidalgo County / ZIP 78570 sector", "Hidalgo County / elevation 72 ft band", "Hidalgo County / primary ZIP 78570", "Hidalgo County / coords 26.1800, -97.8900"]
+zillowHomeValueUsd: 141088
 ---
 
 **Engineering Notice for Heidelberg:** structural drying capacity optimized for 72ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hidalgo County. Relative Humidity Threshold: 81%. Sensor sync: Active.

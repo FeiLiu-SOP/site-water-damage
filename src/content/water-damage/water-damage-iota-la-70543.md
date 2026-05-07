@@ -12,6 +12,7 @@ lng: -92.5000
 zipSample: ["70543"]
 zipCodes: ["70543"]
 localPaths: ["Acadia Parish / primary ZIP 70543", "Acadia Parish / elevation 43 ft band", "Acadia Parish / coords 30.3300, -92.5000", "Acadia Parish / ZIP 70543 sector"]
+zillowHomeValueUsd: 183751
 ---
 
 **Engineering Notice for Iota:** structural drying capacity optimized for 43ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Acadia Parish. Relative Humidity Threshold: 81%. Sensor sync: Active.

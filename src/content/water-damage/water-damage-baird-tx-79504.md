@@ -12,6 +12,7 @@ lng: -99.4000
 zipSample: ["79504"]
 zipCodes: ["79504"]
 localPaths: ["Callahan County / coords 32.4000, -99.4000", "Callahan County / ZIP 79504 sector", "Callahan County / primary ZIP 79504", "Callahan County / elevation 1719 ft band"]
+zillowHomeValueUsd: 191873
 ---
 
 **Engineering Notice for Baird:** structural drying capacity optimized for 1719ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Callahan County. Relative Humidity Threshold: 65%. Sensor sync: Active.

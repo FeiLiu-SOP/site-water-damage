@@ -12,6 +12,7 @@ lng: -82.4300
 zipSample: ["34431", "34432"]
 zipCodes: ["34432", "34431"]
 localPaths: ["Marion County / coords 29.0600, -82.4300", "Marion County / primary ZIP 34432", "Marion County / ZIP 34432 sector", "Marion County / ZIP 34431 sector", "Marion County / elevation 49 ft band"]
+zillowHomeValueUsd: 303059
 ---
 
 **Engineering Notice for Dunnellon:** structural drying capacity optimized for 49ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marion County. Relative Humidity Threshold: 65%. Sensor sync: Active.

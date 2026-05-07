@@ -12,6 +12,8 @@ lng: -73.9500
 zipSample: ["12477", "12432"]
 zipCodes: ["12477", "12432"]
 localPaths: ["Ulster County / coords 42.0500, -73.9500", "Ulster County / primary ZIP 12432", "Ulster County / ZIP 12477 sector", "Ulster County / elevation 144 ft band", "Ulster County / ZIP 12432 sector"]
+zillowHomeValueUsd: 466606
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Glasco:** structural drying capacity optimized for 144ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ulster County. Relative Humidity Threshold: 75%. Sensor sync: Active.

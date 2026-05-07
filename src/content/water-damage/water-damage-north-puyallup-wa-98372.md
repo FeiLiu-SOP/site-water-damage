@@ -12,6 +12,7 @@ lng: -122.2700
 zipSample: ["98372"]
 zipCodes: ["98372"]
 localPaths: ["Pierce County / primary ZIP 98372", "Pierce County / ZIP 98372 sector", "Pierce County / coords 47.2000, -122.2700", "Pierce County / elevation 56 ft band"]
+zillowHomeValueUsd: 627792
 ---
 
 **Engineering Notice for North Puyallup:** structural drying capacity optimized for 56ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pierce County. Relative Humidity Threshold: 78%. Sensor sync: Active.

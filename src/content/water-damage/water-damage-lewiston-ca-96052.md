@@ -12,6 +12,7 @@ lng: -122.8200
 zipSample: ["96052"]
 zipCodes: ["96052"]
 localPaths: ["Trinity County / coords 40.7000, -122.8200", "Trinity County / ZIP 96052 sector", "Trinity County / elevation 2159 ft band", "Trinity County / primary ZIP 96052"]
+zillowHomeValueUsd: 266446
 ---
 
 **Engineering Notice for Lewiston:** structural drying capacity optimized for 2159ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Trinity County. Relative Humidity Threshold: 78%. Sensor sync: Active.

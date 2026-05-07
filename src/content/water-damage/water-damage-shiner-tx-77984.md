@@ -12,6 +12,7 @@ lng: -97.1700
 zipSample: ["77984"]
 zipCodes: ["77984"]
 localPaths: ["Lavaca County / ZIP 77984 sector", "Lavaca County / coords 29.4300, -97.1700", "Lavaca County / primary ZIP 77984", "Lavaca County / elevation 394 ft band"]
+zillowHomeValueUsd: 305748
 ---
 
 **Engineering Notice for Shiner:** structural drying capacity optimized for 394ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lavaca County. Relative Humidity Threshold: 79%. Sensor sync: Active.

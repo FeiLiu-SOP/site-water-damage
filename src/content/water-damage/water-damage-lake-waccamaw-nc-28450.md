@@ -12,6 +12,7 @@ lng: -78.5100
 zipSample: ["28450"]
 zipCodes: ["28450"]
 localPaths: ["Columbus County / ZIP 28450 sector", "Columbus County / elevation 59 ft band", "Columbus County / primary ZIP 28450", "Columbus County / coords 34.3100, -78.5100"]
+zillowHomeValueUsd: 318923
 ---
 
 **Engineering Notice for Lake Waccamaw:** structural drying capacity optimized for 59ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Columbus County. Relative Humidity Threshold: 74%. Sensor sync: Active.

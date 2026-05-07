@@ -12,6 +12,7 @@ lng: -90.5600
 zipSample: ["70394"]
 zipCodes: ["70394"]
 localPaths: ["Lafourche Parish / ZIP 70394 sector", "Lafourche Parish / elevation 10 ft band", "Lafourche Parish / coords 29.6800, -90.5600", "Lafourche Parish / primary ZIP 70394"]
+zillowHomeValueUsd: 175304
 ---
 
 **Engineering Notice for Mathews:** structural drying capacity optimized for 10ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lafourche Parish. Relative Humidity Threshold: 70%. Sensor sync: Active.

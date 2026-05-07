@@ -12,6 +12,7 @@ lng: -75.6200
 zipSample: ["13619"]
 zipCodes: ["13619"]
 localPaths: ["Jefferson County / elevation 791 ft band", "Jefferson County / coords 43.9700, -75.6200", "Jefferson County / primary ZIP 13619", "Jefferson County / ZIP 13619 sector"]
+zillowHomeValueUsd: 193403
 ---
 
 **Engineering Notice for West Carthage:** structural drying capacity optimized for 791ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 78%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -79.8000
 zipSample: ["15047", "15135"]
 zipCodes: ["15047", "15135"]
 localPaths: ["Allegheny County / coords 40.3100, -79.8000", "Allegheny County / primary ZIP 15135", "Allegheny County / ZIP 15135 sector", "Allegheny County / elevation 1010 ft band", "Allegheny County / ZIP 15047 sector"]
+zillowHomeValueUsd: 200005
 ---
 
 **Engineering Notice for Greenock:** structural drying capacity optimized for 1010ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allegheny County. Relative Humidity Threshold: 80%. Sensor sync: Active.

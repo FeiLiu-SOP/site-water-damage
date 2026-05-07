@@ -12,6 +12,7 @@ lng: -99.2600
 zipSample: ["78076"]
 zipCodes: ["78076"]
 localPaths: ["Zapata County / primary ZIP 78076", "Zapata County / ZIP 78076 sector", "Zapata County / elevation 328 ft band", "Zapata County / coords 26.8500, -99.2600"]
+zillowHomeValueUsd: 134657
 ---
 
 **Engineering Notice for Siesta Shores:** structural drying capacity optimized for 328ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Zapata County. Relative Humidity Threshold: 68%. Sensor sync: Active.

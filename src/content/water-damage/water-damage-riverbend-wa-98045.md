@@ -12,6 +12,7 @@ lng: -121.7500
 zipSample: ["98045"]
 zipCodes: ["98045"]
 localPaths: ["King County / coords 47.4700, -121.7500", "King County / primary ZIP 98045", "King County / elevation 518 ft band", "King County / ZIP 98045 sector"]
+zillowHomeValueUsd: 1003662
 ---
 
 **Engineering Notice for Riverbend:** structural drying capacity optimized for 518ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: King County. Relative Humidity Threshold: 70%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -87.7900
 zipSample: ["36748"]
 zipCodes: ["36748"]
 localPaths: ["Marengo County / ZIP 36748 sector", "Marengo County / coords 32.3000, -87.7900", "Marengo County / primary ZIP 36748", "Marengo County / elevation 154 ft band"]
+zillowHomeValueUsd: 109820
 ---
 
 **Engineering Notice for Linden:** structural drying capacity optimized for 154ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marengo County. Relative Humidity Threshold: 68%. Sensor sync: Active.

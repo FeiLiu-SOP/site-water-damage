@@ -12,6 +12,7 @@ lng: -93.0600
 zipSample: ["65349"]
 zipCodes: ["65349"]
 localPaths: ["Saline County / elevation 860 ft band", "Saline County / ZIP 65349 sector", "Saline County / coords 39.2200, -93.0600", "Saline County / primary ZIP 65349"]
+zillowHomeValueUsd: 132211
 ---
 
 **Engineering Notice for Slater:** structural drying capacity optimized for 860ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Saline County. Relative Humidity Threshold: 82%. Sensor sync: Active.

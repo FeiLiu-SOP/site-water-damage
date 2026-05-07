@@ -12,6 +12,7 @@ lng: -80.6600
 zipSample: ["32935", "32940"]
 zipCodes: ["32940", "32935"]
 localPaths: ["Brevard County / ZIP 32935 sector", "Brevard County / elevation 33 ft band", "Brevard County / ZIP 32940 sector", "Brevard County / coords 28.1900, -80.6600", "Brevard County / primary ZIP 32935"]
+zillowHomeValueUsd: 267955
 ---
 
 **Engineering Notice for Palm Shores:** structural drying capacity optimized for 33ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Brevard County. Relative Humidity Threshold: 73%. Sensor sync: Active.

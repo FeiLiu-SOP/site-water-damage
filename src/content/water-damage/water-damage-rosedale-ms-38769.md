@@ -12,6 +12,7 @@ lng: -91.0300
 zipSample: ["38769"]
 zipCodes: ["38769"]
 localPaths: ["Bolivar County / ZIP 38769 sector", "Bolivar County / primary ZIP 38769", "Bolivar County / elevation 148 ft band", "Bolivar County / coords 33.8500, -91.0300"]
+zillowHomeValueUsd: 84219
 ---
 
 **Engineering Notice for Rosedale:** structural drying capacity optimized for 148ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bolivar County. Relative Humidity Threshold: 83%. Sensor sync: Active.

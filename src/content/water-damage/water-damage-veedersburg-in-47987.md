@@ -12,6 +12,7 @@ lng: -87.2600
 zipSample: ["47987"]
 zipCodes: ["47987"]
 localPaths: ["Fountain County / primary ZIP 47987", "Fountain County / coords 40.1100, -87.2600", "Fountain County / ZIP 47987 sector", "Fountain County / elevation 587 ft band"]
+zillowHomeValueUsd: 196183
 ---
 
 **Engineering Notice for Veedersburg:** structural drying capacity optimized for 587ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fountain County. Relative Humidity Threshold: 70%. Sensor sync: Active.

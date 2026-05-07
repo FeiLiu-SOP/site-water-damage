@@ -12,6 +12,7 @@ lng: -100.4700
 zipSample: ["78852"]
 zipCodes: ["78852"]
 localPaths: ["Maverick County / primary ZIP 78852", "Maverick County / coords 28.6900, -100.4700", "Maverick County / elevation 748 ft band", "Maverick County / ZIP 78852 sector"]
+zillowHomeValueUsd: 230828
 ---
 
 **Engineering Notice for Las Quintas Fronterizas:** structural drying capacity optimized for 748ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Maverick County. Relative Humidity Threshold: 81%. Sensor sync: Active.

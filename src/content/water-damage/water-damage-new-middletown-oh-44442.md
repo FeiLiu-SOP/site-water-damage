@@ -12,6 +12,7 @@ lng: -80.5600
 zipSample: ["44442"]
 zipCodes: ["44442"]
 localPaths: ["Mahoning County / ZIP 44442 sector", "Mahoning County / coords 40.9600, -80.5600", "Mahoning County / primary ZIP 44442", "Mahoning County / elevation 1217 ft band"]
+zillowHomeValueUsd: 238491
 ---
 
 **Engineering Notice for New Middletown:** structural drying capacity optimized for 1217ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mahoning County. Relative Humidity Threshold: 75%. Sensor sync: Active.

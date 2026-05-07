@@ -12,6 +12,7 @@ lng: -90.4000
 zipSample: ["39191"]
 zipCodes: ["39191"]
 localPaths: ["Copiah County / coords 31.7000, -90.4000", "Copiah County / ZIP 39191 sector", "Copiah County / primary ZIP 39191", "Copiah County / elevation 472 ft band"]
+zillowHomeValueUsd: 177491
 ---
 
 **Engineering Notice for Wesson:** structural drying capacity optimized for 472ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Copiah County. Relative Humidity Threshold: 81%. Sensor sync: Active.

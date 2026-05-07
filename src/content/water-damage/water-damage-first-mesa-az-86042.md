@@ -12,6 +12,8 @@ lng: -110.3700
 zipSample: ["86042"]
 zipCodes: ["86042"]
 localPaths: ["Navajo County / coords 35.8400, -110.3700", "Navajo County / primary ZIP 86042", "Navajo County / ZIP 86042 sector", "Navajo County / elevation 5663 ft band"]
+zillowHomeValueUsd: 448441
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for First Mesa:** structural drying capacity optimized for 5663ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Navajo County. Relative Humidity Threshold: 71%. Sensor sync: Active.

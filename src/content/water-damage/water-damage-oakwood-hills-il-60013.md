@@ -12,6 +12,7 @@ lng: -88.2400
 zipSample: ["60013"]
 zipCodes: ["60013"]
 localPaths: ["McHenry County / coords 42.2500, -88.2400", "McHenry County / elevation 801 ft band", "McHenry County / ZIP 60013 sector", "McHenry County / primary ZIP 60013"]
+zillowHomeValueUsd: 370775
 ---
 
 **Engineering Notice for Oakwood Hills:** structural drying capacity optimized for 801ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McHenry County. Relative Humidity Threshold: 71%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -86.0500
 zipSample: ["46219"]
 zipCodes: ["46219"]
 localPaths: ["Marion County / ZIP 46219 sector", "Marion County / primary ZIP 46219", "Marion County / elevation 827 ft band", "Marion County / coords 39.7800, -86.0500"]
+zillowHomeValueUsd: 185415
 ---
 
 **Engineering Notice for Warren Park:** structural drying capacity optimized for 827ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marion County. Relative Humidity Threshold: 81%. Sensor sync: Active.

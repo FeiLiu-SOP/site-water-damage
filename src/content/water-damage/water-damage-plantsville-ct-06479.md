@@ -12,6 +12,7 @@ lng: -72.8900
 zipSample: ["06479"]
 zipCodes: ["06479"]
 localPaths: ["Capitol County / ZIP 06479 sector", "Capitol County / elevation 164 ft band", "Capitol County / primary ZIP 06479", "Capitol County / coords 41.5800, -72.8900"]
+zillowHomeValueUsd: 416021
 ---
 
 **Engineering Notice for Plantsville:** structural drying capacity optimized for 164ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Capitol County. Relative Humidity Threshold: 71%. Sensor sync: Active.

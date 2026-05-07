@@ -12,6 +12,7 @@ lng: -77.1300
 zipSample: ["23086", "23009"]
 zipCodes: ["23086", "23009"]
 localPaths: ["King William County / ZIP 23086 sector", "King William County / ZIP 23009 sector", "King William County / elevation 174 ft band", "King William County / primary ZIP 23086", "King William County / coords 37.7500, -77.1300"]
+zillowHomeValueUsd: 351293
 ---
 
 **Engineering Notice for Central Garage:** structural drying capacity optimized for 174ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: King William County. Relative Humidity Threshold: 85%. Sensor sync: Active.

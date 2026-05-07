@@ -12,6 +12,7 @@ lng: -78.8900
 zipSample: ["15851"]
 zipCodes: ["15851"]
 localPaths: ["Jefferson County / elevation 1394 ft band", "Jefferson County / ZIP 15851 sector", "Jefferson County / coords 41.0900, -78.8900", "Jefferson County / primary ZIP 15851"]
+zillowHomeValueUsd: 114959
 ---
 
 **Engineering Notice for Reynoldsville:** structural drying capacity optimized for 1394ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 72%. Sensor sync: Active.

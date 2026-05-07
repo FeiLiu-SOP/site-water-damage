@@ -12,6 +12,7 @@ lng: -90.3300
 zipSample: ["61275"]
 zipCodes: ["61275"]
 localPaths: ["Rock Island County / ZIP 61275 sector", "Rock Island County / elevation 696 ft band", "Rock Island County / primary ZIP 61275", "Rock Island County / coords 41.6200, -90.3300"]
+zillowHomeValueUsd: 300587
 ---
 
 **Engineering Notice for Port Byron:** structural drying capacity optimized for 696ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rock Island County. Relative Humidity Threshold: 75%. Sensor sync: Active.

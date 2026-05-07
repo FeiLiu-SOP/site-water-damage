@@ -12,6 +12,7 @@ lng: -79.5400
 zipSample: ["15613"]
 zipCodes: ["15613"]
 localPaths: ["Armstrong County / primary ZIP 15613", "Armstrong County / ZIP 15613 sector", "Armstrong County / coords 40.5800, -79.5400", "Armstrong County / elevation 1148 ft band"]
+zillowHomeValueUsd: 188693
 ---
 
 **Engineering Notice for Orchard Hills:** structural drying capacity optimized for 1148ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Armstrong County. Relative Humidity Threshold: 66%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -80.0600
 zipSample: ["29455"]
 zipCodes: ["29455"]
 localPaths: ["Charleston County / primary ZIP 29455", "Charleston County / elevation 20 ft band", "Charleston County / ZIP 29455 sector", "Charleston County / coords 32.6200, -80.0600"]
+zillowHomeValueUsd: 739643
 ---
 
 **Engineering Notice for Kiawah Island:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Charleston County. Relative Humidity Threshold: 85%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -82.4800
 zipSample: ["30817"]
 zipCodes: ["30817"]
 localPaths: ["Lincoln County / elevation 502 ft band", "Lincoln County / ZIP 30817 sector", "Lincoln County / coords 33.7900, -82.4800", "Lincoln County / primary ZIP 30817"]
+zillowHomeValueUsd: 267005
 ---
 
 **Engineering Notice for Lincolnton:** structural drying capacity optimized for 502ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lincoln County. Relative Humidity Threshold: 70%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -84.2900
 zipSample: ["45417"]
 zipCodes: ["45417"]
 localPaths: ["Montgomery County / elevation 948 ft band", "Montgomery County / primary ZIP 45417", "Montgomery County / coords 39.7400, -84.2900", "Montgomery County / ZIP 45417 sector"]
+zillowHomeValueUsd: 75691
 ---
 
 **Engineering Notice for Drexel:** structural drying capacity optimized for 948ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Montgomery County. Relative Humidity Threshold: 72%. Sensor sync: Active.

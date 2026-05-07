@@ -12,6 +12,7 @@ lng: -78.9100
 zipSample: ["14131"]
 zipCodes: ["14131"]
 localPaths: ["Niagara County / primary ZIP 14131", "Niagara County / coords 43.2400, -78.9100", "Niagara County / ZIP 14131 sector", "Niagara County / elevation 318 ft band"]
+zillowHomeValueUsd: 285610
 ---
 
 **Engineering Notice for Ransomville:** structural drying capacity optimized for 318ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Niagara County. Relative Humidity Threshold: 72%. Sensor sync: Active.

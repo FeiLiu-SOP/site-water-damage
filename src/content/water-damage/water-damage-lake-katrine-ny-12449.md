@@ -12,6 +12,7 @@ lng: -73.9900
 zipSample: ["12449"]
 zipCodes: ["12449"]
 localPaths: ["Ulster County / primary ZIP 12449", "Ulster County / ZIP 12449 sector", "Ulster County / coords 41.9900, -73.9900", "Ulster County / elevation 203 ft band"]
+zillowHomeValueUsd: 353994
 ---
 
 **Engineering Notice for Lake Katrine:** structural drying capacity optimized for 203ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ulster County. Relative Humidity Threshold: 65%. Sensor sync: Active.

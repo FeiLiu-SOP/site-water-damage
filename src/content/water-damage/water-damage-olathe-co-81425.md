@@ -12,6 +12,7 @@ lng: -107.9800
 zipSample: ["81425"]
 zipCodes: ["81425"]
 localPaths: ["Montrose County / coords 38.6100, -107.9800", "Montrose County / elevation 5361 ft band", "Montrose County / primary ZIP 81425", "Montrose County / ZIP 81425 sector"]
+zillowHomeValueUsd: 460654
 ---
 
 **Engineering Notice for Olathe:** structural drying capacity optimized for 5361ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Montrose County. Relative Humidity Threshold: 80%. Sensor sync: Active.

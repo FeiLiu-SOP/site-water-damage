@@ -12,6 +12,7 @@ lng: -124.3100
 zipSample: ["97420"]
 zipCodes: ["97420"]
 localPaths: ["Coos County / primary ZIP 97420", "Coos County / coords 43.3500, -124.3100", "Coos County / elevation 85 ft band", "Coos County / ZIP 97420 sector"]
+zillowHomeValueUsd: 323720
 ---
 
 **Engineering Notice for Barview:** structural drying capacity optimized for 85ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Coos County. Relative Humidity Threshold: 83%. Sensor sync: Active.

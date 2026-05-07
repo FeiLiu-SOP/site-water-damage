@@ -12,6 +12,7 @@ lng: -85.3100
 zipSample: ["36303", "36321"]
 zipCodes: ["36321", "36303"]
 localPaths: ["Houston County / coords 31.2000, -85.3100", "Houston County / elevation 358 ft band", "Houston County / ZIP 36303 sector", "Houston County / primary ZIP 36303", "Houston County / ZIP 36321 sector"]
+zillowHomeValueUsd: 184718
 ---
 
 **Engineering Notice for Cowarts:** structural drying capacity optimized for 358ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Houston County. Relative Humidity Threshold: 69%. Sensor sync: Active.

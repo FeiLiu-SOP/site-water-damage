@@ -12,6 +12,7 @@ lng: -81.5500
 zipSample: ["31523", "31525"]
 zipCodes: ["31525", "31523"]
 localPaths: ["Glynn County / elevation 20 ft band", "Glynn County / coords 31.2600, -81.5500", "Glynn County / ZIP 31525 sector", "Glynn County / primary ZIP 31523", "Glynn County / ZIP 31523 sector"]
+zillowHomeValueUsd: 329221
 ---
 
 **Engineering Notice for Sterling:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Glynn County. Relative Humidity Threshold: 72%. Sensor sync: Active.

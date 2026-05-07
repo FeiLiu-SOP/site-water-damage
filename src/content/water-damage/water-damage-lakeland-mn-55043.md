@@ -12,6 +12,7 @@ lng: -92.7700
 zipSample: ["55043"]
 zipCodes: ["55043"]
 localPaths: ["Washington County / coords 44.9500, -92.7700", "Washington County / ZIP 55043 sector", "Washington County / elevation 732 ft band", "Washington County / primary ZIP 55043"]
+zillowHomeValueUsd: 396205
 ---
 
 **Engineering Notice for Lakeland:** structural drying capacity optimized for 732ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 73%. Sensor sync: Active.

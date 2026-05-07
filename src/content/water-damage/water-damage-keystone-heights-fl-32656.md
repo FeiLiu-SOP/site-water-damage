@@ -12,6 +12,7 @@ lng: -82.0300
 zipSample: ["32656"]
 zipCodes: ["32656"]
 localPaths: ["Clay County / ZIP 32656 sector", "Clay County / elevation 98 ft band", "Clay County / coords 29.7800, -82.0300", "Clay County / primary ZIP 32656"]
+zillowHomeValueUsd: 282236
 ---
 
 **Engineering Notice for Keystone Heights:** structural drying capacity optimized for 98ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clay County. Relative Humidity Threshold: 75%. Sensor sync: Active.

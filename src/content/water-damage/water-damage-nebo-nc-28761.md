@@ -12,6 +12,7 @@ lng: -81.9200
 zipSample: ["28761"]
 zipCodes: ["28761"]
 localPaths: ["McDowell County / primary ZIP 28761", "McDowell County / ZIP 28761 sector", "McDowell County / coords 35.7100, -81.9200", "McDowell County / elevation 1342 ft band"]
+zillowHomeValueUsd: 378208
 ---
 
 **Engineering Notice for Nebo:** structural drying capacity optimized for 1342ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McDowell County. Relative Humidity Threshold: 76%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -76.0300
 zipSample: ["19362"]
 zipCodes: ["19362"]
 localPaths: ["Chester County / coords 39.7500, -76.0300", "Chester County / ZIP 19362 sector", "Chester County / elevation 525 ft band", "Chester County / primary ZIP 19362"]
+zillowHomeValueUsd: 463293
 ---
 
 **Engineering Notice for Nottingham:** structural drying capacity optimized for 525ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chester County. Relative Humidity Threshold: 83%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -91.8600
 zipSample: ["52206"]
 zipCodes: ["52206"]
 localPaths: ["Benton County / ZIP 52206 sector", "Benton County / elevation 843 ft band", "Benton County / primary ZIP 52206", "Benton County / coords 41.9900, -91.8600"]
+zillowHomeValueUsd: 357726
 ---
 
 **Engineering Notice for Atkins:** structural drying capacity optimized for 843ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Benton County. Relative Humidity Threshold: 81%. Sensor sync: Active.

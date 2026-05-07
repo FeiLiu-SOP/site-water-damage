@@ -12,6 +12,7 @@ lng: -78.3900
 zipSample: ["16648", "16602"]
 zipCodes: ["16648", "16602"]
 localPaths: ["Blair County / elevation 1076 ft band", "Blair County / ZIP 16648 sector", "Blair County / ZIP 16602 sector", "Blair County / coords 40.4600, -78.3900", "Blair County / primary ZIP 16602"]
+zillowHomeValueUsd: 130661
 ---
 
 **Engineering Notice for Lakemont:** structural drying capacity optimized for 1076ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Blair County. Relative Humidity Threshold: 70%. Sensor sync: Active.

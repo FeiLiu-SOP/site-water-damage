@@ -12,6 +12,7 @@ lng: -93.3200
 zipSample: ["50060"]
 zipCodes: ["50060"]
 localPaths: ["Wayne County / coords 40.7600, -93.3200", "Wayne County / ZIP 50060 sector", "Wayne County / elevation 1099 ft band", "Wayne County / primary ZIP 50060"]
+zillowHomeValueUsd: 150023
 ---
 
 **Engineering Notice for Corydon:** structural drying capacity optimized for 1099ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wayne County. Relative Humidity Threshold: 75%. Sensor sync: Active.

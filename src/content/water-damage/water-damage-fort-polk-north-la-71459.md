@@ -12,6 +12,8 @@ lng: -93.1800
 zipSample: ["71446", "71459"]
 zipCodes: ["71459", "71446"]
 localPaths: ["Vernon Parish / ZIP 71459 sector", "Vernon Parish / ZIP 71446 sector", "Vernon Parish / elevation 387 ft band", "Vernon Parish / coords 31.1000, -93.1800", "Vernon Parish / primary ZIP 71459"]
+zillowHomeValueUsd: 185904
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Fort Polk North:** structural drying capacity optimized for 387ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Vernon Parish. Relative Humidity Threshold: 71%. Sensor sync: Active.

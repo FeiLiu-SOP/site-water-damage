@@ -12,6 +12,7 @@ lng: -93.2700
 zipSample: ["50225"]
 zipCodes: ["50225"]
 localPaths: ["Marion County / primary ZIP 50225", "Marion County / ZIP 50225 sector", "Marion County / elevation 915 ft band", "Marion County / coords 41.3900, -93.2700"]
+zillowHomeValueUsd: 266216
 ---
 
 **Engineering Notice for Pleasantville:** structural drying capacity optimized for 915ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marion County. Relative Humidity Threshold: 69%. Sensor sync: Active.

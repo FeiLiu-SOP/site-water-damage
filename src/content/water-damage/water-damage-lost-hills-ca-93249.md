@@ -12,6 +12,7 @@ lng: -119.6800
 zipSample: ["93249"]
 zipCodes: ["93249"]
 localPaths: ["Kern County / primary ZIP 93249", "Kern County / coords 35.6300, -119.6800", "Kern County / elevation 262 ft band", "Kern County / ZIP 93249 sector"]
+zillowHomeValueUsd: 274499
 ---
 
 **Engineering Notice for Lost Hills:** structural drying capacity optimized for 262ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kern County. Relative Humidity Threshold: 65%. Sensor sync: Active.

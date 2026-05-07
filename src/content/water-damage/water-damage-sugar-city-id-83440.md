@@ -12,6 +12,7 @@ lng: -111.7500
 zipSample: ["83440", "83448"]
 zipCodes: ["83448", "83440"]
 localPaths: ["Madison County / primary ZIP 83440", "Madison County / ZIP 83440 sector", "Madison County / coords 43.8800, -111.7500", "Madison County / elevation 4895 ft band", "Madison County / ZIP 83448 sector"]
+zillowHomeValueUsd: 417086
 ---
 
 **Engineering Notice for Sugar City:** structural drying capacity optimized for 4895ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Madison County. Relative Humidity Threshold: 84%. Sensor sync: Active.

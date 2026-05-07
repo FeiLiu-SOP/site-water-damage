@@ -12,6 +12,7 @@ lng: -93.9600
 zipSample: ["64640"]
 zipCodes: ["64640"]
 localPaths: ["Daviess County / coords 39.9100, -93.9600", "Daviess County / ZIP 64640 sector", "Daviess County / elevation 932 ft band", "Daviess County / primary ZIP 64640"]
+zillowHomeValueUsd: 254993
 ---
 
 **Engineering Notice for Gallatin:** structural drying capacity optimized for 932ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Daviess County. Relative Humidity Threshold: 77%. Sensor sync: Active.

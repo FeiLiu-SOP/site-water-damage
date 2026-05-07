@@ -12,6 +12,7 @@ lng: -81.1000
 zipSample: ["29053"]
 zipCodes: ["29053"]
 localPaths: ["Lexington County / elevation 499 ft band", "Lexington County / primary ZIP 29053", "Lexington County / ZIP 29053 sector", "Lexington County / coords 33.8200, -81.1000"]
+zillowHomeValueUsd: 164048
 ---
 
 **Engineering Notice for Gaston:** structural drying capacity optimized for 499ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lexington County. Relative Humidity Threshold: 71%. Sensor sync: Active.

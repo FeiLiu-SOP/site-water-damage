@@ -12,6 +12,7 @@ lng: -85.3600
 zipSample: ["30750"]
 zipCodes: ["30750"]
 localPaths: ["Walker County / elevation 1650 ft band", "Walker County / coords 34.9700, -85.3600", "Walker County / primary ZIP 30750", "Walker County / ZIP 30750 sector"]
+zillowHomeValueUsd: 462942
 ---
 
 **Engineering Notice for Lookout Mountain:** structural drying capacity optimized for 1650ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Walker County. Relative Humidity Threshold: 70%. Sensor sync: Active.

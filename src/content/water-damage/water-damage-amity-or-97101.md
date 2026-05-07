@@ -12,6 +12,7 @@ lng: -123.2000
 zipSample: ["97101"]
 zipCodes: ["97101"]
 localPaths: ["Yamhill County / coords 45.1200, -123.2000", "Yamhill County / ZIP 97101 sector", "Yamhill County / elevation 164 ft band", "Yamhill County / primary ZIP 97101"]
+zillowHomeValueUsd: 577586
 ---
 
 **Engineering Notice for Amity:** structural drying capacity optimized for 164ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Yamhill County. Relative Humidity Threshold: 67%. Sensor sync: Active.

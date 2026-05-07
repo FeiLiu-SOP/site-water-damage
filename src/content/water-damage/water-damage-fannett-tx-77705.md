@@ -12,6 +12,7 @@ lng: -94.2400
 zipSample: ["77705"]
 zipCodes: ["77705"]
 localPaths: ["Jefferson County / ZIP 77705 sector", "Jefferson County / coords 29.9300, -94.2400", "Jefferson County / elevation 39 ft band", "Jefferson County / primary ZIP 77705"]
+zillowHomeValueUsd: 135381
 ---
 
 **Engineering Notice for Fannett:** structural drying capacity optimized for 39ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 67%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -100.8500
 zipSample: ["67877"]
 zipCodes: ["67877"]
 localPaths: ["Haskell County / primary ZIP 67877", "Haskell County / coords 37.4800, -100.8500", "Haskell County / ZIP 67877 sector", "Haskell County / elevation 2956 ft band"]
+zillowHomeValueUsd: 206668
 ---
 
 **Engineering Notice for Sublette:** structural drying capacity optimized for 2956ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Haskell County. Relative Humidity Threshold: 83%. Sensor sync: Active.

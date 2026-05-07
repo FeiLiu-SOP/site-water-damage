@@ -12,6 +12,8 @@ lng: -87.5000
 zipSample: ["36786"]
 zipCodes: ["36786"]
 localPaths: ["Perry County / primary ZIP 36786", "Perry County / ZIP 36786 sector", "Perry County / elevation 233 ft band", "Perry County / coords 32.4500, -87.5000"]
+zillowHomeValueUsd: 208920
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Uniontown:** structural drying capacity optimized for 233ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Perry County. Relative Humidity Threshold: 79%. Sensor sync: Active.

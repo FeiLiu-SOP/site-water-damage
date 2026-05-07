@@ -12,6 +12,7 @@ lng: -93.7300
 zipSample: ["72631"]
 zipCodes: ["72631"]
 localPaths: ["Carroll County / coords 36.4800, -93.7300", "Carroll County / primary ZIP 72631", "Carroll County / ZIP 72631 sector", "Carroll County / elevation 1056 ft band"]
+zillowHomeValueUsd: 317045
 ---
 
 **Engineering Notice for Holiday Island:** structural drying capacity optimized for 1056ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Carroll County. Relative Humidity Threshold: 65%. Sensor sync: Active.

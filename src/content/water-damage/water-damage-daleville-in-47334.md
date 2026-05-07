@@ -12,6 +12,7 @@ lng: -85.5600
 zipSample: ["47334"]
 zipCodes: ["47334"]
 localPaths: ["Delaware County / elevation 919 ft band", "Delaware County / primary ZIP 47334", "Delaware County / ZIP 47334 sector", "Delaware County / coords 40.1200, -85.5600"]
+zillowHomeValueUsd: 226481
 ---
 
 **Engineering Notice for Daleville:** structural drying capacity optimized for 919ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Delaware County. Relative Humidity Threshold: 68%. Sensor sync: Active.

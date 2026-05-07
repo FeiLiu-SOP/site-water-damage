@@ -12,6 +12,7 @@ lng: -95.5500
 zipSample: ["77477"]
 zipCodes: ["77477"]
 localPaths: ["Fort Bend County / elevation 92 ft band", "Fort Bend County / ZIP 77477 sector", "Fort Bend County / primary ZIP 77477", "Fort Bend County / coords 29.6000, -95.5500"]
+zillowHomeValueUsd: 286722
 ---
 
 **Engineering Notice for Fifth Street:** structural drying capacity optimized for 92ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fort Bend County. Relative Humidity Threshold: 83%. Sensor sync: Active.

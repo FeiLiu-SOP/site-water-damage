@@ -12,6 +12,7 @@ lng: -81.9000
 zipSample: ["29333", "29307"]
 zipCodes: ["29333", "29307"]
 localPaths: ["Spartanburg County / coords 34.9800, -81.9000", "Spartanburg County / ZIP 29333 sector", "Spartanburg County / elevation 774 ft band", "Spartanburg County / primary ZIP 29333", "Spartanburg County / ZIP 29307 sector"]
+zillowHomeValueUsd: 150123
 ---
 
 **Engineering Notice for Drayton:** structural drying capacity optimized for 774ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Spartanburg County. Relative Humidity Threshold: 84%. Sensor sync: Active.

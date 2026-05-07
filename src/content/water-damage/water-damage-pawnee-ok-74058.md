@@ -12,6 +12,7 @@ lng: -96.8000
 zipSample: ["74058"]
 zipCodes: ["74058"]
 localPaths: ["Pawnee County / coords 36.3500, -96.8000", "Pawnee County / ZIP 74058 sector", "Pawnee County / elevation 843 ft band", "Pawnee County / primary ZIP 74058"]
+zillowHomeValueUsd: 148812
 ---
 
 **Engineering Notice for Pawnee:** structural drying capacity optimized for 843ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pawnee County. Relative Humidity Threshold: 83%. Sensor sync: Active.

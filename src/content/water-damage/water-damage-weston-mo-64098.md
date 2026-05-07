@@ -12,6 +12,7 @@ lng: -94.8900
 zipSample: ["64098"]
 zipCodes: ["64098"]
 localPaths: ["Platte County / coords 39.4000, -94.8900", "Platte County / elevation 935 ft band", "Platte County / primary ZIP 64098", "Platte County / ZIP 64098 sector"]
+zillowHomeValueUsd: 371539
 ---
 
 **Engineering Notice for Weston:** structural drying capacity optimized for 935ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Platte County. Relative Humidity Threshold: 69%. Sensor sync: Active.

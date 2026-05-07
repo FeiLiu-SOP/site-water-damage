@@ -12,6 +12,7 @@ lng: -92.2800
 zipSample: ["52208"]
 zipCodes: ["52208"]
 localPaths: ["Benton County / primary ZIP 52208", "Benton County / coords 41.9000, -92.2800", "Benton County / ZIP 52208 sector", "Benton County / elevation 814 ft band"]
+zillowHomeValueUsd: 156221
 ---
 
 **Engineering Notice for Belle Plaine:** structural drying capacity optimized for 814ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Benton County. Relative Humidity Threshold: 80%. Sensor sync: Active.

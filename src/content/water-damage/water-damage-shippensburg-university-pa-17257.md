@@ -12,6 +12,7 @@ lng: -77.5200
 zipSample: ["17257"]
 zipCodes: ["17257"]
 localPaths: ["Cumberland County / primary ZIP 17257", "Cumberland County / ZIP 17257 sector", "Cumberland County / coords 40.0600, -77.5200", "Cumberland County / elevation 650 ft band"]
+zillowHomeValueUsd: 302803
 ---
 
 **Engineering Notice for Shippensburg University:** structural drying capacity optimized for 650ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cumberland County. Relative Humidity Threshold: 72%. Sensor sync: Active.

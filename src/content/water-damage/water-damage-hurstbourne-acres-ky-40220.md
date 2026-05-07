@@ -12,6 +12,7 @@ lng: -85.5900
 zipSample: ["40220"]
 zipCodes: ["40220"]
 localPaths: ["Jefferson County / primary ZIP 40220", "Jefferson County / elevation 669 ft band", "Jefferson County / coords 38.2200, -85.5900", "Jefferson County / ZIP 40220 sector"]
+zillowHomeValueUsd: 290888
 ---
 
 **Engineering Notice for Hurstbourne Acres:** structural drying capacity optimized for 669ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 77%. Sensor sync: Active.

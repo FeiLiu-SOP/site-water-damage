@@ -12,6 +12,7 @@ lng: -76.6600
 zipSample: ["14886"]
 zipCodes: ["14886"]
 localPaths: ["Tompkins County / ZIP 14886 sector", "Tompkins County / elevation 997 ft band", "Tompkins County / coords 42.5400, -76.6600", "Tompkins County / primary ZIP 14886"]
+zillowHomeValueUsd: 328483
 ---
 
 **Engineering Notice for Trumansburg:** structural drying capacity optimized for 997ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tompkins County. Relative Humidity Threshold: 69%. Sensor sync: Active.

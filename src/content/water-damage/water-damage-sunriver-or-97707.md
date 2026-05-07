@@ -12,6 +12,7 @@ lng: -121.4400
 zipSample: ["97707"]
 zipCodes: ["97707"]
 localPaths: ["Deschutes County / ZIP 97707 sector", "Deschutes County / elevation 4177 ft band", "Deschutes County / coords 43.8800, -121.4400", "Deschutes County / primary ZIP 97707"]
+zillowHomeValueUsd: 739509
 ---
 
 **Engineering Notice for Sunriver:** structural drying capacity optimized for 4177ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Deschutes County. Relative Humidity Threshold: 67%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -75.6600
 zipSample: ["27954"]
 zipCodes: ["27954"]
 localPaths: ["Dare County / coords 35.9000, -75.6600", "Dare County / primary ZIP 27954", "Dare County / elevation 3 ft band", "Dare County / ZIP 27954 sector"]
+zillowHomeValueUsd: 517264
 ---
 
 **Engineering Notice for Manteo:** structural drying capacity optimized for 3ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dare County. Relative Humidity Threshold: 85%. Sensor sync: Active.

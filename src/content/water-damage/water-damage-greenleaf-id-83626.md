@@ -12,6 +12,7 @@ lng: -116.8200
 zipSample: ["83626"]
 zipCodes: ["83626"]
 localPaths: ["Canyon County / primary ZIP 83626", "Canyon County / coords 43.6800, -116.8200", "Canyon County / ZIP 83626 sector", "Canyon County / elevation 2415 ft band"]
+zillowHomeValueUsd: 423914
 ---
 
 **Engineering Notice for Greenleaf:** structural drying capacity optimized for 2415ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Canyon County. Relative Humidity Threshold: 69%. Sensor sync: Active.

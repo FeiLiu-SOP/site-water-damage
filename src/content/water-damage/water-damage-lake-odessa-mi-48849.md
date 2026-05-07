@@ -12,6 +12,7 @@ lng: -85.1400
 zipSample: ["48849"]
 zipCodes: ["48849"]
 localPaths: ["Ionia County / ZIP 48849 sector", "Ionia County / coords 42.7800, -85.1400", "Ionia County / primary ZIP 48849", "Ionia County / elevation 860 ft band"]
+zillowHomeValueUsd: 256246
 ---
 
 **Engineering Notice for Lake Odessa:** structural drying capacity optimized for 860ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ionia County. Relative Humidity Threshold: 70%. Sensor sync: Active.

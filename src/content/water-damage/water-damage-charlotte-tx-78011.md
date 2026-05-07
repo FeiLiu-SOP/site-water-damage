@@ -12,6 +12,8 @@ lng: -98.7000
 zipSample: ["78011"]
 zipCodes: ["78011"]
 localPaths: ["Atascosa County / primary ZIP 78011", "Atascosa County / ZIP 78011 sector", "Atascosa County / elevation 554 ft band", "Atascosa County / coords 28.8600, -98.7000"]
+zillowHomeValueUsd: 299903
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Charlotte:** structural drying capacity optimized for 554ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Atascosa County. Relative Humidity Threshold: 83%. Sensor sync: Active.

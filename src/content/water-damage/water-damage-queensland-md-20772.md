@@ -12,6 +12,7 @@ lng: -76.7900
 zipSample: ["20772"]
 zipCodes: ["20772"]
 localPaths: ["Prince George's County / ZIP 20772 sector", "Prince George's County / elevation 174 ft band", "Prince George's County / primary ZIP 20772", "Prince George's County / coords 38.8000, -76.7900"]
+zillowHomeValueUsd: 475832
 ---
 
 **Engineering Notice for Queensland:** structural drying capacity optimized for 174ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Prince George's County. Relative Humidity Threshold: 68%. Sensor sync: Active.

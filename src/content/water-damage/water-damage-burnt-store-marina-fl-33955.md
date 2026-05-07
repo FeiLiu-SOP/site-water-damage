@@ -12,6 +12,7 @@ lng: -82.0500
 zipSample: ["33955"]
 zipCodes: ["33955"]
 localPaths: ["Lee County / ZIP 33955 sector", "Lee County / elevation 13 ft band", "Lee County / primary ZIP 33955", "Lee County / coords 26.7600, -82.0500"]
+zillowHomeValueUsd: 330609
 ---
 
 **Engineering Notice for Burnt Store Marina:** structural drying capacity optimized for 13ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lee County. Relative Humidity Threshold: 76%. Sensor sync: Active.

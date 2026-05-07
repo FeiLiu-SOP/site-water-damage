@@ -12,6 +12,7 @@ lng: -95.6200
 zipSample: ["74523"]
 zipCodes: ["74523"]
 localPaths: ["Pushmataha County / elevation 525 ft band", "Pushmataha County / coords 34.2300, -95.6200", "Pushmataha County / ZIP 74523 sector", "Pushmataha County / primary ZIP 74523"]
+zillowHomeValueUsd: 143088
 ---
 
 **Engineering Notice for Antlers:** structural drying capacity optimized for 525ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pushmataha County. Relative Humidity Threshold: 83%. Sensor sync: Active.

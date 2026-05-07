@@ -12,6 +12,8 @@ lng: -109.0600
 zipSample: ["86515"]
 zipCodes: ["86515"]
 localPaths: ["Apache County / elevation 6759 ft band", "Apache County / coords 35.6700, -109.0600", "Apache County / ZIP 86515 sector", "Apache County / primary ZIP 86515"]
+zillowHomeValueUsd: 430722
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Window Rock:** structural drying capacity optimized for 6759ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Apache County. Relative Humidity Threshold: 71%. Sensor sync: Active.

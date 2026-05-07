@@ -12,6 +12,7 @@ lng: -85.4000
 zipSample: ["49663"]
 zipCodes: ["49663"]
 localPaths: ["Wexford County / primary ZIP 49663", "Wexford County / elevation 1129 ft band", "Wexford County / coords 44.4100, -85.4000", "Wexford County / ZIP 49663 sector"]
+zillowHomeValueUsd: 225543
 ---
 
 **Engineering Notice for Manton:** structural drying capacity optimized for 1129ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wexford County. Relative Humidity Threshold: 65%. Sensor sync: Active.

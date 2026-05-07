@@ -12,6 +12,7 @@ lng: -88.4800
 zipSample: ["53066", "53118"]
 zipCodes: ["53066", "53118"]
 localPaths: ["Waukesha County / ZIP 53066 sector", "Waukesha County / elevation 873 ft band", "Waukesha County / coords 43.0100, -88.4800", "Waukesha County / ZIP 53118 sector", "Waukesha County / primary ZIP 53118"]
+zillowHomeValueUsd: 599641
 ---
 
 **Engineering Notice for Dousman:** structural drying capacity optimized for 873ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Waukesha County. Relative Humidity Threshold: 79%. Sensor sync: Active.

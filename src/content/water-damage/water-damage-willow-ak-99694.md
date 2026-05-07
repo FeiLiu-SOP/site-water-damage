@@ -12,6 +12,7 @@ lng: -149.7500
 zipSample: ["99688", "99694"]
 zipCodes: ["99694", "99688"]
 localPaths: ["Matanuska-Susitna County / coords 61.8200, -149.7500", "Matanuska-Susitna County / ZIP 99688 sector", "Matanuska-Susitna County / primary ZIP 99694", "Matanuska-Susitna County / elevation 0 ft band", "Matanuska-Susitna County / ZIP 99694 sector"]
+zillowHomeValueUsd: 250906
 ---
 
 **Engineering Notice for Willow:** structural drying capacity optimized for 0ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Matanuska-Susitna County. Relative Humidity Threshold: 70%. Sensor sync: Active.

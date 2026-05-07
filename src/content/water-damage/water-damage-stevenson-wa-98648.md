@@ -12,6 +12,7 @@ lng: -121.8900
 zipSample: ["98648"]
 zipCodes: ["98648"]
 localPaths: ["Skamania County / primary ZIP 98648", "Skamania County / coords 45.6900, -121.8900", "Skamania County / ZIP 98648 sector", "Skamania County / elevation 105 ft band"]
+zillowHomeValueUsd: 557219
 ---
 
 **Engineering Notice for Stevenson:** structural drying capacity optimized for 105ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Skamania County. Relative Humidity Threshold: 71%. Sensor sync: Active.

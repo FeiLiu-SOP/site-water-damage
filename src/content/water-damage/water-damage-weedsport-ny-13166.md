@@ -12,6 +12,7 @@ lng: -76.5600
 zipSample: ["13166"]
 zipCodes: ["13166"]
 localPaths: ["Cayuga County / coords 43.0500, -76.5600", "Cayuga County / ZIP 13166 sector", "Cayuga County / primary ZIP 13166", "Cayuga County / elevation 407 ft band"]
+zillowHomeValueUsd: 225307
 ---
 
 **Engineering Notice for Weedsport:** structural drying capacity optimized for 407ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cayuga County. Relative Humidity Threshold: 80%. Sensor sync: Active.

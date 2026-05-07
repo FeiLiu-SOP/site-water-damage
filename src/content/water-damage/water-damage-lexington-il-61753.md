@@ -12,6 +12,7 @@ lng: -88.7800
 zipSample: ["61753"]
 zipCodes: ["61753"]
 localPaths: ["McLean County / ZIP 61753 sector", "McLean County / coords 40.6500, -88.7800", "McLean County / elevation 748 ft band", "McLean County / primary ZIP 61753"]
+zillowHomeValueUsd: 228873
 ---
 
 **Engineering Notice for Lexington:** structural drying capacity optimized for 748ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McLean County. Relative Humidity Threshold: 73%. Sensor sync: Active.

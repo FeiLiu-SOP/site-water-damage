@@ -12,6 +12,7 @@ lng: -82.5200
 zipSample: ["44813"]
 zipCodes: ["44813"]
 localPaths: ["Richland County / primary ZIP 44813", "Richland County / ZIP 44813 sector", "Richland County / elevation 1201 ft band", "Richland County / coords 40.6300, -82.5200"]
+zillowHomeValueUsd: 275765
 ---
 
 **Engineering Notice for Bellville:** structural drying capacity optimized for 1201ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Richland County. Relative Humidity Threshold: 81%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -73.6000
 zipSample: ["11560"]
 zipCodes: ["11560"]
 localPaths: ["Nassau County / elevation 56 ft band", "Nassau County / ZIP 11560 sector", "Nassau County / coords 40.8900, -73.6000", "Nassau County / primary ZIP 11560"]
+zillowHomeValueUsd: 1226060
 ---
 
 **Engineering Notice for Lattingtown:** structural drying capacity optimized for 56ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Nassau County. Relative Humidity Threshold: 78%. Sensor sync: Active.

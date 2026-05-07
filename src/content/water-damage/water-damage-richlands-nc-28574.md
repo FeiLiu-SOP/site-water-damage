@@ -12,6 +12,7 @@ lng: -77.5400
 zipSample: ["28574"]
 zipCodes: ["28574"]
 localPaths: ["Onslow County / ZIP 28574 sector", "Onslow County / elevation 36 ft band", "Onslow County / coords 34.9000, -77.5400", "Onslow County / primary ZIP 28574"]
+zillowHomeValueUsd: 274500
 ---
 
 **Engineering Notice for Richlands:** structural drying capacity optimized for 36ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Onslow County. Relative Humidity Threshold: 75%. Sensor sync: Active.

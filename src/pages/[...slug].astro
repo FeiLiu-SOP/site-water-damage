@@ -2,6 +2,8 @@
 import { getCollection, render } from "astro:content";
 import Footer from "../components/Footer.astro";
 import RelatedCities from "../components/RelatedCities.astro";
+import ValueProtectionCalculator from "../components/ValueProtectionCalculator.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
 import { ACTIVE_COLLECTION } from "../active-collection";
 import { canonicalPageUrl, getNicheLabelForSeed, internalPath, siteConfig } from "../site-config";
 import {
@@ -60,10 +62,6 @@ const stateCodeFromSlug = (() => {
   const m = entrySlug.match(/-([a-z]{2})-\d{5}$/i);
   return m ? m[1]!.toUpperCase() : null;
 })();
-const pageHeading = pageCity && stateCodeFromSlug
-  ? `${pageNicheLabel} in ${pageCity}, ${stateCodeFromSlug}`
-  : post.data.title;
-
 // Action 1: footer random internal link from backup pool (state index + random city)
 const backupCandidates: { href: string; label: string }[] = [];
 if (stateCodeFromSlug) {
@@ -92,6 +90,106 @@ function stableHash(input: string) {
   }
   return h >>> 0;
 }
+function formatZillowUsdShort(usd: number): string {
+  if (!Number.isFinite(usd) || usd <= 0) return "";
+  if (usd >= 1_000_000) {
+    const m = usd / 1_000_000;
+    const s =
+      m >= 10
+        ? String(Math.round(m))
+        : String(Math.round(m * 100) / 100).replace(new RegExp("\\.?0+$"), "");
+    return `$${s}M`;
+  }
+  const k = usd / 1000;
+  if (k < 10) return `$${Math.round(usd).toLocaleString("en-US")}`;
+  const roundedK = Math.round(k * 10) / 10;
+  const sk = Number.isInteger(roundedK) ? String(roundedK) : roundedK.toFixed(1).replace(/\.0$/, "");
+  return `$${sk}K`;
+}
+function clipMetaDescription(text: string, max = 158): string {
+  const t = text.trim();
+  if (t.length <= max) return t;
+  return `${t.slice(0, max - 1).trimEnd().replace(/[,;\s]+$/, "")}…`;
+}
+function stateLabelForBait(stateCode: string, stateFromFm: string | undefined): string {
+  const fm = (stateFromFm ?? "").trim();
+  if (fm.length > 2) return fm;
+  return stateCode;
+}
+function buildBaitPool2Titles(opts: {
+  service: string;
+  city: string;
+  stateCode: string;
+  stateFm: string | undefined;
+  zLabel: string | null;
+  pick: number;
+}): { pageTitle: string; pageH1: string } {
+  const stateToken = stateLabelForBait(opts.stateCode, opts.stateFm);
+  const { service, city, zLabel, pick } = opts;
+  if (pick === 0 && zLabel) {
+    const pageTitle = `${zLabel} Home Protection: ${city} Emergency ${service} (Verified)`;
+    const pageH1 = `${zLabel} Home Protection — ${city} Emergency ${service}`;
+    return { pageTitle, pageH1 };
+  }
+  if (pick === 1) {
+    const pageTitle = `${city} ${service} Dispatch - 24/7 Rapid Response in ${stateToken}`;
+    const pageH1 = `${city} ${service} Dispatch: 24/7 Rapid Response (${stateToken})`;
+    return { pageTitle, pageH1 };
+  }
+  const pageTitle = `Warning: Asset Decay in ${city}. Local ${service} Experts Ready.`;
+  const pageH1 = `Warning: Asset Decay in ${city} — Local ${service} Experts Ready`;
+  return { pageTitle, pageH1 };
+}
+const zRaw = post.data.zillowHomeValueUsd;
+const zUsd =
+  typeof zRaw === "number" && Number.isFinite(zRaw) && zRaw > 0 ? zRaw : null;
+const zLabel = zUsd != null ? formatZillowUsdShort(zUsd) : null;
+const zLabelExact =
+  zUsd != null
+    ? new Intl.NumberFormat("en-US", {
+        style: "currency",
+        currency: "USD",
+        maximumFractionDigits: 0,
+      }).format(zUsd)
+    : null;
+let baitPick = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|bait2`) % 3;
+if (baitPick === 0 && !zLabel) {
+  baitPick = 1 + (stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|bait2NoZ`) % 2);
+}
+const baitHead =
+  pageCity && stateCodeFromSlug
+    ? buildBaitPool2Titles({
+        service: pageNicheLabel,
+        city: pageCity,
+        stateCode: stateCodeFromSlug,
+        stateFm: post.data.state,
+        zLabel,
+        pick: baitPick,
+      })
+    : null;
+/** `<title>` / JSON-LD name: 3-template hash only (fingerprint cover). */
+const pageTitle = baitHead?.pageTitle ?? post.data.title;
+/** Visible `<h1>` / meta: full USD string matches `zillowHomeValueUsd` (same digits as H1 span). */
+const pageH1Plain =
+  zLabelExact && pageCity
+    ? `${pageCity} Emergency Dispatch - Protecting your ${zLabelExact} Asset`
+    : zLabelExact
+      ? `Emergency Dispatch - Protecting your ${zLabelExact} Asset`
+      : pageCity
+        ? `${pageCity} Emergency Dispatch - Protecting your property`
+        : post.data.title;
+const pageMetaDescription = clipMetaDescription(
+  (() => {
+    const base = post.data.description;
+    if (zLabelExact && !base.includes(zLabelExact)) {
+      if (pageCity && stateCodeFromSlug) {
+        return `${base} Benchmark median home value near ${zLabelExact} (${pageCity} ${stateCodeFromSlug} market context).`;
+      }
+      return `${base} Benchmark median home value near ${zLabelExact}.`;
+    }
+    return base;
+  })(),
+);
 function pickFaqSubset<T>(items: T[], seedText: string, count: number): T[] {
   const copy = [...items];
   let seed = stableHash(seedText);
@@ -336,8 +434,8 @@ const faqTitleId = domPrefix ? `${domPrefix}-faq-title` : "faq-title";
 
 const localBusinessSchema = buildLocalBusinessSchema({
   collection: ACTIVE_COLLECTION,
-  pageTitle: post.data.title,
-  pageDescription: post.data.description,
+  pageTitle,
+  pageDescription: pageMetaDescription,
   pageUrl,
   location: null,
 });
@@ -380,8 +478,8 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="google-site-verification" content="e8639489520c639b" />
-    <title>{pageHeading}</title>
-    <meta name="description" content={post.data.description} />
+    <title>{pageTitle}</title>
+    <meta name="description" content={pageMetaDescription} />
     <meta name="robots" content={siteConfig.robotsContent} />
     {post.data.templateVersion ? (
       <meta name="template-version" content={post.data.templateVersion} />
@@ -586,15 +684,75 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
       [id$="article-md-body"] strong {
         color: #0f172a;
       }
+      .h1-zmoney {
+        color: #b91c1c;
+        font-weight: 800;
+        font-size: 1.1em;
+        text-decoration: underline;
+      }
+      /* Flood-advisory style band: breadcrumbs + headline (visual pressure / legibility) */
+      .hero-flood-alert-band {
+        background: #fefce8;
+        border-bottom: 1px solid #fde68a;
+        padding: 1rem 1.25rem 1.15rem;
+        margin: 0 0 1rem;
+        border-radius: 0 0 10px 10px;
+      }
+      .hero-flood-alert-band .crumbs {
+        margin: 0 0 0.35rem;
+      }
+      .hero-flood-alert-band h1 {
+        margin: 0;
+        line-height: 1.28;
+        font-size: clamp(1.35rem, 2.8vw, 1.85rem);
+      }
+      .hero-flood-alert-band h1 + p {
+        margin-top: 0.45rem !important;
+      }
     </style>
   </head>
   <body>
     <main>
       <article>
-        <h1>{pageHeading}</h1>
-        <p style="margin: 0.25rem 0 0; color: #475569; font-size: 0.98rem;">
-          {headerVariant}
-        </p>
+        <ValueProtectionCalculator
+          homeUsd={zUsd}
+          zLabel={zLabel}
+          city={pageCity}
+          accent={themeAccent}
+          domPrefix={domPrefix}
+        />
+        <section class="hero-flood-alert-band" aria-label="Service area headline">
+          <Breadcrumbs
+            homeHref={internalPath()}
+            stateLabel={stateCodeFromSlug}
+            stateHref={stateCodeFromSlug ? internalPath(stateCodeFromSlug.toLowerCase()) : null}
+            cityLabel={pageCity}
+          />
+          <h1>
+            {
+              zLabelExact ? (
+                pageCity ? (
+                  <>
+                    {`${pageCity} Emergency Dispatch - Protecting your `}
+                    <span class="h1-zmoney">{zLabelExact}</span>
+                    {" Asset"}
+                  </>
+                ) : (
+                  <>
+                    {"Emergency Dispatch - Protecting your "}
+                    <span class="h1-zmoney">{zLabelExact}</span>
+                    {" Asset"}
+                  </>
+                )
+              ) : (
+                pageH1Plain
+              )
+            }
+          </h1>
+          <p style="margin: 0.25rem 0 0; color: #475569; font-size: 0.98rem;">
+            {headerVariant}
+          </p>
+        </section>
         <div class={serviceInfoClass}>
           <h2>{ctaVariant.title}</h2>
           <p>{serviceLine}</p>

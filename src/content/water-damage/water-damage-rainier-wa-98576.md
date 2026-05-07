@@ -12,6 +12,7 @@ lng: -122.6900
 zipSample: ["98576"]
 zipCodes: ["98576"]
 localPaths: ["Thurston County / primary ZIP 98576", "Thurston County / ZIP 98576 sector", "Thurston County / elevation 436 ft band", "Thurston County / coords 46.8900, -122.6900"]
+zillowHomeValueUsd: 519679
 ---
 
 **Engineering Notice for Rainier:** structural drying capacity optimized for 436ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Thurston County. Relative Humidity Threshold: 85%. Sensor sync: Active.

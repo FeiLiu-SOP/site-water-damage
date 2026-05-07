@@ -12,6 +12,7 @@ lng: -90.3000
 zipSample: ["54479"]
 zipCodes: ["54479"]
 localPaths: ["Marathon County / ZIP 54479 sector", "Marathon County / elevation 1306 ft band", "Marathon County / primary ZIP 54479", "Marathon County / coords 44.7500, -90.3000"]
+zillowHomeValueUsd: 227681
 ---
 
 **Engineering Notice for Spencer:** structural drying capacity optimized for 1306ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marathon County. Relative Humidity Threshold: 65%. Sensor sync: Active.

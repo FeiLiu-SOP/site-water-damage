@@ -12,6 +12,7 @@ lng: -82.0700
 zipSample: ["28777"]
 zipCodes: ["28777"]
 localPaths: ["Mitchell County / coords 35.9100, -82.0700", "Mitchell County / ZIP 28777 sector", "Mitchell County / primary ZIP 28777", "Mitchell County / elevation 2598 ft band"]
+zillowHomeValueUsd: 245805
 ---
 
 **Engineering Notice for Spruce Pine:** structural drying capacity optimized for 2598ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mitchell County. Relative Humidity Threshold: 81%. Sensor sync: Active.

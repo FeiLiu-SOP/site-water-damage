@@ -12,6 +12,7 @@ lng: -86.6800
 zipSample: ["37049"]
 zipCodes: ["37049"]
 localPaths: ["Robertson County / primary ZIP 37049", "Robertson County / elevation 784 ft band", "Robertson County / coords 36.5400, -86.6800", "Robertson County / ZIP 37049 sector"]
+zillowHomeValueUsd: 419973
 ---
 
 **Engineering Notice for Cross Plains:** structural drying capacity optimized for 784ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Robertson County. Relative Humidity Threshold: 67%. Sensor sync: Active.

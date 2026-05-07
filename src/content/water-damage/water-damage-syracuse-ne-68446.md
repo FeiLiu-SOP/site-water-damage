@@ -12,6 +12,7 @@ lng: -96.1800
 zipSample: ["68446"]
 zipCodes: ["68446"]
 localPaths: ["Otoe County / elevation 1076 ft band", "Otoe County / ZIP 68446 sector", "Otoe County / primary ZIP 68446", "Otoe County / coords 40.6600, -96.1800"]
+zillowHomeValueUsd: 267744
 ---
 
 **Engineering Notice for Syracuse:** structural drying capacity optimized for 1076ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Otoe County. Relative Humidity Threshold: 78%. Sensor sync: Active.

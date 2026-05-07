@@ -12,6 +12,7 @@ lng: -83.2800
 zipSample: ["48166"]
 zipCodes: ["48166"]
 localPaths: ["Monroe County / primary ZIP 48166", "Monroe County / ZIP 48166 sector", "Monroe County / coords 41.9500, -83.2800", "Monroe County / elevation 581 ft band"]
+zillowHomeValueUsd: 197081
 ---
 
 **Engineering Notice for Stony Point:** structural drying capacity optimized for 581ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Monroe County. Relative Humidity Threshold: 69%. Sensor sync: Active.

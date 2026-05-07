@@ -12,6 +12,7 @@ lng: -94.4100
 zipSample: ["64841", "64801"]
 zipCodes: ["64801", "64841"]
 localPaths: ["Jasper County / ZIP 64801 sector", "Jasper County / elevation 1073 ft band", "Jasper County / ZIP 64841 sector", "Jasper County / coords 37.0800, -94.4100", "Jasper County / primary ZIP 64801"]
+zillowHomeValueUsd: 191131
 ---
 
 **Engineering Notice for Duenweg:** structural drying capacity optimized for 1073ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jasper County. Relative Humidity Threshold: 82%. Sensor sync: Active.

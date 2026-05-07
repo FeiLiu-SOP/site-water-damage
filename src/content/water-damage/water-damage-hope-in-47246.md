@@ -12,6 +12,7 @@ lng: -85.7700
 zipSample: ["47246"]
 zipCodes: ["47246"]
 localPaths: ["Bartholomew County / elevation 732 ft band", "Bartholomew County / coords 39.3000, -85.7700", "Bartholomew County / primary ZIP 47246", "Bartholomew County / ZIP 47246 sector"]
+zillowHomeValueUsd: 255746
 ---
 
 **Engineering Notice for Hope:** structural drying capacity optimized for 732ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bartholomew County. Relative Humidity Threshold: 70%. Sensor sync: Active.

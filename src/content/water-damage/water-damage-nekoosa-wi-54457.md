@@ -12,6 +12,7 @@ lng: -89.9100
 zipSample: ["54457"]
 zipCodes: ["54457"]
 localPaths: ["Wood County / ZIP 54457 sector", "Wood County / primary ZIP 54457", "Wood County / coords 44.3100, -89.9100", "Wood County / elevation 955 ft band"]
+zillowHomeValueUsd: 266153
 ---
 
 **Engineering Notice for Nekoosa:** structural drying capacity optimized for 955ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wood County. Relative Humidity Threshold: 85%. Sensor sync: Active.

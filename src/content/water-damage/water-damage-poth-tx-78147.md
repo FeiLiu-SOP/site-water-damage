@@ -12,6 +12,7 @@ lng: -98.0800
 zipSample: ["78147"]
 zipCodes: ["78147"]
 localPaths: ["Wilson County / coords 29.0700, -98.0800", "Wilson County / primary ZIP 78147", "Wilson County / elevation 420 ft band", "Wilson County / ZIP 78147 sector"]
+zillowHomeValueUsd: 243714
 ---
 
 **Engineering Notice for Poth:** structural drying capacity optimized for 420ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wilson County. Relative Humidity Threshold: 77%. Sensor sync: Active.

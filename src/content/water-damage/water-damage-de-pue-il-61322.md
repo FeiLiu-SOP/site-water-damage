@@ -12,6 +12,8 @@ lng: -89.3000
 zipSample: ["61356", "61322"]
 zipCodes: ["61356", "61322"]
 localPaths: ["Bureau County / ZIP 61322 sector", "Bureau County / primary ZIP 61322", "Bureau County / ZIP 61356 sector", "Bureau County / elevation 512 ft band", "Bureau County / coords 41.3300, -89.3000"]
+zillowHomeValueUsd: 224722
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for De Pue:** structural drying capacity optimized for 512ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bureau County. Relative Humidity Threshold: 69%. Sensor sync: Active.

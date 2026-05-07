@@ -12,6 +12,7 @@ lng: -116.3600
 zipSample: ["92241"]
 zipCodes: ["92241"]
 localPaths: ["Riverside County / coords 33.8900, -116.3600", "Riverside County / primary ZIP 92241", "Riverside County / ZIP 92241 sector", "Riverside County / elevation 1037 ft band"]
+zillowHomeValueUsd: 408041
 ---
 
 **Engineering Notice for Sky Valley:** structural drying capacity optimized for 1037ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Riverside County. Relative Humidity Threshold: 65%. Sensor sync: Active.

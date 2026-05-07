@@ -12,6 +12,7 @@ lng: -119.1500
 zipSample: ["93004"]
 zipCodes: ["93004"]
 localPaths: ["Ventura County / primary ZIP 93004", "Ventura County / coords 34.2800, -119.1500", "Ventura County / ZIP 93004 sector", "Ventura County / elevation 144 ft band"]
+zillowHomeValueUsd: 874627
 ---
 
 **Engineering Notice for Saticoy:** structural drying capacity optimized for 144ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ventura County. Relative Humidity Threshold: 71%. Sensor sync: Active.

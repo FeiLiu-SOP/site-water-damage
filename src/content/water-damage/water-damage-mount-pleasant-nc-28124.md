@@ -12,6 +12,7 @@ lng: -80.4500
 zipSample: ["28025", "28124"]
 zipCodes: ["28025", "28124"]
 localPaths: ["Cabarrus County / primary ZIP 28124", "Cabarrus County / elevation 659 ft band", "Cabarrus County / ZIP 28025 sector", "Cabarrus County / coords 35.3800, -80.4500", "Cabarrus County / ZIP 28124 sector"]
+zillowHomeValueUsd: 381040
 ---
 
 **Engineering Notice for Mount Pleasant:** structural drying capacity optimized for 659ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cabarrus County. Relative Humidity Threshold: 72%. Sensor sync: Active.

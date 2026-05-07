@@ -12,6 +12,7 @@ lng: -79.8300
 zipSample: ["15132"]
 zipCodes: ["15132"]
 localPaths: ["Allegheny County / ZIP 15132 sector", "Allegheny County / coords 40.3200, -79.8300", "Allegheny County / primary ZIP 15132", "Allegheny County / elevation 922 ft band"]
+zillowHomeValueUsd: 73745
 ---
 
 **Engineering Notice for Versailles:** structural drying capacity optimized for 922ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allegheny County. Relative Humidity Threshold: 66%. Sensor sync: Active.

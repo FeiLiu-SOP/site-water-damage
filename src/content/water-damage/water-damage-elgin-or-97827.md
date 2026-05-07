@@ -12,6 +12,7 @@ lng: -117.9200
 zipSample: ["97827"]
 zipCodes: ["97827"]
 localPaths: ["Union County / coords 45.5600, -117.9200", "Union County / primary ZIP 97827", "Union County / elevation 2680 ft band", "Union County / ZIP 97827 sector"]
+zillowHomeValueUsd: 268047
 ---
 
 **Engineering Notice for Elgin:** structural drying capacity optimized for 2680ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Union County. Relative Humidity Threshold: 69%. Sensor sync: Active.

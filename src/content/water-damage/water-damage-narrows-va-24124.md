@@ -12,6 +12,7 @@ lng: -80.8100
 zipSample: ["24124"]
 zipCodes: ["24124"]
 localPaths: ["Giles County / elevation 1614 ft band", "Giles County / ZIP 24124 sector", "Giles County / coords 37.3300, -80.8100", "Giles County / primary ZIP 24124"]
+zillowHomeValueUsd: 165065
 ---
 
 **Engineering Notice for Narrows:** structural drying capacity optimized for 1614ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Giles County. Relative Humidity Threshold: 69%. Sensor sync: Active.

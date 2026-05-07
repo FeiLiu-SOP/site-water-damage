@@ -12,6 +12,7 @@ lng: -84.6900
 zipSample: ["48883"]
 zipCodes: ["48883"]
 localPaths: ["Isabella County / elevation 784 ft band", "Isabella County / ZIP 48883 sector", "Isabella County / coords 43.5200, -84.6900", "Isabella County / primary ZIP 48883"]
+zillowHomeValueUsd: 216849
 ---
 
 **Engineering Notice for Shepherd:** structural drying capacity optimized for 784ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Isabella County. Relative Humidity Threshold: 77%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -85.3200
 zipSample: ["49040"]
 zipCodes: ["49040"]
 localPaths: ["St. Joseph County / elevation 853 ft band", "St. Joseph County / coords 41.9600, -85.3200", "St. Joseph County / ZIP 49040 sector", "St. Joseph County / primary ZIP 49040"]
+zillowHomeValueUsd: 199191
 ---
 
 **Engineering Notice for Colon:** structural drying capacity optimized for 853ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Joseph County. Relative Humidity Threshold: 83%. Sensor sync: Active.

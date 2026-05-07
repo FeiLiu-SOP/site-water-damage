@@ -12,6 +12,7 @@ lng: -89.2600
 zipSample: ["53576"]
 zipCodes: ["53576"]
 localPaths: ["Rock County / ZIP 53576 sector", "Rock County / elevation 889 ft band", "Rock County / primary ZIP 53576", "Rock County / coords 42.6300, -89.2600"]
+zillowHomeValueUsd: 305083
 ---
 
 **Engineering Notice for Orfordville:** structural drying capacity optimized for 889ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rock County. Relative Humidity Threshold: 70%. Sensor sync: Active.

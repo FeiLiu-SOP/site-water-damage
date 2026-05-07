@@ -12,6 +12,7 @@ lng: -76.2400
 zipSample: ["17602", "17537"]
 zipCodes: ["17537", "17602"]
 localPaths: ["Lancaster County / ZIP 17537 sector", "Lancaster County / elevation 400 ft band", "Lancaster County / coords 39.9900, -76.2400", "Lancaster County / ZIP 17602 sector", "Lancaster County / primary ZIP 17602"]
+zillowHomeValueUsd: 317046
 ---
 
 **Engineering Notice for Lampeter:** structural drying capacity optimized for 400ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lancaster County. Relative Humidity Threshold: 71%. Sensor sync: Active.

@@ -12,6 +12,8 @@ lng: -90.1700
 zipSample: ["62060", "62090"]
 zipCodes: ["62060", "62090"]
 localPaths: ["Madison County / elevation 417 ft band", "Madison County / ZIP 62060 sector", "Madison County / coords 38.6700, -90.1700", "Madison County / ZIP 62090 sector", "Madison County / primary ZIP 62090"]
+zillowHomeValueUsd: 226391
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Venice:** structural drying capacity optimized for 417ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Madison County. Relative Humidity Threshold: 73%. Sensor sync: Active.

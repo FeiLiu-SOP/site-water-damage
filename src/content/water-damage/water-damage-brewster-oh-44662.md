@@ -12,6 +12,7 @@ lng: -81.6000
 zipSample: ["44662", "44613"]
 zipCodes: ["44662", "44613"]
 localPaths: ["Stark County / ZIP 44613 sector", "Stark County / coords 40.7100, -81.6000", "Stark County / elevation 968 ft band", "Stark County / ZIP 44662 sector", "Stark County / primary ZIP 44662"]
+zillowHomeValueUsd: 210078
 ---
 
 **Engineering Notice for Brewster:** structural drying capacity optimized for 968ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stark County. Relative Humidity Threshold: 75%. Sensor sync: Active.

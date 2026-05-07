@@ -12,6 +12,7 @@ lng: -90.5200
 zipSample: ["70444"]
 zipCodes: ["70444"]
 localPaths: ["Tangipahoa Parish / elevation 246 ft band", "Tangipahoa Parish / coords 30.9300, -90.5200", "Tangipahoa Parish / ZIP 70444 sector", "Tangipahoa Parish / primary ZIP 70444"]
+zillowHomeValueUsd: 170633
 ---
 
 **Engineering Notice for Kentwood:** structural drying capacity optimized for 246ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tangipahoa Parish. Relative Humidity Threshold: 81%. Sensor sync: Active.

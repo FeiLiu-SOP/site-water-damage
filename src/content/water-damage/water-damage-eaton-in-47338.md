@@ -12,6 +12,7 @@ lng: -85.3600
 zipSample: ["47303", "47338"]
 zipCodes: ["47338", "47303"]
 localPaths: ["Delaware County / ZIP 47303 sector", "Delaware County / ZIP 47338 sector", "Delaware County / elevation 909 ft band", "Delaware County / coords 40.3200, -85.3600", "Delaware County / primary ZIP 47338"]
+zillowHomeValueUsd: 166770
 ---
 
 **Engineering Notice for Eaton:** structural drying capacity optimized for 909ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Delaware County. Relative Humidity Threshold: 69%. Sensor sync: Active.

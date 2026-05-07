@@ -12,6 +12,7 @@ lng: -97.7700
 zipSample: ["78140"]
 zipCodes: ["78140"]
 localPaths: ["Gonzales County / primary ZIP 78140", "Gonzales County / coords 29.2700, -97.7700", "Gonzales County / elevation 404 ft band", "Gonzales County / ZIP 78140 sector"]
+zillowHomeValueUsd: 201034
 ---
 
 **Engineering Notice for Nixon:** structural drying capacity optimized for 404ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gonzales County. Relative Humidity Threshold: 65%. Sensor sync: Active.

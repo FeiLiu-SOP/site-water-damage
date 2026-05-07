@@ -12,6 +12,7 @@ lng: -113.7800
 zipSample: ["83347"]
 zipCodes: ["83347"]
 localPaths: ["Minidoka County / elevation 4150 ft band", "Minidoka County / primary ZIP 83347", "Minidoka County / ZIP 83347 sector", "Minidoka County / coords 42.6100, -113.7800"]
+zillowHomeValueUsd: 347069
 ---
 
 **Engineering Notice for Paul:** structural drying capacity optimized for 4150ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Minidoka County. Relative Humidity Threshold: 72%. Sensor sync: Active.

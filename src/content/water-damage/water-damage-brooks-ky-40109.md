@@ -12,6 +12,7 @@ lng: -85.7200
 zipSample: ["40109"]
 zipCodes: ["40109"]
 localPaths: ["Bullitt County / elevation 535 ft band", "Bullitt County / primary ZIP 40109", "Bullitt County / ZIP 40109 sector", "Bullitt County / coords 38.0700, -85.7200"]
+zillowHomeValueUsd: 302877
 ---
 
 **Engineering Notice for Brooks:** structural drying capacity optimized for 535ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bullitt County. Relative Humidity Threshold: 70%. Sensor sync: Active.

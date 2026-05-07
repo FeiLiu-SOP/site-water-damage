@@ -12,6 +12,7 @@ lng: -86.8600
 zipSample: ["46360"]
 zipCodes: ["46360"]
 localPaths: ["LaPorte County / primary ZIP 46360", "LaPorte County / coords 41.7000, -86.8600", "LaPorte County / elevation 643 ft band", "LaPorte County / ZIP 46360 sector"]
+zillowHomeValueUsd: 229488
 ---
 
 **Engineering Notice for Trail Creek:** structural drying capacity optimized for 643ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: LaPorte County. Relative Humidity Threshold: 66%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -90.3300
 zipSample: ["72354"]
 zipCodes: ["72354"]
 localPaths: ["Poinsett County / ZIP 72354 sector", "Poinsett County / primary ZIP 72354", "Poinsett County / coords 35.6100, -90.3300", "Poinsett County / elevation 223 ft band"]
+zillowHomeValueUsd: 98388
 ---
 
 **Engineering Notice for Lepanto:** structural drying capacity optimized for 223ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Poinsett County. Relative Humidity Threshold: 84%. Sensor sync: Active.

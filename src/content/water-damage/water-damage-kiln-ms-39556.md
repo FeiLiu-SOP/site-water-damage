@@ -12,6 +12,7 @@ lng: -89.4300
 zipSample: ["39556"]
 zipCodes: ["39556"]
 localPaths: ["Hancock County / primary ZIP 39556", "Hancock County / elevation 39 ft band", "Hancock County / ZIP 39556 sector", "Hancock County / coords 30.4200, -89.4300"]
+zillowHomeValueUsd: 234013
 ---
 
 **Engineering Notice for Kiln:** structural drying capacity optimized for 39ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hancock County. Relative Humidity Threshold: 81%. Sensor sync: Active.

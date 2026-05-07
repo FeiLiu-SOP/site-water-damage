@@ -12,6 +12,7 @@ lng: -79.8100
 zipSample: ["15035"]
 zipCodes: ["15035"]
 localPaths: ["Allegheny County / ZIP 15035 sector", "Allegheny County / elevation 1204 ft band", "Allegheny County / coords 40.3800, -79.8100", "Allegheny County / primary ZIP 15035"]
+zillowHomeValueUsd: 115113
 ---
 
 **Engineering Notice for East McKeesport:** structural drying capacity optimized for 1204ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allegheny County. Relative Humidity Threshold: 67%. Sensor sync: Active.

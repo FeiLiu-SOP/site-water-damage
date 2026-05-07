@@ -12,6 +12,7 @@ lng: -81.5600
 zipSample: ["44146"]
 zipCodes: ["44146"]
 localPaths: ["Cuyahoga County / primary ZIP 44146", "Cuyahoga County / ZIP 44146 sector", "Cuyahoga County / elevation 968 ft band", "Cuyahoga County / coords 41.3700, -81.5600"]
+zillowHomeValueUsd: 178717
 ---
 
 **Engineering Notice for Walton Hills:** structural drying capacity optimized for 968ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cuyahoga County. Relative Humidity Threshold: 83%. Sensor sync: Active.

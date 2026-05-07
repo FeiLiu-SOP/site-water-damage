@@ -12,6 +12,7 @@ lng: -81.6700
 zipSample: ["30415"]
 zipCodes: ["30415"]
 localPaths: ["Bulloch County / coords 32.3900, -81.6700", "Bulloch County / primary ZIP 30415", "Bulloch County / elevation 187 ft band", "Bulloch County / ZIP 30415 sector"]
+zillowHomeValueUsd: 326408
 ---
 
 **Engineering Notice for Brooklet:** structural drying capacity optimized for 187ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bulloch County. Relative Humidity Threshold: 67%. Sensor sync: Active.

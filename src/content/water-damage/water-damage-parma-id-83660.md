@@ -12,6 +12,7 @@ lng: -116.9400
 zipSample: ["83660"]
 zipCodes: ["83660"]
 localPaths: ["Canyon County / ZIP 83660 sector", "Canyon County / primary ZIP 83660", "Canyon County / elevation 2241 ft band", "Canyon County / coords 43.7900, -116.9400"]
+zillowHomeValueUsd: 508394
 ---
 
 **Engineering Notice for Parma:** structural drying capacity optimized for 2241ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Canyon County. Relative Humidity Threshold: 70%. Sensor sync: Active.

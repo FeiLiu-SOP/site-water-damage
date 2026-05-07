@@ -12,6 +12,7 @@ lng: -87.8200
 zipSample: ["53013"]
 zipCodes: ["53013"]
 localPaths: ["Sheboygan County / coords 43.5700, -87.8200", "Sheboygan County / ZIP 53013 sector", "Sheboygan County / primary ZIP 53013", "Sheboygan County / elevation 709 ft band"]
+zillowHomeValueUsd: 381837
 ---
 
 **Engineering Notice for Cedar Grove:** structural drying capacity optimized for 709ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sheboygan County. Relative Humidity Threshold: 79%. Sensor sync: Active.

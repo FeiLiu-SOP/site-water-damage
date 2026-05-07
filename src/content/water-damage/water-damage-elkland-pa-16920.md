@@ -12,6 +12,7 @@ lng: -77.3100
 zipSample: ["16920"]
 zipCodes: ["16920"]
 localPaths: ["Tioga County / primary ZIP 16920", "Tioga County / elevation 1148 ft band", "Tioga County / ZIP 16920 sector", "Tioga County / coords 41.9900, -77.3100"]
+zillowHomeValueUsd: 128366
 ---
 
 **Engineering Notice for Elkland:** structural drying capacity optimized for 1148ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tioga County. Relative Humidity Threshold: 81%. Sensor sync: Active.

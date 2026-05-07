@@ -12,6 +12,7 @@ lng: -80.5100
 zipSample: ["33070"]
 zipCodes: ["33070"]
 localPaths: ["Monroe County / ZIP 33070 sector", "Monroe County / primary ZIP 33070", "Monroe County / coords 25.0200, -80.5100", "Monroe County / elevation 3 ft band"]
+zillowHomeValueUsd: 904691
 ---
 
 **Engineering Notice for Tavernier:** structural drying capacity optimized for 3ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Monroe County. Relative Humidity Threshold: 74%. Sensor sync: Active.

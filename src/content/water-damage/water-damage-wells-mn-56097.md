@@ -12,6 +12,7 @@ lng: -93.7300
 zipSample: ["56097"]
 zipCodes: ["56097"]
 localPaths: ["Faribault County / elevation 1158 ft band", "Faribault County / ZIP 56097 sector", "Faribault County / primary ZIP 56097", "Faribault County / coords 43.7400, -93.7300"]
+zillowHomeValueUsd: 182238
 ---
 
 **Engineering Notice for Wells:** structural drying capacity optimized for 1158ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Faribault County. Relative Humidity Threshold: 74%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -120.2700
 zipSample: ["95370"]
 zipCodes: ["95370"]
 localPaths: ["Tuolumne County / elevation 3796 ft band", "Tuolumne County / ZIP 95370 sector", "Tuolumne County / primary ZIP 95370", "Tuolumne County / coords 38.0700, -120.2700"]
+zillowHomeValueUsd: 404630
 ---
 
 **Engineering Notice for Cedar Ridge:** structural drying capacity optimized for 3796ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tuolumne County. Relative Humidity Threshold: 82%. Sensor sync: Active.

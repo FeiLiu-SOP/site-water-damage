@@ -12,6 +12,8 @@ lng: -88.9000
 zipSample: ["62846", "62816"]
 zipCodes: ["62846", "62816"]
 localPaths: ["Jefferson County / primary ZIP 62846", "Jefferson County / ZIP 62816 sector", "Jefferson County / elevation 423 ft band", "Jefferson County / ZIP 62846 sector", "Jefferson County / coords 38.1500, -88.9000"]
+zillowHomeValueUsd: 231292
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Ina:** structural drying capacity optimized for 423ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 66%. Sensor sync: Active.

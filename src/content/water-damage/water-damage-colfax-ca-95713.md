@@ -12,6 +12,7 @@ lng: -120.9500
 zipSample: ["95713"]
 zipCodes: ["95713"]
 localPaths: ["Placer County / coords 39.0900, -120.9500", "Placer County / ZIP 95713 sector", "Placer County / elevation 2385 ft band", "Placer County / primary ZIP 95713"]
+zillowHomeValueUsd: 506048
 ---
 
 **Engineering Notice for Colfax:** structural drying capacity optimized for 2385ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Placer County. Relative Humidity Threshold: 77%. Sensor sync: Active.

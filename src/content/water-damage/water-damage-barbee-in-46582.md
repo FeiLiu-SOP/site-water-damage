@@ -12,6 +12,7 @@ lng: -85.7100
 zipSample: ["46582", "46538"]
 zipCodes: ["46582", "46538"]
 localPaths: ["Kosciusko County / primary ZIP 46582", "Kosciusko County / coords 41.2900, -85.7100", "Kosciusko County / ZIP 46582 sector", "Kosciusko County / ZIP 46538 sector", "Kosciusko County / elevation 846 ft band"]
+zillowHomeValueUsd: 304496
 ---
 
 **Engineering Notice for Barbee:** structural drying capacity optimized for 846ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kosciusko County. Relative Humidity Threshold: 75%. Sensor sync: Active.

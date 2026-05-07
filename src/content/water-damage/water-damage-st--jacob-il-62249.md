@@ -12,6 +12,7 @@ lng: -89.7700
 zipSample: ["62249", "62281"]
 zipCodes: ["62281", "62249"]
 localPaths: ["Madison County / elevation 512 ft band", "Madison County / ZIP 62281 sector", "Madison County / ZIP 62249 sector", "Madison County / coords 38.7200, -89.7700", "Madison County / primary ZIP 62249"]
+zillowHomeValueUsd: 266217
 ---
 
 **Engineering Notice for St. Jacob:** structural drying capacity optimized for 512ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Madison County. Relative Humidity Threshold: 66%. Sensor sync: Active.

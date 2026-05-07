@@ -12,6 +12,7 @@ lng: -96.1300
 zipSample: ["75474"]
 zipCodes: ["75474"]
 localPaths: ["Hunt County / coords 32.9100, -96.1300", "Hunt County / primary ZIP 75474", "Hunt County / ZIP 75474 sector", "Hunt County / elevation 535 ft band"]
+zillowHomeValueUsd: 243038
 ---
 
 **Engineering Notice for Quinlan:** structural drying capacity optimized for 535ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hunt County. Relative Humidity Threshold: 81%. Sensor sync: Active.

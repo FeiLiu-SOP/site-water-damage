@@ -12,6 +12,7 @@ lng: -74.9700
 zipSample: ["19020"]
 zipCodes: ["19020"]
 localPaths: ["Bucks County / ZIP 19020 sector", "Bucks County / elevation 72 ft band", "Bucks County / coords 40.0700, -74.9700", "Bucks County / primary ZIP 19020"]
+zillowHomeValueUsd: 422408
 ---
 
 **Engineering Notice for Andalusia:** structural drying capacity optimized for 72ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bucks County. Relative Humidity Threshold: 85%. Sensor sync: Active.

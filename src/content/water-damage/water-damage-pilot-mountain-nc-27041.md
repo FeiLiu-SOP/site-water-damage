@@ -12,6 +12,7 @@ lng: -80.4700
 zipSample: ["27041"]
 zipCodes: ["27041"]
 localPaths: ["Surry County / primary ZIP 27041", "Surry County / coords 36.3900, -80.4700", "Surry County / ZIP 27041 sector", "Surry County / elevation 1115 ft band"]
+zillowHomeValueUsd: 273969
 ---
 
 **Engineering Notice for Pilot Mountain:** structural drying capacity optimized for 1115ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Surry County. Relative Humidity Threshold: 68%. Sensor sync: Active.

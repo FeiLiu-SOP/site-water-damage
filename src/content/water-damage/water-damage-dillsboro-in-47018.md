@@ -12,6 +12,7 @@ lng: -85.0500
 zipSample: ["47018"]
 zipCodes: ["47018"]
 localPaths: ["Dearborn County / ZIP 47018 sector", "Dearborn County / elevation 883 ft band", "Dearborn County / coords 39.0200, -85.0500", "Dearborn County / primary ZIP 47018"]
+zillowHomeValueUsd: 306802
 ---
 
 **Engineering Notice for Dillsboro:** structural drying capacity optimized for 883ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dearborn County. Relative Humidity Threshold: 68%. Sensor sync: Active.

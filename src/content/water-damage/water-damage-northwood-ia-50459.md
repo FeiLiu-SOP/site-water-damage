@@ -12,6 +12,7 @@ lng: -93.2200
 zipSample: ["50459"]
 zipCodes: ["50459"]
 localPaths: ["Worth County / ZIP 50459 sector", "Worth County / elevation 1227 ft band", "Worth County / primary ZIP 50459", "Worth County / coords 43.4400, -93.2200"]
+zillowHomeValueUsd: 200215
 ---
 
 **Engineering Notice for Northwood:** structural drying capacity optimized for 1227ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Worth County. Relative Humidity Threshold: 82%. Sensor sync: Active.

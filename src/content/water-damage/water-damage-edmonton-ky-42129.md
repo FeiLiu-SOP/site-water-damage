@@ -12,6 +12,7 @@ lng: -85.6200
 zipSample: ["42129"]
 zipCodes: ["42129"]
 localPaths: ["Metcalfe County / elevation 791 ft band", "Metcalfe County / ZIP 42129 sector", "Metcalfe County / coords 36.9900, -85.6200", "Metcalfe County / primary ZIP 42129"]
+zillowHomeValueUsd: 166450
 ---
 
 **Engineering Notice for Edmonton:** structural drying capacity optimized for 791ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Metcalfe County. Relative Humidity Threshold: 65%. Sensor sync: Active.

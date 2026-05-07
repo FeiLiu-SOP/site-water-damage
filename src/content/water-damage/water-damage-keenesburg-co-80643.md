@@ -12,6 +12,7 @@ lng: -104.5400
 zipSample: ["80643"]
 zipCodes: ["80643"]
 localPaths: ["Weld County / elevation 5020 ft band", "Weld County / primary ZIP 80643", "Weld County / ZIP 80643 sector", "Weld County / coords 40.1300, -104.5400"]
+zillowHomeValueUsd: 533911
 ---
 
 **Engineering Notice for Keenesburg:** structural drying capacity optimized for 5020ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Weld County. Relative Humidity Threshold: 85%. Sensor sync: Active.

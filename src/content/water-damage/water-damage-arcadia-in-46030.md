@@ -12,6 +12,7 @@ lng: -86.0200
 zipSample: ["46030"]
 zipCodes: ["46030"]
 localPaths: ["Hamilton County / elevation 863 ft band", "Hamilton County / primary ZIP 46030", "Hamilton County / ZIP 46030 sector", "Hamilton County / coords 40.1700, -86.0200"]
+zillowHomeValueUsd: 305175
 ---
 
 **Engineering Notice for Arcadia:** structural drying capacity optimized for 863ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hamilton County. Relative Humidity Threshold: 81%. Sensor sync: Active.

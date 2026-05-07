@@ -12,6 +12,8 @@ lng: -66.4800
 zipSample: ["00638"]
 zipCodes: ["00638"]
 localPaths: ["Ciales County / ZIP 00638 sector", "Ciales County / elevation 1178 ft band", "Ciales County / coords 18.3100, -66.4800", "Ciales County / primary ZIP 00638"]
+zillowHomeValueUsd: 351738
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Jaguas:** structural drying capacity optimized for 1178ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ciales County. Relative Humidity Threshold: 80%. Sensor sync: Active.

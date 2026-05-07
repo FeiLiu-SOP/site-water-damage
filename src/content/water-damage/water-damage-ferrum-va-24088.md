@@ -12,6 +12,7 @@ lng: -80.0100
 zipSample: ["24088"]
 zipCodes: ["24088"]
 localPaths: ["Franklin County / coords 36.9300, -80.0100", "Franklin County / primary ZIP 24088", "Franklin County / ZIP 24088 sector", "Franklin County / elevation 1424 ft band"]
+zillowHomeValueUsd: 251943
 ---
 
 **Engineering Notice for Ferrum:** structural drying capacity optimized for 1424ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Franklin County. Relative Humidity Threshold: 78%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -121.8200
 zipSample: ["98610"]
 zipCodes: ["98610"]
 localPaths: ["Skamania County / coords 45.7400, -121.8200", "Skamania County / elevation 518 ft band", "Skamania County / ZIP 98610 sector", "Skamania County / primary ZIP 98610"]
+zillowHomeValueUsd: 453377
 ---
 
 **Engineering Notice for Carson:** structural drying capacity optimized for 518ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Skamania County. Relative Humidity Threshold: 76%. Sensor sync: Active.

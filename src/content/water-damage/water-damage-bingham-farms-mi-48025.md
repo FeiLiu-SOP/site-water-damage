@@ -12,6 +12,7 @@ lng: -83.2800
 zipSample: ["48025"]
 zipCodes: ["48025"]
 localPaths: ["Oakland County / primary ZIP 48025", "Oakland County / ZIP 48025 sector", "Oakland County / elevation 745 ft band", "Oakland County / coords 42.5200, -83.2800"]
+zillowHomeValueUsd: 625223
 ---
 
 **Engineering Notice for Bingham Farms:** structural drying capacity optimized for 745ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Oakland County. Relative Humidity Threshold: 85%. Sensor sync: Active.

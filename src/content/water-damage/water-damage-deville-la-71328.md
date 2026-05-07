@@ -12,6 +12,7 @@ lng: -92.1400
 zipSample: ["71328"]
 zipCodes: ["71328"]
 localPaths: ["Rapides Parish / ZIP 71328 sector", "Rapides Parish / primary ZIP 71328", "Rapides Parish / coords 31.3400, -92.1400", "Rapides Parish / elevation 72 ft band"]
+zillowHomeValueUsd: 195876
 ---
 
 **Engineering Notice for Deville:** structural drying capacity optimized for 72ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rapides Parish. Relative Humidity Threshold: 78%. Sensor sync: Active.

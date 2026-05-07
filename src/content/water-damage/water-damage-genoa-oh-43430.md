@@ -12,6 +12,7 @@ lng: -83.3600
 zipSample: ["43430"]
 zipCodes: ["43430"]
 localPaths: ["Ottawa County / ZIP 43430 sector", "Ottawa County / coords 41.5200, -83.3600", "Ottawa County / elevation 620 ft band", "Ottawa County / primary ZIP 43430"]
+zillowHomeValueUsd: 203626
 ---
 
 **Engineering Notice for Genoa:** structural drying capacity optimized for 620ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ottawa County. Relative Humidity Threshold: 73%. Sensor sync: Active.

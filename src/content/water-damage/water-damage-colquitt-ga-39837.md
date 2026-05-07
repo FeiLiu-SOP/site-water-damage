@@ -12,6 +12,7 @@ lng: -84.7300
 zipSample: ["39837"]
 zipCodes: ["39837"]
 localPaths: ["Miller County / coords 31.1700, -84.7300", "Miller County / primary ZIP 39837", "Miller County / ZIP 39837 sector", "Miller County / elevation 184 ft band"]
+zillowHomeValueUsd: 161849
 ---
 
 **Engineering Notice for Colquitt:** structural drying capacity optimized for 184ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Miller County. Relative Humidity Threshold: 83%. Sensor sync: Active.

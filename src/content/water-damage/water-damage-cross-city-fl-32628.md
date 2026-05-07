@@ -12,6 +12,7 @@ lng: -83.1200
 zipSample: ["32628"]
 zipCodes: ["32628"]
 localPaths: ["Dixie County / coords 29.6400, -83.1200", "Dixie County / elevation 79 ft band", "Dixie County / ZIP 32628 sector", "Dixie County / primary ZIP 32628"]
+zillowHomeValueUsd: 161966
 ---
 
 **Engineering Notice for Cross City:** structural drying capacity optimized for 79ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dixie County. Relative Humidity Threshold: 79%. Sensor sync: Active.

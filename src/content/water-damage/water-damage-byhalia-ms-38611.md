@@ -12,6 +12,7 @@ lng: -89.6900
 zipSample: ["38611"]
 zipCodes: ["38611"]
 localPaths: ["Marshall County / primary ZIP 38611", "Marshall County / coords 34.8700, -89.6900", "Marshall County / elevation 381 ft band", "Marshall County / ZIP 38611 sector"]
+zillowHomeValueUsd: 273450
 ---
 
 **Engineering Notice for Byhalia:** structural drying capacity optimized for 381ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marshall County. Relative Humidity Threshold: 76%. Sensor sync: Active.

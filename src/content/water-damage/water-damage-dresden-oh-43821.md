@@ -12,6 +12,7 @@ lng: -82.0100
 zipSample: ["43821"]
 zipCodes: ["43821"]
 localPaths: ["Muskingum County / ZIP 43821 sector", "Muskingum County / coords 40.1200, -82.0100", "Muskingum County / primary ZIP 43821", "Muskingum County / elevation 738 ft band"]
+zillowHomeValueUsd: 219580
 ---
 
 **Engineering Notice for Dresden:** structural drying capacity optimized for 738ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Muskingum County. Relative Humidity Threshold: 78%. Sensor sync: Active.

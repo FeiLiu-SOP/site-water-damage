@@ -12,6 +12,7 @@ lng: -75.6400
 zipSample: ["27981"]
 zipCodes: ["27981"]
 localPaths: ["Dare County / primary ZIP 27981", "Dare County / ZIP 27981 sector", "Dare County / coords 35.8400, -75.6400", "Dare County / elevation 30 ft band"]
+zillowHomeValueUsd: 368025
 ---
 
 **Engineering Notice for Wanchese:** structural drying capacity optimized for 30ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dare County. Relative Humidity Threshold: 66%. Sensor sync: Active.

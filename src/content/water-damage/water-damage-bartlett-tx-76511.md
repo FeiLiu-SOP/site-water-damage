@@ -12,6 +12,7 @@ lng: -97.4300
 zipSample: ["76511"]
 zipCodes: ["76511"]
 localPaths: ["Williamson County / ZIP 76511 sector", "Williamson County / primary ZIP 76511", "Williamson County / coords 30.8000, -97.4300", "Williamson County / elevation 614 ft band"]
+zillowHomeValueUsd: 218350
 ---
 
 **Engineering Notice for Bartlett:** structural drying capacity optimized for 614ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Williamson County. Relative Humidity Threshold: 67%. Sensor sync: Active.

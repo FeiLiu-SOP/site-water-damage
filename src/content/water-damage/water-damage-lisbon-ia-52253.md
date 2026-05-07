@@ -12,6 +12,7 @@ lng: -91.3900
 zipSample: ["52253"]
 zipCodes: ["52253"]
 localPaths: ["Linn County / primary ZIP 52253", "Linn County / elevation 850 ft band", "Linn County / coords 41.9200, -91.3900", "Linn County / ZIP 52253 sector"]
+zillowHomeValueUsd: 301179
 ---
 
 **Engineering Notice for Lisbon:** structural drying capacity optimized for 850ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Linn County. Relative Humidity Threshold: 67%. Sensor sync: Active.

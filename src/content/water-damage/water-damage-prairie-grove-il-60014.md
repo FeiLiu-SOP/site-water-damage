@@ -12,6 +12,7 @@ lng: -88.2700
 zipSample: ["60012", "60014", "60050"]
 zipCodes: ["60012", "60014", "60050"]
 localPaths: ["McHenry County / elevation 761 ft band", "McHenry County / coords 42.2800, -88.2700", "McHenry County / ZIP 60014 sector", "McHenry County / ZIP 60050 sector", "McHenry County / primary ZIP 60014"]
+zillowHomeValueUsd: 359995
 ---
 
 **Engineering Notice for Prairie Grove:** structural drying capacity optimized for 761ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McHenry County. Relative Humidity Threshold: 71%. Sensor sync: Active.

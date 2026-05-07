@@ -12,6 +12,8 @@ lng: -90.6300
 zipSample: ["70084", "70076", "70051"]
 zipCodes: ["70076", "70051", "70084"]
 localPaths: ["St. John the Baptist Parish / elevation 30 ft band", "St. John the Baptist Parish / ZIP 70051 sector", "St. John the Baptist Parish / ZIP 70084 sector", "St. John the Baptist Parish / coords 30.0700, -90.6300", "St. John the Baptist Parish / ZIP 70076 sector"]
+zillowHomeValueUsd: 193947
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Garyville:** structural drying capacity optimized for 30ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. John the Baptist Parish. Relative Humidity Threshold: 66%. Sensor sync: Active.

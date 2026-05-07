@@ -12,6 +12,7 @@ lng: -74.3600
 zipSample: ["07726"]
 zipCodes: ["07726"]
 localPaths: ["Monmouth County / primary ZIP 07726", "Monmouth County / coords 40.3000, -74.3600", "Monmouth County / ZIP 07726 sector", "Monmouth County / elevation 69 ft band"]
+zillowHomeValueUsd: 769940
 ---
 
 **Engineering Notice for Englishtown:** structural drying capacity optimized for 69ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Monmouth County. Relative Humidity Threshold: 69%. Sensor sync: Active.

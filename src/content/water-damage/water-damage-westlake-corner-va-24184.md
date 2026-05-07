@@ -12,6 +12,7 @@ lng: -79.7100
 zipSample: ["24101", "24121", "24184"]
 zipCodes: ["24121", "24101", "24184"]
 localPaths: ["Franklin County / ZIP 24101 sector", "Franklin County / coords 37.1200, -79.7100", "Franklin County / ZIP 24184 sector", "Franklin County / elevation 997 ft band", "Franklin County / primary ZIP 24184"]
+zillowHomeValueUsd: 448412
 ---
 
 **Engineering Notice for Westlake Corner:** structural drying capacity optimized for 997ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Franklin County. Relative Humidity Threshold: 82%. Sensor sync: Active.

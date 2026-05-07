@@ -12,6 +12,7 @@ lng: -86.4800
 zipSample: ["46157"]
 zipCodes: ["46157"]
 localPaths: ["Morgan County / primary ZIP 46157", "Morgan County / elevation 807 ft band", "Morgan County / coords 39.5800, -86.4800", "Morgan County / ZIP 46157 sector"]
+zillowHomeValueUsd: 303804
 ---
 
 **Engineering Notice for Monrovia:** structural drying capacity optimized for 807ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Morgan County. Relative Humidity Threshold: 84%. Sensor sync: Active.

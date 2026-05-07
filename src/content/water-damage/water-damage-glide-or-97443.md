@@ -12,6 +12,7 @@ lng: -123.0700
 zipSample: ["97443", "97447"]
 zipCodes: ["97447", "97443"]
 localPaths: ["Douglas County / ZIP 97447 sector", "Douglas County / elevation 1293 ft band", "Douglas County / ZIP 97443 sector", "Douglas County / primary ZIP 97443", "Douglas County / coords 43.3000, -123.0700"]
+zillowHomeValueUsd: 389409
 ---
 
 **Engineering Notice for Glide:** structural drying capacity optimized for 1293ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Douglas County. Relative Humidity Threshold: 67%. Sensor sync: Active.

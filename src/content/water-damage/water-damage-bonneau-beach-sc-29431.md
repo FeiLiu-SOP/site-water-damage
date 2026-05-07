@@ -12,6 +12,7 @@ lng: -79.9900
 zipSample: ["29431"]
 zipCodes: ["29431"]
 localPaths: ["Berkeley County / ZIP 29431 sector", "Berkeley County / elevation 98 ft band", "Berkeley County / coords 33.3200, -79.9900", "Berkeley County / primary ZIP 29431"]
+zillowHomeValueUsd: 319670
 ---
 
 **Engineering Notice for Bonneau Beach:** structural drying capacity optimized for 98ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Berkeley County. Relative Humidity Threshold: 81%. Sensor sync: Active.

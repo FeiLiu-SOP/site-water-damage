@@ -12,6 +12,7 @@ lng: -85.0400
 zipSample: ["48829"]
 zipCodes: ["48829"]
 localPaths: ["Montcalm County / ZIP 48829 sector", "Montcalm County / coords 43.4100, -85.0400", "Montcalm County / elevation 974 ft band", "Montcalm County / primary ZIP 48829"]
+zillowHomeValueUsd: 194324
 ---
 
 **Engineering Notice for Edmore:** structural drying capacity optimized for 974ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Montcalm County. Relative Humidity Threshold: 76%. Sensor sync: Active.

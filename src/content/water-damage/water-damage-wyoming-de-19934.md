@@ -12,6 +12,7 @@ lng: -75.5600
 zipSample: ["19934"]
 zipCodes: ["19934"]
 localPaths: ["Kent County / elevation 49 ft band", "Kent County / ZIP 19934 sector", "Kent County / primary ZIP 19934", "Kent County / coords 39.1100, -75.5600"]
+zillowHomeValueUsd: 378497
 ---
 
 **Engineering Notice for Wyoming:** structural drying capacity optimized for 49ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kent County. Relative Humidity Threshold: 70%. Sensor sync: Active.

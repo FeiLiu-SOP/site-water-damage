@@ -12,6 +12,7 @@ lng: -75.8500
 zipSample: ["19320"]
 zipCodes: ["19320"]
 localPaths: ["Chester County / ZIP 19320 sector", "Chester County / coords 39.9900, -75.8500", "Chester County / primary ZIP 19320", "Chester County / elevation 600 ft band"]
+zillowHomeValueUsd: 382348
 ---
 
 **Engineering Notice for Hayti:** structural drying capacity optimized for 600ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chester County. Relative Humidity Threshold: 84%. Sensor sync: Active.

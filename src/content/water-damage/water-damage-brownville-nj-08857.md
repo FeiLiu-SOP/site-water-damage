@@ -12,6 +12,7 @@ lng: -74.3000
 zipSample: ["08857"]
 zipCodes: ["08857"]
 localPaths: ["Middlesex County / elevation 85 ft band", "Middlesex County / primary ZIP 08857", "Middlesex County / coords 40.4000, -74.3000", "Middlesex County / ZIP 08857 sector"]
+zillowHomeValueUsd: 633241
 ---
 
 **Engineering Notice for Brownville:** structural drying capacity optimized for 85ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Middlesex County. Relative Humidity Threshold: 83%. Sensor sync: Active.

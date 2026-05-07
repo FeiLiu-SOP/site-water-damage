@@ -12,6 +12,7 @@ lng: -110.8300
 zipSample: ["83014"]
 zipCodes: ["83014"]
 localPaths: ["Teton County / ZIP 83014 sector", "Teton County / elevation 6204 ft band", "Teton County / primary ZIP 83014", "Teton County / coords 43.5300, -110.8300"]
+zillowHomeValueUsd: 3180168
 ---
 
 **Engineering Notice for Moose Wilson Road:** structural drying capacity optimized for 6204ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Teton County. Relative Humidity Threshold: 84%. Sensor sync: Active.

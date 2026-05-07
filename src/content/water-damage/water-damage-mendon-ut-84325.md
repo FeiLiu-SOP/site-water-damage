@@ -12,6 +12,7 @@ lng: -111.9800
 zipSample: ["84325"]
 zipCodes: ["84325"]
 localPaths: ["Cache County / coords 41.7100, -111.9800", "Cache County / ZIP 84325 sector", "Cache County / elevation 4498 ft band", "Cache County / primary ZIP 84325"]
+zillowHomeValueUsd: 659790
 ---
 
 **Engineering Notice for Mendon:** structural drying capacity optimized for 4498ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cache County. Relative Humidity Threshold: 82%. Sensor sync: Active.

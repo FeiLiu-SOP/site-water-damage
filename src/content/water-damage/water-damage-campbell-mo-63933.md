@@ -12,6 +12,7 @@ lng: -90.0800
 zipSample: ["63933"]
 zipCodes: ["63933"]
 localPaths: ["Dunklin County / coords 36.4900, -90.0800", "Dunklin County / primary ZIP 63933", "Dunklin County / ZIP 63933 sector", "Dunklin County / elevation 318 ft band"]
+zillowHomeValueUsd: 93984
 ---
 
 **Engineering Notice for Campbell:** structural drying capacity optimized for 318ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dunklin County. Relative Humidity Threshold: 71%. Sensor sync: Active.

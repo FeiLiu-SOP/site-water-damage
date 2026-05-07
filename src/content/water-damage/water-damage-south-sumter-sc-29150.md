@@ -12,6 +12,7 @@ lng: -80.3400
 zipSample: ["29150"]
 zipCodes: ["29150"]
 localPaths: ["Sumter County / primary ZIP 29150", "Sumter County / ZIP 29150 sector", "Sumter County / elevation 164 ft band", "Sumter County / coords 33.8900, -80.3400"]
+zillowHomeValueUsd: 187799
 ---
 
 **Engineering Notice for South Sumter:** structural drying capacity optimized for 164ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sumter County. Relative Humidity Threshold: 78%. Sensor sync: Active.

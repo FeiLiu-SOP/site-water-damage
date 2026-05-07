@@ -12,6 +12,7 @@ lng: -87.5800
 zipSample: ["47639"]
 zipCodes: ["47639"]
 localPaths: ["Gibson County / elevation 476 ft band", "Gibson County / primary ZIP 47639", "Gibson County / ZIP 47639 sector", "Gibson County / coords 38.2000, -87.5800"]
+zillowHomeValueUsd: 310345
 ---
 
 **Engineering Notice for Haubstadt:** structural drying capacity optimized for 476ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gibson County. Relative Humidity Threshold: 71%. Sensor sync: Active.

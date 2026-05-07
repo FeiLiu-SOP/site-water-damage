@@ -12,6 +12,7 @@ lng: -82.9500
 zipSample: ["43003"]
 zipCodes: ["43003"]
 localPaths: ["Delaware County / primary ZIP 43003", "Delaware County / coords 40.4100, -82.9500", "Delaware County / ZIP 43003 sector", "Delaware County / elevation 974 ft band"]
+zillowHomeValueUsd: 272112
 ---
 
 **Engineering Notice for Ashley:** structural drying capacity optimized for 974ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Delaware County. Relative Humidity Threshold: 75%. Sensor sync: Active.

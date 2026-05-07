@@ -12,6 +12,7 @@ lng: -90.0500
 zipSample: ["62025", "62084"]
 zipCodes: ["62025", "62084"]
 localPaths: ["Madison County / primary ZIP 62084", "Madison County / coords 38.8300, -90.0500", "Madison County / elevation 423 ft band", "Madison County / ZIP 62025 sector", "Madison County / ZIP 62084 sector"]
+zillowHomeValueUsd: 107480
 ---
 
 **Engineering Notice for Roxana:** structural drying capacity optimized for 423ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Madison County. Relative Humidity Threshold: 73%. Sensor sync: Active.

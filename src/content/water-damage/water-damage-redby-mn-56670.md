@@ -12,6 +12,8 @@ lng: -94.9100
 zipSample: ["56670"]
 zipCodes: ["56670"]
 localPaths: ["Beltrami County / elevation 1237 ft band", "Beltrami County / coords 47.8700, -94.9100", "Beltrami County / primary ZIP 56670", "Beltrami County / ZIP 56670 sector"]
+zillowHomeValueUsd: 304765
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Redby:** structural drying capacity optimized for 1237ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Beltrami County. Relative Humidity Threshold: 76%. Sensor sync: Active.

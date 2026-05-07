@@ -12,6 +12,8 @@ lng: -66.6000
 zipSample: ["00731"]
 zipCodes: ["00731"]
 localPaths: ["Ponce County / primary ZIP 00731", "Ponce County / coords 18.0600, -66.6000", "Ponce County / ZIP 00731 sector", "Ponce County / elevation 446 ft band"]
+zillowHomeValueUsd: 378081
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for El Paraiso:** structural drying capacity optimized for 446ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ponce County. Relative Humidity Threshold: 81%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -83.6000
 zipSample: ["30510"]
 zipCodes: ["30510"]
 localPaths: ["Habersham County / ZIP 30510 sector", "Habersham County / coords 34.4500, -83.6000", "Habersham County / primary ZIP 30510", "Habersham County / elevation 1394 ft band"]
+zillowHomeValueUsd: 294783
 ---
 
 **Engineering Notice for Raoul:** structural drying capacity optimized for 1394ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Habersham County. Relative Humidity Threshold: 83%. Sensor sync: Active.

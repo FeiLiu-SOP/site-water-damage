@@ -12,6 +12,7 @@ lng: -82.4400
 zipSample: ["43080"]
 zipCodes: ["43080"]
 localPaths: ["Licking County / primary ZIP 43080", "Licking County / ZIP 43080 sector", "Licking County / elevation 1070 ft band", "Licking County / coords 40.2300, -82.4400"]
+zillowHomeValueUsd: 282608
 ---
 
 **Engineering Notice for Utica:** structural drying capacity optimized for 1070ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Licking County. Relative Humidity Threshold: 76%. Sensor sync: Active.

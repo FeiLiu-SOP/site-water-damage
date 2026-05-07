@@ -12,6 +12,7 @@ lng: -76.1400
 zipSample: ["13036"]
 zipCodes: ["13036"]
 localPaths: ["Oswego County / ZIP 13036 sector", "Oswego County / elevation 394 ft band", "Oswego County / primary ZIP 13036", "Oswego County / coords 43.2900, -76.1400"]
+zillowHomeValueUsd: 253056
 ---
 
 **Engineering Notice for Central Square:** structural drying capacity optimized for 394ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Oswego County. Relative Humidity Threshold: 79%. Sensor sync: Active.

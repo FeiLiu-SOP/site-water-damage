@@ -12,6 +12,7 @@ lng: -87.7600
 zipSample: ["37178", "37061"]
 zipCodes: ["37178", "37061"]
 localPaths: ["Houston County / primary ZIP 37061", "Houston County / ZIP 37178 sector", "Houston County / elevation 715 ft band", "Houston County / coords 36.3200, -87.7600", "Houston County / ZIP 37061 sector"]
+zillowHomeValueUsd: 221334
 ---
 
 **Engineering Notice for Tennessee Ridge:** structural drying capacity optimized for 715ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Houston County. Relative Humidity Threshold: 85%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -106.0400
 zipSample: ["87035"]
 zipCodes: ["87035"]
 localPaths: ["Torrance County / elevation 6217 ft band", "Torrance County / primary ZIP 87035", "Torrance County / coords 35.0000, -106.0400", "Torrance County / ZIP 87035 sector"]
+zillowHomeValueUsd: 234968
 ---
 
 **Engineering Notice for Moriarty:** structural drying capacity optimized for 6217ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Torrance County. Relative Humidity Threshold: 71%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -122.7100
 zipSample: ["98312"]
 zipCodes: ["98312"]
 localPaths: ["Kitsap County / coords 47.5900, -122.7100", "Kitsap County / elevation 95 ft band", "Kitsap County / primary ZIP 98312", "Kitsap County / ZIP 98312 sector"]
+zillowHomeValueUsd: 497810
 ---
 
 **Engineering Notice for Kitsap Lake:** structural drying capacity optimized for 95ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kitsap County. Relative Humidity Threshold: 69%. Sensor sync: Active.

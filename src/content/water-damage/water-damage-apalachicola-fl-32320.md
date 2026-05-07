@@ -12,6 +12,7 @@ lng: -84.9900
 zipSample: ["32320", "32329"]
 zipCodes: ["32329", "32320"]
 localPaths: ["Franklin County / ZIP 32320 sector", "Franklin County / elevation 43 ft band", "Franklin County / coords 29.7300, -84.9900", "Franklin County / primary ZIP 32320", "Franklin County / ZIP 32329 sector"]
+zillowHomeValueUsd: 282021
 ---
 
 **Engineering Notice for Apalachicola:** structural drying capacity optimized for 43ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Franklin County. Relative Humidity Threshold: 68%. Sensor sync: Active.

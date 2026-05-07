@@ -12,6 +12,7 @@ lng: -91.2800
 zipSample: ["54742"]
 zipCodes: ["54742"]
 localPaths: ["Eau Claire County / primary ZIP 54742", "Eau Claire County / coords 44.7600, -91.2800", "Eau Claire County / ZIP 54742 sector", "Eau Claire County / elevation 938 ft band"]
+zillowHomeValueUsd: 359636
 ---
 
 **Engineering Notice for Fall Creek:** structural drying capacity optimized for 938ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Eau Claire County. Relative Humidity Threshold: 82%. Sensor sync: Active.

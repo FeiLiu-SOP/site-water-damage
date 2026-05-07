@@ -12,6 +12,7 @@ lng: -90.0400
 zipSample: ["61434"]
 zipCodes: ["61434"]
 localPaths: ["Henry County / primary ZIP 61434", "Henry County / elevation 846 ft band", "Henry County / coords 41.1700, -90.0400", "Henry County / ZIP 61434 sector"]
+zillowHomeValueUsd: 107205
 ---
 
 **Engineering Notice for Galva:** structural drying capacity optimized for 846ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Henry County. Relative Humidity Threshold: 84%. Sensor sync: Active.

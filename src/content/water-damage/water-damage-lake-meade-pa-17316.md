@@ -12,6 +12,7 @@ lng: -77.0400
 zipSample: ["17316"]
 zipCodes: ["17316"]
 localPaths: ["Adams County / ZIP 17316 sector", "Adams County / primary ZIP 17316", "Adams County / coords 39.9800, -77.0400", "Adams County / elevation 489 ft band"]
+zillowHomeValueUsd: 350821
 ---
 
 **Engineering Notice for Lake Meade:** structural drying capacity optimized for 489ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Adams County. Relative Humidity Threshold: 77%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -83.5000
 zipSample: ["30547"]
 zipCodes: ["30547"]
 localPaths: ["Banks County / elevation 846 ft band", "Banks County / primary ZIP 30547", "Banks County / ZIP 30547 sector", "Banks County / coords 34.3400, -83.5000"]
+zillowHomeValueUsd: 379529
 ---
 
 **Engineering Notice for Homer:** structural drying capacity optimized for 846ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Banks County. Relative Humidity Threshold: 65%. Sensor sync: Active.

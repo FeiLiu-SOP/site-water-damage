@@ -12,6 +12,7 @@ lng: -113.3000
 zipSample: ["84746", "84720", "84774"]
 zipCodes: ["84774", "84746", "84720"]
 localPaths: ["Washington County / primary ZIP 84774", "Washington County / ZIP 84720 sector", "Washington County / ZIP 84746 sector", "Washington County / elevation 3599 ft band", "Washington County / coords 37.2700, -113.3000"]
+zillowHomeValueUsd: 593448
 ---
 
 **Engineering Notice for Toquerville:** structural drying capacity optimized for 3599ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 66%. Sensor sync: Active.

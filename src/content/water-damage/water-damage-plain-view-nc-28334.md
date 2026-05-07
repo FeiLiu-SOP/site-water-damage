@@ -12,6 +12,7 @@ lng: -78.5600
 zipSample: ["28334"]
 zipCodes: ["28334"]
 localPaths: ["Sampson County / coords 35.2500, -78.5600", "Sampson County / ZIP 28334 sector", "Sampson County / elevation 197 ft band", "Sampson County / primary ZIP 28334"]
+zillowHomeValueUsd: 226666
 ---
 
 **Engineering Notice for Plain View:** structural drying capacity optimized for 197ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sampson County. Relative Humidity Threshold: 80%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -73.6800
 zipSample: ["12184"]
 zipCodes: ["12184"]
 localPaths: ["Columbia County / elevation 246 ft band", "Columbia County / coords 42.4100, -73.6800", "Columbia County / primary ZIP 12184", "Columbia County / ZIP 12184 sector"]
+zillowHomeValueUsd: 435155
 ---
 
 **Engineering Notice for Valatie:** structural drying capacity optimized for 246ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Columbia County. Relative Humidity Threshold: 84%. Sensor sync: Active.

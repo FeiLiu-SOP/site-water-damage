@@ -12,6 +12,7 @@ lng: -78.7300
 zipSample: ["22840"]
 zipCodes: ["22840"]
 localPaths: ["Rockingham County / ZIP 22840 sector", "Rockingham County / primary ZIP 22840", "Rockingham County / elevation 1470 ft band", "Rockingham County / coords 38.4100, -78.7300"]
+zillowHomeValueUsd: 426390
 ---
 
 **Engineering Notice for Massanutten:** structural drying capacity optimized for 1470ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rockingham County. Relative Humidity Threshold: 67%. Sensor sync: Active.

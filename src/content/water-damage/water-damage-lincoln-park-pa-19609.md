@@ -12,6 +12,7 @@ lng: -75.9900
 zipSample: ["19609"]
 zipCodes: ["19609"]
 localPaths: ["Berks County / elevation 322 ft band", "Berks County / primary ZIP 19609", "Berks County / ZIP 19609 sector", "Berks County / coords 40.3100, -75.9900"]
+zillowHomeValueUsd: 287510
 ---
 
 **Engineering Notice for Lincoln Park:** structural drying capacity optimized for 322ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Berks County. Relative Humidity Threshold: 79%. Sensor sync: Active.

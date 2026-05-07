@@ -12,6 +12,7 @@ lng: -79.5600
 zipSample: ["15613"]
 zipCodes: ["15613"]
 localPaths: ["Armstrong County / ZIP 15613 sector", "Armstrong County / primary ZIP 15613", "Armstrong County / elevation 853 ft band", "Armstrong County / coords 40.5800, -79.5600"]
+zillowHomeValueUsd: 188692
 ---
 
 **Engineering Notice for Apollo:** structural drying capacity optimized for 853ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Armstrong County. Relative Humidity Threshold: 67%. Sensor sync: Active.

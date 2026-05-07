@@ -12,6 +12,7 @@ lng: -96.0100
 zipSample: ["51003"]
 zipCodes: ["51003"]
 localPaths: ["Sioux County / ZIP 51003 sector", "Sioux County / primary ZIP 51003", "Sioux County / elevation 1306 ft band", "Sioux County / coords 42.9900, -96.0100"]
+zillowHomeValueUsd: 299266
 ---
 
 **Engineering Notice for Alton:** structural drying capacity optimized for 1306ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sioux County. Relative Humidity Threshold: 81%. Sensor sync: Active.

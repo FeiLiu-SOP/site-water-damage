@@ -12,6 +12,7 @@ lng: -76.0000
 zipSample: ["19526"]
 zipCodes: ["19526"]
 localPaths: ["Berks County / primary ZIP 19526", "Berks County / ZIP 19526 sector", "Berks County / coords 40.5500, -76.0000", "Berks County / elevation 505 ft band"]
+zillowHomeValueUsd: 295756
 ---
 
 **Engineering Notice for West Hamburg:** structural drying capacity optimized for 505ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Berks County. Relative Humidity Threshold: 85%. Sensor sync: Active.

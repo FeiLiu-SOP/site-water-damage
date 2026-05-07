@@ -12,6 +12,7 @@ lng: -95.9700
 zipSample: ["51050"]
 zipCodes: ["51050"]
 localPaths: ["Plymouth County / elevation 1329 ft band", "Plymouth County / primary ZIP 51050", "Plymouth County / coords 42.8200, -95.9700", "Plymouth County / ZIP 51050 sector"]
+zillowHomeValueUsd: 278168
 ---
 
 **Engineering Notice for Remsen:** structural drying capacity optimized for 1329ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Plymouth County. Relative Humidity Threshold: 75%. Sensor sync: Active.

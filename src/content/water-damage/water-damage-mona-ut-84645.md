@@ -12,6 +12,7 @@ lng: -111.8500
 zipSample: ["84645"]
 zipCodes: ["84645"]
 localPaths: ["Juab County / coords 39.8100, -111.8500", "Juab County / primary ZIP 84645", "Juab County / ZIP 84645 sector", "Juab County / elevation 5066 ft band"]
+zillowHomeValueUsd: 603572
 ---
 
 **Engineering Notice for Mona:** structural drying capacity optimized for 5066ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Juab County. Relative Humidity Threshold: 65%. Sensor sync: Active.

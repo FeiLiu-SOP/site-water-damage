@@ -12,6 +12,7 @@ lng: -79.9500
 zipSample: ["15067"]
 zipCodes: ["15067"]
 localPaths: ["Washington County / elevation 968 ft band", "Washington County / ZIP 15067 sector", "Washington County / primary ZIP 15067", "Washington County / coords 40.2100, -79.9500"]
+zillowHomeValueUsd: 121494
 ---
 
 **Engineering Notice for New Eagle:** structural drying capacity optimized for 968ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 79%. Sensor sync: Active.

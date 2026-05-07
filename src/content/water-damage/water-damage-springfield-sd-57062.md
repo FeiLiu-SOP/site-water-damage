@@ -12,6 +12,7 @@ lng: -97.9000
 zipSample: ["57062"]
 zipCodes: ["57062"]
 localPaths: ["Bon Homme County / coords 42.8600, -97.9000", "Bon Homme County / elevation 1286 ft band", "Bon Homme County / primary ZIP 57062", "Bon Homme County / ZIP 57062 sector"]
+zillowHomeValueUsd: 194501
 ---
 
 **Engineering Notice for Springfield:** structural drying capacity optimized for 1286ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bon Homme County. Relative Humidity Threshold: 67%. Sensor sync: Active.

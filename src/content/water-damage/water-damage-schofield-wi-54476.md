@@ -12,6 +12,7 @@ lng: -89.6100
 zipSample: ["54476"]
 zipCodes: ["54476"]
 localPaths: ["Marathon County / ZIP 54476 sector", "Marathon County / elevation 1168 ft band", "Marathon County / coords 44.9200, -89.6100", "Marathon County / primary ZIP 54476"]
+zillowHomeValueUsd: 290195
 ---
 
 **Engineering Notice for Schofield:** structural drying capacity optimized for 1168ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marathon County. Relative Humidity Threshold: 77%. Sensor sync: Active.

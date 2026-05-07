@@ -12,6 +12,7 @@ lng: -75.0200
 zipSample: ["08344"]
 zipCodes: ["08344"]
 localPaths: ["Gloucester County / primary ZIP 08344", "Gloucester County / coords 39.5500, -75.0200", "Gloucester County / ZIP 08344 sector", "Gloucester County / elevation 128 ft band"]
+zillowHomeValueUsd: 326795
 ---
 
 **Engineering Notice for Newfield:** structural drying capacity optimized for 128ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gloucester County. Relative Humidity Threshold: 84%. Sensor sync: Active.

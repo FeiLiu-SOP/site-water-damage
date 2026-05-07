@@ -12,6 +12,7 @@ lng: -77.3500
 zipSample: ["22428", "22427"]
 zipCodes: ["22427", "22428"]
 localPaths: ["Caroline County / elevation 226 ft band", "Caroline County / coords 38.0500, -77.3500", "Caroline County / ZIP 22427 sector", "Caroline County / ZIP 22428 sector", "Caroline County / primary ZIP 22427"]
+zillowHomeValueUsd: 365841
 ---
 
 **Engineering Notice for Bowling Green:** structural drying capacity optimized for 226ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Caroline County. Relative Humidity Threshold: 71%. Sensor sync: Active.

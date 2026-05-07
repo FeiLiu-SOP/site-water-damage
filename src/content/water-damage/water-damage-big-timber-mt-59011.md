@@ -12,6 +12,7 @@ lng: -109.9500
 zipSample: ["59011"]
 zipCodes: ["59011"]
 localPaths: ["Sweet Grass County / coords 45.8300, -109.9500", "Sweet Grass County / ZIP 59011 sector", "Sweet Grass County / primary ZIP 59011", "Sweet Grass County / elevation 4104 ft band"]
+zillowHomeValueUsd: 460358
 ---
 
 **Engineering Notice for Big Timber:** structural drying capacity optimized for 4104ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sweet Grass County. Relative Humidity Threshold: 72%. Sensor sync: Active.

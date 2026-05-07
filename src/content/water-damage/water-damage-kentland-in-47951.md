@@ -12,6 +12,7 @@ lng: -87.4500
 zipSample: ["47951"]
 zipCodes: ["47951"]
 localPaths: ["Newton County / ZIP 47951 sector", "Newton County / primary ZIP 47951", "Newton County / coords 40.7700, -87.4500", "Newton County / elevation 686 ft band"]
+zillowHomeValueUsd: 172285
 ---
 
 **Engineering Notice for Kentland:** structural drying capacity optimized for 686ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Newton County. Relative Humidity Threshold: 65%. Sensor sync: Active.

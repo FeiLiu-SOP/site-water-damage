@@ -12,6 +12,7 @@ lng: -75.4400
 zipSample: ["18951", "18968"]
 zipCodes: ["18968", "18951"]
 localPaths: ["Bucks County / primary ZIP 18951", "Bucks County / ZIP 18951 sector", "Bucks County / coords 40.4400, -75.4400", "Bucks County / ZIP 18968 sector", "Bucks County / elevation 617 ft band"]
+zillowHomeValueUsd: 444511
 ---
 
 **Engineering Notice for Spinnerstown:** structural drying capacity optimized for 617ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bucks County. Relative Humidity Threshold: 67%. Sensor sync: Active.

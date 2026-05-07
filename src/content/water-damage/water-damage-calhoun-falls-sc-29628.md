@@ -12,6 +12,7 @@ lng: -82.6000
 zipSample: ["29628"]
 zipCodes: ["29628"]
 localPaths: ["Abbeville County / ZIP 29628 sector", "Abbeville County / coords 34.0900, -82.6000", "Abbeville County / primary ZIP 29628", "Abbeville County / elevation 538 ft band"]
+zillowHomeValueUsd: 108125
 ---
 
 **Engineering Notice for Calhoun Falls:** structural drying capacity optimized for 538ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Abbeville County. Relative Humidity Threshold: 80%. Sensor sync: Active.

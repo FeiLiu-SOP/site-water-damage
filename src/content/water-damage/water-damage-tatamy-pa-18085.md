@@ -12,6 +12,7 @@ lng: -75.2600
 zipSample: ["18085", "18045"]
 zipCodes: ["18085", "18045"]
 localPaths: ["Northampton County / ZIP 18085 sector", "Northampton County / primary ZIP 18085", "Northampton County / elevation 394 ft band", "Northampton County / coords 40.7400, -75.2600", "Northampton County / ZIP 18045 sector"]
+zillowHomeValueUsd: 358527
 ---
 
 **Engineering Notice for Tatamy:** structural drying capacity optimized for 394ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Northampton County. Relative Humidity Threshold: 69%. Sensor sync: Active.

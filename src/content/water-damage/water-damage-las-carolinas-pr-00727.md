@@ -12,6 +12,8 @@ lng: -66.0700
 zipSample: ["00727"]
 zipCodes: ["00727"]
 localPaths: ["Caguas County / coords 18.2500, -66.0700", "Caguas County / primary ZIP 00727", "Caguas County / elevation 338 ft band", "Caguas County / ZIP 00727 sector"]
+zillowHomeValueUsd: 365135
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Las Carolinas:** structural drying capacity optimized for 338ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Caguas County. Relative Humidity Threshold: 78%. Sensor sync: Active.

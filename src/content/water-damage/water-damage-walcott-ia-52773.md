@@ -12,6 +12,7 @@ lng: -90.7700
 zipSample: ["52773"]
 zipCodes: ["52773"]
 localPaths: ["Scott County / primary ZIP 52773", "Scott County / coords 41.6000, -90.7700", "Scott County / ZIP 52773 sector", "Scott County / elevation 725 ft band"]
+zillowHomeValueUsd: 278380
 ---
 
 **Engineering Notice for Walcott:** structural drying capacity optimized for 725ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Scott County. Relative Humidity Threshold: 78%. Sensor sync: Active.

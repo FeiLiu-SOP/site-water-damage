@@ -12,6 +12,7 @@ lng: -82.9200
 zipSample: ["32626", "32693"]
 zipCodes: ["32626", "32693"]
 localPaths: ["Levy County / coords 29.5100, -82.9200", "Levy County / ZIP 32626 sector", "Levy County / elevation 62 ft band", "Levy County / primary ZIP 32626", "Levy County / ZIP 32693 sector"]
+zillowHomeValueUsd: 277890
 ---
 
 **Engineering Notice for Manatee Road:** structural drying capacity optimized for 62ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Levy County. Relative Humidity Threshold: 85%. Sensor sync: Active.

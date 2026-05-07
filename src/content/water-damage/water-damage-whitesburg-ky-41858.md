@@ -12,6 +12,7 @@ lng: -82.8200
 zipSample: ["41858"]
 zipCodes: ["41858"]
 localPaths: ["Letcher County / ZIP 41858 sector", "Letcher County / elevation 1184 ft band", "Letcher County / primary ZIP 41858", "Letcher County / coords 37.1200, -82.8200"]
+zillowHomeValueUsd: 101837
 ---
 
 **Engineering Notice for Whitesburg:** structural drying capacity optimized for 1184ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Letcher County. Relative Humidity Threshold: 75%. Sensor sync: Active.

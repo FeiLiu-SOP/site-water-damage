@@ -12,6 +12,7 @@ lng: -91.4300
 zipSample: ["71638"]
 zipCodes: ["71638"]
 localPaths: ["Chicot County / coords 33.5300, -91.4300", "Chicot County / primary ZIP 71638", "Chicot County / ZIP 71638 sector", "Chicot County / elevation 141 ft band"]
+zillowHomeValueUsd: 59550
 ---
 
 **Engineering Notice for Dermott:** structural drying capacity optimized for 141ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chicot County. Relative Humidity Threshold: 75%. Sensor sync: Active.

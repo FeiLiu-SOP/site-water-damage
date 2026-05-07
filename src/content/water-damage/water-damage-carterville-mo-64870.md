@@ -12,6 +12,7 @@ lng: -94.4400
 zipSample: ["64835", "64870"]
 zipCodes: ["64835", "64870"]
 localPaths: ["Jasper County / ZIP 64835 sector", "Jasper County / primary ZIP 64870", "Jasper County / coords 37.1500, -94.4400", "Jasper County / ZIP 64870 sector", "Jasper County / elevation 997 ft band"]
+zillowHomeValueUsd: 221333
 ---
 
 **Engineering Notice for Carterville:** structural drying capacity optimized for 997ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jasper County. Relative Humidity Threshold: 80%. Sensor sync: Active.

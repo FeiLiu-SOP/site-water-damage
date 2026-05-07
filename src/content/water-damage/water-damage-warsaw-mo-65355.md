@@ -12,6 +12,7 @@ lng: -93.3700
 zipSample: ["65355"]
 zipCodes: ["65355"]
 localPaths: ["Benton County / primary ZIP 65355", "Benton County / coords 38.2500, -93.3700", "Benton County / elevation 755 ft band", "Benton County / ZIP 65355 sector"]
+zillowHomeValueUsd: 181857
 ---
 
 **Engineering Notice for Warsaw:** structural drying capacity optimized for 755ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Benton County. Relative Humidity Threshold: 80%. Sensor sync: Active.

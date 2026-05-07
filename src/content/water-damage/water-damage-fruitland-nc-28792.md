@@ -12,6 +12,7 @@ lng: -82.4100
 zipSample: ["28792"]
 zipCodes: ["28792"]
 localPaths: ["Henderson County / elevation 2602 ft band", "Henderson County / primary ZIP 28792", "Henderson County / coords 35.3900, -82.4100", "Henderson County / ZIP 28792 sector"]
+zillowHomeValueUsd: 370085
 ---
 
 **Engineering Notice for Fruitland:** structural drying capacity optimized for 2602ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Henderson County. Relative Humidity Threshold: 75%. Sensor sync: Active.

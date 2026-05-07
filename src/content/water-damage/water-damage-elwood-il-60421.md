@@ -12,6 +12,7 @@ lng: -88.1300
 zipSample: ["60421"]
 zipCodes: ["60421"]
 localPaths: ["Will County / coords 41.4100, -88.1300", "Will County / ZIP 60421 sector", "Will County / primary ZIP 60421", "Will County / elevation 610 ft band"]
+zillowHomeValueUsd: 311145
 ---
 
 **Engineering Notice for Elwood:** structural drying capacity optimized for 610ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Will County. Relative Humidity Threshold: 73%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -79.0300
 zipSample: ["14006"]
 zipCodes: ["14006"]
 localPaths: ["Erie County / elevation 709 ft band", "Erie County / coords 42.6400, -79.0300", "Erie County / ZIP 14006 sector", "Erie County / primary ZIP 14006"]
+zillowHomeValueUsd: 219035
 ---
 
 **Engineering Notice for Angola:** structural drying capacity optimized for 709ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Erie County. Relative Humidity Threshold: 81%. Sensor sync: Active.

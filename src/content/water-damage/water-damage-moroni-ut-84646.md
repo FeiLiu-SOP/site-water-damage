@@ -12,6 +12,8 @@ lng: -111.5800
 zipSample: ["84646"]
 zipCodes: ["84646"]
 localPaths: ["Sanpete County / coords 39.5300, -111.5800", "Sanpete County / primary ZIP 84646", "Sanpete County / elevation 5587 ft band", "Sanpete County / ZIP 84646 sector"]
+zillowHomeValueUsd: 551967
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Moroni:** structural drying capacity optimized for 5587ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sanpete County. Relative Humidity Threshold: 72%. Sensor sync: Active.

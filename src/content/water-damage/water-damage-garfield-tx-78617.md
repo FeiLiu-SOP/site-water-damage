@@ -12,6 +12,7 @@ lng: -97.5500
 zipSample: ["78617"]
 zipCodes: ["78617"]
 localPaths: ["Travis County / coords 30.2000, -97.5500", "Travis County / ZIP 78617 sector", "Travis County / primary ZIP 78617", "Travis County / elevation 482 ft band"]
+zillowHomeValueUsd: 291213
 ---
 
 **Engineering Notice for Garfield:** structural drying capacity optimized for 482ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Travis County. Relative Humidity Threshold: 69%. Sensor sync: Active.

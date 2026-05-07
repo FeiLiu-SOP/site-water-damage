@@ -12,6 +12,7 @@ lng: -95.0800
 zipSample: ["66092"]
 zipCodes: ["66092"]
 localPaths: ["Franklin County / coords 38.7200, -95.0800", "Franklin County / primary ZIP 66092", "Franklin County / elevation 1079 ft band", "Franklin County / ZIP 66092 sector"]
+zillowHomeValueUsd: 343717
 ---
 
 **Engineering Notice for Wellsville:** structural drying capacity optimized for 1079ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Franklin County. Relative Humidity Threshold: 71%. Sensor sync: Active.

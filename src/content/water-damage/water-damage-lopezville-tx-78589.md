@@ -12,6 +12,7 @@ lng: -98.1500
 zipSample: ["78542", "78589"]
 zipCodes: ["78589", "78542"]
 localPaths: ["Hidalgo County / primary ZIP 78589", "Hidalgo County / ZIP 78542 sector", "Hidalgo County / ZIP 78589 sector", "Hidalgo County / coords 26.2500, -98.1500", "Hidalgo County / elevation 115 ft band"]
+zillowHomeValueUsd: 183960
 ---
 
 **Engineering Notice for Lopezville:** structural drying capacity optimized for 115ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hidalgo County. Relative Humidity Threshold: 85%. Sensor sync: Active.

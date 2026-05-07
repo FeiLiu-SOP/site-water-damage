@@ -12,6 +12,7 @@ lng: -74.6100
 zipSample: ["12733"]
 zipCodes: ["12733"]
 localPaths: ["Sullivan County / primary ZIP 12733", "Sullivan County / coords 41.7300, -74.6100", "Sullivan County / elevation 1302 ft band", "Sullivan County / ZIP 12733 sector"]
+zillowHomeValueUsd: 323916
 ---
 
 **Engineering Notice for Fallsburg:** structural drying capacity optimized for 1302ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sullivan County. Relative Humidity Threshold: 67%. Sensor sync: Active.

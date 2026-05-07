@@ -12,6 +12,7 @@ lng: -84.4300
 zipSample: ["49251"]
 zipCodes: ["49251"]
 localPaths: ["Ingham County / coords 42.4500, -84.4300", "Ingham County / ZIP 49251 sector", "Ingham County / elevation 945 ft band", "Ingham County / primary ZIP 49251"]
+zillowHomeValueUsd: 235594
 ---
 
 **Engineering Notice for Leslie:** structural drying capacity optimized for 945ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ingham County. Relative Humidity Threshold: 70%. Sensor sync: Active.

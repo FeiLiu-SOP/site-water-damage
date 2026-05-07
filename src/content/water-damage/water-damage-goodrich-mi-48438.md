@@ -12,6 +12,7 @@ lng: -83.5100
 zipSample: ["48438"]
 zipCodes: ["48438"]
 localPaths: ["Genesee County / ZIP 48438 sector", "Genesee County / elevation 873 ft band", "Genesee County / coords 42.9100, -83.5100", "Genesee County / primary ZIP 48438"]
+zillowHomeValueUsd: 366226
 ---
 
 **Engineering Notice for Goodrich:** structural drying capacity optimized for 873ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Genesee County. Relative Humidity Threshold: 79%. Sensor sync: Active.

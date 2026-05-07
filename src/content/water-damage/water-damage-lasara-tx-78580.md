@@ -12,6 +12,7 @@ lng: -97.9100
 zipSample: ["78580", "78561"]
 zipCodes: ["78561", "78580"]
 localPaths: ["Willacy County / ZIP 78561 sector", "Willacy County / ZIP 78580 sector", "Willacy County / primary ZIP 78580", "Willacy County / coords 26.4600, -97.9100", "Willacy County / elevation 66 ft band"]
+zillowHomeValueUsd: 116682
 ---
 
 **Engineering Notice for Lasara:** structural drying capacity optimized for 66ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Willacy County. Relative Humidity Threshold: 72%. Sensor sync: Active.

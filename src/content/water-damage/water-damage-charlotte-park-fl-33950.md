@@ -12,6 +12,7 @@ lng: -82.0500
 zipSample: ["33950"]
 zipCodes: ["33950"]
 localPaths: ["Charlotte County / ZIP 33950 sector", "Charlotte County / coords 26.9000, -82.0500", "Charlotte County / elevation 20 ft band", "Charlotte County / primary ZIP 33950"]
+zillowHomeValueUsd: 367289
 ---
 
 **Engineering Notice for Charlotte Park:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Charlotte County. Relative Humidity Threshold: 69%. Sensor sync: Active.

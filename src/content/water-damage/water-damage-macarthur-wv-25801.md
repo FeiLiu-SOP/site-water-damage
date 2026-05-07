@@ -12,6 +12,7 @@ lng: -81.2100
 zipSample: ["25801", "25873"]
 zipCodes: ["25873", "25801"]
 localPaths: ["Raleigh County / coords 37.7600, -81.2100", "Raleigh County / primary ZIP 25801", "Raleigh County / ZIP 25873 sector", "Raleigh County / ZIP 25801 sector", "Raleigh County / elevation 2484 ft band"]
+zillowHomeValueUsd: 144047
 ---
 
 **Engineering Notice for MacArthur:** structural drying capacity optimized for 2484ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Raleigh County. Relative Humidity Threshold: 69%. Sensor sync: Active.

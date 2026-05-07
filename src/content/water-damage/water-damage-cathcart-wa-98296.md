@@ -12,6 +12,7 @@ lng: -122.1100
 zipSample: ["98296"]
 zipCodes: ["98296"]
 localPaths: ["Snohomish County / elevation 384 ft band", "Snohomish County / primary ZIP 98296", "Snohomish County / coords 47.8500, -122.1100", "Snohomish County / ZIP 98296 sector"]
+zillowHomeValueUsd: 1059008
 ---
 
 **Engineering Notice for Cathcart:** structural drying capacity optimized for 384ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Snohomish County. Relative Humidity Threshold: 66%. Sensor sync: Active.

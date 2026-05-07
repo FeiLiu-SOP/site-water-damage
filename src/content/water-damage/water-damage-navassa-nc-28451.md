@@ -12,6 +12,7 @@ lng: -78.0300
 zipSample: ["28451"]
 zipCodes: ["28451"]
 localPaths: ["Brunswick County / coords 34.2800, -78.0300", "Brunswick County / elevation 26 ft band", "Brunswick County / primary ZIP 28451", "Brunswick County / ZIP 28451 sector"]
+zillowHomeValueUsd: 378082
 ---
 
 **Engineering Notice for Navassa:** structural drying capacity optimized for 26ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Brunswick County. Relative Humidity Threshold: 69%. Sensor sync: Active.

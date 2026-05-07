@@ -20,6 +20,10 @@ const collectionSchema = z.object({
   zipSample: z.array(z.string()).optional(),
   zipCodes: z.array(z.string()).optional(),
   localPaths: z.array(z.string()).optional(),
+  /** 可选：Zillow 类典型房价中位数（USD），用于 <title> / meta 的「资产锚点」注入；不填则诱饵模版 A 自动降级为 B/C */
+  zillowHomeValueUsd: z.number().optional(),
+  /** 可选：财务数据可信度；`estimated` 表示州/全国均价降权孤儿回填（非 CSV 精确命中） */
+  data_fidelity: z.enum(["estimated", "synthetic"]).optional(),
 });
 
 const roofing = defineCollection({

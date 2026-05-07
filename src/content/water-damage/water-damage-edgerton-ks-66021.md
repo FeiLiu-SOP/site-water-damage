@@ -12,6 +12,7 @@ lng: -94.9700
 zipSample: ["66030", "66021"]
 zipCodes: ["66021", "66030"]
 localPaths: ["Johnson County / ZIP 66021 sector", "Johnson County / elevation 1030 ft band", "Johnson County / primary ZIP 66021", "Johnson County / coords 38.7700, -94.9700", "Johnson County / ZIP 66030 sector"]
+zillowHomeValueUsd: 301471
 ---
 
 **Engineering Notice for Edgerton:** structural drying capacity optimized for 1030ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Johnson County. Relative Humidity Threshold: 83%. Sensor sync: Active.

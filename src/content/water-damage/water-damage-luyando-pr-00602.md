@@ -12,6 +12,8 @@ lng: -67.1600
 zipSample: ["00602"]
 zipCodes: ["00602"]
 localPaths: ["Aguada County / elevation 413 ft band", "Aguada County / coords 18.3600, -67.1600", "Aguada County / ZIP 00602 sector", "Aguada County / primary ZIP 00602"]
+zillowHomeValueUsd: 375344
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Luyando:** structural drying capacity optimized for 413ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Aguada County. Relative Humidity Threshold: 65%. Sensor sync: Active.

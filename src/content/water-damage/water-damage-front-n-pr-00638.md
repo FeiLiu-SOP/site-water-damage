@@ -12,6 +12,8 @@ lng: -66.5600
 zipSample: ["00638"]
 zipCodes: ["00638"]
 localPaths: ["Ciales County / coords 18.3100, -66.5600", "Ciales County / primary ZIP 00638", "Ciales County / elevation 1165 ft band", "Ciales County / ZIP 00638 sector"]
+zillowHomeValueUsd: 359246
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Frontón:** structural drying capacity optimized for 1165ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ciales County. Relative Humidity Threshold: 71%. Sensor sync: Active.

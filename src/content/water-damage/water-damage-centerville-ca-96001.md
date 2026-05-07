@@ -12,6 +12,7 @@ lng: -122.4600
 zipSample: ["96001"]
 zipCodes: ["96001"]
 localPaths: ["Shasta County / coords 40.5400, -122.4600", "Shasta County / elevation 873 ft band", "Shasta County / primary ZIP 96001", "Shasta County / ZIP 96001 sector"]
+zillowHomeValueUsd: 383530
 ---
 
 **Engineering Notice for Centerville:** structural drying capacity optimized for 873ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Shasta County. Relative Humidity Threshold: 71%. Sensor sync: Active.

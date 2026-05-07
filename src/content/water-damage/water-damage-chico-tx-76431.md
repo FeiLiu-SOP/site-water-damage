@@ -12,6 +12,7 @@ lng: -97.8000
 zipSample: ["76431"]
 zipCodes: ["76431"]
 localPaths: ["Wise County / ZIP 76431 sector", "Wise County / elevation 945 ft band", "Wise County / primary ZIP 76431", "Wise County / coords 33.3000, -97.8000"]
+zillowHomeValueUsd: 357020
 ---
 
 **Engineering Notice for Chico:** structural drying capacity optimized for 945ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wise County. Relative Humidity Threshold: 80%. Sensor sync: Active.

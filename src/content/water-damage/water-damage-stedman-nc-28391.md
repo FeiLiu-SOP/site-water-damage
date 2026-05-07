@@ -12,6 +12,7 @@ lng: -78.7000
 zipSample: ["28391"]
 zipCodes: ["28391"]
 localPaths: ["Cumberland County / ZIP 28391 sector", "Cumberland County / primary ZIP 28391", "Cumberland County / elevation 128 ft band", "Cumberland County / coords 35.0100, -78.7000"]
+zillowHomeValueUsd: 279672
 ---
 
 **Engineering Notice for Stedman:** structural drying capacity optimized for 128ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cumberland County. Relative Humidity Threshold: 67%. Sensor sync: Active.

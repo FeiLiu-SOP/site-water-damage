@@ -12,6 +12,8 @@ lng: -99.7400
 zipSample: ["79252"]
 zipCodes: ["79252"]
 localPaths: ["Hardeman County / coords 34.3000, -99.7400", "Hardeman County / primary ZIP 79252", "Hardeman County / elevation 1588 ft band", "Hardeman County / ZIP 79252 sector"]
+zillowHomeValueUsd: 309575
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Quanah:** structural drying capacity optimized for 1588ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hardeman County. Relative Humidity Threshold: 73%. Sensor sync: Active.

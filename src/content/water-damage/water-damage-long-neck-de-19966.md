@@ -12,6 +12,7 @@ lng: -75.1500
 zipSample: ["19966"]
 zipCodes: ["19966"]
 localPaths: ["Sussex County / ZIP 19966 sector", "Sussex County / elevation 16 ft band", "Sussex County / primary ZIP 19966", "Sussex County / coords 38.6200, -75.1500"]
+zillowHomeValueUsd: 397217
 ---
 
 **Engineering Notice for Long Neck:** structural drying capacity optimized for 16ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sussex County. Relative Humidity Threshold: 76%. Sensor sync: Active.

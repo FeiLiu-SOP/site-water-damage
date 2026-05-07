@@ -12,6 +12,8 @@ lng: -66.9000
 zipSample: ["00637"]
 zipCodes: ["00637"]
 localPaths: ["Sabana Grande County / primary ZIP 00637", "Sabana Grande County / ZIP 00637 sector", "Sabana Grande County / elevation 344 ft band", "Sabana Grande County / coords 18.0400, -66.9000"]
+zillowHomeValueUsd: 378974
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Lluveras:** structural drying capacity optimized for 344ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sabana Grande County. Relative Humidity Threshold: 72%. Sensor sync: Active.

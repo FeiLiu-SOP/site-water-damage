@@ -12,6 +12,7 @@ lng: -93.8200
 zipSample: ["50109"]
 zipCodes: ["50109"]
 localPaths: ["Dallas County / primary ZIP 50109", "Dallas County / ZIP 50109 sector", "Dallas County / elevation 889 ft band", "Dallas County / coords 41.7600, -93.8200"]
+zillowHomeValueUsd: 375450
 ---
 
 **Engineering Notice for Granger:** structural drying capacity optimized for 889ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dallas County. Relative Humidity Threshold: 78%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -94.0700
 zipSample: ["72947"]
 zipCodes: ["72947"]
 localPaths: ["Crawford County / coords 35.5100, -94.0700", "Crawford County / primary ZIP 72947", "Crawford County / elevation 417 ft band", "Crawford County / ZIP 72947 sector"]
+zillowHomeValueUsd: 179826
 ---
 
 **Engineering Notice for Mulberry:** structural drying capacity optimized for 417ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Crawford County. Relative Humidity Threshold: 84%. Sensor sync: Active.

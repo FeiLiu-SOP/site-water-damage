@@ -12,6 +12,7 @@ lng: -93.5300
 zipSample: ["71943"]
 zipCodes: ["71943"]
 localPaths: ["Pike County / primary ZIP 71943", "Pike County / elevation 600 ft band", "Pike County / coords 34.3300, -93.5300", "Pike County / ZIP 71943 sector"]
+zillowHomeValueUsd: 196260
 ---
 
 **Engineering Notice for Glenwood:** structural drying capacity optimized for 600ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pike County. Relative Humidity Threshold: 80%. Sensor sync: Active.

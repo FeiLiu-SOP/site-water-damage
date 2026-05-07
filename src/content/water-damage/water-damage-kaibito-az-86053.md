@@ -12,6 +12,8 @@ lng: -111.1100
 zipSample: ["86053"]
 zipCodes: ["86053"]
 localPaths: ["Coconino County / primary ZIP 86053", "Coconino County / elevation 6040 ft band", "Coconino County / coords 36.5900, -111.1100", "Coconino County / ZIP 86053 sector"]
+zillowHomeValueUsd: 449862
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Kaibito:** structural drying capacity optimized for 6040ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Coconino County. Relative Humidity Threshold: 83%. Sensor sync: Active.

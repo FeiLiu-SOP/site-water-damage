@@ -12,6 +12,7 @@ lng: -73.5600
 zipSample: ["11771", "11545"]
 zipCodes: ["11771", "11545"]
 localPaths: ["Nassau County / elevation 197 ft band", "Nassau County / ZIP 11771 sector", "Nassau County / coords 40.8500, -73.5600", "Nassau County / primary ZIP 11545", "Nassau County / ZIP 11545 sector"]
+zillowHomeValueUsd: 1543050
 ---
 
 **Engineering Notice for Upper Brookville:** structural drying capacity optimized for 197ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Nassau County. Relative Humidity Threshold: 69%. Sensor sync: Active.

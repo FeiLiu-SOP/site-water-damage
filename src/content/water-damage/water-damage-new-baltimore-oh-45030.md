@@ -12,6 +12,7 @@ lng: -84.6700
 zipSample: ["45030"]
 zipCodes: ["45030"]
 localPaths: ["Hamilton County / coords 39.2700, -84.6700", "Hamilton County / ZIP 45030 sector", "Hamilton County / primary ZIP 45030", "Hamilton County / elevation 653 ft band"]
+zillowHomeValueUsd: 319210
 ---
 
 **Engineering Notice for New Baltimore:** structural drying capacity optimized for 653ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hamilton County. Relative Humidity Threshold: 76%. Sensor sync: Active.

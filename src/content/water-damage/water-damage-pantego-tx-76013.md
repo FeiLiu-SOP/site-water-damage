@@ -12,6 +12,7 @@ lng: -97.1500
 zipSample: ["76013"]
 zipCodes: ["76013"]
 localPaths: ["Tarrant County / elevation 600 ft band", "Tarrant County / coords 32.7100, -97.1500", "Tarrant County / primary ZIP 76013", "Tarrant County / ZIP 76013 sector"]
+zillowHomeValueUsd: 311170
 ---
 
 **Engineering Notice for Pantego:** structural drying capacity optimized for 600ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tarrant County. Relative Humidity Threshold: 84%. Sensor sync: Active.

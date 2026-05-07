@@ -12,6 +12,7 @@ lng: -94.1300
 zipSample: ["64862"]
 zipCodes: ["64862"]
 localPaths: ["Jasper County / primary ZIP 64862", "Jasper County / elevation 1181 ft band", "Jasper County / ZIP 64862 sector", "Jasper County / coords 37.0700, -94.1300"]
+zillowHomeValueUsd: 263951
 ---
 
 **Engineering Notice for Sarcoxie:** structural drying capacity optimized for 1181ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jasper County. Relative Humidity Threshold: 66%. Sensor sync: Active.

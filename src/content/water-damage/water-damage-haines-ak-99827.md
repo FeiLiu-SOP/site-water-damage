@@ -12,6 +12,7 @@ lng: -135.4500
 zipSample: ["99827"]
 zipCodes: ["99827"]
 localPaths: ["Haines County / primary ZIP 99827", "Haines County / elevation 171 ft band", "Haines County / coords 59.2400, -135.4500", "Haines County / ZIP 99827 sector"]
+zillowHomeValueUsd: 328382
 ---
 
 **Engineering Notice for Haines:** structural drying capacity optimized for 171ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Haines County. Relative Humidity Threshold: 73%. Sensor sync: Active.

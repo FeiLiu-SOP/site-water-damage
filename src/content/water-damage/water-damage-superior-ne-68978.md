@@ -12,6 +12,7 @@ lng: -98.0600
 zipSample: ["68978"]
 zipCodes: ["68978"]
 localPaths: ["Nuckolls County / ZIP 68978 sector", "Nuckolls County / elevation 1631 ft band", "Nuckolls County / coords 40.0200, -98.0600", "Nuckolls County / primary ZIP 68978"]
+zillowHomeValueUsd: 97635
 ---
 
 **Engineering Notice for Superior:** structural drying capacity optimized for 1631ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Nuckolls County. Relative Humidity Threshold: 81%. Sensor sync: Active.

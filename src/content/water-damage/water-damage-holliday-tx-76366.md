@@ -12,6 +12,7 @@ lng: -98.6900
 zipSample: ["76366", "76310"]
 zipCodes: ["76310", "76366"]
 localPaths: ["Archer County / elevation 1063 ft band", "Archer County / ZIP 76310 sector", "Archer County / primary ZIP 76366", "Archer County / ZIP 76366 sector", "Archer County / coords 33.8100, -98.6900"]
+zillowHomeValueUsd: 191514
 ---
 
 **Engineering Notice for Holliday:** structural drying capacity optimized for 1063ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Archer County. Relative Humidity Threshold: 68%. Sensor sync: Active.

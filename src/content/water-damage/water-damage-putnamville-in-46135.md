@@ -12,6 +12,7 @@ lng: -86.8700
 zipSample: ["46170", "46135"]
 zipCodes: ["46135", "46170"]
 localPaths: ["Putnam County / ZIP 46135 sector", "Putnam County / ZIP 46170 sector", "Putnam County / coords 39.5700, -86.8700", "Putnam County / primary ZIP 46135", "Putnam County / elevation 686 ft band"]
+zillowHomeValueUsd: 242322
 ---
 
 **Engineering Notice for Putnamville:** structural drying capacity optimized for 686ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Putnam County. Relative Humidity Threshold: 68%. Sensor sync: Active.

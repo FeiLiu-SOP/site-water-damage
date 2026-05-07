@@ -12,6 +12,7 @@ lng: -119.5000
 zipSample: ["98851"]
 zipCodes: ["98851"]
 localPaths: ["Grant County / ZIP 98851 sector", "Grant County / coords 47.3800, -119.5000", "Grant County / elevation 1207 ft band", "Grant County / primary ZIP 98851"]
+zillowHomeValueUsd: 300483
 ---
 
 **Engineering Notice for Lakeview:** structural drying capacity optimized for 1207ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grant County. Relative Humidity Threshold: 79%. Sensor sync: Active.

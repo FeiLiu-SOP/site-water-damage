@@ -12,6 +12,7 @@ lng: -79.8600
 zipSample: ["15012"]
 zipCodes: ["15012"]
 localPaths: ["Westmoreland County / coords 40.1300, -79.8600", "Westmoreland County / elevation 915 ft band", "Westmoreland County / ZIP 15012 sector", "Westmoreland County / primary ZIP 15012"]
+zillowHomeValueUsd: 185714
 ---
 
 **Engineering Notice for North Belle Vernon:** structural drying capacity optimized for 915ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Westmoreland County. Relative Humidity Threshold: 74%. Sensor sync: Active.

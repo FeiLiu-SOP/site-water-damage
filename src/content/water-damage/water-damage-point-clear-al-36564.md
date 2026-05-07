@@ -12,6 +12,8 @@ lng: -87.9100
 zipSample: ["36564", "36532"]
 zipCodes: ["36564", "36532"]
 localPaths: ["Baldwin County / ZIP 36564 sector", "Baldwin County / elevation 43 ft band", "Baldwin County / ZIP 36532 sector", "Baldwin County / coords 30.4900, -87.9100", "Baldwin County / primary ZIP 36564"]
+zillowHomeValueUsd: 210499
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Point Clear:** structural drying capacity optimized for 43ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Baldwin County. Relative Humidity Threshold: 84%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -86.3200
 zipSample: ["46234"]
 zipCodes: ["46234"]
 localPaths: ["Marion County / elevation 837 ft band", "Marion County / primary ZIP 46234", "Marion County / coords 39.8200, -86.3200", "Marion County / ZIP 46234 sector"]
+zillowHomeValueUsd: 279669
 ---
 
 **Engineering Notice for Clermont:** structural drying capacity optimized for 837ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marion County. Relative Humidity Threshold: 65%. Sensor sync: Active.

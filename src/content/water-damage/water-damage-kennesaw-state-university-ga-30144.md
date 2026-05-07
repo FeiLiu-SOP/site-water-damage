@@ -12,6 +12,7 @@ lng: -84.5800
 zipSample: ["30144"]
 zipCodes: ["30144"]
 localPaths: ["Cobb County / ZIP 30144 sector", "Cobb County / primary ZIP 30144", "Cobb County / coords 34.0400, -84.5800", "Cobb County / elevation 1063 ft band"]
+zillowHomeValueUsd: 382686
 ---
 
 **Engineering Notice for Kennesaw State University:** structural drying capacity optimized for 1063ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cobb County. Relative Humidity Threshold: 73%. Sensor sync: Active.

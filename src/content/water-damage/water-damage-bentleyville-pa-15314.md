@@ -12,6 +12,7 @@ lng: -80.0000
 zipSample: ["15314"]
 zipCodes: ["15314"]
 localPaths: ["Washington County / elevation 1010 ft band", "Washington County / ZIP 15314 sector", "Washington County / coords 40.1200, -80.0000", "Washington County / primary ZIP 15314"]
+zillowHomeValueUsd: 159612
 ---
 
 **Engineering Notice for Bentleyville:** structural drying capacity optimized for 1010ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 71%. Sensor sync: Active.

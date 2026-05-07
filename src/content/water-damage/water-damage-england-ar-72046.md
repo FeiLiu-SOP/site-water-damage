@@ -12,6 +12,7 @@ lng: -91.9700
 zipSample: ["72046"]
 zipCodes: ["72046"]
 localPaths: ["Lonoke County / coords 34.5500, -91.9700", "Lonoke County / elevation 246 ft band", "Lonoke County / primary ZIP 72046", "Lonoke County / ZIP 72046 sector"]
+zillowHomeValueUsd: 142480
 ---
 
 **Engineering Notice for England:** structural drying capacity optimized for 246ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lonoke County. Relative Humidity Threshold: 65%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -111.1300
 zipSample: ["84523"]
 zipCodes: ["84523"]
 localPaths: ["Emery County / primary ZIP 84523", "Emery County / elevation 5951 ft band", "Emery County / coords 39.0900, -111.1300", "Emery County / ZIP 84523 sector"]
+zillowHomeValueUsd: 318259
 ---
 
 **Engineering Notice for Ferron:** structural drying capacity optimized for 5951ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Emery County. Relative Humidity Threshold: 82%. Sensor sync: Active.

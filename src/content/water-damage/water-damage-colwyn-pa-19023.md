@@ -12,6 +12,7 @@ lng: -75.2500
 zipSample: ["19023"]
 zipCodes: ["19023"]
 localPaths: ["Delaware County / elevation 49 ft band", "Delaware County / primary ZIP 19023", "Delaware County / ZIP 19023 sector", "Delaware County / coords 39.9100, -75.2500"]
+zillowHomeValueUsd: 171681
 ---
 
 **Engineering Notice for Colwyn:** structural drying capacity optimized for 49ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Delaware County. Relative Humidity Threshold: 77%. Sensor sync: Active.

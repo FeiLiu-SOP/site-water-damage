@@ -12,6 +12,7 @@ lng: -75.0100
 zipSample: ["07882"]
 zipCodes: ["07882"]
 localPaths: ["Warren County / primary ZIP 07882", "Warren County / coords 40.7600, -75.0100", "Warren County / elevation 515 ft band", "Warren County / ZIP 07882 sector"]
+zillowHomeValueUsd: 412060
 ---
 
 **Engineering Notice for Brass Castle:** structural drying capacity optimized for 515ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Warren County. Relative Humidity Threshold: 75%. Sensor sync: Active.

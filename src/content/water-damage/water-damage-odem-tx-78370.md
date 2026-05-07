@@ -12,6 +12,7 @@ lng: -97.5900
 zipSample: ["78370"]
 zipCodes: ["78370"]
 localPaths: ["San Patricio County / primary ZIP 78370", "San Patricio County / ZIP 78370 sector", "San Patricio County / coords 27.9500, -97.5900", "San Patricio County / elevation 92 ft band"]
+zillowHomeValueUsd: 195534
 ---
 
 **Engineering Notice for Odem:** structural drying capacity optimized for 92ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Patricio County. Relative Humidity Threshold: 82%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -88.0000
 zipSample: ["54151"]
 zipCodes: ["54151"]
 localPaths: ["Marinette County / elevation 1066 ft band", "Marinette County / ZIP 54151 sector", "Marinette County / coords 45.7800, -88.0000", "Marinette County / primary ZIP 54151"]
+zillowHomeValueUsd: 180861
 ---
 
 **Engineering Notice for Niagara:** structural drying capacity optimized for 1066ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marinette County. Relative Humidity Threshold: 83%. Sensor sync: Active.

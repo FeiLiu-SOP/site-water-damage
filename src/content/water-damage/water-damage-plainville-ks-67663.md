@@ -12,6 +12,7 @@ lng: -99.3000
 zipSample: ["67663"]
 zipCodes: ["67663"]
 localPaths: ["Rooks County / primary ZIP 67663", "Rooks County / elevation 2165 ft band", "Rooks County / coords 39.2300, -99.3000", "Rooks County / ZIP 67663 sector"]
+zillowHomeValueUsd: 130087
 ---
 
 **Engineering Notice for Plainville:** structural drying capacity optimized for 2165ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rooks County. Relative Humidity Threshold: 79%. Sensor sync: Active.

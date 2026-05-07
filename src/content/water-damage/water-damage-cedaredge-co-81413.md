@@ -12,6 +12,7 @@ lng: -107.9300
 zipSample: ["81413"]
 zipCodes: ["81413"]
 localPaths: ["Delta County / ZIP 81413 sector", "Delta County / coords 38.8900, -107.9300", "Delta County / elevation 6175 ft band", "Delta County / primary ZIP 81413"]
+zillowHomeValueUsd: 425121
 ---
 
 **Engineering Notice for Cedaredge:** structural drying capacity optimized for 6175ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Delta County. Relative Humidity Threshold: 84%. Sensor sync: Active.

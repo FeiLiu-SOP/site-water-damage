@@ -12,6 +12,7 @@ lng: -119.7100
 zipSample: ["93105"]
 zipCodes: ["93105"]
 localPaths: ["Santa Barbara County / coords 34.4500, -119.7100", "Santa Barbara County / primary ZIP 93105", "Santa Barbara County / ZIP 93105 sector", "Santa Barbara County / elevation 751 ft band"]
+zillowHomeValueUsd: 1912172
 ---
 
 **Engineering Notice for Mission Canyon:** structural drying capacity optimized for 751ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Santa Barbara County. Relative Humidity Threshold: 66%. Sensor sync: Active.

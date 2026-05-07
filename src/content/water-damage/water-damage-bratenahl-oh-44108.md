@@ -12,6 +12,7 @@ lng: -81.6100
 zipSample: ["44108"]
 zipCodes: ["44108"]
 localPaths: ["Cuyahoga County / coords 41.5500, -81.6100", "Cuyahoga County / primary ZIP 44108", "Cuyahoga County / ZIP 44108 sector", "Cuyahoga County / elevation 636 ft band"]
+zillowHomeValueUsd: 75074
 ---
 
 **Engineering Notice for Bratenahl:** structural drying capacity optimized for 636ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cuyahoga County. Relative Humidity Threshold: 80%. Sensor sync: Active.

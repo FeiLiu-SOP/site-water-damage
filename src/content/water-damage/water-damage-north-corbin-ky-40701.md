@@ -12,6 +12,7 @@ lng: -84.1000
 zipSample: ["40701"]
 zipCodes: ["40701"]
 localPaths: ["Laurel County / coords 36.9600, -84.1000", "Laurel County / ZIP 40701 sector", "Laurel County / elevation 1184 ft band", "Laurel County / primary ZIP 40701"]
+zillowHomeValueUsd: 177571
 ---
 
 **Engineering Notice for North Corbin:** structural drying capacity optimized for 1184ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Laurel County. Relative Humidity Threshold: 81%. Sensor sync: Active.

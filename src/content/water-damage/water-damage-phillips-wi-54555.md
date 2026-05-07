@@ -12,6 +12,7 @@ lng: -90.4000
 zipSample: ["54555"]
 zipCodes: ["54555"]
 localPaths: ["Price County / primary ZIP 54555", "Price County / coords 45.7000, -90.4000", "Price County / elevation 1430 ft band", "Price County / ZIP 54555 sector"]
+zillowHomeValueUsd: 221728
 ---
 
 **Engineering Notice for Phillips:** structural drying capacity optimized for 1430ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Price County. Relative Humidity Threshold: 76%. Sensor sync: Active.

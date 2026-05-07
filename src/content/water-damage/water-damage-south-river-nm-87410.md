@@ -12,6 +12,7 @@ lng: -108.0600
 zipSample: ["87410"]
 zipCodes: ["87410"]
 localPaths: ["San Juan County / ZIP 87410 sector", "San Juan County / coords 36.7900, -108.0600", "San Juan County / primary ZIP 87410", "San Juan County / elevation 5571 ft band"]
+zillowHomeValueUsd: 275875
 ---
 
 **Engineering Notice for South River:** structural drying capacity optimized for 5571ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Juan County. Relative Humidity Threshold: 70%. Sensor sync: Active.

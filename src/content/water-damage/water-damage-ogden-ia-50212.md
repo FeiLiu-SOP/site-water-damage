@@ -12,6 +12,7 @@ lng: -94.0300
 zipSample: ["50212"]
 zipCodes: ["50212"]
 localPaths: ["Boone County / primary ZIP 50212", "Boone County / coords 42.0400, -94.0300", "Boone County / ZIP 50212 sector", "Boone County / elevation 1096 ft band"]
+zillowHomeValueUsd: 236341
 ---
 
 **Engineering Notice for Ogden:** structural drying capacity optimized for 1096ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Boone County. Relative Humidity Threshold: 75%. Sensor sync: Active.

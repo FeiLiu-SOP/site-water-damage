@@ -12,6 +12,7 @@ lng: -83.5400
 zipSample: ["30549"]
 zipCodes: ["30549"]
 localPaths: ["Jackson County / primary ZIP 30549", "Jackson County / coords 34.0700, -83.5400", "Jackson County / elevation 863 ft band", "Jackson County / ZIP 30549 sector"]
+zillowHomeValueUsd: 413770
 ---
 
 **Engineering Notice for Arcade:** structural drying capacity optimized for 863ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jackson County. Relative Humidity Threshold: 67%. Sensor sync: Active.

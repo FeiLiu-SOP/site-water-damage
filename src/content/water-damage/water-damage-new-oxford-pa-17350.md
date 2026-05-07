@@ -12,6 +12,7 @@ lng: -77.0600
 zipSample: ["17350"]
 zipCodes: ["17350"]
 localPaths: ["Adams County / primary ZIP 17350", "Adams County / elevation 564 ft band", "Adams County / coords 39.8600, -77.0600", "Adams County / ZIP 17350 sector"]
+zillowHomeValueUsd: 297847
 ---
 
 **Engineering Notice for New Oxford:** structural drying capacity optimized for 564ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Adams County. Relative Humidity Threshold: 65%. Sensor sync: Active.

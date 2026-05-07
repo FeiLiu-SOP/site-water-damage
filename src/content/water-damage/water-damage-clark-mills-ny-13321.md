@@ -12,6 +12,7 @@ lng: -75.3800
 zipSample: ["13492", "13321", "13323"]
 zipCodes: ["13321", "13323", "13492"]
 localPaths: ["Oneida County / primary ZIP 13321", "Oneida County / ZIP 13321 sector", "Oneida County / ZIP 13492 sector", "Oneida County / ZIP 13323 sector", "Oneida County / elevation 535 ft band"]
+zillowHomeValueUsd: 190793
 ---
 
 **Engineering Notice for Clark Mills:** structural drying capacity optimized for 535ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Oneida County. Relative Humidity Threshold: 83%. Sensor sync: Active.

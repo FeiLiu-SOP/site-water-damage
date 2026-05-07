@@ -12,6 +12,7 @@ lng: -105.0400
 zipSample: ["80123"]
 zipCodes: ["80123"]
 localPaths: ["Arapahoe County / coords 39.6000, -105.0400", "Arapahoe County / primary ZIP 80123", "Arapahoe County / ZIP 80123 sector", "Arapahoe County / elevation 5374 ft band"]
+zillowHomeValueUsd: 602065
 ---
 
 **Engineering Notice for Columbine Valley:** structural drying capacity optimized for 5374ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Arapahoe County. Relative Humidity Threshold: 84%. Sensor sync: Active.

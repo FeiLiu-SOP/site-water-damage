@@ -12,6 +12,7 @@ lng: -98.0900
 zipSample: ["73055", "73533"]
 zipCodes: ["73533", "73055"]
 localPaths: ["Stephens County / elevation 1175 ft band", "Stephens County / ZIP 73055 sector", "Stephens County / primary ZIP 73533", "Stephens County / coords 34.6200, -98.0900", "Stephens County / ZIP 73533 sector"]
+zillowHomeValueUsd: 135030
 ---
 
 **Engineering Notice for Central High:** structural drying capacity optimized for 1175ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stephens County. Relative Humidity Threshold: 75%. Sensor sync: Active.

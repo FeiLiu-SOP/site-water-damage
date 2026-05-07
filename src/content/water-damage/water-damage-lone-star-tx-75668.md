@@ -12,6 +12,7 @@ lng: -94.7100
 zipSample: ["75668", "75636"]
 zipCodes: ["75636", "75668"]
 localPaths: ["Morris County / primary ZIP 75668", "Morris County / coords 32.9400, -94.7100", "Morris County / elevation 331 ft band", "Morris County / ZIP 75668 sector", "Morris County / ZIP 75636 sector"]
+zillowHomeValueUsd: 102774
 ---
 
 **Engineering Notice for Lone Star:** structural drying capacity optimized for 331ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Morris County. Relative Humidity Threshold: 80%. Sensor sync: Active.

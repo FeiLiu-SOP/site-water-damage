@@ -12,6 +12,7 @@ lng: -116.7800
 zipSample: ["92230"]
 zipCodes: ["92230"]
 localPaths: ["Riverside County / coords 33.9100, -116.7800", "Riverside County / elevation 1749 ft band", "Riverside County / primary ZIP 92230", "Riverside County / ZIP 92230 sector"]
+zillowHomeValueUsd: 332013
 ---
 
 **Engineering Notice for Cabazon:** structural drying capacity optimized for 1749ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Riverside County. Relative Humidity Threshold: 67%. Sensor sync: Active.

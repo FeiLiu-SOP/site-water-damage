@@ -12,6 +12,7 @@ lng: -80.3200
 zipSample: ["33037"]
 zipCodes: ["33037"]
 localPaths: ["Monroe County / ZIP 33037 sector", "Monroe County / elevation 13 ft band", "Monroe County / coords 25.2600, -80.3200", "Monroe County / primary ZIP 33037"]
+zillowHomeValueUsd: 1082523
 ---
 
 **Engineering Notice for North Key Largo:** structural drying capacity optimized for 13ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Monroe County. Relative Humidity Threshold: 77%. Sensor sync: Active.

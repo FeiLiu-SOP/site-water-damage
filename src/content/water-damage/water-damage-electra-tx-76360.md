@@ -12,6 +12,7 @@ lng: -98.9200
 zipSample: ["76360"]
 zipCodes: ["76360"]
 localPaths: ["Wichita County / primary ZIP 76360", "Wichita County / ZIP 76360 sector", "Wichita County / elevation 1237 ft band", "Wichita County / coords 34.0300, -98.9200"]
+zillowHomeValueUsd: 77455
 ---
 
 **Engineering Notice for Electra:** structural drying capacity optimized for 1237ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wichita County. Relative Humidity Threshold: 68%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -93.9900
 zipSample: ["64040"]
 zipCodes: ["64040"]
 localPaths: ["Johnson County / ZIP 64040 sector", "Johnson County / primary ZIP 64040", "Johnson County / coords 38.7100, -93.9900", "Johnson County / elevation 883 ft band"]
+zillowHomeValueUsd: 286555
 ---
 
 **Engineering Notice for Holden:** structural drying capacity optimized for 883ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Johnson County. Relative Humidity Threshold: 66%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -82.8500
 zipSample: ["31642"]
 zipCodes: ["31642"]
 localPaths: ["Atkinson County / elevation 207 ft band", "Atkinson County / primary ZIP 31642", "Atkinson County / ZIP 31642 sector", "Atkinson County / coords 31.3000, -82.8500"]
+zillowHomeValueUsd: 126488
 ---
 
 **Engineering Notice for Pearson:** structural drying capacity optimized for 207ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Atkinson County. Relative Humidity Threshold: 66%. Sensor sync: Active.

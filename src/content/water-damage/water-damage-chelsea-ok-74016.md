@@ -12,6 +12,7 @@ lng: -95.4300
 zipSample: ["74016"]
 zipCodes: ["74016"]
 localPaths: ["Rogers County / primary ZIP 74016", "Rogers County / coords 36.5300, -95.4300", "Rogers County / elevation 722 ft band", "Rogers County / ZIP 74016 sector"]
+zillowHomeValueUsd: 214821
 ---
 
 **Engineering Notice for Chelsea:** structural drying capacity optimized for 722ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rogers County. Relative Humidity Threshold: 68%. Sensor sync: Active.

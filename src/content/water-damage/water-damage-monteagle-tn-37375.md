@@ -12,6 +12,7 @@ lng: -85.8500
 zipSample: ["37356", "37375"]
 zipCodes: ["37356", "37375"]
 localPaths: ["Grundy County / ZIP 37356 sector", "Grundy County / elevation 1932 ft band", "Grundy County / primary ZIP 37375", "Grundy County / ZIP 37375 sector", "Grundy County / coords 35.2400, -85.8500"]
+zillowHomeValueUsd: 407852
 ---
 
 **Engineering Notice for Monteagle:** structural drying capacity optimized for 1932ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grundy County. Relative Humidity Threshold: 82%. Sensor sync: Active.

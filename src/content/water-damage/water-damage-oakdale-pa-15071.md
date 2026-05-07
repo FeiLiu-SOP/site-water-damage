@@ -12,6 +12,7 @@ lng: -80.1900
 zipSample: ["15071"]
 zipCodes: ["15071"]
 localPaths: ["Allegheny County / elevation 912 ft band", "Allegheny County / ZIP 15071 sector", "Allegheny County / coords 40.4000, -80.1900", "Allegheny County / primary ZIP 15071"]
+zillowHomeValueUsd: 335165
 ---
 
 **Engineering Notice for Oakdale:** structural drying capacity optimized for 912ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allegheny County. Relative Humidity Threshold: 83%. Sensor sync: Active.

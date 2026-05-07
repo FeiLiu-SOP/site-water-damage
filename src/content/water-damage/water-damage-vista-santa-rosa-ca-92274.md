@@ -12,6 +12,7 @@ lng: -116.2100
 zipSample: ["92236", "92274"]
 zipCodes: ["92274", "92236"]
 localPaths: ["Riverside County / elevation -83 ft band", "Riverside County / primary ZIP 92274", "Riverside County / ZIP 92274 sector", "Riverside County / coords 33.6200, -116.2100", "Riverside County / ZIP 92236 sector"]
+zillowHomeValueUsd: 301903
 ---
 
 **Engineering Notice for Vista Santa Rosa:** structural drying capacity optimized for -83ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Riverside County. Relative Humidity Threshold: 81%. Sensor sync: Active.

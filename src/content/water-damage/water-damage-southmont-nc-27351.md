@@ -12,6 +12,8 @@ lng: -80.2700
 zipSample: ["27351", "27292"]
 zipCodes: ["27292", "27351"]
 localPaths: ["Davidson County / ZIP 27292 sector", "Davidson County / ZIP 27351 sector", "Davidson County / primary ZIP 27351", "Davidson County / elevation 725 ft band", "Davidson County / coords 35.6500, -80.2700"]
+zillowHomeValueUsd: 329555
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Southmont:** structural drying capacity optimized for 725ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Davidson County. Relative Humidity Threshold: 84%. Sensor sync: Active.

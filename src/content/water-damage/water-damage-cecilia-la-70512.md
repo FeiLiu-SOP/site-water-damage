@@ -12,6 +12,7 @@ lng: -91.8500
 zipSample: ["70521", "70512", "70517"]
 zipCodes: ["70521", "70517", "70512"]
 localPaths: ["St. Martin Parish / primary ZIP 70512", "St. Martin Parish / elevation 30 ft band", "St. Martin Parish / ZIP 70517 sector", "St. Martin Parish / ZIP 70512 sector", "St. Martin Parish / coords 30.3400, -91.8500"]
+zillowHomeValueUsd: 166383
 ---
 
 **Engineering Notice for Cecilia:** structural drying capacity optimized for 30ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Martin Parish. Relative Humidity Threshold: 68%. Sensor sync: Active.

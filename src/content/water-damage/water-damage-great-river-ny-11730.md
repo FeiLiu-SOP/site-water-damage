@@ -12,6 +12,7 @@ lng: -73.1600
 zipSample: ["11730", "11739"]
 zipCodes: ["11730", "11739"]
 localPaths: ["Suffolk County / ZIP 11730 sector", "Suffolk County / coords 40.7100, -73.1600", "Suffolk County / elevation 30 ft band", "Suffolk County / ZIP 11739 sector", "Suffolk County / primary ZIP 11730"]
+zillowHomeValueUsd: 704563
 ---
 
 **Engineering Notice for Great River:** structural drying capacity optimized for 30ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Suffolk County. Relative Humidity Threshold: 72%. Sensor sync: Active.

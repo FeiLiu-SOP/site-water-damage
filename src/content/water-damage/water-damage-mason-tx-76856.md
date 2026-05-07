@@ -12,6 +12,7 @@ lng: -99.2300
 zipSample: ["76856"]
 zipCodes: ["76856"]
 localPaths: ["Mason County / ZIP 76856 sector", "Mason County / coords 30.7500, -99.2300", "Mason County / primary ZIP 76856", "Mason County / elevation 1542 ft band"]
+zillowHomeValueUsd: 355633
 ---
 
 **Engineering Notice for Mason:** structural drying capacity optimized for 1542ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mason County. Relative Humidity Threshold: 68%. Sensor sync: Active.

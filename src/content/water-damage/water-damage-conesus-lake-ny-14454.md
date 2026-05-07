@@ -12,6 +12,7 @@ lng: -77.7100
 zipSample: ["14454", "14480", "14487", "14435"]
 zipCodes: ["14487", "14435", "14480", "14454"]
 localPaths: ["Livingston County / ZIP 14487 sector", "Livingston County / elevation 810 ft band", "Livingston County / ZIP 14435 sector", "Livingston County / ZIP 14454 sector", "Livingston County / coords 42.7800, -77.7100"]
+zillowHomeValueUsd: 310272
 ---
 
 **Engineering Notice for Conesus Lake:** structural drying capacity optimized for 810ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Livingston County. Relative Humidity Threshold: 85%. Sensor sync: Active.

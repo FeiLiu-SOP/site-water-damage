@@ -12,6 +12,7 @@ lng: -124.1700
 zipSample: ["97449"]
 zipCodes: ["97449"]
 localPaths: ["Coos County / primary ZIP 97449", "Coos County / coords 43.5800, -124.1700", "Coos County / elevation 39 ft band", "Coos County / ZIP 97449 sector"]
+zillowHomeValueUsd: 307755
 ---
 
 **Engineering Notice for Lakeside:** structural drying capacity optimized for 39ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Coos County. Relative Humidity Threshold: 73%. Sensor sync: Active.

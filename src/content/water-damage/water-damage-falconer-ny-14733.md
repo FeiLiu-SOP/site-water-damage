@@ -12,6 +12,7 @@ lng: -79.2000
 zipSample: ["14733"]
 zipCodes: ["14733"]
 localPaths: ["Chautauqua County / ZIP 14733 sector", "Chautauqua County / elevation 1266 ft band", "Chautauqua County / primary ZIP 14733", "Chautauqua County / coords 42.1200, -79.2000"]
+zillowHomeValueUsd: 129749
 ---
 
 **Engineering Notice for Falconer:** structural drying capacity optimized for 1266ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chautauqua County. Relative Humidity Threshold: 80%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -84.6200
 zipSample: ["49749"]
 zipCodes: ["49749"]
 localPaths: ["Cheboygan County / primary ZIP 49749", "Cheboygan County / elevation 741 ft band", "Cheboygan County / coords 45.4200, -84.6200", "Cheboygan County / ZIP 49749 sector"]
+zillowHomeValueUsd: 310683
 ---
 
 **Engineering Notice for Indian River:** structural drying capacity optimized for 741ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cheboygan County. Relative Humidity Threshold: 80%. Sensor sync: Active.

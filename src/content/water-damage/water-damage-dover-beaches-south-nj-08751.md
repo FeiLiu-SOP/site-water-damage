@@ -12,6 +12,7 @@ lng: -74.0800
 zipSample: ["08751"]
 zipCodes: ["08751"]
 localPaths: ["Ocean County / ZIP 08751 sector", "Ocean County / coords 39.9500, -74.0800", "Ocean County / elevation 7 ft band", "Ocean County / primary ZIP 08751"]
+zillowHomeValueUsd: 712596
 ---
 
 **Engineering Notice for Dover Beaches South:** structural drying capacity optimized for 7ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ocean County. Relative Humidity Threshold: 68%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -86.3900
 zipSample: ["46151"]
 zipCodes: ["46151"]
 localPaths: ["Morgan County / ZIP 46151 sector", "Morgan County / primary ZIP 46151", "Morgan County / elevation 699 ft band", "Morgan County / coords 39.4800, -86.3900"]
+zillowHomeValueUsd: 288587
 ---
 
 **Engineering Notice for Foxcliff Estates:** structural drying capacity optimized for 699ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Morgan County. Relative Humidity Threshold: 74%. Sensor sync: Active.

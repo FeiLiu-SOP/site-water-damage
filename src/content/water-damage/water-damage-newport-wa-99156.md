@@ -12,6 +12,7 @@ lng: -117.0500
 zipSample: ["99156"]
 zipCodes: ["99156"]
 localPaths: ["Pend Oreille County / elevation 2156 ft band", "Pend Oreille County / coords 48.1800, -117.0500", "Pend Oreille County / ZIP 99156 sector", "Pend Oreille County / primary ZIP 99156"]
+zillowHomeValueUsd: 405540
 ---
 
 **Engineering Notice for Newport:** structural drying capacity optimized for 2156ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pend Oreille County. Relative Humidity Threshold: 78%. Sensor sync: Active.

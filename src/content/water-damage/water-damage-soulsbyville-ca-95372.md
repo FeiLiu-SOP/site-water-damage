@@ -12,6 +12,7 @@ lng: -120.2600
 zipSample: ["95383", "95372"]
 zipCodes: ["95372", "95383"]
 localPaths: ["Tuolumne County / coords 37.9900, -120.2600", "Tuolumne County / primary ZIP 95372", "Tuolumne County / ZIP 95383 sector", "Tuolumne County / elevation 2936 ft band", "Tuolumne County / ZIP 95372 sector"]
+zillowHomeValueUsd: 389246
 ---
 
 **Engineering Notice for Soulsbyville:** structural drying capacity optimized for 2936ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tuolumne County. Relative Humidity Threshold: 69%. Sensor sync: Active.

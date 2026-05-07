@@ -12,6 +12,7 @@ lng: -77.9000
 zipSample: ["17236"]
 zipCodes: ["17236"]
 localPaths: ["Franklin County / primary ZIP 17236", "Franklin County / coords 39.8300, -77.9000", "Franklin County / ZIP 17236 sector", "Franklin County / elevation 551 ft band"]
+zillowHomeValueUsd: 293462
 ---
 
 **Engineering Notice for Mercersburg:** structural drying capacity optimized for 551ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Franklin County. Relative Humidity Threshold: 68%. Sensor sync: Active.

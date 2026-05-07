@@ -12,6 +12,7 @@ lng: -78.2500
 zipSample: ["27576", "27577", "27568"]
 zipCodes: ["27568", "27577", "27576"]
 localPaths: ["Johnston County / ZIP 27568 sector", "Johnston County / ZIP 27576 sector", "Johnston County / coords 35.5000, -78.2500", "Johnston County / elevation 167 ft band", "Johnston County / primary ZIP 27577"]
+zillowHomeValueUsd: 293019
 ---
 
 **Engineering Notice for Pine Level:** structural drying capacity optimized for 167ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Johnston County. Relative Humidity Threshold: 77%. Sensor sync: Active.

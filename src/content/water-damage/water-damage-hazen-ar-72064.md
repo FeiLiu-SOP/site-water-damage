@@ -12,6 +12,8 @@ lng: -91.5700
 zipSample: ["72064"]
 zipCodes: ["72064"]
 localPaths: ["Prairie County / coords 34.8000, -91.5700", "Prairie County / ZIP 72064 sector", "Prairie County / elevation 230 ft band", "Prairie County / primary ZIP 72064"]
+zillowHomeValueUsd: 191169
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Hazen:** structural drying capacity optimized for 230ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Prairie County. Relative Humidity Threshold: 82%. Sensor sync: Active.

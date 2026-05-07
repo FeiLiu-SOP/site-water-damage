@@ -12,6 +12,7 @@ lng: -89.7000
 zipSample: ["62664"]
 zipCodes: ["62664"]
 localPaths: ["Mason County / ZIP 62664 sector", "Mason County / primary ZIP 62664", "Mason County / elevation 577 ft band", "Mason County / coords 40.2000, -89.7000"]
+zillowHomeValueUsd: 104520
 ---
 
 **Engineering Notice for Mason City:** structural drying capacity optimized for 577ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mason County. Relative Humidity Threshold: 83%. Sensor sync: Active.

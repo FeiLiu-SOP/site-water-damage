@@ -12,6 +12,7 @@ lng: -122.1000
 zipSample: ["96055"]
 zipCodes: ["96055"]
 localPaths: ["Tehama County / elevation 236 ft band", "Tehama County / ZIP 96055 sector", "Tehama County / primary ZIP 96055", "Tehama County / coords 40.0300, -122.1000"]
+zillowHomeValueUsd: 318076
 ---
 
 **Engineering Notice for Los Molinos:** structural drying capacity optimized for 236ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tehama County. Relative Humidity Threshold: 81%. Sensor sync: Active.

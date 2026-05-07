@@ -12,6 +12,7 @@ lng: -120.8400
 zipSample: ["95634"]
 zipCodes: ["95634"]
 localPaths: ["El Dorado County / ZIP 95634 sector", "El Dorado County / coords 38.9100, -120.8400", "El Dorado County / elevation 2720 ft band", "El Dorado County / primary ZIP 95634"]
+zillowHomeValueUsd: 417688
 ---
 
 **Engineering Notice for Georgetown:** structural drying capacity optimized for 2720ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: El Dorado County. Relative Humidity Threshold: 80%. Sensor sync: Active.

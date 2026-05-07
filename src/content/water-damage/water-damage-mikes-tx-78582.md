@@ -12,6 +12,7 @@ lng: -98.6300
 zipSample: ["78582"]
 zipCodes: ["78582"]
 localPaths: ["Starr County / elevation 210 ft band", "Starr County / ZIP 78582 sector", "Starr County / primary ZIP 78582", "Starr County / coords 26.3100, -98.6300"]
+zillowHomeValueUsd: 146585
 ---
 
 **Engineering Notice for Mikes:** structural drying capacity optimized for 210ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Starr County. Relative Humidity Threshold: 73%. Sensor sync: Active.

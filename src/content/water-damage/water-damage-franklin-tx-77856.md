@@ -12,6 +12,7 @@ lng: -96.4900
 zipSample: ["77856"]
 zipCodes: ["77856"]
 localPaths: ["Robertson County / elevation 456 ft band", "Robertson County / primary ZIP 77856", "Robertson County / coords 31.0200, -96.4900", "Robertson County / ZIP 77856 sector"]
+zillowHomeValueUsd: 370454
 ---
 
 **Engineering Notice for Franklin:** structural drying capacity optimized for 456ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Robertson County. Relative Humidity Threshold: 77%. Sensor sync: Active.

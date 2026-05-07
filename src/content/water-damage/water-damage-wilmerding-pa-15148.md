@@ -12,6 +12,7 @@ lng: -79.8100
 zipSample: ["15148"]
 zipCodes: ["15148"]
 localPaths: ["Allegheny County / coords 40.3900, -79.8100", "Allegheny County / primary ZIP 15148", "Allegheny County / ZIP 15148 sector", "Allegheny County / elevation 751 ft band"]
+zillowHomeValueUsd: 71138
 ---
 
 **Engineering Notice for Wilmerding:** structural drying capacity optimized for 751ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allegheny County. Relative Humidity Threshold: 80%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -84.1900
 zipSample: ["45853"]
 zipCodes: ["45853"]
 localPaths: ["Putnam County / ZIP 45853 sector", "Putnam County / primary ZIP 45853", "Putnam County / coords 40.9900, -84.1900", "Putnam County / elevation 728 ft band"]
+zillowHomeValueUsd: 279671
 ---
 
 **Engineering Notice for Kalida:** structural drying capacity optimized for 728ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Putnam County. Relative Humidity Threshold: 77%. Sensor sync: Active.

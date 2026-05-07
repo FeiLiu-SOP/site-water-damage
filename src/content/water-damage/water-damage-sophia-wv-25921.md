@@ -12,6 +12,7 @@ lng: -81.2500
 zipSample: ["25921"]
 zipCodes: ["25921"]
 localPaths: ["Raleigh County / primary ZIP 25921", "Raleigh County / ZIP 25921 sector", "Raleigh County / coords 37.7100, -81.2500", "Raleigh County / elevation 2408 ft band"]
+zillowHomeValueUsd: 107397
 ---
 
 **Engineering Notice for Sophia:** structural drying capacity optimized for 2408ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Raleigh County. Relative Humidity Threshold: 73%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -84.0000
 zipSample: ["41002"]
 zipCodes: ["41002"]
 localPaths: ["Bracken County / coords 38.7700, -84.0000", "Bracken County / elevation 522 ft band", "Bracken County / primary ZIP 41002", "Bracken County / ZIP 41002 sector"]
+zillowHomeValueUsd: 194302
 ---
 
 **Engineering Notice for Augusta:** structural drying capacity optimized for 522ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bracken County. Relative Humidity Threshold: 78%. Sensor sync: Active.

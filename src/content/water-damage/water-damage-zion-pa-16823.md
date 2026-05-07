@@ -12,6 +12,7 @@ lng: -77.6900
 zipSample: ["16823"]
 zipCodes: ["16823"]
 localPaths: ["Centre County / coords 40.9200, -77.6900", "Centre County / ZIP 16823 sector", "Centre County / primary ZIP 16823", "Centre County / elevation 1017 ft band"]
+zillowHomeValueUsd: 304148
 ---
 
 **Engineering Notice for Zion:** structural drying capacity optimized for 1017ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Centre County. Relative Humidity Threshold: 85%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -71.2900
 zipSample: ["02842", "02871"]
 zipCodes: ["02871", "02842"]
 localPaths: ["Newport County / ZIP 02871 sector", "Newport County / ZIP 02842 sector", "Newport County / coords 41.5600, -71.2900", "Newport County / elevation 39 ft band", "Newport County / primary ZIP 02842"]
+zillowHomeValueUsd: 743011
 ---
 
 **Engineering Notice for Melville:** structural drying capacity optimized for 39ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Newport County. Relative Humidity Threshold: 66%. Sensor sync: Active.

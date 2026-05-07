@@ -12,6 +12,7 @@ lng: -76.4600
 zipSample: ["17820"]
 zipCodes: ["17820"]
 localPaths: ["Columbia County / primary ZIP 17820", "Columbia County / elevation 535 ft band", "Columbia County / coords 40.9500, -76.4600", "Columbia County / ZIP 17820 sector"]
+zillowHomeValueUsd: 255183
 ---
 
 **Engineering Notice for Catawissa:** structural drying capacity optimized for 535ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Columbia County. Relative Humidity Threshold: 70%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -106.8000
 zipSample: ["87144", "87124"]
 zipCodes: ["87124", "87144"]
 localPaths: ["Sandoval County / ZIP 87124 sector", "Sandoval County / elevation 5991 ft band", "Sandoval County / coords 35.3000, -106.8000", "Sandoval County / primary ZIP 87124", "Sandoval County / ZIP 87144 sector"]
+zillowHomeValueUsd: 350694
 ---
 
 **Engineering Notice for Rio Rancho Estates:** structural drying capacity optimized for 5991ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sandoval County. Relative Humidity Threshold: 72%. Sensor sync: Active.

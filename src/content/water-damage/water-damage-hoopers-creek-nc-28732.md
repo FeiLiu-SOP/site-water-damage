@@ -12,6 +12,7 @@ lng: -82.4300
 zipSample: ["28732"]
 zipCodes: ["28732"]
 localPaths: ["Henderson County / coords 35.4500, -82.4300", "Henderson County / ZIP 28732 sector", "Henderson County / primary ZIP 28732", "Henderson County / elevation 2274 ft band"]
+zillowHomeValueUsd: 447737
 ---
 
 **Engineering Notice for Hoopers Creek:** structural drying capacity optimized for 2274ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Henderson County. Relative Humidity Threshold: 74%. Sensor sync: Active.

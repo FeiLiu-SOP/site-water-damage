@@ -12,6 +12,8 @@ lng: -67.1000
 zipSample: ["00690"]
 zipCodes: ["00690"]
 localPaths: ["Aguadilla County / primary ZIP 00690", "Aguadilla County / coords 18.4900, -67.1000", "Aguadilla County / elevation 223 ft band", "Aguadilla County / ZIP 00690 sector"]
+zillowHomeValueUsd: 358572
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for San Antonio:** structural drying capacity optimized for 223ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Aguadilla County. Relative Humidity Threshold: 69%. Sensor sync: Active.

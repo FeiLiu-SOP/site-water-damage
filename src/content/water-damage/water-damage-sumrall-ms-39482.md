@@ -12,6 +12,7 @@ lng: -89.5400
 zipSample: ["39482"]
 zipCodes: ["39482"]
 localPaths: ["Lamar County / coords 31.4200, -89.5400", "Lamar County / elevation 305 ft band", "Lamar County / primary ZIP 39482", "Lamar County / ZIP 39482 sector"]
+zillowHomeValueUsd: 259570
 ---
 
 **Engineering Notice for Sumrall:** structural drying capacity optimized for 305ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lamar County. Relative Humidity Threshold: 78%. Sensor sync: Active.

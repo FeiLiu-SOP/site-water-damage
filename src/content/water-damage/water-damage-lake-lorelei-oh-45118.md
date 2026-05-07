@@ -12,6 +12,7 @@ lng: -83.9700
 zipSample: ["45118"]
 zipCodes: ["45118"]
 localPaths: ["Brown County / ZIP 45118 sector", "Brown County / elevation 935 ft band", "Brown County / primary ZIP 45118", "Brown County / coords 39.1900, -83.9700"]
+zillowHomeValueUsd: 299858
 ---
 
 **Engineering Notice for Lake Lorelei:** structural drying capacity optimized for 935ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Brown County. Relative Humidity Threshold: 66%. Sensor sync: Active.

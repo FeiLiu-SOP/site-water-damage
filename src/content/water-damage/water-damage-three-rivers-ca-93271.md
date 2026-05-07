@@ -12,6 +12,7 @@ lng: -118.8900
 zipSample: ["93271", "93237"]
 zipCodes: ["93271", "93237"]
 localPaths: ["Tulare County / primary ZIP 93271", "Tulare County / ZIP 93271 sector", "Tulare County / ZIP 93237 sector", "Tulare County / elevation 2185 ft band", "Tulare County / coords 36.4300, -118.8900"]
+zillowHomeValueUsd: 537401
 ---
 
 **Engineering Notice for Three Rivers:** structural drying capacity optimized for 2185ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tulare County. Relative Humidity Threshold: 80%. Sensor sync: Active.

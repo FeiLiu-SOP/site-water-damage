@@ -12,6 +12,7 @@ lng: -97.0100
 zipSample: ["67039"]
 zipCodes: ["67039"]
 localPaths: ["Butler County / ZIP 67039 sector", "Butler County / elevation 1217 ft band", "Butler County / primary ZIP 67039", "Butler County / coords 37.5200, -97.0100"]
+zillowHomeValueUsd: 241028
 ---
 
 **Engineering Notice for Douglass:** structural drying capacity optimized for 1217ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Butler County. Relative Humidity Threshold: 83%. Sensor sync: Active.

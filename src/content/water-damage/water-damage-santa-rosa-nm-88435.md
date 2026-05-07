@@ -12,6 +12,8 @@ lng: -104.6800
 zipSample: ["88435"]
 zipCodes: ["88435"]
 localPaths: ["Guadalupe County / primary ZIP 88435", "Guadalupe County / ZIP 88435 sector", "Guadalupe County / elevation 4567 ft band", "Guadalupe County / coords 34.9400, -104.6800"]
+zillowHomeValueUsd: 310894
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Santa Rosa:** structural drying capacity optimized for 4567ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Guadalupe County. Relative Humidity Threshold: 81%. Sensor sync: Active.

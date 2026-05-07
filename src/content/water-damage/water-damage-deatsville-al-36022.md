@@ -12,6 +12,7 @@ lng: -86.3900
 zipSample: ["36022"]
 zipCodes: ["36022"]
 localPaths: ["Elmore County / ZIP 36022 sector", "Elmore County / elevation 427 ft band", "Elmore County / primary ZIP 36022", "Elmore County / coords 32.5900, -86.3900"]
+zillowHomeValueUsd: 292445
 ---
 
 **Engineering Notice for Deatsville:** structural drying capacity optimized for 427ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Elmore County. Relative Humidity Threshold: 74%. Sensor sync: Active.

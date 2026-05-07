@@ -12,6 +12,7 @@ lng: -77.8300
 zipSample: ["27878", "27803"]
 zipCodes: ["27878", "27803"]
 localPaths: ["Nash County / primary ZIP 27803", "Nash County / elevation 151 ft band", "Nash County / coords 35.8700, -77.8300", "Nash County / ZIP 27878 sector", "Nash County / ZIP 27803 sector"]
+zillowHomeValueUsd: 206776
 ---
 
 **Engineering Notice for Sharpsburg:** structural drying capacity optimized for 151ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Nash County. Relative Humidity Threshold: 83%. Sensor sync: Active.

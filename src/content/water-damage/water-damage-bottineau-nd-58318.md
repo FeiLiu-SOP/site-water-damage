@@ -12,6 +12,7 @@ lng: -100.4400
 zipSample: ["58318"]
 zipCodes: ["58318"]
 localPaths: ["Bottineau County / ZIP 58318 sector", "Bottineau County / primary ZIP 58318", "Bottineau County / elevation 1631 ft band", "Bottineau County / coords 48.8200, -100.4400"]
+zillowHomeValueUsd: 247823
 ---
 
 **Engineering Notice for Bottineau:** structural drying capacity optimized for 1631ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bottineau County. Relative Humidity Threshold: 70%. Sensor sync: Active.

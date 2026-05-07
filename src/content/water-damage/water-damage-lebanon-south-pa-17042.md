@@ -12,6 +12,7 @@ lng: -76.4100
 zipSample: ["17042"]
 zipCodes: ["17042"]
 localPaths: ["Lebanon County / primary ZIP 17042", "Lebanon County / ZIP 17042 sector", "Lebanon County / coords 40.3300, -76.4100", "Lebanon County / elevation 531 ft band"]
+zillowHomeValueUsd: 303263
 ---
 
 **Engineering Notice for Lebanon South:** structural drying capacity optimized for 531ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lebanon County. Relative Humidity Threshold: 85%. Sensor sync: Active.

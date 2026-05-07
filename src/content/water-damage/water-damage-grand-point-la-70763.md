@@ -12,6 +12,7 @@ lng: -90.7500
 zipSample: ["70763"]
 zipCodes: ["70763"]
 localPaths: ["St. James Parish / primary ZIP 70763", "St. James Parish / coords 30.0500, -90.7500", "St. James Parish / ZIP 70763 sector", "St. James Parish / elevation 13 ft band"]
+zillowHomeValueUsd: 309254
 ---
 
 **Engineering Notice for Grand Point:** structural drying capacity optimized for 13ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. James Parish. Relative Humidity Threshold: 70%. Sensor sync: Active.

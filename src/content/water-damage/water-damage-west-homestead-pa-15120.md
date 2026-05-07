@@ -12,6 +12,7 @@ lng: -79.9200
 zipSample: ["15120"]
 zipCodes: ["15120"]
 localPaths: ["Allegheny County / elevation 1040 ft band", "Allegheny County / primary ZIP 15120", "Allegheny County / ZIP 15120 sector", "Allegheny County / coords 40.4000, -79.9200"]
+zillowHomeValueUsd: 143448
 ---
 
 **Engineering Notice for West Homestead:** structural drying capacity optimized for 1040ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allegheny County. Relative Humidity Threshold: 66%. Sensor sync: Active.

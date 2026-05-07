@@ -12,6 +12,7 @@ lng: -92.4400
 zipSample: ["52211"]
 zipCodes: ["52211"]
 localPaths: ["Poweshiek County / elevation 906 ft band", "Poweshiek County / ZIP 52211 sector", "Poweshiek County / coords 41.7300, -92.4400", "Poweshiek County / primary ZIP 52211"]
+zillowHomeValueUsd: 194033
 ---
 
 **Engineering Notice for Brooklyn:** structural drying capacity optimized for 906ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Poweshiek County. Relative Humidity Threshold: 76%. Sensor sync: Active.

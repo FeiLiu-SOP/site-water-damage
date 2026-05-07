@@ -12,6 +12,8 @@ lng: -66.2900
 zipSample: ["00783"]
 zipCodes: ["00783"]
 localPaths: ["Corozal County / coords 18.3100, -66.2900", "Corozal County / ZIP 00783 sector", "Corozal County / elevation 554 ft band", "Corozal County / primary ZIP 00783"]
+zillowHomeValueUsd: 352495
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Palmarejo:** structural drying capacity optimized for 554ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Corozal County. Relative Humidity Threshold: 65%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -85.6500
 zipSample: ["49099"]
 zipCodes: ["49099"]
 localPaths: ["St. Joseph County / elevation 830 ft band", "St. Joseph County / ZIP 49099 sector", "St. Joseph County / coords 41.8000, -85.6500", "St. Joseph County / primary ZIP 49099"]
+zillowHomeValueUsd: 233131
 ---
 
 **Engineering Notice for White Pigeon:** structural drying capacity optimized for 830ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Joseph County. Relative Humidity Threshold: 82%. Sensor sync: Active.

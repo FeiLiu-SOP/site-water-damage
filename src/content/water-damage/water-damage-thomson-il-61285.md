@@ -12,6 +12,7 @@ lng: -90.1100
 zipSample: ["61285"]
 zipCodes: ["61285"]
 localPaths: ["Carroll County / primary ZIP 61285", "Carroll County / coords 41.9700, -90.1100", "Carroll County / elevation 604 ft band", "Carroll County / ZIP 61285 sector"]
+zillowHomeValueUsd: 151245
 ---
 
 **Engineering Notice for Thomson:** structural drying capacity optimized for 604ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Carroll County. Relative Humidity Threshold: 78%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -102.2000
 zipSample: ["69343"]
 zipCodes: ["69343"]
 localPaths: ["Sheridan County / coords 42.8100, -102.2000", "Sheridan County / primary ZIP 69343", "Sheridan County / ZIP 69343 sector", "Sheridan County / elevation 3553 ft band"]
+zillowHomeValueUsd: 130044
 ---
 
 **Engineering Notice for Gordon:** structural drying capacity optimized for 3553ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sheridan County. Relative Humidity Threshold: 72%. Sensor sync: Active.

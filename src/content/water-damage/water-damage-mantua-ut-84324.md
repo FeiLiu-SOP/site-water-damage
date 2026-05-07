@@ -12,6 +12,7 @@ lng: -111.9300
 zipSample: ["84324"]
 zipCodes: ["84324"]
 localPaths: ["Box Elder County / coords 41.5000, -111.9300", "Box Elder County / ZIP 84324 sector", "Box Elder County / elevation 5151 ft band", "Box Elder County / primary ZIP 84324"]
+zillowHomeValueUsd: 665480
 ---
 
 **Engineering Notice for Mantua:** structural drying capacity optimized for 5151ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Box Elder County. Relative Humidity Threshold: 76%. Sensor sync: Active.

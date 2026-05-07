@@ -12,6 +12,7 @@ lng: -80.6100
 zipSample: ["43920"]
 zipCodes: ["43920"]
 localPaths: ["Columbiana County / ZIP 43920 sector", "Columbiana County / elevation 1148 ft band", "Columbiana County / coords 40.6600, -80.6100", "Columbiana County / primary ZIP 43920"]
+zillowHomeValueUsd: 103079
 ---
 
 **Engineering Notice for Glenmoor:** structural drying capacity optimized for 1148ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Columbiana County. Relative Humidity Threshold: 65%. Sensor sync: Active.

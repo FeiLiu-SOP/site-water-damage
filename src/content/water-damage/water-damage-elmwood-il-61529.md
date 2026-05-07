@@ -12,6 +12,7 @@ lng: -89.9700
 zipSample: ["61529"]
 zipCodes: ["61529"]
 localPaths: ["Peoria County / ZIP 61529 sector", "Peoria County / elevation 646 ft band", "Peoria County / primary ZIP 61529", "Peoria County / coords 40.7800, -89.9700"]
+zillowHomeValueUsd: 178946
 ---
 
 **Engineering Notice for Elmwood:** structural drying capacity optimized for 646ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Peoria County. Relative Humidity Threshold: 70%. Sensor sync: Active.

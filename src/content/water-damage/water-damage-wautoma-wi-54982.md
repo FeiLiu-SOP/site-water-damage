@@ -12,6 +12,7 @@ lng: -89.2900
 zipSample: ["54982"]
 zipCodes: ["54982"]
 localPaths: ["Waushara County / elevation 869 ft band", "Waushara County / ZIP 54982 sector", "Waushara County / coords 44.0700, -89.2900", "Waushara County / primary ZIP 54982"]
+zillowHomeValueUsd: 286926
 ---
 
 **Engineering Notice for Wautoma:** structural drying capacity optimized for 869ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Waushara County. Relative Humidity Threshold: 75%. Sensor sync: Active.

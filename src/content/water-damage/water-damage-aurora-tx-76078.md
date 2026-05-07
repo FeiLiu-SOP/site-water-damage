@@ -12,6 +12,7 @@ lng: -97.5100
 zipSample: ["76078"]
 zipCodes: ["76078"]
 localPaths: ["Wise County / coords 33.0600, -97.5100", "Wise County / elevation 768 ft band", "Wise County / primary ZIP 76078", "Wise County / ZIP 76078 sector"]
+zillowHomeValueUsd: 367214
 ---
 
 **Engineering Notice for Aurora:** structural drying capacity optimized for 768ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wise County. Relative Humidity Threshold: 71%. Sensor sync: Active.

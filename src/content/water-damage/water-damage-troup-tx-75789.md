@@ -12,6 +12,7 @@ lng: -95.1200
 zipSample: ["75789"]
 zipCodes: ["75789"]
 localPaths: ["Smith County / elevation 472 ft band", "Smith County / primary ZIP 75789", "Smith County / ZIP 75789 sector", "Smith County / coords 32.1500, -95.1200"]
+zillowHomeValueUsd: 273663
 ---
 
 **Engineering Notice for Troup:** structural drying capacity optimized for 472ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Smith County. Relative Humidity Threshold: 75%. Sensor sync: Active.

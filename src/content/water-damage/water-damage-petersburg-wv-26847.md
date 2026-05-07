@@ -12,6 +12,7 @@ lng: -79.1300
 zipSample: ["26847"]
 zipCodes: ["26847"]
 localPaths: ["Grant County / elevation 955 ft band", "Grant County / coords 39.0000, -79.1300", "Grant County / ZIP 26847 sector", "Grant County / primary ZIP 26847"]
+zillowHomeValueUsd: 194500
 ---
 
 **Engineering Notice for Petersburg:** structural drying capacity optimized for 955ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grant County. Relative Humidity Threshold: 84%. Sensor sync: Active.

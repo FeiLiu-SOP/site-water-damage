@@ -12,6 +12,7 @@ lng: -96.7000
 zipSample: ["66517"]
 zipCodes: ["66517"]
 localPaths: ["Riley County / elevation 1053 ft band", "Riley County / primary ZIP 66517", "Riley County / coords 39.1100, -96.7000", "Riley County / ZIP 66517 sector"]
+zillowHomeValueUsd: 165146
 ---
 
 **Engineering Notice for Ogden:** structural drying capacity optimized for 1053ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Riley County. Relative Humidity Threshold: 67%. Sensor sync: Active.

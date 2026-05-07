@@ -12,6 +12,7 @@ lng: -97.0000
 zipSample: ["76227"]
 zipCodes: ["76227"]
 localPaths: ["Denton County / elevation 607 ft band", "Denton County / ZIP 76227 sector", "Denton County / coords 33.2300, -97.0000", "Denton County / primary ZIP 76227"]
+zillowHomeValueUsd: 364116
 ---
 
 **Engineering Notice for Cross Roads:** structural drying capacity optimized for 607ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Denton County. Relative Humidity Threshold: 78%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -88.7300
 zipSample: ["61726"]
 zipCodes: ["61726"]
 localPaths: ["McLean County / ZIP 61726 sector", "McLean County / elevation 719 ft band", "McLean County / primary ZIP 61726", "McLean County / coords 40.7400, -88.7300"]
+zillowHomeValueUsd: 164724
 ---
 
 **Engineering Notice for Chenoa:** structural drying capacity optimized for 719ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McLean County. Relative Humidity Threshold: 80%. Sensor sync: Active.

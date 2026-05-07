@@ -12,6 +12,7 @@ lng: -96.1900
 zipSample: ["68450"]
 zipCodes: ["68450"]
 localPaths: ["Johnson County / primary ZIP 68450", "Johnson County / elevation 1125 ft band", "Johnson County / ZIP 68450 sector", "Johnson County / coords 40.3700, -96.1900"]
+zillowHomeValueUsd: 177808
 ---
 
 **Engineering Notice for Tecumseh:** structural drying capacity optimized for 1125ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Johnson County. Relative Humidity Threshold: 81%. Sensor sync: Active.

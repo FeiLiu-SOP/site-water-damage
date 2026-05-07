@@ -12,6 +12,7 @@ lng: -89.8900
 zipSample: ["70085", "70040"]
 zipCodes: ["70085", "70040"]
 localPaths: ["St. Bernard Parish / coords 29.8600, -89.8900", "St. Bernard Parish / ZIP 70040 sector", "St. Bernard Parish / elevation 56 ft band", "St. Bernard Parish / ZIP 70085 sector", "St. Bernard Parish / primary ZIP 70040"]
+zillowHomeValueUsd: 191662
 ---
 
 **Engineering Notice for Poydras:** structural drying capacity optimized for 56ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Bernard Parish. Relative Humidity Threshold: 78%. Sensor sync: Active.

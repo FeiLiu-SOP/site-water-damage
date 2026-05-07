@@ -12,6 +12,7 @@ lng: -97.9500
 zipSample: ["73059"]
 zipCodes: ["73059"]
 localPaths: ["Grady County / coords 35.3200, -97.9500", "Grady County / ZIP 73059 sector", "Grady County / primary ZIP 73059", "Grady County / elevation 1332 ft band"]
+zillowHomeValueUsd: 198557
 ---
 
 **Engineering Notice for Minco:** structural drying capacity optimized for 1332ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grady County. Relative Humidity Threshold: 71%. Sensor sync: Active.

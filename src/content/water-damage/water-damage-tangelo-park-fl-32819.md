@@ -12,6 +12,7 @@ lng: -81.4500
 zipSample: ["32819"]
 zipCodes: ["32819"]
 localPaths: ["Orange County / coords 28.4600, -81.4500", "Orange County / ZIP 32819 sector", "Orange County / elevation 105 ft band", "Orange County / primary ZIP 32819"]
+zillowHomeValueUsd: 497164
 ---
 
 **Engineering Notice for Tangelo Park:** structural drying capacity optimized for 105ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Orange County. Relative Humidity Threshold: 68%. Sensor sync: Active.

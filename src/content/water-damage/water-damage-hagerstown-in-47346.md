@@ -12,6 +12,7 @@ lng: -85.1600
 zipSample: ["47346"]
 zipCodes: ["47346"]
 localPaths: ["Wayne County / coords 39.9100, -85.1600", "Wayne County / primary ZIP 47346", "Wayne County / elevation 988 ft band", "Wayne County / ZIP 47346 sector"]
+zillowHomeValueUsd: 207668
 ---
 
 **Engineering Notice for Hagerstown:** structural drying capacity optimized for 988ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wayne County. Relative Humidity Threshold: 65%. Sensor sync: Active.

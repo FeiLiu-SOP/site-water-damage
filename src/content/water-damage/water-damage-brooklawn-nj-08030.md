@@ -12,6 +12,7 @@ lng: -75.1200
 zipSample: ["08030"]
 zipCodes: ["08030"]
 localPaths: ["Camden County / ZIP 08030 sector", "Camden County / coords 39.8800, -75.1200", "Camden County / elevation 20 ft band", "Camden County / primary ZIP 08030"]
+zillowHomeValueUsd: 237538
 ---
 
 **Engineering Notice for Brooklawn:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Camden County. Relative Humidity Threshold: 68%. Sensor sync: Active.

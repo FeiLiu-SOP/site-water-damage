@@ -12,6 +12,7 @@ lng: -79.4000
 zipSample: ["21550"]
 zipCodes: ["21550"]
 localPaths: ["Garrett County / ZIP 21550 sector", "Garrett County / elevation 2451 ft band", "Garrett County / primary ZIP 21550", "Garrett County / coords 39.4200, -79.4000"]
+zillowHomeValueUsd: 296046
 ---
 
 **Engineering Notice for Oakland:** structural drying capacity optimized for 2451ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Garrett County. Relative Humidity Threshold: 83%. Sensor sync: Active.

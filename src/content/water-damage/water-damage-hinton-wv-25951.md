@@ -12,6 +12,7 @@ lng: -80.8800
 zipSample: ["25951"]
 zipCodes: ["25951"]
 localPaths: ["Summers County / primary ZIP 25951", "Summers County / ZIP 25951 sector", "Summers County / coords 37.6700, -80.8800", "Summers County / elevation 1867 ft band"]
+zillowHomeValueUsd: 134726
 ---
 
 **Engineering Notice for Hinton:** structural drying capacity optimized for 1867ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Summers County. Relative Humidity Threshold: 84%. Sensor sync: Active.

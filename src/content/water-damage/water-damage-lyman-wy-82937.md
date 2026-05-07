@@ -12,6 +12,7 @@ lng: -110.3000
 zipSample: ["82937"]
 zipCodes: ["82937"]
 localPaths: ["Uinta County / coords 41.3300, -110.3000", "Uinta County / primary ZIP 82937", "Uinta County / ZIP 82937 sector", "Uinta County / elevation 6722 ft band"]
+zillowHomeValueUsd: 308295
 ---
 
 **Engineering Notice for Lyman:** structural drying capacity optimized for 6722ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Uinta County. Relative Humidity Threshold: 74%. Sensor sync: Active.

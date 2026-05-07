@@ -12,6 +12,7 @@ lng: -101.3800
 zipSample: ["79357"]
 zipCodes: ["79357"]
 localPaths: ["Crosby County / ZIP 79357 sector", "Crosby County / primary ZIP 79357", "Crosby County / coords 33.6800, -101.3800", "Crosby County / elevation 3110 ft band"]
+zillowHomeValueUsd: 85300
 ---
 
 **Engineering Notice for Ralls:** structural drying capacity optimized for 3110ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Crosby County. Relative Humidity Threshold: 72%. Sensor sync: Active.

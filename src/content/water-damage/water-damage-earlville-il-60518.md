@@ -12,6 +12,7 @@ lng: -88.9200
 zipSample: ["60518"]
 zipCodes: ["60518"]
 localPaths: ["LaSalle County / primary ZIP 60518", "LaSalle County / elevation 715 ft band", "LaSalle County / coords 41.5900, -88.9200", "LaSalle County / ZIP 60518 sector"]
+zillowHomeValueUsd: 240991
 ---
 
 **Engineering Notice for Earlville:** structural drying capacity optimized for 715ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: LaSalle County. Relative Humidity Threshold: 82%. Sensor sync: Active.

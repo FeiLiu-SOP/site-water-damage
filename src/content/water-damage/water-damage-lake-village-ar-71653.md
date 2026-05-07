@@ -12,6 +12,7 @@ lng: -91.2800
 zipSample: ["71653"]
 zipCodes: ["71653"]
 localPaths: ["Chicot County / coords 33.3300, -91.2800", "Chicot County / primary ZIP 71653", "Chicot County / ZIP 71653 sector", "Chicot County / elevation 135 ft band"]
+zillowHomeValueUsd: 178190
 ---
 
 **Engineering Notice for Lake Village:** structural drying capacity optimized for 135ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chicot County. Relative Humidity Threshold: 85%. Sensor sync: Active.

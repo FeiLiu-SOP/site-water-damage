@@ -12,6 +12,7 @@ lng: -86.6400
 zipSample: ["49862"]
 zipCodes: ["49862"]
 localPaths: ["Alger County / primary ZIP 49862", "Alger County / coords 46.4200, -86.6400", "Alger County / ZIP 49862 sector", "Alger County / elevation 587 ft band"]
+zillowHomeValueUsd: 198283
 ---
 
 **Engineering Notice for Munising:** structural drying capacity optimized for 587ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Alger County. Relative Humidity Threshold: 78%. Sensor sync: Active.

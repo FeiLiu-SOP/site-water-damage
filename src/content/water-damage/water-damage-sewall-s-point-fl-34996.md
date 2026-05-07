@@ -12,6 +12,7 @@ lng: -80.2000
 zipSample: ["34996", "34958"]
 zipCodes: ["34958", "34996"]
 localPaths: ["Martin County / ZIP 34996 sector", "Martin County / primary ZIP 34996", "Martin County / coords 27.2000, -80.2000", "Martin County / ZIP 34958 sector", "Martin County / elevation 33 ft band"]
+zillowHomeValueUsd: 430792
 ---
 
 **Engineering Notice for Sewall's Point:** structural drying capacity optimized for 33ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Martin County. Relative Humidity Threshold: 80%. Sensor sync: Active.

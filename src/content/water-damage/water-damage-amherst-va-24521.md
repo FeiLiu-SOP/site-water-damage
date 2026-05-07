@@ -12,6 +12,7 @@ lng: -79.0500
 zipSample: ["24521"]
 zipCodes: ["24521"]
 localPaths: ["Amherst County / coords 37.5800, -79.0500", "Amherst County / ZIP 24521 sector", "Amherst County / primary ZIP 24521", "Amherst County / elevation 702 ft band"]
+zillowHomeValueUsd: 291611
 ---
 
 **Engineering Notice for Amherst:** structural drying capacity optimized for 702ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Amherst County. Relative Humidity Threshold: 70%. Sensor sync: Active.

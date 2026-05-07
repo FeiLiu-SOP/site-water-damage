@@ -12,6 +12,7 @@ lng: -122.2700
 zipSample: ["98295"]
 zipCodes: ["98295"]
 localPaths: ["Whatcom County / primary ZIP 98295", "Whatcom County / ZIP 98295 sector", "Whatcom County / coords 49.0000, -122.2700", "Whatcom County / elevation 36 ft band"]
+zillowHomeValueUsd: 457693
 ---
 
 **Engineering Notice for Sumas:** structural drying capacity optimized for 36ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Whatcom County. Relative Humidity Threshold: 83%. Sensor sync: Active.

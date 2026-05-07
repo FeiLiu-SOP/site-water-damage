@@ -12,6 +12,7 @@ lng: -82.8700
 zipSample: ["32626", "32644"]
 zipCodes: ["32644", "32626"]
 localPaths: ["Levy County / coords 29.4900, -82.8700", "Levy County / ZIP 32626 sector", "Levy County / primary ZIP 32626", "Levy County / ZIP 32644 sector", "Levy County / elevation 108 ft band"]
+zillowHomeValueUsd: 277888
 ---
 
 **Engineering Notice for Chiefland:** structural drying capacity optimized for 108ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Levy County. Relative Humidity Threshold: 72%. Sensor sync: Active.

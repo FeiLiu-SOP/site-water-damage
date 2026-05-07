@@ -12,6 +12,7 @@ lng: -98.0000
 zipSample: ["68620"]
 zipCodes: ["68620"]
 localPaths: ["Boone County / primary ZIP 68620", "Boone County / elevation 1781 ft band", "Boone County / coords 41.6900, -98.0000", "Boone County / ZIP 68620 sector"]
+zillowHomeValueUsd: 310873
 ---
 
 **Engineering Notice for Albion:** structural drying capacity optimized for 1781ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Boone County. Relative Humidity Threshold: 80%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -93.0300
 zipSample: ["71457"]
 zipCodes: ["71457"]
 localPaths: ["Natchitoches Parish / elevation 121 ft band", "Natchitoches Parish / ZIP 71457 sector", "Natchitoches Parish / coords 31.7400, -93.0300", "Natchitoches Parish / primary ZIP 71457"]
+zillowHomeValueUsd: 181032
 ---
 
 **Engineering Notice for Vienna Bend:** structural drying capacity optimized for 121ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Natchitoches Parish. Relative Humidity Threshold: 71%. Sensor sync: Active.

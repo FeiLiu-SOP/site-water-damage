@@ -12,6 +12,7 @@ lng: -88.4500
 zipSample: ["54107"]
 zipCodes: ["54107"]
 localPaths: ["Shawano County / elevation 866 ft band", "Shawano County / primary ZIP 54107", "Shawano County / coords 44.7400, -88.4500", "Shawano County / ZIP 54107 sector"]
+zillowHomeValueUsd: 302876
 ---
 
 **Engineering Notice for Bonduel:** structural drying capacity optimized for 866ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Shawano County. Relative Humidity Threshold: 82%. Sensor sync: Active.

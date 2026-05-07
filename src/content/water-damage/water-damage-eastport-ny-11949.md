@@ -12,6 +12,7 @@ lng: -72.7300
 zipSample: ["11941", "11949"]
 zipCodes: ["11949", "11941"]
 localPaths: ["Suffolk County / elevation 66 ft band", "Suffolk County / ZIP 11941 sector", "Suffolk County / ZIP 11949 sector", "Suffolk County / coords 40.8400, -72.7300", "Suffolk County / primary ZIP 11949"]
+zillowHomeValueUsd: 704387
 ---
 
 **Engineering Notice for Eastport:** structural drying capacity optimized for 66ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Suffolk County. Relative Humidity Threshold: 74%. Sensor sync: Active.

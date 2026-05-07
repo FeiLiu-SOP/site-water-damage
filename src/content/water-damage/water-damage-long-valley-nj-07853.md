@@ -12,6 +12,7 @@ lng: -74.7800
 zipSample: ["07853"]
 zipCodes: ["07853"]
 localPaths: ["Morris County / coords 40.7800, -74.7800", "Morris County / elevation 558 ft band", "Morris County / ZIP 07853 sector", "Morris County / primary ZIP 07853"]
+zillowHomeValueUsd: 727510
 ---
 
 **Engineering Notice for Long Valley:** structural drying capacity optimized for 558ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Morris County. Relative Humidity Threshold: 73%. Sensor sync: Active.

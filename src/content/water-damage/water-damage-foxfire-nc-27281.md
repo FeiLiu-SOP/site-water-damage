@@ -12,6 +12,7 @@ lng: -79.5600
 zipSample: ["27376", "27281"]
 zipCodes: ["27376", "27281"]
 localPaths: ["Moore County / ZIP 27376 sector", "Moore County / primary ZIP 27281", "Moore County / elevation 486 ft band", "Moore County / ZIP 27281 sector", "Moore County / coords 35.1800, -79.5600"]
+zillowHomeValueUsd: 370453
 ---
 
 **Engineering Notice for Foxfire:** structural drying capacity optimized for 486ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Moore County. Relative Humidity Threshold: 77%. Sensor sync: Active.

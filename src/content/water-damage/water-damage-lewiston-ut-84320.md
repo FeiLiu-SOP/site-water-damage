@@ -12,6 +12,7 @@ lng: -111.8800
 zipSample: ["84320"]
 zipCodes: ["84320"]
 localPaths: ["Cache County / ZIP 84320 sector", "Cache County / coords 41.9600, -111.8800", "Cache County / elevation 4505 ft band", "Cache County / primary ZIP 84320"]
+zillowHomeValueUsd: 470314
 ---
 
 **Engineering Notice for Lewiston:** structural drying capacity optimized for 4505ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cache County. Relative Humidity Threshold: 78%. Sensor sync: Active.

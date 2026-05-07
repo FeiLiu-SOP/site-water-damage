@@ -12,6 +12,7 @@ lng: -83.4900
 zipSample: ["43140"]
 zipCodes: ["43140"]
 localPaths: ["Madison County / elevation 1050 ft band", "Madison County / coords 39.9600, -83.4900", "Madison County / ZIP 43140 sector", "Madison County / primary ZIP 43140"]
+zillowHomeValueUsd: 298706
 ---
 
 **Engineering Notice for Choctaw Lake:** structural drying capacity optimized for 1050ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Madison County. Relative Humidity Threshold: 79%. Sensor sync: Active.

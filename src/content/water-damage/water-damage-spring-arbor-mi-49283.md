@@ -12,6 +12,7 @@ lng: -84.5600
 zipSample: ["49283"]
 zipCodes: ["49283"]
 localPaths: ["Jackson County / ZIP 49283 sector", "Jackson County / primary ZIP 49283", "Jackson County / elevation 1007 ft band", "Jackson County / coords 42.2100, -84.5600"]
+zillowHomeValueUsd: 283267
 ---
 
 **Engineering Notice for Spring Arbor:** structural drying capacity optimized for 1007ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jackson County. Relative Humidity Threshold: 72%. Sensor sync: Active.

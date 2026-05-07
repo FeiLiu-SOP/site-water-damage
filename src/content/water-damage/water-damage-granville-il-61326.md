@@ -12,6 +12,7 @@ lng: -89.2300
 zipSample: ["61326"]
 zipCodes: ["61326"]
 localPaths: ["Putnam County / ZIP 61326 sector", "Putnam County / primary ZIP 61326", "Putnam County / coords 41.2700, -89.2300", "Putnam County / elevation 692 ft band"]
+zillowHomeValueUsd: 165788
 ---
 
 **Engineering Notice for Granville:** structural drying capacity optimized for 692ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Putnam County. Relative Humidity Threshold: 65%. Sensor sync: Active.

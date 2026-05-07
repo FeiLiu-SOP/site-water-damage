@@ -12,6 +12,7 @@ lng: -87.4500
 zipSample: ["47885"]
 zipCodes: ["47885"]
 localPaths: ["Vigo County / primary ZIP 47885", "Vigo County / coords 39.4600, -87.4500", "Vigo County / ZIP 47885 sector", "Vigo County / elevation 472 ft band"]
+zillowHomeValueUsd: 158777
 ---
 
 **Engineering Notice for West Terre Haute:** structural drying capacity optimized for 472ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Vigo County. Relative Humidity Threshold: 80%. Sensor sync: Active.

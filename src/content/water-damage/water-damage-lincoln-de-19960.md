@@ -12,6 +12,7 @@ lng: -75.4200
 zipSample: ["19960"]
 zipCodes: ["19960"]
 localPaths: ["Sussex County / ZIP 19960 sector", "Sussex County / primary ZIP 19960", "Sussex County / elevation 46 ft band", "Sussex County / coords 38.8700, -75.4200"]
+zillowHomeValueUsd: 351051
 ---
 
 **Engineering Notice for Lincoln:** structural drying capacity optimized for 46ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sussex County. Relative Humidity Threshold: 70%. Sensor sync: Active.

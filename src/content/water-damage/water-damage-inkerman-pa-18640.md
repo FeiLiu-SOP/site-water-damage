@@ -12,6 +12,7 @@ lng: -75.8200
 zipSample: ["18702", "18640"]
 zipCodes: ["18702", "18640"]
 localPaths: ["Luzerne County / coords 41.3000, -75.8200", "Luzerne County / elevation 787 ft band", "Luzerne County / ZIP 18702 sector", "Luzerne County / ZIP 18640 sector", "Luzerne County / primary ZIP 18640"]
+zillowHomeValueUsd: 201819
 ---
 
 **Engineering Notice for Inkerman:** structural drying capacity optimized for 787ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Luzerne County. Relative Humidity Threshold: 68%. Sensor sync: Active.

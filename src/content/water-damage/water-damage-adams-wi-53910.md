@@ -12,6 +12,7 @@ lng: -89.8200
 zipSample: ["53910"]
 zipCodes: ["53910"]
 localPaths: ["Adams County / ZIP 53910 sector", "Adams County / coords 43.9600, -89.8200", "Adams County / elevation 968 ft band", "Adams County / primary ZIP 53910"]
+zillowHomeValueUsd: 196847
 ---
 
 **Engineering Notice for Adams:** structural drying capacity optimized for 968ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Adams County. Relative Humidity Threshold: 81%. Sensor sync: Active.

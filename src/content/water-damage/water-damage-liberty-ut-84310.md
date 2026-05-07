@@ -12,6 +12,7 @@ lng: -111.8600
 zipSample: ["84310"]
 zipCodes: ["84310"]
 localPaths: ["Weber County / primary ZIP 84310", "Weber County / elevation 5171 ft band", "Weber County / coords 41.3400, -111.8600", "Weber County / ZIP 84310 sector"]
+zillowHomeValueUsd: 844602
 ---
 
 **Engineering Notice for Liberty:** structural drying capacity optimized for 5171ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Weber County. Relative Humidity Threshold: 78%. Sensor sync: Active.

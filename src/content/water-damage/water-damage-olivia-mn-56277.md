@@ -12,6 +12,7 @@ lng: -95.0000
 zipSample: ["56277"]
 zipCodes: ["56277"]
 localPaths: ["Renville County / ZIP 56277 sector", "Renville County / primary ZIP 56277", "Renville County / elevation 1070 ft band", "Renville County / coords 44.7800, -95.0000"]
+zillowHomeValueUsd: 194167
 ---
 
 **Engineering Notice for Olivia:** structural drying capacity optimized for 1070ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Renville County. Relative Humidity Threshold: 80%. Sensor sync: Active.

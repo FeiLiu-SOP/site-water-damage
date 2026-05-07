@@ -12,6 +12,7 @@ lng: -72.7100
 zipSample: ["11977", "11960", "11972"]
 zipCodes: ["11977", "11972", "11960"]
 localPaths: ["Suffolk County / ZIP 11977 sector", "Suffolk County / ZIP 11960 sector", "Suffolk County / primary ZIP 11960", "Suffolk County / elevation 20 ft band", "Suffolk County / ZIP 11972 sector"]
+zillowHomeValueUsd: 1778544
 ---
 
 **Engineering Notice for Remsenburg-Speonk:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Suffolk County. Relative Humidity Threshold: 77%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -106.0100
 zipSample: ["87506"]
 zipCodes: ["87506"]
 localPaths: ["Santa Fe County / elevation 5886 ft band", "Santa Fe County / primary ZIP 87506", "Santa Fe County / ZIP 87506 sector", "Santa Fe County / coords 35.9000, -106.0100"]
+zillowHomeValueUsd: 1093182
 ---
 
 **Engineering Notice for Pojoaque:** structural drying capacity optimized for 5886ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Santa Fe County. Relative Humidity Threshold: 70%. Sensor sync: Active.

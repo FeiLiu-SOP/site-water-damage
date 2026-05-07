@@ -12,6 +12,7 @@ lng: -81.9900
 zipSample: ["29360"]
 zipCodes: ["29360"]
 localPaths: ["Laurens County / elevation 666 ft band", "Laurens County / primary ZIP 29360", "Laurens County / ZIP 29360 sector", "Laurens County / coords 34.5200, -81.9900"]
+zillowHomeValueUsd: 180622
 ---
 
 **Engineering Notice for Watts Mills:** structural drying capacity optimized for 666ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Laurens County. Relative Humidity Threshold: 70%. Sensor sync: Active.

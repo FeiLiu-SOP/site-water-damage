@@ -12,6 +12,7 @@ lng: -122.6900
 zipSample: ["94933", "94963", "94938"]
 zipCodes: ["94938", "94963", "94933"]
 localPaths: ["Marin County / ZIP 94963 sector", "Marin County / ZIP 94938 sector", "Marin County / coords 38.0200, -122.6900", "Marin County / elevation 367 ft band", "Marin County / primary ZIP 94963"]
+zillowHomeValueUsd: 1300142
 ---
 
 **Engineering Notice for Lagunitas-Forest Knolls:** structural drying capacity optimized for 367ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marin County. Relative Humidity Threshold: 74%. Sensor sync: Active.

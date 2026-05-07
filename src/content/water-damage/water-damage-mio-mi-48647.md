@@ -12,6 +12,7 @@ lng: -84.1400
 zipSample: ["48647"]
 zipCodes: ["48647"]
 localPaths: ["Oscoda County / coords 44.6600, -84.1400", "Oscoda County / primary ZIP 48647", "Oscoda County / elevation 958 ft band", "Oscoda County / ZIP 48647 sector"]
+zillowHomeValueUsd: 125955
 ---
 
 **Engineering Notice for Mio:** structural drying capacity optimized for 958ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Oscoda County. Relative Humidity Threshold: 66%. Sensor sync: Active.

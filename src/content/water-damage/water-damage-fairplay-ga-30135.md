@@ -12,6 +12,7 @@ lng: -84.8600
 zipSample: ["30187", "30135"]
 zipCodes: ["30135", "30187"]
 localPaths: ["Douglas County / primary ZIP 30135", "Douglas County / coords 33.6200, -84.8600", "Douglas County / ZIP 30135 sector", "Douglas County / ZIP 30187 sector", "Douglas County / elevation 1115 ft band"]
+zillowHomeValueUsd: 313241
 ---
 
 **Engineering Notice for Fairplay:** structural drying capacity optimized for 1115ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Douglas County. Relative Humidity Threshold: 81%. Sensor sync: Active.

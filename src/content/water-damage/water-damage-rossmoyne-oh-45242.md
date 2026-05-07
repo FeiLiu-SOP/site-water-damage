@@ -12,6 +12,7 @@ lng: -84.3900
 zipSample: ["45236", "45242"]
 zipCodes: ["45236", "45242"]
 localPaths: ["Hamilton County / ZIP 45236 sector", "Hamilton County / elevation 837 ft band", "Hamilton County / ZIP 45242 sector", "Hamilton County / coords 39.2200, -84.3900", "Hamilton County / primary ZIP 45242"]
+zillowHomeValueUsd: 548134
 ---
 
 **Engineering Notice for Rossmoyne:** structural drying capacity optimized for 837ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hamilton County. Relative Humidity Threshold: 72%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -74.4500
 zipSample: ["08831"]
 zipCodes: ["08831"]
 localPaths: ["Middlesex County / ZIP 08831 sector", "Middlesex County / elevation 174 ft band", "Middlesex County / coords 40.3300, -74.4500", "Middlesex County / primary ZIP 08831"]
+zillowHomeValueUsd: 602358
 ---
 
 **Engineering Notice for Whittingham:** structural drying capacity optimized for 174ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Middlesex County. Relative Humidity Threshold: 82%. Sensor sync: Active.

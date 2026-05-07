@@ -12,6 +12,7 @@ lng: -76.7100
 zipSample: ["17407"]
 zipCodes: ["17407"]
 localPaths: ["York County / primary ZIP 17407", "York County / elevation 686 ft band", "York County / ZIP 17407 sector", "York County / coords 39.8800, -76.7100"]
+zillowHomeValueUsd: 325462
 ---
 
 **Engineering Notice for Jacobus:** structural drying capacity optimized for 686ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: York County. Relative Humidity Threshold: 78%. Sensor sync: Active.

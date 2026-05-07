@@ -12,6 +12,7 @@ lng: -87.7000
 zipSample: ["60803"]
 zipCodes: ["60803"]
 localPaths: ["Cook County / coords 41.6800, -87.7000", "Cook County / primary ZIP 60803", "Cook County / elevation 623 ft band", "Cook County / ZIP 60803 sector"]
+zillowHomeValueUsd: 255657
 ---
 
 **Engineering Notice for Merrionette Park:** structural drying capacity optimized for 623ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cook County. Relative Humidity Threshold: 82%. Sensor sync: Active.

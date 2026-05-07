@@ -12,6 +12,7 @@ lng: -122.5200
 zipSample: ["94945"]
 zipCodes: ["94945"]
 localPaths: ["Marin County / elevation 141 ft band", "Marin County / ZIP 94945 sector", "Marin County / primary ZIP 94945", "Marin County / coords 38.1100, -122.5200"]
+zillowHomeValueUsd: 1082475
 ---
 
 **Engineering Notice for Black Point-Green Point:** structural drying capacity optimized for 141ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marin County. Relative Humidity Threshold: 70%. Sensor sync: Active.

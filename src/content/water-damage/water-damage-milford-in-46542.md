@@ -12,6 +12,7 @@ lng: -85.8400
 zipSample: ["46542"]
 zipCodes: ["46542"]
 localPaths: ["Kosciusko County / ZIP 46542 sector", "Kosciusko County / coords 41.4100, -85.8400", "Kosciusko County / elevation 827 ft band", "Kosciusko County / primary ZIP 46542"]
+zillowHomeValueUsd: 274088
 ---
 
 **Engineering Notice for Milford:** structural drying capacity optimized for 827ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kosciusko County. Relative Humidity Threshold: 85%. Sensor sync: Active.

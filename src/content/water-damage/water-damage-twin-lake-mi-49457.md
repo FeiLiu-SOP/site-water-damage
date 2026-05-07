@@ -12,6 +12,7 @@ lng: -86.1800
 zipSample: ["49457"]
 zipCodes: ["49457"]
 localPaths: ["Muskegon County / elevation 722 ft band", "Muskegon County / primary ZIP 49457", "Muskegon County / ZIP 49457 sector", "Muskegon County / coords 43.3700, -86.1800"]
+zillowHomeValueUsd: 273771
 ---
 
 **Engineering Notice for Twin Lake:** structural drying capacity optimized for 722ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Muskegon County. Relative Humidity Threshold: 85%. Sensor sync: Active.

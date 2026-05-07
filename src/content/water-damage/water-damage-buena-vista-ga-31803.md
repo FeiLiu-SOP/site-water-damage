@@ -12,6 +12,7 @@ lng: -84.5200
 zipSample: ["31803"]
 zipCodes: ["31803"]
 localPaths: ["Marion County / primary ZIP 31803", "Marion County / elevation 712 ft band", "Marion County / ZIP 31803 sector", "Marion County / coords 32.3200, -84.5200"]
+zillowHomeValueUsd: 177787
 ---
 
 **Engineering Notice for Buena Vista:** structural drying capacity optimized for 712ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marion County. Relative Humidity Threshold: 75%. Sensor sync: Active.

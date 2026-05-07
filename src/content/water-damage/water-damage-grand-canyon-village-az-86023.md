@@ -12,6 +12,8 @@ lng: -112.1600
 zipSample: ["86023"]
 zipCodes: ["86023"]
 localPaths: ["Coconino County / primary ZIP 86023", "Coconino County / coords 36.0500, -112.1600", "Coconino County / ZIP 86023 sector", "Coconino County / elevation 6788 ft band"]
+zillowHomeValueUsd: 436515
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Grand Canyon Village:** structural drying capacity optimized for 6788ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Coconino County. Relative Humidity Threshold: 74%. Sensor sync: Active.

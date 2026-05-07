@@ -12,6 +12,7 @@ lng: -93.7500
 zipSample: ["77632"]
 zipCodes: ["77632"]
 localPaths: ["Orange County / coords 30.1800, -93.7500", "Orange County / primary ZIP 77632", "Orange County / ZIP 77632 sector", "Orange County / elevation 49 ft band"]
+zillowHomeValueUsd: 222934
 ---
 
 **Engineering Notice for Little Cypress:** structural drying capacity optimized for 49ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Orange County. Relative Humidity Threshold: 84%. Sensor sync: Active.

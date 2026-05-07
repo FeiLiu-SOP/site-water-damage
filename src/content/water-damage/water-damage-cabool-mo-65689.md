@@ -12,6 +12,7 @@ lng: -92.1000
 zipSample: ["65689"]
 zipCodes: ["65689"]
 localPaths: ["Texas County / ZIP 65689 sector", "Texas County / coords 37.1300, -92.1000", "Texas County / primary ZIP 65689", "Texas County / elevation 1342 ft band"]
+zillowHomeValueUsd: 187953
 ---
 
 **Engineering Notice for Cabool:** structural drying capacity optimized for 1342ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Texas County. Relative Humidity Threshold: 66%. Sensor sync: Active.

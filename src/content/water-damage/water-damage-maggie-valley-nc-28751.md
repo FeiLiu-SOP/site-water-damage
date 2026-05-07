@@ -12,6 +12,7 @@ lng: -83.0600
 zipSample: ["28785", "28751"]
 zipCodes: ["28785", "28751"]
 localPaths: ["Haywood County / ZIP 28785 sector", "Haywood County / primary ZIP 28751", "Haywood County / coords 35.5200, -83.0600", "Haywood County / ZIP 28751 sector", "Haywood County / elevation 3556 ft band"]
+zillowHomeValueUsd: 389193
 ---
 
 **Engineering Notice for Maggie Valley:** structural drying capacity optimized for 3556ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Haywood County. Relative Humidity Threshold: 74%. Sensor sync: Active.

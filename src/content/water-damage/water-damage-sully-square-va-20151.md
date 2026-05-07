@@ -12,6 +12,7 @@ lng: -77.4200
 zipSample: ["20151", "20171"]
 zipCodes: ["20151", "20171"]
 localPaths: ["Fairfax County / primary ZIP 20151", "Fairfax County / ZIP 20171 sector", "Fairfax County / elevation 344 ft band", "Fairfax County / ZIP 20151 sector", "Fairfax County / coords 38.9200, -77.4200"]
+zillowHomeValueUsd: 763406
 ---
 
 **Engineering Notice for Sully Square:** structural drying capacity optimized for 344ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fairfax County. Relative Humidity Threshold: 67%. Sensor sync: Active.

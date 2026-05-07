@@ -12,6 +12,7 @@ lng: -75.4000
 zipSample: ["19061"]
 zipCodes: ["19061"]
 localPaths: ["Delaware County / coords 39.8200, -75.4000", "Delaware County / primary ZIP 19061", "Delaware County / elevation 46 ft band", "Delaware County / ZIP 19061 sector"]
+zillowHomeValueUsd: 275767
 ---
 
 **Engineering Notice for Trainer:** structural drying capacity optimized for 46ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Delaware County. Relative Humidity Threshold: 76%. Sensor sync: Active.

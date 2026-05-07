@@ -12,6 +12,7 @@ lng: -74.9300
 zipSample: ["19047"]
 zipCodes: ["19047"]
 localPaths: ["Bucks County / primary ZIP 19047", "Bucks County / ZIP 19047 sector", "Bucks County / elevation 200 ft band", "Bucks County / coords 40.1600, -74.9300"]
+zillowHomeValueUsd: 560835
 ---
 
 **Engineering Notice for Parkland:** structural drying capacity optimized for 200ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bucks County. Relative Humidity Threshold: 73%. Sensor sync: Active.

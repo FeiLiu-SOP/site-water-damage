@@ -12,6 +12,7 @@ lng: -84.1900
 zipSample: ["45066"]
 zipCodes: ["45066"]
 localPaths: ["Warren County / ZIP 45066 sector", "Warren County / coords 39.5600, -84.1900", "Warren County / elevation 1001 ft band", "Warren County / primary ZIP 45066"]
+zillowHomeValueUsd: 428417
 ---
 
 **Engineering Notice for Five Points:** structural drying capacity optimized for 1001ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Warren County. Relative Humidity Threshold: 82%. Sensor sync: Active.

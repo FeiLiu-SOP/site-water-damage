@@ -12,6 +12,7 @@ lng: -94.4800
 zipSample: ["64119", "64068"]
 zipCodes: ["64068", "64119"]
 localPaths: ["Clay County / ZIP 64119 sector", "Clay County / coords 39.2000, -94.4800", "Clay County / elevation 833 ft band", "Clay County / ZIP 64068 sector", "Clay County / primary ZIP 64068"]
+zillowHomeValueUsd: 326591
 ---
 
 **Engineering Notice for Claycomo:** structural drying capacity optimized for 833ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clay County. Relative Humidity Threshold: 75%. Sensor sync: Active.

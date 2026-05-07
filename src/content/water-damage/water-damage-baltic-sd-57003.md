@@ -12,6 +12,7 @@ lng: -96.7400
 zipSample: ["57003"]
 zipCodes: ["57003"]
 localPaths: ["Minnehaha County / coords 43.7600, -96.7400", "Minnehaha County / primary ZIP 57003", "Minnehaha County / elevation 1499 ft band", "Minnehaha County / ZIP 57003 sector"]
+zillowHomeValueUsd: 353477
 ---
 
 **Engineering Notice for Baltic:** structural drying capacity optimized for 1499ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Minnehaha County. Relative Humidity Threshold: 84%. Sensor sync: Active.

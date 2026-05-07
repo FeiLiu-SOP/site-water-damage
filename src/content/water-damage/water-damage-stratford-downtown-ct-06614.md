@@ -12,6 +12,7 @@ lng: -73.1300
 zipSample: ["06615", "06614"]
 zipCodes: ["06615", "06614"]
 localPaths: ["Greater Bridgeport County / primary ZIP 06614", "Greater Bridgeport County / elevation 23 ft band", "Greater Bridgeport County / ZIP 06615 sector", "Greater Bridgeport County / coords 41.2000, -73.1300", "Greater Bridgeport County / ZIP 06614 sector"]
+zillowHomeValueUsd: 465816
 ---
 
 **Engineering Notice for Stratford Downtown:** structural drying capacity optimized for 23ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Greater Bridgeport County. Relative Humidity Threshold: 72%. Sensor sync: Active.

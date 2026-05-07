@@ -12,6 +12,7 @@ lng: -74.8800
 zipSample: ["08094"]
 zipCodes: ["08094"]
 localPaths: ["Atlantic County / ZIP 08094 sector", "Atlantic County / coords 39.5900, -74.8800", "Atlantic County / primary ZIP 08094", "Atlantic County / elevation 92 ft band"]
+zillowHomeValueUsd: 365842
 ---
 
 **Engineering Notice for Collings Lakes:** structural drying capacity optimized for 92ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Atlantic County. Relative Humidity Threshold: 68%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -122.8700
 zipSample: ["95472", "95444"]
 zipCodes: ["95472", "95444"]
 localPaths: ["Sonoma County / ZIP 95472 sector", "Sonoma County / primary ZIP 95444", "Sonoma County / coords 38.4400, -122.8700", "Sonoma County / elevation 203 ft band", "Sonoma County / ZIP 95444 sector"]
+zillowHomeValueUsd: 822596
 ---
 
 **Engineering Notice for Graton:** structural drying capacity optimized for 203ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sonoma County. Relative Humidity Threshold: 67%. Sensor sync: Active.

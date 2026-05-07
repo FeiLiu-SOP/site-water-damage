@@ -12,6 +12,7 @@ lng: -96.9100
 zipSample: ["76233"]
 zipCodes: ["76233"]
 localPaths: ["Grayson County / ZIP 76233 sector", "Grayson County / coords 33.5600, -96.9100", "Grayson County / primary ZIP 76233", "Grayson County / elevation 748 ft band"]
+zillowHomeValueUsd: 382346
 ---
 
 **Engineering Notice for Collinsville:** structural drying capacity optimized for 748ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grayson County. Relative Humidity Threshold: 66%. Sensor sync: Active.

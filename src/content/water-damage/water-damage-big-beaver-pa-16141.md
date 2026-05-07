@@ -12,6 +12,7 @@ lng: -80.3600
 zipSample: ["16141", "16115", "16157", "15010", "16136"]
 zipCodes: ["16115", "15010", "16136", "16141", "16157"]
 localPaths: ["Beaver County / elevation 1106 ft band", "Beaver County / ZIP 16115 sector", "Beaver County / primary ZIP 16141", "Beaver County / coords 40.8200, -80.3600", "Beaver County / ZIP 16157 sector"]
+zillowHomeValueUsd: 184046
 ---
 
 **Engineering Notice for Big Beaver:** structural drying capacity optimized for 1106ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Beaver County. Relative Humidity Threshold: 70%. Sensor sync: Active.

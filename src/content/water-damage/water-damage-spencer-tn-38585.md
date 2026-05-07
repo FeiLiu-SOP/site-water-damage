@@ -12,6 +12,7 @@ lng: -85.4600
 zipSample: ["38585"]
 zipCodes: ["38585"]
 localPaths: ["Van Buren County / primary ZIP 38585", "Van Buren County / elevation 1814 ft band", "Van Buren County / ZIP 38585 sector", "Van Buren County / coords 35.7400, -85.4600"]
+zillowHomeValueUsd: 202497
 ---
 
 **Engineering Notice for Spencer:** structural drying capacity optimized for 1814ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Van Buren County. Relative Humidity Threshold: 80%. Sensor sync: Active.

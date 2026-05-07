@@ -12,6 +12,7 @@ lng: -74.1300
 zipSample: ["08740"]
 zipCodes: ["08740"]
 localPaths: ["Ocean County / elevation 20 ft band", "Ocean County / coords 39.9300, -74.1300", "Ocean County / ZIP 08740 sector", "Ocean County / primary ZIP 08740"]
+zillowHomeValueUsd: 440216
 ---
 
 **Engineering Notice for Ocean Gate:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ocean County. Relative Humidity Threshold: 65%. Sensor sync: Active.

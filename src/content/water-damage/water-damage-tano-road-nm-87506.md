@@ -12,6 +12,7 @@ lng: -105.9800
 zipSample: ["87506"]
 zipCodes: ["87506"]
 localPaths: ["Santa Fe County / ZIP 87506 sector", "Santa Fe County / coords 35.7400, -105.9800", "Santa Fe County / primary ZIP 87506", "Santa Fe County / elevation 7064 ft band"]
+zillowHomeValueUsd: 1093183
 ---
 
 **Engineering Notice for Tano Road:** structural drying capacity optimized for 7064ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Santa Fe County. Relative Humidity Threshold: 69%. Sensor sync: Active.

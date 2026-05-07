@@ -12,6 +12,8 @@ lng: -81.8500
 zipSample: ["29323", "29330", "29368"]
 zipCodes: ["29368", "29323", "29330"]
 localPaths: ["Spartanburg County / primary ZIP 29368", "Spartanburg County / coords 35.0900, -81.8500", "Spartanburg County / elevation 879 ft band", "Spartanburg County / ZIP 29330 sector", "Spartanburg County / ZIP 29323 sector"]
+zillowHomeValueUsd: 292170
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Mayo:** structural drying capacity optimized for 879ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Spartanburg County. Relative Humidity Threshold: 84%. Sensor sync: Active.

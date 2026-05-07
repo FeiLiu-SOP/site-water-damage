@@ -12,6 +12,7 @@ lng: -87.1600
 zipSample: ["42220"]
 zipCodes: ["42220"]
 localPaths: ["Todd County / coords 36.8100, -87.1600", "Todd County / ZIP 42220 sector", "Todd County / primary ZIP 42220", "Todd County / elevation 600 ft band"]
+zillowHomeValueUsd: 213483
 ---
 
 **Engineering Notice for Elkton:** structural drying capacity optimized for 600ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Todd County. Relative Humidity Threshold: 65%. Sensor sync: Active.

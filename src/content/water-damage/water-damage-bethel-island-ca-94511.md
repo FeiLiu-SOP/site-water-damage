@@ -12,6 +12,7 @@ lng: -121.6400
 zipSample: ["94511"]
 zipCodes: ["94511"]
 localPaths: ["Contra Costa County / elevation -8 ft band", "Contra Costa County / coords 38.0300, -121.6400", "Contra Costa County / ZIP 94511 sector", "Contra Costa County / primary ZIP 94511"]
+zillowHomeValueUsd: 629499
 ---
 
 **Engineering Notice for Bethel Island:** structural drying capacity optimized for -8ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Contra Costa County. Relative Humidity Threshold: 73%. Sensor sync: Active.

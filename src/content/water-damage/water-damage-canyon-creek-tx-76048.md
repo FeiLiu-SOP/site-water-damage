@@ -12,6 +12,7 @@ lng: -97.7400
 zipSample: ["76048"]
 zipCodes: ["76048"]
 localPaths: ["Hood County / elevation 807 ft band", "Hood County / ZIP 76048 sector", "Hood County / primary ZIP 76048", "Hood County / coords 32.3900, -97.7400"]
+zillowHomeValueUsd: 311612
 ---
 
 **Engineering Notice for Canyon Creek:** structural drying capacity optimized for 807ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hood County. Relative Humidity Threshold: 82%. Sensor sync: Active.

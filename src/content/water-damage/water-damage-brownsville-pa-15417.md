@@ -12,6 +12,7 @@ lng: -79.8900
 zipSample: ["15417"]
 zipCodes: ["15417"]
 localPaths: ["Fayette County / elevation 906 ft band", "Fayette County / coords 40.0200, -79.8900", "Fayette County / ZIP 15417 sector", "Fayette County / primary ZIP 15417"]
+zillowHomeValueUsd: 96562
 ---
 
 **Engineering Notice for Brownsville:** structural drying capacity optimized for 906ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fayette County. Relative Humidity Threshold: 85%. Sensor sync: Active.

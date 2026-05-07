@@ -12,6 +12,7 @@ lng: -111.4100
 zipSample: ["84017"]
 zipCodes: ["84017"]
 localPaths: ["Summit County / elevation 5863 ft band", "Summit County / primary ZIP 84017", "Summit County / coords 40.9100, -111.4100", "Summit County / ZIP 84017 sector"]
+zillowHomeValueUsd: 706036
 ---
 
 **Engineering Notice for Coalville:** structural drying capacity optimized for 5863ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Summit County. Relative Humidity Threshold: 69%. Sensor sync: Active.

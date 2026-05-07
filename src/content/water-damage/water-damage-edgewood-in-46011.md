@@ -12,6 +12,7 @@ lng: -85.7400
 zipSample: ["46011"]
 zipCodes: ["46011"]
 localPaths: ["Madison County / elevation 883 ft band", "Madison County / primary ZIP 46011", "Madison County / coords 40.1000, -85.7400", "Madison County / ZIP 46011 sector"]
+zillowHomeValueUsd: 210079
 ---
 
 **Engineering Notice for Edgewood:** structural drying capacity optimized for 883ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Madison County. Relative Humidity Threshold: 78%. Sensor sync: Active.

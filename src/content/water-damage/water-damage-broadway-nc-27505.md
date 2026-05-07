@@ -12,6 +12,7 @@ lng: -79.0500
 zipSample: ["27505"]
 zipCodes: ["27505"]
 localPaths: ["Lee County / ZIP 27505 sector", "Lee County / primary ZIP 27505", "Lee County / coords 35.4600, -79.0500", "Lee County / elevation 469 ft band"]
+zillowHomeValueUsd: 274841
 ---
 
 **Engineering Notice for Broadway:** structural drying capacity optimized for 469ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lee County. Relative Humidity Threshold: 66%. Sensor sync: Active.

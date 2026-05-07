@@ -12,6 +12,7 @@ lng: -122.9400
 zipSample: ["97048"]
 zipCodes: ["97048"]
 localPaths: ["Columbia County / ZIP 97048 sector", "Columbia County / primary ZIP 97048", "Columbia County / elevation 236 ft band", "Columbia County / coords 46.0800, -122.9400"]
+zillowHomeValueUsd: 419669
 ---
 
 **Engineering Notice for Rainier:** structural drying capacity optimized for 236ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Columbia County. Relative Humidity Threshold: 66%. Sensor sync: Active.

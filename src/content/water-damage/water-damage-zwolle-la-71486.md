@@ -12,6 +12,7 @@ lng: -93.6400
 zipSample: ["71486"]
 zipCodes: ["71486"]
 localPaths: ["Sabine Parish / elevation 256 ft band", "Sabine Parish / primary ZIP 71486", "Sabine Parish / ZIP 71486 sector", "Sabine Parish / coords 31.6400, -93.6400"]
+zillowHomeValueUsd: 187515
 ---
 
 **Engineering Notice for Zwolle:** structural drying capacity optimized for 256ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sabine Parish. Relative Humidity Threshold: 72%. Sensor sync: Active.

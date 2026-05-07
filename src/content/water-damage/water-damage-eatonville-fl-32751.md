@@ -12,6 +12,7 @@ lng: -81.3900
 zipSample: ["32751", "32810"]
 zipCodes: ["32751", "32810"]
 localPaths: ["Orange County / primary ZIP 32751", "Orange County / ZIP 32751 sector", "Orange County / ZIP 32810 sector", "Orange County / elevation 105 ft band", "Orange County / coords 28.6200, -81.3900"]
+zillowHomeValueUsd: 461496
 ---
 
 **Engineering Notice for Eatonville:** structural drying capacity optimized for 105ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Orange County. Relative Humidity Threshold: 69%. Sensor sync: Active.

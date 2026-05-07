@@ -12,6 +12,7 @@ lng: -92.5900
 zipSample: ["72619"]
 zipCodes: ["72619"]
 localPaths: ["Marion County / primary ZIP 72619", "Marion County / elevation 591 ft band", "Marion County / ZIP 72619 sector", "Marion County / coords 36.3700, -92.5900"]
+zillowHomeValueUsd: 205775
 ---
 
 **Engineering Notice for Bull Shoals:** structural drying capacity optimized for 591ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marion County. Relative Humidity Threshold: 76%. Sensor sync: Active.

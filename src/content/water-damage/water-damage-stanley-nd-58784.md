@@ -12,6 +12,7 @@ lng: -102.4000
 zipSample: ["58784"]
 zipCodes: ["58784"]
 localPaths: ["Mountrail County / coords 48.3100, -102.4000", "Mountrail County / elevation 2241 ft band", "Mountrail County / ZIP 58784 sector", "Mountrail County / primary ZIP 58784"]
+zillowHomeValueUsd: 234420
 ---
 
 **Engineering Notice for Stanley:** structural drying capacity optimized for 2241ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mountrail County. Relative Humidity Threshold: 81%. Sensor sync: Active.

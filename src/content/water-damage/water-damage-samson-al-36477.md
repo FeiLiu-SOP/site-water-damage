@@ -12,6 +12,7 @@ lng: -86.0500
 zipSample: ["36477"]
 zipCodes: ["36477"]
 localPaths: ["Geneva County / primary ZIP 36477", "Geneva County / ZIP 36477 sector", "Geneva County / elevation 223 ft band", "Geneva County / coords 31.1100, -86.0500"]
+zillowHomeValueUsd: 148297
 ---
 
 **Engineering Notice for Samson:** structural drying capacity optimized for 223ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Geneva County. Relative Humidity Threshold: 78%. Sensor sync: Active.

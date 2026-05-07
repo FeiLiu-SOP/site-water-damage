@@ -12,6 +12,7 @@ lng: -85.5100
 zipSample: ["30752"]
 zipCodes: ["30752"]
 localPaths: ["Dade County / primary ZIP 30752", "Dade County / coords 34.8700, -85.5100", "Dade County / ZIP 30752 sector", "Dade County / elevation 738 ft band"]
+zillowHomeValueUsd: 237085
 ---
 
 **Engineering Notice for Trenton:** structural drying capacity optimized for 738ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dade County. Relative Humidity Threshold: 81%. Sensor sync: Active.

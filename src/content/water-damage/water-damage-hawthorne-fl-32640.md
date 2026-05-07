@@ -12,6 +12,7 @@ lng: -82.0900
 zipSample: ["32640"]
 zipCodes: ["32640"]
 localPaths: ["Alachua County / coords 29.5900, -82.0900", "Alachua County / primary ZIP 32640", "Alachua County / elevation 174 ft band", "Alachua County / ZIP 32640 sector"]
+zillowHomeValueUsd: 233373
 ---
 
 **Engineering Notice for Hawthorne:** structural drying capacity optimized for 174ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Alachua County. Relative Humidity Threshold: 67%. Sensor sync: Active.

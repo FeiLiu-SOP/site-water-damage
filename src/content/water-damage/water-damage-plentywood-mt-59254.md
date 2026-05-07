@@ -12,6 +12,7 @@ lng: -104.5600
 zipSample: ["59254"]
 zipCodes: ["59254"]
 localPaths: ["Sheridan County / elevation 2047 ft band", "Sheridan County / coords 48.7800, -104.5600", "Sheridan County / ZIP 59254 sector", "Sheridan County / primary ZIP 59254"]
+zillowHomeValueUsd: 163091
 ---
 
 **Engineering Notice for Plentywood:** structural drying capacity optimized for 2047ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sheridan County. Relative Humidity Threshold: 72%. Sensor sync: Active.

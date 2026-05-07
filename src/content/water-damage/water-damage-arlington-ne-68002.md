@@ -12,6 +12,7 @@ lng: -96.3600
 zipSample: ["68002"]
 zipCodes: ["68002"]
 localPaths: ["Washington County / primary ZIP 68002", "Washington County / ZIP 68002 sector", "Washington County / elevation 1220 ft band", "Washington County / coords 41.4500, -96.3600"]
+zillowHomeValueUsd: 372640
 ---
 
 **Engineering Notice for Arlington:** structural drying capacity optimized for 1220ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 84%. Sensor sync: Active.

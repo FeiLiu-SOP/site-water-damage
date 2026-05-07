@@ -12,6 +12,7 @@ lng: -91.2100
 zipSample: ["70339"]
 zipCodes: ["70339"]
 localPaths: ["Assumption Parish / coords 29.9600, -91.2100", "Assumption Parish / elevation 36 ft band", "Assumption Parish / ZIP 70339 sector", "Assumption Parish / primary ZIP 70339"]
+zillowHomeValueUsd: 205210
 ---
 
 **Engineering Notice for Pierre Part:** structural drying capacity optimized for 36ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Assumption Parish. Relative Humidity Threshold: 84%. Sensor sync: Active.

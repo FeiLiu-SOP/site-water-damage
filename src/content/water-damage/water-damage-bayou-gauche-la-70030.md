@@ -12,6 +12,7 @@ lng: -90.4200
 zipSample: ["70030"]
 zipCodes: ["70030"]
 localPaths: ["St. Charles Parish / ZIP 70030 sector", "St. Charles Parish / coords 29.8100, -90.4200", "St. Charles Parish / elevation 10 ft band", "St. Charles Parish / primary ZIP 70030"]
+zillowHomeValueUsd: 226598
 ---
 
 **Engineering Notice for Bayou Gauche:** structural drying capacity optimized for 10ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Charles Parish. Relative Humidity Threshold: 77%. Sensor sync: Active.

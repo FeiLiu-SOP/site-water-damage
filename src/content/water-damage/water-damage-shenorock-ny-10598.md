@@ -12,6 +12,7 @@ lng: -73.7400
 zipSample: ["10587", "10598"]
 zipCodes: ["10598", "10587"]
 localPaths: ["Westchester County / primary ZIP 10598", "Westchester County / ZIP 10587 sector", "Westchester County / coords 41.3300, -73.7400", "Westchester County / elevation 502 ft band", "Westchester County / ZIP 10598 sector"]
+zillowHomeValueUsd: 700229
 ---
 
 **Engineering Notice for Shenorock:** structural drying capacity optimized for 502ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Westchester County. Relative Humidity Threshold: 74%. Sensor sync: Active.

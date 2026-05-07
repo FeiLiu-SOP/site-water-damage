@@ -12,6 +12,7 @@ lng: -73.6000
 zipSample: ["11548", "11545"]
 zipCodes: ["11545", "11548"]
 localPaths: ["Nassau County / primary ZIP 11545", "Nassau County / ZIP 11548 sector", "Nassau County / ZIP 11545 sector", "Nassau County / elevation 121 ft band", "Nassau County / coords 40.8300, -73.6000"]
+zillowHomeValueUsd: 1543049
 ---
 
 **Engineering Notice for Old Brookville:** structural drying capacity optimized for 121ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Nassau County. Relative Humidity Threshold: 73%. Sensor sync: Active.

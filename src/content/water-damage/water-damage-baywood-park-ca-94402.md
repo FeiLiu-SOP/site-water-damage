@@ -12,6 +12,7 @@ lng: -122.3400
 zipSample: ["94402"]
 zipCodes: ["94402"]
 localPaths: ["San Mateo County / primary ZIP 94402", "San Mateo County / ZIP 94402 sector", "San Mateo County / coords 37.5300, -122.3400", "San Mateo County / elevation 515 ft band"]
+zillowHomeValueUsd: 2475195
 ---
 
 **Engineering Notice for Baywood Park:** structural drying capacity optimized for 515ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Mateo County. Relative Humidity Threshold: 79%. Sensor sync: Active.

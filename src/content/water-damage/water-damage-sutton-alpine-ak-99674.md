@@ -12,6 +12,7 @@ lng: -148.8500
 zipSample: ["99674"]
 zipCodes: ["99674"]
 localPaths: ["Matanuska-Susitna County / elevation 0 ft band", "Matanuska-Susitna County / ZIP 99674 sector", "Matanuska-Susitna County / primary ZIP 99674", "Matanuska-Susitna County / coords 61.7400, -148.8500"]
+zillowHomeValueUsd: 279288
 ---
 
 **Engineering Notice for Sutton-Alpine:** structural drying capacity optimized for 0ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Matanuska-Susitna County. Relative Humidity Threshold: 71%. Sensor sync: Active.

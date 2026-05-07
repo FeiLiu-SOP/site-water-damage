@@ -12,6 +12,7 @@ lng: -87.4400
 zipSample: ["38469"]
 zipCodes: ["38469"]
 localPaths: ["Lawrence County / ZIP 38469 sector", "Lawrence County / coords 35.0800, -87.4400", "Lawrence County / elevation 846 ft band", "Lawrence County / primary ZIP 38469"]
+zillowHomeValueUsd: 238680
 ---
 
 **Engineering Notice for Loretto:** structural drying capacity optimized for 846ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lawrence County. Relative Humidity Threshold: 81%. Sensor sync: Active.

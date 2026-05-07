@@ -12,6 +12,7 @@ lng: -94.1200
 zipSample: ["50072"]
 zipCodes: ["50072"]
 localPaths: ["Madison County / primary ZIP 50072", "Madison County / coords 41.4900, -94.1200", "Madison County / ZIP 50072 sector", "Madison County / elevation 1112 ft band"]
+zillowHomeValueUsd: 363821
 ---
 
 **Engineering Notice for Earlham:** structural drying capacity optimized for 1112ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Madison County. Relative Humidity Threshold: 73%. Sensor sync: Active.

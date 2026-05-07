@@ -12,6 +12,7 @@ lng: -80.2300
 zipSample: ["15057"]
 zipCodes: ["15057"]
 localPaths: ["Washington County / elevation 984 ft band", "Washington County / ZIP 15057 sector", "Washington County / coords 40.3700, -80.2300", "Washington County / primary ZIP 15057"]
+zillowHomeValueUsd: 391669
 ---
 
 **Engineering Notice for McDonald:** structural drying capacity optimized for 984ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 70%. Sensor sync: Active.

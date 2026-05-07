@@ -12,6 +12,7 @@ lng: -87.0400
 zipSample: ["35023"]
 zipCodes: ["35023"]
 localPaths: ["Jefferson County / elevation 587 ft band", "Jefferson County / primary ZIP 35023", "Jefferson County / coords 33.4700, -87.0400", "Jefferson County / ZIP 35023 sector"]
+zillowHomeValueUsd: 170632
 ---
 
 **Engineering Notice for Concord:** structural drying capacity optimized for 587ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 66%. Sensor sync: Active.

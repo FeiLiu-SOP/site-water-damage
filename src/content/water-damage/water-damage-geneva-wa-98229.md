@@ -12,6 +12,7 @@ lng: -122.4000
 zipSample: ["98229"]
 zipCodes: ["98229"]
 localPaths: ["Whatcom County / elevation 499 ft band", "Whatcom County / coords 48.7400, -122.4000", "Whatcom County / ZIP 98229 sector", "Whatcom County / primary ZIP 98229"]
+zillowHomeValueUsd: 694560
 ---
 
 **Engineering Notice for Geneva:** structural drying capacity optimized for 499ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Whatcom County. Relative Humidity Threshold: 84%. Sensor sync: Active.

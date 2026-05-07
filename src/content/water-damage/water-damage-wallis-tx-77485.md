@@ -12,6 +12,7 @@ lng: -96.0600
 zipSample: ["77485"]
 zipCodes: ["77485"]
 localPaths: ["Austin County / coords 29.6300, -96.0600", "Austin County / ZIP 77485 sector", "Austin County / elevation 138 ft band", "Austin County / primary ZIP 77485"]
+zillowHomeValueUsd: 328746
 ---
 
 **Engineering Notice for Wallis:** structural drying capacity optimized for 138ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Austin County. Relative Humidity Threshold: 66%. Sensor sync: Active.

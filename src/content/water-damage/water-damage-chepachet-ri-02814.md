@@ -12,6 +12,7 @@ lng: -71.6700
 zipSample: ["02814"]
 zipCodes: ["02814"]
 localPaths: ["Providence County / elevation 479 ft band", "Providence County / primary ZIP 02814", "Providence County / ZIP 02814 sector", "Providence County / coords 41.9100, -71.6700"]
+zillowHomeValueUsd: 490024
 ---
 
 **Engineering Notice for Chepachet:** structural drying capacity optimized for 479ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Providence County. Relative Humidity Threshold: 79%. Sensor sync: Active.

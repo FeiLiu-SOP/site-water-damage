@@ -12,6 +12,7 @@ lng: -81.7500
 zipSample: ["31316"]
 zipCodes: ["31316"]
 localPaths: ["Long County / primary ZIP 31316", "Long County / ZIP 31316 sector", "Long County / coords 31.7100, -81.7500", "Long County / elevation 75 ft band"]
+zillowHomeValueUsd: 287776
 ---
 
 **Engineering Notice for Ludowici:** structural drying capacity optimized for 75ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Long County. Relative Humidity Threshold: 79%. Sensor sync: Active.

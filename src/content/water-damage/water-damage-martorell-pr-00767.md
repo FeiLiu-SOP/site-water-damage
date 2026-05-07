@@ -12,6 +12,8 @@ lng: -65.9000
 zipSample: ["00767"]
 zipCodes: ["00767"]
 localPaths: ["Yabucoa County / elevation 92 ft band", "Yabucoa County / primary ZIP 00767", "Yabucoa County / coords 18.0700, -65.9000", "Yabucoa County / ZIP 00767 sector"]
+zillowHomeValueUsd: 366838
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Martorell:** structural drying capacity optimized for 92ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Yabucoa County. Relative Humidity Threshold: 74%. Sensor sync: Active.

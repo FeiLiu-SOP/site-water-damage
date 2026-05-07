@@ -12,6 +12,7 @@ lng: -75.8700
 zipSample: ["19606"]
 zipCodes: ["19606"]
 localPaths: ["Berks County / ZIP 19606 sector", "Berks County / primary ZIP 19606", "Berks County / elevation 364 ft band", "Berks County / coords 40.3300, -75.8700"]
+zillowHomeValueUsd: 297204
 ---
 
 **Engineering Notice for St. Lawrence:** structural drying capacity optimized for 364ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Berks County. Relative Humidity Threshold: 76%. Sensor sync: Active.

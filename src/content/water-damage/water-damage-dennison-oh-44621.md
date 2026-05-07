@@ -12,6 +12,7 @@ lng: -81.3300
 zipSample: ["44621"]
 zipCodes: ["44621"]
 localPaths: ["Tuscarawas County / elevation 860 ft band", "Tuscarawas County / primary ZIP 44621", "Tuscarawas County / coords 40.4000, -81.3300", "Tuscarawas County / ZIP 44621 sector"]
+zillowHomeValueUsd: 150211
 ---
 
 **Engineering Notice for Dennison:** structural drying capacity optimized for 860ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tuscarawas County. Relative Humidity Threshold: 66%. Sensor sync: Active.

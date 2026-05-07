@@ -12,6 +12,7 @@ lng: -84.0600
 zipSample: ["45830"]
 zipCodes: ["45830"]
 localPaths: ["Putnam County / elevation 758 ft band", "Putnam County / coords 40.9200, -84.0600", "Putnam County / ZIP 45830 sector", "Putnam County / primary ZIP 45830"]
+zillowHomeValueUsd: 235593
 ---
 
 **Engineering Notice for Columbus Grove:** structural drying capacity optimized for 758ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Putnam County. Relative Humidity Threshold: 77%. Sensor sync: Active.

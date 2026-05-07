@@ -12,6 +12,7 @@ lng: -81.2700
 zipSample: ["31419"]
 zipCodes: ["31419"]
 localPaths: ["Chatham County / coords 32.0100, -81.2700", "Chatham County / elevation 59 ft band", "Chatham County / ZIP 31419 sector", "Chatham County / primary ZIP 31419"]
+zillowHomeValueUsd: 310273
 ---
 
 **Engineering Notice for Henderson:** structural drying capacity optimized for 59ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chatham County. Relative Humidity Threshold: 69%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -83.2900
 zipSample: ["43416"]
 zipCodes: ["43416"]
 localPaths: ["Ottawa County / elevation 614 ft band", "Ottawa County / coords 41.4700, -83.2900", "Ottawa County / ZIP 43416 sector", "Ottawa County / primary ZIP 43416"]
+zillowHomeValueUsd: 216132
 ---
 
 **Engineering Notice for Elmore:** structural drying capacity optimized for 614ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ottawa County. Relative Humidity Threshold: 79%. Sensor sync: Active.

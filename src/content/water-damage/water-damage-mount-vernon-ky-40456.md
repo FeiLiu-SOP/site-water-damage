@@ -12,6 +12,7 @@ lng: -84.3400
 zipSample: ["40456", "40473"]
 zipCodes: ["40473", "40456"]
 localPaths: ["Rockcastle County / elevation 1247 ft band", "Rockcastle County / ZIP 40473 sector", "Rockcastle County / coords 37.3700, -84.3400", "Rockcastle County / ZIP 40456 sector", "Rockcastle County / primary ZIP 40456"]
+zillowHomeValueUsd: 150025
 ---
 
 **Engineering Notice for Mount Vernon:** structural drying capacity optimized for 1247ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rockcastle County. Relative Humidity Threshold: 71%. Sensor sync: Active.

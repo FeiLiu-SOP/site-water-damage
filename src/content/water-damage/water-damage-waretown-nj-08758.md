@@ -12,6 +12,7 @@ lng: -74.1900
 zipSample: ["08758"]
 zipCodes: ["08758"]
 localPaths: ["Ocean County / ZIP 08758 sector", "Ocean County / primary ZIP 08758", "Ocean County / elevation 26 ft band", "Ocean County / coords 39.7900, -74.1900"]
+zillowHomeValueUsd: 543103
 ---
 
 **Engineering Notice for Waretown:** structural drying capacity optimized for 26ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ocean County. Relative Humidity Threshold: 75%. Sensor sync: Active.

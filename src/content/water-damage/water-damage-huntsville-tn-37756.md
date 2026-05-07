@@ -12,6 +12,7 @@ lng: -84.5100
 zipSample: ["37756", "37755"]
 zipCodes: ["37755", "37756"]
 localPaths: ["Scott County / elevation 1404 ft band", "Scott County / primary ZIP 37756", "Scott County / ZIP 37756 sector", "Scott County / coords 36.4100, -84.5100", "Scott County / ZIP 37755 sector"]
+zillowHomeValueUsd: 160030
 ---
 
 **Engineering Notice for Huntsville:** structural drying capacity optimized for 1404ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Scott County. Relative Humidity Threshold: 71%. Sensor sync: Active.

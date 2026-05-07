@@ -12,6 +12,7 @@ lng: -97.4200
 zipSample: ["67135"]
 zipCodes: ["67135"]
 localPaths: ["Harvey County / coords 37.9200, -97.4200", "Harvey County / ZIP 67135 sector", "Harvey County / elevation 1394 ft band", "Harvey County / primary ZIP 67135"]
+zillowHomeValueUsd: 243105
 ---
 
 **Engineering Notice for Sedgwick:** structural drying capacity optimized for 1394ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harvey County. Relative Humidity Threshold: 79%. Sensor sync: Active.

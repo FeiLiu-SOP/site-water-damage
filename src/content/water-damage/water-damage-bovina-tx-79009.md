@@ -12,6 +12,8 @@ lng: -102.8800
 zipSample: ["79009"]
 zipCodes: ["79009"]
 localPaths: ["Parmer County / coords 34.5200, -102.8800", "Parmer County / ZIP 79009 sector", "Parmer County / primary ZIP 79009", "Parmer County / elevation 4075 ft band"]
+zillowHomeValueUsd: 307316
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Bovina:** structural drying capacity optimized for 4075ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Parmer County. Relative Humidity Threshold: 75%. Sensor sync: Active.

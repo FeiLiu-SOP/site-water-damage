@@ -12,6 +12,8 @@ lng: -111.5800
 zipSample: ["85147", "85128"]
 zipCodes: ["85147", "85128"]
 localPaths: ["Pinal County / elevation 1355 ft band", "Pinal County / primary ZIP 85147", "Pinal County / coords 33.0400, -111.5800", "Pinal County / ZIP 85147 sector", "Pinal County / ZIP 85128 sector"]
+zillowHomeValueUsd: 424654
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Blackwater:** structural drying capacity optimized for 1355ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pinal County. Relative Humidity Threshold: 75%. Sensor sync: Active.

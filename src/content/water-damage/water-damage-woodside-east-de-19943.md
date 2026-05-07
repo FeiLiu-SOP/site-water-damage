@@ -12,6 +12,7 @@ lng: -75.5400
 zipSample: ["19943", "19962"]
 zipCodes: ["19943", "19962"]
 localPaths: ["Kent County / ZIP 19943 sector", "Kent County / coords 39.0700, -75.5400", "Kent County / ZIP 19962 sector", "Kent County / elevation 52 ft band", "Kent County / primary ZIP 19943"]
+zillowHomeValueUsd: 389112
 ---
 
 **Engineering Notice for Woodside East:** structural drying capacity optimized for 52ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kent County. Relative Humidity Threshold: 85%. Sensor sync: Active.

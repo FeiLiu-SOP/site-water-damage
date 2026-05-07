@@ -12,6 +12,7 @@ lng: -97.0100
 zipSample: ["66861"]
 zipCodes: ["66861"]
 localPaths: ["Marion County / primary ZIP 66861", "Marion County / ZIP 66861 sector", "Marion County / elevation 1355 ft band", "Marion County / coords 38.3500, -97.0100"]
+zillowHomeValueUsd: 142223
 ---
 
 **Engineering Notice for Marion:** structural drying capacity optimized for 1355ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marion County. Relative Humidity Threshold: 80%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -83.5000
 zipSample: ["30563", "30531"]
 zipCodes: ["30531", "30563"]
 localPaths: ["Habersham County / ZIP 30531 sector", "Habersham County / elevation 1483 ft band", "Habersham County / primary ZIP 30563", "Habersham County / ZIP 30563 sector", "Habersham County / coords 34.5200, -83.5000"]
+zillowHomeValueUsd: 313514
 ---
 
 **Engineering Notice for Mount Airy:** structural drying capacity optimized for 1483ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Habersham County. Relative Humidity Threshold: 65%. Sensor sync: Active.

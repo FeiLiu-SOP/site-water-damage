@@ -12,6 +12,7 @@ lng: -85.2600
 zipSample: ["37343"]
 zipCodes: ["37343"]
 localPaths: ["Hamilton County / coords 35.2000, -85.2600", "Hamilton County / elevation 702 ft band", "Hamilton County / primary ZIP 37343", "Hamilton County / ZIP 37343 sector"]
+zillowHomeValueUsd: 365368
 ---
 
 **Engineering Notice for Falling Water:** structural drying capacity optimized for 702ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hamilton County. Relative Humidity Threshold: 70%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -89.7200
 zipSample: ["70083"]
 zipCodes: ["70083"]
 localPaths: ["Plaquemines Parish / ZIP 70083 sector", "Plaquemines Parish / primary ZIP 70083", "Plaquemines Parish / elevation 13 ft band", "Plaquemines Parish / coords 29.5000, -89.7200"]
+zillowHomeValueUsd: 147185
 ---
 
 **Engineering Notice for Port Sulphur:** structural drying capacity optimized for 13ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Plaquemines Parish. Relative Humidity Threshold: 72%. Sensor sync: Active.

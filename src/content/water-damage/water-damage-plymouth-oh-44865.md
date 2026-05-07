@@ -12,6 +12,7 @@ lng: -82.6700
 zipSample: ["44865"]
 zipCodes: ["44865"]
 localPaths: ["Huron County / primary ZIP 44865", "Huron County / coords 41.0000, -82.6700", "Huron County / elevation 1014 ft band", "Huron County / ZIP 44865 sector"]
+zillowHomeValueUsd: 171243
 ---
 
 **Engineering Notice for Plymouth:** structural drying capacity optimized for 1014ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Huron County. Relative Humidity Threshold: 69%. Sensor sync: Active.

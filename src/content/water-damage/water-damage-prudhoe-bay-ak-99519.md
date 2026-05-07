@@ -12,6 +12,8 @@ lng: -148.7200
 zipSample: ["99519", "99734"]
 zipCodes: ["99734", "99519"]
 localPaths: ["North Slope County / ZIP 99734 sector", "North Slope County / elevation 0 ft band", "North Slope County / primary ZIP 99519", "North Slope County / coords 70.3100, -148.7200", "North Slope County / ZIP 99519 sector"]
+zillowHomeValueUsd: 362810
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Prudhoe Bay:** structural drying capacity optimized for 0ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: North Slope County. Relative Humidity Threshold: 65%. Sensor sync: Active.

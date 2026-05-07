@@ -12,6 +12,7 @@ lng: -76.9800
 zipSample: ["17027", "17055"]
 zipCodes: ["17055", "17027"]
 localPaths: ["Cumberland County / elevation 505 ft band", "Cumberland County / ZIP 17055 sector", "Cumberland County / primary ZIP 17055", "Cumberland County / coords 40.1600, -76.9800", "Cumberland County / ZIP 17027 sector"]
+zillowHomeValueUsd: 361590
 ---
 
 **Engineering Notice for Messiah College:** structural drying capacity optimized for 505ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cumberland County. Relative Humidity Threshold: 79%. Sensor sync: Active.

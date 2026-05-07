@@ -12,6 +12,7 @@ lng: -76.8700
 zipSample: ["14891"]
 zipCodes: ["14891"]
 localPaths: ["Schuyler County / ZIP 14891 sector", "Schuyler County / elevation 469 ft band", "Schuyler County / coords 42.3800, -76.8700", "Schuyler County / primary ZIP 14891"]
+zillowHomeValueUsd: 230575
 ---
 
 **Engineering Notice for Watkins Glen:** structural drying capacity optimized for 469ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Schuyler County. Relative Humidity Threshold: 73%. Sensor sync: Active.

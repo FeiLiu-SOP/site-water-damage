@@ -12,6 +12,7 @@ lng: -88.8700
 zipSample: ["53525"]
 zipCodes: ["53525"]
 localPaths: ["Rock County / elevation 968 ft band", "Rock County / ZIP 53525 sector", "Rock County / coords 42.5600, -88.8700", "Rock County / primary ZIP 53525"]
+zillowHomeValueUsd: 316291
 ---
 
 **Engineering Notice for Clinton:** structural drying capacity optimized for 968ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rock County. Relative Humidity Threshold: 65%. Sensor sync: Active.

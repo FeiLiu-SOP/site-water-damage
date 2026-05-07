@@ -12,6 +12,7 @@ lng: -72.5900
 zipSample: ["01373"]
 zipCodes: ["01373"]
 localPaths: ["Franklin County / ZIP 01373 sector", "Franklin County / elevation 377 ft band", "Franklin County / coords 42.4800, -72.5900", "Franklin County / primary ZIP 01373"]
+zillowHomeValueUsd: 451153
 ---
 
 **Engineering Notice for South Deerfield:** structural drying capacity optimized for 377ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Franklin County. Relative Humidity Threshold: 81%. Sensor sync: Active.

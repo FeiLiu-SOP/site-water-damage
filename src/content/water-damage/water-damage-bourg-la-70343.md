@@ -12,6 +12,7 @@ lng: -90.6100
 zipSample: ["70343"]
 zipCodes: ["70343"]
 localPaths: ["Terrebonne Parish / elevation 16 ft band", "Terrebonne Parish / primary ZIP 70343", "Terrebonne Parish / coords 29.5600, -90.6100", "Terrebonne Parish / ZIP 70343 sector"]
+zillowHomeValueUsd: 230075
 ---
 
 **Engineering Notice for Bourg:** structural drying capacity optimized for 16ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Terrebonne Parish. Relative Humidity Threshold: 81%. Sensor sync: Active.

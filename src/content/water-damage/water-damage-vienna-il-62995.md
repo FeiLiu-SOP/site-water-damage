@@ -12,6 +12,7 @@ lng: -88.8900
 zipSample: ["62995"]
 zipCodes: ["62995"]
 localPaths: ["Johnson County / primary ZIP 62995", "Johnson County / elevation 367 ft band", "Johnson County / coords 37.4100, -88.8900", "Johnson County / ZIP 62995 sector"]
+zillowHomeValueUsd: 175941
 ---
 
 **Engineering Notice for Vienna:** structural drying capacity optimized for 367ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Johnson County. Relative Humidity Threshold: 84%. Sensor sync: Active.

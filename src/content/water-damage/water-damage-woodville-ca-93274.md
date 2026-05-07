@@ -12,6 +12,7 @@ lng: -119.2000
 zipSample: ["93274", "93257"]
 zipCodes: ["93257", "93274"]
 localPaths: ["Tulare County / ZIP 93274 sector", "Tulare County / elevation 338 ft band", "Tulare County / ZIP 93257 sector", "Tulare County / primary ZIP 93274", "Tulare County / coords 36.0900, -119.2000"]
+zillowHomeValueUsd: 355582
 ---
 
 **Engineering Notice for Woodville:** structural drying capacity optimized for 338ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tulare County. Relative Humidity Threshold: 80%. Sensor sync: Active.

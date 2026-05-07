@@ -12,6 +12,7 @@ lng: -81.9300
 zipSample: ["25070"]
 zipCodes: ["25070"]
 localPaths: ["Putnam County / primary ZIP 25070", "Putnam County / ZIP 25070 sector", "Putnam County / elevation 604 ft band", "Putnam County / coords 38.5400, -81.9300"]
+zillowHomeValueUsd: 223601
 ---
 
 **Engineering Notice for Eleanor:** structural drying capacity optimized for 604ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Putnam County. Relative Humidity Threshold: 71%. Sensor sync: Active.

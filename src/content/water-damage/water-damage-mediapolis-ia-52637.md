@@ -12,6 +12,7 @@ lng: -91.1600
 zipSample: ["52637"]
 zipCodes: ["52637"]
 localPaths: ["Des Moines County / coords 41.0100, -91.1600", "Des Moines County / primary ZIP 52637", "Des Moines County / ZIP 52637 sector", "Des Moines County / elevation 778 ft band"]
+zillowHomeValueUsd: 207476
 ---
 
 **Engineering Notice for Mediapolis:** structural drying capacity optimized for 778ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Des Moines County. Relative Humidity Threshold: 80%. Sensor sync: Active.

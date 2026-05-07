@@ -12,6 +12,7 @@ lng: -76.8500
 zipSample: ["17724"]
 zipCodes: ["17724"]
 localPaths: ["Bradford County / elevation 1234 ft band", "Bradford County / primary ZIP 17724", "Bradford County / ZIP 17724 sector", "Bradford County / coords 41.6600, -76.8500"]
+zillowHomeValueUsd: 167555
 ---
 
 **Engineering Notice for Canton:** structural drying capacity optimized for 1234ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bradford County. Relative Humidity Threshold: 80%. Sensor sync: Active.

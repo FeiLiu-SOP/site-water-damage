@@ -12,6 +12,7 @@ lng: -89.9100
 zipSample: ["38666"]
 zipCodes: ["38666"]
 localPaths: ["Panola County / elevation 371 ft band", "Panola County / coords 34.4400, -89.9100", "Panola County / ZIP 38666 sector", "Panola County / primary ZIP 38666"]
+zillowHomeValueUsd: 165066
 ---
 
 **Engineering Notice for Sardis:** structural drying capacity optimized for 371ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Panola County. Relative Humidity Threshold: 66%. Sensor sync: Active.

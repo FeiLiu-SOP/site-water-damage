@@ -12,6 +12,7 @@ lng: -89.1800
 zipSample: ["42050"]
 zipCodes: ["42050"]
 localPaths: ["Fulton County / primary ZIP 42050", "Fulton County / ZIP 42050 sector", "Fulton County / coords 36.5600, -89.1800", "Fulton County / elevation 404 ft band"]
+zillowHomeValueUsd: 78629
 ---
 
 **Engineering Notice for Hickman:** structural drying capacity optimized for 404ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fulton County. Relative Humidity Threshold: 74%. Sensor sync: Active.

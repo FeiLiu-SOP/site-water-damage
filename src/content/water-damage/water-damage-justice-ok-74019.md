@@ -12,6 +12,7 @@ lng: -95.5600
 zipSample: ["74019"]
 zipCodes: ["74019"]
 localPaths: ["Rogers County / primary ZIP 74019", "Rogers County / coords 36.2900, -95.5600", "Rogers County / elevation 659 ft band", "Rogers County / ZIP 74019 sector"]
+zillowHomeValueUsd: 283833
 ---
 
 **Engineering Notice for Justice:** structural drying capacity optimized for 659ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rogers County. Relative Humidity Threshold: 77%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -90.1900
 zipSample: ["61238"]
 zipCodes: ["61238"]
 localPaths: ["Henry County / coords 41.3000, -90.1900", "Henry County / primary ZIP 61238", "Henry County / elevation 810 ft band", "Henry County / ZIP 61238 sector"]
+zillowHomeValueUsd: 157289
 ---
 
 **Engineering Notice for Cambridge:** structural drying capacity optimized for 810ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Henry County. Relative Humidity Threshold: 67%. Sensor sync: Active.

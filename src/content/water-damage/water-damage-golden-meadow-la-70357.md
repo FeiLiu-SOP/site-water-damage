@@ -12,6 +12,7 @@ lng: -90.2700
 zipSample: ["70357"]
 zipCodes: ["70357"]
 localPaths: ["Lafourche Parish / ZIP 70357 sector", "Lafourche Parish / elevation 7 ft band", "Lafourche Parish / primary ZIP 70357", "Lafourche Parish / coords 29.3900, -90.2700"]
+zillowHomeValueUsd: 81771
 ---
 
 **Engineering Notice for Golden Meadow:** structural drying capacity optimized for 7ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lafourche Parish. Relative Humidity Threshold: 71%. Sensor sync: Active.

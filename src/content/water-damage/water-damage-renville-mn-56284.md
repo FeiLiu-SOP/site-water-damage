@@ -12,6 +12,7 @@ lng: -95.2000
 zipSample: ["56284"]
 zipCodes: ["56284"]
 localPaths: ["Renville County / elevation 1063 ft band", "Renville County / primary ZIP 56284", "Renville County / coords 44.7900, -95.2000", "Renville County / ZIP 56284 sector"]
+zillowHomeValueUsd: 191935
 ---
 
 **Engineering Notice for Renville:** structural drying capacity optimized for 1063ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Renville County. Relative Humidity Threshold: 76%. Sensor sync: Active.

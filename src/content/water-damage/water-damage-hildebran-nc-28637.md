@@ -12,6 +12,8 @@ lng: -81.4200
 zipSample: ["28637"]
 zipCodes: ["28637"]
 localPaths: ["Burke County / ZIP 28637 sector", "Burke County / coords 35.7200, -81.4200", "Burke County / primary ZIP 28637", "Burke County / elevation 1115 ft band"]
+zillowHomeValueUsd: 316879
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Hildebran:** structural drying capacity optimized for 1115ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Burke County. Relative Humidity Threshold: 66%. Sensor sync: Active.

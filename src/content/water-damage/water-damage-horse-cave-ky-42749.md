@@ -12,6 +12,7 @@ lng: -85.9100
 zipSample: ["42749"]
 zipCodes: ["42749"]
 localPaths: ["Hart County / coords 37.1700, -85.9100", "Hart County / primary ZIP 42749", "Hart County / elevation 630 ft band", "Hart County / ZIP 42749 sector"]
+zillowHomeValueUsd: 170669
 ---
 
 **Engineering Notice for Horse Cave:** structural drying capacity optimized for 630ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hart County. Relative Humidity Threshold: 74%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -104.0300
 zipSample: ["79843"]
 zipCodes: ["79843"]
 localPaths: ["Presidio County / elevation 4695 ft band", "Presidio County / ZIP 79843 sector", "Presidio County / coords 30.3100, -104.0300", "Presidio County / primary ZIP 79843"]
+zillowHomeValueUsd: 304171
 ---
 
 **Engineering Notice for Marfa:** structural drying capacity optimized for 4695ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Presidio County. Relative Humidity Threshold: 67%. Sensor sync: Active.

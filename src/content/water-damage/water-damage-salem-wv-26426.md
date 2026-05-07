@@ -12,6 +12,7 @@ lng: -80.5600
 zipSample: ["26426"]
 zipCodes: ["26426"]
 localPaths: ["Harrison County / primary ZIP 26426", "Harrison County / elevation 1181 ft band", "Harrison County / ZIP 26426 sector", "Harrison County / coords 39.2800, -80.5600"]
+zillowHomeValueUsd: 127261
 ---
 
 **Engineering Notice for Salem:** structural drying capacity optimized for 1181ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harrison County. Relative Humidity Threshold: 69%. Sensor sync: Active.

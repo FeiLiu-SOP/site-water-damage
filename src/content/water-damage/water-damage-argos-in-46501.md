@@ -12,6 +12,7 @@ lng: -86.2500
 zipSample: ["46501"]
 zipCodes: ["46501"]
 localPaths: ["Marshall County / coords 41.2400, -86.2500", "Marshall County / ZIP 46501 sector", "Marshall County / elevation 827 ft band", "Marshall County / primary ZIP 46501"]
+zillowHomeValueUsd: 219445
 ---
 
 **Engineering Notice for Argos:** structural drying capacity optimized for 827ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marshall County. Relative Humidity Threshold: 74%. Sensor sync: Active.

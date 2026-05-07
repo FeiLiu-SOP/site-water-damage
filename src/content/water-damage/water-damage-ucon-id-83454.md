@@ -12,6 +12,7 @@ lng: -111.9600
 zipSample: ["83454", "83401"]
 zipCodes: ["83454", "83401"]
 localPaths: ["Bonneville County / primary ZIP 83454", "Bonneville County / coords 43.5900, -111.9600", "Bonneville County / elevation 4816 ft band", "Bonneville County / ZIP 83454 sector", "Bonneville County / ZIP 83401 sector"]
+zillowHomeValueUsd: 347885
 ---
 
 **Engineering Notice for Ucon:** structural drying capacity optimized for 4816ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bonneville County. Relative Humidity Threshold: 83%. Sensor sync: Active.

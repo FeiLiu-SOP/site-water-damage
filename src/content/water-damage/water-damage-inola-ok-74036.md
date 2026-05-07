@@ -12,6 +12,7 @@ lng: -95.5400
 zipSample: ["74036"]
 zipCodes: ["74036"]
 localPaths: ["Rogers County / elevation 614 ft band", "Rogers County / coords 36.1300, -95.5400", "Rogers County / primary ZIP 74036", "Rogers County / ZIP 74036 sector"]
+zillowHomeValueUsd: 260909
 ---
 
 **Engineering Notice for Inola:** structural drying capacity optimized for 614ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rogers County. Relative Humidity Threshold: 75%. Sensor sync: Active.

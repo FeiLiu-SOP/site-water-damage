@@ -12,6 +12,7 @@ lng: -83.9500
 zipSample: ["48169"]
 zipCodes: ["48169"]
 localPaths: ["Livingston County / ZIP 48169 sector", "Livingston County / coords 42.4500, -83.9500", "Livingston County / primary ZIP 48169", "Livingston County / elevation 886 ft band"]
+zillowHomeValueUsd: 392322
 ---
 
 **Engineering Notice for Pinckney:** structural drying capacity optimized for 886ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Livingston County. Relative Humidity Threshold: 65%. Sensor sync: Active.

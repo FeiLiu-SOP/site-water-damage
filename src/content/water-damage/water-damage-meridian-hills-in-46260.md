@@ -12,6 +12,7 @@ lng: -86.1600
 zipSample: ["46260", "46240"]
 zipCodes: ["46260", "46240"]
 localPaths: ["Marion County / ZIP 46240 sector", "Marion County / coords 39.8900, -86.1600", "Marion County / primary ZIP 46260", "Marion County / ZIP 46260 sector", "Marion County / elevation 797 ft band"]
+zillowHomeValueUsd: 304707
 ---
 
 **Engineering Notice for Meridian Hills:** structural drying capacity optimized for 797ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marion County. Relative Humidity Threshold: 81%. Sensor sync: Active.

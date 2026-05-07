@@ -12,6 +12,7 @@ lng: -87.2900
 zipSample: ["47993"]
 zipCodes: ["47993"]
 localPaths: ["Warren County / ZIP 47993 sector", "Warren County / elevation 633 ft band", "Warren County / coords 40.2900, -87.2900", "Warren County / primary ZIP 47993"]
+zillowHomeValueUsd: 215766
 ---
 
 **Engineering Notice for Williamsport:** structural drying capacity optimized for 633ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Warren County. Relative Humidity Threshold: 85%. Sensor sync: Active.

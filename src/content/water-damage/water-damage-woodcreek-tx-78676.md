@@ -12,6 +12,7 @@ lng: -98.1100
 zipSample: ["78676"]
 zipCodes: ["78676"]
 localPaths: ["Hays County / elevation 984 ft band", "Hays County / coords 30.0300, -98.1100", "Hays County / primary ZIP 78676", "Hays County / ZIP 78676 sector"]
+zillowHomeValueUsd: 549457
 ---
 
 **Engineering Notice for Woodcreek:** structural drying capacity optimized for 984ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hays County. Relative Humidity Threshold: 68%. Sensor sync: Active.

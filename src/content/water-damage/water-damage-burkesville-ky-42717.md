@@ -12,6 +12,7 @@ lng: -85.3700
 zipSample: ["42717"]
 zipCodes: ["42717"]
 localPaths: ["Cumberland County / ZIP 42717 sector", "Cumberland County / primary ZIP 42717", "Cumberland County / coords 36.7900, -85.3700", "Cumberland County / elevation 564 ft band"]
+zillowHomeValueUsd: 146151
 ---
 
 **Engineering Notice for Burkesville:** structural drying capacity optimized for 564ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cumberland County. Relative Humidity Threshold: 78%. Sensor sync: Active.

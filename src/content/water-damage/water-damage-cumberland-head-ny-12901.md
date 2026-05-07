@@ -12,6 +12,7 @@ lng: -73.4000
 zipSample: ["12901"]
 zipCodes: ["12901"]
 localPaths: ["Clinton County / primary ZIP 12901", "Clinton County / ZIP 12901 sector", "Clinton County / elevation 161 ft band", "Clinton County / coords 44.7200, -73.4000"]
+zillowHomeValueUsd: 243770
 ---
 
 **Engineering Notice for Cumberland Head:** structural drying capacity optimized for 161ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clinton County. Relative Humidity Threshold: 81%. Sensor sync: Active.

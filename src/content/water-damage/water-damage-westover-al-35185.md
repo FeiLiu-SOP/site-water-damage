@@ -12,6 +12,8 @@ lng: -86.5300
 zipSample: ["35185", "35078", "35147"]
 zipCodes: ["35185", "35078", "35147"]
 localPaths: ["Shelby County / primary ZIP 35185", "Shelby County / elevation 495 ft band", "Shelby County / ZIP 35147 sector", "Shelby County / ZIP 35185 sector", "Shelby County / coords 33.3700, -86.5300"]
+zillowHomeValueUsd: 209724
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Westover:** structural drying capacity optimized for 495ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Shelby County. Relative Humidity Threshold: 76%. Sensor sync: Active.

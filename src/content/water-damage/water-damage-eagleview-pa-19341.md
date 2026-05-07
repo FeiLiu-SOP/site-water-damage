@@ -12,6 +12,7 @@ lng: -75.6800
 zipSample: ["19335", "19341"]
 zipCodes: ["19341", "19335"]
 localPaths: ["Chester County / ZIP 19335 sector", "Chester County / ZIP 19341 sector", "Chester County / primary ZIP 19341", "Chester County / elevation 440 ft band", "Chester County / coords 40.0600, -75.6800"]
+zillowHomeValueUsd: 614235
 ---
 
 **Engineering Notice for Eagleview:** structural drying capacity optimized for 440ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chester County. Relative Humidity Threshold: 69%. Sensor sync: Active.

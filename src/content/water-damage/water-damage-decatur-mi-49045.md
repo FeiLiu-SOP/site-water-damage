@@ -12,6 +12,7 @@ lng: -85.9700
 zipSample: ["49045"]
 zipCodes: ["49045"]
 localPaths: ["Van Buren County / ZIP 49045 sector", "Van Buren County / primary ZIP 49045", "Van Buren County / coords 42.1100, -85.9700", "Van Buren County / elevation 794 ft band"]
+zillowHomeValueUsd: 214554
 ---
 
 **Engineering Notice for Decatur:** structural drying capacity optimized for 794ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Van Buren County. Relative Humidity Threshold: 72%. Sensor sync: Active.

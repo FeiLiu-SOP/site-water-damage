@@ -12,6 +12,7 @@ lng: -96.5600
 zipSample: ["51001"]
 zipCodes: ["51001"]
 localPaths: ["Plymouth County / primary ZIP 51001", "Plymouth County / ZIP 51001 sector", "Plymouth County / coords 42.8300, -96.5600", "Plymouth County / elevation 1148 ft band"]
+zillowHomeValueUsd: 230458
 ---
 
 **Engineering Notice for Akron:** structural drying capacity optimized for 1148ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Plymouth County. Relative Humidity Threshold: 78%. Sensor sync: Active.

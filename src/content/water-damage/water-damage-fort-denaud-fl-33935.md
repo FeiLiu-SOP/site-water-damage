@@ -12,6 +12,7 @@ lng: -81.5200
 zipSample: ["33935"]
 zipCodes: ["33935"]
 localPaths: ["Hendry County / coords 26.7400, -81.5200", "Hendry County / ZIP 33935 sector", "Hendry County / elevation 16 ft band", "Hendry County / primary ZIP 33935"]
+zillowHomeValueUsd: 291613
 ---
 
 **Engineering Notice for Fort Denaud:** structural drying capacity optimized for 16ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hendry County. Relative Humidity Threshold: 84%. Sensor sync: Active.

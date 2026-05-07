@@ -12,6 +12,7 @@ lng: -76.9400
 zipSample: ["20722", "20781"]
 zipCodes: ["20722", "20781"]
 localPaths: ["Prince George's County / coords 38.9300, -76.9400", "Prince George's County / ZIP 20781 sector", "Prince George's County / primary ZIP 20722", "Prince George's County / elevation 62 ft band", "Prince George's County / ZIP 20722 sector"]
+zillowHomeValueUsd: 377907
 ---
 
 **Engineering Notice for Colmar Manor:** structural drying capacity optimized for 62ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Prince George's County. Relative Humidity Threshold: 70%. Sensor sync: Active.

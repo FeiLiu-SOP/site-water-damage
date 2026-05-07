@@ -12,6 +12,7 @@ lng: -76.9800
 zipSample: ["17316"]
 zipCodes: ["17316"]
 localPaths: ["Adams County / elevation 427 ft band", "Adams County / coords 39.9400, -76.9800", "Adams County / ZIP 17316 sector", "Adams County / primary ZIP 17316"]
+zillowHomeValueUsd: 350820
 ---
 
 **Engineering Notice for East Berlin:** structural drying capacity optimized for 427ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Adams County. Relative Humidity Threshold: 77%. Sensor sync: Active.

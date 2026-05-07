@@ -12,6 +12,7 @@ lng: -107.9600
 zipSample: ["87410"]
 zipCodes: ["87410"]
 localPaths: ["San Juan County / coords 36.8700, -107.9600", "San Juan County / elevation 5741 ft band", "San Juan County / ZIP 87410 sector", "San Juan County / primary ZIP 87410"]
+zillowHomeValueUsd: 275873
 ---
 
 **Engineering Notice for Center Point:** structural drying capacity optimized for 5741ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Juan County. Relative Humidity Threshold: 68%. Sensor sync: Active.

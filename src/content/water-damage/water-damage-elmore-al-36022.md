@@ -12,6 +12,7 @@ lng: -86.3400
 zipSample: ["36025", "36022"]
 zipCodes: ["36025", "36022"]
 localPaths: ["Elmore County / primary ZIP 36022", "Elmore County / ZIP 36025 sector", "Elmore County / ZIP 36022 sector", "Elmore County / elevation 302 ft band", "Elmore County / coords 32.5600, -86.3400"]
+zillowHomeValueUsd: 292446
 ---
 
 **Engineering Notice for Elmore:** structural drying capacity optimized for 302ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Elmore County. Relative Humidity Threshold: 75%. Sensor sync: Active.

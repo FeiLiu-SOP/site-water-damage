@@ -12,6 +12,8 @@ lng: -66.3900
 zipSample: ["00757"]
 zipCodes: ["00757"]
 localPaths: ["Santa Isabel County / primary ZIP 00757", "Santa Isabel County / elevation 108 ft band", "Santa Isabel County / ZIP 00757 sector", "Santa Isabel County / coords 18.0000, -66.3900"]
+zillowHomeValueUsd: 357492
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for El Ojo:** structural drying capacity optimized for 108ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Santa Isabel County. Relative Humidity Threshold: 65%. Sensor sync: Active.

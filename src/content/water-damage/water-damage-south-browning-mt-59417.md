@@ -12,6 +12,7 @@ lng: -113.0100
 zipSample: ["59417"]
 zipCodes: ["59417"]
 localPaths: ["Glacier County / primary ZIP 59417", "Glacier County / elevation 4386 ft band", "Glacier County / ZIP 59417 sector", "Glacier County / coords 48.5500, -113.0100"]
+zillowHomeValueUsd: 159258
 ---
 
 **Engineering Notice for South Browning:** structural drying capacity optimized for 4386ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Glacier County. Relative Humidity Threshold: 70%. Sensor sync: Active.

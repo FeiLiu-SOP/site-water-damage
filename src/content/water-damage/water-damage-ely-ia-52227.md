@@ -12,6 +12,7 @@ lng: -91.5900
 zipSample: ["52227"]
 zipCodes: ["52227"]
 localPaths: ["Linn County / elevation 738 ft band", "Linn County / coords 41.8800, -91.5900", "Linn County / primary ZIP 52227", "Linn County / ZIP 52227 sector"]
+zillowHomeValueUsd: 364117
 ---
 
 **Engineering Notice for Ely:** structural drying capacity optimized for 738ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Linn County. Relative Humidity Threshold: 68%. Sensor sync: Active.

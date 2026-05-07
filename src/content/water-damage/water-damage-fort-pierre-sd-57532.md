@@ -12,6 +12,7 @@ lng: -100.3800
 zipSample: ["57532"]
 zipCodes: ["57532"]
 localPaths: ["Stanley County / coords 44.3700, -100.3800", "Stanley County / ZIP 57532 sector", "Stanley County / elevation 1430 ft band", "Stanley County / primary ZIP 57532"]
+zillowHomeValueUsd: 308825
 ---
 
 **Engineering Notice for Fort Pierre:** structural drying capacity optimized for 1430ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stanley County. Relative Humidity Threshold: 81%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -80.8600
 zipSample: ["29290", "29061"]
 zipCodes: ["29290", "29061"]
 localPaths: ["Richland County / primary ZIP 29061", "Richland County / ZIP 29290 sector", "Richland County / ZIP 29061 sector", "Richland County / coords 33.9000, -80.8600", "Richland County / elevation 184 ft band"]
+zillowHomeValueUsd: 198097
 ---
 
 **Engineering Notice for Hopkins:** structural drying capacity optimized for 184ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Richland County. Relative Humidity Threshold: 74%. Sensor sync: Active.

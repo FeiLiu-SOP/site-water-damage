@@ -12,6 +12,7 @@ lng: -79.1700
 zipSample: ["27243"]
 zipCodes: ["27243"]
 localPaths: ["Orange County / coords 36.0800, -79.1700", "Orange County / elevation 656 ft band", "Orange County / primary ZIP 27243", "Orange County / ZIP 27243 sector"]
+zillowHomeValueUsd: 402781
 ---
 
 **Engineering Notice for Efland:** structural drying capacity optimized for 656ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Orange County. Relative Humidity Threshold: 80%. Sensor sync: Active.

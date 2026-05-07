@@ -12,6 +12,7 @@ lng: -94.3600
 zipSample: ["50216"]
 zipCodes: ["50216"]
 localPaths: ["Guthrie County / coords 41.6900, -94.3600", "Guthrie County / primary ZIP 50216", "Guthrie County / elevation 1073 ft band", "Guthrie County / ZIP 50216 sector"]
+zillowHomeValueUsd: 482070
 ---
 
 **Engineering Notice for Panora:** structural drying capacity optimized for 1073ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Guthrie County. Relative Humidity Threshold: 72%. Sensor sync: Active.

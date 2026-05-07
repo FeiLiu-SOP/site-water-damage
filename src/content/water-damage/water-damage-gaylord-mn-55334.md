@@ -12,6 +12,7 @@ lng: -94.2100
 zipSample: ["55334"]
 zipCodes: ["55334"]
 localPaths: ["Sibley County / primary ZIP 55334", "Sibley County / elevation 974 ft band", "Sibley County / ZIP 55334 sector", "Sibley County / coords 44.5600, -94.2100"]
+zillowHomeValueUsd: 246600
 ---
 
 **Engineering Notice for Gaylord:** structural drying capacity optimized for 974ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sibley County. Relative Humidity Threshold: 73%. Sensor sync: Active.

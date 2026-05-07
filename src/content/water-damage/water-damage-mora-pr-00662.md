@@ -12,6 +12,8 @@ lng: -67.0300
 zipSample: ["00662"]
 zipCodes: ["00662"]
 localPaths: ["Isabela County / ZIP 00662 sector", "Isabela County / coords 18.4600, -67.0300", "Isabela County / elevation 456 ft band", "Isabela County / primary ZIP 00662"]
+zillowHomeValueUsd: 366409
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Mora:** structural drying capacity optimized for 456ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Isabela County. Relative Humidity Threshold: 83%. Sensor sync: Active.

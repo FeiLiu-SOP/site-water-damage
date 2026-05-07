@@ -12,6 +12,7 @@ lng: -96.8300
 zipSample: ["76664"]
 zipCodes: ["76664"]
 localPaths: ["McLennan County / coords 31.5400, -96.8300", "McLennan County / primary ZIP 76664", "McLennan County / elevation 541 ft band", "McLennan County / ZIP 76664 sector"]
+zillowHomeValueUsd: 155456
 ---
 
 **Engineering Notice for Mart:** structural drying capacity optimized for 541ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McLennan County. Relative Humidity Threshold: 77%. Sensor sync: Active.

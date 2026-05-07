@@ -12,6 +12,7 @@ lng: -74.0700
 zipSample: ["08735"]
 zipCodes: ["08735"]
 localPaths: ["Ocean County / elevation 13 ft band", "Ocean County / ZIP 08735 sector", "Ocean County / coords 39.9700, -74.0700", "Ocean County / primary ZIP 08735"]
+zillowHomeValueUsd: 1146032
 ---
 
 **Engineering Notice for Lavallette:** structural drying capacity optimized for 13ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ocean County. Relative Humidity Threshold: 76%. Sensor sync: Active.

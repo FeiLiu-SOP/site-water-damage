@@ -12,6 +12,8 @@ lng: -100.6600
 zipSample: ["57555"]
 zipCodes: ["57555"]
 localPaths: ["Todd County / elevation 2579 ft band", "Todd County / coords 43.3100, -100.6600", "Todd County / ZIP 57555 sector", "Todd County / primary ZIP 57555"]
+zillowHomeValueUsd: 318108
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Mission:** structural drying capacity optimized for 2579ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Todd County. Relative Humidity Threshold: 79%. Sensor sync: Active.

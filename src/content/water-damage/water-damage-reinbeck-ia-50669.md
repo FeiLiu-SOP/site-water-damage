@@ -12,6 +12,7 @@ lng: -92.5900
 zipSample: ["50669"]
 zipCodes: ["50669"]
 localPaths: ["Grundy County / ZIP 50669 sector", "Grundy County / primary ZIP 50669", "Grundy County / elevation 942 ft band", "Grundy County / coords 42.3200, -92.5900"]
+zillowHomeValueUsd: 189216
 ---
 
 **Engineering Notice for Reinbeck:** structural drying capacity optimized for 942ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grundy County. Relative Humidity Threshold: 74%. Sensor sync: Active.

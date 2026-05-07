@@ -12,6 +12,7 @@ lng: -84.2000
 zipSample: ["45140", "45039", "45152"]
 zipCodes: ["45152", "45140", "45039"]
 localPaths: ["Warren County / elevation 823 ft band", "Warren County / ZIP 45140 sector", "Warren County / ZIP 45039 sector", "Warren County / primary ZIP 45152", "Warren County / ZIP 45152 sector"]
+zillowHomeValueUsd: 394059
 ---
 
 **Engineering Notice for Maineville:** structural drying capacity optimized for 823ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Warren County. Relative Humidity Threshold: 71%. Sensor sync: Active.

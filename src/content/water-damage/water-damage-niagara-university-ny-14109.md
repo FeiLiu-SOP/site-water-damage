@@ -12,6 +12,8 @@ lng: -79.0400
 zipSample: ["14109"]
 zipCodes: ["14109"]
 localPaths: ["Niagara County / ZIP 14109 sector", "Niagara County / elevation 600 ft band", "Niagara County / coords 43.1400, -79.0400", "Niagara County / primary ZIP 14109"]
+zillowHomeValueUsd: 472157
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Niagara University:** structural drying capacity optimized for 600ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Niagara County. Relative Humidity Threshold: 79%. Sensor sync: Active.

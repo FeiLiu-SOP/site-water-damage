@@ -12,6 +12,7 @@ lng: -98.0200
 zipSample: ["73573"]
 zipCodes: ["73573"]
 localPaths: ["Jefferson County / coords 34.1800, -98.0200", "Jefferson County / elevation 889 ft band", "Jefferson County / ZIP 73573 sector", "Jefferson County / primary ZIP 73573"]
+zillowHomeValueUsd: 103293
 ---
 
 **Engineering Notice for Waurika:** structural drying capacity optimized for 889ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 75%. Sensor sync: Active.

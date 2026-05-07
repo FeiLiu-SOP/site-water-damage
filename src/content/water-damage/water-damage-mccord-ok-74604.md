@@ -12,6 +12,7 @@ lng: -97.0300
 zipSample: ["74604"]
 zipCodes: ["74604"]
 localPaths: ["Osage County / coords 36.6800, -97.0300", "Osage County / elevation 1079 ft band", "Osage County / ZIP 74604 sector", "Osage County / primary ZIP 74604"]
+zillowHomeValueUsd: 217010
 ---
 
 **Engineering Notice for McCord:** structural drying capacity optimized for 1079ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Osage County. Relative Humidity Threshold: 74%. Sensor sync: Active.

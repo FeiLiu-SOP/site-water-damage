@@ -12,6 +12,8 @@ lng: -83.3000
 zipSample: ["28719"]
 zipCodes: ["28719"]
 localPaths: ["Swain County / primary ZIP 28719", "Swain County / ZIP 28719 sector", "Swain County / elevation 2490 ft band", "Swain County / coords 35.4900, -83.3000"]
+zillowHomeValueUsd: 315758
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Cherokee:** structural drying capacity optimized for 2490ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Swain County. Relative Humidity Threshold: 66%. Sensor sync: Active.

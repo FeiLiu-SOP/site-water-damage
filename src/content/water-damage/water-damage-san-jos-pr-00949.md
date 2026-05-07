@@ -12,6 +12,8 @@ lng: -66.2500
 zipSample: ["00949"]
 zipCodes: ["00949"]
 localPaths: ["Toa Baja County / ZIP 00949 sector", "Toa Baja County / elevation 233 ft band", "Toa Baja County / primary ZIP 00949", "Toa Baja County / coords 18.4000, -66.2500"]
+zillowHomeValueUsd: 357134
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for San José:** structural drying capacity optimized for 233ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Toa Baja County. Relative Humidity Threshold: 71%. Sensor sync: Active.

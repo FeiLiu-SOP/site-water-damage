@@ -12,6 +12,7 @@ lng: -116.0000
 zipSample: ["83849"]
 zipCodes: ["83849"]
 localPaths: ["Shoshone County / elevation 2520 ft band", "Shoshone County / ZIP 83849 sector", "Shoshone County / coords 47.5100, -116.0000", "Shoshone County / primary ZIP 83849"]
+zillowHomeValueUsd: 281844
 ---
 
 **Engineering Notice for Osburn:** structural drying capacity optimized for 2520ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Shoshone County. Relative Humidity Threshold: 74%. Sensor sync: Active.

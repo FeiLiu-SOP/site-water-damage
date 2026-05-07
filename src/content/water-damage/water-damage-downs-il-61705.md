@@ -12,6 +12,7 @@ lng: -88.8900
 zipSample: ["61736", "61705"]
 zipCodes: ["61705", "61736"]
 localPaths: ["McLean County / ZIP 61705 sector", "McLean County / elevation 778 ft band", "McLean County / primary ZIP 61705", "McLean County / ZIP 61736 sector", "McLean County / coords 40.4000, -88.8900"]
+zillowHomeValueUsd: 378427
 ---
 
 **Engineering Notice for Downs:** structural drying capacity optimized for 778ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McLean County. Relative Humidity Threshold: 68%. Sensor sync: Active.

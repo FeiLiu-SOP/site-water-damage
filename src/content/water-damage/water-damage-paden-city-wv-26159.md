@@ -12,6 +12,7 @@ lng: -80.9400
 zipSample: ["26159"]
 zipCodes: ["26159"]
 localPaths: ["Wetzel County / primary ZIP 26159", "Wetzel County / elevation 659 ft band", "Wetzel County / coords 39.6000, -80.9400", "Wetzel County / ZIP 26159 sector"]
+zillowHomeValueUsd: 115257
 ---
 
 **Engineering Notice for Paden City:** structural drying capacity optimized for 659ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wetzel County. Relative Humidity Threshold: 80%. Sensor sync: Active.

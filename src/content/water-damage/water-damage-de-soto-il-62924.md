@@ -12,6 +12,7 @@ lng: -89.2300
 zipSample: ["62924"]
 zipCodes: ["62924"]
 localPaths: ["Jackson County / elevation 400 ft band", "Jackson County / coords 37.8200, -89.2300", "Jackson County / primary ZIP 62924", "Jackson County / ZIP 62924 sector"]
+zillowHomeValueUsd: 108149
 ---
 
 **Engineering Notice for De Soto:** structural drying capacity optimized for 400ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jackson County. Relative Humidity Threshold: 77%. Sensor sync: Active.

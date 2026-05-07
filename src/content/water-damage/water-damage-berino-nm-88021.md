@@ -12,6 +12,7 @@ lng: -106.6200
 zipSample: ["88024", "88048", "88021"]
 zipCodes: ["88024", "88021", "88048"]
 localPaths: ["Doña Ana County / elevation 3822 ft band", "Doña Ana County / ZIP 88048 sector", "Doña Ana County / coords 32.0700, -106.6200", "Doña Ana County / ZIP 88024 sector", "Doña Ana County / ZIP 88021 sector"]
+zillowHomeValueUsd: 237894
 ---
 
 **Engineering Notice for Berino:** structural drying capacity optimized for 3822ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Doña Ana County. Relative Humidity Threshold: 85%. Sensor sync: Active.

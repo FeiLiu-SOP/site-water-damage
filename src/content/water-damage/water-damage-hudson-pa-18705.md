@@ -12,6 +12,7 @@ lng: -75.8300
 zipSample: ["18705"]
 zipCodes: ["18705"]
 localPaths: ["Luzerne County / primary ZIP 18705", "Luzerne County / ZIP 18705 sector", "Luzerne County / elevation 653 ft band", "Luzerne County / coords 41.2800, -75.8300"]
+zillowHomeValueUsd: 182706
 ---
 
 **Engineering Notice for Hudson:** structural drying capacity optimized for 653ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Luzerne County. Relative Humidity Threshold: 77%. Sensor sync: Active.

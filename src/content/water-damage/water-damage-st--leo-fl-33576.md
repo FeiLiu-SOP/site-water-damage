@@ -12,6 +12,7 @@ lng: -82.2600
 zipSample: ["33576", "33574"]
 zipCodes: ["33576", "33574"]
 localPaths: ["Pasco County / ZIP 33574 sector", "Pasco County / primary ZIP 33576", "Pasco County / coords 28.3400, -82.2600", "Pasco County / ZIP 33576 sector", "Pasco County / elevation 207 ft band"]
+zillowHomeValueUsd: 348374
 ---
 
 **Engineering Notice for St. Leo:** structural drying capacity optimized for 207ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pasco County. Relative Humidity Threshold: 81%. Sensor sync: Active.

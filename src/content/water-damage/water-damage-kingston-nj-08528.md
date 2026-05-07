@@ -12,6 +12,8 @@ lng: -74.6100
 zipSample: ["08540", "08528"]
 zipCodes: ["08528", "08540"]
 localPaths: ["Somerset County / coords 40.3800, -74.6100", "Somerset County / primary ZIP 08528", "Somerset County / elevation 102 ft band", "Somerset County / ZIP 08540 sector", "Somerset County / ZIP 08528 sector"]
+zillowHomeValueUsd: 634343
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Kingston:** structural drying capacity optimized for 102ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Somerset County. Relative Humidity Threshold: 82%. Sensor sync: Active.

@@ -12,6 +12,8 @@ lng: -121.6500
 zipSample: ["94548", "94513"]
 zipCodes: ["94548", "94513"]
 localPaths: ["Contra Costa County / ZIP 94513 sector", "Contra Costa County / ZIP 94548 sector", "Contra Costa County / elevation 13 ft band", "Contra Costa County / primary ZIP 94548", "Contra Costa County / coords 37.9600, -121.6500"]
+zillowHomeValueUsd: 867114
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Knightsen:** structural drying capacity optimized for 13ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Contra Costa County. Relative Humidity Threshold: 82%. Sensor sync: Active.

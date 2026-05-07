@@ -12,6 +12,7 @@ lng: -123.0600
 zipSample: ["97408"]
 zipCodes: ["97408"]
 localPaths: ["Lane County / elevation 400 ft band", "Lane County / primary ZIP 97408", "Lane County / coords 44.1400, -123.0600", "Lane County / ZIP 97408 sector"]
+zillowHomeValueUsd: 613083
 ---
 
 **Engineering Notice for Coburg:** structural drying capacity optimized for 400ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lane County. Relative Humidity Threshold: 75%. Sensor sync: Active.

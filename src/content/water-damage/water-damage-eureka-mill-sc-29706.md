@@ -12,6 +12,7 @@ lng: -81.1900
 zipSample: ["29706"]
 zipCodes: ["29706"]
 localPaths: ["Chester County / elevation 518 ft band", "Chester County / ZIP 29706 sector", "Chester County / primary ZIP 29706", "Chester County / coords 34.7200, -81.1900"]
+zillowHomeValueUsd: 189585
 ---
 
 **Engineering Notice for Eureka Mill:** structural drying capacity optimized for 518ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chester County. Relative Humidity Threshold: 69%. Sensor sync: Active.

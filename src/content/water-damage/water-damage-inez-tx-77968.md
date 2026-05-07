@@ -12,6 +12,7 @@ lng: -96.8000
 zipSample: ["77968"]
 zipCodes: ["77968"]
 localPaths: ["Victoria County / ZIP 77968 sector", "Victoria County / elevation 69 ft band", "Victoria County / primary ZIP 77968", "Victoria County / coords 28.8700, -96.8000"]
+zillowHomeValueUsd: 363236
 ---
 
 **Engineering Notice for Inez:** structural drying capacity optimized for 69ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Victoria County. Relative Humidity Threshold: 83%. Sensor sync: Active.

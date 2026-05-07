@@ -12,6 +12,7 @@ lng: -72.3000
 zipSample: ["01057"]
 zipCodes: ["01057"]
 localPaths: ["Hampden County / coords 42.1000, -72.3000", "Hampden County / elevation 577 ft band", "Hampden County / primary ZIP 01057", "Hampden County / ZIP 01057 sector"]
+zillowHomeValueUsd: 401173
 ---
 
 **Engineering Notice for Monson Center:** structural drying capacity optimized for 577ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hampden County. Relative Humidity Threshold: 76%. Sensor sync: Active.

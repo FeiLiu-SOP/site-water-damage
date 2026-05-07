@@ -12,6 +12,7 @@ lng: -88.5800
 zipSample: ["38857"]
 zipCodes: ["38857"]
 localPaths: ["Lee County / elevation 407 ft band", "Lee County / primary ZIP 38857", "Lee County / ZIP 38857 sector", "Lee County / coords 34.2600, -88.5800"]
+zillowHomeValueUsd: 219365
 ---
 
 **Engineering Notice for Mooreville:** structural drying capacity optimized for 407ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lee County. Relative Humidity Threshold: 79%. Sensor sync: Active.

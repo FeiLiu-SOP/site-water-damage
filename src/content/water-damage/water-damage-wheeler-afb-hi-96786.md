@@ -12,6 +12,7 @@ lng: -158.0400
 zipSample: ["96786", "96854"]
 zipCodes: ["96786", "96854"]
 localPaths: ["Honolulu County / ZIP 96854 sector", "Honolulu County / coords 21.4800, -158.0400", "Honolulu County / elevation 801 ft band", "Honolulu County / ZIP 96786 sector", "Honolulu County / primary ZIP 96786"]
+zillowHomeValueUsd: 850693
 ---
 
 **Engineering Notice for Wheeler AFB:** structural drying capacity optimized for 801ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Honolulu County. Relative Humidity Threshold: 75%. Sensor sync: Active.

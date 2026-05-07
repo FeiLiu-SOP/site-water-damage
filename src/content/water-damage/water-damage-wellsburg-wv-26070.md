@@ -12,6 +12,7 @@ lng: -80.6100
 zipSample: ["26070"]
 zipCodes: ["26070"]
 localPaths: ["Brooke County / ZIP 26070 sector", "Brooke County / primary ZIP 26070", "Brooke County / coords 40.2800, -80.6100", "Brooke County / elevation 663 ft band"]
+zillowHomeValueUsd: 122321
 ---
 
 **Engineering Notice for Wellsburg:** structural drying capacity optimized for 663ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Brooke County. Relative Humidity Threshold: 67%. Sensor sync: Active.

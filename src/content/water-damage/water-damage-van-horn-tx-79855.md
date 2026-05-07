@@ -12,6 +12,7 @@ lng: -104.8300
 zipSample: ["79855"]
 zipCodes: ["79855"]
 localPaths: ["Culberson County / ZIP 79855 sector", "Culberson County / primary ZIP 79855", "Culberson County / elevation 4058 ft band", "Culberson County / coords 31.0400, -104.8300"]
+zillowHomeValueUsd: 171736
 ---
 
 **Engineering Notice for Van Horn:** structural drying capacity optimized for 4058ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Culberson County. Relative Humidity Threshold: 79%. Sensor sync: Active.

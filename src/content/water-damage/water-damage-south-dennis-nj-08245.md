@@ -12,6 +12,8 @@ lng: -74.8000
 zipSample: ["08245", "08210"]
 zipCodes: ["08245", "08210"]
 localPaths: ["Cape May County / ZIP 08210 sector", "Cape May County / elevation 30 ft band", "Cape May County / coords 39.1700, -74.8000", "Cape May County / ZIP 08245 sector", "Cape May County / primary ZIP 08245"]
+zillowHomeValueUsd: 667330
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for South Dennis:** structural drying capacity optimized for 30ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cape May County. Relative Humidity Threshold: 77%. Sensor sync: Active.

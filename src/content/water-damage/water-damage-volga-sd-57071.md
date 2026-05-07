@@ -12,6 +12,7 @@ lng: -96.9200
 zipSample: ["57071"]
 zipCodes: ["57071"]
 localPaths: ["Brookings County / ZIP 57071 sector", "Brookings County / coords 44.3200, -96.9200", "Brookings County / primary ZIP 57071", "Brookings County / elevation 1627 ft band"]
+zillowHomeValueUsd: 331013
 ---
 
 **Engineering Notice for Volga:** structural drying capacity optimized for 1627ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Brookings County. Relative Humidity Threshold: 78%. Sensor sync: Active.

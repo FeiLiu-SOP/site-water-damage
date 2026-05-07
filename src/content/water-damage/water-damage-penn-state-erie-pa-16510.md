@@ -12,6 +12,7 @@ lng: -79.9800
 zipSample: ["16563", "16510"]
 zipCodes: ["16510", "16563"]
 localPaths: ["Erie County / ZIP 16510 sector", "Erie County / primary ZIP 16510", "Erie County / elevation 1070 ft band", "Erie County / ZIP 16563 sector", "Erie County / coords 42.1200, -79.9800"]
+zillowHomeValueUsd: 202496
 ---
 
 **Engineering Notice for Penn State Erie:** structural drying capacity optimized for 1070ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Erie County. Relative Humidity Threshold: 85%. Sensor sync: Active.

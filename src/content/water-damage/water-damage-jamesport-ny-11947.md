@@ -12,6 +12,8 @@ lng: -72.5800
 zipSample: ["11901", "11948", "11970", "11947"]
 zipCodes: ["11901", "11948", "11947", "11970"]
 localPaths: ["Suffolk County / ZIP 11948 sector", "Suffolk County / primary ZIP 11947", "Suffolk County / ZIP 11970 sector", "Suffolk County / ZIP 11947 sector", "Suffolk County / ZIP 11901 sector"]
+zillowHomeValueUsd: 475020
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Jamesport:** structural drying capacity optimized for 26ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Suffolk County. Relative Humidity Threshold: 76%. Sensor sync: Active.

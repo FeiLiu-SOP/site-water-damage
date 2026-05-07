@@ -12,6 +12,7 @@ lng: -95.3500
 zipSample: ["77534"]
 zipCodes: ["77534"]
 localPaths: ["Brazoria County / primary ZIP 77534", "Brazoria County / ZIP 77534 sector", "Brazoria County / coords 29.2300, -95.3500", "Brazoria County / elevation 43 ft band"]
+zillowHomeValueUsd: 275874
 ---
 
 **Engineering Notice for Danbury:** structural drying capacity optimized for 43ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Brazoria County. Relative Humidity Threshold: 66%. Sensor sync: Active.

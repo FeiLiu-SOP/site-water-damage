@@ -12,6 +12,7 @@ lng: -77.2800
 zipSample: ["21770", "21774"]
 zipCodes: ["21774", "21770"]
 localPaths: ["Frederick County / coords 39.3900, -77.2800", "Frederick County / ZIP 21770 sector", "Frederick County / elevation 479 ft band", "Frederick County / primary ZIP 21774", "Frederick County / ZIP 21774 sector"]
+zillowHomeValueUsd: 604046
 ---
 
 **Engineering Notice for New Market:** structural drying capacity optimized for 479ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Frederick County. Relative Humidity Threshold: 76%. Sensor sync: Active.

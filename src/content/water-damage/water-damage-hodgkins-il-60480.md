@@ -12,6 +12,7 @@ lng: -87.8600
 zipSample: ["60525", "60480"]
 zipCodes: ["60525", "60480"]
 localPaths: ["Cook County / elevation 610 ft band", "Cook County / ZIP 60525 sector", "Cook County / coords 41.7700, -87.8600", "Cook County / ZIP 60480 sector", "Cook County / primary ZIP 60480"]
+zillowHomeValueUsd: 377122
 ---
 
 **Engineering Notice for Hodgkins:** structural drying capacity optimized for 610ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cook County. Relative Humidity Threshold: 67%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -96.0500
 zipSample: ["56232"]
 zipCodes: ["56232"]
 localPaths: ["Lac qui Parle County / ZIP 56232 sector", "Lac qui Parle County / primary ZIP 56232", "Lac qui Parle County / elevation 1040 ft band", "Lac qui Parle County / coords 44.9300, -96.0500"]
+zillowHomeValueUsd: 196259
 ---
 
 **Engineering Notice for Dawson:** structural drying capacity optimized for 1040ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lac qui Parle County. Relative Humidity Threshold: 81%. Sensor sync: Active.

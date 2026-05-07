@@ -12,6 +12,7 @@ lng: -95.1300
 zipSample: ["77049"]
 zipCodes: ["77049"]
 localPaths: ["Harris County / elevation 52 ft band", "Harris County / primary ZIP 77049", "Harris County / ZIP 77049 sector", "Harris County / coords 29.8600, -95.1300"]
+zillowHomeValueUsd: 242112
 ---
 
 **Engineering Notice for Sheldon:** structural drying capacity optimized for 52ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harris County. Relative Humidity Threshold: 80%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -88.6300
 zipSample: ["62917"]
 zipCodes: ["62917"]
 localPaths: ["Saline County / ZIP 62917 sector", "Saline County / primary ZIP 62917", "Saline County / elevation 397 ft band", "Saline County / coords 37.6900, -88.6300"]
+zillowHomeValueUsd: 74418
 ---
 
 **Engineering Notice for Carrier Mills:** structural drying capacity optimized for 397ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Saline County. Relative Humidity Threshold: 69%. Sensor sync: Active.

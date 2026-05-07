@@ -12,6 +12,7 @@ lng: -96.1300
 zipSample: ["51239"]
 zipCodes: ["51239"]
 localPaths: ["Sioux County / coords 43.1900, -96.1300", "Sioux County / primary ZIP 51239", "Sioux County / ZIP 51239 sector", "Sioux County / elevation 1440 ft band"]
+zillowHomeValueUsd: 310274
 ---
 
 **Engineering Notice for Hull:** structural drying capacity optimized for 1440ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sioux County. Relative Humidity Threshold: 76%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -96.7700
 zipSample: ["56762"]
 zipCodes: ["56762"]
 localPaths: ["Marshall County / coords 48.1900, -96.7700", "Marshall County / elevation 853 ft band", "Marshall County / primary ZIP 56762", "Marshall County / ZIP 56762 sector"]
+zillowHomeValueUsd: 194374
 ---
 
 **Engineering Notice for Warren:** structural drying capacity optimized for 853ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marshall County. Relative Humidity Threshold: 83%. Sensor sync: Active.

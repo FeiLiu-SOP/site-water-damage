@@ -12,6 +12,7 @@ lng: -94.3400
 zipSample: ["64720"]
 zipCodes: ["64720"]
 localPaths: ["Bates County / elevation 856 ft band", "Bates County / ZIP 64720 sector", "Bates County / primary ZIP 64720", "Bates County / coords 38.3900, -94.3400"]
+zillowHomeValueUsd: 275375
 ---
 
 **Engineering Notice for Adrian:** structural drying capacity optimized for 856ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bates County. Relative Humidity Threshold: 74%. Sensor sync: Active.

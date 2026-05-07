@@ -12,6 +12,7 @@ lng: -90.5100
 zipSample: ["70443"]
 zipCodes: ["70443"]
 localPaths: ["Tangipahoa Parish / ZIP 70443 sector", "Tangipahoa Parish / elevation 95 ft band", "Tangipahoa Parish / coords 30.6400, -90.5100", "Tangipahoa Parish / primary ZIP 70443"]
+zillowHomeValueUsd: 191987
 ---
 
 **Engineering Notice for Independence:** structural drying capacity optimized for 95ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tangipahoa Parish. Relative Humidity Threshold: 76%. Sensor sync: Active.

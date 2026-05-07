@@ -12,6 +12,8 @@ lng: -66.4400
 zipSample: ["00687"]
 zipCodes: ["00687"]
 localPaths: ["Morovis County / elevation 561 ft band", "Morovis County / coords 18.3500, -66.4400", "Morovis County / ZIP 00687 sector", "Morovis County / primary ZIP 00687"]
+zillowHomeValueUsd: 358009
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Barahona:** structural drying capacity optimized for 561ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Morovis County. Relative Humidity Threshold: 78%. Sensor sync: Active.

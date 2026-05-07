@@ -12,6 +12,8 @@ lng: -110.1200
 zipSample: ["85530"]
 zipCodes: ["85530"]
 localPaths: ["Graham County / elevation 2618 ft band", "Graham County / ZIP 85530 sector", "Graham County / primary ZIP 85530", "Graham County / coords 33.1300, -110.1200"]
+zillowHomeValueUsd: 456576
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Bylas:** structural drying capacity optimized for 2618ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Graham County. Relative Humidity Threshold: 66%. Sensor sync: Active.

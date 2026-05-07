@@ -12,6 +12,7 @@ lng: -86.8600
 zipSample: ["47532"]
 zipCodes: ["47532"]
 localPaths: ["Dubois County / ZIP 47532 sector", "Dubois County / elevation 528 ft band", "Dubois County / coords 38.2300, -86.8600", "Dubois County / primary ZIP 47532"]
+zillowHomeValueUsd: 279670
 ---
 
 **Engineering Notice for Ferdinand:** structural drying capacity optimized for 528ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dubois County. Relative Humidity Threshold: 71%. Sensor sync: Active.

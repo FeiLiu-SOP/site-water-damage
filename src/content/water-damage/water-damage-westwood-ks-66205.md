@@ -12,6 +12,7 @@ lng: -94.6200
 zipSample: ["66205"]
 zipCodes: ["66205"]
 localPaths: ["Johnson County / coords 39.0400, -94.6200", "Johnson County / elevation 971 ft band", "Johnson County / ZIP 66205 sector", "Johnson County / primary ZIP 66205"]
+zillowHomeValueUsd: 393994
 ---
 
 **Engineering Notice for Westwood:** structural drying capacity optimized for 971ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Johnson County. Relative Humidity Threshold: 80%. Sensor sync: Active.

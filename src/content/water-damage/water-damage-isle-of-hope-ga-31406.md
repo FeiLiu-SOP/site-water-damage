@@ -12,6 +12,7 @@ lng: -81.0500
 zipSample: ["31406"]
 zipCodes: ["31406"]
 localPaths: ["Chatham County / primary ZIP 31406", "Chatham County / ZIP 31406 sector", "Chatham County / coords 31.9800, -81.0500", "Chatham County / elevation 66 ft band"]
+zillowHomeValueUsd: 319057
 ---
 
 **Engineering Notice for Isle of Hope:** structural drying capacity optimized for 66ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chatham County. Relative Humidity Threshold: 74%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -83.7900
 zipSample: ["45142"]
 zipCodes: ["45142"]
 localPaths: ["Highland County / primary ZIP 45142", "Highland County / coords 39.2400, -83.7900", "Highland County / ZIP 45142 sector", "Highland County / elevation 1020 ft band"]
+zillowHomeValueUsd: 211808
 ---
 
 **Engineering Notice for Lynchburg:** structural drying capacity optimized for 1020ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Highland County. Relative Humidity Threshold: 82%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -95.9700
 zipSample: ["51028"]
 zipCodes: ["51028"]
 localPaths: ["Plymouth County / primary ZIP 51028", "Plymouth County / coords 42.5900, -95.9700", "Plymouth County / elevation 1237 ft band", "Plymouth County / ZIP 51028 sector"]
+zillowHomeValueUsd: 248486
 ---
 
 **Engineering Notice for Kingsley:** structural drying capacity optimized for 1237ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Plymouth County. Relative Humidity Threshold: 70%. Sensor sync: Active.

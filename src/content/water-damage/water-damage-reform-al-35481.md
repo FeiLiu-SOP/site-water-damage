@@ -12,6 +12,7 @@ lng: -88.0200
 zipSample: ["35481"]
 zipCodes: ["35481"]
 localPaths: ["Pickens County / primary ZIP 35481", "Pickens County / coords 33.3800, -88.0200", "Pickens County / elevation 243 ft band", "Pickens County / ZIP 35481 sector"]
+zillowHomeValueUsd: 130960
 ---
 
 **Engineering Notice for Reform:** structural drying capacity optimized for 243ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pickens County. Relative Humidity Threshold: 74%. Sensor sync: Active.

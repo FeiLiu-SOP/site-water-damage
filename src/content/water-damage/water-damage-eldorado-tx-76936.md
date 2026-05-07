@@ -12,6 +12,8 @@ lng: -100.6000
 zipSample: ["76936"]
 zipCodes: ["76936"]
 localPaths: ["Schleicher County / primary ZIP 76936", "Schleicher County / ZIP 76936 sector", "Schleicher County / coords 30.8600, -100.6000", "Schleicher County / elevation 2441 ft band"]
+zillowHomeValueUsd: 300945
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Eldorado:** structural drying capacity optimized for 2441ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Schleicher County. Relative Humidity Threshold: 81%. Sensor sync: Active.

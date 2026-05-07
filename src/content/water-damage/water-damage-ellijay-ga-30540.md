@@ -12,6 +12,7 @@ lng: -84.4800
 zipSample: ["30540"]
 zipCodes: ["30540"]
 localPaths: ["Gilmer County / primary ZIP 30540", "Gilmer County / elevation 1250 ft band", "Gilmer County / ZIP 30540 sector", "Gilmer County / coords 34.6900, -84.4800"]
+zillowHomeValueUsd: 402068
 ---
 
 **Engineering Notice for Ellijay:** structural drying capacity optimized for 1250ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gilmer County. Relative Humidity Threshold: 81%. Sensor sync: Active.

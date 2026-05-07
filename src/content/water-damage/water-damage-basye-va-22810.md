@@ -12,6 +12,7 @@ lng: -78.7700
 zipSample: ["22842", "22810"]
 zipCodes: ["22810", "22842"]
 localPaths: ["Shenandoah County / elevation 1240 ft band", "Shenandoah County / ZIP 22842 sector", "Shenandoah County / primary ZIP 22810", "Shenandoah County / coords 38.8200, -78.7700", "Shenandoah County / ZIP 22810 sector"]
+zillowHomeValueUsd: 351492
 ---
 
 **Engineering Notice for Basye:** structural drying capacity optimized for 1240ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Shenandoah County. Relative Humidity Threshold: 84%. Sensor sync: Active.

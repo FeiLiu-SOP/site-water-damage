@@ -12,6 +12,7 @@ lng: -84.2400
 zipSample: ["48661"]
 zipCodes: ["48661"]
 localPaths: ["Ogemaw County / elevation 945 ft band", "Ogemaw County / ZIP 48661 sector", "Ogemaw County / primary ZIP 48661", "Ogemaw County / coords 44.2700, -84.2400"]
+zillowHomeValueUsd: 213614
 ---
 
 **Engineering Notice for West Branch:** structural drying capacity optimized for 945ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ogemaw County. Relative Humidity Threshold: 82%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -115.6300
 zipSample: ["89019"]
 zipCodes: ["89019"]
 localPaths: ["Clark County / primary ZIP 89019", "Clark County / coords 35.8400, -115.6300", "Clark County / elevation 2772 ft band", "Clark County / ZIP 89019 sector"]
+zillowHomeValueUsd: 322076
 ---
 
 **Engineering Notice for Sandy Valley:** structural drying capacity optimized for 2772ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clark County. Relative Humidity Threshold: 71%. Sensor sync: Active.

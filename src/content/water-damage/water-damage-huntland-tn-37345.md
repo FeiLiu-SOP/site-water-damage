@@ -12,6 +12,7 @@ lng: -86.2700
 zipSample: ["37345"]
 zipCodes: ["37345"]
 localPaths: ["Franklin County / ZIP 37345 sector", "Franklin County / coords 35.0600, -86.2700", "Franklin County / elevation 928 ft band", "Franklin County / primary ZIP 37345"]
+zillowHomeValueUsd: 228872
 ---
 
 **Engineering Notice for Huntland:** structural drying capacity optimized for 928ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Franklin County. Relative Humidity Threshold: 77%. Sensor sync: Active.

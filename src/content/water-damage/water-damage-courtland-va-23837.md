@@ -12,6 +12,7 @@ lng: -77.0600
 zipSample: ["23837"]
 zipCodes: ["23837"]
 localPaths: ["Southampton County / coords 36.7100, -77.0600", "Southampton County / elevation 62 ft band", "Southampton County / primary ZIP 23837", "Southampton County / ZIP 23837 sector"]
+zillowHomeValueUsd: 284235
 ---
 
 **Engineering Notice for Courtland:** structural drying capacity optimized for 62ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Southampton County. Relative Humidity Threshold: 75%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -97.5100
 zipSample: ["78164"]
 zipCodes: ["78164"]
 localPaths: ["DeWitt County / coords 28.9800, -97.5100", "DeWitt County / primary ZIP 78164", "DeWitt County / ZIP 78164 sector", "DeWitt County / elevation 279 ft band"]
+zillowHomeValueUsd: 222251
 ---
 
 **Engineering Notice for Yorktown:** structural drying capacity optimized for 279ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: DeWitt County. Relative Humidity Threshold: 82%. Sensor sync: Active.

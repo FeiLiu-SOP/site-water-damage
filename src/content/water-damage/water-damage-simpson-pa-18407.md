@@ -12,6 +12,7 @@ lng: -75.4800
 zipSample: ["18407"]
 zipCodes: ["18407"]
 localPaths: ["Lackawanna County / elevation 1211 ft band", "Lackawanna County / coords 41.5900, -75.4800", "Lackawanna County / primary ZIP 18407", "Lackawanna County / ZIP 18407 sector"]
+zillowHomeValueUsd: 165067
 ---
 
 **Engineering Notice for Simpson:** structural drying capacity optimized for 1211ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lackawanna County. Relative Humidity Threshold: 69%. Sensor sync: Active.

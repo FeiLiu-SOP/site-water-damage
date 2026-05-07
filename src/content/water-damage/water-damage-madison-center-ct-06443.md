@@ -12,6 +12,7 @@ lng: -72.6000
 zipSample: ["06443"]
 zipCodes: ["06443"]
 localPaths: ["South Central Connecticut County / ZIP 06443 sector", "South Central Connecticut County / elevation 30 ft band", "South Central Connecticut County / coords 41.2800, -72.6000", "South Central Connecticut County / primary ZIP 06443"]
+zillowHomeValueUsd: 701515
 ---
 
 **Engineering Notice for Madison Center:** structural drying capacity optimized for 30ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: South Central Connecticut County. Relative Humidity Threshold: 81%. Sensor sync: Active.

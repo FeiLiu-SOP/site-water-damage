@@ -12,6 +12,7 @@ lng: -80.3000
 zipSample: ["26431"]
 zipCodes: ["26431"]
 localPaths: ["Harrison County / primary ZIP 26431", "Harrison County / elevation 1112 ft band", "Harrison County / coords 39.3900, -80.3000", "Harrison County / ZIP 26431 sector"]
+zillowHomeValueUsd: 136279
 ---
 
 **Engineering Notice for Shinnston:** structural drying capacity optimized for 1112ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harrison County. Relative Humidity Threshold: 71%. Sensor sync: Active.

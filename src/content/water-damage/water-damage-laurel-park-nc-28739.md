@@ -12,6 +12,7 @@ lng: -82.5000
 zipSample: ["28739"]
 zipCodes: ["28739"]
 localPaths: ["Henderson County / elevation 2805 ft band", "Henderson County / primary ZIP 28739", "Henderson County / ZIP 28739 sector", "Henderson County / coords 35.3100, -82.5000"]
+zillowHomeValueUsd: 457983
 ---
 
 **Engineering Notice for Laurel Park:** structural drying capacity optimized for 2805ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Henderson County. Relative Humidity Threshold: 80%. Sensor sync: Active.

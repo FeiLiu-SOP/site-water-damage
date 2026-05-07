@@ -12,6 +12,7 @@ lng: -113.7400
 zipSample: ["84725"]
 zipCodes: ["84725"]
 localPaths: ["Washington County / ZIP 84725 sector", "Washington County / primary ZIP 84725", "Washington County / elevation 5394 ft band", "Washington County / coords 37.5700, -113.7400"]
+zillowHomeValueUsd: 419510
 ---
 
 **Engineering Notice for Enterprise:** structural drying capacity optimized for 5394ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 80%. Sensor sync: Active.

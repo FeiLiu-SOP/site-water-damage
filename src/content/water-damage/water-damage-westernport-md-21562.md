@@ -12,6 +12,7 @@ lng: -79.0400
 zipSample: ["21562"]
 zipCodes: ["21562"]
 localPaths: ["Allegany County / ZIP 21562 sector", "Allegany County / elevation 961 ft band", "Allegany County / coords 39.4900, -79.0400", "Allegany County / primary ZIP 21562"]
+zillowHomeValueUsd: 84187
 ---
 
 **Engineering Notice for Westernport:** structural drying capacity optimized for 961ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allegany County. Relative Humidity Threshold: 75%. Sensor sync: Active.

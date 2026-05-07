@@ -12,6 +12,7 @@ lng: -96.3200
 zipSample: ["56549"]
 zipCodes: ["56549"]
 localPaths: ["Clay County / primary ZIP 56549", "Clay County / elevation 1142 ft band", "Clay County / ZIP 56549 sector", "Clay County / coords 46.8800, -96.3200"]
+zillowHomeValueUsd: 398574
 ---
 
 **Engineering Notice for Hawley:** structural drying capacity optimized for 1142ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clay County. Relative Humidity Threshold: 73%. Sensor sync: Active.

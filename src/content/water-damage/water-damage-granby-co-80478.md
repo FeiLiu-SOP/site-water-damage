@@ -12,6 +12,7 @@ lng: -105.9200
 zipSample: ["80446", "80478"]
 zipCodes: ["80478", "80446"]
 localPaths: ["Grand County / elevation 8009 ft band", "Grand County / primary ZIP 80478", "Grand County / ZIP 80478 sector", "Grand County / ZIP 80446 sector", "Grand County / coords 40.0600, -105.9200"]
+zillowHomeValueUsd: 1044970
 ---
 
 **Engineering Notice for Granby:** structural drying capacity optimized for 8009ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grand County. Relative Humidity Threshold: 70%. Sensor sync: Active.

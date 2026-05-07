@@ -12,6 +12,7 @@ lng: -81.8800
 zipSample: ["29302"]
 zipCodes: ["29302"]
 localPaths: ["Spartanburg County / ZIP 29302 sector", "Spartanburg County / elevation 751 ft band", "Spartanburg County / primary ZIP 29302", "Spartanburg County / coords 34.9300, -81.8800"]
+zillowHomeValueUsd: 269470
 ---
 
 **Engineering Notice for Ben Avon:** structural drying capacity optimized for 751ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Spartanburg County. Relative Humidity Threshold: 79%. Sensor sync: Active.

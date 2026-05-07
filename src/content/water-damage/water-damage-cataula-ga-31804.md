@@ -12,6 +12,7 @@ lng: -84.8700
 zipSample: ["31804"]
 zipCodes: ["31804"]
 localPaths: ["Harris County / coords 32.6600, -84.8700", "Harris County / primary ZIP 31804", "Harris County / elevation 709 ft band", "Harris County / ZIP 31804 sector"]
+zillowHomeValueUsd: 374574
 ---
 
 **Engineering Notice for Cataula:** structural drying capacity optimized for 709ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harris County. Relative Humidity Threshold: 81%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -120.9900
 zipSample: ["95640"]
 zipCodes: ["95640"]
 localPaths: ["Amador County / primary ZIP 95640", "Amador County / coords 38.2700, -120.9900", "Amador County / elevation 318 ft band", "Amador County / ZIP 95640 sector"]
+zillowHomeValueUsd: 466553
 ---
 
 **Engineering Notice for Camanche Village:** structural drying capacity optimized for 318ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Amador County. Relative Humidity Threshold: 82%. Sensor sync: Active.

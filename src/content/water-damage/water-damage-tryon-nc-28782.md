@@ -12,6 +12,7 @@ lng: -82.2400
 zipSample: ["28782"]
 zipCodes: ["28782"]
 localPaths: ["Polk County / coords 35.2100, -82.2400", "Polk County / primary ZIP 28782", "Polk County / elevation 1083 ft band", "Polk County / ZIP 28782 sector"]
+zillowHomeValueUsd: 351569
 ---
 
 **Engineering Notice for Tryon:** structural drying capacity optimized for 1083ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Polk County. Relative Humidity Threshold: 82%. Sensor sync: Active.

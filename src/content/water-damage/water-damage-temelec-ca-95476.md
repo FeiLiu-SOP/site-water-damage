@@ -12,6 +12,7 @@ lng: -122.5000
 zipSample: ["95476"]
 zipCodes: ["95476"]
 localPaths: ["Sonoma County / coords 38.2600, -122.5000", "Sonoma County / ZIP 95476 sector", "Sonoma County / elevation 121 ft band", "Sonoma County / primary ZIP 95476"]
+zillowHomeValueUsd: 954497
 ---
 
 **Engineering Notice for Temelec:** structural drying capacity optimized for 121ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sonoma County. Relative Humidity Threshold: 69%. Sensor sync: Active.

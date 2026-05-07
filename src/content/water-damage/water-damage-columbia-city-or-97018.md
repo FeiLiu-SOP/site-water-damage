@@ -12,6 +12,7 @@ lng: -122.8100
 zipSample: ["97018"]
 zipCodes: ["97018"]
 localPaths: ["Columbia County / primary ZIP 97018", "Columbia County / coords 45.9000, -122.8100", "Columbia County / elevation 85 ft band", "Columbia County / ZIP 97018 sector"]
+zillowHomeValueUsd: 480393
 ---
 
 **Engineering Notice for Columbia City:** structural drying capacity optimized for 85ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Columbia County. Relative Humidity Threshold: 78%. Sensor sync: Active.

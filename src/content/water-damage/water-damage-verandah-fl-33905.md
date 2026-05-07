@@ -12,6 +12,7 @@ lng: -81.7400
 zipSample: ["33905"]
 zipCodes: ["33905"]
 localPaths: ["Lee County / ZIP 33905 sector", "Lee County / primary ZIP 33905", "Lee County / coords 26.7000, -81.7400", "Lee County / elevation 36 ft band"]
+zillowHomeValueUsd: 284507
 ---
 
 **Engineering Notice for Verandah:** structural drying capacity optimized for 36ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lee County. Relative Humidity Threshold: 79%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -119.7600
 zipSample: ["93725"]
 zipCodes: ["93725"]
 localPaths: ["Fresno County / coords 36.7100, -119.7600", "Fresno County / ZIP 93725 sector", "Fresno County / elevation 295 ft band", "Fresno County / primary ZIP 93725"]
+zillowHomeValueUsd: 358374
 ---
 
 **Engineering Notice for Calwa:** structural drying capacity optimized for 295ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fresno County. Relative Humidity Threshold: 68%. Sensor sync: Active.

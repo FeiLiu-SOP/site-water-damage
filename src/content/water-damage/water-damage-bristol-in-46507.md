@@ -12,6 +12,7 @@ lng: -85.8200
 zipSample: ["46507"]
 zipCodes: ["46507"]
 localPaths: ["Elkhart County / ZIP 46507 sector", "Elkhart County / coords 41.7200, -85.8200", "Elkhart County / primary ZIP 46507", "Elkhart County / elevation 781 ft band"]
+zillowHomeValueUsd: 330229
 ---
 
 **Engineering Notice for Bristol:** structural drying capacity optimized for 781ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Elkhart County. Relative Humidity Threshold: 75%. Sensor sync: Active.

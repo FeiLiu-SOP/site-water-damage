@@ -12,6 +12,7 @@ lng: -89.3500
 zipSample: ["38915"]
 zipCodes: ["38915"]
 localPaths: ["Calhoun County / ZIP 38915 sector", "Calhoun County / elevation 276 ft band", "Calhoun County / coords 33.9900, -89.3500", "Calhoun County / primary ZIP 38915"]
+zillowHomeValueUsd: 134594
 ---
 
 **Engineering Notice for Bruce:** structural drying capacity optimized for 276ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Calhoun County. Relative Humidity Threshold: 68%. Sensor sync: Active.

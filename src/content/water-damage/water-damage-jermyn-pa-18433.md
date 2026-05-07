@@ -12,6 +12,7 @@ lng: -75.5500
 zipSample: ["18433"]
 zipCodes: ["18433"]
 localPaths: ["Lackawanna County / ZIP 18433 sector", "Lackawanna County / primary ZIP 18433", "Lackawanna County / coords 41.5300, -75.5500", "Lackawanna County / elevation 948 ft band"]
+zillowHomeValueUsd: 217661
 ---
 
 **Engineering Notice for Jermyn:** structural drying capacity optimized for 948ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lackawanna County. Relative Humidity Threshold: 80%. Sensor sync: Active.

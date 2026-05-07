@@ -12,6 +12,7 @@ lng: -120.8800
 zipSample: ["93430", "93442"]
 zipCodes: ["93430", "93442"]
 localPaths: ["San Luis Obispo County / primary ZIP 93442", "San Luis Obispo County / coords 35.4400, -120.8800", "San Luis Obispo County / ZIP 93442 sector", "San Luis Obispo County / ZIP 93430 sector", "San Luis Obispo County / elevation 131 ft band"]
+zillowHomeValueUsd: 954554
 ---
 
 **Engineering Notice for Cayucos:** structural drying capacity optimized for 131ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Luis Obispo County. Relative Humidity Threshold: 74%. Sensor sync: Active.

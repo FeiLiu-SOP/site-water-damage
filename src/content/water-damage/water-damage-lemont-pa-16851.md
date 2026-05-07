@@ -12,6 +12,7 @@ lng: -77.8200
 zipSample: ["16851", "16801"]
 zipCodes: ["16851", "16801"]
 localPaths: ["Centre County / ZIP 16851 sector", "Centre County / elevation 1086 ft band", "Centre County / primary ZIP 16851", "Centre County / ZIP 16801 sector", "Centre County / coords 40.8100, -77.8200"]
+zillowHomeValueUsd: 369112
 ---
 
 **Engineering Notice for Lemont:** structural drying capacity optimized for 1086ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Centre County. Relative Humidity Threshold: 81%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -90.7900
 zipSample: ["63343"]
 zipCodes: ["63343"]
 localPaths: ["Lincoln County / primary ZIP 63343", "Lincoln County / ZIP 63343 sector", "Lincoln County / elevation 492 ft band", "Lincoln County / coords 39.1700, -90.7900"]
+zillowHomeValueUsd: 208551
 ---
 
 **Engineering Notice for Elsberry:** structural drying capacity optimized for 492ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lincoln County. Relative Humidity Threshold: 71%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -101.6400
 zipSample: ["69033"]
 zipCodes: ["69033"]
 localPaths: ["Chase County / coords 40.5100, -101.6400", "Chase County / elevation 3284 ft band", "Chase County / ZIP 69033 sector", "Chase County / primary ZIP 69033"]
+zillowHomeValueUsd: 230944
 ---
 
 **Engineering Notice for Imperial:** structural drying capacity optimized for 3284ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chase County. Relative Humidity Threshold: 80%. Sensor sync: Active.

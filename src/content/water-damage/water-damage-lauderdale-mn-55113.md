@@ -12,6 +12,7 @@ lng: -93.2000
 zipSample: ["55108", "55113"]
 zipCodes: ["55108", "55113"]
 localPaths: ["Ramsey County / elevation 971 ft band", "Ramsey County / ZIP 55113 sector", "Ramsey County / primary ZIP 55113", "Ramsey County / ZIP 55108 sector", "Ramsey County / coords 44.9900, -93.2000"]
+zillowHomeValueUsd: 375066
 ---
 
 **Engineering Notice for Lauderdale:** structural drying capacity optimized for 971ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ramsey County. Relative Humidity Threshold: 72%. Sensor sync: Active.

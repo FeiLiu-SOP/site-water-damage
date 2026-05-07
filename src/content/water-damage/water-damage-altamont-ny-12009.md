@@ -12,6 +12,7 @@ lng: -74.0300
 zipSample: ["12009"]
 zipCodes: ["12009"]
 localPaths: ["Albany County / elevation 453 ft band", "Albany County / primary ZIP 12009", "Albany County / coords 42.7100, -74.0300", "Albany County / ZIP 12009 sector"]
+zillowHomeValueUsd: 409076
 ---
 
 **Engineering Notice for Altamont:** structural drying capacity optimized for 453ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Albany County. Relative Humidity Threshold: 76%. Sensor sync: Active.

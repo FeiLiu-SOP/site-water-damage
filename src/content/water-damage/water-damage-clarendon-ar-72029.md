@@ -12,6 +12,8 @@ lng: -91.3100
 zipSample: ["72029"]
 zipCodes: ["72029"]
 localPaths: ["Monroe County / elevation 174 ft band", "Monroe County / coords 34.6900, -91.3100", "Monroe County / ZIP 72029 sector", "Monroe County / primary ZIP 72029"]
+zillowHomeValueUsd: 196552
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Clarendon:** structural drying capacity optimized for 174ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Monroe County. Relative Humidity Threshold: 84%. Sensor sync: Active.

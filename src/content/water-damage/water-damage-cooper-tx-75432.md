@@ -12,6 +12,7 @@ lng: -95.6900
 zipSample: ["75432"]
 zipCodes: ["75432"]
 localPaths: ["Delta County / coords 33.3700, -95.6900", "Delta County / ZIP 75432 sector", "Delta County / primary ZIP 75432", "Delta County / elevation 502 ft band"]
+zillowHomeValueUsd: 177292
 ---
 
 **Engineering Notice for Cooper:** structural drying capacity optimized for 502ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Delta County. Relative Humidity Threshold: 72%. Sensor sync: Active.

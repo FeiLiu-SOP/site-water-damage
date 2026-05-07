@@ -12,6 +12,7 @@ lng: -84.3400
 zipSample: ["30292", "30295"]
 zipCodes: ["30295", "30292"]
 localPaths: ["Pike County / coords 33.0900, -84.3400", "Pike County / elevation 853 ft band", "Pike County / ZIP 30292 sector", "Pike County / primary ZIP 30292", "Pike County / ZIP 30295 sector"]
+zillowHomeValueUsd: 405570
 ---
 
 **Engineering Notice for Zebulon:** structural drying capacity optimized for 853ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pike County. Relative Humidity Threshold: 71%. Sensor sync: Active.

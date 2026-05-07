@@ -12,6 +12,8 @@ lng: -66.9300
 zipSample: ["00678"]
 zipCodes: ["00678"]
 localPaths: ["Quebradillas County / ZIP 00678 sector", "Quebradillas County / primary ZIP 00678", "Quebradillas County / elevation 620 ft band", "Quebradillas County / coords 18.4400, -66.9300"]
+zillowHomeValueUsd: 362834
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for San Antonio:** structural drying capacity optimized for 620ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Quebradillas County. Relative Humidity Threshold: 68%. Sensor sync: Active.

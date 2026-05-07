@@ -12,6 +12,8 @@ lng: -108.2000
 zipSample: ["87323"]
 zipCodes: ["87323"]
 localPaths: ["McKinley County / ZIP 87323 sector", "McKinley County / primary ZIP 87323", "McKinley County / coords 35.4300, -108.2000", "McKinley County / elevation 7241 ft band"]
+zillowHomeValueUsd: 296735
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Thoreau:** structural drying capacity optimized for 7241ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McKinley County. Relative Humidity Threshold: 78%. Sensor sync: Active.

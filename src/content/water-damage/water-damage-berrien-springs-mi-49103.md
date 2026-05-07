@@ -12,6 +12,7 @@ lng: -86.3400
 zipSample: ["49103"]
 zipCodes: ["49103"]
 localPaths: ["Berrien County / coords 41.9500, -86.3400", "Berrien County / primary ZIP 49103", "Berrien County / ZIP 49103 sector", "Berrien County / elevation 666 ft band"]
+zillowHomeValueUsd: 292039
 ---
 
 **Engineering Notice for Berrien Springs:** structural drying capacity optimized for 666ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Berrien County. Relative Humidity Threshold: 72%. Sensor sync: Active.

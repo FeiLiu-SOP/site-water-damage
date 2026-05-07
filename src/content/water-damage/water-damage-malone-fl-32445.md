@@ -12,6 +12,7 @@ lng: -85.1600
 zipSample: ["32445"]
 zipCodes: ["32445"]
 localPaths: ["Jackson County / coords 30.9600, -85.1600", "Jackson County / elevation 161 ft band", "Jackson County / ZIP 32445 sector", "Jackson County / primary ZIP 32445"]
+zillowHomeValueUsd: 133016
 ---
 
 **Engineering Notice for Malone:** structural drying capacity optimized for 161ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jackson County. Relative Humidity Threshold: 82%. Sensor sync: Active.

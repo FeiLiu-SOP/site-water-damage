@@ -12,6 +12,7 @@ lng: -80.5300
 zipSample: ["29154", "29040"]
 zipCodes: ["29154", "29040"]
 localPaths: ["Sumter County / coords 33.9800, -80.5300", "Sumter County / ZIP 29154 sector", "Sumter County / ZIP 29040 sector", "Sumter County / elevation 200 ft band", "Sumter County / primary ZIP 29040"]
+zillowHomeValueUsd: 216850
 ---
 
 **Engineering Notice for Stateburg:** structural drying capacity optimized for 200ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sumter County. Relative Humidity Threshold: 72%. Sensor sync: Active.

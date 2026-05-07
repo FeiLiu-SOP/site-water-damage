@@ -12,6 +12,7 @@ lng: -85.5300
 zipSample: ["40245"]
 zipCodes: ["40245"]
 localPaths: ["Jefferson County / coords 38.3100, -85.5300", "Jefferson County / elevation 738 ft band", "Jefferson County / primary ZIP 40245", "Jefferson County / ZIP 40245 sector"]
+zillowHomeValueUsd: 480853
 ---
 
 **Engineering Notice for Worthington Hills:** structural drying capacity optimized for 738ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 74%. Sensor sync: Active.

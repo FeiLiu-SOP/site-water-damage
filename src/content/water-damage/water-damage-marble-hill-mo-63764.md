@@ -12,6 +12,7 @@ lng: -89.9800
 zipSample: ["63764"]
 zipCodes: ["63764"]
 localPaths: ["Bollinger County / ZIP 63764 sector", "Bollinger County / elevation 430 ft band", "Bollinger County / primary ZIP 63764", "Bollinger County / coords 37.3000, -89.9800"]
+zillowHomeValueUsd: 186205
 ---
 
 **Engineering Notice for Marble Hill:** structural drying capacity optimized for 430ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bollinger County. Relative Humidity Threshold: 76%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -120.4500
 zipSample: ["95247"]
 zipCodes: ["95247"]
 localPaths: ["Calaveras County / coords 38.1400, -120.4500", "Calaveras County / elevation 2297 ft band", "Calaveras County / primary ZIP 95247", "Calaveras County / ZIP 95247 sector"]
+zillowHomeValueUsd: 496452
 ---
 
 **Engineering Notice for Murphys:** structural drying capacity optimized for 2297ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Calaveras County. Relative Humidity Threshold: 67%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -82.1500
 zipSample: ["37643"]
 zipCodes: ["37643"]
 localPaths: ["Carter County / elevation 2963 ft band", "Carter County / coords 36.4000, -82.1500", "Carter County / primary ZIP 37643", "Carter County / ZIP 37643 sector"]
+zillowHomeValueUsd: 230358
 ---
 
 **Engineering Notice for Hunter:** structural drying capacity optimized for 2963ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Carter County. Relative Humidity Threshold: 80%. Sensor sync: Active.

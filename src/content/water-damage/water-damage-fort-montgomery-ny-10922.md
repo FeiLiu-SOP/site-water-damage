@@ -12,6 +12,7 @@ lng: -73.9800
 zipSample: ["10928", "10922"]
 zipCodes: ["10922", "10928"]
 localPaths: ["Orange County / ZIP 10922 sector", "Orange County / coords 41.3400, -73.9800", "Orange County / primary ZIP 10922", "Orange County / ZIP 10928 sector", "Orange County / elevation 548 ft band"]
+zillowHomeValueUsd: 450560
 ---
 
 **Engineering Notice for Fort Montgomery:** structural drying capacity optimized for 548ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Orange County. Relative Humidity Threshold: 72%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -78.6300
 zipSample: ["14032"]
 zipCodes: ["14032"]
 localPaths: ["Erie County / elevation 663 ft band", "Erie County / coords 43.0100, -78.6300", "Erie County / ZIP 14032 sector", "Erie County / primary ZIP 14032"]
+zillowHomeValueUsd: 580219
 ---
 
 **Engineering Notice for Clarence Center:** structural drying capacity optimized for 663ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Erie County. Relative Humidity Threshold: 67%. Sensor sync: Active.

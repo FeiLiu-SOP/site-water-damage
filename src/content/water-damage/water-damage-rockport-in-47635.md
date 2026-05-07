@@ -12,6 +12,7 @@ lng: -87.0500
 zipSample: ["47635"]
 zipCodes: ["47635"]
 localPaths: ["Spencer County / elevation 400 ft band", "Spencer County / coords 37.8900, -87.0500", "Spencer County / ZIP 47635 sector", "Spencer County / primary ZIP 47635"]
+zillowHomeValueUsd: 209701
 ---
 
 **Engineering Notice for Rockport:** structural drying capacity optimized for 400ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Spencer County. Relative Humidity Threshold: 84%. Sensor sync: Active.

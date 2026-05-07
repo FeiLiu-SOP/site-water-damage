@@ -12,6 +12,7 @@ lng: -97.9200
 zipSample: ["76476"]
 zipCodes: ["76476"]
 localPaths: ["Hood County / coords 32.3900, -97.9200", "Hood County / elevation 1037 ft band", "Hood County / primary ZIP 76476", "Hood County / ZIP 76476 sector"]
+zillowHomeValueUsd: 417087
 ---
 
 **Engineering Notice for Tolar:** structural drying capacity optimized for 1037ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hood County. Relative Humidity Threshold: 72%. Sensor sync: Active.

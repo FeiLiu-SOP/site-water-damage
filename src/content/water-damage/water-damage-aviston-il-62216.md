@@ -12,6 +12,7 @@ lng: -89.6100
 zipSample: ["62216"]
 zipCodes: ["62216"]
 localPaths: ["Clinton County / ZIP 62216 sector", "Clinton County / primary ZIP 62216", "Clinton County / coords 38.6200, -89.6100", "Clinton County / elevation 472 ft band"]
+zillowHomeValueUsd: 301899
 ---
 
 **Engineering Notice for Aviston:** structural drying capacity optimized for 472ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clinton County. Relative Humidity Threshold: 67%. Sensor sync: Active.

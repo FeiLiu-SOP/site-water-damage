@@ -12,6 +12,7 @@ lng: -122.6500
 zipSample: ["98642"]
 zipCodes: ["98642"]
 localPaths: ["Clark County / ZIP 98642 sector", "Clark County / elevation 282 ft band", "Clark County / primary ZIP 98642", "Clark County / coords 45.7800, -122.6500"]
+zillowHomeValueUsd: 652454
 ---
 
 **Engineering Notice for Duluth:** structural drying capacity optimized for 282ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clark County. Relative Humidity Threshold: 68%. Sensor sync: Active.

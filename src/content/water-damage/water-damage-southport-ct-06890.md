@@ -12,6 +12,7 @@ lng: -73.2900
 zipSample: ["06890"]
 zipCodes: ["06890"]
 localPaths: ["Greater Bridgeport County / coords 41.1300, -73.2900", "Greater Bridgeport County / elevation 26 ft band", "Greater Bridgeport County / primary ZIP 06890", "Greater Bridgeport County / ZIP 06890 sector"]
+zillowHomeValueUsd: 1454970
 ---
 
 **Engineering Notice for Southport:** structural drying capacity optimized for 26ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Greater Bridgeport County. Relative Humidity Threshold: 78%. Sensor sync: Active.

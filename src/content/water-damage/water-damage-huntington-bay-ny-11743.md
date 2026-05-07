@@ -12,6 +12,7 @@ lng: -73.4200
 zipSample: ["11743"]
 zipCodes: ["11743"]
 localPaths: ["Suffolk County / primary ZIP 11743", "Suffolk County / ZIP 11743 sector", "Suffolk County / coords 40.9000, -73.4200", "Suffolk County / elevation 43 ft band"]
+zillowHomeValueUsd: 902363
 ---
 
 **Engineering Notice for Huntington Bay:** structural drying capacity optimized for 43ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Suffolk County. Relative Humidity Threshold: 80%. Sensor sync: Active.

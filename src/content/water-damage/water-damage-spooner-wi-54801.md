@@ -12,6 +12,7 @@ lng: -91.8900
 zipSample: ["54801"]
 zipCodes: ["54801"]
 localPaths: ["Washburn County / elevation 1083 ft band", "Washburn County / primary ZIP 54801", "Washburn County / ZIP 54801 sector", "Washburn County / coords 45.8300, -91.8900"]
+zillowHomeValueUsd: 292573
 ---
 
 **Engineering Notice for Spooner:** structural drying capacity optimized for 1083ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washburn County. Relative Humidity Threshold: 78%. Sensor sync: Active.

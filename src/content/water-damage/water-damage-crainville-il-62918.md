@@ -12,6 +12,7 @@ lng: -89.0600
 zipSample: ["62918"]
 zipCodes: ["62918"]
 localPaths: ["Williamson County / coords 37.7500, -89.0600", "Williamson County / primary ZIP 62918", "Williamson County / elevation 476 ft band", "Williamson County / ZIP 62918 sector"]
+zillowHomeValueUsd: 192370
 ---
 
 **Engineering Notice for Crainville:** structural drying capacity optimized for 476ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Williamson County. Relative Humidity Threshold: 74%. Sensor sync: Active.

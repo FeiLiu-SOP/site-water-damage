@@ -12,6 +12,7 @@ lng: -79.8000
 zipSample: ["15024"]
 zipCodes: ["15024"]
 localPaths: ["Allegheny County / primary ZIP 15024", "Allegheny County / ZIP 15024 sector", "Allegheny County / elevation 774 ft band", "Allegheny County / coords 40.5400, -79.8000"]
+zillowHomeValueUsd: 244206
 ---
 
 **Engineering Notice for Cheswick:** structural drying capacity optimized for 774ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allegheny County. Relative Humidity Threshold: 65%. Sensor sync: Active.

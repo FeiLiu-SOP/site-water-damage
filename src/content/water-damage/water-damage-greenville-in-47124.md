@@ -12,6 +12,7 @@ lng: -85.9800
 zipSample: ["47124"]
 zipCodes: ["47124"]
 localPaths: ["Floyd County / primary ZIP 47124", "Floyd County / elevation 873 ft band", "Floyd County / ZIP 47124 sector", "Floyd County / coords 38.3700, -85.9800"]
+zillowHomeValueUsd: 342940
 ---
 
 **Engineering Notice for Greenville:** structural drying capacity optimized for 873ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Floyd County. Relative Humidity Threshold: 67%. Sensor sync: Active.

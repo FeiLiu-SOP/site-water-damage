@@ -12,6 +12,7 @@ lng: -91.1100
 zipSample: ["52052"]
 zipCodes: ["52052"]
 localPaths: ["Clayton County / primary ZIP 52052", "Clayton County / ZIP 52052 sector", "Clayton County / elevation 748 ft band", "Clayton County / coords 42.7900, -91.1100"]
+zillowHomeValueUsd: 253156
 ---
 
 **Engineering Notice for Guttenberg:** structural drying capacity optimized for 748ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clayton County. Relative Humidity Threshold: 72%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -81.7000
 zipSample: ["28655"]
 zipCodes: ["28655"]
 localPaths: ["Burke County / ZIP 28655 sector", "Burke County / primary ZIP 28655", "Burke County / elevation 1224 ft band", "Burke County / coords 35.7000, -81.7000"]
+zillowHomeValueUsd: 259569
 ---
 
 **Engineering Notice for Salem:** structural drying capacity optimized for 1224ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Burke County. Relative Humidity Threshold: 82%. Sensor sync: Active.

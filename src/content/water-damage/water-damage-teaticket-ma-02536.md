@@ -12,6 +12,7 @@ lng: -70.5900
 zipSample: ["02536"]
 zipCodes: ["02536"]
 localPaths: ["Barnstable County / primary ZIP 02536", "Barnstable County / ZIP 02536 sector", "Barnstable County / elevation 23 ft band", "Barnstable County / coords 41.5600, -70.5900"]
+zillowHomeValueUsd: 705472
 ---
 
 **Engineering Notice for Teaticket:** structural drying capacity optimized for 23ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Barnstable County. Relative Humidity Threshold: 78%. Sensor sync: Active.

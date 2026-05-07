@@ -12,6 +12,7 @@ lng: -88.1100
 zipSample: ["35592"]
 zipCodes: ["35592"]
 localPaths: ["Lamar County / ZIP 35592 sector", "Lamar County / primary ZIP 35592", "Lamar County / elevation 371 ft band", "Lamar County / coords 33.7600, -88.1100"]
+zillowHomeValueUsd: 133722
 ---
 
 **Engineering Notice for Vernon:** structural drying capacity optimized for 371ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lamar County. Relative Humidity Threshold: 73%. Sensor sync: Active.

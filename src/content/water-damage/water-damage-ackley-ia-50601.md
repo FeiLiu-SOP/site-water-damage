@@ -12,6 +12,7 @@ lng: -93.0500
 zipSample: ["50601"]
 zipCodes: ["50601"]
 localPaths: ["Hardin County / ZIP 50601 sector", "Hardin County / primary ZIP 50601", "Hardin County / elevation 1102 ft band", "Hardin County / coords 42.5500, -93.0500"]
+zillowHomeValueUsd: 137474
 ---
 
 **Engineering Notice for Ackley:** structural drying capacity optimized for 1102ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hardin County. Relative Humidity Threshold: 85%. Sensor sync: Active.

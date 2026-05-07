@@ -12,6 +12,7 @@ lng: -84.3100
 zipSample: ["45174"]
 zipCodes: ["45174"]
 localPaths: ["Hamilton County / elevation 581 ft band", "Hamilton County / coords 39.1600, -84.3100", "Hamilton County / primary ZIP 45174", "Hamilton County / ZIP 45174 sector"]
+zillowHomeValueUsd: 769767
 ---
 
 **Engineering Notice for Terrace Park:** structural drying capacity optimized for 581ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hamilton County. Relative Humidity Threshold: 78%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -74.4200
 zipSample: ["08828"]
 zipCodes: ["08828"]
 localPaths: ["Middlesex County / elevation 66 ft band", "Middlesex County / primary ZIP 08828", "Middlesex County / coords 40.3800, -74.4200", "Middlesex County / ZIP 08828 sector"]
+zillowHomeValueUsd: 425152
 ---
 
 **Engineering Notice for Helmetta:** structural drying capacity optimized for 66ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Middlesex County. Relative Humidity Threshold: 68%. Sensor sync: Active.

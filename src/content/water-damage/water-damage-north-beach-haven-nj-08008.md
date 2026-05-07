@@ -12,6 +12,7 @@ lng: -74.2100
 zipSample: ["08008"]
 zipCodes: ["08008"]
 localPaths: ["Ocean County / primary ZIP 08008", "Ocean County / ZIP 08008 sector", "Ocean County / elevation 10 ft band", "Ocean County / coords 39.6000, -74.2100"]
+zillowHomeValueUsd: 1879358
 ---
 
 **Engineering Notice for North Beach Haven:** structural drying capacity optimized for 10ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ocean County. Relative Humidity Threshold: 66%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -84.0300
 zipSample: ["40311"]
 zipCodes: ["40311"]
 localPaths: ["Nicholas County / ZIP 40311 sector", "Nicholas County / elevation 906 ft band", "Nicholas County / coords 38.3200, -84.0300", "Nicholas County / primary ZIP 40311"]
+zillowHomeValueUsd: 195164
 ---
 
 **Engineering Notice for Carlisle:** structural drying capacity optimized for 906ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Nicholas County. Relative Humidity Threshold: 72%. Sensor sync: Active.

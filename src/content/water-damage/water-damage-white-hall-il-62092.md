@@ -12,6 +12,7 @@ lng: -90.4000
 zipSample: ["62092"]
 zipCodes: ["62092"]
 localPaths: ["Greene County / ZIP 62092 sector", "Greene County / primary ZIP 62092", "Greene County / elevation 587 ft band", "Greene County / coords 39.4400, -90.4000"]
+zillowHomeValueUsd: 63874
 ---
 
 **Engineering Notice for White Hall:** structural drying capacity optimized for 587ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Greene County. Relative Humidity Threshold: 72%. Sensor sync: Active.

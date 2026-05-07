@@ -12,6 +12,7 @@ lng: -75.8300
 zipSample: ["19520"]
 zipCodes: ["19520"]
 localPaths: ["Chester County / coords 40.1600, -75.8300", "Chester County / elevation 679 ft band", "Chester County / primary ZIP 19520", "Chester County / ZIP 19520 sector"]
+zillowHomeValueUsd: 471704
 ---
 
 **Engineering Notice for Elverson:** structural drying capacity optimized for 679ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chester County. Relative Humidity Threshold: 66%. Sensor sync: Active.

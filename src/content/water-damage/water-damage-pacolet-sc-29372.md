@@ -12,6 +12,7 @@ lng: -81.7700
 zipSample: ["29372", "29373"]
 zipCodes: ["29373", "29372"]
 localPaths: ["Spartanburg County / elevation 751 ft band", "Spartanburg County / ZIP 29372 sector", "Spartanburg County / coords 34.9100, -81.7700", "Spartanburg County / primary ZIP 29372", "Spartanburg County / ZIP 29373 sector"]
+zillowHomeValueUsd: 162436
 ---
 
 **Engineering Notice for Pacolet:** structural drying capacity optimized for 751ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Spartanburg County. Relative Humidity Threshold: 68%. Sensor sync: Active.

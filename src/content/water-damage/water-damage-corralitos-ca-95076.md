@@ -12,6 +12,7 @@ lng: -121.7900
 zipSample: ["95076"]
 zipCodes: ["95076"]
 localPaths: ["Santa Cruz County / coords 36.9900, -121.7900", "Santa Cruz County / primary ZIP 95076", "Santa Cruz County / ZIP 95076 sector", "Santa Cruz County / elevation 430 ft band"]
+zillowHomeValueUsd: 839639
 ---
 
 **Engineering Notice for Corralitos:** structural drying capacity optimized for 430ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Santa Cruz County. Relative Humidity Threshold: 85%. Sensor sync: Active.

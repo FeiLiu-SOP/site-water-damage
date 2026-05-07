@@ -12,6 +12,7 @@ lng: -103.1100
 zipSample: ["57703"]
 zipCodes: ["57703"]
 localPaths: ["Pennington County / ZIP 57703 sector", "Pennington County / elevation 3041 ft band", "Pennington County / primary ZIP 57703", "Pennington County / coords 44.0400, -103.1100"]
+zillowHomeValueUsd: 358002
 ---
 
 **Engineering Notice for Green Valley:** structural drying capacity optimized for 3041ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pennington County. Relative Humidity Threshold: 80%. Sensor sync: Active.

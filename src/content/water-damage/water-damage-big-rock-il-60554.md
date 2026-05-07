@@ -12,6 +12,7 @@ lng: -88.5300
 zipSample: ["60511", "60554"]
 zipCodes: ["60511", "60554"]
 localPaths: ["Kane County / elevation 699 ft band", "Kane County / ZIP 60554 sector", "Kane County / primary ZIP 60554", "Kane County / coords 41.7700, -88.5300", "Kane County / ZIP 60511 sector"]
+zillowHomeValueUsd: 445550
 ---
 
 **Engineering Notice for Big Rock:** structural drying capacity optimized for 699ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kane County. Relative Humidity Threshold: 76%. Sensor sync: Active.

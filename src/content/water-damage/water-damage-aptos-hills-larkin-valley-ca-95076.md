@@ -12,6 +12,7 @@ lng: -121.8300
 zipSample: ["95003", "95076"]
 zipCodes: ["95076", "95003"]
 localPaths: ["Santa Cruz County / primary ZIP 95076", "Santa Cruz County / ZIP 95076 sector", "Santa Cruz County / coords 36.9600, -121.8300", "Santa Cruz County / ZIP 95003 sector", "Santa Cruz County / elevation 269 ft band"]
+zillowHomeValueUsd: 839638
 ---
 
 **Engineering Notice for Aptos Hills-Larkin Valley:** structural drying capacity optimized for 269ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Santa Cruz County. Relative Humidity Threshold: 68%. Sensor sync: Active.

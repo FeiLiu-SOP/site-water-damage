@@ -12,6 +12,7 @@ lng: -157.7700
 zipSample: ["96734"]
 zipCodes: ["96734"]
 localPaths: ["Honolulu County / primary ZIP 96734", "Honolulu County / ZIP 96734 sector", "Honolulu County / coords 21.3700, -157.7700", "Honolulu County / elevation 194 ft band"]
+zillowHomeValueUsd: 1523586
 ---
 
 **Engineering Notice for Maunawili:** structural drying capacity optimized for 194ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Honolulu County. Relative Humidity Threshold: 69%. Sensor sync: Active.

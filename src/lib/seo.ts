@@ -642,13 +642,12 @@ export function buildLocalBusinessSchema(params: {
   return {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    name: `${serviceType} Service`,
+    name: pageTitle,
     description: pageDescription,
     url: pageUrl,
     telephone,
     areaServed,
     serviceType,
-    slogan: pageTitle,
     knowsAbout: [collection, serviceType, "Emergency service"],
   };
 }

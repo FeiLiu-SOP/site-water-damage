@@ -12,6 +12,7 @@ lng: -75.2800
 zipSample: ["13413"]
 zipCodes: ["13413"]
 localPaths: ["Oneida County / elevation 728 ft band", "Oneida County / ZIP 13413 sector", "Oneida County / coords 43.0500, -75.2800", "Oneida County / primary ZIP 13413"]
+zillowHomeValueUsd: 301139
 ---
 
 **Engineering Notice for Washington Mills:** structural drying capacity optimized for 728ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Oneida County. Relative Humidity Threshold: 82%. Sensor sync: Active.

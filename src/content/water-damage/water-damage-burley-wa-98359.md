@@ -12,6 +12,7 @@ lng: -122.6400
 zipSample: ["98367", "98322", "98359"]
 zipCodes: ["98322", "98367", "98359"]
 localPaths: ["Kitsap County / elevation 108 ft band", "Kitsap County / ZIP 98322 sector", "Kitsap County / ZIP 98367 sector", "Kitsap County / ZIP 98359 sector", "Kitsap County / primary ZIP 98359"]
+zillowHomeValueUsd: 721831
 ---
 
 **Engineering Notice for Burley:** structural drying capacity optimized for 108ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kitsap County. Relative Humidity Threshold: 75%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -89.3100
 zipSample: ["38916"]
 zipCodes: ["38916"]
 localPaths: ["Calhoun County / ZIP 38916 sector", "Calhoun County / elevation 292 ft band", "Calhoun County / primary ZIP 38916", "Calhoun County / coords 33.8600, -89.3100"]
+zillowHomeValueUsd: 113756
 ---
 
 **Engineering Notice for Calhoun City:** structural drying capacity optimized for 292ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Calhoun County. Relative Humidity Threshold: 84%. Sensor sync: Active.

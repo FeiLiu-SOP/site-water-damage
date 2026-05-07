@@ -12,6 +12,7 @@ lng: -97.2800
 zipSample: ["73027", "73050"]
 zipCodes: ["73027", "73050"]
 localPaths: ["Logan County / ZIP 73050 sector", "Logan County / ZIP 73027 sector", "Logan County / coords 35.9300, -97.2800", "Logan County / elevation 968 ft band", "Logan County / primary ZIP 73027"]
+zillowHomeValueUsd: 187243
 ---
 
 **Engineering Notice for Langston:** structural drying capacity optimized for 968ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Logan County. Relative Humidity Threshold: 80%. Sensor sync: Active.

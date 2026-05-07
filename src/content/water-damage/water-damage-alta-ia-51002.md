@@ -12,6 +12,7 @@ lng: -95.3000
 zipSample: ["51002"]
 zipCodes: ["51002"]
 localPaths: ["Buena Vista County / ZIP 51002 sector", "Buena Vista County / primary ZIP 51002", "Buena Vista County / coords 42.6700, -95.3000", "Buena Vista County / elevation 1516 ft band"]
+zillowHomeValueUsd: 209419
 ---
 
 **Engineering Notice for Alta:** structural drying capacity optimized for 1516ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Buena Vista County. Relative Humidity Threshold: 65%. Sensor sync: Active.

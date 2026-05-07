@@ -12,6 +12,7 @@ lng: -86.0100
 zipSample: ["37318"]
 zipCodes: ["37318"]
 localPaths: ["Franklin County / coords 35.1600, -86.0100", "Franklin County / elevation 981 ft band", "Franklin County / primary ZIP 37318", "Franklin County / ZIP 37318 sector"]
+zillowHomeValueUsd: 186874
 ---
 
 **Engineering Notice for Cowan:** structural drying capacity optimized for 981ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Franklin County. Relative Humidity Threshold: 79%. Sensor sync: Active.

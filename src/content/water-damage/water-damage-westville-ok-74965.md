@@ -12,6 +12,7 @@ lng: -94.5800
 zipSample: ["74965"]
 zipCodes: ["74965"]
 localPaths: ["Adair County / primary ZIP 74965", "Adair County / coords 35.9900, -94.5800", "Adair County / elevation 1168 ft band", "Adair County / ZIP 74965 sector"]
+zillowHomeValueUsd: 188960
 ---
 
 **Engineering Notice for Westville:** structural drying capacity optimized for 1168ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Adair County. Relative Humidity Threshold: 66%. Sensor sync: Active.

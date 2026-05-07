@@ -12,6 +12,7 @@ lng: -118.3000
 zipSample: ["99362"]
 zipCodes: ["99362"]
 localPaths: ["Walla Walla County / elevation 1001 ft band", "Walla Walla County / primary ZIP 99362", "Walla Walla County / ZIP 99362 sector", "Walla Walla County / coords 46.0500, -118.3000"]
+zillowHomeValueUsd: 413059
 ---
 
 **Engineering Notice for Walla Walla East:** structural drying capacity optimized for 1001ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Walla Walla County. Relative Humidity Threshold: 69%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -119.3800
 zipSample: ["89429"]
 zipCodes: ["89429"]
 localPaths: ["Lyon County / primary ZIP 89429", "Lyon County / ZIP 89429 sector", "Lyon County / coords 39.3700, -119.3800", "Lyon County / elevation 4301 ft band"]
+zillowHomeValueUsd: 355914
 ---
 
 **Engineering Notice for Stagecoach:** structural drying capacity optimized for 4301ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lyon County. Relative Humidity Threshold: 70%. Sensor sync: Active.

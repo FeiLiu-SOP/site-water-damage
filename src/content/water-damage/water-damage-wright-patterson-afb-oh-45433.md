@@ -12,6 +12,8 @@ lng: -84.0600
 zipSample: ["45433", "45324"]
 zipCodes: ["45324", "45433"]
 localPaths: ["Greene County / ZIP 45324 sector", "Greene County / ZIP 45433 sector", "Greene County / elevation 801 ft band", "Greene County / primary ZIP 45433", "Greene County / coords 39.8100, -84.0600"]
+zillowHomeValueUsd: 230888
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Wright-Patterson AFB:** structural drying capacity optimized for 801ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Greene County. Relative Humidity Threshold: 74%. Sensor sync: Active.

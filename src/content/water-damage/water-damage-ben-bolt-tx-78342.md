@@ -12,6 +12,8 @@ lng: -98.1000
 zipSample: ["78332", "78342"]
 zipCodes: ["78332", "78342"]
 localPaths: ["Jim Wells County / coords 27.6700, -98.1000", "Jim Wells County / primary ZIP 78342", "Jim Wells County / ZIP 78342 sector", "Jim Wells County / ZIP 78332 sector", "Jim Wells County / elevation 203 ft band"]
+zillowHomeValueUsd: 295292
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Ben Bolt:** structural drying capacity optimized for 203ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jim Wells County. Relative Humidity Threshold: 80%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -75.8800
 zipSample: ["18801"]
 zipCodes: ["18801"]
 localPaths: ["Susquehanna County / coords 41.8300, -75.8800", "Susquehanna County / elevation 1667 ft band", "Susquehanna County / ZIP 18801 sector", "Susquehanna County / primary ZIP 18801"]
+zillowHomeValueUsd: 245838
 ---
 
 **Engineering Notice for Montrose:** structural drying capacity optimized for 1667ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Susquehanna County. Relative Humidity Threshold: 76%. Sensor sync: Active.

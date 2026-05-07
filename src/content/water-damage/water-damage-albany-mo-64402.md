@@ -12,6 +12,7 @@ lng: -94.3300
 zipSample: ["64402"]
 zipCodes: ["64402"]
 localPaths: ["Gentry County / coords 40.2500, -94.3300", "Gentry County / ZIP 64402 sector", "Gentry County / elevation 915 ft band", "Gentry County / primary ZIP 64402"]
+zillowHomeValueUsd: 119146
 ---
 
 **Engineering Notice for Albany:** structural drying capacity optimized for 915ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gentry County. Relative Humidity Threshold: 72%. Sensor sync: Active.

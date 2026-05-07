@@ -12,6 +12,7 @@ lng: -113.0100
 zipSample: ["84751"]
 zipCodes: ["84751"]
 localPaths: ["Beaver County / ZIP 84751 sector", "Beaver County / primary ZIP 84751", "Beaver County / elevation 4987 ft band", "Beaver County / coords 38.3900, -113.0100"]
+zillowHomeValueUsd: 214822
 ---
 
 **Engineering Notice for Milford:** structural drying capacity optimized for 4987ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Beaver County. Relative Humidity Threshold: 72%. Sensor sync: Active.

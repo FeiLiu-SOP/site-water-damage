@@ -12,6 +12,7 @@ lng: -84.9200
 zipSample: ["32460"]
 zipCodes: ["32460"]
 localPaths: ["Jackson County / primary ZIP 32460", "Jackson County / elevation 141 ft band", "Jackson County / coords 30.7100, -84.9200", "Jackson County / ZIP 32460 sector"]
+zillowHomeValueUsd: 154340
 ---
 
 **Engineering Notice for Sneads:** structural drying capacity optimized for 141ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jackson County. Relative Humidity Threshold: 77%. Sensor sync: Active.

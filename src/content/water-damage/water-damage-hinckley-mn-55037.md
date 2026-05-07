@@ -12,6 +12,7 @@ lng: -92.9300
 zipSample: ["55037"]
 zipCodes: ["55037"]
 localPaths: ["Pine County / elevation 1017 ft band", "Pine County / ZIP 55037 sector", "Pine County / primary ZIP 55037", "Pine County / coords 46.0100, -92.9300"]
+zillowHomeValueUsd: 190217
 ---
 
 **Engineering Notice for Hinckley:** structural drying capacity optimized for 1017ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pine County. Relative Humidity Threshold: 84%. Sensor sync: Active.

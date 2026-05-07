@@ -12,6 +12,7 @@ lng: -84.4000
 zipSample: ["45227"]
 zipCodes: ["45227"]
 localPaths: ["Hamilton County / primary ZIP 45227", "Hamilton County / elevation 548 ft band", "Hamilton County / ZIP 45227 sector", "Hamilton County / coords 39.1400, -84.4000"]
+zillowHomeValueUsd: 286924
 ---
 
 **Engineering Notice for Fairfax:** structural drying capacity optimized for 548ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hamilton County. Relative Humidity Threshold: 71%. Sensor sync: Active.

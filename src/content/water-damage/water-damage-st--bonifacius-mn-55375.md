@@ -12,6 +12,7 @@ lng: -93.7500
 zipSample: ["55375"]
 zipCodes: ["55375"]
 localPaths: ["Hennepin County / coords 44.9100, -93.7500", "Hennepin County / ZIP 55375 sector", "Hennepin County / primary ZIP 55375", "Hennepin County / elevation 965 ft band"]
+zillowHomeValueUsd: 451702
 ---
 
 **Engineering Notice for St. Bonifacius:** structural drying capacity optimized for 965ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hennepin County. Relative Humidity Threshold: 83%. Sensor sync: Active.

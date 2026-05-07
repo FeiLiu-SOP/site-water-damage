@@ -12,6 +12,7 @@ lng: -119.1500
 zipSample: ["93257", "93258"]
 zipCodes: ["93257", "93258"]
 localPaths: ["Tulare County / ZIP 93258 sector", "Tulare County / primary ZIP 93257", "Tulare County / ZIP 93257 sector", "Tulare County / coords 36.0600, -119.1500", "Tulare County / elevation 364 ft band"]
+zillowHomeValueUsd: 326652
 ---
 
 **Engineering Notice for Poplar-Cotton Center:** structural drying capacity optimized for 364ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tulare County. Relative Humidity Threshold: 68%. Sensor sync: Active.

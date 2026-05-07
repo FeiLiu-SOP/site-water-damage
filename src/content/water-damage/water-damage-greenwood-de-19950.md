@@ -12,6 +12,7 @@ lng: -75.5900
 zipSample: ["19950"]
 zipCodes: ["19950"]
 localPaths: ["Sussex County / elevation 49 ft band", "Sussex County / primary ZIP 19950", "Sussex County / coords 38.8100, -75.5900", "Sussex County / ZIP 19950 sector"]
+zillowHomeValueUsd: 365370
 ---
 
 **Engineering Notice for Greenwood:** structural drying capacity optimized for 49ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sussex County. Relative Humidity Threshold: 74%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -79.3500
 zipSample: ["28364"]
 zipCodes: ["28364"]
 localPaths: ["Robeson County / primary ZIP 28364", "Robeson County / coords 34.7400, -79.3500", "Robeson County / elevation 213 ft band", "Robeson County / ZIP 28364 sector"]
+zillowHomeValueUsd: 108887
 ---
 
 **Engineering Notice for Maxton:** structural drying capacity optimized for 213ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Robeson County. Relative Humidity Threshold: 65%. Sensor sync: Active.

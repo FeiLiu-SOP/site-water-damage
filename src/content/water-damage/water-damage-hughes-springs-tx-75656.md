@@ -12,6 +12,7 @@ lng: -94.6300
 zipSample: ["75656"]
 zipCodes: ["75656"]
 localPaths: ["Cass County / primary ZIP 75656", "Cass County / elevation 390 ft band", "Cass County / coords 33.0000, -94.6300", "Cass County / ZIP 75656 sector"]
+zillowHomeValueUsd: 170263
 ---
 
 **Engineering Notice for Hughes Springs:** structural drying capacity optimized for 390ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cass County. Relative Humidity Threshold: 72%. Sensor sync: Active.

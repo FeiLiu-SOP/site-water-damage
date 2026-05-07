@@ -12,6 +12,7 @@ lng: -88.3900
 zipSample: ["38310"]
 zipCodes: ["38310"]
 localPaths: ["McNairy County / coords 35.2600, -88.3900", "McNairy County / elevation 495 ft band", "McNairy County / primary ZIP 38310", "McNairy County / ZIP 38310 sector"]
+zillowHomeValueUsd: 184208
 ---
 
 **Engineering Notice for Adamsville:** structural drying capacity optimized for 495ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McNairy County. Relative Humidity Threshold: 83%. Sensor sync: Active.

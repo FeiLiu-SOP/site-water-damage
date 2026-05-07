@@ -12,6 +12,7 @@ lng: -94.3600
 zipSample: ["64779"]
 zipCodes: ["64779"]
 localPaths: ["Bates County / elevation 810 ft band", "Bates County / coords 38.1000, -94.3600", "Bates County / ZIP 64779 sector", "Bates County / primary ZIP 64779"]
+zillowHomeValueUsd: 149771
 ---
 
 **Engineering Notice for Rich Hill:** structural drying capacity optimized for 810ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bates County. Relative Humidity Threshold: 69%. Sensor sync: Active.

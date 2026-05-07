@@ -12,6 +12,7 @@ lng: -123.2700
 zipSample: ["98557"]
 zipCodes: ["98557"]
 localPaths: ["Grays Harbor County / ZIP 98557 sector", "Grays Harbor County / coords 47.0600, -123.2700", "Grays Harbor County / primary ZIP 98557", "Grays Harbor County / elevation 285 ft band"]
+zillowHomeValueUsd: 385462
 ---
 
 **Engineering Notice for McCleary:** structural drying capacity optimized for 285ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grays Harbor County. Relative Humidity Threshold: 69%. Sensor sync: Active.

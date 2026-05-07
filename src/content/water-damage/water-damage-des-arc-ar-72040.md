@@ -12,6 +12,8 @@ lng: -91.5100
 zipSample: ["72040"]
 zipCodes: ["72040"]
 localPaths: ["Prairie County / ZIP 72040 sector", "Prairie County / primary ZIP 72040", "Prairie County / elevation 217 ft band", "Prairie County / coords 34.9800, -91.5100"]
+zillowHomeValueUsd: 202704
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Des Arc:** structural drying capacity optimized for 217ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Prairie County. Relative Humidity Threshold: 80%. Sensor sync: Active.

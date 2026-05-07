@@ -12,6 +12,7 @@ lng: -91.8400
 zipSample: ["71667"]
 zipCodes: ["71667"]
 localPaths: ["Lincoln County / elevation 289 ft band", "Lincoln County / primary ZIP 71667", "Lincoln County / coords 33.9400, -91.8400", "Lincoln County / ZIP 71667 sector"]
+zillowHomeValueUsd: 138507
 ---
 
 **Engineering Notice for Star City:** structural drying capacity optimized for 289ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lincoln County. Relative Humidity Threshold: 75%. Sensor sync: Active.

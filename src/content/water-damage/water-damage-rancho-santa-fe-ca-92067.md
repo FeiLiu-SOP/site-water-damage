@@ -12,6 +12,7 @@ lng: -117.2000
 zipSample: ["92067"]
 zipCodes: ["92067"]
 localPaths: ["San Diego County / primary ZIP 92067", "San Diego County / ZIP 92067 sector", "San Diego County / elevation 246 ft band", "San Diego County / coords 33.0200, -117.2000"]
+zillowHomeValueUsd: 4657085
 ---
 
 **Engineering Notice for Rancho Santa Fe:** structural drying capacity optimized for 246ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Diego County. Relative Humidity Threshold: 81%. Sensor sync: Active.

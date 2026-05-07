@@ -12,6 +12,7 @@ lng: -74.7200
 zipSample: ["07874"]
 zipCodes: ["07874"]
 localPaths: ["Sussex County / coords 40.9300, -74.7200", "Sussex County / primary ZIP 07874", "Sussex County / ZIP 07874 sector", "Sussex County / elevation 712 ft band"]
+zillowHomeValueUsd: 441396
 ---
 
 **Engineering Notice for Byram Center:** structural drying capacity optimized for 712ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sussex County. Relative Humidity Threshold: 67%. Sensor sync: Active.

@@ -12,6 +12,8 @@ lng: -109.0300
 zipSample: ["87328"]
 zipCodes: ["87328"]
 localPaths: ["McKinley County / elevation 7152 ft band", "McKinley County / ZIP 87328 sector", "McKinley County / coords 35.9000, -109.0300", "McKinley County / primary ZIP 87328"]
+zillowHomeValueUsd: 314446
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Navajo:** structural drying capacity optimized for 7152ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McKinley County. Relative Humidity Threshold: 69%. Sensor sync: Active.

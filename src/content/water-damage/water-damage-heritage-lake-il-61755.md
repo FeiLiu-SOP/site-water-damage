@@ -12,6 +12,7 @@ lng: -89.3300
 zipSample: ["61755"]
 zipCodes: ["61755"]
 localPaths: ["Tazewell County / ZIP 61755 sector", "Tazewell County / coords 40.5500, -89.3300", "Tazewell County / elevation 676 ft band", "Tazewell County / primary ZIP 61755"]
+zillowHomeValueUsd: 250197
 ---
 
 **Engineering Notice for Heritage Lake:** structural drying capacity optimized for 676ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tazewell County. Relative Humidity Threshold: 69%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -90.4100
 zipSample: ["62016"]
 zipCodes: ["62016"]
 localPaths: ["Greene County / elevation 607 ft band", "Greene County / ZIP 62016 sector", "Greene County / coords 39.2900, -90.4100", "Greene County / primary ZIP 62016"]
+zillowHomeValueUsd: 140246
 ---
 
 **Engineering Notice for Carrollton:** structural drying capacity optimized for 607ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Greene County. Relative Humidity Threshold: 84%. Sensor sync: Active.

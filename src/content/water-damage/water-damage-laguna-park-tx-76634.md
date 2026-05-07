@@ -12,6 +12,7 @@ lng: -97.3900
 zipSample: ["76644", "76634"]
 zipCodes: ["76644", "76634"]
 localPaths: ["Bosque County / elevation 528 ft band", "Bosque County / ZIP 76644 sector", "Bosque County / coords 31.8600, -97.3900", "Bosque County / ZIP 76634 sector", "Bosque County / primary ZIP 76634"]
+zillowHomeValueUsd: 224669
 ---
 
 **Engineering Notice for Laguna Park:** structural drying capacity optimized for 528ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bosque County. Relative Humidity Threshold: 80%. Sensor sync: Active.

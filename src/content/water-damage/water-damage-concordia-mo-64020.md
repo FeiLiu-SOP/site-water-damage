@@ -12,6 +12,7 @@ lng: -93.5700
 zipSample: ["64020"]
 zipCodes: ["64020"]
 localPaths: ["Lafayette County / coords 38.9900, -93.5700", "Lafayette County / primary ZIP 64020", "Lafayette County / elevation 787 ft band", "Lafayette County / ZIP 64020 sector"]
+zillowHomeValueUsd: 233090
 ---
 
 **Engineering Notice for Concordia:** structural drying capacity optimized for 787ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lafayette County. Relative Humidity Threshold: 84%. Sensor sync: Active.

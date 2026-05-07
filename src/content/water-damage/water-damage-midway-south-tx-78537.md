@@ -12,6 +12,7 @@ lng: -98.0200
 zipSample: ["78596", "78537"]
 zipCodes: ["78537", "78596"]
 localPaths: ["Hidalgo County / ZIP 78537 sector", "Hidalgo County / elevation 95 ft band", "Hidalgo County / primary ZIP 78537", "Hidalgo County / coords 26.1600, -98.0200", "Hidalgo County / ZIP 78596 sector"]
+zillowHomeValueUsd: 152970
 ---
 
 **Engineering Notice for Midway South:** structural drying capacity optimized for 95ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hidalgo County. Relative Humidity Threshold: 83%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -82.6100
 zipSample: ["34448", "34487"]
 zipCodes: ["34448", "34487"]
 localPaths: ["Citrus County / primary ZIP 34487", "Citrus County / elevation 39 ft band", "Citrus County / ZIP 34487 sector", "Citrus County / coords 28.7800, -82.6100", "Citrus County / ZIP 34448 sector"]
+zillowHomeValueUsd: 319418
 ---
 
 **Engineering Notice for Homosassa:** structural drying capacity optimized for 39ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Citrus County. Relative Humidity Threshold: 69%. Sensor sync: Active.

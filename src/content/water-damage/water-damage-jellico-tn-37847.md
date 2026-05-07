@@ -12,6 +12,7 @@ lng: -84.1400
 zipSample: ["37762", "37847"]
 zipCodes: ["37847", "37762"]
 localPaths: ["Campbell County / coords 36.5700, -84.1400", "Campbell County / ZIP 37762 sector", "Campbell County / elevation 1086 ft band", "Campbell County / primary ZIP 37847", "Campbell County / ZIP 37847 sector"]
+zillowHomeValueUsd: 185122
 ---
 
 **Engineering Notice for Jellico:** structural drying capacity optimized for 1086ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Campbell County. Relative Humidity Threshold: 76%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -94.8300
 zipSample: ["75939"]
 zipCodes: ["75939"]
 localPaths: ["Polk County / ZIP 75939 sector", "Polk County / primary ZIP 75939", "Polk County / elevation 249 ft band", "Polk County / coords 31.0000, -94.8300"]
+zillowHomeValueUsd: 148241
 ---
 
 **Engineering Notice for Corrigan:** structural drying capacity optimized for 249ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Polk County. Relative Humidity Threshold: 70%. Sensor sync: Active.

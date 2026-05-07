@@ -12,6 +12,7 @@ lng: -99.9300
 zipSample: ["79567"]
 zipCodes: ["79567"]
 localPaths: ["Runnels County / ZIP 79567 sector", "Runnels County / elevation 1854 ft band", "Runnels County / primary ZIP 79567", "Runnels County / coords 31.9600, -99.9300"]
+zillowHomeValueUsd: 100186
 ---
 
 **Engineering Notice for Winters:** structural drying capacity optimized for 1854ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Runnels County. Relative Humidity Threshold: 81%. Sensor sync: Active.

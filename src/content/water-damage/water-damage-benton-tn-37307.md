@@ -12,6 +12,7 @@ lng: -84.6500
 zipSample: ["37307"]
 zipCodes: ["37307"]
 localPaths: ["Polk County / primary ZIP 37307", "Polk County / elevation 741 ft band", "Polk County / ZIP 37307 sector", "Polk County / coords 35.1700, -84.6500"]
+zillowHomeValueUsd: 261865
 ---
 
 **Engineering Notice for Benton:** structural drying capacity optimized for 741ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Polk County. Relative Humidity Threshold: 75%. Sensor sync: Active.

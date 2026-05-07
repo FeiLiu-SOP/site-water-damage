@@ -12,6 +12,7 @@ lng: -107.5900
 zipSample: ["81428"]
 zipCodes: ["81428"]
 localPaths: ["Delta County / ZIP 81428 sector", "Delta County / elevation 5702 ft band", "Delta County / coords 38.8700, -107.5900", "Delta County / primary ZIP 81428"]
+zillowHomeValueUsd: 464875
 ---
 
 **Engineering Notice for Paonia:** structural drying capacity optimized for 5702ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Delta County. Relative Humidity Threshold: 71%. Sensor sync: Active.

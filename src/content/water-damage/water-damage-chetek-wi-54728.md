@@ -12,6 +12,7 @@ lng: -91.6500
 zipSample: ["54728"]
 zipCodes: ["54728"]
 localPaths: ["Barron County / ZIP 54728 sector", "Barron County / coords 45.3200, -91.6500", "Barron County / primary ZIP 54728", "Barron County / elevation 1047 ft band"]
+zillowHomeValueUsd: 280774
 ---
 
 **Engineering Notice for Chetek:** structural drying capacity optimized for 1047ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Barron County. Relative Humidity Threshold: 66%. Sensor sync: Active.

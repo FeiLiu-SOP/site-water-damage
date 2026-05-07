@@ -12,6 +12,7 @@ lng: -85.9600
 zipSample: ["37030"]
 zipCodes: ["37030"]
 localPaths: ["Smith County / elevation 597 ft band", "Smith County / ZIP 37030 sector", "Smith County / coords 36.2400, -85.9600", "Smith County / primary ZIP 37030"]
+zillowHomeValueUsd: 274845
 ---
 
 **Engineering Notice for South Carthage:** structural drying capacity optimized for 597ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Smith County. Relative Humidity Threshold: 71%. Sensor sync: Active.

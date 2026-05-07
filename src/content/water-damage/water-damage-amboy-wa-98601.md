@@ -12,6 +12,7 @@ lng: -122.4800
 zipSample: ["98601", "98675"]
 zipCodes: ["98601", "98675"]
 localPaths: ["Clark County / ZIP 98675 sector", "Clark County / elevation 787 ft band", "Clark County / ZIP 98601 sector", "Clark County / primary ZIP 98601", "Clark County / coords 45.9100, -122.4800"]
+zillowHomeValueUsd: 703399
 ---
 
 **Engineering Notice for Amboy:** structural drying capacity optimized for 787ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clark County. Relative Humidity Threshold: 66%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -97.4800
 zipSample: ["76078", "76234"]
 zipCodes: ["76078", "76234"]
 localPaths: ["Wise County / ZIP 76078 sector", "Wise County / ZIP 76234 sector", "Wise County / coords 33.0600, -97.4800", "Wise County / elevation 912 ft band", "Wise County / primary ZIP 76078"]
+zillowHomeValueUsd: 367218
 ---
 
 **Engineering Notice for Rhome:** structural drying capacity optimized for 912ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wise County. Relative Humidity Threshold: 66%. Sensor sync: Active.

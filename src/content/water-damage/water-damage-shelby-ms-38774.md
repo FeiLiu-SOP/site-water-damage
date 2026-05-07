@@ -12,6 +12,8 @@ lng: -90.7700
 zipSample: ["38774"]
 zipCodes: ["38774"]
 localPaths: ["Bolivar County / elevation 161 ft band", "Bolivar County / coords 33.9500, -90.7700", "Bolivar County / ZIP 38774 sector", "Bolivar County / primary ZIP 38774"]
+zillowHomeValueUsd: 161025
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Shelby:** structural drying capacity optimized for 161ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bolivar County. Relative Humidity Threshold: 76%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -92.5400
 zipSample: ["65259"]
 zipCodes: ["65259"]
 localPaths: ["Randolph County / ZIP 65259 sector", "Randolph County / primary ZIP 65259", "Randolph County / elevation 768 ft band", "Randolph County / coords 39.4400, -92.5400"]
+zillowHomeValueUsd: 208454
 ---
 
 **Engineering Notice for Huntsville:** structural drying capacity optimized for 768ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Randolph County. Relative Humidity Threshold: 76%. Sensor sync: Active.

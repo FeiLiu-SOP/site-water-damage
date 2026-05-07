@@ -12,6 +12,7 @@ lng: -90.7700
 zipSample: ["52726"]
 zipCodes: ["52726"]
 localPaths: ["Scott County / coords 41.5100, -90.7700", "Scott County / elevation 804 ft band", "Scott County / primary ZIP 52726", "Scott County / ZIP 52726 sector"]
+zillowHomeValueUsd: 343304
 ---
 
 **Engineering Notice for Blue Grass:** structural drying capacity optimized for 804ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Scott County. Relative Humidity Threshold: 84%. Sensor sync: Active.

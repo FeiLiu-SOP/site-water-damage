@@ -12,6 +12,7 @@ lng: -122.6200
 zipSample: ["95461"]
 zipCodes: ["95461"]
 localPaths: ["Lake County / coords 38.7500, -122.6200", "Lake County / primary ZIP 95461", "Lake County / ZIP 95461 sector", "Lake County / elevation 1115 ft band"]
+zillowHomeValueUsd: 315493
 ---
 
 **Engineering Notice for Middletown:** structural drying capacity optimized for 1115ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lake County. Relative Humidity Threshold: 71%. Sensor sync: Active.

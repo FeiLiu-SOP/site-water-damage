@@ -12,6 +12,7 @@ lng: -93.8000
 zipSample: ["65785"]
 zipCodes: ["65785"]
 localPaths: ["Cedar County / coords 37.7000, -93.8000", "Cedar County / primary ZIP 65785", "Cedar County / elevation 981 ft band", "Cedar County / ZIP 65785 sector"]
+zillowHomeValueUsd: 251411
 ---
 
 **Engineering Notice for Stockton:** structural drying capacity optimized for 981ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cedar County. Relative Humidity Threshold: 81%. Sensor sync: Active.

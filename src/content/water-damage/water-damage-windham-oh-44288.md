@@ -12,6 +12,7 @@ lng: -81.0400
 zipSample: ["44288"]
 zipCodes: ["44288"]
 localPaths: ["Portage County / elevation 961 ft band", "Portage County / coords 41.2400, -81.0400", "Portage County / ZIP 44288 sector", "Portage County / primary ZIP 44288"]
+zillowHomeValueUsd: 187143
 ---
 
 **Engineering Notice for Windham:** structural drying capacity optimized for 961ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Portage County. Relative Humidity Threshold: 78%. Sensor sync: Active.

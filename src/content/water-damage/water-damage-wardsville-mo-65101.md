@@ -12,6 +12,7 @@ lng: -92.1800
 zipSample: ["65101"]
 zipCodes: ["65101"]
 localPaths: ["Cole County / elevation 738 ft band", "Cole County / ZIP 65101 sector", "Cole County / primary ZIP 65101", "Cole County / coords 38.4900, -92.1800"]
+zillowHomeValueUsd: 265715
 ---
 
 **Engineering Notice for Wardsville:** structural drying capacity optimized for 738ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cole County. Relative Humidity Threshold: 76%. Sensor sync: Active.

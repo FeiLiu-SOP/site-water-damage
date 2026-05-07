@@ -12,6 +12,7 @@ lng: -72.3700
 zipSample: ["11944", "11939"]
 zipCodes: ["11939", "11944"]
 localPaths: ["Suffolk County / primary ZIP 11939", "Suffolk County / ZIP 11944 sector", "Suffolk County / elevation 16 ft band", "Suffolk County / ZIP 11939 sector", "Suffolk County / coords 41.1000, -72.3700"]
+zillowHomeValueUsd: 1175686
 ---
 
 **Engineering Notice for Greenport West:** structural drying capacity optimized for 16ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Suffolk County. Relative Humidity Threshold: 82%. Sensor sync: Active.

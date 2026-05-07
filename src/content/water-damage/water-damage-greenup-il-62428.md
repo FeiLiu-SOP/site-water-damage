@@ -12,6 +12,7 @@ lng: -88.1600
 zipSample: ["62428"]
 zipCodes: ["62428"]
 localPaths: ["Cumberland County / primary ZIP 62428", "Cumberland County / coords 39.2500, -88.1600", "Cumberland County / elevation 597 ft band", "Cumberland County / ZIP 62428 sector"]
+zillowHomeValueUsd: 139942
 ---
 
 **Engineering Notice for Greenup:** structural drying capacity optimized for 597ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cumberland County. Relative Humidity Threshold: 75%. Sensor sync: Active.

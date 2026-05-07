@@ -12,6 +12,7 @@ lng: -84.4300
 zipSample: ["49249"]
 zipCodes: ["49249"]
 localPaths: ["Hillsdale County / coords 42.0600, -84.4300", "Hillsdale County / elevation 1050 ft band", "Hillsdale County / primary ZIP 49249", "Hillsdale County / ZIP 49249 sector"]
+zillowHomeValueUsd: 291841
 ---
 
 **Engineering Notice for Lake LeAnn:** structural drying capacity optimized for 1050ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hillsdale County. Relative Humidity Threshold: 70%. Sensor sync: Active.

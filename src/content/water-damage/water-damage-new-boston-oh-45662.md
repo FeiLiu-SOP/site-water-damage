@@ -12,6 +12,7 @@ lng: -82.9400
 zipSample: ["45662"]
 zipCodes: ["45662"]
 localPaths: ["Scioto County / ZIP 45662 sector", "Scioto County / elevation 525 ft band", "Scioto County / coords 38.7500, -82.9400", "Scioto County / primary ZIP 45662"]
+zillowHomeValueUsd: 99256
 ---
 
 **Engineering Notice for New Boston:** structural drying capacity optimized for 525ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Scioto County. Relative Humidity Threshold: 78%. Sensor sync: Active.

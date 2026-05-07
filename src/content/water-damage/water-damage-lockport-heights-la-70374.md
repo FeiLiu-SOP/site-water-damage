@@ -12,6 +12,7 @@ lng: -90.5500
 zipSample: ["70394", "70374"]
 zipCodes: ["70374", "70394"]
 localPaths: ["Lafourche Parish / ZIP 70394 sector", "Lafourche Parish / coords 29.6600, -90.5500", "Lafourche Parish / ZIP 70374 sector", "Lafourche Parish / elevation 10 ft band", "Lafourche Parish / primary ZIP 70374"]
+zillowHomeValueUsd: 168772
 ---
 
 **Engineering Notice for Lockport Heights:** structural drying capacity optimized for 10ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lafourche Parish. Relative Humidity Threshold: 81%. Sensor sync: Active.

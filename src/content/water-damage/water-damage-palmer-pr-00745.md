@@ -12,6 +12,8 @@ lng: -65.7700
 zipSample: ["00721", "00745"]
 zipCodes: ["00745", "00721"]
 localPaths: ["Río Grande County / ZIP 00745 sector", "Río Grande County / ZIP 00721 sector", "Río Grande County / coords 18.3700, -65.7700", "Río Grande County / primary ZIP 00745", "Río Grande County / elevation 52 ft band"]
+zillowHomeValueUsd: 351182
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Palmer:** structural drying capacity optimized for 52ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Río Grande County. Relative Humidity Threshold: 82%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -95.0200
 zipSample: ["77571"]
 zipCodes: ["77571"]
 localPaths: ["Harris County / elevation 33 ft band", "Harris County / coords 29.6200, -95.0200", "Harris County / ZIP 77571 sector", "Harris County / primary ZIP 77571"]
+zillowHomeValueUsd: 257192
 ---
 
 **Engineering Notice for Shoreacres:** structural drying capacity optimized for 33ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harris County. Relative Humidity Threshold: 66%. Sensor sync: Active.

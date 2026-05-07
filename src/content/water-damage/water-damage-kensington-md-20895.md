@@ -12,6 +12,7 @@ lng: -77.0700
 zipSample: ["20891", "20895"]
 zipCodes: ["20891", "20895"]
 localPaths: ["Montgomery County / elevation 302 ft band", "Montgomery County / ZIP 20895 sector", "Montgomery County / ZIP 20891 sector", "Montgomery County / primary ZIP 20895", "Montgomery County / coords 39.0300, -77.0700"]
+zillowHomeValueUsd: 819913
 ---
 
 **Engineering Notice for Kensington:** structural drying capacity optimized for 302ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Montgomery County. Relative Humidity Threshold: 68%. Sensor sync: Active.

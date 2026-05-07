@@ -12,6 +12,7 @@ lng: -84.6800
 zipSample: ["40347"]
 zipCodes: ["40347"]
 localPaths: ["Woodford County / ZIP 40347 sector", "Woodford County / coords 38.1600, -84.6800", "Woodford County / primary ZIP 40347", "Woodford County / elevation 846 ft band"]
+zillowHomeValueUsd: 358270
 ---
 
 **Engineering Notice for Midway:** structural drying capacity optimized for 846ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Woodford County. Relative Humidity Threshold: 80%. Sensor sync: Active.

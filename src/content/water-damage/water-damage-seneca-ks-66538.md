@@ -12,6 +12,7 @@ lng: -96.0700
 zipSample: ["66538"]
 zipCodes: ["66538"]
 localPaths: ["Nemaha County / elevation 1161 ft band", "Nemaha County / ZIP 66538 sector", "Nemaha County / coords 39.8400, -96.0700", "Nemaha County / primary ZIP 66538"]
+zillowHomeValueUsd: 266614
 ---
 
 **Engineering Notice for Seneca:** structural drying capacity optimized for 1161ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Nemaha County. Relative Humidity Threshold: 68%. Sensor sync: Active.

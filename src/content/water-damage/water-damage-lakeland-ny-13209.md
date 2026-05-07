@@ -12,6 +12,7 @@ lng: -76.2400
 zipSample: ["13209"]
 zipCodes: ["13209"]
 localPaths: ["Onondaga County / ZIP 13209 sector", "Onondaga County / coords 43.0900, -76.2400", "Onondaga County / elevation 505 ft band", "Onondaga County / primary ZIP 13209"]
+zillowHomeValueUsd: 226730
 ---
 
 **Engineering Notice for Lakeland:** structural drying capacity optimized for 505ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Onondaga County. Relative Humidity Threshold: 65%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -90.7100
 zipSample: ["70090"]
 zipCodes: ["70090"]
 localPaths: ["St. James Parish / coords 30.0000, -90.7100", "St. James Parish / elevation 20 ft band", "St. James Parish / primary ZIP 70090", "St. James Parish / ZIP 70090 sector"]
+zillowHomeValueUsd: 192677
 ---
 
 **Engineering Notice for North Vacherie:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. James Parish. Relative Humidity Threshold: 77%. Sensor sync: Active.

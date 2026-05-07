@@ -12,6 +12,7 @@ lng: -119.6700
 zipSample: ["98813"]
 zipCodes: ["98813"]
 localPaths: ["Douglas County / primary ZIP 98813", "Douglas County / elevation 856 ft band", "Douglas County / coords 48.0100, -119.6700", "Douglas County / ZIP 98813 sector"]
+zillowHomeValueUsd: 233887
 ---
 
 **Engineering Notice for Bridgeport:** structural drying capacity optimized for 856ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Douglas County. Relative Humidity Threshold: 74%. Sensor sync: Active.

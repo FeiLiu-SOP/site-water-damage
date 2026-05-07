@@ -12,6 +12,7 @@ lng: -87.3200
 zipSample: ["47944"]
 zipCodes: ["47944"]
 localPaths: ["Benton County / elevation 833 ft band", "Benton County / primary ZIP 47944", "Benton County / ZIP 47944 sector", "Benton County / coords 40.6200, -87.3200"]
+zillowHomeValueUsd: 206359
 ---
 
 **Engineering Notice for Fowler:** structural drying capacity optimized for 833ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Benton County. Relative Humidity Threshold: 72%. Sensor sync: Active.

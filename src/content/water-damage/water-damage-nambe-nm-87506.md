@@ -12,6 +12,7 @@ lng: -105.9700
 zipSample: ["87506"]
 zipCodes: ["87506"]
 localPaths: ["Santa Fe County / ZIP 87506 sector", "Santa Fe County / primary ZIP 87506", "Santa Fe County / coords 35.9000, -105.9700", "Santa Fe County / elevation 6122 ft band"]
+zillowHomeValueUsd: 1093181
 ---
 
 **Engineering Notice for Nambe:** structural drying capacity optimized for 6122ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Santa Fe County. Relative Humidity Threshold: 81%. Sensor sync: Active.

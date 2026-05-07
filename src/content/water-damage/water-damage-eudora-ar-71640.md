@@ -12,6 +12,7 @@ lng: -91.2600
 zipSample: ["71640"]
 zipCodes: ["71640"]
 localPaths: ["Chicot County / elevation 154 ft band", "Chicot County / coords 33.1200, -91.2600", "Chicot County / ZIP 71640 sector", "Chicot County / primary ZIP 71640"]
+zillowHomeValueUsd: 69433
 ---
 
 **Engineering Notice for Eudora:** structural drying capacity optimized for 154ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chicot County. Relative Humidity Threshold: 78%. Sensor sync: Active.

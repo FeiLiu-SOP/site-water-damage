@@ -12,6 +12,7 @@ lng: -98.3200
 zipSample: ["78112"]
 zipCodes: ["78112"]
 localPaths: ["Bexar County / primary ZIP 78112", "Bexar County / coords 29.2600, -98.3200", "Bexar County / elevation 545 ft band", "Bexar County / ZIP 78112 sector"]
+zillowHomeValueUsd: 234012
 ---
 
 **Engineering Notice for Elmendorf:** structural drying capacity optimized for 545ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bexar County. Relative Humidity Threshold: 79%. Sensor sync: Active.

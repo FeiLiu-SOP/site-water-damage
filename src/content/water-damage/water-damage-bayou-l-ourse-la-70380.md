@@ -12,6 +12,7 @@ lng: -91.0600
 zipSample: ["70380"]
 zipCodes: ["70380"]
 localPaths: ["Assumption Parish / coords 29.7200, -91.0600", "Assumption Parish / ZIP 70380 sector", "Assumption Parish / primary ZIP 70380", "Assumption Parish / elevation 13 ft band"]
+zillowHomeValueUsd: 122746
 ---
 
 **Engineering Notice for Bayou L'Ourse:** structural drying capacity optimized for 13ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Assumption Parish. Relative Humidity Threshold: 74%. Sensor sync: Active.

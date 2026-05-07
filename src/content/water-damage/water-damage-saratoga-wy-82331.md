@@ -12,6 +12,7 @@ lng: -106.8100
 zipSample: ["82331"]
 zipCodes: ["82331"]
 localPaths: ["Carbon County / coords 41.4500, -106.8100", "Carbon County / elevation 6804 ft band", "Carbon County / ZIP 82331 sector", "Carbon County / primary ZIP 82331"]
+zillowHomeValueUsd: 296647
 ---
 
 **Engineering Notice for Saratoga:** structural drying capacity optimized for 6804ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Carbon County. Relative Humidity Threshold: 84%. Sensor sync: Active.

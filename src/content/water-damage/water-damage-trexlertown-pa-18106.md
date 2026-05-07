@@ -12,6 +12,7 @@ lng: -75.6000
 zipSample: ["18087", "18031", "18106"]
 zipCodes: ["18106", "18087", "18031"]
 localPaths: ["Lehigh County / primary ZIP 18106", "Lehigh County / ZIP 18031 sector", "Lehigh County / ZIP 18087 sector", "Lehigh County / coords 40.5500, -75.6000", "Lehigh County / ZIP 18106 sector"]
+zillowHomeValueUsd: 442425
 ---
 
 **Engineering Notice for Trexlertown:** structural drying capacity optimized for 413ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lehigh County. Relative Humidity Threshold: 76%. Sensor sync: Active.

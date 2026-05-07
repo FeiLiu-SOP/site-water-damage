@@ -12,6 +12,7 @@ lng: -90.4800
 zipSample: ["70466", "70451", "70401"]
 zipCodes: ["70401", "70466", "70451"]
 localPaths: ["Tangipahoa Parish / coords 30.5500, -90.4800", "Tangipahoa Parish / ZIP 70401 sector", "Tangipahoa Parish / ZIP 70466 sector", "Tangipahoa Parish / primary ZIP 70466", "Tangipahoa Parish / ZIP 70451 sector"]
+zillowHomeValueUsd: 196553
 ---
 
 **Engineering Notice for Natalbany:** structural drying capacity optimized for 72ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tangipahoa Parish. Relative Humidity Threshold: 83%. Sensor sync: Active.

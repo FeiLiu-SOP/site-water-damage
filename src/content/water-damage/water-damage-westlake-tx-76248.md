@@ -12,6 +12,7 @@ lng: -97.2000
 zipSample: ["76248", "76262"]
 zipCodes: ["76248", "76262"]
 localPaths: ["Tarrant County / ZIP 76262 sector", "Tarrant County / coords 32.9800, -97.2000", "Tarrant County / ZIP 76248 sector", "Tarrant County / elevation 676 ft band", "Tarrant County / primary ZIP 76248"]
+zillowHomeValueUsd: 589590
 ---
 
 **Engineering Notice for Westlake:** structural drying capacity optimized for 676ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tarrant County. Relative Humidity Threshold: 72%. Sensor sync: Active.

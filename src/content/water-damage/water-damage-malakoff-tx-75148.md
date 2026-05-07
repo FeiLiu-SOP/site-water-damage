@@ -12,6 +12,7 @@ lng: -96.0200
 zipSample: ["75148"]
 zipCodes: ["75148"]
 localPaths: ["Henderson County / elevation 371 ft band", "Henderson County / coords 32.1700, -96.0200", "Henderson County / primary ZIP 75148", "Henderson County / ZIP 75148 sector"]
+zillowHomeValueUsd: 277889
 ---
 
 **Engineering Notice for Malakoff:** structural drying capacity optimized for 371ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Henderson County. Relative Humidity Threshold: 81%. Sensor sync: Active.

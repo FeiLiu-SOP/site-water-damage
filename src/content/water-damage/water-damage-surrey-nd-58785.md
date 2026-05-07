@@ -12,6 +12,7 @@ lng: -101.1300
 zipSample: ["58785"]
 zipCodes: ["58785"]
 localPaths: ["Ward County / coords 48.2400, -101.1300", "Ward County / elevation 1608 ft band", "Ward County / ZIP 58785 sector", "Ward County / primary ZIP 58785"]
+zillowHomeValueUsd: 334982
 ---
 
 **Engineering Notice for Surrey:** structural drying capacity optimized for 1608ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ward County. Relative Humidity Threshold: 66%. Sensor sync: Active.

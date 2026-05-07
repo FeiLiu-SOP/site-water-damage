@@ -12,6 +12,7 @@ lng: -95.4800
 zipSample: ["51346"]
 zipCodes: ["51346"]
 localPaths: ["O'Brien County / elevation 1453 ft band", "O'Brien County / ZIP 51346 sector", "O'Brien County / primary ZIP 51346", "O'Brien County / coords 43.1800, -95.4800"]
+zillowHomeValueUsd: 174412
 ---
 
 **Engineering Notice for Hartley:** structural drying capacity optimized for 1453ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: O'Brien County. Relative Humidity Threshold: 67%. Sensor sync: Active.

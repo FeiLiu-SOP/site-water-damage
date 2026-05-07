@@ -12,6 +12,7 @@ lng: -80.9800
 zipSample: ["29708"]
 zipCodes: ["29708"]
 localPaths: ["York County / ZIP 29708 sector", "York County / primary ZIP 29708", "York County / elevation 705 ft band", "York County / coords 35.0100, -80.9800"]
+zillowHomeValueUsd: 575532
 ---
 
 **Engineering Notice for Riverview:** structural drying capacity optimized for 705ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: York County. Relative Humidity Threshold: 79%. Sensor sync: Active.

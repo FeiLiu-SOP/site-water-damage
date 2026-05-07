@@ -12,6 +12,7 @@ lng: -151.2800
 zipSample: ["99610"]
 zipCodes: ["99610"]
 localPaths: ["Kenai Peninsula County / coords 60.2700, -151.2800", "Kenai Peninsula County / elevation 0 ft band", "Kenai Peninsula County / primary ZIP 99610", "Kenai Peninsula County / ZIP 99610 sector"]
+zillowHomeValueUsd: 282235
 ---
 
 **Engineering Notice for Cohoe:** structural drying capacity optimized for 0ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kenai Peninsula County. Relative Humidity Threshold: 73%. Sensor sync: Active.

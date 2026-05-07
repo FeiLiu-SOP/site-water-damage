@@ -12,6 +12,7 @@ lng: -93.9700
 zipSample: ["55390"]
 zipCodes: ["55390"]
 localPaths: ["Wright County / ZIP 55390 sector", "Wright County / elevation 1010 ft band", "Wright County / coords 45.0600, -93.9700", "Wright County / primary ZIP 55390"]
+zillowHomeValueUsd: 348835
 ---
 
 **Engineering Notice for Waverly:** structural drying capacity optimized for 1010ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wright County. Relative Humidity Threshold: 81%. Sensor sync: Active.

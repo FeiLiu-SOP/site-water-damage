@@ -12,6 +12,7 @@ lng: -82.4800
 zipSample: ["45651"]
 zipCodes: ["45651"]
 localPaths: ["Vinton County / primary ZIP 45651", "Vinton County / ZIP 45651 sector", "Vinton County / elevation 768 ft band", "Vinton County / coords 39.2500, -82.4800"]
+zillowHomeValueUsd: 171649
 ---
 
 **Engineering Notice for McArthur:** structural drying capacity optimized for 768ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Vinton County. Relative Humidity Threshold: 82%. Sensor sync: Active.

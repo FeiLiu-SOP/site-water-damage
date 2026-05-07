@@ -12,6 +12,7 @@ lng: -74.5800
 zipSample: ["08873"]
 zipCodes: ["08873"]
 localPaths: ["Somerset County / coords 40.5200, -74.5800", "Somerset County / primary ZIP 08873", "Somerset County / elevation 92 ft band", "Somerset County / ZIP 08873 sector"]
+zillowHomeValueUsd: 567153
 ---
 
 **Engineering Notice for Weston:** structural drying capacity optimized for 92ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Somerset County. Relative Humidity Threshold: 84%. Sensor sync: Active.

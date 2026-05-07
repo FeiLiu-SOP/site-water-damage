@@ -12,6 +12,7 @@ lng: -76.1100
 zipSample: ["17529", "17534", "17572"]
 zipCodes: ["17572", "17529", "17534"]
 localPaths: ["Lancaster County / ZIP 17534 sector", "Lancaster County / ZIP 17529 sector", "Lancaster County / elevation 440 ft band", "Lancaster County / primary ZIP 17572", "Lancaster County / coords 40.0400, -76.1100"]
+zillowHomeValueUsd: 495120
 ---
 
 **Engineering Notice for Intercourse:** structural drying capacity optimized for 440ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lancaster County. Relative Humidity Threshold: 68%. Sensor sync: Active.

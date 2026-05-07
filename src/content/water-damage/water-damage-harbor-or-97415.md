@@ -12,6 +12,7 @@ lng: -124.2500
 zipSample: ["97415"]
 zipCodes: ["97415"]
 localPaths: ["Curry County / elevation 121 ft band", "Curry County / primary ZIP 97415", "Curry County / coords 42.0400, -124.2500", "Curry County / ZIP 97415 sector"]
+zillowHomeValueUsd: 476257
 ---
 
 **Engineering Notice for Harbor:** structural drying capacity optimized for 121ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Curry County. Relative Humidity Threshold: 70%. Sensor sync: Active.

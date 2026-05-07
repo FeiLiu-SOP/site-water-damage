@@ -12,6 +12,7 @@ lng: -85.6400
 zipSample: ["37339"]
 zipCodes: ["37339"]
 localPaths: ["Grundy County / primary ZIP 37339", "Grundy County / coords 35.3700, -85.6400", "Grundy County / elevation 1883 ft band", "Grundy County / ZIP 37339 sector"]
+zillowHomeValueUsd: 186658
 ---
 
 **Engineering Notice for Gruetli-Laager:** structural drying capacity optimized for 1883ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grundy County. Relative Humidity Threshold: 75%. Sensor sync: Active.

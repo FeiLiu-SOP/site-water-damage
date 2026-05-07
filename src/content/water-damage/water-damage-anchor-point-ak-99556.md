@@ -12,6 +12,7 @@ lng: -151.7100
 zipSample: ["99556"]
 zipCodes: ["99556"]
 localPaths: ["Kenai Peninsula County / elevation 364 ft band", "Kenai Peninsula County / primary ZIP 99556", "Kenai Peninsula County / coords 59.7700, -151.7100", "Kenai Peninsula County / ZIP 99556 sector"]
+zillowHomeValueUsd: 251745
 ---
 
 **Engineering Notice for Anchor Point:** structural drying capacity optimized for 364ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kenai Peninsula County. Relative Humidity Threshold: 65%. Sensor sync: Active.

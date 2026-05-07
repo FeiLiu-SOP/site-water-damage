@@ -12,6 +12,7 @@ lng: -84.3500
 zipSample: ["49247"]
 zipCodes: ["49247"]
 localPaths: ["Lenawee County / ZIP 49247 sector", "Lenawee County / primary ZIP 49247", "Lenawee County / elevation 928 ft band", "Lenawee County / coords 41.8600, -84.3500"]
+zillowHomeValueUsd: 195982
 ---
 
 **Engineering Notice for Hudson:** structural drying capacity optimized for 928ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lenawee County. Relative Humidity Threshold: 79%. Sensor sync: Active.

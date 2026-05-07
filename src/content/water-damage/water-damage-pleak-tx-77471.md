@@ -12,6 +12,7 @@ lng: -95.8100
 zipSample: ["77461", "77469", "77471"]
 zipCodes: ["77469", "77471", "77461"]
 localPaths: ["Fort Bend County / coords 29.4800, -95.8100", "Fort Bend County / ZIP 77471 sector", "Fort Bend County / primary ZIP 77471", "Fort Bend County / ZIP 77461 sector", "Fort Bend County / ZIP 77469 sector"]
+zillowHomeValueUsd: 283376
 ---
 
 **Engineering Notice for Pleak:** structural drying capacity optimized for 92ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fort Bend County. Relative Humidity Threshold: 67%. Sensor sync: Active.

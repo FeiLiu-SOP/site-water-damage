@@ -12,6 +12,7 @@ lng: -75.6500
 zipSample: ["19709", "19720", "19733", "19701"]
 zipCodes: ["19709", "19701", "19733", "19720"]
 localPaths: ["New Castle County / elevation 39 ft band", "New Castle County / primary ZIP 19720", "New Castle County / ZIP 19701 sector", "New Castle County / coords 39.5600, -75.6500", "New Castle County / ZIP 19720 sector"]
+zillowHomeValueUsd: 280716
 ---
 
 **Engineering Notice for St. Georges:** structural drying capacity optimized for 39ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: New Castle County. Relative Humidity Threshold: 66%. Sensor sync: Active.

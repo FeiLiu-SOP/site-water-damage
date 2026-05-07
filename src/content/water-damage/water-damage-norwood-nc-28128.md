@@ -12,6 +12,7 @@ lng: -80.1100
 zipSample: ["28128"]
 zipCodes: ["28128"]
 localPaths: ["Stanly County / elevation 433 ft band", "Stanly County / coords 35.2300, -80.1100", "Stanly County / primary ZIP 28128", "Stanly County / ZIP 28128 sector"]
+zillowHomeValueUsd: 296561
 ---
 
 **Engineering Notice for Norwood:** structural drying capacity optimized for 433ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stanly County. Relative Humidity Threshold: 67%. Sensor sync: Active.

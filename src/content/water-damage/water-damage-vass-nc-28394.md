@@ -12,6 +12,7 @@ lng: -79.2800
 zipSample: ["28394"]
 zipCodes: ["28394"]
 localPaths: ["Moore County / primary ZIP 28394", "Moore County / coords 35.2500, -79.2800", "Moore County / ZIP 28394 sector", "Moore County / elevation 299 ft band"]
+zillowHomeValueUsd: 361520
 ---
 
 **Engineering Notice for Vass:** structural drying capacity optimized for 299ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Moore County. Relative Humidity Threshold: 84%. Sensor sync: Active.

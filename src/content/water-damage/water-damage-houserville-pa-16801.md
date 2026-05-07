@@ -12,6 +12,7 @@ lng: -77.8200
 zipSample: ["16801"]
 zipCodes: ["16801"]
 localPaths: ["Centre County / ZIP 16801 sector", "Centre County / elevation 1047 ft band", "Centre County / primary ZIP 16801", "Centre County / coords 40.8300, -77.8200"]
+zillowHomeValueUsd: 407234
 ---
 
 **Engineering Notice for Houserville:** structural drying capacity optimized for 1047ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Centre County. Relative Humidity Threshold: 79%. Sensor sync: Active.

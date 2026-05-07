@@ -12,6 +12,7 @@ lng: -94.2300
 zipSample: ["56367"]
 zipCodes: ["56367"]
 localPaths: ["Benton County / coords 45.7500, -94.2300", "Benton County / elevation 1053 ft band", "Benton County / ZIP 56367 sector", "Benton County / primary ZIP 56367"]
+zillowHomeValueUsd: 344585
 ---
 
 **Engineering Notice for Rice:** structural drying capacity optimized for 1053ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Benton County. Relative Humidity Threshold: 75%. Sensor sync: Active.

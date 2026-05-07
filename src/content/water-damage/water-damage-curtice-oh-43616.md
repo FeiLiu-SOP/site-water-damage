@@ -12,6 +12,7 @@ lng: -83.3700
 zipSample: ["43616", "43412"]
 zipCodes: ["43616", "43412"]
 localPaths: ["Ottawa County / primary ZIP 43616", "Ottawa County / elevation 594 ft band", "Ottawa County / ZIP 43412 sector", "Ottawa County / ZIP 43616 sector", "Ottawa County / coords 41.6200, -83.3700"]
+zillowHomeValueUsd: 227429
 ---
 
 **Engineering Notice for Curtice:** structural drying capacity optimized for 594ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ottawa County. Relative Humidity Threshold: 82%. Sensor sync: Active.

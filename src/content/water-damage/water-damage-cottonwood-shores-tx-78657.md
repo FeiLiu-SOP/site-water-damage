@@ -12,6 +12,7 @@ lng: -98.3300
 zipSample: ["78657"]
 zipCodes: ["78657"]
 localPaths: ["Burnet County / coords 30.5500, -98.3300", "Burnet County / ZIP 78657 sector", "Burnet County / elevation 843 ft band", "Burnet County / primary ZIP 78657"]
+zillowHomeValueUsd: 648090
 ---
 
 **Engineering Notice for Cottonwood Shores:** structural drying capacity optimized for 843ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Burnet County. Relative Humidity Threshold: 66%. Sensor sync: Active.

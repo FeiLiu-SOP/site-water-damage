@@ -12,6 +12,7 @@ lng: -94.4600
 zipSample: ["72722"]
 zipCodes: ["72722"]
 localPaths: ["Benton County / coords 36.3400, -94.4600", "Benton County / ZIP 72722 sector", "Benton County / elevation 1240 ft band", "Benton County / primary ZIP 72722"]
+zillowHomeValueUsd: 286923
 ---
 
 **Engineering Notice for Decatur:** structural drying capacity optimized for 1240ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Benton County. Relative Humidity Threshold: 77%. Sensor sync: Active.

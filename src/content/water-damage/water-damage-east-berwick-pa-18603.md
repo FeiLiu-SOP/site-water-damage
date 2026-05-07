@@ -12,6 +12,7 @@ lng: -76.2200
 zipSample: ["18603"]
 zipCodes: ["18603"]
 localPaths: ["Luzerne County / elevation 591 ft band", "Luzerne County / coords 41.0700, -76.2200", "Luzerne County / primary ZIP 18603", "Luzerne County / ZIP 18603 sector"]
+zillowHomeValueUsd: 203933
 ---
 
 **Engineering Notice for East Berwick:** structural drying capacity optimized for 591ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Luzerne County. Relative Humidity Threshold: 72%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -90.4600
 zipSample: ["70068"]
 zipCodes: ["70068"]
 localPaths: ["St. Charles Parish / primary ZIP 70068", "St. Charles Parish / coords 30.0200, -90.4600", "St. Charles Parish / elevation 20 ft band", "St. Charles Parish / ZIP 70068 sector"]
+zillowHomeValueUsd: 214969
 ---
 
 **Engineering Notice for Montz:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Charles Parish. Relative Humidity Threshold: 84%. Sensor sync: Active.

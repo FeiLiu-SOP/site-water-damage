@@ -12,6 +12,7 @@ lng: -80.8600
 zipSample: ["44076"]
 zipCodes: ["44076"]
 localPaths: ["Ashtabula County / primary ZIP 44076", "Ashtabula County / ZIP 44076 sector", "Ashtabula County / elevation 922 ft band", "Ashtabula County / coords 41.5400, -80.8600"]
+zillowHomeValueUsd: 227226
 ---
 
 **Engineering Notice for Orwell:** structural drying capacity optimized for 922ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ashtabula County. Relative Humidity Threshold: 70%. Sensor sync: Active.

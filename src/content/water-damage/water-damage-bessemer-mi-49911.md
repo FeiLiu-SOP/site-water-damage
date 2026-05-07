@@ -12,6 +12,7 @@ lng: -90.0500
 zipSample: ["49911"]
 zipCodes: ["49911"]
 localPaths: ["Gogebic County / ZIP 49911 sector", "Gogebic County / elevation 1493 ft band", "Gogebic County / primary ZIP 49911", "Gogebic County / coords 46.4800, -90.0500"]
+zillowHomeValueUsd: 111895
 ---
 
 **Engineering Notice for Bessemer:** structural drying capacity optimized for 1493ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gogebic County. Relative Humidity Threshold: 81%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -116.5900
 zipSample: ["92036"]
 zipCodes: ["92036"]
 localPaths: ["San Diego County / elevation 4364 ft band", "San Diego County / primary ZIP 92036", "San Diego County / ZIP 92036 sector", "San Diego County / coords 33.0700, -116.5900"]
+zillowHomeValueUsd: 579628
 ---
 
 **Engineering Notice for Julian:** structural drying capacity optimized for 4364ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Diego County. Relative Humidity Threshold: 69%. Sensor sync: Active.

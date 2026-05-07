@@ -12,6 +12,7 @@ lng: -97.7300
 zipSample: ["76085", "76082"]
 zipCodes: ["76085", "76082"]
 localPaths: ["Parker County / ZIP 76082 sector", "Parker County / elevation 1145 ft band", "Parker County / ZIP 76085 sector", "Parker County / primary ZIP 76085", "Parker County / coords 32.9100, -97.7300"]
+zillowHomeValueUsd: 464400
 ---
 
 **Engineering Notice for Carter:** structural drying capacity optimized for 1145ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Parker County. Relative Humidity Threshold: 83%. Sensor sync: Active.

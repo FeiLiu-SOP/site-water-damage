@@ -12,6 +12,8 @@ lng: -115.6200
 zipSample: ["92281"]
 zipCodes: ["92281"]
 localPaths: ["Imperial County / elevation -159 ft band", "Imperial County / coords 33.0400, -115.6200", "Imperial County / ZIP 92281 sector", "Imperial County / primary ZIP 92281"]
+zillowHomeValueUsd: 889822
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Westmorland:** structural drying capacity optimized for -159ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Imperial County. Relative Humidity Threshold: 76%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -89.0500
 zipSample: ["53932"]
 zipCodes: ["53932"]
 localPaths: ["Columbia County / primary ZIP 53932", "Columbia County / ZIP 53932 sector", "Columbia County / coords 43.3900, -89.0500", "Columbia County / elevation 860 ft band"]
+zillowHomeValueUsd: 353726
 ---
 
 **Engineering Notice for Fall River:** structural drying capacity optimized for 860ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Columbia County. Relative Humidity Threshold: 81%. Sensor sync: Active.

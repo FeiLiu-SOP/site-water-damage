@@ -12,6 +12,7 @@ lng: -98.0300
 zipSample: ["76457"]
 zipCodes: ["76457"]
 localPaths: ["Hamilton County / ZIP 76457 sector", "Hamilton County / elevation 1070 ft band", "Hamilton County / primary ZIP 76457", "Hamilton County / coords 31.9900, -98.0300"]
+zillowHomeValueUsd: 352123
 ---
 
 **Engineering Notice for Hico:** structural drying capacity optimized for 1070ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hamilton County. Relative Humidity Threshold: 70%. Sensor sync: Active.

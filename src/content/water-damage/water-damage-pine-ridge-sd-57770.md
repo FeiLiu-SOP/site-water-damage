@@ -12,6 +12,8 @@ lng: -102.5500
 zipSample: ["57770"]
 zipCodes: ["57770"]
 localPaths: ["Oglala Lakota County / coords 43.0300, -102.5500", "Oglala Lakota County / ZIP 57770 sector", "Oglala Lakota County / elevation 3248 ft band", "Oglala Lakota County / primary ZIP 57770"]
+zillowHomeValueUsd: 312601
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Pine Ridge:** structural drying capacity optimized for 3248ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Oglala Lakota County. Relative Humidity Threshold: 71%. Sensor sync: Active.

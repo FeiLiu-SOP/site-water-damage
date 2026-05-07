@@ -12,6 +12,7 @@ lng: -78.3600
 zipSample: ["16648"]
 zipCodes: ["16648"]
 localPaths: ["Blair County / coords 40.4200, -78.3600", "Blair County / ZIP 16648 sector", "Blair County / primary ZIP 16648", "Blair County / elevation 942 ft band"]
+zillowHomeValueUsd: 243712
 ---
 
 **Engineering Notice for Loop:** structural drying capacity optimized for 942ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Blair County. Relative Humidity Threshold: 84%. Sensor sync: Active.

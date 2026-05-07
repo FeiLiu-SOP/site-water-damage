@@ -12,6 +12,7 @@ lng: -75.3500
 zipSample: ["18436"]
 zipCodes: ["18436"]
 localPaths: ["Wayne County / ZIP 18436 sector", "Wayne County / coords 41.4400, -75.3500", "Wayne County / primary ZIP 18436", "Wayne County / elevation 1345 ft band"]
+zillowHomeValueUsd: 303558
 ---
 
 **Engineering Notice for The Hideout:** structural drying capacity optimized for 1345ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wayne County. Relative Humidity Threshold: 82%. Sensor sync: Active.

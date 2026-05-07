@@ -12,6 +12,7 @@ lng: -111.8200
 zipSample: ["84321"]
 zipCodes: ["84321"]
 localPaths: ["Cache County / elevation 4567 ft band", "Cache County / ZIP 84321 sector", "Cache County / coords 41.7200, -111.8200", "Cache County / primary ZIP 84321"]
+zillowHomeValueUsd: 421494
 ---
 
 **Engineering Notice for River Heights:** structural drying capacity optimized for 4567ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cache County. Relative Humidity Threshold: 74%. Sensor sync: Active.

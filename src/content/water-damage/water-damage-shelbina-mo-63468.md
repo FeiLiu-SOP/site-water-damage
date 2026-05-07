@@ -12,6 +12,7 @@ lng: -92.0400
 zipSample: ["63468"]
 zipCodes: ["63468"]
 localPaths: ["Shelby County / coords 39.6900, -92.0400", "Shelby County / primary ZIP 63468", "Shelby County / ZIP 63468 sector", "Shelby County / elevation 784 ft band"]
+zillowHomeValueUsd: 164495
 ---
 
 **Engineering Notice for Shelbina:** structural drying capacity optimized for 784ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Shelby County. Relative Humidity Threshold: 76%. Sensor sync: Active.

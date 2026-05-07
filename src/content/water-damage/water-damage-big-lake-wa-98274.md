@@ -12,6 +12,7 @@ lng: -122.2400
 zipSample: ["98274"]
 zipCodes: ["98274"]
 localPaths: ["Skagit County / elevation 105 ft band", "Skagit County / ZIP 98274 sector", "Skagit County / coords 48.3900, -122.2400", "Skagit County / primary ZIP 98274"]
+zillowHomeValueUsd: 621335
 ---
 
 **Engineering Notice for Big Lake:** structural drying capacity optimized for 105ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Skagit County. Relative Humidity Threshold: 71%. Sensor sync: Active.

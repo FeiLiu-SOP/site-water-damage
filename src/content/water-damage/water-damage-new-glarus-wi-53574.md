@@ -12,6 +12,7 @@ lng: -89.6300
 zipSample: ["53574"]
 zipCodes: ["53574"]
 localPaths: ["Green County / primary ZIP 53574", "Green County / elevation 883 ft band", "Green County / coords 42.8100, -89.6300", "Green County / ZIP 53574 sector"]
+zillowHomeValueUsd: 445931
 ---
 
 **Engineering Notice for New Glarus:** structural drying capacity optimized for 883ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Green County. Relative Humidity Threshold: 85%. Sensor sync: Active.

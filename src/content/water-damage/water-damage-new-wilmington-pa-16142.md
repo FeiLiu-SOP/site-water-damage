@@ -12,6 +12,7 @@ lng: -80.3300
 zipSample: ["16142", "16172"]
 zipCodes: ["16172", "16142"]
 localPaths: ["Lawrence County / coords 41.1200, -80.3300", "Lawrence County / elevation 1004 ft band", "Lawrence County / ZIP 16142 sector", "Lawrence County / primary ZIP 16142", "Lawrence County / ZIP 16172 sector"]
+zillowHomeValueUsd: 260301
 ---
 
 **Engineering Notice for New Wilmington:** structural drying capacity optimized for 1004ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lawrence County. Relative Humidity Threshold: 77%. Sensor sync: Active.

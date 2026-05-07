@@ -12,6 +12,7 @@ lng: -84.3100
 zipSample: ["31806"]
 zipCodes: ["31806"]
 localPaths: ["Schley County / primary ZIP 31806", "Schley County / ZIP 31806 sector", "Schley County / coords 32.2400, -84.3100", "Schley County / elevation 581 ft band"]
+zillowHomeValueUsd: 184719
 ---
 
 **Engineering Notice for Ellaville:** structural drying capacity optimized for 581ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Schley County. Relative Humidity Threshold: 76%. Sensor sync: Active.

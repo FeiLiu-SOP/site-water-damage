@@ -12,6 +12,7 @@ lng: -97.3300
 zipSample: ["78393"]
 zipCodes: ["78393"]
 localPaths: ["Refugio County / ZIP 78393 sector", "Refugio County / primary ZIP 78393", "Refugio County / coords 28.2400, -97.3300", "Refugio County / elevation 59 ft band"]
+zillowHomeValueUsd: 127007
 ---
 
 **Engineering Notice for Woodsboro:** structural drying capacity optimized for 59ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Refugio County. Relative Humidity Threshold: 75%. Sensor sync: Active.

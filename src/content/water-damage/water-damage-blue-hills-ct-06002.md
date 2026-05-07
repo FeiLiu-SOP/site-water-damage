@@ -12,6 +12,7 @@ lng: -72.7000
 zipSample: ["06002"]
 zipCodes: ["06002"]
 localPaths: ["Capitol County / coords 41.8100, -72.7000", "Capitol County / ZIP 06002 sector", "Capitol County / elevation 161 ft band", "Capitol County / primary ZIP 06002"]
+zillowHomeValueUsd: 355157
 ---
 
 **Engineering Notice for Blue Hills:** structural drying capacity optimized for 161ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Capitol County. Relative Humidity Threshold: 67%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -83.5600
 zipSample: ["43060"]
 zipCodes: ["43060"]
 localPaths: ["Champaign County / coords 40.2200, -83.5600", "Champaign County / primary ZIP 43060", "Champaign County / ZIP 43060 sector", "Champaign County / elevation 1099 ft band"]
+zillowHomeValueUsd: 255988
 ---
 
 **Engineering Notice for North Lewisburg:** structural drying capacity optimized for 1099ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Champaign County. Relative Humidity Threshold: 67%. Sensor sync: Active.

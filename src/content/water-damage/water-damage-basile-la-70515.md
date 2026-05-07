@@ -12,6 +12,7 @@ lng: -92.6000
 zipSample: ["70515"]
 zipCodes: ["70515"]
 localPaths: ["Evangeline Parish / ZIP 70515 sector", "Evangeline Parish / coords 30.4900, -92.6000", "Evangeline Parish / elevation 66 ft band", "Evangeline Parish / primary ZIP 70515"]
+zillowHomeValueUsd: 106362
 ---
 
 **Engineering Notice for Basile:** structural drying capacity optimized for 66ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Evangeline Parish. Relative Humidity Threshold: 76%. Sensor sync: Active.

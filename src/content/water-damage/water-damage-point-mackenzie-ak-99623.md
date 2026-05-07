@@ -12,6 +12,7 @@ lng: -150.0700
 zipSample: ["99623"]
 zipCodes: ["99623"]
 localPaths: ["Matanuska-Susitna County / primary ZIP 99623", "Matanuska-Susitna County / elevation 0 ft band", "Matanuska-Susitna County / ZIP 99623 sector", "Matanuska-Susitna County / coords 61.3500, -150.0700"]
+zillowHomeValueUsd: 366956
 ---
 
 **Engineering Notice for Point MacKenzie:** structural drying capacity optimized for 0ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Matanuska-Susitna County. Relative Humidity Threshold: 78%. Sensor sync: Active.

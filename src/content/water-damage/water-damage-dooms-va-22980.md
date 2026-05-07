@@ -12,6 +12,7 @@ lng: -78.8500
 zipSample: ["22980"]
 zipCodes: ["22980"]
 localPaths: ["Augusta County / ZIP 22980 sector", "Augusta County / primary ZIP 22980", "Augusta County / coords 38.1000, -78.8500", "Augusta County / elevation 1332 ft band"]
+zillowHomeValueUsd: 313612
 ---
 
 **Engineering Notice for Dooms:** structural drying capacity optimized for 1332ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Augusta County. Relative Humidity Threshold: 68%. Sensor sync: Active.

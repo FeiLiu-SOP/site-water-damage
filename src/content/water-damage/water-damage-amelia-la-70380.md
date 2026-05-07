@@ -12,6 +12,7 @@ lng: -91.1100
 zipSample: ["70340", "70380"]
 zipCodes: ["70340", "70380"]
 localPaths: ["St. Mary Parish / primary ZIP 70380", "St. Mary Parish / ZIP 70340 sector", "St. Mary Parish / ZIP 70380 sector", "St. Mary Parish / coords 29.6600, -91.1100", "St. Mary Parish / elevation 13 ft band"]
+zillowHomeValueUsd: 122745
 ---
 
 **Engineering Notice for Amelia:** structural drying capacity optimized for 13ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Mary Parish. Relative Humidity Threshold: 78%. Sensor sync: Active.

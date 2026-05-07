@@ -12,6 +12,7 @@ lng: -90.7200
 zipSample: ["70763"]
 zipCodes: ["70763"]
 localPaths: ["St. James Parish / elevation 16 ft band", "St. James Parish / primary ZIP 70763", "St. James Parish / ZIP 70763 sector", "St. James Parish / coords 30.0400, -90.7200"]
+zillowHomeValueUsd: 309255
 ---
 
 **Engineering Notice for Paulina:** structural drying capacity optimized for 16ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. James Parish. Relative Humidity Threshold: 85%. Sensor sync: Active.

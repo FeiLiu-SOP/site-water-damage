@@ -12,6 +12,7 @@ lng: -85.5300
 zipSample: ["46148"]
 zipCodes: ["46148"]
 localPaths: ["Henry County / elevation 938 ft band", "Henry County / coords 39.8000, -85.5300", "Henry County / primary ZIP 46148", "Henry County / ZIP 46148 sector"]
+zillowHomeValueUsd: 218873
 ---
 
 **Engineering Notice for Knightstown:** structural drying capacity optimized for 938ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Henry County. Relative Humidity Threshold: 85%. Sensor sync: Active.

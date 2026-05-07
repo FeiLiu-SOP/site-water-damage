@@ -12,6 +12,7 @@ lng: -91.7400
 zipSample: ["72024"]
 zipCodes: ["72024"]
 localPaths: ["Lonoke County / primary ZIP 72024", "Lonoke County / ZIP 72024 sector", "Lonoke County / elevation 246 ft band", "Lonoke County / coords 34.7900, -91.7400"]
+zillowHomeValueUsd: 178365
 ---
 
 **Engineering Notice for Carlisle:** structural drying capacity optimized for 246ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lonoke County. Relative Humidity Threshold: 70%. Sensor sync: Active.

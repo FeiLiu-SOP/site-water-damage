@@ -12,6 +12,7 @@ lng: -75.9700
 zipSample: ["19533"]
 zipCodes: ["19533"]
 localPaths: ["Berks County / ZIP 19533 sector", "Berks County / coords 40.4500, -75.9700", "Berks County / primary ZIP 19533", "Berks County / elevation 282 ft band"]
+zillowHomeValueUsd: 358844
 ---
 
 **Engineering Notice for Leesport:** structural drying capacity optimized for 282ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Berks County. Relative Humidity Threshold: 75%. Sensor sync: Active.

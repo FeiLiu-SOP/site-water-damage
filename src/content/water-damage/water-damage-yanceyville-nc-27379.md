@@ -12,6 +12,7 @@ lng: -79.3400
 zipSample: ["27212", "27379"]
 zipCodes: ["27379", "27212"]
 localPaths: ["Caswell County / ZIP 27212 sector", "Caswell County / elevation 597 ft band", "Caswell County / ZIP 27379 sector", "Caswell County / primary ZIP 27379", "Caswell County / coords 36.4100, -79.3400"]
+zillowHomeValueUsd: 184246
 ---
 
 **Engineering Notice for Yanceyville:** structural drying capacity optimized for 597ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Caswell County. Relative Humidity Threshold: 67%. Sensor sync: Active.

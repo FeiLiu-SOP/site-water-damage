@@ -12,6 +12,8 @@ lng: -107.4600
 zipSample: ["59022"]
 zipCodes: ["59022"]
 localPaths: ["Big Horn County / ZIP 59022 sector", "Big Horn County / coords 45.6000, -107.4600", "Big Horn County / primary ZIP 59022", "Big Horn County / elevation 3041 ft band"]
+zillowHomeValueUsd: 457879
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Crow Agency:** structural drying capacity optimized for 3041ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Big Horn County. Relative Humidity Threshold: 79%. Sensor sync: Active.

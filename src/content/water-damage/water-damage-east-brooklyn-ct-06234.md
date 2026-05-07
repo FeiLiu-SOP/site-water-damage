@@ -12,6 +12,7 @@ lng: -71.9000
 zipSample: ["06234"]
 zipCodes: ["06234"]
 localPaths: ["Northeastern Connecticut County / elevation 243 ft band", "Northeastern Connecticut County / ZIP 06234 sector", "Northeastern Connecticut County / coords 41.8000, -71.9000", "Northeastern Connecticut County / primary ZIP 06234"]
+zillowHomeValueUsd: 409576
 ---
 
 **Engineering Notice for East Brooklyn:** structural drying capacity optimized for 243ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Northeastern Connecticut County. Relative Humidity Threshold: 67%. Sensor sync: Active.

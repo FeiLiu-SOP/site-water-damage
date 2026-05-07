@@ -12,6 +12,7 @@ lng: -97.3900
 zipSample: ["77963"]
 zipCodes: ["77963"]
 localPaths: ["Goliad County / coords 28.6700, -97.3900", "Goliad County / ZIP 77963 sector", "Goliad County / primary ZIP 77963", "Goliad County / elevation 210 ft band"]
+zillowHomeValueUsd: 254432
 ---
 
 **Engineering Notice for Goliad:** structural drying capacity optimized for 210ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Goliad County. Relative Humidity Threshold: 85%. Sensor sync: Active.

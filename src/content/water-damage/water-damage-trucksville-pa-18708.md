@@ -12,6 +12,7 @@ lng: -75.9300
 zipSample: ["18708"]
 zipCodes: ["18708"]
 localPaths: ["Luzerne County / coords 41.3100, -75.9300", "Luzerne County / primary ZIP 18708", "Luzerne County / elevation 1020 ft band", "Luzerne County / ZIP 18708 sector"]
+zillowHomeValueUsd: 287052
 ---
 
 **Engineering Notice for Trucksville:** structural drying capacity optimized for 1020ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Luzerne County. Relative Humidity Threshold: 72%. Sensor sync: Active.

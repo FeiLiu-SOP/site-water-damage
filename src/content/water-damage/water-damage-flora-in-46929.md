@@ -12,6 +12,7 @@ lng: -86.5200
 zipSample: ["46929", "46913"]
 zipCodes: ["46929", "46913"]
 localPaths: ["Carroll County / primary ZIP 46929", "Carroll County / coords 40.5500, -86.5200", "Carroll County / elevation 715 ft band", "Carroll County / ZIP 46929 sector", "Carroll County / ZIP 46913 sector"]
+zillowHomeValueUsd: 202494
 ---
 
 **Engineering Notice for Flora:** structural drying capacity optimized for 715ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Carroll County. Relative Humidity Threshold: 71%. Sensor sync: Active.

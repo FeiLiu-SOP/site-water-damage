@@ -12,6 +12,7 @@ lng: -71.7500
 zipSample: ["02808", "02891"]
 zipCodes: ["02891", "02808"]
 localPaths: ["Washington County / ZIP 02891 sector", "Washington County / elevation 79 ft band", "Washington County / coords 41.3900, -71.7500", "Washington County / primary ZIP 02891", "Washington County / ZIP 02808 sector"]
+zillowHomeValueUsd: 621613
 ---
 
 **Engineering Notice for Bradford:** structural drying capacity optimized for 79ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 77%. Sensor sync: Active.

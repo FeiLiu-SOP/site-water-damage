@@ -12,6 +12,7 @@ lng: -90.2900
 zipSample: ["63133"]
 zipCodes: ["63133"]
 localPaths: ["St. Louis County / primary ZIP 63133", "St. Louis County / coords 38.6700, -90.2900", "St. Louis County / ZIP 63133 sector", "St. Louis County / elevation 551 ft band"]
+zillowHomeValueUsd: 78583
 ---
 
 **Engineering Notice for Wellston:** structural drying capacity optimized for 551ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Louis County. Relative Humidity Threshold: 66%. Sensor sync: Active.

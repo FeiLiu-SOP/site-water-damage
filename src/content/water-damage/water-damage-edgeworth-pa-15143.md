@@ -12,6 +12,7 @@ lng: -80.1900
 zipSample: ["15143"]
 zipCodes: ["15143"]
 localPaths: ["Allegheny County / primary ZIP 15143", "Allegheny County / ZIP 15143 sector", "Allegheny County / coords 40.5500, -80.1900", "Allegheny County / elevation 787 ft band"]
+zillowHomeValueUsd: 520391
 ---
 
 **Engineering Notice for Edgeworth:** structural drying capacity optimized for 787ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allegheny County. Relative Humidity Threshold: 75%. Sensor sync: Active.

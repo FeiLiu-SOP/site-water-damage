@@ -12,6 +12,7 @@ lng: -87.7800
 zipSample: ["53044"]
 zipCodes: ["53044"]
 localPaths: ["Sheboygan County / coords 43.7400, -87.7800", "Sheboygan County / elevation 682 ft band", "Sheboygan County / primary ZIP 53044", "Sheboygan County / ZIP 53044 sector"]
+zillowHomeValueUsd: 432497
 ---
 
 **Engineering Notice for Kohler:** structural drying capacity optimized for 682ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sheboygan County. Relative Humidity Threshold: 78%. Sensor sync: Active.

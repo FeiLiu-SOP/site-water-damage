@@ -12,6 +12,7 @@ lng: -81.0200
 zipSample: ["24712"]
 zipCodes: ["24712"]
 localPaths: ["Mercer County / ZIP 24712 sector", "Mercer County / coords 37.4200, -81.0200", "Mercer County / primary ZIP 24712", "Mercer County / elevation 2582 ft band"]
+zillowHomeValueUsd: 196878
 ---
 
 **Engineering Notice for Athens:** structural drying capacity optimized for 2582ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mercer County. Relative Humidity Threshold: 75%. Sensor sync: Active.

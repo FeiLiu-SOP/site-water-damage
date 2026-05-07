@@ -12,6 +12,7 @@ lng: -81.1300
 zipSample: ["25832"]
 zipCodes: ["25832"]
 localPaths: ["Raleigh County / coords 37.7200, -81.1300", "Raleigh County / elevation 2480 ft band", "Raleigh County / primary ZIP 25832", "Raleigh County / ZIP 25832 sector"]
+zillowHomeValueUsd: 283669
 ---
 
 **Engineering Notice for Daniels:** structural drying capacity optimized for 2480ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Raleigh County. Relative Humidity Threshold: 71%. Sensor sync: Active.

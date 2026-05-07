@@ -12,6 +12,7 @@ lng: -145.2200
 zipSample: ["99731", "99737"]
 zipCodes: ["99731", "99737"]
 localPaths: ["Southeast Fairbanks County / elevation 0 ft band", "Southeast Fairbanks County / coords 63.8700, -145.2200", "Southeast Fairbanks County / ZIP 99731 sector", "Southeast Fairbanks County / primary ZIP 99737", "Southeast Fairbanks County / ZIP 99737 sector"]
+zillowHomeValueUsd: 313216
 ---
 
 **Engineering Notice for Deltana:** structural drying capacity optimized for 0ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Southeast Fairbanks County. Relative Humidity Threshold: 84%. Sensor sync: Active.

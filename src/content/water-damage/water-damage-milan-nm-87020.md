@@ -12,6 +12,7 @@ lng: -107.8900
 zipSample: ["87020", "87021"]
 zipCodes: ["87020", "87021"]
 localPaths: ["Cibola County / primary ZIP 87020", "Cibola County / ZIP 87020 sector", "Cibola County / elevation 6532 ft band", "Cibola County / coords 35.1900, -107.8900", "Cibola County / ZIP 87021 sector"]
+zillowHomeValueUsd: 154693
 ---
 
 **Engineering Notice for Milan:** structural drying capacity optimized for 6532ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cibola County. Relative Humidity Threshold: 66%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -76.8200
 zipSample: ["17876"]
 zipCodes: ["17876"]
 localPaths: ["Snyder County / ZIP 17876 sector", "Snyder County / elevation 538 ft band", "Snyder County / primary ZIP 17876", "Snyder County / coords 40.8500, -76.8200"]
+zillowHomeValueUsd: 212774
 ---
 
 **Engineering Notice for Shamokin Dam:** structural drying capacity optimized for 538ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Snyder County. Relative Humidity Threshold: 69%. Sensor sync: Active.

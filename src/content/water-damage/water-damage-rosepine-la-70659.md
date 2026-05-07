@@ -12,6 +12,8 @@ lng: -93.2900
 zipSample: ["70659", "70634"]
 zipCodes: ["70634", "70659"]
 localPaths: ["Vernon Parish / coords 30.9200, -93.2900", "Vernon Parish / elevation 243 ft band", "Vernon Parish / ZIP 70634 sector", "Vernon Parish / ZIP 70659 sector", "Vernon Parish / primary ZIP 70659"]
+zillowHomeValueUsd: 194090
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Rosepine:** structural drying capacity optimized for 243ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Vernon Parish. Relative Humidity Threshold: 73%. Sensor sync: Active.

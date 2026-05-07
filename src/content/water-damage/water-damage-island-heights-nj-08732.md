@@ -12,6 +12,7 @@ lng: -74.1500
 zipSample: ["08732"]
 zipCodes: ["08732"]
 localPaths: ["Ocean County / primary ZIP 08732", "Ocean County / coords 39.9400, -74.1500", "Ocean County / ZIP 08732 sector", "Ocean County / elevation 52 ft band"]
+zillowHomeValueUsd: 641046
 ---
 
 **Engineering Notice for Island Heights:** structural drying capacity optimized for 52ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ocean County. Relative Humidity Threshold: 75%. Sensor sync: Active.

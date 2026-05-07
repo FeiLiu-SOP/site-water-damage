@@ -12,6 +12,7 @@ lng: -82.7300
 zipSample: ["41183"]
 zipCodes: ["41183"]
 localPaths: ["Greenup County / ZIP 41183 sector", "Greenup County / elevation 548 ft band", "Greenup County / primary ZIP 41183", "Greenup County / coords 38.5500, -82.7300"]
+zillowHomeValueUsd: 126123
 ---
 
 **Engineering Notice for Worthington:** structural drying capacity optimized for 548ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Greenup County. Relative Humidity Threshold: 79%. Sensor sync: Active.

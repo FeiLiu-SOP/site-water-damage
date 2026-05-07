@@ -12,6 +12,7 @@ lng: -93.3400
 zipSample: ["71019"]
 zipCodes: ["71019"]
 localPaths: ["Red River Parish / ZIP 71019 sector", "Red River Parish / elevation 161 ft band", "Red River Parish / coords 32.0300, -93.3400", "Red River Parish / primary ZIP 71019"]
+zillowHomeValueUsd: 150315
 ---
 
 **Engineering Notice for Coushatta:** structural drying capacity optimized for 161ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Red River Parish. Relative Humidity Threshold: 71%. Sensor sync: Active.

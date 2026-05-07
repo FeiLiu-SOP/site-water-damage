@@ -12,6 +12,7 @@ lng: -111.5500
 zipSample: ["86004"]
 zipCodes: ["86004"]
 localPaths: ["Coconino County / coords 35.3200, -111.5500", "Coconino County / ZIP 86004 sector", "Coconino County / elevation 6788 ft band", "Coconino County / primary ZIP 86004"]
+zillowHomeValueUsd: 621918
 ---
 
 **Engineering Notice for Timberline-Fernwood:** structural drying capacity optimized for 6788ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Coconino County. Relative Humidity Threshold: 70%. Sensor sync: Active.

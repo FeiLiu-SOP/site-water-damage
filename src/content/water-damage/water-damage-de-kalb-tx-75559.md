@@ -12,6 +12,7 @@ lng: -94.6200
 zipSample: ["75559"]
 zipCodes: ["75559"]
 localPaths: ["Bowie County / elevation 423 ft band", "Bowie County / coords 33.5100, -94.6200", "Bowie County / ZIP 75559 sector", "Bowie County / primary ZIP 75559"]
+zillowHomeValueUsd: 194373
 ---
 
 **Engineering Notice for De Kalb:** structural drying capacity optimized for 423ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bowie County. Relative Humidity Threshold: 76%. Sensor sync: Active.

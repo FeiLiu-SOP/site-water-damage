@@ -12,6 +12,7 @@ lng: -90.9300
 zipSample: ["52045"]
 zipCodes: ["52045"]
 localPaths: ["Dubuque County / ZIP 52045 sector", "Dubuque County / primary ZIP 52045", "Dubuque County / elevation 1047 ft band", "Dubuque County / coords 42.4500, -90.9300"]
+zillowHomeValueUsd: 322910
 ---
 
 **Engineering Notice for Epworth:** structural drying capacity optimized for 1047ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dubuque County. Relative Humidity Threshold: 75%. Sensor sync: Active.

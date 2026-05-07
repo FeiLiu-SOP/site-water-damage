@@ -12,6 +12,7 @@ lng: -82.7000
 zipSample: ["44847"]
 zipCodes: ["44847"]
 localPaths: ["Huron County / coords 41.2400, -82.7000", "Huron County / ZIP 44847 sector", "Huron County / primary ZIP 44847", "Huron County / elevation 715 ft band"]
+zillowHomeValueUsd: 205678
 ---
 
 **Engineering Notice for Monroeville:** structural drying capacity optimized for 715ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Huron County. Relative Humidity Threshold: 75%. Sensor sync: Active.

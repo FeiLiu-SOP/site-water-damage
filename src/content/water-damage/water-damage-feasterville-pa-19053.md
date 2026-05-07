@@ -12,6 +12,7 @@ lng: -74.9900
 zipSample: ["19053"]
 zipCodes: ["19053"]
 localPaths: ["Bucks County / ZIP 19053 sector", "Bucks County / coords 40.1500, -74.9900", "Bucks County / elevation 240 ft band", "Bucks County / primary ZIP 19053"]
+zillowHomeValueUsd: 481206
 ---
 
 **Engineering Notice for Feasterville:** structural drying capacity optimized for 240ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bucks County. Relative Humidity Threshold: 79%. Sensor sync: Active.

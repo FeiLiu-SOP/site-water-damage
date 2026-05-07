@@ -12,6 +12,7 @@ lng: -78.0400
 zipSample: ["28333"]
 zipCodes: ["28333"]
 localPaths: ["Wayne County / coords 35.2700, -78.0400", "Wayne County / elevation 177 ft band", "Wayne County / primary ZIP 28333", "Wayne County / ZIP 28333 sector"]
+zillowHomeValueUsd: 135143
 ---
 
 **Engineering Notice for Dudley:** structural drying capacity optimized for 177ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wayne County. Relative Humidity Threshold: 72%. Sensor sync: Active.

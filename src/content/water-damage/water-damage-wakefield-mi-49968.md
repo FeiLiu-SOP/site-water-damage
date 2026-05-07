@@ -12,6 +12,7 @@ lng: -89.9300
 zipSample: ["49968"]
 zipCodes: ["49968"]
 localPaths: ["Gogebic County / elevation 1526 ft band", "Gogebic County / primary ZIP 49968", "Gogebic County / coords 46.4800, -89.9300", "Gogebic County / ZIP 49968 sector"]
+zillowHomeValueUsd: 105061
 ---
 
 **Engineering Notice for Wakefield:** structural drying capacity optimized for 1526ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gogebic County. Relative Humidity Threshold: 67%. Sensor sync: Active.

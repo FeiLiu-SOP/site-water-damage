@@ -12,6 +12,7 @@ lng: -73.8100
 zipSample: ["12533"]
 zipCodes: ["12533"]
 localPaths: ["Dutchess County / ZIP 12533 sector", "Dutchess County / primary ZIP 12533", "Dutchess County / elevation 259 ft band", "Dutchess County / coords 41.5800, -73.8100"]
+zillowHomeValueUsd: 572131
 ---
 
 **Engineering Notice for Hopewell Junction:** structural drying capacity optimized for 259ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dutchess County. Relative Humidity Threshold: 84%. Sensor sync: Active.

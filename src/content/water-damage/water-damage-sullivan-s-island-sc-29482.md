@@ -12,6 +12,7 @@ lng: -79.8400
 zipSample: ["29482"]
 zipCodes: ["29482"]
 localPaths: ["Charleston County / primary ZIP 29482", "Charleston County / elevation 3 ft band", "Charleston County / ZIP 29482 sector", "Charleston County / coords 32.7700, -79.8400"]
+zillowHomeValueUsd: 4244059
 ---
 
 **Engineering Notice for Sullivan's Island:** structural drying capacity optimized for 3ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Charleston County. Relative Humidity Threshold: 73%. Sensor sync: Active.

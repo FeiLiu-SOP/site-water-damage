@@ -12,6 +12,7 @@ lng: -84.9000
 zipSample: ["41095"]
 zipCodes: ["41095"]
 localPaths: ["Gallatin County / ZIP 41095 sector", "Gallatin County / primary ZIP 41095", "Gallatin County / elevation 486 ft band", "Gallatin County / coords 38.7800, -84.9000"]
+zillowHomeValueUsd: 196850
 ---
 
 **Engineering Notice for Warsaw:** structural drying capacity optimized for 486ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gallatin County. Relative Humidity Threshold: 79%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -94.2800
 zipSample: ["75561"]
 zipCodes: ["75561"]
 localPaths: ["Bowie County / elevation 390 ft band", "Bowie County / coords 33.4700, -94.2800", "Bowie County / primary ZIP 75561", "Bowie County / ZIP 75561 sector"]
+zillowHomeValueUsd: 160029
 ---
 
 **Engineering Notice for Hooks:** structural drying capacity optimized for 390ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bowie County. Relative Humidity Threshold: 68%. Sensor sync: Active.

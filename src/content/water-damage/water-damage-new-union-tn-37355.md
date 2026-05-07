@@ -12,6 +12,7 @@ lng: -86.0800
 zipSample: ["37355"]
 zipCodes: ["37355"]
 localPaths: ["Coffee County / coords 35.5300, -86.0800", "Coffee County / ZIP 37355 sector", "Coffee County / primary ZIP 37355", "Coffee County / elevation 1086 ft band"]
+zillowHomeValueUsd: 325463
 ---
 
 **Engineering Notice for New Union:** structural drying capacity optimized for 1086ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Coffee County. Relative Humidity Threshold: 84%. Sensor sync: Active.

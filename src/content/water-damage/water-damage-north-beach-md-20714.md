@@ -12,6 +12,7 @@ lng: -76.5300
 zipSample: ["20714"]
 zipCodes: ["20714"]
 localPaths: ["Calvert County / ZIP 20714 sector", "Calvert County / elevation 26 ft band", "Calvert County / coords 38.7100, -76.5300", "Calvert County / primary ZIP 20714"]
+zillowHomeValueUsd: 414613
 ---
 
 **Engineering Notice for North Beach:** structural drying capacity optimized for 26ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Calvert County. Relative Humidity Threshold: 67%. Sensor sync: Active.

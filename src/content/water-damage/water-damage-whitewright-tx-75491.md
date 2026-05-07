@@ -12,6 +12,7 @@ lng: -96.4000
 zipSample: ["75491"]
 zipCodes: ["75491"]
 localPaths: ["Grayson County / ZIP 75491 sector", "Grayson County / primary ZIP 75491", "Grayson County / elevation 784 ft band", "Grayson County / coords 33.5100, -96.4000"]
+zillowHomeValueUsd: 342963
 ---
 
 **Engineering Notice for Whitewright:** structural drying capacity optimized for 784ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grayson County. Relative Humidity Threshold: 84%. Sensor sync: Active.

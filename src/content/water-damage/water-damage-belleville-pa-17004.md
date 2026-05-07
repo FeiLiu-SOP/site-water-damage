@@ -12,6 +12,7 @@ lng: -77.7200
 zipSample: ["17004"]
 zipCodes: ["17004"]
 localPaths: ["Mifflin County / elevation 827 ft band", "Mifflin County / ZIP 17004 sector", "Mifflin County / primary ZIP 17004", "Mifflin County / coords 40.6100, -77.7200"]
+zillowHomeValueUsd: 261596
 ---
 
 **Engineering Notice for Belleville:** structural drying capacity optimized for 827ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mifflin County. Relative Humidity Threshold: 77%. Sensor sync: Active.

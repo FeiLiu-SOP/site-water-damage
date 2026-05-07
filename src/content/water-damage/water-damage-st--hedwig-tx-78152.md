@@ -12,6 +12,7 @@ lng: -98.2000
 zipSample: ["78101", "78152"]
 zipCodes: ["78152", "78101"]
 localPaths: ["Bexar County / ZIP 78152 sector", "Bexar County / coords 29.4200, -98.2000", "Bexar County / primary ZIP 78152", "Bexar County / ZIP 78101 sector", "Bexar County / elevation 610 ft band"]
+zillowHomeValueUsd: 272835
 ---
 
 **Engineering Notice for St. Hedwig:** structural drying capacity optimized for 610ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bexar County. Relative Humidity Threshold: 77%. Sensor sync: Active.

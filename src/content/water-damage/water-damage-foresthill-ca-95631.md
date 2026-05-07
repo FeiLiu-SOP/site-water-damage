@@ -12,6 +12,7 @@ lng: -120.8300
 zipSample: ["95631"]
 zipCodes: ["95631"]
 localPaths: ["Placer County / ZIP 95631 sector", "Placer County / elevation 2228 ft band", "Placer County / primary ZIP 95631", "Placer County / coords 39.0100, -120.8300"]
+zillowHomeValueUsd: 501080
 ---
 
 **Engineering Notice for Foresthill:** structural drying capacity optimized for 2228ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Placer County. Relative Humidity Threshold: 68%. Sensor sync: Active.

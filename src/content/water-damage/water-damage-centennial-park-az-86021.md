@@ -12,6 +12,7 @@ lng: -112.9800
 zipSample: ["86021"]
 zipCodes: ["86021"]
 localPaths: ["Mohave County / coords 36.9500, -112.9800", "Mohave County / ZIP 86021 sector", "Mohave County / primary ZIP 86021", "Mohave County / elevation 4911 ft band"]
+zillowHomeValueUsd: 361395
 ---
 
 **Engineering Notice for Centennial Park:** structural drying capacity optimized for 4911ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mohave County. Relative Humidity Threshold: 84%. Sensor sync: Active.

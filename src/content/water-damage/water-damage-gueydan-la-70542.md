@@ -12,6 +12,7 @@ lng: -92.5100
 zipSample: ["70542"]
 zipCodes: ["70542"]
 localPaths: ["Vermilion Parish / ZIP 70542 sector", "Vermilion Parish / primary ZIP 70542", "Vermilion Parish / coords 30.0300, -92.5100", "Vermilion Parish / elevation 20 ft band"]
+zillowHomeValueUsd: 118316
 ---
 
 **Engineering Notice for Gueydan:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Vermilion Parish. Relative Humidity Threshold: 85%. Sensor sync: Active.

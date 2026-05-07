@@ -12,6 +12,8 @@ lng: -80.4400
 zipSample: ["32967", "32958", "32970"]
 zipCodes: ["32958", "32970", "32967"]
 localPaths: ["Indian River County / ZIP 32967 sector", "Indian River County / coords 27.7500, -80.4400", "Indian River County / ZIP 32970 sector", "Indian River County / primary ZIP 32970", "Indian River County / elevation 52 ft band"]
+zillowHomeValueUsd: 414233
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Wabasso:** structural drying capacity optimized for 52ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Indian River County. Relative Humidity Threshold: 85%. Sensor sync: Active.

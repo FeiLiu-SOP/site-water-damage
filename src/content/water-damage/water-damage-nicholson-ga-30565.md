@@ -12,6 +12,7 @@ lng: -83.4300
 zipSample: ["30565"]
 zipCodes: ["30565"]
 localPaths: ["Jackson County / ZIP 30565 sector", "Jackson County / coords 34.1200, -83.4300", "Jackson County / primary ZIP 30565", "Jackson County / elevation 846 ft band"]
+zillowHomeValueUsd: 344468
 ---
 
 **Engineering Notice for Nicholson:** structural drying capacity optimized for 846ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jackson County. Relative Humidity Threshold: 72%. Sensor sync: Active.

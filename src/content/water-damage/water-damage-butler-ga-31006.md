@@ -12,6 +12,7 @@ lng: -84.2400
 zipSample: ["31006"]
 zipCodes: ["31006"]
 localPaths: ["Taylor County / primary ZIP 31006", "Taylor County / elevation 643 ft band", "Taylor County / ZIP 31006 sector", "Taylor County / coords 32.5600, -84.2400"]
+zillowHomeValueUsd: 158914
 ---
 
 **Engineering Notice for Butler:** structural drying capacity optimized for 643ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Taylor County. Relative Humidity Threshold: 76%. Sensor sync: Active.

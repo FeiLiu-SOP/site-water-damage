@@ -12,6 +12,7 @@ lng: -122.6700
 zipSample: ["94928"]
 zipCodes: ["94928"]
 localPaths: ["Sonoma County / elevation 161 ft band", "Sonoma County / primary ZIP 94928", "Sonoma County / coords 38.3400, -122.6700", "Sonoma County / ZIP 94928 sector"]
+zillowHomeValueUsd: 713090
 ---
 
 **Engineering Notice for Sonoma State University:** structural drying capacity optimized for 161ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sonoma County. Relative Humidity Threshold: 83%. Sensor sync: Active.

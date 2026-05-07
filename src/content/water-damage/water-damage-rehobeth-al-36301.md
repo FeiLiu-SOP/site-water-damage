@@ -12,6 +12,7 @@ lng: -85.4400
 zipSample: ["36301"]
 zipCodes: ["36301"]
 localPaths: ["Houston County / primary ZIP 36301", "Houston County / ZIP 36301 sector", "Houston County / coords 31.1200, -85.4400", "Houston County / elevation 249 ft band"]
+zillowHomeValueUsd: 181246
 ---
 
 **Engineering Notice for Rehobeth:** structural drying capacity optimized for 249ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Houston County. Relative Humidity Threshold: 66%. Sensor sync: Active.

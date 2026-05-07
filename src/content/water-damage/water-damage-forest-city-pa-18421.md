@@ -12,6 +12,7 @@ lng: -75.4700
 zipSample: ["18421"]
 zipCodes: ["18421"]
 localPaths: ["Susquehanna County / elevation 1654 ft band", "Susquehanna County / ZIP 18421 sector", "Susquehanna County / primary ZIP 18421", "Susquehanna County / coords 41.6500, -75.4700"]
+zillowHomeValueUsd: 204904
 ---
 
 **Engineering Notice for Forest City:** structural drying capacity optimized for 1654ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Susquehanna County. Relative Humidity Threshold: 65%. Sensor sync: Active.

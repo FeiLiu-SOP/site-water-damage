@@ -12,6 +12,7 @@ lng: -89.8700
 zipSample: ["39114"]
 zipCodes: ["39114"]
 localPaths: ["Simpson County / coords 31.9600, -89.8700", "Simpson County / ZIP 39114 sector", "Simpson County / primary ZIP 39114", "Simpson County / elevation 331 ft band"]
+zillowHomeValueUsd: 155457
 ---
 
 **Engineering Notice for Mendenhall:** structural drying capacity optimized for 331ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Simpson County. Relative Humidity Threshold: 76%. Sensor sync: Active.

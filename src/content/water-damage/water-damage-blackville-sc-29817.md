@@ -12,6 +12,7 @@ lng: -81.2800
 zipSample: ["29817"]
 zipCodes: ["29817"]
 localPaths: ["Barnwell County / coords 33.3600, -81.2800", "Barnwell County / elevation 279 ft band", "Barnwell County / primary ZIP 29817", "Barnwell County / ZIP 29817 sector"]
+zillowHomeValueUsd: 107711
 ---
 
 **Engineering Notice for Blackville:** structural drying capacity optimized for 279ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Barnwell County. Relative Humidity Threshold: 81%. Sensor sync: Active.

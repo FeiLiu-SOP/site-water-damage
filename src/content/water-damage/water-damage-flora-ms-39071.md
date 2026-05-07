@@ -12,6 +12,7 @@ lng: -90.3100
 zipSample: ["39071"]
 zipCodes: ["39071"]
 localPaths: ["Madison County / primary ZIP 39071", "Madison County / elevation 272 ft band", "Madison County / ZIP 39071 sector", "Madison County / coords 32.5400, -90.3100"]
+zillowHomeValueUsd: 296379
 ---
 
 **Engineering Notice for Flora:** structural drying capacity optimized for 272ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Madison County. Relative Humidity Threshold: 70%. Sensor sync: Active.

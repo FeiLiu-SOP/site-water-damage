@@ -12,6 +12,7 @@ lng: -88.0000
 zipSample: ["60938"]
 zipCodes: ["60938"]
 localPaths: ["Iroquois County / ZIP 60938 sector", "Iroquois County / elevation 646 ft band", "Iroquois County / coords 40.7600, -88.0000", "Iroquois County / primary ZIP 60938"]
+zillowHomeValueUsd: 134132
 ---
 
 **Engineering Notice for Gilman:** structural drying capacity optimized for 646ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Iroquois County. Relative Humidity Threshold: 74%. Sensor sync: Active.

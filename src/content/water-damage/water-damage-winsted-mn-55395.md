@@ -12,6 +12,7 @@ lng: -94.0500
 zipSample: ["55395"]
 zipCodes: ["55395"]
 localPaths: ["McLeod County / primary ZIP 55395", "McLeod County / ZIP 55395 sector", "McLeod County / coords 44.9600, -94.0500", "McLeod County / elevation 1010 ft band"]
+zillowHomeValueUsd: 287587
 ---
 
 **Engineering Notice for Winsted:** structural drying capacity optimized for 1010ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McLeod County. Relative Humidity Threshold: 76%. Sensor sync: Active.

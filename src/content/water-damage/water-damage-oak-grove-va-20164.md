@@ -12,6 +12,7 @@ lng: -77.4200
 zipSample: ["20164", "20166"]
 zipCodes: ["20164", "20166"]
 localPaths: ["Loudoun County / ZIP 20164 sector", "Loudoun County / primary ZIP 20164", "Loudoun County / coords 38.9800, -77.4200", "Loudoun County / elevation 325 ft band", "Loudoun County / ZIP 20166 sector"]
+zillowHomeValueUsd: 596638
 ---
 
 **Engineering Notice for Oak Grove:** structural drying capacity optimized for 325ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Loudoun County. Relative Humidity Threshold: 79%. Sensor sync: Active.

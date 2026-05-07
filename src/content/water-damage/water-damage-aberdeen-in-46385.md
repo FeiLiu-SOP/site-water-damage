@@ -12,6 +12,7 @@ lng: -87.1200
 zipSample: ["46385"]
 zipCodes: ["46385"]
 localPaths: ["Porter County / elevation 778 ft band", "Porter County / primary ZIP 46385", "Porter County / coords 41.4400, -87.1200", "Porter County / ZIP 46385 sector"]
+zillowHomeValueUsd: 368958
 ---
 
 **Engineering Notice for Aberdeen:** structural drying capacity optimized for 778ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Porter County. Relative Humidity Threshold: 73%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -121.9100
 zipSample: ["98024"]
 zipCodes: ["98024"]
 localPaths: ["King County / elevation 112 ft band", "King County / coords 47.5700, -121.9100", "King County / primary ZIP 98024", "King County / ZIP 98024 sector"]
+zillowHomeValueUsd: 1266503
 ---
 
 **Engineering Notice for Fall City:** structural drying capacity optimized for 112ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: King County. Relative Humidity Threshold: 67%. Sensor sync: Active.

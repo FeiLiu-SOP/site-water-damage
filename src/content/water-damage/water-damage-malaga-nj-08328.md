@@ -12,6 +12,7 @@ lng: -75.0600
 zipSample: ["08328"]
 zipCodes: ["08328"]
 localPaths: ["Gloucester County / coords 39.5800, -75.0600", "Gloucester County / elevation 82 ft band", "Gloucester County / primary ZIP 08328", "Gloucester County / ZIP 08328 sector"]
+zillowHomeValueUsd: 315146
 ---
 
 **Engineering Notice for Malaga:** structural drying capacity optimized for 82ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gloucester County. Relative Humidity Threshold: 75%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -74.9400
 zipSample: ["08091"]
 zipCodes: ["08091"]
 localPaths: ["Camden County / primary ZIP 08091", "Camden County / coords 39.8100, -74.9400", "Camden County / elevation 174 ft band", "Camden County / ZIP 08091 sector"]
+zillowHomeValueUsd: 350643
 ---
 
 **Engineering Notice for West Berlin:** structural drying capacity optimized for 174ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Camden County. Relative Humidity Threshold: 73%. Sensor sync: Active.

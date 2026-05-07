@@ -12,6 +12,7 @@ lng: -103.6900
 zipSample: ["80828"]
 zipCodes: ["80828"]
 localPaths: ["Lincoln County / elevation 5367 ft band", "Lincoln County / primary ZIP 80828", "Lincoln County / ZIP 80828 sector", "Lincoln County / coords 39.2700, -103.6900"]
+zillowHomeValueUsd: 281843
 ---
 
 **Engineering Notice for Limon:** structural drying capacity optimized for 5367ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lincoln County. Relative Humidity Threshold: 78%. Sensor sync: Active.

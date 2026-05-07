@@ -12,6 +12,7 @@ lng: -91.3600
 zipSample: ["54630"]
 zipCodes: ["54630"]
 localPaths: ["Trempealeau County / elevation 751 ft band", "Trempealeau County / coords 44.0800, -91.3600", "Trempealeau County / primary ZIP 54630", "Trempealeau County / ZIP 54630 sector"]
+zillowHomeValueUsd: 306491
 ---
 
 **Engineering Notice for Galesville:** structural drying capacity optimized for 751ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Trempealeau County. Relative Humidity Threshold: 79%. Sensor sync: Active.

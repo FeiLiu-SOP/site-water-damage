@@ -12,6 +12,7 @@ lng: -87.0300
 zipSample: ["46347"]
 zipCodes: ["46347"]
 localPaths: ["Porter County / primary ZIP 46347", "Porter County / ZIP 46347 sector", "Porter County / elevation 686 ft band", "Porter County / coords 41.3200, -87.0300"]
+zillowHomeValueUsd: 314444
 ---
 
 **Engineering Notice for Kouts:** structural drying capacity optimized for 686ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Porter County. Relative Humidity Threshold: 80%. Sensor sync: Active.

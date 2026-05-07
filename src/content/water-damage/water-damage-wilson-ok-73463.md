@@ -12,6 +12,7 @@ lng: -97.4300
 zipSample: ["73463"]
 zipCodes: ["73463"]
 localPaths: ["Carter County / primary ZIP 73463", "Carter County / coords 34.1700, -97.4300", "Carter County / ZIP 73463 sector", "Carter County / elevation 938 ft band"]
+zillowHomeValueUsd: 173273
 ---
 
 **Engineering Notice for Wilson:** structural drying capacity optimized for 938ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Carter County. Relative Humidity Threshold: 66%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -86.9600
 zipSample: ["47909"]
 zipCodes: ["47909"]
 localPaths: ["Tippecanoe County / coords 40.3500, -86.9600", "Tippecanoe County / primary ZIP 47909", "Tippecanoe County / elevation 689 ft band", "Tippecanoe County / ZIP 47909 sector"]
+zillowHomeValueUsd: 275927
 ---
 
 **Engineering Notice for Shadeland:** structural drying capacity optimized for 689ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tippecanoe County. Relative Humidity Threshold: 74%. Sensor sync: Active.

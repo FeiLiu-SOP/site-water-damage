@@ -12,6 +12,7 @@ lng: -84.3700
 zipSample: ["45845"]
 zipCodes: ["45845"]
 localPaths: ["Shelby County / coords 40.3400, -84.3700", "Shelby County / primary ZIP 45845", "Shelby County / ZIP 45845 sector", "Shelby County / elevation 961 ft band"]
+zillowHomeValueUsd: 333082
 ---
 
 **Engineering Notice for Fort Loramie:** structural drying capacity optimized for 961ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Shelby County. Relative Humidity Threshold: 75%. Sensor sync: Active.

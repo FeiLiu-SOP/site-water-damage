@@ -12,6 +12,7 @@ lng: -97.5900
 zipSample: ["73028"]
 zipCodes: ["73028"]
 localPaths: ["Logan County / primary ZIP 73028", "Logan County / ZIP 73028 sector", "Logan County / elevation 1145 ft band", "Logan County / coords 35.9500, -97.5900"]
+zillowHomeValueUsd: 166211
 ---
 
 **Engineering Notice for Crescent:** structural drying capacity optimized for 1145ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Logan County. Relative Humidity Threshold: 85%. Sensor sync: Active.

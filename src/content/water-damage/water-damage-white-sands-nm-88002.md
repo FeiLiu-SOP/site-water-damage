@@ -12,6 +12,8 @@ lng: -106.4800
 zipSample: ["88002"]
 zipCodes: ["88002"]
 localPaths: ["Doña Ana County / coords 32.3800, -106.4800", "Doña Ana County / ZIP 88002 sector", "Doña Ana County / primary ZIP 88002", "Doña Ana County / elevation 4242 ft band"]
+zillowHomeValueUsd: 319219
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for White Sands:** structural drying capacity optimized for 4242ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Doña Ana County. Relative Humidity Threshold: 74%. Sensor sync: Active.

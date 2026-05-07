@@ -12,6 +12,7 @@ lng: -83.1700
 zipSample: ["41164"]
 zipCodes: ["41164"]
 localPaths: ["Carter County / coords 38.3000, -83.1700", "Carter County / primary ZIP 41164", "Carter County / elevation 840 ft band", "Carter County / ZIP 41164 sector"]
+zillowHomeValueUsd: 146426
 ---
 
 **Engineering Notice for Olive Hill:** structural drying capacity optimized for 840ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Carter County. Relative Humidity Threshold: 75%. Sensor sync: Active.

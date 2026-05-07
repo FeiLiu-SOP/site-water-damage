@@ -12,6 +12,7 @@ lng: -88.4700
 zipSample: ["53119"]
 zipCodes: ["53119"]
 localPaths: ["Waukesha County / coords 42.8800, -88.4700", "Waukesha County / elevation 945 ft band", "Waukesha County / primary ZIP 53119", "Waukesha County / ZIP 53119 sector"]
+zillowHomeValueUsd: 523875
 ---
 
 **Engineering Notice for Eagle:** structural drying capacity optimized for 945ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Waukesha County. Relative Humidity Threshold: 73%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -114.1000
 zipSample: ["59864"]
 zipCodes: ["59864"]
 localPaths: ["Lake County / ZIP 59864 sector", "Lake County / coords 47.5300, -114.1000", "Lake County / primary ZIP 59864", "Lake County / elevation 3054 ft band"]
+zillowHomeValueUsd: 438305
 ---
 
 **Engineering Notice for Ronan:** structural drying capacity optimized for 3054ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lake County. Relative Humidity Threshold: 69%. Sensor sync: Active.

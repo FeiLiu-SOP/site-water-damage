@@ -12,6 +12,7 @@ lng: -90.2700
 zipSample: ["53929"]
 zipCodes: ["53929"]
 localPaths: ["Juneau County / ZIP 53929 sector", "Juneau County / coords 43.7400, -90.2700", "Juneau County / primary ZIP 53929", "Juneau County / elevation 955 ft band"]
+zillowHomeValueUsd: 224343
 ---
 
 **Engineering Notice for Elroy:** structural drying capacity optimized for 955ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Juneau County. Relative Humidity Threshold: 71%. Sensor sync: Active.

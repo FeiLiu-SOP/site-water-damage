@@ -12,6 +12,7 @@ lng: -92.4000
 zipSample: ["65556"]
 zipCodes: ["65556"]
 localPaths: ["Pulaski County / primary ZIP 65556", "Pulaski County / elevation 1109 ft band", "Pulaski County / ZIP 65556 sector", "Pulaski County / coords 37.8600, -92.4000"]
+zillowHomeValueUsd: 208400
 ---
 
 **Engineering Notice for Richland:** structural drying capacity optimized for 1109ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pulaski County. Relative Humidity Threshold: 80%. Sensor sync: Active.

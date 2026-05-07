@@ -12,6 +12,7 @@ lng: -104.2700
 zipSample: ["59313"]
 zipCodes: ["59313"]
 localPaths: ["Fallon County / coords 46.3600, -104.2700", "Fallon County / primary ZIP 59313", "Fallon County / ZIP 59313 sector", "Fallon County / elevation 2936 ft band"]
+zillowHomeValueUsd: 189949
 ---
 
 **Engineering Notice for Baker:** structural drying capacity optimized for 2936ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fallon County. Relative Humidity Threshold: 80%. Sensor sync: Active.

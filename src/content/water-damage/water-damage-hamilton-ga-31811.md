@@ -12,6 +12,7 @@ lng: -84.8800
 zipSample: ["31811"]
 zipCodes: ["31811"]
 localPaths: ["Harris County / ZIP 31811 sector", "Harris County / primary ZIP 31811", "Harris County / coords 32.7600, -84.8800", "Harris County / elevation 758 ft band"]
+zillowHomeValueUsd: 385233
 ---
 
 **Engineering Notice for Hamilton:** structural drying capacity optimized for 758ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harris County. Relative Humidity Threshold: 81%. Sensor sync: Active.

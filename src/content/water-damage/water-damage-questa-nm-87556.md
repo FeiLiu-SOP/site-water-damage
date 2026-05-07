@@ -12,6 +12,8 @@ lng: -105.5900
 zipSample: ["87556"]
 zipCodes: ["87556"]
 localPaths: ["Taos County / ZIP 87556 sector", "Taos County / coords 36.7100, -105.5900", "Taos County / primary ZIP 87556", "Taos County / elevation 7552 ft band"]
+zillowHomeValueUsd: 301900
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Questa:** structural drying capacity optimized for 7552ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Taos County. Relative Humidity Threshold: 66%. Sensor sync: Active.

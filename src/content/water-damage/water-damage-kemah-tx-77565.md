@@ -12,6 +12,7 @@ lng: -95.0200
 zipSample: ["77565"]
 zipCodes: ["77565"]
 localPaths: ["Galveston County / primary ZIP 77565", "Galveston County / ZIP 77565 sector", "Galveston County / elevation 30 ft band", "Galveston County / coords 29.5300, -95.0200"]
+zillowHomeValueUsd: 358127
 ---
 
 **Engineering Notice for Kemah:** structural drying capacity optimized for 30ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Galveston County. Relative Humidity Threshold: 67%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -94.9500
 zipSample: ["74331"]
 zipCodes: ["74331"]
 localPaths: ["Delaware County / primary ZIP 74331", "Delaware County / elevation 797 ft band", "Delaware County / ZIP 74331 sector", "Delaware County / coords 36.5700, -94.9500"]
+zillowHomeValueUsd: 357939
 ---
 
 **Engineering Notice for Cleora:** structural drying capacity optimized for 797ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Delaware County. Relative Humidity Threshold: 72%. Sensor sync: Active.

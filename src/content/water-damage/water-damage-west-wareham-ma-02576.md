@@ -12,6 +12,7 @@ lng: -70.7500
 zipSample: ["02571", "02576"]
 zipCodes: ["02571", "02576"]
 localPaths: ["Plymouth County / ZIP 02576 sector", "Plymouth County / coords 41.7900, -70.7500", "Plymouth County / elevation 72 ft band", "Plymouth County / ZIP 02571 sector", "Plymouth County / primary ZIP 02576"]
+zillowHomeValueUsd: 486692
 ---
 
 **Engineering Notice for West Wareham:** structural drying capacity optimized for 72ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Plymouth County. Relative Humidity Threshold: 66%. Sensor sync: Active.

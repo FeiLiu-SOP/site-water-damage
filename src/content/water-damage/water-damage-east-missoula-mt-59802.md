@@ -12,6 +12,7 @@ lng: -113.9400
 zipSample: ["59802"]
 zipCodes: ["59802"]
 localPaths: ["Missoula County / elevation 3219 ft band", "Missoula County / ZIP 59802 sector", "Missoula County / coords 46.8800, -113.9400", "Missoula County / primary ZIP 59802"]
+zillowHomeValueUsd: 551963
 ---
 
 **Engineering Notice for East Missoula:** structural drying capacity optimized for 3219ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Missoula County. Relative Humidity Threshold: 79%. Sensor sync: Active.

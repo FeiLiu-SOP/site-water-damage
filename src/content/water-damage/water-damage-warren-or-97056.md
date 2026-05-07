@@ -12,6 +12,7 @@ lng: -122.8800
 zipSample: ["97053", "97056"]
 zipCodes: ["97056", "97053"]
 localPaths: ["Columbia County / ZIP 97056 sector", "Columbia County / elevation 184 ft band", "Columbia County / primary ZIP 97056", "Columbia County / ZIP 97053 sector", "Columbia County / coords 45.8100, -122.8800"]
+zillowHomeValueUsd: 490887
 ---
 
 **Engineering Notice for Warren:** structural drying capacity optimized for 184ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Columbia County. Relative Humidity Threshold: 81%. Sensor sync: Active.

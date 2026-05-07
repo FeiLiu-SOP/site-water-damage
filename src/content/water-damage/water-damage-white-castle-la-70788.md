@@ -12,6 +12,7 @@ lng: -91.1500
 zipSample: ["70788"]
 zipCodes: ["70788"]
 localPaths: ["Iberville Parish / elevation 36 ft band", "Iberville Parish / primary ZIP 70788", "Iberville Parish / coords 30.1600, -91.1500", "Iberville Parish / ZIP 70788 sector"]
+zillowHomeValueUsd: 130404
 ---
 
 **Engineering Notice for White Castle:** structural drying capacity optimized for 36ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Iberville Parish. Relative Humidity Threshold: 71%. Sensor sync: Active.

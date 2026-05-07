@@ -12,6 +12,8 @@ lng: -81.6100
 zipSample: ["28655", "28619"]
 zipCodes: ["28619", "28655"]
 localPaths: ["Burke County / primary ZIP 28619", "Burke County / ZIP 28619 sector", "Burke County / elevation 1237 ft band", "Burke County / coords 35.7600, -81.6100", "Burke County / ZIP 28655 sector"]
+zillowHomeValueUsd: 310534
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Drexel:** structural drying capacity optimized for 1237ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Burke County. Relative Humidity Threshold: 70%. Sensor sync: Active.

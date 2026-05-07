@@ -12,6 +12,7 @@ lng: -81.3500
 zipSample: ["25276"]
 zipCodes: ["25276"]
 localPaths: ["Roane County / coords 38.8000, -81.3500", "Roane County / ZIP 25276 sector", "Roane County / elevation 807 ft band", "Roane County / primary ZIP 25276"]
+zillowHomeValueUsd: 117726
 ---
 
 **Engineering Notice for Spencer:** structural drying capacity optimized for 807ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Roane County. Relative Humidity Threshold: 75%. Sensor sync: Active.

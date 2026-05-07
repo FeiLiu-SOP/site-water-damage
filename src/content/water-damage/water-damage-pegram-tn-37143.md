@@ -12,6 +12,7 @@ lng: -87.0600
 zipSample: ["37143"]
 zipCodes: ["37143"]
 localPaths: ["Cheatham County / coords 36.1000, -87.0600", "Cheatham County / elevation 564 ft band", "Cheatham County / ZIP 37143 sector", "Cheatham County / primary ZIP 37143"]
+zillowHomeValueUsd: 450021
 ---
 
 **Engineering Notice for Pegram:** structural drying capacity optimized for 564ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cheatham County. Relative Humidity Threshold: 66%. Sensor sync: Active.

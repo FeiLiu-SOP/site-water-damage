@@ -12,6 +12,7 @@ lng: -77.5900
 zipSample: ["17084", "17063"]
 zipCodes: ["17063", "17084"]
 localPaths: ["Mifflin County / ZIP 17084 sector", "Mifflin County / primary ZIP 17084", "Mifflin County / elevation 814 ft band", "Mifflin County / coords 40.6900, -77.5900", "Mifflin County / ZIP 17063 sector"]
+zillowHomeValueUsd: 240003
 ---
 
 **Engineering Notice for Church Hill:** structural drying capacity optimized for 814ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mifflin County. Relative Humidity Threshold: 69%. Sensor sync: Active.

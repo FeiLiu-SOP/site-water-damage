@@ -12,6 +12,7 @@ lng: -77.7100
 zipSample: ["27870"]
 zipCodes: ["27870"]
 localPaths: ["Halifax County / primary ZIP 27870", "Halifax County / elevation 253 ft band", "Halifax County / ZIP 27870 sector", "Halifax County / coords 36.4500, -77.7100"]
+zillowHomeValueUsd: 120715
 ---
 
 **Engineering Notice for South Rosemary:** structural drying capacity optimized for 253ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Halifax County. Relative Humidity Threshold: 73%. Sensor sync: Active.

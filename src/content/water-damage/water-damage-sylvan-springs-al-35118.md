@@ -12,6 +12,7 @@ lng: -87.0300
 zipSample: ["35118"]
 zipCodes: ["35118"]
 localPaths: ["Jefferson County / ZIP 35118 sector", "Jefferson County / coords 33.5300, -87.0300", "Jefferson County / elevation 636 ft band", "Jefferson County / primary ZIP 35118"]
+zillowHomeValueUsd: 140001
 ---
 
 **Engineering Notice for Sylvan Springs:** structural drying capacity optimized for 636ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 65%. Sensor sync: Active.

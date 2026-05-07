@@ -12,6 +12,7 @@ lng: -80.8100
 zipSample: ["34972", "34974"]
 zipCodes: ["34972", "34974"]
 localPaths: ["Okeechobee County / coords 27.2500, -80.8100", "Okeechobee County / ZIP 34972 sector", "Okeechobee County / elevation 33 ft band", "Okeechobee County / primary ZIP 34972", "Okeechobee County / ZIP 34974 sector"]
+zillowHomeValueUsd: 308093
 ---
 
 **Engineering Notice for Cypress Quarters:** structural drying capacity optimized for 33ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Okeechobee County. Relative Humidity Threshold: 81%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -100.5300
 zipSample: ["67749"]
 zipCodes: ["67749"]
 localPaths: ["Decatur County / elevation 2585 ft band", "Decatur County / coords 39.8200, -100.5300", "Decatur County / ZIP 67749 sector", "Decatur County / primary ZIP 67749"]
+zillowHomeValueUsd: 111860
 ---
 
 **Engineering Notice for Oberlin:** structural drying capacity optimized for 2585ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Decatur County. Relative Humidity Threshold: 77%. Sensor sync: Active.

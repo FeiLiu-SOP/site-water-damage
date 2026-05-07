@@ -12,6 +12,7 @@ lng: -75.9200
 zipSample: ["19560"]
 zipCodes: ["19560"]
 localPaths: ["Berks County / coords 40.4100, -75.9200", "Berks County / elevation 358 ft band", "Berks County / ZIP 19560 sector", "Berks County / primary ZIP 19560"]
+zillowHomeValueUsd: 270198
 ---
 
 **Engineering Notice for Temple:** structural drying capacity optimized for 358ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Berks County. Relative Humidity Threshold: 78%. Sensor sync: Active.

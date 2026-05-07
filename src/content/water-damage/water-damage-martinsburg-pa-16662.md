@@ -12,6 +12,7 @@ lng: -78.3200
 zipSample: ["16662"]
 zipCodes: ["16662"]
 localPaths: ["Blair County / primary ZIP 16662", "Blair County / coords 40.3100, -78.3200", "Blair County / elevation 1404 ft band", "Blair County / ZIP 16662 sector"]
+zillowHomeValueUsd: 243958
 ---
 
 **Engineering Notice for Martinsburg:** structural drying capacity optimized for 1404ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Blair County. Relative Humidity Threshold: 83%. Sensor sync: Active.

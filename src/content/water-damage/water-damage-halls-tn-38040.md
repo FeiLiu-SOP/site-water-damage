@@ -12,6 +12,7 @@ lng: -89.4100
 zipSample: ["38040"]
 zipCodes: ["38040"]
 localPaths: ["Lauderdale County / ZIP 38040 sector", "Lauderdale County / coords 35.8800, -89.4100", "Lauderdale County / elevation 338 ft band", "Lauderdale County / primary ZIP 38040"]
+zillowHomeValueUsd: 147184
 ---
 
 **Engineering Notice for Halls:** structural drying capacity optimized for 338ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lauderdale County. Relative Humidity Threshold: 73%. Sensor sync: Active.

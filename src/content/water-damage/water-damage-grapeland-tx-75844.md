@@ -12,6 +12,7 @@ lng: -95.4800
 zipSample: ["75844"]
 zipCodes: ["75844"]
 localPaths: ["Houston County / coords 31.4900, -95.4800", "Houston County / primary ZIP 75844", "Houston County / ZIP 75844 sector", "Houston County / elevation 472 ft band"]
+zillowHomeValueUsd: 245230
 ---
 
 **Engineering Notice for Grapeland:** structural drying capacity optimized for 472ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Houston County. Relative Humidity Threshold: 76%. Sensor sync: Active.

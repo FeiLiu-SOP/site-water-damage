@@ -12,6 +12,7 @@ lng: -97.9700
 zipSample: ["78538"]
 zipCodes: ["78538"]
 localPaths: ["Hidalgo County / ZIP 78538 sector", "Hidalgo County / coords 26.3700, -97.9700", "Hidalgo County / primary ZIP 78538", "Hidalgo County / elevation 75 ft band"]
+zillowHomeValueUsd: 151770
 ---
 
 **Engineering Notice for Monte Alto:** structural drying capacity optimized for 75ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hidalgo County. Relative Humidity Threshold: 81%. Sensor sync: Active.

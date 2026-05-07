@@ -12,6 +12,7 @@ lng: -93.6300
 zipSample: ["55384"]
 zipCodes: ["55384"]
 localPaths: ["Hennepin County / coords 44.9400, -93.6300", "Hennepin County / elevation 938 ft band", "Hennepin County / primary ZIP 55384", "Hennepin County / ZIP 55384 sector"]
+zillowHomeValueUsd: 573876
 ---
 
 **Engineering Notice for Spring Park:** structural drying capacity optimized for 938ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hennepin County. Relative Humidity Threshold: 76%. Sensor sync: Active.

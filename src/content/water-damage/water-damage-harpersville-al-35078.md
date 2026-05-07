@@ -12,6 +12,7 @@ lng: -86.4300
 zipSample: ["35078"]
 zipCodes: ["35078"]
 localPaths: ["Shelby County / primary ZIP 35078", "Shelby County / ZIP 35078 sector", "Shelby County / elevation 466 ft band", "Shelby County / coords 33.3200, -86.4300"]
+zillowHomeValueUsd: 283832
 ---
 
 **Engineering Notice for Harpersville:** structural drying capacity optimized for 466ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Shelby County. Relative Humidity Threshold: 76%. Sensor sync: Active.

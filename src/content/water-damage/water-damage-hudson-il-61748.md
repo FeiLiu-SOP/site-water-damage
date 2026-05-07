@@ -12,6 +12,7 @@ lng: -88.9900
 zipSample: ["61748"]
 zipCodes: ["61748"]
 localPaths: ["McLean County / primary ZIP 61748", "McLean County / elevation 774 ft band", "McLean County / ZIP 61748 sector", "McLean County / coords 40.6100, -88.9900"]
+zillowHomeValueUsd: 301539
 ---
 
 **Engineering Notice for Hudson:** structural drying capacity optimized for 774ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McLean County. Relative Humidity Threshold: 76%. Sensor sync: Active.

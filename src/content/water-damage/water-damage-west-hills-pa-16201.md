@@ -12,6 +12,7 @@ lng: -79.5500
 zipSample: ["16201"]
 zipCodes: ["16201"]
 localPaths: ["Armstrong County / primary ZIP 16201", "Armstrong County / elevation 1217 ft band", "Armstrong County / coords 40.8300, -79.5500", "Armstrong County / ZIP 16201 sector"]
+zillowHomeValueUsd: 169026
 ---
 
 **Engineering Notice for West Hills:** structural drying capacity optimized for 1217ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Armstrong County. Relative Humidity Threshold: 85%. Sensor sync: Active.

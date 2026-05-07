@@ -12,6 +12,7 @@ lng: -94.4400
 zipSample: ["74901"]
 zipCodes: ["74901"]
 localPaths: ["Le Flore County / elevation 440 ft band", "Le Flore County / primary ZIP 74901", "Le Flore County / ZIP 74901 sector", "Le Flore County / coords 35.3400, -94.4400"]
+zillowHomeValueUsd: 104887
 ---
 
 **Engineering Notice for Arkoma:** structural drying capacity optimized for 440ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Le Flore County. Relative Humidity Threshold: 77%. Sensor sync: Active.

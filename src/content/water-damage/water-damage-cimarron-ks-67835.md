@@ -12,6 +12,7 @@ lng: -100.3500
 zipSample: ["67835"]
 zipCodes: ["67835"]
 localPaths: ["Gray County / primary ZIP 67835", "Gray County / coords 37.8100, -100.3500", "Gray County / elevation 2717 ft band", "Gray County / ZIP 67835 sector"]
+zillowHomeValueUsd: 236339
 ---
 
 **Engineering Notice for Cimarron:** structural drying capacity optimized for 2717ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gray County. Relative Humidity Threshold: 76%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -89.0200
 zipSample: ["38233"]
 zipCodes: ["38233"]
 localPaths: ["Gibson County / primary ZIP 38233", "Gibson County / coords 36.2000, -89.0200", "Gibson County / ZIP 38233 sector", "Gibson County / elevation 315 ft band"]
+zillowHomeValueUsd: 144046
 ---
 
 **Engineering Notice for Kenton:** structural drying capacity optimized for 315ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gibson County. Relative Humidity Threshold: 84%. Sensor sync: Active.

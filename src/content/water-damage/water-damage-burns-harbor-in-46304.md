@@ -12,6 +12,7 @@ lng: -87.1300
 zipSample: ["46304"]
 zipCodes: ["46304"]
 localPaths: ["Porter County / coords 41.6200, -87.1300", "Porter County / ZIP 46304 sector", "Porter County / elevation 627 ft band", "Porter County / primary ZIP 46304"]
+zillowHomeValueUsd: 329912
 ---
 
 **Engineering Notice for Burns Harbor:** structural drying capacity optimized for 627ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Porter County. Relative Humidity Threshold: 81%. Sensor sync: Active.

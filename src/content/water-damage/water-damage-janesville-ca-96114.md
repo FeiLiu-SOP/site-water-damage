@@ -12,6 +12,7 @@ lng: -120.5000
 zipSample: ["96114"]
 zipCodes: ["96114"]
 localPaths: ["Lassen County / elevation 4144 ft band", "Lassen County / coords 40.3000, -120.5000", "Lassen County / primary ZIP 96114", "Lassen County / ZIP 96114 sector"]
+zillowHomeValueUsd: 312138
 ---
 
 **Engineering Notice for Janesville:** structural drying capacity optimized for 4144ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lassen County. Relative Humidity Threshold: 76%. Sensor sync: Active.

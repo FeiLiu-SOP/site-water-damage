@@ -12,6 +12,7 @@ lng: -122.6700
 zipSample: ["98312"]
 zipCodes: ["98312"]
 localPaths: ["Kitsap County / ZIP 98312 sector", "Kitsap County / primary ZIP 98312", "Kitsap County / coords 47.5900, -122.6700", "Kitsap County / elevation 49 ft band"]
+zillowHomeValueUsd: 497811
 ---
 
 **Engineering Notice for Rocky Point:** structural drying capacity optimized for 49ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kitsap County. Relative Humidity Threshold: 67%. Sensor sync: Active.

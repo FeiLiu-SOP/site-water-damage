@@ -12,6 +12,7 @@ lng: -79.7000
 zipSample: ["15401", "15445"]
 zipCodes: ["15445", "15401"]
 localPaths: ["Fayette County / coords 39.9000, -79.7000", "Fayette County / elevation 1145 ft band", "Fayette County / ZIP 15445 sector", "Fayette County / ZIP 15401 sector", "Fayette County / primary ZIP 15401"]
+zillowHomeValueUsd: 155372
 ---
 
 **Engineering Notice for East Uniontown:** structural drying capacity optimized for 1145ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fayette County. Relative Humidity Threshold: 81%. Sensor sync: Active.

@@ -12,6 +12,8 @@ lng: -65.7500
 zipSample: ["00773"]
 zipCodes: ["00773"]
 localPaths: ["Luquillo County / ZIP 00773 sector", "Luquillo County / elevation 121 ft band", "Luquillo County / primary ZIP 00773", "Luquillo County / coords 18.3800, -65.7500"]
+zillowHomeValueUsd: 352186
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Playa Fortuna:** structural drying capacity optimized for 121ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Luquillo County. Relative Humidity Threshold: 76%. Sensor sync: Active.

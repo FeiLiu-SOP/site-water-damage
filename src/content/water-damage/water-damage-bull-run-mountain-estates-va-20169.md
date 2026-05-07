@@ -12,6 +12,7 @@ lng: -77.6600
 zipSample: ["20169"]
 zipCodes: ["20169"]
 localPaths: ["Prince William County / ZIP 20169 sector", "Prince William County / elevation 778 ft band", "Prince William County / primary ZIP 20169", "Prince William County / coords 38.9100, -77.6600"]
+zillowHomeValueUsd: 832987
 ---
 
 **Engineering Notice for Bull Run Mountain Estates:** structural drying capacity optimized for 778ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Prince William County. Relative Humidity Threshold: 85%. Sensor sync: Active.

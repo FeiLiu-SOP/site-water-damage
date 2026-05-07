@@ -12,6 +12,7 @@ lng: -91.3900
 zipSample: ["70767"]
 zipCodes: ["70767"]
 localPaths: ["West Baton Rouge Parish / coords 30.5400, -91.3900", "West Baton Rouge Parish / ZIP 70767 sector", "West Baton Rouge Parish / elevation 36 ft band", "West Baton Rouge Parish / primary ZIP 70767"]
+zillowHomeValueUsd: 214034
 ---
 
 **Engineering Notice for Erwinville:** structural drying capacity optimized for 36ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: West Baton Rouge Parish. Relative Humidity Threshold: 65%. Sensor sync: Active.

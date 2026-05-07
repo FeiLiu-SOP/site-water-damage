@@ -12,6 +12,7 @@ lng: -76.8300
 zipSample: ["17111"]
 zipCodes: ["17111"]
 localPaths: ["Dauphin County / coords 40.2600, -76.8300", "Dauphin County / ZIP 17111 sector", "Dauphin County / elevation 417 ft band", "Dauphin County / primary ZIP 17111"]
+zillowHomeValueUsd: 292233
 ---
 
 **Engineering Notice for Paxtang:** structural drying capacity optimized for 417ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dauphin County. Relative Humidity Threshold: 71%. Sensor sync: Active.

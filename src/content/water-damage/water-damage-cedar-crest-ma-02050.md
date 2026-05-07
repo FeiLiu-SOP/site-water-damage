@@ -12,6 +12,7 @@ lng: -70.6600
 zipSample: ["02050", "02020", "02041"]
 zipCodes: ["02020", "02041", "02050"]
 localPaths: ["Plymouth County / elevation 36 ft band", "Plymouth County / ZIP 02041 sector", "Plymouth County / ZIP 02020 sector", "Plymouth County / primary ZIP 02050", "Plymouth County / coords 42.0800, -70.6600"]
+zillowHomeValueUsd: 793576
 ---
 
 **Engineering Notice for Cedar Crest:** structural drying capacity optimized for 36ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Plymouth County. Relative Humidity Threshold: 81%. Sensor sync: Active.

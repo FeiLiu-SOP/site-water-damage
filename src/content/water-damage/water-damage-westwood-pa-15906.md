@@ -12,6 +12,7 @@ lng: -78.9500
 zipSample: ["15905", "15906"]
 zipCodes: ["15905", "15906"]
 localPaths: ["Cambria County / ZIP 15906 sector", "Cambria County / ZIP 15905 sector", "Cambria County / coords 40.3300, -78.9500", "Cambria County / elevation 1742 ft band", "Cambria County / primary ZIP 15906"]
+zillowHomeValueUsd: 42913
 ---
 
 **Engineering Notice for Westwood:** structural drying capacity optimized for 1742ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cambria County. Relative Humidity Threshold: 80%. Sensor sync: Active.

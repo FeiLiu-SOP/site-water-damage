@@ -12,6 +12,7 @@ lng: -81.2000
 zipSample: ["26170"]
 zipCodes: ["26170"]
 localPaths: ["Pleasants County / coords 39.4000, -81.2000", "Pleasants County / ZIP 26170 sector", "Pleasants County / primary ZIP 26170", "Pleasants County / elevation 617 ft band"]
+zillowHomeValueUsd: 161304
 ---
 
 **Engineering Notice for St. Marys:** structural drying capacity optimized for 617ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pleasants County. Relative Humidity Threshold: 65%. Sensor sync: Active.

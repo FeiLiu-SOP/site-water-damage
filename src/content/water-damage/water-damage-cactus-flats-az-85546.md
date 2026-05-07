@@ -12,6 +12,7 @@ lng: -109.7200
 zipSample: ["85546", "85548"]
 zipCodes: ["85548", "85546"]
 localPaths: ["Graham County / elevation 3120 ft band", "Graham County / coords 32.7600, -109.7200", "Graham County / ZIP 85548 sector", "Graham County / ZIP 85546 sector", "Graham County / primary ZIP 85546"]
+zillowHomeValueUsd: 285948
 ---
 
 **Engineering Notice for Cactus Flats:** structural drying capacity optimized for 3120ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Graham County. Relative Humidity Threshold: 67%. Sensor sync: Active.

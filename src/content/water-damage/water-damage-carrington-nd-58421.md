@@ -12,6 +12,7 @@ lng: -99.1300
 zipSample: ["58421"]
 zipCodes: ["58421"]
 localPaths: ["Foster County / elevation 1585 ft band", "Foster County / ZIP 58421 sector", "Foster County / primary ZIP 58421", "Foster County / coords 47.4500, -99.1300"]
+zillowHomeValueUsd: 196681
 ---
 
 **Engineering Notice for Carrington:** structural drying capacity optimized for 1585ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Foster County. Relative Humidity Threshold: 82%. Sensor sync: Active.

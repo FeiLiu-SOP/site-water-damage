@@ -12,6 +12,8 @@ lng: -109.2200
 zipSample: ["86556"]
 zipCodes: ["86556"]
 localPaths: ["Apache County / coords 36.3000, -109.2200", "Apache County / primary ZIP 86556", "Apache County / elevation 7047 ft band", "Apache County / ZIP 86556 sector"]
+zillowHomeValueUsd: 446558
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Tsaile:** structural drying capacity optimized for 7047ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Apache County. Relative Humidity Threshold: 75%. Sensor sync: Active.

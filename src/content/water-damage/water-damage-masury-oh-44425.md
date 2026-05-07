@@ -12,6 +12,7 @@ lng: -80.5400
 zipSample: ["44425", "44438"]
 zipCodes: ["44425", "44438"]
 localPaths: ["Trumbull County / ZIP 44438 sector", "Trumbull County / primary ZIP 44425", "Trumbull County / coords 41.2100, -80.5400", "Trumbull County / ZIP 44425 sector", "Trumbull County / elevation 912 ft band"]
+zillowHomeValueUsd: 165789
 ---
 
 **Engineering Notice for Masury:** structural drying capacity optimized for 912ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Trumbull County. Relative Humidity Threshold: 85%. Sensor sync: Active.

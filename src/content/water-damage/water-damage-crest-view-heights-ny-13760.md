@@ -12,6 +12,7 @@ lng: -76.1200
 zipSample: ["13760"]
 zipCodes: ["13760"]
 localPaths: ["Tioga County / coords 42.0800, -76.1200", "Tioga County / elevation 1037 ft band", "Tioga County / ZIP 13760 sector", "Tioga County / primary ZIP 13760"]
+zillowHomeValueUsd: 200214
 ---
 
 **Engineering Notice for Crest View Heights:** structural drying capacity optimized for 1037ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tioga County. Relative Humidity Threshold: 85%. Sensor sync: Active.

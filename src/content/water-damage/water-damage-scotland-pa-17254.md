@@ -12,6 +12,8 @@ lng: -77.5800
 zipSample: ["17202", "17254"]
 zipCodes: ["17202", "17254"]
 localPaths: ["Franklin County / elevation 702 ft band", "Franklin County / ZIP 17202 sector", "Franklin County / primary ZIP 17254", "Franklin County / coords 39.9700, -77.5800", "Franklin County / ZIP 17254 sector"]
+zillowHomeValueUsd: 265452
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Scotland:** structural drying capacity optimized for 702ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Franklin County. Relative Humidity Threshold: 81%. Sensor sync: Active.

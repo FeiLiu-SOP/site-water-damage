@@ -12,6 +12,7 @@ lng: -73.8700
 zipSample: ["12524"]
 zipCodes: ["12524"]
 localPaths: ["Dutchess County / primary ZIP 12524", "Dutchess County / ZIP 12524 sector", "Dutchess County / coords 41.5400, -73.8700", "Dutchess County / elevation 295 ft band"]
+zillowHomeValueUsd: 470080
 ---
 
 **Engineering Notice for Merritt Park:** structural drying capacity optimized for 295ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dutchess County. Relative Humidity Threshold: 81%. Sensor sync: Active.

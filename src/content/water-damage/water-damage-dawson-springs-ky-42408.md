@@ -12,6 +12,7 @@ lng: -87.6900
 zipSample: ["42408"]
 zipCodes: ["42408"]
 localPaths: ["Hopkins County / elevation 456 ft band", "Hopkins County / ZIP 42408 sector", "Hopkins County / coords 37.1700, -87.6900", "Hopkins County / primary ZIP 42408"]
+zillowHomeValueUsd: 119027
 ---
 
 **Engineering Notice for Dawson Springs:** structural drying capacity optimized for 456ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hopkins County. Relative Humidity Threshold: 72%. Sensor sync: Active.

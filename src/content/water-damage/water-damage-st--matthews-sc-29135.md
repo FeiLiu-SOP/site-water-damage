@@ -12,6 +12,7 @@ lng: -80.7800
 zipSample: ["29135"]
 zipCodes: ["29135"]
 localPaths: ["Calhoun County / ZIP 29135 sector", "Calhoun County / primary ZIP 29135", "Calhoun County / coords 33.6600, -80.7800", "Calhoun County / elevation 285 ft band"]
+zillowHomeValueUsd: 177516
 ---
 
 **Engineering Notice for St. Matthews:** structural drying capacity optimized for 285ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Calhoun County. Relative Humidity Threshold: 70%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -90.4300
 zipSample: ["53807"]
 zipCodes: ["53807"]
 localPaths: ["Grant County / ZIP 53807 sector", "Grant County / coords 42.6000, -90.4300", "Grant County / primary ZIP 53807", "Grant County / elevation 1007 ft band"]
+zillowHomeValueUsd: 251746
 ---
 
 **Engineering Notice for Cuba City:** structural drying capacity optimized for 1007ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grant County. Relative Humidity Threshold: 72%. Sensor sync: Active.

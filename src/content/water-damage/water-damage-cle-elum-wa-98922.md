@@ -12,6 +12,7 @@ lng: -120.9500
 zipSample: ["98922"]
 zipCodes: ["98922"]
 localPaths: ["Kittitas County / coords 47.1900, -120.9500", "Kittitas County / primary ZIP 98922", "Kittitas County / elevation 2014 ft band", "Kittitas County / ZIP 98922 sector"]
+zillowHomeValueUsd: 613708
 ---
 
 **Engineering Notice for Cle Elum:** structural drying capacity optimized for 2014ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kittitas County. Relative Humidity Threshold: 79%. Sensor sync: Active.

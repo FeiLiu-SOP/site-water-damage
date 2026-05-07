@@ -12,6 +12,8 @@ lng: -65.7900
 zipSample: ["00718"]
 zipCodes: ["00718"]
 localPaths: ["Naguabo County / elevation 131 ft band", "Naguabo County / coords 18.2100, -65.7900", "Naguabo County / primary ZIP 00718", "Naguabo County / ZIP 00718 sector"]
+zillowHomeValueUsd: 356172
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Río Blanco:** structural drying capacity optimized for 131ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Naguabo County. Relative Humidity Threshold: 65%. Sensor sync: Active.

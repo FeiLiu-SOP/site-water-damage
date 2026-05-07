@@ -12,6 +12,8 @@ lng: -67.1400
 zipSample: ["00610"]
 zipCodes: ["00610"]
 localPaths: ["Añasco County / coords 18.2900, -67.1400", "Añasco County / elevation 49 ft band", "Añasco County / ZIP 00610 sector", "Añasco County / primary ZIP 00610"]
+zillowHomeValueUsd: 366436
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Las Marías:** structural drying capacity optimized for 49ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Añasco County. Relative Humidity Threshold: 81%. Sensor sync: Active.

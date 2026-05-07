@@ -12,6 +12,7 @@ lng: -107.8300
 zipSample: ["81435"]
 zipCodes: ["81435"]
 localPaths: ["San Miguel County / coords 37.9400, -107.8300", "San Miguel County / primary ZIP 81435", "San Miguel County / ZIP 81435 sector", "San Miguel County / elevation 9318 ft band"]
+zillowHomeValueUsd: 2165633
 ---
 
 **Engineering Notice for Telluride:** structural drying capacity optimized for 9318ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Miguel County. Relative Humidity Threshold: 78%. Sensor sync: Active.

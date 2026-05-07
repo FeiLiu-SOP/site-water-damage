@@ -12,6 +12,7 @@ lng: -82.3100
 zipSample: ["34482"]
 zipCodes: ["34482"]
 localPaths: ["Marion County / coords 29.2000, -82.3100", "Marion County / elevation 89 ft band", "Marion County / ZIP 34482 sector", "Marion County / primary ZIP 34482"]
+zillowHomeValueUsd: 297964
 ---
 
 **Engineering Notice for Ocala Estates:** structural drying capacity optimized for 89ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marion County. Relative Humidity Threshold: 66%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -98.7700
 zipSample: ["78582"]
 zipCodes: ["78582"]
 localPaths: ["Starr County / coords 26.3600, -98.7700", "Starr County / ZIP 78582 sector", "Starr County / elevation 180 ft band", "Starr County / primary ZIP 78582"]
+zillowHomeValueUsd: 146584
 ---
 
 **Engineering Notice for Las Lomas:** structural drying capacity optimized for 180ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Starr County. Relative Humidity Threshold: 74%. Sensor sync: Active.

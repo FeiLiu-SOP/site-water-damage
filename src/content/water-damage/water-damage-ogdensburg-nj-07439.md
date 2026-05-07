@@ -12,6 +12,7 @@ lng: -74.6000
 zipSample: ["07439"]
 zipCodes: ["07439"]
 localPaths: ["Sussex County / primary ZIP 07439", "Sussex County / ZIP 07439 sector", "Sussex County / coords 41.0800, -74.6000", "Sussex County / elevation 597 ft band"]
+zillowHomeValueUsd: 421698
 ---
 
 **Engineering Notice for Ogdensburg:** structural drying capacity optimized for 597ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sussex County. Relative Humidity Threshold: 77%. Sensor sync: Active.

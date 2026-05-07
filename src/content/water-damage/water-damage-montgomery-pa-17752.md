@@ -12,6 +12,7 @@ lng: -76.8700
 zipSample: ["17752"]
 zipCodes: ["17752"]
 localPaths: ["Lycoming County / elevation 515 ft band", "Lycoming County / ZIP 17752 sector", "Lycoming County / coords 41.1700, -76.8700", "Lycoming County / primary ZIP 17752"]
+zillowHomeValueUsd: 225671
 ---
 
 **Engineering Notice for Montgomery:** structural drying capacity optimized for 515ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lycoming County. Relative Humidity Threshold: 85%. Sensor sync: Active.

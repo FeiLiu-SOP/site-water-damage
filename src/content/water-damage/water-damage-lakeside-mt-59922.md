@@ -12,6 +12,7 @@ lng: -114.2300
 zipSample: ["59922"]
 zipCodes: ["59922"]
 localPaths: ["Flathead County / primary ZIP 59922", "Flathead County / coords 48.0200, -114.2300", "Flathead County / elevation 2927 ft band", "Flathead County / ZIP 59922 sector"]
+zillowHomeValueUsd: 841138
 ---
 
 **Engineering Notice for Lakeside:** structural drying capacity optimized for 2927ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Flathead County. Relative Humidity Threshold: 69%. Sensor sync: Active.

@@ -12,6 +12,8 @@ lng: -85.1900
 zipSample: ["30149"]
 zipCodes: ["30149"]
 localPaths: ["Floyd County / elevation 610 ft band", "Floyd County / primary ZIP 30149", "Floyd County / ZIP 30149 sector", "Floyd County / coords 34.2900, -85.1900"]
+zillowHomeValueUsd: 289273
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Berry College:** structural drying capacity optimized for 610ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Floyd County. Relative Humidity Threshold: 85%. Sensor sync: Active.

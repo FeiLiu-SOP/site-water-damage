@@ -12,6 +12,7 @@ lng: -85.2600
 zipSample: ["47042"]
 zipCodes: ["47042"]
 localPaths: ["Ripley County / primary ZIP 47042", "Ripley County / ZIP 47042 sector", "Ripley County / elevation 994 ft band", "Ripley County / coords 39.0600, -85.2600"]
+zillowHomeValueUsd: 253908
 ---
 
 **Engineering Notice for Versailles:** structural drying capacity optimized for 994ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ripley County. Relative Humidity Threshold: 73%. Sensor sync: Active.

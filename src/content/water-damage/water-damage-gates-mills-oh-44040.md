@@ -12,6 +12,7 @@ lng: -81.4100
 zipSample: ["44040"]
 zipCodes: ["44040"]
 localPaths: ["Cuyahoga County / ZIP 44040 sector", "Cuyahoga County / coords 41.5300, -81.4100", "Cuyahoga County / primary ZIP 44040", "Cuyahoga County / elevation 732 ft band"]
+zillowHomeValueUsd: 699412
 ---
 
 **Engineering Notice for Gates Mills:** structural drying capacity optimized for 732ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cuyahoga County. Relative Humidity Threshold: 65%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -98.2700
 zipSample: ["73741"]
 zipCodes: ["73741"]
 localPaths: ["Alfalfa County / ZIP 73741 sector", "Alfalfa County / elevation 1424 ft band", "Alfalfa County / primary ZIP 73741", "Alfalfa County / coords 36.5500, -98.2700"]
+zillowHomeValueUsd: 105890
 ---
 
 **Engineering Notice for Helena:** structural drying capacity optimized for 1424ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Alfalfa County. Relative Humidity Threshold: 66%. Sensor sync: Active.

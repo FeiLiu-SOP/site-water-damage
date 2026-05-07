@@ -12,6 +12,7 @@ lng: -155.8000
 zipSample: ["96755"]
 zipCodes: ["96755"]
 localPaths: ["Hawaii County / primary ZIP 96755", "Hawaii County / elevation 466 ft band", "Hawaii County / coords 20.2300, -155.8000", "Hawaii County / ZIP 96755 sector"]
+zillowHomeValueUsd: 635780
 ---
 
 **Engineering Notice for Kapaau:** structural drying capacity optimized for 466ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hawaii County. Relative Humidity Threshold: 83%. Sensor sync: Active.

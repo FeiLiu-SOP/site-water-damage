@@ -12,6 +12,7 @@ lng: -94.3000
 zipSample: ["56472"]
 zipCodes: ["56472"]
 localPaths: ["Crow Wing County / elevation 1273 ft band", "Crow Wing County / primary ZIP 56472", "Crow Wing County / coords 46.5900, -94.3000", "Crow Wing County / ZIP 56472 sector"]
+zillowHomeValueUsd: 409794
 ---
 
 **Engineering Notice for Pequot Lakes:** structural drying capacity optimized for 1273ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Crow Wing County. Relative Humidity Threshold: 76%. Sensor sync: Active.

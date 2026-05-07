@@ -12,6 +12,7 @@ lng: -95.3200
 zipSample: ["77581"]
 zipCodes: ["77581"]
 localPaths: ["Brazoria County / coords 29.5900, -95.3200", "Brazoria County / primary ZIP 77581", "Brazoria County / ZIP 77581 sector", "Brazoria County / elevation 56 ft band"]
+zillowHomeValueUsd: 372407
 ---
 
 **Engineering Notice for Brookside Village:** structural drying capacity optimized for 56ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Brazoria County. Relative Humidity Threshold: 77%. Sensor sync: Active.

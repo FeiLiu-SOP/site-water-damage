@@ -12,6 +12,7 @@ lng: -79.8600
 zipSample: ["15221"]
 zipCodes: ["15221"]
 localPaths: ["Allegheny County / ZIP 15221 sector", "Allegheny County / coords 40.4200, -79.8600", "Allegheny County / elevation 1089 ft band", "Allegheny County / primary ZIP 15221"]
+zillowHomeValueUsd: 147182
 ---
 
 **Engineering Notice for Braddock Hills:** structural drying capacity optimized for 1089ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allegheny County. Relative Humidity Threshold: 65%. Sensor sync: Active.

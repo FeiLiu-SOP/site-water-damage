@@ -12,6 +12,7 @@ lng: -89.1000
 zipSample: ["61705"]
 zipCodes: ["61705"]
 localPaths: ["McLean County / coords 40.4900, -89.1000", "McLean County / elevation 784 ft band", "McLean County / primary ZIP 61705", "McLean County / ZIP 61705 sector"]
+zillowHomeValueUsd: 378428
 ---
 
 **Engineering Notice for Twin Grove:** structural drying capacity optimized for 784ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McLean County. Relative Humidity Threshold: 85%. Sensor sync: Active.

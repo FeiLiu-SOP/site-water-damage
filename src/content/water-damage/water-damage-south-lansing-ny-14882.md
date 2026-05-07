@@ -12,6 +12,7 @@ lng: -76.5000
 zipSample: ["14882"]
 zipCodes: ["14882"]
 localPaths: ["Tompkins County / coords 42.5400, -76.5000", "Tompkins County / primary ZIP 14882", "Tompkins County / ZIP 14882 sector", "Tompkins County / elevation 935 ft band"]
+zillowHomeValueUsd: 357940
 ---
 
 **Engineering Notice for South Lansing:** structural drying capacity optimized for 935ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tompkins County. Relative Humidity Threshold: 80%. Sensor sync: Active.

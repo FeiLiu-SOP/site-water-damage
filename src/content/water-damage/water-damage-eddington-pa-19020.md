@@ -12,6 +12,7 @@ lng: -74.9400
 zipSample: ["19020"]
 zipCodes: ["19020"]
 localPaths: ["Bucks County / primary ZIP 19020", "Bucks County / elevation 82 ft band", "Bucks County / coords 40.0900, -74.9400", "Bucks County / ZIP 19020 sector"]
+zillowHomeValueUsd: 422409
 ---
 
 **Engineering Notice for Eddington:** structural drying capacity optimized for 82ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bucks County. Relative Humidity Threshold: 72%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -90.5300
 zipSample: ["63021"]
 zipCodes: ["63021"]
 localPaths: ["St. Louis County / ZIP 63021 sector", "St. Louis County / primary ZIP 63021", "St. Louis County / elevation 620 ft band", "St. Louis County / coords 38.5900, -90.5300"]
+zillowHomeValueUsd: 386337
 ---
 
 **Engineering Notice for Winchester:** structural drying capacity optimized for 620ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Louis County. Relative Humidity Threshold: 66%. Sensor sync: Active.

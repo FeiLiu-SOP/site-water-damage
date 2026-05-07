@@ -12,6 +12,7 @@ lng: -78.8800
 zipSample: ["22958"]
 zipCodes: ["22958"]
 localPaths: ["Nelson County / primary ZIP 22958", "Nelson County / elevation 1289 ft band", "Nelson County / coords 37.9100, -78.8800", "Nelson County / ZIP 22958 sector"]
+zillowHomeValueUsd: 571308
 ---
 
 **Engineering Notice for Nellysford:** structural drying capacity optimized for 1289ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Nelson County. Relative Humidity Threshold: 82%. Sensor sync: Active.

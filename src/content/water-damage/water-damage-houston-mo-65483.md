@@ -12,6 +12,7 @@ lng: -91.9600
 zipSample: ["65483"]
 zipCodes: ["65483"]
 localPaths: ["Texas County / coords 37.3200, -91.9600", "Texas County / elevation 1207 ft band", "Texas County / primary ZIP 65483", "Texas County / ZIP 65483 sector"]
+zillowHomeValueUsd: 186659
 ---
 
 **Engineering Notice for Houston:** structural drying capacity optimized for 1207ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Texas County. Relative Humidity Threshold: 75%. Sensor sync: Active.

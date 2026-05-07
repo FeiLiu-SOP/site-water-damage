@@ -12,6 +12,7 @@ lng: -121.0100
 zipSample: ["95356"]
 zipCodes: ["95356"]
 localPaths: ["Stanislaus County / coords 37.7400, -121.0100", "Stanislaus County / elevation 141 ft band", "Stanislaus County / primary ZIP 95356", "Stanislaus County / ZIP 95356 sector"]
+zillowHomeValueUsd: 524429
 ---
 
 **Engineering Notice for Del Rio:** structural drying capacity optimized for 141ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stanislaus County. Relative Humidity Threshold: 79%. Sensor sync: Active.

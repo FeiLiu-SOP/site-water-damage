@@ -12,6 +12,7 @@ lng: -123.4300
 zipSample: ["97532", "97526"]
 zipCodes: ["97526", "97532"]
 localPaths: ["Josephine County / ZIP 97532 sector", "Josephine County / elevation 896 ft band", "Josephine County / primary ZIP 97532", "Josephine County / ZIP 97526 sector", "Josephine County / coords 42.5200, -123.4300"]
+zillowHomeValueUsd: 464732
 ---
 
 **Engineering Notice for Merlin:** structural drying capacity optimized for 896ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Josephine County. Relative Humidity Threshold: 66%. Sensor sync: Active.

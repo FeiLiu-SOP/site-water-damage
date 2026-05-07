@@ -12,6 +12,7 @@ lng: -95.7000
 zipSample: ["75754"]
 zipCodes: ["75754"]
 localPaths: ["Van Zandt County / coords 32.4500, -95.7000", "Van Zandt County / elevation 541 ft band", "Van Zandt County / primary ZIP 75754", "Van Zandt County / ZIP 75754 sector"]
+zillowHomeValueUsd: 314057
 ---
 
 **Engineering Notice for Ben Wheeler:** structural drying capacity optimized for 541ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Van Zandt County. Relative Humidity Threshold: 76%. Sensor sync: Active.

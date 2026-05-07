@@ -12,6 +12,7 @@ lng: -96.7800
 zipSample: ["57004"]
 zipCodes: ["57004"]
 localPaths: ["Union County / ZIP 57004 sector", "Union County / elevation 1512 ft band", "Union County / primary ZIP 57004", "Union County / coords 43.0800, -96.7800"]
+zillowHomeValueUsd: 322908
 ---
 
 **Engineering Notice for Beresford:** structural drying capacity optimized for 1512ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Union County. Relative Humidity Threshold: 81%. Sensor sync: Active.

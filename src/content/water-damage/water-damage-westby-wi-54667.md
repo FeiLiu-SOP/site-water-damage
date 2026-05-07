@@ -12,6 +12,7 @@ lng: -90.8600
 zipSample: ["54667"]
 zipCodes: ["54667"]
 localPaths: ["Vernon County / ZIP 54667 sector", "Vernon County / coords 43.6500, -90.8600", "Vernon County / elevation 1299 ft band", "Vernon County / primary ZIP 54667"]
+zillowHomeValueUsd: 271425
 ---
 
 **Engineering Notice for Westby:** structural drying capacity optimized for 1299ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Vernon County. Relative Humidity Threshold: 65%. Sensor sync: Active.

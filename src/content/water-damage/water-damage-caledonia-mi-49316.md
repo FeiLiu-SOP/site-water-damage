@@ -12,6 +12,7 @@ lng: -85.5200
 zipSample: ["49316"]
 zipCodes: ["49316"]
 localPaths: ["Kent County / coords 42.7900, -85.5200", "Kent County / elevation 791 ft band", "Kent County / ZIP 49316 sector", "Kent County / primary ZIP 49316"]
+zillowHomeValueUsd: 434934
 ---
 
 **Engineering Notice for Caledonia:** structural drying capacity optimized for 791ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kent County. Relative Humidity Threshold: 84%. Sensor sync: Active.

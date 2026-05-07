@@ -12,6 +12,7 @@ lng: -84.2200
 zipSample: ["37714", "37757", "37847"]
 zipCodes: ["37714", "37757", "37847"]
 localPaths: ["Campbell County / primary ZIP 37714", "Campbell County / ZIP 37847 sector", "Campbell County / ZIP 37757 sector", "Campbell County / coords 36.3300, -84.2200", "Campbell County / elevation 1188 ft band"]
+zillowHomeValueUsd: 247694
 ---
 
 **Engineering Notice for Caryville:** structural drying capacity optimized for 1188ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Campbell County. Relative Humidity Threshold: 65%. Sensor sync: Active.

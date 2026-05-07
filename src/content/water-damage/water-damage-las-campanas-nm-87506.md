@@ -12,6 +12,7 @@ lng: -106.0600
 zipSample: ["87506"]
 zipCodes: ["87506"]
 localPaths: ["Santa Fe County / ZIP 87506 sector", "Santa Fe County / elevation 6588 ft band", "Santa Fe County / primary ZIP 87506", "Santa Fe County / coords 35.7200, -106.0600"]
+zillowHomeValueUsd: 1093180
 ---
 
 **Engineering Notice for Las Campanas:** structural drying capacity optimized for 6588ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Santa Fe County. Relative Humidity Threshold: 79%. Sensor sync: Active.

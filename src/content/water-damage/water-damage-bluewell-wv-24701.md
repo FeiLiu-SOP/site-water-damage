@@ -12,6 +12,7 @@ lng: -81.2600
 zipSample: ["24701", "24737"]
 zipCodes: ["24737", "24701"]
 localPaths: ["Mercer County / elevation 2631 ft band", "Mercer County / coords 37.3100, -81.2600", "Mercer County / ZIP 24701 sector", "Mercer County / ZIP 24737 sector", "Mercer County / primary ZIP 24701"]
+zillowHomeValueUsd: 106671
 ---
 
 **Engineering Notice for Bluewell:** structural drying capacity optimized for 2631ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mercer County. Relative Humidity Threshold: 75%. Sensor sync: Active.

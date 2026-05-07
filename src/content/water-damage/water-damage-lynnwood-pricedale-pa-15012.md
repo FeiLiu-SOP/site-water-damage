@@ -12,6 +12,7 @@ lng: -79.8500
 zipSample: ["15012", "15072"]
 zipCodes: ["15072", "15012"]
 localPaths: ["Westmoreland County / ZIP 15012 sector", "Westmoreland County / ZIP 15072 sector", "Westmoreland County / coords 40.1300, -79.8500", "Westmoreland County / elevation 938 ft band", "Westmoreland County / primary ZIP 15012"]
+zillowHomeValueUsd: 185713
 ---
 
 **Engineering Notice for Lynnwood-Pricedale:** structural drying capacity optimized for 938ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Westmoreland County. Relative Humidity Threshold: 74%. Sensor sync: Active.

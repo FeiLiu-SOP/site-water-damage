@@ -12,6 +12,7 @@ lng: -81.1900
 zipSample: ["28659"]
 zipCodes: ["28659"]
 localPaths: ["Wilkes County / primary ZIP 28659", "Wilkes County / coords 36.1700, -81.1900", "Wilkes County / ZIP 28659 sector", "Wilkes County / elevation 1257 ft band"]
+zillowHomeValueUsd: 209871
 ---
 
 **Engineering Notice for Cricket:** structural drying capacity optimized for 1257ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wilkes County. Relative Humidity Threshold: 69%. Sensor sync: Active.

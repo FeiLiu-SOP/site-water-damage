@@ -12,6 +12,7 @@ lng: -86.6200
 zipSample: ["47432"]
 zipCodes: ["47432"]
 localPaths: ["Orange County / primary ZIP 47432", "Orange County / ZIP 47432 sector", "Orange County / coords 38.5500, -86.6200", "Orange County / elevation 574 ft band"]
+zillowHomeValueUsd: 192414
 ---
 
 **Engineering Notice for French Lick:** structural drying capacity optimized for 574ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Orange County. Relative Humidity Threshold: 82%. Sensor sync: Active.

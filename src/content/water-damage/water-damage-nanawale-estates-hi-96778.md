@@ -12,6 +12,7 @@ lng: -154.9100
 zipSample: ["96778"]
 zipCodes: ["96778"]
 localPaths: ["Hawaii County / primary ZIP 96778", "Hawaii County / elevation 482 ft band", "Hawaii County / coords 19.5000, -154.9100", "Hawaii County / ZIP 96778 sector"]
+zillowHomeValueUsd: 288897
 ---
 
 **Engineering Notice for Nanawale Estates:** structural drying capacity optimized for 482ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hawaii County. Relative Humidity Threshold: 79%. Sensor sync: Active.

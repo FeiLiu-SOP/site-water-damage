@@ -12,6 +12,7 @@ lng: -95.5500
 zipSample: ["67335"]
 zipCodes: ["67335"]
 localPaths: ["Montgomery County / elevation 843 ft band", "Montgomery County / ZIP 67335 sector", "Montgomery County / coords 37.2700, -95.5500", "Montgomery County / primary ZIP 67335"]
+zillowHomeValueUsd: 107629
 ---
 
 **Engineering Notice for Cherryvale:** structural drying capacity optimized for 843ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Montgomery County. Relative Humidity Threshold: 66%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -123.0000
 zipSample: ["98531"]
 zipCodes: ["98531"]
 localPaths: ["Lewis County / ZIP 98531 sector", "Lewis County / coords 46.7500, -123.0000", "Lewis County / elevation 167 ft band", "Lewis County / primary ZIP 98531"]
+zillowHomeValueUsd: 396446
 ---
 
 **Engineering Notice for Fords Prairie:** structural drying capacity optimized for 167ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lewis County. Relative Humidity Threshold: 71%. Sensor sync: Active.

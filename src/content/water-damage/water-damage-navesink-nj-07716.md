@@ -12,6 +12,7 @@ lng: -74.0400
 zipSample: ["07760", "07716"]
 zipCodes: ["07716", "07760"]
 localPaths: ["Monmouth County / elevation 148 ft band", "Monmouth County / coords 40.4000, -74.0400", "Monmouth County / primary ZIP 07716", "Monmouth County / ZIP 07760 sector", "Monmouth County / ZIP 07716 sector"]
+zillowHomeValueUsd: 804372
 ---
 
 **Engineering Notice for Navesink:** structural drying capacity optimized for 148ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Monmouth County. Relative Humidity Threshold: 77%. Sensor sync: Active.

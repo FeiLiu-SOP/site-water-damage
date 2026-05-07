@@ -12,6 +12,7 @@ lng: -80.1800
 zipSample: ["33311"]
 zipCodes: ["33311"]
 localPaths: ["Broward County / primary ZIP 33311", "Broward County / elevation 30 ft band", "Broward County / ZIP 33311 sector", "Broward County / coords 26.1300, -80.1800"]
+zillowHomeValueUsd: 362753
 ---
 
 **Engineering Notice for Washington Park:** structural drying capacity optimized for 30ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Broward County. Relative Humidity Threshold: 72%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -75.4100
 zipSample: ["13323"]
 zipCodes: ["13323"]
 localPaths: ["Oneida County / primary ZIP 13323", "Oneida County / ZIP 13323 sector", "Oneida County / elevation 902 ft band", "Oneida County / coords 43.0500, -75.4100"]
+zillowHomeValueUsd: 297040
 ---
 
 **Engineering Notice for Hamilton College:** structural drying capacity optimized for 902ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Oneida County. Relative Humidity Threshold: 85%. Sensor sync: Active.

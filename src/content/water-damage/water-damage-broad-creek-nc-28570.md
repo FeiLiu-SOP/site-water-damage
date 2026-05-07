@@ -12,6 +12,7 @@ lng: -76.9200
 zipSample: ["28570"]
 zipCodes: ["28570"]
 localPaths: ["Carteret County / ZIP 28570 sector", "Carteret County / primary ZIP 28570", "Carteret County / elevation 33 ft band", "Carteret County / coords 34.7300, -76.9200"]
+zillowHomeValueUsd: 346657
 ---
 
 **Engineering Notice for Broad Creek:** structural drying capacity optimized for 33ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Carteret County. Relative Humidity Threshold: 76%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -94.9700
 zipSample: ["75684"]
 zipCodes: ["75684"]
 localPaths: ["Rusk County / ZIP 75684 sector", "Rusk County / coords 32.2800, -94.9700", "Rusk County / elevation 489 ft band", "Rusk County / primary ZIP 75684"]
+zillowHomeValueUsd: 180124
 ---
 
 **Engineering Notice for Overton:** structural drying capacity optimized for 489ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rusk County. Relative Humidity Threshold: 77%. Sensor sync: Active.

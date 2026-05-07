@@ -12,6 +12,8 @@ lng: -108.7000
 zipSample: ["88045"]
 zipCodes: ["88045"]
 localPaths: ["Hidalgo County / coords 32.3400, -108.7000", "Hidalgo County / primary ZIP 88045", "Hidalgo County / ZIP 88045 sector", "Hidalgo County / elevation 4278 ft band"]
+zillowHomeValueUsd: 300093
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Lordsburg:** structural drying capacity optimized for 4278ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hidalgo County. Relative Humidity Threshold: 66%. Sensor sync: Active.

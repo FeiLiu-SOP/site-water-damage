@@ -12,6 +12,7 @@ lng: -78.2200
 zipSample: ["23974"]
 zipCodes: ["23974"]
 localPaths: ["Lunenburg County / coords 36.9900, -78.2200", "Lunenburg County / elevation 554 ft band", "Lunenburg County / ZIP 23974 sector", "Lunenburg County / primary ZIP 23974"]
+zillowHomeValueUsd: 134326
 ---
 
 **Engineering Notice for Victoria:** structural drying capacity optimized for 554ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lunenburg County. Relative Humidity Threshold: 84%. Sensor sync: Active.

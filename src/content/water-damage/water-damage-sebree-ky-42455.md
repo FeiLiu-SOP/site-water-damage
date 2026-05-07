@@ -12,6 +12,7 @@ lng: -87.5200
 zipSample: ["42455"]
 zipCodes: ["42455"]
 localPaths: ["Webster County / coords 37.6000, -87.5200", "Webster County / primary ZIP 42455", "Webster County / ZIP 42455 sector", "Webster County / elevation 568 ft band"]
+zillowHomeValueUsd: 160687
 ---
 
 **Engineering Notice for Sebree:** structural drying capacity optimized for 568ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Webster County. Relative Humidity Threshold: 85%. Sensor sync: Active.

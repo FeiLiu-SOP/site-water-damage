@@ -12,6 +12,7 @@ lng: -110.9600
 zipSample: ["84528"]
 zipCodes: ["84528"]
 localPaths: ["Emery County / coords 39.3300, -110.9600", "Emery County / primary ZIP 84528", "Emery County / ZIP 84528 sector", "Emery County / elevation 5801 ft band"]
+zillowHomeValueUsd: 291437
 ---
 
 **Engineering Notice for Huntington:** structural drying capacity optimized for 5801ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Emery County. Relative Humidity Threshold: 84%. Sensor sync: Active.

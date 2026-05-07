@@ -12,6 +12,7 @@ lng: -84.1400
 zipSample: ["45806", "45895"]
 zipCodes: ["45806", "45895"]
 localPaths: ["Auglaize County / elevation 886 ft band", "Auglaize County / coords 40.6500, -84.1400", "Auglaize County / ZIP 45895 sector", "Auglaize County / primary ZIP 45806", "Auglaize County / ZIP 45806 sector"]
+zillowHomeValueUsd: 230535
 ---
 
 **Engineering Notice for Cridersville:** structural drying capacity optimized for 886ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Auglaize County. Relative Humidity Threshold: 83%. Sensor sync: Active.

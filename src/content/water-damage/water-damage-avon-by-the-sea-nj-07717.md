@@ -12,6 +12,7 @@ lng: -74.0200
 zipSample: ["07717"]
 zipCodes: ["07717"]
 localPaths: ["Monmouth County / ZIP 07717 sector", "Monmouth County / primary ZIP 07717", "Monmouth County / coords 40.1900, -74.0200", "Monmouth County / elevation 16 ft band"]
+zillowHomeValueUsd: 1735278
 ---
 
 **Engineering Notice for Avon-by-the-Sea:** structural drying capacity optimized for 16ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Monmouth County. Relative Humidity Threshold: 68%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -88.9800
 zipSample: ["53523"]
 zipCodes: ["53523"]
 localPaths: ["Jefferson County / coords 43.0000, -88.9800", "Jefferson County / primary ZIP 53523", "Jefferson County / ZIP 53523 sector", "Jefferson County / elevation 899 ft band"]
+zillowHomeValueUsd: 420759
 ---
 
 **Engineering Notice for Lake Ripley:** structural drying capacity optimized for 899ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 67%. Sensor sync: Active.

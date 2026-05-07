@@ -12,6 +12,7 @@ lng: -80.5600
 zipSample: ["24141"]
 zipCodes: ["24141"]
 localPaths: ["Pulaski County / primary ZIP 24141", "Pulaski County / coords 37.1500, -80.5600", "Pulaski County / elevation 1896 ft band", "Pulaski County / ZIP 24141 sector"]
+zillowHomeValueUsd: 262320
 ---
 
 **Engineering Notice for Fairlawn:** structural drying capacity optimized for 1896ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pulaski County. Relative Humidity Threshold: 83%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -74.9700
 zipSample: ["08026"]
 zipCodes: ["08026"]
 localPaths: ["Camden County / primary ZIP 08026", "Camden County / elevation 98 ft band", "Camden County / coords 39.8300, -74.9700", "Camden County / ZIP 08026 sector"]
+zillowHomeValueUsd: 380309
 ---
 
 **Engineering Notice for Gibbsboro:** structural drying capacity optimized for 98ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Camden County. Relative Humidity Threshold: 82%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -74.8400
 zipSample: ["08037", "08094"]
 zipCodes: ["08094", "08037"]
 localPaths: ["Atlantic County / ZIP 08094 sector", "Atlantic County / elevation 75 ft band", "Atlantic County / coords 39.5900, -74.8400", "Atlantic County / ZIP 08037 sector", "Atlantic County / primary ZIP 08094"]
+zillowHomeValueUsd: 365843
 ---
 
 **Engineering Notice for Folsom:** structural drying capacity optimized for 75ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Atlantic County. Relative Humidity Threshold: 84%. Sensor sync: Active.

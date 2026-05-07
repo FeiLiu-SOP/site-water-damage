@@ -12,6 +12,7 @@ lng: -78.2800
 zipSample: ["22645"]
 zipCodes: ["22645"]
 localPaths: ["Frederick County / elevation 722 ft band", "Frederick County / coords 39.0300, -78.2800", "Frederick County / ZIP 22645 sector", "Frederick County / primary ZIP 22645"]
+zillowHomeValueUsd: 447682
 ---
 
 **Engineering Notice for Middletown:** structural drying capacity optimized for 722ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Frederick County. Relative Humidity Threshold: 83%. Sensor sync: Active.

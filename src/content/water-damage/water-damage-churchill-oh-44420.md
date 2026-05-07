@@ -12,6 +12,7 @@ lng: -80.6700
 zipSample: ["44505", "44420"]
 zipCodes: ["44505", "44420"]
 localPaths: ["Trumbull County / primary ZIP 44420", "Trumbull County / elevation 1083 ft band", "Trumbull County / ZIP 44505 sector", "Trumbull County / coords 41.1700, -80.6700", "Trumbull County / ZIP 44420 sector"]
+zillowHomeValueUsd: 142855
 ---
 
 **Engineering Notice for Churchill:** structural drying capacity optimized for 1083ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Trumbull County. Relative Humidity Threshold: 85%. Sensor sync: Active.

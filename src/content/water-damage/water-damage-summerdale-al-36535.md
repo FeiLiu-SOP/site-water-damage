@@ -12,6 +12,7 @@ lng: -87.6900
 zipSample: ["36580", "36535"]
 zipCodes: ["36580", "36535"]
 localPaths: ["Baldwin County / coords 30.4800, -87.6900", "Baldwin County / ZIP 36580 sector", "Baldwin County / primary ZIP 36535", "Baldwin County / elevation 112 ft band", "Baldwin County / ZIP 36535 sector"]
+zillowHomeValueUsd: 301645
 ---
 
 **Engineering Notice for Summerdale:** structural drying capacity optimized for 112ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Baldwin County. Relative Humidity Threshold: 76%. Sensor sync: Active.

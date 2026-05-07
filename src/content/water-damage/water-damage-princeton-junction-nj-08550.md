@@ -12,6 +12,7 @@ lng: -74.6200
 zipSample: ["08550", "08540"]
 zipCodes: ["08540", "08550"]
 localPaths: ["Mercer County / primary ZIP 08550", "Mercer County / coords 40.3200, -74.6200", "Mercer County / ZIP 08540 sector", "Mercer County / elevation 85 ft band", "Mercer County / ZIP 08550 sector"]
+zillowHomeValueUsd: 1000622
 ---
 
 **Engineering Notice for Princeton Junction:** structural drying capacity optimized for 85ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mercer County. Relative Humidity Threshold: 66%. Sensor sync: Active.

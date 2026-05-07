@@ -12,6 +12,7 @@ lng: -83.4500
 zipSample: ["28713"]
 zipCodes: ["28713"]
 localPaths: ["Swain County / elevation 1739 ft band", "Swain County / ZIP 28713 sector", "Swain County / coords 35.4300, -83.4500", "Swain County / primary ZIP 28713"]
+zillowHomeValueUsd: 320523
 ---
 
 **Engineering Notice for Bryson City:** structural drying capacity optimized for 1739ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Swain County. Relative Humidity Threshold: 79%. Sensor sync: Active.

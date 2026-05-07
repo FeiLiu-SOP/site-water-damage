@@ -12,6 +12,7 @@ lng: -98.6600
 zipSample: ["78073", "78069"]
 zipCodes: ["78069", "78073"]
 localPaths: ["Bexar County / ZIP 78073 sector", "Bexar County / elevation 659 ft band", "Bexar County / coords 29.2300, -98.6600", "Bexar County / ZIP 78069 sector", "Bexar County / primary ZIP 78069"]
+zillowHomeValueUsd: 234632
 ---
 
 **Engineering Notice for Somerset:** structural drying capacity optimized for 659ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bexar County. Relative Humidity Threshold: 76%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -98.6000
 zipSample: ["73015"]
 zipCodes: ["73015"]
 localPaths: ["Caddo County / primary ZIP 73015", "Caddo County / ZIP 73015 sector", "Caddo County / coords 35.1000, -98.6000", "Caddo County / elevation 1352 ft band"]
+zillowHomeValueUsd: 74221
 ---
 
 **Engineering Notice for Carnegie:** structural drying capacity optimized for 1352ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Caddo County. Relative Humidity Threshold: 84%. Sensor sync: Active.

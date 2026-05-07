@@ -12,6 +12,7 @@ lng: -86.8600
 zipSample: ["37047"]
 zipCodes: ["37047"]
 localPaths: ["Marshall County / coords 35.3600, -86.8600", "Marshall County / elevation 1043 ft band", "Marshall County / ZIP 37047 sector", "Marshall County / primary ZIP 37047"]
+zillowHomeValueUsd: 312107
 ---
 
 **Engineering Notice for Cornersville:** structural drying capacity optimized for 1043ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marshall County. Relative Humidity Threshold: 85%. Sensor sync: Active.

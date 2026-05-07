@@ -12,6 +12,7 @@ lng: -124.0400
 zipSample: ["98637", "98640"]
 zipCodes: ["98637", "98640"]
 localPaths: ["Pacific County / ZIP 98637 sector", "Pacific County / coords 46.5000, -124.0400", "Pacific County / primary ZIP 98640", "Pacific County / elevation 59 ft band", "Pacific County / ZIP 98640 sector"]
+zillowHomeValueUsd: 343147
 ---
 
 **Engineering Notice for Ocean Park:** structural drying capacity optimized for 59ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pacific County. Relative Humidity Threshold: 75%. Sensor sync: Active.

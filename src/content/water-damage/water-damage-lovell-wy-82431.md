@@ -12,6 +12,7 @@ lng: -108.3900
 zipSample: ["82431"]
 zipCodes: ["82431"]
 localPaths: ["Big Horn County / primary ZIP 82431", "Big Horn County / ZIP 82431 sector", "Big Horn County / elevation 3839 ft band", "Big Horn County / coords 44.8400, -108.3900"]
+zillowHomeValueUsd: 277428
 ---
 
 **Engineering Notice for Lovell:** structural drying capacity optimized for 3839ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Big Horn County. Relative Humidity Threshold: 65%. Sensor sync: Active.

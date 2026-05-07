@@ -12,6 +12,7 @@ lng: -94.2000
 zipSample: ["64747"]
 zipCodes: ["64747"]
 localPaths: ["Cass County / ZIP 64747 sector", "Cass County / primary ZIP 64747", "Cass County / coords 38.5600, -94.2000", "Cass County / elevation 925 ft band"]
+zillowHomeValueUsd: 296312
 ---
 
 **Engineering Notice for Garden City:** structural drying capacity optimized for 925ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cass County. Relative Humidity Threshold: 67%. Sensor sync: Active.

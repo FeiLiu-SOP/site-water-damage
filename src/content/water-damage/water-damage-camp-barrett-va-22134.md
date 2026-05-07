@@ -12,6 +12,7 @@ lng: -77.4400
 zipSample: ["22134"]
 zipCodes: ["22134"]
 localPaths: ["Stafford County / elevation 322 ft band", "Stafford County / primary ZIP 22134", "Stafford County / coords 38.5200, -77.4400", "Stafford County / ZIP 22134 sector"]
+zillowHomeValueUsd: 317787
 ---
 
 **Engineering Notice for Camp Barrett:** structural drying capacity optimized for 322ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stafford County. Relative Humidity Threshold: 73%. Sensor sync: Active.

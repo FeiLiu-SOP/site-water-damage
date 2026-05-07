@@ -12,6 +12,7 @@ lng: -120.5500
 zipSample: ["93444"]
 zipCodes: ["93444"]
 localPaths: ["San Luis Obispo County / ZIP 93444 sector", "San Luis Obispo County / coords 35.0300, -120.5500", "San Luis Obispo County / elevation 351 ft band", "San Luis Obispo County / primary ZIP 93444"]
+zillowHomeValueUsd: 941687
 ---
 
 **Engineering Notice for Woodlands:** structural drying capacity optimized for 351ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Luis Obispo County. Relative Humidity Threshold: 73%. Sensor sync: Active.

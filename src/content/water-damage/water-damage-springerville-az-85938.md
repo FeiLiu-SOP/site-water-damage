@@ -12,6 +12,7 @@ lng: -109.3000
 zipSample: ["85938"]
 zipCodes: ["85938"]
 localPaths: ["Apache County / primary ZIP 85938", "Apache County / coords 34.1600, -109.3000", "Apache County / ZIP 85938 sector", "Apache County / elevation 6906 ft band"]
+zillowHomeValueUsd: 246328
 ---
 
 **Engineering Notice for Springerville:** structural drying capacity optimized for 6906ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Apache County. Relative Humidity Threshold: 71%. Sensor sync: Active.

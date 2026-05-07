@@ -12,6 +12,7 @@ lng: -79.1700
 zipSample: ["16365"]
 zipCodes: ["16365"]
 localPaths: ["Warren County / primary ZIP 16365", "Warren County / ZIP 16365 sector", "Warren County / coords 41.8800, -79.1700", "Warren County / elevation 1699 ft band"]
+zillowHomeValueUsd: 139483
 ---
 
 **Engineering Notice for North Warren:** structural drying capacity optimized for 1699ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Warren County. Relative Humidity Threshold: 69%. Sensor sync: Active.

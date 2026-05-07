@@ -12,6 +12,7 @@ lng: -94.0600
 zipSample: ["75692"]
 zipCodes: ["75692"]
 localPaths: ["Harrison County / elevation 285 ft band", "Harrison County / primary ZIP 75692", "Harrison County / coords 32.4800, -94.0600", "Harrison County / ZIP 75692 sector"]
+zillowHomeValueUsd: 187748
 ---
 
 **Engineering Notice for Waskom:** structural drying capacity optimized for 285ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harrison County. Relative Humidity Threshold: 82%. Sensor sync: Active.

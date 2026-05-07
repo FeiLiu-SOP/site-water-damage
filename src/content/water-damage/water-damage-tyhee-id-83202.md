@@ -12,6 +12,7 @@ lng: -112.4600
 zipSample: ["83202"]
 zipCodes: ["83202"]
 localPaths: ["Bannock County / primary ZIP 83202", "Bannock County / coords 42.9600, -112.4600", "Bannock County / elevation 4472 ft band", "Bannock County / ZIP 83202 sector"]
+zillowHomeValueUsd: 391670
 ---
 
 **Engineering Notice for Tyhee:** structural drying capacity optimized for 4472ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bannock County. Relative Humidity Threshold: 83%. Sensor sync: Active.

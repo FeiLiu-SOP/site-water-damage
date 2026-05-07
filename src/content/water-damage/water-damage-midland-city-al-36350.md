@@ -12,6 +12,7 @@ lng: -85.4900
 zipSample: ["36350"]
 zipCodes: ["36350"]
 localPaths: ["Dale County / ZIP 36350 sector", "Dale County / coords 31.3200, -85.4900", "Dale County / primary ZIP 36350", "Dale County / elevation 394 ft band"]
+zillowHomeValueUsd: 201520
 ---
 
 **Engineering Notice for Midland City:** structural drying capacity optimized for 394ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dale County. Relative Humidity Threshold: 68%. Sensor sync: Active.

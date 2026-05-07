@@ -12,6 +12,7 @@ lng: -82.1200
 zipSample: ["43822"]
 zipCodes: ["43822"]
 localPaths: ["Muskingum County / ZIP 43822 sector", "Muskingum County / primary ZIP 43822", "Muskingum County / elevation 761 ft band", "Muskingum County / coords 40.1200, -82.1200"]
+zillowHomeValueUsd: 250355
 ---
 
 **Engineering Notice for Frazeysburg:** structural drying capacity optimized for 761ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Muskingum County. Relative Humidity Threshold: 80%. Sensor sync: Active.

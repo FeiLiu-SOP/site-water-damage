@@ -12,6 +12,7 @@ lng: -95.3700
 zipSample: ["75862"]
 zipCodes: ["75862"]
 localPaths: ["Trinity County / primary ZIP 75862", "Trinity County / elevation 240 ft band", "Trinity County / ZIP 75862 sector", "Trinity County / coords 30.9400, -95.3700"]
+zillowHomeValueUsd: 166386
 ---
 
 **Engineering Notice for Trinity:** structural drying capacity optimized for 240ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Trinity County. Relative Humidity Threshold: 71%. Sensor sync: Active.

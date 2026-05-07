@@ -12,6 +12,7 @@ lng: -89.5100
 zipSample: ["61523", "61562"]
 zipCodes: ["61562", "61523"]
 localPaths: ["Peoria County / elevation 486 ft band", "Peoria County / coords 40.8800, -89.5100", "Peoria County / ZIP 61562 sector", "Peoria County / primary ZIP 61523", "Peoria County / ZIP 61523 sector"]
+zillowHomeValueUsd: 178760
 ---
 
 **Engineering Notice for Rome:** structural drying capacity optimized for 486ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Peoria County. Relative Humidity Threshold: 69%. Sensor sync: Active.

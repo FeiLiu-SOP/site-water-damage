@@ -12,6 +12,7 @@ lng: -94.6700
 zipSample: ["50574"]
 zipCodes: ["50574"]
 localPaths: ["Pocahontas County / ZIP 50574 sector", "Pocahontas County / primary ZIP 50574", "Pocahontas County / coords 42.7400, -94.6700", "Pocahontas County / elevation 1217 ft band"]
+zillowHomeValueUsd: 117809
 ---
 
 **Engineering Notice for Pocahontas:** structural drying capacity optimized for 1217ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pocahontas County. Relative Humidity Threshold: 83%. Sensor sync: Active.

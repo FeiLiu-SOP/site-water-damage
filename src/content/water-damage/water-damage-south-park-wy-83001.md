@@ -12,6 +12,7 @@ lng: -110.8000
 zipSample: ["83001"]
 zipCodes: ["83001"]
 localPaths: ["Teton County / elevation 6063 ft band", "Teton County / coords 43.4200, -110.8000", "Teton County / ZIP 83001 sector", "Teton County / primary ZIP 83001"]
+zillowHomeValueUsd: 1936414
 ---
 
 **Engineering Notice for South Park:** structural drying capacity optimized for 6063ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Teton County. Relative Humidity Threshold: 67%. Sensor sync: Active.

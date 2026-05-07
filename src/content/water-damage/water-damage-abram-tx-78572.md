@@ -12,6 +12,7 @@ lng: -98.4200
 zipSample: ["78572"]
 zipCodes: ["78572"]
 localPaths: ["Hidalgo County / coords 26.2200, -98.4200", "Hidalgo County / primary ZIP 78572", "Hidalgo County / ZIP 78572 sector", "Hidalgo County / elevation 128 ft band"]
+zillowHomeValueUsd: 197893
 ---
 
 **Engineering Notice for Abram:** structural drying capacity optimized for 128ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hidalgo County. Relative Humidity Threshold: 77%. Sensor sync: Active.

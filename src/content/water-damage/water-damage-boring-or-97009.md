@@ -12,6 +12,7 @@ lng: -122.3700
 zipSample: ["97009"]
 zipCodes: ["97009"]
 localPaths: ["Clackamas County / coords 45.4300, -122.3700", "Clackamas County / primary ZIP 97009", "Clackamas County / elevation 502 ft band", "Clackamas County / ZIP 97009 sector"]
+zillowHomeValueUsd: 717036
 ---
 
 **Engineering Notice for Boring:** structural drying capacity optimized for 502ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clackamas County. Relative Humidity Threshold: 82%. Sensor sync: Active.

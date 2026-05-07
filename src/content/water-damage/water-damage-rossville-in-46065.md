@@ -12,6 +12,7 @@ lng: -86.6000
 zipSample: ["46065"]
 zipCodes: ["46065"]
 localPaths: ["Clinton County / coords 40.4200, -86.6000", "Clinton County / ZIP 46065 sector", "Clinton County / primary ZIP 46065", "Clinton County / elevation 735 ft band"]
+zillowHomeValueUsd: 288590
 ---
 
 **Engineering Notice for Rossville:** structural drying capacity optimized for 735ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clinton County. Relative Humidity Threshold: 77%. Sensor sync: Active.

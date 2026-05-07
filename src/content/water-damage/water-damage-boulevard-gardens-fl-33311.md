@@ -12,6 +12,7 @@ lng: -80.1800
 zipSample: ["33311"]
 zipCodes: ["33311"]
 localPaths: ["Broward County / ZIP 33311 sector", "Broward County / elevation 30 ft band", "Broward County / coords 26.1300, -80.1800", "Broward County / primary ZIP 33311"]
+zillowHomeValueUsd: 362751
 ---
 
 **Engineering Notice for Boulevard Gardens:** structural drying capacity optimized for 30ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Broward County. Relative Humidity Threshold: 69%. Sensor sync: Active.

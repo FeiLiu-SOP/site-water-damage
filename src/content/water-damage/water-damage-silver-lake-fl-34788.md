@@ -12,6 +12,7 @@ lng: -81.8000
 zipSample: ["34788"]
 zipCodes: ["34788"]
 localPaths: ["Lake County / coords 28.8400, -81.8000", "Lake County / primary ZIP 34788", "Lake County / ZIP 34788 sector", "Lake County / elevation 59 ft band"]
+zillowHomeValueUsd: 280346
 ---
 
 **Engineering Notice for Silver Lake:** structural drying capacity optimized for 59ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lake County. Relative Humidity Threshold: 80%. Sensor sync: Active.

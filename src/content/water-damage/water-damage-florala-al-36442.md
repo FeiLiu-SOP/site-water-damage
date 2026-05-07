@@ -12,6 +12,7 @@ lng: -86.3100
 zipSample: ["36442"]
 zipCodes: ["36442"]
 localPaths: ["Covington County / elevation 259 ft band", "Covington County / coords 31.0200, -86.3100", "Covington County / primary ZIP 36442", "Covington County / ZIP 36442 sector"]
+zillowHomeValueUsd: 145892
 ---
 
 **Engineering Notice for Florala:** structural drying capacity optimized for 259ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Covington County. Relative Humidity Threshold: 85%. Sensor sync: Active.

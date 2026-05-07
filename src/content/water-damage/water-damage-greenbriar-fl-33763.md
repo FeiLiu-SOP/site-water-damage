@@ -12,6 +12,7 @@ lng: -82.7500
 zipSample: ["33763", "34698"]
 zipCodes: ["33763", "34698"]
 localPaths: ["Pinellas County / elevation 66 ft band", "Pinellas County / primary ZIP 33763", "Pinellas County / ZIP 34698 sector", "Pinellas County / ZIP 33763 sector", "Pinellas County / coords 28.0100, -82.7500"]
+zillowHomeValueUsd: 201603
 ---
 
 **Engineering Notice for Greenbriar:** structural drying capacity optimized for 66ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pinellas County. Relative Humidity Threshold: 82%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -80.2700
 zipSample: ["24171"]
 zipCodes: ["24171"]
 localPaths: ["Patrick County / coords 36.6400, -80.2700", "Patrick County / primary ZIP 24171", "Patrick County / elevation 1299 ft band", "Patrick County / ZIP 24171 sector"]
+zillowHomeValueUsd: 188249
 ---
 
 **Engineering Notice for Stuart:** structural drying capacity optimized for 1299ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Patrick County. Relative Humidity Threshold: 84%. Sensor sync: Active.

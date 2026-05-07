@@ -12,6 +12,7 @@ lng: -85.9600
 zipSample: ["46936"]
 zipCodes: ["46936"]
 localPaths: ["Howard County / primary ZIP 46936", "Howard County / ZIP 46936 sector", "Howard County / coords 40.4800, -85.9600", "Howard County / elevation 846 ft band"]
+zillowHomeValueUsd: 244180
 ---
 
 **Engineering Notice for Greentown:** structural drying capacity optimized for 846ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Howard County. Relative Humidity Threshold: 67%. Sensor sync: Active.

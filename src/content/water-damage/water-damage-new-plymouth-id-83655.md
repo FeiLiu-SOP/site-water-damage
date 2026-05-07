@@ -12,6 +12,7 @@ lng: -116.8200
 zipSample: ["83655"]
 zipCodes: ["83655"]
 localPaths: ["Payette County / coords 43.9700, -116.8200", "Payette County / ZIP 83655 sector", "Payette County / elevation 2260 ft band", "Payette County / primary ZIP 83655"]
+zillowHomeValueUsd: 493469
 ---
 
 **Engineering Notice for New Plymouth:** structural drying capacity optimized for 2260ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Payette County. Relative Humidity Threshold: 84%. Sensor sync: Active.

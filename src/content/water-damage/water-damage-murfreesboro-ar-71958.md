@@ -12,6 +12,7 @@ lng: -93.6800
 zipSample: ["71958"]
 zipCodes: ["71958"]
 localPaths: ["Pike County / coords 34.0500, -93.6800", "Pike County / primary ZIP 71958", "Pike County / elevation 358 ft band", "Pike County / ZIP 71958 sector"]
+zillowHomeValueUsd: 160538
 ---
 
 **Engineering Notice for Murfreesboro:** structural drying capacity optimized for 358ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pike County. Relative Humidity Threshold: 82%. Sensor sync: Active.

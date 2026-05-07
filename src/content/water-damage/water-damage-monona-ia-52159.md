@@ -12,6 +12,7 @@ lng: -91.3900
 zipSample: ["52159"]
 zipCodes: ["52159"]
 localPaths: ["Clayton County / elevation 1204 ft band", "Clayton County / primary ZIP 52159", "Clayton County / coords 43.0500, -91.3900", "Clayton County / ZIP 52159 sector"]
+zillowHomeValueUsd: 227988
 ---
 
 **Engineering Notice for Monona:** structural drying capacity optimized for 1204ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clayton County. Relative Humidity Threshold: 84%. Sensor sync: Active.

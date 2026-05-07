@@ -12,6 +12,7 @@ lng: -75.2600
 zipSample: ["18045"]
 zipCodes: ["18045"]
 localPaths: ["Northampton County / elevation 427 ft band", "Northampton County / primary ZIP 18045", "Northampton County / coords 40.6600, -75.2600", "Northampton County / ZIP 18045 sector"]
+zillowHomeValueUsd: 411794
 ---
 
 **Engineering Notice for Old Orchard:** structural drying capacity optimized for 427ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Northampton County. Relative Humidity Threshold: 82%. Sensor sync: Active.

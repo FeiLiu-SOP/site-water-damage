@@ -12,6 +12,7 @@ lng: -85.0200
 zipSample: ["49021"]
 zipCodes: ["49021"]
 localPaths: ["Eaton County / primary ZIP 49021", "Eaton County / ZIP 49021 sector", "Eaton County / coords 42.4400, -85.0200", "Eaton County / elevation 869 ft band"]
+zillowHomeValueUsd: 242318
 ---
 
 **Engineering Notice for Bellevue:** structural drying capacity optimized for 869ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Eaton County. Relative Humidity Threshold: 77%. Sensor sync: Active.

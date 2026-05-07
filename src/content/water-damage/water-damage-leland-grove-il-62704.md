@@ -12,6 +12,7 @@ lng: -89.6800
 zipSample: ["62704"]
 zipCodes: ["62704"]
 localPaths: ["Sangamon County / coords 39.7800, -89.6800", "Sangamon County / ZIP 62704 sector", "Sangamon County / elevation 591 ft band", "Sangamon County / primary ZIP 62704"]
+zillowHomeValueUsd: 180777
 ---
 
 **Engineering Notice for Leland Grove:** structural drying capacity optimized for 591ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sangamon County. Relative Humidity Threshold: 84%. Sensor sync: Active.

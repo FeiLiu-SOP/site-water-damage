@@ -12,6 +12,7 @@ lng: -79.9900
 zipSample: ["26505"]
 zipCodes: ["26505"]
 localPaths: ["Monongalia County / elevation 932 ft band", "Monongalia County / coords 39.6600, -79.9900", "Monongalia County / ZIP 26505 sector", "Monongalia County / primary ZIP 26505"]
+zillowHomeValueUsd: 253602
 ---
 
 **Engineering Notice for Star City:** structural drying capacity optimized for 932ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Monongalia County. Relative Humidity Threshold: 84%. Sensor sync: Active.

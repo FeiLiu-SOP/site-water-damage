@@ -12,6 +12,8 @@ lng: -75.5900
 zipSample: ["19901", "19936", "19904"]
 zipCodes: ["19904", "19936", "19901"]
 localPaths: ["Kent County / ZIP 19936 sector", "Kent County / ZIP 19904 sector", "Kent County / primary ZIP 19936", "Kent County / coords 39.2200, -75.5900", "Kent County / ZIP 19901 sector"]
+zillowHomeValueUsd: 434062
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Cheswold:** structural drying capacity optimized for 49ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kent County. Relative Humidity Threshold: 79%. Sensor sync: Active.

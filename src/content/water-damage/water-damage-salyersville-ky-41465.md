@@ -12,6 +12,7 @@ lng: -83.0600
 zipSample: ["41465"]
 zipCodes: ["41465"]
 localPaths: ["Magoffin County / elevation 860 ft band", "Magoffin County / primary ZIP 41465", "Magoffin County / ZIP 41465 sector", "Magoffin County / coords 37.7500, -83.0600"]
+zillowHomeValueUsd: 120133
 ---
 
 **Engineering Notice for Salyersville:** structural drying capacity optimized for 860ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Magoffin County. Relative Humidity Threshold: 74%. Sensor sync: Active.

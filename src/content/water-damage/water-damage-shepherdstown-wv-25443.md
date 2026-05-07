@@ -12,6 +12,7 @@ lng: -77.8000
 zipSample: ["25443"]
 zipCodes: ["25443"]
 localPaths: ["Jefferson County / ZIP 25443 sector", "Jefferson County / primary ZIP 25443", "Jefferson County / elevation 410 ft band", "Jefferson County / coords 39.4300, -77.8000"]
+zillowHomeValueUsd: 477981
 ---
 
 **Engineering Notice for Shepherdstown:** structural drying capacity optimized for 410ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 74%. Sensor sync: Active.

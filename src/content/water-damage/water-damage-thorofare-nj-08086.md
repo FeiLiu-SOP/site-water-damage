@@ -12,6 +12,7 @@ lng: -75.2000
 zipSample: ["08086"]
 zipCodes: ["08086"]
 localPaths: ["Gloucester County / elevation 39 ft band", "Gloucester County / coords 39.8500, -75.2000", "Gloucester County / ZIP 08086 sector", "Gloucester County / primary ZIP 08086"]
+zillowHomeValueUsd: 358732
 ---
 
 **Engineering Notice for Thorofare:** structural drying capacity optimized for 39ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gloucester County. Relative Humidity Threshold: 79%. Sensor sync: Active.

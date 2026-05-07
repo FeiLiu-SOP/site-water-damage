@@ -12,6 +12,7 @@ lng: -81.6400
 zipSample: ["45715"]
 zipCodes: ["45715"]
 localPaths: ["Washington County / ZIP 45715 sector", "Washington County / coords 39.5500, -81.6400", "Washington County / elevation 712 ft band", "Washington County / primary ZIP 45715"]
+zillowHomeValueUsd: 175787
 ---
 
 **Engineering Notice for Beverly:** structural drying capacity optimized for 712ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 84%. Sensor sync: Active.

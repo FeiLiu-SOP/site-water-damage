@@ -12,6 +12,7 @@ lng: -84.6900
 zipSample: ["48837", "48822", "48820"]
 zipCodes: ["48822", "48837", "48820"]
 localPaths: ["Clinton County / coords 42.8200, -84.6900", "Clinton County / ZIP 48837 sector", "Clinton County / primary ZIP 48822", "Clinton County / ZIP 48820 sector", "Clinton County / elevation 833 ft band"]
+zillowHomeValueUsd: 315591
 ---
 
 **Engineering Notice for Wacousta:** structural drying capacity optimized for 833ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clinton County. Relative Humidity Threshold: 79%. Sensor sync: Active.

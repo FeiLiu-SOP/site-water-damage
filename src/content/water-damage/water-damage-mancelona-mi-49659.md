@@ -12,6 +12,7 @@ lng: -85.0600
 zipSample: ["49659"]
 zipCodes: ["49659"]
 localPaths: ["Antrim County / elevation 1115 ft band", "Antrim County / coords 44.9000, -85.0600", "Antrim County / primary ZIP 49659", "Antrim County / ZIP 49659 sector"]
+zillowHomeValueUsd: 201299
 ---
 
 **Engineering Notice for Mancelona:** structural drying capacity optimized for 1115ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Antrim County. Relative Humidity Threshold: 83%. Sensor sync: Active.

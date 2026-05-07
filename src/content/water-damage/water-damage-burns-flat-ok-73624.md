@@ -12,6 +12,8 @@ lng: -99.1800
 zipSample: ["73624"]
 zipCodes: ["73624"]
 localPaths: ["Washita County / primary ZIP 73624", "Washita County / ZIP 73624 sector", "Washita County / coords 35.3500, -99.1800", "Washita County / elevation 1923 ft band"]
+zillowHomeValueUsd: 186872
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Burns Flat:** structural drying capacity optimized for 1923ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washita County. Relative Humidity Threshold: 74%. Sensor sync: Active.

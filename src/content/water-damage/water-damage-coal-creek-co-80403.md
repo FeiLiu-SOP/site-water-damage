@@ -12,6 +12,7 @@ lng: -105.3800
 zipSample: ["80403"]
 zipCodes: ["80403"]
 localPaths: ["Jefferson County / primary ZIP 80403", "Jefferson County / elevation 8796 ft band", "Jefferson County / coords 39.9100, -105.3800", "Jefferson County / ZIP 80403 sector"]
+zillowHomeValueUsd: 872230
 ---
 
 **Engineering Notice for Coal Creek:** structural drying capacity optimized for 8796ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 80%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -85.3700
 zipSample: ["40023", "40071"]
 zipCodes: ["40023", "40071"]
 localPaths: ["Spencer County / primary ZIP 40023", "Spencer County / elevation 712 ft band", "Spencer County / ZIP 40071 sector", "Spencer County / ZIP 40023 sector", "Spencer County / coords 38.1200, -85.3700"]
+zillowHomeValueUsd: 535760
 ---
 
 **Engineering Notice for Elk Creek:** structural drying capacity optimized for 712ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Spencer County. Relative Humidity Threshold: 66%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -122.4100
 zipSample: ["98675"]
 zipCodes: ["98675"]
 localPaths: ["Clark County / coords 45.8700, -122.4100", "Clark County / elevation 712 ft band", "Clark County / ZIP 98675 sector", "Clark County / primary ZIP 98675"]
+zillowHomeValueUsd: 642942
 ---
 
 **Engineering Notice for Yacolt:** structural drying capacity optimized for 712ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clark County. Relative Humidity Threshold: 85%. Sensor sync: Active.

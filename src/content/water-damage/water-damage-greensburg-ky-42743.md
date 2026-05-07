@@ -12,6 +12,7 @@ lng: -85.5000
 zipSample: ["42743"]
 zipCodes: ["42743"]
 localPaths: ["Green County / coords 37.2600, -85.5000", "Green County / primary ZIP 42743", "Green County / ZIP 42743 sector", "Green County / elevation 640 ft band"]
+zillowHomeValueUsd: 183687
 ---
 
 **Engineering Notice for Greensburg:** structural drying capacity optimized for 640ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Green County. Relative Humidity Threshold: 71%. Sensor sync: Active.

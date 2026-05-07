@@ -12,6 +12,7 @@ lng: -95.3300
 zipSample: ["75862"]
 zipCodes: ["75862"]
 localPaths: ["Trinity County / ZIP 75862 sector", "Trinity County / elevation 194 ft band", "Trinity County / coords 30.9400, -95.3300", "Trinity County / primary ZIP 75862"]
+zillowHomeValueUsd: 166387
 ---
 
 **Engineering Notice for Westwood Shores:** structural drying capacity optimized for 194ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Trinity County. Relative Humidity Threshold: 80%. Sensor sync: Active.

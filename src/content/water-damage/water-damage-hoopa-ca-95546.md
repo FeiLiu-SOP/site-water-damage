@@ -12,6 +12,8 @@ lng: -123.7000
 zipSample: ["95546"]
 zipCodes: ["95546"]
 localPaths: ["Humboldt County / ZIP 95546 sector", "Humboldt County / elevation 305 ft band", "Humboldt County / primary ZIP 95546", "Humboldt County / coords 41.0800, -123.7000"]
+zillowHomeValueUsd: 854944
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Hoopa:** structural drying capacity optimized for 305ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Humboldt County. Relative Humidity Threshold: 65%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -94.3200
 zipSample: ["56369", "56320", "56301"]
 zipCodes: ["56301", "56320", "56369"]
 localPaths: ["Stearns County / ZIP 56320 sector", "Stearns County / ZIP 56369 sector", "Stearns County / primary ZIP 56320", "Stearns County / elevation 1148 ft band", "Stearns County / coords 45.4700, -94.3200"]
+zillowHomeValueUsd: 373441
 ---
 
 **Engineering Notice for Rockville:** structural drying capacity optimized for 1148ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stearns County. Relative Humidity Threshold: 70%. Sensor sync: Active.

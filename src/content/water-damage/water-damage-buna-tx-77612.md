@@ -12,6 +12,7 @@ lng: -93.9600
 zipSample: ["77612"]
 zipCodes: ["77612"]
 localPaths: ["Jasper County / ZIP 77612 sector", "Jasper County / primary ZIP 77612", "Jasper County / coords 30.4500, -93.9600", "Jasper County / elevation 102 ft band"]
+zillowHomeValueUsd: 218410
 ---
 
 **Engineering Notice for Buna:** structural drying capacity optimized for 102ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jasper County. Relative Humidity Threshold: 82%. Sensor sync: Active.

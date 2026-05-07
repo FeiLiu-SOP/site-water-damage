@@ -12,6 +12,7 @@ lng: -89.0400
 zipSample: ["61760"]
 zipCodes: ["61760"]
 localPaths: ["Woodford County / elevation 738 ft band", "Woodford County / primary ZIP 61760", "Woodford County / coords 40.9100, -89.0400", "Woodford County / ZIP 61760 sector"]
+zillowHomeValueUsd: 153159
 ---
 
 **Engineering Notice for Minonk:** structural drying capacity optimized for 738ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Woodford County. Relative Humidity Threshold: 76%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -95.4400
 zipSample: ["75783"]
 zipCodes: ["75783"]
 localPaths: ["Wood County / elevation 417 ft band", "Wood County / primary ZIP 75783", "Wood County / ZIP 75783 sector", "Wood County / coords 32.8000, -95.4400"]
+zillowHomeValueUsd: 250535
 ---
 
 **Engineering Notice for Quitman:** structural drying capacity optimized for 417ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wood County. Relative Humidity Threshold: 70%. Sensor sync: Active.

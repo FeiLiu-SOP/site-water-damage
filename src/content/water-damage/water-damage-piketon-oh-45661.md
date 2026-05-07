@@ -12,6 +12,7 @@ lng: -83.0000
 zipSample: ["45661"]
 zipCodes: ["45661"]
 localPaths: ["Pike County / ZIP 45661 sector", "Pike County / elevation 597 ft band", "Pike County / primary ZIP 45661", "Pike County / coords 39.0600, -83.0000"]
+zillowHomeValueUsd: 160911
 ---
 
 **Engineering Notice for Piketon:** structural drying capacity optimized for 597ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pike County. Relative Humidity Threshold: 74%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -75.5000
 zipSample: ["18436"]
 zipCodes: ["18436"]
 localPaths: ["Lackawanna County / primary ZIP 18436", "Lackawanna County / coords 41.4200, -75.5000", "Lackawanna County / elevation 1975 ft band", "Lackawanna County / ZIP 18436 sector"]
+zillowHomeValueUsd: 303557
 ---
 
 **Engineering Notice for Mount Cobb:** structural drying capacity optimized for 1975ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lackawanna County. Relative Humidity Threshold: 73%. Sensor sync: Active.

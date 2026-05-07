@@ -12,6 +12,7 @@ lng: -82.2800
 zipSample: ["37686", "37618"]
 zipCodes: ["37686", "37618"]
 localPaths: ["Sullivan County / ZIP 37618 sector", "Sullivan County / elevation 1552 ft band", "Sullivan County / primary ZIP 37618", "Sullivan County / coords 36.4600, -82.2800", "Sullivan County / ZIP 37686 sector"]
+zillowHomeValueUsd: 280999
 ---
 
 **Engineering Notice for Bluff City:** structural drying capacity optimized for 1552ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sullivan County. Relative Humidity Threshold: 78%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -86.4100
 zipSample: ["35178"]
 zipCodes: ["35178"]
 localPaths: ["Shelby County / elevation 482 ft band", "Shelby County / ZIP 35178 sector", "Shelby County / coords 33.3800, -86.4100", "Shelby County / primary ZIP 35178"]
+zillowHomeValueUsd: 258060
 ---
 
 **Engineering Notice for Vincent:** structural drying capacity optimized for 482ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Shelby County. Relative Humidity Threshold: 67%. Sensor sync: Active.

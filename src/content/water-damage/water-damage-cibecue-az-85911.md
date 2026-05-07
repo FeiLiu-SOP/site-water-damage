@@ -12,6 +12,8 @@ lng: -110.4900
 zipSample: ["85911"]
 zipCodes: ["85911"]
 localPaths: ["Navajo County / ZIP 85911 sector", "Navajo County / coords 34.0300, -110.4900", "Navajo County / primary ZIP 85911", "Navajo County / elevation 4967 ft band"]
+zillowHomeValueUsd: 433295
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Cibecue:** structural drying capacity optimized for 4967ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Navajo County. Relative Humidity Threshold: 84%. Sensor sync: Active.

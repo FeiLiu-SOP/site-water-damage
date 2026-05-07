@@ -12,6 +12,7 @@ lng: -77.5200
 zipSample: ["27886"]
 zipCodes: ["27886"]
 localPaths: ["Edgecombe County / elevation 66 ft band", "Edgecombe County / primary ZIP 27886", "Edgecombe County / coords 35.8900, -77.5200", "Edgecombe County / ZIP 27886 sector"]
+zillowHomeValueUsd: 148129
 ---
 
 **Engineering Notice for Princeville:** structural drying capacity optimized for 66ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Edgecombe County. Relative Humidity Threshold: 70%. Sensor sync: Active.

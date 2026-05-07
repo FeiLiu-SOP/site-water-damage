@@ -12,6 +12,7 @@ lng: -87.2300
 zipSample: ["35188", "35490"]
 zipCodes: ["35490", "35188"]
 localPaths: ["Tuscaloosa County / coords 33.1700, -87.2300", "Tuscaloosa County / elevation 558 ft band", "Tuscaloosa County / ZIP 35188 sector", "Tuscaloosa County / ZIP 35490 sector", "Tuscaloosa County / primary ZIP 35188"]
+zillowHomeValueUsd: 224958
 ---
 
 **Engineering Notice for Vance:** structural drying capacity optimized for 558ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tuscaloosa County. Relative Humidity Threshold: 65%. Sensor sync: Active.

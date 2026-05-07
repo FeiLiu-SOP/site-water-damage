@@ -12,6 +12,7 @@ lng: -85.8300
 zipSample: ["36251"]
 zipCodes: ["36251"]
 localPaths: ["Clay County / coords 33.2700, -85.8300", "Clay County / ZIP 36251 sector", "Clay County / primary ZIP 36251", "Clay County / elevation 1132 ft band"]
+zillowHomeValueUsd: 181536
 ---
 
 **Engineering Notice for Ashland:** structural drying capacity optimized for 1132ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clay County. Relative Humidity Threshold: 66%. Sensor sync: Active.

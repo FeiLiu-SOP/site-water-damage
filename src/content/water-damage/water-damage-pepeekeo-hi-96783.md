@@ -12,6 +12,7 @@ lng: -155.1100
 zipSample: ["96783"]
 zipCodes: ["96783"]
 localPaths: ["Hawaii County / primary ZIP 96783", "Hawaii County / ZIP 96783 sector", "Hawaii County / coords 19.8300, -155.1100", "Hawaii County / elevation 548 ft band"]
+zillowHomeValueUsd: 551107
 ---
 
 **Engineering Notice for Pepeekeo:** structural drying capacity optimized for 548ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hawaii County. Relative Humidity Threshold: 83%. Sensor sync: Active.

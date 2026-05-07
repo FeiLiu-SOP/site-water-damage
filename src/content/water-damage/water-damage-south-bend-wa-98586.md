@@ -12,6 +12,7 @@ lng: -123.8000
 zipSample: ["98577", "98586"]
 zipCodes: ["98577", "98586"]
 localPaths: ["Pacific County / elevation 7 ft band", "Pacific County / primary ZIP 98586", "Pacific County / ZIP 98586 sector", "Pacific County / ZIP 98577 sector", "Pacific County / coords 46.6700, -123.8000"]
+zillowHomeValueUsd: 296648
 ---
 
 **Engineering Notice for South Bend:** structural drying capacity optimized for 7ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pacific County. Relative Humidity Threshold: 81%. Sensor sync: Active.
