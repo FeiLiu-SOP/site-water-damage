@@ -5,7 +5,13 @@ import RelatedCities from "../components/RelatedCities.astro";
 import ValueProtectionCalculator from "../components/ValueProtectionCalculator.astro";
 import Breadcrumbs from "../components/Breadcrumbs.astro";
 import { ACTIVE_COLLECTION } from "../active-collection";
-import { canonicalPageUrl, getNicheLabelForSeed, internalPath, siteConfig } from "../site-config";
+import {
+  PUBLIC_NICHE_LABEL,
+  canonicalPageUrl,
+  getNicheLabelForSeed,
+  internalPath,
+  siteConfig,
+} from "../site-config";
 import {
   REALTORS_AT_THE_BEACH_WATER_DAMAGE,
   matchesRealtorsAtTheBeachWaterDamage,
@@ -13,6 +19,8 @@ import {
 import {
   REALTORS_AT_THE_BEACH_PLUMBING_V2,
 } from "../domain-templates/realtorsatthebeach.com-plumbing-v2";
+import { buildBreadcrumbListSchema, buildSlugPageBreadcrumbItems } from "../lib/breadcrumb-schema";
+import { getStatePhysicalEnvironmentFact } from "../lib/geo-facts";
 import {
   buildFaqSchema,
   buildLocalBusinessSchema,
@@ -334,6 +342,35 @@ const dispatcherCountyLabel = (
   String(post.data.county ?? "").trim() ||
   (pageCity && stateCodeFromSlug ? `${pageCity}, ${stateCodeFromSlug}` : stateCodeFromSlug ?? "Regional")
 ).trim();
+const dispatcherActiveClaimsCount = (stableHash(`${pageUrl}|activeClaims`) % 5) + 1;
+const dispatcherClaimsLine =
+  dispatcherActiveClaimsCount === 1
+    ? "Currently handling 1 active claim."
+    : `Currently handling ${dispatcherActiveClaimsCount} active claims.`;
+
+/** Pest-control only: insurance / termite equity line (below calculator “price”). */
+const pageZipForPestPulse = (() => {
+  const fromFm = String(post.data.zipCode ?? "").trim();
+  if (/^\d{5}$/.test(fromFm)) return fromFm;
+  const m = entrySlug.match(/-(\d{5})$/i);
+  return m?.[1] ?? null;
+})();
+const pestInsuranceEquityNote =
+  ACTIVE_COLLECTION === "pestcontrol"
+    ? (() => {
+        const stateTok = stateCodeFromSlug
+          ? stateLabelForBait(stateCodeFromSlug, post.data.state)
+          : "your state";
+        const equityPart = zLabelExact ? `${zLabelExact} equity` : zLabel ? `${zLabel} equity` : "home equity";
+        return `Note: Standard homeowners insurance in ${stateTok} typically excludes Termite structural damage. Protect your ${equityPart} now.`;
+      })()
+    : null;
+const pestLatestDispatchMinutes =
+  ACTIVE_COLLECTION === "pestcontrol" ? 5 + (stableHash(`${pageUrl}|pestZipPulse`) % 28) : 0;
+const pestLatestDispatchLine =
+  ACTIVE_COLLECTION === "pestcontrol" && pageZipForPestPulse
+    ? `Latest Dispatch: Termite detection confirmed in ZIP ${pageZipForPestPulse} - ${pestLatestDispatchMinutes} mins ago.`
+    : null;
 
 // Action 3: Geo brief section data from frontmatter (truthy only; Astro just displays)
 const geo = {
@@ -345,35 +382,22 @@ const geo = {
   zipCodes: Array.isArray(post.data.zipCodes) ? post.data.zipCodes : undefined,
   localPaths: Array.isArray(post.data.localPaths) ? post.data.localPaths : undefined,
 };
-const geoBriefText =
+const stateGeoFact = getStatePhysicalEnvironmentFact(stateCodeFromSlug);
+const geoCoordsLine =
   geo.county && typeof geo.lat === "number" && typeof geo.lng === "number"
-    ? [
-        `Regional Infrastructure Brief: County ${geo.county}. Coordinates: ${geo.lat.toFixed(4)}, ${geo.lng.toFixed(
-          4,
-        )}. ZIP sample: ${(geo.zipSample ?? []).slice(0, 5).join(", ")}.`,
-        `Regional Infrastructure Brief: Serving ${geo.county}. Coordinate anchor: ${geo.lat.toFixed(
-          4,
-        )}, ${geo.lng.toFixed(4)}. ZIP sectors: ${(geo.zipSample ?? []).slice(0, 5).join(", ")}.`,
-        `Regional Infrastructure Brief: ${geo.county} coverage node. Coordinates ${geo.lat.toFixed(
-          4,
-        )}, ${geo.lng.toFixed(4)}. Sample ZIPs: ${(geo.zipSample ?? []).slice(0, 5).join(", ")}.`,
-        `Regional Infrastructure Brief: County grid ${geo.county}. Lat/Lng: ${geo.lat.toFixed(4)}, ${geo.lng.toFixed(
-          4,
-        )}. ZIP sample set: ${(geo.zipSample ?? []).slice(0, 5).join(", ")}.`,
-        `Regional Infrastructure Brief: ${geo.county} dispatch context. Coordinates ${geo.lat.toFixed(
-          4,
-        )}, ${geo.lng.toFixed(4)}. ZIP sample: ${(geo.zipSample ?? []).slice(0, 5).join(", ")}.`,
-      ][stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|geoBrief`) % 5]
+    ? `Regional infrastructure brief: ${geo.county}. Coordinates ${geo.lat.toFixed(4)}, ${geo.lng.toFixed(4)}.${
+        (geo.zipSample ?? []).filter(Boolean).length
+          ? ` Sample ZIP codes: ${(geo.zipSample ?? []).slice(0, 5).join(", ")}.`
+          : ""
+      }`
     : null;
+const geoPhysicalEnvLine = stateCodeFromSlug
+  ? `Physical environment context (${stateGeoFact.label}): ${stateGeoFact.narrative}`
+  : null;
+const showGeoSection = Boolean(geoCoordsLine || geoPhysicalEnvLine);
 const localPathsText =
   geo.localPaths && geo.localPaths.length
-    ? [
-        `Logistics optimization for ${geo.localPaths.slice(0, 5).join(", ")} transit sectors.`,
-        `Routing optimization focuses on ${geo.localPaths.slice(0, 5).join(", ")} corridors.`,
-        `Dispatch routing notes reference ${geo.localPaths.slice(0, 5).join(", ")} sectors.`,
-        `Transit optimization markers: ${geo.localPaths.slice(0, 5).join(", ")}.`,
-        `Coverage routing hints: ${geo.localPaths.slice(0, 5).join(", ")}.`,
-      ][stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|pathsLine`) % 5]
+    ? `Regional access notes: ${geo.localPaths.slice(0, 5).join(", ")}.`
     : null;
 
 function addendumForFaq(seedText: string) {
@@ -445,6 +469,16 @@ const localBusinessSchema = buildLocalBusinessSchema({
 });
 const faqSchema = buildFaqSchema(pageFaqItemsFinal);
 
+const breadcrumbListSchema = buildBreadcrumbListSchema(
+  buildSlugPageBreadcrumbItems({
+    canonicalPageUrl,
+    serviceHubLabel: PUBLIC_NICHE_LABEL,
+    stateCode: stateCodeFromSlug,
+    cityDisplayName: pageCity,
+    entrySlug,
+  }),
+);
+
 // Action 3: stable DOM section randomizer for 4 blocks (content / geo / faq / related)
 const blocks = ["content", "geo", "faq", "related"] as const;
 const visibleBlocks = blocks.filter((k) => {
@@ -489,6 +523,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
       <meta name="template-version" content={post.data.templateVersion} />
     ) : null}
     <link rel="canonical" href={pageUrl} />
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbListSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(localBusinessSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
     <style>
@@ -556,6 +591,17 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
           opacity: 0.82;
         }
       }
+      @keyframes ctaPressurePulse {
+        0%,
+        100% {
+          transform: scale(1);
+          box-shadow: 0 2px 10px rgba(185, 28, 28, 0.28);
+        }
+        50% {
+          transform: scale(1.02);
+          box-shadow: 0 6px 18px rgba(185, 28, 28, 0.45);
+        }
+      }
       .phone-btn,
       [class$="--phone-btn"] {
         display: inline-block;
@@ -567,7 +613,8 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
         text-decoration: none;
         font-weight: 700;
         border: none;
-        animation: ctaUrgencyFlash 1.15s ease-in-out infinite;
+        transform-origin: center;
+        animation: ctaUrgencyFlash 1.15s ease-in-out infinite, ctaPressurePulse 2.2s ease-in-out infinite;
       }
       .phone-btn:hover,
       [class$="--phone-btn"]:hover {
@@ -578,6 +625,19 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
       .dispatcher-hookup-line {
         margin: 0.55rem 0 0;
         font-size: 0.88rem;
+        color: #475569;
+        line-height: 1.4;
+      }
+      .pest-equity-insurance-note {
+        margin: 0.55rem 0 0;
+        font-size: 0.84rem;
+        line-height: 1.38;
+        color: #b91c1c;
+        font-weight: 600;
+      }
+      .pest-zip-dispatch-pulse {
+        margin: 0.45rem 0 0;
+        font-size: 0.86rem;
         color: #475569;
         line-height: 1.4;
       }
@@ -648,7 +708,8 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
         padding: 0.9rem 1rem;
         border-radius: 0;
         box-shadow: 0 6px 18px rgba(185, 28, 28, 0.4);
-        animation: ctaUrgencyFlash 1.15s ease-in-out infinite;
+        transform-origin: center;
+        animation: ctaUrgencyFlash 1.15s ease-in-out infinite, ctaPressurePulse 2.2s ease-in-out infinite;
       }
       .mobile-sticky-call-btn:hover {
         background: #991b1b;
@@ -730,6 +791,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
           accent={themeAccent}
           domPrefix={domPrefix}
         />
+        {pestInsuranceEquityNote ? <p class="pest-equity-insurance-note">{pestInsuranceEquityNote}</p> : null}
         <section class="hero-flood-alert-band" aria-label="Service area headline">
           <Breadcrumbs
             homeHref={internalPath()}
@@ -770,8 +832,9 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
             {callBtnLabel}
           </a>
           <p class="dispatcher-hookup-line">
-            Local Dispatcher in {dispatcherCountyLabel}: Currently handling 2 active claims.
+            Local Dispatcher in {dispatcherCountyLabel}: {dispatcherClaimsLine}
           </p>
+          {pestLatestDispatchLine ? <p class="pest-zip-dispatch-pulse">{pestLatestDispatchLine}</p> : null}
         </div>
         {
           blockOrder.map((k) => {
@@ -783,10 +846,11 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
               );
             }
             if (k === "geo") {
-              return geoBriefText ? (
+              return showGeoSection ? (
                 <section class={geoBriefClass} aria-labelledby={geoBriefTitleId}>
                   <h2 id={geoBriefTitleId}>{geoTitle}</h2>
-                  <p>{geoBriefText}</p>
+                  {geoCoordsLine ? <p>{geoCoordsLine}</p> : null}
+                  {geoPhysicalEnvLine ? <p>{geoPhysicalEnvLine}</p> : null}
                   {localPathsText ? <p>{localPathsText}</p> : null}
                   {geo.elevationFt ? (
                     <p>
