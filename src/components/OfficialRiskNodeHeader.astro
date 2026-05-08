@@ -1,0 +1,60 @@
+---
+/**
+ * Brand verification anchor above Value Protection Calculator (Pinterest / search parity).
+ * Hostname match on canonical origin at build time.
+ */
+import { siteConfig } from "../site-config";
+
+function originFingerprint(): string {
+  const raw = (siteConfig.canonicalOrigin ?? "").trim();
+  if (!raw) return "";
+  try {
+    const u = new URL(raw.includes("://") ? raw : `https://${raw}`);
+    return `${u.hostname} ${raw}`.toLowerCase();
+  } catch {
+    return raw.toLowerCase();
+  }
+}
+
+const o = originFingerprint();
+const variant = o.includes("rockwell") ? "rockwell" : o.includes("realtors") ? "realtors" : null;
+
+const line =
+  variant === "rockwell"
+    ? "Official Node: Rockwell Property Defense Network"
+    : variant === "realtors"
+      ? "Official Node: National Home Protection Network"
+      : "";
+---
+
+{
+  variant ? (
+    <div
+      class="brand-verification-anchor"
+      role="region"
+      aria-label={line}
+    >
+      <p class="brand-verification-anchor__line">{line}</p>
+    </div>
+  ) : null
+}
+
+<style>
+  .brand-verification-anchor {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0;
+    padding: 1rem 0.5rem; /* py-4 */
+    border-bottom: 1px solid #f3f4f6; /* border-gray-100 */
+  }
+  .brand-verification-anchor__line {
+    margin: 0;
+    font-size: 10px; /* text-[10px] */
+    line-height: 1.4;
+    letter-spacing: 0.2em; /* tracking-[0.2em] */
+    text-transform: uppercase;
+    text-align: center;
+    color: #9ca3af; /* text-gray-400 */
+    font-weight: 500;
+  }
+</style>

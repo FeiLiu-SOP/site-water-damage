@@ -28,6 +28,13 @@ const formattedHome = hasValue
 
 const cityLine = city ? `${city}` : "this area";
 const defaultPct = 12;
+
+/** Slider stress % (5–40) → displayed index (18–100); default 12% → 48 for audit contrast vs asset blue. */
+function stressIndexFromPct(pct: number): number {
+  return Math.min(100, Math.round(18 + pct * 2.5));
+}
+
+const initialStressIndex = stressIndexFromPct(defaultPct);
 ---
 
 <section
@@ -52,9 +59,21 @@ const defaultPct = 12;
     {
       hasValue ? (
         <>
-          <div class="vpc-hero-amount" style={`color:var(--vpc-accent,${accent});`}>
-            <span class="vpc-hero-label">Protected home value (aligned)</span>
-            <span class="vpc-hero-number">{formattedHome}</span>
+          <div class="vpc-metrics-row">
+            <div class="vpc-hero-amount" style={`color:var(--vpc-accent,${accent});`}>
+              <span class="vpc-hero-label">Protected home value (aligned)</span>
+              <span class="vpc-hero-number">{formattedHome}</span>
+            </div>
+            <div
+              class="vpc-risk-meter"
+              aria-label={`Infrastructure stress index ${initialStressIndex} out of 100`}
+            >
+              <span class="vpc-risk-meter-label">Infrastructure stress index</span>
+              <p class="vpc-risk-meter-readout">
+                <span class="vpc-risk-meter-score">{initialStressIndex}</span>
+                <span class="vpc-risk-meter-denom"> / 100</span>
+              </p>
+            </div>
           </div>
           <div class="vpc-controls">
             <label class="vpc-range-label" for={`${rootId}-range`}>
@@ -105,7 +124,7 @@ const defaultPct = 12;
     is:inline
     set:html={`(function(){var r=document.getElementById(${JSON.stringify(
       rootId,
-    )});if(!r)return;var u=r.getAttribute("data-vpc-usd");var h=u?parseInt(u,10):0;if(!h||!isFinite(h))return;var g=r.querySelector("input[type=range]"),o=r.querySelector("output");if(!g||!o)return;function f(n){return new Intl.NumberFormat("en-US",{style:"currency",currency:"USD",maximumFractionDigits:0}).format(n)}function s(){var p=+g.value||0;o.textContent=f(Math.round(h*p/100))}g.addEventListener("input",s);s();})();`}
+    )});if(!r)return;var u=r.getAttribute("data-vpc-usd");var h=u?parseInt(u,10):0;if(!h||!isFinite(h))return;var g=r.querySelector("input[type=range]"),o=r.querySelector("output");if(!g||!o)return;var sc=r.querySelector(".vpc-risk-meter-score");function f(n){return new Intl.NumberFormat("en-US",{style:"currency",currency:"USD",maximumFractionDigits:0}).format(n)}function idx(p){return Math.min(100,Math.round(18+(+p||0)*2.5))}function s(){var p=+g.value||0;o.textContent=f(Math.round(h*p/100));if(sc)sc.textContent=String(idx(p))}g.addEventListener("input",s);s();})();`}
   />
 ) : null}
 
@@ -139,15 +158,59 @@ const defaultPct = 12;
     font-weight: 700;
     color: #0f172a;
   }
+  .vpc-metrics-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+    align-items: stretch;
+    margin-bottom: 0.85rem;
+  }
   .vpc-hero-amount {
     display: flex;
     flex-direction: column;
     gap: 0.2rem;
-    margin-bottom: 0.85rem;
+    flex: 1 1 168px;
+    margin-bottom: 0;
     padding: 0.75rem 0.85rem;
     border-radius: 12px;
     background: rgba(255, 255, 255, 0.92);
     border: 1px solid rgba(15, 23, 42, 0.08);
+    min-width: 0;
+  }
+  .vpc-risk-meter {
+    flex: 1 1 148px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.2rem;
+    padding: 0.75rem 0.85rem;
+    border-radius: 12px;
+    background: rgba(255, 247, 237, 0.96);
+    border: 1px solid rgba(234, 88, 12, 0.28);
+    min-width: 0;
+  }
+  .vpc-risk-meter-label {
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #9a3412;
+  }
+  .vpc-risk-meter-readout {
+    margin: 0;
+    font-variant-numeric: tabular-nums;
+    line-height: 1.1;
+  }
+  .vpc-risk-meter-score {
+    font-size: clamp(1.45rem, 4.2vw, 2rem);
+    font-weight: 900;
+    letter-spacing: -0.03em;
+    color: #ea580c;
+  }
+  .vpc-risk-meter-denom {
+    font-size: clamp(1.05rem, 3vw, 1.35rem);
+    font-weight: 800;
+    color: #c2410c;
   }
   .vpc-hero-label {
     font-size: 0.78rem;

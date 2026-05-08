@@ -3,6 +3,9 @@ import { getCollection, render } from "astro:content";
 import Footer from "../components/Footer.astro";
 import RelatedCities from "../components/RelatedCities.astro";
 import ValueProtectionCalculator from "../components/ValueProtectionCalculator.astro";
+import OfficialRiskNodeHeader from "../components/OfficialRiskNodeHeader.astro";
+import TrustBar from "../components/TrustBar.astro";
+import NationalDispatchDisclaimer from "../components/NationalDispatchDisclaimer.astro";
 import Breadcrumbs from "../components/Breadcrumbs.astro";
 import { ACTIVE_COLLECTION } from "../active-collection";
 import {
@@ -638,7 +641,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
       .phone-btn,
       [class$="--phone-btn"] {
         display: inline-block;
-        margin-top: 0.8rem;
+        margin-top: 0.45rem;
         background: #b91c1c;
         color: #fff;
         padding: 0.7rem 1rem;
@@ -817,6 +820,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
   <body>
     <main>
       <article>
+        <OfficialRiskNodeHeader />
         <ValueProtectionCalculator
           homeUsd={zUsd}
           zLabel={zLabel}
@@ -864,9 +868,11 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
           <h2>{ctaVariant.title}</h2>
           <p>{serviceLine}</p>
           <p class="service-meta">{ctaVariant.meta}</p>
+          <TrustBar />
           <a class={phoneBtnClass} href={telHref}>
             {callBtnLabel}
           </a>
+          <NationalDispatchDisclaimer city={pageCity} />
           <p class="dispatcher-hookup-line">
             Local Dispatcher in {dispatcherCountyLabel}: {dispatcherClaimsLine}
           </p>
