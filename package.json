@@ -21,6 +21,7 @@
                     "build:siding-services":  "cross-env ACTIVE_COLLECTION=siding-services astro build",
                     "build:plumbing-v2":  "cross-env ACTIVE_COLLECTION=plumbing-v2 astro build",
                     "preview":  "astro preview",
+                    "preview:hub":  "node ./scripts/hub-static-preview.mjs water-damage",
                     "astro":  "astro",
                     "diversity":  "cd .. \u0026\u0026 go run ./scripts/diversity -dist absent-apogee/dist",
                     "diversity:soft":  "cd .. \u0026\u0026 go run ./scripts/diversity -dist absent-apogee/dist -no-fail",

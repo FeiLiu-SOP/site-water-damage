@@ -27,6 +27,9 @@ import {
   getFaqByCollection,
 } from "../lib/seo";
 
+/** High-value tier: deterministic `<title>` when home value clears bar. */
+const HIGH_VALUE_USD_TRIGGER = 300_000;
+
 export async function getStaticPaths() {
   const posts = await getCollection(ACTIVE_COLLECTION);
   return posts.map((post) => ({
@@ -124,29 +127,27 @@ function stateLabelForBait(stateCode: string, stateFromFm: string | undefined): 
   if (fm.length > 2) return fm;
   return stateCode;
 }
-function buildBaitPool2Titles(opts: {
-  service: string;
-  city: string;
-  stateCode: string;
-  stateFm: string | undefined;
-  zLabel: string | null;
-  pick: number;
-}): { pageTitle: string; pageH1: string } {
-  const stateToken = stateLabelForBait(opts.stateCode, opts.stateFm);
-  const { service, city, zLabel, pick } = opts;
-  if (pick === 0 && zLabel) {
-    const pageTitle = `${zLabel} Home Protection: ${city} Emergency ${service} (Verified)`;
-    const pageH1 = `${zLabel} Home Protection — ${city} Emergency ${service}`;
-    return { pageTitle, pageH1 };
+
+const WATER_TITLE_BRAND_SUFFIX = " | National Home Protection Network";
+function withWaterTitleBrand(raw: string): string {
+  const t = raw.trim();
+  if (t.endsWith("National Home Protection Network")) return t;
+  return `${t}${WATER_TITLE_BRAND_SUFFIX}`;
+}
+
+/** Water mitigation: insurance / speed / IICRC + brand on `<title>`. */
+function buildBaitPool2Titles(opts: { city: string; pick: number }): { pageTitle: string; pageH1: string } {
+  const { city, pick } = opts;
+  if (pick === 0) {
+    const core = `${city} Water Restoration: Direct Insurance Billing | $0 Out-of-Pocket`;
+    return { pageTitle: withWaterTitleBrand(core), pageH1: core };
   }
   if (pick === 1) {
-    const pageTitle = `${city} ${service} Dispatch - 24/7 Rapid Response in ${stateToken}`;
-    const pageH1 = `${city} ${service} Dispatch: 24/7 Rapid Response (${stateToken})`;
-    return { pageTitle, pageH1 };
+    const core = `Emergency Water Removal ${city}: Arrive in Minutes | 24/7 Flood Cleanup`;
+    return { pageTitle: withWaterTitleBrand(core), pageH1: core };
   }
-  const pageTitle = `Warning: Asset Decay in ${city}. Local ${service} Experts Ready.`;
-  const pageH1 = `Warning: Asset Decay in ${city} — Local ${service} Experts Ready`;
-  return { pageTitle, pageH1 };
+  const core = `2026 ${city} Water Mitigation Audit: IICRC Certified & Verified Dispatch`;
+  return { pageTitle: withWaterTitleBrand(core), pageH1: core };
 }
 const zRaw = post.data.zillowHomeValueUsd;
 const zUsd =
@@ -160,44 +161,76 @@ const zLabelExact =
         maximumFractionDigits: 0,
       }).format(zUsd)
     : null;
-let baitPick = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|bait2`) % 3;
-if (baitPick === 0 && !zLabel) {
-  baitPick = 1 + (stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|bait2NoZ`) % 2);
-}
+const baitPick = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|bait2`) % 3;
 const baitHead =
   pageCity && stateCodeFromSlug
     ? buildBaitPool2Titles({
-        service: pageNicheLabel,
         city: pageCity,
-        stateCode: stateCodeFromSlug,
-        stateFm: post.data.state,
-        zLabel,
         pick: baitPick,
       })
     : null;
-/** `<title>` / JSON-LD name: 3-template hash only (fingerprint cover). */
-const pageTitle = baitHead?.pageTitle ?? post.data.title;
-/** Visible `<h1>` / meta: full USD string matches `zillowHomeValueUsd` (same digits as H1 span). */
+const isFinancialPressureMode =
+  zUsd != null &&
+  zUsd >= HIGH_VALUE_USD_TRIGGER &&
+  zLabelExact != null &&
+  pageCity != null;
+
+const waterH1Lead = pageCity
+  ? `IICRC Certified ${pageCity} Response — Direct Billing to Insurance — `
+  : `IICRC Certified Response — Direct Billing to Insurance — `;
+
+const waterVisualLine = pageCity
+  ? `Urgent Notice: Your ${pageCity} property terrain data indicates high-risk saturation levels. Immediate structural drying is required to prevent mold colonization.`
+  : `Urgent Notice: Your property terrain data indicates high-risk saturation levels. Immediate structural drying is required to prevent mold colonization.`;
+
+const PINTEREST_META_CTA = `Search "National Home Protection Audit" on Google.`;
+
+function waterMetaLead(): string {
+  if (pageCity) {
+    return `Don't pay for flood damage out of pocket. We offer direct insurance billing for ${pageCity} residents and immediate water extraction. Verified IICRC dispatch available 24/7.`;
+  }
+  if (stateCodeFromSlug) {
+    return `Don't pay for flood damage out of pocket. We offer direct insurance billing for ${stateCodeFromSlug} residents and immediate water extraction. Verified IICRC dispatch available 24/7.`;
+  }
+  return `Don't pay for flood damage out of pocket. We offer direct insurance billing and immediate water extraction. Verified IICRC dispatch available 24/7.`;
+}
+
+/** `<title>` / JSON-LD name */
+const pageTitle = isFinancialPressureMode
+  ? withWaterTitleBrand(`CRITICAL: ${zLabelExact} ${pageCity} Flood Risk Alert | Prevent Permanent Asset Loss`)
+  : baitHead?.pageTitle ?? withWaterTitleBrand(post.data.title);
+
+/** Visible `<h1>` fallback */
 const pageH1Plain =
   zLabelExact && pageCity
-    ? `${pageCity} Emergency Dispatch - Protecting your ${zLabelExact} Asset`
+    ? `${waterH1Lead}${pageCity} Emergency Dispatch - Protecting your ${zLabelExact} Asset`
     : zLabelExact
-      ? `Emergency Dispatch - Protecting your ${zLabelExact} Asset`
+      ? `${waterH1Lead}Emergency Dispatch - Protecting your ${zLabelExact} Asset`
       : pageCity
-        ? `${pageCity} Emergency Dispatch - Protecting your property`
-        : post.data.title;
-const pageMetaDescription = clipMetaDescription(
+        ? `${waterH1Lead}${pageCity} Emergency Dispatch - Protecting your property`
+        : `${waterH1Lead}${post.data.title}`;
+
+const pageMetaDescriptionDefault = clipMetaDescription(
   (() => {
+    const lead = `${waterMetaLead()} ${PINTEREST_META_CTA} `;
     const base = post.data.description;
-    if (zLabelExact && !base.includes(zLabelExact)) {
-      if (pageCity && stateCodeFromSlug) {
-        return `${base} Benchmark median home value near ${zLabelExact} (${pageCity} ${stateCodeFromSlug} market context).`;
+    const tail = (() => {
+      if (zLabelExact && !base.includes(zLabelExact)) {
+        if (pageCity && stateCodeFromSlug) {
+          return `${base} Benchmark median home value near ${zLabelExact} (${pageCity} ${stateCodeFromSlug} market context).`;
+        }
+        return `${base} Benchmark median home value near ${zLabelExact}.`;
       }
-      return `${base} Benchmark median home value near ${zLabelExact}.`;
-    }
-    return base;
+      return base;
+    })();
+    return `${lead}${tail}`;
   })(),
 );
+const pageMetaDescription = isFinancialPressureMode
+  ? clipMetaDescription(
+      `${waterMetaLead()} ${PINTEREST_META_CTA} Benchmark: ${zLabelExact}. Flood risk coordination and documented intake.`,
+    )
+  : pageMetaDescriptionDefault;
 function pickFaqSubset<T>(items: T[], seedText: string, count: number): T[] {
   const copy = [...items];
   let seed = stableHash(seedText);
@@ -790,6 +823,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
           city={pageCity}
           accent={themeAccent}
           domPrefix={domPrefix}
+          visualizedAssessmentLine={waterVisualLine}
         />
         {pestInsuranceEquityNote ? <p class="pest-equity-insurance-note">{pestInsuranceEquityNote}</p> : null}
         <section class="hero-flood-alert-band" aria-label="Service area headline">
@@ -804,12 +838,14 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
               zLabelExact ? (
                 pageCity ? (
                   <>
+                    {waterH1Lead}
                     {`${pageCity} Emergency Dispatch - Protecting your `}
                     <span class="h1-zmoney">{zLabelExact}</span>
                     {" Asset"}
                   </>
                 ) : (
                   <>
+                    {waterH1Lead}
                     {"Emergency Dispatch - Protecting your "}
                     <span class="h1-zmoney">{zLabelExact}</span>
                     {" Asset"}

@@ -9,9 +9,11 @@ interface Props {
   city: string | null;
   accent: string;
   domPrefix: string | null;
+  /** Shown below calculator readout (water mitigation urgent notice). */
+  visualizedAssessmentLine?: string | null;
 }
 
-const { homeUsd, zLabel, city, accent, domPrefix } = Astro.props;
+const { homeUsd, zLabel, city, accent, domPrefix, visualizedAssessmentLine = null } = Astro.props;
 const rootId = domPrefix ? `${domPrefix}-value-calculator` : "value-calculator-root";
 const wrapClass = ["value-protection-calculator", domPrefix ? `${domPrefix}--value-calculator` : null].filter(Boolean);
 
@@ -74,17 +76,25 @@ const defaultPct = 12;
               </output>
             </div>
           </div>
+          {visualizedAssessmentLine ? (
+            <p class="vpc-visualized-assessment">{visualizedAssessmentLine}</p>
+          ) : null}
           <p class="vpc-foot">
             Illustrative math only — call to scope real loss scenarios for your property.
           </p>
         </>
       ) : (
-        <div class="vpc-fallback">
-          <p class="vpc-fallback-text">
-            Local median benchmark not on file for this node. Call intake to align a protected-asset figure to your
-            address and coverage goals.
-          </p>
-        </div>
+        <>
+          <div class="vpc-fallback">
+            <p class="vpc-fallback-text">
+              Local median benchmark not on file for this node. Call intake to align a protected-asset figure to your
+              address and coverage goals.
+            </p>
+          </div>
+          {visualizedAssessmentLine ? (
+            <p class="vpc-visualized-assessment">{visualizedAssessmentLine}</p>
+          ) : null}
+        </>
       )
     }
   </div>
@@ -186,6 +196,13 @@ const defaultPct = 12;
     font-size: 1.25rem;
     font-weight: 800;
     font-variant-numeric: tabular-nums;
+  }
+  .vpc-visualized-assessment {
+    margin: 0.55rem 0 0;
+    font-size: 0.88rem;
+    font-weight: 600;
+    color: #334155;
+    line-height: 1.45;
   }
   .vpc-foot {
     margin: 0.65rem 0 0;
