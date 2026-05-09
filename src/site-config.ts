@@ -17,6 +17,41 @@ import {
 } from "./domain-templates/realtorsatthebeach.com-plumbing-v2";
 import { augmentHubPathForMainSite } from "../hub-site-path.mjs";
 
+
+export const BRAND_CONFIG = {
+  rockwell: {
+    name: "Rockwell Property Defense Network",
+    short: "Rockwell",
+  },
+  realtors: {
+    name: "National Home Protection Network",
+    short: "National Home",
+  },
+} as const;
+
+export type BrandBundle = (typeof BRAND_CONFIG)[keyof typeof BRAND_CONFIG];
+
+export function getBrand(domain: string): BrandBundle {
+  const raw = domain.trim().toLowerCase();
+  if (!raw) {
+    return BRAND_CONFIG.rockwell;
+  }
+  let host = raw;
+  const candidate = raw.includes("://") ? raw : `https://${raw}`;
+  try {
+    host = new URL(candidate).hostname.toLowerCase();
+  } catch {
+    /* noop */
+  }
+  if (host === "realtorsatthebeach.com" || host.endsWith(".realtorsatthebeach.com")) {
+    return BRAND_CONFIG.realtors;
+  }
+  if (raw.includes("realtorsatthebeach.com")) {
+    return BRAND_CONFIG.realtors;
+  }
+  return BRAND_CONFIG.rockwell;
+}
+
 const fallbackSiteUrl = "https://la-roofing-v1.pages.dev";
 
 /** Must stay in sync with `stableHashUint32` in repo root `main.go` (Go generator alias picks). */
