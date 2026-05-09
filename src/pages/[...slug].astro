@@ -12,6 +12,7 @@ import NationalDispatchDisclaimer from "../components/NationalDispatchDisclaimer
 import NichePartnerLogos from "../components/NichePartnerLogos.astro";
 import { ACTIVE_COLLECTION } from "../active-collection";
 import {
+  BRAND_CONFIG,
   PUBLIC_NICHE_LABEL,
   canonicalPageUrl,
   getNicheLabelForSeed,
@@ -41,9 +42,9 @@ import {
 /** Physical-value tier: deterministic title/H1 (no stableHash) when home value clears bar. */
 const HIGH_VALUE_USD_TRIGGER = 300_000;
 
-/** Monorepo: water-damage uses National Home Protection Network templates (sync with `sites/site-water-damage`). */
+/** Monorepo: water-damage vertical (sync with `sites/site-water-damage`). */
 const isWaterDamageHub = ACTIVE_COLLECTION === "water-damage";
-/** Monorepo: plumbing vertical — National Home Protection Network templates (sync with `sites/site-plumbing`). */
+/** Monorepo: plumbing vertical (sync with `sites/site-plumbing`). */
 const isPlumbingHub = ACTIVE_COLLECTION === "plumbing";
 /** Rockwell roofing vertical (`sites/site-roofing` terrain-notice funnel). */
 const isRoofingHub = ACTIVE_COLLECTION === "roofing";
@@ -198,10 +199,11 @@ function stateLabelForBait(stateCode: string, stateFromFm: string | undefined): 
   return stateCode;
 }
 
-const WATER_TITLE_BRAND_SUFFIX = " | National Home Protection Network";
+const WATER_TITLE_BRAND_SUFFIX = ` | ${BRAND_CONFIG.rockwell.name}`;
 function withWaterTitleBrand(raw: string): string {
   const t = raw.trim();
-  if (t.endsWith("National Home Protection Network")) return t;
+  const tail = BRAND_CONFIG.rockwell.name;
+  if (t.endsWith(tail)) return t;
   return `${t}${WATER_TITLE_BRAND_SUFFIX}`;
 }
 
@@ -311,7 +313,7 @@ const waterVisualLine = pageCity
   ? `Urgent Notice: Your ${pageCity} property terrain data indicates high-risk saturation levels. Immediate structural drying is required to prevent mold colonization.`
   : `Urgent Notice: Your property terrain data indicates high-risk saturation levels. Immediate structural drying is required to prevent mold colonization.`;
 
-const PINTEREST_META_CTA = `Search "National Home Protection Audit" on Google.`;
+const PINTEREST_META_CTA = `Search "FixitGrid Local Dispatch Network" on Google.`;
 
 function waterMetaLead(): string {
   if (pageCity) {
@@ -335,7 +337,7 @@ const roofTerrainNotice = isRoofingHub
     : null
   : null;
 
-const PINTEREST_META_CTA_PLUMBING = `Search "National Home Protection Network" on Google.`;
+const PINTEREST_META_CTA_PLUMBING = `Search "FixitGrid Local Dispatch Network" on Google.`;
 
 function plumbingMetaLead(): string {
   if (pageCity) {

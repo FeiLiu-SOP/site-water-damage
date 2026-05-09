@@ -1,43 +1,14 @@
 ---
 /**
  * Brand verification anchor above Value Protection Calculator (Pinterest / search parity).
- * Hostname match on canonical origin at build time.
+ * 全站统一 FixitGrid（不再按域名分叉 Rockwell / Realtors）。
  */
-import { siteConfig } from "../site-config";
-
-function originFingerprint(): string {
-  const raw = (siteConfig.canonicalOrigin ?? "").trim();
-  if (!raw) return "";
-  try {
-    const u = new URL(raw.includes("://") ? raw : `https://${raw}`);
-    return `${u.hostname} ${raw}`.toLowerCase();
-  } catch {
-    return raw.toLowerCase();
-  }
-}
-
-const o = originFingerprint();
-const variant = o.includes("rockwell") ? "rockwell" : o.includes("realtors") ? "realtors" : null;
-
-const line =
-  variant === "rockwell"
-    ? "Official Node: Rockwell Property Defense Network"
-    : variant === "realtors"
-      ? "Official Node: National Home Protection Network"
-      : "";
+const line = "Official Node: FixitGrid Local Dispatch Network";
 ---
 
-{
-  variant ? (
-    <div
-      class="brand-verification-anchor"
-      role="region"
-      aria-label={line}
-    >
-      <p class="brand-verification-anchor__line">{line}</p>
-    </div>
-  ) : null
-}
+<div class="brand-verification-anchor" role="region" aria-label={line}>
+  <p class="brand-verification-anchor__line">{line}</p>
+</div>
 
 <style>
   .brand-verification-anchor {
