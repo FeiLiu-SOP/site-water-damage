@@ -2,18 +2,34 @@
 import { getCollection } from "astro:content";
 import Footer from "../components/Footer.astro";
 import { ACTIVE_COLLECTION } from "../active-collection";
-import { canonicalPageUrl, getNicheLabelForSeed, internalPath, siteConfig } from "../site-config";
+import {
+  canonicalPageUrl,
+  getBrand,
+  getNicheLabelForSeed,
+  internalPath,
+  siteConfig,
+} from "../site-config";
 import { REALTORS_AT_THE_BEACH_PLUMBING_V2 } from "../domain-templates/realtorsatthebeach.com-plumbing-v2";
+
+function hostnameForBrand(astroHost: string): string {
+  if (astroHost) return astroHost;
+  try {
+    return new URL(siteConfig.canonicalOrigin).hostname;
+  } catch {
+    return "";
+  }
+}
 
 const posts = await getCollection(ACTIVE_COLLECTION);
 const pageNicheLabel = getNicheLabelForSeed("home");
-const nicheLower = pageNicheLabel.toLowerCase();
+const brand = getBrand(hostnameForBrand(Astro.url.hostname));
+const homeMetaDescription = `${brand.name}: The official audit node for local ${pageNicheLabel} risks. Browse all local service pages.`;
 const pageUrl = canonicalPageUrl();
 const collectionSchema = {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
   name: `${pageNicheLabel} Service Pages`,
-  description: `Browse all local ${nicheLower} service pages.`,
+  description: homeMetaDescription,
   url: pageUrl,
 };
 function entryPath(entry: { id?: string; slug?: string }) {
@@ -49,10 +65,7 @@ const themeAccent = ACTIVE_COLLECTION === "plumbing-v2"
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="google-site-verification" content="e8639489520c639b" />
     <title>{pageNicheLabel} Service Pages</title>
-    <meta
-      name="description"
-      content={`Browse all local ${nicheLower} service pages.`}
-    />
+    <meta name="description" content={homeMetaDescription} />
     <meta name="robots" content={siteConfig.robotsContent} />
     <link rel="canonical" href={pageUrl} />
     <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
@@ -106,7 +119,9 @@ const themeAccent = ACTIVE_COLLECTION === "plumbing-v2"
   </head>
   <body>
     <main>
-      <h1>All {pageNicheLabel} Pages</h1>
+      <h1>
+        All {pageNicheLabel} Pages | {brand.name}
+      </h1>
       <p class="meta">Total pages: {sortedPosts.length}</p>
 
       <h2>Browse by state</h2>
