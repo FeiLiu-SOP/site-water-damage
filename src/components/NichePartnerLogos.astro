@@ -1,0 +1,338 @@
+---
+/**
+ * Authority logo wall: inline SVG only (no remote assets). Roofing brands use typography-matched wordmarks.
+ */
+import { ACTIVE_COLLECTION, type ActiveCollectionKey } from "../active-collection";
+
+function escapeXml(s: string): string {
+  return s
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+type BrandEntry = { name: string; slug: string };
+
+const plumbingList: BrandEntry[] = [
+  { name: "Moen", slug: "moen" },
+  { name: "Kohler", slug: "kohler" },
+  { name: "Delta", slug: "delta" },
+  { name: "Bradford White", slug: "bradford-white" },
+  { name: "AO Smith", slug: "ao-smith" },
+];
+
+const SUBTITLE_BY_COLLECTION: Partial<Record<ActiveCollectionKey, string>> = {
+  plumbing: "CERTIFIED INFRASTRUCTURE MATERIALS & COMPATIBLE SYSTEMS",
+  "plumbing-v2": "CERTIFIED INFRASTRUCTURE MATERIALS & COMPATIBLE SYSTEMS",
+  roofing: "CERTIFIED INFRASTRUCTURE MATERIALS & COMPATIBLE SYSTEMS",
+  "water-damage": "CERTIFIED INFRASTRUCTURE MATERIALS & COMPATIBLE SYSTEMS",
+  "siding-services": "CERTIFIED INFRASTRUCTURE MATERIALS & COMPATIBLE SYSTEMS",
+  pestcontrol: "PROFESSIONAL EQUIPMENT & NETWORK PARTNERS",
+};
+
+const BRANDS_BY_COLLECTION: Partial<Record<ActiveCollectionKey, BrandEntry[]>> = {
+  plumbing: plumbingList,
+  "plumbing-v2": plumbingList,
+  roofing: [
+    { name: "Owens Corning", slug: "owens-corning" },
+    { name: "GAF", slug: "gaf" },
+    { name: "CertainTeed", slug: "certainteed" },
+    { name: "IKO", slug: "iko" },
+  ],
+  "water-damage": [
+    { name: "IICRC (Certified)", slug: "iicrc" },
+    { name: "Drieaz", slug: "drieaz" },
+    { name: "B-Air", slug: "b-air" },
+    { name: "XPOWER", slug: "xpower" },
+  ],
+  pestcontrol: [
+    { name: "Bayer", slug: "bayer" },
+    { name: "Syngenta", slug: "syngenta" },
+    { name: "BASF", slug: "basf" },
+    { name: "Termidor", slug: "termidor" },
+  ],
+  /** Inline SVG wordmarks — siding vertical (Realtors site-siding, etc.). */
+  "siding-services": [
+    { name: "James Hardie", slug: "james-hardie" },
+    { name: "CertainTeed", slug: "certainteed-siding" },
+    { name: "LP SmartSide", slug: "lp-smartside" },
+    { name: "Alside", slug: "alside" },
+  ],
+};
+
+const brands = BRANDS_BY_COLLECTION[ACTIVE_COLLECTION] ?? [];
+const subtitle =
+  SUBTITLE_BY_COLLECTION[ACTIVE_COLLECTION] ??
+  "CERTIFIED INFRASTRUCTURE MATERIALS & COMPATIBLE SYSTEMS";
+
+/** Tooltip + a11y — matches conversion brief (roofing materials). */
+function partnerOfficialTitle(brandName: string): string {
+  return `Official Service Standard for ${brandName} Materials`;
+}
+
+function fontSizeForName(name: string): number {
+  if (name.length > 18) return 9;
+  if (name.length > 12) return 10;
+  return 12;
+}
+
+/**
+ * Roofing: typography simulated per brand (no external SVG fetch — native inline markup).
+ * Official artwork is trademarked; these are original compositions inspired by common wordmark treatments.
+ */
+function roofingBrandSvg(slug: string, uid: string, ariaTitle: string): string {
+  const t = escapeXml(ariaTitle);
+  const baseOpen = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288 72" role="img" aria-labelledby="${uid}-title" width="288" height="72"><title id="${uid}-title">${t}</title>`;
+  const baseClose = `</svg>`;
+
+  if (slug === "owens-corning") {
+    return (
+      baseOpen +
+      `<g fill="currentColor"><text x="144" y="30" text-anchor="middle" font-family="'Segoe Script','Brush Script MT',cursive" font-size="15" font-weight="700" letter-spacing="0.06em">Owens</text><text x="144" y="52" text-anchor="middle" font-family="'Segoe Script','Brush Script MT',cursive" font-size="15" font-weight="700" letter-spacing="0.06em">Corning</text><text x="144" y="66" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7" font-weight="800" letter-spacing="0.28em" fill="currentColor" opacity="0.85">TO THE CORE</text></g>` +
+      baseClose
+    );
+  }
+  if (slug === "gaf") {
+    return (
+      baseOpen +
+      `<text x="144" y="48" text-anchor="middle" font-family="Arial Black,'Arial Narrow',Arial,sans-serif" font-size="34" font-weight="800" font-style="italic" fill="currentColor" letter-spacing="-0.02em">GAF</text>` +
+      baseClose
+    );
+  }
+  if (slug === "certainteed") {
+    return (
+      baseOpen +
+      `<text x="144" y="44" text-anchor="middle" font-family="Georgia,'Times New Roman',Times,serif" font-size="15" font-weight="800" fill="currentColor" letter-spacing="0.02em">CertainTeed</text>` +
+      baseClose
+    );
+  }
+  if (slug === "iko") {
+    return (
+      baseOpen +
+      `<text x="144" y="48" text-anchor="middle" font-family="Impact,'Arial Black',sans-serif" font-size="36" font-weight="900" fill="currentColor" letter-spacing="0.14em">IKO</text>` +
+      baseClose
+    );
+  }
+  return baseOpen + baseClose;
+}
+
+/** Fallback wordmark for non-roofing niches (still inline SVG). */
+function genericBrandSvg(b: BrandEntry, index: number): string {
+  const uid = `niche-lw-${b.slug}-${index}`;
+  const te = escapeXml(b.name);
+  const fs = fontSizeForName(b.name);
+  const ar = escapeXml(partnerOfficialTitle(b.name));
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 56" role="img" aria-labelledby="${uid}-title" width="260" height="56"><title id="${uid}-title">${ar}</title><text x="130" y="34" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="${fs}" font-weight="700" fill="currentColor" letter-spacing="0.03em">${te}</text></svg>`;
+}
+
+function brandSvgMarkup(b: BrandEntry, index: number): string {
+  const uid = `niche-lw-${b.slug}-${index}`;
+  const ariaTitle = partnerOfficialTitle(b.name);
+  if (ACTIVE_COLLECTION === "roofing") {
+    return roofingBrandSvg(b.slug, uid, ariaTitle);
+  }
+  return genericBrandSvg(b, index);
+}
+
+/** SEO / caption — invisible on screen, exposed to document semantics. */
+function partnerFigcaption(b: BrandEntry): string {
+  return `${b.name} certified partner wordmark for compatible systems and materials disclosure on this service area page.`;
+}
+
+function isBalancedWeightSlug(slug: string): boolean {
+  return slug === "owens-corning" || slug === "certainteed";
+}
+---
+
+{
+  brands.length > 0 ? (
+    <section class="niche-logo-wall" aria-label="Compatible equipment and materials partners">
+      <p class="niche-logo-wall__subtitle">
+        <span class="niche-logo-wall__subtitle-row">
+          <svg
+            class="niche-logo-wall__verified-dot"
+            xmlns="http://www.w3.org/2000/svg"
+            width="8"
+            height="8"
+            viewBox="0 0 8 8"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <circle cx="4" cy="4" r="3" fill="#16a34a"></circle>
+          </svg>
+          <span class="niche-logo-wall__subtitle-text">{subtitle}</span>
+        </span>
+      </p>
+      <ul class="niche-logo-wall__grid">
+        {brands.map((b, i) => (
+          <li class="niche-logo-wall__cell">
+            <figure class="niche-logo-wall__figure" aria-labelledby={`niche-logo-wall-cap-${i}`}>
+              <div class="niche-logo-wall__card">
+                <div
+                  class:list={[
+                    "niche-logo-wall__logo-slot",
+                    isBalancedWeightSlug(b.slug) ? "niche-logo-wall__logo-slot--balanced" : null,
+                  ]}
+                  aria-hidden="true"
+                >
+                  <span class="niche-logo-wall__svg-wrap" set:html={brandSvgMarkup(b, i)} />
+                </div>
+              </div>
+              <figcaption id={`niche-logo-wall-cap-${i}`} class="niche-logo-wall__caption">
+                {partnerFigcaption(b)}
+              </figcaption>
+            </figure>
+          </li>
+        ))}
+      </ul>
+    </section>
+  ) : null
+}
+
+<style>
+  /*
+   * Tailwind token equivalents (project has no @tailwind — semantic parity only):
+   * gray-100 #f3f4f6 | gray-50 #f9fafb | max-w-[100px] | h-16 4rem | tracking-widest 0.1em
+   */
+  .niche-logo-wall {
+    margin: 0.75rem 0 2.5rem; /* mb-10 */
+    padding: 0.75rem 0;
+    border-top: 1px solid #f3f4f6;
+    border-bottom: 1px solid rgba(243, 244, 246, 0.3); /* gray-100 @ ~30% — credit pulse */
+  }
+  .niche-logo-wall__subtitle {
+    margin: 0 0 0.65rem;
+    padding: 0 0.5rem;
+    font-size: calc(0.62rem - 1px);
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #94a3b8;
+    line-height: 1.45;
+    text-align: center;
+    letter-spacing: 0.1em; /* tracking-widest */
+  }
+  .niche-logo-wall__subtitle-row {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.35rem;
+    flex-wrap: wrap;
+    max-width: 100%;
+  }
+  .niche-logo-wall__verified-dot {
+    flex-shrink: 0;
+    display: block;
+  }
+  .niche-logo-wall__subtitle-text {
+    text-align: center;
+  }
+  .niche-logo-wall__grid {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.75rem;
+    align-items: center;
+    justify-items: stretch;
+  }
+  @media (min-width: 768px) {
+    .niche-logo-wall__grid {
+      /* Desktop: 4 cols → roofing’s IKO sits on row 1 with siblings */
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+  }
+  .niche-logo-wall__cell {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 0;
+  }
+  .niche-logo-wall__figure {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    position: relative;
+  }
+  .niche-logo-wall__caption {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+  .niche-logo-wall__card {
+    width: 100%;
+    height: 4rem; /* h-16 — uniform row height */
+    min-height: 4rem;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.35rem 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #f3f4f6;
+    background-color: rgba(249, 250, 251, 0.5);
+    transition:
+      border-color 0.2s ease,
+      box-shadow 0.2s ease;
+  }
+  .niche-logo-wall__cell:hover .niche-logo-wall__card,
+  .niche-logo-wall__cell:focus-within .niche-logo-wall__card {
+    border-color: #e5e7eb;
+    box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
+  }
+  .niche-logo-wall__logo-slot {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 100px;
+    height: 100%;
+  }
+  /* +10% max width for lighter wordmarks — balances ink vs GAF / IKO */
+  .niche-logo-wall__logo-slot--balanced {
+    max-width: 110px;
+  }
+  .niche-logo-wall__svg-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 100px;
+    color: #0f172a;
+    filter: grayscale(1);
+    opacity: 0.75;
+    transition:
+      filter 0.2s ease,
+      opacity 0.2s ease;
+  }
+  .niche-logo-wall__logo-slot--balanced .niche-logo-wall__svg-wrap {
+    max-width: 110px;
+  }
+  .niche-logo-wall__cell:hover .niche-logo-wall__svg-wrap,
+  .niche-logo-wall__cell:focus-within .niche-logo-wall__svg-wrap {
+    filter: grayscale(0);
+    opacity: 1;
+  }
+  .niche-logo-wall__svg-wrap :global(svg) {
+    width: 100%;
+    max-width: 100px;
+    height: auto;
+    max-height: 2.75rem;
+    display: block;
+  }
+  .niche-logo-wall__logo-slot--balanced .niche-logo-wall__svg-wrap :global(svg) {
+    max-width: 110px;
+  }
+</style>

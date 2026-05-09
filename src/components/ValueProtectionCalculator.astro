@@ -9,11 +9,21 @@ interface Props {
   city: string | null;
   accent: string;
   domPrefix: string | null;
-  /** Shown below calculator readout (water mitigation urgent notice). */
+  /** Red alert after lead (roofing insurance funnel; site-roofing). */
+  terrainRiskNotice?: string | null;
+  /** Mitigation / compliance line below readout or fallback (water / plumbing hubs). */
   visualizedAssessmentLine?: string | null;
 }
 
-const { homeUsd, zLabel, city, accent, domPrefix, visualizedAssessmentLine = null } = Astro.props;
+const {
+  homeUsd,
+  zLabel,
+  city,
+  accent,
+  domPrefix,
+  terrainRiskNotice = null,
+  visualizedAssessmentLine = null,
+} = Astro.props;
 const rootId = domPrefix ? `${domPrefix}-value-calculator` : "value-calculator-root";
 const wrapClass = ["value-protection-calculator", domPrefix ? `${domPrefix}--value-calculator` : null].filter(Boolean);
 
@@ -56,6 +66,7 @@ const initialStressIndex = stressIndexFromPct(defaultPct);
         </>
       ) : null}
     </p>
+    {terrainRiskNotice ? <p class="vpc-terrain-notice">{terrainRiskNotice}</p> : null}
     {
       hasValue ? (
         <>
@@ -157,6 +168,17 @@ const initialStressIndex = stressIndexFromPct(defaultPct);
   .vpc-zlabel {
     font-weight: 700;
     color: #0f172a;
+  }
+  .vpc-terrain-notice {
+    margin: -0.35rem 0 0.75rem;
+    padding: 0.55rem 0.65rem;
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: #991b1b;
+    background: rgba(254, 226, 226, 0.65);
+    border: 1px solid rgba(185, 28, 28, 0.35);
+    border-radius: 8px;
+    line-height: 1.4;
   }
   .vpc-metrics-row {
     display: flex;
