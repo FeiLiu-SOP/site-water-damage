@@ -652,6 +652,31 @@ export function buildLocalBusinessSchema(params: {
   };
 }
 
+/**
+ * Regional service-area declaration for city detail pages: explicit US State + FixitGrid provider.
+ * `url` matches page canonical so the Service entity is not conflated across cities.
+ */
+export function buildRegionalServiceAreaSchema(params: {
+  stateCode: string;
+  pageUrl: string;
+}): Record<string, unknown> | null {
+  const st = params.stateCode.trim().toUpperCase();
+  if (!/^[A-Z]{2}$/.test(st)) return null;
+  return {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    url: params.pageUrl,
+    serviceArea: {
+      "@type": "State",
+      name: st,
+    },
+    provider: {
+      "@type": "LocalBusiness",
+      name: "FixitGrid",
+    },
+  };
+}
+
 export function buildFaqSchema(faqItems: FaqItem[]) {
   return {
     "@context": "https://schema.org",

@@ -32,6 +32,7 @@ import { getStatePhysicalEnvironmentFact } from "../lib/geo-facts";
 import {
   buildFaqSchema,
   buildLocalBusinessSchema,
+  buildRegionalServiceAreaSchema,
   getFaqByCollection,
 } from "../lib/seo";
 import { resolvePageLocation } from "../lib/location";
@@ -67,7 +68,8 @@ if (!entry) {
 }
 const { Content } = await render(entry);
 const post = entry;
-const entrySlug = entrySlugParam || (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
+/** Single source of truth for this URL — canonical must never follow raw params alone. */
+const entrySlug = (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
 const pageUrl = canonicalPageUrl(entrySlug);
 const pageNicheLabel = getNicheLabelForSeed(entrySlug);
 const isRockwellMaine = matchesRockwellMaine({ domainOrUrl: siteConfig.canonicalOrigin });
@@ -107,6 +109,11 @@ const stateCodeFromSlug = (() => {
   const m = entrySlug.match(/-([a-z]{2})-\d{5}$/i);
   return m ? m[1]!.toUpperCase() : null;
 })();
+/** US State service-area + FixitGrid provider; `url` = this page canonical (per-city, no cross-city bleed). */
+const regionalServiceSchema =
+  stateCodeFromSlug != null
+    ? buildRegionalServiceAreaSchema({ stateCode: stateCodeFromSlug, pageUrl })
+    : null;
 // Action 1: footer random internal link from backup pool (state index + random city)
 const backupCandidates: { href: string; label: string }[] = [];
 if (stateCodeFromSlug) {
@@ -767,6 +774,11 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
     <link rel="canonical" href={pageUrl} />
     <script type="application/ld+json" set:html={JSON.stringify(breadcrumbListSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(localBusinessSchema)} />
+    {
+      regionalServiceSchema ? (
+        <script type="application/ld+json" set:html={JSON.stringify(regionalServiceSchema)} />
+      ) : null
+    }
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
     <style>
       :root {
