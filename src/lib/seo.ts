@@ -692,3 +692,23 @@ export function buildFaqSchema(faqItems: FaqItem[]) {
   };
 }
 
+/** Detail-page Dataset: physical-variable declaration (does not replace LocalBusiness/FAQ). */
+export function buildPhysicalInfrastructureDatasetSchema(params: {
+  cityDisplay: string;
+  zip5: string;
+  pageUrl: string;
+}): Record<string, unknown> | null {
+  const city = params.cityDisplay.replace(/\s+/g, " ").trim() || "Local";
+  const zip = params.zip5.replace(/\D/g, "").slice(0, 5);
+  if (!/^\d{5}$/.test(zip)) return null;
+  const description = `USGS terrain & Zillow asset risk data for ${city}, ${zip}.`;
+  return {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    name: "Local Infrastructure Risk Observation",
+    description,
+    url: params.pageUrl,
+    variableMeasured: ["USGS_Elevation_ft", "Water_Hardness_mgL", "Soil_Drainage_Index"],
+  };
+}
+

@@ -32,6 +32,7 @@ import { getStatePhysicalEnvironmentFact } from "../lib/geo-facts";
 import {
   buildFaqSchema,
   buildLocalBusinessSchema,
+  buildPhysicalInfrastructureDatasetSchema,
   buildRegionalServiceAreaSchema,
   getFaqByCollection,
 } from "../lib/seo";
@@ -114,6 +115,26 @@ const regionalServiceSchema =
   stateCodeFromSlug != null
     ? buildRegionalServiceAreaSchema({ stateCode: stateCodeFromSlug, pageUrl })
     : null;
+/** Slug tail `…-{ST}-{ZIP}` — same source as audit-node ID / Dataset zip. */
+const slugGeoTailForPhysical = (() => {
+  const m = entrySlug.match(/-([a-z]{2})-(\d{5})$/i);
+  return m ? { state: m[1]!.toUpperCase(), zip: m[2]! } : null;
+})();
+const physicalDatasetCityLabel =
+  pageCity ??
+  ((typeof post.data.city === "string" ? post.data.city.replace(/\s+/g, " ").trim() : "") || "Local");
+const physicalInfrastructureDatasetSchema =
+  slugGeoTailForPhysical != null
+    ? buildPhysicalInfrastructureDatasetSchema({
+        cityDisplay: physicalDatasetCityLabel,
+        zip5: slugGeoTailForPhysical.zip,
+        pageUrl,
+      })
+    : null;
+const auditNodeFingerprintVersion =
+  String(post.data.templateVersion ?? "1")
+    .trim()
+    .replace(/[^\w.-]/g, "") || "1";
 // Action 1: footer random internal link from backup pool (state index + random city)
 const backupCandidates: { href: string; label: string }[] = [];
 if (stateCodeFromSlug) {
@@ -780,6 +801,14 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
       ) : null
     }
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+    {
+      physicalInfrastructureDatasetSchema ? (
+        <script
+          type="application/ld+json"
+          set:html={JSON.stringify(physicalInfrastructureDatasetSchema)}
+        />
+      ) : null
+    }
     <style>
       :root {
         color-scheme: light;
@@ -1418,6 +1447,9 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
       extraLink={footerExtraLink}
       notice={stateNotice}
       variantSeed={`${ACTIVE_COLLECTION}|${entrySlug}|footer`}
+      auditStateCode={slugGeoTailForPhysical?.state}
+      auditZipCode={slugGeoTailForPhysical?.zip}
+      auditNodeVersion={auditNodeFingerprintVersion}
     />
     <DispatchCommandBar
       city={pageLocation?.city ?? pageCity ?? "Local"}

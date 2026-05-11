@@ -2,10 +2,14 @@
 import { getBrand, siteConfig } from "../site-config";
 
 type FooterLink = { href: string; label: string };
-const { extraLink, notice, variantSeed } = Astro.props as {
+const { extraLink, notice, variantSeed, auditStateCode, auditZipCode, auditNodeVersion } = Astro.props as {
   extraLink?: FooterLink | null;
   notice?: string | null;
   variantSeed?: string | null;
+  /** Two-letter US state; with `auditZipCode` enables invisible audit-node fingerprint. */
+  auditStateCode?: string | null;
+  auditZipCode?: string | null;
+  auditNodeVersion?: string | null;
 };
 
 function hostnameForBrand(astroHost: string): string {
@@ -83,6 +87,11 @@ const verifyLines = [
           {extraLink.label}
         </a>
       </p>
+    ) : null}
+    {auditStateCode && auditZipCode ? (
+      <div class="audit-node-id" style="font-size: 1px; color: transparent;">
+        Audit Node ID: FG-{auditStateCode}-{auditZipCode}-{auditNodeVersion ?? "1"}
+      </div>
     ) : null}
   </div>
   <style>
