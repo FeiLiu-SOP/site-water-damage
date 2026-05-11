@@ -10,6 +10,7 @@ import OfficialRiskNodeHeader from "../components/OfficialRiskNodeHeader.astro";
 import TrustBar from "../components/TrustBar.astro";
 import NationalDispatchDisclaimer from "../components/NationalDispatchDisclaimer.astro";
 import NichePartnerLogos from "../components/NichePartnerLogos.astro";
+import DispatchCommandBar from "../components/DispatchCommandBar.astro";
 import { ACTIVE_COLLECTION } from "../active-collection";
 import {
   BRAND_CONFIG,
@@ -590,7 +591,6 @@ const stateNotice = stateCodeFromSlug
   ? `Notice: This ${stateCodeFromSlug} page summarizes regional infrastructure maintenance coordination and local topographic context; it is not a government bulletin.`
   : "Notice: This page summarizes regional infrastructure maintenance coordination and local topographic context; it is not a government bulletin.";
 const telHref = `tel:${siteConfig.phoneE164.replace(/^\+/, "")}`;
-const enableMobileStickyCall = String(import.meta.env.PUBLIC_MOBILE_STICKY_CALL ?? "").trim() === "1";
 const dispatcherCountyLabel = (
   String(post.data.county ?? "").trim() ||
   (pageCity && stateCodeFromSlug ? `${pageCity}, ${stateCodeFromSlug}` : stateCodeFromSlug ?? "Regional")
@@ -938,42 +938,6 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
       [class$="--geo-brief"] p {
         margin: 0.4rem 0;
         color: #334155;
-      }
-      .mobile-sticky-call-wrap {
-        position: fixed;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        z-index: 999;
-        padding: 10px 12px calc(10px + env(safe-area-inset-bottom));
-        background: rgba(15, 23, 42, 0.12);
-        backdrop-filter: blur(3px);
-      }
-      .mobile-sticky-call-btn {
-        display: block;
-        width: min(760px, calc(100vw - 24px));
-        margin: 0 auto;
-        text-align: center;
-        background: #b91c1c;
-        color: #ffffff;
-        text-decoration: none;
-        font-weight: 800;
-        font-size: 1rem;
-        line-height: 1.2;
-        padding: 0.9rem 1rem;
-        border-radius: 0;
-        box-shadow: 0 6px 18px rgba(185, 28, 28, 0.4);
-        transform-origin: center;
-        animation: ctaUrgencyFlash 1.15s ease-in-out infinite, ctaPressurePulse 2.2s ease-in-out infinite;
-      }
-      .mobile-sticky-call-btn:hover {
-        background: #991b1b;
-        text-decoration: none;
-      }
-      @media (min-width: 769px) {
-        .mobile-sticky-call-wrap {
-          display: none;
-        }
       }
     </style>
     <!-- Markdown 由 <Content /> 注入，子节点无本页 scoped 属性；用 is:global + 固定 id，避免 dev/HMR 下偶发“正文像空白”（与 build 静态 HTML 一致） -->
@@ -1335,12 +1299,11 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
       notice={stateNotice}
       variantSeed={`${ACTIVE_COLLECTION}|${entrySlug}|footer`}
     />
-    {enableMobileStickyCall ? (
-      <div class="mobile-sticky-call-wrap">
-        <a class="mobile-sticky-call-btn" href={telHref} aria-label={`Call ${siteConfig.phoneDisplay}`}>
-          Call now: {siteConfig.phoneDisplay}
-        </a>
-      </div>
-    ) : null}
+    <DispatchCommandBar
+      city={pageLocation?.city ?? pageCity ?? "Local"}
+      zip={(pageLocation?.zip ?? String(post.data.zipCode ?? "").trim()) || "00000"}
+      nicheLabel={pageNicheLabel}
+      slugSeed={entrySlug}
+    />
   </body>
 </html>
