@@ -354,3 +354,15 @@ export function internalPath(...segments: string[]): string {
     return `/${parts.join("/")}/`;
   }
 }
+
+/**
+ * Root-level path on the main domain (bypasses Astro `base`).
+ * Hub pages live at origin root, e.g. `/national-service-coverage/` — not under this site's Astro `base`.
+ */
+export function hubPublicPath(...segments: string[]): string {
+  const parts = segments
+    .filter((s) => s != null && s !== "")
+    .map((s) => String(s).replace(/^\/+|\/+$/g, ""));
+  if (parts.length === 0) return "/";
+  return `/${parts.join("/")}/`;
+}
