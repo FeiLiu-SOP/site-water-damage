@@ -43,7 +43,12 @@ if (hubSeg && enforcedBase === "/") {
 export default defineConfig({
   site,
   base: enforcedBase,
-  integrations: [sitemap()],
+  integrations: [
+    sitemap({
+      /** SERP / crawl signal: uniform freshness date for all URLs (protocol 2026-05-11). */
+      lastmod: new Date("2026-05-11T00:00:00.000Z"),
+    }),
+  ],
   markdown: {
     remarkPlugins: [remarkStripRoutingMarkers],
   },

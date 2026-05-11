@@ -11,7 +11,7 @@ import TrustBar from "../components/TrustBar.astro";
 import NationalDispatchDisclaimer from "../components/NationalDispatchDisclaimer.astro";
 import NichePartnerLogos from "../components/NichePartnerLogos.astro";
 import DispatchCommandBar from "../components/DispatchCommandBar.astro";
-import { ACTIVE_COLLECTION } from "../active-collection";
+import { ACTIVE_COLLECTION, type ActiveCollectionKey } from "../active-collection";
 import {
   BRAND_CONFIG,
   PUBLIC_NICHE_LABEL,
@@ -213,61 +213,6 @@ function withWaterTitleBrand(raw: string): string {
   return `${t}${WATER_TITLE_BRAND_SUFFIX}`;
 }
 
-/** Water mitigation: insurance / speed / IICRC + brand on `<title>`. */
-function buildBaitPool2TitlesWater(opts: { city: string; pick: number }): { pageTitle: string; pageH1: string } {
-  const { city, pick } = opts;
-  if (pick === 0) {
-    const core = `${city} Water Restoration: Direct Insurance Billing | $0 Out-of-Pocket`;
-    return { pageTitle: withWaterTitleBrand(core), pageH1: core };
-  }
-  if (pick === 1) {
-    const core = `Emergency Water Removal ${city}: Arrive in Minutes | 24/7 Flood Cleanup`;
-    return { pageTitle: withWaterTitleBrand(core), pageH1: core };
-  }
-  const core = `2026 ${city} Water Mitigation Audit: IICRC Certified & Verified Dispatch`;
-  return { pageTitle: withWaterTitleBrand(core), pageH1: core };
-}
-
-/** Plumbing: price transparency / emergency / promo + same brand suffix as hub (`withWaterTitleBrand`). */
-function buildBaitPool2TitlesPlumbing(opts: { city: string; pick: number }): { pageTitle: string; pageH1: string } {
-  const { city, pick } = opts;
-  if (pick === 0) {
-    const core = `No-Scam ${city} Plumbing: $0 Dispatch Fee & Upfront Pricing`;
-    return { pageTitle: withWaterTitleBrand(core), pageH1: core };
-  }
-  if (pick === 1) {
-    const core = `Verified ${city} Plumber: 24/7 Response | No Hidden Charges`;
-    return { pageTitle: withWaterTitleBrand(core), pageH1: core };
-  }
-  const core = `24 Hour ${city} Plumbing: $50 Off Emergency Repairs Today`;
-  return { pageTitle: withWaterTitleBrand(core), pageH1: core };
-}
-
-function buildBaitPool2TitlesLegacy(opts: {
-  service: string;
-  city: string;
-  stateCode: string;
-  stateFm: string | undefined;
-  zLabel: string | null;
-  pick: number;
-}): { pageTitle: string; pageH1: string } {
-  const stateToken = stateLabelForBait(opts.stateCode, opts.stateFm);
-  const { service, city, zLabel, pick } = opts;
-  if (pick === 0 && zLabel) {
-    const pageTitle = `${zLabel} Home Protection: ${city} Emergency ${service} (Verified)`;
-    const pageH1 = `${zLabel} Home Protection — ${city} Emergency ${service}`;
-    return { pageTitle, pageH1 };
-  }
-  if (pick === 1) {
-    const pageTitle = `${city} ${service} — 24/7 coordinated intake (${stateToken})`;
-    const pageH1 = `${city} ${service}: regional coordination desk (${stateToken})`;
-    return { pageTitle, pageH1 };
-  }
-  const pageTitle = `Maintenance intensity signal in ${city}. Coordinated ${service} planning.`;
-  const pageH1 = `Maintenance intensity signal in ${city} — coordinated ${service} planning`;
-  return { pageTitle, pageH1 };
-}
-
 const zRaw = post.data.zillowHomeValueUsd;
 const zUsd =
   typeof zRaw === "number" && Number.isFinite(zRaw) && zRaw > 0 ? zRaw : null;
@@ -281,36 +226,83 @@ const zLabelExact =
       }).format(zUsd)
     : null;
 const baitPickRaw = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|bait2`) % 3;
-let baitPick = baitPickRaw;
-if (!isWaterDamageHub && !isPlumbingHub && baitPick === 0 && !zLabel) {
-  baitPick = 1 + (stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|bait2NoZ`) % 2);
-}
-const baitHead =
-  pageCity && stateCodeFromSlug
-    ? isWaterDamageHub
-      ? buildBaitPool2TitlesWater({
-          city: pageCity,
-          pick: baitPickRaw,
-        })
-      : isPlumbingHub
-        ? buildBaitPool2TitlesPlumbing({
-            city: pageCity,
-            pick: baitPickRaw,
-          })
-        : buildBaitPool2TitlesLegacy({
-            service: pageNicheLabel,
-            city: pageCity,
-            stateCode: stateCodeFromSlug,
-            stateFm: post.data.state,
-            zLabel,
-            pick: baitPick,
-          })
-    : null;
 const isFinancialPressureMode =
   zUsd != null &&
   zUsd >= HIGH_VALUE_USD_TRIGGER &&
   zLabelExact != null &&
   pageCity != null;
+
+/** Title brand tail (short SERP); full Rockwell name lives in meta/footer — keep ≤60 total. */
+const SERP_TITLE_BRAND = "FixitGrid";
+
+/**
+ * Service clauses for `[zLabel] Asset Defense: [City] [Service] | FixitGrid` — longest first.
+ * Compression protocol: truncate Service only; never truncate zLabel or City.
+ */
+const SERP_ASSET_DEFENSE_SERVICES: Record<ActiveCollectionKey, readonly string[]> = {
+  roofing: ["Emergency Roofing (Rapid Response)", "Emergency Roofing", "Roofing"],
+  plumbing: ["Emergency Plumbing (Rapid Response)", "Emergency Plumbing", "Plumbing"],
+  pestcontrol: ["Emergency Pest Control (Rapid)", "Emergency Pest Control", "Pest Control"],
+  "water-damage": ["Emergency Water Damage (Rapid)", "Emergency Water Damage", "Water Damage"],
+  "siding-services": ["Emergency Siding (Rapid Response)", "Emergency Siding", "Siding"],
+  "plumbing-v2": ["Emergency Plumbing (Rapid Response)", "Emergency Plumbing", "Plumbing"],
+};
+
+function clipAssetDefenseTitle60(
+  zLabelForTitle: string | null,
+  cityRaw: string | null,
+  serviceCandidates: string[],
+): string {
+  const tail = ` | ${SERP_TITLE_BRAND}`;
+  const assetPrefix = zLabelForTitle ? `${zLabelForTitle} Asset Defense: ` : `Asset Defense: `;
+  const city = (cityRaw ?? "Local").replace(/\s+/g, " ").trim();
+
+  const assemble = (svc: string) => {
+    const s = svc.replace(/\s+/g, " ").trim();
+    const mid = s ? `${city} ${s}` : city;
+    return `${assetPrefix}${mid}${tail}`;
+  };
+
+  const seen = new Set<string>();
+  const pool: string[] = [];
+  for (const c of serviceCandidates) {
+    const k = c.replace(/\s+/g, " ").trim();
+    if (!k || seen.has(k)) continue;
+    seen.add(k);
+    pool.push(k);
+  }
+  pool.sort((a, b) => b.length - a.length);
+
+  for (const svc of pool) {
+    const t = assemble(svc);
+    if (t.length <= 60) return t;
+  }
+
+  let svc = pool[pool.length - 1] ?? "Service";
+  svc = svc.trim();
+  while (svc.length > 0 && assemble(svc).length > 60) {
+    svc = svc.slice(0, -1).replace(/[\s(/,.-]+$/, "").trimEnd();
+  }
+  let out = assemble(svc);
+  if (out.length <= 60) return out;
+
+  out = assemble("");
+  if (out.length <= 60) return out;
+
+  return assemble("").slice(0, 60);
+}
+
+function buildAssetDefenseSerpTitle(): string {
+  const base = [...SERP_ASSET_DEFENSE_SERVICES[ACTIVE_COLLECTION]];
+  if (isFinancialPressureMode) {
+    const short = base[base.length - 1] ?? "Service";
+    base.unshift(`Critical ${short}`);
+  }
+  const r = baitPickRaw % Math.max(1, base.length);
+  const rotated = [...base.slice(r), ...base.slice(0, r)];
+  return clipAssetDefenseTitle60(zLabel, pageCity, rotated);
+}
+
 const waterH1Lead = pageCity
   ? `IICRC Certified ${pageCity} Response — Direct Billing to Insurance — `
   : `IICRC Certified Response — Direct Billing to Insurance — `;
@@ -355,18 +347,8 @@ function plumbingMetaLead(): string {
   return `Stop overpaying. Get upfront pricing and verified plumbing. No hidden dispatch fees. Emergency dispatch available 24/7.`;
 }
 
-/** `<title>` / JSON-LD name */
-const pageTitle = isWaterDamageHub
-  ? isFinancialPressureMode
-    ? withWaterTitleBrand(`CRITICAL: ${zLabelExact} ${pageCity} Flood Risk Alert | Prevent Permanent Asset Loss`)
-    : baitHead?.pageTitle ?? withWaterTitleBrand(post.data.title)
-  : isPlumbingHub
-    ? isFinancialPressureMode
-      ? withWaterTitleBrand(`URGENT: ${zLabelExact} ${pageCity} Asset Risk | 2026 Emergency Plumbing Audit`)
-      : baitHead?.pageTitle ?? withWaterTitleBrand(post.data.title)
-    : isFinancialPressureMode
-      ? `${zLabelExact} asset stewardship brief: ${pageCity} ${pageNicheLabel} (coordinated intake)`
-      : baitHead?.pageTitle ?? post.data.title;
+/** `<title>`: `$XK Asset Defense: City Service | FixitGrid` — ≤60 chars; service truncates first. */
+const pageTitle = buildAssetDefenseSerpTitle();
 
 /** Visible `<h1>` fallback */
 const pageH1Plain = isWaterDamageHub

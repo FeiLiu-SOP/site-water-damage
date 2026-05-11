@@ -99,7 +99,12 @@ const initialStressIndex = stressIndexFromPct(defaultPct);
               step="1"
               value={String(defaultPct)}
             />
-            <div class="vpc-readout">
+            <div
+              class:list={[
+                "vpc-readout",
+                defaultPct > 10 ? "vpc-readout--mitigation-required" : null,
+              ].filter(Boolean)}
+            >
               <span class="vpc-readout-label">Illustrative exposure at this stress</span>
               <output class="vpc-readout-value" id={`${rootId}-out`} for={`${rootId}-range`}>
                 —
@@ -135,7 +140,7 @@ const initialStressIndex = stressIndexFromPct(defaultPct);
     is:inline
     set:html={`(function(){var r=document.getElementById(${JSON.stringify(
       rootId,
-    )});if(!r)return;var u=r.getAttribute("data-vpc-usd");var h=u?parseInt(u,10):0;if(!h||!isFinite(h))return;var g=r.querySelector("input[type=range]"),o=r.querySelector("output");if(!g||!o)return;var sc=r.querySelector(".vpc-risk-meter-score");function f(n){return new Intl.NumberFormat("en-US",{style:"currency",currency:"USD",maximumFractionDigits:0}).format(n)}function idx(p){return Math.min(100,Math.round(18+(+p||0)*2.5))}function s(){var p=+g.value||0;o.textContent=f(Math.round(h*p/100));if(sc)sc.textContent=String(idx(p))}g.addEventListener("input",s);s();})();`}
+    )});if(!r)return;var u=r.getAttribute("data-vpc-usd");var h=u?parseInt(u,10):0;if(!h||!isFinite(h))return;var g=r.querySelector("input[type=range]"),o=r.querySelector("output");if(!g||!o)return;var sc=r.querySelector(".vpc-risk-meter-score");var ro=o.closest(".vpc-readout");function f(n){return new Intl.NumberFormat("en-US",{style:"currency",currency:"USD",maximumFractionDigits:0}).format(n)}function idx(p){return Math.min(100,Math.round(18+(+p||0)*2.5))}function s(){var p=+g.value||0;o.textContent=f(Math.round(h*p/100));if(sc)sc.textContent=String(idx(p));if(ro){if(p>10)ro.classList.add("vpc-readout--mitigation-required");else ro.classList.remove("vpc-readout--mitigation-required")}}g.addEventListener("input",s);s();})();`}
   />
 ) : null}
 
@@ -262,6 +267,7 @@ const initialStressIndex = stressIndexFromPct(defaultPct);
     accent-color: var(--vpc-accent, #2563eb);
   }
   .vpc-readout {
+    position: relative;
     display: flex;
     flex-direction: column;
     gap: 0.15rem;
@@ -270,14 +276,55 @@ const initialStressIndex = stressIndexFromPct(defaultPct);
     border-radius: 10px;
     background: #0b1220;
     color: #e2e8f0;
+    overflow: hidden;
+  }
+  /** Authority-First: exposure >10% — stamp watermark on the readout (currency) layer only. */
+  .vpc-readout--mitigation-required::before {
+    content: "[STATUS: MITIGATION REQUIRED]";
+    white-space: nowrap;
+    position: absolute;
+    inset: 0.15rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: 900;
+    font-size: clamp(0.44rem, 1.65vw, 0.58rem);
+    letter-spacing: 0.04em;
+    line-height: 1.1;
+    color: rgba(252, 165, 165, 0.55);
+    text-transform: uppercase;
+    border: 0.18rem double rgba(220, 38, 38, 0.72);
+    border-radius: 6px;
+    transform: rotate(-10deg) scale(0.92);
+    z-index: 0;
+    pointer-events: none;
+    max-width: calc(100% - 0.3rem);
+    margin: auto;
+    box-shadow:
+      inset 0 0 0 1px rgba(254, 202, 202, 0.15),
+      0 0 0 1px rgba(127, 29, 29, 0.4),
+      2px 3px 0 rgba(0, 0, 0, 0.22);
+    background: repeating-linear-gradient(
+      -33deg,
+      rgba(254, 226, 226, 0.07),
+      rgba(254, 226, 226, 0.07) 1px,
+      transparent 1px,
+      transparent 3px
+    );
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
   }
   .vpc-readout-label {
+    position: relative;
+    z-index: 1;
     font-size: 0.75rem;
     color: #94a3b8;
     text-transform: uppercase;
     letter-spacing: 0.05em;
   }
   .vpc-readout-value {
+    position: relative;
+    z-index: 1;
     font-size: 1.25rem;
     font-weight: 800;
     font-variant-numeric: tabular-nums;
