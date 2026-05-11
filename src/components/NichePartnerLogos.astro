@@ -62,6 +62,9 @@ const BRANDS_BY_COLLECTION: Partial<Record<ActiveCollectionKey, BrandEntry[]>> =
 };
 
 const brands = BRANDS_BY_COLLECTION[ACTIVE_COLLECTION] ?? [];
+/** Cap at 4: desktop is strictly 4 columns — never a 4+1 “orphan” row. */
+const DISPLAY_BRAND_CAP = 4;
+const displayBrands = brands.slice(0, DISPLAY_BRAND_CAP);
 const subtitle =
   SUBTITLE_BY_COLLECTION[ACTIVE_COLLECTION] ??
   "CERTIFIED INFRASTRUCTURE MATERIALS & COMPATIBLE SYSTEMS";
@@ -123,7 +126,7 @@ function genericBrandSvg(b: BrandEntry, index: number): string {
   const te = escapeXml(b.name);
   const fs = fontSizeForName(b.name);
   const ar = escapeXml(partnerOfficialTitle(b.name));
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 56" role="img" aria-labelledby="${uid}-title" width="260" height="56"><title id="${uid}-title">${ar}</title><text x="130" y="34" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="${fs}" font-weight="700" fill="currentColor" letter-spacing="0.03em">${te}</text></svg>`;
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 56" role="img" aria-labelledby="${uid}-title" width="260" height="56"><title id="${uid}-title">${ar}</title><text x="130" y="34" text-anchor="middle" font-family="Georgia,'Times New Roman',Times,serif" font-size="${fs}" font-weight="700" fill="currentColor" letter-spacing="0.04em">${te}</text></svg>`;
 }
 
 function brandSvgMarkup(b: BrandEntry, index: number): string {
@@ -140,13 +143,10 @@ function partnerFigcaption(b: BrandEntry): string {
   return `${b.name} certified partner wordmark for compatible systems and materials disclosure on this service area page.`;
 }
 
-function isBalancedWeightSlug(slug: string): boolean {
-  return slug === "owens-corning" || slug === "certainteed";
-}
 ---
 
 {
-  brands.length > 0 ? (
+  displayBrands.length > 0 ? (
     <section class="niche-logo-wall" aria-label="Compatible equipment and materials partners">
       <p class="niche-logo-wall__subtitle">
         <span class="niche-logo-wall__subtitle-row">
@@ -165,17 +165,11 @@ function isBalancedWeightSlug(slug: string): boolean {
         </span>
       </p>
       <ul class="niche-logo-wall__grid">
-        {brands.map((b, i) => (
+        {displayBrands.map((b, i) => (
           <li class="niche-logo-wall__cell">
             <figure class="niche-logo-wall__figure" aria-labelledby={`niche-logo-wall-cap-${i}`}>
               <div class="niche-logo-wall__card">
-                <div
-                  class:list={[
-                    "niche-logo-wall__logo-slot",
-                    isBalancedWeightSlug(b.slug) ? "niche-logo-wall__logo-slot--balanced" : null,
-                  ]}
-                  aria-hidden="true"
-                >
+                <div class="niche-logo-wall__logo-slot" data-brand-slug={b.slug} aria-hidden="true">
                   <span class="niche-logo-wall__svg-wrap" set:html={brandSvgMarkup(b, i)} />
                 </div>
               </div>
@@ -234,27 +228,62 @@ function isBalancedWeightSlug(slug: string): boolean {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 0.75rem;
-    align-items: center;
+    align-items: stretch;
     justify-items: stretch;
   }
+  /* Mobile: last row single item — centered, no empty “ghost” cells */
+  .niche-logo-wall__cell:last-child:nth-child(odd):not(:only-child) {
+    grid-column: 1 / -1;
+    justify-self: center;
+    width: calc((100% - 0.75rem) / 2);
+    max-width: calc((100% - 0.75rem) / 2);
+  }
+  .niche-logo-wall__cell:only-child {
+    grid-column: 1 / -1;
+    justify-self: center;
+    width: calc((100% - 0.75rem) / 2);
+    max-width: calc((100% - 0.75rem) / 2);
+  }
   @media (min-width: 768px) {
+    /* Desktop: exactly four logical slots per row; <4 logos stay centered as a group */
     .niche-logo-wall__grid {
-      /* Desktop: 4 cols → roofing’s IKO sits on row 1 with siblings */
-      grid-template-columns: repeat(4, minmax(0, 1fr));
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: stretch;
+      gap: 0.75rem;
+    }
+    .niche-logo-wall__cell {
+      flex: 0 1 calc(25% - 0.5625rem);
+      max-width: calc(25% - 0.5625rem);
+      width: auto;
+      grid-column: unset;
+      justify-self: auto;
+    }
+    .niche-logo-wall__cell:last-child:nth-child(odd):not(:only-child),
+    .niche-logo-wall__cell:only-child {
+      grid-column: unset;
+      justify-self: auto;
+      width: auto;
+      flex: 0 1 calc(25% - 0.5625rem);
+      max-width: calc(25% - 0.5625rem);
     }
   }
   .niche-logo-wall__cell {
     margin: 0;
     padding: 0;
     display: flex;
-    align-items: center;
+    align-items: stretch;
     justify-content: center;
     min-height: 0;
+    overflow: visible;
   }
   .niche-logo-wall__figure {
     margin: 0;
     padding: 0;
     width: 100%;
+    flex: 1;
+    min-height: 5rem;
     display: flex;
     flex-direction: column;
     align-items: stretch;
@@ -273,66 +302,168 @@ function isBalancedWeightSlug(slug: string): boolean {
   }
   .niche-logo-wall__card {
     width: 100%;
-    height: 4rem; /* h-16 — uniform row height */
-    min-height: 4rem;
+    flex: 1;
+    min-height: 5rem;
+    height: 100%;
     box-sizing: border-box;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 0.35rem 0.5rem;
-    border-radius: 6px;
-    border: 1px solid #f3f4f6;
-    background-color: rgba(249, 250, 251, 0.5);
+    padding: 0.45rem 0.55rem;
+    border-radius: 0.375rem; /* rounded-md */
+    border: 1px solid #e2e8f0; /* slate-200 — 比 slate-100 更清晰 */
+    background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+    /* shadow-sm：卡片轻微离地 */
+    box-shadow: 0 1px 2px 0 rgb(15 23 42 / 0.05);
+    transform: scale(1);
+    transform-origin: center center;
     transition:
       border-color 0.2s ease,
-      box-shadow 0.2s ease;
+      box-shadow 0.2s ease,
+      transform 0.2s ease;
   }
   .niche-logo-wall__cell:hover .niche-logo-wall__card,
   .niche-logo-wall__cell:focus-within .niche-logo-wall__card {
-    border-color: #e5e7eb;
-    box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
+    border-color: #cbd5e1; /* slate-300 */
+    box-shadow:
+      0 1px 2px 0 rgb(15 23 42 / 0.05),
+      0 4px 14px -3px rgb(15 23 42 / 0.1);
+    transform: scale(1.05);
   }
+  /* Per-brand “seal” dot (CSS ::before — no extra DOM) */
   .niche-logo-wall__logo-slot {
+    --partner-dot: #64748b;
+    position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
-    max-width: 100px;
-    height: 100%;
+    min-height: 3rem;
+    padding-left: 0.6rem;
+    box-sizing: border-box;
   }
-  /* +10% max width for lighter wordmarks — balances ink vs GAF / IKO */
-  .niche-logo-wall__logo-slot--balanced {
-    max-width: 110px;
+  /* 左侧微型品牌徽标：色块 + 高光 + 细环，近似「认证 seal」 */
+  .niche-logo-wall__logo-slot::before {
+    content: "";
+    position: absolute;
+    left: 0.04rem;
+    top: 50%;
+    width: 0.5rem;
+    height: 0.5rem;
+    margin-top: -0.25rem;
+    border-radius: 50%;
+    background:
+      radial-gradient(circle at 30% 28%, rgba(255, 255, 255, 0.88) 0%, rgba(255, 255, 255, 0.88) 24%, transparent 26%),
+      var(--partner-dot);
+    box-shadow:
+      0 0 0 1px rgba(255, 255, 255, 0.95),
+      0 0 0 2px rgba(15, 23, 42, 0.07),
+      0 1px 2px rgb(15 23 42 / 0.12);
+    flex-shrink: 0;
+  }
+  .niche-logo-wall__logo-slot[data-brand-slug="moen"] {
+    --partner-dot: #2563eb;
+  }
+  .niche-logo-wall__logo-slot[data-brand-slug="kohler"] {
+    --partner-dot: #0f172a;
+  }
+  .niche-logo-wall__logo-slot[data-brand-slug="delta"] {
+    --partner-dot: #0369a1;
+  }
+  .niche-logo-wall__logo-slot[data-brand-slug="bradford-white"] {
+    --partner-dot: #b45309;
+  }
+  .niche-logo-wall__logo-slot[data-brand-slug="ao-smith"] {
+    --partner-dot: #1d4ed8;
+  }
+  .niche-logo-wall__logo-slot[data-brand-slug="owens-corning"] {
+    --partner-dot: #ea580c;
+  }
+  .niche-logo-wall__logo-slot[data-brand-slug="gaf"] {
+    --partner-dot: #15803d;
+  }
+  .niche-logo-wall__logo-slot[data-brand-slug="certainteed"] {
+    --partner-dot: #1e40af;
+  }
+  .niche-logo-wall__logo-slot[data-brand-slug="iko"] {
+    --partner-dot: #dc2626;
+  }
+  .niche-logo-wall__logo-slot[data-brand-slug="iicrc"] {
+    --partner-dot: #0f766e;
+  }
+  .niche-logo-wall__logo-slot[data-brand-slug="drieaz"] {
+    --partner-dot: #2563eb;
+  }
+  .niche-logo-wall__logo-slot[data-brand-slug="b-air"] {
+    --partner-dot: #7c3aed;
+  }
+  .niche-logo-wall__logo-slot[data-brand-slug="xpower"] {
+    --partner-dot: #ea580c;
+  }
+  .niche-logo-wall__logo-slot[data-brand-slug="bayer"] {
+    --partner-dot: #0050b4;
+  }
+  .niche-logo-wall__logo-slot[data-brand-slug="syngenta"] {
+    --partner-dot: #16a34a;
+  }
+  .niche-logo-wall__logo-slot[data-brand-slug="basf"] {
+    --partner-dot: #0046ad;
+  }
+  .niche-logo-wall__logo-slot[data-brand-slug="termidor"] {
+    --partner-dot: #92400e;
+  }
+  .niche-logo-wall__logo-slot[data-brand-slug="james-hardie"] {
+    --partner-dot: #7f1d1d;
+  }
+  .niche-logo-wall__logo-slot[data-brand-slug="certainteed-siding"] {
+    --partner-dot: #1e3a8a;
+  }
+  .niche-logo-wall__logo-slot[data-brand-slug="lp-smartside"] {
+    --partner-dot: #3f6212;
+  }
+  .niche-logo-wall__logo-slot[data-brand-slug="alside"] {
+    --partner-dot: #0284c7;
   }
   .niche-logo-wall__svg-wrap {
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
-    max-width: 100px;
+    min-height: 3rem;
     color: #0f172a;
-    filter: grayscale(1);
-    opacity: 0.75;
+    filter: grayscale(0.8) contrast(1.2);
+    opacity: 0.95;
     transition:
       filter 0.2s ease,
       opacity 0.2s ease;
   }
-  .niche-logo-wall__logo-slot--balanced .niche-logo-wall__svg-wrap {
-    max-width: 110px;
-  }
   .niche-logo-wall__cell:hover .niche-logo-wall__svg-wrap,
   .niche-logo-wall__cell:focus-within .niche-logo-wall__svg-wrap {
-    filter: grayscale(0);
+    filter: grayscale(0) contrast(1.05);
     opacity: 1;
   }
   .niche-logo-wall__svg-wrap :global(svg) {
     width: 100%;
-    max-width: 100px;
-    height: auto;
-    max-height: 2.75rem;
+    max-width: 100%;
+    height: 3rem;
+    min-height: 3rem;
+    max-height: 3rem;
+    object-fit: contain;
     display: block;
   }
-  .niche-logo-wall__logo-slot--balanced .niche-logo-wall__svg-wrap :global(svg) {
-    max-width: 110px;
+  /* Industrial “engraved plate” typography for all inline wordmarks */
+  .niche-logo-wall__svg-wrap :global(svg text) {
+    font-family: Georgia, "Times New Roman", Times, serif !important;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .niche-logo-wall__card {
+      transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+    .niche-logo-wall__cell:hover .niche-logo-wall__card,
+    .niche-logo-wall__cell:focus-within .niche-logo-wall__card {
+      transform: none;
+    }
   }
 </style>
