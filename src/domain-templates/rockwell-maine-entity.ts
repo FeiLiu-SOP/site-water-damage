@@ -1,6 +1,8 @@
 /**
  * Rockwell Properties Maine — 主域 Hub（/roofing /plumbing /pestcontrol）实体与 JSON-LD 辅助。
  * NAP / sameAs / founder 以构建期环境变量为准，避免在仓库中硬编码未验证地址。
+ *
+ * 文件名避免 `*.com.ts`：Vite/Rollup 会把 `import ".../foo.com"` 解析成扩展名 `.com`，导致 Linux 构建失败。
  */
 
 import type { ActiveCollectionKey } from "../active-collection";
