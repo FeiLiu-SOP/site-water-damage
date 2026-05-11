@@ -98,6 +98,11 @@ function cityFromSlug(slugText: string) {
   return city ? titleCase(city) : null;
 }
 const pageCity = cityFromSlug(entrySlug);
+const trustDispatchPlace = pageCity?.trim() ? pageCity.trim() : "Area";
+const desktopDispatchZip =
+  String(pageLocation?.zip ?? post.data.zipCode ?? "")
+    .replace(/\D/g, "")
+    .slice(0, 5) || "00000";
 const stateCodeFromSlug = (() => {
   const m = entrySlug.match(/-([a-z]{2})-\d{5}$/i);
   return m ? m[1]!.toUpperCase() : null;
@@ -859,7 +864,10 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
       }
       .phone-btn,
       [class$="--phone-btn"] {
-        display: inline-block;
+        display: inline-flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
         margin-top: 0.45rem;
         background: #b91c1c;
         color: #fff;
@@ -870,12 +878,106 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
         border: none;
         transform-origin: center;
         animation: ctaUrgencyFlash 1.15s ease-in-out infinite, ctaPressurePulse 2.2s ease-in-out infinite;
+        box-sizing: border-box;
       }
-      .phone-btn:hover,
-      [class$="--phone-btn"]:hover {
-        background: #991b1b;
-        color: #fff;
-        text-decoration: none;
+      .phone-btn__main {
+        display: inline-flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        gap: 0.4rem;
+      }
+      .phone-btn__signal {
+        flex-shrink: 0;
+        display: none;
+        opacity: 0.95;
+      }
+      .phone-btn__label {
+        display: inline-block;
+      }
+      .phone-btn__trust {
+        display: none;
+        margin-top: 0.35rem;
+        padding: 0 0.25rem;
+        max-width: 100%;
+        font-size: 9px;
+        line-height: 1.35;
+        font-weight: 600;
+        color: rgba(255, 255, 255, 0.88);
+        text-align: center;
+      }
+      .national-dispatch-mobile-wrap {
+        display: block;
+      }
+      .phone-dispatch-zip-hint {
+        display: none;
+      }
+      @media (min-width: 1024px) {
+        .phone-btn,
+        [class$="--phone-btn"] {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          width: 100%;
+          max-width: 100%;
+          min-height: 5rem;
+          padding: 1.5rem 1.25rem;
+          font-size: 1.875rem;
+          font-weight: 800;
+          line-height: 1.12;
+          border-radius: 12px;
+          animation: none;
+          box-shadow:
+            0 10px 15px -3px rgb(15 23 42 / 0.12),
+            0 4px 6px -4px rgb(15 23 42 / 0.08);
+          cursor: pointer;
+          transition:
+            filter 0.2s ease,
+            box-shadow 0.2s ease,
+            background-color 0.2s ease;
+        }
+        .phone-btn:hover,
+        [class$="--phone-btn"]:hover {
+          filter: brightness(1.1);
+          background: #b91c1c;
+          color: #fff;
+          text-decoration: none;
+          box-shadow:
+            0 14px 22px -4px rgb(15 23 42 / 0.16),
+            0 6px 8px -5px rgb(15 23 42 / 0.1);
+        }
+        .phone-btn__signal {
+          display: block;
+          width: 1.25rem;
+          height: 1.25rem;
+        }
+        .phone-btn__trust {
+          display: block;
+          font-size: 10px;
+        }
+        .national-dispatch-mobile-wrap {
+          display: none;
+        }
+        .phone-dispatch-zip-hint {
+          display: block;
+          margin: 0.4rem 0 0;
+          padding: 0 0.15rem;
+          font-size: 10px;
+          line-height: 1.35;
+          font-weight: 700;
+          letter-spacing: 0.02em;
+          color: #64748b;
+          text-align: right;
+        }
+      }
+      @media (max-width: 1023px) {
+        .phone-btn:hover,
+        [class$="--phone-btn"]:hover {
+          background: #991b1b;
+          color: #fff;
+          text-decoration: none;
+        }
       }
       .dispatcher-hookup-line {
         margin: 0.55rem 0 0;
@@ -1205,10 +1307,34 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
           <p>{serviceLine}</p>
           <p class="service-meta">{ctaVariant.meta}</p>
           <TrustBar />
-          <a class={phoneBtnClass} href={telHref}>
-            {callBtnLabel}
+          <a class={phoneBtnClass} href={telHref} aria-label={`Call ${siteConfig.phoneDisplay}`}>
+            <span class="phone-btn__main">
+              <svg
+                class="phone-btn__signal"
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                width="20"
+                height="20"
+                aria-hidden="true"
+                focusable="false"
+              >
+                <g fill="currentColor">
+                  <rect x="3" y="14" width="3.2" height="6" rx="0.6"></rect>
+                  <rect x="8.1" y="11" width="3.2" height="9" rx="0.6"></rect>
+                  <rect x="13.2" y="8" width="3.2" height="12" rx="0.6"></rect>
+                  <rect x="18.3" y="5" width="3.2" height="15" rx="0.6"></rect>
+                </g>
+              </svg>
+              <span class="phone-btn__label">{callBtnLabel}</span>
+            </span>
+            <span class="phone-btn__trust">
+              National Dispatch Hub - Connecting to Local {trustDispatchPlace} Response Team.
+            </span>
           </a>
-          <NationalDispatchDisclaimer city={pageCity} />
+          <p class="phone-dispatch-zip-hint">Dispatching now for {desktopDispatchZip}</p>
+          <div class="national-dispatch-mobile-wrap">
+            <NationalDispatchDisclaimer city={pageCity} />
+          </div>
           <p class="dispatcher-hookup-line">
             Regional coordination desk ({dispatcherCountyLabel}): {dispatcherClaimsLine}
           </p>
