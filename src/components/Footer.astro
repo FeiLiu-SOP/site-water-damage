@@ -1,15 +1,21 @@
 ---
 import { getBrand, siteConfig } from "../site-config";
+import { ACTIVE_COLLECTION, type ActiveCollectionKey } from "../active-collection";
 
 type FooterLink = { href: string; label: string };
-const { extraLink, notice, variantSeed, auditStateCode, auditZipCode, auditNodeVersion } = Astro.props as {
+const { extraLink, notice, variantSeed, slug, auditStateCode, auditZipCode, auditNodeVersion, collectionKey } =
+  Astro.props as {
   extraLink?: FooterLink | null;
   notice?: string | null;
   variantSeed?: string | null;
+  /** Page slug; drives `stableHash(slug) % 5` compliance line picks (detail pages). */
+  slug?: string | null;
   /** Two-letter US state; with `auditZipCode` enables invisible audit-node fingerprint. */
   auditStateCode?: string | null;
   auditZipCode?: string | null;
   auditNodeVersion?: string | null;
+  /** Dev stewardship hub：与当前页 collection 对齐。 */
+  collectionKey?: ActiveCollectionKey | null;
 };
 
 function hostnameForBrand(astroHost: string): string {
@@ -31,17 +37,104 @@ function stableHash(input: string) {
   }
   return h >>> 0;
 }
-const seed = variantSeed ?? "footer";
-const pick = stableHash(seed) % 5;
+/** Per user spec: one bucket from slug (fallback when absent: variantSeed or static). */
+const variationKey = (slug?.trim() || variantSeed?.trim() || "footer") as string;
+const linePick = stableHash(variationKey) % 5;
 const baseUrl = import.meta.env.BASE_URL ?? "/";
 const logoSrc = `${baseUrl.endsWith("/") ? baseUrl : `${baseUrl}/`}bbb-a-plus.svg`;
-const footerLines = [
-  "Licensed & insured service coordination across the U.S.",
-  "Certified intake and insured dispatch coverage in multiple regions.",
-  "Qualified local service routing with insured scheduling support.",
-  "Licensed coverage coordination with transparent intake verification.",
-  "Insured dispatch network with licensed technician availability.",
+
+/** Per-vertical compliance copy (5 variants each) — index from `stableHash(variationKey) % 5`. */
+const NICHE_COMPLIANCE_LINES: Record<
+  ActiveCollectionKey,
+  readonly [string, string, string, string, string]
+> = {
+  roofing: [
+    "Roofing coordination disclosures: estimates depend on verified access, weather windows, and material lead times; not all slopes qualify for same-day tarping.",
+    "Roofing intake compliance: we route licensed contractors where available; manufacturer warranties remain separate from dispatch scheduling.",
+    "Roofing scope clarity: flashing, penetrations, and decking notes may change after on-roof inspection; pricing is confirmed before work authorization.",
+    "Roofing service boundaries: emergency triage prioritizes active leaks; cosmetic or deferred maintenance may be scheduled on a different timeline.",
+    "Roofing documentation: photo capture may be offered when available; insurance questions are informational and not a coverage determination.",
+  ],
+  plumbing: [
+    "Plumbing compliance: pressurized repairs require visible shutoff access; concealed leaks may need exploratory openings with revised scope.",
+    "Plumbing disclosures: code-minimum parts vs upgrade paths are reviewed before dispatch; permit needs vary by jurisdiction.",
+    "Plumbing intake: drain cleaning outcomes depend on line condition; jetting is not guaranteed where pipe integrity is unknown.",
+    "Plumbing safety: gas odor events require utility escalation first; this desk coordinates only after confirmed safe entry conditions.",
+    "Plumbing pricing: after-hours premiums and trip diagnostics may apply separately from quoted repair bundles.",
+  ],
+  pestcontrol: [
+    "Pest control compliance: treatment intervals follow label directions; tenant/HOA notice rules may apply before interior applications.",
+    "Pest disclosures: termite findings are not insurance endorsements; wood repair scopes are estimated separately from liquid treatments.",
+    "Pest routing: licensed applicators vary by county; same-week windows are not guaranteed during peak swarm seasons.",
+    "Pest safety: aquariums, bee allergies, and pet re-entry intervals must be confirmed during intake.",
+    "Pest documentation: service reports describe visible evidence only; hidden galleries may require follow-up inspection.",
+  ],
+  "water-damage": [
+    "Water mitigation compliance: drying goals use industry readings; demolition is limited to unsalvageable materials identified on site.",
+    "Restoration disclosures: mold sampling is not automatic; clearance steps depend on insurer protocol and local rules.",
+    "Emergency routing: standing water extraction prioritizes slip hazards; contents pack-outs may be deferred by capacity.",
+    "Billing clarity: carrier pay vs homeowner pay segments are separated before equipment set; documentation is client-provided.",
+    "Moisture monitoring: equipment rental days adjust with psychrometric progress; hidden cavities may extend timelines.",
+  ],
+  "siding-services": [
+    "Siding compliance: color lot matching is not guaranteed for partial elevations; HOA packets are homeowner-supplied.",
+    "Exterior disclosures: WRB continuity cannot be verified until strip-off; change orders follow visible substrate conditions.",
+    "Installation routing: scaffold and ladder-set days affect sequencing; cap metal may ship separately from panels.",
+    "Safety intake: silica controls apply to fiber cement cutting; jobsite containment may add setup time.",
+    "Warranty clarity: manufacturer wind ratings assume correct fastener schedules; field verification is part of final walkthrough.",
+  ],
+  "plumbing-v2": [
+    "Plumbing-v2 compliance: coastal humidity increases condensation risk; PRV settings are verified with gauge where accessible.",
+    "Intake disclosures: slab leaks may require listening equipment; repipe quotes exclude finish restoration unless noted.",
+    "Fixture scope: supply stops and angle valves are itemized separately from trap assemblies.",
+    "Water quality: filtration recommendations are educational; laboratory testing is not included in standard dispatch.",
+    "Scheduling: permit pulls for water heater replacements vary by AHJ; same-day swap is not universal.",
+  ],
+  "community-stewardship-water": [
+    "Stewardship water disclosures: figures are planning anchors only; field conditions and code rules may change scope after inspection.",
+    "Routing clarity: this page coordinates informational intake; licensed contractor assignment depends on coverage and licensing.",
+    "Pressure and chemistry: fixture and pipe recommendations assume normal municipal supply; private wells require separate testing.",
+    "Documentation: homeowner-supplied photos and shutoff locations improve estimate accuracy before dispatch.",
+    "Scheduling: same-week visits are not guaranteed when specialty parts or permit reviews are required.",
+  ],
+  "community-stewardship-siding": [
+    "Stewardship exterior disclosures: cladding plans assume visible conditions; strip-off may reveal substrate repairs not priced here.",
+    "HOA and color: lot matching and architectural review packets are homeowner-supplied unless noted in writing.",
+    "Weather windows: install sequencing may shift for wind, rain, or temperature manufacturer limits.",
+    "Safety: silica and cutting protocols apply to fiber cement; containment may add setup time to the schedule.",
+    "Warranty: manufacturer ratings assume correct fastener schedules verified during final walkthrough.",
+  ],
+  "community-stewardship-plumbing": [
+    "Stewardship plumbing disclosures: drain outcomes depend on line condition; hydro-jetting is not guaranteed where integrity is unknown.",
+    "Permits: water heater swaps and PRV changes may require AHJ approval; timelines exclude permit review delays.",
+    "Slab and concealed leaks: exploratory openings can revise scope; listening passes narrow but do not eliminate uncertainty.",
+    "Fixture scope: stops, supplies, and traps are itemized separately unless bundled in a written change order.",
+    "Water quality: hardness and scaling guidance is educational; lab testing is outside standard dispatch.",
+  ],
+};
+
+const nicheLineBucket =
+  NICHE_COMPLIANCE_LINES[(collectionKey ?? ACTIVE_COLLECTION) as ActiveCollectionKey] ?? NICHE_COMPLIANCE_LINES.roofing;
+const nicheComplianceLine = nicheLineBucket[linePick]!;
+
+const brandUpper = brand.name.toUpperCase();
+/** Placeholder `__BRAND__` = uppercased brand inside styled span. */
+const brandAuditLines = [
+  "Official Property Audit Node: __BRAND__ — routing reference only.",
+  "Property audit routing node: __BRAND__ (informational desk label).",
+  "Official audit-node label: __BRAND__ — not a field inspection report.",
+  "Audit coordination node: __BRAND__ — intake and scheduling context.",
+  "Registry-style audit node: __BRAND__ — documentation and dispatch alignment.",
 ] as const;
+
+const authorityAnchorLines = [
+  "Official Property Audit Node: FixitGrid: Nationwide Local Infrastructure & Home Repair Dispatch Network",
+  "Property audit node — FixitGrid nationwide infrastructure desk linking local repair dispatch partners.",
+  "Audit-node disclosure: FixitGrid coordinates nationwide local infrastructure and residential repair dispatch coverage.",
+  "FixitGrid audit routing: nationwide local-infrastructure and home-repair dispatch network (informational).",
+  "Official audit routing: FixitGrid — nationwide desk for local infrastructure and home repair dispatch alignment.",
+] as const;
+
 const verifyLines = [
   "Verification for Lead Smart: Fei Liu — April 6, 2026",
   "Lead Smart verification record: Fei Liu — Apr 6, 2026",
@@ -49,6 +142,13 @@ const verifyLines = [
   "Lead Smart compliance verification: Fei Liu — 06 Apr 2026",
   "Lead Smart verification entry: Fei Liu — April 2026",
 ] as const;
+
+const brandAuditHtml = brandAuditLines[linePick]!.replace(
+  "__BRAND__",
+  `<span class="brand-fingerprint-name">${brandUpper}</span>`,
+);
+const authorityAnchorLine = authorityAnchorLines[linePick]!;
+const verifyLine = verifyLines[linePick]!;
 ---
 <footer>
   <div
@@ -63,18 +163,15 @@ const verifyLines = [
       loading="lazy"
       decoding="async"
     />
-    <p class="brand-footer-text">
-      Official Property Audit Node:{" "}
-      <span class="brand-fingerprint-name">{brand.name.toUpperCase()}</span>
-    </p>
+    <p class="brand-footer-text" set:html={brandAuditHtml} />
     <p style="font-size: 14px; color: #555; margin: 16px 0 8px;">
-      {footerLines[pick]}
+      {nicheComplianceLine}
     </p>
     <p style="font-size: 12px; color: #999; margin: 0;">
-      {verifyLines[pick]}
+      {verifyLine}
     </p>
     <p class="footer-brand-authority-anchor">
-      Official Property Audit Node: FixitGrid: Nationwide Local Infrastructure &amp; Home Repair Dispatch Network
+      {authorityAnchorLine}
     </p>
     {notice ? (
       <p style="font-size: 12px; color: #666; margin: 10px 0 0;">
@@ -112,7 +209,6 @@ const verifyLines = [
       color: #94a3b8;
       font-weight: 700;
     }
-    /* text-[10px] text-gray-400 mt-4 text-center — 版权/验证行下方的品牌权威锚点（全站 Footer） */
     .footer-brand-authority-anchor {
       margin: 1rem auto 0;
       padding: 0 0.75rem;

@@ -13,6 +13,8 @@ interface Props {
   terrainRiskNotice?: string | null;
   /** Mitigation / compliance line below readout or fallback (water / plumbing hubs). */
   visualizedAssessmentLine?: string | null;
+  /** Newtown Fellowship：去工具化，以「Stewardship Provision Guide」呈现（与 FixitGrid 商业计算器隔离）。 */
+  presentation?: "value_protection" | "stewardship_provision_guide";
 }
 
 const {
@@ -23,9 +25,14 @@ const {
   domPrefix,
   terrainRiskNotice = null,
   visualizedAssessmentLine = null,
+  presentation = "value_protection",
 } = Astro.props;
+const isProvisionGuide = presentation === "stewardship_provision_guide";
 const rootId = domPrefix ? `${domPrefix}-value-calculator` : "value-calculator-root";
-const wrapClass = ["value-protection-calculator", domPrefix ? `${domPrefix}--value-calculator` : null].filter(Boolean);
+const wrapClass = [
+  isProvisionGuide ? "stewardship-provision-guide" : "value-protection-calculator",
+  domPrefix ? `${domPrefix}--value-calculator` : null,
+].filter(Boolean);
 
 const hasValue = typeof homeUsd === "number" && Number.isFinite(homeUsd) && homeUsd > 0;
 const formattedHome = hasValue
@@ -53,18 +60,37 @@ const initialStressIndex = stressIndexFromPct(defaultPct);
   style={`--vpc-accent:${accent};`}
   data-vpc-usd={hasValue ? String(Math.round(homeUsd!)) : ""}
   data-vpc-default-pct={String(defaultPct)}
+  data-module={isProvisionGuide ? "Stewardship_Provision_Guide" : undefined}
   aria-labelledby={`${rootId}-title`}
 >
   <div class="vpc-inner">
-    <h2 class="vpc-title" id={`${rootId}-title`}>Value Protection Calculator</h2>
+    <h2 class="vpc-title" id={`${rootId}-title`}>
+      {isProvisionGuide ? "Stewardship Provision Guide" : "Value Protection Calculator"}
+    </h2>
     <p class="vpc-lead">
-      First-screen asset anchor for {cityLine}
-      {zLabel ? (
-        <>
-          {" "}
-          <span class="vpc-zlabel">({zLabel} benchmark)</span>
-        </>
-      ) : null}
+      {
+        isProvisionGuide ? (
+          <>
+            Neighborhood maintenance planning context for {cityLine}
+            {zLabel ? (
+              <>
+                {" "}
+                <span class="vpc-zlabel">(Market Context Supplement)</span>
+              </>
+            ) : null}
+          </>
+        ) : (
+          <>
+            First-screen asset anchor for {cityLine}
+            {zLabel ? (
+              <>
+                {" "}
+                <span class="vpc-zlabel">({zLabel} benchmark)</span>
+              </>
+            ) : null}
+          </>
+        )
+      }
     </p>
     {terrainRiskNotice ? <p class="vpc-terrain-notice">{terrainRiskNotice}</p> : null}
     {
@@ -72,7 +98,9 @@ const initialStressIndex = stressIndexFromPct(defaultPct);
         <>
           <div class="vpc-metrics-row">
             <div class="vpc-hero-amount" style={`color:var(--vpc-accent,${accent});`}>
-              <span class="vpc-hero-label">Protected home value (aligned)</span>
+              <span class="vpc-hero-label">
+                {isProvisionGuide ? "Illustrative median housing context" : "Protected home value (aligned)"}
+              </span>
               <span class="vpc-hero-number">{formattedHome}</span>
             </div>
             <div
@@ -88,7 +116,11 @@ const initialStressIndex = stressIndexFromPct(defaultPct);
           </div>
           <div class="vpc-controls">
             <label class="vpc-range-label" for={`${rootId}-range`}>
-              Scenario stress — estimated exposure (%)
+              {
+                isProvisionGuide
+                  ? "Scenario stress — estimated maintenance burden (%)（预估维护负担）"
+                  : "Scenario stress — estimated exposure (%)"
+              }
             </label>
             <input
               id={`${rootId}-range`}
@@ -105,7 +137,11 @@ const initialStressIndex = stressIndexFromPct(defaultPct);
                 defaultPct > 10 ? "vpc-readout--mitigation-required" : null,
               ].filter(Boolean)}
             >
-              <span class="vpc-readout-label">Illustrative exposure at this stress</span>
+              <span class="vpc-readout-label">
+                {isProvisionGuide
+                  ? "Illustrative maintenance burden at this stress"
+                  : "Illustrative exposure at this stress"}
+              </span>
               <output class="vpc-readout-value" id={`${rootId}-out`} for={`${rootId}-range`}>
                 —
               </output>
@@ -115,15 +151,22 @@ const initialStressIndex = stressIndexFromPct(defaultPct);
             <p class="vpc-visualized-assessment">{visualizedAssessmentLine}</p>
           ) : null}
           <p class="vpc-foot">
-            Illustrative math only — call to scope real loss scenarios for your property.
+            {
+              isProvisionGuide
+                ? "Illustrative planning math only — not a repair quote, insurance estimate, or contractor bid."
+                : "Illustrative math only — call to scope real loss scenarios for your property."
+            }
           </p>
         </>
       ) : (
         <>
           <div class="vpc-fallback">
             <p class="vpc-fallback-text">
-              Local median benchmark not on file for this node. Call intake to align a protected-asset figure to your
-              address and coverage goals.
+              {
+                isProvisionGuide
+                  ? "Median context is not published on this page. Stewardship volunteers can help you locate public housing-data references for your neighborhood."
+                  : "Local median benchmark not on file for this node. Call intake to align a protected-asset figure to your address and coverage goals."
+              }
             </p>
           </div>
           {visualizedAssessmentLine ? (
@@ -145,6 +188,14 @@ const initialStressIndex = stressIndexFromPct(defaultPct);
 ) : null}
 
 <style>
+  .stewardship-provision-guide {
+    margin: 1rem 0 1.25rem;
+    border-radius: 14px;
+    border: 2px solid rgba(71, 85, 105, 0.22);
+    background: linear-gradient(145deg, #f8fafc 0%, #f1f5f9 55%, #e2e8f0 100%);
+    box-shadow: 0 10px 28px rgba(15, 23, 42, 0.08);
+    overflow: visible;
+  }
   .value-protection-calculator {
     margin: 1rem 0 1.25rem;
     border-radius: 14px;
@@ -277,6 +328,19 @@ const initialStressIndex = stressIndexFromPct(defaultPct);
     background: #0b1220;
     color: #e2e8f0;
     overflow: hidden;
+  }
+  .stewardship-provision-guide .vpc-readout--mitigation-required::before {
+    content: "[PLANNING NOTE: elevated maintenance burden]";
+    color: rgba(148, 163, 184, 0.72);
+    border-color: rgba(71, 85, 105, 0.55);
+    text-shadow: none;
+    background: repeating-linear-gradient(
+      -33deg,
+      rgba(226, 232, 240, 0.08),
+      rgba(226, 232, 240, 0.08) 1px,
+      transparent 1px,
+      transparent 3px
+    );
   }
   /** Authority-First: exposure >10% — stamp watermark on the readout (currency) layer only. */
   .vpc-readout--mitigation-required::before {

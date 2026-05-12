@@ -10,6 +10,10 @@ export interface Props {
   zip: string;
   nicheLabel: string;
   slugSeed: string;
+  /** Newtown Fellowship：非营利化吸底条（与 FixitGrid 商业 dock 隔离）。 */
+  stickyVariant?: "default" | "newtown_fellowship";
+  /** Dev stewardship hub：与当前页 collection 对齐（默认 = 构建期 ACTIVE_COLLECTION）。 */
+  collectionKey?: ActiveCollectionKey;
 }
 
 const BRAND_DISPLAY = "FixitGrid Local Dispatch Network";
@@ -24,6 +28,9 @@ const COLLECTION_COMMAND: Record<
   roofing: { left: "Roofing Audit", right: "Structural Command" },
   "siding-services": { left: "Envelope Audit", right: "Professional Retrofit" },
   pestcontrol: { left: "Eradication Unit", right: "Secure Property" },
+  "community-stewardship-water": { left: "Stewardship Desk", right: "Water Systems Intake" },
+  "community-stewardship-siding": { left: "Envelope Desk", right: "Exterior Intake" },
+  "community-stewardship-plumbing": { left: "Plumbing Desk", right: "Supply & Drain Intake" },
 };
 
 function viewerCount(seed: string): number {
@@ -34,10 +41,12 @@ function viewerCount(seed: string): number {
   return 2 + (h % 3);
 }
 
-const { city, zip, nicheLabel, slugSeed } = Astro.props;
+const { city, zip, nicheLabel, slugSeed, stickyVariant = "default", collectionKey } = Astro.props;
+const isNewtownFellowshipSticky = stickyVariant === "newtown_fellowship";
+const col = collectionKey ?? ACTIVE_COLLECTION;
 const brandRef = getBrand(Astro.url.hostname);
 const brandDisplay = BRAND_DISPLAY;
-const cmd = COLLECTION_COMMAND[ACTIVE_COLLECTION] ?? COLLECTION_COMMAND.roofing;
+const cmd = COLLECTION_COMMAND[col] ?? COLLECTION_COMMAND.roofing;
 const zipClean = zip.replace(/\D/g, "");
 const zipDisplay = zipClean.length === 5 ? zipClean : zip.trim() || "local";
 const zLabel = nicheLabel.trim() || "Service";
@@ -47,9 +56,24 @@ const phoneE164 = siteConfig.phoneE164.trim();
 const telHref = `tel:${phoneE164}`;
 ---
 
-<div class="dispatch-cmd-root" aria-hidden="false" title={`${brandRef.short} mobile dispatch`}>
+<div
+  class:list={["dispatch-cmd-root", isNewtownFellowshipSticky ? "dispatch-cmd-root--newtown-fellowship" : null]}
+  aria-hidden="false"
+  title={isNewtownFellowshipSticky ? "Newtown Fellowship community support" : `${brandRef.short} mobile dispatch`}
+>
   <div class="dispatch-cmd-ticker" role="status">
-    {zLabel} Asset at Risk in {zipDisplay} - {viewers} owners currently viewing this audit.
+    {
+      isNewtownFellowshipSticky ? (
+        <>
+          Market Context Supplement — educational housing stewardship briefing for {zipDisplay}. Not a live auction or
+          paid-service queue.
+        </>
+      ) : (
+        <>
+          {zLabel} Asset at Risk in {zipDisplay} - {viewers} owners currently viewing this audit.
+        </>
+      )
+    }
   </div>
   <div class="dispatch-cmd-bar">
     <div class="dispatch-cmd-bar-main">
@@ -62,13 +86,31 @@ const telHref = `tel:${phoneE164}`;
       <a
         class="dispatch-cmd-tel"
         href={telHref}
-        aria-label={`Call ${brandDisplay} — ${siteConfig.phoneDisplay}`}
+        aria-label={
+          isNewtownFellowshipSticky
+            ? `Community support line — ${siteConfig.phoneDisplay}`
+            : `Call ${brandDisplay} — ${siteConfig.phoneDisplay}`
+        }
       >
-        CALL
+        {isNewtownFellowshipSticky ? (
+          <span class="dispatch-cmd-tel-long">COMMUNITY SUPPORT LINE</span>
+        ) : (
+          "CALL"
+        )}
       </a>
     </div>
     <p class="dispatch-cmd-micro">
-      National Dispatch Hub - Connecting to Local {cityDisplay} Response Team.
+      {
+        isNewtownFellowshipSticky ? (
+          <>
+            Newtown Fellowship — volunteer neighbor-stewardship desk (informational routing only).
+          </>
+        ) : (
+          <>
+            National Dispatch Hub - Connecting to Local {cityDisplay} Response Team.
+          </>
+        )
+      }
     </p>
   </div>
 </div>
@@ -112,6 +154,17 @@ const telHref = `tel:${phoneE164}`;
     display: flex;
     flex-direction: column;
     align-items: stretch;
+  }
+  .dispatch-cmd-root--newtown-fellowship .dispatch-cmd-ticker {
+    background: #e2e8f0;
+    color: #334155;
+  }
+  .dispatch-cmd-root--newtown-fellowship .dispatch-cmd-bar {
+    background: #475569;
+  }
+  .dispatch-cmd-root--newtown-fellowship .dispatch-cmd-micro {
+    background: #475569;
+    color: rgba(248, 250, 252, 0.88);
   }
   .dispatch-cmd-bar-main {
     display: flex;
@@ -186,6 +239,19 @@ const telHref = `tel:${phoneE164}`;
     text-decoration: none;
     text-transform: uppercase;
     min-width: 0;
+  }
+  .dispatch-cmd-tel-long {
+    display: block;
+    text-align: center;
+    line-height: 1.05;
+    font-size: clamp(0.52rem, 2.35vw, 0.68rem);
+    letter-spacing: 0.04em;
+    padding: 0 0.15rem;
+    hyphens: auto;
+  }
+  .dispatch-cmd-root--newtown-fellowship .dispatch-cmd-tel {
+    background: #334155;
+    letter-spacing: 0.03em;
   }
   .dispatch-cmd-tel:hover,
   .dispatch-cmd-tel:focus-visible {

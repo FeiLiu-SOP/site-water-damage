@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from "astro:content";
 import Footer from "../components/Footer.astro";
+import FAQSection from "../components/FAQSection.astro";
 import Breadcrumbs from "../components/Breadcrumbs.astro";
 import LiveDispatchFeed from "../components/LiveDispatchFeed.astro";
 import MarketDataView from "../components/MarketDataView.astro";
@@ -28,31 +29,48 @@ import {
   REALTORS_AT_THE_BEACH_PLUMBING_V2,
 } from "../domain-templates/realtorsatthebeach.com-plumbing-v2";
 import { buildBreadcrumbListSchema, buildSlugPageBreadcrumbItems } from "../lib/breadcrumb-schema";
-import { getStatePhysicalEnvironmentFact } from "../lib/geo-facts";
+import { buildMicroGeoFingerprintLine, getStatePhysicalEnvironmentFact } from "../lib/geo-facts";
+import { pickTwoGeoDescriptors } from "../lib/geo-descriptor-lexicon";
+import { pickTwoMetaAnalysisLines } from "../lib/meta-analysis-lexicon";
 import {
   buildFaqSchema,
   buildLocalBusinessSchema,
+  buildNewtownFellowshipLocalBusinessSchema,
   buildPhysicalInfrastructureDatasetSchema,
   buildRegionalServiceAreaSchema,
-  getFaqByCollection,
 } from "../lib/seo";
+import { buildFaqSectionItems } from "../lib/faq-section-model";
+import { pickTwoEngineeringNoticeClauses } from "../lib/engineering-notice-lexicon";
+import { buildContextAwareSummary } from "../lib/context-aware-summary";
 import { resolvePageLocation } from "../lib/location";
 import {
   buildRockwellMaineEntityGraph,
   matchesRockwellMaine,
 } from "../domain-templates/rockwell-maine-entity";
+import { matchesNewtownFellowshipSite } from "../domain-templates/newtown-fellowship-site";
+import {
+  STEWARDSHIP_HUB_KEYS,
+  stewardshipDevHubMergeEnabled,
+} from "../lib/stewardship-dev-hub-paths";
 
 /** Physical-value tier: deterministic title/H1 (no stableHash) when home value clears bar. */
 const HIGH_VALUE_USD_TRIGGER = 300_000;
 
-/** Monorepo: water-damage vertical (sync with `sites/site-water-damage`). */
-const isWaterDamageHub = ACTIVE_COLLECTION === "water-damage";
-/** Monorepo: plumbing vertical (sync with `sites/site-plumbing`). */
-const isPlumbingHub = ACTIVE_COLLECTION === "plumbing";
-/** Rockwell roofing vertical (`sites/site-roofing` terrain-notice funnel). */
-const isRoofingHub = ACTIVE_COLLECTION === "roofing";
-
 export async function getStaticPaths() {
+  if (stewardshipDevHubMergeEnabled()) {
+    const out: {
+      params: { slug: string };
+      props: { stewardshipPageCollection: ActiveCollectionKey };
+    }[] = [];
+    for (const col of STEWARDSHIP_HUB_KEYS) {
+      const posts = await getCollection(col);
+      for (const post of posts) {
+        const slug = (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
+        out.push({ params: { slug }, props: { stewardshipPageCollection: col } });
+      }
+    }
+    return out;
+  }
   const posts = await getCollection(ACTIVE_COLLECTION);
   return posts.map((post) => ({
     params: { slug: (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "") },
@@ -60,12 +78,47 @@ export async function getStaticPaths() {
 }
 
 const { slug } = Astro.params;
-const posts = await getCollection(ACTIVE_COLLECTION);
+const routeProps = Astro.props as { stewardshipPageCollection?: ActiveCollectionKey };
+/** 本 URL 对应的内容集合（dev 三合一 hub 时由 getStaticPaths props 注入，否则等于构建期 ACTIVE_COLLECTION）。 */
+const PAGE_COLLECTION: ActiveCollectionKey = routeProps.stewardshipPageCollection ?? ACTIVE_COLLECTION;
+
+/** Monorepo: water-damage vertical (sync with `sites/site-water-damage`). */
+const isWaterDamageHub = PAGE_COLLECTION === "water-damage";
+/** Monorepo: plumbing vertical (sync with `sites/site-plumbing`). */
+const isPlumbingHub = PAGE_COLLECTION === "plumbing";
+/** Rockwell roofing vertical (`sites/site-roofing` terrain-notice funnel). */
+const isRoofingHub = PAGE_COLLECTION === "roofing";
+/** Community stewardship verticals (separate static Pages children; MD from `main.go`). */
+const isCommunityStewardshipWater = PAGE_COLLECTION === "community-stewardship-water";
+const isCommunityStewardshipSiding = PAGE_COLLECTION === "community-stewardship-siding";
+const isCommunityStewardshipPlumbing = PAGE_COLLECTION === "community-stewardship-plumbing";
+const isCommunityStewardshipHub =
+  isCommunityStewardshipWater || isCommunityStewardshipSiding || isCommunityStewardshipPlumbing;
+const heroAsWater = isWaterDamageHub || isCommunityStewardshipWater;
+const heroAsPlumbing = isPlumbingHub || isCommunityStewardshipPlumbing;
+
+const posts = await getCollection(PAGE_COLLECTION);
 const entrySlugParam = (slug ?? "").replace(/\.(md|mdx)$/i, "");
 const entry =
   posts.find((p) => (p.slug ?? p.id ?? "").replace(/\.(md|mdx)$/i, "") === entrySlugParam) ?? null;
 if (!entry) {
-  return new Response(null, { status: 404, statusText: "Not Found" });
+  const hubHint = stewardshipDevHubMergeEnabled()
+    ? ""
+    : ` 也可在 <strong>dev</strong> 下使用 <code>DEV_COMMUNITY_STEWARDSHIP_HUB=1</code> 并执行 <code>npm run dev:community-stewardship-hub:fast</code>，即可在同一端口打开 water / siding / plumbing 三个 slug。`;
+  const hint = `当前构建集合为 <code>${ACTIVE_COLLECTION}</code>，未找到 slug「${entrySlugParam}」。` +
+    `若这是 community-stewardship 详情，请先停掉 dev 再运行：` +
+    `<code>npm run dev:community-stewardship-water:fast</code>（或 siding / plumbing 对应脚本），再刷新本 URL。` +
+    hubHint;
+  return new Response(
+    `<!DOCTYPE html><html lang="zh-Hans"><head><meta charset="utf-8"><title>404 — 集合与 slug 不匹配</title></head>` +
+      `<body style="font-family:system-ui,sans-serif;padding:1.5rem;max-width:42rem;line-height:1.5">` +
+      `<h1>404 — 无此内容条目</h1><p>${hint}</p>` +
+      `<p><a href="${import.meta.env.BASE_URL ?? "/"}">返回首页</a></p></body></html>`,
+    {
+      status: 404,
+      headers: { "content-type": "text/html; charset=utf-8" },
+    },
+  );
 }
 const { Content } = await render(entry);
 const post = entry;
@@ -74,8 +127,12 @@ const entrySlug = (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
 const pageUrl = canonicalPageUrl(entrySlug);
 const pageNicheLabel = getNicheLabelForSeed(entrySlug);
 const isRockwellMaine = matchesRockwellMaine({ domainOrUrl: siteConfig.canonicalOrigin });
+const isNewtownFellowshipSite = matchesNewtownFellowshipSite({
+  canonicalOrigin: siteConfig.canonicalOrigin,
+  siteUrl: siteConfig.siteUrl,
+});
 const pageLocation = resolvePageLocation({
-  collection: ACTIVE_COLLECTION,
+  collection: PAGE_COLLECTION,
   title: post.data.title,
   slug: entrySlug,
   fmCity: post.data.city,
@@ -93,7 +150,7 @@ function cityFromSlug(slugText: string) {
   const m = slugText.match(/^(.*)-([a-z]{2})-(\d{5})$/i);
   if (!m) return null;
   let prefixAndCity = m[1]!;
-  const pfx = `${String(ACTIVE_COLLECTION)}-`.toLowerCase();
+  const pfx = `${String(PAGE_COLLECTION)}-`.toLowerCase();
   if (prefixAndCity.toLowerCase().startsWith(pfx)) {
     prefixAndCity = prefixAndCity.slice(pfx.length);
   }
@@ -112,7 +169,7 @@ const stateCodeFromSlug = (() => {
 })();
 /** US State service-area + FixitGrid provider; `url` = this page canonical (per-city, no cross-city bleed). */
 const regionalServiceSchema =
-  stateCodeFromSlug != null
+  !isNewtownFellowshipSite && stateCodeFromSlug != null
     ? buildRegionalServiceAreaSchema({ stateCode: stateCodeFromSlug, pageUrl })
     : null;
 /** Slug tail `…-{ST}-{ZIP}` — same source as audit-node ID / Dataset zip. */
@@ -124,7 +181,7 @@ const physicalDatasetCityLabel =
   pageCity ??
   ((typeof post.data.city === "string" ? post.data.city.replace(/\s+/g, " ").trim() : "") || "Local");
 const physicalInfrastructureDatasetSchema =
-  slugGeoTailForPhysical != null
+  !isNewtownFellowshipSite && slugGeoTailForPhysical != null
     ? buildPhysicalInfrastructureDatasetSchema({
         cityDisplay: physicalDatasetCityLabel,
         zip5: slugGeoTailForPhysical.zip,
@@ -180,7 +237,7 @@ function cityLabelFromEntry(entry: (typeof posts)[number]): string {
 
 /** Water-damage city pages: optional ledger (parity with `sites/site-water-damage` state hub). */
 const slugDispatchFeedRecords: DispatchFeedRecord[] = (() => {
-  if (!isWaterDamageHub || !stateCodeFromSlug) return [];
+  if ((!isWaterDamageHub && !isCommunityStewardshipWater) || !stateCodeFromSlug) return [];
   const st = stateCodeFromSlug.toUpperCase();
   const sameState = posts.filter((p) => {
     const s = (p.slug ?? p.id ?? "").replace(/\.(md|mdx)$/i, "");
@@ -197,7 +254,6 @@ const slugDispatchFeedRecords: DispatchFeedRecord[] = (() => {
     }));
 })();
 
-const faqItems = getFaqByCollection(ACTIVE_COLLECTION);
 function stableHash(input: string) {
   let h = 2166136261;
   for (let i = 0; i < input.length; i++) {
@@ -253,7 +309,7 @@ const zLabelExact =
         maximumFractionDigits: 0,
       }).format(zUsd)
     : null;
-const baitPickRaw = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|bait2`) % 3;
+const baitPickRaw = stableHash(`${PAGE_COLLECTION}|${entrySlug}|bait2`) % 3;
 const isFinancialPressureMode =
   zUsd != null &&
   zUsd >= HIGH_VALUE_USD_TRIGGER &&
@@ -274,6 +330,21 @@ const SERP_ASSET_DEFENSE_SERVICES: Record<ActiveCollectionKey, readonly string[]
   "water-damage": ["Emergency Water Damage (Rapid)", "Emergency Water Damage", "Water Damage"],
   "siding-services": ["Emergency Siding (Rapid Response)", "Emergency Siding", "Siding"],
   "plumbing-v2": ["Emergency Plumbing (Rapid Response)", "Emergency Plumbing", "Plumbing"],
+  "community-stewardship-water": [
+    "Emergency Water Stewardship (Rapid)",
+    "Water Stewardship",
+    "Water Systems",
+  ],
+  "community-stewardship-siding": [
+    "Emergency Exterior Stewardship (Rapid)",
+    "Exterior Stewardship",
+    "Siding",
+  ],
+  "community-stewardship-plumbing": [
+    "Emergency Plumbing Stewardship (Rapid)",
+    "Plumbing Stewardship",
+    "Plumbing",
+  ],
 };
 
 function clipAssetDefenseTitle60(
@@ -321,7 +392,7 @@ function clipAssetDefenseTitle60(
 }
 
 function buildAssetDefenseSerpTitle(): string {
-  const base = [...SERP_ASSET_DEFENSE_SERVICES[ACTIVE_COLLECTION]];
+  const base = [...SERP_ASSET_DEFENSE_SERVICES[PAGE_COLLECTION]];
   if (isFinancialPressureMode) {
     const short = base[base.length - 1] ?? "Service";
     base.unshift(`Critical ${short}`);
@@ -329,6 +400,24 @@ function buildAssetDefenseSerpTitle(): string {
   const r = baitPickRaw % Math.max(1, base.length);
   const rotated = [...base.slice(r), ...base.slice(0, r)];
   return clipAssetDefenseTitle60(zLabel, pageCity, rotated);
+}
+
+const NEWTOWN_OUTREACH_SERVICE_LABEL: Record<ActiveCollectionKey, string> = {
+  roofing: "Roofing",
+  plumbing: "Plumbing",
+  pestcontrol: "Pest Control",
+  "water-damage": "Water Recovery",
+  "siding-services": "Exterior",
+  "plumbing-v2": "Plumbing",
+  "community-stewardship-water": "Water Systems",
+  "community-stewardship-siding": "Exterior",
+  "community-stewardship-plumbing": "Plumbing",
+};
+
+function buildNewtownFellowshipSerpTitle(cityRaw: string | null, collection: ActiveCollectionKey): string {
+  const city = (cityRaw ?? "Local").replace(/\s+/g, " ").trim();
+  const svc = NEWTOWN_OUTREACH_SERVICE_LABEL[collection] ?? "Community";
+  return `${city} Community Outreach: ${svc} Stewardship & Support | Newtown Fellowship`;
 }
 
 const waterH1Lead = pageCity
@@ -375,11 +464,13 @@ function plumbingMetaLead(): string {
   return `Stop overpaying. Get upfront pricing and verified plumbing. No hidden dispatch fees. Emergency dispatch available 24/7.`;
 }
 
-/** `<title>`: `$XK Asset Defense: City Service | FixitGrid` — ≤60 chars; service truncates first. */
-const pageTitle = buildAssetDefenseSerpTitle();
+/** `<title>`: Rockwell 用 Asset Defense 压缩协议；Newtown Fellowship 禁用该语义轴。 */
+const pageTitle = isNewtownFellowshipSite
+  ? buildNewtownFellowshipSerpTitle(pageCity, PAGE_COLLECTION)
+  : buildAssetDefenseSerpTitle();
 
 /** Visible `<h1>` fallback */
-const pageH1Plain = isWaterDamageHub
+const pageH1Plain = heroAsWater
   ? zLabelExact && pageCity
     ? `${waterH1Lead}${pageCity} Emergency Dispatch - Protecting your ${zLabelExact} Asset`
     : zLabelExact
@@ -387,7 +478,7 @@ const pageH1Plain = isWaterDamageHub
       : pageCity
         ? `${waterH1Lead}${pageCity} Emergency Dispatch - Protecting your property`
         : `${waterH1Lead}${post.data.title}`
-  : isPlumbingHub
+  : heroAsPlumbing
     ? zLabelExact && pageCity
       ? `${h1ComplianceLead}${pageCity} Emergency Dispatch - Protecting your ${zLabelExact} Asset`
       : zLabelExact
@@ -403,7 +494,11 @@ const pageH1Plain = isWaterDamageHub
           ? `${pageCity} infrastructure stewardship — protecting your property systems`
           : post.data.title;
 
-const pageMetaDescriptionDefault = isWaterDamageHub
+const newtownStewardshipH1Line = `Zion Residential Stewardship - Empowering ${(pageCity ?? "Local").replace(/\s+/g, " ").trim()} Neighbors`;
+const newtownHeroSubline =
+  "Faith-rooted neighborhood education and voluntary housing stewardship — informational content only.";
+
+const pageMetaDescriptionDefault = heroAsWater
   ? clipMetaDescription(
       (() => {
         const lead = `${waterMetaLead()} ${PINTEREST_META_CTA} `;
@@ -420,7 +515,7 @@ const pageMetaDescriptionDefault = isWaterDamageHub
         return `${lead}${tail}`;
       })(),
     )
-  : isPlumbingHub
+  : heroAsPlumbing
     ? clipMetaDescription(
         (() => {
           const lead = `${plumbingMetaLead()} ${PINTEREST_META_CTA_PLUMBING} `;
@@ -450,13 +545,13 @@ const pageMetaDescriptionDefault = isWaterDamageHub
         })(),
       );
 
-const pageMetaDescription = isWaterDamageHub
+const pageMetaDescription = heroAsWater
   ? isFinancialPressureMode
     ? clipMetaDescription(
         `${waterMetaLead()} ${PINTEREST_META_CTA} Benchmark: ${zLabelExact}. Flood risk coordination and documented intake.`,
       )
     : pageMetaDescriptionDefault
-  : isPlumbingHub
+  : heroAsPlumbing
     ? isFinancialPressureMode
       ? clipMetaDescription(
           `${plumbingMetaLead()} ${PINTEREST_META_CTA_PLUMBING} Benchmark: ${zLabelExact}. Emergency plumbing audit coordination and documented intake.`,
@@ -467,21 +562,13 @@ const pageMetaDescription = isWaterDamageHub
           `Local ${pageCity} home value benchmark: ${zLabelExact}. Regional infrastructure maintenance coordination and documented intake.`,
         )
       : pageMetaDescriptionDefault;
-function pickFaqSubset<T>(items: T[], seedText: string, count: number): T[] {
-  const copy = [...items];
-  let seed = stableHash(seedText);
-  for (let i = copy.length - 1; i > 0; i--) {
-    seed = Math.imul(seed ^ (seed >>> 13), 1274126177) >>> 0;
-    const j = seed % (i + 1);
-    const a = copy[i]!;
-    const b = copy[j]!;
-    copy[i] = b;
-    copy[j] = a;
-  }
-  return copy.slice(0, Math.min(count, copy.length));
-}
-const faqCount = 3 + (stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|faqCount`) % 3); // 3–5
-const pageFaqItems = pickFaqSubset(faqItems, `${ACTIVE_COLLECTION}|${entrySlug}|faq`, faqCount);
+
+const pageMetaDescriptionResolved = isNewtownFellowshipSite
+  ? clipMetaDescription(
+      `501(c)(3) educational outreach with maintenance-burden illustrations for neighbors in ${pageCity ?? "this ZIP area"}. ${post.data.description}`,
+    )
+  : pageMetaDescription;
+
 const ctaVariants = [
   {
     title: `24/7 Local ${pageNicheLabel} Emergency Service`,
@@ -513,7 +600,7 @@ const serviceLineVariants = [
   `Regional service coordination for ${pageNicheLabel.toLowerCase()} requests with practical timelines and scope clarity.`,
 ];
 const serviceLine =
-  serviceLineVariants[stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|svcLine`) % serviceLineVariants.length]!;
+  serviceLineVariants[stableHash(`${PAGE_COLLECTION}|${entrySlug}|svcLine`) % serviceLineVariants.length]!;
 const callBtnVariants = [
   `Call now: ${siteConfig.phoneDisplay}`,
   `Tap to call: ${siteConfig.phoneDisplay}`,
@@ -522,7 +609,7 @@ const callBtnVariants = [
   `Phone support: ${siteConfig.phoneDisplay}`,
 ];
 const callBtnLabel =
-  callBtnVariants[stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|callBtn`) % callBtnVariants.length]!;
+  callBtnVariants[stableHash(`${PAGE_COLLECTION}|${entrySlug}|callBtn`) % callBtnVariants.length]!;
 const headerVariants = [
   `National ${pageNicheLabel} intake & regional coordination`,
   `${pageNicheLabel} service routing network`,
@@ -530,7 +617,7 @@ const headerVariants = [
   `${pageNicheLabel} scheduling & response hub`,
   `Regional ${pageNicheLabel} service access point`,
 ];
-const headerVariant = headerVariants[stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|header`) % headerVariants.length]!;
+const headerVariant = headerVariants[stableHash(`${PAGE_COLLECTION}|${entrySlug}|header`) % headerVariants.length]!;
 const faqTitleVariants = [
   "Frequently Asked Questions",
   "Service Questions and Answers",
@@ -538,7 +625,7 @@ const faqTitleVariants = [
   "Quick FAQ",
   "Help Center: FAQ",
 ] as const;
-const faqTitle = faqTitleVariants[stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|faqTitle`) % faqTitleVariants.length]!;
+const faqTitle = faqTitleVariants[stableHash(`${PAGE_COLLECTION}|${entrySlug}|faqTitle`) % faqTitleVariants.length]!;
 const geoTitleVariants = [
   "Regional Infrastructure Brief",
   "Regional service-area snapshot",
@@ -546,7 +633,7 @@ const geoTitleVariants = [
   "Site conditions overview",
   "Terrain & access context summary",
 ] as const;
-const geoTitle = geoTitleVariants[stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|geoTitle`) % geoTitleVariants.length]!;
+const geoTitle = geoTitleVariants[stableHash(`${PAGE_COLLECTION}|${entrySlug}|geoTitle`) % geoTitleVariants.length]!;
 const elevationLabelVariants = [
   "Elevation context",
   "Terrain elevation note",
@@ -555,7 +642,7 @@ const elevationLabelVariants = [
   "Topographic elevation note",
 ] as const;
 const elevationLabel =
-  elevationLabelVariants[stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|elevationLabel`) % elevationLabelVariants.length]!;
+  elevationLabelVariants[stableHash(`${PAGE_COLLECTION}|${entrySlug}|elevationLabel`) % elevationLabelVariants.length]!;
 const zipSnapshotVariants = [
   "ZIP sector snapshot (sampled):",
   "ZIP sector sample:",
@@ -564,7 +651,7 @@ const zipSnapshotVariants = [
   "Nearby ZIP snapshot:",
 ] as const;
 const zipSnapshotLabel =
-  zipSnapshotVariants[stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|zipSnapshot`) % zipSnapshotVariants.length]!;
+  zipSnapshotVariants[stableHash(`${PAGE_COLLECTION}|${entrySlug}|zipSnapshot`) % zipSnapshotVariants.length]!;
 const zipViewVariants = [
   "View ZIP list",
   "Open ZIP sample",
@@ -572,7 +659,7 @@ const zipViewVariants = [
   "Review ZIP sectors",
   "Show ZIP markers",
 ] as const;
-const zipViewLabel = zipViewVariants[stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|zipView`) % zipViewVariants.length]!;
+const zipViewLabel = zipViewVariants[stableHash(`${PAGE_COLLECTION}|${entrySlug}|zipView`) % zipViewVariants.length]!;
 const transitLabelVariants = [
   "Transit markers:",
   "Routing markers:",
@@ -581,7 +668,7 @@ const transitLabelVariants = [
   "Regional access notes:",
 ] as const;
 const transitLabel =
-  transitLabelVariants[stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|transitLabel`) % transitLabelVariants.length]!;
+  transitLabelVariants[stableHash(`${PAGE_COLLECTION}|${entrySlug}|transitLabel`) % transitLabelVariants.length]!;
 const transitViewVariants = [
   "View transit markers",
   "Open routing markers",
@@ -590,7 +677,7 @@ const transitViewVariants = [
   "Show access markers",
 ] as const;
 const transitViewLabel =
-  transitViewVariants[stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|transitView`) % transitViewVariants.length]!;
+  transitViewVariants[stableHash(`${PAGE_COLLECTION}|${entrySlug}|transitView`) % transitViewVariants.length]!;
 const relatedTitleVariants = [
   `Nearby recovery resources in ${stateCodeFromSlug ?? "your state"}`,
   `Regional cleanup options in ${stateCodeFromSlug ?? "your state"}`,
@@ -599,9 +686,9 @@ const relatedTitleVariants = [
   `Additional city coverage in ${stateCodeFromSlug ?? "your state"}`,
 ] as const;
 const relatedTitle =
-  relatedTitleVariants[stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|relatedTitle`) % relatedTitleVariants.length]!;
-const showFaq = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|showFaq`) % 10 >= 3;
-const showRelated = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|showRelated`) % 10 >= 3;
+  relatedTitleVariants[stableHash(`${PAGE_COLLECTION}|${entrySlug}|relatedTitle`) % relatedTitleVariants.length]!;
+const showFaq = stableHash(`${PAGE_COLLECTION}|${entrySlug}|showFaq`) % 10 >= 3;
+const showRelated = stableHash(`${PAGE_COLLECTION}|${entrySlug}|showRelated`) % 10 >= 3;
 const stateNotice = stateCodeFromSlug
   ? `Notice: This ${stateCodeFromSlug} page summarizes regional infrastructure maintenance coordination and local topographic context; it is not a government bulletin.`
   : "Notice: This page summarizes regional infrastructure maintenance coordination and local topographic context; it is not a government bulletin.";
@@ -621,7 +708,7 @@ const pageZipForPestPulse = (() => {
   return m?.[1] ?? null;
 })();
 const pestInsuranceEquityNote =
-  ACTIVE_COLLECTION === "pestcontrol"
+  PAGE_COLLECTION === "pestcontrol"
     ? (() => {
         const stateTok = stateCodeFromSlug
           ? stateLabelForBait(stateCodeFromSlug, post.data.state)
@@ -631,7 +718,7 @@ const pestInsuranceEquityNote =
       })()
     : null;
 const pestLatestDispatchLine =
-  ACTIVE_COLLECTION === "pestcontrol" && pageZipForPestPulse
+  PAGE_COLLECTION === "pestcontrol" && pageZipForPestPulse
     ? `Educational note for ZIP ${pageZipForPestPulse}: termite pressure varies by season—ask your coordinator for inspection-backed guidance (not a live incident feed).`
     : null;
 
@@ -645,6 +732,7 @@ const geo = {
   zipCodes: Array.isArray(post.data.zipCodes) ? post.data.zipCodes : undefined,
   localPaths: Array.isArray(post.data.localPaths) ? post.data.localPaths : undefined,
 };
+const geoDescriptorPair = pickTwoGeoDescriptors(entrySlug, PAGE_COLLECTION);
 const stateGeoFact = getStatePhysicalEnvironmentFact(stateCodeFromSlug);
 const geoCoordsLine =
   geo.county && typeof geo.lat === "number" && typeof geo.lng === "number"
@@ -663,46 +751,37 @@ const localPathsText =
     ? `Regional access notes: ${geo.localPaths.slice(0, 5).join(", ")}.`
     : null;
 
-function addendumForFaq(seedText: string) {
-  const pool = [
-    geo.county ? `Local note: County context — ${geo.county}.` : null,
-    geo.zipSample?.length ? `Local note: Sample ZIP sectors — ${(geo.zipSample ?? []).slice(0, 5).join(", ")}.` : null,
-    stateCodeFromSlug ? `Local note: State routing node — ${stateCodeFromSlug}.` : null,
-    typeof geo.lat === "number" && typeof geo.lng === "number"
-      ? `Local note: Coordinate anchor — ${geo.lat.toFixed(4)}, ${geo.lng.toFixed(4)}.`
-      : null,
-    geo.localPaths?.length ? `Local note: Transit markers — ${(geo.localPaths ?? []).slice(0, 2).join("; ")}.` : null,
-  ].filter(Boolean) as string[];
-  if (!pool.length) return null;
-  return stableHash(seedText) % 2 === 0 ? pool[stableHash(seedText + "|p") % pool.length]! : null;
-}
-
-const pageFaqItemsFinal = pageFaqItems.map((item, idx) => {
-  const add = addendumForFaq(`${ACTIVE_COLLECTION}|${entrySlug}|faqAdd|${idx}`);
-  return {
-    question: item.question,
-    answer: add ? `${item.answer} ${add}` : item.answer,
-  };
+const pageFaqItemsForPage = buildFaqSectionItems({
+  collection: PAGE_COLLECTION,
+  entrySlug,
+  stateCode: stateCodeFromSlug,
+  geo: {
+    county: geo.county,
+    zipSample: geo.zipSample,
+    lat: geo.lat,
+    lng: geo.lng,
+    localPaths: geo.localPaths,
+  },
 });
 
 const enableRealtorsAtTheBeachWaterDamageIsolation = matchesRealtorsAtTheBeachWaterDamage({
   domainOrUrl: siteConfig.canonicalOrigin,
-  activeCollection: ACTIVE_COLLECTION,
+  activeCollection: PAGE_COLLECTION,
 });
 
-const themeAccent = ACTIVE_COLLECTION === "plumbing-v2"
+const themeAccent = PAGE_COLLECTION === "plumbing-v2"
   ? REALTORS_AT_THE_BEACH_PLUMBING_V2.theme.accent
   : enableRealtorsAtTheBeachWaterDamageIsolation
     ? REALTORS_AT_THE_BEACH_WATER_DAMAGE.theme.accent
     : "#1d4ed8";
 
-const themeFontFamily = ACTIVE_COLLECTION === "plumbing-v2"
+const themeFontFamily = PAGE_COLLECTION === "plumbing-v2"
   ? REALTORS_AT_THE_BEACH_PLUMBING_V2.theme.fontFamily
   : enableRealtorsAtTheBeachWaterDamageIsolation
     ? REALTORS_AT_THE_BEACH_WATER_DAMAGE.theme.fontFamily
     : 'Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif';
 
-const domPrefix = ACTIVE_COLLECTION === "plumbing-v2"
+const domPrefix = PAGE_COLLECTION === "plumbing-v2"
   ? `${REALTORS_AT_THE_BEACH_PLUMBING_V2.domPrefixBase}-${stableHash(
       `${siteConfig.canonicalOrigin}|${entrySlug}|dom`,
     )}`
@@ -725,19 +804,27 @@ const faqTitleId = domPrefix ? `${domPrefix}-faq-title` : "faq-title";
 
 const localBusinessSchema = isRockwellMaine
   ? buildRockwellMaineEntityGraph({
-      collection: ACTIVE_COLLECTION,
-      pageDescription: pageMetaDescription,
+      collection: PAGE_COLLECTION,
+      pageDescription: pageMetaDescriptionResolved,
       pageUrl,
       location: pageLocation,
     })
-  : buildLocalBusinessSchema({
-      collection: ACTIVE_COLLECTION,
-      pageTitle,
-      pageDescription: pageMetaDescription,
-      pageUrl,
-      location: pageLocation,
-    });
-const faqSchema = buildFaqSchema(pageFaqItemsFinal);
+  : isNewtownFellowshipSite
+    ? buildNewtownFellowshipLocalBusinessSchema({
+        collection: PAGE_COLLECTION,
+        pageTitle,
+        pageDescription: pageMetaDescriptionResolved,
+        pageUrl,
+        location: pageLocation,
+      })
+    : buildLocalBusinessSchema({
+        collection: PAGE_COLLECTION,
+        pageTitle,
+        pageDescription: pageMetaDescriptionResolved,
+        pageUrl,
+        location: pageLocation,
+      });
+const faqSchema = buildFaqSchema(pageFaqItemsForPage);
 
 const breadcrumbListSchema = buildBreadcrumbListSchema(
   buildSlugPageBreadcrumbItems({
@@ -749,33 +836,89 @@ const breadcrumbListSchema = buildBreadcrumbListSchema(
   }),
 );
 
-// Action 3: stable DOM section randomizer for 4 blocks (content / geo / faq / related)
-const blocks = ["content", "geo", "faq", "related"] as const;
-const visibleBlocks = blocks.filter((k) => {
-  if (k === "faq") return showFaq;
-  if (k === "related") return showRelated;
-  return true;
+/** Per-page root class token for scoped skin (no generic `container`). */
+const layoutRootClass = `c${(stableHash(`${entrySlug}|pseoRoot`) >>> 0).toString(16).padStart(8, "0")}`;
+
+/** Fisher–Yates (seeded) shuffle — seed from slug for layout decoupling. */
+function fisherYatesLayoutKeys<T extends string>(keys: T[], seedStr: string): T[] {
+  const arr = [...keys];
+  let s = stableHash(seedStr);
+  for (let i = arr.length - 1; i > 0; i--) {
+    s = Math.imul(s ^ (s >>> 11), 2654435761) >>> 0;
+    const j = s % (i + 1);
+    const a = arr[i]!;
+    const b = arr[j]!;
+    arr[i] = b;
+    arr[j] = a;
+  }
+  return arr;
+}
+
+/** Per-section CSS jitter token (valid class lead char). */
+function sectionShellClass(slug: string, sectionKey: string): string {
+  const n = stableHash(`${slug}|${sectionKey}|jit`);
+  return `jit${(n >>> 0).toString(16).padStart(8, "0").slice(0, 7)}`;
+}
+
+function slotShell(sectionKey: string): string {
+  return `${layoutRootClass}__shell-${sectionKey} ${sectionShellClass(entrySlug, sectionKey)}`;
+}
+
+type LayoutSlot =
+  | "risk"
+  | "vpc"
+  | "logos"
+  | "market"
+  | "faq"
+  | "geo"
+  | "cas"
+  | "service"
+  | "article"
+  | "related"
+  | "microgeo";
+
+const layoutPool: LayoutSlot[] = ["risk", "vpc", "logos", "cas", "service", "article", "microgeo"];
+if (zUsd != null) layoutPool.push("market");
+if (showFaq) layoutPool.push("faq");
+if (showGeoSection) layoutPool.push("geo");
+if (showRelated) layoutPool.push("related");
+const layoutOrder = fisherYatesLayoutKeys(layoutPool, entrySlug);
+
+const contextAwareSummaryText = buildContextAwareSummary({
+  seedSlug: entrySlug,
+  collectionKey: PAGE_COLLECTION,
+  nicheLabel: pageNicheLabel,
+  zip5: desktopDispatchZip,
+  stateCode: stateCodeFromSlug,
+  cityDisplay: pageCity,
 });
-const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
-  ? REALTORS_AT_THE_BEACH_PLUMBING_V2.blockOrder.filter((k) => visibleBlocks.includes(k))
-  : enableRealtorsAtTheBeachWaterDamageIsolation
-  ? REALTORS_AT_THE_BEACH_WATER_DAMAGE.blockOrder.filter((k) => visibleBlocks.includes(k))
-  : (() => {
-      const orderSeed = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|order`);
-      const order = [...visibleBlocks];
-      {
-        let s = orderSeed;
-        for (let i = order.length - 1; i > 0; i--) {
-          s = Math.imul(s ^ (s >>> 13), 1274126177) >>> 0;
-          const j = s % (i + 1);
-          const a = order[i]!;
-          const b = order[j]!;
-          order[i] = b;
-          order[j] = a;
-        }
-      }
-      return order;
-    })();
+
+const casTitleId = domPrefix ? `${domPrefix}-cas-title` : "cas-title";
+
+const layoutSkinCss = (() => {
+  const L = layoutRootClass;
+  return [
+    `.${L}{width:min(800px,92vw);margin:2rem auto;background:#fff;border-radius:12px;padding:2rem 1.25rem;box-shadow:0 8px 30px rgba(2,6,23,0.08)}`,
+    `.${L} [class*="${L}__shell-"]{display:block}`,
+    `.${L}__hero{background:#fefce8;border-bottom:1px solid #fde68a;padding:1rem 1.25rem 1.15rem;margin:0 0 1rem;border-radius:0 0 10px 10px}`,
+    `.${L}__hero h1{margin:0;line-height:1.28;font-size:clamp(1.35rem,2.8vw,1.85rem)}`,
+    `.${L}__hero h1 + p{margin-top:0.45rem !important}`,
+    `.${L}__shell-cas .${L}__cas{margin:0;padding:0;border:none;background:transparent}`,
+    `.${L}__cas{border:1px solid #cbd5e1;background:#f8fafc;border-radius:10px;padding:0.85rem 1rem;margin:0}`,
+    `.${L}__cas-h{font-size:1.05rem;margin:0 0 0.45rem;color:#0f172a;font-weight:700}`,
+    `.${L}__cas-body{margin:0;font-size:0.9rem;line-height:1.58;color:#334155;text-align:left}`,
+  ].join("");
+})();
+const metaAnalysisPair = pickTwoMetaAnalysisLines(entrySlug, PAGE_COLLECTION);
+const engineeringNoticeClauses = pickTwoEngineeringNoticeClauses(entrySlug, PAGE_COLLECTION);
+const engineeringNoticePlace = pageCity?.trim() || "this area";
+
+const microGeoLine = buildMicroGeoFingerprintLine({
+  cityDisplay: physicalDatasetCityLabel,
+  elevationFt: typeof post.data.elevationFt === "number" ? post.data.elevationFt : null,
+  seed: entrySlug,
+});
+
 ---
 
 <html
@@ -787,7 +930,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="google-site-verification" content="e8639489520c639b" />
     <title>{pageTitle}</title>
-    <meta name="description" content={pageMetaDescription} />
+    <meta name="description" content={pageMetaDescriptionResolved} />
     <meta name="robots" content={siteConfig.robotsContent} />
     {post.data.templateVersion ? (
       <meta name="template-version" content={post.data.templateVersion} />
@@ -796,13 +939,15 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
     <script type="application/ld+json" set:html={JSON.stringify(breadcrumbListSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(localBusinessSchema)} />
     {
-      regionalServiceSchema ? (
+      !isNewtownFellowshipSite && regionalServiceSchema ? (
         <script type="application/ld+json" set:html={JSON.stringify(regionalServiceSchema)} />
       ) : null
     }
-    <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+    {!isNewtownFellowshipSite ? (
+      <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+    ) : null}
     {
-      physicalInfrastructureDatasetSchema ? (
+      !isNewtownFellowshipSite && physicalInfrastructureDatasetSchema ? (
         <script
           type="application/ld+json"
           set:html={JSON.stringify(physicalInfrastructureDatasetSchema)}
@@ -830,14 +975,6 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
       }
       a:hover {
         text-decoration: underline;
-      }
-      main {
-        width: min(800px, 92vw);
-        margin: 2rem auto;
-        background: #fff;
-        border-radius: 12px;
-        padding: 2rem 1.25rem;
-        box-shadow: 0 8px 30px rgba(2, 6, 23, 0.08);
       }
       h1 {
         line-height: 1.2;
@@ -1021,6 +1158,22 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
         color: #475569;
         line-height: 1.4;
       }
+      .outreach-grant-compliance-disclaimer {
+        box-sizing: border-box;
+        width: min(800px, 92vw);
+        margin: 0 auto 0.75rem;
+        padding: 0.45rem 0.75rem;
+        border-radius: 8px;
+        border: 1px solid #e2e8f0;
+        background: #f8fafc;
+      }
+      .outreach-grant-compliance-disclaimer p {
+        margin: 0;
+        font-size: 0.68rem;
+        line-height: 1.45;
+        color: #64748b;
+        letter-spacing: 0.01em;
+      }
       .faq,
       [class$="--faq"] {
         margin-top: 2rem;
@@ -1064,6 +1217,37 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
         margin: 0.4rem 0;
         color: #334155;
       }
+      .geo-brief-descriptor,
+      [class$="--geo-brief"] .geo-brief-descriptor {
+        margin: 0.45rem 0 0;
+        font-size: 0.82rem;
+        line-height: 1.45;
+        color: #475569;
+      }
+      .micro-geo-fingerprint-line {
+        margin: 1.25rem 0 0;
+        padding-top: 0.75rem;
+        border-top: 1px solid #e2e8f0;
+        font-size: 0.75rem;
+        line-height: 1.45;
+        color: #64748b;
+      }
+      .meta-analysis-wrap {
+        margin: 0 0 0.85rem;
+        padding: 0.65rem 0.75rem;
+        border-radius: 8px;
+        border: 1px dashed #cbd5e1;
+        background: #fafbfc;
+      }
+      .meta-analysis-line {
+        margin: 0.35rem 0 0;
+        font-size: 0.8rem;
+        line-height: 1.45;
+        color: #475569;
+      }
+      .meta-analysis-line:first-child {
+        margin-top: 0;
+      }
     </style>
     <!-- Markdown 由 <Content /> 注入，子节点无本页 scoped 属性；用 is:global + 固定 id，避免 dev/HMR 下偶发“正文像空白”（与 build 静态 HTML 一致） -->
     <style is:global>
@@ -1072,8 +1256,8 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
         overflow-wrap: anywhere;
         word-break: break-word;
       }
-      /* Engineering Notice: always first paragraph emitted by generator */
-      [id$="article-md-body"] p:first-child {
+      /* Dynamic Engineering Notice (SSR); hide generator first paragraph still in markdown */
+      [id$="article-md-body"] .engineering-notice-dynamic {
         font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New",
           monospace;
         font-size: 0.92rem;
@@ -1085,9 +1269,12 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
         padding: 0.75rem 0.9rem;
         margin: 0 0 1rem;
       }
-      [id$="article-md-body"] p:first-child strong {
+      [id$="article-md-body"] .engineering-notice-dynamic strong {
         color: #f8fafc;
         font-weight: 700;
+      }
+      [id$="article-md-body"] .engineering-notice-dynamic + p {
+        display: none !important;
       }
       [id$="article-md-body"] p {
         display: block;
@@ -1104,41 +1291,19 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
         font-size: 1.1em;
         text-decoration: underline;
       }
-      .hero-flood-alert-band {
-        background: #fefce8;
-        border-bottom: 1px solid #fde68a;
-        padding: 1rem 1.25rem 1.15rem;
-        margin: 0 0 1rem;
-        border-radius: 0 0 10px 10px;
-      }
-      .hero-flood-alert-band h1 {
-        margin: 0;
-        line-height: 1.28;
-        font-size: clamp(1.35rem, 2.8vw, 1.85rem);
-      }
-      .hero-flood-alert-band h1 + p {
-        margin-top: 0.45rem !important;
-      }
     </style>
+    <style is:global set:html={layoutSkinCss} />
   </head>
   <body>
-    <main>
+    <main class={layoutRootClass}>
       <article>
         {
-          isWaterDamageHub ? (
+          heroAsWater ? (
             <>
-              <OfficialRiskNodeHeader />
-              <ValueProtectionCalculator
-                homeUsd={zUsd}
-                zLabel={zLabel}
-                city={pageCity}
-                accent={themeAccent}
-                domPrefix={domPrefix}
-                visualizedAssessmentLine={waterVisualLine}
-              />
-              <NichePartnerLogos />
-              {pestInsuranceEquityNote ? <p class="pest-equity-insurance-note">{pestInsuranceEquityNote}</p> : null}
-              <section class="hero-flood-alert-band" aria-label="Service area headline">
+              {pestInsuranceEquityNote && !isNewtownFellowshipSite ? (
+                <p class="pest-equity-insurance-note">{pestInsuranceEquityNote}</p>
+              ) : null}
+              <section class={`${layoutRootClass}__hero`} aria-label="Service area headline">
                 <Breadcrumbs
                   homeHref={internalPath()}
                   stateLabel={stateCodeFromSlug}
@@ -1146,7 +1311,9 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
                   cityLabel={pageCity}
                 />
                 <h1>
-                  {zLabelExact ? (
+                  {isNewtownFellowshipSite ? (
+                    newtownStewardshipH1Line
+                  ) : zLabelExact ? (
                     pageCity ? (
                       <>
                         {waterH1Lead}
@@ -1167,7 +1334,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
                   )}
                 </h1>
                 <p style="margin: 0.25rem 0 0; color: #475569; font-size: 0.98rem;">
-                  {headerVariant}
+                  {isNewtownFellowshipSite ? newtownHeroSubline : headerVariant}
                 </p>
               </section>
               {slugDispatchFeedRecords.length > 0 ? (
@@ -1176,35 +1343,17 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
                   title={`${stateCodeFromSlug ?? ""} Dispatch Activity Feed`}
                 />
               ) : null}
-              {zUsd != null ? (
-                <MarketDataView
-                  seed={entrySlug}
-                  city={pageCity}
-                  state={stateCodeFromSlug}
-                  zip={pageLocation?.zip ?? null}
-                  homeUsd={zUsd}
-                  elevationFt={typeof post.data.elevationFt === "number" ? post.data.elevationFt : undefined}
-                  county={post.data.county as string | undefined}
-                  accent={themeAccent}
-                />
-              ) : null}
             </>
-          ) : isPlumbingHub ? (
+          ) : heroAsPlumbing ? (
             <>
-              <OfficialRiskNodeHeader />
-              <ValueProtectionCalculator
-                homeUsd={zUsd}
-                zLabel={zLabel}
-                city={pageCity}
-                accent={themeAccent}
-                domPrefix={domPrefix}
-                visualizedAssessmentLine={plumbingVisualLine}
-              />
-              <NichePartnerLogos />
-              {pestInsuranceEquityNote ? <p class="pest-equity-insurance-note">{pestInsuranceEquityNote}</p> : null}
-              <section class="hero-flood-alert-band" aria-label="Service area headline">
+              {pestInsuranceEquityNote && !isNewtownFellowshipSite ? (
+                <p class="pest-equity-insurance-note">{pestInsuranceEquityNote}</p>
+              ) : null}
+              <section class={`${layoutRootClass}__hero`} aria-label="Service area headline">
                 <h1>
-                  {isFinancialPressureMode && zLabelExact && pageCity ? (
+                  {isNewtownFellowshipSite ? (
+                    newtownStewardshipH1Line
+                  ) : isFinancialPressureMode && zLabelExact && pageCity ? (
                     <>
                       {h1ComplianceLead}
                       {"URGENT: "}
@@ -1232,230 +1381,306 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
                   )}
                 </h1>
                 <p style="margin: 0.25rem 0 0; color: #475569; font-size: 0.98rem;">
-                  {headerVariant}
+                  {isNewtownFellowshipSite ? newtownHeroSubline : headerVariant}
                 </p>
               </section>
-              {zUsd != null ? (
-                <MarketDataView
-                  seed={entrySlug}
-                  city={pageCity}
-                  state={stateCodeFromSlug}
-                  zip={pageLocation?.zip ?? null}
-                  homeUsd={zUsd}
-                  elevationFt={typeof post.data.elevationFt === "number" ? post.data.elevationFt : undefined}
-                  county={post.data.county as string | undefined}
-                  accent={themeAccent}
-                />
-              ) : null}
             </>
           ) : (
             <>
-              {isFinancialPressureMode ? null : (
-                <>
-                  <OfficialRiskNodeHeader />
-                  <ValueProtectionCalculator
-                    homeUsd={zUsd}
-                    zLabel={zLabel}
-                    city={pageCity}
-                    accent={themeAccent}
-                    domPrefix={domPrefix}
-                    terrainRiskNotice={roofTerrainNotice}
-                  />
-                  <NichePartnerLogos />
-                </>
-              )}
-              {pestInsuranceEquityNote ? <p class="pest-equity-insurance-note">{pestInsuranceEquityNote}</p> : null}
-              <section class="hero-flood-alert-band" aria-label="Service area headline">
+              {pestInsuranceEquityNote && !isNewtownFellowshipSite ? (
+                <p class="pest-equity-insurance-note">{pestInsuranceEquityNote}</p>
+              ) : null}
+              <section class={`${layoutRootClass}__hero`} aria-label="Service area headline">
                 <h1>
-                  {
-                    isFinancialPressureMode ? (
+                  {isNewtownFellowshipSite ? (
+                    newtownStewardshipH1Line
+                  ) : isFinancialPressureMode ? (
+                    <>
+                      {`${pageCity} ${pageNicheLabel} - Property Protection: `}
+                      <span class="h1-zmoney">{zLabelExact}</span>
+                    </>
+                  ) : zLabelExact ? (
+                    pageCity ? (
                       <>
-                        {`${pageCity} ${pageNicheLabel} - Property Protection: `}
+                        {`${pageCity} infrastructure stewardship — `}
                         <span class="h1-zmoney">{zLabelExact}</span>
+                        {" median context"}
                       </>
-                    ) : zLabelExact ? (
-                      pageCity ? (
-                        <>
-                          {`${pageCity} infrastructure stewardship — `}
-                          <span class="h1-zmoney">{zLabelExact}</span>
-                          {" median context"}
-                        </>
-                      ) : (
-                        <>
-                          {"Infrastructure stewardship — "}
-                          <span class="h1-zmoney">{zLabelExact}</span>
-                          {" median context"}
-                        </>
-                      )
                     ) : (
-                      pageH1Plain
+                      <>
+                        {"Infrastructure stewardship — "}
+                        <span class="h1-zmoney">{zLabelExact}</span>
+                        {" median context"}
+                      </>
                     )
-                  }
+                  ) : (
+                    pageH1Plain
+                  )}
                 </h1>
                 <p style="margin: 0.25rem 0 0; color: #475569; font-size: 0.98rem;">
-                  {headerVariant}
+                  {isNewtownFellowshipSite ? newtownHeroSubline : headerVariant}
                 </p>
               </section>
-              {isFinancialPressureMode ? (
-                <>
-                  <OfficialRiskNodeHeader />
-                  <ValueProtectionCalculator
-                    homeUsd={zUsd}
-                    zLabel={zLabel}
-                    city={pageCity}
-                    accent={themeAccent}
-                    domPrefix={domPrefix}
-                    terrainRiskNotice={roofTerrainNotice}
-                  />
-                  <NichePartnerLogos />
-                </>
-              ) : null}
-              {zUsd != null ? (
-                <MarketDataView
-                  seed={entrySlug}
-                  city={pageCity}
-                  state={stateCodeFromSlug}
-                  zip={pageLocation?.zip ?? null}
-                  homeUsd={zUsd}
-                  elevationFt={typeof post.data.elevationFt === "number" ? post.data.elevationFt : undefined}
-                  county={post.data.county as string | undefined}
-                  accent={themeAccent}
-                />
-              ) : null}
             </>
           )
         }
-        <div class={serviceInfoClass}>
-          <h2>{ctaVariant.title}</h2>
-          <p>{serviceLine}</p>
-          <p class="service-meta">{ctaVariant.meta}</p>
-          <TrustBar />
-          <a class={phoneBtnClass} href={telHref} aria-label={`Call ${siteConfig.phoneDisplay}`}>
-            <span class="phone-btn__main">
-              <svg
-                class="phone-btn__signal"
-                xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 24 24"
-                width="20"
-                height="20"
-                aria-hidden="true"
-                focusable="false"
-              >
-                <g fill="currentColor">
-                  <rect x="3" y="14" width="3.2" height="6" rx="0.6"></rect>
-                  <rect x="8.1" y="11" width="3.2" height="9" rx="0.6"></rect>
-                  <rect x="13.2" y="8" width="3.2" height="12" rx="0.6"></rect>
-                  <rect x="18.3" y="5" width="3.2" height="15" rx="0.6"></rect>
-                </g>
-              </svg>
-              <span class="phone-btn__label">{callBtnLabel}</span>
-            </span>
-            <span class="phone-btn__trust">
-              National Dispatch Hub - Connecting to Local {trustDispatchPlace} Response Team.
-            </span>
-          </a>
-          <p class="phone-dispatch-zip-hint">Dispatching now for {desktopDispatchZip}</p>
-          <div class="national-dispatch-mobile-wrap">
-            <NationalDispatchDisclaimer city={pageCity} />
-          </div>
-          <p class="dispatcher-hookup-line">
-            Regional coordination desk ({dispatcherCountyLabel}): {dispatcherClaimsLine}
-          </p>
-          {pestLatestDispatchLine ? <p class="pest-zip-dispatch-pulse">{pestLatestDispatchLine}</p> : null}
-        </div>
         {
-          blockOrder.map((k) => {
-            if (k === "content") {
+          layoutOrder.map((slot) => {
+            if (slot === "risk") {
               return (
-                <div id={articleBodyId} class={articleBodyClass}>
-                  <Content />
+                <div class={slotShell("risk")}>
+                  <OfficialRiskNodeHeader zipCode={desktopDispatchZip} />
                 </div>
               );
             }
-            if (k === "geo") {
-              return showGeoSection ? (
-                <section class={geoBriefClass} aria-labelledby={geoBriefTitleId}>
-                  <h2 id={geoBriefTitleId}>{geoTitle}</h2>
-                  {geoCoordsLine ? <p>{geoCoordsLine}</p> : null}
-                  {geoPhysicalEnvLine ? <p>{geoPhysicalEnvLine}</p> : null}
-                  {localPathsText ? <p>{localPathsText}</p> : null}
-                  {geo.elevationFt ? (
-                    <p>
-                      {elevationLabel}: {geo.elevationFt} ft (reference band).
-                    </p>
-                  ) : null}
-                  {geo.zipCodes?.length ? (
-                    <div>
-                      <p style="margin-bottom: 0.25rem;">{zipSnapshotLabel}</p>
-                      <details>
-                        <summary style="cursor: pointer; font-weight: 600;">
-                          {zipViewLabel} ({geo.zipCodes.slice(0, 12).length})
-                        </summary>
-                        <ul style="margin: 0.55rem 0 0; padding-left: 1.25rem;">
-                          {geo.zipCodes.slice(0, 12).map((z) => (
-                            <li>{z}</li>
-                          ))}
-                        </ul>
-                      </details>
-                    </div>
-                  ) : null}
-                  {geo.localPaths?.length ? (
-                    <div style="margin-top: 0.65rem;">
-                      <p style="margin-bottom: 0.25rem;">{transitLabel}</p>
-                      <details>
-                        <summary style="cursor: pointer; font-weight: 600;">
-                          {transitViewLabel} ({geo.localPaths.slice(0, 5).length})
-                        </summary>
-                        <ul style="margin: 0.55rem 0 0; padding-left: 1.25rem;">
-                          {geo.localPaths.slice(0, 5).map((p) => (
-                            <li>{p}</li>
-                          ))}
-                        </ul>
-                      </details>
-                    </div>
-                  ) : null}
-                </section>
+            if (slot === "vpc") {
+              return (
+                <div class={slotShell("vpc")}>
+                  <ValueProtectionCalculator
+                    homeUsd={zUsd}
+                    zLabel={zLabel}
+                    city={pageCity}
+                    accent={themeAccent}
+                    domPrefix={domPrefix}
+                    presentation={
+                      isNewtownFellowshipSite ? "stewardship_provision_guide" : "value_protection"
+                    }
+                    visualizedAssessmentLine={
+                      isNewtownFellowshipSite
+                        ? null
+                        : heroAsWater
+                          ? waterVisualLine
+                          : heroAsPlumbing
+                            ? plumbingVisualLine
+                            : null
+                    }
+                    terrainRiskNotice={
+                      isNewtownFellowshipSite ? null : !heroAsWater && !heroAsPlumbing ? roofTerrainNotice : null
+                    }
+                  />
+                </div>
+              );
+            }
+            if (slot === "logos") {
+              return (
+                <div class={slotShell("logos")}>
+                  <NichePartnerLogos collectionKey={PAGE_COLLECTION} />
+                </div>
+              );
+            }
+            if (slot === "market") {
+              return zUsd != null ? (
+                <div class={slotShell("market")}>
+                  <MarketDataView
+                    seed={entrySlug}
+                    city={pageCity}
+                    state={stateCodeFromSlug}
+                    zip={pageLocation?.zip ?? null}
+                    homeUsd={zUsd}
+                    elevationFt={typeof post.data.elevationFt === "number" ? post.data.elevationFt : undefined}
+                    county={post.data.county as string | undefined}
+                    accent={themeAccent}
+                    medianContextCardTitle={isNewtownFellowshipSite ? "Market Context Supplement" : null}
+                  />
+                </div>
               ) : null;
             }
-            if (k === "faq") {
+            if (slot === "faq") {
               return showFaq ? (
-                <section class={faqClass} aria-labelledby={faqTitleId}>
-                  <h2 id={faqTitleId}>{faqTitle}</h2>
-                  {pageFaqItemsFinal.map((item) => (
-                    <details>
-                      <summary>{item.question}</summary>
-                      <p>{item.answer}</p>
-                    </details>
-                  ))}
-                </section>
+                <div class={slotShell("faq")}>
+                  <FAQSection
+                    items={pageFaqItemsForPage}
+                    faqClass={`${faqClass} ${layoutRootClass}__faq`}
+                    faqTitle={faqTitle}
+                    faqTitleId={faqTitleId}
+                  />
+                </div>
               ) : null;
             }
-            return showRelated ? (
-              <RelatedCities
-                currentSlug={entrySlug}
-                state={stateCodeFromSlug}
-                domPrefix={domPrefix}
-                themeAccent={themeAccent}
-                titleText={relatedTitle}
-              />
-            ) : null;
+            if (slot === "geo") {
+              return showGeoSection ? (
+                <div class={slotShell("geo")}>
+                  <section class={`${layoutRootClass}__geo ${geoBriefClass}`} aria-labelledby={geoBriefTitleId}>
+                    <h2 id={geoBriefTitleId}>{geoTitle}</h2>
+                    {geoCoordsLine ? <p>{geoCoordsLine}</p> : null}
+                    {geoPhysicalEnvLine ? <p>{geoPhysicalEnvLine}</p> : null}
+                    {localPathsText ? <p>{localPathsText}</p> : null}
+                    {geo.elevationFt ? (
+                      <p>
+                        {elevationLabel}: {geo.elevationFt} ft (reference band).
+                      </p>
+                    ) : null}
+                    <p class="geo-brief-descriptor">{geoDescriptorPair[0]}</p>
+                    <p class="geo-brief-descriptor">{geoDescriptorPair[1]}</p>
+                    {geo.zipCodes?.length ? (
+                      <div>
+                        <p style="margin-bottom: 0.25rem;">{zipSnapshotLabel}</p>
+                        <details>
+                          <summary style="cursor: pointer; font-weight: 600;">
+                            {zipViewLabel} ({geo.zipCodes.slice(0, 12).length})
+                          </summary>
+                          <ul style="margin: 0.55rem 0 0; padding-left: 1.25rem;">
+                            {geo.zipCodes.slice(0, 12).map((z) => (
+                              <li>{z}</li>
+                            ))}
+                          </ul>
+                        </details>
+                      </div>
+                    ) : null}
+                    {geo.localPaths?.length ? (
+                      <div style="margin-top: 0.65rem;">
+                        <p style="margin-bottom: 0.25rem;">{transitLabel}</p>
+                        <details>
+                          <summary style="cursor: pointer; font-weight: 600;">
+                            {transitViewLabel} ({geo.localPaths.slice(0, 5).length})
+                          </summary>
+                          <ul style="margin: 0.55rem 0 0; padding-left: 1.25rem;">
+                            {geo.localPaths.slice(0, 5).map((p) => (
+                              <li>{p}</li>
+                            ))}
+                          </ul>
+                        </details>
+                      </div>
+                    ) : null}
+                  </section>
+                </div>
+              ) : null;
+            }
+            if (slot === "cas") {
+              return (
+                <div class={slotShell("cas")}>
+                  <section class={`${layoutRootClass}__cas`} aria-labelledby={casTitleId}>
+                    <h2 id={casTitleId} class={`${layoutRootClass}__cas-h`}>
+                      Context-Aware Summary
+                    </h2>
+                    <p class={`${layoutRootClass}__cas-body`}>{contextAwareSummaryText}</p>
+                  </section>
+                </div>
+              );
+            }
+            if (slot === "service") {
+              return (
+                <div class={slotShell("service")}>
+                  <div class={`${layoutRootClass}__svc-wrap ${serviceInfoClass}`}>
+                    <h2>{ctaVariant.title}</h2>
+                    <p>{serviceLine}</p>
+                    <p class="service-meta">{ctaVariant.meta}</p>
+                    <TrustBar collectionKey={PAGE_COLLECTION} />
+                    <a class={phoneBtnClass} href={telHref} aria-label={`Call ${siteConfig.phoneDisplay}`}>
+                      <span class="phone-btn__main">
+                        <svg
+                          class="phone-btn__signal"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 24 24"
+                          width="20"
+                          height="20"
+                          aria-hidden="true"
+                          focusable="false"
+                        >
+                          <g fill="currentColor">
+                            <rect x="3" y="14" width="3.2" height="6" rx="0.6"></rect>
+                            <rect x="8.1" y="11" width="3.2" height="9" rx="0.6"></rect>
+                            <rect x="13.2" y="8" width="3.2" height="12" rx="0.6"></rect>
+                            <rect x="18.3" y="5" width="3.2" height="15" rx="0.6"></rect>
+                          </g>
+                        </svg>
+                        <span class="phone-btn__label">{callBtnLabel}</span>
+                      </span>
+                      <span class="phone-btn__trust">
+                        National Dispatch Hub - Connecting to Local {trustDispatchPlace} Response Team.
+                      </span>
+                    </a>
+                    <p class="phone-dispatch-zip-hint">Dispatching now for {desktopDispatchZip}</p>
+                    <div class="national-dispatch-mobile-wrap">
+                      <NationalDispatchDisclaimer city={pageCity} slug={entrySlug} />
+                    </div>
+                    <p class="dispatcher-hookup-line">
+                      Regional coordination desk ({dispatcherCountyLabel}): {dispatcherClaimsLine}
+                    </p>
+                    {pestLatestDispatchLine ? <p class="pest-zip-dispatch-pulse">{pestLatestDispatchLine}</p> : null}
+                  </div>
+                </div>
+              );
+            }
+            if (slot === "article") {
+              return (
+                <div class={slotShell("article")}>
+                  <div id={articleBodyId} class={`${articleBodyClass} ${layoutRootClass}__article`}>
+                    <div class={slotShell("meta")}>
+                      <aside class={`${layoutRootClass}__meta meta-analysis-wrap`} aria-label="Meta-analysis supplement">
+                        <p class="meta-analysis-line">{metaAnalysisPair[0]}</p>
+                        <p class="meta-analysis-line">{metaAnalysisPair[1]}</p>
+                      </aside>
+                    </div>
+                    <p class="engineering-notice-dynamic">
+                      <strong>Engineering Notice for {engineeringNoticePlace}:</strong>{" "}
+                      {engineeringNoticeClauses[0]} {engineeringNoticeClauses[1]}
+                    </p>
+                    <Content />
+                  </div>
+                </div>
+              );
+            }
+            if (slot === "related") {
+              return showRelated ? (
+                <div class={slotShell("related")}>
+                  <RelatedCities
+                    currentSlug={entrySlug}
+                    state={stateCodeFromSlug}
+                    domPrefix={domPrefix}
+                    themeAccent={themeAccent}
+                    titleText={relatedTitle}
+                    originLat={typeof post.data.lat === "number" ? post.data.lat : null}
+                    originLng={typeof post.data.lng === "number" ? post.data.lng : null}
+                    collectionKey={PAGE_COLLECTION}
+                  />
+                </div>
+              ) : null;
+            }
+            if (slot === "microgeo") {
+              return (
+                <div class={slotShell("microgeo")}>
+                  <p class={`${layoutRootClass}__micro micro-geo-fingerprint-line`}>{microGeoLine}</p>
+                </div>
+              );
+            }
+            return null;
           })
         }
       </article>
     </main>
+    {
+      isCommunityStewardshipHub ? (
+        <aside
+          class="outreach-grant-compliance-disclaimer"
+          role="note"
+          aria-label="Infrastructure and data disclosure"
+        >
+          <p>
+            Technical risk assessment infrastructure and localized data telemetry provided by the Rockwell
+            Infrastructure Group via a digital outreach grant. For immediate physical mitigation, our community desk
+            routes inquiries through verified response networks.
+          </p>
+        </aside>
+      ) : null
+    }
     <Footer
       extraLink={footerExtraLink}
       notice={stateNotice}
-      variantSeed={`${ACTIVE_COLLECTION}|${entrySlug}|footer`}
+      variantSeed={`${PAGE_COLLECTION}|${entrySlug}|footer`}
+      slug={entrySlug}
       auditStateCode={slugGeoTailForPhysical?.state}
       auditZipCode={slugGeoTailForPhysical?.zip}
       auditNodeVersion={auditNodeFingerprintVersion}
+      collectionKey={PAGE_COLLECTION}
     />
     <DispatchCommandBar
       city={pageLocation?.city ?? pageCity ?? "Local"}
       zip={(pageLocation?.zip ?? String(post.data.zipCode ?? "").trim()) || "00000"}
       nicheLabel={pageNicheLabel}
       slugSeed={entrySlug}
+      stickyVariant={isNewtownFellowshipSite ? "newtown_fellowship" : "default"}
+      collectionKey={PAGE_COLLECTION}
     />
   </body>
 </html>

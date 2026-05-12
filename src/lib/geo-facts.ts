@@ -280,3 +280,48 @@ export function getStatePhysicalEnvironmentFact(stateCode: string | null | undef
   const key = stateCode.trim().toUpperCase();
   return STATE_PHYSICAL_ENVIRONMENT[key] ?? DEFAULT_FACT;
 }
+
+/** Deterministic mix-ins for per-page HTML fingerprinting (not a field survey). */
+const DRAINAGE_ARCHETYPES = [
+  "sheet-flow toward the nearest perennial channel",
+  "dendritic upland drainage with low-order tributary incision",
+  "till-mantled interfluve with seasonal perched saturation",
+  "coastal-plain sheetwash with tidal backwater influence",
+  "karst-influenced subsurface routing in soluble bedrock",
+  "alluvial-fan distributary channels with episodic aggradation",
+  "lacustrine-margin swales and closed depressions",
+  "glaciofluvial terrace scarps with spring-line seepage",
+] as const;
+
+function stableHashGeo(input: string) {
+  let h = 2166136261;
+  for (let i = 0; i < input.length; i++) {
+    h ^= input.charCodeAt(i);
+    h = Math.imul(h, 16777619);
+  }
+  return h >>> 0;
+}
+
+export function pickDrainageArchetype(seed: string): string {
+  const idx = stableHashGeo(`${seed}|drainage`) % DRAINAGE_ARCHETYPES.length;
+  return DRAINAGE_ARCHETYPES[idx]!;
+}
+
+/**
+ * Single-line “micro semantic” footer for pSEO fingerprint variance.
+ * When `elevationFt` is absent, elevation is a deterministic terrain-model-style integer (not a cadastral measurement).
+ */
+export function buildMicroGeoFingerprintLine(params: {
+  cityDisplay: string;
+  elevationFt?: number | null;
+  seed: string;
+}): string {
+  const city = params.cityDisplay.replace(/\s+/g, " ").trim() || "Local";
+  const drainage = pickDrainageArchetype(params.seed);
+  const hasElev =
+    typeof params.elevationFt === "number" && Number.isFinite(params.elevationFt) && params.elevationFt > 0;
+  const elevFt = hasElev
+    ? Math.round(params.elevationFt!)
+    : 95 + (stableHashGeo(`${params.seed}|amsl`) % 11840);
+  return `${city} elevation detail: ${elevFt} ft AMSL. Drainage pattern: ${drainage}.`;
+}

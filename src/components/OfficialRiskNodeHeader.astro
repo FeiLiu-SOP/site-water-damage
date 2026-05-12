@@ -3,7 +3,14 @@
  * Brand verification anchor above Value Protection Calculator (Pinterest / search parity).
  * 全站统一 FixitGrid（不再按域名分叉 Rockwell / Realtors）。
  */
-const line = "Official Node: FixitGrid Local Dispatch Network";
+const { zipCode } = Astro.props as { zipCode?: string | null | undefined };
+const zip5 = String(zipCode ?? "")
+  .replace(/\D/g, "")
+  .slice(0, 5);
+const line =
+  zip5.length === 5
+    ? `Official Node: FixitGrid Local Dispatch Network · ZIP ${zip5}`
+    : "Official Node: FixitGrid Local Dispatch Network";
 ---
 
 <div class="brand-verification-anchor" role="region" aria-label={line}>

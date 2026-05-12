@@ -1,8 +1,12 @@
 ---
 import { ACTIVE_COLLECTION, type ActiveCollectionKey } from "../active-collection";
 
+interface Props {
+  collectionKey?: ActiveCollectionKey;
+}
+
 function trustCopy(collection: ActiveCollectionKey): string {
-  if (collection === "water-damage") {
+  if (collection === "water-damage" || collection === "community-stewardship-water") {
     return "● Direct Insurance Billing | ● $0 Out-of-Pocket | ● IICRC Certified";
   }
   if (collection === "pestcontrol") {
@@ -11,7 +15,8 @@ function trustCopy(collection: ActiveCollectionKey): string {
   return "● $0 Dispatch Fee | ● Upfront Pricing | ● Licensed & Insured";
 }
 
-const text = trustCopy(ACTIVE_COLLECTION);
+const { collectionKey } = Astro.props as Props;
+const text = trustCopy(collectionKey ?? ACTIVE_COLLECTION);
 ---
 
 <p class="trust-bar">{text}</p>

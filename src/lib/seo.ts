@@ -605,6 +605,132 @@ const FAQ_BY_COLLECTION: Record<ActiveCollectionKey, FaqItem[]> = {
         "Yes. Impact patterns, corner damage, and accessory metal deformation are commonly triaged for urgent versus deferred work.",
     },
   ],
+  "community-stewardship-water": [
+    {
+      question: "Do you help with water damage cleanup and drying coordination?",
+      answer:
+        "Yes. Service coordination can support water extraction, drying planning, and next-step remediation guidance.",
+    },
+    {
+      question: "Can you respond to burst pipe or appliance leak damage?",
+      answer:
+        "Yes. Common calls involve burst pipes, supply-line failures, and appliance leaks affecting floors or walls.",
+    },
+    {
+      question: "Do you also handle fire and smoke damage situations?",
+      answer:
+        "Yes. Post-fire cleanup coordination may include smoke damage review, debris removal planning, and restoration scheduling.",
+    },
+    {
+      question: "Is mold remediation included when moisture damage is discovered?",
+      answer:
+        "In many cases, yes. Mold remediation planning may follow after moisture mapping and containment review.",
+    },
+    {
+      question: "Can you inspect wet drywall, insulation, and flooring?",
+      answer:
+        "Yes. Inspection requests often include drywall, insulation, flooring, trim, and subfloor moisture concerns.",
+    },
+    {
+      question: "How quickly should water damage be addressed?",
+      answer:
+        "As soon as possible. Faster drying and mitigation usually helps reduce secondary damage and longer restoration timelines.",
+    },
+    {
+      question: "Do you coordinate moisture readings and drying goals?",
+      answer:
+        "Yes. Moisture readings and drying targets are commonly used to guide extraction and equipment planning.",
+    },
+    {
+      question: "Can hidden moisture behind walls or cabinets be checked?",
+      answer:
+        "Yes. Depending on access, hidden moisture areas may be reviewed when damage spreads beyond visible surfaces.",
+    },
+  ],
+  "community-stewardship-siding": [
+    {
+      question: "Do you coordinate siding installation and repair planning?",
+      answer:
+        "Yes. Installation sequencing, flashing transitions, and weather barrier continuity are commonly reviewed before work begins.",
+    },
+    {
+      question: "Can you review drainage planes behind cladding systems?",
+      answer:
+        "Yes. WRB laps, tape continuity, and penetration sealing are typical inspection points when panels are removed.",
+    },
+    {
+      question: "Are trim and fascia details included in exterior scope notes?",
+      answer:
+        "Often, yes. Trim transitions and fascia conditions may be documented alongside field panel plans.",
+    },
+    {
+      question: "Can you help prioritize repairs after hail or wind events?",
+      answer:
+        "Yes. Impact patterns, corner damage, and accessory metal deformation are commonly triaged for urgent versus deferred work.",
+    },
+    {
+      question: "Do you discuss starter strip alignment and first-course exposure?",
+      answer:
+        "Yes. Starter geometry affects lap lines, drip performance, and long-wall appearance, so it is usually confirmed early.",
+    },
+    {
+      question: "Can metal head flashing and sill pan details be included in the scope?",
+      answer:
+        "Yes. Opening protection details are frequently itemized separately from field panel installation.",
+    },
+    {
+      question: "Will timeline expectations be shared before dispatch?",
+      answer:
+        "Yes. Timing and material lead-time expectations are commonly discussed before scheduling is confirmed.",
+    },
+    {
+      question: "Can ventilation and soffit edges be reviewed during exterior work?",
+      answer:
+        "Yes. Soffit and vent edges may be reviewed as part of a broader exterior inspection when relevant.",
+    },
+  ],
+  "community-stewardship-plumbing": [
+    {
+      question: "Do you coordinate sump pump repair and discharge line checks?",
+      answer:
+        "Yes. Basin level, check valve orientation, and backup power options are commonly reviewed before recommending repairs.",
+    },
+    {
+      question: "Can you help with main water line replacement planning?",
+      answer:
+        "Yes. Material age, curb-stop access, and trenchless versus open-cut options are often compared with written scope notes.",
+    },
+    {
+      question: "Is professional drain cleaning available for recurring clogs?",
+      answer:
+        "Yes. Branch-line cabling, camera passes, and hydro-jetting may be sequenced based on line condition and access.",
+    },
+    {
+      question: "Do you inspect water heater connections and relief discharge paths?",
+      answer:
+        "Yes. Supply shutoffs, expansion tank pre-charge, and T&P routing are typical review points during service planning.",
+    },
+    {
+      question: "Can slab leak symptoms be triaged before invasive demolition?",
+      answer:
+        "Often, yes. Listening windows, pressure holds, and moisture mapping may be used to narrow the search area.",
+    },
+    {
+      question: "Do you handle hydro-jetting for grease-heavy kitchen lines?",
+      answer:
+        "In many cases, yes. Nozzle selection and pressure envelopes are adjusted to protect older DWV materials.",
+    },
+    {
+      question: "Are PRV (pressure-reducing valve) adjustments part of scope discussions?",
+      answer:
+        "Yes. Static and dynamic pressure readings may inform whether a PRV service or replacement is appropriate.",
+    },
+    {
+      question: "Can you document cleanout locations for future maintenance?",
+      answer:
+        "Yes. Access riser heights, interior finishes, and exterior markers are often noted for repeat service efficiency.",
+    },
+  ],
 };
 
 export function getFaqByCollection(collection: ActiveCollectionKey): FaqItem[] {
@@ -649,6 +775,54 @@ export function buildLocalBusinessSchema(params: {
     areaServed,
     serviceType,
     knowsAbout: [collection, serviceType, "Emergency service"],
+  };
+}
+
+/** Newtown Fellowship：精简 LocalBusiness，声明 501(c)(3) 语境（与商业站 JSON-LD 隔离）。 */
+export function buildNewtownFellowshipLocalBusinessSchema(params: {
+  collection: ActiveCollectionKey;
+  pageTitle: string;
+  pageDescription: string;
+  pageUrl: string;
+  location?: ParsedLocation | null;
+}): Record<string, unknown> {
+  const { collection, pageTitle, pageDescription, pageUrl, location } = params;
+  const telephone = normalizePhoneE164(siteConfig.phoneE164);
+
+  const areaServed = location
+    ? {
+        "@type": "Place",
+        name: `${location.city}, ${location.state}`,
+        address: {
+          "@type": "PostalAddress",
+          addressLocality: location.city,
+          addressRegion: location.state,
+          postalCode: location.zip,
+          addressCountry: "US",
+        },
+      }
+    : {
+        "@type": "Country",
+        name: "US",
+      };
+
+  return {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    name: pageTitle,
+    description: pageDescription,
+    url: pageUrl,
+    telephone,
+    areaServed,
+    /** schema.org 枚举：非营利身份（与架构师指令对齐，使用 http URI） */
+    nonprofitStatus: "http://schema.org/Nonprofit501c3",
+    serviceType: "Community outreach and housing stewardship education",
+    knowsAbout: [
+      collection,
+      "501(c)(3) educational outreach",
+      "Neighborhood stewardship",
+      "Informational housing context",
+    ],
   };
 }
 

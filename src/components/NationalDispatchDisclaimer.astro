@@ -1,15 +1,37 @@
 ---
 interface Props {
   city: string | null;
+  /** Drives `stableHash(slug) % 5` line pick; falls back to place label when omitted. */
+  slug?: string | null;
 }
 
-const { city } = Astro.props;
+function stableHash(input: string) {
+  let h = 2166136261;
+  for (let i = 0; i < input.length; i++) {
+    h ^= input.charCodeAt(i);
+    h = Math.imul(h, 16777619);
+  }
+  return h >>> 0;
+}
+
+const { city, slug } = Astro.props;
 const place = city?.trim() ? city.trim() : "Area";
+const variationKey = (slug?.trim() || place) as string;
+const linePick = stableHash(variationKey) % 5;
+
+/** Five equivalent disclosures; `__PLACE__` = localized area label. */
+const LINE_TEMPLATES = [
+  "National Dispatch Hub - Connecting to Local __PLACE__ Response Team.",
+  "Nationwide dispatch desk — aligning your request with a __PLACE__ area response crew.",
+  "Central dispatch routing: we bridge the intake queue to __PLACE__ local responders.",
+  "National coordination hub: intake is matched to an on-call __PLACE__ response unit.",
+  "Dispatch hub (national scope): connects this session to __PLACE__ field-response coverage.",
+] as const;
+
+const disclaimerText = LINE_TEMPLATES[linePick]!.replace("__PLACE__", place);
 ---
 
-<p class="national-dispatch-disclaimer">
-  National Dispatch Hub - Connecting to Local {place} Response Team.
-</p>
+<p class="national-dispatch-disclaimer">{disclaimerText}</p>
 
 <style>
   .national-dispatch-disclaimer {

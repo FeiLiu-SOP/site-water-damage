@@ -11,9 +11,12 @@ interface Props {
   elevationFt?: number;
   county?: string | null;
   accent: string;
+  /** Newtown Fellowship：替换「Zillow-style benchmark」标题为非营利语境。 */
+  medianContextCardTitle?: string | null;
 }
 
-const { seed, city, state, zip, homeUsd, elevationFt, county, accent } = Astro.props;
+const { seed, city, state, zip, homeUsd, elevationFt, county, accent, medianContextCardTitle } = Astro.props;
+const medianCardH3 = medianContextCardTitle?.trim() || "Median owner-cost anchor (Zillow-style benchmark)";
 
 function stableHash(input: string): number {
   let h = 2166136261;
@@ -124,7 +127,7 @@ const pts = series
     formattedHome ? (
       <div class="mdv-grid">
         <div class="mdv-card">
-          <h3 class="mdv-h3">Median owner-cost anchor (Zillow-style benchmark)</h3>
+          <h3 class="mdv-h3">{medianCardH3}</h3>
           <p class="mdv-metric">{formattedHome}</p>
           <p class="mdv-note">
             Figure reflects a third-party median home value commonly used as a market anchor. It does not describe your

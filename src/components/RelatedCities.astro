@@ -10,13 +10,19 @@ interface Props {
   domPrefix?: string | null;
   themeAccent?: string;
   titleText?: string;
+  /** Current page coordinates when present — used to rank nearest cities */
+  originLat?: number | null;
+  originLng?: number | null;
+  /** Dev stewardship hub：与当前 URL 的 collection 对齐（默认 = 构建期 ACTIVE_COLLECTION）。 */
+  collectionKey?: ActiveCollectionKey;
 }
 
-const { currentSlug, state, domPrefix, themeAccent, titleText } = Astro.props as Props;
+const { currentSlug, state, domPrefix, themeAccent, titleText, originLat, originLng, collectionKey } =
+  Astro.props as Props;
+const col = collectionKey ?? ACTIVE_COLLECTION;
 const linkColor = themeAccent ?? "#2563eb";
 
 const relatedSectionClass = domPrefix ? `${domPrefix}--related-cities` : "related-cities";
-const moreLinksClass = domPrefix ? `${domPrefix}--more-links` : "more-links";
 const relatedTitleId = domPrefix ? `${domPrefix}-related-cities-title` : "related-cities-title";
 
 const st = (state ?? "").trim().toUpperCase().slice(0, 2);
@@ -29,6 +35,7 @@ function stableHash(input: string) {
   }
   return h >>> 0;
 }
+
 function titleCase(s: string) {
   return s
     .split(/\s+/g)
@@ -36,8 +43,8 @@ function titleCase(s: string) {
     .map((w) => w.slice(0, 1).toUpperCase() + w.slice(1))
     .join(" ");
 }
+
 function cityFromSlug(slug: string) {
-  // <prefix>-<city>-<st>-<zip>
   const m = slug.match(/^(.*)-([a-z]{2})-(\d{5})$/i);
   if (!m) return null;
   let prefixAndCity = m[1]!;
@@ -48,12 +55,14 @@ function cityFromSlug(slug: string) {
     "water-damage": "water-damage-",
     "siding-services": "siding-services-",
     "plumbing-v2": "plumbing-v2-",
+    "community-stewardship-water": "community-stewardship-water-",
+    "community-stewardship-siding": "community-stewardship-siding-",
+    "community-stewardship-plumbing": "community-stewardship-plumbing-",
   };
-  const pfx = prefixByCollection[ACTIVE_COLLECTION as ActiveCollectionKey] ?? "";
+  const pfx = prefixByCollection[col] ?? "";
   if (pfx && prefixAndCity.toLowerCase().startsWith(pfx)) {
     prefixAndCity = prefixAndCity.slice(pfx.length);
   } else {
-    // fallback: strip first token (service prefix) if present
     const parts0 = prefixAndCity.split("-");
     if (parts0.length > 1) {
       prefixAndCity = parts0.slice(1).join("-");
@@ -63,85 +72,88 @@ function cityFromSlug(slug: string) {
   if (!city) return null;
   return titleCase(city.replace(/\s+/g, " ").trim());
 }
+
+function zipFromSlug(slug: string): number | null {
+  const m = slug.match(/-(\d{5})$/);
+  if (!m) return null;
+  const n = parseInt(m[1]!, 10);
+  return Number.isFinite(n) ? n : null;
+}
+
+function haversineMiles(lat1: number, lng1: number, lat2: number, lng2: number): number {
+  const r = 3958.7613;
+  const toR = (d: number) => (d * Math.PI) / 180;
+  const dLat = toR(lat2 - lat1);
+  const dLng = toR(lng2 - lng1);
+  const a =
+    Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+    Math.cos(toR(lat1)) * Math.cos(toR(lat2)) * Math.sin(dLng / 2) * Math.sin(dLng / 2);
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+  return r * c;
+}
+
 const currentCity = cityFromSlug(currentSlug) ?? "your area";
 const pageAlias = getNicheLabelForSeed(currentSlug);
+
+const PREFIXES = [
+  "Local Pros in",
+  "Emergency Dispatch for",
+  "Verified Techs in",
+  "Reliable Support for",
+] as const;
 
 let links: { href: string; title: string }[] = [];
 
 if (st.length === 2) {
-  const posts = await getCollection(ACTIVE_COLLECTION);
-  const collection = ACTIVE_COLLECTION as ActiveCollectionKey;
-  const candidates: { slug: string; title: string }[] = [];
+  const posts = await getCollection(col);
+  const originZ = zipFromSlug(currentSlug);
+  const oLat = typeof originLat === "number" && Number.isFinite(originLat) ? originLat : null;
+  const oLng = typeof originLng === "number" && Number.isFinite(originLng) ? originLng : null;
+  const hasOriginGeo = oLat != null && oLng != null;
+
+  type Cand = { slug: string; title: string; lat: number | null; lng: number | null; zipN: number | null };
+  const candidates: Cand[] = [];
 
   for (const p of posts) {
     const slug = (p.slug ?? p.id ?? "").replace(/\.(md|mdx)$/i, "");
     if (!slug || slug === currentSlug) continue;
-    // Expected pattern: <prefix>-<city>-<st>-<zip>
     const m = slug.match(/-([A-Za-z]{2})-\d{5}$/);
     const slugSt = m ? m[1]!.toUpperCase() : null;
-    if (slugSt === st) {
-      candidates.push({ slug, title: p.data.title });
+    if (slugSt !== st) continue;
+    const lat = typeof p.data.lat === "number" && Number.isFinite(p.data.lat) ? p.data.lat : null;
+    const lng = typeof p.data.lng === "number" && Number.isFinite(p.data.lng) ? p.data.lng : null;
+    candidates.push({
+      slug,
+      title: p.data.title,
+      lat,
+      lng,
+      zipN: zipFromSlug(slug),
+    });
+  }
+
+  function score(c: Cand): number {
+    if (hasOriginGeo && c.lat != null && c.lng != null) {
+      return haversineMiles(oLat!, oLng!, c.lat, c.lng);
     }
+    if (originZ != null && c.zipN != null) {
+      return Math.abs(originZ - c.zipN);
+    }
+    return stableHash(`${currentSlug}|${c.slug}|dist`) % 10000;
   }
 
-  const shuffled = [...candidates];
-  for (let i = shuffled.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    const a = shuffled[i]!;
-    const b = shuffled[j]!;
-    shuffled[i] = b;
-    shuffled[j] = a;
-  }
+  candidates.sort((a, b) => score(a) - score(b));
 
-  // Increase internal-link entropy: larger, varied related set (120–220).
-  // This is enough to push avg Jaccard below 30% while keeping page weight reasonable.
-  const want = 120 + Math.floor(Math.random() * 101); // 120–220
-  const anchorTemplates = ACTIVE_COLLECTION === "water-damage"
-    ? [
-        (city: string) => `Emergency Cleanup in ${city}`,
-        (city: string) => `Fast Restoration in ${city}`,
-        (city: string) => `Local Pros in ${city}`,
-        (city: string) => `Professional Cleanup in ${city}`,
-        (city: string) => `Emergency Pros in ${city}`,
-        (city: string) => `Fast Cleanup in ${city}`,
-        (city: string) => `Local Restoration in ${city}`,
-        (city: string) => `Professional Pros in ${city}`,
-      ]
-    : ACTIVE_COLLECTION === "plumbing-v2"
-    ? [
-        (city: string) => `Drain Cleaning in ${city}`,
-        (city: string) => `Sump Pump Repair in ${city}`,
-        (city: string) => `Water Line Work in ${city}`,
-        (city: string) => `Leak Detection in ${city}`,
-        (city: string) => `Hydro-Jetting in ${city}`,
-        (city: string) => `Fixture Service in ${city}`,
-        (city: string) => `PRV Service in ${city}`,
-        (city: string) => `Local Plumber in ${city}`,
-      ]
-    : ACTIVE_COLLECTION === "siding-services"
-    ? [
-        (city: string) => `${city} Expert`,
-        (city: string) => `${city} Pro`,
-        (city: string) => `${city} Team`,
-        (city: string) => `${city} Crew`,
-      ]
-    : [
-        (city: string) => `Trusted ${siteConfig.nicheLabel} Expert in ${city}, ${st}`,
-        (city: string) => `${siteConfig.nicheLabel} Professional Help in ${city}, ${st}`,
-        (city: string) => `Emergency ${siteConfig.nicheLabel} Service — ${city}, ${st}`,
-        (city: string) => `Local ${siteConfig.nicheLabel} Service in ${city}, ${st}`,
-        (city: string) => `Affordable ${siteConfig.nicheLabel} Options in ${city}, ${st}`,
-        (city: string) => `#1 ${siteConfig.nicheLabel} in ${city}, ${st}`,
-        (city: string) => `Expert ${siteConfig.nicheLabel} Support near ${currentCity}`,
-        (city: string) => `Professional ${siteConfig.nicheLabel} Coverage in ${city}, ${st}`,
-      ];
+  const want = Math.min(
+    candidates.length,
+    5 + (stableHash(`${currentSlug}|relatedN`) % 4),
+  );
 
-  links = shuffled.slice(0, want).map((c, idx) => {
+  links = candidates.slice(0, want).map((c, idx) => {
     const city = cityFromSlug(c.slug) ?? c.title;
-    const t = anchorTemplates[(stableHash(`${currentSlug}|${c.slug}|${idx}`) % anchorTemplates.length)]!;
+    const prefix = PREFIXES[stableHash(`${currentSlug}|${c.slug}|anchor`) % PREFIXES.length]!;
     return {
       href: internalPath(c.slug),
-      title: t(city),
+      title: `${prefix} ${city}`,
     };
   });
 }
@@ -154,34 +166,14 @@ if (st.length === 2) {
       aria-labelledby={relatedTitleId}
       style={`--related-link-color:${linkColor};`}
     >
-      <h2 id={relatedTitleId}>{titleText ?? `More ${pageAlias} in ${st}`}</h2>
-      {(() => {
-        const initial = links.slice(0, 14);
-        const rest = links.slice(14);
-        return (
-          <>
-            <ul>
-              {initial.map((l) => (
-                <li>
-                  <a href={l.href}>{l.title}</a>
-                </li>
-              ))}
-            </ul>
-            {rest.length ? (
-              <details class={moreLinksClass}>
-                <summary>More links ({rest.length})</summary>
-                <ul>
-                  {rest.map((l) => (
-                    <li>
-                      <a href={l.href}>{l.title}</a>
-                    </li>
-                  ))}
-                </ul>
-              </details>
-            ) : null}
-          </>
-        );
-      })()}
+      <h2 id={relatedTitleId}>{titleText ?? `Nearby ${pageAlias} nodes (${st})`}</h2>
+      <ul>
+        {links.map((l) => (
+          <li>
+            <a href={l.href}>{l.title}</a>
+          </li>
+        ))}
+      </ul>
     </section>
   ) : null
 }
@@ -217,24 +209,5 @@ if (st.length === 2) {
   .related-cities a:hover,
   [class$="--related-cities"] a:hover {
     text-decoration: underline;
-  }
-  .more-links,
-  [class$="--more-links"] {
-    margin-top: 0.75rem;
-    border: 1px solid #e2e8f0;
-    border-radius: 10px;
-    background: #f8fafc;
-    padding: 0.65rem 0.8rem;
-  }
-  .more-links summary,
-  [class$="--more-links"] summary {
-    cursor: pointer;
-    font-weight: 600;
-    color: #0f172a;
-  }
-  .more-links ul,
-  [class$="--more-links"] ul {
-    margin: 0.65rem 0 0;
-    padding-left: 1.25rem;
   }
 </style>
