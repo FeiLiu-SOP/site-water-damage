@@ -687,8 +687,11 @@ const relatedTitleVariants = [
 ] as const;
 const relatedTitle =
   relatedTitleVariants[stableHash(`${PAGE_COLLECTION}|${entrySlug}|relatedTitle`) % relatedTitleVariants.length]!;
-const showFaq = stableHash(`${PAGE_COLLECTION}|${entrySlug}|showFaq`) % 10 >= 3;
-const showRelated = stableHash(`${PAGE_COLLECTION}|${entrySlug}|showRelated`) % 10 >= 3;
+const showFaqRollout = stableHash(`${PAGE_COLLECTION}|${entrySlug}|showFaq`) % 10 >= 3;
+const showRelatedRollout = stableHash(`${PAGE_COLLECTION}|${entrySlug}|showRelated`) % 10 >= 3;
+/** Stewardship 垂直：不做 A/B 隐藏，避免 dev/教育页「块整块消失」观感 */
+const showFaq = isCommunityStewardshipHub ? true : showFaqRollout;
+const showRelated = isCommunityStewardshipHub ? true : showRelatedRollout;
 const stateNotice = stateCodeFromSlug
   ? `Notice: This ${stateCodeFromSlug} page summarizes regional infrastructure maintenance coordination and local topographic context; it is not a government bulletin.`
   : "Notice: This page summarizes regional infrastructure maintenance coordination and local topographic context; it is not a government bulletin.";
