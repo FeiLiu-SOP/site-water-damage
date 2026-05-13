@@ -2,6 +2,8 @@
  * Context-Aware Summary: deterministic prose (100–300 words) with ZIP / State / Niche / city baked in.
  */
 
+import { filterTextPoolForCommercialHtml } from "./commercial-semantic-html-guard";
+
 export type ContextSummaryInput = {
   seedSlug: string;
   collectionKey: string;
@@ -84,6 +86,9 @@ const SENTENCE_TEMPLATES = [
   "Contents pack-out deferral language for {niche} reflects capacity constraints in {state}; ZIP {zip} intake for {city} is not a pack-out guarantee.",
 ] as const;
 
+/** 通用池若被滤空则退回：取不含跨垂直硬触发词的前段（与 `filterTextPoolForCommercialHtml` 语义一致）。 */
+const CAS_COMMERCIAL_EMERGENCY_FALLBACK: readonly string[] = SENTENCE_TEMPLATES.slice(0, 12);
+
 /** 教堂 stewardship 详情 CAS：与商业「调度/队列」话术解耦，仍用同一 fill 占位符保持版式 */
 const STEWARDSHIP_SENTENCE_TEMPLATES = [
   "Neighbors near {city} ({zip}, {state}) can use this {niche} page as a volunteer-education brief—figures are illustrative, not bids or insurer findings.",
@@ -129,7 +134,13 @@ function fill(t: string, p: ContextSummaryInput): string {
 export function buildContextAwareSummary(p: ContextSummaryInput): string {
   const target = 100 + (stableHash(`${p.seedSlug}|caswc`) % 201);
   const stewardship = p.collectionKey.startsWith("community-stewardship-");
-  const templates = stewardship ? STEWARDSHIP_SENTENCE_TEMPLATES : SENTENCE_TEMPLATES;
+  const rawTemplates = stewardship ? STEWARDSHIP_SENTENCE_TEMPLATES : SENTENCE_TEMPLATES;
+  const templates = stewardship
+    ? rawTemplates
+    : (() => {
+        const filtered = filterTextPoolForCommercialHtml(p.collectionKey, rawTemplates);
+        return filtered.length > 0 ? filtered : CAS_COMMERCIAL_EMERGENCY_FALLBACK;
+      })();
   const n = templates.length;
   let out = "";
   let i = 0;

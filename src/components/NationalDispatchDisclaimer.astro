@@ -3,6 +3,8 @@ interface Props {
   city: string | null;
   /** Drives `stableHash(slug) % 5` line pick; falls back to place label when omitted. */
   slug?: string | null;
+  /** Church / NPO (`community-stewardship-*`): volunteer-desk wording (no national dispatch hub lines). */
+  stewardshipReference?: boolean;
 }
 
 function stableHash(input: string) {
@@ -14,7 +16,7 @@ function stableHash(input: string) {
   return h >>> 0;
 }
 
-const { city, slug } = Astro.props;
+const { city, slug, stewardshipReference = false } = Astro.props;
 const place = city?.trim() ? city.trim() : "Area";
 const variationKey = (slug?.trim() || place) as string;
 const linePick = stableHash(variationKey) % 5;
@@ -28,7 +30,18 @@ const LINE_TEMPLATES = [
   "Dispatch hub (national scope): connects this session to __PLACE__ field-response coverage.",
 ] as const;
 
-const disclaimerText = LINE_TEMPLATES[linePick]!.replace("__PLACE__", place);
+/** NPO / church verticals: informational neighbor desk (avoids commercial dispatch hub phrasing). */
+const STEWARDSHIP_LINE_TEMPLATES = [
+  "Neighbor stewardship reference desk — educational context for __PLACE__ (informational only).",
+  "Community coordination notes for __PLACE__ — volunteer intake framing; not a paid-service marketplace.",
+  "ZIP-sector education reference for __PLACE__ — neighbors arrange licensed help directly.",
+  "Regional stewardship briefing context for __PLACE__ — no live queue or contractor matching on this page.",
+  "Volunteer neighbor desk — __PLACE__ area reference materials only (non-commercial).",
+] as const;
+
+const disclaimerText = stewardshipReference
+  ? STEWARDSHIP_LINE_TEMPLATES[linePick]!.replace("__PLACE__", place)
+  : LINE_TEMPLATES[linePick]!.replace("__PLACE__", place);
 ---
 
 <p class="national-dispatch-disclaimer">{disclaimerText}</p>

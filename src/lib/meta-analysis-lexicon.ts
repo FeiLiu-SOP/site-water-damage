@@ -3,6 +3,8 @@
  * SSR-stable picks via `pickTwoMetaAnalysisLines`.
  */
 
+import { filterTextPoolForCommercialHtml } from "./commercial-semantic-html-guard";
+
 const PREFIX = [
   "Roofing routing lens:",
   "Roofing intake meta note:",
@@ -94,9 +96,15 @@ function stableHash(input: string) {
 
 export function pickTwoMetaAnalysisLines(seedSlug: string, collectionKey: string): readonly [string, string] {
   const lex = META_ANALYSIS_LEXICON;
-  const pool = collectionKey.startsWith("community-stewardship-")
-    ? lex.filter((s) => !/\bdispatch\b/i.test(s))
-    : lex;
+  let pool = filterTextPoolForCommercialHtml(collectionKey, lex);
+  if (collectionKey.startsWith("community-stewardship-")) {
+    pool = pool.filter((s) => !/\bdispatch\b/i.test(s));
+  }
+  if (pool.length < 2) {
+    throw new Error(
+      `[meta-analysis-lexicon] pool too small after commercial filter (collection=${collectionKey}, n=${pool.length})`,
+    );
+  }
   const n = pool.length;
   let i1 = stableHash(`${collectionKey}|${seedSlug}|ma1`) % n;
   let i2 = stableHash(`${collectionKey}|${seedSlug}|ma2`) % n;
