@@ -11,11 +11,10 @@ export type DomainTemplateOverrides = {
   };
   domPrefixBase: string; // e.g. "beach-container"
   /**
-   * Force deterministic component order on city-detail pages.
-   * Engineering Notice is the first paragraph of the markdown content,
-   * so placing "content" last effectively moves Engineering Notice near bottom.
+   * Tail blocks after the fold stack: markdown + related cities only.
+   * FAQ / Geo live in `layoutStack` on `[...slug].astro` (SimHash diversification).
    */
-  blockOrder: Array<"faq" | "geo" | "related" | "content">;
+  blockOrder: Array<"related" | "content">;
   /**
    * Phone defaults for this domain.
    * If Cloudflare env overrides are provided, env wins (handled in site-config.ts).
@@ -45,7 +44,7 @@ export const REALTORS_AT_THE_BEACH_WATER_DAMAGE: DomainTemplateOverrides = {
     fontFamily: "Inter, sans-serif",
   },
   domPrefixBase: "beach-container",
-  blockOrder: ["faq", "geo", "related", "content"],
+  blockOrder: ["related", "content"],
   phone: {
     // Screenshot value
     e164: "+18312301952",
