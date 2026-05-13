@@ -5,6 +5,15 @@
  */
 import type { ActiveCollectionKey } from "../active-collection-keys";
 
+/** 与 `semantic_scan_lib.phrase_matches_in_lower_html` 一致：含空格用子串；否则用 [a-z0-9] 词边界，避免 Apex→PEX、residing→siding 误杀。 */
+function forbiddenPhraseMatchesLowerText(lower: string, phrase: string): boolean {
+  const needle = phrase.trim().toLowerCase();
+  if (!needle) return false;
+  if (/\s/.test(needle)) return lower.includes(needle);
+  const escaped = needle.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  return new RegExp(`(?<![a-z0-9])${escaped}(?![a-z0-9])`).test(lower);
+}
+
 const COMMERCIAL_FORBIDDEN: Partial<Record<ActiveCollectionKey, readonly string[]>> = {
   roofing: [
     "structural drying",
@@ -171,7 +180,7 @@ const COMMERCIAL_FORBIDDEN: Partial<Record<ActiveCollectionKey, readonly string[
   ],
 };
 
-/** 禁词子串（与 semantic-scan 一致：大小写不敏感包含匹配）。教堂赛道不在此表。 */
+/** 禁词表（与 semantic-scan 一致：多词为子串；单词为 [a-z0-9] 边界）。教堂赛道不在此表。 */
 export function forbiddenSubstringsForCommercialScan(collectionKey: string): readonly string[] {
   if (collectionKey.startsWith("community-stewardship-")) return [];
   const row = COMMERCIAL_FORBIDDEN[collectionKey as ActiveCollectionKey];
@@ -183,6 +192,9 @@ export function filterTextPoolForCommercialHtml<T extends string>(collectionKey:
   if (!needles.length) return [...pool];
   return pool.filter((line) => {
     const low = line.toLowerCase();
-    return !needles.some((n) => n.trim() && low.includes(n.toLowerCase()));
+    return !needles.some((n) => {
+      const t = n.trim();
+      return t && forbiddenPhraseMatchesLowerText(low, t);
+    });
   });
 }
