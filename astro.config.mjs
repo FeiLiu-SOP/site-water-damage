@@ -39,10 +39,25 @@ if (hubSeg && enforcedBase === "/") {
   enforcedBase = normalizedCollection === "plumbing-v2" ? "/plumbing/" : `/${hubSeg}/`;
 }
 
+/** Dev：Rockwell 三垂直合一验收时 slug 前缀已互斥，强制根 base，避免锁在 /roofing/ 下打不开 plumbing/pest 路径 */
+const rockwellHub =
+  mode === "development" &&
+  (process.env.DEV_ROCKWELL_HUB ?? fileEnv.DEV_ROCKWELL_HUB ?? "").trim() === "1" &&
+  ["roofing", "plumbing", "pestcontrol"].includes(normalizedCollection);
+if (rockwellHub) {
+  enforcedBase = "/";
+}
+
+/** 教堂 stewardship 常拷到 `_stewardship_preview/<vertical>/` 用 http.server 验；`base` 为 `/` 时外链 `/_astro/*.css` 会打到站点根而 404。内联样式避免子路径预览丢 CSS。 */
+const churchStewardship = normalizedCollection.startsWith("community-stewardship-");
+
 // https://astro.build/config
 export default defineConfig({
   site,
   base: enforcedBase,
+  build: {
+    inlineStylesheets: churchStewardship ? "always" : "auto",
+  },
   integrations: [
     sitemap({
       /** SERP / crawl signal: uniform freshness date for all URLs (protocol 2026-05-11). */

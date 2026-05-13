@@ -102,7 +102,28 @@ const PREFIXES = [
   "Reliable Support for",
 ] as const;
 
+/** 教堂 stewardship：禁止「Verified Techs / Emergency Dispatch」等商业锚文案串味 */
+const PREFIXES_STEWARDSHIP = [
+  "Neighbor education page —",
+  "Additional stewardship brief —",
+  "ZIP reference context —",
+  "Related community page —",
+] as const;
+
+const isStewardshipCollection = col.startsWith("community-stewardship-");
+const anchorPrefixes = isStewardshipCollection ? PREFIXES_STEWARDSHIP : PREFIXES;
+
+function toLinkRow(c: { slug: string; title: string }): { href: string; title: string } {
+  const city = cityFromSlug(c.slug) ?? c.title;
+  const prefix = anchorPrefixes[stableHash(`${currentSlug}|${c.slug}|anchor`) % anchorPrefixes.length]!;
+  return {
+    href: internalPath(c.slug),
+    title: `${prefix} ${city}`,
+  };
+}
+
 let links: { href: string; title: string }[] = [];
+let overflowLinks: { href: string; title: string }[] = [];
 
 if (st.length === 2) {
   const posts = await getCollection(col);
@@ -143,19 +164,16 @@ if (st.length === 2) {
 
   candidates.sort((a, b) => score(a) - score(b));
 
-  const want = Math.min(
+  /** 首屏条数：同城候选多时明显高于旧的 5–8 上限；其余进折叠区 */
+  const inlineCap = Math.min(
     candidates.length,
-    5 + (stableHash(`${currentSlug}|relatedN`) % 4),
+    Math.min(18, 10 + (stableHash(`${currentSlug}|relatedCap`) % 9)),
   );
+  const primary = candidates.slice(0, inlineCap);
+  const overflow = candidates.slice(inlineCap);
 
-  links = candidates.slice(0, want).map((c, idx) => {
-    const city = cityFromSlug(c.slug) ?? c.title;
-    const prefix = PREFIXES[stableHash(`${currentSlug}|${c.slug}|anchor`) % PREFIXES.length]!;
-    return {
-      href: internalPath(c.slug),
-      title: `${prefix} ${city}`,
-    };
-  });
+  links = primary.map((c) => toLinkRow(c));
+  overflowLinks = overflow.map((c) => toLinkRow(c));
 }
 ---
 
@@ -174,6 +192,20 @@ if (st.length === 2) {
           </li>
         ))}
       </ul>
+      {overflowLinks.length > 0 ? (
+        <details class="related-cities-more">
+          <summary>
+            More links ({overflowLinks.length})
+          </summary>
+          <ul>
+            {overflowLinks.map((l) => (
+              <li>
+                <a href={l.href}>{l.title}</a>
+              </li>
+            ))}
+          </ul>
+        </details>
+      ) : null}
     </section>
   ) : null
 }
@@ -209,5 +241,29 @@ if (st.length === 2) {
   .related-cities a:hover,
   [class$="--related-cities"] a:hover {
     text-decoration: underline;
+  }
+  .related-cities-more,
+  [class$="--related-cities"] .related-cities-more {
+    margin-top: 0.85rem;
+    padding: 0.5rem 0.75rem;
+    border-radius: 6px;
+    background: #f1f5f9;
+    border: 1px solid #e2e8f0;
+  }
+  .related-cities-more summary,
+  [class$="--related-cities"] .related-cities-more summary {
+    cursor: pointer;
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #334155;
+    list-style: none;
+  }
+  .related-cities-more summary::-webkit-details-marker,
+  [class$="--related-cities"] .related-cities-more summary::-webkit-details-marker {
+    display: none;
+  }
+  .related-cities-more > ul,
+  [class$="--related-cities"] .related-cities-more > ul {
+    margin-top: 0.65rem;
   }
 </style>

@@ -18,6 +18,9 @@ export interface Props {
 
 const BRAND_DISPLAY = "FixitGrid Local Dispatch Network";
 
+/** 非 roofing 兜底：禁止在未知集合时回落到含 “Roofing” 的 roofing 键 */
+const NEUTRAL_DISPATCH_COMMAND = { left: "Information Desk", right: "Community Briefing" } as const;
+
 const COLLECTION_COMMAND: Record<
   ActiveCollectionKey,
   { left: string; right: string }
@@ -33,6 +36,25 @@ const COLLECTION_COMMAND: Record<
   "community-stewardship-plumbing": { left: "Plumbing Desk", right: "Supply & Drain Intake" },
 };
 
+/** Newtown + 教堂三垂直：吸底条 ticker / 主文案与业务线严格对齐（无 Roofing 泄漏） */
+const NEWTOWN_STEWARDSHIP_TICKER: Record<
+  "community-stewardship-water" | "community-stewardship-siding" | "community-stewardship-plumbing",
+  { auditLine: string; bar: { left: string; right: string } }
+> = {
+  "community-stewardship-water": {
+    auditLine: "Water Systems Integrity Audit",
+    bar: { left: "Integrity channel", right: "Water Systems Integrity Audit" },
+  },
+  "community-stewardship-siding": {
+    auditLine: "Exterior Envelope Status",
+    bar: { left: "Envelope channel", right: "Exterior Envelope Status" },
+  },
+  "community-stewardship-plumbing": {
+    auditLine: "Supply & Drain Integrity Audit",
+    bar: { left: "Path channel", right: "Supply & Drain Integrity Audit" },
+  },
+};
+
 function viewerCount(seed: string): number {
   let h = 0;
   for (let i = 0; i < seed.length; i++) {
@@ -44,9 +66,22 @@ function viewerCount(seed: string): number {
 const { city, zip, nicheLabel, slugSeed, stickyVariant = "default", collectionKey } = Astro.props;
 const isNewtownFellowshipSticky = stickyVariant === "newtown_fellowship";
 const col = collectionKey ?? ACTIVE_COLLECTION;
+/** 教堂 / NPO 赛道：与域名无关，凡 `community-stewardship-*` 构建均走志愿语境吸底条（防误导性商业广告表述） */
+const isNpoStewardship = col.startsWith("community-stewardship-");
 const brandRef = getBrand(Astro.url.hostname);
 const brandDisplay = BRAND_DISPLAY;
-const cmd = COLLECTION_COMMAND[col] ?? COLLECTION_COMMAND.roofing;
+const newtownStew =
+  isNewtownFellowshipSticky &&
+  (col === "community-stewardship-water" ||
+    col === "community-stewardship-siding" ||
+    col === "community-stewardship-plumbing")
+    ? NEWTOWN_STEWARDSHIP_TICKER[col]
+    : null;
+/** NPO：主栏固定为志愿 intake + 邻居 stewardship（取代商业 Pipe Safety / Emergency Dispatch 等联想） */
+const npoDockBar = { left: "Volunteer Intake", right: "Neighbor Stewardship" } as const;
+const cmd = isNpoStewardship ? npoDockBar : (newtownStew?.bar ?? COLLECTION_COMMAND[col] ?? NEUTRAL_DISPATCH_COMMAND);
+/** 教堂灰皮与 nonprofit 色板：NPO 赛道或显式 Newtown Fellowship sticky */
+const useNpoDockSkin = isNpoStewardship || isNewtownFellowshipSticky;
 const zipClean = zip.replace(/\D/g, "");
 const zipDisplay = zipClean.length === 5 ? zipClean : zip.trim() || "local";
 const zLabel = nicheLabel.trim() || "Service";
@@ -57,13 +92,28 @@ const telHref = `tel:${phoneE164}`;
 ---
 
 <div
-  class:list={["dispatch-cmd-root", isNewtownFellowshipSticky ? "dispatch-cmd-root--newtown-fellowship" : null]}
+  class:list={["dispatch-cmd-root", useNpoDockSkin ? "dispatch-cmd-root--newtown-fellowship" : null]}
   aria-hidden="false"
-  title={isNewtownFellowshipSticky ? "Newtown Fellowship community support" : `${brandRef.short} mobile dispatch`}
+  title={
+    isNpoStewardship || isNewtownFellowshipSticky
+      ? "Newtown Fellowship community support"
+      : `${brandRef.short} mobile dispatch`
+  }
 >
   <div class="dispatch-cmd-ticker" role="status">
     {
-      isNewtownFellowshipSticky ? (
+      isNpoStewardship ? (
+        newtownStew ? (
+          <>
+            {newtownStew.auditLine} — educational ZIP context for {zipDisplay}. Not a live auction or paid-service
+            queue.
+          </>
+        ) : (
+          <>
+            Neighbor stewardship education — ZIP context for {zipDisplay}. Informational only; not a paid-service queue.
+          </>
+        )
+      ) : isNewtownFellowshipSticky ? (
         <>
           Market Context Supplement — educational housing stewardship briefing for {zipDisplay}. Not a live auction or
           paid-service queue.
@@ -78,7 +128,10 @@ const telHref = `tel:${phoneE164}`;
   <div class="dispatch-cmd-bar">
     <div class="dispatch-cmd-bar-main">
       <div class="dispatch-cmd-left">
-        <span class="dispatch-cmd-pulse-dot" aria-hidden="true"></span>
+        <span
+          class="dispatch-cmd-pulse-dot"
+          aria-hidden="true"
+          title={isNpoStewardship ? "Volunteer activity monitored" : undefined}></span>
         <span class="dispatch-cmd-left-text">{cmd.left}</span>
         <span class="dispatch-cmd-sep" aria-hidden="true">|</span>
         <span class="dispatch-cmd-mid-text">{cmd.right}</span>
@@ -87,12 +140,16 @@ const telHref = `tel:${phoneE164}`;
         class="dispatch-cmd-tel"
         href={telHref}
         aria-label={
-          isNewtownFellowshipSticky
-            ? `Community support line — ${siteConfig.phoneDisplay}`
-            : `Call ${brandDisplay} — ${siteConfig.phoneDisplay}`
+          isNpoStewardship
+            ? `Neighbor support line — ${siteConfig.phoneDisplay}`
+            : isNewtownFellowshipSticky
+              ? `Community support line — ${siteConfig.phoneDisplay}`
+              : `Call ${brandDisplay} — ${siteConfig.phoneDisplay}`
         }
       >
-        {isNewtownFellowshipSticky ? (
+        {isNpoStewardship ? (
+          <span class="dispatch-cmd-tel-long">NEIGHBOR SUPPORT LINE</span>
+        ) : isNewtownFellowshipSticky ? (
           <span class="dispatch-cmd-tel-long">COMMUNITY SUPPORT LINE</span>
         ) : (
           "CALL"
@@ -101,10 +158,8 @@ const telHref = `tel:${phoneE164}`;
     </div>
     <p class="dispatch-cmd-micro">
       {
-        isNewtownFellowshipSticky ? (
-          <>
-            Newtown Fellowship — volunteer neighbor-stewardship desk (informational routing only).
-          </>
+        isNpoStewardship || isNewtownFellowshipSticky ? (
+          <>Newtown Fellowship - volunteer neighbor-stewardship desk (informational routing only).</>
         ) : (
           <>
             National Dispatch Hub - Connecting to Local {cityDisplay} Response Team.

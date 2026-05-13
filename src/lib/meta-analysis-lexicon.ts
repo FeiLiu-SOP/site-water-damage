@@ -94,11 +94,14 @@ function stableHash(input: string) {
 
 export function pickTwoMetaAnalysisLines(seedSlug: string, collectionKey: string): readonly [string, string] {
   const lex = META_ANALYSIS_LEXICON;
-  const n = lex.length;
+  const pool = collectionKey.startsWith("community-stewardship-")
+    ? lex.filter((s) => !/\bdispatch\b/i.test(s))
+    : lex;
+  const n = pool.length;
   let i1 = stableHash(`${collectionKey}|${seedSlug}|ma1`) % n;
   let i2 = stableHash(`${collectionKey}|${seedSlug}|ma2`) % n;
   if (i2 === i1) {
     i2 = (i2 + 1 + (stableHash(`${seedSlug}|mab`) % (n - 1 || 1))) % n;
   }
-  return [lex[i1]!, lex[i2]!] as const;
+  return [pool[i1]!, pool[i2]!] as const;
 }

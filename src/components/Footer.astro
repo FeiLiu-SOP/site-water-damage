@@ -91,25 +91,25 @@ const NICHE_COMPLIANCE_LINES: Record<
     "Scheduling: permit pulls for water heater replacements vary by AHJ; same-day swap is not universal.",
   ],
   "community-stewardship-water": [
-    "Stewardship water disclosures: figures are planning anchors only; field conditions and code rules may change scope after inspection.",
-    "Routing clarity: this page coordinates informational intake; licensed contractor assignment depends on coverage and licensing.",
-    "Pressure and chemistry: fixture and pipe recommendations assume normal municipal supply; private wells require separate testing.",
-    "Documentation: homeowner-supplied photos and shutoff locations improve estimate accuracy before dispatch.",
-    "Scheduling: same-week visits are not guaranteed when specialty parts or permit reviews are required.",
+    "Stewardship water notes: figures are planning anchors only; licensed work follows separate agreements.",
+    "Education-first intake: this page summarizes voluntary prep topics; it does not assign contractors.",
+    "Pressure and chemistry: guidance assumes typical municipal supply; private wells need separate testing.",
+    "Documentation: photos and shutoff locations help neighbors prepare questions for qualified pros.",
+    "Timing: volunteer-led walkthroughs depend on availability; this is not a same-day service guarantee.",
   ],
   "community-stewardship-siding": [
-    "Stewardship exterior disclosures: cladding plans assume visible conditions; strip-off may reveal substrate repairs not priced here.",
-    "HOA and color: lot matching and architectural review packets are homeowner-supplied unless noted in writing.",
-    "Weather windows: install sequencing may shift for wind, rain, or temperature manufacturer limits.",
-    "Safety: silica and cutting protocols apply to fiber cement; containment may add setup time to the schedule.",
-    "Warranty: manufacturer ratings assume correct fastener schedules verified during final walkthrough.",
+    "Stewardship exterior notes: plans assume visible cladding; hidden substrate repairs are outside this brief.",
+    "HOA and color: architectural packets are neighbor-supplied; this page does not file HOA requests.",
+    "Weather windows: manufacturer temperature limits may shift sequencing; schedules are illustrative.",
+    "Safety: silica and cutting protocols apply to fiber cement; containment may add setup time.",
+    "Warranty language on labels refers to manufacturer docs verified during walkthroughs—not a sales pitch here.",
   ],
   "community-stewardship-plumbing": [
-    "Stewardship plumbing disclosures: drain outcomes depend on line condition; hydro-jetting is not guaranteed where integrity is unknown.",
-    "Permits: water heater swaps and PRV changes may require AHJ approval; timelines exclude permit review delays.",
-    "Slab and concealed leaks: exploratory openings can revise scope; listening passes narrow but do not eliminate uncertainty.",
-    "Fixture scope: stops, supplies, and traps are itemized separately unless bundled in a written change order.",
-    "Water quality: hardness and scaling guidance is educational; lab testing is outside standard dispatch.",
+    "Stewardship plumbing notes: drain outcomes depend on line condition; outcomes are discussed with qualified pros.",
+    "Permits: heater swaps and PRV changes may need AHJ approval; this page does not pull permits.",
+    "Slab and concealed lines: exploratory work can change scope; listening passes narrow but do not remove all risk.",
+    "Fixture lists: stops, supplies, and traps are planning vocabulary—not a bundled quote on this page.",
+    "Water quality: hardness tables are educational; laboratory testing is arranged outside this brief.",
   ],
 };
 
@@ -118,6 +118,24 @@ const nicheLineBucket =
 const nicheComplianceLine = nicheLineBucket[linePick]!;
 
 const brandUpper = brand.name.toUpperCase();
+
+/** 教堂 stewardship：与商业站 FixitGrid「dispatch network」指纹解耦，版式仍与同模板 Footer 一致 */
+const STEWARDSHIP_BRAND_AUDIT_LINES = [
+  "Community reference desk — Newtown Fellowship (informational outreach only).",
+  "Neighborhood stewardship page — faith-rooted education context (not a contractor marketplace).",
+  "ZIP-local briefing — volunteer-facing notes (no paid routing or queue simulation).",
+  "501(c)(3) outreach framing — maintenance-burden illustrations for neighbors (non-transactional).",
+  "Public education anchor — housing stewardship vocabulary only (separate from commercial intake desks).",
+] as const;
+
+const STEWARDSHIP_AUTHORITY_ANCHOR_LINES = [
+  "Newtown Fellowship — community housing stewardship education (non-commercial reference).",
+  "Neighborhood education routing — Newtown Fellowship volunteer context (informational).",
+  "Faith-rooted stewardship brief — local ZIP labeling for neighbor education only.",
+  "Community desk reference — Newtown Fellowship (not a nationwide contractor coordination network).",
+  "ZIP-sector education note — stewardship volunteers; third-party pros are engaged off-page when applicable.",
+] as const;
+
 /** Placeholder `__BRAND__` = uppercased brand inside styled span. */
 const brandAuditLines = [
   "Official Property Audit Node: __BRAND__ — routing reference only.",
@@ -143,11 +161,20 @@ const verifyLines = [
   "Lead Smart verification entry: Fei Liu — April 2026",
 ] as const;
 
-const brandAuditHtml = brandAuditLines[linePick]!.replace(
-  "__BRAND__",
-  `<span class="brand-fingerprint-name">${brandUpper}</span>`,
-);
-const authorityAnchorLine = authorityAnchorLines[linePick]!;
+const isStewardshipFooter =
+  collectionKey === "community-stewardship-water" ||
+  collectionKey === "community-stewardship-siding" ||
+  collectionKey === "community-stewardship-plumbing";
+
+const brandAuditHtml = isStewardshipFooter
+  ? STEWARDSHIP_BRAND_AUDIT_LINES[linePick]!
+  : brandAuditLines[linePick]!.replace(
+      "__BRAND__",
+      `<span class="brand-fingerprint-name">${brandUpper}</span>`,
+    );
+const authorityAnchorLine = isStewardshipFooter
+  ? STEWARDSHIP_AUTHORITY_ANCHOR_LINES[linePick]!
+  : authorityAnchorLines[linePick]!;
 const verifyLine = verifyLines[linePick]!;
 ---
 <footer>

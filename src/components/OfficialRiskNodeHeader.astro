@@ -1,14 +1,20 @@
 ---
 /**
  * Brand verification anchor above Value Protection Calculator (Pinterest / search parity).
- * 全站统一 FixitGrid（不再按域名分叉 Rockwell / Realtors）。
+ * 教堂 stewardship：与 FixitGrid dispatch 指纹解耦，仍保留 ZIP 教育锚点。
  */
-const { zipCode } = Astro.props as { zipCode?: string | null | undefined };
+const { zipCode, stewardshipMode = false } = Astro.props as {
+  zipCode?: string | null | undefined;
+  stewardshipMode?: boolean;
+};
 const zip5 = String(zipCode ?? "")
   .replace(/\D/g, "")
   .slice(0, 5);
-const line =
-  zip5.length === 5
+const line = stewardshipMode
+  ? zip5.length === 5
+    ? `ZIP-sector education reference · ${zip5} — community stewardship context (non-commercial)`
+    : "Community stewardship education reference (non-commercial)"
+  : zip5.length === 5
     ? `Official Node: FixitGrid Local Dispatch Network · ZIP ${zip5}`
     : "Official Node: FixitGrid Local Dispatch Network";
 ---

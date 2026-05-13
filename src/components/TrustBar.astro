@@ -6,7 +6,14 @@ interface Props {
 }
 
 function trustCopy(collection: ActiveCollectionKey): string {
-  if (collection === "water-damage" || collection === "community-stewardship-water") {
+  if (
+    collection === "community-stewardship-water" ||
+    collection === "community-stewardship-siding" ||
+    collection === "community-stewardship-plumbing"
+  ) {
+    return "● Education-first framing | ● No paid routing or pricing claims | ● Community reference only";
+  }
+  if (collection === "water-damage") {
     return "● Direct Insurance Billing | ● $0 Out-of-Pocket | ● IICRC Certified";
   }
   if (collection === "pestcontrol") {

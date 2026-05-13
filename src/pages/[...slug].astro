@@ -47,16 +47,35 @@ import {
   buildRockwellMaineEntityGraph,
   matchesRockwellMaine,
 } from "../domain-templates/rockwell-maine-entity";
-import { matchesNewtownFellowshipSite } from "../domain-templates/newtown-fellowship-site";
+import {
+  matchesNewtownFellowshipSite,
+  newtownFellowshipCanonicalPageUrl,
+  resolveNewtownFellowshipPublicOrigin,
+} from "../domain-templates/newtown-fellowship-site";
 import {
   STEWARDSHIP_HUB_KEYS,
   stewardshipDevHubMergeEnabled,
 } from "../lib/stewardship-dev-hub-paths";
+import { ROCKWELL_HUB_KEYS, rockwellDevHubMergeEnabled } from "../lib/rockwell-dev-hub-paths";
 
 /** Physical-value tier: deterministic title/H1 (no stableHash) when home value clears bar. */
 const HIGH_VALUE_USD_TRIGGER = 300_000;
 
 export async function getStaticPaths() {
+  if (rockwellDevHubMergeEnabled()) {
+    const out: {
+      params: { slug: string };
+      props: { rockwellPageCollection: ActiveCollectionKey };
+    }[] = [];
+    for (const col of ROCKWELL_HUB_KEYS) {
+      const posts = await getCollection(col);
+      for (const post of posts) {
+        const slug = (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
+        out.push({ params: { slug }, props: { rockwellPageCollection: col } });
+      }
+    }
+    return out;
+  }
   if (stewardshipDevHubMergeEnabled()) {
     const out: {
       params: { slug: string };
@@ -78,9 +97,13 @@ export async function getStaticPaths() {
 }
 
 const { slug } = Astro.params;
-const routeProps = Astro.props as { stewardshipPageCollection?: ActiveCollectionKey };
-/** 本 URL 对应的内容集合（dev 三合一 hub 时由 getStaticPaths props 注入，否则等于构建期 ACTIVE_COLLECTION）。 */
-const PAGE_COLLECTION: ActiveCollectionKey = routeProps.stewardshipPageCollection ?? ACTIVE_COLLECTION;
+const routeProps = Astro.props as {
+  stewardshipPageCollection?: ActiveCollectionKey;
+  rockwellPageCollection?: ActiveCollectionKey;
+};
+/** 本 URL 对应的内容集合（dev hub 时由 getStaticPaths props 注入，否则等于构建期 ACTIVE_COLLECTION）。 */
+const PAGE_COLLECTION: ActiveCollectionKey =
+  routeProps.stewardshipPageCollection ?? routeProps.rockwellPageCollection ?? ACTIVE_COLLECTION;
 
 /** Monorepo: water-damage vertical (sync with `sites/site-water-damage`). */
 const isWaterDamageHub = PAGE_COLLECTION === "water-damage";
@@ -102,18 +125,21 @@ const entrySlugParam = (slug ?? "").replace(/\.(md|mdx)$/i, "");
 const entry =
   posts.find((p) => (p.slug ?? p.id ?? "").replace(/\.(md|mdx)$/i, "") === entrySlugParam) ?? null;
 if (!entry) {
-  const hubHint = stewardshipDevHubMergeEnabled()
-    ? ""
-    : ` 也可在 <strong>dev</strong> 下使用 <code>DEV_COMMUNITY_STEWARDSHIP_HUB=1</code> 并执行 <code>npm run dev:community-stewardship-hub:fast</code>，即可在同一端口打开 water / siding / plumbing 三个 slug。`;
-  const hint = `当前构建集合为 <code>${ACTIVE_COLLECTION}</code>，未找到 slug「${entrySlugParam}」。` +
-    `若这是 community-stewardship 详情，请先停掉 dev 再运行：` +
-    `<code>npm run dev:community-stewardship-water:fast</code>（或 siding / plumbing 对应脚本），再刷新本 URL。` +
+  const hubHint =
+    stewardshipDevHubMergeEnabled() || rockwellDevHubMergeEnabled()
+      ? ""
+      : ` In dev you can also try <code>DEV_COMMUNITY_STEWARDSHIP_HUB=1</code> + <code>npm run dev:community-stewardship-hub:fast</code> (all three church verticals on one port),` +
+        ` or <code>DEV_ROCKWELL_HUB=1</code> + <code>npm run dev:rockwell-hub:fast</code> (Rockwell roofing / plumbing / pestcontrol).`;
+  const hint =
+    `Build collection is <code>${ACTIVE_COLLECTION}</code>; no content entry matches slug <code>${entrySlugParam}</code>.` +
+    ` For a community-stewardship city page, stop other dev servers and run e.g. <code>npm run dev:community-stewardship-plumbing:fast</code> (or water / siding), then reload.` +
+    ` For Rockwell hubs use <code>npm run dev:rockwell-hub:fast</code> or a single-niche dev script.` +
     hubHint;
   return new Response(
-    `<!DOCTYPE html><html lang="zh-Hans"><head><meta charset="utf-8"><title>404 — 集合与 slug 不匹配</title></head>` +
+    `<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><title>404 — Collection / slug mismatch</title></head>` +
       `<body style="font-family:system-ui,sans-serif;padding:1.5rem;max-width:42rem;line-height:1.5">` +
-      `<h1>404 — 无此内容条目</h1><p>${hint}</p>` +
-      `<p><a href="${import.meta.env.BASE_URL ?? "/"}">返回首页</a></p></body></html>`,
+      `<h1>404 — No matching entry</h1><p>${hint}</p>` +
+      `<p><a href="${import.meta.env.BASE_URL ?? "/"}">Back to home</a></p></body></html>`,
     {
       status: 404,
       headers: { "content-type": "text/html; charset=utf-8" },
@@ -124,13 +150,30 @@ const { Content } = await render(entry);
 const post = entry;
 /** Single source of truth for this URL — canonical must never follow raw params alone. */
 const entrySlug = (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
-const pageUrl = canonicalPageUrl(entrySlug);
-const pageNicheLabel = getNicheLabelForSeed(entrySlug);
 const isRockwellMaine = matchesRockwellMaine({ domainOrUrl: siteConfig.canonicalOrigin });
 const isNewtownFellowshipSite = matchesNewtownFellowshipSite({
   canonicalOrigin: siteConfig.canonicalOrigin,
   siteUrl: siteConfig.siteUrl,
 });
+const newtownPublicOrigin = isNewtownFellowshipSite
+  ? resolveNewtownFellowshipPublicOrigin(siteConfig)
+  : null;
+/** Newtown：Breadcrumb / canonical / LocalBusiness 等与 JSON-LD 一律用教堂本域，禁止沿用误配的主站 origin。 */
+const absCanonicalPageUrl =
+  newtownPublicOrigin != null
+    ? (...segments: string[]) => newtownFellowshipCanonicalPageUrl(newtownPublicOrigin, ...segments)
+    : canonicalPageUrl;
+const pageUrl = absCanonicalPageUrl(entrySlug);
+const pageNicheLabel = getNicheLabelForSeed(entrySlug);
+/** Church detail footer links: explicit per-vertical copy (matches water UX). Never derive from PUBLIC_NICHE_LABEL. */
+const churchStewardshipLinkSubject = isCommunityStewardshipWater
+  ? "Community Stewardship — Water"
+  : isCommunityStewardshipSiding
+    ? "Community Stewardship — Siding"
+    : isCommunityStewardshipPlumbing
+      ? "Community Stewardship — Plumbing"
+      : null;
+const footerLinkSubject = churchStewardshipLinkSubject ?? pageNicheLabel;
 const pageLocation = resolvePageLocation({
   collection: PAGE_COLLECTION,
   title: post.data.title,
@@ -197,16 +240,25 @@ const backupCandidates: { href: string; label: string }[] = [];
 if (stateCodeFromSlug) {
   backupCandidates.push({
     href: internalPath(stateCodeFromSlug.toLowerCase()),
-    label: `Browse ${pageNicheLabel} in ${stateCodeFromSlug}`,
+    label: `Browse ${footerLinkSubject} in ${stateCodeFromSlug}`,
   });
 }
-const other = posts.filter((p) => (p.slug ?? p.id ?? "").replace(/\.(md|mdx)$/i, "") !== entrySlug);
+const other = posts.filter((p) => {
+  const s = (p.slug ?? p.id ?? "").replace(/\.(md|mdx)$/i, "");
+  if (s === entrySlug) return false;
+  /** Same-vertical only: church builds must never surface another collection via PUBLIC_NICHE_LABEL bleed. */
+  if (isCommunityStewardshipHub) {
+    const pfx = `${PAGE_COLLECTION}-`.toLowerCase();
+    return s.toLowerCase().startsWith(pfx);
+  }
+  return true;
+});
 if (other.length > 0) {
   const pick = other[Math.floor(Math.random() * other.length)]!;
   const pickSlug = (pick.slug ?? pick.id ?? "").replace(/\.(md|mdx)$/i, "");
   backupCandidates.push({
     href: internalPath(pickSlug),
-    label: `Another ${pageNicheLabel} page`,
+    label: `Another ${footerLinkSubject} page`,
   });
 }
 const footerExtraLink =
@@ -235,9 +287,9 @@ function cityLabelFromEntry(entry: (typeof posts)[number]): string {
   return cityFromSlug(slugText) ?? "Unknown City";
 }
 
-/** Water-damage city pages: optional ledger (parity with `sites/site-water-damage` state hub). */
+/** Water-damage 商业子仓州页：可选 ledger（与子站 parity）。Stewardship 详情不展示「调度流水」以免与教堂语境冲突。 */
 const slugDispatchFeedRecords: DispatchFeedRecord[] = (() => {
-  if ((!isWaterDamageHub && !isCommunityStewardshipWater) || !stateCodeFromSlug) return [];
+  if (!isWaterDamageHub || !stateCodeFromSlug) return [];
   const st = stateCodeFromSlug.toUpperCase();
   const sameState = posts.filter((p) => {
     const s = (p.slug ?? p.id ?? "").replace(/\.(md|mdx)$/i, "");
@@ -464,10 +516,11 @@ function plumbingMetaLead(): string {
   return `Stop overpaying. Get upfront pricing and verified plumbing. No hidden dispatch fees. Emergency dispatch available 24/7.`;
 }
 
-/** `<title>`: Rockwell 用 Asset Defense 压缩协议；Newtown Fellowship 禁用该语义轴。 */
-const pageTitle = isNewtownFellowshipSite
-  ? buildNewtownFellowshipSerpTitle(pageCity, PAGE_COLLECTION)
-  : buildAssetDefenseSerpTitle();
+/** `<title>`: Rockwell 用 Asset Defense 压缩协议；Newtown Fellowship / 教堂 stewardship 禁用该语义轴。 */
+const pageTitle =
+  isNewtownFellowshipSite || isCommunityStewardshipHub
+    ? buildNewtownFellowshipSerpTitle(pageCity, PAGE_COLLECTION)
+    : buildAssetDefenseSerpTitle();
 
 /** Visible `<h1>` fallback */
 const pageH1Plain = heroAsWater
@@ -494,7 +547,7 @@ const pageH1Plain = heroAsWater
           ? `${pageCity} infrastructure stewardship — protecting your property systems`
           : post.data.title;
 
-const newtownStewardshipH1Line = `Zion Residential Stewardship - Empowering ${(pageCity ?? "Local").replace(/\s+/g, " ").trim()} Neighbors`;
+const newtownStewardshipH1Line = `${(pageCity ?? "Local").replace(/\s+/g, " ").trim()} Residential Stewardship — Empowering Neighbors`;
 const newtownHeroSubline =
   "Faith-rooted neighborhood education and voluntary housing stewardship — informational content only.";
 
@@ -563,13 +616,14 @@ const pageMetaDescription = heroAsWater
         )
       : pageMetaDescriptionDefault;
 
-const pageMetaDescriptionResolved = isNewtownFellowshipSite
-  ? clipMetaDescription(
-      `501(c)(3) educational outreach with maintenance-burden illustrations for neighbors in ${pageCity ?? "this ZIP area"}. ${post.data.description}`,
-    )
-  : pageMetaDescription;
+const pageMetaDescriptionResolved =
+  isNewtownFellowshipSite || isCommunityStewardshipHub
+    ? clipMetaDescription(
+        `501(c)(3) educational outreach with maintenance-burden illustrations for neighbors in ${pageCity ?? "this ZIP area"}. ${post.data.description}`,
+      )
+    : pageMetaDescription;
 
-const ctaVariants = [
+const ctaVariantsCommercial = [
   {
     title: `24/7 Local ${pageNicheLabel} Emergency Service`,
     meta: "Coordinated intake, transparent pricing, and inspection availability where offered.",
@@ -591,32 +645,81 @@ const ctaVariants = [
     meta: "Regional coordination with call-first scheduling and pricing clarity.",
   },
 ];
+const ctaVariantsStewardship = [
+  {
+    title: `Neighborhood ${pageNicheLabel} maintenance education`,
+    meta: "Voluntary checklists and neighbor-facing references — not paid contractor bids, routing desks, or placements.",
+  },
+  {
+    title: `Community ${pageNicheLabel} planning context`,
+    meta: "Illustrative burden framing for stewardship volunteers; not a service marketplace or emergency routing desk.",
+  },
+  {
+    title: `ZIP-area ${pageNicheLabel} stewardship notes`,
+    meta: "Education-first copy grounded in public-style datasets; no pricing, financing, or urgency marketing.",
+  },
+  {
+    title: `${pageNicheLabel} readiness reference`,
+    meta: "Soft guidance for voluntary prep; informational only — not a quote or warranty channel.",
+  },
+  {
+    title: `Local ${pageNicheLabel} volunteer reference desk`,
+    meta: "Informational cues for neighbors — not emergency intake lines, expedited turnaround claims, or vendor endorsements.",
+  },
+];
+const ctaVariants = isCommunityStewardshipHub ? ctaVariantsStewardship : ctaVariantsCommercial;
 const ctaVariant = ctaVariants[stableHash(`${entrySlug}|cta`) % ctaVariants.length]!;
-const serviceLineVariants = [
+const serviceLineVariantsCommercial = [
   `Licensed local technicians available for urgent ${pageNicheLabel.toLowerCase()} service calls with coordinated intake.`,
   `Certified regional coordination for time-sensitive ${pageNicheLabel.toLowerCase()} requests and urgent property issues.`,
   `Qualified local routing for priority ${pageNicheLabel.toLowerCase()} calls with clear intake verification.`,
   `Insured scheduling support for urgent ${pageNicheLabel.toLowerCase()} service needs and same-day windows where available.`,
   `Regional service coordination for ${pageNicheLabel.toLowerCase()} requests with practical timelines and scope clarity.`,
 ];
+const serviceLineVariantsStewardship = [
+  `Stewardship volunteers summarize non-urgent ${pageNicheLabel.toLowerCase()} education topics for neighbors in this ZIP.`,
+  `Neighborhood reference notes emphasize voluntary ${pageNicheLabel.toLowerCase()} maintenance awareness without vendor routing.`,
+  `Community-facing context for ${pageNicheLabel.toLowerCase()} planning — illustrative, not prescriptive.`,
+  `ZIP-local ${pageNicheLabel.toLowerCase()} desk references public-style datasets without replacement-cost claims.`,
+  `Educational copy for ${pageNicheLabel.toLowerCase()} neighbors — not a scheduling desk, paid routing line, or pricing surface.`,
+];
+const serviceLineVariants = isCommunityStewardshipHub
+  ? serviceLineVariantsStewardship
+  : serviceLineVariantsCommercial;
 const serviceLine =
   serviceLineVariants[stableHash(`${PAGE_COLLECTION}|${entrySlug}|svcLine`) % serviceLineVariants.length]!;
-const callBtnVariants = [
+const callBtnVariantsCommercial = [
   `Call now: ${siteConfig.phoneDisplay}`,
   `Tap to call: ${siteConfig.phoneDisplay}`,
   `Request service: ${siteConfig.phoneDisplay}`,
   `Call for scheduling: ${siteConfig.phoneDisplay}`,
   `Phone support: ${siteConfig.phoneDisplay}`,
 ];
+const callBtnVariantsStewardship = [
+  `Community desk: ${siteConfig.phoneDisplay}`,
+  `Neighbor intake line: ${siteConfig.phoneDisplay}`,
+  `Stewardship office: ${siteConfig.phoneDisplay}`,
+  `Volunteer coordination: ${siteConfig.phoneDisplay}`,
+  `Information line: ${siteConfig.phoneDisplay}`,
+];
+const callBtnVariants = isCommunityStewardshipHub ? callBtnVariantsStewardship : callBtnVariantsCommercial;
 const callBtnLabel =
   callBtnVariants[stableHash(`${PAGE_COLLECTION}|${entrySlug}|callBtn`) % callBtnVariants.length]!;
-const headerVariants = [
+const headerVariantsCommercial = [
   `National ${pageNicheLabel} intake & regional coordination`,
   `${pageNicheLabel} service routing network`,
   `Regional ${pageNicheLabel} coordination desk`,
   `${pageNicheLabel} scheduling & response hub`,
   `Regional ${pageNicheLabel} service access point`,
 ];
+const headerVariantsStewardship = [
+  `Community ${pageNicheLabel} education desk`,
+  `Neighborhood stewardship reference — ${pageNicheLabel}`,
+  `ZIP-local ${pageNicheLabel} volunteer notes`,
+  `Regional ${pageNicheLabel} planning context (non-commercial)`,
+  `Public education framing — ${pageNicheLabel}`,
+];
+const headerVariants = isCommunityStewardshipHub ? headerVariantsStewardship : headerVariantsCommercial;
 const headerVariant = headerVariants[stableHash(`${PAGE_COLLECTION}|${entrySlug}|header`) % headerVariants.length]!;
 const faqTitleVariants = [
   "Frequently Asked Questions",
@@ -685,23 +788,45 @@ const relatedTitleVariants = [
   `Regional restoration paths in ${stateCodeFromSlug ?? "your state"}`,
   `Additional city coverage in ${stateCodeFromSlug ?? "your state"}`,
 ] as const;
-const relatedTitle =
-  relatedTitleVariants[stableHash(`${PAGE_COLLECTION}|${entrySlug}|relatedTitle`) % relatedTitleVariants.length]!;
+const relatedTitleVariantsStewardship = [
+  `Additional neighbor education pages in ${stateCodeFromSlug ?? "your state"}`,
+  `More ZIP stewardship briefs in ${stateCodeFromSlug ?? "your state"}`,
+  `Related community housing notes in ${stateCodeFromSlug ?? "your state"}`,
+  `Further stewardship reference pages in ${stateCodeFromSlug ?? "your state"}`,
+  `Other ZIP education anchors in ${stateCodeFromSlug ?? "your state"}`,
+] as const;
+const relatedTitle = isCommunityStewardshipHub
+  ? relatedTitleVariantsStewardship[
+      stableHash(`${PAGE_COLLECTION}|${entrySlug}|relatedTitle`) % relatedTitleVariantsStewardship.length
+    ]!
+  : relatedTitleVariants[stableHash(`${PAGE_COLLECTION}|${entrySlug}|relatedTitle`) % relatedTitleVariants.length]!;
 const showFaqRollout = stableHash(`${PAGE_COLLECTION}|${entrySlug}|showFaq`) % 10 >= 3;
 const showRelatedRollout = stableHash(`${PAGE_COLLECTION}|${entrySlug}|showRelated`) % 10 >= 3;
 /** Stewardship 垂直：不做 A/B 隐藏，避免 dev/教育页「块整块消失」观感 */
 const showFaq = isCommunityStewardshipHub ? true : showFaqRollout;
 const showRelated = isCommunityStewardshipHub ? true : showRelatedRollout;
-const stateNotice = stateCodeFromSlug
-  ? `Notice: This ${stateCodeFromSlug} page summarizes regional infrastructure maintenance coordination and local topographic context; it is not a government bulletin.`
-  : "Notice: This page summarizes regional infrastructure maintenance coordination and local topographic context; it is not a government bulletin.";
+const stateNotice = isCommunityStewardshipHub
+  ? stateCodeFromSlug
+    ? `Notice: This ${stateCodeFromSlug} page is neighbor-facing housing stewardship education only — not a contractor marketplace, dispatch desk, or government bulletin.`
+    : "Notice: This page is neighbor-facing housing stewardship education only — not a contractor marketplace, dispatch desk, or government bulletin."
+  : stateCodeFromSlug
+    ? `Notice: This ${stateCodeFromSlug} page summarizes regional infrastructure maintenance coordination and local topographic context; it is not a government bulletin.`
+    : "Notice: This page summarizes regional infrastructure maintenance coordination and local topographic context; it is not a government bulletin.";
 const telHref = `tel:${siteConfig.phoneE164.replace(/^\+/, "")}`;
 const dispatcherCountyLabel = (
   String(post.data.county ?? "").trim() ||
   (pageCity && stateCodeFromSlug ? `${pageCity}, ${stateCodeFromSlug}` : stateCodeFromSlug ?? "Regional")
 ).trim();
-const dispatcherClaimsLine =
-  "Scheduling visibility depends on confirmed technician availability; this page does not display simulated queue depth.";
+const dispatcherClaimsLine = isCommunityStewardshipHub
+  ? "Volunteer-facing references emphasize education-first notes; contractor conversations happen outside this brief."
+  : "Scheduling visibility depends on confirmed technician availability; this page does not display simulated queue depth.";
+const phoneBtnTrustSecondary = isCommunityStewardshipHub
+  ? `Newtown Fellowship volunteer intake — ${trustDispatchPlace} area (informational only).`
+  : `National Dispatch Hub - Connecting to Local ${trustDispatchPlace} Response Team.`;
+const phoneDispatchZipHintText = isCommunityStewardshipHub
+  ? `ZIP neighborhood anchor: ${desktopDispatchZip} (local context label — not a live queue).`
+  : `Dispatching now for ${desktopDispatchZip}`;
+const dispatcherDeskLabel = isCommunityStewardshipHub ? "Neighbor education desk" : "Regional coordination desk";
 
 /** Pest-control only: insurance / termite equity line (below calculator “price”). */
 const pageZipForPestPulse = (() => {
@@ -831,7 +956,7 @@ const faqSchema = buildFaqSchema(pageFaqItemsForPage);
 
 const breadcrumbListSchema = buildBreadcrumbListSchema(
   buildSlugPageBreadcrumbItems({
-    canonicalPageUrl,
+    canonicalPageUrl: absCanonicalPageUrl,
     serviceHubLabel: PUBLIC_NICHE_LABEL,
     stateCode: stateCodeFromSlug,
     cityDisplayName: pageCity,
@@ -900,7 +1025,7 @@ const casTitleId = domPrefix ? `${domPrefix}-cas-title` : "cas-title";
 
 const layoutSkinCss = (() => {
   const L = layoutRootClass;
-  return [
+  const base = [
     `.${L}{width:min(800px,92vw);margin:2rem auto;background:#fff;border-radius:12px;padding:2rem 1.25rem;box-shadow:0 8px 30px rgba(2,6,23,0.08)}`,
     `.${L} [class*="${L}__shell-"]{display:block}`,
     `.${L}__hero{background:#fefce8;border-bottom:1px solid #fde68a;padding:1rem 1.25rem 1.15rem;margin:0 0 1rem;border-radius:0 0 10px 10px}`,
@@ -911,6 +1036,11 @@ const layoutSkinCss = (() => {
     `.${L}__cas-h{font-size:1.05rem;margin:0 0 0.45rem;color:#0f172a;font-weight:700}`,
     `.${L}__cas-body{margin:0;font-size:0.9rem;line-height:1.58;color:#334155;text-align:left}`,
   ].join("");
+  if (!isCommunityStewardshipHub) return base;
+  /** Church stewardship (water / siding / plumbing): one shared deep-blue skin — matches water reference layout. */
+  const vars = `.${L}{--nf-skin-deep:#052c4d;--nf-skin-mid:#0e4f7c;--nf-skin-accent:#0ea5e9;--nf-skin-soft:#e0f2fe;--nf-skin-ink:#0c1929;}`;
+  const heroSkin = `.${L}__hero{background:linear-gradient(180deg,var(--nf-skin-soft) 0%,#f8fafc 58%,#ffffff 100%);border-bottom:1px solid #cbd5e1;border-left:5px solid var(--nf-skin-deep);}`;
+  return base + vars + heroSkin;
 })();
 const metaAnalysisPair = pickTwoMetaAnalysisLines(entrySlug, PAGE_COLLECTION);
 const engineeringNoticeClauses = pickTwoEngineeringNoticeClauses(entrySlug, PAGE_COLLECTION);
@@ -1252,7 +1382,7 @@ const microGeoLine = buildMicroGeoFingerprintLine({
         margin-top: 0;
       }
     </style>
-    <!-- Markdown 由 <Content /> 注入，子节点无本页 scoped 属性；用 is:global + 固定 id，避免 dev/HMR 下偶发“正文像空白”（与 build 静态 HTML 一致） -->
+    <!-- Markdown from <Content />; child nodes lack page-scoped attrs. is:global + stable id avoids dev/HMR blank-body glitch (matches static build HTML). -->
     <style is:global>
       [id$="article-md-body"] {
         max-width: 100%;
@@ -1301,7 +1431,22 @@ const microGeoLine = buildMicroGeoFingerprintLine({
     <main class={layoutRootClass}>
       <article>
         {
-          heroAsWater ? (
+          isCommunityStewardshipHub ? (
+            <>
+              <section class={`${layoutRootClass}__hero`} aria-label="Service area headline">
+                <Breadcrumbs
+                  homeHref={internalPath()}
+                  stateLabel={stateCodeFromSlug}
+                  stateHref={stateCodeFromSlug ? internalPath(stateCodeFromSlug.toLowerCase()) : null}
+                  cityLabel={pageCity}
+                />
+                <h1>{newtownStewardshipH1Line}</h1>
+                <p style="margin: 0.25rem 0 0; color: #475569; font-size: 0.98rem;">
+                  {newtownHeroSubline}
+                </p>
+              </section>
+            </>
+          ) : heroAsWater ? (
             <>
               {pestInsuranceEquityNote && !isNewtownFellowshipSite ? (
                 <p class="pest-equity-insurance-note">{pestInsuranceEquityNote}</p>
@@ -1432,7 +1577,7 @@ const microGeoLine = buildMicroGeoFingerprintLine({
             if (slot === "risk") {
               return (
                 <div class={slotShell("risk")}>
-                  <OfficialRiskNodeHeader zipCode={desktopDispatchZip} />
+                  <OfficialRiskNodeHeader zipCode={desktopDispatchZip} stewardshipMode={isCommunityStewardshipHub} />
                 </div>
               );
             }
@@ -1446,10 +1591,12 @@ const microGeoLine = buildMicroGeoFingerprintLine({
                     accent={themeAccent}
                     domPrefix={domPrefix}
                     presentation={
-                      isNewtownFellowshipSite ? "stewardship_provision_guide" : "value_protection"
+                      isCommunityStewardshipHub || isNewtownFellowshipSite
+                        ? "stewardship_provision_guide"
+                        : "value_protection"
                     }
                     visualizedAssessmentLine={
-                      isNewtownFellowshipSite
+                      isCommunityStewardshipHub || isNewtownFellowshipSite
                         ? null
                         : heroAsWater
                           ? waterVisualLine
@@ -1458,7 +1605,11 @@ const microGeoLine = buildMicroGeoFingerprintLine({
                             : null
                     }
                     terrainRiskNotice={
-                      isNewtownFellowshipSite ? null : !heroAsWater && !heroAsPlumbing ? roofTerrainNotice : null
+                      isCommunityStewardshipHub || isNewtownFellowshipSite
+                        ? null
+                        : !heroAsWater && !heroAsPlumbing
+                          ? roofTerrainNotice
+                          : null
                     }
                   />
                 </div>
@@ -1483,7 +1634,9 @@ const microGeoLine = buildMicroGeoFingerprintLine({
                     elevationFt={typeof post.data.elevationFt === "number" ? post.data.elevationFt : undefined}
                     county={post.data.county as string | undefined}
                     accent={themeAccent}
-                    medianContextCardTitle={isNewtownFellowshipSite ? "Market Context Supplement" : null}
+                    medianContextCardTitle={
+                      isCommunityStewardshipHub || isNewtownFellowshipSite ? "Market Context Supplement" : null
+                    }
                   />
                 </div>
               ) : null;
@@ -1589,16 +1742,24 @@ const microGeoLine = buildMicroGeoFingerprintLine({
                         </svg>
                         <span class="phone-btn__label">{callBtnLabel}</span>
                       </span>
-                      <span class="phone-btn__trust">
-                        National Dispatch Hub - Connecting to Local {trustDispatchPlace} Response Team.
-                      </span>
+                      <span class="phone-btn__trust">{phoneBtnTrustSecondary}</span>
                     </a>
-                    <p class="phone-dispatch-zip-hint">Dispatching now for {desktopDispatchZip}</p>
+                    <p class="phone-dispatch-zip-hint">{phoneDispatchZipHintText}</p>
                     <div class="national-dispatch-mobile-wrap">
-                      <NationalDispatchDisclaimer city={pageCity} slug={entrySlug} />
+                      {isCommunityStewardshipHub ? (
+                        <p
+                          style="margin: 0.4rem 0 0; padding: 0 0.35rem; font-size: 9px; line-height: 1.35; color: #6b7280; text-align: center;"
+                        >
+                          Educational note: this block mirrors the commercial detail layout for consistency; wording
+                          here is neighbor-facing only — not nationwide intake routing or paid contractor handoff from
+                          this page.
+                        </p>
+                      ) : (
+                        <NationalDispatchDisclaimer city={pageCity} slug={entrySlug} />
+                      )}
                     </div>
                     <p class="dispatcher-hookup-line">
-                      Regional coordination desk ({dispatcherCountyLabel}): {dispatcherClaimsLine}
+                      {dispatcherDeskLabel} ({dispatcherCountyLabel}): {dispatcherClaimsLine}
                     </p>
                     {pestLatestDispatchLine ? <p class="pest-zip-dispatch-pulse">{pestLatestDispatchLine}</p> : null}
                   </div>
@@ -1661,8 +1822,9 @@ const microGeoLine = buildMicroGeoFingerprintLine({
         >
           <p>
             Technical risk assessment infrastructure and localized data telemetry provided by the Rockwell
-            Infrastructure Group via a digital outreach grant. For immediate physical mitigation, our community desk
-            routes inquiries through verified response networks.
+            Infrastructure Group via a digital outreach grant. This community desk provides educational routing only —
+            neighbors coordinate licensed help directly; this page does not operate as a paid dispatch or contractor
+            marketplace.
           </p>
         </aside>
       ) : null
@@ -1682,7 +1844,7 @@ const microGeoLine = buildMicroGeoFingerprintLine({
       zip={(pageLocation?.zip ?? String(post.data.zipCode ?? "").trim()) || "00000"}
       nicheLabel={pageNicheLabel}
       slugSeed={entrySlug}
-      stickyVariant={isNewtownFellowshipSite ? "newtown_fellowship" : "default"}
+      stickyVariant={isNewtownFellowshipSite || isCommunityStewardshipHub ? "newtown_fellowship" : "default"}
       collectionKey={PAGE_COLLECTION}
     />
   </body>

@@ -28,12 +28,15 @@ function stableHash(input: string): number {
 }
 
 const hasValue = typeof homeUsd === "number" && Number.isFinite(homeUsd) && homeUsd > 0;
+const stewardshipPlainMoney = Boolean(medianContextCardTitle?.trim());
 const formattedHome = hasValue
-  ? new Intl.NumberFormat("en-US", {
-      style: "currency",
-      currency: "USD",
-      maximumFractionDigits: 0,
-    }).format(homeUsd!)
+  ? stewardshipPlainMoney
+    ? `USD ${new Intl.NumberFormat("en-US", { maximumFractionDigits: 0 }).format(homeUsd!)} (illustrative median)`
+    : new Intl.NumberFormat("en-US", {
+        style: "currency",
+        currency: "USD",
+        maximumFractionDigits: 0,
+      }).format(homeUsd!)
   : null;
 
 const place =

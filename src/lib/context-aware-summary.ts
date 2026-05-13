@@ -84,6 +84,37 @@ const SENTENCE_TEMPLATES = [
   "Contents pack-out deferral language for {niche} reflects capacity constraints in {state}; ZIP {zip} intake for {city} is not a pack-out guarantee.",
 ] as const;
 
+/** 教堂 stewardship 详情 CAS：与商业「调度/队列」话术解耦，仍用同一 fill 占位符保持版式 */
+const STEWARDSHIP_SENTENCE_TEMPLATES = [
+  "Neighbors near {city} ({zip}, {state}) can use this {niche} page as a volunteer-education brief—figures are illustrative, not bids or insurer findings.",
+  "ZIP {zip} appears as a locality label for {city} in {state}; it does not unlock contractor assignment or paid routing from this nonprofit-facing page.",
+  "Moisture and wind language under {niche} summarizes common {state} housing archetypes; {city} homeowners should confirm site-specific conditions outside this brief.",
+  "Seasonal notes for {niche} in {state} are calendar education for {city}; ZIP {zip} does not encode live weather or emergency alerts.",
+  "Permit and code references for {niche} vary by {state} jurisdiction; {city} readers near ZIP {zip} should verify AHJ rules with qualified pros when planning work.",
+  "Photo documentation habits described for {niche} help neighbors in {state} prepare questions; {city} ({zip}) entries remain non-diagnostic.",
+  "Insurance language on {niche} topics is informational for {state}; {city} residents in ZIP {zip} should confirm coverage with their carrier.",
+  "Material lead-time education for {niche} applies broadly across {state}; ZIP {zip} is only a neighborhood anchor for {city}, not a supplier contract.",
+  "Hazard framing for {niche} uses regional patterns in {state}, not a calibrated survey for {city} or ZIP {zip}.",
+  "Attic dew-point education for {niche} highlights common {state} attic risks; {city} at ZIP {zip} still needs on-site measurements for decisions.",
+  "Gutter and drainage context for {niche} can inform fascia questions in {state}; {city} ZIP {zip} labels do not replace a walkthrough.",
+  "Freeze–thaw joint notes for {niche} describe mid-continent envelopes in {state}; ZIP {zip} is not a geotechnical report for {city}.",
+  "Wildland–urban interface wording for {niche} is episodic education in parts of {state}; ZIP {zip} does not read live fire perimeters for {city}.",
+  "Interior vapor-drive notes for {niche} in winter reference common {state} air-barrier loads; {city} ZIP {zip} briefs still need blower-door data on site.",
+  "Hail-prone corridor language for {niche} references historical tracks in {state}; ZIP {zip} does not assert a current hail watch for {city}.",
+  "Low-slope drain wording for {niche} highlights debris scenarios in {state}; ZIP {zip} is a label for local context, not hydraulic modeling for {city}.",
+  "Skylight curb education for {niche} flags leak-prone transitions in {state} retrofits; {city} ZIP {zip} text is not a curb geometry survey.",
+  "Metal panel expansion notes for {niche} warn about heat cycles in {state}; ZIP {zip} does not verify clip schedules at {city}.",
+  "Membrane lap peel education for {niche} describes shoulder-season tack in {state}; ZIP {zip} labels do not replace manufacturer sheets for {city}.",
+  "WRB strip-off notes for {niche} explain why scopes can change in {state} reclads; {city} ZIP {zip} cannot see behind cladding remotely.",
+  "Silica control language for {niche} references fiber-cement cutting in {state}; ZIP {zip} education does not certify containment at {city}.",
+  "PRV and gauge wording for {niche} applies to accessible fixtures in {state}; ZIP {zip} for {city} is not a pressure-test log.",
+  "Trap versus stop vocabulary for {niche} itemizes common {state} planning splits; ZIP {zip} labels do not replace written estimates for {city}.",
+  "Filtration education for {niche} is not lab testing in {state}; ZIP {zip} intake for {city} remains non-diagnostic.",
+  "Water-heater permit education for {niche} varies by AHJ in {state}; ZIP {zip} readers near {city} should budget permit lead times separately.",
+  "Termite label-interval language for {niche} follows registered directions in {state}; ZIP {zip} for {city} is not an application record.",
+  "Wood repair versus liquid treatment vocabulary for {niche} is a common {state} education fork; ZIP {zip} briefs do not guarantee timelines in {city}.",
+] as const;
+
 function fill(t: string, p: ContextSummaryInput): string {
   const state = p.stateCode ?? "US";
   const city = p.cityDisplay?.trim() || "the listed locality";
@@ -97,12 +128,14 @@ function fill(t: string, p: ContextSummaryInput): string {
 
 export function buildContextAwareSummary(p: ContextSummaryInput): string {
   const target = 100 + (stableHash(`${p.seedSlug}|caswc`) % 201);
-  const n = SENTENCE_TEMPLATES.length;
+  const stewardship = p.collectionKey.startsWith("community-stewardship-");
+  const templates = stewardship ? STEWARDSHIP_SENTENCE_TEMPLATES : SENTENCE_TEMPLATES;
+  const n = templates.length;
   let out = "";
   let i = 0;
   while (wordCount(out) < target && i < 400) {
     const idx = stableHash(`${p.seedSlug}|cas${i}`) % n;
-    const piece = fill(SENTENCE_TEMPLATES[idx]!, p);
+    const piece = fill(templates[idx]!, p);
     out = out ? `${out} ${piece}` : piece;
     i++;
   }
@@ -114,7 +147,7 @@ export function buildContextAwareSummary(p: ContextSummaryInput): string {
     let j = i;
     while (wordCount(out) < 100 && j < 500) {
       const idx = stableHash(`${p.seedSlug}|caspad${j}`) % n;
-      out = `${out} ${fill(SENTENCE_TEMPLATES[idx]!, p)}`;
+      out = `${out} ${fill(templates[idx]!, p)}`;
       j++;
     }
   }

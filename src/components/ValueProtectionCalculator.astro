@@ -36,11 +36,13 @@ const wrapClass = [
 
 const hasValue = typeof homeUsd === "number" && Number.isFinite(homeUsd) && homeUsd > 0;
 const formattedHome = hasValue
-  ? new Intl.NumberFormat("en-US", {
-      style: "currency",
-      currency: "USD",
-      maximumFractionDigits: 0,
-    }).format(homeUsd!)
+  ? isProvisionGuide
+    ? `USD ${new Intl.NumberFormat("en-US", { maximumFractionDigits: 0 }).format(homeUsd!)} (illustrative)`
+    : new Intl.NumberFormat("en-US", {
+        style: "currency",
+        currency: "USD",
+        maximumFractionDigits: 0,
+      }).format(homeUsd!)
   : null;
 
 const cityLine = city ? `${city}` : "this area";
@@ -118,7 +120,7 @@ const initialStressIndex = stressIndexFromPct(defaultPct);
             <label class="vpc-range-label" for={`${rootId}-range`}>
               {
                 isProvisionGuide
-                  ? "Scenario stress — estimated maintenance burden (%)（预估维护负担）"
+                  ? "Scenario stress — estimated maintenance burden (%)"
                   : "Scenario stress — estimated exposure (%)"
               }
             </label>
@@ -183,7 +185,7 @@ const initialStressIndex = stressIndexFromPct(defaultPct);
     is:inline
     set:html={`(function(){var r=document.getElementById(${JSON.stringify(
       rootId,
-    )});if(!r)return;var u=r.getAttribute("data-vpc-usd");var h=u?parseInt(u,10):0;if(!h||!isFinite(h))return;var g=r.querySelector("input[type=range]"),o=r.querySelector("output");if(!g||!o)return;var sc=r.querySelector(".vpc-risk-meter-score");var ro=o.closest(".vpc-readout");function f(n){return new Intl.NumberFormat("en-US",{style:"currency",currency:"USD",maximumFractionDigits:0}).format(n)}function idx(p){return Math.min(100,Math.round(18+(+p||0)*2.5))}function s(){var p=+g.value||0;o.textContent=f(Math.round(h*p/100));if(sc)sc.textContent=String(idx(p));if(ro){if(p>10)ro.classList.add("vpc-readout--mitigation-required");else ro.classList.remove("vpc-readout--mitigation-required")}}g.addEventListener("input",s);s();})();`}
+    )});if(!r)return;var u=r.getAttribute("data-vpc-usd");var h=u?parseInt(u,10):0;if(!h||!isFinite(h))return;var g=r.querySelector("input[type=range]"),o=r.querySelector("output");if(!g||!o)return;var sc=r.querySelector(".vpc-risk-meter-score");var ro=o.closest(".vpc-readout");var provision=${isProvisionGuide ? "1" : "0"};function f(n){if(provision)return "USD "+new Intl.NumberFormat("en-US",{maximumFractionDigits:0}).format(n)+" (illustrative)";return new Intl.NumberFormat("en-US",{style:"currency",currency:"USD",maximumFractionDigits:0}).format(n)}function idx(p){return Math.min(100,Math.round(18+(+p||0)*2.5))}function s(){var p=+g.value||0;o.textContent=f(Math.round(h*p/100));if(sc)sc.textContent=String(idx(p));if(ro){if(p>10)ro.classList.add("vpc-readout--mitigation-required");else ro.classList.remove("vpc-readout--mitigation-required")}}g.addEventListener("input",s);s();})();`}
   />
 ) : null}
 
