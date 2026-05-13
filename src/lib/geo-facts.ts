@@ -51,7 +51,7 @@ export const STATE_PHYSICAL_ENVIRONMENT: Record<string, StateGeoFact> = {
   CT: {
     label: "Nor’easter moisture & freeze–thaw",
     narrative:
-      "Coastal and inland freeze–thaw cycling stresses masonry, flashing, and asphaltic layers. Wind-driven precipitation during coastal lows tests siding and roof-to-wall interfaces.",
+      "Coastal and inland freeze–thaw cycling stresses masonry, flashing, and asphaltic layers. Wind-driven precipitation during coastal lows tests cladding and roof-to-wall interfaces.",
   },
   DE: {
     label: "Humid Atlantic plain",
@@ -101,7 +101,7 @@ export const STATE_PHYSICAL_ENVIRONMENT: Record<string, StateGeoFact> = {
   KS: {
     label: "High plains wind & hail",
     narrative:
-      "Sustained wind and hail episodes are recurring roof and siding stressors. Wide open exposure increases driving rain at gable ends and corners.",
+      "Sustained wind and hail episodes are recurring roof and wall-cladding stressors. Wide open exposure increases driving rain at gable ends and corners.",
   },
   KY: {
     label: "Humid subtropical rainfall",
@@ -114,9 +114,9 @@ export const STATE_PHYSICAL_ENVIRONMENT: Record<string, StateGeoFact> = {
       "High humidity and tropical rainfall intensities stress drainage systems. Wind and surge-prone coastlines place additional demands on roof attachments and opening protection.",
   },
   ME: {
-    label: "Marine cold & ice dam context",
+    label: "Marine cold & eaves-ice context",
     narrative:
-      "Snow retention and ice dam formation at eaves can back water under shingles if thermal bridging or ventilation is inadequate. Coastal spray adds salt exposure on exposed hardware.",
+      "Snow retention and ice-dam formation at eaves can back water under shingles if thermal bridging or ventilation is inadequate. Coastal spray adds salt exposure on exposed hardware.",
   },
   MD: {
     label: "Atlantic humidity & winter freeze",
@@ -126,7 +126,7 @@ export const STATE_PHYSICAL_ENVIRONMENT: Record<string, StateGeoFact> = {
   MA: {
     label: "Coastal nor’easters & freeze–thaw",
     narrative:
-      "Wind-driven rain and snow loads test roof continuity and ice dam controls. Salt air near the coast accelerates corrosion on metals and fasteners.",
+      "Wind-driven rain and snow loads test roof continuity and ice-dam controls. Salt air near the coast accelerates corrosion on metals and fasteners.",
   },
   MI: {
     label: "Great Lakes lake-effect snow & humidity",
@@ -136,7 +136,7 @@ export const STATE_PHYSICAL_ENVIRONMENT: Record<string, StateGeoFact> = {
   MN: {
     label: "Deep cold & heavy snow",
     narrative:
-      "Long subfreezing periods and substantial snowpack stress roof structure and ice dam mitigation. Frost depth affects buried utilities and foundation drainage.",
+      "Long subfreezing periods and substantial snowpack stress roof structure and ice-dam mitigation. Frost depth affects buried utilities and foundation drainage.",
   },
   MS: {
     label: "Gulf humidity & convective wind",
@@ -166,7 +166,7 @@ export const STATE_PHYSICAL_ENVIRONMENT: Record<string, StateGeoFact> = {
   NH: {
     label: "Northern freeze–thaw & snow",
     narrative:
-      "Cold winters and snow retention increase ice dam and icicle loading at eaves. Interior moisture control must balance tight envelopes with adequate drying potential.",
+      "Cold winters and snow retention increase ice-dam and icicle loading at eaves. Interior moisture control must balance tight envelopes with adequate drying potential.",
   },
   NJ: {
     label: "Humid coast & freeze–thaw",
@@ -206,12 +206,12 @@ export const STATE_PHYSICAL_ENVIRONMENT: Record<string, StateGeoFact> = {
   OR: {
     label: "Marine west-coast moisture",
     narrative:
-      "Persistent cloud-season moisture and wind-driven rain test siding drainage planes and deck ledger details. East of the Cascades, aridity and wildfire smoke exposure rise.",
+      "Persistent cloud-season moisture and wind-driven rain test cladding drainage planes and deck ledger details. East of the Cascades, aridity and wildfire smoke exposure rise.",
   },
   PA: {
     label: "Freeze–thaw & humid summers",
     narrative:
-      "Seasonal freeze–thaw and humid summers wear exterior sealants and low-slope membranes. Western snow belts add roof load and ice dam considerations.",
+      "Seasonal freeze–thaw and humid summers wear exterior sealants and low-slope membranes. Western snow belts add roof load and ice-dam considerations.",
   },
   RI: {
     label: "Coastal salt & nor’easter exposure",
@@ -246,7 +246,7 @@ export const STATE_PHYSICAL_ENVIRONMENT: Record<string, StateGeoFact> = {
   VT: {
     label: "Freeze–thaw cycle & snow load",
     narrative:
-      "Cold-climate freeze–thaw cycling stresses masonry, asphalt shingles, and flashing terminations. Ice dams and roof-edge ice loading are common when attic thermal performance is uneven.",
+      "Cold-climate freeze–thaw cycling stresses masonry, asphalt shingles, and flashing terminations. Roof-edge ice ridges and icicle loading are common when attic thermal performance is uneven.",
   },
   VA: {
     label: "Humid mid-Atlantic & coastal salt",
@@ -266,7 +266,7 @@ export const STATE_PHYSICAL_ENVIRONMENT: Record<string, StateGeoFact> = {
   WI: {
     label: "Lake-effect snow & deep cold",
     narrative:
-      "Heavy snow and cold increase ice dam and roof load concerns. Spring melt and summer humidity both stress below-grade waterproofing.",
+      "Heavy snow and cold increase ice-dam and roof load concerns. Spring melt and summer humidity both stress below-grade waterproofing.",
   },
   WY: {
     label: "High-elevation cold & wind",

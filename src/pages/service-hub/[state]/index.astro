@@ -243,7 +243,7 @@ const hazardText = hazards[state] ??
   "extreme rainfall, wind-driven envelope stress, and seasonal freeze-thaw cycles";
 
 const overviewA = `${stateName} regional maintenance and emergency response routing is managed through a distributed dispatch network that synchronizes city-level intake, incident triage, and field execution coverage. This architecture improves operational continuity for property owners, insurers, and compliance reviewers by reducing lag between event detection and structured intervention workflows.`;
-const overviewB = `Risk controls in ${stateName} are calibrated against ${hazardText}, as these patterns can directly affect property value through moisture intrusion, structural envelope degradation, and utility-system instability. The city matrix below maps each location to service-specific channels for water, siding, and plumbing response, preserving auditable path integrity across the statewide service network.`;
+const overviewB = `Risk controls in ${stateName} are calibrated against ${hazardText}, as these patterns can directly affect property value through moisture intrusion, structural envelope degradation, and utility-system instability. The city matrix below maps each location to service-specific channels for water, exterior cladding, and plumbing response, preserving auditable path integrity across the statewide service network.`;
 
 const canonicalUrl = `https://realtorsatthebeach.com/service-hub/${state}/`;
 const breadcrumbSchema = {
@@ -281,7 +281,7 @@ const topCitiesItemListSchema = {
     <title>{stateName} Service Hub | National Hub</title>
     <meta
       name="description"
-      content={`${stateName} city matrix for Water, Siding, and Plumbing service routing under a statewide local service distribution network.`}
+      content={`${stateName} city matrix for water, exterior cladding, and plumbing service routing under a statewide local service distribution network.`}
     />
     <meta name="robots" content="index,follow" />
     <link rel="canonical" href={canonicalUrl} />
@@ -444,7 +444,7 @@ const topCitiesItemListSchema = {
               <p class="svc">
                 <a href={`/water-damage/${citySlug}/`}>Water</a>
                 <span class="bar">|</span>
-                <a href={`/siding-services/${citySlug}/`}>Siding</a>
+                <a href={`/siding-services/${citySlug}/`}>Cladding</a>
                 <span class="bar">|</span>
                 <a href={`/plumbing/${citySlug}/`}>Plumbing</a>
               </p>

@@ -338,7 +338,7 @@ const FAQ_BY_COLLECTION: Record<ActiveCollectionKey, FaqItem[]> = {
     {
       question: "Can slab leak symptoms be triaged before invasive demolition?",
       answer:
-        "Often, yes. Listening windows, pressure holds, and moisture mapping may be used to narrow the search area.",
+        "Often, yes. Listening windows, pressure holds, and targeted moisture tracing may be used to narrow the search area.",
     },
     {
       question: "Do you handle hydro-jetting for grease-heavy kitchen lines?",
@@ -713,7 +713,7 @@ const FAQ_BY_COLLECTION: Record<ActiveCollectionKey, FaqItem[]> = {
     {
       question: "Can slab leak symptoms be triaged before invasive demolition?",
       answer:
-        "Often, yes. Listening windows, pressure holds, and moisture mapping may be used to narrow the search area.",
+        "Often, yes. Listening windows, pressure holds, and targeted moisture tracing may be used to narrow the search area.",
     },
     {
       question: "Do you handle hydro-jetting for grease-heavy kitchen lines?",
