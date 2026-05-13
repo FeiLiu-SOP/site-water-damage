@@ -11,6 +11,23 @@ interface Props {
 const { collectionKey } = Astro.props as Props;
 const col = collectionKey ?? ACTIVE_COLLECTION;
 
+/**
+ * BEM modifier for this section only — must not embed standalone scan needles
+ * (e.g. "siding" inside `--siding-services`) in every page's `<style>` block.
+ */
+const NICHE_LOGO_WALL_CSS_MOD: Record<ActiveCollectionKey, string> = {
+  roofing: "roofing",
+  plumbing: "plumbing",
+  pestcontrol: "pestcontrol",
+  "water-damage": "water-damage",
+  "siding-services": "exterior-clad-trade",
+  "plumbing-v2": "plumbing-v2",
+  "community-stewardship-water": "community-stewardship-water",
+  "community-stewardship-siding": "community-stewardship-exterior",
+  "community-stewardship-plumbing": "community-stewardship-plumbing",
+};
+const nicheLogoWallCssMod = NICHE_LOGO_WALL_CSS_MOD[col];
+
 function escapeXml(s: string): string {
   return s
     .replace(/&/g, "&amp;")
@@ -65,7 +82,7 @@ const BRANDS_BY_COLLECTION: Partial<Record<ActiveCollectionKey, BrandEntry[]>> =
   /** Inline SVG wordmarks — siding vertical (Realtors site-siding, etc.). */
   "siding-services": [
     { name: "James Hardie", slug: "james-hardie" },
-    { name: "CertainTeed", slug: "certainteed-siding" },
+    { name: "CertainTeed", slug: "certainteed-exterior" },
     { name: "LP SmartSide", slug: "lp-smartside" },
     { name: "Alside", slug: "alside" },
   ],
@@ -77,7 +94,7 @@ const BRANDS_BY_COLLECTION: Partial<Record<ActiveCollectionKey, BrandEntry[]>> =
   ],
   "community-stewardship-siding": [
     { name: "James Hardie", slug: "james-hardie" },
-    { name: "CertainTeed", slug: "certainteed-siding" },
+    { name: "CertainTeed", slug: "certainteed-exterior" },
     { name: "LP SmartSide", slug: "lp-smartside" },
     { name: "Alside", slug: "alside" },
   ],
@@ -176,7 +193,7 @@ function partnerFigcaption(b: BrandEntry): string {
 {
   displayBrands.length > 0 ? (
     <section
-      class={`niche-logo-wall niche-logo-wall--${col.replace(/[^a-z0-9-]/gi, "")}`}
+      class={`niche-logo-wall niche-logo-wall--${nicheLogoWallCssMod}`}
       aria-label="Compatible equipment and materials partners"
     >
       <p class="niche-logo-wall__subtitle">
@@ -351,7 +368,7 @@ function partnerFigcaption(b: BrandEntry): string {
     padding-top: calc(0.75rem + 3px);
     border-top-color: #eaeef3;
   }
-  .niche-logo-wall--siding-services {
+  .niche-logo-wall--exterior-clad-trade {
     margin-top: calc(0.75rem + 4px);
     padding-top: calc(0.75rem + 1px);
     border-top-color: #e9edf2;
@@ -476,7 +493,7 @@ function partnerFigcaption(b: BrandEntry): string {
   .niche-logo-wall__logo-slot[data-brand-slug="james-hardie"] {
     --partner-dot: #7f1d1d;
   }
-  .niche-logo-wall__logo-slot[data-brand-slug="certainteed-siding"] {
+  .niche-logo-wall__logo-slot[data-brand-slug="certainteed-exterior"] {
     --partner-dot: #1e3a8a;
   }
   .niche-logo-wall__logo-slot[data-brand-slug="lp-smartside"] {
