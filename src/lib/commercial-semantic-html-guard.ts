@@ -1,7 +1,6 @@
 /**
- * 与 `scripts/forbidden-phrases.ci.generated.json` 中各商业 `targets[].forbidden_phrases` 对齐，
+ * 与 `scripts/forbidden-phrases.ci.generated.json` 中各商业 `targets[].forbidden_phrases` 对齐（`npm run audit:config` 产出后请同步本表）。
  * 用于在 SSR 文案池（CAS / meta-analysis）阶段剔除会触发 `semantic-scan.py` 的跨垂直子串。
- * 若 audit 调整了禁词表，请同步更新本文件（或改为由 audit 生成此模块）。
  */
 import type { ActiveCollectionKey } from "../active-collection-keys";
 
@@ -32,11 +31,6 @@ const COMMERCIAL_FORBIDDEN: Partial<Record<ActiveCollectionKey, readonly string[
     "perimeter exclusion",
     "psychrometric",
     "moisture mapping",
-    "siding",
-    "J-channel",
-    "housewrap",
-    "fiber-cement",
-    "kickout flash",
     "repiping",
     "cleanout",
     "backflow",
@@ -62,10 +56,6 @@ const COMMERCIAL_FORBIDDEN: Partial<Record<ActiveCollectionKey, readonly string[
     "housewrap",
     "fiber-cement",
     "kickout flash",
-    "repiping",
-    "cleanout",
-    "backflow",
-    "drain line",
   ],
   pestcontrol: [
     "structural drying",
@@ -129,11 +119,6 @@ const COMMERCIAL_FORBIDDEN: Partial<Record<ActiveCollectionKey, readonly string[
     "camera pass friction on offset closet bends",
     "bed bug",
     "structural drying chamber",
-    "roofing",
-    "shingle seal-down",
-    "ice dam",
-    "ridge vent",
-    "roof deck",
     "plumber",
     "PEX",
     "hydro-jetting",
@@ -160,11 +145,6 @@ const COMMERCIAL_FORBIDDEN: Partial<Record<ActiveCollectionKey, readonly string[
     "ice dam",
     "ridge vent",
     "roof deck",
-    "plumber",
-    "PEX",
-    "hydro-jetting",
-    "drain line",
-    "water heater",
     "bed bug",
     "termite trail",
     "rodent gnaw",
