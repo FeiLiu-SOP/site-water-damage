@@ -113,8 +113,9 @@ const NICHE_COMPLIANCE_LINES: Record<
   ],
 };
 
+const effectiveCollection = (collectionKey ?? ACTIVE_COLLECTION) as ActiveCollectionKey;
 const nicheLineBucket =
-  NICHE_COMPLIANCE_LINES[(collectionKey ?? ACTIVE_COLLECTION) as ActiveCollectionKey] ?? NICHE_COMPLIANCE_LINES.roofing;
+  NICHE_COMPLIANCE_LINES[effectiveCollection] ?? NICHE_COMPLIANCE_LINES.roofing;
 const nicheComplianceLine = nicheLineBucket[linePick]!;
 
 const brandUpper = brand.name.toUpperCase();
@@ -162,9 +163,9 @@ const verifyLines = [
 ] as const;
 
 const isStewardshipFooter =
-  collectionKey === "community-stewardship-water" ||
-  collectionKey === "community-stewardship-siding" ||
-  collectionKey === "community-stewardship-plumbing";
+  effectiveCollection === "community-stewardship-water" ||
+  effectiveCollection === "community-stewardship-siding" ||
+  effectiveCollection === "community-stewardship-plumbing";
 
 const brandAuditHtml = isStewardshipFooter
   ? STEWARDSHIP_BRAND_AUDIT_LINES[linePick]!
