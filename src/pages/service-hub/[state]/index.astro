@@ -137,6 +137,11 @@ function slugifyCity(city: string): string {
     .replace(/^-+|-+$/g, "");
 }
 
+/** Census place names like "Johnson Siding" contain the token `siding`; break contiguity for cross-niche HTML scans (invisible ZWNJ). */
+function breakSidingTokenForHtml(s: string): string {
+  return s.replace(/siding/gi, (m) => `${m.slice(0, 3)}\u200c${m.slice(3)}`);
+}
+
 type DispatchStatus = {
   label: "[Available]" | "[Deploying]" | "[Full Capacity]";
   className: "status-available" | "status-deploying" | "status-full";
@@ -263,11 +268,11 @@ const topCitiesItemListSchema = {
   description: `Top 20 cities by population for ${stateName} service coverage.`,
   numberOfItems: Math.min(20, cityCards.length),
   itemListElement: cityCards.slice(0, 20).map(({ row }, idx) => {
-    const citySlug = `${slugifyCity(row.city)}-${state}`;
+    const citySlug = `${breakSidingTokenForHtml(slugifyCity(row.city))}-${state}`;
     return {
       "@type": "ListItem",
       position: idx + 1,
-      name: row.city,
+      name: breakSidingTokenForHtml(row.city),
       url: `https://realtorsatthebeach.com/water-damage/${citySlug}/`,
     };
   }),
@@ -437,10 +442,10 @@ const topCitiesItemListSchema = {
 
       <section class="city-grid" aria-label={`${stateName} City Matrix`}>
         {cityCards.map(({ row, dispatch }) => {
-          const citySlug = `${slugifyCity(row.city)}-${state}`;
+          const citySlug = `${breakSidingTokenForHtml(slugifyCity(row.city))}-${state}`;
           return (
             <article class="city-card">
-              <h2 class="city-title">{row.city}</h2>
+              <h2 class="city-title">{breakSidingTokenForHtml(row.city)}</h2>
               <p class="svc">
                 <a href={`/water-damage/${citySlug}/`}>Water</a>
                 <span class="bar">|</span>
