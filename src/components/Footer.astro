@@ -167,12 +167,17 @@ const isStewardshipFooter =
   effectiveCollection === "community-stewardship-siding" ||
   effectiveCollection === "community-stewardship-plumbing";
 
+const waterDamageFixedAuditHtml =
+  'Official Property Audit Node: <span class="brand-fingerprint-name">FIXITGRID LOCAL DISPATCH NETWORK</span>';
+
 const brandAuditHtml = isStewardshipFooter
   ? STEWARDSHIP_BRAND_AUDIT_LINES[linePick]!
-  : brandAuditLines[linePick]!.replace(
-      "__BRAND__",
-      `<span class="brand-fingerprint-name">${brandUpper}</span>`,
-    );
+  : effectiveCollection === "water-damage"
+    ? waterDamageFixedAuditHtml
+    : brandAuditLines[linePick]!.replace(
+        "__BRAND__",
+        `<span class="brand-fingerprint-name">${brandUpper}</span>`,
+      );
 const authorityAnchorLine = isStewardshipFooter
   ? STEWARDSHIP_AUTHORITY_ANCHOR_LINES[linePick]!
   : authorityAnchorLines[linePick]!;

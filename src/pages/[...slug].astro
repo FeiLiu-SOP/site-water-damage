@@ -16,6 +16,7 @@ import {
   BRAND_CONFIG,
   PUBLIC_NICHE_LABEL,
   canonicalPageUrl,
+  getCanonicalBase,
   getNicheLabelForSeed,
   internalPath,
   siteConfig,
@@ -37,6 +38,42 @@ import {
 } from "../lib/seo";
 import { resolvePageLocation } from "../lib/location";
 import {
+  buildBaitPool2TitlesRoofing,
+  buildRoofingPageTitle,
+  ROOFING_META_MAX,
+} from "../lib/roofing-serp-title";
+import {
+  buildBaitPool2TitlesPlumbing,
+  buildPlumbingH1,
+  buildPlumbingPageTitle,
+  PLUMBING_META_MAX,
+} from "../lib/plumbing-serp-title";
+import {
+  buildBaitPool2TitlesPestcontrol,
+  buildPestH1,
+  buildPestNestNotice,
+  buildPestPageTitle,
+  PEST_META_MAX,
+} from "../lib/pestcontrol-serp-title";
+import {
+  buildBaitPool2TitlesWater,
+  buildWaterH1,
+  buildWaterPageTitle,
+  WATER_META_MAX,
+} from "../lib/water-damage-serp-title";
+import {
+  buildBaitPool2TitlesSiding,
+  buildSidingH1,
+  buildSidingPageTitle,
+  SIDING_META_MAX,
+} from "../lib/siding-serp-title";
+import {
+  buildBaitPool2TitlesPlumbingV2,
+  buildPlumbingV2H1,
+  buildPlumbingV2PageTitle,
+  PLUMBING_V2_META_MAX,
+} from "../lib/plumbing-v2-serp-title";
+import {
   buildRockwellMaineEntityGraph,
   matchesRockwellMaine,
 } from "../domain-templates/rockwell-maine-entity";
@@ -48,8 +85,14 @@ const HIGH_VALUE_USD_TRIGGER = 300_000;
 const isWaterDamageHub = ACTIVE_COLLECTION === "water-damage";
 /** Monorepo: plumbing vertical (sync with `sites/site-plumbing`). */
 const isPlumbingHub = ACTIVE_COLLECTION === "plumbing";
+/** Realtors siding (`sites/site-siding` / `siding-services`). */
+const isSidingHub = ACTIVE_COLLECTION === "siding-services";
+/** Realtors plumbing-v2 (`sites/site-plumbing-v2`, `/plumbing/` hub). */
+const isPlumbingV2Hub = ACTIVE_COLLECTION === "plumbing-v2";
 /** Rockwell roofing vertical (`sites/site-roofing` terrain-notice funnel). */
 const isRoofingHub = ACTIVE_COLLECTION === "roofing";
+/** Rockwell pest control (`sites/site-pestcontrol`). */
+const isPestControlHub = ACTIVE_COLLECTION === "pestcontrol";
 /** Newtown Fellowship / church city pages (`npm run build:community-stewardship-*`). */
 const isCommunityStewardshipNpo = ACTIVE_COLLECTION.startsWith("community-stewardship-");
 
@@ -72,6 +115,7 @@ const { Content } = await render(entry);
 const post = entry;
 const entrySlug = entrySlugParam || (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
 const pageUrl = canonicalPageUrl(entrySlug);
+const ogImageUrl = `${getCanonicalBase()}/images/thumbnails/${entrySlug}.jpg`;
 const pageNicheLabel = getNicheLabelForSeed(entrySlug);
 const isRockwellMaine = matchesRockwellMaine({ domainOrUrl: siteConfig.canonicalOrigin });
 const pageLocation = resolvePageLocation({
@@ -202,48 +246,11 @@ function clipMetaDescription(text: string, max = 158): string {
   if (t.length <= max) return t;
   return `${t.slice(0, max - 1).trimEnd().replace(/[,;\s]+$/, "")}…`;
 }
+
 function stateLabelForBait(stateCode: string, stateFromFm: string | undefined): string {
   const fm = (stateFromFm ?? "").trim();
   if (fm.length > 2) return fm;
   return stateCode;
-}
-
-const WATER_TITLE_BRAND_SUFFIX = ` | ${BRAND_CONFIG.rockwell.name}`;
-function withWaterTitleBrand(raw: string): string {
-  const t = raw.trim();
-  const tail = BRAND_CONFIG.rockwell.name;
-  if (t.endsWith(tail)) return t;
-  return `${t}${WATER_TITLE_BRAND_SUFFIX}`;
-}
-
-/** Water mitigation: insurance / speed / IICRC + brand on `<title>`. */
-function buildBaitPool2TitlesWater(opts: { city: string; pick: number }): { pageTitle: string; pageH1: string } {
-  const { city, pick } = opts;
-  if (pick === 0) {
-    const core = `${city} Water Restoration: Direct Insurance Billing | $0 Out-of-Pocket`;
-    return { pageTitle: withWaterTitleBrand(core), pageH1: core };
-  }
-  if (pick === 1) {
-    const core = `Emergency Water Removal ${city}: Arrive in Minutes | 24/7 Flood Cleanup`;
-    return { pageTitle: withWaterTitleBrand(core), pageH1: core };
-  }
-  const core = `2026 ${city} Water Mitigation Audit: IICRC Certified & Verified Dispatch`;
-  return { pageTitle: withWaterTitleBrand(core), pageH1: core };
-}
-
-/** Plumbing: price transparency / emergency / promo + same brand suffix as hub (`withWaterTitleBrand`). */
-function buildBaitPool2TitlesPlumbing(opts: { city: string; pick: number }): { pageTitle: string; pageH1: string } {
-  const { city, pick } = opts;
-  if (pick === 0) {
-    const core = `No-Scam ${city} Plumbing: $0 Dispatch Fee & Upfront Pricing`;
-    return { pageTitle: withWaterTitleBrand(core), pageH1: core };
-  }
-  if (pick === 1) {
-    const core = `Verified ${city} Plumber: 24/7 Response | No Hidden Charges`;
-    return { pageTitle: withWaterTitleBrand(core), pageH1: core };
-  }
-  const core = `24 Hour ${city} Plumbing: $50 Off Emergency Repairs Today`;
-  return { pageTitle: withWaterTitleBrand(core), pageH1: core };
 }
 
 function buildBaitPool2TitlesLegacy(opts: {
@@ -321,22 +328,97 @@ const zLabelForPublicSurface =
   isCommunityStewardshipNpo && zUsd != null ? stewardshipPlainHomeValue(zUsd) : zLabelExact;
 const baitPickRaw = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|bait2`) % 3;
 let baitPick = baitPickRaw;
-if (!isWaterDamageHub && !isPlumbingHub && baitPick === 0 && !zLabel) {
+if (
+  !isWaterDamageHub &&
+  !isPlumbingHub &&
+  !isPlumbingV2Hub &&
+  !isSidingHub &&
+  !isRoofingHub &&
+  !isPestControlHub &&
+  baitPick === 0 &&
+  !zLabel
+) {
   baitPick = 1 + (stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|bait2NoZ`) % 2);
 }
+const isFinancialPressureMode =
+  zUsd != null &&
+  zUsd >= HIGH_VALUE_USD_TRIGGER &&
+  zLabelExact != null &&
+  pageCity != null;
+const isRoofingHighValue = isRoofingHub && isFinancialPressureMode;
+const isPlumbingHighValue = isPlumbingHub && isFinancialPressureMode;
+const isPestHighValue = isPestControlHub && isFinancialPressureMode;
+const isWaterHighValue = isWaterDamageHub && isFinancialPressureMode;
+const roofingConvHead =
+  isRoofingHub && pageCity
+    ? buildBaitPool2TitlesRoofing({
+        city: pageCity,
+        zLabel,
+        zLabelExact,
+        highValue: isRoofingHighValue,
+        slug: entrySlug,
+      })
+    : null;
+const plumbingConvHead =
+  isPlumbingHub && pageCity && stateCodeFromSlug
+    ? buildBaitPool2TitlesPlumbing({
+        city: pageCity,
+        stateCode: stateCodeFromSlug,
+        zLabel,
+        zLabelExact,
+        highValue: isPlumbingHighValue,
+        slug: entrySlug,
+      })
+    : null;
+const pestConvHead =
+  isPestControlHub && pageCity && stateCodeFromSlug
+    ? buildBaitPool2TitlesPestcontrol({
+        city: pageCity,
+        stateCode: stateCodeFromSlug,
+        zLabel,
+        zLabelExact,
+        highValue: isPestHighValue,
+        slug: entrySlug,
+        pick: baitPickRaw,
+      })
+    : null;
+const waterConvHead =
+  isWaterDamageHub && pageCity && stateCodeFromSlug
+    ? buildBaitPool2TitlesWater({
+        city: pageCity,
+        stateCode: stateCodeFromSlug,
+        zLabel,
+        zLabelExact,
+        highValue: isWaterHighValue,
+        slug: entrySlug,
+        pick: baitPickRaw,
+      })
+    : null;
+const sidingConvHead =
+  isSidingHub && pageCity && stateCodeFromSlug
+    ? buildBaitPool2TitlesSiding({
+        city: pageCity,
+        stateCode: stateCodeFromSlug,
+        zLabel,
+        zLabelExact,
+        slug: entrySlug,
+        pick: baitPickRaw,
+      })
+    : null;
+const plumbingV2ConvHead =
+  isPlumbingV2Hub && pageCity && stateCodeFromSlug
+    ? buildBaitPool2TitlesPlumbingV2({
+        city: pageCity,
+        stateCode: stateCodeFromSlug,
+        zLabel,
+        zLabelExact,
+        slug: entrySlug,
+        pick: baitPickRaw,
+      })
+    : null;
 const baitHead =
   pageCity && stateCodeFromSlug
-    ? isWaterDamageHub
-      ? buildBaitPool2TitlesWater({
-          city: pageCity,
-          pick: baitPickRaw,
-        })
-      : isPlumbingHub
-        ? buildBaitPool2TitlesPlumbing({
-            city: pageCity,
-            pick: baitPickRaw,
-          })
-        : isCommunityStewardshipNpo
+    ? isCommunityStewardshipNpo
           ? buildStewardshipNpoBaitTitles({
               service: pageNicheLabel,
               city: pageCity,
@@ -353,30 +435,9 @@ const baitHead =
               pick: baitPick,
             })
     : null;
-const isFinancialPressureMode =
-  zUsd != null &&
-  zUsd >= HIGH_VALUE_USD_TRIGGER &&
-  zLabelExact != null &&
-  pageCity != null;
-const waterH1Lead = pageCity
-  ? `IICRC Certified ${pageCity} Response — Direct Billing to Insurance — `
-  : `IICRC Certified Response — Direct Billing to Insurance — `;
-
 const waterVisualLine = pageCity
   ? `Urgent Notice: Your ${pageCity} property terrain data indicates high-risk saturation levels. Immediate structural drying is required to prevent mold colonization.`
   : `Urgent Notice: Your property terrain data indicates high-risk saturation levels. Immediate structural drying is required to prevent mold colonization.`;
-
-const PINTEREST_META_CTA = `Search "FixitGrid Local Dispatch Network" on Google.`;
-
-function waterMetaLead(): string {
-  if (pageCity) {
-    return `Don't pay for flood damage out of pocket. We offer direct insurance billing for ${pageCity} residents and immediate water extraction. Verified IICRC dispatch available 24/7.`;
-  }
-  if (stateCodeFromSlug) {
-    return `Don't pay for flood damage out of pocket. We offer direct insurance billing for ${stateCodeFromSlug} residents and immediate water extraction. Verified IICRC dispatch available 24/7.`;
-  }
-  return `Don't pay for flood damage out of pocket. We offer direct insurance billing and immediate water extraction. Verified IICRC dispatch available 24/7.`;
-}
 
 /** Avoid `$`+digit and `dispatch fee` substrings (church HTML compliance scans strip JSON-LD but not `<title>`/body). */
 const h1ComplianceLead = "No surprise trip framing · upfront scope notes — ";
@@ -385,54 +446,132 @@ const plumbingVisualLine = pageCity
   ? `Our ${pageCity} dispatch node ensures state-compliant pricing. Cross-referenced with USGS infrastructure risk scores to prevent plumbing scams.`
   : `Our dispatch node ensures state-compliant pricing. Cross-referenced with USGS infrastructure risk scores to prevent plumbing scams.`;
 
+const sidingVisualLine = pageCity
+  ? `Our ${pageCity} dispatch node ensures state-compliant pricing. Cross-referenced with envelope risk scores to prevent exterior contractor scams.`
+  : `Our dispatch node ensures state-compliant pricing. Cross-referenced with envelope risk scores to prevent exterior contractor scams.`;
+
 const roofTerrainNotice = isRoofingHub
   ? pageCity
     ? `NOTICE: Your ${pageCity} property has a specific terrain-risk profile. Delaying repair could impact insurance eligibility.`
     : null
   : null;
 
-const PINTEREST_META_CTA_PLUMBING = `Search "FixitGrid Local Dispatch Network" on Google.`;
-
-function plumbingMetaLead(): string {
-  if (pageCity) {
-    return `Stop overpaying. Get upfront pricing and verified plumbing for ${pageCity} residents. No hidden routing surcharges. Emergency dispatch available 24/7.`;
-  }
-  if (stateCodeFromSlug) {
-    return `Stop overpaying. Get upfront pricing and verified plumbing for ${stateCodeFromSlug} residents. No hidden routing surcharges. Emergency dispatch available 24/7.`;
-  }
-  return `Stop overpaying. Get upfront pricing and verified plumbing. No hidden routing surcharges. Emergency dispatch available 24/7.`;
-}
+const pestNestNotice =
+  isPestControlHub && pageCity ? buildPestNestNotice(pageCity) : null;
 
 /** `<title>` / JSON-LD name */
 const pageTitle = isWaterDamageHub
-  ? isFinancialPressureMode
-    ? withWaterTitleBrand(`CRITICAL: ${zLabelExact} ${pageCity} Flood Risk Alert | Prevent Permanent Asset Loss`)
-    : baitHead?.pageTitle ?? withWaterTitleBrand(post.data.title)
+  ? waterConvHead?.pageTitle ??
+    (pageCity
+      ? buildWaterPageTitle({
+          city: pageCity,
+          zLabel,
+          zLabelExact,
+          highValue: isWaterHighValue,
+          slug: entrySlug,
+          pick: baitPickRaw,
+        })
+      : post.data.title)
   : isPlumbingHub
-    ? isFinancialPressureMode
-      ? withWaterTitleBrand(`URGENT: ${zLabelExact} ${pageCity} Asset Risk | 2026 Emergency Plumbing Audit`)
-      : baitHead?.pageTitle ?? withWaterTitleBrand(post.data.title)
-    : isFinancialPressureMode
-      ? `${zLabelForPublicSurface} asset stewardship brief: ${pageCity} ${pageNicheLabel} (coordinated intake)`
-      : baitHead?.pageTitle ?? post.data.title;
+    ? plumbingConvHead?.pageTitle ??
+      (pageCity
+        ? buildPlumbingPageTitle({
+            city: pageCity,
+            zLabel,
+            zLabelExact,
+            highValue: isPlumbingHighValue,
+            slug: entrySlug,
+          })
+        : post.data.title)
+    : isPlumbingV2Hub
+      ? plumbingV2ConvHead?.pageTitle ??
+        (pageCity
+          ? buildPlumbingV2PageTitle({
+              city: pageCity,
+              zLabel,
+              zLabelExact,
+              slug: entrySlug,
+              pick: baitPickRaw,
+            })
+          : post.data.title)
+      : isSidingHub
+      ? sidingConvHead?.pageTitle ??
+        (pageCity
+          ? buildSidingPageTitle({
+              city: pageCity,
+              zLabel,
+              zLabelExact,
+              slug: entrySlug,
+              pick: baitPickRaw,
+            })
+          : post.data.title)
+      : isRoofingHub
+      ? roofingConvHead?.pageTitle ??
+        (pageCity
+          ? buildRoofingPageTitle({
+              city: pageCity,
+              zLabel,
+              zLabelExact,
+              highValue: isRoofingHighValue,
+              slug: entrySlug,
+            })
+          : buildRoofingPageTitle({
+              city: "Local",
+              zLabel,
+              zLabelExact,
+              highValue: false,
+              slug: entrySlug,
+            }))
+      : isPestControlHub
+        ? pestConvHead?.pageTitle ??
+          (pageCity
+            ? buildPestPageTitle({
+                city: pageCity,
+                zLabel,
+                zLabelExact,
+                highValue: isPestHighValue,
+                slug: entrySlug,
+                pick: baitPickRaw,
+              })
+            : post.data.title)
+        : isFinancialPressureMode
+          ? `${zLabelForPublicSurface} asset stewardship brief: ${pageCity} ${pageNicheLabel} (coordinated intake)`
+          : baitHead?.pageTitle ?? post.data.title;
 
 /** Visible `<h1>` fallback */
 const pageH1Plain = isWaterDamageHub
-  ? zLabelExact && pageCity
-    ? `${waterH1Lead}${pageCity} Emergency Dispatch - Protecting your ${zLabelExact} Asset`
-    : zLabelExact
-      ? `${waterH1Lead}Emergency Dispatch - Protecting your ${zLabelExact} Asset`
-      : pageCity
-        ? `${waterH1Lead}${pageCity} Emergency Dispatch - Protecting your property`
-        : `${waterH1Lead}${post.data.title}`
+  ? waterConvHead?.pageH1 ??
+    (pageCity
+      ? buildWaterH1({ city: pageCity, zLabel, zLabelExact })
+      : post.data.title)
   : isPlumbingHub
-    ? zLabelExact && pageCity
-      ? `${h1ComplianceLead}${pageCity} Emergency Dispatch - Protecting your ${zLabelExact} Asset`
-      : zLabelExact
-        ? `${h1ComplianceLead}Emergency Dispatch - Protecting your ${zLabelExact} Asset`
-        : pageCity
-          ? `${h1ComplianceLead}${pageCity} Emergency Dispatch - Protecting your property`
-          : `${h1ComplianceLead}${post.data.title}`
+    ? plumbingConvHead?.pageH1 ??
+      (pageCity
+        ? buildPlumbingH1({
+            city: pageCity,
+            zLabel,
+            zLabelExact,
+            highValue: isPlumbingHighValue,
+          })
+        : post.data.title)
+    : isPlumbingV2Hub
+      ? plumbingV2ConvHead?.pageH1 ??
+        (pageCity
+          ? buildPlumbingV2H1({ city: pageCity, zLabel, zLabelExact })
+          : post.data.title)
+      : isSidingHub
+      ? sidingConvHead?.pageH1 ??
+        (pageCity
+          ? buildSidingH1({ city: pageCity, zLabel, zLabelExact })
+          : post.data.title)
+      : isRoofingHub
+      ? roofingConvHead?.pageH1 ??
+        (pageCity ? `${pageCity} Roofing & Asset Defense` : post.data.title)
+    : isPestControlHub
+      ? pestConvHead?.pageH1 ??
+        (pageCity
+          ? buildPestH1({ city: pageCity, zLabel, zLabelExact })
+          : post.data.title)
     : zLabelForPublicSurface && pageCity
       ? `${pageCity} infrastructure stewardship — ${zLabelForPublicSurface} median context`
       : zLabelForPublicSurface
@@ -442,69 +581,53 @@ const pageH1Plain = isWaterDamageHub
           : post.data.title;
 
 const pageMetaDescriptionDefault = isWaterDamageHub
-  ? clipMetaDescription(
-      (() => {
-        const lead = `${waterMetaLead()} ${PINTEREST_META_CTA} `;
-        const base = post.data.description;
-        const tail = (() => {
-          if (zLabelExact && !base.includes(zLabelExact)) {
-            if (pageCity && stateCodeFromSlug) {
-              return `${base} Benchmark median home value near ${zLabelExact} (${pageCity} ${stateCodeFromSlug} market context).`;
-            }
-            return `${base} Benchmark median home value near ${zLabelExact}.`;
-          }
-          return base;
-        })();
-        return `${lead}${tail}`;
-      })(),
-    )
+  ? (waterConvHead?.metaDescription ??
+    clipMetaDescription(post.data.description, WATER_META_MAX))
   : isPlumbingHub
-    ? clipMetaDescription(
-        (() => {
-          const lead = `${plumbingMetaLead()} ${PINTEREST_META_CTA_PLUMBING} `;
-          const base = post.data.description;
-          const tail = (() => {
-            if (zLabelExact && !base.includes(zLabelExact)) {
+    ? (plumbingConvHead?.metaDescription ??
+      clipMetaDescription(post.data.description, PLUMBING_META_MAX))
+    : isPlumbingV2Hub
+      ? (plumbingV2ConvHead?.metaDescription ??
+        clipMetaDescription(post.data.description, PLUMBING_V2_META_MAX))
+      : isSidingHub
+      ? (sidingConvHead?.metaDescription ??
+        clipMetaDescription(post.data.description, SIDING_META_MAX))
+      : isRoofingHub
+      ? (roofingConvHead?.metaDescription ??
+        clipMetaDescription(post.data.description, ROOFING_META_MAX))
+      : isPestControlHub
+        ? (pestConvHead?.metaDescription ??
+          clipMetaDescription(post.data.description, PEST_META_MAX))
+        : clipMetaDescription(
+          (() => {
+            const base = post.data.description;
+            if (zLabelForPublicSurface && !base.includes(zLabelForPublicSurface)) {
               if (pageCity && stateCodeFromSlug) {
-                return `${base} Benchmark median home value near ${zLabelExact} (${pageCity} ${stateCodeFromSlug} market context).`;
+                return `${base} Benchmark median home value near ${zLabelForPublicSurface} (${pageCity} ${stateCodeFromSlug} market context).`;
               }
-              return `${base} Benchmark median home value near ${zLabelExact}.`;
+              return `${base} Benchmark median home value near ${zLabelForPublicSurface}.`;
             }
             return base;
-          })();
-          return `${lead}${tail}`;
-        })(),
-      )
-    : clipMetaDescription(
-        (() => {
-          const base = post.data.description;
-          if (zLabelForPublicSurface && !base.includes(zLabelForPublicSurface)) {
-            if (pageCity && stateCodeFromSlug) {
-              return `${base} Benchmark median home value near ${zLabelForPublicSurface} (${pageCity} ${stateCodeFromSlug} market context).`;
-            }
-            return `${base} Benchmark median home value near ${zLabelForPublicSurface}.`;
-          }
-          return base;
-        })(),
-      );
+          })(),
+        );
 
 const pageMetaDescription = isWaterDamageHub
-  ? isFinancialPressureMode
-    ? clipMetaDescription(
-        `${waterMetaLead()} ${PINTEREST_META_CTA} Benchmark: ${zLabelExact}. Flood risk coordination and documented intake.`,
-      )
-    : pageMetaDescriptionDefault
+  ? pageMetaDescriptionDefault
   : isPlumbingHub
-    ? isFinancialPressureMode
-      ? clipMetaDescription(
-          `${plumbingMetaLead()} ${PINTEREST_META_CTA_PLUMBING} Benchmark: ${zLabelExact}. Emergency plumbing audit coordination and documented intake.`,
-        )
-      : pageMetaDescriptionDefault
-    : isFinancialPressureMode
-      ? clipMetaDescription(
-          `Local ${pageCity} home value benchmark: ${zLabelForPublicSurface}. Regional infrastructure maintenance coordination and documented intake.`,
-        )
-      : pageMetaDescriptionDefault;
+    ? pageMetaDescriptionDefault
+    : isPlumbingV2Hub
+      ? pageMetaDescriptionDefault
+      : isSidingHub
+      ? pageMetaDescriptionDefault
+      : isRoofingHub
+      ? pageMetaDescriptionDefault
+      : isPestControlHub
+        ? pageMetaDescriptionDefault
+        : isFinancialPressureMode
+          ? clipMetaDescription(
+              `Local ${pageCity} home value benchmark: ${zLabelForPublicSurface}. Regional infrastructure maintenance coordination and documented intake.`,
+            )
+          : pageMetaDescriptionDefault;
 function pickFaqSubset<T>(items: T[], seedText: string, count: number): T[] {
   const copy = [...items];
   let seed = stableHash(seedText);
@@ -900,6 +1023,15 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
       <meta name="template-version" content={post.data.templateVersion} />
     ) : null}
     <link rel="canonical" href={pageUrl} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={pageUrl} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={pageMetaDescription} />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content={ogImageUrl} />
     <script type="application/ld+json" set:html={JSON.stringify(breadcrumbListSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(localBusinessSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
@@ -1239,27 +1371,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
                   stateHref={stateCodeFromSlug ? internalPath(stateCodeFromSlug.toLowerCase()) : null}
                   cityLabel={pageCity}
                 />
-                <h1>
-                  {zLabelExact ? (
-                    pageCity ? (
-                      <>
-                        {waterH1Lead}
-                        {`${pageCity} Emergency Dispatch - Protecting your `}
-                        <span class="h1-zmoney">{zLabelExact}</span>
-                        {" Asset"}
-                      </>
-                    ) : (
-                      <>
-                        {waterH1Lead}
-                        {"Emergency Dispatch - Protecting your "}
-                        <span class="h1-zmoney">{zLabelExact}</span>
-                        {" Asset"}
-                      </>
-                    )
-                  ) : (
-                    pageH1Plain
-                  )}
-                </h1>
+                <h1>{pageH1Plain}</h1>
                 <p style="margin: 0.25rem 0 0; color: #475569; font-size: 0.98rem;">
                   {headerVariant}
                 </p>
@@ -1283,7 +1395,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
                 />
               ) : null}
             </>
-          ) : isPlumbingHub ? (
+          ) : isPlumbingHub || isPlumbingV2Hub || isSidingHub ? (
             <>
               <OfficialRiskNodeHeader />
               <ValueProtectionCalculator
@@ -1292,39 +1404,47 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
                 city={pageCity}
                 accent={themeAccent}
                 domPrefix={domPrefix}
-                visualizedAssessmentLine={plumbingVisualLine}
+                visualizedAssessmentLine={
+                  isSidingHub ? sidingVisualLine : plumbingVisualLine
+                }
               />
               <NichePartnerLogos />
               {pestInsuranceEquityNote ? <p class="pest-equity-insurance-note">{pestInsuranceEquityNote}</p> : null}
               <section class="hero-flood-alert-band" aria-label="Service area headline">
-                <h1>
-                  {isFinancialPressureMode && zLabelExact && pageCity ? (
-                    <>
-                      {h1ComplianceLead}
-                      {"URGENT: "}
-                      <span class="h1-zmoney">{zLabelExact}</span>
-                      {` ${pageCity} Asset Risk | 2026 Emergency Plumbing Audit`}
-                    </>
-                  ) : zLabelExact ? (
-                    pageCity ? (
-                      <>
-                        {h1ComplianceLead}
-                        {`${pageCity} Emergency Dispatch - Protecting your `}
-                        <span class="h1-zmoney">{zLabelExact}</span>
-                        {" Asset"}
-                      </>
-                    ) : (
-                      <>
-                        {h1ComplianceLead}
-                        {"Emergency Dispatch - Protecting your "}
-                        <span class="h1-zmoney">{zLabelExact}</span>
-                        {" Asset"}
-                      </>
-                    )
-                  ) : (
-                    pageH1Plain
-                  )}
-                </h1>
+                <h1>{pageH1Plain}</h1>
+                <p style="margin: 0.25rem 0 0; color: #475569; font-size: 0.98rem;">
+                  {headerVariant}
+                </p>
+              </section>
+              {zUsd != null ? (
+                <MarketDataView
+                  seed={entrySlug}
+                  city={pageCity}
+                  state={stateCodeFromSlug}
+                  zip={pageLocation?.zip ?? null}
+                  homeUsd={zUsd}
+                  elevationFt={typeof post.data.elevationFt === "number" ? post.data.elevationFt : undefined}
+                  county={post.data.county as string | undefined}
+                  accent={themeAccent}
+                />
+              ) : null}
+            </>
+          ) : isPestControlHub ? (
+            <>
+              <OfficialRiskNodeHeader zipCode={desktopDispatchZip} />
+              <ValueProtectionCalculator
+                homeUsd={zUsd}
+                zLabel={zLabel}
+                city={pageCity}
+                accent={themeAccent}
+                domPrefix={domPrefix}
+                terrainRiskNotice={pestNestNotice}
+                presentation="value_protection"
+              />
+              <NichePartnerLogos />
+              {pestInsuranceEquityNote ? <p class="pest-equity-insurance-note">{pestInsuranceEquityNote}</p> : null}
+              <section class="hero-flood-alert-band" aria-label="Service area headline">
+                <h1>{pageH1Plain}</h1>
                 <p style="margin: 0.25rem 0 0; color: #475569; font-size: 0.98rem;">
                   {headerVariant}
                 </p>
@@ -1362,7 +1482,6 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
                   <NichePartnerLogos />
                 </>
               )}
-              {pestInsuranceEquityNote ? <p class="pest-equity-insurance-note">{pestInsuranceEquityNote}</p> : null}
               <section class="hero-flood-alert-band" aria-label="Service area headline">
                 <h1>
                   {
@@ -1371,20 +1490,6 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
                         {`${pageCity} ${pageNicheLabel} - Property Protection: `}
                         <span class="h1-zmoney">{zLabelForPublicSurface}</span>
                       </>
-                    ) : zLabelForPublicSurface ? (
-                      pageCity ? (
-                        <>
-                          {`${pageCity} infrastructure stewardship — `}
-                          <span class="h1-zmoney">{zLabelForPublicSurface}</span>
-                          {" median context"}
-                        </>
-                      ) : (
-                        <>
-                          {"Infrastructure stewardship — "}
-                          <span class="h1-zmoney">{zLabelForPublicSurface}</span>
-                          {" median context"}
-                        </>
-                      )
                     ) : (
                       pageH1Plain
                     )
@@ -1548,6 +1653,10 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
       extraLink={footerExtraLink}
       notice={stateNotice}
       variantSeed={`${ACTIVE_COLLECTION}|${entrySlug}|footer`}
+      slug={entrySlug}
+      auditStateCode={stateCodeFromSlug}
+      auditZipCode={desktopDispatchZip}
+      collectionKey={ACTIVE_COLLECTION}
     />
     <DispatchCommandBar
       city={pageLocation?.city ?? pageCity ?? "Local"}
