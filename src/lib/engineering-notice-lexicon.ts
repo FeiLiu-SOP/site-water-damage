@@ -1,6 +1,6 @@
 /**
- * 赛道封闭词库：SSR Engineering Notice 辅句必须来自当前 collection，禁止跨垂直 fallback。
- * 词库正文来自 `scripts/niche-master.json`（经 `niche-master-data` 展开 prefix/suffix）。
+ * Vertical lexicon: Engineering Notice lines from active collection only.
+ * Lexicon from scripts/niche-master.json via niche-master-data.
  */
 import type { ActiveCollectionKey } from "../active-collection-keys";
 import { getEngineeringLexicon } from "./niche-master-data";

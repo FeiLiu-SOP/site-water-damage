@@ -1,11 +1,11 @@
 /**
- * 详情页 BreadcrumbList JSON-LD。层级与 `pages/index`、`pages/[state]/index`、`pages/[...slug]` 生成的路由一致。
- * Home 与「服务 Hub」在本仓库单集合部署中对应同一索引 URL（不虚构上一级域名根路径）。
+ * Detail BreadcrumbList JSON-LD aligned with index/state/slug routes.
+ * Home and service hub share index URL in single-collection deploy.
  */
 
 export type BreadcrumbListItem = {
   name: string;
-  /** 绝对 URL，须与 canonicalPageUrl 输出一致（含尾斜杠） */
+  /** Absolute URL; must match canonicalPageUrl (with trailing slash) */
   item: string;
 };
 
@@ -23,8 +23,8 @@ export function buildBreadcrumbListSchema(items: BreadcrumbListItem[]): Record<s
 }
 
 /**
- * 城市详情页：Home > [服务] hub > [州] hub > [城市节点]
- * - 服务 hub 与 Home 共用索引 URL 时仍保留两级命名，满足信息架构；URL 重复为真实路由限制所致。
+ * City detail: Home > service hub > state hub > city node
+ * - Keep two-level naming when hub shares index URL; duplicate URL is routing constraint.
  */
 export function buildSlugPageBreadcrumbItems(args: {
   canonicalPageUrl: (...segments: string[]) => string;

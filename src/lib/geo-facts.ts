@@ -1,12 +1,12 @@
 /**
- * 美国各州（及 DC）的**物理环境特征**简述，用于详情页「区域基础设施简报」的补充段落。
- * 内容面向教育与维护语境，非灾害预警、非监管结论；具体房产仍以现场检查为准。
+ * US states (+ DC) physical environment blurbs for regional infrastructure brief.
+ * Educational maintenance context only; not warnings or regulatory conclusions.
  */
 
 export type StateGeoFact = {
-  /** 短标签，便于 UI 或内部引用 */
+  /** Short label for UI or internal reference */
   label: string;
-  /** 1–3 句客观描述，可随页面其他事实字段一起展示 */
+  /** 1–3 objective sentences shown with other fact fields */
   narrative: string;
 };
 
@@ -16,7 +16,7 @@ const DEFAULT_FACT: StateGeoFact = {
     "Seasonal temperature and precipitation patterns vary across the United States. Aligning envelope and mechanical maintenance with local exposure—sun, wind-driven rain, snow load, or soil moisture—helps preserve long-term building performance.",
 };
 
-/** 50 州 + DC，键为 USPS 两字母大写 */
+/** 50 states + DC; keys are uppercase USPS codes */
 export const STATE_PHYSICAL_ENVIRONMENT: Record<string, StateGeoFact> = {
   AL: {
     label: "Gulf humidity & convective storms",

@@ -13,7 +13,7 @@ interface Props {
   /** Current page coordinates when present — used to rank nearest cities */
   originLat?: number | null;
   originLng?: number | null;
-  /** Dev stewardship hub：与当前 URL 的 collection 对齐（默认 = 构建期 ACTIVE_COLLECTION）。 */
+  /** Dev stewardship hub: align with URL collection (default = ACTIVE_COLLECTION). */
   collectionKey?: ActiveCollectionKey;
 }
 
@@ -102,7 +102,7 @@ const PREFIXES = [
   "Reliable Support for",
 ] as const;
 
-/** 教堂 stewardship：禁止「Verified Techs / Emergency Dispatch」等商业锚文案串味 */
+/** Church stewardship: forbid commercial anchors like Verified Techs / Emergency Dispatch */
 const PREFIXES_STEWARDSHIP = [
   "Neighbor education page —",
   "Additional stewardship brief —",
@@ -164,7 +164,7 @@ if (st.length === 2) {
 
   candidates.sort((a, b) => score(a) - score(b));
 
-  /** 首屏条数：同城候选多时明显高于旧的 5–8 上限；其余进折叠区 */
+  /** Above-fold count: more than legacy 5–8 cap when many peers; rest in collapse */
   const inlineCap = Math.min(
     candidates.length,
     Math.min(18, 10 + (stableHash(`${currentSlug}|relatedCap`) % 9)),

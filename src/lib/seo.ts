@@ -778,7 +778,7 @@ export function buildLocalBusinessSchema(params: {
   };
 }
 
-/** Newtown Fellowship：精简 LocalBusiness，声明 501(c)(3) 语境（与商业站 JSON-LD 隔离）。 */
+/** Newtown Fellowship: minimal LocalBusiness 501(c)(3) context (isolated JSON-LD). */
 export function buildNewtownFellowshipLocalBusinessSchema(params: {
   collection: ActiveCollectionKey;
   pageTitle: string;
@@ -814,7 +814,7 @@ export function buildNewtownFellowshipLocalBusinessSchema(params: {
     url: pageUrl,
     telephone,
     areaServed,
-    /** schema.org 枚举：非营利身份（与架构师指令对齐，使用 http URI） */
+    /** schema.org nonprofit enum (http URI per architect spec) */
     nonprofitStatus: "http://schema.org/Nonprofit501c3",
     serviceType: "Community outreach and housing stewardship education",
     knowsAbout: [

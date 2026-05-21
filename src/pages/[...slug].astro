@@ -1291,7 +1291,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
         color: #334155;
       }
     </style>
-    <!-- Markdown 由 <Content /> 注入，子节点无本页 scoped 属性；用 is:global + 固定 id，避免 dev/HMR 下偶发“正文像空白”（与 build 静态 HTML 一致） -->
+    <!-- Markdown via <Content />; children lack page scoped attrs — is:global + fixed id matches static build (avoids dev/HMR blank body) -->
     <style is:global>
       [id$="article-md-body"] {
         max-width: 100%;

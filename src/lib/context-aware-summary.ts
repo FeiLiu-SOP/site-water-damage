@@ -86,10 +86,10 @@ const SENTENCE_TEMPLATES = [
   "Contents pack-out deferral language for {niche} reflects capacity constraints in {state}; ZIP {zip} intake for {city} is not a pack-out guarantee.",
 ] as const;
 
-/** 通用池若被滤空则退回：取不含跨垂直硬触发词的前段（与 `filterTextPoolForCommercialHtml` 语义一致）。 */
+/** If generic pool empty, take prefix without cross-vertical triggers (filterTextPoolForCommercialHtml). */
 const CAS_COMMERCIAL_EMERGENCY_FALLBACK: readonly string[] = SENTENCE_TEMPLATES.slice(0, 12);
 
-/** 教堂 stewardship 详情 CAS：与商业「调度/队列」话术解耦，仍用同一 fill 占位符保持版式 */
+/** Church stewardship CAS: decouple dispatch queue copy; same fill placeholders */
 const STEWARDSHIP_SENTENCE_TEMPLATES = [
   "Neighbors near {city} ({zip}, {state}) can use this {niche} page as a volunteer-education brief—figures are illustrative, not bids or insurer findings.",
   "ZIP {zip} appears as a locality label for {city} in {state}; it does not unlock contractor assignment or paid routing from this nonprofit-facing page.",

@@ -1,6 +1,6 @@
 /**
- * Newtown Fellowship 垂直站 — 与 Rockwell / FixitGrid 商业指纹物理隔离。
- * 通过构建期 canonical / site URL 识别；本地可设 `PUBLIC_NEWTOWN_FELLOWSHIP_FINGERPRINT=1` 验收。
+ * Newtown Fellowship vertical — isolated from Rockwell / FixitGrid commercial fingerprint.
+ * Detected via build canonical/site URL; set PUBLIC_NEWTOWN_FELLOWSHIP_FINGERPRINT=1 locally to verify.
  */
 
 const HOST_SUFFIXES = [
@@ -35,12 +35,12 @@ export function matchesNewtownFellowshipSite(urls: {
   return urlMatches(urls.canonicalOrigin) || urlMatches(urls.siteUrl);
 }
 
-/** JSON-LD / canonical：指纹站构建若误带主站 `PUBLIC_CANONICAL_ORIGIN`，仍回落到教堂主域，避免 Breadcrumb 泄漏 Rockwell。 */
+/** JSON-LD/canonical: fingerprint builds fall back to church origin if PUBLIC_CANONICAL_ORIGIN leaks main site. */
 export const NEWTOWN_FELLOWSHIP_DEFAULT_ORIGIN = "https://newtownbaptistfellowship.com" as const;
 
 /**
- * 解析本域 origin（无尾斜杠）。仅当 canonical / siteUrl 已指向 Newtown 主机时使用其 origin；
- * 否则使用 {@link NEWTOWN_FELLOWSHIP_DEFAULT_ORIGIN}（与架构师指令「严禁主站域名」一致）。
+ * Resolve origin (no trailing slash). Use Newtown host only when canonical/siteUrl already point there;
+ * else {@link NEWTOWN_FELLOWSHIP_DEFAULT_ORIGIN} (no main-site domain).
  */
 export function resolveNewtownFellowshipPublicOrigin(urls: {
   canonicalOrigin?: string;
@@ -60,7 +60,7 @@ export function resolveNewtownFellowshipPublicOrigin(urls: {
   return NEWTOWN_FELLOWSHIP_DEFAULT_ORIGIN;
 }
 
-/** 与 `site-config.canonicalPageUrl` 相同规则，但使用教堂站 origin。 */
+/** Same as site-config.canonicalPageUrl but church origin. */
 export function newtownFellowshipCanonicalPageUrl(originBase: string, ...segments: string[]): string {
   const base = originBase.replace(/\/$/, "");
   const parts = segments

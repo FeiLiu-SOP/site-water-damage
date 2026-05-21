@@ -14,7 +14,7 @@ const { extraLink, notice, variantSeed, slug, auditStateCode, auditZipCode, audi
   auditStateCode?: string | null;
   auditZipCode?: string | null;
   auditNodeVersion?: string | null;
-  /** Dev stewardship hub：与当前页 collection 对齐。 */
+  /** Dev stewardship hub: align with page collection. */
   collectionKey?: ActiveCollectionKey | null;
 };
 
@@ -120,7 +120,7 @@ const nicheComplianceLine = nicheLineBucket[linePick]!;
 
 const brandUpper = brand.name.toUpperCase();
 
-/** 教堂 stewardship：与商业站 FixitGrid「dispatch network」指纹解耦，版式仍与同模板 Footer 一致 */
+/** Church stewardship: decouple FixitGrid dispatch fingerprint; same Footer layout */
 const STEWARDSHIP_BRAND_AUDIT_LINES = [
   "Community reference desk — Newtown Fellowship (informational outreach only).",
   "Neighborhood stewardship page — faith-rooted education context (not a contractor marketplace).",

@@ -115,7 +115,7 @@ export function buildFaqSectionItems(input: {
 }): FaqItem[] {
   const { collection, entrySlug, stateCode, geo } = input;
   const faqItems = getFaqByCollection(collection);
-  // 20 套稳定 FAQ 抽样空间：每页先选定 bank，再在该种子下抽 3 条，降低跨页重合。
+  // 20 stable FAQ banks: pick bank per page then 3 items under seed to reduce overlap.
   const bankKey = stableHash(`${collection}|${entrySlug}|faqBank`) % FAQ_STABLE_BANKS;
   const picked = pickFaqSubsetStable(
     faqItems,

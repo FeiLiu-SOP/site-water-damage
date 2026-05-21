@@ -1,12 +1,12 @@
 /**
- * 从 `scripts/niche-master.json` 加载赛道单一真相源（Engineering Notice、禁词、关键词、别名池等）。
+ * Load niche SSOT from scripts/niche-master.json (notices, forbidden, keywords, aliases).
  */
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { ACTIVE_COLLECTION_KEYS, type ActiveCollectionKey } from "../active-collection-keys";
 
-/** Astro 打包后 import.meta.url 落在 dist chunk 内，须用 cwd / 多候选解析 SSOT 路径 */
+/** After Astro bundle, resolve SSOT via cwd / candidate paths */
 function resolveNicheMasterJson(): string {
   const candidates = [
     path.join(process.cwd(), "scripts", "niche-master.json"),
@@ -29,11 +29,11 @@ export type NicheCollectionRecord = {
   dispatchPhone: string;
   nicheKeywords: string[];
   forbiddenPhrases: string[];
-  /** 商业子仓 dist（参与 cross-niche commercial semantic-scan）；教堂赛道禁止与此并存 */
+  /** Commercial child dist for semantic-scan; church vertical must not mix */
   ciDistHtmlRoot?: string;
-  /** 教堂 / NPO 合规扫描产物根（仅 ciAuditProfile=church） */
+  /** Church/NPO compliance audit root (ciAuditProfile=church only) */
   ciChurchDistRoot?: string;
-  /** commercial = 默认；church = 不走商业禁词 dist 扫描，走 compliance-audit-church */
+  /** commercial = default; church = compliance-audit-church not commercial forbidden dist */
   ciAuditProfile?: "commercial" | "church";
   aliasPoolOrdered?: string[];
   engineeringNotice: EngineeringNoticeBlock;
@@ -136,7 +136,7 @@ export function getEngineeringLexicon(collectionKey: ActiveCollectionKey): reado
   return cached;
 }
 
-/** Realtors / hub 变体标题池；顺序须与 Go `stableHashUint32` 取模一致。 */
+/** Realtors/hub title pools; order must match Go stableHashUint32 modulo. */
 export function getAliasPoolOrdered(collectionKey: ActiveCollectionKey): readonly string[] | undefined {
   const pool = getNicheCollection(collectionKey).aliasPoolOrdered;
   if (!pool?.length) return undefined;

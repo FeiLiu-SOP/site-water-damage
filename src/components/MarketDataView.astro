@@ -1,6 +1,6 @@
 ---
 /**
- * 本地「资产安全与市场背景」区块：公开中位数房价语境 + 可解释的住宅风险语境指数（非保险/非工程鉴定）。
+ * Local asset safety block: public median price context + educational risk index (not insurance/engineering).
  */
 interface Props {
   seed: string;
@@ -11,7 +11,7 @@ interface Props {
   elevationFt?: number;
   county?: string | null;
   accent: string;
-  /** Newtown Fellowship：替换「Zillow-style benchmark」标题为非营利语境。 */
+  /** Newtown Fellowship: replace Zillow-style benchmark title with nonprofit wording. */
   medianContextCardTitle?: string | null;
 }
 
@@ -46,7 +46,7 @@ const place =
       ? `ZIP ${zip}`
       : "this service area";
 
-/** 0–100 合成「结构风险语境指数」：仅用于页面内教育性排序，非官方灾害评级。 */
+/** 0–100 synthetic structural risk context index for on-page education only. */
 function structureRiskContextIndex(): { score: number; band: string; drivers: string[] } {
   let s = stableHash(`${seed}|structRisk`);
   const drivers: string[] = [];

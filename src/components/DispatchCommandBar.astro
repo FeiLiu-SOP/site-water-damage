@@ -10,15 +10,15 @@ export interface Props {
   zip: string;
   nicheLabel: string;
   slugSeed: string;
-  /** Newtown Fellowship：非营利化吸底条（与 FixitGrid 商业 dock 隔离）。 */
+  /** Newtown Fellowship: nonprofit sticky bar (isolated from FixitGrid commercial dock). */
   stickyVariant?: "default" | "newtown_fellowship";
-  /** Dev stewardship hub：与当前页 collection 对齐（默认 = 构建期 ACTIVE_COLLECTION）。 */
+  /** Dev stewardship hub: align with page collection (default = build-time ACTIVE_COLLECTION). */
   collectionKey?: ActiveCollectionKey;
 }
 
 const BRAND_DISPLAY = "FixitGrid Local Dispatch Network";
 
-/** 非 roofing 兜底：禁止在未知集合时回落到含 “Roofing” 的 roofing 键 */
+/** Non-roofing fallback: never default unknown collection to roofing keys containing Roofing */
 const NEUTRAL_DISPATCH_COMMAND = { left: "Information Desk", right: "Community Briefing" } as const;
 
 const COLLECTION_COMMAND: Record<
@@ -36,7 +36,7 @@ const COLLECTION_COMMAND: Record<
   "community-stewardship-plumbing": { left: "Plumbing Desk", right: "Supply & Drain Intake" },
 };
 
-/** Newtown + 教堂三垂直：吸底条 ticker / 主文案与业务线严格对齐（无 Roofing 泄漏） */
+/** Newtown + church verticals: sticky ticker/copy aligned to line (no Roofing leak) */
 const NEWTOWN_STEWARDSHIP_TICKER: Record<
   "community-stewardship-water" | "community-stewardship-siding" | "community-stewardship-plumbing",
   { auditLine: string; bar: { left: string; right: string } }
@@ -66,7 +66,7 @@ function viewerCount(seed: string): number {
 const { city, zip, nicheLabel, slugSeed, stickyVariant = "default", collectionKey } = Astro.props;
 const isNewtownFellowshipSticky = stickyVariant === "newtown_fellowship";
 const col = collectionKey ?? ACTIVE_COLLECTION;
-/** 教堂 / NPO 赛道：与域名无关，凡 `community-stewardship-*` 构建均走志愿语境吸底条（防误导性商业广告表述） */
+/** Church/NPO: any community-stewardship-* build uses volunteer sticky copy (no misleading commercial ads) */
 const isNpoStewardship = col.startsWith("community-stewardship-");
 const brandRef = getBrand(Astro.url.hostname);
 const brandDisplay = BRAND_DISPLAY;
@@ -77,10 +77,10 @@ const newtownStew =
     col === "community-stewardship-plumbing")
     ? NEWTOWN_STEWARDSHIP_TICKER[col]
     : null;
-/** NPO：主栏固定为志愿 intake + 邻居 stewardship（取代商业 Pipe Safety / Emergency Dispatch 等联想） */
+/** NPO: main bar is volunteer intake + neighbor stewardship (not commercial dispatch wording) */
 const npoDockBar = { left: "Volunteer Intake", right: "Neighbor Stewardship" } as const;
 const cmd = isNpoStewardship ? npoDockBar : (newtownStew?.bar ?? COLLECTION_COMMAND[col] ?? NEUTRAL_DISPATCH_COMMAND);
-/** 教堂灰皮与 nonprofit 色板：NPO 赛道或显式 Newtown Fellowship sticky */
+/** Church gray + nonprofit palette: NPO vertical or explicit Newtown Fellowship sticky */
 const useNpoDockSkin = isNpoStewardship || isNewtownFellowshipSticky;
 const zipClean = zip.replace(/\D/g, "");
 const zipDisplay = zipClean.length === 5 ? zipClean : zip.trim() || "local";

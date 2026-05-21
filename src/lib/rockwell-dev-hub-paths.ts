@@ -1,7 +1,7 @@
 /**
- * Dev-only：单进程 `astro dev` 下合并注册 Rockwell 三垂直（roofing / plumbing / pestcontrol）静态路径。
- * 避免并行 `ACTIVE_COLLECTION` 多开争写 `.astro/`（EPERM）。
- * 逻辑须独立成文件：`getStaticPaths` 在 Vite/Astro 下会被拆块。
+ * Dev-only: register Rockwell roofing/plumbing/pestcontrol paths in one astro dev process.
+ * Avoid parallel ACTIVE_COLLECTION dev servers writing .astro/ (EPERM).
+ * Must live in separate file: getStaticPaths is split into chunks.
  */
 import { ACTIVE_COLLECTION, type ActiveCollectionKey } from "../active-collection";
 

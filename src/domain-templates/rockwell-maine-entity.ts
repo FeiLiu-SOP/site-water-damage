@@ -1,8 +1,8 @@
 /**
- * Rockwell Properties Maine — 主域 Hub（/roofing /plumbing /pestcontrol）实体与 JSON-LD 辅助。
- * NAP / sameAs / founder 以构建期环境变量为准，避免在仓库中硬编码未验证地址。
+ * Rockwell Properties Maine — hub entity JSON-LD for /roofing /plumbing /pestcontrol.
+ * NAP/sameAs/founder from build env vars; no unverified hardcoded addresses.
  *
- * 文件名避免 `*.com.ts`：Vite/Rollup 会把 `import ".../foo.com"` 解析成扩展名 `.com`，导致 Linux 构建失败。
+ * Avoid *.com.ts filenames: Vite may parse .com as extension on Linux.
  */
 
 import type { ActiveCollectionKey } from "../active-collection";
@@ -56,8 +56,8 @@ function parseHours(): { opens: string; closes: string; days: string[] } | null 
 }
 
 /**
- * Google 推荐：法人名称、可验证 NAP、sameAs 与页面 areaServed 对齐。
- * 未配置的 PUBLIC_ORG_* 字段会从图中省略（优于错误数据）。
+ * Google: legal name, verifiable NAP, sameAs aligned with areaServed.
+ * Omit unset PUBLIC_ORG_* fields rather than emit bad data.
  */
 export function buildRockwellMaineEntityGraph(params: {
   collection: ActiveCollectionKey;

@@ -1,6 +1,6 @@
 /**
- * 纯数据：无 `import.meta` / 进程外副作用。Node/tsx 审计脚本可安全导入。
- * 与 `content.config.ts` / Go `nicheRegistry` / `active-collection.ts` 须保持一致。
+ * Data-only: no import.meta or process side effects; safe for Node/tsx audit imports.
+ * Must stay aligned with content.config.ts, Go nicheRegistry, and active-collection.ts.
  */
 export const ACTIVE_COLLECTION_KEYS = [
   "roofing",

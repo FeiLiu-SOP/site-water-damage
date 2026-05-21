@@ -1,10 +1,10 @@
 /**
- * 与 `scripts/forbidden-phrases.ci.generated.json` 中各商业 `targets[].forbidden_phrases` 对齐（`npm run audit:config` 产出后请同步本表）。
- * 用于在 SSR 文案池（CAS / meta-analysis）阶段剔除会触发 `semantic-scan.py` 的跨垂直子串。
+ * Aligned with scripts/forbidden-phrases.ci.generated.json commercial forbidden_phrases (sync after npm run audit:config).
+ * Strip cross-vertical substrings in SSR pools that would fail semantic-scan.py.
  */
 import type { ActiveCollectionKey } from "../active-collection-keys";
 
-/** 与 `semantic_scan_lib.phrase_matches_in_lower_html` 一致：含空格用子串；否则用 [a-z0-9] 词边界，避免 Apex→PEX、residing→siding 误杀。 */
+/** Matches semantic_scan_lib: spaced phrases as substring; else word boundary (avoids Apex→PEX, residing→siding false positives). */
 function forbiddenPhraseMatchesLowerText(lower: string, phrase: string): boolean {
   const needle = phrase.trim().toLowerCase();
   if (!needle) return false;
@@ -160,7 +160,7 @@ const COMMERCIAL_FORBIDDEN: Partial<Record<ActiveCollectionKey, readonly string[
   ],
 };
 
-/** 禁词表（与 semantic-scan 一致：多词为子串；单词为 [a-z0-9] 边界）。教堂赛道不在此表。 */
+/** Forbidden list (semantic-scan rules). Church vertical excluded. */
 export function forbiddenSubstringsForCommercialScan(collectionKey: string): readonly string[] {
   if (collectionKey.startsWith("community-stewardship-")) return [];
   const row = COMMERCIAL_FORBIDDEN[collectionKey as ActiveCollectionKey];
