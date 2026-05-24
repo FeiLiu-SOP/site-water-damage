@@ -16,6 +16,7 @@ import RockwellGa4Events from "../components/RockwellGa4Events.astro";
 import ServiceAreaVerifiedReviews from "../components/ServiceAreaVerifiedReviews.astro";
 import ServiceAreaLocalLandmarks from "../components/ServiceAreaLocalLandmarks.astro";
 import { getGscSeedLandmarks } from "../lib/gsc-seed-landmarks";
+import { ogThumbnailUrl } from "../lib/og-thumbnail-url";
 import { ACTIVE_COLLECTION } from "../active-collection";
 import {
   BRAND_CONFIG,
@@ -125,7 +126,7 @@ const { Content } = await render(entry);
 const post = entry;
 const entrySlug = entrySlugParam || (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
 const pageUrl = canonicalPageUrl(entrySlug);
-const ogImageUrl = `${getCanonicalBase()}/images/thumbnails/${entrySlug}.jpg`;
+const ogImageUrl = ogThumbnailUrl(entrySlug);
 const pageNicheLabel = getNicheLabelForSeed(entrySlug);
 const isRockwellMaine = matchesRockwellMaine({ domainOrUrl: siteConfig.canonicalOrigin });
 const pageLocation = resolvePageLocation({
