@@ -1,4 +1,5 @@
 ---
+import SiteFavicon from "../../../components/SiteFavicon.astro";
 import { readFileSync } from "node:fs";
 import { resolve } from "node:path";
 
@@ -283,6 +284,7 @@ const topCitiesItemListSchema = {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <SiteFavicon />
     <title>{stateName} Service Hub | National Hub</title>
     <meta
       name="description"

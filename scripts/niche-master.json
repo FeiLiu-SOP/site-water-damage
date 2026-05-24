@@ -219,16 +219,16 @@
       ],
       "ciDistHtmlRoot": "sites/site-siding/dist",
       "aliasPoolOrdered": [
-        "Exterior Cladding",
-        "Vinyl Panels",
+        "Siding Repair",
+        "Siding Installation",
+        "Local Siding Service",
+        "Exterior Siding Repair",
         "Wall Restoration",
         "Facade Renewal",
-        "Cladding Service",
         "Weather Barrier Wrap",
-        "Panel Replacement",
         "Exterior Envelope",
-        "Surface Sheathing",
-        "Cladding Retrofit"
+        "Cladding Retrofit",
+        "Panel Replacement"
       ],
       "engineeringNotice": {
         "mode": "prefixSuffix",

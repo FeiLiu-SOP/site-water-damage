@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from "astro:content";
 import Footer from "../components/Footer.astro";
+import SiteFavicon from "../components/SiteFavicon.astro";
 import Breadcrumbs from "../components/Breadcrumbs.astro";
 import LiveDispatchFeed from "../components/LiveDispatchFeed.astro";
 import MarketDataView from "../components/MarketDataView.astro";
@@ -11,6 +12,10 @@ import TrustBar from "../components/TrustBar.astro";
 import NationalDispatchDisclaimer from "../components/NationalDispatchDisclaimer.astro";
 import NichePartnerLogos from "../components/NichePartnerLogos.astro";
 import DispatchCommandBar from "../components/DispatchCommandBar.astro";
+import RockwellGa4Events from "../components/RockwellGa4Events.astro";
+import ServiceAreaVerifiedReviews from "../components/ServiceAreaVerifiedReviews.astro";
+import ServiceAreaLocalLandmarks from "../components/ServiceAreaLocalLandmarks.astro";
+import { getGscSeedLandmarks } from "../lib/gsc-seed-landmarks";
 import { ACTIVE_COLLECTION } from "../active-collection";
 import {
   BRAND_CONFIG,
@@ -34,20 +39,24 @@ import {
   buildFaqSchema,
   buildLocalBusinessSchema,
   buildNewtownFellowshipLocalBusinessSchema,
+  buildServiceAreaAggregateRating,
   getFaqByCollection,
 } from "../lib/seo";
 import { resolvePageLocation } from "../lib/location";
 import {
   buildBaitPool2TitlesRoofing,
+  buildRoofingH1,
   buildRoofingPageTitle,
   ROOFING_META_MAX,
 } from "../lib/roofing-serp-title";
+import { getRoofingSerpOverride } from "../lib/roofing-serp-overrides";
 import {
   buildBaitPool2TitlesPlumbing,
   buildPlumbingH1,
   buildPlumbingPageTitle,
   PLUMBING_META_MAX,
 } from "../lib/plumbing-serp-title";
+import { getPlumbingSerpOverride } from "../lib/plumbing-serp-overrides";
 import {
   buildBaitPool2TitlesPestcontrol,
   buildPestH1,
@@ -55,6 +64,7 @@ import {
   buildPestPageTitle,
   PEST_META_MAX,
 } from "../lib/pestcontrol-serp-title";
+import { getPestcontrolSerpOverride } from "../lib/pestcontrol-serp-overrides";
 import {
   buildBaitPool2TitlesWater,
   buildWaterH1,
@@ -357,8 +367,12 @@ const roofingConvHead =
         zLabelExact,
         highValue: isRoofingHighValue,
         slug: entrySlug,
+        stateCode: stateCodeFromSlug ?? "US",
       })
     : null;
+const roofingSerpOverride = isRoofingHub ? getRoofingSerpOverride(entrySlug) : null;
+const plumbingSerpOverride = isPlumbingHub ? getPlumbingSerpOverride(entrySlug) : null;
+const pestSerpOverride = isPestControlHub ? getPestcontrolSerpOverride(entrySlug) : null;
 const plumbingConvHead =
   isPlumbingHub && pageCity && stateCodeFromSlug
     ? buildBaitPool2TitlesPlumbing({
@@ -473,7 +487,8 @@ const pageTitle = isWaterDamageHub
         })
       : post.data.title)
   : isPlumbingHub
-    ? plumbingConvHead?.pageTitle ??
+    ? plumbingSerpOverride?.pageTitle ??
+      plumbingConvHead?.pageTitle ??
       (pageCity
         ? buildPlumbingPageTitle({
             city: pageCity,
@@ -506,7 +521,8 @@ const pageTitle = isWaterDamageHub
             })
           : post.data.title)
       : isRoofingHub
-      ? roofingConvHead?.pageTitle ??
+      ? roofingSerpOverride?.pageTitle ??
+        roofingConvHead?.pageTitle ??
         (pageCity
           ? buildRoofingPageTitle({
               city: pageCity,
@@ -523,7 +539,8 @@ const pageTitle = isWaterDamageHub
               slug: entrySlug,
             }))
       : isPestControlHub
-        ? pestConvHead?.pageTitle ??
+        ? pestSerpOverride?.pageTitle ??
+          pestConvHead?.pageTitle ??
           (pageCity
             ? buildPestPageTitle({
                 city: pageCity,
@@ -545,7 +562,8 @@ const pageH1Plain = isWaterDamageHub
       ? buildWaterH1({ city: pageCity, zLabel, zLabelExact })
       : post.data.title)
   : isPlumbingHub
-    ? plumbingConvHead?.pageH1 ??
+    ? plumbingSerpOverride?.pageH1 ??
+      plumbingConvHead?.pageH1 ??
       (pageCity
         ? buildPlumbingH1({
             city: pageCity,
@@ -565,12 +583,14 @@ const pageH1Plain = isWaterDamageHub
           ? buildSidingH1({ city: pageCity, zLabel, zLabelExact })
           : post.data.title)
       : isRoofingHub
-      ? roofingConvHead?.pageH1 ??
-        (pageCity ? `${pageCity} Roofing & Asset Defense` : post.data.title)
+      ? roofingSerpOverride?.pageH1 ??
+        roofingConvHead?.pageH1 ??
+        (pageCity ? buildRoofingH1(pageCity, isRoofingHighValue) : post.data.title)
     : isPestControlHub
-      ? pestConvHead?.pageH1 ??
+      ? pestSerpOverride?.pageH1 ??
+        pestConvHead?.pageH1 ??
         (pageCity
-          ? buildPestH1({ city: pageCity, zLabel, zLabelExact })
+          ? buildPestH1({ city: pageCity, zLabel, zLabelExact, highValue: isPestHighValue })
           : post.data.title)
     : zLabelForPublicSurface && pageCity
       ? `${pageCity} infrastructure stewardship — ${zLabelForPublicSurface} median context`
@@ -584,7 +604,8 @@ const pageMetaDescriptionDefault = isWaterDamageHub
   ? (waterConvHead?.metaDescription ??
     clipMetaDescription(post.data.description, WATER_META_MAX))
   : isPlumbingHub
-    ? (plumbingConvHead?.metaDescription ??
+    ? (plumbingSerpOverride?.metaDescription ??
+      plumbingConvHead?.metaDescription ??
       clipMetaDescription(post.data.description, PLUMBING_META_MAX))
     : isPlumbingV2Hub
       ? (plumbingV2ConvHead?.metaDescription ??
@@ -593,10 +614,12 @@ const pageMetaDescriptionDefault = isWaterDamageHub
       ? (sidingConvHead?.metaDescription ??
         clipMetaDescription(post.data.description, SIDING_META_MAX))
       : isRoofingHub
-      ? (roofingConvHead?.metaDescription ??
+      ? (roofingSerpOverride?.metaDescription ??
+        roofingConvHead?.metaDescription ??
         clipMetaDescription(post.data.description, ROOFING_META_MAX))
       : isPestControlHub
-        ? (pestConvHead?.metaDescription ??
+        ? (pestSerpOverride?.metaDescription ??
+          pestConvHead?.metaDescription ??
           clipMetaDescription(post.data.description, PEST_META_MAX))
         : clipMetaDescription(
           (() => {
@@ -732,6 +755,13 @@ const headerVariantsCommercial = [
   `${pageNicheLabel} scheduling & response hub`,
   `Regional ${pageNicheLabel} service access point`,
 ];
+const headerVariantsSidingCommercial = [
+  "National siding repair intake & regional coordination",
+  "Regional siding installation & repair routing",
+  "Local siding crew dispatch & scheduling desk",
+  "Siding repair service access point",
+  "Regional exterior siding response hub",
+];
 const headerVariantsStewardship = [
   `Community ${pageNicheLabel} stewardship reference desk`,
   `${pageNicheLabel} neighbor education routing`,
@@ -739,7 +769,14 @@ const headerVariantsStewardship = [
   `${pageNicheLabel} ZIP-sector education framing`,
   `Area ${pageNicheLabel} reference materials (non-commercial)`,
 ];
-const headerVariants = isCommunityStewardshipNpo ? headerVariantsStewardship : headerVariantsCommercial;
+const headerVariants = isCommunityStewardshipNpo
+  ? headerVariantsStewardship
+  : isSidingHub
+    ? headerVariantsSidingCommercial
+    : headerVariantsCommercial;
+const sidingServiceLeadHtml = isSidingHub
+  ? "<p><strong>On-site siding repair and installation dispatch.</strong> This page coordinates licensed local crews for moisture intrusion, decay at the envelope, and panel replacement — not retail material sales. Share photos and ZIP context for a scope review before scheduling.</p>"
+  : null;
 const headerVariant = headerVariants[stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|header`) % headerVariants.length]!;
 const faqTitleVariants = [
   "Frequently Asked Questions",
@@ -951,6 +988,7 @@ const localBusinessSchema = isRockwellMaine
       pageDescription: pageMetaDescription,
       pageUrl,
       location: pageLocation,
+      entrySlug,
     })
   : isCommunityStewardshipNpo
     ? buildNewtownFellowshipLocalBusinessSchema({
@@ -966,8 +1004,16 @@ const localBusinessSchema = isRockwellMaine
         pageDescription: pageMetaDescription,
         pageUrl,
         location: pageLocation,
+        entrySlug,
       });
 const faqSchema = buildFaqSchema(pageFaqItemsFinal);
+const seedAggregateRating = buildServiceAreaAggregateRating(entrySlug);
+const seedReviewCityDisplay = pageLocation?.city ?? pageCity ?? "Local";
+const seedLandmarks = getGscSeedLandmarks(entrySlug);
+const seedLandmarksZip =
+  (pageLocation?.zip ?? String(post.data.zipCode ?? "").trim()) || "";
+const seedLandmarksState =
+  pageLocation?.state ?? stateCodeFromSlug ?? String(post.data.state ?? "").trim();
 
 const breadcrumbListSchema = buildBreadcrumbListSchema(
   buildSlugPageBreadcrumbItems({
@@ -1015,6 +1061,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <SiteFavicon />
     <meta name="google-site-verification" content="e8639489520c639b" />
     <title>{pageTitle}</title>
     <meta name="description" content={pageMetaDescription} />
@@ -1485,7 +1532,11 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
               <section class="hero-flood-alert-band" aria-label="Service area headline">
                 <h1>
                   {
-                    isFinancialPressureMode ? (
+                    plumbingSerpOverride ? (
+                      plumbingSerpOverride.pageH1
+                    ) : roofingSerpOverride ? (
+                      roofingSerpOverride.pageH1
+                    ) : isFinancialPressureMode ? (
                       <>
                         {`${pageCity} ${pageNicheLabel} - Property Protection: `}
                         <span class="h1-zmoney">{zLabelForPublicSurface}</span>
@@ -1538,7 +1589,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
           <p>{serviceLine}</p>
           <p class="service-meta">{ctaVariant.meta}</p>
           <TrustBar collectionKey={ACTIVE_COLLECTION} />
-          <a class={phoneBtnClass} href={telHref} aria-label={phoneBtnAriaLabel}>
+          <a class={`${phoneBtnClass} phone-dispatch-btn`} href={telHref} aria-label={phoneBtnAriaLabel}>
             <span class="phone-btn__main">
               <svg
                 class="phone-btn__signal"
@@ -1574,6 +1625,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
             if (k === "content") {
               return (
                 <div id={articleBodyId} class={articleBodyClass}>
+                  {sidingServiceLeadHtml ? <div set:html={sidingServiceLeadHtml} /> : null}
                   <Content />
                 </div>
               );
@@ -1647,6 +1699,24 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
             ) : null;
           })
         }
+        {
+          seedLandmarks ? (
+            <ServiceAreaLocalLandmarks
+              city={seedReviewCityDisplay}
+              state={seedLandmarksState}
+              zip={seedLandmarksZip}
+              landmarks={seedLandmarks.landmarks}
+            />
+          ) : null
+        }
+        {
+          seedAggregateRating ? (
+            <ServiceAreaVerifiedReviews
+              city={seedReviewCityDisplay}
+              reviewCount={seedAggregateRating.reviewCount}
+            />
+          ) : null
+        }
       </article>
     </main>
     <Footer
@@ -1664,5 +1734,6 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
       nicheLabel={pageNicheLabel}
       slugSeed={entrySlug}
     />
+    <RockwellGa4Events collection={ACTIVE_COLLECTION} pageSlug={entrySlug} />
   </body>
 </html>

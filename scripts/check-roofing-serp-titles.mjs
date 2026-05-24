@@ -52,7 +52,9 @@ function formatZillowUsdShort(usd) {
 }
 
 const libUrl = pathToFileURL(path.join(__dirname, "..", "src", "lib", "roofing-serp-title.ts")).href;
+const overrideUrl = pathToFileURL(path.join(__dirname, "..", "src", "lib", "roofing-serp-overrides.ts")).href;
 const { buildRoofingPageTitle, ROOFING_TITLE_MAX } = await import(libUrl);
+const { getRoofingSerpOverride } = await import(overrideUrl);
 
 const HIGH = 300_000;
 const files = fs.readdirSync(contentDir).filter((f) => f.endsWith(".md"));
@@ -75,13 +77,15 @@ for (const file of files) {
       : null;
   const highValue = zUsd != null && zUsd >= HIGH;
   try {
-    const title = buildRoofingPageTitle({
-      city,
-      zLabel,
-      zLabelExact,
-      highValue,
-      slug,
-    });
+    const title =
+      getRoofingSerpOverride(slug)?.pageTitle ??
+      buildRoofingPageTitle({
+        city,
+        zLabel,
+        zLabelExact,
+        highValue,
+        slug,
+      });
     if (title.length > ROOFING_TITLE_MAX) {
       console.warn(`[roofing-title] Title Truncated: ${title.length}>${ROOFING_TITLE_MAX} slug=${slug}`);
       failures++;

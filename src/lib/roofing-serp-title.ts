@@ -1,4 +1,4 @@
-/** Rockwell roofing SERP titles: ≤55 chars, full words only, no mid-token clip. */
+/** Rockwell roofing SERP titles: ≤55 chars, service-first, tiered (no asset-audit titles). */
 
 export const ROOFING_BRAND_SUFFIX = " | FixitGrid";
 export const ROOFING_TITLE_MAX = 55;
@@ -40,19 +40,23 @@ function pickFirstRoofingTitle(cores: string[], context: string): string {
 
 export function buildRoofingLowTitleCore(city: string): string[] {
   return [
-    `Emergency ${city} Roofing: $0 Dispatch & Verified`,
-    `Emergency ${city} Roof: $0 Dispatch & Verified`,
-    `${city} Emergency Roof: $0 Dispatch & Verified`,
-    `Emergency Roof: $0 Dispatch & Verified`,
+    `Emergency ${city} Roofing`,
+    `Emergency ${city} Roof Repair`,
+    `${city} Emergency Roofing`,
+    `${city} Roof Repair`,
+    `Emergency Roof Repair`,
   ];
 }
 
-export function buildRoofingHighTitleCore(city: string, valueToken: string): string[] {
+export function buildRoofingHighTitleCore(city: string, _valueToken: string): string[] {
   return [
-    `${city} Roofing Audit: Protect ${valueToken} Asset`,
-    `${city} Roof Audit: Protect ${valueToken} Asset`,
-    `${city} Roof Audit: ${valueToken} Asset`,
-    `Roof Audit: Protect ${valueToken} Asset`,
+    `${city} Roof Repair & Replacement`,
+    `${city} Roofing Contractor`,
+    `${city} Roofer & Roof Repair`,
+    `Roofing Contractor ${city}`,
+    `${city} Licensed Roofer`,
+    `Roof Repair & Replacement`,
+    `Licensed Roofer`,
   ];
 }
 
@@ -66,12 +70,16 @@ export function buildRoofingPageTitle(opts: {
   const { city, zLabel, zLabelExact, highValue, slug } = opts;
   const z = (zLabel ?? zLabelExact ?? "").trim();
   if (highValue) {
-    return pickFirstRoofingTitle(
-      buildRoofingHighTitleCore(city, z || "Home"),
-      `high:${slug}`,
-    );
+    return pickFirstRoofingTitle(buildRoofingHighTitleCore(city, z || "Home"), `high:${slug}`);
   }
   return pickFirstRoofingTitle(buildRoofingLowTitleCore(city), `low:${slug}`);
+}
+
+export function buildRoofingH1(city: string, highValue: boolean): string {
+  if (highValue) {
+    return `Roof Repair & Replacement — ${city}`;
+  }
+  return `Roofing — ${city}`;
 }
 
 export function buildBaitPool2TitlesRoofing(opts: {
@@ -80,24 +88,14 @@ export function buildBaitPool2TitlesRoofing(opts: {
   zLabelExact: string | null;
   highValue: boolean;
   slug: string;
+  stateCode?: string;
 }): { pageTitle: string; pageH1: string; metaDescription: string } {
-  const { city, zLabel, zLabelExact, highValue } = opts;
-  const z = (zLabel ?? zLabelExact ?? "").trim();
-  const pageH1 = `${city} Roofing & Asset Defense`;
+  const { city, highValue, stateCode = "US" } = opts;
+  const st = stateCode.trim().toUpperCase() || "US";
   const pageTitle = buildRoofingPageTitle(opts);
-
-  if (highValue) {
-    const metaDescription = clipMetaDescription(
-      z
-        ? `Protect your ${z} home value. Our USGS-driven audit for ${city} prevents overcharging. Get a verified inspection now.`
-        : `Protect your home value. Our USGS-driven audit for ${city} prevents overcharging. Get a verified inspection now.`,
-      ROOFING_META_MAX,
-    );
-    return { pageTitle, pageH1, metaDescription };
-  }
-
+  const pageH1 = buildRoofingH1(city, highValue);
   const metaDescription = clipMetaDescription(
-    `${city} roofing services. Stop overpaying. Our local audit prevents scams and hidden fees. Get your emergency dispatch quote today.`,
+    `Roof repair & replacement in ${city}, ${st}. Local roofer for shingles & storm damage. Licensed contractor — free estimate.`,
     ROOFING_META_MAX,
   );
   return { pageTitle, pageH1, metaDescription };

@@ -7,6 +7,7 @@
 
 import type { ActiveCollectionKey } from "../active-collection";
 import type { ParsedLocation } from "../lib/location";
+import { buildServiceAreaAggregateRating } from "../lib/seo";
 import { getCanonicalBase, normalizePhoneE164, siteConfig } from "../site-config";
 
 export const ROCKWELL_MAINE_DOMAIN = "rockwellpropertiesmaine.com";
@@ -64,6 +65,8 @@ export function buildRockwellMaineEntityGraph(params: {
   pageDescription: string;
   pageUrl: string;
   location: ParsedLocation | null;
+  /** GSC SERP seed slug — adds aggregateRating on LocalBusiness when matched. */
+  entrySlug?: string;
 }): Record<string, unknown> {
   const orgId = `${brandOrigin()}/#organization`;
   const localId = `${params.pageUrl}#localbusiness`;
@@ -184,6 +187,13 @@ export function buildRockwellMaineEntityGraph(params: {
     ],
     ...(founder ? { founder } : {}),
   };
+
+  const aggregateRating = params.entrySlug
+    ? buildServiceAreaAggregateRating(params.entrySlug)
+    : null;
+  if (aggregateRating) {
+    localBusiness.aggregateRating = aggregateRating;
+  }
 
   return {
     "@context": "https://schema.org",

@@ -1,7 +1,6 @@
-/** Rockwell pest control SERP: hash templates + premium tier; full FixitGrid brand suffix. */
+/** Rockwell pest control SERP: hash templates + tier; service-first (no PREMIUM/asset audit titles). */
 
-export const PEST_BRAND_SUFFIX = " | FixitGrid Local Dispatch Network";
-/** Google SERP soft cap; fallbacks swap full phrases — never mid-word clip. */
+export const PEST_BRAND_SUFFIX = " | FixitGrid";
 export const PEST_TITLE_MAX = 120;
 export const PEST_META_MAX = 155;
 
@@ -13,11 +12,10 @@ export function clipMetaDescription(text: string, max = PEST_META_MAX): string {
 
 function withPestTitleBrand(core: string): string {
   const c = core.trim();
-  if (c.endsWith("FixitGrid Local Dispatch Network") || c.endsWith("FixitGrid")) {
+  if (c.endsWith("FixitGrid")) {
     return c.length <= PEST_TITLE_MAX ? c : c;
   }
-  const branded = `${c}${PEST_BRAND_SUFFIX}`;
-  return branded;
+  return `${c}${PEST_BRAND_SUFFIX}`;
 }
 
 export function assertPestTitleFits(title: string, context: string): string {
@@ -31,54 +29,53 @@ export function assertPestTitleFits(title: string, context: string): string {
   return title;
 }
 
-function pickFirstPestTitle(cores: string[], context: string, branded = true): string {
+function pickFirstPestTitle(cores: string[], context: string): string {
   for (const core of cores) {
-    const titled = branded ? withPestTitleBrand(core) : core.trim();
+    const titled = withPestTitleBrand(core);
     if (titled.length <= PEST_TITLE_MAX) {
       return assertPestTitleFits(titled, context);
     }
   }
-  const fallback = branded ? withPestTitleBrand(cores[cores.length - 1]!) : cores[cores.length - 1]!.trim();
-  return assertPestTitleFits(fallback, context);
+  return assertPestTitleFits(withPestTitleBrand(cores[cores.length - 1]!), context);
 }
 
-/** Template 0 — eradication guarantee. */
+/** Template 0 — emergency pest control. */
 export function buildPestTemplate0Cores(city: string): string[] {
   return [
-    `Emergency ${city} Pest Control: 100% Eradication & Verified`,
-    `Emergency ${city} Pest: 100% Eradication & Verified`,
-    `Emergency ${city} Pest Control: 100% Eradication`,
-    `Emergency Pest Control: 100% Eradication & Verified`,
+    `Emergency ${city} Pest Control`,
+    `Emergency Pest Control ${city}`,
+    `Emergency ${city} Pest Service`,
+    `Emergency Pest Control`,
   ];
 }
 
-/** Template 1 — asset / structure protection. */
-export function buildPestTemplate1Cores(city: string, valueToken: string): string[] {
-  const z = valueToken || "Home";
+/** Template 1 — general services. */
+export function buildPestTemplate1Cores(city: string, _valueToken: string): string[] {
   return [
-    `Stop ${city} Infestation: Protect Your ${z} Home Asset`,
-    `Stop ${city} Infestation: Protect Your ${z} Asset`,
-    `Stop ${city} Pests: Protect Your ${z} Home Asset`,
-    `Stop Infestation in ${city}: Protect Your ${z} Asset`,
+    `Pest Control Services ${city}`,
+    `${city} Pest Control Services`,
+    `Pest Control ${city}`,
+    `${city} Licensed Pest Control`,
   ];
 }
 
-/** Template 2 — audit / child & pet safe. */
+/** Template 2 — roaches / rodents / seasonal. */
 export function buildPestTemplate2Cores(city: string): string[] {
   return [
-    `2026 ${city} Pest Risk Audit: Child & Pet Safe Dispatch`,
-    `2026 ${city} Pest Audit: Child & Pet Safe Dispatch`,
-    `${city} Pest Risk Audit: Child & Pet Safe`,
-    `2026 Pest Risk Audit: Child & Pet Safe Dispatch`,
+    `${city} Pest & Rodent Control`,
+    `${city} Ant & Roach Control`,
+    `Pest & Rodent Control ${city}`,
+    `${city} Local Pest Control`,
   ];
 }
 
-export function buildPestPremiumTitleCores(city: string, zLabelExact: string): string[] {
-  const z = zLabelExact.trim() || "Home";
+/** Higher median — contractor wording (no dollar amount in title). */
+export function buildPestPremiumTitleCores(city: string, _zLabelExact: string): string[] {
   return [
-    `PREMIUM: ${z} ${city} Pest Asset Audit | 2026 Deep Nest Defense`,
-    `PREMIUM: ${city} Pest Asset Audit | 2026 Deep Nest Defense`,
-    `PREMIUM: ${z} Pest Asset Audit | Deep Nest Defense`,
+    `Pest Control Contractor ${city}`,
+    `${city} Pest Control Contractor`,
+    `${city} Pest Control Services`,
+    `Licensed Pest Control ${city}`,
   ];
 }
 
@@ -93,7 +90,7 @@ export function buildPestPageTitle(opts: {
   const { city, zLabel, zLabelExact, highValue, slug, pick } = opts;
   const z = (zLabel ?? zLabelExact ?? "").trim();
   if (highValue && zLabelExact) {
-    return pickFirstPestTitle(buildPestPremiumTitleCores(city, zLabelExact), `premium:${slug}`, false);
+    return pickFirstPestTitle(buildPestPremiumTitleCores(city, zLabelExact), `premium:${slug}`);
   }
   const r = pick % 3;
   if (r === 0) {
@@ -109,20 +106,23 @@ export function buildPestH1(opts: {
   city: string;
   zLabel: string | null;
   zLabelExact: string | null;
+  highValue?: boolean;
 }): string {
-  const { city, zLabel, zLabelExact } = opts;
-  const zDisplay = (zLabelExact ?? zLabel ?? "Home").trim();
-  return `Verified ${city} Pest Experts — 100% Eradication Guarantee — Protecting your ${zDisplay} Asset`;
+  const { city, highValue } = opts;
+  if (highValue) {
+    return `Pest Control Services — ${city}`;
+  }
+  return `Pest Control — ${city}`;
 }
 
 export function buildPestNestNotice(city: string): string {
-  return `NOTICE: Your ${city} property has high-risk entry points. Our deep nest audit confirms your infestation status to prevent structural decay.`;
+  return `NOTICE: Your ${city} property may need pest treatment. Schedule inspection for ants, rodents and seasonal pests.`;
 }
 
 export function buildPestMetaDescription(city: string, stateCode: string): string {
   const st = stateCode.trim().toUpperCase() || "US";
   return clipMetaDescription(
-    `Don't let pests eat your equity. Our verified ${city} dispatch ensures 100% child-safe eradication and structural risk audits. Search 'FixitGrid ${st}' for an immediate local response.`,
+    `Pest control in ${city}, ${st}. Ants, rodents, wasps & seasonal pests. Licensed local service — same-day help.`,
     PEST_META_MAX,
   );
 }
@@ -136,9 +136,9 @@ export function buildBaitPool2TitlesPestcontrol(opts: {
   slug: string;
   pick: number;
 }): { pageTitle: string; pageH1: string; metaDescription: string } {
-  const { city, stateCode } = opts;
+  const { city, stateCode, highValue } = opts;
   const pageTitle = buildPestPageTitle(opts);
-  const pageH1 = buildPestH1(opts);
+  const pageH1 = buildPestH1({ city, zLabel: opts.zLabel, zLabelExact: opts.zLabelExact, highValue });
   const metaDescription = buildPestMetaDescription(city, stateCode);
   return { pageTitle, pageH1, metaDescription };
 }

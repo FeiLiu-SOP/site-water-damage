@@ -51,10 +51,10 @@ const SUBTITLE_BY_COLLECTION: Partial<Record<ActiveCollectionKey, string>> = {
   "plumbing-v2": "CERTIFIED INFRASTRUCTURE MATERIALS & COMPATIBLE SYSTEMS",
   roofing: "CERTIFIED INFRASTRUCTURE MATERIALS & COMPATIBLE SYSTEMS",
   "water-damage": "CERTIFIED INFRASTRUCTURE MATERIALS & COMPATIBLE SYSTEMS",
-  "siding-services": "CERTIFIED INFRASTRUCTURE MATERIALS & COMPATIBLE SYSTEMS",
+  "siding-services": "CERTIFIED EXTERIOR RESTORATION PARTNERS",
   pestcontrol: "PROFESSIONAL EQUIPMENT & NETWORK PARTNERS",
   "community-stewardship-water": "CERTIFIED INFRASTRUCTURE MATERIALS & COMPATIBLE SYSTEMS",
-  "community-stewardship-siding": "CERTIFIED INFRASTRUCTURE MATERIALS & COMPATIBLE SYSTEMS",
+  "community-stewardship-siding": "REGIONAL EXTERIOR STEWARDSHIP REFERENCE PARTNERS",
   "community-stewardship-plumbing": "CERTIFIED INFRASTRUCTURE MATERIALS & COMPATIBLE SYSTEMS",
 };
 
@@ -114,8 +114,11 @@ const subtitle =
   SUBTITLE_BY_COLLECTION[col] ??
   "CERTIFIED INFRASTRUCTURE MATERIALS & COMPATIBLE SYSTEMS";
 
-/** Tooltip + a11y — matches conversion brief (roofing materials). */
+/** Tooltip + a11y — siding uses crew/dispatch framing (avoid retail "Materials" drift). */
 function partnerOfficialTitle(brandName: string): string {
+  if (col === "siding-services") {
+    return `Local installation practices aligned with ${brandName} exterior systems`;
+  }
   return `Official Service Standard for ${brandName} Materials`;
 }
 
@@ -185,8 +188,16 @@ function brandSvgMarkup(b: BrandEntry, index: number): string {
 
 /** SEO / caption — invisible on screen, exposed to document semantics. */
 function partnerFigcaption(b: BrandEntry): string {
+  if (col === "siding-services") {
+    return `${b.name} — compatible exterior systems referenced for local siding repair and installation dispatch on this service area page.`;
+  }
   return `${b.name} certified partner wordmark for compatible systems and materials disclosure on this service area page.`;
 }
+
+const logoWallAriaLabel =
+  col === "siding-services"
+    ? "Regional exterior siding repair and installation partners"
+    : "Compatible equipment and materials partners";
 
 ---
 
@@ -194,7 +205,7 @@ function partnerFigcaption(b: BrandEntry): string {
   displayBrands.length > 0 ? (
     <section
       class={`niche-logo-wall niche-logo-wall--${nicheLogoWallCssMod}`}
-      aria-label="Compatible equipment and materials partners"
+      aria-label={logoWallAriaLabel}
     >
       <p class="niche-logo-wall__subtitle">
         <span class="niche-logo-wall__subtitle-row">

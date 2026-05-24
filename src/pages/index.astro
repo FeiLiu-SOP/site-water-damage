@@ -1,6 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import Footer from "../components/Footer.astro";
+import SiteFavicon from "../components/SiteFavicon.astro";
 import { ACTIVE_COLLECTION } from "../active-collection";
 import {
   canonicalPageUrl,
@@ -64,6 +65,7 @@ const themeAccent = ACTIVE_COLLECTION === "plumbing-v2"
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <SiteFavicon />
     <meta name="google-site-verification" content="e8639489520c639b" />
     <title>{pageNicheLabel} Service Pages</title>
     <meta name="description" content={homeMetaDescription} />

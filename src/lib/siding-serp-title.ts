@@ -107,7 +107,7 @@ export function buildSidingH1(opts: {
 }): string {
   const { city, zLabel, zLabelExact } = opts;
   const zDisplay = (zLabelExact ?? zLabel ?? "Home").trim();
-  return `Verified ${city} Siding Pros — Stop Infestation — Protecting your ${zDisplay} Asset`;
+  return `Verified ${city} Siding Pros — Prevent Water Damage — Protecting your ${zDisplay} Asset`;
 }
 
 export function buildSidingMetaDescription(city: string, stateCode: string): string {
