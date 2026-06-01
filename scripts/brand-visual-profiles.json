@@ -2,6 +2,7 @@
   "version": 1,
   "heroPathPrefix": "/brand/images/brand-thumbnails",
   "r2KeyPrefix": "brand/images/brand-thumbnails",
+  "heroCacheBust": "20260525",
   "entities": {
     "rockwell_cluster": {
       "id": "rockwell_cluster",

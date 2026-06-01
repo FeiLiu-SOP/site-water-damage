@@ -3,6 +3,7 @@ import { defineConfig } from "astro/config";
 import sitemap from "@astrojs/sitemap";
 import { loadEnv } from "vite";
 import { remarkStripRoutingMarkers } from "./src/remark-strip-routing-markers.mjs";
+import { remarkStewardshipDetech } from "./src/remark-stewardship-detech.mjs";
 import { resolvePublicSiteUrl } from "./resolve-public-site-url.mjs";
 import {
   SEGMENT_BY_COLLECTION,
@@ -48,6 +49,13 @@ if (rockwellHub) {
   enforcedBase = "/";
 }
 
+/** FixitGrid near-me pilot: pages at /near-me/florida/... on apex domain (no /roofing/ prefix). */
+const fixitgridNearMe =
+  (process.env.FIXITGRID_NEAR_ME ?? fileEnv.FIXITGRID_NEAR_ME ?? "").trim() === "1";
+if (fixitgridNearMe) {
+  enforcedBase = "/";
+}
+
 /** 教堂 stewardship 常拷到 `_stewardship_preview/<vertical>/` 用 http.server 验；`base` 为 `/` 时外链 `/_astro/*.css` 会打到站点根而 404。内联样式避免子路径预览丢 CSS。 */
 const churchStewardship = normalizedCollection.startsWith("community-stewardship-");
 
@@ -59,12 +67,17 @@ export default defineConfig({
     inlineStylesheets: churchStewardship ? "always" : "auto",
   },
   integrations: [
-    sitemap({
-      /** SERP / crawl signal: uniform freshness date for all URLs (protocol 2026-05-11). */
-      lastmod: new Date("2026-05-11T00:00:00.000Z"),
-    }),
+    /** Church stewardship: GSC uses static apex sitemap only — do not emit *.pages.dev sitemap XML. */
+    ...(churchStewardship
+      ? []
+      : [
+          sitemap({
+            /** SERP / crawl signal: uniform freshness date for all URLs (protocol 2026-05-11). */
+            lastmod: new Date("2026-05-11T00:00:00.000Z"),
+          }),
+        ]),
   ],
   markdown: {
-    remarkPlugins: [remarkStripRoutingMarkers],
+    remarkPlugins: [remarkStripRoutingMarkers, remarkStewardshipDetech],
   },
 });

@@ -48,7 +48,9 @@ export function brandHeroOgImageUrl(): string | null {
   const profile = brandProfileForActiveBuild();
   if (!profile) return null;
   const prefix = String(profilesDoc.heroPathPrefix ?? "/brand/images/brand-thumbnails").replace(/\/$/, "");
-  return `${entityOriginBase()}${prefix}/${profile.heroFilename}`;
+  const bust = String((profilesDoc as { heroCacheBust?: string }).heroCacheBust ?? "").trim();
+  const base = `${entityOriginBase()}${prefix}/${profile.heroFilename}`;
+  return bust ? `${base}?v=${encodeURIComponent(bust)}` : base;
 }
 
 export function brandHeroPathPrefix(): string {

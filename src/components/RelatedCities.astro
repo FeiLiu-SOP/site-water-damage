@@ -2,6 +2,13 @@
 import { getCollection } from "astro:content";
 import { ACTIVE_COLLECTION, type ActiveCollectionKey } from "../active-collection";
 import { getNicheLabelForSeed, internalPath, siteConfig } from "../site-config";
+import {
+  entryPublicPathSegments,
+  cityFromNearMeSlug,
+  isFixitgridNearMeBuild,
+  isNearMeEntrySlug,
+  stateAbbrFromNearMeSlug,
+} from "../lib/fixitgrid-near-me-url";
 
 interface Props {
   currentSlug: string;
@@ -45,6 +52,10 @@ function titleCase(s: string) {
 }
 
 function cityFromSlug(slug: string) {
+  if (isFixitgridNearMeBuild() || isNearMeEntrySlug(slug)) {
+    const near = cityFromNearMeSlug(slug);
+    if (near) return near;
+  }
   const m = slug.match(/^(.*)-([a-z]{2})-(\d{5})$/i);
   if (!m) return null;
   let prefixAndCity = m[1]!;
@@ -113,11 +124,14 @@ const PREFIXES_STEWARDSHIP = [
 const isStewardshipCollection = col.startsWith("community-stewardship-");
 const anchorPrefixes = isStewardshipCollection ? PREFIXES_STEWARDSHIP : PREFIXES;
 
-function toLinkRow(c: { slug: string; title: string }): { href: string; title: string } {
+function toLinkRow(c: { slug: string; title: string; state?: string | null }): { href: string; title: string } {
   const city = cityFromSlug(c.slug) ?? c.title;
   const prefix = anchorPrefixes[stableHash(`${currentSlug}|${c.slug}|anchor`) % anchorPrefixes.length]!;
+  const href = isFixitgridNearMeBuild()
+    ? internalPath(...entryPublicPathSegments(c.slug, c.state ?? st))
+    : internalPath(c.slug);
   return {
-    href: internalPath(c.slug),
+    href,
     title: `${prefix} ${city}`,
   };
 }
@@ -132,20 +146,25 @@ if (st.length === 2) {
   const oLng = typeof originLng === "number" && Number.isFinite(originLng) ? originLng : null;
   const hasOriginGeo = oLat != null && oLng != null;
 
-  type Cand = { slug: string; title: string; lat: number | null; lng: number | null; zipN: number | null };
+  type Cand = { slug: string; title: string; state?: string | null; lat: number | null; lng: number | null; zipN: number | null };
   const candidates: Cand[] = [];
 
   for (const p of posts) {
     const slug = (p.slug ?? p.id ?? "").replace(/\.(md|mdx)$/i, "");
     if (!slug || slug === currentSlug) continue;
-    const m = slug.match(/-([A-Za-z]{2})-\d{5}$/);
-    const slugSt = m ? m[1]!.toUpperCase() : null;
+    const slugSt = (
+      p.data.state?.trim().toUpperCase().slice(0, 2) ??
+      stateAbbrFromNearMeSlug(slug) ??
+      slug.match(/-([A-Za-z]{2})-\d{5}$/)?.[1]?.toUpperCase() ??
+      ""
+    ).slice(0, 2);
     if (slugSt !== st) continue;
     const lat = typeof p.data.lat === "number" && Number.isFinite(p.data.lat) ? p.data.lat : null;
     const lng = typeof p.data.lng === "number" && Number.isFinite(p.data.lng) ? p.data.lng : null;
     candidates.push({
       slug,
       title: p.data.title,
+      state: p.data.state ?? slugSt,
       lat,
       lng,
       zipN: zipFromSlug(slug),
