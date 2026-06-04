@@ -225,6 +225,11 @@ const termsHref = legalLinksAtHubRoot
     <p class="footer-brand-authority-anchor">
       {authorityAnchorLine}
     </p>
+    {isStewardshipFooter ? (
+      <p class="footer-stewardship-legal-tagline">
+        Community stewardship reference — not a contractor marketplace.
+      </p>
+    ) : null}
     <p class="footer-legal-links">
       <a href={privacyHref}>Privacy Policy</a>
       <span aria-hidden="true"> · </span>
@@ -242,7 +247,7 @@ const termsHref = legalLinksAtHubRoot
         </a>
       </p>
     ) : null}
-    {auditStateCode && auditZipCode ? (
+    {auditStateCode && auditZipCode && !isStewardshipFooter ? (
       <div class="audit-node-id" style="font-size: 1px; color: transparent;">
         Audit Node ID: FG-{auditStateCode}-{auditZipCode}-{auditNodeVersion ?? "1"}
       </div>
@@ -290,6 +295,15 @@ const termsHref = legalLinksAtHubRoot
     }
     .footer-legal-links a:hover {
       text-decoration: underline;
+    }
+    .footer-stewardship-legal-tagline {
+      margin: 0.65rem auto 0;
+      padding: 0 0.75rem;
+      max-width: 42rem;
+      font-size: 11px;
+      line-height: 1.45;
+      color: #64748b;
+      text-align: center;
     }
   </style>
 </footer>

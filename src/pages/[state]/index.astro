@@ -2,8 +2,19 @@
 import { getCollection } from "astro:content";
 import Footer from "../../components/Footer.astro";
 import SiteFavicon from "../../components/SiteFavicon.astro";
+import ComplianceMatrix from "../../components/ComplianceMatrix.astro";
 import { ACTIVE_COLLECTION } from "../../active-collection";
 import { canonicalPageUrl, getNicheLabelForSeed, internalPath, siteConfig } from "../../site-config";
+import {
+  entryPublicPathSegments,
+  stateAbbrFromNearMeSlug,
+} from "../../lib/fixitgrid-near-me-url";
+import {
+  buildDispatchComplianceSchema,
+  getDispatchCompliance,
+} from "../../lib/compliance-matrix";
+import { matchesFixitGridEntity } from "../../domain-templates/fixitgrid.com-entity";
+import { matchesRealtorsEntity } from "../../domain-templates/realtorsatthebeach.com-entity";
 import {
   REALTORS_AT_THE_BEACH_WATER_DAMAGE,
   matchesRealtorsAtTheBeachWaterDamage,
@@ -60,9 +71,36 @@ function entryPath(entry: Pick<EntryLike, "id" | "slug">) {
   return raw.replace(/\.(md|mdx)$/i, "");
 }
 
+function entryHref(entry: Pick<EntryLike, "id" | "slug">): string {
+  const slug = entryPath(entry);
+  const st = stateAbbrFromNearMeSlug(slug) ?? stateCode;
+  return internalPath(...entryPublicPathSegments(slug, st));
+}
+
 const serviceLabel = getNicheLabelForSeed(`state:${stateCode}`);
 const canonicalUrl = canonicalPageUrl(stateParam);
 const pageUrl = canonicalUrl;
+
+const isFixitGridSite = matchesFixitGridEntity({ domainOrUrl: siteConfig.canonicalOrigin });
+const isRealtorsSite =
+  !isFixitGridSite && matchesRealtorsEntity({ domainOrUrl: siteConfig.canonicalOrigin });
+const fixitGridDispatchCompliance = isFixitGridSite
+  ? getDispatchCompliance({
+      stateCode,
+      niche: ACTIVE_COLLECTION,
+      citySlug: `state-hub:${stateCode}`,
+      domainKey: "fixitgrid",
+    })
+  : null;
+const realtorsDispatchCompliance = isRealtorsSite
+  ? getDispatchCompliance({
+      stateCode,
+      niche: ACTIVE_COLLECTION,
+      citySlug: `state-hub:${stateCode}`,
+      domainKey: "realtors",
+    })
+  : null;
+const dispatchComplianceForPage = fixitGridDispatchCompliance ?? realtorsDispatchCompliance;
 
 const enableRealtorsAtTheBeachWaterDamageIsolation = matchesRealtorsAtTheBeachWaterDamage({
   domainOrUrl: siteConfig.canonicalOrigin,
@@ -88,6 +126,16 @@ const pageSchema = {
   description: `Browse all ${serviceLabel.toLowerCase()} city pages in ${stateCode}.`,
   url: pageUrl,
 };
+
+const complianceSchema =
+  dispatchComplianceForPage != null
+    ? buildDispatchComplianceSchema({
+        pageUrl,
+        compliance: dispatchComplianceForPage,
+        cityDisplay: `${stateCode} statewide`,
+        brandName: isRealtorsSite ? "Realtors at the Beach" : "FixitGrid",
+      })
+    : null;
 ---
 
 <html
@@ -107,6 +155,9 @@ const pageSchema = {
     <meta name="robots" content={siteConfig.robotsContent} />
     <link rel="canonical" href={canonicalUrl} />
     <script type="application/ld+json" set:html={JSON.stringify(pageSchema)} />
+    {complianceSchema ? (
+      <script type="application/ld+json" set:html={JSON.stringify(complianceSchema)} />
+    ) : null}
     <style>
       :root {
         /* font-family is set on <html> via inline style for Astro CSS stability */
@@ -162,11 +213,27 @@ const pageSchema = {
       <ul class="links">
         {statePosts.map((post) => (
           <li>
-            <a href={internalPath(entryPath(post))}>{post.data.title}</a>
+            <a href={entryHref(post)}>{post.data.title}</a>
           </li>
         ))}
       </ul>
     </main>
+    {
+      dispatchComplianceForPage ? (
+        <ComplianceMatrix
+          compliance={dispatchComplianceForPage}
+          cityDisplay={`${stateCode} statewide`}
+          stateCode={stateCode}
+          nicheLabel={serviceLabel}
+          brandName={isRealtorsSite ? "Realtors at the Beach" : "FixitGrid"}
+          sectionTitle={
+            isRealtorsSite
+              ? "Buyer & Service Network Compliance Audit"
+              : "Dispatch Gateway Compliance Audit"
+          }
+        />
+      ) : null
+    }
     <Footer />
   </body>
 </html>

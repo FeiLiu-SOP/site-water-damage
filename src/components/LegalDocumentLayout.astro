@@ -1,7 +1,9 @@
 ---
 import Footer from "./Footer.astro";
 import SiteFavicon from "./SiteFavicon.astro";
+import { ACTIVE_COLLECTION } from "../active-collection";
 import { getBrand, internalPath, siteConfig } from "../site-config";
+import { isStewardshipCollection, STEWERSHIP_BRAND_SHORT } from "../lib/stewardship-legal";
 
 interface Props {
   title: string;
@@ -10,6 +12,7 @@ interface Props {
 }
 
 const { title, metaDescription, canonicalPath } = Astro.props;
+const stewardship = isStewardshipCollection(ACTIVE_COLLECTION);
 
 function hostnameForBrand(astroHost: string): string {
   if (astroHost) return astroHost;
@@ -21,24 +24,25 @@ function hostnameForBrand(astroHost: string): string {
 }
 
 const brand = getBrand(hostnameForBrand(Astro.url.hostname));
+const titleSuffix = stewardship ? STEWERSHIP_BRAND_SHORT : brand.short;
 const pageUrl = new URL(internalPath(canonicalPath), Astro.url).href;
 const privacyHref = internalPath("privacy-policy");
 const termsHref = internalPath("terms-of-service");
+const accent = stewardship ? "#15803d" : "#1d4ed8";
 ---
 
-<html lang="en">
+<html lang="en" style={`--legal-accent:${accent};`}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <SiteFavicon />
-    <title>{title} | {brand.short}</title>
+    <title>{title} | {titleSuffix}</title>
     <meta name="description" content={metaDescription} />
     <meta name="robots" content={siteConfig.robotsContent} />
     <link rel="canonical" href={pageUrl} />
     <style>
       :root {
         font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
-        --legal-accent: #1d4ed8;
       }
       body {
         margin: 0;
@@ -111,6 +115,6 @@ const termsHref = internalPath("terms-of-service");
       </p>
       <slot name="body" />
     </main>
-    <Footer />
+    <Footer collectionKey={ACTIVE_COLLECTION} />
   </body>
 </html>

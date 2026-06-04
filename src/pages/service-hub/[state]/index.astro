@@ -1,5 +1,10 @@
 ---
 import SiteFavicon from "../../../components/SiteFavicon.astro";
+import ComplianceMatrix from "../../../components/ComplianceMatrix.astro";
+import {
+  buildDispatchComplianceSchema,
+  getDispatchCompliance,
+} from "../../../lib/compliance-matrix";
 import { readFileSync } from "node:fs";
 import { resolve } from "node:path";
 
@@ -252,6 +257,21 @@ const overviewA = `${stateName} regional maintenance and emergency response rout
 const overviewB = `Risk controls in ${stateName} are calibrated against ${hazardText}, as these patterns can directly affect property value through moisture intrusion, structural envelope degradation, and utility-system instability. The city matrix below maps each location to service-specific channels for water, exterior cladding, and plumbing response, preserving auditable path integrity across the statewide service network.`;
 
 const canonicalUrl = `https://realtorsatthebeach.com/service-hub/${state}/`;
+const stateCodeUpper = state.toUpperCase();
+const realtorsHubCompliance = getDispatchCompliance({
+  stateCode: stateCodeUpper,
+  niche: "water-damage",
+  citySlug: `service-hub:${stateCodeUpper}`,
+  domainKey: "realtors",
+});
+const hubComplianceSchema = realtorsHubCompliance
+  ? buildDispatchComplianceSchema({
+      pageUrl: canonicalUrl,
+      compliance: realtorsHubCompliance,
+      cityDisplay: `${stateName} statewide`,
+      brandName: "Realtors at the Beach",
+    })
+  : null;
 const breadcrumbSchema = {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
@@ -294,6 +314,9 @@ const topCitiesItemListSchema = {
     <link rel="canonical" href={canonicalUrl} />
     <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(topCitiesItemListSchema)} />
+    {hubComplianceSchema ? (
+      <script type="application/ld+json" set:html={JSON.stringify(hubComplianceSchema)} />
+    ) : null}
     <style>
       :root {
         --text: #0f172a;
@@ -434,9 +457,9 @@ const topCitiesItemListSchema = {
 
       <h1>{stateName} Service Hub</h1>
 
-      <p class="compliance">
-        <span class="check" aria-hidden="true">✓</span>
-        <span>State Licensing Status: Verified for {stateName}</span>
+      <p class="compliance routing-note">
+        Routing desk: service partners must meet applicable {stateName} trade licensing rules;
+        confirm licenses at the official state lookup in the audit table below.
       </p>
 
       <p class="overview">{overviewA}</p>
@@ -461,5 +484,17 @@ const topCitiesItemListSchema = {
         })}
       </section>
     </main>
+    {
+      realtorsHubCompliance ? (
+        <ComplianceMatrix
+          compliance={realtorsHubCompliance}
+          cityDisplay={`${stateName} statewide`}
+          stateCode={stateCodeUpper}
+          nicheLabel="Regional home services"
+          brandName="Realtors at the Beach"
+          sectionTitle="Buyer & Service Network Compliance Audit"
+        />
+      ) : null
+    }
   </body>
 </html>
