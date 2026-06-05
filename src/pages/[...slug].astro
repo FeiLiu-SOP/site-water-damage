@@ -98,8 +98,14 @@ import {
 } from "../domain-templates/realtorsatthebeach.com-entity";
 import ComplianceMatrix from "../components/ComplianceMatrix.astro";
 import LocalInfrastructureBrief from "../components/LocalInfrastructureBrief.astro";
+import FixitGridDispatchShellHeader from "../components/FixitGridDispatchShellHeader.astro";
+import FixitGridDispatchShellStyles from "../components/FixitGridDispatchShellStyles.astro";
 import { getDispatchCompliance } from "../lib/compliance-matrix";
 import { buildFixitGridFlClimateLead } from "../lib/fixitgrid-fl-climate";
+import {
+  FIXITGRID_DISPATCH_SHELL_FAQ_TITLE,
+  isFixitgridDispatchShell,
+} from "../lib/fixitgrid-dispatch-shell";
 import {
   buildFixitgridServiceReference,
   isFixitgridInfraBriefPanel,
@@ -1010,12 +1016,6 @@ const enableRealtorsAtTheBeachWaterDamageIsolation = matchesRealtorsAtTheBeachWa
   activeCollection: ACTIVE_COLLECTION,
 });
 
-const themeAccent = ACTIVE_COLLECTION === "plumbing-v2"
-  ? REALTORS_AT_THE_BEACH_PLUMBING_V2.theme.accent
-  : enableRealtorsAtTheBeachWaterDamageIsolation
-    ? REALTORS_AT_THE_BEACH_WATER_DAMAGE.theme.accent
-    : "#1d4ed8";
-
 const themeFontFamily = ACTIVE_COLLECTION === "plumbing-v2"
   ? REALTORS_AT_THE_BEACH_PLUMBING_V2.theme.fontFamily
   : enableRealtorsAtTheBeachWaterDamageIsolation
@@ -1070,6 +1070,22 @@ const infraBriefPanelActive = isFixitgridInfraBriefPanel({
   infraBriefPanel: post.data.infraBriefPanel,
 });
 
+const dispatchShellActive = isFixitgridDispatchShell({
+  isFixitGridSite,
+  infraBriefPanel: post.data.infraBriefPanel,
+  fixitgridDispatchShell: post.data.fixitgridDispatchShell,
+});
+
+const themeAccent = dispatchShellActive
+  ? "#38bdf8"
+  : ACTIVE_COLLECTION === "plumbing-v2"
+    ? REALTORS_AT_THE_BEACH_PLUMBING_V2.theme.accent
+    : enableRealtorsAtTheBeachWaterDamageIsolation
+      ? REALTORS_AT_THE_BEACH_WATER_DAMAGE.theme.accent
+      : "#1d4ed8";
+
+const faqTitleDisplay = dispatchShellActive ? FIXITGRID_DISPATCH_SHELL_FAQ_TITLE : faqTitle;
+
 const fixitGridClimateLead =
   infraBriefPanelActive && stateCodeFromSlug && pageCity
     ? buildFixitGridFlClimateLead({
@@ -1080,7 +1096,7 @@ const fixitGridClimateLead =
     : null;
 
 const fixitGridServiceReference =
-  infraBriefPanelActive && stateCodeFromSlug
+  (infraBriefPanelActive || dispatchShellActive) && stateCodeFromSlug
     ? buildFixitgridServiceReference({
         niche: ACTIVE_COLLECTION,
         city: pageCity ?? String(post.data.city ?? "").trim(),
@@ -1161,7 +1177,7 @@ const visibleBlocks = blocks.filter((k) => {
   if (k === "related") return showRelated;
   return true;
 });
-const blockOrder = infraBriefPanelActive
+const blockOrder = dispatchShellActive || infraBriefPanelActive
   ? (["content", "faq", "geo", "related"] as const).filter((k) =>
       visibleBlocks.includes(k),
     )
@@ -1189,12 +1205,14 @@ const blockOrder = infraBriefPanelActive
 
 <html
   lang="en"
+  class:list={[dispatchShellActive && "fixitgrid-dispatch-shell"]}
   style={`--theme-accent:${themeAccent};font-family:${themeFontFamily};`}
 >
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <SiteFavicon />
+    {dispatchShellActive ? <FixitGridDispatchShellStyles /> : null}
     <meta name="google-site-verification" content="e8639489520c639b" />
     <title>{pageTitle}</title>
     <meta name="description" content={pageMetaDescription} />
@@ -1644,6 +1662,19 @@ const blockOrder = infraBriefPanelActive
                 />
               ) : null}
             </>
+          ) : dispatchShellActive ? (
+            <>
+              <FixitGridDispatchShellHeader
+                city={pageCity}
+                stateCode={stateCodeFromSlug}
+                zip={(pageLocation?.zip ?? String(post.data.zipCode ?? "").trim()) || null}
+                nicheLabel={pageNicheLabel}
+                pageH1={pageH1Plain}
+                headerVariant={headerVariant}
+                serviceReference={fixitGridServiceReference}
+                dispatchCompliance={fixitGridDispatchCompliance}
+              />
+            </>
           ) : (
             <>
               {isFinancialPressureMode ? null : (
@@ -1719,7 +1750,7 @@ const blockOrder = infraBriefPanelActive
             </>
           )
         }
-        <div class={serviceInfoClass}>
+        <div class:list={[serviceInfoClass, dispatchShellActive && "fixitgrid-dispatch-intake"]}>
           <h2>{ctaVariant.title}</h2>
           <p>{serviceLine}</p>
           <p class="service-meta">{ctaVariant.meta}</p>
@@ -1761,7 +1792,11 @@ const blockOrder = infraBriefPanelActive
               return (
                 <div
                   id={articleBodyId}
-                  class:list={[articleBodyClass, infraBriefPanelActive && "infra-brief-demo-body"]}
+                  class:list={[
+                    articleBodyClass,
+                    dispatchShellActive && "fixitgrid-dispatch-body",
+                    infraBriefPanelActive && "infra-brief-demo-body",
+                  ]}
                 >
                   {sidingServiceLeadHtml ? <div set:html={sidingServiceLeadHtml} /> : null}
                   <Content />
@@ -1837,8 +1872,11 @@ const blockOrder = infraBriefPanelActive
             }
             if (k === "faq") {
               return showFaq ? (
-                <section class={faqClass} aria-labelledby={faqTitleId}>
-                  <h2 id={faqTitleId}>{faqTitle}</h2>
+                <section
+                  class:list={[faqClass, dispatchShellActive && "fixitgrid-dispatch-faq"]}
+                  aria-labelledby={faqTitleId}
+                >
+                  <h2 id={faqTitleId}>{faqTitleDisplay}</h2>
                   {pageFaqItemsFinal.map((item) => (
                     <details>
                       <summary>{item.question}</summary>
