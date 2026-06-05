@@ -97,7 +97,13 @@ import {
   matchesRealtorsEntity,
 } from "../domain-templates/realtorsatthebeach.com-entity";
 import ComplianceMatrix from "../components/ComplianceMatrix.astro";
+import LocalInfrastructureBrief from "../components/LocalInfrastructureBrief.astro";
 import { getDispatchCompliance } from "../lib/compliance-matrix";
+import { buildFixitGridFlClimateLead } from "../lib/fixitgrid-fl-climate";
+import {
+  buildFixitgridServiceReference,
+  isFixitgridInfraBriefPanel,
+} from "../lib/fixitgrid-infra-brief";
 import {
   entryPublicPathSegments,
   isFixitgridNearMeBuild,
@@ -148,7 +154,6 @@ const entry =
 if (!entry) {
   return new Response(null, { status: 404, statusText: "Not Found" });
 }
-const { Content } = await render(entry);
 const post = entry;
 const entrySlug = entrySlugParam || (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
 const pageUrl = isFixitgridNearMeBuild()
@@ -1060,6 +1065,32 @@ const realtorsDispatchCompliance =
 
 const dispatchComplianceForPage = fixitGridDispatchCompliance ?? realtorsDispatchCompliance;
 
+const infraBriefPanelActive = isFixitgridInfraBriefPanel({
+  isFixitGridSite,
+  infraBriefPanel: post.data.infraBriefPanel,
+});
+
+const fixitGridClimateLead =
+  infraBriefPanelActive && stateCodeFromSlug && pageCity
+    ? buildFixitGridFlClimateLead({
+        collection: ACTIVE_COLLECTION,
+        city: pageCity,
+        stateCode: stateCodeFromSlug,
+      })
+    : null;
+
+const fixitGridServiceReference =
+  infraBriefPanelActive && stateCodeFromSlug
+    ? buildFixitgridServiceReference({
+        niche: ACTIVE_COLLECTION,
+        city: pageCity ?? String(post.data.city ?? "").trim(),
+        stateCode: stateCodeFromSlug,
+        zip: String(post.data.zipCode ?? "").trim(),
+      })
+    : null;
+
+const { Content } = await render(entry);
+
 const localBusinessSchema = isFixitGridSite
   ? buildFixitGridEntityGraph({
       collection: ACTIVE_COLLECTION,
@@ -1130,7 +1161,11 @@ const visibleBlocks = blocks.filter((k) => {
   if (k === "related") return showRelated;
   return true;
 });
-const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
+const blockOrder = infraBriefPanelActive
+  ? (["content", "faq", "geo", "related"] as const).filter((k) =>
+      visibleBlocks.includes(k),
+    )
+  : ACTIVE_COLLECTION === "plumbing-v2"
   ? REALTORS_AT_THE_BEACH_PLUMBING_V2.blockOrder.filter((k) => visibleBlocks.includes(k))
   : enableRealtorsAtTheBeachWaterDamageIsolation
   ? REALTORS_AT_THE_BEACH_WATER_DAMAGE.blockOrder.filter((k) => visibleBlocks.includes(k))
@@ -1445,8 +1480,8 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
         overflow-wrap: anywhere;
         word-break: break-word;
       }
-      /* Engineering Notice: always first paragraph emitted by generator */
-      [id$="article-md-body"] p:first-child {
+      /* Engineering Notice highlight — suppressed when brief panel owns that data */
+      [id$="article-md-body"]:not(.infra-brief-demo-body) p:first-child {
         font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New",
           monospace;
         font-size: 0.92rem;
@@ -1724,13 +1759,38 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
           blockOrder.map((k) => {
             if (k === "content") {
               return (
-                <div id={articleBodyId} class={articleBodyClass}>
+                <div
+                  id={articleBodyId}
+                  class:list={[articleBodyClass, infraBriefPanelActive && "infra-brief-demo-body"]}
+                >
                   {sidingServiceLeadHtml ? <div set:html={sidingServiceLeadHtml} /> : null}
                   <Content />
                 </div>
               );
             }
             if (k === "geo") {
+              if (infraBriefPanelActive && fixitGridServiceReference) {
+                return (
+                  <LocalInfrastructureBrief
+                    cityDisplay={pageLocation?.city ?? pageCity ?? "Local"}
+                    stateCode={stateCodeFromSlug ?? "US"}
+                    nicheLabel={pageNicheLabel}
+                    county={geo.county}
+                    lat={geo.lat}
+                    lng={geo.lng}
+                    elevationFt={geo.elevationFt}
+                    zipCode={String(post.data.zipCode ?? pageLocation?.zip ?? "").trim() || undefined}
+                    zipSample={geo.zipSample}
+                    zipCodes={geo.zipCodes}
+                    localPaths={geo.localPaths}
+                    stateGeoFact={stateGeoFact}
+                    serviceReference={fixitGridServiceReference}
+                    dispatchCompliance={fixitGridDispatchCompliance}
+                    climateLine={fixitGridClimateLead}
+                    compact={true}
+                  />
+                );
+              }
               return showGeoSection ? (
                 <section class={geoBriefClass} aria-labelledby={geoBriefTitleId}>
                   <h2 id={geoBriefTitleId}>{geoTitle}</h2>

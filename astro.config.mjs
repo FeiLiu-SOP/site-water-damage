@@ -3,6 +3,7 @@ import { defineConfig } from "astro/config";
 import sitemap from "@astrojs/sitemap";
 import { loadEnv } from "vite";
 import { remarkStripRoutingMarkers } from "./src/remark-strip-routing-markers.mjs";
+import { remarkStripInfraBriefDuplicates } from "./src/remark-strip-infra-brief-duplicates.mjs";
 import { remarkStewardshipDetech } from "./src/remark-stewardship-detech.mjs";
 import { resolvePublicSiteUrl } from "./resolve-public-site-url.mjs";
 import {
@@ -78,6 +79,10 @@ export default defineConfig({
         ]),
   ],
   markdown: {
-    remarkPlugins: [remarkStripRoutingMarkers, remarkStewardshipDetech],
+    remarkPlugins: [
+      remarkStripRoutingMarkers,
+      remarkStripInfraBriefDuplicates,
+      remarkStewardshipDetech,
+    ],
   },
 });
