@@ -12,28 +12,49 @@ lng: -107.9200
 zipSample: ["87413"]
 zipCodes: ["87413"]
 localPaths: ["San Juan County / elevation 5505 ft band", "San Juan County / coords 36.7100, -107.9200", "San Juan County / ZIP 87413 sector", "San Juan County / primary ZIP 87413"]
-zillowHomeValueUsd: 252917
 ---
 
 **Engineering Notice for Angustura:** structural drying capacity optimized for 5505ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Juan County. Relative Humidity Threshold: 79%. Sensor sync: Active.
 
 
-When property drying cases are reviewed in Angustura, NM, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Angustura, NM.
+Odor control in Angustura, NM category-two losses may require hydroxyl cycles separate from dehumidification.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Tip: Photograph ceiling stains with a ruler reference before tarping near ZIP 87413.
 
-FAQ: Is every wet material removed immediately? Not always. In Angustura, NM, some assemblies are monitored through readings before invasive removal is approved.
+Dispatch packets for Angustura, NM reference county grid San Juan County and elevation band 5505 ft.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 87413.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 87413.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 87413.
+Tip: Log refrigerator line shutoffs before moving units in Angustura, NM kitchen losses.
 
-File control: temporary restoration receipt was paired with Liberty Mutual mitigation notes during intake review in Angustura.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Field note: Equipment day-counts were reviewed around ZIP 87413.
+Thermal imaging in Angustura, NM is scheduled after surface readings plateau for two cycles.
 
-Dispatch sectors sampled: ZIP 87413 (county grid: San Juan County).
+Book salvage review before pack-out crews mobilize. Grid anchor 87413.
+
+Step: stage dehumidifier capacity against cubic footage and class of water.
+
+Garage slab moisture in Angustura, NM can wick into adjacent finished rooms.
+
+Ask for claim-facing photo standards before work begins. File routing near 87413.
+
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
+
+Material note: Insulation R-value targets in Angustura, NM should match pre-loss assemblies when documented.
+
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
+
+FAQ: Why isolate rooms? Containment concentrates dehumidification and protects unaffected areas.
+
+Recovery map 702563: structural drying targets and rebuild handoff flags logged for Angustura, NM postal sector 87413.
+
+Category note 702563: water-class notation and antimicrobial staging captured for Angustura, NM intake packet.
+
+Drying packet: hardwood moisture strip paired with rebuild moisture clearance near ZIP 87413 before scope lock.
+
+On-site sector marker: San Juan County / elevation 5505 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-87413-5c1d60c4

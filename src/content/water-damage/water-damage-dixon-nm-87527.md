@@ -12,31 +12,45 @@ lng: -105.8800
 zipSample: ["87527"]
 zipCodes: ["87527"]
 localPaths: ["Rio Arriba County / ZIP 87527 sector", "Rio Arriba County / elevation 6191 ft band", "Rio Arriba County / coords 36.1900, -105.8800", "Rio Arriba County / primary ZIP 87527"]
-zillowHomeValueUsd: 320080
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Dixon:** structural drying capacity optimized for 6191ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rio Arriba County. Relative Humidity Threshold: 74%. Sensor sync: Active.
 
 
-Across Dixon, NM, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Step: document demolition justification with moisture meter readings.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the flood recovery file.
+Non-penetrating meter sweeps in Dixon, NM hallways often read dry while baseboards remain elevated.
 
-Flood Recovery coordination in Dixon, NM is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Plaster lathe ceilings in Dixon, NM pre-war homes hold moisture behind skim coats longer than drywall.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Dixon, NM are commonly checked when spread is suspected.
+FAQ: When is hardwood salvage realistic in Dixon, NM? Density, duration, and contamination class decide—not optimism.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 87527.
+Carpet pad saturation in Dixon, NM frequently forces disposal even when face fiber appears dry.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 87527.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Claim marker: loss diary entry was logged beside USAA property-loss packet near ZIP 87527.
+Elevator pit flooding in Dixon, NM commercial stacks needs pump-out before cab service resumes.
 
-Field note: Intake notes were reconciled with county grid Rio Arriba County.
+Ask for claim-facing photo standards before work begins. File routing near 87527.
 
-Field note: Drying decisions were sequenced for ZIP sector 87527.
+Step: map contents salvage lanes before pack-out crews arrive.
 
-Dispatch sectors sampled: ZIP 87527 (county grid: Rio Arriba County).
+Request a written flood recovery scope with equipment list and target readings. Primary postal sector: 87527.
+
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
+
+Risk flag: In Dixon, NM, delayed pack-out can swell cabinetry beyond salvage.
+
+IICRC reference: structural dry standards in Dixon, NM should be cited in scope documents.
+
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
+
+Loss trace 720958: extraction velocity notes and demolition threshold markers keyed to Dixon, NM elevation 6191 ft.
+
+Category note 720958: water-class notation and antimicrobial staging captured for Dixon, NM intake packet.
+
+Mitigation trace: structural dry standard, category-three PPE log, and containment zipper door cross-indexed for Dixon intake.
+
+On-site sector marker: Rio Arriba County / elevation 6191 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-87527-04d85cef

@@ -12,30 +12,45 @@ lng: -82.2100
 zipSample: ["28746"]
 zipCodes: ["28746"]
 localPaths: ["Rutherford County / coords 35.4400, -82.2100", "Rutherford County / elevation 1119 ft band", "Rutherford County / primary ZIP 28746", "Rutherford County / ZIP 28746 sector"]
-zillowHomeValueUsd: 443804
 ---
 
 **Engineering Notice for Lake Lure:** structural drying capacity optimized for 1119ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rutherford County. Relative Humidity Threshold: 73%. Sensor sync: Active.
 
 
-When property drying cases are reviewed in Lake Lure, NC, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Garage-to-house air barriers in Lake Lure, NC ranch plans affect drying chamber boundaries.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Lake Lure, NC.
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Technicians stage HEPA scrubbers before containment zip doors in Lake Lure, NC kitchen losses.
 
-FAQ: Is every wet material removed immediately? Not always. In Lake Lure, NC, some assemblies are monitored through readings before invasive removal is approved.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 28746.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 28746.
+Plaster lathe ceilings in Lake Lure, NC pre-war homes hold moisture behind skim coats longer than drywall.
 
-Coverage brief: contents-vs-structure split can change how scope authorization code is documented before scheduling.
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Lake Lure, NC.
+About us: We prioritize measurable drying evidence over headline speed claims.
 
-Field note: Equipment day-counts were reviewed around ZIP 28746.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Dispatch sectors sampled: ZIP 28746 (county grid: Rutherford County).
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
+
+Book salvage review before pack-out crews mobilize. Grid anchor 28746.
+
+Sump overflow in Lake Lure, NC can masquerade as foundation infiltration.
+
+Non-penetrating meter sweeps in Lake Lure, NC hallways often read dry while baseboards remain elevated.
+
+FAQ: When is hardwood salvage realistic in Lake Lure, NC? Density, duration, and contamination class decide—not optimism.
+
+Claim dossier 121819: pack-out ledger and humidity log bands filed for Lake Lure, NC county Rutherford County (ZIP 28746).
+
+Category note 121819: water-class notation and antimicrobial staging captured for Lake Lure, NC intake packet.
+
+Loss file: structural dry standard plus subfloor MC probe referenced in Rutherford County county review.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~1119 ft across the Rutherford County area. Coordinates: 35.4400, -82.2100. ZIP sample: 28746. Logistics priority: Serving residential sectors across Rutherford County and north-east ZIP 28746 grid.
 
 Service reference: NC-28746-be3c4c98

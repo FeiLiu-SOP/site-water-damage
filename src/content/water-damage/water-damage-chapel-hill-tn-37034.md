@@ -12,30 +12,49 @@ lng: -86.7000
 zipSample: ["37034"]
 zipCodes: ["37034"]
 localPaths: ["Marshall County / elevation 696 ft band", "Marshall County / primary ZIP 37034", "Marshall County / coords 35.6300, -86.7000", "Marshall County / ZIP 37034 sector"]
-zillowHomeValueUsd: 391667
 ---
 
 **Engineering Notice for Chapel Hill:** structural drying capacity optimized for 696ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marshall County. Relative Humidity Threshold: 65%. Sensor sync: Active.
 
 
-In Chapel Hill, TN, flood recovery requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Contents pack-out in Chapel Hill, TN should be photographed before movement off-site.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Chapel Hill, TN must be dried before reconstruction is discussed.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Our intake team frames flood recovery jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+About us: We prioritize measurable drying evidence over headline speed claims.
 
-FAQ: How fast should action start? In Chapel Hill, TN, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Step: verify power availability for drying equipment before overnight runs.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 37034.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Book a field review and request a written flood recovery scope before mitigation equipment is staged. Serving ZIP Code: 37034.
+FAQ: When is delay costly? In Chapel Hill, TN, extended damp periods expand demolition and mold-risk scope.
 
-File control: Liberty Mutual mitigation notes was paired with water category notation during intake review in Chapel Hill.
+Schedule extraction and drying as separate documented phases. File routing near 37034.
 
-Field note: Equipment day-counts were reviewed around ZIP 37034.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Field note: Drying decisions were sequenced for ZIP sector 37034.
+Crawlspace vapor barriers in Chapel Hill, TN may trap moisture if torn during extraction hose routing.
 
-Dispatch sectors sampled: ZIP 37034 (county grid: Marshall County).
+Sump overflow in Chapel Hill, TN can masquerade as foundation infiltration.
+
+Non-penetrating meter sweeps in Chapel Hill, TN hallways often read dry while baseboards remain elevated.
+
+Confirm power load assumptions before overnight equipment runs. County corridor Marshall County.
+
+Permit note: Rebuild phases in Chapel Hill, TN may need separate inspections from mitigation work.
+
+Carpet pad saturation in Chapel Hill, TN frequently forces disposal even when face fiber appears dry.
+
+FAQ: Which documents matter most? Incomplete photo logs and missing moisture maps commonly delay Chapel Hill, TN files.
+
+Thermal imaging in Chapel Hill, TN is scheduled after surface readings plateau for two cycles.
+
+Rebuild bridge 426798: cabinet toe-kick probes and subfloor MC readings logged at 35.6300, -86.7000.
+
+File audit 426798: adjuster photo-set crosswalk and contents segregation reviewed for Chapel Hill, TN at 35.6300/-86.7000.
+
+Loss file: desiccant rotor hour plus LGR condensate yield referenced in Marshall County county review.
+
+On-site sector marker: Marshall County / elevation 696 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37034-d47d41f3

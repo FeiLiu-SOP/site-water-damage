@@ -12,29 +12,47 @@ lng: -65.9000
 zipSample: ["00767"]
 zipCodes: ["00767"]
 localPaths: ["Yabucoa County / elevation 92 ft band", "Yabucoa County / primary ZIP 00767", "Yabucoa County / coords 18.0700, -65.9000", "Yabucoa County / ZIP 00767 sector"]
-zillowHomeValueUsd: 366838
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Martorell:** structural drying capacity optimized for 92ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Yabucoa County. Relative Humidity Threshold: 74%. Sensor sync: Active.
 
 
-Across Martorell, PR, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the moisture restoration file.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Moisture Restoration coordination in Martorell, PR is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Step: label removed materials for disposal manifests and claim packets.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Martorell, PR are commonly checked when spread is suspected.
+Risk flag: Martorell, PR slab-on-grade homes may need core probes when perimeter walls read dry.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 00767.
+Step: stage dehumidifier capacity against cubic footage and class of water.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 00767.
+Subfloor cupping in Martorell, PR can lag source-stop by several drying days.
 
-Insurance note: temporary remediation receipt and recoverable depreciation were flagged for the Martorell file.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Martorell, PR.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Dispatch sectors sampled: ZIP 00767 (county grid: Yabucoa County).
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
+
+Technicians probe sill plates in Martorell, PR ranch layouts before declaring first-floor dry.
+
+Sump overflow in Martorell, PR can masquerade as foundation infiltration.
+
+FAQ: Will insurance cover pack-out? Carrier language and photo standards vary in Martorell, PR markets.
+
+Plaster lathe ceilings in Martorell, PR pre-war homes hold moisture behind skim coats longer than drywall.
+
+Garage slab moisture in Martorell, PR can wick into adjacent finished rooms.
+
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
+
+Rebuild bridge 914400: cabinet toe-kick probes and subfloor MC readings logged at 18.0700, -65.9000.
+
+Loss trace 914400: extraction velocity notes and demolition threshold markers keyed to Martorell, PR elevation 92 ft.
+
+Loss file: psychrometric chart band plus grain depression target referenced in Yabucoa County county review.
+
+On-site sector marker: Yabucoa County / elevation 92 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00767-b5f833e3

@@ -12,28 +12,49 @@ lng: -75.8700
 zipSample: ["18702"]
 zipCodes: ["18702"]
 localPaths: ["Luzerne County / ZIP 18702 sector", "Luzerne County / primary ZIP 18702", "Luzerne County / coords 41.2300, -75.8700", "Luzerne County / elevation 692 ft band"]
-zillowHomeValueUsd: 168333
 ---
 
 **Engineering Notice for Georgetown:** structural drying capacity optimized for 692ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Luzerne County. Relative Humidity Threshold: 72%. Sensor sync: Active.
 
 
-In Georgetown, PA, moisture restoration requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+FAQ: Will insurance cover pack-out? Carrier language and photo standards vary in Georgetown, PA markets.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Georgetown, PA must be dried before reconstruction is discussed.
+Technicians probe sill plates in Georgetown, PA ranch layouts before declaring first-floor dry.
 
-Our intake team frames moisture restoration jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Tip: Log refrigerator line shutoffs before moving units in Georgetown, PA kitchen losses.
 
-FAQ: How fast should action start? In Georgetown, PA, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 18702.
+Category-two losses in Georgetown, PA require antimicrobial staging decisions before rebuild quotes.
 
-Book a field review and request a written moisture restoration scope before mitigation equipment is staged. Serving ZIP Code: 18702.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Insurance note: depreciation worksheet and Farmers routing language were flagged for the Georgetown file.
+Step: label removed materials for disposal manifests and claim packets.
 
-Field note: Drying decisions were sequenced for ZIP sector 18702.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Dispatch sectors sampled: ZIP 18702 (county grid: Luzerne County).
+Radiant floor loops in Georgetown, PA slab homes need isolated zones before jack-hammer exploration.
+
+In Georgetown, PA, moisture restoration calls often start with moisture mapping before demolition is discussed.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+Elevated crawlspaces in Georgetown, PA require vapor-retarder service before dehumidifier sizing.
+
+Book a moisture-map review before demolition approvals. Primary postal sector: 18702.
+
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
+
+Claim dossier 309826: pack-out ledger and humidity log bands filed for Georgetown, PA county Luzerne County (ZIP 18702).
+
+Equipment roster 309826: dehumidifier hour-meter and air-mover placement queued before Georgetown, PA scope sign-off.
+
+Loss file: air mover amp draw plus flood cut elevation mark referenced in Luzerne County county review.
+
+Coordinate-anchored dispatch note: center reference 41.2300, -75.8700 at elevation ~692 ft aligns with Luzerne County intake staging.
 
 Service reference: PA-18702-56e8f2ca

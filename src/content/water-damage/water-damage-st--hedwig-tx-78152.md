@@ -12,30 +12,47 @@ lng: -98.2000
 zipSample: ["78101", "78152"]
 zipCodes: ["78152", "78101"]
 localPaths: ["Bexar County / ZIP 78152 sector", "Bexar County / coords 29.4200, -98.2000", "Bexar County / primary ZIP 78152", "Bexar County / ZIP 78101 sector", "Bexar County / elevation 610 ft band"]
-zillowHomeValueUsd: 272835
 ---
 
 **Engineering Notice for St. Hedwig:** structural drying capacity optimized for 610ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bexar County. Relative Humidity Threshold: 77%. Sensor sync: Active.
 
 
-Property owners in St. Hedwig, TX may see a flood recovery event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Non-penetrating meter sweeps in St. Hedwig, TX hallways often read dry while baseboards remain elevated.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for St. Hedwig, TX.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Elevator pit flooding in St. Hedwig, TX commercial stacks needs pump-out before cab service resumes.
 
-FAQ: What slows recovery most? In St. Hedwig, TX, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Tip: Record when the water source was stopped and power restored in St. Hedwig, TX.
 
-Tip: Save professional notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 78101/78152.
+Townhome party walls in St. Hedwig, TX can transfer vapor across unit lines during shared losses.
 
-Ask for a room-by-room flood recovery outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 78152.
+Tip: Photograph ceiling stains with a ruler reference before tarping near ZIP 78152.
 
-Insurance note: water category notation and loss diary entry were flagged for the St. Hedwig file.
+Request a written flood recovery scope with equipment list and target readings. Primary postal sector: 78152.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in St. Hedwig, TX.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 78152.
 
-Field note: Drying decisions were sequenced for ZIP sector 78101/78152.
+Step: verify power availability for drying equipment before overnight runs.
 
-Dispatch sectors sampled: ZIP 78101, 78152 (county grid: Bexar County).
+Across St. Hedwig, TX, standing water duration drives salvage-versus-remove decisions within hours.
+
+Regulatory note: St. Hedwig, TX projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+IICRC reference: structural dry standards in St. Hedwig, TX should be cited in scope documents.
+
+Technicians probe sill plates in St. Hedwig, TX ranch layouts before declaring first-floor dry.
+
+Step: isolate affected rooms with poly barriers before air-mover placement in St. Hedwig, TX.
+
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
+
+Equipment roster 473208: dehumidifier hour-meter and air-mover placement queued before St. Hedwig, TX scope sign-off.
+
+Category note 473208: water-class notation and antimicrobial staging captured for St. Hedwig, TX intake packet.
+
+Mitigation trace: grain depression target, rebuild moisture clearance, and pinless scan grid cross-indexed for St. Hedwig intake.
+
+On-site sector marker: Bexar County / primary ZIP 78152 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78152-f023429e

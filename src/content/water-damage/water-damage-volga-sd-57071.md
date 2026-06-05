@@ -12,30 +12,45 @@ lng: -96.9200
 zipSample: ["57071"]
 zipCodes: ["57071"]
 localPaths: ["Brookings County / ZIP 57071 sector", "Brookings County / coords 44.3200, -96.9200", "Brookings County / primary ZIP 57071", "Brookings County / elevation 1627 ft band"]
-zillowHomeValueUsd: 331013
 ---
 
 **Engineering Notice for Volga:** structural drying capacity optimized for 1627ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Brookings County. Relative Humidity Threshold: 78%. Sensor sync: Active.
 
 
-A structural drying event in Volga, SD is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Step: reconcile carrier photo requirements before tear-out in Volga, SD.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Volga, SD.
+Step: log humidity and temperature readings at 24-hour intervals.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Volga, SD.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 57071.
+Garage slab moisture in Volga, SD can wick into adjacent finished rooms.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 57071.
+Built-in bookcase cavities in Volga, SD trap humidity behind fixed shelving.
 
-File control: carrier supplement language was paired with reserve change notes during intake review in Volga.
+Elevated crawlspaces in Volga, SD require vapor-retarder remediation before dehumidifier sizing.
 
-Field note: Drying decisions were sequenced for ZIP sector 57071.
+Plaster lathe ceilings in Volga, SD pre-war homes hold moisture behind skim coats longer than drywall.
 
-Field note: Equipment day-counts were reviewed around ZIP 57071.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Dispatch sectors sampled: ZIP 57071 (county grid: Brookings County).
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
+
+Odor control in Volga, SD category-two losses may require hydroxyl cycles separate from dehumidification.
+
+Tip: Log refrigerator line shutoffs before moving units in Volga, SD kitchen losses.
+
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Containment dossier 781525: poly barrier seams and HEPA scrubber hours keyed to Volga, SD grid Brookings County.
+
+Loss trace 781525: extraction velocity notes and demolition threshold markers keyed to Volga, SD elevation 1627 ft.
+
+Mitigation trace: wall cavity vent hole, LGR condensate yield, and structural dry standard cross-indexed for Volga intake.
+
+On-site sector marker: Brookings County / ZIP 57071 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SD-57071-fada7ea1

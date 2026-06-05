@@ -12,28 +12,49 @@ lng: -122.7700
 zipSample: ["98349"]
 zipCodes: ["98349"]
 localPaths: ["Pierce County / elevation 233 ft band", "Pierce County / primary ZIP 98349", "Pierce County / ZIP 98349 sector", "Pierce County / coords 47.2800, -122.7700"]
-zillowHomeValueUsd: 530809
 ---
 
 **Engineering Notice for Home:** structural drying capacity optimized for 233ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pierce County. Relative Humidity Threshold: 66%. Sensor sync: Active.
 
 
-When moisture restoration cases are reviewed in Home, WA, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Step: map contents salvage lanes before pack-out crews arrive.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Home, WA.
+FAQ: When is delay costly? In Home, WA, extended damp periods expand demolition and mold-risk scope.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Basement seepage in Home, WA may track foundation cracks rather than appliance failures.
 
-FAQ: Is every wet material removed immediately? Not always. In Home, WA, some assemblies are monitored through readings before invasive removal is approved.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 98349.
+Material note: Insulation R-value targets in Home, WA should match pre-loss assemblies when documented.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 98349.
+Step: stage dehumidifier capacity against cubic footage and class of water.
 
-Insurance note: reserve change notes and Farmers routing language were flagged for the Home file.
+Crawlspace vapor barriers in Home, WA may trap moisture if torn during extraction hose routing.
 
-Field note: Moisture logs were aligned with salvage routing in Home, WA.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Dispatch sectors sampled: ZIP 98349 (county grid: Pierce County).
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
+
+Tip: Photograph ceiling stains with a ruler reference before tarping near ZIP 98349.
+
+Risk flag: Home, WA slab-on-grade homes may need core probes when perimeter walls read dry.
+
+Stairwell chase moisture in Home, WA tri-level homes can lag main-floor readings by days.
+
+Dispatch packets for Home, WA reference county grid Pierce County and elevation band 233 ft.
+
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
+
+Step: label removed materials for disposal manifests and claim packets.
+
+Mitigation ledger 754007: moisture map grid, salvage lane tags, and drying day-count staged for Home, WA at 47.2800, -122.7700.
+
+Category note 754007: water-class notation and antimicrobial staging captured for Home, WA intake packet.
+
+Mitigation trace: demolition salvage tag, LGR condensate yield, and negative air machine manometer cross-indexed for Home intake.
+
+Contents ledger: inventory lanes labeled for sector 98349.
+
+On-site sector marker: Pierce County / ZIP 98349 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98349-6b988e28

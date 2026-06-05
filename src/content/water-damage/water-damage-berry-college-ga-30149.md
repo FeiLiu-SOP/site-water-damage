@@ -12,31 +12,49 @@ lng: -85.1900
 zipSample: ["30149"]
 zipCodes: ["30149"]
 localPaths: ["Floyd County / elevation 610 ft band", "Floyd County / primary ZIP 30149", "Floyd County / ZIP 30149 sector", "Floyd County / coords 34.2900, -85.1900"]
-zillowHomeValueUsd: 289273
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Berry College:** structural drying capacity optimized for 610ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Floyd County. Relative Humidity Threshold: 85%. Sensor sync: Active.
 
 
-In Berry College, GA, disaster cleanup requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Berry College, GA must be dried before reconstruction is discussed.
+Risk flag: In Berry College, GA, delayed pack-out can swell cabinetry beyond salvage.
 
-Our intake team frames disaster cleanup jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
 
-FAQ: How fast should action start? In Berry College, GA, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 30149.
+Book a moisture-map review before demolition approvals. Primary postal sector: 30149.
 
-Book a field review and request a written disaster cleanup scope before mitigation equipment is staged. Serving ZIP Code: 30149.
+Step: log humidity and temperature readings at 24-hour intervals.
 
-File control: mitigation invoice sequencing was paired with scope authorization code during intake review in Berry College.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Berry College, GA.
+Odor control in Berry College, GA category-two losses may require hydroxyl cycles separate from dehumidification.
 
-Field note: Moisture logs were aligned with salvage routing in Berry College, GA.
+Built-in bookcase cavities in Berry College, GA trap humidity behind fixed shelving.
 
-Dispatch sectors sampled: ZIP 30149 (county grid: Floyd County).
+Radiant floor loops in Berry College, GA slab homes need isolated zones before jack-hammer exploration.
+
+Non-penetrating meter sweeps in Berry College, GA hallways often read dry while baseboards remain elevated.
+
+Garage slab moisture in Berry College, GA can wick into adjacent finished rooms.
+
+Step: label removed materials for disposal manifests and claim packets.
+
+Tip: Log refrigerator line shutoffs before moving units in Berry College, GA kitchen losses.
+
+Ask for claim-facing photo standards before work begins. File routing near 30149.
+
+Risk flag: Berry College, GA slab-on-grade homes may need core probes when perimeter walls read dry.
+
+Category note 407910: water-class notation and antimicrobial staging captured for Berry College, GA intake packet.
+
+Recovery map 407910: structural drying targets and rebuild handoff flags logged for Berry College, GA postal sector 30149.
+
+Loss file: pack-out chain-of-custody plus wall cavity vent hole referenced in Floyd County county review.
+
+On-site sector marker: Floyd County / primary ZIP 30149 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30149-d0584859

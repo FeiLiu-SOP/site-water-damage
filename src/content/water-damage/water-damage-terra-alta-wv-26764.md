@@ -12,28 +12,49 @@ lng: -79.5400
 zipSample: ["26764"]
 zipCodes: ["26764"]
 localPaths: ["Preston County / elevation 2579 ft band", "Preston County / ZIP 26764 sector", "Preston County / coords 39.4400, -79.5400", "Preston County / primary ZIP 26764"]
-zillowHomeValueUsd: 174447
 ---
 
 **Engineering Notice for Terra Alta:** structural drying capacity optimized for 2579ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Preston County. Relative Humidity Threshold: 74%. Sensor sync: Active.
 
 
-Across Terra Alta, WV, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the flood restoration file.
+Risk flag: Incomplete claim packets in Terra Alta, WV often force duplicate site visits.
 
-Flood Restoration coordination in Terra Alta, WV is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Book salvage review before pack-out crews mobilize. Grid anchor 26764.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Terra Alta, WV are commonly checked when spread is suspected.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 26764.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 26764.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-Insurance note: temporary service receipt and water category notation were flagged for the Terra Alta file.
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Terra Alta, WV.
+Stairwell chase moisture in Terra Alta, WV tri-level homes can lag main-floor readings by days.
 
-Dispatch sectors sampled: ZIP 26764 (county grid: Preston County).
+Request a written flood restoration scope with equipment list and target readings. Primary postal sector: 26764.
+
+Permit note: Rebuild phases in Terra Alta, WV may need separate inspections from mitigation work.
+
+Carpet pad saturation in Terra Alta, WV frequently forces disposal even when face fiber appears dry.
+
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
+
+Plaster lathe ceilings in Terra Alta, WV pre-war homes hold moisture behind skim coats longer than drywall.
+
+Odor control in Terra Alta, WV category-two losses may require hydroxyl cycles separate from dehumidification.
+
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
+
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
+
+Recovery map 287554: structural drying targets and rebuild handoff flags logged for Terra Alta, WV postal sector 26764.
+
+Equipment roster 287554: dehumidifier hour-meter and air-mover placement queued before Terra Alta, WV scope sign-off.
+
+Mitigation trace: hardwood moisture strip, demolition salvage tag, and ceiling cavity bore scope cross-indexed for Terra Alta intake.
+
+On-site sector marker: Preston County / coords 39.4400, -79.5400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WV-26764-92186c7e

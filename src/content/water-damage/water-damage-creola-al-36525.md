@@ -12,30 +12,45 @@ lng: -88.0100
 zipSample: ["36525"]
 zipCodes: ["36525"]
 localPaths: ["Mobile County / coords 30.8900, -88.0100", "Mobile County / primary ZIP 36525", "Mobile County / ZIP 36525 sector", "Mobile County / elevation 30 ft band"]
-zillowHomeValueUsd: 213556
 ---
 
 **Engineering Notice for Creola:** structural drying capacity optimized for 30ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mobile County. Relative Humidity Threshold: 78%. Sensor sync: Active.
 
 
-Property owners in Creola, AL may see a property drying event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Step: reconcile carrier photo requirements before tear-out in Creola, AL.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Creola, AL.
+Basement seepage in Creola, AL may track foundation cracks rather than appliance failures.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-FAQ: What slows recovery most? In Creola, AL, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Step: document demolition justification with moisture meter readings.
 
-Tip: Save local team notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 36525.
+Risk flag: Creola, AL slab-on-grade homes may need core probes when perimeter walls read dry.
 
-Ask for a room-by-room property drying outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 36525.
+Built-in bookcase cavities in Creola, AL trap humidity behind fixed shelving.
 
-Claim marker: loss diary entry was logged beside reserve change notes near ZIP 36525.
+Schedule extraction and drying as separate documented phases. File routing near 36525.
 
-Field note: Drying decisions were sequenced for ZIP sector 36525.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Creola, AL.
+Step: photograph standing water and material edges before extraction.
 
-Dispatch sectors sampled: ZIP 36525 (county grid: Mobile County).
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
+
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+Desiccant dehumidifier sizing in Creola, AL commercial zones differs from LGR residential defaults.
+
+IICRC reference: structural dry standards in Creola, AL should be cited in scope documents.
+
+Carrier sync 251151: depreciation worksheet lane and supplement language staged for ZIP 36525.
+
+Loss trace 251151: extraction velocity notes and demolition threshold markers keyed to Creola, AL elevation 30 ft.
+
+Mitigation trace: equilibrium moisture content, ceiling cavity bore scope, and pinless scan grid cross-indexed for Creola intake.
+
+On-site sector marker: Mobile County / primary ZIP 36525 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36525-331c3d79

@@ -12,28 +12,47 @@ lng: -70.0600
 zipSample: ["02646", "02645"]
 zipCodes: ["02645", "02646"]
 localPaths: ["Barnstable County / ZIP 02646 sector", "Barnstable County / primary ZIP 02645", "Barnstable County / coords 41.6700, -70.0600", "Barnstable County / ZIP 02645 sector", "Barnstable County / elevation 20 ft band"]
-zillowHomeValueUsd: 751589
 ---
 
 **Engineering Notice for Harwich Port:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Barnstable County. Relative Humidity Threshold: 73%. Sensor sync: Active.
 
 
-In Harwich Port, MA, disaster cleanup requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Harwich Port, MA must be dried before reconstruction is discussed.
+Garage-to-house air barriers in Harwich Port, MA ranch plans affect drying chamber boundaries.
 
-Our intake team frames disaster cleanup jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Desiccant dehumidifier sizing in Harwich Port, MA commercial zones differs from LGR residential defaults.
 
-FAQ: How fast should action start? In Harwich Port, MA, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 02645/02646.
+Carpet pad saturation in Harwich Port, MA frequently forces disposal even when face fiber appears dry.
 
-Book a field review and request a written disaster cleanup scope before mitigation equipment is staged. Serving ZIP Code: 02645.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 02645.
 
-File control: contents-vs-structure split was paired with recoverable depreciation during intake review in Harwich Port.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Field note: Intake notes were reconciled with county grid Barnstable County.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Dispatch sectors sampled: ZIP 02645, 02646 (county grid: Barnstable County).
+Elevator pit flooding in Harwich Port, MA commercial stacks needs pump-out before cab service resumes.
+
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
+
+Townhome party walls in Harwich Port, MA can transfer vapor across unit lines during shared losses.
+
+Ceiling collapse risk in Harwich Port, MA multi-family units rises when saturated insulation loads truss chords.
+
+Permit note: Rebuild phases in Harwich Port, MA may need separate inspections from mitigation work.
+
+Tip: Record when the water source was stopped and power restored in Harwich Port, MA.
+
+FAQ: When is hardwood salvage realistic in Harwich Port, MA? Density, duration, and contamination class decide—not optimism.
+
+Loss trace 877366: extraction velocity notes and demolition threshold markers keyed to Harwich Port, MA elevation 20 ft.
+
+Containment dossier 877366: poly barrier seams and HEPA scrubber hours keyed to Harwich Port, MA grid Barnstable County.
+
+Loss file: containment zipper door plus HEPA scrubber CFM log referenced in Barnstable County county review.
+
+On-site sector marker: Barnstable County / ZIP 02646 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-02645-346da3b2

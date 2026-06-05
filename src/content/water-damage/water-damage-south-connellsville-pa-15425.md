@@ -12,30 +12,49 @@ lng: -79.5800
 zipSample: ["15425"]
 zipCodes: ["15425"]
 localPaths: ["Fayette County / ZIP 15425 sector", "Fayette County / primary ZIP 15425", "Fayette County / elevation 1293 ft band", "Fayette County / coords 39.9900, -79.5800"]
-zillowHomeValueUsd: 145788
 ---
 
 **Engineering Notice for South Connellsville:** structural drying capacity optimized for 1293ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fayette County. Relative Humidity Threshold: 68%. Sensor sync: Active.
 
 
-Across South Connellsville, PA, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Step: document demolition justification with moisture meter readings.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the flood recovery file.
+Permit note: Rebuild phases in South Connellsville, PA may need separate inspections from mitigation work.
 
-Flood Recovery coordination in South Connellsville, PA is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in South Connellsville, PA are commonly checked when spread is suspected.
+Risk flag: Incomplete claim packets in South Connellsville, PA often force duplicate site visits.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 15425.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 15425.
+Radiant floor loops in South Connellsville, PA slab homes need isolated zones before jack-hammer exploration.
 
-Insurance note: Claim filing codes and USAA property-loss packet were flagged for the South Connellsville file.
+Ceiling collapse risk in South Connellsville, PA multi-family units rises when saturated insulation loads truss chords.
 
-Field note: Intake notes were reconciled with county grid Fayette County.
+IICRC reference: structural dry standards in South Connellsville, PA should be cited in scope documents.
 
-Field note: Drying decisions were sequenced for ZIP sector 15425.
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
 
-Dispatch sectors sampled: ZIP 15425 (county grid: Fayette County).
+Risk flag: In South Connellsville, PA, delayed pack-out can swell cabinetry beyond salvage.
+
+Multi-story South Connellsville, PA losses need vertical moisture migration checks on lower levels.
+
+Material note: Insulation R-value targets in South Connellsville, PA should match pre-loss assemblies when documented.
+
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+Ask for claim-facing photo standards before work begins. File routing near 15425.
+
+Dispatch packets for South Connellsville, PA reference county grid Fayette County and elevation band 1293 ft.
+
+Equipment roster 181985: dehumidifier hour-meter and air-mover placement queued before South Connellsville, PA scope sign-off.
+
+Category note 181985: water-class notation and antimicrobial staging captured for South Connellsville, PA intake packet.
+
+Loss file: hardwood moisture strip plus vapor pressure differential referenced in Fayette County county review.
+
+Airflow map: mover placement sketch updated for ZIP 15425.
+
+On-site sector marker: Fayette County / primary ZIP 15425 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-15425-24ea79e7

@@ -12,30 +12,49 @@ lng: -90.0600
 zipSample: ["62087", "62025"]
 zipCodes: ["62025", "62087"]
 localPaths: ["Madison County / ZIP 62087 sector", "Madison County / coords 38.8100, -90.0600", "Madison County / primary ZIP 62087", "Madison County / ZIP 62025 sector", "Madison County / elevation 420 ft band"]
-zillowHomeValueUsd: 96563
 ---
 
 **Engineering Notice for South Roxana:** structural drying capacity optimized for 420ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Madison County. Relative Humidity Threshold: 82%. Sensor sync: Active.
 
 
-In South Roxana, IL, water mitigation requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Attic staining in South Roxana, IL may follow HVAC condensate rather than roof breaches.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in South Roxana, IL must be dried before reconstruction is discussed.
+Non-penetrating meter sweeps in South Roxana, IL hallways often read dry while baseboards remain elevated.
 
-Our intake team frames water mitigation jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Confirm power load assumptions before overnight equipment runs. County corridor Madison County.
 
-FAQ: How fast should action start? In South Roxana, IL, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 62025/62087.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-Book a field review and request a written water mitigation scope before mitigation equipment is staged. Serving ZIP Code: 62087.
+Plaster lathe ceilings in South Roxana, IL pre-war homes hold moisture behind skim coats longer than drywall.
 
-Coverage brief: adjuster photo-log can change how temporary remediation receipt is documented before scheduling.
+Material note: Insulation R-value targets in South Roxana, IL should match pre-loss assemblies when documented.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in South Roxana, IL.
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
 
-Field note: Intake notes were reconciled with county grid Madison County.
+Our water mitigation intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
 
-Dispatch sectors sampled: ZIP 62025, 62087 (county grid: Madison County).
+Stairwell chase moisture in South Roxana, IL tri-level homes can lag main-floor readings by days.
+
+Radiant floor loops in South Roxana, IL slab homes need isolated zones before jack-hammer exploration.
+
+Risk flag: In South Roxana, IL, delayed pack-out can swell cabinetry beyond salvage.
+
+Tip: Date-stamp moisture maps when adjusters request progress updates near 62087.
+
+IICRC reference: structural dry standards in South Roxana, IL should be cited in scope documents.
+
+Step: separate emergency extraction from structural drying line items.
+
+Garage-to-house air barriers in South Roxana, IL ranch plans affect drying chamber boundaries.
+
+Rebuild bridge 857009: cabinet toe-kick probes and subfloor MC readings logged at 38.8100, -90.0600.
+
+File audit 857009: adjuster photo-set crosswalk and contents segregation reviewed for South Roxana, IL at 38.8100/-90.0600.
+
+Loss file: pinless scan grid plus hardwood moisture strip referenced in Madison County county review.
+
+On-site sector marker: Madison County / ZIP 62025 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62087-17be9a5f

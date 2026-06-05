@@ -12,28 +12,47 @@ lng: -90.2900
 zipSample: ["63133"]
 zipCodes: ["63133"]
 localPaths: ["St. Louis County / primary ZIP 63133", "St. Louis County / coords 38.6700, -90.2900", "St. Louis County / ZIP 63133 sector", "St. Louis County / elevation 551 ft band"]
-zillowHomeValueUsd: 78583
 ---
 
 **Engineering Notice for Wellston:** structural drying capacity optimized for 551ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Louis County. Relative Humidity Threshold: 66%. Sensor sync: Active.
 
 
-Property owners in Wellston, MO may see a structural drying event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Step: document demolition justification with moisture meter readings.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Wellston, MO.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Material note: Insulation R-value targets in Wellston, MO should match pre-loss assemblies when documented.
 
-FAQ: What slows recovery most? In Wellston, MO, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Step: reconcile carrier photo requirements before tear-out in Wellston, MO.
 
-Tip: Save local team notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 63133.
+Step: separate emergency extraction from structural drying line items.
 
-Ask for a room-by-room structural drying outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 63133.
+Step: label removed materials for disposal manifests and claim packets.
 
-Insurance note: pack-out ledger and coverage threshold marker were flagged for the Wellston file.
+Regulatory note: Wellston, MO projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
 
-Field note: Moisture logs were aligned with salvage routing in Wellston, MO.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-Dispatch sectors sampled: ZIP 63133 (county grid: St. Louis County).
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
+
+FAQ: Will insurance cover pack-out? Carrier language and photo standards vary in Wellston, MO markets.
+
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+Townhome party walls in Wellston, MO can transfer vapor across unit lines during shared losses.
+
+Subfloor cupping in Wellston, MO can lag source-stop by several drying days.
+
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
+
+Technicians probe sill plates in Wellston, MO ranch layouts before declaring first-floor dry.
+
+Containment dossier 638082: poly barrier seams and HEPA scrubber hours keyed to Wellston, MO grid St. Louis County.
+
+Mitigation ledger 638082: moisture map grid, salvage lane tags, and drying day-count staged for Wellston, MO at 38.6700, -90.2900.
+
+Loss file: containment zipper door plus HEPA scrubber CFM log referenced in St. Louis County county review.
+
+Primary postal anchor 63133 with multi-ZIP overlap in Wellston; field packets tag St. Louis County for county-grid reconciliation.
 
 Service reference: MO-63133-fa630324

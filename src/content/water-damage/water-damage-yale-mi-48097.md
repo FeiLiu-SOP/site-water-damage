@@ -12,30 +12,49 @@ lng: -82.8000
 zipSample: ["48097"]
 zipCodes: ["48097"]
 localPaths: ["St. Clair County / ZIP 48097 sector", "St. Clair County / elevation 794 ft band", "St. Clair County / coords 43.1300, -82.8000", "St. Clair County / primary ZIP 48097"]
-zillowHomeValueUsd: 247575
 ---
 
 **Engineering Notice for Yale:** structural drying capacity optimized for 794ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Clair County. Relative Humidity Threshold: 74%. Sensor sync: Active.
 
 
-When disaster cleanup cases are reviewed in Yale, MI, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Request a written disaster cleanup scope with equipment list and target readings. Primary postal sector: 48097.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Yale, MI.
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-FAQ: Is every wet material removed immediately? Not always. In Yale, MI, some assemblies are monitored through readings before invasive removal is approved.
+Step: photograph standing water and material edges before extraction.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 48097.
+Basement seepage in Yale, MI may track foundation cracks rather than appliance failures.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 48097.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-Coverage brief: USAA property-loss packet can change how adjuster photo-log is documented before scheduling.
+Garage slab moisture in Yale, MI can wick into adjacent finished rooms.
 
-Field note: Moisture logs were aligned with salvage routing in Yale, MI.
+Step: reconcile carrier photo requirements before tear-out in Yale, MI.
 
-Field note: Drying decisions were sequenced for ZIP sector 48097.
+Thermal imaging in Yale, MI is scheduled after surface readings plateau for two cycles.
 
-Dispatch sectors sampled: ZIP 48097 (county grid: St. Clair County).
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
+
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+Elevated crawlspaces in Yale, MI require vapor-retarder service before dehumidifier sizing.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Crawlspace vapor barriers in Yale, MI may trap moisture if torn during extraction hose routing.
+
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+Recovery map 704573: structural drying targets and rebuild handoff flags logged for Yale, MI postal sector 48097.
+
+Mitigation ledger 704573: moisture map grid, salvage lane tags, and drying day-count staged for Yale, MI at 43.1300, -82.8000.
+
+Loss file: category-three PPE log plus pack-out chain-of-custody referenced in St. Clair County county review.
+
+Contents ledger: inventory lanes labeled for sector 48097.
+
+Coordinate-anchored dispatch note: center reference 43.1300, -82.8000 at elevation ~794 ft aligns with St. Clair County intake staging.
 
 Service reference: MI-48097-73ef204e

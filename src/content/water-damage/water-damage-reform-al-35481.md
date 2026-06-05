@@ -12,28 +12,49 @@ lng: -88.0200
 zipSample: ["35481"]
 zipCodes: ["35481"]
 localPaths: ["Pickens County / primary ZIP 35481", "Pickens County / coords 33.3800, -88.0200", "Pickens County / elevation 243 ft band", "Pickens County / ZIP 35481 sector"]
-zillowHomeValueUsd: 130960
 ---
 
 **Engineering Notice for Reform:** structural drying capacity optimized for 243ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pickens County. Relative Humidity Threshold: 74%. Sensor sync: Active.
 
 
-Across Reform, AL, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Crawlspace vapor barriers in Reform, AL may trap moisture if torn during extraction hose routing.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the flood restoration file.
+Basement seepage in Reform, AL may track foundation cracks rather than appliance failures.
 
-Flood Restoration coordination in Reform, AL is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Technicians stage HEPA scrubbers before containment zip doors in Reform, AL kitchen losses.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Reform, AL are commonly checked when spread is suspected.
+Risk flag: In Reform, AL, delayed pack-out can swell cabinetry beyond salvage.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 35481.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 35481.
+Technicians probe sill plates in Reform, AL ranch layouts before declaring first-floor dry.
 
-Insurance note: Allstate loss review and pack-out ledger were flagged for the Reform file.
+Attic staining in Reform, AL may follow HVAC condensate rather than roof breaches.
 
-Field note: Equipment day-counts were reviewed around ZIP 35481.
+Elevated crawlspaces in Reform, AL require vapor-retarder remediation before dehumidifier sizing.
 
-Dispatch sectors sampled: ZIP 35481 (county grid: Pickens County).
+Built-in bookcase cavities in Reform, AL trap humidity behind fixed shelving.
+
+Plaster lathe ceilings in Reform, AL pre-war homes hold moisture behind skim coats longer than drywall.
+
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
+
+Our flood restoration intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
+
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
+
+Step: log humidity and temperature readings at 24-hour intervals.
+
+Garage-to-house air barriers in Reform, AL ranch plans affect drying chamber boundaries.
+
+Carrier sync 591019: depreciation worksheet lane and supplement language staged for ZIP 35481.
+
+Loss trace 591019: extraction velocity notes and demolition threshold markers keyed to Reform, AL elevation 243 ft.
+
+Mitigation trace: equilibrium moisture content, vapor pressure differential, and air mover amp draw cross-indexed for Reform intake.
+
+Moisture trace: 24-hour hygrometer bands logged for ZIP sector 35481.
+
+Coordinate-anchored dispatch note: center reference 33.3800, -88.0200 at elevation ~243 ft aligns with Pickens County intake staging.
 
 Service reference: AL-35481-9eef5e60

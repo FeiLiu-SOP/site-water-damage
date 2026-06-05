@@ -12,29 +12,47 @@ lng: -121.4000
 zipSample: ["95652"]
 zipCodes: ["95652"]
 localPaths: ["Sacramento County / ZIP 95652 sector", "Sacramento County / primary ZIP 95652", "Sacramento County / elevation 62 ft band", "Sacramento County / coords 38.6600, -121.4000"]
-zillowHomeValueUsd: 857098
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for McClellan Park:** structural drying capacity optimized for 62ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sacramento County. Relative Humidity Threshold: 75%. Sensor sync: Active.
 
 
-In McClellan Park, CA, flood restoration requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Multi-story McClellan Park, CA losses need vertical moisture migration checks on lower levels.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in McClellan Park, CA must be dried before reconstruction is discussed.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-Our intake team frames flood restoration jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-FAQ: How fast should action start? In McClellan Park, CA, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 95652.
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
 
-Book a field review and request a written flood restoration scope before mitigation equipment is staged. Serving ZIP Code: 95652.
+Carpet pad saturation in McClellan Park, CA frequently forces disposal even when face fiber appears dry.
 
-Coverage brief: adjuster photo-log can change how mitigation invoice sequencing is documented before scheduling.
+Stairwell chase moisture in McClellan Park, CA tri-level homes can lag main-floor readings by days.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in McClellan Park, CA.
+Step: separate emergency extraction from structural drying line items.
 
-Dispatch sectors sampled: ZIP 95652 (county grid: Sacramento County).
+Risk flag: In McClellan Park, CA, delayed pack-out can swell cabinetry beyond salvage.
+
+Step: stage dehumidifier capacity against cubic footage and class of water.
+
+Tip: Save adjuster emails in one folder before calling back.
+
+Tip: Date-stamp moisture maps when adjusters request progress updates near 95652.
+
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
+
+Ask for claim-facing photo standards before work begins. File routing near 95652.
+
+Claim dossier 991018: pack-out ledger and humidity log bands filed for McClellan Park, CA county Sacramento County (ZIP 95652).
+
+Category note 991018: water-class notation and antimicrobial staging captured for McClellan Park, CA intake packet.
+
+Drying packet: psychrometric chart band paired with structural dry standard near ZIP 95652 before scope lock.
+
+Power audit: dehumidifier load confirmed in McClellan Park, CA before overnight run.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Sacramento County and primary ZIP 95652. Terrain reference: 62 ft. Center point: 38.6600, -121.4000. ZIP sample: 95652. Service perimeter note: Coverage extends through Sacramento County with dispatch centered near ZIP 95652.
 
 Service reference: CA-95652-17044aab

@@ -12,28 +12,45 @@ lng: -123.0700
 zipSample: ["97443", "97447"]
 zipCodes: ["97447", "97443"]
 localPaths: ["Douglas County / ZIP 97447 sector", "Douglas County / elevation 1293 ft band", "Douglas County / ZIP 97443 sector", "Douglas County / primary ZIP 97443", "Douglas County / coords 43.3000, -123.0700"]
-zillowHomeValueUsd: 389409
 ---
 
 **Engineering Notice for Glide:** structural drying capacity optimized for 1293ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Douglas County. Relative Humidity Threshold: 67%. Sensor sync: Active.
 
 
-A disaster cleanup event in Glide, OR is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Glide, OR.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Glide, OR.
+Our disaster cleanup intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 97447/97443.
+Radiant floor loops in Glide, OR slab homes need isolated zones before jack-hammer exploration.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 97443.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Insurance note: loss diary entry and pack-out ledger were flagged for the Glide file.
+Non-penetrating meter sweeps in Glide, OR hallways often read dry while baseboards remain elevated.
 
-Field note: Drying decisions were sequenced for ZIP sector 97447/97443.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 97443.
 
-Dispatch sectors sampled: ZIP 97447, 97443 (county grid: Douglas County).
+Humidity pockets in Glide, OR wall cavities can persist after visible drying on surfaces.
+
+Permit note: Rebuild phases in Glide, OR may need separate inspections from mitigation work.
+
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
+
+Book salvage review before pack-out crews mobilize. Grid anchor 97443.
+
+Psychrometric targets should be recorded before declaring a chamber dry.
+
+Elevated crawlspaces in Glide, OR require vapor-retarder remediation before dehumidifier sizing.
+
+Loss trace 414765: extraction velocity notes and demolition threshold markers keyed to Glide, OR elevation 1293 ft.
+
+Equipment roster 414765: dehumidifier hour-meter and air-mover placement queued before Glide, OR scope sign-off.
+
+Drying packet: non-penetrating meter mode paired with grain depression target near ZIP 97443 before scope lock.
+
+On-site sector marker: Douglas County / ZIP 97447 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97443-85bb4155

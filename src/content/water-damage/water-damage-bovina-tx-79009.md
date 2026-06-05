@@ -12,31 +12,45 @@ lng: -102.8800
 zipSample: ["79009"]
 zipCodes: ["79009"]
 localPaths: ["Parmer County / coords 34.5200, -102.8800", "Parmer County / ZIP 79009 sector", "Parmer County / primary ZIP 79009", "Parmer County / elevation 4075 ft band"]
-zillowHomeValueUsd: 307316
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Bovina:** structural drying capacity optimized for 4075ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Parmer County. Relative Humidity Threshold: 75%. Sensor sync: Active.
 
 
-In Bovina, TX, flood recovery requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Odor control in Bovina, TX category-two losses may require hydroxyl cycles separate from dehumidification.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Bovina, TX must be dried before reconstruction is discussed.
+Ceiling collapse risk in Bovina, TX multi-family units rises when saturated insulation loads truss chords.
 
-Our intake team frames flood recovery jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Stairwell chase moisture in Bovina, TX tri-level homes can lag main-floor readings by days.
 
-FAQ: How fast should action start? In Bovina, TX, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Risk flag: Bovina, TX slab-on-grade homes may need core probes when perimeter walls read dry.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 79009.
+IICRC reference: structural dry standards in Bovina, TX should be cited in scope documents.
 
-Book a field review and request a written flood recovery scope before mitigation equipment is staged. Serving ZIP Code: 79009.
+Step: reconcile carrier photo requirements before tear-out in Bovina, TX.
 
-Coverage brief: depreciation worksheet can change how Liberty Mutual mitigation notes is documented before scheduling.
+Plaster lathe ceilings in Bovina, TX pre-war homes hold moisture behind skim coats longer than drywall.
 
-Field note: Equipment day-counts were reviewed around ZIP 79009.
+Technicians probe sill plates in Bovina, TX ranch layouts before declaring first-floor dry.
 
-Field note: Intake notes were reconciled with county grid Parmer County.
+FAQ: What slows insurance review? Incomplete photo logs and missing moisture maps commonly delay Bovina, TX files.
 
-Dispatch sectors sampled: ZIP 79009 (county grid: Parmer County).
+FAQ: When is hardwood salvage realistic in Bovina, TX? Density, duration, and contamination class decide—not optimism.
+
+Garage-to-house air barriers in Bovina, TX ranch plans affect drying chamber boundaries.
+
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Cabinet toe-kick voids in Bovina, TX are common hidden moisture reservoirs.
+
+Tip: Log refrigerator line shutoffs before moving units in Bovina, TX kitchen losses.
+
+Category note 801655: water-class notation and antimicrobial staging captured for Bovina, TX intake packet.
+
+Equipment roster 801655: dehumidifier hour-meter and air-mover placement queued before Bovina, TX scope sign-off.
+
+Loss file: pinless scan grid plus structural dry standard referenced in Parmer County county review.
+
+Primary postal anchor 79009 with multi-ZIP overlap in Bovina; field packets tag Parmer County for county-grid reconciliation.
 
 Service reference: TX-79009-a4a49205

@@ -12,30 +12,47 @@ lng: -99.2600
 zipSample: ["78076"]
 zipCodes: ["78076"]
 localPaths: ["Zapata County / primary ZIP 78076", "Zapata County / ZIP 78076 sector", "Zapata County / elevation 328 ft band", "Zapata County / coords 26.8500, -99.2600"]
-zillowHomeValueUsd: 134657
 ---
 
 **Engineering Notice for Siesta Shores:** structural drying capacity optimized for 328ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Zapata County. Relative Humidity Threshold: 68%. Sensor sync: Active.
 
 
-When property drying cases are reviewed in Siesta Shores, TX, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Risk flag: Siesta Shores, TX slab-on-grade homes may need core probes when perimeter walls read dry.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Siesta Shores, TX.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-FAQ: Is every wet material removed immediately? Not always. In Siesta Shores, TX, some assemblies are monitored through readings before invasive removal is approved.
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 78076.
+About us: We prioritize measurable drying evidence over headline speed claims.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 78076.
+Across Siesta Shores, TX, standing water duration drives salvage-versus-remove decisions within hours.
 
-Claim marker: temporary service receipt was logged beside contents-vs-structure split near ZIP 78076.
+Tip: Save adjuster emails in one folder before calling back.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Siesta Shores, TX.
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
 
-Field note: Moisture logs were aligned with salvage routing in Siesta Shores, TX.
+Tip: Record when the water source was stopped and power restored in Siesta Shores, TX.
 
-Dispatch sectors sampled: ZIP 78076 (county grid: Zapata County).
+Ask for claim-facing photo standards before work begins. File routing near 78076.
+
+Townhome party walls in Siesta Shores, TX can transfer vapor across unit lines during shared losses.
+
+Permit note: Rebuild phases in Siesta Shores, TX may need separate inspections from mitigation work.
+
+Plaster lathe ceilings in Siesta Shores, TX pre-war homes hold moisture behind skim coats longer than drywall.
+
+Risk flag: Incomplete claim packets in Siesta Shores, TX often force duplicate site visits.
+
+Confirm power load assumptions before overnight equipment runs. County corridor Zapata County.
+
+Containment dossier 190633: poly barrier seams and HEPA scrubber hours keyed to Siesta Shores, TX grid Zapata County.
+
+Category note 190633: water-class notation and antimicrobial staging captured for Siesta Shores, TX intake packet.
+
+Mitigation trace: wall cavity vent hole, ceiling cavity bore scope, and equilibrium moisture content cross-indexed for Siesta Shores intake.
+
+On-site sector marker: Zapata County / elevation 328 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78076-08f10cb6

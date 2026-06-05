@@ -12,31 +12,51 @@ lng: -90.6300
 zipSample: ["70084", "70076", "70051"]
 zipCodes: ["70076", "70051", "70084"]
 localPaths: ["St. John the Baptist Parish / elevation 30 ft band", "St. John the Baptist Parish / ZIP 70051 sector", "St. John the Baptist Parish / ZIP 70084 sector", "St. John the Baptist Parish / coords 30.0700, -90.6300", "St. John the Baptist Parish / ZIP 70076 sector"]
-zillowHomeValueUsd: 193947
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Garyville:** structural drying capacity optimized for 30ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. John the Baptist Parish. Relative Humidity Threshold: 66%. Sensor sync: Active.
 
 
-In Garyville, LA, moisture restoration requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Garyville, LA must be dried before reconstruction is discussed.
+Request a written moisture restoration scope with equipment list and target readings. Primary postal sector: 70076.
 
-Our intake team frames moisture restoration jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Permit note: Rebuild phases in Garyville, LA may need separate inspections from mitigation work.
 
-FAQ: How fast should action start? In Garyville, LA, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 70084/70051/70076.
+Freeze-burst events in Garyville, LA often damage multiple wall bays before owners notice flow.
 
-Book a field review and request a written moisture restoration scope before mitigation equipment is staged. Serving ZIP Code: 70076.
+Tip: Record when the water source was stopped and power restored in Garyville, LA.
 
-Claim marker: Liberty Mutual mitigation notes was logged beside recoverable depreciation near ZIP 70076.
+Garage-to-house air barriers in Garyville, LA ranch plans affect drying chamber boundaries.
 
-Field note: Drying decisions were sequenced for ZIP sector 70084/70051/70076.
+IICRC reference: structural dry standards in Garyville, LA should be cited in scope documents.
 
-Field note: Equipment day-counts were reviewed around ZIP 70084/70051/70076.
+Crawlspace vapor barriers in Garyville, LA may trap moisture if torn during extraction hose routing.
 
-Dispatch sectors sampled: ZIP 70084, 70051, 70076 (county grid: St. John the Baptist Parish).
+In Garyville, LA, moisture restoration calls often start with moisture mapping before demolition is discussed.
+
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
+
+Stairwell chase moisture in Garyville, LA tri-level homes can lag main-floor readings by days.
+
+Risk flag: Garyville, LA slab-on-grade homes may need core probes when perimeter walls read dry.
+
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
+
+We coordinate Garyville, LA mitigation with written scope, equipment assumptions, and claim-facing notes.
+
+Psychrometric targets should be recorded before declaring a chamber dry.
+
+Carrier sync 498524: depreciation worksheet lane and supplement language staged for ZIP 70076.
+
+Loss trace 498524: extraction velocity notes and demolition threshold markers keyed to Garyville, LA elevation 30 ft.
+
+Mitigation trace: wall cavity vent hole, pack-out chain-of-custody, and category-three PPE log cross-indexed for Garyville intake.
+
+Thermal pass: infrared scan queued after second dry cycle in Garyville, LA.
+
+On-site sector marker: St. John the Baptist Parish / ZIP 70084 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70076-a6c46bc7

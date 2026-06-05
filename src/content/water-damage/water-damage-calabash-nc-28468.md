@@ -12,30 +12,49 @@ lng: -78.5500
 zipSample: ["28468", "28467"]
 zipCodes: ["28467", "28468"]
 localPaths: ["Brunswick County / ZIP 28467 sector", "Brunswick County / coords 33.9000, -78.5500", "Brunswick County / primary ZIP 28468", "Brunswick County / elevation 3 ft band", "Brunswick County / ZIP 28468 sector"]
-zillowHomeValueUsd: 428024
 ---
 
 **Engineering Notice for Calabash:** structural drying capacity optimized for 3ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Brunswick County. Relative Humidity Threshold: 71%. Sensor sync: Active.
 
 
-A flood recovery event in Calabash, NC is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Material note: Insulation R-value targets in Calabash, NC should match pre-loss assemblies when documented.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Calabash, NC.
+Step: label removed materials for disposal manifests and claim packets.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 28468.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Calabash, NC.
+Schedule extraction and drying as separate documented phases. File routing near 28468.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 28468/28467.
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 28468.
+Step: log humidity and temperature readings at 24-hour intervals.
 
-Claim marker: Farmers routing language was logged beside USAA property-loss packet near ZIP 28468.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Field note: Moisture logs were aligned with salvage routing in Calabash, NC.
+Stairwell chase moisture in Calabash, NC tri-level homes can lag main-floor readings by days.
 
-Field note: Equipment day-counts were reviewed around ZIP 28468/28467.
+Freeze-burst events in Calabash, NC often damage multiple wall bays before owners notice flow.
 
-Dispatch sectors sampled: ZIP 28468, 28467 (county grid: Brunswick County).
+Elevated crawlspaces in Calabash, NC require vapor-retarder remediation before dehumidifier sizing.
+
+Contents pack-out in Calabash, NC should be photographed before movement off-site.
+
+Open a mitigation intake with drying targets and rebuild dependencies listed. County corridor Brunswick County.
+
+Crawlspace vapor barriers in Calabash, NC may trap moisture if torn during extraction hose routing.
+
+FAQ: When is hardwood salvage realistic in Calabash, NC? Density, duration, and contamination class decide—not optimism.
+
+Risk flag: Calabash, NC slab-on-grade homes may need core probes when perimeter walls read dry.
+
+Recovery map 211308: structural drying targets and rebuild handoff flags logged for Calabash, NC postal sector 28468.
+
+File audit 211308: adjuster photo-set crosswalk and contents segregation reviewed for Calabash, NC at 33.9000/-78.5500.
+
+Loss file: ceiling cavity bore scope plus air mover amp draw referenced in Brunswick County county review.
+
+Containment check: poly barrier seams photographed in Calabash, NC.
+
+ZIP-corridor snapshot for Calabash, NC: sampled sectors include 28468, 28467; county routing grid remains Brunswick County.
 
 Service reference: NC-28468-18d2fdf0

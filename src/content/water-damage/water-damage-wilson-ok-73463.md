@@ -12,30 +12,49 @@ lng: -97.4300
 zipSample: ["73463"]
 zipCodes: ["73463"]
 localPaths: ["Carter County / primary ZIP 73463", "Carter County / coords 34.1700, -97.4300", "Carter County / ZIP 73463 sector", "Carter County / elevation 938 ft band"]
-zillowHomeValueUsd: 173273
 ---
 
 **Engineering Notice for Wilson:** structural drying capacity optimized for 938ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Carter County. Relative Humidity Threshold: 66%. Sensor sync: Active.
 
 
-Across Wilson, OK, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the flood restoration file.
+Book salvage review before pack-out crews mobilize. Grid anchor 73463.
 
-Flood Restoration coordination in Wilson, OK is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Open a mitigation intake with drying targets and rebuild dependencies listed. County corridor Carter County.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Wilson, OK are commonly checked when spread is suspected.
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 73463.
+Thermal imaging in Wilson, OK is scheduled after surface readings plateau for two cycles.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 73463.
+Non-penetrating meter sweeps in Wilson, OK hallways often read dry while baseboards remain elevated.
 
-File control: scope authorization code was paired with depreciation worksheet during intake review in Wilson.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Field note: Drying decisions were sequenced for ZIP sector 73463.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Wilson, OK.
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
 
-Dispatch sectors sampled: ZIP 73463 (county grid: Carter County).
+Step: stage dehumidifier capacity against cubic footage and class of water.
+
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
+
+Built-in bookcase cavities in Wilson, OK trap humidity behind fixed shelving.
+
+Tip: List detached baseboards and removed insulation by room for claim traceability.
+
+Garage-to-house air barriers in Wilson, OK ranch plans affect drying chamber boundaries.
+
+Desiccant dehumidifier sizing in Wilson, OK commercial zones differs from LGR residential defaults.
+
+Rebuild bridge 277587: cabinet toe-kick probes and subfloor MC readings logged at 34.1700, -97.4300.
+
+Loss trace 277587: extraction velocity notes and demolition threshold markers keyed to Wilson, OK elevation 938 ft.
+
+Mitigation trace: grain depression target, vapor pressure differential, and pinless scan grid cross-indexed for Wilson intake.
+
+Airflow map: mover placement sketch updated for ZIP 73463.
+
+On-site sector marker: Carter County / primary ZIP 73463 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-73463-acde3797

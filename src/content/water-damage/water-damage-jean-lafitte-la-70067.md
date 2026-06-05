@@ -12,28 +12,45 @@ lng: -90.1000
 zipSample: ["70067"]
 zipCodes: ["70067"]
 localPaths: ["Jefferson Parish / coords 29.7500, -90.1000", "Jefferson Parish / elevation 3 ft band", "Jefferson Parish / primary ZIP 70067", "Jefferson Parish / ZIP 70067 sector"]
-zillowHomeValueUsd: 202495
 ---
 
 **Engineering Notice for Jean Lafitte:** structural drying capacity optimized for 3ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson Parish. Relative Humidity Threshold: 71%. Sensor sync: Active.
 
 
-When water loss recovery cases are reviewed in Jean Lafitte, LA, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Townhome party walls in Jean Lafitte, LA can transfer vapor across unit lines during shared losses.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Jean Lafitte, LA.
+Step: log humidity and temperature readings at 24-hour intervals.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
 
-FAQ: Is every wet material removed immediately? Not always. In Jean Lafitte, LA, some assemblies are monitored through readings before invasive removal is approved.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 70067.
+Thermal imaging in Jean Lafitte, LA is scheduled after surface readings plateau for two cycles.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 70067.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-Claim marker: water category notation was logged beside Liberty Mutual mitigation notes near ZIP 70067.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Jean Lafitte, LA.
+Book salvage review before pack-out crews mobilize. Grid anchor 70067.
 
-Dispatch sectors sampled: ZIP 70067 (county grid: Jefferson Parish).
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+FAQ: When is delay costly? In Jean Lafitte, LA, extended damp periods expand demolition and mold-risk scope.
+
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
+
+Risk flag: In Jean Lafitte, LA, delayed pack-out can swell cabinetry beyond salvage.
+
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+Regulatory note: Jean Lafitte, LA projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+Equipment roster 644916: dehumidifier hour-meter and air-mover placement queued before Jean Lafitte, LA scope sign-off.
+
+Rebuild bridge 644916: cabinet toe-kick probes and subfloor MC readings logged at 29.7500, -90.1000.
+
+Drying packet: non-penetrating meter mode paired with structural dry standard near ZIP 70067 before scope lock.
+
+On-site sector marker: Jefferson Parish / coords 29.7500, -90.1000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70067-94839fd2

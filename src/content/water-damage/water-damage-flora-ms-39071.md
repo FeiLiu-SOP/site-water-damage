@@ -12,30 +12,49 @@ lng: -90.3100
 zipSample: ["39071"]
 zipCodes: ["39071"]
 localPaths: ["Madison County / primary ZIP 39071", "Madison County / elevation 272 ft band", "Madison County / ZIP 39071 sector", "Madison County / coords 32.5400, -90.3100"]
-zillowHomeValueUsd: 296379
 ---
 
 **Engineering Notice for Flora:** structural drying capacity optimized for 272ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Madison County. Relative Humidity Threshold: 70%. Sensor sync: Active.
 
 
-A storm cleanup event in Flora, MS is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Flora, MS.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Flora, MS.
+Tip: Log refrigerator line shutoffs before moving units in Flora, MS kitchen losses.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 39071.
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 39071.
+Thermal imaging in Flora, MS is scheduled after surface readings plateau for two cycles.
 
-Insurance note: Liberty Mutual mitigation notes and contents-vs-structure split were flagged for the Flora file.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Flora, MS.
+Radiant floor loops in Flora, MS slab homes need isolated zones before jack-hammer exploration.
 
-Field note: Moisture logs were aligned with salvage routing in Flora, MS.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Dispatch sectors sampled: ZIP 39071 (county grid: Madison County).
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
+
+Permit note: Rebuild phases in Flora, MS may need separate inspections from mitigation work.
+
+Regulatory note: Flora, MS projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+Risk flag: In Flora, MS, delayed pack-out can swell cabinetry beyond salvage.
+
+Technicians stage HEPA scrubbers before containment zip doors in Flora, MS kitchen losses.
+
+Tip: Save adjuster emails in one folder before calling back.
+
+Dispatch packets for Flora, MS reference county grid Madison County and elevation band 272 ft.
+
+Mitigation ledger 682355: moisture map grid, salvage lane tags, and drying day-count staged for Flora, MS at 32.5400, -90.3100.
+
+Loss trace 682355: extraction velocity notes and demolition threshold markers keyed to Flora, MS elevation 272 ft.
+
+Drying packet: non-penetrating meter mode paired with subfloor MC probe near ZIP 39071 before scope lock.
+
+Coordinate-anchored dispatch note: center reference 32.5400, -90.3100 at elevation ~272 ft aligns with Madison County intake staging.
 
 Service reference: MS-39071-a548362e

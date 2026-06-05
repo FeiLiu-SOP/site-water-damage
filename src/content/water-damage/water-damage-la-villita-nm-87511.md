@@ -12,29 +12,49 @@ lng: -106.0500
 zipSample: ["87511"]
 zipCodes: ["87511"]
 localPaths: ["Rio Arriba County / elevation 5679 ft band", "Rio Arriba County / ZIP 87511 sector", "Rio Arriba County / coords 36.1000, -106.0500", "Rio Arriba County / primary ZIP 87511"]
-zillowHomeValueUsd: 314445
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for La Villita:** structural drying capacity optimized for 5679ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rio Arriba County. Relative Humidity Threshold: 81%. Sensor sync: Active.
 
 
-In La Villita, NM, storm cleanup requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in La Villita, NM must be dried before reconstruction is discussed.
+Odor control in La Villita, NM category-two losses may require hydroxyl cycles separate from dehumidification.
 
-Our intake team frames storm cleanup jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Regulatory note: La Villita, NM projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
 
-FAQ: How fast should action start? In La Villita, NM, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Risk flag: Incomplete claim packets in La Villita, NM often force duplicate site visits.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 87511.
+Ceiling collapse risk in La Villita, NM multi-family units rises when saturated insulation loads truss chords.
 
-Book a field review and request a written storm cleanup scope before mitigation equipment is staged. Serving ZIP Code: 87511.
+FAQ: When is delay costly? In La Villita, NM, extended damp periods expand demolition and mold-risk scope.
 
-Insurance note: reserve change notes and carrier supplement language were flagged for the La Villita file.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Field note: Drying decisions were sequenced for ZIP sector 87511.
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
 
-Dispatch sectors sampled: ZIP 87511 (county grid: Rio Arriba County).
+Tip: Save adjuster emails in one folder before calling back.
+
+Tip: Date-stamp moisture maps when adjusters request progress updates near 87511.
+
+Plaster lathe ceilings in La Villita, NM pre-war homes hold moisture behind skim coats longer than drywall.
+
+Category-two losses in La Villita, NM require antimicrobial staging decisions before rebuild quotes.
+
+Sump overflow in La Villita, NM can masquerade as foundation infiltration.
+
+Stairwell chase moisture in La Villita, NM tri-level homes can lag main-floor readings by days.
+
+Step: photograph standing water and material edges before extraction.
+
+Containment dossier 289635: poly barrier seams and HEPA scrubber hours keyed to La Villita, NM grid Rio Arriba County.
+
+Loss trace 289635: extraction velocity notes and demolition threshold markers keyed to La Villita, NM elevation 5679 ft.
+
+Mitigation trace: desiccant rotor hour, category-three PPE log, and grain depression target cross-indexed for La Villita intake.
+
+Moisture trace: 24-hour hygrometer bands logged for ZIP sector 87511.
+
+ZIP-corridor snapshot for La Villita, NM: sampled sectors include 87511; county routing grid remains Rio Arriba County.
 
 Service reference: NM-87511-64a06001

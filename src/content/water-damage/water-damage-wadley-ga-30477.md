@@ -12,30 +12,49 @@ lng: -82.4000
 zipSample: ["30477"]
 zipCodes: ["30477"]
 localPaths: ["Jefferson County / ZIP 30477 sector", "Jefferson County / coords 32.8700, -82.4000", "Jefferson County / elevation 253 ft band", "Jefferson County / primary ZIP 30477"]
-zillowHomeValueUsd: 80908
 ---
 
 **Engineering Notice for Wadley:** structural drying capacity optimized for 253ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 68%. Sensor sync: Active.
 
 
-Across Wadley, GA, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Radiant floor loops in Wadley, GA slab homes need isolated zones before jack-hammer exploration.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the flood restoration file.
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
 
-Flood Restoration coordination in Wadley, GA is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Step: reconcile carrier photo requirements before tear-out in Wadley, GA.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Wadley, GA are commonly checked when spread is suspected.
+Townhome party walls in Wadley, GA can transfer vapor across unit lines during shared losses.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 30477.
+Request room-by-room demolition thresholds tied to meter readings. Grid anchor 30477.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 30477.
+Technicians stage HEPA scrubbers before containment zip doors in Wadley, GA kitchen losses.
 
-Insurance note: reserve change notes and recoverable depreciation were flagged for the Wadley file.
+IICRC reference: structural dry standards in Wadley, GA should be cited in scope documents.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Wadley, GA.
+Garage slab moisture in Wadley, GA can wick into adjacent finished rooms.
 
-Field note: Drying decisions were sequenced for ZIP sector 30477.
+Permit note: Rebuild phases in Wadley, GA may need separate inspections from mitigation work.
 
-Dispatch sectors sampled: ZIP 30477 (county grid: Jefferson County).
+Technicians probe sill plates in Wadley, GA ranch layouts before declaring first-floor dry.
+
+Step: document demolition justification with moisture meter readings.
+
+Step: log humidity and temperature readings at 24-hour intervals.
+
+Crawlspace vapor barriers in Wadley, GA may trap moisture if torn during extraction hose routing.
+
+Our flood restoration intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
+
+Tip: Record when the water source was stopped and power restored in Wadley, GA.
+
+Sump overflow in Wadley, GA can masquerade as foundation infiltration.
+
+Category note 656269: water-class notation and antimicrobial staging captured for Wadley, GA intake packet.
+
+Claim dossier 656269: pack-out ledger and humidity log bands filed for Wadley, GA county Jefferson County (ZIP 30477).
+
+Mitigation trace: desiccant rotor hour, ceiling cavity bore scope, and grain depression target cross-indexed for Wadley intake.
+
+Coordinate-anchored dispatch note: center reference 32.8700, -82.4000 at elevation ~253 ft aligns with Jefferson County intake staging.
 
 Service reference: GA-30477-310b5234

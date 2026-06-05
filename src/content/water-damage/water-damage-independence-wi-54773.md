@@ -12,30 +12,45 @@ lng: -91.4200
 zipSample: ["54612", "54773", "54747"]
 zipCodes: ["54747", "54773", "54612"]
 localPaths: ["Trempealeau County / ZIP 54612 sector", "Trempealeau County / elevation 810 ft band", "Trempealeau County / coords 44.3300, -91.4200", "Trempealeau County / ZIP 54773 sector", "Trempealeau County / primary ZIP 54773"]
-zillowHomeValueUsd: 228799
 ---
 
 **Engineering Notice for Independence:** structural drying capacity optimized for 810ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Trempealeau County. Relative Humidity Threshold: 82%. Sensor sync: Active.
 
 
-When storm cleanup cases are reviewed in Independence, WI, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Step: label removed materials for disposal manifests and claim packets.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Independence, WI.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
 
-FAQ: Is every wet material removed immediately? Not always. In Independence, WI, some assemblies are monitored through readings before invasive removal is approved.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 54612/54747/54773.
+Plaster lathe ceilings in Independence, WI pre-war homes hold moisture behind skim coats longer than drywall.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 54773.
+Garage slab moisture in Independence, WI can wick into adjacent finished rooms.
 
-File control: depreciation worksheet was paired with loss diary entry during intake review in Independence.
+Non-penetrating meter sweeps in Independence, WI hallways often read dry while baseboards remain elevated.
 
-Field note: Moisture logs were aligned with salvage routing in Independence, WI.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Independence, WI.
+Request room-by-room demolition thresholds tied to meter readings. Grid anchor 54773.
 
-Dispatch sectors sampled: ZIP 54612, 54747, 54773 (county grid: Trempealeau County).
+Across Independence, WI, standing water duration drives salvage-versus-remove decisions within hours.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Category-two losses in Independence, WI require antimicrobial staging decisions before rebuild quotes.
+
+Step: photograph standing water and material edges before extraction.
+
+Permit note: Rebuild phases in Independence, WI may need separate inspections from mitigation work.
+
+Containment dossier 388939: poly barrier seams and HEPA scrubber hours keyed to Independence, WI grid Trempealeau County.
+
+Category note 388939: water-class notation and antimicrobial staging captured for Independence, WI intake packet.
+
+Drying packet: LGR condensate yield paired with vapor pressure differential near ZIP 54773 before scope lock.
+
+Coordinate-anchored dispatch note: center reference 44.3300, -91.4200 at elevation ~810 ft aligns with Trempealeau County intake staging.
 
 Service reference: WI-54773-b2429174

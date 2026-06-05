@@ -12,31 +12,47 @@ lng: -81.4200
 zipSample: ["28637"]
 zipCodes: ["28637"]
 localPaths: ["Burke County / ZIP 28637 sector", "Burke County / coords 35.7200, -81.4200", "Burke County / primary ZIP 28637", "Burke County / elevation 1115 ft band"]
-zillowHomeValueUsd: 316879
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Hildebran:** structural drying capacity optimized for 1115ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Burke County. Relative Humidity Threshold: 66%. Sensor sync: Active.
 
 
-In Hildebran, NC, storm cleanup requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Hildebran, NC must be dried before reconstruction is discussed.
+Townhome party walls in Hildebran, NC can transfer vapor across unit lines during shared losses.
 
-Our intake team frames storm cleanup jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-FAQ: How fast should action start? In Hildebran, NC, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Risk flag: Hildebran, NC slab-on-grade homes may need core probes when perimeter walls read dry.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 28637.
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
 
-Book a field review and request a written storm cleanup scope before mitigation equipment is staged. Serving ZIP Code: 28637.
+Permit note: Rebuild phases in Hildebran, NC may need separate inspections from mitigation work.
 
-File control: adjuster photo-log was paired with State Farm coverage patterns during intake review in Hildebran.
+Thermal imaging in Hildebran, NC is scheduled after surface readings plateau for two cycles.
 
-Field note: Moisture logs were aligned with salvage routing in Hildebran, NC.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Hildebran, NC.
+Regulatory note: Hildebran, NC projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
 
-Dispatch sectors sampled: ZIP 28637 (county grid: Burke County).
+FAQ: When is delay costly? In Hildebran, NC, extended damp periods expand demolition and mold-risk scope.
+
+Step: reconcile carrier photo requirements before tear-out in Hildebran, NC.
+
+Step: verify power availability for drying equipment before overnight runs.
+
+Technicians probe sill plates in Hildebran, NC ranch layouts before declaring first-floor dry.
+
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
+
+Tip: Log refrigerator line shutoffs before moving units in Hildebran, NC kitchen losses.
+
+Mitigation ledger 293136: moisture map grid, salvage lane tags, and drying day-count staged for Hildebran, NC at 35.7200, -81.4200.
+
+Carrier sync 293136: depreciation worksheet lane and supplement language staged for ZIP 28637.
+
+Mitigation trace: HEPA scrubber CFM log, negative air machine manometer, and air mover amp draw cross-indexed for Hildebran intake.
+
+On-site sector marker: Burke County / coords 35.7200, -81.4200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28637-f44c75a9

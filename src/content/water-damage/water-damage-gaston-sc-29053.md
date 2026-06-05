@@ -12,28 +12,49 @@ lng: -81.1000
 zipSample: ["29053"]
 zipCodes: ["29053"]
 localPaths: ["Lexington County / elevation 499 ft band", "Lexington County / primary ZIP 29053", "Lexington County / ZIP 29053 sector", "Lexington County / coords 33.8200, -81.1000"]
-zillowHomeValueUsd: 164048
 ---
 
 **Engineering Notice for Gaston:** structural drying capacity optimized for 499ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lexington County. Relative Humidity Threshold: 71%. Sensor sync: Active.
 
 
-A emergency dry-out event in Gaston, SC is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Gaston, SC.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Basement seepage in Gaston, SC may track foundation cracks rather than appliance failures.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Gaston, SC.
+FAQ: When is delay costly? In Gaston, SC, extended damp periods expand demolition and mold-risk scope.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 29053.
+FAQ: What slows insurance review? Incomplete photo logs and missing moisture maps commonly delay Gaston, SC files.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 29053.
+Radiant floor loops in Gaston, SC slab homes need isolated zones before jack-hammer exploration.
 
-Claim marker: Allstate loss review was logged beside temporary remediation receipt near ZIP 29053.
+Dispatch packets for Gaston, SC reference county grid Lexington County and elevation band 499 ft.
 
-Field note: Moisture logs were aligned with salvage routing in Gaston, SC.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Dispatch sectors sampled: ZIP 29053 (county grid: Lexington County).
+Step: document demolition justification with moisture meter readings.
+
+Permit note: Rebuild phases in Gaston, SC may need separate inspections from mitigation work.
+
+Townhome party walls in Gaston, SC can transfer vapor across unit lines during shared losses.
+
+Tip: List detached baseboards and removed insulation by room for claim traceability.
+
+Non-penetrating meter sweeps in Gaston, SC hallways often read dry while baseboards remain elevated.
+
+Garage-to-house air barriers in Gaston, SC ranch plans affect drying chamber boundaries.
+
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
+
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
+
+Containment dossier 803140: poly barrier seams and HEPA scrubber hours keyed to Gaston, SC grid Lexington County.
+
+Recovery map 803140: structural drying targets and rebuild handoff flags logged for Gaston, SC postal sector 29053.
+
+Mitigation trace: containment zipper door, air mover amp draw, and hardwood moisture strip cross-indexed for Gaston intake.
+
+Primary postal anchor 29053 with multi-ZIP overlap in Gaston; field packets tag Lexington County for county-grid reconciliation.
 
 Service reference: SC-29053-999b917a

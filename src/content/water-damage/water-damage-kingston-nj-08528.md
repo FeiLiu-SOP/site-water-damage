@@ -12,31 +12,45 @@ lng: -74.6100
 zipSample: ["08540", "08528"]
 zipCodes: ["08528", "08540"]
 localPaths: ["Somerset County / coords 40.3800, -74.6100", "Somerset County / primary ZIP 08528", "Somerset County / elevation 102 ft band", "Somerset County / ZIP 08540 sector", "Somerset County / ZIP 08528 sector"]
-zillowHomeValueUsd: 634343
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Kingston:** structural drying capacity optimized for 102ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Somerset County. Relative Humidity Threshold: 82%. Sensor sync: Active.
 
 
-Property owners in Kingston, NJ may see a storm cleanup event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Subfloor cupping in Kingston, NJ can lag source-stop by several drying days.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Kingston, NJ.
+Risk flag: Incomplete claim packets in Kingston, NJ often force duplicate site visits.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Tip: Log refrigerator line shutoffs before moving units in Kingston, NJ kitchen losses.
 
-FAQ: What slows recovery most? In Kingston, NJ, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Townhome party walls in Kingston, NJ can transfer vapor across unit lines during shared losses.
 
-Tip: Save local team notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 08540/08528.
+Tip: Photograph ceiling stains with a ruler reference before tarping near ZIP 08528.
 
-Ask for a room-by-room storm cleanup outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 08528.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Claim marker: Claim filing codes was logged beside adjuster photo-log near ZIP 08528.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Field note: Drying decisions were sequenced for ZIP sector 08540/08528.
+Book a moisture-map review before demolition approvals. Primary postal sector: 08528.
 
-Field note: Moisture logs were aligned with salvage routing in Kingston, NJ.
+IICRC reference: structural dry standards in Kingston, NJ should be cited in scope documents.
 
-Dispatch sectors sampled: ZIP 08540, 08528 (county grid: Somerset County).
+Tip: Date-stamp moisture maps when adjusters request progress updates near 08528.
+
+Step: log humidity and temperature readings at 24-hour intervals.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
+
+Built-in bookcase cavities in Kingston, NJ trap humidity behind fixed shelving.
+
+Rebuild bridge 825777: cabinet toe-kick probes and subfloor MC readings logged at 40.3800, -74.6100.
+
+File audit 825777: adjuster photo-set crosswalk and contents segregation reviewed for Kingston, NJ at 40.3800/-74.6100.
+
+Loss file: HEPA scrubber CFM log plus desiccant rotor hour referenced in Somerset County county review.
+
+On-site sector marker: Somerset County / coords 40.3800, -74.6100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-08528-a5510ba8

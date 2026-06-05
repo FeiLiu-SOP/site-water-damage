@@ -12,30 +12,47 @@ lng: -121.1800
 zipSample: ["97760"]
 zipCodes: ["97760"]
 localPaths: ["Deschutes County / elevation 2867 ft band", "Deschutes County / coords 44.3500, -121.1800", "Deschutes County / ZIP 97760 sector", "Deschutes County / primary ZIP 97760"]
-zillowHomeValueUsd: 579491
 ---
 
 **Engineering Notice for Terrebonne:** structural drying capacity optimized for 2867ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Deschutes County. Relative Humidity Threshold: 67%. Sensor sync: Active.
 
 
-When structural drying cases are reviewed in Terrebonne, OR, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Crawlspace vapor barriers in Terrebonne, OR may trap moisture if torn during extraction hose routing.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Terrebonne, OR.
+Risk flag: Terrebonne, OR slab-on-grade homes may need core probes when perimeter walls read dry.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
 
-FAQ: Is every wet material removed immediately? Not always. In Terrebonne, OR, some assemblies are monitored through readings before invasive removal is approved.
+Permit note: Rebuild phases in Terrebonne, OR may need separate inspections from mitigation work.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 97760.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 97760.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Insurance note: USAA property-loss packet and depreciation worksheet were flagged for the Terrebonne file.
+Across Terrebonne, OR, standing water duration drives salvage-versus-remove decisions within hours.
 
-Field note: Drying decisions were sequenced for ZIP sector 97760.
+Our structural drying intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
 
-Field note: Intake notes were reconciled with county grid Deschutes County.
+Step: photograph standing water and material edges before extraction.
 
-Dispatch sectors sampled: ZIP 97760 (county grid: Deschutes County).
+Attic staining in Terrebonne, OR may follow HVAC condensate rather than roof breaches.
+
+Contents pack-out in Terrebonne, OR should be photographed before movement off-site.
+
+Risk flag: In Terrebonne, OR, delayed pack-out can swell cabinetry beyond salvage.
+
+Odor control in Terrebonne, OR category-two losses may require hydroxyl cycles separate from dehumidification.
+
+Freeze-burst events in Terrebonne, OR often damage multiple wall bays before owners notice flow.
+
+FAQ: Who inventories contents? Carrier language and photo standards vary in Terrebonne, OR markets.
+
+Claim dossier 313840: pack-out ledger and humidity log bands filed for Terrebonne, OR county Deschutes County (ZIP 97760).
+
+Containment dossier 313840: poly barrier seams and HEPA scrubber hours keyed to Terrebonne, OR grid Deschutes County.
+
+Drying packet: non-penetrating meter mode paired with demolition salvage tag near ZIP 97760 before scope lock.
+
+On-site sector marker: Deschutes County / coords 44.3500, -121.1800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97760-f824011d

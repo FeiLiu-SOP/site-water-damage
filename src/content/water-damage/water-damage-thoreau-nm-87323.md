@@ -12,31 +12,49 @@ lng: -108.2000
 zipSample: ["87323"]
 zipCodes: ["87323"]
 localPaths: ["McKinley County / ZIP 87323 sector", "McKinley County / primary ZIP 87323", "McKinley County / coords 35.4300, -108.2000", "McKinley County / elevation 7241 ft band"]
-zillowHomeValueUsd: 296735
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Thoreau:** structural drying capacity optimized for 7241ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McKinley County. Relative Humidity Threshold: 78%. Sensor sync: Active.
 
 
-When storm cleanup cases are reviewed in Thoreau, NM, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Thoreau, NM.
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+FAQ: When is hardwood salvage realistic in Thoreau, NM? Density, duration, and contamination class decide—not optimism.
 
-FAQ: Is every wet material removed immediately? Not always. In Thoreau, NM, some assemblies are monitored through readings before invasive removal is approved.
+Elevator pit flooding in Thoreau, NM commercial stacks needs pump-out before cab service resumes.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 87323.
+Radiant floor loops in Thoreau, NM slab homes need isolated zones before jack-hammer exploration.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 87323.
+Material note: Insulation R-value targets in Thoreau, NM should match pre-loss assemblies when documented.
 
-Insurance note: coverage threshold marker and contents-vs-structure split were flagged for the Thoreau file.
+Technicians probe sill plates in Thoreau, NM ranch layouts before declaring first-floor dry.
 
-Field note: Drying decisions were sequenced for ZIP sector 87323.
+Stairwell chase moisture in Thoreau, NM tri-level homes can lag main-floor readings by days.
 
-Field note: Equipment day-counts were reviewed around ZIP 87323.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Dispatch sectors sampled: ZIP 87323 (county grid: McKinley County).
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+Subfloor cupping in Thoreau, NM can lag source-stop by several drying days.
+
+Townhome party walls in Thoreau, NM can transfer vapor across unit lines during shared losses.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Across Thoreau, NM, standing water duration drives salvage-versus-remove decisions within hours.
+
+Built-in bookcase cavities in Thoreau, NM trap humidity behind fixed shelving.
+
+Claim dossier 463890: pack-out ledger and humidity log bands filed for Thoreau, NM county McKinley County (ZIP 87323).
+
+Carrier sync 463890: depreciation worksheet lane and supplement language staged for ZIP 87323.
+
+Loss file: ceiling cavity bore scope plus demolition salvage tag referenced in McKinley County county review.
+
+Thermal pass: infrared scan queued after second dry cycle in Thoreau, NM.
+
+On-site sector marker: McKinley County / elevation 7241 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-87323-c5841e62

@@ -12,30 +12,45 @@ lng: -85.7200
 zipSample: ["40150"]
 zipCodes: ["40150"]
 localPaths: ["Bullitt County / elevation 554 ft band", "Bullitt County / coords 37.8400, -85.7200", "Bullitt County / ZIP 40150 sector", "Bullitt County / primary ZIP 40150"]
-zillowHomeValueUsd: 240992
 ---
 
 **Engineering Notice for Lebanon Junction:** structural drying capacity optimized for 554ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bullitt County. Relative Humidity Threshold: 67%. Sensor sync: Active.
 
 
-A flood recovery event in Lebanon Junction, KY is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Across Lebanon Junction, KY, standing water duration drives salvage-versus-remove decisions within hours.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Lebanon Junction, KY.
+Carpet pad saturation in Lebanon Junction, KY frequently forces disposal even when face fiber appears dry.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Category-two losses in Lebanon Junction, KY require antimicrobial staging decisions before rebuild quotes.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Lebanon Junction, KY.
+Regulatory note: Lebanon Junction, KY projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 40150.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 40150.
+Material note: Insulation R-value targets in Lebanon Junction, KY should match pre-loss assemblies when documented.
 
-Insurance note: coverage threshold marker and adjuster photo-log were flagged for the Lebanon Junction file.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Field note: Equipment day-counts were reviewed around ZIP 40150.
+Thermal imaging in Lebanon Junction, KY is scheduled after surface readings plateau for two cycles.
 
-Field note: Intake notes were reconciled with county grid Bullitt County.
+Plaster lathe ceilings in Lebanon Junction, KY pre-war homes hold moisture behind skim coats longer than drywall.
 
-Dispatch sectors sampled: ZIP 40150 (county grid: Bullitt County).
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+Elevated crawlspaces in Lebanon Junction, KY require vapor-retarder service before dehumidifier sizing.
+
+Step: reconcile carrier photo requirements before tear-out in Lebanon Junction, KY.
+
+FAQ: When is hardwood salvage realistic in Lebanon Junction, KY? Density, duration, and contamination class decide—not optimism.
+
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
+
+Loss trace 736904: extraction velocity notes and demolition threshold markers keyed to Lebanon Junction, KY elevation 554 ft.
+
+Recovery map 736904: structural drying targets and rebuild handoff flags logged for Lebanon Junction, KY postal sector 40150.
+
+Mitigation trace: flood cut elevation mark, pack-out chain-of-custody, and negative air machine manometer cross-indexed for Lebanon Junction intake.
+
+On-site sector marker: Bullitt County / elevation 554 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-40150-edf66a67

@@ -12,31 +12,47 @@ lng: -66.4400
 zipSample: ["00687"]
 zipCodes: ["00687"]
 localPaths: ["Morovis County / elevation 561 ft band", "Morovis County / coords 18.3500, -66.4400", "Morovis County / ZIP 00687 sector", "Morovis County / primary ZIP 00687"]
-zillowHomeValueUsd: 358009
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Barahona:** structural drying capacity optimized for 561ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Morovis County. Relative Humidity Threshold: 78%. Sensor sync: Active.
 
 
-Across Barahona, PR, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Risk flag: In Barahona, PR, delayed pack-out can swell cabinetry beyond salvage.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the water mitigation file.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Water Mitigation coordination in Barahona, PR is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Across Barahona, PR, standing water duration drives salvage-versus-remove decisions within hours.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Barahona, PR are commonly checked when spread is suspected.
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 00687.
+FAQ: Will insurance cover pack-out? Carrier language and photo standards vary in Barahona, PR markets.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 00687.
+Odor control in Barahona, PR category-two losses may require hydroxyl cycles separate from dehumidification.
 
-Claim marker: scope authorization code was logged beside adjuster photo-log near ZIP 00687.
+Technicians probe sill plates in Barahona, PR ranch layouts before declaring first-floor dry.
 
-Field note: Drying decisions were sequenced for ZIP sector 00687.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Field note: Intake notes were reconciled with county grid Morovis County.
+Ceiling collapse risk in Barahona, PR multi-family units rises when saturated insulation loads truss chords.
 
-Dispatch sectors sampled: ZIP 00687 (county grid: Morovis County).
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+IICRC reference: structural dry standards in Barahona, PR should be cited in scope documents.
+
+Regulatory note: Barahona, PR projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+Contents pack-out in Barahona, PR should be photographed before movement off-site.
+
+Psychrometric targets should be recorded before declaring a chamber dry.
+
+Elevator pit flooding in Barahona, PR commercial stacks needs pump-out before cab service resumes.
+
+Claim dossier 571565: pack-out ledger and humidity log bands filed for Barahona, PR county Morovis County (ZIP 00687).
+
+Category note 571565: water-class notation and antimicrobial staging captured for Barahona, PR intake packet.
+
+Loss file: negative air machine manometer plus air mover amp draw referenced in Morovis County county review.
+
+On-site sector marker: Morovis County / primary ZIP 00687 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00687-a98227f7

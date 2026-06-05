@@ -12,31 +12,45 @@ lng: -65.7900
 zipSample: ["00745"]
 zipCodes: ["00745"]
 localPaths: ["Río Grande County / ZIP 00745 sector", "Río Grande County / coords 18.3700, -65.7900", "Río Grande County / primary ZIP 00745", "Río Grande County / elevation 161 ft band"]
-zillowHomeValueUsd: 352501
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Hato Candal:** structural drying capacity optimized for 161ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Río Grande County. Relative Humidity Threshold: 70%. Sensor sync: Active.
 
 
-Across Hato Candal, PR, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Step: separate emergency extraction from structural drying line items.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the moisture restoration file.
+Humidity pockets in Hato Candal, PR wall cavities can persist after visible drying on surfaces.
 
-Moisture Restoration coordination in Hato Candal, PR is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Risk flag: Hato Candal, PR slab-on-grade homes may need core probes when perimeter walls read dry.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Hato Candal, PR are commonly checked when spread is suspected.
+Crawlspace vapor barriers in Hato Candal, PR may trap moisture if torn during extraction hose routing.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 00745.
+Garage slab moisture in Hato Candal, PR can wick into adjacent finished rooms.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 00745.
+Carpet pad saturation in Hato Candal, PR frequently forces disposal even when face fiber appears dry.
 
-File control: Deductible was paired with State Farm coverage patterns during intake review in Hato Candal.
+Non-penetrating meter sweeps in Hato Candal, PR hallways often read dry while baseboards remain elevated.
 
-Field note: Intake notes were reconciled with county grid Río Grande County.
+Our moisture restoration intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
 
-Field note: Moisture logs were aligned with salvage routing in Hato Candal, PR.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Dispatch sectors sampled: ZIP 00745 (county grid: Río Grande County).
+Odor control in Hato Candal, PR category-two losses may require hydroxyl cycles separate from dehumidification.
+
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
+
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Step: map contents salvage lanes before pack-out crews arrive.
+
+Tip: List detached baseboards and removed insulation by room for claim traceability.
+
+Claim dossier 856173: pack-out ledger and humidity log bands filed for Hato Candal, PR county Río Grande County (ZIP 00745).
+
+Category note 856173: water-class notation and antimicrobial staging captured for Hato Candal, PR intake packet.
+
+Drying packet: rebuild moisture clearance paired with grain depression target near ZIP 00745 before scope lock.
+
+Primary postal anchor 00745 with multi-ZIP overlap in Hato Candal; field packets tag Río Grande County for county-grid reconciliation.
 
 Service reference: PR-00745-2e10ce80

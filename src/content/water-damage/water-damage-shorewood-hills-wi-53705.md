@@ -12,30 +12,49 @@ lng: -89.4500
 zipSample: ["53791", "53705"]
 zipCodes: ["53791", "53705"]
 localPaths: ["Dane County / primary ZIP 53705", "Dane County / ZIP 53705 sector", "Dane County / ZIP 53791 sector", "Dane County / elevation 981 ft band", "Dane County / coords 43.0800, -89.4500"]
-zillowHomeValueUsd: 556652
 ---
 
 **Engineering Notice for Shorewood Hills:** structural drying capacity optimized for 981ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dane County. Relative Humidity Threshold: 75%. Sensor sync: Active.
 
 
-In Shorewood Hills, WI, water mitigation requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Regulatory note: Shorewood Hills, WI projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Shorewood Hills, WI must be dried before reconstruction is discussed.
+Technicians probe sill plates in Shorewood Hills, WI ranch layouts before declaring first-floor dry.
 
-Our intake team frames water mitigation jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Crawlspace vapor barriers in Shorewood Hills, WI may trap moisture if torn during extraction hose routing.
 
-FAQ: How fast should action start? In Shorewood Hills, WI, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Open a mitigation intake with drying targets and rebuild dependencies listed. County corridor Dane County.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 53705/53791.
+Step: map contents salvage lanes before pack-out crews arrive.
 
-Book a field review and request a written water mitigation scope before mitigation equipment is staged. Serving ZIP Code: 53705.
+Book salvage review before pack-out crews mobilize. Grid anchor 53705.
 
-Insurance note: reserve change notes and adjuster photo-log were flagged for the Shorewood Hills file.
+FAQ: When is delay costly? In Shorewood Hills, WI, extended damp periods expand demolition and mold-risk scope.
 
-Field note: Moisture logs were aligned with salvage routing in Shorewood Hills, WI.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Field note: Drying decisions were sequenced for ZIP sector 53705/53791.
+FAQ: Will insurance cover pack-out? Carrier language and photo standards vary in Shorewood Hills, WI markets.
 
-Dispatch sectors sampled: ZIP 53705, 53791 (county grid: Dane County).
+Plaster lathe ceilings in Shorewood Hills, WI pre-war homes hold moisture behind skim coats longer than drywall.
+
+Our water mitigation intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
+
+Request a written water mitigation scope with equipment list and target readings. Primary postal sector: 53705.
+
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
+
+Freeze-burst events in Shorewood Hills, WI often damage multiple wall bays before owners notice flow.
+
+Tip: Photograph ceiling stains with a ruler reference before tarping near ZIP 53705.
+
+Carrier sync 254490: depreciation worksheet lane and supplement language staged for ZIP 53705.
+
+Mitigation ledger 254490: moisture map grid, salvage lane tags, and drying day-count staged for Shorewood Hills, WI at 43.0800, -89.4500.
+
+Loss file: hardwood moisture strip plus flood cut elevation mark referenced in Dane County county review.
+
+Containment check: poly barrier seams photographed in Shorewood Hills, WI.
+
+On-site sector marker: Dane County / ZIP 53791 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-53705-45d1e8c0

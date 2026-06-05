@@ -12,28 +12,51 @@ lng: -80.5900
 zipSample: ["29067"]
 zipCodes: ["29067"]
 localPaths: ["Lancaster County / primary ZIP 29067", "Lancaster County / coords 34.5500, -80.5900", "Lancaster County / elevation 525 ft band", "Lancaster County / ZIP 29067 sector"]
-zillowHomeValueUsd: 187618
 ---
 
 **Engineering Notice for Kershaw:** structural drying capacity optimized for 525ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lancaster County. Relative Humidity Threshold: 77%. Sensor sync: Active.
 
 
-A disaster cleanup event in Kershaw, SC is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+About us: We prioritize measurable drying evidence over headline speed claims.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Kershaw, SC.
+Ceiling collapse risk in Kershaw, SC multi-family units rises when saturated insulation loads truss chords.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+We coordinate Kershaw, SC mitigation with written scope, equipment assumptions, and claim-facing notes.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Kershaw, SC.
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 29067.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 29067.
+Step: verify power availability for drying equipment before overnight runs.
 
-Insurance note: carrier supplement language and depreciation worksheet were flagged for the Kershaw file.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 29067.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Kershaw, SC.
+Step: document demolition justification with moisture meter readings.
 
-Dispatch sectors sampled: ZIP 29067 (county grid: Lancaster County).
+IICRC reference: structural dry standards in Kershaw, SC should be cited in scope documents.
+
+Confirm power load assumptions before overnight equipment runs. County corridor Lancaster County.
+
+Non-penetrating meter sweeps in Kershaw, SC hallways often read dry while baseboards remain elevated.
+
+Stairwell chase moisture in Kershaw, SC tri-level homes can lag main-floor readings by days.
+
+FAQ: When is hardwood salvage realistic in Kershaw, SC? Density, duration, and contamination class decide—not optimism.
+
+Step: map contents salvage lanes before pack-out crews arrive.
+
+Thermal imaging in Kershaw, SC is scheduled after surface readings plateau for two cycles.
+
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+File audit 320767: adjuster photo-set crosswalk and contents segregation reviewed for Kershaw, SC at 34.5500/-80.5900.
+
+Loss trace 320767: extraction velocity notes and demolition threshold markers keyed to Kershaw, SC elevation 525 ft.
+
+Loss file: pinless scan grid plus antimicrobial dwell clock referenced in Lancaster County county review.
+
+Drying goal: structural targets aligned with Lancaster County elevation mesh.
+
+**Regional Infrastructure Brief:** Grid anchor set to Lancaster County. Reference elevation: 525 ft. Primary coordinates: 34.5500, -80.5900. ZIP sample: 29067. Logistics priority: Serving residential sectors across Lancaster County and north-east ZIP 29067 grid.
 
 Service reference: SC-29067-56f7bf69

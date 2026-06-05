@@ -12,30 +12,45 @@ lng: -81.5600
 zipSample: ["31313"]
 zipCodes: ["31313"]
 localPaths: ["Liberty County / primary ZIP 31313", "Liberty County / coords 31.8500, -81.5600", "Liberty County / ZIP 31313 sector", "Liberty County / elevation 59 ft band"]
-zillowHomeValueUsd: 236340
 ---
 
 **Engineering Notice for Flemington:** structural drying capacity optimized for 59ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Liberty County. Relative Humidity Threshold: 68%. Sensor sync: Active.
 
 
-In Flemington, GA, flood recovery requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Plaster lathe ceilings in Flemington, GA pre-war homes hold moisture behind skim coats longer than drywall.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Flemington, GA must be dried before reconstruction is discussed.
+Book salvage review before pack-out crews mobilize. Grid anchor 31313.
 
-Our intake team frames flood recovery jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Tip: Log refrigerator line shutoffs before moving units in Flemington, GA kitchen losses.
 
-FAQ: How fast should action start? In Flemington, GA, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Sump overflow in Flemington, GA can masquerade as foundation infiltration.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 31313.
+Risk flag: Flemington, GA slab-on-grade homes may need core probes when perimeter walls read dry.
 
-Book a field review and request a written flood recovery scope before mitigation equipment is staged. Serving ZIP Code: 31313.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Claim marker: coverage threshold marker was logged beside State Farm coverage patterns near ZIP 31313.
+Technicians stage HEPA scrubbers before containment zip doors in Flemington, GA kitchen losses.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Flemington, GA.
+Elevated crawlspaces in Flemington, GA require vapor-retarder service before dehumidifier sizing.
 
-Field note: Equipment day-counts were reviewed around ZIP 31313.
+Risk flag: In Flemington, GA, delayed pack-out can swell cabinetry beyond salvage.
 
-Dispatch sectors sampled: ZIP 31313 (county grid: Liberty County).
+Radiant floor loops in Flemington, GA slab homes need isolated zones before jack-hammer exploration.
+
+Step: reconcile carrier photo requirements before tear-out in Flemington, GA.
+
+Desiccant dehumidifier sizing in Flemington, GA commercial zones differs from LGR residential defaults.
+
+Across Flemington, GA, standing water duration drives salvage-versus-remove decisions within hours.
+
+FAQ: Why isolate rooms? Containment concentrates dehumidification and protects unaffected areas.
+
+Mitigation ledger 239208: moisture map grid, salvage lane tags, and drying day-count staged for Flemington, GA at 31.8500, -81.5600.
+
+Carrier sync 239208: depreciation worksheet lane and supplement language staged for ZIP 31313.
+
+Drying packet: desiccant rotor hour paired with pinless scan grid near ZIP 31313 before scope lock.
+
+On-site sector marker: Liberty County / ZIP 31313 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-31313-b94e334c

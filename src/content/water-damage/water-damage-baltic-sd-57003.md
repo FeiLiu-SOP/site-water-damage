@@ -12,28 +12,51 @@ lng: -96.7400
 zipSample: ["57003"]
 zipCodes: ["57003"]
 localPaths: ["Minnehaha County / coords 43.7600, -96.7400", "Minnehaha County / primary ZIP 57003", "Minnehaha County / elevation 1499 ft band", "Minnehaha County / ZIP 57003 sector"]
-zillowHomeValueUsd: 353477
 ---
 
 **Engineering Notice for Baltic:** structural drying capacity optimized for 1499ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Minnehaha County. Relative Humidity Threshold: 84%. Sensor sync: Active.
 
 
-When water mitigation cases are reviewed in Baltic, SD, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Step: document demolition justification with moisture meter readings.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Baltic, SD.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 57003.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Non-penetrating meter sweeps in Baltic, SD hallways often read dry while baseboards remain elevated.
 
-FAQ: Is every wet material removed immediately? Not always. In Baltic, SD, some assemblies are monitored through readings before invasive removal is approved.
+Odor control in Baltic, SD category-two losses may require hydroxyl cycles separate from dehumidification.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 57003.
+Request a written water mitigation scope with equipment list and target readings. Primary postal sector: 57003.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 57003.
+Garage-to-house air barriers in Baltic, SD ranch plans affect drying chamber boundaries.
 
-File control: scope authorization code was paired with Deductible during intake review in Baltic.
+Built-in bookcase cavities in Baltic, SD trap humidity behind fixed shelving.
 
-Field note: Drying decisions were sequenced for ZIP sector 57003.
+Basement seepage in Baltic, SD may track foundation cracks rather than appliance failures.
 
-Dispatch sectors sampled: ZIP 57003 (county grid: Minnehaha County).
+Sump overflow in Baltic, SD can masquerade as foundation infiltration.
+
+Risk flag: Baltic, SD slab-on-grade homes may need core probes when perimeter walls read dry.
+
+Stairwell chase moisture in Baltic, SD tri-level homes can lag main-floor readings by days.
+
+IICRC reference: structural dry standards in Baltic, SD should be cited in scope documents.
+
+Crawlspace vapor barriers in Baltic, SD may trap moisture if torn during extraction hose routing.
+
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
+
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+Category note 454948: water-class notation and antimicrobial staging captured for Baltic, SD intake packet.
+
+Loss trace 454948: extraction velocity notes and demolition threshold markers keyed to Baltic, SD elevation 1499 ft.
+
+Loss file: desiccant rotor hour plus rebuild moisture clearance referenced in Minnehaha County county review.
+
+Antimicrobial dwell: label minutes verified in Baltic, SD loss zone.
+
+ZIP-corridor snapshot for Baltic, SD: sampled sectors include 57003; county routing grid remains Minnehaha County.
 
 Service reference: SD-57003-b2f69731

@@ -12,30 +12,47 @@ lng: -75.5200
 zipSample: ["19901"]
 zipCodes: ["19901"]
 localPaths: ["Kent County / coords 39.1300, -75.5200", "Kent County / ZIP 19901 sector", "Kent County / primary ZIP 19901", "Kent County / elevation 46 ft band"]
-zillowHomeValueUsd: 330654
 ---
 
 **Engineering Notice for Kent Acres:** structural drying capacity optimized for 46ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kent County. Relative Humidity Threshold: 82%. Sensor sync: Active.
 
 
-A property drying event in Kent Acres, DE is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Plaster lathe ceilings in Kent Acres, DE pre-war homes hold moisture behind skim coats longer than drywall.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Kent Acres, DE.
+Subfloor cupping in Kent Acres, DE can lag source-stop by several drying days.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Kent Acres, DE.
+Sump overflow in Kent Acres, DE can masquerade as foundation infiltration.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 19901.
+Risk flag: Kent Acres, DE slab-on-grade homes may need core probes when perimeter walls read dry.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 19901.
+Tip: Save adjuster emails in one folder before calling back.
 
-File control: scope authorization code was paired with Farmers routing language during intake review in Kent Acres.
+Category-two losses in Kent Acres, DE require antimicrobial staging decisions before rebuild quotes.
 
-Field note: Moisture logs were aligned with salvage routing in Kent Acres, DE.
+Across Kent Acres, DE, standing water duration drives salvage-versus-remove decisions within hours.
 
-Field note: Intake notes were reconciled with county grid Kent County.
+Townhome party walls in Kent Acres, DE can transfer vapor across unit lines during shared losses.
 
-Dispatch sectors sampled: ZIP 19901 (county grid: Kent County).
+Built-in bookcase cavities in Kent Acres, DE trap humidity behind fixed shelving.
+
+Schedule extraction and drying as separate documented phases. File routing near 19901.
+
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
+
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
+
+Step: verify power availability for drying equipment before overnight runs.
+
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Claim dossier 985014: pack-out ledger and humidity log bands filed for Kent Acres, DE county Kent County (ZIP 19901).
+
+Equipment roster 985014: dehumidifier hour-meter and air-mover placement queued before Kent Acres, DE scope sign-off.
+
+Drying packet: pinless scan grid paired with containment zipper door near ZIP 19901 before scope lock.
+
+On-site sector marker: Kent County / elevation 46 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: DE-19901-2dc45d98

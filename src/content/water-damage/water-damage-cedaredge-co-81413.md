@@ -12,30 +12,45 @@ lng: -107.9300
 zipSample: ["81413"]
 zipCodes: ["81413"]
 localPaths: ["Delta County / ZIP 81413 sector", "Delta County / coords 38.8900, -107.9300", "Delta County / elevation 6175 ft band", "Delta County / primary ZIP 81413"]
-zillowHomeValueUsd: 425121
 ---
 
 **Engineering Notice for Cedaredge:** structural drying capacity optimized for 6175ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Delta County. Relative Humidity Threshold: 84%. Sensor sync: Active.
 
 
-In Cedaredge, CO, flood restoration requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Step: log humidity and temperature readings at 24-hour intervals.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Cedaredge, CO must be dried before reconstruction is discussed.
+Step: label removed materials for disposal manifests and claim packets.
 
-Our intake team frames flood restoration jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+About us: We prioritize measurable drying evidence over headline speed claims.
 
-FAQ: How fast should action start? In Cedaredge, CO, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Non-penetrating meter sweeps in Cedaredge, CO hallways often read dry while baseboards remain elevated.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 81413.
+Request a written flood restoration scope with equipment list and target readings. Primary postal sector: 81413.
 
-Book a field review and request a written flood restoration scope before mitigation equipment is staged. Serving ZIP Code: 81413.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-File control: reserve change notes was paired with Deductible during intake review in Cedaredge.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Field note: Equipment day-counts were reviewed around ZIP 81413.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Field note: Drying decisions were sequenced for ZIP sector 81413.
+Desiccant dehumidifier sizing in Cedaredge, CO commercial zones differs from LGR residential defaults.
 
-Dispatch sectors sampled: ZIP 81413 (county grid: Delta County).
+Risk flag: In Cedaredge, CO, delayed pack-out can swell cabinetry beyond salvage.
+
+Material note: Insulation R-value targets in Cedaredge, CO should match pre-loss assemblies when documented.
+
+Garage slab moisture in Cedaredge, CO can wick into adjacent finished rooms.
+
+FAQ: When is hardwood salvage realistic in Cedaredge, CO? Density, duration, and contamination class decide—not optimism.
+
+Attic staining in Cedaredge, CO may follow HVAC condensate rather than roof breaches.
+
+Mitigation ledger 203809: moisture map grid, salvage lane tags, and drying day-count staged for Cedaredge, CO at 38.8900, -107.9300.
+
+Equipment roster 203809: dehumidifier hour-meter and air-mover placement queued before Cedaredge, CO scope sign-off.
+
+Loss file: demolition salvage tag plus negative air machine manometer referenced in Delta County county review.
+
+On-site sector marker: Delta County / ZIP 81413 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-81413-2864e6ab

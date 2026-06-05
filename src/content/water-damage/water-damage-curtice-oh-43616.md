@@ -12,30 +12,47 @@ lng: -83.3700
 zipSample: ["43616", "43412"]
 zipCodes: ["43616", "43412"]
 localPaths: ["Ottawa County / primary ZIP 43616", "Ottawa County / elevation 594 ft band", "Ottawa County / ZIP 43412 sector", "Ottawa County / ZIP 43616 sector", "Ottawa County / coords 41.6200, -83.3700"]
-zillowHomeValueUsd: 227429
 ---
 
 **Engineering Notice for Curtice:** structural drying capacity optimized for 594ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ottawa County. Relative Humidity Threshold: 82%. Sensor sync: Active.
 
 
-A property drying event in Curtice, OH is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Curtice, OH.
+Step: photograph standing water and material edges before extraction.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Step: label removed materials for disposal manifests and claim packets.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Curtice, OH.
+Open a mitigation intake with drying targets and rebuild dependencies listed. County corridor Ottawa County.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 43616/43412.
+Technicians probe sill plates in Curtice, OH ranch layouts before declaring first-floor dry.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 43616.
+Built-in bookcase cavities in Curtice, OH trap humidity behind fixed shelving.
 
-Claim marker: recoverable depreciation was logged beside adjuster photo-log near ZIP 43616.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Field note: Equipment day-counts were reviewed around ZIP 43616/43412.
+Plaster lathe ceilings in Curtice, OH pre-war homes hold moisture behind skim coats longer than drywall.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Curtice, OH.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Dispatch sectors sampled: ZIP 43616, 43412 (county grid: Ottawa County).
+Elevated crawlspaces in Curtice, OH require vapor-retarder remediation before dehumidifier sizing.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Ceiling collapse risk in Curtice, OH multi-family units rises when saturated insulation loads truss chords.
+
+FAQ: What slows insurance review? Incomplete photo logs and missing moisture maps commonly delay Curtice, OH files.
+
+Cabinet toe-kick voids in Curtice, OH are common hidden moisture reservoirs.
+
+Sump overflow in Curtice, OH can masquerade as foundation infiltration.
+
+Mitigation ledger 785408: moisture map grid, salvage lane tags, and drying day-count staged for Curtice, OH at 41.6200, -83.3700.
+
+Category note 785408: water-class notation and antimicrobial staging captured for Curtice, OH intake packet.
+
+Mitigation trace: LGR condensate yield, equilibrium moisture content, and desiccant rotor hour cross-indexed for Curtice intake.
+
+Coordinate-anchored dispatch note: center reference 41.6200, -83.3700 at elevation ~594 ft aligns with Ottawa County intake staging.
 
 Service reference: OH-43616-81caaef5

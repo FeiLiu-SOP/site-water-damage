@@ -12,30 +12,47 @@ lng: -113.9400
 zipSample: ["59802"]
 zipCodes: ["59802"]
 localPaths: ["Missoula County / elevation 3219 ft band", "Missoula County / ZIP 59802 sector", "Missoula County / coords 46.8800, -113.9400", "Missoula County / primary ZIP 59802"]
-zillowHomeValueUsd: 551963
 ---
 
 **Engineering Notice for East Missoula:** structural drying capacity optimized for 3219ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Missoula County. Relative Humidity Threshold: 79%. Sensor sync: Active.
 
 
-Property owners in East Missoula, MT may see a storm cleanup event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Risk flag: East Missoula, MT slab-on-grade homes may need core probes when perimeter walls read dry.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for East Missoula, MT.
+Subfloor cupping in East Missoula, MT can lag source-stop by several drying days.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Built-in bookcase cavities in East Missoula, MT trap humidity behind fixed shelving.
 
-FAQ: What slows recovery most? In East Missoula, MT, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Tip: Save expert notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 59802.
+Non-penetrating meter sweeps in East Missoula, MT hallways often read dry while baseboards remain elevated.
 
-Ask for a room-by-room storm cleanup outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 59802.
+Odor control in East Missoula, MT category-two losses may require hydroxyl cycles separate from dehumidification.
 
-File control: scope authorization code was paired with Allstate loss review during intake review in East Missoula.
+FAQ: How fast should mitigation start? In East Missoula, MT, extended damp periods expand demolition and mold-risk scope.
 
-Field note: Drying decisions were sequenced for ZIP sector 59802.
+We coordinate East Missoula, MT mitigation with written scope, equipment assumptions, and claim-facing notes.
 
-Field note: Moisture logs were aligned with salvage routing in East Missoula, MT.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Dispatch sectors sampled: ZIP 59802 (county grid: Missoula County).
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+Technicians probe sill plates in East Missoula, MT ranch layouts before declaring first-floor dry.
+
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+Material note: Insulation R-value targets in East Missoula, MT should match pre-loss assemblies when documented.
+
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Schedule extraction and drying as separate documented phases. File routing near 59802.
+
+File audit 621417: adjuster photo-set crosswalk and contents segregation reviewed for East Missoula, MT at 46.8800/-113.9400.
+
+Loss trace 621417: extraction velocity notes and demolition threshold markers keyed to East Missoula, MT elevation 3219 ft.
+
+Mitigation trace: flood cut elevation mark, pinless scan grid, and LGR condensate yield cross-indexed for East Missoula intake.
+
+On-site sector marker: Missoula County / ZIP 59802 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MT-59802-956535d7

@@ -12,28 +12,49 @@ lng: -81.3200
 zipSample: ["25126", "25136"]
 zipCodes: ["25126", "25136"]
 localPaths: ["Fayette County / ZIP 25126 sector", "Fayette County / ZIP 25136 sector", "Fayette County / coords 38.1700, -81.3200", "Fayette County / elevation 1355 ft band", "Fayette County / primary ZIP 25136"]
-zillowHomeValueUsd: 77659
 ---
 
 **Engineering Notice for Montgomery:** structural drying capacity optimized for 1355ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fayette County. Relative Humidity Threshold: 73%. Sensor sync: Active.
 
 
-When emergency dry-out cases are reviewed in Montgomery, WV, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Montgomery, WV.
+Plaster lathe ceilings in Montgomery, WV pre-war homes hold moisture behind skim coats longer than drywall.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
 
-FAQ: Is every wet material removed immediately? Not always. In Montgomery, WV, some assemblies are monitored through readings before invasive removal is approved.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 25136/25126.
+Ceiling collapse risk in Montgomery, WV multi-family units rises when saturated insulation loads truss chords.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 25136.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-File control: mitigation invoice sequencing was paired with Allstate loss review during intake review in Montgomery.
+Regulatory note: Montgomery, WV projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
 
-Field note: Equipment day-counts were reviewed around ZIP 25136/25126.
+Townhome party walls in Montgomery, WV can transfer vapor across unit lines during shared losses.
 
-Dispatch sectors sampled: ZIP 25136, 25126 (county grid: Fayette County).
+Risk flag: In Montgomery, WV, delayed pack-out can swell cabinetry beyond salvage.
+
+Thermal imaging in Montgomery, WV is scheduled after surface readings plateau for two cycles.
+
+Dispatch packets for Montgomery, WV reference county grid Fayette County and elevation band 1355 ft.
+
+Tip: Log refrigerator line shutoffs before moving units in Montgomery, WV kitchen losses.
+
+Elevated crawlspaces in Montgomery, WV require vapor-retarder restoration before dehumidifier sizing.
+
+Technicians stage HEPA scrubbers before containment zip doors in Montgomery, WV kitchen losses.
+
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+Desiccant dehumidifier sizing in Montgomery, WV commercial zones differs from LGR residential defaults.
+
+Mitigation ledger 110876: moisture map grid, salvage lane tags, and drying day-count staged for Montgomery, WV at 38.1700, -81.3200.
+
+Containment dossier 110876: poly barrier seams and HEPA scrubber hours keyed to Montgomery, WV grid Fayette County.
+
+Mitigation trace: pack-out chain-of-custody, rebuild moisture clearance, and pinless scan grid cross-indexed for Montgomery intake.
+
+On-site sector marker: Fayette County / primary ZIP 25136 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WV-25136-24f52ee5

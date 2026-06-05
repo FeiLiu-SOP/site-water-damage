@@ -12,30 +12,49 @@ lng: -73.9800
 zipSample: ["10928", "10922"]
 zipCodes: ["10922", "10928"]
 localPaths: ["Orange County / ZIP 10922 sector", "Orange County / coords 41.3400, -73.9800", "Orange County / primary ZIP 10922", "Orange County / ZIP 10928 sector", "Orange County / elevation 548 ft band"]
-zillowHomeValueUsd: 450560
 ---
 
 **Engineering Notice for Fort Montgomery:** structural drying capacity optimized for 548ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Orange County. Relative Humidity Threshold: 72%. Sensor sync: Active.
 
 
-A moisture restoration event in Fort Montgomery, NY is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Fort Montgomery, NY.
+Across Fort Montgomery, NY, standing water duration drives salvage-versus-remove decisions within hours.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Fort Montgomery, NY.
+Confirm power load assumptions before overnight equipment runs. County corridor Orange County.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 10928/10922.
+Built-in bookcase cavities in Fort Montgomery, NY trap humidity behind fixed shelving.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 10922.
+FAQ: Will insurance cover pack-out? Carrier language and photo standards vary in Fort Montgomery, NY markets.
 
-File control: USAA property-loss packet was paired with mitigation invoice sequencing during intake review in Fort Montgomery.
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
 
-Field note: Intake notes were reconciled with county grid Orange County.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-Field note: Moisture logs were aligned with salvage routing in Fort Montgomery, NY.
+IICRC reference: structural dry standards in Fort Montgomery, NY should be cited in scope documents.
 
-Dispatch sectors sampled: ZIP 10928, 10922 (county grid: Orange County).
+Risk flag: Fort Montgomery, NY slab-on-grade homes may need core probes when perimeter walls read dry.
+
+Plaster lathe ceilings in Fort Montgomery, NY pre-war homes hold moisture behind skim coats longer than drywall.
+
+Tip: Log refrigerator line shutoffs before moving units in Fort Montgomery, NY kitchen losses.
+
+Risk flag: Incomplete claim packets in Fort Montgomery, NY often force duplicate site visits.
+
+Regulatory note: Fort Montgomery, NY projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+FAQ: Why isolate rooms? Containment concentrates dehumidification and protects unaffected areas.
+
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+Loss trace 819681: extraction velocity notes and demolition threshold markers keyed to Fort Montgomery, NY elevation 548 ft.
+
+Recovery map 819681: structural drying targets and rebuild handoff flags logged for Fort Montgomery, NY postal sector 10922.
+
+Mitigation trace: LGR condensate yield, vapor pressure differential, and subfloor MC probe cross-indexed for Fort Montgomery intake.
+
+Coordinate-anchored dispatch note: center reference 41.3400, -73.9800 at elevation ~548 ft aligns with Orange County intake staging.
 
 Service reference: NY-10922-de13eecf

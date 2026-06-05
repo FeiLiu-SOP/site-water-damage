@@ -12,30 +12,47 @@ lng: -85.8700
 zipSample: ["35961"]
 zipCodes: ["35961"]
 localPaths: ["DeKalb County / primary ZIP 35961", "DeKalb County / coords 34.2700, -85.8700", "DeKalb County / ZIP 35961 sector", "DeKalb County / elevation 846 ft band"]
-zillowHomeValueUsd: 197282
 ---
 
 **Engineering Notice for Collinsville:** structural drying capacity optimized for 846ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: DeKalb County. Relative Humidity Threshold: 82%. Sensor sync: Active.
 
 
-A water loss recovery event in Collinsville, AL is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Collinsville, AL.
+Multi-story Collinsville, AL losses need vertical moisture migration checks on lower levels.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Risk flag: Collinsville, AL slab-on-grade homes may need core probes when perimeter walls read dry.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Collinsville, AL.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 35961.
+Townhome party walls in Collinsville, AL can transfer vapor across unit lines during shared losses.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 35961.
+Tip: Log refrigerator line shutoffs before moving units in Collinsville, AL kitchen losses.
 
-Claim marker: mitigation invoice sequencing was logged beside State Farm coverage patterns near ZIP 35961.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Field note: Drying decisions were sequenced for ZIP sector 35961.
+Step: log humidity and temperature readings at 24-hour intervals.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Collinsville, AL.
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
 
-Dispatch sectors sampled: ZIP 35961 (county grid: DeKalb County).
+Technicians probe sill plates in Collinsville, AL ranch layouts before declaring first-floor dry.
+
+Schedule extraction and drying as separate documented phases. File routing near 35961.
+
+Risk flag: Incomplete claim packets in Collinsville, AL often force duplicate site visits.
+
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
+
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
+
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+Claim dossier 859419: pack-out ledger and humidity log bands filed for Collinsville, AL county DeKalb County (ZIP 35961).
+
+Containment dossier 859419: poly barrier seams and HEPA scrubber hours keyed to Collinsville, AL grid DeKalb County.
+
+Mitigation trace: category-three PPE log, negative air machine manometer, and wall cavity vent hole cross-indexed for Collinsville intake.
+
+On-site sector marker: DeKalb County / primary ZIP 35961 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35961-8cd73b98

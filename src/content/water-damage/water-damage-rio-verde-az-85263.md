@@ -12,30 +12,49 @@ lng: -111.6700
 zipSample: ["85263"]
 zipCodes: ["85263"]
 localPaths: ["Maricopa County / ZIP 85263 sector", "Maricopa County / coords 33.7300, -111.6700", "Maricopa County / elevation 1608 ft band", "Maricopa County / primary ZIP 85263"]
-zillowHomeValueUsd: 841910
 ---
 
 **Engineering Notice for Rio Verde:** structural drying capacity optimized for 1608ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Maricopa County. Relative Humidity Threshold: 76%. Sensor sync: Active.
 
 
-In Rio Verde, AZ, storm cleanup requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Thermal imaging in Rio Verde, AZ is scheduled after surface readings plateau for two cycles.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Rio Verde, AZ must be dried before reconstruction is discussed.
+IICRC reference: structural dry standards in Rio Verde, AZ should be cited in scope documents.
 
-Our intake team frames storm cleanup jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Crawlspace vapor barriers in Rio Verde, AZ may trap moisture if torn during extraction hose routing.
 
-FAQ: How fast should action start? In Rio Verde, AZ, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Contents pack-out in Rio Verde, AZ should be photographed before movement off-site.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 85263.
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
 
-Book a field review and request a written storm cleanup scope before mitigation equipment is staged. Serving ZIP Code: 85263.
+Schedule extraction and drying as separate documented phases. File routing near 85263.
 
-Coverage brief: pack-out ledger can change how water category notation is documented before scheduling.
+Built-in bookcase cavities in Rio Verde, AZ trap humidity behind fixed shelving.
 
-Field note: Moisture logs were aligned with salvage routing in Rio Verde, AZ.
+Step: separate emergency extraction from structural drying line items.
 
-Field note: Equipment day-counts were reviewed around ZIP 85263.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Dispatch sectors sampled: ZIP 85263 (county grid: Maricopa County).
+Regulatory note: Rio Verde, AZ projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+Tip: Date-stamp moisture maps when adjusters request progress updates near 85263.
+
+Step: label removed materials for disposal manifests and claim packets.
+
+Dispatch packets for Rio Verde, AZ reference county grid Maricopa County and elevation band 1608 ft.
+
+Our storm cleanup intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
+
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
+
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Equipment roster 277928: dehumidifier hour-meter and air-mover placement queued before Rio Verde, AZ scope sign-off.
+
+Mitigation ledger 277928: moisture map grid, salvage lane tags, and drying day-count staged for Rio Verde, AZ at 33.7300, -111.6700.
+
+Drying packet: desiccant rotor hour paired with hardwood moisture strip near ZIP 85263 before scope lock.
+
+On-site sector marker: Maricopa County / coords 33.7300, -111.6700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85263-99685785

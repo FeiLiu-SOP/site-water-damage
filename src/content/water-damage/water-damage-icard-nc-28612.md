@@ -12,30 +12,45 @@ lng: -81.4600
 zipSample: ["28666", "28612", "28602"]
 zipCodes: ["28666", "28612", "28602"]
 localPaths: ["Burke County / elevation 1148 ft band", "Burke County / ZIP 28666 sector", "Burke County / primary ZIP 28612", "Burke County / ZIP 28612 sector", "Burke County / coords 35.7300, -81.4600"]
-zillowHomeValueUsd: 237896
 ---
 
 **Engineering Notice for Icard:** structural drying capacity optimized for 1148ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Burke County. Relative Humidity Threshold: 75%. Sensor sync: Active.
 
 
-Across Icard, NC, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Step: separate emergency extraction from structural drying line items.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the water mitigation file.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-Water Mitigation coordination in Icard, NC is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Icard, NC are commonly checked when spread is suspected.
+Across Icard, NC, standing water duration drives salvage-versus-remove decisions within hours.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 28612/28602/28666.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 28612.
+Open a mitigation intake with drying targets and rebuild dependencies listed. County corridor Burke County.
 
-Coverage brief: Liberty Mutual mitigation notes can change how reserve change notes is documented before scheduling.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Field note: Equipment day-counts were reviewed around ZIP 28612/28602/28666.
+Desiccant dehumidifier sizing in Icard, NC commercial zones differs from LGR residential defaults.
 
-Field note: Moisture logs were aligned with salvage routing in Icard, NC.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Dispatch sectors sampled: ZIP 28612, 28602, 28666 (county grid: Burke County).
+Tip: Photograph ceiling stains with a ruler reference before tarping near ZIP 28612.
+
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+Non-penetrating meter sweeps in Icard, NC hallways often read dry while baseboards remain elevated.
+
+FAQ: When is hardwood salvage realistic in Icard, NC? Density, duration, and contamination class decide—not optimism.
+
+We coordinate Icard, NC mitigation with written scope, equipment assumptions, and claim-facing notes.
+
+Containment dossier 927085: poly barrier seams and HEPA scrubber hours keyed to Icard, NC grid Burke County.
+
+Claim dossier 927085: pack-out ledger and humidity log bands filed for Icard, NC county Burke County (ZIP 28612).
+
+Loss file: structural dry standard plus negative air machine manometer referenced in Burke County county review.
+
+Primary postal anchor 28612 with multi-ZIP overlap in Icard; field packets tag Burke County for county-grid reconciliation.
 
 Service reference: NC-28612-42c0dc3b

@@ -12,30 +12,45 @@ lng: -82.3700
 zipSample: ["29687", "29690"]
 zipCodes: ["29687", "29690"]
 localPaths: ["Greenville County / primary ZIP 29690", "Greenville County / coords 35.0700, -82.3700", "Greenville County / elevation 1017 ft band", "Greenville County / ZIP 29687 sector", "Greenville County / ZIP 29690 sector"]
-zillowHomeValueUsd: 353053
 ---
 
 **Engineering Notice for Tigerville:** structural drying capacity optimized for 1017ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Greenville County. Relative Humidity Threshold: 79%. Sensor sync: Active.
 
 
-Property owners in Tigerville, SC may see a disaster cleanup event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Tip: Log refrigerator line shutoffs before moving units in Tigerville, SC kitchen losses.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Tigerville, SC.
+IICRC reference: structural dry standards in Tigerville, SC should be cited in scope documents.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+FAQ: How fast should mitigation start? In Tigerville, SC, extended damp periods expand demolition and mold-risk scope.
 
-FAQ: What slows recovery most? In Tigerville, SC, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Schedule extraction and drying as separate documented phases. File routing near 29690.
 
-Tip: Save local team notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 29687/29690.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Ask for a room-by-room disaster cleanup outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 29690.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-File control: USAA property-loss packet was paired with Claim filing codes during intake review in Tigerville.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Field note: Equipment day-counts were reviewed around ZIP 29687/29690.
+Plaster lathe ceilings in Tigerville, SC pre-war homes hold moisture behind skim coats longer than drywall.
 
-Field note: Drying decisions were sequenced for ZIP sector 29687/29690.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Dispatch sectors sampled: ZIP 29687, 29690 (county grid: Greenville County).
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
+
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
+
+Multi-story Tigerville, SC losses need vertical moisture migration checks on lower levels.
+
+Sump overflow in Tigerville, SC can masquerade as foundation infiltration.
+
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
+
+Recovery map 960201: structural drying targets and rebuild handoff flags logged for Tigerville, SC postal sector 29690.
+
+File audit 960201: adjuster photo-set crosswalk and contents segregation reviewed for Tigerville, SC at 35.0700/-82.3700.
+
+Loss file: subfloor MC probe plus demolition salvage tag referenced in Greenville County county review.
+
+Primary postal anchor 29690 with multi-ZIP overlap in Tigerville; field packets tag Greenville County for county-grid reconciliation.
 
 Service reference: SC-29690-43fdf7d7

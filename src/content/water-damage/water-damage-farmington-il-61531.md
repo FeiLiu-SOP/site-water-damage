@@ -12,30 +12,45 @@ lng: -90.0000
 zipSample: ["61531"]
 zipCodes: ["61531"]
 localPaths: ["Fulton County / coords 40.7000, -90.0000", "Fulton County / elevation 741 ft band", "Fulton County / primary ZIP 61531", "Fulton County / ZIP 61531 sector"]
-zillowHomeValueUsd: 113592
 ---
 
 **Engineering Notice for Farmington:** structural drying capacity optimized for 741ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fulton County. Relative Humidity Threshold: 84%. Sensor sync: Active.
 
 
-A moisture restoration event in Farmington, IL is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Elevated crawlspaces in Farmington, IL require vapor-retarder restoration before dehumidifier sizing.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Farmington, IL.
+Radiant floor loops in Farmington, IL slab homes need isolated zones before jack-hammer exploration.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+In Farmington, IL, moisture restoration calls often start with moisture mapping before demolition is discussed.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Farmington, IL.
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 61531.
+FAQ: How fast should mitigation start? In Farmington, IL, extended damp periods expand demolition and mold-risk scope.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 61531.
+Book salvage review before pack-out crews mobilize. Grid anchor 61531.
 
-Insurance note: loss diary entry and recoverable depreciation were flagged for the Farmington file.
+Risk flag: In Farmington, IL, delayed pack-out can swell cabinetry beyond salvage.
 
-Field note: Equipment day-counts were reviewed around ZIP 61531.
+Tip: Photograph ceiling stains with a ruler reference before tarping near ZIP 61531.
 
-Field note: Drying decisions were sequenced for ZIP sector 61531.
+Carpet pad saturation in Farmington, IL frequently forces disposal even when face fiber appears dry.
 
-Dispatch sectors sampled: ZIP 61531 (county grid: Fulton County).
+Multi-story Farmington, IL losses need vertical moisture migration checks on lower levels.
+
+Attic staining in Farmington, IL may follow HVAC condensate rather than roof breaches.
+
+Plaster lathe ceilings in Farmington, IL pre-war homes hold moisture behind skim coats longer than drywall.
+
+Odor control in Farmington, IL category-two losses may require hydroxyl cycles separate from dehumidification.
+
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
+
+Containment dossier 627186: poly barrier seams and HEPA scrubber hours keyed to Farmington, IL grid Fulton County.
+
+Equipment roster 627186: dehumidifier hour-meter and air-mover placement queued before Farmington, IL scope sign-off.
+
+Drying packet: pinless scan grid paired with containment zipper door near ZIP 61531 before scope lock.
+
+Coordinate-anchored dispatch note: center reference 40.7000, -90.0000 at elevation ~741 ft aligns with Fulton County intake staging.
 
 Service reference: IL-61531-f677db93

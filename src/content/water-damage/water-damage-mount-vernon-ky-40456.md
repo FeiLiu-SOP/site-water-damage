@@ -12,30 +12,49 @@ lng: -84.3400
 zipSample: ["40456", "40473"]
 zipCodes: ["40473", "40456"]
 localPaths: ["Rockcastle County / elevation 1247 ft band", "Rockcastle County / ZIP 40473 sector", "Rockcastle County / coords 37.3700, -84.3400", "Rockcastle County / ZIP 40456 sector", "Rockcastle County / primary ZIP 40456"]
-zillowHomeValueUsd: 150025
 ---
 
 **Engineering Notice for Mount Vernon:** structural drying capacity optimized for 1247ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rockcastle County. Relative Humidity Threshold: 71%. Sensor sync: Active.
 
 
-A flood restoration event in Mount Vernon, KY is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Mount Vernon, KY.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Mount Vernon, KY.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 40473/40456.
+Book salvage review before pack-out crews mobilize. Grid anchor 40456.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 40456.
+Garage-to-house air barriers in Mount Vernon, KY ranch plans affect drying chamber boundaries.
 
-Insurance note: Allstate loss review and adjuster photo-log were flagged for the Mount Vernon file.
+Non-penetrating meter sweeps in Mount Vernon, KY hallways often read dry while baseboards remain elevated.
 
-Field note: Intake notes were reconciled with county grid Rockcastle County.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Field note: Drying decisions were sequenced for ZIP sector 40473/40456.
+Risk flag: In Mount Vernon, KY, delayed pack-out can swell cabinetry beyond salvage.
 
-Dispatch sectors sampled: ZIP 40473, 40456 (county grid: Rockcastle County).
+Ask for claim-facing photo standards before work begins. File routing near 40456.
+
+Step: separate emergency extraction from structural drying line items.
+
+Odor control in Mount Vernon, KY category-two losses may require hydroxyl cycles separate from dehumidification.
+
+Basement seepage in Mount Vernon, KY may track foundation cracks rather than appliance failures.
+
+Freeze-burst events in Mount Vernon, KY often damage multiple wall bays before owners notice flow.
+
+Material note: Insulation R-value targets in Mount Vernon, KY should match pre-loss assemblies when documented.
+
+Step: log humidity and temperature readings at 24-hour intervals.
+
+File audit 742253: adjuster photo-set crosswalk and contents segregation reviewed for Mount Vernon, KY at 37.3700/-84.3400.
+
+Equipment roster 742253: dehumidifier hour-meter and air-mover placement queued before Mount Vernon, KY scope sign-off.
+
+Loss file: ceiling cavity bore scope plus rebuild moisture clearance referenced in Rockcastle County county review.
+
+On-site sector marker: Rockcastle County / elevation 1247 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-40456-021f7c34

@@ -12,30 +12,51 @@ lng: -96.8000
 zipSample: ["77968"]
 zipCodes: ["77968"]
 localPaths: ["Victoria County / ZIP 77968 sector", "Victoria County / elevation 69 ft band", "Victoria County / primary ZIP 77968", "Victoria County / coords 28.8700, -96.8000"]
-zillowHomeValueUsd: 363236
 ---
 
 **Engineering Notice for Inez:** structural drying capacity optimized for 69ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Victoria County. Relative Humidity Threshold: 83%. Sensor sync: Active.
 
 
-In Inez, TX, water loss recovery requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Inez, TX must be dried before reconstruction is discussed.
+Elevated crawlspaces in Inez, TX require vapor-retarder remediation before dehumidifier sizing.
 
-Our intake team frames water loss recovery jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Technicians stage HEPA scrubbers before containment zip doors in Inez, TX kitchen losses.
 
-FAQ: How fast should action start? In Inez, TX, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 77968.
+Desiccant dehumidifier sizing in Inez, TX commercial zones differs from LGR residential defaults.
 
-Book a field review and request a written water loss recovery scope before mitigation equipment is staged. Serving ZIP Code: 77968.
+Radiant floor loops in Inez, TX slab homes need isolated zones before jack-hammer exploration.
 
-Insurance note: Deductible and depreciation worksheet were flagged for the Inez file.
+Step: document demolition justification with moisture meter readings.
 
-Field note: Moisture logs were aligned with salvage routing in Inez, TX.
+Plaster lathe ceilings in Inez, TX pre-war homes hold moisture behind skim coats longer than drywall.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Inez, TX.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Dispatch sectors sampled: ZIP 77968 (county grid: Victoria County).
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
+
+Regulatory note: Inez, TX projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
+
+IICRC reference: structural dry standards in Inez, TX should be cited in scope documents.
+
+Psychrometric targets should be recorded before declaring a chamber dry.
+
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
+
+Risk flag: In Inez, TX, delayed pack-out can swell cabinetry beyond salvage.
+
+Mitigation ledger 504472: moisture map grid, salvage lane tags, and drying day-count staged for Inez, TX at 28.8700, -96.8000.
+
+Rebuild bridge 504472: cabinet toe-kick probes and subfloor MC readings logged at 28.8700, -96.8000.
+
+Mitigation trace: negative air machine manometer, desiccant rotor hour, and subfloor MC probe cross-indexed for Inez intake.
+
+Claim packet: photo standards cross-checked for Inez, TX intake file.
+
+ZIP-corridor snapshot for Inez, TX: sampled sectors include 77968; county routing grid remains Victoria County.
 
 Service reference: TX-77968-dc7a5ac0

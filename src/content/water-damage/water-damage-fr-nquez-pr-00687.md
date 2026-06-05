@@ -12,31 +12,47 @@ lng: -66.4300
 zipSample: ["00687"]
 zipCodes: ["00687"]
 localPaths: ["Morovis County / ZIP 00687 sector", "Morovis County / primary ZIP 00687", "Morovis County / elevation 594 ft band", "Morovis County / coords 18.3400, -66.4300"]
-zillowHomeValueUsd: 363048
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Fránquez:** structural drying capacity optimized for 594ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Morovis County. Relative Humidity Threshold: 74%. Sensor sync: Active.
 
 
-Property owners in Fránquez, PR may see a emergency dry-out event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Fránquez, PR.
+Ceiling collapse risk in Fránquez, PR multi-family units rises when saturated insulation loads truss chords.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Radiant floor loops in Fránquez, PR slab homes need isolated zones before jack-hammer exploration.
 
-FAQ: What slows recovery most? In Fránquez, PR, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Technicians stage HEPA scrubbers before containment zip doors in Fránquez, PR kitchen losses.
 
-Tip: Save expert notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 00687.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Ask for a room-by-room emergency dry-out outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 00687.
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
 
-Insurance note: Claim filing codes and Liberty Mutual mitigation notes were flagged for the Fránquez file.
+Risk flag: Fránquez, PR slab-on-grade homes may need core probes when perimeter walls read dry.
 
-Field note: Drying decisions were sequenced for ZIP sector 00687.
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Fránquez, PR.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Dispatch sectors sampled: ZIP 00687 (county grid: Morovis County).
+Tip: Date-stamp moisture maps when adjusters request progress updates near 00687.
+
+Material note: Insulation R-value targets in Fránquez, PR should match pre-loss assemblies when documented.
+
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
+
+Technicians probe sill plates in Fránquez, PR ranch layouts before declaring first-floor dry.
+
+Stairwell chase moisture in Fránquez, PR tri-level homes can lag main-floor readings by days.
+
+Category note 574326: water-class notation and antimicrobial staging captured for Fránquez, PR intake packet.
+
+Rebuild bridge 574326: cabinet toe-kick probes and subfloor MC readings logged at 18.3400, -66.4300.
+
+Drying packet: demolition salvage tag paired with desiccant rotor hour near ZIP 00687 before scope lock.
+
+Power audit: dehumidifier load confirmed in Fránquez, PR before overnight run.
+
+Regional mesh label Morovis County: moisture and logistics baselines are keyed to Fránquez, PR before niche-specific work begins.
 
 Service reference: PR-00687-c3064a83

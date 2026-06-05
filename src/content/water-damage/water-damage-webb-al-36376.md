@@ -12,28 +12,47 @@ lng: -85.2900
 zipSample: ["36376"]
 zipCodes: ["36376"]
 localPaths: ["Houston County / elevation 292 ft band", "Houston County / coords 31.2600, -85.2900", "Houston County / primary ZIP 36376", "Houston County / ZIP 36376 sector"]
-zillowHomeValueUsd: 162166
 ---
 
 **Engineering Notice for Webb:** structural drying capacity optimized for 292ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Houston County. Relative Humidity Threshold: 83%. Sensor sync: Active.
 
 
-A flood recovery event in Webb, AL is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Plaster lathe ceilings in Webb, AL pre-war homes hold moisture behind skim coats longer than drywall.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Webb, AL.
+Ask for claim-facing photo standards before work begins. File routing near 36376.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Cabinet toe-kick voids in Webb, AL are common hidden moisture reservoirs.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Webb, AL.
+Tip: Log refrigerator line shutoffs before moving units in Webb, AL kitchen losses.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 36376.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 36376.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Claim marker: contents-vs-structure split was logged beside State Farm coverage patterns near ZIP 36376.
+Crawlspace vapor barriers in Webb, AL may trap moisture if torn during extraction hose routing.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Webb, AL.
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
 
-Dispatch sectors sampled: ZIP 36376 (county grid: Houston County).
+Book a moisture-map review before demolition approvals. Primary postal sector: 36376.
+
+Radiant floor loops in Webb, AL slab homes need isolated zones before jack-hammer exploration.
+
+Regulatory note: Webb, AL projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Freeze-burst events in Webb, AL often damage multiple wall bays before owners notice flow.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Townhome party walls in Webb, AL can transfer vapor across unit lines during shared losses.
+
+Equipment roster 849015: dehumidifier hour-meter and air-mover placement queued before Webb, AL scope sign-off.
+
+Containment dossier 849015: poly barrier seams and HEPA scrubber hours keyed to Webb, AL grid Houston County.
+
+Drying packet: demolition salvage tag paired with non-penetrating meter mode near ZIP 36376 before scope lock.
+
+ZIP-corridor snapshot for Webb, AL: sampled sectors include 36376; county routing grid remains Houston County.
 
 Service reference: AL-36376-1ad640b6

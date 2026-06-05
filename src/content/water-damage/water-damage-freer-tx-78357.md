@@ -12,30 +12,47 @@ lng: -98.6200
 zipSample: ["78357"]
 zipCodes: ["78357"]
 localPaths: ["Duval County / ZIP 78357 sector", "Duval County / coords 27.8800, -98.6200", "Duval County / elevation 525 ft band", "Duval County / primary ZIP 78357"]
-zillowHomeValueUsd: 80752
 ---
 
 **Engineering Notice for Freer:** structural drying capacity optimized for 525ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Duval County. Relative Humidity Threshold: 73%. Sensor sync: Active.
 
 
-Property owners in Freer, TX may see a moisture restoration event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Crawlspace vapor barriers in Freer, TX may trap moisture if torn during extraction hose routing.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Freer, TX.
+Non-penetrating meter sweeps in Freer, TX hallways often read dry while baseboards remain elevated.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Plaster lathe ceilings in Freer, TX pre-war homes hold moisture behind skim coats longer than drywall.
 
-FAQ: What slows recovery most? In Freer, TX, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+IICRC reference: structural dry standards in Freer, TX should be cited in scope documents.
 
-Tip: Save local team notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 78357.
+Ceiling collapse risk in Freer, TX multi-family units rises when saturated insulation loads truss chords.
 
-Ask for a room-by-room moisture restoration outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 78357.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-File control: Farmers routing language was paired with water category notation during intake review in Freer.
+Risk flag: In Freer, TX, delayed pack-out can swell cabinetry beyond salvage.
 
-Field note: Equipment day-counts were reviewed around ZIP 78357.
+Townhome party walls in Freer, TX can transfer vapor across unit lines during shared losses.
 
-Field note: Intake notes were reconciled with county grid Duval County.
+Desiccant dehumidifier sizing in Freer, TX commercial zones differs from LGR residential defaults.
 
-Dispatch sectors sampled: ZIP 78357 (county grid: Duval County).
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
+
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Odor control in Freer, TX category-two losses may require hydroxyl cycles separate from dehumidification.
+
+Regulatory note: Freer, TX projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
+
+Loss trace 847332: extraction velocity notes and demolition threshold markers keyed to Freer, TX elevation 525 ft.
+
+Mitigation ledger 847332: moisture map grid, salvage lane tags, and drying day-count staged for Freer, TX at 27.8800, -98.6200.
+
+Loss file: category-three PPE log plus non-penetrating meter mode referenced in Duval County county review.
+
+Equipment log: hour-meters captured near postal anchor 78357.
+
+Coordinate-anchored dispatch note: center reference 27.8800, -98.6200 at elevation ~525 ft aligns with Duval County intake staging.
 
 Service reference: TX-78357-8340a5fd

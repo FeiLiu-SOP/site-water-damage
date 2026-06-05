@@ -12,30 +12,47 @@ lng: -121.7100
 zipSample: ["95917"]
 zipCodes: ["95917"]
 localPaths: ["Butte County / primary ZIP 95917", "Butte County / elevation 95 ft band", "Butte County / coords 39.4100, -121.7100", "Butte County / ZIP 95917 sector"]
-zillowHomeValueUsd: 343549
 ---
 
 **Engineering Notice for Biggs:** structural drying capacity optimized for 95ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Butte County. Relative Humidity Threshold: 79%. Sensor sync: Active.
 
 
-Across Biggs, CA, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+IICRC reference: structural dry standards in Biggs, CA should be cited in scope documents.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the flood restoration file.
+Built-in bookcase cavities in Biggs, CA trap humidity behind fixed shelving.
 
-Flood Restoration coordination in Biggs, CA is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+In Biggs, CA, flood restoration calls often start with moisture mapping before demolition is discussed.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Biggs, CA are commonly checked when spread is suspected.
+Multi-story Biggs, CA losses need vertical moisture migration checks on lower levels.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 95917.
+Thermal imaging in Biggs, CA is scheduled after surface readings plateau for two cycles.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 95917.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 95917.
 
-Insurance note: water category notation and carrier supplement language were flagged for the Biggs file.
+Step: log humidity and temperature readings at 24-hour intervals.
 
-Field note: Equipment day-counts were reviewed around ZIP 95917.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-Field note: Moisture logs were aligned with salvage routing in Biggs, CA.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Dispatch sectors sampled: ZIP 95917 (county grid: Butte County).
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
+
+Elevator pit flooding in Biggs, CA commercial stacks needs pump-out before cab service resumes.
+
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Risk flag: Biggs, CA slab-on-grade homes may need core probes when perimeter walls read dry.
+
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
+
+Equipment roster 567899: dehumidifier hour-meter and air-mover placement queued before Biggs, CA scope sign-off.
+
+Loss trace 567899: extraction velocity notes and demolition threshold markers keyed to Biggs, CA elevation 95 ft.
+
+Mitigation trace: psychrometric chart band, non-penetrating meter mode, and pack-out chain-of-custody cross-indexed for Biggs intake.
+
+Thermal pass: infrared scan queued after second dry cycle in Biggs, CA.
+
+On-site sector marker: Butte County / primary ZIP 95917 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95917-dd451124

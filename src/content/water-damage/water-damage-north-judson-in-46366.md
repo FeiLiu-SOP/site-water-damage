@@ -12,30 +12,47 @@ lng: -86.7800
 zipSample: ["46366"]
 zipCodes: ["46366"]
 localPaths: ["Starke County / ZIP 46366 sector", "Starke County / primary ZIP 46366", "Starke County / coords 41.2200, -86.7800", "Starke County / elevation 722 ft band"]
-zillowHomeValueUsd: 212726
 ---
 
 **Engineering Notice for North Judson:** structural drying capacity optimized for 722ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Starke County. Relative Humidity Threshold: 67%. Sensor sync: Active.
 
 
-A flood restoration event in North Judson, IN is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for North Judson, IN.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+FAQ: Why isolate rooms? Containment concentrates dehumidification and protects unaffected areas.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in North Judson, IN.
+We coordinate North Judson, IN mitigation with written scope, equipment assumptions, and claim-facing notes.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 46366.
+Built-in bookcase cavities in North Judson, IN trap humidity behind fixed shelving.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 46366.
+Risk flag: North Judson, IN slab-on-grade homes may need core probes when perimeter walls read dry.
 
-Coverage brief: Allstate loss review can change how loss diary entry is documented before scheduling.
+Permit note: Rebuild phases in North Judson, IN may need separate inspections from mitigation work.
 
-Field note: Moisture logs were aligned with salvage routing in North Judson, IN.
+Townhome party walls in North Judson, IN can transfer vapor across unit lines during shared losses.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in North Judson, IN.
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
 
-Dispatch sectors sampled: ZIP 46366 (county grid: Starke County).
+Risk flag: In North Judson, IN, delayed pack-out can swell cabinetry beyond salvage.
+
+Elevator pit flooding in North Judson, IN commercial stacks needs pump-out before cab service resumes.
+
+Stairwell chase moisture in North Judson, IN tri-level homes can lag main-floor readings by days.
+
+Step: document demolition justification with moisture meter readings.
+
+Step: reconcile carrier photo requirements before tear-out in North Judson, IN.
+
+Schedule extraction and drying as separate documented phases. File routing near 46366.
+
+Loss trace 837506: extraction velocity notes and demolition threshold markers keyed to North Judson, IN elevation 722 ft.
+
+Carrier sync 837506: depreciation worksheet lane and supplement language staged for ZIP 46366.
+
+Drying packet: subfloor MC probe paired with category-three PPE log near ZIP 46366 before scope lock.
+
+Primary postal anchor 46366 with multi-ZIP overlap in North Judson; field packets tag Starke County for county-grid reconciliation.
 
 Service reference: IN-46366-156167fc

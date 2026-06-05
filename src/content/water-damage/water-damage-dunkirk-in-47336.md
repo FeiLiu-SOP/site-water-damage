@@ -12,30 +12,49 @@ lng: -85.2100
 zipSample: ["47336"]
 zipCodes: ["47336"]
 localPaths: ["Jay County / elevation 948 ft band", "Jay County / ZIP 47336 sector", "Jay County / coords 40.3700, -85.2100", "Jay County / primary ZIP 47336"]
-zillowHomeValueUsd: 126692
 ---
 
 **Engineering Notice for Dunkirk:** structural drying capacity optimized for 948ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jay County. Relative Humidity Threshold: 73%. Sensor sync: Active.
 
 
-When structural drying cases are reviewed in Dunkirk, IN, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Dunkirk, IN.
+Elevated crawlspaces in Dunkirk, IN require vapor-retarder service before dehumidifier sizing.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
 
-FAQ: Is every wet material removed immediately? Not always. In Dunkirk, IN, some assemblies are monitored through readings before invasive removal is approved.
+Attic staining in Dunkirk, IN may follow HVAC condensate rather than roof breaches.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 47336.
+IICRC reference: structural dry standards in Dunkirk, IN should be cited in scope documents.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 47336.
+Step: label removed materials for disposal manifests and claim packets.
 
-File control: mitigation invoice sequencing was paired with depreciation worksheet during intake review in Dunkirk.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Field note: Drying decisions were sequenced for ZIP sector 47336.
+Carpet pad saturation in Dunkirk, IN frequently forces disposal even when face fiber appears dry.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Dunkirk, IN.
+Across Dunkirk, IN, standing water duration drives salvage-versus-remove decisions within hours.
 
-Dispatch sectors sampled: ZIP 47336 (county grid: Jay County).
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Step: document demolition justification with moisture meter readings.
+
+FAQ: How fast should mitigation start? In Dunkirk, IN, extended damp periods expand demolition and mold-risk scope.
+
+Material note: Insulation R-value targets in Dunkirk, IN should match pre-loss assemblies when documented.
+
+Built-in bookcase cavities in Dunkirk, IN trap humidity behind fixed shelving.
+
+We coordinate Dunkirk, IN mitigation with written scope, equipment assumptions, and claim-facing notes.
+
+Tip: Log refrigerator line shutoffs before moving units in Dunkirk, IN kitchen losses.
+
+File audit 184506: adjuster photo-set crosswalk and contents segregation reviewed for Dunkirk, IN at 40.3700/-85.2100.
+
+Loss trace 184506: extraction velocity notes and demolition threshold markers keyed to Dunkirk, IN elevation 948 ft.
+
+Drying packet: equilibrium moisture content paired with subfloor MC probe near ZIP 47336 before scope lock.
+
+On-site sector marker: Jay County / coords 40.3700, -85.2100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-47336-165249e4

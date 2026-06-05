@@ -12,30 +12,49 @@ lng: -124.2100
 zipSample: ["97420"]
 zipCodes: ["97420"]
 localPaths: ["Coos County / coords 43.3500, -124.2100", "Coos County / ZIP 97420 sector", "Coos County / primary ZIP 97420", "Coos County / elevation 138 ft band"]
-zillowHomeValueUsd: 323721
 ---
 
 **Engineering Notice for Bunker Hill:** structural drying capacity optimized for 138ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Coos County. Relative Humidity Threshold: 76%. Sensor sync: Active.
 
 
-Property owners in Bunker Hill, OR may see a structural drying event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Bunker Hill, OR.
+Attic staining in Bunker Hill, OR may follow HVAC condensate rather than roof breaches.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
 
-FAQ: What slows recovery most? In Bunker Hill, OR, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Crawlspace vapor barriers in Bunker Hill, OR may trap moisture if torn during extraction hose routing.
 
-Tip: Save local team notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 97420.
+Multi-story Bunker Hill, OR losses need vertical moisture migration checks on lower levels.
 
-Ask for a room-by-room structural drying outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 97420.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Coverage brief: Farmers routing language can change how adjuster photo-log is documented before scheduling.
+Plaster lathe ceilings in Bunker Hill, OR pre-war homes hold moisture behind skim coats longer than drywall.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Bunker Hill, OR.
+We coordinate Bunker Hill, OR mitigation with written scope, equipment assumptions, and claim-facing notes.
 
-Field note: Equipment day-counts were reviewed around ZIP 97420.
+Stairwell chase moisture in Bunker Hill, OR tri-level homes can lag main-floor readings by days.
 
-Dispatch sectors sampled: ZIP 97420 (county grid: Coos County).
+Step: photograph standing water and material edges before extraction.
+
+FAQ: Who inventories contents? Carrier language and photo standards vary in Bunker Hill, OR markets.
+
+Step: map contents salvage lanes before pack-out crews arrive.
+
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
+
+FAQ: When is delay costly? In Bunker Hill, OR, extended damp periods expand demolition and mold-risk scope.
+
+Desiccant dehumidifier sizing in Bunker Hill, OR commercial zones differs from LGR residential defaults.
+
+Risk flag: Bunker Hill, OR slab-on-grade homes may need core probes when perimeter walls read dry.
+
+Loss trace 490938: extraction velocity notes and demolition threshold markers keyed to Bunker Hill, OR elevation 138 ft.
+
+Recovery map 490938: structural drying targets and rebuild handoff flags logged for Bunker Hill, OR postal sector 97420.
+
+Drying packet: psychrometric chart band paired with antimicrobial dwell clock near ZIP 97420 before scope lock.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Coos County and primary ZIP 97420. Terrain reference: 138 ft. Center point: 43.3500, -124.2100. ZIP sample: 97420. Logistics priority: Serving residential sectors across Coos County and north-east ZIP 97420 grid.
 
 Service reference: OR-97420-988e0d50

@@ -12,30 +12,47 @@ lng: -99.3700
 zipSample: ["73547"]
 zipCodes: ["73547"]
 localPaths: ["Greer County / primary ZIP 73547", "Greer County / coords 34.9600, -99.3700", "Greer County / elevation 1608 ft band", "Greer County / ZIP 73547 sector"]
-zillowHomeValueUsd: 92476
 ---
 
 **Engineering Notice for Granite:** structural drying capacity optimized for 1608ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Greer County. Relative Humidity Threshold: 65%. Sensor sync: Active.
 
 
-When structural drying cases are reviewed in Granite, OK, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Ceiling collapse risk in Granite, OK multi-family units rises when saturated insulation loads truss chords.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Granite, OK.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-FAQ: Is every wet material removed immediately? Not always. In Granite, OK, some assemblies are monitored through readings before invasive removal is approved.
+Built-in bookcase cavities in Granite, OK trap humidity behind fixed shelving.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 73547.
+Regulatory note: Granite, OK projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 73547.
+Garage slab moisture in Granite, OK can wick into adjacent finished rooms.
 
-Claim marker: recoverable depreciation was logged beside reserve change notes near ZIP 73547.
+Thermal imaging in Granite, OK is scheduled after surface readings plateau for two cycles.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Granite, OK.
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
 
-Field note: Intake notes were reconciled with county grid Greer County.
+Tip: Log refrigerator line shutoffs before moving units in Granite, OK kitchen losses.
 
-Dispatch sectors sampled: ZIP 73547 (county grid: Greer County).
+Subfloor cupping in Granite, OK can lag source-stop by several drying days.
+
+We coordinate Granite, OK mitigation with written scope, equipment assumptions, and claim-facing notes.
+
+Schedule extraction and drying as separate documented phases. File routing near 73547.
+
+Step: separate emergency extraction from structural drying line items.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Containment dossier 217817: poly barrier seams and HEPA scrubber hours keyed to Granite, OK grid Greer County.
+
+Loss trace 217817: extraction velocity notes and demolition threshold markers keyed to Granite, OK elevation 1608 ft.
+
+Mitigation trace: air mover amp draw, psychrometric chart band, and antimicrobial dwell clock cross-indexed for Granite intake.
+
+Containment check: poly barrier seams photographed in Granite, OK.
+
+On-site sector marker: Greer County / elevation 1608 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-73547-2fdcba52

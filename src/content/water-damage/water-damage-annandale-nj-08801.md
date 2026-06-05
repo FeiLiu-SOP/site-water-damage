@@ -12,30 +12,49 @@ lng: -74.8900
 zipSample: ["08801", "08809"]
 zipCodes: ["08801", "08809"]
 localPaths: ["Hunterdon County / elevation 420 ft band", "Hunterdon County / coords 40.6500, -74.8900", "Hunterdon County / ZIP 08801 sector", "Hunterdon County / ZIP 08809 sector", "Hunterdon County / primary ZIP 08801"]
-zillowHomeValueUsd: 617008
 ---
 
 **Engineering Notice for Annandale:** structural drying capacity optimized for 420ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hunterdon County. Relative Humidity Threshold: 71%. Sensor sync: Active.
 
 
-Across Annandale, NJ, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Desiccant dehumidifier sizing in Annandale, NJ commercial zones differs from LGR residential defaults.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the disaster cleanup file.
+Ceiling collapse risk in Annandale, NJ multi-family units rises when saturated insulation loads truss chords.
 
-Disaster Cleanup coordination in Annandale, NJ is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Step: stage dehumidifier capacity against cubic footage and class of water.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Annandale, NJ are commonly checked when spread is suspected.
+Category-two losses in Annandale, NJ require antimicrobial staging decisions before rebuild quotes.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 08801/08809.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 08801.
+Garage slab moisture in Annandale, NJ can wick into adjacent finished rooms.
 
-File control: depreciation worksheet was paired with scope authorization code during intake review in Annandale.
+Radiant floor loops in Annandale, NJ slab homes need isolated zones before jack-hammer exploration.
 
-Field note: Equipment day-counts were reviewed around ZIP 08801/08809.
+Built-in bookcase cavities in Annandale, NJ trap humidity behind fixed shelving.
 
-Field note: Moisture logs were aligned with salvage routing in Annandale, NJ.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Dispatch sectors sampled: ZIP 08801, 08809 (county grid: Hunterdon County).
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
+
+Confirm power load assumptions before overnight equipment runs. County corridor Hunterdon County.
+
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
+
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+IICRC reference: structural dry standards in Annandale, NJ should be cited in scope documents.
+
+Tip: Log refrigerator line shutoffs before moving units in Annandale, NJ kitchen losses.
+
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
+
+Rebuild bridge 311418: cabinet toe-kick probes and subfloor MC readings logged at 40.6500, -74.8900.
+
+Containment dossier 311418: poly barrier seams and HEPA scrubber hours keyed to Annandale, NJ grid Hunterdon County.
+
+Drying packet: psychrometric chart band paired with antimicrobial dwell clock near ZIP 08801 before scope lock.
+
+On-site sector marker: Hunterdon County / ZIP 08801 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-08801-cc09fcfe

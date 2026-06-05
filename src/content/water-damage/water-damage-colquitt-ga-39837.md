@@ -12,30 +12,47 @@ lng: -84.7300
 zipSample: ["39837"]
 zipCodes: ["39837"]
 localPaths: ["Miller County / coords 31.1700, -84.7300", "Miller County / primary ZIP 39837", "Miller County / ZIP 39837 sector", "Miller County / elevation 184 ft band"]
-zillowHomeValueUsd: 161849
 ---
 
 **Engineering Notice for Colquitt:** structural drying capacity optimized for 184ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Miller County. Relative Humidity Threshold: 83%. Sensor sync: Active.
 
 
-A disaster cleanup event in Colquitt, GA is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Step: photograph standing water and material edges before extraction.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Colquitt, GA.
+FAQ: How fast should mitigation start? In Colquitt, GA, extended damp periods expand demolition and mold-risk scope.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Colquitt, GA.
+Risk flag: In Colquitt, GA, delayed pack-out can swell cabinetry beyond salvage.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 39837.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 39837.
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
 
-Claim marker: mitigation invoice sequencing was logged beside scope authorization code near ZIP 39837.
+Tip: Log refrigerator line shutoffs before moving units in Colquitt, GA kitchen losses.
 
-Field note: Moisture logs were aligned with salvage routing in Colquitt, GA.
+Tip: Record when the water source was stopped and power restored in Colquitt, GA.
 
-Field note: Equipment day-counts were reviewed around ZIP 39837.
+Permit note: Rebuild phases in Colquitt, GA may need separate inspections from mitigation work.
 
-Dispatch sectors sampled: ZIP 39837 (county grid: Miller County).
+Risk flag: Colquitt, GA slab-on-grade homes may need core probes when perimeter walls read dry.
+
+Stairwell chase moisture in Colquitt, GA tri-level homes can lag main-floor readings by days.
+
+Desiccant dehumidifier sizing in Colquitt, GA commercial zones differs from LGR residential defaults.
+
+Contents pack-out in Colquitt, GA should be photographed before movement off-site.
+
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
+
+Recovery map 307323: structural drying targets and rebuild handoff flags logged for Colquitt, GA postal sector 39837.
+
+Equipment roster 307323: dehumidifier hour-meter and air-mover placement queued before Colquitt, GA scope sign-off.
+
+Loss file: pack-out chain-of-custody plus contents ozone quarantine referenced in Miller County county review.
+
+Power audit: dehumidifier load confirmed in Colquitt, GA before overnight run.
+
+On-site sector marker: Miller County / ZIP 39837 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-39837-4a743118

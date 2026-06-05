@@ -12,30 +12,47 @@ lng: -90.3100
 zipSample: ["63123"]
 zipCodes: ["63123"]
 localPaths: ["St. Louis County / primary ZIP 63123", "St. Louis County / ZIP 63123 sector", "St. Louis County / coords 38.5400, -90.3100", "St. Louis County / elevation 518 ft band"]
-zillowHomeValueUsd: 243715
 ---
 
 **Engineering Notice for St. George:** structural drying capacity optimized for 518ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Louis County. Relative Humidity Threshold: 80%. Sensor sync: Active.
 
 
-A flood restoration event in St. George, MO is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for St. George, MO.
+Contents pack-out in St. George, MO should be photographed before movement off-site.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Confirm power load assumptions before overnight equipment runs. County corridor St. Louis County.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in St. George, MO.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 63123.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 63123.
+Multi-story St. George, MO losses need vertical moisture migration checks on lower levels.
 
-Claim marker: water category notation was logged beside temporary restoration receipt near ZIP 63123.
+Subfloor cupping in St. George, MO can lag source-stop by several drying days.
 
-Field note: Intake notes were reconciled with county grid St. Louis County.
+Ceiling collapse risk in St. George, MO multi-family units rises when saturated insulation loads truss chords.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in St. George, MO.
+Step: stage dehumidifier capacity against cubic footage and class of water.
 
-Dispatch sectors sampled: ZIP 63123 (county grid: St. Louis County).
+Townhome party walls in St. George, MO can transfer vapor across unit lines during shared losses.
+
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
+
+Tip: Date-stamp moisture maps when adjusters request progress updates near 63123.
+
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
+
+FAQ: Why isolate rooms? Containment concentrates dehumidification and protects unaffected areas.
+
+Recovery map 962702: structural drying targets and rebuild handoff flags logged for St. George, MO postal sector 63123.
+
+Mitigation ledger 962702: moisture map grid, salvage lane tags, and drying day-count staged for St. George, MO at 38.5400, -90.3100.
+
+Drying packet: non-penetrating meter mode paired with containment zipper door near ZIP 63123 before scope lock.
+
+Category review: loss class notation signed near ZIP 63123.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~518 ft across the St. Louis County area. Coordinates: 38.5400, -90.3100. ZIP sample: 63123. Regional routing note: St. Louis County traffic flow is balanced around ZIP 63123 service demand.
 
 Service reference: MO-63123-6ee46f79

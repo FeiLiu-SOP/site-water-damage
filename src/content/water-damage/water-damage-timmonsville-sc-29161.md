@@ -12,28 +12,49 @@ lng: -79.9400
 zipSample: ["29161"]
 zipCodes: ["29161"]
 localPaths: ["Florence County / primary ZIP 29161", "Florence County / coords 34.1300, -79.9400", "Florence County / elevation 164 ft band", "Florence County / ZIP 29161 sector"]
-zillowHomeValueUsd: 177016
 ---
 
 **Engineering Notice for Timmonsville:** structural drying capacity optimized for 164ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Florence County. Relative Humidity Threshold: 68%. Sensor sync: Active.
 
 
-When storm cleanup cases are reviewed in Timmonsville, SC, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Timmonsville, SC.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Risk flag: In Timmonsville, SC, delayed pack-out can swell cabinetry beyond salvage.
 
-FAQ: Is every wet material removed immediately? Not always. In Timmonsville, SC, some assemblies are monitored through readings before invasive removal is approved.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 29161.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 29161.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 29161.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Insurance note: temporary restoration receipt and coverage threshold marker were flagged for the Timmonsville file.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Timmonsville, SC.
+Garage slab moisture in Timmonsville, SC can wick into adjacent finished rooms.
 
-Dispatch sectors sampled: ZIP 29161 (county grid: Florence County).
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
+
+Step: separate emergency extraction from structural drying line items.
+
+FAQ: Will insurance cover pack-out? Carrier language and photo standards vary in Timmonsville, SC markets.
+
+Risk flag: Incomplete claim packets in Timmonsville, SC often force duplicate site visits.
+
+Desiccant dehumidifier sizing in Timmonsville, SC commercial zones differs from LGR residential defaults.
+
+Carpet pad saturation in Timmonsville, SC frequently forces disposal even when face fiber appears dry.
+
+Technicians probe sill plates in Timmonsville, SC ranch layouts before declaring first-floor dry.
+
+Freeze-burst events in Timmonsville, SC often damage multiple wall bays before owners notice flow.
+
+Mitigation ledger 650953: moisture map grid, salvage lane tags, and drying day-count staged for Timmonsville, SC at 34.1300, -79.9400.
+
+Recovery map 650953: structural drying targets and rebuild handoff flags logged for Timmonsville, SC postal sector 29161.
+
+Drying packet: subfloor MC probe paired with grain depression target near ZIP 29161 before scope lock.
+
+Coordinate-anchored dispatch note: center reference 34.1300, -79.9400 at elevation ~164 ft aligns with Florence County intake staging.
 
 Service reference: SC-29161-b2785240

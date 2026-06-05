@@ -12,28 +12,49 @@ lng: -86.0800
 zipSample: ["49112"]
 zipCodes: ["49112"]
 localPaths: ["Cass County / ZIP 49112 sector", "Cass County / elevation 843 ft band", "Cass County / primary ZIP 49112", "Cass County / coords 41.8000, -86.0800"]
-zillowHomeValueUsd: 300239
 ---
 
 **Engineering Notice for Edwardsburg:** structural drying capacity optimized for 843ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cass County. Relative Humidity Threshold: 66%. Sensor sync: Active.
 
 
-A flood restoration event in Edwardsburg, MI is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Edwardsburg, MI.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Edwardsburg, MI.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 49112.
+FAQ: Which documents matter most? Incomplete photo logs and missing moisture maps commonly delay Edwardsburg, MI files.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 49112.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Coverage brief: USAA property-loss packet can change how Farmers routing language is documented before scheduling.
+Tip: Log refrigerator line shutoffs before moving units in Edwardsburg, MI kitchen losses.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Edwardsburg, MI.
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
 
-Dispatch sectors sampled: ZIP 49112 (county grid: Cass County).
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
+
+Risk flag: Edwardsburg, MI slab-on-grade homes may need core probes when perimeter walls read dry.
+
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
+
+Desiccant dehumidifier sizing in Edwardsburg, MI commercial zones differs from LGR residential defaults.
+
+Dispatch packets for Edwardsburg, MI reference county grid Cass County and elevation band 843 ft.
+
+Sump overflow in Edwardsburg, MI can masquerade as foundation infiltration.
+
+Crawlspace vapor barriers in Edwardsburg, MI may trap moisture if torn during extraction hose routing.
+
+Material note: Insulation R-value targets in Edwardsburg, MI should match pre-loss assemblies when documented.
+
+Equipment roster 202535: dehumidifier hour-meter and air-mover placement queued before Edwardsburg, MI scope sign-off.
+
+Carrier sync 202535: depreciation worksheet lane and supplement language staged for ZIP 49112.
+
+Loss file: flood cut elevation mark plus HEPA scrubber CFM log referenced in Cass County county review.
+
+ZIP-corridor snapshot for Edwardsburg, MI: sampled sectors include 49112; county routing grid remains Cass County.
 
 Service reference: MI-49112-4bddb64e

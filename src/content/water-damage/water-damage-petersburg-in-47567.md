@@ -12,30 +12,51 @@ lng: -87.2800
 zipSample: ["47567"]
 zipCodes: ["47567"]
 localPaths: ["Pike County / coords 38.4900, -87.2800", "Pike County / primary ZIP 47567", "Pike County / elevation 463 ft band", "Pike County / ZIP 47567 sector"]
-zillowHomeValueUsd: 165436
 ---
 
 **Engineering Notice for Petersburg:** structural drying capacity optimized for 463ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pike County. Relative Humidity Threshold: 67%. Sensor sync: Active.
 
 
-In Petersburg, IN, disaster cleanup requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Ask for claim-facing photo standards before work begins. File routing near 47567.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Petersburg, IN must be dried before reconstruction is discussed.
+Attic staining in Petersburg, IN may follow HVAC condensate rather than roof breaches.
 
-Our intake team frames disaster cleanup jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Radiant floor loops in Petersburg, IN slab homes need isolated zones before jack-hammer exploration.
 
-FAQ: How fast should action start? In Petersburg, IN, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 47567.
+Step: photograph standing water and material edges before extraction.
 
-Book a field review and request a written disaster cleanup scope before mitigation equipment is staged. Serving ZIP Code: 47567.
+Material note: Insulation R-value targets in Petersburg, IN should match pre-loss assemblies when documented.
 
-Insurance note: loss diary entry and mitigation invoice sequencing were flagged for the Petersburg file.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-Field note: Equipment day-counts were reviewed around ZIP 47567.
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Petersburg, IN.
+Technicians stage HEPA scrubbers before containment zip doors in Petersburg, IN kitchen losses.
 
-Dispatch sectors sampled: ZIP 47567 (county grid: Pike County).
+FAQ: Why isolate rooms? Containment concentrates dehumidification and protects unaffected areas.
+
+Odor control in Petersburg, IN category-two losses may require hydroxyl cycles separate from dehumidification.
+
+Tip: Log refrigerator line shutoffs before moving units in Petersburg, IN kitchen losses.
+
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+In Petersburg, IN, disaster cleanup calls often start with moisture mapping before demolition is discussed.
+
+Step: map contents salvage lanes before pack-out crews arrive.
+
+Carrier sync 313190: depreciation worksheet lane and supplement language staged for ZIP 47567.
+
+Containment dossier 313190: poly barrier seams and HEPA scrubber hours keyed to Petersburg, IN grid Pike County.
+
+Loss file: equilibrium moisture content plus category-three PPE log referenced in Pike County county review.
+
+Contents ledger: inventory lanes labeled for sector 47567.
+
+On-site sector marker: Pike County / coords 38.4900, -87.2800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-47567-3baa824c

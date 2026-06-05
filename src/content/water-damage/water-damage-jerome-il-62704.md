@@ -12,30 +12,49 @@ lng: -89.6800
 zipSample: ["62704"]
 zipCodes: ["62704"]
 localPaths: ["Sangamon County / elevation 617 ft band", "Sangamon County / coords 39.7700, -89.6800", "Sangamon County / primary ZIP 62704", "Sangamon County / ZIP 62704 sector"]
-zillowHomeValueUsd: 180776
 ---
 
 **Engineering Notice for Jerome:** structural drying capacity optimized for 617ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sangamon County. Relative Humidity Threshold: 74%. Sensor sync: Active.
 
 
-When storm cleanup cases are reviewed in Jerome, IL, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+In Jerome, IL, storm cleanup calls often start with moisture mapping before demolition is discussed.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Jerome, IL.
+IICRC reference: structural dry standards in Jerome, IL should be cited in scope documents.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-FAQ: Is every wet material removed immediately? Not always. In Jerome, IL, some assemblies are monitored through readings before invasive removal is approved.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 62704.
+FAQ: Which documents matter most? Incomplete photo logs and missing moisture maps commonly delay Jerome, IL files.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 62704.
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
 
-Insurance note: Deductible and recoverable depreciation were flagged for the Jerome file.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Field note: Moisture logs were aligned with salvage routing in Jerome, IL.
+Risk flag: Jerome, IL slab-on-grade homes may need core probes when perimeter walls read dry.
 
-Field note: Drying decisions were sequenced for ZIP sector 62704.
+FAQ: When is delay costly? In Jerome, IL, extended damp periods expand demolition and mold-risk scope.
 
-Dispatch sectors sampled: ZIP 62704 (county grid: Sangamon County).
+Regulatory note: Jerome, IL projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
+
+Risk flag: In Jerome, IL, delayed pack-out can swell cabinetry beyond salvage.
+
+Psychrometric targets should be recorded before declaring a chamber dry.
+
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
+
+Claim dossier 202925: pack-out ledger and humidity log bands filed for Jerome, IL county Sangamon County (ZIP 62704).
+
+Containment dossier 202925: poly barrier seams and HEPA scrubber hours keyed to Jerome, IL grid Sangamon County.
+
+Loss file: negative air machine manometer plus containment zipper door referenced in Sangamon County county review.
+
+Power audit: dehumidifier load confirmed in Jerome, IL before overnight run.
+
+On-site sector marker: Sangamon County / primary ZIP 62704 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62704-8abda684

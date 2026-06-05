@@ -12,30 +12,45 @@ lng: -96.2500
 zipSample: ["75160"]
 zipCodes: ["75160"]
 localPaths: ["Hunt County / primary ZIP 75160", "Hunt County / elevation 571 ft band", "Hunt County / coords 32.8300, -96.2500", "Hunt County / ZIP 75160 sector"]
-zillowHomeValueUsd: 261908
 ---
 
 **Engineering Notice for Poetry:** structural drying capacity optimized for 571ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hunt County. Relative Humidity Threshold: 76%. Sensor sync: Active.
 
 
-Property owners in Poetry, TX may see a structural drying event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Step: separate emergency extraction from structural drying line items.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Poetry, TX.
+Multi-story Poetry, TX losses need vertical moisture migration checks on lower levels.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-FAQ: What slows recovery most? In Poetry, TX, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Risk flag: In Poetry, TX, delayed pack-out can swell cabinetry beyond salvage.
 
-Tip: Save expert notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 75160.
+Step: stage dehumidifier capacity against cubic footage and class of water.
 
-Ask for a room-by-room structural drying outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 75160.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Claim marker: contents-vs-structure split was logged beside Allstate loss review near ZIP 75160.
+Step: label removed materials for disposal manifests and claim packets.
 
-Field note: Drying decisions were sequenced for ZIP sector 75160.
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Poetry, TX.
+Sump overflow in Poetry, TX can masquerade as foundation infiltration.
 
-Dispatch sectors sampled: ZIP 75160 (county grid: Hunt County).
+Category-two losses in Poetry, TX require antimicrobial staging decisions before rebuild quotes.
+
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
+
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
+
+Tip: Log refrigerator line shutoffs before moving units in Poetry, TX kitchen losses.
+
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
+
+Claim dossier 441772: pack-out ledger and humidity log bands filed for Poetry, TX county Hunt County (ZIP 75160).
+
+File audit 441772: adjuster photo-set crosswalk and contents segregation reviewed for Poetry, TX at 32.8300/-96.2500.
+
+Drying packet: non-penetrating meter mode paired with structural dry standard near ZIP 75160 before scope lock.
+
+Coordinate-anchored dispatch note: center reference 32.8300, -96.2500 at elevation ~571 ft aligns with Hunt County intake staging.
 
 Service reference: TX-75160-763b347f

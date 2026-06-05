@@ -12,28 +12,49 @@ lng: -93.1500
 zipSample: ["71743"]
 zipCodes: ["71743"]
 localPaths: ["Clark County / primary ZIP 71743", "Clark County / ZIP 71743 sector", "Clark County / elevation 233 ft band", "Clark County / coords 33.9200, -93.1500"]
-zillowHomeValueUsd: 107308
 ---
 
 **Engineering Notice for Gurdon:** structural drying capacity optimized for 233ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clark County. Relative Humidity Threshold: 67%. Sensor sync: Active.
 
 
-Across Gurdon, AR, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Plaster lathe ceilings in Gurdon, AR pre-war homes hold moisture behind skim coats longer than drywall.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the property drying file.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-Property Drying coordination in Gurdon, AR is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Technicians probe sill plates in Gurdon, AR ranch layouts before declaring first-floor dry.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Gurdon, AR are commonly checked when spread is suspected.
+Step: log humidity and temperature readings at 24-hour intervals.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 71743.
+Tip: Record when the water source was stopped and power restored in Gurdon, AR.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 71743.
+Elevated crawlspaces in Gurdon, AR require vapor-retarder remediation before dehumidifier sizing.
 
-Coverage brief: Deductible can change how Allstate loss review is documented before scheduling.
+Risk flag: Incomplete claim packets in Gurdon, AR often force duplicate site visits.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Gurdon, AR.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Dispatch sectors sampled: ZIP 71743 (county grid: Clark County).
+Schedule extraction and drying as separate documented phases. File routing near 71743.
+
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
+
+FAQ: When is hardwood salvage realistic in Gurdon, AR? Density, duration, and contamination class decide—not optimism.
+
+Request room-by-room demolition thresholds tied to meter readings. Grid anchor 71743.
+
+Book a moisture-map review before demolition approvals. Primary postal sector: 71743.
+
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
+
+Regulatory note: Gurdon, AR projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+Tip: Date-stamp moisture maps when adjusters request progress updates near 71743.
+
+Loss trace 959269: extraction velocity notes and demolition threshold markers keyed to Gurdon, AR elevation 233 ft.
+
+Claim dossier 959269: pack-out ledger and humidity log bands filed for Gurdon, AR county Clark County (ZIP 71743).
+
+Loss file: negative air machine manometer plus vapor pressure differential referenced in Clark County county review.
+
+On-site sector marker: Clark County / ZIP 71743 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-71743-b398d0b4

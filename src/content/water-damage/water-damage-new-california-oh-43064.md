@@ -12,28 +12,49 @@ lng: -83.2400
 zipSample: ["43064"]
 zipCodes: ["43064"]
 localPaths: ["Union County / coords 40.1500, -83.2400", "Union County / elevation 981 ft band", "Union County / ZIP 43064 sector", "Union County / primary ZIP 43064"]
-zillowHomeValueUsd: 541600
 ---
 
 **Engineering Notice for New California:** structural drying capacity optimized for 981ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Union County. Relative Humidity Threshold: 65%. Sensor sync: Active.
 
 
-A disaster cleanup event in New California, OH is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Dispatch packets for New California, OH reference county grid Union County and elevation band 981 ft.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for New California, OH.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Material note: Insulation R-value targets in New California, OH should match pre-loss assemblies when documented.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in New California, OH.
+Desiccant dehumidifier sizing in New California, OH commercial zones differs from LGR residential defaults.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 43064.
+Risk flag: In New California, OH, delayed pack-out can swell cabinetry beyond salvage.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 43064.
+Tip: Save adjuster emails in one folder before calling back.
 
-File control: Claim filing codes was paired with Farmers routing language during intake review in New California.
+Built-in bookcase cavities in New California, OH trap humidity behind fixed shelving.
 
-Field note: Drying decisions were sequenced for ZIP sector 43064.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Dispatch sectors sampled: ZIP 43064 (county grid: Union County).
+Step: separate emergency extraction from structural drying line items.
+
+FAQ: When is hardwood salvage realistic in New California, OH? Density, duration, and contamination class decide—not optimism.
+
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Townhome party walls in New California, OH can transfer vapor across unit lines during shared losses.
+
+Permit note: Rebuild phases in New California, OH may need separate inspections from mitigation work.
+
+Plaster lathe ceilings in New California, OH pre-war homes hold moisture behind skim coats longer than drywall.
+
+IICRC reference: structural dry standards in New California, OH should be cited in scope documents.
+
+Recovery map 491070: structural drying targets and rebuild handoff flags logged for New California, OH postal sector 43064.
+
+File audit 491070: adjuster photo-set crosswalk and contents segregation reviewed for New California, OH at 40.1500/-83.2400.
+
+Mitigation trace: pack-out chain-of-custody, demolition salvage tag, and ceiling cavity bore scope cross-indexed for New California intake.
+
+On-site sector marker: Union County / elevation 981 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-43064-52b92372

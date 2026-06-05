@@ -12,28 +12,51 @@ lng: -85.0900
 zipSample: ["30161", "30172"]
 zipCodes: ["30172", "30161"]
 localPaths: ["Floyd County / elevation 692 ft band", "Floyd County / coords 34.3400, -85.0900", "Floyd County / ZIP 30161 sector", "Floyd County / primary ZIP 30161", "Floyd County / ZIP 30172 sector"]
-zillowHomeValueUsd: 217863
 ---
 
 **Engineering Notice for Shannon:** structural drying capacity optimized for 692ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Floyd County. Relative Humidity Threshold: 66%. Sensor sync: Active.
 
 
-Across Shannon, GA, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+FAQ: Will insurance cover pack-out? Carrier language and photo standards vary in Shannon, GA markets.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the storm cleanup file.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Storm Cleanup coordination in Shannon, GA is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Sump overflow in Shannon, GA can masquerade as foundation infiltration.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Shannon, GA are commonly checked when spread is suspected.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 30172/30161.
+Step: reconcile carrier photo requirements before tear-out in Shannon, GA.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 30161.
+Schedule extraction and drying as separate documented phases. File routing near 30161.
 
-Insurance note: mitigation invoice sequencing and scope authorization code were flagged for the Shannon file.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Field note: Equipment day-counts were reviewed around ZIP 30172/30161.
+Garage slab moisture in Shannon, GA can wick into adjacent finished rooms.
 
-Dispatch sectors sampled: ZIP 30172, 30161 (county grid: Floyd County).
+Step: separate emergency extraction from structural drying line items.
+
+Tip: Date-stamp moisture maps when adjusters request progress updates near 30161.
+
+Odor control in Shannon, GA category-two losses may require hydroxyl cycles separate from dehumidification.
+
+FAQ: When is delay costly? In Shannon, GA, extended damp periods expand demolition and mold-risk scope.
+
+Our storm cleanup intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
+
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
+
+Garage-to-house air barriers in Shannon, GA ranch plans affect drying chamber boundaries.
+
+Tip: Record when the water source was stopped and power restored in Shannon, GA.
+
+Claim dossier 330001: pack-out ledger and humidity log bands filed for Shannon, GA county Floyd County (ZIP 30161).
+
+Category note 330001: water-class notation and antimicrobial staging captured for Shannon, GA intake packet.
+
+Mitigation trace: grain depression target, demolition salvage tag, and subfloor MC probe cross-indexed for Shannon intake.
+
+Containment check: poly barrier seams photographed in Shannon, GA.
+
+Coordinate-anchored dispatch note: center reference 34.3400, -85.0900 at elevation ~692 ft aligns with Floyd County intake staging.
 
 Service reference: GA-30161-5d59f291

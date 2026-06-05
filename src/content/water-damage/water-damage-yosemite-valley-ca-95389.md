@@ -12,28 +12,45 @@ lng: -119.5800
 zipSample: ["95389"]
 zipCodes: ["95389"]
 localPaths: ["Mariposa County / elevation 4029 ft band", "Mariposa County / primary ZIP 95389", "Mariposa County / coords 37.7400, -119.5800", "Mariposa County / ZIP 95389 sector"]
-zillowHomeValueUsd: 657410
 ---
 
 **Engineering Notice for Yosemite Valley:** structural drying capacity optimized for 4029ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mariposa County. Relative Humidity Threshold: 74%. Sensor sync: Active.
 
 
-A flood restoration event in Yosemite Valley, CA is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Risk flag: Yosemite Valley, CA slab-on-grade homes may need core probes when perimeter walls read dry.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Yosemite Valley, CA.
+IICRC reference: structural dry standards in Yosemite Valley, CA should be cited in scope documents.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Elevated crawlspaces in Yosemite Valley, CA require vapor-retarder service before dehumidifier sizing.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Yosemite Valley, CA.
+Tip: Save adjuster emails in one folder before calling back.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 95389.
+Risk flag: In Yosemite Valley, CA, delayed pack-out can swell cabinetry beyond salvage.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 95389.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-Claim marker: Farmers routing language was logged beside adjuster photo-log near ZIP 95389.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Field note: Drying decisions were sequenced for ZIP sector 95389.
+Plaster lathe ceilings in Yosemite Valley, CA pre-war homes hold moisture behind skim coats longer than drywall.
 
-Dispatch sectors sampled: ZIP 95389 (county grid: Mariposa County).
+Dispatch packets for Yosemite Valley, CA reference county grid Mariposa County and elevation band 4029 ft.
+
+Cabinet toe-kick voids in Yosemite Valley, CA are common hidden moisture reservoirs.
+
+Technicians stage HEPA scrubbers before containment zip doors in Yosemite Valley, CA kitchen losses.
+
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+Step: reconcile carrier photo requirements before tear-out in Yosemite Valley, CA.
+
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Category note 115545: water-class notation and antimicrobial staging captured for Yosemite Valley, CA intake packet.
+
+Carrier sync 115545: depreciation worksheet lane and supplement language staged for ZIP 95389.
+
+Drying packet: pinless scan grid paired with negative air machine manometer near ZIP 95389 before scope lock.
+
+On-site sector marker: Mariposa County / elevation 4029 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95389-c7dfb53d

@@ -12,29 +12,45 @@ lng: -110.3700
 zipSample: ["86042"]
 zipCodes: ["86042"]
 localPaths: ["Navajo County / coords 35.8400, -110.3700", "Navajo County / primary ZIP 86042", "Navajo County / ZIP 86042 sector", "Navajo County / elevation 5663 ft band"]
-zillowHomeValueUsd: 448441
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for First Mesa:** structural drying capacity optimized for 5663ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Navajo County. Relative Humidity Threshold: 71%. Sensor sync: Active.
 
 
-Across First Mesa, AZ, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Book salvage review before pack-out crews mobilize. Grid anchor 86042.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the storm cleanup file.
+Step: separate emergency extraction from structural drying line items.
 
-Storm Cleanup coordination in First Mesa, AZ is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Technicians probe sill plates in First Mesa, AZ ranch layouts before declaring first-floor dry.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in First Mesa, AZ are commonly checked when spread is suspected.
+Garage slab moisture in First Mesa, AZ can wick into adjacent finished rooms.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 86042.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 86042.
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
 
-Coverage brief: pack-out ledger can change how loss diary entry is documented before scheduling.
+Dispatch packets for First Mesa, AZ reference county grid Navajo County and elevation band 5663 ft.
 
-Field note: Equipment day-counts were reviewed around ZIP 86042.
+Ceiling collapse risk in First Mesa, AZ multi-family units rises when saturated insulation loads truss chords.
 
-Dispatch sectors sampled: ZIP 86042 (county grid: Navajo County).
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
+
+FAQ: Will insurance cover pack-out? Carrier language and photo standards vary in First Mesa, AZ markets.
+
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
+
+Tip: Record when the water source was stopped and power restored in First Mesa, AZ.
+
+Equipment roster 330723: dehumidifier hour-meter and air-mover placement queued before First Mesa, AZ scope sign-off.
+
+Loss trace 330723: extraction velocity notes and demolition threshold markers keyed to First Mesa, AZ elevation 5663 ft.
+
+Drying packet: negative air machine manometer paired with air mover amp draw near ZIP 86042 before scope lock.
+
+On-site sector marker: Navajo County / ZIP 86042 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-86042-0187871f

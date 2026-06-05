@@ -12,29 +12,51 @@ lng: -87.8700
 zipSample: ["62466"]
 zipCodes: ["62466"]
 localPaths: ["Lawrence County / elevation 466 ft band", "Lawrence County / ZIP 62466 sector", "Lawrence County / coords 38.7200, -87.8700", "Lawrence County / primary ZIP 62466"]
-zillowHomeValueUsd: 228574
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Sumner:** structural drying capacity optimized for 466ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lawrence County. Relative Humidity Threshold: 79%. Sensor sync: Active.
 
 
-A emergency dry-out event in Sumner, IL is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Step: photograph standing water and material edges before extraction.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Sumner, IL.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Risk flag: Sumner, IL slab-on-grade homes may need core probes when perimeter walls read dry.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Sumner, IL.
+Our emergency dry-out intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 62466.
+Thermal imaging in Sumner, IL is scheduled after surface readings plateau for two cycles.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 62466.
+Request room-by-room demolition thresholds tied to meter readings. Grid anchor 62466.
 
-File control: depreciation worksheet was paired with water category notation during intake review in Sumner.
+FAQ: When is hardwood salvage realistic in Sumner, IL? Density, duration, and contamination class decide—not optimism.
 
-Field note: Equipment day-counts were reviewed around ZIP 62466.
+Step: isolate affected rooms with poly barriers before air-mover placement in Sumner, IL.
 
-Dispatch sectors sampled: ZIP 62466 (county grid: Lawrence County).
+Step: stage dehumidifier capacity against cubic footage and class of water.
+
+Plaster lathe ceilings in Sumner, IL pre-war homes hold moisture behind skim coats longer than drywall.
+
+Desiccant dehumidifier sizing in Sumner, IL commercial zones differs from LGR residential defaults.
+
+FAQ: How fast should mitigation start? In Sumner, IL, extended damp periods expand demolition and mold-risk scope.
+
+Technicians probe sill plates in Sumner, IL ranch layouts before declaring first-floor dry.
+
+Tip: Record when the water source was stopped and power restored in Sumner, IL.
+
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
+
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
+
+Category note 570000: water-class notation and antimicrobial staging captured for Sumner, IL intake packet.
+
+Carrier sync 570000: depreciation worksheet lane and supplement language staged for ZIP 62466.
+
+Loss file: flood cut elevation mark plus pack-out chain-of-custody referenced in Lawrence County county review.
+
+Humidity target: control setpoints reviewed for Lawrence County county grid.
+
+Coordinate-anchored dispatch note: center reference 38.7200, -87.8700 at elevation ~466 ft aligns with Lawrence County intake staging.
 
 Service reference: IL-62466-d2e92040

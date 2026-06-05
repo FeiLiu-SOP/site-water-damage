@@ -12,30 +12,51 @@ lng: -116.5900
 zipSample: ["92036"]
 zipCodes: ["92036"]
 localPaths: ["San Diego County / elevation 4364 ft band", "San Diego County / primary ZIP 92036", "San Diego County / ZIP 92036 sector", "San Diego County / coords 33.0700, -116.5900"]
-zillowHomeValueUsd: 579628
 ---
 
 **Engineering Notice for Julian:** structural drying capacity optimized for 4364ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Diego County. Relative Humidity Threshold: 69%. Sensor sync: Active.
 
 
-A water mitigation event in Julian, CA is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Built-in bookcase cavities in Julian, CA trap humidity behind fixed shelving.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Julian, CA.
+Radiant floor loops in Julian, CA slab homes need isolated zones before jack-hammer exploration.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Step: map contents salvage lanes before pack-out crews arrive.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Julian, CA.
+Crawlspace vapor barriers in Julian, CA may trap moisture if torn during extraction hose routing.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 92036.
+Desiccant dehumidifier sizing in Julian, CA commercial zones differs from LGR residential defaults.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 92036.
+Permit note: Rebuild phases in Julian, CA may need separate inspections from mitigation work.
 
-File control: contents-vs-structure split was paired with Liberty Mutual mitigation notes during intake review in Julian.
+Step: label removed materials for disposal manifests and claim packets.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Julian, CA.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Field note: Drying decisions were sequenced for ZIP sector 92036.
+Ask for claim-facing photo standards before work begins. File routing near 92036.
 
-Dispatch sectors sampled: ZIP 92036 (county grid: San Diego County).
+Stairwell chase moisture in Julian, CA tri-level homes can lag main-floor readings by days.
+
+Cabinet toe-kick voids in Julian, CA are common hidden moisture reservoirs.
+
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
+
+Request room-by-room demolition thresholds tied to meter readings. Grid anchor 92036.
+
+We coordinate Julian, CA mitigation with written scope, equipment assumptions, and claim-facing notes.
+
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
+
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
+
+Equipment roster 142210: dehumidifier hour-meter and air-mover placement queued before Julian, CA scope sign-off.
+
+Recovery map 142210: structural drying targets and rebuild handoff flags logged for Julian, CA postal sector 92036.
+
+Loss file: wall cavity vent hole plus pinless scan grid referenced in San Diego County county review.
+
+Claim packet: photo standards cross-checked for Julian, CA intake file.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~4364 ft across the San Diego County area. Coordinates: 33.0700, -116.5900. ZIP sample: 92036. Regional routing note: San Diego County traffic flow is balanced around ZIP 92036 service demand.
 
 Service reference: CA-92036-744a611b

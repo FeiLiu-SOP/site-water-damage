@@ -12,28 +12,47 @@ lng: -89.8700
 zipSample: ["62264"]
 zipCodes: ["62264"]
 localPaths: ["St. Clair County / primary ZIP 62264", "St. Clair County / elevation 427 ft band", "St. Clair County / ZIP 62264 sector", "St. Clair County / coords 38.3200, -89.8700"]
-zillowHomeValueUsd: 158991
 ---
 
 **Engineering Notice for New Athens:** structural drying capacity optimized for 427ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Clair County. Relative Humidity Threshold: 76%. Sensor sync: Active.
 
 
-In New Athens, IL, flood restoration requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in New Athens, IL must be dried before reconstruction is discussed.
+Risk flag: New Athens, IL slab-on-grade homes may need core probes when perimeter walls read dry.
 
-Our intake team frames flood restoration jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+In New Athens, IL, flood restoration calls often start with moisture mapping before demolition is discussed.
 
-FAQ: How fast should action start? In New Athens, IL, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 62264.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Book a field review and request a written flood restoration scope before mitigation equipment is staged. Serving ZIP Code: 62264.
+FAQ: Who inventories contents? Carrier language and photo standards vary in New Athens, IL markets.
 
-Coverage brief: scope authorization code can change how Farmers routing language is documented before scheduling.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Field note: Intake notes were reconciled with county grid St. Clair County.
+Contents pack-out in New Athens, IL should be photographed before movement off-site.
 
-Dispatch sectors sampled: ZIP 62264 (county grid: St. Clair County).
+Built-in bookcase cavities in New Athens, IL trap humidity behind fixed shelving.
+
+Tip: Photograph ceiling stains with a ruler reference before tarping near ZIP 62264.
+
+Tip: Date-stamp moisture maps when adjusters request progress updates near 62264.
+
+Desiccant dehumidifier sizing in New Athens, IL commercial zones differs from LGR residential defaults.
+
+Risk flag: In New Athens, IL, delayed pack-out can swell cabinetry beyond salvage.
+
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
+
+Request a written flood restoration scope with equipment list and target readings. Primary postal sector: 62264.
+
+Equipment roster 149434: dehumidifier hour-meter and air-mover placement queued before New Athens, IL scope sign-off.
+
+Mitigation ledger 149434: moisture map grid, salvage lane tags, and drying day-count staged for New Athens, IL at 38.3200, -89.8700.
+
+Loss file: air mover amp draw plus equilibrium moisture content referenced in St. Clair County county review.
+
+ZIP-corridor snapshot for New Athens, IL: sampled sectors include 62264; county routing grid remains St. Clair County.
 
 Service reference: IL-62264-25e2f332

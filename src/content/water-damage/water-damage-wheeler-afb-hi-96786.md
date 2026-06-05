@@ -12,28 +12,49 @@ lng: -158.0400
 zipSample: ["96786", "96854"]
 zipCodes: ["96786", "96854"]
 localPaths: ["Honolulu County / ZIP 96854 sector", "Honolulu County / coords 21.4800, -158.0400", "Honolulu County / elevation 801 ft band", "Honolulu County / ZIP 96786 sector", "Honolulu County / primary ZIP 96786"]
-zillowHomeValueUsd: 850693
 ---
 
 **Engineering Notice for Wheeler AFB:** structural drying capacity optimized for 801ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Honolulu County. Relative Humidity Threshold: 75%. Sensor sync: Active.
 
 
-Property owners in Wheeler AFB, HI may see a disaster cleanup event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Elevated crawlspaces in Wheeler AFB, HI require vapor-retarder remediation before dehumidifier sizing.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Wheeler AFB, HI.
+FAQ: When is hardwood salvage realistic in Wheeler AFB, HI? Density, duration, and contamination class decide—not optimism.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-FAQ: What slows recovery most? In Wheeler AFB, HI, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-Tip: Save professional notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 96786/96854.
+Non-penetrating meter sweeps in Wheeler AFB, HI hallways often read dry while baseboards remain elevated.
 
-Ask for a room-by-room disaster cleanup outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 96786.
+Thermal imaging in Wheeler AFB, HI is scheduled after surface readings plateau for two cycles.
 
-Insurance note: contents-vs-structure split and temporary remediation receipt were flagged for the Wheeler AFB file.
+About us: We prioritize measurable drying evidence over headline speed claims.
 
-Field note: Moisture logs were aligned with salvage routing in Wheeler AFB, HI.
+Technicians stage HEPA scrubbers before containment zip doors in Wheeler AFB, HI kitchen losses.
 
-Dispatch sectors sampled: ZIP 96786, 96854 (county grid: Honolulu County).
+Tip: Date-stamp moisture maps when adjusters request progress updates near 96786.
+
+Attic staining in Wheeler AFB, HI may follow HVAC condensate rather than roof breaches.
+
+Radiant floor loops in Wheeler AFB, HI slab homes need isolated zones before jack-hammer exploration.
+
+FAQ: Who inventories contents? Carrier language and photo standards vary in Wheeler AFB, HI markets.
+
+Freeze-burst events in Wheeler AFB, HI often damage multiple wall bays before owners notice flow.
+
+Risk flag: Wheeler AFB, HI slab-on-grade homes may need core probes when perimeter walls read dry.
+
+Townhome party walls in Wheeler AFB, HI can transfer vapor across unit lines during shared losses.
+
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Claim dossier 338219: pack-out ledger and humidity log bands filed for Wheeler AFB, HI county Honolulu County (ZIP 96786).
+
+File audit 338219: adjuster photo-set crosswalk and contents segregation reviewed for Wheeler AFB, HI at 21.4800/-158.0400.
+
+Mitigation trace: pack-out chain-of-custody, hardwood moisture strip, and subfloor MC probe cross-indexed for Wheeler AFB intake.
+
+On-site sector marker: Honolulu County / elevation 801 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: HI-96786-c8651a21

@@ -12,28 +12,47 @@ lng: -89.2800
 zipSample: ["62548"]
 zipCodes: ["62548"]
 localPaths: ["Logan County / primary ZIP 62548", "Logan County / coords 40.0100, -89.2800", "Logan County / elevation 682 ft band", "Logan County / ZIP 62548 sector"]
-zillowHomeValueUsd: 150890
 ---
 
 **Engineering Notice for Mount Pulaski:** structural drying capacity optimized for 682ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Logan County. Relative Humidity Threshold: 76%. Sensor sync: Active.
 
 
-A flood restoration event in Mount Pulaski, IL is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Mount Pulaski, IL.
+About us: We prioritize measurable drying evidence over headline speed claims.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Mount Pulaski, IL.
+Built-in bookcase cavities in Mount Pulaski, IL trap humidity behind fixed shelving.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 62548.
+Contents pack-out in Mount Pulaski, IL should be photographed before movement off-site.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 62548.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Insurance note: adjuster photo-log and loss diary entry were flagged for the Mount Pulaski file.
+FAQ: When is hardwood salvage realistic in Mount Pulaski, IL? Density, duration, and contamination class decide—not optimism.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Mount Pulaski, IL.
+Desiccant dehumidifier sizing in Mount Pulaski, IL commercial zones differs from LGR residential defaults.
 
-Dispatch sectors sampled: ZIP 62548 (county grid: Logan County).
+Tip: Log refrigerator line shutoffs before moving units in Mount Pulaski, IL kitchen losses.
+
+Elevated crawlspaces in Mount Pulaski, IL require vapor-retarder remediation before dehumidifier sizing.
+
+Townhome party walls in Mount Pulaski, IL can transfer vapor across unit lines during shared losses.
+
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
+
+Plaster lathe ceilings in Mount Pulaski, IL pre-war homes hold moisture behind skim coats longer than drywall.
+
+Risk flag: In Mount Pulaski, IL, delayed pack-out can swell cabinetry beyond salvage.
+
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
+
+Rebuild bridge 212912: cabinet toe-kick probes and subfloor MC readings logged at 40.0100, -89.2800.
+
+File audit 212912: adjuster photo-set crosswalk and contents segregation reviewed for Mount Pulaski, IL at 40.0100/-89.2800.
+
+Loss file: antimicrobial dwell clock plus negative air machine manometer referenced in Logan County county review.
+
+On-site sector marker: Logan County / elevation 682 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62548-ed650380

@@ -12,29 +12,45 @@ lng: -66.2500
 zipSample: ["00949"]
 zipCodes: ["00949"]
 localPaths: ["Toa Baja County / ZIP 00949 sector", "Toa Baja County / elevation 233 ft band", "Toa Baja County / primary ZIP 00949", "Toa Baja County / coords 18.4000, -66.2500"]
-zillowHomeValueUsd: 357134
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for San José:** structural drying capacity optimized for 233ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Toa Baja County. Relative Humidity Threshold: 71%. Sensor sync: Active.
 
 
-Property owners in San José, PR may see a emergency dry-out event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Crawlspace vapor barriers in San José, PR may trap moisture if torn during extraction hose routing.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for San José, PR.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Radiant floor loops in San José, PR slab homes need isolated zones before jack-hammer exploration.
 
-FAQ: What slows recovery most? In San José, PR, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Technicians stage HEPA scrubbers before containment zip doors in San José, PR kitchen losses.
 
-Tip: Save expert notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 00949.
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
 
-Ask for a room-by-room emergency dry-out outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 00949.
+Book salvage review before pack-out crews mobilize. Grid anchor 00949.
 
-Coverage brief: reserve change notes can change how loss diary entry is documented before scheduling.
+Risk flag: San José, PR slab-on-grade homes may need core probes when perimeter walls read dry.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in San José, PR.
+Category-two losses in San José, PR require antimicrobial staging decisions before rebuild quotes.
 
-Dispatch sectors sampled: ZIP 00949 (county grid: Toa Baja County).
+Basement seepage in San José, PR may track foundation cracks rather than appliance failures.
+
+Plaster lathe ceilings in San José, PR pre-war homes hold moisture behind skim coats longer than drywall.
+
+Thermal imaging in San José, PR is scheduled after surface readings plateau for two cycles.
+
+Regulatory note: San José, PR projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+Step: isolate affected rooms with poly barriers before air-mover placement in San José, PR.
+
+Technicians probe sill plates in San José, PR ranch layouts before declaring first-floor dry.
+
+Containment dossier 168246: poly barrier seams and HEPA scrubber hours keyed to San José, PR grid Toa Baja County.
+
+Loss trace 168246: extraction velocity notes and demolition threshold markers keyed to San José, PR elevation 233 ft.
+
+Loss file: contents ozone quarantine plus non-penetrating meter mode referenced in Toa Baja County county review.
+
+Regional mesh label Toa Baja County: moisture and logistics baselines are keyed to San José, PR before niche-specific work begins.
 
 Service reference: PR-00949-69843a86

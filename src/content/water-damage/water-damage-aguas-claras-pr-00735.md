@@ -12,29 +12,47 @@ lng: -65.6700
 zipSample: ["00735"]
 zipCodes: ["00735"]
 localPaths: ["Ceiba County / coords 18.2400, -65.6700", "Ceiba County / ZIP 00735 sector", "Ceiba County / elevation 367 ft band", "Ceiba County / primary ZIP 00735"]
-zillowHomeValueUsd: 368080
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Aguas Claras:** structural drying capacity optimized for 367ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ceiba County. Relative Humidity Threshold: 79%. Sensor sync: Active.
 
 
-When water loss recovery cases are reviewed in Aguas Claras, PR, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Humidity pockets in Aguas Claras, PR wall cavities can persist after visible drying on surfaces.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Aguas Claras, PR.
+Stairwell chase moisture in Aguas Claras, PR tri-level homes can lag main-floor readings by days.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Elevator pit flooding in Aguas Claras, PR commercial stacks needs pump-out before cab service resumes.
 
-FAQ: Is every wet material removed immediately? Not always. In Aguas Claras, PR, some assemblies are monitored through readings before invasive removal is approved.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 00735.
+Built-in bookcase cavities in Aguas Claras, PR trap humidity behind fixed shelving.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 00735.
+Desiccant dehumidifier sizing in Aguas Claras, PR commercial zones differs from LGR residential defaults.
 
-Claim marker: Allstate loss review was logged beside contents-vs-structure split near ZIP 00735.
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
 
-Field note: Moisture logs were aligned with salvage routing in Aguas Claras, PR.
+Request room-by-room demolition thresholds tied to meter readings. Grid anchor 00735.
 
-Dispatch sectors sampled: ZIP 00735 (county grid: Ceiba County).
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
+
+Risk flag: Aguas Claras, PR slab-on-grade homes may need core probes when perimeter walls read dry.
+
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
+
+Elevated crawlspaces in Aguas Claras, PR require vapor-retarder service before dehumidifier sizing.
+
+Confirm power load assumptions before overnight equipment runs. County corridor Ceiba County.
+
+Cabinet toe-kick voids in Aguas Claras, PR are common hidden moisture reservoirs.
+
+Regulatory note: Aguas Claras, PR projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+Category note 880491: water-class notation and antimicrobial staging captured for Aguas Claras, PR intake packet.
+
+Mitigation ledger 880491: moisture map grid, salvage lane tags, and drying day-count staged for Aguas Claras, PR at 18.2400, -65.6700.
+
+Drying packet: desiccant rotor hour paired with air mover amp draw near ZIP 00735 before scope lock.
+
+On-site sector marker: Ceiba County / coords 18.2400, -65.6700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00735-a7c826fb

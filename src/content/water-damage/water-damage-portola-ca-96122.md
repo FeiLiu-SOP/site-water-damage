@@ -12,28 +12,51 @@ lng: -120.4700
 zipSample: ["96122"]
 zipCodes: ["96122"]
 localPaths: ["Plumas County / coords 39.8200, -120.4700", "Plumas County / primary ZIP 96122", "Plumas County / elevation 5115 ft band", "Plumas County / ZIP 96122 sector"]
-zillowHomeValueUsd: 262356
 ---
 
 **Engineering Notice for Portola:** structural drying capacity optimized for 5115ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Plumas County. Relative Humidity Threshold: 77%. Sensor sync: Active.
 
 
-In Portola, CA, flood restoration requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Portola, CA must be dried before reconstruction is discussed.
+Step: photograph standing water and material edges before extraction.
 
-Our intake team frames flood restoration jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Step: separate emergency extraction from structural drying line items.
 
-FAQ: How fast should action start? In Portola, CA, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 96122.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Book a field review and request a written flood restoration scope before mitigation equipment is staged. Serving ZIP Code: 96122.
+Crawlspace vapor barriers in Portola, CA may trap moisture if torn during extraction hose routing.
 
-Insurance note: Deductible and water category notation were flagged for the Portola file.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Field note: Equipment day-counts were reviewed around ZIP 96122.
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
 
-Dispatch sectors sampled: ZIP 96122 (county grid: Plumas County).
+Thermal imaging in Portola, CA is scheduled after surface readings plateau for two cycles.
+
+Risk flag: Incomplete claim packets in Portola, CA often force duplicate site visits.
+
+Step: reconcile carrier photo requirements before tear-out in Portola, CA.
+
+Regulatory note: Portola, CA projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+FAQ: When is delay costly? In Portola, CA, extended damp periods expand demolition and mold-risk scope.
+
+Risk flag: In Portola, CA, delayed pack-out can swell cabinetry beyond salvage.
+
+Elevated crawlspaces in Portola, CA require vapor-retarder service before dehumidifier sizing.
+
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
+
+Loss trace 345258: extraction velocity notes and demolition threshold markers keyed to Portola, CA elevation 5115 ft.
+
+Equipment roster 345258: dehumidifier hour-meter and air-mover placement queued before Portola, CA scope sign-off.
+
+Drying packet: LGR condensate yield paired with structural dry standard near ZIP 96122 before scope lock.
+
+Thermal pass: infrared scan queued after second dry cycle in Portola, CA.
+
+On-site sector marker: Plumas County / coords 39.8200, -120.4700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-96122-aff22d1e

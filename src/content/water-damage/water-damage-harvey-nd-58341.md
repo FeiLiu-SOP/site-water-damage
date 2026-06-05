@@ -12,30 +12,49 @@ lng: -99.9300
 zipSample: ["58341"]
 zipCodes: ["58341"]
 localPaths: ["Wells County / ZIP 58341 sector", "Wells County / coords 47.7800, -99.9300", "Wells County / primary ZIP 58341", "Wells County / elevation 1591 ft band"]
-zillowHomeValueUsd: 139157
 ---
 
 **Engineering Notice for Harvey:** structural drying capacity optimized for 1591ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wells County. Relative Humidity Threshold: 77%. Sensor sync: Active.
 
 
-In Harvey, ND, moisture restoration requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+About us: We prioritize measurable drying evidence over headline speed claims.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Harvey, ND must be dried before reconstruction is discussed.
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
 
-Our intake team frames moisture restoration jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Contents pack-out in Harvey, ND should be photographed before movement off-site.
 
-FAQ: How fast should action start? In Harvey, ND, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Elevated crawlspaces in Harvey, ND require vapor-retarder service before dehumidifier sizing.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 58341.
+Elevator pit flooding in Harvey, ND commercial stacks needs pump-out before cab service resumes.
 
-Book a field review and request a written moisture restoration scope before mitigation equipment is staged. Serving ZIP Code: 58341.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Insurance note: Allstate loss review and reserve change notes were flagged for the Harvey file.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Field note: Intake notes were reconciled with county grid Wells County.
+Built-in bookcase cavities in Harvey, ND trap humidity behind fixed shelving.
 
-Field note: Moisture logs were aligned with salvage routing in Harvey, ND.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Dispatch sectors sampled: ZIP 58341 (county grid: Wells County).
+Crawlspace vapor barriers in Harvey, ND may trap moisture if torn during extraction hose routing.
+
+Schedule extraction and drying as separate documented phases. File routing near 58341.
+
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
+
+Confirm power load assumptions before overnight equipment runs. County corridor Wells County.
+
+Garage slab moisture in Harvey, ND can wick into adjacent finished rooms.
+
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
+
+Regulatory note: Harvey, ND projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+Containment dossier 980745: poly barrier seams and HEPA scrubber hours keyed to Harvey, ND grid Wells County.
+
+Equipment roster 980745: dehumidifier hour-meter and air-mover placement queued before Harvey, ND scope sign-off.
+
+Mitigation trace: rebuild moisture clearance, equilibrium moisture content, and negative air machine manometer cross-indexed for Harvey intake.
+
+On-site sector marker: Wells County / primary ZIP 58341 — logged for map parity and ZIP-corridor verification.
 
 Service reference: ND-58341-500f6935

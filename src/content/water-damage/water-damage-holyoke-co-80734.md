@@ -12,30 +12,45 @@ lng: -102.3000
 zipSample: ["80734"]
 zipCodes: ["80734"]
 localPaths: ["Phillips County / ZIP 80734 sector", "Phillips County / elevation 3747 ft band", "Phillips County / coords 40.5800, -102.3000", "Phillips County / primary ZIP 80734"]
-zillowHomeValueUsd: 260681
 ---
 
 **Engineering Notice for Holyoke:** structural drying capacity optimized for 3747ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Phillips County. Relative Humidity Threshold: 73%. Sensor sync: Active.
 
 
-A water mitigation event in Holyoke, CO is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Schedule extraction and drying as separate documented phases. File routing near 80734.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Holyoke, CO.
+Step: isolate affected rooms with poly barriers before air-mover placement in Holyoke, CO.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Holyoke, CO.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 80734.
+IICRC reference: structural dry standards in Holyoke, CO should be cited in scope documents.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 80734.
+Radiant floor loops in Holyoke, CO slab homes need isolated zones before jack-hammer exploration.
 
-File control: loss diary entry was paired with depreciation worksheet during intake review in Holyoke.
+Step: label removed materials for disposal manifests and claim packets.
 
-Field note: Intake notes were reconciled with county grid Phillips County.
+Book salvage review before pack-out crews mobilize. Grid anchor 80734.
 
-Field note: Drying decisions were sequenced for ZIP sector 80734.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Dispatch sectors sampled: ZIP 80734 (county grid: Phillips County).
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
+
+Tip: Photograph ceiling stains with a ruler reference before tarping near ZIP 80734.
+
+Desiccant dehumidifier sizing in Holyoke, CO commercial zones differs from LGR residential defaults.
+
+Freeze-burst events in Holyoke, CO often damage multiple wall bays before owners notice flow.
+
+FAQ: Why isolate rooms? Containment concentrates dehumidification and protects unaffected areas.
+
+Recovery map 148256: structural drying targets and rebuild handoff flags logged for Holyoke, CO postal sector 80734.
+
+File audit 148256: adjuster photo-set crosswalk and contents segregation reviewed for Holyoke, CO at 40.5800/-102.3000.
+
+Loss file: ceiling cavity bore scope plus pack-out chain-of-custody referenced in Phillips County county review.
+
+On-site sector marker: Phillips County / coords 40.5800, -102.3000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80734-99e9357e

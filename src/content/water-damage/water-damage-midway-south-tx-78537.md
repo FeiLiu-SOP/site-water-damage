@@ -12,30 +12,47 @@ lng: -98.0200
 zipSample: ["78596", "78537"]
 zipCodes: ["78537", "78596"]
 localPaths: ["Hidalgo County / ZIP 78537 sector", "Hidalgo County / elevation 95 ft band", "Hidalgo County / primary ZIP 78537", "Hidalgo County / coords 26.1600, -98.0200", "Hidalgo County / ZIP 78596 sector"]
-zillowHomeValueUsd: 152970
 ---
 
 **Engineering Notice for Midway South:** structural drying capacity optimized for 95ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hidalgo County. Relative Humidity Threshold: 83%. Sensor sync: Active.
 
 
-In Midway South, TX, water mitigation requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Humidity pockets in Midway South, TX wall cavities can persist after visible drying on surfaces.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Midway South, TX must be dried before reconstruction is discussed.
+Contents pack-out in Midway South, TX should be photographed before movement off-site.
 
-Our intake team frames water mitigation jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Ceiling collapse risk in Midway South, TX multi-family units rises when saturated insulation loads truss chords.
 
-FAQ: How fast should action start? In Midway South, TX, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 78537/78596.
+Thermal imaging in Midway South, TX is scheduled after surface readings plateau for two cycles.
 
-Book a field review and request a written water mitigation scope before mitigation equipment is staged. Serving ZIP Code: 78537.
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
 
-Insurance note: loss diary entry and Claim filing codes were flagged for the Midway South file.
+Stairwell chase moisture in Midway South, TX tri-level homes can lag main-floor readings by days.
 
-Field note: Moisture logs were aligned with salvage routing in Midway South, TX.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Midway South, TX.
+Technicians stage HEPA scrubbers before containment zip doors in Midway South, TX kitchen losses.
 
-Dispatch sectors sampled: ZIP 78537, 78596 (county grid: Hidalgo County).
+Built-in bookcase cavities in Midway South, TX trap humidity behind fixed shelving.
+
+Crawlspace vapor barriers in Midway South, TX may trap moisture if torn during extraction hose routing.
+
+Book salvage review before pack-out crews mobilize. Grid anchor 78537.
+
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+Plaster lathe ceilings in Midway South, TX pre-war homes hold moisture behind skim coats longer than drywall.
+
+IICRC reference: structural dry standards in Midway South, TX should be cited in scope documents.
+
+Mitigation ledger 411504: moisture map grid, salvage lane tags, and drying day-count staged for Midway South, TX at 26.1600, -98.0200.
+
+Equipment roster 411504: dehumidifier hour-meter and air-mover placement queued before Midway South, TX scope sign-off.
+
+Drying packet: desiccant rotor hour paired with rebuild moisture clearance near ZIP 78537 before scope lock.
+
+Primary postal anchor 78537 with multi-ZIP overlap in Midway South; field packets tag Hidalgo County for county-grid reconciliation.
 
 Service reference: TX-78537-73a9ab3a

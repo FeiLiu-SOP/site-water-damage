@@ -12,28 +12,45 @@ lng: -117.8700
 zipSample: ["97883"]
 zipCodes: ["97883"]
 localPaths: ["Union County / elevation 2782 ft band", "Union County / coords 45.2100, -117.8700", "Union County / primary ZIP 97883", "Union County / ZIP 97883 sector"]
-zillowHomeValueUsd: 300000
 ---
 
 **Engineering Notice for Union:** structural drying capacity optimized for 2782ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Union County. Relative Humidity Threshold: 78%. Sensor sync: Active.
 
 
-Across Union, OR, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the flood restoration file.
+Non-penetrating meter sweeps in Union, OR hallways often read dry while baseboards remain elevated.
 
-Flood Restoration coordination in Union, OR is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Multi-story Union, OR losses need vertical moisture migration checks on lower levels.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Union, OR are commonly checked when spread is suspected.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 97883.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 97883.
+Step: label removed materials for disposal manifests and claim packets.
 
-File control: State Farm coverage patterns was paired with temporary restoration receipt during intake review in Union.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Union, OR.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Dispatch sectors sampled: ZIP 97883 (county grid: Union County).
+Townhome party walls in Union, OR can transfer vapor across unit lines during shared losses.
+
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+Humidity pockets in Union, OR wall cavities can persist after visible drying on surfaces.
+
+Step: reconcile carrier photo requirements before tear-out in Union, OR.
+
+FAQ: When is hardwood salvage realistic in Union, OR? Density, duration, and contamination class decide—not optimism.
+
+Garage-to-house air barriers in Union, OR ranch plans affect drying chamber boundaries.
+
+Containment dossier 858825: poly barrier seams and HEPA scrubber hours keyed to Union, OR grid Union County.
+
+File audit 858825: adjuster photo-set crosswalk and contents segregation reviewed for Union, OR at 45.2100/-117.8700.
+
+Mitigation trace: pack-out chain-of-custody, demolition salvage tag, and wall cavity vent hole cross-indexed for Union intake.
+
+Coordinate-anchored dispatch note: center reference 45.2100, -117.8700 at elevation ~2782 ft aligns with Union County intake staging.
 
 Service reference: OR-97883-2d070d54

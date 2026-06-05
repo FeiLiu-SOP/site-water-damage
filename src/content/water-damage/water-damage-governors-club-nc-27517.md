@@ -12,28 +12,45 @@ lng: -79.0500
 zipSample: ["27517"]
 zipCodes: ["27517"]
 localPaths: ["Chatham County / coords 35.8400, -79.0500", "Chatham County / ZIP 27517 sector", "Chatham County / primary ZIP 27517", "Chatham County / elevation 469 ft band"]
-zillowHomeValueUsd: 674733
 ---
 
 **Engineering Notice for Governors Club:** structural drying capacity optimized for 469ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chatham County. Relative Humidity Threshold: 84%. Sensor sync: Active.
 
 
-A emergency dry-out event in Governors Club, NC is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Step: isolate affected rooms with poly barriers before air-mover placement in Governors Club, NC.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Governors Club, NC.
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Tip: Log refrigerator line shutoffs before moving units in Governors Club, NC kitchen losses.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Governors Club, NC.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 27517.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 27517.
+Crawlspace vapor barriers in Governors Club, NC may trap moisture if torn during extraction hose routing.
 
-File control: Allstate loss review was paired with coverage threshold marker during intake review in Governors Club.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 27517.
 
-Field note: Equipment day-counts were reviewed around ZIP 27517.
+Material note: Insulation R-value targets in Governors Club, NC should match pre-loss assemblies when documented.
 
-Dispatch sectors sampled: ZIP 27517 (county grid: Chatham County).
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+Subfloor cupping in Governors Club, NC can lag source-stop by several drying days.
+
+Dispatch packets for Governors Club, NC reference county grid Chatham County and elevation band 469 ft.
+
+Tip: List detached baseboards and removed insulation by room for claim traceability.
+
+Containment dossier 137880: poly barrier seams and HEPA scrubber hours keyed to Governors Club, NC grid Chatham County.
+
+Equipment roster 137880: dehumidifier hour-meter and air-mover placement queued before Governors Club, NC scope sign-off.
+
+Loss file: LGR condensate yield plus containment zipper door referenced in Chatham County county review.
+
+On-site sector marker: Chatham County / elevation 469 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-27517-ae130e3a

@@ -12,30 +12,47 @@ lng: -89.1300
 zipSample: ["61369"]
 zipCodes: ["61369"]
 localPaths: ["Marshall County / coords 41.0000, -89.1300", "Marshall County / ZIP 61369 sector", "Marshall County / primary ZIP 61369", "Marshall County / elevation 696 ft band"]
-zillowHomeValueUsd: 109376
 ---
 
 **Engineering Notice for Toluca:** structural drying capacity optimized for 696ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marshall County. Relative Humidity Threshold: 76%. Sensor sync: Active.
 
 
-A property drying event in Toluca, IL is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Schedule extraction and drying as separate documented phases. File routing near 61369.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Toluca, IL.
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Confirm power load assumptions before overnight equipment runs. County corridor Marshall County.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Toluca, IL.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 61369.
+Tip: Log refrigerator line shutoffs before moving units in Toluca, IL kitchen losses.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 61369.
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
 
-Claim marker: water category notation was logged beside Farmers routing language near ZIP 61369.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Field note: Equipment day-counts were reviewed around ZIP 61369.
+Ceiling collapse risk in Toluca, IL multi-family units rises when saturated insulation loads truss chords.
 
-Field note: Drying decisions were sequenced for ZIP sector 61369.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Dispatch sectors sampled: ZIP 61369 (county grid: Marshall County).
+In Toluca, IL, property drying calls often start with moisture mapping before demolition is discussed.
+
+Tip: Date-stamp moisture maps when adjusters request progress updates near 61369.
+
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
+
+Step: separate emergency extraction from structural drying line items.
+
+Townhome party walls in Toluca, IL can transfer vapor across unit lines during shared losses.
+
+Rebuild bridge 860281: cabinet toe-kick probes and subfloor MC readings logged at 41.0000, -89.1300.
+
+Category note 860281: water-class notation and antimicrobial staging captured for Toluca, IL intake packet.
+
+Drying packet: psychrometric chart band paired with structural dry standard near ZIP 61369 before scope lock.
+
+Humidity target: control setpoints reviewed for Marshall County county grid.
+
+On-site sector marker: Marshall County / coords 41.0000, -89.1300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-61369-ed212864

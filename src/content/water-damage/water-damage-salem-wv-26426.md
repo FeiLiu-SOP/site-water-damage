@@ -12,30 +12,47 @@ lng: -80.5600
 zipSample: ["26426"]
 zipCodes: ["26426"]
 localPaths: ["Harrison County / primary ZIP 26426", "Harrison County / elevation 1181 ft band", "Harrison County / ZIP 26426 sector", "Harrison County / coords 39.2800, -80.5600"]
-zillowHomeValueUsd: 127261
 ---
 
 **Engineering Notice for Salem:** structural drying capacity optimized for 1181ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harrison County. Relative Humidity Threshold: 69%. Sensor sync: Active.
 
 
-Across Salem, WV, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the disaster cleanup file.
+Book salvage review before pack-out crews mobilize. Grid anchor 26426.
 
-Disaster Cleanup coordination in Salem, WV is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Salem, WV are commonly checked when spread is suspected.
+Open a mitigation intake with drying targets and rebuild dependencies listed. County corridor Harrison County.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 26426.
+Elevator pit flooding in Salem, WV commercial stacks needs pump-out before cab service resumes.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 26426.
+IICRC reference: structural dry standards in Salem, WV should be cited in scope documents.
 
-File control: Deductible was paired with depreciation worksheet during intake review in Salem.
+Non-penetrating meter sweeps in Salem, WV hallways often read dry while baseboards remain elevated.
 
-Field note: Drying decisions were sequenced for ZIP sector 26426.
+Regulatory note: Salem, WV projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Salem, WV.
+Category-two losses in Salem, WV require antimicrobial staging decisions before rebuild quotes.
 
-Dispatch sectors sampled: ZIP 26426 (county grid: Harrison County).
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
+
+Desiccant dehumidifier sizing in Salem, WV commercial zones differs from LGR residential defaults.
+
+In Salem, WV, disaster cleanup calls often start with moisture mapping before demolition is discussed.
+
+Sump overflow in Salem, WV can masquerade as foundation infiltration.
+
+Radiant floor loops in Salem, WV slab homes need isolated zones before jack-hammer exploration.
+
+Book a moisture-map review before demolition approvals. Primary postal sector: 26426.
+
+Claim dossier 807037: pack-out ledger and humidity log bands filed for Salem, WV county Harrison County (ZIP 26426).
+
+File audit 807037: adjuster photo-set crosswalk and contents segregation reviewed for Salem, WV at 39.2800/-80.5600.
+
+Loss file: desiccant rotor hour plus category-three PPE log referenced in Harrison County county review.
+
+On-site sector marker: Harrison County / coords 39.2800, -80.5600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WV-26426-879c385c

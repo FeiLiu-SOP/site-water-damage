@@ -12,28 +12,47 @@ lng: -89.9100
 zipSample: ["38666"]
 zipCodes: ["38666"]
 localPaths: ["Panola County / elevation 371 ft band", "Panola County / coords 34.4400, -89.9100", "Panola County / ZIP 38666 sector", "Panola County / primary ZIP 38666"]
-zillowHomeValueUsd: 165066
 ---
 
 **Engineering Notice for Sardis:** structural drying capacity optimized for 371ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Panola County. Relative Humidity Threshold: 66%. Sensor sync: Active.
 
 
-Across Sardis, MS, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the flood restoration file.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Flood Restoration coordination in Sardis, MS is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Category-two losses in Sardis, MS require antimicrobial staging decisions before rebuild quotes.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Sardis, MS are commonly checked when spread is suspected.
+Technicians stage HEPA scrubbers before containment zip doors in Sardis, MS kitchen losses.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 38666.
+Elevator pit flooding in Sardis, MS commercial stacks needs pump-out before cab service resumes.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 38666.
+Dispatch packets for Sardis, MS reference county grid Panola County and elevation band 371 ft.
 
-Coverage brief: Farmers routing language can change how carrier supplement language is documented before scheduling.
+Our flood restoration intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
 
-Field note: Equipment day-counts were reviewed around ZIP 38666.
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
 
-Dispatch sectors sampled: ZIP 38666 (county grid: Panola County).
+Step: document demolition justification with moisture meter readings.
+
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
+
+Regulatory note: Sardis, MS projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
+
+Crawlspace vapor barriers in Sardis, MS may trap moisture if torn during extraction hose routing.
+
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
+
+FAQ: Which documents matter most? Incomplete photo logs and missing moisture maps commonly delay Sardis, MS files.
+
+Loss trace 895225: extraction velocity notes and demolition threshold markers keyed to Sardis, MS elevation 371 ft.
+
+Carrier sync 895225: depreciation worksheet lane and supplement language staged for ZIP 38666.
+
+Drying packet: non-penetrating meter mode paired with equilibrium moisture content near ZIP 38666 before scope lock.
+
+Coordinate-anchored dispatch note: center reference 34.4400, -89.9100 at elevation ~371 ft aligns with Panola County intake staging.
 
 Service reference: MS-38666-0d484dd9

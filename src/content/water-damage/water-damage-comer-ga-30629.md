@@ -12,28 +12,47 @@ lng: -83.1300
 zipSample: ["30629"]
 zipCodes: ["30629"]
 localPaths: ["Madison County / ZIP 30629 sector", "Madison County / elevation 702 ft band", "Madison County / coords 34.0600, -83.1300", "Madison County / primary ZIP 30629"]
-zillowHomeValueUsd: 304764
 ---
 
 **Engineering Notice for Comer:** structural drying capacity optimized for 702ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Madison County. Relative Humidity Threshold: 82%. Sensor sync: Active.
 
 
-A storm cleanup event in Comer, GA is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+FAQ: Who inventories contents? Carrier language and photo standards vary in Comer, GA markets.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Comer, GA.
+Risk flag: Incomplete claim packets in Comer, GA often force duplicate site visits.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Garage-to-house air barriers in Comer, GA ranch plans affect drying chamber boundaries.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Comer, GA.
+Desiccant dehumidifier sizing in Comer, GA commercial zones differs from LGR residential defaults.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 30629.
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 30629.
+Stairwell chase moisture in Comer, GA tri-level homes can lag main-floor readings by days.
 
-Coverage brief: adjuster photo-log can change how USAA property-loss packet is documented before scheduling.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Field note: Equipment day-counts were reviewed around ZIP 30629.
+Ceiling collapse risk in Comer, GA multi-family units rises when saturated insulation loads truss chords.
 
-Dispatch sectors sampled: ZIP 30629 (county grid: Madison County).
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
+
+Garage slab moisture in Comer, GA can wick into adjacent finished rooms.
+
+Regulatory note: Comer, GA projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+Step: stage dehumidifier capacity against cubic footage and class of water.
+
+Tip: Log refrigerator line shutoffs before moving units in Comer, GA kitchen losses.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Elevated crawlspaces in Comer, GA require vapor-retarder restoration before dehumidifier sizing.
+
+Containment dossier 860561: poly barrier seams and HEPA scrubber hours keyed to Comer, GA grid Madison County.
+
+Mitigation ledger 860561: moisture map grid, salvage lane tags, and drying day-count staged for Comer, GA at 34.0600, -83.1300.
+
+Mitigation trace: pinless scan grid, subfloor MC probe, and wall cavity vent hole cross-indexed for Comer intake.
+
+Regional mesh label Madison County: moisture and logistics baselines are keyed to Comer, GA before niche-specific work begins.
 
 Service reference: GA-30629-4c0a325c

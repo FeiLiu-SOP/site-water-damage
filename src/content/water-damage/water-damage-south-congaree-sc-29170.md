@@ -12,28 +12,47 @@ lng: -81.1400
 zipSample: ["29172", "29170"]
 zipCodes: ["29172", "29170"]
 localPaths: ["Lexington County / elevation 184 ft band", "Lexington County / ZIP 29172 sector", "Lexington County / primary ZIP 29170", "Lexington County / ZIP 29170 sector", "Lexington County / coords 33.9100, -81.1400"]
-zillowHomeValueUsd: 245231
 ---
 
 **Engineering Notice for South Congaree:** structural drying capacity optimized for 184ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lexington County. Relative Humidity Threshold: 81%. Sensor sync: Active.
 
 
-In South Congaree, SC, flood restoration requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Material note: Insulation R-value targets in South Congaree, SC should match pre-loss assemblies when documented.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in South Congaree, SC must be dried before reconstruction is discussed.
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
 
-Our intake team frames flood restoration jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Risk flag: South Congaree, SC slab-on-grade homes may need core probes when perimeter walls read dry.
 
-FAQ: How fast should action start? In South Congaree, SC, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 29172/29170.
+Permit note: Rebuild phases in South Congaree, SC may need separate inspections from mitigation work.
 
-Book a field review and request a written flood restoration scope before mitigation equipment is staged. Serving ZIP Code: 29170.
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
 
-Insurance note: coverage threshold marker and water category notation were flagged for the South Congaree file.
+Non-penetrating meter sweeps in South Congaree, SC hallways often read dry while baseboards remain elevated.
 
-Field note: Equipment day-counts were reviewed around ZIP 29172/29170.
+Townhome party walls in South Congaree, SC can transfer vapor across unit lines during shared losses.
 
-Dispatch sectors sampled: ZIP 29172, 29170 (county grid: Lexington County).
+Desiccant dehumidifier sizing in South Congaree, SC commercial zones differs from LGR residential defaults.
+
+Humidity pockets in South Congaree, SC wall cavities can persist after visible drying on surfaces.
+
+Crawlspace vapor barriers in South Congaree, SC may trap moisture if torn during extraction hose routing.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Contents pack-out in South Congaree, SC should be photographed before movement off-site.
+
+Step: isolate affected rooms with poly barriers before air-mover placement in South Congaree, SC.
+
+Odor control in South Congaree, SC category-two losses may require hydroxyl cycles separate from dehumidification.
+
+Rebuild bridge 219517: cabinet toe-kick probes and subfloor MC readings logged at 33.9100, -81.1400.
+
+File audit 219517: adjuster photo-set crosswalk and contents segregation reviewed for South Congaree, SC at 33.9100/-81.1400.
+
+Drying packet: pack-out chain-of-custody paired with demolition salvage tag near ZIP 29170 before scope lock.
+
+On-site sector marker: Lexington County / primary ZIP 29170 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29170-9ed4c643

@@ -12,30 +12,49 @@ lng: -90.1100
 zipSample: ["61285"]
 zipCodes: ["61285"]
 localPaths: ["Carroll County / primary ZIP 61285", "Carroll County / coords 41.9700, -90.1100", "Carroll County / elevation 604 ft band", "Carroll County / ZIP 61285 sector"]
-zillowHomeValueUsd: 151245
 ---
 
 **Engineering Notice for Thomson:** structural drying capacity optimized for 604ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Carroll County. Relative Humidity Threshold: 78%. Sensor sync: Active.
 
 
-A emergency dry-out event in Thomson, IL is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Ask for claim-facing photo standards before work begins. File routing near 61285.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Thomson, IL.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Material note: Insulation R-value targets in Thomson, IL should match pre-loss assemblies when documented.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Thomson, IL.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 61285.
+Tip: Photograph ceiling stains with a ruler reference before tarping near ZIP 61285.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 61285.
+Ceiling collapse risk in Thomson, IL multi-family units rises when saturated insulation loads truss chords.
 
-Coverage brief: adjuster photo-log can change how water category notation is documented before scheduling.
+Risk flag: Incomplete claim packets in Thomson, IL often force duplicate site visits.
 
-Field note: Intake notes were reconciled with county grid Carroll County.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Thomson, IL.
+Stairwell chase moisture in Thomson, IL tri-level homes can lag main-floor readings by days.
 
-Dispatch sectors sampled: ZIP 61285 (county grid: Carroll County).
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+We coordinate Thomson, IL mitigation with written scope, equipment assumptions, and claim-facing notes.
+
+Regulatory note: Thomson, IL projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+Psychrometric targets should be recorded before declaring a chamber dry.
+
+Category-two losses in Thomson, IL require antimicrobial staging decisions before rebuild quotes.
+
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
+
+Cabinet toe-kick voids in Thomson, IL are common hidden moisture reservoirs.
+
+Containment dossier 326665: poly barrier seams and HEPA scrubber hours keyed to Thomson, IL grid Carroll County.
+
+Mitigation ledger 326665: moisture map grid, salvage lane tags, and drying day-count staged for Thomson, IL at 41.9700, -90.1100.
+
+Mitigation trace: contents ozone quarantine, structural dry standard, and grain depression target cross-indexed for Thomson intake.
+
+On-site sector marker: Carroll County / coords 41.9700, -90.1100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-61285-054effd4

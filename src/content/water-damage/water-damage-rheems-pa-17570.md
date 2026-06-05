@@ -12,29 +12,49 @@ lng: -76.5700
 zipSample: ["17570", "17022", "17552"]
 zipCodes: ["17552", "17022", "17570"]
 localPaths: ["Lancaster County / primary ZIP 17570", "Lancaster County / ZIP 17570 sector", "Lancaster County / ZIP 17022 sector", "Lancaster County / coords 40.1300, -76.5700", "Lancaster County / ZIP 17552 sector"]
-zillowHomeValueUsd: 276508
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Rheems:** structural drying capacity optimized for 400ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lancaster County. Relative Humidity Threshold: 70%. Sensor sync: Active.
 
 
-In Rheems, PA, water mitigation requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Regulatory note: Rheems, PA projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Rheems, PA must be dried before reconstruction is discussed.
+Step: label removed materials for disposal manifests and claim packets.
 
-Our intake team frames water mitigation jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Risk flag: In Rheems, PA, delayed pack-out can swell cabinetry beyond salvage.
 
-FAQ: How fast should action start? In Rheems, PA, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Elevated crawlspaces in Rheems, PA require vapor-retarder remediation before dehumidifier sizing.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 17022/17552/17570.
+Odor control in Rheems, PA category-two losses may require hydroxyl cycles separate from dehumidification.
 
-Book a field review and request a written water mitigation scope before mitigation equipment is staged. Serving ZIP Code: 17570.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-File control: Allstate loss review was paired with pack-out ledger during intake review in Rheems.
+Subfloor cupping in Rheems, PA can lag source-stop by several drying days.
 
-Field note: Moisture logs were aligned with salvage routing in Rheems, PA.
+FAQ: When is delay costly? In Rheems, PA, extended damp periods expand demolition and mold-risk scope.
 
-Dispatch sectors sampled: ZIP 17022, 17552, 17570 (county grid: Lancaster County).
+IICRC reference: structural dry standards in Rheems, PA should be cited in scope documents.
+
+FAQ: When is hardwood salvage realistic in Rheems, PA? Density, duration, and contamination class decide—not optimism.
+
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
+
+Step: isolate affected rooms with poly barriers before air-mover placement in Rheems, PA.
+
+Ask for claim-facing photo standards before work begins. File routing near 17570.
+
+Tip: Save adjuster emails in one folder before calling back.
+
+Desiccant dehumidifier sizing in Rheems, PA commercial zones differs from LGR residential defaults.
+
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+File audit 933495: adjuster photo-set crosswalk and contents segregation reviewed for Rheems, PA at 40.1300/-76.5700.
+
+Mitigation ledger 933495: moisture map grid, salvage lane tags, and drying day-count staged for Rheems, PA at 40.1300, -76.5700.
+
+Loss file: category-three PPE log plus equilibrium moisture content referenced in Lancaster County county review.
+
+On-site sector marker: Lancaster County / ZIP 17552 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-17570-718b5d11

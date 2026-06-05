@@ -12,30 +12,47 @@ lng: -79.2800
 zipSample: ["28394"]
 zipCodes: ["28394"]
 localPaths: ["Moore County / primary ZIP 28394", "Moore County / coords 35.2500, -79.2800", "Moore County / ZIP 28394 sector", "Moore County / elevation 299 ft band"]
-zillowHomeValueUsd: 361520
 ---
 
 **Engineering Notice for Vass:** structural drying capacity optimized for 299ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Moore County. Relative Humidity Threshold: 84%. Sensor sync: Active.
 
 
-When property drying cases are reviewed in Vass, NC, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Vass, NC.
+Schedule extraction and drying as separate documented phases. File routing near 28394.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Technicians stage HEPA scrubbers before containment zip doors in Vass, NC kitchen losses.
 
-FAQ: Is every wet material removed immediately? Not always. In Vass, NC, some assemblies are monitored through readings before invasive removal is approved.
+Carpet pad saturation in Vass, NC frequently forces disposal even when face fiber appears dry.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 28394.
+Radiant floor loops in Vass, NC slab homes need isolated zones before jack-hammer exploration.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 28394.
+Stairwell chase moisture in Vass, NC tri-level homes can lag main-floor readings by days.
 
-Claim marker: contents-vs-structure split was logged beside depreciation worksheet near ZIP 28394.
+Regulatory note: Vass, NC projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
 
-Field note: Moisture logs were aligned with salvage routing in Vass, NC.
+FAQ: Will insurance cover pack-out? Carrier language and photo standards vary in Vass, NC markets.
 
-Field note: Drying decisions were sequenced for ZIP sector 28394.
+Thermal imaging in Vass, NC is scheduled after surface readings plateau for two cycles.
 
-Dispatch sectors sampled: ZIP 28394 (county grid: Moore County).
+Step: stage dehumidifier capacity against cubic footage and class of water.
+
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+Tip: Record when the water source was stopped and power restored in Vass, NC.
+
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
+
+Desiccant dehumidifier sizing in Vass, NC commercial zones differs from LGR residential defaults.
+
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
+
+Carrier sync 576657: depreciation worksheet lane and supplement language staged for ZIP 28394.
+
+Equipment roster 576657: dehumidifier hour-meter and air-mover placement queued before Vass, NC scope sign-off.
+
+Drying packet: pinless scan grid paired with antimicrobial dwell clock near ZIP 28394 before scope lock.
+
+On-site sector marker: Moore County / elevation 299 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28394-33d46fc3

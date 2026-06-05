@@ -12,31 +12,47 @@ lng: -75.5900
 zipSample: ["19901", "19936", "19904"]
 zipCodes: ["19904", "19936", "19901"]
 localPaths: ["Kent County / ZIP 19936 sector", "Kent County / ZIP 19904 sector", "Kent County / primary ZIP 19936", "Kent County / coords 39.2200, -75.5900", "Kent County / ZIP 19901 sector"]
-zillowHomeValueUsd: 434062
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Cheswold:** structural drying capacity optimized for 49ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kent County. Relative Humidity Threshold: 79%. Sensor sync: Active.
 
 
-Across Cheswold, DE, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Freeze-burst events in Cheswold, DE often damage multiple wall bays before owners notice flow.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the structural drying file.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-Structural Drying coordination in Cheswold, DE is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Technicians probe sill plates in Cheswold, DE ranch layouts before declaring first-floor dry.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Cheswold, DE are commonly checked when spread is suspected.
+Stairwell chase moisture in Cheswold, DE tri-level homes can lag main-floor readings by days.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 19904/19936/19901.
+Book a moisture-map review before demolition approvals. Primary postal sector: 19936.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 19936.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-File control: Liberty Mutual mitigation notes was paired with water category notation during intake review in Cheswold.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Cheswold, DE.
+Risk flag: In Cheswold, DE, delayed pack-out can swell cabinetry beyond salvage.
 
-Field note: Intake notes were reconciled with county grid Kent County.
+Category-two losses in Cheswold, DE require antimicrobial staging decisions before rebuild quotes.
 
-Dispatch sectors sampled: ZIP 19904, 19936, 19901 (county grid: Kent County).
+Technicians stage HEPA scrubbers before containment zip doors in Cheswold, DE kitchen losses.
+
+Thermal imaging in Cheswold, DE is scheduled after surface readings plateau for two cycles.
+
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
+
+Elevator pit flooding in Cheswold, DE commercial stacks needs pump-out before cab service resumes.
+
+FAQ: When is delay costly? In Cheswold, DE, extended damp periods expand demolition and mold-risk scope.
+
+FAQ: When is hardwood salvage realistic in Cheswold, DE? Density, duration, and contamination class decide—not optimism.
+
+Containment dossier 327167: poly barrier seams and HEPA scrubber hours keyed to Cheswold, DE grid Kent County.
+
+File audit 327167: adjuster photo-set crosswalk and contents segregation reviewed for Cheswold, DE at 39.2200/-75.5900.
+
+Mitigation trace: ceiling cavity bore scope, subfloor MC probe, and wall cavity vent hole cross-indexed for Cheswold intake.
+
+On-site sector marker: Kent County / primary ZIP 19936 — logged for map parity and ZIP-corridor verification.
 
 Service reference: DE-19936-ac1a0810

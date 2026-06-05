@@ -12,31 +12,49 @@ lng: -111.6400
 zipSample: ["84632"]
 zipCodes: ["84632"]
 localPaths: ["Sanpete County / elevation 5938 ft band", "Sanpete County / primary ZIP 84632", "Sanpete County / coords 39.6300, -111.6400", "Sanpete County / ZIP 84632 sector"]
-zillowHomeValueUsd: 543457
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Fountain Green:** structural drying capacity optimized for 5938ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sanpete County. Relative Humidity Threshold: 74%. Sensor sync: Active.
 
 
-When flood recovery cases are reviewed in Fountain Green, UT, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Fountain Green, UT.
+Sump overflow in Fountain Green, UT can masquerade as foundation infiltration.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-FAQ: Is every wet material removed immediately? Not always. In Fountain Green, UT, some assemblies are monitored through readings before invasive removal is approved.
+Tip: Log refrigerator line shutoffs before moving units in Fountain Green, UT kitchen losses.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 84632.
+Risk flag: In Fountain Green, UT, delayed pack-out can swell cabinetry beyond salvage.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 84632.
+Open a mitigation intake with drying targets and rebuild dependencies listed. County corridor Sanpete County.
 
-Claim marker: temporary restoration receipt was logged beside mitigation invoice sequencing near ZIP 84632.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 84632.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Fountain Green, UT.
+Attic staining in Fountain Green, UT may follow HVAC condensate rather than roof breaches.
 
-Field note: Equipment day-counts were reviewed around ZIP 84632.
+Radiant floor loops in Fountain Green, UT slab homes need isolated zones before jack-hammer exploration.
 
-Dispatch sectors sampled: ZIP 84632 (county grid: Sanpete County).
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
+
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
+
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
+
+Townhome party walls in Fountain Green, UT can transfer vapor across unit lines during shared losses.
+
+FAQ: When is hardwood salvage realistic in Fountain Green, UT? Density, duration, and contamination class decide—not optimism.
+
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+File audit 399756: adjuster photo-set crosswalk and contents segregation reviewed for Fountain Green, UT at 39.6300/-111.6400.
+
+Carrier sync 399756: depreciation worksheet lane and supplement language staged for ZIP 84632.
+
+Drying packet: LGR condensate yield paired with equilibrium moisture content near ZIP 84632 before scope lock.
+
+On-site sector marker: Sanpete County / coords 39.6300, -111.6400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84632-f47afd5f

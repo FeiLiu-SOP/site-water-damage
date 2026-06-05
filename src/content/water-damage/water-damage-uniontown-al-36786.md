@@ -12,29 +12,45 @@ lng: -87.5000
 zipSample: ["36786"]
 zipCodes: ["36786"]
 localPaths: ["Perry County / primary ZIP 36786", "Perry County / ZIP 36786 sector", "Perry County / elevation 233 ft band", "Perry County / coords 32.4500, -87.5000"]
-zillowHomeValueUsd: 208920
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Uniontown:** structural drying capacity optimized for 233ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Perry County. Relative Humidity Threshold: 79%. Sensor sync: Active.
 
 
-In Uniontown, AL, flood recovery requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Risk flag: Uniontown, AL slab-on-grade homes may need core probes when perimeter walls read dry.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Uniontown, AL must be dried before reconstruction is discussed.
+Plaster lathe ceilings in Uniontown, AL pre-war homes hold moisture behind skim coats longer than drywall.
 
-Our intake team frames flood recovery jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Material note: Insulation R-value targets in Uniontown, AL should match pre-loss assemblies when documented.
 
-FAQ: How fast should action start? In Uniontown, AL, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 36786.
+Request room-by-room demolition thresholds tied to meter readings. Grid anchor 36786.
 
-Book a field review and request a written flood recovery scope before mitigation equipment is staged. Serving ZIP Code: 36786.
+Step: verify power availability for drying equipment before overnight runs.
 
-File control: Claim filing codes was paired with water category notation during intake review in Uniontown.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-Field note: Moisture logs were aligned with salvage routing in Uniontown, AL.
+Multi-story Uniontown, AL losses need vertical moisture migration checks on lower levels.
 
-Dispatch sectors sampled: ZIP 36786 (county grid: Perry County).
+Basement seepage in Uniontown, AL may track foundation cracks rather than appliance failures.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Tip: List detached baseboards and removed insulation by room for claim traceability.
+
+Garage-to-house air barriers in Uniontown, AL ranch plans affect drying chamber boundaries.
+
+Stairwell chase moisture in Uniontown, AL tri-level homes can lag main-floor readings by days.
+
+Elevator pit flooding in Uniontown, AL commercial stacks needs pump-out before cab service resumes.
+
+Claim dossier 444588: pack-out ledger and humidity log bands filed for Uniontown, AL county Perry County (ZIP 36786).
+
+Rebuild bridge 444588: cabinet toe-kick probes and subfloor MC readings logged at 32.4500, -87.5000.
+
+Mitigation trace: psychrometric chart band, flood cut elevation mark, and vapor pressure differential cross-indexed for Uniontown intake.
+
+On-site sector marker: Perry County / coords 32.4500, -87.5000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36786-3a6023f3

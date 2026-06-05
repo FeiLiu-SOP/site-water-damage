@@ -12,30 +12,45 @@ lng: -122.2400
 zipSample: ["98274"]
 zipCodes: ["98274"]
 localPaths: ["Skagit County / elevation 105 ft band", "Skagit County / ZIP 98274 sector", "Skagit County / coords 48.3900, -122.2400", "Skagit County / primary ZIP 98274"]
-zillowHomeValueUsd: 621335
 ---
 
 **Engineering Notice for Big Lake:** structural drying capacity optimized for 105ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Skagit County. Relative Humidity Threshold: 71%. Sensor sync: Active.
 
 
-A property drying event in Big Lake, WA is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Tip: Photograph ceiling stains with a ruler reference before tarping near ZIP 98274.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Big Lake, WA.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Big Lake, WA.
+Desiccant dehumidifier sizing in Big Lake, WA commercial zones differs from LGR residential defaults.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 98274.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 98274.
+Step: isolate affected rooms with poly barriers before air-mover placement in Big Lake, WA.
 
-Insurance note: water category notation and mitigation invoice sequencing were flagged for the Big Lake file.
+Radiant floor loops in Big Lake, WA slab homes need isolated zones before jack-hammer exploration.
 
-Field note: Equipment day-counts were reviewed around ZIP 98274.
+Humidity pockets in Big Lake, WA wall cavities can persist after visible drying on surfaces.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Big Lake, WA.
+Non-penetrating meter sweeps in Big Lake, WA hallways often read dry while baseboards remain elevated.
 
-Dispatch sectors sampled: ZIP 98274 (county grid: Skagit County).
+Request room-by-room demolition thresholds tied to meter readings. Grid anchor 98274.
+
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
+
+Material note: Insulation R-value targets in Big Lake, WA should match pre-loss assemblies when documented.
+
+Tip: Log refrigerator line shutoffs before moving units in Big Lake, WA kitchen losses.
+
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+Rebuild bridge 403955: cabinet toe-kick probes and subfloor MC readings logged at 48.3900, -122.2400.
+
+Equipment roster 403955: dehumidifier hour-meter and air-mover placement queued before Big Lake, WA scope sign-off.
+
+Mitigation trace: desiccant rotor hour, psychrometric chart band, and structural dry standard cross-indexed for Big Lake intake.
+
+On-site sector marker: Skagit County / elevation 105 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98274-a6257eaf

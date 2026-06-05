@@ -12,30 +12,45 @@ lng: -105.2700
 zipSample: ["80540"]
 zipCodes: ["80540"]
 localPaths: ["Boulder County / ZIP 80540 sector", "Boulder County / coords 40.2200, -105.2700", "Boulder County / primary ZIP 80540", "Boulder County / elevation 5361 ft band"]
-zillowHomeValueUsd: 748440
 ---
 
 **Engineering Notice for Lyons:** structural drying capacity optimized for 5361ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Boulder County. Relative Humidity Threshold: 79%. Sensor sync: Active.
 
 
-Property owners in Lyons, CO may see a storm cleanup event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Lyons, CO.
+Step: stage dehumidifier capacity against cubic footage and class of water.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-FAQ: What slows recovery most? In Lyons, CO, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
 
-Tip: Save local team notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 80540.
+Open a mitigation intake with drying targets and rebuild dependencies listed. County corridor Boulder County.
 
-Ask for a room-by-room storm cleanup outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 80540.
+Garage slab moisture in Lyons, CO can wick into adjacent finished rooms.
 
-Claim marker: recoverable depreciation was logged beside scope authorization code near ZIP 80540.
+Across Lyons, CO, standing water duration drives salvage-versus-remove decisions within hours.
 
-Field note: Moisture logs were aligned with salvage routing in Lyons, CO.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Lyons, CO.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Dispatch sectors sampled: ZIP 80540 (county grid: Boulder County).
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
+
+Category-two losses in Lyons, CO require antimicrobial staging decisions before rebuild quotes.
+
+Our storm cleanup intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
+
+Built-in bookcase cavities in Lyons, CO trap humidity behind fixed shelving.
+
+Elevated crawlspaces in Lyons, CO require vapor-retarder remediation before dehumidifier sizing.
+
+Loss trace 942379: extraction velocity notes and demolition threshold markers keyed to Lyons, CO elevation 5361 ft.
+
+Category note 942379: water-class notation and antimicrobial staging captured for Lyons, CO intake packet.
+
+Loss file: category-three PPE log plus desiccant rotor hour referenced in Boulder County county review.
+
+On-site sector marker: Boulder County / coords 40.2200, -105.2700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80540-db1a97e3

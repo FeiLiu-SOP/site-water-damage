@@ -12,30 +12,49 @@ lng: -85.6300
 zipSample: ["46787"]
 zipCodes: ["46787"]
 localPaths: ["Whitley County / coords 41.0800, -85.6300", "Whitley County / primary ZIP 46787", "Whitley County / ZIP 46787 sector", "Whitley County / elevation 810 ft band"]
-zillowHomeValueUsd: 238379
 ---
 
 **Engineering Notice for South Whitley:** structural drying capacity optimized for 810ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Whitley County. Relative Humidity Threshold: 65%. Sensor sync: Active.
 
 
-When emergency dry-out cases are reviewed in South Whitley, IN, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for South Whitley, IN.
+Non-penetrating meter sweeps in South Whitley, IN hallways often read dry while baseboards remain elevated.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-FAQ: Is every wet material removed immediately? Not always. In South Whitley, IN, some assemblies are monitored through readings before invasive removal is approved.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 46787.
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 46787.
+Carpet pad saturation in South Whitley, IN frequently forces disposal even when face fiber appears dry.
 
-Insurance note: adjuster photo-log and Allstate loss review were flagged for the South Whitley file.
+Townhome party walls in South Whitley, IN can transfer vapor across unit lines during shared losses.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in South Whitley, IN.
+FAQ: When is delay costly? In South Whitley, IN, extended damp periods expand demolition and mold-risk scope.
 
-Field note: Equipment day-counts were reviewed around ZIP 46787.
+Technicians stage HEPA scrubbers before containment zip doors in South Whitley, IN kitchen losses.
 
-Dispatch sectors sampled: ZIP 46787 (county grid: Whitley County).
+Risk flag: In South Whitley, IN, delayed pack-out can swell cabinetry beyond salvage.
+
+Stairwell chase moisture in South Whitley, IN tri-level homes can lag main-floor readings by days.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
+
+Permit note: Rebuild phases in South Whitley, IN may need separate inspections from mitigation work.
+
+Step: map contents salvage lanes before pack-out crews arrive.
+
+Tip: Photograph ceiling stains with a ruler reference before tarping near ZIP 46787.
+
+Equipment roster 694688: dehumidifier hour-meter and air-mover placement queued before South Whitley, IN scope sign-off.
+
+Rebuild bridge 694688: cabinet toe-kick probes and subfloor MC readings logged at 41.0800, -85.6300.
+
+Loss file: rebuild moisture clearance plus grain depression target referenced in Whitley County county review.
+
+On-site sector marker: Whitley County / primary ZIP 46787 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46787-0e2b8bf2

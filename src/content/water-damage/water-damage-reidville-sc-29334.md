@@ -12,28 +12,47 @@ lng: -82.1100
 zipSample: ["29388", "29334", "29375"]
 zipCodes: ["29388", "29334", "29375"]
 localPaths: ["Spartanburg County / primary ZIP 29334", "Spartanburg County / elevation 820 ft band", "Spartanburg County / ZIP 29334 sector", "Spartanburg County / ZIP 29375 sector", "Spartanburg County / ZIP 29388 sector"]
-zillowHomeValueUsd: 309539
 ---
 
 **Engineering Notice for Reidville:** structural drying capacity optimized for 820ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Spartanburg County. Relative Humidity Threshold: 73%. Sensor sync: Active.
 
 
-A disaster cleanup event in Reidville, SC is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Reidville, SC.
+Step: map contents salvage lanes before pack-out crews arrive.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Permit note: Rebuild phases in Reidville, SC may need separate inspections from mitigation work.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Reidville, SC.
+Odor control in Reidville, SC category-two losses may require hydroxyl cycles separate from dehumidification.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 29375/29388/29334.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 29334.
+Risk flag: Incomplete claim packets in Reidville, SC often force duplicate site visits.
 
-Insurance note: State Farm coverage patterns and Allstate loss review were flagged for the Reidville file.
+Built-in bookcase cavities in Reidville, SC trap humidity behind fixed shelving.
 
-Field note: Intake notes were reconciled with county grid Spartanburg County.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 29334.
 
-Dispatch sectors sampled: ZIP 29375, 29388, 29334 (county grid: Spartanburg County).
+Across Reidville, SC, standing water duration drives salvage-versus-remove decisions within hours.
+
+Our disaster cleanup intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
+
+Multi-story Reidville, SC losses need vertical moisture migration checks on lower levels.
+
+Humidity pockets in Reidville, SC wall cavities can persist after visible drying on surfaces.
+
+Tip: Photograph ceiling stains with a ruler reference before tarping near ZIP 29334.
+
+Tip: List detached baseboards and removed insulation by room for claim traceability.
+
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+Category note 796583: water-class notation and antimicrobial staging captured for Reidville, SC intake packet.
+
+Rebuild bridge 796583: cabinet toe-kick probes and subfloor MC readings logged at 34.8700, -82.1100.
+
+Drying packet: demolition salvage tag paired with LGR condensate yield near ZIP 29334 before scope lock.
+
+On-site sector marker: Spartanburg County / elevation 820 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29334-021c105f

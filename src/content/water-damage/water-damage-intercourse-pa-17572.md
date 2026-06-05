@@ -12,30 +12,47 @@ lng: -76.1100
 zipSample: ["17529", "17534", "17572"]
 zipCodes: ["17572", "17529", "17534"]
 localPaths: ["Lancaster County / ZIP 17534 sector", "Lancaster County / ZIP 17529 sector", "Lancaster County / elevation 440 ft band", "Lancaster County / primary ZIP 17572", "Lancaster County / coords 40.0400, -76.1100"]
-zillowHomeValueUsd: 495120
 ---
 
 **Engineering Notice for Intercourse:** structural drying capacity optimized for 440ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lancaster County. Relative Humidity Threshold: 68%. Sensor sync: Active.
 
 
-When property drying cases are reviewed in Intercourse, PA, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Sump overflow in Intercourse, PA can masquerade as foundation infiltration.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Intercourse, PA.
+About us: We prioritize measurable drying evidence over headline speed claims.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Tip: Log refrigerator line shutoffs before moving units in Intercourse, PA kitchen losses.
 
-FAQ: Is every wet material removed immediately? Not always. In Intercourse, PA, some assemblies are monitored through readings before invasive removal is approved.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 17529/17534/17572.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 17572.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Coverage brief: carrier supplement language can change how Liberty Mutual mitigation notes is documented before scheduling.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Field note: Drying decisions were sequenced for ZIP sector 17529/17534/17572.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-Field note: Intake notes were reconciled with county grid Lancaster County.
+Risk flag: In Intercourse, PA, delayed pack-out can swell cabinetry beyond salvage.
 
-Dispatch sectors sampled: ZIP 17529, 17534, 17572 (county grid: Lancaster County).
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
+
+Category-two losses in Intercourse, PA require antimicrobial staging decisions before rebuild quotes.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Thermal imaging in Intercourse, PA is scheduled after surface readings plateau for two cycles.
+
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
+
+Step: reconcile carrier photo requirements before tear-out in Intercourse, PA.
+
+Loss trace 807691: extraction velocity notes and demolition threshold markers keyed to Intercourse, PA elevation 440 ft.
+
+Equipment roster 807691: dehumidifier hour-meter and air-mover placement queued before Intercourse, PA scope sign-off.
+
+Mitigation trace: subfloor MC probe, LGR condensate yield, and equilibrium moisture content cross-indexed for Intercourse intake.
+
+On-site sector marker: Lancaster County / primary ZIP 17572 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-17572-916f23d8

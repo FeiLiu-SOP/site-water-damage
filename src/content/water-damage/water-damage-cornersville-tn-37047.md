@@ -12,30 +12,49 @@ lng: -86.8600
 zipSample: ["37047"]
 zipCodes: ["37047"]
 localPaths: ["Marshall County / coords 35.3600, -86.8600", "Marshall County / elevation 1043 ft band", "Marshall County / ZIP 37047 sector", "Marshall County / primary ZIP 37047"]
-zillowHomeValueUsd: 312107
 ---
 
 **Engineering Notice for Cornersville:** structural drying capacity optimized for 1043ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marshall County. Relative Humidity Threshold: 85%. Sensor sync: Active.
 
 
-A flood restoration event in Cornersville, TN is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Cornersville, TN.
+Plaster lathe ceilings in Cornersville, TN pre-war homes hold moisture behind skim coats longer than drywall.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Step: isolate affected rooms with poly barriers before air-mover placement in Cornersville, TN.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Cornersville, TN.
+Attic staining in Cornersville, TN may follow HVAC condensate rather than roof breaches.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 37047.
+FAQ: When is delay costly? In Cornersville, TN, extended damp periods expand demolition and mold-risk scope.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 37047.
+Step: verify power availability for drying equipment before overnight runs.
 
-File control: mitigation invoice sequencing was paired with State Farm coverage patterns during intake review in Cornersville.
+Technicians stage HEPA scrubbers before containment zip doors in Cornersville, TN kitchen losses.
 
-Field note: Equipment day-counts were reviewed around ZIP 37047.
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
 
-Field note: Moisture logs were aligned with salvage routing in Cornersville, TN.
+Ask for claim-facing photo standards before work begins. File routing near 37047.
 
-Dispatch sectors sampled: ZIP 37047 (county grid: Marshall County).
+Step: stage dehumidifier capacity against cubic footage and class of water.
+
+Non-penetrating meter sweeps in Cornersville, TN hallways often read dry while baseboards remain elevated.
+
+Radiant floor loops in Cornersville, TN slab homes need isolated zones before jack-hammer exploration.
+
+Elevated crawlspaces in Cornersville, TN require vapor-retarder service before dehumidifier sizing.
+
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+Step: log humidity and temperature readings at 24-hour intervals.
+
+Tip: Log refrigerator line shutoffs before moving units in Cornersville, TN kitchen losses.
+
+Equipment roster 795734: dehumidifier hour-meter and air-mover placement queued before Cornersville, TN scope sign-off.
+
+Containment dossier 795734: poly barrier seams and HEPA scrubber hours keyed to Cornersville, TN grid Marshall County.
+
+Loss file: equilibrium moisture content plus negative air machine manometer referenced in Marshall County county review.
+
+Coordinate-anchored dispatch note: center reference 35.3600, -86.8600 at elevation ~1043 ft aligns with Marshall County intake staging.
 
 Service reference: TN-37047-32d6530b

@@ -12,30 +12,51 @@ lng: -81.5000
 zipSample: ["28612"]
 zipCodes: ["28612"]
 localPaths: ["Burke County / primary ZIP 28612", "Burke County / ZIP 28612 sector", "Burke County / elevation 1273 ft band", "Burke County / coords 35.7600, -81.5000"]
-zillowHomeValueUsd: 237895
 ---
 
 **Engineering Notice for Connelly Springs:** structural drying capacity optimized for 1273ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Burke County. Relative Humidity Threshold: 80%. Sensor sync: Active.
 
 
-A flood restoration event in Connelly Springs, NC is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Permit note: Rebuild phases in Connelly Springs, NC may need separate inspections from mitigation work.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Connelly Springs, NC.
+Odor control in Connelly Springs, NC category-two losses may require hydroxyl cycles separate from dehumidification.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+IICRC reference: structural dry standards in Connelly Springs, NC should be cited in scope documents.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Connelly Springs, NC.
+Ceiling collapse risk in Connelly Springs, NC multi-family units rises when saturated insulation loads truss chords.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 28612.
+Townhome party walls in Connelly Springs, NC can transfer vapor across unit lines during shared losses.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 28612.
+Plaster lathe ceilings in Connelly Springs, NC pre-war homes hold moisture behind skim coats longer than drywall.
 
-Coverage brief: scope authorization code can change how loss diary entry is documented before scheduling.
+Material note: Insulation R-value targets in Connelly Springs, NC should match pre-loss assemblies when documented.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Connelly Springs, NC.
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
 
-Field note: Intake notes were reconciled with county grid Burke County.
+Radiant floor loops in Connelly Springs, NC slab homes need isolated zones before jack-hammer exploration.
 
-Dispatch sectors sampled: ZIP 28612 (county grid: Burke County).
+Cabinet toe-kick voids in Connelly Springs, NC are common hidden moisture reservoirs.
+
+Regulatory note: Connelly Springs, NC projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
+
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
+
+Built-in bookcase cavities in Connelly Springs, NC trap humidity behind fixed shelving.
+
+Step: map contents salvage lanes before pack-out crews arrive.
+
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+Equipment roster 216006: dehumidifier hour-meter and air-mover placement queued before Connelly Springs, NC scope sign-off.
+
+Rebuild bridge 216006: cabinet toe-kick probes and subfloor MC readings logged at 35.7600, -81.5000.
+
+Loss file: desiccant rotor hour plus structural dry standard referenced in Burke County county review.
+
+Equipment log: hour-meters captured near postal anchor 28612.
+
+On-site sector marker: Burke County / elevation 1273 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28612-bcea77c3

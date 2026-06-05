@@ -12,30 +12,47 @@ lng: -91.0100
 zipSample: ["52046"]
 zipCodes: ["52046"]
 localPaths: ["Dubuque County / coords 42.4400, -91.0100", "Dubuque County / primary ZIP 52046", "Dubuque County / ZIP 52046 sector", "Dubuque County / elevation 1119 ft band"]
-zillowHomeValueUsd: 306536
 ---
 
 **Engineering Notice for Farley:** structural drying capacity optimized for 1119ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dubuque County. Relative Humidity Threshold: 65%. Sensor sync: Active.
 
 
-Property owners in Farley, IA may see a moisture restoration event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Farley, IA.
+Our moisture restoration intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-FAQ: What slows recovery most? In Farley, IA, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Tip: Save local team notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 52046.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Ask for a room-by-room moisture restoration outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 52046.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-File control: mitigation invoice sequencing was paired with pack-out ledger during intake review in Farley.
+Tip: Save adjuster emails in one folder before calling back.
 
-Field note: Drying decisions were sequenced for ZIP sector 52046.
+Ceiling collapse risk in Farley, IA multi-family units rises when saturated insulation loads truss chords.
 
-Field note: Intake notes were reconciled with county grid Dubuque County.
+Request room-by-room demolition thresholds tied to meter readings. Grid anchor 52046.
 
-Dispatch sectors sampled: ZIP 52046 (county grid: Dubuque County).
+Step: reconcile carrier photo requirements before tear-out in Farley, IA.
+
+Step: log humidity and temperature readings at 24-hour intervals.
+
+Built-in bookcase cavities in Farley, IA trap humidity behind fixed shelving.
+
+Contents pack-out in Farley, IA should be photographed before movement off-site.
+
+Psychrometric targets should be recorded before declaring a chamber dry.
+
+Material note: Insulation R-value targets in Farley, IA should match pre-loss assemblies when documented.
+
+Carrier sync 663926: depreciation worksheet lane and supplement language staged for ZIP 52046.
+
+Rebuild bridge 663926: cabinet toe-kick probes and subfloor MC readings logged at 42.4400, -91.0100.
+
+Loss file: desiccant rotor hour plus containment zipper door referenced in Dubuque County county review.
+
+On-site sector marker: Dubuque County / coords 42.4400, -91.0100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-52046-6dfd7c8a

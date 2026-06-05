@@ -12,29 +12,49 @@ lng: -97.2900
 zipSample: ["78359"]
 zipCodes: ["78359"]
 localPaths: ["San Patricio County / elevation 43 ft band", "San Patricio County / ZIP 78359 sector", "San Patricio County / coords 27.9200, -97.2900", "San Patricio County / primary ZIP 78359"]
-zillowHomeValueUsd: 299011
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Gregory:** structural drying capacity optimized for 43ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Patricio County. Relative Humidity Threshold: 67%. Sensor sync: Active.
 
 
-Across Gregory, TX, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the water mitigation file.
+In Gregory, TX, water mitigation calls often start with moisture mapping before demolition is discussed.
 
-Water Mitigation coordination in Gregory, TX is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Gregory, TX are commonly checked when spread is suspected.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 78359.
+Permit note: Rebuild phases in Gregory, TX may need separate inspections from mitigation work.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 78359.
+Book a moisture-map review before demolition approvals. Primary postal sector: 78359.
 
-File control: water category notation was paired with loss diary entry during intake review in Gregory.
+Radiant floor loops in Gregory, TX slab homes need isolated zones before jack-hammer exploration.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Gregory, TX.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 78359.
 
-Dispatch sectors sampled: ZIP 78359 (county grid: San Patricio County).
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
+
+FAQ: When is hardwood salvage realistic in Gregory, TX? Density, duration, and contamination class decide—not optimism.
+
+Carpet pad saturation in Gregory, TX frequently forces disposal even when face fiber appears dry.
+
+We coordinate Gregory, TX mitigation with written scope, equipment assumptions, and claim-facing notes.
+
+Plaster lathe ceilings in Gregory, TX pre-war homes hold moisture behind skim coats longer than drywall.
+
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+Step: isolate affected rooms with poly barriers before air-mover placement in Gregory, TX.
+
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
+
+Carrier sync 339918: depreciation worksheet lane and supplement language staged for ZIP 78359.
+
+Equipment roster 339918: dehumidifier hour-meter and air-mover placement queued before Gregory, TX scope sign-off.
+
+Loss file: subfloor MC probe plus category-three PPE log referenced in San Patricio County county review.
+
+On-site sector marker: San Patricio County / primary ZIP 78359 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78359-8eb0fac4

@@ -12,30 +12,49 @@ lng: -87.2600
 zipSample: ["32535"]
 zipCodes: ["32535"]
 localPaths: ["Escambia County / primary ZIP 32535", "Escambia County / elevation 112 ft band", "Escambia County / coords 30.9800, -87.2600", "Escambia County / ZIP 32535 sector"]
-zillowHomeValueUsd: 201963
 ---
 
 **Engineering Notice for Century:** structural drying capacity optimized for 112ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Escambia County. Relative Humidity Threshold: 71%. Sensor sync: Active.
 
 
-Across Century, FL, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Odor control in Century, FL category-two losses may require hydroxyl cycles separate from dehumidification.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the moisture restoration file.
+Request room-by-room demolition thresholds tied to meter readings. Grid anchor 32535.
 
-Moisture Restoration coordination in Century, FL is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Thermal imaging in Century, FL is scheduled after surface readings plateau for two cycles.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Century, FL are commonly checked when spread is suspected.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 32535.
+Ask for claim-facing photo standards before work begins. File routing near 32535.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 32535.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Insurance note: reserve change notes and Deductible were flagged for the Century file.
+Townhome party walls in Century, FL can transfer vapor across unit lines during shared losses.
 
-Field note: Intake notes were reconciled with county grid Escambia County.
+Confirm power load assumptions before overnight equipment runs. County corridor Escambia County.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Century, FL.
+Non-penetrating meter sweeps in Century, FL hallways often read dry while baseboards remain elevated.
 
-Dispatch sectors sampled: ZIP 32535 (county grid: Escambia County).
+Step: label removed materials for disposal manifests and claim packets.
+
+FAQ: What slows insurance review? Incomplete photo logs and missing moisture maps commonly delay Century, FL files.
+
+FAQ: How fast should mitigation start? In Century, FL, extended damp periods expand demolition and mold-risk scope.
+
+Plaster lathe ceilings in Century, FL pre-war homes hold moisture behind skim coats longer than drywall.
+
+Humidity pockets in Century, FL wall cavities can persist after visible drying on surfaces.
+
+Material note: Insulation R-value targets in Century, FL should match pre-loss assemblies when documented.
+
+Contents pack-out in Century, FL should be photographed before movement off-site.
+
+Mitigation ledger 422101: moisture map grid, salvage lane tags, and drying day-count staged for Century, FL at 30.9800, -87.2600.
+
+Equipment roster 422101: dehumidifier hour-meter and air-mover placement queued before Century, FL scope sign-off.
+
+Drying packet: category-three PPE log paired with structural dry standard near ZIP 32535 before scope lock.
+
+On-site sector marker: Escambia County / primary ZIP 32535 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32535-66227899

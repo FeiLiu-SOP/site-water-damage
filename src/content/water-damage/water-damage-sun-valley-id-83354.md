@@ -12,30 +12,47 @@ lng: -114.3300
 zipSample: ["83354", "83353"]
 zipCodes: ["83353", "83354"]
 localPaths: ["Blaine County / ZIP 83354 sector", "Blaine County / coords 43.6800, -114.3300", "Blaine County / elevation 6073 ft band", "Blaine County / ZIP 83353 sector", "Blaine County / primary ZIP 83354"]
-zillowHomeValueUsd: 1236464
 ---
 
 **Engineering Notice for Sun Valley:** structural drying capacity optimized for 6073ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Blaine County. Relative Humidity Threshold: 67%. Sensor sync: Active.
 
 
-A property drying event in Sun Valley, ID is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Thermal imaging in Sun Valley, ID is scheduled after surface readings plateau for two cycles.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Sun Valley, ID.
+Technicians probe sill plates in Sun Valley, ID ranch layouts before declaring first-floor dry.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Tip: Record when the water source was stopped and power restored in Sun Valley, ID.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Sun Valley, ID.
+Built-in bookcase cavities in Sun Valley, ID trap humidity behind fixed shelving.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 83353/83354.
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 83354.
+Stairwell chase moisture in Sun Valley, ID tri-level homes can lag main-floor readings by days.
 
-Coverage brief: contents-vs-structure split can change how depreciation worksheet is documented before scheduling.
+Request a written property drying scope with equipment list and target readings. Primary postal sector: 83354.
 
-Field note: Intake notes were reconciled with county grid Blaine County.
+Cabinet toe-kick voids in Sun Valley, ID are common hidden moisture reservoirs.
 
-Field note: Equipment day-counts were reviewed around ZIP 83353/83354.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-Dispatch sectors sampled: ZIP 83353, 83354 (county grid: Blaine County).
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
+
+Risk flag: Sun Valley, ID slab-on-grade homes may need core probes when perimeter walls read dry.
+
+We coordinate Sun Valley, ID mitigation with written scope, equipment assumptions, and claim-facing notes.
+
+Permit note: Rebuild phases in Sun Valley, ID may need separate inspections from mitigation work.
+
+Regulatory note: Sun Valley, ID projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+Mitigation ledger 433689: moisture map grid, salvage lane tags, and drying day-count staged for Sun Valley, ID at 43.6800, -114.3300.
+
+Containment dossier 433689: poly barrier seams and HEPA scrubber hours keyed to Sun Valley, ID grid Blaine County.
+
+Mitigation trace: rebuild moisture clearance, pack-out chain-of-custody, and air mover amp draw cross-indexed for Sun Valley intake.
+
+Demo gate: demolition checkpoints staged before rebuild handoff in Sun Valley, ID.
+
+On-site sector marker: Blaine County / ZIP 83354 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: ID-83354-8ff6bcd3

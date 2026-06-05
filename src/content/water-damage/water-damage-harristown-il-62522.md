@@ -12,28 +12,49 @@ lng: -89.0600
 zipSample: ["62522", "62537"]
 zipCodes: ["62522", "62537"]
 localPaths: ["Macon County / ZIP 62522 sector", "Macon County / ZIP 62537 sector", "Macon County / coords 39.8400, -89.0600", "Macon County / elevation 676 ft band", "Macon County / primary ZIP 62522"]
-zillowHomeValueUsd: 90435
 ---
 
 **Engineering Notice for Harristown:** structural drying capacity optimized for 676ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Macon County. Relative Humidity Threshold: 75%. Sensor sync: Active.
 
 
-When water loss recovery cases are reviewed in Harristown, IL, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Radiant floor loops in Harristown, IL slab homes need isolated zones before jack-hammer exploration.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Harristown, IL.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Step: isolate affected rooms with poly barriers before air-mover placement in Harristown, IL.
 
-FAQ: Is every wet material removed immediately? Not always. In Harristown, IL, some assemblies are monitored through readings before invasive removal is approved.
+Garage-to-house air barriers in Harristown, IL ranch plans affect drying chamber boundaries.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 62522/62537.
+Risk flag: In Harristown, IL, delayed pack-out can swell cabinetry beyond salvage.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 62522.
+Technicians probe sill plates in Harristown, IL ranch layouts before declaring first-floor dry.
 
-Coverage brief: reserve change notes can change how coverage threshold marker is documented before scheduling.
+Non-penetrating meter sweeps in Harristown, IL hallways often read dry while baseboards remain elevated.
 
-Field note: Intake notes were reconciled with county grid Macon County.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Dispatch sectors sampled: ZIP 62522, 62537 (county grid: Macon County).
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Dispatch packets for Harristown, IL reference county grid Macon County and elevation band 676 ft.
+
+Risk flag: Harristown, IL slab-on-grade homes may need core probes when perimeter walls read dry.
+
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
+
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
+
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
+
+Built-in bookcase cavities in Harristown, IL trap humidity behind fixed shelving.
+
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
+
+Rebuild bridge 852671: cabinet toe-kick probes and subfloor MC readings logged at 39.8400, -89.0600.
+
+Mitigation ledger 852671: moisture map grid, salvage lane tags, and drying day-count staged for Harristown, IL at 39.8400, -89.0600.
+
+Drying packet: air mover amp draw paired with wall cavity vent hole near ZIP 62522 before scope lock.
+
+On-site sector marker: Macon County / primary ZIP 62522 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62522-d8a419c0

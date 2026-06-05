@@ -12,30 +12,45 @@ lng: -81.1200
 zipSample: ["28675"]
 zipCodes: ["28675"]
 localPaths: ["Alleghany County / primary ZIP 28675", "Alleghany County / ZIP 28675 sector", "Alleghany County / coords 36.5000, -81.1200", "Alleghany County / elevation 2861 ft band"]
-zillowHomeValueUsd: 248361
 ---
 
 **Engineering Notice for Sparta:** structural drying capacity optimized for 2861ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Alleghany County. Relative Humidity Threshold: 69%. Sensor sync: Active.
 
 
-Property owners in Sparta, NC may see a storm cleanup event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Sparta, NC.
+Schedule extraction and drying as separate documented phases. File routing near 28675.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Freeze-burst events in Sparta, NC often damage multiple wall bays before owners notice flow.
 
-FAQ: What slows recovery most? In Sparta, NC, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Risk flag: In Sparta, NC, delayed pack-out can swell cabinetry beyond salvage.
 
-Tip: Save local team notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 28675.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-Ask for a room-by-room storm cleanup outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 28675.
+Material note: Insulation R-value targets in Sparta, NC should match pre-loss assemblies when documented.
 
-File control: reserve change notes was paired with Liberty Mutual mitigation notes during intake review in Sparta.
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
 
-Field note: Drying decisions were sequenced for ZIP sector 28675.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Sparta, NC.
+Risk flag: Sparta, NC slab-on-grade homes may need core probes when perimeter walls read dry.
 
-Dispatch sectors sampled: ZIP 28675 (county grid: Alleghany County).
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
+
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
+
+Thermal imaging in Sparta, NC is scheduled after surface readings plateau for two cycles.
+
+Tip: Date-stamp moisture maps when adjusters request progress updates near 28675.
+
+In Sparta, NC, storm cleanup calls often start with moisture mapping before demolition is discussed.
+
+Claim dossier 935699: pack-out ledger and humidity log bands filed for Sparta, NC county Alleghany County (ZIP 28675).
+
+Loss trace 935699: extraction velocity notes and demolition threshold markers keyed to Sparta, NC elevation 2861 ft.
+
+Mitigation trace: pinless scan grid, HEPA scrubber CFM log, and equilibrium moisture content cross-indexed for Sparta intake.
+
+On-site sector marker: Alleghany County / coords 36.5000, -81.1200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28675-97a320d1

@@ -12,28 +12,47 @@ lng: -122.8700
 zipSample: ["95472", "95444"]
 zipCodes: ["95472", "95444"]
 localPaths: ["Sonoma County / ZIP 95472 sector", "Sonoma County / primary ZIP 95444", "Sonoma County / coords 38.4400, -122.8700", "Sonoma County / elevation 203 ft band", "Sonoma County / ZIP 95444 sector"]
-zillowHomeValueUsd: 822596
 ---
 
 **Engineering Notice for Graton:** structural drying capacity optimized for 203ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sonoma County. Relative Humidity Threshold: 67%. Sensor sync: Active.
 
 
-A flood restoration event in Graton, CA is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Thermal imaging in Graton, CA is scheduled after surface readings plateau for two cycles.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Graton, CA.
+Elevator pit flooding in Graton, CA commercial stacks needs pump-out before cab service resumes.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Crawlspace vapor barriers in Graton, CA may trap moisture if torn during extraction hose routing.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Graton, CA.
+Request room-by-room demolition thresholds tied to meter readings. Grid anchor 95444.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 95472/95444.
+Garage-to-house air barriers in Graton, CA ranch plans affect drying chamber boundaries.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 95444.
+Permit note: Rebuild phases in Graton, CA may need separate inspections from mitigation work.
 
-Coverage brief: State Farm coverage patterns can change how pack-out ledger is documented before scheduling.
+Garage slab moisture in Graton, CA can wick into adjacent finished rooms.
 
-Field note: Drying decisions were sequenced for ZIP sector 95472/95444.
+Attic staining in Graton, CA may follow HVAC condensate rather than roof breaches.
 
-Dispatch sectors sampled: ZIP 95472, 95444 (county grid: Sonoma County).
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
+
+Category-two losses in Graton, CA require antimicrobial staging decisions before rebuild quotes.
+
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
+
+Built-in bookcase cavities in Graton, CA trap humidity behind fixed shelving.
+
+Elevated crawlspaces in Graton, CA require vapor-retarder remediation before dehumidifier sizing.
+
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Recovery map 568076: structural drying targets and rebuild handoff flags logged for Graton, CA postal sector 95444.
+
+Loss trace 568076: extraction velocity notes and demolition threshold markers keyed to Graton, CA elevation 203 ft.
+
+Mitigation trace: wall cavity vent hole, rebuild moisture clearance, and subfloor MC probe cross-indexed for Graton intake.
+
+Salvage lane: pack-out tags reconciled before off-site move in Graton, CA.
+
+On-site sector marker: Sonoma County / ZIP 95472 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95444-2f586e24

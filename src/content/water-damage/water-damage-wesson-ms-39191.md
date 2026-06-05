@@ -12,30 +12,47 @@ lng: -90.4000
 zipSample: ["39191"]
 zipCodes: ["39191"]
 localPaths: ["Copiah County / coords 31.7000, -90.4000", "Copiah County / ZIP 39191 sector", "Copiah County / primary ZIP 39191", "Copiah County / elevation 472 ft band"]
-zillowHomeValueUsd: 177491
 ---
 
 **Engineering Notice for Wesson:** structural drying capacity optimized for 472ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Copiah County. Relative Humidity Threshold: 81%. Sensor sync: Active.
 
 
-Across Wesson, MS, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Risk flag: In Wesson, MS, delayed pack-out can swell cabinetry beyond salvage.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the property drying file.
+Elevated crawlspaces in Wesson, MS require vapor-retarder restoration before dehumidifier sizing.
 
-Property Drying coordination in Wesson, MS is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Radiant floor loops in Wesson, MS slab homes need isolated zones before jack-hammer exploration.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Wesson, MS are commonly checked when spread is suspected.
+Thermal imaging in Wesson, MS is scheduled after surface readings plateau for two cycles.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 39191.
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 39191.
+FAQ: When is hardwood salvage realistic in Wesson, MS? Density, duration, and contamination class decide—not optimism.
 
-Insurance note: temporary restoration receipt and loss diary entry were flagged for the Wesson file.
+Step: label removed materials for disposal manifests and claim packets.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Wesson, MS.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Field note: Moisture logs were aligned with salvage routing in Wesson, MS.
+Stairwell chase moisture in Wesson, MS tri-level homes can lag main-floor readings by days.
 
-Dispatch sectors sampled: ZIP 39191 (county grid: Copiah County).
+Odor control in Wesson, MS category-two losses may require hydroxyl cycles separate from dehumidification.
+
+Psychrometric targets should be recorded before declaring a chamber dry.
+
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
+
+IICRC reference: structural dry standards in Wesson, MS should be cited in scope documents.
+
+Dispatch packets for Wesson, MS reference county grid Copiah County and elevation band 472 ft.
+
+Basement seepage in Wesson, MS may track foundation cracks rather than appliance failures.
+
+Mitigation ledger 203634: moisture map grid, salvage lane tags, and drying day-count staged for Wesson, MS at 31.7000, -90.4000.
+
+Recovery map 203634: structural drying targets and rebuild handoff flags logged for Wesson, MS postal sector 39191.
+
+Drying packet: category-three PPE log paired with contents ozone quarantine near ZIP 39191 before scope lock.
+
+On-site sector marker: Copiah County / coords 31.7000, -90.4000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39191-decfd6c5

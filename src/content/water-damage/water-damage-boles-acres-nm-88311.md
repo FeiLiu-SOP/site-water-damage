@@ -12,31 +12,45 @@ lng: -105.9800
 zipSample: ["88310", "88311"]
 zipCodes: ["88311", "88310"]
 localPaths: ["Otero County / elevation 4111 ft band", "Otero County / primary ZIP 88311", "Otero County / coords 32.8200, -105.9800", "Otero County / ZIP 88311 sector", "Otero County / ZIP 88310 sector"]
-zillowHomeValueUsd: 317319
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Boles Acres:** structural drying capacity optimized for 4111ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Otero County. Relative Humidity Threshold: 80%. Sensor sync: Active.
 
 
-Across Boles Acres, NM, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the moisture restoration file.
+Odor control in Boles Acres, NM category-two losses may require hydroxyl cycles separate from dehumidification.
 
-Moisture Restoration coordination in Boles Acres, NM is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Boles Acres, NM are commonly checked when spread is suspected.
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 88310/88311.
+Step: stage dehumidifier capacity against cubic footage and class of water.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 88311.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-File control: Allstate loss review was paired with temporary remediation receipt during intake review in Boles Acres.
+Contents pack-out in Boles Acres, NM should be photographed before movement off-site.
 
-Field note: Intake notes were reconciled with county grid Otero County.
+Schedule extraction and drying as separate documented phases. File routing near 88311.
 
-Field note: Moisture logs were aligned with salvage routing in Boles Acres, NM.
+Desiccant dehumidifier sizing in Boles Acres, NM commercial zones differs from LGR residential defaults.
 
-Dispatch sectors sampled: ZIP 88310, 88311 (county grid: Otero County).
+FAQ: What slows insurance review? Incomplete photo logs and missing moisture maps commonly delay Boles Acres, NM files.
+
+Garage-to-house air barriers in Boles Acres, NM ranch plans affect drying chamber boundaries.
+
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
+
+Elevated crawlspaces in Boles Acres, NM require vapor-retarder remediation before dehumidifier sizing.
+
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
+
+Carrier sync 617066: depreciation worksheet lane and supplement language staged for ZIP 88311.
+
+Containment dossier 617066: poly barrier seams and HEPA scrubber hours keyed to Boles Acres, NM grid Otero County.
+
+Drying packet: ceiling cavity bore scope paired with category-three PPE log near ZIP 88311 before scope lock.
+
+On-site sector marker: Otero County / ZIP 88311 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-88311-af9cf655

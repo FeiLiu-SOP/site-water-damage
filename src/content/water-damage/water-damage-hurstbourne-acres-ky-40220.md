@@ -12,28 +12,47 @@ lng: -85.5900
 zipSample: ["40220"]
 zipCodes: ["40220"]
 localPaths: ["Jefferson County / primary ZIP 40220", "Jefferson County / elevation 669 ft band", "Jefferson County / coords 38.2200, -85.5900", "Jefferson County / ZIP 40220 sector"]
-zillowHomeValueUsd: 290888
 ---
 
 **Engineering Notice for Hurstbourne Acres:** structural drying capacity optimized for 669ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 77%. Sensor sync: Active.
 
 
-A flood recovery event in Hurstbourne Acres, KY is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Stairwell chase moisture in Hurstbourne Acres, KY tri-level homes can lag main-floor readings by days.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Hurstbourne Acres, KY.
+Ceiling collapse risk in Hurstbourne Acres, KY multi-family units rises when saturated insulation loads truss chords.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Hurstbourne Acres, KY.
+Radiant floor loops in Hurstbourne Acres, KY slab homes need isolated zones before jack-hammer exploration.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 40220.
+Plaster lathe ceilings in Hurstbourne Acres, KY pre-war homes hold moisture behind skim coats longer than drywall.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 40220.
+Crawlspace vapor barriers in Hurstbourne Acres, KY may trap moisture if torn during extraction hose routing.
 
-Claim marker: mitigation invoice sequencing was logged beside pack-out ledger near ZIP 40220.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-Field note: Intake notes were reconciled with county grid Jefferson County.
+Material note: Insulation R-value targets in Hurstbourne Acres, KY should match pre-loss assemblies when documented.
 
-Dispatch sectors sampled: ZIP 40220 (county grid: Jefferson County).
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
+
+Garage-to-house air barriers in Hurstbourne Acres, KY ranch plans affect drying chamber boundaries.
+
+Step: label removed materials for disposal manifests and claim packets.
+
+FAQ: Will insurance cover pack-out? Carrier language and photo standards vary in Hurstbourne Acres, KY markets.
+
+Step: separate emergency extraction from structural drying line items.
+
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
+
+Carrier sync 494308: depreciation worksheet lane and supplement language staged for ZIP 40220.
+
+Rebuild bridge 494308: cabinet toe-kick probes and subfloor MC readings logged at 38.2200, -85.5900.
+
+Drying packet: contents ozone quarantine paired with rebuild moisture clearance near ZIP 40220 before scope lock.
+
+Contents ledger: inventory lanes labeled for sector 40220.
+
+ZIP-corridor snapshot for Hurstbourne Acres, KY: sampled sectors include 40220; county routing grid remains Jefferson County.
 
 Service reference: KY-40220-e0aaec5a

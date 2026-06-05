@@ -12,28 +12,47 @@ lng: -89.1100
 zipSample: ["39327"]
 zipCodes: ["39327"]
 localPaths: ["Newton County / elevation 417 ft band", "Newton County / primary ZIP 39327", "Newton County / coords 32.4300, -89.1100", "Newton County / ZIP 39327 sector"]
-zillowHomeValueUsd: 169481
 ---
 
 **Engineering Notice for Decatur:** structural drying capacity optimized for 417ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Newton County. Relative Humidity Threshold: 83%. Sensor sync: Active.
 
 
-A storm cleanup event in Decatur, MS is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Non-penetrating meter sweeps in Decatur, MS hallways often read dry while baseboards remain elevated.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Decatur, MS.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Decatur, MS.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 39327.
+FAQ: Which documents matter most? Incomplete photo logs and missing moisture maps commonly delay Decatur, MS files.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 39327.
+Built-in bookcase cavities in Decatur, MS trap humidity behind fixed shelving.
 
-Claim marker: reserve change notes was logged beside Liberty Mutual mitigation notes near ZIP 39327.
+Book salvage review before pack-out crews mobilize. Grid anchor 39327.
 
-Field note: Moisture logs were aligned with salvage routing in Decatur, MS.
+FAQ: Will insurance cover pack-out? Carrier language and photo standards vary in Decatur, MS markets.
 
-Dispatch sectors sampled: ZIP 39327 (county grid: Newton County).
+Carpet pad saturation in Decatur, MS frequently forces disposal even when face fiber appears dry.
+
+Regulatory note: Decatur, MS projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+Tip: Save adjuster emails in one folder before calling back.
+
+Technicians stage HEPA scrubbers before containment zip doors in Decatur, MS kitchen losses.
+
+Material note: Insulation R-value targets in Decatur, MS should match pre-loss assemblies when documented.
+
+Stairwell chase moisture in Decatur, MS tri-level homes can lag main-floor readings by days.
+
+Dispatch packets for Decatur, MS reference county grid Newton County and elevation band 417 ft.
+
+Containment dossier 493361: poly barrier seams and HEPA scrubber hours keyed to Decatur, MS grid Newton County.
+
+Category note 493361: water-class notation and antimicrobial staging captured for Decatur, MS intake packet.
+
+Loss file: air mover amp draw plus psychrometric chart band referenced in Newton County county review.
+
+On-site sector marker: Newton County / elevation 417 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39327-815751a8

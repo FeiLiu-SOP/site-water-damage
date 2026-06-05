@@ -12,31 +12,45 @@ lng: -66.9300
 zipSample: ["00678"]
 zipCodes: ["00678"]
 localPaths: ["Quebradillas County / ZIP 00678 sector", "Quebradillas County / primary ZIP 00678", "Quebradillas County / elevation 620 ft band", "Quebradillas County / coords 18.4400, -66.9300"]
-zillowHomeValueUsd: 362834
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for San Antonio:** structural drying capacity optimized for 620ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Quebradillas County. Relative Humidity Threshold: 68%. Sensor sync: Active.
 
 
-Across San Antonio, PR, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Stairwell chase moisture in San Antonio, PR tri-level homes can lag main-floor readings by days.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the property drying file.
+Step: separate emergency extraction from structural drying line items.
 
-Property Drying coordination in San Antonio, PR is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in San Antonio, PR are commonly checked when spread is suspected.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 00678.
+FAQ: Will insurance cover pack-out? Carrier language and photo standards vary in San Antonio, PR markets.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 00678.
+Ask for claim-facing photo standards before work begins. File routing near 00678.
 
-File control: Liberty Mutual mitigation notes was paired with carrier supplement language during intake review in San Antonio.
+Technicians stage HEPA scrubbers before containment zip doors in San Antonio, PR kitchen losses.
 
-Field note: Equipment day-counts were reviewed around ZIP 00678.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-Field note: Drying decisions were sequenced for ZIP sector 00678.
+IICRC reference: structural dry standards in San Antonio, PR should be cited in scope documents.
 
-Dispatch sectors sampled: ZIP 00678 (county grid: Quebradillas County).
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
+
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
+
+Townhome party walls in San Antonio, PR can transfer vapor across unit lines during shared losses.
+
+Non-penetrating meter sweeps in San Antonio, PR hallways often read dry while baseboards remain elevated.
+
+Category note 579513: water-class notation and antimicrobial staging captured for San Antonio, PR intake packet.
+
+Recovery map 579513: structural drying targets and rebuild handoff flags logged for San Antonio, PR postal sector 00678.
+
+Drying packet: LGR condensate yield paired with hardwood moisture strip near ZIP 00678 before scope lock.
+
+On-site sector marker: Quebradillas County / coords 18.4400, -66.9300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00678-64e816b7

@@ -12,28 +12,49 @@ lng: -89.2300
 zipSample: ["61326"]
 zipCodes: ["61326"]
 localPaths: ["Putnam County / ZIP 61326 sector", "Putnam County / primary ZIP 61326", "Putnam County / coords 41.2700, -89.2300", "Putnam County / elevation 692 ft band"]
-zillowHomeValueUsd: 165788
 ---
 
 **Engineering Notice for Granville:** structural drying capacity optimized for 692ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Putnam County. Relative Humidity Threshold: 65%. Sensor sync: Active.
 
 
-Property owners in Granville, IL may see a water mitigation event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Book a moisture-map review before demolition approvals. Primary postal sector: 61326.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Granville, IL.
+Plaster lathe ceilings in Granville, IL pre-war homes hold moisture behind skim coats longer than drywall.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Garage slab moisture in Granville, IL can wick into adjacent finished rooms.
 
-FAQ: What slows recovery most? In Granville, IL, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+IICRC reference: structural dry standards in Granville, IL should be cited in scope documents.
 
-Tip: Save professional notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 61326.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Ask for a room-by-room water mitigation outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 61326.
+Open a mitigation intake with drying targets and rebuild dependencies listed. County corridor Putnam County.
 
-Coverage brief: water category notation can change how carrier supplement language is documented before scheduling.
+Step: label removed materials for disposal manifests and claim packets.
 
-Field note: Equipment day-counts were reviewed around ZIP 61326.
+Radiant floor loops in Granville, IL slab homes need isolated zones before jack-hammer exploration.
 
-Dispatch sectors sampled: ZIP 61326 (county grid: Putnam County).
+Cabinet toe-kick voids in Granville, IL are common hidden moisture reservoirs.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
+
+Psychrometric targets should be recorded before declaring a chamber dry.
+
+Basement seepage in Granville, IL may track foundation cracks rather than appliance failures.
+
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+FAQ: When is hardwood salvage realistic in Granville, IL? Density, duration, and contamination class decide—not optimism.
+
+Equipment roster 943846: dehumidifier hour-meter and air-mover placement queued before Granville, IL scope sign-off.
+
+Containment dossier 943846: poly barrier seams and HEPA scrubber hours keyed to Granville, IL grid Putnam County.
+
+Loss file: equilibrium moisture content plus contents ozone quarantine referenced in Putnam County county review.
+
+Rebuild handoff: mitigation packet drafted for Putnam County routing grid.
+
+On-site sector marker: Putnam County / primary ZIP 61326 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-61326-247338ad

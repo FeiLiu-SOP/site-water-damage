@@ -12,31 +12,45 @@ lng: -99.1800
 zipSample: ["73624"]
 zipCodes: ["73624"]
 localPaths: ["Washita County / primary ZIP 73624", "Washita County / ZIP 73624 sector", "Washita County / coords 35.3500, -99.1800", "Washita County / elevation 1923 ft band"]
-zillowHomeValueUsd: 186872
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Burns Flat:** structural drying capacity optimized for 1923ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washita County. Relative Humidity Threshold: 74%. Sensor sync: Active.
 
 
-A structural drying event in Burns Flat, OK is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+IICRC reference: structural dry standards in Burns Flat, OK should be cited in scope documents.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Burns Flat, OK.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Burns Flat, OK.
+Attic staining in Burns Flat, OK may follow HVAC condensate rather than roof breaches.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 73624.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 73624.
+FAQ: What slows insurance review? Incomplete photo logs and missing moisture maps commonly delay Burns Flat, OK files.
 
-Coverage brief: scope authorization code can change how coverage threshold marker is documented before scheduling.
+We coordinate Burns Flat, OK mitigation with written scope, equipment assumptions, and claim-facing notes.
 
-Field note: Equipment day-counts were reviewed around ZIP 73624.
+Elevated crawlspaces in Burns Flat, OK require vapor-retarder service before dehumidifier sizing.
 
-Field note: Intake notes were reconciled with county grid Washita County.
+Step: verify power availability for drying equipment before overnight runs.
 
-Dispatch sectors sampled: ZIP 73624 (county grid: Washita County).
+Confirm power load assumptions before overnight equipment runs. County corridor Washita County.
+
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
+
+Radiant floor loops in Burns Flat, OK slab homes need isolated zones before jack-hammer exploration.
+
+Cabinet toe-kick voids in Burns Flat, OK are common hidden moisture reservoirs.
+
+Material note: Insulation R-value targets in Burns Flat, OK should match pre-loss assemblies when documented.
+
+Rebuild bridge 685847: cabinet toe-kick probes and subfloor MC readings logged at 35.3500, -99.1800.
+
+Category note 685847: water-class notation and antimicrobial staging captured for Burns Flat, OK intake packet.
+
+Loss file: grain depression target plus pinless scan grid referenced in Washita County county review.
+
+Coordinate-anchored dispatch note: center reference 35.3500, -99.1800 at elevation ~1923 ft aligns with Washita County intake staging.
 
 Service reference: OK-73624-30bcd90a

@@ -12,31 +12,51 @@ lng: -111.8800
 zipSample: ["85634"]
 zipCodes: ["85634"]
 localPaths: ["Pima County / ZIP 85634 sector", "Pima County / elevation 2388 ft band", "Pima County / coords 31.9200, -111.8800", "Pima County / primary ZIP 85634"]
-zillowHomeValueUsd: 451791
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Sells:** structural drying capacity optimized for 2388ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pima County. Relative Humidity Threshold: 66%. Sensor sync: Active.
 
 
-In Sells, AZ, structural drying requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Attic staining in Sells, AZ may follow HVAC condensate rather than roof breaches.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Sells, AZ must be dried before reconstruction is discussed.
+FAQ: Why isolate rooms? Containment concentrates dehumidification and protects unaffected areas.
 
-Our intake team frames structural drying jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Odor control in Sells, AZ category-two losses may require hydroxyl cycles separate from dehumidification.
 
-FAQ: How fast should action start? In Sells, AZ, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Schedule extraction and drying as separate documented phases. File routing near 85634.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 85634.
+Elevator pit flooding in Sells, AZ commercial stacks needs pump-out before cab service resumes.
 
-Book a field review and request a written structural drying scope before mitigation equipment is staged. Serving ZIP Code: 85634.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Coverage brief: depreciation worksheet can change how scope authorization code is documented before scheduling.
+Open a mitigation intake with drying targets and rebuild dependencies listed. County corridor Pima County.
 
-Field note: Drying decisions were sequenced for ZIP sector 85634.
+Multi-story Sells, AZ losses need vertical moisture migration checks on lower levels.
 
-Field note: Moisture logs were aligned with salvage routing in Sells, AZ.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Dispatch sectors sampled: ZIP 85634 (county grid: Pima County).
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
+
+Category-two losses in Sells, AZ require antimicrobial staging decisions before rebuild quotes.
+
+FAQ: What slows insurance review? Incomplete photo logs and missing moisture maps commonly delay Sells, AZ files.
+
+Tip: Date-stamp moisture maps when adjusters request progress updates near 85634.
+
+Step: reconcile carrier photo requirements before tear-out in Sells, AZ.
+
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
+
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
+
+File audit 977762: adjuster photo-set crosswalk and contents segregation reviewed for Sells, AZ at 31.9200/-111.8800.
+
+Equipment roster 977762: dehumidifier hour-meter and air-mover placement queued before Sells, AZ scope sign-off.
+
+Mitigation trace: psychrometric chart band, subfloor MC probe, and ceiling cavity bore scope cross-indexed for Sells intake.
+
+Demo gate: demolition checkpoints staged before rebuild handoff in Sells, AZ.
+
+Coordinate-anchored dispatch note: center reference 31.9200, -111.8800 at elevation ~2388 ft aligns with Pima County intake staging.
 
 Service reference: AZ-85634-e4229e08

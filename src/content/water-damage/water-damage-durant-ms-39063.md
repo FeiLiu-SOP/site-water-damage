@@ -12,30 +12,45 @@ lng: -89.8600
 zipSample: ["39063"]
 zipCodes: ["39063"]
 localPaths: ["Holmes County / primary ZIP 39063", "Holmes County / ZIP 39063 sector", "Holmes County / coords 33.0800, -89.8600", "Holmes County / elevation 276 ft band"]
-zillowHomeValueUsd: 60717
 ---
 
 **Engineering Notice for Durant:** structural drying capacity optimized for 276ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Holmes County. Relative Humidity Threshold: 68%. Sensor sync: Active.
 
 
-Property owners in Durant, MS may see a disaster cleanup event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Technicians probe sill plates in Durant, MS ranch layouts before declaring first-floor dry.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Durant, MS.
+Ask for claim-facing photo standards before work begins. File routing near 39063.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-FAQ: What slows recovery most? In Durant, MS, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Radiant floor loops in Durant, MS slab homes need isolated zones before jack-hammer exploration.
 
-Tip: Save local team notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 39063.
+Elevated crawlspaces in Durant, MS require vapor-retarder remediation before dehumidifier sizing.
 
-Ask for a room-by-room disaster cleanup outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 39063.
+FAQ: Which documents matter most? Incomplete photo logs and missing moisture maps commonly delay Durant, MS files.
 
-File control: scope authorization code was paired with Claim filing codes during intake review in Durant.
+Step: separate emergency extraction from structural drying line items.
 
-Field note: Moisture logs were aligned with salvage routing in Durant, MS.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Field note: Drying decisions were sequenced for ZIP sector 39063.
+In Durant, MS, disaster cleanup calls often start with moisture mapping before demolition is discussed.
 
-Dispatch sectors sampled: ZIP 39063 (county grid: Holmes County).
+Risk flag: In Durant, MS, delayed pack-out can swell cabinetry beyond salvage.
+
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
+
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
+
+FAQ: When is hardwood salvage realistic in Durant, MS? Density, duration, and contamination class decide—not optimism.
+
+Odor control in Durant, MS category-two losses may require hydroxyl cycles separate from dehumidification.
+
+Loss trace 386420: extraction velocity notes and demolition threshold markers keyed to Durant, MS elevation 276 ft.
+
+Rebuild bridge 386420: cabinet toe-kick probes and subfloor MC readings logged at 33.0800, -89.8600.
+
+Drying packet: pack-out chain-of-custody paired with structural dry standard near ZIP 39063 before scope lock.
+
+On-site sector marker: Holmes County / ZIP 39063 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39063-03472430

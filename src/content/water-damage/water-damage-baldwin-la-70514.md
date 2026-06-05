@@ -12,31 +12,47 @@ lng: -91.5500
 zipSample: ["70538", "70514"]
 zipCodes: ["70538", "70514"]
 localPaths: ["St. Mary Parish / primary ZIP 70514", "St. Mary Parish / ZIP 70538 sector", "St. Mary Parish / coords 29.8400, -91.5500", "St. Mary Parish / ZIP 70514 sector", "St. Mary Parish / elevation 26 ft band"]
-zillowHomeValueUsd: 196971
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Baldwin:** structural drying capacity optimized for 26ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Mary Parish. Relative Humidity Threshold: 77%. Sensor sync: Active.
 
 
-A water loss recovery event in Baldwin, LA is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Step: photograph standing water and material edges before extraction.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Baldwin, LA.
+Odor control in Baldwin, LA category-two losses may require hydroxyl cycles separate from dehumidification.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Baldwin, LA.
+Elevator pit flooding in Baldwin, LA commercial stacks needs pump-out before cab service resumes.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 70538/70514.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 70514.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Insurance note: contents-vs-structure split and reserve change notes were flagged for the Baldwin file.
+FAQ: Who inventories contents? Carrier language and photo standards vary in Baldwin, LA markets.
 
-Field note: Intake notes were reconciled with county grid St. Mary Parish.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Field note: Moisture logs were aligned with salvage routing in Baldwin, LA.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 70514.
 
-Dispatch sectors sampled: ZIP 70538, 70514 (county grid: St. Mary Parish).
+IICRC reference: structural dry standards in Baldwin, LA should be cited in scope documents.
+
+We coordinate Baldwin, LA mitigation with written scope, equipment assumptions, and claim-facing notes.
+
+Crawlspace vapor barriers in Baldwin, LA may trap moisture if torn during extraction hose routing.
+
+Permit note: Rebuild phases in Baldwin, LA may need separate inspections from mitigation work.
+
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
+
+Recovery map 333618: structural drying targets and rebuild handoff flags logged for Baldwin, LA postal sector 70514.
+
+Category note 333618: water-class notation and antimicrobial staging captured for Baldwin, LA intake packet.
+
+Drying packet: vapor pressure differential paired with HEPA scrubber CFM log near ZIP 70514 before scope lock.
+
+Thermal pass: infrared scan queued after second dry cycle in Baldwin, LA.
+
+Coordinate-anchored dispatch note: center reference 29.8400, -91.5500 at elevation ~26 ft aligns with St. Mary Parish intake staging.
 
 Service reference: LA-70514-87b5b331

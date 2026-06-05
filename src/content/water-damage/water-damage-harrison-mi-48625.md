@@ -12,30 +12,49 @@ lng: -84.8100
 zipSample: ["48625"]
 zipCodes: ["48625"]
 localPaths: ["Clare County / ZIP 48625 sector", "Clare County / elevation 1188 ft band", "Clare County / primary ZIP 48625", "Clare County / coords 44.0200, -84.8100"]
-zillowHomeValueUsd: 127899
 ---
 
 **Engineering Notice for Harrison:** structural drying capacity optimized for 1188ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clare County. Relative Humidity Threshold: 73%. Sensor sync: Active.
 
 
-In Harrison, MI, water loss recovery requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Harrison, MI must be dried before reconstruction is discussed.
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
 
-Our intake team frames water loss recovery jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Tip: Save adjuster emails in one folder before calling back.
 
-FAQ: How fast should action start? In Harrison, MI, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Thermal imaging in Harrison, MI is scheduled after surface readings plateau for two cycles.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 48625.
+Step: document demolition justification with moisture meter readings.
 
-Book a field review and request a written water loss recovery scope before mitigation equipment is staged. Serving ZIP Code: 48625.
+Tip: Log refrigerator line shutoffs before moving units in Harrison, MI kitchen losses.
 
-Coverage brief: Liberty Mutual mitigation notes can change how adjuster photo-log is documented before scheduling.
+Permit note: Rebuild phases in Harrison, MI may need separate inspections from mitigation work.
 
-Field note: Equipment day-counts were reviewed around ZIP 48625.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Field note: Moisture logs were aligned with salvage routing in Harrison, MI.
+Basement seepage in Harrison, MI may track foundation cracks rather than appliance failures.
 
-Dispatch sectors sampled: ZIP 48625 (county grid: Clare County).
+Risk flag: Harrison, MI slab-on-grade homes may need core probes when perimeter walls read dry.
+
+Stairwell chase moisture in Harrison, MI tri-level homes can lag main-floor readings by days.
+
+Step: verify power availability for drying equipment before overnight runs.
+
+Subfloor cupping in Harrison, MI can lag source-stop by several drying days.
+
+Garage slab moisture in Harrison, MI can wick into adjacent finished rooms.
+
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
+
+File audit 887073: adjuster photo-set crosswalk and contents segregation reviewed for Harrison, MI at 44.0200/-84.8100.
+
+Rebuild bridge 887073: cabinet toe-kick probes and subfloor MC readings logged at 44.0200, -84.8100.
+
+Drying packet: LGR condensate yield paired with psychrometric chart band near ZIP 48625 before scope lock.
+
+Moisture trace: 24-hour hygrometer bands logged for ZIP sector 48625.
+
+ZIP-corridor snapshot for Harrison, MI: sampled sectors include 48625; county routing grid remains Clare County.
 
 Service reference: MI-48625-55059cb4

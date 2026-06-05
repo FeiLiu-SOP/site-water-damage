@@ -12,28 +12,49 @@ lng: -84.1400
 zipSample: ["48647"]
 zipCodes: ["48647"]
 localPaths: ["Oscoda County / coords 44.6600, -84.1400", "Oscoda County / primary ZIP 48647", "Oscoda County / elevation 958 ft band", "Oscoda County / ZIP 48647 sector"]
-zillowHomeValueUsd: 125955
 ---
 
 **Engineering Notice for Mio:** structural drying capacity optimized for 958ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Oscoda County. Relative Humidity Threshold: 66%. Sensor sync: Active.
 
 
-A flood recovery event in Mio, MI is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Permit note: Rebuild phases in Mio, MI may need separate inspections from mitigation work.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Mio, MI.
+Risk flag: Mio, MI slab-on-grade homes may need core probes when perimeter walls read dry.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Step: reconcile carrier photo requirements before tear-out in Mio, MI.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Mio, MI.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 48647.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 48647.
+Garage-to-house air barriers in Mio, MI ranch plans affect drying chamber boundaries.
 
-Claim marker: Liberty Mutual mitigation notes was logged beside reserve change notes near ZIP 48647.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-Field note: Intake notes were reconciled with county grid Oscoda County.
+FAQ: When is hardwood salvage realistic in Mio, MI? Density, duration, and contamination class decide—not optimism.
 
-Dispatch sectors sampled: ZIP 48647 (county grid: Oscoda County).
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
+
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+Step: isolate affected rooms with poly barriers before air-mover placement in Mio, MI.
+
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
+
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
+
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
+
+Tip: Record when the water source was stopped and power restored in Mio, MI.
+
+Claim dossier 293656: pack-out ledger and humidity log bands filed for Mio, MI county Oscoda County (ZIP 48647).
+
+Rebuild bridge 293656: cabinet toe-kick probes and subfloor MC readings logged at 44.6600, -84.1400.
+
+Drying packet: air mover amp draw paired with category-three PPE log near ZIP 48647 before scope lock.
+
+Power audit: dehumidifier load confirmed in Mio, MI before overnight run.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~958 ft across the Oscoda County area. Coordinates: 44.6600, -84.1400. ZIP sample: 48647. Service perimeter note: Coverage extends through Oscoda County with dispatch centered near ZIP 48647.
 
 Service reference: MI-48647-ed0755f1

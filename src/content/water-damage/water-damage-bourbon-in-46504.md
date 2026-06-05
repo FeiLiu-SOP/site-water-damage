@@ -12,30 +12,49 @@ lng: -86.1200
 zipSample: ["46504"]
 zipCodes: ["46504"]
 localPaths: ["Marshall County / primary ZIP 46504", "Marshall County / elevation 856 ft band", "Marshall County / coords 41.3000, -86.1200", "Marshall County / ZIP 46504 sector"]
-zillowHomeValueUsd: 234529
 ---
 
 **Engineering Notice for Bourbon:** structural drying capacity optimized for 856ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marshall County. Relative Humidity Threshold: 65%. Sensor sync: Active.
 
 
-Property owners in Bourbon, IN may see a disaster cleanup event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Elevated crawlspaces in Bourbon, IN require vapor-retarder service before dehumidifier sizing.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Bourbon, IN.
+Radiant floor loops in Bourbon, IN slab homes need isolated zones before jack-hammer exploration.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Technicians stage HEPA scrubbers before containment zip doors in Bourbon, IN kitchen losses.
 
-FAQ: What slows recovery most? In Bourbon, IN, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Elevator pit flooding in Bourbon, IN commercial stacks needs pump-out before cab service resumes.
 
-Tip: Save professional notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 46504.
+Risk flag: In Bourbon, IN, delayed pack-out can swell cabinetry beyond salvage.
 
-Ask for a room-by-room disaster cleanup outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 46504.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-File control: recoverable depreciation was paired with water category notation during intake review in Bourbon.
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
 
-Field note: Intake notes were reconciled with county grid Marshall County.
+Attic staining in Bourbon, IN may follow HVAC condensate rather than roof breaches.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Bourbon, IN.
+Ask for claim-facing photo standards before work begins. File routing near 46504.
 
-Dispatch sectors sampled: ZIP 46504 (county grid: Marshall County).
+Odor control in Bourbon, IN category-two losses may require hydroxyl cycles separate from dehumidification.
+
+Plaster lathe ceilings in Bourbon, IN pre-war homes hold moisture behind skim coats longer than drywall.
+
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+Stairwell chase moisture in Bourbon, IN tri-level homes can lag main-floor readings by days.
+
+Step: label removed materials for disposal manifests and claim packets.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
+
+Carrier sync 394210: depreciation worksheet lane and supplement language staged for ZIP 46504.
+
+Mitigation ledger 394210: moisture map grid, salvage lane tags, and drying day-count staged for Bourbon, IN at 41.3000, -86.1200.
+
+Loss file: vapor pressure differential plus LGR condensate yield referenced in Marshall County county review.
+
+ZIP-corridor snapshot for Bourbon, IN: sampled sectors include 46504; county routing grid remains Marshall County.
 
 Service reference: IN-46504-c9e710ac

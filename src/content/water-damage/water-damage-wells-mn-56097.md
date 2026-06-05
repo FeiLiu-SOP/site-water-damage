@@ -12,28 +12,45 @@ lng: -93.7300
 zipSample: ["56097"]
 zipCodes: ["56097"]
 localPaths: ["Faribault County / elevation 1158 ft band", "Faribault County / ZIP 56097 sector", "Faribault County / primary ZIP 56097", "Faribault County / coords 43.7400, -93.7300"]
-zillowHomeValueUsd: 182238
 ---
 
 **Engineering Notice for Wells:** structural drying capacity optimized for 1158ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Faribault County. Relative Humidity Threshold: 74%. Sensor sync: Active.
 
 
-A flood restoration event in Wells, MN is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Risk flag: Incomplete claim packets in Wells, MN often force duplicate site visits.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Wells, MN.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Tip: Log refrigerator line shutoffs before moving units in Wells, MN kitchen losses.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Wells, MN.
+IICRC reference: structural dry standards in Wells, MN should be cited in scope documents.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 56097.
+Step: label removed materials for disposal manifests and claim packets.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 56097.
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
 
-Coverage brief: reserve change notes can change how Farmers routing language is documented before scheduling.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-Field note: Intake notes were reconciled with county grid Faribault County.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Dispatch sectors sampled: ZIP 56097 (county grid: Faribault County).
+Garage slab moisture in Wells, MN can wick into adjacent finished rooms.
+
+Stairwell chase moisture in Wells, MN tri-level homes can lag main-floor readings by days.
+
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Material note: Insulation R-value targets in Wells, MN should match pre-loss assemblies when documented.
+
+Permit note: Rebuild phases in Wells, MN may need separate inspections from mitigation work.
+
+Contents pack-out in Wells, MN should be photographed before movement off-site.
+
+File audit 155311: adjuster photo-set crosswalk and contents segregation reviewed for Wells, MN at 43.7400/-93.7300.
+
+Rebuild bridge 155311: cabinet toe-kick probes and subfloor MC readings logged at 43.7400, -93.7300.
+
+Loss file: air mover amp draw plus pinless scan grid referenced in Faribault County county review.
+
+ZIP-corridor snapshot for Wells, MN: sampled sectors include 56097; county routing grid remains Faribault County.
 
 Service reference: MN-56097-23a93adf

@@ -12,30 +12,49 @@ lng: -82.0200
 zipSample: ["29336", "29301"]
 zipCodes: ["29301", "29336"]
 localPaths: ["Spartanburg County / coords 34.9500, -82.0200", "Spartanburg County / primary ZIP 29301", "Spartanburg County / elevation 860 ft band", "Spartanburg County / ZIP 29336 sector", "Spartanburg County / ZIP 29301 sector"]
-zillowHomeValueUsd: 237484
 ---
 
 **Engineering Notice for Fairforest:** structural drying capacity optimized for 860ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Spartanburg County. Relative Humidity Threshold: 65%. Sensor sync: Active.
 
 
-Property owners in Fairforest, SC may see a structural drying event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Elevator pit flooding in Fairforest, SC commercial stacks needs pump-out before cab service resumes.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Fairforest, SC.
+Tip: Record when the water source was stopped and power restored in Fairforest, SC.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-FAQ: What slows recovery most? In Fairforest, SC, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Tip: Save professional notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 29301/29336.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Ask for a room-by-room structural drying outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 29301.
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
 
-File control: loss diary entry was paired with depreciation worksheet during intake review in Fairforest.
+Odor control in Fairforest, SC category-two losses may require hydroxyl cycles separate from dehumidification.
 
-Field note: Equipment day-counts were reviewed around ZIP 29301/29336.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Fairforest, SC.
+Across Fairforest, SC, standing water duration drives salvage-versus-remove decisions within hours.
 
-Dispatch sectors sampled: ZIP 29301, 29336 (county grid: Spartanburg County).
+Ceiling collapse risk in Fairforest, SC multi-family units rises when saturated insulation loads truss chords.
+
+Permit note: Rebuild phases in Fairforest, SC may need separate inspections from mitigation work.
+
+Step: log humidity and temperature readings at 24-hour intervals.
+
+Tip: List detached baseboards and removed insulation by room for claim traceability.
+
+Tip: Date-stamp moisture maps when adjusters request progress updates near 29301.
+
+Schedule extraction and drying as separate documented phases. File routing near 29301.
+
+Mitigation ledger 358915: moisture map grid, salvage lane tags, and drying day-count staged for Fairforest, SC at 34.9500, -82.0200.
+
+Containment dossier 358915: poly barrier seams and HEPA scrubber hours keyed to Fairforest, SC grid Spartanburg County.
+
+Drying packet: category-three PPE log paired with flood cut elevation mark near ZIP 29301 before scope lock.
+
+Power audit: dehumidifier load confirmed in Fairforest, SC before overnight run.
+
+On-site sector marker: Spartanburg County / elevation 860 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29301-6b94da74

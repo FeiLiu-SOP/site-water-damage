@@ -12,30 +12,45 @@ lng: -108.1500
 zipSample: ["88036", "88022", "88041", "88026"]
 zipCodes: ["88041", "88026", "88036", "88022"]
 localPaths: ["Grant County / primary ZIP 88022", "Grant County / elevation 6004 ft band", "Grant County / coords 32.7800, -108.1500", "Grant County / ZIP 88022 sector", "Grant County / ZIP 88041 sector"]
-zillowHomeValueUsd: 214616
 ---
 
 **Engineering Notice for Santa Clara:** structural drying capacity optimized for 6004ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grant County. Relative Humidity Threshold: 70%. Sensor sync: Active.
 
 
-When structural drying cases are reviewed in Santa Clara, NM, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Santa Clara, NM.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Permit note: Rebuild phases in Santa Clara, NM may need separate inspections from mitigation work.
 
-FAQ: Is every wet material removed immediately? Not always. In Santa Clara, NM, some assemblies are monitored through readings before invasive removal is approved.
+Elevated crawlspaces in Santa Clara, NM require vapor-retarder remediation before dehumidifier sizing.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 88022/88026/88036.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 88022.
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
 
-File control: Claim filing codes was paired with mitigation invoice sequencing during intake review in Santa Clara.
+Regulatory note: Santa Clara, NM projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
 
-Field note: Drying decisions were sequenced for ZIP sector 88022/88026/88036.
+Stairwell chase moisture in Santa Clara, NM tri-level homes can lag main-floor readings by days.
 
-Field note: Intake notes were reconciled with county grid Grant County.
+Cabinet toe-kick voids in Santa Clara, NM are common hidden moisture reservoirs.
 
-Dispatch sectors sampled: ZIP 88022, 88026, 88036, 88041 (county grid: Grant County).
+Step: photograph standing water and material edges before extraction.
+
+IICRC reference: structural dry standards in Santa Clara, NM should be cited in scope documents.
+
+Material note: Insulation R-value targets in Santa Clara, NM should match pre-loss assemblies when documented.
+
+Crawlspace vapor barriers in Santa Clara, NM may trap moisture if torn during extraction hose routing.
+
+Confirm power load assumptions before overnight equipment runs. County corridor Grant County.
+
+Carrier sync 960804: depreciation worksheet lane and supplement language staged for ZIP 88022.
+
+Category note 960804: water-class notation and antimicrobial staging captured for Santa Clara, NM intake packet.
+
+Drying packet: air mover amp draw paired with demolition salvage tag near ZIP 88022 before scope lock.
+
+On-site sector marker: Grant County / ZIP 88026 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-88022-e0796463

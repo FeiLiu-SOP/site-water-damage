@@ -12,30 +12,51 @@ lng: -119.6000
 zipSample: ["93616"]
 zipCodes: ["93616"]
 localPaths: ["Fresno County / elevation 351 ft band", "Fresno County / ZIP 93616 sector", "Fresno County / coords 36.6600, -119.6000", "Fresno County / primary ZIP 93616"]
-zillowHomeValueUsd: 388112
 ---
 
 **Engineering Notice for Del Rey:** structural drying capacity optimized for 351ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fresno County. Relative Humidity Threshold: 79%. Sensor sync: Active.
 
 
-When water loss recovery cases are reviewed in Del Rey, CA, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Crawlspace vapor barriers in Del Rey, CA may trap moisture if torn during extraction hose routing.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Del Rey, CA.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Plaster lathe ceilings in Del Rey, CA pre-war homes hold moisture behind skim coats longer than drywall.
 
-FAQ: Is every wet material removed immediately? Not always. In Del Rey, CA, some assemblies are monitored through readings before invasive removal is approved.
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 93616.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 93616.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-Coverage brief: adjuster photo-log can change how contents-vs-structure split is documented before scheduling.
+Permit note: Rebuild phases in Del Rey, CA may need separate inspections from mitigation work.
 
-Field note: Equipment day-counts were reviewed around ZIP 93616.
+Risk flag: Incomplete claim packets in Del Rey, CA often force duplicate site visits.
 
-Field note: Moisture logs were aligned with salvage routing in Del Rey, CA.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-Dispatch sectors sampled: ZIP 93616 (county grid: Fresno County).
+Schedule extraction and drying as separate documented phases. File routing near 93616.
+
+FAQ: How fast should mitigation start? In Del Rey, CA, extended damp periods expand demolition and mold-risk scope.
+
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+Confirm power load assumptions before overnight equipment runs. County corridor Fresno County.
+
+Technicians stage HEPA scrubbers before containment zip doors in Del Rey, CA kitchen losses.
+
+IICRC reference: structural dry standards in Del Rey, CA should be cited in scope documents.
+
+Built-in bookcase cavities in Del Rey, CA trap humidity behind fixed shelving.
+
+Carrier sync 286603: depreciation worksheet lane and supplement language staged for ZIP 93616.
+
+Claim dossier 286603: pack-out ledger and humidity log bands filed for Del Rey, CA county Fresno County (ZIP 93616).
+
+Mitigation trace: flood cut elevation mark, subfloor MC probe, and grain depression target cross-indexed for Del Rey intake.
+
+Humidity target: control setpoints reviewed for Fresno County county grid.
+
+Primary postal anchor 93616 with multi-ZIP overlap in Del Rey; field packets tag Fresno County for county-grid reconciliation.
 
 Service reference: CA-93616-aaff819e

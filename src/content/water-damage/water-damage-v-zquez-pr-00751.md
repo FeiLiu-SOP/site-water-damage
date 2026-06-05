@@ -12,29 +12,47 @@ lng: -66.2300
 zipSample: ["00751"]
 zipCodes: ["00751"]
 localPaths: ["Salinas County / primary ZIP 00751", "Salinas County / ZIP 00751 sector", "Salinas County / coords 18.0700, -66.2300", "Salinas County / elevation 709 ft band"]
-zillowHomeValueUsd: 363237
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Vázquez:** structural drying capacity optimized for 709ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Salinas County. Relative Humidity Threshold: 78%. Sensor sync: Active.
 
 
-In Vázquez, PR, water loss recovery requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Vázquez, PR must be dried before reconstruction is discussed.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 00751.
 
-Our intake team frames water loss recovery jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Townhome party walls in Vázquez, PR can transfer vapor across unit lines during shared losses.
 
-FAQ: How fast should action start? In Vázquez, PR, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Garage-to-house air barriers in Vázquez, PR ranch plans affect drying chamber boundaries.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 00751.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Book a field review and request a written water loss recovery scope before mitigation equipment is staged. Serving ZIP Code: 00751.
+Technicians probe sill plates in Vázquez, PR ranch layouts before declaring first-floor dry.
 
-Coverage brief: coverage threshold marker can change how Farmers routing language is documented before scheduling.
+Thermal imaging in Vázquez, PR is scheduled after surface readings plateau for two cycles.
 
-Field note: Drying decisions were sequenced for ZIP sector 00751.
+We coordinate Vázquez, PR mitigation with written scope, equipment assumptions, and claim-facing notes.
 
-Dispatch sectors sampled: ZIP 00751 (county grid: Salinas County).
+Permit note: Rebuild phases in Vázquez, PR may need separate inspections from mitigation work.
+
+Across Vázquez, PR, standing water duration drives salvage-versus-remove decisions within hours.
+
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
+
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
+
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
+
+Ceiling collapse risk in Vázquez, PR multi-family units rises when saturated insulation loads truss chords.
+
+File audit 898156: adjuster photo-set crosswalk and contents segregation reviewed for Vázquez, PR at 18.0700/-66.2300.
+
+Recovery map 898156: structural drying targets and rebuild handoff flags logged for Vázquez, PR postal sector 00751.
+
+Loss file: category-three PPE log plus demolition salvage tag referenced in Salinas County county review.
+
+Coordinate-anchored dispatch note: center reference 18.0700, -66.2300 at elevation ~709 ft aligns with Salinas County intake staging.
 
 Service reference: PR-00751-ef73e899

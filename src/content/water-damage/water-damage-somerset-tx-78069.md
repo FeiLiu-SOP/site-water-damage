@@ -12,30 +12,45 @@ lng: -98.6600
 zipSample: ["78073", "78069"]
 zipCodes: ["78069", "78073"]
 localPaths: ["Bexar County / ZIP 78073 sector", "Bexar County / elevation 659 ft band", "Bexar County / coords 29.2300, -98.6600", "Bexar County / ZIP 78069 sector", "Bexar County / primary ZIP 78069"]
-zillowHomeValueUsd: 234632
 ---
 
 **Engineering Notice for Somerset:** structural drying capacity optimized for 659ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bexar County. Relative Humidity Threshold: 76%. Sensor sync: Active.
 
 
-Across Somerset, TX, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the flood recovery file.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Flood Recovery coordination in Somerset, TX is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Dispatch packets for Somerset, TX reference county grid Bexar County and elevation band 659 ft.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Somerset, TX are commonly checked when spread is suspected.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 78073/78069.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 78069.
+Carpet pad saturation in Somerset, TX frequently forces disposal even when face fiber appears dry.
 
-Claim marker: Deductible was logged beside State Farm coverage patterns near ZIP 78069.
+Subfloor cupping in Somerset, TX can lag source-stop by several drying days.
 
-Field note: Drying decisions were sequenced for ZIP sector 78073/78069.
+FAQ: Why isolate rooms? Containment concentrates dehumidification and protects unaffected areas.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Somerset, TX.
+Tip: Record when the water source was stopped and power restored in Somerset, TX.
 
-Dispatch sectors sampled: ZIP 78073, 78069 (county grid: Bexar County).
+Desiccant dehumidifier sizing in Somerset, TX commercial zones differs from LGR residential defaults.
+
+Step: photograph standing water and material edges before extraction.
+
+Tip: Date-stamp moisture maps when adjusters request progress updates near 78069.
+
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
+
+Permit note: Rebuild phases in Somerset, TX may need separate inspections from mitigation work.
+
+Category note 631181: water-class notation and antimicrobial staging captured for Somerset, TX intake packet.
+
+Equipment roster 631181: dehumidifier hour-meter and air-mover placement queued before Somerset, TX scope sign-off.
+
+Loss file: wall cavity vent hole plus pack-out chain-of-custody referenced in Bexar County county review.
+
+On-site sector marker: Bexar County / ZIP 78073 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78069-7ba3d26f

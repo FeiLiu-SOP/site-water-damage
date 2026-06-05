@@ -12,29 +12,45 @@ lng: -104.6800
 zipSample: ["88435"]
 zipCodes: ["88435"]
 localPaths: ["Guadalupe County / primary ZIP 88435", "Guadalupe County / ZIP 88435 sector", "Guadalupe County / elevation 4567 ft band", "Guadalupe County / coords 34.9400, -104.6800"]
-zillowHomeValueUsd: 310894
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Santa Rosa:** structural drying capacity optimized for 4567ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Guadalupe County. Relative Humidity Threshold: 81%. Sensor sync: Active.
 
 
-When storm cleanup cases are reviewed in Santa Rosa, NM, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+FAQ: Who inventories contents? Carrier language and photo standards vary in Santa Rosa, NM markets.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Santa Rosa, NM.
+Tip: Log refrigerator line shutoffs before moving units in Santa Rosa, NM kitchen losses.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+We coordinate Santa Rosa, NM mitigation with written scope, equipment assumptions, and claim-facing notes.
 
-FAQ: Is every wet material removed immediately? Not always. In Santa Rosa, NM, some assemblies are monitored through readings before invasive removal is approved.
+FAQ: When is hardwood salvage realistic in Santa Rosa, NM? Density, duration, and contamination class decide—not optimism.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 88435.
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 88435.
+Cabinet toe-kick voids in Santa Rosa, NM are common hidden moisture reservoirs.
 
-Insurance note: State Farm coverage patterns and scope authorization code were flagged for the Santa Rosa file.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-Field note: Equipment day-counts were reviewed around ZIP 88435.
+Schedule extraction and drying as separate documented phases. File routing near 88435.
 
-Dispatch sectors sampled: ZIP 88435 (county grid: Guadalupe County).
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+FAQ: Which documents matter most? Incomplete photo logs and missing moisture maps commonly delay Santa Rosa, NM files.
+
+Tip: List detached baseboards and removed insulation by room for claim traceability.
+
+Sump overflow in Santa Rosa, NM can masquerade as foundation infiltration.
+
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+Elevator pit flooding in Santa Rosa, NM commercial stacks needs pump-out before cab service resumes.
+
+Carrier sync 983661: depreciation worksheet lane and supplement language staged for ZIP 88435.
+
+Loss trace 983661: extraction velocity notes and demolition threshold markers keyed to Santa Rosa, NM elevation 4567 ft.
+
+Drying packet: psychrometric chart band paired with subfloor MC probe near ZIP 88435 before scope lock.
+
+On-site sector marker: Guadalupe County / ZIP 88435 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-88435-b6eea801

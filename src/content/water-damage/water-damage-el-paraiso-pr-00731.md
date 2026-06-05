@@ -12,31 +12,49 @@ lng: -66.6000
 zipSample: ["00731"]
 zipCodes: ["00731"]
 localPaths: ["Ponce County / primary ZIP 00731", "Ponce County / coords 18.0600, -66.6000", "Ponce County / ZIP 00731 sector", "Ponce County / elevation 446 ft band"]
-zillowHomeValueUsd: 378081
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for El Paraiso:** structural drying capacity optimized for 446ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ponce County. Relative Humidity Threshold: 81%. Sensor sync: Active.
 
 
-Property owners in El Paraiso, PR may see a storm cleanup event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Step: isolate affected rooms with poly barriers before air-mover placement in El Paraiso, PR.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for El Paraiso, PR.
+FAQ: Will insurance cover pack-out? Carrier language and photo standards vary in El Paraiso, PR markets.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-FAQ: What slows recovery most? In El Paraiso, PR, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
 
-Tip: Save professional notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 00731.
+Townhome party walls in El Paraiso, PR can transfer vapor across unit lines during shared losses.
 
-Ask for a room-by-room storm cleanup outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 00731.
+Tip: Record when the water source was stopped and power restored in El Paraiso, PR.
 
-Insurance note: USAA property-loss packet and recoverable depreciation were flagged for the El Paraiso file.
+Built-in bookcase cavities in El Paraiso, PR trap humidity behind fixed shelving.
 
-Field note: Intake notes were reconciled with county grid Ponce County.
+Elevated crawlspaces in El Paraiso, PR require vapor-retarder service before dehumidifier sizing.
 
-Field note: Drying decisions were sequenced for ZIP sector 00731.
+Basement seepage in El Paraiso, PR may track foundation cracks rather than appliance failures.
 
-Dispatch sectors sampled: ZIP 00731 (county grid: Ponce County).
+Crawlspace vapor barriers in El Paraiso, PR may trap moisture if torn during extraction hose routing.
+
+Cabinet toe-kick voids in El Paraiso, PR are common hidden moisture reservoirs.
+
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+Elevator pit flooding in El Paraiso, PR commercial stacks needs pump-out before cab service resumes.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Material note: Insulation R-value targets in El Paraiso, PR should match pre-loss assemblies when documented.
+
+Attic staining in El Paraiso, PR may follow HVAC condensate rather than roof breaches.
+
+Recovery map 167952: structural drying targets and rebuild handoff flags logged for El Paraiso, PR postal sector 00731.
+
+Rebuild bridge 167952: cabinet toe-kick probes and subfloor MC readings logged at 18.0600, -66.6000.
+
+Loss file: pack-out chain-of-custody plus desiccant rotor hour referenced in Ponce County county review.
+
+On-site sector marker: Ponce County / coords 18.0600, -66.6000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00731-7e862c7f

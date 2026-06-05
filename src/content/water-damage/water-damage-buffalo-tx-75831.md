@@ -12,28 +12,45 @@ lng: -96.0700
 zipSample: ["75831"]
 zipCodes: ["75831"]
 localPaths: ["Leon County / ZIP 75831 sector", "Leon County / primary ZIP 75831", "Leon County / coords 31.4600, -96.0700", "Leon County / elevation 387 ft band"]
-zillowHomeValueUsd: 290095
 ---
 
 **Engineering Notice for Buffalo:** structural drying capacity optimized for 387ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Leon County. Relative Humidity Threshold: 73%. Sensor sync: Active.
 
 
-In Buffalo, TX, flood restoration requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Buffalo, TX must be dried before reconstruction is discussed.
+Subfloor cupping in Buffalo, TX can lag source-stop by several drying days.
 
-Our intake team frames flood restoration jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Confirm power load assumptions before overnight equipment runs. County corridor Leon County.
 
-FAQ: How fast should action start? In Buffalo, TX, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 75831.
+Step: label removed materials for disposal manifests and claim packets.
 
-Book a field review and request a written flood restoration scope before mitigation equipment is staged. Serving ZIP Code: 75831.
+Step: log humidity and temperature readings at 24-hour intervals.
 
-Claim marker: Allstate loss review was logged beside Liberty Mutual mitigation notes near ZIP 75831.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-Field note: Equipment day-counts were reviewed around ZIP 75831.
+Tip: Save adjuster emails in one folder before calling back.
 
-Dispatch sectors sampled: ZIP 75831 (county grid: Leon County).
+Material note: Insulation R-value targets in Buffalo, TX should match pre-loss assemblies when documented.
+
+Radiant floor loops in Buffalo, TX slab homes need isolated zones before jack-hammer exploration.
+
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
+
+Humidity pockets in Buffalo, TX wall cavities can persist after visible drying on surfaces.
+
+Built-in bookcase cavities in Buffalo, TX trap humidity behind fixed shelving.
+
+Elevated crawlspaces in Buffalo, TX require vapor-retarder restoration before dehumidifier sizing.
+
+Mitigation ledger 356610: moisture map grid, salvage lane tags, and drying day-count staged for Buffalo, TX at 31.4600, -96.0700.
+
+Rebuild bridge 356610: cabinet toe-kick probes and subfloor MC readings logged at 31.4600, -96.0700.
+
+Drying packet: grain depression target paired with flood cut elevation mark near ZIP 75831 before scope lock.
+
+On-site sector marker: Leon County / coords 31.4600, -96.0700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75831-83b4de0a

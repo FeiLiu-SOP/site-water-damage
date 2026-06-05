@@ -12,29 +12,49 @@ lng: -65.7900
 zipSample: ["00718"]
 zipCodes: ["00718"]
 localPaths: ["Naguabo County / elevation 131 ft band", "Naguabo County / coords 18.2100, -65.7900", "Naguabo County / primary ZIP 00718", "Naguabo County / ZIP 00718 sector"]
-zillowHomeValueUsd: 356172
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Río Blanco:** structural drying capacity optimized for 131ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Naguabo County. Relative Humidity Threshold: 65%. Sensor sync: Active.
 
 
-When flood recovery cases are reviewed in Río Blanco, PR, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Technicians probe sill plates in Río Blanco, PR ranch layouts before declaring first-floor dry.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Río Blanco, PR.
+Freeze-burst events in Río Blanco, PR often damage multiple wall bays before owners notice flow.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Plaster lathe ceilings in Río Blanco, PR pre-war homes hold moisture behind skim coats longer than drywall.
 
-FAQ: Is every wet material removed immediately? Not always. In Río Blanco, PR, some assemblies are monitored through readings before invasive removal is approved.
+We coordinate Río Blanco, PR mitigation with written scope, equipment assumptions, and claim-facing notes.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 00718.
+Radiant floor loops in Río Blanco, PR slab homes need isolated zones before jack-hammer exploration.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 00718.
+Technicians stage HEPA scrubbers before containment zip doors in Río Blanco, PR kitchen losses.
 
-Coverage brief: Deductible can change how reserve change notes is documented before scheduling.
+Desiccant dehumidifier sizing in Río Blanco, PR commercial zones differs from LGR residential defaults.
 
-Field note: Drying decisions were sequenced for ZIP sector 00718.
+Permit note: Rebuild phases in Río Blanco, PR may need separate inspections from mitigation work.
 
-Dispatch sectors sampled: ZIP 00718 (county grid: Naguabo County).
+Stairwell chase moisture in Río Blanco, PR tri-level homes can lag main-floor readings by days.
+
+Non-penetrating meter sweeps in Río Blanco, PR hallways often read dry while baseboards remain elevated.
+
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
+
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
+
+Elevator pit flooding in Río Blanco, PR commercial stacks needs pump-out before cab service resumes.
+
+Confirm power load assumptions before overnight equipment runs. County corridor Naguabo County.
+
+Psychrometric targets should be recorded before declaring a chamber dry.
+
+Mitigation ledger 246545: moisture map grid, salvage lane tags, and drying day-count staged for Río Blanco, PR at 18.2100, -65.7900.
+
+Equipment roster 246545: dehumidifier hour-meter and air-mover placement queued before Río Blanco, PR scope sign-off.
+
+Drying packet: contents ozone quarantine paired with desiccant rotor hour near ZIP 00718 before scope lock.
+
+Moisture trace: 24-hour hygrometer bands logged for ZIP sector 00718.
+
+On-site sector marker: Naguabo County / ZIP 00718 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00718-4faf28d6

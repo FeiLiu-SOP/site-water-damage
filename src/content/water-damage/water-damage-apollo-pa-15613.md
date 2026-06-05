@@ -12,30 +12,47 @@ lng: -79.5600
 zipSample: ["15613"]
 zipCodes: ["15613"]
 localPaths: ["Armstrong County / ZIP 15613 sector", "Armstrong County / primary ZIP 15613", "Armstrong County / elevation 853 ft band", "Armstrong County / coords 40.5800, -79.5600"]
-zillowHomeValueUsd: 188692
 ---
 
 **Engineering Notice for Apollo:** structural drying capacity optimized for 853ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Armstrong County. Relative Humidity Threshold: 67%. Sensor sync: Active.
 
 
-Across Apollo, PA, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the structural drying file.
+Elevated crawlspaces in Apollo, PA require vapor-retarder remediation before dehumidifier sizing.
 
-Structural Drying coordination in Apollo, PA is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Apollo, PA are commonly checked when spread is suspected.
+Technicians stage HEPA scrubbers before containment zip doors in Apollo, PA kitchen losses.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 15613.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 15613.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Insurance note: loss diary entry and Farmers routing language were flagged for the Apollo file.
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
 
-Field note: Equipment day-counts were reviewed around ZIP 15613.
+Built-in bookcase cavities in Apollo, PA trap humidity behind fixed shelving.
 
-Field note: Moisture logs were aligned with salvage routing in Apollo, PA.
+Ask for claim-facing photo standards before work begins. File routing near 15613.
 
-Dispatch sectors sampled: ZIP 15613 (county grid: Armstrong County).
+Elevator pit flooding in Apollo, PA commercial stacks needs pump-out before cab service resumes.
+
+Step: reconcile carrier photo requirements before tear-out in Apollo, PA.
+
+Tip: List detached baseboards and removed insulation by room for claim traceability.
+
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
+
+We coordinate Apollo, PA mitigation with written scope, equipment assumptions, and claim-facing notes.
+
+Mitigation ledger 134360: moisture map grid, salvage lane tags, and drying day-count staged for Apollo, PA at 40.5800, -79.5600.
+
+Recovery map 134360: structural drying targets and rebuild handoff flags logged for Apollo, PA postal sector 15613.
+
+Drying packet: pinless scan grid paired with antimicrobial dwell clock near ZIP 15613 before scope lock.
+
+Thermal pass: infrared scan queued after second dry cycle in Apollo, PA.
+
+On-site sector marker: Armstrong County / elevation 853 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-15613-2a838dce

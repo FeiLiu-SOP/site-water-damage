@@ -12,30 +12,47 @@ lng: -75.8500
 zipSample: ["19320"]
 zipCodes: ["19320"]
 localPaths: ["Chester County / ZIP 19320 sector", "Chester County / coords 39.9900, -75.8500", "Chester County / primary ZIP 19320", "Chester County / elevation 600 ft band"]
-zillowHomeValueUsd: 382348
 ---
 
 **Engineering Notice for Hayti:** structural drying capacity optimized for 600ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chester County. Relative Humidity Threshold: 84%. Sensor sync: Active.
 
 
-A water loss recovery event in Hayti, PA is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Hayti, PA.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+FAQ: Which documents matter most? Incomplete photo logs and missing moisture maps commonly delay Hayti, PA files.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Hayti, PA.
+Townhome party walls in Hayti, PA can transfer vapor across unit lines during shared losses.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 19320.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 19320.
+Step: document demolition justification with moisture meter readings.
 
-File control: scope authorization code was paired with loss diary entry during intake review in Hayti.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Field note: Equipment day-counts were reviewed around ZIP 19320.
+IICRC reference: structural dry standards in Hayti, PA should be cited in scope documents.
 
-Field note: Drying decisions were sequenced for ZIP sector 19320.
+Technicians stage HEPA scrubbers before containment zip doors in Hayti, PA kitchen losses.
 
-Dispatch sectors sampled: ZIP 19320 (county grid: Chester County).
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
+
+Tip: Log refrigerator line shutoffs before moving units in Hayti, PA kitchen losses.
+
+FAQ: Why isolate rooms? Containment concentrates dehumidification and protects unaffected areas.
+
+FAQ: When is hardwood salvage realistic in Hayti, PA? Density, duration, and contamination class decide—not optimism.
+
+Step: isolate affected rooms with poly barriers before air-mover placement in Hayti, PA.
+
+Risk flag: In Hayti, PA, delayed pack-out can swell cabinetry beyond salvage.
+
+Containment dossier 976465: poly barrier seams and HEPA scrubber hours keyed to Hayti, PA grid Chester County.
+
+Carrier sync 976465: depreciation worksheet lane and supplement language staged for ZIP 19320.
+
+Loss file: subfloor MC probe plus HEPA scrubber CFM log referenced in Chester County county review.
+
+On-site sector marker: Chester County / primary ZIP 19320 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-19320-e4f7e07f

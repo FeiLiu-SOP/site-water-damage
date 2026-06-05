@@ -12,28 +12,45 @@ lng: -85.5400
 zipSample: ["47356"]
 zipCodes: ["47356"]
 localPaths: ["Henry County / primary ZIP 47356", "Henry County / elevation 978 ft band", "Henry County / ZIP 47356 sector", "Henry County / coords 40.0600, -85.5400"]
-zillowHomeValueUsd: 240005
 ---
 
 **Engineering Notice for Middletown:** structural drying capacity optimized for 978ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Henry County. Relative Humidity Threshold: 72%. Sensor sync: Active.
 
 
-When disaster cleanup cases are reviewed in Middletown, IN, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Middletown, IN.
+Regulatory note: Middletown, IN projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-FAQ: Is every wet material removed immediately? Not always. In Middletown, IN, some assemblies are monitored through readings before invasive removal is approved.
+FAQ: Who inventories contents? Carrier language and photo standards vary in Middletown, IN markets.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 47356.
+Schedule extraction and drying as separate documented phases. File routing near 47356.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 47356.
+Stairwell chase moisture in Middletown, IN tri-level homes can lag main-floor readings by days.
 
-File control: Deductible was paired with Claim filing codes during intake review in Middletown.
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
 
-Field note: Intake notes were reconciled with county grid Henry County.
+Tip: Log refrigerator line shutoffs before moving units in Middletown, IN kitchen losses.
 
-Dispatch sectors sampled: ZIP 47356 (county grid: Henry County).
+We coordinate Middletown, IN mitigation with written scope, equipment assumptions, and claim-facing notes.
+
+Open a mitigation intake with drying targets and rebuild dependencies listed. County corridor Henry County.
+
+Desiccant dehumidifier sizing in Middletown, IN commercial zones differs from LGR residential defaults.
+
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+Plaster lathe ceilings in Middletown, IN pre-war homes hold moisture behind skim coats longer than drywall.
+
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+Mitigation ledger 127585: moisture map grid, salvage lane tags, and drying day-count staged for Middletown, IN at 40.0600, -85.5400.
+
+Equipment roster 127585: dehumidifier hour-meter and air-mover placement queued before Middletown, IN scope sign-off.
+
+Mitigation trace: hardwood moisture strip, grain depression target, and air mover amp draw cross-indexed for Middletown intake.
+
+On-site sector marker: Henry County / coords 40.0600, -85.5400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-47356-29b0b101

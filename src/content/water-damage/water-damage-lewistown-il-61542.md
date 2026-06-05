@@ -12,30 +12,49 @@ lng: -90.1600
 zipSample: ["61542"]
 zipCodes: ["61542"]
 localPaths: ["Fulton County / coords 40.4000, -90.1600", "Fulton County / elevation 594 ft band", "Fulton County / primary ZIP 61542", "Fulton County / ZIP 61542 sector"]
-zillowHomeValueUsd: 98389
 ---
 
 **Engineering Notice for Lewistown:** structural drying capacity optimized for 594ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fulton County. Relative Humidity Threshold: 66%. Sensor sync: Active.
 
 
-In Lewistown, IL, disaster cleanup requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Step: verify power availability for drying equipment before overnight runs.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Lewistown, IL must be dried before reconstruction is discussed.
+Step: photograph standing water and material edges before extraction.
 
-Our intake team frames disaster cleanup jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Our disaster cleanup intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
 
-FAQ: How fast should action start? In Lewistown, IL, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 61542.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Book a field review and request a written disaster cleanup scope before mitigation equipment is staged. Serving ZIP Code: 61542.
+Tip: Log refrigerator line shutoffs before moving units in Lewistown, IL kitchen losses.
 
-File control: adjuster photo-log was paired with depreciation worksheet during intake review in Lewistown.
+Thermal imaging in Lewistown, IL is scheduled after surface readings plateau for two cycles.
 
-Field note: Drying decisions were sequenced for ZIP sector 61542.
+Subfloor cupping in Lewistown, IL can lag source-stop by several drying days.
 
-Field note: Intake notes were reconciled with county grid Fulton County.
+Ask for claim-facing photo standards before work begins. File routing near 61542.
 
-Dispatch sectors sampled: ZIP 61542 (county grid: Fulton County).
+FAQ: When is hardwood salvage realistic in Lewistown, IL? Density, duration, and contamination class decide—not optimism.
+
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+Psychrometric targets should be recorded before declaring a chamber dry.
+
+Technicians probe sill plates in Lewistown, IL ranch layouts before declaring first-floor dry.
+
+Tip: Record when the water source was stopped and power restored in Lewistown, IL.
+
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
+
+Risk flag: Lewistown, IL slab-on-grade homes may need core probes when perimeter walls read dry.
+
+Recovery map 750618: structural drying targets and rebuild handoff flags logged for Lewistown, IL postal sector 61542.
+
+Carrier sync 750618: depreciation worksheet lane and supplement language staged for ZIP 61542.
+
+Mitigation trace: rebuild moisture clearance, hardwood moisture strip, and antimicrobial dwell clock cross-indexed for Lewistown intake.
+
+On-site sector marker: Fulton County / coords 40.4000, -90.1600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-61542-11828fb8

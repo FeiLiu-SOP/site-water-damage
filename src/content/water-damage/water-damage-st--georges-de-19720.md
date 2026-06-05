@@ -12,28 +12,49 @@ lng: -75.6500
 zipSample: ["19709", "19720", "19733", "19701"]
 zipCodes: ["19709", "19701", "19733", "19720"]
 localPaths: ["New Castle County / elevation 39 ft band", "New Castle County / primary ZIP 19720", "New Castle County / ZIP 19701 sector", "New Castle County / coords 39.5600, -75.6500", "New Castle County / ZIP 19720 sector"]
-zillowHomeValueUsd: 280716
 ---
 
 **Engineering Notice for St. Georges:** structural drying capacity optimized for 39ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: New Castle County. Relative Humidity Threshold: 66%. Sensor sync: Active.
 
 
-Property owners in St. Georges, DE may see a water mitigation event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Open a mitigation intake with drying targets and rebuild dependencies listed. County corridor New Castle County.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for St. Georges, DE.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-FAQ: What slows recovery most? In St. Georges, DE, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-Tip: Save expert notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 19733/19701/19709.
+Desiccant dehumidifier sizing in St. Georges, DE commercial zones differs from LGR residential defaults.
 
-Ask for a room-by-room water mitigation outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 19720.
+IICRC reference: structural dry standards in St. Georges, DE should be cited in scope documents.
 
-Insurance note: temporary remediation receipt and Liberty Mutual mitigation notes were flagged for the St. Georges file.
+FAQ: When is delay costly? In St. Georges, DE, extended damp periods expand demolition and mold-risk scope.
 
-Field note: Moisture logs were aligned with salvage routing in St. Georges, DE.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Dispatch sectors sampled: ZIP 19733, 19701, 19709, 19720 (county grid: New Castle County).
+Tip: List detached baseboards and removed insulation by room for claim traceability.
+
+Step: verify power availability for drying equipment before overnight runs.
+
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
+
+Radiant floor loops in St. Georges, DE slab homes need isolated zones before jack-hammer exploration.
+
+Tip: Log refrigerator line shutoffs before moving units in St. Georges, DE kitchen losses.
+
+Built-in bookcase cavities in St. Georges, DE trap humidity behind fixed shelving.
+
+Basement seepage in St. Georges, DE may track foundation cracks rather than appliance failures.
+
+Claim dossier 247584: pack-out ledger and humidity log bands filed for St. Georges, DE county New Castle County (ZIP 19720).
+
+Loss trace 247584: extraction velocity notes and demolition threshold markers keyed to St. Georges, DE elevation 39 ft.
+
+Loss file: LGR condensate yield plus category-three PPE log referenced in New Castle County county review.
+
+Thermal pass: infrared scan queued after second dry cycle in St. Georges, DE.
+
+Coordinate-anchored dispatch note: center reference 39.5600, -75.6500 at elevation ~39 ft aligns with New Castle County intake staging.
 
 Service reference: DE-19720-22da8eec

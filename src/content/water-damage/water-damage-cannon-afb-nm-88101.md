@@ -12,30 +12,49 @@ lng: -103.3200
 zipSample: ["88103", "88101"]
 zipCodes: ["88103", "88101"]
 localPaths: ["Curry County / ZIP 88101 sector", "Curry County / ZIP 88103 sector", "Curry County / coords 34.3900, -103.3200", "Curry County / elevation 4298 ft band", "Curry County / primary ZIP 88101"]
-zillowHomeValueUsd: 161625
 ---
 
 **Engineering Notice for Cannon AFB:** structural drying capacity optimized for 4298ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Curry County. Relative Humidity Threshold: 77%. Sensor sync: Active.
 
 
-Across Cannon AFB, NM, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the flood recovery file.
+FAQ: What slows insurance review? Incomplete photo logs and missing moisture maps commonly delay Cannon AFB, NM files.
 
-Flood Recovery coordination in Cannon AFB, NM is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Cannon AFB, NM are commonly checked when spread is suspected.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 88103/88101.
+Tip: Photograph ceiling stains with a ruler reference before tarping near ZIP 88101.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 88101.
+Step: separate emergency extraction from structural drying line items.
 
-File control: mitigation invoice sequencing was paired with Liberty Mutual mitigation notes during intake review in Cannon AFB.
+Our flood recovery intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
 
-Field note: Intake notes were reconciled with county grid Curry County.
+FAQ: When is hardwood salvage realistic in Cannon AFB, NM? Density, duration, and contamination class decide—not optimism.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Cannon AFB, NM.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Dispatch sectors sampled: ZIP 88103, 88101 (county grid: Curry County).
+Crawlspace vapor barriers in Cannon AFB, NM may trap moisture if torn during extraction hose routing.
+
+Step: log humidity and temperature readings at 24-hour intervals.
+
+Confirm power load assumptions before overnight equipment runs. County corridor Curry County.
+
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
+
+Sump overflow in Cannon AFB, NM can masquerade as foundation infiltration.
+
+Permit note: Rebuild phases in Cannon AFB, NM may need separate inspections from mitigation work.
+
+Dispatch packets for Cannon AFB, NM reference county grid Curry County and elevation band 4298 ft.
+
+Rebuild bridge 353122: cabinet toe-kick probes and subfloor MC readings logged at 34.3900, -103.3200.
+
+Equipment roster 353122: dehumidifier hour-meter and air-mover placement queued before Cannon AFB, NM scope sign-off.
+
+Mitigation trace: flood cut elevation mark, grain depression target, and LGR condensate yield cross-indexed for Cannon AFB intake.
+
+On-site sector marker: Curry County / ZIP 88103 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-88101-a6f4f5af

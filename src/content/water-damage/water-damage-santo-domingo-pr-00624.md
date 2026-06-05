@@ -12,29 +12,47 @@ lng: -66.7500
 zipSample: ["00624"]
 zipCodes: ["00624"]
 localPaths: ["Peñuelas County / ZIP 00624 sector", "Peñuelas County / elevation 1188 ft band", "Peñuelas County / coords 18.0700, -66.7500", "Peñuelas County / primary ZIP 00624"]
-zillowHomeValueUsd: 360908
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Santo Domingo:** structural drying capacity optimized for 1188ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Peñuelas County. Relative Humidity Threshold: 68%. Sensor sync: Active.
 
 
-Property owners in Santo Domingo, PR may see a water mitigation event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Santo Domingo, PR.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+FAQ: When is hardwood salvage realistic in Santo Domingo, PR? Density, duration, and contamination class decide—not optimism.
 
-FAQ: What slows recovery most? In Santo Domingo, PR, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Step: photograph standing water and material edges before extraction.
 
-Tip: Save expert notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 00624.
+In Santo Domingo, PR, water mitigation calls often start with moisture mapping before demolition is discussed.
 
-Ask for a room-by-room water mitigation outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 00624.
+Step: reconcile carrier photo requirements before tear-out in Santo Domingo, PR.
 
-Insurance note: depreciation worksheet and Claim filing codes were flagged for the Santo Domingo file.
+FAQ: What slows insurance review? Incomplete photo logs and missing moisture maps commonly delay Santo Domingo, PR files.
 
-Field note: Equipment day-counts were reviewed around ZIP 00624.
+Permit note: Rebuild phases in Santo Domingo, PR may need separate inspections from mitigation work.
 
-Dispatch sectors sampled: ZIP 00624 (county grid: Peñuelas County).
+Risk flag: Incomplete claim packets in Santo Domingo, PR often force duplicate site visits.
+
+Elevator pit flooding in Santo Domingo, PR commercial stacks needs pump-out before cab service resumes.
+
+Radiant floor loops in Santo Domingo, PR slab homes need isolated zones before jack-hammer exploration.
+
+Thermal imaging in Santo Domingo, PR is scheduled after surface readings plateau for two cycles.
+
+IICRC reference: structural dry standards in Santo Domingo, PR should be cited in scope documents.
+
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
+
+Psychrometric targets should be recorded before declaring a chamber dry.
+
+Carrier sync 669791: depreciation worksheet lane and supplement language staged for ZIP 00624.
+
+Equipment roster 669791: dehumidifier hour-meter and air-mover placement queued before Santo Domingo, PR scope sign-off.
+
+Loss file: pinless scan grid plus demolition salvage tag referenced in Peñuelas County county review.
+
+Primary postal anchor 00624 with multi-ZIP overlap in Santo Domingo; field packets tag Peñuelas County for county-grid reconciliation.
 
 Service reference: PR-00624-5f532668

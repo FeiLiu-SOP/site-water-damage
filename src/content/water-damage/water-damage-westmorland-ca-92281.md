@@ -12,31 +12,47 @@ lng: -115.6200
 zipSample: ["92281"]
 zipCodes: ["92281"]
 localPaths: ["Imperial County / elevation -159 ft band", "Imperial County / coords 33.0400, -115.6200", "Imperial County / ZIP 92281 sector", "Imperial County / primary ZIP 92281"]
-zillowHomeValueUsd: 889822
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Westmorland:** structural drying capacity optimized for -159ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Imperial County. Relative Humidity Threshold: 76%. Sensor sync: Active.
 
 
-A storm cleanup event in Westmorland, CA is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Westmorland, CA.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Westmorland, CA.
+Ask for claim-facing photo standards before work begins. File routing near 92281.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 92281.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 92281.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-Coverage brief: adjuster photo-log can change how temporary service receipt is documented before scheduling.
+Radiant floor loops in Westmorland, CA slab homes need isolated zones before jack-hammer exploration.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Westmorland, CA.
+Cabinet toe-kick voids in Westmorland, CA are common hidden moisture reservoirs.
 
-Field note: Equipment day-counts were reviewed around ZIP 92281.
+Step: stage dehumidifier capacity against cubic footage and class of water.
 
-Dispatch sectors sampled: ZIP 92281 (county grid: Imperial County).
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Elevated crawlspaces in Westmorland, CA require vapor-retarder service before dehumidifier sizing.
+
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
+
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
+
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
+
+Stairwell chase moisture in Westmorland, CA tri-level homes can lag main-floor readings by days.
+
+Equipment roster 559327: dehumidifier hour-meter and air-mover placement queued before Westmorland, CA scope sign-off.
+
+Loss trace 559327: extraction velocity notes and demolition threshold markers keyed to Westmorland, CA elevation -159 ft.
+
+Loss file: pack-out chain-of-custody plus structural dry standard referenced in Imperial County county review.
+
+On-site sector marker: Imperial County / elevation -159 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92281-bae5a28a

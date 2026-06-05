@@ -12,31 +12,49 @@ lng: -96.0600
 zipSample: ["74050", "74107", "74131", "74157"]
 zipCodes: ["74050", "74107", "74157", "74131"]
 localPaths: ["Tulsa County / coords 36.0800, -96.0600", "Tulsa County / elevation 745 ft band", "Tulsa County / primary ZIP 74050", "Tulsa County / ZIP 74050 sector", "Tulsa County / ZIP 74107 sector"]
-zillowHomeValueUsd: 194498
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Oakhurst:** structural drying capacity optimized for 745ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tulsa County. Relative Humidity Threshold: 74%. Sensor sync: Active.
 
 
-A disaster cleanup event in Oakhurst, OK is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Permit note: Rebuild phases in Oakhurst, OK may need separate inspections from mitigation work.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Oakhurst, OK.
+Desiccant dehumidifier sizing in Oakhurst, OK commercial zones differs from LGR residential defaults.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Oakhurst, OK.
+Step: verify power availability for drying equipment before overnight runs.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 74131/74050/74157.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 74050.
+Dispatch packets for Oakhurst, OK reference county grid Tulsa County and elevation band 745 ft.
 
-Insurance note: USAA property-loss packet and Claim filing codes were flagged for the Oakhurst file.
+Request room-by-room demolition thresholds tied to meter readings. Grid anchor 74050.
 
-Field note: Intake notes were reconciled with county grid Tulsa County.
+Garage-to-house air barriers in Oakhurst, OK ranch plans affect drying chamber boundaries.
 
-Field note: Equipment day-counts were reviewed around ZIP 74131/74050/74157.
+FAQ: How fast should mitigation start? In Oakhurst, OK, extended damp periods expand demolition and mold-risk scope.
 
-Dispatch sectors sampled: ZIP 74131, 74050, 74157, 74107 (county grid: Tulsa County).
+Step: map contents salvage lanes before pack-out crews arrive.
+
+FAQ: What slows insurance review? Incomplete photo logs and missing moisture maps commonly delay Oakhurst, OK files.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Category-two losses in Oakhurst, OK require antimicrobial staging decisions before rebuild quotes.
+
+Non-penetrating meter sweeps in Oakhurst, OK hallways often read dry while baseboards remain elevated.
+
+Technicians stage HEPA scrubbers before containment zip doors in Oakhurst, OK kitchen losses.
+
+Subfloor cupping in Oakhurst, OK can lag source-stop by several drying days.
+
+Recovery map 184026: structural drying targets and rebuild handoff flags logged for Oakhurst, OK postal sector 74050.
+
+Mitigation ledger 184026: moisture map grid, salvage lane tags, and drying day-count staged for Oakhurst, OK at 36.0800, -96.0600.
+
+Loss file: desiccant rotor hour plus pack-out chain-of-custody referenced in Tulsa County county review.
+
+Primary postal anchor 74050 with multi-ZIP overlap in Oakhurst; field packets tag Tulsa County for county-grid reconciliation.
 
 Service reference: OK-74050-3db797e3

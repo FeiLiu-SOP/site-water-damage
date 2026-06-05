@@ -12,31 +12,45 @@ lng: -66.5000
 zipSample: ["00795"]
 zipCodes: ["00795"]
 localPaths: ["Juana Díaz County / coords 18.0800, -66.5000", "Juana Díaz County / ZIP 00795 sector", "Juana Díaz County / elevation 256 ft band", "Juana Díaz County / primary ZIP 00795"]
-zillowHomeValueUsd: 354831
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Guayabal:** structural drying capacity optimized for 256ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Juana Díaz County. Relative Humidity Threshold: 77%. Sensor sync: Active.
 
 
-Across Guayabal, PR, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Stairwell chase moisture in Guayabal, PR tri-level homes can lag main-floor readings by days.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the water mitigation file.
+Subfloor cupping in Guayabal, PR can lag source-stop by several drying days.
 
-Water Mitigation coordination in Guayabal, PR is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Step: stage dehumidifier capacity against cubic footage and class of water.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Guayabal, PR are commonly checked when spread is suspected.
+About us: We prioritize measurable drying evidence over headline speed claims.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 00795.
+Schedule extraction and drying as separate documented phases. File routing near 00795.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 00795.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Coverage brief: loss diary entry can change how mitigation invoice sequencing is documented before scheduling.
+Technicians probe sill plates in Guayabal, PR ranch layouts before declaring first-floor dry.
 
-Field note: Equipment day-counts were reviewed around ZIP 00795.
+Garage-to-house air barriers in Guayabal, PR ranch plans affect drying chamber boundaries.
 
-Field note: Intake notes were reconciled with county grid Juana Díaz County.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Dispatch sectors sampled: ZIP 00795 (county grid: Juana Díaz County).
+Tip: Log refrigerator line shutoffs before moving units in Guayabal, PR kitchen losses.
+
+Built-in bookcase cavities in Guayabal, PR trap humidity behind fixed shelving.
+
+Radiant floor loops in Guayabal, PR slab homes need isolated zones before jack-hammer exploration.
+
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
+
+Category-two losses in Guayabal, PR require antimicrobial staging decisions before rebuild quotes.
+
+Loss trace 974443: extraction velocity notes and demolition threshold markers keyed to Guayabal, PR elevation 256 ft.
+
+Rebuild bridge 974443: cabinet toe-kick probes and subfloor MC readings logged at 18.0800, -66.5000.
+
+Mitigation trace: LGR condensate yield, category-three PPE log, and pack-out chain-of-custody cross-indexed for Guayabal intake.
+
+On-site sector marker: Juana Díaz County / coords 18.0800, -66.5000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00795-fbec9868

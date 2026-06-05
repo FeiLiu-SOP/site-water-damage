@@ -12,28 +12,51 @@ lng: -97.5100
 zipSample: ["78164"]
 zipCodes: ["78164"]
 localPaths: ["DeWitt County / coords 28.9800, -97.5100", "DeWitt County / primary ZIP 78164", "DeWitt County / ZIP 78164 sector", "DeWitt County / elevation 279 ft band"]
-zillowHomeValueUsd: 222251
 ---
 
 **Engineering Notice for Yorktown:** structural drying capacity optimized for 279ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: DeWitt County. Relative Humidity Threshold: 82%. Sensor sync: Active.
 
 
-Property owners in Yorktown, TX may see a water mitigation event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Yorktown, TX.
+FAQ: When is hardwood salvage realistic in Yorktown, TX? Density, duration, and contamination class decide—not optimism.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Technicians probe sill plates in Yorktown, TX ranch layouts before declaring first-floor dry.
 
-FAQ: What slows recovery most? In Yorktown, TX, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+IICRC reference: structural dry standards in Yorktown, TX should be cited in scope documents.
 
-Tip: Save expert notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 78164.
+Tip: Record when the water source was stopped and power restored in Yorktown, TX.
 
-Ask for a room-by-room water mitigation outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 78164.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Insurance note: water category notation and mitigation invoice sequencing were flagged for the Yorktown file.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Yorktown, TX.
+Desiccant dehumidifier sizing in Yorktown, TX commercial zones differs from LGR residential defaults.
 
-Dispatch sectors sampled: ZIP 78164 (county grid: DeWitt County).
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Across Yorktown, TX, standing water duration drives salvage-versus-remove decisions within hours.
+
+Tip: Date-stamp moisture maps when adjusters request progress updates near 78164.
+
+FAQ: Which documents matter most? Incomplete photo logs and missing moisture maps commonly delay Yorktown, TX files.
+
+Elevator pit flooding in Yorktown, TX commercial stacks needs pump-out before cab service resumes.
+
+Multi-story Yorktown, TX losses need vertical moisture migration checks on lower levels.
+
+Open a mitigation intake with drying targets and rebuild dependencies listed. County corridor DeWitt County.
+
+Schedule extraction and drying as separate documented phases. File routing near 78164.
+
+Category note 495631: water-class notation and antimicrobial staging captured for Yorktown, TX intake packet.
+
+Loss trace 495631: extraction velocity notes and demolition threshold markers keyed to Yorktown, TX elevation 279 ft.
+
+Mitigation trace: flood cut elevation mark, non-penetrating meter mode, and pinless scan grid cross-indexed for Yorktown intake.
+
+Airflow map: mover placement sketch updated for ZIP 78164.
+
+On-site sector marker: DeWitt County / primary ZIP 78164 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78164-8415fa29

@@ -12,28 +12,47 @@ lng: -90.8700
 zipSample: ["70778", "70737"]
 zipCodes: ["70778", "70737"]
 localPaths: ["Ascension Parish / ZIP 70737 sector", "Ascension Parish / elevation 30 ft band", "Ascension Parish / coords 30.1800, -90.8700", "Ascension Parish / ZIP 70778 sector", "Ascension Parish / primary ZIP 70778"]
-zillowHomeValueUsd: 277429
 ---
 
 **Engineering Notice for Sorrento:** structural drying capacity optimized for 30ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ascension Parish. Relative Humidity Threshold: 81%. Sensor sync: Active.
 
 
-In Sorrento, LA, property drying requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Tip: Record when the water source was stopped and power restored in Sorrento, LA.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Sorrento, LA must be dried before reconstruction is discussed.
+Book salvage review before pack-out crews mobilize. Grid anchor 70778.
 
-Our intake team frames property drying jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
 
-FAQ: How fast should action start? In Sorrento, LA, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Step: reconcile carrier photo requirements before tear-out in Sorrento, LA.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 70737/70778.
+Townhome party walls in Sorrento, LA can transfer vapor across unit lines during shared losses.
 
-Book a field review and request a written property drying scope before mitigation equipment is staged. Serving ZIP Code: 70778.
+Garage slab moisture in Sorrento, LA can wick into adjacent finished rooms.
 
-File control: contents-vs-structure split was paired with Liberty Mutual mitigation notes during intake review in Sorrento.
+Across Sorrento, LA, standing water duration drives salvage-versus-remove decisions within hours.
 
-Field note: Intake notes were reconciled with county grid Ascension Parish.
+Book a moisture-map review before demolition approvals. Primary postal sector: 70778.
 
-Dispatch sectors sampled: ZIP 70737, 70778 (county grid: Ascension Parish).
+Subfloor cupping in Sorrento, LA can lag source-stop by several drying days.
+
+Material note: Insulation R-value targets in Sorrento, LA should match pre-loss assemblies when documented.
+
+Ceiling collapse risk in Sorrento, LA multi-family units rises when saturated insulation loads truss chords.
+
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
+
+FAQ: When is delay costly? In Sorrento, LA, extended damp periods expand demolition and mold-risk scope.
+
+Stairwell chase moisture in Sorrento, LA tri-level homes can lag main-floor readings by days.
+
+Equipment roster 763302: dehumidifier hour-meter and air-mover placement queued before Sorrento, LA scope sign-off.
+
+Loss trace 763302: extraction velocity notes and demolition threshold markers keyed to Sorrento, LA elevation 30 ft.
+
+Mitigation trace: pinless scan grid, flood cut elevation mark, and rebuild moisture clearance cross-indexed for Sorrento intake.
+
+Airflow map: mover placement sketch updated for ZIP 70778/70737.
+
+Coordinate-anchored dispatch note: center reference 30.1800, -90.8700 at elevation ~30 ft aligns with Ascension Parish intake staging.
 
 Service reference: LA-70778-7160b749

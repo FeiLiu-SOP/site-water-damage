@@ -12,28 +12,45 @@ lng: -85.5300
 zipSample: ["49032"]
 zipCodes: ["49032"]
 localPaths: ["St. Joseph County / ZIP 49032 sector", "St. Joseph County / coords 41.9200, -85.5300", "St. Joseph County / elevation 837 ft band", "St. Joseph County / primary ZIP 49032"]
-zillowHomeValueUsd: 236540
 ---
 
 **Engineering Notice for Centreville:** structural drying capacity optimized for 837ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Joseph County. Relative Humidity Threshold: 84%. Sensor sync: Active.
 
 
-Property owners in Centreville, MI may see a disaster cleanup event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Risk flag: In Centreville, MI, delayed pack-out can swell cabinetry beyond salvage.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Centreville, MI.
+Risk flag: Incomplete claim packets in Centreville, MI often force duplicate site visits.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Confirm power load assumptions before overnight equipment runs. County corridor St. Joseph County.
 
-FAQ: What slows recovery most? In Centreville, MI, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Tip: Log refrigerator line shutoffs before moving units in Centreville, MI kitchen losses.
 
-Tip: Save local team notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 49032.
+Material note: Insulation R-value targets in Centreville, MI should match pre-loss assemblies when documented.
 
-Ask for a room-by-room disaster cleanup outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 49032.
+Crawlspace vapor barriers in Centreville, MI may trap moisture if torn during extraction hose routing.
 
-File control: Allstate loss review was paired with pack-out ledger during intake review in Centreville.
+Step: map contents salvage lanes before pack-out crews arrive.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Centreville, MI.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 49032.
 
-Dispatch sectors sampled: ZIP 49032 (county grid: St. Joseph County).
+Plaster lathe ceilings in Centreville, MI pre-war homes hold moisture behind skim coats longer than drywall.
+
+Step: verify power availability for drying equipment before overnight runs.
+
+Garage-to-house air barriers in Centreville, MI ranch plans affect drying chamber boundaries.
+
+Humidity pockets in Centreville, MI wall cavities can persist after visible drying on surfaces.
+
+Schedule extraction and drying as separate documented phases. File routing near 49032.
+
+Desiccant dehumidifier sizing in Centreville, MI commercial zones differs from LGR residential defaults.
+
+Mitigation ledger 713871: moisture map grid, salvage lane tags, and drying day-count staged for Centreville, MI at 41.9200, -85.5300.
+
+Carrier sync 713871: depreciation worksheet lane and supplement language staged for ZIP 49032.
+
+Drying packet: contents ozone quarantine paired with psychrometric chart band near ZIP 49032 before scope lock.
+
+ZIP-corridor snapshot for Centreville, MI: sampled sectors include 49032; county routing grid remains St. Joseph County.
 
 Service reference: MI-49032-df9d4637

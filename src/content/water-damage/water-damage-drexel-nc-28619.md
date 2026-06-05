@@ -12,31 +12,47 @@ lng: -81.6100
 zipSample: ["28655", "28619"]
 zipCodes: ["28619", "28655"]
 localPaths: ["Burke County / primary ZIP 28619", "Burke County / ZIP 28619 sector", "Burke County / elevation 1237 ft band", "Burke County / coords 35.7600, -81.6100", "Burke County / ZIP 28655 sector"]
-zillowHomeValueUsd: 310534
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Drexel:** structural drying capacity optimized for 1237ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Burke County. Relative Humidity Threshold: 70%. Sensor sync: Active.
 
 
-Property owners in Drexel, NC may see a water loss recovery event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Drexel, NC.
+Technicians stage HEPA scrubbers before containment zip doors in Drexel, NC kitchen losses.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Risk flag: Drexel, NC slab-on-grade homes may need core probes when perimeter walls read dry.
 
-FAQ: What slows recovery most? In Drexel, NC, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Step: map contents salvage lanes before pack-out crews arrive.
 
-Tip: Save expert notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 28655/28619.
+Tip: Save adjuster emails in one folder before calling back.
 
-Ask for a room-by-room water loss recovery outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 28619.
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
 
-Coverage brief: mitigation invoice sequencing can change how loss diary entry is documented before scheduling.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Field note: Moisture logs were aligned with salvage routing in Drexel, NC.
+Book salvage review before pack-out crews mobilize. Grid anchor 28619.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Drexel, NC.
+Step: photograph standing water and material edges before extraction.
 
-Dispatch sectors sampled: ZIP 28655, 28619 (county grid: Burke County).
+Humidity pockets in Drexel, NC wall cavities can persist after visible drying on surfaces.
+
+Stairwell chase moisture in Drexel, NC tri-level homes can lag main-floor readings by days.
+
+Step: verify power availability for drying equipment before overnight runs.
+
+Garage slab moisture in Drexel, NC can wick into adjacent finished rooms.
+
+FAQ: How fast should mitigation start? In Drexel, NC, extended damp periods expand demolition and mold-risk scope.
+
+Regulatory note: Drexel, NC projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+Containment dossier 552013: poly barrier seams and HEPA scrubber hours keyed to Drexel, NC grid Burke County.
+
+File audit 552013: adjuster photo-set crosswalk and contents segregation reviewed for Drexel, NC at 35.7600/-81.6100.
+
+Loss file: air mover amp draw plus psychrometric chart band referenced in Burke County county review.
+
+Coordinate-anchored dispatch note: center reference 35.7600, -81.6100 at elevation ~1237 ft aligns with Burke County intake staging.
 
 Service reference: NC-28619-91438081

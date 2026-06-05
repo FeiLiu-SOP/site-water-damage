@@ -12,29 +12,49 @@ lng: -98.7000
 zipSample: ["78011"]
 zipCodes: ["78011"]
 localPaths: ["Atascosa County / primary ZIP 78011", "Atascosa County / ZIP 78011 sector", "Atascosa County / elevation 554 ft band", "Atascosa County / coords 28.8600, -98.7000"]
-zillowHomeValueUsd: 299903
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Charlotte:** structural drying capacity optimized for 554ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Atascosa County. Relative Humidity Threshold: 83%. Sensor sync: Active.
 
 
-A water mitigation event in Charlotte, TX is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Plaster lathe ceilings in Charlotte, TX pre-war homes hold moisture behind skim coats longer than drywall.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Charlotte, TX.
+Permit note: Rebuild phases in Charlotte, TX may need separate inspections from mitigation work.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+We coordinate Charlotte, TX mitigation with written scope, equipment assumptions, and claim-facing notes.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Charlotte, TX.
+Built-in bookcase cavities in Charlotte, TX trap humidity behind fixed shelving.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 78011.
+Step: stage dehumidifier capacity against cubic footage and class of water.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 78011.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-Insurance note: depreciation worksheet and scope authorization code were flagged for the Charlotte file.
+Risk flag: Incomplete claim packets in Charlotte, TX often force duplicate site visits.
 
-Field note: Equipment day-counts were reviewed around ZIP 78011.
+Tip: Log refrigerator line shutoffs before moving units in Charlotte, TX kitchen losses.
 
-Dispatch sectors sampled: ZIP 78011 (county grid: Atascosa County).
+Step: map contents salvage lanes before pack-out crews arrive.
+
+Cabinet toe-kick voids in Charlotte, TX are common hidden moisture reservoirs.
+
+About us: We prioritize measurable drying evidence over headline speed claims.
+
+Tip: Record when the water source was stopped and power restored in Charlotte, TX.
+
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
+
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
+
+Thermal imaging in Charlotte, TX is scheduled after surface readings plateau for two cycles.
+
+Loss trace 184458: extraction velocity notes and demolition threshold markers keyed to Charlotte, TX elevation 554 ft.
+
+Equipment roster 184458: dehumidifier hour-meter and air-mover placement queued before Charlotte, TX scope sign-off.
+
+Mitigation trace: grain depression target, contents ozone quarantine, and antimicrobial dwell clock cross-indexed for Charlotte intake.
+
+Contents ledger: inventory lanes labeled for sector 78011.
+
+Coordinate-anchored dispatch note: center reference 28.8600, -98.7000 at elevation ~554 ft aligns with Atascosa County intake staging.
 
 Service reference: TX-78011-00197f35

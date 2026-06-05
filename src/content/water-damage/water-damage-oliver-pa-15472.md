@@ -12,31 +12,47 @@ lng: -79.7200
 zipSample: ["15472", "15401"]
 zipCodes: ["15472", "15401"]
 localPaths: ["Fayette County / primary ZIP 15472", "Fayette County / coords 39.9200, -79.7200", "Fayette County / elevation 958 ft band", "Fayette County / ZIP 15401 sector", "Fayette County / ZIP 15472 sector"]
-zillowHomeValueUsd: 264774
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Oliver:** structural drying capacity optimized for 958ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fayette County. Relative Humidity Threshold: 79%. Sensor sync: Active.
 
 
-A water mitigation event in Oliver, PA is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Step: stage dehumidifier capacity against cubic footage and class of water.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Oliver, PA.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Oliver, PA.
+Multi-story Oliver, PA losses need vertical moisture migration checks on lower levels.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 15401/15472.
+Risk flag: In Oliver, PA, delayed pack-out can swell cabinetry beyond salvage.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 15472.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-Claim marker: water category notation was logged beside carrier supplement language near ZIP 15472.
+Elevator pit flooding in Oliver, PA commercial stacks needs pump-out before cab service resumes.
 
-Field note: Intake notes were reconciled with county grid Fayette County.
+Ask for claim-facing photo standards before work begins. File routing near 15472.
 
-Field note: Drying decisions were sequenced for ZIP sector 15401/15472.
+Regulatory note: Oliver, PA projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
 
-Dispatch sectors sampled: ZIP 15401, 15472 (county grid: Fayette County).
+Subfloor cupping in Oliver, PA can lag source-stop by several drying days.
+
+Risk flag: Oliver, PA slab-on-grade homes may need core probes when perimeter walls read dry.
+
+In Oliver, PA, water mitigation calls often start with moisture mapping before demolition is discussed.
+
+Ceiling collapse risk in Oliver, PA multi-family units rises when saturated insulation loads truss chords.
+
+Desiccant dehumidifier sizing in Oliver, PA commercial zones differs from LGR residential defaults.
+
+Step: isolate affected rooms with poly barriers before air-mover placement in Oliver, PA.
+
+Containment dossier 102255: poly barrier seams and HEPA scrubber hours keyed to Oliver, PA grid Fayette County.
+
+Loss trace 102255: extraction velocity notes and demolition threshold markers keyed to Oliver, PA elevation 958 ft.
+
+Loss file: rebuild moisture clearance plus structural dry standard referenced in Fayette County county review.
+
+Primary postal anchor 15472 with multi-ZIP overlap in Oliver; field packets tag Fayette County for county-grid reconciliation.
 
 Service reference: PA-15472-118b540c

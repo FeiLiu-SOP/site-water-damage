@@ -12,30 +12,45 @@ lng: -87.0900
 zipSample: ["47970"]
 zipCodes: ["47970"]
 localPaths: ["Tippecanoe County / elevation 705 ft band", "Tippecanoe County / primary ZIP 47970", "Tippecanoe County / ZIP 47970 sector", "Tippecanoe County / coords 40.4900, -87.0900"]
-zillowHomeValueUsd: 213406
 ---
 
 **Engineering Notice for Otterbein:** structural drying capacity optimized for 705ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tippecanoe County. Relative Humidity Threshold: 81%. Sensor sync: Active.
 
 
-Across Otterbein, IN, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Tip: Save adjuster emails in one folder before calling back.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the storm cleanup file.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Storm Cleanup coordination in Otterbein, IN is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Schedule extraction and drying as separate documented phases. File routing near 47970.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Otterbein, IN are commonly checked when spread is suspected.
+FAQ: Why isolate rooms? Containment concentrates dehumidification and protects unaffected areas.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 47970.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 47970.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Coverage brief: Claim filing codes can change how depreciation worksheet is documented before scheduling.
+Step: label removed materials for disposal manifests and claim packets.
 
-Field note: Moisture logs were aligned with salvage routing in Otterbein, IN.
+Humidity pockets in Otterbein, IN wall cavities can persist after visible drying on surfaces.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Otterbein, IN.
+Tip: Record when the water source was stopped and power restored in Otterbein, IN.
 
-Dispatch sectors sampled: ZIP 47970 (county grid: Tippecanoe County).
+Step: isolate affected rooms with poly barriers before air-mover placement in Otterbein, IN.
+
+FAQ: How fast should mitigation start? In Otterbein, IN, extended damp periods expand demolition and mold-risk scope.
+
+Desiccant dehumidifier sizing in Otterbein, IN commercial zones differs from LGR residential defaults.
+
+Tip: List detached baseboards and removed insulation by room for claim traceability.
+
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
+
+Carrier sync 618492: depreciation worksheet lane and supplement language staged for ZIP 47970.
+
+Mitigation ledger 618492: moisture map grid, salvage lane tags, and drying day-count staged for Otterbein, IN at 40.4900, -87.0900.
+
+Loss file: psychrometric chart band plus desiccant rotor hour referenced in Tippecanoe County county review.
+
+On-site sector marker: Tippecanoe County / coords 40.4900, -87.0900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-47970-7b3075fb

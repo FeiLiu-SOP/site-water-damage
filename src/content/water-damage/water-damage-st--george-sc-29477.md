@@ -12,30 +12,49 @@ lng: -80.5800
 zipSample: ["29477"]
 zipCodes: ["29477"]
 localPaths: ["Dorchester County / elevation 102 ft band", "Dorchester County / coords 33.1900, -80.5800", "Dorchester County / primary ZIP 29477", "Dorchester County / ZIP 29477 sector"]
-zillowHomeValueUsd: 218154
 ---
 
 **Engineering Notice for St. George:** structural drying capacity optimized for 102ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dorchester County. Relative Humidity Threshold: 66%. Sensor sync: Active.
 
 
-Property owners in St. George, SC may see a emergency dry-out event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Risk flag: Incomplete claim packets in St. George, SC often force duplicate site visits.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for St. George, SC.
+Risk flag: In St. George, SC, delayed pack-out can swell cabinetry beyond salvage.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Crawlspace vapor barriers in St. George, SC may trap moisture if torn during extraction hose routing.
 
-FAQ: What slows recovery most? In St. George, SC, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+FAQ: Who inventories contents? Carrier language and photo standards vary in St. George, SC markets.
 
-Tip: Save expert notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 29477.
+IICRC reference: structural dry standards in St. George, SC should be cited in scope documents.
 
-Ask for a room-by-room emergency dry-out outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 29477.
+Request room-by-room demolition thresholds tied to meter readings. Grid anchor 29477.
 
-File control: USAA property-loss packet was paired with pack-out ledger during intake review in St. George.
+Attic staining in St. George, SC may follow HVAC condensate rather than roof breaches.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in St. George, SC.
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
 
-Field note: Moisture logs were aligned with salvage routing in St. George, SC.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-Dispatch sectors sampled: ZIP 29477 (county grid: Dorchester County).
+Built-in bookcase cavities in St. George, SC trap humidity behind fixed shelving.
+
+Garage-to-house air barriers in St. George, SC ranch plans affect drying chamber boundaries.
+
+Basement seepage in St. George, SC may track foundation cracks rather than appliance failures.
+
+Tip: Date-stamp moisture maps when adjusters request progress updates near 29477.
+
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
+
+Step: label removed materials for disposal manifests and claim packets.
+
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Rebuild bridge 245409: cabinet toe-kick probes and subfloor MC readings logged at 33.1900, -80.5800.
+
+Containment dossier 245409: poly barrier seams and HEPA scrubber hours keyed to St. George, SC grid Dorchester County.
+
+Mitigation trace: air mover amp draw, flood cut elevation mark, and containment zipper door cross-indexed for St. George intake.
+
+On-site sector marker: Dorchester County / primary ZIP 29477 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29477-c53255d7

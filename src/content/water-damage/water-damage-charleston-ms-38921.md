@@ -12,30 +12,47 @@ lng: -90.0600
 zipSample: ["38921"]
 zipCodes: ["38921"]
 localPaths: ["Tallahatchie County / primary ZIP 38921", "Tallahatchie County / elevation 213 ft band", "Tallahatchie County / coords 34.0100, -90.0600", "Tallahatchie County / ZIP 38921 sector"]
-zillowHomeValueUsd: 99975
 ---
 
 **Engineering Notice for Charleston:** structural drying capacity optimized for 213ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tallahatchie County. Relative Humidity Threshold: 67%. Sensor sync: Active.
 
 
-In Charleston, MS, flood recovery requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Step: separate emergency extraction from structural drying line items.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Charleston, MS must be dried before reconstruction is discussed.
+Desiccant dehumidifier sizing in Charleston, MS commercial zones differs from LGR residential defaults.
 
-Our intake team frames flood recovery jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Non-penetrating meter sweeps in Charleston, MS hallways often read dry while baseboards remain elevated.
 
-FAQ: How fast should action start? In Charleston, MS, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Sump overflow in Charleston, MS can masquerade as foundation infiltration.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 38921.
+Crawlspace vapor barriers in Charleston, MS may trap moisture if torn during extraction hose routing.
 
-Book a field review and request a written flood recovery scope before mitigation equipment is staged. Serving ZIP Code: 38921.
+Confirm power load assumptions before overnight equipment runs. County corridor Tallahatchie County.
 
-Insurance note: Deductible and Claim filing codes were flagged for the Charleston file.
+Attic staining in Charleston, MS may follow HVAC condensate rather than roof breaches.
 
-Field note: Equipment day-counts were reviewed around ZIP 38921.
+Plaster lathe ceilings in Charleston, MS pre-war homes hold moisture behind skim coats longer than drywall.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Charleston, MS.
+Material note: Insulation R-value targets in Charleston, MS should match pre-loss assemblies when documented.
 
-Dispatch sectors sampled: ZIP 38921 (county grid: Tallahatchie County).
+Our flood recovery intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
+
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
+
+Step: stage dehumidifier capacity against cubic footage and class of water.
+
+Ceiling collapse risk in Charleston, MS multi-family units rises when saturated insulation loads truss chords.
+
+Containment dossier 849472: poly barrier seams and HEPA scrubber hours keyed to Charleston, MS grid Tallahatchie County.
+
+Claim dossier 849472: pack-out ledger and humidity log bands filed for Charleston, MS county Tallahatchie County (ZIP 38921).
+
+Loss file: equilibrium moisture content plus demolition salvage tag referenced in Tallahatchie County county review.
+
+Extraction log: velocity notes filed for postal corridor 38921.
+
+On-site sector marker: Tallahatchie County / primary ZIP 38921 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-38921-8e070a45

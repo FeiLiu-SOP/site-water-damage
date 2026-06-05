@@ -12,30 +12,45 @@ lng: -76.8100
 zipSample: ["28532"]
 zipCodes: ["28532"]
 localPaths: ["Craven County / elevation 20 ft band", "Craven County / coords 34.9300, -76.8100", "Craven County / primary ZIP 28532", "Craven County / ZIP 28532 sector"]
-zillowHomeValueUsd: 233707
 ---
 
 **Engineering Notice for Cherry Branch:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Craven County. Relative Humidity Threshold: 83%. Sensor sync: Active.
 
 
-A emergency dry-out event in Cherry Branch, NC is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Step: label removed materials for disposal manifests and claim packets.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Cherry Branch, NC.
+Radiant floor loops in Cherry Branch, NC slab homes need isolated zones before jack-hammer exploration.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Step: document demolition justification with moisture meter readings.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Cherry Branch, NC.
+Category-two losses in Cherry Branch, NC require antimicrobial staging decisions before rebuild quotes.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 28532.
+Technicians probe sill plates in Cherry Branch, NC ranch layouts before declaring first-floor dry.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 28532.
+Risk flag: Cherry Branch, NC slab-on-grade homes may need core probes when perimeter walls read dry.
 
-Coverage brief: depreciation worksheet can change how USAA property-loss packet is documented before scheduling.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-Field note: Drying decisions were sequenced for ZIP sector 28532.
+Garage slab moisture in Cherry Branch, NC can wick into adjacent finished rooms.
 
-Field note: Moisture logs were aligned with salvage routing in Cherry Branch, NC.
+FAQ: Why isolate rooms? Containment concentrates dehumidification and protects unaffected areas.
 
-Dispatch sectors sampled: ZIP 28532 (county grid: Craven County).
+Risk flag: In Cherry Branch, NC, delayed pack-out can swell cabinetry beyond salvage.
+
+Open a mitigation intake with drying targets and rebuild dependencies listed. County corridor Craven County.
+
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
+
+Step: map contents salvage lanes before pack-out crews arrive.
+
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+Claim dossier 748460: pack-out ledger and humidity log bands filed for Cherry Branch, NC county Craven County (ZIP 28532).
+
+Containment dossier 748460: poly barrier seams and HEPA scrubber hours keyed to Cherry Branch, NC grid Craven County.
+
+Drying packet: contents ozone quarantine paired with desiccant rotor hour near ZIP 28532 before scope lock.
+
+On-site sector marker: Craven County / coords 34.9300, -76.8100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28532-40ce1656

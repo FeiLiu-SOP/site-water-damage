@@ -12,30 +12,49 @@ lng: -93.1100
 zipSample: ["72837"]
 zipCodes: ["72837"]
 localPaths: ["Pope County / elevation 420 ft band", "Pope County / ZIP 72837 sector", "Pope County / primary ZIP 72837", "Pope County / coords 35.3900, -93.1100"]
-zillowHomeValueUsd: 216359
 ---
 
 **Engineering Notice for Dover:** structural drying capacity optimized for 420ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pope County. Relative Humidity Threshold: 73%. Sensor sync: Active.
 
 
-In Dover, AR, moisture restoration requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Material note: Insulation R-value targets in Dover, AR should match pre-loss assemblies when documented.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Dover, AR must be dried before reconstruction is discussed.
+Book a moisture-map review before demolition approvals. Primary postal sector: 72837.
 
-Our intake team frames moisture restoration jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Subfloor cupping in Dover, AR can lag source-stop by several drying days.
 
-FAQ: How fast should action start? In Dover, AR, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Step: document demolition justification with moisture meter readings.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 72837.
+Thermal imaging in Dover, AR is scheduled after surface readings plateau for two cycles.
 
-Book a field review and request a written moisture restoration scope before mitigation equipment is staged. Serving ZIP Code: 72837.
+Confirm power load assumptions before overnight equipment runs. County corridor Pope County.
 
-File control: Claim filing codes was paired with Farmers routing language during intake review in Dover.
+FAQ: Will insurance cover pack-out? Carrier language and photo standards vary in Dover, AR markets.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Dover, AR.
+Risk flag: Incomplete claim packets in Dover, AR often force duplicate site visits.
 
-Field note: Drying decisions were sequenced for ZIP sector 72837.
+Built-in bookcase cavities in Dover, AR trap humidity behind fixed shelving.
 
-Dispatch sectors sampled: ZIP 72837 (county grid: Pope County).
+Ceiling collapse risk in Dover, AR multi-family units rises when saturated insulation loads truss chords.
+
+Non-penetrating meter sweeps in Dover, AR hallways often read dry while baseboards remain elevated.
+
+Tip: Record when the water source was stopped and power restored in Dover, AR.
+
+Contents pack-out in Dover, AR should be photographed before movement off-site.
+
+Risk flag: In Dover, AR, delayed pack-out can swell cabinetry beyond salvage.
+
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+Containment dossier 562333: poly barrier seams and HEPA scrubber hours keyed to Dover, AR grid Pope County.
+
+Category note 562333: water-class notation and antimicrobial staging captured for Dover, AR intake packet.
+
+Loss file: hardwood moisture strip plus subfloor MC probe referenced in Pope County county review.
+
+Drying goal: structural targets aligned with Pope County elevation mesh.
+
+On-site sector marker: Pope County / elevation 420 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72837-7e9511f9

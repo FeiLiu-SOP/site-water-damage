@@ -12,30 +12,47 @@ lng: -86.9000
 zipSample: ["32566"]
 zipCodes: ["32566"]
 localPaths: ["Santa Rosa County / ZIP 32566 sector", "Santa Rosa County / coords 30.4500, -86.9000", "Santa Rosa County / elevation 59 ft band", "Santa Rosa County / primary ZIP 32566"]
-zillowHomeValueUsd: 415381
 ---
 
 **Engineering Notice for Holley:** structural drying capacity optimized for 59ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Santa Rosa County. Relative Humidity Threshold: 73%. Sensor sync: Active.
 
 
-A disaster cleanup event in Holley, FL is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Holley, FL.
+Technicians stage HEPA scrubbers before containment zip doors in Holley, FL kitchen losses.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+FAQ: Will insurance cover pack-out? Carrier language and photo standards vary in Holley, FL markets.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Holley, FL.
+Step: separate emergency extraction from structural drying line items.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 32566.
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 32566.
+Step: document demolition justification with moisture meter readings.
 
-Insurance note: adjuster photo-log and reserve change notes were flagged for the Holley file.
+Permit note: Rebuild phases in Holley, FL may need separate inspections from mitigation work.
 
-Field note: Moisture logs were aligned with salvage routing in Holley, FL.
+Plaster lathe ceilings in Holley, FL pre-war homes hold moisture behind skim coats longer than drywall.
 
-Field note: Intake notes were reconciled with county grid Santa Rosa County.
+Technicians probe sill plates in Holley, FL ranch layouts before declaring first-floor dry.
 
-Dispatch sectors sampled: ZIP 32566 (county grid: Santa Rosa County).
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
+
+Odor control in Holley, FL category-two losses may require hydroxyl cycles separate from dehumidification.
+
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
+
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
+
+Step: label removed materials for disposal manifests and claim packets.
+
+Loss trace 233640: extraction velocity notes and demolition threshold markers keyed to Holley, FL elevation 59 ft.
+
+Containment dossier 233640: poly barrier seams and HEPA scrubber hours keyed to Holley, FL grid Santa Rosa County.
+
+Loss file: non-penetrating meter mode plus antimicrobial dwell clock referenced in Santa Rosa County county review.
+
+On-site sector marker: Santa Rosa County / elevation 59 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32566-a2cf52c5

@@ -12,29 +12,49 @@ lng: -65.7500
 zipSample: ["00773"]
 zipCodes: ["00773"]
 localPaths: ["Luquillo County / ZIP 00773 sector", "Luquillo County / elevation 121 ft band", "Luquillo County / primary ZIP 00773", "Luquillo County / coords 18.3800, -65.7500"]
-zillowHomeValueUsd: 352186
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Playa Fortuna:** structural drying capacity optimized for 121ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Luquillo County. Relative Humidity Threshold: 76%. Sensor sync: Active.
 
 
-When flood recovery cases are reviewed in Playa Fortuna, PR, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Request room-by-room demolition thresholds tied to meter readings. Grid anchor 00773.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Playa Fortuna, PR.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Schedule extraction and drying as separate documented phases. File routing near 00773.
 
-FAQ: Is every wet material removed immediately? Not always. In Playa Fortuna, PR, some assemblies are monitored through readings before invasive removal is approved.
+Step: label removed materials for disposal manifests and claim packets.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 00773.
+Thermal imaging in Playa Fortuna, PR is scheduled after surface readings plateau for two cycles.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 00773.
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
 
-File control: reserve change notes was paired with loss diary entry during intake review in Playa Fortuna.
+Permit note: Rebuild phases in Playa Fortuna, PR may need separate inspections from mitigation work.
 
-Field note: Equipment day-counts were reviewed around ZIP 00773.
+Book a moisture-map review before demolition approvals. Primary postal sector: 00773.
 
-Dispatch sectors sampled: ZIP 00773 (county grid: Luquillo County).
+Step: isolate affected rooms with poly barriers before air-mover placement in Playa Fortuna, PR.
+
+Elevated crawlspaces in Playa Fortuna, PR require vapor-retarder service before dehumidifier sizing.
+
+Risk flag: In Playa Fortuna, PR, delayed pack-out can swell cabinetry beyond salvage.
+
+Attic staining in Playa Fortuna, PR may follow HVAC condensate rather than roof breaches.
+
+Technicians probe sill plates in Playa Fortuna, PR ranch layouts before declaring first-floor dry.
+
+Townhome party walls in Playa Fortuna, PR can transfer vapor across unit lines during shared losses.
+
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Desiccant dehumidifier sizing in Playa Fortuna, PR commercial zones differs from LGR residential defaults.
+
+Equipment roster 827299: dehumidifier hour-meter and air-mover placement queued before Playa Fortuna, PR scope sign-off.
+
+Containment dossier 827299: poly barrier seams and HEPA scrubber hours keyed to Playa Fortuna, PR grid Luquillo County.
+
+Loss file: containment zipper door plus ceiling cavity bore scope referenced in Luquillo County county review.
+
+On-site sector marker: Luquillo County / ZIP 00773 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00773-2ef7f863

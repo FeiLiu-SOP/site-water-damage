@@ -12,28 +12,49 @@ lng: -108.0400
 zipSample: ["87413"]
 zipCodes: ["87413"]
 localPaths: ["San Juan County / primary ZIP 87413", "San Juan County / ZIP 87413 sector", "San Juan County / elevation 5420 ft band", "San Juan County / coords 36.6800, -108.0400"]
-zillowHomeValueUsd: 252923
 ---
 
 **Engineering Notice for West Hammond:** structural drying capacity optimized for 5420ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Juan County. Relative Humidity Threshold: 66%. Sensor sync: Active.
 
 
-Property owners in West Hammond, NM may see a storm cleanup event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Tip: Record when the water source was stopped and power restored in West Hammond, NM.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for West Hammond, NM.
+Step: separate emergency extraction from structural drying line items.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Humidity pockets in West Hammond, NM wall cavities can persist after visible drying on surfaces.
 
-FAQ: What slows recovery most? In West Hammond, NM, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Step: reconcile carrier photo requirements before tear-out in West Hammond, NM.
 
-Tip: Save local team notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 87413.
+Risk flag: Incomplete claim packets in West Hammond, NM often force duplicate site visits.
 
-Ask for a room-by-room storm cleanup outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 87413.
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
 
-File control: scope authorization code was paired with pack-out ledger during intake review in West Hammond.
+Material note: Insulation R-value targets in West Hammond, NM should match pre-loss assemblies when documented.
 
-Field note: Intake notes were reconciled with county grid San Juan County.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Dispatch sectors sampled: ZIP 87413 (county grid: San Juan County).
+Permit note: Rebuild phases in West Hammond, NM may need separate inspections from mitigation work.
+
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+FAQ: When is hardwood salvage realistic in West Hammond, NM? Density, duration, and contamination class decide—not optimism.
+
+Freeze-burst events in West Hammond, NM often damage multiple wall bays before owners notice flow.
+
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
+
+Carpet pad saturation in West Hammond, NM frequently forces disposal even when face fiber appears dry.
+
+Psychrometric targets should be recorded before declaring a chamber dry.
+
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
+
+Category note 953629: water-class notation and antimicrobial staging captured for West Hammond, NM intake packet.
+
+Rebuild bridge 953629: cabinet toe-kick probes and subfloor MC readings logged at 36.6800, -108.0400.
+
+Loss file: subfloor MC probe plus vapor pressure differential referenced in San Juan County county review.
+
+**Regional Infrastructure Brief:** Response coverage aligns with San Juan County and primary ZIP 87413. Terrain reference: 5420 ft. Center point: 36.6800, -108.0400. ZIP sample: 87413. Logistics priority: Serving residential sectors across San Juan County and north-east ZIP 87413 grid.
 
 Service reference: NM-87413-4c64822d

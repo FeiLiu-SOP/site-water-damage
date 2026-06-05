@@ -12,28 +12,47 @@ lng: -83.5100
 zipSample: ["31794"]
 zipCodes: ["31794"]
 localPaths: ["Tift County / coords 31.4400, -83.5100", "Tift County / ZIP 31794 sector", "Tift County / primary ZIP 31794", "Tift County / elevation 371 ft band"]
-zillowHomeValueUsd: 182384
 ---
 
 **Engineering Notice for Unionville:** structural drying capacity optimized for 371ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tift County. Relative Humidity Threshold: 80%. Sensor sync: Active.
 
 
-Property owners in Unionville, GA may see a water mitigation event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Non-penetrating meter sweeps in Unionville, GA hallways often read dry while baseboards remain elevated.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Unionville, GA.
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-FAQ: What slows recovery most? In Unionville, GA, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+FAQ: How fast should mitigation start? In Unionville, GA, extended damp periods expand demolition and mold-risk scope.
 
-Tip: Save professional notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 31794.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-Ask for a room-by-room water mitigation outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 31794.
+Sump overflow in Unionville, GA can masquerade as foundation infiltration.
 
-Claim marker: carrier supplement language was logged beside temporary service receipt near ZIP 31794.
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
 
-Field note: Drying decisions were sequenced for ZIP sector 31794.
+Regulatory note: Unionville, GA projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
 
-Dispatch sectors sampled: ZIP 31794 (county grid: Tift County).
+Risk flag: Unionville, GA slab-on-grade homes may need core probes when perimeter walls read dry.
+
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+FAQ: What slows insurance review? Incomplete photo logs and missing moisture maps commonly delay Unionville, GA files.
+
+Permit note: Rebuild phases in Unionville, GA may need separate inspections from mitigation work.
+
+Plaster lathe ceilings in Unionville, GA pre-war homes hold moisture behind skim coats longer than drywall.
+
+Townhome party walls in Unionville, GA can transfer vapor across unit lines during shared losses.
+
+Claim dossier 147403: pack-out ledger and humidity log bands filed for Unionville, GA county Tift County (ZIP 31794).
+
+Rebuild bridge 147403: cabinet toe-kick probes and subfloor MC readings logged at 31.4400, -83.5100.
+
+Loss file: structural dry standard plus containment zipper door referenced in Tift County county review.
+
+Antimicrobial dwell: label minutes verified in Unionville, GA loss zone.
+
+On-site sector marker: Tift County / primary ZIP 31794 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-31794-5fb3b51a

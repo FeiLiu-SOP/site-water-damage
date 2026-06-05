@@ -12,28 +12,49 @@ lng: -81.2500
 zipSample: ["25921"]
 zipCodes: ["25921"]
 localPaths: ["Raleigh County / primary ZIP 25921", "Raleigh County / ZIP 25921 sector", "Raleigh County / coords 37.7100, -81.2500", "Raleigh County / elevation 2408 ft band"]
-zillowHomeValueUsd: 107397
 ---
 
 **Engineering Notice for Sophia:** structural drying capacity optimized for 2408ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Raleigh County. Relative Humidity Threshold: 73%. Sensor sync: Active.
 
 
-Across Sophia, WV, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the moisture restoration file.
+Carpet pad saturation in Sophia, WV frequently forces disposal even when face fiber appears dry.
 
-Moisture Restoration coordination in Sophia, WV is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Dispatch packets for Sophia, WV reference county grid Raleigh County and elevation band 2408 ft.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Sophia, WV are commonly checked when spread is suspected.
+Garage-to-house air barriers in Sophia, WV ranch plans affect drying chamber boundaries.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 25921.
+Book a moisture-map review before demolition approvals. Primary postal sector: 25921.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 25921.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Insurance note: pack-out ledger and USAA property-loss packet were flagged for the Sophia file.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Sophia, WV.
+Multi-story Sophia, WV losses need vertical moisture migration checks on lower levels.
 
-Dispatch sectors sampled: ZIP 25921 (county grid: Raleigh County).
+FAQ: Who inventories contents? Carrier language and photo standards vary in Sophia, WV markets.
+
+Townhome party walls in Sophia, WV can transfer vapor across unit lines during shared losses.
+
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
+
+Step: stage dehumidifier capacity against cubic footage and class of water.
+
+Odor control in Sophia, WV category-two losses may require hydroxyl cycles separate from dehumidification.
+
+Elevator pit flooding in Sophia, WV commercial stacks needs pump-out before cab service resumes.
+
+Step: verify power availability for drying equipment before overnight runs.
+
+Radiant floor loops in Sophia, WV slab homes need isolated zones before jack-hammer exploration.
+
+Rebuild bridge 563313: cabinet toe-kick probes and subfloor MC readings logged at 37.7100, -81.2500.
+
+Loss trace 563313: extraction velocity notes and demolition threshold markers keyed to Sophia, WV elevation 2408 ft.
+
+Mitigation trace: contents ozone quarantine, vapor pressure differential, and non-penetrating meter mode cross-indexed for Sophia intake.
+
+On-site sector marker: Raleigh County / ZIP 25921 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WV-25921-7dca83b1

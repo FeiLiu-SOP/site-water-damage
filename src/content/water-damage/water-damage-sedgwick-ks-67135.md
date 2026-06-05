@@ -12,28 +12,45 @@ lng: -97.4200
 zipSample: ["67135"]
 zipCodes: ["67135"]
 localPaths: ["Harvey County / coords 37.9200, -97.4200", "Harvey County / ZIP 67135 sector", "Harvey County / elevation 1394 ft band", "Harvey County / primary ZIP 67135"]
-zillowHomeValueUsd: 243105
 ---
 
 **Engineering Notice for Sedgwick:** structural drying capacity optimized for 1394ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harvey County. Relative Humidity Threshold: 79%. Sensor sync: Active.
 
 
-A emergency dry-out event in Sedgwick, KS is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Sedgwick, KS.
+Built-in bookcase cavities in Sedgwick, KS trap humidity behind fixed shelving.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Sedgwick, KS.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 67135.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 67135.
+Step: isolate affected rooms with poly barriers before air-mover placement in Sedgwick, KS.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 67135.
+Technicians stage HEPA scrubbers before containment zip doors in Sedgwick, KS kitchen losses.
 
-Coverage brief: Claim filing codes can change how Farmers routing language is documented before scheduling.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Field note: Equipment day-counts were reviewed around ZIP 67135.
+FAQ: When is delay costly? In Sedgwick, KS, extended damp periods expand demolition and mold-risk scope.
 
-Dispatch sectors sampled: ZIP 67135 (county grid: Harvey County).
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
+
+Step: document demolition justification with moisture meter readings.
+
+FAQ: Why isolate rooms? Containment concentrates dehumidification and protects unaffected areas.
+
+Desiccant dehumidifier sizing in Sedgwick, KS commercial zones differs from LGR residential defaults.
+
+Material note: Insulation R-value targets in Sedgwick, KS should match pre-loss assemblies when documented.
+
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
+
+Rebuild bridge 787275: cabinet toe-kick probes and subfloor MC readings logged at 37.9200, -97.4200.
+
+Loss trace 787275: extraction velocity notes and demolition threshold markers keyed to Sedgwick, KS elevation 1394 ft.
+
+Drying packet: pack-out chain-of-custody paired with wall cavity vent hole near ZIP 67135 before scope lock.
+
+On-site sector marker: Harvey County / elevation 1394 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: KS-67135-48dd34c9

@@ -12,28 +12,45 @@ lng: -121.4000
 zipSample: ["95901"]
 zipCodes: ["95901"]
 localPaths: ["Yuba County / ZIP 95901 sector", "Yuba County / primary ZIP 95901", "Yuba County / elevation 499 ft band", "Yuba County / coords 39.3200, -121.4000"]
-zillowHomeValueUsd: 391329
 ---
 
 **Engineering Notice for Loma Rica:** structural drying capacity optimized for 499ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Yuba County. Relative Humidity Threshold: 79%. Sensor sync: Active.
 
 
-Across Loma Rica, CA, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the flood restoration file.
+FAQ: Who inventories contents? Carrier language and photo standards vary in Loma Rica, CA markets.
 
-Flood Restoration coordination in Loma Rica, CA is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Risk flag: Loma Rica, CA slab-on-grade homes may need core probes when perimeter walls read dry.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Loma Rica, CA are commonly checked when spread is suspected.
+Schedule extraction and drying as separate documented phases. File routing near 95901.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 95901.
+Townhome party walls in Loma Rica, CA can transfer vapor across unit lines during shared losses.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 95901.
+Technicians probe sill plates in Loma Rica, CA ranch layouts before declaring first-floor dry.
 
-Insurance note: depreciation worksheet and loss diary entry were flagged for the Loma Rica file.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Field note: Intake notes were reconciled with county grid Yuba County.
+Step: log humidity and temperature readings at 24-hour intervals.
 
-Dispatch sectors sampled: ZIP 95901 (county grid: Yuba County).
+Category-two losses in Loma Rica, CA require antimicrobial staging decisions before rebuild quotes.
+
+Thermal imaging in Loma Rica, CA is scheduled after surface readings plateau for two cycles.
+
+Our flood restoration intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
+
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+Plaster lathe ceilings in Loma Rica, CA pre-war homes hold moisture behind skim coats longer than drywall.
+
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
+
+Carrier sync 857117: depreciation worksheet lane and supplement language staged for ZIP 95901.
+
+Loss trace 857117: extraction velocity notes and demolition threshold markers keyed to Loma Rica, CA elevation 499 ft.
+
+Mitigation trace: vapor pressure differential, negative air machine manometer, and air mover amp draw cross-indexed for Loma Rica intake.
+
+On-site sector marker: Yuba County / primary ZIP 95901 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95901-b975628c

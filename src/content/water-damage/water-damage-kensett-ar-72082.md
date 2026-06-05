@@ -12,31 +12,47 @@ lng: -91.6700
 zipSample: ["72082"]
 zipCodes: ["72082"]
 localPaths: ["White County / primary ZIP 72082", "White County / coords 35.2400, -91.6700", "White County / elevation 226 ft band", "White County / ZIP 72082 sector"]
-zillowHomeValueUsd: 194326
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Kensett:** structural drying capacity optimized for 226ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: White County. Relative Humidity Threshold: 70%. Sensor sync: Active.
 
 
-Property owners in Kensett, AR may see a moisture restoration event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Step: verify power availability for drying equipment before overnight runs.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Kensett, AR.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Tip: Save adjuster emails in one folder before calling back.
 
-FAQ: What slows recovery most? In Kensett, AR, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Thermal imaging in Kensett, AR is scheduled after surface readings plateau for two cycles.
 
-Tip: Save professional notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 72082.
+Stairwell chase moisture in Kensett, AR tri-level homes can lag main-floor readings by days.
 
-Ask for a room-by-room moisture restoration outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 72082.
+Step: reconcile carrier photo requirements before tear-out in Kensett, AR.
 
-Claim marker: water category notation was logged beside Farmers routing language near ZIP 72082.
+Freeze-burst events in Kensett, AR often damage multiple wall bays before owners notice flow.
 
-Field note: Equipment day-counts were reviewed around ZIP 72082.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Field note: Moisture logs were aligned with salvage routing in Kensett, AR.
+Ceiling collapse risk in Kensett, AR multi-family units rises when saturated insulation loads truss chords.
 
-Dispatch sectors sampled: ZIP 72082 (county grid: White County).
+Book a moisture-map review before demolition approvals. Primary postal sector: 72082.
+
+We coordinate Kensett, AR mitigation with written scope, equipment assumptions, and claim-facing notes.
+
+Confirm power load assumptions before overnight equipment runs. County corridor White County.
+
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
+
+Garage-to-house air barriers in Kensett, AR ranch plans affect drying chamber boundaries.
+
+Step: document demolition justification with moisture meter readings.
+
+Carrier sync 332127: depreciation worksheet lane and supplement language staged for ZIP 72082.
+
+Mitigation ledger 332127: moisture map grid, salvage lane tags, and drying day-count staged for Kensett, AR at 35.2400, -91.6700.
+
+Drying packet: wall cavity vent hole paired with pinless scan grid near ZIP 72082 before scope lock.
+
+Coordinate-anchored dispatch note: center reference 35.2400, -91.6700 at elevation ~226 ft aligns with White County intake staging.
 
 Service reference: AR-72082-0877c128

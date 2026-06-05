@@ -12,28 +12,47 @@ lng: -83.7900
 zipSample: ["31626"]
 zipCodes: ["31626"]
 localPaths: ["Thomas County / elevation 220 ft band", "Thomas County / ZIP 31626 sector", "Thomas County / primary ZIP 31626", "Thomas County / coords 30.7900, -83.7900"]
-zillowHomeValueUsd: 218974
 ---
 
 **Engineering Notice for Boston:** structural drying capacity optimized for 220ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Thomas County. Relative Humidity Threshold: 66%. Sensor sync: Active.
 
 
-Property owners in Boston, GA may see a emergency dry-out event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Boston, GA.
+Non-penetrating meter sweeps in Boston, GA hallways often read dry while baseboards remain elevated.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+FAQ: Will insurance cover pack-out? Carrier language and photo standards vary in Boston, GA markets.
 
-FAQ: What slows recovery most? In Boston, GA, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Tip: Save professional notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 31626.
+Ceiling collapse risk in Boston, GA multi-family units rises when saturated insulation loads truss chords.
 
-Ask for a room-by-room emergency dry-out outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 31626.
+Sump overflow in Boston, GA can masquerade as foundation infiltration.
 
-File control: scope authorization code was paired with Allstate loss review during intake review in Boston.
+Tip: Record when the water source was stopped and power restored in Boston, GA.
 
-Field note: Moisture logs were aligned with salvage routing in Boston, GA.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Dispatch sectors sampled: ZIP 31626 (county grid: Thomas County).
+Risk flag: In Boston, GA, delayed pack-out can swell cabinetry beyond salvage.
+
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
+
+Step: verify power availability for drying equipment before overnight runs.
+
+Step: map contents salvage lanes before pack-out crews arrive.
+
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
+
+Schedule extraction and drying as separate documented phases. File routing near 31626.
+
+Plaster lathe ceilings in Boston, GA pre-war homes hold moisture behind skim coats longer than drywall.
+
+Claim dossier 528259: pack-out ledger and humidity log bands filed for Boston, GA county Thomas County (ZIP 31626).
+
+Mitigation ledger 528259: moisture map grid, salvage lane tags, and drying day-count staged for Boston, GA at 30.7900, -83.7900.
+
+Drying packet: negative air machine manometer paired with rebuild moisture clearance near ZIP 31626 before scope lock.
+
+Primary postal anchor 31626 with multi-ZIP overlap in Boston; field packets tag Thomas County for county-grid reconciliation.
 
 Service reference: GA-31626-a6df950d

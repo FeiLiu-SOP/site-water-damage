@@ -12,28 +12,45 @@ lng: -80.9000
 zipSample: ["29115"]
 zipCodes: ["29115"]
 localPaths: ["Orangeburg County / ZIP 29115 sector", "Orangeburg County / elevation 240 ft band", "Orangeburg County / coords 33.4800, -80.9000", "Orangeburg County / primary ZIP 29115"]
-zillowHomeValueUsd: 123303
 ---
 
 **Engineering Notice for Edisto:** structural drying capacity optimized for 240ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Orangeburg County. Relative Humidity Threshold: 79%. Sensor sync: Active.
 
 
-A property drying event in Edisto, SC is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Schedule extraction and drying as separate documented phases. File routing near 29115.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Edisto, SC.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Tip: Photograph ceiling stains with a ruler reference before tarping near ZIP 29115.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Edisto, SC.
+IICRC reference: structural dry standards in Edisto, SC should be cited in scope documents.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 29115.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 29115.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Coverage brief: Allstate loss review can change how contents-vs-structure split is documented before scheduling.
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
 
-Field note: Drying decisions were sequenced for ZIP sector 29115.
+Built-in bookcase cavities in Edisto, SC trap humidity behind fixed shelving.
 
-Dispatch sectors sampled: ZIP 29115 (county grid: Orangeburg County).
+Subfloor cupping in Edisto, SC can lag source-stop by several drying days.
+
+Crawlspace vapor barriers in Edisto, SC may trap moisture if torn during extraction hose routing.
+
+Elevated crawlspaces in Edisto, SC require vapor-retarder restoration before dehumidifier sizing.
+
+Psychrometric targets should be recorded before declaring a chamber dry.
+
+Step: map contents salvage lanes before pack-out crews arrive.
+
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
+
+File audit 532043: adjuster photo-set crosswalk and contents segregation reviewed for Edisto, SC at 33.4800/-80.9000.
+
+Mitigation ledger 532043: moisture map grid, salvage lane tags, and drying day-count staged for Edisto, SC at 33.4800, -80.9000.
+
+Loss file: rebuild moisture clearance plus ceiling cavity bore scope referenced in Orangeburg County county review.
+
+ZIP-corridor snapshot for Edisto, SC: sampled sectors include 29115; county routing grid remains Orangeburg County.
 
 Service reference: SC-29115-08ff99a3

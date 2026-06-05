@@ -12,28 +12,47 @@ lng: -88.6400
 zipSample: ["61842"]
 zipCodes: ["61842"]
 localPaths: ["De Witt County / ZIP 61842 sector", "De Witt County / elevation 722 ft band", "De Witt County / coords 40.2500, -88.6400", "De Witt County / primary ZIP 61842"]
-zillowHomeValueUsd: 166384
 ---
 
 **Engineering Notice for Farmer City:** structural drying capacity optimized for 722ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: De Witt County. Relative Humidity Threshold: 81%. Sensor sync: Active.
 
 
-A emergency dry-out event in Farmer City, IL is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Farmer City, IL.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Technicians stage HEPA scrubbers before containment zip doors in Farmer City, IL kitchen losses.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Farmer City, IL.
+Plaster lathe ceilings in Farmer City, IL pre-war homes hold moisture behind skim coats longer than drywall.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 61842.
+IICRC reference: structural dry standards in Farmer City, IL should be cited in scope documents.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 61842.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-File control: coverage threshold marker was paired with scope authorization code during intake review in Farmer City.
+Permit note: Rebuild phases in Farmer City, IL may need separate inspections from mitigation work.
 
-Field note: Drying decisions were sequenced for ZIP sector 61842.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Dispatch sectors sampled: ZIP 61842 (county grid: De Witt County).
+Step: separate emergency extraction from structural drying line items.
+
+FAQ: When is hardwood salvage realistic in Farmer City, IL? Density, duration, and contamination class decide—not optimism.
+
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
+
+Step: reconcile carrier photo requirements before tear-out in Farmer City, IL.
+
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+Technicians probe sill plates in Farmer City, IL ranch layouts before declaring first-floor dry.
+
+FAQ: When is delay costly? In Farmer City, IL, extended damp periods expand demolition and mold-risk scope.
+
+Mitigation ledger 136820: moisture map grid, salvage lane tags, and drying day-count staged for Farmer City, IL at 40.2500, -88.6400.
+
+Equipment roster 136820: dehumidifier hour-meter and air-mover placement queued before Farmer City, IL scope sign-off.
+
+Mitigation trace: HEPA scrubber CFM log, pack-out chain-of-custody, and structural dry standard cross-indexed for Farmer City intake.
+
+On-site sector marker: De Witt County / elevation 722 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-61842-c0de2e17

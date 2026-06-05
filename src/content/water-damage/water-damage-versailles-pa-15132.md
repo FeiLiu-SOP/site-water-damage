@@ -12,28 +12,49 @@ lng: -79.8300
 zipSample: ["15132"]
 zipCodes: ["15132"]
 localPaths: ["Allegheny County / ZIP 15132 sector", "Allegheny County / coords 40.3200, -79.8300", "Allegheny County / primary ZIP 15132", "Allegheny County / elevation 922 ft band"]
-zillowHomeValueUsd: 73745
 ---
 
 **Engineering Notice for Versailles:** structural drying capacity optimized for 922ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allegheny County. Relative Humidity Threshold: 66%. Sensor sync: Active.
 
 
-In Versailles, PA, flood restoration requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Versailles, PA must be dried before reconstruction is discussed.
+Contents pack-out in Versailles, PA should be photographed before movement off-site.
 
-Our intake team frames flood restoration jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-FAQ: How fast should action start? In Versailles, PA, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Radiant floor loops in Versailles, PA slab homes need isolated zones before jack-hammer exploration.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 15132.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-Book a field review and request a written flood restoration scope before mitigation equipment is staged. Serving ZIP Code: 15132.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-File control: depreciation worksheet was paired with recoverable depreciation during intake review in Versailles.
+Step: separate emergency extraction from structural drying line items.
 
-Field note: Moisture logs were aligned with salvage routing in Versailles, PA.
+FAQ: When is hardwood salvage realistic in Versailles, PA? Density, duration, and contamination class decide—not optimism.
 
-Dispatch sectors sampled: ZIP 15132 (county grid: Allegheny County).
+Subfloor cupping in Versailles, PA can lag source-stop by several drying days.
+
+Book salvage review before pack-out crews mobilize. Grid anchor 15132.
+
+Technicians probe sill plates in Versailles, PA ranch layouts before declaring first-floor dry.
+
+Material note: Insulation R-value targets in Versailles, PA should match pre-loss assemblies when documented.
+
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
+
+Step: log humidity and temperature readings at 24-hour intervals.
+
+Non-penetrating meter sweeps in Versailles, PA hallways often read dry while baseboards remain elevated.
+
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
+
+Containment dossier 852952: poly barrier seams and HEPA scrubber hours keyed to Versailles, PA grid Allegheny County.
+
+Claim dossier 852952: pack-out ledger and humidity log bands filed for Versailles, PA county Allegheny County (ZIP 15132).
+
+Drying packet: negative air machine manometer paired with structural dry standard near ZIP 15132 before scope lock.
+
+On-site sector marker: Allegheny County / elevation 922 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-15132-dc37d29c

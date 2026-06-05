@@ -12,30 +12,45 @@ lng: -94.4600
 zipSample: ["72722"]
 zipCodes: ["72722"]
 localPaths: ["Benton County / coords 36.3400, -94.4600", "Benton County / ZIP 72722 sector", "Benton County / elevation 1240 ft band", "Benton County / primary ZIP 72722"]
-zillowHomeValueUsd: 286923
 ---
 
 **Engineering Notice for Decatur:** structural drying capacity optimized for 1240ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Benton County. Relative Humidity Threshold: 77%. Sensor sync: Active.
 
 
-In Decatur, AR, flood restoration requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Tip: Photograph ceiling stains with a ruler reference before tarping near ZIP 72722.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Decatur, AR must be dried before reconstruction is discussed.
+Ceiling collapse risk in Decatur, AR multi-family units rises when saturated insulation loads truss chords.
 
-Our intake team frames flood restoration jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Plaster lathe ceilings in Decatur, AR pre-war homes hold moisture behind skim coats longer than drywall.
 
-FAQ: How fast should action start? In Decatur, AR, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Material note: Insulation R-value targets in Decatur, AR should match pre-loss assemblies when documented.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 72722.
+Stairwell chase moisture in Decatur, AR tri-level homes can lag main-floor readings by days.
 
-Book a field review and request a written flood restoration scope before mitigation equipment is staged. Serving ZIP Code: 72722.
+Built-in bookcase cavities in Decatur, AR trap humidity behind fixed shelving.
 
-File control: reserve change notes was paired with recoverable depreciation during intake review in Decatur.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Decatur, AR.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Field note: Equipment day-counts were reviewed around ZIP 72722.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Dispatch sectors sampled: ZIP 72722 (county grid: Benton County).
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
+
+Thermal imaging in Decatur, AR is scheduled after surface readings plateau for two cycles.
+
+Request room-by-room demolition thresholds tied to meter readings. Grid anchor 72722.
+
+Tip: Log refrigerator line shutoffs before moving units in Decatur, AR kitchen losses.
+
+Open a mitigation intake with drying targets and rebuild dependencies listed. County corridor Benton County.
+
+Mitigation ledger 214206: moisture map grid, salvage lane tags, and drying day-count staged for Decatur, AR at 36.3400, -94.4600.
+
+Category note 214206: water-class notation and antimicrobial staging captured for Decatur, AR intake packet.
+
+Mitigation trace: vapor pressure differential, subfloor MC probe, and psychrometric chart band cross-indexed for Decatur intake.
+
+ZIP-corridor snapshot for Decatur, AR: sampled sectors include 72722; county routing grid remains Benton County.
 
 Service reference: AR-72722-9c25e9b7

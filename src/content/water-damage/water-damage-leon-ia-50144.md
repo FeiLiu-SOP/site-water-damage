@@ -12,28 +12,45 @@ lng: -93.7500
 zipSample: ["50144"]
 zipCodes: ["50144"]
 localPaths: ["Decatur County / ZIP 50144 sector", "Decatur County / elevation 1076 ft band", "Decatur County / coords 40.7400, -93.7500", "Decatur County / primary ZIP 50144"]
-zillowHomeValueUsd: 136139
 ---
 
 **Engineering Notice for Leon:** structural drying capacity optimized for 1076ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Decatur County. Relative Humidity Threshold: 65%. Sensor sync: Active.
 
 
-In Leon, IA, property drying requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Step: photograph standing water and material edges before extraction.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Leon, IA must be dried before reconstruction is discussed.
+Permit note: Rebuild phases in Leon, IA may need separate inspections from mitigation work.
 
-Our intake team frames property drying jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-FAQ: How fast should action start? In Leon, IA, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Book a moisture-map review before demolition approvals. Primary postal sector: 50144.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 50144.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 50144.
 
-Book a field review and request a written property drying scope before mitigation equipment is staged. Serving ZIP Code: 50144.
+FAQ: What slows insurance review? Incomplete photo logs and missing moisture maps commonly delay Leon, IA files.
 
-File control: recoverable depreciation was paired with Claim filing codes during intake review in Leon.
+Plaster lathe ceilings in Leon, IA pre-war homes hold moisture behind skim coats longer than drywall.
 
-Field note: Equipment day-counts were reviewed around ZIP 50144.
+Category-two losses in Leon, IA require antimicrobial staging decisions before rebuild quotes.
 
-Dispatch sectors sampled: ZIP 50144 (county grid: Decatur County).
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
+
+Schedule extraction and drying as separate documented phases. File routing near 50144.
+
+Tip: Save adjuster emails in one folder before calling back.
+
+Tip: List detached baseboards and removed insulation by room for claim traceability.
+
+We coordinate Leon, IA mitigation with written scope, equipment assumptions, and claim-facing notes.
+
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+Containment dossier 286448: poly barrier seams and HEPA scrubber hours keyed to Leon, IA grid Decatur County.
+
+Category note 286448: water-class notation and antimicrobial staging captured for Leon, IA intake packet.
+
+Loss file: pack-out chain-of-custody plus grain depression target referenced in Decatur County county review.
+
+Primary postal anchor 50144 with multi-ZIP overlap in Leon; field packets tag Decatur County for county-grid reconciliation.
 
 Service reference: IA-50144-a40bb25c

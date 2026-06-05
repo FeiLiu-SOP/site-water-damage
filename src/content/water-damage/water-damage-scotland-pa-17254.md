@@ -12,29 +12,47 @@ lng: -77.5800
 zipSample: ["17202", "17254"]
 zipCodes: ["17202", "17254"]
 localPaths: ["Franklin County / elevation 702 ft band", "Franklin County / ZIP 17202 sector", "Franklin County / primary ZIP 17254", "Franklin County / coords 39.9700, -77.5800", "Franklin County / ZIP 17254 sector"]
-zillowHomeValueUsd: 265452
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Scotland:** structural drying capacity optimized for 702ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Franklin County. Relative Humidity Threshold: 81%. Sensor sync: Active.
 
 
-When storm cleanup cases are reviewed in Scotland, PA, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+In Scotland, PA, storm cleanup calls often start with moisture mapping before demolition is discussed.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Scotland, PA.
+FAQ: What slows insurance review? Incomplete photo logs and missing moisture maps commonly delay Scotland, PA files.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Attic staining in Scotland, PA may follow HVAC condensate rather than roof breaches.
 
-FAQ: Is every wet material removed immediately? Not always. In Scotland, PA, some assemblies are monitored through readings before invasive removal is approved.
+IICRC reference: structural dry standards in Scotland, PA should be cited in scope documents.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 17202/17254.
+Technicians stage HEPA scrubbers before containment zip doors in Scotland, PA kitchen losses.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 17254.
+FAQ: Who inventories contents? Carrier language and photo standards vary in Scotland, PA markets.
 
-Claim marker: Claim filing codes was logged beside Deductible near ZIP 17254.
+Category-two losses in Scotland, PA require antimicrobial staging decisions before rebuild quotes.
 
-Field note: Drying decisions were sequenced for ZIP sector 17202/17254.
+Risk flag: In Scotland, PA, delayed pack-out can swell cabinetry beyond salvage.
 
-Dispatch sectors sampled: ZIP 17202, 17254 (county grid: Franklin County).
+Townhome party walls in Scotland, PA can transfer vapor across unit lines during shared losses.
+
+Odor control in Scotland, PA category-two losses may require hydroxyl cycles separate from dehumidification.
+
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
+
+Garage slab moisture in Scotland, PA can wick into adjacent finished rooms.
+
+Tip: List detached baseboards and removed insulation by room for claim traceability.
+
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Mitigation ledger 254755: moisture map grid, salvage lane tags, and drying day-count staged for Scotland, PA at 39.9700, -77.5800.
+
+Carrier sync 254755: depreciation worksheet lane and supplement language staged for ZIP 17254.
+
+Mitigation trace: demolition salvage tag, ceiling cavity bore scope, and subfloor MC probe cross-indexed for Scotland intake.
+
+On-site sector marker: Franklin County / ZIP 17254 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-17254-b6121df0

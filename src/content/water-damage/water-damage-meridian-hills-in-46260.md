@@ -12,30 +12,45 @@ lng: -86.1600
 zipSample: ["46260", "46240"]
 zipCodes: ["46260", "46240"]
 localPaths: ["Marion County / ZIP 46240 sector", "Marion County / coords 39.8900, -86.1600", "Marion County / primary ZIP 46260", "Marion County / ZIP 46260 sector", "Marion County / elevation 797 ft band"]
-zillowHomeValueUsd: 304707
 ---
 
 **Engineering Notice for Meridian Hills:** structural drying capacity optimized for 797ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marion County. Relative Humidity Threshold: 81%. Sensor sync: Active.
 
 
-Property owners in Meridian Hills, IN may see a disaster cleanup event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Meridian Hills, IN.
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Dispatch packets for Meridian Hills, IN reference county grid Marion County and elevation band 797 ft.
 
-FAQ: What slows recovery most? In Meridian Hills, IN, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Tip: Photograph ceiling stains with a ruler reference before tarping near ZIP 46260.
 
-Tip: Save local team notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 46260/46240.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Ask for a room-by-room disaster cleanup outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 46260.
+Plaster lathe ceilings in Meridian Hills, IN pre-war homes hold moisture behind skim coats longer than drywall.
 
-Insurance note: temporary remediation receipt and Allstate loss review were flagged for the Meridian Hills file.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Field note: Moisture logs were aligned with salvage routing in Meridian Hills, IN.
+Step: stage dehumidifier capacity against cubic footage and class of water.
 
-Field note: Equipment day-counts were reviewed around ZIP 46260/46240.
+Multi-story Meridian Hills, IN losses need vertical moisture migration checks on lower levels.
 
-Dispatch sectors sampled: ZIP 46260, 46240 (county grid: Marion County).
+Category-two losses in Meridian Hills, IN require antimicrobial staging decisions before rebuild quotes.
+
+Attic staining in Meridian Hills, IN may follow HVAC condensate rather than roof breaches.
+
+Psychrometric targets should be recorded before declaring a chamber dry.
+
+Crawlspace vapor barriers in Meridian Hills, IN may trap moisture if torn during extraction hose routing.
+
+FAQ: Which documents matter most? Incomplete photo logs and missing moisture maps commonly delay Meridian Hills, IN files.
+
+Loss trace 187281: extraction velocity notes and demolition threshold markers keyed to Meridian Hills, IN elevation 797 ft.
+
+Containment dossier 187281: poly barrier seams and HEPA scrubber hours keyed to Meridian Hills, IN grid Marion County.
+
+Mitigation trace: HEPA scrubber CFM log, subfloor MC probe, and flood cut elevation mark cross-indexed for Meridian Hills intake.
+
+On-site sector marker: Marion County / ZIP 46260 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46260-ebcd5c55

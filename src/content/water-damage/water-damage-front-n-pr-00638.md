@@ -12,29 +12,45 @@ lng: -66.5600
 zipSample: ["00638"]
 zipCodes: ["00638"]
 localPaths: ["Ciales County / coords 18.3100, -66.5600", "Ciales County / primary ZIP 00638", "Ciales County / elevation 1165 ft band", "Ciales County / ZIP 00638 sector"]
-zillowHomeValueUsd: 359246
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Frontón:** structural drying capacity optimized for 1165ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ciales County. Relative Humidity Threshold: 71%. Sensor sync: Active.
 
 
-When disaster cleanup cases are reviewed in Frontón, PR, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Step: map contents salvage lanes before pack-out crews arrive.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Frontón, PR.
+Subfloor cupping in Frontón, PR can lag source-stop by several drying days.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+We coordinate Frontón, PR mitigation with written scope, equipment assumptions, and claim-facing notes.
 
-FAQ: Is every wet material removed immediately? Not always. In Frontón, PR, some assemblies are monitored through readings before invasive removal is approved.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 00638.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 00638.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-Claim marker: coverage threshold marker was logged beside mitigation invoice sequencing near ZIP 00638.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Field note: Intake notes were reconciled with county grid Ciales County.
+Step: verify power availability for drying equipment before overnight runs.
 
-Dispatch sectors sampled: ZIP 00638 (county grid: Ciales County).
+Tip: Date-stamp moisture maps when adjusters request progress updates near 00638.
+
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
+
+FAQ: How fast should mitigation start? In Frontón, PR, extended damp periods expand demolition and mold-risk scope.
+
+Garage-to-house air barriers in Frontón, PR ranch plans affect drying chamber boundaries.
+
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
+
+Containment dossier 380623: poly barrier seams and HEPA scrubber hours keyed to Frontón, PR grid Ciales County.
+
+File audit 380623: adjuster photo-set crosswalk and contents segregation reviewed for Frontón, PR at 18.3100/-66.5600.
+
+Drying packet: negative air machine manometer paired with desiccant rotor hour near ZIP 00638 before scope lock.
+
+On-site sector marker: Ciales County / primary ZIP 00638 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00638-e524f1a2

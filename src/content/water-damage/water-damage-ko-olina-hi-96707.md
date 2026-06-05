@@ -12,28 +12,49 @@ lng: -158.1200
 zipSample: ["96707"]
 zipCodes: ["96707"]
 localPaths: ["Honolulu County / elevation 36 ft band", "Honolulu County / ZIP 96707 sector", "Honolulu County / coords 21.3400, -158.1200", "Honolulu County / primary ZIP 96707"]
-zillowHomeValueUsd: 860463
 ---
 
 **Engineering Notice for Ko Olina:** structural drying capacity optimized for 36ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Honolulu County. Relative Humidity Threshold: 78%. Sensor sync: Active.
 
 
-In Ko Olina, HI, structural drying requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Ko Olina, HI must be dried before reconstruction is discussed.
+Schedule extraction and drying as separate documented phases. File routing near 96707.
 
-Our intake team frames structural drying jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Step: label removed materials for disposal manifests and claim packets.
 
-FAQ: How fast should action start? In Ko Olina, HI, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Plaster lathe ceilings in Ko Olina, HI pre-war homes hold moisture behind skim coats longer than drywall.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 96707.
+Confirm power load assumptions before overnight equipment runs. County corridor Honolulu County.
 
-Book a field review and request a written structural drying scope before mitigation equipment is staged. Serving ZIP Code: 96707.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Claim marker: water category notation was logged beside adjuster photo-log near ZIP 96707.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Field note: Drying decisions were sequenced for ZIP sector 96707.
+Humidity pockets in Ko Olina, HI wall cavities can persist after visible drying on surfaces.
 
-Dispatch sectors sampled: ZIP 96707 (county grid: Honolulu County).
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Desiccant dehumidifier sizing in Ko Olina, HI commercial zones differs from LGR residential defaults.
+
+Odor control in Ko Olina, HI category-two losses may require hydroxyl cycles separate from dehumidification.
+
+Tip: Date-stamp moisture maps when adjusters request progress updates near 96707.
+
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
+
+Technicians stage HEPA scrubbers before containment zip doors in Ko Olina, HI kitchen losses.
+
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
+
+Stairwell chase moisture in Ko Olina, HI tri-level homes can lag main-floor readings by days.
+
+File audit 393000: adjuster photo-set crosswalk and contents segregation reviewed for Ko Olina, HI at 21.3400/-158.1200.
+
+Recovery map 393000: structural drying targets and rebuild handoff flags logged for Ko Olina, HI postal sector 96707.
+
+Loss file: ceiling cavity bore scope plus antimicrobial dwell clock referenced in Honolulu County county review.
+
+Regional mesh label Honolulu County: moisture and logistics baselines are keyed to Ko Olina, HI before niche-specific work begins.
 
 Service reference: HI-96707-7938f5f7

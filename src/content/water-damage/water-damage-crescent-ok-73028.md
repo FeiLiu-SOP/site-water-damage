@@ -12,28 +12,45 @@ lng: -97.5900
 zipSample: ["73028"]
 zipCodes: ["73028"]
 localPaths: ["Logan County / primary ZIP 73028", "Logan County / ZIP 73028 sector", "Logan County / elevation 1145 ft band", "Logan County / coords 35.9500, -97.5900"]
-zillowHomeValueUsd: 166211
 ---
 
 **Engineering Notice for Crescent:** structural drying capacity optimized for 1145ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Logan County. Relative Humidity Threshold: 85%. Sensor sync: Active.
 
 
-A water loss recovery event in Crescent, OK is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Category-two losses in Crescent, OK require antimicrobial staging decisions before rebuild quotes.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Crescent, OK.
+Elevated crawlspaces in Crescent, OK require vapor-retarder remediation before dehumidifier sizing.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Plaster lathe ceilings in Crescent, OK pre-war homes hold moisture behind skim coats longer than drywall.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Crescent, OK.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 73028.
+Radiant floor loops in Crescent, OK slab homes need isolated zones before jack-hammer exploration.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 73028.
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
 
-File control: recoverable depreciation was paired with depreciation worksheet during intake review in Crescent.
+Technicians stage HEPA scrubbers before containment zip doors in Crescent, OK kitchen losses.
 
-Field note: Intake notes were reconciled with county grid Logan County.
+FAQ: When is hardwood salvage realistic in Crescent, OK? Density, duration, and contamination class decide—not optimism.
 
-Dispatch sectors sampled: ZIP 73028 (county grid: Logan County).
+Stairwell chase moisture in Crescent, OK tri-level homes can lag main-floor readings by days.
+
+Tip: Save adjuster emails in one folder before calling back.
+
+Odor control in Crescent, OK category-two losses may require hydroxyl cycles separate from dehumidification.
+
+Subfloor cupping in Crescent, OK can lag source-stop by several drying days.
+
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+Psychrometric targets should be recorded before declaring a chamber dry.
+
+Containment dossier 714281: poly barrier seams and HEPA scrubber hours keyed to Crescent, OK grid Logan County.
+
+Rebuild bridge 714281: cabinet toe-kick probes and subfloor MC readings logged at 35.9500, -97.5900.
+
+Mitigation trace: vapor pressure differential, air mover amp draw, and grain depression target cross-indexed for Crescent intake.
+
+Regional mesh label Logan County: moisture and logistics baselines are keyed to Crescent, OK before niche-specific work begins.
 
 Service reference: OK-73028-06aecafd

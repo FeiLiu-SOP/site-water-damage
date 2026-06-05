@@ -12,28 +12,47 @@ lng: -81.9000
 zipSample: ["29333", "29307"]
 zipCodes: ["29333", "29307"]
 localPaths: ["Spartanburg County / coords 34.9800, -81.9000", "Spartanburg County / ZIP 29333 sector", "Spartanburg County / elevation 774 ft band", "Spartanburg County / primary ZIP 29333", "Spartanburg County / ZIP 29307 sector"]
-zillowHomeValueUsd: 150123
 ---
 
 **Engineering Notice for Drayton:** structural drying capacity optimized for 774ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Spartanburg County. Relative Humidity Threshold: 84%. Sensor sync: Active.
 
 
-A flood restoration event in Drayton, SC is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Multi-story Drayton, SC losses need vertical moisture migration checks on lower levels.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Drayton, SC.
+Our flood restoration intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Garage-to-house air barriers in Drayton, SC ranch plans affect drying chamber boundaries.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Drayton, SC.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 29307/29333.
+Odor control in Drayton, SC category-two losses may require hydroxyl cycles separate from dehumidification.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 29333.
+In Drayton, SC, flood restoration calls often start with moisture mapping before demolition is discussed.
 
-Insurance note: USAA property-loss packet and recoverable depreciation were flagged for the Drayton file.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 29333.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Drayton, SC.
+FAQ: When is hardwood salvage realistic in Drayton, SC? Density, duration, and contamination class decide—not optimism.
 
-Dispatch sectors sampled: ZIP 29307, 29333 (county grid: Spartanburg County).
+Risk flag: Incomplete claim packets in Drayton, SC often force duplicate site visits.
+
+Risk flag: Drayton, SC slab-on-grade homes may need core probes when perimeter walls read dry.
+
+Tip: Log refrigerator line shutoffs before moving units in Drayton, SC kitchen losses.
+
+Non-penetrating meter sweeps in Drayton, SC hallways often read dry while baseboards remain elevated.
+
+Cabinet toe-kick voids in Drayton, SC are common hidden moisture reservoirs.
+
+Material note: Insulation R-value targets in Drayton, SC should match pre-loss assemblies when documented.
+
+Category note 850585: water-class notation and antimicrobial staging captured for Drayton, SC intake packet.
+
+Loss trace 850585: extraction velocity notes and demolition threshold markers keyed to Drayton, SC elevation 774 ft.
+
+Drying packet: hardwood moisture strip paired with subfloor MC probe near ZIP 29333 before scope lock.
+
+Drying goal: structural targets aligned with Spartanburg County elevation mesh.
+
+Primary postal anchor 29333 with multi-ZIP overlap in Drayton; field packets tag Spartanburg County for county-grid reconciliation.
 
 Service reference: SC-29333-7285c870

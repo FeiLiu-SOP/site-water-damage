@@ -12,28 +12,45 @@ lng: -123.1100
 zipSample: ["97348"]
 zipCodes: ["97348"]
 localPaths: ["Linn County / primary ZIP 97348", "Linn County / ZIP 97348 sector", "Linn County / elevation 285 ft band", "Linn County / coords 44.3800, -123.1100"]
-zillowHomeValueUsd: 397654
 ---
 
 **Engineering Notice for Halsey:** structural drying capacity optimized for 285ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Linn County. Relative Humidity Threshold: 84%. Sensor sync: Active.
 
 
-In Halsey, OR, storm cleanup requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Risk flag: Halsey, OR slab-on-grade homes may need core probes when perimeter walls read dry.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Halsey, OR must be dried before reconstruction is discussed.
+Built-in bookcase cavities in Halsey, OR trap humidity behind fixed shelving.
 
-Our intake team frames storm cleanup jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Open a mitigation intake with drying targets and rebuild dependencies listed. County corridor Linn County.
 
-FAQ: How fast should action start? In Halsey, OR, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+FAQ: When is hardwood salvage realistic in Halsey, OR? Density, duration, and contamination class decide—not optimism.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 97348.
+IICRC reference: structural dry standards in Halsey, OR should be cited in scope documents.
 
-Book a field review and request a written storm cleanup scope before mitigation equipment is staged. Serving ZIP Code: 97348.
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
 
-Claim marker: recoverable depreciation was logged beside loss diary entry near ZIP 97348.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Field note: Intake notes were reconciled with county grid Linn County.
+Technicians stage HEPA scrubbers before containment zip doors in Halsey, OR kitchen losses.
 
-Dispatch sectors sampled: ZIP 97348 (county grid: Linn County).
+Ceiling collapse risk in Halsey, OR multi-family units rises when saturated insulation loads truss chords.
+
+Plaster lathe ceilings in Halsey, OR pre-war homes hold moisture behind skim coats longer than drywall.
+
+Tip: Log refrigerator line shutoffs before moving units in Halsey, OR kitchen losses.
+
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
+
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
+
+Desiccant dehumidifier sizing in Halsey, OR commercial zones differs from LGR residential defaults.
+
+Claim dossier 597533: pack-out ledger and humidity log bands filed for Halsey, OR county Linn County (ZIP 97348).
+
+Rebuild bridge 597533: cabinet toe-kick probes and subfloor MC readings logged at 44.3800, -123.1100.
+
+Drying packet: rebuild moisture clearance paired with flood cut elevation mark near ZIP 97348 before scope lock.
+
+On-site sector marker: Linn County / ZIP 97348 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97348-6331685e

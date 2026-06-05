@@ -12,30 +12,49 @@ lng: -85.1300
 zipSample: ["47031"]
 zipCodes: ["47031"]
 localPaths: ["Ripley County / elevation 997 ft band", "Ripley County / coords 39.1300, -85.1300", "Ripley County / primary ZIP 47031", "Ripley County / ZIP 47031 sector"]
-zillowHomeValueUsd: 274410
 ---
 
 **Engineering Notice for Milan:** structural drying capacity optimized for 997ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ripley County. Relative Humidity Threshold: 75%. Sensor sync: Active.
 
 
-A water mitigation event in Milan, IN is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Risk flag: In Milan, IN, delayed pack-out can swell cabinetry beyond salvage.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Milan, IN.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Step: reconcile carrier photo requirements before tear-out in Milan, IN.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Milan, IN.
+Thermal imaging in Milan, IN is scheduled after surface readings plateau for two cycles.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 47031.
+Step: document demolition justification with moisture meter readings.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 47031.
+Elevated crawlspaces in Milan, IN require vapor-retarder service before dehumidifier sizing.
 
-File control: State Farm coverage patterns was paired with mitigation invoice sequencing during intake review in Milan.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-Field note: Moisture logs were aligned with salvage routing in Milan, IN.
+Regulatory note: Milan, IN projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Milan, IN.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Dispatch sectors sampled: ZIP 47031 (county grid: Ripley County).
+Across Milan, IN, standing water duration drives salvage-versus-remove decisions within hours.
+
+Tip: Record when the water source was stopped and power restored in Milan, IN.
+
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+FAQ: Why isolate rooms? Containment concentrates dehumidification and protects unaffected areas.
+
+FAQ: When is hardwood salvage realistic in Milan, IN? Density, duration, and contamination class decide—not optimism.
+
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
+
+Loss trace 613357: extraction velocity notes and demolition threshold markers keyed to Milan, IN elevation 997 ft.
+
+Containment dossier 613357: poly barrier seams and HEPA scrubber hours keyed to Milan, IN grid Ripley County.
+
+Drying packet: ceiling cavity bore scope paired with pinless scan grid near ZIP 47031 before scope lock.
+
+Antimicrobial dwell: label minutes verified in Milan, IN loss zone.
+
+On-site sector marker: Ripley County / coords 39.1300, -85.1300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-47031-1fa60b3c

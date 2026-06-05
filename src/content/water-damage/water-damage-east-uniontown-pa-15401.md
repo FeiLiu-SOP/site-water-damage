@@ -12,28 +12,45 @@ lng: -79.7000
 zipSample: ["15401", "15445"]
 zipCodes: ["15445", "15401"]
 localPaths: ["Fayette County / coords 39.9000, -79.7000", "Fayette County / elevation 1145 ft band", "Fayette County / ZIP 15445 sector", "Fayette County / ZIP 15401 sector", "Fayette County / primary ZIP 15401"]
-zillowHomeValueUsd: 155372
 ---
 
 **Engineering Notice for East Uniontown:** structural drying capacity optimized for 1145ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fayette County. Relative Humidity Threshold: 81%. Sensor sync: Active.
 
 
-Property owners in East Uniontown, PA may see a flood restoration event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for East Uniontown, PA.
+Confirm power load assumptions before overnight equipment runs. County corridor Fayette County.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Humidity pockets in East Uniontown, PA wall cavities can persist after visible drying on surfaces.
 
-FAQ: What slows recovery most? In East Uniontown, PA, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+About us: We prioritize measurable drying evidence over headline speed claims.
 
-Tip: Save expert notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 15401/15445.
+Attic staining in East Uniontown, PA may follow HVAC condensate rather than roof breaches.
 
-Ask for a room-by-room flood restoration outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 15401.
+Contents pack-out in East Uniontown, PA should be photographed before movement off-site.
 
-Claim marker: Liberty Mutual mitigation notes was logged beside loss diary entry near ZIP 15401.
+FAQ: When is hardwood salvage realistic in East Uniontown, PA? Density, duration, and contamination class decide—not optimism.
 
-Field note: Moisture logs were aligned with salvage routing in East Uniontown, PA.
+Step: label removed materials for disposal manifests and claim packets.
 
-Dispatch sectors sampled: ZIP 15401, 15445 (county grid: Fayette County).
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+Garage slab moisture in East Uniontown, PA can wick into adjacent finished rooms.
+
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
+
+Step: separate emergency extraction from structural drying line items.
+
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
+
+Tip: List detached baseboards and removed insulation by room for claim traceability.
+
+Loss trace 279718: extraction velocity notes and demolition threshold markers keyed to East Uniontown, PA elevation 1145 ft.
+
+Equipment roster 279718: dehumidifier hour-meter and air-mover placement queued before East Uniontown, PA scope sign-off.
+
+Loss file: containment zipper door plus psychrometric chart band referenced in Fayette County county review.
+
+Regional mesh label Fayette County: moisture and logistics baselines are keyed to East Uniontown, PA before niche-specific work begins.
 
 Service reference: PA-15401-5fa9ce4f

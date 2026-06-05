@@ -12,30 +12,45 @@ lng: -97.1500
 zipSample: ["76226"]
 zipCodes: ["76226"]
 localPaths: ["Denton County / elevation 696 ft band", "Denton County / coords 33.0800, -97.1500", "Denton County / ZIP 76226 sector", "Denton County / primary ZIP 76226"]
-zillowHomeValueUsd: 575137
 ---
 
 **Engineering Notice for Bartonville:** structural drying capacity optimized for 696ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Denton County. Relative Humidity Threshold: 76%. Sensor sync: Active.
 
 
-A flood restoration event in Bartonville, TX is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Bartonville, TX.
+Multi-story Bartonville, TX losses need vertical moisture migration checks on lower levels.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Bartonville, TX.
+Our flood restoration intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 76226.
+Step: verify power availability for drying equipment before overnight runs.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 76226.
+Odor control in Bartonville, TX category-two losses may require hydroxyl cycles separate from dehumidification.
 
-Claim marker: water category notation was logged beside Farmers routing language near ZIP 76226.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Field note: Moisture logs were aligned with salvage routing in Bartonville, TX.
+Plaster lathe ceilings in Bartonville, TX pre-war homes hold moisture behind skim coats longer than drywall.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Bartonville, TX.
+FAQ: When is delay costly? In Bartonville, TX, extended damp periods expand demolition and mold-risk scope.
 
-Dispatch sectors sampled: ZIP 76226 (county grid: Denton County).
+Thermal imaging in Bartonville, TX is scheduled after surface readings plateau for two cycles.
+
+Schedule extraction and drying as separate documented phases. File routing near 76226.
+
+FAQ: Why isolate rooms? Containment concentrates dehumidification and protects unaffected areas.
+
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
+
+Psychrometric targets should be recorded before declaring a chamber dry.
+
+Category note 921740: water-class notation and antimicrobial staging captured for Bartonville, TX intake packet.
+
+Carrier sync 921740: depreciation worksheet lane and supplement language staged for ZIP 76226.
+
+Mitigation trace: structural dry standard, desiccant rotor hour, and demolition salvage tag cross-indexed for Bartonville intake.
+
+On-site sector marker: Denton County / coords 33.0800, -97.1500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76226-1207b344

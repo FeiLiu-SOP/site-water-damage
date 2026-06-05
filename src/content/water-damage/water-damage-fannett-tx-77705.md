@@ -12,30 +12,45 @@ lng: -94.2400
 zipSample: ["77705"]
 zipCodes: ["77705"]
 localPaths: ["Jefferson County / ZIP 77705 sector", "Jefferson County / coords 29.9300, -94.2400", "Jefferson County / elevation 39 ft band", "Jefferson County / primary ZIP 77705"]
-zillowHomeValueUsd: 135381
 ---
 
 **Engineering Notice for Fannett:** structural drying capacity optimized for 39ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 67%. Sensor sync: Active.
 
 
-Across Fannett, TX, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the storm cleanup file.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Storm Cleanup coordination in Fannett, TX is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Material note: Insulation R-value targets in Fannett, TX should match pre-loss assemblies when documented.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Fannett, TX are commonly checked when spread is suspected.
+FAQ: Will insurance cover pack-out? Carrier language and photo standards vary in Fannett, TX markets.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 77705.
+Step: map contents salvage lanes before pack-out crews arrive.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 77705.
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
 
-Coverage brief: USAA property-loss packet can change how mitigation invoice sequencing is documented before scheduling.
+FAQ: When is hardwood salvage realistic in Fannett, TX? Density, duration, and contamination class decide—not optimism.
 
-Field note: Intake notes were reconciled with county grid Jefferson County.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Field note: Drying decisions were sequenced for ZIP sector 77705.
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
 
-Dispatch sectors sampled: ZIP 77705 (county grid: Jefferson County).
+Category-two losses in Fannett, TX require antimicrobial staging decisions before rebuild quotes.
+
+Confirm power load assumptions before overnight equipment runs. County corridor Jefferson County.
+
+Townhome party walls in Fannett, TX can transfer vapor across unit lines during shared losses.
+
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+Step: stage dehumidifier capacity against cubic footage and class of water.
+
+Containment dossier 907447: poly barrier seams and HEPA scrubber hours keyed to Fannett, TX grid Jefferson County.
+
+File audit 907447: adjuster photo-set crosswalk and contents segregation reviewed for Fannett, TX at 29.9300/-94.2400.
+
+Loss file: air mover amp draw plus hardwood moisture strip referenced in Jefferson County county review.
+
+Regional mesh label Jefferson County: moisture and logistics baselines are keyed to Fannett, TX before niche-specific work begins.
 
 Service reference: TX-77705-060320d1

@@ -12,29 +12,45 @@ lng: -90.7700
 zipSample: ["38774"]
 zipCodes: ["38774"]
 localPaths: ["Bolivar County / elevation 161 ft band", "Bolivar County / coords 33.9500, -90.7700", "Bolivar County / ZIP 38774 sector", "Bolivar County / primary ZIP 38774"]
-zillowHomeValueUsd: 161025
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Shelby:** structural drying capacity optimized for 161ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bolivar County. Relative Humidity Threshold: 76%. Sensor sync: Active.
 
 
-A structural drying event in Shelby, MS is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+In Shelby, MS, structural drying calls often start with moisture mapping before demolition is discussed.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Shelby, MS.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Contents pack-out in Shelby, MS should be photographed before movement off-site.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Shelby, MS.
+Risk flag: Shelby, MS slab-on-grade homes may need core probes when perimeter walls read dry.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 38774.
+IICRC reference: structural dry standards in Shelby, MS should be cited in scope documents.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 38774.
+Technicians stage HEPA scrubbers before containment zip doors in Shelby, MS kitchen losses.
 
-File control: Farmers routing language was paired with depreciation worksheet during intake review in Shelby.
+We coordinate Shelby, MS mitigation with written scope, equipment assumptions, and claim-facing notes.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Shelby, MS.
+Plaster lathe ceilings in Shelby, MS pre-war homes hold moisture behind skim coats longer than drywall.
 
-Dispatch sectors sampled: ZIP 38774 (county grid: Bolivar County).
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
+
+Elevator pit flooding in Shelby, MS commercial stacks needs pump-out before cab service resumes.
+
+FAQ: Why isolate rooms? Containment concentrates dehumidification and protects unaffected areas.
+
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
+
+Ask for claim-facing photo standards before work begins. File routing near 38774.
+
+Material note: Insulation R-value targets in Shelby, MS should match pre-loss assemblies when documented.
+
+Carrier sync 584399: depreciation worksheet lane and supplement language staged for ZIP 38774.
+
+Loss trace 584399: extraction velocity notes and demolition threshold markers keyed to Shelby, MS elevation 161 ft.
+
+Mitigation trace: contents ozone quarantine, grain depression target, and pack-out chain-of-custody cross-indexed for Shelby intake.
+
+On-site sector marker: Bolivar County / elevation 161 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-38774-74d481fc

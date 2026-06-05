@@ -12,28 +12,47 @@ lng: -95.0000
 zipSample: ["77371"]
 zipCodes: ["77371"]
 localPaths: ["San Jacinto County / coords 30.4900, -95.0000", "San Jacinto County / primary ZIP 77371", "San Jacinto County / elevation 180 ft band", "San Jacinto County / ZIP 77371 sector"]
-zillowHomeValueUsd: 207392
 ---
 
 **Engineering Notice for Shepherd:** structural drying capacity optimized for 180ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Jacinto County. Relative Humidity Threshold: 80%. Sensor sync: Active.
 
 
-A flood recovery event in Shepherd, TX is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Technicians stage HEPA scrubbers before containment zip doors in Shepherd, TX kitchen losses.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Shepherd, TX.
+Regulatory note: Shepherd, TX projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Ask for claim-facing photo standards before work begins. File routing near 77371.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Shepherd, TX.
+Permit note: Rebuild phases in Shepherd, TX may need separate inspections from mitigation work.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 77371.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 77371.
+Crawlspace vapor barriers in Shepherd, TX may trap moisture if torn during extraction hose routing.
 
-Insurance note: loss diary entry and reserve change notes were flagged for the Shepherd file.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 77371.
 
-Field note: Intake notes were reconciled with county grid San Jacinto County.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Dispatch sectors sampled: ZIP 77371 (county grid: San Jacinto County).
+Ceiling collapse risk in Shepherd, TX multi-family units rises when saturated insulation loads truss chords.
+
+Risk flag: Incomplete claim packets in Shepherd, TX often force duplicate site visits.
+
+Across Shepherd, TX, standing water duration drives salvage-versus-remove decisions within hours.
+
+Tip: List detached baseboards and removed insulation by room for claim traceability.
+
+Psychrometric targets should be recorded before declaring a chamber dry.
+
+Step: log humidity and temperature readings at 24-hour intervals.
+
+FAQ: How fast should mitigation start? In Shepherd, TX, extended damp periods expand demolition and mold-risk scope.
+
+Containment dossier 307863: poly barrier seams and HEPA scrubber hours keyed to Shepherd, TX grid San Jacinto County.
+
+Carrier sync 307863: depreciation worksheet lane and supplement language staged for ZIP 77371.
+
+Drying packet: desiccant rotor hour paired with hardwood moisture strip near ZIP 77371 before scope lock.
+
+On-site sector marker: San Jacinto County / coords 30.4900, -95.0000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77371-9e9ff36c

@@ -12,29 +12,45 @@ lng: -66.4400
 zipSample: ["00674"]
 zipCodes: ["00674"]
 localPaths: ["Manatí County / primary ZIP 00674", "Manatí County / coords 18.4300, -66.4400", "Manatí County / elevation 282 ft band", "Manatí County / ZIP 00674 sector"]
-zillowHomeValueUsd: 375144
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Coto Norte:** structural drying capacity optimized for 282ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Manatí County. Relative Humidity Threshold: 66%. Sensor sync: Active.
 
 
-In Coto Norte, PR, disaster cleanup requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Coto Norte, PR must be dried before reconstruction is discussed.
+Garage-to-house air barriers in Coto Norte, PR ranch plans affect drying chamber boundaries.
 
-Our intake team frames disaster cleanup jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Built-in bookcase cavities in Coto Norte, PR trap humidity behind fixed shelving.
 
-FAQ: How fast should action start? In Coto Norte, PR, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Non-penetrating meter sweeps in Coto Norte, PR hallways often read dry while baseboards remain elevated.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 00674.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Book a field review and request a written disaster cleanup scope before mitigation equipment is staged. Serving ZIP Code: 00674.
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
 
-File control: reserve change notes was paired with USAA property-loss packet during intake review in Coto Norte.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-Field note: Intake notes were reconciled with county grid Manatí County.
+FAQ: Will insurance cover pack-out? Carrier language and photo standards vary in Coto Norte, PR markets.
 
-Dispatch sectors sampled: ZIP 00674 (county grid: Manatí County).
+Basement seepage in Coto Norte, PR may track foundation cracks rather than appliance failures.
+
+Attic staining in Coto Norte, PR may follow HVAC condensate rather than roof breaches.
+
+Technicians probe sill plates in Coto Norte, PR ranch layouts before declaring first-floor dry.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+In Coto Norte, PR, disaster cleanup calls often start with moisture mapping before demolition is discussed.
+
+Permit note: Rebuild phases in Coto Norte, PR may need separate inspections from mitigation work.
+
+Category note 901903: water-class notation and antimicrobial staging captured for Coto Norte, PR intake packet.
+
+Rebuild bridge 901903: cabinet toe-kick probes and subfloor MC readings logged at 18.4300, -66.4400.
+
+Mitigation trace: desiccant rotor hour, demolition salvage tag, and rebuild moisture clearance cross-indexed for Coto Norte intake.
+
+On-site sector marker: Manatí County / coords 18.4300, -66.4400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00674-8c1745a0

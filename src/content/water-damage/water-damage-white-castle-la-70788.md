@@ -12,30 +12,51 @@ lng: -91.1500
 zipSample: ["70788"]
 zipCodes: ["70788"]
 localPaths: ["Iberville Parish / elevation 36 ft band", "Iberville Parish / primary ZIP 70788", "Iberville Parish / coords 30.1600, -91.1500", "Iberville Parish / ZIP 70788 sector"]
-zillowHomeValueUsd: 130404
 ---
 
 **Engineering Notice for White Castle:** structural drying capacity optimized for 36ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Iberville Parish. Relative Humidity Threshold: 71%. Sensor sync: Active.
 
 
-Across White Castle, LA, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Carpet pad saturation in White Castle, LA frequently forces disposal even when face fiber appears dry.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the flood restoration file.
+Request room-by-room demolition thresholds tied to meter readings. Grid anchor 70788.
 
-Flood Restoration coordination in White Castle, LA is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Risk flag: White Castle, LA slab-on-grade homes may need core probes when perimeter walls read dry.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in White Castle, LA are commonly checked when spread is suspected.
+Plaster lathe ceilings in White Castle, LA pre-war homes hold moisture behind skim coats longer than drywall.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 70788.
+Step: label removed materials for disposal manifests and claim packets.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 70788.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-File control: contents-vs-structure split was paired with Allstate loss review during intake review in White Castle.
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in White Castle, LA.
+FAQ: Which documents matter most? Incomplete photo logs and missing moisture maps commonly delay White Castle, LA files.
 
-Field note: Drying decisions were sequenced for ZIP sector 70788.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Dispatch sectors sampled: ZIP 70788 (county grid: Iberville Parish).
+Thermal imaging in White Castle, LA is scheduled after surface readings plateau for two cycles.
+
+Material note: Insulation R-value targets in White Castle, LA should match pre-loss assemblies when documented.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
+
+Desiccant dehumidifier sizing in White Castle, LA commercial zones differs from LGR residential defaults.
+
+Crawlspace vapor barriers in White Castle, LA may trap moisture if torn during extraction hose routing.
+
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
+
+Loss trace 432341: extraction velocity notes and demolition threshold markers keyed to White Castle, LA elevation 36 ft.
+
+Rebuild bridge 432341: cabinet toe-kick probes and subfloor MC readings logged at 30.1600, -91.1500.
+
+Loss file: contents ozone quarantine plus antimicrobial dwell clock referenced in Iberville Parish county review.
+
+Thermal pass: infrared scan queued after second dry cycle in White Castle, LA.
+
+On-site sector marker: Iberville Parish / primary ZIP 70788 — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70788-66051ca3

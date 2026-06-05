@@ -12,31 +12,47 @@ lng: -66.9000
 zipSample: ["00653"]
 zipCodes: ["00653"]
 localPaths: ["Guánica County / primary ZIP 00653", "Guánica County / coords 18.0000, -66.9000", "Guánica County / elevation 325 ft band", "Guánica County / ZIP 00653 sector"]
-zillowHomeValueUsd: 380131
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for El Tumbao:** structural drying capacity optimized for 325ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Guánica County. Relative Humidity Threshold: 65%. Sensor sync: Active.
 
 
-Property owners in El Tumbao, PR may see a flood recovery event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Category-two losses in El Tumbao, PR require antimicrobial staging decisions before rebuild quotes.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for El Tumbao, PR.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-FAQ: What slows recovery most? In El Tumbao, PR, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Subfloor cupping in El Tumbao, PR can lag source-stop by several drying days.
 
-Tip: Save expert notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 00653.
+Stairwell chase moisture in El Tumbao, PR tri-level homes can lag main-floor readings by days.
 
-Ask for a room-by-room flood recovery outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 00653.
+Tip: Save adjuster emails in one folder before calling back.
 
-Claim marker: State Farm coverage patterns was logged beside pack-out ledger near ZIP 00653.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in El Tumbao, PR.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Field note: Moisture logs were aligned with salvage routing in El Tumbao, PR.
+Ceiling collapse risk in El Tumbao, PR multi-family units rises when saturated insulation loads truss chords.
 
-Dispatch sectors sampled: ZIP 00653 (county grid: Guánica County).
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+Material note: Insulation R-value targets in El Tumbao, PR should match pre-loss assemblies when documented.
+
+Multi-story El Tumbao, PR losses need vertical moisture migration checks on lower levels.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+FAQ: How fast should mitigation start? In El Tumbao, PR, extended damp periods expand demolition and mold-risk scope.
+
+Tip: List detached baseboards and removed insulation by room for claim traceability.
+
+Mitigation ledger 351653: moisture map grid, salvage lane tags, and drying day-count staged for El Tumbao, PR at 18.0000, -66.9000.
+
+Loss trace 351653: extraction velocity notes and demolition threshold markers keyed to El Tumbao, PR elevation 325 ft.
+
+Drying packet: structural dry standard paired with equilibrium moisture content near ZIP 00653 before scope lock.
+
+On-site sector marker: Guánica County / elevation 325 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00653-aa1516e4

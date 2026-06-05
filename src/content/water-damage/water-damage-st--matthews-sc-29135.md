@@ -12,30 +12,47 @@ lng: -80.7800
 zipSample: ["29135"]
 zipCodes: ["29135"]
 localPaths: ["Calhoun County / ZIP 29135 sector", "Calhoun County / primary ZIP 29135", "Calhoun County / coords 33.6600, -80.7800", "Calhoun County / elevation 285 ft band"]
-zillowHomeValueUsd: 177516
 ---
 
 **Engineering Notice for St. Matthews:** structural drying capacity optimized for 285ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Calhoun County. Relative Humidity Threshold: 70%. Sensor sync: Active.
 
 
-When structural drying cases are reviewed in St. Matthews, SC, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Schedule extraction and drying as separate documented phases. File routing near 29135.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for St. Matthews, SC.
+Thermal imaging in St. Matthews, SC is scheduled after surface readings plateau for two cycles.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+FAQ: What is a drying chamber? Containment concentrates dehumidification and protects unaffected areas.
 
-FAQ: Is every wet material removed immediately? Not always. In St. Matthews, SC, some assemblies are monitored through readings before invasive removal is approved.
+Technicians stage HEPA scrubbers before containment zip doors in St. Matthews, SC kitchen losses.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 29135.
+In St. Matthews, SC, structural drying calls often start with moisture mapping before demolition is discussed.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 29135.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-Claim marker: contents-vs-structure split was logged beside Allstate loss review near ZIP 29135.
+Tip: Save adjuster emails in one folder before calling back.
 
-Field note: Equipment day-counts were reviewed around ZIP 29135.
+Crawlspace vapor barriers in St. Matthews, SC may trap moisture if torn during extraction hose routing.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in St. Matthews, SC.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Dispatch sectors sampled: ZIP 29135 (county grid: Calhoun County).
+Plaster lathe ceilings in St. Matthews, SC pre-war homes hold moisture behind skim coats longer than drywall.
+
+Step: document demolition justification with moisture meter readings.
+
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
+
+Dispatch packets for St. Matthews, SC reference county grid Calhoun County and elevation band 285 ft.
+
+Risk flag: St. Matthews, SC slab-on-grade homes may need core probes when perimeter walls read dry.
+
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+Mitigation ledger 926147: moisture map grid, salvage lane tags, and drying day-count staged for St. Matthews, SC at 33.6600, -80.7800.
+
+Recovery map 926147: structural drying targets and rebuild handoff flags logged for St. Matthews, SC postal sector 29135.
+
+Mitigation trace: wall cavity vent hole, vapor pressure differential, and containment zipper door cross-indexed for St. Matthews intake.
+
+Coordinate-anchored dispatch note: center reference 33.6600, -80.7800 at elevation ~285 ft aligns with Calhoun County intake staging.
 
 Service reference: SC-29135-3112fa13

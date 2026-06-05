@@ -12,28 +12,49 @@ lng: -90.2500
 zipSample: ["63136"]
 zipCodes: ["63136"]
 localPaths: ["St. Louis County / elevation 492 ft band", "St. Louis County / coords 38.7600, -90.2500", "St. Louis County / ZIP 63136 sector", "St. Louis County / primary ZIP 63136"]
-zillowHomeValueUsd: 85959
 ---
 
 **Engineering Notice for Castle Point:** structural drying capacity optimized for 492ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Louis County. Relative Humidity Threshold: 80%. Sensor sync: Active.
 
 
-A storm cleanup event in Castle Point, MO is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+In Castle Point, MO, storm cleanup calls often start with moisture mapping before demolition is discussed.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Castle Point, MO.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Ceiling collapse risk in Castle Point, MO multi-family units rises when saturated insulation loads truss chords.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Castle Point, MO.
+Stairwell chase moisture in Castle Point, MO tri-level homes can lag main-floor readings by days.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 63136.
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 63136.
+Odor control in Castle Point, MO category-two losses may require hydroxyl cycles separate from dehumidification.
 
-File control: Claim filing codes was paired with water category notation during intake review in Castle Point.
+Non-penetrating meter sweeps in Castle Point, MO hallways often read dry while baseboards remain elevated.
 
-Field note: Moisture logs were aligned with salvage routing in Castle Point, MO.
+Garage-to-house air barriers in Castle Point, MO ranch plans affect drying chamber boundaries.
 
-Dispatch sectors sampled: ZIP 63136 (county grid: St. Louis County).
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
+
+Schedule extraction and drying as separate documented phases. File routing near 63136.
+
+Sump overflow in Castle Point, MO can masquerade as foundation infiltration.
+
+FAQ: When is delay costly? In Castle Point, MO, extended damp periods expand demolition and mold-risk scope.
+
+Radiant floor loops in Castle Point, MO slab homes need isolated zones before jack-hammer exploration.
+
+Technicians probe sill plates in Castle Point, MO ranch layouts before declaring first-floor dry.
+
+Regulatory note: Castle Point, MO projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
+
+Rebuild bridge 795683: cabinet toe-kick probes and subfloor MC readings logged at 38.7600, -90.2500.
+
+Claim dossier 795683: pack-out ledger and humidity log bands filed for Castle Point, MO county St. Louis County (ZIP 63136).
+
+Loss file: grain depression target plus desiccant rotor hour referenced in St. Louis County county review.
+
+Equipment log: hour-meters captured near postal anchor 63136.
+
+On-site sector marker: St. Louis County / elevation 492 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63136-a6bd9f94

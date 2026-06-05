@@ -12,28 +12,47 @@ lng: -108.3200
 zipSample: ["87416", "87401"]
 zipCodes: ["87401", "87416"]
 localPaths: ["San Juan County / primary ZIP 87401", "San Juan County / ZIP 87401 sector", "San Juan County / coords 36.7200, -108.3200", "San Juan County / ZIP 87416 sector", "San Juan County / elevation 5174 ft band"]
-zillowHomeValueUsd: 265347
 ---
 
 **Engineering Notice for Upper Fruitland:** structural drying capacity optimized for 5174ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Juan County. Relative Humidity Threshold: 72%. Sensor sync: Active.
 
 
-In Upper Fruitland, NM, water mitigation requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Upper Fruitland, NM must be dried before reconstruction is discussed.
+Elevated crawlspaces in Upper Fruitland, NM require vapor-retarder service before dehumidifier sizing.
 
-Our intake team frames water mitigation jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Request a written water mitigation scope with equipment list and target readings. Primary postal sector: 87401.
 
-FAQ: How fast should action start? In Upper Fruitland, NM, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Basement seepage in Upper Fruitland, NM may track foundation cracks rather than appliance failures.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 87401/87416.
+Technicians probe sill plates in Upper Fruitland, NM ranch layouts before declaring first-floor dry.
 
-Book a field review and request a written water mitigation scope before mitigation equipment is staged. Serving ZIP Code: 87401.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Claim marker: USAA property-loss packet was logged beside contents-vs-structure split near ZIP 87401.
+Plaster lathe ceilings in Upper Fruitland, NM pre-war homes hold moisture behind skim coats longer than drywall.
 
-Field note: Drying decisions were sequenced for ZIP sector 87401/87416.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-Dispatch sectors sampled: ZIP 87401, 87416 (county grid: San Juan County).
+Non-penetrating meter sweeps in Upper Fruitland, NM hallways often read dry while baseboards remain elevated.
+
+Permit note: Rebuild phases in Upper Fruitland, NM may need separate inspections from mitigation work.
+
+Tip: Log refrigerator line shutoffs before moving units in Upper Fruitland, NM kitchen losses.
+
+Tip: List detached baseboards and removed insulation by room for claim traceability.
+
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
+
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
+
+Mitigation ledger 222063: moisture map grid, salvage lane tags, and drying day-count staged for Upper Fruitland, NM at 36.7200, -108.3200.
+
+Rebuild bridge 222063: cabinet toe-kick probes and subfloor MC readings logged at 36.7200, -108.3200.
+
+Loss file: hardwood moisture strip plus demolition salvage tag referenced in San Juan County county review.
+
+Drying goal: structural targets aligned with San Juan County elevation mesh.
+
+On-site sector marker: San Juan County / coords 36.7200, -108.3200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-87401-5ec1b66e

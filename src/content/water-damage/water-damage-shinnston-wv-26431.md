@@ -12,30 +12,49 @@ lng: -80.3000
 zipSample: ["26431"]
 zipCodes: ["26431"]
 localPaths: ["Harrison County / primary ZIP 26431", "Harrison County / elevation 1112 ft band", "Harrison County / coords 39.3900, -80.3000", "Harrison County / ZIP 26431 sector"]
-zillowHomeValueUsd: 136279
 ---
 
 **Engineering Notice for Shinnston:** structural drying capacity optimized for 1112ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harrison County. Relative Humidity Threshold: 71%. Sensor sync: Active.
 
 
-Across Shinnston, WV, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the disaster cleanup file.
+Across Shinnston, WV, standing water duration drives salvage-versus-remove decisions within hours.
 
-Disaster Cleanup coordination in Shinnston, WV is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+FAQ: Who inventories contents? Carrier language and photo standards vary in Shinnston, WV markets.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Shinnston, WV are commonly checked when spread is suspected.
+Step: photograph standing water and material edges before extraction.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 26431.
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 26431.
+Request room-by-room demolition thresholds tied to meter readings. Grid anchor 26431.
 
-Coverage brief: State Farm coverage patterns can change how loss diary entry is documented before scheduling.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Field note: Equipment day-counts were reviewed around ZIP 26431.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Shinnston, WV.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 26431.
 
-Dispatch sectors sampled: ZIP 26431 (county grid: Harrison County).
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
+
+IICRC reference: structural dry standards in Shinnston, WV should be cited in scope documents.
+
+Radiant floor loops in Shinnston, WV slab homes need isolated zones before jack-hammer exploration.
+
+Townhome party walls in Shinnston, WV can transfer vapor across unit lines during shared losses.
+
+Technicians probe sill plates in Shinnston, WV ranch layouts before declaring first-floor dry.
+
+Psychrometric targets should be recorded before declaring a chamber dry.
+
+Category note 148998: water-class notation and antimicrobial staging captured for Shinnston, WV intake packet.
+
+Carrier sync 148998: depreciation worksheet lane and supplement language staged for ZIP 26431.
+
+Drying packet: air mover amp draw paired with category-three PPE log near ZIP 26431 before scope lock.
+
+Salvage lane: pack-out tags reconciled before off-site move in Shinnston, WV.
+
+ZIP-corridor snapshot for Shinnston, WV: sampled sectors include 26431; county routing grid remains Harrison County.
 
 Service reference: WV-26431-afba0ff4

@@ -12,30 +12,49 @@ lng: -94.3600
 zipSample: ["72932"]
 zipCodes: ["72932"]
 localPaths: ["Crawford County / ZIP 72932 sector", "Crawford County / coords 35.5800, -94.3600", "Crawford County / primary ZIP 72932", "Crawford County / elevation 899 ft band"]
-zillowHomeValueUsd: 250905
 ---
 
 **Engineering Notice for Cedarville:** structural drying capacity optimized for 899ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Crawford County. Relative Humidity Threshold: 83%. Sensor sync: Active.
 
 
-Across Cedarville, AR, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 72932.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the flood restoration file.
+Schedule extraction and drying as separate documented phases. File routing near 72932.
 
-Flood Restoration coordination in Cedarville, AR is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Risk flag: Cedarville, AR slab-on-grade homes may need core probes when perimeter walls read dry.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Cedarville, AR are commonly checked when spread is suspected.
+Thermal imaging in Cedarville, AR is scheduled after surface readings plateau for two cycles.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 72932.
+Tip: Log refrigerator line shutoffs before moving units in Cedarville, AR kitchen losses.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 72932.
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
 
-Coverage brief: water category notation can change how temporary remediation receipt is documented before scheduling.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-Field note: Drying decisions were sequenced for ZIP sector 72932.
+Elevated crawlspaces in Cedarville, AR require vapor-retarder remediation before dehumidifier sizing.
 
-Field note: Intake notes were reconciled with county grid Crawford County.
+Non-penetrating meter sweeps in Cedarville, AR hallways often read dry while baseboards remain elevated.
 
-Dispatch sectors sampled: ZIP 72932 (county grid: Crawford County).
+Tip: List detached baseboards and removed insulation by room for claim traceability.
+
+Desiccant dehumidifier sizing in Cedarville, AR commercial zones differs from LGR residential defaults.
+
+Request room-by-room demolition thresholds tied to meter readings. Grid anchor 72932.
+
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
+
+Plaster lathe ceilings in Cedarville, AR pre-war homes hold moisture behind skim coats longer than drywall.
+
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
+
+Odor control in Cedarville, AR category-two losses may require hydroxyl cycles separate from dehumidification.
+
+Claim dossier 577910: pack-out ledger and humidity log bands filed for Cedarville, AR county Crawford County (ZIP 72932).
+
+Rebuild bridge 577910: cabinet toe-kick probes and subfloor MC readings logged at 35.5800, -94.3600.
+
+Loss file: equilibrium moisture content plus HEPA scrubber CFM log referenced in Crawford County county review.
+
+Coordinate-anchored dispatch note: center reference 35.5800, -94.3600 at elevation ~899 ft aligns with Crawford County intake staging.
 
 Service reference: AR-72932-199c9a31

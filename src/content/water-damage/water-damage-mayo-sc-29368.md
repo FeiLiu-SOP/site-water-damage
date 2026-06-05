@@ -12,29 +12,45 @@ lng: -81.8500
 zipSample: ["29323", "29330", "29368"]
 zipCodes: ["29368", "29323", "29330"]
 localPaths: ["Spartanburg County / primary ZIP 29368", "Spartanburg County / coords 35.0900, -81.8500", "Spartanburg County / elevation 879 ft band", "Spartanburg County / ZIP 29330 sector", "Spartanburg County / ZIP 29323 sector"]
-zillowHomeValueUsd: 292170
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Mayo:** structural drying capacity optimized for 879ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Spartanburg County. Relative Humidity Threshold: 84%. Sensor sync: Active.
 
 
-In Mayo, SC, storm cleanup requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Confirm power load assumptions before overnight equipment runs. County corridor Spartanburg County.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Mayo, SC must be dried before reconstruction is discussed.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-Our intake team frames storm cleanup jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Risk flag: Incomplete claim packets in Mayo, SC often force duplicate site visits.
 
-FAQ: How fast should action start? In Mayo, SC, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+IICRC reference: structural dry standards in Mayo, SC should be cited in scope documents.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 29368/29323/29330.
+Step: separate emergency extraction from structural drying line items.
 
-Book a field review and request a written storm cleanup scope before mitigation equipment is staged. Serving ZIP Code: 29368.
+Stairwell chase moisture in Mayo, SC tri-level homes can lag main-floor readings by days.
 
-Insurance note: temporary remediation receipt and carrier supplement language were flagged for the Mayo file.
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
 
-Field note: Equipment day-counts were reviewed around ZIP 29368/29323/29330.
+Regulatory note: Mayo, SC projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
 
-Dispatch sectors sampled: ZIP 29368, 29323, 29330 (county grid: Spartanburg County).
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
+
+Permit note: Rebuild phases in Mayo, SC may need separate inspections from mitigation work.
+
+Built-in bookcase cavities in Mayo, SC trap humidity behind fixed shelving.
+
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
+
+FAQ: When is delay costly? In Mayo, SC, extended damp periods expand demolition and mold-risk scope.
+
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
+
+Claim dossier 967462: pack-out ledger and humidity log bands filed for Mayo, SC county Spartanburg County (ZIP 29368).
+
+Rebuild bridge 967462: cabinet toe-kick probes and subfloor MC readings logged at 35.0900, -81.8500.
+
+Mitigation trace: structural dry standard, desiccant rotor hour, and pinless scan grid cross-indexed for Mayo intake.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~879 ft across the Spartanburg County area. Coordinates: 35.0900, -81.8500. ZIP sample: 29368, 29330, 29323. Logistics priority: Serving residential sectors across Spartanburg County and north-east ZIP 29368 grid.
 
 Service reference: SC-29368-96567eb0

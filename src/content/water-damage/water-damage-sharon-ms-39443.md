@@ -12,30 +12,49 @@ lng: -89.1000
 zipSample: ["39443"]
 zipCodes: ["39443"]
 localPaths: ["Jones County / coords 31.7900, -89.1000", "Jones County / ZIP 39443 sector", "Jones County / elevation 315 ft band", "Jones County / primary ZIP 39443"]
-zillowHomeValueUsd: 173504
 ---
 
 **Engineering Notice for Sharon:** structural drying capacity optimized for 315ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jones County. Relative Humidity Threshold: 69%. Sensor sync: Active.
 
 
-Across Sharon, MS, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Stairwell chase moisture in Sharon, MS tri-level homes can lag main-floor readings by days.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the moisture restoration file.
+Open a mitigation intake with drying targets and rebuild dependencies listed. County corridor Jones County.
 
-Moisture Restoration coordination in Sharon, MS is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+About us: We prioritize measurable drying evidence over headline speed claims.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Sharon, MS are commonly checked when spread is suspected.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 39443.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 39443.
+Risk flag: Sharon, MS slab-on-grade homes may need core probes when perimeter walls read dry.
 
-File control: adjuster photo-log was paired with USAA property-loss packet during intake review in Sharon.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Field note: Moisture logs were aligned with salvage routing in Sharon, MS.
+FAQ: Why isolate rooms? Containment concentrates dehumidification and protects unaffected areas.
 
-Field note: Equipment day-counts were reviewed around ZIP 39443.
+Regulatory note: Sharon, MS projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
 
-Dispatch sectors sampled: ZIP 39443 (county grid: Jones County).
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+IICRC reference: structural dry standards in Sharon, MS should be cited in scope documents.
+
+Elevated crawlspaces in Sharon, MS require vapor-retarder restoration before dehumidifier sizing.
+
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
+
+Basement seepage in Sharon, MS may track foundation cracks rather than appliance failures.
+
+Crawlspace vapor barriers in Sharon, MS may trap moisture if torn during extraction hose routing.
+
+Equipment roster 898779: dehumidifier hour-meter and air-mover placement queued before Sharon, MS scope sign-off.
+
+Rebuild bridge 898779: cabinet toe-kick probes and subfloor MC readings logged at 31.7900, -89.1000.
+
+Drying packet: LGR condensate yield paired with category-three PPE log near ZIP 39443 before scope lock.
+
+ZIP-corridor snapshot for Sharon, MS: sampled sectors include 39443; county routing grid remains Jones County.
 
 Service reference: MS-39443-fa2318c7

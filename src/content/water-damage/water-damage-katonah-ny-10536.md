@@ -12,28 +12,47 @@ lng: -73.6900
 zipSample: ["10536"]
 zipCodes: ["10536"]
 localPaths: ["Westchester County / coords 41.2600, -73.6900", "Westchester County / primary ZIP 10536", "Westchester County / ZIP 10536 sector", "Westchester County / elevation 249 ft band"]
-zillowHomeValueUsd: 1075576
 ---
 
 **Engineering Notice for Katonah:** structural drying capacity optimized for 249ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Westchester County. Relative Humidity Threshold: 74%. Sensor sync: Active.
 
 
-Property owners in Katonah, NY may see a property drying event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Stairwell chase moisture in Katonah, NY tri-level homes can lag main-floor readings by days.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Katonah, NY.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 10536.
 
-FAQ: What slows recovery most? In Katonah, NY, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Material note: Insulation R-value targets in Katonah, NY should match pre-loss assemblies when documented.
 
-Tip: Save expert notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 10536.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Ask for a room-by-room property drying outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 10536.
+FAQ: Which documents matter most? Incomplete photo logs and missing moisture maps commonly delay Katonah, NY files.
 
-Insurance note: Farmers routing language and scope authorization code were flagged for the Katonah file.
+FAQ: Who inventories contents? Carrier language and photo standards vary in Katonah, NY markets.
 
-Field note: Drying decisions were sequenced for ZIP sector 10536.
+Tip: Record when the water source was stopped and power restored in Katonah, NY.
 
-Dispatch sectors sampled: ZIP 10536 (county grid: Westchester County).
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
+
+Thermal imaging in Katonah, NY is scheduled after surface readings plateau for two cycles.
+
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
+
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
+
+Risk flag: Incomplete claim packets in Katonah, NY often force duplicate site visits.
+
+Attic staining in Katonah, NY may follow HVAC condensate rather than roof breaches.
+
+Containment dossier 268686: poly barrier seams and HEPA scrubber hours keyed to Katonah, NY grid Westchester County.
+
+Mitigation ledger 268686: moisture map grid, salvage lane tags, and drying day-count staged for Katonah, NY at 41.2600, -73.6900.
+
+Mitigation trace: contents ozone quarantine, non-penetrating meter mode, and negative air machine manometer cross-indexed for Katonah intake.
+
+On-site sector marker: Westchester County / elevation 249 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-10536-350b034a

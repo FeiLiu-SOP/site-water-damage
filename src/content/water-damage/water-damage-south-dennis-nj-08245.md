@@ -12,29 +12,51 @@ lng: -74.8000
 zipSample: ["08245", "08210"]
 zipCodes: ["08245", "08210"]
 localPaths: ["Cape May County / ZIP 08210 sector", "Cape May County / elevation 30 ft band", "Cape May County / coords 39.1700, -74.8000", "Cape May County / ZIP 08245 sector", "Cape May County / primary ZIP 08245"]
-zillowHomeValueUsd: 667330
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for South Dennis:** structural drying capacity optimized for 30ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cape May County. Relative Humidity Threshold: 77%. Sensor sync: Active.
 
 
-Across South Dennis, NJ, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Contents pack-out in South Dennis, NJ should be photographed before movement off-site.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the flood recovery file.
+Built-in bookcase cavities in South Dennis, NJ trap humidity behind fixed shelving.
 
-Flood Recovery coordination in South Dennis, NJ is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+FAQ: What slows insurance review? Incomplete photo logs and missing moisture maps commonly delay South Dennis, NJ files.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in South Dennis, NJ are commonly checked when spread is suspected.
+Step: photograph standing water and material edges before extraction.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 08210/08245.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 08245.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Coverage brief: Farmers routing language can change how recoverable depreciation is documented before scheduling.
+Basement seepage in South Dennis, NJ may track foundation cracks rather than appliance failures.
 
-Field note: Moisture logs were aligned with salvage routing in South Dennis, NJ.
+Thermal imaging in South Dennis, NJ is scheduled after surface readings plateau for two cycles.
 
-Dispatch sectors sampled: ZIP 08210, 08245 (county grid: Cape May County).
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
+
+Step: document demolition justification with moisture meter readings.
+
+Step: map contents salvage lanes before pack-out crews arrive.
+
+Risk flag: South Dennis, NJ slab-on-grade homes may need core probes when perimeter walls read dry.
+
+Permit note: Rebuild phases in South Dennis, NJ may need separate inspections from mitigation work.
+
+Radiant floor loops in South Dennis, NJ slab homes need isolated zones before jack-hammer exploration.
+
+Stairwell chase moisture in South Dennis, NJ tri-level homes can lag main-floor readings by days.
+
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
+
+Equipment roster 609894: dehumidifier hour-meter and air-mover placement queued before South Dennis, NJ scope sign-off.
+
+Mitigation ledger 609894: moisture map grid, salvage lane tags, and drying day-count staged for South Dennis, NJ at 39.1700, -74.8000.
+
+Loss file: HEPA scrubber CFM log plus rebuild moisture clearance referenced in Cape May County county review.
+
+Thermal pass: infrared scan queued after second dry cycle in South Dennis, NJ.
+
+On-site sector marker: Cape May County / elevation 30 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-08245-32f0a280

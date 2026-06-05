@@ -12,30 +12,51 @@ lng: -89.2300
 zipSample: ["61723"]
 zipCodes: ["61723"]
 localPaths: ["Logan County / primary ZIP 61723", "Logan County / coords 40.2600, -89.2300", "Logan County / ZIP 61723 sector", "Logan County / elevation 719 ft band"]
-zillowHomeValueUsd: 160665
 ---
 
 **Engineering Notice for Atlanta:** structural drying capacity optimized for 719ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Logan County. Relative Humidity Threshold: 85%. Sensor sync: Active.
 
 
-A water mitigation event in Atlanta, IL is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Atlanta, IL.
+FAQ: Can I stay in the home during drying? Equipment noise, power load, and air quality guide that decision.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Atlanta, IL.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 61723.
+Open a mitigation intake with drying targets and rebuild dependencies listed. County corridor Logan County.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 61723.
+Step: verify power availability for drying equipment before overnight runs.
 
-Insurance note: Claim filing codes and USAA property-loss packet were flagged for the Atlanta file.
+Step: reconcile carrier photo requirements before tear-out in Atlanta, IL.
 
-Field note: Drying decisions were sequenced for ZIP sector 61723.
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Atlanta, IL.
+Material note: Insulation R-value targets in Atlanta, IL should match pre-loss assemblies when documented.
 
-Dispatch sectors sampled: ZIP 61723 (county grid: Logan County).
+Ceiling collapse risk in Atlanta, IL multi-family units rises when saturated insulation loads truss chords.
+
+Crawlspace vapor barriers in Atlanta, IL may trap moisture if torn during extraction hose routing.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Step: separate emergency extraction from structural drying line items.
+
+Step: document demolition justification with moisture meter readings.
+
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
+
+Odor control in Atlanta, IL category-two losses may require hydroxyl cycles separate from dehumidification.
+
+Mitigation ledger 101022: moisture map grid, salvage lane tags, and drying day-count staged for Atlanta, IL at 40.2600, -89.2300.
+
+Rebuild bridge 101022: cabinet toe-kick probes and subfloor MC readings logged at 40.2600, -89.2300.
+
+Mitigation trace: category-three PPE log, pack-out chain-of-custody, and HEPA scrubber CFM log cross-indexed for Atlanta intake.
+
+Salvage lane: pack-out tags reconciled before off-site move in Atlanta, IL.
+
+Coordinate-anchored dispatch note: center reference 40.2600, -89.2300 at elevation ~719 ft aligns with Logan County intake staging.
 
 Service reference: IL-61723-89d5d63a

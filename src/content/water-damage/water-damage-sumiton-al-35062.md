@@ -12,30 +12,49 @@ lng: -87.0500
 zipSample: ["35062", "35148"]
 zipCodes: ["35148", "35062"]
 localPaths: ["Walker County / ZIP 35148 sector", "Walker County / coords 33.7500, -87.0500", "Walker County / ZIP 35062 sector", "Walker County / primary ZIP 35062", "Walker County / elevation 456 ft band"]
-zillowHomeValueUsd: 181129
 ---
 
 **Engineering Notice for Sumiton:** structural drying capacity optimized for 456ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Walker County. Relative Humidity Threshold: 73%. Sensor sync: Active.
 
 
-Across Sumiton, AL, damaged drywall, pad, insulation, and trim are often separated into wet, damp, and salvageable groups before a schedule is approved.
+Garage-to-house air barriers in Sumiton, AL ranch plans affect drying chamber boundaries.
 
-A passive sequence is often used: affected rooms are isolated, readings are logged, extraction is assigned, and follow-up restoration planning is then issued for the structural drying file.
+Tip: List detached baseboards and removed insulation by room for claim traceability.
 
-Structural Drying coordination in Sumiton, AL is handled with staging notes, demolition thresholds, and humidity stabilization targets rather than vague one-line estimates.
+Risk flag: Sumiton, AL slab-on-grade homes may need core probes when perimeter walls read dry.
 
-FAQ: Can hidden cavities be reviewed? Yes. Cabinet backs, baseboards, and wall returns in Sumiton, AL are commonly checked when spread is suspected.
+Permit note: Rebuild phases in Sumiton, AL may need separate inspections from mitigation work.
 
-Tip: Keep a room-by-room list of contents movement, detached finishes, and temporary drying equipment around ZIP 35148/35062.
+Elevated crawlspaces in Sumiton, AL require vapor-retarder service before dehumidifier sizing.
 
-Request a loss summary and a mitigation path that clarifies salvage work, disposal bands, and rebuild dependencies. Serving ZIP Code: 35062.
+Request room-by-room demolition thresholds tied to meter readings. Grid anchor 35062.
 
-Coverage brief: contents-vs-structure split can change how Farmers routing language is documented before scheduling.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Field note: Drying decisions were sequenced for ZIP sector 35148/35062.
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Sumiton, AL.
+Step: photograph standing water and material edges before extraction.
 
-Dispatch sectors sampled: ZIP 35148, 35062 (county grid: Walker County).
+Technicians stage HEPA scrubbers before containment zip doors in Sumiton, AL kitchen losses.
+
+Risk flag: Incomplete claim packets in Sumiton, AL often force duplicate site visits.
+
+FAQ: When is hardwood salvage realistic in Sumiton, AL? Density, duration, and contamination class decide—not optimism.
+
+Crawlspace vapor barriers in Sumiton, AL may trap moisture if torn during extraction hose routing.
+
+About us: We prioritize measurable drying evidence over headline speed claims.
+
+Cabinet toe-kick voids in Sumiton, AL are common hidden moisture reservoirs.
+
+Carrier sync 723357: depreciation worksheet lane and supplement language staged for ZIP 35062.
+
+Containment dossier 723357: poly barrier seams and HEPA scrubber hours keyed to Sumiton, AL grid Walker County.
+
+Drying packet: demolition salvage tag paired with flood cut elevation mark near ZIP 35062 before scope lock.
+
+Demo gate: demolition checkpoints staged before rebuild handoff in Sumiton, AL.
+
+On-site sector marker: Walker County / elevation 456 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35062-dd70838c

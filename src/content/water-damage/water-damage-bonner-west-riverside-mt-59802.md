@@ -12,30 +12,47 @@ lng: -113.8900
 zipSample: ["59851", "59802"]
 zipCodes: ["59851", "59802"]
 localPaths: ["Missoula County / ZIP 59851 sector", "Missoula County / primary ZIP 59802", "Missoula County / ZIP 59802 sector", "Missoula County / elevation 3291 ft band", "Missoula County / coords 46.8800, -113.8900"]
-zillowHomeValueUsd: 551962
 ---
 
 **Engineering Notice for Bonner-West Riverside:** structural drying capacity optimized for 3291ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Missoula County. Relative Humidity Threshold: 72%. Sensor sync: Active.
 
 
-In Bonner-West Riverside, MT, water loss recovery requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Bonner-West Riverside, MT must be dried before reconstruction is discussed.
+Subfloor cupping in Bonner-West Riverside, MT can lag source-stop by several drying days.
 
-Our intake team frames water loss recovery jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Carpet pad saturation in Bonner-West Riverside, MT frequently forces disposal even when face fiber appears dry.
 
-FAQ: How fast should action start? In Bonner-West Riverside, MT, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 59802/59851.
+In Bonner-West Riverside, MT, water loss recovery calls often start with moisture mapping before demolition is discussed.
 
-Book a field review and request a written water loss recovery scope before mitigation equipment is staged. Serving ZIP Code: 59802.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Coverage brief: coverage threshold marker can change how mitigation invoice sequencing is documented before scheduling.
+Tip: Date-stamp moisture maps when adjusters request progress updates near 59802.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Bonner-West Riverside, MT.
+Schedule extraction and drying as separate documented phases. File routing near 59802.
 
-Field note: Equipment day-counts were reviewed around ZIP 59802/59851.
+Book salvage review before pack-out crews mobilize. Grid anchor 59802.
 
-Dispatch sectors sampled: ZIP 59802, 59851 (county grid: Missoula County).
+Plaster lathe ceilings in Bonner-West Riverside, MT pre-war homes hold moisture behind skim coats longer than drywall.
+
+IICRC reference: structural dry standards in Bonner-West Riverside, MT should be cited in scope documents.
+
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
+
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+Containment dossier 591134: poly barrier seams and HEPA scrubber hours keyed to Bonner-West Riverside, MT grid Missoula County.
+
+Category note 591134: water-class notation and antimicrobial staging captured for Bonner-West Riverside, MT intake packet.
+
+Mitigation trace: ceiling cavity bore scope, category-three PPE log, and demolition salvage tag cross-indexed for Bonner-West Riverside intake.
+
+Category review: loss class notation signed near ZIP 59802/59851.
+
+On-site sector marker: Missoula County / elevation 3291 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MT-59802-9765a3d6

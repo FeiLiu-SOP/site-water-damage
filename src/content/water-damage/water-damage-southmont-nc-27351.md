@@ -12,31 +12,45 @@ lng: -80.2700
 zipSample: ["27351", "27292"]
 zipCodes: ["27292", "27351"]
 localPaths: ["Davidson County / ZIP 27292 sector", "Davidson County / ZIP 27351 sector", "Davidson County / primary ZIP 27351", "Davidson County / elevation 725 ft band", "Davidson County / coords 35.6500, -80.2700"]
-zillowHomeValueUsd: 329555
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Southmont:** structural drying capacity optimized for 725ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Davidson County. Relative Humidity Threshold: 84%. Sensor sync: Active.
 
 
-When storm cleanup cases are reviewed in Southmont, NC, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+In Southmont, NC, storm cleanup calls often start with moisture mapping before demolition is discussed.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Southmont, NC.
+Townhome party walls in Southmont, NC can transfer vapor across unit lines during shared losses.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+FAQ: How fast should mitigation start? In Southmont, NC, extended damp periods expand demolition and mold-risk scope.
 
-FAQ: Is every wet material removed immediately? Not always. In Southmont, NC, some assemblies are monitored through readings before invasive removal is approved.
+Our storm cleanup intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 27292/27351.
+Material note: Vapor barriers in walls must be restored per manufacturer specs after flood cuts.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 27351.
+Permit note: Rebuild phases in Southmont, NC may need separate inspections from mitigation work.
 
-File control: scope authorization code was paired with Allstate loss review during intake review in Southmont.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Field note: Drying decisions were sequenced for ZIP sector 27292/27351.
+Tip: Log refrigerator line shutoffs before moving units in Southmont, NC kitchen losses.
 
-Field note: Moisture logs were aligned with salvage routing in Southmont, NC.
+Garage-to-house air barriers in Southmont, NC ranch plans affect drying chamber boundaries.
 
-Dispatch sectors sampled: ZIP 27292, 27351 (county grid: Davidson County).
+Technicians stage HEPA scrubbers before containment zip doors in Southmont, NC kitchen losses.
+
+FAQ: Will insurance cover pack-out? Carrier language and photo standards vary in Southmont, NC markets.
+
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
+
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
+
+Carpet pad saturation in Southmont, NC frequently forces disposal even when face fiber appears dry.
+
+File audit 161730: adjuster photo-set crosswalk and contents segregation reviewed for Southmont, NC at 35.6500/-80.2700.
+
+Equipment roster 161730: dehumidifier hour-meter and air-mover placement queued before Southmont, NC scope sign-off.
+
+Drying packet: negative air machine manometer paired with psychrometric chart band near ZIP 27351 before scope lock.
+
+On-site sector marker: Davidson County / ZIP 27351 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-27351-788d30a1

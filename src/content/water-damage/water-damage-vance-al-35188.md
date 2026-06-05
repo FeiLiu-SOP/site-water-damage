@@ -12,28 +12,45 @@ lng: -87.2300
 zipSample: ["35188", "35490"]
 zipCodes: ["35490", "35188"]
 localPaths: ["Tuscaloosa County / coords 33.1700, -87.2300", "Tuscaloosa County / elevation 558 ft band", "Tuscaloosa County / ZIP 35188 sector", "Tuscaloosa County / ZIP 35490 sector", "Tuscaloosa County / primary ZIP 35188"]
-zillowHomeValueUsd: 224958
 ---
 
 **Engineering Notice for Vance:** structural drying capacity optimized for 558ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tuscaloosa County. Relative Humidity Threshold: 65%. Sensor sync: Active.
 
 
-When water loss recovery cases are reviewed in Vance, AL, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Tip: Log refrigerator line shutoffs before moving units in Vance, AL kitchen losses.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Vance, AL.
+Carpet pad saturation in Vance, AL frequently forces disposal even when face fiber appears dry.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Subfloor cupping in Vance, AL can lag source-stop by several drying days.
 
-FAQ: Is every wet material removed immediately? Not always. In Vance, AL, some assemblies are monitored through readings before invasive removal is approved.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 35490/35188.
+Desiccant dehumidifier sizing in Vance, AL commercial zones differs from LGR residential defaults.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 35188.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Insurance note: pack-out ledger and contents-vs-structure split were flagged for the Vance file.
+Tip: Photograph ceiling stains with a ruler reference before tarping near ZIP 35188.
 
-Field note: Moisture logs were aligned with salvage routing in Vance, AL.
+Material note: Insulation R-value targets in Vance, AL should match pre-loss assemblies when documented.
 
-Dispatch sectors sampled: ZIP 35490, 35188 (county grid: Tuscaloosa County).
+Step: label removed materials for disposal manifests and claim packets.
+
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
+
+Step: map contents salvage lanes before pack-out crews arrive.
+
+Tip: List detached baseboards and removed insulation by room for claim traceability.
+
+FAQ: Which documents matter most? Incomplete photo logs and missing moisture maps commonly delay Vance, AL files.
+
+Non-penetrating meter sweeps in Vance, AL hallways often read dry while baseboards remain elevated.
+
+Mitigation ledger 780647: moisture map grid, salvage lane tags, and drying day-count staged for Vance, AL at 33.1700, -87.2300.
+
+Category note 780647: water-class notation and antimicrobial staging captured for Vance, AL intake packet.
+
+Loss file: subfloor MC probe plus contents ozone quarantine referenced in Tuscaloosa County county review.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Tuscaloosa County and primary ZIP 35188. Terrain reference: 558 ft. Center point: 33.1700, -87.2300. ZIP sample: 35188, 35490. Regional routing note: Tuscaloosa County traffic flow is balanced around ZIP 35188 service demand.
 
 Service reference: AL-35188-e1a95669

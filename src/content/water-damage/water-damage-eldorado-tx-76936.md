@@ -12,31 +12,49 @@ lng: -100.6000
 zipSample: ["76936"]
 zipCodes: ["76936"]
 localPaths: ["Schleicher County / primary ZIP 76936", "Schleicher County / ZIP 76936 sector", "Schleicher County / coords 30.8600, -100.6000", "Schleicher County / elevation 2441 ft band"]
-zillowHomeValueUsd: 300945
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Eldorado:** structural drying capacity optimized for 2441ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Schleicher County. Relative Humidity Threshold: 81%. Sensor sync: Active.
 
 
-Property owners in Eldorado, TX may see a disaster cleanup event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Eldorado, TX.
+Desiccant dehumidifier sizing in Eldorado, TX commercial zones differs from LGR residential defaults.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Step: map contents salvage lanes before pack-out crews arrive.
 
-FAQ: What slows recovery most? In Eldorado, TX, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Basement seepage in Eldorado, TX may track foundation cracks rather than appliance failures.
 
-Tip: Save local team notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 76936.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Ask for a room-by-room disaster cleanup outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 76936.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Claim marker: carrier supplement language was logged beside depreciation worksheet near ZIP 76936.
+Thermal imaging in Eldorado, TX is scheduled after surface readings plateau for two cycles.
 
-Field note: Intake notes were reconciled with county grid Schleicher County.
+Elevated crawlspaces in Eldorado, TX require vapor-retarder remediation before dehumidifier sizing.
 
-Field note: Equipment day-counts were reviewed around ZIP 76936.
+Confirm power load assumptions before overnight equipment runs. County corridor Schleicher County.
 
-Dispatch sectors sampled: ZIP 76936 (county grid: Schleicher County).
+Radiant floor loops in Eldorado, TX slab homes need isolated zones before jack-hammer exploration.
+
+Category-two losses in Eldorado, TX require antimicrobial staging decisions before rebuild quotes.
+
+Ceiling collapse risk in Eldorado, TX multi-family units rises when saturated insulation loads truss chords.
+
+FAQ: When is hardwood salvage realistic in Eldorado, TX? Density, duration, and contamination class decide—not optimism.
+
+Subfloor cupping in Eldorado, TX can lag source-stop by several drying days.
+
+FAQ: Who inventories contents? Carrier language and photo standards vary in Eldorado, TX markets.
+
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
+
+Loss trace 913736: extraction velocity notes and demolition threshold markers keyed to Eldorado, TX elevation 2441 ft.
+
+Mitigation ledger 913736: moisture map grid, salvage lane tags, and drying day-count staged for Eldorado, TX at 30.8600, -100.6000.
+
+Loss file: wall cavity vent hole plus subfloor MC probe referenced in Schleicher County county review.
+
+ZIP-corridor snapshot for Eldorado, TX: sampled sectors include 76936; county routing grid remains Schleicher County.
 
 Service reference: TX-76936-f7bdc291

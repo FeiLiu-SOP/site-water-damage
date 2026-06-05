@@ -12,30 +12,49 @@ lng: -89.0200
 zipSample: ["62550"]
 zipCodes: ["62550"]
 localPaths: ["Shelby County / coords 39.6300, -89.0200", "Shelby County / ZIP 62550 sector", "Shelby County / elevation 640 ft band", "Shelby County / primary ZIP 62550"]
-zillowHomeValueUsd: 165790
 ---
 
 **Engineering Notice for Moweaqua:** structural drying capacity optimized for 640ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Shelby County. Relative Humidity Threshold: 74%. Sensor sync: Active.
 
 
-A flood restoration event in Moweaqua, IL is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Step: document demolition justification with moisture meter readings.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Moweaqua, IL.
+Non-penetrating meter sweeps in Moweaqua, IL hallways often read dry while baseboards remain elevated.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Technicians stage HEPA scrubbers before containment zip doors in Moweaqua, IL kitchen losses.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Moweaqua, IL.
+Safety note: Category-three losses require PPE and containment protocols before occupant re-entry.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 62550.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 62550.
+Material note: Insulation R-value targets in Moweaqua, IL should match pre-loss assemblies when documented.
 
-Claim marker: Allstate loss review was logged beside reserve change notes near ZIP 62550.
+Garage slab moisture in Moweaqua, IL can wick into adjacent finished rooms.
 
-Field note: Equipment day-counts were reviewed around ZIP 62550.
+Attic staining in Moweaqua, IL may follow HVAC condensate rather than roof breaches.
 
-Field note: Moisture logs were aligned with salvage routing in Moweaqua, IL.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Dispatch sectors sampled: ZIP 62550 (county grid: Shelby County).
+Plaster lathe ceilings in Moweaqua, IL pre-war homes hold moisture behind skim coats longer than drywall.
+
+Risk flag: In Moweaqua, IL, delayed pack-out can swell cabinetry beyond salvage.
+
+Stairwell chase moisture in Moweaqua, IL tri-level homes can lag main-floor readings by days.
+
+Risk flag: Moweaqua, IL slab-on-grade homes may need core probes when perimeter walls read dry.
+
+Tip: Record when the water source was stopped and power restored in Moweaqua, IL.
+
+Cabinet toe-kick voids in Moweaqua, IL are common hidden moisture reservoirs.
+
+Loss trace 292694: extraction velocity notes and demolition threshold markers keyed to Moweaqua, IL elevation 640 ft.
+
+Containment dossier 292694: poly barrier seams and HEPA scrubber hours keyed to Moweaqua, IL grid Shelby County.
+
+Loss file: air mover amp draw plus structural dry standard referenced in Shelby County county review.
+
+Category review: loss class notation signed near ZIP 62550.
+
+On-site sector marker: Shelby County / ZIP 62550 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62550-0bcd0c46

@@ -12,28 +12,49 @@ lng: -97.9500
 zipSample: ["73529"]
 zipCodes: ["73529"]
 localPaths: ["Stephens County / elevation 1033 ft band", "Stephens County / coords 34.3600, -97.9500", "Stephens County / ZIP 73529 sector", "Stephens County / primary ZIP 73529"]
-zillowHomeValueUsd: 132865
 ---
 
 **Engineering Notice for Comanche:** structural drying capacity optimized for 1033ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stephens County. Relative Humidity Threshold: 85%. Sensor sync: Active.
 
 
-In Comanche, OK, moisture restoration requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Regulatory note: Comanche, OK projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Comanche, OK must be dried before reconstruction is discussed.
+Contents pack-out in Comanche, OK should be photographed before movement off-site.
 
-Our intake team frames moisture restoration jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Step: stage dehumidifier capacity against cubic footage and class of water.
 
-FAQ: How fast should action start? In Comanche, OK, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Tip: Keep humidity logs if you run consumer dehumidifiers overnight.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 73529.
+Step: isolate affected rooms with poly barriers before air-mover placement in Comanche, OK.
 
-Book a field review and request a written moisture restoration scope before mitigation equipment is staged. Serving ZIP Code: 73529.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Insurance note: Claim filing codes and adjuster photo-log were flagged for the Comanche file.
+Built-in bookcase cavities in Comanche, OK trap humidity behind fixed shelving.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in Comanche, OK.
+Ceiling collapse risk in Comanche, OK multi-family units rises when saturated insulation loads truss chords.
 
-Dispatch sectors sampled: ZIP 73529 (county grid: Stephens County).
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
+
+In Comanche, OK, moisture restoration calls often start with moisture mapping before demolition is discussed.
+
+Tip: Log refrigerator line shutoffs before moving units in Comanche, OK kitchen losses.
+
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
+
+Freeze-burst events in Comanche, OK often damage multiple wall bays before owners notice flow.
+
+Odor control in Comanche, OK category-two losses may require hydroxyl cycles separate from dehumidification.
+
+Permit note: Rebuild phases in Comanche, OK may need separate inspections from mitigation work.
+
+Loss trace 779919: extraction velocity notes and demolition threshold markers keyed to Comanche, OK elevation 1033 ft.
+
+Mitigation ledger 779919: moisture map grid, salvage lane tags, and drying day-count staged for Comanche, OK at 34.3600, -97.9500.
+
+Drying packet: category-three PPE log paired with desiccant rotor hour near ZIP 73529 before scope lock.
+
+On-site sector marker: Stephens County / coords 34.3600, -97.9500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-73529-ce3ad1aa

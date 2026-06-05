@@ -12,28 +12,47 @@ lng: -97.9700
 zipSample: ["78596"]
 zipCodes: ["78596"]
 localPaths: ["Hidalgo County / primary ZIP 78596", "Hidalgo County / ZIP 78596 sector", "Hidalgo County / coords 26.1300, -97.9700", "Hidalgo County / elevation 92 ft band"]
-zillowHomeValueUsd: 170120
 ---
 
 **Engineering Notice for Llano Grande:** structural drying capacity optimized for 92ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hidalgo County. Relative Humidity Threshold: 66%. Sensor sync: Active.
 
 
-A water loss recovery event in Llano Grande, TX is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Townhome party walls in Llano Grande, TX can transfer vapor across unit lines during shared losses.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Llano Grande, TX.
+Material note: Insulation R-value targets in Llano Grande, TX should match pre-loss assemblies when documented.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Llano Grande, TX.
+Step: map contents salvage lanes before pack-out crews arrive.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 78596.
+Material note: Hardwood acclimation windows apply before reinstallation after subfloor drying.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 78596.
+Tip: Record when the water source was stopped and power restored in Llano Grande, TX.
 
-Insurance note: temporary service receipt and mitigation invoice sequencing were flagged for the Llano Grande file.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-Field note: Moisture logs were aligned with salvage routing in Llano Grande, TX.
+Garage slab moisture in Llano Grande, TX can wick into adjacent finished rooms.
 
-Dispatch sectors sampled: ZIP 78596 (county grid: Hidalgo County).
+Request a written water loss recovery scope with equipment list and target readings. Primary postal sector: 78596.
+
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
+
+Plaster lathe ceilings in Llano Grande, TX pre-war homes hold moisture behind skim coats longer than drywall.
+
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
+
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
+
+Humidity pockets in Llano Grande, TX wall cavities can persist after visible drying on surfaces.
+
+Anti-microbial fogging does not replace removal of porous contaminated materials.
+
+Rebuild bridge 638397: cabinet toe-kick probes and subfloor MC readings logged at 26.1300, -97.9700.
+
+Carrier sync 638397: depreciation worksheet lane and supplement language staged for ZIP 78596.
+
+Loss file: negative air machine manometer plus equilibrium moisture content referenced in Hidalgo County county review.
+
+On-site sector marker: Hidalgo County / ZIP 78596 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78596-d39e0063

@@ -12,28 +12,47 @@ lng: -89.6900
 zipSample: ["38611"]
 zipCodes: ["38611"]
 localPaths: ["Marshall County / primary ZIP 38611", "Marshall County / coords 34.8700, -89.6900", "Marshall County / elevation 381 ft band", "Marshall County / ZIP 38611 sector"]
-zillowHomeValueUsd: 273450
 ---
 
 **Engineering Notice for Byhalia:** structural drying capacity optimized for 381ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marshall County. Relative Humidity Threshold: 76%. Sensor sync: Active.
 
 
-A water loss recovery event in Byhalia, MS is usually interpreted as a logistics problem, a documentation problem, and a stabilization problem all at once.
+Regulatory note: Byhalia, MS projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
 
-Rooms are scored, salvage lanes are assigned, drying hardware is staged, and only after those steps are complete is a restoration calendar proposed for Byhalia, MS.
+Tip: Photograph ceiling stains with a ruler reference before tarping near ZIP 38611.
 
-We structure intake around measurable evidence: moisture readings, demolition justifications, claim-facing notes, and practical access windows.
+Garage-to-house air barriers in Byhalia, MS ranch plans affect drying chamber boundaries.
 
-FAQ: Why do two nearby losses behave differently? Material stack-ups, ventilation, prior repairs, and claim timing can produce very different restoration paths in Byhalia, MS.
+Step: photograph standing water and material edges before extraction.
 
-Tip: Keep a running ledger of removed finishes, pack-out items, and drying-day counts for ZIP 38611.
+Contents pack-out in Byhalia, MS should be photographed before movement off-site.
 
-Request a written recovery path that separates extraction, demolition, claim notes, and rebuild handoff. Serving ZIP Code: 38611.
+Townhome party walls in Byhalia, MS can transfer vapor across unit lines during shared losses.
 
-Claim marker: pack-out ledger was logged beside reserve change notes near ZIP 38611.
+We coordinate Byhalia, MS mitigation with written scope, equipment assumptions, and claim-facing notes.
 
-Field note: Equipment day-counts were reviewed around ZIP 38611.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-Dispatch sectors sampled: ZIP 38611 (county grid: Marshall County).
+Built-in bookcase cavities in Byhalia, MS trap humidity behind fixed shelving.
+
+FAQ: Why isolate rooms? Containment concentrates dehumidification and protects unaffected areas.
+
+Step: stage dehumidifier capacity against cubic footage and class of water.
+
+Elevated crawlspaces in Byhalia, MS require vapor-retarder restoration before dehumidifier sizing.
+
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
+
+Tip: Avoid painting over damp drywall even if the surface feels dry to touch.
+
+Containment dossier 475300: poly barrier seams and HEPA scrubber hours keyed to Byhalia, MS grid Marshall County.
+
+Loss trace 475300: extraction velocity notes and demolition threshold markers keyed to Byhalia, MS elevation 381 ft.
+
+Mitigation trace: hardwood moisture strip, air mover amp draw, and vapor pressure differential cross-indexed for Byhalia intake.
+
+Demo gate: demolition checkpoints staged before rebuild handoff in Byhalia, MS.
+
+On-site sector marker: Marshall County / primary ZIP 38611 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-38611-d83e88c9

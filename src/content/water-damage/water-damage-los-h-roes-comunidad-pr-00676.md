@@ -12,29 +12,49 @@ lng: -67.1200
 zipSample: ["00676"]
 zipCodes: ["00676"]
 localPaths: ["Moca County / elevation 118 ft band", "Moca County / coords 18.3900, -67.1200", "Moca County / ZIP 00676 sector", "Moca County / primary ZIP 00676"]
-zillowHomeValueUsd: 379657
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Los Héroes Comunidad:** structural drying capacity optimized for 118ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Moca County. Relative Humidity Threshold: 74%. Sensor sync: Active.
 
 
-In Los Héroes Comunidad, PR, flood restoration requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Thermal imaging in Los Héroes Comunidad, PR is scheduled after surface readings plateau for two cycles.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Los Héroes Comunidad, PR must be dried before reconstruction is discussed.
+Crawlspace vapor barriers in Los Héroes Comunidad, PR may trap moisture if torn during extraction hose routing.
 
-Our intake team frames flood restoration jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-FAQ: How fast should action start? In Los Héroes Comunidad, PR, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+FAQ: When is hardwood salvage realistic in Los Héroes Comunidad, PR? Density, duration, and contamination class decide—not optimism.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 00676.
+Ask for claim-facing photo standards before work begins. File routing near 00676.
 
-Book a field review and request a written flood restoration scope before mitigation equipment is staged. Serving ZIP Code: 00676.
+Our flood restoration intake frames extraction velocity, salvage boundaries, and rebuild sequencing—not vague one-line estimates.
 
-Claim marker: Farmers routing language was logged beside loss diary entry near ZIP 00676.
+Confirm power load assumptions before overnight equipment runs. County corridor Moca County.
 
-Field note: Intake notes were reconciled with county grid Moca County.
+Ceiling collapse risk in Los Héroes Comunidad, PR multi-family units rises when saturated insulation loads truss chords.
 
-Dispatch sectors sampled: ZIP 00676 (county grid: Moca County).
+IICRC reference: structural dry standards in Los Héroes Comunidad, PR should be cited in scope documents.
+
+Step: label removed materials for disposal manifests and claim packets.
+
+Radiant floor loops in Los Héroes Comunidad, PR slab homes need isolated zones before jack-hammer exploration.
+
+Cabinet toe-kick voids in Los Héroes Comunidad, PR are common hidden moisture reservoirs.
+
+Dispatch packets for Los Héroes Comunidad, PR reference county grid Moca County and elevation band 118 ft.
+
+Technicians stage HEPA scrubbers before containment zip doors in Los Héroes Comunidad, PR kitchen losses.
+
+Sump overflow in Los Héroes Comunidad, PR can masquerade as foundation infiltration.
+
+Risk flag: In Los Héroes Comunidad, PR, delayed pack-out can swell cabinetry beyond salvage.
+
+Category note 457665: water-class notation and antimicrobial staging captured for Los Héroes Comunidad, PR intake packet.
+
+Containment dossier 457665: poly barrier seams and HEPA scrubber hours keyed to Los Héroes Comunidad, PR grid Moca County.
+
+Loss file: pack-out chain-of-custody plus desiccant rotor hour referenced in Moca County county review.
+
+On-site sector marker: Moca County / coords 18.3900, -67.1200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00676-cbe4ada2

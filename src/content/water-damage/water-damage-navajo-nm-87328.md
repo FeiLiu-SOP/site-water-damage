@@ -12,31 +12,51 @@ lng: -109.0300
 zipSample: ["87328"]
 zipCodes: ["87328"]
 localPaths: ["McKinley County / elevation 7152 ft band", "McKinley County / ZIP 87328 sector", "McKinley County / coords 35.9000, -109.0300", "McKinley County / primary ZIP 87328"]
-zillowHomeValueUsd: 314446
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Navajo:** structural drying capacity optimized for 7152ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McKinley County. Relative Humidity Threshold: 69%. Sensor sync: Active.
 
 
-When property drying cases are reviewed in Navajo, NM, the first question is often not 'how much demo?' but 'which assemblies can still be preserved under an evidence-based drying plan?'
+Risk flag: Navajo, NM slab-on-grade homes may need core probes when perimeter walls read dry.
 
-The file is commonly triaged in reverse order: final rebuild dependencies are listed, salvage constraints are back-mapped, and only then is extraction sequencing fixed for Navajo, NM.
+FAQ: Who inventories contents? Carrier language and photo standards vary in Navajo, NM markets.
 
-Our scheduling language is built for claim review, which means cycle time, deductible sensitivity, and contents segregation are discussed alongside drying goals.
+Regulatory note: Navajo, NM projects may require asbestos or lead assessments before invasive demolition in pre-1980 housing.
 
-FAQ: Is every wet material removed immediately? Not always. In Navajo, NM, some assemblies are monitored through readings before invasive removal is approved.
+Stairwell chase moisture in Navajo, NM tri-level homes can lag main-floor readings by days.
 
-Tip: Record when power was restored, when the source was stopped, and which rooms remained closed off near ZIP 87328.
+Elevator pit flooding in Navajo, NM commercial stacks needs pump-out before cab service resumes.
 
-Open a scheduling request if you need a mitigation sequence that can survive both field realities and carrier review. Serving ZIP Code: 87328.
+Attic staining in Navajo, NM may follow HVAC condensate rather than roof breaches.
 
-File control: State Farm coverage patterns was paired with contents-vs-structure split during intake review in Navajo.
+Tip: Save adjuster emails in one folder before calling back.
 
-Field note: Moisture logs were aligned with salvage routing in Navajo, NM.
+Mold assessment triggers differ when demolition disturbs pre-existing spore reservoirs.
 
-Field note: Intake notes were reconciled with county grid McKinley County.
+Crawlspace vapor barriers in Navajo, NM may trap moisture if torn during extraction hose routing.
 
-Dispatch sectors sampled: ZIP 87328 (county grid: McKinley County).
+Garage-to-house air barriers in Navajo, NM ranch plans affect drying chamber boundaries.
+
+FAQ: Do air movers alone dry cavities? No—dehumidification and targeted demolition often pair with airflow.
+
+Thermal imaging in Navajo, NM is scheduled after surface readings plateau for two cycles.
+
+FAQ: Can some assemblies be dried in place? Readings—not guesses—drive demolition boundaries.
+
+Tip: List detached baseboards and removed insulation by room for claim traceability.
+
+Basement seepage in Navajo, NM may track foundation cracks rather than appliance failures.
+
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
+
+Recovery map 387262: structural drying targets and rebuild handoff flags logged for Navajo, NM postal sector 87328.
+
+Rebuild bridge 387262: cabinet toe-kick probes and subfloor MC readings logged at 35.9000, -109.0300.
+
+Loss file: equilibrium moisture content plus containment zipper door referenced in McKinley County county review.
+
+Demo gate: demolition checkpoints staged before rebuild handoff in Navajo, NM.
+
+Regional mesh label McKinley County: moisture and logistics baselines are keyed to Navajo, NM before niche-specific work begins.
 
 Service reference: NM-87328-0f8489c8

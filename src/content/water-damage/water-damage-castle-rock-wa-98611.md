@@ -12,28 +12,45 @@ lng: -122.9100
 zipSample: ["98611"]
 zipCodes: ["98611"]
 localPaths: ["Cowlitz County / primary ZIP 98611", "Cowlitz County / elevation 43 ft band", "Cowlitz County / coords 46.2700, -122.9100", "Cowlitz County / ZIP 98611 sector"]
-zillowHomeValueUsd: 480127
 ---
 
 **Engineering Notice for Castle Rock:** structural drying capacity optimized for 43ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cowlitz County. Relative Humidity Threshold: 68%. Sensor sync: Active.
 
 
-In Castle Rock, WA, flood restoration requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Request room-by-room demolition thresholds tied to meter readings. Grid anchor 98611.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in Castle Rock, WA must be dried before reconstruction is discussed.
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
 
-Our intake team frames flood restoration jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Material note: Antimicrobial products require label-compliant dwell times before rebuild.
 
-FAQ: How fast should action start? In Castle Rock, WA, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+IICRC reference: structural dry standards in Castle Rock, WA should be cited in scope documents.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 98611.
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
 
-Book a field review and request a written flood restoration scope before mitigation equipment is staged. Serving ZIP Code: 98611.
+Risk flag: Hidden cavity moisture can restart mold cycles after cosmetic repainting.
 
-File control: Allstate loss review was paired with scope authorization code during intake review in Castle Rock.
+FAQ: How fast should mitigation start? In Castle Rock, WA, extended damp periods expand demolition and mold-risk scope.
 
-Field note: Moisture logs were aligned with salvage routing in Castle Rock, WA.
+Desiccant dehumidifier sizing in Castle Rock, WA commercial zones differs from LGR residential defaults.
 
-Dispatch sectors sampled: ZIP 98611 (county grid: Cowlitz County).
+Risk flag: In Castle Rock, WA, delayed pack-out can swell cabinetry beyond salvage.
+
+Request a written flood restoration scope with equipment list and target readings. Primary postal sector: 98611.
+
+Tip: Log refrigerator line shutoffs before moving units in Castle Rock, WA kitchen losses.
+
+Subfloor cupping in Castle Rock, WA can lag source-stop by several drying days.
+
+Radiant floor loops in Castle Rock, WA slab homes need isolated zones before jack-hammer exploration.
+
+Step: isolate affected rooms with poly barriers before air-mover placement in Castle Rock, WA.
+
+Category note 641011: water-class notation and antimicrobial staging captured for Castle Rock, WA intake packet.
+
+Mitigation ledger 641011: moisture map grid, salvage lane tags, and drying day-count staged for Castle Rock, WA at 46.2700, -122.9100.
+
+Loss file: category-three PPE log plus ceiling cavity bore scope referenced in Cowlitz County county review.
+
+On-site sector marker: Cowlitz County / coords 46.2700, -122.9100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98611-bb82c0ff

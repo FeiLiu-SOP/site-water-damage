@@ -12,30 +12,45 @@ lng: -81.2100
 zipSample: ["25801", "25873"]
 zipCodes: ["25873", "25801"]
 localPaths: ["Raleigh County / coords 37.7600, -81.2100", "Raleigh County / primary ZIP 25801", "Raleigh County / ZIP 25873 sector", "Raleigh County / ZIP 25801 sector", "Raleigh County / elevation 2484 ft band"]
-zillowHomeValueUsd: 144047
 ---
 
 **Engineering Notice for MacArthur:** structural drying capacity optimized for 2484ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Raleigh County. Relative Humidity Threshold: 69%. Sensor sync: Active.
 
 
-In MacArthur, WV, moisture restoration requests usually begin with an active site review, a moisture map, and an immediate containment decision.
+Plaster lathe ceilings in MacArthur, WV pre-war homes hold moisture behind skim coats longer than drywall.
 
-Technicians document visible spread first, then verify saturation depth, then prioritize which assemblies in MacArthur, WV must be dried before reconstruction is discussed.
+Category-two losses in MacArthur, WV require antimicrobial staging decisions before rebuild quotes.
 
-Our intake team frames moisture restoration jobs around extraction velocity, salvageability, and the sequence required to keep secondary loss from expanding.
+Material note: Insulation R-value targets in MacArthur, WV should match pre-loss assemblies when documented.
 
-FAQ: How fast should action start? In MacArthur, WV, delayed drying commonly expands labor scope, material disposal, and claim documentation load.
+Anti-microbial fogging does not replace removal of porous contaminated materials.
 
-Tip: Photograph standing water, cabinet toe-kicks, and flooring transitions before any tear-out begins in ZIP 25801/25873.
+Garage slab moisture in MacArthur, WV can wick into adjacent finished rooms.
 
-Book a field review and request a written moisture restoration scope before mitigation equipment is staged. Serving ZIP Code: 25801.
+Code context: Electrical panels in wet areas should be evaluated before high-amperage drying equipment runs.
 
-Coverage brief: carrier supplement language can change how reserve change notes is documented before scheduling.
+Tip: Save adjuster emails in one folder before calling back.
 
-Field note: Demolition checkpoints were staged before rebuild handoff in MacArthur, WV.
+About us: We prioritize measurable drying evidence over headline speed claims.
 
-Field note: Moisture logs were aligned with salvage routing in MacArthur, WV.
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
 
-Dispatch sectors sampled: ZIP 25801, 25873 (county grid: Raleigh County).
+About us: Crew scheduling follows access windows, power constraints, and occupant safety—not generic same-day promises.
+
+Tip: List detached baseboards and removed insulation by room for claim traceability.
+
+Technicians stage HEPA scrubbers before containment zip doors in MacArthur, WV kitchen losses.
+
+Risk flag: In MacArthur, WV, delayed pack-out can swell cabinetry beyond salvage.
+
+Thermal imaging in MacArthur, WV is scheduled after surface readings plateau for two cycles.
+
+Category note 258349: water-class notation and antimicrobial staging captured for MacArthur, WV intake packet.
+
+Rebuild bridge 258349: cabinet toe-kick probes and subfloor MC readings logged at 37.7600, -81.2100.
+
+Drying packet: contents ozone quarantine paired with pinless scan grid near ZIP 25801 before scope lock.
+
+Coordinate-anchored dispatch note: center reference 37.7600, -81.2100 at elevation ~2484 ft aligns with Raleigh County intake staging.
 
 Service reference: WV-25801-7bdba751

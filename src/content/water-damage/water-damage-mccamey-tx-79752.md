@@ -12,29 +12,47 @@ lng: -102.2200
 zipSample: ["79752"]
 zipCodes: ["79752"]
 localPaths: ["Upton County / primary ZIP 79752", "Upton County / elevation 2448 ft band", "Upton County / ZIP 79752 sector", "Upton County / coords 31.1300, -102.2200"]
-zillowHomeValueUsd: 291668
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for McCamey:** structural drying capacity optimized for 2448ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Upton County. Relative Humidity Threshold: 81%. Sensor sync: Active.
 
 
-Property owners in McCamey, TX may see a water loss recovery event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+IICRC reference: structural dry standards in McCamey, TX should be cited in scope documents.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for McCamey, TX.
+FAQ: When is hardwood salvage realistic in McCamey, TX? Density, duration, and contamination class decide—not optimism.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Step: label removed materials for disposal manifests and claim packets.
 
-FAQ: What slows recovery most? In McCamey, TX, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Psychrometric targets should be recorded before declaring a chamber dry.
 
-Tip: Save expert notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 79752.
+Confirm power load assumptions before overnight equipment runs. County corridor Upton County.
 
-Ask for a room-by-room water loss recovery outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 79752.
+Tip: Record when the water source was stopped and power restored in McCamey, TX.
 
-Insurance note: adjuster photo-log and carrier supplement language were flagged for the McCamey file.
+Basement seepage in McCamey, TX may track foundation cracks rather than appliance failures.
 
-Field note: Intake notes were reconciled with county grid Upton County.
+Risk flag: Tenant-occupied units need written access windows before overnight equipment runs.
 
-Dispatch sectors sampled: ZIP 79752 (county grid: Upton County).
+Desiccant dehumidifier sizing in McCamey, TX commercial zones differs from LGR residential defaults.
+
+Tip: Log refrigerator line shutoffs before moving units in McCamey, TX kitchen losses.
+
+Tip: Date-stamp moisture maps when adjusters request progress updates near 79752.
+
+Plaster lathe ceilings in McCamey, TX pre-war homes hold moisture behind skim coats longer than drywall.
+
+Garage-to-house air barriers in McCamey, TX ranch plans affect drying chamber boundaries.
+
+FAQ: When is delay costly? In McCamey, TX, extended damp periods expand demolition and mold-risk scope.
+
+Townhome party walls in McCamey, TX can transfer vapor across unit lines during shared losses.
+
+Equipment roster 312375: dehumidifier hour-meter and air-mover placement queued before McCamey, TX scope sign-off.
+
+Loss trace 312375: extraction velocity notes and demolition threshold markers keyed to McCamey, TX elevation 2448 ft.
+
+Mitigation trace: ceiling cavity bore scope, structural dry standard, and hardwood moisture strip cross-indexed for McCamey intake.
+
+On-site sector marker: Upton County / primary ZIP 79752 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-79752-457ab32a

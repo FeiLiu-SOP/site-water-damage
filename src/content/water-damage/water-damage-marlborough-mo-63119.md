@@ -12,30 +12,49 @@ lng: -90.3400
 zipSample: ["63119", "63123"]
 zipCodes: ["63123", "63119"]
 localPaths: ["St. Louis County / primary ZIP 63119", "St. Louis County / ZIP 63119 sector", "St. Louis County / ZIP 63123 sector", "St. Louis County / elevation 525 ft band", "St. Louis County / coords 38.5700, -90.3400"]
-zillowHomeValueUsd: 378669
 ---
 
 **Engineering Notice for Marlborough:** structural drying capacity optimized for 525ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Louis County. Relative Humidity Threshold: 67%. Sensor sync: Active.
 
 
-Property owners in Marlborough, MO may see a storm cleanup event escalate from a small source leak into layered flooring, wall-cavity, and subfloor decisions within hours.
+FAQ: When is hardwood salvage realistic in Marlborough, MO? Density, duration, and contamination class decide—not optimism.
 
-Instead of quoting blindly, our review breaks the file into extraction, controlled demolition, structural drying, and post-dry verification checkpoints for Marlborough, MO.
+Step: separate emergency extraction from structural drying line items.
 
-What matters most is not headline speed but whether the drying path, demolition boundaries, and insurance notes can coexist without reopening the same rooms twice.
+Risk flag: In Marlborough, MO, delayed pack-out can swell cabinetry beyond salvage.
 
-FAQ: What slows recovery most? In Marlborough, MO, unclear moisture boundaries and incomplete claim packets usually create the biggest restart risk.
+Tip: Save adjuster emails in one folder before calling back.
 
-Tip: Save professional notes, adjuster emails, and humidity logs in one folder before calling back on ZIP 63119/63123.
+Risk flag: Marlborough, MO slab-on-grade homes may need core probes when perimeter walls read dry.
 
-Ask for a room-by-room storm cleanup outline with equipment assumptions, target readings, and claim-facing documentation. Serving ZIP Code: 63119.
+Risk flag: Incomplete claim packets in Marlborough, MO often force duplicate site visits.
 
-Insurance note: Farmers routing language and Claim filing codes were flagged for the Marlborough file.
+Desiccant dehumidifier sizing in Marlborough, MO commercial zones differs from LGR residential defaults.
 
-Field note: Intake notes were reconciled with county grid St. Louis County.
+Moisture maps are overlaid on floor plans before air-mover count is finalized.
 
-Field note: Equipment day-counts were reviewed around ZIP 63119/63123.
+FAQ: How fast should mitigation start? In Marlborough, MO, extended damp periods expand demolition and mold-risk scope.
 
-Dispatch sectors sampled: ZIP 63119, 63123 (county grid: St. Louis County).
+Tip: Log refrigerator line shutoffs before moving units in Marlborough, MO kitchen losses.
+
+Risk flag: Over-drying hardwood can cause permanent shrinkage and gap formation.
+
+About us: We separate emergency dry-in from permanent reconstruction to keep claim review orderly.
+
+FAQ: When is relocation safer? Equipment noise, power load, and air quality guide that decision.
+
+Permit note: Rebuild phases in Marlborough, MO may need separate inspections from mitigation work.
+
+FAQ: Is every wet material removed immediately? Readings—not guesses—drive demolition boundaries.
+
+Across Marlborough, MO, standing water duration drives salvage-versus-remove decisions within hours.
+
+Containment dossier 299975: poly barrier seams and HEPA scrubber hours keyed to Marlborough, MO grid St. Louis County.
+
+Loss trace 299975: extraction velocity notes and demolition threshold markers keyed to Marlborough, MO elevation 525 ft.
+
+Drying packet: demolition salvage tag paired with pinless scan grid near ZIP 63119 before scope lock.
+
+On-site sector marker: St. Louis County / primary ZIP 63119 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63119-62d3cacd
