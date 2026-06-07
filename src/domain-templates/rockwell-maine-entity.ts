@@ -7,6 +7,7 @@
 
 import type { ActiveCollectionKey } from "../active-collection";
 import type { ParsedLocation } from "../lib/location";
+import { buildPestControlServiceNode } from "../lib/pest-control-service-entity";
 import { buildServiceAreaAggregateRating } from "../lib/seo";
 import { getCanonicalBase, normalizePhoneE164, siteConfig } from "../site-config";
 
@@ -67,6 +68,8 @@ export function buildRockwellMaineEntityGraph(params: {
   location: ParsedLocation | null;
   /** GSC SERP seed slug — adds aggregateRating on LocalBusiness when matched. */
   entrySlug?: string;
+  countyDisplay?: string | null;
+  cityDisplay?: string | null;
 }): Record<string, unknown> {
   const orgId = `${brandOrigin()}/#organization`;
   const localId = `${params.pageUrl}#localbusiness`;
@@ -195,8 +198,23 @@ export function buildRockwellMaineEntityGraph(params: {
     localBusiness.aggregateRating = aggregateRating;
   }
 
+  const graph: Record<string, unknown>[] = [organization, localBusiness];
+
+  if (params.collection === "pestcontrol") {
+    graph.push(
+      buildPestControlServiceNode({
+        pageUrl: params.pageUrl,
+        localBusinessId: localId,
+        serviceName: "Rockwell Local Exterminator",
+        countyDisplay: params.countyDisplay,
+        cityDisplay: params.cityDisplay ?? params.location?.city ?? null,
+        stateCode: params.location?.state ?? null,
+      }),
+    );
+  }
+
   return {
     "@context": "https://schema.org",
-    "@graph": [organization, localBusiness],
+    "@graph": graph,
   };
 }

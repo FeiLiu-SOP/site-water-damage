@@ -1116,6 +1116,7 @@ const localBusinessSchema = isFixitGridSite
       entrySlug,
       dispatchCompliance: fixitGridDispatchCompliance,
       cityDisplay: pageLocation?.city ?? pageCity ?? null,
+      countyDisplay: String(post.data.county ?? "").trim() || null,
     })
   : isRealtorsSite
     ? buildRealtorsEntityGraph({
@@ -1134,6 +1135,8 @@ const localBusinessSchema = isFixitGridSite
       pageUrl,
       location: pageLocation,
       entrySlug,
+      countyDisplay: String(post.data.county ?? "").trim() || null,
+      cityDisplay: pageLocation?.city ?? pageCity ?? null,
     })
   : isCommunityStewardshipNpo
     ? buildNewtownFellowshipLocalBusinessSchema({

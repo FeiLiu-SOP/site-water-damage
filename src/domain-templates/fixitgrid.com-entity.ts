@@ -5,6 +5,7 @@
 import type { ActiveCollectionKey } from "../active-collection";
 import type { DispatchCompliance } from "../lib/compliance-matrix";
 import { buildDispatchComplianceSchema } from "../lib/compliance-matrix";
+import { buildPestControlServiceNode } from "../lib/pest-control-service-entity";
 import type { ParsedLocation } from "../lib/location";
 import { buildServiceAreaAggregateRating } from "../lib/seo";
 import { getCanonicalBase, normalizePhoneE164, siteConfig } from "../site-config";
@@ -39,6 +40,7 @@ export function buildFixitGridEntityGraph(params: {
   entrySlug?: string;
   dispatchCompliance?: DispatchCompliance | null;
   cityDisplay?: string | null;
+  countyDisplay?: string | null;
 }): Record<string, unknown> {
   const orgId = `${brandOrigin()}/#organization`;
   const localId = `${params.pageUrl}#localbusiness`;
@@ -101,6 +103,19 @@ export function buildFixitGridEntityGraph(params: {
         }),
       );
     }
+  }
+
+  if (params.collection === "pestcontrol") {
+    graph.push(
+      buildPestControlServiceNode({
+        pageUrl: params.pageUrl,
+        localBusinessId: localId,
+        serviceName: "FixitGrid Local Exterminator",
+        countyDisplay: params.countyDisplay,
+        cityDisplay: params.cityDisplay ?? params.location?.city ?? null,
+        stateCode: params.location?.state ?? null,
+      }),
+    );
   }
 
   return {

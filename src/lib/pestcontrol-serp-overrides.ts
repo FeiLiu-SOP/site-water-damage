@@ -63,10 +63,16 @@ const RAW: Record<string, Omit<PestcontrolSerpOverride, "metaDescription"> & { m
       "Pest & termite control in The Acreage, FL 33411. Ants, rodents & local pests. Licensed local service — same-day help.",
   },
   "pest-control-gladeview-fl-33147": {
-    pageTitle: "Gladeview FL Pest Control | FixitGrid",
-    pageH1: "Pest Control — Gladeview, FL",
+    pageTitle: "Formosan & Drywood Termites Gladeview FL | FixitGrid",
+    pageH1: "Termite, Bed Bug & Flea Control — Gladeview, FL",
     metaDescription:
-      "Pest control services in Gladeview, FL 33147. Ants, rodents & seasonal pests. Licensed local service — same-day help.",
+      "Formosan & drywood termites, bed bug removal & flea tick treatment in Gladeview, FL 33147. Licensed local pest service — same-day help.",
+  },
+  "pest-control-milford-mill-md-21244": {
+    pageTitle: "Precision Pest Control Baltimore County MD | FixitGrid",
+    pageH1: "Precision Pest Control — Baltimore County, MD",
+    metaDescription:
+      "Precision pest control in Baltimore County & Milford Mill, MD 21244. Ants, rodents & seasonal pests. Licensed local service — same-day help.",
   },
 };
 
