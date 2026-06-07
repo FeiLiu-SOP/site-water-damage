@@ -12,6 +12,7 @@ lng: -93.0300
 zipSample: ["71457"]
 zipCodes: ["71457"]
 localPaths: ["Natchitoches Parish / coords 31.7400, -93.0300", "Natchitoches Parish / ZIP 71457 sector", "Natchitoches Parish / primary ZIP 71457", "Natchitoches Parish / elevation 121 ft band"]
+zillowHomeValueUsd: 181005
 ---
 
 **Engineering Notice for Vienna Bend:** System optimized for 180 mg/L hard water scaling factors in Vienna Bend. Regional dispatch grid: Natchitoches Parish.

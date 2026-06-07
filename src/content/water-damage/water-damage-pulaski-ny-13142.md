@@ -12,6 +12,7 @@ lng: -76.1300
 zipSample: ["13142"]
 zipCodes: ["13142"]
 localPaths: ["Oswego County / coords 43.5700, -76.1300", "Oswego County / ZIP 13142 sector", "Oswego County / elevation 351 ft band", "Oswego County / primary ZIP 13142"]
+zillowHomeValueUsd: 210920
 ---
 
 **Engineering Notice for Pulaski:** structural drying capacity optimized for 351ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Oswego County. Relative Humidity Threshold: 77%. Sensor sync: Active.

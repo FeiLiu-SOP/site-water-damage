@@ -12,6 +12,7 @@ lng: -80.2400
 zipSample: ["15027"]
 zipCodes: ["15027"]
 localPaths: ["Beaver County / primary ZIP 15027", "Beaver County / coords 40.6700, -80.2400", "Beaver County / ZIP 15027 sector", "Beaver County / elevation 823 ft band"]
+zillowHomeValueUsd: 197888
 ---
 
 **Engineering Notice for Conway:** Site context locked to Beaver County. Elevation: 823 ft AMSL. Surface Sheathing integrity verification recorded.

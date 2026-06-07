@@ -12,6 +12,7 @@ lng: -82.6000
 zipSample: ["30445"]
 zipCodes: ["30445"]
 localPaths: ["Montgomery County / primary ZIP 30445", "Montgomery County / elevation 217 ft band", "Montgomery County / coords 32.1800, -82.6000", "Montgomery County / ZIP 30445 sector"]
+zillowHomeValueUsd: 143276
 ---
 
 **Engineering Notice for Mount Vernon:** Cladding verification uses 94 mph routing baseline; lateral pressure note: 12.5 psf. Elevation: 217 ft AMSL. Coordinates: 32.1800, -82.6000. Grid: Montgomery County.

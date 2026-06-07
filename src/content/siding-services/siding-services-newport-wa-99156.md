@@ -12,6 +12,7 @@ lng: -117.0500
 zipSample: ["99156"]
 zipCodes: ["99156"]
 localPaths: ["Pend Oreille County / elevation 2156 ft band", "Pend Oreille County / ZIP 99156 sector", "Pend Oreille County / coords 48.1800, -117.0500", "Pend Oreille County / primary ZIP 99156"]
+zillowHomeValueUsd: 405539
 ---
 
 **Engineering Notice for Newport:** Envelope check: Surface Sheathing assigned to wind-load band A with stress factor 1.20. Elevation: 2156 ft AMSL. Regional dispatch grid: Pend Oreille County.

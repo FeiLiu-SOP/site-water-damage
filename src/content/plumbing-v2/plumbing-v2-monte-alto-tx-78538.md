@@ -12,6 +12,7 @@ lng: -97.9700
 zipSample: ["78538"]
 zipCodes: ["78538"]
 localPaths: ["Hidalgo County / ZIP 78538 sector", "Hidalgo County / primary ZIP 78538", "Hidalgo County / coords 26.3700, -97.9700", "Hidalgo County / elevation 75 ft band"]
+zillowHomeValueUsd: 151768
 ---
 
 **Engineering Notice for Monte Alto:** System optimized for 125 mg/L hard water scaling factors in Monte Alto. Regional dispatch grid: Hidalgo County.

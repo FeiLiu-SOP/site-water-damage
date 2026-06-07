@@ -12,6 +12,7 @@ lng: -72.7400
 zipSample: ["01370"]
 zipCodes: ["01370"]
 localPaths: ["Franklin County / primary ZIP 01370", "Franklin County / ZIP 01370 sector", "Franklin County / coords 42.6100, -72.7400", "Franklin County / elevation 558 ft band"]
+zillowHomeValueUsd: 410841
 ---
 
 **Engineering Notice for Shelburne Falls:** System optimized for 168 mg/L hard water scaling factors in Shelburne Falls. Regional dispatch grid: Franklin County.

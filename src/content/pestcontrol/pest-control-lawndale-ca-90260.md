@@ -11,6 +11,7 @@ lng: -118.3500
 zipSample: ["90260"]
 zipCodes: ["90260"]
 localPaths: ["Los Angeles County / ZIP 90260 sector", "Los Angeles County / primary ZIP 90260", "Los Angeles County / coords 33.8900, -118.3500", "Los Angeles County / elevation 69 ft band"]
+zillowHomeValueUsd: 814660
 ---
 
 **Engineering Notice for Lawndale:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Los Angeles County.

@@ -11,6 +11,7 @@ lng: -84.2900
 zipSample: ["40403", "40404"]
 zipCodes: ["40403", "40404"]
 localPaths: ["Madison County / primary ZIP 40404", "Madison County / ZIP 40404 sector", "Madison County / ZIP 40403 sector", "Madison County / coords 37.5900, -84.2900", "Madison County / elevation 961 ft band"]
+zillowHomeValueUsd: 252906
 ---
 
 **Engineering Notice for Berea:** Structural loading calculated based on 961 ft terrain assessment. Regional dispatch grid: Madison County.

@@ -12,6 +12,7 @@ lng: -83.9200
 zipSample: ["48604"]
 zipCodes: ["48604"]
 localPaths: ["Saginaw County / elevation 591 ft band", "Saginaw County / coords 43.4800, -83.9200", "Saginaw County / ZIP 48604 sector", "Saginaw County / primary ZIP 48604"]
+zillowHomeValueUsd: 136798
 ---
 
 **Engineering Notice for Zilwaukee:** System optimized for 168 mg/L hard water scaling factors in Zilwaukee. Regional dispatch grid: Saginaw County.

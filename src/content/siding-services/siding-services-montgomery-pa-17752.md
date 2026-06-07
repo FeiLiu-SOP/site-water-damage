@@ -12,6 +12,7 @@ lng: -76.8700
 zipSample: ["17752"]
 zipCodes: ["17752"]
 localPaths: ["Lycoming County / coords 41.1700, -76.8700", "Lycoming County / ZIP 17752 sector", "Lycoming County / primary ZIP 17752", "Lycoming County / elevation 515 ft band"]
+zillowHomeValueUsd: 225669
 ---
 
 **Engineering Notice for Montgomery:** Weather Barrier Wrap was validated under stress factor 0.93; target tolerance set near 99 mph. Coordinates: 41.1700, -76.8700. Grid anchor: Lycoming County.

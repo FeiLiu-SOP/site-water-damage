@@ -11,6 +11,7 @@ lng: -156.4600
 zipSample: ["96733", "96732"]
 zipCodes: ["96732", "96733"]
 localPaths: ["Maui County / ZIP 96732 sector", "Maui County / primary ZIP 96732", "Maui County / coords 20.8700, -156.4600", "Maui County / ZIP 96733 sector", "Maui County / elevation 46 ft band"]
+zillowHomeValueUsd: 1034305
 ---
 
 **Engineering Notice for Kahului:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Maui County.

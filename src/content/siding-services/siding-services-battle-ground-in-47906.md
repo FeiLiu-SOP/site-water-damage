@@ -12,6 +12,7 @@ lng: -86.8500
 zipSample: ["47906", "47920"]
 zipCodes: ["47920", "47906"]
 localPaths: ["Tippecanoe County / ZIP 47920 sector", "Tippecanoe County / elevation 659 ft band", "Tippecanoe County / ZIP 47906 sector", "Tippecanoe County / primary ZIP 47906", "Tippecanoe County / coords 40.5100, -86.8500"]
+zillowHomeValueUsd: 363800
 ---
 
 **Engineering Notice for Battle Ground:** Structural integrity verification: Exterior Cladding calibrated for 105 mph localized wind load factor. Regional dispatch grid: Tippecanoe County.

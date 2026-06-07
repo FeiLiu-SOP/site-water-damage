@@ -12,6 +12,7 @@ lng: -73.6900
 zipSample: ["11530"]
 zipCodes: ["11530"]
 localPaths: ["Nassau County / elevation 89 ft band", "Nassau County / primary ZIP 11530", "Nassau County / coords 40.7200, -73.6900", "Nassau County / ZIP 11530 sector"]
+zillowHomeValueUsd: 1281255
 ---
 
 **Engineering Notice for Stewart Manor:** Structural integrity verification: Panel Replacement calibrated for 92 mph localized wind load factor. Elevation: 89 ft AMSL. Coordinates: 40.7200, -73.6900. Regional dispatch grid: Nassau County.

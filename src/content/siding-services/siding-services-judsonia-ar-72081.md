@@ -12,6 +12,7 @@ lng: -91.6400
 zipSample: ["72081"]
 zipCodes: ["72081"]
 localPaths: ["White County / coords 35.2800, -91.6400", "White County / elevation 233 ft band", "White County / primary ZIP 72081", "White County / ZIP 72081 sector"]
+zillowHomeValueUsd: 181158
 ---
 
 **Engineering Notice for Judsonia:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 1.06. Regional dispatch grid: White County.

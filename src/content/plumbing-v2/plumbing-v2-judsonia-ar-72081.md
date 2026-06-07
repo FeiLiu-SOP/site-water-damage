@@ -12,6 +12,7 @@ lng: -91.6400
 zipSample: ["72081"]
 zipCodes: ["72081"]
 localPaths: ["White County / elevation 233 ft band", "White County / ZIP 72081 sector", "White County / primary ZIP 72081", "White County / coords 35.2800, -91.6400"]
+zillowHomeValueUsd: 181157
 ---
 
 **Engineering Notice for Judsonia:** System optimized for 161 mg/L hard water scaling factors in Judsonia. Regional dispatch grid: White County.

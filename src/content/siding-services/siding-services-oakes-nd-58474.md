@@ -12,6 +12,7 @@ lng: -98.0900
 zipSample: ["58474"]
 zipCodes: ["58474"]
 localPaths: ["Dickey County / ZIP 58474 sector", "Dickey County / primary ZIP 58474", "Dickey County / elevation 1316 ft band", "Dickey County / coords 46.1400, -98.0900"]
+zillowHomeValueUsd: 180055
 ---
 
 **Engineering Notice for Oakes:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 1.11. Elevation: 1316 ft AMSL. Regional dispatch grid: Dickey County.

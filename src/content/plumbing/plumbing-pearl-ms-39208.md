@@ -12,6 +12,7 @@ lng: -90.0900
 zipSample: ["39208"]
 zipCodes: ["39208"]
 localPaths: ["Rankin County / ZIP 39208 sector", "Rankin County / primary ZIP 39208", "Rankin County / elevation 377 ft band", "Rankin County / coords 32.2700, -90.0900"]
+zillowHomeValueUsd: 211804
 ---
 
 **Engineering Notice for Pearl:** Structural loading calculated based on 377 ft terrain assessment. Regional dispatch grid: Rankin County.

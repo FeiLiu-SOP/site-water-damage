@@ -12,6 +12,7 @@ lng: -84.0800
 zipSample: ["48611"]
 zipCodes: ["48611"]
 localPaths: ["Bay County / coords 43.6000, -84.0800", "Bay County / primary ZIP 48611", "Bay County / ZIP 48611 sector", "Bay County / elevation 623 ft band"]
+zillowHomeValueUsd: 229409
 ---
 
 **Engineering Notice for Auburn:** Cladding verification uses 105 mph routing baseline; lateral pressure note: 13.8 psf. Elevation: 623 ft AMSL. Grid: Bay County.

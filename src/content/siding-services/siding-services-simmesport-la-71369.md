@@ -12,6 +12,8 @@ lng: -91.8100
 zipSample: ["71369"]
 zipCodes: ["71369"]
 localPaths: ["Avoyelles Parish / primary ZIP 71369", "Avoyelles Parish / coords 30.9800, -91.8100", "Avoyelles Parish / ZIP 71369 sector", "Avoyelles Parish / elevation 62 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 190897
 ---
 
 **Engineering Notice for Simmesport:** Site context locked to Avoyelles Parish. Vinyl Panels integrity verification recorded.

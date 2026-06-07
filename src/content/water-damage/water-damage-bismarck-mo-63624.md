@@ -12,6 +12,7 @@ lng: -90.6200
 zipSample: ["63624"]
 zipCodes: ["63624"]
 localPaths: ["St. Francois County / primary ZIP 63624", "St. Francois County / elevation 1033 ft band", "St. Francois County / coords 37.7700, -90.6200", "St. Francois County / ZIP 63624 sector"]
+zillowHomeValueUsd: 128000
 ---
 
 **Engineering Notice for Bismarck:** structural drying capacity optimized for 1033ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Francois County. Relative Humidity Threshold: 71%. Sensor sync: Active.

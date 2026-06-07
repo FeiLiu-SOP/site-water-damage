@@ -12,6 +12,7 @@ lng: -79.6500
 zipSample: ["27316"]
 zipCodes: ["27316"]
 localPaths: ["Randolph County / elevation 525 ft band", "Randolph County / ZIP 27316 sector", "Randolph County / coords 35.7400, -79.6500", "Randolph County / primary ZIP 27316"]
+zillowHomeValueUsd: 230532
 ---
 
 **Engineering Notice for Ramseur:** System optimized for 122 mg/L hard water scaling factors in Ramseur. Regional dispatch grid: Randolph County.

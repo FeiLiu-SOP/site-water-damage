@@ -12,6 +12,7 @@ lng: -108.0600
 zipSample: ["82426"]
 zipCodes: ["82426"]
 localPaths: ["Big Horn County / ZIP 82426 sector", "Big Horn County / primary ZIP 82426", "Big Horn County / coords 44.4900, -108.0600", "Big Horn County / elevation 3783 ft band"]
+zillowHomeValueUsd: 231767
 ---
 
 **Engineering Notice for Greybull:** System optimized for 149 mg/L hard water scaling factors in Greybull. Regional dispatch grid: Big Horn County.

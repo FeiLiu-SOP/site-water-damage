@@ -12,6 +12,7 @@ lng: -79.4300
 zipSample: ["29565"]
 zipCodes: ["29565"]
 localPaths: ["Dillon County / ZIP 29565 sector", "Dillon County / elevation 102 ft band", "Dillon County / primary ZIP 29565", "Dillon County / coords 34.3400, -79.4300"]
+zillowHomeValueUsd: 118082
 ---
 
 **Engineering Notice for Latta:** structural drying capacity optimized for 102ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dillon County. Relative Humidity Threshold: 80%. Sensor sync: Active.

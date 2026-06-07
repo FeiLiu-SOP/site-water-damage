@@ -12,6 +12,7 @@ lng: -93.7500
 zipSample: ["72632"]
 zipCodes: ["72632"]
 localPaths: ["Carroll County / coords 36.4100, -93.7500", "Carroll County / ZIP 72632 sector", "Carroll County / primary ZIP 72632", "Carroll County / elevation 1424 ft band"]
+zillowHomeValueUsd: 311226
 ---
 
 **Engineering Notice for Eureka Springs:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Elevation: 1424 ft AMSL. Coordinates: 36.4100, -93.7500. Grid: Carroll County.

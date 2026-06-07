@@ -12,6 +12,7 @@ lng: -83.3200
 zipSample: ["41179"]
 zipCodes: ["41179"]
 localPaths: ["Lewis County / primary ZIP 41179", "Lewis County / ZIP 41179 sector", "Lewis County / coords 38.5900, -83.3200", "Lewis County / elevation 522 ft band"]
+zillowHomeValueUsd: 115111
 ---
 
 **Engineering Notice for Vanceburg:** System optimized for 139 mg/L hard water scaling factors in Vanceburg. Regional dispatch grid: Lewis County.

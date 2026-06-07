@@ -12,6 +12,7 @@ lng: -84.6500
 zipSample: ["30122"]
 zipCodes: ["30122"]
 localPaths: ["Douglas County / coords 33.7800, -84.6500", "Douglas County / ZIP 30122 sector", "Douglas County / primary ZIP 30122", "Douglas County / elevation 988 ft band"]
+zillowHomeValueUsd: 275866
 ---
 
 **Engineering Notice for Lithia Springs:** Structural loading calculated based on 988 ft terrain assessment. Regional dispatch grid: Douglas County.

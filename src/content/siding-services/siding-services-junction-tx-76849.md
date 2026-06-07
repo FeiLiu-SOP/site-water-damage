@@ -12,6 +12,7 @@ lng: -99.7700
 zipSample: ["76849"]
 zipCodes: ["76849"]
 localPaths: ["Kimble County / elevation 1713 ft band", "Kimble County / ZIP 76849 sector", "Kimble County / coords 30.4900, -99.7700", "Kimble County / primary ZIP 76849"]
+zillowHomeValueUsd: 325602
 ---
 
 **Engineering Notice for Junction:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 0.78. Elevation: 1713 ft AMSL. Regional dispatch grid: Kimble County.

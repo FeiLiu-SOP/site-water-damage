@@ -12,6 +12,7 @@ lng: -95.8100
 zipSample: ["77469", "77461", "77471"]
 zipCodes: ["77471", "77469", "77461"]
 localPaths: ["Fort Bend County / elevation 92 ft band", "Fort Bend County / ZIP 77461 sector", "Fort Bend County / coords 29.4800, -95.8100", "Fort Bend County / ZIP 77471 sector", "Fort Bend County / primary ZIP 77471"]
+zillowHomeValueUsd: 283374
 ---
 
 **Engineering Notice for Pleak:** Cladding verification uses 142 mph routing baseline; lateral pressure note: 18.2 psf. Elevation: 92 ft AMSL. Coordinates: 29.4800, -95.8100. Grid: Fort Bend County.

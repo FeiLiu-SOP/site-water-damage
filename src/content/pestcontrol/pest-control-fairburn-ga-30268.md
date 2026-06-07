@@ -11,6 +11,7 @@ lng: -84.5900
 zipSample: ["30268", "30213"]
 zipCodes: ["30268", "30213"]
 localPaths: ["Fulton County / primary ZIP 30268", "Fulton County / ZIP 30213 sector", "Fulton County / coords 33.5500, -84.5900", "Fulton County / elevation 1027 ft band", "Fulton County / ZIP 30268 sector"]
+zillowHomeValueUsd: 320060
 ---
 
 **Engineering Notice for Fairburn:** Structural loading calculated based on 1027 ft terrain assessment. Regional dispatch grid: Fulton County.

@@ -11,6 +11,7 @@ lng: -106.4300
 zipSample: ["79960", "79958", "79932", "88573", "79906"]
 zipCodes: ["79906", "79924", "79917", "79941", "79907", "88583", "79945", "79942", "79903", "88570", "88578", "88580"]
 localPaths: ["El Paso County / ZIP 79960 sector", "El Paso County / ZIP 79906 sector", "El Paso County / ZIP 79932 sector", "El Paso County / ZIP 88573 sector", "El Paso County / ZIP 79958 sector"]
+zillowHomeValueUsd: 137664
 ---
 
 **Engineering Notice for El Paso:** Structural loading calculated based on 3875 ft terrain assessment. Regional dispatch grid: El Paso County.

@@ -12,6 +12,7 @@ lng: -82.0200
 zipSample: ["44676"]
 zipCodes: ["44676"]
 localPaths: ["Wayne County / coords 40.6800, -82.0200", "Wayne County / elevation 899 ft band", "Wayne County / ZIP 44676 sector", "Wayne County / primary ZIP 44676"]
+zillowHomeValueUsd: 247550
 ---
 
 **Engineering Notice for Shreve:** Envelope check: Surface Sheathing assigned to wind-load band C with stress factor 1.25. Elevation: 899 ft AMSL. Regional dispatch grid: Wayne County.

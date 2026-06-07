@@ -12,6 +12,7 @@ lng: -72.8000
 zipSample: ["05450"]
 zipCodes: ["05450"]
 localPaths: ["Franklin County / ZIP 05450 sector", "Franklin County / primary ZIP 05450", "Franklin County / elevation 427 ft band", "Franklin County / coords 44.9100, -72.8000"]
+zillowHomeValueUsd: 320547
 ---
 
 **Engineering Notice for Enosburg Falls:** structural drying capacity optimized for 427ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Franklin County. Relative Humidity Threshold: 67%. Sensor sync: Active.

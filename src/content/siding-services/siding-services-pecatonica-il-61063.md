@@ -12,6 +12,7 @@ lng: -89.3600
 zipSample: ["61063"]
 zipCodes: ["61063"]
 localPaths: ["Winnebago County / coords 42.3100, -89.3600", "Winnebago County / primary ZIP 61063", "Winnebago County / ZIP 61063 sector", "Winnebago County / elevation 761 ft band"]
+zillowHomeValueUsd: 226864
 ---
 
 **Engineering Notice for Pecatonica:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Elevation: 761 ft AMSL. Grid: Winnebago County.

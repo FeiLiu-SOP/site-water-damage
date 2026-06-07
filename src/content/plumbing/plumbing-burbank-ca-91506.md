@@ -12,6 +12,7 @@ lng: -118.3200
 zipSample: ["91504", "91501", "91510", "91523", "91506"]
 zipCodes: ["91523", "91507", "91502", "91521", "91505", "91503", "91504", "91510", "91508", "91522", "91506", "91501"]
 localPaths: ["Los Angeles County / primary ZIP 91506", "Los Angeles County / ZIP 91523 sector", "Los Angeles County / ZIP 91504 sector", "Los Angeles County / ZIP 91506 sector", "Los Angeles County / elevation 604 ft band"]
+zillowHomeValueUsd: 1222390
 ---
 
 **Engineering Notice for Burbank:** Structural loading calculated based on 604 ft terrain assessment. Regional dispatch grid: Los Angeles County.

@@ -12,6 +12,7 @@ lng: -92.0300
 zipSample: ["54829"]
 zipCodes: ["54829"]
 localPaths: ["Barron County / elevation 1257 ft band", "Barron County / ZIP 54829 sector", "Barron County / primary ZIP 54829", "Barron County / coords 45.5400, -92.0300"]
+zillowHomeValueUsd: 321446
 ---
 
 **Engineering Notice for Cumberland:** System optimized for 141 mg/L hard water scaling factors in Cumberland. Regional dispatch grid: Barron County.

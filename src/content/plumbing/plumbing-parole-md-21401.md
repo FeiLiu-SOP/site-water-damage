@@ -12,6 +12,7 @@ lng: -76.5500
 zipSample: ["21401"]
 zipCodes: ["21401"]
 localPaths: ["Anne Arundel County / elevation 95 ft band", "Anne Arundel County / coords 38.9900, -76.5500", "Anne Arundel County / primary ZIP 21401", "Anne Arundel County / ZIP 21401 sector"]
+zillowHomeValueUsd: 625163
 ---
 
 **Engineering Notice for Parole:** Structural loading calculated based on 95 ft terrain assessment. Regional dispatch grid: Anne Arundel County.

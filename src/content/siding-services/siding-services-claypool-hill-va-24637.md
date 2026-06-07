@@ -12,6 +12,7 @@ lng: -81.7500
 zipSample: ["24637", "24609"]
 zipCodes: ["24609", "24637"]
 localPaths: ["Tazewell County / ZIP 24609 sector", "Tazewell County / elevation 2372 ft band", "Tazewell County / primary ZIP 24637", "Tazewell County / coords 37.0600, -81.7500", "Tazewell County / ZIP 24637 sector"]
+zillowHomeValueUsd: 193380
 ---
 
 **Engineering Notice for Claypool Hill:** Envelope check: Vinyl Panels assigned to wind-load band C with stress factor 0.75. Elevation: 2372 ft AMSL. Regional dispatch grid: Tazewell County.

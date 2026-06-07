@@ -12,6 +12,7 @@ lng: -78.8300
 zipSample: ["24522"]
 zipCodes: ["24522"]
 localPaths: ["Appomattox County / coords 37.3600, -78.8300", "Appomattox County / elevation 863 ft band", "Appomattox County / ZIP 24522 sector", "Appomattox County / primary ZIP 24522"]
+zillowHomeValueUsd: 282941
 ---
 
 **Engineering Notice for Appomattox:** System optimized for 165 mg/L hard water scaling factors in Appomattox. Regional dispatch grid: Appomattox County.

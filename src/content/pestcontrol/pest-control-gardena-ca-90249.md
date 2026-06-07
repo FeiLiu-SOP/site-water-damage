@@ -11,6 +11,7 @@ lng: -118.3100
 zipSample: ["90249", "90247"]
 zipCodes: ["90247", "90249"]
 localPaths: ["Los Angeles County / coords 33.8900, -118.3100", "Los Angeles County / ZIP 90247 sector", "Los Angeles County / elevation 59 ft band", "Los Angeles County / primary ZIP 90249", "Los Angeles County / ZIP 90249 sector"]
+zillowHomeValueUsd: 811716
 ---
 
 **Engineering Notice for Gardena:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Los Angeles County.

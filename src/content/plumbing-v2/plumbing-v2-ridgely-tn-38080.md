@@ -12,6 +12,7 @@ lng: -89.4800
 zipSample: ["38080"]
 zipCodes: ["38080"]
 localPaths: ["Lake County / elevation 289 ft band", "Lake County / ZIP 38080 sector", "Lake County / coords 36.2600, -89.4800", "Lake County / primary ZIP 38080"]
+zillowHomeValueUsd: 111135
 ---
 
 **Engineering Notice for Ridgely:** System optimized for 153 mg/L hard water scaling factors in Ridgely. Regional dispatch grid: Lake County.

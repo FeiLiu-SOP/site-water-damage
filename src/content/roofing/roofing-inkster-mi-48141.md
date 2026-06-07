@@ -11,6 +11,7 @@ lng: -83.3100
 zipSample: ["48141"]
 zipCodes: ["48141"]
 localPaths: ["Wayne County / ZIP 48141 sector", "Wayne County / elevation 636 ft band", "Wayne County / primary ZIP 48141", "Wayne County / coords 42.2900, -83.3100"]
+zillowHomeValueUsd: 108043
 ---
 
 **Engineering Notice for Inkster:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Wayne County.

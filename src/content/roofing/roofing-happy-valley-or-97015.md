@@ -11,6 +11,7 @@ lng: -122.5100
 zipSample: ["97015", "97086", "97089"]
 zipCodes: ["97015", "97086", "97089"]
 localPaths: ["Clackamas County / primary ZIP 97015", "Clackamas County / coords 45.4400, -122.5100", "Clackamas County / ZIP 97086 sector", "Clackamas County / elevation 659 ft band", "Clackamas County / ZIP 97089 sector"]
+zillowHomeValueUsd: 587779
 ---
 
 **Engineering Notice for Happy Valley:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Clackamas County.

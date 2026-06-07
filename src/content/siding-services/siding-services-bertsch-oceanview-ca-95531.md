@@ -12,6 +12,7 @@ lng: -124.1600
 zipSample: ["95531"]
 zipCodes: ["95531"]
 localPaths: ["Del Norte County / ZIP 95531 sector", "Del Norte County / elevation 39 ft band", "Del Norte County / coords 41.7500, -124.1600", "Del Norte County / primary ZIP 95531"]
+zillowHomeValueUsd: 363229
 ---
 
 **Engineering Notice for Bertsch-Oceanview:** Structural integrity verification: Exterior Envelope calibrated for 134 mph localized wind load factor. Regional dispatch grid: Del Norte County.

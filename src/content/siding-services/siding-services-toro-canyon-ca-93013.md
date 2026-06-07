@@ -12,6 +12,7 @@ lng: -119.5600
 zipSample: ["93013", "93108"]
 zipCodes: ["93013", "93108"]
 localPaths: ["Santa Barbara County / ZIP 93108 sector", "Santa Barbara County / primary ZIP 93013", "Santa Barbara County / ZIP 93013 sector", "Santa Barbara County / coords 34.4400, -119.5600", "Santa Barbara County / elevation 837 ft band"]
+zillowHomeValueUsd: 1497355
 ---
 
 **Engineering Notice for Toro Canyon:** Cladding verification uses 135 mph routing baseline; lateral pressure note: 17.4 psf. Elevation: 837 ft AMSL. Grid: Santa Barbara County.

@@ -12,6 +12,7 @@ lng: -92.6300
 zipSample: ["54024"]
 zipCodes: ["54024"]
 localPaths: ["Polk County / primary ZIP 54024", "Polk County / elevation 1047 ft band", "Polk County / coords 45.4100, -92.6300", "Polk County / ZIP 54024 sector"]
+zillowHomeValueUsd: 325972
 ---
 
 **Engineering Notice for St. Croix Falls:** Cladding verification uses 97 mph routing baseline; lateral pressure note: 12.8 psf. Elevation: 1047 ft AMSL. Grid: Polk County.

@@ -11,6 +11,7 @@ lng: -91.0700
 zipSample: ["52761"]
 zipCodes: ["52761"]
 localPaths: ["Muscatine County / coords 41.4200, -91.0700", "Muscatine County / primary ZIP 52761", "Muscatine County / elevation 719 ft band", "Muscatine County / ZIP 52761 sector"]
+zillowHomeValueUsd: 183346
 ---
 
 **Engineering Notice for Muscatine:** Structural loading calculated based on 719 ft terrain assessment. Regional dispatch grid: Muscatine County.

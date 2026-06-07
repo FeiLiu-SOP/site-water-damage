@@ -12,6 +12,7 @@ lng: -110.9100
 zipSample: ["85137"]
 zipCodes: ["85137"]
 localPaths: ["Pinal County / ZIP 85137 sector", "Pinal County / elevation 1909 ft band", "Pinal County / coords 33.0600, -110.9100", "Pinal County / primary ZIP 85137"]
+zillowHomeValueUsd: 171018
 ---
 
 **Engineering Notice for Kearny:** structural drying capacity optimized for 1909ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pinal County. Relative Humidity Threshold: 77%. Sensor sync: Active.

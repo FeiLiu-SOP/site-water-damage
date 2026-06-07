@@ -11,6 +11,7 @@ lng: -93.2800
 zipSample: ["55337", "55306"]
 zipCodes: ["55306", "55337"]
 localPaths: ["Dakota County / coords 44.7600, -93.2800", "Dakota County / ZIP 55306 sector", "Dakota County / primary ZIP 55306", "Dakota County / ZIP 55337 sector", "Dakota County / elevation 968 ft band"]
+zillowHomeValueUsd: 416559
 ---
 
 **Engineering Notice for Burnsville:** Structural loading calculated based on 968 ft terrain assessment. Regional dispatch grid: Dakota County.

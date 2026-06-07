@@ -11,6 +11,7 @@ lng: -76.9000
 zipSample: ["28532", "28533"]
 zipCodes: ["28533", "28532"]
 localPaths: ["Craven County / primary ZIP 28533", "Craven County / ZIP 28533 sector", "Craven County / coords 34.9100, -76.9000", "Craven County / ZIP 28532 sector", "Craven County / elevation 26 ft band"]
+zillowHomeValueUsd: 233703
 ---
 
 **Engineering Notice for Havelock:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Craven County.

@@ -12,6 +12,7 @@ lng: -87.5300
 zipSample: ["47722", "47740", "47706", "47737", "47732"]
 zipCodes: ["47734", "47704", "47730", "47701", "47736", "47740", "47731", "47716", "47750", "47735", "47715", "47733"]
 localPaths: ["Vanderburgh County / elevation 400 ft band", "Vanderburgh County / primary ZIP 47714", "Vanderburgh County / ZIP 47706 sector", "Vanderburgh County / ZIP 47737 sector", "Vanderburgh County / coords 37.9900, -87.5300"]
+zillowHomeValueUsd: 140679
 ---
 
 **Engineering Notice for Evansville:** Structural loading calculated based on 400 ft terrain assessment. Regional dispatch grid: Vanderburgh County.

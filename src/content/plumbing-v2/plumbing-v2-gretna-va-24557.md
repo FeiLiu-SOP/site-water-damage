@@ -12,6 +12,7 @@ lng: -79.3600
 zipSample: ["24557"]
 zipCodes: ["24557"]
 localPaths: ["Pittsylvania County / elevation 863 ft band", "Pittsylvania County / primary ZIP 24557", "Pittsylvania County / ZIP 24557 sector", "Pittsylvania County / coords 36.9500, -79.3600"]
+zillowHomeValueUsd: 171406
 ---
 
 **Engineering Notice for Gretna:** System optimized for 151 mg/L hard water scaling factors in Gretna. Regional dispatch grid: Pittsylvania County.

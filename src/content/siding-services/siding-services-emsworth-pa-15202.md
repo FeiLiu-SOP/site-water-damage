@@ -12,6 +12,7 @@ lng: -80.1000
 zipSample: ["15202"]
 zipCodes: ["15202"]
 localPaths: ["Allegheny County / ZIP 15202 sector", "Allegheny County / elevation 797 ft band", "Allegheny County / primary ZIP 15202", "Allegheny County / coords 40.5100, -80.1000"]
+zillowHomeValueUsd: 221006
 ---
 
 **Engineering Notice for Emsworth:** Cladding verification uses 104 mph routing baseline; lateral pressure note: 13.7 psf. Grid: Allegheny County.

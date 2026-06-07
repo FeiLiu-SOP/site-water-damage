@@ -11,6 +11,7 @@ lng: -85.7100
 zipSample: ["49519", "49418", "49548", "49509", "49528"]
 zipCodes: ["49509", "49528", "49418", "49548", "49519"]
 localPaths: ["Kent County / ZIP 49519 sector", "Kent County / coords 42.8900, -85.7100", "Kent County / elevation 663 ft band", "Kent County / ZIP 49528 sector", "Kent County / ZIP 49548 sector"]
+zillowHomeValueUsd: 257921
 ---
 
 **Engineering Notice for Wyoming:** Structural loading calculated based on 663 ft terrain assessment. Regional dispatch grid: Kent County.

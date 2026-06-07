@@ -12,6 +12,7 @@ lng: -90.7500
 zipSample: ["70754"]
 zipCodes: ["70754"]
 localPaths: ["Livingston Parish / coords 30.5000, -90.7500", "Livingston Parish / elevation 72 ft band", "Livingston Parish / primary ZIP 70754", "Livingston Parish / ZIP 70754 sector"]
+zillowHomeValueUsd: 252898
 ---
 
 **Engineering Notice for Livingston:** System optimized for 134 mg/L hard water scaling factors in Livingston. Regional dispatch grid: Livingston Parish.

@@ -12,6 +12,7 @@ lng: -111.8100
 zipSample: ["86015", "86001"]
 zipCodes: ["86001", "86015"]
 localPaths: ["Coconino County / primary ZIP 86015", "Coconino County / elevation 7169 ft band", "Coconino County / ZIP 86015 sector", "Coconino County / ZIP 86001 sector", "Coconino County / coords 35.2400, -111.8100"]
+zillowHomeValueUsd: 545347
 ---
 
 **Engineering Notice for Bellemont:** Structural integrity verification: Exterior Cladding calibrated for 109 mph localized wind load factor. Elevation: 7169 ft AMSL. Regional dispatch grid: Coconino County.

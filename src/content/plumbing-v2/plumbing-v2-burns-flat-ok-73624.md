@@ -12,6 +12,7 @@ lng: -99.1800
 zipSample: ["73624"]
 zipCodes: ["73624"]
 localPaths: ["Washita County / ZIP 73624 sector", "Washita County / coords 35.3500, -99.1800", "Washita County / primary ZIP 73624", "Washita County / elevation 1923 ft band"]
+zillowHomeValueUsd: 78100
 ---
 
 **Engineering Notice for Burns Flat:** System optimized for 124 mg/L hard water scaling factors in Burns Flat. Regional dispatch grid: Washita County.

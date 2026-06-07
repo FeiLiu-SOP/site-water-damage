@@ -12,6 +12,7 @@ lng: -89.6700
 zipSample: ["61604"]
 zipCodes: ["61604"]
 localPaths: ["Peoria County / elevation 604 ft band", "Peoria County / coords 40.6900, -89.6700", "Peoria County / ZIP 61604 sector", "Peoria County / primary ZIP 61604"]
+zillowHomeValueUsd: 105051
 ---
 
 **Engineering Notice for Bellevue:** System optimized for 133 mg/L hard water scaling factors in Bellevue. Regional dispatch grid: Peoria County.

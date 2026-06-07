@@ -12,6 +12,7 @@ lng: -75.4300
 zipSample: ["19312", "19333"]
 zipCodes: ["19312", "19333"]
 localPaths: ["Chester County / elevation 525 ft band", "Chester County / ZIP 19312 sector", "Chester County / ZIP 19333 sector", "Chester County / coords 40.0500, -75.4300", "Chester County / primary ZIP 19333"]
+zillowHomeValueUsd: 837482
 ---
 
 **Engineering Notice for Devon:** System optimized for 177 mg/L hard water scaling factors in Devon. Regional dispatch grid: Chester County.

@@ -12,6 +12,7 @@ lng: -76.5000
 zipSample: ["14851", "14853", "14850"]
 zipCodes: ["14850", "14851", "14853"]
 localPaths: ["Tompkins County / coords 42.4400, -76.5000", "Tompkins County / elevation 404 ft band", "Tompkins County / primary ZIP 14853", "Tompkins County / ZIP 14850 sector", "Tompkins County / ZIP 14853 sector"]
+zillowHomeValueUsd: 404624
 ---
 
 **Engineering Notice for Ithaca:** Structural loading calculated based on 404 ft terrain assessment. Regional dispatch grid: Tompkins County.

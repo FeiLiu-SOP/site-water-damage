@@ -11,6 +11,7 @@ lng: -80.7400
 zipSample: ["32955", "32956", "32926"]
 zipCodes: ["32955", "32926", "32956"]
 localPaths: ["Brevard County / ZIP 32926 sector", "Brevard County / primary ZIP 32955", "Brevard County / ZIP 32955 sector", "Brevard County / elevation 36 ft band", "Brevard County / ZIP 32956 sector"]
+zillowHomeValueUsd: 369279
 ---
 
 **Engineering Notice for Rockledge:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Brevard County.

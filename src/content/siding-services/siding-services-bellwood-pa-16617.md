@@ -12,6 +12,7 @@ lng: -78.3300
 zipSample: ["16617"]
 zipCodes: ["16617"]
 localPaths: ["Blair County / ZIP 16617 sector", "Blair County / primary ZIP 16617", "Blair County / elevation 1073 ft band", "Blair County / coords 40.6000, -78.3300"]
+zillowHomeValueUsd: 165058
 ---
 
 **Engineering Notice for Bellwood:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Grid: Blair County.

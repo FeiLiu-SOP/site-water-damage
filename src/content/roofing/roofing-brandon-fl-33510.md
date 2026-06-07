@@ -11,6 +11,7 @@ lng: -82.3000
 zipSample: ["33510", "33594", "33584", "33595", "33619"]
 zipCodes: ["33595", "33508", "33584", "33510", "33594", "33511", "33509", "33619"]
 localPaths: ["Hillsborough County / coords 27.9400, -82.3000", "Hillsborough County / primary ZIP 33510", "Hillsborough County / ZIP 33595 sector", "Hillsborough County / ZIP 33619 sector", "Hillsborough County / ZIP 33584 sector"]
+zillowHomeValueUsd: 344989
 ---
 
 **Engineering Notice for Brandon:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Hillsborough County.

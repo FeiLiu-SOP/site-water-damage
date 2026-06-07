@@ -12,6 +12,7 @@ lng: -76.7000
 zipSample: ["21282", "21022", "21153", "21208", "21209"]
 zipCodes: ["21282", "21022", "21153", "21209", "21208"]
 localPaths: ["Baltimore County / coords 39.3900, -76.7000", "Baltimore County / primary ZIP 21153", "Baltimore County / ZIP 21208 sector", "Baltimore County / ZIP 21022 sector", "Baltimore County / elevation 531 ft band"]
+zillowHomeValueUsd: 1083059
 ---
 
 **Engineering Notice for Pikesville:** Structural loading calculated based on 531 ft terrain assessment. Regional dispatch grid: Baltimore County.

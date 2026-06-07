@@ -11,6 +11,7 @@ lng: -75.2300
 zipSample: ["13599", "13503", "13501", "13505", "13504"]
 zipCodes: ["13505", "13599", "13504", "13501", "13502", "13503"]
 localPaths: ["Oneida County / coords 43.1000, -75.2300", "Oneida County / ZIP 13505 sector", "Oneida County / ZIP 13501 sector", "Oneida County / elevation 502 ft band", "Oneida County / ZIP 13503 sector"]
+zillowHomeValueUsd: 204901
 ---
 
 **Engineering Notice for Utica:** Structural loading calculated based on 502 ft terrain assessment. Regional dispatch grid: Oneida County.

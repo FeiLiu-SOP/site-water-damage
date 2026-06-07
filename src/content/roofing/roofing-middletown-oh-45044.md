@@ -11,6 +11,7 @@ lng: -84.3700
 zipSample: ["45005", "45042", "45044"]
 zipCodes: ["45044", "45005", "45042"]
 localPaths: ["Butler County / ZIP 45042 sector", "Butler County / primary ZIP 45044", "Butler County / elevation 758 ft band", "Butler County / ZIP 45044 sector", "Butler County / ZIP 45005 sector"]
+zillowHomeValueUsd: 259767
 ---
 
 **Engineering Notice for Middletown:** Structural loading calculated based on 758 ft terrain assessment. Regional dispatch grid: Butler County.

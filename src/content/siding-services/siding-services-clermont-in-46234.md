@@ -12,6 +12,7 @@ lng: -86.3200
 zipSample: ["46234"]
 zipCodes: ["46234"]
 localPaths: ["Marion County / ZIP 46234 sector", "Marion County / primary ZIP 46234", "Marion County / coords 39.8200, -86.3200", "Marion County / elevation 837 ft band"]
+zillowHomeValueUsd: 279664
 ---
 
 **Engineering Notice for Clermont:** Site context locked to Marion County. Elevation: 837 ft AMSL. Vinyl Panels integrity verification recorded.

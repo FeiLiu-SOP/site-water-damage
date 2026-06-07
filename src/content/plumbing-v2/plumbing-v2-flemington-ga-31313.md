@@ -12,6 +12,7 @@ lng: -81.5600
 zipSample: ["31313"]
 zipCodes: ["31313"]
 localPaths: ["Liberty County / coords 31.8500, -81.5600", "Liberty County / ZIP 31313 sector", "Liberty County / elevation 59 ft band", "Liberty County / primary ZIP 31313"]
+zillowHomeValueUsd: 236330
 ---
 
 **Engineering Notice for Flemington:** System optimized for 169 mg/L hard water scaling factors in Flemington. Regional dispatch grid: Liberty County.

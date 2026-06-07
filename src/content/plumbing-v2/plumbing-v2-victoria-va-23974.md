@@ -12,6 +12,7 @@ lng: -78.2200
 zipSample: ["23974"]
 zipCodes: ["23974"]
 localPaths: ["Lunenburg County / coords 36.9900, -78.2200", "Lunenburg County / primary ZIP 23974", "Lunenburg County / ZIP 23974 sector", "Lunenburg County / elevation 554 ft band"]
+zillowHomeValueUsd: 134324
 ---
 
 **Engineering Notice for Victoria:** System optimized for 123 mg/L hard water scaling factors in Victoria. Regional dispatch grid: Lunenburg County.

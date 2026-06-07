@@ -12,6 +12,7 @@ lng: -81.8700
 zipSample: ["44256"]
 zipCodes: ["44256"]
 localPaths: ["Medina County / primary ZIP 44256", "Medina County / elevation 1070 ft band", "Medina County / coords 41.1400, -81.8700", "Medina County / ZIP 44256 sector"]
+zillowHomeValueUsd: 374772
 ---
 
 **Engineering Notice for Medina:** Structural loading calculated based on 1070 ft terrain assessment. Regional dispatch grid: Medina County.

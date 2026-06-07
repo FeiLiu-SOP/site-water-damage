@@ -12,6 +12,7 @@ lng: -88.8500
 zipSample: ["60146"]
 zipCodes: ["60146"]
 localPaths: ["DeKalb County / coords 42.0900, -88.8500", "DeKalb County / ZIP 60146 sector", "DeKalb County / primary ZIP 60146", "DeKalb County / elevation 784 ft band"]
+zillowHomeValueUsd: 277451
 ---
 
 **Engineering Notice for Kirkland:** structural drying capacity optimized for 784ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: DeKalb County. Relative Humidity Threshold: 79%. Sensor sync: Active.

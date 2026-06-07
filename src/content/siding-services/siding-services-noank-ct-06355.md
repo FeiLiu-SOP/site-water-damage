@@ -12,6 +12,7 @@ lng: -72.0000
 zipSample: ["06355", "06340"]
 zipCodes: ["06355", "06340"]
 localPaths: ["Southeastern Connecticut County / primary ZIP 06355", "Southeastern Connecticut County / elevation 148 ft band", "Southeastern Connecticut County / coords 41.3300, -72.0000", "Southeastern Connecticut County / ZIP 06340 sector", "Southeastern Connecticut County / ZIP 06355 sector"]
+zillowHomeValueUsd: 569563
 ---
 
 **Engineering Notice for Noank:** Surface Sheathing was validated under stress factor 0.80; target tolerance set near 104 mph. Grid anchor: Southeastern Connecticut County.

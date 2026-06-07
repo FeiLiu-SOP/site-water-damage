@@ -12,6 +12,7 @@ lng: -122.4800
 zipSample: ["94044"]
 zipCodes: ["94044"]
 localPaths: ["San Mateo County / coords 37.6100, -122.4800", "San Mateo County / ZIP 94044 sector", "San Mateo County / primary ZIP 94044", "San Mateo County / elevation 210 ft band"]
+zillowHomeValueUsd: 1284861
 ---
 
 **Engineering Notice for Pacifica:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: San Mateo County.

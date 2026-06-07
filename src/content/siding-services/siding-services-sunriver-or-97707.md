@@ -12,6 +12,7 @@ lng: -121.4400
 zipSample: ["97707"]
 zipCodes: ["97707"]
 localPaths: ["Deschutes County / elevation 4177 ft band", "Deschutes County / primary ZIP 97707", "Deschutes County / ZIP 97707 sector", "Deschutes County / coords 43.8800, -121.4400"]
+zillowHomeValueUsd: 739508
 ---
 
 **Engineering Notice for Sunriver:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 1.11. Regional dispatch grid: Deschutes County.

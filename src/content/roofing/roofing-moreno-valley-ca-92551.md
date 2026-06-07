@@ -11,6 +11,7 @@ lng: -117.2000
 zipSample: ["92554", "92551", "92556", "92553", "92557"]
 zipCodes: ["92557", "92556", "92554", "92552", "92555", "92553", "92551"]
 localPaths: ["Riverside County / ZIP 92556 sector", "Riverside County / ZIP 92554 sector", "Riverside County / ZIP 92551 sector", "Riverside County / ZIP 92557 sector", "Riverside County / ZIP 92553 sector"]
+zillowHomeValueUsd: 532079
 ---
 
 **Engineering Notice for Moreno Valley:** Structural loading calculated based on 1634 ft terrain assessment. Regional dispatch grid: Riverside County.

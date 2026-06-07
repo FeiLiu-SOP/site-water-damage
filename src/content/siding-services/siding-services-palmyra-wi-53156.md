@@ -12,6 +12,7 @@ lng: -88.6000
 zipSample: ["53156"]
 zipCodes: ["53156"]
 localPaths: ["Jefferson County / elevation 840 ft band", "Jefferson County / ZIP 53156 sector", "Jefferson County / primary ZIP 53156", "Jefferson County / coords 42.8800, -88.6000"]
+zillowHomeValueUsd: 368579
 ---
 
 **Engineering Notice for Palmyra:** Site context locked to Jefferson County. Cladding Retrofit integrity verification recorded.

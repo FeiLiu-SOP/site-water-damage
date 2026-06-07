@@ -12,6 +12,7 @@ lng: -87.4500
 zipSample: ["46312"]
 zipCodes: ["46312"]
 localPaths: ["Lake County / ZIP 46312 sector", "Lake County / coords 41.6500, -87.4500", "Lake County / elevation 594 ft band", "Lake County / primary ZIP 46312"]
+zillowHomeValueUsd: 128167
 ---
 
 **Engineering Notice for East Chicago:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: Lake County.

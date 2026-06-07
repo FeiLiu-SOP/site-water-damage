@@ -12,6 +12,7 @@ lng: -97.1800
 zipSample: ["76050"]
 zipCodes: ["76050"]
 localPaths: ["Johnson County / coords 32.2700, -97.1800", "Johnson County / ZIP 76050 sector", "Johnson County / primary ZIP 76050", "Johnson County / elevation 715 ft band"]
+zillowHomeValueUsd: 404929
 ---
 
 **Engineering Notice for Grandview:** Site context locked to Johnson County. Coordinates: 32.2700, -97.1800. Cladding Service integrity verification recorded.

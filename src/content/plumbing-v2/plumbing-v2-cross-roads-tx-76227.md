@@ -12,6 +12,7 @@ lng: -97.0000
 zipSample: ["76227"]
 zipCodes: ["76227"]
 localPaths: ["Denton County / elevation 607 ft band", "Denton County / primary ZIP 76227", "Denton County / coords 33.2300, -97.0000", "Denton County / ZIP 76227 sector"]
+zillowHomeValueUsd: 364100
 ---
 
 **Engineering Notice for Cross Roads:** System optimized for 162 mg/L hard water scaling factors in Cross Roads. Regional dispatch grid: Denton County.

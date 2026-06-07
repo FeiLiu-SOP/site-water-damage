@@ -11,6 +11,7 @@ lng: -118.3600
 zipSample: ["90275"]
 zipCodes: ["90275"]
 localPaths: ["Los Angeles County / coords 33.7600, -118.3600", "Los Angeles County / primary ZIP 90275", "Los Angeles County / elevation 1053 ft band", "Los Angeles County / ZIP 90275 sector"]
+zillowHomeValueUsd: 1822481
 ---
 
 **Engineering Notice for Rancho Palos Verdes:** Structural loading calculated based on 1053 ft terrain assessment. Regional dispatch grid: Los Angeles County.

@@ -12,6 +12,7 @@ lng: -100.8900
 zipSample: ["79226"]
 zipCodes: ["79226"]
 localPaths: ["Donley County / coords 34.9400, -100.8900", "Donley County / primary ZIP 79226", "Donley County / ZIP 79226 sector", "Donley County / elevation 2749 ft band"]
+zillowHomeValueUsd: 126120
 ---
 
 **Engineering Notice for Clarendon:** structural drying capacity optimized for 2749ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Donley County. Relative Humidity Threshold: 80%. Sensor sync: Active.

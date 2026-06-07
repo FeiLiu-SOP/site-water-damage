@@ -12,6 +12,7 @@ lng: -78.7800
 zipSample: ["14110", "14075"]
 zipCodes: ["14075", "14110"]
 localPaths: ["Erie County / ZIP 14075 sector", "Erie County / primary ZIP 14075", "Erie County / elevation 889 ft band", "Erie County / ZIP 14110 sector", "Erie County / coords 42.6800, -78.7800"]
+zillowHomeValueUsd: 325814
 ---
 
 **Engineering Notice for North Boston:** System optimized for 158 mg/L hard water scaling factors in North Boston. Regional dispatch grid: Erie County.

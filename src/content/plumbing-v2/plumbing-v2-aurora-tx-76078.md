@@ -12,6 +12,7 @@ lng: -97.5100
 zipSample: ["76078"]
 zipCodes: ["76078"]
 localPaths: ["Wise County / elevation 768 ft band", "Wise County / primary ZIP 76078", "Wise County / coords 33.0600, -97.5100", "Wise County / ZIP 76078 sector"]
+zillowHomeValueUsd: 367207
 ---
 
 **Engineering Notice for Aurora:** System optimized for 147 mg/L hard water scaling factors in Aurora. Regional dispatch grid: Wise County.

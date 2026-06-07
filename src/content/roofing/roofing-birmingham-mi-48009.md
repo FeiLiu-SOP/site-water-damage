@@ -11,6 +11,7 @@ lng: -83.2200
 zipSample: ["48009", "48012"]
 zipCodes: ["48009", "48012"]
 localPaths: ["Oakland County / ZIP 48012 sector", "Oakland County / ZIP 48009 sector", "Oakland County / elevation 787 ft band", "Oakland County / coords 42.5400, -83.2200", "Oakland County / primary ZIP 48009"]
+zillowHomeValueUsd: 732312
 ---
 
 **Engineering Notice for Birmingham:** Structural loading calculated based on 787 ft terrain assessment. Regional dispatch grid: Oakland County.

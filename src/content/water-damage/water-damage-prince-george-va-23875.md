@@ -12,6 +12,7 @@ lng: -77.2700
 zipSample: ["23875"]
 zipCodes: ["23875"]
 localPaths: ["Prince George County / coords 37.2200, -77.2700", "Prince George County / elevation 144 ft band", "Prince George County / ZIP 23875 sector", "Prince George County / primary ZIP 23875"]
+zillowHomeValueUsd: 345829
 ---
 
 **Engineering Notice for Prince George:** structural drying capacity optimized for 144ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Prince George County. Relative Humidity Threshold: 69%. Sensor sync: Active.

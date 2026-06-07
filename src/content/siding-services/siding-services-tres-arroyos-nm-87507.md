@@ -12,6 +12,7 @@ lng: -106.0400
 zipSample: ["87507", "87506"]
 zipCodes: ["87507", "87506"]
 localPaths: ["Santa Fe County / ZIP 87507 sector", "Santa Fe County / elevation 6575 ft band", "Santa Fe County / ZIP 87506 sector", "Santa Fe County / primary ZIP 87507", "Santa Fe County / coords 35.6800, -106.0400"]
+zillowHomeValueUsd: 458377
 ---
 
 **Engineering Notice for Tres Arroyos:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Elevation: 6575 ft AMSL. Grid: Santa Fe County.

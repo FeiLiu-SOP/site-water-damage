@@ -12,6 +12,7 @@ lng: -110.9900
 zipSample: ["85640", "85648"]
 zipCodes: ["85648", "85640"]
 localPaths: ["Santa Cruz County / elevation 3461 ft band", "Santa Cruz County / primary ZIP 85640", "Santa Cruz County / coords 31.5000, -110.9900", "Santa Cruz County / ZIP 85640 sector", "Santa Cruz County / ZIP 85648 sector"]
+zillowHomeValueUsd: 408359
 ---
 
 **Engineering Notice for Rio Rico:** Structural loading calculated based on 3461 ft terrain assessment. Regional dispatch grid: Santa Cruz County.

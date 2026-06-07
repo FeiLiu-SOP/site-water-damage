@@ -12,6 +12,7 @@ lng: -91.0600
 zipSample: ["70380"]
 zipCodes: ["70380"]
 localPaths: ["Assumption Parish / primary ZIP 70380", "Assumption Parish / coords 29.7200, -91.0600", "Assumption Parish / ZIP 70380 sector", "Assumption Parish / elevation 13 ft band"]
+zillowHomeValueUsd: 122740
 ---
 
 **Engineering Notice for Bayou L'Ourse:** System optimized for 163 mg/L hard water scaling factors in Bayou L'Ourse. Regional dispatch grid: Assumption Parish.

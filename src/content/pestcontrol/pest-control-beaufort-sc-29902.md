@@ -11,6 +11,7 @@ lng: -80.7200
 zipSample: ["29941", "29902", "29903", "29904", "29901"]
 zipCodes: ["29906", "29904", "29902", "29901", "29903", "29941"]
 localPaths: ["Beaufort County / ZIP 29941 sector", "Beaufort County / ZIP 29901 sector", "Beaufort County / ZIP 29902 sector", "Beaufort County / elevation 43 ft band", "Beaufort County / ZIP 29904 sector"]
+zillowHomeValueUsd: 418958
 ---
 
 **Engineering Notice for Beaufort:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Beaufort County.

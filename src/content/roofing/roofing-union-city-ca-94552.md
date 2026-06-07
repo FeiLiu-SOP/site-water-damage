@@ -11,6 +11,7 @@ lng: -122.0200
 zipSample: ["94587", "94552"]
 zipCodes: ["94587", "94552"]
 localPaths: ["Alameda County / primary ZIP 94552", "Alameda County / elevation 92 ft band", "Alameda County / ZIP 94587 sector", "Alameda County / ZIP 94552 sector", "Alameda County / coords 37.6000, -122.0200"]
+zillowHomeValueUsd: 1409454
 ---
 
 **Engineering Notice for Union City:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Alameda County.

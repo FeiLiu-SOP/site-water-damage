@@ -11,6 +11,7 @@ lng: -101.2800
 zipSample: ["58702", "58701", "58703", "58707"]
 zipCodes: ["58701", "58702", "58707", "58703"]
 localPaths: ["Ward County / ZIP 58701 sector", "Ward County / primary ZIP 58707", "Ward County / ZIP 58703 sector", "Ward County / elevation 1555 ft band", "Ward County / coords 48.2400, -101.2800"]
+zillowHomeValueUsd: 281837
 ---
 
 **Engineering Notice for Minot:** Structural loading calculated based on 1555 ft terrain assessment. Regional dispatch grid: Ward County.

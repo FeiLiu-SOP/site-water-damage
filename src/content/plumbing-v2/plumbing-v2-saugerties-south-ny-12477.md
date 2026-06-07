@@ -12,6 +12,7 @@ lng: -73.9500
 zipSample: ["12477"]
 zipCodes: ["12477"]
 localPaths: ["Ulster County / coords 42.0600, -73.9500", "Ulster County / primary ZIP 12477", "Ulster County / elevation 154 ft band", "Ulster County / ZIP 12477 sector"]
+zillowHomeValueUsd: 400285
 ---
 
 **Engineering Notice for Saugerties South:** System optimized for 125 mg/L hard water scaling factors in Saugerties South. Regional dispatch grid: Ulster County.

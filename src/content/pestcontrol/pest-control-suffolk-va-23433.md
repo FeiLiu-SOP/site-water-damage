@@ -11,6 +11,7 @@ lng: -76.6400
 zipSample: ["23436", "23435", "23438", "23432", "23434"]
 zipCodes: ["23437", "23432", "23435", "23434", "23436", "23433", "23438", "23439"]
 localPaths: ["Suffolk County / coords 36.7000, -76.6400", "Suffolk County / ZIP 23438 sector", "Suffolk County / ZIP 23436 sector", "Suffolk County / ZIP 23432 sector", "Suffolk County / ZIP 23434 sector"]
+zillowHomeValueUsd: 555325
 ---
 
 **Engineering Notice for Suffolk:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Suffolk County.

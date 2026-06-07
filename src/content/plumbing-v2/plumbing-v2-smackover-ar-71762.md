@@ -12,6 +12,7 @@ lng: -92.7300
 zipSample: ["71762"]
 zipCodes: ["71762"]
 localPaths: ["Union County / ZIP 71762 sector", "Union County / elevation 138 ft band", "Union County / primary ZIP 71762", "Union County / coords 33.3600, -92.7300"]
+zillowHomeValueUsd: 111093
 ---
 
 **Engineering Notice for Smackover:** System optimized for 135 mg/L hard water scaling factors in Smackover. Regional dispatch grid: Union County.

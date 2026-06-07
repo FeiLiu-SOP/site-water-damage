@@ -12,6 +12,7 @@ lng: -87.4300
 zipSample: ["36549"]
 zipCodes: ["36549"]
 localPaths: ["Baldwin County / primary ZIP 36549", "Baldwin County / coords 30.4100, -87.4300", "Baldwin County / elevation 0 ft band", "Baldwin County / ZIP 36549 sector"]
+zillowHomeValueUsd: 312622
 ---
 
 **Engineering Notice for Lillian:** Envelope check: Surface Sheathing assigned to wind-load band A with stress factor 0.83. Regional dispatch grid: Baldwin County.

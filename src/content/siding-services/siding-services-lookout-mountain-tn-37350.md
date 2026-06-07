@@ -12,6 +12,7 @@ lng: -85.3500
 zipSample: ["37350"]
 zipCodes: ["37350"]
 localPaths: ["Hamilton County / primary ZIP 37350", "Hamilton County / ZIP 37350 sector", "Hamilton County / coords 34.9900, -85.3500", "Hamilton County / elevation 1877 ft band"]
+zillowHomeValueUsd: 1034254
 ---
 
 **Engineering Notice for Lookout Mountain:** Site context locked to Hamilton County. Coordinates: 34.9900, -85.3500. Panel Replacement integrity verification recorded.

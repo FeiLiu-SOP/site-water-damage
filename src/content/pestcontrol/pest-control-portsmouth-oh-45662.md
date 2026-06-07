@@ -11,6 +11,7 @@ lng: -82.9400
 zipSample: ["45662"]
 zipCodes: ["45662"]
 localPaths: ["Scioto County / coords 38.7500, -82.9400", "Scioto County / elevation 860 ft band", "Scioto County / primary ZIP 45662", "Scioto County / ZIP 45662 sector"]
+zillowHomeValueUsd: 99249
 ---
 
 **Engineering Notice for Portsmouth:** Structural loading calculated based on 860 ft terrain assessment. Regional dispatch grid: Scioto County.

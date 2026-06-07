@@ -12,6 +12,7 @@ lng: -79.3900
 zipSample: ["15650"]
 zipCodes: ["15650"]
 localPaths: ["Westmoreland County / primary ZIP 15650", "Westmoreland County / ZIP 15650 sector", "Westmoreland County / elevation 1129 ft band", "Westmoreland County / coords 40.2900, -79.3900"]
+zillowHomeValueUsd: 202163
 ---
 
 **Engineering Notice for Lawson Heights:** Envelope check: Surface Sheathing assigned to wind-load band C with stress factor 1.06. Regional dispatch grid: Westmoreland County.

@@ -12,6 +12,7 @@ lng: -117.3900
 zipSample: ["92502", "92501", "92503", "92505", "92506"]
 zipCodes: ["92505", "92521", "92507", "92504", "92516", "92513", "92508", "92503", "92517", "92506", "92501", "92522"]
 localPaths: ["Riverside County / ZIP 92506 sector", "Riverside County / ZIP 92502 sector", "Riverside County / primary ZIP 92508", "Riverside County / ZIP 92503 sector", "Riverside County / coords 33.9400, -117.3900"]
+zillowHomeValueUsd: 767564
 ---
 
 **Engineering Notice for Riverside:** Structural loading calculated based on 892 ft terrain assessment. Regional dispatch grid: Riverside County.

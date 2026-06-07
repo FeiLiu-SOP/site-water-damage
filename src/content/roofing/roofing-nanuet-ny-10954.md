@@ -11,6 +11,7 @@ lng: -74.0200
 zipSample: ["10954"]
 zipCodes: ["10954"]
 localPaths: ["Rockland County / elevation 322 ft band", "Rockland County / coords 41.1000, -74.0200", "Rockland County / primary ZIP 10954", "Rockland County / ZIP 10954 sector"]
+zillowHomeValueUsd: 625993
 ---
 
 **Engineering Notice for Nanuet:** Structural loading calculated based on 322 ft terrain assessment. Regional dispatch grid: Rockland County.

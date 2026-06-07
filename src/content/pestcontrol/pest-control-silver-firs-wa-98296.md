@@ -11,6 +11,7 @@ lng: -122.1500
 zipSample: ["98208", "98012", "98296"]
 zipCodes: ["98012", "98208", "98296"]
 localPaths: ["Snohomish County / coords 47.8600, -122.1500", "Snohomish County / ZIP 98208 sector", "Snohomish County / primary ZIP 98296", "Snohomish County / ZIP 98296 sector", "Snohomish County / ZIP 98012 sector"]
+zillowHomeValueUsd: 1059003
 ---
 
 **Engineering Notice for Silver Firs:** Structural loading calculated based on 522 ft terrain assessment. Regional dispatch grid: Snohomish County.

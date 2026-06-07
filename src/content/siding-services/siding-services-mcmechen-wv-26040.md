@@ -12,6 +12,7 @@ lng: -80.7300
 zipSample: ["26040"]
 zipCodes: ["26040"]
 localPaths: ["Marshall County / coords 39.9900, -80.7300", "Marshall County / ZIP 26040 sector", "Marshall County / primary ZIP 26040", "Marshall County / elevation 656 ft band"]
+zillowHomeValueUsd: 88831
 ---
 
 **Engineering Notice for McMechen:** Envelope check: Wall Restoration assigned to wind-load band C with stress factor 0.94. Elevation: 656 ft AMSL. Regional dispatch grid: Marshall County.

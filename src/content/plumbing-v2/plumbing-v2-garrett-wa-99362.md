@@ -12,6 +12,7 @@ lng: -118.4000
 zipSample: ["99362"]
 zipCodes: ["99362"]
 localPaths: ["Walla Walla County / elevation 771 ft band", "Walla Walla County / ZIP 99362 sector", "Walla Walla County / primary ZIP 99362", "Walla Walla County / coords 46.0600, -118.4000"]
+zillowHomeValueUsd: 413050
 ---
 
 **Engineering Notice for Garrett:** System optimized for 179 mg/L hard water scaling factors in Garrett. Regional dispatch grid: Walla Walla County.

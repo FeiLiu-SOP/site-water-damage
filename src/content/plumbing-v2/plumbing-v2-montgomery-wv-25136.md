@@ -12,6 +12,7 @@ lng: -81.3200
 zipSample: ["25136", "25126"]
 zipCodes: ["25136", "25126"]
 localPaths: ["Fayette County / ZIP 25126 sector", "Fayette County / ZIP 25136 sector", "Fayette County / coords 38.1700, -81.3200", "Fayette County / elevation 1355 ft band", "Fayette County / primary ZIP 25136"]
+zillowHomeValueUsd: 77657
 ---
 
 **Engineering Notice for Montgomery:** System optimized for 178 mg/L hard water scaling factors in Montgomery. Regional dispatch grid: Fayette County.

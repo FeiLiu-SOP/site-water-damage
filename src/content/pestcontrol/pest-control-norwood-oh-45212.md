@@ -11,6 +11,7 @@ lng: -84.4500
 zipSample: ["45277", "45280", "45212"]
 zipCodes: ["45280", "45277", "45212"]
 localPaths: ["Hamilton County / coords 39.1600, -84.4500", "Hamilton County / ZIP 45212 sector", "Hamilton County / ZIP 45277 sector", "Hamilton County / elevation 633 ft band", "Hamilton County / primary ZIP 45212"]
+zillowHomeValueUsd: 252536
 ---
 
 **Engineering Notice for Norwood:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Hamilton County.

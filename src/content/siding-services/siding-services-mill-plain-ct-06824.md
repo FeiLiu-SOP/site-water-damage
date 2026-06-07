@@ -12,6 +12,7 @@ lng: -73.2700
 zipSample: ["06824"]
 zipCodes: ["06824"]
 localPaths: ["Greater Bridgeport County / primary ZIP 06824", "Greater Bridgeport County / coords 41.1500, -73.2700", "Greater Bridgeport County / ZIP 06824 sector", "Greater Bridgeport County / elevation 36 ft band"]
+zillowHomeValueUsd: 1103471
 ---
 
 **Engineering Notice for Mill Plain:** Cladding verification uses 96 mph routing baseline; lateral pressure note: 12.7 psf. Elevation: 36 ft AMSL. Coordinates: 41.1500, -73.2700. Grid: Greater Bridgeport County.

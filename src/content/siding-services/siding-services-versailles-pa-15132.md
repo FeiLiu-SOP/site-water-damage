@@ -12,6 +12,7 @@ lng: -79.8300
 zipSample: ["15132"]
 zipCodes: ["15132"]
 localPaths: ["Allegheny County / elevation 922 ft band", "Allegheny County / coords 40.3200, -79.8300", "Allegheny County / primary ZIP 15132", "Allegheny County / ZIP 15132 sector"]
+zillowHomeValueUsd: 73744
 ---
 
 **Engineering Notice for Versailles:** Panel Replacement was validated under stress factor 1.08; target tolerance set near 97 mph. Coordinates: 40.3200, -79.8300. Grid anchor: Allegheny County.

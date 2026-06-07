@@ -11,6 +11,7 @@ lng: -87.1700
 zipSample: ["32571"]
 zipCodes: ["32571"]
 localPaths: ["Santa Rosa County / coords 30.6200, -87.1700", "Santa Rosa County / ZIP 32571 sector", "Santa Rosa County / primary ZIP 32571", "Santa Rosa County / elevation 115 ft band"]
+zillowHomeValueUsd: 325361
 ---
 
 **Engineering Notice for Pace:** Structural loading calculated based on 115 ft terrain assessment. Regional dispatch grid: Santa Rosa County.

@@ -12,6 +12,7 @@ lng: -103.6500
 zipSample: ["69145"]
 zipCodes: ["69145"]
 localPaths: ["Kimball County / ZIP 69145 sector", "Kimball County / coords 41.2300, -103.6500", "Kimball County / elevation 4721 ft band", "Kimball County / primary ZIP 69145"]
+zillowHomeValueUsd: 162400
 ---
 
 **Engineering Notice for Kimball:** structural drying capacity optimized for 4721ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kimball County. Relative Humidity Threshold: 78%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -91.5400
 zipSample: ["65791"]
 zipCodes: ["65791"]
 localPaths: ["Oregon County / elevation 617 ft band", "Oregon County / coords 36.5200, -91.5400", "Oregon County / ZIP 65791 sector", "Oregon County / primary ZIP 65791"]
+zillowHomeValueUsd: 147023
 ---
 
 **Engineering Notice for Thayer:** System optimized for 160 mg/L hard water scaling factors in Thayer. Regional dispatch grid: Oregon County.

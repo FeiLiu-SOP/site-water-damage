@@ -12,6 +12,7 @@ lng: -105.5900
 zipSample: ["87529", "87514"]
 zipCodes: ["87529", "87514"]
 localPaths: ["Taos County / elevation 7579 ft band", "Taos County / ZIP 87529 sector", "Taos County / coords 36.5200, -105.5900", "Taos County / ZIP 87514 sector", "Taos County / primary ZIP 87529"]
+zillowHomeValueUsd: 496893
 ---
 
 **Engineering Notice for Arroyo Seco:** structural drying capacity optimized for 7579ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Taos County. Relative Humidity Threshold: 84%. Sensor sync: Active.

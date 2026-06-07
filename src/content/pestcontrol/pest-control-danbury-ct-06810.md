@@ -11,6 +11,7 @@ lng: -73.4700
 zipSample: ["06813", "06810", "06811"]
 zipCodes: ["06813", "06811", "06810"]
 localPaths: ["Western Connecticut County / ZIP 06811 sector", "Western Connecticut County / elevation 449 ft band", "Western Connecticut County / primary ZIP 06810", "Western Connecticut County / ZIP 06813 sector", "Western Connecticut County / ZIP 06810 sector"]
+zillowHomeValueUsd: 450560
 ---
 
 **Engineering Notice for Danbury:** Structural loading calculated based on 449 ft terrain assessment. Regional dispatch grid: Western Connecticut County.

@@ -11,6 +11,7 @@ lng: -80.6700
 zipSample: ["32904"]
 zipCodes: ["32904"]
 localPaths: ["Brevard County / primary ZIP 32904", "Brevard County / ZIP 32904 sector", "Brevard County / coords 28.0700, -80.6700", "Brevard County / elevation 43 ft band"]
+zillowHomeValueUsd: 377201
 ---
 
 **Engineering Notice for West Melbourne:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Brevard County.

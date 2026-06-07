@@ -12,6 +12,7 @@ lng: -74.3800
 zipSample: ["07480"]
 zipCodes: ["07480"]
 localPaths: ["Passaic County / primary ZIP 07480", "Passaic County / elevation 873 ft band", "Passaic County / ZIP 07480 sector", "Passaic County / coords 41.0300, -74.3800"]
+zillowHomeValueUsd: 482152
 ---
 
 **Engineering Notice for Macopin:** structural drying capacity optimized for 873ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Passaic County. Relative Humidity Threshold: 83%. Sensor sync: Active.

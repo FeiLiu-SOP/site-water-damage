@@ -12,6 +12,7 @@ lng: -158.1700
 zipSample: ["96791"]
 zipCodes: ["96791"]
 localPaths: ["Honolulu County / elevation 26 ft band", "Honolulu County / ZIP 96791 sector", "Honolulu County / coords 21.5800, -158.1700", "Honolulu County / primary ZIP 96791"]
+zillowHomeValueUsd: 1021146
 ---
 
 **Engineering Notice for Mokuleia:** structural drying capacity optimized for 26ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Honolulu County. Relative Humidity Threshold: 75%. Sensor sync: Active.

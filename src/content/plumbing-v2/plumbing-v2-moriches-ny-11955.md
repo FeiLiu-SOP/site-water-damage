@@ -12,6 +12,7 @@ lng: -72.8200
 zipSample: ["11955"]
 zipCodes: ["11955"]
 localPaths: ["Suffolk County / ZIP 11955 sector", "Suffolk County / primary ZIP 11955", "Suffolk County / coords 40.8100, -72.8200", "Suffolk County / elevation 39 ft band"]
+zillowHomeValueUsd: 623245
 ---
 
 **Engineering Notice for Moriches:** System optimized for 129 mg/L hard water scaling factors in Moriches. Regional dispatch grid: Suffolk County.

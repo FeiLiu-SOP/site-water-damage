@@ -12,6 +12,7 @@ lng: -82.8800
 zipSample: ["43021"]
 zipCodes: ["43021"]
 localPaths: ["Delaware County / ZIP 43021 sector", "Delaware County / coords 40.2200, -82.8800", "Delaware County / elevation 919 ft band", "Delaware County / primary ZIP 43021"]
+zillowHomeValueUsd: 640043
 ---
 
 **Engineering Notice for Galena:** Cladding verification uses 104 mph routing baseline; lateral pressure note: 13.7 psf. Grid: Delaware County.

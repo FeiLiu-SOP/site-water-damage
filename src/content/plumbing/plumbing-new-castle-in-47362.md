@@ -12,6 +12,7 @@ lng: -85.3700
 zipSample: ["47362"]
 zipCodes: ["47362"]
 localPaths: ["Henry County / ZIP 47362 sector", "Henry County / primary ZIP 47362", "Henry County / coords 39.9200, -85.3700", "Henry County / elevation 1063 ft band"]
+zillowHomeValueUsd: 165984
 ---
 
 **Engineering Notice for New Castle:** Structural loading calculated based on 1063 ft terrain assessment. Regional dispatch grid: Henry County.

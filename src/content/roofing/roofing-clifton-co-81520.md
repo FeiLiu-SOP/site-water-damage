@@ -11,6 +11,7 @@ lng: -108.4600
 zipSample: ["81504", "81520"]
 zipCodes: ["81504", "81520"]
 localPaths: ["Mesa County / elevation 4682 ft band", "Mesa County / ZIP 81504 sector", "Mesa County / primary ZIP 81520", "Mesa County / coords 39.0800, -108.4600", "Mesa County / ZIP 81520 sector"]
+zillowHomeValueUsd: 330443
 ---
 
 **Engineering Notice for Clifton:** Structural loading calculated based on 4682 ft terrain assessment. Regional dispatch grid: Mesa County.

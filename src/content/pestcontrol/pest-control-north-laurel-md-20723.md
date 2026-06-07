@@ -11,6 +11,7 @@ lng: -76.8500
 zipSample: ["20723"]
 zipCodes: ["20723"]
 localPaths: ["Howard County / elevation 302 ft band", "Howard County / primary ZIP 20723", "Howard County / coords 39.1300, -76.8500", "Howard County / ZIP 20723 sector"]
+zillowHomeValueUsd: 587725
 ---
 
 **Engineering Notice for North Laurel:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Howard County.

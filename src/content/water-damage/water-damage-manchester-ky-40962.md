@@ -12,6 +12,7 @@ lng: -83.7600
 zipSample: ["40962"]
 zipCodes: ["40962"]
 localPaths: ["Clay County / primary ZIP 40962", "Clay County / elevation 909 ft band", "Clay County / coords 37.1500, -83.7600", "Clay County / ZIP 40962 sector"]
+zillowHomeValueUsd: 123038
 ---
 
 **Engineering Notice for Manchester:** structural drying capacity optimized for 909ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clay County. Relative Humidity Threshold: 73%. Sensor sync: Active.

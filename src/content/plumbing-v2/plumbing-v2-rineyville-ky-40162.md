@@ -12,6 +12,7 @@ lng: -85.9700
 zipSample: ["40162"]
 zipCodes: ["40162"]
 localPaths: ["Hardin County / primary ZIP 40162", "Hardin County / ZIP 40162 sector", "Hardin County / coords 37.7500, -85.9700", "Hardin County / elevation 774 ft band"]
+zillowHomeValueUsd: 292887
 ---
 
 **Engineering Notice for Rineyville:** System optimized for 129 mg/L hard water scaling factors in Rineyville. Regional dispatch grid: Hardin County.

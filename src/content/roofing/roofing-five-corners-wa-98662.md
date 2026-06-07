@@ -11,6 +11,7 @@ lng: -122.5700
 zipSample: ["98662"]
 zipCodes: ["98662"]
 localPaths: ["Clark County / elevation 210 ft band", "Clark County / ZIP 98662 sector", "Clark County / primary ZIP 98662", "Clark County / coords 45.6900, -122.5700"]
+zillowHomeValueUsd: 484391
 ---
 
 **Engineering Notice for Five Corners:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Clark County.

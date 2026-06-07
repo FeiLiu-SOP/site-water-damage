@@ -12,6 +12,7 @@ lng: -117.3300
 zipSample: ["92532"]
 zipCodes: ["92532"]
 localPaths: ["Riverside County / ZIP 92532 sector", "Riverside County / elevation 1398 ft band", "Riverside County / primary ZIP 92532", "Riverside County / coords 33.7100, -117.3300"]
+zillowHomeValueUsd: 630260
 ---
 
 **Engineering Notice for Warm Springs:** Envelope check: Surface Sheathing assigned to wind-load band B with stress factor 1.10. Elevation: 1398 ft AMSL. Regional dispatch grid: Riverside County.

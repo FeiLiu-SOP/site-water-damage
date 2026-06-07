@@ -11,6 +11,7 @@ lng: -96.5600
 zipSample: ["75454"]
 zipCodes: ["75454"]
 localPaths: ["Collin County / primary ZIP 75454", "Collin County / ZIP 75454 sector", "Collin County / elevation 663 ft band", "Collin County / coords 33.2900, -96.5600"]
+zillowHomeValueUsd: 435348
 ---
 
 **Engineering Notice for Melissa:** Structural loading calculated based on 663 ft terrain assessment. Regional dispatch grid: Collin County.

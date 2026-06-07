@@ -12,6 +12,7 @@ lng: -78.2500
 zipSample: ["27577", "27576", "27568"]
 zipCodes: ["27577", "27576", "27568"]
 localPaths: ["Johnston County / ZIP 27577 sector", "Johnston County / elevation 167 ft band", "Johnston County / primary ZIP 27577", "Johnston County / ZIP 27576 sector", "Johnston County / ZIP 27568 sector"]
+zillowHomeValueUsd: 293017
 ---
 
 **Engineering Notice for Pine Level:** System optimized for 147 mg/L hard water scaling factors in Pine Level. Regional dispatch grid: Johnston County.

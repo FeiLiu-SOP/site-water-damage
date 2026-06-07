@@ -12,6 +12,7 @@ lng: -83.8400
 zipSample: ["48451"]
 zipCodes: ["48451"]
 localPaths: ["Genesee County / coords 42.7900, -83.8400", "Genesee County / ZIP 48451 sector", "Genesee County / primary ZIP 48451", "Genesee County / elevation 883 ft band"]
+zillowHomeValueUsd: 339166
 ---
 
 **Engineering Notice for Argentine:** Envelope check: Cladding Service assigned to wind-load band A with stress factor 0.91. Regional dispatch grid: Genesee County.

@@ -12,6 +12,7 @@ lng: -83.7400
 zipSample: ["48420"]
 zipCodes: ["48420"]
 localPaths: ["Genesee County / coords 43.1800, -83.7400", "Genesee County / ZIP 48420 sector", "Genesee County / elevation 725 ft band", "Genesee County / primary ZIP 48420"]
+zillowHomeValueUsd: 214553
 ---
 
 **Engineering Notice for Clio:** structural drying capacity optimized for 725ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Genesee County. Relative Humidity Threshold: 81%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -91.8900
 zipSample: ["54801"]
 zipCodes: ["54801"]
 localPaths: ["Washburn County / elevation 1083 ft band", "Washburn County / coords 45.8300, -91.8900", "Washburn County / ZIP 54801 sector", "Washburn County / primary ZIP 54801"]
+zillowHomeValueUsd: 292571
 ---
 
 **Engineering Notice for Spooner:** Structural integrity verification: Weather Barrier Wrap calibrated for 94 mph localized wind load factor. Elevation: 1083 ft AMSL. Coordinates: 45.8300, -91.8900. Regional dispatch grid: Washburn County.

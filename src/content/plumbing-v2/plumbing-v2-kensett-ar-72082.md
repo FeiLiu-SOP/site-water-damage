@@ -12,6 +12,8 @@ lng: -91.6700
 zipSample: ["72082"]
 zipCodes: ["72082"]
 localPaths: ["White County / ZIP 72082 sector", "White County / elevation 226 ft band", "White County / primary ZIP 72082", "White County / coords 35.2400, -91.6700"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 189176
 ---
 
 **Engineering Notice for Kensett:** System optimized for 177 mg/L hard water scaling factors in Kensett. Regional dispatch grid: White County.

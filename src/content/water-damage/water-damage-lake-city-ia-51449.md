@@ -12,6 +12,7 @@ lng: -94.7300
 zipSample: ["51449"]
 zipCodes: ["51449"]
 localPaths: ["Calhoun County / coords 42.2700, -94.7300", "Calhoun County / primary ZIP 51449", "Calhoun County / ZIP 51449 sector", "Calhoun County / elevation 1234 ft band"]
+zillowHomeValueUsd: 150263
 ---
 
 **Engineering Notice for Lake City:** structural drying capacity optimized for 1234ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Calhoun County. Relative Humidity Threshold: 75%. Sensor sync: Active.

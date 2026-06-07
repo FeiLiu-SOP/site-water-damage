@@ -12,6 +12,7 @@ lng: -77.5200
 zipSample: ["27886"]
 zipCodes: ["27886"]
 localPaths: ["Edgecombe County / ZIP 27886 sector", "Edgecombe County / primary ZIP 27886", "Edgecombe County / coords 35.8900, -77.5200", "Edgecombe County / elevation 66 ft band"]
+zillowHomeValueUsd: 148121
 ---
 
 **Engineering Notice for Princeville:** System optimized for 142 mg/L hard water scaling factors in Princeville. Regional dispatch grid: Edgecombe County.

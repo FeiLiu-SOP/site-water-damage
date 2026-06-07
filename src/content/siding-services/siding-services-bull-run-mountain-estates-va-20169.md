@@ -12,6 +12,7 @@ lng: -77.6600
 zipSample: ["20169"]
 zipCodes: ["20169"]
 localPaths: ["Prince William County / elevation 778 ft band", "Prince William County / ZIP 20169 sector", "Prince William County / coords 38.9100, -77.6600", "Prince William County / primary ZIP 20169"]
+zillowHomeValueUsd: 832986
 ---
 
 **Engineering Notice for Bull Run Mountain Estates:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 0.99. Regional dispatch grid: Prince William County.

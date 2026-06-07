@@ -12,6 +12,7 @@ lng: -82.3900
 zipSample: ["30833"]
 zipCodes: ["30833"]
 localPaths: ["Jefferson County / elevation 436 ft band", "Jefferson County / coords 33.2100, -82.3900", "Jefferson County / ZIP 30833 sector", "Jefferson County / primary ZIP 30833"]
+zillowHomeValueUsd: 137153
 ---
 
 **Engineering Notice for Wrens:** Structural integrity verification: Cladding Retrofit calibrated for 104 mph localized wind load factor. Regional dispatch grid: Jefferson County.

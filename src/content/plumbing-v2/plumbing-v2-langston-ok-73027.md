@@ -12,6 +12,7 @@ lng: -97.2800
 zipSample: ["73027", "73050"]
 zipCodes: ["73050", "73027"]
 localPaths: ["Logan County / primary ZIP 73027", "Logan County / elevation 968 ft band", "Logan County / ZIP 73027 sector", "Logan County / coords 35.9300, -97.2800", "Logan County / ZIP 73050 sector"]
+zillowHomeValueUsd: 187239
 ---
 
 **Engineering Notice for Langston:** System optimized for 136 mg/L hard water scaling factors in Langston. Regional dispatch grid: Logan County.

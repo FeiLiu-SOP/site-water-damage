@@ -12,6 +12,8 @@ lng: -109.2200
 zipSample: ["86556"]
 zipCodes: ["86556"]
 localPaths: ["Apache County / elevation 7047 ft band", "Apache County / primary ZIP 86556", "Apache County / coords 36.3000, -109.2200", "Apache County / ZIP 86556 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 423505
 ---
 
 **Engineering Notice for Tsaile:** Structural integrity verification: Surface Sheathing calibrated for 103 mph localized wind load factor. Coordinates: 36.3000, -109.2200. Regional dispatch grid: Apache County.

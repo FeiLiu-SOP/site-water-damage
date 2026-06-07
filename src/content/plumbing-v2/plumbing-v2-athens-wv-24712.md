@@ -12,6 +12,7 @@ lng: -81.0200
 zipSample: ["24712"]
 zipCodes: ["24712"]
 localPaths: ["Mercer County / primary ZIP 24712", "Mercer County / elevation 2582 ft band", "Mercer County / ZIP 24712 sector", "Mercer County / coords 37.4200, -81.0200"]
+zillowHomeValueUsd: 196877
 ---
 
 **Engineering Notice for Athens:** System optimized for 168 mg/L hard water scaling factors in Athens. Regional dispatch grid: Mercer County.

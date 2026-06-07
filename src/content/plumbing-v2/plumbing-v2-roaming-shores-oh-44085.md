@@ -12,6 +12,7 @@ lng: -80.8200
 zipSample: ["44084", "44085"]
 zipCodes: ["44085", "44084"]
 localPaths: ["Ashtabula County / coords 41.6400, -80.8200", "Ashtabula County / ZIP 44084 sector", "Ashtabula County / ZIP 44085 sector", "Ashtabula County / elevation 846 ft band", "Ashtabula County / primary ZIP 44085"]
+zillowHomeValueUsd: 247166
 ---
 
 **Engineering Notice for Roaming Shores:** System optimized for 134 mg/L hard water scaling factors in Roaming Shores. Regional dispatch grid: Ashtabula County.

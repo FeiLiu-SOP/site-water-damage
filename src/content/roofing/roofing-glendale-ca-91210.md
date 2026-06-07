@@ -11,6 +11,7 @@ lng: -118.2500
 zipSample: ["91210", "91020", "91205", "91202", "91225"]
 zipCodes: ["91214", "91207", "91205", "91203", "91226", "91202", "91222", "91221", "91201", "91210", "91020", "91046"]
 localPaths: ["Los Angeles County / ZIP 91202 sector", "Los Angeles County / ZIP 91020 sector", "Los Angeles County / ZIP 91210 sector", "Los Angeles County / primary ZIP 91210", "Los Angeles County / coords 34.1800, -118.2500"]
+zillowHomeValueUsd: 1157586
 ---
 
 **Engineering Notice for Glendale:** Structural loading calculated based on 1512 ft terrain assessment. Regional dispatch grid: Los Angeles County.

@@ -12,6 +12,7 @@ lng: -85.2900
 zipSample: ["47037"]
 zipCodes: ["47037"]
 localPaths: ["Ripley County / coords 39.1300, -85.2900", "Ripley County / primary ZIP 47037", "Ripley County / ZIP 47037 sector", "Ripley County / elevation 991 ft band"]
+zillowHomeValueUsd: 249733
 ---
 
 **Engineering Notice for Osgood:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Coordinates: 39.1300, -85.2900. Grid: Ripley County.

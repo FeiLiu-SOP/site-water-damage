@@ -12,6 +12,7 @@ lng: -78.4200
 zipSample: ["22911"]
 zipCodes: ["22911"]
 localPaths: ["Albemarle County / primary ZIP 22911", "Albemarle County / elevation 459 ft band", "Albemarle County / ZIP 22911 sector", "Albemarle County / coords 38.1600, -78.4200"]
+zillowHomeValueUsd: 511876
 ---
 
 **Engineering Notice for Piney Mountain:** structural drying capacity optimized for 459ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Albemarle County. Relative Humidity Threshold: 77%. Sensor sync: Active.

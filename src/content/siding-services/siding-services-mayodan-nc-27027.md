@@ -12,6 +12,7 @@ lng: -79.9700
 zipSample: ["27027"]
 zipCodes: ["27027"]
 localPaths: ["Rockingham County / ZIP 27027 sector", "Rockingham County / elevation 656 ft band", "Rockingham County / primary ZIP 27027", "Rockingham County / coords 36.4200, -79.9700"]
+zillowHomeValueUsd: 162031
 ---
 
 **Engineering Notice for Mayodan:** Site context locked to Rockingham County. Elevation: 656 ft AMSL. Vinyl Panels integrity verification recorded.

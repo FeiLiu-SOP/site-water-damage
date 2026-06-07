@@ -12,6 +12,7 @@ lng: -91.9000
 zipSample: ["65231"]
 zipCodes: ["65231"]
 localPaths: ["Callaway County / ZIP 65231 sector", "Callaway County / primary ZIP 65231", "Callaway County / elevation 879 ft band", "Callaway County / coords 39.0200, -91.9000"]
+zillowHomeValueUsd: 326911
 ---
 
 **Engineering Notice for Auxvasse:** System optimized for 169 mg/L hard water scaling factors in Auxvasse. Regional dispatch grid: Callaway County.

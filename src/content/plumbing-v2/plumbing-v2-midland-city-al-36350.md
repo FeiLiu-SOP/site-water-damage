@@ -12,6 +12,7 @@ lng: -85.4900
 zipSample: ["36350"]
 zipCodes: ["36350"]
 localPaths: ["Dale County / coords 31.3200, -85.4900", "Dale County / primary ZIP 36350", "Dale County / elevation 394 ft band", "Dale County / ZIP 36350 sector"]
+zillowHomeValueUsd: 201518
 ---
 
 **Engineering Notice for Midland City:** System optimized for 159 mg/L hard water scaling factors in Midland City. Regional dispatch grid: Dale County.

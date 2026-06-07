@@ -12,6 +12,7 @@ lng: -80.2500
 zipSample: ["15042"]
 zipCodes: ["15042"]
 localPaths: ["Beaver County / ZIP 15042 sector", "Beaver County / coords 40.6800, -80.2500", "Beaver County / elevation 715 ft band", "Beaver County / primary ZIP 15042"]
+zillowHomeValueUsd: 255225
 ---
 
 **Engineering Notice for Freedom:** structural drying capacity optimized for 715ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Beaver County. Relative Humidity Threshold: 68%. Sensor sync: Active.

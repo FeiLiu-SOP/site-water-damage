@@ -11,6 +11,7 @@ lng: -111.6500
 zipSample: ["84604", "84602", "84605", "84606", "84601"]
 zipCodes: ["84606", "84601", "84603", "84605", "84602", "84604"]
 localPaths: ["Utah County / ZIP 84602 sector", "Utah County / ZIP 84601 sector", "Utah County / ZIP 84604 sector", "Utah County / elevation 4626 ft band", "Utah County / ZIP 84606 sector"]
+zillowHomeValueUsd: 430236
 ---
 
 **Engineering Notice for Provo:** Structural loading calculated based on 4626 ft terrain assessment. Regional dispatch grid: Utah County.

@@ -12,6 +12,7 @@ lng: -84.0700
 zipSample: ["30024"]
 zipCodes: ["30024"]
 localPaths: ["Gwinnett County / ZIP 30024 sector", "Gwinnett County / primary ZIP 30024", "Gwinnett County / coords 34.0500, -84.0700", "Gwinnett County / elevation 1027 ft band"]
+zillowHomeValueUsd: 615405
 ---
 
 **Engineering Notice for Suwanee:** Structural loading calculated based on 1027 ft terrain assessment. Regional dispatch grid: Gwinnett County.

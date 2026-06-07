@@ -12,6 +12,7 @@ lng: -98.0900
 zipSample: ["58474"]
 zipCodes: ["58474"]
 localPaths: ["Dickey County / primary ZIP 58474", "Dickey County / ZIP 58474 sector", "Dickey County / coords 46.1400, -98.0900", "Dickey County / elevation 1316 ft band"]
+zillowHomeValueUsd: 180054
 ---
 
 **Engineering Notice for Oakes:** System optimized for 130 mg/L hard water scaling factors in Oakes. Regional dispatch grid: Dickey County.

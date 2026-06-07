@@ -12,6 +12,7 @@ lng: -76.6700
 zipSample: ["20754"]
 zipCodes: ["20754"]
 localPaths: ["Calvert County / ZIP 20754 sector", "Calvert County / coords 38.7200, -76.6700", "Calvert County / primary ZIP 20754", "Calvert County / elevation 102 ft band"]
+zillowHomeValueUsd: 637496
 ---
 
 **Engineering Notice for Dunkirk:** structural drying capacity optimized for 102ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Calvert County. Relative Humidity Threshold: 68%. Sensor sync: Active.

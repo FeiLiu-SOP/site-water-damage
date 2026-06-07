@@ -11,6 +11,7 @@ lng: -105.1000
 zipSample: ["80034", "80033"]
 zipCodes: ["80033", "80034"]
 localPaths: ["Jefferson County / ZIP 80033 sector", "Jefferson County / elevation 5381 ft band", "Jefferson County / ZIP 80034 sector", "Jefferson County / primary ZIP 80033", "Jefferson County / coords 39.7700, -105.1000"]
+zillowHomeValueUsd: 599406
 ---
 
 **Engineering Notice for Wheat Ridge:** Structural loading calculated based on 5381 ft terrain assessment. Regional dispatch grid: Jefferson County.

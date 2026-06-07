@@ -11,6 +11,7 @@ lng: -94.1500
 zipSample: ["77708", "77713", "77706", "77704", "77720"]
 zipCodes: ["77713", "77701", "77705", "77725", "77726", "77703", "77702", "77708", "77720", "77710", "77707", "77704"]
 localPaths: ["Jefferson County / primary ZIP 77708", "Jefferson County / ZIP 77704 sector", "Jefferson County / coords 30.0800, -94.1500", "Jefferson County / ZIP 77713 sector", "Jefferson County / ZIP 77706 sector"]
+zillowHomeValueUsd: 171408
 ---
 
 **Engineering Notice for Beaumont:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Jefferson County.

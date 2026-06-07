@@ -12,6 +12,7 @@ lng: -98.0900
 zipSample: ["73533", "73055"]
 zipCodes: ["73533", "73055"]
 localPaths: ["Stephens County / elevation 1175 ft band", "Stephens County / ZIP 73055 sector", "Stephens County / ZIP 73533 sector", "Stephens County / primary ZIP 73533", "Stephens County / coords 34.6200, -98.0900"]
+zillowHomeValueUsd: 135028
 ---
 
 **Engineering Notice for Central High:** Structural integrity verification: Panel Replacement calibrated for 106 mph localized wind load factor. Regional dispatch grid: Stephens County.

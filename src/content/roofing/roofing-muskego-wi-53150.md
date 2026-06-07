@@ -11,6 +11,7 @@ lng: -88.1300
 zipSample: ["53150"]
 zipCodes: ["53150"]
 localPaths: ["Waukesha County / coords 42.8900, -88.1300", "Waukesha County / primary ZIP 53150", "Waukesha County / ZIP 53150 sector", "Waukesha County / elevation 774 ft band"]
+zillowHomeValueUsd: 514601
 ---
 
 **Engineering Notice for Muskego:** Structural loading calculated based on 774 ft terrain assessment. Regional dispatch grid: Waukesha County.

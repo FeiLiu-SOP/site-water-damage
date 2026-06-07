@@ -12,6 +12,7 @@ lng: -84.2000
 zipSample: ["45807"]
 zipCodes: ["45807"]
 localPaths: ["Allen County / coords 40.7900, -84.2000", "Allen County / primary ZIP 45807", "Allen County / ZIP 45807 sector", "Allen County / elevation 801 ft band"]
+zillowHomeValueUsd: 251744
 ---
 
 **Engineering Notice for Elida:** Cladding verification uses 105 mph routing baseline; lateral pressure note: 13.8 psf. Elevation: 801 ft AMSL. Coordinates: 40.7900, -84.2000. Grid: Allen County.

@@ -11,6 +11,7 @@ lng: -80.7500
 zipSample: ["29928", "29925", "29926", "29938"]
 zipCodes: ["29938", "29926", "29928", "29925"]
 localPaths: ["Beaufort County / elevation 49 ft band", "Beaufort County / primary ZIP 29928", "Beaufort County / coords 32.1900, -80.7500", "Beaufort County / ZIP 29938 sector", "Beaufort County / ZIP 29925 sector"]
+zillowHomeValueUsd: 779817
 ---
 
 **Engineering Notice for Hilton Head Island:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Beaufort County.

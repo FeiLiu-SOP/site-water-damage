@@ -12,6 +12,7 @@ lng: -89.9300
 zipSample: ["63825"]
 zipCodes: ["63825"]
 localPaths: ["Stoddard County / ZIP 63825 sector", "Stoddard County / elevation 453 ft band", "Stoddard County / coords 36.8900, -89.9300", "Stoddard County / primary ZIP 63825"]
+zillowHomeValueUsd: 145429
 ---
 
 **Engineering Notice for Bloomfield:** Cladding Service was validated under stress factor 0.96; target tolerance set near 96 mph. Coordinates: 36.8900, -89.9300. Grid anchor: Stoddard County.

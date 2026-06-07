@@ -12,6 +12,7 @@ lng: -76.3600
 zipSample: ["23667", "23663", "23651", "23661", "23664"]
 zipCodes: ["23605", "23663", "23665", "23668", "23664", "23681", "23651", "23661", "23670", "23669", "23666", "23667"]
 localPaths: ["Hampton County / ZIP 23661 sector", "Hampton County / ZIP 23663 sector", "Hampton County / coords 37.0600, -76.3600", "Hampton County / primary ZIP 23665", "Hampton County / ZIP 23667 sector"]
+zillowHomeValueUsd: 290514
 ---
 
 **Engineering Notice for Hampton:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Hampton County.

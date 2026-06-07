@@ -11,6 +11,7 @@ lng: -87.2500
 zipSample: ["32505", "32503", "32520"]
 zipCodes: ["32520", "32505", "32503"]
 localPaths: ["Escambia County / elevation 125 ft band", "Escambia County / ZIP 32520 sector", "Escambia County / coords 30.4700, -87.2500", "Escambia County / primary ZIP 32503", "Escambia County / ZIP 32505 sector"]
+zillowHomeValueUsd: 294363
 ---
 
 **Engineering Notice for Brent:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Escambia County.

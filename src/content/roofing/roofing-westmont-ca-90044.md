@@ -11,6 +11,7 @@ lng: -118.3000
 zipSample: ["90047", "90044"]
 zipCodes: ["90047", "90044"]
 localPaths: ["Los Angeles County / primary ZIP 90044", "Los Angeles County / elevation 217 ft band", "Los Angeles County / ZIP 90047 sector", "Los Angeles County / coords 33.9400, -118.3000", "Los Angeles County / ZIP 90044 sector"]
+zillowHomeValueUsd: 646544
 ---
 
 **Engineering Notice for Westmont:** Structural loading calculated based on 217 ft terrain assessment. Regional dispatch grid: Los Angeles County.

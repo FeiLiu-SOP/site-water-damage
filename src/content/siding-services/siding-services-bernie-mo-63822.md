@@ -12,6 +12,7 @@ lng: -89.9700
 zipSample: ["63822"]
 zipCodes: ["63822"]
 localPaths: ["Stoddard County / coords 36.6700, -89.9700", "Stoddard County / elevation 315 ft band", "Stoddard County / ZIP 63822 sector", "Stoddard County / primary ZIP 63822"]
+zillowHomeValueUsd: 108504
 ---
 
 **Engineering Notice for Bernie:** Structural integrity verification: Weather Barrier Wrap calibrated for 98 mph localized wind load factor. Coordinates: 36.6700, -89.9700. Regional dispatch grid: Stoddard County.

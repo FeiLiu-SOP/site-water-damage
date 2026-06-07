@@ -12,6 +12,7 @@ lng: -86.4300
 zipSample: ["35078"]
 zipCodes: ["35078"]
 localPaths: ["Shelby County / primary ZIP 35078", "Shelby County / ZIP 35078 sector", "Shelby County / elevation 466 ft band", "Shelby County / coords 33.3200, -86.4300"]
+zillowHomeValueUsd: 283830
 ---
 
 **Engineering Notice for Harpersville:** Site context locked to Shelby County. Panel Replacement integrity verification recorded.

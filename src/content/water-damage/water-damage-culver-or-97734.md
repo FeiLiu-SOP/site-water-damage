@@ -12,6 +12,7 @@ lng: -121.2100
 zipSample: ["97734"]
 zipCodes: ["97734"]
 localPaths: ["Jefferson County / primary ZIP 97734", "Jefferson County / ZIP 97734 sector", "Jefferson County / coords 44.5200, -121.2100", "Jefferson County / elevation 2635 ft band"]
+zillowHomeValueUsd: 408831
 ---
 
 **Engineering Notice for Culver:** structural drying capacity optimized for 2635ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 73%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -87.2300
 zipSample: ["35188", "35490"]
 zipCodes: ["35490", "35188"]
 localPaths: ["Tuscaloosa County / primary ZIP 35188", "Tuscaloosa County / ZIP 35188 sector", "Tuscaloosa County / ZIP 35490 sector", "Tuscaloosa County / coords 33.1700, -87.2300", "Tuscaloosa County / elevation 558 ft band"]
+zillowHomeValueUsd: 224954
 ---
 
 **Engineering Notice for Vance:** System optimized for 167 mg/L hard water scaling factors in Vance. Regional dispatch grid: Tuscaloosa County.

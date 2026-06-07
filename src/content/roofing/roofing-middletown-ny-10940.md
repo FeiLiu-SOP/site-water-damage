@@ -11,6 +11,7 @@ lng: -74.4200
 zipSample: ["10940"]
 zipCodes: ["10940"]
 localPaths: ["Orange County / coords 41.4500, -74.4200", "Orange County / primary ZIP 10940", "Orange County / elevation 568 ft band", "Orange County / ZIP 10940 sector"]
+zillowHomeValueUsd: 390384
 ---
 
 **Engineering Notice for Middletown:** Structural loading calculated based on 568 ft terrain assessment. Regional dispatch grid: Orange County.

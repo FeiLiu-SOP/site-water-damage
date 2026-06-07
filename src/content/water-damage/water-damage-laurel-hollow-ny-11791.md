@@ -12,6 +12,7 @@ lng: -73.4800
 zipSample: ["11791"]
 zipCodes: ["11791"]
 localPaths: ["Nassau County / elevation 230 ft band", "Nassau County / ZIP 11791 sector", "Nassau County / coords 40.8500, -73.4800", "Nassau County / primary ZIP 11791"]
+zillowHomeValueUsd: 1165912
 ---
 
 **Engineering Notice for Laurel Hollow:** structural drying capacity optimized for 230ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Nassau County. Relative Humidity Threshold: 83%. Sensor sync: Active.

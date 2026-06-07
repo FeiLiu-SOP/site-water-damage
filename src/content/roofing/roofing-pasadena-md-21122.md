@@ -11,6 +11,7 @@ lng: -76.5500
 zipSample: ["21122", "21412", "21060", "21226"]
 zipCodes: ["21122", "21226", "21412", "21060"]
 localPaths: ["Anne Arundel County / ZIP 21122 sector", "Anne Arundel County / coords 39.1600, -76.5500", "Anne Arundel County / primary ZIP 21122", "Anne Arundel County / elevation 72 ft band", "Anne Arundel County / ZIP 21060 sector"]
+zillowHomeValueUsd: 454636
 ---
 
 **Engineering Notice for Pasadena:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Anne Arundel County.

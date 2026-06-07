@@ -12,6 +12,7 @@ lng: -86.6000
 zipSample: ["46996"]
 zipCodes: ["46996"]
 localPaths: ["Pulaski County / elevation 709 ft band", "Pulaski County / ZIP 46996 sector", "Pulaski County / coords 41.0500, -86.6000", "Pulaski County / primary ZIP 46996"]
+zillowHomeValueUsd: 185645
 ---
 
 **Engineering Notice for Winamac:** structural drying capacity optimized for 709ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pulaski County. Relative Humidity Threshold: 74%. Sensor sync: Active.

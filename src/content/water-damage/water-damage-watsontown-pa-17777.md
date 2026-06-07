@@ -12,6 +12,7 @@ lng: -76.8600
 zipSample: ["17777"]
 zipCodes: ["17777"]
 localPaths: ["Northumberland County / elevation 489 ft band", "Northumberland County / primary ZIP 17777", "Northumberland County / coords 41.0900, -76.8600", "Northumberland County / ZIP 17777 sector"]
+zillowHomeValueUsd: 231492
 ---
 
 **Engineering Notice for Watsontown:** structural drying capacity optimized for 489ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Northumberland County. Relative Humidity Threshold: 77%. Sensor sync: Active.

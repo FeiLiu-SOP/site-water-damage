@@ -11,6 +11,7 @@ lng: -86.5600
 zipSample: ["37089", "37086"]
 zipCodes: ["37086", "37089"]
 localPaths: ["Rutherford County / coords 36.0200, -86.5600", "Rutherford County / primary ZIP 37086", "Rutherford County / ZIP 37089 sector", "Rutherford County / ZIP 37086 sector", "Rutherford County / elevation 587 ft band"]
+zillowHomeValueUsd: 343303
 ---
 
 **Engineering Notice for La Vergne:** Structural loading calculated based on 587 ft terrain assessment. Regional dispatch grid: Rutherford County.

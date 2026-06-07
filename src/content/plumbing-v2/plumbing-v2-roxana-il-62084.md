@@ -12,6 +12,7 @@ lng: -90.0500
 zipSample: ["62084", "62025"]
 zipCodes: ["62025", "62084"]
 localPaths: ["Madison County / ZIP 62084 sector", "Madison County / ZIP 62025 sector", "Madison County / primary ZIP 62084", "Madison County / coords 38.8300, -90.0500", "Madison County / elevation 423 ft band"]
+zillowHomeValueUsd: 107478
 ---
 
 **Engineering Notice for Roxana:** System optimized for 173 mg/L hard water scaling factors in Roxana. Regional dispatch grid: Madison County.

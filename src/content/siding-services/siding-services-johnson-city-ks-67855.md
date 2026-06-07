@@ -12,6 +12,7 @@ lng: -101.7400
 zipSample: ["67855"]
 zipCodes: ["67855"]
 localPaths: ["Stanton County / ZIP 67855 sector", "Stanton County / coords 37.5700, -101.7400", "Stanton County / elevation 3337 ft band", "Stanton County / primary ZIP 67855"]
+zillowHomeValueUsd: 165343
 ---
 
 **Engineering Notice for Johnson City:** Site context locked to Stanton County. Elevation: 3337 ft AMSL. Coordinates: 37.5700, -101.7400. Exterior Envelope integrity verification recorded.

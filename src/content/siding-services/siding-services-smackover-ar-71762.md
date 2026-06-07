@@ -12,6 +12,7 @@ lng: -92.7300
 zipSample: ["71762"]
 zipCodes: ["71762"]
 localPaths: ["Union County / coords 33.3600, -92.7300", "Union County / primary ZIP 71762", "Union County / elevation 138 ft band", "Union County / ZIP 71762 sector"]
+zillowHomeValueUsd: 111094
 ---
 
 **Engineering Notice for Smackover:** Structural integrity verification: Wall Restoration calibrated for 101 mph localized wind load factor. Coordinates: 33.3600, -92.7300. Regional dispatch grid: Union County.

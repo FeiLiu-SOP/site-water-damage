@@ -12,6 +12,7 @@ lng: -78.4500
 zipSample: ["27528", "27527", "27520"]
 zipCodes: ["27520", "27528", "27527"]
 localPaths: ["Johnston County / primary ZIP 27520", "Johnston County / ZIP 27520 sector", "Johnston County / elevation 305 ft band", "Johnston County / ZIP 27528 sector", "Johnston County / ZIP 27527 sector"]
+zillowHomeValueUsd: 337485
 ---
 
 **Engineering Notice for Clayton:** Structural loading calculated based on 305 ft terrain assessment. Regional dispatch grid: Johnston County.

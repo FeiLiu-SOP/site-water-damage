@@ -11,6 +11,7 @@ lng: -96.5500
 zipSample: ["75089", "75030", "75088"]
 zipCodes: ["75089", "75030", "75088"]
 localPaths: ["Dallas County / ZIP 75088 sector", "Dallas County / elevation 469 ft band", "Dallas County / ZIP 75089 sector", "Dallas County / primary ZIP 75089", "Dallas County / ZIP 75030 sector"]
+zillowHomeValueUsd: 379456
 ---
 
 **Engineering Notice for Rowlett:** Structural loading calculated based on 469 ft terrain assessment. Regional dispatch grid: Dallas County.

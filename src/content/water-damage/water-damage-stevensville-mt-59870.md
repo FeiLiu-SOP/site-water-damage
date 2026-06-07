@@ -12,6 +12,7 @@ lng: -114.0800
 zipSample: ["59870"]
 zipCodes: ["59870"]
 localPaths: ["Ravalli County / elevation 3376 ft band", "Ravalli County / primary ZIP 59870", "Ravalli County / coords 46.5100, -114.0800", "Ravalli County / ZIP 59870 sector"]
+zillowHomeValueUsd: 615645
 ---
 
 **Engineering Notice for Stevensville:** structural drying capacity optimized for 3376ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ravalli County. Relative Humidity Threshold: 71%. Sensor sync: Active.

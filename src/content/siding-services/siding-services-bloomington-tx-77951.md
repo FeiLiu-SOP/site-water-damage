@@ -12,6 +12,7 @@ lng: -96.9000
 zipSample: ["77905", "77951"]
 zipCodes: ["77905", "77951"]
 localPaths: ["Victoria County / elevation 66 ft band", "Victoria County / coords 28.6500, -96.9000", "Victoria County / primary ZIP 77951", "Victoria County / ZIP 77905 sector", "Victoria County / ZIP 77951 sector"]
+zillowHomeValueUsd: 112345
 ---
 
 **Engineering Notice for Bloomington:** Site context locked to Victoria County. Cladding Service integrity verification recorded.

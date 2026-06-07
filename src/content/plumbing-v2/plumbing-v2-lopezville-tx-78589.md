@@ -12,6 +12,7 @@ lng: -98.1500
 zipSample: ["78589", "78542"]
 zipCodes: ["78589", "78542"]
 localPaths: ["Hidalgo County / ZIP 78589 sector", "Hidalgo County / primary ZIP 78589", "Hidalgo County / elevation 115 ft band", "Hidalgo County / ZIP 78542 sector", "Hidalgo County / coords 26.2500, -98.1500"]
+zillowHomeValueUsd: 183957
 ---
 
 **Engineering Notice for Lopezville:** System optimized for 143 mg/L hard water scaling factors in Lopezville. Regional dispatch grid: Hidalgo County.

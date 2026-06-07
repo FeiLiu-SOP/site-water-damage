@@ -11,6 +11,7 @@ lng: -90.1000
 zipSample: ["70072"]
 zipCodes: ["70072"]
 localPaths: ["Jefferson Parish / elevation 26 ft band", "Jefferson Parish / primary ZIP 70072", "Jefferson Parish / coords 29.8400, -90.1000", "Jefferson Parish / ZIP 70072 sector"]
+zillowHomeValueUsd: 228789
 ---
 
 **Engineering Notice for Estelle:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Jefferson Parish.

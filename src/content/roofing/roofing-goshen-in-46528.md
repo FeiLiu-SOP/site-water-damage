@@ -11,6 +11,7 @@ lng: -85.8300
 zipSample: ["46526", "46528", "46527"]
 zipCodes: ["46527", "46528", "46526"]
 localPaths: ["Elkhart County / ZIP 46526 sector", "Elkhart County / primary ZIP 46528", "Elkhart County / ZIP 46528 sector", "Elkhart County / elevation 804 ft band", "Elkhart County / ZIP 46527 sector"]
+zillowHomeValueUsd: 303736
 ---
 
 **Engineering Notice for Goshen:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Elkhart County.

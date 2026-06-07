@@ -12,6 +12,7 @@ lng: -116.0000
 zipSample: ["83849"]
 zipCodes: ["83849"]
 localPaths: ["Shoshone County / coords 47.5100, -116.0000", "Shoshone County / ZIP 83849 sector", "Shoshone County / elevation 2520 ft band", "Shoshone County / primary ZIP 83849"]
+zillowHomeValueUsd: 281839
 ---
 
 **Engineering Notice for Osburn:** System optimized for 178 mg/L hard water scaling factors in Osburn. Regional dispatch grid: Shoshone County.

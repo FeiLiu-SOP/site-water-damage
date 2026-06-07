@@ -11,6 +11,7 @@ lng: -122.4700
 zipSample: ["98282"]
 zipCodes: ["98282"]
 localPaths: ["Island County / elevation 0 ft band", "Island County / coords 48.1900, -122.4700", "Island County / primary ZIP 98282", "Island County / ZIP 98282 sector"]
+zillowHomeValueUsd: 728558
 ---
 
 **Engineering Notice for Camano:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Island County.

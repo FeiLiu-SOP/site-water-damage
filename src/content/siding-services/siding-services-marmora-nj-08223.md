@@ -12,6 +12,7 @@ lng: -74.6600
 zipSample: ["08223"]
 zipCodes: ["08223"]
 localPaths: ["Cape May County / coords 39.2600, -74.6600", "Cape May County / elevation 30 ft band", "Cape May County / primary ZIP 08223", "Cape May County / ZIP 08223 sector"]
+zillowHomeValueUsd: 498065
 ---
 
 **Engineering Notice for Marmora:** Cladding Retrofit was validated under stress factor 1.24; target tolerance set near 93 mph. Coordinates: 39.2600, -74.6600. Grid anchor: Cape May County.

@@ -12,6 +12,7 @@ lng: -78.2400
 zipSample: ["15834"]
 zipCodes: ["15834"]
 localPaths: ["Cameron County / ZIP 15834 sector", "Cameron County / primary ZIP 15834", "Cameron County / coords 41.5100, -78.2400", "Cameron County / elevation 1024 ft band"]
+zillowHomeValueUsd: 83503
 ---
 
 **Engineering Notice for Emporium:** Site context locked to Cameron County. Weather Barrier Wrap integrity verification recorded.

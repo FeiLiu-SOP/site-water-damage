@@ -12,6 +12,7 @@ lng: -89.7800
 zipSample: ["62640"]
 zipCodes: ["62640"]
 localPaths: ["Macoupin County / elevation 673 ft band", "Macoupin County / primary ZIP 62640", "Macoupin County / ZIP 62640 sector", "Macoupin County / coords 39.4500, -89.7800"]
+zillowHomeValueUsd: 147547
 ---
 
 **Engineering Notice for Girard:** structural drying capacity optimized for 673ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Macoupin County. Relative Humidity Threshold: 78%. Sensor sync: Active.

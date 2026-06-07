@@ -12,6 +12,7 @@ lng: -81.9300
 zipSample: ["44145"]
 zipCodes: ["44145"]
 localPaths: ["Cuyahoga County / elevation 741 ft band", "Cuyahoga County / ZIP 44145 sector", "Cuyahoga County / coords 41.4500, -81.9300", "Cuyahoga County / primary ZIP 44145"]
+zillowHomeValueUsd: 414705
 ---
 
 **Engineering Notice for Westlake:** Structural loading calculated based on 741 ft terrain assessment. Regional dispatch grid: Cuyahoga County.

@@ -12,6 +12,7 @@ lng: -86.0500
 zipSample: ["46219"]
 zipCodes: ["46219"]
 localPaths: ["Marion County / coords 39.7800, -86.0500", "Marion County / ZIP 46219 sector", "Marion County / elevation 827 ft band", "Marion County / primary ZIP 46219"]
+zillowHomeValueUsd: 185413
 ---
 
 **Engineering Notice for Warren Park:** System optimized for 147 mg/L hard water scaling factors in Warren Park. Regional dispatch grid: Marion County.

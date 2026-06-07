@@ -12,6 +12,8 @@ lng: -66.4100
 zipSample: ["00687"]
 zipCodes: ["00687"]
 localPaths: ["Morovis County / elevation 748 ft band", "Morovis County / primary ZIP 00687", "Morovis County / ZIP 00687 sector", "Morovis County / coords 18.3300, -66.4100"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 381381
 ---
 
 **Engineering Notice for Morovis:** Cladding verification uses 91 mph routing baseline; lateral pressure note: 12.1 psf. Elevation: 748 ft AMSL. Grid: Morovis County.

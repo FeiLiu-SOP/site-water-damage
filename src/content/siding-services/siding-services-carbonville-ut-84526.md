@@ -12,6 +12,7 @@ lng: -110.8300
 zipSample: ["84501", "84526"]
 zipCodes: ["84526", "84501"]
 localPaths: ["Carbon County / primary ZIP 84526", "Carbon County / ZIP 84501 sector", "Carbon County / ZIP 84526 sector", "Carbon County / elevation 5676 ft band", "Carbon County / coords 39.6300, -110.8300"]
+zillowHomeValueUsd: 283373
 ---
 
 **Engineering Notice for Carbonville:** Structural integrity verification: Wall Restoration calibrated for 91 mph localized wind load factor. Elevation: 5676 ft AMSL. Coordinates: 39.6300, -110.8300. Regional dispatch grid: Carbon County.

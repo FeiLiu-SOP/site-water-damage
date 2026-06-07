@@ -12,6 +12,7 @@ lng: -83.7700
 zipSample: ["45101"]
 zipCodes: ["45101"]
 localPaths: ["Brown County / primary ZIP 45101", "Brown County / ZIP 45101 sector", "Brown County / coords 38.6700, -83.7700", "Brown County / elevation 528 ft band"]
+zillowHomeValueUsd: 199297
 ---
 
 **Engineering Notice for Aberdeen:** System optimized for 156 mg/L hard water scaling factors in Aberdeen. Regional dispatch grid: Brown County.

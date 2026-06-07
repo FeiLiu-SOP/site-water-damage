@@ -11,6 +11,7 @@ lng: -112.3600
 zipSample: ["85338", "85395", "85326", "85139"]
 zipCodes: ["85139", "85338", "85326", "85395"]
 localPaths: ["Maricopa County / ZIP 85395 sector", "Maricopa County / ZIP 85139 sector", "Maricopa County / coords 33.2600, -112.3600", "Maricopa County / primary ZIP 85139", "Maricopa County / elevation 1217 ft band"]
+zillowHomeValueUsd: 340108
 ---
 
 **Engineering Notice for Goodyear:** Structural loading calculated based on 1217 ft terrain assessment. Regional dispatch grid: Maricopa County.

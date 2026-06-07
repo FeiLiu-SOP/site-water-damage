@@ -12,6 +12,7 @@ lng: -95.8200
 zipSample: ["66736"]
 zipCodes: ["66736"]
 localPaths: ["Wilson County / coords 37.5300, -95.8200", "Wilson County / ZIP 66736 sector", "Wilson County / primary ZIP 66736", "Wilson County / elevation 912 ft band"]
+zillowHomeValueUsd: 101940
 ---
 
 **Engineering Notice for Fredonia:** Weather Barrier Wrap was validated under stress factor 1.14; target tolerance set near 95 mph. Grid anchor: Wilson County.

@@ -12,6 +12,7 @@ lng: -122.5100
 zipSample: ["98604"]
 zipCodes: ["98604"]
 localPaths: ["Clark County / coords 45.8100, -122.5100", "Clark County / elevation 669 ft band", "Clark County / primary ZIP 98604", "Clark County / ZIP 98604 sector"]
+zillowHomeValueUsd: 605403
 ---
 
 **Engineering Notice for Lewisville:** Exterior Cladding was validated under stress factor 1.17; target tolerance set near 96 mph. Coordinates: 45.8100, -122.5100. Grid anchor: Clark County.

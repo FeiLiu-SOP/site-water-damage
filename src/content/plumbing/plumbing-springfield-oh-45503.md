@@ -12,6 +12,7 @@ lng: -83.8000
 zipSample: ["45506", "45505", "45501", "45503", "45504"]
 zipCodes: ["45504", "45501", "45503", "45506", "45505"]
 localPaths: ["Clark County / ZIP 45505 sector", "Clark County / ZIP 45501 sector", "Clark County / primary ZIP 45503", "Clark County / ZIP 45504 sector", "Clark County / elevation 925 ft band"]
+zillowHomeValueUsd: 192825
 ---
 
 **Engineering Notice for Springfield:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Clark County.

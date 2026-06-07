@@ -12,6 +12,7 @@ lng: -96.5100
 zipSample: ["77962"]
 zipCodes: ["77962"]
 localPaths: ["Jackson County / ZIP 77962 sector", "Jackson County / primary ZIP 77962", "Jackson County / elevation 75 ft band", "Jackson County / coords 29.0400, -96.5100"]
+zillowHomeValueUsd: 221047
 ---
 
 **Engineering Notice for Ganado:** System optimized for 150 mg/L hard water scaling factors in Ganado. Regional dispatch grid: Jackson County.

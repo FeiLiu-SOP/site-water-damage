@@ -12,6 +12,7 @@ lng: -101.8900
 zipSample: ["67950"]
 zipCodes: ["67950"]
 localPaths: ["Morton County / primary ZIP 67950", "Morton County / elevation 3599 ft band", "Morton County / coords 37.0000, -101.8900", "Morton County / ZIP 67950 sector"]
+zillowHomeValueUsd: 104077
 ---
 
 **Engineering Notice for Elkhart:** System optimized for 159 mg/L hard water scaling factors in Elkhart. Regional dispatch grid: Morton County.

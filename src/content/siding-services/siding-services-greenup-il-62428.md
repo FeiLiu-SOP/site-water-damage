@@ -12,6 +12,7 @@ lng: -88.1600
 zipSample: ["62428"]
 zipCodes: ["62428"]
 localPaths: ["Cumberland County / primary ZIP 62428", "Cumberland County / coords 39.2500, -88.1600", "Cumberland County / ZIP 62428 sector", "Cumberland County / elevation 597 ft band"]
+zillowHomeValueUsd: 139941
 ---
 
 **Engineering Notice for Greenup:** Structural integrity verification: Panel Replacement calibrated for 104 mph localized wind load factor. Elevation: 597 ft AMSL. Coordinates: 39.2500, -88.1600. Regional dispatch grid: Cumberland County.

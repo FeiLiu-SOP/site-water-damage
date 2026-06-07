@@ -11,6 +11,7 @@ lng: -85.8300
 zipSample: ["49429", "49428"]
 zipCodes: ["49429", "49428"]
 localPaths: ["Ottawa County / coords 42.9100, -85.8300", "Ottawa County / elevation 659 ft band", "Ottawa County / ZIP 49429 sector", "Ottawa County / ZIP 49428 sector", "Ottawa County / primary ZIP 49428"]
+zillowHomeValueUsd: 360154
 ---
 
 **Engineering Notice for Jenison:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Ottawa County.

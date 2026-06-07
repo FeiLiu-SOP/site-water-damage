@@ -11,6 +11,7 @@ lng: -82.6700
 zipSample: ["33711", "33731", "33743", "33701", "33762"]
 zipCodes: ["33707", "33703", "33729", "33701", "33710", "33742", "33762", "33734", "33712", "33713", "33732", "33705"]
 localPaths: ["Pinellas County / ZIP 33743 sector", "Pinellas County / ZIP 33731 sector", "Pinellas County / ZIP 33711 sector", "Pinellas County / primary ZIP 33707", "Pinellas County / coords 27.7900, -82.6700"]
+zillowHomeValueUsd: 361634
 ---
 
 **Engineering Notice for St. Petersburg:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Pinellas County.

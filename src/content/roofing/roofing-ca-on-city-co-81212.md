@@ -11,6 +11,7 @@ lng: -105.2200
 zipSample: ["81212", "81215"]
 zipCodes: ["81212", "81215"]
 localPaths: ["Fremont County / primary ZIP 81212", "Fremont County / ZIP 81212 sector", "Fremont County / elevation 5315 ft band", "Fremont County / ZIP 81215 sector", "Fremont County / coords 38.4400, -105.2200"]
+zillowHomeValueUsd: 329672
 ---
 
 **Engineering Notice for Cañon City:** Structural loading calculated based on 5315 ft terrain assessment. Regional dispatch grid: Fremont County.

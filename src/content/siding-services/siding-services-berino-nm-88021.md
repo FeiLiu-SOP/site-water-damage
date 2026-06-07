@@ -12,6 +12,7 @@ lng: -106.6200
 zipSample: ["88024", "88021", "88048"]
 zipCodes: ["88021", "88024", "88048"]
 localPaths: ["Doña Ana County / coords 32.0700, -106.6200", "Doña Ana County / ZIP 88024 sector", "Doña Ana County / elevation 3822 ft band", "Doña Ana County / primary ZIP 88021", "Doña Ana County / ZIP 88021 sector"]
+zillowHomeValueUsd: 237890
 ---
 
 **Engineering Notice for Berino:** Envelope check: Wall Restoration assigned to wind-load band C with stress factor 0.71. Elevation: 3822 ft AMSL. Regional dispatch grid: Doña Ana County.

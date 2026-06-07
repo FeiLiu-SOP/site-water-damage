@@ -12,6 +12,7 @@ lng: -83.9800
 zipSample: ["31799", "31792", "31758"]
 zipCodes: ["31758", "31799", "31792"]
 localPaths: ["Thomas County / coords 30.8400, -83.9800", "Thomas County / ZIP 31792 sector", "Thomas County / primary ZIP 31792", "Thomas County / ZIP 31799 sector", "Thomas County / elevation 289 ft band"]
+zillowHomeValueUsd: 206289
 ---
 
 **Engineering Notice for Thomasville:** Structural loading calculated based on 289 ft terrain assessment. Regional dispatch grid: Thomas County.

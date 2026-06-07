@@ -12,6 +12,7 @@ lng: -79.5400
 zipSample: ["29570"]
 zipCodes: ["29570"]
 localPaths: ["Marlboro County / elevation 194 ft band", "Marlboro County / primary ZIP 29570", "Marlboro County / ZIP 29570 sector", "Marlboro County / coords 34.6700, -79.5400"]
+zillowHomeValueUsd: 76230
 ---
 
 **Engineering Notice for McColl:** System optimized for 171 mg/L hard water scaling factors in McColl. Regional dispatch grid: Marlboro County.

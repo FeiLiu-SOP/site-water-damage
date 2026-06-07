@@ -12,6 +12,7 @@ lng: -80.4300
 zipSample: ["28163"]
 zipCodes: ["28163"]
 localPaths: ["Stanly County / elevation 594 ft band", "Stanly County / coords 35.2300, -80.4300", "Stanly County / ZIP 28163 sector", "Stanly County / primary ZIP 28163"]
+zillowHomeValueUsd: 390329
 ---
 
 **Engineering Notice for Stanfield:** System optimized for 174 mg/L hard water scaling factors in Stanfield. Regional dispatch grid: Stanly County.

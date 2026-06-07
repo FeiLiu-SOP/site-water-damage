@@ -12,6 +12,7 @@ lng: -90.0400
 zipSample: ["61434"]
 zipCodes: ["61434"]
 localPaths: ["Henry County / primary ZIP 61434", "Henry County / coords 41.1700, -90.0400", "Henry County / elevation 846 ft band", "Henry County / ZIP 61434 sector"]
+zillowHomeValueUsd: 107204
 ---
 
 **Engineering Notice for Galva:** Site context locked to Henry County. Weather Barrier Wrap integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -85.3600
 zipSample: ["47303", "47338"]
 zipCodes: ["47338", "47303"]
 localPaths: ["Delaware County / coords 40.3200, -85.3600", "Delaware County / ZIP 47303 sector", "Delaware County / primary ZIP 47338", "Delaware County / ZIP 47338 sector", "Delaware County / elevation 909 ft band"]
+zillowHomeValueUsd: 166769
 ---
 
 **Engineering Notice for Eaton:** System optimized for 125 mg/L hard water scaling factors in Eaton. Regional dispatch grid: Delaware County.

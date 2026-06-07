@@ -12,6 +12,7 @@ lng: -88.7500
 zipSample: ["62411"]
 zipCodes: ["62411"]
 localPaths: ["Effingham County / primary ZIP 62411", "Effingham County / coords 39.0600, -88.7500", "Effingham County / ZIP 62411 sector", "Effingham County / elevation 623 ft band"]
+zillowHomeValueUsd: 160488
 ---
 
 **Engineering Notice for Altamont:** System optimized for 134 mg/L hard water scaling factors in Altamont. Regional dispatch grid: Effingham County.

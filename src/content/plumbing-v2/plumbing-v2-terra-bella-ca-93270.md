@@ -12,6 +12,7 @@ lng: -119.0400
 zipSample: ["93270"]
 zipCodes: ["93270"]
 localPaths: ["Tulare County / coords 35.9600, -119.0400", "Tulare County / primary ZIP 93270", "Tulare County / elevation 495 ft band", "Tulare County / ZIP 93270 sector"]
+zillowHomeValueUsd: 390945
 ---
 
 **Engineering Notice for Terra Bella:** System optimized for 120 mg/L hard water scaling factors in Terra Bella. Regional dispatch grid: Tulare County.

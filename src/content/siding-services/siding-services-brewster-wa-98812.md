@@ -12,6 +12,7 @@ lng: -119.7800
 zipSample: ["98812"]
 zipCodes: ["98812"]
 localPaths: ["Okanogan County / primary ZIP 98812", "Okanogan County / elevation 771 ft band", "Okanogan County / coords 48.1000, -119.7800", "Okanogan County / ZIP 98812 sector"]
+zillowHomeValueUsd: 317036
 ---
 
 **Engineering Notice for Brewster:** Structural integrity verification: Cladding Retrofit calibrated for 100 mph localized wind load factor. Regional dispatch grid: Okanogan County.

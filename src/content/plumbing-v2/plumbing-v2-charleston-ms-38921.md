@@ -12,6 +12,7 @@ lng: -90.0600
 zipSample: ["38921"]
 zipCodes: ["38921"]
 localPaths: ["Tallahatchie County / elevation 213 ft band", "Tallahatchie County / primary ZIP 38921", "Tallahatchie County / coords 34.0100, -90.0600", "Tallahatchie County / ZIP 38921 sector"]
+zillowHomeValueUsd: 99973
 ---
 
 **Engineering Notice for Charleston:** System optimized for 179 mg/L hard water scaling factors in Charleston. Regional dispatch grid: Tallahatchie County.

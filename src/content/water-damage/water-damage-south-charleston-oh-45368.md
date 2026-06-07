@@ -12,6 +12,7 @@ lng: -83.6400
 zipSample: ["45368"]
 zipCodes: ["45368"]
 localPaths: ["Clark County / primary ZIP 45368", "Clark County / coords 39.8200, -83.6400", "Clark County / ZIP 45368 sector", "Clark County / elevation 1112 ft band"]
+zillowHomeValueUsd: 262835
 ---
 
 **Engineering Notice for South Charleston:** structural drying capacity optimized for 1112ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clark County. Relative Humidity Threshold: 84%. Sensor sync: Active.

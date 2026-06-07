@@ -12,6 +12,7 @@ lng: -78.9200
 zipSample: ["15907", "15901", "15902", "15906", "15905"]
 zipCodes: ["15901", "15907", "15902", "15905", "15906"]
 localPaths: ["Cambria County / ZIP 15907 sector", "Cambria County / coords 40.3300, -78.9200", "Cambria County / ZIP 15901 sector", "Cambria County / elevation 1178 ft band", "Cambria County / ZIP 15906 sector"]
+zillowHomeValueUsd: 42910
 ---
 
 **Engineering Notice for Johnstown:** Structural loading calculated based on 1178 ft terrain assessment. Regional dispatch grid: Cambria County.

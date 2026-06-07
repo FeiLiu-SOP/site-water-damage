@@ -12,6 +12,7 @@ lng: -79.0800
 zipSample: ["27312"]
 zipCodes: ["27312"]
 localPaths: ["Chatham County / primary ZIP 27312", "Chatham County / coords 35.8000, -79.0800", "Chatham County / ZIP 27312 sector", "Chatham County / elevation 446 ft band"]
+zillowHomeValueUsd: 562604
 ---
 
 **Engineering Notice for Fearrington Village:** structural drying capacity optimized for 446ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chatham County. Relative Humidity Threshold: 75%. Sensor sync: Active.

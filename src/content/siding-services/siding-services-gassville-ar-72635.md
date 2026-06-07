@@ -12,6 +12,7 @@ lng: -92.4900
 zipSample: ["72635"]
 zipCodes: ["72635"]
 localPaths: ["Baxter County / ZIP 72635 sector", "Baxter County / primary ZIP 72635", "Baxter County / elevation 745 ft band", "Baxter County / coords 36.2800, -92.4900"]
+zillowHomeValueUsd: 194030
 ---
 
 **Engineering Notice for Gassville:** Envelope check: Vinyl Panels assigned to wind-load band C with stress factor 0.87. Regional dispatch grid: Baxter County.

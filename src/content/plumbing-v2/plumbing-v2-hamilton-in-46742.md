@@ -12,6 +12,7 @@ lng: -84.9200
 zipSample: ["46742"]
 zipCodes: ["46742"]
 localPaths: ["Steuben County / primary ZIP 46742", "Steuben County / coords 41.5400, -84.9200", "Steuben County / ZIP 46742 sector", "Steuben County / elevation 925 ft band"]
+zillowHomeValueUsd: 357832
 ---
 
 **Engineering Notice for Hamilton:** System optimized for 171 mg/L hard water scaling factors in Hamilton. Regional dispatch grid: Steuben County.

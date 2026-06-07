@@ -12,6 +12,7 @@ lng: -83.7700
 zipSample: ["45101"]
 zipCodes: ["45101"]
 localPaths: ["Brown County / ZIP 45101 sector", "Brown County / elevation 528 ft band", "Brown County / primary ZIP 45101", "Brown County / coords 38.6700, -83.7700"]
+zillowHomeValueUsd: 199298
 ---
 
 **Engineering Notice for Aberdeen:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 1.18. Elevation: 528 ft AMSL. Regional dispatch grid: Brown County.

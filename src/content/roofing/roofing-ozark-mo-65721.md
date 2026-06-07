@@ -11,6 +11,7 @@ lng: -93.2200
 zipSample: ["65721"]
 zipCodes: ["65721"]
 localPaths: ["Christian County / primary ZIP 65721", "Christian County / ZIP 65721 sector", "Christian County / coords 37.0400, -93.2200", "Christian County / elevation 1296 ft band"]
+zillowHomeValueUsd: 315008
 ---
 
 **Engineering Notice for Ozark:** Structural loading calculated based on 1296 ft terrain assessment. Regional dispatch grid: Christian County.

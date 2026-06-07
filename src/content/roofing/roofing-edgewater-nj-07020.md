@@ -11,6 +11,7 @@ lng: -73.9700
 zipSample: ["07020"]
 zipCodes: ["07020"]
 localPaths: ["Bergen County / ZIP 07020 sector", "Bergen County / elevation 26 ft band", "Bergen County / primary ZIP 07020", "Bergen County / coords 40.8200, -73.9700"]
+zillowHomeValueUsd: 714947
 ---
 
 **Engineering Notice for Edgewater:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Bergen County.

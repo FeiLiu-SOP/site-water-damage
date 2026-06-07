@@ -12,6 +12,7 @@ lng: -100.5300
 zipSample: ["67749"]
 zipCodes: ["67749"]
 localPaths: ["Decatur County / coords 39.8200, -100.5300", "Decatur County / elevation 2585 ft band", "Decatur County / primary ZIP 67749", "Decatur County / ZIP 67749 sector"]
+zillowHomeValueUsd: 111859
 ---
 
 **Engineering Notice for Oberlin:** Site context locked to Decatur County. Coordinates: 39.8200, -100.5300. Weather Barrier Wrap integrity verification recorded.

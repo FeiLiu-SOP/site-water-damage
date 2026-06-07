@@ -12,6 +12,7 @@ lng: -98.3600
 zipSample: ["73572"]
 zipCodes: ["73572"]
 localPaths: ["Cotton County / primary ZIP 73572", "Cotton County / coords 34.3600, -98.3600", "Cotton County / ZIP 73572 sector", "Cotton County / elevation 1076 ft band"]
+zillowHomeValueUsd: 109570
 ---
 
 **Engineering Notice for Walters:** Structural integrity verification: Cladding Retrofit calibrated for 104 mph localized wind load factor. Elevation: 1076 ft AMSL. Regional dispatch grid: Cotton County.

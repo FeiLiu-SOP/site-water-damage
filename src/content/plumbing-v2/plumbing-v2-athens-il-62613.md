@@ -12,6 +12,7 @@ lng: -89.7200
 zipSample: ["62613"]
 zipCodes: ["62613"]
 localPaths: ["Menard County / coords 39.9600, -89.7200", "Menard County / elevation 607 ft band", "Menard County / primary ZIP 62613", "Menard County / ZIP 62613 sector"]
+zillowHomeValueUsd: 214812
 ---
 
 **Engineering Notice for Athens:** System optimized for 150 mg/L hard water scaling factors in Athens. Regional dispatch grid: Menard County.

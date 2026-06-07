@@ -11,6 +11,7 @@ lng: -93.8600
 zipSample: ["55313"]
 zipCodes: ["55313"]
 localPaths: ["Wright County / primary ZIP 55313", "Wright County / ZIP 55313 sector", "Wright County / elevation 1007 ft band", "Wright County / coords 45.1800, -93.8600"]
+zillowHomeValueUsd: 375261
 ---
 
 **Engineering Notice for Buffalo:** Structural loading calculated based on 1007 ft terrain assessment. Regional dispatch grid: Wright County.

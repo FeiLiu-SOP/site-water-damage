@@ -12,6 +12,7 @@ lng: -77.3000
 zipSample: ["22030", "22031", "22037"]
 zipCodes: ["22031", "22030", "22037"]
 localPaths: ["Fairfax County / ZIP 22030 sector", "Fairfax County / primary ZIP 22031", "Fairfax County / ZIP 22037 sector", "Fairfax County / ZIP 22031 sector", "Fairfax County / coords 38.8500, -77.3000"]
+zillowHomeValueUsd: 774785
 ---
 
 **Engineering Notice for Fairfax:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Fairfax County.

@@ -11,6 +11,7 @@ lng: -118.4000
 zipSample: ["90210", "90211", "90209", "90212"]
 zipCodes: ["90212", "90210", "90209", "90211"]
 localPaths: ["Los Angeles County / ZIP 90209 sector", "Los Angeles County / ZIP 90210 sector", "Los Angeles County / primary ZIP 90211", "Los Angeles County / ZIP 90211 sector", "Los Angeles County / elevation 318 ft band"]
+zillowHomeValueUsd: 2245389
 ---
 
 **Engineering Notice for Beverly Hills:** Structural loading calculated based on 318 ft terrain assessment. Regional dispatch grid: Los Angeles County.

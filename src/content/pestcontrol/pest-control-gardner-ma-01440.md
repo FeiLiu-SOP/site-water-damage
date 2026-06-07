@@ -11,6 +11,7 @@ lng: -71.9900
 zipSample: ["01441", "01440"]
 zipCodes: ["01441", "01440"]
 localPaths: ["Worcester County / ZIP 01441 sector", "Worcester County / ZIP 01440 sector", "Worcester County / coords 42.5800, -71.9900", "Worcester County / elevation 1191 ft band", "Worcester County / primary ZIP 01440"]
+zillowHomeValueUsd: 368980
 ---
 
 **Engineering Notice for Gardner:** Structural loading calculated based on 1191 ft terrain assessment. Regional dispatch grid: Worcester County.

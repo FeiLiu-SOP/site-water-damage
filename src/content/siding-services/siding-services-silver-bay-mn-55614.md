@@ -12,6 +12,7 @@ lng: -91.2800
 zipSample: ["55614"]
 zipCodes: ["55614"]
 localPaths: ["Lake County / coords 47.2900, -91.2800", "Lake County / ZIP 55614 sector", "Lake County / primary ZIP 55614", "Lake County / elevation 955 ft band"]
+zillowHomeValueUsd: 183814
 ---
 
 **Engineering Notice for Silver Bay:** Envelope check: Vinyl Panels assigned to wind-load band A with stress factor 0.85. Elevation: 955 ft AMSL. Regional dispatch grid: Lake County.

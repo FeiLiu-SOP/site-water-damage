@@ -12,6 +12,7 @@ lng: -73.4000
 zipSample: ["12901"]
 zipCodes: ["12901"]
 localPaths: ["Clinton County / primary ZIP 12901", "Clinton County / coords 44.7200, -73.4000", "Clinton County / ZIP 12901 sector", "Clinton County / elevation 161 ft band"]
+zillowHomeValueUsd: 243768
 ---
 
 **Engineering Notice for Cumberland Head:** Cladding verification uses 107 mph routing baseline; lateral pressure note: 14.0 psf. Elevation: 161 ft AMSL. Coordinates: 44.7200, -73.4000. Grid: Clinton County.

@@ -12,6 +12,7 @@ lng: -77.2200
 zipSample: ["22151", "22160"]
 zipCodes: ["22160", "22151"]
 localPaths: ["Fairfax County / ZIP 22160 sector", "Fairfax County / primary ZIP 22151", "Fairfax County / elevation 269 ft band", "Fairfax County / ZIP 22151 sector", "Fairfax County / coords 38.8000, -77.2200"]
+zillowHomeValueUsd: 718987
 ---
 
 **Engineering Notice for Ravensworth:** Structural integrity verification: Exterior Cladding calibrated for 94 mph localized wind load factor. Elevation: 269 ft AMSL. Coordinates: 38.8000, -77.2200. Regional dispatch grid: Fairfax County.

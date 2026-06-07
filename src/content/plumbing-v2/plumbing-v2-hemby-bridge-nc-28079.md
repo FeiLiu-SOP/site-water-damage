@@ -12,6 +12,7 @@ lng: -80.6300
 zipSample: ["28079"]
 zipCodes: ["28079"]
 localPaths: ["Union County / coords 35.1100, -80.6300", "Union County / primary ZIP 28079", "Union County / elevation 636 ft band", "Union County / ZIP 28079 sector"]
+zillowHomeValueUsd: 436087
 ---
 
 **Engineering Notice for Hemby Bridge:** System optimized for 140 mg/L hard water scaling factors in Hemby Bridge. Regional dispatch grid: Union County.

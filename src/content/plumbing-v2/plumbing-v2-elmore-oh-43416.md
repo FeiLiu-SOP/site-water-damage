@@ -12,6 +12,7 @@ lng: -83.2900
 zipSample: ["43416"]
 zipCodes: ["43416"]
 localPaths: ["Ottawa County / coords 41.4700, -83.2900", "Ottawa County / elevation 614 ft band", "Ottawa County / ZIP 43416 sector", "Ottawa County / primary ZIP 43416"]
+zillowHomeValueUsd: 216130
 ---
 
 **Engineering Notice for Elmore:** System optimized for 158 mg/L hard water scaling factors in Elmore. Regional dispatch grid: Ottawa County.

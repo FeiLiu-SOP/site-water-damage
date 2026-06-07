@@ -12,6 +12,7 @@ lng: -70.0600
 zipSample: ["02646", "02645"]
 zipCodes: ["02645", "02646"]
 localPaths: ["Barnstable County / ZIP 02646 sector", "Barnstable County / primary ZIP 02645", "Barnstable County / coords 41.6700, -70.0600", "Barnstable County / ZIP 02645 sector", "Barnstable County / elevation 20 ft band"]
+zillowHomeValueUsd: 751589
 ---
 
 **Engineering Notice for Harwich Port:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Barnstable County. Relative Humidity Threshold: 73%. Sensor sync: Active.

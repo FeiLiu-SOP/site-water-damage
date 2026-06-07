@@ -12,6 +12,7 @@ lng: -76.5400
 zipSample: ["14850"]
 zipCodes: ["14850"]
 localPaths: ["Tompkins County / coords 42.4600, -76.5400", "Tompkins County / primary ZIP 14850", "Tompkins County / elevation 1024 ft band", "Tompkins County / ZIP 14850 sector"]
+zillowHomeValueUsd: 404622
 ---
 
 **Engineering Notice for Northwest Ithaca:** System optimized for 178 mg/L hard water scaling factors in Northwest Ithaca. Regional dispatch grid: Tompkins County.

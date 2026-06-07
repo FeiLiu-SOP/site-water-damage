@@ -12,6 +12,7 @@ lng: -88.1500
 zipSample: ["60002"]
 zipCodes: ["60002"]
 localPaths: ["Lake County / ZIP 60002 sector", "Lake County / elevation 764 ft band", "Lake County / primary ZIP 60002", "Lake County / coords 42.4800, -88.1500"]
+zillowHomeValueUsd: 344753
 ---
 
 **Engineering Notice for Channel Lake:** System optimized for 130 mg/L hard water scaling factors in Channel Lake. Regional dispatch grid: Lake County.

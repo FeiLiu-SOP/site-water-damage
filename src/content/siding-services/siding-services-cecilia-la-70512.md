@@ -12,6 +12,7 @@ lng: -91.8500
 zipSample: ["70517", "70512", "70521"]
 zipCodes: ["70521", "70517", "70512"]
 localPaths: ["St. Martin Parish / coords 30.3400, -91.8500", "St. Martin Parish / ZIP 70512 sector", "St. Martin Parish / ZIP 70521 sector", "St. Martin Parish / elevation 30 ft band", "St. Martin Parish / primary ZIP 70512"]
+zillowHomeValueUsd: 166377
 ---
 
 **Engineering Notice for Cecilia:** Structural integrity verification: Cladding Retrofit calibrated for 93 mph localized wind load factor. Elevation: 30 ft AMSL. Coordinates: 30.3400, -91.8500. Regional dispatch grid: St. Martin Parish.

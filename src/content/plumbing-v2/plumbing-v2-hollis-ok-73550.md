@@ -12,6 +12,7 @@ lng: -99.9200
 zipSample: ["73550"]
 zipCodes: ["73550"]
 localPaths: ["Harmon County / ZIP 73550 sector", "Harmon County / coords 34.6900, -99.9200", "Harmon County / elevation 1650 ft band", "Harmon County / primary ZIP 73550"]
+zillowHomeValueUsd: 57052
 ---
 
 **Engineering Notice for Hollis:** System optimized for 137 mg/L hard water scaling factors in Hollis. Regional dispatch grid: Harmon County.

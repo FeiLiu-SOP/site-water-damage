@@ -12,6 +12,7 @@ lng: -77.8900
 zipSample: ["28551", "27534"]
 zipCodes: ["28551", "27534"]
 localPaths: ["Wayne County / ZIP 28551 sector", "Wayne County / ZIP 27534 sector", "Wayne County / coords 35.3800, -77.8900", "Wayne County / primary ZIP 28551", "Wayne County / elevation 125 ft band"]
+zillowHomeValueUsd: 185509
 ---
 
 **Engineering Notice for New Hope:** Cladding Service was validated under stress factor 0.88; target tolerance set near 96 mph. Coordinates: 35.3800, -77.8900. Grid anchor: Wayne County.

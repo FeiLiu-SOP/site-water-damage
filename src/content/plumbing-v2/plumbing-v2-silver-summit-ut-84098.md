@@ -12,6 +12,7 @@ lng: -111.5100
 zipSample: ["84098"]
 zipCodes: ["84098"]
 localPaths: ["Summit County / elevation 6526 ft band", "Summit County / primary ZIP 84098", "Summit County / ZIP 84098 sector", "Summit County / coords 40.7500, -111.5100"]
+zillowHomeValueUsd: 1355167
 ---
 
 **Engineering Notice for Silver Summit:** System optimized for 156 mg/L hard water scaling factors in Silver Summit. Regional dispatch grid: Summit County.

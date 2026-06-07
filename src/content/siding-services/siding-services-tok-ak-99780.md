@@ -12,6 +12,8 @@ lng: -143.0400
 zipSample: ["99780"]
 zipCodes: ["99780"]
 localPaths: ["Southeast Fairbanks County / coords 63.3300, -143.0400", "Southeast Fairbanks County / elevation 0 ft band", "Southeast Fairbanks County / ZIP 99780 sector", "Southeast Fairbanks County / primary ZIP 99780"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 350213
 ---
 
 **Engineering Notice for Tok:** Cladding Service was validated under stress factor 0.93; target tolerance set near 105 mph. Grid anchor: Southeast Fairbanks County.

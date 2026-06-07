@@ -11,6 +11,7 @@ lng: -71.0000
 zipSample: ["02151"]
 zipCodes: ["02151"]
 localPaths: ["Suffolk County / elevation 20 ft band", "Suffolk County / ZIP 02151 sector", "Suffolk County / coords 42.4200, -71.0000", "Suffolk County / primary ZIP 02151"]
+zillowHomeValueUsd: 613265
 ---
 
 **Engineering Notice for Revere:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Suffolk County.

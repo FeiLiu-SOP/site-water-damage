@@ -12,6 +12,7 @@ lng: -90.5500
 zipSample: ["70394", "70374"]
 zipCodes: ["70394", "70374"]
 localPaths: ["Lafourche Parish / primary ZIP 70374", "Lafourche Parish / ZIP 70374 sector", "Lafourche Parish / coords 29.6600, -90.5500", "Lafourche Parish / elevation 10 ft band", "Lafourche Parish / ZIP 70394 sector"]
+zillowHomeValueUsd: 168771
 ---
 
 **Engineering Notice for Lockport Heights:** Site context locked to Lafourche Parish. Coordinates: 29.6600, -90.5500. Wall Restoration integrity verification recorded.

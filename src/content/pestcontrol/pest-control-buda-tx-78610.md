@@ -11,6 +11,7 @@ lng: -97.8500
 zipSample: ["78610"]
 zipCodes: ["78610"]
 localPaths: ["Hays County / ZIP 78610 sector", "Hays County / primary ZIP 78610", "Hays County / elevation 715 ft band", "Hays County / coords 30.0800, -97.8500"]
+zillowHomeValueUsd: 363722
 ---
 
 **Engineering Notice for Buda:** Structural loading calculated based on 715 ft terrain assessment. Regional dispatch grid: Hays County.

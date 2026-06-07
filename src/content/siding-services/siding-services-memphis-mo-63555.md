@@ -12,6 +12,7 @@ lng: -92.1700
 zipSample: ["63555"]
 zipCodes: ["63555"]
 localPaths: ["Scotland County / coords 40.4600, -92.1700", "Scotland County / elevation 781 ft band", "Scotland County / ZIP 63555 sector", "Scotland County / primary ZIP 63555"]
+zillowHomeValueUsd: 118562
 ---
 
 **Engineering Notice for Memphis:** Panel Replacement was validated under stress factor 0.70; target tolerance set near 110 mph. Grid anchor: Scotland County.

@@ -12,6 +12,7 @@ lng: -78.0300
 zipSample: ["28451"]
 zipCodes: ["28451"]
 localPaths: ["Brunswick County / primary ZIP 28451", "Brunswick County / ZIP 28451 sector", "Brunswick County / elevation 26 ft band", "Brunswick County / coords 34.2800, -78.0300"]
+zillowHomeValueUsd: 378065
 ---
 
 **Engineering Notice for Navassa:** System optimized for 156 mg/L hard water scaling factors in Navassa. Regional dispatch grid: Brunswick County.

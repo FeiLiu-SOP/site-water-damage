@@ -12,6 +12,7 @@ lng: -78.9100
 zipSample: ["14131"]
 zipCodes: ["14131"]
 localPaths: ["Niagara County / elevation 318 ft band", "Niagara County / ZIP 14131 sector", "Niagara County / primary ZIP 14131", "Niagara County / coords 43.2400, -78.9100"]
+zillowHomeValueUsd: 285607
 ---
 
 **Engineering Notice for Ransomville:** Structural integrity verification: Wall Restoration calibrated for 94 mph localized wind load factor. Coordinates: 43.2400, -78.9100. Regional dispatch grid: Niagara County.

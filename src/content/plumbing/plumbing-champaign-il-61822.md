@@ -12,6 +12,7 @@ lng: -88.2700
 zipSample: ["61821", "61826", "61820", "61822", "61825"]
 zipCodes: ["61826", "61821", "61825", "61824", "61820", "61822"]
 localPaths: ["Champaign County / ZIP 61821 sector", "Champaign County / coords 40.1100, -88.2700", "Champaign County / ZIP 61826 sector", "Champaign County / ZIP 61820 sector", "Champaign County / elevation 787 ft band"]
+zillowHomeValueUsd: 324869
 ---
 
 **Engineering Notice for Champaign:** Structural loading calculated based on 787 ft terrain assessment. Regional dispatch grid: Champaign County.

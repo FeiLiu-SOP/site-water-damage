@@ -11,6 +11,7 @@ lng: -80.7000
 zipSample: ["29905", "29902", "29935", "29906"]
 zipCodes: ["29902", "29906", "29905", "29935"]
 localPaths: ["Beaufort County / ZIP 29935 sector", "Beaufort County / ZIP 29902 sector", "Beaufort County / ZIP 29906 sector", "Beaufort County / primary ZIP 29902", "Beaufort County / elevation 3 ft band"]
+zillowHomeValueUsd: 418959
 ---
 
 **Engineering Notice for Port Royal:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Beaufort County.

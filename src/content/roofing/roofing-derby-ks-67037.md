@@ -11,6 +11,7 @@ lng: -97.2600
 zipSample: ["67037"]
 zipCodes: ["67037"]
 localPaths: ["Sedgwick County / coords 37.5600, -97.2600", "Sedgwick County / ZIP 67037 sector", "Sedgwick County / primary ZIP 67037", "Sedgwick County / elevation 1306 ft band"]
+zillowHomeValueUsd: 282739
 ---
 
 **Engineering Notice for Derby:** Structural loading calculated based on 1306 ft terrain assessment. Regional dispatch grid: Sedgwick County.

@@ -12,6 +12,7 @@ lng: -114.6200
 zipSample: ["92226", "92225"]
 zipCodes: ["92225", "92226"]
 localPaths: ["Riverside County / coords 33.6200, -114.6200", "Riverside County / elevation 269 ft band", "Riverside County / ZIP 92226 sector", "Riverside County / primary ZIP 92225", "Riverside County / ZIP 92225 sector"]
+zillowHomeValueUsd: 221394
 ---
 
 **Engineering Notice for Blythe:** Structural loading calculated based on 269 ft terrain assessment. Regional dispatch grid: Riverside County.

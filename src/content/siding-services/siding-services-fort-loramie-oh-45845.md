@@ -12,6 +12,7 @@ lng: -84.3700
 zipSample: ["45845"]
 zipCodes: ["45845"]
 localPaths: ["Shelby County / elevation 961 ft band", "Shelby County / ZIP 45845 sector", "Shelby County / primary ZIP 45845", "Shelby County / coords 40.3400, -84.3700"]
+zillowHomeValueUsd: 333081
 ---
 
 **Engineering Notice for Fort Loramie:** Structural integrity verification: Exterior Envelope calibrated for 90 mph localized wind load factor. Coordinates: 40.3400, -84.3700. Regional dispatch grid: Shelby County.

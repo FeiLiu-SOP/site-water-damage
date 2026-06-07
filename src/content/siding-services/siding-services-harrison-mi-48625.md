@@ -12,6 +12,7 @@ lng: -84.8100
 zipSample: ["48625"]
 zipCodes: ["48625"]
 localPaths: ["Clare County / ZIP 48625 sector", "Clare County / coords 44.0200, -84.8100", "Clare County / elevation 1188 ft band", "Clare County / primary ZIP 48625"]
+zillowHomeValueUsd: 127897
 ---
 
 **Engineering Notice for Harrison:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Grid: Clare County.

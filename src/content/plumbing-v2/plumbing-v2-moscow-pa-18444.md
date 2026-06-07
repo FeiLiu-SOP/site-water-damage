@@ -12,6 +12,7 @@ lng: -75.5300
 zipSample: ["18444"]
 zipCodes: ["18444"]
 localPaths: ["Lackawanna County / elevation 1821 ft band", "Lackawanna County / primary ZIP 18444", "Lackawanna County / coords 41.3400, -75.5300", "Lackawanna County / ZIP 18444 sector"]
+zillowHomeValueUsd: 288577
 ---
 
 **Engineering Notice for Moscow:** System optimized for 128 mg/L hard water scaling factors in Moscow. Regional dispatch grid: Lackawanna County.

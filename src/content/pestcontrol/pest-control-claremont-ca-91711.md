@@ -11,6 +11,7 @@ lng: -117.7200
 zipSample: ["91711"]
 zipCodes: ["91711"]
 localPaths: ["Los Angeles County / primary ZIP 91711", "Los Angeles County / coords 34.1300, -117.7200", "Los Angeles County / elevation 1483 ft band", "Los Angeles County / ZIP 91711 sector"]
+zillowHomeValueUsd: 1040701
 ---
 
 **Engineering Notice for Claremont:** Structural loading calculated based on 1483 ft terrain assessment. Regional dispatch grid: Los Angeles County.

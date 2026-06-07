@@ -11,6 +11,7 @@ lng: -104.7000
 zipSample: ["80970", "80922", "80915"]
 zipCodes: ["80970", "80915", "80922"]
 localPaths: ["El Paso County / primary ZIP 80915", "El Paso County / ZIP 80915 sector", "El Paso County / ZIP 80922 sector", "El Paso County / coords 38.8600, -104.7000", "El Paso County / elevation 6457 ft band"]
+zillowHomeValueUsd: 380817
 ---
 
 **Engineering Notice for Cimarron Hills:** Structural loading calculated based on 6457 ft terrain assessment. Regional dispatch grid: El Paso County.

@@ -12,6 +12,7 @@ lng: -74.5800
 zipSample: ["07920", "07938"]
 zipCodes: ["07938", "07920"]
 localPaths: ["Somerset County / primary ZIP 07920", "Somerset County / ZIP 07920 sector", "Somerset County / ZIP 07938 sector", "Somerset County / coords 40.6600, -74.5800", "Somerset County / elevation 276 ft band"]
+zillowHomeValueUsd: 916454
 ---
 
 **Engineering Notice for Liberty Corner:** System optimized for 174 mg/L hard water scaling factors in Liberty Corner. Regional dispatch grid: Somerset County.

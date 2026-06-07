@@ -12,6 +12,7 @@ lng: -121.7900
 zipSample: ["95076"]
 zipCodes: ["95076"]
 localPaths: ["Santa Cruz County / primary ZIP 95076", "Santa Cruz County / coords 36.9900, -121.7900", "Santa Cruz County / elevation 430 ft band", "Santa Cruz County / ZIP 95076 sector"]
+zillowHomeValueUsd: 839639
 ---
 
 **Engineering Notice for Corralitos:** Exterior Cladding was validated under stress factor 0.72; target tolerance set near 144 mph. Coordinates: 36.9900, -121.7900. Grid anchor: Santa Cruz County.

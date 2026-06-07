@@ -12,6 +12,7 @@ lng: -77.0700
 zipSample: ["20895", "20891"]
 zipCodes: ["20895", "20891"]
 localPaths: ["Montgomery County / primary ZIP 20895", "Montgomery County / ZIP 20895 sector", "Montgomery County / ZIP 20891 sector", "Montgomery County / elevation 302 ft band", "Montgomery County / coords 39.0300, -77.0700"]
+zillowHomeValueUsd: 819909
 ---
 
 **Engineering Notice for Kensington:** System optimized for 135 mg/L hard water scaling factors in Kensington. Regional dispatch grid: Montgomery County.

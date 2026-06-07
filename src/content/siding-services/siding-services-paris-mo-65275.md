@@ -12,6 +12,7 @@ lng: -92.0000
 zipSample: ["65275"]
 zipCodes: ["65275"]
 localPaths: ["Monroe County / primary ZIP 65275", "Monroe County / ZIP 65275 sector", "Monroe County / elevation 699 ft band", "Monroe County / coords 39.4800, -92.0000"]
+zillowHomeValueUsd: 206495
 ---
 
 **Engineering Notice for Paris:** Site context locked to Monroe County. Coordinates: 39.4800, -92.0000. Exterior Envelope integrity verification recorded.

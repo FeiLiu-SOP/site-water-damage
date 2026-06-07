@@ -11,6 +11,7 @@ lng: -73.5100
 zipSample: ["11793"]
 zipCodes: ["11793"]
 localPaths: ["Nassau County / primary ZIP 11793", "Nassau County / elevation 33 ft band", "Nassau County / coords 40.6700, -73.5100", "Nassau County / ZIP 11793 sector"]
+zillowHomeValueUsd: 800285
 ---
 
 **Engineering Notice for Wantagh:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Nassau County.

@@ -12,6 +12,7 @@ lng: -74.0000
 zipSample: ["07650"]
 zipCodes: ["07650"]
 localPaths: ["Bergen County / ZIP 07650 sector", "Bergen County / elevation 115 ft band", "Bergen County / coords 40.8500, -74.0000", "Bergen County / primary ZIP 07650"]
+zillowHomeValueUsd: 983999
 ---
 
 **Engineering Notice for Palisades Park:** Structural loading calculated based on 115 ft terrain assessment. Regional dispatch grid: Bergen County.

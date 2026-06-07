@@ -12,6 +12,7 @@ lng: -86.4100
 zipSample: ["35178"]
 zipCodes: ["35178"]
 localPaths: ["Shelby County / coords 33.3800, -86.4100", "Shelby County / elevation 482 ft band", "Shelby County / ZIP 35178 sector", "Shelby County / primary ZIP 35178"]
+zillowHomeValueUsd: 258055
 ---
 
 **Engineering Notice for Vincent:** System optimized for 172 mg/L hard water scaling factors in Vincent. Regional dispatch grid: Shelby County.

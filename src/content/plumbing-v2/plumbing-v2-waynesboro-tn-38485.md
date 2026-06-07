@@ -12,6 +12,7 @@ lng: -87.7600
 zipSample: ["38485"]
 zipCodes: ["38485"]
 localPaths: ["Wayne County / coords 35.3200, -87.7600", "Wayne County / primary ZIP 38485", "Wayne County / ZIP 38485 sector", "Wayne County / elevation 705 ft band"]
+zillowHomeValueUsd: 170402
 ---
 
 **Engineering Notice for Waynesboro:** System optimized for 121 mg/L hard water scaling factors in Waynesboro. Regional dispatch grid: Wayne County.

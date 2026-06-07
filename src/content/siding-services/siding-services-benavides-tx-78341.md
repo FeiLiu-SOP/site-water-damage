@@ -12,6 +12,7 @@ lng: -98.4100
 zipSample: ["78341"]
 zipCodes: ["78341"]
 localPaths: ["Duval County / coords 27.6000, -98.4100", "Duval County / primary ZIP 78341", "Duval County / elevation 394 ft band", "Duval County / ZIP 78341 sector"]
+zillowHomeValueUsd: 75688
 ---
 
 **Engineering Notice for Benavides:** Cladding verification uses 138 mph routing baseline; lateral pressure note: 17.8 psf. Elevation: 394 ft AMSL. Coordinates: 27.6000, -98.4100. Grid: Duval County.

@@ -12,6 +12,7 @@ lng: -86.5200
 zipSample: ["37153"]
 zipCodes: ["37153"]
 localPaths: ["Rutherford County / ZIP 37153 sector", "Rutherford County / primary ZIP 37153", "Rutherford County / elevation 689 ft band", "Rutherford County / coords 35.7700, -86.5200"]
+zillowHomeValueUsd: 478841
 ---
 
 **Engineering Notice for Rockvale:** Exterior Envelope was validated under stress factor 1.21; target tolerance set near 94 mph. Coordinates: 35.7700, -86.5200. Grid anchor: Rutherford County.

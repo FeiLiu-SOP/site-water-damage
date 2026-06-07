@@ -12,6 +12,7 @@ lng: -97.7400
 zipSample: ["58270"]
 zipCodes: ["58270"]
 localPaths: ["Walsh County / elevation 997 ft band", "Walsh County / coords 48.3900, -97.7400", "Walsh County / ZIP 58270 sector", "Walsh County / primary ZIP 58270"]
+zillowHomeValueUsd: 166210
 ---
 
 **Engineering Notice for Park River:** Cladding Service was validated under stress factor 0.94; target tolerance set near 110 mph. Coordinates: 48.3900, -97.7400. Grid anchor: Walsh County.

@@ -12,6 +12,7 @@ lng: -87.7000
 zipSample: ["60803"]
 zipCodes: ["60803"]
 localPaths: ["Cook County / coords 41.6800, -87.7000", "Cook County / primary ZIP 60803", "Cook County / ZIP 60803 sector", "Cook County / elevation 623 ft band"]
+zillowHomeValueUsd: 255657
 ---
 
 **Engineering Notice for Merrionette Park:** Structural integrity verification: Wall Restoration calibrated for 100 mph localized wind load factor. Elevation: 623 ft AMSL. Regional dispatch grid: Cook County.

@@ -12,6 +12,7 @@ lng: -81.0500
 zipSample: ["26362"]
 zipCodes: ["26362"]
 localPaths: ["Ritchie County / coords 39.2100, -81.0500", "Ritchie County / elevation 830 ft band", "Ritchie County / ZIP 26362 sector", "Ritchie County / primary ZIP 26362"]
+zillowHomeValueUsd: 127898
 ---
 
 **Engineering Notice for Harrisville:** Envelope check: Surface Sheathing assigned to wind-load band C with stress factor 0.78. Regional dispatch grid: Ritchie County.

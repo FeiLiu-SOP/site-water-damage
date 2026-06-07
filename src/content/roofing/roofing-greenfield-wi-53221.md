@@ -11,6 +11,7 @@ lng: -88.0100
 zipSample: ["53221", "53228", "53220"]
 zipCodes: ["53220", "53221", "53228"]
 localPaths: ["Milwaukee County / ZIP 53221 sector", "Milwaukee County / ZIP 53220 sector", "Milwaukee County / elevation 817 ft band", "Milwaukee County / coords 42.9600, -88.0100", "Milwaukee County / ZIP 53228 sector"]
+zillowHomeValueUsd: 287566
 ---
 
 **Engineering Notice for Greenfield:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Milwaukee County.

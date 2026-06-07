@@ -12,6 +12,7 @@ lng: -77.6200
 zipSample: ["23233", "23059"]
 zipCodes: ["23233", "23059"]
 localPaths: ["Henrico County / coords 37.6500, -77.6200", "Henrico County / ZIP 23233 sector", "Henrico County / primary ZIP 23059", "Henrico County / elevation 315 ft band", "Henrico County / ZIP 23059 sector"]
+zillowHomeValueUsd: 622807
 ---
 
 **Engineering Notice for Short Pump:** Structural loading calculated based on 315 ft terrain assessment. Regional dispatch grid: Henrico County.

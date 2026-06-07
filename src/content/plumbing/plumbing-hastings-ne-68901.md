@@ -12,6 +12,7 @@ lng: -98.3900
 zipSample: ["68901", "68902"]
 zipCodes: ["68901", "68902"]
 localPaths: ["Adams County / primary ZIP 68901", "Adams County / elevation 1939 ft band", "Adams County / ZIP 68902 sector", "Adams County / coords 40.6000, -98.3900", "Adams County / ZIP 68901 sector"]
+zillowHomeValueUsd: 199916
 ---
 
 **Engineering Notice for Hastings:** Structural loading calculated based on 1939 ft terrain assessment. Regional dispatch grid: Adams County.

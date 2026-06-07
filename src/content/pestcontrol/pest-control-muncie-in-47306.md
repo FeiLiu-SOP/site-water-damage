@@ -11,6 +11,7 @@ lng: -85.3900
 zipSample: ["47303", "47305", "47307", "47306", "47302"]
 zipCodes: ["47307", "47302", "47305", "47303", "47304", "47306"]
 localPaths: ["Delaware County / ZIP 47303 sector", "Delaware County / ZIP 47306 sector", "Delaware County / coords 40.2000, -85.3900", "Delaware County / elevation 945 ft band", "Delaware County / ZIP 47302 sector"]
+zillowHomeValueUsd: 209855
 ---
 
 **Engineering Notice for Muncie:** Structural loading calculated based on 945 ft terrain assessment. Regional dispatch grid: Delaware County.

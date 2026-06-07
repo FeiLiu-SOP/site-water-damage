@@ -12,6 +12,7 @@ lng: -80.6200
 zipSample: ["44514"]
 zipCodes: ["44514"]
 localPaths: ["Mahoning County / ZIP 44514 sector", "Mahoning County / coords 41.0200, -80.6200", "Mahoning County / primary ZIP 44514", "Mahoning County / elevation 1040 ft band"]
+zillowHomeValueUsd: 243713
 ---
 
 **Engineering Notice for Poland:** structural drying capacity optimized for 1040ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mahoning County. Relative Humidity Threshold: 71%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -82.3800
 zipSample: ["37601", "37614", "37684", "37605", "37604"]
 zipCodes: ["37602", "37604", "37614", "37684", "37615", "37605", "37601"]
 localPaths: ["Washington County / elevation 1699 ft band", "Washington County / primary ZIP 37614", "Washington County / ZIP 37604 sector", "Washington County / ZIP 37684 sector", "Washington County / ZIP 37605 sector"]
+zillowHomeValueUsd: 280338
 ---
 
 **Engineering Notice for Johnson City:** Structural loading calculated based on 1699 ft terrain assessment. Regional dispatch grid: Washington County.

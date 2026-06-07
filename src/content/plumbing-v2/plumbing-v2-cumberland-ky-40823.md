@@ -12,6 +12,7 @@ lng: -82.9900
 zipSample: ["40823"]
 zipCodes: ["40823"]
 localPaths: ["Harlan County / primary ZIP 40823", "Harlan County / coords 36.9800, -82.9900", "Harlan County / ZIP 40823 sector", "Harlan County / elevation 1706 ft band"]
+zillowHomeValueUsd: 60563
 ---
 
 **Engineering Notice for Cumberland:** System optimized for 130 mg/L hard water scaling factors in Cumberland. Regional dispatch grid: Harlan County.

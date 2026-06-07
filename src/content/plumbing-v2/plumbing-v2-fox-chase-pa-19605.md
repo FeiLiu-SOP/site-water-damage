@@ -12,6 +12,7 @@ lng: -75.9600
 zipSample: ["19605"]
 zipCodes: ["19605"]
 localPaths: ["Berks County / primary ZIP 19605", "Berks County / elevation 322 ft band", "Berks County / coords 40.4000, -75.9600", "Berks County / ZIP 19605 sector"]
+zillowHomeValueUsd: 292205
 ---
 
 **Engineering Notice for Fox Chase:** System optimized for 132 mg/L hard water scaling factors in Fox Chase. Regional dispatch grid: Berks County.

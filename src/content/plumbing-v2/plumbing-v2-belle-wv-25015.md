@@ -12,6 +12,7 @@ lng: -81.5400
 zipSample: ["25015"]
 zipCodes: ["25015"]
 localPaths: ["Kanawha County / primary ZIP 25015", "Kanawha County / elevation 640 ft band", "Kanawha County / coords 38.2300, -81.5400", "Kanawha County / ZIP 25015 sector"]
+zillowHomeValueUsd: 115082
 ---
 
 **Engineering Notice for Belle:** System optimized for 153 mg/L hard water scaling factors in Belle. Regional dispatch grid: Kanawha County.

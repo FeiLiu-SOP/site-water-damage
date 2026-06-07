@@ -12,6 +12,7 @@ lng: -79.0500
 zipSample: ["24521"]
 zipCodes: ["24521"]
 localPaths: ["Amherst County / coords 37.5800, -79.0500", "Amherst County / ZIP 24521 sector", "Amherst County / primary ZIP 24521", "Amherst County / elevation 702 ft band"]
+zillowHomeValueUsd: 291600
 ---
 
 **Engineering Notice for Amherst:** System optimized for 126 mg/L hard water scaling factors in Amherst. Regional dispatch grid: Amherst County.

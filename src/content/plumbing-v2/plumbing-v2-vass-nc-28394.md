@@ -12,6 +12,7 @@ lng: -79.2800
 zipSample: ["28394"]
 zipCodes: ["28394"]
 localPaths: ["Moore County / coords 35.2500, -79.2800", "Moore County / ZIP 28394 sector", "Moore County / primary ZIP 28394", "Moore County / elevation 299 ft band"]
+zillowHomeValueUsd: 361516
 ---
 
 **Engineering Notice for Vass:** System optimized for 142 mg/L hard water scaling factors in Vass. Regional dispatch grid: Moore County.

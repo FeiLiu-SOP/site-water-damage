@@ -11,6 +11,7 @@ lng: -83.4300
 zipSample: ["43616"]
 zipCodes: ["43616"]
 localPaths: ["Lucas County / coords 41.6500, -83.4300", "Lucas County / elevation 584 ft band", "Lucas County / ZIP 43616 sector", "Lucas County / primary ZIP 43616"]
+zillowHomeValueUsd: 227427
 ---
 
 **Engineering Notice for Oregon:** Structural loading calculated based on 584 ft terrain assessment. Regional dispatch grid: Lucas County.

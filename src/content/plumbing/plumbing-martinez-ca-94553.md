@@ -12,6 +12,7 @@ lng: -122.1200
 zipSample: ["94553"]
 zipCodes: ["94553"]
 localPaths: ["Contra Costa County / primary ZIP 94553", "Contra Costa County / coords 38.0000, -122.1200", "Contra Costa County / elevation 157 ft band", "Contra Costa County / ZIP 94553 sector"]
+zillowHomeValueUsd: 773334
 ---
 
 **Engineering Notice for Martinez:** Structural loading calculated based on 157 ft terrain assessment. Regional dispatch grid: Contra Costa County.

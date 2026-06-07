@@ -11,6 +11,7 @@ lng: -89.4800
 zipSample: ["61021"]
 zipCodes: ["61021"]
 localPaths: ["Lee County / elevation 709 ft band", "Lee County / primary ZIP 61021", "Lee County / ZIP 61021 sector", "Lee County / coords 41.8400, -89.4800"]
+zillowHomeValueUsd: 166139
 ---
 
 **Engineering Notice for Dixon:** Structural loading calculated based on 709 ft terrain assessment. Regional dispatch grid: Lee County.

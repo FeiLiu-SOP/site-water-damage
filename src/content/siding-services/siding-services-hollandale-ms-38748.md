@@ -12,6 +12,7 @@ lng: -90.8500
 zipSample: ["38748"]
 zipCodes: ["38748"]
 localPaths: ["Washington County / primary ZIP 38748", "Washington County / ZIP 38748 sector", "Washington County / elevation 131 ft band", "Washington County / coords 33.1800, -90.8500"]
+zillowHomeValueUsd: 60655
 ---
 
 **Engineering Notice for Hollandale:** Cladding verification uses 104 mph routing baseline; lateral pressure note: 13.7 psf. Elevation: 131 ft AMSL. Grid: Washington County.

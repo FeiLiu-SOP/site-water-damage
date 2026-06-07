@@ -11,6 +11,7 @@ lng: -122.3000
 zipSample: ["94530"]
 zipCodes: ["94530"]
 localPaths: ["Contra Costa County / primary ZIP 94530", "Contra Costa County / elevation 194 ft band", "Contra Costa County / coords 37.9200, -122.3000", "Contra Costa County / ZIP 94530 sector"]
+zillowHomeValueUsd: 1139705
 ---
 
 **Engineering Notice for El Cerrito:** Structural loading calculated based on 194 ft terrain assessment. Regional dispatch grid: Contra Costa County.

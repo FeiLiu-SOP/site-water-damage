@@ -11,6 +11,7 @@ lng: -118.3500
 zipSample: ["90250", "90310", "90251", "90304"]
 zipCodes: ["90250", "90310", "90251", "90304"]
 localPaths: ["Los Angeles County / primary ZIP 90304", "Los Angeles County / ZIP 90310 sector", "Los Angeles County / ZIP 90251 sector", "Los Angeles County / ZIP 90250 sector", "Los Angeles County / ZIP 90304 sector"]
+zillowHomeValueUsd: 739040
 ---
 
 **Engineering Notice for Hawthorne:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Los Angeles County.

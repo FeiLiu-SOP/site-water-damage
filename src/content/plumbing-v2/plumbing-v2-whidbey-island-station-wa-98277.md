@@ -12,6 +12,7 @@ lng: -122.6600
 zipSample: ["98278", "98277"]
 zipCodes: ["98277", "98278"]
 localPaths: ["Island County / coords 48.3400, -122.6600", "Island County / ZIP 98278 sector", "Island County / primary ZIP 98277", "Island County / ZIP 98277 sector", "Island County / elevation 7 ft band"]
+zillowHomeValueUsd: 528487
 ---
 
 **Engineering Notice for Whidbey Island Station:** System optimized for 126 mg/L hard water scaling factors in Whidbey Island Station. Regional dispatch grid: Island County.

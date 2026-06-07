@@ -11,6 +11,7 @@ lng: -83.1500
 zipSample: ["48098", "48084", "48085", "48007", "48083"]
 zipCodes: ["48007", "48098", "48084", "48085", "48083", "48099"]
 localPaths: ["Oakland County / ZIP 48007 sector", "Oakland County / coords 42.5800, -83.1500", "Oakland County / ZIP 48084 sector", "Oakland County / primary ZIP 48098", "Oakland County / ZIP 48083 sector"]
+zillowHomeValueUsd: 583256
 ---
 
 **Engineering Notice for Troy:** Structural loading calculated based on 689 ft terrain assessment. Regional dispatch grid: Oakland County.

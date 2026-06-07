@@ -12,6 +12,7 @@ lng: -96.1700
 zipSample: ["75143"]
 zipCodes: ["75143"]
 localPaths: ["Henderson County / elevation 371 ft band", "Henderson County / ZIP 75143 sector", "Henderson County / primary ZIP 75143", "Henderson County / coords 32.2800, -96.1700"]
+zillowHomeValueUsd: 276082
 ---
 
 **Engineering Notice for Tool:** structural drying capacity optimized for 371ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Henderson County. Relative Humidity Threshold: 75%. Sensor sync: Active.

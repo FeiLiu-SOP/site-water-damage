@@ -12,6 +12,7 @@ lng: -88.1500
 zipSample: ["60002"]
 zipCodes: ["60002"]
 localPaths: ["Lake County / elevation 764 ft band", "Lake County / primary ZIP 60002", "Lake County / coords 42.4800, -88.1500", "Lake County / ZIP 60002 sector"]
+zillowHomeValueUsd: 344758
 ---
 
 **Engineering Notice for Channel Lake:** Cladding verification uses 102 mph routing baseline; lateral pressure note: 13.4 psf. Coordinates: 42.4800, -88.1500. Grid: Lake County.

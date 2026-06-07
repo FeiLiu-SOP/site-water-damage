@@ -12,6 +12,7 @@ lng: -94.2300
 zipSample: ["72712", "72713"]
 zipCodes: ["72713", "72712"]
 localPaths: ["Benton County / elevation 1276 ft band", "Benton County / coords 36.3500, -94.2300", "Benton County / ZIP 72713 sector", "Benton County / primary ZIP 72713", "Benton County / ZIP 72712 sector"]
+zillowHomeValueUsd: 454983
 ---
 
 **Engineering Notice for Bentonville:** Structural loading calculated based on 1276 ft terrain assessment. Regional dispatch grid: Benton County.

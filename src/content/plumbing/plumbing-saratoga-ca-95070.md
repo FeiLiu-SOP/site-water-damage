@@ -12,6 +12,7 @@ lng: -122.0300
 zipSample: ["95071", "95070"]
 zipCodes: ["95071", "95070"]
 localPaths: ["Santa Clara County / ZIP 95070 sector", "Santa Clara County / elevation 417 ft band", "Santa Clara County / ZIP 95071 sector", "Santa Clara County / coords 37.2700, -122.0300", "Santa Clara County / primary ZIP 95070"]
+zillowHomeValueUsd: 4178223
 ---
 
 **Engineering Notice for Saratoga:** Structural loading calculated based on 417 ft terrain assessment. Regional dispatch grid: Santa Clara County.

@@ -12,6 +12,7 @@ lng: -83.1600
 zipSample: ["31012"]
 zipCodes: ["31012"]
 localPaths: ["Dodge County / primary ZIP 31012", "Dodge County / ZIP 31012 sector", "Dodge County / elevation 374 ft band", "Dodge County / coords 32.3900, -83.1600"]
+zillowHomeValueUsd: 154576
 ---
 
 **Engineering Notice for Chester:** System optimized for 125 mg/L hard water scaling factors in Chester. Regional dispatch grid: Dodge County.

@@ -12,6 +12,8 @@ lng: -87.8700
 zipSample: ["62466"]
 zipCodes: ["62466"]
 localPaths: ["Lawrence County / ZIP 62466 sector", "Lawrence County / primary ZIP 62466", "Lawrence County / elevation 466 ft band", "Lawrence County / coords 38.7200, -87.8700"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 249397
 ---
 
 **Engineering Notice for Sumner:** Cladding verification uses 108 mph routing baseline; lateral pressure note: 14.2 psf. Coordinates: 38.7200, -87.8700. Grid: Lawrence County.

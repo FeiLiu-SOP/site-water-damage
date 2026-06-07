@@ -11,6 +11,7 @@ lng: -104.7200
 zipSample: ["81007"]
 zipCodes: ["81007"]
 localPaths: ["Pueblo County / ZIP 81007 sector", "Pueblo County / primary ZIP 81007", "Pueblo County / elevation 5059 ft band", "Pueblo County / coords 38.3500, -104.7200"]
+zillowHomeValueUsd: 394667
 ---
 
 **Engineering Notice for Pueblo West:** Structural loading calculated based on 5059 ft terrain assessment. Regional dispatch grid: Pueblo County.

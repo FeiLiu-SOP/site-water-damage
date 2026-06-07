@@ -12,6 +12,7 @@ lng: -74.5700
 zipSample: ["07926", "07960", "07945"]
 zipCodes: ["07945", "07960", "07926"]
 localPaths: ["Morris County / elevation 459 ft band", "Morris County / ZIP 07945 sector", "Morris County / coords 40.7900, -74.5700", "Morris County / primary ZIP 07960", "Morris County / ZIP 07960 sector"]
+zillowHomeValueUsd: 887087
 ---
 
 **Engineering Notice for Brookside:** structural drying capacity optimized for 459ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Morris County. Relative Humidity Threshold: 69%. Sensor sync: Active.

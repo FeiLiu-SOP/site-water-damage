@@ -12,6 +12,7 @@ lng: -120.5500
 zipSample: ["93444"]
 zipCodes: ["93444"]
 localPaths: ["San Luis Obispo County / elevation 351 ft band", "San Luis Obispo County / coords 35.0300, -120.5500", "San Luis Obispo County / primary ZIP 93444", "San Luis Obispo County / ZIP 93444 sector"]
+zillowHomeValueUsd: 941686
 ---
 
 **Engineering Notice for Woodlands:** Structural integrity verification: Wall Restoration calibrated for 136 mph localized wind load factor. Elevation: 351 ft AMSL. Regional dispatch grid: San Luis Obispo County.

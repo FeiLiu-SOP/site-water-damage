@@ -12,6 +12,7 @@ lng: -85.2000
 zipSample: ["37367"]
 zipCodes: ["37367"]
 localPaths: ["Bledsoe County / coords 35.6000, -85.2000", "Bledsoe County / primary ZIP 37367", "Bledsoe County / ZIP 37367 sector", "Bledsoe County / elevation 840 ft band"]
+zillowHomeValueUsd: 243925
 ---
 
 **Engineering Notice for Pikeville:** System optimized for 121 mg/L hard water scaling factors in Pikeville. Regional dispatch grid: Bledsoe County.

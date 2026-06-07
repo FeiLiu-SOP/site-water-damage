@@ -12,6 +12,7 @@ lng: -91.4200
 zipSample: ["54612", "54773", "54747"]
 zipCodes: ["54747", "54773", "54612"]
 localPaths: ["Trempealeau County / ZIP 54612 sector", "Trempealeau County / elevation 810 ft band", "Trempealeau County / coords 44.3300, -91.4200", "Trempealeau County / ZIP 54773 sector", "Trempealeau County / primary ZIP 54773"]
+zillowHomeValueUsd: 228799
 ---
 
 **Engineering Notice for Independence:** structural drying capacity optimized for 810ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Trempealeau County. Relative Humidity Threshold: 82%. Sensor sync: Active.

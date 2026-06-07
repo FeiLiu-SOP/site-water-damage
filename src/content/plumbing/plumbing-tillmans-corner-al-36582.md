@@ -12,6 +12,7 @@ lng: -88.2100
 zipSample: ["36619", "36582"]
 zipCodes: ["36619", "36582"]
 localPaths: ["Mobile County / primary ZIP 36582", "Mobile County / ZIP 36619 sector", "Mobile County / coords 30.5800, -88.2100", "Mobile County / elevation 174 ft band", "Mobile County / ZIP 36582 sector"]
+zillowHomeValueUsd: 203046
 ---
 
 **Engineering Notice for Tillmans Corner:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Mobile County.

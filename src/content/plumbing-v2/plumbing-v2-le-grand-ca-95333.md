@@ -12,6 +12,7 @@ lng: -120.2500
 zipSample: ["95333"]
 zipCodes: ["95333"]
 localPaths: ["Merced County / primary ZIP 95333", "Merced County / ZIP 95333 sector", "Merced County / coords 37.2300, -120.2500", "Merced County / elevation 259 ft band"]
+zillowHomeValueUsd: 349771
 ---
 
 **Engineering Notice for Le Grand:** System optimized for 174 mg/L hard water scaling factors in Le Grand. Regional dispatch grid: Merced County.

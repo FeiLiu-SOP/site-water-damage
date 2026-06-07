@@ -12,6 +12,7 @@ lng: -93.1600
 zipSample: ["55123", "55121", "55122"]
 zipCodes: ["55121", "55123", "55122"]
 localPaths: ["Dakota County / elevation 876 ft band", "Dakota County / primary ZIP 55121", "Dakota County / coords 44.8200, -93.1600", "Dakota County / ZIP 55122 sector", "Dakota County / ZIP 55123 sector"]
+zillowHomeValueUsd: 337336
 ---
 
 **Engineering Notice for Eagan:** Structural loading calculated based on 876 ft terrain assessment. Regional dispatch grid: Dakota County.

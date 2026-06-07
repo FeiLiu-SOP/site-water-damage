@@ -12,6 +12,7 @@ lng: -93.2800
 zipSample: ["71446", "71461"]
 zipCodes: ["71446", "71461"]
 localPaths: ["Vernon Parish / coords 31.1000, -93.2800", "Vernon Parish / primary ZIP 71446", "Vernon Parish / elevation 240 ft band", "Vernon Parish / ZIP 71446 sector", "Vernon Parish / ZIP 71461 sector"]
+zillowHomeValueUsd: 154310
 ---
 
 **Engineering Notice for New Llano:** System optimized for 177 mg/L hard water scaling factors in New Llano. Regional dispatch grid: Vernon Parish.

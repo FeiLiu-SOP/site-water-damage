@@ -11,6 +11,7 @@ lng: -121.6300
 zipSample: ["93906", "93905", "93902", "93915", "93901"]
 zipCodes: ["93905", "93902", "93906", "93915", "93901"]
 localPaths: ["Monterey County / ZIP 93915 sector", "Monterey County / ZIP 93905 sector", "Monterey County / primary ZIP 93901", "Monterey County / elevation 36 ft band", "Monterey County / ZIP 93902 sector"]
+zillowHomeValueUsd: 774165
 ---
 
 **Engineering Notice for Salinas:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Monterey County.

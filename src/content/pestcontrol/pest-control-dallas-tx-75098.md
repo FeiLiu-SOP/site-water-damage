@@ -11,6 +11,7 @@ lng: -96.7700
 zipSample: ["75247", "75372", "75336", "75252", "75251"]
 zipCodes: ["75219", "75210", "75247", "75032", "75354", "75237", "75220", "75088", "75236", "75357", "75225", "75360"]
 localPaths: ["Dallas County / primary ZIP 75098", "Dallas County / elevation 502 ft band", "Dallas County / ZIP 75247 sector", "Dallas County / ZIP 75372 sector", "Dallas County / ZIP 75336 sector"]
+zillowHomeValueUsd: 423193
 ---
 
 **Engineering Notice for Dallas:** Structural loading calculated based on 502 ft terrain assessment. Regional dispatch grid: Dallas County.

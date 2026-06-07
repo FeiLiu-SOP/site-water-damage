@@ -11,6 +11,7 @@ lng: -80.2200
 zipSample: ["33421", "33411"]
 zipCodes: ["33411", "33421"]
 localPaths: ["Palm Beach County / ZIP 33421 sector", "Palm Beach County / primary ZIP 33411", "Palm Beach County / coords 26.7000, -80.2200", "Palm Beach County / ZIP 33411 sector", "Palm Beach County / elevation 39 ft band"]
+zillowHomeValueUsd: 465818
 ---
 
 **Engineering Notice for Royal Palm Beach:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Palm Beach County.

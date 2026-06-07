@@ -11,6 +11,7 @@ lng: -90.3300
 zipSample: ["63033", "63032", "63031"]
 zipCodes: ["63031", "63032", "63033"]
 localPaths: ["St. Louis County / ZIP 63032 sector", "St. Louis County / ZIP 63033 sector", "St. Louis County / elevation 535 ft band", "St. Louis County / coords 38.8000, -90.3300", "St. Louis County / primary ZIP 63033"]
+zillowHomeValueUsd: 196460
 ---
 
 **Engineering Notice for Florissant:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: St. Louis County.

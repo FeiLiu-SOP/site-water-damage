@@ -12,6 +12,7 @@ lng: -81.3500
 zipSample: ["25276"]
 zipCodes: ["25276"]
 localPaths: ["Roane County / ZIP 25276 sector", "Roane County / primary ZIP 25276", "Roane County / coords 38.8000, -81.3500", "Roane County / elevation 807 ft band"]
+zillowHomeValueUsd: 117724
 ---
 
 **Engineering Notice for Spencer:** System optimized for 158 mg/L hard water scaling factors in Spencer. Regional dispatch grid: Roane County.

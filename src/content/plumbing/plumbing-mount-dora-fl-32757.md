@@ -12,6 +12,7 @@ lng: -81.6300
 zipSample: ["32757", "32756"]
 zipCodes: ["32757", "32756"]
 localPaths: ["Lake County / ZIP 32756 sector", "Lake County / ZIP 32757 sector", "Lake County / primary ZIP 32757", "Lake County / coords 28.8100, -81.6300", "Lake County / elevation 194 ft band"]
+zillowHomeValueUsd: 392702
 ---
 
 **Engineering Notice for Mount Dora:** Structural loading calculated based on 194 ft terrain assessment. Regional dispatch grid: Lake County.

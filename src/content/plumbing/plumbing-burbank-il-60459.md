@@ -12,6 +12,7 @@ lng: -87.7700
 zipSample: ["60459"]
 zipCodes: ["60459"]
 localPaths: ["Cook County / ZIP 60459 sector", "Cook County / primary ZIP 60459", "Cook County / elevation 623 ft band", "Cook County / coords 41.7400, -87.7700"]
+zillowHomeValueUsd: 302232
 ---
 
 **Engineering Notice for Burbank:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Cook County.

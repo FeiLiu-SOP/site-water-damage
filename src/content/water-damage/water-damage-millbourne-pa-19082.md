@@ -12,6 +12,7 @@ lng: -75.2500
 zipSample: ["19082"]
 zipCodes: ["19082"]
 localPaths: ["Delaware County / ZIP 19082 sector", "Delaware County / elevation 125 ft band", "Delaware County / primary ZIP 19082", "Delaware County / coords 39.9600, -75.2500"]
+zillowHomeValueUsd: 201356
 ---
 
 **Engineering Notice for Millbourne:** structural drying capacity optimized for 125ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Delaware County. Relative Humidity Threshold: 83%. Sensor sync: Active.

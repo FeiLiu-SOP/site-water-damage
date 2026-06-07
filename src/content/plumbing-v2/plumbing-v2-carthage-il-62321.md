@@ -12,6 +12,7 @@ lng: -91.1300
 zipSample: ["62321"]
 zipCodes: ["62321"]
 localPaths: ["Hancock County / ZIP 62321 sector", "Hancock County / coords 40.4100, -91.1300", "Hancock County / primary ZIP 62321", "Hancock County / elevation 669 ft band"]
+zillowHomeValueUsd: 117245
 ---
 
 **Engineering Notice for Carthage:** System optimized for 137 mg/L hard water scaling factors in Carthage. Regional dispatch grid: Hancock County.

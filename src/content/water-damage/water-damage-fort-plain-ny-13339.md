@@ -12,6 +12,7 @@ lng: -74.6300
 zipSample: ["13339"]
 zipCodes: ["13339"]
 localPaths: ["Montgomery County / elevation 364 ft band", "Montgomery County / primary ZIP 13339", "Montgomery County / coords 42.9300, -74.6300", "Montgomery County / ZIP 13339 sector"]
+zillowHomeValueUsd: 169612
 ---
 
 **Engineering Notice for Fort Plain:** structural drying capacity optimized for 364ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Montgomery County. Relative Humidity Threshold: 85%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -82.4000
 zipSample: ["30434"]
 zipCodes: ["30434"]
 localPaths: ["Jefferson County / ZIP 30434 sector", "Jefferson County / coords 33.0000, -82.4000", "Jefferson County / elevation 299 ft band", "Jefferson County / primary ZIP 30434"]
+zillowHomeValueUsd: 117758
 ---
 
 **Engineering Notice for Louisville:** structural drying capacity optimized for 299ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 67%. Sensor sync: Active.

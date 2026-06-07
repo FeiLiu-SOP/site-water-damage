@@ -12,6 +12,7 @@ lng: -86.6100
 zipSample: ["49128"]
 zipCodes: ["49128"]
 localPaths: ["Berrien County / coords 41.8000, -86.6100", "Berrien County / primary ZIP 49128", "Berrien County / ZIP 49128 sector", "Berrien County / elevation 679 ft band"]
+zillowHomeValueUsd: 347988
 ---
 
 **Engineering Notice for Three Oaks:** Site context locked to Berrien County. Elevation: 679 ft AMSL. Coordinates: 41.8000, -86.6100. Panel Replacement integrity verification recorded.

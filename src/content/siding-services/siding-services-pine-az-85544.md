@@ -12,6 +12,7 @@ lng: -111.4600
 zipSample: ["85544"]
 zipCodes: ["85544"]
 localPaths: ["Gila County / elevation 5397 ft band", "Gila County / ZIP 85544 sector", "Gila County / primary ZIP 85544", "Gila County / coords 34.3800, -111.4600"]
+zillowHomeValueUsd: 481241
 ---
 
 **Engineering Notice for Pine:** Site context locked to Gila County. Surface Sheathing integrity verification recorded.

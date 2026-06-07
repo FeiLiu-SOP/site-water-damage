@@ -11,6 +11,7 @@ lng: -75.9700
 zipSample: ["18201"]
 zipCodes: ["18201"]
 localPaths: ["Luzerne County / primary ZIP 18201", "Luzerne County / elevation 1677 ft band", "Luzerne County / coords 40.9500, -75.9700", "Luzerne County / ZIP 18201 sector"]
+zillowHomeValueUsd: 193212
 ---
 
 **Engineering Notice for Hazleton:** Structural loading calculated based on 1677 ft terrain assessment. Regional dispatch grid: Luzerne County.

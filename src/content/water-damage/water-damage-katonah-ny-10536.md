@@ -12,6 +12,7 @@ lng: -73.6900
 zipSample: ["10536"]
 zipCodes: ["10536"]
 localPaths: ["Westchester County / coords 41.2600, -73.6900", "Westchester County / primary ZIP 10536", "Westchester County / ZIP 10536 sector", "Westchester County / elevation 249 ft band"]
+zillowHomeValueUsd: 1075576
 ---
 
 **Engineering Notice for Katonah:** structural drying capacity optimized for 249ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Westchester County. Relative Humidity Threshold: 74%. Sensor sync: Active.

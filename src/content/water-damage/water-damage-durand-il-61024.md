@@ -12,6 +12,7 @@ lng: -89.3300
 zipSample: ["61024"]
 zipCodes: ["61024"]
 localPaths: ["Winnebago County / elevation 781 ft band", "Winnebago County / primary ZIP 61024", "Winnebago County / ZIP 61024 sector", "Winnebago County / coords 42.4300, -89.3300"]
+zillowHomeValueUsd: 220535
 ---
 
 **Engineering Notice for Durand:** structural drying capacity optimized for 781ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Winnebago County. Relative Humidity Threshold: 81%. Sensor sync: Active.

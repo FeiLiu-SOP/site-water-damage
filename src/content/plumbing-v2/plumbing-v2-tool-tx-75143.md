@@ -12,6 +12,7 @@ lng: -96.1700
 zipSample: ["75143"]
 zipCodes: ["75143"]
 localPaths: ["Henderson County / elevation 371 ft band", "Henderson County / coords 32.2800, -96.1700", "Henderson County / ZIP 75143 sector", "Henderson County / primary ZIP 75143"]
+zillowHomeValueUsd: 276017
 ---
 
 **Engineering Notice for Tool:** System optimized for 179 mg/L hard water scaling factors in Tool. Regional dispatch grid: Henderson County.

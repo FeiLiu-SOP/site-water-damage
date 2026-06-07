@@ -12,6 +12,7 @@ lng: -113.0100
 zipSample: ["59417"]
 zipCodes: ["59417"]
 localPaths: ["Glacier County / elevation 4386 ft band", "Glacier County / coords 48.5500, -113.0100", "Glacier County / primary ZIP 59417", "Glacier County / ZIP 59417 sector"]
+zillowHomeValueUsd: 159256
 ---
 
 **Engineering Notice for South Browning:** System optimized for 128 mg/L hard water scaling factors in South Browning. Regional dispatch grid: Glacier County.

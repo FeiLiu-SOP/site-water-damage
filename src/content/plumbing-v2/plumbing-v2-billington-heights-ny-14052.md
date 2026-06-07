@@ -12,6 +12,7 @@ lng: -78.6200
 zipSample: ["14052"]
 zipCodes: ["14052"]
 localPaths: ["Erie County / coords 42.7900, -78.6200", "Erie County / elevation 935 ft band", "Erie County / primary ZIP 14052", "Erie County / ZIP 14052 sector"]
+zillowHomeValueUsd: 430548
 ---
 
 **Engineering Notice for Billington Heights:** System optimized for 157 mg/L hard water scaling factors in Billington Heights. Regional dispatch grid: Erie County.

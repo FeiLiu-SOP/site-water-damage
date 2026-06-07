@@ -12,6 +12,7 @@ lng: -90.4600
 zipSample: ["70068"]
 zipCodes: ["70068"]
 localPaths: ["St. Charles Parish / ZIP 70068 sector", "St. Charles Parish / elevation 20 ft band", "St. Charles Parish / primary ZIP 70068", "St. Charles Parish / coords 30.0200, -90.4600"]
+zillowHomeValueUsd: 214967
 ---
 
 **Engineering Notice for Montz:** Cladding verification uses 94 mph routing baseline; lateral pressure note: 12.5 psf. Coordinates: 30.0200, -90.4600. Grid: St. Charles Parish.

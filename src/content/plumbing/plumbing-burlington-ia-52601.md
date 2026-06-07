@@ -12,6 +12,7 @@ lng: -91.1200
 zipSample: ["52601"]
 zipCodes: ["52601"]
 localPaths: ["Des Moines County / coords 40.8100, -91.1200", "Des Moines County / elevation 643 ft band", "Des Moines County / primary ZIP 52601", "Des Moines County / ZIP 52601 sector"]
+zillowHomeValueUsd: 124225
 ---
 
 **Engineering Notice for Burlington:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Des Moines County.

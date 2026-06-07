@@ -11,6 +11,7 @@ lng: -122.2200
 zipSample: ["94610", "94613", "94618", "94612", "94602"]
 zipCodes: ["94661", "94621", "94606", "94660", "94615", "94623", "94608", "94614", "94609", "94602", "94611", "94619"]
 localPaths: ["Alameda County / ZIP 94618 sector", "Alameda County / ZIP 94612 sector", "Alameda County / primary ZIP 94621", "Alameda County / ZIP 94613 sector", "Alameda County / ZIP 94602 sector"]
+zillowHomeValueUsd: 452304
 ---
 
 **Engineering Notice for Oakland:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: Alameda County.

@@ -12,6 +12,7 @@ lng: -88.4900
 zipSample: ["42058"]
 zipCodes: ["42058"]
 localPaths: ["Livingston County / coords 37.0500, -88.4900", "Livingston County / ZIP 42058 sector", "Livingston County / elevation 341 ft band", "Livingston County / primary ZIP 42058"]
+zillowHomeValueUsd: 157459
 ---
 
 **Engineering Notice for Ledbetter:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Elevation: 341 ft AMSL. Grid: Livingston County.

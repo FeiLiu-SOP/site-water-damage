@@ -12,6 +12,7 @@ lng: -89.3500
 zipSample: ["38915"]
 zipCodes: ["38915"]
 localPaths: ["Calhoun County / elevation 276 ft band", "Calhoun County / ZIP 38915 sector", "Calhoun County / coords 33.9900, -89.3500", "Calhoun County / primary ZIP 38915"]
+zillowHomeValueUsd: 134592
 ---
 
 **Engineering Notice for Bruce:** System optimized for 143 mg/L hard water scaling factors in Bruce. Regional dispatch grid: Calhoun County.

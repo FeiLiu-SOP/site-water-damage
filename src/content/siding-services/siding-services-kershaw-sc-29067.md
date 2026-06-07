@@ -12,6 +12,7 @@ lng: -80.5900
 zipSample: ["29067"]
 zipCodes: ["29067"]
 localPaths: ["Lancaster County / primary ZIP 29067", "Lancaster County / ZIP 29067 sector", "Lancaster County / elevation 525 ft band", "Lancaster County / coords 34.5500, -80.5900"]
+zillowHomeValueUsd: 187617
 ---
 
 **Engineering Notice for Kershaw:** Envelope check: Surface Sheathing assigned to wind-load band A with stress factor 1.17. Regional dispatch grid: Lancaster County.

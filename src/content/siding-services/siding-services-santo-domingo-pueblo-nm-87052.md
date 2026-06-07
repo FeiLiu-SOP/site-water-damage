@@ -12,6 +12,8 @@ lng: -106.3700
 zipSample: ["87052"]
 zipCodes: ["87052"]
 localPaths: ["Sandoval County / elevation 5164 ft band", "Sandoval County / coords 35.5200, -106.3700", "Sandoval County / primary ZIP 87052", "Sandoval County / ZIP 87052 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 324542
 ---
 
 **Engineering Notice for Santo Domingo Pueblo:** Cladding verification uses 94 mph routing baseline; lateral pressure note: 12.5 psf. Coordinates: 35.5200, -106.3700. Grid: Sandoval County.

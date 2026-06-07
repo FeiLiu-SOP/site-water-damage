@@ -12,6 +12,7 @@ lng: -118.8800
 zipSample: ["91361"]
 zipCodes: ["91361"]
 localPaths: ["Ventura County / coords 34.1300, -118.8800", "Ventura County / primary ZIP 91361", "Ventura County / elevation 994 ft band", "Ventura County / ZIP 91361 sector"]
+zillowHomeValueUsd: 1561077
 ---
 
 **Engineering Notice for Lake Sherwood:** Envelope check: Cladding Service assigned to wind-load band C with stress factor 0.73. Regional dispatch grid: Ventura County.

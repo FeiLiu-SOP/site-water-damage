@@ -12,6 +12,7 @@ lng: -93.9700
 zipSample: ["55390"]
 zipCodes: ["55390"]
 localPaths: ["Wright County / coords 45.0600, -93.9700", "Wright County / primary ZIP 55390", "Wright County / elevation 1010 ft band", "Wright County / ZIP 55390 sector"]
+zillowHomeValueUsd: 348833
 ---
 
 **Engineering Notice for Waverly:** System optimized for 166 mg/L hard water scaling factors in Waverly. Regional dispatch grid: Wright County.

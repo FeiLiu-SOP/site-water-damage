@@ -12,6 +12,7 @@ lng: -122.7000
 zipSample: ["97034", "97035", "97036"]
 zipCodes: ["97034", "97035", "97036"]
 localPaths: ["Clackamas County / elevation 272 ft band", "Clackamas County / primary ZIP 97034", "Clackamas County / ZIP 97035 sector", "Clackamas County / coords 45.4100, -122.7000", "Clackamas County / ZIP 97036 sector"]
+zillowHomeValueUsd: 1121985
 ---
 
 **Engineering Notice for Lake Oswego:** Structural loading calculated based on 272 ft terrain assessment. Regional dispatch grid: Clackamas County.

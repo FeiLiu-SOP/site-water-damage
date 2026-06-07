@@ -12,6 +12,7 @@ lng: -92.7800
 zipSample: ["50665"]
 zipCodes: ["50665"]
 localPaths: ["Butler County / ZIP 50665 sector", "Butler County / coords 42.5700, -92.7800", "Butler County / primary ZIP 50665", "Butler County / elevation 981 ft band"]
+zillowHomeValueUsd: 238057
 ---
 
 **Engineering Notice for Parkersburg:** System optimized for 151 mg/L hard water scaling factors in Parkersburg. Regional dispatch grid: Butler County.

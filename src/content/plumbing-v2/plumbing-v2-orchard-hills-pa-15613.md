@@ -12,6 +12,7 @@ lng: -79.5400
 zipSample: ["15613"]
 zipCodes: ["15613"]
 localPaths: ["Armstrong County / coords 40.5800, -79.5400", "Armstrong County / primary ZIP 15613", "Armstrong County / elevation 1148 ft band", "Armstrong County / ZIP 15613 sector"]
+zillowHomeValueUsd: 188688
 ---
 
 **Engineering Notice for Orchard Hills:** System optimized for 133 mg/L hard water scaling factors in Orchard Hills. Regional dispatch grid: Armstrong County.

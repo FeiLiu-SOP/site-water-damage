@@ -12,6 +12,7 @@ lng: -122.3500
 zipSample: ["94402"]
 zipCodes: ["94402"]
 localPaths: ["San Mateo County / elevation 568 ft band", "San Mateo County / ZIP 94402 sector", "San Mateo County / coords 37.5200, -122.3500", "San Mateo County / primary ZIP 94402"]
+zillowHomeValueUsd: 2475194
 ---
 
 **Engineering Notice for Highlands:** Wall Restoration was validated under stress factor 1.13; target tolerance set near 145 mph. Grid anchor: San Mateo County.

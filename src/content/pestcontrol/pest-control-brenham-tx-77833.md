@@ -11,6 +11,7 @@ lng: -96.4000
 zipSample: ["77833", "77834"]
 zipCodes: ["77834", "77833"]
 localPaths: ["Washington County / coords 30.1600, -96.4000", "Washington County / ZIP 77833 sector", "Washington County / ZIP 77834 sector", "Washington County / primary ZIP 77833", "Washington County / elevation 325 ft band"]
+zillowHomeValueUsd: 332616
 ---
 
 **Engineering Notice for Brenham:** Structural loading calculated based on 325 ft terrain assessment. Regional dispatch grid: Washington County.

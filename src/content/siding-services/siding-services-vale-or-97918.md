@@ -12,6 +12,7 @@ lng: -117.2400
 zipSample: ["97918"]
 zipCodes: ["97918"]
 localPaths: ["Malheur County / coords 43.9800, -117.2400", "Malheur County / primary ZIP 97918", "Malheur County / ZIP 97918 sector", "Malheur County / elevation 2241 ft band"]
+zillowHomeValueUsd: 338941
 ---
 
 **Engineering Notice for Vale:** Envelope check: Surface Sheathing assigned to wind-load band A with stress factor 0.91. Regional dispatch grid: Malheur County.

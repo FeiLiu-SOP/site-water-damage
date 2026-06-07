@@ -12,6 +12,7 @@ lng: -99.9200
 zipSample: ["73550"]
 zipCodes: ["73550"]
 localPaths: ["Harmon County / ZIP 73550 sector", "Harmon County / primary ZIP 73550", "Harmon County / coords 34.6900, -99.9200", "Harmon County / elevation 1650 ft band"]
+zillowHomeValueUsd: 57054
 ---
 
 **Engineering Notice for Hollis:** structural drying capacity optimized for 1650ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harmon County. Relative Humidity Threshold: 72%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -88.0000
 zipSample: ["60938"]
 zipCodes: ["60938"]
 localPaths: ["Iroquois County / ZIP 60938 sector", "Iroquois County / elevation 646 ft band", "Iroquois County / coords 40.7600, -88.0000", "Iroquois County / primary ZIP 60938"]
+zillowHomeValueUsd: 134130
 ---
 
 **Engineering Notice for Gilman:** Structural integrity verification: Surface Sheathing calibrated for 94 mph localized wind load factor. Coordinates: 40.7600, -88.0000. Regional dispatch grid: Iroquois County.

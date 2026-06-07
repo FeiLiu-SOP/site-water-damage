@@ -12,6 +12,7 @@ lng: -97.5900
 zipSample: ["68370"]
 zipCodes: ["68370"]
 localPaths: ["Thayer County / elevation 1486 ft band", "Thayer County / ZIP 68370 sector", "Thayer County / primary ZIP 68370", "Thayer County / coords 40.1700, -97.5900"]
+zillowHomeValueUsd: 177013
 ---
 
 **Engineering Notice for Hebron:** Site context locked to Thayer County. Elevation: 1486 ft AMSL. Cladding Service integrity verification recorded.

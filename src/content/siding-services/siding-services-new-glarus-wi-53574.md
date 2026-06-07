@@ -12,6 +12,7 @@ lng: -89.6300
 zipSample: ["53574"]
 zipCodes: ["53574"]
 localPaths: ["Green County / coords 42.8100, -89.6300", "Green County / elevation 883 ft band", "Green County / ZIP 53574 sector", "Green County / primary ZIP 53574"]
+zillowHomeValueUsd: 445933
 ---
 
 **Engineering Notice for New Glarus:** Site context locked to Green County. Wall Restoration integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -122.4500
 zipSample: ["98264"]
 zipCodes: ["98264"]
 localPaths: ["Whatcom County / coords 48.9500, -122.4500", "Whatcom County / primary ZIP 98264", "Whatcom County / elevation 102 ft band", "Whatcom County / ZIP 98264 sector"]
+zillowHomeValueUsd: 622668
 ---
 
 **Engineering Notice for Lynden:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Whatcom County.

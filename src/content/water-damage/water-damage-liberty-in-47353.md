@@ -12,6 +12,7 @@ lng: -84.9300
 zipSample: ["47353"]
 zipCodes: ["47353"]
 localPaths: ["Union County / ZIP 47353 sector", "Union County / primary ZIP 47353", "Union County / elevation 1017 ft band", "Union County / coords 39.6300, -84.9300"]
+zillowHomeValueUsd: 189818
 ---
 
 **Engineering Notice for Liberty:** structural drying capacity optimized for 1017ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Union County. Relative Humidity Threshold: 85%. Sensor sync: Active.

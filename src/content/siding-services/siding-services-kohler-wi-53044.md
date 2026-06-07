@@ -12,6 +12,7 @@ lng: -87.7800
 zipSample: ["53044"]
 zipCodes: ["53044"]
 localPaths: ["Sheboygan County / primary ZIP 53044", "Sheboygan County / ZIP 53044 sector", "Sheboygan County / elevation 682 ft band", "Sheboygan County / coords 43.7400, -87.7800"]
+zillowHomeValueUsd: 432496
 ---
 
 **Engineering Notice for Kohler:** Envelope check: Surface Sheathing assigned to wind-load band C with stress factor 0.88. Elevation: 682 ft AMSL. Regional dispatch grid: Sheboygan County.

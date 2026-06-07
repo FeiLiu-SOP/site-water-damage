@@ -12,6 +12,7 @@ lng: -97.9500
 zipSample: ["73059"]
 zipCodes: ["73059"]
 localPaths: ["Grady County / primary ZIP 73059", "Grady County / ZIP 73059 sector", "Grady County / coords 35.3200, -97.9500", "Grady County / elevation 1332 ft band"]
+zillowHomeValueUsd: 198555
 ---
 
 **Engineering Notice for Minco:** System optimized for 155 mg/L hard water scaling factors in Minco. Regional dispatch grid: Grady County.

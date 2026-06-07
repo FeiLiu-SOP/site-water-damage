@@ -12,6 +12,8 @@ lng: -66.8900
 zipSample: ["00627"]
 zipCodes: ["00627"]
 localPaths: ["Camuy County / coords 18.4300, -66.8900", "Camuy County / ZIP 00627 sector", "Camuy County / primary ZIP 00627", "Camuy County / elevation 607 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 370449
 ---
 
 **Engineering Notice for Piedra Gorda:** structural drying capacity optimized for 607ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Camuy County. Relative Humidity Threshold: 85%. Sensor sync: Active.

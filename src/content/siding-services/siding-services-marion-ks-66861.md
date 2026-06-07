@@ -12,6 +12,7 @@ lng: -97.0100
 zipSample: ["66861"]
 zipCodes: ["66861"]
 localPaths: ["Marion County / elevation 1355 ft band", "Marion County / coords 38.3500, -97.0100", "Marion County / primary ZIP 66861", "Marion County / ZIP 66861 sector"]
+zillowHomeValueUsd: 142222
 ---
 
 **Engineering Notice for Marion:** Structural integrity verification: Exterior Cladding calibrated for 90 mph localized wind load factor. Elevation: 1355 ft AMSL. Regional dispatch grid: Marion County.

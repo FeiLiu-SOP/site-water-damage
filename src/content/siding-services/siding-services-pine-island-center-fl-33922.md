@@ -12,6 +12,7 @@ lng: -82.1300
 zipSample: ["33922"]
 zipCodes: ["33922"]
 localPaths: ["Lee County / primary ZIP 33922", "Lee County / elevation 10 ft band", "Lee County / coords 26.6400, -82.1300", "Lee County / ZIP 33922 sector"]
+zillowHomeValueUsd: 359541
 ---
 
 **Engineering Notice for Pine Island Center:** Envelope check: Cladding Service assigned to wind-load band A with stress factor 1.08. Regional dispatch grid: Lee County.

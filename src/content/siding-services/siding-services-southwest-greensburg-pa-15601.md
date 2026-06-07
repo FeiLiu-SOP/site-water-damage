@@ -12,6 +12,7 @@ lng: -79.5500
 zipSample: ["15601"]
 zipCodes: ["15601"]
 localPaths: ["Westmoreland County / primary ZIP 15601", "Westmoreland County / elevation 1086 ft band", "Westmoreland County / ZIP 15601 sector", "Westmoreland County / coords 40.2900, -79.5500"]
+zillowHomeValueUsd: 239876
 ---
 
 **Engineering Notice for Southwest Greensburg:** Cladding verification uses 91 mph routing baseline; lateral pressure note: 12.1 psf. Grid: Westmoreland County.

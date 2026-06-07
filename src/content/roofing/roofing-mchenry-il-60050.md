@@ -11,6 +11,7 @@ lng: -88.2900
 zipSample: ["60050"]
 zipCodes: ["60050"]
 localPaths: ["McHenry County / primary ZIP 60050", "McHenry County / coords 42.3400, -88.2900", "McHenry County / elevation 817 ft band", "McHenry County / ZIP 60050 sector"]
+zillowHomeValueUsd: 307088
 ---
 
 **Engineering Notice for McHenry:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: McHenry County.

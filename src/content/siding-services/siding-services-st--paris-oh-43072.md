@@ -12,6 +12,7 @@ lng: -83.9600
 zipSample: ["43072"]
 zipCodes: ["43072"]
 localPaths: ["Champaign County / ZIP 43072 sector", "Champaign County / primary ZIP 43072", "Champaign County / coords 40.1300, -83.9600", "Champaign County / elevation 1227 ft band"]
+zillowHomeValueUsd: 241066
 ---
 
 **Engineering Notice for St. Paris:** Envelope check: Cladding Service assigned to wind-load band C with stress factor 1.22. Elevation: 1227 ft AMSL. Regional dispatch grid: Champaign County.

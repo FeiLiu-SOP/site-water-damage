@@ -12,6 +12,7 @@ lng: -84.8800
 zipSample: ["49082"]
 zipCodes: ["49082"]
 localPaths: ["Branch County / ZIP 49082 sector", "Branch County / coords 41.9400, -84.8800", "Branch County / primary ZIP 49082", "Branch County / elevation 1033 ft band"]
+zillowHomeValueUsd: 220452
 ---
 
 **Engineering Notice for Quincy:** Facade Renewal was validated under stress factor 1.03; target tolerance set near 94 mph. Coordinates: 41.9400, -84.8800. Grid anchor: Branch County.

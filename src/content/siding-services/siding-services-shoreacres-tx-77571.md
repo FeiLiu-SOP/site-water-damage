@@ -12,6 +12,7 @@ lng: -95.0200
 zipSample: ["77571"]
 zipCodes: ["77571"]
 localPaths: ["Harris County / elevation 33 ft band", "Harris County / ZIP 77571 sector", "Harris County / coords 29.6200, -95.0200", "Harris County / primary ZIP 77571"]
+zillowHomeValueUsd: 257191
 ---
 
 **Engineering Notice for Shoreacres:** Site context locked to Harris County. Elevation: 33 ft AMSL. Coordinates: 29.6200, -95.0200. Cladding Retrofit integrity verification recorded.

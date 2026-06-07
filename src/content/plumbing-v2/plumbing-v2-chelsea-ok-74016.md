@@ -12,6 +12,7 @@ lng: -95.4300
 zipSample: ["74016"]
 zipCodes: ["74016"]
 localPaths: ["Rogers County / elevation 722 ft band", "Rogers County / coords 36.5300, -95.4300", "Rogers County / ZIP 74016 sector", "Rogers County / primary ZIP 74016"]
+zillowHomeValueUsd: 214813
 ---
 
 **Engineering Notice for Chelsea:** System optimized for 174 mg/L hard water scaling factors in Chelsea. Regional dispatch grid: Rogers County.

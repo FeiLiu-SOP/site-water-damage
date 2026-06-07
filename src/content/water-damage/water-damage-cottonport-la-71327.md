@@ -12,6 +12,7 @@ lng: -92.0500
 zipSample: ["71327"]
 zipCodes: ["71327"]
 localPaths: ["Avoyelles Parish / primary ZIP 71327", "Avoyelles Parish / elevation 72 ft band", "Avoyelles Parish / coords 30.9900, -92.0500", "Avoyelles Parish / ZIP 71327 sector"]
+zillowHomeValueUsd: 121904
 ---
 
 **Engineering Notice for Cottonport:** structural drying capacity optimized for 72ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Avoyelles Parish. Relative Humidity Threshold: 67%. Sensor sync: Active.

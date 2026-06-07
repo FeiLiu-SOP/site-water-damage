@@ -11,6 +11,7 @@ lng: -77.6500
 zipSample: ["27870"]
 zipCodes: ["27870"]
 localPaths: ["Halifax County / coords 36.4500, -77.6500", "Halifax County / ZIP 27870 sector", "Halifax County / primary ZIP 27870", "Halifax County / elevation 144 ft band"]
+zillowHomeValueUsd: 120710
 ---
 
 **Engineering Notice for Roanoke Rapids:** Structural loading calculated based on 144 ft terrain assessment. Regional dispatch grid: Halifax County.

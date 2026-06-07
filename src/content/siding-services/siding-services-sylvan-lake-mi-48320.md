@@ -12,6 +12,7 @@ lng: -83.3300
 zipSample: ["48320"]
 zipCodes: ["48320"]
 localPaths: ["Oakland County / coords 42.6200, -83.3300", "Oakland County / primary ZIP 48320", "Oakland County / elevation 955 ft band", "Oakland County / ZIP 48320 sector"]
+zillowHomeValueUsd: 300482
 ---
 
 **Engineering Notice for Sylvan Lake:** Envelope check: Cladding Retrofit assigned to wind-load band B with stress factor 1.23. Elevation: 955 ft AMSL. Regional dispatch grid: Oakland County.

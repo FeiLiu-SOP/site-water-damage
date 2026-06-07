@@ -11,6 +11,7 @@ lng: -93.7800
 zipSample: ["50323", "50334", "50322"]
 zipCodes: ["50334", "50323", "50322"]
 localPaths: ["Polk County / ZIP 50322 sector", "Polk County / ZIP 50334 sector", "Polk County / primary ZIP 50323", "Polk County / coords 41.6400, -93.7800", "Polk County / ZIP 50323 sector"]
+zillowHomeValueUsd: 452192
 ---
 
 **Engineering Notice for Urbandale:** Structural loading calculated based on 971 ft terrain assessment. Regional dispatch grid: Polk County.

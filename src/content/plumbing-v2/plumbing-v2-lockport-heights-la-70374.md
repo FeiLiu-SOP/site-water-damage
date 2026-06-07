@@ -12,6 +12,7 @@ lng: -90.5500
 zipSample: ["70374", "70394"]
 zipCodes: ["70394", "70374"]
 localPaths: ["Lafourche Parish / ZIP 70374 sector", "Lafourche Parish / coords 29.6600, -90.5500", "Lafourche Parish / ZIP 70394 sector", "Lafourche Parish / primary ZIP 70374", "Lafourche Parish / elevation 10 ft band"]
+zillowHomeValueUsd: 168770
 ---
 
 **Engineering Notice for Lockport Heights:** System optimized for 139 mg/L hard water scaling factors in Lockport Heights. Regional dispatch grid: Lafourche Parish.

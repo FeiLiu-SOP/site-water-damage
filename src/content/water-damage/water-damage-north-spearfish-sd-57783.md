@@ -12,6 +12,7 @@ lng: -103.9000
 zipSample: ["57783"]
 zipCodes: ["57783"]
 localPaths: ["Lawrence County / elevation 3645 ft band", "Lawrence County / ZIP 57783 sector", "Lawrence County / primary ZIP 57783", "Lawrence County / coords 44.5100, -103.9000"]
+zillowHomeValueUsd: 455451
 ---
 
 **Engineering Notice for North Spearfish:** structural drying capacity optimized for 3645ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lawrence County. Relative Humidity Threshold: 76%. Sensor sync: Active.

@@ -11,6 +11,7 @@ lng: -77.1200
 zipSample: ["20824", "20810", "20889", "20817", "20892"]
 zipCodes: ["20817", "20816", "20814", "20894", "20810", "20889", "20811", "20824", "20815", "20892"]
 localPaths: ["Montgomery County / coords 38.9900, -77.1200", "Montgomery County / ZIP 20892 sector", "Montgomery County / ZIP 20817 sector", "Montgomery County / ZIP 20889 sector", "Montgomery County / ZIP 20810 sector"]
+zillowHomeValueUsd: 1309911
 ---
 
 **Engineering Notice for Bethesda:** Structural loading calculated based on 367 ft terrain assessment. Regional dispatch grid: Montgomery County.

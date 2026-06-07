@@ -12,6 +12,8 @@ lng: -66.2600
 zipSample: ["00646"]
 zipCodes: ["00646"]
 localPaths: ["Dorado County / coords 18.4000, -66.2600", "Dorado County / ZIP 00646 sector", "Dorado County / elevation 220 ft band", "Dorado County / primary ZIP 00646"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 374775
 ---
 
 **Engineering Notice for Río Lajas:** System optimized for 159 mg/L hard water scaling factors in Río Lajas. Regional dispatch grid: Dorado County.

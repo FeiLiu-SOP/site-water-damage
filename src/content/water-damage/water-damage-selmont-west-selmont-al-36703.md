@@ -12,6 +12,7 @@ lng: -87.0100
 zipSample: ["36701", "36703"]
 zipCodes: ["36701", "36703"]
 localPaths: ["Dallas County / elevation 115 ft band", "Dallas County / ZIP 36703 sector", "Dallas County / primary ZIP 36703", "Dallas County / coords 32.3800, -87.0100", "Dallas County / ZIP 36701 sector"]
+zillowHomeValueUsd: 62497
 ---
 
 **Engineering Notice for Selmont-West Selmont:** structural drying capacity optimized for 115ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dallas County. Relative Humidity Threshold: 72%. Sensor sync: Active.

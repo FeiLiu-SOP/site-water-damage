@@ -12,6 +12,7 @@ lng: -113.9400
 zipSample: ["59802"]
 zipCodes: ["59802"]
 localPaths: ["Missoula County / primary ZIP 59802", "Missoula County / elevation 3219 ft band", "Missoula County / coords 46.8800, -113.9400", "Missoula County / ZIP 59802 sector"]
+zillowHomeValueUsd: 551959
 ---
 
 **Engineering Notice for East Missoula:** System optimized for 160 mg/L hard water scaling factors in East Missoula. Regional dispatch grid: Missoula County.

@@ -11,6 +11,7 @@ lng: -94.2200
 zipSample: ["56377"]
 zipCodes: ["56377"]
 localPaths: ["Stearns County / primary ZIP 56377", "Stearns County / coords 45.6200, -94.2200", "Stearns County / elevation 1040 ft band", "Stearns County / ZIP 56377 sector"]
+zillowHomeValueUsd: 339327
 ---
 
 **Engineering Notice for Sartell:** Structural loading calculated based on 1040 ft terrain assessment. Regional dispatch grid: Stearns County.

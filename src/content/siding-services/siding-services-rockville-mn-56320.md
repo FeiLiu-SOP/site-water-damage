@@ -12,6 +12,7 @@ lng: -94.3200
 zipSample: ["56320", "56301", "56369"]
 zipCodes: ["56369", "56301", "56320"]
 localPaths: ["Stearns County / coords 45.4700, -94.3200", "Stearns County / ZIP 56320 sector", "Stearns County / elevation 1148 ft band", "Stearns County / ZIP 56301 sector", "Stearns County / ZIP 56369 sector"]
+zillowHomeValueUsd: 373442
 ---
 
 **Engineering Notice for Rockville:** Cladding Retrofit was validated under stress factor 0.74; target tolerance set near 107 mph. Coordinates: 45.4700, -94.3200. Grid anchor: Stearns County.

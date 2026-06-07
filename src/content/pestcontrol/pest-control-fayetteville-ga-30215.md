@@ -11,6 +11,7 @@ lng: -84.4700
 zipSample: ["30215", "30214"]
 zipCodes: ["30215", "30214"]
 localPaths: ["Fayette County / ZIP 30215 sector", "Fayette County / coords 33.4500, -84.4700", "Fayette County / ZIP 30214 sector", "Fayette County / primary ZIP 30215", "Fayette County / elevation 883 ft band"]
+zillowHomeValueUsd: 491822
 ---
 
 **Engineering Notice for Fayetteville:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Fayette County.

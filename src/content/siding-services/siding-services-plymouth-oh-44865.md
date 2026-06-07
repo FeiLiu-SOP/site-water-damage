@@ -12,6 +12,7 @@ lng: -82.6700
 zipSample: ["44865"]
 zipCodes: ["44865"]
 localPaths: ["Huron County / coords 41.0000, -82.6700", "Huron County / primary ZIP 44865", "Huron County / elevation 1014 ft band", "Huron County / ZIP 44865 sector"]
+zillowHomeValueUsd: 171240
 ---
 
 **Engineering Notice for Plymouth:** Envelope check: Cladding Retrofit assigned to wind-load band A with stress factor 1.19. Elevation: 1014 ft AMSL. Regional dispatch grid: Huron County.

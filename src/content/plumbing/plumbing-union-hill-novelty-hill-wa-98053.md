@@ -12,6 +12,7 @@ lng: -122.0300
 zipSample: ["98053", "98077"]
 zipCodes: ["98053", "98077"]
 localPaths: ["King County / elevation 600 ft band", "King County / primary ZIP 98053", "King County / coords 47.6800, -122.0300", "King County / ZIP 98077 sector", "King County / ZIP 98053 sector"]
+zillowHomeValueUsd: 1470670
 ---
 
 **Engineering Notice for Union Hill-Novelty Hill:** Structural loading calculated based on 600 ft terrain assessment. Regional dispatch grid: King County.

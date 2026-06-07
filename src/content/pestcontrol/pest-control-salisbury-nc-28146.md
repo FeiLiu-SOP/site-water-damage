@@ -11,6 +11,7 @@ lng: -80.4900
 zipSample: ["28144", "28145", "28147", "28146"]
 zipCodes: ["28144", "28145", "28146", "28147"]
 localPaths: ["Rowan County / primary ZIP 28146", "Rowan County / ZIP 28146 sector", "Rowan County / ZIP 28144 sector", "Rowan County / ZIP 28147 sector", "Rowan County / elevation 715 ft band"]
+zillowHomeValueUsd: 302632
 ---
 
 **Engineering Notice for Salisbury:** Structural loading calculated based on 715 ft terrain assessment. Regional dispatch grid: Rowan County.

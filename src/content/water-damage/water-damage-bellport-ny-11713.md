@@ -12,6 +12,7 @@ lng: -72.9400
 zipSample: ["11713"]
 zipCodes: ["11713"]
 localPaths: ["Suffolk County / coords 40.7500, -72.9400", "Suffolk County / primary ZIP 11713", "Suffolk County / elevation 30 ft band", "Suffolk County / ZIP 11713 sector"]
+zillowHomeValueUsd: 609186
 ---
 
 **Engineering Notice for Bellport:** structural drying capacity optimized for 30ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Suffolk County. Relative Humidity Threshold: 78%. Sensor sync: Active.

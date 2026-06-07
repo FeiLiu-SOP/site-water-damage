@@ -12,6 +12,7 @@ lng: -77.3500
 zipSample: ["22427", "22428"]
 zipCodes: ["22427", "22428"]
 localPaths: ["Caroline County / ZIP 22428 sector", "Caroline County / coords 38.0500, -77.3500", "Caroline County / primary ZIP 22427", "Caroline County / ZIP 22427 sector", "Caroline County / elevation 226 ft band"]
+zillowHomeValueUsd: 365843
 ---
 
 **Engineering Notice for Bowling Green:** Cladding verification uses 107 mph routing baseline; lateral pressure note: 14.0 psf. Grid: Caroline County.

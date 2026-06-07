@@ -12,6 +12,7 @@ lng: -74.9900
 zipSample: ["18337"]
 zipCodes: ["18337"]
 localPaths: ["Pike County / primary ZIP 18337", "Pike County / elevation 1424 ft band", "Pike County / coords 41.3000, -74.9900", "Pike County / ZIP 18337 sector"]
+zillowHomeValueUsd: 348902
 ---
 
 **Engineering Notice for Conashaugh Lakes:** Cladding verification uses 98 mph routing baseline; lateral pressure note: 13.0 psf. Elevation: 1424 ft AMSL. Grid: Pike County.

@@ -12,6 +12,7 @@ lng: -124.1700
 zipSample: ["97449"]
 zipCodes: ["97449"]
 localPaths: ["Coos County / elevation 39 ft band", "Coos County / primary ZIP 97449", "Coos County / ZIP 97449 sector", "Coos County / coords 43.5800, -124.1700"]
+zillowHomeValueUsd: 307753
 ---
 
 **Engineering Notice for Lakeside:** System optimized for 152 mg/L hard water scaling factors in Lakeside. Regional dispatch grid: Coos County.

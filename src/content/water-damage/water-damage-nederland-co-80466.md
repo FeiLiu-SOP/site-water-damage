@@ -12,6 +12,7 @@ lng: -105.5100
 zipSample: ["80308", "80466"]
 zipCodes: ["80308", "80466"]
 localPaths: ["Boulder County / primary ZIP 80466", "Boulder County / ZIP 80466 sector", "Boulder County / coords 39.9600, -105.5100", "Boulder County / elevation 8238 ft band", "Boulder County / ZIP 80308 sector"]
+zillowHomeValueUsd: 677770
 ---
 
 **Engineering Notice for Nederland:** structural drying capacity optimized for 8238ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Boulder County. Relative Humidity Threshold: 66%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -111.5100
 zipSample: ["84098"]
 zipCodes: ["84098"]
 localPaths: ["Summit County / ZIP 84098 sector", "Summit County / elevation 6526 ft band", "Summit County / coords 40.7500, -111.5100", "Summit County / primary ZIP 84098"]
+zillowHomeValueUsd: 1355169
 ---
 
 **Engineering Notice for Silver Summit:** structural drying capacity optimized for 6526ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Summit County. Relative Humidity Threshold: 65%. Sensor sync: Active.

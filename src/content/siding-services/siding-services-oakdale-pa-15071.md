@@ -12,6 +12,7 @@ lng: -80.1900
 zipSample: ["15071"]
 zipCodes: ["15071"]
 localPaths: ["Allegheny County / primary ZIP 15071", "Allegheny County / ZIP 15071 sector", "Allegheny County / coords 40.4000, -80.1900", "Allegheny County / elevation 912 ft band"]
+zillowHomeValueUsd: 335163
 ---
 
 **Engineering Notice for Oakdale:** Site context locked to Allegheny County. Elevation: 912 ft AMSL. Weather Barrier Wrap integrity verification recorded.

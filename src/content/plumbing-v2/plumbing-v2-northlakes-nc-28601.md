@@ -12,6 +12,7 @@ lng: -81.3700
 zipSample: ["28601"]
 zipCodes: ["28601"]
 localPaths: ["Caldwell County / coords 35.7800, -81.3700", "Caldwell County / ZIP 28601 sector", "Caldwell County / primary ZIP 28601", "Caldwell County / elevation 1083 ft band"]
+zillowHomeValueUsd: 304592
 ---
 
 **Engineering Notice for Northlakes:** System optimized for 120 mg/L hard water scaling factors in Northlakes. Regional dispatch grid: Caldwell County.

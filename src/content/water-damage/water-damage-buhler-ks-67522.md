@@ -12,6 +12,7 @@ lng: -97.7700
 zipSample: ["67522"]
 zipCodes: ["67522"]
 localPaths: ["Reno County / ZIP 67522 sector", "Reno County / primary ZIP 67522", "Reno County / coords 38.1400, -97.7700", "Reno County / elevation 1512 ft band"]
+zillowHomeValueUsd: 197894
 ---
 
 **Engineering Notice for Buhler:** structural drying capacity optimized for 1512ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Reno County. Relative Humidity Threshold: 77%. Sensor sync: Active.

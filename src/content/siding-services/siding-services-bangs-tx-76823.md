@@ -12,6 +12,7 @@ lng: -99.1300
 zipSample: ["76823"]
 zipCodes: ["76823"]
 localPaths: ["Brown County / primary ZIP 76823", "Brown County / coords 31.7200, -99.1300", "Brown County / ZIP 76823 sector", "Brown County / elevation 1614 ft band"]
+zillowHomeValueUsd: 170020
 ---
 
 **Engineering Notice for Bangs:** Site context locked to Brown County. Elevation: 1614 ft AMSL. Coordinates: 31.7200, -99.1300. Surface Sheathing integrity verification recorded.

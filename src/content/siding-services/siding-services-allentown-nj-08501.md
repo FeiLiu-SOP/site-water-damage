@@ -12,6 +12,7 @@ lng: -74.5900
 zipSample: ["08501"]
 zipCodes: ["08501"]
 localPaths: ["Monmouth County / primary ZIP 08501", "Monmouth County / elevation 79 ft band", "Monmouth County / ZIP 08501 sector", "Monmouth County / coords 40.1800, -74.5900"]
+zillowHomeValueUsd: 713912
 ---
 
 **Engineering Notice for Allentown:** Site context locked to Monmouth County. Elevation: 79 ft AMSL. Coordinates: 40.1800, -74.5900. Vinyl Panels integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -80.9000
 zipSample: ["29115"]
 zipCodes: ["29115"]
 localPaths: ["Orangeburg County / elevation 240 ft band", "Orangeburg County / primary ZIP 29115", "Orangeburg County / ZIP 29115 sector", "Orangeburg County / coords 33.4800, -80.9000"]
+zillowHomeValueUsd: 123297
 ---
 
 **Engineering Notice for Edisto:** System optimized for 142 mg/L hard water scaling factors in Edisto. Regional dispatch grid: Orangeburg County.

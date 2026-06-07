@@ -12,6 +12,7 @@ lng: -89.0600
 zipSample: ["61102", "61126", "61103", "61107", "61101"]
 zipCodes: ["61110", "61108", "61101", "61105", "61103", "61109", "61125", "61126", "61114", "61104", "61106", "61107"]
 localPaths: ["Winnebago County / ZIP 61101 sector", "Winnebago County / ZIP 61102 sector", "Winnebago County / elevation 735 ft band", "Winnebago County / ZIP 61126 sector", "Winnebago County / coords 42.2600, -89.0600"]
+zillowHomeValueUsd: 111577
 ---
 
 **Engineering Notice for Rockford:** Structural loading calculated based on 735 ft terrain assessment. Regional dispatch grid: Winnebago County.

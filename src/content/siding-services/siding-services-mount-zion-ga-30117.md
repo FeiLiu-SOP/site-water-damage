@@ -12,6 +12,7 @@ lng: -85.1800
 zipSample: ["30117", "30182", "30150"]
 zipCodes: ["30117", "30182", "30150"]
 localPaths: ["Carroll County / coords 33.6400, -85.1800", "Carroll County / primary ZIP 30117", "Carroll County / ZIP 30182 sector", "Carroll County / ZIP 30117 sector", "Carroll County / elevation 1138 ft band"]
+zillowHomeValueUsd: 281315
 ---
 
 **Engineering Notice for Mount Zion:** Structural integrity verification: Facade Renewal calibrated for 92 mph localized wind load factor. Regional dispatch grid: Carroll County.

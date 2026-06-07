@@ -12,6 +12,7 @@ lng: -81.8700
 zipSample: ["28604"]
 zipCodes: ["28604"]
 localPaths: ["Avery County / primary ZIP 28604", "Avery County / ZIP 28604 sector", "Avery County / elevation 3871 ft band", "Avery County / coords 36.1600, -81.8700"]
+zillowHomeValueUsd: 489880
 ---
 
 **Engineering Notice for Banner Elk:** Site context locked to Avery County. Coordinates: 36.1600, -81.8700. Exterior Envelope integrity verification recorded.

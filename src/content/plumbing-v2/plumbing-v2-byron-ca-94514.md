@@ -12,6 +12,7 @@ lng: -121.6400
 zipSample: ["94514", "94513"]
 zipCodes: ["94514", "94513"]
 localPaths: ["Contra Costa County / elevation 30 ft band", "Contra Costa County / primary ZIP 94514", "Contra Costa County / ZIP 94513 sector", "Contra Costa County / ZIP 94514 sector", "Contra Costa County / coords 37.8800, -121.6400"]
+zillowHomeValueUsd: 855681
 ---
 
 **Engineering Notice for Byron:** System optimized for 167 mg/L hard water scaling factors in Byron. Regional dispatch grid: Contra Costa County.

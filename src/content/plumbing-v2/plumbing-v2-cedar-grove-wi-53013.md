@@ -12,6 +12,7 @@ lng: -87.8200
 zipSample: ["53013"]
 zipCodes: ["53013"]
 localPaths: ["Sheboygan County / elevation 709 ft band", "Sheboygan County / ZIP 53013 sector", "Sheboygan County / primary ZIP 53013", "Sheboygan County / coords 43.5700, -87.8200"]
+zillowHomeValueUsd: 381835
 ---
 
 **Engineering Notice for Cedar Grove:** System optimized for 122 mg/L hard water scaling factors in Cedar Grove. Regional dispatch grid: Sheboygan County.

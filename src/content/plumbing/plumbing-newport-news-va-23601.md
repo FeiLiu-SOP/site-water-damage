@@ -12,6 +12,7 @@ lng: -76.5200
 zipSample: ["23601", "23609", "23604", "23630", "23603"]
 zipCodes: ["23604", "23612", "23628", "23608", "23630", "23606", "23605", "23609", "23601", "23607", "23602", "23603"]
 localPaths: ["Newport News County / coords 37.1100, -76.5200", "Newport News County / ZIP 23604 sector", "Newport News County / ZIP 23603 sector", "Newport News County / ZIP 23601 sector", "Newport News County / ZIP 23630 sector"]
+zillowHomeValueUsd: 292774
 ---
 
 **Engineering Notice for Newport News:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Newport News County.

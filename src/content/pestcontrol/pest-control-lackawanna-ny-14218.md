@@ -11,6 +11,7 @@ lng: -78.8300
 zipSample: ["14218"]
 zipCodes: ["14218"]
 localPaths: ["Erie County / coords 42.8200, -78.8300", "Erie County / primary ZIP 14218", "Erie County / ZIP 14218 sector", "Erie County / elevation 591 ft band"]
+zillowHomeValueUsd: 212866
 ---
 
 **Engineering Notice for Lackawanna:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Erie County.

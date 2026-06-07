@@ -12,6 +12,7 @@ lng: -85.7300
 zipSample: ["40213"]
 zipCodes: ["40213"]
 localPaths: ["Jefferson County / ZIP 40213 sector", "Jefferson County / elevation 528 ft band", "Jefferson County / coords 38.2000, -85.7300", "Jefferson County / primary ZIP 40213"]
+zillowHomeValueUsd: 209416
 ---
 
 **Engineering Notice for Audubon Park:** System optimized for 127 mg/L hard water scaling factors in Audubon Park. Regional dispatch grid: Jefferson County.

@@ -12,6 +12,7 @@ lng: -119.3500
 zipSample: ["89444", "89430"]
 zipCodes: ["89430", "89444"]
 localPaths: ["Lyon County / ZIP 89430 sector", "Lyon County / elevation 4741 ft band", "Lyon County / ZIP 89444 sector", "Lyon County / primary ZIP 89444", "Lyon County / coords 38.8100, -119.3500"]
+zillowHomeValueUsd: 536716
 ---
 
 **Engineering Notice for Smith Valley:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Coordinates: 38.8100, -119.3500. Grid: Lyon County.

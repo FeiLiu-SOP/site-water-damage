@@ -12,6 +12,7 @@ lng: -100.5200
 zipSample: ["73932"]
 zipCodes: ["73932"]
 localPaths: ["Beaver County / elevation 2448 ft band", "Beaver County / coords 36.8100, -100.5200", "Beaver County / primary ZIP 73932", "Beaver County / ZIP 73932 sector"]
+zillowHomeValueUsd: 108614
 ---
 
 **Engineering Notice for Beaver:** Site context locked to Beaver County. Coordinates: 36.8100, -100.5200. Wall Restoration integrity verification recorded.

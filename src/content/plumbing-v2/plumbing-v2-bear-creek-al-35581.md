@@ -12,6 +12,7 @@ lng: -87.7200
 zipSample: ["35581", "35543"]
 zipCodes: ["35581", "35543"]
 localPaths: ["Marion County / ZIP 35543 sector", "Marion County / primary ZIP 35581", "Marion County / ZIP 35581 sector", "Marion County / elevation 856 ft band", "Marion County / coords 34.2700, -87.7200"]
+zillowHomeValueUsd: 180265
 ---
 
 **Engineering Notice for Bear Creek:** System optimized for 152 mg/L hard water scaling factors in Bear Creek. Regional dispatch grid: Marion County.

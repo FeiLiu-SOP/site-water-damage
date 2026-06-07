@@ -11,6 +11,7 @@ lng: -77.8600
 zipSample: ["16805", "16801", "16802", "16803", "16804"]
 zipCodes: ["16802", "16804", "16803", "16801", "16805"]
 localPaths: ["Centre County / coords 40.7900, -77.8600", "Centre County / ZIP 16801 sector", "Centre County / ZIP 16805 sector", "Centre County / ZIP 16802 sector", "Centre County / primary ZIP 16802"]
+zillowHomeValueUsd: 407226
 ---
 
 **Engineering Notice for State College:** Structural loading calculated based on 1165 ft terrain assessment. Regional dispatch grid: Centre County.

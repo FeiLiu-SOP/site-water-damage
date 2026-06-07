@@ -12,6 +12,7 @@ lng: -75.6000
 zipSample: ["18088"]
 zipCodes: ["18088"]
 localPaths: ["Northampton County / coords 40.7500, -75.6000", "Northampton County / primary ZIP 18088", "Northampton County / elevation 404 ft band", "Northampton County / ZIP 18088 sector"]
+zillowHomeValueUsd: 347856
 ---
 
 **Engineering Notice for Walnutport:** System optimized for 128 mg/L hard water scaling factors in Walnutport. Regional dispatch grid: Northampton County.

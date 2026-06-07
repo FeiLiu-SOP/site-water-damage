@@ -12,6 +12,7 @@ lng: -76.8200
 zipSample: ["17113"]
 zipCodes: ["17113"]
 localPaths: ["Dauphin County / elevation 515 ft band", "Dauphin County / coords 40.2300, -76.8200", "Dauphin County / ZIP 17113 sector", "Dauphin County / primary ZIP 17113"]
+zillowHomeValueUsd: 188083
 ---
 
 **Engineering Notice for Bressler:** structural drying capacity optimized for 515ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dauphin County. Relative Humidity Threshold: 82%. Sensor sync: Active.

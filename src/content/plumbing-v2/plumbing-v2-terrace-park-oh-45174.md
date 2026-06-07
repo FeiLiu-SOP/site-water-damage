@@ -12,6 +12,7 @@ lng: -84.3100
 zipSample: ["45174"]
 zipCodes: ["45174"]
 localPaths: ["Hamilton County / elevation 581 ft band", "Hamilton County / primary ZIP 45174", "Hamilton County / coords 39.1600, -84.3100", "Hamilton County / ZIP 45174 sector"]
+zillowHomeValueUsd: 769765
 ---
 
 **Engineering Notice for Terrace Park:** System optimized for 130 mg/L hard water scaling factors in Terrace Park. Regional dispatch grid: Hamilton County.

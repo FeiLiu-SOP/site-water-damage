@@ -12,6 +12,7 @@ lng: -78.7000
 zipSample: ["28391"]
 zipCodes: ["28391"]
 localPaths: ["Cumberland County / coords 35.0100, -78.7000", "Cumberland County / primary ZIP 28391", "Cumberland County / ZIP 28391 sector", "Cumberland County / elevation 128 ft band"]
+zillowHomeValueUsd: 279668
 ---
 
 **Engineering Notice for Stedman:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Elevation: 128 ft AMSL. Grid: Cumberland County.

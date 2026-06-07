@@ -12,6 +12,7 @@ lng: -73.8700
 zipSample: ["10704", "10701", "10710", "10703", "10707"]
 zipCodes: ["10702", "10701", "10708", "10703", "10705", "10710", "10707", "10704"]
 localPaths: ["Westchester County / primary ZIP 10708", "Westchester County / coords 40.9500, -73.8700", "Westchester County / ZIP 10703 sector", "Westchester County / elevation 325 ft band", "Westchester County / ZIP 10710 sector"]
+zillowHomeValueUsd: 949654
 ---
 
 **Engineering Notice for Yonkers:** Structural loading calculated based on 325 ft terrain assessment. Regional dispatch grid: Westchester County.

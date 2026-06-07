@@ -11,6 +11,7 @@ lng: -88.2500
 zipSample: ["53186", "53187", "53188", "53189"]
 zipCodes: ["53189", "53187", "53188", "53186"]
 localPaths: ["Waukesha County / ZIP 53186 sector", "Waukesha County / ZIP 53189 sector", "Waukesha County / ZIP 53187 sector", "Waukesha County / primary ZIP 53186", "Waukesha County / coords 43.0100, -88.2500"]
+zillowHomeValueUsd: 360232
 ---
 
 **Engineering Notice for Waukesha:** Structural loading calculated based on 879 ft terrain assessment. Regional dispatch grid: Waukesha County.

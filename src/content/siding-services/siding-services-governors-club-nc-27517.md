@@ -12,6 +12,7 @@ lng: -79.0500
 zipSample: ["27517"]
 zipCodes: ["27517"]
 localPaths: ["Chatham County / primary ZIP 27517", "Chatham County / coords 35.8400, -79.0500", "Chatham County / elevation 469 ft band", "Chatham County / ZIP 27517 sector"]
+zillowHomeValueUsd: 674733
 ---
 
 **Engineering Notice for Governors Club:** Site context locked to Chatham County. Coordinates: 35.8400, -79.0500. Wall Restoration integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -92.0300
 zipSample: ["54829"]
 zipCodes: ["54829"]
 localPaths: ["Barron County / primary ZIP 54829", "Barron County / coords 45.5400, -92.0300", "Barron County / ZIP 54829 sector", "Barron County / elevation 1257 ft band"]
+zillowHomeValueUsd: 321447
 ---
 
 **Engineering Notice for Cumberland:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Coordinates: 45.5400, -92.0300. Grid: Barron County.

@@ -12,6 +12,7 @@ lng: -78.3800
 zipSample: ["22947"]
 zipCodes: ["22947"]
 localPaths: ["Albemarle County / coords 37.9900, -78.3800", "Albemarle County / primary ZIP 22947", "Albemarle County / ZIP 22947 sector", "Albemarle County / elevation 381 ft band"]
+zillowHomeValueUsd: 818878
 ---
 
 **Engineering Notice for Rivanna:** structural drying capacity optimized for 381ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Albemarle County. Relative Humidity Threshold: 67%. Sensor sync: Active.

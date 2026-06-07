@@ -12,6 +12,8 @@ lng: -66.4000
 zipSample: ["00693"]
 zipCodes: ["00693"]
 localPaths: ["Vega Baja County / coords 18.4400, -66.4000", "Vega Baja County / elevation 243 ft band", "Vega Baja County / ZIP 00693 sector", "Vega Baja County / primary ZIP 00693"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 374030
 ---
 
 **Engineering Notice for Vega Baja:** Structural loading calculated based on 243 ft terrain assessment. Regional dispatch grid: Vega Baja County.

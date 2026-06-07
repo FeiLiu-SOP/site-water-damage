@@ -11,6 +11,7 @@ lng: -95.0600
 zipSample: ["77539"]
 zipCodes: ["77539"]
 localPaths: ["Galveston County / elevation 30 ft band", "Galveston County / ZIP 77539 sector", "Galveston County / primary ZIP 77539", "Galveston County / coords 29.4500, -95.0600"]
+zillowHomeValueUsd: 282740
 ---
 
 **Engineering Notice for Dickinson:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Galveston County.

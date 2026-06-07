@@ -12,6 +12,7 @@ lng: -94.7000
 zipSample: ["64152"]
 zipCodes: ["64152"]
 localPaths: ["Platte County / elevation 902 ft band", "Platte County / primary ZIP 64152", "Platte County / ZIP 64152 sector", "Platte County / coords 39.2400, -94.7000"]
+zillowHomeValueUsd: 425486
 ---
 
 **Engineering Notice for Weatherby Lake:** Envelope check: Wall Restoration assigned to wind-load band A with stress factor 0.74. Elevation: 902 ft AMSL. Regional dispatch grid: Platte County.

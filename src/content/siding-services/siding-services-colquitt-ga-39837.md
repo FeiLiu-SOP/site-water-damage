@@ -12,6 +12,7 @@ lng: -84.7300
 zipSample: ["39837"]
 zipCodes: ["39837"]
 localPaths: ["Miller County / primary ZIP 39837", "Miller County / coords 31.1700, -84.7300", "Miller County / elevation 184 ft band", "Miller County / ZIP 39837 sector"]
+zillowHomeValueUsd: 161848
 ---
 
 **Engineering Notice for Colquitt:** Structural integrity verification: Cladding Service calibrated for 108 mph localized wind load factor. Elevation: 184 ft AMSL. Regional dispatch grid: Miller County.

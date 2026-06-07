@@ -12,6 +12,7 @@ lng: -73.6700
 zipSample: ["11518"]
 zipCodes: ["11518"]
 localPaths: ["Nassau County / coords 40.6300, -73.6700", "Nassau County / elevation 3 ft band", "Nassau County / ZIP 11518 sector", "Nassau County / primary ZIP 11518"]
+zillowHomeValueUsd: 723894
 ---
 
 **Engineering Notice for Bay Park:** Site context locked to Nassau County. Elevation: 3 ft AMSL. Coordinates: 40.6300, -73.6700. Cladding Retrofit integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -105.0200
 zipSample: ["80128", "80160", "80166", "80122", "80120"]
 zipCodes: ["80165", "80166", "80120", "80123", "80128", "80122", "80160"]
 localPaths: ["Arapahoe County / elevation 5420 ft band", "Arapahoe County / ZIP 80160 sector", "Arapahoe County / primary ZIP 80128", "Arapahoe County / ZIP 80166 sector", "Arapahoe County / coords 39.5900, -105.0200"]
+zillowHomeValueUsd: 602680
 ---
 
 **Engineering Notice for Littleton:** Structural loading calculated based on 5420 ft terrain assessment. Regional dispatch grid: Arapahoe County.

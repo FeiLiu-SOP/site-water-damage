@@ -12,6 +12,7 @@ lng: -91.2500
 zipSample: ["65441"]
 zipCodes: ["65441"]
 localPaths: ["Crawford County / primary ZIP 65441", "Crawford County / coords 38.1500, -91.2500", "Crawford County / elevation 942 ft band", "Crawford County / ZIP 65441 sector"]
+zillowHomeValueUsd: 222845
 ---
 
 **Engineering Notice for Bourbon:** structural drying capacity optimized for 942ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Crawford County. Relative Humidity Threshold: 76%. Sensor sync: Active.

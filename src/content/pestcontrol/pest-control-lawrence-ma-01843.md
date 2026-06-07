@@ -11,6 +11,7 @@ lng: -71.1600
 zipSample: ["01843", "01842", "01841", "01840"]
 zipCodes: ["01843", "01841", "01840", "01842"]
 localPaths: ["Essex County / primary ZIP 01843", "Essex County / ZIP 01840 sector", "Essex County / coords 42.7000, -71.1600", "Essex County / elevation 66 ft band", "Essex County / ZIP 01843 sector"]
+zillowHomeValueUsd: 526438
 ---
 
 **Engineering Notice for Lawrence:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Essex County.

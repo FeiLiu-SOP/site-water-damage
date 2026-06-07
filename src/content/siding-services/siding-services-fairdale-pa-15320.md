@@ -12,6 +12,7 @@ lng: -79.9700
 zipSample: ["15320"]
 zipCodes: ["15320"]
 localPaths: ["Greene County / primary ZIP 15320", "Greene County / elevation 948 ft band", "Greene County / coords 39.8900, -79.9700", "Greene County / ZIP 15320 sector"]
+zillowHomeValueUsd: 167372
 ---
 
 **Engineering Notice for Fairdale:** Structural integrity verification: Facade Renewal calibrated for 110 mph localized wind load factor. Elevation: 948 ft AMSL. Regional dispatch grid: Greene County.

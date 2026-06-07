@@ -12,6 +12,8 @@ lng: -65.4400
 zipSample: ["00765"]
 zipCodes: ["00765"]
 localPaths: ["Vieques County / ZIP 00765 sector", "Vieques County / coords 18.1500, -65.4400", "Vieques County / primary ZIP 00765", "Vieques County / elevation 121 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 384155
 ---
 
 **Engineering Notice for Vieques:** System optimized for 157 mg/L hard water scaling factors in Vieques. Regional dispatch grid: Vieques County.

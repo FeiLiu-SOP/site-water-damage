@@ -12,6 +12,7 @@ lng: -121.8800
 zipSample: ["95695"]
 zipCodes: ["95695"]
 localPaths: ["Yolo County / elevation 125 ft band", "Yolo County / coords 38.6600, -121.8800", "Yolo County / ZIP 95695 sector", "Yolo County / primary ZIP 95695"]
+zillowHomeValueUsd: 520788
 ---
 
 **Engineering Notice for Monument Hills:** Cladding Retrofit was validated under stress factor 0.78; target tolerance set near 131 mph. Coordinates: 38.6600, -121.8800. Grid anchor: Yolo County.

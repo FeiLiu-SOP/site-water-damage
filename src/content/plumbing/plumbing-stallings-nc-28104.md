@@ -12,6 +12,7 @@ lng: -80.6600
 zipSample: ["28104"]
 zipCodes: ["28104"]
 localPaths: ["Union County / elevation 679 ft band", "Union County / ZIP 28104 sector", "Union County / primary ZIP 28104", "Union County / coords 35.1100, -80.6600"]
+zillowHomeValueUsd: 594951
 ---
 
 **Engineering Notice for Stallings:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: Union County.

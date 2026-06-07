@@ -11,6 +11,7 @@ lng: -106.7900
 zipSample: ["87654", "88005", "88001", "88012", "88006"]
 zipCodes: ["88001", "88005", "88012", "88011", "88013", "88006", "88007", "87654"]
 localPaths: ["Doña Ana County / ZIP 88001 sector", "Doña Ana County / primary ZIP 88012", "Doña Ana County / ZIP 88006 sector", "Doña Ana County / ZIP 87654 sector", "Doña Ana County / ZIP 88005 sector"]
+zillowHomeValueUsd: 294202
 ---
 
 **Engineering Notice for Las Cruces:** Structural loading calculated based on 3888 ft terrain assessment. Regional dispatch grid: Doña Ana County.

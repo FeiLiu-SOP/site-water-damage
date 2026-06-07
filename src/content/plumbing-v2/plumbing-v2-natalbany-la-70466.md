@@ -12,6 +12,7 @@ lng: -90.4800
 zipSample: ["70401", "70451", "70466"]
 zipCodes: ["70451", "70466", "70401"]
 localPaths: ["Tangipahoa Parish / elevation 72 ft band", "Tangipahoa Parish / ZIP 70451 sector", "Tangipahoa Parish / ZIP 70401 sector", "Tangipahoa Parish / coords 30.5500, -90.4800", "Tangipahoa Parish / ZIP 70466 sector"]
+zillowHomeValueUsd: 196548
 ---
 
 **Engineering Notice for Natalbany:** System optimized for 151 mg/L hard water scaling factors in Natalbany. Regional dispatch grid: Tangipahoa Parish.

@@ -11,6 +11,7 @@ lng: -83.8300
 zipSample: ["30504", "30507", "30501"]
 zipCodes: ["30504", "30501", "30507"]
 localPaths: ["Hall County / primary ZIP 30501", "Hall County / coords 34.2900, -83.8300", "Hall County / ZIP 30501 sector", "Hall County / ZIP 30504 sector", "Hall County / ZIP 30507 sector"]
+zillowHomeValueUsd: 315261
 ---
 
 **Engineering Notice for Gainesville:** Structural loading calculated based on 1220 ft terrain assessment. Regional dispatch grid: Hall County.

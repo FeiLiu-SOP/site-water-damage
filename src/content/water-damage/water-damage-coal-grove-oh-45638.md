@@ -12,6 +12,7 @@ lng: -82.6400
 zipSample: ["45638"]
 zipCodes: ["45638"]
 localPaths: ["Lawrence County / ZIP 45638 sector", "Lawrence County / coords 38.5000, -82.6400", "Lawrence County / primary ZIP 45638", "Lawrence County / elevation 620 ft band"]
+zillowHomeValueUsd: 114127
 ---
 
 **Engineering Notice for Coal Grove:** structural drying capacity optimized for 620ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lawrence County. Relative Humidity Threshold: 79%. Sensor sync: Active.

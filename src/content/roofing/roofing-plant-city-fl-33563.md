@@ -11,6 +11,7 @@ lng: -82.1200
 zipSample: ["33566", "33563", "33565", "33564"]
 zipCodes: ["33564", "33563", "33566", "33565"]
 localPaths: ["Hillsborough County / coords 28.0100, -82.1200", "Hillsborough County / ZIP 33566 sector", "Hillsborough County / ZIP 33564 sector", "Hillsborough County / primary ZIP 33563", "Hillsborough County / ZIP 33563 sector"]
+zillowHomeValueUsd: 281123
 ---
 
 **Engineering Notice for Plant City:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Hillsborough County.

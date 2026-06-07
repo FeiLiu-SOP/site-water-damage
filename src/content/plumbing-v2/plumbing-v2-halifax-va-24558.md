@@ -12,6 +12,7 @@ lng: -78.9300
 zipSample: ["24558"]
 zipCodes: ["24558"]
 localPaths: ["Halifax County / elevation 394 ft band", "Halifax County / ZIP 24558 sector", "Halifax County / coords 36.7600, -78.9300", "Halifax County / primary ZIP 24558"]
+zillowHomeValueUsd: 172258
 ---
 
 **Engineering Notice for Halifax:** System optimized for 172 mg/L hard water scaling factors in Halifax. Regional dispatch grid: Halifax County.

@@ -12,6 +12,7 @@ lng: -97.1500
 zipSample: ["76013"]
 zipCodes: ["76013"]
 localPaths: ["Tarrant County / primary ZIP 76013", "Tarrant County / elevation 600 ft band", "Tarrant County / ZIP 76013 sector", "Tarrant County / coords 32.7100, -97.1500"]
+zillowHomeValueUsd: 311168
 ---
 
 **Engineering Notice for Pantego:** Site context locked to Tarrant County. Elevation: 600 ft AMSL. Cladding Service integrity verification recorded.

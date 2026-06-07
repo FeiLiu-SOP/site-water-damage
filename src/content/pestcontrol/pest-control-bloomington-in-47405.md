@@ -11,6 +11,7 @@ lng: -86.5300
 zipSample: ["47406", "47408", "47405", "47404", "47407"]
 zipCodes: ["47404", "47403", "47407", "47401", "47406", "47408", "47405"]
 localPaths: ["Monroe County / primary ZIP 47405", "Monroe County / ZIP 47406 sector", "Monroe County / coords 39.1600, -86.5300", "Monroe County / elevation 810 ft band", "Monroe County / ZIP 47405 sector"]
+zillowHomeValueUsd: 347699
 ---
 
 **Engineering Notice for Bloomington:** Structural loading calculated based on 810 ft terrain assessment. Regional dispatch grid: Monroe County.

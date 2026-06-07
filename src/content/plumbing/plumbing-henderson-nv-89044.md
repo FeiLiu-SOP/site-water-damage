@@ -12,6 +12,7 @@ lng: -115.0400
 zipSample: ["89054", "89002", "89052", "89005", "89044"]
 zipCodes: ["89044", "89077", "89005", "89011", "89014", "89054", "89009", "89015", "89052", "89002", "89012", "89074"]
 localPaths: ["Clark County / coords 36.0100, -115.0400", "Clark County / ZIP 89052 sector", "Clark County / ZIP 89005 sector", "Clark County / ZIP 89054 sector", "Clark County / ZIP 89044 sector"]
+zillowHomeValueUsd: 536499
 ---
 
 **Engineering Notice for Henderson:** Structural loading calculated based on 2310 ft terrain assessment. Regional dispatch grid: Clark County.

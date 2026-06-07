@@ -12,6 +12,7 @@ lng: -118.8900
 zipSample: ["93271", "93237"]
 zipCodes: ["93271", "93237"]
 localPaths: ["Tulare County / primary ZIP 93271", "Tulare County / coords 36.4300, -118.8900", "Tulare County / ZIP 93271 sector", "Tulare County / ZIP 93237 sector", "Tulare County / elevation 2185 ft band"]
+zillowHomeValueUsd: 537400
 ---
 
 **Engineering Notice for Three Rivers:** Structural integrity verification: Vinyl Panels calibrated for 130 mph localized wind load factor. Coordinates: 36.4300, -118.8900. Regional dispatch grid: Tulare County.

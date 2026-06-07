@@ -12,6 +12,7 @@ lng: -74.8100
 zipSample: ["19054", "19055", "19007"]
 zipCodes: ["19054", "19055", "19007"]
 localPaths: ["Bucks County / primary ZIP 19054", "Bucks County / coords 40.1400, -74.8100", "Bucks County / ZIP 19007 sector", "Bucks County / ZIP 19054 sector", "Bucks County / elevation 23 ft band"]
+zillowHomeValueUsd: 397270
 ---
 
 **Engineering Notice for Tullytown:** Cladding Retrofit was validated under stress factor 0.75; target tolerance set near 99 mph. Grid anchor: Bucks County.

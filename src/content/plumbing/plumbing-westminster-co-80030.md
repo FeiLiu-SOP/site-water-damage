@@ -12,6 +12,7 @@ lng: -105.0600
 zipSample: ["80003", "80036", "80031", "80234", "80030"]
 zipCodes: ["80036", "80020", "80030", "80005", "80031", "80003", "80035", "80021", "80234"]
 localPaths: ["Adams County / ZIP 80030 sector", "Adams County / ZIP 80234 sector", "Adams County / elevation 5325 ft band", "Adams County / coords 39.8800, -105.0600", "Adams County / primary ZIP 80030"]
+zillowHomeValueUsd: 441667
 ---
 
 **Engineering Notice for Westminster:** Structural loading calculated based on 5325 ft terrain assessment. Regional dispatch grid: Adams County.

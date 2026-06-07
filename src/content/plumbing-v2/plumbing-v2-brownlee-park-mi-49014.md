@@ -12,6 +12,7 @@ lng: -85.1400
 zipSample: ["49014"]
 zipCodes: ["49014"]
 localPaths: ["Calhoun County / primary ZIP 49014", "Calhoun County / coords 42.3300, -85.1400", "Calhoun County / elevation 892 ft band", "Calhoun County / ZIP 49014 sector"]
+zillowHomeValueUsd: 197650
 ---
 
 **Engineering Notice for Brownlee Park:** System optimized for 128 mg/L hard water scaling factors in Brownlee Park. Regional dispatch grid: Calhoun County.

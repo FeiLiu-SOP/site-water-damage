@@ -12,6 +12,8 @@ lng: -65.9000
 zipSample: ["00767"]
 zipCodes: ["00767"]
 localPaths: ["Yabucoa County / ZIP 00767 sector", "Yabucoa County / coords 18.0700, -65.9000", "Yabucoa County / primary ZIP 00767", "Yabucoa County / elevation 92 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 377814
 ---
 
 **Engineering Notice for Martorell:** System optimized for 165 mg/L hard water scaling factors in Martorell. Regional dispatch grid: Yabucoa County.

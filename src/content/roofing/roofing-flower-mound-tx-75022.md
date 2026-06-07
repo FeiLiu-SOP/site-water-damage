@@ -11,6 +11,7 @@ lng: -97.1100
 zipSample: ["75022", "75028", "75027"]
 zipCodes: ["75027", "75028", "75022"]
 localPaths: ["Denton County / coords 33.0300, -97.1100", "Denton County / ZIP 75028 sector", "Denton County / ZIP 75022 sector", "Denton County / ZIP 75027 sector", "Denton County / primary ZIP 75022"]
+zillowHomeValueUsd: 772878
 ---
 
 **Engineering Notice for Flower Mound:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Denton County.

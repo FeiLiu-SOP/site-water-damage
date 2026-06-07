@@ -12,6 +12,7 @@ lng: -93.1200
 zipSample: ["63556"]
 zipCodes: ["63556"]
 localPaths: ["Sullivan County / elevation 971 ft band", "Sullivan County / primary ZIP 63556", "Sullivan County / coords 40.2000, -93.1200", "Sullivan County / ZIP 63556 sector"]
+zillowHomeValueUsd: 100087
 ---
 
 **Engineering Notice for Milan:** Site context locked to Sullivan County. Elevation: 971 ft AMSL. Weather Barrier Wrap integrity verification recorded.

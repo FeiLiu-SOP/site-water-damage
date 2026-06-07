@@ -12,6 +12,7 @@ lng: -121.1400
 zipSample: ["95630", "95671", "95763"]
 zipCodes: ["95763", "95671", "95630"]
 localPaths: ["Sacramento County / primary ZIP 95630", "Sacramento County / elevation 328 ft band", "Sacramento County / ZIP 95763 sector", "Sacramento County / ZIP 95671 sector", "Sacramento County / ZIP 95630 sector"]
+zillowHomeValueUsd: 763792
 ---
 
 **Engineering Notice for Folsom:** Structural loading calculated based on 328 ft terrain assessment. Regional dispatch grid: Sacramento County.

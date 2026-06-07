@@ -12,6 +12,7 @@ lng: -104.7400
 zipSample: ["80610"]
 zipCodes: ["80610"]
 localPaths: ["Weld County / elevation 4954 ft band", "Weld County / primary ZIP 80610", "Weld County / coords 40.5900, -104.7400", "Weld County / ZIP 80610 sector"]
+zillowHomeValueUsd: 441175
 ---
 
 **Engineering Notice for Ault:** Site context locked to Weld County. Elevation: 4954 ft AMSL. Coordinates: 40.5900, -104.7400. Surface Sheathing integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -84.1000
 zipSample: ["40701"]
 zipCodes: ["40701"]
 localPaths: ["Laurel County / coords 36.9600, -84.1000", "Laurel County / primary ZIP 40701", "Laurel County / ZIP 40701 sector", "Laurel County / elevation 1184 ft band"]
+zillowHomeValueUsd: 177570
 ---
 
 **Engineering Notice for North Corbin:** Envelope check: Panel Replacement assigned to wind-load band A with stress factor 1.19. Regional dispatch grid: Laurel County.

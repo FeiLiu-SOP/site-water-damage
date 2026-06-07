@@ -12,6 +12,7 @@ lng: -75.2500
 zipSample: ["19023"]
 zipCodes: ["19023"]
 localPaths: ["Delaware County / coords 39.9100, -75.2500", "Delaware County / primary ZIP 19023", "Delaware County / elevation 49 ft band", "Delaware County / ZIP 19023 sector"]
+zillowHomeValueUsd: 171679
 ---
 
 **Engineering Notice for Colwyn:** System optimized for 170 mg/L hard water scaling factors in Colwyn. Regional dispatch grid: Delaware County.

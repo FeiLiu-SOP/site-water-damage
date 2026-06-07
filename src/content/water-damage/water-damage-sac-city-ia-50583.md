@@ -12,6 +12,7 @@ lng: -95.0000
 zipSample: ["50583"]
 zipCodes: ["50583"]
 localPaths: ["Sac County / coords 42.4200, -95.0000", "Sac County / elevation 1260 ft band", "Sac County / ZIP 50583 sector", "Sac County / primary ZIP 50583"]
+zillowHomeValueUsd: 141940
 ---
 
 **Engineering Notice for Sac City:** structural drying capacity optimized for 1260ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sac County. Relative Humidity Threshold: 71%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -77.1900
 zipSample: ["22106", "22103", "22102", "22108", "22107"]
 zipCodes: ["22043", "22106", "22101", "22046", "22102", "22108", "22109", "22103", "22067", "22107"]
 localPaths: ["Fairfax County / ZIP 22102 sector", "Fairfax County / primary ZIP 22046", "Fairfax County / coords 38.9400, -77.1900", "Fairfax County / ZIP 22103 sector", "Fairfax County / ZIP 22106 sector"]
+zillowHomeValueUsd: 1052544
 ---
 
 **Engineering Notice for McLean:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Fairfax County.

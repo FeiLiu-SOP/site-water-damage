@@ -12,6 +12,7 @@ lng: -80.3600
 zipSample: ["16157", "16141", "16136", "16115", "15010"]
 zipCodes: ["15010", "16115", "16141", "16157", "16136"]
 localPaths: ["Beaver County / ZIP 15010 sector", "Beaver County / ZIP 16157 sector", "Beaver County / ZIP 16136 sector", "Beaver County / coords 40.8200, -80.3600", "Beaver County / elevation 1106 ft band"]
+zillowHomeValueUsd: 184042
 ---
 
 **Engineering Notice for Big Beaver:** System optimized for 150 mg/L hard water scaling factors in Big Beaver. Regional dispatch grid: Beaver County.

@@ -12,6 +12,7 @@ lng: -94.4400
 zipSample: ["74901"]
 zipCodes: ["74901"]
 localPaths: ["Le Flore County / coords 35.3400, -94.4400", "Le Flore County / primary ZIP 74901", "Le Flore County / ZIP 74901 sector", "Le Flore County / elevation 440 ft band"]
+zillowHomeValueUsd: 104885
 ---
 
 **Engineering Notice for Arkoma:** System optimized for 139 mg/L hard water scaling factors in Arkoma. Regional dispatch grid: Le Flore County.

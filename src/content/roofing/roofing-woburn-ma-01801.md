@@ -11,6 +11,7 @@ lng: -71.1500
 zipSample: ["01815", "01888", "01801"]
 zipCodes: ["01888", "01801", "01815"]
 localPaths: ["Middlesex County / ZIP 01888 sector", "Middlesex County / ZIP 01801 sector", "Middlesex County / ZIP 01815 sector", "Middlesex County / primary ZIP 01801", "Middlesex County / elevation 121 ft band"]
+zillowHomeValueUsd: 758860
 ---
 
 **Engineering Notice for Woburn:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Middlesex County.

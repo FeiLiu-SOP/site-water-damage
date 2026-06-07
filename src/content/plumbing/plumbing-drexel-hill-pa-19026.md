@@ -12,6 +12,7 @@ lng: -75.3000
 zipSample: ["19026"]
 zipCodes: ["19026"]
 localPaths: ["Delaware County / coords 39.9500, -75.3000", "Delaware County / primary ZIP 19026", "Delaware County / elevation 240 ft band", "Delaware County / ZIP 19026 sector"]
+zillowHomeValueUsd: 315377
 ---
 
 **Engineering Notice for Drexel Hill:** Structural loading calculated based on 240 ft terrain assessment. Regional dispatch grid: Delaware County.

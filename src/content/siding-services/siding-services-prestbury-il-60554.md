@@ -12,6 +12,7 @@ lng: -88.4200
 zipSample: ["60554"]
 zipCodes: ["60554"]
 localPaths: ["Kane County / primary ZIP 60554", "Kane County / elevation 719 ft band", "Kane County / coords 41.7800, -88.4200", "Kane County / ZIP 60554 sector"]
+zillowHomeValueUsd: 445550
 ---
 
 **Engineering Notice for Prestbury:** Site context locked to Kane County. Coordinates: 41.7800, -88.4200. Exterior Cladding integrity verification recorded.

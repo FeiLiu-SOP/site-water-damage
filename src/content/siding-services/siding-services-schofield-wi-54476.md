@@ -12,6 +12,7 @@ lng: -89.6100
 zipSample: ["54476"]
 zipCodes: ["54476"]
 localPaths: ["Marathon County / coords 44.9200, -89.6100", "Marathon County / primary ZIP 54476", "Marathon County / elevation 1168 ft band", "Marathon County / ZIP 54476 sector"]
+zillowHomeValueUsd: 290194
 ---
 
 **Engineering Notice for Schofield:** Structural integrity verification: Exterior Cladding calibrated for 110 mph localized wind load factor. Elevation: 1168 ft AMSL. Regional dispatch grid: Marathon County.

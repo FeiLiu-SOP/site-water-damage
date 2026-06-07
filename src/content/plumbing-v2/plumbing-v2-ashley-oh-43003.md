@@ -12,6 +12,7 @@ lng: -82.9500
 zipSample: ["43003"]
 zipCodes: ["43003"]
 localPaths: ["Delaware County / coords 40.4100, -82.9500", "Delaware County / elevation 974 ft band", "Delaware County / primary ZIP 43003", "Delaware County / ZIP 43003 sector"]
+zillowHomeValueUsd: 272106
 ---
 
 **Engineering Notice for Ashley:** System optimized for 148 mg/L hard water scaling factors in Ashley. Regional dispatch grid: Delaware County.

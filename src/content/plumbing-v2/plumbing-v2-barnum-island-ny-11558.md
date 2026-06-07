@@ -12,6 +12,7 @@ lng: -73.6400
 zipSample: ["11558"]
 zipCodes: ["11558"]
 localPaths: ["Nassau County / ZIP 11558 sector", "Nassau County / coords 40.6000, -73.6400", "Nassau County / primary ZIP 11558", "Nassau County / elevation 7 ft band"]
+zillowHomeValueUsd: 743334
 ---
 
 **Engineering Notice for Barnum Island:** System optimized for 160 mg/L hard water scaling factors in Barnum Island. Regional dispatch grid: Nassau County.

@@ -12,6 +12,7 @@ lng: -76.8600
 zipSample: ["17777"]
 zipCodes: ["17777"]
 localPaths: ["Northumberland County / primary ZIP 17777", "Northumberland County / coords 41.0900, -76.8600", "Northumberland County / ZIP 17777 sector", "Northumberland County / elevation 489 ft band"]
+zillowHomeValueUsd: 231486
 ---
 
 **Engineering Notice for Watsontown:** System optimized for 165 mg/L hard water scaling factors in Watsontown. Regional dispatch grid: Northumberland County.

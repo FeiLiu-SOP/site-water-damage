@@ -12,6 +12,7 @@ lng: -76.6600
 zipSample: ["14886"]
 zipCodes: ["14886"]
 localPaths: ["Tompkins County / ZIP 14886 sector", "Tompkins County / coords 42.5400, -76.6600", "Tompkins County / primary ZIP 14886", "Tompkins County / elevation 997 ft band"]
+zillowHomeValueUsd: 328481
 ---
 
 **Engineering Notice for Trumansburg:** System optimized for 137 mg/L hard water scaling factors in Trumansburg. Regional dispatch grid: Tompkins County.

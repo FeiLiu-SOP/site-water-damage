@@ -12,6 +12,7 @@ lng: -77.4700
 zipSample: ["21710"]
 zipCodes: ["21710"]
 localPaths: ["Frederick County / coords 39.3100, -77.4700", "Frederick County / primary ZIP 21710", "Frederick County / ZIP 21710 sector", "Frederick County / elevation 305 ft band"]
+zillowHomeValueUsd: 670698
 ---
 
 **Engineering Notice for Adamstown:** Cladding verification uses 99 mph routing baseline; lateral pressure note: 13.1 psf. Elevation: 305 ft AMSL. Coordinates: 39.3100, -77.4700. Grid: Frederick County.

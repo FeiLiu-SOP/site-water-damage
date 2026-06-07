@@ -12,6 +12,7 @@ lng: -85.9600
 zipSample: ["46936"]
 zipCodes: ["46936"]
 localPaths: ["Howard County / ZIP 46936 sector", "Howard County / coords 40.4800, -85.9600", "Howard County / elevation 846 ft band", "Howard County / primary ZIP 46936"]
+zillowHomeValueUsd: 244178
 ---
 
 **Engineering Notice for Greentown:** System optimized for 166 mg/L hard water scaling factors in Greentown. Regional dispatch grid: Howard County.

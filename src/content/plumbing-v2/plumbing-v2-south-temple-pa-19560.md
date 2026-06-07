@@ -12,6 +12,7 @@ lng: -75.9200
 zipSample: ["19560"]
 zipCodes: ["19560"]
 localPaths: ["Berks County / ZIP 19560 sector", "Berks County / elevation 354 ft band", "Berks County / coords 40.4000, -75.9200", "Berks County / primary ZIP 19560"]
+zillowHomeValueUsd: 270187
 ---
 
 **Engineering Notice for South Temple:** System optimized for 172 mg/L hard water scaling factors in South Temple. Regional dispatch grid: Berks County.

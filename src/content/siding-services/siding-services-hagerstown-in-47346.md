@@ -12,6 +12,7 @@ lng: -85.1600
 zipSample: ["47346"]
 zipCodes: ["47346"]
 localPaths: ["Wayne County / ZIP 47346 sector", "Wayne County / primary ZIP 47346", "Wayne County / coords 39.9100, -85.1600", "Wayne County / elevation 988 ft band"]
+zillowHomeValueUsd: 207663
 ---
 
 **Engineering Notice for Hagerstown:** Panel Replacement was validated under stress factor 1.03; target tolerance set near 104 mph. Grid anchor: Wayne County.

@@ -12,6 +12,7 @@ lng: -76.9500
 zipSample: ["20904", "20866", "20905"]
 zipCodes: ["20904", "20866", "20905"]
 localPaths: ["Montgomery County / elevation 453 ft band", "Montgomery County / primary ZIP 20866", "Montgomery County / ZIP 20904 sector", "Montgomery County / ZIP 20905 sector", "Montgomery County / ZIP 20866 sector"]
+zillowHomeValueUsd: 468454
 ---
 
 **Engineering Notice for Fairland:** Structural loading calculated based on 453 ft terrain assessment. Regional dispatch grid: Montgomery County.

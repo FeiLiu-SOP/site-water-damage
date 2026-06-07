@@ -11,6 +11,8 @@ lng: -65.6600
 zipSample: ["00740", "00738"]
 zipCodes: ["00740", "00738"]
 localPaths: ["Fajardo County / ZIP 00740 sector", "Fajardo County / coords 18.3300, -65.6600", "Fajardo County / elevation 56 ft band", "Fajardo County / ZIP 00738 sector", "Fajardo County / primary ZIP 00740"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 362907
 ---
 
 **Engineering Notice for Fajardo:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Fajardo County.

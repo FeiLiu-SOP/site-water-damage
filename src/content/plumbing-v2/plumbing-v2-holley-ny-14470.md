@@ -12,6 +12,7 @@ lng: -78.0300
 zipSample: ["14470"]
 zipCodes: ["14470"]
 localPaths: ["Orleans County / elevation 548 ft band", "Orleans County / primary ZIP 14470", "Orleans County / coords 43.2200, -78.0300", "Orleans County / ZIP 14470 sector"]
+zillowHomeValueUsd: 213711
 ---
 
 **Engineering Notice for Holley:** System optimized for 150 mg/L hard water scaling factors in Holley. Regional dispatch grid: Orleans County.

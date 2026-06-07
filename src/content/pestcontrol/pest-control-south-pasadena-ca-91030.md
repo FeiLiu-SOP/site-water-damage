@@ -11,6 +11,7 @@ lng: -118.1600
 zipSample: ["91030", "91031"]
 zipCodes: ["91031", "91030"]
 localPaths: ["Los Angeles County / elevation 653 ft band", "Los Angeles County / primary ZIP 91030", "Los Angeles County / ZIP 91030 sector", "Los Angeles County / coords 34.1100, -118.1600", "Los Angeles County / ZIP 91031 sector"]
+zillowHomeValueUsd: 1693556
 ---
 
 **Engineering Notice for South Pasadena:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Los Angeles County.

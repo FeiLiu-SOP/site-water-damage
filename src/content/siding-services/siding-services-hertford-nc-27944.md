@@ -12,6 +12,7 @@ lng: -76.4700
 zipSample: ["27944"]
 zipCodes: ["27944"]
 localPaths: ["Perquimans County / ZIP 27944 sector", "Perquimans County / primary ZIP 27944", "Perquimans County / coords 36.1800, -76.4700", "Perquimans County / elevation 23 ft band"]
+zillowHomeValueUsd: 281508
 ---
 
 **Engineering Notice for Hertford:** Envelope check: Surface Sheathing assigned to wind-load band A with stress factor 0.91. Regional dispatch grid: Perquimans County.

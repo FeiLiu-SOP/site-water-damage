@@ -12,6 +12,7 @@ lng: -97.5400
 zipSample: ["67030"]
 zipCodes: ["67030"]
 localPaths: ["Sedgwick County / primary ZIP 67030", "Sedgwick County / coords 37.7800, -97.5400", "Sedgwick County / elevation 1404 ft band", "Sedgwick County / ZIP 67030 sector"]
+zillowHomeValueUsd: 308715
 ---
 
 **Engineering Notice for Colwich:** structural drying capacity optimized for 1404ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sedgwick County. Relative Humidity Threshold: 76%. Sensor sync: Active.

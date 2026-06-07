@@ -12,6 +12,7 @@ lng: -77.3100
 zipSample: ["22192"]
 zipCodes: ["22192"]
 localPaths: ["Prince William County / ZIP 22192 sector", "Prince William County / coords 38.6800, -77.3100", "Prince William County / elevation 308 ft band", "Prince William County / primary ZIP 22192"]
+zillowHomeValueUsd: 525387
 ---
 
 **Engineering Notice for Lake Ridge:** Structural loading calculated based on 308 ft terrain assessment. Regional dispatch grid: Prince William County.

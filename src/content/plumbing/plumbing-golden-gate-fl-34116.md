@@ -12,6 +12,7 @@ lng: -81.7000
 zipSample: ["34116"]
 zipCodes: ["34116"]
 localPaths: ["Collier County / elevation 26 ft band", "Collier County / ZIP 34116 sector", "Collier County / coords 26.1800, -81.7000", "Collier County / primary ZIP 34116"]
+zillowHomeValueUsd: 455865
 ---
 
 **Engineering Notice for Golden Gate:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Collier County.

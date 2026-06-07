@@ -12,6 +12,7 @@ lng: -94.0500
 zipSample: ["55395"]
 zipCodes: ["55395"]
 localPaths: ["McLeod County / primary ZIP 55395", "McLeod County / ZIP 55395 sector", "McLeod County / elevation 1010 ft band", "McLeod County / coords 44.9600, -94.0500"]
+zillowHomeValueUsd: 287585
 ---
 
 **Engineering Notice for Winsted:** System optimized for 148 mg/L hard water scaling factors in Winsted. Regional dispatch grid: McLeod County.

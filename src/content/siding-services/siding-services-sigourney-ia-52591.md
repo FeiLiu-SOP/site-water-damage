@@ -12,6 +12,7 @@ lng: -92.2000
 zipSample: ["52591"]
 zipCodes: ["52591"]
 localPaths: ["Keokuk County / ZIP 52591 sector", "Keokuk County / elevation 797 ft band", "Keokuk County / coords 41.3300, -92.2000", "Keokuk County / primary ZIP 52591"]
+zillowHomeValueUsd: 141601
 ---
 
 **Engineering Notice for Sigourney:** Surface Sheathing was validated under stress factor 0.82; target tolerance set near 105 mph. Coordinates: 41.3300, -92.2000. Grid anchor: Keokuk County.

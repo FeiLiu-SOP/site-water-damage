@@ -12,6 +12,7 @@ lng: -75.9300
 zipSample: ["19352"]
 zipCodes: ["19352"]
 localPaths: ["Chester County / coords 39.8100, -75.9300", "Chester County / elevation 538 ft band", "Chester County / ZIP 19352 sector", "Chester County / primary ZIP 19352"]
+zillowHomeValueUsd: 569750
 ---
 
 **Engineering Notice for Lincoln University:** Structural integrity verification: Surface Sheathing calibrated for 103 mph localized wind load factor. Coordinates: 39.8100, -75.9300. Regional dispatch grid: Chester County.

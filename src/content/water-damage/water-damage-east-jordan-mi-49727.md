@@ -12,6 +12,7 @@ lng: -85.1300
 zipSample: ["49727"]
 zipCodes: ["49727"]
 localPaths: ["Charlevoix County / ZIP 49727 sector", "Charlevoix County / coords 45.1500, -85.1300", "Charlevoix County / elevation 564 ft band", "Charlevoix County / primary ZIP 49727"]
+zillowHomeValueUsd: 324699
 ---
 
 **Engineering Notice for East Jordan:** structural drying capacity optimized for 564ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Charlevoix County. Relative Humidity Threshold: 79%. Sensor sync: Active.

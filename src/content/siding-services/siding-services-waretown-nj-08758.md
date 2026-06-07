@@ -12,6 +12,7 @@ lng: -74.1900
 zipSample: ["08758"]
 zipCodes: ["08758"]
 localPaths: ["Ocean County / coords 39.7900, -74.1900", "Ocean County / elevation 26 ft band", "Ocean County / primary ZIP 08758", "Ocean County / ZIP 08758 sector"]
+zillowHomeValueUsd: 543102
 ---
 
 **Engineering Notice for Waretown:** Structural integrity verification: Cladding Service calibrated for 101 mph localized wind load factor. Regional dispatch grid: Ocean County.

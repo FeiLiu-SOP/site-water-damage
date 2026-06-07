@@ -11,6 +11,7 @@ lng: -83.1500
 zipSample: ["48068", "48067", "48073"]
 zipCodes: ["48068", "48073", "48067"]
 localPaths: ["Oakland County / primary ZIP 48067", "Oakland County / ZIP 48067 sector", "Oakland County / coords 42.5100, -83.1500", "Oakland County / ZIP 48068 sector", "Oakland County / elevation 669 ft band"]
+zillowHomeValueUsd: 341598
 ---
 
 **Engineering Notice for Royal Oak:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Oakland County.

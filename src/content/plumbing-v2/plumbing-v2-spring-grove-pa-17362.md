@@ -12,6 +12,7 @@ lng: -76.8600
 zipSample: ["17362"]
 zipCodes: ["17362"]
 localPaths: ["York County / elevation 502 ft band", "York County / coords 39.8800, -76.8600", "York County / ZIP 17362 sector", "York County / primary ZIP 17362"]
+zillowHomeValueUsd: 327589
 ---
 
 **Engineering Notice for Spring Grove:** System optimized for 123 mg/L hard water scaling factors in Spring Grove. Regional dispatch grid: York County.

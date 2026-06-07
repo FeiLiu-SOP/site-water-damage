@@ -12,6 +12,7 @@ lng: -80.7500
 zipSample: ["43916", "43912"]
 zipCodes: ["43912", "43916"]
 localPaths: ["Belmont County / ZIP 43916 sector", "Belmont County / ZIP 43912 sector", "Belmont County / elevation 896 ft band", "Belmont County / coords 40.0700, -80.7500", "Belmont County / primary ZIP 43912"]
+zillowHomeValueUsd: 94921
 ---
 
 **Engineering Notice for Bridgeport:** System optimized for 176 mg/L hard water scaling factors in Bridgeport. Regional dispatch grid: Belmont County.

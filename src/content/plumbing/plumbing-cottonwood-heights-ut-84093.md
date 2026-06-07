@@ -12,6 +12,7 @@ lng: -111.8100
 zipSample: ["84121", "84093", "84171"]
 zipCodes: ["84093", "84121", "84171"]
 localPaths: ["Salt Lake County / ZIP 84121 sector", "Salt Lake County / ZIP 84171 sector", "Salt Lake County / ZIP 84093 sector", "Salt Lake County / elevation 4849 ft band", "Salt Lake County / primary ZIP 84093"]
+zillowHomeValueUsd: 800641
 ---
 
 **Engineering Notice for Cottonwood Heights:** Structural loading calculated based on 4849 ft terrain assessment. Regional dispatch grid: Salt Lake County.

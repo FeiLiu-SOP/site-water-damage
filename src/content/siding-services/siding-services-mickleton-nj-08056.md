@@ -12,6 +12,7 @@ lng: -75.2400
 zipSample: ["08056"]
 zipCodes: ["08056"]
 localPaths: ["Gloucester County / primary ZIP 08056", "Gloucester County / elevation 56 ft band", "Gloucester County / coords 39.7900, -75.2400", "Gloucester County / ZIP 08056 sector"]
+zillowHomeValueUsd: 602581
 ---
 
 **Engineering Notice for Mickleton:** Structural integrity verification: Surface Sheathing calibrated for 100 mph localized wind load factor. Elevation: 56 ft AMSL. Regional dispatch grid: Gloucester County.

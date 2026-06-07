@@ -12,6 +12,7 @@ lng: -95.9400
 zipSample: ["68005", "68123", "68147", "68157"]
 zipCodes: ["68123", "68147", "68005", "68157"]
 localPaths: ["Sarpy County / elevation 991 ft band", "Sarpy County / ZIP 68005 sector", "Sarpy County / primary ZIP 68147", "Sarpy County / coords 41.1500, -95.9400", "Sarpy County / ZIP 68147 sector"]
+zillowHomeValueUsd: 249322
 ---
 
 **Engineering Notice for Bellevue:** Structural loading calculated based on 991 ft terrain assessment. Regional dispatch grid: Sarpy County.

@@ -12,6 +12,7 @@ lng: -99.3000
 zipSample: ["76430"]
 zipCodes: ["76430"]
 localPaths: ["Shackelford County / primary ZIP 76430", "Shackelford County / ZIP 76430 sector", "Shackelford County / elevation 1437 ft band", "Shackelford County / coords 32.7300, -99.3000"]
+zillowHomeValueUsd: 159693
 ---
 
 **Engineering Notice for Albany:** Envelope check: Cladding Service assigned to wind-load band A with stress factor 0.98. Regional dispatch grid: Shackelford County.

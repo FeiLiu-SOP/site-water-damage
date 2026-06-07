@@ -12,6 +12,7 @@ lng: -74.1500
 zipSample: ["12484", "12440"]
 zipCodes: ["12484", "12440"]
 localPaths: ["Ulster County / coords 41.8400, -74.1500", "Ulster County / ZIP 12484 sector", "Ulster County / ZIP 12440 sector", "Ulster County / primary ZIP 12484", "Ulster County / elevation 361 ft band"]
+zillowHomeValueUsd: 572180
 ---
 
 **Engineering Notice for Stone Ridge:** System optimized for 164 mg/L hard water scaling factors in Stone Ridge. Regional dispatch grid: Ulster County.

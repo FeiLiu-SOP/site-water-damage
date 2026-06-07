@@ -12,6 +12,7 @@ lng: -116.1100
 zipSample: ["89822"]
 zipCodes: ["89822"]
 localPaths: ["Elko County / elevation 4961 ft band", "Elko County / coords 40.7200, -116.1100", "Elko County / ZIP 89822 sector", "Elko County / primary ZIP 89822"]
+zillowHomeValueUsd: 216353
 ---
 
 **Engineering Notice for Carlin:** System optimized for 150 mg/L hard water scaling factors in Carlin. Regional dispatch grid: Elko County.

@@ -11,6 +11,7 @@ lng: -81.4200
 zipSample: ["34746", "34745", "34741", "34743", "34744"]
 zipCodes: ["34745", "34741", "34744", "34743", "34746"]
 localPaths: ["Osceola County / ZIP 34741 sector", "Osceola County / elevation 85 ft band", "Osceola County / ZIP 34746 sector", "Osceola County / ZIP 34745 sector", "Osceola County / ZIP 34743 sector"]
+zillowHomeValueUsd: 339239
 ---
 
 **Engineering Notice for Kissimmee:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Osceola County.

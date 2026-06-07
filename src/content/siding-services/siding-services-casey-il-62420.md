@@ -12,6 +12,7 @@ lng: -87.9900
 zipSample: ["62420"]
 zipCodes: ["62420"]
 localPaths: ["Clark County / primary ZIP 62420", "Clark County / coords 39.3000, -87.9900", "Clark County / elevation 653 ft band", "Clark County / ZIP 62420 sector"]
+zillowHomeValueUsd: 123475
 ---
 
 **Engineering Notice for Casey:** Weather Barrier Wrap was validated under stress factor 1.21; target tolerance set near 94 mph. Grid anchor: Clark County.

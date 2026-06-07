@@ -12,6 +12,7 @@ lng: -78.9900
 zipSample: ["24558"]
 zipCodes: ["24558"]
 localPaths: ["Halifax County / primary ZIP 24558", "Halifax County / coords 36.7600, -78.9900", "Halifax County / elevation 548 ft band", "Halifax County / ZIP 24558 sector"]
+zillowHomeValueUsd: 172260
 ---
 
 **Engineering Notice for Mountain Road:** System optimized for 158 mg/L hard water scaling factors in Mountain Road. Regional dispatch grid: Halifax County.

@@ -11,6 +11,7 @@ lng: -118.1000
 zipSample: ["91775", "91776", "91778"]
 zipCodes: ["91776", "91775", "91778"]
 localPaths: ["Los Angeles County / ZIP 91775 sector", "Los Angeles County / primary ZIP 91775", "Los Angeles County / ZIP 91778 sector", "Los Angeles County / coords 34.0900, -118.1000", "Los Angeles County / elevation 407 ft band"]
+zillowHomeValueUsd: 1282434
 ---
 
 **Engineering Notice for San Gabriel:** Structural loading calculated based on 407 ft terrain assessment. Regional dispatch grid: Los Angeles County.

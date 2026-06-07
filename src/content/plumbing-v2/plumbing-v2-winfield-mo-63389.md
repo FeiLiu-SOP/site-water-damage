@@ -12,6 +12,7 @@ lng: -90.7500
 zipSample: ["63389"]
 zipCodes: ["63389"]
 localPaths: ["Lincoln County / coords 38.9900, -90.7500", "Lincoln County / ZIP 63389 sector", "Lincoln County / elevation 548 ft band", "Lincoln County / primary ZIP 63389"]
+zillowHomeValueUsd: 279655
 ---
 
 **Engineering Notice for Winfield:** System optimized for 122 mg/L hard water scaling factors in Winfield. Regional dispatch grid: Lincoln County.

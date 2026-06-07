@@ -12,6 +12,7 @@ lng: -84.8800
 zipSample: ["49082"]
 zipCodes: ["49082"]
 localPaths: ["Branch County / ZIP 49082 sector", "Branch County / elevation 1033 ft band", "Branch County / coords 41.9400, -84.8800", "Branch County / primary ZIP 49082"]
+zillowHomeValueUsd: 220451
 ---
 
 **Engineering Notice for Quincy:** System optimized for 143 mg/L hard water scaling factors in Quincy. Regional dispatch grid: Branch County.

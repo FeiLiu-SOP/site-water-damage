@@ -12,6 +12,7 @@ lng: -85.8100
 zipSample: ["35968", "35988"]
 zipCodes: ["35988", "35968"]
 localPaths: ["DeKalb County / coords 34.5600, -85.8100", "DeKalb County / ZIP 35968 sector", "DeKalb County / ZIP 35988 sector", "DeKalb County / primary ZIP 35988", "DeKalb County / elevation 1362 ft band"]
+zillowHomeValueUsd: 195111
 ---
 
 **Engineering Notice for Sylvania:** System optimized for 174 mg/L hard water scaling factors in Sylvania. Regional dispatch grid: DeKalb County.

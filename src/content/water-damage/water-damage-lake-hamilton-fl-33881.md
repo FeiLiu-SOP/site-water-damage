@@ -12,6 +12,7 @@ lng: -81.6300
 zipSample: ["33844", "33838", "33851", "33881"]
 zipCodes: ["33838", "33851", "33881", "33844"]
 localPaths: ["Polk County / primary ZIP 33881", "Polk County / elevation 144 ft band", "Polk County / ZIP 33838 sector", "Polk County / coords 28.0500, -81.6300", "Polk County / ZIP 33881 sector"]
+zillowHomeValueUsd: 264773
 ---
 
 **Engineering Notice for Lake Hamilton:** structural drying capacity optimized for 144ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Polk County. Relative Humidity Threshold: 79%. Sensor sync: Active.

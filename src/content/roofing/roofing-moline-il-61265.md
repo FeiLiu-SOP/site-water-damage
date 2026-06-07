@@ -11,6 +11,7 @@ lng: -90.4900
 zipSample: ["61266", "61265"]
 zipCodes: ["61266", "61265"]
 localPaths: ["Rock Island County / ZIP 61265 sector", "Rock Island County / elevation 682 ft band", "Rock Island County / primary ZIP 61265", "Rock Island County / ZIP 61266 sector", "Rock Island County / coords 41.4800, -90.4900"]
+zillowHomeValueUsd: 144224
 ---
 
 **Engineering Notice for Moline:** Structural loading calculated based on 682 ft terrain assessment. Regional dispatch grid: Rock Island County.

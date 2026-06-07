@@ -11,6 +11,7 @@ lng: -80.2200
 zipSample: ["33167", "33168", "33147", "33150"]
 zipCodes: ["33167", "33147", "33150", "33168"]
 localPaths: ["Miami-Dade County / ZIP 33167 sector", "Miami-Dade County / ZIP 33147 sector", "Miami-Dade County / primary ZIP 33147", "Miami-Dade County / coords 25.8700, -80.2200", "Miami-Dade County / elevation 26 ft band"]
+zillowHomeValueUsd: 434388
 ---
 
 **Engineering Notice for Pinewood:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

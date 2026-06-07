@@ -12,6 +12,7 @@ lng: -100.5400
 zipSample: ["79245"]
 zipCodes: ["79245"]
 localPaths: ["Hall County / ZIP 79245 sector", "Hall County / elevation 2080 ft band", "Hall County / primary ZIP 79245", "Hall County / coords 34.7300, -100.5400"]
+zillowHomeValueUsd: 77896
 ---
 
 **Engineering Notice for Memphis:** structural drying capacity optimized for 2080ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hall County. Relative Humidity Threshold: 85%. Sensor sync: Active.

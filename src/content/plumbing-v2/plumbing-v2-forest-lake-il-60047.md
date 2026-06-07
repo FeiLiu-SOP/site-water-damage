@@ -12,6 +12,7 @@ lng: -88.0500
 zipSample: ["60047"]
 zipCodes: ["60047"]
 localPaths: ["Lake County / ZIP 60047 sector", "Lake County / elevation 810 ft band", "Lake County / coords 42.2100, -88.0500", "Lake County / primary ZIP 60047"]
+zillowHomeValueUsd: 638946
 ---
 
 **Engineering Notice for Forest Lake:** System optimized for 136 mg/L hard water scaling factors in Forest Lake. Regional dispatch grid: Lake County.

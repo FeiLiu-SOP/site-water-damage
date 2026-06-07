@@ -11,6 +11,7 @@ lng: -74.1200
 zipSample: ["07407"]
 zipCodes: ["07407"]
 localPaths: ["Bergen County / primary ZIP 07407", "Bergen County / elevation 56 ft band", "Bergen County / ZIP 07407 sector", "Bergen County / coords 40.9000, -74.1200"]
+zillowHomeValueUsd: 617006
 ---
 
 **Engineering Notice for Elmwood Park:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Bergen County.

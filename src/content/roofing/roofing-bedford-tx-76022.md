@@ -11,6 +11,7 @@ lng: -97.1400
 zipSample: ["75064", "76021", "76095", "76022"]
 zipCodes: ["75064", "76022", "76021", "76095"]
 localPaths: ["Tarrant County / ZIP 75064 sector", "Tarrant County / coords 32.8500, -97.1400", "Tarrant County / primary ZIP 76022", "Tarrant County / elevation 617 ft band", "Tarrant County / ZIP 76022 sector"]
+zillowHomeValueUsd: 317291
 ---
 
 **Engineering Notice for Bedford:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: Tarrant County.

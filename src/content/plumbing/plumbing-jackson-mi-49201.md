@@ -12,6 +12,7 @@ lng: -84.4000
 zipSample: ["49201", "49203", "49202"]
 zipCodes: ["49203", "49202", "49201"]
 localPaths: ["Jackson County / elevation 948 ft band", "Jackson County / ZIP 49202 sector", "Jackson County / coords 42.2400, -84.4000", "Jackson County / ZIP 49201 sector", "Jackson County / primary ZIP 49201"]
+zillowHomeValueUsd: 248663
 ---
 
 **Engineering Notice for Jackson:** Structural loading calculated based on 948 ft terrain assessment. Regional dispatch grid: Jackson County.

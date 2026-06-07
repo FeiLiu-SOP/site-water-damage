@@ -12,6 +12,7 @@ lng: -77.9100
 zipSample: ["28449", "28428"]
 zipCodes: ["28449", "28428"]
 localPaths: ["New Hanover County / coords 34.0000, -77.9100", "New Hanover County / ZIP 28449 sector", "New Hanover County / primary ZIP 28449", "New Hanover County / elevation 16 ft band", "New Hanover County / ZIP 28428 sector"]
+zillowHomeValueUsd: 753334
 ---
 
 **Engineering Notice for Kure Beach:** Envelope check: Surface Sheathing assigned to wind-load band A with stress factor 0.92. Elevation: 16 ft AMSL. Regional dispatch grid: New Hanover County.

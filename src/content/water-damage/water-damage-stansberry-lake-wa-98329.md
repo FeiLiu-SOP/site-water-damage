@@ -12,6 +12,7 @@ lng: -122.7200
 zipSample: ["98329"]
 zipCodes: ["98329"]
 localPaths: ["Pierce County / coords 47.3800, -122.7200", "Pierce County / ZIP 98329 sector", "Pierce County / elevation 282 ft band", "Pierce County / primary ZIP 98329"]
+zillowHomeValueUsd: 606246
 ---
 
 **Engineering Notice for Stansberry Lake:** structural drying capacity optimized for 282ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pierce County. Relative Humidity Threshold: 65%. Sensor sync: Active.

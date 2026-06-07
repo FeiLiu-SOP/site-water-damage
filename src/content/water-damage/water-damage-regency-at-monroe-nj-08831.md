@@ -12,6 +12,7 @@ lng: -74.3900
 zipSample: ["08831"]
 zipCodes: ["08831"]
 localPaths: ["Middlesex County / primary ZIP 08831", "Middlesex County / coords 40.3200, -74.3900", "Middlesex County / ZIP 08831 sector", "Middlesex County / elevation 125 ft band"]
+zillowHomeValueUsd: 602356
 ---
 
 **Engineering Notice for Regency at Monroe:** structural drying capacity optimized for 125ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Middlesex County. Relative Humidity Threshold: 81%. Sensor sync: Active.

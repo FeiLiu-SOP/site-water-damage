@@ -12,6 +12,7 @@ lng: -97.3100
 zipSample: ["78953", "78957"]
 zipCodes: ["78957", "78953"]
 localPaths: ["Bastrop County / elevation 456 ft band", "Bastrop County / ZIP 78957 sector", "Bastrop County / coords 29.9500, -97.3100", "Bastrop County / ZIP 78953 sector", "Bastrop County / primary ZIP 78953"]
+zillowHomeValueUsd: 551252
 ---
 
 **Engineering Notice for Rosanky:** Exterior Cladding was validated under stress factor 0.94; target tolerance set near 143 mph. Grid anchor: Bastrop County.

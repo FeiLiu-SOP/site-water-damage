@@ -12,6 +12,7 @@ lng: -103.3200
 zipSample: ["88103", "88101"]
 zipCodes: ["88103", "88101"]
 localPaths: ["Curry County / ZIP 88101 sector", "Curry County / ZIP 88103 sector", "Curry County / coords 34.3900, -103.3200", "Curry County / elevation 4298 ft band", "Curry County / primary ZIP 88101"]
+zillowHomeValueUsd: 161625
 ---
 
 **Engineering Notice for Cannon AFB:** structural drying capacity optimized for 4298ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Curry County. Relative Humidity Threshold: 77%. Sensor sync: Active.

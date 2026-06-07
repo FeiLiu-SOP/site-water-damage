@@ -12,6 +12,7 @@ lng: -97.8700
 zipSample: ["76426"]
 zipCodes: ["76426"]
 localPaths: ["Wise County / primary ZIP 76426", "Wise County / elevation 837 ft band", "Wise County / ZIP 76426 sector", "Wise County / coords 33.1800, -97.8700"]
+zillowHomeValueUsd: 277020
 ---
 
 **Engineering Notice for Runaway Bay:** structural drying capacity optimized for 837ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wise County. Relative Humidity Threshold: 79%. Sensor sync: Active.

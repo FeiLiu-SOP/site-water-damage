@@ -12,6 +12,7 @@ lng: -90.0200
 zipSample: ["70037", "70143"]
 zipCodes: ["70143", "70037"]
 localPaths: ["Plaquemines Parish / elevation 3 ft band", "Plaquemines Parish / ZIP 70037 sector", "Plaquemines Parish / ZIP 70143 sector", "Plaquemines Parish / primary ZIP 70037", "Plaquemines Parish / coords 29.8300, -90.0200"]
+zillowHomeValueUsd: 332472
 ---
 
 **Engineering Notice for New Orleans Station:** System optimized for 141 mg/L hard water scaling factors in New Orleans Station. Regional dispatch grid: Plaquemines Parish.

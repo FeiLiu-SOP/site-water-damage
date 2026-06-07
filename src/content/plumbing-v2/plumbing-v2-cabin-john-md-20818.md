@@ -12,6 +12,7 @@ lng: -77.1600
 zipSample: ["20818", "20817"]
 zipCodes: ["20817", "20818"]
 localPaths: ["Montgomery County / primary ZIP 20818", "Montgomery County / elevation 161 ft band", "Montgomery County / ZIP 20818 sector", "Montgomery County / ZIP 20817 sector", "Montgomery County / coords 38.9700, -77.1600"]
+zillowHomeValueUsd: 1264549
 ---
 
 **Engineering Notice for Cabin John:** System optimized for 180 mg/L hard water scaling factors in Cabin John. Regional dispatch grid: Montgomery County.

@@ -12,6 +12,7 @@ lng: -75.9900
 zipSample: ["19609"]
 zipCodes: ["19609"]
 localPaths: ["Berks County / coords 40.3100, -75.9900", "Berks County / primary ZIP 19609", "Berks County / ZIP 19609 sector", "Berks County / elevation 322 ft band"]
+zillowHomeValueUsd: 287508
 ---
 
 **Engineering Notice for Lincoln Park:** Cladding Retrofit was validated under stress factor 0.98; target tolerance set near 97 mph. Grid anchor: Berks County.

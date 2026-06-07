@@ -12,6 +12,7 @@ lng: -96.6000
 zipSample: ["74030"]
 zipCodes: ["74030"]
 localPaths: ["Creek County / elevation 807 ft band", "Creek County / ZIP 74030 sector", "Creek County / coords 35.9900, -96.6000", "Creek County / primary ZIP 74030"]
+zillowHomeValueUsd: 109469
 ---
 
 **Engineering Notice for Drumright:** structural drying capacity optimized for 807ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Creek County. Relative Humidity Threshold: 69%. Sensor sync: Active.

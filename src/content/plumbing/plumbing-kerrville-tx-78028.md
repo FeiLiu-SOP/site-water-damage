@@ -12,6 +12,7 @@ lng: -99.1300
 zipSample: ["78028"]
 zipCodes: ["78028"]
 localPaths: ["Kerr County / elevation 1624 ft band", "Kerr County / primary ZIP 78028", "Kerr County / coords 30.0400, -99.1300", "Kerr County / ZIP 78028 sector"]
+zillowHomeValueUsd: 348641
 ---
 
 **Engineering Notice for Kerrville:** Structural loading calculated based on 1624 ft terrain assessment. Regional dispatch grid: Kerr County.

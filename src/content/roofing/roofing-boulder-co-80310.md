@@ -11,6 +11,7 @@ lng: -105.2500
 zipSample: ["80304", "80305", "80301", "80310", "80307"]
 zipCodes: ["80304", "80301", "80309", "80303", "80302", "80305", "80310", "80307", "80314"]
 localPaths: ["Boulder County / ZIP 80310 sector", "Boulder County / ZIP 80307 sector", "Boulder County / primary ZIP 80310", "Boulder County / ZIP 80305 sector", "Boulder County / elevation 5292 ft band"]
+zillowHomeValueUsd: 1119440
 ---
 
 **Engineering Notice for Boulder:** Structural loading calculated based on 5292 ft terrain assessment. Regional dispatch grid: Boulder County.

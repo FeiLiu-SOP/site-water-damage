@@ -12,6 +12,7 @@ lng: -75.5200
 zipSample: ["18052"]
 zipCodes: ["18052"]
 localPaths: ["Lehigh County / elevation 564 ft band", "Lehigh County / primary ZIP 18052", "Lehigh County / ZIP 18052 sector", "Lehigh County / coords 40.6900, -75.5200"]
+zillowHomeValueUsd: 335162
 ---
 
 **Engineering Notice for Cementon:** Structural integrity verification: Facade Renewal calibrated for 94 mph localized wind load factor. Elevation: 564 ft AMSL. Coordinates: 40.6900, -75.5200. Regional dispatch grid: Lehigh County.

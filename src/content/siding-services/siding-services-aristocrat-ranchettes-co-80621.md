@@ -12,6 +12,7 @@ lng: -104.7500
 zipSample: ["80621"]
 zipCodes: ["80621"]
 localPaths: ["Weld County / ZIP 80621 sector", "Weld County / coords 40.1100, -104.7500", "Weld County / elevation 5059 ft band", "Weld County / primary ZIP 80621"]
+zillowHomeValueUsd: 464873
 ---
 
 **Engineering Notice for Aristocrat Ranchettes:** Cladding verification uses 98 mph routing baseline; lateral pressure note: 13.0 psf. Elevation: 5059 ft AMSL. Grid: Weld County.

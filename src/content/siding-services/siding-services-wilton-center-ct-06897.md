@@ -12,6 +12,7 @@ lng: -73.4300
 zipSample: ["06897"]
 zipCodes: ["06897"]
 localPaths: ["Western Connecticut County / coords 41.1900, -73.4300", "Western Connecticut County / elevation 236 ft band", "Western Connecticut County / ZIP 06897 sector", "Western Connecticut County / primary ZIP 06897"]
+zillowHomeValueUsd: 1231512
 ---
 
 **Engineering Notice for Wilton Center:** Structural integrity verification: Exterior Envelope calibrated for 94 mph localized wind load factor. Coordinates: 41.1900, -73.4300. Regional dispatch grid: Western Connecticut County.

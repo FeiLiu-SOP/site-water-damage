@@ -12,6 +12,7 @@ lng: -92.5500
 zipSample: ["54023"]
 zipCodes: ["54023"]
 localPaths: ["St. Croix County / ZIP 54023 sector", "St. Croix County / elevation 978 ft band", "St. Croix County / primary ZIP 54023", "St. Croix County / coords 44.9700, -92.5500"]
+zillowHomeValueUsd: 411181
 ---
 
 **Engineering Notice for Roberts:** Structural integrity verification: Panel Replacement calibrated for 97 mph localized wind load factor. Elevation: 978 ft AMSL. Coordinates: 44.9700, -92.5500. Regional dispatch grid: St. Croix County.

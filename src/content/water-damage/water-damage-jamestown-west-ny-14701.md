@@ -12,6 +12,7 @@ lng: -79.2800
 zipSample: ["14701"]
 zipCodes: ["14701"]
 localPaths: ["Chautauqua County / ZIP 14701 sector", "Chautauqua County / elevation 1499 ft band", "Chautauqua County / coords 42.0900, -79.2800", "Chautauqua County / primary ZIP 14701"]
+zillowHomeValueUsd: 117908
 ---
 
 **Engineering Notice for Jamestown West:** structural drying capacity optimized for 1499ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chautauqua County. Relative Humidity Threshold: 71%. Sensor sync: Active.

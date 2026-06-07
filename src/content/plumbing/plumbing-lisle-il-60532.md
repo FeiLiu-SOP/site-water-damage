@@ -12,6 +12,7 @@ lng: -88.0900
 zipSample: ["60532"]
 zipCodes: ["60532"]
 localPaths: ["DuPage County / ZIP 60532 sector", "DuPage County / coords 41.7900, -88.0900", "DuPage County / elevation 673 ft band", "DuPage County / primary ZIP 60532"]
+zillowHomeValueUsd: 425952
 ---
 
 **Engineering Notice for Lisle:** Structural loading calculated based on 673 ft terrain assessment. Regional dispatch grid: DuPage County.

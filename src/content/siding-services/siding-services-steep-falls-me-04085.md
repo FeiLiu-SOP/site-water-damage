@@ -12,6 +12,7 @@ lng: -70.6300
 zipSample: ["04085"]
 zipCodes: ["04085"]
 localPaths: ["Cumberland County / elevation 322 ft band", "Cumberland County / primary ZIP 04085", "Cumberland County / ZIP 04085 sector", "Cumberland County / coords 43.7900, -70.6300"]
+zillowHomeValueUsd: 426506
 ---
 
 **Engineering Notice for Steep Falls:** Exterior Cladding was validated under stress factor 1.08; target tolerance set near 100 mph. Grid anchor: Cumberland County.

@@ -12,6 +12,8 @@ lng: -66.5000
 zipSample: ["00795"]
 zipCodes: ["00795"]
 localPaths: ["Juana Díaz County / coords 18.0800, -66.5000", "Juana Díaz County / ZIP 00795 sector", "Juana Díaz County / elevation 256 ft band", "Juana Díaz County / primary ZIP 00795"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 382694
 ---
 
 **Engineering Notice for Guayabal:** structural drying capacity optimized for 256ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Juana Díaz County. Relative Humidity Threshold: 77%. Sensor sync: Active.

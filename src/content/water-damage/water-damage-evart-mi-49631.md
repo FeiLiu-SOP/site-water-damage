@@ -12,6 +12,7 @@ lng: -85.2800
 zipSample: ["49631"]
 zipCodes: ["49631"]
 localPaths: ["Osceola County / primary ZIP 49631", "Osceola County / ZIP 49631 sector", "Osceola County / elevation 1043 ft band", "Osceola County / coords 43.9000, -85.2800"]
+zillowHomeValueUsd: 187242
 ---
 
 **Engineering Notice for Evart:** structural drying capacity optimized for 1043ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Osceola County. Relative Humidity Threshold: 66%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -112.0000
 zipSample: ["59634"]
 zipCodes: ["59634"]
 localPaths: ["Jefferson County / elevation 4764 ft band", "Jefferson County / coords 46.4500, -112.0000", "Jefferson County / primary ZIP 59634", "Jefferson County / ZIP 59634 sector"]
+zillowHomeValueUsd: 648263
 ---
 
 **Engineering Notice for Clancy:** System optimized for 175 mg/L hard water scaling factors in Clancy. Regional dispatch grid: Jefferson County.

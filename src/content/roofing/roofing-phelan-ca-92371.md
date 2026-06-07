@@ -11,6 +11,7 @@ lng: -117.5200
 zipSample: ["92371"]
 zipCodes: ["92371"]
 localPaths: ["San Bernardino County / ZIP 92371 sector", "San Bernardino County / coords 34.4400, -117.5200", "San Bernardino County / elevation 3812 ft band", "San Bernardino County / primary ZIP 92371"]
+zillowHomeValueUsd: 465032
 ---
 
 **Engineering Notice for Phelan:** Structural loading calculated based on 3812 ft terrain assessment. Regional dispatch grid: San Bernardino County.

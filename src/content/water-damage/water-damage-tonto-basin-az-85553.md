@@ -12,6 +12,7 @@ lng: -111.3000
 zipSample: ["85553"]
 zipCodes: ["85553"]
 localPaths: ["Gila County / coords 33.8400, -111.3000", "Gila County / primary ZIP 85553", "Gila County / ZIP 85553 sector", "Gila County / elevation 2274 ft band"]
+zillowHomeValueUsd: 334494
 ---
 
 **Engineering Notice for Tonto Basin:** structural drying capacity optimized for 2274ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gila County. Relative Humidity Threshold: 75%. Sensor sync: Active.

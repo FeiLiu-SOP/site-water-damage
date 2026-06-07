@@ -11,6 +11,7 @@ lng: -97.9500
 zipSample: ["73018", "73023"]
 zipCodes: ["73023", "73018"]
 localPaths: ["Grady County / ZIP 73023 sector", "Grady County / elevation 1129 ft band", "Grady County / coords 35.0400, -97.9500", "Grady County / primary ZIP 73018", "Grady County / ZIP 73018 sector"]
+zillowHomeValueUsd: 156688
 ---
 
 **Engineering Notice for Chickasha:** Structural loading calculated based on 1129 ft terrain assessment. Regional dispatch grid: Grady County.

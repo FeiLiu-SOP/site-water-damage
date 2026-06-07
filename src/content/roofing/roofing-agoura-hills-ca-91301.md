@@ -11,6 +11,7 @@ lng: -118.7600
 zipSample: ["91376", "91301"]
 zipCodes: ["91376", "91301"]
 localPaths: ["Los Angeles County / primary ZIP 91301", "Los Angeles County / elevation 965 ft band", "Los Angeles County / ZIP 91376 sector", "Los Angeles County / ZIP 91301 sector", "Los Angeles County / coords 34.1500, -118.7600"]
+zillowHomeValueUsd: 1248815
 ---
 
 **Engineering Notice for Agoura Hills:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Los Angeles County.

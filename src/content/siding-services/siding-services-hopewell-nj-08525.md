@@ -12,6 +12,7 @@ lng: -74.7600
 zipSample: ["08525"]
 zipCodes: ["08525"]
 localPaths: ["Mercer County / coords 40.3900, -74.7600", "Mercer County / primary ZIP 08525", "Mercer County / elevation 207 ft band", "Mercer County / ZIP 08525 sector"]
+zillowHomeValueUsd: 655560
 ---
 
 **Engineering Notice for Hopewell:** Structural integrity verification: Exterior Envelope calibrated for 99 mph localized wind load factor. Regional dispatch grid: Mercer County.

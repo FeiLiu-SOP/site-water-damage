@@ -11,6 +11,7 @@ lng: -92.9100
 zipSample: ["50158"]
 zipCodes: ["50158"]
 localPaths: ["Marshall County / coords 42.0300, -92.9100", "Marshall County / ZIP 50158 sector", "Marshall County / elevation 902 ft band", "Marshall County / primary ZIP 50158"]
+zillowHomeValueUsd: 174185
 ---
 
 **Engineering Notice for Marshalltown:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Marshall County.

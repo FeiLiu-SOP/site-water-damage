@@ -12,6 +12,7 @@ lng: -81.7700
 zipSample: ["29373", "29372"]
 zipCodes: ["29373", "29372"]
 localPaths: ["Spartanburg County / ZIP 29372 sector", "Spartanburg County / coords 34.9100, -81.7700", "Spartanburg County / elevation 751 ft band", "Spartanburg County / ZIP 29373 sector", "Spartanburg County / primary ZIP 29372"]
+zillowHomeValueUsd: 162435
 ---
 
 **Engineering Notice for Pacolet:** Cladding verification uses 97 mph routing baseline; lateral pressure note: 12.8 psf. Coordinates: 34.9100, -81.7700. Grid: Spartanburg County.

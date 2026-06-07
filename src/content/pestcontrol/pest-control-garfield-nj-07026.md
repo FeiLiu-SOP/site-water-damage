@@ -11,6 +11,7 @@ lng: -74.1100
 zipSample: ["07026"]
 zipCodes: ["07026"]
 localPaths: ["Bergen County / primary ZIP 07026", "Bergen County / coords 40.8800, -74.1100", "Bergen County / ZIP 07026 sector", "Bergen County / elevation 112 ft band"]
+zillowHomeValueUsd: 579905
 ---
 
 **Engineering Notice for Garfield:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Bergen County.

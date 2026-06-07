@@ -12,6 +12,7 @@ lng: -88.1600
 zipSample: ["35442"]
 zipCodes: ["35442"]
 localPaths: ["Pickens County / ZIP 35442 sector", "Pickens County / elevation 187 ft band", "Pickens County / primary ZIP 35442", "Pickens County / coords 33.1200, -88.1600"]
+zillowHomeValueUsd: 105096
 ---
 
 **Engineering Notice for Aliceville:** Envelope check: Wall Restoration assigned to wind-load band C with stress factor 1.06. Elevation: 187 ft AMSL. Regional dispatch grid: Pickens County.

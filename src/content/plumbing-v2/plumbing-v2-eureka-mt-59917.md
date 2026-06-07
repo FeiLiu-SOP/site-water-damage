@@ -12,6 +12,7 @@ lng: -115.0500
 zipSample: ["59917"]
 zipCodes: ["59917"]
 localPaths: ["Lincoln County / primary ZIP 59917", "Lincoln County / coords 48.8800, -115.0500", "Lincoln County / ZIP 59917 sector", "Lincoln County / elevation 2687 ft band"]
+zillowHomeValueUsd: 529381
 ---
 
 **Engineering Notice for Eureka:** System optimized for 176 mg/L hard water scaling factors in Eureka. Regional dispatch grid: Lincoln County.

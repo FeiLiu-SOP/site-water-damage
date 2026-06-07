@@ -12,6 +12,7 @@ lng: -90.3200
 zipSample: ["38664"]
 zipCodes: ["38664"]
 localPaths: ["Tunica County / coords 34.8300, -90.3200", "Tunica County / primary ZIP 38664", "Tunica County / elevation 197 ft band", "Tunica County / ZIP 38664 sector"]
+zillowHomeValueUsd: 198332
 ---
 
 **Engineering Notice for Tunica Resorts:** Weather Barrier Wrap was validated under stress factor 1.04; target tolerance set near 101 mph. Coordinates: 34.8300, -90.3200. Grid anchor: Tunica County.

@@ -12,6 +12,7 @@ lng: -121.7900
 zipSample: ["95076"]
 zipCodes: ["95076"]
 localPaths: ["Santa Cruz County / elevation 430 ft band", "Santa Cruz County / coords 36.9900, -121.7900", "Santa Cruz County / ZIP 95076 sector", "Santa Cruz County / primary ZIP 95076"]
+zillowHomeValueUsd: 839632
 ---
 
 **Engineering Notice for Corralitos:** System optimized for 147 mg/L hard water scaling factors in Corralitos. Regional dispatch grid: Santa Cruz County.

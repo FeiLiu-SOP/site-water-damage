@@ -12,6 +12,7 @@ lng: -74.6600
 zipSample: ["08223"]
 zipCodes: ["08223"]
 localPaths: ["Cape May County / elevation 30 ft band", "Cape May County / primary ZIP 08223", "Cape May County / coords 39.2600, -74.6600", "Cape May County / ZIP 08223 sector"]
+zillowHomeValueUsd: 498060
 ---
 
 **Engineering Notice for Marmora:** System optimized for 148 mg/L hard water scaling factors in Marmora. Regional dispatch grid: Cape May County.

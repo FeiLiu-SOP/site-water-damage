@@ -12,6 +12,7 @@ lng: -89.8700
 zipSample: ["39114"]
 zipCodes: ["39114"]
 localPaths: ["Simpson County / elevation 331 ft band", "Simpson County / ZIP 39114 sector", "Simpson County / coords 31.9600, -89.8700", "Simpson County / primary ZIP 39114"]
+zillowHomeValueUsd: 155455
 ---
 
 **Engineering Notice for Mendenhall:** Site context locked to Simpson County. Elevation: 331 ft AMSL. Weather Barrier Wrap integrity verification recorded.

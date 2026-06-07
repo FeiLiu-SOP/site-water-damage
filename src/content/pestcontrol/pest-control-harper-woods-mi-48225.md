@@ -11,6 +11,7 @@ lng: -82.9300
 zipSample: ["48225", "48265"]
 zipCodes: ["48225", "48265"]
 localPaths: ["Wayne County / primary ZIP 48225", "Wayne County / coords 42.4400, -82.9300", "Wayne County / ZIP 48265 sector", "Wayne County / ZIP 48225 sector", "Wayne County / elevation 597 ft band"]
+zillowHomeValueUsd: 150481
 ---
 
 **Engineering Notice for Harper Woods:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Wayne County.

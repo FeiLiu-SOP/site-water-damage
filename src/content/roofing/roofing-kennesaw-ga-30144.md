@@ -11,6 +11,7 @@ lng: -84.6200
 zipSample: ["30144", "30152"]
 zipCodes: ["30144", "30152"]
 localPaths: ["Cobb County / elevation 1138 ft band", "Cobb County / ZIP 30152 sector", "Cobb County / coords 34.0300, -84.6200", "Cobb County / primary ZIP 30144", "Cobb County / ZIP 30144 sector"]
+zillowHomeValueUsd: 382689
 ---
 
 **Engineering Notice for Kennesaw:** Structural loading calculated based on 1138 ft terrain assessment. Regional dispatch grid: Cobb County.

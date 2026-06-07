@@ -12,6 +12,8 @@ lng: -66.0700
 zipSample: ["00727"]
 zipCodes: ["00727"]
 localPaths: ["Caguas County / ZIP 00727 sector", "Caguas County / elevation 338 ft band", "Caguas County / primary ZIP 00727", "Caguas County / coords 18.2500, -66.0700"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 378296
 ---
 
 **Engineering Notice for Las Carolinas:** Cladding verification uses 99 mph routing baseline; lateral pressure note: 13.1 psf. Grid: Caguas County.

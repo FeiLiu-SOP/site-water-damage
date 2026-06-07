@@ -12,6 +12,7 @@ lng: -117.1600
 zipSample: ["92585"]
 zipCodes: ["92585"]
 localPaths: ["Riverside County / elevation 1558 ft band", "Riverside County / primary ZIP 92585", "Riverside County / ZIP 92585 sector", "Riverside County / coords 33.7600, -117.1600"]
+zillowHomeValueUsd: 598636
 ---
 
 **Engineering Notice for Romoland:** structural drying capacity optimized for 1558ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Riverside County. Relative Humidity Threshold: 73%. Sensor sync: Active.

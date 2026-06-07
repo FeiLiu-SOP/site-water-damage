@@ -12,6 +12,7 @@ lng: -121.6900
 zipSample: ["98251"]
 zipCodes: ["98251"]
 localPaths: ["Snohomish County / primary ZIP 98251", "Snohomish County / elevation 203 ft band", "Snohomish County / coords 47.8600, -121.6900", "Snohomish County / ZIP 98251 sector"]
+zillowHomeValueUsd: 480051
 ---
 
 **Engineering Notice for Gold Bar:** System optimized for 138 mg/L hard water scaling factors in Gold Bar. Regional dispatch grid: Snohomish County.

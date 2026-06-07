@@ -12,6 +12,7 @@ lng: -81.8100
 zipSample: ["29829"]
 zipCodes: ["29829"]
 localPaths: ["Aiken County / ZIP 29829 sector", "Aiken County / coords 33.5600, -81.8100", "Aiken County / primary ZIP 29829", "Aiken County / elevation 240 ft band"]
+zillowHomeValueUsd: 278582
 ---
 
 **Engineering Notice for Graniteville:** Structural integrity verification: Facade Renewal calibrated for 95 mph localized wind load factor. Coordinates: 33.5600, -81.8100. Regional dispatch grid: Aiken County.

@@ -12,6 +12,7 @@ lng: -92.6300
 zipSample: ["65049"]
 zipCodes: ["65049"]
 localPaths: ["Miller County / elevation 659 ft band", "Miller County / ZIP 65049 sector", "Miller County / primary ZIP 65049", "Miller County / coords 38.2000, -92.6300"]
+zillowHomeValueUsd: 333517
 ---
 
 **Engineering Notice for Lake Ozark:** System optimized for 180 mg/L hard water scaling factors in Lake Ozark. Regional dispatch grid: Miller County.

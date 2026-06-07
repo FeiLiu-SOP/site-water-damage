@@ -11,6 +11,7 @@ lng: -82.7400
 zipSample: ["33709"]
 zipCodes: ["33709"]
 localPaths: ["Pinellas County / ZIP 33709 sector", "Pinellas County / elevation 39 ft band", "Pinellas County / coords 27.8200, -82.7400", "Pinellas County / primary ZIP 33709"]
+zillowHomeValueUsd: 263781
 ---
 
 **Engineering Notice for West Lealman:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Pinellas County.

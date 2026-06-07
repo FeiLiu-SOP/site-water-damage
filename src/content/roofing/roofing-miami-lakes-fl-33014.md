@@ -11,6 +11,7 @@ lng: -80.3200
 zipSample: ["33016", "33002", "33018", "33014"]
 zipCodes: ["33002", "33016", "33018", "33014"]
 localPaths: ["Miami-Dade County / primary ZIP 33014", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / ZIP 33016 sector", "Miami-Dade County / ZIP 33018 sector", "Miami-Dade County / ZIP 33002 sector"]
+zillowHomeValueUsd: 440157
 ---
 
 **Engineering Notice for Miami Lakes:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

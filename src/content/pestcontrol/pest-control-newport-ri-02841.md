@@ -11,6 +11,7 @@ lng: -71.3200
 zipSample: ["02841", "02840"]
 zipCodes: ["02840", "02841"]
 localPaths: ["Newport County / ZIP 02840 sector", "Newport County / primary ZIP 02841", "Newport County / ZIP 02841 sector", "Newport County / elevation 0 ft band", "Newport County / coords 41.4800, -71.3200"]
+zillowHomeValueUsd: 941679
 ---
 
 **Engineering Notice for Newport:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Newport County.

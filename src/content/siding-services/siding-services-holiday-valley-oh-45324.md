@@ -12,6 +12,7 @@ lng: -83.9600
 zipSample: ["45324"]
 zipCodes: ["45324"]
 localPaths: ["Clark County / primary ZIP 45324", "Clark County / coords 39.8500, -83.9600", "Clark County / elevation 984 ft band", "Clark County / ZIP 45324 sector"]
+zillowHomeValueUsd: 202782
 ---
 
 **Engineering Notice for Holiday Valley:** Cladding verification uses 98 mph routing baseline; lateral pressure note: 13.0 psf. Elevation: 984 ft AMSL. Coordinates: 39.8500, -83.9600. Grid: Clark County.

@@ -12,6 +12,7 @@ lng: -84.7500
 zipSample: ["30121", "30137", "30120"]
 zipCodes: ["30120", "30137", "30121"]
 localPaths: ["Bartow County / coords 34.1300, -84.7500", "Bartow County / ZIP 30120 sector", "Bartow County / elevation 1109 ft band", "Bartow County / primary ZIP 30137", "Bartow County / ZIP 30137 sector"]
+zillowHomeValueUsd: 303509
 ---
 
 **Engineering Notice for Emerson:** Cladding Service was validated under stress factor 1.23; target tolerance set near 106 mph. Coordinates: 34.1300, -84.7500. Grid anchor: Bartow County.

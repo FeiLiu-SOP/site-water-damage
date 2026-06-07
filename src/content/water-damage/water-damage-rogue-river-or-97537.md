@@ -12,6 +12,7 @@ lng: -123.1700
 zipSample: ["97537", "97525"]
 zipCodes: ["97525", "97537"]
 localPaths: ["Jackson County / primary ZIP 97537", "Jackson County / elevation 1020 ft band", "Jackson County / ZIP 97537 sector", "Jackson County / coords 42.4400, -123.1700", "Jackson County / ZIP 97525 sector"]
+zillowHomeValueUsd: 474640
 ---
 
 **Engineering Notice for Rogue River:** structural drying capacity optimized for 1020ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jackson County. Relative Humidity Threshold: 74%. Sensor sync: Active.

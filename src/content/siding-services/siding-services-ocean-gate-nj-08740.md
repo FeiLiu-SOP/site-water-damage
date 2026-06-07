@@ -12,6 +12,7 @@ lng: -74.1300
 zipSample: ["08740"]
 zipCodes: ["08740"]
 localPaths: ["Ocean County / coords 39.9300, -74.1300", "Ocean County / ZIP 08740 sector", "Ocean County / primary ZIP 08740", "Ocean County / elevation 20 ft band"]
+zillowHomeValueUsd: 440215
 ---
 
 **Engineering Notice for Ocean Gate:** Cladding verification uses 105 mph routing baseline; lateral pressure note: 13.8 psf. Elevation: 20 ft AMSL. Coordinates: 39.9300, -74.1300. Grid: Ocean County.

@@ -12,6 +12,7 @@ lng: -117.2800
 zipSample: ["97828"]
 zipCodes: ["97828"]
 localPaths: ["Wallowa County / ZIP 97828 sector", "Wallowa County / coords 45.4300, -117.2800", "Wallowa County / primary ZIP 97828", "Wallowa County / elevation 3753 ft band"]
+zillowHomeValueUsd: 419620
 ---
 
 **Engineering Notice for Enterprise:** Site context locked to Wallowa County. Coordinates: 45.4300, -117.2800. Weather Barrier Wrap integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -92.5100
 zipSample: ["70542"]
 zipCodes: ["70542"]
 localPaths: ["Vermilion Parish / primary ZIP 70542", "Vermilion Parish / coords 30.0300, -92.5100", "Vermilion Parish / ZIP 70542 sector", "Vermilion Parish / elevation 20 ft band"]
+zillowHomeValueUsd: 118314
 ---
 
 **Engineering Notice for Gueydan:** System optimized for 134 mg/L hard water scaling factors in Gueydan. Regional dispatch grid: Vermilion Parish.

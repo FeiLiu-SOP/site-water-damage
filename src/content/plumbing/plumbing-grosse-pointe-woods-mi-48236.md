@@ -12,6 +12,7 @@ lng: -82.9000
 zipSample: ["48236"]
 zipCodes: ["48236"]
 localPaths: ["Wayne County / elevation 584 ft band", "Wayne County / ZIP 48236 sector", "Wayne County / coords 42.4400, -82.9000", "Wayne County / primary ZIP 48236"]
+zillowHomeValueUsd: 398274
 ---
 
 **Engineering Notice for Grosse Pointe Woods:** Structural loading calculated based on 584 ft terrain assessment. Regional dispatch grid: Wayne County.

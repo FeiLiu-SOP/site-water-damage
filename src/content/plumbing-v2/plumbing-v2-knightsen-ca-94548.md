@@ -12,6 +12,8 @@ lng: -121.6500
 zipSample: ["94513", "94548"]
 zipCodes: ["94513", "94548"]
 localPaths: ["Contra Costa County / elevation 13 ft band", "Contra Costa County / primary ZIP 94548", "Contra Costa County / coords 37.9600, -121.6500", "Contra Costa County / ZIP 94548 sector", "Contra Costa County / ZIP 94513 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 872054
 ---
 
 **Engineering Notice for Knightsen:** System optimized for 142 mg/L hard water scaling factors in Knightsen. Regional dispatch grid: Contra Costa County.

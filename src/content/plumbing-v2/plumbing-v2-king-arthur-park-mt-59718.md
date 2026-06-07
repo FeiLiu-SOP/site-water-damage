@@ -12,6 +12,7 @@ lng: -111.1300
 zipSample: ["59718"]
 zipCodes: ["59718"]
 localPaths: ["Gallatin County / primary ZIP 59718", "Gallatin County / ZIP 59718 sector", "Gallatin County / elevation 4843 ft band", "Gallatin County / coords 45.6700, -111.1300"]
+zillowHomeValueUsd: 647374
 ---
 
 **Engineering Notice for King Arthur Park:** System optimized for 139 mg/L hard water scaling factors in King Arthur Park. Regional dispatch grid: Gallatin County.

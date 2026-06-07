@@ -12,6 +12,7 @@ lng: -86.3400
 zipSample: ["36022", "36025"]
 zipCodes: ["36025", "36022"]
 localPaths: ["Elmore County / coords 32.5600, -86.3400", "Elmore County / ZIP 36025 sector", "Elmore County / primary ZIP 36022", "Elmore County / ZIP 36022 sector", "Elmore County / elevation 302 ft band"]
+zillowHomeValueUsd: 292439
 ---
 
 **Engineering Notice for Elmore:** System optimized for 169 mg/L hard water scaling factors in Elmore. Regional dispatch grid: Elmore County.

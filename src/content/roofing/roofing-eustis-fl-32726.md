@@ -11,6 +11,7 @@ lng: -81.6800
 zipSample: ["32727", "32736", "32726"]
 zipCodes: ["32727", "32726", "32736"]
 localPaths: ["Lake County / ZIP 32726 sector", "Lake County / coords 28.8600, -81.6800", "Lake County / ZIP 32736 sector", "Lake County / elevation 105 ft band", "Lake County / primary ZIP 32726"]
+zillowHomeValueUsd: 286718
 ---
 
 **Engineering Notice for Eustis:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Lake County.

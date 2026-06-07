@@ -12,6 +12,7 @@ lng: -95.6800
 zipSample: ["74436"]
 zipCodes: ["74436"]
 localPaths: ["Muskogee County / elevation 604 ft band", "Muskogee County / ZIP 74436 sector", "Muskogee County / primary ZIP 74436", "Muskogee County / coords 35.8200, -95.6800"]
+zillowHomeValueUsd: 206667
 ---
 
 **Engineering Notice for Haskell:** structural drying capacity optimized for 604ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Muskogee County. Relative Humidity Threshold: 69%. Sensor sync: Active.

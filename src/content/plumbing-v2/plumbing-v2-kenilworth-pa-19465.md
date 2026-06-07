@@ -12,6 +12,7 @@ lng: -75.6400
 zipSample: ["19465"]
 zipCodes: ["19465"]
 localPaths: ["Chester County / ZIP 19465 sector", "Chester County / primary ZIP 19465", "Chester County / coords 40.2200, -75.6400", "Chester County / elevation 240 ft band"]
+zillowHomeValueUsd: 490220
 ---
 
 **Engineering Notice for Kenilworth:** System optimized for 168 mg/L hard water scaling factors in Kenilworth. Regional dispatch grid: Chester County.

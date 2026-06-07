@@ -11,6 +11,7 @@ lng: -117.2300
 zipSample: ["99206", "99216", "99016", "99215", "99213"]
 zipCodes: ["99216", "99215", "99037", "99016", "99213", "99212", "99211", "99206"]
 localPaths: ["Spokane County / ZIP 99206 sector", "Spokane County / coords 47.6600, -117.2300", "Spokane County / primary ZIP 99206", "Spokane County / elevation 2031 ft band", "Spokane County / ZIP 99016 sector"]
+zillowHomeValueUsd: 418815
 ---
 
 **Engineering Notice for Spokane Valley:** Structural loading calculated based on 2031 ft terrain assessment. Regional dispatch grid: Spokane County.

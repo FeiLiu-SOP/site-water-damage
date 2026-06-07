@@ -12,6 +12,7 @@ lng: -94.0400
 zipSample: ["55354"]
 zipCodes: ["55354"]
 localPaths: ["McLeod County / primary ZIP 55354", "McLeod County / ZIP 55354 sector", "McLeod County / elevation 971 ft band", "McLeod County / coords 44.8800, -94.0400"]
+zillowHomeValueUsd: 316523
 ---
 
 **Engineering Notice for Lester Prairie:** Exterior Cladding was validated under stress factor 1.20; target tolerance set near 103 mph. Coordinates: 44.8800, -94.0400. Grid anchor: McLeod County.

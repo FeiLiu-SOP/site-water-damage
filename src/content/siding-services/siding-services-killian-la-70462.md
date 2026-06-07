@@ -12,6 +12,7 @@ lng: -90.5800
 zipSample: ["70462"]
 zipCodes: ["70462"]
 localPaths: ["Livingston Parish / primary ZIP 70462", "Livingston Parish / ZIP 70462 sector", "Livingston Parish / elevation 59 ft band", "Livingston Parish / coords 30.3500, -90.5800"]
+zillowHomeValueUsd: 253339
 ---
 
 **Engineering Notice for Killian:** Envelope check: Vinyl Panels assigned to wind-load band C with stress factor 0.92. Elevation: 59 ft AMSL. Regional dispatch grid: Livingston Parish.

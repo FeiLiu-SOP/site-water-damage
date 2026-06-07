@@ -12,6 +12,7 @@ lng: -122.6700
 zipSample: ["94928"]
 zipCodes: ["94928"]
 localPaths: ["Sonoma County / elevation 161 ft band", "Sonoma County / ZIP 94928 sector", "Sonoma County / primary ZIP 94928", "Sonoma County / coords 38.3400, -122.6700"]
+zillowHomeValueUsd: 713086
 ---
 
 **Engineering Notice for Sonoma State University:** System optimized for 150 mg/L hard water scaling factors in Sonoma State University. Regional dispatch grid: Sonoma County.

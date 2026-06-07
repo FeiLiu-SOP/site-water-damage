@@ -12,6 +12,7 @@ lng: -118.9800
 zipSample: ["99116"]
 zipCodes: ["99116"]
 localPaths: ["Okanogan County / ZIP 99116 sector", "Okanogan County / coords 47.9700, -118.9800", "Okanogan County / elevation 1142 ft band", "Okanogan County / primary ZIP 99116"]
+zillowHomeValueUsd: 230939
 ---
 
 **Engineering Notice for Coulee Dam:** System optimized for 150 mg/L hard water scaling factors in Coulee Dam. Regional dispatch grid: Okanogan County.

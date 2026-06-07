@@ -12,6 +12,7 @@ lng: -77.6900
 zipSample: ["16828"]
 zipCodes: ["16828"]
 localPaths: ["Centre County / elevation 1322 ft band", "Centre County / ZIP 16828 sector", "Centre County / primary ZIP 16828", "Centre County / coords 40.8400, -77.6900"]
+zillowHomeValueUsd: 334879
 ---
 
 **Engineering Notice for Centre Hall:** System optimized for 173 mg/L hard water scaling factors in Centre Hall. Regional dispatch grid: Centre County.

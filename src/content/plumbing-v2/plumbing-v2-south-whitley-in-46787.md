@@ -12,6 +12,7 @@ lng: -85.6300
 zipSample: ["46787"]
 zipCodes: ["46787"]
 localPaths: ["Whitley County / ZIP 46787 sector", "Whitley County / elevation 810 ft band", "Whitley County / primary ZIP 46787", "Whitley County / coords 41.0800, -85.6300"]
+zillowHomeValueUsd: 238377
 ---
 
 **Engineering Notice for South Whitley:** System optimized for 128 mg/L hard water scaling factors in South Whitley. Regional dispatch grid: Whitley County.

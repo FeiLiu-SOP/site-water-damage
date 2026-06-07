@@ -12,6 +12,7 @@ lng: -112.3600
 zipSample: ["85375", "85376"]
 zipCodes: ["85376", "85375"]
 localPaths: ["Maricopa County / ZIP 85375 sector", "Maricopa County / primary ZIP 85375", "Maricopa County / coords 33.6700, -112.3600", "Maricopa County / ZIP 85376 sector", "Maricopa County / elevation 1247 ft band"]
+zillowHomeValueUsd: 382130
 ---
 
 **Engineering Notice for Sun City West:** Structural loading calculated based on 1247 ft terrain assessment. Regional dispatch grid: Maricopa County.

@@ -12,6 +12,7 @@ lng: -75.9800
 zipSample: ["21901", "21914"]
 zipCodes: ["21914", "21901"]
 localPaths: ["Cecil County / primary ZIP 21901", "Cecil County / ZIP 21914 sector", "Cecil County / elevation 56 ft band", "Cecil County / ZIP 21901 sector", "Cecil County / coords 39.5800, -75.9800"]
+zillowHomeValueUsd: 391580
 ---
 
 **Engineering Notice for Charlestown:** System optimized for 143 mg/L hard water scaling factors in Charlestown. Regional dispatch grid: Cecil County.

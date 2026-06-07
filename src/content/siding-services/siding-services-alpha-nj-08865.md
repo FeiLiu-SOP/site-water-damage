@@ -12,6 +12,7 @@ lng: -75.1600
 zipSample: ["08865"]
 zipCodes: ["08865"]
 localPaths: ["Warren County / ZIP 08865 sector", "Warren County / primary ZIP 08865", "Warren County / coords 40.6600, -75.1600", "Warren County / elevation 279 ft band"]
+zillowHomeValueUsd: 336591
 ---
 
 **Engineering Notice for Alpha:** Site context locked to Warren County. Exterior Cladding integrity verification recorded.

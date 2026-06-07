@@ -12,6 +12,7 @@ lng: -75.5300
 zipSample: ["18433"]
 zipCodes: ["18433"]
 localPaths: ["Lackawanna County / elevation 997 ft band", "Lackawanna County / ZIP 18433 sector", "Lackawanna County / coords 41.5400, -75.5300", "Lackawanna County / primary ZIP 18433"]
+zillowHomeValueUsd: 217662
 ---
 
 **Engineering Notice for Mayfield:** structural drying capacity optimized for 997ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lackawanna County. Relative Humidity Threshold: 68%. Sensor sync: Active.

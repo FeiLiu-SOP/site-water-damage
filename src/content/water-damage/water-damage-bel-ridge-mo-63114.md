@@ -12,6 +12,7 @@ lng: -90.3300
 zipSample: ["63121", "63114", "63134"]
 zipCodes: ["63134", "63121", "63114"]
 localPaths: ["St. Louis County / ZIP 63121 sector", "St. Louis County / primary ZIP 63114", "St. Louis County / elevation 610 ft band", "St. Louis County / coords 38.7100, -90.3300", "St. Louis County / ZIP 63114 sector"]
+zillowHomeValueUsd: 139456
 ---
 
 **Engineering Notice for Bel-Ridge:** structural drying capacity optimized for 610ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Louis County. Relative Humidity Threshold: 71%. Sensor sync: Active.

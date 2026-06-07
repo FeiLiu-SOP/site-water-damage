@@ -11,6 +11,7 @@ lng: -121.4400
 zipSample: ["95673"]
 zipCodes: ["95673"]
 localPaths: ["Sacramento County / ZIP 95673 sector", "Sacramento County / elevation 59 ft band", "Sacramento County / coords 38.6900, -121.4400", "Sacramento County / primary ZIP 95673"]
+zillowHomeValueUsd: 453211
 ---
 
 **Engineering Notice for Rio Linda:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Sacramento County.

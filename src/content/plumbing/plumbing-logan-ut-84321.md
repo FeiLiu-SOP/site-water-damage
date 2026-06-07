@@ -12,6 +12,7 @@ lng: -111.8400
 zipSample: ["84321", "84322", "84341"]
 zipCodes: ["84341", "84321", "84322"]
 localPaths: ["Cache County / ZIP 84341 sector", "Cache County / ZIP 84321 sector", "Cache County / primary ZIP 84321", "Cache County / coords 41.7400, -111.8400", "Cache County / ZIP 84322 sector"]
+zillowHomeValueUsd: 421490
 ---
 
 **Engineering Notice for Logan:** Structural loading calculated based on 4514 ft terrain assessment. Regional dispatch grid: Cache County.

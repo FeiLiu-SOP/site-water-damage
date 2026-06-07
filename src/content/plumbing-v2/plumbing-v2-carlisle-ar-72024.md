@@ -12,6 +12,7 @@ lng: -91.7400
 zipSample: ["72024"]
 zipCodes: ["72024"]
 localPaths: ["Lonoke County / coords 34.7900, -91.7400", "Lonoke County / elevation 246 ft band", "Lonoke County / primary ZIP 72024", "Lonoke County / ZIP 72024 sector"]
+zillowHomeValueUsd: 178361
 ---
 
 **Engineering Notice for Carlisle:** System optimized for 145 mg/L hard water scaling factors in Carlisle. Regional dispatch grid: Lonoke County.

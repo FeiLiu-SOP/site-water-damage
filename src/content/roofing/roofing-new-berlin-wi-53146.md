@@ -11,6 +11,7 @@ lng: -88.1300
 zipSample: ["53151", "53146"]
 zipCodes: ["53151", "53146"]
 localPaths: ["Waukesha County / ZIP 53151 sector", "Waukesha County / ZIP 53146 sector", "Waukesha County / primary ZIP 53146", "Waukesha County / elevation 886 ft band", "Waukesha County / coords 42.9700, -88.1300"]
+zillowHomeValueUsd: 441078
 ---
 
 **Engineering Notice for New Berlin:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Waukesha County.

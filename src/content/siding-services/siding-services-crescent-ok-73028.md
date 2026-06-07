@@ -12,6 +12,7 @@ lng: -97.5900
 zipSample: ["73028"]
 zipCodes: ["73028"]
 localPaths: ["Logan County / ZIP 73028 sector", "Logan County / primary ZIP 73028", "Logan County / elevation 1145 ft band", "Logan County / coords 35.9500, -97.5900"]
+zillowHomeValueUsd: 166209
 ---
 
 **Engineering Notice for Crescent:** Cladding verification uses 95 mph routing baseline; lateral pressure note: 12.6 psf. Elevation: 1145 ft AMSL. Grid: Logan County.

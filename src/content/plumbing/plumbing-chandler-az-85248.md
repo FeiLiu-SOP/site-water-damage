@@ -12,6 +12,7 @@ lng: -111.8500
 zipSample: ["85226", "85225", "85249", "85246", "85224"]
 zipCodes: ["85225", "85226", "85286", "85248", "85224", "85246", "85249"]
 localPaths: ["Maricopa County / ZIP 85226 sector", "Maricopa County / elevation 1214 ft band", "Maricopa County / ZIP 85249 sector", "Maricopa County / ZIP 85224 sector", "Maricopa County / primary ZIP 85248"]
+zillowHomeValueUsd: 563073
 ---
 
 **Engineering Notice for Chandler:** Structural loading calculated based on 1214 ft terrain assessment. Regional dispatch grid: Maricopa County.

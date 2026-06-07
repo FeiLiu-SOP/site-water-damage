@@ -11,6 +11,7 @@ lng: -98.0800
 zipSample: ["76088", "76068", "76067"]
 zipCodes: ["76088", "76067", "76068"]
 localPaths: ["Palo Pinto County / ZIP 76067 sector", "Palo Pinto County / elevation 925 ft band", "Palo Pinto County / ZIP 76088 sector", "Palo Pinto County / coords 32.8200, -98.0800", "Palo Pinto County / ZIP 76068 sector"]
+zillowHomeValueUsd: 467476
 ---
 
 **Engineering Notice for Mineral Wells:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Palo Pinto County.

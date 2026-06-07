@@ -12,6 +12,7 @@ lng: -91.8600
 zipSample: ["52206"]
 zipCodes: ["52206"]
 localPaths: ["Benton County / elevation 843 ft band", "Benton County / primary ZIP 52206", "Benton County / coords 41.9900, -91.8600", "Benton County / ZIP 52206 sector"]
+zillowHomeValueUsd: 357724
 ---
 
 **Engineering Notice for Atkins:** Envelope check: Surface Sheathing assigned to wind-load band A with stress factor 0.99. Regional dispatch grid: Benton County.

@@ -11,6 +11,7 @@ lng: -118.0800
 zipSample: ["90652", "90651", "90650"]
 zipCodes: ["90652", "90650", "90651"]
 localPaths: ["Los Angeles County / coords 33.9100, -118.0800", "Los Angeles County / ZIP 90651 sector", "Los Angeles County / primary ZIP 90650", "Los Angeles County / elevation 95 ft band", "Los Angeles County / ZIP 90650 sector"]
+zillowHomeValueUsd: 763407
 ---
 
 **Engineering Notice for Norwalk:** Structural loading calculated based on 95 ft terrain assessment. Regional dispatch grid: Los Angeles County.

@@ -12,6 +12,7 @@ lng: -114.2500
 zipSample: ["59834"]
 zipCodes: ["59834"]
 localPaths: ["Missoula County / primary ZIP 59834", "Missoula County / ZIP 59834 sector", "Missoula County / elevation 3038 ft band", "Missoula County / coords 47.0300, -114.2500"]
+zillowHomeValueUsd: 666845
 ---
 
 **Engineering Notice for Frenchtown:** System optimized for 144 mg/L hard water scaling factors in Frenchtown. Regional dispatch grid: Missoula County.

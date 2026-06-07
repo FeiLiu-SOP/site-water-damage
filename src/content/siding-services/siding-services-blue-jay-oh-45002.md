@@ -12,6 +12,7 @@ lng: -84.7400
 zipSample: ["45002"]
 zipCodes: ["45002"]
 localPaths: ["Hamilton County / elevation 778 ft band", "Hamilton County / ZIP 45002 sector", "Hamilton County / coords 39.2300, -84.7400", "Hamilton County / primary ZIP 45002"]
+zillowHomeValueUsd: 352834
 ---
 
 **Engineering Notice for Blue Jay:** Cladding verification uses 104 mph routing baseline; lateral pressure note: 13.7 psf. Elevation: 778 ft AMSL. Grid: Hamilton County.

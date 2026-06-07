@@ -12,6 +12,7 @@ lng: -86.5700
 zipSample: ["49106"]
 zipCodes: ["49106"]
 localPaths: ["Berrien County / coords 41.9400, -86.5700", "Berrien County / ZIP 49106 sector", "Berrien County / primary ZIP 49106", "Berrien County / elevation 627 ft band"]
+zillowHomeValueUsd: 343399
 ---
 
 **Engineering Notice for Bridgman:** structural drying capacity optimized for 627ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Berrien County. Relative Humidity Threshold: 80%. Sensor sync: Active.

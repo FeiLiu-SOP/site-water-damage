@@ -12,6 +12,7 @@ lng: -93.0200
 zipSample: ["55110"]
 zipCodes: ["55110"]
 localPaths: ["Ramsey County / ZIP 55110 sector", "Ramsey County / primary ZIP 55110", "Ramsey County / coords 45.0700, -93.0200", "Ramsey County / elevation 942 ft band"]
+zillowHomeValueUsd: 378492
 ---
 
 **Engineering Notice for White Bear Lake:** Structural loading calculated based on 942 ft terrain assessment. Regional dispatch grid: Ramsey County.

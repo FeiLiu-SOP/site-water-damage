@@ -12,6 +12,7 @@ lng: -92.1000
 zipSample: ["65689"]
 zipCodes: ["65689"]
 localPaths: ["Texas County / ZIP 65689 sector", "Texas County / elevation 1342 ft band", "Texas County / coords 37.1300, -92.1000", "Texas County / primary ZIP 65689"]
+zillowHomeValueUsd: 187952
 ---
 
 **Engineering Notice for Cabool:** System optimized for 158 mg/L hard water scaling factors in Cabool. Regional dispatch grid: Texas County.

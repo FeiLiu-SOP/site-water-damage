@@ -12,6 +12,7 @@ lng: -122.2300
 zipSample: ["98012", "98087", "98208", "98037"]
 zipCodes: ["98037", "98208", "98087", "98012"]
 localPaths: ["Snohomish County / ZIP 98208 sector", "Snohomish County / ZIP 98037 sector", "Snohomish County / elevation 456 ft band", "Snohomish County / coords 47.8500, -122.2300", "Snohomish County / primary ZIP 98087"]
+zillowHomeValueUsd: 751135
 ---
 
 **Engineering Notice for Martha Lake:** Structural loading calculated based on 456 ft terrain assessment. Regional dispatch grid: Snohomish County.

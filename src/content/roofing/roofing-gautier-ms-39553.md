@@ -11,6 +11,7 @@ lng: -88.6600
 zipSample: ["39564", "39553"]
 zipCodes: ["39564", "39553"]
 localPaths: ["Jackson County / elevation 30 ft band", "Jackson County / ZIP 39553 sector", "Jackson County / coords 30.4100, -88.6600", "Jackson County / primary ZIP 39553", "Jackson County / ZIP 39564 sector"]
+zillowHomeValueUsd: 186868
 ---
 
 **Engineering Notice for Gautier:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Jackson County.

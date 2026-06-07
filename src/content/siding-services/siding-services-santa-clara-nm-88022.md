@@ -12,6 +12,7 @@ lng: -108.1500
 zipSample: ["88026", "88036", "88022", "88041"]
 zipCodes: ["88022", "88041", "88036", "88026"]
 localPaths: ["Grant County / ZIP 88026 sector", "Grant County / coords 32.7800, -108.1500", "Grant County / ZIP 88036 sector", "Grant County / ZIP 88022 sector", "Grant County / elevation 6004 ft band"]
+zillowHomeValueUsd: 214614
 ---
 
 **Engineering Notice for Santa Clara:** Weather Barrier Wrap was validated under stress factor 0.87; target tolerance set near 109 mph. Grid anchor: Grant County.

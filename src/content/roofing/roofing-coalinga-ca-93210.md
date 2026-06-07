@@ -11,6 +11,7 @@ lng: -120.3200
 zipSample: ["93210"]
 zipCodes: ["93210"]
 localPaths: ["Fresno County / primary ZIP 93210", "Fresno County / elevation 623 ft band", "Fresno County / coords 36.1400, -120.3200", "Fresno County / ZIP 93210 sector"]
+zillowHomeValueUsd: 293599
 ---
 
 **Engineering Notice for Coalinga:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Fresno County.

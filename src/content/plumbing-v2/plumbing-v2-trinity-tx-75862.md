@@ -12,6 +12,7 @@ lng: -95.3700
 zipSample: ["75862"]
 zipCodes: ["75862"]
 localPaths: ["Trinity County / primary ZIP 75862", "Trinity County / ZIP 75862 sector", "Trinity County / elevation 240 ft band", "Trinity County / coords 30.9400, -95.3700"]
+zillowHomeValueUsd: 166374
 ---
 
 **Engineering Notice for Trinity:** System optimized for 179 mg/L hard water scaling factors in Trinity. Regional dispatch grid: Trinity County.

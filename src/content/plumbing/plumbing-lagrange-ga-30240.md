@@ -12,6 +12,7 @@ lng: -85.0400
 zipSample: ["30240", "30241"]
 zipCodes: ["30240", "30241"]
 localPaths: ["Troup County / ZIP 30241 sector", "Troup County / elevation 751 ft band", "Troup County / primary ZIP 30240", "Troup County / coords 33.0300, -85.0400", "Troup County / ZIP 30240 sector"]
+zillowHomeValueUsd: 249655
 ---
 
 **Engineering Notice for LaGrange:** Structural loading calculated based on 751 ft terrain assessment. Regional dispatch grid: Troup County.

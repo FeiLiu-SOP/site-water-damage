@@ -12,6 +12,7 @@ lng: -79.9500
 zipSample: ["15067"]
 zipCodes: ["15067"]
 localPaths: ["Washington County / primary ZIP 15067", "Washington County / elevation 968 ft band", "Washington County / ZIP 15067 sector", "Washington County / coords 40.2100, -79.9500"]
+zillowHomeValueUsd: 121493
 ---
 
 **Engineering Notice for New Eagle:** Envelope check: Wall Restoration assigned to wind-load band B with stress factor 1.22. Regional dispatch grid: Washington County.

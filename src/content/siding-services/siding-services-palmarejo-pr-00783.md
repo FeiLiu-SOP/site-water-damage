@@ -12,6 +12,8 @@ lng: -66.2900
 zipSample: ["00783"]
 zipCodes: ["00783"]
 localPaths: ["Corozal County / elevation 554 ft band", "Corozal County / ZIP 00783 sector", "Corozal County / primary ZIP 00783", "Corozal County / coords 18.3100, -66.2900"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 370237
 ---
 
 **Engineering Notice for Palmarejo:** Site context locked to Corozal County. Coordinates: 18.3100, -66.2900. Cladding Service integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -81.3700
 zipSample: ["33852", "33862"]
 zipCodes: ["33852", "33862"]
 localPaths: ["Highlands County / ZIP 33852 sector", "Highlands County / primary ZIP 33852", "Highlands County / coords 27.3000, -81.3700", "Highlands County / ZIP 33862 sector", "Highlands County / elevation 108 ft band"]
+zillowHomeValueUsd: 238439
 ---
 
 **Engineering Notice for Lake Placid:** System optimized for 168 mg/L hard water scaling factors in Lake Placid. Regional dispatch grid: Highlands County.

@@ -12,6 +12,7 @@ lng: -81.3500
 zipSample: ["44241"]
 zipCodes: ["44241"]
 localPaths: ["Portage County / elevation 1129 ft band", "Portage County / primary ZIP 44241", "Portage County / coords 41.2400, -81.3500", "Portage County / ZIP 44241 sector"]
+zillowHomeValueUsd: 279263
 ---
 
 **Engineering Notice for Streetsboro:** Structural loading calculated based on 1129 ft terrain assessment. Regional dispatch grid: Portage County.

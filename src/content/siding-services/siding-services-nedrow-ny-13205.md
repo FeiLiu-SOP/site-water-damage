@@ -12,6 +12,7 @@ lng: -76.1400
 zipSample: ["13205", "13120"]
 zipCodes: ["13205", "13120"]
 localPaths: ["Onondaga County / ZIP 13205 sector", "Onondaga County / primary ZIP 13205", "Onondaga County / coords 42.9800, -76.1400", "Onondaga County / ZIP 13120 sector", "Onondaga County / elevation 459 ft band"]
+zillowHomeValueUsd: 142706
 ---
 
 **Engineering Notice for Nedrow:** Cladding verification uses 101 mph routing baseline; lateral pressure note: 13.3 psf. Elevation: 459 ft AMSL. Coordinates: 42.9800, -76.1400. Grid: Onondaga County.

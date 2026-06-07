@@ -12,6 +12,7 @@ lng: -92.3700
 zipSample: ["55733"]
 zipCodes: ["55733"]
 localPaths: ["Carlton County / primary ZIP 55733", "Carlton County / elevation 1178 ft band", "Carlton County / ZIP 55733 sector", "Carlton County / coords 46.7100, -92.3700"]
+zillowHomeValueUsd: 387729
 ---
 
 **Engineering Notice for Esko:** structural drying capacity optimized for 1178ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Carlton County. Relative Humidity Threshold: 65%. Sensor sync: Active.

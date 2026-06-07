@@ -12,6 +12,7 @@ lng: -94.6800
 zipSample: ["50058"]
 zipCodes: ["50058"]
 localPaths: ["Carroll County / primary ZIP 50058", "Carroll County / coords 41.8700, -94.6800", "Carroll County / ZIP 50058 sector", "Carroll County / elevation 1191 ft band"]
+zillowHomeValueUsd: 173911
 ---
 
 **Engineering Notice for Coon Rapids:** structural drying capacity optimized for 1191ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Carroll County. Relative Humidity Threshold: 75%. Sensor sync: Active.

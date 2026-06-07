@@ -12,6 +12,7 @@ lng: -85.0000
 zipSample: ["48893"]
 zipCodes: ["48893"]
 localPaths: ["Isabella County / elevation 889 ft band", "Isabella County / primary ZIP 48893", "Isabella County / coords 43.6400, -85.0000", "Isabella County / ZIP 48893 sector"]
+zillowHomeValueUsd: 222139
 ---
 
 **Engineering Notice for Lake Isabella:** structural drying capacity optimized for 889ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Isabella County. Relative Humidity Threshold: 74%. Sensor sync: Active.

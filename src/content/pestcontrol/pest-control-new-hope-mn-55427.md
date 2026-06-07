@@ -11,6 +11,7 @@ lng: -93.3900
 zipSample: ["55428", "55427"]
 zipCodes: ["55427", "55428"]
 localPaths: ["Hennepin County / ZIP 55427 sector", "Hennepin County / primary ZIP 55427", "Hennepin County / coords 45.0400, -93.3900", "Hennepin County / ZIP 55428 sector", "Hennepin County / elevation 922 ft band"]
+zillowHomeValueUsd: 367343
 ---
 
 **Engineering Notice for New Hope:** Structural loading calculated based on 922 ft terrain assessment. Regional dispatch grid: Hennepin County.

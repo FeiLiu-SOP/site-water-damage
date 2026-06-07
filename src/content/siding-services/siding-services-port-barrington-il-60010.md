@@ -12,6 +12,7 @@ lng: -88.1900
 zipSample: ["60010"]
 zipCodes: ["60010"]
 localPaths: ["Lake County / coords 42.2400, -88.1900", "Lake County / ZIP 60010 sector", "Lake County / elevation 745 ft band", "Lake County / primary ZIP 60010"]
+zillowHomeValueUsd: 700877
 ---
 
 **Engineering Notice for Port Barrington:** Structural integrity verification: Cladding Retrofit calibrated for 101 mph localized wind load factor. Elevation: 745 ft AMSL. Regional dispatch grid: Lake County.

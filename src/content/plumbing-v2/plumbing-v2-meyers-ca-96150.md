@@ -12,6 +12,7 @@ lng: -120.0200
 zipSample: ["96150"]
 zipCodes: ["96150"]
 localPaths: ["El Dorado County / elevation 6411 ft band", "El Dorado County / primary ZIP 96150", "El Dorado County / ZIP 96150 sector", "El Dorado County / coords 38.8300, -120.0200"]
+zillowHomeValueUsd: 663243
 ---
 
 **Engineering Notice for Meyers:** System optimized for 124 mg/L hard water scaling factors in Meyers. Regional dispatch grid: El Dorado County.

@@ -11,6 +11,7 @@ lng: -121.7200
 zipSample: ["94513"]
 zipCodes: ["94513"]
 localPaths: ["Contra Costa County / coords 37.9400, -121.7200", "Contra Costa County / elevation 85 ft band", "Contra Costa County / primary ZIP 94513", "Contra Costa County / ZIP 94513 sector"]
+zillowHomeValueUsd: 805392
 ---
 
 **Engineering Notice for Brentwood:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Contra Costa County.

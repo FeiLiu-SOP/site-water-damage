@@ -11,6 +11,7 @@ lng: -80.1500
 zipSample: ["33335", "33309", "33310", "33334", "33306"]
 zipCodes: ["33309", "33335", "33334", "33306", "33310"]
 localPaths: ["Broward County / ZIP 33306 sector", "Broward County / elevation 23 ft band", "Broward County / ZIP 33309 sector", "Broward County / ZIP 33335 sector", "Broward County / ZIP 33334 sector"]
+zillowHomeValueUsd: 583698
 ---
 
 **Engineering Notice for Oakland Park:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Broward County.

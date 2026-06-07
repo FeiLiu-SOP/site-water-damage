@@ -12,6 +12,7 @@ lng: -74.5000
 zipSample: ["07866"]
 zipCodes: ["07866"]
 localPaths: ["Morris County / ZIP 07866 sector", "Morris County / elevation 722 ft band", "Morris County / coords 40.9600, -74.5000", "Morris County / primary ZIP 07866"]
+zillowHomeValueUsd: 563534
 ---
 
 **Engineering Notice for Lake Telemark:** Envelope check: Vinyl Panels assigned to wind-load band A with stress factor 0.95. Regional dispatch grid: Morris County.

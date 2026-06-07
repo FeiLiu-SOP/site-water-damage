@@ -12,6 +12,7 @@ lng: -85.9600
 zipSample: ["37030"]
 zipCodes: ["37030"]
 localPaths: ["Smith County / ZIP 37030 sector", "Smith County / elevation 597 ft band", "Smith County / primary ZIP 37030", "Smith County / coords 36.2400, -85.9600"]
+zillowHomeValueUsd: 274840
 ---
 
 **Engineering Notice for South Carthage:** Cladding Retrofit was validated under stress factor 1.08; target tolerance set near 96 mph. Coordinates: 36.2400, -85.9600. Grid anchor: Smith County.

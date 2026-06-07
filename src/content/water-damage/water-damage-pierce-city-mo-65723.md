@@ -12,6 +12,7 @@ lng: -94.0000
 zipSample: ["65723"]
 zipCodes: ["65723"]
 localPaths: ["Lawrence County / primary ZIP 65723", "Lawrence County / elevation 1220 ft band", "Lawrence County / coords 36.9500, -94.0000", "Lawrence County / ZIP 65723 sector"]
+zillowHomeValueUsd: 207259
 ---
 
 **Engineering Notice for Pierce City:** structural drying capacity optimized for 1220ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lawrence County. Relative Humidity Threshold: 65%. Sensor sync: Active.

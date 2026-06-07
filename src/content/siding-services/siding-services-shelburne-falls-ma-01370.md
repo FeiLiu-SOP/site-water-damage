@@ -12,6 +12,7 @@ lng: -72.7400
 zipSample: ["01370"]
 zipCodes: ["01370"]
 localPaths: ["Franklin County / primary ZIP 01370", "Franklin County / ZIP 01370 sector", "Franklin County / elevation 558 ft band", "Franklin County / coords 42.6100, -72.7400"]
+zillowHomeValueUsd: 410846
 ---
 
 **Engineering Notice for Shelburne Falls:** Structural integrity verification: Weather Barrier Wrap calibrated for 91 mph localized wind load factor. Regional dispatch grid: Franklin County.

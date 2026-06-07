@@ -12,6 +12,7 @@ lng: -81.3700
 zipSample: ["33852", "33862"]
 zipCodes: ["33862", "33852"]
 localPaths: ["Highlands County / coords 27.3000, -81.3700", "Highlands County / elevation 108 ft band", "Highlands County / ZIP 33862 sector", "Highlands County / ZIP 33852 sector", "Highlands County / primary ZIP 33852"]
+zillowHomeValueUsd: 238441
 ---
 
 **Engineering Notice for Lake Placid:** structural drying capacity optimized for 108ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Highlands County. Relative Humidity Threshold: 85%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -89.6600
 zipSample: ["62288"]
 zipCodes: ["62288"]
 localPaths: ["Randolph County / elevation 420 ft band", "Randolph County / ZIP 62288 sector", "Randolph County / primary ZIP 62288", "Randolph County / coords 38.0100, -89.6600"]
+zillowHomeValueUsd: 166335
 ---
 
 **Engineering Notice for Steeleville:** System optimized for 130 mg/L hard water scaling factors in Steeleville. Regional dispatch grid: Randolph County.

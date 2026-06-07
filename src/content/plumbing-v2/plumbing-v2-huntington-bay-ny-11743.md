@@ -12,6 +12,7 @@ lng: -73.4200
 zipSample: ["11743"]
 zipCodes: ["11743"]
 localPaths: ["Suffolk County / coords 40.9000, -73.4200", "Suffolk County / primary ZIP 11743", "Suffolk County / elevation 43 ft band", "Suffolk County / ZIP 11743 sector"]
+zillowHomeValueUsd: 902361
 ---
 
 **Engineering Notice for Huntington Bay:** System optimized for 152 mg/L hard water scaling factors in Huntington Bay. Regional dispatch grid: Suffolk County.

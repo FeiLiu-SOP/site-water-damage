@@ -12,6 +12,7 @@ lng: -75.8500
 zipSample: ["19320"]
 zipCodes: ["19320"]
 localPaths: ["Chester County / primary ZIP 19320", "Chester County / coords 39.9900, -75.8500", "Chester County / ZIP 19320 sector", "Chester County / elevation 600 ft band"]
+zillowHomeValueUsd: 382351
 ---
 
 **Engineering Notice for Hayti:** Panel Replacement was validated under stress factor 1.24; target tolerance set near 95 mph. Grid anchor: Chester County.

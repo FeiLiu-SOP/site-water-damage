@@ -11,6 +11,7 @@ lng: -96.0700
 zipSample: ["68046", "68133", "68138", "68128"]
 zipCodes: ["68128", "68046", "68138", "68133"]
 localPaths: ["Sarpy County / primary ZIP 68046", "Sarpy County / elevation 1047 ft band", "Sarpy County / ZIP 68138 sector", "Sarpy County / coords 41.1500, -96.0700", "Sarpy County / ZIP 68133 sector"]
+zillowHomeValueUsd: 409116
 ---
 
 **Engineering Notice for Papillion:** Structural loading calculated based on 1047 ft terrain assessment. Regional dispatch grid: Sarpy County.

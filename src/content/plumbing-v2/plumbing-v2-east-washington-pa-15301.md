@@ -12,6 +12,7 @@ lng: -80.2300
 zipSample: ["15301"]
 zipCodes: ["15301"]
 localPaths: ["Washington County / coords 40.1700, -80.2300", "Washington County / elevation 1155 ft band", "Washington County / primary ZIP 15301", "Washington County / ZIP 15301 sector"]
+zillowHomeValueUsd: 233759
 ---
 
 **Engineering Notice for East Washington:** System optimized for 143 mg/L hard water scaling factors in East Washington. Regional dispatch grid: Washington County.

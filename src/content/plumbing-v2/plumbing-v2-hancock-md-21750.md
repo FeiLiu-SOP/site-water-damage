@@ -12,6 +12,7 @@ lng: -78.1700
 zipSample: ["21750"]
 zipCodes: ["21750"]
 localPaths: ["Washington County / coords 39.7100, -78.1700", "Washington County / elevation 591 ft band", "Washington County / ZIP 21750 sector", "Washington County / primary ZIP 21750"]
+zillowHomeValueUsd: 255460
 ---
 
 **Engineering Notice for Hancock:** System optimized for 134 mg/L hard water scaling factors in Hancock. Regional dispatch grid: Washington County.

@@ -12,6 +12,7 @@ lng: -120.4100
 zipSample: ["95370", "95310"]
 zipCodes: ["95310", "95370"]
 localPaths: ["Tuolumne County / primary ZIP 95310", "Tuolumne County / ZIP 95370 sector", "Tuolumne County / coords 38.0300, -120.4100", "Tuolumne County / elevation 2136 ft band", "Tuolumne County / ZIP 95310 sector"]
+zillowHomeValueUsd: 389277
 ---
 
 **Engineering Notice for Columbia:** Exterior Envelope was validated under stress factor 1.14; target tolerance set near 138 mph. Grid anchor: Tuolumne County.

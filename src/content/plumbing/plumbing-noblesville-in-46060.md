@@ -12,6 +12,7 @@ lng: -86.0000
 zipSample: ["46061", "46060", "46062"]
 zipCodes: ["46061", "46060", "46062"]
 localPaths: ["Hamilton County / ZIP 46061 sector", "Hamilton County / ZIP 46062 sector", "Hamilton County / primary ZIP 46060", "Hamilton County / elevation 781 ft band", "Hamilton County / coords 40.0400, -86.0000"]
+zillowHomeValueUsd: 354791
 ---
 
 **Engineering Notice for Noblesville:** Structural loading calculated based on 781 ft terrain assessment. Regional dispatch grid: Hamilton County.

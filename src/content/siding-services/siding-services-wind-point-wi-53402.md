@@ -12,6 +12,7 @@ lng: -87.7700
 zipSample: ["53402"]
 zipCodes: ["53402"]
 localPaths: ["Racine County / coords 42.7800, -87.7700", "Racine County / elevation 617 ft band", "Racine County / primary ZIP 53402", "Racine County / ZIP 53402 sector"]
+zillowHomeValueUsd: 294605
 ---
 
 **Engineering Notice for Wind Point:** Cladding verification uses 91 mph routing baseline; lateral pressure note: 12.1 psf. Coordinates: 42.7800, -87.7700. Grid: Racine County.

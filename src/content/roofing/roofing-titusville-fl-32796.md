@@ -11,6 +11,7 @@ lng: -80.8200
 zipSample: ["32781", "32780", "32796"]
 zipCodes: ["32781", "32796", "32780"]
 localPaths: ["Brevard County / coords 28.5700, -80.8200", "Brevard County / ZIP 32780 sector", "Brevard County / elevation 33 ft band", "Brevard County / ZIP 32796 sector", "Brevard County / primary ZIP 32796"]
+zillowHomeValueUsd: 270785
 ---
 
 **Engineering Notice for Titusville:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Brevard County.

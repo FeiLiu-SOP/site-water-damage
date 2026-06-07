@@ -12,6 +12,7 @@ lng: -92.1700
 zipSample: ["63555"]
 zipCodes: ["63555"]
 localPaths: ["Scotland County / elevation 781 ft band", "Scotland County / primary ZIP 63555", "Scotland County / ZIP 63555 sector", "Scotland County / coords 40.4600, -92.1700"]
+zillowHomeValueUsd: 118561
 ---
 
 **Engineering Notice for Memphis:** System optimized for 152 mg/L hard water scaling factors in Memphis. Regional dispatch grid: Scotland County.

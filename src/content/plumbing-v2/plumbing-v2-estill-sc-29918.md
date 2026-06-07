@@ -12,6 +12,7 @@ lng: -81.2400
 zipSample: ["29918"]
 zipCodes: ["29918"]
 localPaths: ["Hampton County / elevation 121 ft band", "Hampton County / coords 32.7500, -81.2400", "Hampton County / ZIP 29918 sector", "Hampton County / primary ZIP 29918"]
+zillowHomeValueUsd: 115476
 ---
 
 **Engineering Notice for Estill:** System optimized for 128 mg/L hard water scaling factors in Estill. Regional dispatch grid: Hampton County.

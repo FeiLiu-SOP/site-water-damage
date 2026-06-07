@@ -11,6 +11,7 @@ lng: -96.2900
 zipSample: ["75160", "75161"]
 zipCodes: ["75161", "75160"]
 localPaths: ["Kaufman County / primary ZIP 75160", "Kaufman County / coords 32.7300, -96.2900", "Kaufman County / ZIP 75161 sector", "Kaufman County / ZIP 75160 sector", "Kaufman County / elevation 528 ft band"]
+zillowHomeValueUsd: 261906
 ---
 
 **Engineering Notice for Terrell:** Structural loading calculated based on 528 ft terrain assessment. Regional dispatch grid: Kaufman County.

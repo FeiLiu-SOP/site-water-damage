@@ -11,6 +11,7 @@ lng: -84.1500
 zipSample: ["30253", "30252"]
 zipCodes: ["30252", "30253"]
 localPaths: ["Henry County / ZIP 30252 sector", "Henry County / primary ZIP 30253", "Henry County / elevation 889 ft band", "Henry County / ZIP 30253 sector", "Henry County / coords 33.4400, -84.1500"]
+zillowHomeValueUsd: 311562
 ---
 
 **Engineering Notice for McDonough:** Structural loading calculated based on 889 ft terrain assessment. Regional dispatch grid: Henry County.

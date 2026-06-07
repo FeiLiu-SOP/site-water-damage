@@ -12,6 +12,7 @@ lng: -93.0600
 zipSample: ["65349"]
 zipCodes: ["65349"]
 localPaths: ["Saline County / coords 39.2200, -93.0600", "Saline County / primary ZIP 65349", "Saline County / elevation 860 ft band", "Saline County / ZIP 65349 sector"]
+zillowHomeValueUsd: 132209
 ---
 
 **Engineering Notice for Slater:** System optimized for 134 mg/L hard water scaling factors in Slater. Regional dispatch grid: Saline County.

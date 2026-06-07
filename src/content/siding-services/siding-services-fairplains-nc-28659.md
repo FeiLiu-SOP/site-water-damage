@@ -12,6 +12,7 @@ lng: -81.1600
 zipSample: ["28659"]
 zipCodes: ["28659"]
 localPaths: ["Wilkes County / primary ZIP 28659", "Wilkes County / elevation 1263 ft band", "Wilkes County / ZIP 28659 sector", "Wilkes County / coords 36.2000, -81.1600"]
+zillowHomeValueUsd: 209867
 ---
 
 **Engineering Notice for Fairplains:** Cladding Retrofit was validated under stress factor 1.08; target tolerance set near 110 mph. Grid anchor: Wilkes County.

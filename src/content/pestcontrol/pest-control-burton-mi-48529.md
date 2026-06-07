@@ -11,6 +11,7 @@ lng: -83.6200
 zipSample: ["48529", "48519", "48509"]
 zipCodes: ["48529", "48519", "48509"]
 localPaths: ["Genesee County / elevation 781 ft band", "Genesee County / coords 43.0000, -83.6200", "Genesee County / ZIP 48509 sector", "Genesee County / primary ZIP 48529", "Genesee County / ZIP 48519 sector"]
+zillowHomeValueUsd: 91215
 ---
 
 **Engineering Notice for Burton:** Structural loading calculated based on 781 ft terrain assessment. Regional dispatch grid: Genesee County.

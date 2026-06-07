@@ -11,6 +11,7 @@ lng: -82.4600
 zipSample: ["34232", "34240"]
 zipCodes: ["34232", "34240"]
 localPaths: ["Sarasota County / elevation 46 ft band", "Sarasota County / primary ZIP 34232", "Sarasota County / ZIP 34240 sector", "Sarasota County / ZIP 34232 sector", "Sarasota County / coords 27.3300, -82.4600"]
+zillowHomeValueUsd: 355912
 ---
 
 **Engineering Notice for Fruitville:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Sarasota County.

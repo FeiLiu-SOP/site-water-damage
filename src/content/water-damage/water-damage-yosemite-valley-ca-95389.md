@@ -12,6 +12,7 @@ lng: -119.5800
 zipSample: ["95389"]
 zipCodes: ["95389"]
 localPaths: ["Mariposa County / elevation 4029 ft band", "Mariposa County / primary ZIP 95389", "Mariposa County / coords 37.7400, -119.5800", "Mariposa County / ZIP 95389 sector"]
+zillowHomeValueUsd: 657410
 ---
 
 **Engineering Notice for Yosemite Valley:** structural drying capacity optimized for 4029ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mariposa County. Relative Humidity Threshold: 74%. Sensor sync: Active.

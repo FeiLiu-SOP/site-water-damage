@@ -11,6 +11,7 @@ lng: -90.9600
 zipSample: ["70769"]
 zipCodes: ["70769"]
 localPaths: ["Ascension Parish / primary ZIP 70769", "Ascension Parish / elevation 30 ft band", "Ascension Parish / ZIP 70769 sector", "Ascension Parish / coords 30.3200, -90.9600"]
+zillowHomeValueUsd: 338575
 ---
 
 **Engineering Notice for Prairieville:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Ascension Parish.

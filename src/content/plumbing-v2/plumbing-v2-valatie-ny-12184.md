@@ -12,6 +12,7 @@ lng: -73.6800
 zipSample: ["12184"]
 zipCodes: ["12184"]
 localPaths: ["Columbia County / primary ZIP 12184", "Columbia County / ZIP 12184 sector", "Columbia County / coords 42.4100, -73.6800", "Columbia County / elevation 246 ft band"]
+zillowHomeValueUsd: 435152
 ---
 
 **Engineering Notice for Valatie:** System optimized for 148 mg/L hard water scaling factors in Valatie. Regional dispatch grid: Columbia County.

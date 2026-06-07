@@ -11,6 +11,7 @@ lng: -88.1500
 zipSample: ["60435", "60434", "60421", "60436", "60432"]
 zipCodes: ["60421", "60431", "60586", "60433", "60436", "60435", "60432", "60434"]
 localPaths: ["Will County / ZIP 60432 sector", "Will County / ZIP 60435 sector", "Will County / elevation 614 ft band", "Will County / coords 41.5200, -88.1500", "Will County / ZIP 60436 sector"]
+zillowHomeValueUsd: 311144
 ---
 
 **Engineering Notice for Joliet:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Will County.

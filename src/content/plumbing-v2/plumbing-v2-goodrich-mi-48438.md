@@ -12,6 +12,7 @@ lng: -83.5100
 zipSample: ["48438"]
 zipCodes: ["48438"]
 localPaths: ["Genesee County / coords 42.9100, -83.5100", "Genesee County / ZIP 48438 sector", "Genesee County / elevation 873 ft band", "Genesee County / primary ZIP 48438"]
+zillowHomeValueUsd: 366223
 ---
 
 **Engineering Notice for Goodrich:** System optimized for 129 mg/L hard water scaling factors in Goodrich. Regional dispatch grid: Genesee County.

@@ -12,6 +12,7 @@ lng: -81.9000
 zipSample: ["44217"]
 zipCodes: ["44217"]
 localPaths: ["Wayne County / elevation 997 ft band", "Wayne County / ZIP 44217 sector", "Wayne County / primary ZIP 44217", "Wayne County / coords 40.9800, -81.9000"]
+zillowHomeValueUsd: 250534
 ---
 
 **Engineering Notice for Creston:** structural drying capacity optimized for 997ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wayne County. Relative Humidity Threshold: 84%. Sensor sync: Active.

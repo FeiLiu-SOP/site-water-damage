@@ -12,6 +12,7 @@ lng: -95.7100
 zipSample: ["74053"]
 zipCodes: ["74053"]
 localPaths: ["Rogers County / coords 36.4400, -95.7100", "Rogers County / elevation 653 ft band", "Rogers County / ZIP 74053 sector", "Rogers County / primary ZIP 74053"]
+zillowHomeValueUsd: 293831
 ---
 
 **Engineering Notice for Oologah:** System optimized for 150 mg/L hard water scaling factors in Oologah. Regional dispatch grid: Rogers County.

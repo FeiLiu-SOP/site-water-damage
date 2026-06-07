@@ -12,6 +12,7 @@ lng: -90.5900
 zipSample: ["54456"]
 zipCodes: ["54456"]
 localPaths: ["Clark County / primary ZIP 54456", "Clark County / ZIP 54456 sector", "Clark County / coords 44.5600, -90.5900", "Clark County / elevation 1050 ft band"]
+zillowHomeValueUsd: 210692
 ---
 
 **Engineering Notice for Neillsville:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Grid: Clark County.

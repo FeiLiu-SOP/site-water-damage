@@ -12,6 +12,7 @@ lng: -114.7100
 zipSample: ["85349", "85350", "85336"]
 zipCodes: ["85349", "85336", "85350"]
 localPaths: ["Yuma County / coords 32.4900, -114.7100", "Yuma County / elevation 151 ft band", "Yuma County / ZIP 85336 sector", "Yuma County / primary ZIP 85336", "Yuma County / ZIP 85349 sector"]
+zillowHomeValueUsd: 250734
 ---
 
 **Engineering Notice for San Luis:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: Yuma County.

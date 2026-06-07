@@ -12,6 +12,7 @@ lng: -111.4100
 zipSample: ["84017"]
 zipCodes: ["84017"]
 localPaths: ["Summit County / primary ZIP 84017", "Summit County / elevation 5863 ft band", "Summit County / coords 40.9100, -111.4100", "Summit County / ZIP 84017 sector"]
+zillowHomeValueUsd: 706034
 ---
 
 **Engineering Notice for Coalville:** System optimized for 170 mg/L hard water scaling factors in Coalville. Regional dispatch grid: Summit County.

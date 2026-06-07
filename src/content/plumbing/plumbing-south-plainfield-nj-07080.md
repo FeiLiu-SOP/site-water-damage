@@ -12,6 +12,7 @@ lng: -74.4200
 zipSample: ["07080"]
 zipCodes: ["07080"]
 localPaths: ["Middlesex County / elevation 89 ft band", "Middlesex County / coords 40.5700, -74.4200", "Middlesex County / ZIP 07080 sector", "Middlesex County / primary ZIP 07080"]
+zillowHomeValueUsd: 583452
 ---
 
 **Engineering Notice for South Plainfield:** Structural loading calculated based on 89 ft terrain assessment. Regional dispatch grid: Middlesex County.

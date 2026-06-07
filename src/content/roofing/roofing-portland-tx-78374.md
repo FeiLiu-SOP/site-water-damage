@@ -11,6 +11,7 @@ lng: -97.3300
 zipSample: ["78374", "78390"]
 zipCodes: ["78390", "78374"]
 localPaths: ["San Patricio County / primary ZIP 78374", "San Patricio County / ZIP 78374 sector", "San Patricio County / elevation 52 ft band", "San Patricio County / coords 27.8900, -97.3300", "San Patricio County / ZIP 78390 sector"]
+zillowHomeValueUsd: 267427
 ---
 
 **Engineering Notice for Portland:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: San Patricio County.

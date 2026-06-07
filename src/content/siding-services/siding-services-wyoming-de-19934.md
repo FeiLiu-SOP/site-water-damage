@@ -12,6 +12,7 @@ lng: -75.5600
 zipSample: ["19934"]
 zipCodes: ["19934"]
 localPaths: ["Kent County / coords 39.1100, -75.5600", "Kent County / ZIP 19934 sector", "Kent County / primary ZIP 19934", "Kent County / elevation 49 ft band"]
+zillowHomeValueUsd: 378495
 ---
 
 **Engineering Notice for Wyoming:** Structural integrity verification: Exterior Cladding calibrated for 94 mph localized wind load factor. Elevation: 49 ft AMSL. Regional dispatch grid: Kent County.

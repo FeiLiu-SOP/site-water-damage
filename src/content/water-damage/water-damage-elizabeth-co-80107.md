@@ -12,6 +12,7 @@ lng: -104.6200
 zipSample: ["80107"]
 zipCodes: ["80107"]
 localPaths: ["Elbert County / coords 39.3600, -104.6200", "Elbert County / primary ZIP 80107", "Elbert County / elevation 6545 ft band", "Elbert County / ZIP 80107 sector"]
+zillowHomeValueUsd: 665951
 ---
 
 **Engineering Notice for Elizabeth:** structural drying capacity optimized for 6545ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Elbert County. Relative Humidity Threshold: 70%. Sensor sync: Active.

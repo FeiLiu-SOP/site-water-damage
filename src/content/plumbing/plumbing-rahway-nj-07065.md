@@ -12,6 +12,7 @@ lng: -74.2800
 zipSample: ["07065"]
 zipCodes: ["07065"]
 localPaths: ["Union County / ZIP 07065 sector", "Union County / coords 40.6100, -74.2800", "Union County / elevation 36 ft band", "Union County / primary ZIP 07065"]
+zillowHomeValueUsd: 529883
 ---
 
 **Engineering Notice for Rahway:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Union County.

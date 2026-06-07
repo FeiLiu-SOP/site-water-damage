@@ -12,6 +12,7 @@ lng: -99.8600
 zipSample: ["69210"]
 zipCodes: ["69210"]
 localPaths: ["Brown County / coords 42.5500, -99.8600", "Brown County / ZIP 69210 sector", "Brown County / elevation 2530 ft band", "Brown County / primary ZIP 69210"]
+zillowHomeValueUsd: 139584
 ---
 
 **Engineering Notice for Ainsworth:** Cladding verification uses 90 mph routing baseline; lateral pressure note: 12.0 psf. Elevation: 2530 ft AMSL. Grid: Brown County.

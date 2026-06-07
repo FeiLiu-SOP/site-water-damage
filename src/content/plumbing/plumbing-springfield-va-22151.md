@@ -12,6 +12,7 @@ lng: -77.1800
 zipSample: ["22159", "22150", "22156", "22313", "22161"]
 zipCodes: ["22150", "22161", "22159", "22156", "22313", "22151"]
 localPaths: ["Fairfax County / elevation 256 ft band", "Fairfax County / coords 38.7800, -77.1800", "Fairfax County / ZIP 22313 sector", "Fairfax County / ZIP 22156 sector", "Fairfax County / ZIP 22150 sector"]
+zillowHomeValueUsd: 718985
 ---
 
 **Engineering Notice for Springfield:** Structural loading calculated based on 256 ft terrain assessment. Regional dispatch grid: Fairfax County.

@@ -12,6 +12,7 @@ lng: -76.4800
 zipSample: ["17038"]
 zipCodes: ["17038"]
 localPaths: ["Lebanon County / coords 40.4100, -76.4800", "Lebanon County / elevation 476 ft band", "Lebanon County / primary ZIP 17038", "Lebanon County / ZIP 17038 sector"]
+zillowHomeValueUsd: 320172
 ---
 
 **Engineering Notice for Jonestown:** System optimized for 146 mg/L hard water scaling factors in Jonestown. Regional dispatch grid: Lebanon County.

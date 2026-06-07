@@ -12,6 +12,7 @@ lng: -81.2400
 zipSample: ["28651"]
 zipCodes: ["28651"]
 localPaths: ["Wilkes County / primary ZIP 28651", "Wilkes County / elevation 1385 ft band", "Wilkes County / ZIP 28651 sector", "Wilkes County / coords 36.1900, -81.2400"]
+zillowHomeValueUsd: 230073
 ---
 
 **Engineering Notice for Millers Creek:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Elevation: 1385 ft AMSL. Coordinates: 36.1900, -81.2400. Grid: Wilkes County.

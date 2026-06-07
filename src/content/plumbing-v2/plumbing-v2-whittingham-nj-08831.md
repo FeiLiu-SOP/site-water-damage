@@ -12,6 +12,7 @@ lng: -74.4500
 zipSample: ["08831"]
 zipCodes: ["08831"]
 localPaths: ["Middlesex County / primary ZIP 08831", "Middlesex County / coords 40.3300, -74.4500", "Middlesex County / elevation 174 ft band", "Middlesex County / ZIP 08831 sector"]
+zillowHomeValueUsd: 602348
 ---
 
 **Engineering Notice for Whittingham:** System optimized for 129 mg/L hard water scaling factors in Whittingham. Regional dispatch grid: Middlesex County.

@@ -11,6 +11,7 @@ lng: -89.0300
 zipSample: ["61115"]
 zipCodes: ["61115"]
 localPaths: ["Winnebago County / primary ZIP 61115", "Winnebago County / elevation 735 ft band", "Winnebago County / coords 42.3700, -89.0300", "Winnebago County / ZIP 61115 sector"]
+zillowHomeValueUsd: 201383
 ---
 
 **Engineering Notice for Machesney Park:** Structural loading calculated based on 735 ft terrain assessment. Regional dispatch grid: Winnebago County.

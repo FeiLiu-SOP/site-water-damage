@@ -12,6 +12,7 @@ lng: -90.9000
 zipSample: ["54891"]
 zipCodes: ["54891"]
 localPaths: ["Bayfield County / ZIP 54891 sector", "Bayfield County / primary ZIP 54891", "Bayfield County / elevation 764 ft band", "Bayfield County / coords 46.6800, -90.9000"]
+zillowHomeValueUsd: 266952
 ---
 
 **Engineering Notice for Washburn:** structural drying capacity optimized for 764ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bayfield County. Relative Humidity Threshold: 83%. Sensor sync: Active.

@@ -11,6 +11,7 @@ lng: -104.7900
 zipSample: ["82009", "82003", "82007", "82001", "82002"]
 zipCodes: ["82001", "82003", "82007", "82009", "82002"]
 localPaths: ["Laramie County / coords 41.1300, -104.7900", "Laramie County / elevation 6083 ft band", "Laramie County / primary ZIP 82009", "Laramie County / ZIP 82003 sector", "Laramie County / ZIP 82001 sector"]
+zillowHomeValueUsd: 490974
 ---
 
 **Engineering Notice for Cheyenne:** Structural loading calculated based on 6083 ft terrain assessment. Regional dispatch grid: Laramie County.

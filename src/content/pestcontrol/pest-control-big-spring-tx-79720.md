@@ -11,6 +11,7 @@ lng: -101.4800
 zipSample: ["79721", "79720"]
 zipCodes: ["79720", "79721"]
 localPaths: ["Howard County / primary ZIP 79720", "Howard County / elevation 2536 ft band", "Howard County / ZIP 79720 sector", "Howard County / coords 32.2400, -101.4800", "Howard County / ZIP 79721 sector"]
+zillowHomeValueUsd: 140893
 ---
 
 **Engineering Notice for Big Spring:** Structural loading calculated based on 2536 ft terrain assessment. Regional dispatch grid: Howard County.

@@ -12,6 +12,7 @@ lng: -119.1500
 zipSample: ["93004"]
 zipCodes: ["93004"]
 localPaths: ["Ventura County / elevation 144 ft band", "Ventura County / coords 34.2800, -119.1500", "Ventura County / primary ZIP 93004", "Ventura County / ZIP 93004 sector"]
+zillowHomeValueUsd: 874626
 ---
 
 **Engineering Notice for Saticoy:** Vinyl Panels was validated under stress factor 0.74; target tolerance set near 138 mph. Grid anchor: Ventura County.

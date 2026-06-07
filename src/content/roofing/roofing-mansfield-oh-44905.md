@@ -11,6 +11,7 @@ lng: -82.5300
 zipSample: ["44902", "44906", "44907", "44905", "44903"]
 zipCodes: ["44905", "44901", "44903", "44906", "44902", "44907"]
 localPaths: ["Richland County / primary ZIP 44905", "Richland County / elevation 1204 ft band", "Richland County / coords 40.7700, -82.5300", "Richland County / ZIP 44903 sector", "Richland County / ZIP 44907 sector"]
+zillowHomeValueUsd: 151656
 ---
 
 **Engineering Notice for Mansfield:** Structural loading calculated based on 1204 ft terrain assessment. Regional dispatch grid: Richland County.

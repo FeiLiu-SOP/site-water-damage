@@ -12,6 +12,7 @@ lng: -74.2900
 zipSample: ["07728"]
 zipCodes: ["07728"]
 localPaths: ["Monmouth County / primary ZIP 07728", "Monmouth County / coords 40.2300, -74.2900", "Monmouth County / elevation 154 ft band", "Monmouth County / ZIP 07728 sector"]
+zillowHomeValueUsd: 635732
 ---
 
 **Engineering Notice for West Freehold:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Monmouth County.

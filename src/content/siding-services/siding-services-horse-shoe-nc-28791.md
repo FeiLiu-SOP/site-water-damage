@@ -12,6 +12,7 @@ lng: -82.5600
 zipSample: ["28791", "28739", "28742", "28759"]
 zipCodes: ["28791", "28739", "28742", "28759"]
 localPaths: ["Henderson County / ZIP 28742 sector", "Henderson County / elevation 2116 ft band", "Henderson County / ZIP 28759 sector", "Henderson County / ZIP 28739 sector", "Henderson County / primary ZIP 28791"]
+zillowHomeValueUsd: 418352
 ---
 
 **Engineering Notice for Horse Shoe:** Envelope check: Cladding Service assigned to wind-load band C with stress factor 0.76. Elevation: 2116 ft AMSL. Regional dispatch grid: Henderson County.

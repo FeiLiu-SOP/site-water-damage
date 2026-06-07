@@ -12,6 +12,7 @@ lng: -81.5400
 zipSample: ["25214", "25315"]
 zipCodes: ["25315", "25214"]
 localPaths: ["Kanawha County / elevation 610 ft band", "Kanawha County / primary ZIP 25214", "Kanawha County / coords 38.2200, -81.5400", "Kanawha County / ZIP 25315 sector", "Kanawha County / ZIP 25214 sector"]
+zillowHomeValueUsd: 90957
 ---
 
 **Engineering Notice for Chesapeake:** System optimized for 138 mg/L hard water scaling factors in Chesapeake. Regional dispatch grid: Kanawha County.

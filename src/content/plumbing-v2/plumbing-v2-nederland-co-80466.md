@@ -12,6 +12,7 @@ lng: -105.5100
 zipSample: ["80308", "80466"]
 zipCodes: ["80308", "80466"]
 localPaths: ["Boulder County / ZIP 80308 sector", "Boulder County / primary ZIP 80466", "Boulder County / coords 39.9600, -105.5100", "Boulder County / ZIP 80466 sector", "Boulder County / elevation 8238 ft band"]
+zillowHomeValueUsd: 677768
 ---
 
 **Engineering Notice for Nederland:** System optimized for 129 mg/L hard water scaling factors in Nederland. Regional dispatch grid: Boulder County.

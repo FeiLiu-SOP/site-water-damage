@@ -11,6 +11,7 @@ lng: -77.3600
 zipSample: ["22033", "22030", "22035"]
 zipCodes: ["22033", "22035", "22030"]
 localPaths: ["Fairfax County / coords 38.8700, -77.3600", "Fairfax County / elevation 420 ft band", "Fairfax County / ZIP 22035 sector", "Fairfax County / ZIP 22033 sector", "Fairfax County / ZIP 22030 sector"]
+zillowHomeValueUsd: 819627
 ---
 
 **Engineering Notice for Fair Oaks:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: Fairfax County.

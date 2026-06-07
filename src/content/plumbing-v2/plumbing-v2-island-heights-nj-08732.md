@@ -12,6 +12,7 @@ lng: -74.1500
 zipSample: ["08732"]
 zipCodes: ["08732"]
 localPaths: ["Ocean County / elevation 52 ft band", "Ocean County / ZIP 08732 sector", "Ocean County / primary ZIP 08732", "Ocean County / coords 39.9400, -74.1500"]
+zillowHomeValueUsd: 641044
 ---
 
 **Engineering Notice for Island Heights:** System optimized for 135 mg/L hard water scaling factors in Island Heights. Regional dispatch grid: Ocean County.

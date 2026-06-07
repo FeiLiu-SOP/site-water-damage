@@ -12,6 +12,7 @@ lng: -81.1200
 zipSample: ["43793"]
 zipCodes: ["43793"]
 localPaths: ["Monroe County / elevation 1201 ft band", "Monroe County / coords 39.7600, -81.1200", "Monroe County / primary ZIP 43793", "Monroe County / ZIP 43793 sector"]
+zillowHomeValueUsd: 139296
 ---
 
 **Engineering Notice for Woodsfield:** Cladding verification uses 95 mph routing baseline; lateral pressure note: 12.6 psf. Coordinates: 39.7600, -81.1200. Grid: Monroe County.

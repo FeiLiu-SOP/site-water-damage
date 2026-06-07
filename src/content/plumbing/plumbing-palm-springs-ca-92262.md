@@ -12,6 +12,7 @@ lng: -116.5400
 zipSample: ["92264", "92258", "92262", "92263", "92282"]
 zipCodes: ["92282", "92264", "92262", "92263", "92258"]
 localPaths: ["Riverside County / coords 33.8000, -116.5400", "Riverside County / ZIP 92263 sector", "Riverside County / ZIP 92262 sector", "Riverside County / primary ZIP 92262", "Riverside County / ZIP 92264 sector"]
+zillowHomeValueUsd: 645762
 ---
 
 **Engineering Notice for Palm Springs:** Structural loading calculated based on 430 ft terrain assessment. Regional dispatch grid: Riverside County.

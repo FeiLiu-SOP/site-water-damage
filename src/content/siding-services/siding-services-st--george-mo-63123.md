@@ -12,6 +12,7 @@ lng: -90.3100
 zipSample: ["63123"]
 zipCodes: ["63123"]
 localPaths: ["St. Louis County / coords 38.5400, -90.3100", "St. Louis County / primary ZIP 63123", "St. Louis County / ZIP 63123 sector", "St. Louis County / elevation 518 ft band"]
+zillowHomeValueUsd: 243710
 ---
 
 **Engineering Notice for St. George:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Coordinates: 38.5400, -90.3100. Grid: St. Louis County.

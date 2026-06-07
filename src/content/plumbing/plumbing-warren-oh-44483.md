@@ -12,6 +12,7 @@ lng: -80.8200
 zipSample: ["44483", "44484", "44485"]
 zipCodes: ["44483", "44484", "44485"]
 localPaths: ["Trumbull County / coords 41.2400, -80.8200", "Trumbull County / primary ZIP 44483", "Trumbull County / ZIP 44484 sector", "Trumbull County / ZIP 44485 sector", "Trumbull County / elevation 896 ft band"]
+zillowHomeValueUsd: 133501
 ---
 
 **Engineering Notice for Warren:** Structural loading calculated based on 896 ft terrain assessment. Regional dispatch grid: Trumbull County.

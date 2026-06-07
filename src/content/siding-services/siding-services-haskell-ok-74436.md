@@ -12,6 +12,7 @@ lng: -95.6800
 zipSample: ["74436"]
 zipCodes: ["74436"]
 localPaths: ["Muskogee County / ZIP 74436 sector", "Muskogee County / primary ZIP 74436", "Muskogee County / elevation 604 ft band", "Muskogee County / coords 35.8200, -95.6800"]
+zillowHomeValueUsd: 206665
 ---
 
 **Engineering Notice for Haskell:** Structural integrity verification: Weather Barrier Wrap calibrated for 92 mph localized wind load factor. Elevation: 604 ft AMSL. Regional dispatch grid: Muskogee County.

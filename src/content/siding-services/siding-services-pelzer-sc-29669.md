@@ -12,6 +12,7 @@ lng: -82.4600
 zipSample: ["29669"]
 zipCodes: ["29669"]
 localPaths: ["Anderson County / primary ZIP 29669", "Anderson County / coords 34.6400, -82.4600", "Anderson County / elevation 794 ft band", "Anderson County / ZIP 29669 sector"]
+zillowHomeValueUsd: 269254
 ---
 
 **Engineering Notice for Pelzer:** Site context locked to Anderson County. Elevation: 794 ft AMSL. Coordinates: 34.6400, -82.4600. Exterior Envelope integrity verification recorded.

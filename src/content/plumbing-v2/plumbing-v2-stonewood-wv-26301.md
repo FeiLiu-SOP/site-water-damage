@@ -12,6 +12,7 @@ lng: -80.3100
 zipSample: ["26301"]
 zipCodes: ["26301"]
 localPaths: ["Harrison County / primary ZIP 26301", "Harrison County / coords 39.2500, -80.3100", "Harrison County / ZIP 26301 sector", "Harrison County / elevation 1211 ft band"]
+zillowHomeValueUsd: 116906
 ---
 
 **Engineering Notice for Stonewood:** System optimized for 163 mg/L hard water scaling factors in Stonewood. Regional dispatch grid: Harrison County.

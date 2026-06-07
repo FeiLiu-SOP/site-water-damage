@@ -12,6 +12,7 @@ lng: -82.4700
 zipSample: ["43050"]
 zipCodes: ["43050"]
 localPaths: ["Knox County / primary ZIP 43050", "Knox County / coords 40.3900, -82.4700", "Knox County / ZIP 43050 sector", "Knox County / elevation 978 ft band"]
+zillowHomeValueUsd: 244535
 ---
 
 **Engineering Notice for Mount Vernon:** Structural loading calculated based on 978 ft terrain assessment. Regional dispatch grid: Knox County.

@@ -11,6 +11,7 @@ lng: -93.2700
 zipSample: ["55403", "55408", "55411", "55409", "55405"]
 zipCodes: ["55416", "55405", "55418", "55480", "55474", "55404", "55454", "55484", "55440", "55455", "55411", "55459"]
 localPaths: ["Hennepin County / coords 44.9600, -93.2700", "Hennepin County / ZIP 55405 sector", "Hennepin County / elevation 863 ft band", "Hennepin County / ZIP 55408 sector", "Hennepin County / ZIP 55403 sector"]
+zillowHomeValueUsd: 239924
 ---
 
 **Engineering Notice for Minneapolis:** Structural loading calculated based on 863 ft terrain assessment. Regional dispatch grid: Hennepin County.

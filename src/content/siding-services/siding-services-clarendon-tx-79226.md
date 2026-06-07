@@ -12,6 +12,7 @@ lng: -100.8900
 zipSample: ["79226"]
 zipCodes: ["79226"]
 localPaths: ["Donley County / ZIP 79226 sector", "Donley County / elevation 2749 ft band", "Donley County / coords 34.9400, -100.8900", "Donley County / primary ZIP 79226"]
+zillowHomeValueUsd: 126116
 ---
 
 **Engineering Notice for Clarendon:** Envelope check: Cladding Retrofit assigned to wind-load band A with stress factor 1.07. Regional dispatch grid: Donley County.

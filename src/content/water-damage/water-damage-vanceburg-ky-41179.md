@@ -12,6 +12,7 @@ lng: -83.3200
 zipSample: ["41179"]
 zipCodes: ["41179"]
 localPaths: ["Lewis County / elevation 522 ft band", "Lewis County / coords 38.5900, -83.3200", "Lewis County / primary ZIP 41179", "Lewis County / ZIP 41179 sector"]
+zillowHomeValueUsd: 115116
 ---
 
 **Engineering Notice for Vanceburg:** structural drying capacity optimized for 522ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lewis County. Relative Humidity Threshold: 72%. Sensor sync: Active.

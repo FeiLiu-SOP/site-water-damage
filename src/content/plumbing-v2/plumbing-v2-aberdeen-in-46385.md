@@ -12,6 +12,7 @@ lng: -87.1200
 zipSample: ["46385"]
 zipCodes: ["46385"]
 localPaths: ["Porter County / ZIP 46385 sector", "Porter County / primary ZIP 46385", "Porter County / elevation 778 ft band", "Porter County / coords 41.4400, -87.1200"]
+zillowHomeValueUsd: 368947
 ---
 
 **Engineering Notice for Aberdeen:** System optimized for 127 mg/L hard water scaling factors in Aberdeen. Regional dispatch grid: Porter County.

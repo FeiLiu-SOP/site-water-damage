@@ -12,6 +12,7 @@ lng: -80.1100
 zipSample: ["33406"]
 zipCodes: ["33406"]
 localPaths: ["Palm Beach County / primary ZIP 33406", "Palm Beach County / coords 26.6600, -80.1100", "Palm Beach County / elevation 46 ft band", "Palm Beach County / ZIP 33406 sector"]
+zillowHomeValueUsd: 422309
 ---
 
 **Engineering Notice for Pine Air:** System optimized for 149 mg/L hard water scaling factors in Pine Air. Regional dispatch grid: Palm Beach County.

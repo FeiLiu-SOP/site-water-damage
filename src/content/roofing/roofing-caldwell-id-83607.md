@@ -11,6 +11,7 @@ lng: -116.6600
 zipSample: ["83607", "83605"]
 zipCodes: ["83607", "83605"]
 localPaths: ["Canyon County / ZIP 83605 sector", "Canyon County / elevation 2398 ft band", "Canyon County / ZIP 83607 sector", "Canyon County / coords 43.6500, -116.6600", "Canyon County / primary ZIP 83607"]
+zillowHomeValueUsd: 448788
 ---
 
 **Engineering Notice for Caldwell:** Structural loading calculated based on 2398 ft terrain assessment. Regional dispatch grid: Canyon County.

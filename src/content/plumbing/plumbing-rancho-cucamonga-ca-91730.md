@@ -12,6 +12,7 @@ lng: -117.5700
 zipSample: ["91701", "91737", "91739", "91729", "91730"]
 zipCodes: ["91730", "91729", "91701", "91737", "91739"]
 localPaths: ["San Bernardino County / ZIP 91729 sector", "San Bernardino County / coords 34.1200, -117.5700", "San Bernardino County / elevation 1365 ft band", "San Bernardino County / primary ZIP 91730", "San Bernardino County / ZIP 91739 sector"]
+zillowHomeValueUsd: 680775
 ---
 
 **Engineering Notice for Rancho Cucamonga:** Structural loading calculated based on 1365 ft terrain assessment. Regional dispatch grid: San Bernardino County.

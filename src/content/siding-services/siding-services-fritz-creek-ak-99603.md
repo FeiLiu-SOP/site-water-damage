@@ -12,6 +12,7 @@ lng: -151.2900
 zipSample: ["99603"]
 zipCodes: ["99603"]
 localPaths: ["Kenai Peninsula County / primary ZIP 99603", "Kenai Peninsula County / coords 59.7500, -151.2900", "Kenai Peninsula County / ZIP 99603 sector", "Kenai Peninsula County / elevation 1280 ft band"]
+zillowHomeValueUsd: 397495
 ---
 
 **Engineering Notice for Fritz Creek:** Site context locked to Kenai Peninsula County. Coordinates: 59.7500, -151.2900. Surface Sheathing integrity verification recorded.

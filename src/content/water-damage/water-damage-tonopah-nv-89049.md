@@ -12,6 +12,7 @@ lng: -117.2200
 zipSample: ["89049"]
 zipCodes: ["89049"]
 localPaths: ["Nye County / elevation 6135 ft band", "Nye County / coords 38.0800, -117.2200", "Nye County / primary ZIP 89049", "Nye County / ZIP 89049 sector"]
+zillowHomeValueUsd: 155543
 ---
 
 **Engineering Notice for Tonopah:** structural drying capacity optimized for 6135ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Nye County. Relative Humidity Threshold: 73%. Sensor sync: Active.

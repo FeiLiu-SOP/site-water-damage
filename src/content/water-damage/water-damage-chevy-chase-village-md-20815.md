@@ -12,6 +12,7 @@ lng: -77.0800
 zipSample: ["20815"]
 zipCodes: ["20815"]
 localPaths: ["Montgomery County / coords 38.9700, -77.0800", "Montgomery County / primary ZIP 20815", "Montgomery County / ZIP 20815 sector", "Montgomery County / elevation 364 ft band"]
+zillowHomeValueUsd: 1185199
 ---
 
 **Engineering Notice for Chevy Chase Village:** structural drying capacity optimized for 364ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Montgomery County. Relative Humidity Threshold: 65%. Sensor sync: Active.

@@ -11,6 +11,7 @@ lng: -80.9400
 zipSample: ["32141", "32132", "32168"]
 zipCodes: ["32132", "32141", "32168"]
 localPaths: ["Volusia County / coords 28.9600, -80.9400", "Volusia County / elevation 46 ft band", "Volusia County / primary ZIP 32141", "Volusia County / ZIP 32132 sector", "Volusia County / ZIP 32168 sector"]
+zillowHomeValueUsd: 298529
 ---
 
 **Engineering Notice for Edgewater:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Volusia County.

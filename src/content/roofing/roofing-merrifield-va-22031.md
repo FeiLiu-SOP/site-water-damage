@@ -11,6 +11,7 @@ lng: -77.2400
 zipSample: ["22082", "22031", "22042", "22119", "22081"]
 zipCodes: ["22042", "22180", "22081", "22119", "22031", "22082"]
 localPaths: ["Fairfax County / ZIP 22081 sector", "Fairfax County / ZIP 22082 sector", "Fairfax County / ZIP 22031 sector", "Fairfax County / ZIP 22042 sector", "Fairfax County / primary ZIP 22031"]
+zillowHomeValueUsd: 774789
 ---
 
 **Engineering Notice for Merrifield:** Structural loading calculated based on 308 ft terrain assessment. Regional dispatch grid: Fairfax County.

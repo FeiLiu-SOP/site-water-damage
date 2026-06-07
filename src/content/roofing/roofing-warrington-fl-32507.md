@@ -11,6 +11,7 @@ lng: -87.2900
 zipSample: ["32507", "32521"]
 zipCodes: ["32507", "32521"]
 localPaths: ["Escambia County / primary ZIP 32507", "Escambia County / ZIP 32521 sector", "Escambia County / ZIP 32507 sector", "Escambia County / coords 30.3800, -87.2900", "Escambia County / elevation 39 ft band"]
+zillowHomeValueUsd: 363134
 ---
 
 **Engineering Notice for Warrington:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Escambia County.

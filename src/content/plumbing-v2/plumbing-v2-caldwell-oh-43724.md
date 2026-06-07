@@ -12,6 +12,7 @@ lng: -81.5100
 zipSample: ["43724"]
 zipCodes: ["43724"]
 localPaths: ["Noble County / ZIP 43724 sector", "Noble County / coords 39.7500, -81.5100", "Noble County / primary ZIP 43724", "Noble County / elevation 722 ft band"]
+zillowHomeValueUsd: 178833
 ---
 
 **Engineering Notice for Caldwell:** System optimized for 170 mg/L hard water scaling factors in Caldwell. Regional dispatch grid: Noble County.

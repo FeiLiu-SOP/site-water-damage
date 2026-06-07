@@ -12,6 +12,7 @@ lng: -94.4400
 zipSample: ["64835", "64870"]
 zipCodes: ["64870", "64835"]
 localPaths: ["Jasper County / ZIP 64835 sector", "Jasper County / primary ZIP 64870", "Jasper County / ZIP 64870 sector", "Jasper County / coords 37.1500, -94.4400", "Jasper County / elevation 997 ft band"]
+zillowHomeValueUsd: 221331
 ---
 
 **Engineering Notice for Carterville:** Cladding Retrofit was validated under stress factor 0.73; target tolerance set near 102 mph. Coordinates: 37.1500, -94.4400. Grid anchor: Jasper County.

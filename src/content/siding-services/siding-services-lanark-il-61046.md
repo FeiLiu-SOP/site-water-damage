@@ -12,6 +12,7 @@ lng: -89.8300
 zipSample: ["61046"]
 zipCodes: ["61046"]
 localPaths: ["Carroll County / elevation 879 ft band", "Carroll County / ZIP 61046 sector", "Carroll County / primary ZIP 61046", "Carroll County / coords 42.1000, -89.8300"]
+zillowHomeValueUsd: 316860
 ---
 
 **Engineering Notice for Lanark:** Structural integrity verification: Panel Replacement calibrated for 99 mph localized wind load factor. Regional dispatch grid: Carroll County.

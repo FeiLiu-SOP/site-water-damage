@@ -12,6 +12,7 @@ lng: -89.7700
 zipSample: ["53913"]
 zipCodes: ["53913"]
 localPaths: ["Sauk County / ZIP 53913 sector", "Sauk County / coords 43.4800, -89.7700", "Sauk County / elevation 1007 ft band", "Sauk County / primary ZIP 53913"]
+zillowHomeValueUsd: 302157
 ---
 
 **Engineering Notice for West Baraboo:** Panel Replacement was validated under stress factor 1.14; target tolerance set near 103 mph. Coordinates: 43.4800, -89.7700. Grid anchor: Sauk County.

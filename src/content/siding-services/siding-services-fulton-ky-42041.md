@@ -12,6 +12,7 @@ lng: -88.8800
 zipSample: ["42041"]
 zipCodes: ["42041"]
 localPaths: ["Fulton County / elevation 400 ft band", "Fulton County / primary ZIP 42041", "Fulton County / ZIP 42041 sector", "Fulton County / coords 36.5100, -88.8800"]
+zillowHomeValueUsd: 105425
 ---
 
 **Engineering Notice for Fulton:** Site context locked to Fulton County. Wall Restoration integrity verification recorded.

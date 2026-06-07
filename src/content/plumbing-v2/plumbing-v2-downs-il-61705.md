@@ -12,6 +12,7 @@ lng: -88.8900
 zipSample: ["61705", "61736"]
 zipCodes: ["61705", "61736"]
 localPaths: ["McLean County / coords 40.4000, -88.8900", "McLean County / primary ZIP 61705", "McLean County / ZIP 61736 sector", "McLean County / elevation 778 ft band", "McLean County / ZIP 61705 sector"]
+zillowHomeValueUsd: 378422
 ---
 
 **Engineering Notice for Downs:** System optimized for 129 mg/L hard water scaling factors in Downs. Regional dispatch grid: McLean County.

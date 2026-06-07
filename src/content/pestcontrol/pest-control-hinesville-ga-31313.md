@@ -11,6 +11,7 @@ lng: -81.6100
 zipSample: ["31310", "31313"]
 zipCodes: ["31313", "31310"]
 localPaths: ["Liberty County / primary ZIP 31313", "Liberty County / ZIP 31313 sector", "Liberty County / elevation 102 ft band", "Liberty County / ZIP 31310 sector", "Liberty County / coords 31.8200, -81.6100"]
+zillowHomeValueUsd: 236290
 ---
 
 **Engineering Notice for Hinesville:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Liberty County.

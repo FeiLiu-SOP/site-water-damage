@@ -12,6 +12,7 @@ lng: -75.8300
 zipSample: ["18705"]
 zipCodes: ["18705"]
 localPaths: ["Luzerne County / coords 41.2800, -75.8300", "Luzerne County / elevation 653 ft band", "Luzerne County / ZIP 18705 sector", "Luzerne County / primary ZIP 18705"]
+zillowHomeValueUsd: 182705
 ---
 
 **Engineering Notice for Hudson:** Site context locked to Luzerne County. Elevation: 653 ft AMSL. Surface Sheathing integrity verification recorded.

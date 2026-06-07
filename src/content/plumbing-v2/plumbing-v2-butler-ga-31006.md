@@ -12,6 +12,7 @@ lng: -84.2400
 zipSample: ["31006"]
 zipCodes: ["31006"]
 localPaths: ["Taylor County / primary ZIP 31006", "Taylor County / ZIP 31006 sector", "Taylor County / elevation 643 ft band", "Taylor County / coords 32.5600, -84.2400"]
+zillowHomeValueUsd: 158912
 ---
 
 **Engineering Notice for Butler:** System optimized for 144 mg/L hard water scaling factors in Butler. Regional dispatch grid: Taylor County.

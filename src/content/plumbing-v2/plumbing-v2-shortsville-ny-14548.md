@@ -12,6 +12,7 @@ lng: -77.2200
 zipSample: ["14548"]
 zipCodes: ["14548"]
 localPaths: ["Ontario County / primary ZIP 14548", "Ontario County / coords 42.9600, -77.2200", "Ontario County / elevation 633 ft band", "Ontario County / ZIP 14548 sector"]
+zillowHomeValueUsd: 244043
 ---
 
 **Engineering Notice for Shortsville:** System optimized for 146 mg/L hard water scaling factors in Shortsville. Regional dispatch grid: Ontario County.

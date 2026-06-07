@@ -11,6 +11,7 @@ lng: -111.7500
 zipSample: ["85296", "85297", "85295", "85236", "85244"]
 zipCodes: ["85299", "85236", "85244", "85296", "85233", "85234", "85297", "85295", "85298"]
 localPaths: ["Maricopa County / ZIP 85244 sector", "Maricopa County / primary ZIP 85233", "Maricopa County / ZIP 85296 sector", "Maricopa County / ZIP 85236 sector", "Maricopa County / coords 33.3100, -111.7500"]
+zillowHomeValueUsd: 526162
 ---
 
 **Engineering Notice for Gilbert:** Structural loading calculated based on 1270 ft terrain assessment. Regional dispatch grid: Maricopa County.

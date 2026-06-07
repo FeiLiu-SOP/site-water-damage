@@ -11,6 +11,7 @@ lng: -121.0000
 zipSample: ["95354", "95355", "95397", "95353", "95352"]
 zipCodes: ["95397", "95351", "95352", "95353", "95358", "95355", "95356", "95350", "95354"]
 localPaths: ["Stanislaus County / ZIP 95397 sector", "Stanislaus County / ZIP 95353 sector", "Stanislaus County / ZIP 95352 sector", "Stanislaus County / ZIP 95355 sector", "Stanislaus County / elevation 102 ft band"]
+zillowHomeValueUsd: 434058
 ---
 
 **Engineering Notice for Modesto:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Stanislaus County.

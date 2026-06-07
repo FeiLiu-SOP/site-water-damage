@@ -12,6 +12,7 @@ lng: -79.6600
 zipSample: ["29429"]
 zipCodes: ["29429"]
 localPaths: ["Charleston County / elevation 23 ft band", "Charleston County / primary ZIP 29429", "Charleston County / coords 32.9700, -79.6600", "Charleston County / ZIP 29429 sector"]
+zillowHomeValueUsd: 759803
 ---
 
 **Engineering Notice for Awendaw:** structural drying capacity optimized for 23ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Charleston County. Relative Humidity Threshold: 73%. Sensor sync: Active.

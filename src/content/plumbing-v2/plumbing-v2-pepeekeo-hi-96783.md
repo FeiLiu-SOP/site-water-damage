@@ -12,6 +12,7 @@ lng: -155.1100
 zipSample: ["96783"]
 zipCodes: ["96783"]
 localPaths: ["Hawaii County / coords 19.8300, -155.1100", "Hawaii County / primary ZIP 96783", "Hawaii County / elevation 548 ft band", "Hawaii County / ZIP 96783 sector"]
+zillowHomeValueUsd: 551105
 ---
 
 **Engineering Notice for Pepeekeo:** System optimized for 130 mg/L hard water scaling factors in Pepeekeo. Regional dispatch grid: Hawaii County.

@@ -11,6 +11,7 @@ lng: -85.2300
 zipSample: ["49016", "49015", "49037"]
 zipCodes: ["49037", "49015", "49016"]
 localPaths: ["Calhoun County / primary ZIP 49015", "Calhoun County / coords 42.3000, -85.2300", "Calhoun County / ZIP 49015 sector", "Calhoun County / ZIP 49016 sector", "Calhoun County / elevation 935 ft band"]
+zillowHomeValueUsd: 206357
 ---
 
 **Engineering Notice for Battle Creek:** Structural loading calculated based on 935 ft terrain assessment. Regional dispatch grid: Calhoun County.

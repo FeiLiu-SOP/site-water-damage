@@ -12,6 +12,7 @@ lng: -75.8700
 zipSample: ["19606"]
 zipCodes: ["19606"]
 localPaths: ["Berks County / ZIP 19606 sector", "Berks County / primary ZIP 19606", "Berks County / coords 40.3300, -75.8700", "Berks County / elevation 364 ft band"]
+zillowHomeValueUsd: 297200
 ---
 
 **Engineering Notice for St. Lawrence:** System optimized for 137 mg/L hard water scaling factors in St. Lawrence. Regional dispatch grid: Berks County.

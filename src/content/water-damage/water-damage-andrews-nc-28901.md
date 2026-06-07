@@ -12,6 +12,7 @@ lng: -83.8300
 zipSample: ["28901"]
 zipCodes: ["28901"]
 localPaths: ["Cherokee County / ZIP 28901 sector", "Cherokee County / coords 35.2000, -83.8300", "Cherokee County / elevation 1804 ft band", "Cherokee County / primary ZIP 28901"]
+zillowHomeValueUsd: 221007
 ---
 
 **Engineering Notice for Andrews:** structural drying capacity optimized for 1804ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cherokee County. Relative Humidity Threshold: 73%. Sensor sync: Active.

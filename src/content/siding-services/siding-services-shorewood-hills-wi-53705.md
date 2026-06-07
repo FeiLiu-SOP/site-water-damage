@@ -12,6 +12,7 @@ lng: -89.4500
 zipSample: ["53791", "53705"]
 zipCodes: ["53791", "53705"]
 localPaths: ["Dane County / ZIP 53791 sector", "Dane County / ZIP 53705 sector", "Dane County / elevation 981 ft band", "Dane County / coords 43.0800, -89.4500", "Dane County / primary ZIP 53705"]
+zillowHomeValueUsd: 556651
 ---
 
 **Engineering Notice for Shorewood Hills:** Site context locked to Dane County. Elevation: 981 ft AMSL. Surface Sheathing integrity verification recorded.

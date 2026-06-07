@@ -11,6 +11,7 @@ lng: -96.7900
 zipSample: ["75154"]
 zipCodes: ["75154"]
 localPaths: ["Ellis County / primary ZIP 75154", "Ellis County / ZIP 75154 sector", "Ellis County / coords 32.5200, -96.7900", "Ellis County / elevation 597 ft band"]
+zillowHomeValueUsd: 350963
 ---
 
 **Engineering Notice for Red Oak:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Ellis County.

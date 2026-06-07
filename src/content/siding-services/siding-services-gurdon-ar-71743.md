@@ -12,6 +12,7 @@ lng: -93.1500
 zipSample: ["71743"]
 zipCodes: ["71743"]
 localPaths: ["Clark County / ZIP 71743 sector", "Clark County / primary ZIP 71743", "Clark County / elevation 233 ft band", "Clark County / coords 33.9200, -93.1500"]
+zillowHomeValueUsd: 107307
 ---
 
 **Engineering Notice for Gurdon:** Cladding verification uses 95 mph routing baseline; lateral pressure note: 12.6 psf. Elevation: 233 ft AMSL. Coordinates: 33.9200, -93.1500. Grid: Clark County.

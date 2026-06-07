@@ -12,6 +12,7 @@ lng: -75.4400
 zipSample: ["18353", "18330"]
 zipCodes: ["18353", "18330"]
 localPaths: ["Monroe County / ZIP 18330 sector", "Monroe County / ZIP 18353 sector", "Monroe County / primary ZIP 18330", "Monroe County / elevation 804 ft band", "Monroe County / coords 40.9400, -75.4400"]
+zillowHomeValueUsd: 312901
 ---
 
 **Engineering Notice for Effort:** System optimized for 165 mg/L hard water scaling factors in Effort. Regional dispatch grid: Monroe County.

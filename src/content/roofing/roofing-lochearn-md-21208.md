@@ -11,6 +11,7 @@ lng: -76.7300
 zipSample: ["21207", "21208"]
 zipCodes: ["21207", "21208"]
 localPaths: ["Baltimore County / ZIP 21208 sector", "Baltimore County / primary ZIP 21208", "Baltimore County / elevation 390 ft band", "Baltimore County / coords 39.3500, -76.7300", "Baltimore County / ZIP 21207 sector"]
+zillowHomeValueUsd: 374196
 ---
 
 **Engineering Notice for Lochearn:** Structural loading calculated based on 390 ft terrain assessment. Regional dispatch grid: Baltimore County.

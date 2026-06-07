@@ -12,6 +12,7 @@ lng: -90.3000
 zipSample: ["54479"]
 zipCodes: ["54479"]
 localPaths: ["Marathon County / coords 44.7500, -90.3000", "Marathon County / primary ZIP 54479", "Marathon County / elevation 1306 ft band", "Marathon County / ZIP 54479 sector"]
+zillowHomeValueUsd: 227679
 ---
 
 **Engineering Notice for Spencer:** Site context locked to Marathon County. Elevation: 1306 ft AMSL. Coordinates: 44.7500, -90.3000. Exterior Cladding integrity verification recorded.

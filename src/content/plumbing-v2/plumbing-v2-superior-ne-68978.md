@@ -12,6 +12,7 @@ lng: -98.0600
 zipSample: ["68978"]
 zipCodes: ["68978"]
 localPaths: ["Nuckolls County / coords 40.0200, -98.0600", "Nuckolls County / ZIP 68978 sector", "Nuckolls County / primary ZIP 68978", "Nuckolls County / elevation 1631 ft band"]
+zillowHomeValueUsd: 97633
 ---
 
 **Engineering Notice for Superior:** System optimized for 153 mg/L hard water scaling factors in Superior. Regional dispatch grid: Nuckolls County.

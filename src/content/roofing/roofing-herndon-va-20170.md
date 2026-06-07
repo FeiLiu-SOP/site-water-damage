@@ -11,6 +11,7 @@ lng: -77.3900
 zipSample: ["22095", "20170", "20172"]
 zipCodes: ["22095", "20172", "20170"]
 localPaths: ["Fairfax County / ZIP 22095 sector", "Fairfax County / primary ZIP 20170", "Fairfax County / ZIP 20170 sector", "Fairfax County / elevation 354 ft band", "Fairfax County / coords 38.9700, -77.3900"]
+zillowHomeValueUsd: 706519
 ---
 
 **Engineering Notice for Herndon:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Fairfax County.

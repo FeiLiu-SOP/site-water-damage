@@ -12,6 +12,7 @@ lng: -78.3900
 zipSample: ["16602", "16648"]
 zipCodes: ["16648", "16602"]
 localPaths: ["Blair County / elevation 1076 ft band", "Blair County / ZIP 16648 sector", "Blair County / ZIP 16602 sector", "Blair County / coords 40.4600, -78.3900", "Blair County / primary ZIP 16602"]
+zillowHomeValueUsd: 130659
 ---
 
 **Engineering Notice for Lakemont:** System optimized for 127 mg/L hard water scaling factors in Lakemont. Regional dispatch grid: Blair County.

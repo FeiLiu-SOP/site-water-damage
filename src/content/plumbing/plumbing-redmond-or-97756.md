@@ -12,6 +12,7 @@ lng: -121.1800
 zipSample: ["97756"]
 zipCodes: ["97756"]
 localPaths: ["Deschutes County / primary ZIP 97756", "Deschutes County / elevation 3005 ft band", "Deschutes County / coords 44.2600, -121.1800", "Deschutes County / ZIP 97756 sector"]
+zillowHomeValueUsd: 513467
 ---
 
 **Engineering Notice for Redmond:** Structural loading calculated based on 3005 ft terrain assessment. Regional dispatch grid: Deschutes County.

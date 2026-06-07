@@ -12,6 +12,7 @@ lng: -87.6900
 zipSample: ["42408"]
 zipCodes: ["42408"]
 localPaths: ["Hopkins County / elevation 456 ft band", "Hopkins County / ZIP 42408 sector", "Hopkins County / coords 37.1700, -87.6900", "Hopkins County / primary ZIP 42408"]
+zillowHomeValueUsd: 119026
 ---
 
 **Engineering Notice for Dawson Springs:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Grid: Hopkins County.

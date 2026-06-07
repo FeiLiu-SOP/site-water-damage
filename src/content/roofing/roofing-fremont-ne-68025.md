@@ -11,6 +11,7 @@ lng: -96.4900
 zipSample: ["68026", "68025"]
 zipCodes: ["68026", "68025"]
 localPaths: ["Dodge County / ZIP 68026 sector", "Dodge County / ZIP 68025 sector", "Dodge County / primary ZIP 68025", "Dodge County / coords 41.4400, -96.4900", "Dodge County / elevation 1191 ft band"]
+zillowHomeValueUsd: 253128
 ---
 
 **Engineering Notice for Fremont:** Structural loading calculated based on 1191 ft terrain assessment. Regional dispatch grid: Dodge County.

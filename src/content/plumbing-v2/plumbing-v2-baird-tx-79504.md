@@ -12,6 +12,7 @@ lng: -99.4000
 zipSample: ["79504"]
 zipCodes: ["79504"]
 localPaths: ["Callahan County / coords 32.4000, -99.4000", "Callahan County / ZIP 79504 sector", "Callahan County / elevation 1719 ft band", "Callahan County / primary ZIP 79504"]
+zillowHomeValueUsd: 191871
 ---
 
 **Engineering Notice for Baird:** System optimized for 123 mg/L hard water scaling factors in Baird. Regional dispatch grid: Callahan County.

@@ -12,6 +12,8 @@ lng: -66.2500
 zipSample: ["00949"]
 zipCodes: ["00949"]
 localPaths: ["Toa Baja County / elevation 233 ft band", "Toa Baja County / coords 18.4000, -66.2500", "Toa Baja County / ZIP 00949 sector", "Toa Baja County / primary ZIP 00949"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 377528
 ---
 
 **Engineering Notice for San José:** Envelope check: Panel Replacement assigned to wind-load band A with stress factor 0.92. Regional dispatch grid: Toa Baja County.

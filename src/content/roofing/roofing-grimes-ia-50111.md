@@ -11,6 +11,7 @@ lng: -93.7900
 zipSample: ["50111"]
 zipCodes: ["50111"]
 localPaths: ["Polk County / elevation 965 ft band", "Polk County / coords 41.6800, -93.7900", "Polk County / primary ZIP 50111", "Polk County / ZIP 50111 sector"]
+zillowHomeValueUsd: 346254
 ---
 
 **Engineering Notice for Grimes:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Polk County.

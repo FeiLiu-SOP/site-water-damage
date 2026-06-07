@@ -12,6 +12,7 @@ lng: -121.1000
 zipSample: ["95236"]
 zipCodes: ["95236"]
 localPaths: ["San Joaquin County / coords 38.0200, -121.1000", "San Joaquin County / ZIP 95236 sector", "San Joaquin County / elevation 89 ft band", "San Joaquin County / primary ZIP 95236"]
+zillowHomeValueUsd: 674362
 ---
 
 **Engineering Notice for Linden:** System optimized for 171 mg/L hard water scaling factors in Linden. Regional dispatch grid: San Joaquin County.

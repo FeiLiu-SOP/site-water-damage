@@ -12,6 +12,7 @@ lng: -84.4600
 zipSample: ["40513", "40516", "40533", "40510", "40505"]
 zipCodes: ["40513", "40509", "40581", "40588", "40514", "40516", "40504", "40580", "40533", "40579", "40546", "40502"]
 localPaths: ["Fayette County / ZIP 40533 sector", "Fayette County / elevation 1056 ft band", "Fayette County / ZIP 40513 sector", "Fayette County / coords 38.0400, -84.4600", "Fayette County / primary ZIP 40526"]
+zillowHomeValueUsd: 398598
 ---
 
 **Engineering Notice for Lexington:** Structural loading calculated based on 1056 ft terrain assessment. Regional dispatch grid: Fayette County.

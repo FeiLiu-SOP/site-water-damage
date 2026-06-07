@@ -12,6 +12,7 @@ lng: -76.1200
 zipSample: ["13760"]
 zipCodes: ["13760"]
 localPaths: ["Tioga County / coords 42.0800, -76.1200", "Tioga County / primary ZIP 13760", "Tioga County / ZIP 13760 sector", "Tioga County / elevation 1037 ft band"]
+zillowHomeValueUsd: 200213
 ---
 
 **Engineering Notice for Crest View Heights:** Vinyl Panels was validated under stress factor 1.02; target tolerance set near 104 mph. Coordinates: 42.0800, -76.1200. Grid anchor: Tioga County.

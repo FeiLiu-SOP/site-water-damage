@@ -12,6 +12,7 @@ lng: -119.0800
 zipSample: ["97738"]
 zipCodes: ["97738"]
 localPaths: ["Harney County / coords 43.5600, -119.0800", "Harney County / ZIP 97738 sector", "Harney County / primary ZIP 97738", "Harney County / elevation 4147 ft band"]
+zillowHomeValueUsd: 227223
 ---
 
 **Engineering Notice for Hines:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 0.87. Elevation: 4147 ft AMSL. Regional dispatch grid: Harney County.

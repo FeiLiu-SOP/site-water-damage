@@ -12,6 +12,7 @@ lng: -95.0200
 zipSample: ["77565"]
 zipCodes: ["77565"]
 localPaths: ["Galveston County / ZIP 77565 sector", "Galveston County / coords 29.5300, -95.0200", "Galveston County / primary ZIP 77565", "Galveston County / elevation 30 ft band"]
+zillowHomeValueUsd: 358128
 ---
 
 **Engineering Notice for Kemah:** Envelope check: Vinyl Panels assigned to wind-load band A with stress factor 1.07. Elevation: 30 ft AMSL. Regional dispatch grid: Galveston County.

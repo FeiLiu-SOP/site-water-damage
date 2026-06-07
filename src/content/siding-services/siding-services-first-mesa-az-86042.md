@@ -12,6 +12,8 @@ lng: -110.3700
 zipSample: ["86042"]
 zipCodes: ["86042"]
 localPaths: ["Navajo County / elevation 5663 ft band", "Navajo County / primary ZIP 86042", "Navajo County / coords 35.8400, -110.3700", "Navajo County / ZIP 86042 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 444317
 ---
 
 **Engineering Notice for First Mesa:** Envelope check: Exterior Envelope assigned to wind-load band C with stress factor 0.83. Regional dispatch grid: Navajo County.

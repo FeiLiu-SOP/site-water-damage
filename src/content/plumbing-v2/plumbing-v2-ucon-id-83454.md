@@ -12,6 +12,7 @@ lng: -111.9600
 zipSample: ["83401", "83454"]
 zipCodes: ["83401", "83454"]
 localPaths: ["Bonneville County / coords 43.5900, -111.9600", "Bonneville County / ZIP 83401 sector", "Bonneville County / elevation 4816 ft band", "Bonneville County / primary ZIP 83454", "Bonneville County / ZIP 83454 sector"]
+zillowHomeValueUsd: 347883
 ---
 
 **Engineering Notice for Ucon:** System optimized for 147 mg/L hard water scaling factors in Ucon. Regional dispatch grid: Bonneville County.

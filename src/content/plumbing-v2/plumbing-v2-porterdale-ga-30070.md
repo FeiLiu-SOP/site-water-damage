@@ -12,6 +12,7 @@ lng: -83.8900
 zipSample: ["30016", "30070", "30014"]
 zipCodes: ["30070", "30014", "30016"]
 localPaths: ["Newton County / coords 33.5700, -83.8900", "Newton County / ZIP 30070 sector", "Newton County / ZIP 30014 sector", "Newton County / ZIP 30016 sector", "Newton County / primary ZIP 30070"]
+zillowHomeValueUsd: 177123
 ---
 
 **Engineering Notice for Porterdale:** System optimized for 158 mg/L hard water scaling factors in Porterdale. Regional dispatch grid: Newton County.

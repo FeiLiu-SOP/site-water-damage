@@ -12,6 +12,7 @@ lng: -75.8800
 zipSample: ["18801"]
 zipCodes: ["18801"]
 localPaths: ["Susquehanna County / coords 41.8300, -75.8800", "Susquehanna County / primary ZIP 18801", "Susquehanna County / ZIP 18801 sector", "Susquehanna County / elevation 1667 ft band"]
+zillowHomeValueUsd: 245837
 ---
 
 **Engineering Notice for Montrose:** System optimized for 136 mg/L hard water scaling factors in Montrose. Regional dispatch grid: Susquehanna County.

@@ -12,6 +12,7 @@ lng: -75.8300
 zipSample: ["23350"]
 zipCodes: ["23350"]
 localPaths: ["Northampton County / ZIP 23350 sector", "Northampton County / coords 37.5300, -75.8300", "Northampton County / primary ZIP 23350", "Northampton County / elevation 43 ft band"]
+zillowHomeValueUsd: 193825
 ---
 
 **Engineering Notice for Exmore:** structural drying capacity optimized for 43ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Northampton County. Relative Humidity Threshold: 65%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -75.0600
 zipSample: ["08328"]
 zipCodes: ["08328"]
 localPaths: ["Gloucester County / coords 39.5800, -75.0600", "Gloucester County / elevation 82 ft band", "Gloucester County / primary ZIP 08328", "Gloucester County / ZIP 08328 sector"]
+zillowHomeValueUsd: 315144
 ---
 
 **Engineering Notice for Malaga:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Coordinates: 39.5800, -75.0600. Grid: Gloucester County.

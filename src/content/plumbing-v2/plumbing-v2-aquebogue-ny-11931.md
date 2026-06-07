@@ -12,6 +12,7 @@ lng: -72.6100
 zipSample: ["11931", "11901"]
 zipCodes: ["11901", "11931"]
 localPaths: ["Suffolk County / ZIP 11901 sector", "Suffolk County / coords 40.9400, -72.6100", "Suffolk County / primary ZIP 11931", "Suffolk County / ZIP 11931 sector", "Suffolk County / elevation 7 ft band"]
+zillowHomeValueUsd: 802537
 ---
 
 **Engineering Notice for Aquebogue:** System optimized for 144 mg/L hard water scaling factors in Aquebogue. Regional dispatch grid: Suffolk County.

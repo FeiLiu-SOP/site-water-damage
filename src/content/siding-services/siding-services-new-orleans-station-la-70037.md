@@ -12,6 +12,7 @@ lng: -90.0200
 zipSample: ["70143", "70037"]
 zipCodes: ["70037", "70143"]
 localPaths: ["Plaquemines Parish / elevation 3 ft band", "Plaquemines Parish / ZIP 70143 sector", "Plaquemines Parish / coords 29.8300, -90.0200", "Plaquemines Parish / ZIP 70037 sector", "Plaquemines Parish / primary ZIP 70037"]
+zillowHomeValueUsd: 332475
 ---
 
 **Engineering Notice for New Orleans Station:** Envelope check: Exterior Envelope assigned to wind-load band A with stress factor 1.22. Elevation: 3 ft AMSL. Regional dispatch grid: Plaquemines Parish.

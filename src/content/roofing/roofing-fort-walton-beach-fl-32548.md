@@ -11,6 +11,7 @@ lng: -86.6200
 zipSample: ["32548", "32549", "32547"]
 zipCodes: ["32549", "32548", "32547"]
 localPaths: ["Okaloosa County / ZIP 32549 sector", "Okaloosa County / ZIP 32547 sector", "Okaloosa County / primary ZIP 32548", "Okaloosa County / ZIP 32548 sector", "Okaloosa County / coords 30.4300, -86.6200"]
+zillowHomeValueUsd: 338703
 ---
 
 **Engineering Notice for Fort Walton Beach:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Okaloosa County.

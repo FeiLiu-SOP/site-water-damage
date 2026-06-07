@@ -12,6 +12,7 @@ lng: -78.7700
 zipSample: ["22842", "22810"]
 zipCodes: ["22810", "22842"]
 localPaths: ["Shenandoah County / ZIP 22810 sector", "Shenandoah County / primary ZIP 22810", "Shenandoah County / elevation 1240 ft band", "Shenandoah County / coords 38.8200, -78.7700", "Shenandoah County / ZIP 22842 sector"]
+zillowHomeValueUsd: 351488
 ---
 
 **Engineering Notice for Basye:** Cladding verification uses 106 mph routing baseline; lateral pressure note: 13.9 psf. Elevation: 1240 ft AMSL. Grid: Shenandoah County.

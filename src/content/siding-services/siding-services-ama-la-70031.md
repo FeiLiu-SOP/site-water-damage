@@ -12,6 +12,7 @@ lng: -90.3000
 zipSample: ["70031"]
 zipCodes: ["70031"]
 localPaths: ["St. Charles Parish / elevation 10 ft band", "St. Charles Parish / coords 29.9400, -90.3000", "St. Charles Parish / primary ZIP 70031", "St. Charles Parish / ZIP 70031 sector"]
+zillowHomeValueUsd: 227889
 ---
 
 **Engineering Notice for Ama:** Cladding verification uses 90 mph routing baseline; lateral pressure note: 12.0 psf. Coordinates: 29.9400, -90.3000. Grid: St. Charles Parish.

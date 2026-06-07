@@ -12,6 +12,7 @@ lng: -92.0300
 zipSample: ["70502", "70598", "70593", "70504", "70501"]
 zipCodes: ["70501", "70593", "70596", "70504", "70506", "70502", "70507", "70508", "70509", "70598", "70503", "70505"]
 localPaths: ["Lafayette Parish / ZIP 70501 sector", "Lafayette Parish / primary ZIP 70508", "Lafayette Parish / ZIP 70504 sector", "Lafayette Parish / ZIP 70502 sector", "Lafayette Parish / elevation 59 ft band"]
+zillowHomeValueUsd: 291908
 ---
 
 **Engineering Notice for Lafayette:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Lafayette Parish.

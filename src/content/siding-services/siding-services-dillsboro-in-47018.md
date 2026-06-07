@@ -12,6 +12,7 @@ lng: -85.0500
 zipSample: ["47018"]
 zipCodes: ["47018"]
 localPaths: ["Dearborn County / coords 39.0200, -85.0500", "Dearborn County / ZIP 47018 sector", "Dearborn County / elevation 883 ft band", "Dearborn County / primary ZIP 47018"]
+zillowHomeValueUsd: 306802
 ---
 
 **Engineering Notice for Dillsboro:** Exterior Cladding was validated under stress factor 1.17; target tolerance set near 103 mph. Coordinates: 39.0200, -85.0500. Grid anchor: Dearborn County.

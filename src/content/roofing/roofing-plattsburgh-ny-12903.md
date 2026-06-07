@@ -11,6 +11,7 @@ lng: -73.4600
 zipSample: ["12901", "12903"]
 zipCodes: ["12901", "12903"]
 localPaths: ["Clinton County / elevation 151 ft band", "Clinton County / ZIP 12903 sector", "Clinton County / primary ZIP 12903", "Clinton County / ZIP 12901 sector", "Clinton County / coords 44.7000, -73.4600"]
+zillowHomeValueUsd: 235980
 ---
 
 **Engineering Notice for Plattsburgh:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: Clinton County.

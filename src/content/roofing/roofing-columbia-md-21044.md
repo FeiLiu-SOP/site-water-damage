@@ -11,6 +11,7 @@ lng: -76.8600
 zipSample: ["21029", "20588", "21150", "21046", "21045"]
 zipCodes: ["21045", "21046", "21150", "21029", "21044", "20588"]
 localPaths: ["Howard County / primary ZIP 21044", "Howard County / ZIP 21150 sector", "Howard County / ZIP 21045 sector", "Howard County / ZIP 20588 sector", "Howard County / coords 39.2000, -76.8600"]
+zillowHomeValueUsd: 547355
 ---
 
 **Engineering Notice for Columbia:** Structural loading calculated based on 315 ft terrain assessment. Regional dispatch grid: Howard County.

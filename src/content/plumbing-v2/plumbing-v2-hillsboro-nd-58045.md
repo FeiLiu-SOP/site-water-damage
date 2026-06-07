@@ -12,6 +12,7 @@ lng: -97.0600
 zipSample: ["58045"]
 zipCodes: ["58045"]
 localPaths: ["Traill County / elevation 909 ft band", "Traill County / coords 47.4000, -97.0600", "Traill County / ZIP 58045 sector", "Traill County / primary ZIP 58045"]
+zillowHomeValueUsd: 233277
 ---
 
 **Engineering Notice for Hillsboro:** System optimized for 125 mg/L hard water scaling factors in Hillsboro. Regional dispatch grid: Traill County.

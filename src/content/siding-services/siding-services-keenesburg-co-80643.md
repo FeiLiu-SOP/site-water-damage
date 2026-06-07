@@ -12,6 +12,7 @@ lng: -104.5400
 zipSample: ["80643"]
 zipCodes: ["80643"]
 localPaths: ["Weld County / primary ZIP 80643", "Weld County / elevation 5020 ft band", "Weld County / coords 40.1300, -104.5400", "Weld County / ZIP 80643 sector"]
+zillowHomeValueUsd: 533909
 ---
 
 **Engineering Notice for Keenesburg:** Vinyl Panels was validated under stress factor 0.74; target tolerance set near 106 mph. Coordinates: 40.1300, -104.5400. Grid anchor: Weld County.

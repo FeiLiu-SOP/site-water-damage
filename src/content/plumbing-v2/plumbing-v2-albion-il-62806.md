@@ -12,6 +12,7 @@ lng: -88.0600
 zipSample: ["62806"]
 zipCodes: ["62806"]
 localPaths: ["Edwards County / primary ZIP 62806", "Edwards County / elevation 518 ft band", "Edwards County / coords 38.3800, -88.0600", "Edwards County / ZIP 62806 sector"]
+zillowHomeValueUsd: 126234
 ---
 
 **Engineering Notice for Albion:** System optimized for 159 mg/L hard water scaling factors in Albion. Regional dispatch grid: Edwards County.

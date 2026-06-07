@@ -11,6 +11,7 @@ lng: -70.7600
 zipSample: ["04083", "04073"]
 zipCodes: ["04073", "04083"]
 localPaths: ["York County / ZIP 04073 sector", "York County / coords 43.4200, -70.7600", "York County / primary ZIP 04073", "York County / elevation 243 ft band", "York County / ZIP 04083 sector"]
+zillowHomeValueUsd: 367567
 ---
 
 **Engineering Notice for Sanford:** Structural loading calculated based on 243 ft terrain assessment. Regional dispatch grid: York County.

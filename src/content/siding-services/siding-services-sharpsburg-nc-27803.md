@@ -12,6 +12,7 @@ lng: -77.8300
 zipSample: ["27803", "27878"]
 zipCodes: ["27878", "27803"]
 localPaths: ["Nash County / elevation 151 ft band", "Nash County / primary ZIP 27803", "Nash County / coords 35.8700, -77.8300", "Nash County / ZIP 27803 sector", "Nash County / ZIP 27878 sector"]
+zillowHomeValueUsd: 206775
 ---
 
 **Engineering Notice for Sharpsburg:** Structural integrity verification: Cladding Retrofit calibrated for 106 mph localized wind load factor. Elevation: 151 ft AMSL. Regional dispatch grid: Nash County.

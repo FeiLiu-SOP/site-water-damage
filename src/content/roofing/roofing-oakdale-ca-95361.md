@@ -11,6 +11,7 @@ lng: -120.8500
 zipSample: ["95361"]
 zipCodes: ["95361"]
 localPaths: ["Stanislaus County / primary ZIP 95361", "Stanislaus County / elevation 157 ft band", "Stanislaus County / coords 37.7600, -120.8500", "Stanislaus County / ZIP 95361 sector"]
+zillowHomeValueUsd: 557743
 ---
 
 **Engineering Notice for Oakdale:** Structural loading calculated based on 157 ft terrain assessment. Regional dispatch grid: Stanislaus County.

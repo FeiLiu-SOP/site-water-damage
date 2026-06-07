@@ -12,6 +12,7 @@ lng: -88.8000
 zipSample: ["38230"]
 zipCodes: ["38230"]
 localPaths: ["Weakley County / ZIP 38230 sector", "Weakley County / elevation 440 ft band", "Weakley County / coords 36.1600, -88.8000", "Weakley County / primary ZIP 38230"]
+zillowHomeValueUsd: 153691
 ---
 
 **Engineering Notice for Greenfield:** Envelope check: Panel Replacement assigned to wind-load band C with stress factor 1.06. Regional dispatch grid: Weakley County.

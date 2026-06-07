@@ -12,6 +12,7 @@ lng: -84.1800
 zipSample: ["45302"]
 zipCodes: ["45302"]
 localPaths: ["Shelby County / elevation 1020 ft band", "Shelby County / ZIP 45302 sector", "Shelby County / primary ZIP 45302", "Shelby County / coords 40.4000, -84.1800"]
+zillowHomeValueUsd: 321942
 ---
 
 **Engineering Notice for Anna:** System optimized for 166 mg/L hard water scaling factors in Anna. Regional dispatch grid: Shelby County.

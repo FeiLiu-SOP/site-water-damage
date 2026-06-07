@@ -12,6 +12,8 @@ lng: -65.7700
 zipSample: ["00745", "00721"]
 zipCodes: ["00721", "00745"]
 localPaths: ["Río Grande County / primary ZIP 00745", "Río Grande County / elevation 52 ft band", "Río Grande County / ZIP 00721 sector", "Río Grande County / ZIP 00745 sector", "Río Grande County / coords 18.3700, -65.7700"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 372958
 ---
 
 **Engineering Notice for Palmer:** Envelope check: Panel Replacement assigned to wind-load band B with stress factor 1.03. Elevation: 52 ft AMSL. Regional dispatch grid: Río Grande County.

@@ -12,6 +12,8 @@ lng: -66.7400
 zipSample: ["00612", "00613", "00614"]
 zipCodes: ["00613", "00612", "00614"]
 localPaths: ["Arecibo County / coords 18.4500, -66.7400", "Arecibo County / ZIP 00614 sector", "Arecibo County / ZIP 00613 sector", "Arecibo County / primary ZIP 00612", "Arecibo County / ZIP 00612 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 383158
 ---
 
 **Engineering Notice for Arecibo:** Structural loading calculated based on 243 ft terrain assessment. Regional dispatch grid: Arecibo County.

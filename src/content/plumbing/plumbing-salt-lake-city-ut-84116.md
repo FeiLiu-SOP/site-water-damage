@@ -12,6 +12,7 @@ lng: -111.9300
 zipSample: ["84101", "84147", "84115", "84112", "84110"]
 zipCodes: ["84106", "84145", "84105", "84180", "84199", "84147", "84110", "84128", "84132", "84150", "84151", "84112"]
 localPaths: ["Salt Lake County / ZIP 84101 sector", "Salt Lake County / elevation 4239 ft band", "Salt Lake County / ZIP 84110 sector", "Salt Lake County / primary ZIP 84116", "Salt Lake County / ZIP 84147 sector"]
+zillowHomeValueUsd: 452065
 ---
 
 **Engineering Notice for Salt Lake City:** Structural loading calculated based on 4239 ft terrain assessment. Regional dispatch grid: Salt Lake County.

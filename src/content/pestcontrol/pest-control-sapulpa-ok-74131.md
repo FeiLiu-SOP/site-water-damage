@@ -11,6 +11,7 @@ lng: -96.1000
 zipSample: ["74067", "74131", "74066"]
 zipCodes: ["74131", "74066", "74067"]
 localPaths: ["Creek County / ZIP 74066 sector", "Creek County / ZIP 74131 sector", "Creek County / ZIP 74067 sector", "Creek County / elevation 719 ft band", "Creek County / primary ZIP 74131"]
+zillowHomeValueUsd: 277163
 ---
 
 **Engineering Notice for Sapulpa:** Structural loading calculated based on 719 ft terrain assessment. Regional dispatch grid: Creek County.

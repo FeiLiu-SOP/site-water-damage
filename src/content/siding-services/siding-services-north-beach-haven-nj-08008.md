@@ -12,6 +12,7 @@ lng: -74.2100
 zipSample: ["08008"]
 zipCodes: ["08008"]
 localPaths: ["Ocean County / coords 39.6000, -74.2100", "Ocean County / ZIP 08008 sector", "Ocean County / primary ZIP 08008", "Ocean County / elevation 10 ft band"]
+zillowHomeValueUsd: 1879357
 ---
 
 **Engineering Notice for North Beach Haven:** Weather Barrier Wrap was validated under stress factor 0.74; target tolerance set near 90 mph. Coordinates: 39.6000, -74.2100. Grid anchor: Ocean County.

@@ -12,6 +12,7 @@ lng: -75.5500
 zipSample: ["18433"]
 zipCodes: ["18433"]
 localPaths: ["Lackawanna County / elevation 948 ft band", "Lackawanna County / coords 41.5300, -75.5500", "Lackawanna County / primary ZIP 18433", "Lackawanna County / ZIP 18433 sector"]
+zillowHomeValueUsd: 217659
 ---
 
 **Engineering Notice for Jermyn:** Envelope check: Surface Sheathing assigned to wind-load band C with stress factor 0.96. Elevation: 948 ft AMSL. Regional dispatch grid: Lackawanna County.

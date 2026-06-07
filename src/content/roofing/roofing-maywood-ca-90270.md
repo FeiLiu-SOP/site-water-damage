@@ -11,6 +11,7 @@ lng: -118.1900
 zipSample: ["90270"]
 zipCodes: ["90270"]
 localPaths: ["Los Angeles County / ZIP 90270 sector", "Los Angeles County / coords 33.9900, -118.1900", "Los Angeles County / primary ZIP 90270", "Los Angeles County / elevation 157 ft band"]
+zillowHomeValueUsd: 652561
 ---
 
 **Engineering Notice for Maywood:** Structural loading calculated based on 157 ft terrain assessment. Regional dispatch grid: Los Angeles County.

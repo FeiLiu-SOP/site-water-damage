@@ -12,6 +12,7 @@ lng: -94.0600
 zipSample: ["75692"]
 zipCodes: ["75692"]
 localPaths: ["Harrison County / primary ZIP 75692", "Harrison County / elevation 285 ft band", "Harrison County / coords 32.4800, -94.0600", "Harrison County / ZIP 75692 sector"]
+zillowHomeValueUsd: 187747
 ---
 
 **Engineering Notice for Waskom:** Cladding verification uses 147 mph routing baseline; lateral pressure note: 18.8 psf. Elevation: 285 ft AMSL. Coordinates: 32.4800, -94.0600. Grid: Harrison County.

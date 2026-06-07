@@ -12,6 +12,7 @@ lng: -98.0300
 zipSample: ["76457"]
 zipCodes: ["76457"]
 localPaths: ["Hamilton County / primary ZIP 76457", "Hamilton County / coords 31.9900, -98.0300", "Hamilton County / ZIP 76457 sector", "Hamilton County / elevation 1070 ft band"]
+zillowHomeValueUsd: 352120
 ---
 
 **Engineering Notice for Hico:** System optimized for 145 mg/L hard water scaling factors in Hico. Regional dispatch grid: Hamilton County.

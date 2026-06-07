@@ -12,6 +12,7 @@ lng: -75.6700
 zipSample: ["18411"]
 zipCodes: ["18411"]
 localPaths: ["Lackawanna County / coords 41.4800, -75.6700", "Lackawanna County / primary ZIP 18411", "Lackawanna County / elevation 1339 ft band", "Lackawanna County / ZIP 18411 sector"]
+zillowHomeValueUsd: 324540
 ---
 
 **Engineering Notice for Chinchilla:** Panel Replacement was validated under stress factor 0.96; target tolerance set near 109 mph. Grid anchor: Lackawanna County.

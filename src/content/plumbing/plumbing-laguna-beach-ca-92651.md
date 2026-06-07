@@ -12,6 +12,7 @@ lng: -117.7600
 zipSample: ["92651", "92652"]
 zipCodes: ["92652", "92651"]
 localPaths: ["Orange County / ZIP 92651 sector", "Orange County / elevation 696 ft band", "Orange County / coords 33.5500, -117.7600", "Orange County / ZIP 92652 sector", "Orange County / primary ZIP 92651"]
+zillowHomeValueUsd: 3022123
 ---
 
 **Engineering Notice for Laguna Beach:** Structural loading calculated based on 696 ft terrain assessment. Regional dispatch grid: Orange County.

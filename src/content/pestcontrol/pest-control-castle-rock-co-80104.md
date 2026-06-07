@@ -11,6 +11,7 @@ lng: -104.8500
 zipSample: ["80108", "80104", "80109"]
 zipCodes: ["80108", "80109", "80104"]
 localPaths: ["Douglas County / elevation 6309 ft band", "Douglas County / coords 39.3800, -104.8500", "Douglas County / ZIP 80108 sector", "Douglas County / primary ZIP 80104", "Douglas County / ZIP 80109 sector"]
+zillowHomeValueUsd: 614744
 ---
 
 **Engineering Notice for Castle Rock:** Structural loading calculated based on 6309 ft terrain assessment. Regional dispatch grid: Douglas County.

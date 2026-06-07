@@ -12,6 +12,7 @@ lng: -119.2300
 zipSample: ["93004", "93006", "93005", "93003", "93009"]
 zipCodes: ["93002", "93005", "93006", "93003", "93007", "93009", "93004", "93001"]
 localPaths: ["Ventura County / ZIP 93009 sector", "Ventura County / ZIP 93005 sector", "Ventura County / elevation 220 ft band", "Ventura County / ZIP 93006 sector", "Ventura County / ZIP 93003 sector"]
+zillowHomeValueUsd: 874624
 ---
 
 **Engineering Notice for San Buenaventura:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Ventura County.

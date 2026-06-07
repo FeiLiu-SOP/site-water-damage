@@ -12,6 +12,7 @@ lng: -89.8900
 zipSample: ["70040", "70085"]
 zipCodes: ["70085", "70040"]
 localPaths: ["St. Bernard Parish / elevation 56 ft band", "St. Bernard Parish / ZIP 70040 sector", "St. Bernard Parish / primary ZIP 70040", "St. Bernard Parish / ZIP 70085 sector", "St. Bernard Parish / coords 29.8600, -89.8900"]
+zillowHomeValueUsd: 191662
 ---
 
 **Engineering Notice for Poydras:** Site context locked to St. Bernard Parish. Exterior Envelope integrity verification recorded.

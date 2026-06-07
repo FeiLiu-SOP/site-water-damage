@@ -11,6 +11,7 @@ lng: -121.3200
 zipSample: ["95747", "95678", "95661"]
 zipCodes: ["95661", "95747", "95678"]
 localPaths: ["Placer County / ZIP 95661 sector", "Placer County / primary ZIP 95661", "Placer County / elevation 148 ft band", "Placer County / coords 38.7700, -121.3200", "Placer County / ZIP 95747 sector"]
+zillowHomeValueUsd: 692389
 ---
 
 **Engineering Notice for Roseville:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Placer County.

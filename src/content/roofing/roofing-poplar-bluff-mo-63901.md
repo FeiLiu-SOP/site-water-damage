@@ -11,6 +11,7 @@ lng: -90.4100
 zipSample: ["63901", "63902"]
 zipCodes: ["63902", "63901"]
 localPaths: ["Butler County / elevation 354 ft band", "Butler County / ZIP 63902 sector", "Butler County / ZIP 63901 sector", "Butler County / coords 36.7600, -90.4100", "Butler County / primary ZIP 63901"]
+zillowHomeValueUsd: 169506
 ---
 
 **Engineering Notice for Poplar Bluff:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Butler County.

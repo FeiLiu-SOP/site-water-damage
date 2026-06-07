@@ -11,6 +11,7 @@ lng: -74.1300
 zipSample: ["07031"]
 zipCodes: ["07031"]
 localPaths: ["Bergen County / ZIP 07031 sector", "Bergen County / elevation 92 ft band", "Bergen County / coords 40.7900, -74.1300", "Bergen County / primary ZIP 07031"]
+zillowHomeValueUsd: 619429
 ---
 
 **Engineering Notice for North Arlington:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Bergen County.

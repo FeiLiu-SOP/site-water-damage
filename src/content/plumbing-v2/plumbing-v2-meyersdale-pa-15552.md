@@ -12,6 +12,7 @@ lng: -79.0300
 zipSample: ["15552"]
 zipCodes: ["15552"]
 localPaths: ["Somerset County / ZIP 15552 sector", "Somerset County / coords 39.8100, -79.0300", "Somerset County / primary ZIP 15552", "Somerset County / elevation 1949 ft band"]
+zillowHomeValueUsd: 142703
 ---
 
 **Engineering Notice for Meyersdale:** System optimized for 165 mg/L hard water scaling factors in Meyersdale. Regional dispatch grid: Somerset County.

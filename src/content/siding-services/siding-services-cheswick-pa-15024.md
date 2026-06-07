@@ -12,6 +12,7 @@ lng: -79.8000
 zipSample: ["15024"]
 zipCodes: ["15024"]
 localPaths: ["Allegheny County / primary ZIP 15024", "Allegheny County / coords 40.5400, -79.8000", "Allegheny County / elevation 774 ft band", "Allegheny County / ZIP 15024 sector"]
+zillowHomeValueUsd: 244206
 ---
 
 **Engineering Notice for Cheswick:** Cladding verification uses 106 mph routing baseline; lateral pressure note: 13.9 psf. Elevation: 774 ft AMSL. Grid: Allegheny County.

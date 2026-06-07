@@ -12,6 +12,7 @@ lng: -82.9900
 zipSample: ["45601"]
 zipCodes: ["45601"]
 localPaths: ["Ross County / primary ZIP 45601", "Ross County / ZIP 45601 sector", "Ross County / elevation 640 ft band", "Ross County / coords 39.3400, -82.9900"]
+zillowHomeValueUsd: 196941
 ---
 
 **Engineering Notice for Chillicothe:** Structural loading calculated based on 640 ft terrain assessment. Regional dispatch grid: Ross County.

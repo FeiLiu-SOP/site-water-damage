@@ -12,6 +12,7 @@ lng: -91.5500
 zipSample: ["72521"]
 zipCodes: ["72521"]
 localPaths: ["Sharp County / elevation 650 ft band", "Sharp County / coords 35.9500, -91.5500", "Sharp County / ZIP 72521 sector", "Sharp County / primary ZIP 72521"]
+zillowHomeValueUsd: 172898
 ---
 
 **Engineering Notice for Cave City:** System optimized for 162 mg/L hard water scaling factors in Cave City. Regional dispatch grid: Sharp County.

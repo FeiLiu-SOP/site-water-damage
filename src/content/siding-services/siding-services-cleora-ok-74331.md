@@ -12,6 +12,7 @@ lng: -94.9500
 zipSample: ["74331"]
 zipCodes: ["74331"]
 localPaths: ["Delaware County / ZIP 74331 sector", "Delaware County / primary ZIP 74331", "Delaware County / elevation 797 ft band", "Delaware County / coords 36.5700, -94.9500"]
+zillowHomeValueUsd: 357940
 ---
 
 **Engineering Notice for Cleora:** Envelope check: Vinyl Panels assigned to wind-load band B with stress factor 0.91. Regional dispatch grid: Delaware County.

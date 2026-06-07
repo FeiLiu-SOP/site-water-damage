@@ -12,6 +12,7 @@ lng: -90.6400
 zipSample: ["70343", "70363"]
 zipCodes: ["70343", "70363"]
 localPaths: ["Terrebonne Parish / coords 29.5600, -90.6400", "Terrebonne Parish / elevation 16 ft band", "Terrebonne Parish / primary ZIP 70343", "Terrebonne Parish / ZIP 70343 sector", "Terrebonne Parish / ZIP 70363 sector"]
+zillowHomeValueUsd: 230071
 ---
 
 **Engineering Notice for Presquille:** System optimized for 178 mg/L hard water scaling factors in Presquille. Regional dispatch grid: Terrebonne Parish.

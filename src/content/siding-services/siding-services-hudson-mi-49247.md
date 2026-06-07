@@ -12,6 +12,7 @@ lng: -84.3500
 zipSample: ["49247"]
 zipCodes: ["49247"]
 localPaths: ["Lenawee County / coords 41.8600, -84.3500", "Lenawee County / ZIP 49247 sector", "Lenawee County / primary ZIP 49247", "Lenawee County / elevation 928 ft band"]
+zillowHomeValueUsd: 195980
 ---
 
 **Engineering Notice for Hudson:** Site context locked to Lenawee County. Elevation: 928 ft AMSL. Cladding Service integrity verification recorded.

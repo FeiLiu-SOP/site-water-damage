@@ -12,6 +12,7 @@ lng: -79.7000
 zipSample: ["15401", "15445"]
 zipCodes: ["15445", "15401"]
 localPaths: ["Fayette County / primary ZIP 15401", "Fayette County / ZIP 15401 sector", "Fayette County / elevation 1102 ft band", "Fayette County / coords 39.8800, -79.7000", "Fayette County / ZIP 15445 sector"]
+zillowHomeValueUsd: 155367
 ---
 
 **Engineering Notice for Hopwood:** System optimized for 134 mg/L hard water scaling factors in Hopwood. Regional dispatch grid: Fayette County.

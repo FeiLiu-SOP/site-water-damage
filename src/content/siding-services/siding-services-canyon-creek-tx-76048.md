@@ -12,6 +12,7 @@ lng: -97.7400
 zipSample: ["76048"]
 zipCodes: ["76048"]
 localPaths: ["Hood County / primary ZIP 76048", "Hood County / elevation 807 ft band", "Hood County / coords 32.3900, -97.7400", "Hood County / ZIP 76048 sector"]
+zillowHomeValueUsd: 311609
 ---
 
 **Engineering Notice for Canyon Creek:** Cladding verification uses 142 mph routing baseline; lateral pressure note: 18.2 psf. Elevation: 807 ft AMSL. Coordinates: 32.3900, -97.7400. Grid: Hood County.

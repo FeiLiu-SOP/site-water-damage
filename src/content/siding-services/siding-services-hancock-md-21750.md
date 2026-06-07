@@ -12,6 +12,7 @@ lng: -78.1700
 zipSample: ["21750"]
 zipCodes: ["21750"]
 localPaths: ["Washington County / primary ZIP 21750", "Washington County / coords 39.7100, -78.1700", "Washington County / ZIP 21750 sector", "Washington County / elevation 591 ft band"]
+zillowHomeValueUsd: 255461
 ---
 
 **Engineering Notice for Hancock:** Envelope check: Wall Restoration assigned to wind-load band A with stress factor 1.12. Regional dispatch grid: Washington County.

@@ -12,6 +12,7 @@ lng: -84.2300
 zipSample: ["45150"]
 zipCodes: ["45150"]
 localPaths: ["Clermont County / ZIP 45150 sector", "Clermont County / elevation 869 ft band", "Clermont County / coords 39.1800, -84.2300", "Clermont County / primary ZIP 45150"]
+zillowHomeValueUsd: 336974
 ---
 
 **Engineering Notice for Day Heights:** System optimized for 161 mg/L hard water scaling factors in Day Heights. Regional dispatch grid: Clermont County.

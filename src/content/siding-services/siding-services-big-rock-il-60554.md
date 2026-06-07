@@ -12,6 +12,7 @@ lng: -88.5300
 zipSample: ["60554", "60511"]
 zipCodes: ["60554", "60511"]
 localPaths: ["Kane County / ZIP 60511 sector", "Kane County / elevation 699 ft band", "Kane County / primary ZIP 60554", "Kane County / ZIP 60554 sector", "Kane County / coords 41.7700, -88.5300"]
+zillowHomeValueUsd: 445549
 ---
 
 **Engineering Notice for Big Rock:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Elevation: 699 ft AMSL. Coordinates: 41.7700, -88.5300. Grid: Kane County.

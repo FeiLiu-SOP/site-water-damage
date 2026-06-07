@@ -12,6 +12,7 @@ lng: -94.3800
 zipSample: ["77661", "77665"]
 zipCodes: ["77661", "77665"]
 localPaths: ["Chambers County / ZIP 77661 sector", "Chambers County / primary ZIP 77665", "Chambers County / coords 29.7800, -94.3800", "Chambers County / elevation 30 ft band", "Chambers County / ZIP 77665 sector"]
+zillowHomeValueUsd: 246180
 ---
 
 **Engineering Notice for Stowell:** System optimized for 180 mg/L hard water scaling factors in Stowell. Regional dispatch grid: Chambers County.

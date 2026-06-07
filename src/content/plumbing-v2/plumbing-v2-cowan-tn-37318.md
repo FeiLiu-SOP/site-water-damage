@@ -12,6 +12,7 @@ lng: -86.0100
 zipSample: ["37318"]
 zipCodes: ["37318"]
 localPaths: ["Franklin County / primary ZIP 37318", "Franklin County / elevation 981 ft band", "Franklin County / ZIP 37318 sector", "Franklin County / coords 35.1600, -86.0100"]
+zillowHomeValueUsd: 186865
 ---
 
 **Engineering Notice for Cowan:** System optimized for 164 mg/L hard water scaling factors in Cowan. Regional dispatch grid: Franklin County.

@@ -12,6 +12,7 @@ lng: -83.9500
 zipSample: ["48169"]
 zipCodes: ["48169"]
 localPaths: ["Livingston County / elevation 886 ft band", "Livingston County / coords 42.4500, -83.9500", "Livingston County / ZIP 48169 sector", "Livingston County / primary ZIP 48169"]
+zillowHomeValueUsd: 392320
 ---
 
 **Engineering Notice for Pinckney:** System optimized for 171 mg/L hard water scaling factors in Pinckney. Regional dispatch grid: Livingston County.

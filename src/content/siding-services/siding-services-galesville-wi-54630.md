@@ -12,6 +12,7 @@ lng: -91.3600
 zipSample: ["54630"]
 zipCodes: ["54630"]
 localPaths: ["Trempealeau County / coords 44.0800, -91.3600", "Trempealeau County / elevation 751 ft band", "Trempealeau County / primary ZIP 54630", "Trempealeau County / ZIP 54630 sector"]
+zillowHomeValueUsd: 306489
 ---
 
 **Engineering Notice for Galesville:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 0.73. Elevation: 751 ft AMSL. Regional dispatch grid: Trempealeau County.

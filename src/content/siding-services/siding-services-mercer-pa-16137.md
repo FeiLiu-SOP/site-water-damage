@@ -12,6 +12,7 @@ lng: -80.2400
 zipSample: ["16137"]
 zipCodes: ["16137"]
 localPaths: ["Mercer County / primary ZIP 16137", "Mercer County / coords 41.2300, -80.2400", "Mercer County / elevation 1263 ft band", "Mercer County / ZIP 16137 sector"]
+zillowHomeValueUsd: 216609
 ---
 
 **Engineering Notice for Mercer:** Exterior Cladding was validated under stress factor 0.99; target tolerance set near 104 mph. Coordinates: 41.2300, -80.2400. Grid anchor: Mercer County.

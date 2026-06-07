@@ -11,6 +11,7 @@ lng: -109.5400
 zipSample: ["85655", "85608", "85607"]
 zipCodes: ["85607", "85608", "85655"]
 localPaths: ["Cochise County / coords 31.3600, -109.5400", "Cochise County / ZIP 85607 sector", "Cochise County / elevation 4032 ft band", "Cochise County / primary ZIP 85608", "Cochise County / ZIP 85608 sector"]
+zillowHomeValueUsd: 174941
 ---
 
 **Engineering Notice for Douglas:** Structural loading calculated based on 4032 ft terrain assessment. Regional dispatch grid: Cochise County.

@@ -12,6 +12,7 @@ lng: -85.8700
 zipSample: ["35961"]
 zipCodes: ["35961"]
 localPaths: ["DeKalb County / elevation 846 ft band", "DeKalb County / ZIP 35961 sector", "DeKalb County / coords 34.2700, -85.8700", "DeKalb County / primary ZIP 35961"]
+zillowHomeValueUsd: 197281
 ---
 
 **Engineering Notice for Collinsville:** Site context locked to DeKalb County. Coordinates: 34.2700, -85.8700. Wall Restoration integrity verification recorded.

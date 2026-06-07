@@ -12,6 +12,7 @@ lng: -87.7600
 zipSample: ["62417"]
 zipCodes: ["62417"]
 localPaths: ["Lawrence County / coords 38.7100, -87.7600", "Lawrence County / primary ZIP 62417", "Lawrence County / elevation 456 ft band", "Lawrence County / ZIP 62417 sector"]
+zillowHomeValueUsd: 88979
 ---
 
 **Engineering Notice for Bridgeport:** structural drying capacity optimized for 456ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lawrence County. Relative Humidity Threshold: 84%. Sensor sync: Active.

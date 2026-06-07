@@ -11,6 +11,7 @@ lng: -117.4300
 zipSample: ["99212", "99209", "99260", "99202", "99210"]
 zipCodes: ["99256", "99207", "99208", "99219", "99210", "99212", "99260", "99223", "99204", "99201", "99252", "99220"]
 localPaths: ["Spokane County / ZIP 99212 sector", "Spokane County / ZIP 99209 sector", "Spokane County / ZIP 99210 sector", "Spokane County / ZIP 99202 sector", "Spokane County / ZIP 99260 sector"]
+zillowHomeValueUsd: 325819
 ---
 
 **Engineering Notice for Spokane:** Structural loading calculated based on 1900 ft terrain assessment. Regional dispatch grid: Spokane County.

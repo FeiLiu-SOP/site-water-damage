@@ -11,6 +11,7 @@ lng: -90.1500
 zipSample: ["39158", "39157"]
 zipCodes: ["39157", "39158"]
 localPaths: ["Madison County / primary ZIP 39157", "Madison County / elevation 351 ft band", "Madison County / coords 32.4200, -90.1500", "Madison County / ZIP 39157 sector", "Madison County / ZIP 39158 sector"]
+zillowHomeValueUsd: 286484
 ---
 
 **Engineering Notice for Ridgeland:** Structural loading calculated based on 351 ft terrain assessment. Regional dispatch grid: Madison County.

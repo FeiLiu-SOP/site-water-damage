@@ -12,6 +12,7 @@ lng: -73.9900
 zipSample: ["12946"]
 zipCodes: ["12946"]
 localPaths: ["Essex County / primary ZIP 12946", "Essex County / ZIP 12946 sector", "Essex County / elevation 1893 ft band", "Essex County / coords 44.2800, -73.9900"]
+zillowHomeValueUsd: 335776
 ---
 
 **Engineering Notice for Lake Placid:** System optimized for 161 mg/L hard water scaling factors in Lake Placid. Regional dispatch grid: Essex County.

@@ -12,6 +12,7 @@ lng: -89.2300
 zipSample: ["62924"]
 zipCodes: ["62924"]
 localPaths: ["Jackson County / primary ZIP 62924", "Jackson County / ZIP 62924 sector", "Jackson County / elevation 400 ft band", "Jackson County / coords 37.8200, -89.2300"]
+zillowHomeValueUsd: 108148
 ---
 
 **Engineering Notice for De Soto:** Structural integrity verification: Surface Sheathing calibrated for 95 mph localized wind load factor. Coordinates: 37.8200, -89.2300. Regional dispatch grid: Jackson County.

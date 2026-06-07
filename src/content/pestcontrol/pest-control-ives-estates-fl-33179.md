@@ -11,6 +11,7 @@ lng: -80.1800
 zipSample: ["33179"]
 zipCodes: ["33179"]
 localPaths: ["Miami-Dade County / elevation 39 ft band", "Miami-Dade County / primary ZIP 33179", "Miami-Dade County / coords 25.9600, -80.1800", "Miami-Dade County / ZIP 33179 sector"]
+zillowHomeValueUsd: 277634
 ---
 
 **Engineering Notice for Ives Estates:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

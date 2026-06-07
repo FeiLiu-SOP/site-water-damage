@@ -11,6 +11,7 @@ lng: -93.1400
 zipSample: ["55126"]
 zipCodes: ["55126"]
 localPaths: ["Ramsey County / ZIP 55126 sector", "Ramsey County / elevation 899 ft band", "Ramsey County / primary ZIP 55126", "Ramsey County / coords 45.0800, -93.1400"]
+zillowHomeValueUsd: 411324
 ---
 
 **Engineering Notice for Shoreview:** Structural loading calculated based on 899 ft terrain assessment. Regional dispatch grid: Ramsey County.

@@ -12,6 +12,7 @@ lng: -99.8800
 zipSample: ["67672"]
 zipCodes: ["67672"]
 localPaths: ["Trego County / elevation 2467 ft band", "Trego County / ZIP 67672 sector", "Trego County / coords 39.0200, -99.8800", "Trego County / primary ZIP 67672"]
+zillowHomeValueUsd: 130982
 ---
 
 **Engineering Notice for WaKeeney:** Site context locked to Trego County. Elevation: 2467 ft AMSL. Exterior Cladding integrity verification recorded.

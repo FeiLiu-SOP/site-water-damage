@@ -12,6 +12,7 @@ lng: -87.5800
 zipSample: ["47725"]
 zipCodes: ["47725"]
 localPaths: ["Vanderburgh County / primary ZIP 47725", "Vanderburgh County / ZIP 47725 sector", "Vanderburgh County / elevation 463 ft band", "Vanderburgh County / coords 38.0900, -87.5800"]
+zillowHomeValueUsd: 323461
 ---
 
 **Engineering Notice for Darmstadt:** Site context locked to Vanderburgh County. Elevation: 463 ft AMSL. Cladding Retrofit integrity verification recorded.

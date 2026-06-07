@@ -12,6 +12,8 @@ lng: -105.5900
 zipSample: ["87556"]
 zipCodes: ["87556"]
 localPaths: ["Taos County / elevation 7552 ft band", "Taos County / ZIP 87556 sector", "Taos County / coords 36.7100, -105.5900", "Taos County / primary ZIP 87556"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 307903
 ---
 
 **Engineering Notice for Questa:** System optimized for 142 mg/L hard water scaling factors in Questa. Regional dispatch grid: Taos County.

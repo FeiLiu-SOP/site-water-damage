@@ -12,6 +12,7 @@ lng: -83.1100
 zipSample: ["30553"]
 zipCodes: ["30553"]
 localPaths: ["Franklin County / primary ZIP 30553", "Franklin County / coords 34.4300, -83.1100", "Franklin County / elevation 856 ft band", "Franklin County / ZIP 30553 sector"]
+zillowHomeValueUsd: 316697
 ---
 
 **Engineering Notice for Lavonia:** System optimized for 155 mg/L hard water scaling factors in Lavonia. Regional dispatch grid: Franklin County.

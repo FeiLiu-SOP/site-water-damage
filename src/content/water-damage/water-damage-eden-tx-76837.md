@@ -12,6 +12,7 @@ lng: -99.8400
 zipSample: ["76837"]
 zipCodes: ["76837"]
 localPaths: ["Concho County / ZIP 76837 sector", "Concho County / coords 31.2200, -99.8400", "Concho County / elevation 2051 ft band", "Concho County / primary ZIP 76837"]
+zillowHomeValueUsd: 127385
 ---
 
 **Engineering Notice for Eden:** structural drying capacity optimized for 2051ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Concho County. Relative Humidity Threshold: 74%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -89.9100
 zipSample: ["54457"]
 zipCodes: ["54457"]
 localPaths: ["Wood County / ZIP 54457 sector", "Wood County / elevation 955 ft band", "Wood County / coords 44.3100, -89.9100", "Wood County / primary ZIP 54457"]
+zillowHomeValueUsd: 266150
 ---
 
 **Engineering Notice for Nekoosa:** System optimized for 149 mg/L hard water scaling factors in Nekoosa. Regional dispatch grid: Wood County.

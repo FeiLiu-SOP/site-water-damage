@@ -12,6 +12,7 @@ lng: -83.9700
 zipSample: ["45856"]
 zipCodes: ["45856"]
 localPaths: ["Putnam County / coords 41.1100, -83.9700", "Putnam County / ZIP 45856 sector", "Putnam County / primary ZIP 45856", "Putnam County / elevation 745 ft band"]
+zillowHomeValueUsd: 210836
 ---
 
 **Engineering Notice for Leipsic:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 1.02. Elevation: 745 ft AMSL. Regional dispatch grid: Putnam County.

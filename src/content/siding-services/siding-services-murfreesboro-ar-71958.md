@@ -12,6 +12,7 @@ lng: -93.6800
 zipSample: ["71958"]
 zipCodes: ["71958"]
 localPaths: ["Pike County / ZIP 71958 sector", "Pike County / primary ZIP 71958", "Pike County / elevation 358 ft band", "Pike County / coords 34.0500, -93.6800"]
+zillowHomeValueUsd: 160537
 ---
 
 **Engineering Notice for Murfreesboro:** Vinyl Panels was validated under stress factor 0.75; target tolerance set near 96 mph. Coordinates: 34.0500, -93.6800. Grid anchor: Pike County.

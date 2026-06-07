@@ -11,6 +11,7 @@ lng: -122.2600
 zipSample: ["98087", "98204"]
 zipCodes: ["98204", "98087"]
 localPaths: ["Snohomish County / ZIP 98204 sector", "Snohomish County / primary ZIP 98087", "Snohomish County / elevation 486 ft band", "Snohomish County / coords 47.8700, -122.2600", "Snohomish County / ZIP 98087 sector"]
+zillowHomeValueUsd: 751137
 ---
 
 **Engineering Notice for Lake Stickney:** Structural loading calculated based on 486 ft terrain assessment. Regional dispatch grid: Snohomish County.

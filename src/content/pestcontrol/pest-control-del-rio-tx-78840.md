@@ -11,6 +11,7 @@ lng: -100.8800
 zipSample: ["78847", "78840"]
 zipCodes: ["78847", "78840"]
 localPaths: ["Val Verde County / primary ZIP 78840", "Val Verde County / coords 29.3700, -100.8800", "Val Verde County / ZIP 78840 sector", "Val Verde County / elevation 984 ft band", "Val Verde County / ZIP 78847 sector"]
+zillowHomeValueUsd: 209854
 ---
 
 **Engineering Notice for Del Rio:** Structural loading calculated based on 984 ft terrain assessment. Regional dispatch grid: Val Verde County.

@@ -12,6 +12,7 @@ lng: -84.0000
 zipSample: ["30094", "30012", "30013"]
 zipCodes: ["30094", "30013", "30012"]
 localPaths: ["Rockdale County / ZIP 30012 sector", "Rockdale County / ZIP 30094 sector", "Rockdale County / ZIP 30013 sector", "Rockdale County / elevation 906 ft band", "Rockdale County / primary ZIP 30013"]
+zillowHomeValueUsd: 310261
 ---
 
 **Engineering Notice for Conyers:** Structural loading calculated based on 906 ft terrain assessment. Regional dispatch grid: Rockdale County.

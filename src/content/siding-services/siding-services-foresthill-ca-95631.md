@@ -12,6 +12,7 @@ lng: -120.8300
 zipSample: ["95631"]
 zipCodes: ["95631"]
 localPaths: ["Placer County / ZIP 95631 sector", "Placer County / primary ZIP 95631", "Placer County / coords 39.0100, -120.8300", "Placer County / elevation 2228 ft band"]
+zillowHomeValueUsd: 501080
 ---
 
 **Engineering Notice for Foresthill:** Structural integrity verification: Cladding Retrofit calibrated for 138 mph localized wind load factor. Coordinates: 39.0100, -120.8300. Regional dispatch grid: Placer County.

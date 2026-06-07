@@ -12,6 +12,7 @@ lng: -106.0200
 zipSample: ["87567"]
 zipCodes: ["87567"]
 localPaths: ["Santa Fe County / primary ZIP 87567", "Santa Fe County / ZIP 87567 sector", "Santa Fe County / elevation 5892 ft band", "Santa Fe County / coords 35.9900, -106.0200"]
+zillowHomeValueUsd: 328805
 ---
 
 **Engineering Notice for Cuartelez:** structural drying capacity optimized for 5892ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Santa Fe County. Relative Humidity Threshold: 80%. Sensor sync: Active.

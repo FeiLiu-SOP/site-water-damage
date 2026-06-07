@@ -11,6 +11,7 @@ lng: -122.6300
 zipSample: ["98221"]
 zipCodes: ["98221"]
 localPaths: ["Skagit County / ZIP 98221 sector", "Skagit County / primary ZIP 98221", "Skagit County / elevation 302 ft band", "Skagit County / coords 48.4900, -122.6300"]
+zillowHomeValueUsd: 720460
 ---
 
 **Engineering Notice for Anacortes:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Skagit County.

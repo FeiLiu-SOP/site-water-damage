@@ -12,6 +12,7 @@ lng: -118.3800
 zipSample: ["99169"]
 zipCodes: ["99169"]
 localPaths: ["Adams County / elevation 1808 ft band", "Adams County / primary ZIP 99169", "Adams County / ZIP 99169 sector", "Adams County / coords 47.1300, -118.3800"]
+zillowHomeValueUsd: 239029
 ---
 
 **Engineering Notice for Ritzville:** System optimized for 132 mg/L hard water scaling factors in Ritzville. Regional dispatch grid: Adams County.

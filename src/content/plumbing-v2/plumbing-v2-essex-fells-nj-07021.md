@@ -12,6 +12,7 @@ lng: -74.2800
 zipSample: ["07021"]
 zipCodes: ["07021"]
 localPaths: ["Essex County / elevation 528 ft band", "Essex County / primary ZIP 07021", "Essex County / coords 40.8300, -74.2800", "Essex County / ZIP 07021 sector"]
+zillowHomeValueUsd: 1430606
 ---
 
 **Engineering Notice for Essex Fells:** System optimized for 160 mg/L hard water scaling factors in Essex Fells. Regional dispatch grid: Essex County.

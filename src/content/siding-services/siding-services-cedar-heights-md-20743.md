@@ -12,6 +12,7 @@ lng: -76.9100
 zipSample: ["20743"]
 zipCodes: ["20743"]
 localPaths: ["Prince George's County / primary ZIP 20743", "Prince George's County / elevation 98 ft band", "Prince George's County / coords 38.9000, -76.9100", "Prince George's County / ZIP 20743 sector"]
+zillowHomeValueUsd: 334584
 ---
 
 **Engineering Notice for Cedar Heights:** Envelope check: Surface Sheathing assigned to wind-load band A with stress factor 1.13. Elevation: 98 ft AMSL. Regional dispatch grid: Prince George's County.

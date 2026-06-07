@@ -12,6 +12,8 @@ lng: -67.1800
 zipSample: ["00622"]
 zipCodes: ["00622"]
 localPaths: ["Cabo Rojo County / coords 17.9700, -67.1800", "Cabo Rojo County / primary ZIP 00622", "Cabo Rojo County / ZIP 00622 sector", "Cabo Rojo County / elevation 43 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 374880
 ---
 
 **Engineering Notice for Pole Ojea:** Structural integrity verification: Exterior Envelope calibrated for 97 mph localized wind load factor. Coordinates: 17.9700, -67.1800. Regional dispatch grid: Cabo Rojo County.

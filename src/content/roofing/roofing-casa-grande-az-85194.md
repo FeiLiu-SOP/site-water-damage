@@ -11,6 +11,7 @@ lng: -111.7600
 zipSample: ["85194", "85130", "85122", "85193"]
 zipCodes: ["85130", "85193", "85122", "85194"]
 localPaths: ["Pinal County / coords 32.9100, -111.7600", "Pinal County / ZIP 85193 sector", "Pinal County / ZIP 85194 sector", "Pinal County / primary ZIP 85194", "Pinal County / ZIP 85122 sector"]
+zillowHomeValueUsd: 362272
 ---
 
 **Engineering Notice for Casa Grande:** Structural loading calculated based on 1371 ft terrain assessment. Regional dispatch grid: Pinal County.

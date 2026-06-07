@@ -12,6 +12,7 @@ lng: -77.1900
 zipSample: ["22042"]
 zipCodes: ["22042"]
 localPaths: ["Fairfax County / ZIP 22042 sector", "Fairfax County / coords 38.8600, -77.1900", "Fairfax County / primary ZIP 22042", "Fairfax County / elevation 341 ft band"]
+zillowHomeValueUsd: 751871
 ---
 
 **Engineering Notice for West Falls Church:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Fairfax County.

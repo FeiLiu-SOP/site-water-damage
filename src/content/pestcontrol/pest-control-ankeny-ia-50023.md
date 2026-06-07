@@ -11,6 +11,7 @@ lng: -93.6000
 zipSample: ["50023", "50021"]
 zipCodes: ["50023", "50021"]
 localPaths: ["Polk County / primary ZIP 50023", "Polk County / ZIP 50021 sector", "Polk County / ZIP 50023 sector", "Polk County / coords 41.7300, -93.6000", "Polk County / elevation 991 ft band"]
+zillowHomeValueUsd: 353310
 ---
 
 **Engineering Notice for Ankeny:** Structural loading calculated based on 991 ft terrain assessment. Regional dispatch grid: Polk County.

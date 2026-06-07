@@ -12,6 +12,7 @@ lng: -84.4300
 zipSample: ["45308"]
 zipCodes: ["45308"]
 localPaths: ["Miami County / ZIP 45308 sector", "Miami County / elevation 991 ft band", "Miami County / coords 40.1300, -84.4300", "Miami County / primary ZIP 45308"]
+zillowHomeValueUsd: 205981
 ---
 
 **Engineering Notice for Bradford:** Panel Replacement was validated under stress factor 1.13; target tolerance set near 104 mph. Coordinates: 40.1300, -84.4300. Grid anchor: Miami County.

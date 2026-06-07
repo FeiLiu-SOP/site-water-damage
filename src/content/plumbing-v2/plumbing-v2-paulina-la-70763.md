@@ -12,6 +12,7 @@ lng: -90.7200
 zipSample: ["70763"]
 zipCodes: ["70763"]
 localPaths: ["St. James Parish / primary ZIP 70763", "St. James Parish / ZIP 70763 sector", "St. James Parish / coords 30.0400, -90.7200", "St. James Parish / elevation 16 ft band"]
+zillowHomeValueUsd: 309253
 ---
 
 **Engineering Notice for Paulina:** System optimized for 122 mg/L hard water scaling factors in Paulina. Regional dispatch grid: St. James Parish.

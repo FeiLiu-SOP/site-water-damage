@@ -12,6 +12,7 @@ lng: -92.9300
 zipSample: ["55037"]
 zipCodes: ["55037"]
 localPaths: ["Pine County / ZIP 55037 sector", "Pine County / primary ZIP 55037", "Pine County / coords 46.0100, -92.9300", "Pine County / elevation 1017 ft band"]
+zillowHomeValueUsd: 190215
 ---
 
 **Engineering Notice for Hinckley:** Structural integrity verification: Facade Renewal calibrated for 99 mph localized wind load factor. Elevation: 1017 ft AMSL. Regional dispatch grid: Pine County.

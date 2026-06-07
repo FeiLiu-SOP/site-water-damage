@@ -12,6 +12,7 @@ lng: -82.4800
 zipSample: ["30817"]
 zipCodes: ["30817"]
 localPaths: ["Lincoln County / ZIP 30817 sector", "Lincoln County / elevation 502 ft band", "Lincoln County / coords 33.7900, -82.4800", "Lincoln County / primary ZIP 30817"]
+zillowHomeValueUsd: 267004
 ---
 
 **Engineering Notice for Lincolnton:** Site context locked to Lincoln County. Surface Sheathing integrity verification recorded.

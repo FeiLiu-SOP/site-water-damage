@@ -11,6 +11,7 @@ lng: -92.9600
 zipSample: ["55025"]
 zipCodes: ["55025"]
 localPaths: ["Washington County / elevation 932 ft band", "Washington County / ZIP 55025 sector", "Washington County / coords 45.2500, -92.9600", "Washington County / primary ZIP 55025"]
+zillowHomeValueUsd: 431159
 ---
 
 **Engineering Notice for Forest Lake:** Structural loading calculated based on 932 ft terrain assessment. Regional dispatch grid: Washington County.

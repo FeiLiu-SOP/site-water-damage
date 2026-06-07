@@ -12,6 +12,7 @@ lng: -90.4000
 zipSample: ["62092"]
 zipCodes: ["62092"]
 localPaths: ["Greene County / elevation 587 ft band", "Greene County / ZIP 62092 sector", "Greene County / primary ZIP 62092", "Greene County / coords 39.4400, -90.4000"]
+zillowHomeValueUsd: 63873
 ---
 
 **Engineering Notice for White Hall:** Envelope check: Panel Replacement assigned to wind-load band B with stress factor 0.91. Regional dispatch grid: Greene County.

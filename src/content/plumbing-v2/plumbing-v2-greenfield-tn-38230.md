@@ -12,6 +12,7 @@ lng: -88.8000
 zipSample: ["38230"]
 zipCodes: ["38230"]
 localPaths: ["Weakley County / primary ZIP 38230", "Weakley County / ZIP 38230 sector", "Weakley County / coords 36.1600, -88.8000", "Weakley County / elevation 440 ft band"]
+zillowHomeValueUsd: 153689
 ---
 
 **Engineering Notice for Greenfield:** System optimized for 125 mg/L hard water scaling factors in Greenfield. Regional dispatch grid: Weakley County.

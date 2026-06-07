@@ -12,6 +12,7 @@ lng: -89.4800
 zipSample: ["38080"]
 zipCodes: ["38080"]
 localPaths: ["Lake County / coords 36.2600, -89.4800", "Lake County / elevation 289 ft band", "Lake County / ZIP 38080 sector", "Lake County / primary ZIP 38080"]
+zillowHomeValueUsd: 111137
 ---
 
 **Engineering Notice for Ridgely:** structural drying capacity optimized for 289ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lake County. Relative Humidity Threshold: 76%. Sensor sync: Active.

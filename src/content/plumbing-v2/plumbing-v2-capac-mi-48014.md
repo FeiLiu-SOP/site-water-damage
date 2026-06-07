@@ -12,6 +12,7 @@ lng: -82.9300
 zipSample: ["48014"]
 zipCodes: ["48014"]
 localPaths: ["St. Clair County / elevation 810 ft band", "St. Clair County / primary ZIP 48014", "St. Clair County / ZIP 48014 sector", "St. Clair County / coords 43.0100, -82.9300"]
+zillowHomeValueUsd: 249943
 ---
 
 **Engineering Notice for Capac:** System optimized for 135 mg/L hard water scaling factors in Capac. Regional dispatch grid: St. Clair County.

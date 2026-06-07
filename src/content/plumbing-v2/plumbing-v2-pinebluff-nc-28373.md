@@ -12,6 +12,7 @@ lng: -79.4700
 zipSample: ["28373"]
 zipCodes: ["28373"]
 localPaths: ["Moore County / ZIP 28373 sector", "Moore County / elevation 430 ft band", "Moore County / primary ZIP 28373", "Moore County / coords 35.1100, -79.4700"]
+zillowHomeValueUsd: 294054
 ---
 
 **Engineering Notice for Pinebluff:** System optimized for 154 mg/L hard water scaling factors in Pinebluff. Regional dispatch grid: Moore County.

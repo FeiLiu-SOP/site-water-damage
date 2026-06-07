@@ -11,6 +11,7 @@ lng: -122.5900
 zipSample: ["97045"]
 zipCodes: ["97045"]
 localPaths: ["Clackamas County / primary ZIP 97045", "Clackamas County / ZIP 97045 sector", "Clackamas County / elevation 469 ft band", "Clackamas County / coords 45.3400, -122.5900"]
+zillowHomeValueUsd: 602891
 ---
 
 **Engineering Notice for Oregon City:** Structural loading calculated based on 469 ft terrain assessment. Regional dispatch grid: Clackamas County.

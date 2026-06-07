@@ -12,6 +12,7 @@ lng: -94.3000
 zipSample: ["56468"]
 zipCodes: ["56468"]
 localPaths: ["Crow Wing County / ZIP 56468 sector", "Crow Wing County / elevation 1234 ft band", "Crow Wing County / primary ZIP 56468", "Crow Wing County / coords 46.5000, -94.3000"]
+zillowHomeValueUsd: 605763
 ---
 
 **Engineering Notice for Nisswa:** Structural integrity verification: Panel Replacement calibrated for 108 mph localized wind load factor. Regional dispatch grid: Crow Wing County.

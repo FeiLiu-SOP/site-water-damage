@@ -12,6 +12,7 @@ lng: -101.2200
 zipSample: ["73945"]
 zipCodes: ["73945"]
 localPaths: ["Texas County / coords 36.8600, -101.2200", "Texas County / elevation 2995 ft band", "Texas County / primary ZIP 73945", "Texas County / ZIP 73945 sector"]
+zillowHomeValueUsd: 159439
 ---
 
 **Engineering Notice for Hooker:** Cladding verification uses 97 mph routing baseline; lateral pressure note: 12.8 psf. Coordinates: 36.8600, -101.2200. Grid: Texas County.

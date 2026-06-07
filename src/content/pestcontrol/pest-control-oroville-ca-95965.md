@@ -11,6 +11,7 @@ lng: -121.5600
 zipSample: ["95966", "95965", "95940"]
 zipCodes: ["95940", "95965", "95966"]
 localPaths: ["Butte County / ZIP 95940 sector", "Butte County / elevation 154 ft band", "Butte County / coords 39.5000, -121.5600", "Butte County / ZIP 95966 sector", "Butte County / ZIP 95965 sector"]
+zillowHomeValueUsd: 305149
 ---
 
 **Engineering Notice for Oroville:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Butte County.

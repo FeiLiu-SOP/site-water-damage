@@ -12,6 +12,7 @@ lng: -90.6400
 zipSample: ["63650"]
 zipCodes: ["63650"]
 localPaths: ["Iron County / coords 37.6000, -90.6400", "Iron County / elevation 1037 ft band", "Iron County / primary ZIP 63650", "Iron County / ZIP 63650 sector"]
+zillowHomeValueUsd: 132472
 ---
 
 **Engineering Notice for Ironton:** System optimized for 124 mg/L hard water scaling factors in Ironton. Regional dispatch grid: Iron County.

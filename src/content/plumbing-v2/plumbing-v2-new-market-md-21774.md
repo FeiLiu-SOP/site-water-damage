@@ -12,6 +12,7 @@ lng: -77.2800
 zipSample: ["21770", "21774"]
 zipCodes: ["21774", "21770"]
 localPaths: ["Frederick County / elevation 479 ft band", "Frederick County / coords 39.3900, -77.2800", "Frederick County / ZIP 21774 sector", "Frederick County / ZIP 21770 sector", "Frederick County / primary ZIP 21774"]
+zillowHomeValueUsd: 604044
 ---
 
 **Engineering Notice for New Market:** System optimized for 168 mg/L hard water scaling factors in New Market. Regional dispatch grid: Frederick County.

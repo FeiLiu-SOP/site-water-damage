@@ -12,6 +12,7 @@ lng: -121.5500
 zipSample: ["97044", "97031"]
 zipCodes: ["97031", "97044"]
 localPaths: ["Hood River County / elevation 719 ft band", "Hood River County / ZIP 97044 sector", "Hood River County / coords 45.6400, -121.5500", "Hood River County / primary ZIP 97031", "Hood River County / ZIP 97031 sector"]
+zillowHomeValueUsd: 712314
 ---
 
 **Engineering Notice for Odell:** Envelope check: Cladding Service assigned to wind-load band A with stress factor 1.07. Regional dispatch grid: Hood River County.

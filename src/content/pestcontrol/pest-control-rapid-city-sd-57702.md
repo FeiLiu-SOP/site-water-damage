@@ -11,6 +11,7 @@ lng: -103.2200
 zipSample: ["57702", "57701", "57703"]
 zipCodes: ["57703", "57702", "57701"]
 localPaths: ["Pennington County / primary ZIP 57702", "Pennington County / ZIP 57703 sector", "Pennington County / ZIP 57701 sector", "Pennington County / elevation 3379 ft band", "Pennington County / ZIP 57702 sector"]
+zillowHomeValueUsd: 448783
 ---
 
 **Engineering Notice for Rapid City:** Structural loading calculated based on 3379 ft terrain assessment. Regional dispatch grid: Pennington County.

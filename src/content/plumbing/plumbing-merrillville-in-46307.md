@@ -12,6 +12,7 @@ lng: -87.3200
 zipSample: ["46401", "46307", "46410", "46411"]
 zipCodes: ["46307", "46410", "46401", "46411"]
 localPaths: ["Lake County / elevation 679 ft band", "Lake County / coords 41.4700, -87.3200", "Lake County / ZIP 46307 sector", "Lake County / ZIP 46411 sector", "Lake County / ZIP 46401 sector"]
+zillowHomeValueUsd: 353906
 ---
 
 **Engineering Notice for Merrillville:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: Lake County.

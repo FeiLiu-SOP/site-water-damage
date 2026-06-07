@@ -11,6 +11,7 @@ lng: -79.8300
 zipSample: ["27412", "27420", "27405", "27406", "27407"]
 zipCodes: ["27405", "27407", "27420", "27495", "27403", "27455", "27417", "27409", "27235", "27435", "27404", "27413"]
 localPaths: ["Guilford County / coords 36.1000, -79.8300", "Guilford County / primary ZIP 27411", "Guilford County / elevation 820 ft band", "Guilford County / ZIP 27412 sector", "Guilford County / ZIP 27405 sector"]
+zillowHomeValueUsd: 228238
 ---
 
 **Engineering Notice for Greensboro:** Structural loading calculated based on 820 ft terrain assessment. Regional dispatch grid: Guilford County.

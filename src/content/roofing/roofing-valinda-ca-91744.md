@@ -11,6 +11,7 @@ lng: -117.9300
 zipSample: ["91744"]
 zipCodes: ["91744"]
 localPaths: ["Los Angeles County / elevation 390 ft band", "Los Angeles County / ZIP 91744 sector", "Los Angeles County / primary ZIP 91744", "Los Angeles County / coords 34.0400, -117.9300"]
+zillowHomeValueUsd: 740975
 ---
 
 **Engineering Notice for Valinda:** Structural loading calculated based on 390 ft terrain assessment. Regional dispatch grid: Los Angeles County.

@@ -12,6 +12,7 @@ lng: -92.1800
 zipSample: ["72132"]
 zipCodes: ["72132"]
 localPaths: ["Jefferson County / elevation 302 ft band", "Jefferson County / primary ZIP 72132", "Jefferson County / ZIP 72132 sector", "Jefferson County / coords 34.4400, -92.1800"]
+zillowHomeValueUsd: 188647
 ---
 
 **Engineering Notice for Redfield:** System optimized for 137 mg/L hard water scaling factors in Redfield. Regional dispatch grid: Jefferson County.

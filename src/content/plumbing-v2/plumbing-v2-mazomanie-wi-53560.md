@@ -12,6 +12,7 @@ lng: -89.8000
 zipSample: ["53560"]
 zipCodes: ["53560"]
 localPaths: ["Dane County / elevation 804 ft band", "Dane County / coords 43.1700, -89.8000", "Dane County / ZIP 53560 sector", "Dane County / primary ZIP 53560"]
+zillowHomeValueUsd: 425612
 ---
 
 **Engineering Notice for Mazomanie:** System optimized for 145 mg/L hard water scaling factors in Mazomanie. Regional dispatch grid: Dane County.

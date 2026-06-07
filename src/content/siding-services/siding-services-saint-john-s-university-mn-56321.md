@@ -12,6 +12,8 @@ lng: -94.3900
 zipSample: ["56321"]
 zipCodes: ["56321"]
 localPaths: ["Stearns County / ZIP 56321 sector", "Stearns County / primary ZIP 56321", "Stearns County / coords 45.5800, -94.3900", "Stearns County / elevation 1227 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 296830
 ---
 
 **Engineering Notice for Saint John's University:** Vinyl Panels was validated under stress factor 0.83; target tolerance set near 90 mph. Grid anchor: Stearns County.

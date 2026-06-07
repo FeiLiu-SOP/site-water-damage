@@ -12,6 +12,7 @@ lng: -88.0800
 zipSample: ["60193", "60195", "60168", "60173", "60194"]
 zipCodes: ["60173", "60194", "60193", "60168", "60195", "60196"]
 localPaths: ["Cook County / coords 42.0300, -88.0800", "Cook County / ZIP 60173 sector", "Cook County / ZIP 60194 sector", "Cook County / ZIP 60168 sector", "Cook County / ZIP 60193 sector"]
+zillowHomeValueUsd: 362745
 ---
 
 **Engineering Notice for Schaumburg:** Structural loading calculated based on 801 ft terrain assessment. Regional dispatch grid: Cook County.

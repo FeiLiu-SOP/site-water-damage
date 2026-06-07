@@ -12,6 +12,7 @@ lng: -122.1100
 zipSample: ["98296"]
 zipCodes: ["98296"]
 localPaths: ["Snohomish County / ZIP 98296 sector", "Snohomish County / elevation 384 ft band", "Snohomish County / primary ZIP 98296", "Snohomish County / coords 47.8500, -122.1100"]
+zillowHomeValueUsd: 1059007
 ---
 
 **Engineering Notice for Cathcart:** Cladding Retrofit was validated under stress factor 0.82; target tolerance set near 96 mph. Coordinates: 47.8500, -122.1100. Grid anchor: Snohomish County.

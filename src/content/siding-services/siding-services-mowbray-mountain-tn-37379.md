@@ -12,6 +12,7 @@ lng: -85.2200
 zipSample: ["37379"]
 zipCodes: ["37379"]
 localPaths: ["Hamilton County / ZIP 37379 sector", "Hamilton County / primary ZIP 37379", "Hamilton County / elevation 1657 ft band", "Hamilton County / coords 35.2800, -85.2200"]
+zillowHomeValueUsd: 359754
 ---
 
 **Engineering Notice for Mowbray Mountain:** Weather Barrier Wrap was validated under stress factor 1.11; target tolerance set near 105 mph. Grid anchor: Hamilton County.

@@ -12,6 +12,7 @@ lng: -76.1700
 zipSample: ["17965"]
 zipCodes: ["17965"]
 localPaths: ["Schuylkill County / coords 40.7000, -76.1700", "Schuylkill County / ZIP 17965 sector", "Schuylkill County / primary ZIP 17965", "Schuylkill County / elevation 669 ft band"]
+zillowHomeValueUsd: 125603
 ---
 
 **Engineering Notice for Port Carbon:** System optimized for 161 mg/L hard water scaling factors in Port Carbon. Regional dispatch grid: Schuylkill County.

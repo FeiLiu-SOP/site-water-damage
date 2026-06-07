@@ -12,6 +12,7 @@ lng: -119.0800
 zipSample: ["97738"]
 zipCodes: ["97738"]
 localPaths: ["Harney County / coords 43.5600, -119.0800", "Harney County / primary ZIP 97738", "Harney County / elevation 4147 ft band", "Harney County / ZIP 97738 sector"]
+zillowHomeValueUsd: 227225
 ---
 
 **Engineering Notice for Hines:** structural drying capacity optimized for 4147ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harney County. Relative Humidity Threshold: 66%. Sensor sync: Active.

@@ -12,6 +12,8 @@ lng: -91.5700
 zipSample: ["72064"]
 zipCodes: ["72064"]
 localPaths: ["Prairie County / primary ZIP 72064", "Prairie County / ZIP 72064 sector", "Prairie County / coords 34.8000, -91.5700", "Prairie County / elevation 230 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 189137
 ---
 
 **Engineering Notice for Hazen:** System optimized for 136 mg/L hard water scaling factors in Hazen. Regional dispatch grid: Prairie County.

@@ -11,6 +11,7 @@ lng: -87.6500
 zipSample: ["60426"]
 zipCodes: ["60426"]
 localPaths: ["Cook County / primary ZIP 60426", "Cook County / coords 41.6100, -87.6500", "Cook County / ZIP 60426 sector", "Cook County / elevation 614 ft band"]
+zillowHomeValueUsd: 101401
 ---
 
 **Engineering Notice for Harvey:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Cook County.

@@ -12,6 +12,7 @@ lng: -84.2300
 zipSample: ["45150"]
 zipCodes: ["45150"]
 localPaths: ["Clermont County / primary ZIP 45150", "Clermont County / elevation 869 ft band", "Clermont County / ZIP 45150 sector", "Clermont County / coords 39.1800, -84.2300"]
+zillowHomeValueUsd: 336975
 ---
 
 **Engineering Notice for Day Heights:** Structural integrity verification: Cladding Service calibrated for 101 mph localized wind load factor. Elevation: 869 ft AMSL. Coordinates: 39.1800, -84.2300. Regional dispatch grid: Clermont County.

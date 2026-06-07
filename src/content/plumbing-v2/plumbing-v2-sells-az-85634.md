@@ -12,6 +12,8 @@ lng: -111.8800
 zipSample: ["85634"]
 zipCodes: ["85634"]
 localPaths: ["Pima County / coords 31.9200, -111.8800", "Pima County / ZIP 85634 sector", "Pima County / primary ZIP 85634", "Pima County / elevation 2388 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 446723
 ---
 
 **Engineering Notice for Sells:** System optimized for 123 mg/L hard water scaling factors in Sells. Regional dispatch grid: Pima County.

@@ -11,6 +11,7 @@ lng: -96.7300
 zipSample: ["57105", "57109", "57103", "57104", "57117"]
 zipCodes: ["57105", "57109", "57117", "57108", "57103", "57193", "57104", "57107", "57186", "57101", "57197", "57106"]
 localPaths: ["Minnehaha County / ZIP 57103 sector", "Minnehaha County / ZIP 57109 sector", "Minnehaha County / ZIP 57105 sector", "Minnehaha County / ZIP 57104 sector", "Minnehaha County / ZIP 57117 sector"]
+zillowHomeValueUsd: 434389
 ---
 
 **Engineering Notice for Sioux Falls:** Structural loading calculated based on 1467 ft terrain assessment. Regional dispatch grid: Minnehaha County.

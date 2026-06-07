@@ -12,6 +12,7 @@ lng: -97.0600
 zipSample: ["74647"]
 zipCodes: ["74647"]
 localPaths: ["Kay County / ZIP 74647 sector", "Kay County / coords 36.8800, -97.0600", "Kay County / elevation 1165 ft band", "Kay County / primary ZIP 74647"]
+zillowHomeValueUsd: 131697
 ---
 
 **Engineering Notice for Newkirk:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Elevation: 1165 ft AMSL. Grid: Kay County.

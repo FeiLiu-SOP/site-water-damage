@@ -12,6 +12,7 @@ lng: -122.6700
 zipSample: ["94951"]
 zipCodes: ["94951"]
 localPaths: ["Sonoma County / coords 38.3000, -122.6700", "Sonoma County / elevation 85 ft band", "Sonoma County / primary ZIP 94951", "Sonoma County / ZIP 94951 sector"]
+zillowHomeValueUsd: 1261646
 ---
 
 **Engineering Notice for Penngrove:** Weather Barrier Wrap was validated under stress factor 0.96; target tolerance set near 147 mph. Grid anchor: Sonoma County.

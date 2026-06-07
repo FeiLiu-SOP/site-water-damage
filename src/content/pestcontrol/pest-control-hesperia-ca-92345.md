@@ -11,6 +11,7 @@ lng: -117.3100
 zipSample: ["92345", "92344", "92340"]
 zipCodes: ["92345", "92340", "92344"]
 localPaths: ["San Bernardino County / coords 34.4000, -117.3100", "San Bernardino County / primary ZIP 92345", "San Bernardino County / elevation 3346 ft band", "San Bernardino County / ZIP 92344 sector", "San Bernardino County / ZIP 92340 sector"]
+zillowHomeValueUsd: 445154
 ---
 
 **Engineering Notice for Hesperia:** Structural loading calculated based on 3346 ft terrain assessment. Regional dispatch grid: San Bernardino County.

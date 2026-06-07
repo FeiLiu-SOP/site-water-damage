@@ -12,6 +12,7 @@ lng: -88.2400
 zipSample: ["60013"]
 zipCodes: ["60013"]
 localPaths: ["McHenry County / primary ZIP 60013", "McHenry County / coords 42.2500, -88.2400", "McHenry County / elevation 801 ft band", "McHenry County / ZIP 60013 sector"]
+zillowHomeValueUsd: 370770
 ---
 
 **Engineering Notice for Oakwood Hills:** Envelope check: Cladding Retrofit assigned to wind-load band C with stress factor 0.93. Elevation: 801 ft AMSL. Regional dispatch grid: McHenry County.

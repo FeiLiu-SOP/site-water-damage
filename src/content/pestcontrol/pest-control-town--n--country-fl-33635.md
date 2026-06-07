@@ -11,6 +11,7 @@ lng: -82.5800
 zipSample: ["33615", "33685", "33635", "33634"]
 zipCodes: ["33685", "33615", "33635", "33634"]
 localPaths: ["Hillsborough County / elevation 30 ft band", "Hillsborough County / ZIP 33635 sector", "Hillsborough County / ZIP 33634 sector", "Hillsborough County / ZIP 33685 sector", "Hillsborough County / ZIP 33615 sector"]
+zillowHomeValueUsd: 445887
 ---
 
 **Engineering Notice for Town 'n' Country:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Hillsborough County.

@@ -12,6 +12,7 @@ lng: -76.6700
 zipSample: ["20754"]
 zipCodes: ["20754"]
 localPaths: ["Calvert County / elevation 102 ft band", "Calvert County / coords 38.7200, -76.6700", "Calvert County / ZIP 20754 sector", "Calvert County / primary ZIP 20754"]
+zillowHomeValueUsd: 637495
 ---
 
 **Engineering Notice for Dunkirk:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Elevation: 102 ft AMSL. Coordinates: 38.7200, -76.6700. Grid: Calvert County.

@@ -12,6 +12,7 @@ lng: -111.9300
 zipSample: ["84405"]
 zipCodes: ["84405"]
 localPaths: ["Weber County / primary ZIP 84405", "Weber County / coords 41.1400, -111.9300", "Weber County / elevation 4511 ft band", "Weber County / ZIP 84405 sector"]
+zillowHomeValueUsd: 460512
 ---
 
 **Engineering Notice for Uintah:** System optimized for 169 mg/L hard water scaling factors in Uintah. Regional dispatch grid: Weber County.

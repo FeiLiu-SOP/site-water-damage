@@ -11,6 +11,7 @@ lng: -81.4300
 zipSample: ["44097", "44095"]
 zipCodes: ["44095", "44097"]
 localPaths: ["Lake County / coords 41.6600, -81.4300", "Lake County / elevation 627 ft band", "Lake County / ZIP 44097 sector", "Lake County / ZIP 44095 sector", "Lake County / primary ZIP 44095"]
+zillowHomeValueUsd: 197721
 ---
 
 **Engineering Notice for Eastlake:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Lake County.

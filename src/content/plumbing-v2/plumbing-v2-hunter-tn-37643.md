@@ -12,6 +12,7 @@ lng: -82.1500
 zipSample: ["37643"]
 zipCodes: ["37643"]
 localPaths: ["Carter County / coords 36.4000, -82.1500", "Carter County / primary ZIP 37643", "Carter County / elevation 2963 ft band", "Carter County / ZIP 37643 sector"]
+zillowHomeValueUsd: 230352
 ---
 
 **Engineering Notice for Hunter:** System optimized for 158 mg/L hard water scaling factors in Hunter. Regional dispatch grid: Carter County.

@@ -12,6 +12,7 @@ lng: -119.8800
 zipSample: ["89411", "89449"]
 zipCodes: ["89449", "89411"]
 localPaths: ["Douglas County / coords 38.9900, -119.8800", "Douglas County / elevation 8005 ft band", "Douglas County / ZIP 89411 sector", "Douglas County / primary ZIP 89449", "Douglas County / ZIP 89449 sector"]
+zillowHomeValueUsd: 763622
 ---
 
 **Engineering Notice for Kingsbury:** structural drying capacity optimized for 8005ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Douglas County. Relative Humidity Threshold: 71%. Sensor sync: Active.

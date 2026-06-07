@@ -12,6 +12,7 @@ lng: -93.2000
 zipSample: ["55113", "55108"]
 zipCodes: ["55108", "55113"]
 localPaths: ["Ramsey County / elevation 971 ft band", "Ramsey County / primary ZIP 55113", "Ramsey County / coords 44.9900, -93.2000", "Ramsey County / ZIP 55108 sector", "Ramsey County / ZIP 55113 sector"]
+zillowHomeValueUsd: 375062
 ---
 
 **Engineering Notice for Lauderdale:** System optimized for 159 mg/L hard water scaling factors in Lauderdale. Regional dispatch grid: Ramsey County.

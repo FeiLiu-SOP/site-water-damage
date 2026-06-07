@@ -12,6 +12,7 @@ lng: -82.5800
 zipSample: ["24251"]
 zipCodes: ["24251"]
 localPaths: ["Scott County / ZIP 24251 sector", "Scott County / coords 36.6400, -82.5800", "Scott County / elevation 1339 ft band", "Scott County / primary ZIP 24251"]
+zillowHomeValueUsd: 172402
 ---
 
 **Engineering Notice for Gate City:** Envelope check: Vinyl Panels assigned to wind-load band B with stress factor 0.93. Elevation: 1339 ft AMSL. Regional dispatch grid: Scott County.

@@ -12,6 +12,7 @@ lng: -122.7100
 zipSample: ["98312", "98310", "98337", "98314"]
 zipCodes: ["98310", "98337", "98312", "98314"]
 localPaths: ["Kitsap County / coords 47.5400, -122.7100", "Kitsap County / primary ZIP 98312", "Kitsap County / ZIP 98337 sector", "Kitsap County / ZIP 98314 sector", "Kitsap County / ZIP 98312 sector"]
+zillowHomeValueUsd: 497809
 ---
 
 **Engineering Notice for Bremerton:** Structural loading calculated based on 518 ft terrain assessment. Regional dispatch grid: Kitsap County.

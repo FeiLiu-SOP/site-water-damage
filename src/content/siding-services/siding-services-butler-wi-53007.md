@@ -12,6 +12,7 @@ lng: -88.0700
 zipSample: ["53007"]
 zipCodes: ["53007"]
 localPaths: ["Waukesha County / elevation 768 ft band", "Waukesha County / ZIP 53007 sector", "Waukesha County / coords 43.1100, -88.0700", "Waukesha County / primary ZIP 53007"]
+zillowHomeValueUsd: 288579
 ---
 
 **Engineering Notice for Butler:** Wall Restoration was validated under stress factor 0.77; target tolerance set near 105 mph. Coordinates: 43.1100, -88.0700. Grid anchor: Waukesha County.

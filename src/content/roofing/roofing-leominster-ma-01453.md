@@ -11,6 +11,7 @@ lng: -71.7700
 zipSample: ["01453"]
 zipCodes: ["01453"]
 localPaths: ["Worcester County / ZIP 01453 sector", "Worcester County / elevation 502 ft band", "Worcester County / primary ZIP 01453", "Worcester County / coords 42.5200, -71.7700"]
+zillowHomeValueUsd: 463728
 ---
 
 **Engineering Notice for Leominster:** Structural loading calculated based on 502 ft terrain assessment. Regional dispatch grid: Worcester County.

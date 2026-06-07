@@ -12,6 +12,7 @@ lng: -81.5800
 zipSample: ["29379"]
 zipCodes: ["29379"]
 localPaths: ["Union County / elevation 525 ft band", "Union County / primary ZIP 29379", "Union County / coords 34.7200, -81.5800", "Union County / ZIP 29379 sector"]
+zillowHomeValueUsd: 135031
 ---
 
 **Engineering Notice for Monarch Mill:** structural drying capacity optimized for 525ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Union County. Relative Humidity Threshold: 73%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -85.8200
 zipSample: ["36010"]
 zipCodes: ["36010"]
 localPaths: ["Pike County / coords 31.7200, -85.8200", "Pike County / primary ZIP 36010", "Pike County / ZIP 36010 sector", "Pike County / elevation 482 ft band"]
+zillowHomeValueUsd: 115629
 ---
 
 **Engineering Notice for Brundidge:** System optimized for 146 mg/L hard water scaling factors in Brundidge. Regional dispatch grid: Pike County.

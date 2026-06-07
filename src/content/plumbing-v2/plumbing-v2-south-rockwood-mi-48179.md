@@ -12,6 +12,7 @@ lng: -83.2700
 zipSample: ["48179"]
 zipCodes: ["48179"]
 localPaths: ["Monroe County / primary ZIP 48179", "Monroe County / ZIP 48179 sector", "Monroe County / elevation 581 ft band", "Monroe County / coords 42.0600, -83.2700"]
+zillowHomeValueUsd: 305745
 ---
 
 **Engineering Notice for South Rockwood:** System optimized for 150 mg/L hard water scaling factors in South Rockwood. Regional dispatch grid: Monroe County.

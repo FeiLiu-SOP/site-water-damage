@@ -11,6 +11,7 @@ lng: -73.0600
 zipSample: ["06461", "06460"]
 zipCodes: ["06460", "06461"]
 localPaths: ["South Central Connecticut County / ZIP 06461 sector", "South Central Connecticut County / primary ZIP 06461", "South Central Connecticut County / ZIP 06460 sector", "South Central Connecticut County / elevation 72 ft band", "South Central Connecticut County / coords 41.2300, -73.0600"]
+zillowHomeValueUsd: 489879
 ---
 
 **Engineering Notice for Milford city:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: South Central Connecticut County.

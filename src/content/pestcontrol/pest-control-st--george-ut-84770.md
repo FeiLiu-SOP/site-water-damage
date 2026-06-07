@@ -11,6 +11,7 @@ lng: -113.5800
 zipSample: ["84790", "84770", "84791"]
 zipCodes: ["84790", "84770", "84791"]
 localPaths: ["Washington County / primary ZIP 84770", "Washington County / ZIP 84791 sector", "Washington County / ZIP 84770 sector", "Washington County / ZIP 84790 sector", "Washington County / elevation 2546 ft band"]
+zillowHomeValueUsd: 487266
 ---
 
 **Engineering Notice for St. George:** Structural loading calculated based on 2546 ft terrain assessment. Regional dispatch grid: Washington County.

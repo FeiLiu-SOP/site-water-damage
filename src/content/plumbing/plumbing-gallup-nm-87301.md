@@ -12,6 +12,7 @@ lng: -108.7400
 zipSample: ["87301"]
 zipCodes: ["87301"]
 localPaths: ["McKinley County / elevation 6647 ft band", "McKinley County / ZIP 87301 sector", "McKinley County / coords 35.5200, -108.7400", "McKinley County / primary ZIP 87301"]
+zillowHomeValueUsd: 222816
 ---
 
 **Engineering Notice for Gallup:** Structural loading calculated based on 6647 ft terrain assessment. Regional dispatch grid: McKinley County.

@@ -12,6 +12,8 @@ lng: -90.6300
 zipSample: ["70076", "70051", "70084"]
 zipCodes: ["70084", "70076", "70051"]
 localPaths: ["St. John the Baptist Parish / coords 30.0700, -90.6300", "St. John the Baptist Parish / elevation 30 ft band", "St. John the Baptist Parish / primary ZIP 70076", "St. John the Baptist Parish / ZIP 70084 sector", "St. John the Baptist Parish / ZIP 70051 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 189370
 ---
 
 **Engineering Notice for Garyville:** Weather Barrier Wrap was validated under stress factor 0.71; target tolerance set near 104 mph. Grid anchor: St. John the Baptist Parish.

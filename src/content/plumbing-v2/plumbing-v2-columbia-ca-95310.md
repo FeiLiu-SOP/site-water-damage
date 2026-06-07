@@ -12,6 +12,7 @@ lng: -120.4100
 zipSample: ["95310", "95370"]
 zipCodes: ["95370", "95310"]
 localPaths: ["Tuolumne County / elevation 2136 ft band", "Tuolumne County / ZIP 95370 sector", "Tuolumne County / coords 38.0300, -120.4100", "Tuolumne County / ZIP 95310 sector", "Tuolumne County / primary ZIP 95310"]
+zillowHomeValueUsd: 389276
 ---
 
 **Engineering Notice for Columbia:** System optimized for 131 mg/L hard water scaling factors in Columbia. Regional dispatch grid: Tuolumne County.

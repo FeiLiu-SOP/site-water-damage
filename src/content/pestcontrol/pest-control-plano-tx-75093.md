@@ -11,6 +11,7 @@ lng: -96.7500
 zipSample: ["75086", "75074", "75023", "75075", "75026"]
 zipCodes: ["75093", "75025", "75023", "75075", "75024", "75026", "75074", "75086"]
 localPaths: ["Collin County / ZIP 75075 sector", "Collin County / ZIP 75074 sector", "Collin County / ZIP 75026 sector", "Collin County / elevation 725 ft band", "Collin County / primary ZIP 75093"]
+zillowHomeValueUsd: 739321
 ---
 
 **Engineering Notice for Plano:** Structural loading calculated based on 725 ft terrain assessment. Regional dispatch grid: Collin County.

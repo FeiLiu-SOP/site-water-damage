@@ -11,6 +11,7 @@ lng: -111.9300
 zipSample: ["85283", "85284", "85282", "85285", "85280"]
 zipCodes: ["85280", "85287", "85282", "85284", "85285", "85288", "85283", "85281"]
 localPaths: ["Maricopa County / ZIP 85280 sector", "Maricopa County / ZIP 85283 sector", "Maricopa County / primary ZIP 85281", "Maricopa County / elevation 1171 ft band", "Maricopa County / ZIP 85282 sector"]
+zillowHomeValueUsd: 402213
 ---
 
 **Engineering Notice for Tempe:** Structural loading calculated based on 1171 ft terrain assessment. Regional dispatch grid: Maricopa County.

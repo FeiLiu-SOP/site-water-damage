@@ -11,6 +11,7 @@ lng: -84.1500
 zipSample: ["45429", "45419", "45420", "45409", "45479"]
 zipCodes: ["45479", "45420", "45429", "45419", "45409", "45440"]
 localPaths: ["Montgomery County / ZIP 45409 sector", "Montgomery County / elevation 1007 ft band", "Montgomery County / ZIP 45420 sector", "Montgomery County / coords 39.7000, -84.1500", "Montgomery County / ZIP 45479 sector"]
+zillowHomeValueUsd: 315836
 ---
 
 **Engineering Notice for Kettering:** Structural loading calculated based on 1007 ft terrain assessment. Regional dispatch grid: Montgomery County.

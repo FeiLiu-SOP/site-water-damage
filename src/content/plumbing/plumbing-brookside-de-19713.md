@@ -12,6 +12,7 @@ lng: -75.7200
 zipSample: ["19718", "19713"]
 zipCodes: ["19713", "19718"]
 localPaths: ["New Castle County / elevation 92 ft band", "New Castle County / ZIP 19718 sector", "New Castle County / primary ZIP 19713", "New Castle County / ZIP 19713 sector", "New Castle County / coords 39.6700, -75.7200"]
+zillowHomeValueUsd: 315003
 ---
 
 **Engineering Notice for Brookside:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: New Castle County.

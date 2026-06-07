@@ -12,6 +12,7 @@ lng: -91.7400
 zipSample: ["54822"]
 zipCodes: ["54822"]
 localPaths: ["Barron County / coords 45.4100, -91.7400", "Barron County / primary ZIP 54822", "Barron County / ZIP 54822 sector", "Barron County / elevation 1086 ft band"]
+zillowHomeValueUsd: 299929
 ---
 
 **Engineering Notice for Cameron:** System optimized for 153 mg/L hard water scaling factors in Cameron. Regional dispatch grid: Barron County.

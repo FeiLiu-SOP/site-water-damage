@@ -12,6 +12,7 @@ lng: -73.7100
 zipSample: ["11509", "11561"]
 zipCodes: ["11561", "11509"]
 localPaths: ["Nassau County / ZIP 11561 sector", "Nassau County / primary ZIP 11561", "Nassau County / ZIP 11509 sector", "Nassau County / coords 40.5900, -73.7100", "Nassau County / elevation 10 ft band"]
+zillowHomeValueUsd: 820904
 ---
 
 **Engineering Notice for East Atlantic Beach:** structural drying capacity optimized for 10ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Nassau County. Relative Humidity Threshold: 67%. Sensor sync: Active.

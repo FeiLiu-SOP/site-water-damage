@@ -12,6 +12,7 @@ lng: -86.4600
 zipSample: ["36022", "36051"]
 zipCodes: ["36051", "36022"]
 localPaths: ["Autauga County / ZIP 36051 sector", "Autauga County / elevation 479 ft band", "Autauga County / coords 32.6800, -86.4600", "Autauga County / primary ZIP 36022", "Autauga County / ZIP 36022 sector"]
+zillowHomeValueUsd: 292440
 ---
 
 **Engineering Notice for Marbury:** System optimized for 139 mg/L hard water scaling factors in Marbury. Regional dispatch grid: Autauga County.

@@ -12,6 +12,7 @@ lng: -94.3200
 zipSample: ["50250"]
 zipCodes: ["50250"]
 localPaths: ["Adair County / coords 41.5000, -94.3200", "Adair County / ZIP 50250 sector", "Adair County / primary ZIP 50250", "Adair County / elevation 1211 ft band"]
+zillowHomeValueUsd: 221134
 ---
 
 **Engineering Notice for Stuart:** System optimized for 163 mg/L hard water scaling factors in Stuart. Regional dispatch grid: Adair County.

@@ -12,6 +12,7 @@ lng: -79.9700
 zipSample: ["27025"]
 zipCodes: ["27025"]
 localPaths: ["Rockingham County / coords 36.3900, -79.9700", "Rockingham County / primary ZIP 27025", "Rockingham County / elevation 610 ft band", "Rockingham County / ZIP 27025 sector"]
+zillowHomeValueUsd: 223375
 ---
 
 **Engineering Notice for Madison:** Exterior Envelope was validated under stress factor 0.70; target tolerance set near 102 mph. Grid anchor: Rockingham County.

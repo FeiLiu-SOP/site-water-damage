@@ -12,6 +12,7 @@ lng: -75.4100
 zipSample: ["13323"]
 zipCodes: ["13323"]
 localPaths: ["Oneida County / ZIP 13323 sector", "Oneida County / coords 43.0500, -75.4100", "Oneida County / primary ZIP 13323", "Oneida County / elevation 902 ft band"]
+zillowHomeValueUsd: 297033
 ---
 
 **Engineering Notice for Hamilton College:** System optimized for 152 mg/L hard water scaling factors in Hamilton College. Regional dispatch grid: Oneida County.

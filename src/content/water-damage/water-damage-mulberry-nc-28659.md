@@ -12,6 +12,7 @@ lng: -81.1700
 zipSample: ["28659"]
 zipCodes: ["28659"]
 localPaths: ["Wilkes County / primary ZIP 28659", "Wilkes County / coords 36.2300, -81.1700", "Wilkes County / ZIP 28659 sector", "Wilkes County / elevation 1306 ft band"]
+zillowHomeValueUsd: 209874
 ---
 
 **Engineering Notice for Mulberry:** structural drying capacity optimized for 1306ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wilkes County. Relative Humidity Threshold: 78%. Sensor sync: Active.

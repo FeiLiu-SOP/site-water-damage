@@ -12,6 +12,7 @@ lng: -96.8100
 zipSample: ["75078"]
 zipCodes: ["75078"]
 localPaths: ["Collin County / ZIP 75078 sector", "Collin County / coords 33.2400, -96.8100", "Collin County / primary ZIP 75078", "Collin County / elevation 653 ft band"]
+zillowHomeValueUsd: 755869
 ---
 
 **Engineering Notice for Prosper:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Collin County.

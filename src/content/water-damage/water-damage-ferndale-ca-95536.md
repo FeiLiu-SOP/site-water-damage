@@ -12,6 +12,7 @@ lng: -124.2600
 zipSample: ["95536"]
 zipCodes: ["95536"]
 localPaths: ["Humboldt County / coords 40.5800, -124.2600", "Humboldt County / elevation 43 ft band", "Humboldt County / ZIP 95536 sector", "Humboldt County / primary ZIP 95536"]
+zillowHomeValueUsd: 504167
 ---
 
 **Engineering Notice for Ferndale:** structural drying capacity optimized for 43ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Humboldt County. Relative Humidity Threshold: 70%. Sensor sync: Active.

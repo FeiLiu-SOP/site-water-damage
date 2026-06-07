@@ -12,6 +12,7 @@ lng: -98.2000
 zipSample: ["78152", "78101"]
 zipCodes: ["78152", "78101"]
 localPaths: ["Bexar County / coords 29.4200, -98.2000", "Bexar County / elevation 610 ft band", "Bexar County / ZIP 78101 sector", "Bexar County / ZIP 78152 sector", "Bexar County / primary ZIP 78152"]
+zillowHomeValueUsd: 272834
 ---
 
 **Engineering Notice for St. Hedwig:** Site context locked to Bexar County. Elevation: 610 ft AMSL. Coordinates: 29.4200, -98.2000. Cladding Retrofit integrity verification recorded.

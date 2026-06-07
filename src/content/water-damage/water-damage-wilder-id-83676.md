@@ -12,6 +12,7 @@ lng: -116.9100
 zipSample: ["83676"]
 zipCodes: ["83676"]
 localPaths: ["Canyon County / elevation 2425 ft band", "Canyon County / coords 43.6800, -116.9100", "Canyon County / ZIP 83676 sector", "Canyon County / primary ZIP 83676"]
+zillowHomeValueUsd: 543278
 ---
 
 **Engineering Notice for Wilder:** structural drying capacity optimized for 2425ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Canyon County. Relative Humidity Threshold: 82%. Sensor sync: Active.

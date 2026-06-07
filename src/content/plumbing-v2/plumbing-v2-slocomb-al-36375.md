@@ -12,6 +12,7 @@ lng: -85.6000
 zipSample: ["36349", "36375"]
 zipCodes: ["36349", "36375"]
 localPaths: ["Geneva County / primary ZIP 36375", "Geneva County / elevation 312 ft band", "Geneva County / coords 31.1100, -85.6000", "Geneva County / ZIP 36349 sector", "Geneva County / ZIP 36375 sector"]
+zillowHomeValueUsd: 173827
 ---
 
 **Engineering Notice for Slocomb:** System optimized for 136 mg/L hard water scaling factors in Slocomb. Regional dispatch grid: Geneva County.

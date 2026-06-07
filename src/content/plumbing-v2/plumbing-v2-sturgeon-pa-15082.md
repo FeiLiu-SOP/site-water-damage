@@ -12,6 +12,7 @@ lng: -80.2200
 zipSample: ["15082", "15057"]
 zipCodes: ["15057", "15082"]
 localPaths: ["Allegheny County / primary ZIP 15082", "Allegheny County / ZIP 15057 sector", "Allegheny County / elevation 1047 ft band", "Allegheny County / coords 40.3800, -80.2200", "Allegheny County / ZIP 15082 sector"]
+zillowHomeValueUsd: 189650
 ---
 
 **Engineering Notice for Sturgeon:** System optimized for 167 mg/L hard water scaling factors in Sturgeon. Regional dispatch grid: Allegheny County.

@@ -12,6 +12,7 @@ lng: -120.1100
 zipSample: ["96145"]
 zipCodes: ["96145"]
 localPaths: ["Placer County / coords 39.1900, -120.1100", "Placer County / ZIP 96145 sector", "Placer County / elevation 6444 ft band", "Placer County / primary ZIP 96145"]
+zillowHomeValueUsd: 1237369
 ---
 
 **Engineering Notice for Dollar Point:** System optimized for 134 mg/L hard water scaling factors in Dollar Point. Regional dispatch grid: Placer County.

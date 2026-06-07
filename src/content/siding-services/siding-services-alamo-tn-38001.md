@@ -12,6 +12,7 @@ lng: -89.1200
 zipSample: ["38001"]
 zipCodes: ["38001"]
 localPaths: ["Crockett County / primary ZIP 38001", "Crockett County / elevation 371 ft band", "Crockett County / coords 35.7800, -89.1200", "Crockett County / ZIP 38001 sector"]
+zillowHomeValueUsd: 178565
 ---
 
 **Engineering Notice for Alamo:** Structural integrity verification: Vinyl Panels calibrated for 92 mph localized wind load factor. Elevation: 371 ft AMSL. Regional dispatch grid: Crockett County.

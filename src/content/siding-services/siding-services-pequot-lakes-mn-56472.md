@@ -12,6 +12,7 @@ lng: -94.3000
 zipSample: ["56472"]
 zipCodes: ["56472"]
 localPaths: ["Crow Wing County / primary ZIP 56472", "Crow Wing County / coords 46.5900, -94.3000", "Crow Wing County / elevation 1273 ft band", "Crow Wing County / ZIP 56472 sector"]
+zillowHomeValueUsd: 409793
 ---
 
 **Engineering Notice for Pequot Lakes:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Grid: Crow Wing County.

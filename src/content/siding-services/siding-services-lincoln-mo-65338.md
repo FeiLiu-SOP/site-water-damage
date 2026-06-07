@@ -12,6 +12,7 @@ lng: -93.3300
 zipSample: ["65338"]
 zipCodes: ["65338"]
 localPaths: ["Benton County / primary ZIP 65338", "Benton County / ZIP 65338 sector", "Benton County / elevation 958 ft band", "Benton County / coords 38.3900, -93.3300"]
+zillowHomeValueUsd: 200522
 ---
 
 **Engineering Notice for Lincoln:** Site context locked to Benton County. Elevation: 958 ft AMSL. Coordinates: 38.3900, -93.3300. Vinyl Panels integrity verification recorded.

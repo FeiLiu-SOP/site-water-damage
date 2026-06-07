@@ -12,6 +12,7 @@ lng: -93.8200
 zipSample: ["50109"]
 zipCodes: ["50109"]
 localPaths: ["Dallas County / ZIP 50109 sector", "Dallas County / coords 41.7600, -93.8200", "Dallas County / elevation 889 ft band", "Dallas County / primary ZIP 50109"]
+zillowHomeValueUsd: 375443
 ---
 
 **Engineering Notice for Granger:** System optimized for 125 mg/L hard water scaling factors in Granger. Regional dispatch grid: Dallas County.

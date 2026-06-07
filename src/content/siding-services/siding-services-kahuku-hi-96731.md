@@ -12,6 +12,7 @@ lng: -157.9500
 zipSample: ["96731"]
 zipCodes: ["96731"]
 localPaths: ["Honolulu County / primary ZIP 96731", "Honolulu County / elevation 20 ft band", "Honolulu County / coords 21.6800, -157.9500", "Honolulu County / ZIP 96731 sector"]
+zillowHomeValueUsd: 1058895
 ---
 
 **Engineering Notice for Kahuku:** Envelope check: Facade Renewal assigned to wind-load band B with stress factor 1.17. Regional dispatch grid: Honolulu County.

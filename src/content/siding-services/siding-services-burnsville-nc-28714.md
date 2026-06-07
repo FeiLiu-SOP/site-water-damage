@@ -12,6 +12,7 @@ lng: -82.3000
 zipSample: ["28714"]
 zipCodes: ["28714"]
 localPaths: ["Yancey County / primary ZIP 28714", "Yancey County / elevation 2776 ft band", "Yancey County / ZIP 28714 sector", "Yancey County / coords 35.9200, -82.3000"]
+zillowHomeValueUsd: 318981
 ---
 
 **Engineering Notice for Burnsville:** Site context locked to Yancey County. Elevation: 2776 ft AMSL. Coordinates: 35.9200, -82.3000. Wall Restoration integrity verification recorded.

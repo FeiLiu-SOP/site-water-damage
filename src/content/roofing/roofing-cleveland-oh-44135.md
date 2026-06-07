@@ -11,6 +11,7 @@ lng: -81.6800
 zipSample: ["44115", "44144", "44199", "44103", "44120"]
 zipCodes: ["44192", "44102", "44195", "44115", "44135", "44106", "44111", "44119", "44194", "44128", "44190", "44199"]
 localPaths: ["Cuyahoga County / elevation 646 ft band", "Cuyahoga County / ZIP 44144 sector", "Cuyahoga County / ZIP 44115 sector", "Cuyahoga County / ZIP 44120 sector", "Cuyahoga County / ZIP 44199 sector"]
+zillowHomeValueUsd: 155026
 ---
 
 **Engineering Notice for Cleveland:** Structural loading calculated based on 646 ft terrain assessment. Regional dispatch grid: Cuyahoga County.

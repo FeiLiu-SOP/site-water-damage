@@ -11,6 +11,7 @@ lng: -79.0900
 zipSample: ["27516", "27510"]
 zipCodes: ["27510", "27516"]
 localPaths: ["Orange County / ZIP 27510 sector", "Orange County / coords 35.9300, -79.0900", "Orange County / elevation 525 ft band", "Orange County / ZIP 27516 sector", "Orange County / primary ZIP 27516"]
+zillowHomeValueUsd: 604914
 ---
 
 **Engineering Notice for Carrboro:** Structural loading calculated based on 525 ft terrain assessment. Regional dispatch grid: Orange County.

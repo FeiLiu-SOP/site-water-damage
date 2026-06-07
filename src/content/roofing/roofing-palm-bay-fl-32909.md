@@ -11,6 +11,7 @@ lng: -80.6600
 zipSample: ["32909", "32908", "32910", "32902", "32911"]
 zipCodes: ["32910", "32906", "32905", "32976", "32909", "32907", "32902", "32911", "32908"]
 localPaths: ["Brevard County / elevation 46 ft band", "Brevard County / ZIP 32909 sector", "Brevard County / coords 27.9600, -80.6600", "Brevard County / primary ZIP 32909", "Brevard County / ZIP 32911 sector"]
+zillowHomeValueUsd: 316859
 ---
 
 **Engineering Notice for Palm Bay:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Brevard County.

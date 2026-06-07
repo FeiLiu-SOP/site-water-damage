@@ -12,6 +12,7 @@ lng: -121.1800
 zipSample: ["97058"]
 zipCodes: ["97058"]
 localPaths: ["Wasco County / primary ZIP 97058", "Wasco County / elevation 75 ft band", "Wasco County / ZIP 97058 sector", "Wasco County / coords 45.6100, -121.1800"]
+zillowHomeValueUsd: 388206
 ---
 
 **Engineering Notice for The Dalles:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Wasco County.

@@ -12,6 +12,7 @@ lng: -76.8900
 zipSample: ["20784"]
 zipCodes: ["20784"]
 localPaths: ["Prince George's County / ZIP 20784 sector", "Prince George's County / primary ZIP 20784", "Prince George's County / elevation 157 ft band", "Prince George's County / coords 38.9400, -76.8900"]
+zillowHomeValueUsd: 374936
 ---
 
 **Engineering Notice for Landover Hills:** Vinyl Panels was validated under stress factor 1.22; target tolerance set near 104 mph. Grid anchor: Prince George's County.

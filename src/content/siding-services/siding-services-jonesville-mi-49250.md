@@ -12,6 +12,7 @@ lng: -84.6700
 zipSample: ["49250"]
 zipCodes: ["49250"]
 localPaths: ["Hillsdale County / elevation 1066 ft band", "Hillsdale County / coords 41.9800, -84.6700", "Hillsdale County / ZIP 49250 sector", "Hillsdale County / primary ZIP 49250"]
+zillowHomeValueUsd: 200520
 ---
 
 **Engineering Notice for Jonesville:** Cladding verification uses 99 mph routing baseline; lateral pressure note: 13.1 psf. Coordinates: 41.9800, -84.6700. Grid: Hillsdale County.

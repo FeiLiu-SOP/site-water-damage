@@ -12,6 +12,7 @@ lng: -108.3900
 zipSample: ["82431"]
 zipCodes: ["82431"]
 localPaths: ["Big Horn County / coords 44.8400, -108.3900", "Big Horn County / primary ZIP 82431", "Big Horn County / ZIP 82431 sector", "Big Horn County / elevation 3839 ft band"]
+zillowHomeValueUsd: 277424
 ---
 
 **Engineering Notice for Lovell:** System optimized for 124 mg/L hard water scaling factors in Lovell. Regional dispatch grid: Big Horn County.

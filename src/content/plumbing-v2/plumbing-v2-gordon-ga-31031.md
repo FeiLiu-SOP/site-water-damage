@@ -12,6 +12,7 @@ lng: -83.3300
 zipSample: ["31031"]
 zipCodes: ["31031"]
 localPaths: ["Wilkinson County / elevation 381 ft band", "Wilkinson County / coords 32.8900, -83.3300", "Wilkinson County / primary ZIP 31031", "Wilkinson County / ZIP 31031 sector"]
+zillowHomeValueUsd: 143158
 ---
 
 **Engineering Notice for Gordon:** System optimized for 143 mg/L hard water scaling factors in Gordon. Regional dispatch grid: Wilkinson County.

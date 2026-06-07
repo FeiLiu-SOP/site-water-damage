@@ -12,6 +12,7 @@ lng: -122.5600
 zipSample: ["97042", "97045"]
 zipCodes: ["97045", "97042"]
 localPaths: ["Clackamas County / elevation 279 ft band", "Clackamas County / ZIP 97042 sector", "Clackamas County / ZIP 97045 sector", "Clackamas County / primary ZIP 97045", "Clackamas County / coords 45.2200, -122.5600"]
+zillowHomeValueUsd: 602892
 ---
 
 **Engineering Notice for Mulino:** Cladding verification uses 90 mph routing baseline; lateral pressure note: 12.0 psf. Elevation: 279 ft AMSL. Coordinates: 45.2200, -122.5600. Grid: Clackamas County.

@@ -11,6 +11,7 @@ lng: -87.1800
 zipSample: ["46403", "46368"]
 zipCodes: ["46403", "46368"]
 localPaths: ["Porter County / ZIP 46368 sector", "Porter County / ZIP 46403 sector", "Porter County / coords 41.5900, -87.1800", "Porter County / elevation 676 ft band", "Porter County / primary ZIP 46403"]
+zillowHomeValueUsd: 148354
 ---
 
 **Engineering Notice for Portage:** Structural loading calculated based on 676 ft terrain assessment. Regional dispatch grid: Porter County.

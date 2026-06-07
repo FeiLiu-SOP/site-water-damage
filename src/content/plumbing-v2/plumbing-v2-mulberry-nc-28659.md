@@ -12,6 +12,7 @@ lng: -81.1700
 zipSample: ["28659"]
 zipCodes: ["28659"]
 localPaths: ["Wilkes County / primary ZIP 28659", "Wilkes County / ZIP 28659 sector", "Wilkes County / coords 36.2300, -81.1700", "Wilkes County / elevation 1306 ft band"]
+zillowHomeValueUsd: 209860
 ---
 
 **Engineering Notice for Mulberry:** System optimized for 130 mg/L hard water scaling factors in Mulberry. Regional dispatch grid: Wilkes County.

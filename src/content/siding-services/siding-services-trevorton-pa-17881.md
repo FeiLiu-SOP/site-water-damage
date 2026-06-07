@@ -12,6 +12,7 @@ lng: -76.6700
 zipSample: ["17872", "17881"]
 zipCodes: ["17881", "17872"]
 localPaths: ["Northumberland County / ZIP 17881 sector", "Northumberland County / primary ZIP 17881", "Northumberland County / coords 40.7800, -76.6700", "Northumberland County / ZIP 17872 sector", "Northumberland County / elevation 791 ft band"]
+zillowHomeValueUsd: 117484
 ---
 
 **Engineering Notice for Trevorton:** Envelope check: Exterior Cladding assigned to wind-load band A with stress factor 0.76. Regional dispatch grid: Northumberland County.

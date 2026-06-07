@@ -11,6 +11,7 @@ lng: -87.6800
 zipSample: ["54220"]
 zipCodes: ["54220"]
 localPaths: ["Manitowoc County / elevation 630 ft band", "Manitowoc County / primary ZIP 54220", "Manitowoc County / coords 44.1000, -87.6800", "Manitowoc County / ZIP 54220 sector"]
+zillowHomeValueUsd: 236157
 ---
 
 **Engineering Notice for Manitowoc:** Structural loading calculated based on 630 ft terrain assessment. Regional dispatch grid: Manitowoc County.

@@ -12,6 +12,7 @@ lng: -123.8000
 zipSample: ["98586", "98577"]
 zipCodes: ["98577", "98586"]
 localPaths: ["Pacific County / primary ZIP 98586", "Pacific County / ZIP 98577 sector", "Pacific County / elevation 7 ft band", "Pacific County / coords 46.6700, -123.8000", "Pacific County / ZIP 98586 sector"]
+zillowHomeValueUsd: 296643
 ---
 
 **Engineering Notice for South Bend:** System optimized for 139 mg/L hard water scaling factors in South Bend. Regional dispatch grid: Pacific County.

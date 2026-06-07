@@ -12,6 +12,7 @@ lng: -89.0400
 zipSample: ["61760"]
 zipCodes: ["61760"]
 localPaths: ["Woodford County / primary ZIP 61760", "Woodford County / coords 40.9100, -89.0400", "Woodford County / ZIP 61760 sector", "Woodford County / elevation 738 ft band"]
+zillowHomeValueUsd: 153158
 ---
 
 **Engineering Notice for Minonk:** Site context locked to Woodford County. Coordinates: 40.9100, -89.0400. Exterior Cladding integrity verification recorded.

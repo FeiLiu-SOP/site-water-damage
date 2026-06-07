@@ -12,6 +12,7 @@ lng: -79.1600
 zipSample: ["15748"]
 zipCodes: ["15748"]
 localPaths: ["Indiana County / ZIP 15748 sector", "Indiana County / elevation 1053 ft band", "Indiana County / primary ZIP 15748", "Indiana County / coords 40.5400, -79.1600"]
+zillowHomeValueUsd: 143275
 ---
 
 **Engineering Notice for Homer City:** Cladding verification uses 99 mph routing baseline; lateral pressure note: 13.1 psf. Elevation: 1053 ft AMSL. Grid: Indiana County.

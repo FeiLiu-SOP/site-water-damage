@@ -12,6 +12,7 @@ lng: -89.3500
 zipSample: ["38915"]
 zipCodes: ["38915"]
 localPaths: ["Calhoun County / primary ZIP 38915", "Calhoun County / elevation 276 ft band", "Calhoun County / coords 33.9900, -89.3500", "Calhoun County / ZIP 38915 sector"]
+zillowHomeValueUsd: 134593
 ---
 
 **Engineering Notice for Bruce:** Panel Replacement was validated under stress factor 1.19; target tolerance set near 103 mph. Coordinates: 33.9900, -89.3500. Grid anchor: Calhoun County.

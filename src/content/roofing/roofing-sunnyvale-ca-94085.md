@@ -11,6 +11,7 @@ lng: -122.0300
 zipSample: ["94086", "94085", "94088", "94087", "94089"]
 zipCodes: ["94088", "94085", "94086", "94087", "94089"]
 localPaths: ["Santa Clara County / elevation 62 ft band", "Santa Clara County / primary ZIP 94085", "Santa Clara County / ZIP 94085 sector", "Santa Clara County / ZIP 94088 sector", "Santa Clara County / ZIP 94089 sector"]
+zillowHomeValueUsd: 1601612
 ---
 
 **Engineering Notice for Sunnyvale:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Santa Clara County.

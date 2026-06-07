@@ -11,6 +11,7 @@ lng: -101.8300
 zipSample: ["79117", "79116", "79107", "79103", "79120"]
 zipCodes: ["79174", "79104", "79168", "79172", "79116", "79101", "79110", "79107", "79111", "79106", "79117", "79121"]
 localPaths: ["Potter County / ZIP 79116 sector", "Potter County / ZIP 79117 sector", "Potter County / elevation 3675 ft band", "Potter County / coords 35.2000, -101.8300", "Potter County / ZIP 79103 sector"]
+zillowHomeValueUsd: 298045
 ---
 
 **Engineering Notice for Amarillo:** Structural loading calculated based on 3675 ft terrain assessment. Regional dispatch grid: Potter County.

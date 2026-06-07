@@ -12,6 +12,7 @@ lng: -83.8900
 zipSample: ["48457"]
 zipCodes: ["48457"]
 localPaths: ["Genesee County / elevation 673 ft band", "Genesee County / primary ZIP 48457", "Genesee County / coords 43.1800, -83.8900", "Genesee County / ZIP 48457 sector"]
+zillowHomeValueUsd: 206897
 ---
 
 **Engineering Notice for Montrose:** structural drying capacity optimized for 673ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Genesee County. Relative Humidity Threshold: 84%. Sensor sync: Active.

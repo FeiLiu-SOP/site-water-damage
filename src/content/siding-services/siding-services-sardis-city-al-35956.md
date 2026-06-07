@@ -12,6 +12,7 @@ lng: -86.1100
 zipSample: ["35956"]
 zipCodes: ["35956"]
 localPaths: ["Etowah County / coords 34.1700, -86.1100", "Etowah County / elevation 1060 ft band", "Etowah County / ZIP 35956 sector", "Etowah County / primary ZIP 35956"]
+zillowHomeValueUsd: 220897
 ---
 
 **Engineering Notice for Sardis City:** Panel Replacement was validated under stress factor 1.22; target tolerance set near 104 mph. Grid anchor: Etowah County.

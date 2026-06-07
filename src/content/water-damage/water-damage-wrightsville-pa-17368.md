@@ -12,6 +12,7 @@ lng: -76.5300
 zipSample: ["17368"]
 zipCodes: ["17368"]
 localPaths: ["York County / ZIP 17368 sector", "York County / elevation 328 ft band", "York County / primary ZIP 17368", "York County / coords 40.0200, -76.5300"]
+zillowHomeValueUsd: 274089
 ---
 
 **Engineering Notice for Wrightsville:** structural drying capacity optimized for 328ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: York County. Relative Humidity Threshold: 66%. Sensor sync: Active.

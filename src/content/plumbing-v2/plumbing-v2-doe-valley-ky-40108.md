@@ -12,6 +12,7 @@ lng: -86.1100
 zipSample: ["40108"]
 zipCodes: ["40108"]
 localPaths: ["Meade County / primary ZIP 40108", "Meade County / ZIP 40108 sector", "Meade County / elevation 489 ft band", "Meade County / coords 37.9700, -86.1100"]
+zillowHomeValueUsd: 295396
 ---
 
 **Engineering Notice for Doe Valley:** System optimized for 164 mg/L hard water scaling factors in Doe Valley. Regional dispatch grid: Meade County.

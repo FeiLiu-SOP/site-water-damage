@@ -12,6 +12,7 @@ lng: -108.0400
 zipSample: ["87413"]
 zipCodes: ["87413"]
 localPaths: ["San Juan County / primary ZIP 87413", "San Juan County / ZIP 87413 sector", "San Juan County / elevation 5420 ft band", "San Juan County / coords 36.6800, -108.0400"]
+zillowHomeValueUsd: 252923
 ---
 
 **Engineering Notice for West Hammond:** structural drying capacity optimized for 5420ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Juan County. Relative Humidity Threshold: 66%. Sensor sync: Active.

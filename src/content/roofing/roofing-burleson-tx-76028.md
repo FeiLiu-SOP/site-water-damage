@@ -11,6 +11,7 @@ lng: -97.3300
 zipSample: ["76028", "76097"]
 zipCodes: ["76028", "76097"]
 localPaths: ["Johnson County / ZIP 76028 sector", "Johnson County / primary ZIP 76028", "Johnson County / coords 32.5200, -97.3300", "Johnson County / elevation 748 ft band", "Johnson County / ZIP 76097 sector"]
+zillowHomeValueUsd: 339913
 ---
 
 **Engineering Notice for Burleson:** Structural loading calculated based on 748 ft terrain assessment. Regional dispatch grid: Johnson County.

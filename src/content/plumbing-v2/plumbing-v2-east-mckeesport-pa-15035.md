@@ -12,6 +12,7 @@ lng: -79.8100
 zipSample: ["15035"]
 zipCodes: ["15035"]
 localPaths: ["Allegheny County / elevation 1204 ft band", "Allegheny County / primary ZIP 15035", "Allegheny County / ZIP 15035 sector", "Allegheny County / coords 40.3800, -79.8100"]
+zillowHomeValueUsd: 115083
 ---
 
 **Engineering Notice for East McKeesport:** System optimized for 151 mg/L hard water scaling factors in East McKeesport. Regional dispatch grid: Allegheny County.

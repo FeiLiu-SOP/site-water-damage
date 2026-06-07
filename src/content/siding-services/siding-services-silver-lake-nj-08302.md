@@ -12,6 +12,7 @@ lng: -75.2400
 zipSample: ["08302"]
 zipCodes: ["08302"]
 localPaths: ["Cumberland County / coords 39.4700, -75.2400", "Cumberland County / elevation 69 ft band", "Cumberland County / primary ZIP 08302", "Cumberland County / ZIP 08302 sector"]
+zillowHomeValueUsd: 252915
 ---
 
 **Engineering Notice for Silver Lake:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Elevation: 69 ft AMSL. Grid: Cumberland County.

@@ -12,6 +12,7 @@ lng: -87.8400
 zipSample: ["37058"]
 zipCodes: ["37058"]
 localPaths: ["Stewart County / coords 36.4800, -87.8400", "Stewart County / elevation 502 ft band", "Stewart County / ZIP 37058 sector", "Stewart County / primary ZIP 37058"]
+zillowHomeValueUsd: 246496
 ---
 
 **Engineering Notice for Dover:** Envelope check: Cladding Service assigned to wind-load band C with stress factor 0.76. Regional dispatch grid: Stewart County.

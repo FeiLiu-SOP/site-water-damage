@@ -12,6 +12,7 @@ lng: -89.2800
 zipSample: ["39744"]
 zipCodes: ["39744"]
 localPaths: ["Webster County / coords 33.5400, -89.2800", "Webster County / primary ZIP 39744", "Webster County / elevation 420 ft band", "Webster County / ZIP 39744 sector"]
+zillowHomeValueUsd: 139073
 ---
 
 **Engineering Notice for Eupora:** Envelope check: Exterior Cladding assigned to wind-load band A with stress factor 0.94. Elevation: 420 ft AMSL. Regional dispatch grid: Webster County.

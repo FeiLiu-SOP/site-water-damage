@@ -11,6 +11,7 @@ lng: -80.5600
 zipSample: ["24143", "24141", "24142"]
 zipCodes: ["24142", "24141", "24143"]
 localPaths: ["Radford County / ZIP 24142 sector", "Radford County / ZIP 24143 sector", "Radford County / elevation 1877 ft band", "Radford County / ZIP 24141 sector", "Radford County / coords 37.1200, -80.5600"]
+zillowHomeValueUsd: 262318
 ---
 
 **Engineering Notice for Radford:** Structural loading calculated based on 1877 ft terrain assessment. Regional dispatch grid: Radford County.

@@ -11,6 +11,7 @@ lng: -85.4900
 zipSample: ["36831", "36849", "36830", "36832"]
 zipCodes: ["36849", "36832", "36831", "36830"]
 localPaths: ["Lee County / ZIP 36849 sector", "Lee County / coords 32.6100, -85.4900", "Lee County / ZIP 36831 sector", "Lee County / elevation 728 ft band", "Lee County / primary ZIP 36849"]
+zillowHomeValueUsd: 423711
 ---
 
 **Engineering Notice for Auburn:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Lee County.

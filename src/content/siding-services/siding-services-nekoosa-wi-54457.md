@@ -12,6 +12,7 @@ lng: -89.9100
 zipSample: ["54457"]
 zipCodes: ["54457"]
 localPaths: ["Wood County / coords 44.3100, -89.9100", "Wood County / primary ZIP 54457", "Wood County / elevation 955 ft band", "Wood County / ZIP 54457 sector"]
+zillowHomeValueUsd: 266152
 ---
 
 **Engineering Notice for Nekoosa:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Elevation: 955 ft AMSL. Grid: Wood County.

@@ -12,6 +12,7 @@ lng: -82.6400
 zipSample: ["29640"]
 zipCodes: ["29640"]
 localPaths: ["Pickens County / elevation 1047 ft band", "Pickens County / coords 34.8500, -82.6400", "Pickens County / primary ZIP 29640", "Pickens County / ZIP 29640 sector"]
+zillowHomeValueUsd: 273653
 ---
 
 **Engineering Notice for Arial:** System optimized for 135 mg/L hard water scaling factors in Arial. Regional dispatch grid: Pickens County.

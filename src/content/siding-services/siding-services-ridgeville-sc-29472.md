@@ -12,6 +12,7 @@ lng: -80.3100
 zipSample: ["29472"]
 zipCodes: ["29472"]
 localPaths: ["Dorchester County / elevation 66 ft band", "Dorchester County / coords 33.0900, -80.3100", "Dorchester County / primary ZIP 29472", "Dorchester County / ZIP 29472 sector"]
+zillowHomeValueUsd: 327355
 ---
 
 **Engineering Notice for Ridgeville:** Envelope check: Surface Sheathing assigned to wind-load band C with stress factor 0.76. Elevation: 66 ft AMSL. Regional dispatch grid: Dorchester County.

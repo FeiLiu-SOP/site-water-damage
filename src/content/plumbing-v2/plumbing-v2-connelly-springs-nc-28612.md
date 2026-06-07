@@ -12,6 +12,7 @@ lng: -81.5000
 zipSample: ["28612"]
 zipCodes: ["28612"]
 localPaths: ["Burke County / primary ZIP 28612", "Burke County / elevation 1273 ft band", "Burke County / ZIP 28612 sector", "Burke County / coords 35.7600, -81.5000"]
+zillowHomeValueUsd: 237886
 ---
 
 **Engineering Notice for Connelly Springs:** System optimized for 168 mg/L hard water scaling factors in Connelly Springs. Regional dispatch grid: Burke County.

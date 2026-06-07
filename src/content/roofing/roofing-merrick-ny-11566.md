@@ -11,6 +11,7 @@ lng: -73.5500
 zipSample: ["11566"]
 zipCodes: ["11566"]
 localPaths: ["Nassau County / coords 40.6500, -73.5500", "Nassau County / primary ZIP 11566", "Nassau County / elevation 13 ft band", "Nassau County / ZIP 11566 sector"]
+zillowHomeValueUsd: 878721
 ---
 
 **Engineering Notice for Merrick:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Nassau County.

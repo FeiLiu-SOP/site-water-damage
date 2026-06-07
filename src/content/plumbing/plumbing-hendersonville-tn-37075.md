@@ -12,6 +12,7 @@ lng: -86.6000
 zipSample: ["37077", "37075"]
 zipCodes: ["37075", "37077"]
 localPaths: ["Sumner County / ZIP 37075 sector", "Sumner County / primary ZIP 37075", "Sumner County / ZIP 37077 sector", "Sumner County / coords 36.3100, -86.6000", "Sumner County / elevation 502 ft band"]
+zillowHomeValueUsd: 515398
 ---
 
 **Engineering Notice for Hendersonville:** Structural loading calculated based on 502 ft terrain assessment. Regional dispatch grid: Sumner County.

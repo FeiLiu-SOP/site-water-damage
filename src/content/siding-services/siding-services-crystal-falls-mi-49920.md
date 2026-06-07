@@ -12,6 +12,7 @@ lng: -88.3300
 zipSample: ["49920"]
 zipCodes: ["49920"]
 localPaths: ["Iron County / elevation 1358 ft band", "Iron County / primary ZIP 49920", "Iron County / coords 46.1000, -88.3300", "Iron County / ZIP 49920 sector"]
+zillowHomeValueUsd: 159123
 ---
 
 **Engineering Notice for Crystal Falls:** Panel Replacement was validated under stress factor 0.96; target tolerance set near 106 mph. Grid anchor: Iron County.

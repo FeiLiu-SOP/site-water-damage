@@ -11,6 +11,7 @@ lng: -93.4800
 zipSample: ["50009"]
 zipCodes: ["50009"]
 localPaths: ["Polk County / coords 41.6500, -93.4800", "Polk County / primary ZIP 50009", "Polk County / ZIP 50009 sector", "Polk County / elevation 942 ft band"]
+zillowHomeValueUsd: 316853
 ---
 
 **Engineering Notice for Altoona:** Structural loading calculated based on 942 ft terrain assessment. Regional dispatch grid: Polk County.

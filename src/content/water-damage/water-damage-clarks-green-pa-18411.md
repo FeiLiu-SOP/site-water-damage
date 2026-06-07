@@ -12,6 +12,7 @@ lng: -75.7000
 zipSample: ["18411"]
 zipCodes: ["18411"]
 localPaths: ["Lackawanna County / elevation 1378 ft band", "Lackawanna County / ZIP 18411 sector", "Lackawanna County / primary ZIP 18411", "Lackawanna County / coords 41.5000, -75.7000"]
+zillowHomeValueUsd: 324544
 ---
 
 **Engineering Notice for Clarks Green:** structural drying capacity optimized for 1378ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lackawanna County. Relative Humidity Threshold: 73%. Sensor sync: Active.

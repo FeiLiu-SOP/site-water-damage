@@ -11,6 +11,7 @@ lng: -88.3800
 zipSample: ["53027"]
 zipCodes: ["53027"]
 localPaths: ["Washington County / coords 43.3200, -88.3800", "Washington County / elevation 1020 ft band", "Washington County / primary ZIP 53027", "Washington County / ZIP 53027 sector"]
+zillowHomeValueUsd: 409574
 ---
 
 **Engineering Notice for Hartford:** Structural loading calculated based on 1020 ft terrain assessment. Regional dispatch grid: Washington County.

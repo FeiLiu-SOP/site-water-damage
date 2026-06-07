@@ -12,6 +12,7 @@ lng: -116.0700
 zipSample: ["92277", "92278"]
 zipCodes: ["92277", "92278"]
 localPaths: ["San Bernardino County / elevation 2116 ft band", "San Bernardino County / coords 34.1500, -116.0700", "San Bernardino County / ZIP 92278 sector", "San Bernardino County / primary ZIP 92277", "San Bernardino County / ZIP 92277 sector"]
+zillowHomeValueUsd: 249547
 ---
 
 **Engineering Notice for Twentynine Palms:** Structural loading calculated based on 2116 ft terrain assessment. Regional dispatch grid: San Bernardino County.

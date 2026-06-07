@@ -12,6 +12,7 @@ lng: -95.6200
 zipSample: ["56175"]
 zipCodes: ["56175"]
 localPaths: ["Lyon County / primary ZIP 56175", "Lyon County / coords 44.2400, -95.6200", "Lyon County / elevation 1378 ft band", "Lyon County / ZIP 56175 sector"]
+zillowHomeValueUsd: 160169
 ---
 
 **Engineering Notice for Tracy:** System optimized for 174 mg/L hard water scaling factors in Tracy. Regional dispatch grid: Lyon County.

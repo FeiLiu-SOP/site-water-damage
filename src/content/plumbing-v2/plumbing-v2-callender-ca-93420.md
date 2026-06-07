@@ -12,6 +12,7 @@ lng: -120.5800
 zipSample: ["93420"]
 zipCodes: ["93420"]
 localPaths: ["San Luis Obispo County / primary ZIP 93420", "San Luis Obispo County / elevation 171 ft band", "San Luis Obispo County / ZIP 93420 sector", "San Luis Obispo County / coords 35.0500, -120.5800"]
+zillowHomeValueUsd: 1050011
 ---
 
 **Engineering Notice for Callender:** System optimized for 180 mg/L hard water scaling factors in Callender. Regional dispatch grid: San Luis Obispo County.

@@ -11,6 +11,7 @@ lng: -85.7700
 zipSample: ["46140"]
 zipCodes: ["46140"]
 localPaths: ["Hancock County / elevation 892 ft band", "Hancock County / coords 39.7900, -85.7700", "Hancock County / ZIP 46140 sector", "Hancock County / primary ZIP 46140"]
+zillowHomeValueUsd: 291840
 ---
 
 **Engineering Notice for Greenfield:** Structural loading calculated based on 892 ft terrain assessment. Regional dispatch grid: Hancock County.

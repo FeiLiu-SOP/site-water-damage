@@ -12,6 +12,7 @@ lng: -70.2200
 zipSample: ["04105"]
 zipCodes: ["04105"]
 localPaths: ["Cumberland County / ZIP 04105 sector", "Cumberland County / primary ZIP 04105", "Cumberland County / elevation 118 ft band", "Cumberland County / coords 43.7300, -70.2200"]
+zillowHomeValueUsd: 890418
 ---
 
 **Engineering Notice for Falmouth Foreside:** Site context locked to Cumberland County. Weather Barrier Wrap integrity verification recorded.

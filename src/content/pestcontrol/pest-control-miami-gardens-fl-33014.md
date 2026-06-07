@@ -11,6 +11,7 @@ lng: -80.2400
 zipSample: ["33055", "33014", "33269", "33169", "33054"]
 zipCodes: ["33055", "33269", "33056", "33054", "33169", "33014"]
 localPaths: ["Miami-Dade County / elevation 26 ft band", "Miami-Dade County / primary ZIP 33014", "Miami-Dade County / ZIP 33269 sector", "Miami-Dade County / ZIP 33014 sector", "Miami-Dade County / ZIP 33169 sector"]
+zillowHomeValueUsd: 440150
 ---
 
 **Engineering Notice for Miami Gardens:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

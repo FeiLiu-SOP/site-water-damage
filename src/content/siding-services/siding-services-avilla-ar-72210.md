@@ -12,6 +12,7 @@ lng: -92.5800
 zipSample: ["72002", "72210"]
 zipCodes: ["72210", "72002"]
 localPaths: ["Saline County / elevation 594 ft band", "Saline County / ZIP 72210 sector", "Saline County / primary ZIP 72210", "Saline County / coords 34.7000, -92.5800", "Saline County / ZIP 72002 sector"]
+zillowHomeValueUsd: 270235
 ---
 
 **Engineering Notice for Avilla:** Structural integrity verification: Facade Renewal calibrated for 96 mph localized wind load factor. Coordinates: 34.7000, -92.5800. Regional dispatch grid: Saline County.

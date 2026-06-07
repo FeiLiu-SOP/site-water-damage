@@ -12,6 +12,7 @@ lng: -80.0800
 zipSample: ["15202"]
 zipCodes: ["15202"]
 localPaths: ["Allegheny County / coords 40.5100, -80.0800", "Allegheny County / primary ZIP 15202", "Allegheny County / ZIP 15202 sector", "Allegheny County / elevation 840 ft band"]
+zillowHomeValueUsd: 221005
 ---
 
 **Engineering Notice for Ben Avon:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Elevation: 840 ft AMSL. Coordinates: 40.5100, -80.0800. Grid: Allegheny County.

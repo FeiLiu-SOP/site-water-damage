@@ -11,6 +11,7 @@ lng: -118.1100
 zipSample: ["93599", "93591", "93550", "93552", "93590"]
 zipCodes: ["93552", "93599", "93551", "93590", "93591", "93550"]
 localPaths: ["Los Angeles County / ZIP 93591 sector", "Los Angeles County / ZIP 93552 sector", "Los Angeles County / elevation 2605 ft band", "Los Angeles County / ZIP 93550 sector", "Los Angeles County / coords 34.5900, -118.1100"]
+zillowHomeValueUsd: 385538
 ---
 
 **Engineering Notice for Palmdale:** Structural loading calculated based on 2605 ft terrain assessment. Regional dispatch grid: Los Angeles County.

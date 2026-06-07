@@ -12,6 +12,7 @@ lng: -87.7600
 zipSample: ["60804"]
 zipCodes: ["60804"]
 localPaths: ["Cook County / primary ZIP 60804", "Cook County / coords 41.8400, -87.7600", "Cook County / ZIP 60804 sector", "Cook County / elevation 614 ft band"]
+zillowHomeValueUsd: 264538
 ---
 
 **Engineering Notice for Cicero:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Cook County.

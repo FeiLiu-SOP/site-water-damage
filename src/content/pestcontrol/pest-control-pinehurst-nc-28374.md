@@ -11,6 +11,7 @@ lng: -79.4700
 zipSample: ["28370", "28374"]
 zipCodes: ["28374", "28370"]
 localPaths: ["Moore County / ZIP 28370 sector", "Moore County / ZIP 28374 sector", "Moore County / coords 35.1900, -79.4700", "Moore County / primary ZIP 28374", "Moore County / elevation 522 ft band"]
+zillowHomeValueUsd: 533559
 ---
 
 **Engineering Notice for Pinehurst:** Structural loading calculated based on 522 ft terrain assessment. Regional dispatch grid: Moore County.

@@ -12,6 +12,7 @@ lng: -83.1000
 zipSample: ["30557", "30553"]
 zipCodes: ["30557", "30553"]
 localPaths: ["Franklin County / ZIP 30557 sector", "Franklin County / elevation 669 ft band", "Franklin County / coords 34.4900, -83.1000", "Franklin County / primary ZIP 30553", "Franklin County / ZIP 30553 sector"]
+zillowHomeValueUsd: 316696
 ---
 
 **Engineering Notice for Gumlog:** System optimized for 142 mg/L hard water scaling factors in Gumlog. Regional dispatch grid: Franklin County.

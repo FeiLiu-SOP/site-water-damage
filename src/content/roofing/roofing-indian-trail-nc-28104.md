@@ -11,6 +11,7 @@ lng: -80.6500
 zipSample: ["28079", "28110", "28104"]
 zipCodes: ["28079", "28104", "28110"]
 localPaths: ["Union County / elevation 659 ft band", "Union County / primary ZIP 28104", "Union County / ZIP 28079 sector", "Union County / ZIP 28104 sector", "Union County / coords 35.0700, -80.6500"]
+zillowHomeValueUsd: 594952
 ---
 
 **Engineering Notice for Indian Trail:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Union County.

@@ -11,6 +11,7 @@ lng: -80.0100
 zipSample: ["29461"]
 zipCodes: ["29461"]
 localPaths: ["Berkeley County / ZIP 29461 sector", "Berkeley County / primary ZIP 29461", "Berkeley County / elevation 43 ft band", "Berkeley County / coords 33.1700, -80.0100"]
+zillowHomeValueUsd: 360103
 ---
 
 **Engineering Notice for Moncks Corner:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Berkeley County.

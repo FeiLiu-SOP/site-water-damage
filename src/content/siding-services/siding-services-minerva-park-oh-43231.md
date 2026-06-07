@@ -12,6 +12,7 @@ lng: -82.9400
 zipSample: ["43231"]
 zipCodes: ["43231"]
 localPaths: ["Franklin County / coords 40.0800, -82.9400", "Franklin County / primary ZIP 43231", "Franklin County / ZIP 43231 sector", "Franklin County / elevation 863 ft band"]
+zillowHomeValueUsd: 273659
 ---
 
 **Engineering Notice for Minerva Park:** Envelope check: Panel Replacement assigned to wind-load band C with stress factor 0.82. Elevation: 863 ft AMSL. Regional dispatch grid: Franklin County.

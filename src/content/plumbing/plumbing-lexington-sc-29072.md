@@ -12,6 +12,7 @@ lng: -81.2200
 zipSample: ["29071", "29072"]
 zipCodes: ["29071", "29072"]
 localPaths: ["Lexington County / ZIP 29072 sector", "Lexington County / coords 33.9900, -81.2200", "Lexington County / elevation 338 ft band", "Lexington County / primary ZIP 29072", "Lexington County / ZIP 29071 sector"]
+zillowHomeValueUsd: 361394
 ---
 
 **Engineering Notice for Lexington:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Lexington County.

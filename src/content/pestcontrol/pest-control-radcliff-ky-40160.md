@@ -11,6 +11,7 @@ lng: -85.9400
 zipSample: ["40160", "40159", "42701"]
 zipCodes: ["42701", "40160", "40159"]
 localPaths: ["Hardin County / coords 37.8200, -85.9400", "Hardin County / ZIP 40160 sector", "Hardin County / ZIP 42701 sector", "Hardin County / ZIP 40159 sector", "Hardin County / elevation 761 ft band"]
+zillowHomeValueUsd: 211056
 ---
 
 **Engineering Notice for Radcliff:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Hardin County.

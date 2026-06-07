@@ -12,6 +12,7 @@ lng: -78.2400
 zipSample: ["15834"]
 zipCodes: ["15834"]
 localPaths: ["Cameron County / elevation 1024 ft band", "Cameron County / ZIP 15834 sector", "Cameron County / primary ZIP 15834", "Cameron County / coords 41.5100, -78.2400"]
+zillowHomeValueUsd: 83504
 ---
 
 **Engineering Notice for Emporium:** structural drying capacity optimized for 1024ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cameron County. Relative Humidity Threshold: 79%. Sensor sync: Active.

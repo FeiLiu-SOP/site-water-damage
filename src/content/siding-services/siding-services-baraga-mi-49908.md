@@ -12,6 +12,7 @@ lng: -88.5000
 zipSample: ["49908"]
 zipCodes: ["49908"]
 localPaths: ["Baraga County / coords 46.7800, -88.5000", "Baraga County / primary ZIP 49908", "Baraga County / ZIP 49908 sector", "Baraga County / elevation 689 ft band"]
+zillowHomeValueUsd: 159694
 ---
 
 **Engineering Notice for Baraga:** Site context locked to Baraga County. Facade Renewal integrity verification recorded.

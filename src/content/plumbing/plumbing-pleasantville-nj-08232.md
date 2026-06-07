@@ -12,6 +12,7 @@ lng: -74.5200
 zipSample: ["08232"]
 zipCodes: ["08232"]
 localPaths: ["Atlantic County / ZIP 08232 sector", "Atlantic County / coords 39.3900, -74.5200", "Atlantic County / primary ZIP 08232", "Atlantic County / elevation 10 ft band"]
+zillowHomeValueUsd: 239866
 ---
 
 **Engineering Notice for Pleasantville:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Atlantic County.

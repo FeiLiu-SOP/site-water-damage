@@ -12,6 +12,7 @@ lng: -79.3800
 zipSample: ["21550"]
 zipCodes: ["21550"]
 localPaths: ["Garrett County / coords 39.4000, -79.3800", "Garrett County / primary ZIP 21550", "Garrett County / elevation 2507 ft band", "Garrett County / ZIP 21550 sector"]
+zillowHomeValueUsd: 296040
 ---
 
 **Engineering Notice for Mountain Lake Park:** Site context locked to Garrett County. Facade Renewal integrity verification recorded.

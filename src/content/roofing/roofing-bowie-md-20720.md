@@ -11,6 +11,7 @@ lng: -76.7400
 zipSample: ["20718", "20716", "20721", "20717", "20720"]
 zipCodes: ["20716", "20715", "20720", "20717", "20718", "20719", "20721"]
 localPaths: ["Prince George's County / ZIP 20717 sector", "Prince George's County / elevation 151 ft band", "Prince George's County / ZIP 20720 sector", "Prince George's County / coords 38.9500, -76.7400", "Prince George's County / ZIP 20721 sector"]
+zillowHomeValueUsd: 582788
 ---
 
 **Engineering Notice for Bowie:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: Prince George's County.

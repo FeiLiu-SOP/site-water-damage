@@ -12,6 +12,7 @@ lng: -79.0500
 zipSample: ["14006"]
 zipCodes: ["14006"]
 localPaths: ["Erie County / primary ZIP 14006", "Erie County / elevation 614 ft band", "Erie County / ZIP 14006 sector", "Erie County / coords 42.6600, -79.0500"]
+zillowHomeValueUsd: 219057
 ---
 
 **Engineering Notice for Angola on the Lake:** structural drying capacity optimized for 614ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Erie County. Relative Humidity Threshold: 78%. Sensor sync: Active.

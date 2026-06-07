@@ -12,6 +12,7 @@ lng: -81.9900
 zipSample: ["32159", "32163", "32162"]
 zipCodes: ["32163", "32162", "32159"]
 localPaths: ["Sumter County / ZIP 32162 sector", "Sumter County / ZIP 32163 sector", "Sumter County / ZIP 32159 sector", "Sumter County / elevation 56 ft band", "Sumter County / primary ZIP 32163"]
+zillowHomeValueUsd: 482773
 ---
 
 **Engineering Notice for The Villages:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Sumter County.

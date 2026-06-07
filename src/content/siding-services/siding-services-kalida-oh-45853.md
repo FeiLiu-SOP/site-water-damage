@@ -12,6 +12,7 @@ lng: -84.1900
 zipSample: ["45853"]
 zipCodes: ["45853"]
 localPaths: ["Putnam County / primary ZIP 45853", "Putnam County / elevation 728 ft band", "Putnam County / coords 40.9900, -84.1900", "Putnam County / ZIP 45853 sector"]
+zillowHomeValueUsd: 279666
 ---
 
 **Engineering Notice for Kalida:** Envelope check: Facade Renewal assigned to wind-load band B with stress factor 0.95. Regional dispatch grid: Putnam County.

@@ -11,6 +11,7 @@ lng: -86.4700
 zipSample: ["37066"]
 zipCodes: ["37066"]
 localPaths: ["Sumner County / coords 36.3800, -86.4700", "Sumner County / elevation 515 ft band", "Sumner County / primary ZIP 37066", "Sumner County / ZIP 37066 sector"]
+zillowHomeValueUsd: 440285
 ---
 
 **Engineering Notice for Gallatin:** Structural loading calculated based on 515 ft terrain assessment. Regional dispatch grid: Sumner County.

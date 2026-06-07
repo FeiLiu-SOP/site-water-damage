@@ -12,6 +12,7 @@ lng: -80.5800
 zipSample: ["26037"]
 zipCodes: ["26037"]
 localPaths: ["Brooke County / coords 40.3200, -80.5800", "Brooke County / elevation 1020 ft band", "Brooke County / primary ZIP 26037", "Brooke County / ZIP 26037 sector"]
+zillowHomeValueUsd: 122741
 ---
 
 **Engineering Notice for Hooverson Heights:** System optimized for 156 mg/L hard water scaling factors in Hooverson Heights. Regional dispatch grid: Brooke County.

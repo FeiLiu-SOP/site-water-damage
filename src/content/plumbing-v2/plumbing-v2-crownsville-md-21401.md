@@ -12,6 +12,7 @@ lng: -76.5900
 zipSample: ["21032", "21401"]
 zipCodes: ["21401", "21032"]
 localPaths: ["Anne Arundel County / coords 39.0200, -76.5900", "Anne Arundel County / primary ZIP 21401", "Anne Arundel County / elevation 138 ft band", "Anne Arundel County / ZIP 21401 sector", "Anne Arundel County / ZIP 21032 sector"]
+zillowHomeValueUsd: 625161
 ---
 
 **Engineering Notice for Crownsville:** System optimized for 175 mg/L hard water scaling factors in Crownsville. Regional dispatch grid: Anne Arundel County.

@@ -12,6 +12,7 @@ lng: -78.7700
 zipSample: ["22842", "22810"]
 zipCodes: ["22842", "22810"]
 localPaths: ["Shenandoah County / ZIP 22810 sector", "Shenandoah County / ZIP 22842 sector", "Shenandoah County / primary ZIP 22810", "Shenandoah County / coords 38.8200, -78.7700", "Shenandoah County / elevation 1240 ft band"]
+zillowHomeValueUsd: 351487
 ---
 
 **Engineering Notice for Basye:** System optimized for 134 mg/L hard water scaling factors in Basye. Regional dispatch grid: Shenandoah County.

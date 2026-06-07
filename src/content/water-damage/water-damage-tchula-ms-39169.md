@@ -12,6 +12,7 @@ lng: -90.2200
 zipSample: ["39169"]
 zipCodes: ["39169"]
 localPaths: ["Holmes County / primary ZIP 39169", "Holmes County / elevation 125 ft band", "Holmes County / ZIP 39169 sector", "Holmes County / coords 33.1800, -90.2200"]
+zillowHomeValueUsd: 66351
 ---
 
 **Engineering Notice for Tchula:** structural drying capacity optimized for 125ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Holmes County. Relative Humidity Threshold: 79%. Sensor sync: Active.

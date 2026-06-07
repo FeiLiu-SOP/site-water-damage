@@ -11,6 +11,7 @@ lng: -110.8800
 zipSample: ["85750", "85718", "85728", "85715"]
 zipCodes: ["85728", "85718", "85750", "85715"]
 localPaths: ["Pima County / ZIP 85718 sector", "Pima County / coords 32.3000, -110.8800", "Pima County / ZIP 85750 sector", "Pima County / elevation 2785 ft band", "Pima County / ZIP 85715 sector"]
+zillowHomeValueUsd: 605339
 ---
 
 **Engineering Notice for Catalina Foothills:** Structural loading calculated based on 2785 ft terrain assessment. Regional dispatch grid: Pima County.

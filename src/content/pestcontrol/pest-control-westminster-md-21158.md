@@ -11,6 +11,7 @@ lng: -77.0100
 zipSample: ["21158", "21157"]
 zipCodes: ["21158", "21157"]
 localPaths: ["Carroll County / ZIP 21157 sector", "Carroll County / elevation 781 ft band", "Carroll County / ZIP 21158 sector", "Carroll County / primary ZIP 21158", "Carroll County / coords 39.5800, -77.0100"]
+zillowHomeValueUsd: 471345
 ---
 
 **Engineering Notice for Westminster:** Structural loading calculated based on 781 ft terrain assessment. Regional dispatch grid: Carroll County.

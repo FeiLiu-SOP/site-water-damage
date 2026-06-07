@@ -12,6 +12,7 @@ lng: -85.7500
 zipSample: ["37387"]
 zipCodes: ["37387"]
 localPaths: ["Grundy County / elevation 1900 ft band", "Grundy County / primary ZIP 37387", "Grundy County / coords 35.2600, -85.7500", "Grundy County / ZIP 37387 sector"]
+zillowHomeValueUsd: 192910
 ---
 
 **Engineering Notice for Tracy City:** System optimized for 137 mg/L hard water scaling factors in Tracy City. Regional dispatch grid: Grundy County.

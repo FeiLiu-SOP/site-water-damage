@@ -12,6 +12,7 @@ lng: -88.4400
 zipSample: ["38834"]
 zipCodes: ["38834"]
 localPaths: ["Alcorn County / primary ZIP 38834", "Alcorn County / ZIP 38834 sector", "Alcorn County / elevation 541 ft band", "Alcorn County / coords 34.9200, -88.4400"]
+zillowHomeValueUsd: 181221
 ---
 
 **Engineering Notice for Farmington:** structural drying capacity optimized for 541ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Alcorn County. Relative Humidity Threshold: 76%. Sensor sync: Active.

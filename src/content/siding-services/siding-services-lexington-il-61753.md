@@ -12,6 +12,7 @@ lng: -88.7800
 zipSample: ["61753"]
 zipCodes: ["61753"]
 localPaths: ["McLean County / primary ZIP 61753", "McLean County / ZIP 61753 sector", "McLean County / elevation 748 ft band", "McLean County / coords 40.6500, -88.7800"]
+zillowHomeValueUsd: 228870
 ---
 
 **Engineering Notice for Lexington:** Site context locked to McLean County. Exterior Cladding integrity verification recorded.

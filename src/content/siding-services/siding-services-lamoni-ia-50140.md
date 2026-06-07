@@ -12,6 +12,7 @@ lng: -93.9300
 zipSample: ["50140"]
 zipCodes: ["50140"]
 localPaths: ["Decatur County / ZIP 50140 sector", "Decatur County / primary ZIP 50140", "Decatur County / coords 40.6200, -93.9300", "Decatur County / elevation 1119 ft band"]
+zillowHomeValueUsd: 150624
 ---
 
 **Engineering Notice for Lamoni:** Structural integrity verification: Facade Renewal calibrated for 98 mph localized wind load factor. Coordinates: 40.6200, -93.9300. Regional dispatch grid: Decatur County.

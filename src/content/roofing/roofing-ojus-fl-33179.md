@@ -11,6 +11,7 @@ lng: -80.1600
 zipSample: ["33180", "33179"]
 zipCodes: ["33179", "33180"]
 localPaths: ["Miami-Dade County / elevation 30 ft band", "Miami-Dade County / ZIP 33180 sector", "Miami-Dade County / ZIP 33179 sector", "Miami-Dade County / coords 25.9600, -80.1600", "Miami-Dade County / primary ZIP 33179"]
+zillowHomeValueUsd: 277639
 ---
 
 **Engineering Notice for Ojus:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

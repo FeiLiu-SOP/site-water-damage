@@ -12,6 +12,7 @@ lng: -74.7800
 zipSample: ["08319", "08270", "08317", "08330"]
 zipCodes: ["08317", "08319", "08270", "08330"]
 localPaths: ["Atlantic County / primary ZIP 08317", "Atlantic County / elevation 49 ft band", "Atlantic County / coords 39.3600, -74.7800", "Atlantic County / ZIP 08319 sector", "Atlantic County / ZIP 08330 sector"]
+zillowHomeValueUsd: 361784
 ---
 
 **Engineering Notice for Estell Manor:** Site context locked to Atlantic County. Elevation: 49 ft AMSL. Exterior Envelope integrity verification recorded.

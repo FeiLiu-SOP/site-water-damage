@@ -11,6 +11,7 @@ lng: -122.3700
 zipSample: ["94011", "94010"]
 zipCodes: ["94011", "94010"]
 localPaths: ["San Mateo County / ZIP 94011 sector", "San Mateo County / ZIP 94010 sector", "San Mateo County / coords 37.5900, -122.3700", "San Mateo County / primary ZIP 94010", "San Mateo County / elevation 16 ft band"]
+zillowHomeValueUsd: 3405679
 ---
 
 **Engineering Notice for Burlingame:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: San Mateo County.

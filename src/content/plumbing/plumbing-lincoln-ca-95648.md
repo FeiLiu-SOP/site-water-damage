@@ -12,6 +12,7 @@ lng: -121.2900
 zipSample: ["95648"]
 zipCodes: ["95648"]
 localPaths: ["Placer County / ZIP 95648 sector", "Placer County / primary ZIP 95648", "Placer County / coords 38.8800, -121.2900", "Placer County / elevation 148 ft band"]
+zillowHomeValueUsd: 639768
 ---
 
 **Engineering Notice for Lincoln:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Placer County.

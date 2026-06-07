@@ -12,6 +12,7 @@ lng: -103.6900
 zipSample: ["80828"]
 zipCodes: ["80828"]
 localPaths: ["Lincoln County / ZIP 80828 sector", "Lincoln County / coords 39.2700, -103.6900", "Lincoln County / primary ZIP 80828", "Lincoln County / elevation 5367 ft band"]
+zillowHomeValueUsd: 281842
 ---
 
 **Engineering Notice for Limon:** Site context locked to Lincoln County. Coordinates: 39.2700, -103.6900. Exterior Cladding integrity verification recorded.

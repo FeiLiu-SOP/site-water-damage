@@ -12,6 +12,7 @@ lng: -94.4600
 zipSample: ["72722"]
 zipCodes: ["72722"]
 localPaths: ["Benton County / primary ZIP 72722", "Benton County / ZIP 72722 sector", "Benton County / elevation 1240 ft band", "Benton County / coords 36.3400, -94.4600"]
+zillowHomeValueUsd: 286912
 ---
 
 **Engineering Notice for Decatur:** System optimized for 175 mg/L hard water scaling factors in Decatur. Regional dispatch grid: Benton County.

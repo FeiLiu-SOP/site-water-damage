@@ -12,6 +12,7 @@ lng: -95.6900
 zipSample: ["75432"]
 zipCodes: ["75432"]
 localPaths: ["Delta County / primary ZIP 75432", "Delta County / elevation 502 ft band", "Delta County / ZIP 75432 sector", "Delta County / coords 33.3700, -95.6900"]
+zillowHomeValueUsd: 177291
 ---
 
 **Engineering Notice for Cooper:** Cladding Service was validated under stress factor 1.04; target tolerance set near 139 mph. Coordinates: 33.3700, -95.6900. Grid anchor: Delta County.

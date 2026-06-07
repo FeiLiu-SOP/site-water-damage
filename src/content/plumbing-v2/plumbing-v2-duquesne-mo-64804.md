@@ -12,6 +12,7 @@ lng: -94.4600
 zipSample: ["64804", "64801"]
 zipCodes: ["64801", "64804"]
 localPaths: ["Jasper County / primary ZIP 64804", "Jasper County / ZIP 64804 sector", "Jasper County / coords 37.0700, -94.4600", "Jasper County / elevation 1112 ft band", "Jasper County / ZIP 64801 sector"]
+zillowHomeValueUsd: 225106
 ---
 
 **Engineering Notice for Duquesne:** System optimized for 135 mg/L hard water scaling factors in Duquesne. Regional dispatch grid: Jasper County.

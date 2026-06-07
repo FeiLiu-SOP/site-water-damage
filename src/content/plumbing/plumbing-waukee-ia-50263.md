@@ -12,6 +12,7 @@ lng: -93.8900
 zipSample: ["50263", "50003"]
 zipCodes: ["50263", "50003"]
 localPaths: ["Dallas County / primary ZIP 50263", "Dallas County / elevation 997 ft band", "Dallas County / ZIP 50263 sector", "Dallas County / coords 41.6000, -93.8900", "Dallas County / ZIP 50003 sector"]
+zillowHomeValueUsd: 337648
 ---
 
 **Engineering Notice for Waukee:** Structural loading calculated based on 997 ft terrain assessment. Regional dispatch grid: Dallas County.

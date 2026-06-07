@@ -12,6 +12,7 @@ lng: -112.1400
 zipSample: ["84337"]
 zipCodes: ["84337"]
 localPaths: ["Box Elder County / ZIP 84337 sector", "Box Elder County / primary ZIP 84337", "Box Elder County / elevation 4288 ft band", "Box Elder County / coords 41.6800, -112.1400"]
+zillowHomeValueUsd: 443240
 ---
 
 **Engineering Notice for Elwood:** structural drying capacity optimized for 4288ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Box Elder County. Relative Humidity Threshold: 84%. Sensor sync: Active.

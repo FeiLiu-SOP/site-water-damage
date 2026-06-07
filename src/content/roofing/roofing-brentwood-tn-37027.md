@@ -11,6 +11,7 @@ lng: -86.7800
 zipSample: ["37027", "37024"]
 zipCodes: ["37024", "37027"]
 localPaths: ["Williamson County / ZIP 37027 sector", "Williamson County / primary ZIP 37027", "Williamson County / coords 35.9900, -86.7800", "Williamson County / elevation 735 ft band", "Williamson County / ZIP 37024 sector"]
+zillowHomeValueUsd: 1222887
 ---
 
 **Engineering Notice for Brentwood:** Structural loading calculated based on 735 ft terrain assessment. Regional dispatch grid: Williamson County.

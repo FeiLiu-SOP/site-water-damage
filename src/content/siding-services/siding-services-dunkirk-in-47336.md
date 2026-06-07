@@ -12,6 +12,7 @@ lng: -85.2100
 zipSample: ["47336"]
 zipCodes: ["47336"]
 localPaths: ["Jay County / coords 40.3700, -85.2100", "Jay County / ZIP 47336 sector", "Jay County / elevation 948 ft band", "Jay County / primary ZIP 47336"]
+zillowHomeValueUsd: 126691
 ---
 
 **Engineering Notice for Dunkirk:** Site context locked to Jay County. Elevation: 948 ft AMSL. Coordinates: 40.3700, -85.2100. Vinyl Panels integrity verification recorded.

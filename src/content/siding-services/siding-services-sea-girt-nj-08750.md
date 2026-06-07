@@ -12,6 +12,7 @@ lng: -74.0400
 zipSample: ["08750"]
 zipCodes: ["08750"]
 localPaths: ["Monmouth County / ZIP 08750 sector", "Monmouth County / elevation 23 ft band", "Monmouth County / primary ZIP 08750", "Monmouth County / coords 40.1300, -74.0400"]
+zillowHomeValueUsd: 2412346
 ---
 
 **Engineering Notice for Sea Girt:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Elevation: 23 ft AMSL. Grid: Monmouth County.

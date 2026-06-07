@@ -12,6 +12,7 @@ lng: -86.0500
 zipSample: ["36477"]
 zipCodes: ["36477"]
 localPaths: ["Geneva County / coords 31.1100, -86.0500", "Geneva County / ZIP 36477 sector", "Geneva County / primary ZIP 36477", "Geneva County / elevation 223 ft band"]
+zillowHomeValueUsd: 148296
 ---
 
 **Engineering Notice for Samson:** Structural integrity verification: Panel Replacement calibrated for 98 mph localized wind load factor. Coordinates: 31.1100, -86.0500. Regional dispatch grid: Geneva County.

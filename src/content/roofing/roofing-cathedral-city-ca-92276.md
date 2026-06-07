@@ -11,6 +11,7 @@ lng: -116.4600
 zipSample: ["92235", "92276", "92234"]
 zipCodes: ["92276", "92235", "92234"]
 localPaths: ["Riverside County / coords 33.8400, -116.4600", "Riverside County / ZIP 92234 sector", "Riverside County / ZIP 92235 sector", "Riverside County / ZIP 92276 sector", "Riverside County / primary ZIP 92276"]
+zillowHomeValueUsd: 388835
 ---
 
 **Engineering Notice for Cathedral City:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Riverside County.

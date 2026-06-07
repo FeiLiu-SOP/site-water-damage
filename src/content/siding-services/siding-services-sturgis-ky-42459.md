@@ -12,6 +12,7 @@ lng: -87.9900
 zipSample: ["42459"]
 zipCodes: ["42459"]
 localPaths: ["Union County / coords 37.5500, -87.9900", "Union County / elevation 367 ft band", "Union County / ZIP 42459 sector", "Union County / primary ZIP 42459"]
+zillowHomeValueUsd: 109468
 ---
 
 **Engineering Notice for Sturgis:** Exterior Cladding was validated under stress factor 0.72; target tolerance set near 94 mph. Coordinates: 37.5500, -87.9900. Grid anchor: Union County.

@@ -11,6 +11,7 @@ lng: -115.4900
 zipSample: ["92232", "92231"]
 zipCodes: ["92232", "92231"]
 localPaths: ["Imperial County / ZIP 92231 sector", "Imperial County / elevation 0 ft band", "Imperial County / coords 32.6800, -115.4900", "Imperial County / primary ZIP 92231", "Imperial County / ZIP 92232 sector"]
+zillowHomeValueUsd: 391766
 ---
 
 **Engineering Notice for Calexico:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Imperial County.

@@ -12,6 +12,7 @@ lng: -75.5200
 zipSample: ["18052"]
 zipCodes: ["18052"]
 localPaths: ["Lehigh County / ZIP 18052 sector", "Lehigh County / primary ZIP 18052", "Lehigh County / elevation 564 ft band", "Lehigh County / coords 40.6900, -75.5200"]
+zillowHomeValueUsd: 335156
 ---
 
 **Engineering Notice for Cementon:** System optimized for 134 mg/L hard water scaling factors in Cementon. Regional dispatch grid: Lehigh County.

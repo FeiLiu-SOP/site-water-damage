@@ -11,6 +11,7 @@ lng: -95.3600
 zipSample: ["77578"]
 zipCodes: ["77578"]
 localPaths: ["Brazoria County / ZIP 77578 sector", "Brazoria County / primary ZIP 77578", "Brazoria County / elevation 59 ft band", "Brazoria County / coords 29.4800, -95.3600"]
+zillowHomeValueUsd: 441288
 ---
 
 **Engineering Notice for Manvel:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Brazoria County.

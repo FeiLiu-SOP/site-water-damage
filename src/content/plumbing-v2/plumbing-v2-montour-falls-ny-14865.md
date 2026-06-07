@@ -12,6 +12,7 @@ lng: -76.8500
 zipSample: ["14865"]
 zipCodes: ["14865"]
 localPaths: ["Schuyler County / primary ZIP 14865", "Schuyler County / ZIP 14865 sector", "Schuyler County / elevation 469 ft band", "Schuyler County / coords 42.3500, -76.8500"]
+zillowHomeValueUsd: 206462
 ---
 
 **Engineering Notice for Montour Falls:** System optimized for 176 mg/L hard water scaling factors in Montour Falls. Regional dispatch grid: Schuyler County.

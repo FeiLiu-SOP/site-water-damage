@@ -12,6 +12,7 @@ lng: -81.5400
 zipSample: ["25214", "25315"]
 zipCodes: ["25315", "25214"]
 localPaths: ["Kanawha County / ZIP 25315 sector", "Kanawha County / coords 38.2200, -81.5400", "Kanawha County / elevation 610 ft band", "Kanawha County / ZIP 25214 sector", "Kanawha County / primary ZIP 25214"]
+zillowHomeValueUsd: 90958
 ---
 
 **Engineering Notice for Chesapeake:** Wall Restoration was validated under stress factor 1.16; target tolerance set near 105 mph. Grid anchor: Kanawha County.

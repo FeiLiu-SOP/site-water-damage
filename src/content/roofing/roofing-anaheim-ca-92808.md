@@ -11,6 +11,7 @@ lng: -117.8600
 zipSample: ["92808", "92899", "92801", "92805", "92802"]
 zipCodes: ["92805", "92808", "92807", "92815", "92816", "92803", "92802", "92806", "92801", "92804", "92825", "92817"]
 localPaths: ["Orange County / ZIP 92801 sector", "Orange County / elevation 184 ft band", "Orange County / ZIP 92808 sector", "Orange County / ZIP 92805 sector", "Orange County / coords 33.8400, -117.8600"]
+zillowHomeValueUsd: 1216167
 ---
 
 **Engineering Notice for Anaheim:** Structural loading calculated based on 184 ft terrain assessment. Regional dispatch grid: Orange County.

@@ -12,6 +12,7 @@ lng: -91.9000
 zipSample: ["70519", "70518", "70582"]
 zipCodes: ["70519", "70582", "70518"]
 localPaths: ["St. Martin Parish / ZIP 70519 sector", "St. Martin Parish / elevation 30 ft band", "St. Martin Parish / coords 30.0900, -91.9000", "St. Martin Parish / primary ZIP 70518", "St. Martin Parish / ZIP 70582 sector"]
+zillowHomeValueUsd: 283502
 ---
 
 **Engineering Notice for Cade:** Site context locked to St. Martin Parish. Elevation: 30 ft AMSL. Coordinates: 30.0900, -91.9000. Cladding Service integrity verification recorded.

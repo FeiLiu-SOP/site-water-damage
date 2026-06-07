@@ -11,6 +11,7 @@ lng: -77.0000
 zipSample: ["20913", "20912"]
 zipCodes: ["20913", "20912"]
 localPaths: ["Montgomery County / primary ZIP 20912", "Montgomery County / ZIP 20912 sector", "Montgomery County / coords 38.9800, -77.0000", "Montgomery County / ZIP 20913 sector", "Montgomery County / elevation 259 ft band"]
+zillowHomeValueUsd: 688458
 ---
 
 **Engineering Notice for Takoma Park:** Structural loading calculated based on 259 ft terrain assessment. Regional dispatch grid: Montgomery County.

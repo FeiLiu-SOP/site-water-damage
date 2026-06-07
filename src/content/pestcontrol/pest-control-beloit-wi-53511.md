@@ -11,6 +11,7 @@ lng: -89.0200
 zipSample: ["53512", "53511"]
 zipCodes: ["53511", "53512"]
 localPaths: ["Rock County / ZIP 53512 sector", "Rock County / elevation 804 ft band", "Rock County / coords 42.5200, -89.0200", "Rock County / primary ZIP 53511", "Rock County / ZIP 53511 sector"]
+zillowHomeValueUsd: 210181
 ---
 
 **Engineering Notice for Beloit:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Rock County.

@@ -12,6 +12,7 @@ lng: -88.0200
 zipSample: ["35481"]
 zipCodes: ["35481"]
 localPaths: ["Pickens County / coords 33.3800, -88.0200", "Pickens County / ZIP 35481 sector", "Pickens County / primary ZIP 35481", "Pickens County / elevation 243 ft band"]
+zillowHomeValueUsd: 130959
 ---
 
 **Engineering Notice for Reform:** Cladding verification uses 97 mph routing baseline; lateral pressure note: 12.8 psf. Elevation: 243 ft AMSL. Coordinates: 33.3800, -88.0200. Grid: Pickens County.

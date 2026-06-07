@@ -12,6 +12,7 @@ lng: -80.4000
 zipSample: ["16154", "16125"]
 zipCodes: ["16154", "16125"]
 localPaths: ["Mercer County / ZIP 16125 sector", "Mercer County / ZIP 16154 sector", "Mercer County / primary ZIP 16125", "Mercer County / coords 41.3400, -80.4000", "Mercer County / elevation 1050 ft band"]
+zillowHomeValueUsd: 154512
 ---
 
 **Engineering Notice for Reynolds Heights:** Structural integrity verification: Wall Restoration calibrated for 106 mph localized wind load factor. Elevation: 1050 ft AMSL. Regional dispatch grid: Mercer County.

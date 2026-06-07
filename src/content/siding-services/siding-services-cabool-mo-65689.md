@@ -12,6 +12,7 @@ lng: -92.1000
 zipSample: ["65689"]
 zipCodes: ["65689"]
 localPaths: ["Texas County / elevation 1342 ft band", "Texas County / primary ZIP 65689", "Texas County / coords 37.1300, -92.1000", "Texas County / ZIP 65689 sector"]
+zillowHomeValueUsd: 187953
 ---
 
 **Engineering Notice for Cabool:** Structural integrity verification: Weather Barrier Wrap calibrated for 98 mph localized wind load factor. Coordinates: 37.1300, -92.1000. Regional dispatch grid: Texas County.

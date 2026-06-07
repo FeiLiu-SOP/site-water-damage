@@ -12,6 +12,7 @@ lng: -78.5600
 zipSample: ["22824"]
 zipCodes: ["22824"]
 localPaths: ["Shenandoah County / coords 38.8200, -78.5600", "Shenandoah County / elevation 830 ft band", "Shenandoah County / ZIP 22824 sector", "Shenandoah County / primary ZIP 22824"]
+zillowHomeValueUsd: 341871
 ---
 
 **Engineering Notice for Edinburg:** structural drying capacity optimized for 830ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Shenandoah County. Relative Humidity Threshold: 66%. Sensor sync: Active.

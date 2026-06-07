@@ -12,6 +12,7 @@ lng: -81.3900
 zipSample: ["32751", "32810"]
 zipCodes: ["32751", "32810"]
 localPaths: ["Orange County / primary ZIP 32751", "Orange County / ZIP 32810 sector", "Orange County / elevation 105 ft band", "Orange County / coords 28.6200, -81.3900", "Orange County / ZIP 32751 sector"]
+zillowHomeValueUsd: 461492
 ---
 
 **Engineering Notice for Eatonville:** System optimized for 136 mg/L hard water scaling factors in Eatonville. Regional dispatch grid: Orange County.

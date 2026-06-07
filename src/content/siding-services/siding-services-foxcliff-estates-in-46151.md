@@ -12,6 +12,7 @@ lng: -86.3900
 zipSample: ["46151"]
 zipCodes: ["46151"]
 localPaths: ["Morgan County / elevation 699 ft band", "Morgan County / coords 39.4800, -86.3900", "Morgan County / primary ZIP 46151", "Morgan County / ZIP 46151 sector"]
+zillowHomeValueUsd: 288580
 ---
 
 **Engineering Notice for Foxcliff Estates:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Elevation: 699 ft AMSL. Grid: Morgan County.

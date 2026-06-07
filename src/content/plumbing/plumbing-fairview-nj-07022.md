@@ -12,6 +12,7 @@ lng: -74.0000
 zipSample: ["07022"]
 zipCodes: ["07022"]
 localPaths: ["Bergen County / coords 40.8200, -74.0000", "Bergen County / ZIP 07022 sector", "Bergen County / primary ZIP 07022", "Bergen County / elevation 262 ft band"]
+zillowHomeValueUsd: 654997
 ---
 
 **Engineering Notice for Fairview:** Structural loading calculated based on 262 ft terrain assessment. Regional dispatch grid: Bergen County.

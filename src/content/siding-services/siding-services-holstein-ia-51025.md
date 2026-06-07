@@ -12,6 +12,7 @@ lng: -95.5400
 zipSample: ["51025"]
 zipCodes: ["51025"]
 localPaths: ["Ida County / coords 42.4900, -95.5400", "Ida County / primary ZIP 51025", "Ida County / ZIP 51025 sector", "Ida County / elevation 1457 ft band"]
+zillowHomeValueUsd: 170259
 ---
 
 **Engineering Notice for Holstein:** Exterior Cladding was validated under stress factor 1.23; target tolerance set near 90 mph. Coordinates: 42.4900, -95.5400. Grid anchor: Ida County.

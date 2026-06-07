@@ -11,6 +11,7 @@ lng: -95.1500
 zipSample: ["77505", "77586", "77502", "77507", "77508"]
 zipCodes: ["77059", "77508", "77504", "77502", "77506", "77058", "77507", "77505", "77586", "77501", "77503", "77258"]
 localPaths: ["Harris County / ZIP 77505 sector", "Harris County / ZIP 77502 sector", "Harris County / ZIP 77586 sector", "Harris County / primary ZIP 77058", "Harris County / elevation 33 ft band"]
+zillowHomeValueUsd: 239195
 ---
 
 **Engineering Notice for Pasadena:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Harris County.

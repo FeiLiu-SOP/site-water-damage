@@ -12,6 +12,7 @@ lng: -119.6100
 zipSample: ["93662"]
 zipCodes: ["93662"]
 localPaths: ["Fresno County / coords 36.5700, -119.6100", "Fresno County / ZIP 93662 sector", "Fresno County / elevation 331 ft band", "Fresno County / primary ZIP 93662"]
+zillowHomeValueUsd: 364106
 ---
 
 **Engineering Notice for Selma:** Structural loading calculated based on 331 ft terrain assessment. Regional dispatch grid: Fresno County.

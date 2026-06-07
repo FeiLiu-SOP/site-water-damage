@@ -12,6 +12,7 @@ lng: -103.3200
 zipSample: ["69334"]
 zipCodes: ["69334"]
 localPaths: ["Morrill County / primary ZIP 69334", "Morrill County / ZIP 69334 sector", "Morrill County / coords 41.7600, -103.3200", "Morrill County / elevation 3770 ft band"]
+zillowHomeValueUsd: 154230
 ---
 
 **Engineering Notice for Bayard:** Site context locked to Morrill County. Elevation: 3770 ft AMSL. Cladding Service integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -85.8400
 zipSample: ["35772"]
 zipCodes: ["35772"]
 localPaths: ["Jackson County / primary ZIP 35772", "Jackson County / elevation 594 ft band", "Jackson County / coords 34.8500, -85.8400", "Jackson County / ZIP 35772 sector"]
+zillowHomeValueUsd: 176449
 ---
 
 **Engineering Notice for Stevenson:** System optimized for 136 mg/L hard water scaling factors in Stevenson. Regional dispatch grid: Jackson County.

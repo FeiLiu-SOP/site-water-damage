@@ -12,6 +12,7 @@ lng: -92.0000
 zipSample: ["70592"]
 zipCodes: ["70592"]
 localPaths: ["Lafayette Parish / coords 30.1000, -92.0000", "Lafayette Parish / elevation 52 ft band", "Lafayette Parish / ZIP 70592 sector", "Lafayette Parish / primary ZIP 70592"]
+zillowHomeValueUsd: 280011
 ---
 
 **Engineering Notice for Youngsville:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Lafayette Parish.

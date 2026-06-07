@@ -12,6 +12,7 @@ lng: -83.9600
 zipSample: ["48658"]
 zipCodes: ["48658"]
 localPaths: ["Arenac County / primary ZIP 48658", "Arenac County / ZIP 48658 sector", "Arenac County / elevation 627 ft band", "Arenac County / coords 43.9800, -83.9600"]
+zillowHomeValueUsd: 152921
 ---
 
 **Engineering Notice for Standish:** System optimized for 156 mg/L hard water scaling factors in Standish. Regional dispatch grid: Arenac County.

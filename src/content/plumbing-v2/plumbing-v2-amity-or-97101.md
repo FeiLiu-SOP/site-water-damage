@@ -12,6 +12,7 @@ lng: -123.2000
 zipSample: ["97101"]
 zipCodes: ["97101"]
 localPaths: ["Yamhill County / elevation 164 ft band", "Yamhill County / primary ZIP 97101", "Yamhill County / coords 45.1200, -123.2000", "Yamhill County / ZIP 97101 sector"]
+zillowHomeValueUsd: 577584
 ---
 
 **Engineering Notice for Amity:** System optimized for 172 mg/L hard water scaling factors in Amity. Regional dispatch grid: Yamhill County.

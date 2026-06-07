@@ -12,6 +12,7 @@ lng: -85.5300
 zipSample: ["49032"]
 zipCodes: ["49032"]
 localPaths: ["St. Joseph County / coords 41.9200, -85.5300", "St. Joseph County / ZIP 49032 sector", "St. Joseph County / primary ZIP 49032", "St. Joseph County / elevation 837 ft band"]
+zillowHomeValueUsd: 236538
 ---
 
 **Engineering Notice for Centreville:** System optimized for 173 mg/L hard water scaling factors in Centreville. Regional dispatch grid: St. Joseph County.

@@ -12,6 +12,7 @@ lng: -90.5800
 zipSample: ["70462"]
 zipCodes: ["70462"]
 localPaths: ["Livingston Parish / ZIP 70462 sector", "Livingston Parish / coords 30.3500, -90.5800", "Livingston Parish / elevation 59 ft band", "Livingston Parish / primary ZIP 70462"]
+zillowHomeValueUsd: 253338
 ---
 
 **Engineering Notice for Killian:** System optimized for 168 mg/L hard water scaling factors in Killian. Regional dispatch grid: Livingston Parish.

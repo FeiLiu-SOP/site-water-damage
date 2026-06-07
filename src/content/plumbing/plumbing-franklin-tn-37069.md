@@ -12,6 +12,7 @@ lng: -86.8500
 zipSample: ["37069", "37065", "37064", "37067", "37068"]
 zipCodes: ["37064", "37068", "37065", "37067", "37069"]
 localPaths: ["Williamson County / ZIP 37069 sector", "Williamson County / ZIP 37068 sector", "Williamson County / ZIP 37064 sector", "Williamson County / ZIP 37065 sector", "Williamson County / ZIP 37067 sector"]
+zillowHomeValueUsd: 1033257
 ---
 
 **Engineering Notice for Franklin:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Williamson County.

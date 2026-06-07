@@ -12,6 +12,7 @@ lng: -86.5200
 zipSample: ["37153"]
 zipCodes: ["37153"]
 localPaths: ["Rutherford County / elevation 689 ft band", "Rutherford County / primary ZIP 37153", "Rutherford County / coords 35.7700, -86.5200", "Rutherford County / ZIP 37153 sector"]
+zillowHomeValueUsd: 478840
 ---
 
 **Engineering Notice for Rockvale:** System optimized for 135 mg/L hard water scaling factors in Rockvale. Regional dispatch grid: Rutherford County.

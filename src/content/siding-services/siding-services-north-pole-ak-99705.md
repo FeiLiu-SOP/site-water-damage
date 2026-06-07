@@ -12,6 +12,7 @@ lng: -147.3600
 zipSample: ["99705"]
 zipCodes: ["99705"]
 localPaths: ["Fairbanks North Star County / primary ZIP 99705", "Fairbanks North Star County / elevation 0 ft band", "Fairbanks North Star County / ZIP 99705 sector", "Fairbanks North Star County / coords 64.7500, -147.3600"]
+zillowHomeValueUsd: 324121
 ---
 
 **Engineering Notice for North Pole:** Site context locked to Fairbanks North Star County. Coordinates: 64.7500, -147.3600. Cladding Retrofit integrity verification recorded.

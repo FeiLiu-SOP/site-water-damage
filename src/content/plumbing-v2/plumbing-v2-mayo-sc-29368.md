@@ -12,6 +12,8 @@ lng: -81.8500
 zipSample: ["29368", "29323", "29330"]
 zipCodes: ["29323", "29368", "29330"]
 localPaths: ["Spartanburg County / ZIP 29368 sector", "Spartanburg County / coords 35.0900, -81.8500", "Spartanburg County / ZIP 29330 sector", "Spartanburg County / primary ZIP 29368", "Spartanburg County / ZIP 29323 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 293847
 ---
 
 **Engineering Notice for Mayo:** System optimized for 176 mg/L hard water scaling factors in Mayo. Regional dispatch grid: Spartanburg County.

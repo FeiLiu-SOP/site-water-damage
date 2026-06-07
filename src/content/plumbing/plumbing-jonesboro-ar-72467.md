@@ -12,6 +12,7 @@ lng: -90.6800
 zipSample: ["72467", "72402", "72405", "72401", "72403"]
 zipCodes: ["72402", "72403", "72404", "72405", "72467", "72401"]
 localPaths: ["Craighead County / primary ZIP 72467", "Craighead County / ZIP 72402 sector", "Craighead County / ZIP 72403 sector", "Craighead County / ZIP 72467 sector", "Craighead County / ZIP 72401 sector"]
+zillowHomeValueUsd: 184561
 ---
 
 **Engineering Notice for Jonesboro:** Structural loading calculated based on 276 ft terrain assessment. Regional dispatch grid: Craighead County.

@@ -11,6 +11,7 @@ lng: -87.1900
 zipSample: ["32524", "32502", "32501", "32522", "32503"]
 zipCodes: ["32501", "32524", "32591", "32522", "32504", "32513", "32502", "32503"]
 localPaths: ["Escambia County / ZIP 32502 sector", "Escambia County / ZIP 32503 sector", "Escambia County / elevation 56 ft band", "Escambia County / ZIP 32524 sector", "Escambia County / coords 30.4400, -87.1900"]
+zillowHomeValueUsd: 294365
 ---
 
 **Engineering Notice for Pensacola:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Escambia County.

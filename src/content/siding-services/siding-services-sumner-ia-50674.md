@@ -12,6 +12,7 @@ lng: -92.1000
 zipSample: ["50674"]
 zipCodes: ["50674"]
 localPaths: ["Bremer County / coords 42.8500, -92.1000", "Bremer County / primary ZIP 50674", "Bremer County / elevation 1063 ft band", "Bremer County / ZIP 50674 sector"]
+zillowHomeValueUsd: 203240
 ---
 
 **Engineering Notice for Sumner:** Structural integrity verification: Vinyl Panels calibrated for 93 mph localized wind load factor. Elevation: 1063 ft AMSL. Coordinates: 42.8500, -92.1000. Regional dispatch grid: Bremer County.

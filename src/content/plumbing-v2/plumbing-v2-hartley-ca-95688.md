@@ -12,6 +12,7 @@ lng: -121.9500
 zipSample: ["95688"]
 zipCodes: ["95688"]
 localPaths: ["Solano County / ZIP 95688 sector", "Solano County / primary ZIP 95688", "Solano County / coords 38.4200, -121.9500", "Solano County / elevation 131 ft band"]
+zillowHomeValueUsd: 663283
 ---
 
 **Engineering Notice for Hartley:** System optimized for 124 mg/L hard water scaling factors in Hartley. Regional dispatch grid: Solano County.

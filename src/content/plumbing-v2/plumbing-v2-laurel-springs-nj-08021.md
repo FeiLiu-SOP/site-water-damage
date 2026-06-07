@@ -12,6 +12,7 @@ lng: -75.0100
 zipSample: ["08021"]
 zipCodes: ["08021"]
 localPaths: ["Camden County / primary ZIP 08021", "Camden County / coords 39.8200, -75.0100", "Camden County / elevation 95 ft band", "Camden County / ZIP 08021 sector"]
+zillowHomeValueUsd: 285602
 ---
 
 **Engineering Notice for Laurel Springs:** System optimized for 179 mg/L hard water scaling factors in Laurel Springs. Regional dispatch grid: Camden County.

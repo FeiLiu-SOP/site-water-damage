@@ -11,6 +11,7 @@ lng: -96.6700
 zipSample: ["75070", "75071", "75069", "75072"]
 zipCodes: ["75070", "75071", "75069", "75072"]
 localPaths: ["Collin County / ZIP 75072 sector", "Collin County / ZIP 75070 sector", "Collin County / primary ZIP 75069", "Collin County / coords 33.2000, -96.6700", "Collin County / elevation 604 ft band"]
+zillowHomeValueUsd: 418051
 ---
 
 **Engineering Notice for McKinney:** Structural loading calculated based on 604 ft terrain assessment. Regional dispatch grid: Collin County.

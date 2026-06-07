@@ -12,6 +12,7 @@ lng: -75.3800
 zipSample: ["13323"]
 zipCodes: ["13323"]
 localPaths: ["Oneida County / primary ZIP 13323", "Oneida County / coords 43.0500, -75.3800", "Oneida County / elevation 610 ft band", "Oneida County / ZIP 13323 sector"]
+zillowHomeValueUsd: 297036
 ---
 
 **Engineering Notice for Clinton:** Envelope check: Facade Renewal assigned to wind-load band B with stress factor 1.07. Elevation: 610 ft AMSL. Regional dispatch grid: Oneida County.

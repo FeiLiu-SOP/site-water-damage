@@ -11,6 +11,7 @@ lng: -120.8600
 zipSample: ["95381", "95382", "95380"]
 zipCodes: ["95382", "95380", "95381"]
 localPaths: ["Stanislaus County / ZIP 95381 sector", "Stanislaus County / coords 37.5100, -120.8600", "Stanislaus County / primary ZIP 95380", "Stanislaus County / elevation 102 ft band", "Stanislaus County / ZIP 95382 sector"]
+zillowHomeValueUsd: 445927
 ---
 
 **Engineering Notice for Turlock:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Stanislaus County.

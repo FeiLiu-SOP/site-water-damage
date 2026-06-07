@@ -11,6 +11,7 @@ lng: -111.0000
 zipSample: ["85614", "85622"]
 zipCodes: ["85622", "85614"]
 localPaths: ["Pima County / primary ZIP 85622", "Pima County / coords 31.8400, -111.0000", "Pima County / elevation 2930 ft band", "Pima County / ZIP 85614 sector", "Pima County / ZIP 85622 sector"]
+zillowHomeValueUsd: 346722
 ---
 
 **Engineering Notice for Green Valley:** Structural loading calculated based on 2930 ft terrain assessment. Regional dispatch grid: Pima County.

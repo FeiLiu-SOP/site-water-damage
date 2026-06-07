@@ -12,6 +12,7 @@ lng: -83.9600
 zipSample: ["43072"]
 zipCodes: ["43072"]
 localPaths: ["Champaign County / elevation 1227 ft band", "Champaign County / coords 40.1300, -83.9600", "Champaign County / ZIP 43072 sector", "Champaign County / primary ZIP 43072"]
+zillowHomeValueUsd: 241067
 ---
 
 **Engineering Notice for St. Paris:** structural drying capacity optimized for 1227ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Champaign County. Relative Humidity Threshold: 72%. Sensor sync: Active.

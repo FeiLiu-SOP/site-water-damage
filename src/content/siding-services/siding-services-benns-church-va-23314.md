@@ -12,6 +12,7 @@ lng: -76.5800
 zipSample: ["23430", "23314"]
 zipCodes: ["23430", "23314"]
 localPaths: ["Isle of Wight County / elevation 39 ft band", "Isle of Wight County / primary ZIP 23314", "Isle of Wight County / ZIP 23314 sector", "Isle of Wight County / ZIP 23430 sector", "Isle of Wight County / coords 36.9400, -76.5800"]
+zillowHomeValueUsd: 415047
 ---
 
 **Engineering Notice for Benns Church:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Grid: Isle of Wight County.

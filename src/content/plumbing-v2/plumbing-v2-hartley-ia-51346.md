@@ -12,6 +12,7 @@ lng: -95.4800
 zipSample: ["51346"]
 zipCodes: ["51346"]
 localPaths: ["O'Brien County / ZIP 51346 sector", "O'Brien County / elevation 1453 ft band", "O'Brien County / primary ZIP 51346", "O'Brien County / coords 43.1800, -95.4800"]
+zillowHomeValueUsd: 174410
 ---
 
 **Engineering Notice for Hartley:** System optimized for 170 mg/L hard water scaling factors in Hartley. Regional dispatch grid: O'Brien County.

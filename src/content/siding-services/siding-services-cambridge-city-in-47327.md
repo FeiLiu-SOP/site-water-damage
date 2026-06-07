@@ -12,6 +12,7 @@ lng: -85.1700
 zipSample: ["47327"]
 zipCodes: ["47327"]
 localPaths: ["Wayne County / elevation 925 ft band", "Wayne County / primary ZIP 47327", "Wayne County / ZIP 47327 sector", "Wayne County / coords 39.8100, -85.1700"]
+zillowHomeValueUsd: 180823
 ---
 
 **Engineering Notice for Cambridge City:** Envelope check: Weather Barrier Wrap assigned to wind-load band B with stress factor 0.76. Elevation: 925 ft AMSL. Regional dispatch grid: Wayne County.

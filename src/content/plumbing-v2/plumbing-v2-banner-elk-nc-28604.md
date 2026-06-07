@@ -12,6 +12,7 @@ lng: -81.8700
 zipSample: ["28604"]
 zipCodes: ["28604"]
 localPaths: ["Avery County / primary ZIP 28604", "Avery County / elevation 3871 ft band", "Avery County / ZIP 28604 sector", "Avery County / coords 36.1600, -81.8700"]
+zillowHomeValueUsd: 489877
 ---
 
 **Engineering Notice for Banner Elk:** System optimized for 151 mg/L hard water scaling factors in Banner Elk. Regional dispatch grid: Avery County.

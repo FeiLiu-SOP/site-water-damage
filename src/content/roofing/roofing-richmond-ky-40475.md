@@ -11,6 +11,7 @@ lng: -84.2900
 zipSample: ["40476", "40475"]
 zipCodes: ["40475", "40476"]
 localPaths: ["Madison County / ZIP 40476 sector", "Madison County / primary ZIP 40475", "Madison County / ZIP 40475 sector", "Madison County / coords 37.7300, -84.2900", "Madison County / elevation 1004 ft band"]
+zillowHomeValueUsd: 297107
 ---
 
 **Engineering Notice for Richmond:** Structural loading calculated based on 1004 ft terrain assessment. Regional dispatch grid: Madison County.

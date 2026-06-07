@@ -12,6 +12,7 @@ lng: -88.0000
 zipSample: ["54151"]
 zipCodes: ["54151"]
 localPaths: ["Marinette County / coords 45.7800, -88.0000", "Marinette County / primary ZIP 54151", "Marinette County / ZIP 54151 sector", "Marinette County / elevation 1066 ft band"]
+zillowHomeValueUsd: 180859
 ---
 
 **Engineering Notice for Niagara:** System optimized for 128 mg/L hard water scaling factors in Niagara. Regional dispatch grid: Marinette County.

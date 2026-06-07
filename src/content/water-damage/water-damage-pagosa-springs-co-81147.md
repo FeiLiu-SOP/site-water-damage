@@ -12,6 +12,7 @@ lng: -107.0300
 zipSample: ["81147"]
 zipCodes: ["81147"]
 localPaths: ["Archuleta County / coords 37.2700, -107.0300", "Archuleta County / primary ZIP 81147", "Archuleta County / elevation 7287 ft band", "Archuleta County / ZIP 81147 sector"]
+zillowHomeValueUsd: 563890
 ---
 
 **Engineering Notice for Pagosa Springs:** structural drying capacity optimized for 7287ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Archuleta County. Relative Humidity Threshold: 83%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -85.4900
 zipSample: ["49355", "49516", "49357", "49301", "49356"]
 zipCodes: ["49355", "49516", "49356", "49301", "49357", "49546"]
 localPaths: ["Kent County / elevation 646 ft band", "Kent County / ZIP 49301 sector", "Kent County / ZIP 49516 sector", "Kent County / ZIP 49355 sector", "Kent County / primary ZIP 49301"]
+zillowHomeValueUsd: 648979
 ---
 
 **Engineering Notice for Forest Hills:** Structural loading calculated based on 646 ft terrain assessment. Regional dispatch grid: Kent County.

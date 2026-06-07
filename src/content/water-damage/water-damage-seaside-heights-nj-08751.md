@@ -12,6 +12,7 @@ lng: -74.0800
 zipSample: ["08751"]
 zipCodes: ["08751"]
 localPaths: ["Ocean County / ZIP 08751 sector", "Ocean County / primary ZIP 08751", "Ocean County / elevation 0 ft band", "Ocean County / coords 39.9500, -74.0800"]
+zillowHomeValueUsd: 712597
 ---
 
 **Engineering Notice for Seaside Heights:** structural drying capacity optimized for 0ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ocean County. Relative Humidity Threshold: 75%. Sensor sync: Active.

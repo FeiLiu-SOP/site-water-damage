@@ -12,6 +12,7 @@ lng: -89.1200
 zipSample: ["39365"]
 zipCodes: ["39365"]
 localPaths: ["Newton County / ZIP 39365 sector", "Newton County / elevation 512 ft band", "Newton County / coords 32.5700, -89.1200", "Newton County / primary ZIP 39365"]
+zillowHomeValueUsd: 148775
 ---
 
 **Engineering Notice for Union:** System optimized for 140 mg/L hard water scaling factors in Union. Regional dispatch grid: Newton County.

@@ -12,6 +12,7 @@ lng: -86.2700
 zipSample: ["35953", "35987"]
 zipCodes: ["35953", "35987"]
 localPaths: ["St. Clair County / ZIP 35953 sector", "St. Clair County / primary ZIP 35953", "St. Clair County / ZIP 35987 sector", "St. Clair County / elevation 554 ft band", "St. Clair County / coords 33.8300, -86.2700"]
+zillowHomeValueUsd: 251975
 ---
 
 **Engineering Notice for Ashville:** System optimized for 158 mg/L hard water scaling factors in Ashville. Regional dispatch grid: St. Clair County.

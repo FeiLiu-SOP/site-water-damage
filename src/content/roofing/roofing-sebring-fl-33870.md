@@ -11,6 +11,7 @@ lng: -81.4500
 zipSample: ["33875", "33870", "33871"]
 zipCodes: ["33875", "33870", "33871"]
 localPaths: ["Highlands County / ZIP 33871 sector", "Highlands County / coords 27.4800, -81.4500", "Highlands County / elevation 102 ft band", "Highlands County / ZIP 33875 sector", "Highlands County / primary ZIP 33870"]
+zillowHomeValueUsd: 205281
 ---
 
 **Engineering Notice for Sebring:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Highlands County.

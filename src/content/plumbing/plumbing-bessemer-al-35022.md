@@ -12,6 +12,7 @@ lng: -86.9700
 zipSample: ["35022", "35020"]
 zipCodes: ["35022", "35020"]
 localPaths: ["Jefferson County / primary ZIP 35022", "Jefferson County / ZIP 35022 sector", "Jefferson County / elevation 515 ft band", "Jefferson County / coords 33.3700, -86.9700", "Jefferson County / ZIP 35020 sector"]
+zillowHomeValueUsd: 280008
 ---
 
 **Engineering Notice for Bessemer:** Structural loading calculated based on 515 ft terrain assessment. Regional dispatch grid: Jefferson County.

@@ -12,6 +12,7 @@ lng: -103.1100
 zipSample: ["57703"]
 zipCodes: ["57703"]
 localPaths: ["Pennington County / elevation 3041 ft band", "Pennington County / ZIP 57703 sector", "Pennington County / coords 44.0400, -103.1100", "Pennington County / primary ZIP 57703"]
+zillowHomeValueUsd: 358002
 ---
 
 **Engineering Notice for Green Valley:** System optimized for 152 mg/L hard water scaling factors in Green Valley. Regional dispatch grid: Pennington County.

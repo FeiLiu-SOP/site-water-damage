@@ -12,6 +12,8 @@ lng: -158.5400
 zipSample: ["99576"]
 zipCodes: ["99576"]
 localPaths: ["Dillingham County / primary ZIP 99576", "Dillingham County / coords 59.0500, -158.5400", "Dillingham County / elevation 102 ft band", "Dillingham County / ZIP 99576 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 370548
 ---
 
 **Engineering Notice for Dillingham:** Cladding verification uses 96 mph routing baseline; lateral pressure note: 12.7 psf. Elevation: 102 ft AMSL. Grid: Dillingham County.

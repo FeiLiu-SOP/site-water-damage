@@ -12,6 +12,7 @@ lng: -96.6000
 zipSample: ["74030"]
 zipCodes: ["74030"]
 localPaths: ["Creek County / ZIP 74030 sector", "Creek County / primary ZIP 74030", "Creek County / coords 35.9900, -96.6000", "Creek County / elevation 807 ft band"]
+zillowHomeValueUsd: 109465
 ---
 
 **Engineering Notice for Drumright:** System optimized for 141 mg/L hard water scaling factors in Drumright. Regional dispatch grid: Creek County.

@@ -11,6 +11,7 @@ lng: -117.7000
 zipSample: ["91763"]
 zipCodes: ["91763"]
 localPaths: ["San Bernardino County / coords 34.0700, -117.7000", "San Bernardino County / ZIP 91763 sector", "San Bernardino County / elevation 1017 ft band", "San Bernardino County / primary ZIP 91763"]
+zillowHomeValueUsd: 661838
 ---
 
 **Engineering Notice for Montclair:** Structural loading calculated based on 1017 ft terrain assessment. Regional dispatch grid: San Bernardino County.

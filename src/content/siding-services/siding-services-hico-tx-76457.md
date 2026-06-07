@@ -12,6 +12,7 @@ lng: -98.0300
 zipSample: ["76457"]
 zipCodes: ["76457"]
 localPaths: ["Hamilton County / elevation 1070 ft band", "Hamilton County / coords 31.9900, -98.0300", "Hamilton County / ZIP 76457 sector", "Hamilton County / primary ZIP 76457"]
+zillowHomeValueUsd: 352121
 ---
 
 **Engineering Notice for Hico:** Site context locked to Hamilton County. Elevation: 1070 ft AMSL. Coordinates: 31.9900, -98.0300. Exterior Envelope integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -77.3500
 zipSample: ["22427", "22428"]
 zipCodes: ["22428", "22427"]
 localPaths: ["Caroline County / primary ZIP 22427", "Caroline County / ZIP 22428 sector", "Caroline County / ZIP 22427 sector", "Caroline County / elevation 226 ft band", "Caroline County / coords 38.0500, -77.3500"]
+zillowHomeValueUsd: 365829
 ---
 
 **Engineering Notice for Bowling Green:** System optimized for 155 mg/L hard water scaling factors in Bowling Green. Regional dispatch grid: Caroline County.

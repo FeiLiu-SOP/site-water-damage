@@ -12,6 +12,7 @@ lng: -91.3500
 zipSample: ["65565"]
 zipCodes: ["65565"]
 localPaths: ["Crawford County / primary ZIP 65565", "Crawford County / coords 37.9700, -91.3500", "Crawford County / ZIP 65565 sector", "Crawford County / elevation 768 ft band"]
+zillowHomeValueUsd: 208871
 ---
 
 **Engineering Notice for Steelville:** System optimized for 163 mg/L hard water scaling factors in Steelville. Regional dispatch grid: Crawford County.

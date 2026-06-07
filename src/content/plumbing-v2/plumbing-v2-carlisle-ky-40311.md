@@ -12,6 +12,7 @@ lng: -84.0300
 zipSample: ["40311"]
 zipCodes: ["40311"]
 localPaths: ["Nicholas County / primary ZIP 40311", "Nicholas County / coords 38.3200, -84.0300", "Nicholas County / ZIP 40311 sector", "Nicholas County / elevation 906 ft band"]
+zillowHomeValueUsd: 195162
 ---
 
 **Engineering Notice for Carlisle:** System optimized for 180 mg/L hard water scaling factors in Carlisle. Regional dispatch grid: Nicholas County.

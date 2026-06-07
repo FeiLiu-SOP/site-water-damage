@@ -11,6 +11,7 @@ lng: -94.4600
 zipSample: ["64083"]
 zipCodes: ["64083"]
 localPaths: ["Cass County / primary ZIP 64083", "Cass County / elevation 1119 ft band", "Cass County / ZIP 64083 sector", "Cass County / coords 38.8000, -94.4600"]
+zillowHomeValueUsd: 360097
 ---
 
 **Engineering Notice for Raymore:** Structural loading calculated based on 1119 ft terrain assessment. Regional dispatch grid: Cass County.

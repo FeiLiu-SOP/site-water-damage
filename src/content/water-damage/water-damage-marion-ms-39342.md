@@ -12,6 +12,7 @@ lng: -88.6500
 zipSample: ["39364", "39342"]
 zipCodes: ["39342", "39364"]
 localPaths: ["Lauderdale County / elevation 394 ft band", "Lauderdale County / coords 32.4300, -88.6500", "Lauderdale County / ZIP 39342 sector", "Lauderdale County / ZIP 39364 sector", "Lauderdale County / primary ZIP 39342"]
+zillowHomeValueUsd: 173887
 ---
 
 **Engineering Notice for Marion:** structural drying capacity optimized for 394ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lauderdale County. Relative Humidity Threshold: 79%. Sensor sync: Active.

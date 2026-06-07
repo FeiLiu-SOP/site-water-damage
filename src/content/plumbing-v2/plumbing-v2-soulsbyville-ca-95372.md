@@ -12,6 +12,7 @@ lng: -120.2600
 zipSample: ["95372", "95383"]
 zipCodes: ["95372", "95383"]
 localPaths: ["Tuolumne County / primary ZIP 95372", "Tuolumne County / coords 37.9900, -120.2600", "Tuolumne County / elevation 2936 ft band", "Tuolumne County / ZIP 95372 sector", "Tuolumne County / ZIP 95383 sector"]
+zillowHomeValueUsd: 389242
 ---
 
 **Engineering Notice for Soulsbyville:** System optimized for 176 mg/L hard water scaling factors in Soulsbyville. Regional dispatch grid: Tuolumne County.

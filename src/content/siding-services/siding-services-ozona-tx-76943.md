@@ -12,6 +12,7 @@ lng: -101.2100
 zipSample: ["76943"]
 zipCodes: ["76943"]
 localPaths: ["Crockett County / primary ZIP 76943", "Crockett County / ZIP 76943 sector", "Crockett County / elevation 2333 ft band", "Crockett County / coords 30.7100, -101.2100"]
+zillowHomeValueUsd: 114085
 ---
 
 **Engineering Notice for Ozona:** Vinyl Panels was validated under stress factor 0.73; target tolerance set near 147 mph. Coordinates: 30.7100, -101.2100. Grid anchor: Crockett County.

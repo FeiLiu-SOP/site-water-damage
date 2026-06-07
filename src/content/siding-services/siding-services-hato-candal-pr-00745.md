@@ -12,6 +12,8 @@ lng: -65.7900
 zipSample: ["00745"]
 zipCodes: ["00745"]
 localPaths: ["Río Grande County / elevation 161 ft band", "Río Grande County / coords 18.3700, -65.7900", "Río Grande County / primary ZIP 00745", "Río Grande County / ZIP 00745 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 383249
 ---
 
 **Engineering Notice for Hato Candal:** Envelope check: Cladding Retrofit assigned to wind-load band B with stress factor 0.98. Elevation: 161 ft AMSL. Regional dispatch grid: Río Grande County.

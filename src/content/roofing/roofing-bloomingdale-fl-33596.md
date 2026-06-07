@@ -11,6 +11,7 @@ lng: -82.2600
 zipSample: ["33596", "33511"]
 zipCodes: ["33596", "33511"]
 localPaths: ["Hillsborough County / ZIP 33511 sector", "Hillsborough County / ZIP 33596 sector", "Hillsborough County / primary ZIP 33596", "Hillsborough County / coords 27.8800, -82.2600", "Hillsborough County / elevation 75 ft band"]
+zillowHomeValueUsd: 460061
 ---
 
 **Engineering Notice for Bloomingdale:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Hillsborough County.

@@ -12,6 +12,7 @@ lng: -78.9400
 zipSample: ["22821"]
 zipCodes: ["22821"]
 localPaths: ["Rockingham County / primary ZIP 22821", "Rockingham County / coords 38.4200, -78.9400", "Rockingham County / ZIP 22821 sector", "Rockingham County / elevation 1234 ft band"]
+zillowHomeValueUsd: 359899
 ---
 
 **Engineering Notice for Dayton:** Envelope check: Panel Replacement assigned to wind-load band C with stress factor 1.25. Elevation: 1234 ft AMSL. Regional dispatch grid: Rockingham County.

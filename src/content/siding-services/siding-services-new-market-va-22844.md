@@ -12,6 +12,7 @@ lng: -78.6700
 zipSample: ["22844"]
 zipCodes: ["22844"]
 localPaths: ["Shenandoah County / ZIP 22844 sector", "Shenandoah County / primary ZIP 22844", "Shenandoah County / coords 38.6500, -78.6700", "Shenandoah County / elevation 1050 ft band"]
+zillowHomeValueUsd: 333838
 ---
 
 **Engineering Notice for New Market:** Envelope check: Vinyl Panels assigned to wind-load band C with stress factor 1.07. Regional dispatch grid: Shenandoah County.

@@ -12,6 +12,7 @@ lng: -90.5800
 zipSample: ["70462"]
 zipCodes: ["70462"]
 localPaths: ["Livingston Parish / primary ZIP 70462", "Livingston Parish / ZIP 70462 sector", "Livingston Parish / coords 30.3500, -90.5800", "Livingston Parish / elevation 59 ft band"]
+zillowHomeValueUsd: 253340
 ---
 
 **Engineering Notice for Killian:** structural drying capacity optimized for 59ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Livingston Parish. Relative Humidity Threshold: 71%. Sensor sync: Active.

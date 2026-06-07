@@ -12,6 +12,7 @@ lng: -73.9500
 zipSample: ["10516"]
 zipCodes: ["10516"]
 localPaths: ["Putnam County / elevation 131 ft band", "Putnam County / primary ZIP 10516", "Putnam County / ZIP 10516 sector", "Putnam County / coords 41.4200, -73.9500"]
+zillowHomeValueUsd: 706610
 ---
 
 **Engineering Notice for Cold Spring:** structural drying capacity optimized for 131ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Putnam County. Relative Humidity Threshold: 67%. Sensor sync: Active.

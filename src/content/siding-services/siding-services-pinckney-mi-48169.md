@@ -12,6 +12,7 @@ lng: -83.9500
 zipSample: ["48169"]
 zipCodes: ["48169"]
 localPaths: ["Livingston County / primary ZIP 48169", "Livingston County / ZIP 48169 sector", "Livingston County / elevation 886 ft band", "Livingston County / coords 42.4500, -83.9500"]
+zillowHomeValueUsd: 392321
 ---
 
 **Engineering Notice for Pinckney:** Envelope check: Cladding Service assigned to wind-load band A with stress factor 1.02. Regional dispatch grid: Livingston County.

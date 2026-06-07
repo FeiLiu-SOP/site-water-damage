@@ -11,6 +11,7 @@ lng: -117.7300
 zipSample: ["92656"]
 zipCodes: ["92656"]
 localPaths: ["Orange County / ZIP 92656 sector", "Orange County / primary ZIP 92656", "Orange County / coords 33.5800, -117.7300", "Orange County / elevation 482 ft band"]
+zillowHomeValueUsd: 1000845
 ---
 
 **Engineering Notice for Aliso Viejo:** Structural loading calculated based on 482 ft terrain assessment. Regional dispatch grid: Orange County.

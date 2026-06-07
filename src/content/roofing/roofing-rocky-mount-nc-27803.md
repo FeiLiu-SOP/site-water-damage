@@ -11,6 +11,7 @@ lng: -77.8000
 zipSample: ["27803", "27801", "27804"]
 zipCodes: ["27804", "27801", "27803"]
 localPaths: ["Nash County / primary ZIP 27803", "Nash County / ZIP 27804 sector", "Nash County / coords 35.9700, -77.8000", "Nash County / ZIP 27803 sector", "Nash County / ZIP 27801 sector"]
+zillowHomeValueUsd: 206774
 ---
 
 **Engineering Notice for Rocky Mount:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Nash County.

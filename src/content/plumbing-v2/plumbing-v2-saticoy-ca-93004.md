@@ -12,6 +12,7 @@ lng: -119.1500
 zipSample: ["93004"]
 zipCodes: ["93004"]
 localPaths: ["Ventura County / elevation 144 ft band", "Ventura County / primary ZIP 93004", "Ventura County / ZIP 93004 sector", "Ventura County / coords 34.2800, -119.1500"]
+zillowHomeValueUsd: 874623
 ---
 
 **Engineering Notice for Saticoy:** System optimized for 173 mg/L hard water scaling factors in Saticoy. Regional dispatch grid: Ventura County.

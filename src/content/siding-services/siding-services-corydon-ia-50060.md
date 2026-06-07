@@ -12,6 +12,7 @@ lng: -93.3200
 zipSample: ["50060"]
 zipCodes: ["50060"]
 localPaths: ["Wayne County / primary ZIP 50060", "Wayne County / coords 40.7600, -93.3200", "Wayne County / elevation 1099 ft band", "Wayne County / ZIP 50060 sector"]
+zillowHomeValueUsd: 150020
 ---
 
 **Engineering Notice for Corydon:** Structural integrity verification: Exterior Cladding calibrated for 99 mph localized wind load factor. Elevation: 1099 ft AMSL. Regional dispatch grid: Wayne County.

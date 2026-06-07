@@ -11,6 +11,7 @@ lng: -83.3700
 zipSample: ["48154", "48153", "48152", "48151", "48150"]
 zipCodes: ["48151", "48152", "48153", "48150", "48154"]
 localPaths: ["Wayne County / ZIP 48150 sector", "Wayne County / elevation 669 ft band", "Wayne County / ZIP 48152 sector", "Wayne County / ZIP 48151 sector", "Wayne County / primary ZIP 48152"]
+zillowHomeValueUsd: 323109
 ---
 
 **Engineering Notice for Livonia:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Wayne County.

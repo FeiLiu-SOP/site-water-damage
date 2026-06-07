@@ -12,6 +12,7 @@ lng: -77.2300
 zipSample: ["22152"]
 zipCodes: ["22152"]
 localPaths: ["Fairfax County / ZIP 22152 sector", "Fairfax County / elevation 295 ft band", "Fairfax County / coords 38.7800, -77.2300", "Fairfax County / primary ZIP 22152"]
+zillowHomeValueUsd: 697906
 ---
 
 **Engineering Notice for West Springfield:** Structural loading calculated based on 295 ft terrain assessment. Regional dispatch grid: Fairfax County.

@@ -11,6 +11,7 @@ lng: -111.8300
 zipSample: ["84107", "84117", "84106", "84109", "84124"]
 zipCodes: ["84109", "84124", "84107", "84106", "84117"]
 localPaths: ["Salt Lake County / ZIP 84124 sector", "Salt Lake County / ZIP 84107 sector", "Salt Lake County / ZIP 84117 sector", "Salt Lake County / ZIP 84109 sector", "Salt Lake County / coords 40.6900, -111.8300"]
+zillowHomeValueUsd: 694556
 ---
 
 **Engineering Notice for Millcreek:** Structural loading calculated based on 4573 ft terrain assessment. Regional dispatch grid: Salt Lake County.

@@ -11,6 +11,7 @@ lng: -76.8100
 zipSample: ["14904", "14905", "14901", "14902"]
 zipCodes: ["14901", "14905", "14904", "14902"]
 localPaths: ["Chemung County / primary ZIP 14901", "Chemung County / elevation 866 ft band", "Chemung County / ZIP 14902 sector", "Chemung County / ZIP 14901 sector", "Chemung County / ZIP 14904 sector"]
+zillowHomeValueUsd: 105467
 ---
 
 **Engineering Notice for Elmira:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Chemung County.

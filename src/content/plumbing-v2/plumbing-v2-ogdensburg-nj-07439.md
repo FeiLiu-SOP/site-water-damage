@@ -12,6 +12,7 @@ lng: -74.6000
 zipSample: ["07439"]
 zipCodes: ["07439"]
 localPaths: ["Sussex County / primary ZIP 07439", "Sussex County / coords 41.0800, -74.6000", "Sussex County / elevation 597 ft band", "Sussex County / ZIP 07439 sector"]
+zillowHomeValueUsd: 421697
 ---
 
 **Engineering Notice for Ogdensburg:** System optimized for 161 mg/L hard water scaling factors in Ogdensburg. Regional dispatch grid: Sussex County.

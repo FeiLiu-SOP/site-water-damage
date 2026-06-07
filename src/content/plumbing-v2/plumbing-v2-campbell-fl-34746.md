@@ -12,6 +12,7 @@ lng: -81.4500
 zipSample: ["34746"]
 zipCodes: ["34746"]
 localPaths: ["Osceola County / elevation 85 ft band", "Osceola County / ZIP 34746 sector", "Osceola County / coords 28.2600, -81.4500", "Osceola County / primary ZIP 34746"]
+zillowHomeValueUsd: 360665
 ---
 
 **Engineering Notice for Campbell:** System optimized for 149 mg/L hard water scaling factors in Campbell. Regional dispatch grid: Osceola County.

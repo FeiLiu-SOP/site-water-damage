@@ -12,6 +12,7 @@ lng: -100.8500
 zipSample: ["67877"]
 zipCodes: ["67877"]
 localPaths: ["Haskell County / primary ZIP 67877", "Haskell County / ZIP 67877 sector", "Haskell County / coords 37.4800, -100.8500", "Haskell County / elevation 2956 ft band"]
+zillowHomeValueUsd: 206643
 ---
 
 **Engineering Notice for Sublette:** System optimized for 151 mg/L hard water scaling factors in Sublette. Regional dispatch grid: Haskell County.

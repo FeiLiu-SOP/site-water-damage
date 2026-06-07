@@ -12,6 +12,7 @@ lng: -89.1100
 zipSample: ["54970"]
 zipCodes: ["54970"]
 localPaths: ["Waushara County / coords 44.0500, -89.1100", "Waushara County / primary ZIP 54970", "Waushara County / elevation 810 ft band", "Waushara County / ZIP 54970 sector"]
+zillowHomeValueUsd: 202609
 ---
 
 **Engineering Notice for Redgranite:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Elevation: 810 ft AMSL. Coordinates: 44.0500, -89.1100. Grid: Waushara County.

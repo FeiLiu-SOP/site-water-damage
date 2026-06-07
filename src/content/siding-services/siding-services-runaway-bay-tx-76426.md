@@ -12,6 +12,7 @@ lng: -97.8700
 zipSample: ["76426"]
 zipCodes: ["76426"]
 localPaths: ["Wise County / coords 33.1800, -97.8700", "Wise County / ZIP 76426 sector", "Wise County / elevation 837 ft band", "Wise County / primary ZIP 76426"]
+zillowHomeValueUsd: 277019
 ---
 
 **Engineering Notice for Runaway Bay:** Site context locked to Wise County. Coordinates: 33.1800, -97.8700. Surface Sheathing integrity verification recorded.

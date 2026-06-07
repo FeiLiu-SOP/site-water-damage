@@ -12,6 +12,7 @@ lng: -100.5400
 zipSample: ["79245"]
 zipCodes: ["79245"]
 localPaths: ["Hall County / ZIP 79245 sector", "Hall County / elevation 2080 ft band", "Hall County / coords 34.7300, -100.5400", "Hall County / primary ZIP 79245"]
+zillowHomeValueUsd: 77894
 ---
 
 **Engineering Notice for Memphis:** System optimized for 152 mg/L hard water scaling factors in Memphis. Regional dispatch grid: Hall County.

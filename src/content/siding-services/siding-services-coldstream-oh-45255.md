@@ -12,6 +12,7 @@ lng: -84.3500
 zipSample: ["45255"]
 zipCodes: ["45255"]
 localPaths: ["Hamilton County / ZIP 45255 sector", "Hamilton County / primary ZIP 45255", "Hamilton County / elevation 827 ft band", "Hamilton County / coords 39.0500, -84.3500"]
+zillowHomeValueUsd: 353608
 ---
 
 **Engineering Notice for Coldstream:** Envelope check: Vinyl Panels assigned to wind-load band A with stress factor 1.11. Elevation: 827 ft AMSL. Regional dispatch grid: Hamilton County.

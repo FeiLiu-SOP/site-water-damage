@@ -12,6 +12,7 @@ lng: -92.8600
 zipSample: ["55072"]
 zipCodes: ["55072"]
 localPaths: ["Pine County / coords 46.1300, -92.8600", "Pine County / primary ZIP 55072", "Pine County / elevation 1086 ft band", "Pine County / ZIP 55072 sector"]
+zillowHomeValueUsd: 224375
 ---
 
 **Engineering Notice for Sandstone:** structural drying capacity optimized for 1086ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pine County. Relative Humidity Threshold: 80%. Sensor sync: Active.

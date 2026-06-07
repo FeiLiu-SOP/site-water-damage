@@ -11,6 +11,7 @@ lng: -104.9700
 zipSample: ["80126", "80130", "80163", "80129"]
 zipCodes: ["80163", "80130", "80126", "80129"]
 localPaths: ["Douglas County / elevation 5833 ft band", "Douglas County / ZIP 80126 sector", "Douglas County / ZIP 80163 sector", "Douglas County / ZIP 80129 sector", "Douglas County / primary ZIP 80129"]
+zillowHomeValueUsd: 683006
 ---
 
 **Engineering Notice for Highlands Ranch:** Structural loading calculated based on 5833 ft terrain assessment. Regional dispatch grid: Douglas County.

@@ -12,6 +12,7 @@ lng: -90.4500
 zipSample: ["54552"]
 zipCodes: ["54552"]
 localPaths: ["Price County / elevation 1486 ft band", "Price County / coords 45.9300, -90.4500", "Price County / primary ZIP 54552", "Price County / ZIP 54552 sector"]
+zillowHomeValueUsd: 196287
 ---
 
 **Engineering Notice for Park Falls:** System optimized for 156 mg/L hard water scaling factors in Park Falls. Regional dispatch grid: Price County.

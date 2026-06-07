@@ -12,6 +12,8 @@ lng: -111.6400
 zipSample: ["84632"]
 zipCodes: ["84632"]
 localPaths: ["Sanpete County / coords 39.6300, -111.6400", "Sanpete County / elevation 5938 ft band", "Sanpete County / primary ZIP 84632", "Sanpete County / ZIP 84632 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 525437
 ---
 
 **Engineering Notice for Fountain Green:** System optimized for 134 mg/L hard water scaling factors in Fountain Green. Regional dispatch grid: Sanpete County.

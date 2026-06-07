@@ -11,6 +11,7 @@ lng: -120.1800
 zipSample: ["96161", "96160"]
 zipCodes: ["96161", "96160"]
 localPaths: ["Nevada County / ZIP 96160 sector", "Nevada County / ZIP 96161 sector", "Nevada County / coords 39.3500, -120.1800", "Nevada County / elevation 6201 ft band", "Nevada County / primary ZIP 96161"]
+zillowHomeValueUsd: 1014770
 ---
 
 **Engineering Notice for Truckee:** Structural loading calculated based on 6201 ft terrain assessment. Regional dispatch grid: Nevada County.

@@ -12,6 +12,7 @@ lng: -111.5800
 zipSample: ["59752"]
 zipCodes: ["59752"]
 localPaths: ["Broadwater County / ZIP 59752 sector", "Broadwater County / elevation 4344 ft band", "Broadwater County / primary ZIP 59752", "Broadwater County / coords 45.9600, -111.5800"]
+zillowHomeValueUsd: 550208
 ---
 
 **Engineering Notice for Wheatland:** structural drying capacity optimized for 4344ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Broadwater County. Relative Humidity Threshold: 75%. Sensor sync: Active.

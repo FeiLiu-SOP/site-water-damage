@@ -12,6 +12,7 @@ lng: -85.9400
 zipSample: ["37030"]
 zipCodes: ["37030"]
 localPaths: ["Smith County / elevation 554 ft band", "Smith County / coords 36.2600, -85.9400", "Smith County / ZIP 37030 sector", "Smith County / primary ZIP 37030"]
+zillowHomeValueUsd: 274837
 ---
 
 **Engineering Notice for Carthage:** Site context locked to Smith County. Elevation: 554 ft AMSL. Weather Barrier Wrap integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -78.4200
 zipSample: ["27524"]
 zipCodes: ["27524"]
 localPaths: ["Johnston County / coords 35.4400, -78.4200", "Johnston County / elevation 210 ft band", "Johnston County / primary ZIP 27524", "Johnston County / ZIP 27524 sector"]
+zillowHomeValueUsd: 310381
 ---
 
 **Engineering Notice for Four Oaks:** structural drying capacity optimized for 210ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Johnston County. Relative Humidity Threshold: 81%. Sensor sync: Active.

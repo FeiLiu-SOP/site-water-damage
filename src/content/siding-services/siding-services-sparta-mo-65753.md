@@ -12,6 +12,7 @@ lng: -93.0800
 zipSample: ["65753"]
 zipCodes: ["65753"]
 localPaths: ["Christian County / coords 37.0000, -93.0800", "Christian County / ZIP 65753 sector", "Christian County / primary ZIP 65753", "Christian County / elevation 1411 ft band"]
+zillowHomeValueUsd: 255331
 ---
 
 **Engineering Notice for Sparta:** Envelope check: Surface Sheathing assigned to wind-load band A with stress factor 0.94. Regional dispatch grid: Christian County.

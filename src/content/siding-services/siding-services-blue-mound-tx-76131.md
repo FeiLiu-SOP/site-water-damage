@@ -12,6 +12,7 @@ lng: -97.3400
 zipSample: ["76131"]
 zipCodes: ["76131"]
 localPaths: ["Tarrant County / primary ZIP 76131", "Tarrant County / ZIP 76131 sector", "Tarrant County / elevation 682 ft band", "Tarrant County / coords 32.8500, -97.3400"]
+zillowHomeValueUsd: 337717
 ---
 
 **Engineering Notice for Blue Mound:** Facade Renewal was validated under stress factor 0.96; target tolerance set near 145 mph. Grid anchor: Tarrant County.

@@ -12,6 +12,7 @@ lng: -76.4200
 zipSample: ["17815"]
 zipCodes: ["17815"]
 localPaths: ["Columbia County / elevation 492 ft band", "Columbia County / coords 41.0100, -76.4200", "Columbia County / primary ZIP 17815", "Columbia County / ZIP 17815 sector"]
+zillowHomeValueUsd: 256971
 ---
 
 **Engineering Notice for Espy:** System optimized for 123 mg/L hard water scaling factors in Espy. Regional dispatch grid: Columbia County.

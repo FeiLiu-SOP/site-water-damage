@@ -12,6 +12,7 @@ lng: -120.6800
 zipSample: ["95709"]
 zipCodes: ["95709"]
 localPaths: ["El Dorado County / primary ZIP 95709", "El Dorado County / ZIP 95709 sector", "El Dorado County / coords 38.7400, -120.6800", "El Dorado County / elevation 3097 ft band"]
+zillowHomeValueUsd: 506765
 ---
 
 **Engineering Notice for Camino:** Cladding verification uses 133 mph routing baseline; lateral pressure note: 17.2 psf. Grid: El Dorado County.

@@ -12,6 +12,7 @@ lng: -90.9900
 zipSample: ["54614"]
 zipCodes: ["54614"]
 localPaths: ["La Crosse County / coords 43.8900, -90.9900", "La Crosse County / primary ZIP 54614", "La Crosse County / elevation 738 ft band", "La Crosse County / ZIP 54614 sector"]
+zillowHomeValueUsd: 320951
 ---
 
 **Engineering Notice for Bangor:** Site context locked to La Crosse County. Elevation: 738 ft AMSL. Exterior Cladding integrity verification recorded.

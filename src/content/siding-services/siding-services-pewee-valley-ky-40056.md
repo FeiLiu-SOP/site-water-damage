@@ -12,6 +12,7 @@ lng: -85.4900
 zipSample: ["40056"]
 zipCodes: ["40056"]
 localPaths: ["Oldham County / primary ZIP 40056", "Oldham County / coords 38.3100, -85.4900", "Oldham County / elevation 797 ft band", "Oldham County / ZIP 40056 sector"]
+zillowHomeValueUsd: 360465
 ---
 
 **Engineering Notice for Pewee Valley:** Envelope check: Exterior Cladding assigned to wind-load band A with stress factor 0.74. Elevation: 797 ft AMSL. Regional dispatch grid: Oldham County.

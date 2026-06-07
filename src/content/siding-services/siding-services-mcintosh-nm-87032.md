@@ -12,6 +12,7 @@ lng: -106.0600
 zipSample: ["87032", "87016", "87035"]
 zipCodes: ["87035", "87032", "87016"]
 localPaths: ["Torrance County / coords 34.8800, -106.0600", "Torrance County / ZIP 87035 sector", "Torrance County / ZIP 87032 sector", "Torrance County / ZIP 87016 sector", "Torrance County / primary ZIP 87032"]
+zillowHomeValueUsd: 217568
 ---
 
 **Engineering Notice for McIntosh:** Structural integrity verification: Cladding Retrofit calibrated for 110 mph localized wind load factor. Regional dispatch grid: Torrance County.

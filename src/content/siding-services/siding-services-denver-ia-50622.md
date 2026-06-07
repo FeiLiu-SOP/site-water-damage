@@ -12,6 +12,7 @@ lng: -92.3300
 zipSample: ["50622"]
 zipCodes: ["50622"]
 localPaths: ["Bremer County / coords 42.6700, -92.3300", "Bremer County / ZIP 50622 sector", "Bremer County / primary ZIP 50622", "Bremer County / elevation 965 ft band"]
+zillowHomeValueUsd: 305323
 ---
 
 **Engineering Notice for Denver:** Wall Restoration was validated under stress factor 0.75; target tolerance set near 106 mph. Grid anchor: Bremer County.

@@ -12,6 +12,7 @@ lng: -89.1300
 zipSample: ["39503"]
 zipCodes: ["39503"]
 localPaths: ["Harrison County / coords 30.5000, -89.1300", "Harrison County / primary ZIP 39503", "Harrison County / elevation 102 ft band", "Harrison County / ZIP 39503 sector"]
+zillowHomeValueUsd: 224218
 ---
 
 **Engineering Notice for Lyman:** Envelope check: Exterior Cladding assigned to wind-load band C with stress factor 0.86. Elevation: 102 ft AMSL. Regional dispatch grid: Harrison County.

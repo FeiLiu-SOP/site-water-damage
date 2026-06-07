@@ -11,6 +11,7 @@ lng: -112.3200
 zipSample: ["86315", "86314", "86327", "86312"]
 zipCodes: ["86314", "86312", "86327", "86315"]
 localPaths: ["Yavapai County / ZIP 86312 sector", "Yavapai County / coords 34.6000, -112.3200", "Yavapai County / primary ZIP 86327", "Yavapai County / elevation 5052 ft band", "Yavapai County / ZIP 86327 sector"]
+zillowHomeValueUsd: 453859
 ---
 
 **Engineering Notice for Prescott Valley:** Structural loading calculated based on 5052 ft terrain assessment. Regional dispatch grid: Yavapai County.

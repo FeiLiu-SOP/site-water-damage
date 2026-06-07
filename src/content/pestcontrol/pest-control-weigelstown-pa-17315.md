@@ -11,6 +11,7 @@ lng: -76.8300
 zipSample: ["17315"]
 zipCodes: ["17315"]
 localPaths: ["York County / coords 39.9900, -76.8300", "York County / elevation 509 ft band", "York County / primary ZIP 17315", "York County / ZIP 17315 sector"]
+zillowHomeValueUsd: 289760
 ---
 
 **Engineering Notice for Weigelstown:** Structural loading calculated based on 509 ft terrain assessment. Regional dispatch grid: York County.

@@ -12,6 +12,7 @@ lng: -76.2100
 zipSample: ["18660", "18635"]
 zipCodes: ["18635", "18660"]
 localPaths: ["Luzerne County / elevation 531 ft band", "Luzerne County / ZIP 18635 sector", "Luzerne County / primary ZIP 18635", "Luzerne County / coords 41.0500, -76.2100", "Luzerne County / ZIP 18660 sector"]
+zillowHomeValueUsd: 242842
 ---
 
 **Engineering Notice for Nescopeck:** Structural integrity verification: Surface Sheathing calibrated for 95 mph localized wind load factor. Elevation: 531 ft AMSL. Regional dispatch grid: Luzerne County.

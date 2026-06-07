@@ -12,6 +12,7 @@ lng: -95.4700
 zipSample: ["77545", "77583"]
 zipCodes: ["77545", "77583"]
 localPaths: ["Fort Bend County / ZIP 77545 sector", "Fort Bend County / ZIP 77583 sector", "Fort Bend County / elevation 69 ft band", "Fort Bend County / primary ZIP 77545", "Fort Bend County / coords 29.5000, -95.4700"]
+zillowHomeValueUsd: 280345
 ---
 
 **Engineering Notice for Arcola:** structural drying capacity optimized for 69ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fort Bend County. Relative Humidity Threshold: 70%. Sensor sync: Active.

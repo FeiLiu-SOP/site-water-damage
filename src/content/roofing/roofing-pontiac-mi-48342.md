@@ -11,6 +11,7 @@ lng: -83.2900
 zipSample: ["48341", "48342", "48340", "48343", "48055"]
 zipCodes: ["48055", "48343", "48342", "48340", "48341"]
 localPaths: ["Oakland County / ZIP 48342 sector", "Oakland County / ZIP 48343 sector", "Oakland County / ZIP 48055 sector", "Oakland County / elevation 974 ft band", "Oakland County / ZIP 48341 sector"]
+zillowHomeValueUsd: 127843
 ---
 
 **Engineering Notice for Pontiac:** Structural loading calculated based on 974 ft terrain assessment. Regional dispatch grid: Oakland County.

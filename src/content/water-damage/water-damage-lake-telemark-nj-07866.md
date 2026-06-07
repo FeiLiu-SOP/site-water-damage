@@ -12,6 +12,7 @@ lng: -74.5000
 zipSample: ["07866"]
 zipCodes: ["07866"]
 localPaths: ["Morris County / primary ZIP 07866", "Morris County / ZIP 07866 sector", "Morris County / elevation 722 ft band", "Morris County / coords 40.9600, -74.5000"]
+zillowHomeValueUsd: 563535
 ---
 
 **Engineering Notice for Lake Telemark:** structural drying capacity optimized for 722ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Morris County. Relative Humidity Threshold: 67%. Sensor sync: Active.

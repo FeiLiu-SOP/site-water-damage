@@ -12,6 +12,7 @@ lng: -124.2500
 zipSample: ["97415"]
 zipCodes: ["97415"]
 localPaths: ["Curry County / primary ZIP 97415", "Curry County / ZIP 97415 sector", "Curry County / coords 42.0400, -124.2500", "Curry County / elevation 121 ft band"]
+zillowHomeValueUsd: 476256
 ---
 
 **Engineering Notice for Harbor:** Structural integrity verification: Panel Replacement calibrated for 102 mph localized wind load factor. Elevation: 121 ft AMSL. Regional dispatch grid: Curry County.

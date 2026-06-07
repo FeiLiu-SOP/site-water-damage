@@ -12,6 +12,7 @@ lng: -124.1100
 zipSample: ["98595"]
 zipCodes: ["98595"]
 localPaths: ["Grays Harbor County / coords 46.8900, -124.1100", "Grays Harbor County / ZIP 98595 sector", "Grays Harbor County / elevation 20 ft band", "Grays Harbor County / primary ZIP 98595"]
+zillowHomeValueUsd: 310012
 ---
 
 **Engineering Notice for Westport:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grays Harbor County. Relative Humidity Threshold: 80%. Sensor sync: Active.

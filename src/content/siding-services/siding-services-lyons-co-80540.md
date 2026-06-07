@@ -12,6 +12,7 @@ lng: -105.2700
 zipSample: ["80540"]
 zipCodes: ["80540"]
 localPaths: ["Boulder County / coords 40.2200, -105.2700", "Boulder County / primary ZIP 80540", "Boulder County / ZIP 80540 sector", "Boulder County / elevation 5361 ft band"]
+zillowHomeValueUsd: 748439
 ---
 
 **Engineering Notice for Lyons:** Vinyl Panels was validated under stress factor 0.96; target tolerance set near 94 mph. Grid anchor: Boulder County.

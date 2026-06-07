@@ -12,6 +12,7 @@ lng: -111.8200
 zipSample: ["84321", "84326"]
 zipCodes: ["84326", "84321"]
 localPaths: ["Cache County / primary ZIP 84321", "Cache County / elevation 4642 ft band", "Cache County / ZIP 84321 sector", "Cache County / ZIP 84326 sector", "Cache County / coords 41.6900, -111.8200"]
+zillowHomeValueUsd: 421488
 ---
 
 **Engineering Notice for Millville:** System optimized for 176 mg/L hard water scaling factors in Millville. Regional dispatch grid: Cache County.

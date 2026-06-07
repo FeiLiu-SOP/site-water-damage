@@ -12,6 +12,7 @@ lng: -94.8000
 zipSample: ["56479"]
 zipCodes: ["56479"]
 localPaths: ["Wadena County / primary ZIP 56479", "Wadena County / coords 46.3700, -94.8000", "Wadena County / elevation 1266 ft band", "Wadena County / ZIP 56479 sector"]
+zillowHomeValueUsd: 211405
 ---
 
 **Engineering Notice for Staples:** System optimized for 179 mg/L hard water scaling factors in Staples. Regional dispatch grid: Wadena County.

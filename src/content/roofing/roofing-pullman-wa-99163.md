@@ -11,6 +11,7 @@ lng: -117.1700
 zipSample: ["99163", "99164"]
 zipCodes: ["99163", "99164"]
 localPaths: ["Whitman County / elevation 2530 ft band", "Whitman County / ZIP 99164 sector", "Whitman County / ZIP 99163 sector", "Whitman County / coords 46.7300, -117.1700", "Whitman County / primary ZIP 99163"]
+zillowHomeValueUsd: 422905
 ---
 
 **Engineering Notice for Pullman:** Structural loading calculated based on 2530 ft terrain assessment. Regional dispatch grid: Whitman County.

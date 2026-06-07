@@ -11,6 +11,7 @@ lng: -111.8900
 zipSample: ["84047"]
 zipCodes: ["84047"]
 localPaths: ["Salt Lake County / ZIP 84047 sector", "Salt Lake County / coords 40.6100, -111.8900", "Salt Lake County / primary ZIP 84047", "Salt Lake County / elevation 4406 ft band"]
+zillowHomeValueUsd: 483892
 ---
 
 **Engineering Notice for Midvale:** Structural loading calculated based on 4406 ft terrain assessment. Regional dispatch grid: Salt Lake County.

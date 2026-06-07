@@ -12,6 +12,7 @@ lng: -84.2300
 zipSample: ["48872"]
 zipCodes: ["48872"]
 localPaths: ["Shiawassee County / elevation 886 ft band", "Shiawassee County / primary ZIP 48872", "Shiawassee County / coords 42.8200, -84.2300", "Shiawassee County / ZIP 48872 sector"]
+zillowHomeValueUsd: 267425
 ---
 
 **Engineering Notice for Perry:** System optimized for 177 mg/L hard water scaling factors in Perry. Regional dispatch grid: Shiawassee County.

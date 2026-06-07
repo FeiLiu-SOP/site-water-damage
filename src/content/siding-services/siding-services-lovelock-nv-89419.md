@@ -12,6 +12,7 @@ lng: -118.4800
 zipSample: ["89419"]
 zipCodes: ["89419"]
 localPaths: ["Pershing County / primary ZIP 89419", "Pershing County / elevation 3986 ft band", "Pershing County / ZIP 89419 sector", "Pershing County / coords 40.1800, -118.4800"]
+zillowHomeValueUsd: 248486
 ---
 
 **Engineering Notice for Lovelock:** Facade Renewal was validated under stress factor 0.79; target tolerance set near 102 mph. Grid anchor: Pershing County.

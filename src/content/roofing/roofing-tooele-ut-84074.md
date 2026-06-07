@@ -11,6 +11,7 @@ lng: -112.3100
 zipSample: ["84074"]
 zipCodes: ["84074"]
 localPaths: ["Tooele County / ZIP 84074 sector", "Tooele County / primary ZIP 84074", "Tooele County / coords 40.5400, -112.3100", "Tooele County / elevation 4925 ft band"]
+zillowHomeValueUsd: 464598
 ---
 
 **Engineering Notice for Tooele:** Structural loading calculated based on 4925 ft terrain assessment. Regional dispatch grid: Tooele County.

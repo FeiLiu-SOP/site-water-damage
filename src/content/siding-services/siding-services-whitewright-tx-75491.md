@@ -12,6 +12,7 @@ lng: -96.4000
 zipSample: ["75491"]
 zipCodes: ["75491"]
 localPaths: ["Grayson County / elevation 784 ft band", "Grayson County / ZIP 75491 sector", "Grayson County / primary ZIP 75491", "Grayson County / coords 33.5100, -96.4000"]
+zillowHomeValueUsd: 342962
 ---
 
 **Engineering Notice for Whitewright:** Envelope check: Exterior Envelope assigned to wind-load band C with stress factor 1.03. Elevation: 784 ft AMSL. Regional dispatch grid: Grayson County.

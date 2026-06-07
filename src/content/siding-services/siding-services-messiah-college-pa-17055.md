@@ -12,6 +12,7 @@ lng: -76.9800
 zipSample: ["17027", "17055"]
 zipCodes: ["17027", "17055"]
 localPaths: ["Cumberland County / ZIP 17027 sector", "Cumberland County / coords 40.1600, -76.9800", "Cumberland County / primary ZIP 17055", "Cumberland County / ZIP 17055 sector", "Cumberland County / elevation 505 ft band"]
+zillowHomeValueUsd: 361590
 ---
 
 **Engineering Notice for Messiah College:** Site context locked to Cumberland County. Elevation: 505 ft AMSL. Coordinates: 40.1600, -76.9800. Panel Replacement integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -88.4700
 zipSample: ["61911"]
 zipCodes: ["61911"]
 localPaths: ["Douglas County / coords 39.7100, -88.4700", "Douglas County / elevation 666 ft band", "Douglas County / ZIP 61911 sector", "Douglas County / primary ZIP 61911"]
+zillowHomeValueUsd: 194297
 ---
 
 **Engineering Notice for Arthur:** Structural integrity verification: Cladding Service calibrated for 103 mph localized wind load factor. Elevation: 666 ft AMSL. Regional dispatch grid: Douglas County.

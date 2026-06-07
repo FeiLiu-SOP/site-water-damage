@@ -12,6 +12,7 @@ lng: -77.9000
 zipSample: ["17236"]
 zipCodes: ["17236"]
 localPaths: ["Franklin County / primary ZIP 17236", "Franklin County / coords 39.8300, -77.9000", "Franklin County / elevation 551 ft band", "Franklin County / ZIP 17236 sector"]
+zillowHomeValueUsd: 293452
 ---
 
 **Engineering Notice for Mercersburg:** System optimized for 178 mg/L hard water scaling factors in Mercersburg. Regional dispatch grid: Franklin County.

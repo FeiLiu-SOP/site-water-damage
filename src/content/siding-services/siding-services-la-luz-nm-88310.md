@@ -12,6 +12,7 @@ lng: -105.9400
 zipSample: ["88310", "88337"]
 zipCodes: ["88310", "88337"]
 localPaths: ["Otero County / coords 32.9700, -105.9400", "Otero County / elevation 4701 ft band", "Otero County / ZIP 88310 sector", "Otero County / primary ZIP 88310", "Otero County / ZIP 88337 sector"]
+zillowHomeValueUsd: 221511
 ---
 
 **Engineering Notice for La Luz:** Cladding verification uses 95 mph routing baseline; lateral pressure note: 12.6 psf. Elevation: 4701 ft AMSL. Coordinates: 32.9700, -105.9400. Grid: Otero County.

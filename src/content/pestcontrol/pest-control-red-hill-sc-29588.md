@@ -11,6 +11,7 @@ lng: -79.0100
 zipSample: ["29526", "29588"]
 zipCodes: ["29588", "29526"]
 localPaths: ["Horry County / ZIP 29588 sector", "Horry County / ZIP 29526 sector", "Horry County / primary ZIP 29588", "Horry County / elevation 69 ft band", "Horry County / coords 33.7800, -79.0100"]
+zillowHomeValueUsd: 320363
 ---
 
 **Engineering Notice for Red Hill:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Horry County.

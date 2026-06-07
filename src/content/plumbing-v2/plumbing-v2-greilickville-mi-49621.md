@@ -12,6 +12,7 @@ lng: -85.6600
 zipSample: ["49684", "49621"]
 zipCodes: ["49621", "49684"]
 localPaths: ["Leelanau County / coords 44.8000, -85.6600", "Leelanau County / ZIP 49621 sector", "Leelanau County / ZIP 49684 sector", "Leelanau County / elevation 715 ft band", "Leelanau County / primary ZIP 49621"]
+zillowHomeValueUsd: 514767
 ---
 
 **Engineering Notice for Greilickville:** System optimized for 173 mg/L hard water scaling factors in Greilickville. Regional dispatch grid: Leelanau County.

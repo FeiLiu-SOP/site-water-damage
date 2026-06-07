@@ -11,6 +11,7 @@ lng: -116.2300
 zipSample: ["92241", "92203", "92201"]
 zipCodes: ["92203", "92201", "92241"]
 localPaths: ["Riverside County / ZIP 92201 sector", "Riverside County / coords 33.7300, -116.2300", "Riverside County / ZIP 92203 sector", "Riverside County / elevation 0 ft band", "Riverside County / primary ZIP 92241"]
+zillowHomeValueUsd: 408042
 ---
 
 **Engineering Notice for Indio:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Riverside County.

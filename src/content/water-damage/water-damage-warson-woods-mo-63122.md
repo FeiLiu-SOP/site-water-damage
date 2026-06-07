@@ -12,6 +12,7 @@ lng: -90.3900
 zipSample: ["63122"]
 zipCodes: ["63122"]
 localPaths: ["St. Louis County / coords 38.6100, -90.3900", "St. Louis County / ZIP 63122 sector", "St. Louis County / primary ZIP 63122", "St. Louis County / elevation 604 ft band"]
+zillowHomeValueUsd: 505183
 ---
 
 **Engineering Notice for Warson Woods:** structural drying capacity optimized for 604ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Louis County. Relative Humidity Threshold: 85%. Sensor sync: Active.

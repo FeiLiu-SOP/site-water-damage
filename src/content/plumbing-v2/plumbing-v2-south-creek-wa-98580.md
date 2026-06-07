@@ -12,6 +12,7 @@ lng: -122.3900
 zipSample: ["98338", "98580", "98387"]
 zipCodes: ["98387", "98338", "98580"]
 localPaths: ["Pierce County / elevation 486 ft band", "Pierce County / ZIP 98338 sector", "Pierce County / primary ZIP 98580", "Pierce County / coords 47.0000, -122.3900", "Pierce County / ZIP 98387 sector"]
+zillowHomeValueUsd: 628944
 ---
 
 **Engineering Notice for South Creek:** System optimized for 150 mg/L hard water scaling factors in South Creek. Regional dispatch grid: Pierce County.

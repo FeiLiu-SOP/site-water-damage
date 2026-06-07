@@ -12,6 +12,7 @@ lng: -92.3700
 zipSample: ["55733"]
 zipCodes: ["55733"]
 localPaths: ["Carlton County / primary ZIP 55733", "Carlton County / coords 46.7100, -92.3700", "Carlton County / ZIP 55733 sector", "Carlton County / elevation 1178 ft band"]
+zillowHomeValueUsd: 387728
 ---
 
 **Engineering Notice for Esko:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Grid: Carlton County.

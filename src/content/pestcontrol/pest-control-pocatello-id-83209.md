@@ -11,6 +11,7 @@ lng: -112.4600
 zipSample: ["83201", "83205", "83206", "83209", "83204"]
 zipCodes: ["83209", "83205", "83204", "83201", "83206"]
 localPaths: ["Bannock County / ZIP 83201 sector", "Bannock County / ZIP 83204 sector", "Bannock County / ZIP 83209 sector", "Bannock County / coords 42.8700, -112.4600", "Bannock County / primary ZIP 83209"]
+zillowHomeValueUsd: 330532
 ---
 
 **Engineering Notice for Pocatello:** Structural loading calculated based on 4465 ft terrain assessment. Regional dispatch grid: Bannock County.

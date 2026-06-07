@@ -12,6 +12,7 @@ lng: -155.0800
 zipSample: ["96771"]
 zipCodes: ["96771"]
 localPaths: ["Hawaii County / ZIP 96771 sector", "Hawaii County / primary ZIP 96771", "Hawaii County / elevation 1552 ft band", "Hawaii County / coords 19.5100, -155.0800"]
+zillowHomeValueUsd: 319667
 ---
 
 **Engineering Notice for Fern Acres:** System optimized for 132 mg/L hard water scaling factors in Fern Acres. Regional dispatch grid: Hawaii County.

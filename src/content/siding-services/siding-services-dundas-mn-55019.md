@@ -12,6 +12,7 @@ lng: -93.2000
 zipSample: ["55019"]
 zipCodes: ["55019"]
 localPaths: ["Rice County / coords 44.4300, -93.2000", "Rice County / elevation 935 ft band", "Rice County / ZIP 55019 sector", "Rice County / primary ZIP 55019"]
+zillowHomeValueUsd: 388228
 ---
 
 **Engineering Notice for Dundas:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Elevation: 935 ft AMSL. Grid: Rice County.

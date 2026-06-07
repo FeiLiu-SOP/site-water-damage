@@ -12,6 +12,7 @@ lng: -79.8500
 zipSample: ["15012", "15072"]
 zipCodes: ["15072", "15012"]
 localPaths: ["Westmoreland County / elevation 938 ft band", "Westmoreland County / coords 40.1300, -79.8500", "Westmoreland County / ZIP 15012 sector", "Westmoreland County / ZIP 15072 sector", "Westmoreland County / primary ZIP 15012"]
+zillowHomeValueUsd: 185710
 ---
 
 **Engineering Notice for Lynnwood-Pricedale:** Cladding verification uses 98 mph routing baseline; lateral pressure note: 13.0 psf. Coordinates: 40.1300, -79.8500. Grid: Westmoreland County.

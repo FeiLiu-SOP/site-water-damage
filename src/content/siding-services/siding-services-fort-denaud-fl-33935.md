@@ -12,6 +12,7 @@ lng: -81.5200
 zipSample: ["33935"]
 zipCodes: ["33935"]
 localPaths: ["Hendry County / elevation 16 ft band", "Hendry County / primary ZIP 33935", "Hendry County / coords 26.7400, -81.5200", "Hendry County / ZIP 33935 sector"]
+zillowHomeValueUsd: 291608
 ---
 
 **Engineering Notice for Fort Denaud:** Site context locked to Hendry County. Coordinates: 26.7400, -81.5200. Weather Barrier Wrap integrity verification recorded.

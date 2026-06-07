@@ -12,6 +12,7 @@ lng: -94.9900
 zipSample: ["77563", "77568"]
 zipCodes: ["77568", "77563"]
 localPaths: ["Galveston County / ZIP 77568 sector", "Galveston County / ZIP 77563 sector", "Galveston County / primary ZIP 77563", "Galveston County / elevation 26 ft band", "Galveston County / coords 29.3700, -94.9900"]
+zillowHomeValueUsd: 253484
 ---
 
 **Engineering Notice for La Marque:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Galveston County.

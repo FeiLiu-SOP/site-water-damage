@@ -12,6 +12,7 @@ lng: -104.2200
 zipSample: ["80103"]
 zipCodes: ["80103"]
 localPaths: ["Arapahoe County / ZIP 80103 sector", "Arapahoe County / elevation 5217 ft band", "Arapahoe County / primary ZIP 80103", "Arapahoe County / coords 39.7100, -104.2200"]
+zillowHomeValueUsd: 562629
 ---
 
 **Engineering Notice for Byers:** structural drying capacity optimized for 5217ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Arapahoe County. Relative Humidity Threshold: 70%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -89.7500
 zipSample: ["61559"]
 zipCodes: ["61559"]
 localPaths: ["Peoria County / ZIP 61559 sector", "Peoria County / elevation 748 ft band", "Peoria County / primary ZIP 61559", "Peoria County / coords 40.9300, -89.7500"]
+zillowHomeValueUsd: 223091
 ---
 
 **Engineering Notice for Princeville:** System optimized for 123 mg/L hard water scaling factors in Princeville. Regional dispatch grid: Peoria County.

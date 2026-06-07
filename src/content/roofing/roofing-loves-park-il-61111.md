@@ -11,6 +11,7 @@ lng: -89.0000
 zipSample: ["61011", "61132", "61111", "61131", "61130"]
 zipCodes: ["61131", "61130", "61011", "61132", "61111"]
 localPaths: ["Winnebago County / elevation 866 ft band", "Winnebago County / ZIP 61011 sector", "Winnebago County / ZIP 61130 sector", "Winnebago County / ZIP 61111 sector", "Winnebago County / ZIP 61132 sector"]
+zillowHomeValueUsd: 198714
 ---
 
 **Engineering Notice for Loves Park:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Winnebago County.

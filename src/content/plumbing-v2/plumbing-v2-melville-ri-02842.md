@@ -12,6 +12,7 @@ lng: -71.2900
 zipSample: ["02842", "02871"]
 zipCodes: ["02871", "02842"]
 localPaths: ["Newport County / coords 41.5600, -71.2900", "Newport County / elevation 39 ft band", "Newport County / primary ZIP 02842", "Newport County / ZIP 02871 sector", "Newport County / ZIP 02842 sector"]
+zillowHomeValueUsd: 743009
 ---
 
 **Engineering Notice for Melville:** System optimized for 140 mg/L hard water scaling factors in Melville. Regional dispatch grid: Newport County.

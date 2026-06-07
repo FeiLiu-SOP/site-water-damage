@@ -12,6 +12,7 @@ lng: -81.3700
 zipSample: ["44707", "44706"]
 zipCodes: ["44707", "44706"]
 localPaths: ["Stark County / elevation 1060 ft band", "Stark County / primary ZIP 44706", "Stark County / ZIP 44706 sector", "Stark County / coords 40.7400, -81.3700", "Stark County / ZIP 44707 sector"]
+zillowHomeValueUsd: 156785
 ---
 
 **Engineering Notice for North Industry:** Site context locked to Stark County. Coordinates: 40.7400, -81.3700. Facade Renewal integrity verification recorded.

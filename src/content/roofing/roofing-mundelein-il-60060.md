@@ -11,6 +11,7 @@ lng: -88.0100
 zipSample: ["60060"]
 zipCodes: ["60060"]
 localPaths: ["Lake County / ZIP 60060 sector", "Lake County / primary ZIP 60060", "Lake County / coords 42.2700, -88.0100", "Lake County / elevation 758 ft band"]
+zillowHomeValueUsd: 384020
 ---
 
 **Engineering Notice for Mundelein:** Structural loading calculated based on 758 ft terrain assessment. Regional dispatch grid: Lake County.

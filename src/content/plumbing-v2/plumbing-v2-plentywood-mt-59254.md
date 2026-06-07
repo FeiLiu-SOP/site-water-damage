@@ -12,6 +12,7 @@ lng: -104.5600
 zipSample: ["59254"]
 zipCodes: ["59254"]
 localPaths: ["Sheridan County / elevation 2047 ft band", "Sheridan County / primary ZIP 59254", "Sheridan County / coords 48.7800, -104.5600", "Sheridan County / ZIP 59254 sector"]
+zillowHomeValueUsd: 163089
 ---
 
 **Engineering Notice for Plentywood:** System optimized for 149 mg/L hard water scaling factors in Plentywood. Regional dispatch grid: Sheridan County.

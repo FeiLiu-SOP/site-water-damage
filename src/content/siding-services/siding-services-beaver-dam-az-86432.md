@@ -12,6 +12,7 @@ lng: -113.9400
 zipSample: ["86432"]
 zipCodes: ["86432"]
 localPaths: ["Mohave County / primary ZIP 86432", "Mohave County / ZIP 86432 sector", "Mohave County / coords 36.9100, -113.9400", "Mohave County / elevation 1890 ft band"]
+zillowHomeValueUsd: 375447
 ---
 
 **Engineering Notice for Beaver Dam:** Weather Barrier Wrap was validated under stress factor 1.11; target tolerance set near 106 mph. Coordinates: 36.9100, -113.9400. Grid anchor: Mohave County.

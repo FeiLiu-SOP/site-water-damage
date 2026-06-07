@@ -12,6 +12,7 @@ lng: -85.8200
 zipSample: ["36010"]
 zipCodes: ["36010"]
 localPaths: ["Pike County / ZIP 36010 sector", "Pike County / coords 31.7200, -85.8200", "Pike County / elevation 482 ft band", "Pike County / primary ZIP 36010"]
+zillowHomeValueUsd: 115632
 ---
 
 **Engineering Notice for Brundidge:** Wall Restoration was validated under stress factor 0.90; target tolerance set near 96 mph. Grid anchor: Pike County.

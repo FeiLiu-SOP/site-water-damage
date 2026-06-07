@@ -12,6 +12,7 @@ lng: -70.6300
 zipSample: ["04085"]
 zipCodes: ["04085"]
 localPaths: ["Cumberland County / primary ZIP 04085", "Cumberland County / ZIP 04085 sector", "Cumberland County / elevation 322 ft band", "Cumberland County / coords 43.7900, -70.6300"]
+zillowHomeValueUsd: 426505
 ---
 
 **Engineering Notice for Steep Falls:** System optimized for 132 mg/L hard water scaling factors in Steep Falls. Regional dispatch grid: Cumberland County.

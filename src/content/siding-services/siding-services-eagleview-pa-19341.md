@@ -12,6 +12,7 @@ lng: -75.6800
 zipSample: ["19341", "19335"]
 zipCodes: ["19341", "19335"]
 localPaths: ["Chester County / ZIP 19341 sector", "Chester County / ZIP 19335 sector", "Chester County / elevation 440 ft band", "Chester County / primary ZIP 19341", "Chester County / coords 40.0600, -75.6800"]
+zillowHomeValueUsd: 614234
 ---
 
 **Engineering Notice for Eagleview:** Structural integrity verification: Cladding Retrofit calibrated for 90 mph localized wind load factor. Elevation: 440 ft AMSL. Coordinates: 40.0600, -75.6800. Regional dispatch grid: Chester County.

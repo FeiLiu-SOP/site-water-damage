@@ -12,6 +12,7 @@ lng: -88.1300
 zipSample: ["60046"]
 zipCodes: ["60046"]
 localPaths: ["Lake County / coords 42.4100, -88.1300", "Lake County / ZIP 60046 sector", "Lake County / primary ZIP 60046", "Lake County / elevation 755 ft band"]
+zillowHomeValueUsd: 347468
 ---
 
 **Engineering Notice for Fox Lake Hills:** structural drying capacity optimized for 755ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lake County. Relative Humidity Threshold: 80%. Sensor sync: Active.

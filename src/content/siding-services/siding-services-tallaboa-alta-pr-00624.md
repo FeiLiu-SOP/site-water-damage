@@ -12,6 +12,8 @@ lng: -66.7000
 zipSample: ["00624"]
 zipCodes: ["00624"]
 localPaths: ["Peñuelas County / coords 18.0500, -66.7000", "Peñuelas County / primary ZIP 00624", "Peñuelas County / ZIP 00624 sector", "Peñuelas County / elevation 322 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 377042
 ---
 
 **Engineering Notice for Tallaboa Alta:** Cladding Service was validated under stress factor 0.93; target tolerance set near 108 mph. Grid anchor: Peñuelas County.

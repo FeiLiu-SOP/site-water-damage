@@ -11,6 +11,7 @@ lng: -76.3700
 zipSample: ["21050", "21015", "21014"]
 zipCodes: ["21015", "21014", "21050"]
 localPaths: ["Harford County / elevation 446 ft band", "Harford County / ZIP 21015 sector", "Harford County / ZIP 21050 sector", "Harford County / ZIP 21014 sector", "Harford County / coords 39.5500, -76.3700"]
+zillowHomeValueUsd: 504873
 ---
 
 **Engineering Notice for Bel Air North:** Structural loading calculated based on 446 ft terrain assessment. Regional dispatch grid: Harford County.

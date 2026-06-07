@@ -12,6 +12,7 @@ lng: -97.5400
 zipSample: ["67030"]
 zipCodes: ["67030"]
 localPaths: ["Sedgwick County / coords 37.7800, -97.5400", "Sedgwick County / primary ZIP 67030", "Sedgwick County / ZIP 67030 sector", "Sedgwick County / elevation 1404 ft band"]
+zillowHomeValueUsd: 308713
 ---
 
 **Engineering Notice for Colwich:** System optimized for 125 mg/L hard water scaling factors in Colwich. Regional dispatch grid: Sedgwick County.

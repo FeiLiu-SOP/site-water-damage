@@ -11,6 +11,7 @@ lng: -96.7700
 zipSample: ["75146", "75134"]
 zipCodes: ["75146", "75134"]
 localPaths: ["Dallas County / primary ZIP 75146", "Dallas County / ZIP 75146 sector", "Dallas County / ZIP 75134 sector", "Dallas County / elevation 531 ft band", "Dallas County / coords 32.5900, -96.7700"]
+zillowHomeValueUsd: 281313
 ---
 
 **Engineering Notice for Lancaster:** Structural loading calculated based on 531 ft terrain assessment. Regional dispatch grid: Dallas County.

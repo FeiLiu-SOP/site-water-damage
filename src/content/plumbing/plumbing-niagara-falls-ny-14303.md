@@ -12,6 +12,7 @@ lng: -79.0100
 zipSample: ["14305", "14304", "14303", "14302", "14301"]
 zipCodes: ["14302", "14304", "14303", "14305", "14301"]
 localPaths: ["Niagara County / ZIP 14305 sector", "Niagara County / coords 43.0900, -79.0100", "Niagara County / elevation 564 ft band", "Niagara County / ZIP 14304 sector", "Niagara County / primary ZIP 14303"]
+zillowHomeValueUsd: 103752
 ---
 
 **Engineering Notice for Niagara Falls:** Structural loading calculated based on 564 ft terrain assessment. Regional dispatch grid: Niagara County.

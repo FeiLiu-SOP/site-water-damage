@@ -12,6 +12,8 @@ lng: -84.0600
 zipSample: ["45433", "45324"]
 zipCodes: ["45433", "45324"]
 localPaths: ["Greene County / ZIP 45324 sector", "Greene County / coords 39.8100, -84.0600", "Greene County / elevation 801 ft band", "Greene County / primary ZIP 45433", "Greene County / ZIP 45433 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 235467
 ---
 
 **Engineering Notice for Wright-Patterson AFB:** Envelope check: Weather Barrier Wrap assigned to wind-load band C with stress factor 0.74. Elevation: 801 ft AMSL. Regional dispatch grid: Greene County.

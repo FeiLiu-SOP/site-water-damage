@@ -12,6 +12,7 @@ lng: -117.2000
 zipSample: ["92067"]
 zipCodes: ["92067"]
 localPaths: ["San Diego County / ZIP 92067 sector", "San Diego County / coords 33.0200, -117.2000", "San Diego County / elevation 246 ft band", "San Diego County / primary ZIP 92067"]
+zillowHomeValueUsd: 4657084
 ---
 
 **Engineering Notice for Rancho Santa Fe:** Cladding verification uses 140 mph routing baseline; lateral pressure note: 18.0 psf. Grid: San Diego County.

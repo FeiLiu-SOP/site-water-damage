@@ -12,6 +12,7 @@ lng: -93.4600
 zipSample: ["55311", "55369"]
 zipCodes: ["55369", "55311"]
 localPaths: ["Hennepin County / primary ZIP 55369", "Hennepin County / ZIP 55311 sector", "Hennepin County / coords 45.1100, -93.4600", "Hennepin County / elevation 873 ft band", "Hennepin County / ZIP 55369 sector"]
+zillowHomeValueUsd: 393113
 ---
 
 **Engineering Notice for Maple Grove:** Structural loading calculated based on 873 ft terrain assessment. Regional dispatch grid: Hennepin County.

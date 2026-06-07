@@ -12,6 +12,7 @@ lng: -87.6300
 zipSample: ["60412", "60411"]
 zipCodes: ["60412", "60411"]
 localPaths: ["Cook County / primary ZIP 60411", "Cook County / ZIP 60412 sector", "Cook County / ZIP 60411 sector", "Cook County / elevation 663 ft band", "Cook County / coords 41.5100, -87.6300"]
+zillowHomeValueUsd: 168688
 ---
 
 **Engineering Notice for Chicago Heights:** Structural loading calculated based on 663 ft terrain assessment. Regional dispatch grid: Cook County.

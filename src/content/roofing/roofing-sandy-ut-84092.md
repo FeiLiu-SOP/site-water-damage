@@ -11,6 +11,7 @@ lng: -111.8500
 zipSample: ["84091", "84090", "84092", "84094", "84093"]
 zipCodes: ["84093", "84092", "84091", "84094", "84070", "84090"]
 localPaths: ["Salt Lake County / coords 40.5700, -111.8500", "Salt Lake County / primary ZIP 84092", "Salt Lake County / ZIP 84094 sector", "Salt Lake County / ZIP 84091 sector", "Salt Lake County / elevation 4793 ft band"]
+zillowHomeValueUsd: 866661
 ---
 
 **Engineering Notice for Sandy:** Structural loading calculated based on 4793 ft terrain assessment. Regional dispatch grid: Salt Lake County.

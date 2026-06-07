@@ -12,6 +12,7 @@ lng: -74.9200
 zipSample: ["19048", "19047", "19049"]
 zipCodes: ["19048", "19049", "19047"]
 localPaths: ["Bucks County / ZIP 19047 sector", "Bucks County / ZIP 19049 sector", "Bucks County / elevation 233 ft band", "Bucks County / ZIP 19048 sector", "Bucks County / primary ZIP 19047"]
+zillowHomeValueUsd: 560831
 ---
 
 **Engineering Notice for Langhorne:** Structural integrity verification: Cladding Retrofit calibrated for 101 mph localized wind load factor. Elevation: 233 ft AMSL. Regional dispatch grid: Bucks County.

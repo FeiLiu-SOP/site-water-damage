@@ -12,6 +12,7 @@ lng: -95.5400
 zipSample: ["51025"]
 zipCodes: ["51025"]
 localPaths: ["Ida County / elevation 1457 ft band", "Ida County / ZIP 51025 sector", "Ida County / primary ZIP 51025", "Ida County / coords 42.4900, -95.5400"]
+zillowHomeValueUsd: 170254
 ---
 
 **Engineering Notice for Holstein:** System optimized for 151 mg/L hard water scaling factors in Holstein. Regional dispatch grid: Ida County.

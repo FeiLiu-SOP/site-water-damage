@@ -12,6 +12,7 @@ lng: -99.2600
 zipSample: ["78076"]
 zipCodes: ["78076"]
 localPaths: ["Zapata County / primary ZIP 78076", "Zapata County / elevation 328 ft band", "Zapata County / ZIP 78076 sector", "Zapata County / coords 26.8500, -99.2600"]
+zillowHomeValueUsd: 134656
 ---
 
 **Engineering Notice for Siesta Shores:** Cladding verification uses 132 mph routing baseline; lateral pressure note: 17.0 psf. Coordinates: 26.8500, -99.2600. Grid: Zapata County.

@@ -12,6 +12,7 @@ lng: -113.7400
 zipSample: ["84725"]
 zipCodes: ["84725"]
 localPaths: ["Washington County / ZIP 84725 sector", "Washington County / coords 37.5700, -113.7400", "Washington County / elevation 5394 ft band", "Washington County / primary ZIP 84725"]
+zillowHomeValueUsd: 419508
 ---
 
 **Engineering Notice for Enterprise:** System optimized for 138 mg/L hard water scaling factors in Enterprise. Regional dispatch grid: Washington County.

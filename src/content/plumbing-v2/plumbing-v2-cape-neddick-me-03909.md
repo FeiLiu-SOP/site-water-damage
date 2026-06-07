@@ -12,6 +12,7 @@ lng: -70.6200
 zipSample: ["03909", "03910"]
 zipCodes: ["03909", "03910"]
 localPaths: ["York County / coords 43.1700, -70.6200", "York County / ZIP 03909 sector", "York County / elevation 43 ft band", "York County / ZIP 03910 sector", "York County / primary ZIP 03909"]
+zillowHomeValueUsd: 755556
 ---
 
 **Engineering Notice for Cape Neddick:** System optimized for 123 mg/L hard water scaling factors in Cape Neddick. Regional dispatch grid: York County.

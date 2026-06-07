@@ -12,6 +12,7 @@ lng: -94.6200
 zipSample: ["74959"]
 zipCodes: ["74959"]
 localPaths: ["Le Flore County / ZIP 74959 sector", "Le Flore County / primary ZIP 74959", "Le Flore County / elevation 499 ft band", "Le Flore County / coords 35.2400, -94.6200"]
+zillowHomeValueUsd: 151564
 ---
 
 **Engineering Notice for Spiro:** structural drying capacity optimized for 499ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Le Flore County. Relative Humidity Threshold: 73%. Sensor sync: Active.

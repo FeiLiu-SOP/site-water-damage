@@ -12,6 +12,7 @@ lng: -95.7000
 zipSample: ["56544"]
 zipCodes: ["56544"]
 localPaths: ["Becker County / primary ZIP 56544", "Becker County / ZIP 56544 sector", "Becker County / elevation 1388 ft band", "Becker County / coords 46.7300, -95.7000"]
+zillowHomeValueUsd: 334084
 ---
 
 **Engineering Notice for Frazee:** structural drying capacity optimized for 1388ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Becker County. Relative Humidity Threshold: 85%. Sensor sync: Active.

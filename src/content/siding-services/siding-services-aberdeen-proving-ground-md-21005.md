@@ -12,6 +12,8 @@ lng: -76.1300
 zipSample: ["21005"]
 zipCodes: ["21005"]
 localPaths: ["Harford County / primary ZIP 21005", "Harford County / elevation 33 ft band", "Harford County / coords 39.4700, -76.1300", "Harford County / ZIP 21005 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 475118
 ---
 
 **Engineering Notice for Aberdeen Proving Ground:** Envelope check: Panel Replacement assigned to wind-load band C with stress factor 0.76. Regional dispatch grid: Harford County.

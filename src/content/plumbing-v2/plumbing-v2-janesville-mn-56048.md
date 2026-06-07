@@ -12,6 +12,7 @@ lng: -93.7100
 zipSample: ["56048"]
 zipCodes: ["56048"]
 localPaths: ["Waseca County / coords 44.1200, -93.7100", "Waseca County / elevation 1066 ft band", "Waseca County / ZIP 56048 sector", "Waseca County / primary ZIP 56048"]
+zillowHomeValueUsd: 281911
 ---
 
 **Engineering Notice for Janesville:** System optimized for 171 mg/L hard water scaling factors in Janesville. Regional dispatch grid: Waseca County.

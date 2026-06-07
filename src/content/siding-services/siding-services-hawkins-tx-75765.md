@@ -12,6 +12,7 @@ lng: -95.2000
 zipSample: ["75765"]
 zipCodes: ["75765"]
 localPaths: ["Wood County / ZIP 75765 sector", "Wood County / elevation 430 ft band", "Wood County / coords 32.5900, -95.2000", "Wood County / primary ZIP 75765"]
+zillowHomeValueUsd: 256121
 ---
 
 **Engineering Notice for Hawkins:** Structural integrity verification: Cladding Service calibrated for 148 mph localized wind load factor. Elevation: 430 ft AMSL. Coordinates: 32.5900, -95.2000. Regional dispatch grid: Wood County.

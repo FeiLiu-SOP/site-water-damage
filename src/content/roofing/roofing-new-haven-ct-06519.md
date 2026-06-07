@@ -11,6 +11,7 @@ lng: -72.9200
 zipSample: ["06534", "06540", "06511", "06521", "06503"]
 zipCodes: ["06503", "06536", "06533", "06521", "06530", "06535", "06531", "06510", "06513", "06520", "06508", "06532"]
 localPaths: ["South Central Connecticut County / primary ZIP 06519", "South Central Connecticut County / ZIP 06503 sector", "South Central Connecticut County / ZIP 06540 sector", "South Central Connecticut County / coords 41.3100, -72.9200", "South Central Connecticut County / ZIP 06534 sector"]
+zillowHomeValueUsd: 295624
 ---
 
 **Engineering Notice for New Haven:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: South Central Connecticut County.

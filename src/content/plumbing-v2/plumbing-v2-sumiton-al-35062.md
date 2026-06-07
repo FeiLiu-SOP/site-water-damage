@@ -12,6 +12,7 @@ lng: -87.0500
 zipSample: ["35148", "35062"]
 zipCodes: ["35062", "35148"]
 localPaths: ["Walker County / elevation 456 ft band", "Walker County / ZIP 35148 sector", "Walker County / coords 33.7500, -87.0500", "Walker County / ZIP 35062 sector", "Walker County / primary ZIP 35062"]
+zillowHomeValueUsd: 181127
 ---
 
 **Engineering Notice for Sumiton:** System optimized for 175 mg/L hard water scaling factors in Sumiton. Regional dispatch grid: Walker County.

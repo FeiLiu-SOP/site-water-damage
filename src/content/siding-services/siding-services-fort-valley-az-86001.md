@@ -12,6 +12,7 @@ lng: -111.7400
 zipSample: ["86001"]
 zipCodes: ["86001"]
 localPaths: ["Coconino County / coords 35.3200, -111.7400", "Coconino County / ZIP 86001 sector", "Coconino County / elevation 8402 ft band", "Coconino County / primary ZIP 86001"]
+zillowHomeValueUsd: 666913
 ---
 
 **Engineering Notice for Fort Valley:** Structural integrity verification: Cladding Service calibrated for 96 mph localized wind load factor. Elevation: 8402 ft AMSL. Coordinates: 35.3200, -111.7400. Regional dispatch grid: Coconino County.

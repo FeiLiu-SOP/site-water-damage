@@ -12,6 +12,7 @@ lng: -104.8500
 zipSample: ["81069", "81019"]
 zipCodes: ["81069", "81019"]
 localPaths: ["Pueblo County / primary ZIP 81019", "Pueblo County / coords 37.9400, -104.8500", "Pueblo County / ZIP 81069 sector", "Pueblo County / elevation 5928 ft band", "Pueblo County / ZIP 81019 sector"]
+zillowHomeValueUsd: 322909
 ---
 
 **Engineering Notice for Colorado City:** structural drying capacity optimized for 5928ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pueblo County. Relative Humidity Threshold: 80%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -87.0100
 zipSample: ["36701", "36703"]
 zipCodes: ["36701", "36703"]
 localPaths: ["Dallas County / ZIP 36703 sector", "Dallas County / coords 32.3800, -87.0100", "Dallas County / primary ZIP 36703", "Dallas County / elevation 115 ft band", "Dallas County / ZIP 36701 sector"]
+zillowHomeValueUsd: 62496
 ---
 
 **Engineering Notice for Selmont-West Selmont:** Envelope check: Wall Restoration assigned to wind-load band B with stress factor 0.82. Elevation: 115 ft AMSL. Regional dispatch grid: Dallas County.

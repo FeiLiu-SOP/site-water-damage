@@ -12,6 +12,7 @@ lng: -77.3400
 zipSample: ["22025", "22193"]
 zipCodes: ["22193", "22025"]
 localPaths: ["Prince William County / ZIP 22193 sector", "Prince William County / ZIP 22025 sector", "Prince William County / elevation 154 ft band", "Prince William County / primary ZIP 22193", "Prince William County / coords 38.6100, -77.3400"]
+zillowHomeValueUsd: 508703
 ---
 
 **Engineering Notice for Montclair:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Prince William County.

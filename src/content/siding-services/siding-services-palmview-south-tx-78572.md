@@ -12,6 +12,7 @@ lng: -98.3800
 zipSample: ["78572"]
 zipCodes: ["78572"]
 localPaths: ["Hidalgo County / elevation 131 ft band", "Hidalgo County / ZIP 78572 sector", "Hidalgo County / coords 26.2100, -98.3800", "Hidalgo County / primary ZIP 78572"]
+zillowHomeValueUsd: 197890
 ---
 
 **Engineering Notice for Palmview South:** Site context locked to Hidalgo County. Elevation: 131 ft AMSL. Coordinates: 26.2100, -98.3800. Facade Renewal integrity verification recorded.

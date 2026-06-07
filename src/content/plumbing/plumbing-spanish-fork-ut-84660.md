@@ -12,6 +12,7 @@ lng: -111.6400
 zipSample: ["84660"]
 zipCodes: ["84660"]
 localPaths: ["Utah County / coords 40.1100, -111.6400", "Utah County / primary ZIP 84660", "Utah County / elevation 4682 ft band", "Utah County / ZIP 84660 sector"]
+zillowHomeValueUsd: 515228
 ---
 
 **Engineering Notice for Spanish Fork:** Structural loading calculated based on 4682 ft terrain assessment. Regional dispatch grid: Utah County.

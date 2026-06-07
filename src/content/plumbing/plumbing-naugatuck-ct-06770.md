@@ -12,6 +12,7 @@ lng: -73.0500
 zipSample: ["06770"]
 zipCodes: ["06770"]
 localPaths: ["Naugatuck Valley County / elevation 207 ft band", "Naugatuck Valley County / primary ZIP 06770", "Naugatuck Valley County / coords 41.4900, -73.0500", "Naugatuck Valley County / ZIP 06770 sector"]
+zillowHomeValueUsd: 346283
 ---
 
 **Engineering Notice for Naugatuck:** Structural loading calculated based on 207 ft terrain assessment. Regional dispatch grid: Naugatuck Valley County.

@@ -12,6 +12,7 @@ lng: -83.8400
 zipSample: ["48451"]
 zipCodes: ["48451"]
 localPaths: ["Genesee County / ZIP 48451 sector", "Genesee County / primary ZIP 48451", "Genesee County / elevation 883 ft band", "Genesee County / coords 42.7900, -83.8400"]
+zillowHomeValueUsd: 339167
 ---
 
 **Engineering Notice for Argentine:** structural drying capacity optimized for 883ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Genesee County. Relative Humidity Threshold: 77%. Sensor sync: Active.

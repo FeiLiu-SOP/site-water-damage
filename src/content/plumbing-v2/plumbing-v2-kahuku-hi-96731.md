@@ -12,6 +12,7 @@ lng: -157.9500
 zipSample: ["96731"]
 zipCodes: ["96731"]
 localPaths: ["Honolulu County / elevation 20 ft band", "Honolulu County / ZIP 96731 sector", "Honolulu County / coords 21.6800, -157.9500", "Honolulu County / primary ZIP 96731"]
+zillowHomeValueUsd: 1058894
 ---
 
 **Engineering Notice for Kahuku:** System optimized for 162 mg/L hard water scaling factors in Kahuku. Regional dispatch grid: Honolulu County.

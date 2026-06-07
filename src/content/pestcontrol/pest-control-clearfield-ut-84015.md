@@ -11,6 +11,7 @@ lng: -112.0200
 zipSample: ["84089", "84015", "84016"]
 zipCodes: ["84016", "84015", "84089"]
 localPaths: ["Davis County / coords 41.1000, -112.0200", "Davis County / ZIP 84016 sector", "Davis County / ZIP 84015 sector", "Davis County / elevation 4446 ft band", "Davis County / primary ZIP 84015"]
+zillowHomeValueUsd: 466013
 ---
 
 **Engineering Notice for Clearfield:** Structural loading calculated based on 4446 ft terrain assessment. Regional dispatch grid: Davis County.

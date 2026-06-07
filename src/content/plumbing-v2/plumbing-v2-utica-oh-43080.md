@@ -12,6 +12,7 @@ lng: -82.4400
 zipSample: ["43080"]
 zipCodes: ["43080"]
 localPaths: ["Licking County / coords 40.2300, -82.4400", "Licking County / elevation 1070 ft band", "Licking County / ZIP 43080 sector", "Licking County / primary ZIP 43080"]
+zillowHomeValueUsd: 282607
 ---
 
 **Engineering Notice for Utica:** System optimized for 154 mg/L hard water scaling factors in Utica. Regional dispatch grid: Licking County.

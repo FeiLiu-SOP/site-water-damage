@@ -12,6 +12,7 @@ lng: -87.4500
 zipSample: ["47951"]
 zipCodes: ["47951"]
 localPaths: ["Newton County / ZIP 47951 sector", "Newton County / elevation 686 ft band", "Newton County / primary ZIP 47951", "Newton County / coords 40.7700, -87.4500"]
+zillowHomeValueUsd: 172281
 ---
 
 **Engineering Notice for Kentland:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 1.17. Elevation: 686 ft AMSL. Regional dispatch grid: Newton County.

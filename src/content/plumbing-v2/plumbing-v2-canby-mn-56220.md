@@ -12,6 +12,7 @@ lng: -96.2700
 zipSample: ["56220"]
 zipCodes: ["56220"]
 localPaths: ["Yellow Medicine County / elevation 1217 ft band", "Yellow Medicine County / primary ZIP 56220", "Yellow Medicine County / ZIP 56220 sector", "Yellow Medicine County / coords 44.7200, -96.2700"]
+zillowHomeValueUsd: 180007
 ---
 
 **Engineering Notice for Canby:** System optimized for 164 mg/L hard water scaling factors in Canby. Regional dispatch grid: Yellow Medicine County.

@@ -12,6 +12,7 @@ lng: -121.9100
 zipSample: ["98024"]
 zipCodes: ["98024"]
 localPaths: ["King County / elevation 112 ft band", "King County / ZIP 98024 sector", "King County / primary ZIP 98024", "King County / coords 47.5700, -121.9100"]
+zillowHomeValueUsd: 1266501
 ---
 
 **Engineering Notice for Fall City:** System optimized for 147 mg/L hard water scaling factors in Fall City. Regional dispatch grid: King County.

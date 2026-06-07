@@ -12,6 +12,7 @@ lng: -74.0700
 zipSample: ["12486", "12561"]
 zipCodes: ["12561", "12486"]
 localPaths: ["Ulster County / elevation 246 ft band", "Ulster County / primary ZIP 12486", "Ulster County / ZIP 12486 sector", "Ulster County / ZIP 12561 sector", "Ulster County / coords 41.8300, -74.0700"]
+zillowHomeValueUsd: 405076
 ---
 
 **Engineering Notice for Tillson:** Structural integrity verification: Wall Restoration calibrated for 106 mph localized wind load factor. Elevation: 246 ft AMSL. Regional dispatch grid: Ulster County.

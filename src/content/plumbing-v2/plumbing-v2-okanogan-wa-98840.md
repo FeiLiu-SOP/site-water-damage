@@ -12,6 +12,7 @@ lng: -119.5800
 zipSample: ["98840"]
 zipCodes: ["98840"]
 localPaths: ["Okanogan County / ZIP 98840 sector", "Okanogan County / coords 48.3700, -119.5800", "Okanogan County / primary ZIP 98840", "Okanogan County / elevation 853 ft band"]
+zillowHomeValueUsd: 272230
 ---
 
 **Engineering Notice for Okanogan:** System optimized for 125 mg/L hard water scaling factors in Okanogan. Regional dispatch grid: Okanogan County.

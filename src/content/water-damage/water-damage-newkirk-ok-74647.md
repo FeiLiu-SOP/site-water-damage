@@ -12,6 +12,7 @@ lng: -97.0600
 zipSample: ["74647"]
 zipCodes: ["74647"]
 localPaths: ["Kay County / primary ZIP 74647", "Kay County / coords 36.8800, -97.0600", "Kay County / ZIP 74647 sector", "Kay County / elevation 1165 ft band"]
+zillowHomeValueUsd: 131698
 ---
 
 **Engineering Notice for Newkirk:** structural drying capacity optimized for 1165ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kay County. Relative Humidity Threshold: 78%. Sensor sync: Active.

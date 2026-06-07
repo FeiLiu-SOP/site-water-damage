@@ -11,6 +11,7 @@ lng: -87.2700
 zipSample: ["46410", "46342"]
 zipCodes: ["46410", "46342"]
 localPaths: ["Lake County / elevation 636 ft band", "Lake County / ZIP 46342 sector", "Lake County / ZIP 46410 sector", "Lake County / primary ZIP 46342", "Lake County / coords 41.5100, -87.2700"]
+zillowHomeValueUsd: 234746
 ---
 
 **Engineering Notice for Hobart:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Lake County.

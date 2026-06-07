@@ -11,6 +11,7 @@ lng: -95.1100
 zipSample: ["77530"]
 zipCodes: ["77530"]
 localPaths: ["Harris County / coords 29.7900, -95.1100", "Harris County / ZIP 77530 sector", "Harris County / elevation 49 ft band", "Harris County / primary ZIP 77530"]
+zillowHomeValueUsd: 210975
 ---
 
 **Engineering Notice for Channelview:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Harris County.

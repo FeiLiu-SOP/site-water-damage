@@ -11,6 +11,7 @@ lng: -86.8000
 zipSample: ["35210", "35222", "35261", "35243", "35201"]
 zipCodes: ["35255", "35290", "35213", "35222", "35233", "35259", "35249", "35211", "35068", "35209", "35203", "35201"]
 localPaths: ["Jefferson County / coords 33.5300, -86.8000", "Jefferson County / elevation 604 ft band", "Jefferson County / ZIP 35210 sector", "Jefferson County / primary ZIP 35218", "Jefferson County / ZIP 35201 sector"]
+zillowHomeValueUsd: 75072
 ---
 
 **Engineering Notice for Birmingham:** Structural loading calculated based on 604 ft terrain assessment. Regional dispatch grid: Jefferson County.

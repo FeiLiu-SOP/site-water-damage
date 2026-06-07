@@ -12,6 +12,7 @@ lng: -117.8600
 zipSample: ["92870", "92811", "92871"]
 zipCodes: ["92811", "92870", "92871"]
 localPaths: ["Orange County / coords 33.8800, -117.8600", "Orange County / elevation 289 ft band", "Orange County / ZIP 92870 sector", "Orange County / ZIP 92871 sector", "Orange County / primary ZIP 92870"]
+zillowHomeValueUsd: 1115896
 ---
 
 **Engineering Notice for Placentia:** Structural loading calculated based on 289 ft terrain assessment. Regional dispatch grid: Orange County.

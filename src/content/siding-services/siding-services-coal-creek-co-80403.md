@@ -12,6 +12,7 @@ lng: -105.3800
 zipSample: ["80403"]
 zipCodes: ["80403"]
 localPaths: ["Jefferson County / elevation 8796 ft band", "Jefferson County / coords 39.9100, -105.3800", "Jefferson County / primary ZIP 80403", "Jefferson County / ZIP 80403 sector"]
+zillowHomeValueUsd: 872229
 ---
 
 **Engineering Notice for Coal Creek:** Envelope check: Wall Restoration assigned to wind-load band A with stress factor 0.82. Regional dispatch grid: Jefferson County.

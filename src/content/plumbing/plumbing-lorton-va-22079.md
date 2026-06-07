@@ -12,6 +12,7 @@ lng: -77.2200
 zipSample: ["22079", "22199"]
 zipCodes: ["22079", "22199"]
 localPaths: ["Fairfax County / ZIP 22079 sector", "Fairfax County / ZIP 22199 sector", "Fairfax County / elevation 112 ft band", "Fairfax County / coords 38.7000, -77.2200", "Fairfax County / primary ZIP 22079"]
+zillowHomeValueUsd: 684785
 ---
 
 **Engineering Notice for Lorton:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Fairfax County.

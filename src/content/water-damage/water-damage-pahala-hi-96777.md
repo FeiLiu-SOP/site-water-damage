@@ -12,6 +12,7 @@ lng: -155.4800
 zipSample: ["96777"]
 zipCodes: ["96777"]
 localPaths: ["Hawaii County / elevation 860 ft band", "Hawaii County / ZIP 96777 sector", "Hawaii County / primary ZIP 96777", "Hawaii County / coords 19.2000, -155.4800"]
+zillowHomeValueUsd: 284625
 ---
 
 **Engineering Notice for Pahala:** structural drying capacity optimized for 860ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hawaii County. Relative Humidity Threshold: 85%. Sensor sync: Active.

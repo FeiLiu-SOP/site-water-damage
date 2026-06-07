@@ -12,6 +12,7 @@ lng: -99.1300
 zipSample: ["58421"]
 zipCodes: ["58421"]
 localPaths: ["Foster County / coords 47.4500, -99.1300", "Foster County / primary ZIP 58421", "Foster County / ZIP 58421 sector", "Foster County / elevation 1585 ft band"]
+zillowHomeValueUsd: 196675
 ---
 
 **Engineering Notice for Carrington:** System optimized for 128 mg/L hard water scaling factors in Carrington. Regional dispatch grid: Foster County.

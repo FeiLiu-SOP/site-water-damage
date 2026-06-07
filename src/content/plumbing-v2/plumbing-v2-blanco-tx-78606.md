@@ -12,6 +12,7 @@ lng: -98.4200
 zipSample: ["78606"]
 zipCodes: ["78606"]
 localPaths: ["Blanco County / coords 30.1000, -98.4200", "Blanco County / primary ZIP 78606", "Blanco County / ZIP 78606 sector", "Blanco County / elevation 1319 ft band"]
+zillowHomeValueUsd: 540084
 ---
 
 **Engineering Notice for Blanco:** System optimized for 150 mg/L hard water scaling factors in Blanco. Regional dispatch grid: Blanco County.

@@ -11,6 +11,7 @@ lng: -105.1000
 zipSample: ["80501", "80503", "80504"]
 zipCodes: ["80504", "80503", "80501"]
 localPaths: ["Boulder County / coords 40.1700, -105.1000", "Boulder County / primary ZIP 80501", "Boulder County / ZIP 80501 sector", "Boulder County / ZIP 80503 sector", "Boulder County / elevation 5003 ft band"]
+zillowHomeValueUsd: 492855
 ---
 
 **Engineering Notice for Longmont:** Structural loading calculated based on 5003 ft terrain assessment. Regional dispatch grid: Boulder County.

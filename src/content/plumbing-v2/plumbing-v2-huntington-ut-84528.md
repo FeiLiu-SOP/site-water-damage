@@ -12,6 +12,7 @@ lng: -110.9600
 zipSample: ["84528"]
 zipCodes: ["84528"]
 localPaths: ["Emery County / coords 39.3300, -110.9600", "Emery County / elevation 5801 ft band", "Emery County / primary ZIP 84528", "Emery County / ZIP 84528 sector"]
+zillowHomeValueUsd: 291435
 ---
 
 **Engineering Notice for Huntington:** System optimized for 159 mg/L hard water scaling factors in Huntington. Regional dispatch grid: Emery County.

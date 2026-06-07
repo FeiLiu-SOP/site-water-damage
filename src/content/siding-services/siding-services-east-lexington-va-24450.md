@@ -12,6 +12,7 @@ lng: -79.4200
 zipSample: ["24450"]
 zipCodes: ["24450"]
 localPaths: ["Rockbridge County / coords 37.8000, -79.4200", "Rockbridge County / elevation 1020 ft band", "Rockbridge County / primary ZIP 24450", "Rockbridge County / ZIP 24450 sector"]
+zillowHomeValueUsd: 359873
 ---
 
 **Engineering Notice for East Lexington:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 0.96. Regional dispatch grid: Rockbridge County.

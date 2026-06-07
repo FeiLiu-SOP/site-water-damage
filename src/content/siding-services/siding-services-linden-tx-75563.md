@@ -12,6 +12,7 @@ lng: -94.3600
 zipSample: ["75563"]
 zipCodes: ["75563"]
 localPaths: ["Cass County / coords 33.0100, -94.3600", "Cass County / ZIP 75563 sector", "Cass County / elevation 377 ft band", "Cass County / primary ZIP 75563"]
+zillowHomeValueUsd: 144537
 ---
 
 **Engineering Notice for Linden:** Site context locked to Cass County. Elevation: 377 ft AMSL. Facade Renewal integrity verification recorded.

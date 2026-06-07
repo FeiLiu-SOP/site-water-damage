@@ -12,6 +12,7 @@ lng: -80.4400
 zipSample: ["29154"]
 zipCodes: ["29154"]
 localPaths: ["Sumter County / ZIP 29154 sector", "Sumter County / primary ZIP 29154", "Sumter County / coords 33.8900, -80.4400", "Sumter County / elevation 184 ft band"]
+zillowHomeValueUsd: 235588
 ---
 
 **Engineering Notice for Cane Savannah:** Envelope check: Panel Replacement assigned to wind-load band C with stress factor 0.95. Elevation: 184 ft AMSL. Regional dispatch grid: Sumter County.

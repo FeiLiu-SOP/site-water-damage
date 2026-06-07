@@ -12,6 +12,7 @@ lng: -79.9900
 zipSample: ["29431"]
 zipCodes: ["29431"]
 localPaths: ["Berkeley County / primary ZIP 29431", "Berkeley County / elevation 98 ft band", "Berkeley County / ZIP 29431 sector", "Berkeley County / coords 33.3200, -79.9900"]
+zillowHomeValueUsd: 319668
 ---
 
 **Engineering Notice for Bonneau Beach:** Panel Replacement was validated under stress factor 1.03; target tolerance set near 108 mph. Grid anchor: Berkeley County.

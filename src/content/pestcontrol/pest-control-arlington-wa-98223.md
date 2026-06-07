@@ -11,6 +11,7 @@ lng: -122.1400
 zipSample: ["98223"]
 zipCodes: ["98223"]
 localPaths: ["Snohomish County / coords 48.1700, -122.1400", "Snohomish County / ZIP 98223 sector", "Snohomish County / elevation 223 ft band", "Snohomish County / primary ZIP 98223"]
+zillowHomeValueUsd: 663365
 ---
 
 **Engineering Notice for Arlington:** Structural loading calculated based on 223 ft terrain assessment. Regional dispatch grid: Snohomish County.

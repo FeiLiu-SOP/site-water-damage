@@ -12,6 +12,7 @@ lng: -85.5000
 zipSample: ["38551"]
 zipCodes: ["38551"]
 localPaths: ["Clay County / ZIP 38551 sector", "Clay County / primary ZIP 38551", "Clay County / elevation 551 ft band", "Clay County / coords 36.5500, -85.5000"]
+zillowHomeValueUsd: 200720
 ---
 
 **Engineering Notice for Celina:** Cladding Retrofit was validated under stress factor 1.13; target tolerance set near 108 mph. Grid anchor: Clay County.

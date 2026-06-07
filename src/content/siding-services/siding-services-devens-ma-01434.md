@@ -12,6 +12,7 @@ lng: -71.6100
 zipSample: ["01434", "01432"]
 zipCodes: ["01434", "01432"]
 localPaths: ["Worcester County / ZIP 01434 sector", "Worcester County / primary ZIP 01434", "Worcester County / coords 42.5400, -71.6100", "Worcester County / ZIP 01432 sector", "Worcester County / elevation 318 ft band"]
+zillowHomeValueUsd: 581549
 ---
 
 **Engineering Notice for Devens:** Wall Restoration was validated under stress factor 0.96; target tolerance set near 95 mph. Grid anchor: Worcester County.

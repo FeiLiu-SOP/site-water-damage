@@ -12,6 +12,7 @@ lng: -123.9200
 zipSample: ["97138"]
 zipCodes: ["97138"]
 localPaths: ["Clatsop County / ZIP 97138 sector", "Clatsop County / primary ZIP 97138", "Clatsop County / elevation 49 ft band", "Clatsop County / coords 46.0300, -123.9200"]
+zillowHomeValueUsd: 498554
 ---
 
 **Engineering Notice for Gearhart:** Envelope check: Panel Replacement assigned to wind-load band B with stress factor 0.78. Elevation: 49 ft AMSL. Regional dispatch grid: Clatsop County.

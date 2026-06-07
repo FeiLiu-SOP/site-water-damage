@@ -12,6 +12,7 @@ lng: -116.6300
 zipSample: ["91916"]
 zipCodes: ["91916"]
 localPaths: ["San Diego County / elevation 3579 ft band", "San Diego County / primary ZIP 91916", "San Diego County / coords 32.8700, -116.6300", "San Diego County / ZIP 91916 sector"]
+zillowHomeValueUsd: 670231
 ---
 
 **Engineering Notice for Descanso:** Structural integrity verification: Weather Barrier Wrap calibrated for 147 mph localized wind load factor. Elevation: 3579 ft AMSL. Coordinates: 32.8700, -116.6300. Regional dispatch grid: San Diego County.

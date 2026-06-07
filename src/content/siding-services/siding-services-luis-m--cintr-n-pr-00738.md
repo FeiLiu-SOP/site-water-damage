@@ -12,6 +12,8 @@ lng: -65.6400
 zipSample: ["00738"]
 zipCodes: ["00738"]
 localPaths: ["Fajardo County / coords 18.3000, -65.6400", "Fajardo County / ZIP 00738 sector", "Fajardo County / primary ZIP 00738", "Fajardo County / elevation 98 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 376444
 ---
 
 **Engineering Notice for Luis M. Cintrón:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 1.14. Regional dispatch grid: Fajardo County.

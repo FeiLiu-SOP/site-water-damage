@@ -12,6 +12,7 @@ lng: -82.4900
 zipSample: ["29661", "29683"]
 zipCodes: ["29683", "29661"]
 localPaths: ["Greenville County / ZIP 29683 sector", "Greenville County / coords 35.0300, -82.4900", "Greenville County / elevation 1086 ft band", "Greenville County / ZIP 29661 sector", "Greenville County / primary ZIP 29661"]
+zillowHomeValueUsd: 228326
 ---
 
 **Engineering Notice for Slater-Marietta:** Cladding verification uses 107 mph routing baseline; lateral pressure note: 14.0 psf. Elevation: 1086 ft AMSL. Grid: Greenville County.

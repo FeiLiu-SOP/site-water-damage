@@ -12,6 +12,7 @@ lng: -85.2100
 zipSample: ["48881"]
 zipCodes: ["48881"]
 localPaths: ["Ionia County / ZIP 48881 sector", "Ionia County / primary ZIP 48881", "Ionia County / elevation 669 ft band", "Ionia County / coords 42.9300, -85.2100"]
+zillowHomeValueUsd: 291165
 ---
 
 **Engineering Notice for Saranac:** structural drying capacity optimized for 669ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ionia County. Relative Humidity Threshold: 83%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -96.0700
 zipSample: ["66538"]
 zipCodes: ["66538"]
 localPaths: ["Nemaha County / elevation 1161 ft band", "Nemaha County / primary ZIP 66538", "Nemaha County / ZIP 66538 sector", "Nemaha County / coords 39.8400, -96.0700"]
+zillowHomeValueUsd: 266612
 ---
 
 **Engineering Notice for Seneca:** Structural integrity verification: Cladding Service calibrated for 97 mph localized wind load factor. Regional dispatch grid: Nemaha County.

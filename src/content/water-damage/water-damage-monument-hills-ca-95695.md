@@ -12,6 +12,7 @@ lng: -121.8800
 zipSample: ["95695"]
 zipCodes: ["95695"]
 localPaths: ["Yolo County / coords 38.6600, -121.8800", "Yolo County / elevation 125 ft band", "Yolo County / primary ZIP 95695", "Yolo County / ZIP 95695 sector"]
+zillowHomeValueUsd: 520789
 ---
 
 **Engineering Notice for Monument Hills:** structural drying capacity optimized for 125ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Yolo County. Relative Humidity Threshold: 82%. Sensor sync: Active.

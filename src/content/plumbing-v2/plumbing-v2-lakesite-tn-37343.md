@@ -12,6 +12,7 @@ lng: -85.1400
 zipSample: ["37343", "37379"]
 zipCodes: ["37379", "37343"]
 localPaths: ["Hamilton County / primary ZIP 37343", "Hamilton County / coords 35.2000, -85.1400", "Hamilton County / ZIP 37343 sector", "Hamilton County / ZIP 37379 sector", "Hamilton County / elevation 748 ft band"]
+zillowHomeValueUsd: 365353
 ---
 
 **Engineering Notice for Lakesite:** System optimized for 145 mg/L hard water scaling factors in Lakesite. Regional dispatch grid: Hamilton County.

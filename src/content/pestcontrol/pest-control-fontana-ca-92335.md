@@ -11,6 +11,7 @@ lng: -117.4600
 zipSample: ["92331", "92337", "92335", "92336", "92334"]
 zipCodes: ["92334", "92335", "92402", "92337", "92331", "92336"]
 localPaths: ["San Bernardino County / elevation 1178 ft band", "San Bernardino County / primary ZIP 92335", "San Bernardino County / ZIP 92334 sector", "San Bernardino County / ZIP 92335 sector", "San Bernardino County / ZIP 92331 sector"]
+zillowHomeValueUsd: 566943
 ---
 
 **Engineering Notice for Fontana:** Structural loading calculated based on 1178 ft terrain assessment. Regional dispatch grid: San Bernardino County.

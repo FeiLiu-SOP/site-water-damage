@@ -12,6 +12,7 @@ lng: -88.9900
 zipSample: ["61748"]
 zipCodes: ["61748"]
 localPaths: ["McLean County / primary ZIP 61748", "McLean County / ZIP 61748 sector", "McLean County / elevation 774 ft band", "McLean County / coords 40.6100, -88.9900"]
+zillowHomeValueUsd: 301538
 ---
 
 **Engineering Notice for Hudson:** Weather Barrier Wrap was validated under stress factor 0.97; target tolerance set near 101 mph. Grid anchor: McLean County.

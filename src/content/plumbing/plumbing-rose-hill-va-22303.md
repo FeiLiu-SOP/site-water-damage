@@ -12,6 +12,7 @@ lng: -77.1100
 zipSample: ["22303", "22310"]
 zipCodes: ["22303", "22310"]
 localPaths: ["Fairfax County / primary ZIP 22303", "Fairfax County / ZIP 22303 sector", "Fairfax County / ZIP 22310 sector", "Fairfax County / coords 38.7900, -77.1100", "Fairfax County / elevation 184 ft band"]
+zillowHomeValueUsd: 562668
 ---
 
 **Engineering Notice for Rose Hill:** Structural loading calculated based on 184 ft terrain assessment. Regional dispatch grid: Fairfax County.

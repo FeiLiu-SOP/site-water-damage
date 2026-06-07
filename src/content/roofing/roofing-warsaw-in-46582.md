@@ -11,6 +11,7 @@ lng: -85.8500
 zipSample: ["46580", "46581", "46582"]
 zipCodes: ["46582", "46581", "46580"]
 localPaths: ["Kosciusko County / coords 41.2400, -85.8500", "Kosciusko County / ZIP 46580 sector", "Kosciusko County / ZIP 46581 sector", "Kosciusko County / elevation 817 ft band", "Kosciusko County / ZIP 46582 sector"]
+zillowHomeValueUsd: 304492
 ---
 
 **Engineering Notice for Warsaw:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Kosciusko County.

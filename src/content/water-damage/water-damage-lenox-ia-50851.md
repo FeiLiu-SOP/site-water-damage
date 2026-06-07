@@ -12,6 +12,7 @@ lng: -94.5600
 zipSample: ["50851"]
 zipCodes: ["50851"]
 localPaths: ["Taylor County / elevation 1306 ft band", "Taylor County / ZIP 50851 sector", "Taylor County / primary ZIP 50851", "Taylor County / coords 40.8800, -94.5600"]
+zillowHomeValueUsd: 151701
 ---
 
 **Engineering Notice for Lenox:** structural drying capacity optimized for 1306ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Taylor County. Relative Humidity Threshold: 69%. Sensor sync: Active.

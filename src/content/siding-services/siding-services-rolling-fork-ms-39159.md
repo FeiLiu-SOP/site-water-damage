@@ -12,6 +12,7 @@ lng: -90.8800
 zipSample: ["39159"]
 zipCodes: ["39159"]
 localPaths: ["Sharkey County / coords 32.9100, -90.8800", "Sharkey County / ZIP 39159 sector", "Sharkey County / primary ZIP 39159", "Sharkey County / elevation 115 ft band"]
+zillowHomeValueUsd: 113568
 ---
 
 **Engineering Notice for Rolling Fork:** Envelope check: Panel Replacement assigned to wind-load band C with stress factor 1.15. Elevation: 115 ft AMSL. Regional dispatch grid: Sharkey County.

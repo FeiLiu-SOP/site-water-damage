@@ -12,6 +12,7 @@ lng: -116.3600
 zipSample: ["92241"]
 zipCodes: ["92241"]
 localPaths: ["Riverside County / coords 33.8900, -116.3600", "Riverside County / primary ZIP 92241", "Riverside County / ZIP 92241 sector", "Riverside County / elevation 1037 ft band"]
+zillowHomeValueUsd: 408043
 ---
 
 **Engineering Notice for Sky Valley:** Envelope check: Surface Sheathing assigned to wind-load band B with stress factor 0.91. Regional dispatch grid: Riverside County.

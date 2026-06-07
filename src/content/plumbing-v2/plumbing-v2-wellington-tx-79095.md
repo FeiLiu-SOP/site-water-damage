@@ -12,6 +12,7 @@ lng: -100.2100
 zipSample: ["79095"]
 zipCodes: ["79095"]
 localPaths: ["Collingsworth County / elevation 2041 ft band", "Collingsworth County / primary ZIP 79095", "Collingsworth County / ZIP 79095 sector", "Collingsworth County / coords 34.8500, -100.2100"]
+zillowHomeValueUsd: 83265
 ---
 
 **Engineering Notice for Wellington:** System optimized for 154 mg/L hard water scaling factors in Wellington. Regional dispatch grid: Collingsworth County.

@@ -12,6 +12,7 @@ lng: -81.1200
 zipSample: ["43793"]
 zipCodes: ["43793"]
 localPaths: ["Monroe County / ZIP 43793 sector", "Monroe County / elevation 1201 ft band", "Monroe County / primary ZIP 43793", "Monroe County / coords 39.7600, -81.1200"]
+zillowHomeValueUsd: 139292
 ---
 
 **Engineering Notice for Woodsfield:** System optimized for 122 mg/L hard water scaling factors in Woodsfield. Regional dispatch grid: Monroe County.

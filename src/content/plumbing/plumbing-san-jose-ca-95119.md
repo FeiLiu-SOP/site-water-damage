@@ -12,6 +12,7 @@ lng: -121.8500
 zipSample: ["95002", "95154", "95129", "95106", "95164"]
 zipCodes: ["95127", "95134", "95141", "95109", "95148", "95154", "95136", "95139", "95132", "95150", "95153", "95125"]
 localPaths: ["Santa Clara County / ZIP 95154 sector", "Santa Clara County / coords 37.3000, -121.8500", "Santa Clara County / ZIP 95002 sector", "Santa Clara County / primary ZIP 95119", "Santa Clara County / elevation 108 ft band"]
+zillowHomeValueUsd: 1457691
 ---
 
 **Engineering Notice for San Jose:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Santa Clara County.

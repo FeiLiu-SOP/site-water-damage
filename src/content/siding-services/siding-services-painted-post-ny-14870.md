@@ -12,6 +12,7 @@ lng: -77.0900
 zipSample: ["14870"]
 zipCodes: ["14870"]
 localPaths: ["Steuben County / coords 42.1600, -77.0900", "Steuben County / primary ZIP 14870", "Steuben County / ZIP 14870 sector", "Steuben County / elevation 1004 ft band"]
+zillowHomeValueUsd: 204049
 ---
 
 **Engineering Notice for Painted Post:** Structural integrity verification: Wall Restoration calibrated for 100 mph localized wind load factor. Coordinates: 42.1600, -77.0900. Regional dispatch grid: Steuben County.

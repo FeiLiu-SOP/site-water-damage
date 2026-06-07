@@ -12,6 +12,7 @@ lng: -95.3300
 zipSample: ["56763"]
 zipCodes: ["56763"]
 localPaths: ["Roseau County / coords 48.9200, -95.3300", "Roseau County / elevation 1089 ft band", "Roseau County / ZIP 56763 sector", "Roseau County / primary ZIP 56763"]
+zillowHomeValueUsd: 218665
 ---
 
 **Engineering Notice for Warroad:** Site context locked to Roseau County. Vinyl Panels integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -122.3200
 zipSample: ["98247", "98276"]
 zipCodes: ["98247", "98276"]
 localPaths: ["Whatcom County / elevation 85 ft band", "Whatcom County / primary ZIP 98247", "Whatcom County / coords 48.9300, -122.3200", "Whatcom County / ZIP 98276 sector", "Whatcom County / ZIP 98247 sector"]
+zillowHomeValueUsd: 607897
 ---
 
 **Engineering Notice for Nooksack:** System optimized for 167 mg/L hard water scaling factors in Nooksack. Regional dispatch grid: Whatcom County.

@@ -12,6 +12,7 @@ lng: -83.2800
 zipSample: ["48025"]
 zipCodes: ["48025"]
 localPaths: ["Oakland County / ZIP 48025 sector", "Oakland County / primary ZIP 48025", "Oakland County / elevation 745 ft band", "Oakland County / coords 42.5200, -83.2800"]
+zillowHomeValueUsd: 625222
 ---
 
 **Engineering Notice for Bingham Farms:** Site context locked to Oakland County. Cladding Service integrity verification recorded.

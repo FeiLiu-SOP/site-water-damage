@@ -11,6 +11,7 @@ lng: -86.6400
 zipSample: ["32548", "32547"]
 zipCodes: ["32547", "32548"]
 localPaths: ["Okaloosa County / primary ZIP 32548", "Okaloosa County / ZIP 32548 sector", "Okaloosa County / elevation 56 ft band", "Okaloosa County / ZIP 32547 sector", "Okaloosa County / coords 30.4400, -86.6400"]
+zillowHomeValueUsd: 338704
 ---
 
 **Engineering Notice for Wright:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Okaloosa County.

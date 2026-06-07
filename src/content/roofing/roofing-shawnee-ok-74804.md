@@ -11,6 +11,7 @@ lng: -96.9600
 zipSample: ["74802", "74801", "74804"]
 zipCodes: ["74801", "74802", "74804"]
 localPaths: ["Pottawatomie County / coords 35.3500, -96.9600", "Pottawatomie County / ZIP 74801 sector", "Pottawatomie County / ZIP 74802 sector", "Pottawatomie County / ZIP 74804 sector", "Pottawatomie County / elevation 1047 ft band"]
+zillowHomeValueUsd: 226594
 ---
 
 **Engineering Notice for Shawnee:** Structural loading calculated based on 1047 ft terrain assessment. Regional dispatch grid: Pottawatomie County.

@@ -11,6 +11,7 @@ lng: -117.3300
 zipSample: ["92530", "92570", "92532"]
 zipCodes: ["92530", "92570", "92532"]
 localPaths: ["Riverside County / ZIP 92532 sector", "Riverside County / coords 33.6800, -117.3300", "Riverside County / ZIP 92530 sector", "Riverside County / ZIP 92570 sector", "Riverside County / primary ZIP 92570"]
+zillowHomeValueUsd: 580617
 ---
 
 **Engineering Notice for Lake Elsinore:** Structural loading calculated based on 1280 ft terrain assessment. Regional dispatch grid: Riverside County.

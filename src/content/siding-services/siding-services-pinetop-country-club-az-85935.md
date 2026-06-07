@@ -12,6 +12,7 @@ lng: -109.8900
 zipSample: ["85935"]
 zipCodes: ["85935"]
 localPaths: ["Navajo County / coords 34.1200, -109.8900", "Navajo County / primary ZIP 85935", "Navajo County / elevation 7231 ft band", "Navajo County / ZIP 85935 sector"]
+zillowHomeValueUsd: 540087
 ---
 
 **Engineering Notice for Pinetop Country Club:** Exterior Envelope was validated under stress factor 0.84; target tolerance set near 109 mph. Coordinates: 34.1200, -109.8900. Grid anchor: Navajo County.

@@ -12,6 +12,7 @@ lng: -76.7500
 zipSample: ["21235", "21244", "21289", "21228", "21207"]
 zipCodes: ["21235", "21207", "21228", "21289", "21241", "21244"]
 localPaths: ["Baltimore County / ZIP 21289 sector", "Baltimore County / primary ZIP 21244", "Baltimore County / ZIP 21244 sector", "Baltimore County / elevation 413 ft band", "Baltimore County / ZIP 21207 sector"]
+zillowHomeValueUsd: 322159
 ---
 
 **Engineering Notice for Woodlawn:** Structural loading calculated based on 413 ft terrain assessment. Regional dispatch grid: Baltimore County.

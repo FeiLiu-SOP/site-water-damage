@@ -11,6 +11,7 @@ lng: -82.4200
 zipSample: ["43055", "43058", "43093"]
 zipCodes: ["43055", "43058", "43093"]
 localPaths: ["Licking County / elevation 856 ft band", "Licking County / ZIP 43055 sector", "Licking County / coords 40.0700, -82.4200", "Licking County / ZIP 43058 sector", "Licking County / ZIP 43093 sector"]
+zillowHomeValueUsd: 245650
 ---
 
 **Engineering Notice for Newark:** Structural loading calculated based on 856 ft terrain assessment. Regional dispatch grid: Licking County.

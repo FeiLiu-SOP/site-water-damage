@@ -12,6 +12,7 @@ lng: -78.7600
 zipSample: ["26757"]
 zipCodes: ["26757"]
 localPaths: ["Hampshire County / ZIP 26757 sector", "Hampshire County / elevation 791 ft band", "Hampshire County / coords 39.3500, -78.7600", "Hampshire County / primary ZIP 26757"]
+zillowHomeValueUsd: 224670
 ---
 
 **Engineering Notice for Romney:** structural drying capacity optimized for 791ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hampshire County. Relative Humidity Threshold: 66%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -94.0000
 zipSample: ["77627"]
 zipCodes: ["77627"]
 localPaths: ["Jefferson County / elevation 33 ft band", "Jefferson County / ZIP 77627 sector", "Jefferson County / coords 29.9700, -94.0000", "Jefferson County / primary ZIP 77627"]
+zillowHomeValueUsd: 211406
 ---
 
 **Engineering Notice for Nederland:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Jefferson County.

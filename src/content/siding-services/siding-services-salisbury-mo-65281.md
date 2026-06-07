@@ -12,6 +12,7 @@ lng: -92.8000
 zipSample: ["65281"]
 zipCodes: ["65281"]
 localPaths: ["Chariton County / elevation 751 ft band", "Chariton County / primary ZIP 65281", "Chariton County / ZIP 65281 sector", "Chariton County / coords 39.4200, -92.8000"]
+zillowHomeValueUsd: 178016
 ---
 
 **Engineering Notice for Salisbury:** Weather Barrier Wrap was validated under stress factor 1.02; target tolerance set near 102 mph. Grid anchor: Chariton County.

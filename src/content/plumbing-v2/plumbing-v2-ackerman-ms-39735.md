@@ -12,6 +12,7 @@ lng: -89.1700
 zipSample: ["39735"]
 zipCodes: ["39735"]
 localPaths: ["Choctaw County / coords 33.3100, -89.1700", "Choctaw County / elevation 535 ft band", "Choctaw County / primary ZIP 39735", "Choctaw County / ZIP 39735 sector"]
+zillowHomeValueUsd: 136796
 ---
 
 **Engineering Notice for Ackerman:** System optimized for 143 mg/L hard water scaling factors in Ackerman. Regional dispatch grid: Choctaw County.

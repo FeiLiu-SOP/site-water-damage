@@ -12,6 +12,7 @@ lng: -91.0000
 zipSample: ["70817"]
 zipCodes: ["70817"]
 localPaths: ["East Baton Rouge Parish / ZIP 70817 sector", "East Baton Rouge Parish / elevation 56 ft band", "East Baton Rouge Parish / primary ZIP 70817", "East Baton Rouge Parish / coords 30.4000, -91.0000"]
+zillowHomeValueUsd: 303831
 ---
 
 **Engineering Notice for Shenandoah:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: East Baton Rouge Parish.

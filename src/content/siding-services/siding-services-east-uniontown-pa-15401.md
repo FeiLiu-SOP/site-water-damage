@@ -12,6 +12,7 @@ lng: -79.7000
 zipSample: ["15401", "15445"]
 zipCodes: ["15401", "15445"]
 localPaths: ["Fayette County / elevation 1145 ft band", "Fayette County / primary ZIP 15401", "Fayette County / ZIP 15401 sector", "Fayette County / coords 39.9000, -79.7000", "Fayette County / ZIP 15445 sector"]
+zillowHomeValueUsd: 155369
 ---
 
 **Engineering Notice for East Uniontown:** Exterior Cladding was validated under stress factor 1.07; target tolerance set near 91 mph. Grid anchor: Fayette County.

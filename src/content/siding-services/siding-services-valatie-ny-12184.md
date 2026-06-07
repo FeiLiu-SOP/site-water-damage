@@ -12,6 +12,7 @@ lng: -73.6800
 zipSample: ["12184"]
 zipCodes: ["12184"]
 localPaths: ["Columbia County / elevation 246 ft band", "Columbia County / ZIP 12184 sector", "Columbia County / primary ZIP 12184", "Columbia County / coords 42.4100, -73.6800"]
+zillowHomeValueUsd: 435153
 ---
 
 **Engineering Notice for Valatie:** Cladding Service was validated under stress factor 0.98; target tolerance set near 104 mph. Coordinates: 42.4100, -73.6800. Grid anchor: Columbia County.

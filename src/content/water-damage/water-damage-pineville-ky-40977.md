@@ -12,6 +12,7 @@ lng: -83.7100
 zipSample: ["40977"]
 zipCodes: ["40977"]
 localPaths: ["Bell County / primary ZIP 40977", "Bell County / ZIP 40977 sector", "Bell County / elevation 2119 ft band", "Bell County / coords 36.7500, -83.7100"]
+zillowHomeValueUsd: 90031
 ---
 
 **Engineering Notice for Pineville:** structural drying capacity optimized for 2119ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bell County. Relative Humidity Threshold: 83%. Sensor sync: Active.

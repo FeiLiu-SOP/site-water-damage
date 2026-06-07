@@ -12,6 +12,7 @@ lng: -85.3200
 zipSample: ["46723"]
 zipCodes: ["46723"]
 localPaths: ["Whitley County / ZIP 46723 sector", "Whitley County / elevation 899 ft band", "Whitley County / coords 41.2300, -85.3200", "Whitley County / primary ZIP 46723"]
+zillowHomeValueUsd: 292611
 ---
 
 **Engineering Notice for Churubusco:** Envelope check: Cladding Retrofit assigned to wind-load band C with stress factor 1.03. Elevation: 899 ft AMSL. Regional dispatch grid: Whitley County.

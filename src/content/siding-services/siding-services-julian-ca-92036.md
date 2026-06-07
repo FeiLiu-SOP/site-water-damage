@@ -12,6 +12,7 @@ lng: -116.5900
 zipSample: ["92036"]
 zipCodes: ["92036"]
 localPaths: ["San Diego County / elevation 4364 ft band", "San Diego County / ZIP 92036 sector", "San Diego County / primary ZIP 92036", "San Diego County / coords 33.0700, -116.5900"]
+zillowHomeValueUsd: 579627
 ---
 
 **Engineering Notice for Julian:** Site context locked to San Diego County. Elevation: 4364 ft AMSL. Exterior Cladding integrity verification recorded.

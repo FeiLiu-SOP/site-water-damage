@@ -12,6 +12,7 @@ lng: -76.1200
 zipSample: ["13732"]
 zipCodes: ["13732"]
 localPaths: ["Tioga County / coords 42.0500, -76.1200", "Tioga County / elevation 1020 ft band", "Tioga County / ZIP 13732 sector", "Tioga County / primary ZIP 13732"]
+zillowHomeValueUsd: 224555
 ---
 
 **Engineering Notice for Tioga Terrace:** Cladding verification uses 102 mph routing baseline; lateral pressure note: 13.4 psf. Coordinates: 42.0500, -76.1200. Grid: Tioga County.

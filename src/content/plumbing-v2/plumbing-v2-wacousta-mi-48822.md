@@ -12,6 +12,7 @@ lng: -84.6900
 zipSample: ["48820", "48822", "48837"]
 zipCodes: ["48822", "48820", "48837"]
 localPaths: ["Clinton County / primary ZIP 48822", "Clinton County / ZIP 48837 sector", "Clinton County / coords 42.8200, -84.6900", "Clinton County / ZIP 48820 sector", "Clinton County / elevation 833 ft band"]
+zillowHomeValueUsd: 315589
 ---
 
 **Engineering Notice for Wacousta:** System optimized for 147 mg/L hard water scaling factors in Wacousta. Regional dispatch grid: Clinton County.

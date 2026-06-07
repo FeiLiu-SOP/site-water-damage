@@ -12,6 +12,7 @@ lng: -121.8200
 zipSample: ["98610"]
 zipCodes: ["98610"]
 localPaths: ["Skamania County / elevation 518 ft band", "Skamania County / primary ZIP 98610", "Skamania County / coords 45.7400, -121.8200", "Skamania County / ZIP 98610 sector"]
+zillowHomeValueUsd: 453376
 ---
 
 **Engineering Notice for Carson:** Envelope check: Weather Barrier Wrap assigned to wind-load band B with stress factor 1.17. Regional dispatch grid: Skamania County.

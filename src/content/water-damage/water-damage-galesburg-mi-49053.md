@@ -12,6 +12,7 @@ lng: -85.4200
 zipSample: ["49053"]
 zipCodes: ["49053"]
 localPaths: ["Kalamazoo County / primary ZIP 49053", "Kalamazoo County / elevation 814 ft band", "Kalamazoo County / coords 42.2900, -85.4200", "Kalamazoo County / ZIP 49053 sector"]
+zillowHomeValueUsd: 286097
 ---
 
 **Engineering Notice for Galesburg:** structural drying capacity optimized for 814ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kalamazoo County. Relative Humidity Threshold: 65%. Sensor sync: Active.

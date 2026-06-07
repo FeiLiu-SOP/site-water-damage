@@ -11,6 +11,7 @@ lng: -111.9800
 zipSample: ["84095", "84009", "84096"]
 zipCodes: ["84096", "84095", "84009"]
 localPaths: ["Salt Lake County / ZIP 84096 sector", "Salt Lake County / ZIP 84009 sector", "Salt Lake County / elevation 4672 ft band", "Salt Lake County / coords 40.5600, -111.9800", "Salt Lake County / ZIP 84095 sector"]
+zillowHomeValueUsd: 759233
 ---
 
 **Engineering Notice for South Jordan:** Structural loading calculated based on 4672 ft terrain assessment. Regional dispatch grid: Salt Lake County.

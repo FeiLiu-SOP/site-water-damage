@@ -12,6 +12,7 @@ lng: -108.1800
 zipSample: ["87401", "87402"]
 zipCodes: ["87402", "87401"]
 localPaths: ["San Juan County / ZIP 87402 sector", "San Juan County / ZIP 87401 sector", "San Juan County / coords 36.7600, -108.1800", "San Juan County / primary ZIP 87401", "San Juan County / elevation 5482 ft band"]
+zillowHomeValueUsd: 265342
 ---
 
 **Engineering Notice for Farmington:** Structural loading calculated based on 5482 ft terrain assessment. Regional dispatch grid: San Juan County.

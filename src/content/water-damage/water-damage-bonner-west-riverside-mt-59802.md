@@ -12,6 +12,7 @@ lng: -113.8900
 zipSample: ["59851", "59802"]
 zipCodes: ["59851", "59802"]
 localPaths: ["Missoula County / ZIP 59851 sector", "Missoula County / primary ZIP 59802", "Missoula County / ZIP 59802 sector", "Missoula County / elevation 3291 ft band", "Missoula County / coords 46.8800, -113.8900"]
+zillowHomeValueUsd: 551962
 ---
 
 **Engineering Notice for Bonner-West Riverside:** structural drying capacity optimized for 3291ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Missoula County. Relative Humidity Threshold: 72%. Sensor sync: Active.

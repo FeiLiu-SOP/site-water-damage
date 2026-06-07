@@ -12,6 +12,7 @@ lng: -97.8400
 zipSample: ["78748", "78652"]
 zipCodes: ["78652", "78748"]
 localPaths: ["Travis County / primary ZIP 78748", "Travis County / coords 30.1400, -97.8400", "Travis County / ZIP 78652 sector", "Travis County / ZIP 78748 sector", "Travis County / elevation 702 ft band"]
+zillowHomeValueUsd: 414931
 ---
 
 **Engineering Notice for Manchaca:** System optimized for 172 mg/L hard water scaling factors in Manchaca. Regional dispatch grid: Travis County.

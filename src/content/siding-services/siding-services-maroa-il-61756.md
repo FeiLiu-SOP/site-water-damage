@@ -12,6 +12,7 @@ lng: -88.9600
 zipSample: ["61756"]
 zipCodes: ["61756"]
 localPaths: ["Macon County / primary ZIP 61756", "Macon County / coords 40.0400, -88.9600", "Macon County / ZIP 61756 sector", "Macon County / elevation 738 ft band"]
+zillowHomeValueUsd: 158330
 ---
 
 **Engineering Notice for Maroa:** Cladding verification uses 90 mph routing baseline; lateral pressure note: 12.0 psf. Elevation: 738 ft AMSL. Coordinates: 40.0400, -88.9600. Grid: Macon County.

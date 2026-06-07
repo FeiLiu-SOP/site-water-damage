@@ -11,6 +11,7 @@ lng: -117.0300
 zipSample: ["91945", "91946"]
 zipCodes: ["91945", "91946"]
 localPaths: ["San Diego County / primary ZIP 91945", "San Diego County / elevation 420 ft band", "San Diego County / ZIP 91946 sector", "San Diego County / ZIP 91945 sector", "San Diego County / coords 32.7300, -117.0300"]
+zillowHomeValueUsd: 762183
 ---
 
 **Engineering Notice for Lemon Grove:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: San Diego County.

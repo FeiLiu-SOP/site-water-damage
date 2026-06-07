@@ -12,6 +12,7 @@ lng: -79.8900
 zipSample: ["15417"]
 zipCodes: ["15417"]
 localPaths: ["Fayette County / elevation 906 ft band", "Fayette County / primary ZIP 15417", "Fayette County / coords 40.0200, -79.8900", "Fayette County / ZIP 15417 sector"]
+zillowHomeValueUsd: 96558
 ---
 
 **Engineering Notice for Brownsville:** System optimized for 120 mg/L hard water scaling factors in Brownsville. Regional dispatch grid: Fayette County.

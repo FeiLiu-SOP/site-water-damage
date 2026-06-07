@@ -12,6 +12,7 @@ lng: -86.3400
 zipSample: ["49103"]
 zipCodes: ["49103"]
 localPaths: ["Berrien County / coords 41.9500, -86.3400", "Berrien County / elevation 666 ft band", "Berrien County / primary ZIP 49103", "Berrien County / ZIP 49103 sector"]
+zillowHomeValueUsd: 292038
 ---
 
 **Engineering Notice for Berrien Springs:** Structural integrity verification: Panel Replacement calibrated for 104 mph localized wind load factor. Elevation: 666 ft AMSL. Coordinates: 41.9500, -86.3400. Regional dispatch grid: Berrien County.

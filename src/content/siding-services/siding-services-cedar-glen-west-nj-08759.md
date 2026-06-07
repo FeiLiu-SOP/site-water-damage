@@ -12,6 +12,7 @@ lng: -74.2900
 zipSample: ["08759"]
 zipCodes: ["08759"]
 localPaths: ["Ocean County / ZIP 08759 sector", "Ocean County / coords 40.0400, -74.2900", "Ocean County / elevation 89 ft band", "Ocean County / primary ZIP 08759"]
+zillowHomeValueUsd: 274839
 ---
 
 **Engineering Notice for Cedar Glen West:** Structural integrity verification: Cladding Service calibrated for 101 mph localized wind load factor. Elevation: 89 ft AMSL. Coordinates: 40.0400, -74.2900. Regional dispatch grid: Ocean County.

@@ -12,6 +12,7 @@ lng: -116.5100
 zipSample: ["91962"]
 zipCodes: ["91962"]
 localPaths: ["San Diego County / coords 32.8400, -116.5100", "San Diego County / elevation 4081 ft band", "San Diego County / ZIP 91962 sector", "San Diego County / primary ZIP 91962"]
+zillowHomeValueUsd: 652293
 ---
 
 **Engineering Notice for Pine Valley:** structural drying capacity optimized for 4081ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Diego County. Relative Humidity Threshold: 66%. Sensor sync: Active.

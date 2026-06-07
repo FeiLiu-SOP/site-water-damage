@@ -12,6 +12,7 @@ lng: -84.9200
 zipSample: ["49076"]
 zipCodes: ["49076"]
 localPaths: ["Eaton County / primary ZIP 49076", "Eaton County / ZIP 49076 sector", "Eaton County / coords 42.4400, -84.9200", "Eaton County / elevation 935 ft band"]
+zillowHomeValueUsd: 228423
 ---
 
 **Engineering Notice for Olivet:** structural drying capacity optimized for 935ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Eaton County. Relative Humidity Threshold: 76%. Sensor sync: Active.

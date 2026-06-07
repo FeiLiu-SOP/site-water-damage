@@ -12,6 +12,7 @@ lng: -86.8100
 zipSample: ["35219", "35209", "35229", "35293"]
 zipCodes: ["35293", "35219", "35229", "35209"]
 localPaths: ["Jefferson County / ZIP 35209 sector", "Jefferson County / ZIP 35229 sector", "Jefferson County / ZIP 35293 sector", "Jefferson County / primary ZIP 35229", "Jefferson County / coords 33.4600, -86.8100"]
+zillowHomeValueUsd: 525210
 ---
 
 **Engineering Notice for Homewood:** Structural loading calculated based on 738 ft terrain assessment. Regional dispatch grid: Jefferson County.

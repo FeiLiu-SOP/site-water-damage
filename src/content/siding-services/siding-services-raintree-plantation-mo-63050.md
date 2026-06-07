@@ -12,6 +12,7 @@ lng: -90.6000
 zipSample: ["63050"]
 zipCodes: ["63050"]
 localPaths: ["Jefferson County / elevation 745 ft band", "Jefferson County / ZIP 63050 sector", "Jefferson County / coords 38.2500, -90.6000", "Jefferson County / primary ZIP 63050"]
+zillowHomeValueUsd: 315262
 ---
 
 **Engineering Notice for Raintree Plantation:** Exterior Cladding was validated under stress factor 0.81; target tolerance set near 98 mph. Grid anchor: Jefferson County.

@@ -11,6 +11,7 @@ lng: -79.9500
 zipSample: ["26505", "26506", "26504", "26501"]
 zipCodes: ["26506", "26501", "26505", "26504"]
 localPaths: ["Monongalia County / ZIP 26505 sector", "Monongalia County / ZIP 26506 sector", "Monongalia County / ZIP 26504 sector", "Monongalia County / elevation 1165 ft band", "Monongalia County / primary ZIP 26501"]
+zillowHomeValueUsd: 217751
 ---
 
 **Engineering Notice for Morgantown:** Structural loading calculated based on 1165 ft terrain assessment. Regional dispatch grid: Monongalia County.

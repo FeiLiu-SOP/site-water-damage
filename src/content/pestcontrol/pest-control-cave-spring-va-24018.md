@@ -11,6 +11,7 @@ lng: -80.0100
 zipSample: ["24018"]
 zipCodes: ["24018"]
 localPaths: ["Roanoke County / coords 37.2300, -80.0100", "Roanoke County / elevation 1148 ft band", "Roanoke County / primary ZIP 24018", "Roanoke County / ZIP 24018 sector"]
+zillowHomeValueUsd: 376409
 ---
 
 **Engineering Notice for Cave Spring:** Structural loading calculated based on 1148 ft terrain assessment. Regional dispatch grid: Roanoke County.

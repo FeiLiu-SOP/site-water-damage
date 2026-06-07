@@ -11,6 +11,7 @@ lng: -87.1200
 zipSample: ["42304", "42303", "42301"]
 zipCodes: ["42303", "42301", "42304"]
 localPaths: ["Daviess County / elevation 433 ft band", "Daviess County / primary ZIP 42301", "Daviess County / ZIP 42301 sector", "Daviess County / coords 37.7600, -87.1200", "Daviess County / ZIP 42304 sector"]
+zillowHomeValueUsd: 205729
 ---
 
 **Engineering Notice for Owensboro:** Structural loading calculated based on 433 ft terrain assessment. Regional dispatch grid: Daviess County.

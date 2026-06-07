@@ -12,6 +12,7 @@ lng: -75.4400
 zipSample: ["18353", "18330"]
 zipCodes: ["18330", "18353"]
 localPaths: ["Monroe County / primary ZIP 18330", "Monroe County / ZIP 18330 sector", "Monroe County / coords 40.9400, -75.4400", "Monroe County / elevation 804 ft band", "Monroe County / ZIP 18353 sector"]
+zillowHomeValueUsd: 312903
 ---
 
 **Engineering Notice for Effort:** structural drying capacity optimized for 804ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Monroe County. Relative Humidity Threshold: 74%. Sensor sync: Active.

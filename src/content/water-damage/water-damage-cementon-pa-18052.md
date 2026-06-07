@@ -12,6 +12,7 @@ lng: -75.5200
 zipSample: ["18052"]
 zipCodes: ["18052"]
 localPaths: ["Lehigh County / primary ZIP 18052", "Lehigh County / coords 40.6900, -75.5200", "Lehigh County / ZIP 18052 sector", "Lehigh County / elevation 564 ft band"]
+zillowHomeValueUsd: 335164
 ---
 
 **Engineering Notice for Cementon:** structural drying capacity optimized for 564ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lehigh County. Relative Humidity Threshold: 74%. Sensor sync: Active.

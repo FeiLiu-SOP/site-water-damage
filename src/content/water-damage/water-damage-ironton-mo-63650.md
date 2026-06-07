@@ -12,6 +12,7 @@ lng: -90.6400
 zipSample: ["63650"]
 zipCodes: ["63650"]
 localPaths: ["Iron County / primary ZIP 63650", "Iron County / ZIP 63650 sector", "Iron County / elevation 1037 ft band", "Iron County / coords 37.6000, -90.6400"]
+zillowHomeValueUsd: 132474
 ---
 
 **Engineering Notice for Ironton:** structural drying capacity optimized for 1037ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Iron County. Relative Humidity Threshold: 79%. Sensor sync: Active.

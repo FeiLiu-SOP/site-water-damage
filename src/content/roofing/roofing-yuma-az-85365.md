@@ -11,6 +11,7 @@ lng: -114.5500
 zipSample: ["85365", "85369", "85364"]
 zipCodes: ["85365", "85369", "85364"]
 localPaths: ["Yuma County / ZIP 85364 sector", "Yuma County / coords 32.6000, -114.5500", "Yuma County / primary ZIP 85365", "Yuma County / ZIP 85369 sector", "Yuma County / elevation 194 ft band"]
+zillowHomeValueUsd: 331180
 ---
 
 **Engineering Notice for Yuma:** Structural loading calculated based on 194 ft terrain assessment. Regional dispatch grid: Yuma County.

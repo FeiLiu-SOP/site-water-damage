@@ -12,6 +12,7 @@ lng: -105.0400
 zipSample: ["80123"]
 zipCodes: ["80123"]
 localPaths: ["Arapahoe County / ZIP 80123 sector", "Arapahoe County / coords 39.6000, -105.0400", "Arapahoe County / elevation 5374 ft band", "Arapahoe County / primary ZIP 80123"]
+zillowHomeValueUsd: 602064
 ---
 
 **Engineering Notice for Columbine Valley:** Site context locked to Arapahoe County. Coordinates: 39.6000, -105.0400. Weather Barrier Wrap integrity verification recorded.

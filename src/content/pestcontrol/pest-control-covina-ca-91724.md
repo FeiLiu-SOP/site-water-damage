@@ -11,6 +11,7 @@ lng: -117.8800
 zipSample: ["91724", "91723", "91722"]
 zipCodes: ["91724", "91722", "91723"]
 localPaths: ["Los Angeles County / coords 34.0900, -117.8800", "Los Angeles County / ZIP 91724 sector", "Los Angeles County / ZIP 91722 sector", "Los Angeles County / ZIP 91723 sector", "Los Angeles County / primary ZIP 91724"]
+zillowHomeValueUsd: 886130
 ---
 
 **Engineering Notice for Covina:** Structural loading calculated based on 584 ft terrain assessment. Regional dispatch grid: Los Angeles County.

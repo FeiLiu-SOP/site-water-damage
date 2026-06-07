@@ -12,6 +12,7 @@ lng: -82.3700
 zipSample: ["29687", "29690"]
 zipCodes: ["29690", "29687"]
 localPaths: ["Greenville County / ZIP 29690 sector", "Greenville County / primary ZIP 29690", "Greenville County / elevation 1017 ft band", "Greenville County / coords 35.0700, -82.3700", "Greenville County / ZIP 29687 sector"]
+zillowHomeValueUsd: 353050
 ---
 
 **Engineering Notice for Tigerville:** System optimized for 149 mg/L hard water scaling factors in Tigerville. Regional dispatch grid: Greenville County.

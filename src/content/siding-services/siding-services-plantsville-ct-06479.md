@@ -12,6 +12,7 @@ lng: -72.8900
 zipSample: ["06479"]
 zipCodes: ["06479"]
 localPaths: ["Capitol County / primary ZIP 06479", "Capitol County / ZIP 06479 sector", "Capitol County / coords 41.5800, -72.8900", "Capitol County / elevation 164 ft band"]
+zillowHomeValueUsd: 416019
 ---
 
 **Engineering Notice for Plantsville:** Site context locked to Capitol County. Elevation: 164 ft AMSL. Coordinates: 41.5800, -72.8900. Surface Sheathing integrity verification recorded.

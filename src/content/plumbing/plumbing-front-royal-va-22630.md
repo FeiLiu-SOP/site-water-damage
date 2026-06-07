@@ -12,6 +12,7 @@ lng: -78.1800
 zipSample: ["22630"]
 zipCodes: ["22630"]
 localPaths: ["Warren County / ZIP 22630 sector", "Warren County / elevation 561 ft band", "Warren County / coords 38.9300, -78.1800", "Warren County / primary ZIP 22630"]
+zillowHomeValueUsd: 403065
 ---
 
 **Engineering Notice for Front Royal:** Structural loading calculated based on 561 ft terrain assessment. Regional dispatch grid: Warren County.

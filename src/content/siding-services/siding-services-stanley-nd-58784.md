@@ -12,6 +12,7 @@ lng: -102.4000
 zipSample: ["58784"]
 zipCodes: ["58784"]
 localPaths: ["Mountrail County / primary ZIP 58784", "Mountrail County / ZIP 58784 sector", "Mountrail County / elevation 2241 ft band", "Mountrail County / coords 48.3100, -102.4000"]
+zillowHomeValueUsd: 234419
 ---
 
 **Engineering Notice for Stanley:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 0.92. Elevation: 2241 ft AMSL. Regional dispatch grid: Mountrail County.

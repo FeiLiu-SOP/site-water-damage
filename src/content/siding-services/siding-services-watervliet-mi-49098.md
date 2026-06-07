@@ -12,6 +12,7 @@ lng: -86.2600
 zipSample: ["49098"]
 zipCodes: ["49098"]
 localPaths: ["Berrien County / ZIP 49098 sector", "Berrien County / elevation 633 ft band", "Berrien County / coords 42.1900, -86.2600", "Berrien County / primary ZIP 49098"]
+zillowHomeValueUsd: 223946
 ---
 
 **Engineering Notice for Watervliet:** Wall Restoration was validated under stress factor 1.15; target tolerance set near 104 mph. Grid anchor: Berrien County.

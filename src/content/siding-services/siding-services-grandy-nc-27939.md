@@ -12,6 +12,7 @@ lng: -75.8800
 zipSample: ["27939"]
 zipCodes: ["27939"]
 localPaths: ["Currituck County / ZIP 27939 sector", "Currituck County / coords 36.2300, -75.8800", "Currituck County / elevation 20 ft band", "Currituck County / primary ZIP 27939"]
+zillowHomeValueUsd: 389986
 ---
 
 **Engineering Notice for Grandy:** Structural integrity verification: Weather Barrier Wrap calibrated for 97 mph localized wind load factor. Elevation: 20 ft AMSL. Regional dispatch grid: Currituck County.

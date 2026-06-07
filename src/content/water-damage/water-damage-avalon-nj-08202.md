@@ -12,6 +12,7 @@ lng: -74.7400
 zipSample: ["08202"]
 zipCodes: ["08202"]
 localPaths: ["Cape May County / primary ZIP 08202", "Cape May County / elevation 10 ft band", "Cape May County / coords 39.0900, -74.7400", "Cape May County / ZIP 08202 sector"]
+zillowHomeValueUsd: 2682888
 ---
 
 **Engineering Notice for Avalon:** structural drying capacity optimized for 10ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cape May County. Relative Humidity Threshold: 81%. Sensor sync: Active.

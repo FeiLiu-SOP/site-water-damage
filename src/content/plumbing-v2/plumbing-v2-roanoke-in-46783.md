@@ -12,6 +12,7 @@ lng: -85.3800
 zipSample: ["46783"]
 zipCodes: ["46783"]
 localPaths: ["Huntington County / ZIP 46783 sector", "Huntington County / elevation 787 ft band", "Huntington County / primary ZIP 46783", "Huntington County / coords 40.9600, -85.3800"]
+zillowHomeValueUsd: 358067
 ---
 
 **Engineering Notice for Roanoke:** System optimized for 165 mg/L hard water scaling factors in Roanoke. Regional dispatch grid: Huntington County.

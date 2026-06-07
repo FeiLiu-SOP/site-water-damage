@@ -12,6 +12,7 @@ lng: -89.1800
 zipSample: ["62914"]
 zipCodes: ["62914"]
 localPaths: ["Alexander County / elevation 322 ft band", "Alexander County / primary ZIP 62914", "Alexander County / ZIP 62914 sector", "Alexander County / coords 37.0100, -89.1800"]
+zillowHomeValueUsd: 33630
 ---
 
 **Engineering Notice for Cairo:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Elevation: 322 ft AMSL. Grid: Alexander County.

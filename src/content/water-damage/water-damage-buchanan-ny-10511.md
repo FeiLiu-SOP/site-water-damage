@@ -12,6 +12,7 @@ lng: -73.9500
 zipSample: ["10511"]
 zipCodes: ["10511"]
 localPaths: ["Westchester County / elevation 135 ft band", "Westchester County / primary ZIP 10511", "Westchester County / ZIP 10511 sector", "Westchester County / coords 41.2600, -73.9500"]
+zillowHomeValueUsd: 577543
 ---
 
 **Engineering Notice for Buchanan:** structural drying capacity optimized for 135ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Westchester County. Relative Humidity Threshold: 70%. Sensor sync: Active.

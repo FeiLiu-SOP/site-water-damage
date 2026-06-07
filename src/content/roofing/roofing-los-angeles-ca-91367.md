@@ -11,6 +11,7 @@ lng: -118.4100
 zipSample: ["90501", "90062", "91340", "91328", "91331"]
 zipCodes: ["91615", "91342", "90017", "90046", "90291", "91436", "90029", "91356", "90064", "91608", "91396", "90086"]
 localPaths: ["Los Angeles County / primary ZIP 91367", "Los Angeles County / ZIP 91331 sector", "Los Angeles County / elevation 1106 ft band", "Los Angeles County / ZIP 91328 sector", "Los Angeles County / ZIP 91340 sector"]
+zillowHomeValueUsd: 1122282
 ---
 
 **Engineering Notice for Los Angeles:** Structural loading calculated based on 1106 ft terrain assessment. Regional dispatch grid: Los Angeles County.

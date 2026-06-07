@@ -12,6 +12,7 @@ lng: -92.2400
 zipSample: ["55705"]
 zipCodes: ["55705"]
 localPaths: ["St. Louis County / primary ZIP 55705", "St. Louis County / coords 47.5300, -92.2400", "St. Louis County / elevation 1490 ft band", "St. Louis County / ZIP 55705 sector"]
+zillowHomeValueUsd: 153690
 ---
 
 **Engineering Notice for Aurora:** Exterior Cladding was validated under stress factor 1.01; target tolerance set near 96 mph. Coordinates: 47.5300, -92.2400. Grid anchor: St. Louis County.

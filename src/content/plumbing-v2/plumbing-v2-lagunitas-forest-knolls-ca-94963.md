@@ -12,6 +12,7 @@ lng: -122.6900
 zipSample: ["94938", "94963", "94933"]
 zipCodes: ["94933", "94938", "94963"]
 localPaths: ["Marin County / ZIP 94933 sector", "Marin County / primary ZIP 94963", "Marin County / coords 38.0200, -122.6900", "Marin County / elevation 367 ft band", "Marin County / ZIP 94938 sector"]
+zillowHomeValueUsd: 1300140
 ---
 
 **Engineering Notice for Lagunitas-Forest Knolls:** System optimized for 162 mg/L hard water scaling factors in Lagunitas-Forest Knolls. Regional dispatch grid: Marin County.

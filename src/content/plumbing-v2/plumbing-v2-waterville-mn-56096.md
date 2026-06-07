@@ -12,6 +12,7 @@ lng: -93.5700
 zipSample: ["56096"]
 zipCodes: ["56096"]
 localPaths: ["Le Sueur County / primary ZIP 56096", "Le Sueur County / coords 44.2200, -93.5700", "Le Sueur County / ZIP 56096 sector", "Le Sueur County / elevation 1020 ft band"]
+zillowHomeValueUsd: 321311
 ---
 
 **Engineering Notice for Waterville:** System optimized for 145 mg/L hard water scaling factors in Waterville. Regional dispatch grid: Le Sueur County.

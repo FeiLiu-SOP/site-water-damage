@@ -12,6 +12,7 @@ lng: -82.8600
 zipSample: ["37857", "37873"]
 zipCodes: ["37857", "37873"]
 localPaths: ["Hawkins County / ZIP 37857 sector", "Hawkins County / elevation 1388 ft band", "Hawkins County / ZIP 37873 sector", "Hawkins County / primary ZIP 37857", "Hawkins County / coords 36.4700, -82.8600"]
+zillowHomeValueUsd: 231770
 ---
 
 **Engineering Notice for Surgoinsville:** Exterior Envelope was validated under stress factor 1.04; target tolerance set near 104 mph. Coordinates: 36.4700, -82.8600. Grid anchor: Hawkins County.

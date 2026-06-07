@@ -12,6 +12,7 @@ lng: -85.7200
 zipSample: ["35740"]
 zipCodes: ["35740"]
 localPaths: ["Jackson County / coords 34.9500, -85.7200", "Jackson County / elevation 709 ft band", "Jackson County / primary ZIP 35740", "Jackson County / ZIP 35740 sector"]
+zillowHomeValueUsd: 136249
 ---
 
 **Engineering Notice for Bridgeport:** System optimized for 132 mg/L hard water scaling factors in Bridgeport. Regional dispatch grid: Jackson County.

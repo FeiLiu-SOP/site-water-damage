@@ -12,6 +12,7 @@ lng: -77.8800
 zipSample: ["17066"]
 zipCodes: ["17066"]
 localPaths: ["Huntingdon County / ZIP 17066 sector", "Huntingdon County / primary ZIP 17066", "Huntingdon County / elevation 614 ft band", "Huntingdon County / coords 40.3800, -77.8800"]
+zillowHomeValueUsd: 126117
 ---
 
 **Engineering Notice for Mount Union:** Vinyl Panels was validated under stress factor 0.97; target tolerance set near 101 mph. Grid anchor: Huntingdon County.

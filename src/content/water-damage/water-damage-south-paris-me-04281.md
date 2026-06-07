@@ -12,6 +12,7 @@ lng: -70.5100
 zipSample: ["04281"]
 zipCodes: ["04281"]
 localPaths: ["Oxford County / elevation 377 ft band", "Oxford County / coords 44.2200, -70.5100", "Oxford County / primary ZIP 04281", "Oxford County / ZIP 04281 sector"]
+zillowHomeValueUsd: 295232
 ---
 
 **Engineering Notice for South Paris:** structural drying capacity optimized for 377ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Oxford County. Relative Humidity Threshold: 79%. Sensor sync: Active.

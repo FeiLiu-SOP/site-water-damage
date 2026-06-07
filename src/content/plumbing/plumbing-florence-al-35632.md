@@ -12,6 +12,7 @@ lng: -87.6700
 zipSample: ["35632", "35630", "35631", "35633"]
 zipCodes: ["35633", "35632", "35631", "35630"]
 localPaths: ["Lauderdale County / primary ZIP 35632", "Lauderdale County / ZIP 35633 sector", "Lauderdale County / coords 34.8300, -87.6700", "Lauderdale County / ZIP 35630 sector", "Lauderdale County / ZIP 35632 sector"]
+zillowHomeValueUsd: 174243
 ---
 
 **Engineering Notice for Florence:** Structural loading calculated based on 610 ft terrain assessment. Regional dispatch grid: Lauderdale County.

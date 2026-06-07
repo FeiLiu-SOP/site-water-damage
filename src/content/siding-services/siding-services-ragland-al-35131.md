@@ -12,6 +12,7 @@ lng: -86.1400
 zipSample: ["35131"]
 zipCodes: ["35131"]
 localPaths: ["St. Clair County / ZIP 35131 sector", "St. Clair County / elevation 499 ft band", "St. Clair County / primary ZIP 35131", "St. Clair County / coords 33.7500, -86.1400"]
+zillowHomeValueUsd: 168806
 ---
 
 **Engineering Notice for Ragland:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Elevation: 499 ft AMSL. Grid: St. Clair County.

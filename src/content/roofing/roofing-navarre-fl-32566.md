@@ -11,6 +11,7 @@ lng: -86.8900
 zipSample: ["32566"]
 zipCodes: ["32566"]
 localPaths: ["Santa Rosa County / elevation 46 ft band", "Santa Rosa County / coords 30.4200, -86.8900", "Santa Rosa County / primary ZIP 32566", "Santa Rosa County / ZIP 32566 sector"]
+zillowHomeValueUsd: 415378
 ---
 
 **Engineering Notice for Navarre:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Santa Rosa County.

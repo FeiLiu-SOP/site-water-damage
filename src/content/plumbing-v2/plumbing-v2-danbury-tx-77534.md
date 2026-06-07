@@ -12,6 +12,7 @@ lng: -95.3500
 zipSample: ["77534"]
 zipCodes: ["77534"]
 localPaths: ["Brazoria County / ZIP 77534 sector", "Brazoria County / primary ZIP 77534", "Brazoria County / coords 29.2300, -95.3500", "Brazoria County / elevation 43 ft band"]
+zillowHomeValueUsd: 275864
 ---
 
 **Engineering Notice for Danbury:** System optimized for 169 mg/L hard water scaling factors in Danbury. Regional dispatch grid: Brazoria County.

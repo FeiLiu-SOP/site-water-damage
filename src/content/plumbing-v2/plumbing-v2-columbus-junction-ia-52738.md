@@ -12,6 +12,7 @@ lng: -91.3600
 zipSample: ["52738"]
 zipCodes: ["52738"]
 localPaths: ["Louisa County / ZIP 52738 sector", "Louisa County / coords 41.2800, -91.3600", "Louisa County / elevation 640 ft band", "Louisa County / primary ZIP 52738"]
+zillowHomeValueUsd: 186864
 ---
 
 **Engineering Notice for Columbus Junction:** System optimized for 132 mg/L hard water scaling factors in Columbus Junction. Regional dispatch grid: Louisa County.

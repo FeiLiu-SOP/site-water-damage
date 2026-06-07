@@ -12,6 +12,7 @@ lng: -119.4900
 zipSample: ["97844"]
 zipCodes: ["97844"]
 localPaths: ["Morrow County / primary ZIP 97844", "Morrow County / elevation 295 ft band", "Morrow County / coords 45.9000, -119.4900", "Morrow County / ZIP 97844 sector"]
+zillowHomeValueUsd: 314519
 ---
 
 **Engineering Notice for Irrigon:** System optimized for 135 mg/L hard water scaling factors in Irrigon. Regional dispatch grid: Morrow County.

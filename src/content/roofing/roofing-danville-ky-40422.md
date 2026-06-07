@@ -11,6 +11,7 @@ lng: -84.7800
 zipSample: ["40422", "40423"]
 zipCodes: ["40422", "40423"]
 localPaths: ["Boyle County / primary ZIP 40422", "Boyle County / ZIP 40423 sector", "Boyle County / elevation 961 ft band", "Boyle County / coords 37.6400, -84.7800", "Boyle County / ZIP 40422 sector"]
+zillowHomeValueUsd: 247947
 ---
 
 **Engineering Notice for Danville:** Structural loading calculated based on 961 ft terrain assessment. Regional dispatch grid: Boyle County.

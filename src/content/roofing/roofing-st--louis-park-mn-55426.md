@@ -11,6 +11,7 @@ lng: -93.3600
 zipSample: ["55426", "55416"]
 zipCodes: ["55416", "55426"]
 localPaths: ["Hennepin County / elevation 909 ft band", "Hennepin County / ZIP 55426 sector", "Hennepin County / coords 44.9500, -93.3600", "Hennepin County / ZIP 55416 sector", "Hennepin County / primary ZIP 55426"]
+zillowHomeValueUsd: 370769
 ---
 
 **Engineering Notice for St. Louis Park:** Structural loading calculated based on 909 ft terrain assessment. Regional dispatch grid: Hennepin County.

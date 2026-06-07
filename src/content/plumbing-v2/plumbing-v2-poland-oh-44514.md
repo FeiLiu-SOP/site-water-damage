@@ -12,6 +12,7 @@ lng: -80.6200
 zipSample: ["44514"]
 zipCodes: ["44514"]
 localPaths: ["Mahoning County / elevation 1040 ft band", "Mahoning County / primary ZIP 44514", "Mahoning County / coords 41.0200, -80.6200", "Mahoning County / ZIP 44514 sector"]
+zillowHomeValueUsd: 243685
 ---
 
 **Engineering Notice for Poland:** System optimized for 177 mg/L hard water scaling factors in Poland. Regional dispatch grid: Mahoning County.

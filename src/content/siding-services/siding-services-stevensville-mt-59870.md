@@ -12,6 +12,7 @@ lng: -114.0800
 zipSample: ["59870"]
 zipCodes: ["59870"]
 localPaths: ["Ravalli County / elevation 3376 ft band", "Ravalli County / primary ZIP 59870", "Ravalli County / coords 46.5100, -114.0800", "Ravalli County / ZIP 59870 sector"]
+zillowHomeValueUsd: 615644
 ---
 
 **Engineering Notice for Stevensville:** Envelope check: Facade Renewal assigned to wind-load band B with stress factor 1.05. Regional dispatch grid: Ravalli County.

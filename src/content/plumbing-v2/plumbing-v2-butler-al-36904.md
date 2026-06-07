@@ -12,6 +12,7 @@ lng: -88.2100
 zipSample: ["36904"]
 zipCodes: ["36904"]
 localPaths: ["Choctaw County / ZIP 36904 sector", "Choctaw County / coords 32.1000, -88.2100", "Choctaw County / elevation 161 ft band", "Choctaw County / primary ZIP 36904"]
+zillowHomeValueUsd: 137386
 ---
 
 **Engineering Notice for Butler:** System optimized for 148 mg/L hard water scaling factors in Butler. Regional dispatch grid: Choctaw County.

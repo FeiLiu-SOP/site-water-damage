@@ -12,6 +12,7 @@ lng: -72.6200
 zipSample: ["11901"]
 zipCodes: ["11901"]
 localPaths: ["Suffolk County / coords 40.9700, -72.6200", "Suffolk County / primary ZIP 11901", "Suffolk County / elevation 62 ft band", "Suffolk County / ZIP 11901 sector"]
+zillowHomeValueUsd: 635435
 ---
 
 **Engineering Notice for Northville:** Structural integrity verification: Facade Renewal calibrated for 92 mph localized wind load factor. Elevation: 62 ft AMSL. Coordinates: 40.9700, -72.6200. Regional dispatch grid: Suffolk County.

@@ -11,6 +11,7 @@ lng: -93.6100
 zipSample: ["55318"]
 zipCodes: ["55318"]
 localPaths: ["Carver County / primary ZIP 55318", "Carver County / elevation 922 ft band", "Carver County / ZIP 55318 sector", "Carver County / coords 44.8200, -93.6100"]
+zillowHomeValueUsd: 478772
 ---
 
 **Engineering Notice for Chaska:** Structural loading calculated based on 922 ft terrain assessment. Regional dispatch grid: Carver County.

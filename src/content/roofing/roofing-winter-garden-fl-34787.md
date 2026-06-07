@@ -11,6 +11,7 @@ lng: -81.6000
 zipSample: ["34787"]
 zipCodes: ["34787"]
 localPaths: ["Orange County / primary ZIP 34787", "Orange County / coords 28.5400, -81.6000", "Orange County / ZIP 34787 sector", "Orange County / elevation 135 ft band"]
+zillowHomeValueUsd: 571272
 ---
 
 **Engineering Notice for Winter Garden:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Orange County.

@@ -12,6 +12,7 @@ lng: -76.8700
 zipSample: ["14433"]
 zipCodes: ["14433"]
 localPaths: ["Wayne County / coords 43.0800, -76.8700", "Wayne County / ZIP 14433 sector", "Wayne County / primary ZIP 14433", "Wayne County / elevation 404 ft band"]
+zillowHomeValueUsd: 155621
 ---
 
 **Engineering Notice for Clyde:** Structural integrity verification: Exterior Cladding calibrated for 95 mph localized wind load factor. Coordinates: 43.0800, -76.8700. Regional dispatch grid: Wayne County.

@@ -12,6 +12,7 @@ lng: -89.8200
 zipSample: ["53910"]
 zipCodes: ["53910"]
 localPaths: ["Adams County / ZIP 53910 sector", "Adams County / elevation 968 ft band", "Adams County / primary ZIP 53910", "Adams County / coords 43.9600, -89.8200"]
+zillowHomeValueUsd: 196840
 ---
 
 **Engineering Notice for Adams:** Site context locked to Adams County. Exterior Envelope integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -84.2100
 zipSample: ["45036"]
 zipCodes: ["45036"]
 localPaths: ["Warren County / coords 39.4300, -84.2100", "Warren County / ZIP 45036 sector", "Warren County / primary ZIP 45036", "Warren County / elevation 764 ft band"]
+zillowHomeValueUsd: 405137
 ---
 
 **Engineering Notice for Lebanon:** Structural loading calculated based on 764 ft terrain assessment. Regional dispatch grid: Warren County.

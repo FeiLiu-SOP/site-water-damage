@@ -12,6 +12,7 @@ lng: -84.2400
 zipSample: ["37885", "37801"]
 zipCodes: ["37801", "37885"]
 localPaths: ["Monroe County / primary ZIP 37885", "Monroe County / ZIP 37801 sector", "Monroe County / coords 35.6000, -84.2400", "Monroe County / ZIP 37885 sector", "Monroe County / elevation 843 ft band"]
+zillowHomeValueUsd: 480394
 ---
 
 **Engineering Notice for Vonore:** structural drying capacity optimized for 843ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Monroe County. Relative Humidity Threshold: 77%. Sensor sync: Active.

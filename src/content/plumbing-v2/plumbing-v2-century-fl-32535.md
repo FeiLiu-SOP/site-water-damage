@@ -12,6 +12,7 @@ lng: -87.2600
 zipSample: ["32535"]
 zipCodes: ["32535"]
 localPaths: ["Escambia County / ZIP 32535 sector", "Escambia County / elevation 112 ft band", "Escambia County / primary ZIP 32535", "Escambia County / coords 30.9800, -87.2600"]
+zillowHomeValueUsd: 201961
 ---
 
 **Engineering Notice for Century:** System optimized for 178 mg/L hard water scaling factors in Century. Regional dispatch grid: Escambia County.

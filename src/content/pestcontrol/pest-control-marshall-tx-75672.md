@@ -11,6 +11,7 @@ lng: -94.3500
 zipSample: ["75670", "75672"]
 zipCodes: ["75670", "75672"]
 localPaths: ["Harrison County / primary ZIP 75672", "Harrison County / elevation 354 ft band", "Harrison County / ZIP 75672 sector", "Harrison County / ZIP 75670 sector", "Harrison County / coords 32.5400, -94.3500"]
+zillowHomeValueUsd: 209987
 ---
 
 **Engineering Notice for Marshall:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Harrison County.

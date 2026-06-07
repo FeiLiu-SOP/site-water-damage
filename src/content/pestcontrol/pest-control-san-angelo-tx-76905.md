@@ -11,6 +11,7 @@ lng: -100.4500
 zipSample: ["76901", "76903", "76886", "76909", "76905"]
 zipCodes: ["76886", "76903", "76901", "76909", "76908", "76904", "76905", "76906"]
 localPaths: ["Tom Green County / ZIP 76901 sector", "Tom Green County / ZIP 76909 sector", "Tom Green County / ZIP 76903 sector", "Tom Green County / primary ZIP 76905", "Tom Green County / elevation 1877 ft band"]
+zillowHomeValueUsd: 236406
 ---
 
 **Engineering Notice for San Angelo:** Structural loading calculated based on 1877 ft terrain assessment. Regional dispatch grid: Tom Green County.

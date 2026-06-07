@@ -12,6 +12,7 @@ lng: -76.7600
 zipSample: ["22572"]
 zipCodes: ["22572"]
 localPaths: ["Richmond County / ZIP 22572 sector", "Richmond County / elevation 138 ft band", "Richmond County / primary ZIP 22572", "Richmond County / coords 37.9600, -76.7600"]
+zillowHomeValueUsd: 247368
 ---
 
 **Engineering Notice for Warsaw:** Weather Barrier Wrap was validated under stress factor 1.15; target tolerance set near 93 mph. Grid anchor: Richmond County.

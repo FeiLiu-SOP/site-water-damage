@@ -12,6 +12,7 @@ lng: -78.4700
 zipSample: ["14778", "14760", "14706"]
 zipCodes: ["14706", "14760", "14778"]
 localPaths: ["Cattaraugus County / ZIP 14760 sector", "Cattaraugus County / coords 42.0800, -78.4700", "Cattaraugus County / elevation 1437 ft band", "Cattaraugus County / primary ZIP 14760", "Cattaraugus County / ZIP 14706 sector"]
+zillowHomeValueUsd: 119186
 ---
 
 **Engineering Notice for St. Bonaventure:** Cladding verification uses 91 mph routing baseline; lateral pressure note: 12.1 psf. Elevation: 1437 ft AMSL. Coordinates: 42.0800, -78.4700. Grid: Cattaraugus County.

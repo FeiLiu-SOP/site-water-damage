@@ -12,6 +12,7 @@ lng: -79.5600
 zipSample: ["15613"]
 zipCodes: ["15613"]
 localPaths: ["Armstrong County / primary ZIP 15613", "Armstrong County / ZIP 15613 sector", "Armstrong County / coords 40.5800, -79.5600", "Armstrong County / elevation 853 ft band"]
+zillowHomeValueUsd: 188687
 ---
 
 **Engineering Notice for Apollo:** System optimized for 141 mg/L hard water scaling factors in Apollo. Regional dispatch grid: Armstrong County.

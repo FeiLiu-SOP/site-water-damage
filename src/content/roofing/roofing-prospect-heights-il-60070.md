@@ -11,6 +11,7 @@ lng: -87.9300
 zipSample: ["60070"]
 zipCodes: ["60070"]
 localPaths: ["Cook County / ZIP 60070 sector", "Cook County / primary ZIP 60070", "Cook County / coords 42.1000, -87.9300", "Cook County / elevation 659 ft band"]
+zillowHomeValueUsd: 366176
 ---
 
 **Engineering Notice for Prospect Heights:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Cook County.

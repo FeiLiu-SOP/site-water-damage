@@ -12,6 +12,7 @@ lng: -121.7500
 zipSample: ["98045"]
 zipCodes: ["98045"]
 localPaths: ["King County / elevation 518 ft band", "King County / ZIP 98045 sector", "King County / coords 47.4700, -121.7500", "King County / primary ZIP 98045"]
+zillowHomeValueUsd: 1003660
 ---
 
 **Engineering Notice for Riverbend:** Site context locked to King County. Surface Sheathing integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -73.7400
 zipSample: ["10598", "10587"]
 zipCodes: ["10587", "10598"]
 localPaths: ["Westchester County / primary ZIP 10598", "Westchester County / ZIP 10587 sector", "Westchester County / elevation 502 ft band", "Westchester County / coords 41.3300, -73.7400", "Westchester County / ZIP 10598 sector"]
+zillowHomeValueUsd: 700227
 ---
 
 **Engineering Notice for Shenorock:** Structural integrity verification: Cladding Retrofit calibrated for 96 mph localized wind load factor. Elevation: 502 ft AMSL. Regional dispatch grid: Westchester County.

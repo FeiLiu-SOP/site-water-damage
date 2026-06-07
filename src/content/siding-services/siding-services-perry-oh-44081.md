@@ -12,6 +12,7 @@ lng: -81.1400
 zipSample: ["44081"]
 zipCodes: ["44081"]
 localPaths: ["Lake County / ZIP 44081 sector", "Lake County / primary ZIP 44081", "Lake County / elevation 705 ft band", "Lake County / coords 41.7600, -81.1400"]
+zillowHomeValueUsd: 288356
 ---
 
 **Engineering Notice for Perry:** Envelope check: Weather Barrier Wrap assigned to wind-load band A with stress factor 1.03. Regional dispatch grid: Lake County.

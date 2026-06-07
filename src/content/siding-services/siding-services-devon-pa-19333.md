@@ -12,6 +12,7 @@ lng: -75.4300
 zipSample: ["19312", "19333"]
 zipCodes: ["19333", "19312"]
 localPaths: ["Chester County / coords 40.0500, -75.4300", "Chester County / ZIP 19333 sector", "Chester County / primary ZIP 19333", "Chester County / ZIP 19312 sector", "Chester County / elevation 525 ft band"]
+zillowHomeValueUsd: 837485
 ---
 
 **Engineering Notice for Devon:** Cladding verification uses 102 mph routing baseline; lateral pressure note: 13.4 psf. Elevation: 525 ft AMSL. Coordinates: 40.0500, -75.4300. Grid: Chester County.

@@ -12,6 +12,7 @@ lng: -95.8600
 zipSample: ["66539"]
 zipCodes: ["66539"]
 localPaths: ["Shawnee County / primary ZIP 66539", "Shawnee County / coords 39.1000, -95.8600", "Shawnee County / ZIP 66539 sector", "Shawnee County / elevation 919 ft band"]
+zillowHomeValueUsd: 272959
 ---
 
 **Engineering Notice for Silver Lake:** Facade Renewal was validated under stress factor 1.12; target tolerance set near 103 mph. Grid anchor: Shawnee County.

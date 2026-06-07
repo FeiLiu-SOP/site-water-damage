@@ -11,6 +11,7 @@ lng: -71.3700
 zipSample: ["02862", "02860", "02861"]
 zipCodes: ["02860", "02861", "02862"]
 localPaths: ["Providence County / primary ZIP 02861", "Providence County / ZIP 02862 sector", "Providence County / elevation 108 ft band", "Providence County / ZIP 02861 sector", "Providence County / ZIP 02860 sector"]
+zillowHomeValueUsd: 395645
 ---
 
 **Engineering Notice for Pawtucket:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Providence County.

@@ -12,6 +12,7 @@ lng: -74.1100
 zipSample: ["07070"]
 zipCodes: ["07070"]
 localPaths: ["Bergen County / ZIP 07070 sector", "Bergen County / primary ZIP 07070", "Bergen County / coords 40.8200, -74.1100", "Bergen County / elevation 72 ft band"]
+zillowHomeValueUsd: 738695
 ---
 
 **Engineering Notice for Rutherford:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Bergen County.

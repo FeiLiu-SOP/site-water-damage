@@ -11,6 +11,7 @@ lng: -117.8200
 zipSample: ["91789", "91765"]
 zipCodes: ["91765", "91789"]
 localPaths: ["Los Angeles County / primary ZIP 91789", "Los Angeles County / ZIP 91765 sector", "Los Angeles County / coords 34.0000, -117.8200", "Los Angeles County / ZIP 91789 sector", "Los Angeles County / elevation 965 ft band"]
+zillowHomeValueUsd: 1156379
 ---
 
 **Engineering Notice for Diamond Bar:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Los Angeles County.

@@ -12,6 +12,8 @@ lng: -83.2000
 zipSample: ["31605", "31699"]
 zipCodes: ["31605", "31699"]
 localPaths: ["Lowndes County / ZIP 31699 sector", "Lowndes County / elevation 233 ft band", "Lowndes County / primary ZIP 31699", "Lowndes County / coords 30.9700, -83.2000", "Lowndes County / ZIP 31605 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 293779
 ---
 
 **Engineering Notice for Moody AFB:** System optimized for 167 mg/L hard water scaling factors in Moody AFB. Regional dispatch grid: Lowndes County.

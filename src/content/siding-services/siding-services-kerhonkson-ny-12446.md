@@ -12,6 +12,7 @@ lng: -74.3000
 zipSample: ["12446"]
 zipCodes: ["12446"]
 localPaths: ["Ulster County / coords 41.7800, -74.3000", "Ulster County / primary ZIP 12446", "Ulster County / ZIP 12446 sector", "Ulster County / elevation 276 ft band"]
+zillowHomeValueUsd: 395806
 ---
 
 **Engineering Notice for Kerhonkson:** Vinyl Panels was validated under stress factor 1.19; target tolerance set near 102 mph. Coordinates: 41.7800, -74.3000. Grid anchor: Ulster County.

@@ -12,6 +12,7 @@ lng: -86.8600
 zipSample: ["37047"]
 zipCodes: ["37047"]
 localPaths: ["Marshall County / primary ZIP 37047", "Marshall County / ZIP 37047 sector", "Marshall County / coords 35.3600, -86.8600", "Marshall County / elevation 1043 ft band"]
+zillowHomeValueUsd: 312106
 ---
 
 **Engineering Notice for Cornersville:** System optimized for 163 mg/L hard water scaling factors in Cornersville. Regional dispatch grid: Marshall County.

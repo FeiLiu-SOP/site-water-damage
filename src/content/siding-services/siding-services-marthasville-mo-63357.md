@@ -12,6 +12,7 @@ lng: -91.0600
 zipSample: ["63357"]
 zipCodes: ["63357"]
 localPaths: ["Warren County / ZIP 63357 sector", "Warren County / coords 38.6300, -91.0600", "Warren County / primary ZIP 63357", "Warren County / elevation 535 ft band"]
+zillowHomeValueUsd: 340973
 ---
 
 **Engineering Notice for Marthasville:** Weather Barrier Wrap was validated under stress factor 0.87; target tolerance set near 96 mph. Grid anchor: Warren County.

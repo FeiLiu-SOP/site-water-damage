@@ -12,6 +12,7 @@ lng: -100.9300
 zipSample: ["67905", "67901"]
 zipCodes: ["67901", "67905"]
 localPaths: ["Seward County / coords 37.0500, -100.9300", "Seward County / ZIP 67901 sector", "Seward County / primary ZIP 67901", "Seward County / elevation 2858 ft band", "Seward County / ZIP 67905 sector"]
+zillowHomeValueUsd: 144589
 ---
 
 **Engineering Notice for Liberal:** Structural loading calculated based on 2858 ft terrain assessment. Regional dispatch grid: Seward County.

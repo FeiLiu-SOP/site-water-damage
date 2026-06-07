@@ -12,6 +12,7 @@ lng: -84.8600
 zipSample: ["30135", "30187"]
 zipCodes: ["30187", "30135"]
 localPaths: ["Douglas County / ZIP 30187 sector", "Douglas County / primary ZIP 30135", "Douglas County / ZIP 30135 sector", "Douglas County / coords 33.6200, -84.8600", "Douglas County / elevation 1115 ft band"]
+zillowHomeValueUsd: 313240
 ---
 
 **Engineering Notice for Fairplay:** Cladding verification uses 106 mph routing baseline; lateral pressure note: 13.9 psf. Coordinates: 33.6200, -84.8600. Grid: Douglas County.

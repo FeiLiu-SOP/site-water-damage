@@ -12,6 +12,7 @@ lng: -91.0200
 zipSample: ["63090"]
 zipCodes: ["63090"]
 localPaths: ["Franklin County / ZIP 63090 sector", "Franklin County / elevation 558 ft band", "Franklin County / coords 38.5500, -91.0200", "Franklin County / primary ZIP 63090"]
+zillowHomeValueUsd: 307035
 ---
 
 **Engineering Notice for Washington:** Structural loading calculated based on 558 ft terrain assessment. Regional dispatch grid: Franklin County.

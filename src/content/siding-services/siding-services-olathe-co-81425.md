@@ -12,6 +12,7 @@ lng: -107.9800
 zipSample: ["81425"]
 zipCodes: ["81425"]
 localPaths: ["Montrose County / primary ZIP 81425", "Montrose County / elevation 5361 ft band", "Montrose County / ZIP 81425 sector", "Montrose County / coords 38.6100, -107.9800"]
+zillowHomeValueUsd: 460653
 ---
 
 **Engineering Notice for Olathe:** Site context locked to Montrose County. Exterior Cladding integrity verification recorded.

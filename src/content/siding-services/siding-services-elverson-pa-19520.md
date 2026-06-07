@@ -12,6 +12,7 @@ lng: -75.8300
 zipSample: ["19520"]
 zipCodes: ["19520"]
 localPaths: ["Chester County / primary ZIP 19520", "Chester County / ZIP 19520 sector", "Chester County / elevation 679 ft band", "Chester County / coords 40.1600, -75.8300"]
+zillowHomeValueUsd: 471708
 ---
 
 **Engineering Notice for Elverson:** Structural integrity verification: Vinyl Panels calibrated for 94 mph localized wind load factor. Regional dispatch grid: Chester County.

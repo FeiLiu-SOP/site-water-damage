@@ -12,6 +12,7 @@ lng: -94.4600
 zipSample: ["50849"]
 zipCodes: ["50849"]
 localPaths: ["Adair County / coords 41.3100, -94.4600", "Adair County / ZIP 50849 sector", "Adair County / primary ZIP 50849", "Adair County / elevation 1368 ft band"]
+zillowHomeValueUsd: 180901
 ---
 
 **Engineering Notice for Greenfield:** System optimized for 131 mg/L hard water scaling factors in Greenfield. Regional dispatch grid: Adair County.

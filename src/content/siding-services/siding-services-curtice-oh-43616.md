@@ -12,6 +12,7 @@ lng: -83.3700
 zipSample: ["43412", "43616"]
 zipCodes: ["43616", "43412"]
 localPaths: ["Ottawa County / primary ZIP 43616", "Ottawa County / ZIP 43412 sector", "Ottawa County / ZIP 43616 sector", "Ottawa County / elevation 594 ft band", "Ottawa County / coords 41.6200, -83.3700"]
+zillowHomeValueUsd: 227428
 ---
 
 **Engineering Notice for Curtice:** Site context locked to Ottawa County. Weather Barrier Wrap integrity verification recorded.

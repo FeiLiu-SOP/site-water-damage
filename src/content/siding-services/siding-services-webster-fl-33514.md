@@ -12,6 +12,7 @@ lng: -82.0500
 zipSample: ["33514", "33597"]
 zipCodes: ["33514", "33597"]
 localPaths: ["Sumter County / primary ZIP 33514", "Sumter County / coords 28.6100, -82.0500", "Sumter County / ZIP 33514 sector", "Sumter County / ZIP 33597 sector", "Sumter County / elevation 118 ft band"]
+zillowHomeValueUsd: 293110
 ---
 
 **Engineering Notice for Webster:** Weather Barrier Wrap was validated under stress factor 0.84; target tolerance set near 140 mph. Grid anchor: Sumter County.

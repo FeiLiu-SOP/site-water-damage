@@ -11,6 +11,7 @@ lng: -84.8900
 zipSample: ["47375", "47374"]
 zipCodes: ["47375", "47374"]
 localPaths: ["Wayne County / elevation 974 ft band", "Wayne County / ZIP 47375 sector", "Wayne County / ZIP 47374 sector", "Wayne County / primary ZIP 47374", "Wayne County / coords 39.8300, -84.8900"]
+zillowHomeValueUsd: 156779
 ---
 
 **Engineering Notice for Richmond:** Structural loading calculated based on 974 ft terrain assessment. Regional dispatch grid: Wayne County.

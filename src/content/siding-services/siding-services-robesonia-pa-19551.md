@@ -12,6 +12,7 @@ lng: -76.1400
 zipSample: ["19551"]
 zipCodes: ["19551"]
 localPaths: ["Berks County / elevation 436 ft band", "Berks County / primary ZIP 19551", "Berks County / ZIP 19551 sector", "Berks County / coords 40.3500, -76.1400"]
+zillowHomeValueUsd: 329218
 ---
 
 **Engineering Notice for Robesonia:** Envelope check: Exterior Envelope assigned to wind-load band A with stress factor 1.06. Regional dispatch grid: Berks County.

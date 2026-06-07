@@ -11,6 +11,7 @@ lng: -84.5300
 zipSample: ["48911", "48842"]
 zipCodes: ["48911", "48842"]
 localPaths: ["Ingham County / coords 42.6400, -84.5300", "Ingham County / elevation 896 ft band", "Ingham County / ZIP 48842 sector", "Ingham County / ZIP 48911 sector", "Ingham County / primary ZIP 48842"]
+zillowHomeValueUsd: 270400
 ---
 
 **Engineering Notice for Holt:** Structural loading calculated based on 896 ft terrain assessment. Regional dispatch grid: Ingham County.

@@ -12,6 +12,7 @@ lng: -76.7400
 zipSample: ["20772", "20613"]
 zipCodes: ["20613", "20772"]
 localPaths: ["Prince George's County / primary ZIP 20613", "Prince George's County / coords 38.6700, -76.7400", "Prince George's County / ZIP 20613 sector", "Prince George's County / ZIP 20772 sector", "Prince George's County / elevation 197 ft band"]
+zillowHomeValueUsd: 509174
 ---
 
 **Engineering Notice for Baden:** structural drying capacity optimized for 197ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Prince George's County. Relative Humidity Threshold: 77%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -96.5200
 zipSample: ["56510"]
 zipCodes: ["56510"]
 localPaths: ["Norman County / primary ZIP 56510", "Norman County / elevation 902 ft band", "Norman County / ZIP 56510 sector", "Norman County / coords 47.3000, -96.5200"]
+zillowHomeValueUsd: 165048
 ---
 
 **Engineering Notice for Ada:** System optimized for 128 mg/L hard water scaling factors in Ada. Regional dispatch grid: Norman County.

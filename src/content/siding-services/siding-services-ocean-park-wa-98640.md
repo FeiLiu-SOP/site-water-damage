@@ -12,6 +12,7 @@ lng: -124.0400
 zipSample: ["98640", "98637"]
 zipCodes: ["98637", "98640"]
 localPaths: ["Pacific County / ZIP 98640 sector", "Pacific County / ZIP 98637 sector", "Pacific County / elevation 59 ft band", "Pacific County / coords 46.5000, -124.0400", "Pacific County / primary ZIP 98640"]
+zillowHomeValueUsd: 343146
 ---
 
 **Engineering Notice for Ocean Park:** Envelope check: Exterior Envelope assigned to wind-load band A with stress factor 0.91. Regional dispatch grid: Pacific County.

@@ -12,6 +12,7 @@ lng: -95.1800
 zipSample: ["77357"]
 zipCodes: ["77357"]
 localPaths: ["Montgomery County / primary ZIP 77357", "Montgomery County / elevation 108 ft band", "Montgomery County / coords 30.1800, -95.1800", "Montgomery County / ZIP 77357 sector"]
+zillowHomeValueUsd: 263583
 ---
 
 **Engineering Notice for Woodbranch:** Facade Renewal was validated under stress factor 0.70; target tolerance set near 144 mph. Grid anchor: Montgomery County.

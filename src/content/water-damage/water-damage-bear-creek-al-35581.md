@@ -12,6 +12,7 @@ lng: -87.7200
 zipSample: ["35581", "35543"]
 zipCodes: ["35543", "35581"]
 localPaths: ["Marion County / coords 34.2700, -87.7200", "Marion County / elevation 856 ft band", "Marion County / ZIP 35543 sector", "Marion County / ZIP 35581 sector", "Marion County / primary ZIP 35581"]
+zillowHomeValueUsd: 180269
 ---
 
 **Engineering Notice for Bear Creek:** structural drying capacity optimized for 856ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marion County. Relative Humidity Threshold: 75%. Sensor sync: Active.

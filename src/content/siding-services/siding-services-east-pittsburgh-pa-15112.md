@@ -12,6 +12,7 @@ lng: -79.8400
 zipSample: ["15112"]
 zipCodes: ["15112"]
 localPaths: ["Allegheny County / elevation 889 ft band", "Allegheny County / primary ZIP 15112", "Allegheny County / coords 40.4000, -79.8400", "Allegheny County / ZIP 15112 sector"]
+zillowHomeValueUsd: 100003
 ---
 
 **Engineering Notice for East Pittsburgh:** Structural integrity verification: Surface Sheathing calibrated for 90 mph localized wind load factor. Elevation: 889 ft AMSL. Regional dispatch grid: Allegheny County.

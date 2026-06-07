@@ -12,6 +12,7 @@ lng: -89.5400
 zipSample: ["39482"]
 zipCodes: ["39482"]
 localPaths: ["Lamar County / elevation 305 ft band", "Lamar County / ZIP 39482 sector", "Lamar County / coords 31.4200, -89.5400", "Lamar County / primary ZIP 39482"]
+zillowHomeValueUsd: 259565
 ---
 
 **Engineering Notice for Sumrall:** Cladding verification uses 95 mph routing baseline; lateral pressure note: 12.6 psf. Elevation: 305 ft AMSL. Coordinates: 31.4200, -89.5400. Grid: Lamar County.

@@ -12,6 +12,7 @@ lng: -95.3800
 zipSample: ["64491"]
 zipCodes: ["64491"]
 localPaths: ["Atchison County / ZIP 64491 sector", "Atchison County / primary ZIP 64491", "Atchison County / elevation 1010 ft band", "Atchison County / coords 40.4400, -95.3800"]
+zillowHomeValueUsd: 125846
 ---
 
 **Engineering Notice for Tarkio:** System optimized for 160 mg/L hard water scaling factors in Tarkio. Regional dispatch grid: Atchison County.

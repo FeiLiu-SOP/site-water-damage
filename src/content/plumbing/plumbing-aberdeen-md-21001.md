@@ -12,6 +12,7 @@ lng: -76.1700
 zipSample: ["21001"]
 zipCodes: ["21001"]
 localPaths: ["Harford County / elevation 135 ft band", "Harford County / coords 39.5200, -76.1700", "Harford County / primary ZIP 21001", "Harford County / ZIP 21001 sector"]
+zillowHomeValueUsd: 345713
 ---
 
 **Engineering Notice for Aberdeen:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Harford County.

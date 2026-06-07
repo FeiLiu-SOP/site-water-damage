@@ -12,6 +12,7 @@ lng: -87.4600
 zipSample: ["46322"]
 zipCodes: ["46322"]
 localPaths: ["Lake County / coords 41.5500, -87.4600", "Lake County / elevation 627 ft band", "Lake County / primary ZIP 46322", "Lake County / ZIP 46322 sector"]
+zillowHomeValueUsd: 263947
 ---
 
 **Engineering Notice for Highland:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Lake County.

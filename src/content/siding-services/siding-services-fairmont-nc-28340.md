@@ -12,6 +12,7 @@ lng: -79.1100
 zipSample: ["28340"]
 zipCodes: ["28340"]
 localPaths: ["Robeson County / ZIP 28340 sector", "Robeson County / elevation 121 ft band", "Robeson County / coords 34.4900, -79.1100", "Robeson County / primary ZIP 28340"]
+zillowHomeValueUsd: 112031
 ---
 
 **Engineering Notice for Fairmont:** Structural integrity verification: Facade Renewal calibrated for 106 mph localized wind load factor. Elevation: 121 ft AMSL. Regional dispatch grid: Robeson County.

@@ -12,6 +12,7 @@ lng: -118.8800
 zipSample: ["91320", "91359", "91319", "91360", "91358"]
 zipCodes: ["91360", "91358", "91362", "91320", "91359", "91319", "91361"]
 localPaths: ["Ventura County / ZIP 91320 sector", "Ventura County / coords 34.1900, -118.8800", "Ventura County / ZIP 91360 sector", "Ventura County / ZIP 91359 sector", "Ventura County / ZIP 91358 sector"]
+zillowHomeValueUsd: 1025311
 ---
 
 **Engineering Notice for Thousand Oaks:** Structural loading calculated based on 820 ft terrain assessment. Regional dispatch grid: Ventura County.

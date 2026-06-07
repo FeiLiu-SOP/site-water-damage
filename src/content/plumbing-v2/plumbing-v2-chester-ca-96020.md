@@ -12,6 +12,7 @@ lng: -121.2300
 zipSample: ["96020"]
 zipCodes: ["96020"]
 localPaths: ["Plumas County / primary ZIP 96020", "Plumas County / coords 40.3000, -121.2300", "Plumas County / ZIP 96020 sector", "Plumas County / elevation 4537 ft band"]
+zillowHomeValueUsd: 345398
 ---
 
 **Engineering Notice for Chester:** System optimized for 123 mg/L hard water scaling factors in Chester. Regional dispatch grid: Plumas County.

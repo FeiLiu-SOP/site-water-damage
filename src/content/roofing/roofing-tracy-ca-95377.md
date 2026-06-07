@@ -11,6 +11,7 @@ lng: -121.4500
 zipSample: ["95377", "95304", "95376"]
 zipCodes: ["95376", "95304", "95377"]
 localPaths: ["San Joaquin County / elevation 59 ft band", "San Joaquin County / ZIP 95377 sector", "San Joaquin County / primary ZIP 95377", "San Joaquin County / ZIP 95376 sector", "San Joaquin County / coords 37.7300, -121.4500"]
+zillowHomeValueUsd: 774400
 ---
 
 **Engineering Notice for Tracy:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: San Joaquin County.

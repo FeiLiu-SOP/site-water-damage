@@ -12,6 +12,7 @@ lng: -93.5700
 zipSample: ["55356"]
 zipCodes: ["55356"]
 localPaths: ["Hennepin County / ZIP 55356 sector", "Hennepin County / elevation 961 ft band", "Hennepin County / primary ZIP 55356", "Hennepin County / coords 44.9800, -93.5700"]
+zillowHomeValueUsd: 795592
 ---
 
 **Engineering Notice for Long Lake:** Site context locked to Hennepin County. Elevation: 961 ft AMSL. Surface Sheathing integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -158.0800
 zipSample: ["96707"]
 zipCodes: ["96707"]
 localPaths: ["Honolulu County / elevation 705 ft band", "Honolulu County / coords 21.3600, -158.0800", "Honolulu County / primary ZIP 96707", "Honolulu County / ZIP 96707 sector"]
+zillowHomeValueUsd: 860459
 ---
 
 **Engineering Notice for Makakilo:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: Honolulu County.

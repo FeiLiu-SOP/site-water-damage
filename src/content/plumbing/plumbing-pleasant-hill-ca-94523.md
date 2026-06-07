@@ -12,6 +12,7 @@ lng: -122.0800
 zipSample: ["94523"]
 zipCodes: ["94523"]
 localPaths: ["Contra Costa County / ZIP 94523 sector", "Contra Costa County / primary ZIP 94523", "Contra Costa County / coords 37.9500, -122.0800", "Contra Costa County / elevation 59 ft band"]
+zillowHomeValueUsd: 996108
 ---
 
 **Engineering Notice for Pleasant Hill:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Contra Costa County.

@@ -12,6 +12,7 @@ lng: -96.8300
 zipSample: ["76664"]
 zipCodes: ["76664"]
 localPaths: ["McLennan County / ZIP 76664 sector", "McLennan County / coords 31.5400, -96.8300", "McLennan County / primary ZIP 76664", "McLennan County / elevation 541 ft band"]
+zillowHomeValueUsd: 155454
 ---
 
 **Engineering Notice for Mart:** Envelope check: Exterior Cladding assigned to wind-load band B with stress factor 1.09. Elevation: 541 ft AMSL. Regional dispatch grid: McLennan County.

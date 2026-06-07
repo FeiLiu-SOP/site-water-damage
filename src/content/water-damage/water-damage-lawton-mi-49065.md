@@ -12,6 +12,7 @@ lng: -85.8500
 zipSample: ["49065"]
 zipCodes: ["49065"]
 localPaths: ["Van Buren County / primary ZIP 49065", "Van Buren County / elevation 804 ft band", "Van Buren County / coords 42.1700, -85.8500", "Van Buren County / ZIP 49065 sector"]
+zillowHomeValueUsd: 280594
 ---
 
 **Engineering Notice for Lawton:** structural drying capacity optimized for 804ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Van Buren County. Relative Humidity Threshold: 70%. Sensor sync: Active.

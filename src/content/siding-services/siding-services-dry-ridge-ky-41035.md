@@ -12,6 +12,7 @@ lng: -84.6000
 zipSample: ["41035"]
 zipCodes: ["41035"]
 localPaths: ["Grant County / elevation 958 ft band", "Grant County / coords 38.6800, -84.6000", "Grant County / ZIP 41035 sector", "Grant County / primary ZIP 41035"]
+zillowHomeValueUsd: 290665
 ---
 
 **Engineering Notice for Dry Ridge:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 1.11. Regional dispatch grid: Grant County.

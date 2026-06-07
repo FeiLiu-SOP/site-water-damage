@@ -12,6 +12,7 @@ lng: -118.0600
 zipSample: ["99141"]
 zipCodes: ["99141"]
 localPaths: ["Stevens County / coords 48.6100, -118.0600", "Stevens County / ZIP 99141 sector", "Stevens County / primary ZIP 99141", "Stevens County / elevation 1617 ft band"]
+zillowHomeValueUsd: 331485
 ---
 
 **Engineering Notice for Kettle Falls:** Cladding Retrofit was validated under stress factor 1.19; target tolerance set near 104 mph. Coordinates: 48.6100, -118.0600. Grid anchor: Stevens County.

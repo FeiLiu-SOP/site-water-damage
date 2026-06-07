@@ -12,6 +12,7 @@ lng: -84.4300
 zipSample: ["49249"]
 zipCodes: ["49249"]
 localPaths: ["Hillsdale County / coords 42.0600, -84.4300", "Hillsdale County / primary ZIP 49249", "Hillsdale County / elevation 1050 ft band", "Hillsdale County / ZIP 49249 sector"]
+zillowHomeValueUsd: 291838
 ---
 
 **Engineering Notice for Lake LeAnn:** System optimized for 135 mg/L hard water scaling factors in Lake LeAnn. Regional dispatch grid: Hillsdale County.

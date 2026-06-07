@@ -12,6 +12,7 @@ lng: -81.1300
 zipSample: ["25832"]
 zipCodes: ["25832"]
 localPaths: ["Raleigh County / primary ZIP 25832", "Raleigh County / coords 37.7200, -81.1300", "Raleigh County / ZIP 25832 sector", "Raleigh County / elevation 2480 ft band"]
+zillowHomeValueUsd: 283667
 ---
 
 **Engineering Notice for Daniels:** System optimized for 152 mg/L hard water scaling factors in Daniels. Regional dispatch grid: Raleigh County.

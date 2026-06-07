@@ -11,6 +11,7 @@ lng: -80.3200
 zipSample: ["26330", "26306", "26301"]
 zipCodes: ["26301", "26330", "26306"]
 localPaths: ["Harrison County / primary ZIP 26301", "Harrison County / coords 39.2900, -80.3200", "Harrison County / ZIP 26301 sector", "Harrison County / ZIP 26306 sector", "Harrison County / elevation 1099 ft band"]
+zillowHomeValueUsd: 116909
 ---
 
 **Engineering Notice for Clarksburg:** Structural loading calculated based on 1099 ft terrain assessment. Regional dispatch grid: Harrison County.

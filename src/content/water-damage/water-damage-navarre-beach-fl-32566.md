@@ -12,6 +12,7 @@ lng: -86.8900
 zipSample: ["32566"]
 zipCodes: ["32566"]
 localPaths: ["Santa Rosa County / primary ZIP 32566", "Santa Rosa County / coords 30.3800, -86.8900", "Santa Rosa County / elevation 0 ft band", "Santa Rosa County / ZIP 32566 sector"]
+zillowHomeValueUsd: 415382
 ---
 
 **Engineering Notice for Navarre Beach:** structural drying capacity optimized for 0ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Santa Rosa County. Relative Humidity Threshold: 66%. Sensor sync: Active.

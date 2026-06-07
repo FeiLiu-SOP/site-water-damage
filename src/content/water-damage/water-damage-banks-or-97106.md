@@ -12,6 +12,7 @@ lng: -123.1100
 zipSample: ["97106"]
 zipCodes: ["97106"]
 localPaths: ["Washington County / ZIP 97106 sector", "Washington County / elevation 210 ft band", "Washington County / primary ZIP 97106", "Washington County / coords 45.6200, -123.1100"]
+zillowHomeValueUsd: 633527
 ---
 
 **Engineering Notice for Banks:** structural drying capacity optimized for 210ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 76%. Sensor sync: Active.

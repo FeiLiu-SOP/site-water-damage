@@ -12,6 +12,7 @@ lng: -76.0800
 zipSample: ["17517"]
 zipCodes: ["17517"]
 localPaths: ["Lancaster County / primary ZIP 17517", "Lancaster County / ZIP 17517 sector", "Lancaster County / elevation 528 ft band", "Lancaster County / coords 40.2300, -76.0800"]
+zillowHomeValueUsd: 386368
 ---
 
 **Engineering Notice for Swartzville:** System optimized for 178 mg/L hard water scaling factors in Swartzville. Regional dispatch grid: Lancaster County.

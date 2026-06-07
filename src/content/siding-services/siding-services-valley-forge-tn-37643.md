@@ -12,6 +12,7 @@ lng: -82.1900
 zipSample: ["37643"]
 zipCodes: ["37643"]
 localPaths: ["Carter County / primary ZIP 37643", "Carter County / elevation 1677 ft band", "Carter County / coords 36.3000, -82.1900", "Carter County / ZIP 37643 sector"]
+zillowHomeValueUsd: 230356
 ---
 
 **Engineering Notice for Valley Forge:** Envelope check: Vinyl Panels assigned to wind-load band A with stress factor 1.12. Elevation: 1677 ft AMSL. Regional dispatch grid: Carter County.

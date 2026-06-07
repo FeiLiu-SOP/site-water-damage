@@ -12,6 +12,7 @@ lng: -85.2900
 zipSample: ["36376"]
 zipCodes: ["36376"]
 localPaths: ["Houston County / elevation 292 ft band", "Houston County / coords 31.2600, -85.2900", "Houston County / primary ZIP 36376", "Houston County / ZIP 36376 sector"]
+zillowHomeValueUsd: 162166
 ---
 
 **Engineering Notice for Webb:** structural drying capacity optimized for 292ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Houston County. Relative Humidity Threshold: 83%. Sensor sync: Active.

@@ -11,6 +11,7 @@ lng: -97.9100
 zipSample: ["67501", "67502"]
 zipCodes: ["67502", "67501"]
 localPaths: ["Reno County / elevation 1552 ft band", "Reno County / ZIP 67502 sector", "Reno County / primary ZIP 67502", "Reno County / ZIP 67501 sector", "Reno County / coords 38.0700, -97.9100"]
+zillowHomeValueUsd: 212264
 ---
 
 **Engineering Notice for Hutchinson:** Structural loading calculated based on 1552 ft terrain assessment. Regional dispatch grid: Reno County.

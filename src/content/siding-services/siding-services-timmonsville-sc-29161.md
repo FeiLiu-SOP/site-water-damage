@@ -12,6 +12,7 @@ lng: -79.9400
 zipSample: ["29161"]
 zipCodes: ["29161"]
 localPaths: ["Florence County / coords 34.1300, -79.9400", "Florence County / primary ZIP 29161", "Florence County / ZIP 29161 sector", "Florence County / elevation 164 ft band"]
+zillowHomeValueUsd: 177014
 ---
 
 **Engineering Notice for Timmonsville:** Weather Barrier Wrap was validated under stress factor 0.86; target tolerance set near 92 mph. Grid anchor: Florence County.

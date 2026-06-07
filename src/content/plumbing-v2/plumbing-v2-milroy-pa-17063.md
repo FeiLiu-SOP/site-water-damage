@@ -12,6 +12,7 @@ lng: -77.5900
 zipSample: ["17063"]
 zipCodes: ["17063"]
 localPaths: ["Mifflin County / coords 40.7200, -77.5900", "Mifflin County / ZIP 17063 sector", "Mifflin County / primary ZIP 17063", "Mifflin County / elevation 801 ft band"]
+zillowHomeValueUsd: 192365
 ---
 
 **Engineering Notice for Milroy:** System optimized for 167 mg/L hard water scaling factors in Milroy. Regional dispatch grid: Mifflin County.

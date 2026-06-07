@@ -12,6 +12,7 @@ lng: -101.6300
 zipSample: ["58545"]
 zipCodes: ["58545"]
 localPaths: ["Mercer County / primary ZIP 58545", "Mercer County / coords 47.3000, -101.6300", "Mercer County / ZIP 58545 sector", "Mercer County / elevation 1742 ft band"]
+zillowHomeValueUsd: 242316
 ---
 
 **Engineering Notice for Hazen:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Elevation: 1742 ft AMSL. Coordinates: 47.3000, -101.6300. Grid: Mercer County.

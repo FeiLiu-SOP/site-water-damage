@@ -12,6 +12,7 @@ lng: -100.3800
 zipSample: ["79014"]
 zipCodes: ["79014"]
 localPaths: ["Hemphill County / coords 35.9100, -100.3800", "Hemphill County / primary ZIP 79014", "Hemphill County / ZIP 79014 sector", "Hemphill County / elevation 2448 ft band"]
+zillowHomeValueUsd: 170825
 ---
 
 **Engineering Notice for Canadian:** Structural integrity verification: Cladding Retrofit calibrated for 150 mph localized wind load factor. Regional dispatch grid: Hemphill County.

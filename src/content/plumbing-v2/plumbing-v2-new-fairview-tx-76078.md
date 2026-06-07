@@ -12,6 +12,7 @@ lng: -97.4500
 zipSample: ["76078", "76247"]
 zipCodes: ["76078", "76247"]
 localPaths: ["Wise County / elevation 909 ft band", "Wise County / coords 33.1100, -97.4500", "Wise County / ZIP 76078 sector", "Wise County / ZIP 76247 sector", "Wise County / primary ZIP 76078"]
+zillowHomeValueUsd: 367210
 ---
 
 **Engineering Notice for New Fairview:** System optimized for 138 mg/L hard water scaling factors in New Fairview. Regional dispatch grid: Wise County.

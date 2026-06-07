@@ -12,6 +12,7 @@ lng: -81.8300
 zipSample: ["25202", "25003"]
 zipCodes: ["25003", "25202"]
 localPaths: ["Lincoln County / coords 38.2900, -81.8300", "Lincoln County / primary ZIP 25202", "Lincoln County / elevation 781 ft band", "Lincoln County / ZIP 25003 sector", "Lincoln County / ZIP 25202 sector"]
+zillowHomeValueUsd: 148119
 ---
 
 **Engineering Notice for Alum Creek:** System optimized for 152 mg/L hard water scaling factors in Alum Creek. Regional dispatch grid: Lincoln County.

@@ -12,6 +12,7 @@ lng: -95.3700
 zipSample: ["75862"]
 zipCodes: ["75862"]
 localPaths: ["Trinity County / elevation 240 ft band", "Trinity County / primary ZIP 75862", "Trinity County / ZIP 75862 sector", "Trinity County / coords 30.9400, -95.3700"]
+zillowHomeValueUsd: 166380
 ---
 
 **Engineering Notice for Trinity:** Cladding verification uses 130 mph routing baseline; lateral pressure note: 16.8 psf. Elevation: 240 ft AMSL. Coordinates: 30.9400, -95.3700. Grid: Trinity County.

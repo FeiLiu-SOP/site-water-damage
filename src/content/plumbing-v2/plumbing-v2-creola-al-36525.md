@@ -12,6 +12,7 @@ lng: -88.0100
 zipSample: ["36525"]
 zipCodes: ["36525"]
 localPaths: ["Mobile County / ZIP 36525 sector", "Mobile County / primary ZIP 36525", "Mobile County / coords 30.8900, -88.0100", "Mobile County / elevation 30 ft band"]
+zillowHomeValueUsd: 213554
 ---
 
 **Engineering Notice for Creola:** System optimized for 170 mg/L hard water scaling factors in Creola. Regional dispatch grid: Mobile County.

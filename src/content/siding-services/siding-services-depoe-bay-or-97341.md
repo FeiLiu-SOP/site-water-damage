@@ -12,6 +12,7 @@ lng: -124.0600
 zipSample: ["97341"]
 zipCodes: ["97341"]
 localPaths: ["Lincoln County / coords 44.8100, -124.0600", "Lincoln County / ZIP 97341 sector", "Lincoln County / primary ZIP 97341", "Lincoln County / elevation 3 ft band"]
+zillowHomeValueUsd: 544630
 ---
 
 **Engineering Notice for Depoe Bay:** Site context locked to Lincoln County. Surface Sheathing integrity verification recorded.

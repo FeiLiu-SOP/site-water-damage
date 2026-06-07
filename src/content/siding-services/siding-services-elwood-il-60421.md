@@ -12,6 +12,7 @@ lng: -88.1300
 zipSample: ["60421"]
 zipCodes: ["60421"]
 localPaths: ["Will County / ZIP 60421 sector", "Will County / primary ZIP 60421", "Will County / elevation 610 ft band", "Will County / coords 41.4100, -88.1300"]
+zillowHomeValueUsd: 311145
 ---
 
 **Engineering Notice for Elwood:** Weather Barrier Wrap was validated under stress factor 0.72; target tolerance set near 92 mph. Coordinates: 41.4100, -88.1300. Grid anchor: Will County.

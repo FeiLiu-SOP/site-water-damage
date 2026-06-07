@@ -11,6 +11,7 @@ lng: -80.9700
 zipSample: ["32170", "32168", "32169"]
 zipCodes: ["32170", "32169", "32168"]
 localPaths: ["Volusia County / ZIP 32169 sector", "Volusia County / primary ZIP 32169", "Volusia County / ZIP 32168 sector", "Volusia County / ZIP 32170 sector", "Volusia County / elevation 36 ft band"]
+zillowHomeValueUsd: 544125
 ---
 
 **Engineering Notice for New Smyrna Beach:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Volusia County.

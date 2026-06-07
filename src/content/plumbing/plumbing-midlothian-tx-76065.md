@@ -12,6 +12,7 @@ lng: -96.9900
 zipSample: ["76065"]
 zipCodes: ["76065"]
 localPaths: ["Ellis County / coords 32.4700, -96.9900", "Ellis County / ZIP 76065 sector", "Ellis County / elevation 787 ft band", "Ellis County / primary ZIP 76065"]
+zillowHomeValueUsd: 455514
 ---
 
 **Engineering Notice for Midlothian:** Structural loading calculated based on 787 ft terrain assessment. Regional dispatch grid: Ellis County.

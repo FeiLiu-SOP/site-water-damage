@@ -11,6 +11,7 @@ lng: -74.0300
 zipSample: ["07030"]
 zipCodes: ["07030"]
 localPaths: ["Hudson County / elevation 43 ft band", "Hudson County / ZIP 07030 sector", "Hudson County / coords 40.7500, -74.0300", "Hudson County / primary ZIP 07030"]
+zillowHomeValueUsd: 854766
 ---
 
 **Engineering Notice for Hoboken:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Hudson County.

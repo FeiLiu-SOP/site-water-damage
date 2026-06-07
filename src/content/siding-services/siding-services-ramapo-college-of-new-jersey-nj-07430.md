@@ -12,6 +12,7 @@ lng: -74.1700
 zipSample: ["07430"]
 zipCodes: ["07430"]
 localPaths: ["Bergen County / coords 41.0800, -74.1700", "Bergen County / elevation 335 ft band", "Bergen County / ZIP 07430 sector", "Bergen County / primary ZIP 07430"]
+zillowHomeValueUsd: 713177
 ---
 
 **Engineering Notice for Ramapo College of New Jersey:** Structural integrity verification: Facade Renewal calibrated for 91 mph localized wind load factor. Elevation: 335 ft AMSL. Coordinates: 41.0800, -74.1700. Regional dispatch grid: Bergen County.

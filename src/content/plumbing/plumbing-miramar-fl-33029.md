@@ -12,6 +12,7 @@ lng: -80.3400
 zipSample: ["33023", "33029", "33025", "33027"]
 zipCodes: ["33027", "33029", "33023", "33025"]
 localPaths: ["Broward County / primary ZIP 33029", "Broward County / elevation 16 ft band", "Broward County / ZIP 33029 sector", "Broward County / ZIP 33023 sector", "Broward County / coords 25.9800, -80.3400"]
+zillowHomeValueUsd: 708675
 ---
 
 **Engineering Notice for Miramar:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Broward County.

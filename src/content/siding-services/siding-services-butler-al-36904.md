@@ -12,6 +12,7 @@ lng: -88.2100
 zipSample: ["36904"]
 zipCodes: ["36904"]
 localPaths: ["Choctaw County / primary ZIP 36904", "Choctaw County / coords 32.1000, -88.2100", "Choctaw County / ZIP 36904 sector", "Choctaw County / elevation 161 ft band"]
+zillowHomeValueUsd: 137391
 ---
 
 **Engineering Notice for Butler:** Structural integrity verification: Exterior Cladding calibrated for 93 mph localized wind load factor. Elevation: 161 ft AMSL. Coordinates: 32.1000, -88.2100. Regional dispatch grid: Choctaw County.

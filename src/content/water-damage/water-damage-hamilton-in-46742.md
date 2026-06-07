@@ -12,6 +12,7 @@ lng: -84.9200
 zipSample: ["46742"]
 zipCodes: ["46742"]
 localPaths: ["Steuben County / coords 41.5400, -84.9200", "Steuben County / elevation 925 ft band", "Steuben County / ZIP 46742 sector", "Steuben County / primary ZIP 46742"]
+zillowHomeValueUsd: 357834
 ---
 
 **Engineering Notice for Hamilton:** structural drying capacity optimized for 925ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Steuben County. Relative Humidity Threshold: 80%. Sensor sync: Active.

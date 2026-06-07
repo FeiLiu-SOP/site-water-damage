@@ -12,6 +12,7 @@ lng: -89.0500
 zipSample: ["62884"]
 zipCodes: ["62884"]
 localPaths: ["Franklin County / primary ZIP 62884", "Franklin County / ZIP 62884 sector", "Franklin County / elevation 482 ft band", "Franklin County / coords 38.0900, -89.0500"]
+zillowHomeValueUsd: 98479
 ---
 
 **Engineering Notice for Sesser:** System optimized for 153 mg/L hard water scaling factors in Sesser. Regional dispatch grid: Franklin County.

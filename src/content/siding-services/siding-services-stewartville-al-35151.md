@@ -12,6 +12,7 @@ lng: -86.2700
 zipSample: ["35183", "35151"]
 zipCodes: ["35151", "35183"]
 localPaths: ["Coosa County / ZIP 35151 sector", "Coosa County / coords 33.0700, -86.2700", "Coosa County / elevation 676 ft band", "Coosa County / primary ZIP 35151", "Coosa County / ZIP 35183 sector"]
+zillowHomeValueUsd: 201143
 ---
 
 **Engineering Notice for Stewartville:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Grid: Coosa County.

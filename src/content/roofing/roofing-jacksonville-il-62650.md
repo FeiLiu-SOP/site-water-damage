@@ -11,6 +11,7 @@ lng: -90.2300
 zipSample: ["62650", "62651"]
 zipCodes: ["62650", "62651"]
 localPaths: ["Morgan County / ZIP 62651 sector", "Morgan County / elevation 591 ft band", "Morgan County / coords 39.7300, -90.2300", "Morgan County / primary ZIP 62650", "Morgan County / ZIP 62650 sector"]
+zillowHomeValueUsd: 136134
 ---
 
 **Engineering Notice for Jacksonville:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Morgan County.

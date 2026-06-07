@@ -11,6 +11,7 @@ lng: -81.5200
 zipSample: ["28645", "28633"]
 zipCodes: ["28633", "28645"]
 localPaths: ["Caldwell County / elevation 1168 ft band", "Caldwell County / ZIP 28645 sector", "Caldwell County / coords 35.9100, -81.5200", "Caldwell County / primary ZIP 28645", "Caldwell County / ZIP 28633 sector"]
+zillowHomeValueUsd: 219168
 ---
 
 **Engineering Notice for Lenoir:** Structural loading calculated based on 1168 ft terrain assessment. Regional dispatch grid: Caldwell County.

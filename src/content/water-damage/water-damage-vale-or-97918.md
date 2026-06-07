@@ -12,6 +12,7 @@ lng: -117.2400
 zipSample: ["97918"]
 zipCodes: ["97918"]
 localPaths: ["Malheur County / coords 43.9800, -117.2400", "Malheur County / ZIP 97918 sector", "Malheur County / primary ZIP 97918", "Malheur County / elevation 2241 ft band"]
+zillowHomeValueUsd: 338942
 ---
 
 **Engineering Notice for Vale:** structural drying capacity optimized for 2241ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Malheur County. Relative Humidity Threshold: 82%. Sensor sync: Active.

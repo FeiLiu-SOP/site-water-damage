@@ -11,6 +11,7 @@ lng: -82.5500
 zipSample: ["37662", "37663", "37665", "37669", "37660"]
 zipCodes: ["37663", "37665", "37669", "37662", "37664", "37660"]
 localPaths: ["Sullivan County / elevation 1201 ft band", "Sullivan County / ZIP 37663 sector", "Sullivan County / ZIP 37660 sector", "Sullivan County / ZIP 37662 sector", "Sullivan County / primary ZIP 37665"]
+zillowHomeValueUsd: 167110
 ---
 
 **Engineering Notice for Kingsport:** Structural loading calculated based on 1201 ft terrain assessment. Regional dispatch grid: Sullivan County.

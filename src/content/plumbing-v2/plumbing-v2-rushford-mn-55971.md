@@ -12,6 +12,7 @@ lng: -91.7500
 zipSample: ["55971"]
 zipCodes: ["55971"]
 localPaths: ["Fillmore County / primary ZIP 55971", "Fillmore County / coords 43.8100, -91.7500", "Fillmore County / ZIP 55971 sector", "Fillmore County / elevation 735 ft band"]
+zillowHomeValueUsd: 272231
 ---
 
 **Engineering Notice for Rushford:** System optimized for 179 mg/L hard water scaling factors in Rushford. Regional dispatch grid: Fillmore County.

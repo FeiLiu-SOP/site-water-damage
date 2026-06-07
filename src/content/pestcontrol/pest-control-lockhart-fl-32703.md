@@ -11,6 +11,7 @@ lng: -81.4400
 zipSample: ["32860", "32810", "32703"]
 zipCodes: ["32703", "32810", "32860"]
 localPaths: ["Orange County / ZIP 32860 sector", "Orange County / primary ZIP 32703", "Orange County / coords 28.6300, -81.4400", "Orange County / ZIP 32810 sector", "Orange County / ZIP 32703 sector"]
+zillowHomeValueUsd: 357334
 ---
 
 **Engineering Notice for Lockhart:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Orange County.

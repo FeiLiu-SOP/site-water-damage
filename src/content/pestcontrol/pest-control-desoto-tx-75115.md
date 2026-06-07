@@ -11,6 +11,7 @@ lng: -96.8600
 zipSample: ["75115", "75123"]
 zipCodes: ["75115", "75123"]
 localPaths: ["Dallas County / ZIP 75123 sector", "Dallas County / elevation 633 ft band", "Dallas County / coords 32.6000, -96.8600", "Dallas County / ZIP 75115 sector", "Dallas County / primary ZIP 75115"]
+zillowHomeValueUsd: 326354
 ---
 
 **Engineering Notice for DeSoto:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Dallas County.

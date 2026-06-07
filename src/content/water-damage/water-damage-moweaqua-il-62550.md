@@ -12,6 +12,7 @@ lng: -89.0200
 zipSample: ["62550"]
 zipCodes: ["62550"]
 localPaths: ["Shelby County / coords 39.6300, -89.0200", "Shelby County / ZIP 62550 sector", "Shelby County / elevation 640 ft band", "Shelby County / primary ZIP 62550"]
+zillowHomeValueUsd: 165790
 ---
 
 **Engineering Notice for Moweaqua:** structural drying capacity optimized for 640ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Shelby County. Relative Humidity Threshold: 74%. Sensor sync: Active.

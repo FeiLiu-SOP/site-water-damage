@@ -12,6 +12,7 @@ lng: -79.1600
 zipSample: ["15748"]
 zipCodes: ["15748"]
 localPaths: ["Indiana County / elevation 1053 ft band", "Indiana County / coords 40.5400, -79.1600", "Indiana County / primary ZIP 15748", "Indiana County / ZIP 15748 sector"]
+zillowHomeValueUsd: 143278
 ---
 
 **Engineering Notice for Homer City:** structural drying capacity optimized for 1053ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Indiana County. Relative Humidity Threshold: 76%. Sensor sync: Active.

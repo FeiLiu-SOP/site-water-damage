@@ -12,6 +12,7 @@ lng: -88.1600
 zipSample: ["53046"]
 zipCodes: ["53046"]
 localPaths: ["Waukesha County / elevation 883 ft band", "Waukesha County / ZIP 53046 sector", "Waukesha County / coords 43.1500, -88.1600", "Waukesha County / primary ZIP 53046"]
+zillowHomeValueUsd: 506686
 ---
 
 **Engineering Notice for Lannon:** System optimized for 150 mg/L hard water scaling factors in Lannon. Regional dispatch grid: Waukesha County.

@@ -12,6 +12,7 @@ lng: -90.5100
 zipSample: ["63021", "63011"]
 zipCodes: ["63021", "63011"]
 localPaths: ["St. Louis County / ZIP 63011 sector", "St. Louis County / coords 38.5800, -90.5100", "St. Louis County / primary ZIP 63021", "St. Louis County / ZIP 63021 sector", "St. Louis County / elevation 600 ft band"]
+zillowHomeValueUsd: 386333
 ---
 
 **Engineering Notice for Manchester:** Structural loading calculated based on 600 ft terrain assessment. Regional dispatch grid: St. Louis County.

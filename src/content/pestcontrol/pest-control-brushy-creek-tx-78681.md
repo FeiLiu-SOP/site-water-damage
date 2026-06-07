@@ -11,6 +11,7 @@ lng: -97.7400
 zipSample: ["78681", "78717"]
 zipCodes: ["78681", "78717"]
 localPaths: ["Williamson County / primary ZIP 78681", "Williamson County / coords 30.5100, -97.7400", "Williamson County / ZIP 78681 sector", "Williamson County / ZIP 78717 sector", "Williamson County / elevation 856 ft band"]
+zillowHomeValueUsd: 486130
 ---
 
 **Engineering Notice for Brushy Creek:** Structural loading calculated based on 856 ft terrain assessment. Regional dispatch grid: Williamson County.

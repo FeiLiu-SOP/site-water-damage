@@ -11,6 +11,7 @@ lng: -84.6800
 zipSample: ["30127"]
 zipCodes: ["30127"]
 localPaths: ["Cobb County / elevation 938 ft band", "Cobb County / ZIP 30127 sector", "Cobb County / coords 33.8700, -84.6800", "Cobb County / primary ZIP 30127"]
+zillowHomeValueUsd: 364150
 ---
 
 **Engineering Notice for Powder Springs:** Structural loading calculated based on 938 ft terrain assessment. Regional dispatch grid: Cobb County.

@@ -12,6 +12,7 @@ lng: -121.9300
 zipSample: ["97627", "97601"]
 zipCodes: ["97601", "97627"]
 localPaths: ["Klamath County / ZIP 97601 sector", "Klamath County / coords 42.1300, -121.9300", "Klamath County / primary ZIP 97601", "Klamath County / ZIP 97627 sector", "Klamath County / elevation 4111 ft band"]
+zillowHomeValueUsd: 273534
 ---
 
 **Engineering Notice for Keno:** System optimized for 175 mg/L hard water scaling factors in Keno. Regional dispatch grid: Klamath County.

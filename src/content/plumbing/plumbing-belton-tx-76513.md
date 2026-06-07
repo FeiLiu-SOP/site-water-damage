@@ -12,6 +12,7 @@ lng: -97.4800
 zipSample: ["76513"]
 zipCodes: ["76513"]
 localPaths: ["Bell County / elevation 620 ft band", "Bell County / primary ZIP 76513", "Bell County / ZIP 76513 sector", "Bell County / coords 31.0500, -97.4800"]
+zillowHomeValueUsd: 306347
 ---
 
 **Engineering Notice for Belton:** Structural loading calculated based on 620 ft terrain assessment. Regional dispatch grid: Bell County.

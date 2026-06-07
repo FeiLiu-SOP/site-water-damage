@@ -12,6 +12,7 @@ lng: -94.9400
 zipSample: ["66090"]
 zipCodes: ["66090"]
 localPaths: ["Doniphan County / coords 39.7600, -94.9400", "Doniphan County / primary ZIP 66090", "Doniphan County / ZIP 66090 sector", "Doniphan County / elevation 827 ft band"]
+zillowHomeValueUsd: 183994
 ---
 
 **Engineering Notice for Wathena:** Structural integrity verification: Panel Replacement calibrated for 109 mph localized wind load factor. Coordinates: 39.7600, -94.9400. Regional dispatch grid: Doniphan County.

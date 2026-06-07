@@ -12,6 +12,7 @@ lng: -75.6700
 zipSample: ["18411"]
 zipCodes: ["18411"]
 localPaths: ["Lackawanna County / primary ZIP 18411", "Lackawanna County / ZIP 18411 sector", "Lackawanna County / coords 41.4800, -75.6700", "Lackawanna County / elevation 1339 ft band"]
+zillowHomeValueUsd: 324543
 ---
 
 **Engineering Notice for Chinchilla:** structural drying capacity optimized for 1339ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lackawanna County. Relative Humidity Threshold: 83%. Sensor sync: Active.

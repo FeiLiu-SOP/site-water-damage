@@ -12,6 +12,7 @@ lng: -93.7900
 zipSample: ["55322"]
 zipCodes: ["55322"]
 localPaths: ["Carver County / elevation 938 ft band", "Carver County / ZIP 55322 sector", "Carver County / primary ZIP 55322", "Carver County / coords 44.7700, -93.7900"]
+zillowHomeValueUsd: 448846
 ---
 
 **Engineering Notice for Cologne:** System optimized for 123 mg/L hard water scaling factors in Cologne. Regional dispatch grid: Carver County.

@@ -12,6 +12,7 @@ lng: -91.8100
 zipSample: ["70517"]
 zipCodes: ["70517"]
 localPaths: ["St. Martin Parish / coords 30.3200, -91.8100", "St. Martin Parish / elevation 23 ft band", "St. Martin Parish / primary ZIP 70517", "St. Martin Parish / ZIP 70517 sector"]
+zillowHomeValueUsd: 176302
 ---
 
 **Engineering Notice for Henderson:** System optimized for 172 mg/L hard water scaling factors in Henderson. Regional dispatch grid: St. Martin Parish.

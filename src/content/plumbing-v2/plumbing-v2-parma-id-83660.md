@@ -12,6 +12,7 @@ lng: -116.9400
 zipSample: ["83660"]
 zipCodes: ["83660"]
 localPaths: ["Canyon County / primary ZIP 83660", "Canyon County / coords 43.7900, -116.9400", "Canyon County / ZIP 83660 sector", "Canyon County / elevation 2241 ft band"]
+zillowHomeValueUsd: 508393
 ---
 
 **Engineering Notice for Parma:** System optimized for 142 mg/L hard water scaling factors in Parma. Regional dispatch grid: Canyon County.

@@ -12,6 +12,7 @@ lng: -84.5600
 zipSample: ["49283"]
 zipCodes: ["49283"]
 localPaths: ["Jackson County / ZIP 49283 sector", "Jackson County / coords 42.2100, -84.5600", "Jackson County / elevation 1007 ft band", "Jackson County / primary ZIP 49283"]
+zillowHomeValueUsd: 283267
 ---
 
 **Engineering Notice for Spring Arbor:** Envelope check: Weather Barrier Wrap assigned to wind-load band C with stress factor 0.95. Elevation: 1007 ft AMSL. Regional dispatch grid: Jackson County.

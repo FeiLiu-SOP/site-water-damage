@@ -12,6 +12,7 @@ lng: -99.0400
 zipSample: ["78010"]
 zipCodes: ["78010"]
 localPaths: ["Kerr County / elevation 1512 ft band", "Kerr County / ZIP 78010 sector", "Kerr County / coords 29.9400, -99.0400", "Kerr County / primary ZIP 78010"]
+zillowHomeValueUsd: 418916
 ---
 
 **Engineering Notice for Center Point:** System optimized for 151 mg/L hard water scaling factors in Center Point. Regional dispatch grid: Kerr County.

@@ -11,6 +11,7 @@ lng: -122.4500
 zipSample: ["98408", "98419", "98490", "98416", "98405"]
 zipCodes: ["98403", "98411", "98413", "98466", "98422", "98401", "98416", "98405", "98404", "98409", "98408", "98419"]
 localPaths: ["Pierce County / primary ZIP 98422", "Pierce County / ZIP 98405 sector", "Pierce County / coords 47.2400, -122.4500", "Pierce County / ZIP 98416 sector", "Pierce County / ZIP 98490 sector"]
+zillowHomeValueUsd: 676454
 ---
 
 **Engineering Notice for Tacoma:** Structural loading calculated based on 358 ft terrain assessment. Regional dispatch grid: Pierce County.

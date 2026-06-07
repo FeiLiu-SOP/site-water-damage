@@ -12,6 +12,7 @@ lng: -73.7200
 zipSample: ["11023", "11021"]
 zipCodes: ["11023", "11021"]
 localPaths: ["Nassau County / elevation 115 ft band", "Nassau County / coords 40.8000, -73.7200", "Nassau County / primary ZIP 11021", "Nassau County / ZIP 11021 sector", "Nassau County / ZIP 11023 sector"]
+zillowHomeValueUsd: 1099682
 ---
 
 **Engineering Notice for Great Neck Gardens:** structural drying capacity optimized for 115ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Nassau County. Relative Humidity Threshold: 85%. Sensor sync: Active.

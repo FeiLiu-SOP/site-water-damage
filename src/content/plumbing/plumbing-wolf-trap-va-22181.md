@@ -12,6 +12,7 @@ lng: -77.2800
 zipSample: ["22181", "22182"]
 zipCodes: ["22182", "22181"]
 localPaths: ["Fairfax County / ZIP 22181 sector", "Fairfax County / elevation 328 ft band", "Fairfax County / coords 38.9400, -77.2800", "Fairfax County / primary ZIP 22181", "Fairfax County / ZIP 22182 sector"]
+zillowHomeValueUsd: 1126213
 ---
 
 **Engineering Notice for Wolf Trap:** Structural loading calculated based on 328 ft terrain assessment. Regional dispatch grid: Fairfax County.

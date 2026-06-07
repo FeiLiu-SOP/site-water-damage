@@ -12,6 +12,7 @@ lng: -87.4100
 zipSample: ["49855"]
 zipCodes: ["49855"]
 localPaths: ["Marquette County / elevation 699 ft band", "Marquette County / ZIP 49855 sector", "Marquette County / primary ZIP 49855", "Marquette County / coords 46.5400, -87.4100"]
+zillowHomeValueUsd: 322659
 ---
 
 **Engineering Notice for Marquette:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Marquette County.

@@ -12,6 +12,7 @@ lng: -94.8100
 zipSample: ["66226", "66227", "66203", "66217", "66286"]
 zipCodes: ["66203", "66286", "66226", "66217", "66227", "66218", "66214", "66216"]
 localPaths: ["Johnson County / ZIP 66203 sector", "Johnson County / primary ZIP 66214", "Johnson County / coords 39.0200, -94.8100", "Johnson County / ZIP 66226 sector", "Johnson County / elevation 850 ft band"]
+zillowHomeValueUsd: 389082
 ---
 
 **Engineering Notice for Shawnee:** Structural loading calculated based on 850 ft terrain assessment. Regional dispatch grid: Johnson County.

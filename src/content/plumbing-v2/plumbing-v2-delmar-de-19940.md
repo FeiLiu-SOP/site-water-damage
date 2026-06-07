@@ -12,6 +12,7 @@ lng: -75.5600
 zipSample: ["19940"]
 zipCodes: ["19940"]
 localPaths: ["Sussex County / ZIP 19940 sector", "Sussex County / primary ZIP 19940", "Sussex County / elevation 52 ft band", "Sussex County / coords 38.4700, -75.5600"]
+zillowHomeValueUsd: 335340
 ---
 
 **Engineering Notice for Delmar:** System optimized for 140 mg/L hard water scaling factors in Delmar. Regional dispatch grid: Sussex County.

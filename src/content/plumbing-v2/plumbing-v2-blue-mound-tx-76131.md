@@ -12,6 +12,7 @@ lng: -97.3400
 zipSample: ["76131"]
 zipCodes: ["76131"]
 localPaths: ["Tarrant County / elevation 682 ft band", "Tarrant County / primary ZIP 76131", "Tarrant County / coords 32.8500, -97.3400", "Tarrant County / ZIP 76131 sector"]
+zillowHomeValueUsd: 337714
 ---
 
 **Engineering Notice for Blue Mound:** System optimized for 157 mg/L hard water scaling factors in Blue Mound. Regional dispatch grid: Tarrant County.

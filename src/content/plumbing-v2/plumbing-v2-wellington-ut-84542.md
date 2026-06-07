@@ -12,6 +12,8 @@ lng: -110.7300
 zipSample: ["84542", "84501"]
 zipCodes: ["84501", "84542"]
 localPaths: ["Carbon County / coords 39.5400, -110.7300", "Carbon County / ZIP 84542 sector", "Carbon County / primary ZIP 84542", "Carbon County / elevation 5394 ft band", "Carbon County / ZIP 84501 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 568242
 ---
 
 **Engineering Notice for Wellington:** System optimized for 158 mg/L hard water scaling factors in Wellington. Regional dispatch grid: Carbon County.

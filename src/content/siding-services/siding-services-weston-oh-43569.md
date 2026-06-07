@@ -12,6 +12,7 @@ lng: -83.7900
 zipSample: ["43569"]
 zipCodes: ["43569"]
 localPaths: ["Wood County / primary ZIP 43569", "Wood County / ZIP 43569 sector", "Wood County / coords 41.3500, -83.7900", "Wood County / elevation 682 ft band"]
+zillowHomeValueUsd: 163793
 ---
 
 **Engineering Notice for Weston:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 0.84. Elevation: 682 ft AMSL. Regional dispatch grid: Wood County.

@@ -12,6 +12,7 @@ lng: -122.3100
 zipSample: ["94401", "94403", "94404", "94497", "94402"]
 zipCodes: ["94403", "94401", "94402", "94404", "94497"]
 localPaths: ["San Mateo County / elevation 13 ft band", "San Mateo County / ZIP 94497 sector", "San Mateo County / ZIP 94402 sector", "San Mateo County / ZIP 94401 sector", "San Mateo County / primary ZIP 94404"]
+zillowHomeValueUsd: 1763709
 ---
 
 **Engineering Notice for San Mateo:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: San Mateo County.

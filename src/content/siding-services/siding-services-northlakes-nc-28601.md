@@ -12,6 +12,7 @@ lng: -81.3700
 zipSample: ["28601"]
 zipCodes: ["28601"]
 localPaths: ["Caldwell County / primary ZIP 28601", "Caldwell County / coords 35.7800, -81.3700", "Caldwell County / elevation 1083 ft band", "Caldwell County / ZIP 28601 sector"]
+zillowHomeValueUsd: 304597
 ---
 
 **Engineering Notice for Northlakes:** Panel Replacement was validated under stress factor 1.20; target tolerance set near 99 mph. Grid anchor: Caldwell County.

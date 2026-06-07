@@ -12,6 +12,7 @@ lng: -79.4000
 zipSample: ["28388", "28374", "28327", "28387"]
 zipCodes: ["28387", "28327", "28388", "28374"]
 localPaths: ["Moore County / primary ZIP 28327", "Moore County / elevation 522 ft band", "Moore County / ZIP 28387 sector", "Moore County / ZIP 28388 sector", "Moore County / ZIP 28374 sector"]
+zillowHomeValueUsd: 405851
 ---
 
 **Engineering Notice for Southern Pines:** Structural loading calculated based on 522 ft terrain assessment. Regional dispatch grid: Moore County.

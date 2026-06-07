@@ -12,6 +12,7 @@ lng: -106.7300
 zipSample: ["87024"]
 zipCodes: ["87024"]
 localPaths: ["Sandoval County / ZIP 87024 sector", "Sandoval County / elevation 5551 ft band", "Sandoval County / coords 35.6100, -106.7300", "Sandoval County / primary ZIP 87024"]
+zillowHomeValueUsd: 356664
 ---
 
 **Engineering Notice for Jemez Pueblo:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Elevation: 5551 ft AMSL. Grid: Sandoval County.

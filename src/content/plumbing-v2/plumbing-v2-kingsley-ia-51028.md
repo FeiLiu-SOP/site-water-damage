@@ -12,6 +12,7 @@ lng: -95.9700
 zipSample: ["51028"]
 zipCodes: ["51028"]
 localPaths: ["Plymouth County / ZIP 51028 sector", "Plymouth County / elevation 1237 ft band", "Plymouth County / primary ZIP 51028", "Plymouth County / coords 42.5900, -95.9700"]
+zillowHomeValueUsd: 248483
 ---
 
 **Engineering Notice for Kingsley:** System optimized for 129 mg/L hard water scaling factors in Kingsley. Regional dispatch grid: Plymouth County.

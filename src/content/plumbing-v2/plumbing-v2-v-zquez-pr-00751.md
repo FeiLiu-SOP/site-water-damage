@@ -12,6 +12,8 @@ lng: -66.2300
 zipSample: ["00751"]
 zipCodes: ["00751"]
 localPaths: ["Salinas County / ZIP 00751 sector", "Salinas County / coords 18.0700, -66.2300", "Salinas County / primary ZIP 00751", "Salinas County / elevation 709 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 363796
 ---
 
 **Engineering Notice for Vázquez:** System optimized for 175 mg/L hard water scaling factors in Vázquez. Regional dispatch grid: Salinas County.

@@ -12,6 +12,7 @@ lng: -84.6700
 zipSample: ["45030"]
 zipCodes: ["45030"]
 localPaths: ["Hamilton County / ZIP 45030 sector", "Hamilton County / coords 39.2700, -84.6700", "Hamilton County / elevation 653 ft band", "Hamilton County / primary ZIP 45030"]
+zillowHomeValueUsd: 319209
 ---
 
 **Engineering Notice for New Baltimore:** Wall Restoration was validated under stress factor 1.14; target tolerance set near 96 mph. Grid anchor: Hamilton County.

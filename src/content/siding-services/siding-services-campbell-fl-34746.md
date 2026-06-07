@@ -12,6 +12,7 @@ lng: -81.4500
 zipSample: ["34746"]
 zipCodes: ["34746"]
 localPaths: ["Osceola County / primary ZIP 34746", "Osceola County / elevation 85 ft band", "Osceola County / ZIP 34746 sector", "Osceola County / coords 28.2600, -81.4500"]
+zillowHomeValueUsd: 360666
 ---
 
 **Engineering Notice for Campbell:** Facade Renewal was validated under stress factor 1.08; target tolerance set near 144 mph. Coordinates: 28.2600, -81.4500. Grid anchor: Osceola County.

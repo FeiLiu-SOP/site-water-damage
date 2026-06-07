@@ -11,6 +11,7 @@ lng: -89.5500
 zipSample: ["54476"]
 zipCodes: ["54476"]
 localPaths: ["Marathon County / coords 44.8900, -89.5500", "Marathon County / ZIP 54476 sector", "Marathon County / primary ZIP 54476", "Marathon County / elevation 1266 ft band"]
+zillowHomeValueUsd: 290190
 ---
 
 **Engineering Notice for Weston:** Structural loading calculated based on 1266 ft terrain assessment. Regional dispatch grid: Marathon County.

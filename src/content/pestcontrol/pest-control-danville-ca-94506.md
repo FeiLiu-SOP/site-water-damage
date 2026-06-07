@@ -11,6 +11,7 @@ lng: -121.9700
 zipSample: ["94506", "94526"]
 zipCodes: ["94506", "94526"]
 localPaths: ["Contra Costa County / elevation 469 ft band", "Contra Costa County / primary ZIP 94506", "Contra Costa County / ZIP 94506 sector", "Contra Costa County / ZIP 94526 sector", "Contra Costa County / coords 37.8100, -121.9700"]
+zillowHomeValueUsd: 2084254
 ---
 
 **Engineering Notice for Danville:** Structural loading calculated based on 469 ft terrain assessment. Regional dispatch grid: Contra Costa County.

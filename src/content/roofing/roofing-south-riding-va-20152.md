@@ -11,6 +11,7 @@ lng: -77.5100
 zipSample: ["20152"]
 zipCodes: ["20152"]
 localPaths: ["Loudoun County / ZIP 20152 sector", "Loudoun County / coords 38.9100, -77.5100", "Loudoun County / primary ZIP 20152", "Loudoun County / elevation 285 ft band"]
+zillowHomeValueUsd: 853552
 ---
 
 **Engineering Notice for South Riding:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Loudoun County.

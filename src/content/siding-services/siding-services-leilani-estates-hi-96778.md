@@ -12,6 +12,7 @@ lng: -154.9200
 zipSample: ["96778"]
 zipCodes: ["96778"]
 localPaths: ["Hawaii County / coords 19.4700, -154.9200", "Hawaii County / primary ZIP 96778", "Hawaii County / ZIP 96778 sector", "Hawaii County / elevation 755 ft band"]
+zillowHomeValueUsd: 288892
 ---
 
 **Engineering Notice for Leilani Estates:** Cladding Retrofit was validated under stress factor 0.91; target tolerance set near 109 mph. Coordinates: 19.4700, -154.9200. Grid anchor: Hawaii County.

@@ -12,6 +12,7 @@ lng: -108.7800
 zipSample: ["81648"]
 zipCodes: ["81648"]
 localPaths: ["Rio Blanco County / ZIP 81648 sector", "Rio Blanco County / elevation 5276 ft band", "Rio Blanco County / coords 40.0900, -108.7800", "Rio Blanco County / primary ZIP 81648"]
+zillowHomeValueUsd: 226705
 ---
 
 **Engineering Notice for Rangely:** System optimized for 159 mg/L hard water scaling factors in Rangely. Regional dispatch grid: Rio Blanco County.

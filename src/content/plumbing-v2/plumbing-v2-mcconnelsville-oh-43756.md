@@ -12,6 +12,7 @@ lng: -81.8500
 zipSample: ["43756"]
 zipCodes: ["43756"]
 localPaths: ["Morgan County / elevation 919 ft band", "Morgan County / coords 39.6600, -81.8500", "Morgan County / ZIP 43756 sector", "Morgan County / primary ZIP 43756"]
+zillowHomeValueUsd: 168687
 ---
 
 **Engineering Notice for McConnelsville:** System optimized for 176 mg/L hard water scaling factors in McConnelsville. Regional dispatch grid: Morgan County.

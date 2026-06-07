@@ -11,6 +11,7 @@ lng: -95.8800
 zipSample: ["77406", "77441"]
 zipCodes: ["77406", "77441"]
 localPaths: ["Fort Bend County / coords 29.6900, -95.8800", "Fort Bend County / elevation 141 ft band", "Fort Bend County / ZIP 77406 sector", "Fort Bend County / primary ZIP 77441", "Fort Bend County / ZIP 77441 sector"]
+zillowHomeValueUsd: 517846
 ---
 
 **Engineering Notice for Fulshear:** Structural loading calculated based on 141 ft terrain assessment. Regional dispatch grid: Fort Bend County.

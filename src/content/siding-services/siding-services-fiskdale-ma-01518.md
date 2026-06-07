@@ -12,6 +12,7 @@ lng: -72.1100
 zipSample: ["01566", "01518"]
 zipCodes: ["01566", "01518"]
 localPaths: ["Worcester County / ZIP 01518 sector", "Worcester County / primary ZIP 01518", "Worcester County / elevation 807 ft band", "Worcester County / coords 42.1200, -72.1100", "Worcester County / ZIP 01566 sector"]
+zillowHomeValueUsd: 521143
 ---
 
 **Engineering Notice for Fiskdale:** Site context locked to Worcester County. Elevation: 807 ft AMSL. Coordinates: 42.1200, -72.1100. Exterior Envelope integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -71.9400
 zipSample: ["01430"]
 zipCodes: ["01430"]
 localPaths: ["Worcester County / ZIP 01430 sector", "Worcester County / primary ZIP 01430", "Worcester County / elevation 1050 ft band", "Worcester County / coords 42.6100, -71.9400"]
+zillowHomeValueUsd: 450711
 ---
 
 **Engineering Notice for South Ashburnham:** Site context locked to Worcester County. Wall Restoration integrity verification recorded.

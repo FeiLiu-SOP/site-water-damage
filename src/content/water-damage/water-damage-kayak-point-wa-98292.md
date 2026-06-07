@@ -12,6 +12,7 @@ lng: -122.3300
 zipSample: ["98292"]
 zipCodes: ["98292"]
 localPaths: ["Snohomish County / coords 48.1400, -122.3300", "Snohomish County / primary ZIP 98292", "Snohomish County / ZIP 98292 sector", "Snohomish County / elevation 374 ft band"]
+zillowHomeValueUsd: 716229
 ---
 
 **Engineering Notice for Kayak Point:** structural drying capacity optimized for 374ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Snohomish County. Relative Humidity Threshold: 70%. Sensor sync: Active.

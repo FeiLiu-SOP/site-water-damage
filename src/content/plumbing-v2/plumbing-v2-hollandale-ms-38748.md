@@ -12,6 +12,7 @@ lng: -90.8500
 zipSample: ["38748"]
 zipCodes: ["38748"]
 localPaths: ["Washington County / coords 33.1800, -90.8500", "Washington County / elevation 131 ft band", "Washington County / primary ZIP 38748", "Washington County / ZIP 38748 sector"]
+zillowHomeValueUsd: 60654
 ---
 
 **Engineering Notice for Hollandale:** System optimized for 174 mg/L hard water scaling factors in Hollandale. Regional dispatch grid: Washington County.

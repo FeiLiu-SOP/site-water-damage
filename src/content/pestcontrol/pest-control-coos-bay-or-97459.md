@@ -11,6 +11,7 @@ lng: -124.2300
 zipSample: ["97459", "97420"]
 zipCodes: ["97420", "97459"]
 localPaths: ["Coos County / primary ZIP 97459", "Coos County / elevation 144 ft band", "Coos County / coords 43.3800, -124.2300", "Coos County / ZIP 97459 sector", "Coos County / ZIP 97420 sector"]
+zillowHomeValueUsd: 356844
 ---
 
 **Engineering Notice for Coos Bay:** Structural loading calculated based on 144 ft terrain assessment. Regional dispatch grid: Coos County.

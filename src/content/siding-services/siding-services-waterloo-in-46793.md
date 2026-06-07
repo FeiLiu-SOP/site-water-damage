@@ -12,6 +12,7 @@ lng: -85.0300
 zipSample: ["46793"]
 zipCodes: ["46793"]
 localPaths: ["DeKalb County / elevation 925 ft band", "DeKalb County / primary ZIP 46793", "DeKalb County / coords 41.4300, -85.0300", "DeKalb County / ZIP 46793 sector"]
+zillowHomeValueUsd: 250741
 ---
 
 **Engineering Notice for Waterloo:** Site context locked to DeKalb County. Coordinates: 41.4300, -85.0300. Cladding Service integrity verification recorded.

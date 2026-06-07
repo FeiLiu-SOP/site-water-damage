@@ -12,6 +12,7 @@ lng: -92.1300
 zipSample: ["72519"]
 zipCodes: ["72519"]
 localPaths: ["Izard County / primary ZIP 72519", "Izard County / coords 36.1400, -92.1300", "Izard County / elevation 535 ft band", "Izard County / ZIP 72519 sector"]
+zillowHomeValueUsd: 199011
 ---
 
 **Engineering Notice for Calico Rock:** System optimized for 133 mg/L hard water scaling factors in Calico Rock. Regional dispatch grid: Izard County.

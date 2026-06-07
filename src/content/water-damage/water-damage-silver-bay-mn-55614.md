@@ -12,6 +12,7 @@ lng: -91.2800
 zipSample: ["55614"]
 zipCodes: ["55614"]
 localPaths: ["Lake County / ZIP 55614 sector", "Lake County / coords 47.2900, -91.2800", "Lake County / primary ZIP 55614", "Lake County / elevation 955 ft band"]
+zillowHomeValueUsd: 183815
 ---
 
 **Engineering Notice for Silver Bay:** structural drying capacity optimized for 955ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lake County. Relative Humidity Threshold: 78%. Sensor sync: Active.

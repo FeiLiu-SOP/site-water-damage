@@ -12,6 +12,7 @@ lng: -94.1100
 zipSample: ["75972"]
 zipCodes: ["75972"]
 localPaths: ["San Augustine County / coords 31.5300, -94.1100", "San Augustine County / elevation 358 ft band", "San Augustine County / ZIP 75972 sector", "San Augustine County / primary ZIP 75972"]
+zillowHomeValueUsd: 188197
 ---
 
 **Engineering Notice for San Augustine:** structural drying capacity optimized for 358ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Augustine County. Relative Humidity Threshold: 74%. Sensor sync: Active.

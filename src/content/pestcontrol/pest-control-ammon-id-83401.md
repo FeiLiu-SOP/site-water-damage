@@ -11,6 +11,7 @@ lng: -111.9600
 zipSample: ["83401", "83406", "83403"]
 zipCodes: ["83406", "83403", "83401"]
 localPaths: ["Bonneville County / primary ZIP 83401", "Bonneville County / ZIP 83403 sector", "Bonneville County / coords 43.4700, -111.9600", "Bonneville County / elevation 4728 ft band", "Bonneville County / ZIP 83406 sector"]
+zillowHomeValueUsd: 401264
 ---
 
 **Engineering Notice for Ammon:** Structural loading calculated based on 4728 ft terrain assessment. Regional dispatch grid: Bonneville County.

@@ -12,6 +12,7 @@ lng: -86.1200
 zipSample: ["46227"]
 zipCodes: ["46227"]
 localPaths: ["Marion County / ZIP 46227 sector", "Marion County / primary ZIP 46227", "Marion County / coords 39.6600, -86.1200", "Marion County / elevation 791 ft band"]
+zillowHomeValueUsd: 227339
 ---
 
 **Engineering Notice for Southport:** structural drying capacity optimized for 791ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marion County. Relative Humidity Threshold: 84%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -95.8100
 zipSample: ["77471", "77469", "77461"]
 zipCodes: ["77461", "77469", "77471"]
 localPaths: ["Fort Bend County / primary ZIP 77471", "Fort Bend County / ZIP 77461 sector", "Fort Bend County / coords 29.4800, -95.8100", "Fort Bend County / ZIP 77469 sector", "Fort Bend County / ZIP 77471 sector"]
+zillowHomeValueUsd: 283370
 ---
 
 **Engineering Notice for Pleak:** System optimized for 134 mg/L hard water scaling factors in Pleak. Regional dispatch grid: Fort Bend County.

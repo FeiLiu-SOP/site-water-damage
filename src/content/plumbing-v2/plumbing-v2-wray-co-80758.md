@@ -12,6 +12,7 @@ lng: -102.2300
 zipSample: ["80758"]
 zipCodes: ["80758"]
 localPaths: ["Yuma County / primary ZIP 80758", "Yuma County / elevation 3533 ft band", "Yuma County / coords 40.0800, -102.2300", "Yuma County / ZIP 80758 sector"]
+zillowHomeValueUsd: 289379
 ---
 
 **Engineering Notice for Wray:** System optimized for 121 mg/L hard water scaling factors in Wray. Regional dispatch grid: Yuma County.

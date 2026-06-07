@@ -11,6 +11,7 @@ lng: -122.9400
 zipSample: ["97129", "97123", "97124", "97006"]
 zipCodes: ["97124", "97129", "97006", "97123"]
 localPaths: ["Washington County / ZIP 97124 sector", "Washington County / elevation 167 ft band", "Washington County / coords 45.5300, -122.9400", "Washington County / ZIP 97129 sector", "Washington County / ZIP 97006 sector"]
+zillowHomeValueUsd: 500889
 ---
 
 **Engineering Notice for Hillsboro:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Washington County.

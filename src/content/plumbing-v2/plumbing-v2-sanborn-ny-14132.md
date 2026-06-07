@@ -12,6 +12,7 @@ lng: -78.8800
 zipSample: ["14132"]
 zipCodes: ["14132"]
 localPaths: ["Niagara County / primary ZIP 14132", "Niagara County / coords 43.1500, -78.8800", "Niagara County / ZIP 14132 sector", "Niagara County / elevation 633 ft band"]
+zillowHomeValueUsd: 313606
 ---
 
 **Engineering Notice for Sanborn:** System optimized for 158 mg/L hard water scaling factors in Sanborn. Regional dispatch grid: Niagara County.

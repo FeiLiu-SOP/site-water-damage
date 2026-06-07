@@ -12,6 +12,7 @@ lng: -75.2400
 zipSample: ["08056"]
 zipCodes: ["08056"]
 localPaths: ["Gloucester County / ZIP 08056 sector", "Gloucester County / coords 39.7900, -75.2400", "Gloucester County / primary ZIP 08056", "Gloucester County / elevation 56 ft band"]
+zillowHomeValueUsd: 602580
 ---
 
 **Engineering Notice for Mickleton:** System optimized for 153 mg/L hard water scaling factors in Mickleton. Regional dispatch grid: Gloucester County.

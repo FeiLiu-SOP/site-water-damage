@@ -11,6 +11,7 @@ lng: -75.2800
 zipSample: ["19446"]
 zipCodes: ["19446"]
 localPaths: ["Montgomery County / elevation 374 ft band", "Montgomery County / coords 40.2400, -75.2800", "Montgomery County / primary ZIP 19446", "Montgomery County / ZIP 19446 sector"]
+zillowHomeValueUsd: 494547
 ---
 
 **Engineering Notice for Lansdale:** Structural loading calculated based on 374 ft terrain assessment. Regional dispatch grid: Montgomery County.

@@ -12,6 +12,7 @@ lng: -83.3400
 zipSample: ["48750"]
 zipCodes: ["48750"]
 localPaths: ["Iosco County / primary ZIP 48750", "Iosco County / ZIP 48750 sector", "Iosco County / elevation 607 ft band", "Iosco County / coords 44.4100, -83.3400"]
+zillowHomeValueUsd: 149658
 ---
 
 **Engineering Notice for Au Sable:** structural drying capacity optimized for 607ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Iosco County. Relative Humidity Threshold: 77%. Sensor sync: Active.

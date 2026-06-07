@@ -12,6 +12,7 @@ lng: -85.3100
 zipSample: ["37377"]
 zipCodes: ["37377"]
 localPaths: ["Hamilton County / ZIP 37377 sector", "Hamilton County / primary ZIP 37377", "Hamilton County / elevation 1972 ft band", "Hamilton County / coords 35.1600, -85.3100"]
+zillowHomeValueUsd: 628076
 ---
 
 **Engineering Notice for Walden:** Cladding verification uses 96 mph routing baseline; lateral pressure note: 12.7 psf. Elevation: 1972 ft AMSL. Coordinates: 35.1600, -85.3100. Grid: Hamilton County.

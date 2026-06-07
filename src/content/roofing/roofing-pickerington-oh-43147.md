@@ -11,6 +11,7 @@ lng: -82.7700
 zipSample: ["43147"]
 zipCodes: ["43147"]
 localPaths: ["Fairfield County / coords 39.8900, -82.7700", "Fairfield County / primary ZIP 43147", "Fairfield County / elevation 833 ft band", "Fairfield County / ZIP 43147 sector"]
+zillowHomeValueUsd: 419487
 ---
 
 **Engineering Notice for Pickerington:** Structural loading calculated based on 833 ft terrain assessment. Regional dispatch grid: Fairfield County.

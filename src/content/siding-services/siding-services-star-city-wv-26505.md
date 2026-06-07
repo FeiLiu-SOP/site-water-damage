@@ -12,6 +12,7 @@ lng: -79.9900
 zipSample: ["26505"]
 zipCodes: ["26505"]
 localPaths: ["Monongalia County / primary ZIP 26505", "Monongalia County / coords 39.6600, -79.9900", "Monongalia County / ZIP 26505 sector", "Monongalia County / elevation 932 ft band"]
+zillowHomeValueUsd: 253601
 ---
 
 **Engineering Notice for Star City:** Envelope check: Cladding Service assigned to wind-load band C with stress factor 1.02. Elevation: 932 ft AMSL. Regional dispatch grid: Monongalia County.

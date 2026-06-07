@@ -12,6 +12,7 @@ lng: -118.3700
 zipSample: ["90069", "90048", "90046"]
 zipCodes: ["90048", "90046", "90069"]
 localPaths: ["Los Angeles County / ZIP 90048 sector", "Los Angeles County / ZIP 90046 sector", "Los Angeles County / ZIP 90069 sector", "Los Angeles County / elevation 259 ft band", "Los Angeles County / primary ZIP 90069"]
+zillowHomeValueUsd: 1271500
 ---
 
 **Engineering Notice for West Hollywood:** Structural loading calculated based on 259 ft terrain assessment. Regional dispatch grid: Los Angeles County.

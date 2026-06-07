@@ -12,6 +12,7 @@ lng: -89.4100
 zipSample: ["61540"]
 zipCodes: ["61540"]
 localPaths: ["Marshall County / ZIP 61540 sector", "Marshall County / primary ZIP 61540", "Marshall County / elevation 525 ft band", "Marshall County / coords 41.0200, -89.4100"]
+zillowHomeValueUsd: 133504
 ---
 
 **Engineering Notice for Lacon:** structural drying capacity optimized for 525ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marshall County. Relative Humidity Threshold: 85%. Sensor sync: Active.

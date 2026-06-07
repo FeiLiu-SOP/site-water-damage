@@ -11,6 +11,7 @@ lng: -82.0700
 zipSample: ["30909", "30906", "30815", "30916", "30905"]
 zipCodes: ["30916", "30905", "30903", "30999", "30917", "30906", "30914", "30812", "30909", "30907", "30901", "30912"]
 localPaths: ["Richmond County / coords 33.3600, -82.0700", "Richmond County / primary ZIP 30912", "Richmond County / ZIP 30916 sector", "Richmond County / ZIP 30905 sector", "Richmond County / ZIP 30909 sector"]
+zillowHomeValueUsd: 145475
 ---
 
 **Engineering Notice for Augusta:** Structural loading calculated based on 351 ft terrain assessment. Regional dispatch grid: Richmond County.

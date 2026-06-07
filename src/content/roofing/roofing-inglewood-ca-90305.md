@@ -11,6 +11,7 @@ lng: -118.3400
 zipSample: ["90301", "90311", "90307", "90304", "90306"]
 zipCodes: ["90309", "90304", "90301", "90303", "90308", "90307", "90312", "90311", "90306", "90302", "90305"]
 localPaths: ["Los Angeles County / ZIP 90311 sector", "Los Angeles County / ZIP 90307 sector", "Los Angeles County / ZIP 90306 sector", "Los Angeles County / elevation 144 ft band", "Los Angeles County / primary ZIP 90305"]
+zillowHomeValueUsd: 829133
 ---
 
 **Engineering Notice for Inglewood:** Structural loading calculated based on 144 ft terrain assessment. Regional dispatch grid: Los Angeles County.

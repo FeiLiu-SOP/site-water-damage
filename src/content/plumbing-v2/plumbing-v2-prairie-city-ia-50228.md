@@ -12,6 +12,7 @@ lng: -93.2400
 zipSample: ["50228"]
 zipCodes: ["50228"]
 localPaths: ["Jasper County / coords 41.6000, -93.2400", "Jasper County / primary ZIP 50228", "Jasper County / ZIP 50228 sector", "Jasper County / elevation 922 ft band"]
+zillowHomeValueUsd: 265774
 ---
 
 **Engineering Notice for Prairie City:** System optimized for 144 mg/L hard water scaling factors in Prairie City. Regional dispatch grid: Jasper County.

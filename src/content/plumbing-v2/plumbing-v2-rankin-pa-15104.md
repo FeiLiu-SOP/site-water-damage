@@ -12,6 +12,7 @@ lng: -79.8800
 zipSample: ["15104"]
 zipCodes: ["15104"]
 localPaths: ["Allegheny County / coords 40.4100, -79.8800", "Allegheny County / primary ZIP 15104", "Allegheny County / ZIP 15104 sector", "Allegheny County / elevation 774 ft band"]
+zillowHomeValueUsd: 58369
 ---
 
 **Engineering Notice for Rankin:** System optimized for 172 mg/L hard water scaling factors in Rankin. Regional dispatch grid: Allegheny County.

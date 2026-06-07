@@ -12,6 +12,7 @@ lng: -124.4200
 zipSample: ["97444"]
 zipCodes: ["97444"]
 localPaths: ["Curry County / elevation 381 ft band", "Curry County / primary ZIP 97444", "Curry County / ZIP 97444 sector", "Curry County / coords 42.4000, -124.4200"]
+zillowHomeValueUsd: 436650
 ---
 
 **Engineering Notice for Gold Beach:** Structural integrity verification: Wall Restoration calibrated for 95 mph localized wind load factor. Regional dispatch grid: Curry County.

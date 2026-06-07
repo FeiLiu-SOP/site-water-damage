@@ -11,6 +11,7 @@ lng: -87.8200
 zipSample: ["60026", "60025"]
 zipCodes: ["60026", "60025"]
 localPaths: ["Cook County / coords 42.0800, -87.8200", "Cook County / ZIP 60025 sector", "Cook County / primary ZIP 60025", "Cook County / elevation 640 ft band", "Cook County / ZIP 60026 sector"]
+zillowHomeValueUsd: 603613
 ---
 
 **Engineering Notice for Glenview:** Structural loading calculated based on 640 ft terrain assessment. Regional dispatch grid: Cook County.

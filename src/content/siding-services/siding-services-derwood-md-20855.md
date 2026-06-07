@@ -12,6 +12,7 @@ lng: -77.1500
 zipSample: ["20855"]
 zipCodes: ["20855"]
 localPaths: ["Montgomery County / elevation 443 ft band", "Montgomery County / primary ZIP 20855", "Montgomery County / coords 39.1100, -77.1500", "Montgomery County / ZIP 20855 sector"]
+zillowHomeValueUsd: 694462
 ---
 
 **Engineering Notice for Derwood:** Structural integrity verification: Wall Restoration calibrated for 109 mph localized wind load factor. Elevation: 443 ft AMSL. Regional dispatch grid: Montgomery County.

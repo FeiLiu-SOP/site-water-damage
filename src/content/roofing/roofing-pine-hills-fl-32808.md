@@ -11,6 +11,7 @@ lng: -81.4700
 zipSample: ["32868", "32818", "32858", "32808", "32710"]
 zipCodes: ["32808", "32858", "32818", "32710", "32868", "32869"]
 localPaths: ["Orange County / ZIP 32808 sector", "Orange County / ZIP 32710 sector", "Orange County / ZIP 32858 sector", "Orange County / elevation 105 ft band", "Orange County / primary ZIP 32808"]
+zillowHomeValueUsd: 257688
 ---
 
 **Engineering Notice for Pine Hills:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Orange County.

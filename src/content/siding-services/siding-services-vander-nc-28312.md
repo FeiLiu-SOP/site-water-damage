@@ -12,6 +12,7 @@ lng: -78.7900
 zipSample: ["28312"]
 zipCodes: ["28312"]
 localPaths: ["Cumberland County / primary ZIP 28312", "Cumberland County / elevation 141 ft band", "Cumberland County / coords 35.0300, -78.7900", "Cumberland County / ZIP 28312 sector"]
+zillowHomeValueUsd: 297203
 ---
 
 **Engineering Notice for Vander:** Cladding verification uses 99 mph routing baseline; lateral pressure note: 13.1 psf. Elevation: 141 ft AMSL. Grid: Cumberland County.

@@ -12,6 +12,7 @@ lng: -75.9800
 zipSample: ["21901", "21914"]
 zipCodes: ["21901", "21914"]
 localPaths: ["Cecil County / ZIP 21914 sector", "Cecil County / elevation 56 ft band", "Cecil County / ZIP 21901 sector", "Cecil County / coords 39.5800, -75.9800", "Cecil County / primary ZIP 21901"]
+zillowHomeValueUsd: 391582
 ---
 
 **Engineering Notice for Charlestown:** structural drying capacity optimized for 56ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cecil County. Relative Humidity Threshold: 66%. Sensor sync: Active.

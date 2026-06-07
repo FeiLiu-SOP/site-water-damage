@@ -12,6 +12,7 @@ lng: -105.9200
 zipSample: ["80446", "80478"]
 zipCodes: ["80478", "80446"]
 localPaths: ["Grand County / coords 40.0600, -105.9200", "Grand County / elevation 8009 ft band", "Grand County / ZIP 80446 sector", "Grand County / ZIP 80478 sector", "Grand County / primary ZIP 80478"]
+zillowHomeValueUsd: 1044968
 ---
 
 **Engineering Notice for Granby:** System optimized for 157 mg/L hard water scaling factors in Granby. Regional dispatch grid: Grand County.

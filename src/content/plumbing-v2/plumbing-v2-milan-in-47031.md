@@ -12,6 +12,7 @@ lng: -85.1300
 zipSample: ["47031"]
 zipCodes: ["47031"]
 localPaths: ["Ripley County / primary ZIP 47031", "Ripley County / elevation 997 ft band", "Ripley County / coords 39.1300, -85.1300", "Ripley County / ZIP 47031 sector"]
+zillowHomeValueUsd: 274408
 ---
 
 **Engineering Notice for Milan:** System optimized for 164 mg/L hard water scaling factors in Milan. Regional dispatch grid: Ripley County.

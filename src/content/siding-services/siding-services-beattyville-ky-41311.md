@@ -12,6 +12,7 @@ lng: -83.7100
 zipSample: ["41311"]
 zipCodes: ["41311"]
 localPaths: ["Lee County / elevation 919 ft band", "Lee County / ZIP 41311 sector", "Lee County / primary ZIP 41311", "Lee County / coords 37.5900, -83.7100"]
+zillowHomeValueUsd: 119391
 ---
 
 **Engineering Notice for Beattyville:** Structural integrity verification: Cladding Service calibrated for 92 mph localized wind load factor. Elevation: 919 ft AMSL. Coordinates: 37.5900, -83.7100. Regional dispatch grid: Lee County.

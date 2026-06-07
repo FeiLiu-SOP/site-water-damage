@@ -12,6 +12,7 @@ lng: -91.4400
 zipSample: ["72562"]
 zipCodes: ["72562"]
 localPaths: ["Independence County / coords 35.7100, -91.4400", "Independence County / elevation 308 ft band", "Independence County / ZIP 72562 sector", "Independence County / primary ZIP 72562"]
+zillowHomeValueUsd: 145315
 ---
 
 **Engineering Notice for Newark:** System optimized for 172 mg/L hard water scaling factors in Newark. Regional dispatch grid: Independence County.

@@ -12,6 +12,7 @@ lng: -82.4700
 zipSample: ["24230"]
 zipCodes: ["24230"]
 localPaths: ["Wise County / ZIP 24230 sector", "Wise County / coords 36.9400, -82.4700", "Wise County / primary ZIP 24230", "Wise County / elevation 2001 ft band"]
+zillowHomeValueUsd: 115633
 ---
 
 **Engineering Notice for Coeburn:** Exterior Envelope was validated under stress factor 1.14; target tolerance set near 92 mph. Grid anchor: Wise County.

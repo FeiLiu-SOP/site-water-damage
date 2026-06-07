@@ -12,6 +12,7 @@ lng: -96.3800
 zipSample: ["77802", "77803", "77806", "77807", "77808"]
 zipCodes: ["77808", "77803", "77806", "77807", "77801", "77805", "77802"]
 localPaths: ["Brazos County / ZIP 77803 sector", "Brazos County / elevation 358 ft band", "Brazos County / coords 30.6600, -96.3800", "Brazos County / primary ZIP 77808", "Brazos County / ZIP 77807 sector"]
+zillowHomeValueUsd: 426194
 ---
 
 **Engineering Notice for Bryan:** Structural loading calculated based on 358 ft terrain assessment. Regional dispatch grid: Brazos County.

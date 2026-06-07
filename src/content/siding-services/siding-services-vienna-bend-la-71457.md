@@ -12,6 +12,7 @@ lng: -93.0300
 zipSample: ["71457"]
 zipCodes: ["71457"]
 localPaths: ["Natchitoches Parish / primary ZIP 71457", "Natchitoches Parish / coords 31.7400, -93.0300", "Natchitoches Parish / elevation 121 ft band", "Natchitoches Parish / ZIP 71457 sector"]
+zillowHomeValueUsd: 181030
 ---
 
 **Engineering Notice for Vienna Bend:** Envelope check: Cladding Retrofit assigned to wind-load band A with stress factor 1.19. Regional dispatch grid: Natchitoches Parish.

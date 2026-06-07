@@ -12,6 +12,7 @@ lng: -89.1800
 zipSample: ["62914"]
 zipCodes: ["62914"]
 localPaths: ["Alexander County / ZIP 62914 sector", "Alexander County / elevation 322 ft band", "Alexander County / coords 37.0100, -89.1800", "Alexander County / primary ZIP 62914"]
+zillowHomeValueUsd: 33631
 ---
 
 **Engineering Notice for Cairo:** structural drying capacity optimized for 322ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Alexander County. Relative Humidity Threshold: 79%. Sensor sync: Active.

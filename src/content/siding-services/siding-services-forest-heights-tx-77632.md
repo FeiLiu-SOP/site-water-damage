@@ -12,6 +12,7 @@ lng: -93.7600
 zipSample: ["77632"]
 zipCodes: ["77632"]
 localPaths: ["Orange County / coords 30.2300, -93.7600", "Orange County / elevation 49 ft band", "Orange County / ZIP 77632 sector", "Orange County / primary ZIP 77632"]
+zillowHomeValueUsd: 222930
 ---
 
 **Engineering Notice for Forest Heights:** Site context locked to Orange County. Elevation: 49 ft AMSL. Panel Replacement integrity verification recorded.

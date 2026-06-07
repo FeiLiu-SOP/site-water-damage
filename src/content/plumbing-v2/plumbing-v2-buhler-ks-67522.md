@@ -12,6 +12,7 @@ lng: -97.7700
 zipSample: ["67522"]
 zipCodes: ["67522"]
 localPaths: ["Reno County / coords 38.1400, -97.7700", "Reno County / primary ZIP 67522", "Reno County / elevation 1512 ft band", "Reno County / ZIP 67522 sector"]
+zillowHomeValueUsd: 197880
 ---
 
 **Engineering Notice for Buhler:** System optimized for 134 mg/L hard water scaling factors in Buhler. Regional dispatch grid: Reno County.

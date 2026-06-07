@@ -12,6 +12,7 @@ lng: -82.4000
 zipSample: ["30477"]
 zipCodes: ["30477"]
 localPaths: ["Jefferson County / ZIP 30477 sector", "Jefferson County / elevation 253 ft band", "Jefferson County / coords 32.8700, -82.4000", "Jefferson County / primary ZIP 30477"]
+zillowHomeValueUsd: 80906
 ---
 
 **Engineering Notice for Wadley:** System optimized for 127 mg/L hard water scaling factors in Wadley. Regional dispatch grid: Jefferson County.

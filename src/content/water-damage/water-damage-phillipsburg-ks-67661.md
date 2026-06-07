@@ -12,6 +12,7 @@ lng: -99.3200
 zipSample: ["67661"]
 zipCodes: ["67661"]
 localPaths: ["Phillips County / elevation 1939 ft band", "Phillips County / coords 39.7500, -99.3200", "Phillips County / primary ZIP 67661", "Phillips County / ZIP 67661 sector"]
+zillowHomeValueUsd: 124481
 ---
 
 **Engineering Notice for Phillipsburg:** structural drying capacity optimized for 1939ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Phillips County. Relative Humidity Threshold: 69%. Sensor sync: Active.

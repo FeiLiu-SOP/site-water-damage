@@ -12,6 +12,7 @@ lng: -92.5800
 zipSample: ["72002", "72210"]
 zipCodes: ["72210", "72002"]
 localPaths: ["Saline County / ZIP 72210 sector", "Saline County / coords 34.7000, -92.5800", "Saline County / elevation 594 ft band", "Saline County / ZIP 72002 sector", "Saline County / primary ZIP 72210"]
+zillowHomeValueUsd: 270234
 ---
 
 **Engineering Notice for Avilla:** System optimized for 134 mg/L hard water scaling factors in Avilla. Regional dispatch grid: Saline County.

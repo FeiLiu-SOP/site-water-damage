@@ -12,6 +12,7 @@ lng: -84.2600
 zipSample: ["45140"]
 zipCodes: ["45140"]
 localPaths: ["Warren County / ZIP 45140 sector", "Warren County / primary ZIP 45140", "Warren County / coords 39.3000, -84.2600", "Warren County / elevation 732 ft band"]
+zillowHomeValueUsd: 445109
 ---
 
 **Engineering Notice for Loveland Park:** Cladding verification uses 95 mph routing baseline; lateral pressure note: 12.6 psf. Elevation: 732 ft AMSL. Coordinates: 39.3000, -84.2600. Grid: Warren County.

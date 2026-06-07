@@ -11,6 +11,7 @@ lng: -121.5400
 zipSample: ["95901", "95961"]
 zipCodes: ["95961", "95901"]
 localPaths: ["Yuba County / coords 39.1200, -121.5400", "Yuba County / primary ZIP 95961", "Yuba County / ZIP 95901 sector", "Yuba County / ZIP 95961 sector", "Yuba County / elevation 62 ft band"]
+zillowHomeValueUsd: 448261
 ---
 
 **Engineering Notice for Linda:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Yuba County.

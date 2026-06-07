@@ -11,6 +11,7 @@ lng: -113.1000
 zipSample: ["84721", "84720"]
 zipCodes: ["84720", "84721"]
 localPaths: ["Iron County / elevation 5682 ft band", "Iron County / ZIP 84721 sector", "Iron County / ZIP 84720 sector", "Iron County / primary ZIP 84720", "Iron County / coords 37.6800, -113.1000"]
+zillowHomeValueUsd: 430547
 ---
 
 **Engineering Notice for Cedar City:** Structural loading calculated based on 5682 ft terrain assessment. Regional dispatch grid: Iron County.

@@ -12,6 +12,7 @@ lng: -89.1100
 zipSample: ["39327"]
 zipCodes: ["39327"]
 localPaths: ["Newton County / ZIP 39327 sector", "Newton County / coords 32.4300, -89.1100", "Newton County / primary ZIP 39327", "Newton County / elevation 417 ft band"]
+zillowHomeValueUsd: 169479
 ---
 
 **Engineering Notice for Decatur:** System optimized for 134 mg/L hard water scaling factors in Decatur. Regional dispatch grid: Newton County.

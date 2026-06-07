@@ -11,6 +11,7 @@ lng: -122.5300
 zipSample: ["98496", "98498", "98497", "98499"]
 zipCodes: ["98497", "98496", "98499", "98498"]
 localPaths: ["Pierce County / ZIP 98498 sector", "Pierce County / ZIP 98497 sector", "Pierce County / ZIP 98496 sector", "Pierce County / elevation 233 ft band", "Pierce County / coords 47.1600, -122.5300"]
+zillowHomeValueUsd: 481513
 ---
 
 **Engineering Notice for Lakewood:** Structural loading calculated based on 233 ft terrain assessment. Regional dispatch grid: Pierce County.

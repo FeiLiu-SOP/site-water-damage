@@ -12,6 +12,7 @@ lng: -72.8000
 zipSample: ["05450"]
 zipCodes: ["05450"]
 localPaths: ["Franklin County / ZIP 05450 sector", "Franklin County / elevation 427 ft band", "Franklin County / coords 44.9100, -72.8000", "Franklin County / primary ZIP 05450"]
+zillowHomeValueUsd: 320546
 ---
 
 **Engineering Notice for Enosburg Falls:** Cladding verification uses 94 mph routing baseline; lateral pressure note: 12.5 psf. Grid: Franklin County.

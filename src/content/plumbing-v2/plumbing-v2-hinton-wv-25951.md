@@ -12,6 +12,7 @@ lng: -80.8800
 zipSample: ["25951"]
 zipCodes: ["25951"]
 localPaths: ["Summers County / ZIP 25951 sector", "Summers County / primary ZIP 25951", "Summers County / elevation 1867 ft band", "Summers County / coords 37.6700, -80.8800"]
+zillowHomeValueUsd: 134722
 ---
 
 **Engineering Notice for Hinton:** System optimized for 180 mg/L hard water scaling factors in Hinton. Regional dispatch grid: Summers County.

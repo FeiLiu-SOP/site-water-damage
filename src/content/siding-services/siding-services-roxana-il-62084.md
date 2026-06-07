@@ -12,6 +12,7 @@ lng: -90.0500
 zipSample: ["62084", "62025"]
 zipCodes: ["62025", "62084"]
 localPaths: ["Madison County / ZIP 62025 sector", "Madison County / ZIP 62084 sector", "Madison County / coords 38.8300, -90.0500", "Madison County / elevation 423 ft band", "Madison County / primary ZIP 62084"]
+zillowHomeValueUsd: 107479
 ---
 
 **Engineering Notice for Roxana:** Cladding Retrofit was validated under stress factor 1.06; target tolerance set near 90 mph. Grid anchor: Madison County.

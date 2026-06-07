@@ -12,6 +12,7 @@ lng: -90.4700
 zipSample: ["70030"]
 zipCodes: ["70030"]
 localPaths: ["St. Charles Parish / elevation 3 ft band", "St. Charles Parish / primary ZIP 70030", "St. Charles Parish / coords 29.8200, -90.4700", "St. Charles Parish / ZIP 70030 sector"]
+zillowHomeValueUsd: 226591
 ---
 
 **Engineering Notice for Des Allemands:** System optimized for 163 mg/L hard water scaling factors in Des Allemands. Regional dispatch grid: St. Charles Parish.

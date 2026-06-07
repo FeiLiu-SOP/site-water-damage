@@ -12,6 +12,7 @@ lng: -85.9100
 zipSample: ["42749"]
 zipCodes: ["42749"]
 localPaths: ["Hart County / primary ZIP 42749", "Hart County / coords 37.1700, -85.9100", "Hart County / elevation 630 ft band", "Hart County / ZIP 42749 sector"]
+zillowHomeValueUsd: 170668
 ---
 
 **Engineering Notice for Horse Cave:** Site context locked to Hart County. Elevation: 630 ft AMSL. Coordinates: 37.1700, -85.9100. Cladding Service integrity verification recorded.

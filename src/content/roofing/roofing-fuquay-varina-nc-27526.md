@@ -11,6 +11,7 @@ lng: -78.7800
 zipSample: ["27526"]
 zipCodes: ["27526"]
 localPaths: ["Wake County / coords 35.6000, -78.7800", "Wake County / elevation 400 ft band", "Wake County / ZIP 27526 sector", "Wake County / primary ZIP 27526"]
+zillowHomeValueUsd: 443024
 ---
 
 **Engineering Notice for Fuquay-Varina:** Structural loading calculated based on 400 ft terrain assessment. Regional dispatch grid: Wake County.

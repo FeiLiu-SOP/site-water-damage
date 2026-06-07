@@ -12,6 +12,7 @@ lng: -87.1600
 zipSample: ["42220"]
 zipCodes: ["42220"]
 localPaths: ["Todd County / elevation 600 ft band", "Todd County / primary ZIP 42220", "Todd County / ZIP 42220 sector", "Todd County / coords 36.8100, -87.1600"]
+zillowHomeValueUsd: 213482
 ---
 
 **Engineering Notice for Elkton:** Envelope check: Surface Sheathing assigned to wind-load band B with stress factor 1.10. Regional dispatch grid: Todd County.

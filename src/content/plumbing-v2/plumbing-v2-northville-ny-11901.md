@@ -12,6 +12,7 @@ lng: -72.6200
 zipSample: ["11901"]
 zipCodes: ["11901"]
 localPaths: ["Suffolk County / ZIP 11901 sector", "Suffolk County / primary ZIP 11901", "Suffolk County / elevation 62 ft band", "Suffolk County / coords 40.9700, -72.6200"]
+zillowHomeValueUsd: 635432
 ---
 
 **Engineering Notice for Northville:** System optimized for 165 mg/L hard water scaling factors in Northville. Regional dispatch grid: Suffolk County.

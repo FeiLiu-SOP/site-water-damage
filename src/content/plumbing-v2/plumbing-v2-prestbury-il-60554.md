@@ -12,6 +12,7 @@ lng: -88.4200
 zipSample: ["60554"]
 zipCodes: ["60554"]
 localPaths: ["Kane County / primary ZIP 60554", "Kane County / ZIP 60554 sector", "Kane County / coords 41.7800, -88.4200", "Kane County / elevation 719 ft band"]
+zillowHomeValueUsd: 445548
 ---
 
 **Engineering Notice for Prestbury:** System optimized for 174 mg/L hard water scaling factors in Prestbury. Regional dispatch grid: Kane County.

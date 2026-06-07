@@ -12,6 +12,7 @@ lng: -83.5300
 zipSample: ["30523"]
 zipCodes: ["30523"]
 localPaths: ["Habersham County / ZIP 30523 sector", "Habersham County / primary ZIP 30523", "Habersham County / coords 34.6100, -83.5300", "Habersham County / elevation 1417 ft band"]
+zillowHomeValueUsd: 386717
 ---
 
 **Engineering Notice for Clarkesville:** System optimized for 127 mg/L hard water scaling factors in Clarkesville. Regional dispatch grid: Habersham County.

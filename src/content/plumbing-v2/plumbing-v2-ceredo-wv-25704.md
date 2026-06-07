@@ -12,6 +12,7 @@ lng: -82.5500
 zipSample: ["25507", "25704"]
 zipCodes: ["25704", "25507"]
 localPaths: ["Wayne County / elevation 541 ft band", "Wayne County / ZIP 25704 sector", "Wayne County / ZIP 25507 sector", "Wayne County / primary ZIP 25704", "Wayne County / coords 38.4000, -82.5500"]
+zillowHomeValueUsd: 131561
 ---
 
 **Engineering Notice for Ceredo:** System optimized for 174 mg/L hard water scaling factors in Ceredo. Regional dispatch grid: Wayne County.

@@ -11,6 +11,7 @@ lng: -96.9800
 zipSample: ["77903", "77905", "77904", "77902", "77901"]
 zipCodes: ["77905", "77901", "77904", "77903", "77902"]
 localPaths: ["Victoria County / elevation 118 ft band", "Victoria County / ZIP 77901 sector", "Victoria County / ZIP 77905 sector", "Victoria County / coords 28.8300, -96.9800", "Victoria County / ZIP 77903 sector"]
+zillowHomeValueUsd: 142825
 ---
 
 **Engineering Notice for Victoria:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Victoria County.

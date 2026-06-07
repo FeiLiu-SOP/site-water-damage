@@ -12,6 +12,7 @@ lng: -83.8500
 zipSample: ["30052", "30014"]
 zipCodes: ["30052", "30014"]
 localPaths: ["Walton County / ZIP 30014 sector", "Walton County / primary ZIP 30014", "Walton County / ZIP 30052 sector", "Walton County / elevation 915 ft band", "Walton County / coords 33.7500, -83.8500"]
+zillowHomeValueUsd: 304278
 ---
 
 **Engineering Notice for Walnut Grove:** System optimized for 168 mg/L hard water scaling factors in Walnut Grove. Regional dispatch grid: Walton County.

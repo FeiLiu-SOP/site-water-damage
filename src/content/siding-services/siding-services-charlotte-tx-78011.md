@@ -12,6 +12,8 @@ lng: -98.7000
 zipSample: ["78011"]
 zipCodes: ["78011"]
 localPaths: ["Atascosa County / elevation 554 ft band", "Atascosa County / primary ZIP 78011", "Atascosa County / ZIP 78011 sector", "Atascosa County / coords 28.8600, -98.7000"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 300357
 ---
 
 **Engineering Notice for Charlotte:** Site context locked to Atascosa County. Wall Restoration integrity verification recorded.

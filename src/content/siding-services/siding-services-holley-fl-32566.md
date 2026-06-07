@@ -12,6 +12,7 @@ lng: -86.9000
 zipSample: ["32566"]
 zipCodes: ["32566"]
 localPaths: ["Santa Rosa County / coords 30.4500, -86.9000", "Santa Rosa County / ZIP 32566 sector", "Santa Rosa County / primary ZIP 32566", "Santa Rosa County / elevation 59 ft band"]
+zillowHomeValueUsd: 415379
 ---
 
 **Engineering Notice for Holley:** Structural integrity verification: Surface Sheathing calibrated for 136 mph localized wind load factor. Elevation: 59 ft AMSL. Coordinates: 30.4500, -86.9000. Regional dispatch grid: Santa Rosa County.

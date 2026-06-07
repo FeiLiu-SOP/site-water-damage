@@ -12,6 +12,7 @@ lng: -117.7000
 zipSample: ["92607", "92677"]
 zipCodes: ["92607", "92677"]
 localPaths: ["Orange County / primary ZIP 92677", "Orange County / ZIP 92677 sector", "Orange County / elevation 489 ft band", "Orange County / ZIP 92607 sector", "Orange County / coords 33.5300, -117.7000"]
+zillowHomeValueUsd: 1498201
 ---
 
 **Engineering Notice for Laguna Niguel:** Structural loading calculated based on 489 ft terrain assessment. Regional dispatch grid: Orange County.

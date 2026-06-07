@@ -12,6 +12,7 @@ lng: -79.0300
 zipSample: ["27517"]
 zipCodes: ["27517"]
 localPaths: ["Chatham County / ZIP 27517 sector", "Chatham County / elevation 282 ft band", "Chatham County / coords 35.8500, -79.0300", "Chatham County / primary ZIP 27517"]
+zillowHomeValueUsd: 674730
 ---
 
 **Engineering Notice for Governors Village:** System optimized for 144 mg/L hard water scaling factors in Governors Village. Regional dispatch grid: Chatham County.

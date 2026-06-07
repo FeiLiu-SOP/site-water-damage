@@ -11,6 +11,7 @@ lng: -90.7500
 zipSample: ["70360", "70364"]
 zipCodes: ["70360", "70364"]
 localPaths: ["Terrebonne Parish / elevation 16 ft band", "Terrebonne Parish / ZIP 70364 sector", "Terrebonne Parish / coords 29.6200, -90.7500", "Terrebonne Parish / ZIP 70360 sector", "Terrebonne Parish / primary ZIP 70360"]
+zillowHomeValueUsd: 263218
 ---
 
 **Engineering Notice for Bayou Cane:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Terrebonne Parish.

@@ -12,6 +12,7 @@ lng: -94.0000
 zipSample: ["64644"]
 zipCodes: ["64644"]
 localPaths: ["Caldwell County / ZIP 64644 sector", "Caldwell County / coords 39.7400, -94.0000", "Caldwell County / primary ZIP 64644", "Caldwell County / elevation 1004 ft band"]
+zillowHomeValueUsd: 232485
 ---
 
 **Engineering Notice for Hamilton:** Structural integrity verification: Vinyl Panels calibrated for 95 mph localized wind load factor. Coordinates: 39.7400, -94.0000. Regional dispatch grid: Caldwell County.

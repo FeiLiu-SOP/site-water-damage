@@ -12,6 +12,7 @@ lng: -80.2900
 zipSample: ["33330", "33328", "33024", "33026"]
 zipCodes: ["33330", "33328", "33026", "33024"]
 localPaths: ["Broward County / ZIP 33024 sector", "Broward County / coords 26.0500, -80.2900", "Broward County / ZIP 33328 sector", "Broward County / elevation 23 ft band", "Broward County / primary ZIP 33024"]
+zillowHomeValueUsd: 465811
 ---
 
 **Engineering Notice for Cooper City:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Broward County.

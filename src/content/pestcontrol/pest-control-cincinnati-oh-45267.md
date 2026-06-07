@@ -11,6 +11,7 @@ lng: -84.5100
 zipSample: ["45219", "45263", "45201", "45220", "45216"]
 zipCodes: ["45221", "45206", "45262", "45227", "45208", "45268", "45201", "45204", "45299", "45207", "45217", "45226"]
 localPaths: ["Hamilton County / ZIP 45219 sector", "Hamilton County / coords 39.1400, -84.5100", "Hamilton County / ZIP 45220 sector", "Hamilton County / ZIP 45216 sector", "Hamilton County / elevation 748 ft band"]
+zillowHomeValueUsd: 219438
 ---
 
 **Engineering Notice for Cincinnati:** Structural loading calculated based on 748 ft terrain assessment. Regional dispatch grid: Hamilton County.

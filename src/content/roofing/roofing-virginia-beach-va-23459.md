@@ -11,6 +11,7 @@ lng: -76.0400
 zipSample: ["23450", "23455", "23467", "23461", "23462"]
 zipCodes: ["23450", "23452", "23463", "23457", "23479", "23464", "23467", "23453", "23459", "23465", "23455", "23458"]
 localPaths: ["Virginia Beach County / ZIP 23462 sector", "Virginia Beach County / primary ZIP 23459", "Virginia Beach County / coords 36.7300, -76.0400", "Virginia Beach County / ZIP 23455 sector", "Virginia Beach County / ZIP 23461 sector"]
+zillowHomeValueUsd: 409298
 ---
 
 **Engineering Notice for Virginia Beach:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Virginia Beach County.

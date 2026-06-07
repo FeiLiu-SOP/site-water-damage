@@ -12,6 +12,7 @@ lng: -111.9800
 zipSample: ["86046", "86018"]
 zipCodes: ["86046", "86018"]
 localPaths: ["Coconino County / primary ZIP 86046", "Coconino County / elevation 7323 ft band", "Coconino County / coords 35.2900, -111.9800", "Coconino County / ZIP 86018 sector", "Coconino County / ZIP 86046 sector"]
+zillowHomeValueUsd: 437861
 ---
 
 **Engineering Notice for Parks:** Envelope check: Weather Barrier Wrap assigned to wind-load band B with stress factor 0.71. Elevation: 7323 ft AMSL. Regional dispatch grid: Coconino County.

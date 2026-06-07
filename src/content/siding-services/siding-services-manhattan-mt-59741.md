@@ -12,6 +12,7 @@ lng: -111.3300
 zipSample: ["59741"]
 zipCodes: ["59741"]
 localPaths: ["Gallatin County / elevation 4232 ft band", "Gallatin County / ZIP 59741 sector", "Gallatin County / coords 45.8600, -111.3300", "Gallatin County / primary ZIP 59741"]
+zillowHomeValueUsd: 661805
 ---
 
 **Engineering Notice for Manhattan:** Structural integrity verification: Wall Restoration calibrated for 107 mph localized wind load factor. Coordinates: 45.8600, -111.3300. Regional dispatch grid: Gallatin County.

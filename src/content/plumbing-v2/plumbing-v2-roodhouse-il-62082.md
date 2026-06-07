@@ -12,6 +12,7 @@ lng: -90.3700
 zipSample: ["62082"]
 zipCodes: ["62082"]
 localPaths: ["Greene County / ZIP 62082 sector", "Greene County / coords 39.4800, -90.3700", "Greene County / elevation 663 ft band", "Greene County / primary ZIP 62082"]
+zillowHomeValueUsd: 76604
 ---
 
 **Engineering Notice for Roodhouse:** System optimized for 176 mg/L hard water scaling factors in Roodhouse. Regional dispatch grid: Greene County.

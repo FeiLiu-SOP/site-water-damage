@@ -12,6 +12,7 @@ lng: -95.4700
 zipSample: ["51445"]
 zipCodes: ["51445"]
 localPaths: ["Ida County / elevation 1230 ft band", "Ida County / coords 42.3400, -95.4700", "Ida County / ZIP 51445 sector", "Ida County / primary ZIP 51445"]
+zillowHomeValueUsd: 150024
 ---
 
 **Engineering Notice for Ida Grove:** structural drying capacity optimized for 1230ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ida County. Relative Humidity Threshold: 67%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -73.2000
 zipSample: ["06798"]
 zipCodes: ["06798"]
 localPaths: ["Naugatuck Valley County / elevation 469 ft band", "Naugatuck Valley County / primary ZIP 06798", "Naugatuck Valley County / ZIP 06798 sector", "Naugatuck Valley County / coords 41.5400, -73.2000"]
+zillowHomeValueUsd: 521918
 ---
 
 **Engineering Notice for Woodbury Center:** System optimized for 146 mg/L hard water scaling factors in Woodbury Center. Regional dispatch grid: Naugatuck Valley County.

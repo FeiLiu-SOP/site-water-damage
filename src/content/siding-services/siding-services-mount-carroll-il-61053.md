@@ -12,6 +12,7 @@ lng: -89.9800
 zipSample: ["61053"]
 zipCodes: ["61053"]
 localPaths: ["Carroll County / ZIP 61053 sector", "Carroll County / elevation 807 ft band", "Carroll County / coords 42.0900, -89.9800", "Carroll County / primary ZIP 61053"]
+zillowHomeValueUsd: 146939
 ---
 
 **Engineering Notice for Mount Carroll:** Cladding verification uses 91 mph routing baseline; lateral pressure note: 12.1 psf. Elevation: 807 ft AMSL. Grid: Carroll County.

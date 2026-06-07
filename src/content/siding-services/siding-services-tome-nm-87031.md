@@ -12,6 +12,7 @@ lng: -106.7300
 zipSample: ["87031", "87060"]
 zipCodes: ["87060", "87031"]
 localPaths: ["Valencia County / ZIP 87060 sector", "Valencia County / elevation 4823 ft band", "Valencia County / primary ZIP 87031", "Valencia County / coords 34.7400, -106.7300", "Valencia County / ZIP 87031 sector"]
+zillowHomeValueUsd: 323916
 ---
 
 **Engineering Notice for Tome:** Cladding verification uses 104 mph routing baseline; lateral pressure note: 13.7 psf. Grid: Valencia County.

@@ -12,6 +12,7 @@ lng: -79.0400
 zipSample: ["21562"]
 zipCodes: ["21562"]
 localPaths: ["Allegany County / elevation 961 ft band", "Allegany County / ZIP 21562 sector", "Allegany County / coords 39.4900, -79.0400", "Allegany County / primary ZIP 21562"]
+zillowHomeValueUsd: 84186
 ---
 
 **Engineering Notice for Westernport:** Site context locked to Allegany County. Elevation: 961 ft AMSL. Coordinates: 39.4900, -79.0400. Exterior Envelope integrity verification recorded.

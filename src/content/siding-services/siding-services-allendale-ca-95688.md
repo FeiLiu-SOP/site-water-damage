@@ -12,6 +12,7 @@ lng: -121.9800
 zipSample: ["95688"]
 zipCodes: ["95688"]
 localPaths: ["Solano County / elevation 197 ft band", "Solano County / ZIP 95688 sector", "Solano County / primary ZIP 95688", "Solano County / coords 38.4400, -121.9800"]
+zillowHomeValueUsd: 663284
 ---
 
 **Engineering Notice for Allendale:** Cladding verification uses 140 mph routing baseline; lateral pressure note: 18.0 psf. Grid: Solano County.

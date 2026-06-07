@@ -12,6 +12,7 @@ lng: -87.3100
 zipSample: ["37098"]
 zipCodes: ["37098"]
 localPaths: ["Hickman County / elevation 922 ft band", "Hickman County / primary ZIP 37098", "Hickman County / ZIP 37098 sector", "Hickman County / coords 35.9300, -87.3100"]
+zillowHomeValueUsd: 265197
 ---
 
 **Engineering Notice for Bon Aqua Junction:** Envelope check: Cladding Retrofit assigned to wind-load band A with stress factor 1.20. Regional dispatch grid: Hickman County.

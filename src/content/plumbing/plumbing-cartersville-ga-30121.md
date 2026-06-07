@@ -12,6 +12,7 @@ lng: -84.8000
 zipSample: ["30121", "30120"]
 zipCodes: ["30121", "30120"]
 localPaths: ["Bartow County / coords 34.1600, -84.8000", "Bartow County / ZIP 30120 sector", "Bartow County / elevation 771 ft band", "Bartow County / primary ZIP 30121", "Bartow County / ZIP 30121 sector"]
+zillowHomeValueUsd: 314439
 ---
 
 **Engineering Notice for Cartersville:** Structural loading calculated based on 771 ft terrain assessment. Regional dispatch grid: Bartow County.

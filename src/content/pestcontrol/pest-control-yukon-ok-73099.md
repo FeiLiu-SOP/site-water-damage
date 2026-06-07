@@ -11,6 +11,7 @@ lng: -97.7600
 zipSample: ["73099", "73085"]
 zipCodes: ["73099", "73085"]
 localPaths: ["Canadian County / elevation 1286 ft band", "Canadian County / ZIP 73099 sector", "Canadian County / primary ZIP 73099", "Canadian County / ZIP 73085 sector", "Canadian County / coords 35.5200, -97.7600"]
+zillowHomeValueUsd: 273393
 ---
 
 **Engineering Notice for Yukon:** Structural loading calculated based on 1286 ft terrain assessment. Regional dispatch grid: Canadian County.

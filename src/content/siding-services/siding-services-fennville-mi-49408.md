@@ -12,6 +12,7 @@ lng: -86.1100
 zipSample: ["49408"]
 zipCodes: ["49408"]
 localPaths: ["Allegan County / coords 42.5900, -86.1100", "Allegan County / ZIP 49408 sector", "Allegan County / elevation 673 ft band", "Allegan County / primary ZIP 49408"]
+zillowHomeValueUsd: 361431
 ---
 
 **Engineering Notice for Fennville:** Cladding Retrofit was validated under stress factor 1.23; target tolerance set near 109 mph. Coordinates: 42.5900, -86.1100. Grid anchor: Allegan County.

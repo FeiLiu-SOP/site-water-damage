@@ -12,6 +12,7 @@ lng: -88.8300
 zipSample: ["39760", "39759"]
 zipCodes: ["39759", "39760"]
 localPaths: ["Oktibbeha County / ZIP 39760 sector", "Oktibbeha County / elevation 364 ft band", "Oktibbeha County / coords 33.4600, -88.8300", "Oktibbeha County / ZIP 39759 sector", "Oktibbeha County / primary ZIP 39759"]
+zillowHomeValueUsd: 282349
 ---
 
 **Engineering Notice for Starkville:** Structural loading calculated based on 364 ft terrain assessment. Regional dispatch grid: Oktibbeha County.

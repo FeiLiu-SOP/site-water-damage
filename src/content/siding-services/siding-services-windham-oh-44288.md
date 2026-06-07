@@ -12,6 +12,7 @@ lng: -81.0400
 zipSample: ["44288"]
 zipCodes: ["44288"]
 localPaths: ["Portage County / elevation 961 ft band", "Portage County / ZIP 44288 sector", "Portage County / coords 41.2400, -81.0400", "Portage County / primary ZIP 44288"]
+zillowHomeValueUsd: 187142
 ---
 
 **Engineering Notice for Windham:** Envelope check: Surface Sheathing assigned to wind-load band A with stress factor 0.97. Elevation: 961 ft AMSL. Regional dispatch grid: Portage County.

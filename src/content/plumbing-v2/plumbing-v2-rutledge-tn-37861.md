@@ -12,6 +12,7 @@ lng: -83.5300
 zipSample: ["37861"]
 zipCodes: ["37861"]
 localPaths: ["Grainger County / ZIP 37861 sector", "Grainger County / coords 36.2800, -83.5300", "Grainger County / primary ZIP 37861", "Grainger County / elevation 991 ft band"]
+zillowHomeValueUsd: 287385
 ---
 
 **Engineering Notice for Rutledge:** System optimized for 179 mg/L hard water scaling factors in Rutledge. Regional dispatch grid: Grainger County.

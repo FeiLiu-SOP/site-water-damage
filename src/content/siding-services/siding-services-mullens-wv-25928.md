@@ -12,6 +12,7 @@ lng: -81.3900
 zipSample: ["25882", "25928"]
 zipCodes: ["25882", "25928"]
 localPaths: ["Wyoming County / coords 37.5800, -81.3900", "Wyoming County / elevation 1604 ft band", "Wyoming County / ZIP 25928 sector", "Wyoming County / ZIP 25882 sector", "Wyoming County / primary ZIP 25928"]
+zillowHomeValueUsd: 59067
 ---
 
 **Engineering Notice for Mullens:** Structural integrity verification: Cladding Service calibrated for 102 mph localized wind load factor. Coordinates: 37.5800, -81.3900. Regional dispatch grid: Wyoming County.

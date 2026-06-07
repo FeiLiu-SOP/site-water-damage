@@ -12,6 +12,7 @@ lng: -76.0800
 zipSample: ["17517"]
 zipCodes: ["17517"]
 localPaths: ["Lancaster County / primary ZIP 17517", "Lancaster County / ZIP 17517 sector", "Lancaster County / elevation 528 ft band", "Lancaster County / coords 40.2300, -76.0800"]
+zillowHomeValueUsd: 386369
 ---
 
 **Engineering Notice for Swartzville:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Elevation: 528 ft AMSL. Coordinates: 40.2300, -76.0800. Grid: Lancaster County.

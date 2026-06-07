@@ -12,6 +12,7 @@ lng: -94.6800
 zipSample: ["50058"]
 zipCodes: ["50058"]
 localPaths: ["Carroll County / primary ZIP 50058", "Carroll County / ZIP 50058 sector", "Carroll County / coords 41.8700, -94.6800", "Carroll County / elevation 1191 ft band"]
+zillowHomeValueUsd: 173910
 ---
 
 **Engineering Notice for Coon Rapids:** Site context locked to Carroll County. Coordinates: 41.8700, -94.6800. Wall Restoration integrity verification recorded.

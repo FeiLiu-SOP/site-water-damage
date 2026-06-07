@@ -11,6 +11,7 @@ lng: -76.9100
 zipSample: ["20735"]
 zipCodes: ["20735"]
 localPaths: ["Prince George's County / primary ZIP 20735", "Prince George's County / ZIP 20735 sector", "Prince George's County / coords 38.7500, -76.9100", "Prince George's County / elevation 213 ft band"]
+zillowHomeValueUsd: 439632
 ---
 
 **Engineering Notice for Clinton:** Structural loading calculated based on 213 ft terrain assessment. Regional dispatch grid: Prince George's County.

@@ -11,6 +11,7 @@ lng: -76.4200
 zipSample: ["17046", "17042"]
 zipCodes: ["17046", "17042"]
 localPaths: ["Lebanon County / elevation 463 ft band", "Lebanon County / coords 40.3400, -76.4200", "Lebanon County / primary ZIP 17046", "Lebanon County / ZIP 17046 sector", "Lebanon County / ZIP 17042 sector"]
+zillowHomeValueUsd: 258551
 ---
 
 **Engineering Notice for Lebanon:** Structural loading calculated based on 463 ft terrain assessment. Regional dispatch grid: Lebanon County.

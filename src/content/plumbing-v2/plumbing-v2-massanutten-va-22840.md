@@ -12,6 +12,7 @@ lng: -78.7300
 zipSample: ["22840"]
 zipCodes: ["22840"]
 localPaths: ["Rockingham County / primary ZIP 22840", "Rockingham County / ZIP 22840 sector", "Rockingham County / elevation 1470 ft band", "Rockingham County / coords 38.4100, -78.7300"]
+zillowHomeValueUsd: 426387
 ---
 
 **Engineering Notice for Massanutten:** System optimized for 172 mg/L hard water scaling factors in Massanutten. Regional dispatch grid: Rockingham County.

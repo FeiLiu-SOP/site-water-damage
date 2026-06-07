@@ -11,6 +11,7 @@ lng: -123.1900
 zipSample: ["97128"]
 zipCodes: ["97128"]
 localPaths: ["Yamhill County / coords 45.2100, -123.1900", "Yamhill County / ZIP 97128 sector", "Yamhill County / primary ZIP 97128", "Yamhill County / elevation 164 ft band"]
+zillowHomeValueUsd: 485295
 ---
 
 **Engineering Notice for McMinnville:** Structural loading calculated based on 164 ft terrain assessment. Regional dispatch grid: Yamhill County.

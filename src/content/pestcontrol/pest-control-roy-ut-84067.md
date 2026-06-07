@@ -11,6 +11,7 @@ lng: -112.0500
 zipSample: ["84067"]
 zipCodes: ["84067"]
 localPaths: ["Weber County / elevation 4383 ft band", "Weber County / ZIP 84067 sector", "Weber County / coords 41.1700, -112.0500", "Weber County / primary ZIP 84067"]
+zillowHomeValueUsd: 436583
 ---
 
 **Engineering Notice for Roy:** Structural loading calculated based on 4383 ft terrain assessment. Regional dispatch grid: Weber County.

@@ -12,6 +12,7 @@ lng: -82.7400
 zipSample: ["31634"]
 zipCodes: ["31634"]
 localPaths: ["Clinch County / elevation 190 ft band", "Clinch County / coords 31.0400, -82.7400", "Clinch County / primary ZIP 31634", "Clinch County / ZIP 31634 sector"]
+zillowHomeValueUsd: 128831
 ---
 
 **Engineering Notice for Homerville:** Site context locked to Clinch County. Elevation: 190 ft AMSL. Cladding Retrofit integrity verification recorded.

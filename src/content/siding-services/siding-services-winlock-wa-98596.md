@@ -12,6 +12,7 @@ lng: -122.9300
 zipSample: ["98596"]
 zipCodes: ["98596"]
 localPaths: ["Lewis County / coords 46.4900, -122.9300", "Lewis County / elevation 384 ft band", "Lewis County / ZIP 98596 sector", "Lewis County / primary ZIP 98596"]
+zillowHomeValueUsd: 454281
 ---
 
 **Engineering Notice for Winlock:** Cladding verification uses 96 mph routing baseline; lateral pressure note: 12.7 psf. Elevation: 384 ft AMSL. Coordinates: 46.4900, -122.9300. Grid: Lewis County.

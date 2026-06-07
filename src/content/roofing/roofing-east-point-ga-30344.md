@@ -11,6 +11,7 @@ lng: -84.4700
 zipSample: ["30344", "30364", "30385", "30349"]
 zipCodes: ["30364", "30385", "30344", "30349"]
 localPaths: ["Fulton County / ZIP 30385 sector", "Fulton County / primary ZIP 30344", "Fulton County / ZIP 30344 sector", "Fulton County / coords 33.6700, -84.4700", "Fulton County / ZIP 30364 sector"]
+zillowHomeValueUsd: 224705
 ---
 
 **Engineering Notice for East Point:** Structural loading calculated based on 1001 ft terrain assessment. Regional dispatch grid: Fulton County.

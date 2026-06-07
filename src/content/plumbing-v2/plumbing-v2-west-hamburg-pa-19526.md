@@ -12,6 +12,7 @@ lng: -76.0000
 zipSample: ["19526"]
 zipCodes: ["19526"]
 localPaths: ["Berks County / coords 40.5500, -76.0000", "Berks County / ZIP 19526 sector", "Berks County / primary ZIP 19526", "Berks County / elevation 505 ft band"]
+zillowHomeValueUsd: 295753
 ---
 
 **Engineering Notice for West Hamburg:** System optimized for 170 mg/L hard water scaling factors in West Hamburg. Regional dispatch grid: Berks County.

@@ -12,6 +12,7 @@ lng: -82.1600
 zipSample: ["30471"]
 zipCodes: ["30471"]
 localPaths: ["Emanuel County / coords 32.5800, -82.1600", "Emanuel County / ZIP 30471 sector", "Emanuel County / elevation 308 ft band", "Emanuel County / primary ZIP 30471"]
+zillowHomeValueUsd: 131019
 ---
 
 **Engineering Notice for Twin City:** structural drying capacity optimized for 308ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Emanuel County. Relative Humidity Threshold: 81%. Sensor sync: Active.

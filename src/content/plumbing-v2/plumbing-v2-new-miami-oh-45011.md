@@ -12,6 +12,7 @@ lng: -84.5400
 zipSample: ["45013", "45011"]
 zipCodes: ["45011", "45013"]
 localPaths: ["Butler County / ZIP 45013 sector", "Butler County / ZIP 45011 sector", "Butler County / elevation 594 ft band", "Butler County / primary ZIP 45011", "Butler County / coords 39.4300, -84.5400"]
+zillowHomeValueUsd: 367964
 ---
 
 **Engineering Notice for New Miami:** System optimized for 161 mg/L hard water scaling factors in New Miami. Regional dispatch grid: Butler County.

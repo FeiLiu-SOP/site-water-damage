@@ -12,6 +12,7 @@ lng: -81.6300
 zipSample: ["25304", "25350", "25334", "25330", "25326"]
 zipCodes: ["25324", "25322", "25337", "25334", "25396", "25302", "25375", "25314", "25328", "25321", "25304", "25331"]
 localPaths: ["Kanawha County / ZIP 25304 sector", "Kanawha County / primary ZIP 25387", "Kanawha County / ZIP 25334 sector", "Kanawha County / coords 38.3500, -81.6300", "Kanawha County / elevation 617 ft band"]
+zillowHomeValueUsd: 57442
 ---
 
 **Engineering Notice for Charleston:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: Kanawha County.

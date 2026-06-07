@@ -12,6 +12,7 @@ lng: -158.0700
 zipSample: ["96707"]
 zipCodes: ["96707"]
 localPaths: ["Honolulu County / ZIP 96707 sector", "Honolulu County / elevation 89 ft band", "Honolulu County / primary ZIP 96707", "Honolulu County / coords 21.3400, -158.0700"]
+zillowHomeValueUsd: 860458
 ---
 
 **Engineering Notice for Kapolei:** Structural loading calculated based on 89 ft terrain assessment. Regional dispatch grid: Honolulu County.

@@ -12,6 +12,7 @@ lng: -90.3300
 zipSample: ["63121", "63114", "63134"]
 zipCodes: ["63114", "63121", "63134"]
 localPaths: ["St. Louis County / ZIP 63114 sector", "St. Louis County / coords 38.7100, -90.3300", "St. Louis County / primary ZIP 63114", "St. Louis County / ZIP 63134 sector", "St. Louis County / ZIP 63121 sector"]
+zillowHomeValueUsd: 139452
 ---
 
 **Engineering Notice for Bel-Ridge:** Facade Renewal was validated under stress factor 0.98; target tolerance set near 104 mph. Coordinates: 38.7100, -90.3300. Grid anchor: St. Louis County.

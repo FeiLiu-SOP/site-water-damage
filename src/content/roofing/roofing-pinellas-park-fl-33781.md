@@ -11,6 +11,7 @@ lng: -82.7100
 zipSample: ["33782", "33762", "33773", "33760", "33780"]
 zipCodes: ["33781", "33773", "33762", "33760", "33780", "33782"]
 localPaths: ["Pinellas County / ZIP 33782 sector", "Pinellas County / primary ZIP 33781", "Pinellas County / coords 27.8600, -82.7100", "Pinellas County / ZIP 33780 sector", "Pinellas County / ZIP 33760 sector"]
+zillowHomeValueUsd: 300970
 ---
 
 **Engineering Notice for Pinellas Park:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Pinellas County.

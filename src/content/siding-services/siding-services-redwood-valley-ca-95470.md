@@ -12,6 +12,7 @@ lng: -123.2000
 zipSample: ["95470"]
 zipCodes: ["95470"]
 localPaths: ["Mendocino County / elevation 781 ft band", "Mendocino County / coords 39.2700, -123.2000", "Mendocino County / ZIP 95470 sector", "Mendocino County / primary ZIP 95470"]
+zillowHomeValueUsd: 538944
 ---
 
 **Engineering Notice for Redwood Valley:** Wall Restoration was validated under stress factor 0.71; target tolerance set near 148 mph. Coordinates: 39.2700, -123.2000. Grid anchor: Mendocino County.

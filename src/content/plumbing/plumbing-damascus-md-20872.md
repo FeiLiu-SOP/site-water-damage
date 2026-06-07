@@ -12,6 +12,7 @@ lng: -77.2000
 zipSample: ["20872", "20882"]
 zipCodes: ["20882", "20872"]
 localPaths: ["Montgomery County / ZIP 20872 sector", "Montgomery County / elevation 699 ft band", "Montgomery County / ZIP 20882 sector", "Montgomery County / coords 39.2700, -77.2000", "Montgomery County / primary ZIP 20872"]
+zillowHomeValueUsd: 550660
 ---
 
 **Engineering Notice for Damascus:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Montgomery County.

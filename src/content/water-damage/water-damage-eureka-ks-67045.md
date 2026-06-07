@@ -12,6 +12,7 @@ lng: -96.2900
 zipSample: ["67045"]
 zipCodes: ["67045"]
 localPaths: ["Greenwood County / primary ZIP 67045", "Greenwood County / ZIP 67045 sector", "Greenwood County / elevation 1096 ft band", "Greenwood County / coords 37.8300, -96.2900"]
+zillowHomeValueUsd: 100786
 ---
 
 **Engineering Notice for Eureka:** structural drying capacity optimized for 1096ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Greenwood County. Relative Humidity Threshold: 67%. Sensor sync: Active.

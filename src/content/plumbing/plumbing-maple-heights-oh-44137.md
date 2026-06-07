@@ -12,6 +12,7 @@ lng: -81.5600
 zipSample: ["44137"]
 zipCodes: ["44137"]
 localPaths: ["Cuyahoga County / coords 41.4100, -81.5600", "Cuyahoga County / elevation 932 ft band", "Cuyahoga County / ZIP 44137 sector", "Cuyahoga County / primary ZIP 44137"]
+zillowHomeValueUsd: 131594
 ---
 
 **Engineering Notice for Maple Heights:** Structural loading calculated based on 932 ft terrain assessment. Regional dispatch grid: Cuyahoga County.

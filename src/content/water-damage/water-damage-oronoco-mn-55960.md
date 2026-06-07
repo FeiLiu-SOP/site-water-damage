@@ -12,6 +12,7 @@ lng: -92.5400
 zipSample: ["55960"]
 zipCodes: ["55960"]
 localPaths: ["Olmsted County / ZIP 55960 sector", "Olmsted County / coords 44.1600, -92.5400", "Olmsted County / elevation 948 ft band", "Olmsted County / primary ZIP 55960"]
+zillowHomeValueUsd: 538578
 ---
 
 **Engineering Notice for Oronoco:** structural drying capacity optimized for 948ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Olmsted County. Relative Humidity Threshold: 73%. Sensor sync: Active.

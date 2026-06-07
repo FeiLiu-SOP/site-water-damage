@@ -12,6 +12,7 @@ lng: -79.6600
 zipSample: ["15668", "15632", "15626"]
 zipCodes: ["15626", "15632", "15668"]
 localPaths: ["Westmoreland County / primary ZIP 15668", "Westmoreland County / ZIP 15626 sector", "Westmoreland County / ZIP 15632 sector", "Westmoreland County / elevation 1230 ft band", "Westmoreland County / coords 40.4500, -79.6600"]
+zillowHomeValueUsd: 348056
 ---
 
 **Engineering Notice for Murrysville:** Structural loading calculated based on 1230 ft terrain assessment. Regional dispatch grid: Westmoreland County.

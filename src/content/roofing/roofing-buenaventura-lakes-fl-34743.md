@@ -11,6 +11,7 @@ lng: -81.3500
 zipSample: ["34743"]
 zipCodes: ["34743"]
 localPaths: ["Osceola County / primary ZIP 34743", "Osceola County / elevation 89 ft band", "Osceola County / ZIP 34743 sector", "Osceola County / coords 28.3300, -81.3500"]
+zillowHomeValueUsd: 339237
 ---
 
 **Engineering Notice for Buenaventura Lakes:** Structural loading calculated based on 89 ft terrain assessment. Regional dispatch grid: Osceola County.

@@ -12,6 +12,7 @@ lng: -87.5800
 zipSample: ["47725"]
 zipCodes: ["47725"]
 localPaths: ["Vanderburgh County / ZIP 47725 sector", "Vanderburgh County / elevation 463 ft band", "Vanderburgh County / coords 38.0900, -87.5800", "Vanderburgh County / primary ZIP 47725"]
+zillowHomeValueUsd: 323460
 ---
 
 **Engineering Notice for Darmstadt:** System optimized for 159 mg/L hard water scaling factors in Darmstadt. Regional dispatch grid: Vanderburgh County.

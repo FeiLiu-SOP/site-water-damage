@@ -12,6 +12,7 @@ lng: -85.3300
 zipSample: ["37377"]
 zipCodes: ["37377"]
 localPaths: ["Hamilton County / ZIP 37377 sector", "Hamilton County / elevation 1939 ft band", "Hamilton County / coords 35.1900, -85.3300", "Hamilton County / primary ZIP 37377"]
+zillowHomeValueUsd: 628073
 ---
 
 **Engineering Notice for Fairmount:** System optimized for 150 mg/L hard water scaling factors in Fairmount. Regional dispatch grid: Hamilton County.

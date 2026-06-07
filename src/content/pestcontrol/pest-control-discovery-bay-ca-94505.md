@@ -11,6 +11,7 @@ lng: -121.6000
 zipSample: ["94505"]
 zipCodes: ["94505"]
 localPaths: ["Contra Costa County / ZIP 94505 sector", "Contra Costa County / elevation 10 ft band", "Contra Costa County / primary ZIP 94505", "Contra Costa County / coords 37.9100, -121.6000"]
+zillowHomeValueUsd: 795005
 ---
 
 **Engineering Notice for Discovery Bay:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Contra Costa County.

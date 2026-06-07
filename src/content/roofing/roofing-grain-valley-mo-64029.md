@@ -11,6 +11,7 @@ lng: -94.2100
 zipSample: ["64029"]
 zipCodes: ["64029"]
 localPaths: ["Jackson County / elevation 830 ft band", "Jackson County / ZIP 64029 sector", "Jackson County / coords 39.0200, -94.2100", "Jackson County / primary ZIP 64029"]
+zillowHomeValueUsd: 329041
 ---
 
 **Engineering Notice for Grain Valley:** Structural loading calculated based on 830 ft terrain assessment. Regional dispatch grid: Jackson County.

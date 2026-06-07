@@ -11,6 +11,7 @@ lng: -80.0700
 zipSample: ["29456", "29420", "29418", "29404", "29406"]
 zipCodes: ["29420", "29485", "29419", "29416", "29404", "29423", "29418", "29405", "29406", "29456"]
 localPaths: ["Charleston County / ZIP 29456 sector", "Charleston County / ZIP 29404 sector", "Charleston County / ZIP 29406 sector", "Charleston County / coords 32.9100, -80.0700", "Charleston County / primary ZIP 29420"]
+zillowHomeValueUsd: 331665
 ---
 
 **Engineering Notice for North Charleston:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Charleston County.

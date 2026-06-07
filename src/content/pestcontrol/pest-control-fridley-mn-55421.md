@@ -11,6 +11,7 @@ lng: -93.2600
 zipSample: ["55421", "55432"]
 zipCodes: ["55421", "55432"]
 localPaths: ["Anoka County / elevation 843 ft band", "Anoka County / ZIP 55421 sector", "Anoka County / ZIP 55432 sector", "Anoka County / coords 45.0800, -93.2600", "Anoka County / primary ZIP 55421"]
+zillowHomeValueUsd: 297842
 ---
 
 **Engineering Notice for Fridley:** Structural loading calculated based on 843 ft terrain assessment. Regional dispatch grid: Anoka County.

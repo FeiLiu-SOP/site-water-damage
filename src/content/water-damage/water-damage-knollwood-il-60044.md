@@ -12,6 +12,7 @@ lng: -87.8800
 zipSample: ["60044"]
 zipCodes: ["60044"]
 localPaths: ["Lake County / ZIP 60044 sector", "Lake County / coords 42.2800, -87.8800", "Lake County / elevation 699 ft band", "Lake County / primary ZIP 60044"]
+zillowHomeValueUsd: 632282
 ---
 
 **Engineering Notice for Knollwood:** structural drying capacity optimized for 699ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lake County. Relative Humidity Threshold: 85%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -97.5400
 zipSample: ["67030"]
 zipCodes: ["67030"]
 localPaths: ["Sedgwick County / primary ZIP 67030", "Sedgwick County / elevation 1404 ft band", "Sedgwick County / ZIP 67030 sector", "Sedgwick County / coords 37.7800, -97.5400"]
+zillowHomeValueUsd: 308714
 ---
 
 **Engineering Notice for Colwich:** Site context locked to Sedgwick County. Elevation: 1404 ft AMSL. Coordinates: 37.7800, -97.5400. Wall Restoration integrity verification recorded.

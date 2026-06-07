@@ -12,6 +12,7 @@ lng: -78.8500
 zipSample: ["22980"]
 zipCodes: ["22980"]
 localPaths: ["Augusta County / elevation 1332 ft band", "Augusta County / ZIP 22980 sector", "Augusta County / coords 38.1000, -78.8500", "Augusta County / primary ZIP 22980"]
+zillowHomeValueUsd: 313609
 ---
 
 **Engineering Notice for Dooms:** Site context locked to Augusta County. Weather Barrier Wrap integrity verification recorded.

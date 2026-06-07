@@ -11,6 +11,7 @@ lng: -120.3300
 zipSample: ["98801"]
 zipCodes: ["98801"]
 localPaths: ["Chelan County / elevation 702 ft band", "Chelan County / primary ZIP 98801", "Chelan County / coords 47.4400, -120.3300", "Chelan County / ZIP 98801 sector"]
+zillowHomeValueUsd: 490443
 ---
 
 **Engineering Notice for Wenatchee:** Structural loading calculated based on 702 ft terrain assessment. Regional dispatch grid: Chelan County.

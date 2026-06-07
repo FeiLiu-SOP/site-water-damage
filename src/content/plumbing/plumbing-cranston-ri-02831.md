@@ -12,6 +12,7 @@ lng: -71.4900
 zipSample: ["02823", "02905", "02921", "02910", "02831"]
 zipCodes: ["02920", "02823", "02910", "02831", "02905", "02921"]
 localPaths: ["Providence County / ZIP 02910 sector", "Providence County / primary ZIP 02831", "Providence County / coords 41.7700, -71.4900", "Providence County / elevation 157 ft band", "Providence County / ZIP 02831 sector"]
+zillowHomeValueUsd: 571649
 ---
 
 **Engineering Notice for Cranston:** Structural loading calculated based on 157 ft terrain assessment. Regional dispatch grid: Providence County.

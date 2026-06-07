@@ -12,6 +12,7 @@ lng: -118.0600
 zipSample: ["91780"]
 zipCodes: ["91780"]
 localPaths: ["Los Angeles County / elevation 387 ft band", "Los Angeles County / ZIP 91780 sector", "Los Angeles County / coords 34.1000, -118.0600", "Los Angeles County / primary ZIP 91780"]
+zillowHomeValueUsd: 1105329
 ---
 
 **Engineering Notice for Temple City:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Los Angeles County.

@@ -12,6 +12,7 @@ lng: -84.5200
 zipSample: ["31803"]
 zipCodes: ["31803"]
 localPaths: ["Marion County / elevation 712 ft band", "Marion County / primary ZIP 31803", "Marion County / ZIP 31803 sector", "Marion County / coords 32.3200, -84.5200"]
+zillowHomeValueUsd: 177786
 ---
 
 **Engineering Notice for Buena Vista:** Structural integrity verification: Exterior Envelope calibrated for 100 mph localized wind load factor. Elevation: 712 ft AMSL. Regional dispatch grid: Marion County.

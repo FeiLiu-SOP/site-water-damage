@@ -12,6 +12,7 @@ lng: -90.8600
 zipSample: ["54667"]
 zipCodes: ["54667"]
 localPaths: ["Vernon County / coords 43.6500, -90.8600", "Vernon County / ZIP 54667 sector", "Vernon County / primary ZIP 54667", "Vernon County / elevation 1299 ft band"]
+zillowHomeValueUsd: 271414
 ---
 
 **Engineering Notice for Westby:** System optimized for 174 mg/L hard water scaling factors in Westby. Regional dispatch grid: Vernon County.

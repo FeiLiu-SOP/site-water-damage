@@ -12,6 +12,7 @@ lng: -120.3500
 zipSample: ["95223"]
 zipCodes: ["95223"]
 localPaths: ["Calaveras County / ZIP 95223 sector", "Calaveras County / primary ZIP 95223", "Calaveras County / elevation 4199 ft band", "Calaveras County / coords 38.2500, -120.3500"]
+zillowHomeValueUsd: 421026
 ---
 
 **Engineering Notice for Arnold:** Structural integrity verification: Exterior Cladding calibrated for 130 mph localized wind load factor. Elevation: 4199 ft AMSL. Regional dispatch grid: Calaveras County.

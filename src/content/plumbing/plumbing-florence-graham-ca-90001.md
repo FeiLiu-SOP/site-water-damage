@@ -12,6 +12,7 @@ lng: -118.2400
 zipSample: ["90001", "90002"]
 zipCodes: ["90002", "90001"]
 localPaths: ["Los Angeles County / coords 33.9700, -118.2400", "Los Angeles County / ZIP 90002 sector", "Los Angeles County / primary ZIP 90001", "Los Angeles County / elevation 151 ft band", "Los Angeles County / ZIP 90001 sector"]
+zillowHomeValueUsd: 588288
 ---
 
 **Engineering Notice for Florence-Graham:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: Los Angeles County.

@@ -11,6 +11,7 @@ lng: -96.8500
 zipSample: ["66441"]
 zipCodes: ["66441"]
 localPaths: ["Geary County / coords 39.0300, -96.8500", "Geary County / primary ZIP 66441", "Geary County / elevation 1188 ft band", "Geary County / ZIP 66441 sector"]
+zillowHomeValueUsd: 207596
 ---
 
 **Engineering Notice for Junction City:** Structural loading calculated based on 1188 ft terrain assessment. Regional dispatch grid: Geary County.

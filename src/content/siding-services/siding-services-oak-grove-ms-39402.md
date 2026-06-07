@@ -12,6 +12,7 @@ lng: -89.4100
 zipSample: ["39402"]
 zipCodes: ["39402"]
 localPaths: ["Lamar County / coords 31.2900, -89.4100", "Lamar County / primary ZIP 39402", "Lamar County / elevation 410 ft band", "Lamar County / ZIP 39402 sector"]
+zillowHomeValueUsd: 276475
 ---
 
 **Engineering Notice for Oak Grove:** Envelope check: Cladding Service assigned to wind-load band C with stress factor 0.83. Elevation: 410 ft AMSL. Regional dispatch grid: Lamar County.

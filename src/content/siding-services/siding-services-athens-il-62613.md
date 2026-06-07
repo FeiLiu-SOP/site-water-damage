@@ -12,6 +12,7 @@ lng: -89.7200
 zipSample: ["62613"]
 zipCodes: ["62613"]
 localPaths: ["Menard County / primary ZIP 62613", "Menard County / elevation 607 ft band", "Menard County / coords 39.9600, -89.7200", "Menard County / ZIP 62613 sector"]
+zillowHomeValueUsd: 214817
 ---
 
 **Engineering Notice for Athens:** Envelope check: Facade Renewal assigned to wind-load band B with stress factor 1.09. Elevation: 607 ft AMSL. Regional dispatch grid: Menard County.

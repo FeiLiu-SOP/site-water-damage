@@ -12,6 +12,7 @@ lng: -104.9800
 zipSample: ["80118"]
 zipCodes: ["80118"]
 localPaths: ["Douglas County / coords 39.2600, -104.9800", "Douglas County / ZIP 80118 sector", "Douglas County / elevation 6493 ft band", "Douglas County / primary ZIP 80118"]
+zillowHomeValueUsd: 951141
 ---
 
 **Engineering Notice for Perry Park:** System optimized for 132 mg/L hard water scaling factors in Perry Park. Regional dispatch grid: Douglas County.

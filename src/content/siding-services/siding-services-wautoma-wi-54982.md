@@ -12,6 +12,7 @@ lng: -89.2900
 zipSample: ["54982"]
 zipCodes: ["54982"]
 localPaths: ["Waushara County / primary ZIP 54982", "Waushara County / coords 44.0700, -89.2900", "Waushara County / elevation 869 ft band", "Waushara County / ZIP 54982 sector"]
+zillowHomeValueUsd: 286921
 ---
 
 **Engineering Notice for Wautoma:** Structural integrity verification: Vinyl Panels calibrated for 95 mph localized wind load factor. Coordinates: 44.0700, -89.2900. Regional dispatch grid: Waushara County.

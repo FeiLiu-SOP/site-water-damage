@@ -12,6 +12,7 @@ lng: -80.3200
 zipSample: ["33037"]
 zipCodes: ["33037"]
 localPaths: ["Monroe County / elevation 13 ft band", "Monroe County / ZIP 33037 sector", "Monroe County / coords 25.2600, -80.3200", "Monroe County / primary ZIP 33037"]
+zillowHomeValueUsd: 1082521
 ---
 
 **Engineering Notice for North Key Largo:** System optimized for 180 mg/L hard water scaling factors in North Key Largo. Regional dispatch grid: Monroe County.

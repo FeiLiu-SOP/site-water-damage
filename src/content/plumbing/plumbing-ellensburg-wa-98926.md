@@ -12,6 +12,7 @@ lng: -120.5500
 zipSample: ["98926"]
 zipCodes: ["98926"]
 localPaths: ["Kittitas County / coords 47.0000, -120.5500", "Kittitas County / ZIP 98926 sector", "Kittitas County / primary ZIP 98926", "Kittitas County / elevation 1562 ft band"]
+zillowHomeValueUsd: 458959
 ---
 
 **Engineering Notice for Ellensburg:** Structural loading calculated based on 1562 ft terrain assessment. Regional dispatch grid: Kittitas County.

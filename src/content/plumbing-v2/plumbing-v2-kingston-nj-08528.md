@@ -12,6 +12,8 @@ lng: -74.6100
 zipSample: ["08528", "08540"]
 zipCodes: ["08528", "08540"]
 localPaths: ["Somerset County / coords 40.3800, -74.6100", "Somerset County / primary ZIP 08528", "Somerset County / ZIP 08528 sector", "Somerset County / ZIP 08540 sector", "Somerset County / elevation 102 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 671523
 ---
 
 **Engineering Notice for Kingston:** System optimized for 169 mg/L hard water scaling factors in Kingston. Regional dispatch grid: Somerset County.

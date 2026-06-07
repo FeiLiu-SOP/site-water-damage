@@ -12,6 +12,7 @@ lng: -100.8400
 zipSample: ["67748"]
 zipCodes: ["67748"]
 localPaths: ["Logan County / ZIP 67748 sector", "Logan County / primary ZIP 67748", "Logan County / coords 39.1200, -100.8400", "Logan County / elevation 3068 ft band"]
+zillowHomeValueUsd: 165868
 ---
 
 **Engineering Notice for Oakley:** Cladding Service was validated under stress factor 0.72; target tolerance set near 98 mph. Grid anchor: Logan County.

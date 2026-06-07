@@ -12,6 +12,7 @@ lng: -90.5400
 zipSample: ["52748"]
 zipCodes: ["52748"]
 localPaths: ["Scott County / primary ZIP 52748", "Scott County / coords 41.7000, -90.5400", "Scott County / ZIP 52748 sector", "Scott County / elevation 768 ft band"]
+zillowHomeValueUsd: 347234
 ---
 
 **Engineering Notice for Park View:** System optimized for 144 mg/L hard water scaling factors in Park View. Regional dispatch grid: Scott County.

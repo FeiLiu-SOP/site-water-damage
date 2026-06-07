@@ -12,6 +12,7 @@ lng: -71.5600
 zipSample: ["01463"]
 zipCodes: ["01463"]
 localPaths: ["Middlesex County / ZIP 01463 sector", "Middlesex County / elevation 230 ft band", "Middlesex County / primary ZIP 01463", "Middlesex County / coords 42.6700, -71.5600"]
+zillowHomeValueUsd: 599909
 ---
 
 **Engineering Notice for East Pepperell:** System optimized for 167 mg/L hard water scaling factors in East Pepperell. Regional dispatch grid: Middlesex County.

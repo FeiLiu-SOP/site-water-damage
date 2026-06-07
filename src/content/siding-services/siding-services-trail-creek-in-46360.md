@@ -12,6 +12,7 @@ lng: -86.8600
 zipSample: ["46360"]
 zipCodes: ["46360"]
 localPaths: ["LaPorte County / coords 41.7000, -86.8600", "LaPorte County / elevation 643 ft band", "LaPorte County / ZIP 46360 sector", "LaPorte County / primary ZIP 46360"]
+zillowHomeValueUsd: 229486
 ---
 
 **Engineering Notice for Trail Creek:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Elevation: 643 ft AMSL. Grid: LaPorte County.

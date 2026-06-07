@@ -12,6 +12,7 @@ lng: -93.5700
 zipSample: ["55356"]
 zipCodes: ["55356"]
 localPaths: ["Hennepin County / coords 44.9800, -93.5700", "Hennepin County / elevation 961 ft band", "Hennepin County / primary ZIP 55356", "Hennepin County / ZIP 55356 sector"]
+zillowHomeValueUsd: 795591
 ---
 
 **Engineering Notice for Long Lake:** System optimized for 151 mg/L hard water scaling factors in Long Lake. Regional dispatch grid: Hennepin County.

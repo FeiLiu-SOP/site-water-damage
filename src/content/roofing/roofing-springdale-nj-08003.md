@@ -11,6 +11,7 @@ lng: -74.9700
 zipSample: ["08003"]
 zipCodes: ["08003"]
 localPaths: ["Camden County / ZIP 08003 sector", "Camden County / coords 39.8800, -74.9700", "Camden County / primary ZIP 08003", "Camden County / elevation 75 ft band"]
+zillowHomeValueUsd: 564428
 ---
 
 **Engineering Notice for Springdale:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Camden County.

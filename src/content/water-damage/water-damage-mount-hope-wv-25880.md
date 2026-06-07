@@ -12,6 +12,7 @@ lng: -81.1700
 zipSample: ["25888", "25880"]
 zipCodes: ["25888", "25880"]
 localPaths: ["Fayette County / ZIP 25880 sector", "Fayette County / elevation 1768 ft band", "Fayette County / ZIP 25888 sector", "Fayette County / primary ZIP 25880", "Fayette County / coords 37.9000, -81.1700"]
+zillowHomeValueUsd: 129370
 ---
 
 **Engineering Notice for Mount Hope:** structural drying capacity optimized for 1768ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fayette County. Relative Humidity Threshold: 81%. Sensor sync: Active.

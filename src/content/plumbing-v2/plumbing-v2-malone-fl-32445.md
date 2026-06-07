@@ -12,6 +12,7 @@ lng: -85.1600
 zipSample: ["32445"]
 zipCodes: ["32445"]
 localPaths: ["Jackson County / primary ZIP 32445", "Jackson County / elevation 161 ft band", "Jackson County / coords 30.9600, -85.1600", "Jackson County / ZIP 32445 sector"]
+zillowHomeValueUsd: 133012
 ---
 
 **Engineering Notice for Malone:** System optimized for 134 mg/L hard water scaling factors in Malone. Regional dispatch grid: Jackson County.

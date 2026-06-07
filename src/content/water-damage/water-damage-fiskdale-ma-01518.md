@@ -12,6 +12,7 @@ lng: -72.1100
 zipSample: ["01518", "01566"]
 zipCodes: ["01566", "01518"]
 localPaths: ["Worcester County / ZIP 01566 sector", "Worcester County / primary ZIP 01518", "Worcester County / ZIP 01518 sector", "Worcester County / elevation 807 ft band", "Worcester County / coords 42.1200, -72.1100"]
+zillowHomeValueUsd: 521144
 ---
 
 **Engineering Notice for Fiskdale:** structural drying capacity optimized for 807ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Worcester County. Relative Humidity Threshold: 75%. Sensor sync: Active.

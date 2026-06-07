@@ -12,6 +12,7 @@ lng: -91.6500
 zipSample: ["54728"]
 zipCodes: ["54728"]
 localPaths: ["Barron County / ZIP 54728 sector", "Barron County / elevation 1047 ft band", "Barron County / primary ZIP 54728", "Barron County / coords 45.3200, -91.6500"]
+zillowHomeValueUsd: 280773
 ---
 
 **Engineering Notice for Chetek:** Site context locked to Barron County. Elevation: 1047 ft AMSL. Coordinates: 45.3200, -91.6500. Exterior Envelope integrity verification recorded.

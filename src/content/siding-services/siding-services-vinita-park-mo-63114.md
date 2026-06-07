@@ -12,6 +12,7 @@ lng: -90.3400
 zipSample: ["63114", "63130"]
 zipCodes: ["63130", "63114"]
 localPaths: ["St. Louis County / elevation 607 ft band", "St. Louis County / ZIP 63130 sector", "St. Louis County / coords 38.6900, -90.3400", "St. Louis County / primary ZIP 63114", "St. Louis County / ZIP 63114 sector"]
+zillowHomeValueUsd: 139455
 ---
 
 **Engineering Notice for Vinita Park:** Site context locked to St. Louis County. Surface Sheathing integrity verification recorded.

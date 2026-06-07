@@ -12,6 +12,7 @@ lng: -84.7400
 zipSample: ["45813"]
 zipCodes: ["45813"]
 localPaths: ["Paulding County / elevation 738 ft band", "Paulding County / primary ZIP 45813", "Paulding County / ZIP 45813 sector", "Paulding County / coords 41.1800, -84.7400"]
+zillowHomeValueUsd: 170261
 ---
 
 **Engineering Notice for Antwerp:** structural drying capacity optimized for 738ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Paulding County. Relative Humidity Threshold: 82%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -88.0300
 zipSample: ["53213", "53222", "53225", "53226"]
 zipCodes: ["53226", "53225", "53222", "53213"]
 localPaths: ["Milwaukee County / ZIP 53213 sector", "Milwaukee County / primary ZIP 53213", "Milwaukee County / coords 43.0600, -88.0300", "Milwaukee County / elevation 686 ft band", "Milwaukee County / ZIP 53225 sector"]
+zillowHomeValueUsd: 424448
 ---
 
 **Engineering Notice for Wauwatosa:** Structural loading calculated based on 686 ft terrain assessment. Regional dispatch grid: Milwaukee County.

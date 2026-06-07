@@ -11,6 +11,7 @@ lng: -97.1800
 zipSample: ["76054", "76053"]
 zipCodes: ["76054", "76053"]
 localPaths: ["Tarrant County / elevation 591 ft band", "Tarrant County / ZIP 76054 sector", "Tarrant County / ZIP 76053 sector", "Tarrant County / coords 32.8400, -97.1800", "Tarrant County / primary ZIP 76054"]
+zillowHomeValueUsd: 420984
 ---
 
 **Engineering Notice for Hurst:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Tarrant County.

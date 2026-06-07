@@ -11,6 +11,7 @@ lng: -94.2700
 zipSample: ["64013", "64015", "64014"]
 zipCodes: ["64015", "64014", "64013"]
 localPaths: ["Jackson County / primary ZIP 64014", "Jackson County / ZIP 64013 sector", "Jackson County / elevation 919 ft band", "Jackson County / coords 39.0100, -94.2700", "Jackson County / ZIP 64015 sector"]
+zillowHomeValueUsd: 301826
 ---
 
 **Engineering Notice for Blue Springs:** Structural loading calculated based on 919 ft terrain assessment. Regional dispatch grid: Jackson County.

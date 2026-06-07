@@ -11,6 +11,7 @@ lng: -122.5300
 zipSample: ["98682"]
 zipCodes: ["98682"]
 localPaths: ["Clark County / primary ZIP 98682", "Clark County / ZIP 98682 sector", "Clark County / coords 45.6900, -122.5300", "Clark County / elevation 279 ft band"]
+zillowHomeValueUsd: 502148
 ---
 
 **Engineering Notice for Orchards:** Structural loading calculated based on 279 ft terrain assessment. Regional dispatch grid: Clark County.

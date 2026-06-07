@@ -12,6 +12,7 @@ lng: -77.5900
 zipSample: ["23238", "23255", "23288", "23229"]
 zipCodes: ["23288", "23229", "23255", "23238"]
 localPaths: ["Henrico County / ZIP 23229 sector", "Henrico County / ZIP 23288 sector", "Henrico County / coords 37.5900, -77.5900", "Henrico County / ZIP 23238 sector", "Henrico County / elevation 262 ft band"]
+zillowHomeValueUsd: 514451
 ---
 
 **Engineering Notice for Tuckahoe:** Structural loading calculated based on 262 ft terrain assessment. Regional dispatch grid: Henrico County.

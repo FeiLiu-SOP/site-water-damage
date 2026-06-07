@@ -12,6 +12,7 @@ lng: -81.7800
 zipSample: ["28679", "28692", "28698"]
 zipCodes: ["28698", "28692", "28679"]
 localPaths: ["Watauga County / coords 36.2800, -81.7800", "Watauga County / elevation 2838 ft band", "Watauga County / ZIP 28679 sector", "Watauga County / ZIP 28698 sector", "Watauga County / primary ZIP 28692"]
+zillowHomeValueUsd: 424321
 ---
 
 **Engineering Notice for Cove Creek:** System optimized for 147 mg/L hard water scaling factors in Cove Creek. Regional dispatch grid: Watauga County.

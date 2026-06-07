@@ -12,6 +12,7 @@ lng: -78.7300
 zipSample: ["22840"]
 zipCodes: ["22840"]
 localPaths: ["Rockingham County / primary ZIP 22840", "Rockingham County / elevation 1470 ft band", "Rockingham County / ZIP 22840 sector", "Rockingham County / coords 38.4100, -78.7300"]
+zillowHomeValueUsd: 426388
 ---
 
 **Engineering Notice for Massanutten:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 1.22. Regional dispatch grid: Rockingham County.

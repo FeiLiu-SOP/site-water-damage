@@ -12,6 +12,7 @@ lng: -81.8100
 zipSample: ["29829"]
 zipCodes: ["29829"]
 localPaths: ["Aiken County / primary ZIP 29829", "Aiken County / coords 33.5600, -81.8100", "Aiken County / ZIP 29829 sector", "Aiken County / elevation 240 ft band"]
+zillowHomeValueUsd: 278583
 ---
 
 **Engineering Notice for Graniteville:** structural drying capacity optimized for 240ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Aiken County. Relative Humidity Threshold: 74%. Sensor sync: Active.

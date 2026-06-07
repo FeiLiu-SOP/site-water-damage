@@ -11,6 +11,7 @@ lng: -97.0800
 zipSample: ["76040", "75261", "76039"]
 zipCodes: ["76039", "75261", "76040"]
 localPaths: ["Tarrant County / ZIP 75261 sector", "Tarrant County / ZIP 76039 sector", "Tarrant County / ZIP 76040 sector", "Tarrant County / coords 32.8500, -97.0800", "Tarrant County / primary ZIP 76040"]
+zillowHomeValueUsd: 357240
 ---
 
 **Engineering Notice for Euless:** Structural loading calculated based on 600 ft terrain assessment. Regional dispatch grid: Tarrant County.

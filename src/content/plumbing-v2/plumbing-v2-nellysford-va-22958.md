@@ -12,6 +12,7 @@ lng: -78.8800
 zipSample: ["22958"]
 zipCodes: ["22958"]
 localPaths: ["Nelson County / primary ZIP 22958", "Nelson County / ZIP 22958 sector", "Nelson County / elevation 1289 ft band", "Nelson County / coords 37.9100, -78.8800"]
+zillowHomeValueUsd: 571306
 ---
 
 **Engineering Notice for Nellysford:** System optimized for 160 mg/L hard water scaling factors in Nellysford. Regional dispatch grid: Nelson County.

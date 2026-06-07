@@ -12,6 +12,7 @@ lng: -90.7600
 zipSample: ["62353"]
 zipCodes: ["62353"]
 localPaths: ["Brown County / elevation 745 ft band", "Brown County / ZIP 62353 sector", "Brown County / primary ZIP 62353", "Brown County / coords 39.9900, -90.7600"]
+zillowHomeValueUsd: 152760
 ---
 
 **Engineering Notice for Mount Sterling:** Structural integrity verification: Weather Barrier Wrap calibrated for 102 mph localized wind load factor. Coordinates: 39.9900, -90.7600. Regional dispatch grid: Brown County.

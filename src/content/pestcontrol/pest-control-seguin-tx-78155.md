@@ -11,6 +11,7 @@ lng: -97.9700
 zipSample: ["78155", "78115", "78156"]
 zipCodes: ["78115", "78156", "78155"]
 localPaths: ["Guadalupe County / coords 29.5900, -97.9700", "Guadalupe County / ZIP 78155 sector", "Guadalupe County / ZIP 78156 sector", "Guadalupe County / elevation 571 ft band", "Guadalupe County / ZIP 78115 sector"]
+zillowHomeValueUsd: 272105
 ---
 
 **Engineering Notice for Seguin:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: Guadalupe County.

@@ -12,6 +12,7 @@ lng: -110.3400
 zipSample: ["85616"]
 zipCodes: ["85616"]
 localPaths: ["Cochise County / ZIP 85616 sector", "Cochise County / primary ZIP 85616", "Cochise County / elevation 4367 ft band", "Cochise County / coords 31.6300, -110.3400"]
+zillowHomeValueUsd: 218487
 ---
 
 **Engineering Notice for Huachuca City:** System optimized for 128 mg/L hard water scaling factors in Huachuca City. Regional dispatch grid: Cochise County.

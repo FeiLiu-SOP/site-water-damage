@@ -12,6 +12,7 @@ lng: -87.9100
 zipSample: ["62449"]
 zipCodes: ["62449"]
 localPaths: ["Crawford County / elevation 518 ft band", "Crawford County / ZIP 62449 sector", "Crawford County / coords 39.0000, -87.9100", "Crawford County / primary ZIP 62449"]
+zillowHomeValueUsd: 114954
 ---
 
 **Engineering Notice for Oblong:** System optimized for 140 mg/L hard water scaling factors in Oblong. Regional dispatch grid: Crawford County.

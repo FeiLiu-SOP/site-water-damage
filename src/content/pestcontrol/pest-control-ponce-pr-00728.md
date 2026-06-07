@@ -11,6 +11,8 @@ lng: -66.6200
 zipSample: ["00730", "00717", "00732", "00733", "00716"]
 zipCodes: ["00716", "00733", "00717", "00734", "00728", "00732", "00730"]
 localPaths: ["Ponce County / ZIP 00717 sector", "Ponce County / ZIP 00716 sector", "Ponce County / ZIP 00730 sector", "Ponce County / ZIP 00733 sector", "Ponce County / ZIP 00732 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 371212
 ---
 
 **Engineering Notice for Ponce:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Ponce County.

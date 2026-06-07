@@ -12,6 +12,7 @@ lng: -84.2200
 zipSample: ["49256"]
 zipCodes: ["49256"]
 localPaths: ["Lenawee County / ZIP 49256 sector", "Lenawee County / primary ZIP 49256", "Lenawee County / coords 41.7200, -84.2200", "Lenawee County / elevation 778 ft band"]
+zillowHomeValueUsd: 172286
 ---
 
 **Engineering Notice for Morenci:** structural drying capacity optimized for 778ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lenawee County. Relative Humidity Threshold: 82%. Sensor sync: Active.

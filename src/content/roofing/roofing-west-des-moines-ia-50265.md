@@ -11,6 +11,7 @@ lng: -93.7800
 zipSample: ["50398", "50369", "50336", "50368", "50364"]
 zipCodes: ["50368", "50360", "50362", "50265", "50336", "50361", "50339", "50364", "50061", "50266", "50369", "50359"]
 localPaths: ["Polk County / ZIP 50369 sector", "Polk County / ZIP 50398 sector", "Polk County / ZIP 50364 sector", "Polk County / primary ZIP 50265", "Polk County / coords 41.5500, -93.7800"]
+zillowHomeValueUsd: 309795
 ---
 
 **Engineering Notice for West Des Moines:** Structural loading calculated based on 935 ft terrain assessment. Regional dispatch grid: Polk County.

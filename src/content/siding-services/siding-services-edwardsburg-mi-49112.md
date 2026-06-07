@@ -12,6 +12,7 @@ lng: -86.0800
 zipSample: ["49112"]
 zipCodes: ["49112"]
 localPaths: ["Cass County / coords 41.8000, -86.0800", "Cass County / ZIP 49112 sector", "Cass County / primary ZIP 49112", "Cass County / elevation 843 ft band"]
+zillowHomeValueUsd: 300236
 ---
 
 **Engineering Notice for Edwardsburg:** Wall Restoration was validated under stress factor 0.87; target tolerance set near 91 mph. Coordinates: 41.8000, -86.0800. Grid anchor: Cass County.

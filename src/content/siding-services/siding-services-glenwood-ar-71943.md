@@ -12,6 +12,7 @@ lng: -93.5300
 zipSample: ["71943"]
 zipCodes: ["71943"]
 localPaths: ["Pike County / ZIP 71943 sector", "Pike County / coords 34.3300, -93.5300", "Pike County / elevation 600 ft band", "Pike County / primary ZIP 71943"]
+zillowHomeValueUsd: 196258
 ---
 
 **Engineering Notice for Glenwood:** Site context locked to Pike County. Coordinates: 34.3300, -93.5300. Vinyl Panels integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -159.4800
 zipSample: ["96722"]
 zipCodes: ["96722"]
 localPaths: ["Kauai County / ZIP 96722 sector", "Kauai County / primary ZIP 96722", "Kauai County / elevation 246 ft band", "Kauai County / coords 22.2200, -159.4800"]
+zillowHomeValueUsd: 1521013
 ---
 
 **Engineering Notice for Princeville:** Cladding verification uses 97 mph routing baseline; lateral pressure note: 12.8 psf. Elevation: 246 ft AMSL. Coordinates: 22.2200, -159.4800. Grid: Kauai County.

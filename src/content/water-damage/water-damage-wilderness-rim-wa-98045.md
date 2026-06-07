@@ -12,6 +12,7 @@ lng: -121.7700
 zipSample: ["98045"]
 zipCodes: ["98045"]
 localPaths: ["King County / coords 47.4500, -121.7700", "King County / primary ZIP 98045", "King County / ZIP 98045 sector", "King County / elevation 1063 ft band"]
+zillowHomeValueUsd: 1003663
 ---
 
 **Engineering Notice for Wilderness Rim:** structural drying capacity optimized for 1063ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: King County. Relative Humidity Threshold: 84%. Sensor sync: Active.

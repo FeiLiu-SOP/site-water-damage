@@ -11,6 +11,7 @@ lng: -71.0500
 zipSample: ["02149"]
 zipCodes: ["02149"]
 localPaths: ["Middlesex County / elevation 49 ft band", "Middlesex County / primary ZIP 02149", "Middlesex County / coords 42.4100, -71.0500", "Middlesex County / ZIP 02149 sector"]
+zillowHomeValueUsd: 639372
 ---
 
 **Engineering Notice for Everett:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Middlesex County.

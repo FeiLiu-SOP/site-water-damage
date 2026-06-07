@@ -11,6 +11,7 @@ lng: -82.0100
 zipSample: ["34484", "32163", "33514", "34785", "33585"]
 zipCodes: ["33585", "33514", "34484", "34785", "32163"]
 localPaths: ["Sumter County / elevation 75 ft band", "Sumter County / primary ZIP 33514", "Sumter County / ZIP 32163 sector", "Sumter County / coords 28.7800, -82.0100", "Sumter County / ZIP 33514 sector"]
+zillowHomeValueUsd: 293106
 ---
 
 **Engineering Notice for Wildwood:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Sumter County.

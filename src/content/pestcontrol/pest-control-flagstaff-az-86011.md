@@ -11,6 +11,7 @@ lng: -111.6200
 zipSample: ["86002", "86001", "86005", "86011", "86004"]
 zipCodes: ["86005", "86004", "86001", "86002", "86011"]
 localPaths: ["Coconino County / ZIP 86002 sector", "Coconino County / elevation 6837 ft band", "Coconino County / primary ZIP 86011", "Coconino County / ZIP 86005 sector", "Coconino County / coords 35.1900, -111.6200"]
+zillowHomeValueUsd: 666909
 ---
 
 **Engineering Notice for Flagstaff:** Structural loading calculated based on 6837 ft terrain assessment. Regional dispatch grid: Coconino County.

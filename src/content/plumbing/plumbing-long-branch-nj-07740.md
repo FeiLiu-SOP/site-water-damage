@@ -12,6 +12,7 @@ lng: -73.9900
 zipSample: ["07740"]
 zipCodes: ["07740"]
 localPaths: ["Monmouth County / ZIP 07740 sector", "Monmouth County / coords 40.3000, -73.9900", "Monmouth County / primary ZIP 07740", "Monmouth County / elevation 33 ft band"]
+zillowHomeValueUsd: 794636
 ---
 
 **Engineering Notice for Long Branch:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Monmouth County.

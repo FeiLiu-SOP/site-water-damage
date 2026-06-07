@@ -12,6 +12,7 @@ lng: -88.6900
 zipSample: ["39302", "39307", "39304", "39305", "39301"]
 zipCodes: ["39304", "39303", "39305", "39307", "39302", "39301"]
 localPaths: ["Lauderdale County / ZIP 39304 sector", "Lauderdale County / coords 32.3800, -88.6900", "Lauderdale County / ZIP 39302 sector", "Lauderdale County / ZIP 39301 sector", "Lauderdale County / elevation 420 ft band"]
+zillowHomeValueUsd: 63420
 ---
 
 **Engineering Notice for Meridian:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: Lauderdale County.

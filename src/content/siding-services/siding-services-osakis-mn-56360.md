@@ -12,6 +12,7 @@ lng: -95.1500
 zipSample: ["56360"]
 zipCodes: ["56360"]
 localPaths: ["Douglas County / coords 45.8600, -95.1500", "Douglas County / primary ZIP 56360", "Douglas County / elevation 1358 ft band", "Douglas County / ZIP 56360 sector"]
+zillowHomeValueUsd: 273714
 ---
 
 **Engineering Notice for Osakis:** Structural integrity verification: Cladding Service calibrated for 96 mph localized wind load factor. Regional dispatch grid: Douglas County.

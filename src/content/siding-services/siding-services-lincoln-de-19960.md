@@ -12,6 +12,7 @@ lng: -75.4200
 zipSample: ["19960"]
 zipCodes: ["19960"]
 localPaths: ["Sussex County / primary ZIP 19960", "Sussex County / coords 38.8700, -75.4200", "Sussex County / ZIP 19960 sector", "Sussex County / elevation 46 ft band"]
+zillowHomeValueUsd: 351049
 ---
 
 **Engineering Notice for Lincoln:** Site context locked to Sussex County. Elevation: 46 ft AMSL. Exterior Cladding integrity verification recorded.

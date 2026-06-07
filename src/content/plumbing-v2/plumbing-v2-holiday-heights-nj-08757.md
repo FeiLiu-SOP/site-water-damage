@@ -12,6 +12,7 @@ lng: -74.2600
 zipSample: ["08756", "08757"]
 zipCodes: ["08757", "08756"]
 localPaths: ["Ocean County / ZIP 08756 sector", "Ocean County / coords 39.9400, -74.2600", "Ocean County / elevation 82 ft band", "Ocean County / ZIP 08757 sector", "Ocean County / primary ZIP 08757"]
+zillowHomeValueUsd: 342378
 ---
 
 **Engineering Notice for Holiday Heights:** System optimized for 142 mg/L hard water scaling factors in Holiday Heights. Regional dispatch grid: Ocean County.

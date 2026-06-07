@@ -12,6 +12,7 @@ lng: -73.2900
 zipSample: ["06890"]
 zipCodes: ["06890"]
 localPaths: ["Greater Bridgeport County / elevation 26 ft band", "Greater Bridgeport County / primary ZIP 06890", "Greater Bridgeport County / coords 41.1300, -73.2900", "Greater Bridgeport County / ZIP 06890 sector"]
+zillowHomeValueUsd: 1454969
 ---
 
 **Engineering Notice for Southport:** Structural integrity verification: Cladding Retrofit calibrated for 102 mph localized wind load factor. Elevation: 26 ft AMSL. Regional dispatch grid: Greater Bridgeport County.

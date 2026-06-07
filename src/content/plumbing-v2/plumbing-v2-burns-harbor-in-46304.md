@@ -12,6 +12,7 @@ lng: -87.1300
 zipSample: ["46304"]
 zipCodes: ["46304"]
 localPaths: ["Porter County / coords 41.6200, -87.1300", "Porter County / ZIP 46304 sector", "Porter County / elevation 627 ft band", "Porter County / primary ZIP 46304"]
+zillowHomeValueUsd: 329910
 ---
 
 **Engineering Notice for Burns Harbor:** System optimized for 161 mg/L hard water scaling factors in Burns Harbor. Regional dispatch grid: Porter County.

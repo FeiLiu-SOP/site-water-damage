@@ -12,6 +12,7 @@ lng: -82.6700
 zipSample: ["30828"]
 zipCodes: ["30828"]
 localPaths: ["Warren County / primary ZIP 30828", "Warren County / elevation 502 ft band", "Warren County / ZIP 30828 sector", "Warren County / coords 33.4100, -82.6700"]
+zillowHomeValueUsd: 124535
 ---
 
 **Engineering Notice for Warrenton:** structural drying capacity optimized for 502ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Warren County. Relative Humidity Threshold: 80%. Sensor sync: Active.

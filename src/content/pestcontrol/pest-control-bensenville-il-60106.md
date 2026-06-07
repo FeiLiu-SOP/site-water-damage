@@ -11,6 +11,7 @@ lng: -87.9400
 zipSample: ["60105", "60399", "60106"]
 zipCodes: ["60105", "60399", "60106"]
 localPaths: ["DuPage County / elevation 679 ft band", "DuPage County / coords 41.9600, -87.9400", "DuPage County / ZIP 60399 sector", "DuPage County / ZIP 60105 sector", "DuPage County / ZIP 60106 sector"]
+zillowHomeValueUsd: 343953
 ---
 
 **Engineering Notice for Bensenville:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: DuPage County.

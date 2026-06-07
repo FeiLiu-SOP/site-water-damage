@@ -12,6 +12,7 @@ lng: -84.7800
 zipSample: ["48859", "48858"]
 zipCodes: ["48858", "48859"]
 localPaths: ["Isabella County / ZIP 48858 sector", "Isabella County / ZIP 48859 sector", "Isabella County / primary ZIP 48858", "Isabella County / elevation 787 ft band", "Isabella County / coords 43.6000, -84.7800"]
+zillowHomeValueUsd: 220305
 ---
 
 **Engineering Notice for Mount Pleasant:** Structural loading calculated based on 787 ft terrain assessment. Regional dispatch grid: Isabella County.

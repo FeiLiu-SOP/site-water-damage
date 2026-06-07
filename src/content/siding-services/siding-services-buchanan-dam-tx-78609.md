@@ -12,6 +12,7 @@ lng: -98.4400
 zipSample: ["78609", "78607"]
 zipCodes: ["78607", "78609"]
 localPaths: ["Llano County / elevation 1017 ft band", "Llano County / ZIP 78607 sector", "Llano County / ZIP 78609 sector", "Llano County / primary ZIP 78609", "Llano County / coords 30.7800, -98.4400"]
+zillowHomeValueUsd: 363230
 ---
 
 **Engineering Notice for Buchanan Dam:** Envelope check: Exterior Cladding assigned to wind-load band B with stress factor 1.05. Elevation: 1017 ft AMSL. Regional dispatch grid: Llano County.

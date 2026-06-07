@@ -12,6 +12,7 @@ lng: -91.0400
 zipSample: ["62312"]
 zipCodes: ["62312"]
 localPaths: ["Pike County / coords 39.7000, -91.0400", "Pike County / ZIP 62312 sector", "Pike County / elevation 692 ft band", "Pike County / primary ZIP 62312"]
+zillowHomeValueUsd: 109209
 ---
 
 **Engineering Notice for Barry:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 0.83. Regional dispatch grid: Pike County.

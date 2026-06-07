@@ -12,6 +12,7 @@ lng: -85.2900
 zipSample: ["47359"]
 zipCodes: ["47359"]
 localPaths: ["Blackford County / primary ZIP 47359", "Blackford County / elevation 879 ft band", "Blackford County / ZIP 47359 sector", "Blackford County / coords 40.5500, -85.2900"]
+zillowHomeValueUsd: 141672
 ---
 
 **Engineering Notice for Montpelier:** System optimized for 131 mg/L hard water scaling factors in Montpelier. Regional dispatch grid: Blackford County.

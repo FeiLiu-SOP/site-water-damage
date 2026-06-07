@@ -12,6 +12,7 @@ lng: -81.1400
 zipSample: ["44081"]
 zipCodes: ["44081"]
 localPaths: ["Lake County / elevation 705 ft band", "Lake County / primary ZIP 44081", "Lake County / ZIP 44081 sector", "Lake County / coords 41.7600, -81.1400"]
+zillowHomeValueUsd: 288355
 ---
 
 **Engineering Notice for Perry:** System optimized for 121 mg/L hard water scaling factors in Perry. Regional dispatch grid: Lake County.

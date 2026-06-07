@@ -11,6 +11,7 @@ lng: -88.3200
 zipSample: ["60123", "60121", "60120", "60122", "60124"]
 zipCodes: ["60124", "60123", "60122", "60121", "60120"]
 localPaths: ["Kane County / elevation 823 ft band", "Kane County / ZIP 60122 sector", "Kane County / ZIP 60121 sector", "Kane County / coords 42.0400, -88.3200", "Kane County / ZIP 60123 sector"]
+zillowHomeValueUsd: 293676
 ---
 
 **Engineering Notice for Elgin:** Structural loading calculated based on 823 ft terrain assessment. Regional dispatch grid: Kane County.

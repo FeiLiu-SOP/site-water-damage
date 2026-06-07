@@ -12,6 +12,7 @@ lng: -111.8800
 zipSample: ["84014", "84087"]
 zipCodes: ["84087", "84014"]
 localPaths: ["Davis County / coords 40.9300, -111.8800", "Davis County / primary ZIP 84014", "Davis County / ZIP 84014 sector", "Davis County / elevation 4255 ft band", "Davis County / ZIP 84087 sector"]
+zillowHomeValueUsd: 589798
 ---
 
 **Engineering Notice for Centerville:** Structural loading calculated based on 4255 ft terrain assessment. Regional dispatch grid: Davis County.

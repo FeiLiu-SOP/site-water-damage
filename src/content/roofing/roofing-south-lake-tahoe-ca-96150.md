@@ -11,6 +11,7 @@ lng: -119.9800
 zipSample: ["96150", "96154", "96151", "96158", "96157"]
 zipCodes: ["96157", "96158", "96151", "96150", "96154", "96152"]
 localPaths: ["El Dorado County / ZIP 96151 sector", "El Dorado County / ZIP 96157 sector", "El Dorado County / primary ZIP 96150", "El Dorado County / ZIP 96158 sector", "El Dorado County / ZIP 96154 sector"]
+zillowHomeValueUsd: 663245
 ---
 
 **Engineering Notice for South Lake Tahoe:** Structural loading calculated based on 6289 ft terrain assessment. Regional dispatch grid: El Dorado County.

@@ -12,6 +12,7 @@ lng: -97.3900
 zipSample: ["76644", "76634"]
 zipCodes: ["76644", "76634"]
 localPaths: ["Bosque County / ZIP 76644 sector", "Bosque County / primary ZIP 76634", "Bosque County / elevation 528 ft band", "Bosque County / coords 31.8600, -97.3900", "Bosque County / ZIP 76634 sector"]
+zillowHomeValueUsd: 224667
 ---
 
 **Engineering Notice for Laguna Park:** Structural integrity verification: Surface Sheathing calibrated for 141 mph localized wind load factor. Elevation: 528 ft AMSL. Coordinates: 31.8600, -97.3900. Regional dispatch grid: Bosque County.

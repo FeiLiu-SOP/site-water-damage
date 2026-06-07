@@ -12,6 +12,7 @@ lng: -91.3100
 zipSample: ["54650"]
 zipCodes: ["54650"]
 localPaths: ["La Crosse County / elevation 656 ft band", "La Crosse County / ZIP 54650 sector", "La Crosse County / primary ZIP 54650", "La Crosse County / coords 43.9400, -91.3100"]
+zillowHomeValueUsd: 357570
 ---
 
 **Engineering Notice for Brice Prairie:** Vinyl Panels was validated under stress factor 0.75; target tolerance set near 102 mph. Coordinates: 43.9400, -91.3100. Grid anchor: La Crosse County.

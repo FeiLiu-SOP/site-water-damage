@@ -12,6 +12,7 @@ lng: -83.8300
 zipSample: ["45167"]
 zipCodes: ["45167"]
 localPaths: ["Brown County / elevation 525 ft band", "Brown County / ZIP 45167 sector", "Brown County / primary ZIP 45167", "Brown County / coords 38.7300, -83.8300"]
+zillowHomeValueUsd: 184322
 ---
 
 **Engineering Notice for Ripley:** System optimized for 121 mg/L hard water scaling factors in Ripley. Regional dispatch grid: Brown County.

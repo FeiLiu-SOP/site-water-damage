@@ -12,6 +12,7 @@ lng: -119.8400
 zipSample: ["93609"]
 zipCodes: ["93609"]
 localPaths: ["Fresno County / ZIP 93609 sector", "Fresno County / primary ZIP 93609", "Fresno County / elevation 243 ft band", "Fresno County / coords 36.5400, -119.8400"]
+zillowHomeValueUsd: 393947
 ---
 
 **Engineering Notice for Caruthers:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 0.76. Regional dispatch grid: Fresno County.

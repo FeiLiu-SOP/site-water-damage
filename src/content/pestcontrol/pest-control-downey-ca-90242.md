@@ -11,6 +11,7 @@ lng: -118.1300
 zipSample: ["90239", "90241", "90240", "90242"]
 zipCodes: ["90242", "90240", "90239", "90241"]
 localPaths: ["Los Angeles County / coords 33.9400, -118.1300", "Los Angeles County / ZIP 90241 sector", "Los Angeles County / ZIP 90240 sector", "Los Angeles County / elevation 121 ft band", "Los Angeles County / ZIP 90239 sector"]
+zillowHomeValueUsd: 827077
 ---
 
 **Engineering Notice for Downey:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Los Angeles County.

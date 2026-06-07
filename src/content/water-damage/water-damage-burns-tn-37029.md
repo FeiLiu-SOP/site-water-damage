@@ -12,6 +12,7 @@ lng: -87.3000
 zipSample: ["37029", "37055"]
 zipCodes: ["37029", "37055"]
 localPaths: ["Dickson County / ZIP 37055 sector", "Dickson County / coords 36.0500, -87.3000", "Dickson County / ZIP 37029 sector", "Dickson County / elevation 791 ft band", "Dickson County / primary ZIP 37029"]
+zillowHomeValueUsd: 440522
 ---
 
 **Engineering Notice for Burns:** structural drying capacity optimized for 791ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dickson County. Relative Humidity Threshold: 76%. Sensor sync: Active.

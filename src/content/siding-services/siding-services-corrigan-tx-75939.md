@@ -12,6 +12,7 @@ lng: -94.8300
 zipSample: ["75939"]
 zipCodes: ["75939"]
 localPaths: ["Polk County / elevation 249 ft band", "Polk County / primary ZIP 75939", "Polk County / coords 31.0000, -94.8300", "Polk County / ZIP 75939 sector"]
+zillowHomeValueUsd: 148240
 ---
 
 **Engineering Notice for Corrigan:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 0.85. Elevation: 249 ft AMSL. Regional dispatch grid: Polk County.

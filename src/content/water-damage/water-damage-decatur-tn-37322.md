@@ -12,6 +12,7 @@ lng: -84.7900
 zipSample: ["37322"]
 zipCodes: ["37322"]
 localPaths: ["Meigs County / ZIP 37322 sector", "Meigs County / primary ZIP 37322", "Meigs County / elevation 925 ft band", "Meigs County / coords 35.5300, -84.7900"]
+zillowHomeValueUsd: 275970
 ---
 
 **Engineering Notice for Decatur:** structural drying capacity optimized for 925ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Meigs County. Relative Humidity Threshold: 83%. Sensor sync: Active.

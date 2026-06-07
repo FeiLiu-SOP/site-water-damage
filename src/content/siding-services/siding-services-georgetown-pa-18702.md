@@ -12,6 +12,7 @@ lng: -75.8700
 zipSample: ["18702"]
 zipCodes: ["18702"]
 localPaths: ["Luzerne County / coords 41.2300, -75.8700", "Luzerne County / ZIP 18702 sector", "Luzerne County / primary ZIP 18702", "Luzerne County / elevation 692 ft band"]
+zillowHomeValueUsd: 168330
 ---
 
 **Engineering Notice for Georgetown:** Envelope check: Facade Renewal assigned to wind-load band B with stress factor 1.12. Regional dispatch grid: Luzerne County.

@@ -12,6 +12,7 @@ lng: -120.0500
 zipSample: ["93637"]
 zipCodes: ["93637"]
 localPaths: ["Madera County / primary ZIP 93637", "Madera County / coords 36.9300, -120.0500", "Madera County / ZIP 93637 sector", "Madera County / elevation 269 ft band"]
+zillowHomeValueUsd: 402705
 ---
 
 **Engineering Notice for Parkwood:** System optimized for 164 mg/L hard water scaling factors in Parkwood. Regional dispatch grid: Madera County.

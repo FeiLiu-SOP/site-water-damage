@@ -12,6 +12,7 @@ lng: -75.8700
 zipSample: ["18702"]
 zipCodes: ["18702"]
 localPaths: ["Luzerne County / ZIP 18702 sector", "Luzerne County / primary ZIP 18702", "Luzerne County / elevation 692 ft band", "Luzerne County / coords 41.2300, -75.8700"]
+zillowHomeValueUsd: 168325
 ---
 
 **Engineering Notice for Georgetown:** System optimized for 152 mg/L hard water scaling factors in Georgetown. Regional dispatch grid: Luzerne County.

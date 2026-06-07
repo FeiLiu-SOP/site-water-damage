@@ -12,6 +12,7 @@ lng: -91.7500
 zipSample: ["55971"]
 zipCodes: ["55971"]
 localPaths: ["Fillmore County / ZIP 55971 sector", "Fillmore County / elevation 735 ft band", "Fillmore County / coords 43.8100, -91.7500", "Fillmore County / primary ZIP 55971"]
+zillowHomeValueUsd: 272238
 ---
 
 **Engineering Notice for Rushford:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Elevation: 735 ft AMSL. Grid: Fillmore County.

@@ -12,6 +12,7 @@ lng: -121.9000
 zipSample: ["98014"]
 zipCodes: ["98014"]
 localPaths: ["King County / coords 47.6400, -121.9000", "King County / elevation 98 ft band", "King County / ZIP 98014 sector", "King County / primary ZIP 98014"]
+zillowHomeValueUsd: 1034191
 ---
 
 **Engineering Notice for Carnation:** structural drying capacity optimized for 98ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: King County. Relative Humidity Threshold: 76%. Sensor sync: Active.

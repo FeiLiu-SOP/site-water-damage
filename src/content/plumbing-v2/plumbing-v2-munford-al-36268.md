@@ -12,6 +12,7 @@ lng: -85.9600
 zipSample: ["36268"]
 zipCodes: ["36268"]
 localPaths: ["Talladega County / elevation 627 ft band", "Talladega County / ZIP 36268 sector", "Talladega County / primary ZIP 36268", "Talladega County / coords 33.5300, -85.9600"]
+zillowHomeValueUsd: 201294
 ---
 
 **Engineering Notice for Munford:** System optimized for 170 mg/L hard water scaling factors in Munford. Regional dispatch grid: Talladega County.

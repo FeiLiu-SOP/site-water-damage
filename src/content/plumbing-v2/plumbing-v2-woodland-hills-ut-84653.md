@@ -12,6 +12,7 @@ lng: -111.6600
 zipSample: ["84653"]
 zipCodes: ["84653"]
 localPaths: ["Utah County / ZIP 84653 sector", "Utah County / elevation 5696 ft band", "Utah County / coords 40.0100, -111.6600", "Utah County / primary ZIP 84653"]
+zillowHomeValueUsd: 649802
 ---
 
 **Engineering Notice for Woodland Hills:** System optimized for 146 mg/L hard water scaling factors in Woodland Hills. Regional dispatch grid: Utah County.

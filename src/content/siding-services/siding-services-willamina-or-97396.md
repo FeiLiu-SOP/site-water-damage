@@ -12,6 +12,7 @@ lng: -123.4800
 zipSample: ["97396"]
 zipCodes: ["97396"]
 localPaths: ["Yamhill County / elevation 233 ft band", "Yamhill County / coords 45.0800, -123.4800", "Yamhill County / primary ZIP 97396", "Yamhill County / ZIP 97396 sector"]
+zillowHomeValueUsd: 356961
 ---
 
 **Engineering Notice for Willamina:** Site context locked to Yamhill County. Elevation: 233 ft AMSL. Coordinates: 45.0800, -123.4800. Surface Sheathing integrity verification recorded.

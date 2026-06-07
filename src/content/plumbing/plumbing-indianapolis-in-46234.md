@@ -12,6 +12,7 @@ lng: -86.1500
 zipSample: ["46226", "46231", "46234", "46221", "46260"]
 zipCodes: ["46228", "46250", "46255", "46224", "46282", "46262", "46205", "46225", "46234", "46268", "46253", "46217"]
 localPaths: ["Marion County / ZIP 46221 sector", "Marion County / ZIP 46234 sector", "Marion County / ZIP 46231 sector", "Marion County / ZIP 46226 sector", "Marion County / primary ZIP 46234"]
+zillowHomeValueUsd: 279658
 ---
 
 **Engineering Notice for Indianapolis:** Structural loading calculated based on 719 ft terrain assessment. Regional dispatch grid: Marion County.

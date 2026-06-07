@@ -12,6 +12,7 @@ lng: -80.0400
 zipSample: ["33480"]
 zipCodes: ["33480"]
 localPaths: ["Palm Beach County / primary ZIP 33480", "Palm Beach County / ZIP 33480 sector", "Palm Beach County / coords 26.5900, -80.0400", "Palm Beach County / elevation 36 ft band"]
+zillowHomeValueUsd: 1488255
 ---
 
 **Engineering Notice for South Palm Beach:** Site context locked to Palm Beach County. Elevation: 36 ft AMSL. Coordinates: 26.5900, -80.0400. Exterior Envelope integrity verification recorded.

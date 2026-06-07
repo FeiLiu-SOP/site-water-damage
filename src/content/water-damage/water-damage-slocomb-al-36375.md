@@ -12,6 +12,7 @@ lng: -85.6000
 zipSample: ["36349", "36375"]
 zipCodes: ["36375", "36349"]
 localPaths: ["Geneva County / coords 31.1100, -85.6000", "Geneva County / primary ZIP 36375", "Geneva County / elevation 312 ft band", "Geneva County / ZIP 36375 sector", "Geneva County / ZIP 36349 sector"]
+zillowHomeValueUsd: 173831
 ---
 
 **Engineering Notice for Slocomb:** structural drying capacity optimized for 312ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Geneva County. Relative Humidity Threshold: 74%. Sensor sync: Active.

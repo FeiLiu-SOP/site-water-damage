@@ -11,6 +11,7 @@ lng: -92.9500
 zipSample: ["55746"]
 zipCodes: ["55746"]
 localPaths: ["St. Louis County / primary ZIP 55746", "St. Louis County / elevation 1512 ft band", "St. Louis County / coords 47.4000, -92.9500", "St. Louis County / ZIP 55746 sector"]
+zillowHomeValueUsd: 154225
 ---
 
 **Engineering Notice for Hibbing:** Structural loading calculated based on 1512 ft terrain assessment. Regional dispatch grid: St. Louis County.

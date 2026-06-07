@@ -12,6 +12,7 @@ lng: -104.8500
 zipSample: ["81069", "81019"]
 zipCodes: ["81019", "81069"]
 localPaths: ["Pueblo County / elevation 5928 ft band", "Pueblo County / ZIP 81069 sector", "Pueblo County / primary ZIP 81019", "Pueblo County / ZIP 81019 sector", "Pueblo County / coords 37.9400, -104.8500"]
+zillowHomeValueUsd: 322901
 ---
 
 **Engineering Notice for Colorado City:** System optimized for 122 mg/L hard water scaling factors in Colorado City. Regional dispatch grid: Pueblo County.

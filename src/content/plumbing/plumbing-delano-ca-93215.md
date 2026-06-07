@@ -12,6 +12,7 @@ lng: -119.2600
 zipSample: ["93215"]
 zipCodes: ["93215"]
 localPaths: ["Kern County / coords 35.7700, -119.2600", "Kern County / ZIP 93215 sector", "Kern County / primary ZIP 93215", "Kern County / elevation 302 ft band"]
+zillowHomeValueUsd: 335393
 ---
 
 **Engineering Notice for Delano:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Kern County.

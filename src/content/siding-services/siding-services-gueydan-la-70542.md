@@ -12,6 +12,7 @@ lng: -92.5100
 zipSample: ["70542"]
 zipCodes: ["70542"]
 localPaths: ["Vermilion Parish / coords 30.0300, -92.5100", "Vermilion Parish / primary ZIP 70542", "Vermilion Parish / ZIP 70542 sector", "Vermilion Parish / elevation 20 ft band"]
+zillowHomeValueUsd: 118315
 ---
 
 **Engineering Notice for Gueydan:** Envelope check: Vinyl Panels assigned to wind-load band A with stress factor 1.09. Regional dispatch grid: Vermilion Parish.

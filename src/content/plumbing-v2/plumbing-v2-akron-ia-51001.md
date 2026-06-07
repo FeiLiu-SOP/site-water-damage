@@ -12,6 +12,7 @@ lng: -96.5600
 zipSample: ["51001"]
 zipCodes: ["51001"]
 localPaths: ["Plymouth County / coords 42.8300, -96.5600", "Plymouth County / primary ZIP 51001", "Plymouth County / ZIP 51001 sector", "Plymouth County / elevation 1148 ft band"]
+zillowHomeValueUsd: 230453
 ---
 
 **Engineering Notice for Akron:** System optimized for 149 mg/L hard water scaling factors in Akron. Regional dispatch grid: Plymouth County.

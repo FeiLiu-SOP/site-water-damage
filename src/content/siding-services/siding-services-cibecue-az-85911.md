@@ -12,6 +12,8 @@ lng: -110.4900
 zipSample: ["85911"]
 zipCodes: ["85911"]
 localPaths: ["Navajo County / coords 34.0300, -110.4900", "Navajo County / elevation 4967 ft band", "Navajo County / ZIP 85911 sector", "Navajo County / primary ZIP 85911"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 447025
 ---
 
 **Engineering Notice for Cibecue:** Cladding Service was validated under stress factor 1.03; target tolerance set near 106 mph. Coordinates: 34.0300, -110.4900. Grid anchor: Navajo County.

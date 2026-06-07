@@ -12,6 +12,7 @@ lng: -86.0100
 zipSample: ["46573"]
 zipCodes: ["46573"]
 localPaths: ["Elkhart County / elevation 846 ft band", "Elkhart County / ZIP 46573 sector", "Elkhart County / primary ZIP 46573", "Elkhart County / coords 41.5300, -86.0100"]
+zillowHomeValueUsd: 311389
 ---
 
 **Engineering Notice for Wakarusa:** System optimized for 168 mg/L hard water scaling factors in Wakarusa. Regional dispatch grid: Elkhart County.

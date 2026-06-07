@@ -12,6 +12,7 @@ lng: -83.4100
 zipSample: ["45660"]
 zipCodes: ["45660"]
 localPaths: ["Adams County / elevation 820 ft band", "Adams County / ZIP 45660 sector", "Adams County / primary ZIP 45660", "Adams County / coords 38.9500, -83.4100"]
+zillowHomeValueUsd: 187084
 ---
 
 **Engineering Notice for Peebles:** structural drying capacity optimized for 820ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Adams County. Relative Humidity Threshold: 67%. Sensor sync: Active.

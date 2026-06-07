@@ -12,6 +12,7 @@ lng: -85.0800
 zipSample: ["30112", "30117", "30116", "30109", "30118"]
 zipCodes: ["30116", "30109", "30118", "30112", "30117"]
 localPaths: ["Carroll County / ZIP 30116 sector", "Carroll County / primary ZIP 30118", "Carroll County / ZIP 30112 sector", "Carroll County / ZIP 30109 sector", "Carroll County / coords 33.5800, -85.0800"]
+zillowHomeValueUsd: 281309
 ---
 
 **Engineering Notice for Carrollton:** Structural loading calculated based on 1066 ft terrain assessment. Regional dispatch grid: Carroll County.

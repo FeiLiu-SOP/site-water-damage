@@ -12,6 +12,7 @@ lng: -96.0500
 zipSample: ["56232"]
 zipCodes: ["56232"]
 localPaths: ["Lac qui Parle County / primary ZIP 56232", "Lac qui Parle County / coords 44.9300, -96.0500", "Lac qui Parle County / ZIP 56232 sector", "Lac qui Parle County / elevation 1040 ft band"]
+zillowHomeValueUsd: 196237
 ---
 
 **Engineering Notice for Dawson:** Exterior Cladding was validated under stress factor 0.84; target tolerance set near 95 mph. Coordinates: 44.9300, -96.0500. Grid anchor: Lac qui Parle County.

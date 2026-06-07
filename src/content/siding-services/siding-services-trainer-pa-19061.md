@@ -12,6 +12,7 @@ lng: -75.4000
 zipSample: ["19061"]
 zipCodes: ["19061"]
 localPaths: ["Delaware County / primary ZIP 19061", "Delaware County / ZIP 19061 sector", "Delaware County / coords 39.8200, -75.4000", "Delaware County / elevation 46 ft band"]
+zillowHomeValueUsd: 275764
 ---
 
 **Engineering Notice for Trainer:** Site context locked to Delaware County. Cladding Service integrity verification recorded.

@@ -11,6 +11,7 @@ lng: -77.3900
 zipSample: ["23222", "23223"]
 zipCodes: ["23223", "23222"]
 localPaths: ["Henrico County / ZIP 23222 sector", "Henrico County / coords 37.5800, -77.3900", "Henrico County / primary ZIP 23222", "Henrico County / ZIP 23223 sector", "Henrico County / elevation 194 ft band"]
+zillowHomeValueUsd: 276073
 ---
 
 **Engineering Notice for East Highland Park:** Structural loading calculated based on 194 ft terrain assessment. Regional dispatch grid: Henrico County.

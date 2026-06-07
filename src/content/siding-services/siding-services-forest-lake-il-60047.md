@@ -12,6 +12,7 @@ lng: -88.0500
 zipSample: ["60047"]
 zipCodes: ["60047"]
 localPaths: ["Lake County / coords 42.2100, -88.0500", "Lake County / ZIP 60047 sector", "Lake County / elevation 810 ft band", "Lake County / primary ZIP 60047"]
+zillowHomeValueUsd: 638950
 ---
 
 **Engineering Notice for Forest Lake:** Envelope check: Surface Sheathing assigned to wind-load band B with stress factor 1.14. Elevation: 810 ft AMSL. Regional dispatch grid: Lake County.

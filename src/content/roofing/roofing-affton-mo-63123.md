@@ -11,6 +11,7 @@ lng: -90.3300
 zipSample: ["63123"]
 zipCodes: ["63123"]
 localPaths: ["St. Louis County / coords 38.5500, -90.3300", "St. Louis County / elevation 558 ft band", "St. Louis County / ZIP 63123 sector", "St. Louis County / primary ZIP 63123"]
+zillowHomeValueUsd: 243698
 ---
 
 **Engineering Notice for Affton:** Structural loading calculated based on 558 ft terrain assessment. Regional dispatch grid: St. Louis County.

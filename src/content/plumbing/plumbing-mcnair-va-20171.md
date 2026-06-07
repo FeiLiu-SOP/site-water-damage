@@ -12,6 +12,7 @@ lng: -77.4100
 zipSample: ["20171"]
 zipCodes: ["20171"]
 localPaths: ["Fairfax County / ZIP 20171 sector", "Fairfax County / coords 38.9500, -77.4100", "Fairfax County / elevation 322 ft band", "Fairfax County / primary ZIP 20171"]
+zillowHomeValueUsd: 819526
 ---
 
 **Engineering Notice for McNair:** Structural loading calculated based on 322 ft terrain assessment. Regional dispatch grid: Fairfax County.

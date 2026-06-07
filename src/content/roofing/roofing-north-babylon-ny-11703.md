@@ -11,6 +11,7 @@ lng: -73.3200
 zipSample: ["11703"]
 zipCodes: ["11703"]
 localPaths: ["Suffolk County / elevation 49 ft band", "Suffolk County / primary ZIP 11703", "Suffolk County / ZIP 11703 sector", "Suffolk County / coords 40.7300, -73.3200"]
+zillowHomeValueUsd: 620982
 ---
 
 **Engineering Notice for North Babylon:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Suffolk County.

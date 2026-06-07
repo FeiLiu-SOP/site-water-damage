@@ -11,6 +11,7 @@ lng: -93.3200
 zipSample: ["55420", "55437", "55438", "55435", "55425"]
 zipCodes: ["55425", "55420", "55435", "55437", "55438", "55431"]
 localPaths: ["Hennepin County / ZIP 55435 sector", "Hennepin County / ZIP 55425 sector", "Hennepin County / ZIP 55420 sector", "Hennepin County / ZIP 55437 sector", "Hennepin County / coords 44.8300, -93.3200"]
+zillowHomeValueUsd: 333335
 ---
 
 **Engineering Notice for Bloomington:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Hennepin County.

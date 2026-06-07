@@ -11,6 +11,7 @@ lng: -81.5500
 zipSample: ["44122", "44120"]
 zipCodes: ["44122", "44120"]
 localPaths: ["Cuyahoga County / ZIP 44120 sector", "Cuyahoga County / primary ZIP 44120", "Cuyahoga County / elevation 1027 ft band", "Cuyahoga County / coords 41.4700, -81.5500", "Cuyahoga County / ZIP 44122 sector"]
+zillowHomeValueUsd: 133011
 ---
 
 **Engineering Notice for Shaker Heights:** Structural loading calculated based on 1027 ft terrain assessment. Regional dispatch grid: Cuyahoga County.

@@ -12,6 +12,7 @@ lng: -75.3300
 zipSample: ["19406", "19405", "19428"]
 zipCodes: ["19405", "19428", "19406"]
 localPaths: ["Montgomery County / ZIP 19406 sector", "Montgomery County / coords 40.0900, -75.3300", "Montgomery County / ZIP 19405 sector", "Montgomery County / elevation 121 ft band", "Montgomery County / primary ZIP 19428"]
+zillowHomeValueUsd: 493192
 ---
 
 **Engineering Notice for Swedeland:** System optimized for 128 mg/L hard water scaling factors in Swedeland. Regional dispatch grid: Montgomery County.

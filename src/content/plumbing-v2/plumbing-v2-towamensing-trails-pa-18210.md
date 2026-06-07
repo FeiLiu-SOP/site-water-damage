@@ -12,6 +12,7 @@ lng: -75.5800
 zipSample: ["18210"]
 zipCodes: ["18210"]
 localPaths: ["Carbon County / coords 40.9900, -75.5800", "Carbon County / elevation 1709 ft band", "Carbon County / ZIP 18210 sector", "Carbon County / primary ZIP 18210"]
+zillowHomeValueUsd: 269873
 ---
 
 **Engineering Notice for Towamensing Trails:** System optimized for 148 mg/L hard water scaling factors in Towamensing Trails. Regional dispatch grid: Carbon County.

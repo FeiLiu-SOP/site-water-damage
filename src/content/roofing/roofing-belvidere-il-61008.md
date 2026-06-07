@@ -11,6 +11,7 @@ lng: -88.8600
 zipSample: ["61008"]
 zipCodes: ["61008"]
 localPaths: ["Boone County / elevation 771 ft band", "Boone County / coords 42.2500, -88.8600", "Boone County / ZIP 61008 sector", "Boone County / primary ZIP 61008"]
+zillowHomeValueUsd: 258058
 ---
 
 **Engineering Notice for Belvidere:** Structural loading calculated based on 771 ft terrain assessment. Regional dispatch grid: Boone County.

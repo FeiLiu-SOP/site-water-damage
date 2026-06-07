@@ -12,6 +12,7 @@ lng: -68.7100
 zipSample: ["04401"]
 zipCodes: ["04401"]
 localPaths: ["Penobscot County / elevation 177 ft band", "Penobscot County / primary ZIP 04401", "Penobscot County / coords 44.8400, -68.7100", "Penobscot County / ZIP 04401 sector"]
+zillowHomeValueUsd: 299420
 ---
 
 **Engineering Notice for Veazie:** structural drying capacity optimized for 177ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Penobscot County. Relative Humidity Threshold: 70%. Sensor sync: Active.

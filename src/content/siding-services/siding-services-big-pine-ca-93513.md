@@ -12,6 +12,7 @@ lng: -118.3000
 zipSample: ["93513"]
 zipCodes: ["93513"]
 localPaths: ["Inyo County / ZIP 93513 sector", "Inyo County / coords 37.1700, -118.3000", "Inyo County / elevation 4022 ft band", "Inyo County / primary ZIP 93513"]
+zillowHomeValueUsd: 426986
 ---
 
 **Engineering Notice for Big Pine:** Cladding verification uses 139 mph routing baseline; lateral pressure note: 17.9 psf. Coordinates: 37.1700, -118.3000. Grid: Inyo County.

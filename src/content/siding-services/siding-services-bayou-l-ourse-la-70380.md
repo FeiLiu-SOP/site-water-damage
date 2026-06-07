@@ -12,6 +12,7 @@ lng: -91.0600
 zipSample: ["70380"]
 zipCodes: ["70380"]
 localPaths: ["Assumption Parish / elevation 13 ft band", "Assumption Parish / primary ZIP 70380", "Assumption Parish / coords 29.7200, -91.0600", "Assumption Parish / ZIP 70380 sector"]
+zillowHomeValueUsd: 122743
 ---
 
 **Engineering Notice for Bayou L'Ourse:** Cladding verification uses 97 mph routing baseline; lateral pressure note: 12.8 psf. Coordinates: 29.7200, -91.0600. Grid: Assumption Parish.

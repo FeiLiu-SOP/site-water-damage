@@ -12,6 +12,7 @@ lng: -78.0200
 zipSample: ["16915"]
 zipCodes: ["16915"]
 localPaths: ["Potter County / primary ZIP 16915", "Potter County / elevation 1890 ft band", "Potter County / coords 41.7800, -78.0200", "Potter County / ZIP 16915 sector"]
+zillowHomeValueUsd: 180734
 ---
 
 **Engineering Notice for Coudersport:** Site context locked to Potter County. Surface Sheathing integrity verification recorded.

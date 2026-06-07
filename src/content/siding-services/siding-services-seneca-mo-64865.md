@@ -12,6 +12,7 @@ lng: -94.6100
 zipSample: ["64865"]
 zipCodes: ["64865"]
 localPaths: ["Newton County / ZIP 64865 sector", "Newton County / elevation 951 ft band", "Newton County / coords 36.8400, -94.6100", "Newton County / primary ZIP 64865"]
+zillowHomeValueUsd: 214552
 ---
 
 **Engineering Notice for Seneca:** Structural integrity verification: Cladding Retrofit calibrated for 90 mph localized wind load factor. Coordinates: 36.8400, -94.6100. Regional dispatch grid: Newton County.

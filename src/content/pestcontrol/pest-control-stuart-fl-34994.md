@@ -11,6 +11,7 @@ lng: -80.2400
 zipSample: ["34996", "34957", "34994"]
 zipCodes: ["34994", "34996", "34957"]
 localPaths: ["Martin County / coords 27.2000, -80.2400", "Martin County / primary ZIP 34994", "Martin County / elevation 23 ft band", "Martin County / ZIP 34957 sector", "Martin County / ZIP 34994 sector"]
+zillowHomeValueUsd: 237230
 ---
 
 **Engineering Notice for Stuart:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Martin County.

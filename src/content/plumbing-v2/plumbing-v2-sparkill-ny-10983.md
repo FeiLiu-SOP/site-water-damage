@@ -12,6 +12,7 @@ lng: -73.9300
 zipSample: ["10976", "10983"]
 zipCodes: ["10976", "10983"]
 localPaths: ["Rockland County / elevation 72 ft band", "Rockland County / coords 41.0300, -73.9300", "Rockland County / ZIP 10983 sector", "Rockland County / ZIP 10976 sector", "Rockland County / primary ZIP 10983"]
+zillowHomeValueUsd: 728394
 ---
 
 **Engineering Notice for Sparkill:** System optimized for 128 mg/L hard water scaling factors in Sparkill. Regional dispatch grid: Rockland County.

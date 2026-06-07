@@ -12,6 +12,7 @@ lng: -97.0200
 zipSample: ["75265", "75054", "75052", "75053", "75050"]
 zipCodes: ["75052", "75104", "75051", "75265", "75050", "75054", "75053"]
 localPaths: ["Dallas County / ZIP 75053 sector", "Dallas County / ZIP 75052 sector", "Dallas County / ZIP 75050 sector", "Dallas County / coords 32.6900, -97.0200", "Dallas County / elevation 535 ft band"]
+zillowHomeValueUsd: 324337
 ---
 
 **Engineering Notice for Grand Prairie:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: Dallas County.

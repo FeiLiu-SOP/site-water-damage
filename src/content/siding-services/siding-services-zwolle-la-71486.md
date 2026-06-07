@@ -12,6 +12,7 @@ lng: -93.6400
 zipSample: ["71486"]
 zipCodes: ["71486"]
 localPaths: ["Sabine Parish / ZIP 71486 sector", "Sabine Parish / coords 31.6400, -93.6400", "Sabine Parish / elevation 256 ft band", "Sabine Parish / primary ZIP 71486"]
+zillowHomeValueUsd: 187514
 ---
 
 **Engineering Notice for Zwolle:** Cladding verification uses 90 mph routing baseline; lateral pressure note: 12.0 psf. Elevation: 256 ft AMSL. Coordinates: 31.6400, -93.6400. Grid: Sabine Parish.

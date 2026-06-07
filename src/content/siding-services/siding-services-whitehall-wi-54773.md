@@ -12,6 +12,7 @@ lng: -91.3400
 zipSample: ["54773"]
 zipCodes: ["54773"]
 localPaths: ["Trempealeau County / ZIP 54773 sector", "Trempealeau County / elevation 938 ft band", "Trempealeau County / primary ZIP 54773", "Trempealeau County / coords 44.3600, -91.3400"]
+zillowHomeValueUsd: 228798
 ---
 
 **Engineering Notice for Whitehall:** Envelope check: Cladding Retrofit assigned to wind-load band B with stress factor 0.74. Regional dispatch grid: Trempealeau County.

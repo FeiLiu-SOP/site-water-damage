@@ -12,6 +12,7 @@ lng: -95.4400
 zipSample: ["75783"]
 zipCodes: ["75783"]
 localPaths: ["Wood County / ZIP 75783 sector", "Wood County / coords 32.8000, -95.4400", "Wood County / primary ZIP 75783", "Wood County / elevation 417 ft band"]
+zillowHomeValueUsd: 250529
 ---
 
 **Engineering Notice for Quitman:** System optimized for 165 mg/L hard water scaling factors in Quitman. Regional dispatch grid: Wood County.

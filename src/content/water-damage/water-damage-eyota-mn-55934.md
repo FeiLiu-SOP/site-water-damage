@@ -12,6 +12,7 @@ lng: -92.2300
 zipSample: ["55934"]
 zipCodes: ["55934"]
 localPaths: ["Olmsted County / elevation 1257 ft band", "Olmsted County / primary ZIP 55934", "Olmsted County / coords 43.9900, -92.2300", "Olmsted County / ZIP 55934 sector"]
+zillowHomeValueUsd: 353838
 ---
 
 **Engineering Notice for Eyota:** structural drying capacity optimized for 1257ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Olmsted County. Relative Humidity Threshold: 73%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -90.3200
 zipSample: ["54421"]
 zipCodes: ["54421"]
 localPaths: ["Marathon County / coords 44.9100, -90.3200", "Marathon County / ZIP 54421 sector", "Marathon County / primary ZIP 54421", "Marathon County / elevation 1355 ft band"]
+zillowHomeValueUsd: 219279
 ---
 
 **Engineering Notice for Colby:** structural drying capacity optimized for 1355ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marathon County. Relative Humidity Threshold: 80%. Sensor sync: Active.

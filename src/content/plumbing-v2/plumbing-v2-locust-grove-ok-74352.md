@@ -12,6 +12,7 @@ lng: -95.1700
 zipSample: ["74352"]
 zipCodes: ["74352"]
 localPaths: ["Mayes County / elevation 682 ft band", "Mayes County / ZIP 74352 sector", "Mayes County / coords 36.2000, -95.1700", "Mayes County / primary ZIP 74352"]
+zillowHomeValueUsd: 187907
 ---
 
 **Engineering Notice for Locust Grove:** System optimized for 129 mg/L hard water scaling factors in Locust Grove. Regional dispatch grid: Mayes County.

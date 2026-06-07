@@ -12,6 +12,7 @@ lng: -95.1100
 zipSample: ["67356"]
 zipCodes: ["67356"]
 localPaths: ["Labette County / elevation 919 ft band", "Labette County / coords 37.1700, -95.1100", "Labette County / primary ZIP 67356", "Labette County / ZIP 67356 sector"]
+zillowHomeValueUsd: 98720
 ---
 
 **Engineering Notice for Oswego:** structural drying capacity optimized for 919ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Labette County. Relative Humidity Threshold: 71%. Sensor sync: Active.

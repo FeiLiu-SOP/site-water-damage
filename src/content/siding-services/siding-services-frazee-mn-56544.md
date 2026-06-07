@@ -12,6 +12,7 @@ lng: -95.7000
 zipSample: ["56544"]
 zipCodes: ["56544"]
 localPaths: ["Becker County / coords 46.7300, -95.7000", "Becker County / primary ZIP 56544", "Becker County / elevation 1388 ft band", "Becker County / ZIP 56544 sector"]
+zillowHomeValueUsd: 334083
 ---
 
 **Engineering Notice for Frazee:** Vinyl Panels was validated under stress factor 1.15; target tolerance set near 93 mph. Grid anchor: Becker County.

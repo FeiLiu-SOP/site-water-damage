@@ -12,6 +12,7 @@ lng: -90.1400
 zipSample: ["62012"]
 zipCodes: ["62012"]
 localPaths: ["Macoupin County / primary ZIP 62012", "Macoupin County / ZIP 62012 sector", "Macoupin County / elevation 673 ft band", "Macoupin County / coords 39.0400, -90.1400"]
+zillowHomeValueUsd: 212769
 ---
 
 **Engineering Notice for Brighton:** System optimized for 145 mg/L hard water scaling factors in Brighton. Regional dispatch grid: Macoupin County.

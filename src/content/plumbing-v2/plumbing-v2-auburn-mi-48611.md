@@ -12,6 +12,7 @@ lng: -84.0800
 zipSample: ["48611"]
 zipCodes: ["48611"]
 localPaths: ["Bay County / coords 43.6000, -84.0800", "Bay County / primary ZIP 48611", "Bay County / elevation 623 ft band", "Bay County / ZIP 48611 sector"]
+zillowHomeValueUsd: 229408
 ---
 
 **Engineering Notice for Auburn:** System optimized for 141 mg/L hard water scaling factors in Auburn. Regional dispatch grid: Bay County.

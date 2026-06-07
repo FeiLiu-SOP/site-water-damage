@@ -12,6 +12,7 @@ lng: -106.6200
 zipSample: ["88021", "88048", "88024"]
 zipCodes: ["88021", "88048", "88024"]
 localPaths: ["Doña Ana County / coords 32.0700, -106.6200", "Doña Ana County / ZIP 88024 sector", "Doña Ana County / elevation 3822 ft band", "Doña Ana County / ZIP 88021 sector", "Doña Ana County / ZIP 88048 sector"]
+zillowHomeValueUsd: 237885
 ---
 
 **Engineering Notice for Berino:** System optimized for 135 mg/L hard water scaling factors in Berino. Regional dispatch grid: Doña Ana County.

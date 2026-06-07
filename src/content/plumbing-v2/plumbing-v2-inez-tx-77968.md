@@ -12,6 +12,7 @@ lng: -96.8000
 zipSample: ["77968"]
 zipCodes: ["77968"]
 localPaths: ["Victoria County / elevation 69 ft band", "Victoria County / ZIP 77968 sector", "Victoria County / primary ZIP 77968", "Victoria County / coords 28.8700, -96.8000"]
+zillowHomeValueUsd: 363228
 ---
 
 **Engineering Notice for Inez:** System optimized for 154 mg/L hard water scaling factors in Inez. Regional dispatch grid: Victoria County.

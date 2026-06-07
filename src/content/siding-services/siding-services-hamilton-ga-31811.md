@@ -12,6 +12,7 @@ lng: -84.8800
 zipSample: ["31811"]
 zipCodes: ["31811"]
 localPaths: ["Harris County / elevation 758 ft band", "Harris County / coords 32.7600, -84.8800", "Harris County / primary ZIP 31811", "Harris County / ZIP 31811 sector"]
+zillowHomeValueUsd: 385232
 ---
 
 **Engineering Notice for Hamilton:** Site context locked to Harris County. Elevation: 758 ft AMSL. Coordinates: 32.7600, -84.8800. Cladding Retrofit integrity verification recorded.

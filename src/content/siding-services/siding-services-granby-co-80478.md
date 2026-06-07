@@ -12,6 +12,7 @@ lng: -105.9200
 zipSample: ["80446", "80478"]
 zipCodes: ["80446", "80478"]
 localPaths: ["Grand County / elevation 8009 ft band", "Grand County / ZIP 80478 sector", "Grand County / ZIP 80446 sector", "Grand County / primary ZIP 80478", "Grand County / coords 40.0600, -105.9200"]
+zillowHomeValueUsd: 1044969
 ---
 
 **Engineering Notice for Granby:** Envelope check: Exterior Envelope assigned to wind-load band C with stress factor 1.18. Elevation: 8009 ft AMSL. Regional dispatch grid: Grand County.

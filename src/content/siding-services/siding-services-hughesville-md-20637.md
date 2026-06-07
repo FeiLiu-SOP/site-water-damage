@@ -12,6 +12,7 @@ lng: -76.7700
 zipSample: ["20637"]
 zipCodes: ["20637"]
 localPaths: ["Charles County / primary ZIP 20637", "Charles County / ZIP 20637 sector", "Charles County / coords 38.5400, -76.7700", "Charles County / elevation 203 ft band"]
+zillowHomeValueUsd: 586567
 ---
 
 **Engineering Notice for Hughesville:** Exterior Cladding was validated under stress factor 1.06; target tolerance set near 103 mph. Grid anchor: Charles County.

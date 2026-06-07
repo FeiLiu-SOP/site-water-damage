@@ -12,6 +12,7 @@ lng: -72.7300
 zipSample: ["11941", "11949"]
 zipCodes: ["11941", "11949"]
 localPaths: ["Suffolk County / ZIP 11949 sector", "Suffolk County / ZIP 11941 sector", "Suffolk County / elevation 66 ft band", "Suffolk County / primary ZIP 11949", "Suffolk County / coords 40.8400, -72.7300"]
+zillowHomeValueUsd: 704385
 ---
 
 **Engineering Notice for Eastport:** System optimized for 131 mg/L hard water scaling factors in Eastport. Regional dispatch grid: Suffolk County.

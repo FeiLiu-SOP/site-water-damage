@@ -11,6 +11,7 @@ lng: -76.8900
 zipSample: ["20785", "20784"]
 zipCodes: ["20785", "20784"]
 localPaths: ["Prince George's County / primary ZIP 20784", "Prince George's County / ZIP 20785 sector", "Prince George's County / ZIP 20784 sector", "Prince George's County / coords 38.9200, -76.8900", "Prince George's County / elevation 59 ft band"]
+zillowHomeValueUsd: 374932
 ---
 
 **Engineering Notice for Landover:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Prince George's County.

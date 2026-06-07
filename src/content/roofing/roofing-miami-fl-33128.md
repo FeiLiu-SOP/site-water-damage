@@ -11,6 +11,7 @@ lng: -80.2100
 zipSample: ["33128", "33126", "33136", "33231", "33233"]
 zipCodes: ["33255", "33132", "33138", "33133", "33150", "33125", "33135", "33195", "33128", "33142", "33145", "33101"]
 localPaths: ["Miami-Dade County / ZIP 33233 sector", "Miami-Dade County / primary ZIP 33128", "Miami-Dade County / ZIP 33126 sector", "Miami-Dade County / ZIP 33136 sector", "Miami-Dade County / ZIP 33231 sector"]
+zillowHomeValueUsd: 430610
 ---
 
 **Engineering Notice for Miami:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

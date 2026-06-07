@@ -11,6 +11,7 @@ lng: -117.6600
 zipSample: ["92690", "92692", "92691"]
 zipCodes: ["92690", "92692", "92691"]
 localPaths: ["Orange County / coords 33.6100, -117.6600", "Orange County / elevation 577 ft band", "Orange County / ZIP 92692 sector", "Orange County / ZIP 92691 sector", "Orange County / primary ZIP 92692"]
+zillowHomeValueUsd: 1226923
 ---
 
 **Engineering Notice for Mission Viejo:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Orange County.

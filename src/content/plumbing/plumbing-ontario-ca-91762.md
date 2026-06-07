@@ -12,6 +12,7 @@ lng: -117.6100
 zipSample: ["91743", "91762", "91764", "91761", "91758"]
 zipCodes: ["91764", "91758", "91762", "91761", "91743"]
 localPaths: ["San Bernardino County / primary ZIP 91762", "San Bernardino County / coords 34.0400, -117.6100", "San Bernardino County / elevation 866 ft band", "San Bernardino County / ZIP 91764 sector", "San Bernardino County / ZIP 91762 sector"]
+zillowHomeValueUsd: 684558
 ---
 
 **Engineering Notice for Ontario:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: San Bernardino County.

@@ -11,6 +11,7 @@ lng: -84.2200
 zipSample: ["31719", "31709"]
 zipCodes: ["31719", "31709"]
 localPaths: ["Sumter County / ZIP 31709 sector", "Sumter County / ZIP 31719 sector", "Sumter County / elevation 433 ft band", "Sumter County / primary ZIP 31709", "Sumter County / coords 32.0700, -84.2200"]
+zillowHomeValueUsd: 141935
 ---
 
 **Engineering Notice for Americus:** Structural loading calculated based on 433 ft terrain assessment. Regional dispatch grid: Sumter County.

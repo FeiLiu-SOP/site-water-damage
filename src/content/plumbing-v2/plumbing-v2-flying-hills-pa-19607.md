@@ -12,6 +12,7 @@ lng: -75.9200
 zipSample: ["19607"]
 zipCodes: ["19607"]
 localPaths: ["Berks County / primary ZIP 19607", "Berks County / ZIP 19607 sector", "Berks County / elevation 348 ft band", "Berks County / coords 40.2800, -75.9200"]
+zillowHomeValueUsd: 271894
 ---
 
 **Engineering Notice for Flying Hills:** System optimized for 124 mg/L hard water scaling factors in Flying Hills. Regional dispatch grid: Berks County.

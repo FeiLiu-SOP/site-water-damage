@@ -12,6 +12,8 @@ lng: -149.8000
 zipSample: ["99652", "99694"]
 zipCodes: ["99652", "99694"]
 localPaths: ["Matanuska-Susitna County / primary ZIP 99694", "Matanuska-Susitna County / ZIP 99652 sector", "Matanuska-Susitna County / elevation 0 ft band", "Matanuska-Susitna County / ZIP 99694 sector", "Matanuska-Susitna County / coords 61.6200, -149.8000"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 358349
 ---
 
 **Engineering Notice for Houston:** System optimized for 121 mg/L hard water scaling factors in Houston. Regional dispatch grid: Matanuska-Susitna County.

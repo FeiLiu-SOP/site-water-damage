@@ -11,6 +11,7 @@ lng: -87.3700
 zipSample: ["37056", "37055"]
 zipCodes: ["37056", "37055"]
 localPaths: ["Dickson County / ZIP 37055 sector", "Dickson County / coords 36.0600, -87.3700", "Dickson County / elevation 866 ft band", "Dickson County / ZIP 37056 sector", "Dickson County / primary ZIP 37055"]
+zillowHomeValueUsd: 343302
 ---
 
 **Engineering Notice for Dickson:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Dickson County.

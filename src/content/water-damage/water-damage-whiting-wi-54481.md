@@ -12,6 +12,7 @@ lng: -89.5600
 zipSample: ["54481"]
 zipCodes: ["54481"]
 localPaths: ["Portage County / elevation 1063 ft band", "Portage County / coords 44.4900, -89.5600", "Portage County / primary ZIP 54481", "Portage County / ZIP 54481 sector"]
+zillowHomeValueUsd: 254683
 ---
 
 **Engineering Notice for Whiting:** structural drying capacity optimized for 1063ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Portage County. Relative Humidity Threshold: 82%. Sensor sync: Active.

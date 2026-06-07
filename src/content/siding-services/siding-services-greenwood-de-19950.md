@@ -12,6 +12,7 @@ lng: -75.5900
 zipSample: ["19950"]
 zipCodes: ["19950"]
 localPaths: ["Sussex County / ZIP 19950 sector", "Sussex County / coords 38.8100, -75.5900", "Sussex County / primary ZIP 19950", "Sussex County / elevation 49 ft band"]
+zillowHomeValueUsd: 365357
 ---
 
 **Engineering Notice for Greenwood:** Structural integrity verification: Cladding Service calibrated for 104 mph localized wind load factor. Elevation: 49 ft AMSL. Coordinates: 38.8100, -75.5900. Regional dispatch grid: Sussex County.

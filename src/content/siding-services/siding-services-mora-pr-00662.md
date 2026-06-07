@@ -12,6 +12,8 @@ lng: -67.0300
 zipSample: ["00662"]
 zipCodes: ["00662"]
 localPaths: ["Isabela County / primary ZIP 00662", "Isabela County / ZIP 00662 sector", "Isabela County / elevation 456 ft band", "Isabela County / coords 18.4600, -67.0300"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 361219
 ---
 
 **Engineering Notice for Mora:** Structural integrity verification: Panel Replacement calibrated for 110 mph localized wind load factor. Elevation: 456 ft AMSL. Coordinates: 18.4600, -67.0300. Regional dispatch grid: Isabela County.

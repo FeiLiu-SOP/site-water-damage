@@ -12,6 +12,7 @@ lng: -86.7200
 zipSample: ["35171"]
 zipCodes: ["35171"]
 localPaths: ["Chilton County / ZIP 35171 sector", "Chilton County / primary ZIP 35171", "Chilton County / coords 32.9200, -86.7200", "Chilton County / elevation 692 ft band"]
+zillowHomeValueUsd: 225393
 ---
 
 **Engineering Notice for Thorsby:** System optimized for 120 mg/L hard water scaling factors in Thorsby. Regional dispatch grid: Chilton County.

@@ -12,6 +12,7 @@ lng: -86.3800
 zipSample: ["46112", "46234"]
 zipCodes: ["46234", "46112"]
 localPaths: ["Hendricks County / elevation 883 ft band", "Hendricks County / coords 39.8300, -86.3800", "Hendricks County / ZIP 46234 sector", "Hendricks County / ZIP 46112 sector", "Hendricks County / primary ZIP 46234"]
+zillowHomeValueUsd: 279656
 ---
 
 **Engineering Notice for Brownsburg:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Hendricks County.

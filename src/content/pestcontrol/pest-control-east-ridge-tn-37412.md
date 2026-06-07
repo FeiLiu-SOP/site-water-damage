@@ -11,6 +11,7 @@ lng: -85.2300
 zipSample: ["37412"]
 zipCodes: ["37412"]
 localPaths: ["Hamilton County / ZIP 37412 sector", "Hamilton County / coords 35.0000, -85.2300", "Hamilton County / elevation 682 ft band", "Hamilton County / primary ZIP 37412"]
+zillowHomeValueUsd: 258054
 ---
 
 **Engineering Notice for East Ridge:** Structural loading calculated based on 682 ft terrain assessment. Regional dispatch grid: Hamilton County.

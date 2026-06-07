@@ -12,6 +12,7 @@ lng: -82.8200
 zipSample: ["33770"]
 zipCodes: ["33770"]
 localPaths: ["Pinellas County / coords 27.9200, -82.8200", "Pinellas County / elevation 56 ft band", "Pinellas County / ZIP 33770 sector", "Pinellas County / primary ZIP 33770"]
+zillowHomeValueUsd: 367209
 ---
 
 **Engineering Notice for Belleair Bluffs:** System optimized for 144 mg/L hard water scaling factors in Belleair Bluffs. Regional dispatch grid: Pinellas County.

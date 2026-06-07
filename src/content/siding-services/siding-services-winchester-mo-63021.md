@@ -12,6 +12,7 @@ lng: -90.5300
 zipSample: ["63021"]
 zipCodes: ["63021"]
 localPaths: ["St. Louis County / primary ZIP 63021", "St. Louis County / coords 38.5900, -90.5300", "St. Louis County / elevation 620 ft band", "St. Louis County / ZIP 63021 sector"]
+zillowHomeValueUsd: 386336
 ---
 
 **Engineering Notice for Winchester:** Site context locked to St. Louis County. Elevation: 620 ft AMSL. Cladding Retrofit integrity verification recorded.

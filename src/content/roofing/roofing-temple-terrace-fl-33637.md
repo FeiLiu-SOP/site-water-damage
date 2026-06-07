@@ -11,6 +11,7 @@ lng: -82.3800
 zipSample: ["33617", "33687", "33637"]
 zipCodes: ["33687", "33637", "33617"]
 localPaths: ["Hillsborough County / ZIP 33687 sector", "Hillsborough County / coords 28.0400, -82.3800", "Hillsborough County / ZIP 33637 sector", "Hillsborough County / elevation 85 ft band", "Hillsborough County / ZIP 33617 sector"]
+zillowHomeValueUsd: 295209
 ---
 
 **Engineering Notice for Temple Terrace:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Hillsborough County.

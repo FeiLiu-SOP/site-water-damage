@@ -11,6 +11,7 @@ lng: -134.1700
 zipSample: ["99812", "99811", "99821", "99801", "99803"]
 zipCodes: ["99821", "99802", "99812", "99803", "99801", "99824", "99811"]
 localPaths: ["Juneau County / primary ZIP 99824", "Juneau County / ZIP 99821 sector", "Juneau County / ZIP 99812 sector", "Juneau County / ZIP 99811 sector", "Juneau County / coords 58.4500, -134.1700"]
+zillowHomeValueUsd: 350377
 ---
 
 **Engineering Notice for Juneau:** Structural loading calculated based on 1942 ft terrain assessment. Regional dispatch grid: Juneau County.

@@ -12,6 +12,7 @@ lng: -83.6100
 zipSample: ["45144"]
 zipCodes: ["45144"]
 localPaths: ["Adams County / coords 38.6900, -83.6100", "Adams County / primary ZIP 45144", "Adams County / elevation 509 ft band", "Adams County / ZIP 45144 sector"]
+zillowHomeValueUsd: 138702
 ---
 
 **Engineering Notice for Manchester:** Structural integrity verification: Exterior Cladding calibrated for 105 mph localized wind load factor. Elevation: 509 ft AMSL. Coordinates: 38.6900, -83.6100. Regional dispatch grid: Adams County.

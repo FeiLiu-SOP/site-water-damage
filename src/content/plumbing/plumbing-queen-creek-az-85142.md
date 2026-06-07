@@ -12,6 +12,7 @@ lng: -111.6200
 zipSample: ["85140", "85142"]
 zipCodes: ["85140", "85142"]
 localPaths: ["Maricopa County / ZIP 85142 sector", "Maricopa County / ZIP 85140 sector", "Maricopa County / primary ZIP 85142", "Maricopa County / elevation 1414 ft band", "Maricopa County / coords 33.2500, -111.6200"]
+zillowHomeValueUsd: 584345
 ---
 
 **Engineering Notice for Queen Creek:** Structural loading calculated based on 1414 ft terrain assessment. Regional dispatch grid: Maricopa County.

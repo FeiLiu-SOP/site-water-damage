@@ -12,6 +12,7 @@ lng: -97.5200
 zipSample: ["76020"]
 zipCodes: ["76020"]
 localPaths: ["Tarrant County / ZIP 76020 sector", "Tarrant County / primary ZIP 76020", "Tarrant County / elevation 725 ft band", "Tarrant County / coords 32.9200, -97.5200"]
+zillowHomeValueUsd: 329552
 ---
 
 **Engineering Notice for Pelican Bay:** System optimized for 125 mg/L hard water scaling factors in Pelican Bay. Regional dispatch grid: Tarrant County.

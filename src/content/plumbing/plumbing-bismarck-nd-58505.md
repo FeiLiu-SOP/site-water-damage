@@ -12,6 +12,7 @@ lng: -100.7700
 zipSample: ["58501", "58503", "58505", "58504", "58507"]
 zipCodes: ["58507", "58503", "58504", "58501", "58505"]
 localPaths: ["Burleigh County / ZIP 58503 sector", "Burleigh County / elevation 1752 ft band", "Burleigh County / coords 46.8100, -100.7700", "Burleigh County / ZIP 58504 sector", "Burleigh County / primary ZIP 58505"]
+zillowHomeValueUsd: 448784
 ---
 
 **Engineering Notice for Bismarck:** Structural loading calculated based on 1752 ft terrain assessment. Regional dispatch grid: Burleigh County.

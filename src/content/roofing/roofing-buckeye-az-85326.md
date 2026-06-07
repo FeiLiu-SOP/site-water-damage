@@ -11,6 +11,7 @@ lng: -112.6400
 zipSample: ["85396", "85326", "85340"]
 zipCodes: ["85326", "85340", "85396"]
 localPaths: ["Maricopa County / ZIP 85340 sector", "Maricopa County / ZIP 85326 sector", "Maricopa County / coords 33.4300, -112.6400", "Maricopa County / elevation 1070 ft band", "Maricopa County / ZIP 85396 sector"]
+zillowHomeValueUsd: 373741
 ---
 
 **Engineering Notice for Buckeye:** Structural loading calculated based on 1070 ft terrain assessment. Regional dispatch grid: Maricopa County.

@@ -12,6 +12,7 @@ lng: -83.5000
 zipSample: ["30547"]
 zipCodes: ["30547"]
 localPaths: ["Banks County / coords 34.3400, -83.5000", "Banks County / elevation 846 ft band", "Banks County / primary ZIP 30547", "Banks County / ZIP 30547 sector"]
+zillowHomeValueUsd: 379528
 ---
 
 **Engineering Notice for Homer:** Cladding verification uses 98 mph routing baseline; lateral pressure note: 13.0 psf. Elevation: 846 ft AMSL. Grid: Banks County.

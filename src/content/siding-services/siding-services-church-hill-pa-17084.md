@@ -12,6 +12,7 @@ lng: -77.5900
 zipSample: ["17084", "17063"]
 zipCodes: ["17063", "17084"]
 localPaths: ["Mifflin County / ZIP 17063 sector", "Mifflin County / coords 40.6900, -77.5900", "Mifflin County / ZIP 17084 sector", "Mifflin County / elevation 814 ft band", "Mifflin County / primary ZIP 17084"]
+zillowHomeValueUsd: 240000
 ---
 
 **Engineering Notice for Church Hill:** Envelope check: Cladding Retrofit assigned to wind-load band C with stress factor 1.02. Regional dispatch grid: Mifflin County.

@@ -12,6 +12,7 @@ lng: -108.0400
 zipSample: ["87413"]
 zipCodes: ["87413"]
 localPaths: ["San Juan County / coords 36.6800, -108.0400", "San Juan County / ZIP 87413 sector", "San Juan County / primary ZIP 87413", "San Juan County / elevation 5420 ft band"]
+zillowHomeValueUsd: 252916
 ---
 
 **Engineering Notice for West Hammond:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 1.04. Regional dispatch grid: San Juan County.

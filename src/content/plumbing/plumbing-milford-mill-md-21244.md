@@ -12,6 +12,7 @@ lng: -76.7700
 zipSample: ["21244"]
 zipCodes: ["21244"]
 localPaths: ["Baltimore County / coords 39.3400, -76.7700", "Baltimore County / elevation 518 ft band", "Baltimore County / ZIP 21244 sector", "Baltimore County / primary ZIP 21244"]
+zillowHomeValueUsd: 322158
 ---
 
 **Engineering Notice for Milford Mill:** Structural loading calculated based on 518 ft terrain assessment. Regional dispatch grid: Baltimore County.

@@ -11,6 +11,7 @@ lng: -122.2700
 zipSample: ["94501", "94502"]
 zipCodes: ["94501", "94502"]
 localPaths: ["Alameda County / coords 37.7700, -122.2700", "Alameda County / elevation 16 ft band", "Alameda County / primary ZIP 94501", "Alameda County / ZIP 94502 sector", "Alameda County / ZIP 94501 sector"]
+zillowHomeValueUsd: 1146632
 ---
 
 **Engineering Notice for Alameda:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Alameda County.

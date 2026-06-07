@@ -12,6 +12,7 @@ lng: -82.8400
 zipSample: ["33786"]
 zipCodes: ["33786"]
 localPaths: ["Pinellas County / primary ZIP 33786", "Pinellas County / elevation 0 ft band", "Pinellas County / coords 27.9200, -82.8400", "Pinellas County / ZIP 33786 sector"]
+zillowHomeValueUsd: 907574
 ---
 
 **Engineering Notice for Belleair Beach:** System optimized for 144 mg/L hard water scaling factors in Belleair Beach. Regional dispatch grid: Pinellas County.

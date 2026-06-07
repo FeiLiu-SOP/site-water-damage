@@ -12,6 +12,7 @@ lng: -96.8900
 zipSample: ["76651"]
 zipCodes: ["76651"]
 localPaths: ["Ellis County / elevation 564 ft band", "Ellis County / ZIP 76651 sector", "Ellis County / primary ZIP 76651", "Ellis County / coords 32.1900, -96.8900"]
+zillowHomeValueUsd: 254824
 ---
 
 **Engineering Notice for Italy:** System optimized for 126 mg/L hard water scaling factors in Italy. Regional dispatch grid: Ellis County.

@@ -12,6 +12,7 @@ lng: -86.7100
 zipSample: ["42206"]
 zipCodes: ["42206"]
 localPaths: ["Logan County / ZIP 42206 sector", "Logan County / primary ZIP 42206", "Logan County / coords 36.8700, -86.7100", "Logan County / elevation 643 ft band"]
+zillowHomeValueUsd: 230241
 ---
 
 **Engineering Notice for Auburn:** Site context locked to Logan County. Coordinates: 36.8700, -86.7100. Panel Replacement integrity verification recorded.

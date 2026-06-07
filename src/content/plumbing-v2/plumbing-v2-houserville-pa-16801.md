@@ -12,6 +12,7 @@ lng: -77.8200
 zipSample: ["16801"]
 zipCodes: ["16801"]
 localPaths: ["Centre County / coords 40.8300, -77.8200", "Centre County / primary ZIP 16801", "Centre County / ZIP 16801 sector", "Centre County / elevation 1047 ft band"]
+zillowHomeValueUsd: 407230
 ---
 
 **Engineering Notice for Houserville:** System optimized for 140 mg/L hard water scaling factors in Houserville. Regional dispatch grid: Centre County.

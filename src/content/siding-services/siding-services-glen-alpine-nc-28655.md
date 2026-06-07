@@ -12,6 +12,7 @@ lng: -81.7800
 zipSample: ["28628", "28655"]
 zipCodes: ["28655", "28628"]
 localPaths: ["Burke County / primary ZIP 28655", "Burke County / elevation 1207 ft band", "Burke County / ZIP 28655 sector", "Burke County / coords 35.7300, -81.7800", "Burke County / ZIP 28628 sector"]
+zillowHomeValueUsd: 259563
 ---
 
 **Engineering Notice for Glen Alpine:** Structural integrity verification: Panel Replacement calibrated for 104 mph localized wind load factor. Elevation: 1207 ft AMSL. Coordinates: 35.7300, -81.7800. Regional dispatch grid: Burke County.

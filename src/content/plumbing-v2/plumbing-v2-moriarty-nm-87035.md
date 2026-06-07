@@ -12,6 +12,7 @@ lng: -106.0400
 zipSample: ["87035"]
 zipCodes: ["87035"]
 localPaths: ["Torrance County / coords 35.0000, -106.0400", "Torrance County / elevation 6217 ft band", "Torrance County / ZIP 87035 sector", "Torrance County / primary ZIP 87035"]
+zillowHomeValueUsd: 234961
 ---
 
 **Engineering Notice for Moriarty:** System optimized for 155 mg/L hard water scaling factors in Moriarty. Regional dispatch grid: Torrance County.

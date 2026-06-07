@@ -12,6 +12,7 @@ lng: -80.4500
 zipSample: ["28025", "28124"]
 zipCodes: ["28124", "28025"]
 localPaths: ["Cabarrus County / primary ZIP 28124", "Cabarrus County / ZIP 28124 sector", "Cabarrus County / ZIP 28025 sector", "Cabarrus County / elevation 659 ft band", "Cabarrus County / coords 35.3800, -80.4500"]
+zillowHomeValueUsd: 381037
 ---
 
 **Engineering Notice for Mount Pleasant:** System optimized for 154 mg/L hard water scaling factors in Mount Pleasant. Regional dispatch grid: Cabarrus County.

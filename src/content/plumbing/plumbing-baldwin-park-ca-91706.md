@@ -12,6 +12,7 @@ lng: -117.9700
 zipSample: ["91706"]
 zipCodes: ["91706"]
 localPaths: ["Los Angeles County / elevation 354 ft band", "Los Angeles County / ZIP 91706 sector", "Los Angeles County / primary ZIP 91706", "Los Angeles County / coords 34.0800, -117.9700"]
+zillowHomeValueUsd: 723285
 ---
 
 **Engineering Notice for Baldwin Park:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Los Angeles County.

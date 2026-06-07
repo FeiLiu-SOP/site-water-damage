@@ -12,6 +12,7 @@ lng: -88.3100
 zipSample: ["60174", "60175"]
 zipCodes: ["60175", "60174"]
 localPaths: ["Kane County / ZIP 60175 sector", "Kane County / elevation 768 ft band", "Kane County / ZIP 60174 sector", "Kane County / primary ZIP 60175", "Kane County / coords 41.9200, -88.3100"]
+zillowHomeValueUsd: 624857
 ---
 
 **Engineering Notice for St. Charles:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: Kane County.

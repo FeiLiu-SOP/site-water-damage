@@ -12,6 +12,7 @@ lng: -94.1100
 zipSample: ["75972"]
 zipCodes: ["75972"]
 localPaths: ["San Augustine County / primary ZIP 75972", "San Augustine County / ZIP 75972 sector", "San Augustine County / coords 31.5300, -94.1100", "San Augustine County / elevation 358 ft band"]
+zillowHomeValueUsd: 188195
 ---
 
 **Engineering Notice for San Augustine:** System optimized for 177 mg/L hard water scaling factors in San Augustine. Regional dispatch grid: San Augustine County.

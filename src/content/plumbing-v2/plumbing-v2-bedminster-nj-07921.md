@@ -12,6 +12,7 @@ lng: -74.6600
 zipSample: ["07921"]
 zipCodes: ["07921"]
 localPaths: ["Somerset County / ZIP 07921 sector", "Somerset County / primary ZIP 07921", "Somerset County / elevation 154 ft band", "Somerset County / coords 40.6700, -74.6600"]
+zillowHomeValueUsd: 511071
 ---
 
 **Engineering Notice for Bedminster:** System optimized for 179 mg/L hard water scaling factors in Bedminster. Regional dispatch grid: Somerset County.

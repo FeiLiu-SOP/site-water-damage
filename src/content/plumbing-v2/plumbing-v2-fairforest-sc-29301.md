@@ -12,6 +12,7 @@ lng: -82.0200
 zipSample: ["29336", "29301"]
 zipCodes: ["29336", "29301"]
 localPaths: ["Spartanburg County / coords 34.9500, -82.0200", "Spartanburg County / elevation 860 ft band", "Spartanburg County / ZIP 29336 sector", "Spartanburg County / primary ZIP 29301", "Spartanburg County / ZIP 29301 sector"]
+zillowHomeValueUsd: 237482
 ---
 
 **Engineering Notice for Fairforest:** System optimized for 125 mg/L hard water scaling factors in Fairforest. Regional dispatch grid: Spartanburg County.

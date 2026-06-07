@@ -12,6 +12,7 @@ lng: -101.0300
 zipSample: ["58577"]
 zipCodes: ["58577"]
 localPaths: ["McLean County / elevation 1818 ft band", "McLean County / coords 47.2900, -101.0300", "McLean County / ZIP 58577 sector", "McLean County / primary ZIP 58577"]
+zillowHomeValueUsd: 241765
 ---
 
 **Engineering Notice for Washburn:** Site context locked to McLean County. Elevation: 1818 ft AMSL. Weather Barrier Wrap integrity verification recorded.

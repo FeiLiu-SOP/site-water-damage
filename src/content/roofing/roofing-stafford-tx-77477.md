@@ -11,6 +11,7 @@ lng: -95.5700
 zipSample: ["77477", "77497"]
 zipCodes: ["77497", "77477"]
 localPaths: ["Fort Bend County / ZIP 77497 sector", "Fort Bend County / coords 29.6300, -95.5700", "Fort Bend County / primary ZIP 77477", "Fort Bend County / ZIP 77477 sector", "Fort Bend County / elevation 85 ft band"]
+zillowHomeValueUsd: 286719
 ---
 
 **Engineering Notice for Stafford:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Fort Bend County.

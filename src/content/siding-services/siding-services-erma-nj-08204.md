@@ -12,6 +12,7 @@ lng: -74.8900
 zipSample: ["08204"]
 zipCodes: ["08204"]
 localPaths: ["Cape May County / elevation 20 ft band", "Cape May County / primary ZIP 08204", "Cape May County / ZIP 08204 sector", "Cape May County / coords 39.0000, -74.8900"]
+zillowHomeValueUsd: 705516
 ---
 
 **Engineering Notice for Erma:** Structural integrity verification: Panel Replacement calibrated for 106 mph localized wind load factor. Regional dispatch grid: Cape May County.

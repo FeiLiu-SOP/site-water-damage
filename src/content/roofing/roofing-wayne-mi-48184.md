@@ -11,6 +11,7 @@ lng: -83.3900
 zipSample: ["48184"]
 zipCodes: ["48184"]
 localPaths: ["Wayne County / coords 42.2800, -83.3900", "Wayne County / ZIP 48184 sector", "Wayne County / elevation 669 ft band", "Wayne County / primary ZIP 48184"]
+zillowHomeValueUsd: 172316
 ---
 
 **Engineering Notice for Wayne:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Wayne County.

@@ -12,6 +12,7 @@ lng: -122.6100
 zipSample: ["98310"]
 zipCodes: ["98310"]
 localPaths: ["Kitsap County / primary ZIP 98310", "Kitsap County / elevation 308 ft band", "Kitsap County / ZIP 98310 sector", "Kitsap County / coords 47.5900, -122.6100"]
+zillowHomeValueUsd: 460146
 ---
 
 **Engineering Notice for Enetai:** structural drying capacity optimized for 308ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kitsap County. Relative Humidity Threshold: 85%. Sensor sync: Active.

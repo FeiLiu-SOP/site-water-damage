@@ -12,6 +12,7 @@ lng: -81.8000
 zipSample: ["29330"]
 zipCodes: ["29330"]
 localPaths: ["Spartanburg County / primary ZIP 29330", "Spartanburg County / ZIP 29330 sector", "Spartanburg County / coords 35.0200, -81.8000", "Spartanburg County / elevation 879 ft band"]
+zillowHomeValueUsd: 207149
 ---
 
 **Engineering Notice for Cowpens:** System optimized for 133 mg/L hard water scaling factors in Cowpens. Regional dispatch grid: Spartanburg County.

@@ -11,6 +11,7 @@ lng: -122.1900
 zipSample: ["98056", "98057", "98059", "98058", "98055"]
 zipCodes: ["98058", "98057", "98056", "98055", "98059"]
 localPaths: ["King County / primary ZIP 98059", "King County / elevation 95 ft band", "King County / ZIP 98059 sector", "King County / coords 47.4800, -122.1900", "King County / ZIP 98058 sector"]
+zillowHomeValueUsd: 981983
 ---
 
 **Engineering Notice for Renton:** Structural loading calculated based on 95 ft terrain assessment. Regional dispatch grid: King County.

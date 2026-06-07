@@ -11,6 +11,7 @@ lng: -84.5300
 zipSample: ["45240"]
 zipCodes: ["45240"]
 localPaths: ["Hamilton County / primary ZIP 45240", "Hamilton County / elevation 879 ft band", "Hamilton County / coords 39.2900, -84.5300", "Hamilton County / ZIP 45240 sector"]
+zillowHomeValueUsd: 247462
 ---
 
 **Engineering Notice for Forest Park:** Structural loading calculated based on 879 ft terrain assessment. Regional dispatch grid: Hamilton County.

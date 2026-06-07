@@ -12,6 +12,7 @@ lng: -101.2600
 zipSample: ["67860"]
 zipCodes: ["67860"]
 localPaths: ["Kearny County / elevation 3022 ft band", "Kearny County / coords 37.9400, -101.2600", "Kearny County / ZIP 67860 sector", "Kearny County / primary ZIP 67860"]
+zillowHomeValueUsd: 200521
 ---
 
 **Engineering Notice for Lakin:** Structural integrity verification: Exterior Envelope calibrated for 94 mph localized wind load factor. Regional dispatch grid: Kearny County.

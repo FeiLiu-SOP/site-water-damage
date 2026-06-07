@@ -11,6 +11,7 @@ lng: -82.1500
 zipSample: ["34478", "34471", "34475", "34483", "34477"]
 zipCodes: ["34477", "34475", "34478", "34483", "34470", "34471", "34474"]
 localPaths: ["Marion County / ZIP 34471 sector", "Marion County / elevation 85 ft band", "Marion County / ZIP 34483 sector", "Marion County / coords 29.1800, -82.1500", "Marion County / ZIP 34478 sector"]
+zillowHomeValueUsd: 210074
 ---
 
 **Engineering Notice for Ocala:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Marion County.

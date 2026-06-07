@@ -12,6 +12,7 @@ lng: -111.1100
 zipSample: ["59758"]
 zipCodes: ["59758"]
 localPaths: ["Gallatin County / coords 44.6600, -111.1100", "Gallatin County / primary ZIP 59758", "Gallatin County / ZIP 59758 sector", "Gallatin County / elevation 6670 ft band"]
+zillowHomeValueUsd: 638947
 ---
 
 **Engineering Notice for West Yellowstone:** System optimized for 144 mg/L hard water scaling factors in West Yellowstone. Regional dispatch grid: Gallatin County.

@@ -11,6 +11,7 @@ lng: -84.5700
 zipSample: ["30269", "31169"]
 zipCodes: ["31169", "30269"]
 localPaths: ["Fayette County / primary ZIP 30269", "Fayette County / ZIP 31169 sector", "Fayette County / elevation 817 ft band", "Fayette County / coords 33.3900, -84.5700", "Fayette County / ZIP 30269 sector"]
+zillowHomeValueUsd: 577662
 ---
 
 **Engineering Notice for Peachtree City:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Fayette County.

@@ -12,6 +12,7 @@ lng: -81.1900
 zipSample: ["29706"]
 zipCodes: ["29706"]
 localPaths: ["Chester County / primary ZIP 29706", "Chester County / elevation 518 ft band", "Chester County / coords 34.7200, -81.1900", "Chester County / ZIP 29706 sector"]
+zillowHomeValueUsd: 189584
 ---
 
 **Engineering Notice for Eureka Mill:** Envelope check: Vinyl Panels assigned to wind-load band B with stress factor 0.75. Elevation: 518 ft AMSL. Regional dispatch grid: Chester County.

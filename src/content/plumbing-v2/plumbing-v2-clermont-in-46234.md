@@ -12,6 +12,7 @@ lng: -86.3200
 zipSample: ["46234"]
 zipCodes: ["46234"]
 localPaths: ["Marion County / coords 39.8200, -86.3200", "Marion County / primary ZIP 46234", "Marion County / ZIP 46234 sector", "Marion County / elevation 837 ft band"]
+zillowHomeValueUsd: 279651
 ---
 
 **Engineering Notice for Clermont:** System optimized for 173 mg/L hard water scaling factors in Clermont. Regional dispatch grid: Marion County.

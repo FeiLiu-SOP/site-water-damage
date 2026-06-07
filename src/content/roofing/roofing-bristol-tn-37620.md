@@ -11,6 +11,7 @@ lng: -82.2200
 zipSample: ["37625", "37620", "37621"]
 zipCodes: ["37620", "37621", "37625"]
 localPaths: ["Sullivan County / ZIP 37620 sector", "Sullivan County / elevation 1647 ft band", "Sullivan County / ZIP 37621 sector", "Sullivan County / ZIP 37625 sector", "Sullivan County / coords 36.5600, -82.2200"]
+zillowHomeValueUsd: 229913
 ---
 
 **Engineering Notice for Bristol:** Structural loading calculated based on 1647 ft terrain assessment. Regional dispatch grid: Sullivan County.

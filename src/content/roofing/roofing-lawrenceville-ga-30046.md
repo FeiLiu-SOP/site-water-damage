@@ -11,6 +11,7 @@ lng: -83.9900
 zipSample: ["30046", "30049"]
 zipCodes: ["30049", "30046"]
 localPaths: ["Gwinnett County / elevation 1083 ft band", "Gwinnett County / ZIP 30046 sector", "Gwinnett County / primary ZIP 30046", "Gwinnett County / coords 33.9500, -83.9900", "Gwinnett County / ZIP 30049 sector"]
+zillowHomeValueUsd: 345137
 ---
 
 **Engineering Notice for Lawrenceville:** Structural loading calculated based on 1083 ft terrain assessment. Regional dispatch grid: Gwinnett County.

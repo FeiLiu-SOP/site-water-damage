@@ -12,6 +12,7 @@ lng: -97.2500
 zipSample: ["76524", "76630"]
 zipCodes: ["76630", "76524"]
 localPaths: ["McLennan County / primary ZIP 76524", "McLennan County / ZIP 76524 sector", "McLennan County / elevation 692 ft band", "McLennan County / coords 31.3100, -97.2500", "McLennan County / ZIP 76630 sector"]
+zillowHomeValueUsd: 261298
 ---
 
 **Engineering Notice for Bruceville-Eddy:** Cladding verification uses 140 mph routing baseline; lateral pressure note: 18.0 psf. Coordinates: 31.3100, -97.2500. Grid: McLennan County.

@@ -12,6 +12,7 @@ lng: -76.0000
 zipSample: ["19526"]
 zipCodes: ["19526"]
 localPaths: ["Berks County / primary ZIP 19526", "Berks County / ZIP 19526 sector", "Berks County / elevation 505 ft band", "Berks County / coords 40.5500, -76.0000"]
+zillowHomeValueUsd: 295754
 ---
 
 **Engineering Notice for West Hamburg:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 1.02. Elevation: 505 ft AMSL. Regional dispatch grid: Berks County.

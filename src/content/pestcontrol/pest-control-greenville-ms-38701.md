@@ -11,6 +11,7 @@ lng: -91.0500
 zipSample: ["38702", "38701", "38703", "38704"]
 zipCodes: ["38701", "38704", "38703", "38702"]
 localPaths: ["Washington County / elevation 138 ft band", "Washington County / ZIP 38701 sector", "Washington County / coords 33.3800, -91.0500", "Washington County / ZIP 38702 sector", "Washington County / primary ZIP 38701"]
+zillowHomeValueUsd: 65701
 ---
 
 **Engineering Notice for Greenville:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Washington County.

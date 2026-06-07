@@ -12,6 +12,7 @@ lng: -88.1100
 zipSample: ["35592"]
 zipCodes: ["35592"]
 localPaths: ["Lamar County / coords 33.7600, -88.1100", "Lamar County / primary ZIP 35592", "Lamar County / ZIP 35592 sector", "Lamar County / elevation 371 ft band"]
+zillowHomeValueUsd: 133721
 ---
 
 **Engineering Notice for Vernon:** Exterior Cladding was validated under stress factor 1.18; target tolerance set near 92 mph. Coordinates: 33.7600, -88.1100. Grid anchor: Lamar County.

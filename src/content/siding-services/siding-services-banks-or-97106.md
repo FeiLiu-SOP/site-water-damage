@@ -12,6 +12,7 @@ lng: -123.1100
 zipSample: ["97106"]
 zipCodes: ["97106"]
 localPaths: ["Washington County / ZIP 97106 sector", "Washington County / elevation 210 ft band", "Washington County / primary ZIP 97106", "Washington County / coords 45.6200, -123.1100"]
+zillowHomeValueUsd: 633526
 ---
 
 **Engineering Notice for Banks:** Panel Replacement was validated under stress factor 1.02; target tolerance set near 93 mph. Grid anchor: Washington County.

@@ -12,6 +12,7 @@ lng: -82.1900
 zipSample: ["37643"]
 zipCodes: ["37643"]
 localPaths: ["Carter County / primary ZIP 37643", "Carter County / elevation 1677 ft band", "Carter County / coords 36.3000, -82.1900", "Carter County / ZIP 37643 sector"]
+zillowHomeValueUsd: 230359
 ---
 
 **Engineering Notice for Valley Forge:** structural drying capacity optimized for 1677ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Carter County. Relative Humidity Threshold: 73%. Sensor sync: Active.

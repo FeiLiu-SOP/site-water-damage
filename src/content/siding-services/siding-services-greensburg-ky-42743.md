@@ -12,6 +12,7 @@ lng: -85.5000
 zipSample: ["42743"]
 zipCodes: ["42743"]
 localPaths: ["Green County / ZIP 42743 sector", "Green County / coords 37.2600, -85.5000", "Green County / primary ZIP 42743", "Green County / elevation 640 ft band"]
+zillowHomeValueUsd: 183685
 ---
 
 **Engineering Notice for Greensburg:** Envelope check: Exterior Envelope assigned to wind-load band C with stress factor 1.15. Elevation: 640 ft AMSL. Regional dispatch grid: Green County.

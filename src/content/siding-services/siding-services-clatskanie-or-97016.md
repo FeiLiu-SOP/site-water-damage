@@ -12,6 +12,7 @@ lng: -123.2000
 zipSample: ["97016"]
 zipCodes: ["97016"]
 localPaths: ["Columbia County / primary ZIP 97016", "Columbia County / coords 46.1000, -123.2000", "Columbia County / elevation 20 ft band", "Columbia County / ZIP 97016 sector"]
+zillowHomeValueUsd: 402708
 ---
 
 **Engineering Notice for Clatskanie:** Envelope check: Exterior Cladding assigned to wind-load band A with stress factor 0.86. Regional dispatch grid: Columbia County.

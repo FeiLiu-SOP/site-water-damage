@@ -12,6 +12,7 @@ lng: -106.3800
 zipSample: ["80459"]
 zipCodes: ["80459"]
 localPaths: ["Grand County / coords 40.0600, -106.3800", "Grand County / primary ZIP 80459", "Grand County / elevation 7408 ft band", "Grand County / ZIP 80459 sector"]
+zillowHomeValueUsd: 546681
 ---
 
 **Engineering Notice for Kremmling:** Structural integrity verification: Vinyl Panels calibrated for 91 mph localized wind load factor. Coordinates: 40.0600, -106.3800. Regional dispatch grid: Grand County.

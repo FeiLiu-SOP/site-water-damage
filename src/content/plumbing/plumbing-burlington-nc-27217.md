@@ -12,6 +12,7 @@ lng: -79.4700
 zipSample: ["27217", "27215"]
 zipCodes: ["27217", "27215"]
 localPaths: ["Alamance County / ZIP 27215 sector", "Alamance County / primary ZIP 27217", "Alamance County / ZIP 27217 sector", "Alamance County / coords 36.0800, -79.4700", "Alamance County / elevation 673 ft band"]
+zillowHomeValueUsd: 224955
 ---
 
 **Engineering Notice for Burlington:** Structural loading calculated based on 673 ft terrain assessment. Regional dispatch grid: Alamance County.

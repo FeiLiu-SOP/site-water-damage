@@ -12,6 +12,7 @@ lng: -97.6400
 zipSample: ["67031"]
 zipCodes: ["67031"]
 localPaths: ["Sumner County / elevation 1394 ft band", "Sumner County / ZIP 67031 sector", "Sumner County / primary ZIP 67031", "Sumner County / coords 37.3900, -97.6400"]
+zillowHomeValueUsd: 195076
 ---
 
 **Engineering Notice for Conway Springs:** System optimized for 135 mg/L hard water scaling factors in Conway Springs. Regional dispatch grid: Sumner County.

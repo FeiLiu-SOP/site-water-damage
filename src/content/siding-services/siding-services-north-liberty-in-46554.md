@@ -12,6 +12,7 @@ lng: -86.4300
 zipSample: ["46554"]
 zipCodes: ["46554"]
 localPaths: ["St. Joseph County / ZIP 46554 sector", "St. Joseph County / elevation 728 ft band", "St. Joseph County / coords 41.5300, -86.4300", "St. Joseph County / primary ZIP 46554"]
+zillowHomeValueUsd: 264279
 ---
 
 **Engineering Notice for North Liberty:** Envelope check: Weather Barrier Wrap assigned to wind-load band B with stress factor 1.23. Regional dispatch grid: St. Joseph County.

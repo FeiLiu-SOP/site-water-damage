@@ -12,6 +12,7 @@ lng: -87.2700
 zipSample: ["46405", "46342"]
 zipCodes: ["46342", "46405"]
 localPaths: ["Lake County / elevation 643 ft band", "Lake County / ZIP 46405 sector", "Lake County / primary ZIP 46342", "Lake County / coords 41.5600, -87.2700", "Lake County / ZIP 46342 sector"]
+zillowHomeValueUsd: 234747
 ---
 
 **Engineering Notice for New Chicago:** Site context locked to Lake County. Elevation: 643 ft AMSL. Exterior Cladding integrity verification recorded.

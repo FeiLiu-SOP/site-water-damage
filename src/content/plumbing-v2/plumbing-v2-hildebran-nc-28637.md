@@ -12,6 +12,8 @@ lng: -81.4200
 zipSample: ["28637"]
 zipCodes: ["28637"]
 localPaths: ["Burke County / primary ZIP 28637", "Burke County / elevation 1115 ft band", "Burke County / ZIP 28637 sector", "Burke County / coords 35.7200, -81.4200"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 328936
 ---
 
 **Engineering Notice for Hildebran:** System optimized for 142 mg/L hard water scaling factors in Hildebran. Regional dispatch grid: Burke County.

@@ -11,6 +11,7 @@ lng: -88.2600
 zipSample: ["54130"]
 zipCodes: ["54130"]
 localPaths: ["Outagamie County / elevation 636 ft band", "Outagamie County / primary ZIP 54130", "Outagamie County / ZIP 54130 sector", "Outagamie County / coords 44.2800, -88.2600"]
+zillowHomeValueUsd: 335258
 ---
 
 **Engineering Notice for Kaukauna:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Outagamie County.

@@ -12,6 +12,7 @@ lng: -71.7900
 zipSample: ["02804"]
 zipCodes: ["02804"]
 localPaths: ["Washington County / primary ZIP 02804", "Washington County / elevation 105 ft band", "Washington County / ZIP 02804 sector", "Washington County / coords 41.4300, -71.7900"]
+zillowHomeValueUsd: 451947
 ---
 
 **Engineering Notice for Ashaway:** structural drying capacity optimized for 105ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 68%. Sensor sync: Active.

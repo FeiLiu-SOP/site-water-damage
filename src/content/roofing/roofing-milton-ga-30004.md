@@ -11,6 +11,7 @@ lng: -84.3100
 zipSample: ["30009", "30004"]
 zipCodes: ["30004", "30009"]
 localPaths: ["Fulton County / coords 34.1400, -84.3100", "Fulton County / ZIP 30009 sector", "Fulton County / ZIP 30004 sector", "Fulton County / primary ZIP 30004", "Fulton County / elevation 978 ft band"]
+zillowHomeValueUsd: 761023
 ---
 
 **Engineering Notice for Milton:** Structural loading calculated based on 978 ft terrain assessment. Regional dispatch grid: Fulton County.

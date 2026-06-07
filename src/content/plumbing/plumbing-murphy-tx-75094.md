@@ -12,6 +12,7 @@ lng: -96.6100
 zipSample: ["75094"]
 zipCodes: ["75094"]
 localPaths: ["Collin County / coords 33.0200, -96.6100", "Collin County / ZIP 75094 sector", "Collin County / primary ZIP 75094", "Collin County / elevation 584 ft band"]
+zillowHomeValueUsd: 569654
 ---
 
 **Engineering Notice for Murphy:** Structural loading calculated based on 584 ft terrain assessment. Regional dispatch grid: Collin County.

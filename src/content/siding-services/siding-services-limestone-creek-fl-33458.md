@@ -12,6 +12,7 @@ lng: -80.1400
 zipSample: ["33458"]
 zipCodes: ["33458"]
 localPaths: ["Palm Beach County / coords 26.9400, -80.1400", "Palm Beach County / elevation 26 ft band", "Palm Beach County / ZIP 33458 sector", "Palm Beach County / primary ZIP 33458"]
+zillowHomeValueUsd: 613644
 ---
 
 **Engineering Notice for Limestone Creek:** Cladding verification uses 132 mph routing baseline; lateral pressure note: 17.0 psf. Grid: Palm Beach County.

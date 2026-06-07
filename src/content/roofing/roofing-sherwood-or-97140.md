@@ -11,6 +11,7 @@ lng: -122.8400
 zipSample: ["97140"]
 zipCodes: ["97140"]
 localPaths: ["Washington County / elevation 210 ft band", "Washington County / ZIP 97140 sector", "Washington County / coords 45.3600, -122.8400", "Washington County / primary ZIP 97140"]
+zillowHomeValueUsd: 632904
 ---
 
 **Engineering Notice for Sherwood:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Washington County.

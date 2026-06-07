@@ -11,6 +11,7 @@ lng: -82.5500
 zipSample: ["28776", "28805", "28801", "28815", "28806"]
 zipCodes: ["28801", "28804", "28810", "28805", "28814", "28816", "28776", "28815", "28806", "28803"]
 localPaths: ["Buncombe County / elevation 2123 ft band", "Buncombe County / ZIP 28815 sector", "Buncombe County / ZIP 28806 sector", "Buncombe County / ZIP 28805 sector", "Buncombe County / coords 35.5700, -82.5500"]
+zillowHomeValueUsd: 405008
 ---
 
 **Engineering Notice for Asheville:** Structural loading calculated based on 2123 ft terrain assessment. Regional dispatch grid: Buncombe County.

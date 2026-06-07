@@ -12,6 +12,7 @@ lng: -89.1700
 zipSample: ["39735"]
 zipCodes: ["39735"]
 localPaths: ["Choctaw County / primary ZIP 39735", "Choctaw County / coords 33.3100, -89.1700", "Choctaw County / elevation 535 ft band", "Choctaw County / ZIP 39735 sector"]
+zillowHomeValueUsd: 136804
 ---
 
 **Engineering Notice for Ackerman:** structural drying capacity optimized for 535ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Choctaw County. Relative Humidity Threshold: 71%. Sensor sync: Active.

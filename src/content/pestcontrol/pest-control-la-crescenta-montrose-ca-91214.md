@@ -11,6 +11,7 @@ lng: -118.2400
 zipSample: ["91224", "91214", "91021", "91020"]
 zipCodes: ["91214", "91020", "91224", "91021"]
 localPaths: ["Los Angeles County / ZIP 91020 sector", "Los Angeles County / ZIP 91224 sector", "Los Angeles County / coords 34.2300, -118.2400", "Los Angeles County / ZIP 91021 sector", "Los Angeles County / ZIP 91214 sector"]
+zillowHomeValueUsd: 1257892
 ---
 
 **Engineering Notice for La Crescenta-Montrose:** Structural loading calculated based on 1844 ft terrain assessment. Regional dispatch grid: Los Angeles County.

@@ -11,6 +11,7 @@ lng: -121.9800
 zipSample: ["95062", "95065"]
 zipCodes: ["95062", "95065"]
 localPaths: ["Santa Cruz County / coords 36.9900, -121.9800", "Santa Cruz County / ZIP 95062 sector", "Santa Cruz County / ZIP 95065 sector", "Santa Cruz County / elevation 112 ft band", "Santa Cruz County / primary ZIP 95065"]
+zillowHomeValueUsd: 1351121
 ---
 
 **Engineering Notice for Live Oak:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Santa Cruz County.

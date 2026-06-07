@@ -11,6 +11,7 @@ lng: -121.3600
 zipSample: ["95843"]
 zipCodes: ["95843"]
 localPaths: ["Sacramento County / elevation 128 ft band", "Sacramento County / primary ZIP 95843", "Sacramento County / ZIP 95843 sector", "Sacramento County / coords 38.7200, -121.3600"]
+zillowHomeValueUsd: 503974
 ---
 
 **Engineering Notice for Antelope:** Structural loading calculated based on 128 ft terrain assessment. Regional dispatch grid: Sacramento County.

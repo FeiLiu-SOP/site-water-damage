@@ -12,6 +12,7 @@ lng: -74.3600
 zipSample: ["08840"]
 zipCodes: ["08840"]
 localPaths: ["Middlesex County / elevation 98 ft band", "Middlesex County / coords 40.5400, -74.3600", "Middlesex County / primary ZIP 08840", "Middlesex County / ZIP 08840 sector"]
+zillowHomeValueUsd: 682608
 ---
 
 **Engineering Notice for Metuchen:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Middlesex County.

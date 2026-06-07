@@ -12,6 +12,7 @@ lng: -97.5800
 zipSample: ["78550", "78583"]
 zipCodes: ["78583", "78550"]
 localPaths: ["Cameron County / ZIP 78583 sector", "Cameron County / coords 26.2300, -97.5800", "Cameron County / elevation 43 ft band", "Cameron County / primary ZIP 78583", "Cameron County / ZIP 78550 sector"]
+zillowHomeValueUsd: 210495
 ---
 
 **Engineering Notice for Rio Hondo:** Cladding verification uses 133 mph routing baseline; lateral pressure note: 17.2 psf. Elevation: 43 ft AMSL. Coordinates: 26.2300, -97.5800. Grid: Cameron County.

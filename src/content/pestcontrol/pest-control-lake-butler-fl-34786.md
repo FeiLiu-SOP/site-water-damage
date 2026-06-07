@@ -11,6 +11,7 @@ lng: -81.5500
 zipSample: ["34786"]
 zipCodes: ["34786"]
 localPaths: ["Orange County / primary ZIP 34786", "Orange County / ZIP 34786 sector", "Orange County / coords 28.4900, -81.5500", "Orange County / elevation 92 ft band"]
+zillowHomeValueUsd: 700027
 ---
 
 **Engineering Notice for Lake Butler:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Orange County.

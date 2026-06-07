@@ -12,6 +12,7 @@ lng: -74.0300
 zipSample: ["07719"]
 zipCodes: ["07719"]
 localPaths: ["Monmouth County / coords 40.1700, -74.0300", "Monmouth County / ZIP 07719 sector", "Monmouth County / elevation 26 ft band", "Monmouth County / primary ZIP 07719"]
+zillowHomeValueUsd: 806913
 ---
 
 **Engineering Notice for Lake Como:** structural drying capacity optimized for 26ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Monmouth County. Relative Humidity Threshold: 72%. Sensor sync: Active.

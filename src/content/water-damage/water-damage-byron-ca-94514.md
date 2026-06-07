@@ -12,6 +12,7 @@ lng: -121.6400
 zipSample: ["94514", "94513"]
 zipCodes: ["94513", "94514"]
 localPaths: ["Contra Costa County / primary ZIP 94514", "Contra Costa County / elevation 30 ft band", "Contra Costa County / coords 37.8800, -121.6400", "Contra Costa County / ZIP 94513 sector", "Contra Costa County / ZIP 94514 sector"]
+zillowHomeValueUsd: 855683
 ---
 
 **Engineering Notice for Byron:** structural drying capacity optimized for 30ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Contra Costa County. Relative Humidity Threshold: 85%. Sensor sync: Active.

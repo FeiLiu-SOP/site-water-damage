@@ -12,6 +12,7 @@ lng: -73.3600
 zipSample: ["11740", "11743"]
 zipCodes: ["11740", "11743"]
 localPaths: ["Suffolk County / primary ZIP 11740", "Suffolk County / elevation 220 ft band", "Suffolk County / coords 40.8600, -73.3600", "Suffolk County / ZIP 11743 sector", "Suffolk County / ZIP 11740 sector"]
+zillowHomeValueUsd: 821321
 ---
 
 **Engineering Notice for Greenlawn:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Suffolk County.

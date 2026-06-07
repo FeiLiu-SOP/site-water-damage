@@ -12,6 +12,7 @@ lng: -73.9300
 zipSample: ["10521", "10520"]
 zipCodes: ["10520", "10521"]
 localPaths: ["Westchester County / primary ZIP 10520", "Westchester County / ZIP 10520 sector", "Westchester County / coords 41.2300, -73.9300", "Westchester County / elevation 52 ft band", "Westchester County / ZIP 10521 sector"]
+zillowHomeValueUsd: 811463
 ---
 
 **Engineering Notice for Crugers:** Envelope check: Cladding Retrofit assigned to wind-load band A with stress factor 1.22. Elevation: 52 ft AMSL. Regional dispatch grid: Westchester County.

@@ -12,6 +12,7 @@ lng: -86.8800
 zipSample: ["47959"]
 zipCodes: ["47959"]
 localPaths: ["White County / ZIP 47959 sector", "White County / primary ZIP 47959", "White County / coords 40.8600, -86.8800", "White County / elevation 682 ft band"]
+zillowHomeValueUsd: 179823
 ---
 
 **Engineering Notice for Monon:** Envelope check: Exterior Envelope assigned to wind-load band A with stress factor 0.77. Regional dispatch grid: White County.

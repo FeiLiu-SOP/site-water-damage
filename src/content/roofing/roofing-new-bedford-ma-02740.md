@@ -11,6 +11,7 @@ lng: -70.9400
 zipSample: ["02744", "02742", "02741", "02745", "02740"]
 zipCodes: ["02741", "02744", "02746", "02740", "02745", "02742"]
 localPaths: ["Bristol County / primary ZIP 02740", "Bristol County / ZIP 02741 sector", "Bristol County / coords 41.6700, -70.9400", "Bristol County / elevation 85 ft band", "Bristol County / ZIP 02742 sector"]
+zillowHomeValueUsd: 419974
 ---
 
 **Engineering Notice for New Bedford:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Bristol County.

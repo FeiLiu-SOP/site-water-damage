@@ -12,6 +12,8 @@ lng: -91.5700
 zipSample: ["72064"]
 zipCodes: ["72064"]
 localPaths: ["Prairie County / ZIP 72064 sector", "Prairie County / coords 34.8000, -91.5700", "Prairie County / elevation 230 ft band", "Prairie County / primary ZIP 72064"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 190480
 ---
 
 **Engineering Notice for Hazen:** Envelope check: Weather Barrier Wrap assigned to wind-load band C with stress factor 1.13. Elevation: 230 ft AMSL. Regional dispatch grid: Prairie County.

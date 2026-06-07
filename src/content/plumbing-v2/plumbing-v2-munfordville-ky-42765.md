@@ -12,6 +12,7 @@ lng: -85.9000
 zipSample: ["42765"]
 zipCodes: ["42765"]
 localPaths: ["Hart County / coords 37.2800, -85.9000", "Hart County / elevation 614 ft band", "Hart County / ZIP 42765 sector", "Hart County / primary ZIP 42765"]
+zillowHomeValueUsd: 198834
 ---
 
 **Engineering Notice for Munfordville:** System optimized for 146 mg/L hard water scaling factors in Munfordville. Regional dispatch grid: Hart County.

@@ -12,6 +12,7 @@ lng: -86.1100
 zipSample: ["49013"]
 zipCodes: ["49013"]
 localPaths: ["Van Buren County / primary ZIP 49013", "Van Buren County / elevation 663 ft band", "Van Buren County / ZIP 49013 sector", "Van Buren County / coords 42.3100, -86.1100"]
+zillowHomeValueUsd: 204902
 ---
 
 **Engineering Notice for Bangor:** Site context locked to Van Buren County. Elevation: 663 ft AMSL. Facade Renewal integrity verification recorded.

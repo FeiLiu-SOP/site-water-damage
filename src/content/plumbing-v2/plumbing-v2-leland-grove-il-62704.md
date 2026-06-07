@@ -12,6 +12,7 @@ lng: -89.6800
 zipSample: ["62704"]
 zipCodes: ["62704"]
 localPaths: ["Sangamon County / ZIP 62704 sector", "Sangamon County / primary ZIP 62704", "Sangamon County / coords 39.7800, -89.6800", "Sangamon County / elevation 591 ft band"]
+zillowHomeValueUsd: 180772
 ---
 
 **Engineering Notice for Leland Grove:** System optimized for 134 mg/L hard water scaling factors in Leland Grove. Regional dispatch grid: Sangamon County.

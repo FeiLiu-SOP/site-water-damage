@@ -12,6 +12,7 @@ lng: -77.0000
 zipSample: ["20861", "20905"]
 zipCodes: ["20861", "20905"]
 localPaths: ["Montgomery County / ZIP 20861 sector", "Montgomery County / ZIP 20905 sector", "Montgomery County / primary ZIP 20861", "Montgomery County / elevation 522 ft band", "Montgomery County / coords 39.1100, -77.0000"]
+zillowHomeValueUsd: 981398
 ---
 
 **Engineering Notice for Cloverly:** Structural loading calculated based on 522 ft terrain assessment. Regional dispatch grid: Montgomery County.

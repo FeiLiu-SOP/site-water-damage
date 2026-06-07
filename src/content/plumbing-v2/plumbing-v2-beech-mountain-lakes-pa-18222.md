@@ -12,6 +12,7 @@ lng: -75.9300
 zipSample: ["18222"]
 zipCodes: ["18222"]
 localPaths: ["Luzerne County / elevation 1112 ft band", "Luzerne County / primary ZIP 18222", "Luzerne County / coords 41.0400, -75.9300", "Luzerne County / ZIP 18222 sector"]
+zillowHomeValueUsd: 290557
 ---
 
 **Engineering Notice for Beech Mountain Lakes:** System optimized for 172 mg/L hard water scaling factors in Beech Mountain Lakes. Regional dispatch grid: Luzerne County.

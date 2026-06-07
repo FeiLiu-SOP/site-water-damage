@@ -11,6 +11,7 @@ lng: -78.8800
 zipSample: ["14151", "14150"]
 zipCodes: ["14150", "14151"]
 localPaths: ["Erie County / coords 43.0100, -78.8800", "Erie County / ZIP 14151 sector", "Erie County / primary ZIP 14150", "Erie County / elevation 577 ft band", "Erie County / ZIP 14150 sector"]
+zillowHomeValueUsd: 251741
 ---
 
 **Engineering Notice for Tonawanda:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Erie County.

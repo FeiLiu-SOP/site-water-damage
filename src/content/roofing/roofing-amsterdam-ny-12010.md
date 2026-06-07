@@ -11,6 +11,7 @@ lng: -74.1900
 zipSample: ["12010"]
 zipCodes: ["12010"]
 localPaths: ["Montgomery County / primary ZIP 12010", "Montgomery County / coords 42.9400, -74.1900", "Montgomery County / ZIP 12010 sector", "Montgomery County / elevation 417 ft band"]
+zillowHomeValueUsd: 235776
 ---
 
 **Engineering Notice for Amsterdam:** Structural loading calculated based on 417 ft terrain assessment. Regional dispatch grid: Montgomery County.

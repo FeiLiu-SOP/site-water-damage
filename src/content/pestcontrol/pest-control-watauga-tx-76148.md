@@ -11,6 +11,7 @@ lng: -97.2500
 zipSample: ["76148"]
 zipCodes: ["76148"]
 localPaths: ["Tarrant County / primary ZIP 76148", "Tarrant County / elevation 666 ft band", "Tarrant County / coords 32.8700, -97.2500", "Tarrant County / ZIP 76148 sector"]
+zillowHomeValueUsd: 272229
 ---
 
 **Engineering Notice for Watauga:** Structural loading calculated based on 666 ft terrain assessment. Regional dispatch grid: Tarrant County.

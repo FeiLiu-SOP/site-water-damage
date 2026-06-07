@@ -12,6 +12,7 @@ lng: -89.3600
 zipSample: ["61755"]
 zipCodes: ["61755"]
 localPaths: ["Tazewell County / ZIP 61755 sector", "Tazewell County / primary ZIP 61755", "Tazewell County / coords 40.5300, -89.3600", "Tazewell County / elevation 659 ft band"]
+zillowHomeValueUsd: 250195
 ---
 
 **Engineering Notice for Mackinaw:** System optimized for 122 mg/L hard water scaling factors in Mackinaw. Regional dispatch grid: Tazewell County.

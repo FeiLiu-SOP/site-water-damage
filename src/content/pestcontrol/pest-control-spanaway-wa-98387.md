@@ -11,6 +11,7 @@ lng: -122.4200
 zipSample: ["98445", "98387"]
 zipCodes: ["98445", "98387"]
 localPaths: ["Pierce County / coords 47.1000, -122.4200", "Pierce County / ZIP 98387 sector", "Pierce County / primary ZIP 98387", "Pierce County / elevation 374 ft band", "Pierce County / ZIP 98445 sector"]
+zillowHomeValueUsd: 509457
 ---
 
 **Engineering Notice for Spanaway:** Structural loading calculated based on 374 ft terrain assessment. Regional dispatch grid: Pierce County.

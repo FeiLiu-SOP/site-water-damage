@@ -12,6 +12,7 @@ lng: -91.0100
 zipSample: ["52046"]
 zipCodes: ["52046"]
 localPaths: ["Dubuque County / elevation 1119 ft band", "Dubuque County / primary ZIP 52046", "Dubuque County / coords 42.4400, -91.0100", "Dubuque County / ZIP 52046 sector"]
+zillowHomeValueUsd: 306535
 ---
 
 **Engineering Notice for Farley:** System optimized for 125 mg/L hard water scaling factors in Farley. Regional dispatch grid: Dubuque County.

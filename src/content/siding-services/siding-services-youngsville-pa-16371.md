@@ -12,6 +12,7 @@ lng: -79.3200
 zipSample: ["16371"]
 zipCodes: ["16371"]
 localPaths: ["Warren County / coords 41.8500, -79.3200", "Warren County / elevation 1207 ft band", "Warren County / ZIP 16371 sector", "Warren County / primary ZIP 16371"]
+zillowHomeValueUsd: 132506
 ---
 
 **Engineering Notice for Youngsville:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Grid: Warren County.

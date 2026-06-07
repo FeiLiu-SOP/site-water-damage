@@ -11,6 +11,7 @@ lng: -81.7800
 zipSample: ["30460", "30458", "30461", "30459"]
 zipCodes: ["30461", "30459", "30458", "30460"]
 localPaths: ["Bulloch County / coords 32.4400, -81.7800", "Bulloch County / ZIP 30459 sector", "Bulloch County / elevation 236 ft band", "Bulloch County / ZIP 30461 sector", "Bulloch County / ZIP 30460 sector"]
+zillowHomeValueUsd: 259388
 ---
 
 **Engineering Notice for Statesboro:** Structural loading calculated based on 236 ft terrain assessment. Regional dispatch grid: Bulloch County.

@@ -12,6 +12,7 @@ lng: -92.8600
 zipSample: ["55072"]
 zipCodes: ["55072"]
 localPaths: ["Pine County / elevation 1086 ft band", "Pine County / primary ZIP 55072", "Pine County / ZIP 55072 sector", "Pine County / coords 46.1300, -92.8600"]
+zillowHomeValueUsd: 224374
 ---
 
 **Engineering Notice for Sandstone:** Envelope check: Wall Restoration assigned to wind-load band C with stress factor 1.14. Elevation: 1086 ft AMSL. Regional dispatch grid: Pine County.

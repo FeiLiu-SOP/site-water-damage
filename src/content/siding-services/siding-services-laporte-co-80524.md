@@ -12,6 +12,7 @@ lng: -105.1400
 zipSample: ["80524", "80535"]
 zipCodes: ["80524", "80535"]
 localPaths: ["Larimer County / ZIP 80535 sector", "Larimer County / ZIP 80524 sector", "Larimer County / coords 40.6400, -105.1400", "Larimer County / elevation 5118 ft band", "Larimer County / primary ZIP 80524"]
+zillowHomeValueUsd: 588219
 ---
 
 **Engineering Notice for Laporte:** Vinyl Panels was validated under stress factor 0.71; target tolerance set near 104 mph. Grid anchor: Larimer County.

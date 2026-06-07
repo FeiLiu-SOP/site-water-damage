@@ -12,6 +12,7 @@ lng: -100.2100
 zipSample: ["79095"]
 zipCodes: ["79095"]
 localPaths: ["Collingsworth County / ZIP 79095 sector", "Collingsworth County / elevation 2041 ft band", "Collingsworth County / coords 34.8500, -100.2100", "Collingsworth County / primary ZIP 79095"]
+zillowHomeValueUsd: 83267
 ---
 
 **Engineering Notice for Wellington:** structural drying capacity optimized for 2041ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Collingsworth County. Relative Humidity Threshold: 69%. Sensor sync: Active.

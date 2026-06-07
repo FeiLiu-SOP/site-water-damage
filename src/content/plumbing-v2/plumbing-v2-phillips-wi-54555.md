@@ -12,6 +12,7 @@ lng: -90.4000
 zipSample: ["54555"]
 zipCodes: ["54555"]
 localPaths: ["Price County / primary ZIP 54555", "Price County / ZIP 54555 sector", "Price County / coords 45.7000, -90.4000", "Price County / elevation 1430 ft band"]
+zillowHomeValueUsd: 221722
 ---
 
 **Engineering Notice for Phillips:** System optimized for 171 mg/L hard water scaling factors in Phillips. Regional dispatch grid: Price County.

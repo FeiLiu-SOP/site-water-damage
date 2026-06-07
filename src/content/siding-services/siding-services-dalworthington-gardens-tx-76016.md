@@ -12,6 +12,7 @@ lng: -97.1600
 zipSample: ["76016"]
 zipCodes: ["76016"]
 localPaths: ["Tarrant County / coords 32.6900, -97.1600", "Tarrant County / primary ZIP 76016", "Tarrant County / elevation 587 ft band", "Tarrant County / ZIP 76016 sector"]
+zillowHomeValueUsd: 342747
 ---
 
 **Engineering Notice for Dalworthington Gardens:** Cladding verification uses 140 mph routing baseline; lateral pressure note: 18.0 psf. Grid: Tarrant County.

@@ -12,6 +12,7 @@ lng: -80.7200
 zipSample: ["29720"]
 zipCodes: ["29720"]
 localPaths: ["Lancaster County / coords 34.6700, -80.7200", "Lancaster County / elevation 633 ft band", "Lancaster County / ZIP 29720 sector", "Lancaster County / primary ZIP 29720"]
+zillowHomeValueUsd: 291601
 ---
 
 **Engineering Notice for Elgin:** System optimized for 165 mg/L hard water scaling factors in Elgin. Regional dispatch grid: Lancaster County.

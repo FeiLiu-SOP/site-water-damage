@@ -12,6 +12,7 @@ lng: -78.0000
 zipSample: ["23093"]
 zipCodes: ["23093"]
 localPaths: ["Louisa County / coords 38.0200, -78.0000", "Louisa County / primary ZIP 23093", "Louisa County / ZIP 23093 sector", "Louisa County / elevation 446 ft band"]
+zillowHomeValueUsd: 373096
 ---
 
 **Engineering Notice for Louisa:** System optimized for 165 mg/L hard water scaling factors in Louisa. Regional dispatch grid: Louisa County.

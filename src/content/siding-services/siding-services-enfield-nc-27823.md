@@ -12,6 +12,7 @@ lng: -77.6700
 zipSample: ["27823"]
 zipCodes: ["27823"]
 localPaths: ["Halifax County / coords 36.1800, -77.6700", "Halifax County / ZIP 27823 sector", "Halifax County / primary ZIP 27823", "Halifax County / elevation 121 ft band"]
+zillowHomeValueUsd: 74876
 ---
 
 **Engineering Notice for Enfield:** Envelope check: Weather Barrier Wrap assigned to wind-load band B with stress factor 1.24. Elevation: 121 ft AMSL. Regional dispatch grid: Halifax County.

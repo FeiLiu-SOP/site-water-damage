@@ -12,6 +12,7 @@ lng: -104.8500
 zipSample: ["81019", "81069"]
 zipCodes: ["81069", "81019"]
 localPaths: ["Pueblo County / ZIP 81019 sector", "Pueblo County / elevation 5928 ft band", "Pueblo County / ZIP 81069 sector", "Pueblo County / coords 37.9400, -104.8500", "Pueblo County / primary ZIP 81019"]
+zillowHomeValueUsd: 322906
 ---
 
 **Engineering Notice for Colorado City:** Cladding Retrofit was validated under stress factor 0.71; target tolerance set near 100 mph. Grid anchor: Pueblo County.

@@ -11,6 +11,7 @@ lng: -87.8400
 zipSample: ["60068"]
 zipCodes: ["60068"]
 localPaths: ["Cook County / ZIP 60068 sector", "Cook County / coords 42.0100, -87.8400", "Cook County / elevation 653 ft band", "Cook County / primary ZIP 60068"]
+zillowHomeValueUsd: 566335
 ---
 
 **Engineering Notice for Park Ridge:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Cook County.

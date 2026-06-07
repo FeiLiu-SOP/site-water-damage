@@ -12,6 +12,7 @@ lng: -95.4400
 zipSample: ["75783"]
 zipCodes: ["75783"]
 localPaths: ["Wood County / primary ZIP 75783", "Wood County / elevation 417 ft band", "Wood County / ZIP 75783 sector", "Wood County / coords 32.8000, -95.4400"]
+zillowHomeValueUsd: 250533
 ---
 
 **Engineering Notice for Quitman:** Site context locked to Wood County. Elevation: 417 ft AMSL. Exterior Cladding integrity verification recorded.

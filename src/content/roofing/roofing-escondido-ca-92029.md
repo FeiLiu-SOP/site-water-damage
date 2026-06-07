@@ -11,6 +11,7 @@ lng: -117.0700
 zipSample: ["92046", "92027", "92029", "92030", "92026"]
 zipCodes: ["92029", "92025", "92030", "92046", "92026", "92033", "92027"]
 localPaths: ["San Diego County / coords 33.1300, -117.0700", "San Diego County / ZIP 92026 sector", "San Diego County / ZIP 92046 sector", "San Diego County / primary ZIP 92029", "San Diego County / elevation 673 ft band"]
+zillowHomeValueUsd: 1178007
 ---
 
 **Engineering Notice for Escondido:** Structural loading calculated based on 673 ft terrain assessment. Regional dispatch grid: San Diego County.

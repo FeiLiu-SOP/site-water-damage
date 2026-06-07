@@ -12,6 +12,7 @@ lng: -78.3300
 zipSample: ["16617"]
 zipCodes: ["16617"]
 localPaths: ["Blair County / primary ZIP 16617", "Blair County / coords 40.6000, -78.3300", "Blair County / ZIP 16617 sector", "Blair County / elevation 1073 ft band"]
+zillowHomeValueUsd: 165049
 ---
 
 **Engineering Notice for Bellwood:** System optimized for 164 mg/L hard water scaling factors in Bellwood. Regional dispatch grid: Blair County.

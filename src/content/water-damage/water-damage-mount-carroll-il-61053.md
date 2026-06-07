@@ -12,6 +12,7 @@ lng: -89.9800
 zipSample: ["61053"]
 zipCodes: ["61053"]
 localPaths: ["Carroll County / ZIP 61053 sector", "Carroll County / primary ZIP 61053", "Carroll County / coords 42.0900, -89.9800", "Carroll County / elevation 807 ft band"]
+zillowHomeValueUsd: 146940
 ---
 
 **Engineering Notice for Mount Carroll:** structural drying capacity optimized for 807ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Carroll County. Relative Humidity Threshold: 72%. Sensor sync: Active.

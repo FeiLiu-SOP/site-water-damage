@@ -12,6 +12,7 @@ lng: -121.8900
 zipSample: ["98648"]
 zipCodes: ["98648"]
 localPaths: ["Skamania County / ZIP 98648 sector", "Skamania County / coords 45.6900, -121.8900", "Skamania County / elevation 105 ft band", "Skamania County / primary ZIP 98648"]
+zillowHomeValueUsd: 557218
 ---
 
 **Engineering Notice for Stevenson:** Structural integrity verification: Facade Renewal calibrated for 99 mph localized wind load factor. Elevation: 105 ft AMSL. Regional dispatch grid: Skamania County.

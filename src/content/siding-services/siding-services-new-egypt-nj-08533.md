@@ -12,6 +12,7 @@ lng: -74.5300
 zipSample: ["08533"]
 zipCodes: ["08533"]
 localPaths: ["Ocean County / elevation 85 ft band", "Ocean County / primary ZIP 08533", "Ocean County / ZIP 08533 sector", "Ocean County / coords 40.0600, -74.5300"]
+zillowHomeValueUsd: 558655
 ---
 
 **Engineering Notice for New Egypt:** Site context locked to Ocean County. Coordinates: 40.0600, -74.5300. Panel Replacement integrity verification recorded.

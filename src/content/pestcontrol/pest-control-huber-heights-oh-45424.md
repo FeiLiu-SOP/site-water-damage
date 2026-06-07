@@ -11,6 +11,7 @@ lng: -84.1100
 zipSample: ["45424"]
 zipCodes: ["45424"]
 localPaths: ["Montgomery County / coords 39.8600, -84.1100", "Montgomery County / ZIP 45424 sector", "Montgomery County / primary ZIP 45424", "Montgomery County / elevation 997 ft band"]
+zillowHomeValueUsd: 223817
 ---
 
 **Engineering Notice for Huber Heights:** Structural loading calculated based on 997 ft terrain assessment. Regional dispatch grid: Montgomery County.

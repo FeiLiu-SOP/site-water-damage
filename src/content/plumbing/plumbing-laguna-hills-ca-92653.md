@@ -12,6 +12,7 @@ lng: -117.7000
 zipSample: ["92653"]
 zipCodes: ["92653"]
 localPaths: ["Orange County / coords 33.5900, -117.7000", "Orange County / primary ZIP 92653", "Orange County / elevation 308 ft band", "Orange County / ZIP 92653 sector"]
+zillowHomeValueUsd: 1291203
 ---
 
 **Engineering Notice for Laguna Hills:** Structural loading calculated based on 308 ft terrain assessment. Regional dispatch grid: Orange County.

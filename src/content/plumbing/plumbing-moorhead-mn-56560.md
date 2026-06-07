@@ -12,6 +12,7 @@ lng: -96.7500
 zipSample: ["56560", "56563", "56562"]
 zipCodes: ["56560", "56563", "56562"]
 localPaths: ["Clay County / ZIP 56560 sector", "Clay County / ZIP 56562 sector", "Clay County / elevation 902 ft band", "Clay County / primary ZIP 56560", "Clay County / coords 46.8700, -96.7500"]
+zillowHomeValueUsd: 278554
 ---
 
 **Engineering Notice for Moorhead:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Clay County.

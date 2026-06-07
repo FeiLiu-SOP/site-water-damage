@@ -12,6 +12,7 @@ lng: -73.1900
 zipSample: ["11780"]
 zipCodes: ["11780"]
 localPaths: ["Suffolk County / elevation 128 ft band", "Suffolk County / ZIP 11780 sector", "Suffolk County / primary ZIP 11780", "Suffolk County / coords 40.9000, -73.1900"]
+zillowHomeValueUsd: 826773
 ---
 
 **Engineering Notice for Nissequogue:** Cladding verification uses 104 mph routing baseline; lateral pressure note: 13.7 psf. Grid: Suffolk County.

@@ -12,6 +12,7 @@ lng: -85.3100
 zipSample: ["30753"]
 zipCodes: ["30753"]
 localPaths: ["Chattooga County / coords 34.5500, -85.3100", "Chattooga County / primary ZIP 30753", "Chattooga County / elevation 676 ft band", "Chattooga County / ZIP 30753 sector"]
+zillowHomeValueUsd: 151244
 ---
 
 **Engineering Notice for Trion:** Structural integrity verification: Exterior Envelope calibrated for 105 mph localized wind load factor. Regional dispatch grid: Chattooga County.

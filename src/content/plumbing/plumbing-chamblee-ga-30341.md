@@ -12,6 +12,7 @@ lng: -84.3000
 zipSample: ["30345", "30366", "39901", "30341"]
 zipCodes: ["30366", "30345", "30341", "39901"]
 localPaths: ["DeKalb County / ZIP 30366 sector", "DeKalb County / ZIP 30341 sector", "DeKalb County / coords 33.8800, -84.3000", "DeKalb County / ZIP 39901 sector", "DeKalb County / primary ZIP 30341"]
+zillowHomeValueUsd: 510849
 ---
 
 **Engineering Notice for Chamblee:** Structural loading calculated based on 988 ft terrain assessment. Regional dispatch grid: DeKalb County.

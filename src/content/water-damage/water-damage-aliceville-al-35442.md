@@ -12,6 +12,7 @@ lng: -88.1600
 zipSample: ["35442"]
 zipCodes: ["35442"]
 localPaths: ["Pickens County / coords 33.1200, -88.1600", "Pickens County / ZIP 35442 sector", "Pickens County / elevation 187 ft band", "Pickens County / primary ZIP 35442"]
+zillowHomeValueUsd: 105097
 ---
 
 **Engineering Notice for Aliceville:** structural drying capacity optimized for 187ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pickens County. Relative Humidity Threshold: 80%. Sensor sync: Active.

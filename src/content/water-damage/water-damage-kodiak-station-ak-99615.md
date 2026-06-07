@@ -12,6 +12,7 @@ lng: -152.5400
 zipSample: ["99615"]
 zipCodes: ["99615"]
 localPaths: ["Kodiak Island County / ZIP 99615 sector", "Kodiak Island County / elevation 482 ft band", "Kodiak Island County / coords 57.7400, -152.5400", "Kodiak Island County / primary ZIP 99615"]
+zillowHomeValueUsd: 426144
 ---
 
 **Engineering Notice for Kodiak Station:** structural drying capacity optimized for 482ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kodiak Island County. Relative Humidity Threshold: 66%. Sensor sync: Active.

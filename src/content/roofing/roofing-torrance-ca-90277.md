@@ -11,6 +11,7 @@ lng: -118.3400
 zipSample: ["90503", "90510", "90509", "90504", "90505"]
 zipCodes: ["90501", "90504", "90505", "90277", "90509", "90510", "90507", "90503", "90508"]
 localPaths: ["Los Angeles County / elevation 95 ft band", "Los Angeles County / ZIP 90503 sector", "Los Angeles County / ZIP 90509 sector", "Los Angeles County / ZIP 90510 sector", "Los Angeles County / primary ZIP 90277"]
+zillowHomeValueUsd: 1645190
 ---
 
 **Engineering Notice for Torrance:** Structural loading calculated based on 95 ft terrain assessment. Regional dispatch grid: Los Angeles County.

@@ -11,6 +11,7 @@ lng: -92.2000
 zipSample: ["72216", "72076", "72120", "72117"]
 zipCodes: ["72117", "72216", "72120", "72076"]
 localPaths: ["Pulaski County / ZIP 72216 sector", "Pulaski County / ZIP 72076 sector", "Pulaski County / ZIP 72117 sector", "Pulaski County / primary ZIP 72120", "Pulaski County / elevation 341 ft band"]
+zillowHomeValueUsd: 235063
 ---
 
 **Engineering Notice for Sherwood:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Pulaski County.

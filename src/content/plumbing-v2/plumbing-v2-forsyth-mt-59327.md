@@ -12,6 +12,7 @@ lng: -106.6700
 zipSample: ["59327"]
 zipCodes: ["59327"]
 localPaths: ["Rosebud County / coords 46.2700, -106.6700", "Rosebud County / primary ZIP 59327", "Rosebud County / elevation 2523 ft band", "Rosebud County / ZIP 59327 sector"]
+zillowHomeValueUsd: 223202
 ---
 
 **Engineering Notice for Forsyth:** System optimized for 132 mg/L hard water scaling factors in Forsyth. Regional dispatch grid: Rosebud County.

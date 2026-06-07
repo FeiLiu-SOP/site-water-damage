@@ -11,6 +11,7 @@ lng: -96.9300
 zipSample: ["75068", "76227"]
 zipCodes: ["75068", "76227"]
 localPaths: ["Denton County / ZIP 75068 sector", "Denton County / coords 33.1900, -96.9300", "Denton County / ZIP 76227 sector", "Denton County / primary ZIP 75068", "Denton County / elevation 525 ft band"]
+zillowHomeValueUsd: 405224
 ---
 
 **Engineering Notice for Little Elm:** Structural loading calculated based on 525 ft terrain assessment. Regional dispatch grid: Denton County.

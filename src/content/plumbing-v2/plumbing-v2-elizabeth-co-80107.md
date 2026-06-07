@@ -12,6 +12,7 @@ lng: -104.6200
 zipSample: ["80107"]
 zipCodes: ["80107"]
 localPaths: ["Elbert County / primary ZIP 80107", "Elbert County / ZIP 80107 sector", "Elbert County / elevation 6545 ft band", "Elbert County / coords 39.3600, -104.6200"]
+zillowHomeValueUsd: 665947
 ---
 
 **Engineering Notice for Elizabeth:** System optimized for 148 mg/L hard water scaling factors in Elizabeth. Regional dispatch grid: Elbert County.

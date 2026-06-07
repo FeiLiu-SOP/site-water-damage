@@ -12,6 +12,7 @@ lng: -93.2400
 zipSample: ["50054"]
 zipCodes: ["50054"]
 localPaths: ["Jasper County / coords 41.6800, -93.2400", "Jasper County / elevation 883 ft band", "Jasper County / primary ZIP 50054", "Jasper County / ZIP 50054 sector"]
+zillowHomeValueUsd: 235228
 ---
 
 **Engineering Notice for Colfax:** Envelope check: Cladding Service assigned to wind-load band C with stress factor 0.81. Elevation: 883 ft AMSL. Regional dispatch grid: Jasper County.

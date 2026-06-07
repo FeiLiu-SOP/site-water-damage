@@ -12,6 +12,7 @@ lng: -94.3600
 zipSample: ["72932"]
 zipCodes: ["72932"]
 localPaths: ["Crawford County / ZIP 72932 sector", "Crawford County / primary ZIP 72932", "Crawford County / elevation 899 ft band", "Crawford County / coords 35.5800, -94.3600"]
+zillowHomeValueUsd: 250904
 ---
 
 **Engineering Notice for Cedarville:** Cladding verification uses 101 mph routing baseline; lateral pressure note: 13.3 psf. Elevation: 899 ft AMSL. Coordinates: 35.5800, -94.3600. Grid: Crawford County.

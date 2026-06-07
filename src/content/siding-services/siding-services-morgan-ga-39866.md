@@ -12,6 +12,7 @@ lng: -84.6000
 zipSample: ["39866"]
 zipCodes: ["39866"]
 localPaths: ["Calhoun County / ZIP 39866 sector", "Calhoun County / elevation 262 ft band", "Calhoun County / primary ZIP 39866", "Calhoun County / coords 31.5400, -84.6000"]
+zillowHomeValueUsd: 122875
 ---
 
 **Engineering Notice for Morgan:** Site context locked to Calhoun County. Elevation: 262 ft AMSL. Vinyl Panels integrity verification recorded.

@@ -11,6 +11,7 @@ lng: -118.1400
 zipSample: ["91803", "91804", "91801", "91899", "91802"]
 zipCodes: ["91896", "91803", "91802", "91899", "91801", "91804"]
 localPaths: ["Los Angeles County / ZIP 91804 sector", "Los Angeles County / coords 34.0800, -118.1400", "Los Angeles County / ZIP 91803 sector", "Los Angeles County / elevation 456 ft band", "Los Angeles County / ZIP 91899 sector"]
+zillowHomeValueUsd: 960769
 ---
 
 **Engineering Notice for Alhambra:** Structural loading calculated based on 456 ft terrain assessment. Regional dispatch grid: Los Angeles County.

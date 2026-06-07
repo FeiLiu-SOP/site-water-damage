@@ -12,6 +12,7 @@ lng: -81.1200
 zipSample: ["32766"]
 zipCodes: ["32766"]
 localPaths: ["Seminole County / elevation 49 ft band", "Seminole County / coords 28.6400, -81.1200", "Seminole County / ZIP 32766 sector", "Seminole County / primary ZIP 32766"]
+zillowHomeValueUsd: 595309
 ---
 
 **Engineering Notice for Chuluota:** Structural integrity verification: Panel Replacement calibrated for 131 mph localized wind load factor. Elevation: 49 ft AMSL. Regional dispatch grid: Seminole County.

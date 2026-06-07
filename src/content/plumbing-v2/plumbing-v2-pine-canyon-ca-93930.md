@@ -12,6 +12,7 @@ lng: -121.1500
 zipSample: ["93930"]
 zipCodes: ["93930"]
 localPaths: ["Monterey County / coords 36.1800, -121.1500", "Monterey County / elevation 443 ft band", "Monterey County / primary ZIP 93930", "Monterey County / ZIP 93930 sector"]
+zillowHomeValueUsd: 524724
 ---
 
 **Engineering Notice for Pine Canyon:** System optimized for 171 mg/L hard water scaling factors in Pine Canyon. Regional dispatch grid: Monterey County.

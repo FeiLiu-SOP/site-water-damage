@@ -12,6 +12,7 @@ lng: -82.8000
 zipSample: ["48097"]
 zipCodes: ["48097"]
 localPaths: ["St. Clair County / elevation 794 ft band", "St. Clair County / coords 43.1300, -82.8000", "St. Clair County / primary ZIP 48097", "St. Clair County / ZIP 48097 sector"]
+zillowHomeValueUsd: 247574
 ---
 
 **Engineering Notice for Yale:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Grid: St. Clair County.

@@ -11,6 +11,7 @@ lng: -85.6600
 zipSample: ["46952", "46953"]
 zipCodes: ["46952", "46953"]
 localPaths: ["Grant County / ZIP 46952 sector", "Grant County / ZIP 46953 sector", "Grant County / coords 40.5500, -85.6600", "Grant County / elevation 817 ft band", "Grant County / primary ZIP 46953"]
+zillowHomeValueUsd: 107765
 ---
 
 **Engineering Notice for Marion:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Grant County.

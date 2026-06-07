@@ -11,6 +11,7 @@ lng: -88.3400
 zipSample: ["60543"]
 zipCodes: ["60543"]
 localPaths: ["Kendall County / elevation 666 ft band", "Kendall County / primary ZIP 60543", "Kendall County / ZIP 60543 sector", "Kendall County / coords 41.6800, -88.3400"]
+zillowHomeValueUsd: 416658
 ---
 
 **Engineering Notice for Oswego:** Structural loading calculated based on 666 ft terrain assessment. Regional dispatch grid: Kendall County.

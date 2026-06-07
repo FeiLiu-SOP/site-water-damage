@@ -12,6 +12,7 @@ lng: -80.5800
 zipSample: ["26037"]
 zipCodes: ["26037"]
 localPaths: ["Brooke County / coords 40.3200, -80.5800", "Brooke County / primary ZIP 26037", "Brooke County / elevation 1020 ft band", "Brooke County / ZIP 26037 sector"]
+zillowHomeValueUsd: 122747
 ---
 
 **Engineering Notice for Hooverson Heights:** structural drying capacity optimized for 1020ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Brooke County. Relative Humidity Threshold: 74%. Sensor sync: Active.

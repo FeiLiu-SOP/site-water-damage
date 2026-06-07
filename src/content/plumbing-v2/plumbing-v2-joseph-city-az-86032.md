@@ -12,6 +12,8 @@ lng: -110.3300
 zipSample: ["86032"]
 zipCodes: ["86032"]
 localPaths: ["Navajo County / coords 34.9600, -110.3300", "Navajo County / primary ZIP 86032", "Navajo County / elevation 5039 ft band", "Navajo County / ZIP 86032 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 418961
 ---
 
 **Engineering Notice for Joseph City:** System optimized for 132 mg/L hard water scaling factors in Joseph City. Regional dispatch grid: Navajo County.

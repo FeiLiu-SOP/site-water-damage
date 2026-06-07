@@ -12,6 +12,7 @@ lng: -93.0000
 zipSample: ["63565"]
 zipCodes: ["63565"]
 localPaths: ["Putnam County / primary ZIP 63565", "Putnam County / coords 40.4800, -93.0000", "Putnam County / elevation 1060 ft band", "Putnam County / ZIP 63565 sector"]
+zillowHomeValueUsd: 191619
 ---
 
 **Engineering Notice for Unionville:** Structural integrity verification: Cladding Retrofit calibrated for 95 mph localized wind load factor. Elevation: 1060 ft AMSL. Regional dispatch grid: Putnam County.

@@ -12,6 +12,7 @@ lng: -77.0400
 zipSample: ["17705", "17703", "17701"]
 zipCodes: ["17703", "17705", "17701"]
 localPaths: ["Lycoming County / coords 41.2400, -77.0400", "Lycoming County / ZIP 17701 sector", "Lycoming County / primary ZIP 17701", "Lycoming County / ZIP 17705 sector", "Lycoming County / elevation 541 ft band"]
+zillowHomeValueUsd: 194614
 ---
 
 **Engineering Notice for Williamsport:** Structural loading calculated based on 541 ft terrain assessment. Regional dispatch grid: Lycoming County.

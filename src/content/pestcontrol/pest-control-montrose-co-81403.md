@@ -11,6 +11,7 @@ lng: -107.8600
 zipSample: ["81401", "81403", "81402"]
 zipCodes: ["81403", "81401", "81402"]
 localPaths: ["Montrose County / ZIP 81403 sector", "Montrose County / ZIP 81401 sector", "Montrose County / ZIP 81402 sector", "Montrose County / primary ZIP 81403", "Montrose County / coords 38.4700, -107.8600"]
+zillowHomeValueUsd: 600804
 ---
 
 **Engineering Notice for Montrose:** Structural loading calculated based on 5879 ft terrain assessment. Regional dispatch grid: Montrose County.

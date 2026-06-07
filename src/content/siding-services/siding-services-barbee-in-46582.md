@@ -12,6 +12,7 @@ lng: -85.7100
 zipSample: ["46538", "46582"]
 zipCodes: ["46582", "46538"]
 localPaths: ["Kosciusko County / ZIP 46538 sector", "Kosciusko County / elevation 846 ft band", "Kosciusko County / ZIP 46582 sector", "Kosciusko County / primary ZIP 46582", "Kosciusko County / coords 41.2900, -85.7100"]
+zillowHomeValueUsd: 304493
 ---
 
 **Engineering Notice for Barbee:** Structural integrity verification: Surface Sheathing calibrated for 100 mph localized wind load factor. Elevation: 846 ft AMSL. Coordinates: 41.2900, -85.7100. Regional dispatch grid: Kosciusko County.

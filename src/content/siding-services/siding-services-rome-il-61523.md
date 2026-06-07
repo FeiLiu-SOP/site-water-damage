@@ -12,6 +12,7 @@ lng: -89.5100
 zipSample: ["61523", "61562"]
 zipCodes: ["61562", "61523"]
 localPaths: ["Peoria County / ZIP 61562 sector", "Peoria County / ZIP 61523 sector", "Peoria County / elevation 486 ft band", "Peoria County / primary ZIP 61523", "Peoria County / coords 40.8800, -89.5100"]
+zillowHomeValueUsd: 178759
 ---
 
 **Engineering Notice for Rome:** Site context locked to Peoria County. Elevation: 486 ft AMSL. Cladding Service integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -75.7900
 zipSample: ["18702"]
 zipCodes: ["18702"]
 localPaths: ["Luzerne County / elevation 991 ft band", "Luzerne County / ZIP 18702 sector", "Luzerne County / primary ZIP 18702", "Luzerne County / coords 41.2900, -75.7900"]
+zillowHomeValueUsd: 168331
 ---
 
 **Engineering Notice for Laflin:** Site context locked to Luzerne County. Elevation: 991 ft AMSL. Exterior Cladding integrity verification recorded.

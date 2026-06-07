@@ -12,6 +12,7 @@ lng: -94.9300
 zipSample: ["66030"]
 zipCodes: ["66030"]
 localPaths: ["Johnson County / primary ZIP 66030", "Johnson County / coords 38.8100, -94.9300", "Johnson County / elevation 1070 ft band", "Johnson County / ZIP 66030 sector"]
+zillowHomeValueUsd: 352626
 ---
 
 **Engineering Notice for Gardner:** Structural loading calculated based on 1070 ft terrain assessment. Regional dispatch grid: Johnson County.

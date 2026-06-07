@@ -12,6 +12,7 @@ lng: -73.7500
 zipSample: ["12033"]
 zipCodes: ["12033"]
 localPaths: ["Rensselaer County / primary ZIP 12033", "Rensselaer County / ZIP 12033 sector", "Rensselaer County / elevation 161 ft band", "Rensselaer County / coords 42.5300, -73.7500"]
+zillowHomeValueUsd: 367712
 ---
 
 **Engineering Notice for Castleton-on-Hudson:** Structural integrity verification: Exterior Cladding calibrated for 101 mph localized wind load factor. Elevation: 161 ft AMSL. Regional dispatch grid: Rensselaer County.

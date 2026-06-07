@@ -11,6 +11,7 @@ lng: -82.5400
 zipSample: ["34239", "34237", "34232", "34234", "34236"]
 zipCodes: ["34239", "34237", "34236", "34234", "34276", "34232"]
 localPaths: ["Sarasota County / ZIP 34239 sector", "Sarasota County / ZIP 34234 sector", "Sarasota County / elevation 36 ft band", "Sarasota County / ZIP 34232 sector", "Sarasota County / ZIP 34236 sector"]
+zillowHomeValueUsd: 355913
 ---
 
 **Engineering Notice for Sarasota:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Sarasota County.

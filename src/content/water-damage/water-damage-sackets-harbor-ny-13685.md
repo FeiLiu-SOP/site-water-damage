@@ -12,6 +12,7 @@ lng: -76.1200
 zipSample: ["13685"]
 zipCodes: ["13685"]
 localPaths: ["Jefferson County / elevation 276 ft band", "Jefferson County / coords 43.9400, -76.1200", "Jefferson County / primary ZIP 13685", "Jefferson County / ZIP 13685 sector"]
+zillowHomeValueUsd: 285906
 ---
 
 **Engineering Notice for Sackets Harbor:** structural drying capacity optimized for 276ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 83%. Sensor sync: Active.

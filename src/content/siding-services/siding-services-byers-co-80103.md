@@ -12,6 +12,7 @@ lng: -104.2200
 zipSample: ["80103"]
 zipCodes: ["80103"]
 localPaths: ["Arapahoe County / coords 39.7100, -104.2200", "Arapahoe County / elevation 5217 ft band", "Arapahoe County / primary ZIP 80103", "Arapahoe County / ZIP 80103 sector"]
+zillowHomeValueUsd: 562628
 ---
 
 **Engineering Notice for Byers:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 0.90. Elevation: 5217 ft AMSL. Regional dispatch grid: Arapahoe County.

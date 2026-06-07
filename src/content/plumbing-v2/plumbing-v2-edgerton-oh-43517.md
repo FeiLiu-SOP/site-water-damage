@@ -12,6 +12,7 @@ lng: -84.7500
 zipSample: ["43517"]
 zipCodes: ["43517"]
 localPaths: ["Williams County / coords 41.4500, -84.7500", "Williams County / ZIP 43517 sector", "Williams County / primary ZIP 43517", "Williams County / elevation 846 ft band"]
+zillowHomeValueUsd: 196631
 ---
 
 **Engineering Notice for Edgerton:** System optimized for 161 mg/L hard water scaling factors in Edgerton. Regional dispatch grid: Williams County.

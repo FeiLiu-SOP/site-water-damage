@@ -12,6 +12,7 @@ lng: -90.6100
 zipSample: ["52809", "52806", "52802", "52805", "52804"]
 zipCodes: ["52806", "52807", "52808", "52805", "52801", "52804", "52803", "52802", "52809"]
 localPaths: ["Scott County / coords 41.5600, -90.6100", "Scott County / primary ZIP 52802", "Scott County / ZIP 52809 sector", "Scott County / ZIP 52804 sector", "Scott County / ZIP 52802 sector"]
+zillowHomeValueUsd: 107031
 ---
 
 **Engineering Notice for Davenport:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Scott County.

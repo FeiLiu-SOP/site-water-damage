@@ -11,6 +11,7 @@ lng: -87.6800
 zipSample: ["60406"]
 zipCodes: ["60406"]
 localPaths: ["Cook County / elevation 646 ft band", "Cook County / primary ZIP 60406", "Cook County / ZIP 60406 sector", "Cook County / coords 41.6600, -87.6800"]
+zillowHomeValueUsd: 195318
 ---
 
 **Engineering Notice for Blue Island:** Structural loading calculated based on 646 ft terrain assessment. Regional dispatch grid: Cook County.

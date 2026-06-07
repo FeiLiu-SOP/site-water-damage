@@ -12,6 +12,7 @@ lng: -84.6900
 zipSample: ["48883"]
 zipCodes: ["48883"]
 localPaths: ["Isabella County / primary ZIP 48883", "Isabella County / coords 43.5200, -84.6900", "Isabella County / elevation 784 ft band", "Isabella County / ZIP 48883 sector"]
+zillowHomeValueUsd: 216845
 ---
 
 **Engineering Notice for Shepherd:** System optimized for 166 mg/L hard water scaling factors in Shepherd. Regional dispatch grid: Isabella County.

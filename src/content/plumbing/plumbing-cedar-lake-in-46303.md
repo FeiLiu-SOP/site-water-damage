@@ -12,6 +12,7 @@ lng: -87.4400
 zipSample: ["46303"]
 zipCodes: ["46303"]
 localPaths: ["Lake County / coords 41.3700, -87.4400", "Lake County / primary ZIP 46303", "Lake County / ZIP 46303 sector", "Lake County / elevation 719 ft band"]
+zillowHomeValueUsd: 328379
 ---
 
 **Engineering Notice for Cedar Lake:** Structural loading calculated based on 719 ft terrain assessment. Regional dispatch grid: Lake County.

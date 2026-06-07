@@ -12,6 +12,7 @@ lng: -119.6000
 zipSample: ["93616"]
 zipCodes: ["93616"]
 localPaths: ["Fresno County / primary ZIP 93616", "Fresno County / ZIP 93616 sector", "Fresno County / elevation 351 ft band", "Fresno County / coords 36.6600, -119.6000"]
+zillowHomeValueUsd: 388110
 ---
 
 **Engineering Notice for Del Rey:** System optimized for 128 mg/L hard water scaling factors in Del Rey. Regional dispatch grid: Fresno County.

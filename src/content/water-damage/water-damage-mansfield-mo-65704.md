@@ -12,6 +12,7 @@ lng: -92.5800
 zipSample: ["65704"]
 zipCodes: ["65704"]
 localPaths: ["Wright County / ZIP 65704 sector", "Wright County / elevation 1447 ft band", "Wright County / coords 37.1100, -92.5800", "Wright County / primary ZIP 65704"]
+zillowHomeValueUsd: 201604
 ---
 
 **Engineering Notice for Mansfield:** structural drying capacity optimized for 1447ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wright County. Relative Humidity Threshold: 75%. Sensor sync: Active.

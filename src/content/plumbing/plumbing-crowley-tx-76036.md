@@ -12,6 +12,7 @@ lng: -97.3600
 zipSample: ["76036"]
 zipCodes: ["76036"]
 localPaths: ["Tarrant County / ZIP 76036 sector", "Tarrant County / elevation 771 ft band", "Tarrant County / coords 32.5800, -97.3600", "Tarrant County / primary ZIP 76036"]
+zillowHomeValueUsd: 316368
 ---
 
 **Engineering Notice for Crowley:** Structural loading calculated based on 771 ft terrain assessment. Regional dispatch grid: Tarrant County.

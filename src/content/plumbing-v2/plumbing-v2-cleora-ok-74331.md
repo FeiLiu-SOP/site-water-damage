@@ -12,6 +12,7 @@ lng: -94.9500
 zipSample: ["74331"]
 zipCodes: ["74331"]
 localPaths: ["Delaware County / coords 36.5700, -94.9500", "Delaware County / elevation 797 ft band", "Delaware County / primary ZIP 74331", "Delaware County / ZIP 74331 sector"]
+zillowHomeValueUsd: 357938
 ---
 
 **Engineering Notice for Cleora:** System optimized for 160 mg/L hard water scaling factors in Cleora. Regional dispatch grid: Delaware County.

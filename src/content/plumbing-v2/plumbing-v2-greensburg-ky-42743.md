@@ -12,6 +12,7 @@ lng: -85.5000
 zipSample: ["42743"]
 zipCodes: ["42743"]
 localPaths: ["Green County / primary ZIP 42743", "Green County / coords 37.2600, -85.5000", "Green County / elevation 640 ft band", "Green County / ZIP 42743 sector"]
+zillowHomeValueUsd: 183684
 ---
 
 **Engineering Notice for Greensburg:** System optimized for 128 mg/L hard water scaling factors in Greensburg. Regional dispatch grid: Green County.

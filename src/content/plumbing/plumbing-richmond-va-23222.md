@@ -12,6 +12,7 @@ lng: -77.4800
 zipSample: ["23219", "23221", "23298", "23227", "23223"]
 zipCodes: ["23278", "23218", "23222", "23292", "23221", "23295", "23260", "23289", "23284", "23282", "23298", "23234"]
 localPaths: ["Richmond County / ZIP 23298 sector", "Richmond County / primary ZIP 23222", "Richmond County / ZIP 23219 sector", "Richmond County / ZIP 23223 sector", "Richmond County / elevation 52 ft band"]
+zillowHomeValueUsd: 276077
 ---
 
 **Engineering Notice for Richmond:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Richmond County.

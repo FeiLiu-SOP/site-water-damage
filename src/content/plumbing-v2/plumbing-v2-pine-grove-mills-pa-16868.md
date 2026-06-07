@@ -12,6 +12,7 @@ lng: -77.8900
 zipSample: ["16801", "16868"]
 zipCodes: ["16868", "16801"]
 localPaths: ["Centre County / ZIP 16868 sector", "Centre County / coords 40.7300, -77.8900", "Centre County / primary ZIP 16868", "Centre County / ZIP 16801 sector", "Centre County / elevation 1358 ft band"]
+zillowHomeValueUsd: 305000
 ---
 
 **Engineering Notice for Pine Grove Mills:** System optimized for 122 mg/L hard water scaling factors in Pine Grove Mills. Regional dispatch grid: Centre County.

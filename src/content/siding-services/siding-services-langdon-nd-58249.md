@@ -12,6 +12,7 @@ lng: -98.3700
 zipSample: ["58249"]
 zipCodes: ["58249"]
 localPaths: ["Cavalier County / elevation 1614 ft band", "Cavalier County / ZIP 58249 sector", "Cavalier County / coords 48.7600, -98.3700", "Cavalier County / primary ZIP 58249"]
+zillowHomeValueUsd: 169459
 ---
 
 **Engineering Notice for Langdon:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 0.82. Regional dispatch grid: Cavalier County.

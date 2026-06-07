@@ -11,6 +11,7 @@ lng: -87.0200
 zipSample: ["35023"]
 zipCodes: ["35023"]
 localPaths: ["Jefferson County / coords 33.4200, -87.0200", "Jefferson County / primary ZIP 35023", "Jefferson County / ZIP 35023 sector", "Jefferson County / elevation 591 ft band"]
+zillowHomeValueUsd: 170623
 ---
 
 **Engineering Notice for Hueytown:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Jefferson County.

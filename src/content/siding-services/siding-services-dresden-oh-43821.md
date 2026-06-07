@@ -12,6 +12,7 @@ lng: -82.0100
 zipSample: ["43821"]
 zipCodes: ["43821"]
 localPaths: ["Muskingum County / coords 40.1200, -82.0100", "Muskingum County / ZIP 43821 sector", "Muskingum County / elevation 738 ft band", "Muskingum County / primary ZIP 43821"]
+zillowHomeValueUsd: 219579
 ---
 
 **Engineering Notice for Dresden:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 1.04. Regional dispatch grid: Muskingum County.

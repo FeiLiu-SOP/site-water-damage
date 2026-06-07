@@ -12,6 +12,7 @@ lng: -97.1900
 zipSample: ["73054"]
 zipCodes: ["73054"]
 localPaths: ["Oklahoma County / elevation 925 ft band", "Oklahoma County / coords 35.6700, -97.1900", "Oklahoma County / ZIP 73054 sector", "Oklahoma County / primary ZIP 73054"]
+zillowHomeValueUsd: 293296
 ---
 
 **Engineering Notice for Luther:** Envelope check: Wall Restoration assigned to wind-load band B with stress factor 0.91. Elevation: 925 ft AMSL. Regional dispatch grid: Oklahoma County.

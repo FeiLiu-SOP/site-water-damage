@@ -12,6 +12,7 @@ lng: -83.3400
 zipSample: ["48135", "48136"]
 zipCodes: ["48136", "48135"]
 localPaths: ["Wayne County / elevation 640 ft band", "Wayne County / primary ZIP 48135", "Wayne County / ZIP 48136 sector", "Wayne County / coords 42.3200, -83.3400", "Wayne County / ZIP 48135 sector"]
+zillowHomeValueUsd: 200518
 ---
 
 **Engineering Notice for Garden City:** Structural loading calculated based on 640 ft terrain assessment. Regional dispatch grid: Wayne County.

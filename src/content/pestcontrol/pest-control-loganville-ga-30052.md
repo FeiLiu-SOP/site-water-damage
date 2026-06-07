@@ -11,6 +11,7 @@ lng: -83.9000
 zipSample: ["30052"]
 zipCodes: ["30052"]
 localPaths: ["Walton County / elevation 984 ft band", "Walton County / coords 33.8400, -83.9000", "Walton County / ZIP 30052 sector", "Walton County / primary ZIP 30052"]
+zillowHomeValueUsd: 392761
 ---
 
 **Engineering Notice for Loganville:** Structural loading calculated based on 984 ft terrain assessment. Regional dispatch grid: Walton County.

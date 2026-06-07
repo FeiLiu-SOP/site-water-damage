@@ -11,6 +11,7 @@ lng: -92.9800
 zipSample: ["55912"]
 zipCodes: ["55912"]
 localPaths: ["Mower County / primary ZIP 55912", "Mower County / elevation 1214 ft band", "Mower County / ZIP 55912 sector", "Mower County / coords 43.6700, -92.9800"]
+zillowHomeValueUsd: 186956
 ---
 
 **Engineering Notice for Austin:** Structural loading calculated based on 1214 ft terrain assessment. Regional dispatch grid: Mower County.

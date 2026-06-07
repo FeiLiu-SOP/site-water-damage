@@ -12,6 +12,7 @@ lng: -73.0800
 zipSample: ["11720"]
 zipCodes: ["11720"]
 localPaths: ["Suffolk County / coords 40.8700, -73.0800", "Suffolk County / ZIP 11720 sector", "Suffolk County / primary ZIP 11720", "Suffolk County / elevation 102 ft band"]
+zillowHomeValueUsd: 640392
 ---
 
 **Engineering Notice for Centereach:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Suffolk County.

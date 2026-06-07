@@ -12,6 +12,7 @@ lng: -97.5200
 zipSample: ["67107"]
 zipCodes: ["67107"]
 localPaths: ["McPherson County / primary ZIP 67107", "McPherson County / coords 38.2000, -97.5200", "McPherson County / ZIP 67107 sector", "McPherson County / elevation 1499 ft band"]
+zillowHomeValueUsd: 238789
 ---
 
 **Engineering Notice for Moundridge:** System optimized for 163 mg/L hard water scaling factors in Moundridge. Regional dispatch grid: McPherson County.

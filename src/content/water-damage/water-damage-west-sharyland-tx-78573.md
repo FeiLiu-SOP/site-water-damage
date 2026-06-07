@@ -12,6 +12,7 @@ lng: -98.3400
 zipSample: ["78573"]
 zipCodes: ["78573"]
 localPaths: ["Hidalgo County / primary ZIP 78573", "Hidalgo County / coords 26.2700, -98.3400", "Hidalgo County / ZIP 78573 sector", "Hidalgo County / elevation 187 ft band"]
+zillowHomeValueUsd: 216806
 ---
 
 **Engineering Notice for West Sharyland:** structural drying capacity optimized for 187ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hidalgo County. Relative Humidity Threshold: 83%. Sensor sync: Active.

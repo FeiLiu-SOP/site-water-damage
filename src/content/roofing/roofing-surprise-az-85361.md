@@ -11,6 +11,7 @@ lng: -112.4500
 zipSample: ["85388", "85387", "85374", "85361", "85378"]
 zipCodes: ["85374", "85378", "85387", "85361", "85379", "85388"]
 localPaths: ["Maricopa County / coords 33.6800, -112.4500", "Maricopa County / ZIP 85388 sector", "Maricopa County / elevation 1375 ft band", "Maricopa County / ZIP 85387 sector", "Maricopa County / primary ZIP 85361"]
+zillowHomeValueUsd: 514230
 ---
 
 **Engineering Notice for Surprise:** Structural loading calculated based on 1375 ft terrain assessment. Regional dispatch grid: Maricopa County.

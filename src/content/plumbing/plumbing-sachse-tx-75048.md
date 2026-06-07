@@ -12,6 +12,7 @@ lng: -96.5800
 zipSample: ["75048"]
 zipCodes: ["75048"]
 localPaths: ["Dallas County / coords 32.9700, -96.5800", "Dallas County / elevation 522 ft band", "Dallas County / primary ZIP 75048", "Dallas County / ZIP 75048 sector"]
+zillowHomeValueUsd: 433543
 ---
 
 **Engineering Notice for Sachse:** Structural loading calculated based on 522 ft terrain assessment. Regional dispatch grid: Dallas County.

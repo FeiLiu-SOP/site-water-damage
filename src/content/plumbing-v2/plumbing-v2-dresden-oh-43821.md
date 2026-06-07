@@ -12,6 +12,7 @@ lng: -82.0100
 zipSample: ["43821"]
 zipCodes: ["43821"]
 localPaths: ["Muskingum County / coords 40.1200, -82.0100", "Muskingum County / elevation 738 ft band", "Muskingum County / primary ZIP 43821", "Muskingum County / ZIP 43821 sector"]
+zillowHomeValueUsd: 219574
 ---
 
 **Engineering Notice for Dresden:** System optimized for 171 mg/L hard water scaling factors in Dresden. Regional dispatch grid: Muskingum County.

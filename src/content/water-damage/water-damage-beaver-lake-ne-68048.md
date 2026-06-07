@@ -12,6 +12,7 @@ lng: -95.8900
 zipSample: ["68048"]
 zipCodes: ["68048"]
 localPaths: ["Cass County / coords 40.9200, -95.8900", "Cass County / primary ZIP 68048", "Cass County / elevation 1066 ft band", "Cass County / ZIP 68048 sector"]
+zillowHomeValueUsd: 305630
 ---
 
 **Engineering Notice for Beaver Lake:** structural drying capacity optimized for 1066ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cass County. Relative Humidity Threshold: 85%. Sensor sync: Active.

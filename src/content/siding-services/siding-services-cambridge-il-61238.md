@@ -12,6 +12,7 @@ lng: -90.1900
 zipSample: ["61238"]
 zipCodes: ["61238"]
 localPaths: ["Henry County / elevation 810 ft band", "Henry County / coords 41.3000, -90.1900", "Henry County / primary ZIP 61238", "Henry County / ZIP 61238 sector"]
+zillowHomeValueUsd: 157288
 ---
 
 **Engineering Notice for Cambridge:** Envelope check: Panel Replacement assigned to wind-load band A with stress factor 1.18. Regional dispatch grid: Henry County.

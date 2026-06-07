@@ -12,6 +12,7 @@ lng: -80.3900
 zipSample: ["29154"]
 zipCodes: ["29154"]
 localPaths: ["Sumter County / ZIP 29154 sector", "Sumter County / coords 33.8200, -80.3900", "Sumter County / elevation 174 ft band", "Sumter County / primary ZIP 29154"]
+zillowHomeValueUsd: 235566
 ---
 
 **Engineering Notice for Privateer:** System optimized for 121 mg/L hard water scaling factors in Privateer. Regional dispatch grid: Sumter County.

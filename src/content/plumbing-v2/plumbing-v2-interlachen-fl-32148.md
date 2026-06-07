@@ -12,6 +12,7 @@ lng: -81.9000
 zipSample: ["32149", "32148"]
 zipCodes: ["32149", "32148"]
 localPaths: ["Putnam County / elevation 105 ft band", "Putnam County / coords 29.6200, -81.9000", "Putnam County / ZIP 32148 sector", "Putnam County / primary ZIP 32148", "Putnam County / ZIP 32149 sector"]
+zillowHomeValueUsd: 165340
 ---
 
 **Engineering Notice for Interlachen:** System optimized for 137 mg/L hard water scaling factors in Interlachen. Regional dispatch grid: Putnam County.

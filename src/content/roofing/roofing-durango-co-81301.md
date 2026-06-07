@@ -11,6 +11,7 @@ lng: -107.8800
 zipSample: ["81301", "81326"]
 zipCodes: ["81301", "81326"]
 localPaths: ["La Plata County / ZIP 81326 sector", "La Plata County / coords 37.2700, -107.8800", "La Plata County / primary ZIP 81301", "La Plata County / elevation 6539 ft band", "La Plata County / ZIP 81301 sector"]
+zillowHomeValueUsd: 757900
 ---
 
 **Engineering Notice for Durango:** Structural loading calculated based on 6539 ft terrain assessment. Regional dispatch grid: La Plata County.

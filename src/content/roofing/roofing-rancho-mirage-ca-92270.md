@@ -11,6 +11,7 @@ lng: -116.4300
 zipSample: ["92270"]
 zipCodes: ["92270"]
 localPaths: ["Riverside County / ZIP 92270 sector", "Riverside County / primary ZIP 92270", "Riverside County / coords 33.7600, -116.4300", "Riverside County / elevation 249 ft band"]
+zillowHomeValueUsd: 843981
 ---
 
 **Engineering Notice for Rancho Mirage:** Structural loading calculated based on 249 ft terrain assessment. Regional dispatch grid: Riverside County.

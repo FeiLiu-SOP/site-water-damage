@@ -12,6 +12,7 @@ lng: -75.4800
 zipSample: ["18101", "18105", "18102", "18104", "18103"]
 zipCodes: ["18101", "18104", "18105", "18001", "18103", "18109", "18102"]
 localPaths: ["Lehigh County / ZIP 18105 sector", "Lehigh County / ZIP 18102 sector", "Lehigh County / elevation 266 ft band", "Lehigh County / coords 40.6000, -75.4800", "Lehigh County / primary ZIP 18104"]
+zillowHomeValueUsd: 393793
 ---
 
 **Engineering Notice for Allentown:** Structural loading calculated based on 266 ft terrain assessment. Regional dispatch grid: Lehigh County.

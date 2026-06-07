@@ -12,6 +12,7 @@ lng: -95.0600
 zipSample: ["51455"]
 zipCodes: ["51455"]
 localPaths: ["Carroll County / primary ZIP 51455", "Carroll County / ZIP 51455 sector", "Carroll County / elevation 1352 ft band", "Carroll County / coords 41.9100, -95.0600"]
+zillowHomeValueUsd: 186637
 ---
 
 **Engineering Notice for Manning:** Cladding verification uses 94 mph routing baseline; lateral pressure note: 12.5 psf. Coordinates: 41.9100, -95.0600. Grid: Carroll County.

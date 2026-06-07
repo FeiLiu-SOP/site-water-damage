@@ -12,6 +12,7 @@ lng: -84.6700
 zipSample: ["49250"]
 zipCodes: ["49250"]
 localPaths: ["Hillsdale County / coords 41.9800, -84.6700", "Hillsdale County / primary ZIP 49250", "Hillsdale County / elevation 1066 ft band", "Hillsdale County / ZIP 49250 sector"]
+zillowHomeValueUsd: 200441
 ---
 
 **Engineering Notice for Jonesville:** System optimized for 150 mg/L hard water scaling factors in Jonesville. Regional dispatch grid: Hillsdale County.

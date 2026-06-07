@@ -12,6 +12,7 @@ lng: -76.9100
 zipSample: ["20743"]
 zipCodes: ["20743"]
 localPaths: ["Prince George's County / coords 38.9000, -76.9100", "Prince George's County / ZIP 20743 sector", "Prince George's County / elevation 98 ft band", "Prince George's County / primary ZIP 20743"]
+zillowHomeValueUsd: 334583
 ---
 
 **Engineering Notice for Cedar Heights:** System optimized for 121 mg/L hard water scaling factors in Cedar Heights. Regional dispatch grid: Prince George's County.

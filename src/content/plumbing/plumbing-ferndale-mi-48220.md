@@ -12,6 +12,7 @@ lng: -83.1300
 zipSample: ["48220"]
 zipCodes: ["48220"]
 localPaths: ["Oakland County / elevation 650 ft band", "Oakland County / ZIP 48220 sector", "Oakland County / primary ZIP 48220", "Oakland County / coords 42.4600, -83.1300"]
+zillowHomeValueUsd: 245144
 ---
 
 **Engineering Notice for Ferndale:** Structural loading calculated based on 650 ft terrain assessment. Regional dispatch grid: Oakland County.

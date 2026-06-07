@@ -12,6 +12,7 @@ lng: -95.3000
 zipSample: ["51002"]
 zipCodes: ["51002"]
 localPaths: ["Buena Vista County / primary ZIP 51002", "Buena Vista County / ZIP 51002 sector", "Buena Vista County / coords 42.6700, -95.3000", "Buena Vista County / elevation 1516 ft band"]
+zillowHomeValueUsd: 209415
 ---
 
 **Engineering Notice for Alta:** System optimized for 145 mg/L hard water scaling factors in Alta. Regional dispatch grid: Buena Vista County.

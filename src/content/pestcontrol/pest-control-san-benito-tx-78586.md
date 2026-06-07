@@ -11,6 +11,7 @@ lng: -97.6400
 zipSample: ["78586"]
 zipCodes: ["78586"]
 localPaths: ["Cameron County / elevation 56 ft band", "Cameron County / ZIP 78586 sector", "Cameron County / primary ZIP 78586", "Cameron County / coords 26.1300, -97.6400"]
+zillowHomeValueUsd: 164534
 ---
 
 **Engineering Notice for San Benito:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Cameron County.

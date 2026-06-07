@@ -12,6 +12,7 @@ lng: -81.4100
 zipSample: ["32081", "32095"]
 zipCodes: ["32081", "32095"]
 localPaths: ["St. Johns County / coords 30.0900, -81.4100", "St. Johns County / elevation 30 ft band", "St. Johns County / ZIP 32095 sector", "St. Johns County / primary ZIP 32095", "St. Johns County / ZIP 32081 sector"]
+zillowHomeValueUsd: 501193
 ---
 
 **Engineering Notice for Nocatee:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: St. Johns County.

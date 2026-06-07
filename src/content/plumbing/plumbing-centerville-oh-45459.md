@@ -12,6 +12,7 @@ lng: -84.1400
 zipSample: ["45459", "45458"]
 zipCodes: ["45458", "45459"]
 localPaths: ["Montgomery County / elevation 991 ft band", "Montgomery County / primary ZIP 45459", "Montgomery County / ZIP 45458 sector", "Montgomery County / ZIP 45459 sector", "Montgomery County / coords 39.6300, -84.1400"]
+zillowHomeValueUsd: 332155
 ---
 
 **Engineering Notice for Centerville:** Structural loading calculated based on 991 ft terrain assessment. Regional dispatch grid: Montgomery County.

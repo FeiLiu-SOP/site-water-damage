@@ -12,6 +12,7 @@ lng: -86.0600
 zipSample: ["35956"]
 zipCodes: ["35956"]
 localPaths: ["Etowah County / elevation 1047 ft band", "Etowah County / coords 34.1700, -86.0600", "Etowah County / ZIP 35956 sector", "Etowah County / primary ZIP 35956"]
+zillowHomeValueUsd: 220898
 ---
 
 **Engineering Notice for Whitesboro:** Surface Sheathing was validated under stress factor 0.97; target tolerance set near 100 mph. Coordinates: 34.1700, -86.0600. Grid anchor: Etowah County.

@@ -11,6 +11,7 @@ lng: -114.3300
 zipSample: ["59904", "59901"]
 zipCodes: ["59901", "59904"]
 localPaths: ["Flathead County / elevation 3077 ft band", "Flathead County / ZIP 59904 sector", "Flathead County / primary ZIP 59901", "Flathead County / ZIP 59901 sector", "Flathead County / coords 48.2200, -114.3300"]
+zillowHomeValueUsd: 549147
 ---
 
 **Engineering Notice for Kalispell:** Structural loading calculated based on 3077 ft terrain assessment. Regional dispatch grid: Flathead County.

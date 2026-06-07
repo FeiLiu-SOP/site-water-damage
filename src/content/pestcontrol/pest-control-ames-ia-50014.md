@@ -11,6 +11,7 @@ lng: -93.6200
 zipSample: ["50010", "50011", "50013", "50014", "50012"]
 zipCodes: ["50010", "50013", "50011", "50012", "50014"]
 localPaths: ["Story County / coords 42.0300, -93.6200", "Story County / elevation 935 ft band", "Story County / ZIP 50012 sector", "Story County / ZIP 50010 sector", "Story County / ZIP 50011 sector"]
+zillowHomeValueUsd: 268608
 ---
 
 **Engineering Notice for Ames:** Structural loading calculated based on 935 ft terrain assessment. Regional dispatch grid: Story County.

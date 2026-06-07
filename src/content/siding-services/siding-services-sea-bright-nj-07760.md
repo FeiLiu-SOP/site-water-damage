@@ -12,6 +12,7 @@ lng: -73.9800
 zipSample: ["07760"]
 zipCodes: ["07760"]
 localPaths: ["Monmouth County / primary ZIP 07760", "Monmouth County / elevation 10 ft band", "Monmouth County / coords 40.3700, -73.9800", "Monmouth County / ZIP 07760 sector"]
+zillowHomeValueUsd: 1758731
 ---
 
 **Engineering Notice for Sea Bright:** Site context locked to Monmouth County. Coordinates: 40.3700, -73.9800. Facade Renewal integrity verification recorded.

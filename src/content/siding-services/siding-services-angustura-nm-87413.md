@@ -12,6 +12,7 @@ lng: -107.9200
 zipSample: ["87413"]
 zipCodes: ["87413"]
 localPaths: ["San Juan County / primary ZIP 87413", "San Juan County / coords 36.7100, -107.9200", "San Juan County / ZIP 87413 sector", "San Juan County / elevation 5505 ft band"]
+zillowHomeValueUsd: 252910
 ---
 
 **Engineering Notice for Angustura:** Exterior Envelope was validated under stress factor 0.70; target tolerance set near 98 mph. Grid anchor: San Juan County.

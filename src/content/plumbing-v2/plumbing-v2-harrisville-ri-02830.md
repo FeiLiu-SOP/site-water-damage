@@ -12,6 +12,7 @@ lng: -71.6800
 zipSample: ["02830"]
 zipCodes: ["02830"]
 localPaths: ["Providence County / ZIP 02830 sector", "Providence County / coords 41.9700, -71.6800", "Providence County / elevation 351 ft band", "Providence County / primary ZIP 02830"]
+zillowHomeValueUsd: 474201
 ---
 
 **Engineering Notice for Harrisville:** System optimized for 162 mg/L hard water scaling factors in Harrisville. Regional dispatch grid: Providence County.

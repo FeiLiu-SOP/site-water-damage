@@ -11,6 +11,7 @@ lng: -84.2300
 zipSample: ["30092", "30071", "30360", "30010"]
 zipCodes: ["30092", "30071", "30010", "30360"]
 localPaths: ["Gwinnett County / ZIP 30071 sector", "Gwinnett County / coords 33.9700, -84.2300", "Gwinnett County / ZIP 30360 sector", "Gwinnett County / elevation 1014 ft band", "Gwinnett County / primary ZIP 30071"]
+zillowHomeValueUsd: 360286
 ---
 
 **Engineering Notice for Peachtree Corners:** Structural loading calculated based on 1014 ft terrain assessment. Regional dispatch grid: Gwinnett County.

@@ -11,6 +11,7 @@ lng: -97.6000
 zipSample: ["78660", "78691"]
 zipCodes: ["78691", "78660"]
 localPaths: ["Travis County / ZIP 78691 sector", "Travis County / coords 30.4500, -97.6000", "Travis County / elevation 696 ft band", "Travis County / ZIP 78660 sector", "Travis County / primary ZIP 78660"]
+zillowHomeValueUsd: 378280
 ---
 
 **Engineering Notice for Pflugerville:** Structural loading calculated based on 696 ft terrain assessment. Regional dispatch grid: Travis County.

@@ -11,6 +11,7 @@ lng: -96.4400
 zipSample: ["75087", "75032"]
 zipCodes: ["75087", "75032"]
 localPaths: ["Rockwall County / ZIP 75032 sector", "Rockwall County / ZIP 75087 sector", "Rockwall County / coords 32.9200, -96.4400", "Rockwall County / primary ZIP 75032", "Rockwall County / elevation 568 ft band"]
+zillowHomeValueUsd: 531419
 ---
 
 **Engineering Notice for Rockwall:** Structural loading calculated based on 568 ft terrain assessment. Regional dispatch grid: Rockwall County.

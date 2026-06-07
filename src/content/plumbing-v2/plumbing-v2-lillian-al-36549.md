@@ -12,6 +12,7 @@ lng: -87.4300
 zipSample: ["36549"]
 zipCodes: ["36549"]
 localPaths: ["Baldwin County / ZIP 36549 sector", "Baldwin County / elevation 0 ft band", "Baldwin County / primary ZIP 36549", "Baldwin County / coords 30.4100, -87.4300"]
+zillowHomeValueUsd: 312621
 ---
 
 **Engineering Notice for Lillian:** System optimized for 172 mg/L hard water scaling factors in Lillian. Regional dispatch grid: Baldwin County.

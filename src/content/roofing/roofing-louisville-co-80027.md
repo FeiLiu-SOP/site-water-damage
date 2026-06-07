@@ -11,6 +11,7 @@ lng: -105.1400
 zipSample: ["80027"]
 zipCodes: ["80027"]
 localPaths: ["Boulder County / ZIP 80027 sector", "Boulder County / elevation 5407 ft band", "Boulder County / primary ZIP 80027", "Boulder County / coords 39.9700, -105.1400"]
+zillowHomeValueUsd: 837484
 ---
 
 **Engineering Notice for Louisville:** Structural loading calculated based on 5407 ft terrain assessment. Regional dispatch grid: Boulder County.

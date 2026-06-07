@@ -11,6 +11,7 @@ lng: -90.0100
 zipSample: ["62208"]
 zipCodes: ["62208"]
 localPaths: ["St. Clair County / coords 38.6000, -90.0100", "St. Clair County / primary ZIP 62208", "St. Clair County / ZIP 62208 sector", "St. Clair County / elevation 587 ft band"]
+zillowHomeValueUsd: 189031
 ---
 
 **Engineering Notice for Fairview Heights:** Structural loading calculated based on 587 ft terrain assessment. Regional dispatch grid: St. Clair County.

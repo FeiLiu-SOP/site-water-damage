@@ -11,6 +11,7 @@ lng: -87.7400
 zipSample: ["60803"]
 zipCodes: ["60803"]
 localPaths: ["Cook County / primary ZIP 60803", "Cook County / elevation 633 ft band", "Cook County / coords 41.6700, -87.7400", "Cook County / ZIP 60803 sector"]
+zillowHomeValueUsd: 255653
 ---
 
 **Engineering Notice for Alsip:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Cook County.

@@ -12,6 +12,7 @@ lng: -94.2400
 zipSample: ["77705"]
 zipCodes: ["77705"]
 localPaths: ["Jefferson County / primary ZIP 77705", "Jefferson County / ZIP 77705 sector", "Jefferson County / coords 29.9300, -94.2400", "Jefferson County / elevation 39 ft band"]
+zillowHomeValueUsd: 135379
 ---
 
 **Engineering Notice for Fannett:** System optimized for 165 mg/L hard water scaling factors in Fannett. Regional dispatch grid: Jefferson County.

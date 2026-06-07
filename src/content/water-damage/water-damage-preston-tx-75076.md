@@ -12,6 +12,7 @@ lng: -96.6600
 zipSample: ["75076"]
 zipCodes: ["75076"]
 localPaths: ["Grayson County / ZIP 75076 sector", "Grayson County / elevation 696 ft band", "Grayson County / primary ZIP 75076", "Grayson County / coords 33.8700, -96.6600"]
+zillowHomeValueUsd: 338050
 ---
 
 **Engineering Notice for Preston:** structural drying capacity optimized for 696ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grayson County. Relative Humidity Threshold: 69%. Sensor sync: Active.

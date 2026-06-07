@@ -12,6 +12,7 @@ lng: -86.6800
 zipSample: ["37049"]
 zipCodes: ["37049"]
 localPaths: ["Robertson County / ZIP 37049 sector", "Robertson County / coords 36.5400, -86.6800", "Robertson County / primary ZIP 37049", "Robertson County / elevation 784 ft band"]
+zillowHomeValueUsd: 419972
 ---
 
 **Engineering Notice for Cross Plains:** System optimized for 150 mg/L hard water scaling factors in Cross Plains. Regional dispatch grid: Robertson County.

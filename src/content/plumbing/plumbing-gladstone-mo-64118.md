@@ -12,6 +12,7 @@ lng: -94.5600
 zipSample: ["64118", "64119"]
 zipCodes: ["64119", "64118"]
 localPaths: ["Clay County / ZIP 64119 sector", "Clay County / ZIP 64118 sector", "Clay County / primary ZIP 64118", "Clay County / elevation 1027 ft band", "Clay County / coords 39.2100, -94.5600"]
+zillowHomeValueUsd: 267044
 ---
 
 **Engineering Notice for Gladstone:** Structural loading calculated based on 1027 ft terrain assessment. Regional dispatch grid: Clay County.

@@ -12,6 +12,7 @@ lng: -76.1200
 zipSample: ["17569"]
 zipCodes: ["17569"]
 localPaths: ["Lancaster County / elevation 472 ft band", "Lancaster County / coords 40.2700, -76.1200", "Lancaster County / ZIP 17569 sector", "Lancaster County / primary ZIP 17569"]
+zillowHomeValueUsd: 382403
 ---
 
 **Engineering Notice for Reinholds:** System optimized for 174 mg/L hard water scaling factors in Reinholds. Regional dispatch grid: Lancaster County.

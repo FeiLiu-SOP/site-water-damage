@@ -12,6 +12,7 @@ lng: -86.0800
 zipSample: ["37355"]
 zipCodes: ["37355"]
 localPaths: ["Coffee County / primary ZIP 37355", "Coffee County / coords 35.5300, -86.0800", "Coffee County / elevation 1086 ft band", "Coffee County / ZIP 37355 sector"]
+zillowHomeValueUsd: 325438
 ---
 
 **Engineering Notice for New Union:** System optimized for 122 mg/L hard water scaling factors in New Union. Regional dispatch grid: Coffee County.

@@ -12,6 +12,7 @@ lng: -91.3800
 zipSample: ["70775"]
 zipCodes: ["70775"]
 localPaths: ["West Feliciana Parish / coords 30.7900, -91.3800", "West Feliciana Parish / ZIP 70775 sector", "West Feliciana Parish / primary ZIP 70775", "West Feliciana Parish / elevation 154 ft band"]
+zillowHomeValueUsd: 379136
 ---
 
 **Engineering Notice for St. Francisville:** Site context locked to West Feliciana Parish. Elevation: 154 ft AMSL. Coordinates: 30.7900, -91.3800. Weather Barrier Wrap integrity verification recorded.

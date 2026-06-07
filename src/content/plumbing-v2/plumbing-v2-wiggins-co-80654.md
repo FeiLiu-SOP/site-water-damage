@@ -12,6 +12,7 @@ lng: -104.0700
 zipSample: ["80654"]
 zipCodes: ["80654"]
 localPaths: ["Morgan County / coords 40.2300, -104.0700", "Morgan County / elevation 4557 ft band", "Morgan County / ZIP 80654 sector", "Morgan County / primary ZIP 80654"]
+zillowHomeValueUsd: 426704
 ---
 
 **Engineering Notice for Wiggins:** System optimized for 157 mg/L hard water scaling factors in Wiggins. Regional dispatch grid: Morgan County.

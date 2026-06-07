@@ -12,6 +12,7 @@ lng: -73.9200
 zipSample: ["07620"]
 zipCodes: ["07620"]
 localPaths: ["Bergen County / elevation 541 ft band", "Bergen County / ZIP 07620 sector", "Bergen County / primary ZIP 07620", "Bergen County / coords 40.9600, -73.9200"]
+zillowHomeValueUsd: 3050601
 ---
 
 **Engineering Notice for Alpine:** Envelope check: Weather Barrier Wrap assigned to wind-load band B with stress factor 0.85. Elevation: 541 ft AMSL. Regional dispatch grid: Bergen County.

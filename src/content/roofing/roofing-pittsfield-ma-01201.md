@@ -11,6 +11,7 @@ lng: -73.2600
 zipSample: ["01203", "01201", "01202"]
 zipCodes: ["01202", "01203", "01201"]
 localPaths: ["Berkshire County / ZIP 01201 sector", "Berkshire County / elevation 1056 ft band", "Berkshire County / ZIP 01202 sector", "Berkshire County / primary ZIP 01201", "Berkshire County / coords 42.4500, -73.2600"]
+zillowHomeValueUsd: 304147
 ---
 
 **Engineering Notice for Pittsfield:** Structural loading calculated based on 1056 ft terrain assessment. Regional dispatch grid: Berkshire County.

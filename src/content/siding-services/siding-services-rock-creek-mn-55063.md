@@ -12,6 +12,7 @@ lng: -92.9100
 zipSample: ["55063", "55067", "55069"]
 zipCodes: ["55069", "55067", "55063"]
 localPaths: ["Pine County / ZIP 55063 sector", "Pine County / elevation 919 ft band", "Pine County / primary ZIP 55063", "Pine County / ZIP 55069 sector", "Pine County / ZIP 55067 sector"]
+zillowHomeValueUsd: 285360
 ---
 
 **Engineering Notice for Rock Creek:** Vinyl Panels was validated under stress factor 0.73; target tolerance set near 95 mph. Grid anchor: Pine County.

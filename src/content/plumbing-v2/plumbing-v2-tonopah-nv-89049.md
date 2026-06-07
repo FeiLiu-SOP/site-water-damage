@@ -12,6 +12,7 @@ lng: -117.2200
 zipSample: ["89049"]
 zipCodes: ["89049"]
 localPaths: ["Nye County / coords 38.0800, -117.2200", "Nye County / primary ZIP 89049", "Nye County / elevation 6135 ft band", "Nye County / ZIP 89049 sector"]
+zillowHomeValueUsd: 155541
 ---
 
 **Engineering Notice for Tonopah:** System optimized for 141 mg/L hard water scaling factors in Tonopah. Regional dispatch grid: Nye County.

@@ -12,6 +12,7 @@ lng: -86.5900
 zipSample: ["35031"]
 zipCodes: ["35031"]
 localPaths: ["Blount County / primary ZIP 35031", "Blount County / ZIP 35031 sector", "Blount County / coords 34.0800, -86.5900", "Blount County / elevation 768 ft band"]
+zillowHomeValueUsd: 201138
 ---
 
 **Engineering Notice for Blountsville:** System optimized for 147 mg/L hard water scaling factors in Blountsville. Regional dispatch grid: Blount County.

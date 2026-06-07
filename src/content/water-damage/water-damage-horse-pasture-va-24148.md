@@ -12,6 +12,7 @@ lng: -79.9500
 zipSample: ["24112", "24148", "24165"]
 zipCodes: ["24165", "24148", "24112"]
 localPaths: ["Henry County / ZIP 24112 sector", "Henry County / coords 36.6300, -79.9500", "Henry County / ZIP 24165 sector", "Henry County / elevation 1083 ft band", "Henry County / ZIP 24148 sector"]
+zillowHomeValueUsd: 161277
 ---
 
 **Engineering Notice for Horse Pasture:** structural drying capacity optimized for 1083ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Henry County. Relative Humidity Threshold: 84%. Sensor sync: Active.

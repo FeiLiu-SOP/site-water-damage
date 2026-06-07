@@ -12,6 +12,7 @@ lng: -79.8300
 zipSample: ["15132"]
 zipCodes: ["15132"]
 localPaths: ["Allegheny County / primary ZIP 15132", "Allegheny County / coords 40.3200, -79.8300", "Allegheny County / ZIP 15132 sector", "Allegheny County / elevation 922 ft band"]
+zillowHomeValueUsd: 73741
 ---
 
 **Engineering Notice for Versailles:** System optimized for 161 mg/L hard water scaling factors in Versailles. Regional dispatch grid: Allegheny County.

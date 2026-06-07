@@ -12,6 +12,7 @@ lng: -79.5500
 zipSample: ["15601"]
 zipCodes: ["15601"]
 localPaths: ["Westmoreland County / ZIP 15601 sector", "Westmoreland County / elevation 1043 ft band", "Westmoreland County / primary ZIP 15601", "Westmoreland County / coords 40.2800, -79.5500"]
+zillowHomeValueUsd: 239875
 ---
 
 **Engineering Notice for South Greensburg:** Cladding verification uses 102 mph routing baseline; lateral pressure note: 13.4 psf. Elevation: 1043 ft AMSL. Coordinates: 40.2800, -79.5500. Grid: Westmoreland County.

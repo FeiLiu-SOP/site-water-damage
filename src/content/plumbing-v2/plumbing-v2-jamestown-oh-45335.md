@@ -12,6 +12,7 @@ lng: -83.7400
 zipSample: ["45335"]
 zipCodes: ["45335"]
 localPaths: ["Greene County / primary ZIP 45335", "Greene County / elevation 1056 ft band", "Greene County / coords 39.6600, -83.7400", "Greene County / ZIP 45335 sector"]
+zillowHomeValueUsd: 268652
 ---
 
 **Engineering Notice for Jamestown:** System optimized for 136 mg/L hard water scaling factors in Jamestown. Regional dispatch grid: Greene County.

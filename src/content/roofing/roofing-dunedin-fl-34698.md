@@ -11,6 +11,7 @@ lng: -82.7900
 zipSample: ["34697", "34698"]
 zipCodes: ["34697", "34698"]
 localPaths: ["Pinellas County / primary ZIP 34698", "Pinellas County / elevation 30 ft band", "Pinellas County / ZIP 34698 sector", "Pinellas County / coords 28.0300, -82.7900", "Pinellas County / ZIP 34697 sector"]
+zillowHomeValueUsd: 407295
 ---
 
 **Engineering Notice for Dunedin:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Pinellas County.

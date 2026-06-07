@@ -11,6 +11,7 @@ lng: -93.5700
 zipSample: ["55330"]
 zipCodes: ["55330"]
 localPaths: ["Sherburne County / elevation 1040 ft band", "Sherburne County / coords 45.3300, -93.5700", "Sherburne County / primary ZIP 55330", "Sherburne County / ZIP 55330 sector"]
+zillowHomeValueUsd: 410502
 ---
 
 **Engineering Notice for Elk River:** Structural loading calculated based on 1040 ft terrain assessment. Regional dispatch grid: Sherburne County.

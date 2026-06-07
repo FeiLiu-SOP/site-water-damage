@@ -12,6 +12,7 @@ lng: -80.7400
 zipSample: ["28173"]
 zipCodes: ["28173"]
 localPaths: ["Union County / elevation 627 ft band", "Union County / primary ZIP 28173", "Union County / coords 34.9400, -80.7400", "Union County / ZIP 28173 sector"]
+zillowHomeValueUsd: 702782
 ---
 
 **Engineering Notice for Waxhaw:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Union County.

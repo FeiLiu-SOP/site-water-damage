@@ -12,6 +12,7 @@ lng: -86.7700
 zipSample: ["37073", "37072", "37152"]
 zipCodes: ["37152", "37073", "37072"]
 localPaths: ["Robertson County / ZIP 37073 sector", "Robertson County / ZIP 37072 sector", "Robertson County / ZIP 37152 sector", "Robertson County / primary ZIP 37072", "Robertson County / coords 36.4000, -86.7700"]
+zillowHomeValueUsd: 404722
 ---
 
 **Engineering Notice for Ridgetop:** System optimized for 161 mg/L hard water scaling factors in Ridgetop. Regional dispatch grid: Robertson County.

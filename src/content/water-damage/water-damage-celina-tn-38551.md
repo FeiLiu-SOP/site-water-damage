@@ -12,6 +12,7 @@ lng: -85.5000
 zipSample: ["38551"]
 zipCodes: ["38551"]
 localPaths: ["Clay County / ZIP 38551 sector", "Clay County / coords 36.5500, -85.5000", "Clay County / elevation 551 ft band", "Clay County / primary ZIP 38551"]
+zillowHomeValueUsd: 200722
 ---
 
 **Engineering Notice for Celina:** structural drying capacity optimized for 551ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clay County. Relative Humidity Threshold: 77%. Sensor sync: Active.

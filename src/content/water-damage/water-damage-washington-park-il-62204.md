@@ -12,6 +12,7 @@ lng: -90.0900
 zipSample: ["62204", "62203"]
 zipCodes: ["62203", "62204"]
 localPaths: ["St. Clair County / ZIP 62203 sector", "St. Clair County / coords 38.6300, -90.0900", "St. Clair County / elevation 430 ft band", "St. Clair County / ZIP 62204 sector", "St. Clair County / primary ZIP 62204"]
+zillowHomeValueUsd: 40300
 ---
 
 **Engineering Notice for Washington Park:** structural drying capacity optimized for 430ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Clair County. Relative Humidity Threshold: 69%. Sensor sync: Active.

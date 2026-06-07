@@ -12,6 +12,7 @@ lng: -95.1500
 zipSample: ["74434", "74441"]
 zipCodes: ["74441", "74434"]
 localPaths: ["Cherokee County / ZIP 74434 sector", "Cherokee County / ZIP 74441 sector", "Cherokee County / elevation 919 ft band", "Cherokee County / primary ZIP 74441", "Cherokee County / coords 35.8500, -95.1500"]
+zillowHomeValueUsd: 208842
 ---
 
 **Engineering Notice for Norwood:** Envelope check: Weather Barrier Wrap assigned to wind-load band A with stress factor 0.95. Elevation: 919 ft AMSL. Regional dispatch grid: Cherokee County.

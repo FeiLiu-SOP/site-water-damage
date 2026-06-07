@@ -12,6 +12,7 @@ lng: -90.4200
 zipSample: ["70030"]
 zipCodes: ["70030"]
 localPaths: ["St. Charles Parish / elevation 10 ft band", "St. Charles Parish / ZIP 70030 sector", "St. Charles Parish / coords 29.8100, -90.4200", "St. Charles Parish / primary ZIP 70030"]
+zillowHomeValueUsd: 226596
 ---
 
 **Engineering Notice for Bayou Gauche:** Cladding verification uses 91 mph routing baseline; lateral pressure note: 12.1 psf. Coordinates: 29.8100, -90.4200. Grid: St. Charles Parish.

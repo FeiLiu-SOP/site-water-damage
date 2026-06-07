@@ -12,6 +12,7 @@ lng: -85.2500
 zipSample: ["30108"]
 zipCodes: ["30108"]
 localPaths: ["Carroll County / ZIP 30108 sector", "Carroll County / coords 33.5400, -85.2500", "Carroll County / primary ZIP 30108", "Carroll County / elevation 1093 ft band"]
+zillowHomeValueUsd: 260298
 ---
 
 **Engineering Notice for Bowdon:** Cladding Service was validated under stress factor 0.73; target tolerance set near 92 mph. Grid anchor: Carroll County.

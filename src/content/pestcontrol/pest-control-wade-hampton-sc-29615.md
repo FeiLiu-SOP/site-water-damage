@@ -11,6 +11,7 @@ lng: -82.3300
 zipSample: ["29615", "29687", "29606"]
 zipCodes: ["29606", "29687", "29615"]
 localPaths: ["Greenville County / ZIP 29687 sector", "Greenville County / ZIP 29615 sector", "Greenville County / primary ZIP 29615", "Greenville County / ZIP 29606 sector", "Greenville County / coords 34.8800, -82.3300"]
+zillowHomeValueUsd: 437343
 ---
 
 **Engineering Notice for Wade Hampton:** Structural loading calculated based on 928 ft terrain assessment. Regional dispatch grid: Greenville County.

@@ -11,6 +11,7 @@ lng: -72.9800
 zipSample: ["05702", "05701"]
 zipCodes: ["05701", "05702"]
 localPaths: ["Rutland County / elevation 574 ft band", "Rutland County / primary ZIP 05701", "Rutland County / ZIP 05701 sector", "Rutland County / ZIP 05702 sector", "Rutland County / coords 43.6100, -72.9800"]
+zillowHomeValueUsd: 282907
 ---
 
 **Engineering Notice for Rutland:** Structural loading calculated based on 574 ft terrain assessment. Regional dispatch grid: Rutland County.

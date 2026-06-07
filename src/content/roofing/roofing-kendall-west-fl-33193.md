@@ -11,6 +11,7 @@ lng: -80.4400
 zipSample: ["33193", "33185"]
 zipCodes: ["33193", "33185"]
 localPaths: ["Miami-Dade County / elevation 30 ft band", "Miami-Dade County / ZIP 33185 sector", "Miami-Dade County / ZIP 33193 sector", "Miami-Dade County / coords 25.7100, -80.4400", "Miami-Dade County / primary ZIP 33193"]
+zillowHomeValueUsd: 443218
 ---
 
 **Engineering Notice for Kendall West:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

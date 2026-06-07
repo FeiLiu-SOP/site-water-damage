@@ -12,6 +12,7 @@ lng: -76.4700
 zipSample: ["13080"]
 zipCodes: ["13080"]
 localPaths: ["Onondaga County / coords 43.0700, -76.4700", "Onondaga County / elevation 413 ft band", "Onondaga County / ZIP 13080 sector", "Onondaga County / primary ZIP 13080"]
+zillowHomeValueUsd: 228950
 ---
 
 **Engineering Notice for Jordan:** System optimized for 162 mg/L hard water scaling factors in Jordan. Regional dispatch grid: Onondaga County.

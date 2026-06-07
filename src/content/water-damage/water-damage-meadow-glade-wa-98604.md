@@ -12,6 +12,7 @@ lng: -122.5600
 zipSample: ["98604"]
 zipCodes: ["98604"]
 localPaths: ["Clark County / elevation 328 ft band", "Clark County / coords 45.7500, -122.5600", "Clark County / ZIP 98604 sector", "Clark County / primary ZIP 98604"]
+zillowHomeValueUsd: 605406
 ---
 
 **Engineering Notice for Meadow Glade:** structural drying capacity optimized for 328ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clark County. Relative Humidity Threshold: 71%. Sensor sync: Active.

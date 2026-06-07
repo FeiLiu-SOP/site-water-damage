@@ -12,6 +12,7 @@ lng: -74.0300
 zipSample: ["07719"]
 zipCodes: ["07719"]
 localPaths: ["Monmouth County / ZIP 07719 sector", "Monmouth County / primary ZIP 07719", "Monmouth County / coords 40.1700, -74.0300", "Monmouth County / elevation 26 ft band"]
+zillowHomeValueUsd: 806912
 ---
 
 **Engineering Notice for Lake Como:** Site context locked to Monmouth County. Coordinates: 40.1700, -74.0300. Facade Renewal integrity verification recorded.

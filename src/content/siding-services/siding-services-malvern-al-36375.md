@@ -12,6 +12,7 @@ lng: -85.5200
 zipSample: ["36301", "36375", "36305"]
 zipCodes: ["36301", "36305", "36375"]
 localPaths: ["Geneva County / ZIP 36375 sector", "Geneva County / ZIP 36305 sector", "Geneva County / coords 31.1400, -85.5200", "Geneva County / primary ZIP 36375", "Geneva County / elevation 305 ft band"]
+zillowHomeValueUsd: 173828
 ---
 
 **Engineering Notice for Malvern:** Structural integrity verification: Weather Barrier Wrap calibrated for 107 mph localized wind load factor. Elevation: 305 ft AMSL. Coordinates: 31.1400, -85.5200. Regional dispatch grid: Geneva County.

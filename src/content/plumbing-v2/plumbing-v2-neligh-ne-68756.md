@@ -12,6 +12,7 @@ lng: -98.0300
 zipSample: ["68756"]
 zipCodes: ["68756"]
 localPaths: ["Antelope County / elevation 1765 ft band", "Antelope County / ZIP 68756 sector", "Antelope County / primary ZIP 68756", "Antelope County / coords 42.1300, -98.0300"]
+zillowHomeValueUsd: 179822
 ---
 
 **Engineering Notice for Neligh:** System optimized for 125 mg/L hard water scaling factors in Neligh. Regional dispatch grid: Antelope County.

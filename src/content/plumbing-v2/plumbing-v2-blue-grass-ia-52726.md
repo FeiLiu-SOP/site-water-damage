@@ -12,6 +12,7 @@ lng: -90.7700
 zipSample: ["52726"]
 zipCodes: ["52726"]
 localPaths: ["Scott County / primary ZIP 52726", "Scott County / coords 41.5100, -90.7700", "Scott County / ZIP 52726 sector", "Scott County / elevation 804 ft band"]
+zillowHomeValueUsd: 343298
 ---
 
 **Engineering Notice for Blue Grass:** System optimized for 171 mg/L hard water scaling factors in Blue Grass. Regional dispatch grid: Scott County.

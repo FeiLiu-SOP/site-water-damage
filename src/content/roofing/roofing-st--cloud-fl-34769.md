@@ -11,6 +11,7 @@ lng: -81.2800
 zipSample: ["34771", "34769", "34772"]
 zipCodes: ["34771", "34772", "34769"]
 localPaths: ["Osceola County / primary ZIP 34769", "Osceola County / ZIP 34771 sector", "Osceola County / ZIP 34772 sector", "Osceola County / ZIP 34769 sector", "Osceola County / coords 28.2400, -81.2800"]
+zillowHomeValueUsd: 315906
 ---
 
 **Engineering Notice for St. Cloud:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Osceola County.

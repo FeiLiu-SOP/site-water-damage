@@ -12,6 +12,7 @@ lng: -107.1600
 zipSample: ["87937"]
 zipCodes: ["87937"]
 localPaths: ["Doña Ana County / elevation 4055 ft band", "Doña Ana County / coords 32.6700, -107.1600", "Doña Ana County / primary ZIP 87937", "Doña Ana County / ZIP 87937 sector"]
+zillowHomeValueUsd: 168536
 ---
 
 **Engineering Notice for Hatch:** System optimized for 142 mg/L hard water scaling factors in Hatch. Regional dispatch grid: Doña Ana County.

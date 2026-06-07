@@ -12,6 +12,7 @@ lng: -107.8600
 zipSample: ["81435"]
 zipCodes: ["81435"]
 localPaths: ["San Miguel County / primary ZIP 81435", "San Miguel County / elevation 9541 ft band", "San Miguel County / coords 37.9300, -107.8600", "San Miguel County / ZIP 81435 sector"]
+zillowHomeValueUsd: 2165630
 ---
 
 **Engineering Notice for Mountain Village:** Site context locked to San Miguel County. Elevation: 9541 ft AMSL. Cladding Service integrity verification recorded.

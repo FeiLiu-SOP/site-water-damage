@@ -12,6 +12,7 @@ lng: -84.2300
 zipSample: ["48872"]
 zipCodes: ["48872"]
 localPaths: ["Shiawassee County / coords 42.8200, -84.2300", "Shiawassee County / ZIP 48872 sector", "Shiawassee County / elevation 886 ft band", "Shiawassee County / primary ZIP 48872"]
+zillowHomeValueUsd: 267431
 ---
 
 **Engineering Notice for Perry:** structural drying capacity optimized for 886ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Shiawassee County. Relative Humidity Threshold: 66%. Sensor sync: Active.

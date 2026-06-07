@@ -12,6 +12,8 @@ lng: -109.9600
 zipSample: ["85941"]
 zipCodes: ["85941"]
 localPaths: ["Navajo County / primary ZIP 85941", "Navajo County / coords 34.0000, -109.9600", "Navajo County / ZIP 85941 sector", "Navajo County / elevation 6824 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 439207
 ---
 
 **Engineering Notice for North Fork:** Site context locked to Navajo County. Elevation: 6824 ft AMSL. Cladding Retrofit integrity verification recorded.

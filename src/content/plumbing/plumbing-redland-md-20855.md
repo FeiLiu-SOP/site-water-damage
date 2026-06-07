@@ -12,6 +12,7 @@ lng: -77.1500
 zipSample: ["20855", "20877"]
 zipCodes: ["20855", "20877"]
 localPaths: ["Montgomery County / ZIP 20855 sector", "Montgomery County / elevation 420 ft band", "Montgomery County / ZIP 20877 sector", "Montgomery County / primary ZIP 20855", "Montgomery County / coords 39.1300, -77.1500"]
+zillowHomeValueUsd: 694460
 ---
 
 **Engineering Notice for Redland:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: Montgomery County.

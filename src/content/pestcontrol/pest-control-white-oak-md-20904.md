@@ -11,6 +11,7 @@ lng: -76.9900
 zipSample: ["20904", "20903", "20901"]
 zipCodes: ["20903", "20904", "20901"]
 localPaths: ["Montgomery County / coords 39.0500, -76.9900", "Montgomery County / elevation 404 ft band", "Montgomery County / ZIP 20901 sector", "Montgomery County / ZIP 20904 sector", "Montgomery County / ZIP 20903 sector"]
+zillowHomeValueUsd: 592846
 ---
 
 **Engineering Notice for White Oak:** Structural loading calculated based on 404 ft terrain assessment. Regional dispatch grid: Montgomery County.

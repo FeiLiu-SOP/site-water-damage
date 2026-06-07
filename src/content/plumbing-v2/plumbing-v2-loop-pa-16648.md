@@ -12,6 +12,7 @@ lng: -78.3600
 zipSample: ["16648"]
 zipCodes: ["16648"]
 localPaths: ["Blair County / coords 40.4200, -78.3600", "Blair County / elevation 942 ft band", "Blair County / primary ZIP 16648", "Blair County / ZIP 16648 sector"]
+zillowHomeValueUsd: 243684
 ---
 
 **Engineering Notice for Loop:** System optimized for 129 mg/L hard water scaling factors in Loop. Regional dispatch grid: Blair County.

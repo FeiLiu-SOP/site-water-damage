@@ -12,6 +12,7 @@ lng: -74.0700
 zipSample: ["08735"]
 zipCodes: ["08735"]
 localPaths: ["Ocean County / primary ZIP 08735", "Ocean County / elevation 13 ft band", "Ocean County / coords 39.9700, -74.0700", "Ocean County / ZIP 08735 sector"]
+zillowHomeValueUsd: 1146028
 ---
 
 **Engineering Notice for Lavallette:** System optimized for 170 mg/L hard water scaling factors in Lavallette. Regional dispatch grid: Ocean County.

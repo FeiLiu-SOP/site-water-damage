@@ -12,6 +12,7 @@ lng: -83.5700
 zipSample: ["37876", "37764", "37862"]
 zipCodes: ["37862", "37876", "37764"]
 localPaths: ["Sevier County / coords 35.8900, -83.5700", "Sevier County / ZIP 37876 sector", "Sevier County / elevation 981 ft band", "Sevier County / primary ZIP 37862", "Sevier County / ZIP 37862 sector"]
+zillowHomeValueUsd: 449012
 ---
 
 **Engineering Notice for Sevierville:** Structural loading calculated based on 981 ft terrain assessment. Regional dispatch grid: Sevier County.

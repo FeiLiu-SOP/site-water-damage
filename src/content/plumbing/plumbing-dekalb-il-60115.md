@@ -12,6 +12,7 @@ lng: -88.7500
 zipSample: ["60115"]
 zipCodes: ["60115"]
 localPaths: ["DeKalb County / ZIP 60115 sector", "DeKalb County / elevation 889 ft band", "DeKalb County / coords 41.9300, -88.7500", "DeKalb County / primary ZIP 60115"]
+zillowHomeValueUsd: 252903
 ---
 
 **Engineering Notice for DeKalb:** Structural loading calculated based on 889 ft terrain assessment. Regional dispatch grid: DeKalb County.

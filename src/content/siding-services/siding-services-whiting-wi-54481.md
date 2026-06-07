@@ -12,6 +12,7 @@ lng: -89.5600
 zipSample: ["54481"]
 zipCodes: ["54481"]
 localPaths: ["Portage County / coords 44.4900, -89.5600", "Portage County / primary ZIP 54481", "Portage County / elevation 1063 ft band", "Portage County / ZIP 54481 sector"]
+zillowHomeValueUsd: 254682
 ---
 
 **Engineering Notice for Whiting:** Cladding verification uses 94 mph routing baseline; lateral pressure note: 12.5 psf. Elevation: 1063 ft AMSL. Grid: Portage County.

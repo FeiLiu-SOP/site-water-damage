@@ -12,6 +12,7 @@ lng: -79.9900
 zipSample: ["27265", "27260", "27261", "27262", "27282"]
 zipCodes: ["27235", "27263", "27265", "27261", "27264", "27268", "27262", "27260", "27282"]
 localPaths: ["Guilford County / coords 35.9900, -79.9900", "Guilford County / ZIP 27265 sector", "Guilford County / ZIP 27261 sector", "Guilford County / ZIP 27262 sector", "Guilford County / primary ZIP 27265"]
+zillowHomeValueUsd: 302114
 ---
 
 **Engineering Notice for High Point:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Guilford County.

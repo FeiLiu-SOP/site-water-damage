@@ -12,6 +12,7 @@ lng: -82.9500
 zipSample: ["43003"]
 zipCodes: ["43003"]
 localPaths: ["Delaware County / ZIP 43003 sector", "Delaware County / elevation 974 ft band", "Delaware County / primary ZIP 43003", "Delaware County / coords 40.4100, -82.9500"]
+zillowHomeValueUsd: 272110
 ---
 
 **Engineering Notice for Ashley:** Site context locked to Delaware County. Elevation: 974 ft AMSL. Coordinates: 40.4100, -82.9500. Surface Sheathing integrity verification recorded.

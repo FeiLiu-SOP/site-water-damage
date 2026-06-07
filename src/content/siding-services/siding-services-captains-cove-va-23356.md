@@ -12,6 +12,7 @@ lng: -75.4200
 zipSample: ["23356"]
 zipCodes: ["23356"]
 localPaths: ["Accomack County / coords 38.0000, -75.4200", "Accomack County / primary ZIP 23356", "Accomack County / ZIP 23356 sector", "Accomack County / elevation 20 ft band"]
+zillowHomeValueUsd: 315837
 ---
 
 **Engineering Notice for Captains Cove:** Site context locked to Accomack County. Elevation: 20 ft AMSL. Wall Restoration integrity verification recorded.

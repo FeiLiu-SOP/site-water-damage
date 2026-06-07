@@ -11,6 +11,7 @@ lng: -102.5000
 zipSample: ["79763", "79764", "79760"]
 zipCodes: ["79764", "79760", "79763"]
 localPaths: ["Ector County / ZIP 79760 sector", "Ector County / coords 31.8400, -102.5000", "Ector County / ZIP 79763 sector", "Ector County / ZIP 79764 sector", "Ector County / primary ZIP 79763"]
+zillowHomeValueUsd: 215093
 ---
 
 **Engineering Notice for West Odessa:** Structural loading calculated based on 2963 ft terrain assessment. Regional dispatch grid: Ector County.

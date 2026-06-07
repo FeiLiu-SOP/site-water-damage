@@ -12,6 +12,7 @@ lng: -86.4700
 zipSample: ["32578", "32588"]
 zipCodes: ["32578", "32588"]
 localPaths: ["Okaloosa County / elevation 105 ft band", "Okaloosa County / coords 30.5300, -86.4700", "Okaloosa County / ZIP 32578 sector", "Okaloosa County / primary ZIP 32578", "Okaloosa County / ZIP 32588 sector"]
+zillowHomeValueUsd: 437652
 ---
 
 **Engineering Notice for Niceville:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Okaloosa County.

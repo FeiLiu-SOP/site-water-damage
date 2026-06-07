@@ -12,6 +12,7 @@ lng: -87.5000
 zipSample: ["42431"]
 zipCodes: ["42431"]
 localPaths: ["Hopkins County / coords 37.3400, -87.5000", "Hopkins County / elevation 482 ft band", "Hopkins County / primary ZIP 42431", "Hopkins County / ZIP 42431 sector"]
+zillowHomeValueUsd: 160967
 ---
 
 **Engineering Notice for Madisonville:** Structural loading calculated based on 482 ft terrain assessment. Regional dispatch grid: Hopkins County.

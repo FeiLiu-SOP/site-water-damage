@@ -12,6 +12,7 @@ lng: -83.1600
 zipSample: ["31012"]
 zipCodes: ["31012"]
 localPaths: ["Dodge County / ZIP 31012 sector", "Dodge County / coords 32.3900, -83.1600", "Dodge County / primary ZIP 31012", "Dodge County / elevation 374 ft band"]
+zillowHomeValueUsd: 154578
 ---
 
 **Engineering Notice for Chester:** structural drying capacity optimized for 374ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dodge County. Relative Humidity Threshold: 70%. Sensor sync: Active.

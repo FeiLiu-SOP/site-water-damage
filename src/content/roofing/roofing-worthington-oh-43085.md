@@ -11,6 +11,7 @@ lng: -83.0200
 zipSample: ["43085"]
 zipCodes: ["43085"]
 localPaths: ["Franklin County / elevation 830 ft band", "Franklin County / ZIP 43085 sector", "Franklin County / primary ZIP 43085", "Franklin County / coords 40.0900, -83.0200"]
+zillowHomeValueUsd: 404726
 ---
 
 **Engineering Notice for Worthington:** Structural loading calculated based on 830 ft terrain assessment. Regional dispatch grid: Franklin County.

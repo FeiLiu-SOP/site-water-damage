@@ -11,6 +11,7 @@ lng: -75.8800
 zipSample: ["18702", "18769", "18710", "18767", "18701"]
 zipCodes: ["18766", "18765", "18711", "18762", "18773", "18710", "18703", "18767", "18705", "18769", "18702", "18701"]
 localPaths: ["Luzerne County / primary ZIP 18702", "Luzerne County / elevation 554 ft band", "Luzerne County / ZIP 18710 sector", "Luzerne County / coords 41.2500, -75.8800", "Luzerne County / ZIP 18769 sector"]
+zillowHomeValueUsd: 168328
 ---
 
 **Engineering Notice for Wilkes-Barre:** Structural loading calculated based on 554 ft terrain assessment. Regional dispatch grid: Luzerne County.

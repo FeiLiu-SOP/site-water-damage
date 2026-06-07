@@ -12,6 +12,7 @@ lng: -77.0800
 zipSample: ["28584"]
 zipCodes: ["28584"]
 localPaths: ["Carteret County / ZIP 28584 sector", "Carteret County / coords 34.6900, -77.0800", "Carteret County / elevation 23 ft band", "Carteret County / primary ZIP 28584"]
+zillowHomeValueUsd: 401291
 ---
 
 **Engineering Notice for Cedar Point:** System optimized for 151 mg/L hard water scaling factors in Cedar Point. Regional dispatch grid: Carteret County.

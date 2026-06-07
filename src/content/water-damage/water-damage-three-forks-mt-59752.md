@@ -12,6 +12,7 @@ lng: -111.5500
 zipSample: ["59752"]
 zipCodes: ["59752"]
 localPaths: ["Gallatin County / coords 45.8900, -111.5500", "Gallatin County / primary ZIP 59752", "Gallatin County / ZIP 59752 sector", "Gallatin County / elevation 4081 ft band"]
+zillowHomeValueUsd: 550207
 ---
 
 **Engineering Notice for Three Forks:** structural drying capacity optimized for 4081ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gallatin County. Relative Humidity Threshold: 74%. Sensor sync: Active.

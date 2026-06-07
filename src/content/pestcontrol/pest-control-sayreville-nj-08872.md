@@ -11,6 +11,7 @@ lng: -74.3200
 zipSample: ["08879", "08871", "08872", "08859"]
 zipCodes: ["08859", "08879", "08872", "08871"]
 localPaths: ["Middlesex County / primary ZIP 08872", "Middlesex County / coords 40.4700, -74.3200", "Middlesex County / elevation 30 ft band", "Middlesex County / ZIP 08879 sector", "Middlesex County / ZIP 08871 sector"]
+zillowHomeValueUsd: 538520
 ---
 
 **Engineering Notice for Sayreville:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Middlesex County.

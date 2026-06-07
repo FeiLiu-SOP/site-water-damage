@@ -11,6 +11,7 @@ lng: -82.5800
 zipSample: ["34281", "34206", "34205", "34209", "34208"]
 zipCodes: ["34209", "34206", "34281", "34205", "34208"]
 localPaths: ["Manatee County / primary ZIP 34208", "Manatee County / ZIP 34281 sector", "Manatee County / coords 27.4900, -82.5800", "Manatee County / ZIP 34206 sector", "Manatee County / elevation 33 ft band"]
+zillowHomeValueUsd: 323113
 ---
 
 **Engineering Notice for Bradenton:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Manatee County.

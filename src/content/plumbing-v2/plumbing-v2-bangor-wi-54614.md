@@ -12,6 +12,7 @@ lng: -90.9900
 zipSample: ["54614"]
 zipCodes: ["54614"]
 localPaths: ["La Crosse County / elevation 738 ft band", "La Crosse County / coords 43.8900, -90.9900", "La Crosse County / primary ZIP 54614", "La Crosse County / ZIP 54614 sector"]
+zillowHomeValueUsd: 320950
 ---
 
 **Engineering Notice for Bangor:** System optimized for 129 mg/L hard water scaling factors in Bangor. Regional dispatch grid: La Crosse County.

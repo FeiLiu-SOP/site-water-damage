@@ -12,6 +12,7 @@ lng: -84.0600
 zipSample: ["37828", "37705"]
 zipCodes: ["37828", "37705"]
 localPaths: ["Anderson County / coords 36.2100, -84.0600", "Anderson County / primary ZIP 37705", "Anderson County / ZIP 37828 sector", "Anderson County / ZIP 37705 sector", "Anderson County / elevation 981 ft band"]
+zillowHomeValueUsd: 424475
 ---
 
 **Engineering Notice for Norris:** structural drying capacity optimized for 981ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Anderson County. Relative Humidity Threshold: 78%. Sensor sync: Active.

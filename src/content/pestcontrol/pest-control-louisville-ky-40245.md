@@ -11,6 +11,7 @@ lng: -85.6500
 zipSample: ["40027", "40220", "40258", "40241", "40269"]
 zipCodes: ["40269", "40223", "40018", "40245", "40218", "40023", "40213", "40225", "40222", "40242", "40261", "40272"]
 localPaths: ["Jefferson County / ZIP 40220 sector", "Jefferson County / primary ZIP 40245", "Jefferson County / ZIP 40027 sector", "Jefferson County / ZIP 40258 sector", "Jefferson County / elevation 571 ft band"]
+zillowHomeValueUsd: 480848
 ---
 
 **Engineering Notice for Louisville:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: Jefferson County.

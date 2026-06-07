@@ -11,6 +11,8 @@ lng: -92.1300
 zipSample: ["65473"]
 zipCodes: ["65473"]
 localPaths: ["Pulaski County / ZIP 65473 sector", "Pulaski County / primary ZIP 65473", "Pulaski County / coords 37.7600, -92.1300", "Pulaski County / elevation 1142 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 264862
 ---
 
 **Engineering Notice for Fort Leonard Wood:** Structural loading calculated based on 1142 ft terrain assessment. Regional dispatch grid: Pulaski County.

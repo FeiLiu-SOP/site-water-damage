@@ -12,6 +12,7 @@ lng: -86.2100
 zipSample: ["35951", "35950"]
 zipCodes: ["35950", "35951"]
 localPaths: ["Marshall County / primary ZIP 35951", "Marshall County / coords 34.2600, -86.2100", "Marshall County / ZIP 35950 sector", "Marshall County / ZIP 35951 sector", "Marshall County / elevation 1037 ft band"]
+zillowHomeValueUsd: 221508
 ---
 
 **Engineering Notice for Albertville:** Structural loading calculated based on 1037 ft terrain assessment. Regional dispatch grid: Marshall County.

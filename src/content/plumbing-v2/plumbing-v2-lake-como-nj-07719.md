@@ -12,6 +12,7 @@ lng: -74.0300
 zipSample: ["07719"]
 zipCodes: ["07719"]
 localPaths: ["Monmouth County / ZIP 07719 sector", "Monmouth County / elevation 26 ft band", "Monmouth County / primary ZIP 07719", "Monmouth County / coords 40.1700, -74.0300"]
+zillowHomeValueUsd: 806909
 ---
 
 **Engineering Notice for Lake Como:** System optimized for 143 mg/L hard water scaling factors in Lake Como. Regional dispatch grid: Monmouth County.

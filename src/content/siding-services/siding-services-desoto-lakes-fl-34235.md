@@ -12,6 +12,7 @@ lng: -82.5000
 zipSample: ["34235"]
 zipCodes: ["34235"]
 localPaths: ["Sarasota County / elevation 52 ft band", "Sarasota County / primary ZIP 34235", "Sarasota County / coords 27.3800, -82.5000", "Sarasota County / ZIP 34235 sector"]
+zillowHomeValueUsd: 313113
 ---
 
 **Engineering Notice for Desoto Lakes:** Facade Renewal was validated under stress factor 0.85; target tolerance set near 139 mph. Grid anchor: Sarasota County.

@@ -12,6 +12,7 @@ lng: -92.7700
 zipSample: ["70655", "70648"]
 zipCodes: ["70655", "70648"]
 localPaths: ["Allen Parish / ZIP 70655 sector", "Allen Parish / coords 30.6100, -92.7700", "Allen Parish / ZIP 70648 sector", "Allen Parish / elevation 125 ft band", "Allen Parish / primary ZIP 70655"]
+zillowHomeValueUsd: 90592
 ---
 
 **Engineering Notice for Oberlin:** Envelope check: Wall Restoration assigned to wind-load band C with stress factor 0.80. Regional dispatch grid: Allen Parish.

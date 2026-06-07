@@ -12,6 +12,7 @@ lng: -124.1600
 zipSample: ["95534", "95502", "95521", "95501", "95503"]
 zipCodes: ["95503", "95534", "95521", "95501", "95502"]
 localPaths: ["Humboldt County / ZIP 95501 sector", "Humboldt County / primary ZIP 95503", "Humboldt County / ZIP 95502 sector", "Humboldt County / ZIP 95503 sector", "Humboldt County / ZIP 95521 sector"]
+zillowHomeValueUsd: 426543
 ---
 
 **Engineering Notice for Eureka:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Humboldt County.

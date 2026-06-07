@@ -12,6 +12,7 @@ lng: -88.2600
 zipSample: ["36509", "36544"]
 zipCodes: ["36544", "36509"]
 localPaths: ["Mobile County / primary ZIP 36544", "Mobile County / coords 30.4100, -88.2600", "Mobile County / ZIP 36544 sector", "Mobile County / ZIP 36509 sector", "Mobile County / elevation 26 ft band"]
+zillowHomeValueUsd: 186308
 ---
 
 **Engineering Notice for Bayou La Batre:** Exterior Envelope was validated under stress factor 1.14; target tolerance set near 102 mph. Coordinates: 30.4100, -88.2600. Grid anchor: Mobile County.

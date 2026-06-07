@@ -12,6 +12,7 @@ lng: -76.7100
 zipSample: ["17407"]
 zipCodes: ["17407"]
 localPaths: ["York County / primary ZIP 17407", "York County / elevation 686 ft band", "York County / ZIP 17407 sector", "York County / coords 39.8800, -76.7100"]
+zillowHomeValueUsd: 325457
 ---
 
 **Engineering Notice for Jacobus:** System optimized for 176 mg/L hard water scaling factors in Jacobus. Regional dispatch grid: York County.

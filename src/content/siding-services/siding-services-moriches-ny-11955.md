@@ -12,6 +12,7 @@ lng: -72.8200
 zipSample: ["11955"]
 zipCodes: ["11955"]
 localPaths: ["Suffolk County / ZIP 11955 sector", "Suffolk County / elevation 39 ft band", "Suffolk County / coords 40.8100, -72.8200", "Suffolk County / primary ZIP 11955"]
+zillowHomeValueUsd: 623246
 ---
 
 **Engineering Notice for Moriches:** Facade Renewal was validated under stress factor 1.08; target tolerance set near 95 mph. Coordinates: 40.8100, -72.8200. Grid anchor: Suffolk County.

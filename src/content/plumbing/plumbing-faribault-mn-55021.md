@@ -12,6 +12,7 @@ lng: -93.2800
 zipSample: ["55021"]
 zipCodes: ["55021"]
 localPaths: ["Rice County / ZIP 55021 sector", "Rice County / coords 44.3000, -93.2800", "Rice County / primary ZIP 55021", "Rice County / elevation 981 ft band"]
+zillowHomeValueUsd: 296118
 ---
 
 **Engineering Notice for Faribault:** Structural loading calculated based on 981 ft terrain assessment. Regional dispatch grid: Rice County.

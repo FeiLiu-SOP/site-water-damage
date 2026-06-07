@@ -11,6 +11,7 @@ lng: -117.2500
 zipSample: ["92373", "92357", "92318", "92324", "92350"]
 zipCodes: ["92350", "92357", "92354", "92324", "92318", "92373"]
 localPaths: ["San Bernardino County / ZIP 92324 sector", "San Bernardino County / ZIP 92373 sector", "San Bernardino County / elevation 1217 ft band", "San Bernardino County / ZIP 92350 sector", "San Bernardino County / ZIP 92357 sector"]
+zillowHomeValueUsd: 643169
 ---
 
 **Engineering Notice for Loma Linda:** Structural loading calculated based on 1217 ft terrain assessment. Regional dispatch grid: San Bernardino County.

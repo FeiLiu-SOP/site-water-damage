@@ -12,6 +12,7 @@ lng: -110.9100
 zipSample: ["85137"]
 zipCodes: ["85137"]
 localPaths: ["Pinal County / coords 33.0600, -110.9100", "Pinal County / primary ZIP 85137", "Pinal County / ZIP 85137 sector", "Pinal County / elevation 1909 ft band"]
+zillowHomeValueUsd: 171017
 ---
 
 **Engineering Notice for Kearny:** Envelope check: Surface Sheathing assigned to wind-load band A with stress factor 1.22. Regional dispatch grid: Pinal County.

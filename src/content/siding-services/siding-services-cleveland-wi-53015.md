@@ -12,6 +12,7 @@ lng: -87.7500
 zipSample: ["53015"]
 zipCodes: ["53015"]
 localPaths: ["Manitowoc County / elevation 646 ft band", "Manitowoc County / coords 43.9200, -87.7500", "Manitowoc County / ZIP 53015 sector", "Manitowoc County / primary ZIP 53015"]
+zillowHomeValueUsd: 311955
 ---
 
 **Engineering Notice for Cleveland:** Envelope check: Vinyl Panels assigned to wind-load band B with stress factor 0.80. Regional dispatch grid: Manitowoc County.

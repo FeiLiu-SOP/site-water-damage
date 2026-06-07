@@ -12,6 +12,7 @@ lng: -96.4000
 zipSample: ["75491"]
 zipCodes: ["75491"]
 localPaths: ["Grayson County / coords 33.5100, -96.4000", "Grayson County / ZIP 75491 sector", "Grayson County / primary ZIP 75491", "Grayson County / elevation 784 ft band"]
+zillowHomeValueUsd: 342961
 ---
 
 **Engineering Notice for Whitewright:** System optimized for 158 mg/L hard water scaling factors in Whitewright. Regional dispatch grid: Grayson County.

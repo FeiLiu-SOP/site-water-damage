@@ -11,6 +11,7 @@ lng: -77.3600
 zipSample: ["23116", "23111"]
 zipCodes: ["23116", "23111"]
 localPaths: ["Hanover County / primary ZIP 23116", "Hanover County / elevation 174 ft band", "Hanover County / ZIP 23116 sector", "Hanover County / coords 37.6300, -77.3600", "Hanover County / ZIP 23111 sector"]
+zillowHomeValueUsd: 510553
 ---
 
 **Engineering Notice for Mechanicsville:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Hanover County.

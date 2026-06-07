@@ -12,6 +12,7 @@ lng: -99.2800
 zipSample: ["67669"]
 zipCodes: ["67669"]
 localPaths: ["Rooks County / coords 39.4300, -99.2800", "Rooks County / ZIP 67669 sector", "Rooks County / elevation 1781 ft band", "Rooks County / primary ZIP 67669"]
+zillowHomeValueUsd: 120215
 ---
 
 **Engineering Notice for Stockton:** System optimized for 129 mg/L hard water scaling factors in Stockton. Regional dispatch grid: Rooks County.

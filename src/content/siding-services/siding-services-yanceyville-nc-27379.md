@@ -12,6 +12,7 @@ lng: -79.3400
 zipSample: ["27212", "27379"]
 zipCodes: ["27212", "27379"]
 localPaths: ["Caswell County / elevation 597 ft band", "Caswell County / primary ZIP 27379", "Caswell County / ZIP 27212 sector", "Caswell County / ZIP 27379 sector", "Caswell County / coords 36.4100, -79.3400"]
+zillowHomeValueUsd: 184245
 ---
 
 **Engineering Notice for Yanceyville:** Site context locked to Caswell County. Elevation: 597 ft AMSL. Vinyl Panels integrity verification recorded.

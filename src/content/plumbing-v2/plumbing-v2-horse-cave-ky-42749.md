@@ -12,6 +12,7 @@ lng: -85.9100
 zipSample: ["42749"]
 zipCodes: ["42749"]
 localPaths: ["Hart County / elevation 630 ft band", "Hart County / primary ZIP 42749", "Hart County / coords 37.1700, -85.9100", "Hart County / ZIP 42749 sector"]
+zillowHomeValueUsd: 170667
 ---
 
 **Engineering Notice for Horse Cave:** System optimized for 123 mg/L hard water scaling factors in Horse Cave. Regional dispatch grid: Hart County.

@@ -12,6 +12,7 @@ lng: -97.3900
 zipSample: ["77963"]
 zipCodes: ["77963"]
 localPaths: ["Goliad County / primary ZIP 77963", "Goliad County / coords 28.6700, -97.3900", "Goliad County / ZIP 77963 sector", "Goliad County / elevation 210 ft band"]
+zillowHomeValueUsd: 254431
 ---
 
 **Engineering Notice for Goliad:** Site context locked to Goliad County. Elevation: 210 ft AMSL. Coordinates: 28.6700, -97.3900. Vinyl Panels integrity verification recorded.

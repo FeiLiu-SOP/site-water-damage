@@ -11,6 +11,7 @@ lng: -75.1300
 zipSample: ["19112", "19146", "19107", "19111", "19134"]
 zipCodes: ["19145", "19105", "19132", "19147", "19109", "19151", "19183", "19135", "19155", "19110", "19129", "19176"]
 localPaths: ["Philadelphia County / ZIP 19107 sector", "Philadelphia County / primary ZIP 19154", "Philadelphia County / coords 40.0100, -75.1300", "Philadelphia County / ZIP 19146 sector", "Philadelphia County / ZIP 19111 sector"]
+zillowHomeValueUsd: 321053
 ---
 
 **Engineering Notice for Philadelphia:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Philadelphia County.

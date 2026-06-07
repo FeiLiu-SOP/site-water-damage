@@ -12,6 +12,7 @@ lng: -94.8600
 zipSample: ["74339", "74354"]
 zipCodes: ["74354", "74339"]
 localPaths: ["Ottawa County / ZIP 74339 sector", "Ottawa County / coords 36.9300, -94.8600", "Ottawa County / primary ZIP 74339", "Ottawa County / ZIP 74354 sector", "Ottawa County / elevation 797 ft band"]
+zillowHomeValueUsd: 68987
 ---
 
 **Engineering Notice for Commerce:** System optimized for 168 mg/L hard water scaling factors in Commerce. Regional dispatch grid: Ottawa County.

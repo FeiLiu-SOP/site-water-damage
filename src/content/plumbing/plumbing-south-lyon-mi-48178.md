@@ -12,6 +12,7 @@ lng: -83.6500
 zipSample: ["48178"]
 zipCodes: ["48178"]
 localPaths: ["Oakland County / primary ZIP 48178", "Oakland County / elevation 922 ft band", "Oakland County / ZIP 48178 sector", "Oakland County / coords 42.4600, -83.6500"]
+zillowHomeValueUsd: 465813
 ---
 
 **Engineering Notice for South Lyon:** Structural loading calculated based on 922 ft terrain assessment. Regional dispatch grid: Oakland County.

@@ -12,6 +12,7 @@ lng: -80.0400
 zipSample: ["33480"]
 zipCodes: ["33480"]
 localPaths: ["Palm Beach County / coords 26.5900, -80.0400", "Palm Beach County / elevation 36 ft band", "Palm Beach County / primary ZIP 33480", "Palm Beach County / ZIP 33480 sector"]
+zillowHomeValueUsd: 1488256
 ---
 
 **Engineering Notice for South Palm Beach:** structural drying capacity optimized for 36ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Palm Beach County. Relative Humidity Threshold: 80%. Sensor sync: Active.

@@ -11,6 +11,7 @@ lng: -92.0800
 zipSample: ["54874", "54880"]
 zipCodes: ["54874", "54880"]
 localPaths: ["Douglas County / elevation 653 ft band", "Douglas County / ZIP 54880 sector", "Douglas County / coords 46.6900, -92.0800", "Douglas County / primary ZIP 54880", "Douglas County / ZIP 54874 sector"]
+zillowHomeValueUsd: 227783
 ---
 
 **Engineering Notice for Superior:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Douglas County.

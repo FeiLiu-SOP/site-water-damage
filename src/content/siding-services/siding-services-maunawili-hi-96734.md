@@ -12,6 +12,7 @@ lng: -157.7700
 zipSample: ["96734"]
 zipCodes: ["96734"]
 localPaths: ["Honolulu County / coords 21.3700, -157.7700", "Honolulu County / elevation 194 ft band", "Honolulu County / ZIP 96734 sector", "Honolulu County / primary ZIP 96734"]
+zillowHomeValueUsd: 1523588
 ---
 
 **Engineering Notice for Maunawili:** Site context locked to Honolulu County. Wall Restoration integrity verification recorded.

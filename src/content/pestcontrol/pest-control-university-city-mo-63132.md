@@ -11,6 +11,7 @@ lng: -90.3300
 zipSample: ["63130", "63132"]
 zipCodes: ["63132", "63130"]
 localPaths: ["St. Louis County / primary ZIP 63132", "St. Louis County / ZIP 63132 sector", "St. Louis County / elevation 535 ft band", "St. Louis County / ZIP 63130 sector", "St. Louis County / coords 38.6700, -90.3300"]
+zillowHomeValueUsd: 356845
 ---
 
 **Engineering Notice for University City:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: St. Louis County.

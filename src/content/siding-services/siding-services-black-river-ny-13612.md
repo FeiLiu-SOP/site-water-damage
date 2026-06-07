@@ -12,6 +12,7 @@ lng: -75.8000
 zipSample: ["13612"]
 zipCodes: ["13612"]
 localPaths: ["Jefferson County / primary ZIP 13612", "Jefferson County / coords 44.0100, -75.8000", "Jefferson County / elevation 581 ft band", "Jefferson County / ZIP 13612 sector"]
+zillowHomeValueUsd: 236057
 ---
 
 **Engineering Notice for Black River:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 0.96. Elevation: 581 ft AMSL. Regional dispatch grid: Jefferson County.

@@ -11,6 +11,7 @@ lng: -119.7900
 zipSample: ["93776", "93720", "93760", "93794", "93791"]
 zipCodes: ["93777", "93760", "93775", "93744", "93755", "93774", "93721", "93702", "93772", "93771", "93761", "93708"]
 localPaths: ["Fresno County / coords 36.7800, -119.7900", "Fresno County / ZIP 93791 sector", "Fresno County / ZIP 93720 sector", "Fresno County / ZIP 93776 sector", "Fresno County / ZIP 93794 sector"]
+zillowHomeValueUsd: 401172
 ---
 
 **Engineering Notice for Fresno:** Structural loading calculated based on 328 ft terrain assessment. Regional dispatch grid: Fresno County.

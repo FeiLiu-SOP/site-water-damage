@@ -12,6 +12,7 @@ lng: -87.1700
 zipSample: ["42234"]
 zipCodes: ["42234"]
 localPaths: ["Todd County / elevation 545 ft band", "Todd County / coords 36.6500, -87.1700", "Todd County / primary ZIP 42234", "Todd County / ZIP 42234 sector"]
+zillowHomeValueUsd: 194493
 ---
 
 **Engineering Notice for Guthrie:** Site context locked to Todd County. Exterior Cladding integrity verification recorded.

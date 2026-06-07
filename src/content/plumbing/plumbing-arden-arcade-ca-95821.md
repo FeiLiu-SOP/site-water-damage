@@ -12,6 +12,7 @@ lng: -121.3800
 zipSample: ["95866", "95864", "95825", "95821", "95860"]
 zipCodes: ["95864", "95821", "95865", "95825", "95860", "95866"]
 localPaths: ["Sacramento County / elevation 75 ft band", "Sacramento County / ZIP 95821 sector", "Sacramento County / ZIP 95860 sector", "Sacramento County / ZIP 95866 sector", "Sacramento County / ZIP 95864 sector"]
+zillowHomeValueUsd: 498719
 ---
 
 **Engineering Notice for Arden-Arcade:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Sacramento County.

@@ -12,6 +12,7 @@ lng: -120.1600
 zipSample: ["98831"]
 zipCodes: ["98831"]
 localPaths: ["Chelan County / primary ZIP 98831", "Chelan County / elevation 1086 ft band", "Chelan County / coords 47.8800, -120.1600", "Chelan County / ZIP 98831 sector"]
+zillowHomeValueUsd: 743638
 ---
 
 **Engineering Notice for Manson:** Envelope check: Panel Replacement assigned to wind-load band B with stress factor 0.87. Regional dispatch grid: Chelan County.

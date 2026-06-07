@@ -12,6 +12,7 @@ lng: -92.5700
 zipSample: ["72019", "72015", "72158", "72018"]
 zipCodes: ["72015", "72158", "72018", "72019"]
 localPaths: ["Saline County / ZIP 72158 sector", "Saline County / ZIP 72019 sector", "Saline County / ZIP 72015 sector", "Saline County / elevation 509 ft band", "Saline County / coords 34.5800, -92.5700"]
+zillowHomeValueUsd: 205625
 ---
 
 **Engineering Notice for Benton:** Structural loading calculated based on 509 ft terrain assessment. Regional dispatch grid: Saline County.

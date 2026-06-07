@@ -11,6 +11,7 @@ lng: -95.7000
 zipSample: ["66647", "66604", "66616", "66601", "66612"]
 zipCodes: ["66683", "66606", "66624", "66667", "66611", "66605", "66625", "66647", "66601", "66621", "66619", "66609"]
 localPaths: ["Shawnee County / ZIP 66647 sector", "Shawnee County / ZIP 66604 sector", "Shawnee County / elevation 958 ft band", "Shawnee County / ZIP 66612 sector", "Shawnee County / coords 39.0300, -95.7000"]
+zillowHomeValueUsd: 233925
 ---
 
 **Engineering Notice for Topeka:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Shawnee County.

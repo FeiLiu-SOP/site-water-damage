@@ -12,6 +12,8 @@ lng: -158.5400
 zipSample: ["99576"]
 zipCodes: ["99576"]
 localPaths: ["Dillingham County / coords 59.0500, -158.5400", "Dillingham County / primary ZIP 99576", "Dillingham County / elevation 102 ft band", "Dillingham County / ZIP 99576 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 348909
 ---
 
 **Engineering Notice for Dillingham:** System optimized for 165 mg/L hard water scaling factors in Dillingham. Regional dispatch grid: Dillingham County.

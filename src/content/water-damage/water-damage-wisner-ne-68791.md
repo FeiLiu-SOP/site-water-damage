@@ -12,6 +12,7 @@ lng: -96.9100
 zipSample: ["68791"]
 zipCodes: ["68791"]
 localPaths: ["Cuming County / primary ZIP 68791", "Cuming County / ZIP 68791 sector", "Cuming County / coords 41.9900, -96.9100", "Cuming County / elevation 1404 ft band"]
+zillowHomeValueUsd: 226042
 ---
 
 **Engineering Notice for Wisner:** structural drying capacity optimized for 1404ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cuming County. Relative Humidity Threshold: 68%. Sensor sync: Active.

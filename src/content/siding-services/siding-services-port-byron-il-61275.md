@@ -12,6 +12,7 @@ lng: -90.3300
 zipSample: ["61275"]
 zipCodes: ["61275"]
 localPaths: ["Rock Island County / ZIP 61275 sector", "Rock Island County / primary ZIP 61275", "Rock Island County / coords 41.6200, -90.3300", "Rock Island County / elevation 696 ft band"]
+zillowHomeValueUsd: 300587
 ---
 
 **Engineering Notice for Port Byron:** Structural integrity verification: Facade Renewal calibrated for 107 mph localized wind load factor. Elevation: 696 ft AMSL. Regional dispatch grid: Rock Island County.

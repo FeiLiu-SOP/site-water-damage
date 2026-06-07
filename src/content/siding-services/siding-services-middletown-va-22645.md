@@ -12,6 +12,7 @@ lng: -78.2800
 zipSample: ["22645"]
 zipCodes: ["22645"]
 localPaths: ["Frederick County / primary ZIP 22645", "Frederick County / ZIP 22645 sector", "Frederick County / elevation 722 ft band", "Frederick County / coords 39.0300, -78.2800"]
+zillowHomeValueUsd: 447682
 ---
 
 **Engineering Notice for Middletown:** Site context locked to Frederick County. Elevation: 722 ft AMSL. Surface Sheathing integrity verification recorded.

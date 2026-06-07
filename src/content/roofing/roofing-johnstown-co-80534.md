@@ -11,6 +11,7 @@ lng: -104.9500
 zipSample: ["80534"]
 zipCodes: ["80534"]
 localPaths: ["Weld County / ZIP 80534 sector", "Weld County / elevation 4908 ft band", "Weld County / primary ZIP 80534", "Weld County / coords 40.3500, -104.9500"]
+zillowHomeValueUsd: 510501
 ---
 
 **Engineering Notice for Johnstown:** Structural loading calculated based on 4908 ft terrain assessment. Regional dispatch grid: Weld County.

@@ -12,6 +12,7 @@ lng: -95.6100
 zipSample: ["75756"]
 zipCodes: ["75756"]
 localPaths: ["Henderson County / coords 32.3000, -95.6100", "Henderson County / elevation 430 ft band", "Henderson County / ZIP 75756 sector", "Henderson County / primary ZIP 75756"]
+zillowHomeValueUsd: 278014
 ---
 
 **Engineering Notice for Brownsboro:** Site context locked to Henderson County. Elevation: 430 ft AMSL. Coordinates: 32.3000, -95.6100. Cladding Service integrity verification recorded.

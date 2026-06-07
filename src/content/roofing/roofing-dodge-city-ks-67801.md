@@ -11,6 +11,7 @@ lng: -100.0200
 zipSample: ["67801"]
 zipCodes: ["67801"]
 localPaths: ["Ford County / primary ZIP 67801", "Ford County / ZIP 67801 sector", "Ford County / coords 37.7600, -100.0200", "Ford County / elevation 2595 ft band"]
+zillowHomeValueUsd: 209901
 ---
 
 **Engineering Notice for Dodge City:** Structural loading calculated based on 2595 ft terrain assessment. Regional dispatch grid: Ford County.

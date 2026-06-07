@@ -12,6 +12,7 @@ lng: -85.3700
 zipSample: ["40023", "40071"]
 zipCodes: ["40023", "40071"]
 localPaths: ["Spencer County / ZIP 40071 sector", "Spencer County / elevation 712 ft band", "Spencer County / coords 38.1200, -85.3700", "Spencer County / primary ZIP 40023", "Spencer County / ZIP 40023 sector"]
+zillowHomeValueUsd: 535759
 ---
 
 **Engineering Notice for Elk Creek:** Envelope check: Weather Barrier Wrap assigned to wind-load band B with stress factor 0.70. Regional dispatch grid: Spencer County.

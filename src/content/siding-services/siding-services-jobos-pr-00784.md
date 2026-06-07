@@ -12,6 +12,8 @@ lng: -66.1700
 zipSample: ["00784"]
 zipCodes: ["00784"]
 localPaths: ["Guayama County / ZIP 00784 sector", "Guayama County / elevation 36 ft band", "Guayama County / primary ZIP 00784", "Guayama County / coords 17.9600, -66.1700"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 369490
 ---
 
 **Engineering Notice for Jobos:** Structural integrity verification: Exterior Envelope calibrated for 107 mph localized wind load factor. Regional dispatch grid: Guayama County.

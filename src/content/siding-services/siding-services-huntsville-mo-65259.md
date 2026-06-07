@@ -12,6 +12,7 @@ lng: -92.5400
 zipSample: ["65259"]
 zipCodes: ["65259"]
 localPaths: ["Randolph County / elevation 768 ft band", "Randolph County / ZIP 65259 sector", "Randolph County / coords 39.4400, -92.5400", "Randolph County / primary ZIP 65259"]
+zillowHomeValueUsd: 208452
 ---
 
 **Engineering Notice for Huntsville:** Structural integrity verification: Cladding Service calibrated for 94 mph localized wind load factor. Elevation: 768 ft AMSL. Coordinates: 39.4400, -92.5400. Regional dispatch grid: Randolph County.

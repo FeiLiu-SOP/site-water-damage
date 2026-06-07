@@ -12,6 +12,7 @@ lng: -121.1700
 zipSample: ["98617", "98635"]
 zipCodes: ["98635", "98617"]
 localPaths: ["Klickitat County / primary ZIP 98617", "Klickitat County / coords 45.6300, -121.1700", "Klickitat County / elevation 203 ft band", "Klickitat County / ZIP 98635 sector", "Klickitat County / ZIP 98617 sector"]
+zillowHomeValueUsd: 425420
 ---
 
 **Engineering Notice for Dallesport:** Site context locked to Klickitat County. Elevation: 203 ft AMSL. Exterior Cladding integrity verification recorded.

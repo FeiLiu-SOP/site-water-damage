@@ -12,6 +12,7 @@ lng: -123.4300
 zipSample: ["97526", "97532"]
 zipCodes: ["97526", "97532"]
 localPaths: ["Josephine County / ZIP 97526 sector", "Josephine County / ZIP 97532 sector", "Josephine County / primary ZIP 97532", "Josephine County / elevation 896 ft band", "Josephine County / coords 42.5200, -123.4300"]
+zillowHomeValueUsd: 464730
 ---
 
 **Engineering Notice for Merlin:** System optimized for 173 mg/L hard water scaling factors in Merlin. Regional dispatch grid: Josephine County.

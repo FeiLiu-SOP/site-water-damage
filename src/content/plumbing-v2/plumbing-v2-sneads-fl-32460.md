@@ -12,6 +12,7 @@ lng: -84.9200
 zipSample: ["32460"]
 zipCodes: ["32460"]
 localPaths: ["Jackson County / ZIP 32460 sector", "Jackson County / primary ZIP 32460", "Jackson County / elevation 141 ft band", "Jackson County / coords 30.7100, -84.9200"]
+zillowHomeValueUsd: 154338
 ---
 
 **Engineering Notice for Sneads:** System optimized for 126 mg/L hard water scaling factors in Sneads. Regional dispatch grid: Jackson County.

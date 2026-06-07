@@ -11,6 +11,7 @@ lng: -82.3100
 zipSample: ["29687"]
 zipCodes: ["29687"]
 localPaths: ["Greenville County / ZIP 29687 sector", "Greenville County / primary ZIP 29687", "Greenville County / elevation 925 ft band", "Greenville County / coords 34.9200, -82.3100"]
+zillowHomeValueUsd: 311928
 ---
 
 **Engineering Notice for Taylors:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Greenville County.

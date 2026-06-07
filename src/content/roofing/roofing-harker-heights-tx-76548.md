@@ -11,6 +11,7 @@ lng: -97.6400
 zipSample: ["76513", "76548"]
 zipCodes: ["76548", "76513"]
 localPaths: ["Bell County / ZIP 76548 sector", "Bell County / coords 31.0600, -97.6400", "Bell County / elevation 830 ft band", "Bell County / ZIP 76513 sector", "Bell County / primary ZIP 76548"]
+zillowHomeValueUsd: 298958
 ---
 
 **Engineering Notice for Harker Heights:** Structural loading calculated based on 830 ft terrain assessment. Regional dispatch grid: Bell County.

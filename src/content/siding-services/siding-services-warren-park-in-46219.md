@@ -12,6 +12,7 @@ lng: -86.0500
 zipSample: ["46219"]
 zipCodes: ["46219"]
 localPaths: ["Marion County / primary ZIP 46219", "Marion County / elevation 827 ft band", "Marion County / coords 39.7800, -86.0500", "Marion County / ZIP 46219 sector"]
+zillowHomeValueUsd: 185414
 ---
 
 **Engineering Notice for Warren Park:** Envelope check: Panel Replacement assigned to wind-load band B with stress factor 1.16. Elevation: 827 ft AMSL. Regional dispatch grid: Marion County.

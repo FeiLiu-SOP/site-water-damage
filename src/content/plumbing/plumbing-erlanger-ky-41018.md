@@ -12,6 +12,7 @@ lng: -84.5900
 zipSample: ["41017", "41051", "41018"]
 zipCodes: ["41051", "41017", "41018"]
 localPaths: ["Kenton County / elevation 879 ft band", "Kenton County / coords 39.0100, -84.5900", "Kenton County / ZIP 41051 sector", "Kenton County / primary ZIP 41018", "Kenton County / ZIP 41017 sector"]
+zillowHomeValueUsd: 234881
 ---
 
 **Engineering Notice for Erlanger:** Structural loading calculated based on 879 ft terrain assessment. Regional dispatch grid: Kenton County.

@@ -12,6 +12,7 @@ lng: -106.1100
 zipSample: ["81125"]
 zipCodes: ["81125"]
 localPaths: ["Saguache County / elevation 7651 ft band", "Saguache County / primary ZIP 81125", "Saguache County / coords 37.7500, -106.1100", "Saguache County / ZIP 81125 sector"]
+zillowHomeValueUsd: 168332
 ---
 
 **Engineering Notice for Center:** structural drying capacity optimized for 7651ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Saguache County. Relative Humidity Threshold: 81%. Sensor sync: Active.

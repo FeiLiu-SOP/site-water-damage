@@ -12,6 +12,7 @@ lng: -75.6000
 zipSample: ["18031", "18087", "18106"]
 zipCodes: ["18106", "18087", "18031"]
 localPaths: ["Lehigh County / ZIP 18031 sector", "Lehigh County / primary ZIP 18106", "Lehigh County / ZIP 18087 sector", "Lehigh County / elevation 413 ft band", "Lehigh County / ZIP 18106 sector"]
+zillowHomeValueUsd: 442424
 ---
 
 **Engineering Notice for Trexlertown:** System optimized for 178 mg/L hard water scaling factors in Trexlertown. Regional dispatch grid: Lehigh County.

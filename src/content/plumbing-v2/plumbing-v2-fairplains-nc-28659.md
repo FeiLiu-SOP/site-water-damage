@@ -12,6 +12,7 @@ lng: -81.1600
 zipSample: ["28659"]
 zipCodes: ["28659"]
 localPaths: ["Wilkes County / ZIP 28659 sector", "Wilkes County / coords 36.2000, -81.1600", "Wilkes County / elevation 1263 ft band", "Wilkes County / primary ZIP 28659"]
+zillowHomeValueUsd: 209858
 ---
 
 **Engineering Notice for Fairplains:** System optimized for 153 mg/L hard water scaling factors in Fairplains. Regional dispatch grid: Wilkes County.

@@ -11,6 +11,7 @@ lng: -93.4500
 zipSample: ["55303"]
 zipCodes: ["55303"]
 localPaths: ["Anoka County / primary ZIP 55303", "Anoka County / coords 45.2600, -93.4500", "Anoka County / elevation 886 ft band", "Anoka County / ZIP 55303 sector"]
+zillowHomeValueUsd: 372467
 ---
 
 **Engineering Notice for Ramsey:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Anoka County.

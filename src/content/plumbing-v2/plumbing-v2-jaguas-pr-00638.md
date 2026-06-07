@@ -12,6 +12,8 @@ lng: -66.4800
 zipSample: ["00638"]
 zipCodes: ["00638"]
 localPaths: ["Ciales County / coords 18.3100, -66.4800", "Ciales County / primary ZIP 00638", "Ciales County / ZIP 00638 sector", "Ciales County / elevation 1178 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 368948
 ---
 
 **Engineering Notice for Jaguas:** System optimized for 134 mg/L hard water scaling factors in Jaguas. Regional dispatch grid: Ciales County.

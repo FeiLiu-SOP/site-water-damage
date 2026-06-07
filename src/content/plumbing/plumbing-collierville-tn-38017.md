@@ -12,6 +12,7 @@ lng: -89.7000
 zipSample: ["38139", "38017", "38027"]
 zipCodes: ["38139", "38017", "38027"]
 localPaths: ["Shelby County / ZIP 38139 sector", "Shelby County / primary ZIP 38017", "Shelby County / ZIP 38017 sector", "Shelby County / coords 35.0500, -89.7000", "Shelby County / ZIP 38027 sector"]
+zillowHomeValueUsd: 512213
 ---
 
 **Engineering Notice for Collierville:** Structural loading calculated based on 361 ft terrain assessment. Regional dispatch grid: Shelby County.

@@ -12,6 +12,7 @@ lng: -103.8100
 zipSample: ["69357"]
 zipCodes: ["69357"]
 localPaths: ["Scotts Bluff County / elevation 3957 ft band", "Scotts Bluff County / ZIP 69357 sector", "Scotts Bluff County / coords 41.9400, -103.8100", "Scotts Bluff County / primary ZIP 69357"]
+zillowHomeValueUsd: 207089
 ---
 
 **Engineering Notice for Mitchell:** Structural integrity verification: Wall Restoration calibrated for 110 mph localized wind load factor. Elevation: 3957 ft AMSL. Coordinates: 41.9400, -103.8100. Regional dispatch grid: Scotts Bluff County.

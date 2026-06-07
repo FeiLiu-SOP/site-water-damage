@@ -12,6 +12,7 @@ lng: -122.7700
 zipSample: ["98349"]
 zipCodes: ["98349"]
 localPaths: ["Pierce County / ZIP 98349 sector", "Pierce County / coords 47.2800, -122.7700", "Pierce County / primary ZIP 98349", "Pierce County / elevation 233 ft band"]
+zillowHomeValueUsd: 530807
 ---
 
 **Engineering Notice for Home:** System optimized for 162 mg/L hard water scaling factors in Home. Regional dispatch grid: Pierce County.

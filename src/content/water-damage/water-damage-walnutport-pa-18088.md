@@ -12,6 +12,7 @@ lng: -75.6000
 zipSample: ["18088"]
 zipCodes: ["18088"]
 localPaths: ["Northampton County / ZIP 18088 sector", "Northampton County / elevation 404 ft band", "Northampton County / primary ZIP 18088", "Northampton County / coords 40.7500, -75.6000"]
+zillowHomeValueUsd: 347862
 ---
 
 **Engineering Notice for Walnutport:** structural drying capacity optimized for 404ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Northampton County. Relative Humidity Threshold: 76%. Sensor sync: Active.

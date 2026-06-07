@@ -12,6 +12,7 @@ lng: -112.0700
 zipSample: ["84075"]
 zipCodes: ["84075"]
 localPaths: ["Davis County / primary ZIP 84075", "Davis County / ZIP 84075 sector", "Davis County / elevation 4275 ft band", "Davis County / coords 41.0900, -112.0700"]
+zillowHomeValueUsd: 585961
 ---
 
 **Engineering Notice for Syracuse:** Structural loading calculated based on 4275 ft terrain assessment. Regional dispatch grid: Davis County.

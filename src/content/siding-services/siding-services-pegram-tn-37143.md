@@ -12,6 +12,7 @@ lng: -87.0600
 zipSample: ["37143"]
 zipCodes: ["37143"]
 localPaths: ["Cheatham County / ZIP 37143 sector", "Cheatham County / coords 36.1000, -87.0600", "Cheatham County / elevation 564 ft band", "Cheatham County / primary ZIP 37143"]
+zillowHomeValueUsd: 450020
 ---
 
 **Engineering Notice for Pegram:** Vinyl Panels was validated under stress factor 1.08; target tolerance set near 96 mph. Grid anchor: Cheatham County.

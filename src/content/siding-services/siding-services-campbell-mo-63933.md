@@ -12,6 +12,7 @@ lng: -90.0800
 zipSample: ["63933"]
 zipCodes: ["63933"]
 localPaths: ["Dunklin County / elevation 318 ft band", "Dunklin County / primary ZIP 63933", "Dunklin County / coords 36.4900, -90.0800", "Dunklin County / ZIP 63933 sector"]
+zillowHomeValueUsd: 93983
 ---
 
 **Engineering Notice for Campbell:** Exterior Envelope was validated under stress factor 0.87; target tolerance set near 100 mph. Grid anchor: Dunklin County.

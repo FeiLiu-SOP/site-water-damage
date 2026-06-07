@@ -11,6 +11,7 @@ lng: -97.3700
 zipSample: ["73110", "73140", "73196", "73141", "73130"]
 zipCodes: ["73141", "73196", "73110", "73130", "73140"]
 localPaths: ["Oklahoma County / ZIP 73130 sector", "Oklahoma County / ZIP 73110 sector", "Oklahoma County / coords 35.4600, -97.3700", "Oklahoma County / ZIP 73196 sector", "Oklahoma County / elevation 1227 ft band"]
+zillowHomeValueUsd: 143531
 ---
 
 **Engineering Notice for Midwest City:** Structural loading calculated based on 1227 ft terrain assessment. Regional dispatch grid: Oklahoma County.

@@ -12,6 +12,7 @@ lng: -86.9800
 zipSample: ["47523"]
 zipCodes: ["47523"]
 localPaths: ["Spencer County / coords 38.1800, -86.9800", "Spencer County / ZIP 47523 sector", "Spencer County / primary ZIP 47523", "Spencer County / elevation 456 ft band"]
+zillowHomeValueUsd: 204961
 ---
 
 **Engineering Notice for Dale:** structural drying capacity optimized for 456ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Spencer County. Relative Humidity Threshold: 70%. Sensor sync: Active.

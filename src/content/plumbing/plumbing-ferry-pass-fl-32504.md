@@ -12,6 +12,7 @@ lng: -87.1900
 zipSample: ["32523", "32504", "32514"]
 zipCodes: ["32514", "32523", "32504"]
 localPaths: ["Escambia County / primary ZIP 32504", "Escambia County / coords 30.5200, -87.1900", "Escambia County / elevation 125 ft band", "Escambia County / ZIP 32514 sector", "Escambia County / ZIP 32523 sector"]
+zillowHomeValueUsd: 270504
 ---
 
 **Engineering Notice for Ferry Pass:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Escambia County.

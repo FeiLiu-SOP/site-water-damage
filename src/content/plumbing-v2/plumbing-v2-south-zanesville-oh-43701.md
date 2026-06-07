@@ -12,6 +12,7 @@ lng: -82.0200
 zipSample: ["43701"]
 zipCodes: ["43701"]
 localPaths: ["Muskingum County / primary ZIP 43701", "Muskingum County / coords 39.9000, -82.0200", "Muskingum County / ZIP 43701 sector", "Muskingum County / elevation 741 ft band"]
+zillowHomeValueUsd: 197468
 ---
 
 **Engineering Notice for South Zanesville:** System optimized for 166 mg/L hard water scaling factors in South Zanesville. Regional dispatch grid: Muskingum County.

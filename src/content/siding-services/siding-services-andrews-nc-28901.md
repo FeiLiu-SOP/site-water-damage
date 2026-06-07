@@ -12,6 +12,7 @@ lng: -83.8300
 zipSample: ["28901"]
 zipCodes: ["28901"]
 localPaths: ["Cherokee County / primary ZIP 28901", "Cherokee County / coords 35.2000, -83.8300", "Cherokee County / ZIP 28901 sector", "Cherokee County / elevation 1804 ft band"]
+zillowHomeValueUsd: 221004
 ---
 
 **Engineering Notice for Andrews:** Panel Replacement was validated under stress factor 0.96; target tolerance set near 100 mph. Grid anchor: Cherokee County.

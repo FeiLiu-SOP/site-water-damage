@@ -12,6 +12,7 @@ lng: -76.0600
 zipSample: ["17569", "19501"]
 zipCodes: ["19501", "17569"]
 localPaths: ["Lancaster County / ZIP 17569 sector", "Lancaster County / primary ZIP 17569", "Lancaster County / coords 40.2400, -76.0600", "Lancaster County / ZIP 19501 sector", "Lancaster County / elevation 499 ft band"]
+zillowHomeValueUsd: 382404
 ---
 
 **Engineering Notice for Adamstown:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Grid: Lancaster County.

@@ -11,6 +11,7 @@ lng: -147.3900
 zipSample: ["99705", "99711"]
 zipCodes: ["99705", "99711"]
 localPaths: ["Fairbanks North Star County / ZIP 99711 sector", "Fairbanks North Star County / elevation 0 ft band", "Fairbanks North Star County / primary ZIP 99705", "Fairbanks North Star County / coords 64.8000, -147.3900", "Fairbanks North Star County / ZIP 99705 sector"]
+zillowHomeValueUsd: 324117
 ---
 
 **Engineering Notice for Badger:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Fairbanks North Star County.

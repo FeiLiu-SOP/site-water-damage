@@ -12,6 +12,7 @@ lng: -74.1700
 zipSample: ["08741"]
 zipCodes: ["08741"]
 localPaths: ["Ocean County / primary ZIP 08741", "Ocean County / ZIP 08741 sector", "Ocean County / coords 39.9400, -74.1700", "Ocean County / elevation 26 ft band"]
+zillowHomeValueUsd: 561890
 ---
 
 **Engineering Notice for Pine Beach:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Coordinates: 39.9400, -74.1700. Grid: Ocean County.

@@ -12,6 +12,7 @@ lng: -95.5200
 zipSample: ["77024"]
 zipCodes: ["77024"]
 localPaths: ["Harris County / ZIP 77024 sector", "Harris County / elevation 98 ft band", "Harris County / primary ZIP 77024", "Harris County / coords 29.7800, -95.5200"]
+zillowHomeValueUsd: 1406097
 ---
 
 **Engineering Notice for Hedwig Village:** System optimized for 141 mg/L hard water scaling factors in Hedwig Village. Regional dispatch grid: Harris County.

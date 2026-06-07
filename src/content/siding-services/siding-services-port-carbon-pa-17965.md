@@ -12,6 +12,7 @@ lng: -76.1700
 zipSample: ["17965"]
 zipCodes: ["17965"]
 localPaths: ["Schuylkill County / primary ZIP 17965", "Schuylkill County / coords 40.7000, -76.1700", "Schuylkill County / ZIP 17965 sector", "Schuylkill County / elevation 669 ft band"]
+zillowHomeValueUsd: 125605
 ---
 
 **Engineering Notice for Port Carbon:** Cladding verification uses 96 mph routing baseline; lateral pressure note: 12.7 psf. Elevation: 669 ft AMSL. Grid: Schuylkill County.

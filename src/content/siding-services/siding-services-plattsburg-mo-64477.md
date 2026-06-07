@@ -12,6 +12,7 @@ lng: -94.4600
 zipSample: ["64477"]
 zipCodes: ["64477"]
 localPaths: ["Clinton County / ZIP 64477 sector", "Clinton County / elevation 932 ft band", "Clinton County / coords 39.5600, -94.4600", "Clinton County / primary ZIP 64477"]
+zillowHomeValueUsd: 281431
 ---
 
 **Engineering Notice for Plattsburg:** Facade Renewal was validated under stress factor 1.05; target tolerance set near 102 mph. Coordinates: 39.5600, -94.4600. Grid anchor: Clinton County.

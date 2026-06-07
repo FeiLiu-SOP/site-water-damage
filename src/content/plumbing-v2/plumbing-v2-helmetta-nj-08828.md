@@ -12,6 +12,7 @@ lng: -74.4200
 zipSample: ["08828"]
 zipCodes: ["08828"]
 localPaths: ["Middlesex County / coords 40.3800, -74.4200", "Middlesex County / primary ZIP 08828", "Middlesex County / elevation 66 ft band", "Middlesex County / ZIP 08828 sector"]
+zillowHomeValueUsd: 425150
 ---
 
 **Engineering Notice for Helmetta:** System optimized for 157 mg/L hard water scaling factors in Helmetta. Regional dispatch grid: Middlesex County.

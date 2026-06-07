@@ -12,6 +12,7 @@ lng: -101.8500
 zipSample: ["79041"]
 zipCodes: ["79041"]
 localPaths: ["Hale County / ZIP 79041 sector", "Hale County / elevation 3425 ft band", "Hale County / primary ZIP 79041", "Hale County / coords 34.0700, -101.8500"]
+zillowHomeValueUsd: 108926
 ---
 
 **Engineering Notice for Hale Center:** System optimized for 156 mg/L hard water scaling factors in Hale Center. Regional dispatch grid: Hale County.

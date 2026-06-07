@@ -12,6 +12,7 @@ lng: -89.1000
 zipSample: ["61705"]
 zipCodes: ["61705"]
 localPaths: ["McLean County / primary ZIP 61705", "McLean County / coords 40.4900, -89.1000", "McLean County / ZIP 61705 sector", "McLean County / elevation 784 ft band"]
+zillowHomeValueUsd: 378423
 ---
 
 **Engineering Notice for Twin Grove:** System optimized for 142 mg/L hard water scaling factors in Twin Grove. Regional dispatch grid: McLean County.

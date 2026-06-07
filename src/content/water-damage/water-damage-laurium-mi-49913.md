@@ -12,6 +12,7 @@ lng: -88.4400
 zipSample: ["49913"]
 zipCodes: ["49913"]
 localPaths: ["Houghton County / ZIP 49913 sector", "Houghton County / elevation 1220 ft band", "Houghton County / coords 47.2400, -88.4400", "Houghton County / primary ZIP 49913"]
+zillowHomeValueUsd: 126171
 ---
 
 **Engineering Notice for Laurium:** structural drying capacity optimized for 1220ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Houghton County. Relative Humidity Threshold: 82%. Sensor sync: Active.

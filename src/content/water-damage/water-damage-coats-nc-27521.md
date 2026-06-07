@@ -12,6 +12,7 @@ lng: -78.6700
 zipSample: ["27521"]
 zipCodes: ["27521"]
 localPaths: ["Harnett County / primary ZIP 27521", "Harnett County / ZIP 27521 sector", "Harnett County / elevation 305 ft band", "Harnett County / coords 35.4100, -78.6700"]
+zillowHomeValueUsd: 244930
 ---
 
 **Engineering Notice for Coats:** structural drying capacity optimized for 305ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harnett County. Relative Humidity Threshold: 83%. Sensor sync: Active.

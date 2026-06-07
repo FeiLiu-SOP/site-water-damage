@@ -11,6 +11,7 @@ lng: -122.2600
 zipSample: ["94503"]
 zipCodes: ["94503"]
 localPaths: ["Napa County / primary ZIP 94503", "Napa County / ZIP 94503 sector", "Napa County / elevation 62 ft band", "Napa County / coords 38.1800, -122.2600"]
+zillowHomeValueUsd: 748821
 ---
 
 **Engineering Notice for American Canyon:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Napa County.

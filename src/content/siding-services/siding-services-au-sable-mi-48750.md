@@ -12,6 +12,7 @@ lng: -83.3400
 zipSample: ["48750"]
 zipCodes: ["48750"]
 localPaths: ["Iosco County / elevation 607 ft band", "Iosco County / ZIP 48750 sector", "Iosco County / coords 44.4100, -83.3400", "Iosco County / primary ZIP 48750"]
+zillowHomeValueUsd: 149657
 ---
 
 **Engineering Notice for Au Sable:** Envelope check: Cladding Retrofit assigned to wind-load band B with stress factor 1.13. Elevation: 607 ft AMSL. Regional dispatch grid: Iosco County.

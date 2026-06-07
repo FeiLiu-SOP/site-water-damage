@@ -12,6 +12,7 @@ lng: -92.5000
 zipSample: ["70543"]
 zipCodes: ["70543"]
 localPaths: ["Acadia Parish / coords 30.3300, -92.5000", "Acadia Parish / elevation 43 ft band", "Acadia Parish / ZIP 70543 sector", "Acadia Parish / primary ZIP 70543"]
+zillowHomeValueUsd: 183751
 ---
 
 **Engineering Notice for Iota:** Cladding Service was validated under stress factor 0.73; target tolerance set near 102 mph. Grid anchor: Acadia Parish.

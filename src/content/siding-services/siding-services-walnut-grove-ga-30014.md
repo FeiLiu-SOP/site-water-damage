@@ -12,6 +12,7 @@ lng: -83.8500
 zipSample: ["30052", "30014"]
 zipCodes: ["30052", "30014"]
 localPaths: ["Walton County / primary ZIP 30014", "Walton County / coords 33.7500, -83.8500", "Walton County / elevation 915 ft band", "Walton County / ZIP 30014 sector", "Walton County / ZIP 30052 sector"]
+zillowHomeValueUsd: 304279
 ---
 
 **Engineering Notice for Walnut Grove:** Exterior Cladding was validated under stress factor 1.04; target tolerance set near 110 mph. Coordinates: 33.7500, -83.8500. Grid anchor: Walton County.

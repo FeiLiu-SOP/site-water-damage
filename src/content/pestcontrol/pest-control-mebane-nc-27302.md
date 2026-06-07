@@ -11,6 +11,7 @@ lng: -79.2700
 zipSample: ["27302"]
 zipCodes: ["27302"]
 localPaths: ["Alamance County / elevation 705 ft band", "Alamance County / coords 36.0900, -79.2700", "Alamance County / ZIP 27302 sector", "Alamance County / primary ZIP 27302"]
+zillowHomeValueUsd: 353206
 ---
 
 **Engineering Notice for Mebane:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: Alamance County.

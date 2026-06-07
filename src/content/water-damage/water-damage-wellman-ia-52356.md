@@ -12,6 +12,7 @@ lng: -91.8400
 zipSample: ["52356"]
 zipCodes: ["52356"]
 localPaths: ["Washington County / primary ZIP 52356", "Washington County / coords 41.4700, -91.8400", "Washington County / ZIP 52356 sector", "Washington County / elevation 771 ft band"]
+zillowHomeValueUsd: 241268
 ---
 
 **Engineering Notice for Wellman:** structural drying capacity optimized for 771ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 77%. Sensor sync: Active.

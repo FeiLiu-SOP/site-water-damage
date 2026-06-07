@@ -12,6 +12,7 @@ lng: -120.6300
 zipSample: ["93401"]
 zipCodes: ["93401"]
 localPaths: ["San Luis Obispo County / coords 35.2100, -120.6300", "San Luis Obispo County / elevation 292 ft band", "San Luis Obispo County / primary ZIP 93401", "San Luis Obispo County / ZIP 93401 sector"]
+zillowHomeValueUsd: 1103816
 ---
 
 **Engineering Notice for Los Ranchos:** Envelope check: Weather Barrier Wrap assigned to wind-load band A with stress factor 0.81. Regional dispatch grid: San Luis Obispo County.

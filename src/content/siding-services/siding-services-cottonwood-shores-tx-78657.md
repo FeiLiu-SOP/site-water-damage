@@ -12,6 +12,7 @@ lng: -98.3300
 zipSample: ["78657"]
 zipCodes: ["78657"]
 localPaths: ["Burnet County / coords 30.5500, -98.3300", "Burnet County / elevation 843 ft band", "Burnet County / primary ZIP 78657", "Burnet County / ZIP 78657 sector"]
+zillowHomeValueUsd: 648089
 ---
 
 **Engineering Notice for Cottonwood Shores:** Vinyl Panels was validated under stress factor 1.24; target tolerance set near 150 mph. Coordinates: 30.5500, -98.3300. Grid anchor: Burnet County.

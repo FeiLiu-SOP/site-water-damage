@@ -12,6 +12,7 @@ lng: -81.0500
 zipSample: ["26362"]
 zipCodes: ["26362"]
 localPaths: ["Ritchie County / coords 39.2100, -81.0500", "Ritchie County / ZIP 26362 sector", "Ritchie County / primary ZIP 26362", "Ritchie County / elevation 830 ft band"]
+zillowHomeValueUsd: 127900
 ---
 
 **Engineering Notice for Harrisville:** structural drying capacity optimized for 830ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ritchie County. Relative Humidity Threshold: 73%. Sensor sync: Active.

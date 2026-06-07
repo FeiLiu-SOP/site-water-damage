@@ -12,6 +12,7 @@ lng: -76.4600
 zipSample: ["17820"]
 zipCodes: ["17820"]
 localPaths: ["Columbia County / ZIP 17820 sector", "Columbia County / primary ZIP 17820", "Columbia County / coords 40.9500, -76.4600", "Columbia County / elevation 535 ft band"]
+zillowHomeValueUsd: 255181
 ---
 
 **Engineering Notice for Catawissa:** System optimized for 176 mg/L hard water scaling factors in Catawissa. Regional dispatch grid: Columbia County.

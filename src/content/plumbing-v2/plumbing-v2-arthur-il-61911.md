@@ -12,6 +12,7 @@ lng: -88.4700
 zipSample: ["61911"]
 zipCodes: ["61911"]
 localPaths: ["Douglas County / primary ZIP 61911", "Douglas County / coords 39.7100, -88.4700", "Douglas County / elevation 666 ft band", "Douglas County / ZIP 61911 sector"]
+zillowHomeValueUsd: 194294
 ---
 
 **Engineering Notice for Arthur:** System optimized for 123 mg/L hard water scaling factors in Arthur. Regional dispatch grid: Douglas County.

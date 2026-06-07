@@ -12,6 +12,7 @@ lng: -97.3100
 zipSample: ["78957", "78953"]
 zipCodes: ["78953", "78957"]
 localPaths: ["Bastrop County / ZIP 78957 sector", "Bastrop County / primary ZIP 78953", "Bastrop County / coords 29.9500, -97.3100", "Bastrop County / ZIP 78953 sector", "Bastrop County / elevation 456 ft band"]
+zillowHomeValueUsd: 551253
 ---
 
 **Engineering Notice for Rosanky:** structural drying capacity optimized for 456ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bastrop County. Relative Humidity Threshold: 65%. Sensor sync: Active.

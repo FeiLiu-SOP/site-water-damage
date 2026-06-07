@@ -12,6 +12,7 @@ lng: -104.7500
 zipSample: ["80621"]
 zipCodes: ["80621"]
 localPaths: ["Weld County / ZIP 80621 sector", "Weld County / coords 40.1100, -104.7500", "Weld County / elevation 5059 ft band", "Weld County / primary ZIP 80621"]
+zillowHomeValueUsd: 464874
 ---
 
 **Engineering Notice for Aristocrat Ranchettes:** structural drying capacity optimized for 5059ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Weld County. Relative Humidity Threshold: 65%. Sensor sync: Active.

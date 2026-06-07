@@ -12,6 +12,7 @@ lng: -87.9000
 zipSample: ["35563"]
 zipCodes: ["35563"]
 localPaths: ["Marion County / primary ZIP 35563", "Marion County / elevation 561 ft band", "Marion County / coords 33.9800, -87.9000", "Marion County / ZIP 35563 sector"]
+zillowHomeValueUsd: 151559
 ---
 
 **Engineering Notice for Guin:** System optimized for 157 mg/L hard water scaling factors in Guin. Regional dispatch grid: Marion County.

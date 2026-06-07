@@ -11,6 +11,7 @@ lng: -71.1000
 zipSample: ["02143", "02145", "02144"]
 zipCodes: ["02143", "02144", "02145"]
 localPaths: ["Middlesex County / primary ZIP 02144", "Middlesex County / coords 42.3900, -71.1000", "Middlesex County / ZIP 02144 sector", "Middlesex County / elevation 72 ft band", "Middlesex County / ZIP 02143 sector"]
+zillowHomeValueUsd: 1057613
 ---
 
 **Engineering Notice for Somerville:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Middlesex County.

@@ -12,6 +12,7 @@ lng: -72.9400
 zipSample: ["11713"]
 zipCodes: ["11713"]
 localPaths: ["Suffolk County / primary ZIP 11713", "Suffolk County / elevation 30 ft band", "Suffolk County / coords 40.7500, -72.9400", "Suffolk County / ZIP 11713 sector"]
+zillowHomeValueUsd: 609185
 ---
 
 **Engineering Notice for Bellport:** Cladding verification uses 97 mph routing baseline; lateral pressure note: 12.8 psf. Grid: Suffolk County.

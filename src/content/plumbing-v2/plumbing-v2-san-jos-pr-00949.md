@@ -12,6 +12,8 @@ lng: -66.2500
 zipSample: ["00949"]
 zipCodes: ["00949"]
 localPaths: ["Toa Baja County / elevation 233 ft band", "Toa Baja County / primary ZIP 00949", "Toa Baja County / coords 18.4000, -66.2500", "Toa Baja County / ZIP 00949 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 383647
 ---
 
 **Engineering Notice for San José:** System optimized for 171 mg/L hard water scaling factors in San José. Regional dispatch grid: Toa Baja County.

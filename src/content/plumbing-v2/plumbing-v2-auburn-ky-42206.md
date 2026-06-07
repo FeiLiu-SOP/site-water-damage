@@ -12,6 +12,7 @@ lng: -86.7100
 zipSample: ["42206"]
 zipCodes: ["42206"]
 localPaths: ["Logan County / elevation 643 ft band", "Logan County / primary ZIP 42206", "Logan County / ZIP 42206 sector", "Logan County / coords 36.8700, -86.7100"]
+zillowHomeValueUsd: 230240
 ---
 
 **Engineering Notice for Auburn:** System optimized for 172 mg/L hard water scaling factors in Auburn. Regional dispatch grid: Logan County.

@@ -12,6 +12,7 @@ lng: -88.1400
 zipSample: ["36528"]
 zipCodes: ["36528"]
 localPaths: ["Mobile County / coords 30.2500, -88.1400", "Mobile County / primary ZIP 36528", "Mobile County / ZIP 36528 sector", "Mobile County / elevation 10 ft band"]
+zillowHomeValueUsd: 459878
 ---
 
 **Engineering Notice for Dauphin Island:** Site context locked to Mobile County. Elevation: 10 ft AMSL. Exterior Envelope integrity verification recorded.

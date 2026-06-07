@@ -12,6 +12,7 @@ lng: -85.6300
 zipSample: ["46787"]
 zipCodes: ["46787"]
 localPaths: ["Whitley County / elevation 810 ft band", "Whitley County / coords 41.0800, -85.6300", "Whitley County / ZIP 46787 sector", "Whitley County / primary ZIP 46787"]
+zillowHomeValueUsd: 238378
 ---
 
 **Engineering Notice for South Whitley:** Structural integrity verification: Panel Replacement calibrated for 103 mph localized wind load factor. Coordinates: 41.0800, -85.6300. Regional dispatch grid: Whitley County.

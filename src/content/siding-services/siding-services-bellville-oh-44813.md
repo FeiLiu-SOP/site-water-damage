@@ -12,6 +12,7 @@ lng: -82.5200
 zipSample: ["44813"]
 zipCodes: ["44813"]
 localPaths: ["Richland County / primary ZIP 44813", "Richland County / ZIP 44813 sector", "Richland County / elevation 1201 ft band", "Richland County / coords 40.6300, -82.5200"]
+zillowHomeValueUsd: 275762
 ---
 
 **Engineering Notice for Bellville:** Structural integrity verification: Facade Renewal calibrated for 99 mph localized wind load factor. Elevation: 1201 ft AMSL. Coordinates: 40.6300, -82.5200. Regional dispatch grid: Richland County.

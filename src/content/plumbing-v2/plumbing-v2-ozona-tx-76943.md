@@ -12,6 +12,7 @@ lng: -101.2100
 zipSample: ["76943"]
 zipCodes: ["76943"]
 localPaths: ["Crockett County / ZIP 76943 sector", "Crockett County / coords 30.7100, -101.2100", "Crockett County / primary ZIP 76943", "Crockett County / elevation 2333 ft band"]
+zillowHomeValueUsd: 114084
 ---
 
 **Engineering Notice for Ozona:** System optimized for 126 mg/L hard water scaling factors in Ozona. Regional dispatch grid: Crockett County.

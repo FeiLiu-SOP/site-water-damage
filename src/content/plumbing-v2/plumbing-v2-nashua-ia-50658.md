@@ -12,6 +12,7 @@ lng: -92.5400
 zipSample: ["50658"]
 zipCodes: ["50658"]
 localPaths: ["Chickasaw County / primary ZIP 50658", "Chickasaw County / elevation 1007 ft band", "Chickasaw County / ZIP 50658 sector", "Chickasaw County / coords 42.9500, -92.5400"]
+zillowHomeValueUsd: 189649
 ---
 
 **Engineering Notice for Nashua:** System optimized for 124 mg/L hard water scaling factors in Nashua. Regional dispatch grid: Chickasaw County.

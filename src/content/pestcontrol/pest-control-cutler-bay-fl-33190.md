@@ -11,6 +11,7 @@ lng: -80.3400
 zipSample: ["33157", "33189", "33190"]
 zipCodes: ["33157", "33189", "33190"]
 localPaths: ["Miami-Dade County / ZIP 33157 sector", "Miami-Dade County / ZIP 33189 sector", "Miami-Dade County / coords 25.5800, -80.3400", "Miami-Dade County / elevation 23 ft band", "Miami-Dade County / primary ZIP 33190"]
+zillowHomeValueUsd: 437207
 ---
 
 **Engineering Notice for Cutler Bay:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

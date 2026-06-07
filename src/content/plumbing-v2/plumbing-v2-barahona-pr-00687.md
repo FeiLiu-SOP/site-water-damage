@@ -12,6 +12,8 @@ lng: -66.4400
 zipSample: ["00687"]
 zipCodes: ["00687"]
 localPaths: ["Morovis County / coords 18.3500, -66.4400", "Morovis County / ZIP 00687 sector", "Morovis County / elevation 561 ft band", "Morovis County / primary ZIP 00687"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 364151
 ---
 
 **Engineering Notice for Barahona:** System optimized for 146 mg/L hard water scaling factors in Barahona. Regional dispatch grid: Morovis County.

@@ -11,6 +11,7 @@ lng: -81.6200
 zipSample: ["33845", "33837", "33844"]
 zipCodes: ["33845", "33837", "33844"]
 localPaths: ["Polk County / elevation 167 ft band", "Polk County / ZIP 33837 sector", "Polk County / primary ZIP 33844", "Polk County / ZIP 33845 sector", "Polk County / coords 28.1100, -81.6200"]
+zillowHomeValueUsd: 296038
 ---
 
 **Engineering Notice for Haines City:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Polk County.

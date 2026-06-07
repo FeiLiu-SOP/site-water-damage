@@ -12,6 +12,7 @@ lng: -85.2400
 zipSample: ["36312"]
 zipCodes: ["36312"]
 localPaths: ["Houston County / ZIP 36312 sector", "Houston County / coords 31.1900, -85.2400", "Houston County / elevation 259 ft band", "Houston County / primary ZIP 36312"]
+zillowHomeValueUsd: 194323
 ---
 
 **Engineering Notice for Ashford:** structural drying capacity optimized for 259ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Houston County. Relative Humidity Threshold: 65%. Sensor sync: Active.

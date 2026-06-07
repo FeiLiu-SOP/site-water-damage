@@ -12,6 +12,7 @@ lng: -89.6300
 zipSample: ["53574"]
 zipCodes: ["53574"]
 localPaths: ["Green County / elevation 883 ft band", "Green County / ZIP 53574 sector", "Green County / primary ZIP 53574", "Green County / coords 42.8100, -89.6300"]
+zillowHomeValueUsd: 445928
 ---
 
 **Engineering Notice for New Glarus:** System optimized for 133 mg/L hard water scaling factors in New Glarus. Regional dispatch grid: Green County.

@@ -12,6 +12,7 @@ lng: -119.8800
 zipSample: ["89411", "89449"]
 zipCodes: ["89449", "89411"]
 localPaths: ["Douglas County / coords 38.9900, -119.8800", "Douglas County / ZIP 89449 sector", "Douglas County / primary ZIP 89449", "Douglas County / ZIP 89411 sector", "Douglas County / elevation 8005 ft band"]
+zillowHomeValueUsd: 763620
 ---
 
 **Engineering Notice for Kingsbury:** System optimized for 162 mg/L hard water scaling factors in Kingsbury. Regional dispatch grid: Douglas County.

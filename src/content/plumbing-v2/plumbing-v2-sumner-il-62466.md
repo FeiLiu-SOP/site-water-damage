@@ -12,6 +12,8 @@ lng: -87.8700
 zipSample: ["62466"]
 zipCodes: ["62466"]
 localPaths: ["Lawrence County / primary ZIP 62466", "Lawrence County / coords 38.7200, -87.8700", "Lawrence County / ZIP 62466 sector", "Lawrence County / elevation 466 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 245761
 ---
 
 **Engineering Notice for Sumner:** System optimized for 173 mg/L hard water scaling factors in Sumner. Regional dispatch grid: Lawrence County.

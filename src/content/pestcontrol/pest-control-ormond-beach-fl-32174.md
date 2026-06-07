@@ -11,6 +11,7 @@ lng: -81.1000
 zipSample: ["32173", "32175", "32174", "32176"]
 zipCodes: ["32176", "32173", "32175", "32174"]
 localPaths: ["Volusia County / ZIP 32173 sector", "Volusia County / primary ZIP 32174", "Volusia County / coords 29.3000, -81.1000", "Volusia County / elevation 10 ft band", "Volusia County / ZIP 32176 sector"]
+zillowHomeValueUsd: 370082
 ---
 
 **Engineering Notice for Ormond Beach:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Volusia County.

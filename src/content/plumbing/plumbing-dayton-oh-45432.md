@@ -12,6 +12,7 @@ lng: -84.2000
 zipSample: ["45481", "45469", "45410", "45409", "45424"]
 zipCodes: ["45405", "45412", "45409", "45422", "45424", "45410", "45419", "45470", "45417", "45420", "45402", "45404"]
 localPaths: ["Montgomery County / ZIP 45481 sector", "Montgomery County / elevation 748 ft band", "Montgomery County / ZIP 45469 sector", "Montgomery County / ZIP 45410 sector", "Montgomery County / ZIP 45409 sector"]
+zillowHomeValueUsd: 224661
 ---
 
 **Engineering Notice for Dayton:** Structural loading calculated based on 748 ft terrain assessment. Regional dispatch grid: Montgomery County.

@@ -12,6 +12,7 @@ lng: -99.3200
 zipSample: ["67661"]
 zipCodes: ["67661"]
 localPaths: ["Phillips County / coords 39.7500, -99.3200", "Phillips County / primary ZIP 67661", "Phillips County / elevation 1939 ft band", "Phillips County / ZIP 67661 sector"]
+zillowHomeValueUsd: 124479
 ---
 
 **Engineering Notice for Phillipsburg:** System optimized for 165 mg/L hard water scaling factors in Phillipsburg. Regional dispatch grid: Phillips County.

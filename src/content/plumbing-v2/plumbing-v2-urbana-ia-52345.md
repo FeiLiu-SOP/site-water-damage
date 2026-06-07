@@ -12,6 +12,7 @@ lng: -91.8900
 zipSample: ["52345"]
 zipCodes: ["52345"]
 localPaths: ["Benton County / ZIP 52345 sector", "Benton County / primary ZIP 52345", "Benton County / elevation 915 ft band", "Benton County / coords 42.2300, -91.8900"]
+zillowHomeValueUsd: 260845
 ---
 
 **Engineering Notice for Urbana:** System optimized for 161 mg/L hard water scaling factors in Urbana. Regional dispatch grid: Benton County.

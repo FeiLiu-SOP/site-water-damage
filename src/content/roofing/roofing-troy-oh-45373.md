@@ -11,6 +11,7 @@ lng: -84.2200
 zipSample: ["45373", "45374"]
 zipCodes: ["45374", "45373"]
 localPaths: ["Miami County / ZIP 45373 sector", "Miami County / primary ZIP 45373", "Miami County / elevation 860 ft band", "Miami County / coords 40.0400, -84.2200", "Miami County / ZIP 45374 sector"]
+zillowHomeValueUsd: 280695
 ---
 
 **Engineering Notice for Troy:** Structural loading calculated based on 860 ft terrain assessment. Regional dispatch grid: Miami County.

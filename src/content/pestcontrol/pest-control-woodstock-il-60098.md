@@ -11,6 +11,7 @@ lng: -88.4400
 zipSample: ["60098"]
 zipCodes: ["60098"]
 localPaths: ["McHenry County / ZIP 60098 sector", "McHenry County / primary ZIP 60098", "McHenry County / elevation 932 ft band", "McHenry County / coords 42.3100, -88.4400"]
+zillowHomeValueUsd: 332753
 ---
 
 **Engineering Notice for Woodstock:** Structural loading calculated based on 932 ft terrain assessment. Regional dispatch grid: McHenry County.

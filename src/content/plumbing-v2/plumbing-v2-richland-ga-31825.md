@@ -12,6 +12,7 @@ lng: -84.6600
 zipSample: ["31825"]
 zipCodes: ["31825"]
 localPaths: ["Stewart County / coords 32.0900, -84.6600", "Stewart County / elevation 574 ft band", "Stewart County / ZIP 31825 sector", "Stewart County / primary ZIP 31825"]
+zillowHomeValueUsd: 100839
 ---
 
 **Engineering Notice for Richland:** System optimized for 152 mg/L hard water scaling factors in Richland. Regional dispatch grid: Stewart County.

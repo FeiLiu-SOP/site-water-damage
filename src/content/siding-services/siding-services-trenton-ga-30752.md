@@ -12,6 +12,7 @@ lng: -85.5100
 zipSample: ["30752"]
 zipCodes: ["30752"]
 localPaths: ["Dade County / elevation 738 ft band", "Dade County / primary ZIP 30752", "Dade County / coords 34.8700, -85.5100", "Dade County / ZIP 30752 sector"]
+zillowHomeValueUsd: 237084
 ---
 
 **Engineering Notice for Trenton:** Structural integrity verification: Panel Replacement calibrated for 109 mph localized wind load factor. Regional dispatch grid: Dade County.

@@ -12,6 +12,7 @@ lng: -87.9000
 zipSample: ["53211", "53217"]
 zipCodes: ["53217", "53211"]
 localPaths: ["Milwaukee County / elevation 663 ft band", "Milwaukee County / ZIP 53211 sector", "Milwaukee County / primary ZIP 53217", "Milwaukee County / coords 43.1100, -87.9000", "Milwaukee County / ZIP 53217 sector"]
+zillowHomeValueUsd: 562363
 ---
 
 **Engineering Notice for Whitefish Bay:** Structural loading calculated based on 663 ft terrain assessment. Regional dispatch grid: Milwaukee County.

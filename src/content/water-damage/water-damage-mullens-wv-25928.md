@@ -12,6 +12,7 @@ lng: -81.3900
 zipSample: ["25882", "25928"]
 zipCodes: ["25882", "25928"]
 localPaths: ["Wyoming County / coords 37.5800, -81.3900", "Wyoming County / ZIP 25928 sector", "Wyoming County / ZIP 25882 sector", "Wyoming County / elevation 1604 ft band", "Wyoming County / primary ZIP 25928"]
+zillowHomeValueUsd: 59068
 ---
 
 **Engineering Notice for Mullens:** structural drying capacity optimized for 1604ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wyoming County. Relative Humidity Threshold: 81%. Sensor sync: Active.

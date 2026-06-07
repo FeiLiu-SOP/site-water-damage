@@ -11,6 +11,7 @@ lng: -91.5800
 zipSample: ["52302"]
 zipCodes: ["52302"]
 localPaths: ["Linn County / ZIP 52302 sector", "Linn County / primary ZIP 52302", "Linn County / coords 42.0500, -91.5800", "Linn County / elevation 840 ft band"]
+zillowHomeValueUsd: 270298
 ---
 
 **Engineering Notice for Marion:** Structural loading calculated based on 840 ft terrain assessment. Regional dispatch grid: Linn County.

@@ -12,6 +12,7 @@ lng: -80.8600
 zipSample: ["29061", "29290"]
 zipCodes: ["29061", "29290"]
 localPaths: ["Richland County / coords 33.9000, -80.8600", "Richland County / ZIP 29290 sector", "Richland County / ZIP 29061 sector", "Richland County / elevation 184 ft band", "Richland County / primary ZIP 29061"]
+zillowHomeValueUsd: 198095
 ---
 
 **Engineering Notice for Hopkins:** Cladding verification uses 98 mph routing baseline; lateral pressure note: 13.0 psf. Elevation: 184 ft AMSL. Coordinates: 33.9000, -80.8600. Grid: Richland County.

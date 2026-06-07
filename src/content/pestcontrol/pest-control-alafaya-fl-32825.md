@@ -11,6 +11,7 @@ lng: -81.1900
 zipSample: ["32828", "32834", "32878", "32829", "32825"]
 zipCodes: ["32878", "32825", "32829", "32834", "32828"]
 localPaths: ["Orange County / elevation 85 ft band", "Orange County / ZIP 32828 sector", "Orange County / ZIP 32834 sector", "Orange County / ZIP 32825 sector", "Orange County / ZIP 32829 sector"]
+zillowHomeValueUsd: 389241
 ---
 
 **Engineering Notice for Alafaya:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Orange County.

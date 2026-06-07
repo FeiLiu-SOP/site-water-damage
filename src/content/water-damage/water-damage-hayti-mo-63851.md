@@ -12,6 +12,8 @@ lng: -89.7500
 zipSample: ["63851"]
 zipCodes: ["63851"]
 localPaths: ["Pemiscot County / ZIP 63851 sector", "Pemiscot County / coords 36.2300, -89.7500", "Pemiscot County / primary ZIP 63851", "Pemiscot County / elevation 269 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 266217
 ---
 
 **Engineering Notice for Hayti:** structural drying capacity optimized for 269ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pemiscot County. Relative Humidity Threshold: 75%. Sensor sync: Active.

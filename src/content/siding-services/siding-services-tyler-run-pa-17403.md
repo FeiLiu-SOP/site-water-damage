@@ -12,6 +12,7 @@ lng: -76.7000
 zipSample: ["17403"]
 zipCodes: ["17403"]
 localPaths: ["York County / elevation 604 ft band", "York County / ZIP 17403 sector", "York County / primary ZIP 17403", "York County / coords 39.9300, -76.7000"]
+zillowHomeValueUsd: 250740
 ---
 
 **Engineering Notice for Tyler Run:** Cladding verification uses 97 mph routing baseline; lateral pressure note: 12.8 psf. Coordinates: 39.9300, -76.7000. Grid: York County.

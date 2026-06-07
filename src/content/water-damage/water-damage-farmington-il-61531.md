@@ -12,6 +12,7 @@ lng: -90.0000
 zipSample: ["61531"]
 zipCodes: ["61531"]
 localPaths: ["Fulton County / coords 40.7000, -90.0000", "Fulton County / elevation 741 ft band", "Fulton County / primary ZIP 61531", "Fulton County / ZIP 61531 sector"]
+zillowHomeValueUsd: 113592
 ---
 
 **Engineering Notice for Farmington:** structural drying capacity optimized for 741ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fulton County. Relative Humidity Threshold: 84%. Sensor sync: Active.

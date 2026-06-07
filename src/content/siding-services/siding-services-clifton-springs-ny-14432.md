@@ -12,6 +12,7 @@ lng: -77.1400
 zipSample: ["14432"]
 zipCodes: ["14432"]
 localPaths: ["Ontario County / coords 42.9600, -77.1400", "Ontario County / elevation 600 ft band", "Ontario County / primary ZIP 14432", "Ontario County / ZIP 14432 sector"]
+zillowHomeValueUsd: 241355
 ---
 
 **Engineering Notice for Clifton Springs:** Site context locked to Ontario County. Elevation: 600 ft AMSL. Surface Sheathing integrity verification recorded.

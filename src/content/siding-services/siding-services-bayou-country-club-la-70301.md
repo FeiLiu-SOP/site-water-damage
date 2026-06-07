@@ -12,6 +12,7 @@ lng: -90.7900
 zipSample: ["70301"]
 zipCodes: ["70301"]
 localPaths: ["Lafourche Parish / elevation 26 ft band", "Lafourche Parish / ZIP 70301 sector", "Lafourche Parish / coords 29.7800, -90.7900", "Lafourche Parish / primary ZIP 70301"]
+zillowHomeValueUsd: 224554
 ---
 
 **Engineering Notice for Bayou Country Club:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Coordinates: 29.7800, -90.7900. Grid: Lafourche Parish.

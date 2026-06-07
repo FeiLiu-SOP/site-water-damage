@@ -11,6 +11,7 @@ lng: -102.7900
 zipSample: ["58602", "58601"]
 zipCodes: ["58601", "58602"]
 localPaths: ["Stark County / elevation 2467 ft band", "Stark County / ZIP 58601 sector", "Stark County / coords 46.8900, -102.7900", "Stark County / primary ZIP 58601", "Stark County / ZIP 58602 sector"]
+zillowHomeValueUsd: 319319
 ---
 
 **Engineering Notice for Dickinson:** Structural loading calculated based on 2467 ft terrain assessment. Regional dispatch grid: Stark County.

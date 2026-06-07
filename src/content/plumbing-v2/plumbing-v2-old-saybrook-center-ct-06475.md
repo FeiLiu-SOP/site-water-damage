@@ -12,6 +12,7 @@ lng: -72.3700
 zipSample: ["06475"]
 zipCodes: ["06475"]
 localPaths: ["Lower Connecticut River Valley County / elevation 33 ft band", "Lower Connecticut River Valley County / primary ZIP 06475", "Lower Connecticut River Valley County / ZIP 06475 sector", "Lower Connecticut River Valley County / coords 41.2900, -72.3700"]
+zillowHomeValueUsd: 667419
 ---
 
 **Engineering Notice for Old Saybrook Center:** System optimized for 120 mg/L hard water scaling factors in Old Saybrook Center. Regional dispatch grid: Lower Connecticut River Valley County.

@@ -11,6 +11,7 @@ lng: -89.9900
 zipSample: ["62025", "62026"]
 zipCodes: ["62025", "62026"]
 localPaths: ["Madison County / primary ZIP 62026", "Madison County / elevation 587 ft band", "Madison County / coords 38.7900, -89.9900", "Madison County / ZIP 62025 sector", "Madison County / ZIP 62026 sector"]
+zillowHomeValueUsd: 326588
 ---
 
 **Engineering Notice for Edwardsville:** Structural loading calculated based on 587 ft terrain assessment. Regional dispatch grid: Madison County.

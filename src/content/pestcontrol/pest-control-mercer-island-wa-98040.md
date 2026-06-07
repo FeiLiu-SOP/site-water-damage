@@ -11,6 +11,7 @@ lng: -122.2300
 zipSample: ["98040"]
 zipCodes: ["98040"]
 localPaths: ["King County / coords 47.5700, -122.2300", "King County / primary ZIP 98040", "King County / ZIP 98040 sector", "King County / elevation 92 ft band"]
+zillowHomeValueUsd: 2327633
 ---
 
 **Engineering Notice for Mercer Island:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: King County.

@@ -12,6 +12,7 @@ lng: -97.3500
 zipSample: ["68701"]
 zipCodes: ["68701"]
 localPaths: ["Stanton County / coords 42.0500, -97.3500", "Stanton County / elevation 1686 ft band", "Stanton County / ZIP 68701 sector", "Stanton County / primary ZIP 68701"]
+zillowHomeValueUsd: 256126
 ---
 
 **Engineering Notice for Woodland Park:** structural drying capacity optimized for 1686ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stanton County. Relative Humidity Threshold: 66%. Sensor sync: Active.

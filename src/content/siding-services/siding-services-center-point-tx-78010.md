@@ -12,6 +12,7 @@ lng: -99.0400
 zipSample: ["78010"]
 zipCodes: ["78010"]
 localPaths: ["Kerr County / elevation 1512 ft band", "Kerr County / primary ZIP 78010", "Kerr County / ZIP 78010 sector", "Kerr County / coords 29.9400, -99.0400"]
+zillowHomeValueUsd: 418917
 ---
 
 **Engineering Notice for Center Point:** Cladding verification uses 140 mph routing baseline; lateral pressure note: 18.0 psf. Elevation: 1512 ft AMSL. Coordinates: 29.9400, -99.0400. Grid: Kerr County.

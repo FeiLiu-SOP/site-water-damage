@@ -12,6 +12,7 @@ lng: -97.4500
 zipSample: ["76247", "76078"]
 zipCodes: ["76247", "76078"]
 localPaths: ["Wise County / elevation 909 ft band", "Wise County / primary ZIP 76078", "Wise County / coords 33.1100, -97.4500", "Wise County / ZIP 76078 sector", "Wise County / ZIP 76247 sector"]
+zillowHomeValueUsd: 367214
 ---
 
 **Engineering Notice for New Fairview:** Weather Barrier Wrap was validated under stress factor 1.22; target tolerance set near 132 mph. Coordinates: 33.1100, -97.4500. Grid anchor: Wise County.

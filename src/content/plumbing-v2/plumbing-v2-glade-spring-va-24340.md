@@ -12,6 +12,7 @@ lng: -81.7700
 zipSample: ["24340"]
 zipCodes: ["24340"]
 localPaths: ["Washington County / primary ZIP 24340", "Washington County / coords 36.7900, -81.7700", "Washington County / ZIP 24340 sector", "Washington County / elevation 2080 ft band"]
+zillowHomeValueUsd: 201544
 ---
 
 **Engineering Notice for Glade Spring:** System optimized for 153 mg/L hard water scaling factors in Glade Spring. Regional dispatch grid: Washington County.

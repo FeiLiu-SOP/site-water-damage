@@ -12,6 +12,7 @@ lng: -76.6900
 zipSample: ["17403"]
 zipCodes: ["17403"]
 localPaths: ["York County / ZIP 17403 sector", "York County / coords 39.9400, -76.6900", "York County / elevation 676 ft band", "York County / primary ZIP 17403"]
+zillowHomeValueUsd: 250730
 ---
 
 **Engineering Notice for Queens Gate:** System optimized for 139 mg/L hard water scaling factors in Queens Gate. Regional dispatch grid: York County.

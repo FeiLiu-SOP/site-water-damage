@@ -12,6 +12,7 @@ lng: -76.7700
 zipSample: ["20637"]
 zipCodes: ["20637"]
 localPaths: ["Charles County / coords 38.5400, -76.7700", "Charles County / elevation 203 ft band", "Charles County / primary ZIP 20637", "Charles County / ZIP 20637 sector"]
+zillowHomeValueUsd: 586568
 ---
 
 **Engineering Notice for Hughesville:** structural drying capacity optimized for 203ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Charles County. Relative Humidity Threshold: 83%. Sensor sync: Active.

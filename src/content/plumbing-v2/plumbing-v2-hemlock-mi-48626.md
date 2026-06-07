@@ -12,6 +12,7 @@ lng: -84.2300
 zipSample: ["48626"]
 zipCodes: ["48626"]
 localPaths: ["Saginaw County / elevation 653 ft band", "Saginaw County / ZIP 48626 sector", "Saginaw County / coords 43.4200, -84.2300", "Saginaw County / primary ZIP 48626"]
+zillowHomeValueUsd: 243262
 ---
 
 **Engineering Notice for Hemlock:** System optimized for 135 mg/L hard water scaling factors in Hemlock. Regional dispatch grid: Saginaw County.

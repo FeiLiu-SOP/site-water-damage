@@ -11,6 +11,7 @@ lng: -85.8800
 zipSample: ["42701", "42702"]
 zipCodes: ["42701", "42702"]
 localPaths: ["Hardin County / ZIP 42702 sector", "Hardin County / coords 37.7000, -85.8800", "Hardin County / primary ZIP 42701", "Hardin County / elevation 738 ft band", "Hardin County / ZIP 42701 sector"]
+zillowHomeValueUsd: 269253
 ---
 
 **Engineering Notice for Elizabethtown:** Structural loading calculated based on 738 ft terrain assessment. Regional dispatch grid: Hardin County.

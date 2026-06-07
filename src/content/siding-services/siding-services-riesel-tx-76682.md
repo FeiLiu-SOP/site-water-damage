@@ -12,6 +12,7 @@ lng: -96.9300
 zipSample: ["76682"]
 zipCodes: ["76682"]
 localPaths: ["McLennan County / elevation 495 ft band", "McLennan County / coords 31.4800, -96.9300", "McLennan County / primary ZIP 76682", "McLennan County / ZIP 76682 sector"]
+zillowHomeValueUsd: 256336
 ---
 
 **Engineering Notice for Riesel:** Cladding Service was validated under stress factor 1.14; target tolerance set near 138 mph. Coordinates: 31.4800, -96.9300. Grid anchor: McLennan County.

@@ -11,6 +11,7 @@ lng: -122.3600
 zipSample: ["96002", "96003", "96001"]
 zipCodes: ["96003", "96002", "96001"]
 localPaths: ["Shasta County / ZIP 96003 sector", "Shasta County / ZIP 96001 sector", "Shasta County / primary ZIP 96002", "Shasta County / ZIP 96002 sector", "Shasta County / elevation 541 ft band"]
+zillowHomeValueUsd: 376033
 ---
 
 **Engineering Notice for Redding:** Structural loading calculated based on 541 ft terrain assessment. Regional dispatch grid: Shasta County.

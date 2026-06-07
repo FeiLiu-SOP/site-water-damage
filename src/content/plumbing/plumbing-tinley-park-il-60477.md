@@ -12,6 +12,7 @@ lng: -87.8000
 zipSample: ["60477", "60487"]
 zipCodes: ["60477", "60487"]
 localPaths: ["Cook County / coords 41.5700, -87.8000", "Cook County / ZIP 60487 sector", "Cook County / ZIP 60477 sector", "Cook County / primary ZIP 60477", "Cook County / elevation 712 ft band"]
+zillowHomeValueUsd: 297961
 ---
 
 **Engineering Notice for Tinley Park:** Structural loading calculated based on 712 ft terrain assessment. Regional dispatch grid: Cook County.

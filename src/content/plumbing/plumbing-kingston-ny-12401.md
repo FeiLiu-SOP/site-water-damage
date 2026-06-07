@@ -12,6 +12,7 @@ lng: -74.0000
 zipSample: ["12401", "12402"]
 zipCodes: ["12402", "12401"]
 localPaths: ["Ulster County / ZIP 12401 sector", "Ulster County / ZIP 12402 sector", "Ulster County / primary ZIP 12401", "Ulster County / elevation 190 ft band", "Ulster County / coords 41.9300, -74.0000"]
+zillowHomeValueUsd: 380960
 ---
 
 **Engineering Notice for Kingston:** Structural loading calculated based on 190 ft terrain assessment. Regional dispatch grid: Ulster County.

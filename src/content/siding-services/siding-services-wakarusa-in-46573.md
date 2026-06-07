@@ -12,6 +12,7 @@ lng: -86.0100
 zipSample: ["46573"]
 zipCodes: ["46573"]
 localPaths: ["Elkhart County / primary ZIP 46573", "Elkhart County / ZIP 46573 sector", "Elkhart County / elevation 846 ft band", "Elkhart County / coords 41.5300, -86.0100"]
+zillowHomeValueUsd: 311392
 ---
 
 **Engineering Notice for Wakarusa:** Structural integrity verification: Exterior Cladding calibrated for 98 mph localized wind load factor. Elevation: 846 ft AMSL. Coordinates: 41.5300, -86.0100. Regional dispatch grid: Elkhart County.

@@ -12,6 +12,7 @@ lng: -85.4100
 zipSample: ["36302", "36321", "36304", "36305", "36301"]
 zipCodes: ["36305", "36302", "36303", "36304", "36301", "36321"]
 localPaths: ["Houston County / elevation 361 ft band", "Houston County / primary ZIP 36303", "Houston County / ZIP 36304 sector", "Houston County / ZIP 36321 sector", "Houston County / ZIP 36301 sector"]
+zillowHomeValueUsd: 184712
 ---
 
 **Engineering Notice for Dothan:** Structural loading calculated based on 361 ft terrain assessment. Regional dispatch grid: Houston County.

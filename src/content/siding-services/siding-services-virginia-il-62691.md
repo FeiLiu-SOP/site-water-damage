@@ -12,6 +12,7 @@ lng: -90.2100
 zipSample: ["62691"]
 zipCodes: ["62691"]
 localPaths: ["Cass County / ZIP 62691 sector", "Cass County / primary ZIP 62691", "Cass County / coords 39.9500, -90.2100", "Cass County / elevation 627 ft band"]
+zillowHomeValueUsd: 103428
 ---
 
 **Engineering Notice for Virginia:** Envelope check: Cladding Retrofit assigned to wind-load band C with stress factor 0.91. Regional dispatch grid: Cass County.

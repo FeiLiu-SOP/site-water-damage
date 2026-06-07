@@ -12,6 +12,7 @@ lng: -97.3900
 zipSample: ["77963"]
 zipCodes: ["77963"]
 localPaths: ["Goliad County / ZIP 77963 sector", "Goliad County / elevation 210 ft band", "Goliad County / primary ZIP 77963", "Goliad County / coords 28.6700, -97.3900"]
+zillowHomeValueUsd: 254430
 ---
 
 **Engineering Notice for Goliad:** System optimized for 150 mg/L hard water scaling factors in Goliad. Regional dispatch grid: Goliad County.

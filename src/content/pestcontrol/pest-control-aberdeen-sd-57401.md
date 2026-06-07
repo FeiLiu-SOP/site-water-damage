@@ -11,6 +11,7 @@ lng: -98.4700
 zipSample: ["57401"]
 zipCodes: ["57401"]
 localPaths: ["Brown County / coords 45.4600, -98.4700", "Brown County / primary ZIP 57401", "Brown County / ZIP 57401 sector", "Brown County / elevation 1296 ft band"]
+zillowHomeValueUsd: 237150
 ---
 
 **Engineering Notice for Aberdeen:** Structural loading calculated based on 1296 ft terrain assessment. Regional dispatch grid: Brown County.

@@ -12,6 +12,7 @@ lng: -95.4400
 zipSample: ["77025", "77005"]
 zipCodes: ["77025", "77005"]
 localPaths: ["Harris County / ZIP 77005 sector", "Harris County / ZIP 77025 sector", "Harris County / elevation 69 ft band", "Harris County / coords 29.7100, -95.4400", "Harris County / primary ZIP 77025"]
+zillowHomeValueUsd: 480077
 ---
 
 **Engineering Notice for Southside Place:** System optimized for 120 mg/L hard water scaling factors in Southside Place. Regional dispatch grid: Harris County.

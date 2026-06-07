@@ -12,6 +12,7 @@ lng: -83.2700
 zipSample: ["48179"]
 zipCodes: ["48179"]
 localPaths: ["Monroe County / elevation 581 ft band", "Monroe County / ZIP 48179 sector", "Monroe County / coords 42.0600, -83.2700", "Monroe County / primary ZIP 48179"]
+zillowHomeValueUsd: 305749
 ---
 
 **Engineering Notice for South Rockwood:** Site context locked to Monroe County. Elevation: 581 ft AMSL. Coordinates: 42.0600, -83.2700. Exterior Cladding integrity verification recorded.

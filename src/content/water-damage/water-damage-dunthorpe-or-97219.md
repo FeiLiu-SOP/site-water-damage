@@ -12,6 +12,7 @@ lng: -122.6600
 zipSample: ["97219"]
 zipCodes: ["97219"]
 localPaths: ["Multnomah County / elevation 440 ft band", "Multnomah County / coords 45.4400, -122.6600", "Multnomah County / ZIP 97219 sector", "Multnomah County / primary ZIP 97219"]
+zillowHomeValueUsd: 638411
 ---
 
 **Engineering Notice for Dunthorpe:** structural drying capacity optimized for 440ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Multnomah County. Relative Humidity Threshold: 83%. Sensor sync: Active.

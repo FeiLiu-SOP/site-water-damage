@@ -12,6 +12,7 @@ lng: -73.3600
 zipSample: ["12979"]
 zipCodes: ["12979"]
 localPaths: ["Clinton County / primary ZIP 12979", "Clinton County / elevation 95 ft band", "Clinton County / ZIP 12979 sector", "Clinton County / coords 44.9900, -73.3600"]
+zillowHomeValueUsd: 205854
 ---
 
 **Engineering Notice for Rouses Point:** Envelope check: Panel Replacement assigned to wind-load band C with stress factor 0.94. Regional dispatch grid: Clinton County.

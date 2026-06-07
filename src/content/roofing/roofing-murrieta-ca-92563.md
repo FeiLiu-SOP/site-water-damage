@@ -11,6 +11,7 @@ lng: -117.1900
 zipSample: ["92563", "92562"]
 zipCodes: ["92563", "92562"]
 localPaths: ["Riverside County / primary ZIP 92563", "Riverside County / coords 33.5700, -117.1900", "Riverside County / ZIP 92562 sector", "Riverside County / ZIP 92563 sector", "Riverside County / elevation 1224 ft band"]
+zillowHomeValueUsd: 693279
 ---
 
 **Engineering Notice for Murrieta:** Structural loading calculated based on 1224 ft terrain assessment. Regional dispatch grid: Riverside County.

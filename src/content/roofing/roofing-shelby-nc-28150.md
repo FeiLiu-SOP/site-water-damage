@@ -11,6 +11,7 @@ lng: -81.5500
 zipSample: ["28150", "28151", "28152"]
 zipCodes: ["28150", "28151", "28152"]
 localPaths: ["Cleveland County / ZIP 28152 sector", "Cleveland County / coords 35.2900, -81.5500", "Cleveland County / elevation 883 ft band", "Cleveland County / ZIP 28150 sector", "Cleveland County / primary ZIP 28150"]
+zillowHomeValueUsd: 201141
 ---
 
 **Engineering Notice for Shelby:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Cleveland County.

@@ -12,6 +12,7 @@ lng: -97.2100
 zipSample: ["76655"]
 zipCodes: ["76655"]
 localPaths: ["McLennan County / ZIP 76655 sector", "McLennan County / elevation 614 ft band", "McLennan County / primary ZIP 76655", "McLennan County / coords 31.3800, -97.2100"]
+zillowHomeValueUsd: 343673
 ---
 
 **Engineering Notice for Lorena:** System optimized for 147 mg/L hard water scaling factors in Lorena. Regional dispatch grid: McLennan County.

@@ -12,6 +12,7 @@ lng: -82.1000
 zipSample: ["30809", "30907"]
 zipCodes: ["30907", "30809"]
 localPaths: ["Columbia County / coords 33.5200, -82.1000", "Columbia County / ZIP 30809 sector", "Columbia County / elevation 338 ft band", "Columbia County / primary ZIP 30907", "Columbia County / ZIP 30907 sector"]
+zillowHomeValueUsd: 267173
 ---
 
 **Engineering Notice for Martinez:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Columbia County.

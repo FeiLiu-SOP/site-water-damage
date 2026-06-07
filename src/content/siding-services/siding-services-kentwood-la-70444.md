@@ -12,6 +12,7 @@ lng: -90.5200
 zipSample: ["70444"]
 zipCodes: ["70444"]
 localPaths: ["Tangipahoa Parish / primary ZIP 70444", "Tangipahoa Parish / elevation 246 ft band", "Tangipahoa Parish / ZIP 70444 sector", "Tangipahoa Parish / coords 30.9300, -90.5200"]
+zillowHomeValueUsd: 170632
 ---
 
 **Engineering Notice for Kentwood:** Site context locked to Tangipahoa Parish. Exterior Cladding integrity verification recorded.

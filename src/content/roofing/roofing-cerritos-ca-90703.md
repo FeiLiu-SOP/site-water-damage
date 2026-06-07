@@ -11,6 +11,7 @@ lng: -118.0700
 zipSample: ["90703"]
 zipCodes: ["90703"]
 localPaths: ["Los Angeles County / elevation 66 ft band", "Los Angeles County / coords 33.8700, -118.0700", "Los Angeles County / primary ZIP 90703", "Los Angeles County / ZIP 90703 sector"]
+zillowHomeValueUsd: 1096373
 ---
 
 **Engineering Notice for Cerritos:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Los Angeles County.

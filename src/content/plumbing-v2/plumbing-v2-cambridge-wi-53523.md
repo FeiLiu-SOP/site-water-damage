@@ -12,6 +12,7 @@ lng: -89.0200
 zipSample: ["53523"]
 zipCodes: ["53523"]
 localPaths: ["Dane County / coords 43.0100, -89.0200", "Dane County / ZIP 53523 sector", "Dane County / elevation 860 ft band", "Dane County / primary ZIP 53523"]
+zillowHomeValueUsd: 420754
 ---
 
 **Engineering Notice for Cambridge:** System optimized for 151 mg/L hard water scaling factors in Cambridge. Regional dispatch grid: Dane County.

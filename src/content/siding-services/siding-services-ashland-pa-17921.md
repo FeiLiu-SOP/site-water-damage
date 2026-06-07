@@ -12,6 +12,7 @@ lng: -76.3500
 zipSample: ["17921"]
 zipCodes: ["17921"]
 localPaths: ["Schuylkill County / elevation 1010 ft band", "Schuylkill County / primary ZIP 17921", "Schuylkill County / ZIP 17921 sector", "Schuylkill County / coords 40.7800, -76.3500"]
+zillowHomeValueUsd: 128749
 ---
 
 **Engineering Notice for Ashland:** Structural integrity verification: Vinyl Panels calibrated for 107 mph localized wind load factor. Elevation: 1010 ft AMSL. Coordinates: 40.7800, -76.3500. Regional dispatch grid: Schuylkill County.

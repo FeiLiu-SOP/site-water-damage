@@ -11,6 +11,7 @@ lng: -87.8100
 zipSample: ["60714", "60701"]
 zipCodes: ["60701", "60714"]
 localPaths: ["Cook County / elevation 653 ft band", "Cook County / ZIP 60701 sector", "Cook County / ZIP 60714 sector", "Cook County / coords 42.0300, -87.8100", "Cook County / primary ZIP 60714"]
+zillowHomeValueUsd: 398492
 ---
 
 **Engineering Notice for Niles:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Cook County.

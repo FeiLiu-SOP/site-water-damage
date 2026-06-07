@@ -12,6 +12,7 @@ lng: -116.8200
 zipSample: ["83626"]
 zipCodes: ["83626"]
 localPaths: ["Canyon County / ZIP 83626 sector", "Canyon County / elevation 2415 ft band", "Canyon County / coords 43.6800, -116.8200", "Canyon County / primary ZIP 83626"]
+zillowHomeValueUsd: 423913
 ---
 
 **Engineering Notice for Greenleaf:** Site context locked to Canyon County. Elevation: 2415 ft AMSL. Coordinates: 43.6800, -116.8200. Panel Replacement integrity verification recorded.

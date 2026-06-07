@@ -12,6 +12,7 @@ lng: -85.0200
 zipSample: ["49021"]
 zipCodes: ["49021"]
 localPaths: ["Eaton County / elevation 869 ft band", "Eaton County / coords 42.4400, -85.0200", "Eaton County / ZIP 49021 sector", "Eaton County / primary ZIP 49021"]
+zillowHomeValueUsd: 242314
 ---
 
 **Engineering Notice for Bellevue:** Site context locked to Eaton County. Elevation: 869 ft AMSL. Vinyl Panels integrity verification recorded.

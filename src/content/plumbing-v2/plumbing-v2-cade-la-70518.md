@@ -12,6 +12,7 @@ lng: -91.9000
 zipSample: ["70518", "70582", "70519"]
 zipCodes: ["70518", "70519", "70582"]
 localPaths: ["St. Martin Parish / primary ZIP 70518", "St. Martin Parish / ZIP 70519 sector", "St. Martin Parish / ZIP 70518 sector", "St. Martin Parish / ZIP 70582 sector", "St. Martin Parish / elevation 30 ft band"]
+zillowHomeValueUsd: 283499
 ---
 
 **Engineering Notice for Cade:** System optimized for 168 mg/L hard water scaling factors in Cade. Regional dispatch grid: St. Martin Parish.

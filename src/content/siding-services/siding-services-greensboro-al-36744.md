@@ -12,6 +12,7 @@ lng: -87.5900
 zipSample: ["36744"]
 zipCodes: ["36744"]
 localPaths: ["Hale County / coords 32.7000, -87.5900", "Hale County / elevation 272 ft band", "Hale County / ZIP 36744 sector", "Hale County / primary ZIP 36744"]
+zillowHomeValueUsd: 143775
 ---
 
 **Engineering Notice for Greensboro:** Site context locked to Hale County. Elevation: 272 ft AMSL. Coordinates: 32.7000, -87.5900. Surface Sheathing integrity verification recorded.

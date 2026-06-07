@@ -12,6 +12,7 @@ lng: -87.7600
 zipSample: ["37178", "37061"]
 zipCodes: ["37061", "37178"]
 localPaths: ["Houston County / primary ZIP 37061", "Houston County / elevation 715 ft band", "Houston County / coords 36.3200, -87.7600", "Houston County / ZIP 37061 sector", "Houston County / ZIP 37178 sector"]
+zillowHomeValueUsd: 221332
 ---
 
 **Engineering Notice for Tennessee Ridge:** Surface Sheathing was validated under stress factor 1.06; target tolerance set near 95 mph. Grid anchor: Houston County.

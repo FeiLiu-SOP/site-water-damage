@@ -12,6 +12,7 @@ lng: -122.6600
 zipSample: ["95423"]
 zipCodes: ["95423"]
 localPaths: ["Lake County / ZIP 95423 sector", "Lake County / coords 39.0200, -122.6600", "Lake County / primary ZIP 95423", "Lake County / elevation 1329 ft band"]
+zillowHomeValueUsd: 253840
 ---
 
 **Engineering Notice for Clearlake Oaks:** System optimized for 120 mg/L hard water scaling factors in Clearlake Oaks. Regional dispatch grid: Lake County.

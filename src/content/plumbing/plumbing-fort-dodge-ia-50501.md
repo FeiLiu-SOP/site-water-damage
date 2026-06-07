@@ -12,6 +12,7 @@ lng: -94.1800
 zipSample: ["50501"]
 zipCodes: ["50501"]
 localPaths: ["Webster County / primary ZIP 50501", "Webster County / ZIP 50501 sector", "Webster County / elevation 1115 ft band", "Webster County / coords 42.5100, -94.1800"]
+zillowHomeValueUsd: 128671
 ---
 
 **Engineering Notice for Fort Dodge:** Structural loading calculated based on 1115 ft terrain assessment. Regional dispatch grid: Webster County.

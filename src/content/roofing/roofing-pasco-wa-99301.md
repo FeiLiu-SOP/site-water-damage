@@ -11,6 +11,7 @@ lng: -119.1300
 zipSample: ["99302", "99301"]
 zipCodes: ["99302", "99301"]
 localPaths: ["Franklin County / primary ZIP 99301", "Franklin County / elevation 387 ft band", "Franklin County / coords 46.2500, -119.1300", "Franklin County / ZIP 99302 sector", "Franklin County / ZIP 99301 sector"]
+zillowHomeValueUsd: 418150
 ---
 
 **Engineering Notice for Pasco:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Franklin County.

@@ -12,6 +12,7 @@ lng: -84.0300
 zipSample: ["28906"]
 zipCodes: ["28906"]
 localPaths: ["Cherokee County / coords 35.0900, -84.0300", "Cherokee County / elevation 1555 ft band", "Cherokee County / primary ZIP 28906", "Cherokee County / ZIP 28906 sector"]
+zillowHomeValueUsd: 278379
 ---
 
 **Engineering Notice for Murphy:** structural drying capacity optimized for 1555ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cherokee County. Relative Humidity Threshold: 76%. Sensor sync: Active.

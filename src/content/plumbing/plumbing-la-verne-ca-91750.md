@@ -12,6 +12,7 @@ lng: -117.7700
 zipSample: ["91750"]
 zipCodes: ["91750"]
 localPaths: ["Los Angeles County / primary ZIP 91750", "Los Angeles County / coords 34.1200, -117.7700", "Los Angeles County / ZIP 91750 sector", "Los Angeles County / elevation 1165 ft band"]
+zillowHomeValueUsd: 952477
 ---
 
 **Engineering Notice for La Verne:** Structural loading calculated based on 1165 ft terrain assessment. Regional dispatch grid: Los Angeles County.

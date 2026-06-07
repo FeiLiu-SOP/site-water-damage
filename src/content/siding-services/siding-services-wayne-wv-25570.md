@@ -12,6 +12,7 @@ lng: -82.4400
 zipSample: ["25570"]
 zipCodes: ["25570"]
 localPaths: ["Wayne County / ZIP 25570 sector", "Wayne County / elevation 600 ft band", "Wayne County / primary ZIP 25570", "Wayne County / coords 38.2300, -82.4400"]
+zillowHomeValueUsd: 130086
 ---
 
 **Engineering Notice for Wayne:** Facade Renewal was validated under stress factor 0.99; target tolerance set near 107 mph. Grid anchor: Wayne County.

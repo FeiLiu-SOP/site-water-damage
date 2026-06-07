@@ -12,6 +12,7 @@ lng: -95.4700
 zipSample: ["77583", "77545"]
 zipCodes: ["77545", "77583"]
 localPaths: ["Fort Bend County / elevation 69 ft band", "Fort Bend County / ZIP 77583 sector", "Fort Bend County / ZIP 77545 sector", "Fort Bend County / coords 29.5000, -95.4700", "Fort Bend County / primary ZIP 77545"]
+zillowHomeValueUsd: 280335
 ---
 
 **Engineering Notice for Arcola:** System optimized for 160 mg/L hard water scaling factors in Arcola. Regional dispatch grid: Fort Bend County.

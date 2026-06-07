@@ -12,6 +12,7 @@ lng: -123.0600
 zipSample: ["97408"]
 zipCodes: ["97408"]
 localPaths: ["Lane County / elevation 400 ft band", "Lane County / coords 44.1400, -123.0600", "Lane County / primary ZIP 97408", "Lane County / ZIP 97408 sector"]
+zillowHomeValueUsd: 613077
 ---
 
 **Engineering Notice for Coburg:** System optimized for 151 mg/L hard water scaling factors in Coburg. Regional dispatch grid: Lane County.

@@ -12,6 +12,7 @@ lng: -118.4000
 zipSample: ["99362"]
 zipCodes: ["99362"]
 localPaths: ["Walla Walla County / ZIP 99362 sector", "Walla Walla County / primary ZIP 99362", "Walla Walla County / coords 46.0600, -118.4000", "Walla Walla County / elevation 771 ft band"]
+zillowHomeValueUsd: 413054
 ---
 
 **Engineering Notice for Garrett:** Site context locked to Walla Walla County. Elevation: 771 ft AMSL. Coordinates: 46.0600, -118.4000. Exterior Envelope integrity verification recorded.

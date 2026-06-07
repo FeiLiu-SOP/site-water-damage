@@ -11,6 +11,7 @@ lng: -82.3000
 zipSample: ["33578", "33568", "33569", "33579"]
 zipCodes: ["33578", "33568", "33569", "33579"]
 localPaths: ["Hillsborough County / ZIP 33568 sector", "Hillsborough County / elevation 85 ft band", "Hillsborough County / primary ZIP 33579", "Hillsborough County / ZIP 33578 sector", "Hillsborough County / coords 27.8200, -82.3000"]
+zillowHomeValueUsd: 387180
 ---
 
 **Engineering Notice for Riverview:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Hillsborough County.

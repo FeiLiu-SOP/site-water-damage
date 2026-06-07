@@ -11,6 +11,7 @@ lng: -124.0900
 zipSample: ["95519"]
 zipCodes: ["95519"]
 localPaths: ["Humboldt County / elevation 200 ft band", "Humboldt County / ZIP 95519 sector", "Humboldt County / coords 40.9500, -124.0900", "Humboldt County / primary ZIP 95519"]
+zillowHomeValueUsd: 482893
 ---
 
 **Engineering Notice for McKinleyville:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Humboldt County.

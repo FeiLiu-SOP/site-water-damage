@@ -12,6 +12,7 @@ lng: -111.6000
 zipSample: ["85131", "85123"]
 zipCodes: ["85123", "85131"]
 localPaths: ["Pinal County / coords 32.7500, -111.6000", "Pinal County / elevation 1535 ft band", "Pinal County / primary ZIP 85131", "Pinal County / ZIP 85123 sector", "Pinal County / ZIP 85131 sector"]
+zillowHomeValueUsd: 294367
 ---
 
 **Engineering Notice for Eloy:** Structural loading calculated based on 1535 ft terrain assessment. Regional dispatch grid: Pinal County.

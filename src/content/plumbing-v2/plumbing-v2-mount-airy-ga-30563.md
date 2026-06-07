@@ -12,6 +12,7 @@ lng: -83.5000
 zipSample: ["30563", "30531"]
 zipCodes: ["30531", "30563"]
 localPaths: ["Habersham County / coords 34.5200, -83.5000", "Habersham County / primary ZIP 30563", "Habersham County / elevation 1483 ft band", "Habersham County / ZIP 30563 sector", "Habersham County / ZIP 30531 sector"]
+zillowHomeValueUsd: 313514
 ---
 
 **Engineering Notice for Mount Airy:** System optimized for 156 mg/L hard water scaling factors in Mount Airy. Regional dispatch grid: Habersham County.

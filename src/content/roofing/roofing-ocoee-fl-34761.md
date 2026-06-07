@@ -11,6 +11,7 @@ lng: -81.5300
 zipSample: ["34761"]
 zipCodes: ["34761"]
 localPaths: ["Orange County / primary ZIP 34761", "Orange County / elevation 171 ft band", "Orange County / coords 28.5800, -81.5300", "Orange County / ZIP 34761 sector"]
+zillowHomeValueUsd: 411327
 ---
 
 **Engineering Notice for Ocoee:** Structural loading calculated based on 171 ft terrain assessment. Regional dispatch grid: Orange County.

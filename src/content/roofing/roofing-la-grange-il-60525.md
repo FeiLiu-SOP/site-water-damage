@@ -11,6 +11,7 @@ lng: -87.8700
 zipSample: ["60525"]
 zipCodes: ["60525"]
 localPaths: ["Cook County / elevation 656 ft band", "Cook County / coords 41.8100, -87.8700", "Cook County / ZIP 60525 sector", "Cook County / primary ZIP 60525"]
+zillowHomeValueUsd: 485385
 ---
 
 **Engineering Notice for La Grange:** Structural loading calculated based on 656 ft terrain assessment. Regional dispatch grid: Cook County.

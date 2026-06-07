@@ -11,6 +11,7 @@ lng: -82.4300
 zipSample: ["25710", "25702", "25718", "25724", "25729"]
 zipCodes: ["25727", "25702", "25729", "25713", "25725", "25711", "25777", "25773", "25721", "25720", "25716", "25708"]
 localPaths: ["Cabell County / ZIP 25718 sector", "Cabell County / coords 38.4100, -82.4300", "Cabell County / ZIP 25710 sector", "Cabell County / elevation 571 ft band", "Cabell County / ZIP 25729 sector"]
+zillowHomeValueUsd: 69337
 ---
 
 **Engineering Notice for Huntington:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: Cabell County.

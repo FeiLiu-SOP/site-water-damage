@@ -12,6 +12,7 @@ lng: -97.0000
 zipSample: ["67144"]
 zipCodes: ["67144"]
 localPaths: ["Butler County / ZIP 67144 sector", "Butler County / elevation 1312 ft band", "Butler County / primary ZIP 67144", "Butler County / coords 37.8000, -97.0000"]
+zillowHomeValueUsd: 239606
 ---
 
 **Engineering Notice for Towanda:** Cladding verification uses 91 mph routing baseline; lateral pressure note: 12.1 psf. Elevation: 1312 ft AMSL. Grid: Butler County.

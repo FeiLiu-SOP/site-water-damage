@@ -11,6 +11,7 @@ lng: -91.4900
 zipSample: ["54701", "54702", "54703"]
 zipCodes: ["54703", "54701", "54702"]
 localPaths: ["Eau Claire County / ZIP 54702 sector", "Eau Claire County / primary ZIP 54703", "Eau Claire County / ZIP 54701 sector", "Eau Claire County / ZIP 54703 sector", "Eau Claire County / coords 44.8200, -91.4900"]
+zillowHomeValueUsd: 287507
 ---
 
 **Engineering Notice for Eau Claire:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: Eau Claire County.

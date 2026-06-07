@@ -12,6 +12,7 @@ lng: -93.8000
 zipSample: ["71134", "71119", "71101", "71109", "71154"]
 zipCodes: ["71130", "71154", "71118", "71129", "71134", "71101", "71105", "71104", "71153", "71148", "71106", "71102"]
 localPaths: ["Caddo Parish / ZIP 71119 sector", "Caddo Parish / ZIP 71134 sector", "Caddo Parish / ZIP 71109 sector", "Caddo Parish / elevation 243 ft band", "Caddo Parish / primary ZIP 71129"]
+zillowHomeValueUsd: 198048
 ---
 
 **Engineering Notice for Shreveport:** Structural loading calculated based on 243 ft terrain assessment. Regional dispatch grid: Caddo Parish.

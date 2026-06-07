@@ -12,6 +12,7 @@ lng: -84.0600
 zipSample: ["37828", "37705"]
 zipCodes: ["37705", "37828"]
 localPaths: ["Anderson County / primary ZIP 37705", "Anderson County / ZIP 37705 sector", "Anderson County / coords 36.2100, -84.0600", "Anderson County / ZIP 37828 sector", "Anderson County / elevation 981 ft band"]
+zillowHomeValueUsd: 424473
 ---
 
 **Engineering Notice for Norris:** System optimized for 125 mg/L hard water scaling factors in Norris. Regional dispatch grid: Anderson County.

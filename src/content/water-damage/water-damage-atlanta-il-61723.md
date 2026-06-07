@@ -12,6 +12,7 @@ lng: -89.2300
 zipSample: ["61723"]
 zipCodes: ["61723"]
 localPaths: ["Logan County / primary ZIP 61723", "Logan County / coords 40.2600, -89.2300", "Logan County / ZIP 61723 sector", "Logan County / elevation 719 ft band"]
+zillowHomeValueUsd: 160665
 ---
 
 **Engineering Notice for Atlanta:** structural drying capacity optimized for 719ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Logan County. Relative Humidity Threshold: 85%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -80.5900
 zipSample: ["29067"]
 zipCodes: ["29067"]
 localPaths: ["Lancaster County / ZIP 29067 sector", "Lancaster County / elevation 525 ft band", "Lancaster County / primary ZIP 29067", "Lancaster County / coords 34.5500, -80.5900"]
+zillowHomeValueUsd: 187616
 ---
 
 **Engineering Notice for Kershaw:** System optimized for 152 mg/L hard water scaling factors in Kershaw. Regional dispatch grid: Lancaster County.

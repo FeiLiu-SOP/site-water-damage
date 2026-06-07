@@ -11,6 +11,7 @@ lng: -119.5600
 zipSample: ["93212"]
 zipCodes: ["93212"]
 localPaths: ["Kings County / coords 36.0800, -119.5600", "Kings County / primary ZIP 93212", "Kings County / ZIP 93212 sector", "Kings County / elevation 203 ft band"]
+zillowHomeValueUsd: 268928
 ---
 
 **Engineering Notice for Corcoran:** Structural loading calculated based on 203 ft terrain assessment. Regional dispatch grid: Kings County.

@@ -12,6 +12,7 @@ lng: -87.8200
 zipSample: ["53013"]
 zipCodes: ["53013"]
 localPaths: ["Sheboygan County / coords 43.5700, -87.8200", "Sheboygan County / elevation 709 ft band", "Sheboygan County / primary ZIP 53013", "Sheboygan County / ZIP 53013 sector"]
+zillowHomeValueUsd: 381837
 ---
 
 **Engineering Notice for Cedar Grove:** Wall Restoration was validated under stress factor 1.01; target tolerance set near 91 mph. Grid anchor: Sheboygan County.

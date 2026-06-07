@@ -12,6 +12,7 @@ lng: -75.8800
 zipSample: ["27939"]
 zipCodes: ["27939"]
 localPaths: ["Currituck County / elevation 20 ft band", "Currituck County / coords 36.2300, -75.8800", "Currituck County / primary ZIP 27939", "Currituck County / ZIP 27939 sector"]
+zillowHomeValueUsd: 389985
 ---
 
 **Engineering Notice for Grandy:** System optimized for 146 mg/L hard water scaling factors in Grandy. Regional dispatch grid: Currituck County.

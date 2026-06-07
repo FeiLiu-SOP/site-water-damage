@@ -11,6 +11,7 @@ lng: -97.3900
 zipSample: ["57078"]
 zipCodes: ["57078"]
 localPaths: ["Yankton County / coords 42.8900, -97.3900", "Yankton County / ZIP 57078 sector", "Yankton County / primary ZIP 57078", "Yankton County / elevation 1253 ft band"]
+zillowHomeValueUsd: 270864
 ---
 
 **Engineering Notice for Yankton:** Structural loading calculated based on 1253 ft terrain assessment. Regional dispatch grid: Yankton County.

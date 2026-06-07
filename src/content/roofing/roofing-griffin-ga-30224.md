@@ -11,6 +11,7 @@ lng: -84.2700
 zipSample: ["30224", "30223"]
 zipCodes: ["30223", "30224"]
 localPaths: ["Spalding County / elevation 981 ft band", "Spalding County / ZIP 30224 sector", "Spalding County / coords 33.2400, -84.2700", "Spalding County / primary ZIP 30224", "Spalding County / ZIP 30223 sector"]
+zillowHomeValueUsd: 258658
 ---
 
 **Engineering Notice for Griffin:** Structural loading calculated based on 981 ft terrain assessment. Regional dispatch grid: Spalding County.

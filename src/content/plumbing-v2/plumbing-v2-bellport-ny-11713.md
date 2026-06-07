@@ -12,6 +12,7 @@ lng: -72.9400
 zipSample: ["11713"]
 zipCodes: ["11713"]
 localPaths: ["Suffolk County / coords 40.7500, -72.9400", "Suffolk County / primary ZIP 11713", "Suffolk County / ZIP 11713 sector", "Suffolk County / elevation 30 ft band"]
+zillowHomeValueUsd: 609184
 ---
 
 **Engineering Notice for Bellport:** System optimized for 157 mg/L hard water scaling factors in Bellport. Regional dispatch grid: Suffolk County.

@@ -12,6 +12,7 @@ lng: -84.6800
 zipSample: ["40347"]
 zipCodes: ["40347"]
 localPaths: ["Woodford County / primary ZIP 40347", "Woodford County / ZIP 40347 sector", "Woodford County / coords 38.1600, -84.6800", "Woodford County / elevation 846 ft band"]
+zillowHomeValueUsd: 358271
 ---
 
 **Engineering Notice for Midway:** Cladding verification uses 97 mph routing baseline; lateral pressure note: 12.8 psf. Elevation: 846 ft AMSL. Grid: Woodford County.

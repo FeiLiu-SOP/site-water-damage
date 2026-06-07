@@ -12,6 +12,7 @@ lng: -74.3000
 zipSample: ["12446"]
 zipCodes: ["12446"]
 localPaths: ["Ulster County / coords 41.7800, -74.3000", "Ulster County / primary ZIP 12446", "Ulster County / elevation 276 ft band", "Ulster County / ZIP 12446 sector"]
+zillowHomeValueUsd: 395805
 ---
 
 **Engineering Notice for Kerhonkson:** System optimized for 124 mg/L hard water scaling factors in Kerhonkson. Regional dispatch grid: Ulster County.

@@ -12,6 +12,7 @@ lng: -89.0600
 zipSample: ["61068"]
 zipCodes: ["61068"]
 localPaths: ["Ogle County / primary ZIP 61068", "Ogle County / elevation 820 ft band", "Ogle County / coords 41.9700, -89.0600", "Ogle County / ZIP 61068 sector"]
+zillowHomeValueUsd: 198195
 ---
 
 **Engineering Notice for Hillcrest:** Envelope check: Exterior Envelope assigned to wind-load band C with stress factor 1.00. Regional dispatch grid: Ogle County.

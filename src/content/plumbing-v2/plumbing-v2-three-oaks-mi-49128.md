@@ -12,6 +12,7 @@ lng: -86.6100
 zipSample: ["49128"]
 zipCodes: ["49128"]
 localPaths: ["Berrien County / primary ZIP 49128", "Berrien County / ZIP 49128 sector", "Berrien County / coords 41.8000, -86.6100", "Berrien County / elevation 679 ft band"]
+zillowHomeValueUsd: 347987
 ---
 
 **Engineering Notice for Three Oaks:** System optimized for 178 mg/L hard water scaling factors in Three Oaks. Regional dispatch grid: Berrien County.

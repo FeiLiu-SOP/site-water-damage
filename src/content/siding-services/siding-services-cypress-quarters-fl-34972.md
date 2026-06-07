@@ -12,6 +12,7 @@ lng: -80.8100
 zipSample: ["34972", "34974"]
 zipCodes: ["34974", "34972"]
 localPaths: ["Okeechobee County / ZIP 34972 sector", "Okeechobee County / primary ZIP 34972", "Okeechobee County / coords 27.2500, -80.8100", "Okeechobee County / ZIP 34974 sector", "Okeechobee County / elevation 33 ft band"]
+zillowHomeValueUsd: 308091
 ---
 
 **Engineering Notice for Cypress Quarters:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 0.88. Regional dispatch grid: Okeechobee County.

@@ -12,6 +12,7 @@ lng: -75.8000
 zipSample: ["13612"]
 zipCodes: ["13612"]
 localPaths: ["Jefferson County / coords 44.0100, -75.8000", "Jefferson County / elevation 581 ft band", "Jefferson County / ZIP 13612 sector", "Jefferson County / primary ZIP 13612"]
+zillowHomeValueUsd: 236056
 ---
 
 **Engineering Notice for Black River:** System optimized for 174 mg/L hard water scaling factors in Black River. Regional dispatch grid: Jefferson County.

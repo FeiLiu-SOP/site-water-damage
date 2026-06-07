@@ -11,6 +11,7 @@ lng: -70.2500
 zipSample: ["04211", "04212", "04223", "04210"]
 zipCodes: ["04223", "04212", "04210", "04211"]
 localPaths: ["Androscoggin County / ZIP 04210 sector", "Androscoggin County / primary ZIP 04210", "Androscoggin County / ZIP 04223 sector", "Androscoggin County / ZIP 04211 sector", "Androscoggin County / elevation 282 ft band"]
+zillowHomeValueUsd: 320993
 ---
 
 **Engineering Notice for Auburn:** Structural loading calculated based on 282 ft terrain assessment. Regional dispatch grid: Androscoggin County.

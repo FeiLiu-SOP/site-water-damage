@@ -12,6 +12,7 @@ lng: -78.8700
 zipSample: ["27523", "27539", "27502"]
 zipCodes: ["27539", "27502", "27523"]
 localPaths: ["Wake County / ZIP 27502 sector", "Wake County / primary ZIP 27502", "Wake County / coords 35.7200, -78.8700", "Wake County / elevation 436 ft band", "Wake County / ZIP 27539 sector"]
+zillowHomeValueUsd: 569726
 ---
 
 **Engineering Notice for Apex:** Structural loading calculated based on 436 ft terrain assessment. Regional dispatch grid: Wake County.

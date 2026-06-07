@@ -12,6 +12,7 @@ lng: -97.1900
 zipSample: ["73054"]
 zipCodes: ["73054"]
 localPaths: ["Oklahoma County / elevation 925 ft band", "Oklahoma County / ZIP 73054 sector", "Oklahoma County / coords 35.6700, -97.1900", "Oklahoma County / primary ZIP 73054"]
+zillowHomeValueUsd: 293297
 ---
 
 **Engineering Notice for Luther:** structural drying capacity optimized for 925ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Oklahoma County. Relative Humidity Threshold: 82%. Sensor sync: Active.

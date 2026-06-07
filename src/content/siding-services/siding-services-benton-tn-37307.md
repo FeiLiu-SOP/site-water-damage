@@ -12,6 +12,7 @@ lng: -84.6500
 zipSample: ["37307"]
 zipCodes: ["37307"]
 localPaths: ["Polk County / ZIP 37307 sector", "Polk County / elevation 741 ft band", "Polk County / coords 35.1700, -84.6500", "Polk County / primary ZIP 37307"]
+zillowHomeValueUsd: 261863
 ---
 
 **Engineering Notice for Benton:** Cladding verification uses 97 mph routing baseline; lateral pressure note: 12.8 psf. Elevation: 741 ft AMSL. Grid: Polk County.

@@ -12,6 +12,7 @@ lng: -111.4700
 zipSample: ["86004"]
 zipCodes: ["86004"]
 localPaths: ["Coconino County / primary ZIP 86004", "Coconino County / elevation 6365 ft band", "Coconino County / coords 35.2300, -111.4700", "Coconino County / ZIP 86004 sector"]
+zillowHomeValueUsd: 621913
 ---
 
 **Engineering Notice for Mountain View Ranches:** System optimized for 144 mg/L hard water scaling factors in Mountain View Ranches. Regional dispatch grid: Coconino County.

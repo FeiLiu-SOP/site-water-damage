@@ -12,6 +12,7 @@ lng: -78.5500
 zipSample: ["28468", "28467"]
 zipCodes: ["28467", "28468"]
 localPaths: ["Brunswick County / ZIP 28468 sector", "Brunswick County / elevation 3 ft band", "Brunswick County / primary ZIP 28468", "Brunswick County / coords 33.9000, -78.5500", "Brunswick County / ZIP 28467 sector"]
+zillowHomeValueUsd: 428022
 ---
 
 **Engineering Notice for Calabash:** Structural integrity verification: Cladding Retrofit calibrated for 90 mph localized wind load factor. Regional dispatch grid: Brunswick County.

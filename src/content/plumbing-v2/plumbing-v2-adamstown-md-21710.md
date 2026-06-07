@@ -12,6 +12,7 @@ lng: -77.4700
 zipSample: ["21710"]
 zipCodes: ["21710"]
 localPaths: ["Frederick County / primary ZIP 21710", "Frederick County / elevation 305 ft band", "Frederick County / ZIP 21710 sector", "Frederick County / coords 39.3100, -77.4700"]
+zillowHomeValueUsd: 670697
 ---
 
 **Engineering Notice for Adamstown:** System optimized for 180 mg/L hard water scaling factors in Adamstown. Regional dispatch grid: Frederick County.

@@ -12,6 +12,7 @@ lng: -105.5000
 zipSample: ["80452"]
 zipCodes: ["80452"]
 localPaths: ["Clear Creek County / ZIP 80452 sector", "Clear Creek County / primary ZIP 80452", "Clear Creek County / elevation 7854 ft band", "Clear Creek County / coords 39.7400, -105.5000"]
+zillowHomeValueUsd: 488792
 ---
 
 **Engineering Notice for Idaho Springs:** System optimized for 173 mg/L hard water scaling factors in Idaho Springs. Regional dispatch grid: Clear Creek County.

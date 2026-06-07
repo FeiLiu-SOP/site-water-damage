@@ -12,6 +12,7 @@ lng: -87.7600
 zipSample: ["38485"]
 zipCodes: ["38485"]
 localPaths: ["Wayne County / ZIP 38485 sector", "Wayne County / elevation 705 ft band", "Wayne County / coords 35.3200, -87.7600", "Wayne County / primary ZIP 38485"]
+zillowHomeValueUsd: 170403
 ---
 
 **Engineering Notice for Waynesboro:** Cladding verification uses 108 mph routing baseline; lateral pressure note: 14.2 psf. Elevation: 705 ft AMSL. Grid: Wayne County.

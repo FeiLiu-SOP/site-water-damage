@@ -12,6 +12,7 @@ lng: -74.0400
 zipSample: ["07716", "07760"]
 zipCodes: ["07760", "07716"]
 localPaths: ["Monmouth County / ZIP 07760 sector", "Monmouth County / primary ZIP 07716", "Monmouth County / ZIP 07716 sector", "Monmouth County / elevation 148 ft band", "Monmouth County / coords 40.4000, -74.0400"]
+zillowHomeValueUsd: 804371
 ---
 
 **Engineering Notice for Navesink:** Structural integrity verification: Weather Barrier Wrap calibrated for 109 mph localized wind load factor. Elevation: 148 ft AMSL. Coordinates: 40.4000, -74.0400. Regional dispatch grid: Monmouth County.

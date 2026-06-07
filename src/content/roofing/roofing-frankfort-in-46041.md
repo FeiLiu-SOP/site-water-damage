@@ -11,6 +11,7 @@ lng: -86.5200
 zipSample: ["46041"]
 zipCodes: ["46041"]
 localPaths: ["Clinton County / ZIP 46041 sector", "Clinton County / primary ZIP 46041", "Clinton County / elevation 866 ft band", "Clinton County / coords 40.2800, -86.5200"]
+zillowHomeValueUsd: 210052
 ---
 
 **Engineering Notice for Frankfort:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Clinton County.

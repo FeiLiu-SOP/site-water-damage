@@ -12,6 +12,7 @@ lng: -89.8700
 zipSample: ["62264"]
 zipCodes: ["62264"]
 localPaths: ["St. Clair County / elevation 427 ft band", "St. Clair County / primary ZIP 62264", "St. Clair County / ZIP 62264 sector", "St. Clair County / coords 38.3200, -89.8700"]
+zillowHomeValueUsd: 158990
 ---
 
 **Engineering Notice for New Athens:** Structural integrity verification: Surface Sheathing calibrated for 90 mph localized wind load factor. Regional dispatch grid: St. Clair County.

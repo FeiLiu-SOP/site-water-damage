@@ -12,6 +12,7 @@ lng: -88.7400
 zipSample: ["53585"]
 zipCodes: ["53585"]
 localPaths: ["Walworth County / primary ZIP 53585", "Walworth County / elevation 974 ft band", "Walworth County / coords 42.5000, -88.7400", "Walworth County / ZIP 53585 sector"]
+zillowHomeValueUsd: 298702
 ---
 
 **Engineering Notice for Sharon:** Site context locked to Walworth County. Wall Restoration integrity verification recorded.

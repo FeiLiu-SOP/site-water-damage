@@ -12,6 +12,7 @@ lng: -82.0500
 zipSample: ["33950"]
 zipCodes: ["33950"]
 localPaths: ["Charlotte County / coords 26.9000, -82.0500", "Charlotte County / elevation 20 ft band", "Charlotte County / ZIP 33950 sector", "Charlotte County / primary ZIP 33950"]
+zillowHomeValueUsd: 367287
 ---
 
 **Engineering Notice for Charlotte Park:** System optimized for 168 mg/L hard water scaling factors in Charlotte Park. Regional dispatch grid: Charlotte County.

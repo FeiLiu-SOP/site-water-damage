@@ -12,6 +12,8 @@ lng: -65.8500
 zipSample: ["00772"]
 zipCodes: ["00772"]
 localPaths: ["Loíza County / coords 18.4300, -65.8500", "Loíza County / primary ZIP 00772", "Loíza County / ZIP 00772 sector", "Loíza County / elevation 20 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 373519
 ---
 
 **Engineering Notice for Suárez:** Facade Renewal was validated under stress factor 1.06; target tolerance set near 92 mph. Grid anchor: Loíza County.

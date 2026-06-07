@@ -12,6 +12,7 @@ lng: -88.5400
 zipSample: ["54135", "54124"]
 zipCodes: ["54124", "54135"]
 localPaths: ["Menominee County / primary ZIP 54135", "Menominee County / elevation 833 ft band", "Menominee County / coords 44.8900, -88.5400", "Menominee County / ZIP 54124 sector", "Menominee County / ZIP 54135 sector"]
+zillowHomeValueUsd: 308161
 ---
 
 **Engineering Notice for Legend Lake:** Structural integrity verification: Cladding Service calibrated for 104 mph localized wind load factor. Elevation: 833 ft AMSL. Coordinates: 44.8900, -88.5400. Regional dispatch grid: Menominee County.

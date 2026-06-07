@@ -12,6 +12,7 @@ lng: -75.6800
 zipSample: ["19701", "19702"]
 zipCodes: ["19701", "19702"]
 localPaths: ["New Castle County / primary ZIP 19701", "New Castle County / elevation 69 ft band", "New Castle County / ZIP 19701 sector", "New Castle County / ZIP 19702 sector", "New Castle County / coords 39.6200, -75.6800"]
+zillowHomeValueUsd: 420888
 ---
 
 **Engineering Notice for Bear:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: New Castle County.

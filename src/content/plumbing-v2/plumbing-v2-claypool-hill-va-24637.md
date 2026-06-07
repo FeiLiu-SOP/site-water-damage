@@ -12,6 +12,7 @@ lng: -81.7500
 zipSample: ["24637", "24609"]
 zipCodes: ["24637", "24609"]
 localPaths: ["Tazewell County / elevation 2372 ft band", "Tazewell County / ZIP 24609 sector", "Tazewell County / primary ZIP 24637", "Tazewell County / ZIP 24637 sector", "Tazewell County / coords 37.0600, -81.7500"]
+zillowHomeValueUsd: 193379
 ---
 
 **Engineering Notice for Claypool Hill:** System optimized for 167 mg/L hard water scaling factors in Claypool Hill. Regional dispatch grid: Tazewell County.

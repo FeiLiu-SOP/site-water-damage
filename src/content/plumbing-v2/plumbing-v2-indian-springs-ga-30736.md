@@ -12,6 +12,7 @@ lng: -85.1600
 zipSample: ["30736"]
 zipCodes: ["30736"]
 localPaths: ["Catoosa County / ZIP 30736 sector", "Catoosa County / coords 34.9600, -85.1600", "Catoosa County / elevation 741 ft band", "Catoosa County / primary ZIP 30736"]
+zillowHomeValueUsd: 316518
 ---
 
 **Engineering Notice for Indian Springs:** System optimized for 176 mg/L hard water scaling factors in Indian Springs. Regional dispatch grid: Catoosa County.

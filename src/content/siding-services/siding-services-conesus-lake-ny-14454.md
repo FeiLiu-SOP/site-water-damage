@@ -12,6 +12,7 @@ lng: -77.7100
 zipSample: ["14454", "14435", "14487", "14480"]
 zipCodes: ["14454", "14480", "14435", "14487"]
 localPaths: ["Livingston County / ZIP 14480 sector", "Livingston County / primary ZIP 14454", "Livingston County / ZIP 14454 sector", "Livingston County / ZIP 14487 sector", "Livingston County / elevation 810 ft band"]
+zillowHomeValueUsd: 310267
 ---
 
 **Engineering Notice for Conesus Lake:** Cladding verification uses 105 mph routing baseline; lateral pressure note: 13.8 psf. Elevation: 810 ft AMSL. Coordinates: 42.7800, -77.7100. Grid: Livingston County.

@@ -12,6 +12,7 @@ lng: -111.9100
 zipSample: ["85138", "85121"]
 zipCodes: ["85121", "85138"]
 localPaths: ["Pinal County / coords 33.1200, -111.9100", "Pinal County / ZIP 85138 sector", "Pinal County / primary ZIP 85138", "Pinal County / ZIP 85121 sector", "Pinal County / elevation 1191 ft band"]
+zillowHomeValueUsd: 347861
 ---
 
 **Engineering Notice for Casa Blanca:** structural drying capacity optimized for 1191ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pinal County. Relative Humidity Threshold: 82%. Sensor sync: Active.

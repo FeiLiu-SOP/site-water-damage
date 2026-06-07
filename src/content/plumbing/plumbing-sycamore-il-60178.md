@@ -12,6 +12,7 @@ lng: -88.6800
 zipSample: ["60178"]
 zipCodes: ["60178"]
 localPaths: ["DeKalb County / ZIP 60178 sector", "DeKalb County / coords 42.0000, -88.6800", "DeKalb County / elevation 827 ft band", "DeKalb County / primary ZIP 60178"]
+zillowHomeValueUsd: 313319
 ---
 
 **Engineering Notice for Sycamore:** Structural loading calculated based on 827 ft terrain assessment. Regional dispatch grid: DeKalb County.

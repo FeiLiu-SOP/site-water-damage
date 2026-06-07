@@ -12,6 +12,7 @@ lng: -95.0600
 zipSample: ["51455"]
 zipCodes: ["51455"]
 localPaths: ["Carroll County / coords 41.9100, -95.0600", "Carroll County / elevation 1352 ft band", "Carroll County / primary ZIP 51455", "Carroll County / ZIP 51455 sector"]
+zillowHomeValueUsd: 186635
 ---
 
 **Engineering Notice for Manning:** System optimized for 146 mg/L hard water scaling factors in Manning. Regional dispatch grid: Carroll County.

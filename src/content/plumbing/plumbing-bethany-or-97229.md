@@ -12,6 +12,7 @@ lng: -122.8400
 zipSample: ["97229"]
 zipCodes: ["97229"]
 localPaths: ["Washington County / ZIP 97229 sector", "Washington County / primary ZIP 97229", "Washington County / coords 45.5600, -122.8400", "Washington County / elevation 272 ft band"]
+zillowHomeValueUsd: 743116
 ---
 
 **Engineering Notice for Bethany:** Structural loading calculated based on 272 ft terrain assessment. Regional dispatch grid: Washington County.

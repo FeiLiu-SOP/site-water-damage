@@ -12,6 +12,7 @@ lng: -119.6200
 zipSample: ["99357"]
 zipCodes: ["99357"]
 localPaths: ["Grant County / elevation 991 ft band", "Grant County / ZIP 99357 sector", "Grant County / primary ZIP 99357", "Grant County / coords 46.9000, -119.6200"]
+zillowHomeValueUsd: 348643
 ---
 
 **Engineering Notice for Royal City:** Structural integrity verification: Cladding Retrofit calibrated for 100 mph localized wind load factor. Regional dispatch grid: Grant County.

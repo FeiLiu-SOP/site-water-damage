@@ -12,6 +12,7 @@ lng: -74.0400
 zipSample: ["08750"]
 zipCodes: ["08750"]
 localPaths: ["Monmouth County / elevation 23 ft band", "Monmouth County / coords 40.1300, -74.0400", "Monmouth County / primary ZIP 08750", "Monmouth County / ZIP 08750 sector"]
+zillowHomeValueUsd: 2412347
 ---
 
 **Engineering Notice for Sea Girt:** structural drying capacity optimized for 23ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Monmouth County. Relative Humidity Threshold: 70%. Sensor sync: Active.

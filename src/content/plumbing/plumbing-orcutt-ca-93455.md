@@ -12,6 +12,7 @@ lng: -120.4200
 zipSample: ["93457", "93455"]
 zipCodes: ["93457", "93455"]
 localPaths: ["Santa Barbara County / elevation 453 ft band", "Santa Barbara County / ZIP 93457 sector", "Santa Barbara County / primary ZIP 93455", "Santa Barbara County / coords 34.8700, -120.4200", "Santa Barbara County / ZIP 93455 sector"]
+zillowHomeValueUsd: 716850
 ---
 
 **Engineering Notice for Orcutt:** Structural loading calculated based on 453 ft terrain assessment. Regional dispatch grid: Santa Barbara County.

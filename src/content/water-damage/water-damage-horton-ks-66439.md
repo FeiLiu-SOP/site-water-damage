@@ -12,6 +12,7 @@ lng: -95.5300
 zipSample: ["66439"]
 zipCodes: ["66439"]
 localPaths: ["Brown County / primary ZIP 66439", "Brown County / coords 39.6600, -95.5300", "Brown County / ZIP 66439 sector", "Brown County / elevation 1063 ft band"]
+zillowHomeValueUsd: 103499
 ---
 
 **Engineering Notice for Horton:** structural drying capacity optimized for 1063ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Brown County. Relative Humidity Threshold: 82%. Sensor sync: Active.

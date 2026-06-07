@@ -12,6 +12,7 @@ lng: -80.5600
 zipSample: ["44442"]
 zipCodes: ["44442"]
 localPaths: ["Mahoning County / primary ZIP 44442", "Mahoning County / coords 40.9600, -80.5600", "Mahoning County / elevation 1217 ft band", "Mahoning County / ZIP 44442 sector"]
+zillowHomeValueUsd: 238489
 ---
 
 **Engineering Notice for New Middletown:** System optimized for 173 mg/L hard water scaling factors in New Middletown. Regional dispatch grid: Mahoning County.

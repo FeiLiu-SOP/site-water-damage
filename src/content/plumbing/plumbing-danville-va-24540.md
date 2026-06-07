@@ -12,6 +12,7 @@ lng: -79.4100
 zipSample: ["24541", "24540"]
 zipCodes: ["24541", "24540"]
 localPaths: ["Danville County / primary ZIP 24540", "Danville County / elevation 554 ft band", "Danville County / coords 36.5800, -79.4100", "Danville County / ZIP 24541 sector", "Danville County / ZIP 24540 sector"]
+zillowHomeValueUsd: 153098
 ---
 
 **Engineering Notice for Danville:** Structural loading calculated based on 554 ft terrain assessment. Regional dispatch grid: Danville County.

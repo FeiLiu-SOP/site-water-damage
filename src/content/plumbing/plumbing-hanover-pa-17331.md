@@ -12,6 +12,7 @@ lng: -76.9800
 zipSample: ["17332", "17331", "17334", "17333"]
 zipCodes: ["17332", "17333", "17331", "17334"]
 localPaths: ["York County / ZIP 17334 sector", "York County / ZIP 17332 sector", "York County / ZIP 17333 sector", "York County / coords 39.8100, -76.9800", "York County / elevation 617 ft band"]
+zillowHomeValueUsd: 291907
 ---
 
 **Engineering Notice for Hanover:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: York County.

@@ -12,6 +12,7 @@ lng: -82.2600
 zipSample: ["33576", "33574"]
 zipCodes: ["33574", "33576"]
 localPaths: ["Pasco County / ZIP 33574 sector", "Pasco County / coords 28.3400, -82.2600", "Pasco County / primary ZIP 33576", "Pasco County / elevation 207 ft band", "Pasco County / ZIP 33576 sector"]
+zillowHomeValueUsd: 348373
 ---
 
 **Engineering Notice for St. Leo:** Cladding verification uses 150 mph routing baseline; lateral pressure note: 19.2 psf. Grid: Pasco County.

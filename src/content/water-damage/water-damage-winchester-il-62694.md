@@ -12,6 +12,7 @@ lng: -90.4600
 zipSample: ["62694"]
 zipCodes: ["62694"]
 localPaths: ["Scott County / primary ZIP 62694", "Scott County / coords 39.6300, -90.4600", "Scott County / ZIP 62694 sector", "Scott County / elevation 551 ft band"]
+zillowHomeValueUsd: 103168
 ---
 
 **Engineering Notice for Winchester:** structural drying capacity optimized for 551ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Scott County. Relative Humidity Threshold: 78%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -86.9300
 zipSample: ["35020"]
 zipCodes: ["35020"]
 localPaths: ["Jefferson County / primary ZIP 35020", "Jefferson County / coords 33.4300, -86.9300", "Jefferson County / elevation 554 ft band", "Jefferson County / ZIP 35020 sector"]
+zillowHomeValueUsd: 66346
 ---
 
 **Engineering Notice for Lipscomb:** System optimized for 138 mg/L hard water scaling factors in Lipscomb. Regional dispatch grid: Jefferson County.

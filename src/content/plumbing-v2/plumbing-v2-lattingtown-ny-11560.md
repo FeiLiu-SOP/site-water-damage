@@ -12,6 +12,7 @@ lng: -73.6000
 zipSample: ["11560"]
 zipCodes: ["11560"]
 localPaths: ["Nassau County / coords 40.8900, -73.6000", "Nassau County / primary ZIP 11560", "Nassau County / elevation 56 ft band", "Nassau County / ZIP 11560 sector"]
+zillowHomeValueUsd: 1226058
 ---
 
 **Engineering Notice for Lattingtown:** System optimized for 132 mg/L hard water scaling factors in Lattingtown. Regional dispatch grid: Nassau County.

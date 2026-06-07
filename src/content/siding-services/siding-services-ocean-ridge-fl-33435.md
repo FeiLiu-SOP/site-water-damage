@@ -12,6 +12,7 @@ lng: -80.0500
 zipSample: ["33435"]
 zipCodes: ["33435"]
 localPaths: ["Palm Beach County / ZIP 33435 sector", "Palm Beach County / coords 26.5300, -80.0500", "Palm Beach County / primary ZIP 33435", "Palm Beach County / elevation 26 ft band"]
+zillowHomeValueUsd: 305030
 ---
 
 **Engineering Notice for Ocean Ridge:** Cladding verification uses 142 mph routing baseline; lateral pressure note: 18.2 psf. Elevation: 26 ft AMSL. Coordinates: 26.5300, -80.0500. Grid: Palm Beach County.

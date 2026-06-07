@@ -11,6 +11,7 @@ lng: -83.2400
 zipSample: ["48326", "48321"]
 zipCodes: ["48321", "48326"]
 localPaths: ["Oakland County / ZIP 48326 sector", "Oakland County / primary ZIP 48326", "Oakland County / elevation 965 ft band", "Oakland County / ZIP 48321 sector", "Oakland County / coords 42.6700, -83.2400"]
+zillowHomeValueUsd: 280694
 ---
 
 **Engineering Notice for Auburn Hills:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Oakland County.

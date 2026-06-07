@@ -12,6 +12,7 @@ lng: -85.5200
 zipSample: ["36375", "36305", "36301"]
 zipCodes: ["36305", "36301", "36375"]
 localPaths: ["Geneva County / coords 31.1400, -85.5200", "Geneva County / primary ZIP 36375", "Geneva County / elevation 305 ft band", "Geneva County / ZIP 36301 sector", "Geneva County / ZIP 36305 sector"]
+zillowHomeValueUsd: 173830
 ---
 
 **Engineering Notice for Malvern:** structural drying capacity optimized for 305ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Geneva County. Relative Humidity Threshold: 78%. Sensor sync: Active.

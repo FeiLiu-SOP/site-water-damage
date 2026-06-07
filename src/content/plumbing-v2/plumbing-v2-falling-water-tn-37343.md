@@ -12,6 +12,7 @@ lng: -85.2600
 zipSample: ["37343"]
 zipCodes: ["37343"]
 localPaths: ["Hamilton County / ZIP 37343 sector", "Hamilton County / elevation 702 ft band", "Hamilton County / coords 35.2000, -85.2600", "Hamilton County / primary ZIP 37343"]
+zillowHomeValueUsd: 365351
 ---
 
 **Engineering Notice for Falling Water:** System optimized for 176 mg/L hard water scaling factors in Falling Water. Regional dispatch grid: Hamilton County.

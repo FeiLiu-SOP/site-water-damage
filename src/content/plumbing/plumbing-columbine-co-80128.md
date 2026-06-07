@@ -12,6 +12,7 @@ lng: -105.0700
 zipSample: ["80123", "80128"]
 zipCodes: ["80123", "80128"]
 localPaths: ["Jefferson County / coords 39.5900, -105.0700", "Jefferson County / ZIP 80123 sector", "Jefferson County / ZIP 80128 sector", "Jefferson County / elevation 5554 ft band", "Jefferson County / primary ZIP 80128"]
+zillowHomeValueUsd: 602678
 ---
 
 **Engineering Notice for Columbine:** Structural loading calculated based on 5554 ft terrain assessment. Regional dispatch grid: Jefferson County.

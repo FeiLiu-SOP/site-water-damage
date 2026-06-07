@@ -12,6 +12,7 @@ lng: -88.1300
 zipSample: ["60046"]
 zipCodes: ["60046"]
 localPaths: ["Lake County / elevation 755 ft band", "Lake County / coords 42.4100, -88.1300", "Lake County / ZIP 60046 sector", "Lake County / primary ZIP 60046"]
+zillowHomeValueUsd: 347465
 ---
 
 **Engineering Notice for Fox Lake Hills:** Structural integrity verification: Exterior Cladding calibrated for 95 mph localized wind load factor. Elevation: 755 ft AMSL. Coordinates: 42.4100, -88.1300. Regional dispatch grid: Lake County.

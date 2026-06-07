@@ -12,6 +12,7 @@ lng: -93.2500
 zipSample: ["65714"]
 zipCodes: ["65714"]
 localPaths: ["Christian County / ZIP 65714 sector", "Christian County / primary ZIP 65714", "Christian County / elevation 1296 ft band", "Christian County / coords 37.0600, -93.2500"]
+zillowHomeValueUsd: 322543
 ---
 
 **Engineering Notice for Fremont Hills:** System optimized for 160 mg/L hard water scaling factors in Fremont Hills. Regional dispatch grid: Christian County.

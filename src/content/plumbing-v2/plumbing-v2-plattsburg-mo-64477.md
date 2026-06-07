@@ -12,6 +12,7 @@ lng: -94.4600
 zipSample: ["64477"]
 zipCodes: ["64477"]
 localPaths: ["Clinton County / ZIP 64477 sector", "Clinton County / primary ZIP 64477", "Clinton County / coords 39.5600, -94.4600", "Clinton County / elevation 932 ft band"]
+zillowHomeValueUsd: 281426
 ---
 
 **Engineering Notice for Plattsburg:** System optimized for 124 mg/L hard water scaling factors in Plattsburg. Regional dispatch grid: Clinton County.

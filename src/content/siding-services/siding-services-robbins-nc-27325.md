@@ -12,6 +12,7 @@ lng: -79.5800
 zipSample: ["27325"]
 zipCodes: ["27325"]
 localPaths: ["Moore County / ZIP 27325 sector", "Moore County / coords 35.4300, -79.5800", "Moore County / primary ZIP 27325", "Moore County / elevation 469 ft band"]
+zillowHomeValueUsd: 174341
 ---
 
 **Engineering Notice for Robbins:** Cladding verification uses 99 mph routing baseline; lateral pressure note: 13.1 psf. Coordinates: 35.4300, -79.5800. Grid: Moore County.

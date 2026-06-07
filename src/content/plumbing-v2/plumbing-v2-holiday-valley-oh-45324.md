@@ -12,6 +12,7 @@ lng: -83.9600
 zipSample: ["45324"]
 zipCodes: ["45324"]
 localPaths: ["Clark County / ZIP 45324 sector", "Clark County / primary ZIP 45324", "Clark County / coords 39.8500, -83.9600", "Clark County / elevation 984 ft band"]
+zillowHomeValueUsd: 202779
 ---
 
 **Engineering Notice for Holiday Valley:** System optimized for 151 mg/L hard water scaling factors in Holiday Valley. Regional dispatch grid: Clark County.

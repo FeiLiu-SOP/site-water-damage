@@ -12,6 +12,7 @@ lng: -91.4400
 zipSample: ["72562"]
 zipCodes: ["72562"]
 localPaths: ["Independence County / ZIP 72562 sector", "Independence County / coords 35.7100, -91.4400", "Independence County / primary ZIP 72562", "Independence County / elevation 308 ft band"]
+zillowHomeValueUsd: 145317
 ---
 
 **Engineering Notice for Newark:** structural drying capacity optimized for 308ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Independence County. Relative Humidity Threshold: 67%. Sensor sync: Active.

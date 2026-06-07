@@ -12,6 +12,7 @@ lng: -122.4800
 zipSample: ["97360"]
 zipCodes: ["97360"]
 localPaths: ["Linn County / elevation 833 ft band", "Linn County / coords 44.7500, -122.4800", "Linn County / ZIP 97360 sector", "Linn County / primary ZIP 97360"]
+zillowHomeValueUsd: 359637
 ---
 
 **Engineering Notice for Mill City:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 1.22. Regional dispatch grid: Linn County.

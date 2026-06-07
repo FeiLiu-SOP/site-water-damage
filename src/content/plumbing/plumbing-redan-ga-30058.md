@@ -12,6 +12,7 @@ lng: -84.1600
 zipSample: ["30058", "30088", "30074"]
 zipCodes: ["30088", "30074", "30058"]
 localPaths: ["DeKalb County / ZIP 30058 sector", "DeKalb County / ZIP 30088 sector", "DeKalb County / ZIP 30074 sector", "DeKalb County / coords 33.7400, -84.1600", "DeKalb County / elevation 961 ft band"]
+zillowHomeValueUsd: 247312
 ---
 
 **Engineering Notice for Redan:** Structural loading calculated based on 961 ft terrain assessment. Regional dispatch grid: DeKalb County.

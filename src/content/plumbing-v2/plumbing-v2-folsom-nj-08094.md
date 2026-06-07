@@ -12,6 +12,7 @@ lng: -74.8400
 zipSample: ["08094", "08037"]
 zipCodes: ["08094", "08037"]
 localPaths: ["Atlantic County / elevation 75 ft band", "Atlantic County / coords 39.5900, -74.8400", "Atlantic County / primary ZIP 08094", "Atlantic County / ZIP 08037 sector", "Atlantic County / ZIP 08094 sector"]
+zillowHomeValueUsd: 365833
 ---
 
 **Engineering Notice for Folsom:** System optimized for 134 mg/L hard water scaling factors in Folsom. Regional dispatch grid: Atlantic County.

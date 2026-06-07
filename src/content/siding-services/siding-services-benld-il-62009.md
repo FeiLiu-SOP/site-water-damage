@@ -12,6 +12,7 @@ lng: -89.8000
 zipSample: ["62009"]
 zipCodes: ["62009"]
 localPaths: ["Macoupin County / elevation 623 ft band", "Macoupin County / ZIP 62009 sector", "Macoupin County / primary ZIP 62009", "Macoupin County / coords 39.0900, -89.8000"]
+zillowHomeValueUsd: 70469
 ---
 
 **Engineering Notice for Benld:** Site context locked to Macoupin County. Coordinates: 39.0900, -89.8000. Surface Sheathing integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -97.5900
 zipSample: ["78370"]
 zipCodes: ["78370"]
 localPaths: ["San Patricio County / ZIP 78370 sector", "San Patricio County / coords 27.9500, -97.5900", "San Patricio County / elevation 92 ft band", "San Patricio County / primary ZIP 78370"]
+zillowHomeValueUsd: 195533
 ---
 
 **Engineering Notice for Odem:** System optimized for 157 mg/L hard water scaling factors in Odem. Regional dispatch grid: San Patricio County.

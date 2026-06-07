@@ -12,6 +12,7 @@ lng: -78.4400
 zipSample: ["22968"]
 zipCodes: ["22968"]
 localPaths: ["Greene County / coords 38.2500, -78.4400", "Greene County / elevation 518 ft band", "Greene County / primary ZIP 22968", "Greene County / ZIP 22968 sector"]
+zillowHomeValueUsd: 393547
 ---
 
 **Engineering Notice for Twin Lakes:** System optimized for 165 mg/L hard water scaling factors in Twin Lakes. Regional dispatch grid: Greene County.

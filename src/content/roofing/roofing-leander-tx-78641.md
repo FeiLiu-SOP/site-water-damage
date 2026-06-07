@@ -11,6 +11,7 @@ lng: -97.8600
 zipSample: ["78641", "78646"]
 zipCodes: ["78641", "78646"]
 localPaths: ["Williamson County / ZIP 78641 sector", "Williamson County / ZIP 78646 sector", "Williamson County / coords 30.5700, -97.8600", "Williamson County / elevation 1024 ft band", "Williamson County / primary ZIP 78641"]
+zillowHomeValueUsd: 432246
 ---
 
 **Engineering Notice for Leander:** Structural loading calculated based on 1024 ft terrain assessment. Regional dispatch grid: Williamson County.

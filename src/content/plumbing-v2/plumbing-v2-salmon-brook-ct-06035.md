@@ -12,6 +12,7 @@ lng: -72.7900
 zipSample: ["06035"]
 zipCodes: ["06035"]
 localPaths: ["Capitol County / ZIP 06035 sector", "Capitol County / coords 41.9600, -72.7900", "Capitol County / elevation 253 ft band", "Capitol County / primary ZIP 06035"]
+zillowHomeValueUsd: 438372
 ---
 
 **Engineering Notice for Salmon Brook:** System optimized for 131 mg/L hard water scaling factors in Salmon Brook. Regional dispatch grid: Capitol County.

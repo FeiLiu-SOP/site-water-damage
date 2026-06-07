@@ -12,6 +12,7 @@ lng: -104.0700
 zipSample: ["80654"]
 zipCodes: ["80654"]
 localPaths: ["Morgan County / elevation 4557 ft band", "Morgan County / ZIP 80654 sector", "Morgan County / primary ZIP 80654", "Morgan County / coords 40.2300, -104.0700"]
+zillowHomeValueUsd: 426705
 ---
 
 **Engineering Notice for Wiggins:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Elevation: 4557 ft AMSL. Coordinates: 40.2300, -104.0700. Grid: Morgan County.

@@ -12,6 +12,7 @@ lng: -83.0600
 zipSample: ["28785", "28751"]
 zipCodes: ["28785", "28751"]
 localPaths: ["Haywood County / ZIP 28751 sector", "Haywood County / primary ZIP 28751", "Haywood County / ZIP 28785 sector", "Haywood County / elevation 3556 ft band", "Haywood County / coords 35.5200, -83.0600"]
+zillowHomeValueUsd: 389192
 ---
 
 **Engineering Notice for Maggie Valley:** Structural integrity verification: Facade Renewal calibrated for 96 mph localized wind load factor. Elevation: 3556 ft AMSL. Coordinates: 35.5200, -83.0600. Regional dispatch grid: Haywood County.

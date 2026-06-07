@@ -12,6 +12,7 @@ lng: -91.4300
 zipSample: ["65041"]
 zipCodes: ["65041"]
 localPaths: ["Gasconade County / coords 38.7000, -91.4300", "Gasconade County / primary ZIP 65041", "Gasconade County / elevation 666 ft band", "Gasconade County / ZIP 65041 sector"]
+zillowHomeValueUsd: 256976
 ---
 
 **Engineering Notice for Hermann:** Cladding Service was validated under stress factor 0.94; target tolerance set near 108 mph. Grid anchor: Gasconade County.

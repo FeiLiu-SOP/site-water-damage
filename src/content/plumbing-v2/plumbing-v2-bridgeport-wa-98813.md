@@ -12,6 +12,7 @@ lng: -119.6700
 zipSample: ["98813"]
 zipCodes: ["98813"]
 localPaths: ["Douglas County / ZIP 98813 sector", "Douglas County / elevation 856 ft band", "Douglas County / primary ZIP 98813", "Douglas County / coords 48.0100, -119.6700"]
+zillowHomeValueUsd: 233883
 ---
 
 **Engineering Notice for Bridgeport:** System optimized for 161 mg/L hard water scaling factors in Bridgeport. Regional dispatch grid: Douglas County.

@@ -12,6 +12,7 @@ lng: -114.1000
 zipSample: ["59864"]
 zipCodes: ["59864"]
 localPaths: ["Lake County / elevation 3054 ft band", "Lake County / ZIP 59864 sector", "Lake County / primary ZIP 59864", "Lake County / coords 47.5300, -114.1000"]
+zillowHomeValueUsd: 438305
 ---
 
 **Engineering Notice for Ronan:** Cladding verification uses 101 mph routing baseline; lateral pressure note: 13.3 psf. Elevation: 3054 ft AMSL. Coordinates: 47.5300, -114.1000. Grid: Lake County.

@@ -12,6 +12,7 @@ lng: -71.9200
 zipSample: ["06374"]
 zipCodes: ["06374"]
 localPaths: ["Northeastern Connecticut County / elevation 197 ft band", "Northeastern Connecticut County / coords 41.6800, -71.9200", "Northeastern Connecticut County / ZIP 06374 sector", "Northeastern Connecticut County / primary ZIP 06374"]
+zillowHomeValueUsd: 334185
 ---
 
 **Engineering Notice for Plainfield Village:** structural drying capacity optimized for 197ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Northeastern Connecticut County. Relative Humidity Threshold: 69%. Sensor sync: Active.

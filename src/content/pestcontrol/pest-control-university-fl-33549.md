@@ -11,6 +11,7 @@ lng: -82.4300
 zipSample: ["33559", "33613", "33549", "33612"]
 zipCodes: ["33612", "33613", "33559", "33549"]
 localPaths: ["Hillsborough County / ZIP 33559 sector", "Hillsborough County / ZIP 33549 sector", "Hillsborough County / coords 28.0800, -82.4300", "Hillsborough County / ZIP 33613 sector", "Hillsborough County / primary ZIP 33549"]
+zillowHomeValueUsd: 436511
 ---
 
 **Engineering Notice for University:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Hillsborough County.

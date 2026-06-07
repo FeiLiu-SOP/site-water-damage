@@ -12,6 +12,7 @@ lng: -98.0000
 zipSample: ["68620"]
 zipCodes: ["68620"]
 localPaths: ["Boone County / elevation 1781 ft band", "Boone County / primary ZIP 68620", "Boone County / ZIP 68620 sector", "Boone County / coords 41.6900, -98.0000"]
+zillowHomeValueUsd: 310862
 ---
 
 **Engineering Notice for Albion:** System optimized for 150 mg/L hard water scaling factors in Albion. Regional dispatch grid: Boone County.

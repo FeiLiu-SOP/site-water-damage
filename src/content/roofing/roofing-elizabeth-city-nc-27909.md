@@ -11,6 +11,7 @@ lng: -76.2400
 zipSample: ["27909", "27907", "27906"]
 zipCodes: ["27906", "27909", "27907"]
 localPaths: ["Pasquotank County / coords 36.2900, -76.2400", "Pasquotank County / elevation 7 ft band", "Pasquotank County / ZIP 27909 sector", "Pasquotank County / primary ZIP 27909", "Pasquotank County / ZIP 27907 sector"]
+zillowHomeValueUsd: 265809
 ---
 
 **Engineering Notice for Elizabeth City:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Pasquotank County.

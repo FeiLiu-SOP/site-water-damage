@@ -12,6 +12,7 @@ lng: -100.5300
 zipSample: ["67749"]
 zipCodes: ["67749"]
 localPaths: ["Decatur County / coords 39.8200, -100.5300", "Decatur County / ZIP 67749 sector", "Decatur County / elevation 2585 ft band", "Decatur County / primary ZIP 67749"]
+zillowHomeValueUsd: 111858
 ---
 
 **Engineering Notice for Oberlin:** System optimized for 173 mg/L hard water scaling factors in Oberlin. Regional dispatch grid: Decatur County.

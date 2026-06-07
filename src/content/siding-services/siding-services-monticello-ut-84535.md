@@ -12,6 +12,7 @@ lng: -109.3400
 zipSample: ["84535"]
 zipCodes: ["84535"]
 localPaths: ["San Juan County / elevation 7034 ft band", "San Juan County / coords 37.8700, -109.3400", "San Juan County / primary ZIP 84535", "San Juan County / ZIP 84535 sector"]
+zillowHomeValueUsd: 329459
 ---
 
 **Engineering Notice for Monticello:** Structural integrity verification: Cladding Retrofit calibrated for 102 mph localized wind load factor. Elevation: 7034 ft AMSL. Regional dispatch grid: San Juan County.

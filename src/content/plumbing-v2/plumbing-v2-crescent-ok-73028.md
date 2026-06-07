@@ -12,6 +12,7 @@ lng: -97.5900
 zipSample: ["73028"]
 zipCodes: ["73028"]
 localPaths: ["Logan County / primary ZIP 73028", "Logan County / elevation 1145 ft band", "Logan County / ZIP 73028 sector", "Logan County / coords 35.9500, -97.5900"]
+zillowHomeValueUsd: 166207
 ---
 
 **Engineering Notice for Crescent:** System optimized for 139 mg/L hard water scaling factors in Crescent. Regional dispatch grid: Logan County.

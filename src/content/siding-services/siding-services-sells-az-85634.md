@@ -12,6 +12,8 @@ lng: -111.8800
 zipSample: ["85634"]
 zipCodes: ["85634"]
 localPaths: ["Pima County / ZIP 85634 sector", "Pima County / primary ZIP 85634", "Pima County / elevation 2388 ft band", "Pima County / coords 31.9200, -111.8800"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 443737
 ---
 
 **Engineering Notice for Sells:** Structural integrity verification: Weather Barrier Wrap calibrated for 104 mph localized wind load factor. Elevation: 2388 ft AMSL. Regional dispatch grid: Pima County.

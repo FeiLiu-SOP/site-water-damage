@@ -12,6 +12,7 @@ lng: -116.3700
 zipSample: ["92255", "92211", "92260"]
 zipCodes: ["92255", "92260", "92211"]
 localPaths: ["Riverside County / elevation 154 ft band", "Riverside County / ZIP 92211 sector", "Riverside County / coords 33.7400, -116.3700", "Riverside County / ZIP 92255 sector", "Riverside County / ZIP 92260 sector"]
+zillowHomeValueUsd: 589967
 ---
 
 **Engineering Notice for Palm Desert:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Riverside County.

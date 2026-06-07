@@ -12,6 +12,7 @@ lng: -73.8400
 zipSample: ["10567", "10598", "10547"]
 zipCodes: ["10547", "10598", "10567"]
 localPaths: ["Westchester County / ZIP 10598 sector", "Westchester County / elevation 328 ft band", "Westchester County / ZIP 10547 sector", "Westchester County / primary ZIP 10598", "Westchester County / coords 41.2900, -73.8400"]
+zillowHomeValueUsd: 700226
 ---
 
 **Engineering Notice for Crompond:** Site context locked to Westchester County. Elevation: 328 ft AMSL. Coordinates: 41.2900, -73.8400. Cladding Retrofit integrity verification recorded.

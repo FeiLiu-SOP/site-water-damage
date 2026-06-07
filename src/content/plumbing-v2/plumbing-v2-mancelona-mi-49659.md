@@ -12,6 +12,7 @@ lng: -85.0600
 zipSample: ["49659"]
 zipCodes: ["49659"]
 localPaths: ["Antrim County / ZIP 49659 sector", "Antrim County / primary ZIP 49659", "Antrim County / coords 44.9000, -85.0600", "Antrim County / elevation 1115 ft band"]
+zillowHomeValueUsd: 201293
 ---
 
 **Engineering Notice for Mancelona:** System optimized for 171 mg/L hard water scaling factors in Mancelona. Regional dispatch grid: Antrim County.

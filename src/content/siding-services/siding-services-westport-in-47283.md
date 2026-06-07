@@ -12,6 +12,7 @@ lng: -85.5700
 zipSample: ["47283"]
 zipCodes: ["47283"]
 localPaths: ["Decatur County / elevation 801 ft band", "Decatur County / primary ZIP 47283", "Decatur County / ZIP 47283 sector", "Decatur County / coords 39.1800, -85.5700"]
+zillowHomeValueUsd: 238250
 ---
 
 **Engineering Notice for Westport:** Cladding verification uses 94 mph routing baseline; lateral pressure note: 12.5 psf. Elevation: 801 ft AMSL. Coordinates: 39.1800, -85.5700. Grid: Decatur County.

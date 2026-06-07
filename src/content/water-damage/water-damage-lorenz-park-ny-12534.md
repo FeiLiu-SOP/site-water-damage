@@ -12,6 +12,7 @@ lng: -73.7700
 zipSample: ["12534"]
 zipCodes: ["12534"]
 localPaths: ["Columbia County / ZIP 12534 sector", "Columbia County / elevation 203 ft band", "Columbia County / coords 42.2700, -73.7700", "Columbia County / primary ZIP 12534"]
+zillowHomeValueUsd: 428617
 ---
 
 **Engineering Notice for Lorenz Park:** structural drying capacity optimized for 203ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Columbia County. Relative Humidity Threshold: 67%. Sensor sync: Active.

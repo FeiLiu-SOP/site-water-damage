@@ -12,6 +12,7 @@ lng: -73.2800
 zipSample: ["11731", "11725"]
 zipCodes: ["11731", "11725"]
 localPaths: ["Suffolk County / ZIP 11725 sector", "Suffolk County / primary ZIP 11725", "Suffolk County / ZIP 11731 sector", "Suffolk County / coords 40.8400, -73.2800", "Suffolk County / elevation 151 ft band"]
+zillowHomeValueUsd: 791893
 ---
 
 **Engineering Notice for Commack:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: Suffolk County.

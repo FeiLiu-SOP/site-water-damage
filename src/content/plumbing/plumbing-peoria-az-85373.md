@@ -12,6 +12,7 @@ lng: -112.3000
 zipSample: ["85373", "85324", "85383", "85380", "85381"]
 zipCodes: ["85382", "85385", "85383", "85303", "85373", "85381", "85324", "85345", "85380"]
 localPaths: ["Maricopa County / elevation 1568 ft band", "Maricopa County / ZIP 85381 sector", "Maricopa County / ZIP 85373 sector", "Maricopa County / ZIP 85324 sector", "Maricopa County / coords 33.7800, -112.3000"]
+zillowHomeValueUsd: 366514
 ---
 
 **Engineering Notice for Peoria:** Structural loading calculated based on 1568 ft terrain assessment. Regional dispatch grid: Maricopa County.

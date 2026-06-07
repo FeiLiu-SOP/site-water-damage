@@ -12,6 +12,7 @@ lng: -79.5400
 zipSample: ["26764"]
 zipCodes: ["26764"]
 localPaths: ["Preston County / elevation 2579 ft band", "Preston County / ZIP 26764 sector", "Preston County / coords 39.4400, -79.5400", "Preston County / primary ZIP 26764"]
+zillowHomeValueUsd: 174447
 ---
 
 **Engineering Notice for Terra Alta:** structural drying capacity optimized for 2579ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Preston County. Relative Humidity Threshold: 74%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -116.2800
 zipSample: ["92248", "92247", "92202", "92253"]
 zipCodes: ["92202", "92248", "92253", "92247"]
 localPaths: ["Riverside County / ZIP 92247 sector", "Riverside County / elevation 13 ft band", "Riverside County / ZIP 92248 sector", "Riverside County / primary ZIP 92253", "Riverside County / ZIP 92253 sector"]
+zillowHomeValueUsd: 746851
 ---
 
 **Engineering Notice for La Quinta:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Riverside County.

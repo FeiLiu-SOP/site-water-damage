@@ -12,6 +12,8 @@ lng: -66.4400
 zipSample: ["00687"]
 zipCodes: ["00687"]
 localPaths: ["Morovis County / ZIP 00687 sector", "Morovis County / primary ZIP 00687", "Morovis County / coords 18.3500, -66.4400", "Morovis County / elevation 561 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 373641
 ---
 
 **Engineering Notice for Barahona:** Structural integrity verification: Surface Sheathing calibrated for 102 mph localized wind load factor. Elevation: 561 ft AMSL. Regional dispatch grid: Morovis County.

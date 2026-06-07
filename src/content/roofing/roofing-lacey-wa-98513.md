@@ -11,6 +11,7 @@ lng: -122.7900
 zipSample: ["98516", "98503", "98509", "98513"]
 zipCodes: ["98516", "98503", "98513", "98509"]
 localPaths: ["Thurston County / elevation 174 ft band", "Thurston County / ZIP 98509 sector", "Thurston County / coords 47.0500, -122.7900", "Thurston County / primary ZIP 98513", "Thurston County / ZIP 98503 sector"]
+zillowHomeValueUsd: 507981
 ---
 
 **Engineering Notice for Lacey:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Thurston County.

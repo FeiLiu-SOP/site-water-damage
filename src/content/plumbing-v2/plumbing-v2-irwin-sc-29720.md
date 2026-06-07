@@ -12,6 +12,7 @@ lng: -80.8200
 zipSample: ["29720"]
 zipCodes: ["29720"]
 localPaths: ["Lancaster County / elevation 509 ft band", "Lancaster County / coords 34.6900, -80.8200", "Lancaster County / ZIP 29720 sector", "Lancaster County / primary ZIP 29720"]
+zillowHomeValueUsd: 291603
 ---
 
 **Engineering Notice for Irwin:** System optimized for 162 mg/L hard water scaling factors in Irwin. Regional dispatch grid: Lancaster County.

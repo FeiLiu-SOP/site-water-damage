@@ -12,6 +12,7 @@ lng: -121.2600
 zipSample: ["95363"]
 zipCodes: ["95363"]
 localPaths: ["Stanislaus County / elevation 1027 ft band", "Stanislaus County / coords 37.4000, -121.2600", "Stanislaus County / primary ZIP 95363", "Stanislaus County / ZIP 95363 sector"]
+zillowHomeValueUsd: 510497
 ---
 
 **Engineering Notice for Diablo Grande:** System optimized for 145 mg/L hard water scaling factors in Diablo Grande. Regional dispatch grid: Stanislaus County.

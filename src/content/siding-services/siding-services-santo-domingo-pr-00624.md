@@ -12,6 +12,8 @@ lng: -66.7500
 zipSample: ["00624"]
 zipCodes: ["00624"]
 localPaths: ["Peñuelas County / primary ZIP 00624", "Peñuelas County / elevation 1188 ft band", "Peñuelas County / ZIP 00624 sector", "Peñuelas County / coords 18.0700, -66.7500"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 362159
 ---
 
 **Engineering Notice for Santo Domingo:** Cladding Service was validated under stress factor 1.08; target tolerance set near 98 mph. Coordinates: 18.0700, -66.7500. Grid anchor: Peñuelas County.

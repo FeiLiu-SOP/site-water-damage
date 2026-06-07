@@ -12,6 +12,7 @@ lng: -97.6000
 zipSample: ["68361"]
 zipCodes: ["68361"]
 localPaths: ["Fillmore County / coords 40.5300, -97.6000", "Fillmore County / elevation 1650 ft band", "Fillmore County / ZIP 68361 sector", "Fillmore County / primary ZIP 68361"]
+zillowHomeValueUsd: 176342
 ---
 
 **Engineering Notice for Geneva:** System optimized for 131 mg/L hard water scaling factors in Geneva. Regional dispatch grid: Fillmore County.

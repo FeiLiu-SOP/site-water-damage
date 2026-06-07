@@ -11,6 +11,7 @@ lng: -81.4800
 zipSample: ["34758", "34759", "33896"]
 zipCodes: ["33896", "34759", "34758"]
 localPaths: ["Polk County / ZIP 34758 sector", "Polk County / ZIP 34759 sector", "Polk County / primary ZIP 33896", "Polk County / elevation 92 ft band", "Polk County / ZIP 33896 sector"]
+zillowHomeValueUsd: 356478
 ---
 
 **Engineering Notice for Poinciana:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Polk County.

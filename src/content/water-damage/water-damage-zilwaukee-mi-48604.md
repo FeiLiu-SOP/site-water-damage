@@ -12,6 +12,7 @@ lng: -83.9200
 zipSample: ["48604"]
 zipCodes: ["48604"]
 localPaths: ["Saginaw County / primary ZIP 48604", "Saginaw County / ZIP 48604 sector", "Saginaw County / coords 43.4800, -83.9200", "Saginaw County / elevation 591 ft band"]
+zillowHomeValueUsd: 136806
 ---
 
 **Engineering Notice for Zilwaukee:** structural drying capacity optimized for 591ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Saginaw County. Relative Humidity Threshold: 70%. Sensor sync: Active.

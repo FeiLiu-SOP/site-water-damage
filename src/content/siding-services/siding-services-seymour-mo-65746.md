@@ -12,6 +12,7 @@ lng: -92.7700
 zipSample: ["65746"]
 zipCodes: ["65746"]
 localPaths: ["Webster County / coords 37.1500, -92.7700", "Webster County / ZIP 65746 sector", "Webster County / elevation 1657 ft band", "Webster County / primary ZIP 65746"]
+zillowHomeValueUsd: 247022
 ---
 
 **Engineering Notice for Seymour:** Envelope check: Cladding Retrofit assigned to wind-load band A with stress factor 1.08. Regional dispatch grid: Webster County.

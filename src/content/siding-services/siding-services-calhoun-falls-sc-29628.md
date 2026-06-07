@@ -12,6 +12,7 @@ lng: -82.6000
 zipSample: ["29628"]
 zipCodes: ["29628"]
 localPaths: ["Abbeville County / ZIP 29628 sector", "Abbeville County / primary ZIP 29628", "Abbeville County / elevation 538 ft band", "Abbeville County / coords 34.0900, -82.6000"]
+zillowHomeValueUsd: 108124
 ---
 
 **Engineering Notice for Calhoun Falls:** Site context locked to Abbeville County. Coordinates: 34.0900, -82.6000. Facade Renewal integrity verification recorded.

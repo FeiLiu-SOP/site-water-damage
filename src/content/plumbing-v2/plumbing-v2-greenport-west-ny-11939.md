@@ -12,6 +12,7 @@ lng: -72.3700
 zipSample: ["11939", "11944"]
 zipCodes: ["11939", "11944"]
 localPaths: ["Suffolk County / elevation 16 ft band", "Suffolk County / coords 41.1000, -72.3700", "Suffolk County / ZIP 11939 sector", "Suffolk County / primary ZIP 11939", "Suffolk County / ZIP 11944 sector"]
+zillowHomeValueUsd: 1175684
 ---
 
 **Engineering Notice for Greenport West:** System optimized for 168 mg/L hard water scaling factors in Greenport West. Regional dispatch grid: Suffolk County.

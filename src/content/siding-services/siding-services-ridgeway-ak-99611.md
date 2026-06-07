@@ -12,6 +12,7 @@ lng: -151.0300
 zipSample: ["99611", "99669"]
 zipCodes: ["99669", "99611"]
 localPaths: ["Kenai Peninsula County / elevation 0 ft band", "Kenai Peninsula County / primary ZIP 99611", "Kenai Peninsula County / ZIP 99611 sector", "Kenai Peninsula County / ZIP 99669 sector", "Kenai Peninsula County / coords 60.5300, -151.0300"]
+zillowHomeValueUsd: 317039
 ---
 
 **Engineering Notice for Ridgeway:** Site context locked to Kenai Peninsula County. Cladding Retrofit integrity verification recorded.

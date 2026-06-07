@@ -12,6 +12,7 @@ lng: -87.7800
 zipSample: ["53044"]
 zipCodes: ["53044"]
 localPaths: ["Sheboygan County / coords 43.7400, -87.7800", "Sheboygan County / ZIP 53044 sector", "Sheboygan County / primary ZIP 53044", "Sheboygan County / elevation 682 ft band"]
+zillowHomeValueUsd: 432492
 ---
 
 **Engineering Notice for Kohler:** System optimized for 130 mg/L hard water scaling factors in Kohler. Regional dispatch grid: Sheboygan County.

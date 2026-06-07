@@ -12,6 +12,7 @@ lng: -85.9600
 zipSample: ["36268"]
 zipCodes: ["36268"]
 localPaths: ["Talladega County / elevation 627 ft band", "Talladega County / ZIP 36268 sector", "Talladega County / coords 33.5300, -85.9600", "Talladega County / primary ZIP 36268"]
+zillowHomeValueUsd: 201298
 ---
 
 **Engineering Notice for Munford:** Exterior Cladding was validated under stress factor 0.91; target tolerance set near 102 mph. Grid anchor: Talladega County.

@@ -12,6 +12,7 @@ lng: -117.0100
 zipSample: ["91908", "91910", "91902", "91912", "91921"]
 zipCodes: ["91902", "91912", "91908", "91911", "91921", "91914", "91913", "91915", "91910", "91909"]
 localPaths: ["San Diego County / ZIP 91908 sector", "San Diego County / ZIP 91912 sector", "San Diego County / ZIP 91921 sector", "San Diego County / primary ZIP 91911", "San Diego County / ZIP 91910 sector"]
+zillowHomeValueUsd: 771275
 ---
 
 **Engineering Notice for Chula Vista:** Structural loading calculated based on 459 ft terrain assessment. Regional dispatch grid: San Diego County.

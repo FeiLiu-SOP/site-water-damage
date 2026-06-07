@@ -12,6 +12,7 @@ lng: -75.2600
 zipSample: ["18085", "18045"]
 zipCodes: ["18085", "18045"]
 localPaths: ["Northampton County / ZIP 18085 sector", "Northampton County / primary ZIP 18085", "Northampton County / elevation 394 ft band", "Northampton County / ZIP 18045 sector", "Northampton County / coords 40.7400, -75.2600"]
+zillowHomeValueUsd: 358523
 ---
 
 **Engineering Notice for Tatamy:** System optimized for 148 mg/L hard water scaling factors in Tatamy. Regional dispatch grid: Northampton County.

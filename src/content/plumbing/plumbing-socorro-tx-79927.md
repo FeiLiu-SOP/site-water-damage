@@ -12,6 +12,7 @@ lng: -106.2600
 zipSample: ["79927"]
 zipCodes: ["79927"]
 localPaths: ["El Paso County / ZIP 79927 sector", "El Paso County / coords 31.6400, -106.2600", "El Paso County / primary ZIP 79927", "El Paso County / elevation 3632 ft band"]
+zillowHomeValueUsd: 204022
 ---
 
 **Engineering Notice for Socorro:** Structural loading calculated based on 3632 ft terrain assessment. Regional dispatch grid: El Paso County.

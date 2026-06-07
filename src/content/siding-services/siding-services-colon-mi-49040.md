@@ -12,6 +12,7 @@ lng: -85.3200
 zipSample: ["49040"]
 zipCodes: ["49040"]
 localPaths: ["St. Joseph County / ZIP 49040 sector", "St. Joseph County / primary ZIP 49040", "St. Joseph County / coords 41.9600, -85.3200", "St. Joseph County / elevation 853 ft band"]
+zillowHomeValueUsd: 199190
 ---
 
 **Engineering Notice for Colon:** Weather Barrier Wrap was validated under stress factor 0.83; target tolerance set near 103 mph. Grid anchor: St. Joseph County.

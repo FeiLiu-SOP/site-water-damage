@@ -11,6 +11,7 @@ lng: -97.4800
 zipSample: ["73153", "73160"]
 zipCodes: ["73153", "73160"]
 localPaths: ["Cleveland County / elevation 1227 ft band", "Cleveland County / ZIP 73160 sector", "Cleveland County / ZIP 73153 sector", "Cleveland County / coords 35.3300, -97.4800", "Cleveland County / primary ZIP 73160"]
+zillowHomeValueUsd: 223890
 ---
 
 **Engineering Notice for Moore:** Structural loading calculated based on 1227 ft terrain assessment. Regional dispatch grid: Cleveland County.

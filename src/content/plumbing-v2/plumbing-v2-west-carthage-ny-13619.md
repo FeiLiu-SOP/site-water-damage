@@ -12,6 +12,7 @@ lng: -75.6200
 zipSample: ["13619"]
 zipCodes: ["13619"]
 localPaths: ["Jefferson County / coords 43.9700, -75.6200", "Jefferson County / ZIP 13619 sector", "Jefferson County / elevation 791 ft band", "Jefferson County / primary ZIP 13619"]
+zillowHomeValueUsd: 193403
 ---
 
 **Engineering Notice for West Carthage:** System optimized for 121 mg/L hard water scaling factors in West Carthage. Regional dispatch grid: Jefferson County.

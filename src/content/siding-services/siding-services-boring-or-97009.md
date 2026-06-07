@@ -12,6 +12,7 @@ lng: -122.3700
 zipSample: ["97009"]
 zipCodes: ["97009"]
 localPaths: ["Clackamas County / primary ZIP 97009", "Clackamas County / coords 45.4300, -122.3700", "Clackamas County / elevation 502 ft band", "Clackamas County / ZIP 97009 sector"]
+zillowHomeValueUsd: 717035
 ---
 
 **Engineering Notice for Boring:** Structural integrity verification: Exterior Cladding calibrated for 90 mph localized wind load factor. Elevation: 502 ft AMSL. Coordinates: 45.4300, -122.3700. Regional dispatch grid: Clackamas County.

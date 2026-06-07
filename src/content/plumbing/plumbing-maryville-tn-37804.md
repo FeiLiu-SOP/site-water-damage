@@ -12,6 +12,7 @@ lng: -83.9800
 zipSample: ["37804", "37802", "37801", "37803"]
 zipCodes: ["37803", "37804", "37801", "37802"]
 localPaths: ["Blount County / ZIP 37801 sector", "Blount County / ZIP 37803 sector", "Blount County / elevation 984 ft band", "Blount County / primary ZIP 37804", "Blount County / ZIP 37802 sector"]
+zillowHomeValueUsd: 352368
 ---
 
 **Engineering Notice for Maryville:** Structural loading calculated based on 984 ft terrain assessment. Regional dispatch grid: Blount County.

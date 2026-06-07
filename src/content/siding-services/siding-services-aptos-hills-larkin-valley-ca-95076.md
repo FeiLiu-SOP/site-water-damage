@@ -12,6 +12,7 @@ lng: -121.8300
 zipSample: ["95076", "95003"]
 zipCodes: ["95076", "95003"]
 localPaths: ["Santa Cruz County / primary ZIP 95076", "Santa Cruz County / ZIP 95076 sector", "Santa Cruz County / elevation 269 ft band", "Santa Cruz County / coords 36.9600, -121.8300", "Santa Cruz County / ZIP 95003 sector"]
+zillowHomeValueUsd: 839638
 ---
 
 **Engineering Notice for Aptos Hills-Larkin Valley:** Panel Replacement was validated under stress factor 0.84; target tolerance set near 142 mph. Grid anchor: Santa Cruz County.

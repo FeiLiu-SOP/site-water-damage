@@ -12,6 +12,7 @@ lng: -97.6500
 zipSample: ["76665"]
 zipCodes: ["76665"]
 localPaths: ["Bosque County / ZIP 76665 sector", "Bosque County / elevation 771 ft band", "Bosque County / coords 31.9300, -97.6500", "Bosque County / primary ZIP 76665"]
+zillowHomeValueUsd: 268929
 ---
 
 **Engineering Notice for Meridian:** Panel Replacement was validated under stress factor 1.24; target tolerance set near 135 mph. Grid anchor: Bosque County.

@@ -11,6 +11,7 @@ lng: -117.9700
 zipSample: ["91716", "91745"]
 zipCodes: ["91716", "91745"]
 localPaths: ["Los Angeles County / elevation 423 ft band", "Los Angeles County / coords 34.0000, -117.9700", "Los Angeles County / ZIP 91745 sector", "Los Angeles County / primary ZIP 91745", "Los Angeles County / ZIP 91716 sector"]
+zillowHomeValueUsd: 962703
 ---
 
 **Engineering Notice for Hacienda Heights:** Structural loading calculated based on 423 ft terrain assessment. Regional dispatch grid: Los Angeles County.

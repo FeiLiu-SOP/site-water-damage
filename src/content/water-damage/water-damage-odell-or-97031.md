@@ -12,6 +12,7 @@ lng: -121.5500
 zipSample: ["97031", "97044"]
 zipCodes: ["97044", "97031"]
 localPaths: ["Hood River County / coords 45.6400, -121.5500", "Hood River County / ZIP 97031 sector", "Hood River County / elevation 719 ft band", "Hood River County / primary ZIP 97031", "Hood River County / ZIP 97044 sector"]
+zillowHomeValueUsd: 712315
 ---
 
 **Engineering Notice for Odell:** structural drying capacity optimized for 719ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hood River County. Relative Humidity Threshold: 71%. Sensor sync: Active.

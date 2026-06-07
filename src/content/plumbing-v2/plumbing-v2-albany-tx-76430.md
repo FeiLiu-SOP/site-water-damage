@@ -12,6 +12,7 @@ lng: -99.3000
 zipSample: ["76430"]
 zipCodes: ["76430"]
 localPaths: ["Shackelford County / coords 32.7300, -99.3000", "Shackelford County / primary ZIP 76430", "Shackelford County / ZIP 76430 sector", "Shackelford County / elevation 1437 ft band"]
+zillowHomeValueUsd: 159651
 ---
 
 **Engineering Notice for Albany:** System optimized for 170 mg/L hard water scaling factors in Albany. Regional dispatch grid: Shackelford County.

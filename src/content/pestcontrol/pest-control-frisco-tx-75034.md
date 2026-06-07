@@ -11,6 +11,7 @@ lng: -96.8200
 zipSample: ["75034", "75033", "75036", "75035"]
 zipCodes: ["75034", "75033", "75035", "75036"]
 localPaths: ["Collin County / ZIP 75036 sector", "Collin County / ZIP 75034 sector", "Collin County / primary ZIP 75034", "Collin County / ZIP 75033 sector", "Collin County / ZIP 75035 sector"]
+zillowHomeValueUsd: 676173
 ---
 
 **Engineering Notice for Frisco:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: Collin County.

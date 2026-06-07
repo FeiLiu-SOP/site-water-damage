@@ -12,6 +12,7 @@ lng: -86.7700
 zipSample: ["37152", "37073", "37072"]
 zipCodes: ["37152", "37072", "37073"]
 localPaths: ["Robertson County / ZIP 37152 sector", "Robertson County / elevation 869 ft band", "Robertson County / ZIP 37072 sector", "Robertson County / primary ZIP 37072", "Robertson County / coords 36.4000, -86.7700"]
+zillowHomeValueUsd: 404728
 ---
 
 **Engineering Notice for Ridgetop:** structural drying capacity optimized for 869ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Robertson County. Relative Humidity Threshold: 75%. Sensor sync: Active.

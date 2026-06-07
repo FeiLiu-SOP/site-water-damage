@@ -11,6 +11,7 @@ lng: -84.5400
 zipSample: ["45014"]
 zipCodes: ["45014"]
 localPaths: ["Butler County / coords 39.3300, -84.5400", "Butler County / primary ZIP 45014", "Butler County / ZIP 45014 sector", "Butler County / elevation 663 ft band"]
+zillowHomeValueUsd: 280218
 ---
 
 **Engineering Notice for Fairfield:** Structural loading calculated based on 663 ft terrain assessment. Regional dispatch grid: Butler County.

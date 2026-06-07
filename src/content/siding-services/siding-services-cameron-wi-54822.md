@@ -12,6 +12,7 @@ lng: -91.7400
 zipSample: ["54822"]
 zipCodes: ["54822"]
 localPaths: ["Barron County / elevation 1086 ft band", "Barron County / primary ZIP 54822", "Barron County / coords 45.4100, -91.7400", "Barron County / ZIP 54822 sector"]
+zillowHomeValueUsd: 299930
 ---
 
 **Engineering Notice for Cameron:** Envelope check: Exterior Envelope assigned to wind-load band A with stress factor 1.23. Elevation: 1086 ft AMSL. Regional dispatch grid: Barron County.

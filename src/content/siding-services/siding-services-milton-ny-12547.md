@@ -12,6 +12,7 @@ lng: -73.9700
 zipSample: ["12547", "12542"]
 zipCodes: ["12547", "12542"]
 localPaths: ["Ulster County / ZIP 12547 sector", "Ulster County / elevation 312 ft band", "Ulster County / coords 41.6600, -73.9700", "Ulster County / ZIP 12542 sector", "Ulster County / primary ZIP 12547"]
+zillowHomeValueUsd: 463537
 ---
 
 **Engineering Notice for Milton:** Envelope check: Wall Restoration assigned to wind-load band B with stress factor 0.79. Elevation: 312 ft AMSL. Regional dispatch grid: Ulster County.

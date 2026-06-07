@@ -12,6 +12,7 @@ lng: -106.9000
 zipSample: ["88007"]
 zipCodes: ["88007"]
 localPaths: ["Doña Ana County / ZIP 88007 sector", "Doña Ana County / primary ZIP 88007", "Doña Ana County / elevation 3950 ft band", "Doña Ana County / coords 32.4800, -106.9000"]
+zillowHomeValueUsd: 325970
 ---
 
 **Engineering Notice for Radium Springs:** Panel Replacement was validated under stress factor 1.24; target tolerance set near 110 mph. Coordinates: 32.4800, -106.9000. Grid anchor: Doña Ana County.

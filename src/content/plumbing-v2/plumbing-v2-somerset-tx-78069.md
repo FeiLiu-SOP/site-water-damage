@@ -12,6 +12,7 @@ lng: -98.6600
 zipSample: ["78073", "78069"]
 zipCodes: ["78073", "78069"]
 localPaths: ["Bexar County / ZIP 78073 sector", "Bexar County / primary ZIP 78069", "Bexar County / coords 29.2300, -98.6600", "Bexar County / elevation 659 ft band", "Bexar County / ZIP 78069 sector"]
+zillowHomeValueUsd: 234630
 ---
 
 **Engineering Notice for Somerset:** System optimized for 124 mg/L hard water scaling factors in Somerset. Regional dispatch grid: Bexar County.

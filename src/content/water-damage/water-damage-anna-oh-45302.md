@@ -12,6 +12,7 @@ lng: -84.1800
 zipSample: ["45302"]
 zipCodes: ["45302"]
 localPaths: ["Shelby County / coords 40.4000, -84.1800", "Shelby County / elevation 1020 ft band", "Shelby County / primary ZIP 45302", "Shelby County / ZIP 45302 sector"]
+zillowHomeValueUsd: 321944
 ---
 
 **Engineering Notice for Anna:** structural drying capacity optimized for 1020ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Shelby County. Relative Humidity Threshold: 74%. Sensor sync: Active.

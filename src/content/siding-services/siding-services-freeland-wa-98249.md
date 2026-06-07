@@ -12,6 +12,7 @@ lng: -122.5400
 zipSample: ["98249"]
 zipCodes: ["98249"]
 localPaths: ["Island County / elevation 0 ft band", "Island County / coords 48.0200, -122.5400", "Island County / ZIP 98249 sector", "Island County / primary ZIP 98249"]
+zillowHomeValueUsd: 741052
 ---
 
 **Engineering Notice for Freeland:** Cladding verification uses 107 mph routing baseline; lateral pressure note: 14.0 psf. Grid: Island County.

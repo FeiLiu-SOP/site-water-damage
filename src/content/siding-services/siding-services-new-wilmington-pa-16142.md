@@ -12,6 +12,7 @@ lng: -80.3300
 zipSample: ["16172", "16142"]
 zipCodes: ["16142", "16172"]
 localPaths: ["Lawrence County / ZIP 16142 sector", "Lawrence County / primary ZIP 16142", "Lawrence County / ZIP 16172 sector", "Lawrence County / coords 41.1200, -80.3300", "Lawrence County / elevation 1004 ft band"]
+zillowHomeValueUsd: 260299
 ---
 
 **Engineering Notice for New Wilmington:** Weather Barrier Wrap was validated under stress factor 0.92; target tolerance set near 103 mph. Grid anchor: Lawrence County.

@@ -12,6 +12,7 @@ lng: -82.8800
 zipSample: ["48005"]
 zipCodes: ["48005"]
 localPaths: ["Macomb County / elevation 751 ft band", "Macomb County / primary ZIP 48005", "Macomb County / ZIP 48005 sector", "Macomb County / coords 42.8400, -82.8800"]
+zillowHomeValueUsd: 374456
 ---
 
 **Engineering Notice for Armada:** Exterior Cladding was validated under stress factor 0.84; target tolerance set near 99 mph. Coordinates: 42.8400, -82.8800. Grid anchor: Macomb County.

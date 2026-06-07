@@ -12,6 +12,7 @@ lng: -73.6900
 zipSample: ["10536"]
 zipCodes: ["10536"]
 localPaths: ["Westchester County / elevation 249 ft band", "Westchester County / primary ZIP 10536", "Westchester County / coords 41.2600, -73.6900", "Westchester County / ZIP 10536 sector"]
+zillowHomeValueUsd: 1075572
 ---
 
 **Engineering Notice for Katonah:** System optimized for 179 mg/L hard water scaling factors in Katonah. Regional dispatch grid: Westchester County.

@@ -11,6 +11,7 @@ lng: -73.0400
 zipSample: ["11738"]
 zipCodes: ["11738"]
 localPaths: ["Suffolk County / ZIP 11738 sector", "Suffolk County / primary ZIP 11738", "Suffolk County / coords 40.8400, -73.0400", "Suffolk County / elevation 253 ft band"]
+zillowHomeValueUsd: 640233
 ---
 
 **Engineering Notice for Farmingville:** Structural loading calculated based on 253 ft terrain assessment. Regional dispatch grid: Suffolk County.

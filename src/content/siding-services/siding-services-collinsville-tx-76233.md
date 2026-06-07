@@ -12,6 +12,7 @@ lng: -96.9100
 zipSample: ["76233"]
 zipCodes: ["76233"]
 localPaths: ["Grayson County / elevation 748 ft band", "Grayson County / coords 33.5600, -96.9100", "Grayson County / primary ZIP 76233", "Grayson County / ZIP 76233 sector"]
+zillowHomeValueUsd: 382349
 ---
 
 **Engineering Notice for Collinsville:** Surface Sheathing was validated under stress factor 0.92; target tolerance set near 148 mph. Coordinates: 33.5600, -96.9100. Grid anchor: Grayson County.

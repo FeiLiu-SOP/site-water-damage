@@ -12,6 +12,7 @@ lng: -97.3200
 zipSample: ["76692"]
 zipCodes: ["76692"]
 localPaths: ["Hill County / primary ZIP 76692", "Hill County / coords 31.9500, -97.3200", "Hill County / ZIP 76692 sector", "Hill County / elevation 591 ft band"]
+zillowHomeValueUsd: 219952
 ---
 
 **Engineering Notice for Whitney:** System optimized for 152 mg/L hard water scaling factors in Whitney. Regional dispatch grid: Hill County.

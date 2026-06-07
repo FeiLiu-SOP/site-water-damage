@@ -12,6 +12,7 @@ lng: -96.9600
 zipSample: ["68465"]
 zipCodes: ["68465"]
 localPaths: ["Saline County / ZIP 68465 sector", "Saline County / primary ZIP 68465", "Saline County / elevation 1342 ft band", "Saline County / coords 40.4800, -96.9600"]
+zillowHomeValueUsd: 218809
 ---
 
 **Engineering Notice for Wilber:** structural drying capacity optimized for 1342ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Saline County. Relative Humidity Threshold: 80%. Sensor sync: Active.

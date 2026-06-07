@@ -12,6 +12,8 @@ lng: -81.3300
 zipSample: ["44652", "44721"]
 zipCodes: ["44652", "44721"]
 localPaths: ["Stark County / elevation 1112 ft band", "Stark County / ZIP 44721 sector", "Stark County / ZIP 44652 sector", "Stark County / primary ZIP 44652", "Stark County / coords 40.9000, -81.3300"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 237050
 ---
 
 **Engineering Notice for Middlebranch:** Surface Sheathing was validated under stress factor 0.70; target tolerance set near 106 mph. Coordinates: 40.9000, -81.3300. Grid anchor: Stark County.

@@ -12,6 +12,7 @@ lng: -88.8500
 zipSample: ["60146"]
 zipCodes: ["60146"]
 localPaths: ["DeKalb County / ZIP 60146 sector", "DeKalb County / elevation 784 ft band", "DeKalb County / coords 42.0900, -88.8500", "DeKalb County / primary ZIP 60146"]
+zillowHomeValueUsd: 277449
 ---
 
 **Engineering Notice for Kirkland:** System optimized for 151 mg/L hard water scaling factors in Kirkland. Regional dispatch grid: DeKalb County.

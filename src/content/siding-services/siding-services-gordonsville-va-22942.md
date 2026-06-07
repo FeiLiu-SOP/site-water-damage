@@ -12,6 +12,7 @@ lng: -78.1900
 zipSample: ["22942"]
 zipCodes: ["22942"]
 localPaths: ["Orange County / ZIP 22942 sector", "Orange County / coords 38.1400, -78.1900", "Orange County / primary ZIP 22942", "Orange County / elevation 479 ft band"]
+zillowHomeValueUsd: 407237
 ---
 
 **Engineering Notice for Gordonsville:** Envelope check: Vinyl Panels assigned to wind-load band A with stress factor 1.10. Elevation: 479 ft AMSL. Regional dispatch grid: Orange County.

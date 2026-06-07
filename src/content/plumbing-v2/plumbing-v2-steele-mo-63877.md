@@ -12,6 +12,7 @@ lng: -89.8400
 zipSample: ["63877"]
 zipCodes: ["63877"]
 localPaths: ["Pemiscot County / coords 36.0900, -89.8400", "Pemiscot County / elevation 253 ft band", "Pemiscot County / primary ZIP 63877", "Pemiscot County / ZIP 63877 sector"]
+zillowHomeValueUsd: 105839
 ---
 
 **Engineering Notice for Steele:** System optimized for 148 mg/L hard water scaling factors in Steele. Regional dispatch grid: Pemiscot County.

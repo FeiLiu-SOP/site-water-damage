@@ -11,6 +11,7 @@ lng: -86.5800
 zipSample: ["32536", "32539"]
 zipCodes: ["32539", "32536"]
 localPaths: ["Okaloosa County / elevation 190 ft band", "Okaloosa County / coords 30.7500, -86.5800", "Okaloosa County / primary ZIP 32536", "Okaloosa County / ZIP 32539 sector", "Okaloosa County / ZIP 32536 sector"]
+zillowHomeValueUsd: 294573
 ---
 
 **Engineering Notice for Crestview:** Structural loading calculated based on 190 ft terrain assessment. Regional dispatch grid: Okaloosa County.

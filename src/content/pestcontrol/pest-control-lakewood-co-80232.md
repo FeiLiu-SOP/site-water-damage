@@ -11,6 +11,7 @@ lng: -105.1200
 zipSample: ["80232", "80214", "80201", "80226", "80228"]
 zipCodes: ["80227", "80225", "80215", "80228", "80214", "80232", "80201", "80226", "80235"]
 localPaths: ["Jefferson County / ZIP 80201 sector", "Jefferson County / ZIP 80228 sector", "Jefferson County / ZIP 80226 sector", "Jefferson County / ZIP 80214 sector", "Jefferson County / primary ZIP 80232"]
+zillowHomeValueUsd: 535196
 ---
 
 **Engineering Notice for Lakewood:** Structural loading calculated based on 5666 ft terrain assessment. Regional dispatch grid: Jefferson County.

@@ -12,6 +12,7 @@ lng: -112.4600
 zipSample: ["83202"]
 zipCodes: ["83202"]
 localPaths: ["Bannock County / elevation 4472 ft band", "Bannock County / primary ZIP 83202", "Bannock County / ZIP 83202 sector", "Bannock County / coords 42.9600, -112.4600"]
+zillowHomeValueUsd: 391666
 ---
 
 **Engineering Notice for Tyhee:** Surface Sheathing was validated under stress factor 1.08; target tolerance set near 102 mph. Grid anchor: Bannock County.

@@ -12,6 +12,7 @@ lng: -76.1100
 zipSample: ["17572", "17529", "17534"]
 zipCodes: ["17534", "17529", "17572"]
 localPaths: ["Lancaster County / ZIP 17529 sector", "Lancaster County / ZIP 17572 sector", "Lancaster County / primary ZIP 17572", "Lancaster County / coords 40.0400, -76.1100", "Lancaster County / ZIP 17534 sector"]
+zillowHomeValueUsd: 495119
 ---
 
 **Engineering Notice for Intercourse:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Elevation: 440 ft AMSL. Coordinates: 40.0400, -76.1100. Grid: Lancaster County.

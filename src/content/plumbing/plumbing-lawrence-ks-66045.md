@@ -12,6 +12,7 @@ lng: -95.2600
 zipSample: ["66047", "66049", "66046", "66045", "66044"]
 zipCodes: ["66049", "66047", "66044", "66045", "66046"]
 localPaths: ["Douglas County / primary ZIP 66045", "Douglas County / ZIP 66044 sector", "Douglas County / ZIP 66047 sector", "Douglas County / ZIP 66045 sector", "Douglas County / coords 38.9600, -95.2600"]
+zillowHomeValueUsd: 391714
 ---
 
 **Engineering Notice for Lawrence:** Structural loading calculated based on 1004 ft terrain assessment. Regional dispatch grid: Douglas County.

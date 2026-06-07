@@ -12,6 +12,7 @@ lng: -76.4100
 zipSample: ["17538"]
 zipCodes: ["17538"]
 localPaths: ["Lancaster County / coords 40.0900, -76.4100", "Lancaster County / primary ZIP 17538", "Lancaster County / ZIP 17538 sector", "Lancaster County / elevation 390 ft band"]
+zillowHomeValueUsd: 440020
 ---
 
 **Engineering Notice for Landisville:** System optimized for 175 mg/L hard water scaling factors in Landisville. Regional dispatch grid: Lancaster County.

@@ -11,6 +11,7 @@ lng: -86.1300
 zipSample: ["46903", "46901", "46965", "46902"]
 zipCodes: ["46901", "46903", "46902", "46965"]
 localPaths: ["Howard County / primary ZIP 46902", "Howard County / coords 40.4600, -86.1300", "Howard County / ZIP 46902 sector", "Howard County / ZIP 46901 sector", "Howard County / ZIP 46903 sector"]
+zillowHomeValueUsd: 198922
 ---
 
 **Engineering Notice for Kokomo:** Structural loading calculated based on 827 ft terrain assessment. Regional dispatch grid: Howard County.

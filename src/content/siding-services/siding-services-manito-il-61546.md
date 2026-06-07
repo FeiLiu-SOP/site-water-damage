@@ -12,6 +12,7 @@ lng: -89.7800
 zipSample: ["61546"]
 zipCodes: ["61546"]
 localPaths: ["Mason County / elevation 505 ft band", "Mason County / coords 40.4200, -89.7800", "Mason County / ZIP 61546 sector", "Mason County / primary ZIP 61546"]
+zillowHomeValueUsd: 137393
 ---
 
 **Engineering Notice for Manito:** Structural integrity verification: Cladding Service calibrated for 103 mph localized wind load factor. Regional dispatch grid: Mason County.

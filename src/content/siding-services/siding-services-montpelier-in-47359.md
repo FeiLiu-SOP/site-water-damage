@@ -12,6 +12,7 @@ lng: -85.2900
 zipSample: ["47359"]
 zipCodes: ["47359"]
 localPaths: ["Blackford County / elevation 879 ft band", "Blackford County / primary ZIP 47359", "Blackford County / ZIP 47359 sector", "Blackford County / coords 40.5500, -85.2900"]
+zillowHomeValueUsd: 141674
 ---
 
 **Engineering Notice for Montpelier:** Envelope check: Weather Barrier Wrap assigned to wind-load band B with stress factor 1.22. Elevation: 879 ft AMSL. Regional dispatch grid: Blackford County.

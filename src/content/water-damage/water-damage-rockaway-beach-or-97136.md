@@ -12,6 +12,7 @@ lng: -123.9400
 zipSample: ["97136"]
 zipCodes: ["97136"]
 localPaths: ["Tillamook County / elevation 13 ft band", "Tillamook County / primary ZIP 97136", "Tillamook County / coords 45.6200, -123.9400", "Tillamook County / ZIP 97136 sector"]
+zillowHomeValueUsd: 458337
 ---
 
 **Engineering Notice for Rockaway Beach:** structural drying capacity optimized for 13ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tillamook County. Relative Humidity Threshold: 77%. Sensor sync: Active.

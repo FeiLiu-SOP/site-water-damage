@@ -12,6 +12,7 @@ lng: -114.1100
 zipSample: ["59864", "59855", "59860"]
 zipCodes: ["59855", "59860", "59864"]
 localPaths: ["Lake County / ZIP 59860 sector", "Lake County / ZIP 59855 sector", "Lake County / ZIP 59864 sector", "Lake County / elevation 3107 ft band", "Lake County / primary ZIP 59864"]
+zillowHomeValueUsd: 438300
 ---
 
 **Engineering Notice for Pablo:** System optimized for 153 mg/L hard water scaling factors in Pablo. Regional dispatch grid: Lake County.

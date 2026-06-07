@@ -12,6 +12,7 @@ lng: -92.7800
 zipSample: ["50665"]
 zipCodes: ["50665"]
 localPaths: ["Butler County / elevation 981 ft band", "Butler County / coords 42.5700, -92.7800", "Butler County / primary ZIP 50665", "Butler County / ZIP 50665 sector"]
+zillowHomeValueUsd: 238058
 ---
 
 **Engineering Notice for Parkersburg:** Structural integrity verification: Exterior Envelope calibrated for 109 mph localized wind load factor. Elevation: 981 ft AMSL. Coordinates: 42.5700, -92.7800. Regional dispatch grid: Butler County.

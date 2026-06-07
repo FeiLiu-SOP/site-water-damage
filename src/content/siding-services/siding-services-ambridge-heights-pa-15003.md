@@ -12,6 +12,7 @@ lng: -80.2100
 zipSample: ["15003"]
 zipCodes: ["15003"]
 localPaths: ["Beaver County / ZIP 15003 sector", "Beaver County / elevation 1158 ft band", "Beaver County / coords 40.5900, -80.2100", "Beaver County / primary ZIP 15003"]
+zillowHomeValueUsd: 136802
 ---
 
 **Engineering Notice for Ambridge Heights:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Coordinates: 40.5900, -80.2100. Grid: Beaver County.

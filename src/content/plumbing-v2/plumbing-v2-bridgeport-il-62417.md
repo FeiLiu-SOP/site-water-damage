@@ -12,6 +12,7 @@ lng: -87.7600
 zipSample: ["62417"]
 zipCodes: ["62417"]
 localPaths: ["Lawrence County / coords 38.7100, -87.7600", "Lawrence County / ZIP 62417 sector", "Lawrence County / elevation 456 ft band", "Lawrence County / primary ZIP 62417"]
+zillowHomeValueUsd: 88977
 ---
 
 **Engineering Notice for Bridgeport:** System optimized for 148 mg/L hard water scaling factors in Bridgeport. Regional dispatch grid: Lawrence County.

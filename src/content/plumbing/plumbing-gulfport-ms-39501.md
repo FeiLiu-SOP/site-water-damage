@@ -12,6 +12,7 @@ lng: -89.0700
 zipSample: ["39505", "39507", "39503", "39501", "39502"]
 zipCodes: ["39507", "39503", "39502", "39505", "39501", "39506"]
 localPaths: ["Harrison County / elevation 3 ft band", "Harrison County / ZIP 39507 sector", "Harrison County / ZIP 39503 sector", "Harrison County / ZIP 39501 sector", "Harrison County / ZIP 39502 sector"]
+zillowHomeValueUsd: 115086
 ---
 
 **Engineering Notice for Gulfport:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Harrison County.

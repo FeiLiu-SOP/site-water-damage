@@ -12,6 +12,7 @@ lng: -97.5200
 zipSample: ["57274"]
 zipCodes: ["57274"]
 localPaths: ["Day County / primary ZIP 57274", "Day County / ZIP 57274 sector", "Day County / coords 45.3400, -97.5200", "Day County / elevation 1834 ft band"]
+zillowHomeValueUsd: 222820
 ---
 
 **Engineering Notice for Webster:** Structural integrity verification: Facade Renewal calibrated for 91 mph localized wind load factor. Coordinates: 45.3400, -97.5200. Regional dispatch grid: Day County.

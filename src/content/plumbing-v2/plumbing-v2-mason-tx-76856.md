@@ -12,6 +12,7 @@ lng: -99.2300
 zipSample: ["76856"]
 zipCodes: ["76856"]
 localPaths: ["Mason County / ZIP 76856 sector", "Mason County / elevation 1542 ft band", "Mason County / coords 30.7500, -99.2300", "Mason County / primary ZIP 76856"]
+zillowHomeValueUsd: 355631
 ---
 
 **Engineering Notice for Mason:** System optimized for 129 mg/L hard water scaling factors in Mason. Regional dispatch grid: Mason County.

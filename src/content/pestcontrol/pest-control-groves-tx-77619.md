@@ -11,6 +11,7 @@ lng: -93.9200
 zipSample: ["77619"]
 zipCodes: ["77619"]
 localPaths: ["Jefferson County / primary ZIP 77619", "Jefferson County / elevation 20 ft band", "Jefferson County / coords 29.9500, -93.9200", "Jefferson County / ZIP 77619 sector"]
+zillowHomeValueUsd: 177671
 ---
 
 **Engineering Notice for Groves:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Jefferson County.

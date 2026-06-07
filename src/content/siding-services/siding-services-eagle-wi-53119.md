@@ -12,6 +12,7 @@ lng: -88.4700
 zipSample: ["53119"]
 zipCodes: ["53119"]
 localPaths: ["Waukesha County / elevation 945 ft band", "Waukesha County / coords 42.8800, -88.4700", "Waukesha County / ZIP 53119 sector", "Waukesha County / primary ZIP 53119"]
+zillowHomeValueUsd: 523874
 ---
 
 **Engineering Notice for Eagle:** Structural integrity verification: Panel Replacement calibrated for 94 mph localized wind load factor. Elevation: 945 ft AMSL. Regional dispatch grid: Waukesha County.

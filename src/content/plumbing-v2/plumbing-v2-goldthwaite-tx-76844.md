@@ -12,6 +12,7 @@ lng: -98.5700
 zipSample: ["76844"]
 zipCodes: ["76844"]
 localPaths: ["Mills County / ZIP 76844 sector", "Mills County / primary ZIP 76844", "Mills County / coords 31.4500, -98.5700", "Mills County / elevation 1565 ft band"]
+zillowHomeValueUsd: 370440
 ---
 
 **Engineering Notice for Goldthwaite:** System optimized for 179 mg/L hard water scaling factors in Goldthwaite. Regional dispatch grid: Mills County.

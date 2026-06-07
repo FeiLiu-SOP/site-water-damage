@@ -12,6 +12,7 @@ lng: -100.3800
 zipSample: ["57532"]
 zipCodes: ["57532"]
 localPaths: ["Stanley County / ZIP 57532 sector", "Stanley County / primary ZIP 57532", "Stanley County / coords 44.3700, -100.3800", "Stanley County / elevation 1430 ft band"]
+zillowHomeValueUsd: 308825
 ---
 
 **Engineering Notice for Fort Pierre:** Cladding verification uses 94 mph routing baseline; lateral pressure note: 12.5 psf. Elevation: 1430 ft AMSL. Grid: Stanley County.

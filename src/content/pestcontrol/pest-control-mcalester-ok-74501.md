@@ -11,6 +11,7 @@ lng: -95.7700
 zipSample: ["74501", "74502"]
 zipCodes: ["74501", "74502"]
 localPaths: ["Pittsburg County / ZIP 74502 sector", "Pittsburg County / ZIP 74501 sector", "Pittsburg County / elevation 758 ft band", "Pittsburg County / coords 34.9300, -95.7700", "Pittsburg County / primary ZIP 74501"]
+zillowHomeValueUsd: 152304
 ---
 
 **Engineering Notice for McAlester:** Structural loading calculated based on 758 ft terrain assessment. Regional dispatch grid: Pittsburg County.

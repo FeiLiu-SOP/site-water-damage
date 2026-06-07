@@ -12,6 +12,7 @@ lng: -85.9400
 zipSample: ["47119", "47124"]
 zipCodes: ["47124", "47119"]
 localPaths: ["Floyd County / ZIP 47124 sector", "Floyd County / primary ZIP 47124", "Floyd County / ZIP 47119 sector", "Floyd County / coords 38.3500, -85.9400", "Floyd County / elevation 837 ft band"]
+zillowHomeValueUsd: 342937
 ---
 
 **Engineering Notice for Galena:** Structural integrity verification: Cladding Service calibrated for 105 mph localized wind load factor. Elevation: 837 ft AMSL. Coordinates: 38.3500, -85.9400. Regional dispatch grid: Floyd County.

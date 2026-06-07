@@ -12,6 +12,7 @@ lng: -124.0700
 zipSample: ["97394"]
 zipCodes: ["97394"]
 localPaths: ["Lincoln County / elevation 171 ft band", "Lincoln County / coords 44.4200, -124.0700", "Lincoln County / primary ZIP 97394", "Lincoln County / ZIP 97394 sector"]
+zillowHomeValueUsd: 472752
 ---
 
 **Engineering Notice for Waldport:** System optimized for 169 mg/L hard water scaling factors in Waldport. Regional dispatch grid: Lincoln County.

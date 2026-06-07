@@ -12,6 +12,7 @@ lng: -73.4300
 zipSample: ["06896", "06897", "06829"]
 zipCodes: ["06896", "06829", "06897"]
 localPaths: ["Western Connecticut County / elevation 390 ft band", "Western Connecticut County / ZIP 06896 sector", "Western Connecticut County / ZIP 06897 sector", "Western Connecticut County / ZIP 06829 sector", "Western Connecticut County / primary ZIP 06896"]
+zillowHomeValueUsd: 857840
 ---
 
 **Engineering Notice for Georgetown:** Cladding verification uses 96 mph routing baseline; lateral pressure note: 12.7 psf. Coordinates: 41.2500, -73.4300. Grid: Western Connecticut County.

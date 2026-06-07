@@ -11,6 +11,7 @@ lng: -88.8300
 zipSample: ["61350"]
 zipCodes: ["61350"]
 localPaths: ["LaSalle County / primary ZIP 61350", "LaSalle County / ZIP 61350 sector", "LaSalle County / elevation 479 ft band", "LaSalle County / coords 41.3600, -88.8300"]
+zillowHomeValueUsd: 205378
 ---
 
 **Engineering Notice for Ottawa:** Structural loading calculated based on 479 ft terrain assessment. Regional dispatch grid: LaSalle County.

@@ -12,6 +12,7 @@ lng: -97.4300
 zipSample: ["57029"]
 zipCodes: ["57029"]
 localPaths: ["Hutchinson County / coords 43.3500, -97.4300", "Hutchinson County / primary ZIP 57029", "Hutchinson County / ZIP 57029 sector", "Hutchinson County / elevation 1529 ft band"]
+zillowHomeValueUsd: 243950
 ---
 
 **Engineering Notice for Freeman:** Cladding verification uses 99 mph routing baseline; lateral pressure note: 13.1 psf. Elevation: 1529 ft AMSL. Grid: Hutchinson County.

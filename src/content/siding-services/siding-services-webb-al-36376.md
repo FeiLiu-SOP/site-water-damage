@@ -12,6 +12,7 @@ lng: -85.2900
 zipSample: ["36376"]
 zipCodes: ["36376"]
 localPaths: ["Houston County / ZIP 36376 sector", "Houston County / elevation 292 ft band", "Houston County / primary ZIP 36376", "Houston County / coords 31.2600, -85.2900"]
+zillowHomeValueUsd: 162165
 ---
 
 **Engineering Notice for Webb:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 0.98. Regional dispatch grid: Houston County.

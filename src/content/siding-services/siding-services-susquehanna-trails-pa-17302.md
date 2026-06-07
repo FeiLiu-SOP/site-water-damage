@@ -12,6 +12,7 @@ lng: -76.3700
 zipSample: ["17314", "17302"]
 zipCodes: ["17302", "17314"]
 localPaths: ["York County / ZIP 17314 sector", "York County / coords 39.7600, -76.3700", "York County / elevation 463 ft band", "York County / primary ZIP 17302", "York County / ZIP 17302 sector"]
+zillowHomeValueUsd: 338393
 ---
 
 **Engineering Notice for Susquehanna Trails:** Facade Renewal was validated under stress factor 1.20; target tolerance set near 104 mph. Coordinates: 39.7600, -76.3700. Grid anchor: York County.

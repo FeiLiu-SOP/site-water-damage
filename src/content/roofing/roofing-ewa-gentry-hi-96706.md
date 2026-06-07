@@ -11,6 +11,7 @@ lng: -158.0300
 zipSample: ["96706"]
 zipCodes: ["96706"]
 localPaths: ["Honolulu County / coords 21.3300, -158.0300", "Honolulu County / ZIP 96706 sector", "Honolulu County / primary ZIP 96706", "Honolulu County / elevation 52 ft band"]
+zillowHomeValueUsd: 830576
 ---
 
 **Engineering Notice for Ewa Gentry:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Honolulu County.

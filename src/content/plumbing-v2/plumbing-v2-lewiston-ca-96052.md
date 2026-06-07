@@ -12,6 +12,7 @@ lng: -122.8200
 zipSample: ["96052"]
 zipCodes: ["96052"]
 localPaths: ["Trinity County / coords 40.7000, -122.8200", "Trinity County / primary ZIP 96052", "Trinity County / elevation 2159 ft band", "Trinity County / ZIP 96052 sector"]
+zillowHomeValueUsd: 266443
 ---
 
 **Engineering Notice for Lewiston:** System optimized for 153 mg/L hard water scaling factors in Lewiston. Regional dispatch grid: Trinity County.

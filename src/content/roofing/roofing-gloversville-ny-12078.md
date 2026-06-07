@@ -11,6 +11,7 @@ lng: -74.3500
 zipSample: ["12078"]
 zipCodes: ["12078"]
 localPaths: ["Fulton County / elevation 804 ft band", "Fulton County / ZIP 12078 sector", "Fulton County / primary ZIP 12078", "Fulton County / coords 43.0500, -74.3500"]
+zillowHomeValueUsd: 170629
 ---
 
 **Engineering Notice for Gloversville:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Fulton County.

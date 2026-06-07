@@ -12,6 +12,7 @@ lng: -86.0100
 zipSample: ["49031"]
 zipCodes: ["49031"]
 localPaths: ["Cass County / ZIP 49031 sector", "Cass County / coords 41.9100, -86.0100", "Cass County / primary ZIP 49031", "Cass County / elevation 892 ft band"]
+zillowHomeValueUsd: 275526
 ---
 
 **Engineering Notice for Cassopolis:** Structural integrity verification: Wall Restoration calibrated for 107 mph localized wind load factor. Coordinates: 41.9100, -86.0100. Regional dispatch grid: Cass County.

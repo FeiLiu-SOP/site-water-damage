@@ -12,6 +12,7 @@ lng: -79.1300
 zipSample: ["26847"]
 zipCodes: ["26847"]
 localPaths: ["Grant County / primary ZIP 26847", "Grant County / elevation 955 ft band", "Grant County / coords 39.0000, -79.1300", "Grant County / ZIP 26847 sector"]
+zillowHomeValueUsd: 194488
 ---
 
 **Engineering Notice for Petersburg:** System optimized for 163 mg/L hard water scaling factors in Petersburg. Regional dispatch grid: Grant County.

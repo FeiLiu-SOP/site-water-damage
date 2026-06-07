@@ -12,6 +12,7 @@ lng: -94.7300
 zipSample: ["51449"]
 zipCodes: ["51449"]
 localPaths: ["Calhoun County / primary ZIP 51449", "Calhoun County / elevation 1234 ft band", "Calhoun County / ZIP 51449 sector", "Calhoun County / coords 42.2700, -94.7300"]
+zillowHomeValueUsd: 150262
 ---
 
 **Engineering Notice for Lake City:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Elevation: 1234 ft AMSL. Grid: Calhoun County.

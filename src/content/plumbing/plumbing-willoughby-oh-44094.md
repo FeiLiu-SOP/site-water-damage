@@ -12,6 +12,7 @@ lng: -81.4100
 zipSample: ["44094", "44096"]
 zipCodes: ["44096", "44094"]
 localPaths: ["Lake County / ZIP 44094 sector", "Lake County / elevation 640 ft band", "Lake County / ZIP 44096 sector", "Lake County / coords 41.6500, -81.4100", "Lake County / primary ZIP 44094"]
+zillowHomeValueUsd: 284667
 ---
 
 **Engineering Notice for Willoughby:** Structural loading calculated based on 640 ft terrain assessment. Regional dispatch grid: Lake County.

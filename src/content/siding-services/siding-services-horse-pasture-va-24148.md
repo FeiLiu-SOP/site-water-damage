@@ -12,6 +12,7 @@ lng: -79.9500
 zipSample: ["24112", "24165", "24148"]
 zipCodes: ["24148", "24112", "24165"]
 localPaths: ["Henry County / ZIP 24165 sector", "Henry County / elevation 1083 ft band", "Henry County / ZIP 24148 sector", "Henry County / ZIP 24112 sector", "Henry County / primary ZIP 24148"]
+zillowHomeValueUsd: 161276
 ---
 
 **Engineering Notice for Horse Pasture:** Envelope check: Facade Renewal assigned to wind-load band B with stress factor 1.10. Regional dispatch grid: Henry County.

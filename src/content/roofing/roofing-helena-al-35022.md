@@ -11,6 +11,7 @@ lng: -86.8800
 zipSample: ["35080", "35022"]
 zipCodes: ["35022", "35080"]
 localPaths: ["Shelby County / elevation 430 ft band", "Shelby County / coords 33.2800, -86.8800", "Shelby County / ZIP 35022 sector", "Shelby County / primary ZIP 35022", "Shelby County / ZIP 35080 sector"]
+zillowHomeValueUsd: 280013
 ---
 
 **Engineering Notice for Helena:** Structural loading calculated based on 430 ft terrain assessment. Regional dispatch grid: Shelby County.

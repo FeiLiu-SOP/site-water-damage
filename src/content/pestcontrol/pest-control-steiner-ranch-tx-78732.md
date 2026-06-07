@@ -11,6 +11,7 @@ lng: -97.9000
 zipSample: ["78732"]
 zipCodes: ["78732"]
 localPaths: ["Travis County / coords 30.3700, -97.9000", "Travis County / ZIP 78732 sector", "Travis County / primary ZIP 78732", "Travis County / elevation 784 ft band"]
+zillowHomeValueUsd: 816676
 ---
 
 **Engineering Notice for Steiner Ranch:** Structural loading calculated based on 784 ft terrain assessment. Regional dispatch grid: Travis County.

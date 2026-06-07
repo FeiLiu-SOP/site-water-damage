@@ -12,6 +12,7 @@ lng: -76.7600
 zipSample: ["22572"]
 zipCodes: ["22572"]
 localPaths: ["Richmond County / elevation 138 ft band", "Richmond County / ZIP 22572 sector", "Richmond County / primary ZIP 22572", "Richmond County / coords 37.9600, -76.7600"]
+zillowHomeValueUsd: 247369
 ---
 
 **Engineering Notice for Warsaw:** structural drying capacity optimized for 138ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Richmond County. Relative Humidity Threshold: 68%. Sensor sync: Active.

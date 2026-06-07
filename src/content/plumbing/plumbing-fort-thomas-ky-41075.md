@@ -12,6 +12,7 @@ lng: -84.4500
 zipSample: ["41075"]
 zipCodes: ["41075"]
 localPaths: ["Campbell County / elevation 830 ft band", "Campbell County / coords 39.0800, -84.4500", "Campbell County / ZIP 41075 sector", "Campbell County / primary ZIP 41075"]
+zillowHomeValueUsd: 370084
 ---
 
 **Engineering Notice for Fort Thomas:** Structural loading calculated based on 830 ft terrain assessment. Regional dispatch grid: Campbell County.

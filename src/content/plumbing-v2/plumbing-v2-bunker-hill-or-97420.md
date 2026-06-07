@@ -12,6 +12,7 @@ lng: -124.2100
 zipSample: ["97420"]
 zipCodes: ["97420"]
 localPaths: ["Coos County / ZIP 97420 sector", "Coos County / primary ZIP 97420", "Coos County / coords 43.3500, -124.2100", "Coos County / elevation 138 ft band"]
+zillowHomeValueUsd: 323711
 ---
 
 **Engineering Notice for Bunker Hill:** System optimized for 179 mg/L hard water scaling factors in Bunker Hill. Regional dispatch grid: Coos County.

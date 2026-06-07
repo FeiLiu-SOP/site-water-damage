@@ -12,6 +12,7 @@ lng: -95.5800
 zipSample: ["75839"]
 zipCodes: ["75839"]
 localPaths: ["Anderson County / coords 31.6300, -95.5800", "Anderson County / ZIP 75839 sector", "Anderson County / primary ZIP 75839", "Anderson County / elevation 417 ft band"]
+zillowHomeValueUsd: 251500
 ---
 
 **Engineering Notice for Elkhart:** System optimized for 120 mg/L hard water scaling factors in Elkhart. Regional dispatch grid: Anderson County.

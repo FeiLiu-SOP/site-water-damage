@@ -11,6 +11,7 @@ lng: -84.5800
 zipSample: ["30349", "31136", "30272", "30291", "30378"]
 zipCodes: ["30272", "30331", "30349", "31131", "30213", "30291", "31136", "30296", "30378", "30336"]
 localPaths: ["Fulton County / coords 33.6300, -84.5800", "Fulton County / elevation 932 ft band", "Fulton County / primary ZIP 30336", "Fulton County / ZIP 31136 sector", "Fulton County / ZIP 30272 sector"]
+zillowHomeValueUsd: 282741
 ---
 
 **Engineering Notice for South Fulton:** Structural loading calculated based on 932 ft terrain assessment. Regional dispatch grid: Fulton County.

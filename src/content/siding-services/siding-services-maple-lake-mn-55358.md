@@ -12,6 +12,7 @@ lng: -94.0100
 zipSample: ["55358"]
 zipCodes: ["55358"]
 localPaths: ["Wright County / coords 45.2300, -94.0100", "Wright County / primary ZIP 55358", "Wright County / ZIP 55358 sector", "Wright County / elevation 1040 ft band"]
+zillowHomeValueUsd: 375532
 ---
 
 **Engineering Notice for Maple Lake:** Structural integrity verification: Vinyl Panels calibrated for 92 mph localized wind load factor. Coordinates: 45.2300, -94.0100. Regional dispatch grid: Wright County.

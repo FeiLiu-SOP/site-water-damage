@@ -12,6 +12,7 @@ lng: -119.8400
 zipSample: ["93609"]
 zipCodes: ["93609"]
 localPaths: ["Fresno County / primary ZIP 93609", "Fresno County / elevation 243 ft band", "Fresno County / ZIP 93609 sector", "Fresno County / coords 36.5400, -119.8400"]
+zillowHomeValueUsd: 393948
 ---
 
 **Engineering Notice for Caruthers:** structural drying capacity optimized for 243ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fresno County. Relative Humidity Threshold: 76%. Sensor sync: Active.

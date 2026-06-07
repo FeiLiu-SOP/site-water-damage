@@ -12,6 +12,7 @@ lng: -87.6900
 zipSample: ["42408"]
 zipCodes: ["42408"]
 localPaths: ["Hopkins County / coords 37.1700, -87.6900", "Hopkins County / primary ZIP 42408", "Hopkins County / ZIP 42408 sector", "Hopkins County / elevation 456 ft band"]
+zillowHomeValueUsd: 119025
 ---
 
 **Engineering Notice for Dawson Springs:** System optimized for 128 mg/L hard water scaling factors in Dawson Springs. Regional dispatch grid: Hopkins County.

@@ -11,6 +11,7 @@ lng: -118.0400
 zipSample: ["90623"]
 zipCodes: ["90623"]
 localPaths: ["Orange County / coords 33.8500, -118.0400", "Orange County / elevation 66 ft band", "Orange County / ZIP 90623 sector", "Orange County / primary ZIP 90623"]
+zillowHomeValueUsd: 1212330
 ---
 
 **Engineering Notice for La Palma:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Orange County.

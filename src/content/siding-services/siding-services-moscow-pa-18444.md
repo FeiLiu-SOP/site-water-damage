@@ -12,6 +12,7 @@ lng: -75.5300
 zipSample: ["18444"]
 zipCodes: ["18444"]
 localPaths: ["Lackawanna County / elevation 1821 ft band", "Lackawanna County / ZIP 18444 sector", "Lackawanna County / primary ZIP 18444", "Lackawanna County / coords 41.3400, -75.5300"]
+zillowHomeValueUsd: 288581
 ---
 
 **Engineering Notice for Moscow:** Envelope check: Exterior Envelope assigned to wind-load band A with stress factor 1.21. Elevation: 1821 ft AMSL. Regional dispatch grid: Lackawanna County.

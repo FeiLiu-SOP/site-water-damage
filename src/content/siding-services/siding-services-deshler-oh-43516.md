@@ -12,6 +12,7 @@ lng: -83.9100
 zipSample: ["43516"]
 zipCodes: ["43516"]
 localPaths: ["Henry County / elevation 705 ft band", "Henry County / primary ZIP 43516", "Henry County / coords 41.2100, -83.9100", "Henry County / ZIP 43516 sector"]
+zillowHomeValueUsd: 177057
 ---
 
 **Engineering Notice for Deshler:** Cladding verification uses 96 mph routing baseline; lateral pressure note: 12.7 psf. Elevation: 705 ft AMSL. Grid: Henry County.

@@ -12,6 +12,7 @@ lng: -118.6600
 zipSample: ["91302"]
 zipCodes: ["91302"]
 localPaths: ["Los Angeles County / elevation 1135 ft band", "Los Angeles County / primary ZIP 91302", "Los Angeles County / coords 34.1600, -118.6600", "Los Angeles County / ZIP 91302 sector"]
+zillowHomeValueUsd: 1958313
 ---
 
 **Engineering Notice for Hidden Hills:** Vinyl Panels was validated under stress factor 0.71; target tolerance set near 130 mph. Grid anchor: Los Angeles County.

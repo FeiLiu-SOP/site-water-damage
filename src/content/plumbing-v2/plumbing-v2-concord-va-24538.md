@@ -12,6 +12,7 @@ lng: -78.9900
 zipSample: ["24538"]
 zipCodes: ["24538"]
 localPaths: ["Campbell County / coords 37.3400, -78.9900", "Campbell County / elevation 856 ft band", "Campbell County / ZIP 24538 sector", "Campbell County / primary ZIP 24538"]
+zillowHomeValueUsd: 290242
 ---
 
 **Engineering Notice for Concord:** System optimized for 123 mg/L hard water scaling factors in Concord. Regional dispatch grid: Campbell County.

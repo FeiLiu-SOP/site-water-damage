@@ -11,6 +11,7 @@ lng: -104.7800
 zipSample: ["80138", "80134"]
 zipCodes: ["80138", "80134"]
 localPaths: ["Douglas County / ZIP 80138 sector", "Douglas County / coords 39.5100, -104.7800", "Douglas County / elevation 5840 ft band", "Douglas County / primary ZIP 80138", "Douglas County / ZIP 80134 sector"]
+zillowHomeValueUsd: 723705
 ---
 
 **Engineering Notice for Parker:** Structural loading calculated based on 5840 ft terrain assessment. Regional dispatch grid: Douglas County.

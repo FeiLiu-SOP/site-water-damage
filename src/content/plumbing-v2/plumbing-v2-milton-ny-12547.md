@@ -12,6 +12,7 @@ lng: -73.9700
 zipSample: ["12547", "12542"]
 zipCodes: ["12542", "12547"]
 localPaths: ["Ulster County / elevation 312 ft band", "Ulster County / coords 41.6600, -73.9700", "Ulster County / ZIP 12547 sector", "Ulster County / primary ZIP 12547", "Ulster County / ZIP 12542 sector"]
+zillowHomeValueUsd: 463536
 ---
 
 **Engineering Notice for Milton:** System optimized for 130 mg/L hard water scaling factors in Milton. Regional dispatch grid: Ulster County.

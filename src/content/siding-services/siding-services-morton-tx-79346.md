@@ -12,6 +12,7 @@ lng: -102.7600
 zipSample: ["79346"]
 zipCodes: ["79346"]
 localPaths: ["Cochran County / elevation 3766 ft band", "Cochran County / coords 33.7200, -102.7600", "Cochran County / ZIP 79346 sector", "Cochran County / primary ZIP 79346"]
+zillowHomeValueUsd: 49540
 ---
 
 **Engineering Notice for Morton:** Site context locked to Cochran County. Elevation: 3766 ft AMSL. Vinyl Panels integrity verification recorded.

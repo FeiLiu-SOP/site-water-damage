@@ -11,6 +11,7 @@ lng: -121.3700
 zipSample: ["95660", "95841"]
 zipCodes: ["95841", "95660"]
 localPaths: ["Sacramento County / ZIP 95841 sector", "Sacramento County / coords 38.6700, -121.3700", "Sacramento County / primary ZIP 95660", "Sacramento County / elevation 105 ft band", "Sacramento County / ZIP 95660 sector"]
+zillowHomeValueUsd: 389012
 ---
 
 **Engineering Notice for North Highlands:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Sacramento County.

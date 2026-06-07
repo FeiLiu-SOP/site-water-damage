@@ -12,6 +12,7 @@ lng: -80.6600
 zipSample: ["32940", "32935"]
 zipCodes: ["32935", "32940"]
 localPaths: ["Brevard County / elevation 33 ft band", "Brevard County / primary ZIP 32935", "Brevard County / ZIP 32935 sector", "Brevard County / coords 28.1900, -80.6600", "Brevard County / ZIP 32940 sector"]
+zillowHomeValueUsd: 267953
 ---
 
 **Engineering Notice for Palm Shores:** Exterior Cladding was validated under stress factor 0.72; target tolerance set near 150 mph. Grid anchor: Brevard County.

@@ -12,6 +12,7 @@ lng: -124.3100
 zipSample: ["97420"]
 zipCodes: ["97420"]
 localPaths: ["Coos County / ZIP 97420 sector", "Coos County / primary ZIP 97420", "Coos County / coords 43.3500, -124.3100", "Coos County / elevation 85 ft band"]
+zillowHomeValueUsd: 323710
 ---
 
 **Engineering Notice for Barview:** System optimized for 135 mg/L hard water scaling factors in Barview. Regional dispatch grid: Coos County.

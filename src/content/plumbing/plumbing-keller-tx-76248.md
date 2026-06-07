@@ -12,6 +12,7 @@ lng: -97.2300
 zipSample: ["76248", "76262"]
 zipCodes: ["76248", "76262"]
 localPaths: ["Tarrant County / elevation 669 ft band", "Tarrant County / ZIP 76248 sector", "Tarrant County / primary ZIP 76248", "Tarrant County / ZIP 76262 sector", "Tarrant County / coords 32.9300, -97.2300"]
+zillowHomeValueUsd: 589587
 ---
 
 **Engineering Notice for Keller:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Tarrant County.

@@ -12,6 +12,7 @@ lng: -70.6200
 zipSample: ["02559"]
 zipCodes: ["02559"]
 localPaths: ["Barnstable County / ZIP 02559 sector", "Barnstable County / coords 41.6900, -70.6200", "Barnstable County / elevation 20 ft band", "Barnstable County / primary ZIP 02559"]
+zillowHomeValueUsd: 754058
 ---
 
 **Engineering Notice for Pocasset:** Envelope check: Surface Sheathing assigned to wind-load band C with stress factor 0.87. Regional dispatch grid: Barnstable County.

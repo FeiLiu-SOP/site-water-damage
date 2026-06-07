@@ -12,6 +12,7 @@ lng: -121.9000
 zipSample: ["94565"]
 zipCodes: ["94565"]
 localPaths: ["Contra Costa County / primary ZIP 94565", "Contra Costa County / ZIP 94565 sector", "Contra Costa County / coords 38.0200, -121.9000", "Contra Costa County / elevation 56 ft band"]
+zillowHomeValueUsd: 569655
 ---
 
 **Engineering Notice for Pittsburg:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Contra Costa County.

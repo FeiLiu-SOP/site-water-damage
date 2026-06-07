@@ -12,6 +12,7 @@ lng: -95.8600
 zipSample: ["74447", "74445"]
 zipCodes: ["74447", "74445"]
 localPaths: ["Okmulgee County / ZIP 74447 sector", "Okmulgee County / primary ZIP 74447", "Okmulgee County / ZIP 74445 sector", "Okmulgee County / coords 35.6200, -95.8600", "Okmulgee County / elevation 719 ft band"]
+zillowHomeValueUsd: 104227
 ---
 
 **Engineering Notice for Morris:** System optimized for 159 mg/L hard water scaling factors in Morris. Regional dispatch grid: Okmulgee County.

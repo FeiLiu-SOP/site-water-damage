@@ -12,6 +12,7 @@ lng: -92.7700
 zipSample: ["55043"]
 zipCodes: ["55043"]
 localPaths: ["Washington County / ZIP 55043 sector", "Washington County / coords 44.9500, -92.7700", "Washington County / primary ZIP 55043", "Washington County / elevation 732 ft band"]
+zillowHomeValueUsd: 396204
 ---
 
 **Engineering Notice for Lakeland:** Site context locked to Washington County. Elevation: 732 ft AMSL. Coordinates: 44.9500, -92.7700. Weather Barrier Wrap integrity verification recorded.

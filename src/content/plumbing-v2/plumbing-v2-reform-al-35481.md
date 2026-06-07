@@ -12,6 +12,7 @@ lng: -88.0200
 zipSample: ["35481"]
 zipCodes: ["35481"]
 localPaths: ["Pickens County / ZIP 35481 sector", "Pickens County / elevation 243 ft band", "Pickens County / primary ZIP 35481", "Pickens County / coords 33.3800, -88.0200"]
+zillowHomeValueUsd: 130958
 ---
 
 **Engineering Notice for Reform:** System optimized for 151 mg/L hard water scaling factors in Reform. Regional dispatch grid: Pickens County.

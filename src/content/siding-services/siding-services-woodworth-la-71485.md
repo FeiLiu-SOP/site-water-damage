@@ -12,6 +12,7 @@ lng: -92.5100
 zipSample: ["71485"]
 zipCodes: ["71485"]
 localPaths: ["Rapides Parish / coords 31.1700, -92.5100", "Rapides Parish / ZIP 71485 sector", "Rapides Parish / elevation 112 ft band", "Rapides Parish / primary ZIP 71485"]
+zillowHomeValueUsd: 314713
 ---
 
 **Engineering Notice for Woodworth:** Surface Sheathing was validated under stress factor 1.20; target tolerance set near 110 mph. Coordinates: 31.1700, -92.5100. Grid anchor: Rapides Parish.

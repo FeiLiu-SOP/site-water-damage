@@ -12,6 +12,7 @@ lng: -85.7000
 zipSample: ["35968", "35967"]
 zipCodes: ["35967", "35968"]
 localPaths: ["DeKalb County / coords 34.4600, -85.7000", "DeKalb County / ZIP 35968 sector", "DeKalb County / primary ZIP 35967", "DeKalb County / ZIP 35967 sector", "DeKalb County / elevation 1122 ft band"]
+zillowHomeValueUsd: 196205
 ---
 
 **Engineering Notice for Fort Payne:** Structural loading calculated based on 1122 ft terrain assessment. Regional dispatch grid: DeKalb County.

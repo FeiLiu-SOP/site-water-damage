@@ -12,6 +12,7 @@ lng: -73.6700
 zipSample: ["11518"]
 zipCodes: ["11518"]
 localPaths: ["Nassau County / elevation 3 ft band", "Nassau County / coords 40.6300, -73.6700", "Nassau County / ZIP 11518 sector", "Nassau County / primary ZIP 11518"]
+zillowHomeValueUsd: 723895
 ---
 
 **Engineering Notice for Bay Park:** structural drying capacity optimized for 3ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Nassau County. Relative Humidity Threshold: 66%. Sensor sync: Active.

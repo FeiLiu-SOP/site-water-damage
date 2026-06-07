@@ -12,6 +12,7 @@ lng: -94.0800
 zipSample: ["55307"]
 zipCodes: ["55307"]
 localPaths: ["Sibley County / elevation 991 ft band", "Sibley County / primary ZIP 55307", "Sibley County / coords 44.6100, -94.0800", "Sibley County / ZIP 55307 sector"]
+zillowHomeValueUsd: 269459
 ---
 
 **Engineering Notice for Arlington:** System optimized for 172 mg/L hard water scaling factors in Arlington. Regional dispatch grid: Sibley County.

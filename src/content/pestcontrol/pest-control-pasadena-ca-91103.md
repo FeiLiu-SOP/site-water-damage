@@ -11,6 +11,7 @@ lng: -118.1400
 zipSample: ["91126", "91123", "91116", "91189", "91115"]
 zipCodes: ["91110", "91189", "91126", "91106", "91184", "91114", "91182", "91115", "91188", "91102", "91116", "91109"]
 localPaths: ["Los Angeles County / primary ZIP 91103", "Los Angeles County / ZIP 91115 sector", "Los Angeles County / coords 34.1600, -118.1400", "Los Angeles County / ZIP 91123 sector", "Los Angeles County / ZIP 91189 sector"]
+zillowHomeValueUsd: 1083832
 ---
 
 **Engineering Notice for Pasadena:** Structural loading calculated based on 928 ft terrain assessment. Regional dispatch grid: Los Angeles County.

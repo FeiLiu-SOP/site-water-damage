@@ -12,6 +12,7 @@ lng: -74.5700
 zipSample: ["07960", "07945", "07926"]
 zipCodes: ["07960", "07945", "07926"]
 localPaths: ["Morris County / elevation 459 ft band", "Morris County / primary ZIP 07960", "Morris County / ZIP 07945 sector", "Morris County / ZIP 07960 sector", "Morris County / coords 40.7900, -74.5700"]
+zillowHomeValueUsd: 887086
 ---
 
 **Engineering Notice for Brookside:** Envelope check: Vinyl Panels assigned to wind-load band B with stress factor 0.85. Regional dispatch grid: Morris County.

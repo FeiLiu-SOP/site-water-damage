@@ -12,6 +12,7 @@ lng: -90.3900
 zipSample: ["61244", "61282", "61239"]
 zipCodes: ["61244", "61282", "61239"]
 localPaths: ["Rock Island County / coords 41.5000, -90.3900", "Rock Island County / ZIP 61239 sector", "Rock Island County / elevation 640 ft band", "Rock Island County / ZIP 61282 sector", "Rock Island County / primary ZIP 61244"]
+zillowHomeValueUsd: 143023
 ---
 
 **Engineering Notice for Carbon Cliff:** structural drying capacity optimized for 640ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rock Island County. Relative Humidity Threshold: 68%. Sensor sync: Active.

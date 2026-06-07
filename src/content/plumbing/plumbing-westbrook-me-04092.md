@@ -12,6 +12,7 @@ lng: -70.3500
 zipSample: ["04092", "04098"]
 zipCodes: ["04098", "04092"]
 localPaths: ["Cumberland County / elevation 108 ft band", "Cumberland County / primary ZIP 04092", "Cumberland County / ZIP 04092 sector", "Cumberland County / ZIP 04098 sector", "Cumberland County / coords 43.7000, -70.3500"]
+zillowHomeValueUsd: 449293
 ---
 
 **Engineering Notice for Westbrook:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Cumberland County.

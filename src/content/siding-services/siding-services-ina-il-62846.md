@@ -12,6 +12,8 @@ lng: -88.9000
 zipSample: ["62816", "62846"]
 zipCodes: ["62846", "62816"]
 localPaths: ["Jefferson County / primary ZIP 62846", "Jefferson County / coords 38.1500, -88.9000", "Jefferson County / ZIP 62816 sector", "Jefferson County / ZIP 62846 sector", "Jefferson County / elevation 423 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 242922
 ---
 
 **Engineering Notice for Ina:** Structural integrity verification: Surface Sheathing calibrated for 101 mph localized wind load factor. Regional dispatch grid: Jefferson County.

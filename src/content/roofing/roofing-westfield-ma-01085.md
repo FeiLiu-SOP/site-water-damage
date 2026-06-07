@@ -11,6 +11,7 @@ lng: -72.7600
 zipSample: ["01085", "01086"]
 zipCodes: ["01085", "01086"]
 localPaths: ["Hampden County / elevation 230 ft band", "Hampden County / ZIP 01085 sector", "Hampden County / coords 42.1400, -72.7600", "Hampden County / primary ZIP 01085", "Hampden County / ZIP 01086 sector"]
+zillowHomeValueUsd: 380502
 ---
 
 **Engineering Notice for Westfield:** Structural loading calculated based on 230 ft terrain assessment. Regional dispatch grid: Hampden County.

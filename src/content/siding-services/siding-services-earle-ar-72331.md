@@ -12,6 +12,7 @@ lng: -90.4600
 zipSample: ["72331"]
 zipCodes: ["72331"]
 localPaths: ["Crittenden County / elevation 220 ft band", "Crittenden County / coords 35.2700, -90.4600", "Crittenden County / primary ZIP 72331", "Crittenden County / ZIP 72331 sector"]
+zillowHomeValueUsd: 67186
 ---
 
 **Engineering Notice for Earle:** Structural integrity verification: Cladding Retrofit calibrated for 105 mph localized wind load factor. Coordinates: 35.2700, -90.4600. Regional dispatch grid: Crittenden County.

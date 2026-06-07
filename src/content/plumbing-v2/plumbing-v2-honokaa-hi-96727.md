@@ -12,6 +12,7 @@ lng: -155.4600
 zipSample: ["96727"]
 zipCodes: ["96727"]
 localPaths: ["Hawaii County / ZIP 96727 sector", "Hawaii County / coords 20.0800, -155.4600", "Hawaii County / elevation 1125 ft band", "Hawaii County / primary ZIP 96727"]
+zillowHomeValueUsd: 642778
 ---
 
 **Engineering Notice for Honokaa:** System optimized for 134 mg/L hard water scaling factors in Honokaa. Regional dispatch grid: Hawaii County.

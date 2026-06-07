@@ -12,6 +12,7 @@ lng: -94.4600
 zipSample: ["64801", "64804"]
 zipCodes: ["64801", "64804"]
 localPaths: ["Jasper County / primary ZIP 64804", "Jasper County / ZIP 64804 sector", "Jasper County / elevation 1112 ft band", "Jasper County / ZIP 64801 sector", "Jasper County / coords 37.0700, -94.4600"]
+zillowHomeValueUsd: 225112
 ---
 
 **Engineering Notice for Duquesne:** structural drying capacity optimized for 1112ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jasper County. Relative Humidity Threshold: 72%. Sensor sync: Active.

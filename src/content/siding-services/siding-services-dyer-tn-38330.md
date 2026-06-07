@@ -12,6 +12,7 @@ lng: -88.9900
 zipSample: ["38330"]
 zipCodes: ["38330"]
 localPaths: ["Gibson County / coords 36.0700, -88.9900", "Gibson County / primary ZIP 38330", "Gibson County / elevation 344 ft band", "Gibson County / ZIP 38330 sector"]
+zillowHomeValueUsd: 147179
 ---
 
 **Engineering Notice for Dyer:** Site context locked to Gibson County. Surface Sheathing integrity verification recorded.

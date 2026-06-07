@@ -11,6 +11,7 @@ lng: -76.4400
 zipSample: ["21221"]
 zipCodes: ["21221"]
 localPaths: ["Baltimore County / elevation 26 ft band", "Baltimore County / primary ZIP 21221", "Baltimore County / coords 39.3000, -76.4400", "Baltimore County / ZIP 21221 sector"]
+zillowHomeValueUsd: 292848
 ---
 
 **Engineering Notice for Essex:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Baltimore County.

@@ -11,6 +11,7 @@ lng: -71.0200
 zipSample: ["02171", "02269", "02169", "02170"]
 zipCodes: ["02269", "02169", "02171", "02170"]
 localPaths: ["Norfolk County / ZIP 02269 sector", "Norfolk County / primary ZIP 02169", "Norfolk County / ZIP 02171 sector", "Norfolk County / coords 42.2500, -71.0200", "Norfolk County / ZIP 02169 sector"]
+zillowHomeValueUsd: 631241
 ---
 
 **Engineering Notice for Quincy:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: Norfolk County.

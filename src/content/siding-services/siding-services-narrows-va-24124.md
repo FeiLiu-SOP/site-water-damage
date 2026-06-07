@@ -12,6 +12,7 @@ lng: -80.8100
 zipSample: ["24124"]
 zipCodes: ["24124"]
 localPaths: ["Giles County / ZIP 24124 sector", "Giles County / coords 37.3300, -80.8100", "Giles County / primary ZIP 24124", "Giles County / elevation 1614 ft band"]
+zillowHomeValueUsd: 165059
 ---
 
 **Engineering Notice for Narrows:** Envelope check: Cladding Retrofit assigned to wind-load band C with stress factor 1.03. Elevation: 1614 ft AMSL. Regional dispatch grid: Giles County.

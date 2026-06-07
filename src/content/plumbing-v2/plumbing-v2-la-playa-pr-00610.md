@@ -12,6 +12,8 @@ lng: -67.1900
 zipSample: ["00610"]
 zipCodes: ["00610"]
 localPaths: ["Añasco County / coords 18.2900, -67.1900", "Añasco County / elevation 13 ft band", "Añasco County / primary ZIP 00610", "Añasco County / ZIP 00610 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 381495
 ---
 
 **Engineering Notice for La Playa:** System optimized for 127 mg/L hard water scaling factors in La Playa. Regional dispatch grid: Añasco County.

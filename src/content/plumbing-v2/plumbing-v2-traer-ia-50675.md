@@ -12,6 +12,7 @@ lng: -92.4600
 zipSample: ["50675"]
 zipCodes: ["50675"]
 localPaths: ["Tama County / coords 42.1900, -92.4600", "Tama County / elevation 965 ft band", "Tama County / ZIP 50675 sector", "Tama County / primary ZIP 50675"]
+zillowHomeValueUsd: 175936
 ---
 
 **Engineering Notice for Traer:** System optimized for 171 mg/L hard water scaling factors in Traer. Regional dispatch grid: Tama County.

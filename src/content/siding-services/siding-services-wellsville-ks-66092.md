@@ -12,6 +12,7 @@ lng: -95.0800
 zipSample: ["66092"]
 zipCodes: ["66092"]
 localPaths: ["Franklin County / primary ZIP 66092", "Franklin County / ZIP 66092 sector", "Franklin County / elevation 1079 ft band", "Franklin County / coords 38.7200, -95.0800"]
+zillowHomeValueUsd: 343716
 ---
 
 **Engineering Notice for Wellsville:** Weather Barrier Wrap was validated under stress factor 1.06; target tolerance set near 107 mph. Coordinates: 38.7200, -95.0800. Grid anchor: Franklin County.

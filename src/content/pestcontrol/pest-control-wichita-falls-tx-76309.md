@@ -11,6 +11,7 @@ lng: -98.5300
 zipSample: ["76306", "76305", "76310", "76309", "76301"]
 zipCodes: ["76307", "76305", "76302", "76301", "76306", "76309", "76310", "76311", "76308"]
 localPaths: ["Wichita County / elevation 961 ft band", "Wichita County / ZIP 76310 sector", "Wichita County / ZIP 76301 sector", "Wichita County / ZIP 76309 sector", "Wichita County / primary ZIP 76309"]
+zillowHomeValueUsd: 121410
 ---
 
 **Engineering Notice for Wichita Falls:** Structural loading calculated based on 961 ft terrain assessment. Regional dispatch grid: Wichita County.

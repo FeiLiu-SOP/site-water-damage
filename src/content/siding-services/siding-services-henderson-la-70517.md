@@ -12,6 +12,7 @@ lng: -91.8100
 zipSample: ["70517"]
 zipCodes: ["70517"]
 localPaths: ["St. Martin Parish / elevation 23 ft band", "St. Martin Parish / coords 30.3200, -91.8100", "St. Martin Parish / ZIP 70517 sector", "St. Martin Parish / primary ZIP 70517"]
+zillowHomeValueUsd: 176303
 ---
 
 **Engineering Notice for Henderson:** Site context locked to St. Martin Parish. Wall Restoration integrity verification recorded.

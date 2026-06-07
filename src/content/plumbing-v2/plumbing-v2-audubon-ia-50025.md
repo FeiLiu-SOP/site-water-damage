@@ -12,6 +12,7 @@ lng: -94.9300
 zipSample: ["50025"]
 zipCodes: ["50025"]
 localPaths: ["Audubon County / ZIP 50025 sector", "Audubon County / coords 41.7200, -94.9300", "Audubon County / elevation 1325 ft band", "Audubon County / primary ZIP 50025"]
+zillowHomeValueUsd: 150717
 ---
 
 **Engineering Notice for Audubon:** System optimized for 162 mg/L hard water scaling factors in Audubon. Regional dispatch grid: Audubon County.

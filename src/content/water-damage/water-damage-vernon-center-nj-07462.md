@@ -12,6 +12,7 @@ lng: -74.5000
 zipSample: ["07462"]
 zipCodes: ["07462"]
 localPaths: ["Sussex County / coords 41.1900, -74.5000", "Sussex County / elevation 843 ft band", "Sussex County / primary ZIP 07462", "Sussex County / ZIP 07462 sector"]
+zillowHomeValueUsd: 302637
 ---
 
 **Engineering Notice for Vernon Center:** structural drying capacity optimized for 843ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sussex County. Relative Humidity Threshold: 77%. Sensor sync: Active.

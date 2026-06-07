@@ -12,6 +12,7 @@ lng: -74.2200
 zipSample: ["07470"]
 zipCodes: ["07470"]
 localPaths: ["Passaic County / coords 40.9400, -74.2200", "Passaic County / primary ZIP 07470", "Passaic County / ZIP 07470 sector", "Passaic County / elevation 223 ft band"]
+zillowHomeValueUsd: 742828
 ---
 
 **Engineering Notice for Preakness:** Structural loading calculated based on 223 ft terrain assessment. Regional dispatch grid: Passaic County.

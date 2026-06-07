@@ -12,6 +12,7 @@ lng: -119.7000
 zipSample: ["93242"]
 zipCodes: ["93242"]
 localPaths: ["Fresno County / elevation 266 ft band", "Fresno County / coords 36.4300, -119.7000", "Fresno County / primary ZIP 93242", "Fresno County / ZIP 93242 sector"]
+zillowHomeValueUsd: 390432
 ---
 
 **Engineering Notice for Laton:** Cladding verification uses 139 mph routing baseline; lateral pressure note: 17.9 psf. Coordinates: 36.4300, -119.7000. Grid: Fresno County.

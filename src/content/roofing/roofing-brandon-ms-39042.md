@@ -11,6 +11,7 @@ lng: -89.9900
 zipSample: ["39043", "39042"]
 zipCodes: ["39042", "39043"]
 localPaths: ["Rankin County / ZIP 39042 sector", "Rankin County / primary ZIP 39042", "Rankin County / elevation 522 ft band", "Rankin County / coords 32.2800, -89.9900", "Rankin County / ZIP 39043 sector"]
+zillowHomeValueUsd: 282163
 ---
 
 **Engineering Notice for Brandon:** Structural loading calculated based on 522 ft terrain assessment. Regional dispatch grid: Rankin County.

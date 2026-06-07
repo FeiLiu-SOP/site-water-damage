@@ -12,6 +12,7 @@ lng: -90.2100
 zipSample: ["62691"]
 zipCodes: ["62691"]
 localPaths: ["Cass County / elevation 627 ft band", "Cass County / coords 39.9500, -90.2100", "Cass County / ZIP 62691 sector", "Cass County / primary ZIP 62691"]
+zillowHomeValueUsd: 103427
 ---
 
 **Engineering Notice for Virginia:** System optimized for 151 mg/L hard water scaling factors in Virginia. Regional dispatch grid: Cass County.

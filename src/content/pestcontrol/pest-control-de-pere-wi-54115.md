@@ -11,6 +11,7 @@ lng: -88.0800
 zipSample: ["54344", "54115"]
 zipCodes: ["54344", "54115"]
 localPaths: ["Brown County / coords 44.4300, -88.0800", "Brown County / elevation 620 ft band", "Brown County / primary ZIP 54115", "Brown County / ZIP 54115 sector", "Brown County / ZIP 54344 sector"]
+zillowHomeValueUsd: 417739
 ---
 
 **Engineering Notice for De Pere:** Structural loading calculated based on 620 ft terrain assessment. Regional dispatch grid: Brown County.

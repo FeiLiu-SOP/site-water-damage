@@ -12,6 +12,7 @@ lng: -108.1500
 zipSample: ["88036", "88022", "88041", "88026"]
 zipCodes: ["88041", "88026", "88036", "88022"]
 localPaths: ["Grant County / primary ZIP 88022", "Grant County / elevation 6004 ft band", "Grant County / coords 32.7800, -108.1500", "Grant County / ZIP 88022 sector", "Grant County / ZIP 88041 sector"]
+zillowHomeValueUsd: 214616
 ---
 
 **Engineering Notice for Santa Clara:** structural drying capacity optimized for 6004ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grant County. Relative Humidity Threshold: 70%. Sensor sync: Active.

@@ -11,6 +11,7 @@ lng: -112.0100
 zipSample: ["84131", "84170", "84119", "84125", "84130"]
 zipCodes: ["84127", "84170", "84130", "84131", "84118", "84119", "84120", "84128", "84125", "84126"]
 localPaths: ["Salt Lake County / ZIP 84119 sector", "Salt Lake County / elevation 4364 ft band", "Salt Lake County / ZIP 84131 sector", "Salt Lake County / ZIP 84130 sector", "Salt Lake County / ZIP 84125 sector"]
+zillowHomeValueUsd: 437658
 ---
 
 **Engineering Notice for West Valley City:** Structural loading calculated based on 4364 ft terrain assessment. Regional dispatch grid: Salt Lake County.

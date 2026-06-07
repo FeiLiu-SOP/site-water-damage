@@ -12,6 +12,7 @@ lng: -116.2300
 zipSample: ["83850"]
 zipCodes: ["83850"]
 localPaths: ["Shoshone County / ZIP 83850 sector", "Shoshone County / elevation 2228 ft band", "Shoshone County / coords 47.5400, -116.2300", "Shoshone County / primary ZIP 83850"]
+zillowHomeValueUsd: 303448
 ---
 
 **Engineering Notice for Pinehurst:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Elevation: 2228 ft AMSL. Coordinates: 47.5400, -116.2300. Grid: Shoshone County.

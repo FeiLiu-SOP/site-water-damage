@@ -11,6 +11,7 @@ lng: -90.3800
 zipSample: ["61402", "61401"]
 zipCodes: ["61401", "61402"]
 localPaths: ["Knox County / elevation 774 ft band", "Knox County / ZIP 61401 sector", "Knox County / ZIP 61402 sector", "Knox County / coords 40.9500, -90.3800", "Knox County / primary ZIP 61401"]
+zillowHomeValueUsd: 99730
 ---
 
 **Engineering Notice for Galesburg:** Structural loading calculated based on 774 ft terrain assessment. Regional dispatch grid: Knox County.

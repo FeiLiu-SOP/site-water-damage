@@ -12,6 +12,7 @@ lng: -93.0600
 zipSample: ["55917"]
 zipCodes: ["55917"]
 localPaths: ["Steele County / coords 43.8700, -93.0600", "Steele County / primary ZIP 55917", "Steele County / elevation 1296 ft band", "Steele County / ZIP 55917 sector"]
+zillowHomeValueUsd: 266064
 ---
 
 **Engineering Notice for Blooming Prairie:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Coordinates: 43.8700, -93.0600. Grid: Steele County.

@@ -12,6 +12,7 @@ lng: -117.2800
 zipSample: ["97828"]
 zipCodes: ["97828"]
 localPaths: ["Wallowa County / primary ZIP 97828", "Wallowa County / elevation 3753 ft band", "Wallowa County / coords 45.4300, -117.2800", "Wallowa County / ZIP 97828 sector"]
+zillowHomeValueUsd: 419619
 ---
 
 **Engineering Notice for Enterprise:** System optimized for 144 mg/L hard water scaling factors in Enterprise. Regional dispatch grid: Wallowa County.

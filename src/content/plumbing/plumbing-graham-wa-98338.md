@@ -12,6 +12,7 @@ lng: -122.2800
 zipSample: ["98338"]
 zipCodes: ["98338"]
 localPaths: ["Pierce County / coords 47.0300, -122.2800", "Pierce County / primary ZIP 98338", "Pierce County / ZIP 98338 sector", "Pierce County / elevation 853 ft band"]
+zillowHomeValueUsd: 591887
 ---
 
 **Engineering Notice for Graham:** Structural loading calculated based on 853 ft terrain assessment. Regional dispatch grid: Pierce County.

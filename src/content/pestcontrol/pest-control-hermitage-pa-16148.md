@@ -11,6 +11,7 @@ lng: -80.4400
 zipSample: ["16148"]
 zipCodes: ["16148"]
 localPaths: ["Mercer County / primary ZIP 16148", "Mercer County / ZIP 16148 sector", "Mercer County / elevation 1109 ft band", "Mercer County / coords 41.2300, -80.4400"]
+zillowHomeValueUsd: 213372
 ---
 
 **Engineering Notice for Hermitage:** Structural loading calculated based on 1109 ft terrain assessment. Regional dispatch grid: Mercer County.

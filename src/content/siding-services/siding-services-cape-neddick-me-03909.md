@@ -12,6 +12,7 @@ lng: -70.6200
 zipSample: ["03910", "03909"]
 zipCodes: ["03910", "03909"]
 localPaths: ["York County / ZIP 03909 sector", "York County / elevation 43 ft band", "York County / ZIP 03910 sector", "York County / coords 43.1700, -70.6200", "York County / primary ZIP 03909"]
+zillowHomeValueUsd: 755557
 ---
 
 **Engineering Notice for Cape Neddick:** Site context locked to York County. Surface Sheathing integrity verification recorded.

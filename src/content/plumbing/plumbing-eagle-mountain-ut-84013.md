@@ -12,6 +12,7 @@ lng: -112.0100
 zipSample: ["84013", "84005"]
 zipCodes: ["84005", "84013"]
 localPaths: ["Utah County / ZIP 84013 sector", "Utah County / ZIP 84005 sector", "Utah County / coords 40.3100, -112.0100", "Utah County / elevation 4885 ft band", "Utah County / primary ZIP 84013"]
+zillowHomeValueUsd: 538918
 ---
 
 **Engineering Notice for Eagle Mountain:** Structural loading calculated based on 4885 ft terrain assessment. Regional dispatch grid: Utah County.

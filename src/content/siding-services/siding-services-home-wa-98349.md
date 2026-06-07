@@ -12,6 +12,7 @@ lng: -122.7700
 zipSample: ["98349"]
 zipCodes: ["98349"]
 localPaths: ["Pierce County / coords 47.2800, -122.7700", "Pierce County / primary ZIP 98349", "Pierce County / elevation 233 ft band", "Pierce County / ZIP 98349 sector"]
+zillowHomeValueUsd: 530808
 ---
 
 **Engineering Notice for Home:** Structural integrity verification: Vinyl Panels calibrated for 109 mph localized wind load factor. Elevation: 233 ft AMSL. Coordinates: 47.2800, -122.7700. Regional dispatch grid: Pierce County.

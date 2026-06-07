@@ -12,6 +12,7 @@ lng: -76.9200
 zipSample: ["28570"]
 zipCodes: ["28570"]
 localPaths: ["Carteret County / primary ZIP 28570", "Carteret County / ZIP 28570 sector", "Carteret County / elevation 33 ft band", "Carteret County / coords 34.7300, -76.9200"]
+zillowHomeValueUsd: 346656
 ---
 
 **Engineering Notice for Broad Creek:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Elevation: 33 ft AMSL. Coordinates: 34.7300, -76.9200. Grid: Carteret County.

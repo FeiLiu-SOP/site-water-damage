@@ -12,6 +12,7 @@ lng: -87.9900
 zipSample: ["62420"]
 zipCodes: ["62420"]
 localPaths: ["Clark County / primary ZIP 62420", "Clark County / coords 39.3000, -87.9900", "Clark County / elevation 653 ft band", "Clark County / ZIP 62420 sector"]
+zillowHomeValueUsd: 123476
 ---
 
 **Engineering Notice for Casey:** structural drying capacity optimized for 653ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clark County. Relative Humidity Threshold: 68%. Sensor sync: Active.

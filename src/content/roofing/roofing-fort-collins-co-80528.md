@@ -11,6 +11,7 @@ lng: -105.0700
 zipSample: ["80521", "80525", "80523", "80524", "80527"]
 zipCodes: ["80527", "80553", "80525", "80528", "80526", "80523", "80521", "80524"]
 localPaths: ["Larimer County / elevation 5007 ft band", "Larimer County / ZIP 80521 sector", "Larimer County / ZIP 80527 sector", "Larimer County / ZIP 80523 sector", "Larimer County / ZIP 80524 sector"]
+zillowHomeValueUsd: 648762
 ---
 
 **Engineering Notice for Fort Collins:** Structural loading calculated based on 5007 ft terrain assessment. Regional dispatch grid: Larimer County.

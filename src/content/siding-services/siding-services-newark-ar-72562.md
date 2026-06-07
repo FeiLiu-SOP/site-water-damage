@@ -12,6 +12,7 @@ lng: -91.4400
 zipSample: ["72562"]
 zipCodes: ["72562"]
 localPaths: ["Independence County / primary ZIP 72562", "Independence County / ZIP 72562 sector", "Independence County / coords 35.7100, -91.4400", "Independence County / elevation 308 ft band"]
+zillowHomeValueUsd: 145316
 ---
 
 **Engineering Notice for Newark:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Elevation: 308 ft AMSL. Grid: Independence County.

@@ -11,6 +11,7 @@ lng: -97.0700
 zipSample: ["76051", "76099", "75261"]
 zipCodes: ["76051", "75261", "76099"]
 localPaths: ["Tarrant County / primary ZIP 75261", "Tarrant County / ZIP 75261 sector", "Tarrant County / elevation 643 ft band", "Tarrant County / ZIP 76099 sector", "Tarrant County / coords 32.9300, -97.0700"]
+zillowHomeValueUsd: 548132
 ---
 
 **Engineering Notice for Grapevine:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Tarrant County.

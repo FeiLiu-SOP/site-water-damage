@@ -12,6 +12,7 @@ lng: -121.5500
 zipSample: ["95798", "95691", "95799", "95605", "95899"]
 zipCodes: ["95799", "95605", "95899", "95798", "95691"]
 localPaths: ["Yolo County / ZIP 95691 sector", "Yolo County / elevation 3 ft band", "Yolo County / primary ZIP 95605", "Yolo County / ZIP 95799 sector", "Yolo County / coords 38.5600, -121.5500"]
+zillowHomeValueUsd: 414932
 ---
 
 **Engineering Notice for West Sacramento:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Yolo County.

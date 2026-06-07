@@ -11,6 +11,7 @@ lng: -96.9100
 zipSample: ["75137", "75138", "75116"]
 zipCodes: ["75137", "75116", "75138"]
 localPaths: ["Dallas County / ZIP 75116 sector", "Dallas County / primary ZIP 75116", "Dallas County / coords 32.6500, -96.9100", "Dallas County / ZIP 75138 sector", "Dallas County / ZIP 75137 sector"]
+zillowHomeValueUsd: 273652
 ---
 
 **Engineering Notice for Duncanville:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Dallas County.

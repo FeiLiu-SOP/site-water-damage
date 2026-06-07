@@ -12,6 +12,7 @@ lng: -90.2700
 zipSample: ["70357"]
 zipCodes: ["70357"]
 localPaths: ["Lafourche Parish / coords 29.3900, -90.2700", "Lafourche Parish / primary ZIP 70357", "Lafourche Parish / elevation 7 ft band", "Lafourche Parish / ZIP 70357 sector"]
+zillowHomeValueUsd: 81769
 ---
 
 **Engineering Notice for Golden Meadow:** System optimized for 147 mg/L hard water scaling factors in Golden Meadow. Regional dispatch grid: Lafourche Parish.

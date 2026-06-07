@@ -11,6 +11,7 @@ lng: -122.4300
 zipSample: ["98607"]
 zipCodes: ["98607"]
 localPaths: ["Clark County / elevation 699 ft band", "Clark County / coords 45.6000, -122.4300", "Clark County / primary ZIP 98607", "Clark County / ZIP 98607 sector"]
+zillowHomeValueUsd: 751867
 ---
 
 **Engineering Notice for Camas:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Clark County.

@@ -12,6 +12,7 @@ lng: -89.9900
 zipSample: ["62226"]
 zipCodes: ["62226"]
 localPaths: ["St. Clair County / elevation 574 ft band", "St. Clair County / coords 38.5500, -89.9900", "St. Clair County / primary ZIP 62226", "St. Clair County / ZIP 62226 sector"]
+zillowHomeValueUsd: 180675
 ---
 
 **Engineering Notice for Swansea:** Structural loading calculated based on 574 ft terrain assessment. Regional dispatch grid: St. Clair County.

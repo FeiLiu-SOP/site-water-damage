@@ -12,6 +12,7 @@ lng: -121.1700
 zipSample: ["98617", "98635"]
 zipCodes: ["98617", "98635"]
 localPaths: ["Klickitat County / elevation 203 ft band", "Klickitat County / ZIP 98617 sector", "Klickitat County / primary ZIP 98617", "Klickitat County / ZIP 98635 sector", "Klickitat County / coords 45.6300, -121.1700"]
+zillowHomeValueUsd: 425421
 ---
 
 **Engineering Notice for Dallesport:** structural drying capacity optimized for 203ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Klickitat County. Relative Humidity Threshold: 79%. Sensor sync: Active.

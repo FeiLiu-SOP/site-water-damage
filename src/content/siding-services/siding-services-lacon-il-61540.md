@@ -12,6 +12,7 @@ lng: -89.4100
 zipSample: ["61540"]
 zipCodes: ["61540"]
 localPaths: ["Marshall County / coords 41.0200, -89.4100", "Marshall County / elevation 525 ft band", "Marshall County / primary ZIP 61540", "Marshall County / ZIP 61540 sector"]
+zillowHomeValueUsd: 133503
 ---
 
 **Engineering Notice for Lacon:** Cladding Retrofit was validated under stress factor 0.72; target tolerance set near 100 mph. Grid anchor: Marshall County.

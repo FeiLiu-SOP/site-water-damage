@@ -11,6 +11,7 @@ lng: -74.2700
 zipSample: ["08862", "08861"]
 zipCodes: ["08861", "08862"]
 localPaths: ["Middlesex County / coords 40.5200, -74.2700", "Middlesex County / primary ZIP 08861", "Middlesex County / ZIP 08862 sector", "Middlesex County / ZIP 08861 sector", "Middlesex County / elevation 85 ft band"]
+zillowHomeValueUsd: 495688
 ---
 
 **Engineering Notice for Perth Amboy:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Middlesex County.

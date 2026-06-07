@@ -12,6 +12,7 @@ lng: -89.4800
 zipSample: ["38080"]
 zipCodes: ["38080"]
 localPaths: ["Lake County / coords 36.2600, -89.4800", "Lake County / primary ZIP 38080", "Lake County / elevation 289 ft band", "Lake County / ZIP 38080 sector"]
+zillowHomeValueUsd: 111136
 ---
 
 **Engineering Notice for Ridgely:** Exterior Cladding was validated under stress factor 0.71; target tolerance set near 96 mph. Coordinates: 36.2600, -89.4800. Grid anchor: Lake County.

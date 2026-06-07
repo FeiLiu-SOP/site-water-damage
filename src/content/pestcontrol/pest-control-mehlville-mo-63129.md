@@ -11,6 +11,7 @@ lng: -90.3100
 zipSample: ["63129", "63125"]
 zipCodes: ["63125", "63129"]
 localPaths: ["St. Louis County / ZIP 63129 sector", "St. Louis County / elevation 597 ft band", "St. Louis County / coords 38.5000, -90.3100", "St. Louis County / ZIP 63125 sector", "St. Louis County / primary ZIP 63129"]
+zillowHomeValueUsd: 340029
 ---
 
 **Engineering Notice for Mehlville:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: St. Louis County.

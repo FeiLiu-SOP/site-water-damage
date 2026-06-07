@@ -12,6 +12,7 @@ lng: -84.0000
 zipSample: ["41002"]
 zipCodes: ["41002"]
 localPaths: ["Bracken County / primary ZIP 41002", "Bracken County / ZIP 41002 sector", "Bracken County / coords 38.7700, -84.0000", "Bracken County / elevation 522 ft band"]
+zillowHomeValueUsd: 194295
 ---
 
 **Engineering Notice for Augusta:** System optimized for 169 mg/L hard water scaling factors in Augusta. Regional dispatch grid: Bracken County.

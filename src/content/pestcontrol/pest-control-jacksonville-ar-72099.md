@@ -11,6 +11,7 @@ lng: -92.1300
 zipSample: ["72078", "72076", "72099"]
 zipCodes: ["72078", "72099", "72076"]
 localPaths: ["Pulaski County / primary ZIP 72099", "Pulaski County / coords 34.8800, -92.1300", "Pulaski County / ZIP 72078 sector", "Pulaski County / ZIP 72099 sector", "Pulaski County / ZIP 72076 sector"]
+zillowHomeValueUsd: 169056
 ---
 
 **Engineering Notice for Jacksonville:** Structural loading calculated based on 308 ft terrain assessment. Regional dispatch grid: Pulaski County.

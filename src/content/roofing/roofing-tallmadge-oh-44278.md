@@ -11,6 +11,7 @@ lng: -81.4200
 zipSample: ["44278"]
 zipCodes: ["44278"]
 localPaths: ["Summit County / primary ZIP 44278", "Summit County / elevation 1204 ft band", "Summit County / coords 41.1000, -81.4200", "Summit County / ZIP 44278 sector"]
+zillowHomeValueUsd: 282410
 ---
 
 **Engineering Notice for Tallmadge:** Structural loading calculated based on 1204 ft terrain assessment. Regional dispatch grid: Summit County.

@@ -12,6 +12,7 @@ lng: -90.3900
 zipSample: ["61239", "61282", "61244"]
 zipCodes: ["61282", "61239", "61244"]
 localPaths: ["Rock Island County / ZIP 61282 sector", "Rock Island County / coords 41.5000, -90.3900", "Rock Island County / primary ZIP 61244", "Rock Island County / ZIP 61244 sector", "Rock Island County / elevation 640 ft band"]
+zillowHomeValueUsd: 143022
 ---
 
 **Engineering Notice for Carbon Cliff:** Vinyl Panels was validated under stress factor 0.74; target tolerance set near 97 mph. Grid anchor: Rock Island County.

@@ -11,6 +11,7 @@ lng: -94.3500
 zipSample: ["72957", "72956"]
 zipCodes: ["72956", "72957"]
 localPaths: ["Crawford County / elevation 653 ft band", "Crawford County / primary ZIP 72956", "Crawford County / ZIP 72957 sector", "Crawford County / ZIP 72956 sector", "Crawford County / coords 35.4500, -94.3500"]
+zillowHomeValueUsd: 205208
 ---
 
 **Engineering Notice for Van Buren:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Crawford County.

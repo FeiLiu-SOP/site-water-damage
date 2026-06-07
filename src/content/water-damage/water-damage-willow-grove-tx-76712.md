@@ -12,6 +12,7 @@ lng: -97.3000
 zipSample: ["76712"]
 zipCodes: ["76712"]
 localPaths: ["McLennan County / elevation 568 ft band", "McLennan County / primary ZIP 76712", "McLennan County / coords 31.5600, -97.3000", "McLennan County / ZIP 76712 sector"]
+zillowHomeValueUsd: 349633
 ---
 
 **Engineering Notice for Willow Grove:** structural drying capacity optimized for 568ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McLennan County. Relative Humidity Threshold: 72%. Sensor sync: Active.

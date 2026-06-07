@@ -12,6 +12,7 @@ lng: -82.8400
 zipSample: ["45629"]
 zipCodes: ["45629"]
 localPaths: ["Scioto County / primary ZIP 45629", "Scioto County / ZIP 45629 sector", "Scioto County / elevation 551 ft band", "Scioto County / coords 38.6100, -82.8400"]
+zillowHomeValueUsd: 172533
 ---
 
 **Engineering Notice for Franklin Furnace:** structural drying capacity optimized for 551ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Scioto County. Relative Humidity Threshold: 74%. Sensor sync: Active.

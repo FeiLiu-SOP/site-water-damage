@@ -12,6 +12,7 @@ lng: -91.5500
 zipSample: ["72521"]
 zipCodes: ["72521"]
 localPaths: ["Sharp County / coords 35.9500, -91.5500", "Sharp County / elevation 650 ft band", "Sharp County / primary ZIP 72521", "Sharp County / ZIP 72521 sector"]
+zillowHomeValueUsd: 172899
 ---
 
 **Engineering Notice for Cave City:** Envelope check: Panel Replacement assigned to wind-load band B with stress factor 1.15. Elevation: 650 ft AMSL. Regional dispatch grid: Sharp County.

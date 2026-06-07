@@ -12,6 +12,7 @@ lng: -83.8300
 zipSample: ["45167"]
 zipCodes: ["45167"]
 localPaths: ["Brown County / ZIP 45167 sector", "Brown County / coords 38.7300, -83.8300", "Brown County / primary ZIP 45167", "Brown County / elevation 525 ft band"]
+zillowHomeValueUsd: 184324
 ---
 
 **Engineering Notice for Ripley:** structural drying capacity optimized for 525ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Brown County. Relative Humidity Threshold: 75%. Sensor sync: Active.

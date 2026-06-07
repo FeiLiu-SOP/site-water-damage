@@ -12,6 +12,7 @@ lng: -79.5400
 zipSample: ["26764"]
 zipCodes: ["26764"]
 localPaths: ["Preston County / coords 39.4400, -79.5400", "Preston County / ZIP 26764 sector", "Preston County / primary ZIP 26764", "Preston County / elevation 2579 ft band"]
+zillowHomeValueUsd: 174446
 ---
 
 **Engineering Notice for Terra Alta:** Structural integrity verification: Wall Restoration calibrated for 104 mph localized wind load factor. Elevation: 2579 ft AMSL. Coordinates: 39.4400, -79.5400. Regional dispatch grid: Preston County.

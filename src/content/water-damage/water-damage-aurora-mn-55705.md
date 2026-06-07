@@ -12,6 +12,7 @@ lng: -92.2400
 zipSample: ["55705"]
 zipCodes: ["55705"]
 localPaths: ["St. Louis County / elevation 1490 ft band", "St. Louis County / coords 47.5300, -92.2400", "St. Louis County / ZIP 55705 sector", "St. Louis County / primary ZIP 55705"]
+zillowHomeValueUsd: 153692
 ---
 
 **Engineering Notice for Aurora:** structural drying capacity optimized for 1490ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Louis County. Relative Humidity Threshold: 84%. Sensor sync: Active.

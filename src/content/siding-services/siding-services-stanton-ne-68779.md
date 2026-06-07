@@ -12,6 +12,7 @@ lng: -97.2200
 zipSample: ["68779"]
 zipCodes: ["68779"]
 localPaths: ["Stanton County / ZIP 68779 sector", "Stanton County / elevation 1460 ft band", "Stanton County / primary ZIP 68779", "Stanton County / coords 41.9500, -97.2200"]
+zillowHomeValueUsd: 248194
 ---
 
 **Engineering Notice for Stanton:** Structural integrity verification: Cladding Service calibrated for 100 mph localized wind load factor. Coordinates: 41.9500, -97.2200. Regional dispatch grid: Stanton County.

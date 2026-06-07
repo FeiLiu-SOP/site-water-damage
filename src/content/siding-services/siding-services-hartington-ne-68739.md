@@ -12,6 +12,7 @@ lng: -97.2700
 zipSample: ["68739"]
 zipCodes: ["68739"]
 localPaths: ["Cedar County / coords 42.6200, -97.2700", "Cedar County / elevation 1424 ft band", "Cedar County / primary ZIP 68739", "Cedar County / ZIP 68739 sector"]
+zillowHomeValueUsd: 266592
 ---
 
 **Engineering Notice for Hartington:** Weather Barrier Wrap was validated under stress factor 1.11; target tolerance set near 96 mph. Coordinates: 42.6200, -97.2700. Grid anchor: Cedar County.

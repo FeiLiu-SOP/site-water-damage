@@ -12,6 +12,7 @@ lng: -80.2400
 zipSample: ["15027"]
 zipCodes: ["15027"]
 localPaths: ["Beaver County / elevation 823 ft band", "Beaver County / ZIP 15027 sector", "Beaver County / primary ZIP 15027", "Beaver County / coords 40.6700, -80.2400"]
+zillowHomeValueUsd: 197881
 ---
 
 **Engineering Notice for Conway:** System optimized for 165 mg/L hard water scaling factors in Conway. Regional dispatch grid: Beaver County.

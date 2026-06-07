@@ -12,6 +12,7 @@ lng: -93.9400
 zipSample: ["50261", "50003"]
 zipCodes: ["50261", "50003"]
 localPaths: ["Dallas County / primary ZIP 50261", "Dallas County / elevation 997 ft band", "Dallas County / ZIP 50261 sector", "Dallas County / coords 41.5200, -93.9400", "Dallas County / ZIP 50003 sector"]
+zillowHomeValueUsd: 406046
 ---
 
 **Engineering Notice for Van Meter:** structural drying capacity optimized for 997ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dallas County. Relative Humidity Threshold: 82%. Sensor sync: Active.

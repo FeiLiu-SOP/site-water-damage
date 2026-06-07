@@ -12,6 +12,7 @@ lng: -124.2600
 zipSample: ["95536"]
 zipCodes: ["95536"]
 localPaths: ["Humboldt County / elevation 43 ft band", "Humboldt County / primary ZIP 95536", "Humboldt County / coords 40.5800, -124.2600", "Humboldt County / ZIP 95536 sector"]
+zillowHomeValueUsd: 504166
 ---
 
 **Engineering Notice for Ferndale:** Envelope check: Wall Restoration assigned to wind-load band C with stress factor 1.22. Regional dispatch grid: Humboldt County.

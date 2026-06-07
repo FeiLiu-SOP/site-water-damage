@@ -12,6 +12,7 @@ lng: -83.8300
 zipSample: ["40337"]
 zipCodes: ["40337"]
 localPaths: ["Montgomery County / elevation 804 ft band", "Montgomery County / coords 37.9700, -83.8300", "Montgomery County / primary ZIP 40337", "Montgomery County / ZIP 40337 sector"]
+zillowHomeValueUsd: 210072
 ---
 
 **Engineering Notice for Jeffersonville:** System optimized for 155 mg/L hard water scaling factors in Jeffersonville. Regional dispatch grid: Montgomery County.

@@ -11,6 +11,7 @@ lng: -98.2200
 zipSample: ["76402", "76401"]
 zipCodes: ["76401", "76402"]
 localPaths: ["Erath County / primary ZIP 76401", "Erath County / ZIP 76401 sector", "Erath County / elevation 1362 ft band", "Erath County / coords 32.2100, -98.2200", "Erath County / ZIP 76402 sector"]
+zillowHomeValueUsd: 323709
 ---
 
 **Engineering Notice for Stephenville:** Structural loading calculated based on 1362 ft terrain assessment. Regional dispatch grid: Erath County.

@@ -12,6 +12,7 @@ lng: -107.9600
 zipSample: ["87410"]
 zipCodes: ["87410"]
 localPaths: ["San Juan County / elevation 5741 ft band", "San Juan County / primary ZIP 87410", "San Juan County / coords 36.8700, -107.9600", "San Juan County / ZIP 87410 sector"]
+zillowHomeValueUsd: 275870
 ---
 
 **Engineering Notice for Center Point:** Envelope check: Panel Replacement assigned to wind-load band B with stress factor 1.01. Regional dispatch grid: San Juan County.

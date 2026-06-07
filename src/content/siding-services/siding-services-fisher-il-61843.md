@@ -12,6 +12,7 @@ lng: -88.3500
 zipSample: ["61843"]
 zipCodes: ["61843"]
 localPaths: ["Champaign County / elevation 715 ft band", "Champaign County / ZIP 61843 sector", "Champaign County / primary ZIP 61843", "Champaign County / coords 40.3200, -88.3500"]
+zillowHomeValueUsd: 226706
 ---
 
 **Engineering Notice for Fisher:** Cladding Retrofit was validated under stress factor 0.72; target tolerance set near 100 mph. Coordinates: 40.3200, -88.3500. Grid anchor: Champaign County.

@@ -12,6 +12,7 @@ lng: -87.8300
 zipSample: ["35564"]
 zipCodes: ["35564"]
 localPaths: ["Marion County / elevation 909 ft band", "Marion County / primary ZIP 35564", "Marion County / coords 34.2700, -87.8300", "Marion County / ZIP 35564 sector"]
+zillowHomeValueUsd: 154227
 ---
 
 **Engineering Notice for Hackleburg:** System optimized for 179 mg/L hard water scaling factors in Hackleburg. Regional dispatch grid: Marion County.

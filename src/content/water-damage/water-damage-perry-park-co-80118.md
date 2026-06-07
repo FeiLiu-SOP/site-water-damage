@@ -12,6 +12,7 @@ lng: -104.9800
 zipSample: ["80118"]
 zipCodes: ["80118"]
 localPaths: ["Douglas County / elevation 6493 ft band", "Douglas County / ZIP 80118 sector", "Douglas County / coords 39.2600, -104.9800", "Douglas County / primary ZIP 80118"]
+zillowHomeValueUsd: 951143
 ---
 
 **Engineering Notice for Perry Park:** structural drying capacity optimized for 6493ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Douglas County. Relative Humidity Threshold: 77%. Sensor sync: Active.

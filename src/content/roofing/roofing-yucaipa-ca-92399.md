@@ -11,6 +11,7 @@ lng: -117.0400
 zipSample: ["92399"]
 zipCodes: ["92399"]
 localPaths: ["San Bernardino County / ZIP 92399 sector", "San Bernardino County / primary ZIP 92399", "San Bernardino County / elevation 2628 ft band", "San Bernardino County / coords 34.0300, -117.0400"]
+zillowHomeValueUsd: 570011
 ---
 
 **Engineering Notice for Yucaipa:** Structural loading calculated based on 2628 ft terrain assessment. Regional dispatch grid: San Bernardino County.

@@ -12,6 +12,7 @@ lng: -158.0400
 zipSample: ["96786", "96854"]
 zipCodes: ["96854", "96786"]
 localPaths: ["Honolulu County / coords 21.4800, -158.0400", "Honolulu County / ZIP 96854 sector", "Honolulu County / ZIP 96786 sector", "Honolulu County / primary ZIP 96786", "Honolulu County / elevation 801 ft band"]
+zillowHomeValueUsd: 850692
 ---
 
 **Engineering Notice for Wheeler AFB:** Panel Replacement was validated under stress factor 1.04; target tolerance set near 97 mph. Coordinates: 21.4800, -158.0400. Grid anchor: Honolulu County.

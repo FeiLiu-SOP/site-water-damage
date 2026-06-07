@@ -12,6 +12,7 @@ lng: -74.6100
 zipSample: ["12733"]
 zipCodes: ["12733"]
 localPaths: ["Sullivan County / coords 41.7300, -74.6100", "Sullivan County / elevation 1302 ft band", "Sullivan County / primary ZIP 12733", "Sullivan County / ZIP 12733 sector"]
+zillowHomeValueUsd: 323885
 ---
 
 **Engineering Notice for Fallsburg:** System optimized for 148 mg/L hard water scaling factors in Fallsburg. Regional dispatch grid: Sullivan County.

@@ -11,6 +11,7 @@ lng: -81.9300
 zipSample: ["32159", "32158"]
 zipCodes: ["32158", "32159"]
 localPaths: ["Lake County / ZIP 32158 sector", "Lake County / ZIP 32159 sector", "Lake County / coords 28.9200, -81.9300", "Lake County / elevation 105 ft band", "Lake County / primary ZIP 32159"]
+zillowHomeValueUsd: 318751
 ---
 
 **Engineering Notice for Lady Lake:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Lake County.

@@ -12,6 +12,7 @@ lng: -74.6200
 zipSample: ["08550", "08540"]
 zipCodes: ["08550", "08540"]
 localPaths: ["Mercer County / ZIP 08550 sector", "Mercer County / ZIP 08540 sector", "Mercer County / primary ZIP 08550", "Mercer County / elevation 85 ft band", "Mercer County / coords 40.3200, -74.6200"]
+zillowHomeValueUsd: 1000621
 ---
 
 **Engineering Notice for Princeton Junction:** Structural integrity verification: Cladding Service calibrated for 98 mph localized wind load factor. Elevation: 85 ft AMSL. Coordinates: 40.3200, -74.6200. Regional dispatch grid: Mercer County.

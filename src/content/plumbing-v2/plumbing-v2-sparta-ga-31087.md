@@ -12,6 +12,7 @@ lng: -82.9700
 zipSample: ["31087"]
 zipCodes: ["31087"]
 localPaths: ["Hancock County / ZIP 31087 sector", "Hancock County / elevation 571 ft band", "Hancock County / primary ZIP 31087", "Hancock County / coords 33.2800, -82.9700"]
+zillowHomeValueUsd: 227377
 ---
 
 **Engineering Notice for Sparta:** System optimized for 137 mg/L hard water scaling factors in Sparta. Regional dispatch grid: Hancock County.

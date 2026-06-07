@@ -12,6 +12,7 @@ lng: -83.1500
 zipSample: ["43420"]
 zipCodes: ["43420"]
 localPaths: ["Sandusky County / ZIP 43420 sector", "Sandusky County / elevation 630 ft band", "Sandusky County / primary ZIP 43420", "Sandusky County / coords 41.3500, -83.1500"]
+zillowHomeValueUsd: 173727
 ---
 
 **Engineering Notice for Stony Prairie:** Structural integrity verification: Exterior Envelope calibrated for 101 mph localized wind load factor. Elevation: 630 ft AMSL. Regional dispatch grid: Sandusky County.

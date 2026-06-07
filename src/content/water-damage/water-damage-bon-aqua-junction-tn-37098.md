@@ -12,6 +12,7 @@ lng: -87.3100
 zipSample: ["37098"]
 zipCodes: ["37098"]
 localPaths: ["Hickman County / ZIP 37098 sector", "Hickman County / elevation 922 ft band", "Hickman County / coords 35.9300, -87.3100", "Hickman County / primary ZIP 37098"]
+zillowHomeValueUsd: 265198
 ---
 
 **Engineering Notice for Bon Aqua Junction:** structural drying capacity optimized for 922ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hickman County. Relative Humidity Threshold: 84%. Sensor sync: Active.

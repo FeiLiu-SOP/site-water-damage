@@ -12,6 +12,7 @@ lng: -121.1000
 zipSample: ["95236"]
 zipCodes: ["95236"]
 localPaths: ["San Joaquin County / coords 38.0200, -121.1000", "San Joaquin County / elevation 89 ft band", "San Joaquin County / ZIP 95236 sector", "San Joaquin County / primary ZIP 95236"]
+zillowHomeValueUsd: 674363
 ---
 
 **Engineering Notice for Linden:** Panel Replacement was validated under stress factor 0.81; target tolerance set near 130 mph. Grid anchor: San Joaquin County.

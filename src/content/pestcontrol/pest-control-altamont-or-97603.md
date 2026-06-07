@@ -11,6 +11,7 @@ lng: -121.7200
 zipSample: ["97603"]
 zipCodes: ["97603"]
 localPaths: ["Klamath County / ZIP 97603 sector", "Klamath County / primary ZIP 97603", "Klamath County / coords 42.2000, -121.7200", "Klamath County / elevation 4140 ft band"]
+zillowHomeValueUsd: 325595
 ---
 
 **Engineering Notice for Altamont:** Structural loading calculated based on 4140 ft terrain assessment. Regional dispatch grid: Klamath County.

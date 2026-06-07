@@ -12,6 +12,7 @@ lng: -89.7800
 zipSample: ["38139", "38138", "38183"]
 zipCodes: ["38183", "38139", "38138"]
 localPaths: ["Shelby County / ZIP 38139 sector", "Shelby County / coords 35.0800, -89.7800", "Shelby County / ZIP 38138 sector", "Shelby County / primary ZIP 38138", "Shelby County / ZIP 38183 sector"]
+zillowHomeValueUsd: 436272
 ---
 
 **Engineering Notice for Germantown:** Structural loading calculated based on 335 ft terrain assessment. Regional dispatch grid: Shelby County.

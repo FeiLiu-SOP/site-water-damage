@@ -12,6 +12,7 @@ lng: -83.5400
 zipSample: ["30549"]
 zipCodes: ["30549"]
 localPaths: ["Jackson County / coords 34.0700, -83.5400", "Jackson County / elevation 863 ft band", "Jackson County / ZIP 30549 sector", "Jackson County / primary ZIP 30549"]
+zillowHomeValueUsd: 413769
 ---
 
 **Engineering Notice for Arcade:** Cladding verification uses 108 mph routing baseline; lateral pressure note: 14.2 psf. Coordinates: 34.0700, -83.5400. Grid: Jackson County.

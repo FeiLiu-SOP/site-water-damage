@@ -12,6 +12,7 @@ lng: -98.4200
 zipSample: ["78572"]
 zipCodes: ["78572"]
 localPaths: ["Hidalgo County / elevation 128 ft band", "Hidalgo County / primary ZIP 78572", "Hidalgo County / coords 26.2200, -98.4200", "Hidalgo County / ZIP 78572 sector"]
+zillowHomeValueUsd: 197879
 ---
 
 **Engineering Notice for Abram:** System optimized for 180 mg/L hard water scaling factors in Abram. Regional dispatch grid: Hidalgo County.

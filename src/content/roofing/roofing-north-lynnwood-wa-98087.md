@@ -11,6 +11,7 @@ lng: -122.2800
 zipSample: ["98087", "98037"]
 zipCodes: ["98087", "98037"]
 localPaths: ["Snohomish County / ZIP 98087 sector", "Snohomish County / coords 47.8500, -122.2800", "Snohomish County / primary ZIP 98087", "Snohomish County / ZIP 98037 sector", "Snohomish County / elevation 558 ft band"]
+zillowHomeValueUsd: 751160
 ---
 
 **Engineering Notice for North Lynnwood:** Structural loading calculated based on 558 ft terrain assessment. Regional dispatch grid: Snohomish County.

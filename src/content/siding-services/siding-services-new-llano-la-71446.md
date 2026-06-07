@@ -12,6 +12,7 @@ lng: -93.2800
 zipSample: ["71461", "71446"]
 zipCodes: ["71461", "71446"]
 localPaths: ["Vernon Parish / elevation 240 ft band", "Vernon Parish / primary ZIP 71446", "Vernon Parish / ZIP 71446 sector", "Vernon Parish / coords 31.1000, -93.2800", "Vernon Parish / ZIP 71461 sector"]
+zillowHomeValueUsd: 154312
 ---
 
 **Engineering Notice for New Llano:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Elevation: 240 ft AMSL. Coordinates: 31.1000, -93.2800. Grid: Vernon Parish.

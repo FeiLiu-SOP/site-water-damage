@@ -12,6 +12,7 @@ lng: -91.1100
 zipSample: ["70380", "70340"]
 zipCodes: ["70380", "70340"]
 localPaths: ["St. Mary Parish / coords 29.6600, -91.1100", "St. Mary Parish / primary ZIP 70380", "St. Mary Parish / ZIP 70380 sector", "St. Mary Parish / ZIP 70340 sector", "St. Mary Parish / elevation 13 ft band"]
+zillowHomeValueUsd: 122742
 ---
 
 **Engineering Notice for Amelia:** Site context locked to St. Mary Parish. Coordinates: 29.6600, -91.1100. Weather Barrier Wrap integrity verification recorded.

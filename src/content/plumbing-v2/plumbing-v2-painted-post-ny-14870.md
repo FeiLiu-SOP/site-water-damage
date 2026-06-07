@@ -12,6 +12,7 @@ lng: -77.0900
 zipSample: ["14870"]
 zipCodes: ["14870"]
 localPaths: ["Steuben County / coords 42.1600, -77.0900", "Steuben County / ZIP 14870 sector", "Steuben County / elevation 1004 ft band", "Steuben County / primary ZIP 14870"]
+zillowHomeValueUsd: 204048
 ---
 
 **Engineering Notice for Painted Post:** System optimized for 158 mg/L hard water scaling factors in Painted Post. Regional dispatch grid: Steuben County.

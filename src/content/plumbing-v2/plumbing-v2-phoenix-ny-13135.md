@@ -12,6 +12,7 @@ lng: -76.3000
 zipSample: ["13135"]
 zipCodes: ["13135"]
 localPaths: ["Oswego County / primary ZIP 13135", "Oswego County / ZIP 13135 sector", "Oswego County / elevation 384 ft band", "Oswego County / coords 43.2300, -76.3000"]
+zillowHomeValueUsd: 236518
 ---
 
 **Engineering Notice for Phoenix:** System optimized for 169 mg/L hard water scaling factors in Phoenix. Regional dispatch grid: Oswego County.

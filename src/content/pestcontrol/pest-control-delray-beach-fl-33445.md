@@ -11,6 +11,7 @@ lng: -80.0900
 zipSample: ["33445", "33482", "33444", "33483", "33448"]
 zipCodes: ["33482", "33444", "33445", "33483", "33448"]
 localPaths: ["Palm Beach County / ZIP 33482 sector", "Palm Beach County / elevation 33 ft band", "Palm Beach County / primary ZIP 33445", "Palm Beach County / ZIP 33448 sector", "Palm Beach County / ZIP 33444 sector"]
+zillowHomeValueUsd: 304590
 ---
 
 **Engineering Notice for Delray Beach:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Palm Beach County.

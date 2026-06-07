@@ -12,6 +12,7 @@ lng: -99.8300
 zipSample: ["78801"]
 zipCodes: ["78801"]
 localPaths: ["Uvalde County / ZIP 78801 sector", "Uvalde County / elevation 935 ft band", "Uvalde County / primary ZIP 78801", "Uvalde County / coords 29.1700, -99.8300"]
+zillowHomeValueUsd: 182603
 ---
 
 **Engineering Notice for Uvalde Estates:** System optimized for 133 mg/L hard water scaling factors in Uvalde Estates. Regional dispatch grid: Uvalde County.

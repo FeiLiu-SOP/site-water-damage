@@ -11,6 +11,7 @@ lng: -80.2400
 zipSample: ["33188", "33142"]
 zipCodes: ["33142", "33188"]
 localPaths: ["Miami-Dade County / ZIP 33142 sector", "Miami-Dade County / primary ZIP 33142", "Miami-Dade County / coords 25.8200, -80.2400", "Miami-Dade County / ZIP 33188 sector", "Miami-Dade County / elevation 33 ft band"]
+zillowHomeValueUsd: 422054
 ---
 
 **Engineering Notice for Brownsville:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

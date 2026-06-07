@@ -12,6 +12,8 @@ lng: -73.9500
 zipSample: ["12477", "12432"]
 zipCodes: ["12477", "12432"]
 localPaths: ["Ulster County / elevation 144 ft band", "Ulster County / ZIP 12477 sector", "Ulster County / coords 42.0500, -73.9500", "Ulster County / primary ZIP 12432", "Ulster County / ZIP 12432 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 503723
 ---
 
 **Engineering Notice for Glasco:** Cladding verification uses 95 mph routing baseline; lateral pressure note: 12.6 psf. Grid: Ulster County.

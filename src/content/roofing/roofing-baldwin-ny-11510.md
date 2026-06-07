@@ -11,6 +11,7 @@ lng: -73.6100
 zipSample: ["11510"]
 zipCodes: ["11510"]
 localPaths: ["Nassau County / elevation 26 ft band", "Nassau County / ZIP 11510 sector", "Nassau County / coords 40.6500, -73.6100", "Nassau County / primary ZIP 11510"]
+zillowHomeValueUsd: 714475
 ---
 
 **Engineering Notice for Baldwin:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Nassau County.

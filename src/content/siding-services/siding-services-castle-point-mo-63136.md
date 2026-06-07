@@ -12,6 +12,7 @@ lng: -90.2500
 zipSample: ["63136"]
 zipCodes: ["63136"]
 localPaths: ["St. Louis County / coords 38.7600, -90.2500", "St. Louis County / elevation 492 ft band", "St. Louis County / primary ZIP 63136", "St. Louis County / ZIP 63136 sector"]
+zillowHomeValueUsd: 85958
 ---
 
 **Engineering Notice for Castle Point:** Envelope check: Vinyl Panels assigned to wind-load band C with stress factor 0.94. Elevation: 492 ft AMSL. Regional dispatch grid: St. Louis County.

@@ -12,6 +12,7 @@ lng: -99.9900
 zipSample: ["58368"]
 zipCodes: ["58368"]
 localPaths: ["Pierce County / elevation 1532 ft band", "Pierce County / coords 48.3700, -99.9900", "Pierce County / primary ZIP 58368", "Pierce County / ZIP 58368 sector"]
+zillowHomeValueUsd: 199761
 ---
 
 **Engineering Notice for Rugby:** Site context locked to Pierce County. Coordinates: 48.3700, -99.9900. Cladding Service integrity verification recorded.

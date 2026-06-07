@@ -12,6 +12,7 @@ lng: -90.2700
 zipSample: ["53929"]
 zipCodes: ["53929"]
 localPaths: ["Juneau County / elevation 955 ft band", "Juneau County / primary ZIP 53929", "Juneau County / ZIP 53929 sector", "Juneau County / coords 43.7400, -90.2700"]
+zillowHomeValueUsd: 224342
 ---
 
 **Engineering Notice for Elroy:** Panel Replacement was validated under stress factor 1.21; target tolerance set near 98 mph. Grid anchor: Juneau County.

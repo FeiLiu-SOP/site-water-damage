@@ -12,6 +12,7 @@ lng: -91.3600
 zipSample: ["72006"]
 zipCodes: ["72006"]
 localPaths: ["Woodruff County / elevation 236 ft band", "Woodruff County / ZIP 72006 sector", "Woodruff County / coords 35.2900, -91.3600", "Woodruff County / primary ZIP 72006"]
+zillowHomeValueUsd: 72072
 ---
 
 **Engineering Notice for Augusta:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Elevation: 236 ft AMSL. Grid: Woodruff County.

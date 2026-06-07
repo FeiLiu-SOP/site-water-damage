@@ -12,6 +12,7 @@ lng: -149.7500
 zipSample: ["99694", "99688"]
 zipCodes: ["99694", "99688"]
 localPaths: ["Matanuska-Susitna County / ZIP 99694 sector", "Matanuska-Susitna County / primary ZIP 99694", "Matanuska-Susitna County / coords 61.8200, -149.7500", "Matanuska-Susitna County / ZIP 99688 sector", "Matanuska-Susitna County / elevation 0 ft band"]
+zillowHomeValueUsd: 250903
 ---
 
 **Engineering Notice for Willow:** System optimized for 160 mg/L hard water scaling factors in Willow. Regional dispatch grid: Matanuska-Susitna County.

@@ -12,6 +12,7 @@ lng: -79.9700
 zipSample: ["15236", "15227"]
 zipCodes: ["15236", "15227"]
 localPaths: ["Allegheny County / ZIP 15227 sector", "Allegheny County / ZIP 15236 sector", "Allegheny County / coords 40.3700, -79.9700", "Allegheny County / elevation 1135 ft band", "Allegheny County / primary ZIP 15236"]
+zillowHomeValueUsd: 249576
 ---
 
 **Engineering Notice for Baldwin:** Structural loading calculated based on 1135 ft terrain assessment. Regional dispatch grid: Allegheny County.

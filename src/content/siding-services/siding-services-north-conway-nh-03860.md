@@ -12,6 +12,7 @@ lng: -71.1200
 zipSample: ["03860", "03847"]
 zipCodes: ["03860", "03847"]
 localPaths: ["Carroll County / coords 44.0400, -71.1200", "Carroll County / elevation 591 ft band", "Carroll County / primary ZIP 03860", "Carroll County / ZIP 03847 sector", "Carroll County / ZIP 03860 sector"]
+zillowHomeValueUsd: 486688
 ---
 
 **Engineering Notice for North Conway:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Coordinates: 44.0400, -71.1200. Grid: Carroll County.

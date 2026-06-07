@@ -12,6 +12,7 @@ lng: -88.8800
 zipSample: ["38257"]
 zipCodes: ["38257"]
 localPaths: ["Obion County / coords 36.4900, -88.8800", "Obion County / ZIP 38257 sector", "Obion County / elevation 344 ft band", "Obion County / primary ZIP 38257"]
+zillowHomeValueUsd: 154866
 ---
 
 **Engineering Notice for South Fulton:** System optimized for 120 mg/L hard water scaling factors in South Fulton. Regional dispatch grid: Obion County.

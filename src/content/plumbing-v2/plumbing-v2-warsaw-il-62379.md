@@ -12,6 +12,7 @@ lng: -91.4300
 zipSample: ["62379"]
 zipCodes: ["62379"]
 localPaths: ["Hancock County / coords 40.3500, -91.4300", "Hancock County / primary ZIP 62379", "Hancock County / elevation 659 ft band", "Hancock County / ZIP 62379 sector"]
+zillowHomeValueUsd: 111191
 ---
 
 **Engineering Notice for Warsaw:** System optimized for 163 mg/L hard water scaling factors in Warsaw. Regional dispatch grid: Hancock County.

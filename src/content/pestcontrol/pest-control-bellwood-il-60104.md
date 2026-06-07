@@ -11,6 +11,7 @@ lng: -87.8800
 zipSample: ["60104"]
 zipCodes: ["60104"]
 localPaths: ["Cook County / ZIP 60104 sector", "Cook County / coords 41.8800, -87.8800", "Cook County / elevation 643 ft band", "Cook County / primary ZIP 60104"]
+zillowHomeValueUsd: 242740
 ---
 
 **Engineering Notice for Bellwood:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Cook County.

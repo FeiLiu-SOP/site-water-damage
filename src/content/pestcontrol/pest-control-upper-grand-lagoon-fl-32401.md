@@ -11,6 +11,7 @@ lng: -85.7400
 zipSample: ["32408", "32406", "32401", "32407", "32411"]
 zipCodes: ["32406", "32401", "32407", "32408", "32411"]
 localPaths: ["Bay County / coords 30.1700, -85.7400", "Bay County / ZIP 32401 sector", "Bay County / ZIP 32408 sector", "Bay County / ZIP 32411 sector", "Bay County / elevation 0 ft band"]
+zillowHomeValueUsd: 212912
 ---
 
 **Engineering Notice for Upper Grand Lagoon:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Bay County.

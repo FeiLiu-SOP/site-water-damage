@@ -12,6 +12,7 @@ lng: -112.9800
 zipSample: ["86021"]
 zipCodes: ["86021"]
 localPaths: ["Mohave County / elevation 4911 ft band", "Mohave County / ZIP 86021 sector", "Mohave County / primary ZIP 86021", "Mohave County / coords 36.9500, -112.9800"]
+zillowHomeValueUsd: 361396
 ---
 
 **Engineering Notice for Centennial Park:** Facade Renewal was validated under stress factor 1.23; target tolerance set near 108 mph. Coordinates: 36.9500, -112.9800. Grid anchor: Mohave County.

@@ -12,6 +12,7 @@ lng: -78.0300
 zipSample: ["28451"]
 zipCodes: ["28451"]
 localPaths: ["Brunswick County / primary ZIP 28451", "Brunswick County / elevation 26 ft band", "Brunswick County / ZIP 28451 sector", "Brunswick County / coords 34.2800, -78.0300"]
+zillowHomeValueUsd: 378075
 ---
 
 **Engineering Notice for Navassa:** Envelope check: Weather Barrier Wrap assigned to wind-load band B with stress factor 1.11. Elevation: 26 ft AMSL. Regional dispatch grid: Brunswick County.

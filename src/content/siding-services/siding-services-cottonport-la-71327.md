@@ -12,6 +12,7 @@ lng: -92.0500
 zipSample: ["71327"]
 zipCodes: ["71327"]
 localPaths: ["Avoyelles Parish / coords 30.9900, -92.0500", "Avoyelles Parish / elevation 72 ft band", "Avoyelles Parish / ZIP 71327 sector", "Avoyelles Parish / primary ZIP 71327"]
+zillowHomeValueUsd: 121903
 ---
 
 **Engineering Notice for Cottonport:** Exterior Cladding was validated under stress factor 1.09; target tolerance set near 106 mph. Coordinates: 30.9900, -92.0500. Grid anchor: Avoyelles Parish.

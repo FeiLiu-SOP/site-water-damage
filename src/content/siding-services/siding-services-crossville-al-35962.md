@@ -12,6 +12,7 @@ lng: -86.0000
 zipSample: ["35962"]
 zipCodes: ["35962"]
 localPaths: ["DeKalb County / ZIP 35962 sector", "DeKalb County / coords 34.2900, -86.0000", "DeKalb County / primary ZIP 35962", "DeKalb County / elevation 1135 ft band"]
+zillowHomeValueUsd: 193733
 ---
 
 **Engineering Notice for Crossville:** Envelope check: Weather Barrier Wrap assigned to wind-load band C with stress factor 0.80. Regional dispatch grid: DeKalb County.

@@ -12,6 +12,8 @@ lng: -80.4400
 zipSample: ["32970", "32967", "32958"]
 zipCodes: ["32970", "32958", "32967"]
 localPaths: ["Indian River County / ZIP 32970 sector", "Indian River County / primary ZIP 32970", "Indian River County / coords 27.7500, -80.4400", "Indian River County / ZIP 32958 sector", "Indian River County / ZIP 32967 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 470194
 ---
 
 **Engineering Notice for Wabasso:** Envelope check: Cladding Service assigned to wind-load band A with stress factor 1.02. Elevation: 52 ft AMSL. Regional dispatch grid: Indian River County.

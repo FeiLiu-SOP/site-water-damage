@@ -11,6 +11,7 @@ lng: -76.8700
 zipSample: ["20785"]
 zipCodes: ["20785"]
 localPaths: ["Prince George's County / elevation 213 ft band", "Prince George's County / ZIP 20785 sector", "Prince George's County / coords 38.9000, -76.8700", "Prince George's County / primary ZIP 20785"]
+zillowHomeValueUsd: 345223
 ---
 
 **Engineering Notice for Summerfield:** Structural loading calculated based on 213 ft terrain assessment. Regional dispatch grid: Prince George's County.

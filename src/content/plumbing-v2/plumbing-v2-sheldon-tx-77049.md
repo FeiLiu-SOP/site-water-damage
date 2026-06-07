@@ -12,6 +12,7 @@ lng: -95.1300
 zipSample: ["77049"]
 zipCodes: ["77049"]
 localPaths: ["Harris County / ZIP 77049 sector", "Harris County / elevation 52 ft band", "Harris County / primary ZIP 77049", "Harris County / coords 29.8600, -95.1300"]
+zillowHomeValueUsd: 242110
 ---
 
 **Engineering Notice for Sheldon:** System optimized for 159 mg/L hard water scaling factors in Sheldon. Regional dispatch grid: Harris County.

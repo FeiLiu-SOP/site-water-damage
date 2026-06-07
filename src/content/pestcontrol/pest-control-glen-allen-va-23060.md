@@ -11,6 +11,7 @@ lng: -77.4800
 zipSample: ["23059", "23060", "23058"]
 zipCodes: ["23059", "23060", "23058"]
 localPaths: ["Henrico County / ZIP 23060 sector", "Henrico County / ZIP 23059 sector", "Henrico County / coords 37.6700, -77.4800", "Henrico County / ZIP 23058 sector", "Henrico County / primary ZIP 23060"]
+zillowHomeValueUsd: 451301
 ---
 
 **Engineering Notice for Glen Allen:** Structural loading calculated based on 223 ft terrain assessment. Regional dispatch grid: Henrico County.

@@ -12,6 +12,7 @@ lng: -88.1000
 zipSample: ["60440", "60490"]
 zipCodes: ["60490", "60440"]
 localPaths: ["Will County / ZIP 60440 sector", "Will County / ZIP 60490 sector", "Will County / primary ZIP 60440", "Will County / elevation 676 ft band", "Will County / coords 41.6900, -88.1000"]
+zillowHomeValueUsd: 326913
 ---
 
 **Engineering Notice for Bolingbrook:** Structural loading calculated based on 676 ft terrain assessment. Regional dispatch grid: Will County.

@@ -11,6 +11,7 @@ lng: -82.7800
 zipSample: ["33775", "33778", "33772", "33777"]
 zipCodes: ["33778", "33772", "33775", "33777"]
 localPaths: ["Pinellas County / ZIP 33772 sector", "Pinellas County / elevation 20 ft band", "Pinellas County / ZIP 33778 sector", "Pinellas County / ZIP 33777 sector", "Pinellas County / ZIP 33775 sector"]
+zillowHomeValueUsd: 325132
 ---
 
 **Engineering Notice for Seminole:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Pinellas County.

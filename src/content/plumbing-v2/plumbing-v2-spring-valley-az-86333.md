@@ -12,6 +12,7 @@ lng: -112.1600
 zipSample: ["86333"]
 zipCodes: ["86333"]
 localPaths: ["Yavapai County / primary ZIP 86333", "Yavapai County / ZIP 86333 sector", "Yavapai County / coords 34.3500, -112.1600", "Yavapai County / elevation 3930 ft band"]
+zillowHomeValueUsd: 308388
 ---
 
 **Engineering Notice for Spring Valley:** System optimized for 174 mg/L hard water scaling factors in Spring Valley. Regional dispatch grid: Yavapai County.

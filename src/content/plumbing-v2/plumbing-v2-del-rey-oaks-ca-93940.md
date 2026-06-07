@@ -12,6 +12,7 @@ lng: -121.8300
 zipSample: ["93955", "93940"]
 zipCodes: ["93955", "93940"]
 localPaths: ["Monterey County / coords 36.5900, -121.8300", "Monterey County / elevation 151 ft band", "Monterey County / primary ZIP 93940", "Monterey County / ZIP 93955 sector", "Monterey County / ZIP 93940 sector"]
+zillowHomeValueUsd: 1135833
 ---
 
 **Engineering Notice for Del Rey Oaks:** System optimized for 121 mg/L hard water scaling factors in Del Rey Oaks. Regional dispatch grid: Monterey County.

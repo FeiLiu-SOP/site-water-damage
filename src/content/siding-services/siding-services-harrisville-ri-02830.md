@@ -12,6 +12,7 @@ lng: -71.6800
 zipSample: ["02830"]
 zipCodes: ["02830"]
 localPaths: ["Providence County / primary ZIP 02830", "Providence County / elevation 351 ft band", "Providence County / ZIP 02830 sector", "Providence County / coords 41.9700, -71.6800"]
+zillowHomeValueUsd: 474202
 ---
 
 **Engineering Notice for Harrisville:** Panel Replacement was validated under stress factor 0.93; target tolerance set near 105 mph. Coordinates: 41.9700, -71.6800. Grid anchor: Providence County.

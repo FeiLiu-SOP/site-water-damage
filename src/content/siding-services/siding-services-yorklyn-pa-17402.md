@@ -12,6 +12,7 @@ lng: -76.6400
 zipSample: ["17402"]
 zipCodes: ["17402"]
 localPaths: ["York County / primary ZIP 17402", "York County / ZIP 17402 sector", "York County / elevation 420 ft band", "York County / coords 39.9900, -76.6400"]
+zillowHomeValueUsd: 325280
 ---
 
 **Engineering Notice for Yorklyn:** Cladding Service was validated under stress factor 1.23; target tolerance set near 98 mph. Coordinates: 39.9900, -76.6400. Grid anchor: York County.

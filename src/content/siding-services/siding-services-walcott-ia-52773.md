@@ -12,6 +12,7 @@ lng: -90.7700
 zipSample: ["52773"]
 zipCodes: ["52773"]
 localPaths: ["Scott County / coords 41.6000, -90.7700", "Scott County / elevation 725 ft band", "Scott County / primary ZIP 52773", "Scott County / ZIP 52773 sector"]
+zillowHomeValueUsd: 278377
 ---
 
 **Engineering Notice for Walcott:** Site context locked to Scott County. Coordinates: 41.6000, -90.7700. Facade Renewal integrity verification recorded.

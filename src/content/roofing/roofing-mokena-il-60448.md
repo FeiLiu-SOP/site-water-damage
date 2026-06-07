@@ -11,6 +11,7 @@ lng: -87.8800
 zipSample: ["60448"]
 zipCodes: ["60448"]
 localPaths: ["Will County / coords 41.5300, -87.8800", "Will County / elevation 725 ft band", "Will County / primary ZIP 60448", "Will County / ZIP 60448 sector"]
+zillowHomeValueUsd: 438003
 ---
 
 **Engineering Notice for Mokena:** Structural loading calculated based on 725 ft terrain assessment. Regional dispatch grid: Will County.

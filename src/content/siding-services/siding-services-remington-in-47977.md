@@ -12,6 +12,7 @@ lng: -87.1400
 zipSample: ["47977"]
 zipCodes: ["47977"]
 localPaths: ["Jasper County / elevation 732 ft band", "Jasper County / coords 40.7700, -87.1400", "Jasper County / primary ZIP 47977", "Jasper County / ZIP 47977 sector"]
+zillowHomeValueUsd: 220494
 ---
 
 **Engineering Notice for Remington:** Envelope check: Cladding Retrofit assigned to wind-load band B with stress factor 0.73. Elevation: 732 ft AMSL. Regional dispatch grid: Jasper County.

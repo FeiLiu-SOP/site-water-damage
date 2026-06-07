@@ -12,6 +12,7 @@ lng: -123.6500
 zipSample: ["97523"]
 zipCodes: ["97523"]
 localPaths: ["Josephine County / coords 42.1700, -123.6500", "Josephine County / ZIP 97523 sector", "Josephine County / primary ZIP 97523", "Josephine County / elevation 1339 ft band"]
+zillowHomeValueUsd: 295534
 ---
 
 **Engineering Notice for Cave Junction:** System optimized for 136 mg/L hard water scaling factors in Cave Junction. Regional dispatch grid: Josephine County.

@@ -12,6 +12,7 @@ lng: -86.5200
 zipSample: ["46913", "46929"]
 zipCodes: ["46913", "46929"]
 localPaths: ["Carroll County / primary ZIP 46929", "Carroll County / elevation 715 ft band", "Carroll County / ZIP 46929 sector", "Carroll County / ZIP 46913 sector", "Carroll County / coords 40.5500, -86.5200"]
+zillowHomeValueUsd: 202490
 ---
 
 **Engineering Notice for Flora:** Cladding verification uses 94 mph routing baseline; lateral pressure note: 12.5 psf. Elevation: 715 ft AMSL. Grid: Carroll County.

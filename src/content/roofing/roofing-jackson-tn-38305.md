@@ -11,6 +11,7 @@ lng: -88.8400
 zipSample: ["38305", "38303", "38301", "38314"]
 zipCodes: ["38314", "38303", "38305", "38301"]
 localPaths: ["Madison County / ZIP 38303 sector", "Madison County / primary ZIP 38305", "Madison County / ZIP 38301 sector", "Madison County / ZIP 38314 sector", "Madison County / elevation 463 ft band"]
+zillowHomeValueUsd: 279910
 ---
 
 **Engineering Notice for Jackson:** Structural loading calculated based on 463 ft terrain assessment. Regional dispatch grid: Madison County.

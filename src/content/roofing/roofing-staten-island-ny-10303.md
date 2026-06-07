@@ -11,6 +11,7 @@ lng: -74.1500
 zipSample: ["10312", "10302", "10307", "10304", "10306"]
 zipCodes: ["10301", "10307", "10308", "10312", "10302", "10303", "10309", "10310", "10314", "10311", "10305", "10304"]
 localPaths: ["Richmond County / ZIP 10306 sector", "Richmond County / ZIP 10302 sector", "Richmond County / ZIP 10304 sector", "Richmond County / ZIP 10307 sector", "Richmond County / elevation 174 ft band"]
+zillowHomeValueUsd: 547272
 ---
 
 **Engineering Notice for Staten Island:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Richmond County.

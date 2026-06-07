@@ -12,6 +12,7 @@ lng: -81.7900
 zipSample: ["29831"]
 zipCodes: ["29831"]
 localPaths: ["Aiken County / primary ZIP 29831", "Aiken County / elevation 217 ft band", "Aiken County / ZIP 29831 sector", "Aiken County / coords 33.3300, -81.7900"]
+zillowHomeValueUsd: 123190
 ---
 
 **Engineering Notice for Jackson:** structural drying capacity optimized for 217ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Aiken County. Relative Humidity Threshold: 74%. Sensor sync: Active.

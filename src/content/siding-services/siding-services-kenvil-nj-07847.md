@@ -12,6 +12,7 @@ lng: -74.6200
 zipSample: ["07847"]
 zipCodes: ["07847"]
 localPaths: ["Morris County / primary ZIP 07847", "Morris County / ZIP 07847 sector", "Morris County / coords 40.8800, -74.6200", "Morris County / elevation 715 ft band"]
+zillowHomeValueUsd: 498615
 ---
 
 **Engineering Notice for Kenvil:** Surface Sheathing was validated under stress factor 0.97; target tolerance set near 97 mph. Grid anchor: Morris County.

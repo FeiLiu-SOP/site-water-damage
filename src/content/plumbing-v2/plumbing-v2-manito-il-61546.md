@@ -12,6 +12,7 @@ lng: -89.7800
 zipSample: ["61546"]
 zipCodes: ["61546"]
 localPaths: ["Mason County / primary ZIP 61546", "Mason County / elevation 505 ft band", "Mason County / ZIP 61546 sector", "Mason County / coords 40.4200, -89.7800"]
+zillowHomeValueUsd: 137388
 ---
 
 **Engineering Notice for Manito:** System optimized for 131 mg/L hard water scaling factors in Manito. Regional dispatch grid: Mason County.

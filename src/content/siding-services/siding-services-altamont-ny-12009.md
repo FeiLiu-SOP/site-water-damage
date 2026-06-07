@@ -12,6 +12,7 @@ lng: -74.0300
 zipSample: ["12009"]
 zipCodes: ["12009"]
 localPaths: ["Albany County / primary ZIP 12009", "Albany County / ZIP 12009 sector", "Albany County / coords 42.7100, -74.0300", "Albany County / elevation 453 ft band"]
+zillowHomeValueUsd: 409075
 ---
 
 **Engineering Notice for Altamont:** Envelope check: Wall Restoration assigned to wind-load band A with stress factor 1.06. Elevation: 453 ft AMSL. Regional dispatch grid: Albany County.

@@ -12,6 +12,7 @@ lng: -97.1600
 zipSample: ["73098"]
 zipCodes: ["73098"]
 localPaths: ["Garvin County / primary ZIP 73098", "Garvin County / elevation 912 ft band", "Garvin County / ZIP 73098 sector", "Garvin County / coords 34.6400, -97.1600"]
+zillowHomeValueUsd: 160260
 ---
 
 **Engineering Notice for Wynnewood:** Exterior Cladding was validated under stress factor 1.09; target tolerance set near 99 mph. Coordinates: 34.6400, -97.1600. Grid anchor: Garvin County.

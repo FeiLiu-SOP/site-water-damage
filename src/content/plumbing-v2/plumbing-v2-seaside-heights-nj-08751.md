@@ -12,6 +12,7 @@ lng: -74.0800
 zipSample: ["08751"]
 zipCodes: ["08751"]
 localPaths: ["Ocean County / primary ZIP 08751", "Ocean County / ZIP 08751 sector", "Ocean County / coords 39.9500, -74.0800", "Ocean County / elevation 0 ft band"]
+zillowHomeValueUsd: 712593
 ---
 
 **Engineering Notice for Seaside Heights:** System optimized for 133 mg/L hard water scaling factors in Seaside Heights. Regional dispatch grid: Ocean County.

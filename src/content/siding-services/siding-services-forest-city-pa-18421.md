@@ -12,6 +12,7 @@ lng: -75.4700
 zipSample: ["18421"]
 zipCodes: ["18421"]
 localPaths: ["Susquehanna County / elevation 1654 ft band", "Susquehanna County / primary ZIP 18421", "Susquehanna County / ZIP 18421 sector", "Susquehanna County / coords 41.6500, -75.4700"]
+zillowHomeValueUsd: 204903
 ---
 
 **Engineering Notice for Forest City:** Site context locked to Susquehanna County. Coordinates: 41.6500, -75.4700. Weather Barrier Wrap integrity verification recorded.

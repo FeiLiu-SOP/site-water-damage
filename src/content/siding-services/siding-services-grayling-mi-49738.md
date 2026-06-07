@@ -12,6 +12,7 @@ lng: -84.7100
 zipSample: ["49738"]
 zipCodes: ["49738"]
 localPaths: ["Crawford County / primary ZIP 49738", "Crawford County / coords 44.6600, -84.7100", "Crawford County / elevation 1135 ft band", "Crawford County / ZIP 49738 sector"]
+zillowHomeValueUsd: 177189
 ---
 
 **Engineering Notice for Grayling:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 0.77. Elevation: 1135 ft AMSL. Regional dispatch grid: Crawford County.

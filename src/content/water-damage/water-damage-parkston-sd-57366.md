@@ -12,6 +12,7 @@ lng: -97.9900
 zipSample: ["57366"]
 zipCodes: ["57366"]
 localPaths: ["Hutchinson County / elevation 1401 ft band", "Hutchinson County / ZIP 57366 sector", "Hutchinson County / coords 43.3900, -97.9900", "Hutchinson County / primary ZIP 57366"]
+zillowHomeValueUsd: 232847
 ---
 
 **Engineering Notice for Parkston:** structural drying capacity optimized for 1401ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hutchinson County. Relative Humidity Threshold: 84%. Sensor sync: Active.

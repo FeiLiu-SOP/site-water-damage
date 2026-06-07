@@ -12,6 +12,7 @@ lng: -122.7000
 zipSample: ["97520"]
 zipCodes: ["97520"]
 localPaths: ["Jackson County / primary ZIP 97520", "Jackson County / coords 42.1900, -122.7000", "Jackson County / ZIP 97520 sector", "Jackson County / elevation 1972 ft band"]
+zillowHomeValueUsd: 550604
 ---
 
 **Engineering Notice for Ashland:** Structural loading calculated based on 1972 ft terrain assessment. Regional dispatch grid: Jackson County.

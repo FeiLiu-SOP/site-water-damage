@@ -12,6 +12,7 @@ lng: -87.9900
 zipSample: ["42459"]
 zipCodes: ["42459"]
 localPaths: ["Union County / primary ZIP 42459", "Union County / elevation 367 ft band", "Union County / coords 37.5500, -87.9900", "Union County / ZIP 42459 sector"]
+zillowHomeValueUsd: 109470
 ---
 
 **Engineering Notice for Sturgis:** structural drying capacity optimized for 367ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Union County. Relative Humidity Threshold: 69%. Sensor sync: Active.

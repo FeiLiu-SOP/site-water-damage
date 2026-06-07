@@ -12,6 +12,7 @@ lng: -87.6200
 zipSample: ["60476", "60430"]
 zipCodes: ["60430", "60476"]
 localPaths: ["Cook County / coords 41.5700, -87.6200", "Cook County / primary ZIP 60476", "Cook County / ZIP 60476 sector", "Cook County / elevation 522 ft band", "Cook County / ZIP 60430 sector"]
+zillowHomeValueUsd: 176279
 ---
 
 **Engineering Notice for Thornton:** structural drying capacity optimized for 522ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cook County. Relative Humidity Threshold: 69%. Sensor sync: Active.

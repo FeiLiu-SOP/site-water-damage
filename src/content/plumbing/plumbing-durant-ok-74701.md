@@ -12,6 +12,7 @@ lng: -96.3900
 zipSample: ["74701"]
 zipCodes: ["74701"]
 localPaths: ["Bryan County / elevation 686 ft band", "Bryan County / primary ZIP 74701", "Bryan County / ZIP 74701 sector", "Bryan County / coords 33.9900, -96.3900"]
+zillowHomeValueUsd: 221543
 ---
 
 **Engineering Notice for Durant:** Structural loading calculated based on 686 ft terrain assessment. Regional dispatch grid: Bryan County.

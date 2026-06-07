@@ -11,6 +11,7 @@ lng: -104.9900
 zipSample: ["80151", "80110", "80150", "80113"]
 zipCodes: ["80150", "80113", "80151", "80110"]
 localPaths: ["Arapahoe County / primary ZIP 80113", "Arapahoe County / ZIP 80150 sector", "Arapahoe County / ZIP 80110 sector", "Arapahoe County / ZIP 80113 sector", "Arapahoe County / ZIP 80151 sector"]
+zillowHomeValueUsd: 646686
 ---
 
 **Engineering Notice for Englewood:** Structural loading calculated based on 5367 ft terrain assessment. Regional dispatch grid: Arapahoe County.

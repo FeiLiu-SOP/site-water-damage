@@ -12,6 +12,7 @@ lng: -80.7100
 zipSample: ["32953"]
 zipCodes: ["32953"]
 localPaths: ["Brevard County / coords 28.3800, -80.7100", "Brevard County / elevation 16 ft band", "Brevard County / primary ZIP 32953", "Brevard County / ZIP 32953 sector"]
+zillowHomeValueUsd: 423336
 ---
 
 **Engineering Notice for Tropical Park:** Cladding Service was validated under stress factor 1.13; target tolerance set near 142 mph. Grid anchor: Brevard County.

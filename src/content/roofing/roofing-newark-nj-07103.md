@@ -11,6 +11,7 @@ lng: -74.1700
 zipSample: ["07107", "07101", "07106", "07188", "07112"]
 zipCodes: ["07114", "07108", "07199", "07195", "07192", "07103", "07104", "07102", "07101", "07112", "07105", "07175"]
 localPaths: ["Essex County / ZIP 07112 sector", "Essex County / ZIP 07107 sector", "Essex County / coords 40.7200, -74.1700", "Essex County / ZIP 07188 sector", "Essex County / ZIP 07106 sector"]
+zillowHomeValueUsd: 392642
 ---
 
 **Engineering Notice for Newark:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Essex County.

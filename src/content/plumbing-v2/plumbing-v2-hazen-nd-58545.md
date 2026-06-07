@@ -12,6 +12,7 @@ lng: -101.6300
 zipSample: ["58545"]
 zipCodes: ["58545"]
 localPaths: ["Mercer County / elevation 1742 ft band", "Mercer County / coords 47.3000, -101.6300", "Mercer County / ZIP 58545 sector", "Mercer County / primary ZIP 58545"]
+zillowHomeValueUsd: 242309
 ---
 
 **Engineering Notice for Hazen:** System optimized for 138 mg/L hard water scaling factors in Hazen. Regional dispatch grid: Mercer County.

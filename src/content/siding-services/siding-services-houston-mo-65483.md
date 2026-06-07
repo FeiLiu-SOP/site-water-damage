@@ -12,6 +12,7 @@ lng: -91.9600
 zipSample: ["65483"]
 zipCodes: ["65483"]
 localPaths: ["Texas County / primary ZIP 65483", "Texas County / elevation 1207 ft band", "Texas County / coords 37.3200, -91.9600", "Texas County / ZIP 65483 sector"]
+zillowHomeValueUsd: 186636
 ---
 
 **Engineering Notice for Houston:** Structural integrity verification: Facade Renewal calibrated for 100 mph localized wind load factor. Elevation: 1207 ft AMSL. Regional dispatch grid: Texas County.

@@ -12,6 +12,7 @@ lng: -85.4200
 zipSample: ["49053"]
 zipCodes: ["49053"]
 localPaths: ["Kalamazoo County / coords 42.2900, -85.4200", "Kalamazoo County / ZIP 49053 sector", "Kalamazoo County / elevation 814 ft band", "Kalamazoo County / primary ZIP 49053"]
+zillowHomeValueUsd: 286096
 ---
 
 **Engineering Notice for Galesburg:** Structural integrity verification: Wall Restoration calibrated for 98 mph localized wind load factor. Coordinates: 42.2900, -85.4200. Regional dispatch grid: Kalamazoo County.

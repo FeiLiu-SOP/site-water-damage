@@ -12,6 +12,7 @@ lng: -76.0200
 zipSample: ["17527", "17535"]
 zipCodes: ["17527", "17535"]
 localPaths: ["Lancaster County / ZIP 17535 sector", "Lancaster County / ZIP 17527 sector", "Lancaster County / elevation 505 ft band", "Lancaster County / primary ZIP 17527", "Lancaster County / coords 39.9900, -76.0200"]
+zillowHomeValueUsd: 462095
 ---
 
 **Engineering Notice for Gap:** System optimized for 177 mg/L hard water scaling factors in Gap. Regional dispatch grid: Lancaster County.

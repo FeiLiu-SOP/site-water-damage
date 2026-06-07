@@ -12,6 +12,7 @@ lng: -87.8800
 zipSample: ["60044"]
 zipCodes: ["60044"]
 localPaths: ["Lake County / ZIP 60044 sector", "Lake County / elevation 699 ft band", "Lake County / primary ZIP 60044", "Lake County / coords 42.2800, -87.8800"]
+zillowHomeValueUsd: 632281
 ---
 
 **Engineering Notice for Knollwood:** Site context locked to Lake County. Cladding Retrofit integrity verification recorded.

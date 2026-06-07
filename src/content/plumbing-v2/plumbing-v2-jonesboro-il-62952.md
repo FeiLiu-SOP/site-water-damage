@@ -12,6 +12,7 @@ lng: -89.2700
 zipSample: ["62952"]
 zipCodes: ["62952"]
 localPaths: ["Union County / coords 37.4500, -89.2700", "Union County / primary ZIP 62952", "Union County / elevation 535 ft band", "Union County / ZIP 62952 sector"]
+zillowHomeValueUsd: 134129
 ---
 
 **Engineering Notice for Jonesboro:** System optimized for 139 mg/L hard water scaling factors in Jonesboro. Regional dispatch grid: Union County.

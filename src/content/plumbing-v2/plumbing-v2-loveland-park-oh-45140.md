@@ -12,6 +12,7 @@ lng: -84.2600
 zipSample: ["45140"]
 zipCodes: ["45140"]
 localPaths: ["Warren County / coords 39.3000, -84.2600", "Warren County / elevation 732 ft band", "Warren County / ZIP 45140 sector", "Warren County / primary ZIP 45140"]
+zillowHomeValueUsd: 445108
 ---
 
 **Engineering Notice for Loveland Park:** System optimized for 128 mg/L hard water scaling factors in Loveland Park. Regional dispatch grid: Warren County.

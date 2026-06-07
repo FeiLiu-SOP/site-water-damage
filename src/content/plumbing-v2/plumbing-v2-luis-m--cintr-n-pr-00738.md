@@ -12,6 +12,8 @@ lng: -65.6400
 zipSample: ["00738"]
 zipCodes: ["00738"]
 localPaths: ["Fajardo County / elevation 98 ft band", "Fajardo County / coords 18.3000, -65.6400", "Fajardo County / ZIP 00738 sector", "Fajardo County / primary ZIP 00738"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 367218
 ---
 
 **Engineering Notice for Luis M. Cintrón:** System optimized for 144 mg/L hard water scaling factors in Luis M. Cintrón. Regional dispatch grid: Fajardo County.

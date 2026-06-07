@@ -12,6 +12,7 @@ lng: -88.9200
 zipSample: ["60518"]
 zipCodes: ["60518"]
 localPaths: ["LaSalle County / coords 41.5900, -88.9200", "LaSalle County / primary ZIP 60518", "LaSalle County / elevation 715 ft band", "LaSalle County / ZIP 60518 sector"]
+zillowHomeValueUsd: 240989
 ---
 
 **Engineering Notice for Earlville:** Panel Replacement was validated under stress factor 1.02; target tolerance set near 99 mph. Grid anchor: LaSalle County.

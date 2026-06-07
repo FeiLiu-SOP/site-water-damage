@@ -12,6 +12,7 @@ lng: -97.8900
 zipSample: ["78570"]
 zipCodes: ["78570"]
 localPaths: ["Hidalgo County / ZIP 78570 sector", "Hidalgo County / coords 26.1800, -97.8900", "Hidalgo County / primary ZIP 78570", "Hidalgo County / elevation 72 ft band"]
+zillowHomeValueUsd: 141064
 ---
 
 **Engineering Notice for Heidelberg:** System optimized for 137 mg/L hard water scaling factors in Heidelberg. Regional dispatch grid: Hidalgo County.

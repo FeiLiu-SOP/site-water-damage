@@ -12,6 +12,7 @@ lng: -89.9100
 zipSample: ["38666"]
 zipCodes: ["38666"]
 localPaths: ["Panola County / elevation 371 ft band", "Panola County / coords 34.4400, -89.9100", "Panola County / primary ZIP 38666", "Panola County / ZIP 38666 sector"]
+zillowHomeValueUsd: 165051
 ---
 
 **Engineering Notice for Sardis:** System optimized for 151 mg/L hard water scaling factors in Sardis. Regional dispatch grid: Panola County.

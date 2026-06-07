@@ -12,6 +12,7 @@ lng: -76.8200
 zipSample: ["17113"]
 zipCodes: ["17113"]
 localPaths: ["Dauphin County / primary ZIP 17113", "Dauphin County / coords 40.2300, -76.8200", "Dauphin County / elevation 515 ft band", "Dauphin County / ZIP 17113 sector"]
+zillowHomeValueUsd: 188081
 ---
 
 **Engineering Notice for Bressler:** System optimized for 158 mg/L hard water scaling factors in Bressler. Regional dispatch grid: Dauphin County.

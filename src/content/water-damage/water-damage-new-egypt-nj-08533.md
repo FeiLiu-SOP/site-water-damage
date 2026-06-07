@@ -12,6 +12,7 @@ lng: -74.5300
 zipSample: ["08533"]
 zipCodes: ["08533"]
 localPaths: ["Ocean County / ZIP 08533 sector", "Ocean County / elevation 85 ft band", "Ocean County / coords 40.0600, -74.5300", "Ocean County / primary ZIP 08533"]
+zillowHomeValueUsd: 558656
 ---
 
 **Engineering Notice for New Egypt:** structural drying capacity optimized for 85ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ocean County. Relative Humidity Threshold: 82%. Sensor sync: Active.

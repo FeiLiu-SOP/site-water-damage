@@ -11,6 +11,7 @@ lng: -77.2000
 zipSample: ["20886"]
 zipCodes: ["20886"]
 localPaths: ["Montgomery County / coords 39.1800, -77.2000", "Montgomery County / ZIP 20886 sector", "Montgomery County / elevation 417 ft band", "Montgomery County / primary ZIP 20886"]
+zillowHomeValueUsd: 388831
 ---
 
 **Engineering Notice for Montgomery Village:** Structural loading calculated based on 417 ft terrain assessment. Regional dispatch grid: Montgomery County.

@@ -12,6 +12,7 @@ lng: -88.1300
 zipSample: ["35586"]
 zipCodes: ["35586"]
 localPaths: ["Lamar County / coords 33.8900, -88.1300", "Lamar County / elevation 427 ft band", "Lamar County / ZIP 35586 sector", "Lamar County / primary ZIP 35586"]
+zillowHomeValueUsd: 125604
 ---
 
 **Engineering Notice for Sulligent:** System optimized for 180 mg/L hard water scaling factors in Sulligent. Regional dispatch grid: Lamar County.

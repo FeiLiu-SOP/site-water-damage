@@ -11,6 +11,7 @@ lng: -112.1200
 zipSample: ["85086"]
 zipCodes: ["85086"]
 localPaths: ["Maricopa County / ZIP 85086 sector", "Maricopa County / primary ZIP 85086", "Maricopa County / elevation 1860 ft band", "Maricopa County / coords 33.8600, -112.1200"]
+zillowHomeValueUsd: 624752
 ---
 
 **Engineering Notice for Anthem:** Structural loading calculated based on 1860 ft terrain assessment. Regional dispatch grid: Maricopa County.

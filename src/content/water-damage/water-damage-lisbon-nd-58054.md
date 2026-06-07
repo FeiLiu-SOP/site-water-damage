@@ -12,6 +12,7 @@ lng: -97.6800
 zipSample: ["58054"]
 zipCodes: ["58054"]
 localPaths: ["Ransom County / elevation 1096 ft band", "Ransom County / primary ZIP 58054", "Ransom County / coords 46.4400, -97.6800", "Ransom County / ZIP 58054 sector"]
+zillowHomeValueUsd: 191107
 ---
 
 **Engineering Notice for Lisbon:** structural drying capacity optimized for 1096ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ransom County. Relative Humidity Threshold: 84%. Sensor sync: Active.

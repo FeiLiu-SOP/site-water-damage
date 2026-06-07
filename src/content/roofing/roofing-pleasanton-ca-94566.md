@@ -11,6 +11,7 @@ lng: -121.8800
 zipSample: ["94566", "94588"]
 zipCodes: ["94588", "94566"]
 localPaths: ["Alameda County / coords 37.6700, -121.8800", "Alameda County / ZIP 94566 sector", "Alameda County / primary ZIP 94566", "Alameda County / elevation 341 ft band", "Alameda County / ZIP 94588 sector"]
+zillowHomeValueUsd: 1746588
 ---
 
 **Engineering Notice for Pleasanton:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Alameda County.

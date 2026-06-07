@@ -12,6 +12,7 @@ lng: -117.2200
 zipSample: ["89049"]
 zipCodes: ["89049"]
 localPaths: ["Nye County / elevation 6135 ft band", "Nye County / coords 38.0800, -117.2200", "Nye County / ZIP 89049 sector", "Nye County / primary ZIP 89049"]
+zillowHomeValueUsd: 155542
 ---
 
 **Engineering Notice for Tonopah:** Cladding Service was validated under stress factor 0.85; target tolerance set near 103 mph. Coordinates: 38.0800, -117.2200. Grid anchor: Nye County.

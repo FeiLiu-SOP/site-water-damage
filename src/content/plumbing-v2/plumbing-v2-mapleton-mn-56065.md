@@ -12,6 +12,7 @@ lng: -93.9500
 zipSample: ["56065"]
 zipCodes: ["56065"]
 localPaths: ["Blue Earth County / elevation 1050 ft band", "Blue Earth County / coords 43.9300, -93.9500", "Blue Earth County / ZIP 56065 sector", "Blue Earth County / primary ZIP 56065"]
+zillowHomeValueUsd: 251460
 ---
 
 **Engineering Notice for Mapleton:** System optimized for 166 mg/L hard water scaling factors in Mapleton. Regional dispatch grid: Blue Earth County.

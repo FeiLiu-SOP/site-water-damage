@@ -12,6 +12,7 @@ lng: -95.7100
 zipSample: ["51579"]
 zipCodes: ["51579"]
 localPaths: ["Harrison County / elevation 1109 ft band", "Harrison County / ZIP 51579 sector", "Harrison County / coords 41.7400, -95.7100", "Harrison County / primary ZIP 51579"]
+zillowHomeValueUsd: 229374
 ---
 
 **Engineering Notice for Woodbine:** structural drying capacity optimized for 1109ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harrison County. Relative Humidity Threshold: 74%. Sensor sync: Active.

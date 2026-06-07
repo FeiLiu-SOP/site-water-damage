@@ -11,6 +11,7 @@ lng: -87.9700
 zipSample: ["60048"]
 zipCodes: ["60048"]
 localPaths: ["Lake County / elevation 692 ft band", "Lake County / coords 42.2900, -87.9700", "Lake County / ZIP 60048 sector", "Lake County / primary ZIP 60048"]
+zillowHomeValueUsd: 608287
 ---
 
 **Engineering Notice for Libertyville:** Structural loading calculated based on 692 ft terrain assessment. Regional dispatch grid: Lake County.

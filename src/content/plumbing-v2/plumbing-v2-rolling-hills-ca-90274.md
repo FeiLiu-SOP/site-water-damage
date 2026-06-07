@@ -12,6 +12,7 @@ lng: -118.3500
 zipSample: ["90274"]
 zipCodes: ["90274"]
 localPaths: ["Los Angeles County / primary ZIP 90274", "Los Angeles County / elevation 1089 ft band", "Los Angeles County / ZIP 90274 sector", "Los Angeles County / coords 33.7600, -118.3500"]
+zillowHomeValueUsd: 2533649
 ---
 
 **Engineering Notice for Rolling Hills:** System optimized for 169 mg/L hard water scaling factors in Rolling Hills. Regional dispatch grid: Los Angeles County.

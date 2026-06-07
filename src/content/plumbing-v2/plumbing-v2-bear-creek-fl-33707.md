@@ -12,6 +12,7 @@ lng: -82.7300
 zipSample: ["33707"]
 zipCodes: ["33707"]
 localPaths: ["Pinellas County / ZIP 33707 sector", "Pinellas County / primary ZIP 33707", "Pinellas County / elevation 16 ft band", "Pinellas County / coords 27.7500, -82.7300"]
+zillowHomeValueUsd: 361631
 ---
 
 **Engineering Notice for Bear Creek:** System optimized for 125 mg/L hard water scaling factors in Bear Creek. Regional dispatch grid: Pinellas County.

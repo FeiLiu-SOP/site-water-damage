@@ -12,6 +12,7 @@ lng: -97.0600
 zipSample: ["75077"]
 zipCodes: ["75077"]
 localPaths: ["Denton County / elevation 561 ft band", "Denton County / primary ZIP 75077", "Denton County / ZIP 75077 sector", "Denton County / coords 33.0900, -97.0600"]
+zillowHomeValueUsd: 489735
 ---
 
 **Engineering Notice for Highland Village:** Structural loading calculated based on 561 ft terrain assessment. Regional dispatch grid: Denton County.

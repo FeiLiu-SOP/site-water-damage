@@ -12,6 +12,7 @@ lng: -78.4700
 zipSample: ["14778", "14706", "14760"]
 zipCodes: ["14778", "14760", "14706"]
 localPaths: ["Cattaraugus County / ZIP 14760 sector", "Cattaraugus County / ZIP 14778 sector", "Cattaraugus County / ZIP 14706 sector", "Cattaraugus County / coords 42.0800, -78.4700", "Cattaraugus County / primary ZIP 14760"]
+zillowHomeValueUsd: 119185
 ---
 
 **Engineering Notice for St. Bonaventure:** System optimized for 132 mg/L hard water scaling factors in St. Bonaventure. Regional dispatch grid: Cattaraugus County.

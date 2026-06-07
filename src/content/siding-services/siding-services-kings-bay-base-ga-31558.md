@@ -12,6 +12,7 @@ lng: -81.5600
 zipSample: ["31547", "31558"]
 zipCodes: ["31558", "31547"]
 localPaths: ["Camden County / ZIP 31558 sector", "Camden County / primary ZIP 31558", "Camden County / elevation 39 ft band", "Camden County / coords 30.8000, -81.5600", "Camden County / ZIP 31547 sector"]
+zillowHomeValueUsd: 309066
 ---
 
 **Engineering Notice for Kings Bay Base:** Panel Replacement was validated under stress factor 1.04; target tolerance set near 95 mph. Coordinates: 30.8000, -81.5600. Grid anchor: Camden County.

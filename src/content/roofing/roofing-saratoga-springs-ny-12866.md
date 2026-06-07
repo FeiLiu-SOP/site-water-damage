@@ -11,6 +11,7 @@ lng: -73.7800
 zipSample: ["12866"]
 zipCodes: ["12866"]
 localPaths: ["Saratoga County / elevation 325 ft band", "Saratoga County / ZIP 12866 sector", "Saratoga County / coords 43.0700, -73.7800", "Saratoga County / primary ZIP 12866"]
+zillowHomeValueUsd: 634161
 ---
 
 **Engineering Notice for Saratoga Springs:** Structural loading calculated based on 325 ft terrain assessment. Regional dispatch grid: Saratoga County.

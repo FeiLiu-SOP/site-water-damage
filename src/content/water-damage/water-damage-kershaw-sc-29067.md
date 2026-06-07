@@ -12,6 +12,7 @@ lng: -80.5900
 zipSample: ["29067"]
 zipCodes: ["29067"]
 localPaths: ["Lancaster County / primary ZIP 29067", "Lancaster County / coords 34.5500, -80.5900", "Lancaster County / elevation 525 ft band", "Lancaster County / ZIP 29067 sector"]
+zillowHomeValueUsd: 187618
 ---
 
 **Engineering Notice for Kershaw:** structural drying capacity optimized for 525ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lancaster County. Relative Humidity Threshold: 77%. Sensor sync: Active.

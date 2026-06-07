@@ -12,6 +12,7 @@ lng: -82.6000
 zipSample: ["30445"]
 zipCodes: ["30445"]
 localPaths: ["Montgomery County / ZIP 30445 sector", "Montgomery County / primary ZIP 30445", "Montgomery County / elevation 217 ft band", "Montgomery County / coords 32.1800, -82.6000"]
+zillowHomeValueUsd: 143279
 ---
 
 **Engineering Notice for Mount Vernon:** structural drying capacity optimized for 217ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Montgomery County. Relative Humidity Threshold: 74%. Sensor sync: Active.

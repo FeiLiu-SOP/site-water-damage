@@ -12,6 +12,7 @@ lng: -89.9300
 zipSample: ["61277"]
 zipCodes: ["61277"]
 localPaths: ["Whiteside County / primary ZIP 61277", "Whiteside County / elevation 640 ft band", "Whiteside County / coords 41.6700, -89.9300", "Whiteside County / ZIP 61277 sector"]
+zillowHomeValueUsd: 159401
 ---
 
 **Engineering Notice for Prophetstown:** System optimized for 136 mg/L hard water scaling factors in Prophetstown. Regional dispatch grid: Whiteside County.

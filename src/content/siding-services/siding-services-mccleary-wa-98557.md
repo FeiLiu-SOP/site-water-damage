@@ -12,6 +12,7 @@ lng: -123.2700
 zipSample: ["98557"]
 zipCodes: ["98557"]
 localPaths: ["Grays Harbor County / ZIP 98557 sector", "Grays Harbor County / elevation 285 ft band", "Grays Harbor County / coords 47.0600, -123.2700", "Grays Harbor County / primary ZIP 98557"]
+zillowHomeValueUsd: 385461
 ---
 
 **Engineering Notice for McCleary:** Weather Barrier Wrap was validated under stress factor 0.97; target tolerance set near 98 mph. Coordinates: 47.0600, -123.2700. Grid anchor: Grays Harbor County.

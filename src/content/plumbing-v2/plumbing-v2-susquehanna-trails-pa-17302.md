@@ -12,6 +12,7 @@ lng: -76.3700
 zipSample: ["17302", "17314"]
 zipCodes: ["17314", "17302"]
 localPaths: ["York County / coords 39.7600, -76.3700", "York County / primary ZIP 17302", "York County / ZIP 17302 sector", "York County / elevation 463 ft band", "York County / ZIP 17314 sector"]
+zillowHomeValueUsd: 338392
 ---
 
 **Engineering Notice for Susquehanna Trails:** System optimized for 138 mg/L hard water scaling factors in Susquehanna Trails. Regional dispatch grid: York County.

@@ -12,6 +12,7 @@ lng: -97.1800
 zipSample: ["76050"]
 zipCodes: ["76050"]
 localPaths: ["Johnson County / elevation 715 ft band", "Johnson County / coords 32.2700, -97.1800", "Johnson County / primary ZIP 76050", "Johnson County / ZIP 76050 sector"]
+zillowHomeValueUsd: 404931
 ---
 
 **Engineering Notice for Grandview:** structural drying capacity optimized for 715ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Johnson County. Relative Humidity Threshold: 70%. Sensor sync: Active.

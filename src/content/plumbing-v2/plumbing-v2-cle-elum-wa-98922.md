@@ -12,6 +12,7 @@ lng: -120.9500
 zipSample: ["98922"]
 zipCodes: ["98922"]
 localPaths: ["Kittitas County / coords 47.1900, -120.9500", "Kittitas County / primary ZIP 98922", "Kittitas County / ZIP 98922 sector", "Kittitas County / elevation 2014 ft band"]
+zillowHomeValueUsd: 613706
 ---
 
 **Engineering Notice for Cle Elum:** System optimized for 122 mg/L hard water scaling factors in Cle Elum. Regional dispatch grid: Kittitas County.

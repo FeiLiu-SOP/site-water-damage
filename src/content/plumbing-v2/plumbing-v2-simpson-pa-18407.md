@@ -12,6 +12,7 @@ lng: -75.4800
 zipSample: ["18407"]
 zipCodes: ["18407"]
 localPaths: ["Lackawanna County / ZIP 18407 sector", "Lackawanna County / coords 41.5900, -75.4800", "Lackawanna County / elevation 1211 ft band", "Lackawanna County / primary ZIP 18407"]
+zillowHomeValueUsd: 165052
 ---
 
 **Engineering Notice for Simpson:** System optimized for 178 mg/L hard water scaling factors in Simpson. Regional dispatch grid: Lackawanna County.

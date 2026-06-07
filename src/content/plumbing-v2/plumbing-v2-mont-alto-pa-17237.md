@@ -12,6 +12,7 @@ lng: -77.5600
 zipSample: ["17237"]
 zipCodes: ["17237"]
 localPaths: ["Franklin County / ZIP 17237 sector", "Franklin County / primary ZIP 17237", "Franklin County / coords 39.8400, -77.5600", "Franklin County / elevation 873 ft band"]
+zillowHomeValueUsd: 229481
 ---
 
 **Engineering Notice for Mont Alto:** System optimized for 143 mg/L hard water scaling factors in Mont Alto. Regional dispatch grid: Franklin County.

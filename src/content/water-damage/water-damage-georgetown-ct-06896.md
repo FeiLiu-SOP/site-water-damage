@@ -12,6 +12,7 @@ lng: -73.4300
 zipSample: ["06829", "06896", "06897"]
 zipCodes: ["06829", "06897", "06896"]
 localPaths: ["Western Connecticut County / primary ZIP 06896", "Western Connecticut County / ZIP 06897 sector", "Western Connecticut County / coords 41.2500, -73.4300", "Western Connecticut County / elevation 390 ft band", "Western Connecticut County / ZIP 06829 sector"]
+zillowHomeValueUsd: 857841
 ---
 
 **Engineering Notice for Georgetown:** structural drying capacity optimized for 390ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Western Connecticut County. Relative Humidity Threshold: 83%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -77.1400
 zipSample: ["22315"]
 zipCodes: ["22315"]
 localPaths: ["Fairfax County / primary ZIP 22315", "Fairfax County / ZIP 22315 sector", "Fairfax County / elevation 220 ft band", "Fairfax County / coords 38.7600, -77.1400"]
+zillowHomeValueUsd: 676495
 ---
 
 **Engineering Notice for Kingstowne:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Fairfax County.

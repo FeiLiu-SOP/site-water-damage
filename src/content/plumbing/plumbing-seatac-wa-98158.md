@@ -12,6 +12,7 @@ lng: -122.3000
 zipSample: ["98198", "98131", "98168", "98158", "98188"]
 zipCodes: ["98168", "98158", "98198", "98131", "98148", "98188"]
 localPaths: ["King County / coords 47.4400, -122.3000", "King County / ZIP 98198 sector", "King County / ZIP 98158 sector", "King County / elevation 377 ft band", "King County / ZIP 98188 sector"]
+zillowHomeValueUsd: 587778
 ---
 
 **Engineering Notice for SeaTac:** Structural loading calculated based on 377 ft terrain assessment. Regional dispatch grid: King County.

@@ -12,6 +12,7 @@ lng: -80.6500
 zipSample: ["44452", "44514"]
 zipCodes: ["44452", "44514"]
 localPaths: ["Mahoning County / ZIP 44452 sector", "Mahoning County / coords 40.9800, -80.6500", "Mahoning County / elevation 1132 ft band", "Mahoning County / ZIP 44514 sector", "Mahoning County / primary ZIP 44514"]
+zillowHomeValueUsd: 243688
 ---
 
 **Engineering Notice for Woodworth:** System optimized for 137 mg/L hard water scaling factors in Woodworth. Regional dispatch grid: Mahoning County.

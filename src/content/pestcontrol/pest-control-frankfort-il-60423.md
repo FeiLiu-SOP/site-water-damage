@@ -11,6 +11,7 @@ lng: -87.8400
 zipSample: ["60423"]
 zipCodes: ["60423"]
 localPaths: ["Will County / coords 41.4900, -87.8400", "Will County / ZIP 60423 sector", "Will County / primary ZIP 60423", "Will County / elevation 758 ft band"]
+zillowHomeValueUsd: 487542
 ---
 
 **Engineering Notice for Frankfort:** Structural loading calculated based on 758 ft terrain assessment. Regional dispatch grid: Will County.

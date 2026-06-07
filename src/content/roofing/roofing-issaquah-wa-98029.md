@@ -11,6 +11,7 @@ lng: -122.0500
 zipSample: ["98029", "98027"]
 zipCodes: ["98029", "98027"]
 localPaths: ["King County / ZIP 98029 sector", "King County / primary ZIP 98029", "King County / coords 47.5400, -122.0500", "King County / elevation 62 ft band", "King County / ZIP 98027 sector"]
+zillowHomeValueUsd: 1195290
 ---
 
 **Engineering Notice for Issaquah:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: King County.

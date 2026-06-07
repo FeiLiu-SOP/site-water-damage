@@ -12,6 +12,7 @@ lng: -85.2600
 zipSample: ["47042"]
 zipCodes: ["47042"]
 localPaths: ["Ripley County / coords 39.0600, -85.2600", "Ripley County / elevation 994 ft band", "Ripley County / ZIP 47042 sector", "Ripley County / primary ZIP 47042"]
+zillowHomeValueUsd: 253843
 ---
 
 **Engineering Notice for Versailles:** Site context locked to Ripley County. Elevation: 994 ft AMSL. Coordinates: 39.0600, -85.2600. Vinyl Panels integrity verification recorded.

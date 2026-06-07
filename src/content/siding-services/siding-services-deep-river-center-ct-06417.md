@@ -12,6 +12,7 @@ lng: -72.4400
 zipSample: ["06417"]
 zipCodes: ["06417"]
 localPaths: ["Lower Connecticut River Valley County / elevation 128 ft band", "Lower Connecticut River Valley County / coords 41.3800, -72.4400", "Lower Connecticut River Valley County / primary ZIP 06417", "Lower Connecticut River Valley County / ZIP 06417 sector"]
+zillowHomeValueUsd: 421123
 ---
 
 **Engineering Notice for Deep River Center:** Envelope check: Facade Renewal assigned to wind-load band B with stress factor 0.96. Regional dispatch grid: Lower Connecticut River Valley County.

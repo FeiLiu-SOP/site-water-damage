@@ -12,6 +12,7 @@ lng: -124.1100
 zipSample: ["98595"]
 zipCodes: ["98595"]
 localPaths: ["Grays Harbor County / elevation 20 ft band", "Grays Harbor County / primary ZIP 98595", "Grays Harbor County / coords 46.8900, -124.1100", "Grays Harbor County / ZIP 98595 sector"]
+zillowHomeValueUsd: 310011
 ---
 
 **Engineering Notice for Westport:** Site context locked to Grays Harbor County. Facade Renewal integrity verification recorded.

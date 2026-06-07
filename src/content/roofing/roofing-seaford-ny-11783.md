@@ -11,6 +11,7 @@ lng: -73.4900
 zipSample: ["11783"]
 zipCodes: ["11783"]
 localPaths: ["Nassau County / ZIP 11783 sector", "Nassau County / primary ZIP 11783", "Nassau County / coords 40.6700, -73.4900", "Nassau County / elevation 23 ft band"]
+zillowHomeValueUsd: 789960
 ---
 
 **Engineering Notice for Seaford:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Nassau County.

@@ -12,6 +12,7 @@ lng: -119.6800
 zipSample: ["93249"]
 zipCodes: ["93249"]
 localPaths: ["Kern County / primary ZIP 93249", "Kern County / elevation 262 ft band", "Kern County / coords 35.6300, -119.6800", "Kern County / ZIP 93249 sector"]
+zillowHomeValueUsd: 274498
 ---
 
 **Engineering Notice for Lost Hills:** Vinyl Panels was validated under stress factor 1.25; target tolerance set near 132 mph. Grid anchor: Kern County.

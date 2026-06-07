@@ -12,6 +12,7 @@ lng: -82.4300
 zipSample: ["43025", "43076"]
 zipCodes: ["43076", "43025"]
 localPaths: ["Licking County / ZIP 43025 sector", "Licking County / elevation 935 ft band", "Licking County / ZIP 43076 sector", "Licking County / primary ZIP 43025", "Licking County / coords 39.9400, -82.4300"]
+zillowHomeValueUsd: 356394
 ---
 
 **Engineering Notice for Harbor Hills:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 1.20. Regional dispatch grid: Licking County.

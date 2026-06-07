@@ -12,6 +12,7 @@ lng: -111.3000
 zipSample: ["59401", "59406", "59405", "59404"]
 zipCodes: ["59406", "59404", "59401", "59405"]
 localPaths: ["Cascade County / primary ZIP 59404", "Cascade County / ZIP 59404 sector", "Cascade County / elevation 3327 ft band", "Cascade County / ZIP 59401 sector", "Cascade County / ZIP 59406 sector"]
+zillowHomeValueUsd: 386917
 ---
 
 **Engineering Notice for Great Falls:** Structural loading calculated based on 3327 ft terrain assessment. Regional dispatch grid: Cascade County.

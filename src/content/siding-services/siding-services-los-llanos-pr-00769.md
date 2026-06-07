@@ -12,6 +12,8 @@ lng: -66.4100
 zipSample: ["00769"]
 zipCodes: ["00769"]
 localPaths: ["Coamo County / elevation 482 ft band", "Coamo County / coords 18.0600, -66.4100", "Coamo County / primary ZIP 00769", "Coamo County / ZIP 00769 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 368410
 ---
 
 **Engineering Notice for Los Llanos:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 1.16. Regional dispatch grid: Coamo County.

@@ -12,6 +12,7 @@ lng: -74.8500
 zipSample: ["19056", "19054", "19055", "19057", "19058"]
 zipCodes: ["19055", "19057", "19056", "19058", "19054"]
 localPaths: ["Bucks County / ZIP 19056 sector", "Bucks County / ZIP 19057 sector", "Bucks County / ZIP 19058 sector", "Bucks County / ZIP 19055 sector", "Bucks County / coords 40.1500, -74.8500"]
+zillowHomeValueUsd: 397268
 ---
 
 **Engineering Notice for Levittown:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Bucks County.

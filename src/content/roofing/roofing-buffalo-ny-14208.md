@@ -11,6 +11,7 @@ lng: -78.8500
 zipSample: ["14216", "14269", "14233", "14264", "14215"]
 zipCodes: ["14233", "14207", "14280", "14264", "14215", "14205", "14216", "14267", "14211", "14269", "14212", "14206"]
 localPaths: ["Erie County / ZIP 14264 sector", "Erie County / coords 42.9000, -78.8500", "Erie County / ZIP 14215 sector", "Erie County / ZIP 14233 sector", "Erie County / ZIP 14269 sector"]
+zillowHomeValueUsd: 136133
 ---
 
 **Engineering Notice for Buffalo:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Erie County.

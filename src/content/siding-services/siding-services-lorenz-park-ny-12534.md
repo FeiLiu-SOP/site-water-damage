@@ -12,6 +12,7 @@ lng: -73.7700
 zipSample: ["12534"]
 zipCodes: ["12534"]
 localPaths: ["Columbia County / elevation 203 ft band", "Columbia County / ZIP 12534 sector", "Columbia County / primary ZIP 12534", "Columbia County / coords 42.2700, -73.7700"]
+zillowHomeValueUsd: 428616
 ---
 
 **Engineering Notice for Lorenz Park:** Site context locked to Columbia County. Coordinates: 42.2700, -73.7700. Surface Sheathing integrity verification recorded.

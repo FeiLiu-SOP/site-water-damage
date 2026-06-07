@@ -12,6 +12,7 @@ lng: -98.7800
 zipSample: ["66967"]
 zipCodes: ["66967"]
 localPaths: ["Smith County / ZIP 66967 sector", "Smith County / coords 39.7700, -98.7800", "Smith County / elevation 1827 ft band", "Smith County / primary ZIP 66967"]
+zillowHomeValueUsd: 104228
 ---
 
 **Engineering Notice for Smith Center:** System optimized for 126 mg/L hard water scaling factors in Smith Center. Regional dispatch grid: Smith County.

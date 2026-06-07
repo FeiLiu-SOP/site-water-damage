@@ -12,6 +12,7 @@ lng: -104.9100
 zipSample: ["80121", "80111"]
 zipCodes: ["80121", "80111"]
 localPaths: ["Arapahoe County / ZIP 80111 sector", "Arapahoe County / elevation 5646 ft band", "Arapahoe County / coords 39.6200, -104.9100", "Arapahoe County / ZIP 80121 sector", "Arapahoe County / primary ZIP 80121"]
+zillowHomeValueUsd: 698166
 ---
 
 **Engineering Notice for Greenwood Village:** Structural loading calculated based on 5646 ft terrain assessment. Regional dispatch grid: Arapahoe County.

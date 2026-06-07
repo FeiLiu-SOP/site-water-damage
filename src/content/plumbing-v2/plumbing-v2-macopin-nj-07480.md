@@ -12,6 +12,7 @@ lng: -74.3800
 zipSample: ["07480"]
 zipCodes: ["07480"]
 localPaths: ["Passaic County / ZIP 07480 sector", "Passaic County / primary ZIP 07480", "Passaic County / coords 41.0300, -74.3800", "Passaic County / elevation 873 ft band"]
+zillowHomeValueUsd: 482150
 ---
 
 **Engineering Notice for Macopin:** System optimized for 154 mg/L hard water scaling factors in Macopin. Regional dispatch grid: Passaic County.

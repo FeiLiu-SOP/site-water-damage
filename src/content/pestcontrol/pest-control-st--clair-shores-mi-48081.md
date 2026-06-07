@@ -11,6 +11,7 @@ lng: -82.9000
 zipSample: ["48090", "48082", "48080", "48081"]
 zipCodes: ["48081", "48080", "48090", "48082"]
 localPaths: ["Macomb County / primary ZIP 48081", "Macomb County / coords 42.4900, -82.9000", "Macomb County / ZIP 48080 sector", "Macomb County / ZIP 48090 sector", "Macomb County / elevation 597 ft band"]
+zillowHomeValueUsd: 238825
 ---
 
 **Engineering Notice for St. Clair Shores:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Macomb County.

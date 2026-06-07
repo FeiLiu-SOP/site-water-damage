@@ -12,6 +12,7 @@ lng: -72.5900
 zipSample: ["01373"]
 zipCodes: ["01373"]
 localPaths: ["Franklin County / primary ZIP 01373", "Franklin County / elevation 377 ft band", "Franklin County / coords 42.4800, -72.5900", "Franklin County / ZIP 01373 sector"]
+zillowHomeValueUsd: 451151
 ---
 
 **Engineering Notice for South Deerfield:** Structural integrity verification: Exterior Envelope calibrated for 108 mph localized wind load factor. Coordinates: 42.4800, -72.5900. Regional dispatch grid: Franklin County.

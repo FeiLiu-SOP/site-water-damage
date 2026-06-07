@@ -11,6 +11,7 @@ lng: -79.1900
 zipSample: ["24502", "24514", "24504", "24513", "24515"]
 zipCodes: ["24506", "24513", "24515", "24514", "24504", "24502", "24503", "24501", "24505"]
 localPaths: ["Lynchburg County / coords 37.4000, -79.1900", "Lynchburg County / ZIP 24504 sector", "Lynchburg County / primary ZIP 24515", "Lynchburg County / ZIP 24502 sector", "Lynchburg County / ZIP 24514 sector"]
+zillowHomeValueUsd: 274491
 ---
 
 **Engineering Notice for Lynchburg:** Structural loading calculated based on 692 ft terrain assessment. Regional dispatch grid: Lynchburg County.

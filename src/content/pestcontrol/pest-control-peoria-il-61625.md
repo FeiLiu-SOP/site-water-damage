@@ -11,6 +11,7 @@ lng: -89.6200
 zipSample: ["61643", "61636", "61634", "61602", "61655"]
 zipCodes: ["61634", "61625", "61651", "61604", "61630", "61654", "61603", "61638", "61614", "61637", "61643", "61613"]
 localPaths: ["Peoria County / coords 40.7500, -89.6200", "Peoria County / ZIP 61655 sector", "Peoria County / ZIP 61643 sector", "Peoria County / elevation 719 ft band", "Peoria County / ZIP 61602 sector"]
+zillowHomeValueUsd: 105050
 ---
 
 **Engineering Notice for Peoria:** Structural loading calculated based on 719 ft terrain assessment. Regional dispatch grid: Peoria County.

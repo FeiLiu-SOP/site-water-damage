@@ -12,6 +12,7 @@ lng: -80.9800
 zipSample: ["29708"]
 zipCodes: ["29708"]
 localPaths: ["York County / primary ZIP 29708", "York County / elevation 705 ft band", "York County / coords 35.0100, -80.9800", "York County / ZIP 29708 sector"]
+zillowHomeValueUsd: 575531
 ---
 
 **Engineering Notice for Riverview:** Cladding verification uses 105 mph routing baseline; lateral pressure note: 13.8 psf. Elevation: 705 ft AMSL. Grid: York County.

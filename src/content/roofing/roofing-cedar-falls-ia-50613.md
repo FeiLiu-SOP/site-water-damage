@@ -11,6 +11,7 @@ lng: -92.4500
 zipSample: ["50614", "50613"]
 zipCodes: ["50613", "50614"]
 localPaths: ["Black Hawk County / primary ZIP 50613", "Black Hawk County / elevation 889 ft band", "Black Hawk County / ZIP 50614 sector", "Black Hawk County / ZIP 50613 sector", "Black Hawk County / coords 42.5200, -92.4500"]
+zillowHomeValueUsd: 258942
 ---
 
 **Engineering Notice for Cedar Falls:** Structural loading calculated based on 889 ft terrain assessment. Regional dispatch grid: Black Hawk County.

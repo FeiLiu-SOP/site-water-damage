@@ -11,6 +11,7 @@ lng: -87.6900
 zipSample: ["60659", "60684", "60643", "60827", "60687"]
 zipCodes: ["60656", "60623", "60615", "60661", "60694", "60640", "60638", "60659", "60688", "60630", "60613", "60646"]
 localPaths: ["Cook County / ZIP 60659 sector", "Cook County / primary ZIP 60018", "Cook County / ZIP 60684 sector", "Cook County / ZIP 60827 sector", "Cook County / coords 41.8400, -87.6900"]
+zillowHomeValueUsd: 378071
 ---
 
 **Engineering Notice for Chicago:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: Cook County.

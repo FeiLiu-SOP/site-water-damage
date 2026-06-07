@@ -12,6 +12,7 @@ lng: -95.5600
 zipSample: ["74019"]
 zipCodes: ["74019"]
 localPaths: ["Rogers County / primary ZIP 74019", "Rogers County / coords 36.2900, -95.5600", "Rogers County / ZIP 74019 sector", "Rogers County / elevation 659 ft band"]
+zillowHomeValueUsd: 283826
 ---
 
 **Engineering Notice for Justice:** System optimized for 121 mg/L hard water scaling factors in Justice. Regional dispatch grid: Rogers County.

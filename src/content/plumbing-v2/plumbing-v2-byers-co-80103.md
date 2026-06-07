@@ -12,6 +12,7 @@ lng: -104.2200
 zipSample: ["80103"]
 zipCodes: ["80103"]
 localPaths: ["Arapahoe County / primary ZIP 80103", "Arapahoe County / coords 39.7100, -104.2200", "Arapahoe County / elevation 5217 ft band", "Arapahoe County / ZIP 80103 sector"]
+zillowHomeValueUsd: 562627
 ---
 
 **Engineering Notice for Byers:** System optimized for 131 mg/L hard water scaling factors in Byers. Regional dispatch grid: Arapahoe County.

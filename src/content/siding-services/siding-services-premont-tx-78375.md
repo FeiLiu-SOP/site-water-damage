@@ -12,6 +12,8 @@ lng: -98.1200
 zipSample: ["78375"]
 zipCodes: ["78375"]
 localPaths: ["Jim Wells County / ZIP 78375 sector", "Jim Wells County / coords 27.3600, -98.1200", "Jim Wells County / elevation 174 ft band", "Jim Wells County / primary ZIP 78375"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 310271
 ---
 
 **Engineering Notice for Premont:** Cladding verification uses 144 mph routing baseline; lateral pressure note: 18.5 psf. Grid: Jim Wells County.

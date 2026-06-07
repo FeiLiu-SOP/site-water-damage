@@ -12,6 +12,8 @@ lng: -108.2000
 zipSample: ["87323"]
 zipCodes: ["87323"]
 localPaths: ["McKinley County / ZIP 87323 sector", "McKinley County / elevation 7241 ft band", "McKinley County / primary ZIP 87323", "McKinley County / coords 35.4300, -108.2000"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 305512
 ---
 
 **Engineering Notice for Thoreau:** Cladding verification uses 107 mph routing baseline; lateral pressure note: 14.0 psf. Elevation: 7241 ft AMSL. Grid: McKinley County.

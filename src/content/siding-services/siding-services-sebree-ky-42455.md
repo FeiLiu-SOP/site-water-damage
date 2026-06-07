@@ -12,6 +12,7 @@ lng: -87.5200
 zipSample: ["42455"]
 zipCodes: ["42455"]
 localPaths: ["Webster County / ZIP 42455 sector", "Webster County / elevation 568 ft band", "Webster County / coords 37.6000, -87.5200", "Webster County / primary ZIP 42455"]
+zillowHomeValueUsd: 160686
 ---
 
 **Engineering Notice for Sebree:** Envelope check: Cladding Retrofit assigned to wind-load band B with stress factor 0.78. Regional dispatch grid: Webster County.

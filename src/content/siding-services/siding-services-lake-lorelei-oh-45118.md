@@ -12,6 +12,7 @@ lng: -83.9700
 zipSample: ["45118"]
 zipCodes: ["45118"]
 localPaths: ["Brown County / primary ZIP 45118", "Brown County / ZIP 45118 sector", "Brown County / elevation 935 ft band", "Brown County / coords 39.1900, -83.9700"]
+zillowHomeValueUsd: 299855
 ---
 
 **Engineering Notice for Lake Lorelei:** Cladding verification uses 91 mph routing baseline; lateral pressure note: 12.1 psf. Grid: Brown County.

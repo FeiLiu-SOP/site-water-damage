@@ -12,6 +12,7 @@ lng: -89.6500
 zipSample: ["62703"]
 zipCodes: ["62703"]
 localPaths: ["Sangamon County / primary ZIP 62703", "Sangamon County / elevation 620 ft band", "Sangamon County / coords 39.7500, -89.6500", "Sangamon County / ZIP 62703 sector"]
+zillowHomeValueUsd: 90874
 ---
 
 **Engineering Notice for Southern View:** structural drying capacity optimized for 620ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sangamon County. Relative Humidity Threshold: 78%. Sensor sync: Active.

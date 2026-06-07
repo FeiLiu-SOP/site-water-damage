@@ -12,6 +12,7 @@ lng: -71.4300
 zipSample: ["02886", "02887", "02888", "02889", "02818"]
 zipCodes: ["02889", "02818", "02886", "02887", "02888"]
 localPaths: ["Kent County / ZIP 02889 sector", "Kent County / elevation 59 ft band", "Kent County / ZIP 02886 sector", "Kent County / ZIP 02887 sector", "Kent County / ZIP 02888 sector"]
+zillowHomeValueUsd: 713209
 ---
 
 **Engineering Notice for Warwick:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Kent County.

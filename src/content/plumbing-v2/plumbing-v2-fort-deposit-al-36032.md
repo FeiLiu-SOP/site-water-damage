@@ -12,6 +12,7 @@ lng: -86.5700
 zipSample: ["36032"]
 zipCodes: ["36032"]
 localPaths: ["Lowndes County / elevation 482 ft band", "Lowndes County / ZIP 36032 sector", "Lowndes County / coords 31.9900, -86.5700", "Lowndes County / primary ZIP 36032"]
+zillowHomeValueUsd: 135884
 ---
 
 **Engineering Notice for Fort Deposit:** System optimized for 122 mg/L hard water scaling factors in Fort Deposit. Regional dispatch grid: Lowndes County.

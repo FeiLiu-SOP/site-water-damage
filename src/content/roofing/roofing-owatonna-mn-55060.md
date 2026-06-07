@@ -11,6 +11,7 @@ lng: -93.2300
 zipSample: ["55060"]
 zipCodes: ["55060"]
 localPaths: ["Steele County / elevation 1132 ft band", "Steele County / ZIP 55060 sector", "Steele County / primary ZIP 55060", "Steele County / coords 44.0900, -93.2300"]
+zillowHomeValueUsd: 293972
 ---
 
 **Engineering Notice for Owatonna:** Structural loading calculated based on 1132 ft terrain assessment. Regional dispatch grid: Steele County.

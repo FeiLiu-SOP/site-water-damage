@@ -12,6 +12,7 @@ lng: -85.5200
 zipSample: ["37397"]
 zipCodes: ["37397"]
 localPaths: ["Marion County / elevation 650 ft band", "Marion County / primary ZIP 37397", "Marion County / ZIP 37397 sector", "Marion County / coords 35.1900, -85.5200"]
+zillowHomeValueUsd: 227305
 ---
 
 **Engineering Notice for Whitwell:** structural drying capacity optimized for 650ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marion County. Relative Humidity Threshold: 66%. Sensor sync: Active.

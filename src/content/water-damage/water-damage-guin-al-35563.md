@@ -12,6 +12,7 @@ lng: -87.9000
 zipSample: ["35563"]
 zipCodes: ["35563"]
 localPaths: ["Marion County / coords 33.9800, -87.9000", "Marion County / elevation 561 ft band", "Marion County / primary ZIP 35563", "Marion County / ZIP 35563 sector"]
+zillowHomeValueUsd: 151563
 ---
 
 **Engineering Notice for Guin:** structural drying capacity optimized for 561ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marion County. Relative Humidity Threshold: 82%. Sensor sync: Active.

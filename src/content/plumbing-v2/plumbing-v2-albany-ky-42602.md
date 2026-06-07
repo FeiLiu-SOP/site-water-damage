@@ -12,6 +12,7 @@ lng: -85.1400
 zipSample: ["42602"]
 zipCodes: ["42602"]
 localPaths: ["Clinton County / ZIP 42602 sector", "Clinton County / primary ZIP 42602", "Clinton County / elevation 961 ft band", "Clinton County / coords 36.6900, -85.1400"]
+zillowHomeValueUsd: 156185
 ---
 
 **Engineering Notice for Albany:** System optimized for 150 mg/L hard water scaling factors in Albany. Regional dispatch grid: Clinton County.

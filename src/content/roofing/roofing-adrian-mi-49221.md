@@ -11,6 +11,7 @@ lng: -84.0400
 zipSample: ["49221"]
 zipCodes: ["49221"]
 localPaths: ["Lenawee County / coords 41.9000, -84.0400", "Lenawee County / primary ZIP 49221", "Lenawee County / ZIP 49221 sector", "Lenawee County / elevation 771 ft band"]
+zillowHomeValueUsd: 207471
 ---
 
 **Engineering Notice for Adrian:** Structural loading calculated based on 771 ft terrain assessment. Regional dispatch grid: Lenawee County.

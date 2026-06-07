@@ -12,6 +12,7 @@ lng: -91.0400
 zipSample: ["62312"]
 zipCodes: ["62312"]
 localPaths: ["Pike County / coords 39.7000, -91.0400", "Pike County / ZIP 62312 sector", "Pike County / elevation 692 ft band", "Pike County / primary ZIP 62312"]
+zillowHomeValueUsd: 109208
 ---
 
 **Engineering Notice for Barry:** System optimized for 144 mg/L hard water scaling factors in Barry. Regional dispatch grid: Pike County.

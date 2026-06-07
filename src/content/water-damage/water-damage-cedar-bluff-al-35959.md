@@ -12,6 +12,7 @@ lng: -85.5900
 zipSample: ["35959"]
 zipCodes: ["35959"]
 localPaths: ["Cherokee County / ZIP 35959 sector", "Cherokee County / coords 34.2200, -85.5900", "Cherokee County / primary ZIP 35959", "Cherokee County / elevation 574 ft band"]
+zillowHomeValueUsd: 241539
 ---
 
 **Engineering Notice for Cedar Bluff:** structural drying capacity optimized for 574ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cherokee County. Relative Humidity Threshold: 72%. Sensor sync: Active.

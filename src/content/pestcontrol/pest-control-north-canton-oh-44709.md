@@ -11,6 +11,7 @@ lng: -81.4000
 zipSample: ["44720", "44709"]
 zipCodes: ["44720", "44709"]
 localPaths: ["Stark County / primary ZIP 44709", "Stark County / ZIP 44709 sector", "Stark County / ZIP 44720 sector", "Stark County / coords 40.8700, -81.4000", "Stark County / elevation 1152 ft band"]
+zillowHomeValueUsd: 184793
 ---
 
 **Engineering Notice for North Canton:** Structural loading calculated based on 1152 ft terrain assessment. Regional dispatch grid: Stark County.

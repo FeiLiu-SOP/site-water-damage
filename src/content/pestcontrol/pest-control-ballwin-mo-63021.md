@@ -11,6 +11,7 @@ lng: -90.5500
 zipSample: ["63011", "63024", "63022", "63021"]
 zipCodes: ["63011", "63024", "63021", "63022"]
 localPaths: ["St. Louis County / ZIP 63021 sector", "St. Louis County / ZIP 63024 sector", "St. Louis County / ZIP 63022 sector", "St. Louis County / coords 38.5900, -90.5500", "St. Louis County / primary ZIP 63021"]
+zillowHomeValueUsd: 386329
 ---
 
 **Engineering Notice for Ballwin:** Structural loading calculated based on 620 ft terrain assessment. Regional dispatch grid: St. Louis County.

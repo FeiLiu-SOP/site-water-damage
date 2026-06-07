@@ -12,6 +12,7 @@ lng: -87.3200
 zipSample: ["47944"]
 zipCodes: ["47944"]
 localPaths: ["Benton County / ZIP 47944 sector", "Benton County / primary ZIP 47944", "Benton County / elevation 833 ft band", "Benton County / coords 40.6200, -87.3200"]
+zillowHomeValueUsd: 206358
 ---
 
 **Engineering Notice for Fowler:** Structural integrity verification: Facade Renewal calibrated for 94 mph localized wind load factor. Regional dispatch grid: Benton County.

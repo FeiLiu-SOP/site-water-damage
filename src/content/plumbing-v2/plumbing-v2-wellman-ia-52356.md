@@ -12,6 +12,7 @@ lng: -91.8400
 zipSample: ["52356"]
 zipCodes: ["52356"]
 localPaths: ["Washington County / primary ZIP 52356", "Washington County / coords 41.4700, -91.8400", "Washington County / elevation 771 ft band", "Washington County / ZIP 52356 sector"]
+zillowHomeValueUsd: 241266
 ---
 
 **Engineering Notice for Wellman:** System optimized for 158 mg/L hard water scaling factors in Wellman. Regional dispatch grid: Washington County.

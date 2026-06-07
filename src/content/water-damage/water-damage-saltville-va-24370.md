@@ -12,6 +12,7 @@ lng: -81.7600
 zipSample: ["24370"]
 zipCodes: ["24370"]
 localPaths: ["Smyth County / ZIP 24370 sector", "Smyth County / elevation 1696 ft band", "Smyth County / coords 36.8800, -81.7600", "Smyth County / primary ZIP 24370"]
+zillowHomeValueUsd: 117810
 ---
 
 **Engineering Notice for Saltville:** structural drying capacity optimized for 1696ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Smyth County. Relative Humidity Threshold: 77%. Sensor sync: Active.

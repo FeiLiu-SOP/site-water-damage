@@ -12,6 +12,7 @@ lng: -84.7500
 zipSample: ["30137", "30120", "30121"]
 zipCodes: ["30120", "30137", "30121"]
 localPaths: ["Bartow County / ZIP 30137 sector", "Bartow County / elevation 1109 ft band", "Bartow County / ZIP 30120 sector", "Bartow County / coords 34.1300, -84.7500", "Bartow County / ZIP 30121 sector"]
+zillowHomeValueUsd: 303506
 ---
 
 **Engineering Notice for Emerson:** System optimized for 143 mg/L hard water scaling factors in Emerson. Regional dispatch grid: Bartow County.

@@ -12,6 +12,7 @@ lng: -120.9500
 zipSample: ["95713"]
 zipCodes: ["95713"]
 localPaths: ["Placer County / coords 39.0900, -120.9500", "Placer County / elevation 2385 ft band", "Placer County / primary ZIP 95713", "Placer County / ZIP 95713 sector"]
+zillowHomeValueUsd: 506051
 ---
 
 **Engineering Notice for Colfax:** Weather Barrier Wrap was validated under stress factor 1.20; target tolerance set near 136 mph. Grid anchor: Placer County.

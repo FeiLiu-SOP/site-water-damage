@@ -12,6 +12,7 @@ lng: -96.0700
 zipSample: ["51039"]
 zipCodes: ["51039"]
 localPaths: ["Woodbury County / elevation 1181 ft band", "Woodbury County / primary ZIP 51039", "Woodbury County / coords 42.4900, -96.0700", "Woodbury County / ZIP 51039 sector"]
+zillowHomeValueUsd: 267952
 ---
 
 **Engineering Notice for Moville:** Site context locked to Woodbury County. Elevation: 1181 ft AMSL. Coordinates: 42.4900, -96.0700. Exterior Envelope integrity verification recorded.

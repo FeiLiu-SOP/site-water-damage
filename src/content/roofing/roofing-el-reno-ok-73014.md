@@ -11,6 +11,7 @@ lng: -97.9700
 zipSample: ["73036", "73022", "73014"]
 zipCodes: ["73036", "73014", "73022"]
 localPaths: ["Canadian County / ZIP 73014 sector", "Canadian County / ZIP 73036 sector", "Canadian County / elevation 1342 ft band", "Canadian County / coords 35.5400, -97.9700", "Canadian County / primary ZIP 73014"]
+zillowHomeValueUsd: 267720
 ---
 
 **Engineering Notice for El Reno:** Structural loading calculated based on 1342 ft terrain assessment. Regional dispatch grid: Canadian County.

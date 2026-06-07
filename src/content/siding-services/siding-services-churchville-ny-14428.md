@@ -12,6 +12,7 @@ lng: -77.8800
 zipSample: ["14428"]
 zipCodes: ["14428"]
 localPaths: ["Monroe County / primary ZIP 14428", "Monroe County / elevation 581 ft band", "Monroe County / ZIP 14428 sector", "Monroe County / coords 43.1000, -77.8800"]
+zillowHomeValueUsd: 323115
 ---
 
 **Engineering Notice for Churchville:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Coordinates: 43.1000, -77.8800. Grid: Monroe County.

@@ -12,6 +12,7 @@ lng: -122.3400
 zipSample: ["94402"]
 zipCodes: ["94402"]
 localPaths: ["San Mateo County / coords 37.5300, -122.3400", "San Mateo County / primary ZIP 94402", "San Mateo County / ZIP 94402 sector", "San Mateo County / elevation 515 ft band"]
+zillowHomeValueUsd: 2475191
 ---
 
 **Engineering Notice for Baywood Park:** System optimized for 139 mg/L hard water scaling factors in Baywood Park. Regional dispatch grid: San Mateo County.

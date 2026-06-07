@@ -11,6 +11,7 @@ lng: -124.0800
 zipSample: ["95521", "95518"]
 zipCodes: ["95518", "95521"]
 localPaths: ["Humboldt County / coords 40.8600, -124.0800", "Humboldt County / elevation 7 ft band", "Humboldt County / primary ZIP 95521", "Humboldt County / ZIP 95521 sector", "Humboldt County / ZIP 95518 sector"]
+zillowHomeValueUsd: 488042
 ---
 
 **Engineering Notice for Arcata:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Humboldt County.

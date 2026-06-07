@@ -12,6 +12,7 @@ lng: -121.6400
 zipSample: ["94511"]
 zipCodes: ["94511"]
 localPaths: ["Contra Costa County / elevation -8 ft band", "Contra Costa County / primary ZIP 94511", "Contra Costa County / ZIP 94511 sector", "Contra Costa County / coords 38.0300, -121.6400"]
+zillowHomeValueUsd: 629497
 ---
 
 **Engineering Notice for Bethel Island:** System optimized for 153 mg/L hard water scaling factors in Bethel Island. Regional dispatch grid: Contra Costa County.

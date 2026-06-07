@@ -12,6 +12,7 @@ lng: -95.3700
 zipSample: ["56222"]
 zipCodes: ["56222"]
 localPaths: ["Chippewa County / coords 44.9600, -95.3700", "Chippewa County / primary ZIP 56222", "Chippewa County / ZIP 56222 sector", "Chippewa County / elevation 1066 ft band"]
+zillowHomeValueUsd: 234066
 ---
 
 **Engineering Notice for Clara City:** Envelope check: Cladding Service assigned to wind-load band C with stress factor 0.88. Elevation: 1066 ft AMSL. Regional dispatch grid: Chippewa County.

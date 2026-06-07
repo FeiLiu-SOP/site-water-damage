@@ -12,6 +12,7 @@ lng: -76.7900
 zipSample: ["20772"]
 zipCodes: ["20772"]
 localPaths: ["Prince George's County / coords 38.8000, -76.7900", "Prince George's County / primary ZIP 20772", "Prince George's County / ZIP 20772 sector", "Prince George's County / elevation 174 ft band"]
+zillowHomeValueUsd: 475830
 ---
 
 **Engineering Notice for Queensland:** System optimized for 121 mg/L hard water scaling factors in Queensland. Regional dispatch grid: Prince George's County.

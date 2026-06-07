@@ -11,6 +11,7 @@ lng: -84.2400
 zipSample: ["45356"]
 zipCodes: ["45356"]
 localPaths: ["Miami County / coords 40.1500, -84.2400", "Miami County / primary ZIP 45356", "Miami County / elevation 883 ft band", "Miami County / ZIP 45356 sector"]
+zillowHomeValueUsd: 180344
 ---
 
 **Engineering Notice for Piqua:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Miami County.

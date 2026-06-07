@@ -12,6 +12,7 @@ lng: -74.1500
 zipSample: ["12484", "12440"]
 zipCodes: ["12484", "12440"]
 localPaths: ["Ulster County / ZIP 12484 sector", "Ulster County / primary ZIP 12484", "Ulster County / elevation 361 ft band", "Ulster County / ZIP 12440 sector", "Ulster County / coords 41.8400, -74.1500"]
+zillowHomeValueUsd: 572181
 ---
 
 **Engineering Notice for Stone Ridge:** Site context locked to Ulster County. Coordinates: 41.8400, -74.1500. Cladding Service integrity verification recorded.

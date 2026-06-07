@@ -12,6 +12,7 @@ lng: -80.7700
 zipSample: ["25962"]
 zipCodes: ["25962"]
 localPaths: ["Greenbrier County / elevation 2392 ft band", "Greenbrier County / coords 37.9700, -80.7700", "Greenbrier County / ZIP 25962 sector", "Greenbrier County / primary ZIP 25962"]
+zillowHomeValueUsd: 103558
 ---
 
 **Engineering Notice for Rainelle:** System optimized for 144 mg/L hard water scaling factors in Rainelle. Regional dispatch grid: Greenbrier County.

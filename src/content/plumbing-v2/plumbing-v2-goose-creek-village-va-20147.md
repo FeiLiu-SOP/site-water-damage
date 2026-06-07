@@ -12,6 +12,7 @@ lng: -77.5300
 zipSample: ["20147", "20148"]
 zipCodes: ["20147", "20148"]
 localPaths: ["Loudoun County / ZIP 20148 sector", "Loudoun County / primary ZIP 20147", "Loudoun County / elevation 374 ft band", "Loudoun County / coords 39.0400, -77.5300", "Loudoun County / ZIP 20147 sector"]
+zillowHomeValueUsd: 757813
 ---
 
 **Engineering Notice for Goose Creek Village:** System optimized for 124 mg/L hard water scaling factors in Goose Creek Village. Regional dispatch grid: Loudoun County.

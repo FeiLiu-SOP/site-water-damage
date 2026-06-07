@@ -12,6 +12,7 @@ lng: -124.0600
 zipSample: ["98631"]
 zipCodes: ["98631"]
 localPaths: ["Pacific County / ZIP 98631 sector", "Pacific County / elevation 20 ft band", "Pacific County / primary ZIP 98631", "Pacific County / coords 46.3600, -124.0600"]
+zillowHomeValueUsd: 347469
 ---
 
 **Engineering Notice for Long Beach:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pacific County. Relative Humidity Threshold: 67%. Sensor sync: Active.

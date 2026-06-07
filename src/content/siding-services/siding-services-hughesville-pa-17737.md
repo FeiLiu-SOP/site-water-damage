@@ -12,6 +12,7 @@ lng: -76.7300
 zipSample: ["17737"]
 zipCodes: ["17737"]
 localPaths: ["Lycoming County / ZIP 17737 sector", "Lycoming County / primary ZIP 17737", "Lycoming County / coords 41.2400, -76.7300", "Lycoming County / elevation 584 ft band"]
+zillowHomeValueUsd: 250737
 ---
 
 **Engineering Notice for Hughesville:** Site context locked to Lycoming County. Coordinates: 41.2400, -76.7300. Vinyl Panels integrity verification recorded.

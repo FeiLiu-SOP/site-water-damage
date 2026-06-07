@@ -12,6 +12,7 @@ lng: -75.4800
 zipSample: ["18052"]
 zipCodes: ["18052"]
 localPaths: ["Lehigh County / primary ZIP 18052", "Lehigh County / coords 40.6300, -75.4800", "Lehigh County / elevation 348 ft band", "Lehigh County / ZIP 18052 sector"]
+zillowHomeValueUsd: 335158
 ---
 
 **Engineering Notice for Fullerton:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Lehigh County.

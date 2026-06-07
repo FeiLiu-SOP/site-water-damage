@@ -11,6 +11,7 @@ lng: -117.7700
 zipSample: ["92698", "92617", "92606", "92604", "92618"]
 zipCodes: ["92604", "92617", "92697", "92650", "92619", "92616", "92603", "92614", "92618", "92606", "92620", "92602"]
 localPaths: ["Orange County / primary ZIP 92617", "Orange County / ZIP 92617 sector", "Orange County / ZIP 92618 sector", "Orange County / ZIP 92698 sector", "Orange County / elevation 148 ft band"]
+zillowHomeValueUsd: 836969
 ---
 
 **Engineering Notice for Irvine:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Orange County.

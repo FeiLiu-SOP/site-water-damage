@@ -11,6 +11,7 @@ lng: -90.1500
 zipSample: ["62207", "62203", "62205", "62206"]
 zipCodes: ["62206", "62205", "62207", "62203"]
 localPaths: ["St. Clair County / ZIP 62206 sector", "St. Clair County / primary ZIP 62207", "St. Clair County / ZIP 62205 sector", "St. Clair County / coords 38.5700, -90.1500", "St. Clair County / ZIP 62207 sector"]
+zillowHomeValueUsd: 42264
 ---
 
 **Engineering Notice for Cahokia Heights:** Structural loading calculated based on 394 ft terrain assessment. Regional dispatch grid: St. Clair County.

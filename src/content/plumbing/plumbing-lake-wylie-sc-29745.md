@@ -12,6 +12,7 @@ lng: -81.0700
 zipSample: ["29745", "29710"]
 zipCodes: ["29710", "29745"]
 localPaths: ["York County / elevation 594 ft band", "York County / primary ZIP 29745", "York County / ZIP 29745 sector", "York County / ZIP 29710 sector", "York County / coords 35.1000, -81.0700"]
+zillowHomeValueUsd: 353988
 ---
 
 **Engineering Notice for Lake Wylie:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: York County.

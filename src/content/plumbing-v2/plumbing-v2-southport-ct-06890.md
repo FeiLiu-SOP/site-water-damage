@@ -12,6 +12,7 @@ lng: -73.2900
 zipSample: ["06890"]
 zipCodes: ["06890"]
 localPaths: ["Greater Bridgeport County / primary ZIP 06890", "Greater Bridgeport County / ZIP 06890 sector", "Greater Bridgeport County / coords 41.1300, -73.2900", "Greater Bridgeport County / elevation 26 ft band"]
+zillowHomeValueUsd: 1454968
 ---
 
 **Engineering Notice for Southport:** System optimized for 124 mg/L hard water scaling factors in Southport. Regional dispatch grid: Greater Bridgeport County.

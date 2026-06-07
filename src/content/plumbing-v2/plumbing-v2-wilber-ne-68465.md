@@ -12,6 +12,7 @@ lng: -96.9600
 zipSample: ["68465"]
 zipCodes: ["68465"]
 localPaths: ["Saline County / primary ZIP 68465", "Saline County / elevation 1342 ft band", "Saline County / ZIP 68465 sector", "Saline County / coords 40.4800, -96.9600"]
+zillowHomeValueUsd: 218807
 ---
 
 **Engineering Notice for Wilber:** System optimized for 141 mg/L hard water scaling factors in Wilber. Regional dispatch grid: Saline County.

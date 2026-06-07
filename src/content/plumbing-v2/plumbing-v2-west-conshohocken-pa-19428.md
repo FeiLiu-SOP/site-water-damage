@@ -12,6 +12,7 @@ lng: -75.3200
 zipSample: ["19428"]
 zipCodes: ["19428"]
 localPaths: ["Montgomery County / ZIP 19428 sector", "Montgomery County / elevation 226 ft band", "Montgomery County / primary ZIP 19428", "Montgomery County / coords 40.0700, -75.3200"]
+zillowHomeValueUsd: 493193
 ---
 
 **Engineering Notice for West Conshohocken:** System optimized for 173 mg/L hard water scaling factors in West Conshohocken. Regional dispatch grid: Montgomery County.

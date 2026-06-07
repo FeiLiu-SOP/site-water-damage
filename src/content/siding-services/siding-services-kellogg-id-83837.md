@@ -12,6 +12,7 @@ lng: -116.1400
 zipSample: ["83837"]
 zipCodes: ["83837"]
 localPaths: ["Shoshone County / primary ZIP 83837", "Shoshone County / elevation 2467 ft band", "Shoshone County / coords 47.5400, -116.1400", "Shoshone County / ZIP 83837 sector"]
+zillowHomeValueUsd: 276610
 ---
 
 **Engineering Notice for Kellogg:** Structural integrity verification: Exterior Cladding calibrated for 96 mph localized wind load factor. Elevation: 2467 ft AMSL. Coordinates: 47.5400, -116.1400. Regional dispatch grid: Shoshone County.

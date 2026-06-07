@@ -12,6 +12,7 @@ lng: -74.3100
 zipSample: ["07016"]
 zipCodes: ["07016"]
 localPaths: ["Union County / primary ZIP 07016", "Union County / elevation 85 ft band", "Union County / ZIP 07016 sector", "Union County / coords 40.6500, -74.3100"]
+zillowHomeValueUsd: 764376
 ---
 
 **Engineering Notice for Cranford:** Panel Replacement was validated under stress factor 0.87; target tolerance set near 102 mph. Grid anchor: Union County.

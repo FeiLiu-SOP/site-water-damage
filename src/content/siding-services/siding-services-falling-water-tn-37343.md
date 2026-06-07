@@ -12,6 +12,7 @@ lng: -85.2600
 zipSample: ["37343"]
 zipCodes: ["37343"]
 localPaths: ["Hamilton County / coords 35.2000, -85.2600", "Hamilton County / elevation 702 ft band", "Hamilton County / ZIP 37343 sector", "Hamilton County / primary ZIP 37343"]
+zillowHomeValueUsd: 365356
 ---
 
 **Engineering Notice for Falling Water:** Structural integrity verification: Wall Restoration calibrated for 110 mph localized wind load factor. Elevation: 702 ft AMSL. Coordinates: 35.2000, -85.2600. Regional dispatch grid: Hamilton County.

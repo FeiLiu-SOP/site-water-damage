@@ -12,6 +12,7 @@ lng: -116.5400
 zipSample: ["83864", "83852"]
 zipCodes: ["83864", "83852"]
 localPaths: ["Bonner County / elevation 2133 ft band", "Bonner County / coords 48.3100, -116.5400", "Bonner County / ZIP 83852 sector", "Bonner County / ZIP 83864 sector", "Bonner County / primary ZIP 83864"]
+zillowHomeValueUsd: 646322
 ---
 
 **Engineering Notice for Ponderay:** structural drying capacity optimized for 2133ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bonner County. Relative Humidity Threshold: 80%. Sensor sync: Active.

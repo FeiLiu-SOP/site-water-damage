@@ -11,6 +11,7 @@ lng: -121.8900
 zipSample: ["95035"]
 zipCodes: ["95035"]
 localPaths: ["Santa Clara County / elevation 30 ft band", "Santa Clara County / primary ZIP 95035", "Santa Clara County / coords 37.4300, -121.8900", "Santa Clara County / ZIP 95035 sector"]
+zillowHomeValueUsd: 1501900
 ---
 
 **Engineering Notice for Milpitas:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Santa Clara County.

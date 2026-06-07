@@ -12,6 +12,7 @@ lng: -78.7000
 zipSample: ["28391"]
 zipCodes: ["28391"]
 localPaths: ["Cumberland County / ZIP 28391 sector", "Cumberland County / coords 35.0100, -78.7000", "Cumberland County / primary ZIP 28391", "Cumberland County / elevation 128 ft band"]
+zillowHomeValueUsd: 279654
 ---
 
 **Engineering Notice for Stedman:** System optimized for 148 mg/L hard water scaling factors in Stedman. Regional dispatch grid: Cumberland County.

@@ -12,6 +12,7 @@ lng: -119.0000
 zipSample: ["93307"]
 zipCodes: ["93307"]
 localPaths: ["Kern County / primary ZIP 93307", "Kern County / ZIP 93307 sector", "Kern County / elevation 407 ft band", "Kern County / coords 35.3400, -119.0000"]
+zillowHomeValueUsd: 318576
 ---
 
 **Engineering Notice for Casa Loma:** System optimized for 159 mg/L hard water scaling factors in Casa Loma. Regional dispatch grid: Kern County.

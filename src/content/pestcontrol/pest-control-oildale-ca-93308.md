@@ -11,6 +11,7 @@ lng: -119.0300
 zipSample: ["93308", "93388"]
 zipCodes: ["93308", "93388"]
 localPaths: ["Kern County / ZIP 93388 sector", "Kern County / elevation 531 ft band", "Kern County / ZIP 93308 sector", "Kern County / coords 35.4300, -119.0300", "Kern County / primary ZIP 93308"]
+zillowHomeValueUsd: 349368
 ---
 
 **Engineering Notice for Oildale:** Structural loading calculated based on 531 ft terrain assessment. Regional dispatch grid: Kern County.

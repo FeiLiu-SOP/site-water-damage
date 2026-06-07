@@ -12,6 +12,7 @@ lng: -80.0000
 zipSample: ["15314"]
 zipCodes: ["15314"]
 localPaths: ["Washington County / coords 40.1200, -80.0000", "Washington County / elevation 1010 ft band", "Washington County / ZIP 15314 sector", "Washington County / primary ZIP 15314"]
+zillowHomeValueUsd: 159610
 ---
 
 **Engineering Notice for Bentleyville:** System optimized for 176 mg/L hard water scaling factors in Bentleyville. Regional dispatch grid: Washington County.

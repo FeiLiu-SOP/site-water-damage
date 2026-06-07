@@ -12,6 +12,7 @@ lng: -77.5200
 zipSample: ["27886"]
 zipCodes: ["27886"]
 localPaths: ["Edgecombe County / primary ZIP 27886", "Edgecombe County / coords 35.8900, -77.5200", "Edgecombe County / elevation 66 ft band", "Edgecombe County / ZIP 27886 sector"]
+zillowHomeValueUsd: 148125
 ---
 
 **Engineering Notice for Princeville:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Grid: Edgecombe County.

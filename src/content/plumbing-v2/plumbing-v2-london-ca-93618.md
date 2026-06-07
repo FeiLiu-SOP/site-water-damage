@@ -12,6 +12,7 @@ lng: -119.4400
 zipSample: ["93618"]
 zipCodes: ["93618"]
 localPaths: ["Tulare County / primary ZIP 93618", "Tulare County / coords 36.4800, -119.4400", "Tulare County / ZIP 93618 sector", "Tulare County / elevation 308 ft band"]
+zillowHomeValueUsd: 357698
 ---
 
 **Engineering Notice for London:** System optimized for 158 mg/L hard water scaling factors in London. Regional dispatch grid: Tulare County.

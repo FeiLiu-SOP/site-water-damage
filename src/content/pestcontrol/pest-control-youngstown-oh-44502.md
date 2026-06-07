@@ -11,6 +11,7 @@ lng: -80.6500
 zipSample: ["44505", "44504", "44511", "44503", "44555"]
 zipCodes: ["44503", "44501", "44510", "44555", "44511", "44507", "44509", "44506", "44505", "44504", "44502"]
 localPaths: ["Mahoning County / primary ZIP 44502", "Mahoning County / ZIP 44503 sector", "Mahoning County / ZIP 44505 sector", "Mahoning County / ZIP 44555 sector", "Mahoning County / ZIP 44504 sector"]
+zillowHomeValueUsd: 56620
 ---
 
 **Engineering Notice for Youngstown:** Structural loading calculated based on 863 ft terrain assessment. Regional dispatch grid: Mahoning County.

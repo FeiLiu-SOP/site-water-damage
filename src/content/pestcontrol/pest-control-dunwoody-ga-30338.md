@@ -11,6 +11,7 @@ lng: -84.3100
 zipSample: ["30360", "30346", "30338", "30356", "31146"]
 zipCodes: ["31146", "30338", "30346", "30360", "30356"]
 localPaths: ["DeKalb County / ZIP 30338 sector", "DeKalb County / coords 33.9400, -84.3100", "DeKalb County / ZIP 30356 sector", "DeKalb County / ZIP 31146 sector", "DeKalb County / ZIP 30346 sector"]
+zillowHomeValueUsd: 713493
 ---
 
 **Engineering Notice for Dunwoody:** Structural loading calculated based on 1030 ft terrain assessment. Regional dispatch grid: DeKalb County.

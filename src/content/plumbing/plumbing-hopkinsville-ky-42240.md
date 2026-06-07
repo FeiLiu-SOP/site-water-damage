@@ -12,6 +12,7 @@ lng: -87.4800
 zipSample: ["42241", "42240", "42221"]
 zipCodes: ["42221", "42241", "42240"]
 localPaths: ["Christian County / ZIP 42241 sector", "Christian County / primary ZIP 42240", "Christian County / coords 36.8400, -87.4800", "Christian County / elevation 535 ft band", "Christian County / ZIP 42240 sector"]
+zillowHomeValueUsd: 195563
 ---
 
 **Engineering Notice for Hopkinsville:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: Christian County.

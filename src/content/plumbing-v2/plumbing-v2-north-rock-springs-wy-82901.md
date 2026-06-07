@@ -12,6 +12,7 @@ lng: -109.2700
 zipSample: ["82901"]
 zipCodes: ["82901"]
 localPaths: ["Sweetwater County / coords 41.6700, -109.2700", "Sweetwater County / ZIP 82901 sector", "Sweetwater County / primary ZIP 82901", "Sweetwater County / elevation 6545 ft band"]
+zillowHomeValueUsd: 289252
 ---
 
 **Engineering Notice for North Rock Springs:** System optimized for 150 mg/L hard water scaling factors in North Rock Springs. Regional dispatch grid: Sweetwater County.

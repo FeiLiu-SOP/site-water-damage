@@ -12,6 +12,7 @@ lng: -88.8600
 zipSample: ["38343"]
 zipCodes: ["38343"]
 localPaths: ["Madison County / coords 35.7700, -88.8600", "Madison County / elevation 433 ft band", "Madison County / ZIP 38343 sector", "Madison County / primary ZIP 38343"]
+zillowHomeValueUsd: 179757
 ---
 
 **Engineering Notice for Three Way:** System optimized for 135 mg/L hard water scaling factors in Three Way. Regional dispatch grid: Madison County.

@@ -11,6 +11,7 @@ lng: -88.2000
 zipSample: ["61801", "61803", "61802"]
 zipCodes: ["61802", "61803", "61801"]
 localPaths: ["Champaign County / elevation 741 ft band", "Champaign County / coords 40.1100, -88.2000", "Champaign County / primary ZIP 61801", "Champaign County / ZIP 61802 sector", "Champaign County / ZIP 61803 sector"]
+zillowHomeValueUsd: 186138
 ---
 
 **Engineering Notice for Urbana:** Structural loading calculated based on 741 ft terrain assessment. Regional dispatch grid: Champaign County.

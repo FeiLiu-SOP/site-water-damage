@@ -12,6 +12,7 @@ lng: -97.2500
 zipSample: ["76630", "76524"]
 zipCodes: ["76524", "76630"]
 localPaths: ["McLennan County / ZIP 76524 sector", "McLennan County / coords 31.3100, -97.2500", "McLennan County / elevation 692 ft band", "McLennan County / primary ZIP 76524", "McLennan County / ZIP 76630 sector"]
+zillowHomeValueUsd: 261299
 ---
 
 **Engineering Notice for Bruceville-Eddy:** structural drying capacity optimized for 692ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McLennan County. Relative Humidity Threshold: 73%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -82.9900
 zipSample: ["40823"]
 zipCodes: ["40823"]
 localPaths: ["Harlan County / elevation 1706 ft band", "Harlan County / ZIP 40823 sector", "Harlan County / primary ZIP 40823", "Harlan County / coords 36.9800, -82.9900"]
+zillowHomeValueUsd: 60565
 ---
 
 **Engineering Notice for Cumberland:** structural drying capacity optimized for 1706ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harlan County. Relative Humidity Threshold: 80%. Sensor sync: Active.

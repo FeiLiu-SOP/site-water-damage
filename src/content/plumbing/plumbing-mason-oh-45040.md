@@ -12,6 +12,7 @@ lng: -84.3000
 zipSample: ["45040"]
 zipCodes: ["45040"]
 localPaths: ["Warren County / elevation 784 ft band", "Warren County / primary ZIP 45040", "Warren County / coords 39.3600, -84.3000", "Warren County / ZIP 45040 sector"]
+zillowHomeValueUsd: 503769
 ---
 
 **Engineering Notice for Mason:** Structural loading calculated based on 784 ft terrain assessment. Regional dispatch grid: Warren County.

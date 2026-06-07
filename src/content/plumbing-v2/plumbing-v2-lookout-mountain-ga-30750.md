@@ -12,6 +12,7 @@ lng: -85.3600
 zipSample: ["30750"]
 zipCodes: ["30750"]
 localPaths: ["Walker County / primary ZIP 30750", "Walker County / ZIP 30750 sector", "Walker County / coords 34.9700, -85.3600", "Walker County / elevation 1650 ft band"]
+zillowHomeValueUsd: 462940
 ---
 
 **Engineering Notice for Lookout Mountain:** System optimized for 168 mg/L hard water scaling factors in Lookout Mountain. Regional dispatch grid: Walker County.

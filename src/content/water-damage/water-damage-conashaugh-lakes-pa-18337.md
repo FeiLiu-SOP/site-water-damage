@@ -12,6 +12,7 @@ lng: -74.9900
 zipSample: ["18337"]
 zipCodes: ["18337"]
 localPaths: ["Pike County / coords 41.3000, -74.9900", "Pike County / ZIP 18337 sector", "Pike County / elevation 1424 ft band", "Pike County / primary ZIP 18337"]
+zillowHomeValueUsd: 348903
 ---
 
 **Engineering Notice for Conashaugh Lakes:** structural drying capacity optimized for 1424ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pike County. Relative Humidity Threshold: 73%. Sensor sync: Active.

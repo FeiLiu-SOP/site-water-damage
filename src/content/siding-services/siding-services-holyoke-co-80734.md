@@ -12,6 +12,7 @@ lng: -102.3000
 zipSample: ["80734"]
 zipCodes: ["80734"]
 localPaths: ["Phillips County / ZIP 80734 sector", "Phillips County / elevation 3747 ft band", "Phillips County / coords 40.5800, -102.3000", "Phillips County / primary ZIP 80734"]
+zillowHomeValueUsd: 260680
 ---
 
 **Engineering Notice for Holyoke:** Structural integrity verification: Cladding Service calibrated for 100 mph localized wind load factor. Elevation: 3747 ft AMSL. Regional dispatch grid: Phillips County.

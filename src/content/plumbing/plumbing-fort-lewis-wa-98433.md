@@ -12,6 +12,8 @@ lng: -122.5700
 zipSample: ["98433"]
 zipCodes: ["98433"]
 localPaths: ["Pierce County / primary ZIP 98433", "Pierce County / ZIP 98433 sector", "Pierce County / elevation 377 ft band", "Pierce County / coords 47.1000, -122.5700"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 594726
 ---
 
 **Engineering Notice for Fort Lewis:** Structural loading calculated based on 377 ft terrain assessment. Regional dispatch grid: Pierce County.

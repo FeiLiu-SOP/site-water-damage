@@ -12,6 +12,7 @@ lng: -82.1000
 zipSample: ["43731"]
 zipCodes: ["43731"]
 localPaths: ["Perry County / coords 39.7700, -82.1000", "Perry County / elevation 764 ft band", "Perry County / primary ZIP 43731", "Perry County / ZIP 43731 sector"]
+zillowHomeValueUsd: 142455
 ---
 
 **Engineering Notice for Crooksville:** System optimized for 147 mg/L hard water scaling factors in Crooksville. Regional dispatch grid: Perry County.

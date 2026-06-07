@@ -12,6 +12,7 @@ lng: -78.6700
 zipSample: ["22844"]
 zipCodes: ["22844"]
 localPaths: ["Shenandoah County / coords 38.6500, -78.6700", "Shenandoah County / elevation 1050 ft band", "Shenandoah County / ZIP 22844 sector", "Shenandoah County / primary ZIP 22844"]
+zillowHomeValueUsd: 333839
 ---
 
 **Engineering Notice for New Market:** structural drying capacity optimized for 1050ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Shenandoah County. Relative Humidity Threshold: 83%. Sensor sync: Active.

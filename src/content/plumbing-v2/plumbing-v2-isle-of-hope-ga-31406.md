@@ -12,6 +12,7 @@ lng: -81.0500
 zipSample: ["31406"]
 zipCodes: ["31406"]
 localPaths: ["Chatham County / ZIP 31406 sector", "Chatham County / coords 31.9800, -81.0500", "Chatham County / primary ZIP 31406", "Chatham County / elevation 66 ft band"]
+zillowHomeValueUsd: 319054
 ---
 
 **Engineering Notice for Isle of Hope:** System optimized for 148 mg/L hard water scaling factors in Isle of Hope. Regional dispatch grid: Chatham County.

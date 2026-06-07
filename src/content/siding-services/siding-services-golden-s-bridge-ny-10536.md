@@ -12,6 +12,7 @@ lng: -73.6700
 zipSample: ["10536", "10526"]
 zipCodes: ["10536", "10526"]
 localPaths: ["Westchester County / ZIP 10536 sector", "Westchester County / elevation 328 ft band", "Westchester County / coords 41.2900, -73.6700", "Westchester County / ZIP 10526 sector", "Westchester County / primary ZIP 10536"]
+zillowHomeValueUsd: 1075573
 ---
 
 **Engineering Notice for Golden's Bridge:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Coordinates: 41.2900, -73.6700. Grid: Westchester County.

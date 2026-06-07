@@ -12,6 +12,7 @@ lng: -87.5900
 zipSample: ["36530"]
 zipCodes: ["36530"]
 localPaths: ["Baldwin County / primary ZIP 36530", "Baldwin County / elevation 62 ft band", "Baldwin County / coords 30.3900, -87.5900", "Baldwin County / ZIP 36530 sector"]
+zillowHomeValueUsd: 344465
 ---
 
 **Engineering Notice for Elberta:** Site context locked to Baldwin County. Coordinates: 30.3900, -87.5900. Exterior Cladding integrity verification recorded.

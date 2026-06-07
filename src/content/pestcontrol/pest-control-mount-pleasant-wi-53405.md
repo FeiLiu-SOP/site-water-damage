@@ -11,6 +11,7 @@ lng: -87.8900
 zipSample: ["53403", "53406", "53177", "53405"]
 zipCodes: ["53177", "53406", "53405", "53403"]
 localPaths: ["Racine County / primary ZIP 53405", "Racine County / coords 42.7100, -87.8900", "Racine County / ZIP 53405 sector", "Racine County / ZIP 53403 sector", "Racine County / elevation 686 ft band"]
+zillowHomeValueUsd: 227210
 ---
 
 **Engineering Notice for Mount Pleasant:** Structural loading calculated based on 686 ft terrain assessment. Regional dispatch grid: Racine County.

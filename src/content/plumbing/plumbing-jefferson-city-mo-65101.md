@@ -12,6 +12,7 @@ lng: -92.1800
 zipSample: ["65105", "65106", "65104", "65109", "65111"]
 zipCodes: ["65102", "65106", "65108", "65109", "65111", "65110", "65104", "65105", "65101", "65107", "65103"]
 localPaths: ["Cole County / elevation 659 ft band", "Cole County / ZIP 65106 sector", "Cole County / ZIP 65104 sector", "Cole County / ZIP 65109 sector", "Cole County / coords 38.5700, -92.1800"]
+zillowHomeValueUsd: 265713
 ---
 
 **Engineering Notice for Jefferson City:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Cole County.

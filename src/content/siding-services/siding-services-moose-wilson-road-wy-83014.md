@@ -12,6 +12,7 @@ lng: -110.8300
 zipSample: ["83014"]
 zipCodes: ["83014"]
 localPaths: ["Teton County / ZIP 83014 sector", "Teton County / primary ZIP 83014", "Teton County / coords 43.5300, -110.8300", "Teton County / elevation 6204 ft band"]
+zillowHomeValueUsd: 3180167
 ---
 
 **Engineering Notice for Moose Wilson Road:** Site context locked to Teton County. Coordinates: 43.5300, -110.8300. Wall Restoration integrity verification recorded.

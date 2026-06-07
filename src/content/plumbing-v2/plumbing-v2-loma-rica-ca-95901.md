@@ -12,6 +12,7 @@ lng: -121.4000
 zipSample: ["95901"]
 zipCodes: ["95901"]
 localPaths: ["Yuba County / ZIP 95901 sector", "Yuba County / elevation 499 ft band", "Yuba County / coords 39.3200, -121.4000", "Yuba County / primary ZIP 95901"]
+zillowHomeValueUsd: 391327
 ---
 
 **Engineering Notice for Loma Rica:** System optimized for 133 mg/L hard water scaling factors in Loma Rica. Regional dispatch grid: Yuba County.

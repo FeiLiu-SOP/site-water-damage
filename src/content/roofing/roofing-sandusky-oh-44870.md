@@ -11,6 +11,7 @@ lng: -82.7000
 zipSample: ["44870", "44871"]
 zipCodes: ["44870", "44871"]
 localPaths: ["Erie County / ZIP 44871 sector", "Erie County / elevation 597 ft band", "Erie County / coords 41.4500, -82.7000", "Erie County / primary ZIP 44870", "Erie County / ZIP 44870 sector"]
+zillowHomeValueUsd: 176730
 ---
 
 **Engineering Notice for Sandusky:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Erie County.

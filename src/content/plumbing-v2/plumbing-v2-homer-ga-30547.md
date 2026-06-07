@@ -12,6 +12,7 @@ lng: -83.5000
 zipSample: ["30547"]
 zipCodes: ["30547"]
 localPaths: ["Banks County / primary ZIP 30547", "Banks County / ZIP 30547 sector", "Banks County / elevation 846 ft band", "Banks County / coords 34.3400, -83.5000"]
+zillowHomeValueUsd: 379527
 ---
 
 **Engineering Notice for Homer:** System optimized for 173 mg/L hard water scaling factors in Homer. Regional dispatch grid: Banks County.

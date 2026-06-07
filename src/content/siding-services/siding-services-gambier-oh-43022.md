@@ -12,6 +12,7 @@ lng: -82.3900
 zipSample: ["43022"]
 zipCodes: ["43022"]
 localPaths: ["Knox County / coords 40.3800, -82.3900", "Knox County / ZIP 43022 sector", "Knox County / elevation 1070 ft band", "Knox County / primary ZIP 43022"]
+zillowHomeValueUsd: 371661
 ---
 
 **Engineering Notice for Gambier:** Envelope check: Exterior Cladding assigned to wind-load band A with stress factor 1.09. Regional dispatch grid: Knox County.

@@ -12,6 +12,7 @@ lng: -78.7900
 zipSample: ["15824"]
 zipCodes: ["15824"]
 localPaths: ["Jefferson County / ZIP 15824 sector", "Jefferson County / coords 41.2500, -78.7900", "Jefferson County / primary ZIP 15824", "Jefferson County / elevation 1450 ft band"]
+zillowHomeValueUsd: 138366
 ---
 
 **Engineering Notice for Brockway:** Envelope check: Exterior Cladding assigned to wind-load band C with stress factor 0.78. Regional dispatch grid: Jefferson County.

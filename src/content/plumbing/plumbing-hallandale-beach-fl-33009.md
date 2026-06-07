@@ -12,6 +12,7 @@ lng: -80.1400
 zipSample: ["33008", "33009"]
 zipCodes: ["33009", "33008"]
 localPaths: ["Broward County / coords 25.9900, -80.1400", "Broward County / elevation 30 ft band", "Broward County / ZIP 33009 sector", "Broward County / ZIP 33008 sector", "Broward County / primary ZIP 33009"]
+zillowHomeValueUsd: 279007
 ---
 
 **Engineering Notice for Hallandale Beach:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Broward County.

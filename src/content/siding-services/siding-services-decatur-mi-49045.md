@@ -12,6 +12,7 @@ lng: -85.9700
 zipSample: ["49045"]
 zipCodes: ["49045"]
 localPaths: ["Van Buren County / ZIP 49045 sector", "Van Buren County / coords 42.1100, -85.9700", "Van Buren County / elevation 794 ft band", "Van Buren County / primary ZIP 49045"]
+zillowHomeValueUsd: 214550
 ---
 
 **Engineering Notice for Decatur:** Exterior Envelope was validated under stress factor 0.97; target tolerance set near 103 mph. Coordinates: 42.1100, -85.9700. Grid anchor: Van Buren County.

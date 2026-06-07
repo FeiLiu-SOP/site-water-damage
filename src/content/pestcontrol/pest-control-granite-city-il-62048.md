@@ -11,6 +11,7 @@ lng: -90.1300
 zipSample: ["62048", "62040"]
 zipCodes: ["62048", "62040"]
 localPaths: ["Madison County / elevation 430 ft band", "Madison County / primary ZIP 62048", "Madison County / coords 38.7300, -90.1300", "Madison County / ZIP 62040 sector", "Madison County / ZIP 62048 sector"]
+zillowHomeValueUsd: 74962
 ---
 
 **Engineering Notice for Granite City:** Structural loading calculated based on 430 ft terrain assessment. Regional dispatch grid: Madison County.

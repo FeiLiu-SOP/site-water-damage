@@ -12,6 +12,7 @@ lng: -121.9000
 zipSample: ["98014"]
 zipCodes: ["98014"]
 localPaths: ["King County / coords 47.6400, -121.9000", "King County / ZIP 98014 sector", "King County / primary ZIP 98014", "King County / elevation 98 ft band"]
+zillowHomeValueUsd: 1034187
 ---
 
 **Engineering Notice for Carnation:** System optimized for 146 mg/L hard water scaling factors in Carnation. Regional dispatch grid: King County.

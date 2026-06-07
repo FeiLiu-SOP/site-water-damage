@@ -12,6 +12,7 @@ lng: -99.1300
 zipSample: ["76823"]
 zipCodes: ["76823"]
 localPaths: ["Brown County / ZIP 76823 sector", "Brown County / primary ZIP 76823", "Brown County / elevation 1614 ft band", "Brown County / coords 31.7200, -99.1300"]
+zillowHomeValueUsd: 170019
 ---
 
 **Engineering Notice for Bangs:** System optimized for 122 mg/L hard water scaling factors in Bangs. Regional dispatch grid: Brown County.

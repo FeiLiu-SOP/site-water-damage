@@ -12,6 +12,7 @@ lng: -95.1000
 zipSample: ["77327"]
 zipCodes: ["77327"]
 localPaths: ["Liberty County / primary ZIP 77327", "Liberty County / coords 30.2000, -95.1000", "Liberty County / elevation 102 ft band", "Liberty County / ZIP 77327 sector"]
+zillowHomeValueUsd: 219444
 ---
 
 **Engineering Notice for Plum Grove:** Envelope check: Vinyl Panels assigned to wind-load band A with stress factor 0.72. Elevation: 102 ft AMSL. Regional dispatch grid: Liberty County.

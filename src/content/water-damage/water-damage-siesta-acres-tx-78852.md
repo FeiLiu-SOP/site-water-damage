@@ -12,6 +12,7 @@ lng: -100.4900
 zipSample: ["78852"]
 zipCodes: ["78852"]
 localPaths: ["Maverick County / coords 28.7600, -100.4900", "Maverick County / elevation 758 ft band", "Maverick County / ZIP 78852 sector", "Maverick County / primary ZIP 78852"]
+zillowHomeValueUsd: 230829
 ---
 
 **Engineering Notice for Siesta Acres:** structural drying capacity optimized for 758ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Maverick County. Relative Humidity Threshold: 79%. Sensor sync: Active.

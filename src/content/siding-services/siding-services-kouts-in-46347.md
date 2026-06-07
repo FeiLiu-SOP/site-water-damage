@@ -12,6 +12,7 @@ lng: -87.0300
 zipSample: ["46347"]
 zipCodes: ["46347"]
 localPaths: ["Porter County / elevation 686 ft band", "Porter County / coords 41.3200, -87.0300", "Porter County / ZIP 46347 sector", "Porter County / primary ZIP 46347"]
+zillowHomeValueUsd: 314443
 ---
 
 **Engineering Notice for Kouts:** Site context locked to Porter County. Wall Restoration integrity verification recorded.

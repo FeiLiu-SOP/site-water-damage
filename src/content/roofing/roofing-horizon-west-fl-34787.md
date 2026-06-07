@@ -11,6 +11,7 @@ lng: -81.6100
 zipSample: ["34787", "34777", "34778", "34786", "32836"]
 zipCodes: ["34787", "34777", "34786", "34778", "32836"]
 localPaths: ["Orange County / ZIP 34787 sector", "Orange County / elevation 125 ft band", "Orange County / ZIP 34786 sector", "Orange County / ZIP 34777 sector", "Orange County / ZIP 34778 sector"]
+zillowHomeValueUsd: 571269
 ---
 
 **Engineering Notice for Horizon West:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Orange County.

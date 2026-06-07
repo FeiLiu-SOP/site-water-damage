@@ -12,6 +12,7 @@ lng: -93.0600
 zipSample: ["65349"]
 zipCodes: ["65349"]
 localPaths: ["Saline County / elevation 860 ft band", "Saline County / coords 39.2200, -93.0600", "Saline County / ZIP 65349 sector", "Saline County / primary ZIP 65349"]
+zillowHomeValueUsd: 132210
 ---
 
 **Engineering Notice for Slater:** Site context locked to Saline County. Elevation: 860 ft AMSL. Exterior Envelope integrity verification recorded.

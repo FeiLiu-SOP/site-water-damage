@@ -11,6 +11,7 @@ lng: -87.3800
 zipSample: ["47804", "47803", "47807", "47802", "47801"]
 zipCodes: ["47801", "47802", "47807", "47809", "47804", "47803", "47808"]
 localPaths: ["Vigo County / ZIP 47802 sector", "Vigo County / ZIP 47807 sector", "Vigo County / coords 39.4700, -87.3800", "Vigo County / ZIP 47804 sector", "Vigo County / primary ZIP 47804"]
+zillowHomeValueUsd: 101402
 ---
 
 **Engineering Notice for Terre Haute:** Structural loading calculated based on 518 ft terrain assessment. Regional dispatch grid: Vigo County.

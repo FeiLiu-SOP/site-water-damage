@@ -12,6 +12,8 @@ lng: -109.9600
 zipSample: ["85941"]
 zipCodes: ["85941"]
 localPaths: ["Navajo County / coords 34.0000, -109.9600", "Navajo County / elevation 6824 ft band", "Navajo County / ZIP 85941 sector", "Navajo County / primary ZIP 85941"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 447366
 ---
 
 **Engineering Notice for North Fork:** System optimized for 167 mg/L hard water scaling factors in North Fork. Regional dispatch grid: Navajo County.

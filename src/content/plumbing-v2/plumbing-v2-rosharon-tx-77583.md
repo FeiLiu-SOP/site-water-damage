@@ -12,6 +12,7 @@ lng: -95.4500
 zipSample: ["77583"]
 zipCodes: ["77583"]
 localPaths: ["Brazoria County / primary ZIP 77583", "Brazoria County / coords 29.3500, -95.4500", "Brazoria County / elevation 52 ft band", "Brazoria County / ZIP 77583 sector"]
+zillowHomeValueUsd: 321968
 ---
 
 **Engineering Notice for Rosharon:** System optimized for 165 mg/L hard water scaling factors in Rosharon. Regional dispatch grid: Brazoria County.

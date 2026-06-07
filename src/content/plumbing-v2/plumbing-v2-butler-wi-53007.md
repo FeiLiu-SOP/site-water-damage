@@ -12,6 +12,7 @@ lng: -88.0700
 zipSample: ["53007"]
 zipCodes: ["53007"]
 localPaths: ["Waukesha County / primary ZIP 53007", "Waukesha County / coords 43.1100, -88.0700", "Waukesha County / ZIP 53007 sector", "Waukesha County / elevation 768 ft band"]
+zillowHomeValueUsd: 288575
 ---
 
 **Engineering Notice for Butler:** System optimized for 174 mg/L hard water scaling factors in Butler. Regional dispatch grid: Waukesha County.

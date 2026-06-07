@@ -11,6 +11,7 @@ lng: -119.3700
 zipSample: ["93280"]
 zipCodes: ["93280"]
 localPaths: ["Kern County / elevation 318 ft band", "Kern County / coords 35.5900, -119.3700", "Kern County / ZIP 93280 sector", "Kern County / primary ZIP 93280"]
+zillowHomeValueUsd: 316620
 ---
 
 **Engineering Notice for Wasco:** Structural loading calculated based on 318 ft terrain assessment. Regional dispatch grid: Kern County.

@@ -12,6 +12,7 @@ lng: -110.0300
 zipSample: ["85901", "85929"]
 zipCodes: ["85929", "85901"]
 localPaths: ["Navajo County / primary ZIP 85929", "Navajo County / ZIP 85901 sector", "Navajo County / coords 34.2000, -110.0300", "Navajo County / elevation 6657 ft band", "Navajo County / ZIP 85929 sector"]
+zillowHomeValueUsd: 414212
 ---
 
 **Engineering Notice for Wagon Wheel:** Site context locked to Navajo County. Coordinates: 34.2000, -110.0300. Facade Renewal integrity verification recorded.

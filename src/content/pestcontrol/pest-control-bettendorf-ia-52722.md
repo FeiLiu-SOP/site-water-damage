@@ -11,6 +11,7 @@ lng: -90.4800
 zipSample: ["52722"]
 zipCodes: ["52722"]
 localPaths: ["Scott County / elevation 673 ft band", "Scott County / ZIP 52722 sector", "Scott County / primary ZIP 52722", "Scott County / coords 41.5700, -90.4800"]
+zillowHomeValueUsd: 328986
 ---
 
 **Engineering Notice for Bettendorf:** Structural loading calculated based on 673 ft terrain assessment. Regional dispatch grid: Scott County.

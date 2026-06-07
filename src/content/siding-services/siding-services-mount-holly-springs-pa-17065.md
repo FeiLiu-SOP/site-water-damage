@@ -12,6 +12,7 @@ lng: -77.1900
 zipSample: ["17065"]
 zipCodes: ["17065"]
 localPaths: ["Cumberland County / coords 40.1100, -77.1900", "Cumberland County / primary ZIP 17065", "Cumberland County / elevation 574 ft band", "Cumberland County / ZIP 17065 sector"]
+zillowHomeValueUsd: 283060
 ---
 
 **Engineering Notice for Mount Holly Springs:** Wall Restoration was validated under stress factor 1.16; target tolerance set near 103 mph. Coordinates: 40.1100, -77.1900. Grid anchor: Cumberland County.

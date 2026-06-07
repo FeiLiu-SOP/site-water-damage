@@ -12,6 +12,7 @@ lng: -73.7100
 zipSample: ["11561", "11509"]
 zipCodes: ["11561", "11509"]
 localPaths: ["Nassau County / ZIP 11561 sector", "Nassau County / primary ZIP 11561", "Nassau County / elevation 10 ft band", "Nassau County / ZIP 11509 sector", "Nassau County / coords 40.5900, -73.7100"]
+zillowHomeValueUsd: 820903
 ---
 
 **Engineering Notice for East Atlantic Beach:** Site context locked to Nassau County. Elevation: 10 ft AMSL. Coordinates: 40.5900, -73.7100. Surface Sheathing integrity verification recorded.

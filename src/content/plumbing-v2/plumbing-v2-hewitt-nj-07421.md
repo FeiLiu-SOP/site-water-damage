@@ -12,6 +12,7 @@ lng: -74.3300
 zipSample: ["07421"]
 zipCodes: ["07421"]
 localPaths: ["Passaic County / primary ZIP 07421", "Passaic County / coords 41.1600, -74.3300", "Passaic County / elevation 633 ft band", "Passaic County / ZIP 07421 sector"]
+zillowHomeValueUsd: 472628
 ---
 
 **Engineering Notice for Hewitt:** System optimized for 158 mg/L hard water scaling factors in Hewitt. Regional dispatch grid: Passaic County.

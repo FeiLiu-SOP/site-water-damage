@@ -11,6 +11,7 @@ lng: -122.1500
 zipSample: ["94028", "94304", "94306", "94301", "94303"]
 zipCodes: ["94301", "94022", "94028", "94306", "94303", "94304", "94302"]
 localPaths: ["Santa Clara County / ZIP 94306 sector", "Santa Clara County / coords 37.3900, -122.1500", "Santa Clara County / ZIP 94304 sector", "Santa Clara County / ZIP 94301 sector", "Santa Clara County / elevation 210 ft band"]
+zillowHomeValueUsd: 4274298
 ---
 
 **Engineering Notice for Palo Alto:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Santa Clara County.

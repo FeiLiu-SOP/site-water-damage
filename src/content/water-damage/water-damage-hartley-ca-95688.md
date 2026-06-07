@@ -12,6 +12,7 @@ lng: -121.9500
 zipSample: ["95688"]
 zipCodes: ["95688"]
 localPaths: ["Solano County / elevation 131 ft band", "Solano County / coords 38.4200, -121.9500", "Solano County / primary ZIP 95688", "Solano County / ZIP 95688 sector"]
+zillowHomeValueUsd: 663288
 ---
 
 **Engineering Notice for Hartley:** structural drying capacity optimized for 131ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Solano County. Relative Humidity Threshold: 71%. Sensor sync: Active.

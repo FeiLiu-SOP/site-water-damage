@@ -11,6 +11,8 @@ lng: -66.1600
 zipSample: ["00916", "00959", "00961", "00934", "00956"]
 zipCodes: ["00934", "00957", "00960", "00916", "00959", "00956", "00961"]
 localPaths: ["Bayamón County / ZIP 00961 sector", "Bayamón County / elevation 59 ft band", "Bayamón County / ZIP 00959 sector", "Bayamón County / ZIP 00934 sector", "Bayamón County / ZIP 00916 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 364535
 ---
 
 **Engineering Notice for Bayamón:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Bayamón County.

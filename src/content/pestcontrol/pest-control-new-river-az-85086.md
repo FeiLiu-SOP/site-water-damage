@@ -11,6 +11,7 @@ lng: -112.0900
 zipSample: ["85087", "85086"]
 zipCodes: ["85086", "85087"]
 localPaths: ["Maricopa County / elevation 2129 ft band", "Maricopa County / coords 33.8800, -112.0900", "Maricopa County / ZIP 85086 sector", "Maricopa County / primary ZIP 85086", "Maricopa County / ZIP 85087 sector"]
+zillowHomeValueUsd: 624749
 ---
 
 **Engineering Notice for New River:** Structural loading calculated based on 2129 ft terrain assessment. Regional dispatch grid: Maricopa County.

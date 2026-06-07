@@ -11,6 +11,7 @@ lng: -76.8900
 zipSample: ["20770", "20768"]
 zipCodes: ["20768", "20770"]
 localPaths: ["Prince George's County / elevation 167 ft band", "Prince George's County / ZIP 20770 sector", "Prince George's County / primary ZIP 20770", "Prince George's County / ZIP 20768 sector", "Prince George's County / coords 39.0000, -76.8900"]
+zillowHomeValueUsd: 278924
 ---
 
 **Engineering Notice for Greenbelt:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Prince George's County.

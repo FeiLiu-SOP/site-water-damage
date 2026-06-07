@@ -11,6 +11,7 @@ lng: -87.9000
 zipSample: ["53154"]
 zipCodes: ["53154"]
 localPaths: ["Milwaukee County / ZIP 53154 sector", "Milwaukee County / coords 42.8800, -87.9000", "Milwaukee County / elevation 676 ft band", "Milwaukee County / primary ZIP 53154"]
+zillowHomeValueUsd: 407593
 ---
 
 **Engineering Notice for Oak Creek:** Structural loading calculated based on 676 ft terrain assessment. Regional dispatch grid: Milwaukee County.

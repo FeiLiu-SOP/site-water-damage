@@ -12,6 +12,7 @@ lng: -86.7000
 zipSample: ["37034"]
 zipCodes: ["37034"]
 localPaths: ["Marshall County / primary ZIP 37034", "Marshall County / elevation 696 ft band", "Marshall County / coords 35.6300, -86.7000", "Marshall County / ZIP 37034 sector"]
+zillowHomeValueUsd: 391664
 ---
 
 **Engineering Notice for Chapel Hill:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Grid: Marshall County.

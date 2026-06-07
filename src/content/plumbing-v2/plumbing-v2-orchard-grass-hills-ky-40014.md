@@ -12,6 +12,7 @@ lng: -85.5200
 zipSample: ["40014"]
 zipCodes: ["40014"]
 localPaths: ["Oldham County / coords 38.3200, -85.5200", "Oldham County / primary ZIP 40014", "Oldham County / elevation 696 ft band", "Oldham County / ZIP 40014 sector"]
+zillowHomeValueUsd: 464426
 ---
 
 **Engineering Notice for Orchard Grass Hills:** System optimized for 145 mg/L hard water scaling factors in Orchard Grass Hills. Regional dispatch grid: Oldham County.

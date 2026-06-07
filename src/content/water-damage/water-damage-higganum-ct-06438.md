@@ -12,6 +12,7 @@ lng: -72.5600
 zipSample: ["06438", "06441"]
 zipCodes: ["06441", "06438"]
 localPaths: ["Lower Connecticut River Valley County / ZIP 06441 sector", "Lower Connecticut River Valley County / ZIP 06438 sector", "Lower Connecticut River Valley County / primary ZIP 06438", "Lower Connecticut River Valley County / elevation 144 ft band", "Lower Connecticut River Valley County / coords 41.4900, -72.5600"]
+zillowHomeValueUsd: 458336
 ---
 
 **Engineering Notice for Higganum:** structural drying capacity optimized for 144ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lower Connecticut River Valley County. Relative Humidity Threshold: 81%. Sensor sync: Active.

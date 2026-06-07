@@ -12,6 +12,7 @@ lng: -84.9300
 zipSample: ["47353"]
 zipCodes: ["47353"]
 localPaths: ["Union County / elevation 1017 ft band", "Union County / primary ZIP 47353", "Union County / ZIP 47353 sector", "Union County / coords 39.6300, -84.9300"]
+zillowHomeValueUsd: 189816
 ---
 
 **Engineering Notice for Liberty:** System optimized for 147 mg/L hard water scaling factors in Liberty. Regional dispatch grid: Union County.

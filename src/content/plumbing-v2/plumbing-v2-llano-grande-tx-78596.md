@@ -12,6 +12,7 @@ lng: -97.9700
 zipSample: ["78596"]
 zipCodes: ["78596"]
 localPaths: ["Hidalgo County / ZIP 78596 sector", "Hidalgo County / elevation 92 ft band", "Hidalgo County / primary ZIP 78596", "Hidalgo County / coords 26.1300, -97.9700"]
+zillowHomeValueUsd: 170118
 ---
 
 **Engineering Notice for Llano Grande:** System optimized for 125 mg/L hard water scaling factors in Llano Grande. Regional dispatch grid: Hidalgo County.

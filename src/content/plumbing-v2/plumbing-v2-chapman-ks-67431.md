@@ -12,6 +12,7 @@ lng: -97.0200
 zipSample: ["67431"]
 zipCodes: ["67431"]
 localPaths: ["Dickinson County / elevation 1135 ft band", "Dickinson County / coords 38.9700, -97.0200", "Dickinson County / primary ZIP 67431", "Dickinson County / ZIP 67431 sector"]
+zillowHomeValueUsd: 242896
 ---
 
 **Engineering Notice for Chapman:** System optimized for 162 mg/L hard water scaling factors in Chapman. Regional dispatch grid: Dickinson County.

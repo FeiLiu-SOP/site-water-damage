@@ -12,6 +12,7 @@ lng: -73.5600
 zipSample: ["12962", "12901"]
 zipCodes: ["12901", "12962"]
 localPaths: ["Clinton County / ZIP 12901 sector", "Clinton County / coords 44.6900, -73.5600", "Clinton County / primary ZIP 12901", "Clinton County / elevation 335 ft band", "Clinton County / ZIP 12962 sector"]
+zillowHomeValueUsd: 243769
 ---
 
 **Engineering Notice for Morrisonville:** Panel Replacement was validated under stress factor 1.10; target tolerance set near 107 mph. Grid anchor: Clinton County.

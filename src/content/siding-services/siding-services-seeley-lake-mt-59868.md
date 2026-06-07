@@ -12,6 +12,7 @@ lng: -113.4500
 zipSample: ["59868"]
 zipCodes: ["59868"]
 localPaths: ["Missoula County / primary ZIP 59868", "Missoula County / elevation 4137 ft band", "Missoula County / ZIP 59868 sector", "Missoula County / coords 47.1600, -113.4500"]
+zillowHomeValueUsd: 571570
 ---
 
 **Engineering Notice for Seeley Lake:** Envelope check: Exterior Envelope assigned to wind-load band C with stress factor 1.07. Regional dispatch grid: Missoula County.

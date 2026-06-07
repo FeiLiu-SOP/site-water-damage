@@ -12,6 +12,7 @@ lng: -75.5300
 zipSample: ["18433"]
 zipCodes: ["18433"]
 localPaths: ["Lackawanna County / coords 41.5400, -75.5300", "Lackawanna County / primary ZIP 18433", "Lackawanna County / elevation 997 ft band", "Lackawanna County / ZIP 18433 sector"]
+zillowHomeValueUsd: 217658
 ---
 
 **Engineering Notice for Mayfield:** System optimized for 152 mg/L hard water scaling factors in Mayfield. Regional dispatch grid: Lackawanna County.

@@ -12,6 +12,7 @@ lng: -78.1600
 zipSample: ["14744"]
 zipCodes: ["14744"]
 localPaths: ["Allegany County / elevation 1368 ft band", "Allegany County / primary ZIP 14744", "Allegany County / ZIP 14744 sector", "Allegany County / coords 42.4300, -78.1600"]
+zillowHomeValueUsd: 198580
 ---
 
 **Engineering Notice for Houghton:** Site context locked to Allegany County. Elevation: 1368 ft AMSL. Coordinates: 42.4300, -78.1600. Surface Sheathing integrity verification recorded.

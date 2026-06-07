@@ -12,6 +12,8 @@ lng: -102.8800
 zipSample: ["79009"]
 zipCodes: ["79009"]
 localPaths: ["Parmer County / coords 34.5200, -102.8800", "Parmer County / elevation 4075 ft band", "Parmer County / ZIP 79009 sector", "Parmer County / primary ZIP 79009"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 295917
 ---
 
 **Engineering Notice for Bovina:** Weather Barrier Wrap was validated under stress factor 1.24; target tolerance set near 145 mph. Grid anchor: Parmer County.

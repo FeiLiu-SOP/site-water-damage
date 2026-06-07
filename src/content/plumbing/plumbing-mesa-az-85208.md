@@ -12,6 +12,7 @@ lng: -111.7200
 zipSample: ["85213", "85274", "85212", "85206", "85216"]
 zipCodes: ["85274", "85206", "85213", "85208", "85215", "85202", "85211", "85214", "85203", "85201", "85277", "85216"]
 localPaths: ["Maricopa County / ZIP 85212 sector", "Maricopa County / ZIP 85216 sector", "Maricopa County / coords 33.4000, -111.7200", "Maricopa County / elevation 1319 ft band", "Maricopa County / ZIP 85213 sector"]
+zillowHomeValueUsd: 379593
 ---
 
 **Engineering Notice for Mesa:** Structural loading calculated based on 1319 ft terrain assessment. Regional dispatch grid: Maricopa County.

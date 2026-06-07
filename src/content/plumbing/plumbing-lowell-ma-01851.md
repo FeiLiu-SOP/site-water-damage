@@ -12,6 +12,7 @@ lng: -71.3200
 zipSample: ["01854", "01852", "01853", "01850", "01851"]
 zipCodes: ["01854", "01850", "01853", "01851", "01852"]
 localPaths: ["Middlesex County / ZIP 01853 sector", "Middlesex County / ZIP 01850 sector", "Middlesex County / ZIP 01852 sector", "Middlesex County / primary ZIP 01851", "Middlesex County / ZIP 01851 sector"]
+zillowHomeValueUsd: 518159
 ---
 
 **Engineering Notice for Lowell:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Middlesex County.

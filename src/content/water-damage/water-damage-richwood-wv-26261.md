@@ -12,6 +12,7 @@ lng: -80.5400
 zipSample: ["26261"]
 zipCodes: ["26261"]
 localPaths: ["Nicholas County / coords 38.2200, -80.5400", "Nicholas County / elevation 2182 ft band", "Nicholas County / ZIP 26261 sector", "Nicholas County / primary ZIP 26261"]
+zillowHomeValueUsd: 73167
 ---
 
 **Engineering Notice for Richwood:** structural drying capacity optimized for 2182ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Nicholas County. Relative Humidity Threshold: 76%. Sensor sync: Active.

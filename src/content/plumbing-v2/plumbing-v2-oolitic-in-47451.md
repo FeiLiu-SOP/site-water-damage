@@ -12,6 +12,7 @@ lng: -86.5300
 zipSample: ["47451"]
 zipCodes: ["47451"]
 localPaths: ["Lawrence County / ZIP 47451 sector", "Lawrence County / primary ZIP 47451", "Lawrence County / coords 38.8900, -86.5300", "Lawrence County / elevation 568 ft band"]
+zillowHomeValueUsd: 173720
 ---
 
 **Engineering Notice for Oolitic:** System optimized for 148 mg/L hard water scaling factors in Oolitic. Regional dispatch grid: Lawrence County.

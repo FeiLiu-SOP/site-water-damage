@@ -12,6 +12,7 @@ lng: -87.7900
 zipSample: ["36748"]
 zipCodes: ["36748"]
 localPaths: ["Marengo County / elevation 154 ft band", "Marengo County / primary ZIP 36748", "Marengo County / coords 32.3000, -87.7900", "Marengo County / ZIP 36748 sector"]
+zillowHomeValueUsd: 109818
 ---
 
 **Engineering Notice for Linden:** System optimized for 145 mg/L hard water scaling factors in Linden. Regional dispatch grid: Marengo County.

@@ -12,6 +12,7 @@ lng: -81.1500
 zipSample: ["44021"]
 zipCodes: ["44021"]
 localPaths: ["Geauga County / coords 41.4700, -81.1500", "Geauga County / elevation 1322 ft band", "Geauga County / primary ZIP 44021", "Geauga County / ZIP 44021 sector"]
+zillowHomeValueUsd: 288430
 ---
 
 **Engineering Notice for Burton:** structural drying capacity optimized for 1322ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Geauga County. Relative Humidity Threshold: 71%. Sensor sync: Active.

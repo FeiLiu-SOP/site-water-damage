@@ -12,6 +12,7 @@ lng: -102.3600
 zipSample: ["79758"]
 zipCodes: ["79758"]
 localPaths: ["Ector County / primary ZIP 79758", "Ector County / elevation 2940 ft band", "Ector County / coords 32.0100, -102.3600", "Ector County / ZIP 79758 sector"]
+zillowHomeValueUsd: 387049
 ---
 
 **Engineering Notice for Gardendale:** Structural integrity verification: Cladding Service calibrated for 145 mph localized wind load factor. Coordinates: 32.0100, -102.3600. Regional dispatch grid: Ector County.

@@ -11,6 +11,7 @@ lng: -80.8300
 zipSample: ["28287", "28201", "28282", "28274", "28212"]
 zipCodes: ["28242", "28221", "28212", "28297", "28235", "28255", "28278", "28224", "28281", "28234", "28273", "28228"]
 localPaths: ["Mecklenburg County / ZIP 28287 sector", "Mecklenburg County / ZIP 28282 sector", "Mecklenburg County / ZIP 28274 sector", "Mecklenburg County / ZIP 28201 sector", "Mecklenburg County / elevation 692 ft band"]
+zillowHomeValueUsd: 359451
 ---
 
 **Engineering Notice for Charlotte:** Structural loading calculated based on 692 ft terrain assessment. Regional dispatch grid: Mecklenburg County.

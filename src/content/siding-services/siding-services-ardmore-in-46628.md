@@ -12,6 +12,7 @@ lng: -86.3200
 zipSample: ["46628"]
 zipCodes: ["46628"]
 localPaths: ["St. Joseph County / coords 41.6900, -86.3200", "St. Joseph County / ZIP 46628 sector", "St. Joseph County / elevation 748 ft band", "St. Joseph County / primary ZIP 46628"]
+zillowHomeValueUsd: 172357
 ---
 
 **Engineering Notice for Ardmore:** Structural integrity verification: Exterior Cladding calibrated for 102 mph localized wind load factor. Elevation: 748 ft AMSL. Coordinates: 41.6900, -86.3200. Regional dispatch grid: St. Joseph County.

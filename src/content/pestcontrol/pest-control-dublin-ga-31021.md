@@ -11,6 +11,7 @@ lng: -82.9300
 zipSample: ["31021", "31040"]
 zipCodes: ["31040", "31021"]
 localPaths: ["Laurens County / ZIP 31040 sector", "Laurens County / elevation 279 ft band", "Laurens County / ZIP 31021 sector", "Laurens County / primary ZIP 31021", "Laurens County / coords 32.5400, -82.9300"]
+zillowHomeValueUsd: 191981
 ---
 
 **Engineering Notice for Dublin:** Structural loading calculated based on 279 ft terrain assessment. Regional dispatch grid: Laurens County.

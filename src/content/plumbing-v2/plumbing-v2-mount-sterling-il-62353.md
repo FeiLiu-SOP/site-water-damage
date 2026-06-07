@@ -12,6 +12,7 @@ lng: -90.7600
 zipSample: ["62353"]
 zipCodes: ["62353"]
 localPaths: ["Brown County / primary ZIP 62353", "Brown County / elevation 745 ft band", "Brown County / coords 39.9900, -90.7600", "Brown County / ZIP 62353 sector"]
+zillowHomeValueUsd: 152758
 ---
 
 **Engineering Notice for Mount Sterling:** System optimized for 165 mg/L hard water scaling factors in Mount Sterling. Regional dispatch grid: Brown County.

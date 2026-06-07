@@ -12,6 +12,7 @@ lng: -96.9800
 zipSample: ["75065", "75067", "75029", "75056", "75077"]
 zipCodes: ["75077", "75029", "75067", "75065", "75057", "75056"]
 localPaths: ["Denton County / coords 33.0500, -96.9800", "Denton County / primary ZIP 75067", "Denton County / elevation 486 ft band", "Denton County / ZIP 75029 sector", "Denton County / ZIP 75065 sector"]
+zillowHomeValueUsd: 360228
 ---
 
 **Engineering Notice for Lewisville:** Structural loading calculated based on 486 ft terrain assessment. Regional dispatch grid: Denton County.

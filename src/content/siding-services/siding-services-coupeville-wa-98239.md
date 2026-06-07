@@ -12,6 +12,7 @@ lng: -122.6800
 zipSample: ["98239"]
 zipCodes: ["98239"]
 localPaths: ["Island County / primary ZIP 98239", "Island County / ZIP 98239 sector", "Island County / coords 48.2200, -122.6800", "Island County / elevation 92 ft band"]
+zillowHomeValueUsd: 634338
 ---
 
 **Engineering Notice for Coupeville:** Site context locked to Island County. Elevation: 92 ft AMSL. Exterior Cladding integrity verification recorded.

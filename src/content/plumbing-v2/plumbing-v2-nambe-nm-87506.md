@@ -12,6 +12,7 @@ lng: -105.9700
 zipSample: ["87506"]
 zipCodes: ["87506"]
 localPaths: ["Santa Fe County / coords 35.9000, -105.9700", "Santa Fe County / primary ZIP 87506", "Santa Fe County / elevation 6122 ft band", "Santa Fe County / ZIP 87506 sector"]
+zillowHomeValueUsd: 1093173
 ---
 
 **Engineering Notice for Nambe:** System optimized for 127 mg/L hard water scaling factors in Nambe. Regional dispatch grid: Santa Fe County.

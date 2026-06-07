@@ -12,6 +12,7 @@ lng: -85.4900
 zipSample: ["40056"]
 zipCodes: ["40056"]
 localPaths: ["Oldham County / primary ZIP 40056", "Oldham County / elevation 797 ft band", "Oldham County / ZIP 40056 sector", "Oldham County / coords 38.3100, -85.4900"]
+zillowHomeValueUsd: 360463
 ---
 
 **Engineering Notice for Pewee Valley:** System optimized for 154 mg/L hard water scaling factors in Pewee Valley. Regional dispatch grid: Oldham County.

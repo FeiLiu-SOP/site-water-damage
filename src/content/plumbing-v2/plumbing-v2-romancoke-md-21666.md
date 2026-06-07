@@ -12,6 +12,7 @@ lng: -76.3500
 zipSample: ["21666"]
 zipCodes: ["21666"]
 localPaths: ["Queen Anne's County / ZIP 21666 sector", "Queen Anne's County / primary ZIP 21666", "Queen Anne's County / elevation 52 ft band", "Queen Anne's County / coords 38.8900, -76.3500"]
+zillowHomeValueUsd: 541636
 ---
 
 **Engineering Notice for Romancoke:** System optimized for 137 mg/L hard water scaling factors in Romancoke. Regional dispatch grid: Queen Anne's County.

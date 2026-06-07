@@ -12,6 +12,7 @@ lng: -114.2100
 zipSample: ["85344"]
 zipCodes: ["85344"]
 localPaths: ["La Paz County / elevation 558 ft band", "La Paz County / coords 34.2000, -114.2100", "La Paz County / primary ZIP 85344", "La Paz County / ZIP 85344 sector"]
+zillowHomeValueUsd: 349752
 ---
 
 **Engineering Notice for Cienega Springs:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Elevation: 558 ft AMSL. Grid: La Paz County.

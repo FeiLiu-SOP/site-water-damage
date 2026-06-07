@@ -12,6 +12,7 @@ lng: -97.1500
 zipSample: ["76226"]
 zipCodes: ["76226"]
 localPaths: ["Denton County / coords 33.0800, -97.1500", "Denton County / elevation 696 ft band", "Denton County / ZIP 76226 sector", "Denton County / primary ZIP 76226"]
+zillowHomeValueUsd: 575135
 ---
 
 **Engineering Notice for Bartonville:** System optimized for 166 mg/L hard water scaling factors in Bartonville. Regional dispatch grid: Denton County.

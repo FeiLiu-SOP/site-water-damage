@@ -12,6 +12,7 @@ lng: -83.5100
 zipSample: ["48438"]
 zipCodes: ["48438"]
 localPaths: ["Genesee County / elevation 873 ft band", "Genesee County / ZIP 48438 sector", "Genesee County / primary ZIP 48438", "Genesee County / coords 42.9100, -83.5100"]
+zillowHomeValueUsd: 366224
 ---
 
 **Engineering Notice for Goodrich:** Envelope check: Exterior Envelope assigned to wind-load band A with stress factor 0.97. Regional dispatch grid: Genesee County.

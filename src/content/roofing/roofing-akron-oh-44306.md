@@ -11,6 +11,7 @@ lng: -81.5200
 zipSample: ["44396", "44313", "44398", "44305", "44311"]
 zipCodes: ["44311", "44306", "44328", "44312", "44305", "44307", "44303", "44317", "44325", "44313", "44319", "44314"]
 localPaths: ["Summit County / ZIP 44313 sector", "Summit County / ZIP 44396 sector", "Summit County / ZIP 44305 sector", "Summit County / ZIP 44398 sector", "Summit County / primary ZIP 44306"]
+zillowHomeValueUsd: 89607
 ---
 
 **Engineering Notice for Akron:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Summit County.

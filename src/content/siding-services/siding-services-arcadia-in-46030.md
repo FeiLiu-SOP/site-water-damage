@@ -12,6 +12,7 @@ lng: -86.0200
 zipSample: ["46030"]
 zipCodes: ["46030"]
 localPaths: ["Hamilton County / coords 40.1700, -86.0200", "Hamilton County / ZIP 46030 sector", "Hamilton County / elevation 863 ft band", "Hamilton County / primary ZIP 46030"]
+zillowHomeValueUsd: 305175
 ---
 
 **Engineering Notice for Arcadia:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Grid: Hamilton County.

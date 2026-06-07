@@ -12,6 +12,7 @@ lng: -97.9900
 zipSample: ["57366"]
 zipCodes: ["57366"]
 localPaths: ["Hutchinson County / coords 43.3900, -97.9900", "Hutchinson County / elevation 1401 ft band", "Hutchinson County / primary ZIP 57366", "Hutchinson County / ZIP 57366 sector"]
+zillowHomeValueUsd: 232839
 ---
 
 **Engineering Notice for Parkston:** System optimized for 180 mg/L hard water scaling factors in Parkston. Regional dispatch grid: Hutchinson County.

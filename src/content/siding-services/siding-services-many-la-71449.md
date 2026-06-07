@@ -12,6 +12,7 @@ lng: -93.4800
 zipSample: ["71449"]
 zipCodes: ["71449"]
 localPaths: ["Sabine Parish / ZIP 71449 sector", "Sabine Parish / elevation 272 ft band", "Sabine Parish / coords 31.5700, -93.4800", "Sabine Parish / primary ZIP 71449"]
+zillowHomeValueUsd: 222818
 ---
 
 **Engineering Notice for Many:** Envelope check: Wall Restoration assigned to wind-load band A with stress factor 0.91. Regional dispatch grid: Sabine Parish.

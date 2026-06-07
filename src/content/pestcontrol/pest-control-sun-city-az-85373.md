@@ -11,6 +11,7 @@ lng: -112.2800
 zipSample: ["85373", "85351", "85372"]
 zipCodes: ["85372", "85351", "85373"]
 localPaths: ["Maricopa County / ZIP 85351 sector", "Maricopa County / coords 33.6200, -112.2800", "Maricopa County / ZIP 85373 sector", "Maricopa County / primary ZIP 85373", "Maricopa County / ZIP 85372 sector"]
+zillowHomeValueUsd: 366512
 ---
 
 **Engineering Notice for Sun City:** Structural loading calculated based on 1168 ft terrain assessment. Regional dispatch grid: Maricopa County.

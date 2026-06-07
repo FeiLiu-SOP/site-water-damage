@@ -12,6 +12,7 @@ lng: -77.4200
 zipSample: ["27874"]
 zipCodes: ["27874"]
 localPaths: ["Halifax County / coords 36.1300, -77.4200", "Halifax County / ZIP 27874 sector", "Halifax County / primary ZIP 27874", "Halifax County / elevation 108 ft band"]
+zillowHomeValueUsd: 86091
 ---
 
 **Engineering Notice for Scotland Neck:** structural drying capacity optimized for 108ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Halifax County. Relative Humidity Threshold: 80%. Sensor sync: Active.

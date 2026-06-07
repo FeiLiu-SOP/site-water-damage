@@ -12,6 +12,7 @@ lng: -82.4300
 zipSample: ["43107"]
 zipCodes: ["43107"]
 localPaths: ["Fairfield County / coords 39.7100, -82.4300", "Fairfield County / elevation 794 ft band", "Fairfield County / primary ZIP 43107", "Fairfield County / ZIP 43107 sector"]
+zillowHomeValueUsd: 283878
 ---
 
 **Engineering Notice for Bremen:** structural drying capacity optimized for 794ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fairfield County. Relative Humidity Threshold: 71%. Sensor sync: Active.

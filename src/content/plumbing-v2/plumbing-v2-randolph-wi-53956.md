@@ -12,6 +12,7 @@ lng: -89.0000
 zipSample: ["53956", "53957"]
 zipCodes: ["53957", "53956"]
 localPaths: ["Dodge County / elevation 965 ft band", "Dodge County / primary ZIP 53956", "Dodge County / ZIP 53957 sector", "Dodge County / coords 43.5400, -89.0000", "Dodge County / ZIP 53956 sector"]
+zillowHomeValueUsd: 292907
 ---
 
 **Engineering Notice for Randolph:** System optimized for 127 mg/L hard water scaling factors in Randolph. Regional dispatch grid: Dodge County.

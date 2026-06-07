@@ -12,6 +12,7 @@ lng: -73.9200
 zipSample: ["12601", "12603", "12602"]
 zipCodes: ["12601", "12603", "12602"]
 localPaths: ["Dutchess County / ZIP 12601 sector", "Dutchess County / elevation 226 ft band", "Dutchess County / coords 41.7000, -73.9200", "Dutchess County / ZIP 12603 sector", "Dutchess County / ZIP 12602 sector"]
+zillowHomeValueUsd: 384469
 ---
 
 **Engineering Notice for Poughkeepsie:** Structural loading calculated based on 226 ft terrain assessment. Regional dispatch grid: Dutchess County.

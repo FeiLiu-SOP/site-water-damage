@@ -11,6 +11,7 @@ lng: -120.9900
 zipSample: ["95672", "95682"]
 zipCodes: ["95672", "95682"]
 localPaths: ["El Dorado County / elevation 1217 ft band", "El Dorado County / coords 38.6700, -120.9900", "El Dorado County / ZIP 95682 sector", "El Dorado County / ZIP 95672 sector", "El Dorado County / primary ZIP 95672"]
+zillowHomeValueUsd: 827435
 ---
 
 **Engineering Notice for Cameron Park:** Structural loading calculated based on 1217 ft terrain assessment. Regional dispatch grid: El Dorado County.

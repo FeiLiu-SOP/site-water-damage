@@ -12,6 +12,7 @@ lng: -85.1400
 zipSample: ["49094"]
 zipCodes: ["49094"]
 localPaths: ["Branch County / ZIP 49094 sector", "Branch County / primary ZIP 49094", "Branch County / elevation 906 ft band", "Branch County / coords 42.0700, -85.1400"]
+zillowHomeValueUsd: 172173
 ---
 
 **Engineering Notice for Union City:** System optimized for 153 mg/L hard water scaling factors in Union City. Regional dispatch grid: Branch County.

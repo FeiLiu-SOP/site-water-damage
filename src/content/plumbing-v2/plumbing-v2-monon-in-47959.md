@@ -12,6 +12,7 @@ lng: -86.8800
 zipSample: ["47959"]
 zipCodes: ["47959"]
 localPaths: ["White County / coords 40.8600, -86.8800", "White County / primary ZIP 47959", "White County / elevation 682 ft band", "White County / ZIP 47959 sector"]
+zillowHomeValueUsd: 179820
 ---
 
 **Engineering Notice for Monon:** System optimized for 157 mg/L hard water scaling factors in Monon. Regional dispatch grid: White County.

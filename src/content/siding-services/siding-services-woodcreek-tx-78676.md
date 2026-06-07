@@ -12,6 +12,7 @@ lng: -98.1100
 zipSample: ["78676"]
 zipCodes: ["78676"]
 localPaths: ["Hays County / coords 30.0300, -98.1100", "Hays County / elevation 984 ft band", "Hays County / primary ZIP 78676", "Hays County / ZIP 78676 sector"]
+zillowHomeValueUsd: 549456
 ---
 
 **Engineering Notice for Woodcreek:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 1.16. Elevation: 984 ft AMSL. Regional dispatch grid: Hays County.

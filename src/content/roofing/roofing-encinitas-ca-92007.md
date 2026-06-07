@@ -11,6 +11,7 @@ lng: -117.2600
 zipSample: ["92075", "92007", "92024"]
 zipCodes: ["92075", "92024", "92007"]
 localPaths: ["San Diego County / elevation 197 ft band", "San Diego County / ZIP 92007 sector", "San Diego County / primary ZIP 92007", "San Diego County / ZIP 92024 sector", "San Diego County / coords 33.0500, -117.2600"]
+zillowHomeValueUsd: 2082605
 ---
 
 **Engineering Notice for Encinitas:** Structural loading calculated based on 197 ft terrain assessment. Regional dispatch grid: San Diego County.

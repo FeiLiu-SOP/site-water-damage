@@ -12,6 +12,7 @@ lng: -93.1000
 zipSample: ["50170"]
 zipCodes: ["50170"]
 localPaths: ["Jasper County / ZIP 50170 sector", "Jasper County / elevation 915 ft band", "Jasper County / primary ZIP 50170", "Jasper County / coords 41.5200, -93.1000"]
+zillowHomeValueUsd: 255427
 ---
 
 **Engineering Notice for Monroe:** Envelope check: Panel Replacement assigned to wind-load band B with stress factor 0.86. Elevation: 915 ft AMSL. Regional dispatch grid: Jasper County.

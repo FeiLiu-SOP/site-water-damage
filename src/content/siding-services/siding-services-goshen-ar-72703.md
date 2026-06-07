@@ -12,6 +12,7 @@ lng: -94.0000
 zipSample: ["72727", "72735", "72703"]
 zipCodes: ["72727", "72703", "72735"]
 localPaths: ["Washington County / coords 36.1000, -94.0000", "Washington County / ZIP 72735 sector", "Washington County / primary ZIP 72703", "Washington County / ZIP 72703 sector", "Washington County / elevation 1171 ft band"]
+zillowHomeValueUsd: 406309
 ---
 
 **Engineering Notice for Goshen:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 1.03. Regional dispatch grid: Washington County.

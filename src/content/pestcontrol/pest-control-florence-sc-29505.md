@@ -11,6 +11,7 @@ lng: -79.7900
 zipSample: ["29506", "29503", "29505", "29501", "29504"]
 zipCodes: ["29501", "29505", "29502", "29506", "29504", "29503"]
 localPaths: ["Florence County / primary ZIP 29505", "Florence County / ZIP 29504 sector", "Florence County / elevation 125 ft band", "Florence County / ZIP 29501 sector", "Florence County / ZIP 29506 sector"]
+zillowHomeValueUsd: 230694
 ---
 
 **Engineering Notice for Florence:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Florence County.

@@ -12,6 +12,7 @@ lng: -122.9000
 zipSample: ["98565", "98532"]
 zipCodes: ["98532", "98565"]
 localPaths: ["Lewis County / primary ZIP 98565", "Lewis County / coords 46.5800, -122.9000", "Lewis County / ZIP 98532 sector", "Lewis County / ZIP 98565 sector", "Lewis County / elevation 312 ft band"]
+zillowHomeValueUsd: 420709
 ---
 
 **Engineering Notice for Napavine:** Envelope check: Panel Replacement assigned to wind-load band B with stress factor 1.10. Elevation: 312 ft AMSL. Regional dispatch grid: Lewis County.

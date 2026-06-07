@@ -11,6 +11,7 @@ lng: -73.7100
 zipSample: ["12047"]
 zipCodes: ["12047"]
 localPaths: ["Albany County / ZIP 12047 sector", "Albany County / elevation 236 ft band", "Albany County / primary ZIP 12047", "Albany County / coords 42.7700, -73.7100"]
+zillowHomeValueUsd: 330530
 ---
 
 **Engineering Notice for Cohoes:** Structural loading calculated based on 236 ft terrain assessment. Regional dispatch grid: Albany County.

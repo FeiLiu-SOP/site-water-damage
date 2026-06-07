@@ -11,6 +11,7 @@ lng: -74.1500
 zipSample: ["07029"]
 zipCodes: ["07029"]
 localPaths: ["Hudson County / elevation 30 ft band", "Hudson County / primary ZIP 07029", "Hudson County / ZIP 07029 sector", "Hudson County / coords 40.7400, -74.1500"]
+zillowHomeValueUsd: 579726
 ---
 
 **Engineering Notice for Harrison:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Hudson County.

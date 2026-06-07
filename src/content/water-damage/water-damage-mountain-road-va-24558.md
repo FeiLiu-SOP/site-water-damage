@@ -12,6 +12,7 @@ lng: -78.9900
 zipSample: ["24558"]
 zipCodes: ["24558"]
 localPaths: ["Halifax County / ZIP 24558 sector", "Halifax County / elevation 548 ft band", "Halifax County / primary ZIP 24558", "Halifax County / coords 36.7600, -78.9900"]
+zillowHomeValueUsd: 172287
 ---
 
 **Engineering Notice for Mountain Road:** structural drying capacity optimized for 548ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Halifax County. Relative Humidity Threshold: 85%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -78.6300
 zipSample: ["14032"]
 zipCodes: ["14032"]
 localPaths: ["Erie County / elevation 663 ft band", "Erie County / primary ZIP 14032", "Erie County / coords 43.0100, -78.6300", "Erie County / ZIP 14032 sector"]
+zillowHomeValueUsd: 580218
 ---
 
 **Engineering Notice for Clarence Center:** Structural integrity verification: Vinyl Panels calibrated for 91 mph localized wind load factor. Regional dispatch grid: Erie County.

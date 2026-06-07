@@ -11,6 +11,7 @@ lng: -122.1600
 zipSample: ["98270", "98271"]
 zipCodes: ["98271", "98270"]
 localPaths: ["Snohomish County / ZIP 98270 sector", "Snohomish County / primary ZIP 98271", "Snohomish County / elevation 69 ft band", "Snohomish County / ZIP 98271 sector", "Snohomish County / coords 48.0800, -122.1600"]
+zillowHomeValueUsd: 597304
 ---
 
 **Engineering Notice for Marysville:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Snohomish County.

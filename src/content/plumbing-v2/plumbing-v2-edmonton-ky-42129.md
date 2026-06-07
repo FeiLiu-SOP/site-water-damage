@@ -12,6 +12,7 @@ lng: -85.6200
 zipSample: ["42129"]
 zipCodes: ["42129"]
 localPaths: ["Metcalfe County / elevation 791 ft band", "Metcalfe County / ZIP 42129 sector", "Metcalfe County / primary ZIP 42129", "Metcalfe County / coords 36.9900, -85.6200"]
+zillowHomeValueUsd: 166448
 ---
 
 **Engineering Notice for Edmonton:** System optimized for 170 mg/L hard water scaling factors in Edmonton. Regional dispatch grid: Metcalfe County.

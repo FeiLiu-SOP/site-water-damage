@@ -11,6 +11,7 @@ lng: -114.1300
 zipSample: ["89034", "89024", "89027"]
 zipCodes: ["89027", "89024", "89034"]
 localPaths: ["Clark County / ZIP 89027 sector", "Clark County / elevation 1755 ft band", "Clark County / ZIP 89024 sector", "Clark County / ZIP 89034 sector", "Clark County / coords 36.8000, -114.1300"]
+zillowHomeValueUsd: 456026
 ---
 
 **Engineering Notice for Mesquite:** Structural loading calculated based on 1755 ft terrain assessment. Regional dispatch grid: Clark County.

@@ -12,6 +12,7 @@ lng: -82.1000
 zipSample: ["45701"]
 zipCodes: ["45701"]
 localPaths: ["Athens County / primary ZIP 45701", "Athens County / ZIP 45701 sector", "Athens County / coords 39.3300, -82.1000", "Athens County / elevation 715 ft band"]
+zillowHomeValueUsd: 239864
 ---
 
 **Engineering Notice for Athens:** Structural loading calculated based on 715 ft terrain assessment. Regional dispatch grid: Athens County.

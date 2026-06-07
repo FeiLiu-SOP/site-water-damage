@@ -12,6 +12,7 @@ lng: -114.3300
 zipSample: ["83354", "83353"]
 zipCodes: ["83354", "83353"]
 localPaths: ["Blaine County / ZIP 83354 sector", "Blaine County / ZIP 83353 sector", "Blaine County / primary ZIP 83354", "Blaine County / elevation 6073 ft band", "Blaine County / coords 43.6800, -114.3300"]
+zillowHomeValueUsd: 1236463
 ---
 
 **Engineering Notice for Sun Valley:** Cladding verification uses 97 mph routing baseline; lateral pressure note: 12.8 psf. Elevation: 6073 ft AMSL. Grid: Blaine County.

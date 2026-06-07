@@ -12,6 +12,7 @@ lng: -81.9500
 zipSample: ["29860", "29841", "29861"]
 zipCodes: ["29841", "29861", "29860"]
 localPaths: ["Aiken County / ZIP 29860 sector", "Aiken County / coords 33.5200, -81.9500", "Aiken County / primary ZIP 29841", "Aiken County / elevation 476 ft band", "Aiken County / ZIP 29841 sector"]
+zillowHomeValueUsd: 224662
 ---
 
 **Engineering Notice for North Augusta:** Structural loading calculated based on 476 ft terrain assessment. Regional dispatch grid: Aiken County.

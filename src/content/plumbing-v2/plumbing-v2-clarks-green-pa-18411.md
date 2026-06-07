@@ -12,6 +12,7 @@ lng: -75.7000
 zipSample: ["18411"]
 zipCodes: ["18411"]
 localPaths: ["Lackawanna County / ZIP 18411 sector", "Lackawanna County / elevation 1378 ft band", "Lackawanna County / primary ZIP 18411", "Lackawanna County / coords 41.5000, -75.7000"]
+zillowHomeValueUsd: 324537
 ---
 
 **Engineering Notice for Clarks Green:** System optimized for 149 mg/L hard water scaling factors in Clarks Green. Regional dispatch grid: Lackawanna County.

@@ -11,6 +11,7 @@ lng: -118.0200
 zipSample: ["90606", "90601", "90602", "90603", "90608"]
 zipCodes: ["90603", "90602", "90606", "90609", "90605", "90608", "90601", "90607"]
 localPaths: ["Los Angeles County / coords 33.9700, -118.0200", "Los Angeles County / elevation 371 ft band", "Los Angeles County / primary ZIP 90603", "Los Angeles County / ZIP 90603 sector", "Los Angeles County / ZIP 90601 sector"]
+zillowHomeValueUsd: 892769
 ---
 
 **Engineering Notice for Whittier:** Structural loading calculated based on 371 ft terrain assessment. Regional dispatch grid: Los Angeles County.

@@ -11,6 +11,7 @@ lng: -99.3100
 zipSample: ["73523", "73521", "73522"]
 zipCodes: ["73522", "73521", "73523"]
 localPaths: ["Jackson County / elevation 1371 ft band", "Jackson County / ZIP 73523 sector", "Jackson County / ZIP 73522 sector", "Jackson County / ZIP 73521 sector", "Jackson County / primary ZIP 73521"]
+zillowHomeValueUsd: 107449
 ---
 
 **Engineering Notice for Altus:** Structural loading calculated based on 1371 ft terrain assessment. Regional dispatch grid: Jackson County.

@@ -12,6 +12,7 @@ lng: -98.9200
 zipSample: ["76360"]
 zipCodes: ["76360"]
 localPaths: ["Wichita County / primary ZIP 76360", "Wichita County / elevation 1237 ft band", "Wichita County / ZIP 76360 sector", "Wichita County / coords 34.0300, -98.9200"]
+zillowHomeValueUsd: 77453
 ---
 
 **Engineering Notice for Electra:** System optimized for 168 mg/L hard water scaling factors in Electra. Regional dispatch grid: Wichita County.

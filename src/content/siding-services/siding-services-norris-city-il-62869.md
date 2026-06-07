@@ -12,6 +12,7 @@ lng: -88.3300
 zipSample: ["62869"]
 zipCodes: ["62869"]
 localPaths: ["White County / coords 37.9800, -88.3300", "White County / elevation 427 ft band", "White County / primary ZIP 62869", "White County / ZIP 62869 sector"]
+zillowHomeValueUsd: 122435
 ---
 
 **Engineering Notice for Norris City:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 0.97. Regional dispatch grid: White County.

@@ -12,6 +12,7 @@ lng: -98.3600
 zipSample: ["73572"]
 zipCodes: ["73572"]
 localPaths: ["Cotton County / ZIP 73572 sector", "Cotton County / coords 34.3600, -98.3600", "Cotton County / elevation 1076 ft band", "Cotton County / primary ZIP 73572"]
+zillowHomeValueUsd: 109569
 ---
 
 **Engineering Notice for Walters:** System optimized for 149 mg/L hard water scaling factors in Walters. Regional dispatch grid: Cotton County.

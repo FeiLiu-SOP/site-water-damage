@@ -12,6 +12,7 @@ lng: -78.8800
 zipSample: ["15902", "15904"]
 zipCodes: ["15904", "15902"]
 localPaths: ["Cambria County / primary ZIP 15904", "Cambria County / coords 40.3100, -78.8800", "Cambria County / ZIP 15902 sector", "Cambria County / elevation 1739 ft band", "Cambria County / ZIP 15904 sector"]
+zillowHomeValueUsd: 142456
 ---
 
 **Engineering Notice for Oakland:** System optimized for 174 mg/L hard water scaling factors in Oakland. Regional dispatch grid: Cambria County.

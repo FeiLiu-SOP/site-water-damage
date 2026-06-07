@@ -11,6 +11,7 @@ lng: -100.9700
 zipSample: ["79065"]
 zipCodes: ["79065"]
 localPaths: ["Gray County / elevation 3241 ft band", "Gray County / coords 35.5500, -100.9700", "Gray County / primary ZIP 79065", "Gray County / ZIP 79065 sector"]
+zillowHomeValueUsd: 102772
 ---
 
 **Engineering Notice for Pampa:** Structural loading calculated based on 3241 ft terrain assessment. Regional dispatch grid: Gray County.

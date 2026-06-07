@@ -12,6 +12,7 @@ lng: -101.2200
 zipSample: ["73945"]
 zipCodes: ["73945"]
 localPaths: ["Texas County / elevation 2995 ft band", "Texas County / ZIP 73945 sector", "Texas County / primary ZIP 73945", "Texas County / coords 36.8600, -101.2200"]
+zillowHomeValueUsd: 159438
 ---
 
 **Engineering Notice for Hooker:** System optimized for 126 mg/L hard water scaling factors in Hooker. Regional dispatch grid: Texas County.

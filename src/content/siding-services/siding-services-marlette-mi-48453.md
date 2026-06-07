@@ -12,6 +12,7 @@ lng: -83.0800
 zipSample: ["48453"]
 zipCodes: ["48453"]
 localPaths: ["Sanilac County / elevation 837 ft band", "Sanilac County / primary ZIP 48453", "Sanilac County / coords 43.3300, -83.0800", "Sanilac County / ZIP 48453 sector"]
+zillowHomeValueUsd: 177970
 ---
 
 **Engineering Notice for Marlette:** Vinyl Panels was validated under stress factor 0.75; target tolerance set near 106 mph. Grid anchor: Sanilac County.

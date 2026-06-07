@@ -11,6 +11,7 @@ lng: -77.9800
 zipSample: ["25403", "25401", "25402", "25404"]
 zipCodes: ["25403", "25402", "25404", "25401"]
 localPaths: ["Berkeley County / ZIP 25402 sector", "Berkeley County / primary ZIP 25401", "Berkeley County / elevation 495 ft band", "Berkeley County / ZIP 25403 sector", "Berkeley County / ZIP 25404 sector"]
+zillowHomeValueUsd: 252598
 ---
 
 **Engineering Notice for Martinsburg:** Structural loading calculated based on 495 ft terrain assessment. Regional dispatch grid: Berkeley County.

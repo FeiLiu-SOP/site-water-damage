@@ -11,6 +11,7 @@ lng: -117.7900
 zipSample: ["92780", "92705", "92711"]
 zipCodes: ["92780", "92711", "92705"]
 localPaths: ["Orange County / elevation 249 ft band", "Orange County / coords 33.7600, -117.7900", "Orange County / ZIP 92705 sector", "Orange County / primary ZIP 92705", "Orange County / ZIP 92711 sector"]
+zillowHomeValueUsd: 1614999
 ---
 
 **Engineering Notice for North Tustin:** Structural loading calculated based on 249 ft terrain assessment. Regional dispatch grid: Orange County.

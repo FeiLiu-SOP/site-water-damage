@@ -12,6 +12,7 @@ lng: -71.6700
 zipSample: ["02814"]
 zipCodes: ["02814"]
 localPaths: ["Providence County / primary ZIP 02814", "Providence County / elevation 479 ft band", "Providence County / ZIP 02814 sector", "Providence County / coords 41.9100, -71.6700"]
+zillowHomeValueUsd: 490022
 ---
 
 **Engineering Notice for Chepachet:** System optimized for 169 mg/L hard water scaling factors in Chepachet. Regional dispatch grid: Providence County.

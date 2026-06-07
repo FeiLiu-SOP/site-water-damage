@@ -12,6 +12,7 @@ lng: -75.2800
 zipSample: ["13413"]
 zipCodes: ["13413"]
 localPaths: ["Oneida County / ZIP 13413 sector", "Oneida County / elevation 728 ft band", "Oneida County / primary ZIP 13413", "Oneida County / coords 43.0500, -75.2800"]
+zillowHomeValueUsd: 301137
 ---
 
 **Engineering Notice for Washington Mills:** Envelope check: Panel Replacement assigned to wind-load band C with stress factor 0.92. Regional dispatch grid: Oneida County.

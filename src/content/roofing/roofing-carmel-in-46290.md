@@ -11,6 +11,7 @@ lng: -86.1500
 zipSample: ["46033", "46082", "46280", "46290", "46032"]
 zipCodes: ["46074", "46290", "46082", "46280", "46032", "46033"]
 localPaths: ["Hamilton County / ZIP 46280 sector", "Hamilton County / ZIP 46082 sector", "Hamilton County / ZIP 46290 sector", "Hamilton County / ZIP 46033 sector", "Hamilton County / elevation 843 ft band"]
+zillowHomeValueUsd: 573237
 ---
 
 **Engineering Notice for Carmel:** Structural loading calculated based on 843 ft terrain assessment. Regional dispatch grid: Hamilton County.

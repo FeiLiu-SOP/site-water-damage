@@ -11,6 +11,7 @@ lng: -122.7000
 zipSample: ["94927", "94928"]
 zipCodes: ["94928", "94927"]
 localPaths: ["Sonoma County / primary ZIP 94928", "Sonoma County / ZIP 94927 sector", "Sonoma County / coords 38.3500, -122.7000", "Sonoma County / ZIP 94928 sector", "Sonoma County / elevation 108 ft band"]
+zillowHomeValueUsd: 713085
 ---
 
 **Engineering Notice for Rohnert Park:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Sonoma County.

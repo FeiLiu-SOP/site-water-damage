@@ -12,6 +12,7 @@ lng: -90.4700
 zipSample: ["39666"]
 zipCodes: ["39666"]
 localPaths: ["Pike County / coords 31.2800, -90.4700", "Pike County / elevation 469 ft band", "Pike County / primary ZIP 39666", "Pike County / ZIP 39666 sector"]
+zillowHomeValueUsd: 140494
 ---
 
 **Engineering Notice for Summit:** structural drying capacity optimized for 469ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pike County. Relative Humidity Threshold: 84%. Sensor sync: Active.

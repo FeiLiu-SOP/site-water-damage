@@ -12,6 +12,7 @@ lng: -80.2400
 zipSample: ["16137"]
 zipCodes: ["16137"]
 localPaths: ["Mercer County / ZIP 16137 sector", "Mercer County / coords 41.2300, -80.2400", "Mercer County / primary ZIP 16137", "Mercer County / elevation 1263 ft band"]
+zillowHomeValueUsd: 216608
 ---
 
 **Engineering Notice for Mercer:** System optimized for 174 mg/L hard water scaling factors in Mercer. Regional dispatch grid: Mercer County.

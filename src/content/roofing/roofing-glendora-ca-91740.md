@@ -11,6 +11,7 @@ lng: -117.8500
 zipSample: ["91740", "91741"]
 zipCodes: ["91741", "91740"]
 localPaths: ["Los Angeles County / primary ZIP 91740", "Los Angeles County / coords 34.1400, -117.8500", "Los Angeles County / ZIP 91740 sector", "Los Angeles County / elevation 945 ft band", "Los Angeles County / ZIP 91741 sector"]
+zillowHomeValueUsd: 818343
 ---
 
 **Engineering Notice for Glendora:** Structural loading calculated based on 945 ft terrain assessment. Regional dispatch grid: Los Angeles County.

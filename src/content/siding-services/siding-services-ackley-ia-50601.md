@@ -12,6 +12,7 @@ lng: -93.0500
 zipSample: ["50601"]
 zipCodes: ["50601"]
 localPaths: ["Hardin County / ZIP 50601 sector", "Hardin County / elevation 1102 ft band", "Hardin County / primary ZIP 50601", "Hardin County / coords 42.5500, -93.0500"]
+zillowHomeValueUsd: 137473
 ---
 
 **Engineering Notice for Ackley:** Envelope check: Exterior Cladding assigned to wind-load band B with stress factor 0.95. Elevation: 1102 ft AMSL. Regional dispatch grid: Hardin County.

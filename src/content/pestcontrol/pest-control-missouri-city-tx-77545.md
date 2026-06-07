@@ -11,6 +11,7 @@ lng: -95.5400
 zipSample: ["77071", "77459", "77545", "77489"]
 zipCodes: ["77071", "77459", "77489", "77545"]
 localPaths: ["Fort Bend County / ZIP 77071 sector", "Fort Bend County / ZIP 77459 sector", "Fort Bend County / ZIP 77489 sector", "Fort Bend County / primary ZIP 77545", "Fort Bend County / coords 29.5600, -95.5400"]
+zillowHomeValueUsd: 280334
 ---
 
 **Engineering Notice for Missouri City:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Fort Bend County.

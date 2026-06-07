@@ -12,6 +12,7 @@ lng: -97.9100
 zipSample: ["78580", "78561"]
 zipCodes: ["78561", "78580"]
 localPaths: ["Willacy County / ZIP 78580 sector", "Willacy County / elevation 66 ft band", "Willacy County / ZIP 78561 sector", "Willacy County / coords 26.4600, -97.9100", "Willacy County / primary ZIP 78580"]
+zillowHomeValueUsd: 116681
 ---
 
 **Engineering Notice for Lasara:** Site context locked to Willacy County. Elevation: 66 ft AMSL. Coordinates: 26.4600, -97.9100. Exterior Envelope integrity verification recorded.

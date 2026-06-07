@@ -12,6 +12,7 @@ lng: -122.6400
 zipSample: ["94973"]
 zipCodes: ["94973"]
 localPaths: ["Marin County / coords 38.0100, -122.6400", "Marin County / elevation 449 ft band", "Marin County / ZIP 94973 sector", "Marin County / primary ZIP 94973"]
+zillowHomeValueUsd: 1099780
 ---
 
 **Engineering Notice for Woodacre:** Site context locked to Marin County. Elevation: 449 ft AMSL. Coordinates: 38.0100, -122.6400. Weather Barrier Wrap integrity verification recorded.

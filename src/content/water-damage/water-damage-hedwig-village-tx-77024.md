@@ -12,6 +12,7 @@ lng: -95.5200
 zipSample: ["77024"]
 zipCodes: ["77024"]
 localPaths: ["Harris County / elevation 98 ft band", "Harris County / primary ZIP 77024", "Harris County / coords 29.7800, -95.5200", "Harris County / ZIP 77024 sector"]
+zillowHomeValueUsd: 1406099
 ---
 
 **Engineering Notice for Hedwig Village:** structural drying capacity optimized for 98ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harris County. Relative Humidity Threshold: 73%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -87.2600
 zipSample: ["32535"]
 zipCodes: ["32535"]
 localPaths: ["Escambia County / coords 30.9800, -87.2600", "Escambia County / elevation 112 ft band", "Escambia County / ZIP 32535 sector", "Escambia County / primary ZIP 32535"]
+zillowHomeValueUsd: 201962
 ---
 
 **Engineering Notice for Century:** Site context locked to Escambia County. Coordinates: 30.9800, -87.2600. Facade Renewal integrity verification recorded.

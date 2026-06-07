@@ -12,6 +12,7 @@ lng: -155.0800
 zipSample: ["96771"]
 zipCodes: ["96771"]
 localPaths: ["Hawaii County / coords 19.5100, -155.0800", "Hawaii County / elevation 1552 ft band", "Hawaii County / ZIP 96771 sector", "Hawaii County / primary ZIP 96771"]
+zillowHomeValueUsd: 319669
 ---
 
 **Engineering Notice for Fern Acres:** Wall Restoration was validated under stress factor 0.94; target tolerance set near 101 mph. Coordinates: 19.5100, -155.0800. Grid anchor: Hawaii County.

@@ -12,6 +12,7 @@ lng: -93.5600
 zipSample: ["55317", "55318", "55331"]
 zipCodes: ["55317", "55331", "55318"]
 localPaths: ["Carver County / elevation 938 ft band", "Carver County / primary ZIP 55331", "Carver County / ZIP 55331 sector", "Carver County / ZIP 55318 sector", "Carver County / coords 44.8500, -93.5600"]
+zillowHomeValueUsd: 810192
 ---
 
 **Engineering Notice for Chanhassen:** Structural loading calculated based on 938 ft terrain assessment. Regional dispatch grid: Carver County.

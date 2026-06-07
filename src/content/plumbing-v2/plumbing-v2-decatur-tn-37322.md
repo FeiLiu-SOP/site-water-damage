@@ -12,6 +12,7 @@ lng: -84.7900
 zipSample: ["37322"]
 zipCodes: ["37322"]
 localPaths: ["Meigs County / coords 35.5300, -84.7900", "Meigs County / primary ZIP 37322", "Meigs County / ZIP 37322 sector", "Meigs County / elevation 925 ft band"]
+zillowHomeValueUsd: 275968
 ---
 
 **Engineering Notice for Decatur:** System optimized for 129 mg/L hard water scaling factors in Decatur. Regional dispatch grid: Meigs County.

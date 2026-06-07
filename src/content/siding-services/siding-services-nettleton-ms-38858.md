@@ -12,6 +12,7 @@ lng: -88.6200
 zipSample: ["38858"]
 zipCodes: ["38858"]
 localPaths: ["Monroe County / elevation 253 ft band", "Monroe County / coords 34.0900, -88.6200", "Monroe County / primary ZIP 38858", "Monroe County / ZIP 38858 sector"]
+zillowHomeValueUsd: 152761
 ---
 
 **Engineering Notice for Nettleton:** Structural integrity verification: Exterior Cladding calibrated for 109 mph localized wind load factor. Regional dispatch grid: Monroe County.

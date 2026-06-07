@@ -12,6 +12,7 @@ lng: -76.5500
 zipSample: ["17980"]
 zipCodes: ["17980"]
 localPaths: ["Schuylkill County / elevation 771 ft band", "Schuylkill County / primary ZIP 17980", "Schuylkill County / ZIP 17980 sector", "Schuylkill County / coords 40.5900, -76.5500"]
+zillowHomeValueUsd: 148189
 ---
 
 **Engineering Notice for Tower City:** structural drying capacity optimized for 771ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Schuylkill County. Relative Humidity Threshold: 79%. Sensor sync: Active.

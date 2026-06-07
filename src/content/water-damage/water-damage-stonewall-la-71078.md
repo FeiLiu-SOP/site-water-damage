@@ -12,6 +12,7 @@ lng: -93.8100
 zipSample: ["71078"]
 zipCodes: ["71078"]
 localPaths: ["De Soto Parish / elevation 276 ft band", "De Soto Parish / primary ZIP 71078", "De Soto Parish / ZIP 71078 sector", "De Soto Parish / coords 32.2700, -93.8100"]
+zillowHomeValueUsd: 354537
 ---
 
 **Engineering Notice for Stonewall:** structural drying capacity optimized for 276ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: De Soto Parish. Relative Humidity Threshold: 79%. Sensor sync: Active.

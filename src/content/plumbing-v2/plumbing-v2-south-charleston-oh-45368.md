@@ -12,6 +12,7 @@ lng: -83.6400
 zipSample: ["45368"]
 zipCodes: ["45368"]
 localPaths: ["Clark County / elevation 1112 ft band", "Clark County / ZIP 45368 sector", "Clark County / coords 39.8200, -83.6400", "Clark County / primary ZIP 45368"]
+zillowHomeValueUsd: 262833
 ---
 
 **Engineering Notice for South Charleston:** System optimized for 139 mg/L hard water scaling factors in South Charleston. Regional dispatch grid: Clark County.

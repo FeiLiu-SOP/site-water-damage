@@ -12,6 +12,7 @@ lng: -82.5600
 zipSample: ["24290"]
 zipCodes: ["24290"]
 localPaths: ["Scott County / elevation 1362 ft band", "Scott County / primary ZIP 24290", "Scott County / ZIP 24290 sector", "Scott County / coords 36.6200, -82.5600"]
+zillowHomeValueUsd: 168390
 ---
 
 **Engineering Notice for Weber City:** System optimized for 124 mg/L hard water scaling factors in Weber City. Regional dispatch grid: Scott County.

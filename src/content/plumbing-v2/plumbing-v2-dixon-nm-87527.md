@@ -12,6 +12,8 @@ lng: -105.8800
 zipSample: ["87527"]
 zipCodes: ["87527"]
 localPaths: ["Rio Arriba County / elevation 6191 ft band", "Rio Arriba County / ZIP 87527 sector", "Rio Arriba County / coords 36.1900, -105.8800", "Rio Arriba County / primary ZIP 87527"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 299569
 ---
 
 **Engineering Notice for Dixon:** System optimized for 135 mg/L hard water scaling factors in Dixon. Regional dispatch grid: Rio Arriba County.

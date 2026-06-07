@@ -12,6 +12,7 @@ lng: -79.8000
 zipSample: ["24112", "24054"]
 zipCodes: ["24054", "24112"]
 localPaths: ["Henry County / elevation 745 ft band", "Henry County / primary ZIP 24054", "Henry County / coords 36.6800, -79.8000", "Henry County / ZIP 24054 sector", "Henry County / ZIP 24112 sector"]
+zillowHomeValueUsd: 126857
 ---
 
 **Engineering Notice for Chatmoss:** System optimized for 125 mg/L hard water scaling factors in Chatmoss. Regional dispatch grid: Henry County.

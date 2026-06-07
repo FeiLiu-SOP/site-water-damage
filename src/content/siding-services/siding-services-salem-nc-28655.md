@@ -12,6 +12,7 @@ lng: -81.7000
 zipSample: ["28655"]
 zipCodes: ["28655"]
 localPaths: ["Burke County / ZIP 28655 sector", "Burke County / coords 35.7000, -81.7000", "Burke County / elevation 1224 ft band", "Burke County / primary ZIP 28655"]
+zillowHomeValueUsd: 259564
 ---
 
 **Engineering Notice for Salem:** Cladding verification uses 96 mph routing baseline; lateral pressure note: 12.7 psf. Elevation: 1224 ft AMSL. Grid: Burke County.

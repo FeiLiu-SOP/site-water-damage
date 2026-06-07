@@ -12,6 +12,7 @@ lng: -75.1700
 zipSample: ["08318"]
 zipCodes: ["08318"]
 localPaths: ["Salem County / ZIP 08318 sector", "Salem County / elevation 102 ft band", "Salem County / primary ZIP 08318", "Salem County / coords 39.5400, -75.1700"]
+zillowHomeValueUsd: 344238
 ---
 
 **Engineering Notice for Olivet:** structural drying capacity optimized for 102ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Salem County. Relative Humidity Threshold: 79%. Sensor sync: Active.

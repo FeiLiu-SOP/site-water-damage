@@ -12,6 +12,7 @@ lng: -76.7000
 zipSample: ["17403"]
 zipCodes: ["17403"]
 localPaths: ["York County / primary ZIP 17403", "York County / coords 39.9300, -76.7000", "York County / ZIP 17403 sector", "York County / elevation 604 ft band"]
+zillowHomeValueUsd: 250731
 ---
 
 **Engineering Notice for Tyler Run:** System optimized for 126 mg/L hard water scaling factors in Tyler Run. Regional dispatch grid: York County.

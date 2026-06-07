@@ -12,6 +12,7 @@ lng: -94.5300
 zipSample: ["64012"]
 zipCodes: ["64012"]
 localPaths: ["Cass County / elevation 1109 ft band", "Cass County / ZIP 64012 sector", "Cass County / coords 38.8200, -94.5300", "Cass County / primary ZIP 64012"]
+zillowHomeValueUsd: 286631
 ---
 
 **Engineering Notice for Belton:** Structural loading calculated based on 1109 ft terrain assessment. Regional dispatch grid: Cass County.

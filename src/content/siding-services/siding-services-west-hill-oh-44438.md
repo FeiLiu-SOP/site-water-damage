@@ -12,6 +12,7 @@ lng: -80.5300
 zipSample: ["44438"]
 zipCodes: ["44438"]
 localPaths: ["Trumbull County / primary ZIP 44438", "Trumbull County / elevation 906 ft band", "Trumbull County / coords 41.2300, -80.5300", "Trumbull County / ZIP 44438 sector"]
+zillowHomeValueUsd: 91223
 ---
 
 **Engineering Notice for West Hill:** Surface Sheathing was validated under stress factor 0.79; target tolerance set near 93 mph. Coordinates: 41.2300, -80.5300. Grid anchor: Trumbull County.

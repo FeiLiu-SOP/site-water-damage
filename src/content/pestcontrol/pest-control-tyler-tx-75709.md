@@ -11,6 +11,7 @@ lng: -95.3100
 zipSample: ["75701", "75711", "75702", "75799", "75713"]
 zipCodes: ["75712", "75710", "75703", "75713", "75709", "75799", "75798", "75711", "75701", "75702"]
 localPaths: ["Smith County / ZIP 75713 sector", "Smith County / primary ZIP 75709", "Smith County / ZIP 75799 sector", "Smith County / ZIP 75702 sector", "Smith County / ZIP 75711 sector"]
+zillowHomeValueUsd: 284098
 ---
 
 **Engineering Notice for Tyler:** Structural loading calculated based on 545 ft terrain assessment. Regional dispatch grid: Smith County.

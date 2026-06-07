@@ -12,6 +12,7 @@ lng: -91.5900
 zipSample: ["52227"]
 zipCodes: ["52227"]
 localPaths: ["Linn County / elevation 738 ft band", "Linn County / ZIP 52227 sector", "Linn County / coords 41.8800, -91.5900", "Linn County / primary ZIP 52227"]
+zillowHomeValueUsd: 364109
 ---
 
 **Engineering Notice for Ely:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Coordinates: 41.8800, -91.5900. Grid: Linn County.

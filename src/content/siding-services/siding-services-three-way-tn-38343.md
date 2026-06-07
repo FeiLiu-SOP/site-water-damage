@@ -12,6 +12,7 @@ lng: -88.8600
 zipSample: ["38343"]
 zipCodes: ["38343"]
 localPaths: ["Madison County / elevation 433 ft band", "Madison County / ZIP 38343 sector", "Madison County / coords 35.7700, -88.8600", "Madison County / primary ZIP 38343"]
+zillowHomeValueUsd: 179758
 ---
 
 **Engineering Notice for Three Way:** Structural integrity verification: Surface Sheathing calibrated for 100 mph localized wind load factor. Regional dispatch grid: Madison County.

@@ -11,6 +11,7 @@ lng: -88.3400
 zipSample: ["60012", "60014", "60039"]
 zipCodes: ["60014", "60039", "60012"]
 localPaths: ["McHenry County / elevation 902 ft band", "McHenry County / coords 42.2300, -88.3400", "McHenry County / ZIP 60014 sector", "McHenry County / ZIP 60012 sector", "McHenry County / primary ZIP 60014"]
+zillowHomeValueUsd: 359991
 ---
 
 **Engineering Notice for Crystal Lake:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: McHenry County.

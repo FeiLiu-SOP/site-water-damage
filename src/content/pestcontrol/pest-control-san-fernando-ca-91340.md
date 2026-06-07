@@ -11,6 +11,7 @@ lng: -118.4400
 zipSample: ["91340", "91341"]
 zipCodes: ["91341", "91340"]
 localPaths: ["Los Angeles County / elevation 1109 ft band", "Los Angeles County / ZIP 91340 sector", "Los Angeles County / ZIP 91341 sector", "Los Angeles County / primary ZIP 91340", "Los Angeles County / coords 34.2900, -118.4400"]
+zillowHomeValueUsd: 738872
 ---
 
 **Engineering Notice for San Fernando:** Structural loading calculated based on 1109 ft terrain assessment. Regional dispatch grid: Los Angeles County.

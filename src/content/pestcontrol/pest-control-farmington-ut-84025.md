@@ -11,6 +11,7 @@ lng: -111.9100
 zipSample: ["84025"]
 zipCodes: ["84025"]
 localPaths: ["Davis County / elevation 4249 ft band", "Davis County / primary ZIP 84025", "Davis County / coords 40.9800, -111.9100", "Davis County / ZIP 84025 sector"]
+zillowHomeValueUsd: 692196
 ---
 
 **Engineering Notice for Farmington:** Structural loading calculated based on 4249 ft terrain assessment. Regional dispatch grid: Davis County.

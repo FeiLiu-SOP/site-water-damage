@@ -12,6 +12,7 @@ lng: -96.9000
 zipSample: ["77905", "77951"]
 zipCodes: ["77951", "77905"]
 localPaths: ["Victoria County / elevation 66 ft band", "Victoria County / ZIP 77905 sector", "Victoria County / ZIP 77951 sector", "Victoria County / primary ZIP 77951", "Victoria County / coords 28.6500, -96.9000"]
+zillowHomeValueUsd: 112346
 ---
 
 **Engineering Notice for Bloomington:** structural drying capacity optimized for 66ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Victoria County. Relative Humidity Threshold: 70%. Sensor sync: Active.

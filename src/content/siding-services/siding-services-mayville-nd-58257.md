@@ -12,6 +12,7 @@ lng: -97.3300
 zipSample: ["58257"]
 zipCodes: ["58257"]
 localPaths: ["Traill County / ZIP 58257 sector", "Traill County / primary ZIP 58257", "Traill County / elevation 948 ft band", "Traill County / coords 47.5000, -97.3300"]
+zillowHomeValueUsd: 194543
 ---
 
 **Engineering Notice for Mayville:** Site context locked to Traill County. Elevation: 948 ft AMSL. Coordinates: 47.5000, -97.3300. Weather Barrier Wrap integrity verification recorded.

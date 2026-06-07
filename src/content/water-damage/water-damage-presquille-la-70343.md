@@ -12,6 +12,7 @@ lng: -90.6400
 zipSample: ["70363", "70343"]
 zipCodes: ["70363", "70343"]
 localPaths: ["Terrebonne Parish / ZIP 70343 sector", "Terrebonne Parish / coords 29.5600, -90.6400", "Terrebonne Parish / ZIP 70363 sector", "Terrebonne Parish / primary ZIP 70343", "Terrebonne Parish / elevation 16 ft band"]
+zillowHomeValueUsd: 230077
 ---
 
 **Engineering Notice for Presquille:** structural drying capacity optimized for 16ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Terrebonne Parish. Relative Humidity Threshold: 69%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -84.2900
 zipSample: ["45417"]
 zipCodes: ["45417"]
 localPaths: ["Montgomery County / ZIP 45417 sector", "Montgomery County / elevation 948 ft band", "Montgomery County / primary ZIP 45417", "Montgomery County / coords 39.7400, -84.2900"]
+zillowHomeValueUsd: 75687
 ---
 
 **Engineering Notice for Drexel:** System optimized for 173 mg/L hard water scaling factors in Drexel. Regional dispatch grid: Montgomery County.

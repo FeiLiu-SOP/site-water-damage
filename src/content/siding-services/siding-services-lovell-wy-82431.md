@@ -12,6 +12,7 @@ lng: -108.3900
 zipSample: ["82431"]
 zipCodes: ["82431"]
 localPaths: ["Big Horn County / coords 44.8400, -108.3900", "Big Horn County / elevation 3839 ft band", "Big Horn County / primary ZIP 82431", "Big Horn County / ZIP 82431 sector"]
+zillowHomeValueUsd: 277426
 ---
 
 **Engineering Notice for Lovell:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Elevation: 3839 ft AMSL. Grid: Big Horn County.

@@ -12,6 +12,7 @@ lng: -100.7600
 zipSample: ["69103", "69101"]
 zipCodes: ["69101", "69103"]
 localPaths: ["Lincoln County / ZIP 69103 sector", "Lincoln County / primary ZIP 69101", "Lincoln County / coords 41.1300, -100.7600", "Lincoln County / elevation 2812 ft band", "Lincoln County / ZIP 69101 sector"]
+zillowHomeValueUsd: 208958
 ---
 
 **Engineering Notice for North Platte:** Structural loading calculated based on 2812 ft terrain assessment. Regional dispatch grid: Lincoln County.

@@ -12,6 +12,7 @@ lng: -75.1500
 zipSample: ["08090"]
 zipCodes: ["08090"]
 localPaths: ["Gloucester County / coords 39.7900, -75.1500", "Gloucester County / elevation 82 ft band", "Gloucester County / primary ZIP 08090", "Gloucester County / ZIP 08090 sector"]
+zillowHomeValueUsd: 362632
 ---
 
 **Engineering Notice for Wenonah:** System optimized for 121 mg/L hard water scaling factors in Wenonah. Regional dispatch grid: Gloucester County.

@@ -12,6 +12,7 @@ lng: -94.2300
 zipSample: ["56367"]
 zipCodes: ["56367"]
 localPaths: ["Benton County / elevation 1053 ft band", "Benton County / ZIP 56367 sector", "Benton County / coords 45.7500, -94.2300", "Benton County / primary ZIP 56367"]
+zillowHomeValueUsd: 344584
 ---
 
 **Engineering Notice for Rice:** Envelope check: Panel Replacement assigned to wind-load band A with stress factor 1.15. Regional dispatch grid: Benton County.

@@ -12,6 +12,8 @@ lng: -73.9500
 zipSample: ["12477", "12432"]
 zipCodes: ["12432", "12477"]
 localPaths: ["Ulster County / ZIP 12432 sector", "Ulster County / primary ZIP 12432", "Ulster County / coords 42.0500, -73.9500", "Ulster County / ZIP 12477 sector", "Ulster County / elevation 144 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 506894
 ---
 
 **Engineering Notice for Glasco:** System optimized for 142 mg/L hard water scaling factors in Glasco. Regional dispatch grid: Ulster County.

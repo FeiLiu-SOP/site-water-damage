@@ -11,6 +11,7 @@ lng: -111.8200
 zipSample: ["84121", "84124", "84117"]
 zipCodes: ["84124", "84117", "84121"]
 localPaths: ["Salt Lake County / elevation 4452 ft band", "Salt Lake County / coords 40.6600, -111.8200", "Salt Lake County / ZIP 84117 sector", "Salt Lake County / ZIP 84124 sector", "Salt Lake County / primary ZIP 84117"]
+zillowHomeValueUsd: 694562
 ---
 
 **Engineering Notice for Holladay:** Structural loading calculated based on 4452 ft terrain assessment. Regional dispatch grid: Salt Lake County.

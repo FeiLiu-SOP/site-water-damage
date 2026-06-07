@@ -11,6 +11,7 @@ lng: -90.2500
 zipSample: ["63179", "63160", "63118", "63115", "63103"]
 zipCodes: ["63188", "63111", "63116", "63139", "63155", "63120", "63108", "63107", "63166", "63104", "63103", "63113"]
 localPaths: ["St. Louis County / primary ZIP 63110", "St. Louis County / ZIP 63160 sector", "St. Louis County / ZIP 63179 sector", "St. Louis County / ZIP 63118 sector", "St. Louis County / ZIP 63115 sector"]
+zillowHomeValueUsd: 294971
 ---
 
 **Engineering Notice for St. Louis:** Structural loading calculated based on 472 ft terrain assessment. Regional dispatch grid: St. Louis County.

@@ -12,6 +12,7 @@ lng: -82.7600
 zipSample: ["34689"]
 zipCodes: ["34689"]
 localPaths: ["Pinellas County / coords 28.1500, -82.7600", "Pinellas County / primary ZIP 34689", "Pinellas County / elevation 23 ft band", "Pinellas County / ZIP 34689 sector"]
+zillowHomeValueUsd: 365453
 ---
 
 **Engineering Notice for Tarpon Springs:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Pinellas County.

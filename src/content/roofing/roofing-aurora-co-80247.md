@@ -11,6 +11,7 @@ lng: -104.7200
 zipSample: ["80013", "80042", "80010", "80011", "80247"]
 zipCodes: ["80011", "80010", "80013", "80044", "80019", "80047", "80017", "80016", "80041", "80014", "80012", "80046"]
 localPaths: ["Arapahoe County / ZIP 80013 sector", "Arapahoe County / ZIP 80011 sector", "Arapahoe County / coords 39.7100, -104.7200", "Arapahoe County / ZIP 80247 sector", "Arapahoe County / ZIP 80010 sector"]
+zillowHomeValueUsd: 262403
 ---
 
 **Engineering Notice for Aurora:** Structural loading calculated based on 5574 ft terrain assessment. Regional dispatch grid: Arapahoe County.

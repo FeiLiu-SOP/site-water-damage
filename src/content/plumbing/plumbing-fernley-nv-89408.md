@@ -12,6 +12,7 @@ lng: -119.1900
 zipSample: ["89408", "89406", "89429"]
 zipCodes: ["89408", "89429", "89406"]
 localPaths: ["Lyon County / elevation 4636 ft band", "Lyon County / primary ZIP 89408", "Lyon County / ZIP 89408 sector", "Lyon County / ZIP 89429 sector", "Lyon County / coords 39.5600, -119.1900"]
+zillowHomeValueUsd: 396034
 ---
 
 **Engineering Notice for Fernley:** Structural loading calculated based on 4636 ft terrain assessment. Regional dispatch grid: Lyon County.

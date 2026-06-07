@@ -11,6 +11,7 @@ lng: -74.5000
 zipSample: ["08873"]
 zipCodes: ["08873"]
 localPaths: ["Somerset County / primary ZIP 08873", "Somerset County / coords 40.5100, -74.5000", "Somerset County / ZIP 08873 sector", "Somerset County / elevation 118 ft band"]
+zillowHomeValueUsd: 567144
 ---
 
 **Engineering Notice for Somerset:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Somerset County.

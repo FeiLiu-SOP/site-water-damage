@@ -11,6 +11,7 @@ lng: -111.9700
 zipSample: ["84408", "84403", "84407", "84401", "84409"]
 zipCodes: ["84408", "84403", "84244", "84404", "84407", "84409", "84415", "84401"]
 localPaths: ["Weber County / ZIP 84408 sector", "Weber County / coords 41.2300, -111.9700", "Weber County / ZIP 84403 sector", "Weber County / ZIP 84407 sector", "Weber County / primary ZIP 84404"]
+zillowHomeValueUsd: 433293
 ---
 
 **Engineering Notice for Ogden:** Structural loading calculated based on 4350 ft terrain assessment. Regional dispatch grid: Weber County.

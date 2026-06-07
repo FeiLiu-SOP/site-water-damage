@@ -12,6 +12,7 @@ lng: -101.2400
 zipSample: ["79322"]
 zipCodes: ["79322"]
 localPaths: ["Crosby County / elevation 3009 ft band", "Crosby County / coords 33.6400, -101.2400", "Crosby County / ZIP 79322 sector", "Crosby County / primary ZIP 79322"]
+zillowHomeValueUsd: 74261
 ---
 
 **Engineering Notice for Crosbyton:** System optimized for 157 mg/L hard water scaling factors in Crosbyton. Regional dispatch grid: Crosby County.

@@ -12,6 +12,7 @@ lng: -86.3500
 zipSample: ["46947"]
 zipCodes: ["46947"]
 localPaths: ["Cass County / coords 40.7500, -86.3500", "Cass County / primary ZIP 46947", "Cass County / ZIP 46947 sector", "Cass County / elevation 614 ft band"]
+zillowHomeValueUsd: 154688
 ---
 
 **Engineering Notice for Logansport:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Cass County.

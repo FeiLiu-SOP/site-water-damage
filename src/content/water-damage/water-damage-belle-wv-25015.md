@@ -12,6 +12,7 @@ lng: -81.5400
 zipSample: ["25015"]
 zipCodes: ["25015"]
 localPaths: ["Kanawha County / primary ZIP 25015", "Kanawha County / ZIP 25015 sector", "Kanawha County / coords 38.2300, -81.5400", "Kanawha County / elevation 640 ft band"]
+zillowHomeValueUsd: 115092
 ---
 
 **Engineering Notice for Belle:** structural drying capacity optimized for 640ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kanawha County. Relative Humidity Threshold: 85%. Sensor sync: Active.

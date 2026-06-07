@@ -12,6 +12,7 @@ lng: -80.5300
 zipSample: ["29040", "29154"]
 zipCodes: ["29154", "29040"]
 localPaths: ["Sumter County / coords 33.9800, -80.5300", "Sumter County / ZIP 29154 sector", "Sumter County / primary ZIP 29040", "Sumter County / elevation 200 ft band", "Sumter County / ZIP 29040 sector"]
+zillowHomeValueUsd: 216848
 ---
 
 **Engineering Notice for Stateburg:** Envelope check: Cladding Retrofit assigned to wind-load band A with stress factor 0.94. Regional dispatch grid: Sumter County.

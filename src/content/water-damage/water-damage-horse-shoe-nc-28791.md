@@ -12,6 +12,7 @@ lng: -82.5600
 zipSample: ["28759", "28739", "28791", "28742"]
 zipCodes: ["28759", "28742", "28791", "28739"]
 localPaths: ["Henderson County / ZIP 28759 sector", "Henderson County / elevation 2116 ft band", "Henderson County / ZIP 28791 sector", "Henderson County / primary ZIP 28791", "Henderson County / coords 35.3400, -82.5600"]
+zillowHomeValueUsd: 418353
 ---
 
 **Engineering Notice for Horse Shoe:** structural drying capacity optimized for 2116ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Henderson County. Relative Humidity Threshold: 74%. Sensor sync: Active.

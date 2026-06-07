@@ -11,6 +11,7 @@ lng: -93.3500
 zipSample: ["55429", "55428", "55445", "55444", "55443"]
 zipCodes: ["55429", "55428", "55444", "55445", "55443"]
 localPaths: ["Hennepin County / primary ZIP 55429", "Hennepin County / ZIP 55445 sector", "Hennepin County / ZIP 55429 sector", "Hennepin County / ZIP 55428 sector", "Hennepin County / coords 45.1100, -93.3500"]
+zillowHomeValueUsd: 298889
 ---
 
 **Engineering Notice for Brooklyn Park:** Structural loading calculated based on 856 ft terrain assessment. Regional dispatch grid: Hennepin County.

@@ -12,6 +12,7 @@ lng: -84.3800
 zipSample: ["30513", "30541"]
 zipCodes: ["30513", "30541"]
 localPaths: ["Fannin County / coords 34.9500, -84.3800", "Fannin County / ZIP 30541 sector", "Fannin County / primary ZIP 30541", "Fannin County / ZIP 30513 sector", "Fannin County / elevation 1745 ft band"]
+zillowHomeValueUsd: 427824
 ---
 
 **Engineering Notice for Epworth:** System optimized for 168 mg/L hard water scaling factors in Epworth. Regional dispatch grid: Fannin County.

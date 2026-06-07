@@ -12,6 +12,7 @@ lng: -76.9800
 zipSample: ["14837"]
 zipCodes: ["14837"]
 localPaths: ["Yates County / ZIP 14837 sector", "Yates County / coords 42.5200, -76.9800", "Yates County / elevation 991 ft band", "Yates County / primary ZIP 14837"]
+zillowHomeValueUsd: 289380
 ---
 
 **Engineering Notice for Dundee:** Structural integrity verification: Wall Restoration calibrated for 106 mph localized wind load factor. Coordinates: 42.5200, -76.9800. Regional dispatch grid: Yates County.

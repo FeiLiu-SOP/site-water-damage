@@ -12,6 +12,7 @@ lng: -94.0000
 zipSample: ["72727", "72735", "72703"]
 zipCodes: ["72703", "72735", "72727"]
 localPaths: ["Washington County / primary ZIP 72703", "Washington County / ZIP 72727 sector", "Washington County / elevation 1171 ft band", "Washington County / ZIP 72703 sector", "Washington County / coords 36.1000, -94.0000"]
+zillowHomeValueUsd: 406308
 ---
 
 **Engineering Notice for Goshen:** System optimized for 163 mg/L hard water scaling factors in Goshen. Regional dispatch grid: Washington County.

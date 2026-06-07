@@ -11,6 +11,7 @@ lng: -86.9000
 zipSample: ["47933"]
 zipCodes: ["47933"]
 localPaths: ["Montgomery County / elevation 764 ft band", "Montgomery County / ZIP 47933 sector", "Montgomery County / primary ZIP 47933", "Montgomery County / coords 40.0400, -86.9000"]
+zillowHomeValueUsd: 223659
 ---
 
 **Engineering Notice for Crawfordsville:** Structural loading calculated based on 764 ft terrain assessment. Regional dispatch grid: Montgomery County.

@@ -12,6 +12,7 @@ lng: -123.9200
 zipSample: ["97138"]
 zipCodes: ["97138"]
 localPaths: ["Clatsop County / primary ZIP 97138", "Clatsop County / ZIP 97138 sector", "Clatsop County / coords 46.0300, -123.9200", "Clatsop County / elevation 49 ft band"]
+zillowHomeValueUsd: 498555
 ---
 
 **Engineering Notice for Gearhart:** structural drying capacity optimized for 49ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clatsop County. Relative Humidity Threshold: 68%. Sensor sync: Active.

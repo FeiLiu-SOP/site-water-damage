@@ -12,6 +12,7 @@ lng: -119.7200
 zipSample: ["93644", "93601"]
 zipCodes: ["93601", "93644"]
 localPaths: ["Madera County / ZIP 93601 sector", "Madera County / elevation 2310 ft band", "Madera County / primary ZIP 93601", "Madera County / coords 37.3700, -119.7200", "Madera County / ZIP 93644 sector"]
+zillowHomeValueUsd: 475879
 ---
 
 **Engineering Notice for Ahwahnee:** Structural integrity verification: Facade Renewal calibrated for 132 mph localized wind load factor. Elevation: 2310 ft AMSL. Coordinates: 37.3700, -119.7200. Regional dispatch grid: Madera County.

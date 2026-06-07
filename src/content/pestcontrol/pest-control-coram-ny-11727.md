@@ -11,6 +11,7 @@ lng: -73.0100
 zipSample: ["11784", "11727", "11776"]
 zipCodes: ["11727", "11776", "11784"]
 localPaths: ["Suffolk County / primary ZIP 11727", "Suffolk County / coords 40.8800, -73.0100", "Suffolk County / ZIP 11727 sector", "Suffolk County / ZIP 11776 sector", "Suffolk County / ZIP 11784 sector"]
+zillowHomeValueUsd: 547387
 ---
 
 **Engineering Notice for Coram:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Suffolk County.

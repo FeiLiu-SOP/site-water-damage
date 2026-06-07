@@ -12,6 +12,7 @@ lng: -107.8900
 zipSample: ["87021", "87020"]
 zipCodes: ["87021", "87020"]
 localPaths: ["Cibola County / ZIP 87020 sector", "Cibola County / elevation 6532 ft band", "Cibola County / coords 35.1900, -107.8900", "Cibola County / primary ZIP 87020", "Cibola County / ZIP 87021 sector"]
+zillowHomeValueUsd: 154685
 ---
 
 **Engineering Notice for Milan:** System optimized for 161 mg/L hard water scaling factors in Milan. Regional dispatch grid: Cibola County.

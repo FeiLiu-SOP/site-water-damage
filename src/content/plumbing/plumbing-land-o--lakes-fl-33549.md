@@ -12,6 +12,7 @@ lng: -82.4500
 zipSample: ["33559", "34639", "34638", "33549"]
 zipCodes: ["34639", "33549", "34638", "33559"]
 localPaths: ["Pasco County / primary ZIP 33549", "Pasco County / coords 28.2100, -82.4500", "Pasco County / ZIP 33559 sector", "Pasco County / elevation 98 ft band", "Pasco County / ZIP 34638 sector"]
+zillowHomeValueUsd: 436512
 ---
 
 **Engineering Notice for Land O' Lakes:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Pasco County.

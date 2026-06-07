@@ -11,6 +11,7 @@ lng: -88.3100
 zipSample: ["60177"]
 zipCodes: ["60177"]
 localPaths: ["Kane County / elevation 804 ft band", "Kane County / ZIP 60177 sector", "Kane County / primary ZIP 60177", "Kane County / coords 41.9900, -88.3100"]
+zillowHomeValueUsd: 366433
 ---
 
 **Engineering Notice for South Elgin:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Kane County.

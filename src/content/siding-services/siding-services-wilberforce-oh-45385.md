@@ -12,6 +12,7 @@ lng: -83.8800
 zipSample: ["45385", "45384"]
 zipCodes: ["45384", "45385"]
 localPaths: ["Greene County / coords 39.7200, -83.8800", "Greene County / ZIP 45385 sector", "Greene County / primary ZIP 45385", "Greene County / ZIP 45384 sector", "Greene County / elevation 1020 ft band"]
+zillowHomeValueUsd: 253906
 ---
 
 **Engineering Notice for Wilberforce:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 0.97. Regional dispatch grid: Greene County.

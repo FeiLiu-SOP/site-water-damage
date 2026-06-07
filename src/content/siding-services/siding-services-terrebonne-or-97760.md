@@ -12,6 +12,7 @@ lng: -121.1800
 zipSample: ["97760"]
 zipCodes: ["97760"]
 localPaths: ["Deschutes County / primary ZIP 97760", "Deschutes County / coords 44.3500, -121.1800", "Deschutes County / elevation 2867 ft band", "Deschutes County / ZIP 97760 sector"]
+zillowHomeValueUsd: 579489
 ---
 
 **Engineering Notice for Terrebonne:** Exterior Envelope was validated under stress factor 1.03; target tolerance set near 105 mph. Grid anchor: Deschutes County.

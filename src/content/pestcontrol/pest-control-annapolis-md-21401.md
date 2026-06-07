@@ -11,6 +11,7 @@ lng: -76.5000
 zipSample: ["21403", "21404", "21411", "21401"]
 zipCodes: ["21411", "21401", "21404", "21403"]
 localPaths: ["Anne Arundel County / ZIP 21401 sector", "Anne Arundel County / elevation 20 ft band", "Anne Arundel County / ZIP 21404 sector", "Anne Arundel County / ZIP 21403 sector", "Anne Arundel County / coords 38.9700, -76.5000"]
+zillowHomeValueUsd: 625159
 ---
 
 **Engineering Notice for Annapolis:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Anne Arundel County.

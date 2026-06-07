@@ -11,6 +11,7 @@ lng: -81.2100
 zipSample: ["32738", "32739", "32725"]
 zipCodes: ["32739", "32725", "32738"]
 localPaths: ["Volusia County / coords 28.9100, -81.2100", "Volusia County / ZIP 32738 sector", "Volusia County / elevation 56 ft band", "Volusia County / primary ZIP 32725", "Volusia County / ZIP 32725 sector"]
+zillowHomeValueUsd: 296119
 ---
 
 **Engineering Notice for Deltona:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Volusia County.

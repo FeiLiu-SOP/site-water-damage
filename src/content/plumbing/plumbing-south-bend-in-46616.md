@@ -12,6 +12,7 @@ lng: -86.2700
 zipSample: ["46635", "46614", "46619", "46699", "46615"]
 zipCodes: ["46614", "46613", "46634", "46619", "46617", "46616", "46626", "46699", "46635", "46660", "46601", "46615"]
 localPaths: ["St. Joseph County / ZIP 46615 sector", "St. Joseph County / ZIP 46614 sector", "St. Joseph County / ZIP 46635 sector", "St. Joseph County / ZIP 46619 sector", "St. Joseph County / ZIP 46699 sector"]
+zillowHomeValueUsd: 144115
 ---
 
 **Engineering Notice for South Bend:** Structural loading calculated based on 719 ft terrain assessment. Regional dispatch grid: St. Joseph County.

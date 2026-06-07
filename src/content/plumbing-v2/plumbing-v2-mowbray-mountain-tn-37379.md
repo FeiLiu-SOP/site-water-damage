@@ -12,6 +12,7 @@ lng: -85.2200
 zipSample: ["37379"]
 zipCodes: ["37379"]
 localPaths: ["Hamilton County / primary ZIP 37379", "Hamilton County / elevation 1657 ft band", "Hamilton County / ZIP 37379 sector", "Hamilton County / coords 35.2800, -85.2200"]
+zillowHomeValueUsd: 359753
 ---
 
 **Engineering Notice for Mowbray Mountain:** System optimized for 122 mg/L hard water scaling factors in Mowbray Mountain. Regional dispatch grid: Hamilton County.

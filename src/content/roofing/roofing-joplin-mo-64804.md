@@ -11,6 +11,7 @@ lng: -94.5000
 zipSample: ["64802", "64804", "64801", "64803"]
 zipCodes: ["64801", "64803", "64802", "64804"]
 localPaths: ["Jasper County / coords 37.0800, -94.5000", "Jasper County / ZIP 64803 sector", "Jasper County / ZIP 64801 sector", "Jasper County / elevation 1010 ft band", "Jasper County / primary ZIP 64804"]
+zillowHomeValueUsd: 225109
 ---
 
 **Engineering Notice for Joplin:** Structural loading calculated based on 1010 ft terrain assessment. Regional dispatch grid: Jasper County.

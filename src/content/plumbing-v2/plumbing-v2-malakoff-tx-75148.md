@@ -12,6 +12,7 @@ lng: -96.0200
 zipSample: ["75148"]
 zipCodes: ["75148"]
 localPaths: ["Henderson County / primary ZIP 75148", "Henderson County / elevation 371 ft band", "Henderson County / ZIP 75148 sector", "Henderson County / coords 32.1700, -96.0200"]
+zillowHomeValueUsd: 277879
 ---
 
 **Engineering Notice for Malakoff:** System optimized for 138 mg/L hard water scaling factors in Malakoff. Regional dispatch grid: Henderson County.

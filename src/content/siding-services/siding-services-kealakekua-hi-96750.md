@@ -12,6 +12,7 @@ lng: -155.9100
 zipSample: ["96750"]
 zipCodes: ["96750"]
 localPaths: ["Hawaii County / elevation 2014 ft band", "Hawaii County / ZIP 96750 sector", "Hawaii County / primary ZIP 96750", "Hawaii County / coords 19.5300, -155.9100"]
+zillowHomeValueUsd: 764346
 ---
 
 **Engineering Notice for Kealakekua:** Cladding verification uses 96 mph routing baseline; lateral pressure note: 12.7 psf. Elevation: 2014 ft AMSL. Coordinates: 19.5300, -155.9100. Grid: Hawaii County.

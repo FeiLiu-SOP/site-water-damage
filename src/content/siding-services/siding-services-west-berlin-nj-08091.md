@@ -12,6 +12,7 @@ lng: -74.9400
 zipSample: ["08091"]
 zipCodes: ["08091"]
 localPaths: ["Camden County / ZIP 08091 sector", "Camden County / elevation 174 ft band", "Camden County / primary ZIP 08091", "Camden County / coords 39.8100, -74.9400"]
+zillowHomeValueUsd: 350639
 ---
 
 **Engineering Notice for West Berlin:** Vinyl Panels was validated under stress factor 0.73; target tolerance set near 102 mph. Coordinates: 39.8100, -74.9400. Grid anchor: Camden County.

@@ -12,6 +12,7 @@ lng: -75.9300
 zipSample: ["18708"]
 zipCodes: ["18708"]
 localPaths: ["Luzerne County / elevation 1020 ft band", "Luzerne County / coords 41.3100, -75.9300", "Luzerne County / primary ZIP 18708", "Luzerne County / ZIP 18708 sector"]
+zillowHomeValueUsd: 287050
 ---
 
 **Engineering Notice for Trucksville:** Site context locked to Luzerne County. Elevation: 1020 ft AMSL. Exterior Cladding integrity verification recorded.

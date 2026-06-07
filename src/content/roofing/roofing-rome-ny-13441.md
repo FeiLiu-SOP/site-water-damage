@@ -11,6 +11,7 @@ lng: -75.4900
 zipSample: ["13442", "13308", "13449", "13441", "13440"]
 zipCodes: ["13440", "13308", "13449", "13441", "13442"]
 localPaths: ["Oneida County / coords 43.2300, -75.4900", "Oneida County / ZIP 13441 sector", "Oneida County / ZIP 13442 sector", "Oneida County / ZIP 13308 sector", "Oneida County / ZIP 13440 sector"]
+zillowHomeValueUsd: 201296
 ---
 
 **Engineering Notice for Rome:** Structural loading calculated based on 443 ft terrain assessment. Regional dispatch grid: Oneida County.

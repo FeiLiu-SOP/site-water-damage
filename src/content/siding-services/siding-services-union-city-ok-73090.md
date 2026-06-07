@@ -12,6 +12,7 @@ lng: -97.9000
 zipSample: ["73090", "73036"]
 zipCodes: ["73036", "73090"]
 localPaths: ["Canadian County / ZIP 73090 sector", "Canadian County / elevation 1316 ft band", "Canadian County / ZIP 73036 sector", "Canadian County / coords 35.4000, -97.9000", "Canadian County / primary ZIP 73090"]
+zillowHomeValueUsd: 213739
 ---
 
 **Engineering Notice for Union City:** Structural integrity verification: Cladding Retrofit calibrated for 93 mph localized wind load factor. Elevation: 1316 ft AMSL. Regional dispatch grid: Canadian County.

@@ -12,6 +12,7 @@ lng: -87.0400
 zipSample: ["35023"]
 zipCodes: ["35023"]
 localPaths: ["Jefferson County / elevation 587 ft band", "Jefferson County / ZIP 35023 sector", "Jefferson County / coords 33.4700, -87.0400", "Jefferson County / primary ZIP 35023"]
+zillowHomeValueUsd: 170631
 ---
 
 **Engineering Notice for Concord:** Cladding verification uses 90 mph routing baseline; lateral pressure note: 12.0 psf. Grid: Jefferson County.

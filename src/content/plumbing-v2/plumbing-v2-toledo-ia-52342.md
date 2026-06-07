@@ -12,6 +12,7 @@ lng: -92.5800
 zipSample: ["52342"]
 zipCodes: ["52342"]
 localPaths: ["Tama County / elevation 873 ft band", "Tama County / coords 41.9900, -92.5800", "Tama County / primary ZIP 52342", "Tama County / ZIP 52342 sector"]
+zillowHomeValueUsd: 173248
 ---
 
 **Engineering Notice for Toledo:** System optimized for 125 mg/L hard water scaling factors in Toledo. Regional dispatch grid: Tama County.

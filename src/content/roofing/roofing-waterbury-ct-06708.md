@@ -11,6 +11,7 @@ lng: -73.0400
 zipSample: ["06706", "06704", "06720", "06701", "06721"]
 zipCodes: ["06703", "06708", "06701", "06725", "06710", "06723", "06705", "06704", "06720", "06702", "06726", "06724"]
 localPaths: ["Naugatuck Valley County / ZIP 06721 sector", "Naugatuck Valley County / primary ZIP 06708", "Naugatuck Valley County / ZIP 06720 sector", "Naugatuck Valley County / ZIP 06706 sector", "Naugatuck Valley County / ZIP 06704 sector"]
+zillowHomeValueUsd: 297162
 ---
 
 **Engineering Notice for Waterbury:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Naugatuck Valley County.

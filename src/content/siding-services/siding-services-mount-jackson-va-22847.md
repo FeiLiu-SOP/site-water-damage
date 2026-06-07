@@ -12,6 +12,7 @@ lng: -78.6500
 zipSample: ["22847", "22842"]
 zipCodes: ["22847", "22842"]
 localPaths: ["Shenandoah County / ZIP 22842 sector", "Shenandoah County / primary ZIP 22847", "Shenandoah County / elevation 932 ft band", "Shenandoah County / coords 38.7400, -78.6500", "Shenandoah County / ZIP 22847 sector"]
+zillowHomeValueUsd: 368758
 ---
 
 **Engineering Notice for Mount Jackson:** Site context locked to Shenandoah County. Surface Sheathing integrity verification recorded.

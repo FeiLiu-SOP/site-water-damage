@@ -12,6 +12,7 @@ lng: -112.4600
 zipSample: ["83202"]
 zipCodes: ["83202"]
 localPaths: ["Bannock County / coords 42.9300, -112.4600", "Bannock County / ZIP 83202 sector", "Bannock County / primary ZIP 83202", "Bannock County / elevation 4472 ft band"]
+zillowHomeValueUsd: 391643
 ---
 
 **Engineering Notice for Chubbuck:** Structural loading calculated based on 4472 ft terrain assessment. Regional dispatch grid: Bannock County.

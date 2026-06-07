@@ -12,6 +12,7 @@ lng: -85.9800
 zipSample: ["47124"]
 zipCodes: ["47124"]
 localPaths: ["Floyd County / elevation 873 ft band", "Floyd County / coords 38.3700, -85.9800", "Floyd County / ZIP 47124 sector", "Floyd County / primary ZIP 47124"]
+zillowHomeValueUsd: 342938
 ---
 
 **Engineering Notice for Greenville:** Structural integrity verification: Facade Renewal calibrated for 103 mph localized wind load factor. Coordinates: 38.3700, -85.9800. Regional dispatch grid: Floyd County.

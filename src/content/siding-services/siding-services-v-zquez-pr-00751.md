@@ -12,6 +12,8 @@ lng: -66.2300
 zipSample: ["00751"]
 zipCodes: ["00751"]
 localPaths: ["Salinas County / coords 18.0700, -66.2300", "Salinas County / ZIP 00751 sector", "Salinas County / elevation 709 ft band", "Salinas County / primary ZIP 00751"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 378286
 ---
 
 **Engineering Notice for Vázquez:** Structural integrity verification: Exterior Cladding calibrated for 90 mph localized wind load factor. Elevation: 709 ft AMSL. Regional dispatch grid: Salinas County.

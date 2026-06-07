@@ -12,6 +12,7 @@ lng: -122.2500
 zipSample: ["98028"]
 zipCodes: ["98028"]
 localPaths: ["King County / coords 47.7500, -122.2500", "King County / ZIP 98028 sector", "King County / elevation 62 ft band", "King County / primary ZIP 98028"]
+zillowHomeValueUsd: 1047741
 ---
 
 **Engineering Notice for Kenmore:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: King County.

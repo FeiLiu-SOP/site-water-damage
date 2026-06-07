@@ -12,6 +12,7 @@ lng: -98.6000
 zipSample: ["68883"]
 zipCodes: ["68883"]
 localPaths: ["Hall County / ZIP 68883 sector", "Hall County / coords 40.8200, -98.6000", "Hall County / primary ZIP 68883", "Hall County / elevation 1982 ft band"]
+zillowHomeValueUsd: 257973
 ---
 
 **Engineering Notice for Wood River:** System optimized for 140 mg/L hard water scaling factors in Wood River. Regional dispatch grid: Hall County.

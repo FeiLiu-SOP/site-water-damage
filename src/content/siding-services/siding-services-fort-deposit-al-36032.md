@@ -12,6 +12,7 @@ lng: -86.5700
 zipSample: ["36032"]
 zipCodes: ["36032"]
 localPaths: ["Lowndes County / ZIP 36032 sector", "Lowndes County / elevation 482 ft band", "Lowndes County / coords 31.9900, -86.5700", "Lowndes County / primary ZIP 36032"]
+zillowHomeValueUsd: 135885
 ---
 
 **Engineering Notice for Fort Deposit:** Site context locked to Lowndes County. Coordinates: 31.9900, -86.5700. Exterior Cladding integrity verification recorded.

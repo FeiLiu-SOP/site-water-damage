@@ -12,6 +12,7 @@ lng: -95.5100
 zipSample: ["77384", "77380", "77382", "77381", "77389"]
 zipCodes: ["77381", "77384", "77389", "77393", "77380", "77382"]
 localPaths: ["Montgomery County / ZIP 77381 sector", "Montgomery County / ZIP 77384 sector", "Montgomery County / ZIP 77380 sector", "Montgomery County / ZIP 77389 sector", "Montgomery County / primary ZIP 77381"]
+zillowHomeValueUsd: 573758
 ---
 
 **Engineering Notice for The Woodlands:** Structural loading calculated based on 194 ft terrain assessment. Regional dispatch grid: Montgomery County.

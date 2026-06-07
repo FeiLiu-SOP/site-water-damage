@@ -11,6 +11,7 @@ lng: -96.9600
 zipSample: ["75104", "75106"]
 zipCodes: ["75106", "75104"]
 localPaths: ["Dallas County / primary ZIP 75104", "Dallas County / ZIP 75104 sector", "Dallas County / ZIP 75106 sector", "Dallas County / elevation 810 ft band", "Dallas County / coords 32.5800, -96.9600"]
+zillowHomeValueUsd: 310995
 ---
 
 **Engineering Notice for Cedar Hill:** Structural loading calculated based on 810 ft terrain assessment. Regional dispatch grid: Dallas County.

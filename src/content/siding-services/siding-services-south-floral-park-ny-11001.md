@@ -12,6 +12,7 @@ lng: -73.7000
 zipSample: ["11001"]
 zipCodes: ["11001"]
 localPaths: ["Nassau County / primary ZIP 11001", "Nassau County / elevation 72 ft band", "Nassau County / ZIP 11001 sector", "Nassau County / coords 40.7100, -73.7000"]
+zillowHomeValueUsd: 850881
 ---
 
 **Engineering Notice for South Floral Park:** Envelope check: Panel Replacement assigned to wind-load band C with stress factor 0.99. Regional dispatch grid: Nassau County.

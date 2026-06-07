@@ -12,6 +12,7 @@ lng: -90.4100
 zipSample: ["39154"]
 zipCodes: ["39154"]
 localPaths: ["Hinds County / primary ZIP 39154", "Hinds County / ZIP 39154 sector", "Hinds County / elevation 318 ft band", "Hinds County / coords 32.2600, -90.4100"]
+zillowHomeValueUsd: 257601
 ---
 
 **Engineering Notice for Raymond:** System optimized for 124 mg/L hard water scaling factors in Raymond. Regional dispatch grid: Hinds County.

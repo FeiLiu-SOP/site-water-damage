@@ -12,6 +12,7 @@ lng: -78.0400
 zipSample: ["28333"]
 zipCodes: ["28333"]
 localPaths: ["Wayne County / coords 35.2700, -78.0400", "Wayne County / ZIP 28333 sector", "Wayne County / primary ZIP 28333", "Wayne County / elevation 177 ft band"]
+zillowHomeValueUsd: 135141
 ---
 
 **Engineering Notice for Dudley:** System optimized for 162 mg/L hard water scaling factors in Dudley. Regional dispatch grid: Wayne County.

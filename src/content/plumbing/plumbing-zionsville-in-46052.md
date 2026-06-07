@@ -12,6 +12,7 @@ lng: -86.3200
 zipSample: ["46075", "46077", "46052"]
 zipCodes: ["46075", "46052", "46077"]
 localPaths: ["Boone County / ZIP 46052 sector", "Boone County / coords 39.9900, -86.3200", "Boone County / ZIP 46075 sector", "Boone County / primary ZIP 46052", "Boone County / ZIP 46077 sector"]
+zillowHomeValueUsd: 295205
 ---
 
 **Engineering Notice for Zionsville:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Boone County.

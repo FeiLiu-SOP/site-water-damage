@@ -12,6 +12,7 @@ lng: -120.5000
 zipSample: ["96114"]
 zipCodes: ["96114"]
 localPaths: ["Lassen County / elevation 4144 ft band", "Lassen County / ZIP 96114 sector", "Lassen County / coords 40.3000, -120.5000", "Lassen County / primary ZIP 96114"]
+zillowHomeValueUsd: 312138
 ---
 
 **Engineering Notice for Janesville:** Site context locked to Lassen County. Elevation: 4144 ft AMSL. Cladding Retrofit integrity verification recorded.

@@ -12,6 +12,8 @@ lng: -100.6600
 zipSample: ["57555"]
 zipCodes: ["57555"]
 localPaths: ["Todd County / elevation 2579 ft band", "Todd County / coords 43.3100, -100.6600", "Todd County / ZIP 57555 sector", "Todd County / primary ZIP 57555"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 308786
 ---
 
 **Engineering Notice for Mission:** System optimized for 160 mg/L hard water scaling factors in Mission. Regional dispatch grid: Todd County.

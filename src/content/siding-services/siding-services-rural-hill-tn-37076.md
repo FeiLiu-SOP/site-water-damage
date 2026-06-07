@@ -12,6 +12,7 @@ lng: -86.5100
 zipSample: ["37076", "37122"]
 zipCodes: ["37122", "37076"]
 localPaths: ["Wilson County / primary ZIP 37076", "Wilson County / ZIP 37122 sector", "Wilson County / elevation 577 ft band", "Wilson County / ZIP 37076 sector", "Wilson County / coords 36.1200, -86.5100"]
+zillowHomeValueUsd: 404795
 ---
 
 **Engineering Notice for Rural Hill:** Structural integrity verification: Panel Replacement calibrated for 98 mph localized wind load factor. Regional dispatch grid: Wilson County.

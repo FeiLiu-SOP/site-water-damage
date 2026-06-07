@@ -12,6 +12,7 @@ lng: -85.8500
 zipSample: ["49065"]
 zipCodes: ["49065"]
 localPaths: ["Van Buren County / primary ZIP 49065", "Van Buren County / ZIP 49065 sector", "Van Buren County / elevation 804 ft band", "Van Buren County / coords 42.1700, -85.8500"]
+zillowHomeValueUsd: 280593
 ---
 
 **Engineering Notice for Lawton:** Site context locked to Van Buren County. Elevation: 804 ft AMSL. Panel Replacement integrity verification recorded.

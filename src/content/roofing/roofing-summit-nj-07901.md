@@ -11,6 +11,7 @@ lng: -74.3600
 zipSample: ["07902", "07901"]
 zipCodes: ["07902", "07901"]
 localPaths: ["Union County / ZIP 07902 sector", "Union County / elevation 390 ft band", "Union County / coords 40.7200, -74.3600", "Union County / ZIP 07901 sector", "Union County / primary ZIP 07901"]
+zillowHomeValueUsd: 1360970
 ---
 
 **Engineering Notice for Summit:** Structural loading calculated based on 390 ft terrain assessment. Regional dispatch grid: Union County.

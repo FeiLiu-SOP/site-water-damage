@@ -12,6 +12,7 @@ lng: -85.5300
 zipSample: ["49649"]
 zipCodes: ["49649"]
 localPaths: ["Grand Traverse County / elevation 981 ft band", "Grand Traverse County / coords 44.5800, -85.5300", "Grand Traverse County / ZIP 49649 sector", "Grand Traverse County / primary ZIP 49649"]
+zillowHomeValueUsd: 342793
 ---
 
 **Engineering Notice for Kingsley:** System optimized for 174 mg/L hard water scaling factors in Kingsley. Regional dispatch grid: Grand Traverse County.

@@ -12,6 +12,7 @@ lng: -89.8700
 zipSample: ["39114"]
 zipCodes: ["39114"]
 localPaths: ["Simpson County / coords 31.9600, -89.8700", "Simpson County / primary ZIP 39114", "Simpson County / elevation 331 ft band", "Simpson County / ZIP 39114 sector"]
+zillowHomeValueUsd: 155452
 ---
 
 **Engineering Notice for Mendenhall:** System optimized for 167 mg/L hard water scaling factors in Mendenhall. Regional dispatch grid: Simpson County.

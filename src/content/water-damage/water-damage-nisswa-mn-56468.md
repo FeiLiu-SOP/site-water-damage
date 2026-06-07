@@ -12,6 +12,7 @@ lng: -94.3000
 zipSample: ["56468"]
 zipCodes: ["56468"]
 localPaths: ["Crow Wing County / elevation 1234 ft band", "Crow Wing County / primary ZIP 56468", "Crow Wing County / coords 46.5000, -94.3000", "Crow Wing County / ZIP 56468 sector"]
+zillowHomeValueUsd: 605764
 ---
 
 **Engineering Notice for Nisswa:** structural drying capacity optimized for 1234ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Crow Wing County. Relative Humidity Threshold: 84%. Sensor sync: Active.

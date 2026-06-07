@@ -12,6 +12,7 @@ lng: -94.0800
 zipSample: ["55307"]
 zipCodes: ["55307"]
 localPaths: ["Sibley County / coords 44.6100, -94.0800", "Sibley County / primary ZIP 55307", "Sibley County / elevation 991 ft band", "Sibley County / ZIP 55307 sector"]
+zillowHomeValueUsd: 269466
 ---
 
 **Engineering Notice for Arlington:** Surface Sheathing was validated under stress factor 0.97; target tolerance set near 102 mph. Grid anchor: Sibley County.

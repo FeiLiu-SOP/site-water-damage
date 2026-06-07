@@ -12,6 +12,7 @@ lng: -95.3100
 zipSample: ["74469"]
 zipCodes: ["74469"]
 localPaths: ["Muskogee County / coords 35.4900, -95.3100", "Muskogee County / elevation 574 ft band", "Muskogee County / primary ZIP 74469", "Muskogee County / ZIP 74469 sector"]
+zillowHomeValueUsd: 167507
 ---
 
 **Engineering Notice for Warner:** System optimized for 131 mg/L hard water scaling factors in Warner. Regional dispatch grid: Muskogee County.

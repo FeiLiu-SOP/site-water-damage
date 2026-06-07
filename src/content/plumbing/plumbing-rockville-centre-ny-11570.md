@@ -12,6 +12,7 @@ lng: -73.6400
 zipSample: ["11570", "11571"]
 zipCodes: ["11570", "11571"]
 localPaths: ["Nassau County / ZIP 11570 sector", "Nassau County / coords 40.6600, -73.6400", "Nassau County / ZIP 11571 sector", "Nassau County / primary ZIP 11570", "Nassau County / elevation 39 ft band"]
+zillowHomeValueUsd: 962648
 ---
 
 **Engineering Notice for Rockville Centre:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Nassau County.

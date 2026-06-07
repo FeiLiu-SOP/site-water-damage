@@ -12,6 +12,7 @@ lng: -78.7000
 zipSample: ["14043"]
 zipCodes: ["14043"]
 localPaths: ["Erie County / elevation 679 ft band", "Erie County / primary ZIP 14043", "Erie County / ZIP 14043 sector", "Erie County / coords 42.9100, -78.7000"]
+zillowHomeValueUsd: 260992
 ---
 
 **Engineering Notice for Depew:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: Erie County.

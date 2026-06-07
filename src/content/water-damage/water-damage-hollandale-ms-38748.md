@@ -12,6 +12,7 @@ lng: -90.8500
 zipSample: ["38748"]
 zipCodes: ["38748"]
 localPaths: ["Washington County / coords 33.1800, -90.8500", "Washington County / elevation 131 ft band", "Washington County / ZIP 38748 sector", "Washington County / primary ZIP 38748"]
+zillowHomeValueUsd: 60656
 ---
 
 **Engineering Notice for Hollandale:** structural drying capacity optimized for 131ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 66%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -73.0400
 zipSample: ["05765"]
 zipCodes: ["05765"]
 localPaths: ["Rutland County / coords 43.6700, -73.0400", "Rutland County / primary ZIP 05765", "Rutland County / elevation 479 ft band", "Rutland County / ZIP 05765 sector"]
+zillowHomeValueUsd: 255391
 ---
 
 **Engineering Notice for Proctor:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 0.91. Elevation: 479 ft AMSL. Regional dispatch grid: Rutland County.

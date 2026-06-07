@@ -11,6 +11,7 @@ lng: -75.1800
 zipSample: ["08865"]
 zipCodes: ["08865"]
 localPaths: ["Warren County / primary ZIP 08865", "Warren County / elevation 308 ft band", "Warren County / ZIP 08865 sector", "Warren County / coords 40.6900, -75.1800"]
+zillowHomeValueUsd: 336582
 ---
 
 **Engineering Notice for Phillipsburg:** Structural loading calculated based on 308 ft terrain assessment. Regional dispatch grid: Warren County.

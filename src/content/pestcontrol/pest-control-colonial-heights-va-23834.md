@@ -11,6 +11,7 @@ lng: -77.4000
 zipSample: ["23834"]
 zipCodes: ["23834"]
 localPaths: ["Colonial Heights County / primary ZIP 23834", "Colonial Heights County / coords 37.2700, -77.4000", "Colonial Heights County / elevation 69 ft band", "Colonial Heights County / ZIP 23834 sector"]
+zillowHomeValueUsd: 294246
 ---
 
 **Engineering Notice for Colonial Heights:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Colonial Heights County.

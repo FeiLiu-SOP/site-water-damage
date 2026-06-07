@@ -12,6 +12,7 @@ lng: -96.8700
 zipSample: ["67449"]
 zipCodes: ["67449"]
 localPaths: ["Morris County / ZIP 67449 sector", "Morris County / elevation 1411 ft band", "Morris County / coords 38.6900, -96.8700", "Morris County / primary ZIP 67449"]
+zillowHomeValueUsd: 96072
 ---
 
 **Engineering Notice for Herington:** Envelope check: Facade Renewal assigned to wind-load band B with stress factor 1.16. Elevation: 1411 ft AMSL. Regional dispatch grid: Morris County.

@@ -12,6 +12,7 @@ lng: -85.2600
 zipSample: ["47042"]
 zipCodes: ["47042"]
 localPaths: ["Ripley County / elevation 994 ft band", "Ripley County / ZIP 47042 sector", "Ripley County / primary ZIP 47042", "Ripley County / coords 39.0600, -85.2600"]
+zillowHomeValueUsd: 253841
 ---
 
 **Engineering Notice for Versailles:** System optimized for 171 mg/L hard water scaling factors in Versailles. Regional dispatch grid: Ripley County.

@@ -12,6 +12,7 @@ lng: -73.7100
 zipSample: ["11509", "11561"]
 zipCodes: ["11561", "11509"]
 localPaths: ["Nassau County / ZIP 11561 sector", "Nassau County / ZIP 11509 sector", "Nassau County / elevation 10 ft band", "Nassau County / coords 40.5900, -73.7100", "Nassau County / primary ZIP 11561"]
+zillowHomeValueUsd: 820900
 ---
 
 **Engineering Notice for East Atlantic Beach:** System optimized for 147 mg/L hard water scaling factors in East Atlantic Beach. Regional dispatch grid: Nassau County.

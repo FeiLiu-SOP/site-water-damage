@@ -11,6 +11,7 @@ lng: -81.7200
 zipSample: ["31548"]
 zipCodes: ["31548"]
 localPaths: ["Camden County / coords 30.8200, -81.7200", "Camden County / ZIP 31548 sector", "Camden County / primary ZIP 31548", "Camden County / elevation 62 ft band"]
+zillowHomeValueUsd: 297367
 ---
 
 **Engineering Notice for Kingsland:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Camden County.

@@ -12,6 +12,7 @@ lng: -84.8600
 zipSample: ["37381"]
 zipCodes: ["37381"]
 localPaths: ["Rhea County / elevation 758 ft band", "Rhea County / ZIP 37381 sector", "Rhea County / primary ZIP 37381", "Rhea County / coords 35.6900, -84.8600"]
+zillowHomeValueUsd: 261592
 ---
 
 **Engineering Notice for Spring City:** System optimized for 152 mg/L hard water scaling factors in Spring City. Regional dispatch grid: Rhea County.

@@ -11,6 +11,7 @@ lng: -77.0800
 zipSample: ["20906", "20853", "20908", "20897", "20916"]
 zipCodes: ["20908", "20906", "20853", "20916", "20897"]
 localPaths: ["Montgomery County / ZIP 20916 sector", "Montgomery County / primary ZIP 20853", "Montgomery County / ZIP 20853 sector", "Montgomery County / elevation 440 ft band", "Montgomery County / coords 39.0900, -77.0800"]
+zillowHomeValueUsd: 636802
 ---
 
 **Engineering Notice for Aspen Hill:** Structural loading calculated based on 440 ft terrain assessment. Regional dispatch grid: Montgomery County.

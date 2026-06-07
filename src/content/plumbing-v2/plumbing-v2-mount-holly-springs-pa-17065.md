@@ -12,6 +12,7 @@ lng: -77.1900
 zipSample: ["17065"]
 zipCodes: ["17065"]
 localPaths: ["Cumberland County / primary ZIP 17065", "Cumberland County / ZIP 17065 sector", "Cumberland County / elevation 574 ft band", "Cumberland County / coords 40.1100, -77.1900"]
+zillowHomeValueUsd: 283059
 ---
 
 **Engineering Notice for Mount Holly Springs:** System optimized for 130 mg/L hard water scaling factors in Mount Holly Springs. Regional dispatch grid: Cumberland County.

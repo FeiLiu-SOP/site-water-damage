@@ -12,6 +12,7 @@ lng: -91.3600
 zipSample: ["54630"]
 zipCodes: ["54630"]
 localPaths: ["Trempealeau County / primary ZIP 54630", "Trempealeau County / coords 44.0800, -91.3600", "Trempealeau County / ZIP 54630 sector", "Trempealeau County / elevation 751 ft band"]
+zillowHomeValueUsd: 306488
 ---
 
 **Engineering Notice for Galesville:** System optimized for 171 mg/L hard water scaling factors in Galesville. Regional dispatch grid: Trempealeau County.

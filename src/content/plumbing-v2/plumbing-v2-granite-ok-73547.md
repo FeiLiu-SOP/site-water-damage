@@ -12,6 +12,7 @@ lng: -99.3700
 zipSample: ["73547"]
 zipCodes: ["73547"]
 localPaths: ["Greer County / coords 34.9600, -99.3700", "Greer County / primary ZIP 73547", "Greer County / elevation 1608 ft band", "Greer County / ZIP 73547 sector"]
+zillowHomeValueUsd: 92474
 ---
 
 **Engineering Notice for Granite:** System optimized for 142 mg/L hard water scaling factors in Granite. Regional dispatch grid: Greer County.

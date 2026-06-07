@@ -12,6 +12,7 @@ lng: -83.3300
 zipSample: ["31031"]
 zipCodes: ["31031"]
 localPaths: ["Wilkinson County / elevation 381 ft band", "Wilkinson County / primary ZIP 31031", "Wilkinson County / ZIP 31031 sector", "Wilkinson County / coords 32.8900, -83.3300"]
+zillowHomeValueUsd: 143160
 ---
 
 **Engineering Notice for Gordon:** structural drying capacity optimized for 381ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wilkinson County. Relative Humidity Threshold: 70%. Sensor sync: Active.

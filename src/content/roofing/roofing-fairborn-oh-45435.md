@@ -11,6 +11,7 @@ lng: -84.0100
 zipSample: ["45324", "45435"]
 zipCodes: ["45435", "45324"]
 localPaths: ["Greene County / ZIP 45324 sector", "Greene County / elevation 863 ft band", "Greene County / ZIP 45435 sector", "Greene County / primary ZIP 45435", "Greene County / coords 39.8000, -84.0100"]
+zillowHomeValueUsd: 202781
 ---
 
 **Engineering Notice for Fairborn:** Structural loading calculated based on 863 ft terrain assessment. Regional dispatch grid: Greene County.

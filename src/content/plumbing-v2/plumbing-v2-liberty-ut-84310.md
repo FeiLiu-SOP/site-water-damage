@@ -12,6 +12,7 @@ lng: -111.8600
 zipSample: ["84310"]
 zipCodes: ["84310"]
 localPaths: ["Weber County / coords 41.3400, -111.8600", "Weber County / primary ZIP 84310", "Weber County / ZIP 84310 sector", "Weber County / elevation 5171 ft band"]
+zillowHomeValueUsd: 844600
 ---
 
 **Engineering Notice for Liberty:** System optimized for 137 mg/L hard water scaling factors in Liberty. Regional dispatch grid: Weber County.

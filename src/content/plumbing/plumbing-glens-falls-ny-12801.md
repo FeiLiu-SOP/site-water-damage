@@ -12,6 +12,7 @@ lng: -73.6500
 zipSample: ["12801"]
 zipCodes: ["12801"]
 localPaths: ["Warren County / ZIP 12801 sector", "Warren County / primary ZIP 12801", "Warren County / elevation 344 ft band", "Warren County / coords 43.3100, -73.6500"]
+zillowHomeValueUsd: 265240
 ---
 
 **Engineering Notice for Glens Falls:** Structural loading calculated based on 344 ft terrain assessment. Regional dispatch grid: Warren County.

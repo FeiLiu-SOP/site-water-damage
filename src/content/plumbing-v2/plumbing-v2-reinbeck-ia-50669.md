@@ -12,6 +12,7 @@ lng: -92.5900
 zipSample: ["50669"]
 zipCodes: ["50669"]
 localPaths: ["Grundy County / primary ZIP 50669", "Grundy County / ZIP 50669 sector", "Grundy County / coords 42.3200, -92.5900", "Grundy County / elevation 942 ft band"]
+zillowHomeValueUsd: 189213
 ---
 
 **Engineering Notice for Reinbeck:** System optimized for 141 mg/L hard water scaling factors in Reinbeck. Regional dispatch grid: Grundy County.

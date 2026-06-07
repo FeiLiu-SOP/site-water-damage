@@ -12,6 +12,7 @@ lng: -82.6000
 zipSample: ["44846"]
 zipCodes: ["44846"]
 localPaths: ["Erie County / ZIP 44846 sector", "Erie County / coords 41.2900, -82.6000", "Erie County / primary ZIP 44846", "Erie County / elevation 676 ft band"]
+zillowHomeValueUsd: 280119
 ---
 
 **Engineering Notice for Milan:** Cladding verification uses 91 mph routing baseline; lateral pressure note: 12.1 psf. Grid: Erie County.

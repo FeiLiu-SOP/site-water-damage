@@ -11,6 +11,7 @@ lng: -82.1100
 zipSample: ["44036", "44035"]
 zipCodes: ["44035", "44036"]
 localPaths: ["Lorain County / coords 41.3800, -82.1100", "Lorain County / primary ZIP 44035", "Lorain County / ZIP 44036 sector", "Lorain County / ZIP 44035 sector", "Lorain County / elevation 719 ft band"]
+zillowHomeValueUsd: 182817
 ---
 
 **Engineering Notice for Elyria:** Structural loading calculated based on 719 ft terrain assessment. Regional dispatch grid: Lorain County.

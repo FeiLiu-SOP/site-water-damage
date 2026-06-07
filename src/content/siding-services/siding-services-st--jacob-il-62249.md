@@ -12,6 +12,7 @@ lng: -89.7700
 zipSample: ["62281", "62249"]
 zipCodes: ["62281", "62249"]
 localPaths: ["Madison County / primary ZIP 62249", "Madison County / coords 38.7200, -89.7700", "Madison County / ZIP 62281 sector", "Madison County / ZIP 62249 sector", "Madison County / elevation 512 ft band"]
+zillowHomeValueUsd: 266216
 ---
 
 **Engineering Notice for St. Jacob:** Site context locked to Madison County. Elevation: 512 ft AMSL. Coordinates: 38.7200, -89.7700. Exterior Envelope integrity verification recorded.

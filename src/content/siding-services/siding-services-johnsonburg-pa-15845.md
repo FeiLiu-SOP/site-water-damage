@@ -12,6 +12,7 @@ lng: -78.6800
 zipSample: ["15845"]
 zipCodes: ["15845"]
 localPaths: ["Elk County / primary ZIP 15845", "Elk County / ZIP 15845 sector", "Elk County / elevation 1444 ft band", "Elk County / coords 41.4900, -78.6800"]
+zillowHomeValueUsd: 81210
 ---
 
 **Engineering Notice for Johnsonburg:** Structural integrity verification: Wall Restoration calibrated for 108 mph localized wind load factor. Coordinates: 41.4900, -78.6800. Regional dispatch grid: Elk County.

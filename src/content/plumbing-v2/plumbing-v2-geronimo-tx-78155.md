@@ -12,6 +12,7 @@ lng: -97.9700
 zipSample: ["78155"]
 zipCodes: ["78155"]
 localPaths: ["Guadalupe County / elevation 587 ft band", "Guadalupe County / coords 29.6700, -97.9700", "Guadalupe County / ZIP 78155 sector", "Guadalupe County / primary ZIP 78155"]
+zillowHomeValueUsd: 272107
 ---
 
 **Engineering Notice for Geronimo:** System optimized for 178 mg/L hard water scaling factors in Geronimo. Regional dispatch grid: Guadalupe County.

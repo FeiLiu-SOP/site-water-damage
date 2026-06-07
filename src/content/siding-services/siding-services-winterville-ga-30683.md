@@ -12,6 +12,7 @@ lng: -83.2800
 zipSample: ["30683"]
 zipCodes: ["30683"]
 localPaths: ["Clarke County / elevation 801 ft band", "Clarke County / coords 33.9700, -83.2800", "Clarke County / primary ZIP 30683", "Clarke County / ZIP 30683 sector"]
+zillowHomeValueUsd: 330864
 ---
 
 **Engineering Notice for Winterville:** Structural integrity verification: Wall Restoration calibrated for 101 mph localized wind load factor. Regional dispatch grid: Clarke County.

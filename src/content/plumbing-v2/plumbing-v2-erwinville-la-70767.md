@@ -12,6 +12,7 @@ lng: -91.3900
 zipSample: ["70767"]
 zipCodes: ["70767"]
 localPaths: ["West Baton Rouge Parish / elevation 36 ft band", "West Baton Rouge Parish / ZIP 70767 sector", "West Baton Rouge Parish / coords 30.5400, -91.3900", "West Baton Rouge Parish / primary ZIP 70767"]
+zillowHomeValueUsd: 214032
 ---
 
 **Engineering Notice for Erwinville:** System optimized for 164 mg/L hard water scaling factors in Erwinville. Regional dispatch grid: West Baton Rouge Parish.

@@ -12,6 +12,7 @@ lng: -88.7800
 zipSample: ["61753"]
 zipCodes: ["61753"]
 localPaths: ["McLean County / coords 40.6500, -88.7800", "McLean County / primary ZIP 61753", "McLean County / elevation 748 ft band", "McLean County / ZIP 61753 sector"]
+zillowHomeValueUsd: 228868
 ---
 
 **Engineering Notice for Lexington:** System optimized for 144 mg/L hard water scaling factors in Lexington. Regional dispatch grid: McLean County.

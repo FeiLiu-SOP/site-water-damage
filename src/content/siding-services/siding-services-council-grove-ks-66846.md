@@ -12,6 +12,7 @@ lng: -96.4900
 zipSample: ["66846"]
 zipCodes: ["66846"]
 localPaths: ["Morris County / elevation 1250 ft band", "Morris County / ZIP 66846 sector", "Morris County / primary ZIP 66846", "Morris County / coords 38.6600, -96.4900"]
+zillowHomeValueUsd: 213969
 ---
 
 **Engineering Notice for Council Grove:** Site context locked to Morris County. Elevation: 1250 ft AMSL. Wall Restoration integrity verification recorded.

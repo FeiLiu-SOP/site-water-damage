@@ -12,6 +12,7 @@ lng: -80.1700
 zipSample: ["33280", "33160", "33162"]
 zipCodes: ["33280", "33162", "33160"]
 localPaths: ["Miami-Dade County / ZIP 33162 sector", "Miami-Dade County / ZIP 33160 sector", "Miami-Dade County / coords 25.9300, -80.1700", "Miami-Dade County / elevation 36 ft band", "Miami-Dade County / ZIP 33280 sector"]
+zillowHomeValueUsd: 463918
 ---
 
 **Engineering Notice for North Miami Beach:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

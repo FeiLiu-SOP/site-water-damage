@@ -12,6 +12,7 @@ lng: -82.0800
 zipSample: ["45732"]
 zipCodes: ["45732"]
 localPaths: ["Athens County / ZIP 45732 sector", "Athens County / elevation 692 ft band", "Athens County / primary ZIP 45732", "Athens County / coords 39.5000, -82.0800"]
+zillowHomeValueUsd: 105472
 ---
 
 **Engineering Notice for Glouster:** structural drying capacity optimized for 692ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Athens County. Relative Humidity Threshold: 66%. Sensor sync: Active.

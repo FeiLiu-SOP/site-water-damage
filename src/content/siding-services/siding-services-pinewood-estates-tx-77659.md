@@ -12,6 +12,7 @@ lng: -94.3200
 zipSample: ["77659"]
 zipCodes: ["77659"]
 localPaths: ["Hardin County / primary ZIP 77659", "Hardin County / elevation 62 ft band", "Hardin County / coords 30.1700, -94.3200", "Hardin County / ZIP 77659 sector"]
+zillowHomeValueUsd: 269159
 ---
 
 **Engineering Notice for Pinewood Estates:** Cladding Service was validated under stress factor 1.15; target tolerance set near 148 mph. Grid anchor: Hardin County.

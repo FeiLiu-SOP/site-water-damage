@@ -12,6 +12,7 @@ lng: -89.0500
 zipSample: ["53932"]
 zipCodes: ["53932"]
 localPaths: ["Columbia County / coords 43.3900, -89.0500", "Columbia County / elevation 860 ft band", "Columbia County / ZIP 53932 sector", "Columbia County / primary ZIP 53932"]
+zillowHomeValueUsd: 353724
 ---
 
 **Engineering Notice for Fall River:** Cladding verification uses 101 mph routing baseline; lateral pressure note: 13.3 psf. Elevation: 860 ft AMSL. Grid: Columbia County.

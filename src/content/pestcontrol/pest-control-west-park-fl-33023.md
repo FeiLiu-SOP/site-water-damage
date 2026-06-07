@@ -11,6 +11,7 @@ lng: -80.1900
 zipSample: ["33023"]
 zipCodes: ["33023"]
 localPaths: ["Broward County / elevation 30 ft band", "Broward County / ZIP 33023 sector", "Broward County / primary ZIP 33023", "Broward County / coords 25.9800, -80.1900"]
+zillowHomeValueUsd: 450433
 ---
 
 **Engineering Notice for West Park:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Broward County.

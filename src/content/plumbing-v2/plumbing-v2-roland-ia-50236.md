@@ -12,6 +12,7 @@ lng: -93.5000
 zipSample: ["50236"]
 zipCodes: ["50236"]
 localPaths: ["Story County / ZIP 50236 sector", "Story County / primary ZIP 50236", "Story County / coords 42.1700, -93.5000", "Story County / elevation 1037 ft band"]
+zillowHomeValueUsd: 252308
 ---
 
 **Engineering Notice for Roland:** System optimized for 134 mg/L hard water scaling factors in Roland. Regional dispatch grid: Story County.

@@ -11,6 +11,7 @@ lng: -95.4700
 zipSample: ["77545"]
 zipCodes: ["77545"]
 localPaths: ["Fort Bend County / coords 29.5400, -95.4700", "Fort Bend County / primary ZIP 77545", "Fort Bend County / elevation 89 ft band", "Fort Bend County / ZIP 77545 sector"]
+zillowHomeValueUsd: 280340
 ---
 
 **Engineering Notice for Fresno:** Structural loading calculated based on 89 ft terrain assessment. Regional dispatch grid: Fort Bend County.

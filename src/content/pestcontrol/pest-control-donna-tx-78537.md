@@ -11,6 +11,7 @@ lng: -98.0600
 zipSample: ["78537"]
 zipCodes: ["78537"]
 localPaths: ["Hidalgo County / coords 26.1500, -98.0600", "Hidalgo County / primary ZIP 78537", "Hidalgo County / ZIP 78537 sector", "Hidalgo County / elevation 105 ft band"]
+zillowHomeValueUsd: 152965
 ---
 
 **Engineering Notice for Donna:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Hidalgo County.

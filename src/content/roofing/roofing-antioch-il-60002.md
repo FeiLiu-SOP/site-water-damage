@@ -11,6 +11,7 @@ lng: -88.0700
 zipSample: ["60002"]
 zipCodes: ["60002"]
 localPaths: ["Lake County / elevation 787 ft band", "Lake County / primary ZIP 60002", "Lake County / ZIP 60002 sector", "Lake County / coords 42.4700, -88.0700"]
+zillowHomeValueUsd: 344756
 ---
 
 **Engineering Notice for Antioch:** Structural loading calculated based on 787 ft terrain assessment. Regional dispatch grid: Lake County.

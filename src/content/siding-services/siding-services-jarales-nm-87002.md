@@ -12,6 +12,7 @@ lng: -106.7600
 zipSample: ["87002", "87023"]
 zipCodes: ["87023", "87002"]
 localPaths: ["Valencia County / primary ZIP 87002", "Valencia County / ZIP 87023 sector", "Valencia County / coords 34.6100, -106.7600", "Valencia County / elevation 4797 ft band", "Valencia County / ZIP 87002 sector"]
+zillowHomeValueUsd: 267506
 ---
 
 **Engineering Notice for Jarales:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Elevation: 4797 ft AMSL. Grid: Valencia County.

@@ -12,6 +12,7 @@ lng: -98.5800
 zipSample: ["67104"]
 zipCodes: ["67104"]
 localPaths: ["Barber County / primary ZIP 67104", "Barber County / ZIP 67104 sector", "Barber County / coords 37.2900, -98.5800", "Barber County / elevation 1506 ft band"]
+zillowHomeValueUsd: 94500
 ---
 
 **Engineering Notice for Medicine Lodge:** System optimized for 165 mg/L hard water scaling factors in Medicine Lodge. Regional dispatch grid: Barber County.

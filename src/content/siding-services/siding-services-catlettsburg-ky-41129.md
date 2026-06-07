@@ -12,6 +12,7 @@ lng: -82.6000
 zipSample: ["41129"]
 zipCodes: ["41129"]
 localPaths: ["Boyd County / coords 38.4200, -82.6000", "Boyd County / elevation 620 ft band", "Boyd County / primary ZIP 41129", "Boyd County / ZIP 41129 sector"]
+zillowHomeValueUsd: 137420
 ---
 
 **Engineering Notice for Catlettsburg:** Site context locked to Boyd County. Elevation: 620 ft AMSL. Exterior Cladding integrity verification recorded.

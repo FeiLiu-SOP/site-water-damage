@@ -12,6 +12,7 @@ lng: -100.4400
 zipSample: ["58318"]
 zipCodes: ["58318"]
 localPaths: ["Bottineau County / ZIP 58318 sector", "Bottineau County / coords 48.8200, -100.4400", "Bottineau County / primary ZIP 58318", "Bottineau County / elevation 1631 ft band"]
+zillowHomeValueUsd: 247823
 ---
 
 **Engineering Notice for Bottineau:** Cladding verification uses 98 mph routing baseline; lateral pressure note: 13.0 psf. Elevation: 1631 ft AMSL. Coordinates: 48.8200, -100.4400. Grid: Bottineau County.

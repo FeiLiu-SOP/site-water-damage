@@ -12,6 +12,7 @@ lng: -73.5600
 zipSample: ["12901", "12962"]
 zipCodes: ["12962", "12901"]
 localPaths: ["Clinton County / primary ZIP 12901", "Clinton County / ZIP 12901 sector", "Clinton County / elevation 335 ft band", "Clinton County / coords 44.6900, -73.5600", "Clinton County / ZIP 12962 sector"]
+zillowHomeValueUsd: 243771
 ---
 
 **Engineering Notice for Morrisonville:** structural drying capacity optimized for 335ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clinton County. Relative Humidity Threshold: 69%. Sensor sync: Active.

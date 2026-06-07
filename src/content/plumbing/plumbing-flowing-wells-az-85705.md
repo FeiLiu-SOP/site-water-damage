@@ -12,6 +12,7 @@ lng: -111.0100
 zipSample: ["85705"]
 zipCodes: ["85705"]
 localPaths: ["Pima County / elevation 2270 ft band", "Pima County / primary ZIP 85705", "Pima County / ZIP 85705 sector", "Pima County / coords 32.2900, -111.0100"]
+zillowHomeValueUsd: 254278
 ---
 
 **Engineering Notice for Flowing Wells:** Structural loading calculated based on 2270 ft terrain assessment. Regional dispatch grid: Pima County.

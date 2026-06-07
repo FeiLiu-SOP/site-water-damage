@@ -12,6 +12,7 @@ lng: -89.1300
 zipSample: ["61369"]
 zipCodes: ["61369"]
 localPaths: ["Marshall County / coords 41.0000, -89.1300", "Marshall County / elevation 696 ft band", "Marshall County / primary ZIP 61369", "Marshall County / ZIP 61369 sector"]
+zillowHomeValueUsd: 109374
 ---
 
 **Engineering Notice for Toluca:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 1.18. Regional dispatch grid: Marshall County.

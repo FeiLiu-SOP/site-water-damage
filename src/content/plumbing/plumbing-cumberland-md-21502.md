@@ -12,6 +12,7 @@ lng: -78.7600
 zipSample: ["21504", "21505", "21503", "21502", "21501"]
 zipCodes: ["21502", "21505", "21501", "21504", "21503"]
 localPaths: ["Allegany County / coords 39.6500, -78.7600", "Allegany County / ZIP 21502 sector", "Allegany County / primary ZIP 21502", "Allegany County / ZIP 21503 sector", "Allegany County / ZIP 21501 sector"]
+zillowHomeValueUsd: 151241
 ---
 
 **Engineering Notice for Cumberland:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Allegany County.

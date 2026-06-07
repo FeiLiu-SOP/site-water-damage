@@ -11,6 +11,7 @@ lng: -116.5600
 zipSample: ["83687", "83686", "83651"]
 zipCodes: ["83687", "83686", "83651"]
 localPaths: ["Canyon County / ZIP 83651 sector", "Canyon County / elevation 2490 ft band", "Canyon County / coords 43.5800, -116.5600", "Canyon County / primary ZIP 83651", "Canyon County / ZIP 83686 sector"]
+zillowHomeValueUsd: 375678
 ---
 
 **Engineering Notice for Nampa:** Structural loading calculated based on 2490 ft terrain assessment. Regional dispatch grid: Canyon County.

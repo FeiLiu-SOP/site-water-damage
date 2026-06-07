@@ -12,6 +12,7 @@ lng: -84.6700
 zipSample: ["32322"]
 zipCodes: ["32322"]
 localPaths: ["Franklin County / coords 29.8600, -84.6700", "Franklin County / elevation 46 ft band", "Franklin County / primary ZIP 32322", "Franklin County / ZIP 32322 sector"]
+zillowHomeValueUsd: 282230
 ---
 
 **Engineering Notice for Carrabelle:** Envelope check: Wall Restoration assigned to wind-load band C with stress factor 0.97. Elevation: 46 ft AMSL. Regional dispatch grid: Franklin County.

@@ -12,6 +12,7 @@ lng: -91.8400
 zipSample: ["71667"]
 zipCodes: ["71667"]
 localPaths: ["Lincoln County / primary ZIP 71667", "Lincoln County / elevation 289 ft band", "Lincoln County / coords 33.9400, -91.8400", "Lincoln County / ZIP 71667 sector"]
+zillowHomeValueUsd: 138506
 ---
 
 **Engineering Notice for Star City:** Site context locked to Lincoln County. Elevation: 289 ft AMSL. Coordinates: 33.9400, -91.8400. Cladding Retrofit integrity verification recorded.

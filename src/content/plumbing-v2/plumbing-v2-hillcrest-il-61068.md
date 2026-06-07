@@ -12,6 +12,7 @@ lng: -89.0600
 zipSample: ["61068"]
 zipCodes: ["61068"]
 localPaths: ["Ogle County / ZIP 61068 sector", "Ogle County / primary ZIP 61068", "Ogle County / coords 41.9700, -89.0600", "Ogle County / elevation 820 ft band"]
+zillowHomeValueUsd: 198194
 ---
 
 **Engineering Notice for Hillcrest:** System optimized for 160 mg/L hard water scaling factors in Hillcrest. Regional dispatch grid: Ogle County.

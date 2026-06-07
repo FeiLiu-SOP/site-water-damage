@@ -12,6 +12,7 @@ lng: -75.3800
 zipSample: ["19015"]
 zipCodes: ["19015"]
 localPaths: ["Delaware County / ZIP 19015 sector", "Delaware County / coords 39.8700, -75.3800", "Delaware County / primary ZIP 19015", "Delaware County / elevation 108 ft band"]
+zillowHomeValueUsd: 263624
 ---
 
 **Engineering Notice for Parkside:** System optimized for 121 mg/L hard water scaling factors in Parkside. Regional dispatch grid: Delaware County.

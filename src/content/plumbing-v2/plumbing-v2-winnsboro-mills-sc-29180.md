@@ -12,6 +12,7 @@ lng: -81.0700
 zipSample: ["29180"]
 zipCodes: ["29180"]
 localPaths: ["Fairfield County / ZIP 29180 sector", "Fairfield County / coords 34.3600, -81.0700", "Fairfield County / primary ZIP 29180", "Fairfield County / elevation 522 ft band"]
+zillowHomeValueUsd: 161377
 ---
 
 **Engineering Notice for Winnsboro Mills:** System optimized for 139 mg/L hard water scaling factors in Winnsboro Mills. Regional dispatch grid: Fairfield County.

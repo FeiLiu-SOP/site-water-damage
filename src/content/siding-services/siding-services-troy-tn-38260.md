@@ -12,6 +12,7 @@ lng: -89.1600
 zipSample: ["38260"]
 zipCodes: ["38260"]
 localPaths: ["Obion County / ZIP 38260 sector", "Obion County / primary ZIP 38260", "Obion County / elevation 351 ft band", "Obion County / coords 36.3400, -89.1600"]
+zillowHomeValueUsd: 172844
 ---
 
 **Engineering Notice for Troy:** Wall Restoration was validated under stress factor 1.06; target tolerance set near 100 mph. Coordinates: 36.3400, -89.1600. Grid anchor: Obion County.

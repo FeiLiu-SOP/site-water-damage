@@ -11,6 +11,7 @@ lng: -90.0500
 zipSample: ["70056", "70053", "70054"]
 zipCodes: ["70056", "70054", "70053"]
 localPaths: ["Jefferson Parish / coords 29.9100, -90.0500", "Jefferson Parish / ZIP 70053 sector", "Jefferson Parish / primary ZIP 70056", "Jefferson Parish / elevation 7 ft band", "Jefferson Parish / ZIP 70056 sector"]
+zillowHomeValueUsd: 250972
 ---
 
 **Engineering Notice for Gretna:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Jefferson Parish.

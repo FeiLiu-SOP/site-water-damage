@@ -11,6 +11,7 @@ lng: -83.3800
 zipSample: ["48335", "48331", "48336", "48334"]
 zipCodes: ["48334", "48331", "48335", "48336"]
 localPaths: ["Oakland County / ZIP 48336 sector", "Oakland County / elevation 866 ft band", "Oakland County / coords 42.4900, -83.3800", "Oakland County / primary ZIP 48336", "Oakland County / ZIP 48331 sector"]
+zillowHomeValueUsd: 300831
 ---
 
 **Engineering Notice for Farmington Hills:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Oakland County.

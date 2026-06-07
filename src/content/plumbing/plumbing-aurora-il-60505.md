@@ -12,6 +12,7 @@ lng: -88.2900
 zipSample: ["60505", "60507", "60568", "60503", "60519"]
 zipCodes: ["60598", "60507", "60502", "60506", "60569", "60503", "60519", "60599", "60505", "60572", "60504", "60568"]
 localPaths: ["Kane County / ZIP 60519 sector", "Kane County / elevation 728 ft band", "Kane County / ZIP 60503 sector", "Kane County / ZIP 60505 sector", "Kane County / primary ZIP 60505"]
+zillowHomeValueUsd: 243690
 ---
 
 **Engineering Notice for Aurora:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Kane County.

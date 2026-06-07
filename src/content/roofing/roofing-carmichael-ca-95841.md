@@ -11,6 +11,7 @@ lng: -121.3300
 zipSample: ["95841", "95609", "95628", "95608"]
 zipCodes: ["95608", "95841", "95609", "95628"]
 localPaths: ["Sacramento County / coords 38.6300, -121.3300", "Sacramento County / ZIP 95608 sector", "Sacramento County / ZIP 95628 sector", "Sacramento County / ZIP 95609 sector", "Sacramento County / ZIP 95841 sector"]
+zillowHomeValueUsd: 433336
 ---
 
 **Engineering Notice for Carmichael:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Sacramento County.

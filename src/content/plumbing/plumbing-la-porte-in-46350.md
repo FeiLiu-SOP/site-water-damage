@@ -12,6 +12,7 @@ lng: -86.7100
 zipSample: ["46352", "46350"]
 zipCodes: ["46350", "46352"]
 localPaths: ["LaPorte County / ZIP 46350 sector", "LaPorte County / coords 41.6100, -86.7100", "LaPorte County / primary ZIP 46350", "LaPorte County / ZIP 46352 sector", "LaPorte County / elevation 814 ft band"]
+zillowHomeValueUsd: 270320
 ---
 
 **Engineering Notice for La Porte:** Structural loading calculated based on 814 ft terrain assessment. Regional dispatch grid: LaPorte County.

@@ -11,6 +11,7 @@ lng: -98.4200
 zipSample: ["73505", "73507", "73501", "73502", "73506"]
 zipCodes: ["73501", "73507", "73505", "73503", "73506", "73502"]
 localPaths: ["Comanche County / coords 34.6200, -98.4200", "Comanche County / primary ZIP 73503", "Comanche County / ZIP 73505 sector", "Comanche County / ZIP 73502 sector", "Comanche County / elevation 1158 ft band"]
+zillowHomeValueUsd: 148861
 ---
 
 **Engineering Notice for Lawton:** Structural loading calculated based on 1158 ft terrain assessment. Regional dispatch grid: Comanche County.

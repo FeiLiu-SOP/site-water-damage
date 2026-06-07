@@ -12,6 +12,8 @@ lng: -81.6100
 zipSample: ["28655", "28619"]
 zipCodes: ["28619", "28655"]
 localPaths: ["Burke County / ZIP 28655 sector", "Burke County / primary ZIP 28619", "Burke County / coords 35.7600, -81.6100", "Burke County / elevation 1237 ft band", "Burke County / ZIP 28619 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 308061
 ---
 
 **Engineering Notice for Drexel:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Grid: Burke County.

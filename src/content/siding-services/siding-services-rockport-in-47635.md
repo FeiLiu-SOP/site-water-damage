@@ -12,6 +12,7 @@ lng: -87.0500
 zipSample: ["47635"]
 zipCodes: ["47635"]
 localPaths: ["Spencer County / coords 37.8900, -87.0500", "Spencer County / elevation 400 ft band", "Spencer County / primary ZIP 47635", "Spencer County / ZIP 47635 sector"]
+zillowHomeValueUsd: 209700
 ---
 
 **Engineering Notice for Rockport:** Structural integrity verification: Cladding Retrofit calibrated for 104 mph localized wind load factor. Elevation: 400 ft AMSL. Coordinates: 37.8900, -87.0500. Regional dispatch grid: Spencer County.

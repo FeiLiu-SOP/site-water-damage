@@ -11,6 +11,7 @@ lng: -83.2400
 zipSample: ["31061", "31062", "31034"]
 zipCodes: ["31062", "31061", "31034"]
 localPaths: ["Baldwin County / coords 33.0900, -83.2400", "Baldwin County / primary ZIP 31062", "Baldwin County / ZIP 31061 sector", "Baldwin County / ZIP 31034 sector", "Baldwin County / ZIP 31062 sector"]
+zillowHomeValueUsd: 243704
 ---
 
 **Engineering Notice for Milledgeville:** Structural loading calculated based on 364 ft terrain assessment. Regional dispatch grid: Baldwin County.

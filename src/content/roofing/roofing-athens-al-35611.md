@@ -11,6 +11,7 @@ lng: -86.9500
 zipSample: ["35612", "35613", "35611"]
 zipCodes: ["35612", "35611", "35613"]
 localPaths: ["Limestone County / primary ZIP 35611", "Limestone County / elevation 659 ft band", "Limestone County / ZIP 35613 sector", "Limestone County / ZIP 35611 sector", "Limestone County / ZIP 35612 sector"]
+zillowHomeValueUsd: 251147
 ---
 
 **Engineering Notice for Athens:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Limestone County.

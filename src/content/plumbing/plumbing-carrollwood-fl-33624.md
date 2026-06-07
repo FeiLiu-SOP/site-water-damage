@@ -12,6 +12,7 @@ lng: -82.5100
 zipSample: ["33688", "33618", "33624"]
 zipCodes: ["33688", "33624", "33618"]
 localPaths: ["Hillsborough County / elevation 69 ft band", "Hillsborough County / ZIP 33618 sector", "Hillsborough County / ZIP 33624 sector", "Hillsborough County / primary ZIP 33624", "Hillsborough County / ZIP 33688 sector"]
+zillowHomeValueUsd: 410842
 ---
 
 **Engineering Notice for Carrollwood:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Hillsborough County.

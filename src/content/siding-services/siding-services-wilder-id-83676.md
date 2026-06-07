@@ -12,6 +12,7 @@ lng: -116.9100
 zipSample: ["83676"]
 zipCodes: ["83676"]
 localPaths: ["Canyon County / coords 43.6800, -116.9100", "Canyon County / ZIP 83676 sector", "Canyon County / elevation 2425 ft band", "Canyon County / primary ZIP 83676"]
+zillowHomeValueUsd: 543277
 ---
 
 **Engineering Notice for Wilder:** Weather Barrier Wrap was validated under stress factor 1.12; target tolerance set near 105 mph. Coordinates: 43.6800, -116.9100. Grid anchor: Canyon County.

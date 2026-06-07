@@ -11,6 +11,7 @@ lng: -76.9200
 zipSample: ["20603", "20602", "20695", "20604", "20601"]
 zipCodes: ["20601", "20675", "20695", "20602", "20604", "20603"]
 localPaths: ["Charles County / coords 38.6100, -76.9200", "Charles County / primary ZIP 20601", "Charles County / ZIP 20695 sector", "Charles County / elevation 210 ft band", "Charles County / ZIP 20604 sector"]
+zillowHomeValueUsd: 438991
 ---
 
 **Engineering Notice for Waldorf:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Charles County.

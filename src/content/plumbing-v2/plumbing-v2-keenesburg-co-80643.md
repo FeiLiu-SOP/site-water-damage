@@ -12,6 +12,7 @@ lng: -104.5400
 zipSample: ["80643"]
 zipCodes: ["80643"]
 localPaths: ["Weld County / primary ZIP 80643", "Weld County / ZIP 80643 sector", "Weld County / coords 40.1300, -104.5400", "Weld County / elevation 5020 ft band"]
+zillowHomeValueUsd: 533905
 ---
 
 **Engineering Notice for Keenesburg:** System optimized for 166 mg/L hard water scaling factors in Keenesburg. Regional dispatch grid: Weld County.

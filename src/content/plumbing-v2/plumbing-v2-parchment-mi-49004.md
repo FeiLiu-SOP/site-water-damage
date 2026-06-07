@@ -12,6 +12,7 @@ lng: -85.5700
 zipSample: ["49004"]
 zipCodes: ["49004"]
 localPaths: ["Kalamazoo County / primary ZIP 49004", "Kalamazoo County / ZIP 49004 sector", "Kalamazoo County / elevation 823 ft band", "Kalamazoo County / coords 42.3300, -85.5700"]
+zillowHomeValueUsd: 222814
 ---
 
 **Engineering Notice for Parchment:** System optimized for 164 mg/L hard water scaling factors in Parchment. Regional dispatch grid: Kalamazoo County.

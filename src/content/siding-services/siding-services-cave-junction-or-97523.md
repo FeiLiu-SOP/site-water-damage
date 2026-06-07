@@ -12,6 +12,7 @@ lng: -123.6500
 zipSample: ["97523"]
 zipCodes: ["97523"]
 localPaths: ["Josephine County / elevation 1339 ft band", "Josephine County / ZIP 97523 sector", "Josephine County / primary ZIP 97523", "Josephine County / coords 42.1700, -123.6500"]
+zillowHomeValueUsd: 295537
 ---
 
 **Engineering Notice for Cave Junction:** Wall Restoration was validated under stress factor 1.23; target tolerance set near 106 mph. Coordinates: 42.1700, -123.6500. Grid anchor: Josephine County.

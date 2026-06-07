@@ -12,6 +12,7 @@ lng: -76.8700
 zipSample: ["22560"]
 zipCodes: ["22560"]
 localPaths: ["Essex County / elevation 3 ft band", "Essex County / coords 37.9200, -76.8700", "Essex County / primary ZIP 22560", "Essex County / ZIP 22560 sector"]
+zillowHomeValueUsd: 301831
 ---
 
 **Engineering Notice for Tappahannock:** Site context locked to Essex County. Coordinates: 37.9200, -76.8700. Weather Barrier Wrap integrity verification recorded.

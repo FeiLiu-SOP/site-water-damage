@@ -12,6 +12,7 @@ lng: -81.2800
 zipSample: ["24368"]
 zipCodes: ["24368"]
 localPaths: ["Wythe County / ZIP 24368 sector", "Wythe County / coords 36.9000, -81.2800", "Wythe County / elevation 2566 ft band", "Wythe County / primary ZIP 24368"]
+zillowHomeValueUsd: 212077
 ---
 
 **Engineering Notice for Rural Retreat:** Cladding verification uses 98 mph routing baseline; lateral pressure note: 13.0 psf. Elevation: 2566 ft AMSL. Grid: Wythe County.

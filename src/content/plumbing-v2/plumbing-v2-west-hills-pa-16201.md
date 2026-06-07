@@ -12,6 +12,7 @@ lng: -79.5500
 zipSample: ["16201"]
 zipCodes: ["16201"]
 localPaths: ["Armstrong County / coords 40.8300, -79.5500", "Armstrong County / ZIP 16201 sector", "Armstrong County / elevation 1217 ft band", "Armstrong County / primary ZIP 16201"]
+zillowHomeValueUsd: 169017
 ---
 
 **Engineering Notice for West Hills:** System optimized for 120 mg/L hard water scaling factors in West Hills. Regional dispatch grid: Armstrong County.

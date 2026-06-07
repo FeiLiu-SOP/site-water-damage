@@ -11,6 +11,7 @@ lng: -94.2700
 zipSample: ["72715", "72714"]
 zipCodes: ["72715", "72714"]
 localPaths: ["Benton County / coords 36.4700, -94.2700", "Benton County / primary ZIP 72714", "Benton County / ZIP 72715 sector", "Benton County / ZIP 72714 sector", "Benton County / elevation 1217 ft band"]
+zillowHomeValueUsd: 354372
 ---
 
 **Engineering Notice for Bella Vista:** Structural loading calculated based on 1217 ft terrain assessment. Regional dispatch grid: Benton County.

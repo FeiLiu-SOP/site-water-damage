@@ -12,6 +12,7 @@ lng: -89.3600
 zipSample: ["61537"]
 zipCodes: ["61537"]
 localPaths: ["Marshall County / coords 41.1200, -89.3600", "Marshall County / primary ZIP 61537", "Marshall County / ZIP 61537 sector", "Marshall County / elevation 502 ft band"]
+zillowHomeValueUsd: 119225
 ---
 
 **Engineering Notice for Henry:** structural drying capacity optimized for 502ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marshall County. Relative Humidity Threshold: 71%. Sensor sync: Active.

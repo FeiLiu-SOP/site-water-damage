@@ -12,6 +12,7 @@ lng: -80.2300
 zipSample: ["15301"]
 zipCodes: ["15301"]
 localPaths: ["Washington County / elevation 1155 ft band", "Washington County / primary ZIP 15301", "Washington County / ZIP 15301 sector", "Washington County / coords 40.1700, -80.2300"]
+zillowHomeValueUsd: 233760
 ---
 
 **Engineering Notice for East Washington:** Structural integrity verification: Cladding Service calibrated for 98 mph localized wind load factor. Elevation: 1155 ft AMSL. Regional dispatch grid: Washington County.

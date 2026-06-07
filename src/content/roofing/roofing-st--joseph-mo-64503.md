@@ -11,6 +11,7 @@ lng: -94.8200
 zipSample: ["64507", "64503", "64504", "64505", "64502"]
 zipCodes: ["64505", "64507", "64502", "64501", "64503", "64508", "64504", "64506"]
 localPaths: ["Buchanan County / ZIP 64503 sector", "Buchanan County / ZIP 64504 sector", "Buchanan County / coords 39.7600, -94.8200", "Buchanan County / elevation 925 ft band", "Buchanan County / ZIP 64507 sector"]
+zillowHomeValueUsd: 172799
 ---
 
 **Engineering Notice for St. Joseph:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Buchanan County.

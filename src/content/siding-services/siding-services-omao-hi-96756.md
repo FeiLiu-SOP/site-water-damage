@@ -12,6 +12,7 @@ lng: -159.4800
 zipSample: ["96756"]
 zipCodes: ["96756"]
 localPaths: ["Kauai County / ZIP 96756 sector", "Kauai County / coords 21.9200, -159.4800", "Kauai County / primary ZIP 96756", "Kauai County / elevation 449 ft band"]
+zillowHomeValueUsd: 1165006
 ---
 
 **Engineering Notice for Omao:** Vinyl Panels was validated under stress factor 0.93; target tolerance set near 108 mph. Coordinates: 21.9200, -159.4800. Grid anchor: Kauai County.

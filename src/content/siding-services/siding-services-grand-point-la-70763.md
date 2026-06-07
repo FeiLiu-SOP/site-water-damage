@@ -12,6 +12,7 @@ lng: -90.7500
 zipSample: ["70763"]
 zipCodes: ["70763"]
 localPaths: ["St. James Parish / primary ZIP 70763", "St. James Parish / ZIP 70763 sector", "St. James Parish / elevation 13 ft band", "St. James Parish / coords 30.0500, -90.7500"]
+zillowHomeValueUsd: 309254
 ---
 
 **Engineering Notice for Grand Point:** Cladding verification uses 95 mph routing baseline; lateral pressure note: 12.6 psf. Coordinates: 30.0500, -90.7500. Grid: St. James Parish.

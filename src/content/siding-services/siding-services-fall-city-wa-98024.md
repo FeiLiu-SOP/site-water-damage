@@ -12,6 +12,7 @@ lng: -121.9100
 zipSample: ["98024"]
 zipCodes: ["98024"]
 localPaths: ["King County / elevation 112 ft band", "King County / coords 47.5700, -121.9100", "King County / primary ZIP 98024", "King County / ZIP 98024 sector"]
+zillowHomeValueUsd: 1266502
 ---
 
 **Engineering Notice for Fall City:** Cladding verification uses 95 mph routing baseline; lateral pressure note: 12.6 psf. Elevation: 112 ft AMSL. Coordinates: 47.5700, -121.9100. Grid: King County.

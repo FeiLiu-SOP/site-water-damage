@@ -12,6 +12,7 @@ lng: -82.5800
 zipSample: ["24251"]
 zipCodes: ["24251"]
 localPaths: ["Scott County / ZIP 24251 sector", "Scott County / primary ZIP 24251", "Scott County / elevation 1339 ft band", "Scott County / coords 36.6400, -82.5800"]
+zillowHomeValueUsd: 172400
 ---
 
 **Engineering Notice for Gate City:** System optimized for 140 mg/L hard water scaling factors in Gate City. Regional dispatch grid: Scott County.

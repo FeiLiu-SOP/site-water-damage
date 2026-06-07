@@ -12,6 +12,7 @@ lng: -85.4600
 zipSample: ["38585"]
 zipCodes: ["38585"]
 localPaths: ["Van Buren County / elevation 1814 ft band", "Van Buren County / primary ZIP 38585", "Van Buren County / ZIP 38585 sector", "Van Buren County / coords 35.7400, -85.4600"]
+zillowHomeValueUsd: 202489
 ---
 
 **Engineering Notice for Spencer:** System optimized for 143 mg/L hard water scaling factors in Spencer. Regional dispatch grid: Van Buren County.

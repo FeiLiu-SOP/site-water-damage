@@ -11,6 +11,7 @@ lng: -85.6900
 zipSample: ["46011", "46016", "46014", "46018", "46013"]
 zipCodes: ["46014", "46013", "46011", "46012", "46018", "46015", "46016"]
 localPaths: ["Madison County / ZIP 46014 sector", "Madison County / coords 40.0900, -85.6900", "Madison County / elevation 883 ft band", "Madison County / ZIP 46018 sector", "Madison County / ZIP 46016 sector"]
+zillowHomeValueUsd: 84942
 ---
 
 **Engineering Notice for Anderson:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Madison County.

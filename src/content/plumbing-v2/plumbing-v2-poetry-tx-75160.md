@@ -12,6 +12,7 @@ lng: -96.2500
 zipSample: ["75160"]
 zipCodes: ["75160"]
 localPaths: ["Hunt County / ZIP 75160 sector", "Hunt County / elevation 571 ft band", "Hunt County / coords 32.8300, -96.2500", "Hunt County / primary ZIP 75160"]
+zillowHomeValueUsd: 261904
 ---
 
 **Engineering Notice for Poetry:** System optimized for 146 mg/L hard water scaling factors in Poetry. Regional dispatch grid: Hunt County.

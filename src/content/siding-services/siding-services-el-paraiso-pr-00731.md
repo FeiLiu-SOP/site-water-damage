@@ -12,6 +12,8 @@ lng: -66.6000
 zipSample: ["00731"]
 zipCodes: ["00731"]
 localPaths: ["Ponce County / primary ZIP 00731", "Ponce County / coords 18.0600, -66.6000", "Ponce County / ZIP 00731 sector", "Ponce County / elevation 446 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 366055
 ---
 
 **Engineering Notice for El Paraiso:** Cladding verification uses 101 mph routing baseline; lateral pressure note: 13.3 psf. Coordinates: 18.0600, -66.6000. Grid: Ponce County.

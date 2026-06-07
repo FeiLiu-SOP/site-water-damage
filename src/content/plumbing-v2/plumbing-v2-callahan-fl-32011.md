@@ -12,6 +12,7 @@ lng: -81.8300
 zipSample: ["32011"]
 zipCodes: ["32011"]
 localPaths: ["Nassau County / ZIP 32011 sector", "Nassau County / primary ZIP 32011", "Nassau County / coords 30.5700, -81.8300", "Nassau County / elevation 26 ft band"]
+zillowHomeValueUsd: 385229
 ---
 
 **Engineering Notice for Callahan:** System optimized for 169 mg/L hard water scaling factors in Callahan. Regional dispatch grid: Nassau County.

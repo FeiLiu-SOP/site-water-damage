@@ -12,6 +12,8 @@ lng: -93.1800
 zipSample: ["71446", "71459"]
 zipCodes: ["71459", "71446"]
 localPaths: ["Vernon Parish / ZIP 71459 sector", "Vernon Parish / coords 31.1000, -93.1800", "Vernon Parish / primary ZIP 71459", "Vernon Parish / ZIP 71446 sector", "Vernon Parish / elevation 387 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 188084
 ---
 
 **Engineering Notice for Fort Polk North:** System optimized for 155 mg/L hard water scaling factors in Fort Polk North. Regional dispatch grid: Vernon Parish.

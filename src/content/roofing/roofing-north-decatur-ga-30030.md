@@ -11,6 +11,7 @@ lng: -84.2900
 zipSample: ["30033", "30030"]
 zipCodes: ["30030", "30033"]
 localPaths: ["DeKalb County / coords 33.8100, -84.2900", "DeKalb County / ZIP 30033 sector", "DeKalb County / elevation 955 ft band", "DeKalb County / primary ZIP 30030", "DeKalb County / ZIP 30030 sector"]
+zillowHomeValueUsd: 639072
 ---
 
 **Engineering Notice for North Decatur:** Structural loading calculated based on 955 ft terrain assessment. Regional dispatch grid: DeKalb County.

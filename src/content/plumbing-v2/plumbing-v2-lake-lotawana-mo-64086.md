@@ -12,6 +12,7 @@ lng: -94.2600
 zipSample: ["64086", "64034"]
 zipCodes: ["64086", "64034"]
 localPaths: ["Jackson County / ZIP 64034 sector", "Jackson County / coords 38.9000, -94.2600", "Jackson County / ZIP 64086 sector", "Jackson County / elevation 961 ft band", "Jackson County / primary ZIP 64086"]
+zillowHomeValueUsd: 375444
 ---
 
 **Engineering Notice for Lake Lotawana:** System optimized for 138 mg/L hard water scaling factors in Lake Lotawana. Regional dispatch grid: Jackson County.

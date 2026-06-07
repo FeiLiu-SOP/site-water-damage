@@ -12,6 +12,7 @@ lng: -84.5700
 zipSample: ["30126", "30082", "30106", "30168"]
 zipCodes: ["30126", "30168", "30106", "30082"]
 localPaths: ["Cobb County / ZIP 30082 sector", "Cobb County / coords 33.8100, -84.5700", "Cobb County / ZIP 30106 sector", "Cobb County / ZIP 30126 sector", "Cobb County / primary ZIP 30126"]
+zillowHomeValueUsd: 372329
 ---
 
 **Engineering Notice for Mableton:** Structural loading calculated based on 1047 ft terrain assessment. Regional dispatch grid: Cobb County.

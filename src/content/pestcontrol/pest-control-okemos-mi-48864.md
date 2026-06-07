@@ -11,6 +11,7 @@ lng: -84.4100
 zipSample: ["48864", "48805"]
 zipCodes: ["48864", "48805"]
 localPaths: ["Ingham County / elevation 863 ft band", "Ingham County / ZIP 48805 sector", "Ingham County / ZIP 48864 sector", "Ingham County / coords 42.7100, -84.4100", "Ingham County / primary ZIP 48864"]
+zillowHomeValueUsd: 390285
 ---
 
 **Engineering Notice for Okemos:** Structural loading calculated based on 863 ft terrain assessment. Regional dispatch grid: Ingham County.

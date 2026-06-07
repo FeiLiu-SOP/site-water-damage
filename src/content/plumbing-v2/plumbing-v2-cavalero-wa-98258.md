@@ -12,6 +12,7 @@ lng: -122.0700
 zipSample: ["98258"]
 zipCodes: ["98258"]
 localPaths: ["Snohomish County / ZIP 98258 sector", "Snohomish County / primary ZIP 98258", "Snohomish County / coords 47.9900, -122.0700", "Snohomish County / elevation 279 ft band"]
+zillowHomeValueUsd: 714420
 ---
 
 **Engineering Notice for Cavalero:** System optimized for 132 mg/L hard water scaling factors in Cavalero. Regional dispatch grid: Snohomish County.

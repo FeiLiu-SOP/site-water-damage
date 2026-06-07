@@ -12,6 +12,7 @@ lng: -74.3000
 zipSample: ["12566"]
 zipCodes: ["12566"]
 localPaths: ["Orange County / coords 41.6100, -74.3000", "Orange County / elevation 397 ft band", "Orange County / primary ZIP 12566", "Orange County / ZIP 12566 sector"]
+zillowHomeValueUsd: 435872
 ---
 
 **Engineering Notice for Pine Bush:** structural drying capacity optimized for 397ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Orange County. Relative Humidity Threshold: 73%. Sensor sync: Active.

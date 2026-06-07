@@ -12,6 +12,7 @@ lng: -103.7600
 zipSample: ["81063"]
 zipCodes: ["81063"]
 localPaths: ["Crowley County / primary ZIP 81063", "Crowley County / coords 38.2200, -103.7600", "Crowley County / ZIP 81063 sector", "Crowley County / elevation 4337 ft band"]
+zillowHomeValueUsd: 155685
 ---
 
 **Engineering Notice for Ordway:** System optimized for 126 mg/L hard water scaling factors in Ordway. Regional dispatch grid: Crowley County.

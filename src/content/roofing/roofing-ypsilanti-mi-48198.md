@@ -11,6 +11,7 @@ lng: -83.6200
 zipSample: ["48197", "48198"]
 zipCodes: ["48197", "48198"]
 localPaths: ["Washtenaw County / elevation 761 ft band", "Washtenaw County / coords 42.2400, -83.6200", "Washtenaw County / ZIP 48197 sector", "Washtenaw County / primary ZIP 48198", "Washtenaw County / ZIP 48198 sector"]
+zillowHomeValueUsd: 225279
 ---
 
 **Engineering Notice for Ypsilanti:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Washtenaw County.

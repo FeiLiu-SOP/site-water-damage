@@ -12,6 +12,7 @@ lng: -90.7200
 zipSample: ["72432"]
 zipCodes: ["72432"]
 localPaths: ["Poinsett County / elevation 279 ft band", "Poinsett County / primary ZIP 72432", "Poinsett County / coords 35.5600, -90.7200", "Poinsett County / ZIP 72432 sector"]
+zillowHomeValueUsd: 148120
 ---
 
 **Engineering Notice for Harrisburg:** System optimized for 155 mg/L hard water scaling factors in Harrisburg. Regional dispatch grid: Poinsett County.

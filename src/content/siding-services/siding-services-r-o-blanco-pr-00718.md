@@ -12,6 +12,8 @@ lng: -65.7900
 zipSample: ["00718"]
 zipCodes: ["00718"]
 localPaths: ["Naguabo County / ZIP 00718 sector", "Naguabo County / primary ZIP 00718", "Naguabo County / elevation 131 ft band", "Naguabo County / coords 18.2100, -65.7900"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 357702
 ---
 
 **Engineering Notice for Río Blanco:** Cladding verification uses 96 mph routing baseline; lateral pressure note: 12.7 psf. Coordinates: 18.2100, -65.7900. Grid: Naguabo County.

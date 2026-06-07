@@ -12,6 +12,7 @@ lng: -76.6300
 zipSample: ["21030", "21031", "21065"]
 zipCodes: ["21065", "21030", "21031"]
 localPaths: ["Baltimore County / ZIP 21030 sector", "Baltimore County / primary ZIP 21031", "Baltimore County / elevation 574 ft band", "Baltimore County / ZIP 21065 sector", "Baltimore County / ZIP 21031 sector"]
+zillowHomeValueUsd: 469209
 ---
 
 **Engineering Notice for Cockeysville:** Structural loading calculated based on 574 ft terrain assessment. Regional dispatch grid: Baltimore County.

@@ -12,6 +12,7 @@ lng: -85.4600
 zipSample: ["36016"]
 zipCodes: ["36016"]
 localPaths: ["Barbour County / primary ZIP 36016", "Barbour County / coords 31.8800, -85.4600", "Barbour County / elevation 584 ft band", "Barbour County / ZIP 36016 sector"]
+zillowHomeValueUsd: 111969
 ---
 
 **Engineering Notice for Clayton:** Structural integrity verification: Exterior Cladding calibrated for 105 mph localized wind load factor. Regional dispatch grid: Barbour County.

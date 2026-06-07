@@ -12,6 +12,7 @@ lng: -108.0600
 zipSample: ["82426"]
 zipCodes: ["82426"]
 localPaths: ["Big Horn County / primary ZIP 82426", "Big Horn County / ZIP 82426 sector", "Big Horn County / elevation 3783 ft band", "Big Horn County / coords 44.4900, -108.0600"]
+zillowHomeValueUsd: 231769
 ---
 
 **Engineering Notice for Greybull:** Site context locked to Big Horn County. Elevation: 3783 ft AMSL. Coordinates: 44.4900, -108.0600. Exterior Envelope integrity verification recorded.

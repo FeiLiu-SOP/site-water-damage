@@ -11,6 +11,7 @@ lng: -111.0600
 zipSample: ["59719", "59715", "59718"]
 zipCodes: ["59718", "59715", "59719"]
 localPaths: ["Gallatin County / ZIP 59718 sector", "Gallatin County / ZIP 59719 sector", "Gallatin County / elevation 4803 ft band", "Gallatin County / coords 45.6800, -111.0600", "Gallatin County / primary ZIP 59718"]
+zillowHomeValueUsd: 647372
 ---
 
 **Engineering Notice for Bozeman:** Structural loading calculated based on 4803 ft terrain assessment. Regional dispatch grid: Gallatin County.

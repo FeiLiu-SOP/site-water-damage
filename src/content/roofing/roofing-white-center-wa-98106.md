@@ -11,6 +11,7 @@ lng: -122.3500
 zipSample: ["98168", "98146", "98106"]
 zipCodes: ["98106", "98146", "98168"]
 localPaths: ["King County / ZIP 98106 sector", "King County / ZIP 98168 sector", "King County / coords 47.5100, -122.3500", "King County / primary ZIP 98106", "King County / ZIP 98146 sector"]
+zillowHomeValueUsd: 673657
 ---
 
 **Engineering Notice for White Center:** Structural loading calculated based on 381 ft terrain assessment. Regional dispatch grid: King County.

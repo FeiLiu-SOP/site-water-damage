@@ -11,6 +11,7 @@ lng: -103.1900
 zipSample: ["88101", "88102"]
 zipCodes: ["88101", "88102"]
 localPaths: ["Curry County / elevation 4311 ft band", "Curry County / primary ZIP 88101", "Curry County / ZIP 88102 sector", "Curry County / coords 34.4400, -103.1900", "Curry County / ZIP 88101 sector"]
+zillowHomeValueUsd: 161623
 ---
 
 **Engineering Notice for Clovis:** Structural loading calculated based on 4311 ft terrain assessment. Regional dispatch grid: Curry County.

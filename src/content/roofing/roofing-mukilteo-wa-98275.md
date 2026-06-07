@@ -11,6 +11,7 @@ lng: -122.3000
 zipSample: ["98275"]
 zipCodes: ["98275"]
 localPaths: ["Snohomish County / elevation 423 ft band", "Snohomish County / coords 47.9100, -122.3000", "Snohomish County / ZIP 98275 sector", "Snohomish County / primary ZIP 98275"]
+zillowHomeValueUsd: 933735
 ---
 
 **Engineering Notice for Mukilteo:** Structural loading calculated based on 423 ft terrain assessment. Regional dispatch grid: Snohomish County.

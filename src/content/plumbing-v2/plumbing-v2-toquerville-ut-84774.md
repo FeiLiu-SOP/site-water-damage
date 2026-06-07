@@ -12,6 +12,7 @@ lng: -113.3000
 zipSample: ["84720", "84774", "84746"]
 zipCodes: ["84774", "84746", "84720"]
 localPaths: ["Washington County / primary ZIP 84774", "Washington County / coords 37.2700, -113.3000", "Washington County / elevation 3599 ft band", "Washington County / ZIP 84746 sector", "Washington County / ZIP 84720 sector"]
+zillowHomeValueUsd: 593446
 ---
 
 **Engineering Notice for Toquerville:** System optimized for 120 mg/L hard water scaling factors in Toquerville. Regional dispatch grid: Washington County.

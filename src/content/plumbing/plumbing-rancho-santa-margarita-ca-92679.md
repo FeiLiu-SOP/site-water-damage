@@ -12,6 +12,7 @@ lng: -117.6000
 zipSample: ["92679", "92688"]
 zipCodes: ["92679", "92688"]
 localPaths: ["Orange County / ZIP 92679 sector", "Orange County / elevation 935 ft band", "Orange County / coords 33.6300, -117.6000", "Orange County / primary ZIP 92679", "Orange County / ZIP 92688 sector"]
+zillowHomeValueUsd: 1600723
 ---
 
 **Engineering Notice for Rancho Santa Margarita:** Structural loading calculated based on 935 ft terrain assessment. Regional dispatch grid: Orange County.

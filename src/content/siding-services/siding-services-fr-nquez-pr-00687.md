@@ -12,6 +12,8 @@ lng: -66.4300
 zipSample: ["00687"]
 zipCodes: ["00687"]
 localPaths: ["Morovis County / coords 18.3400, -66.4300", "Morovis County / primary ZIP 00687", "Morovis County / elevation 594 ft band", "Morovis County / ZIP 00687 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 364549
 ---
 
 **Engineering Notice for Fránquez:** Exterior Cladding was validated under stress factor 0.80; target tolerance set near 110 mph. Grid anchor: Morovis County.

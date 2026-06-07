@@ -12,6 +12,7 @@ lng: -110.0300
 zipSample: ["85929", "85901"]
 zipCodes: ["85929", "85901"]
 localPaths: ["Navajo County / ZIP 85929 sector", "Navajo County / primary ZIP 85929", "Navajo County / elevation 6657 ft band", "Navajo County / coords 34.2000, -110.0300", "Navajo County / ZIP 85901 sector"]
+zillowHomeValueUsd: 414211
 ---
 
 **Engineering Notice for Wagon Wheel:** System optimized for 155 mg/L hard water scaling factors in Wagon Wheel. Regional dispatch grid: Navajo County.

@@ -12,6 +12,7 @@ lng: -82.0500
 zipSample: ["33955"]
 zipCodes: ["33955"]
 localPaths: ["Lee County / primary ZIP 33955", "Lee County / elevation 13 ft band", "Lee County / ZIP 33955 sector", "Lee County / coords 26.7600, -82.0500"]
+zillowHomeValueUsd: 330608
 ---
 
 **Engineering Notice for Burnt Store Marina:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 0.90. Regional dispatch grid: Lee County.

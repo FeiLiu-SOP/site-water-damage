@@ -12,6 +12,7 @@ lng: -85.2900
 zipSample: ["36376"]
 zipCodes: ["36376"]
 localPaths: ["Houston County / primary ZIP 36376", "Houston County / coords 31.2600, -85.2900", "Houston County / elevation 292 ft band", "Houston County / ZIP 36376 sector"]
+zillowHomeValueUsd: 162164
 ---
 
 **Engineering Notice for Webb:** System optimized for 148 mg/L hard water scaling factors in Webb. Regional dispatch grid: Houston County.

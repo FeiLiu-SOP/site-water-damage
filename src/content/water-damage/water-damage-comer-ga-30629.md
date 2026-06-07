@@ -12,6 +12,7 @@ lng: -83.1300
 zipSample: ["30629"]
 zipCodes: ["30629"]
 localPaths: ["Madison County / ZIP 30629 sector", "Madison County / elevation 702 ft band", "Madison County / coords 34.0600, -83.1300", "Madison County / primary ZIP 30629"]
+zillowHomeValueUsd: 304764
 ---
 
 **Engineering Notice for Comer:** structural drying capacity optimized for 702ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Madison County. Relative Humidity Threshold: 82%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -89.5700
 zipSample: ["39428"]
 zipCodes: ["39428"]
 localPaths: ["Covington County / ZIP 39428 sector", "Covington County / primary ZIP 39428", "Covington County / elevation 308 ft band", "Covington County / coords 31.6500, -89.5700"]
+zillowHomeValueUsd: 161376
 ---
 
 **Engineering Notice for Collins:** System optimized for 175 mg/L hard water scaling factors in Collins. Regional dispatch grid: Covington County.

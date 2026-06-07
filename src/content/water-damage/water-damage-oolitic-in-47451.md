@@ -12,6 +12,7 @@ lng: -86.5300
 zipSample: ["47451"]
 zipCodes: ["47451"]
 localPaths: ["Lawrence County / elevation 568 ft band", "Lawrence County / coords 38.8900, -86.5300", "Lawrence County / primary ZIP 47451", "Lawrence County / ZIP 47451 sector"]
+zillowHomeValueUsd: 173728
 ---
 
 **Engineering Notice for Oolitic:** structural drying capacity optimized for 568ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lawrence County. Relative Humidity Threshold: 68%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -116.5400
 zipSample: ["83864", "83852"]
 zipCodes: ["83864", "83852"]
 localPaths: ["Bonner County / ZIP 83852 sector", "Bonner County / primary ZIP 83864", "Bonner County / ZIP 83864 sector", "Bonner County / elevation 2133 ft band", "Bonner County / coords 48.3100, -116.5400"]
+zillowHomeValueUsd: 646321
 ---
 
 **Engineering Notice for Ponderay:** Structural integrity verification: Facade Renewal calibrated for 98 mph localized wind load factor. Regional dispatch grid: Bonner County.

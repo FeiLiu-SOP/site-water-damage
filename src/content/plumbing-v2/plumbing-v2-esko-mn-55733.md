@@ -12,6 +12,7 @@ lng: -92.3700
 zipSample: ["55733"]
 zipCodes: ["55733"]
 localPaths: ["Carlton County / primary ZIP 55733", "Carlton County / elevation 1178 ft band", "Carlton County / coords 46.7100, -92.3700", "Carlton County / ZIP 55733 sector"]
+zillowHomeValueUsd: 387727
 ---
 
 **Engineering Notice for Esko:** System optimized for 128 mg/L hard water scaling factors in Esko. Regional dispatch grid: Carlton County.

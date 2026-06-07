@@ -11,6 +11,7 @@ lng: -76.9200
 zipSample: ["20740", "20705", "20704", "20697"]
 zipCodes: ["20705", "20704", "20740", "20697"]
 localPaths: ["Prince George's County / ZIP 20740 sector", "Prince George's County / ZIP 20704 sector", "Prince George's County / primary ZIP 20705", "Prince George's County / coords 39.0400, -76.9200", "Prince George's County / ZIP 20697 sector"]
+zillowHomeValueUsd: 460430
 ---
 
 **Engineering Notice for Beltsville:** Structural loading calculated based on 253 ft terrain assessment. Regional dispatch grid: Prince George's County.

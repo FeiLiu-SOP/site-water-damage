@@ -12,6 +12,7 @@ lng: -85.3400
 zipSample: ["36303", "36345"]
 zipCodes: ["36345", "36303"]
 localPaths: ["Houston County / primary ZIP 36303", "Houston County / ZIP 36345 sector", "Houston County / ZIP 36303 sector", "Houston County / coords 31.2900, -85.3400", "Houston County / elevation 335 ft band"]
+zillowHomeValueUsd: 184716
 ---
 
 **Engineering Notice for Kinsey:** Panel Replacement was validated under stress factor 1.16; target tolerance set near 97 mph. Coordinates: 31.2900, -85.3400. Grid anchor: Houston County.

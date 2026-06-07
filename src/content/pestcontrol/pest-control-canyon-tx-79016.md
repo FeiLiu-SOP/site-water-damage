@@ -11,6 +11,7 @@ lng: -101.9200
 zipSample: ["79015", "79016"]
 zipCodes: ["79016", "79015"]
 localPaths: ["Randall County / elevation 3533 ft band", "Randall County / ZIP 79015 sector", "Randall County / ZIP 79016 sector", "Randall County / primary ZIP 79016", "Randall County / coords 34.9900, -101.9200"]
+zillowHomeValueUsd: 297157
 ---
 
 **Engineering Notice for Canyon:** Structural loading calculated based on 3533 ft terrain assessment. Regional dispatch grid: Randall County.

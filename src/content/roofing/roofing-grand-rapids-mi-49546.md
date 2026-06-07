@@ -11,6 +11,7 @@ lng: -85.6600
 zipSample: ["49503", "49507", "49508", "49501", "49514"]
 zipCodes: ["49546", "49504", "49555", "49502", "49508", "49503", "49588", "49599", "49505", "49514", "49501", "49506"]
 localPaths: ["Kent County / ZIP 49501 sector", "Kent County / primary ZIP 49546", "Kent County / ZIP 49503 sector", "Kent County / ZIP 49507 sector", "Kent County / elevation 748 ft band"]
+zillowHomeValueUsd: 501079
 ---
 
 **Engineering Notice for Grand Rapids:** Structural loading calculated based on 748 ft terrain assessment. Regional dispatch grid: Kent County.

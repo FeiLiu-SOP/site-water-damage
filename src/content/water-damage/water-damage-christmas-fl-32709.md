@@ -12,6 +12,7 @@ lng: -81.0200
 zipSample: ["32709"]
 zipCodes: ["32709"]
 localPaths: ["Orange County / ZIP 32709 sector", "Orange County / elevation 62 ft band", "Orange County / primary ZIP 32709", "Orange County / coords 28.5600, -81.0200"]
+zillowHomeValueUsd: 475616
 ---
 
 **Engineering Notice for Christmas:** structural drying capacity optimized for 62ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Orange County. Relative Humidity Threshold: 72%. Sensor sync: Active.

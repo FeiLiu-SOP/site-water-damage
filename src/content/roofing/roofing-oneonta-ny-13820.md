@@ -11,6 +11,7 @@ lng: -75.0700
 zipSample: ["13820"]
 zipCodes: ["13820"]
 localPaths: ["Otsego County / coords 42.4600, -75.0700", "Otsego County / primary ZIP 13820", "Otsego County / ZIP 13820 sector", "Otsego County / elevation 1155 ft band"]
+zillowHomeValueUsd: 211605
 ---
 
 **Engineering Notice for Oneonta:** Structural loading calculated based on 1155 ft terrain assessment. Regional dispatch grid: Otsego County.

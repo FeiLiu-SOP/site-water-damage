@@ -12,6 +12,7 @@ lng: -85.1800
 zipSample: ["30182", "30150", "30117"]
 zipCodes: ["30150", "30117", "30182"]
 localPaths: ["Carroll County / primary ZIP 30117", "Carroll County / elevation 1138 ft band", "Carroll County / coords 33.6400, -85.1800", "Carroll County / ZIP 30182 sector", "Carroll County / ZIP 30150 sector"]
+zillowHomeValueUsd: 281307
 ---
 
 **Engineering Notice for Mount Zion:** System optimized for 123 mg/L hard water scaling factors in Mount Zion. Regional dispatch grid: Carroll County.

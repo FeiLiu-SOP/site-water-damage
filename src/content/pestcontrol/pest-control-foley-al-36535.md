@@ -11,6 +11,7 @@ lng: -87.6700
 zipSample: ["36536", "36535"]
 zipCodes: ["36535", "36536"]
 localPaths: ["Baldwin County / ZIP 36535 sector", "Baldwin County / ZIP 36536 sector", "Baldwin County / coords 30.4000, -87.6700", "Baldwin County / primary ZIP 36535", "Baldwin County / elevation 75 ft band"]
+zillowHomeValueUsd: 301641
 ---
 
 **Engineering Notice for Foley:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Baldwin County.

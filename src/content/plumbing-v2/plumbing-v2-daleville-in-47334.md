@@ -12,6 +12,7 @@ lng: -85.5600
 zipSample: ["47334"]
 zipCodes: ["47334"]
 localPaths: ["Delaware County / primary ZIP 47334", "Delaware County / coords 40.1200, -85.5600", "Delaware County / elevation 919 ft band", "Delaware County / ZIP 47334 sector"]
+zillowHomeValueUsd: 226479
 ---
 
 **Engineering Notice for Daleville:** System optimized for 140 mg/L hard water scaling factors in Daleville. Regional dispatch grid: Delaware County.

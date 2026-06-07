@@ -12,6 +12,7 @@ lng: -79.3200
 zipSample: ["16371"]
 zipCodes: ["16371"]
 localPaths: ["Warren County / coords 41.8500, -79.3200", "Warren County / ZIP 16371 sector", "Warren County / primary ZIP 16371", "Warren County / elevation 1207 ft band"]
+zillowHomeValueUsd: 132505
 ---
 
 **Engineering Notice for Youngsville:** System optimized for 175 mg/L hard water scaling factors in Youngsville. Regional dispatch grid: Warren County.

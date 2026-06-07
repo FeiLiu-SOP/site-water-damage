@@ -12,6 +12,7 @@ lng: -90.4300
 zipSample: ["72365"]
 zipCodes: ["72365"]
 localPaths: ["Poinsett County / coords 35.5300, -90.4300", "Poinsett County / ZIP 72365 sector", "Poinsett County / primary ZIP 72365", "Poinsett County / elevation 210 ft band"]
+zillowHomeValueUsd: 105057
 ---
 
 **Engineering Notice for Marked Tree:** Cladding verification uses 108 mph routing baseline; lateral pressure note: 14.2 psf. Coordinates: 35.5300, -90.4300. Grid: Poinsett County.

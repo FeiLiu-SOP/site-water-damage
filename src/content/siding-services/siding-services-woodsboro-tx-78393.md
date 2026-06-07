@@ -12,6 +12,7 @@ lng: -97.3300
 zipSample: ["78393"]
 zipCodes: ["78393"]
 localPaths: ["Refugio County / ZIP 78393 sector", "Refugio County / elevation 59 ft band", "Refugio County / coords 28.2400, -97.3300", "Refugio County / primary ZIP 78393"]
+zillowHomeValueUsd: 127005
 ---
 
 **Engineering Notice for Woodsboro:** Envelope check: Cladding Retrofit assigned to wind-load band C with stress factor 1.12. Elevation: 59 ft AMSL. Regional dispatch grid: Refugio County.

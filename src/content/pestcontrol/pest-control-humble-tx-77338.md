@@ -11,6 +11,7 @@ lng: -95.2700
 zipSample: ["77347", "77338", "77396"]
 zipCodes: ["77347", "77396", "77338"]
 localPaths: ["Harris County / coords 29.9900, -95.2700", "Harris County / ZIP 77347 sector", "Harris County / elevation 112 ft band", "Harris County / ZIP 77338 sector", "Harris County / ZIP 77396 sector"]
+zillowHomeValueUsd: 230819
 ---
 
 **Engineering Notice for Humble:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Harris County.

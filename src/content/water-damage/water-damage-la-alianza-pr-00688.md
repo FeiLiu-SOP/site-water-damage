@@ -12,6 +12,8 @@ lng: -66.6000
 zipSample: ["00688"]
 zipCodes: ["00688"]
 localPaths: ["Arecibo County / primary ZIP 00688", "Arecibo County / coords 18.3900, -66.6000", "Arecibo County / ZIP 00688 sector", "Arecibo County / elevation 633 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 382358
 ---
 
 **Engineering Notice for La Alianza:** structural drying capacity optimized for 633ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Arecibo County. Relative Humidity Threshold: 68%. Sensor sync: Active.

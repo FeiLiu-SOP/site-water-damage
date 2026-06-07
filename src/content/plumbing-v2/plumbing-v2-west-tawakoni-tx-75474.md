@@ -12,6 +12,7 @@ lng: -96.0200
 zipSample: ["75474"]
 zipCodes: ["75474"]
 localPaths: ["Hunt County / elevation 476 ft band", "Hunt County / coords 32.9000, -96.0200", "Hunt County / ZIP 75474 sector", "Hunt County / primary ZIP 75474"]
+zillowHomeValueUsd: 243033
 ---
 
 **Engineering Notice for West Tawakoni:** System optimized for 142 mg/L hard water scaling factors in West Tawakoni. Regional dispatch grid: Hunt County.

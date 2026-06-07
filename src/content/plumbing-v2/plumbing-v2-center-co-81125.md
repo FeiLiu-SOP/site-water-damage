@@ -12,6 +12,7 @@ lng: -106.1100
 zipSample: ["81125"]
 zipCodes: ["81125"]
 localPaths: ["Saguache County / primary ZIP 81125", "Saguache County / ZIP 81125 sector", "Saguache County / elevation 7651 ft band", "Saguache County / coords 37.7500, -106.1100"]
+zillowHomeValueUsd: 168324
 ---
 
 **Engineering Notice for Center:** System optimized for 171 mg/L hard water scaling factors in Center. Regional dispatch grid: Saguache County.

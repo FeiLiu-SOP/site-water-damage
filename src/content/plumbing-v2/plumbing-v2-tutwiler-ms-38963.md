@@ -12,6 +12,7 @@ lng: -90.4300
 zipSample: ["38963"]
 zipCodes: ["38963"]
 localPaths: ["Tallahatchie County / coords 34.0200, -90.4300", "Tallahatchie County / elevation 167 ft band", "Tallahatchie County / ZIP 38963 sector", "Tallahatchie County / primary ZIP 38963"]
+zillowHomeValueUsd: 90787
 ---
 
 **Engineering Notice for Tutwiler:** System optimized for 148 mg/L hard water scaling factors in Tutwiler. Regional dispatch grid: Tallahatchie County.

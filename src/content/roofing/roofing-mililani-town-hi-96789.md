@@ -11,6 +11,7 @@ lng: -158.0100
 zipSample: ["96789"]
 zipCodes: ["96789"]
 localPaths: ["Honolulu County / elevation 636 ft band", "Honolulu County / coords 21.4500, -158.0100", "Honolulu County / ZIP 96789 sector", "Honolulu County / primary ZIP 96789"]
+zillowHomeValueUsd: 881760
 ---
 
 **Engineering Notice for Mililani Town:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Honolulu County.

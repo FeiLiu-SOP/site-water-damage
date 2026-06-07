@@ -12,6 +12,7 @@ lng: -116.7000
 zipSample: ["92539"]
 zipCodes: ["92539"]
 localPaths: ["Riverside County / ZIP 92539 sector", "Riverside County / primary ZIP 92539", "Riverside County / elevation 4065 ft band", "Riverside County / coords 33.5700, -116.7000"]
+zillowHomeValueUsd: 404959
 ---
 
 **Engineering Notice for Anza:** structural drying capacity optimized for 4065ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Riverside County. Relative Humidity Threshold: 67%. Sensor sync: Active.

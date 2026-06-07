@@ -11,6 +11,7 @@ lng: -73.2100
 zipSample: ["11788", "11760", "11787"]
 zipCodes: ["11760", "11788", "11787"]
 localPaths: ["Suffolk County / primary ZIP 11787", "Suffolk County / coords 40.8200, -73.2100", "Suffolk County / ZIP 11760 sector", "Suffolk County / elevation 82 ft band", "Suffolk County / ZIP 11788 sector"]
+zillowHomeValueUsd: 794527
 ---
 
 **Engineering Notice for Hauppauge:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Suffolk County.

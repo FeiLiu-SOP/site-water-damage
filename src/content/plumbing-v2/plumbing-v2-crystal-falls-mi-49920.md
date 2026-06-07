@@ -12,6 +12,7 @@ lng: -88.3300
 zipSample: ["49920"]
 zipCodes: ["49920"]
 localPaths: ["Iron County / elevation 1358 ft band", "Iron County / ZIP 49920 sector", "Iron County / coords 46.1000, -88.3300", "Iron County / primary ZIP 49920"]
+zillowHomeValueUsd: 159122
 ---
 
 **Engineering Notice for Crystal Falls:** System optimized for 164 mg/L hard water scaling factors in Crystal Falls. Regional dispatch grid: Iron County.

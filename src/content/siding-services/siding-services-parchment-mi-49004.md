@@ -12,6 +12,7 @@ lng: -85.5700
 zipSample: ["49004"]
 zipCodes: ["49004"]
 localPaths: ["Kalamazoo County / coords 42.3300, -85.5700", "Kalamazoo County / ZIP 49004 sector", "Kalamazoo County / primary ZIP 49004", "Kalamazoo County / elevation 823 ft band"]
+zillowHomeValueUsd: 222819
 ---
 
 **Engineering Notice for Parchment:** Envelope check: Surface Sheathing assigned to wind-load band B with stress factor 0.87. Elevation: 823 ft AMSL. Regional dispatch grid: Kalamazoo County.

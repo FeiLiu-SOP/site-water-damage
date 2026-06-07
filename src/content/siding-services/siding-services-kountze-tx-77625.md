@@ -12,6 +12,7 @@ lng: -94.3200
 zipSample: ["77625"]
 zipCodes: ["77625"]
 localPaths: ["Hardin County / coords 30.3700, -94.3200", "Hardin County / ZIP 77625 sector", "Hardin County / primary ZIP 77625", "Hardin County / elevation 112 ft band"]
+zillowHomeValueUsd: 217859
 ---
 
 **Engineering Notice for Kountze:** Site context locked to Hardin County. Panel Replacement integrity verification recorded.

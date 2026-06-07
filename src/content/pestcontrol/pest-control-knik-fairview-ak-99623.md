@@ -11,6 +11,7 @@ lng: -149.6300
 zipSample: ["99654", "99623"]
 zipCodes: ["99654", "99623"]
 localPaths: ["Matanuska-Susitna County / primary ZIP 99623", "Matanuska-Susitna County / elevation 0 ft band", "Matanuska-Susitna County / ZIP 99623 sector", "Matanuska-Susitna County / coords 61.5100, -149.6300", "Matanuska-Susitna County / ZIP 99654 sector"]
+zillowHomeValueUsd: 366949
 ---
 
 **Engineering Notice for Knik-Fairview:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Matanuska-Susitna County.

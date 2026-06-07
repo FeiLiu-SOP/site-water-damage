@@ -11,6 +11,7 @@ lng: -121.3000
 zipSample: ["95632"]
 zipCodes: ["95632"]
 localPaths: ["Sacramento County / primary ZIP 95632", "Sacramento County / elevation 52 ft band", "Sacramento County / ZIP 95632 sector", "Sacramento County / coords 38.2700, -121.3000"]
+zillowHomeValueUsd: 533060
 ---
 
 **Engineering Notice for Galt:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Sacramento County.

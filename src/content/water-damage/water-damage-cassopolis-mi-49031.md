@@ -12,6 +12,7 @@ lng: -86.0100
 zipSample: ["49031"]
 zipCodes: ["49031"]
 localPaths: ["Cass County / ZIP 49031 sector", "Cass County / coords 41.9100, -86.0100", "Cass County / elevation 892 ft band", "Cass County / primary ZIP 49031"]
+zillowHomeValueUsd: 275527
 ---
 
 **Engineering Notice for Cassopolis:** structural drying capacity optimized for 892ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cass County. Relative Humidity Threshold: 84%. Sensor sync: Active.

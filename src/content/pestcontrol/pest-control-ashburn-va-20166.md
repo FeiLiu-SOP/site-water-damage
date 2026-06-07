@@ -11,6 +11,7 @@ lng: -77.4700
 zipSample: ["20147", "20103", "20149", "20146", "20166"]
 zipCodes: ["20149", "20103", "20166", "20146", "20104", "20147"]
 localPaths: ["Loudoun County / ZIP 20103 sector", "Loudoun County / coords 39.0300, -77.4700", "Loudoun County / ZIP 20166 sector", "Loudoun County / primary ZIP 20166", "Loudoun County / ZIP 20146 sector"]
+zillowHomeValueUsd: 630875
 ---
 
 **Engineering Notice for Ashburn:** Structural loading calculated based on 240 ft terrain assessment. Regional dispatch grid: Loudoun County.

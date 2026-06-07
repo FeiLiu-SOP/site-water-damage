@@ -12,6 +12,7 @@ lng: -103.6500
 zipSample: ["69145"]
 zipCodes: ["69145"]
 localPaths: ["Kimball County / elevation 4721 ft band", "Kimball County / primary ZIP 69145", "Kimball County / ZIP 69145 sector", "Kimball County / coords 41.2300, -103.6500"]
+zillowHomeValueUsd: 162399
 ---
 
 **Engineering Notice for Kimball:** Site context locked to Kimball County. Exterior Envelope integrity verification recorded.

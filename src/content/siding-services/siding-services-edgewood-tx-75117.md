@@ -12,6 +12,7 @@ lng: -95.8800
 zipSample: ["75117"]
 zipCodes: ["75117"]
 localPaths: ["Van Zandt County / elevation 489 ft band", "Van Zandt County / coords 32.6900, -95.8800", "Van Zandt County / ZIP 75117 sector", "Van Zandt County / primary ZIP 75117"]
+zillowHomeValueUsd: 278836
 ---
 
 **Engineering Notice for Edgewood:** Cladding verification uses 138 mph routing baseline; lateral pressure note: 17.8 psf. Elevation: 489 ft AMSL. Coordinates: 32.6900, -95.8800. Grid: Van Zandt County.

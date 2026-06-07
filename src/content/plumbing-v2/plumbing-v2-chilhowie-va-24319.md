@@ -12,6 +12,7 @@ lng: -81.6800
 zipSample: ["24319"]
 zipCodes: ["24319"]
 localPaths: ["Smyth County / elevation 1975 ft band", "Smyth County / ZIP 24319 sector", "Smyth County / primary ZIP 24319", "Smyth County / coords 36.8000, -81.6800"]
+zillowHomeValueUsd: 190008
 ---
 
 **Engineering Notice for Chilhowie:** System optimized for 165 mg/L hard water scaling factors in Chilhowie. Regional dispatch grid: Smyth County.

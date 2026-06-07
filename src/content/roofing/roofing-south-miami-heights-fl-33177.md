@@ -11,6 +11,7 @@ lng: -80.3900
 zipSample: ["33177", "33157"]
 zipCodes: ["33177", "33157"]
 localPaths: ["Miami-Dade County / primary ZIP 33177", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / ZIP 33177 sector", "Miami-Dade County / ZIP 33157 sector", "Miami-Dade County / coords 25.5900, -80.3900"]
+zillowHomeValueUsd: 571271
 ---
 
 **Engineering Notice for South Miami Heights:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

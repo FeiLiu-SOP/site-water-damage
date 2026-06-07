@@ -11,6 +11,7 @@ lng: -88.3400
 zipSample: ["60542"]
 zipCodes: ["60542"]
 localPaths: ["Kane County / primary ZIP 60542", "Kane County / coords 41.8100, -88.3400", "Kane County / elevation 712 ft band", "Kane County / ZIP 60542 sector"]
+zillowHomeValueUsd: 394261
 ---
 
 **Engineering Notice for North Aurora:** Structural loading calculated based on 712 ft terrain assessment. Regional dispatch grid: Kane County.

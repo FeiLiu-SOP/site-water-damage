@@ -12,6 +12,7 @@ lng: -81.5200
 zipSample: ["29702"]
 zipCodes: ["29702"]
 localPaths: ["Cherokee County / elevation 761 ft band", "Cherokee County / primary ZIP 29702", "Cherokee County / ZIP 29702 sector", "Cherokee County / coords 35.1200, -81.5200"]
+zillowHomeValueUsd: 160087
 ---
 
 **Engineering Notice for Blacksburg:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 0.72. Elevation: 761 ft AMSL. Regional dispatch grid: Cherokee County.

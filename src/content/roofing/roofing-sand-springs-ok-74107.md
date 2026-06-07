@@ -11,6 +11,7 @@ lng: -96.1300
 zipSample: ["74063", "74107"]
 zipCodes: ["74063", "74107"]
 localPaths: ["Tulsa County / coords 36.1400, -96.1300", "Tulsa County / elevation 666 ft band", "Tulsa County / ZIP 74063 sector", "Tulsa County / ZIP 74107 sector", "Tulsa County / primary ZIP 74107"]
+zillowHomeValueUsd: 158171
 ---
 
 **Engineering Notice for Sand Springs:** Structural loading calculated based on 666 ft terrain assessment. Regional dispatch grid: Tulsa County.

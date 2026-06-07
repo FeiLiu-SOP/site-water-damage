@@ -11,6 +11,7 @@ lng: -91.9100
 zipSample: ["54751"]
 zipCodes: ["54751"]
 localPaths: ["Dunn County / elevation 833 ft band", "Dunn County / ZIP 54751 sector", "Dunn County / primary ZIP 54751", "Dunn County / coords 44.8900, -91.9100"]
+zillowHomeValueUsd: 300389
 ---
 
 **Engineering Notice for Menomonie:** Structural loading calculated based on 833 ft terrain assessment. Regional dispatch grid: Dunn County.

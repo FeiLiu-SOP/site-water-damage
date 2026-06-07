@@ -12,6 +12,7 @@ lng: -97.0000
 zipSample: ["67144"]
 zipCodes: ["67144"]
 localPaths: ["Butler County / elevation 1312 ft band", "Butler County / primary ZIP 67144", "Butler County / coords 37.8000, -97.0000", "Butler County / ZIP 67144 sector"]
+zillowHomeValueUsd: 239605
 ---
 
 **Engineering Notice for Towanda:** System optimized for 128 mg/L hard water scaling factors in Towanda. Regional dispatch grid: Butler County.

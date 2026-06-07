@@ -12,6 +12,7 @@ lng: -78.3700
 zipSample: ["15537"]
 zipCodes: ["15537"]
 localPaths: ["Bedford County / elevation 1109 ft band", "Bedford County / ZIP 15537 sector", "Bedford County / coords 40.0100, -78.3700", "Bedford County / primary ZIP 15537"]
+zillowHomeValueUsd: 205673
 ---
 
 **Engineering Notice for Everett:** System optimized for 176 mg/L hard water scaling factors in Everett. Regional dispatch grid: Bedford County.

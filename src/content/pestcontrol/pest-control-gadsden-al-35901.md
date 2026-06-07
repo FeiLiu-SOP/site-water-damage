@@ -11,6 +11,7 @@ lng: -86.0200
 zipSample: ["35901", "35904", "35903", "35902"]
 zipCodes: ["35902", "35901", "35904", "35903"]
 localPaths: ["Etowah County / ZIP 35903 sector", "Etowah County / elevation 581 ft band", "Etowah County / coords 34.0100, -86.0200", "Etowah County / primary ZIP 35901", "Etowah County / ZIP 35904 sector"]
+zillowHomeValueUsd: 158231
 ---
 
 **Engineering Notice for Gadsden:** Structural loading calculated based on 581 ft terrain assessment. Regional dispatch grid: Etowah County.

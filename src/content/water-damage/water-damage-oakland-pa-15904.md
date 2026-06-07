@@ -12,6 +12,7 @@ lng: -78.8800
 zipSample: ["15904", "15902"]
 zipCodes: ["15904", "15902"]
 localPaths: ["Cambria County / coords 40.3100, -78.8800", "Cambria County / ZIP 15902 sector", "Cambria County / ZIP 15904 sector", "Cambria County / elevation 1739 ft band", "Cambria County / primary ZIP 15904"]
+zillowHomeValueUsd: 142481
 ---
 
 **Engineering Notice for Oakland:** structural drying capacity optimized for 1739ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cambria County. Relative Humidity Threshold: 81%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -81.7700
 zipSample: ["29373", "29372"]
 zipCodes: ["29372", "29373"]
 localPaths: ["Spartanburg County / elevation 751 ft band", "Spartanburg County / ZIP 29373 sector", "Spartanburg County / ZIP 29372 sector", "Spartanburg County / coords 34.9100, -81.7700", "Spartanburg County / primary ZIP 29372"]
+zillowHomeValueUsd: 162434
 ---
 
 **Engineering Notice for Pacolet:** System optimized for 134 mg/L hard water scaling factors in Pacolet. Regional dispatch grid: Spartanburg County.

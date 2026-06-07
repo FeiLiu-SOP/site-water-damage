@@ -11,6 +11,7 @@ lng: -93.2000
 zipSample: ["55304"]
 zipCodes: ["55304"]
 localPaths: ["Anoka County / primary ZIP 55304", "Anoka County / coords 45.2500, -93.2000", "Anoka County / ZIP 55304 sector", "Anoka County / elevation 889 ft band"]
+zillowHomeValueUsd: 451308
 ---
 
 **Engineering Notice for Ham Lake:** Structural loading calculated based on 889 ft terrain assessment. Regional dispatch grid: Anoka County.

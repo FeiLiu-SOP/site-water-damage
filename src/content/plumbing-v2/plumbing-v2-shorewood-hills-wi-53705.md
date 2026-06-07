@@ -12,6 +12,7 @@ lng: -89.4500
 zipSample: ["53791", "53705"]
 zipCodes: ["53791", "53705"]
 localPaths: ["Dane County / coords 43.0800, -89.4500", "Dane County / ZIP 53791 sector", "Dane County / elevation 981 ft band", "Dane County / ZIP 53705 sector", "Dane County / primary ZIP 53705"]
+zillowHomeValueUsd: 556650
 ---
 
 **Engineering Notice for Shorewood Hills:** System optimized for 150 mg/L hard water scaling factors in Shorewood Hills. Regional dispatch grid: Dane County.

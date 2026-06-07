@@ -12,6 +12,7 @@ lng: -120.4700
 zipSample: ["96122"]
 zipCodes: ["96122"]
 localPaths: ["Plumas County / coords 39.8200, -120.4700", "Plumas County / primary ZIP 96122", "Plumas County / ZIP 96122 sector", "Plumas County / elevation 5115 ft band"]
+zillowHomeValueUsd: 262355
 ---
 
 **Engineering Notice for Portola:** Structural integrity verification: Panel Replacement calibrated for 144 mph localized wind load factor. Coordinates: 39.8200, -120.4700. Regional dispatch grid: Plumas County.

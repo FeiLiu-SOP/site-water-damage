@@ -12,6 +12,7 @@ lng: -77.4800
 zipSample: ["20108", "20110"]
 zipCodes: ["20108", "20110"]
 localPaths: ["Manassas County / primary ZIP 20110", "Manassas County / elevation 279 ft band", "Manassas County / ZIP 20108 sector", "Manassas County / coords 38.7500, -77.4800", "Manassas County / ZIP 20110 sector"]
+zillowHomeValueUsd: 515156
 ---
 
 **Engineering Notice for Manassas:** Structural loading calculated based on 279 ft terrain assessment. Regional dispatch grid: Manassas County.

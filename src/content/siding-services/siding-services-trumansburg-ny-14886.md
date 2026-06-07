@@ -12,6 +12,7 @@ lng: -76.6600
 zipSample: ["14886"]
 zipCodes: ["14886"]
 localPaths: ["Tompkins County / ZIP 14886 sector", "Tompkins County / primary ZIP 14886", "Tompkins County / elevation 997 ft band", "Tompkins County / coords 42.5400, -76.6600"]
+zillowHomeValueUsd: 328483
 ---
 
 **Engineering Notice for Trumansburg:** Weather Barrier Wrap was validated under stress factor 1.14; target tolerance set near 98 mph. Grid anchor: Tompkins County.

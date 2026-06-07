@@ -12,6 +12,7 @@ lng: -121.7500
 zipSample: ["98045"]
 zipCodes: ["98045"]
 localPaths: ["King County / ZIP 98045 sector", "King County / coords 47.4700, -121.7500", "King County / primary ZIP 98045", "King County / elevation 518 ft band"]
+zillowHomeValueUsd: 1003658
 ---
 
 **Engineering Notice for Riverbend:** System optimized for 126 mg/L hard water scaling factors in Riverbend. Regional dispatch grid: King County.

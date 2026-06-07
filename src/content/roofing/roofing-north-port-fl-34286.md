@@ -11,6 +11,7 @@ lng: -82.2000
 zipSample: ["34293", "34223", "34287", "34289", "34291"]
 zipCodes: ["34291", "34286", "34289", "34223", "34287", "34290", "34293", "34288"]
 localPaths: ["Sarasota County / ZIP 34289 sector", "Sarasota County / ZIP 34291 sector", "Sarasota County / ZIP 34223 sector", "Sarasota County / ZIP 34293 sector", "Sarasota County / elevation 26 ft band"]
+zillowHomeValueUsd: 310581
 ---
 
 **Engineering Notice for North Port:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Sarasota County.

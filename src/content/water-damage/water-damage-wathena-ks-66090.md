@@ -12,6 +12,7 @@ lng: -94.9400
 zipSample: ["66090"]
 zipCodes: ["66090"]
 localPaths: ["Doniphan County / elevation 827 ft band", "Doniphan County / primary ZIP 66090", "Doniphan County / coords 39.7600, -94.9400", "Doniphan County / ZIP 66090 sector"]
+zillowHomeValueUsd: 183995
 ---
 
 **Engineering Notice for Wathena:** structural drying capacity optimized for 827ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Doniphan County. Relative Humidity Threshold: 74%. Sensor sync: Active.

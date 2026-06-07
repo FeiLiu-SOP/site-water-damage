@@ -11,6 +11,7 @@ lng: -122.8000
 zipSample: ["97296", "97229"]
 zipCodes: ["97296", "97229"]
 localPaths: ["Washington County / primary ZIP 97229", "Washington County / ZIP 97229 sector", "Washington County / ZIP 97296 sector", "Washington County / coords 45.5400, -122.8000", "Washington County / elevation 531 ft band"]
+zillowHomeValueUsd: 743115
 ---
 
 **Engineering Notice for Cedar Mill:** Structural loading calculated based on 531 ft terrain assessment. Regional dispatch grid: Washington County.

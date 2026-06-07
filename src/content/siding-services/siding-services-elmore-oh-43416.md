@@ -12,6 +12,7 @@ lng: -83.2900
 zipSample: ["43416"]
 zipCodes: ["43416"]
 localPaths: ["Ottawa County / coords 41.4700, -83.2900", "Ottawa County / ZIP 43416 sector", "Ottawa County / primary ZIP 43416", "Ottawa County / elevation 614 ft band"]
+zillowHomeValueUsd: 216131
 ---
 
 **Engineering Notice for Elmore:** Site context locked to Ottawa County. Elevation: 614 ft AMSL. Exterior Cladding integrity verification recorded.

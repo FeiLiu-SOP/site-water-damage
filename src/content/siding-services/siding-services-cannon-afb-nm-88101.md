@@ -12,6 +12,7 @@ lng: -103.3200
 zipSample: ["88101", "88103"]
 zipCodes: ["88103", "88101"]
 localPaths: ["Curry County / ZIP 88103 sector", "Curry County / coords 34.3900, -103.3200", "Curry County / elevation 4298 ft band", "Curry County / primary ZIP 88101", "Curry County / ZIP 88101 sector"]
+zillowHomeValueUsd: 161624
 ---
 
 **Engineering Notice for Cannon AFB:** Site context locked to Curry County. Coordinates: 34.3900, -103.3200. Cladding Retrofit integrity verification recorded.

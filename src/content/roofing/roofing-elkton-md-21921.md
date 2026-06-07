@@ -11,6 +11,7 @@ lng: -75.8200
 zipSample: ["21921", "21922"]
 zipCodes: ["21922", "21921"]
 localPaths: ["Cecil County / ZIP 21921 sector", "Cecil County / primary ZIP 21921", "Cecil County / coords 39.6100, -75.8200", "Cecil County / elevation 13 ft band", "Cecil County / ZIP 21922 sector"]
+zillowHomeValueUsd: 369137
 ---
 
 **Engineering Notice for Elkton:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Cecil County.

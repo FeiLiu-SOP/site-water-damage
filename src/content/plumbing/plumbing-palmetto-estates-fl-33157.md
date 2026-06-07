@@ -12,6 +12,7 @@ lng: -80.3600
 zipSample: ["33157"]
 zipCodes: ["33157"]
 localPaths: ["Miami-Dade County / ZIP 33157 sector", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / coords 25.6200, -80.3600", "Miami-Dade County / primary ZIP 33157"]
+zillowHomeValueUsd: 628099
 ---
 
 **Engineering Notice for Palmetto Estates:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

@@ -12,6 +12,7 @@ lng: -82.7000
 zipSample: ["34695"]
 zipCodes: ["34695"]
 localPaths: ["Pinellas County / primary ZIP 34695", "Pinellas County / elevation 39 ft band", "Pinellas County / coords 28.0100, -82.7000", "Pinellas County / ZIP 34695 sector"]
+zillowHomeValueUsd: 496237
 ---
 
 **Engineering Notice for Safety Harbor:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Pinellas County.

@@ -12,6 +12,7 @@ lng: -86.7700
 zipSample: ["47460"]
 zipCodes: ["47460"]
 localPaths: ["Owen County / coords 39.2900, -86.7700", "Owen County / elevation 558 ft band", "Owen County / primary ZIP 47460", "Owen County / ZIP 47460 sector"]
+zillowHomeValueUsd: 248953
 ---
 
 **Engineering Notice for Spencer:** Structural integrity verification: Cladding Retrofit calibrated for 105 mph localized wind load factor. Coordinates: 39.2900, -86.7700. Regional dispatch grid: Owen County.

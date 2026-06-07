@@ -12,6 +12,7 @@ lng: -87.8600
 zipSample: ["53172"]
 zipCodes: ["53172"]
 localPaths: ["Milwaukee County / primary ZIP 53172", "Milwaukee County / coords 42.9100, -87.8600", "Milwaukee County / elevation 686 ft band", "Milwaukee County / ZIP 53172 sector"]
+zillowHomeValueUsd: 300458
 ---
 
 **Engineering Notice for South Milwaukee:** Structural loading calculated based on 686 ft terrain assessment. Regional dispatch grid: Milwaukee County.

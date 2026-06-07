@@ -12,6 +12,7 @@ lng: -94.7400
 zipSample: ["50841"]
 zipCodes: ["50841"]
 localPaths: ["Adams County / primary ZIP 50841", "Adams County / elevation 1214 ft band", "Adams County / coords 40.9900, -94.7400", "Adams County / ZIP 50841 sector"]
+zillowHomeValueUsd: 143274
 ---
 
 **Engineering Notice for Corning:** Envelope check: Facade Renewal assigned to wind-load band B with stress factor 0.86. Regional dispatch grid: Adams County.

@@ -11,6 +11,7 @@ lng: -111.9600
 zipSample: ["84041", "84040"]
 zipCodes: ["84040", "84041"]
 localPaths: ["Davis County / primary ZIP 84041", "Davis County / ZIP 84041 sector", "Davis County / coords 41.0800, -111.9600", "Davis County / elevation 4462 ft band", "Davis County / ZIP 84040 sector"]
+zillowHomeValueUsd: 484879
 ---
 
 **Engineering Notice for Layton:** Structural loading calculated based on 4462 ft terrain assessment. Regional dispatch grid: Davis County.

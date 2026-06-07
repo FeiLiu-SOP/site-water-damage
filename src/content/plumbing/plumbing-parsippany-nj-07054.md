@@ -12,6 +12,7 @@ lng: -74.4100
 zipSample: ["07005", "07054"]
 zipCodes: ["07054", "07005"]
 localPaths: ["Morris County / coords 40.8600, -74.4100", "Morris County / elevation 302 ft band", "Morris County / primary ZIP 07054", "Morris County / ZIP 07054 sector", "Morris County / ZIP 07005 sector"]
+zillowHomeValueUsd: 724341
 ---
 
 **Engineering Notice for Parsippany:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Morris County.

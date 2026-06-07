@@ -12,6 +12,7 @@ lng: -75.3100
 zipSample: ["19003", "19041"]
 zipCodes: ["19041", "19003"]
 localPaths: ["Delaware County / ZIP 19003 sector", "Delaware County / ZIP 19041 sector", "Delaware County / primary ZIP 19041", "Delaware County / coords 40.0100, -75.3100", "Delaware County / elevation 367 ft band"]
+zillowHomeValueUsd: 1135386
 ---
 
 **Engineering Notice for Haverford College:** structural drying capacity optimized for 367ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Delaware County. Relative Humidity Threshold: 79%. Sensor sync: Active.

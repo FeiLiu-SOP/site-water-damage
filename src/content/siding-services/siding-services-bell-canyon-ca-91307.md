@@ -12,6 +12,7 @@ lng: -118.6900
 zipSample: ["91307"]
 zipCodes: ["91307"]
 localPaths: ["Ventura County / coords 34.2100, -118.6900", "Ventura County / elevation 1388 ft band", "Ventura County / primary ZIP 91307", "Ventura County / ZIP 91307 sector"]
+zillowHomeValueUsd: 1011315
 ---
 
 **Engineering Notice for Bell Canyon:** Site context locked to Ventura County. Elevation: 1388 ft AMSL. Coordinates: 34.2100, -118.6900. Cladding Retrofit integrity verification recorded.

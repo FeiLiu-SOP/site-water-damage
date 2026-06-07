@@ -12,6 +12,8 @@ lng: -86.5300
 zipSample: ["35147", "35078", "35185"]
 zipCodes: ["35078", "35185", "35147"]
 localPaths: ["Shelby County / coords 33.3700, -86.5300", "Shelby County / primary ZIP 35185", "Shelby County / ZIP 35185 sector", "Shelby County / ZIP 35147 sector", "Shelby County / elevation 495 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 206989
 ---
 
 **Engineering Notice for Westover:** Envelope check: Cladding Retrofit assigned to wind-load band B with stress factor 0.77. Regional dispatch grid: Shelby County.

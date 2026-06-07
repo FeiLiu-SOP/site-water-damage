@@ -12,6 +12,7 @@ lng: -111.8600
 zipSample: ["84310"]
 zipCodes: ["84310"]
 localPaths: ["Weber County / primary ZIP 84310", "Weber County / ZIP 84310 sector", "Weber County / coords 41.3400, -111.8600", "Weber County / elevation 5171 ft band"]
+zillowHomeValueUsd: 844601
 ---
 
 **Engineering Notice for Liberty:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Elevation: 5171 ft AMSL. Coordinates: 41.3400, -111.8600. Grid: Weber County.

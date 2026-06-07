@@ -12,6 +12,8 @@ lng: -109.5700
 zipSample: ["85626", "85607"]
 zipCodes: ["85626", "85607"]
 localPaths: ["Cochise County / elevation 3980 ft band", "Cochise County / ZIP 85607 sector", "Cochise County / coords 31.3600, -109.5700", "Cochise County / ZIP 85626 sector", "Cochise County / primary ZIP 85626"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 446851
 ---
 
 **Engineering Notice for Pirtleville:** Weather Barrier Wrap was validated under stress factor 1.13; target tolerance set near 110 mph. Coordinates: 31.3600, -109.5700. Grid anchor: Cochise County.

@@ -12,6 +12,7 @@ lng: -81.4400
 zipSample: ["44139"]
 zipCodes: ["44139"]
 localPaths: ["Cuyahoga County / coords 41.3900, -81.4400", "Cuyahoga County / primary ZIP 44139", "Cuyahoga County / elevation 1037 ft band", "Cuyahoga County / ZIP 44139 sector"]
+zillowHomeValueUsd: 453604
 ---
 
 **Engineering Notice for Solon:** Structural loading calculated based on 1037 ft terrain assessment. Regional dispatch grid: Cuyahoga County.

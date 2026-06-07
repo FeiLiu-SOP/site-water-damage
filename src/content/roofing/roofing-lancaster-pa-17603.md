@@ -11,6 +11,7 @@ lng: -76.3000
 zipSample: ["17602", "17603", "17601", "17608", "17699"]
 zipCodes: ["17602", "17699", "17603", "17601", "17608", "17622"]
 localPaths: ["Lancaster County / ZIP 17603 sector", "Lancaster County / coords 40.0400, -76.3000", "Lancaster County / ZIP 17699 sector", "Lancaster County / elevation 394 ft band", "Lancaster County / ZIP 17601 sector"]
+zillowHomeValueUsd: 307365
 ---
 
 **Engineering Notice for Lancaster:** Structural loading calculated based on 394 ft terrain assessment. Regional dispatch grid: Lancaster County.

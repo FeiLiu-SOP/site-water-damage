@@ -12,6 +12,7 @@ lng: -95.6800
 zipSample: ["74436"]
 zipCodes: ["74436"]
 localPaths: ["Muskogee County / primary ZIP 74436", "Muskogee County / coords 35.8200, -95.6800", "Muskogee County / ZIP 74436 sector", "Muskogee County / elevation 604 ft band"]
+zillowHomeValueUsd: 206664
 ---
 
 **Engineering Notice for Haskell:** System optimized for 154 mg/L hard water scaling factors in Haskell. Regional dispatch grid: Muskogee County.

@@ -12,6 +12,7 @@ lng: -92.2000
 zipSample: ["52591"]
 zipCodes: ["52591"]
 localPaths: ["Keokuk County / coords 41.3300, -92.2000", "Keokuk County / elevation 797 ft band", "Keokuk County / primary ZIP 52591", "Keokuk County / ZIP 52591 sector"]
+zillowHomeValueUsd: 141602
 ---
 
 **Engineering Notice for Sigourney:** structural drying capacity optimized for 797ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Keokuk County. Relative Humidity Threshold: 78%. Sensor sync: Active.

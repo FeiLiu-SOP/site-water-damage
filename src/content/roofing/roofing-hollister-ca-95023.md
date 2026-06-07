@@ -11,6 +11,7 @@ lng: -121.4000
 zipSample: ["95024", "95023"]
 zipCodes: ["95023", "95024"]
 localPaths: ["San Benito County / coords 36.8600, -121.4000", "San Benito County / primary ZIP 95023", "San Benito County / ZIP 95023 sector", "San Benito County / ZIP 95024 sector", "San Benito County / elevation 282 ft band"]
+zillowHomeValueUsd: 763175
 ---
 
 **Engineering Notice for Hollister:** Structural loading calculated based on 282 ft terrain assessment. Regional dispatch grid: San Benito County.

@@ -12,6 +12,7 @@ lng: -73.8400
 zipSample: ["10547", "10598", "10567"]
 zipCodes: ["10547", "10567", "10598"]
 localPaths: ["Westchester County / ZIP 10598 sector", "Westchester County / ZIP 10547 sector", "Westchester County / elevation 328 ft band", "Westchester County / coords 41.2900, -73.8400", "Westchester County / primary ZIP 10598"]
+zillowHomeValueUsd: 700223
 ---
 
 **Engineering Notice for Crompond:** System optimized for 121 mg/L hard water scaling factors in Crompond. Regional dispatch grid: Westchester County.

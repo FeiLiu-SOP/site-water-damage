@@ -12,6 +12,7 @@ lng: -90.0500
 zipSample: ["49911"]
 zipCodes: ["49911"]
 localPaths: ["Gogebic County / elevation 1493 ft band", "Gogebic County / ZIP 49911 sector", "Gogebic County / coords 46.4800, -90.0500", "Gogebic County / primary ZIP 49911"]
+zillowHomeValueUsd: 111893
 ---
 
 **Engineering Notice for Bessemer:** System optimized for 163 mg/L hard water scaling factors in Bessemer. Regional dispatch grid: Gogebic County.

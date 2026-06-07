@@ -11,6 +11,7 @@ lng: -121.6400
 zipSample: ["95037"]
 zipCodes: ["95037"]
 localPaths: ["Santa Clara County / elevation 358 ft band", "Santa Clara County / ZIP 95037 sector", "Santa Clara County / primary ZIP 95037", "Santa Clara County / coords 37.1300, -121.6400"]
+zillowHomeValueUsd: 1356455
 ---
 
 **Engineering Notice for Morgan Hill:** Structural loading calculated based on 358 ft terrain assessment. Regional dispatch grid: Santa Clara County.

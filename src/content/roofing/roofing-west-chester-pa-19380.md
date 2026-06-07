@@ -11,6 +11,7 @@ lng: -75.6100
 zipSample: ["19382", "19383", "19380"]
 zipCodes: ["19380", "19383", "19382"]
 localPaths: ["Chester County / ZIP 19383 sector", "Chester County / elevation 472 ft band", "Chester County / ZIP 19382 sector", "Chester County / ZIP 19380 sector", "Chester County / primary ZIP 19380"]
+zillowHomeValueUsd: 647378
 ---
 
 **Engineering Notice for West Chester:** Structural loading calculated based on 472 ft terrain assessment. Regional dispatch grid: Chester County.

@@ -11,6 +11,7 @@ lng: -81.8300
 zipSample: ["44149", "44136"]
 zipCodes: ["44149", "44136"]
 localPaths: ["Cuyahoga County / elevation 932 ft band", "Cuyahoga County / primary ZIP 44136", "Cuyahoga County / ZIP 44149 sector", "Cuyahoga County / ZIP 44136 sector", "Cuyahoga County / coords 41.3100, -81.8300"]
+zillowHomeValueUsd: 353794
 ---
 
 **Engineering Notice for Strongsville:** Structural loading calculated based on 932 ft terrain assessment. Regional dispatch grid: Cuyahoga County.

@@ -11,6 +11,7 @@ lng: -97.3400
 zipSample: ["67202", "67219", "67201", "67204", "67210"]
 zipCodes: ["67214", "67275", "67277", "67203", "67276", "67223", "67211", "67206", "67207", "67218", "67201", "67213"]
 localPaths: ["Sedgwick County / ZIP 67202 sector", "Sedgwick County / ZIP 67204 sector", "Sedgwick County / primary ZIP 67230", "Sedgwick County / elevation 1329 ft band", "Sedgwick County / ZIP 67219 sector"]
+zillowHomeValueUsd: 436614
 ---
 
 **Engineering Notice for Wichita:** Structural loading calculated based on 1329 ft terrain assessment. Regional dispatch grid: Sedgwick County.

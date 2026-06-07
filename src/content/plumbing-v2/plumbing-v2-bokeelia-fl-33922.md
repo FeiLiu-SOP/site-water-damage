@@ -12,6 +12,7 @@ lng: -82.1400
 zipSample: ["33922"]
 zipCodes: ["33922"]
 localPaths: ["Lee County / ZIP 33922 sector", "Lee County / elevation 39 ft band", "Lee County / primary ZIP 33922", "Lee County / coords 26.6800, -82.1400"]
+zillowHomeValueUsd: 359538
 ---
 
 **Engineering Notice for Bokeelia:** System optimized for 141 mg/L hard water scaling factors in Bokeelia. Regional dispatch grid: Lee County.

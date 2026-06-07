@@ -12,6 +12,7 @@ lng: -81.5500
 zipSample: ["31525", "31523"]
 zipCodes: ["31523", "31525"]
 localPaths: ["Glynn County / elevation 20 ft band", "Glynn County / ZIP 31523 sector", "Glynn County / ZIP 31525 sector", "Glynn County / primary ZIP 31523", "Glynn County / coords 31.2600, -81.5500"]
+zillowHomeValueUsd: 329219
 ---
 
 **Engineering Notice for Sterling:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 0.93. Regional dispatch grid: Glynn County.

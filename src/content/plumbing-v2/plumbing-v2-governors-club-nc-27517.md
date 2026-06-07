@@ -12,6 +12,7 @@ lng: -79.0500
 zipSample: ["27517"]
 zipCodes: ["27517"]
 localPaths: ["Chatham County / elevation 469 ft band", "Chatham County / coords 35.8400, -79.0500", "Chatham County / primary ZIP 27517", "Chatham County / ZIP 27517 sector"]
+zillowHomeValueUsd: 674729
 ---
 
 **Engineering Notice for Governors Club:** System optimized for 142 mg/L hard water scaling factors in Governors Club. Regional dispatch grid: Chatham County.

@@ -12,6 +12,7 @@ lng: -121.4000
 zipSample: ["95901"]
 zipCodes: ["95901"]
 localPaths: ["Yuba County / primary ZIP 95901", "Yuba County / elevation 499 ft band", "Yuba County / ZIP 95901 sector", "Yuba County / coords 39.3200, -121.4000"]
+zillowHomeValueUsd: 391328
 ---
 
 **Engineering Notice for Loma Rica:** Envelope check: Panel Replacement assigned to wind-load band C with stress factor 0.82. Elevation: 499 ft AMSL. Regional dispatch grid: Yuba County.

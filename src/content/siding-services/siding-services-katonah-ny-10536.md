@@ -12,6 +12,7 @@ lng: -73.6900
 zipSample: ["10536"]
 zipCodes: ["10536"]
 localPaths: ["Westchester County / primary ZIP 10536", "Westchester County / elevation 249 ft band", "Westchester County / ZIP 10536 sector", "Westchester County / coords 41.2600, -73.6900"]
+zillowHomeValueUsd: 1075574
 ---
 
 **Engineering Notice for Katonah:** Exterior Envelope was validated under stress factor 1.07; target tolerance set near 103 mph. Grid anchor: Westchester County.

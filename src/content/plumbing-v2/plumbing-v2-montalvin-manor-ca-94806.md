@@ -12,6 +12,7 @@ lng: -122.3300
 zipSample: ["94806"]
 zipCodes: ["94806"]
 localPaths: ["Contra Costa County / primary ZIP 94806", "Contra Costa County / ZIP 94806 sector", "Contra Costa County / coords 38.0000, -122.3300", "Contra Costa County / elevation 49 ft band"]
+zillowHomeValueUsd: 582763
 ---
 
 **Engineering Notice for Montalvin Manor:** System optimized for 165 mg/L hard water scaling factors in Montalvin Manor. Regional dispatch grid: Contra Costa County.

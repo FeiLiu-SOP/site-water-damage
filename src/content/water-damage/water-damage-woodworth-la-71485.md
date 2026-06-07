@@ -12,6 +12,7 @@ lng: -92.5100
 zipSample: ["71485"]
 zipCodes: ["71485"]
 localPaths: ["Rapides Parish / ZIP 71485 sector", "Rapides Parish / coords 31.1700, -92.5100", "Rapides Parish / elevation 112 ft band", "Rapides Parish / primary ZIP 71485"]
+zillowHomeValueUsd: 314714
 ---
 
 **Engineering Notice for Woodworth:** structural drying capacity optimized for 112ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rapides Parish. Relative Humidity Threshold: 79%. Sensor sync: Active.

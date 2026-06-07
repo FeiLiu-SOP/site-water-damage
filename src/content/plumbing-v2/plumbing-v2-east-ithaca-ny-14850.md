@@ -12,6 +12,7 @@ lng: -76.4600
 zipSample: ["14850"]
 zipCodes: ["14850"]
 localPaths: ["Tompkins County / elevation 1004 ft band", "Tompkins County / coords 42.4300, -76.4600", "Tompkins County / ZIP 14850 sector", "Tompkins County / primary ZIP 14850"]
+zillowHomeValueUsd: 404621
 ---
 
 **Engineering Notice for East Ithaca:** System optimized for 154 mg/L hard water scaling factors in East Ithaca. Regional dispatch grid: Tompkins County.

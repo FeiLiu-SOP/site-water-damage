@@ -11,6 +11,7 @@ lng: -81.1900
 zipSample: ["32766", "32762", "32765"]
 zipCodes: ["32762", "32765", "32766"]
 localPaths: ["Seminole County / primary ZIP 32765", "Seminole County / ZIP 32765 sector", "Seminole County / ZIP 32762 sector", "Seminole County / elevation 69 ft band", "Seminole County / ZIP 32766 sector"]
+zillowHomeValueUsd: 489560
 ---
 
 **Engineering Notice for Oviedo:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Seminole County.

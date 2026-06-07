@@ -12,6 +12,7 @@ lng: -100.8500
 zipSample: ["67877"]
 zipCodes: ["67877"]
 localPaths: ["Haskell County / coords 37.4800, -100.8500", "Haskell County / primary ZIP 67877", "Haskell County / ZIP 67877 sector", "Haskell County / elevation 2956 ft band"]
+zillowHomeValueUsd: 206666
 ---
 
 **Engineering Notice for Sublette:** Cladding verification uses 102 mph routing baseline; lateral pressure note: 13.4 psf. Coordinates: 37.4800, -100.8500. Grid: Haskell County.

@@ -12,6 +12,7 @@ lng: -106.9000
 zipSample: ["88007"]
 zipCodes: ["88007"]
 localPaths: ["Doña Ana County / primary ZIP 88007", "Doña Ana County / coords 32.4800, -106.9000", "Doña Ana County / elevation 3950 ft band", "Doña Ana County / ZIP 88007 sector"]
+zillowHomeValueUsd: 325974
 ---
 
 **Engineering Notice for Radium Springs:** structural drying capacity optimized for 3950ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Doña Ana County. Relative Humidity Threshold: 65%. Sensor sync: Active.

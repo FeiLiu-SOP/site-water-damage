@@ -11,6 +11,7 @@ lng: -120.5800
 zipSample: ["93420", "93421"]
 zipCodes: ["93421", "93420"]
 localPaths: ["San Luis Obispo County / primary ZIP 93420", "San Luis Obispo County / ZIP 93420 sector", "San Luis Obispo County / elevation 217 ft band", "San Luis Obispo County / coords 35.1200, -120.5800", "San Luis Obispo County / ZIP 93421 sector"]
+zillowHomeValueUsd: 1050010
 ---
 
 **Engineering Notice for Arroyo Grande:** Structural loading calculated based on 217 ft terrain assessment. Regional dispatch grid: San Luis Obispo County.

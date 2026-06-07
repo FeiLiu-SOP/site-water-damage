@@ -12,6 +12,7 @@ lng: -122.5300
 zipSample: ["98386", "98366", "98384"]
 zipCodes: ["98366", "98384", "98386"]
 localPaths: ["Kitsap County / ZIP 98384 sector", "Kitsap County / coords 47.5100, -122.5300", "Kitsap County / primary ZIP 98366", "Kitsap County / elevation 299 ft band", "Kitsap County / ZIP 98366 sector"]
+zillowHomeValueUsd: 503724
 ---
 
 **Engineering Notice for Southworth:** Structural integrity verification: Exterior Cladding calibrated for 101 mph localized wind load factor. Elevation: 299 ft AMSL. Regional dispatch grid: Kitsap County.

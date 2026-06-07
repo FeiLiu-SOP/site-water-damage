@@ -11,6 +11,7 @@ lng: -94.7600
 zipSample: ["75608", "75604", "75605", "75606", "75660"]
 zipCodes: ["75660", "75602", "75604", "75606", "75615", "75605", "75608", "75601"]
 localPaths: ["Gregg County / elevation 331 ft band", "Gregg County / ZIP 75606 sector", "Gregg County / ZIP 75608 sector", "Gregg County / coords 32.5200, -94.7600", "Gregg County / ZIP 75660 sector"]
+zillowHomeValueUsd: 140566
 ---
 
 **Engineering Notice for Longview:** Structural loading calculated based on 331 ft terrain assessment. Regional dispatch grid: Gregg County.

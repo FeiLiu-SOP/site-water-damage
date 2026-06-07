@@ -12,6 +12,7 @@ lng: -89.8500
 zipSample: ["62675"]
 zipCodes: ["62675"]
 localPaths: ["Menard County / ZIP 62675 sector", "Menard County / elevation 499 ft band", "Menard County / primary ZIP 62675", "Menard County / coords 40.0100, -89.8500"]
+zillowHomeValueUsd: 216540
 ---
 
 **Engineering Notice for Petersburg:** System optimized for 146 mg/L hard water scaling factors in Petersburg. Regional dispatch grid: Menard County.

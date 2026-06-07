@@ -11,6 +11,7 @@ lng: -104.7600
 zipSample: ["80935", "80925", "80929", "80951", "80947"]
 zipCodes: ["80941", "80977", "80950", "80920", "80932", "80903", "80946", "80925", "80922", "80924", "80915", "80918"]
 localPaths: ["El Paso County / ZIP 80925 sector", "El Paso County / primary ZIP 80951", "El Paso County / ZIP 80947 sector", "El Paso County / ZIP 80929 sector", "El Paso County / coords 38.8700, -104.7600"]
+zillowHomeValueUsd: 429670
 ---
 
 **Engineering Notice for Colorado Springs:** Structural loading calculated based on 6345 ft terrain assessment. Regional dispatch grid: El Paso County.

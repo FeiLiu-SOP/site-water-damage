@@ -11,6 +11,7 @@ lng: -85.7000
 zipSample: ["47131", "47144", "47199", "47130", "47190"]
 zipCodes: ["47132", "47134", "47199", "47130", "47190", "47144", "47133", "47131"]
 localPaths: ["Clark County / ZIP 47199 sector", "Clark County / ZIP 47130 sector", "Clark County / primary ZIP 47130", "Clark County / ZIP 47190 sector", "Clark County / elevation 568 ft band"]
+zillowHomeValueUsd: 252908
 ---
 
 **Engineering Notice for Jeffersonville:** Structural loading calculated based on 568 ft terrain assessment. Regional dispatch grid: Clark County.

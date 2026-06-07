@@ -12,6 +12,7 @@ lng: -89.3800
 zipSample: ["39402"]
 zipCodes: ["39402"]
 localPaths: ["Lamar County / ZIP 39402 sector", "Lamar County / elevation 262 ft band", "Lamar County / coords 31.3400, -89.3800", "Lamar County / primary ZIP 39402"]
+zillowHomeValueUsd: 276468
 ---
 
 **Engineering Notice for Arnold Line:** System optimized for 125 mg/L hard water scaling factors in Arnold Line. Regional dispatch grid: Lamar County.

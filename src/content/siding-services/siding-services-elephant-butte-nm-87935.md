@@ -12,6 +12,7 @@ lng: -107.2300
 zipSample: ["87935"]
 zipCodes: ["87935"]
 localPaths: ["Sierra County / primary ZIP 87935", "Sierra County / elevation 4491 ft band", "Sierra County / coords 33.1800, -107.2300", "Sierra County / ZIP 87935 sector"]
+zillowHomeValueUsd: 237654
 ---
 
 **Engineering Notice for Elephant Butte:** Site context locked to Sierra County. Elevation: 4491 ft AMSL. Coordinates: 33.1800, -107.2300. Cladding Service integrity verification recorded.

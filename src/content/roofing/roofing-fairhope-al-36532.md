@@ -11,6 +11,7 @@ lng: -87.8800
 zipSample: ["36532", "36559"]
 zipCodes: ["36559", "36532"]
 localPaths: ["Baldwin County / coords 30.5200, -87.8800", "Baldwin County / ZIP 36532 sector", "Baldwin County / ZIP 36559 sector", "Baldwin County / elevation 128 ft band", "Baldwin County / primary ZIP 36532"]
+zillowHomeValueUsd: 459840
 ---
 
 **Engineering Notice for Fairhope:** Structural loading calculated based on 128 ft terrain assessment. Regional dispatch grid: Baldwin County.

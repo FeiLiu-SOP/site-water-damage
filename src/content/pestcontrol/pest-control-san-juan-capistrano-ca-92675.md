@@ -11,6 +11,7 @@ lng: -117.6500
 zipSample: ["92693", "92675"]
 zipCodes: ["92693", "92675"]
 localPaths: ["Orange County / ZIP 92693 sector", "Orange County / primary ZIP 92675", "Orange County / elevation 115 ft band", "Orange County / coords 33.5000, -117.6500", "Orange County / ZIP 92675 sector"]
+zillowHomeValueUsd: 1338915
 ---
 
 **Engineering Notice for San Juan Capistrano:** Structural loading calculated based on 115 ft terrain assessment. Regional dispatch grid: Orange County.

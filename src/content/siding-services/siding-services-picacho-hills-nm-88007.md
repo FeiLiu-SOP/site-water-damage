@@ -12,6 +12,7 @@ lng: -106.8800
 zipSample: ["88007"]
 zipCodes: ["88007"]
 localPaths: ["Doña Ana County / primary ZIP 88007", "Doña Ana County / elevation 4127 ft band", "Doña Ana County / coords 32.3200, -106.8800", "Doña Ana County / ZIP 88007 sector"]
+zillowHomeValueUsd: 325969
 ---
 
 **Engineering Notice for Picacho Hills:** Envelope check: Exterior Envelope assigned to wind-load band A with stress factor 1.05. Regional dispatch grid: Doña Ana County.

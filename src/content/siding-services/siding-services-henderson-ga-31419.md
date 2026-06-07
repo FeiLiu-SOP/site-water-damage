@@ -12,6 +12,7 @@ lng: -81.2700
 zipSample: ["31419"]
 zipCodes: ["31419"]
 localPaths: ["Chatham County / ZIP 31419 sector", "Chatham County / coords 32.0100, -81.2700", "Chatham County / primary ZIP 31419", "Chatham County / elevation 59 ft band"]
+zillowHomeValueUsd: 310268
 ---
 
 **Engineering Notice for Henderson:** Site context locked to Chatham County. Elevation: 59 ft AMSL. Coordinates: 32.0100, -81.2700. Vinyl Panels integrity verification recorded.

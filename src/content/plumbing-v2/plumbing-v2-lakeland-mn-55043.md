@@ -12,6 +12,7 @@ lng: -92.7700
 zipSample: ["55043"]
 zipCodes: ["55043"]
 localPaths: ["Washington County / coords 44.9500, -92.7700", "Washington County / ZIP 55043 sector", "Washington County / primary ZIP 55043", "Washington County / elevation 732 ft band"]
+zillowHomeValueUsd: 396201
 ---
 
 **Engineering Notice for Lakeland:** System optimized for 120 mg/L hard water scaling factors in Lakeland. Regional dispatch grid: Washington County.

@@ -12,6 +12,7 @@ lng: -84.2200
 zipSample: ["37714", "37847", "37757"]
 zipCodes: ["37714", "37847", "37757"]
 localPaths: ["Campbell County / ZIP 37847 sector", "Campbell County / ZIP 37757 sector", "Campbell County / primary ZIP 37714", "Campbell County / ZIP 37714 sector", "Campbell County / elevation 1188 ft band"]
+zillowHomeValueUsd: 247692
 ---
 
 **Engineering Notice for Caryville:** System optimized for 165 mg/L hard water scaling factors in Caryville. Regional dispatch grid: Campbell County.

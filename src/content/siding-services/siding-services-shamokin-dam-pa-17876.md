@@ -12,6 +12,7 @@ lng: -76.8200
 zipSample: ["17876"]
 zipCodes: ["17876"]
 localPaths: ["Snyder County / elevation 538 ft band", "Snyder County / coords 40.8500, -76.8200", "Snyder County / ZIP 17876 sector", "Snyder County / primary ZIP 17876"]
+zillowHomeValueUsd: 212772
 ---
 
 **Engineering Notice for Shamokin Dam:** Site context locked to Snyder County. Elevation: 538 ft AMSL. Wall Restoration integrity verification recorded.

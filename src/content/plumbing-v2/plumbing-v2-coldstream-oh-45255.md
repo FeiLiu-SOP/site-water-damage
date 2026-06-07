@@ -12,6 +12,7 @@ lng: -84.3500
 zipSample: ["45255"]
 zipCodes: ["45255"]
 localPaths: ["Hamilton County / coords 39.0500, -84.3500", "Hamilton County / primary ZIP 45255", "Hamilton County / ZIP 45255 sector", "Hamilton County / elevation 827 ft band"]
+zillowHomeValueUsd: 353607
 ---
 
 **Engineering Notice for Coldstream:** System optimized for 176 mg/L hard water scaling factors in Coldstream. Regional dispatch grid: Hamilton County.

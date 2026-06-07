@@ -12,6 +12,7 @@ lng: -115.7700
 zipSample: ["89801"]
 zipCodes: ["89801"]
 localPaths: ["Elko County / ZIP 89801 sector", "Elko County / elevation 5121 ft band", "Elko County / primary ZIP 89801", "Elko County / coords 40.8400, -115.7700"]
+zillowHomeValueUsd: 365354
 ---
 
 **Engineering Notice for Elko:** Structural loading calculated based on 5121 ft terrain assessment. Regional dispatch grid: Elko County.

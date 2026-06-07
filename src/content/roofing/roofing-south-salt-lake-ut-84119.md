@@ -11,6 +11,7 @@ lng: -111.9000
 zipSample: ["84190", "84165", "84119", "84115"]
 zipCodes: ["84119", "84115", "84165", "84190"]
 localPaths: ["Salt Lake County / ZIP 84165 sector", "Salt Lake County / coords 40.7100, -111.9000", "Salt Lake County / ZIP 84190 sector", "Salt Lake County / primary ZIP 84119", "Salt Lake County / ZIP 84115 sector"]
+zillowHomeValueUsd: 437657
 ---
 
 **Engineering Notice for South Salt Lake:** Structural loading calculated based on 4262 ft terrain assessment. Regional dispatch grid: Salt Lake County.

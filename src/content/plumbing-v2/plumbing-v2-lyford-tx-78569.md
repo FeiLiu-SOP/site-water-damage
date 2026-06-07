@@ -12,6 +12,7 @@ lng: -97.7900
 zipSample: ["78569"]
 zipCodes: ["78569"]
 localPaths: ["Willacy County / ZIP 78569 sector", "Willacy County / primary ZIP 78569", "Willacy County / elevation 52 ft band", "Willacy County / coords 26.4100, -97.7900"]
+zillowHomeValueUsd: 179022
 ---
 
 **Engineering Notice for Lyford:** System optimized for 129 mg/L hard water scaling factors in Lyford. Regional dispatch grid: Willacy County.

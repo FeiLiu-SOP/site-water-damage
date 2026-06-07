@@ -12,6 +12,7 @@ lng: -95.2000
 zipSample: ["77346", "77396"]
 zipCodes: ["77346", "77396"]
 localPaths: ["Harris County / primary ZIP 77346", "Harris County / coords 29.9800, -95.2000", "Harris County / ZIP 77346 sector", "Harris County / elevation 102 ft band", "Harris County / ZIP 77396 sector"]
+zillowHomeValueUsd: 311584
 ---
 
 **Engineering Notice for Atascocita:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Harris County.

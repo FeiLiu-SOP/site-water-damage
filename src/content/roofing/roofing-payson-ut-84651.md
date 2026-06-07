@@ -11,6 +11,7 @@ lng: -111.7400
 zipSample: ["84651"]
 zipCodes: ["84651"]
 localPaths: ["Utah County / ZIP 84651 sector", "Utah County / coords 40.0400, -111.7400", "Utah County / primary ZIP 84651", "Utah County / elevation 4678 ft band"]
+zillowHomeValueUsd: 518355
 ---
 
 **Engineering Notice for Payson:** Structural loading calculated based on 4678 ft terrain assessment. Regional dispatch grid: Utah County.

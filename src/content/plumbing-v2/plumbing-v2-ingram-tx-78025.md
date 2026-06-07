@@ -12,6 +12,7 @@ lng: -99.2400
 zipSample: ["78025"]
 zipCodes: ["78025"]
 localPaths: ["Kerr County / coords 30.0800, -99.2400", "Kerr County / elevation 1742 ft band", "Kerr County / ZIP 78025 sector", "Kerr County / primary ZIP 78025"]
+zillowHomeValueUsd: 374658
 ---
 
 **Engineering Notice for Ingram:** System optimized for 123 mg/L hard water scaling factors in Ingram. Regional dispatch grid: Kerr County.

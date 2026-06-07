@@ -12,6 +12,7 @@ lng: -77.0600
 zipSample: ["17350"]
 zipCodes: ["17350"]
 localPaths: ["Adams County / ZIP 17350 sector", "Adams County / elevation 564 ft band", "Adams County / coords 39.8600, -77.0600", "Adams County / primary ZIP 17350"]
+zillowHomeValueUsd: 297848
 ---
 
 **Engineering Notice for New Oxford:** Cladding verification uses 94 mph routing baseline; lateral pressure note: 12.5 psf. Elevation: 564 ft AMSL. Grid: Adams County.

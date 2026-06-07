@@ -12,6 +12,7 @@ lng: -92.4400
 zipSample: ["54015"]
 zipCodes: ["54015"]
 localPaths: ["St. Croix County / elevation 1083 ft band", "St. Croix County / primary ZIP 54015", "St. Croix County / ZIP 54015 sector", "St. Croix County / coords 44.9700, -92.4400"]
+zillowHomeValueUsd: 380882
 ---
 
 **Engineering Notice for Hammond:** System optimized for 129 mg/L hard water scaling factors in Hammond. Regional dispatch grid: St. Croix County.

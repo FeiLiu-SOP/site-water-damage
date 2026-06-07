@@ -12,6 +12,7 @@ lng: -76.8100
 zipSample: ["28532"]
 zipCodes: ["28532"]
 localPaths: ["Craven County / primary ZIP 28532", "Craven County / elevation 20 ft band", "Craven County / ZIP 28532 sector", "Craven County / coords 34.9300, -76.8100"]
+zillowHomeValueUsd: 233700
 ---
 
 **Engineering Notice for Cherry Branch:** System optimized for 170 mg/L hard water scaling factors in Cherry Branch. Regional dispatch grid: Craven County.

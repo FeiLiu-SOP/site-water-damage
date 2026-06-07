@@ -11,6 +11,7 @@ lng: -81.7200
 zipSample: ["34712", "34713", "34711"]
 zipCodes: ["34711", "34712", "34713"]
 localPaths: ["Lake County / coords 28.5300, -81.7200", "Lake County / elevation 141 ft band", "Lake County / ZIP 34711 sector", "Lake County / ZIP 34712 sector", "Lake County / ZIP 34713 sector"]
+zillowHomeValueUsd: 428245
 ---
 
 **Engineering Notice for Clermont:** Structural loading calculated based on 141 ft terrain assessment. Regional dispatch grid: Lake County.

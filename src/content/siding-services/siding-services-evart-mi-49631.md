@@ -12,6 +12,7 @@ lng: -85.2800
 zipSample: ["49631"]
 zipCodes: ["49631"]
 localPaths: ["Osceola County / elevation 1043 ft band", "Osceola County / ZIP 49631 sector", "Osceola County / primary ZIP 49631", "Osceola County / coords 43.9000, -85.2800"]
+zillowHomeValueUsd: 187240
 ---
 
 **Engineering Notice for Evart:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Elevation: 1043 ft AMSL. Grid: Osceola County.

@@ -12,6 +12,7 @@ lng: -72.9900
 zipSample: ["11763"]
 zipCodes: ["11763"]
 localPaths: ["Suffolk County / primary ZIP 11763", "Suffolk County / elevation 102 ft band", "Suffolk County / coords 40.8200, -72.9900", "Suffolk County / ZIP 11763 sector"]
+zillowHomeValueUsd: 596807
 ---
 
 **Engineering Notice for Medford:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Suffolk County.

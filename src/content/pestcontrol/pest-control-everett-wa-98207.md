@@ -11,6 +11,7 @@ lng: -122.1700
 zipSample: ["98201", "98208", "98203", "98206", "98213"]
 zipCodes: ["98207", "98203", "98206", "98213", "98201", "98204", "98208"]
 localPaths: ["Snohomish County / ZIP 98213 sector", "Snohomish County / coords 47.9500, -122.1700", "Snohomish County / primary ZIP 98207", "Snohomish County / ZIP 98208 sector", "Snohomish County / ZIP 98201 sector"]
+zillowHomeValueUsd: 771479
 ---
 
 **Engineering Notice for Everett:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Snohomish County.

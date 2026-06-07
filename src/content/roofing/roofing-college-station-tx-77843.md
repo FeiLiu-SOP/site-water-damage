@@ -11,6 +11,7 @@ lng: -96.3000
 zipSample: ["77845", "77842", "77840", "77841", "77843"]
 zipCodes: ["77840", "77845", "77844", "77881", "77842", "77841", "77843"]
 localPaths: ["Brazos County / ZIP 77840 sector", "Brazos County / elevation 302 ft band", "Brazos County / ZIP 77843 sector", "Brazos County / ZIP 77841 sector", "Brazos County / ZIP 77842 sector"]
+zillowHomeValueUsd: 366380
 ---
 
 **Engineering Notice for College Station:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Brazos County.

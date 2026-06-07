@@ -12,6 +12,7 @@ lng: -84.8600
 zipSample: ["37381"]
 zipCodes: ["37381"]
 localPaths: ["Rhea County / coords 35.6900, -84.8600", "Rhea County / elevation 758 ft band", "Rhea County / primary ZIP 37381", "Rhea County / ZIP 37381 sector"]
+zillowHomeValueUsd: 261598
 ---
 
 **Engineering Notice for Spring City:** Cladding Service was validated under stress factor 0.84; target tolerance set near 110 mph. Coordinates: 35.6900, -84.8600. Grid anchor: Rhea County.

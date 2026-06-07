@@ -12,6 +12,7 @@ lng: -81.5700
 zipSample: ["25315"]
 zipCodes: ["25315"]
 localPaths: ["Kanawha County / primary ZIP 25315", "Kanawha County / ZIP 25315 sector", "Kanawha County / elevation 771 ft band", "Kanawha County / coords 38.2500, -81.5700"]
+zillowHomeValueUsd: 89114
 ---
 
 **Engineering Notice for Marmet:** Cladding verification uses 96 mph routing baseline; lateral pressure note: 12.7 psf. Elevation: 771 ft AMSL. Coordinates: 38.2500, -81.5700. Grid: Kanawha County.

@@ -12,6 +12,7 @@ lng: -75.2000
 zipSample: ["18917"]
 zipCodes: ["18917"]
 localPaths: ["Bucks County / coords 40.3700, -75.2000", "Bucks County / primary ZIP 18917", "Bucks County / ZIP 18917 sector", "Bucks County / elevation 541 ft band"]
+zillowHomeValueUsd: 472154
 ---
 
 **Engineering Notice for Dublin:** System optimized for 121 mg/L hard water scaling factors in Dublin. Regional dispatch grid: Bucks County.

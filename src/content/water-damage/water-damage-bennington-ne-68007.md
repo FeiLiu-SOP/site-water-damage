@@ -12,6 +12,7 @@ lng: -96.1600
 zipSample: ["68007"]
 zipCodes: ["68007"]
 localPaths: ["Douglas County / primary ZIP 68007", "Douglas County / coords 41.3700, -96.1600", "Douglas County / ZIP 68007 sector", "Douglas County / elevation 1142 ft band"]
+zillowHomeValueUsd: 410086
 ---
 
 **Engineering Notice for Bennington:** structural drying capacity optimized for 1142ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Douglas County. Relative Humidity Threshold: 79%. Sensor sync: Active.

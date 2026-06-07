@@ -12,6 +12,7 @@ lng: -98.0900
 zipSample: ["58474"]
 zipCodes: ["58474"]
 localPaths: ["Dickey County / elevation 1316 ft band", "Dickey County / ZIP 58474 sector", "Dickey County / coords 46.1400, -98.0900", "Dickey County / primary ZIP 58474"]
+zillowHomeValueUsd: 180056
 ---
 
 **Engineering Notice for Oakes:** structural drying capacity optimized for 1316ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dickey County. Relative Humidity Threshold: 69%. Sensor sync: Active.

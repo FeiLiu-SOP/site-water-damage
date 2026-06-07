@@ -12,6 +12,7 @@ lng: -102.4000
 zipSample: ["58784"]
 zipCodes: ["58784"]
 localPaths: ["Mountrail County / elevation 2241 ft band", "Mountrail County / ZIP 58784 sector", "Mountrail County / coords 48.3100, -102.4000", "Mountrail County / primary ZIP 58784"]
+zillowHomeValueUsd: 234418
 ---
 
 **Engineering Notice for Stanley:** System optimized for 146 mg/L hard water scaling factors in Stanley. Regional dispatch grid: Mountrail County.

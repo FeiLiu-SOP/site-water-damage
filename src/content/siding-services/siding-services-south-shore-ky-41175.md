@@ -12,6 +12,7 @@ lng: -82.9600
 zipSample: ["41175"]
 zipCodes: ["41175"]
 localPaths: ["Greenup County / coords 38.7200, -82.9600", "Greenup County / ZIP 41175 sector", "Greenup County / primary ZIP 41175", "Greenup County / elevation 538 ft band"]
+zillowHomeValueUsd: 129860
 ---
 
 **Engineering Notice for South Shore:** Cladding verification uses 101 mph routing baseline; lateral pressure note: 13.3 psf. Grid: Greenup County.

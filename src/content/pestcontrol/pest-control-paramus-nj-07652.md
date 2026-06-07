@@ -11,6 +11,7 @@ lng: -74.0700
 zipSample: ["07652", "07653"]
 zipCodes: ["07653", "07652"]
 localPaths: ["Bergen County / primary ZIP 07652", "Bergen County / elevation 59 ft band", "Bergen County / ZIP 07653 sector", "Bergen County / ZIP 07652 sector", "Bergen County / coords 40.9500, -74.0700"]
+zillowHomeValueUsd: 1041866
 ---
 
 **Engineering Notice for Paramus:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Bergen County.

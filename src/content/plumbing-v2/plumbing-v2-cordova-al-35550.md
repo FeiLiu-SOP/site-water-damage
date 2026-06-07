@@ -12,6 +12,7 @@ lng: -87.1900
 zipSample: ["35550"]
 zipCodes: ["35550"]
 localPaths: ["Walker County / coords 33.7600, -87.1900", "Walker County / ZIP 35550 sector", "Walker County / elevation 472 ft band", "Walker County / primary ZIP 35550"]
+zillowHomeValueUsd: 94407
 ---
 
 **Engineering Notice for Cordova:** System optimized for 141 mg/L hard water scaling factors in Cordova. Regional dispatch grid: Walker County.

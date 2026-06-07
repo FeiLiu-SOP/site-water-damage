@@ -12,6 +12,7 @@ lng: -81.5500
 zipSample: ["43723"]
 zipCodes: ["43723"]
 localPaths: ["Guernsey County / elevation 804 ft band", "Guernsey County / coords 39.9700, -81.5500", "Guernsey County / primary ZIP 43723", "Guernsey County / ZIP 43723 sector"]
+zillowHomeValueUsd: 149692
 ---
 
 **Engineering Notice for Byesville:** Cladding Service was validated under stress factor 1.24; target tolerance set near 90 mph. Coordinates: 39.9700, -81.5500. Grid anchor: Guernsey County.

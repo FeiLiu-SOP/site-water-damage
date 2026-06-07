@@ -12,6 +12,7 @@ lng: -98.6200
 zipSample: ["78357"]
 zipCodes: ["78357"]
 localPaths: ["Duval County / primary ZIP 78357", "Duval County / elevation 525 ft band", "Duval County / ZIP 78357 sector", "Duval County / coords 27.8800, -98.6200"]
+zillowHomeValueUsd: 80751
 ---
 
 **Engineering Notice for Freer:** Site context locked to Duval County. Facade Renewal integrity verification recorded.

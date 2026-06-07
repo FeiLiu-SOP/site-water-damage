@@ -12,6 +12,7 @@ lng: -98.0600
 zipSample: ["68978"]
 zipCodes: ["68978"]
 localPaths: ["Nuckolls County / coords 40.0200, -98.0600", "Nuckolls County / elevation 1631 ft band", "Nuckolls County / ZIP 68978 sector", "Nuckolls County / primary ZIP 68978"]
+zillowHomeValueUsd: 97634
 ---
 
 **Engineering Notice for Superior:** Site context locked to Nuckolls County. Elevation: 1631 ft AMSL. Weather Barrier Wrap integrity verification recorded.

@@ -11,6 +11,7 @@ lng: -79.2400
 zipSample: ["14702", "14701"]
 zipCodes: ["14701", "14702"]
 localPaths: ["Chautauqua County / ZIP 14702 sector", "Chautauqua County / coords 42.1000, -79.2400", "Chautauqua County / ZIP 14701 sector", "Chautauqua County / primary ZIP 14701", "Chautauqua County / elevation 1398 ft band"]
+zillowHomeValueUsd: 117906
 ---
 
 **Engineering Notice for Jamestown:** Structural loading calculated based on 1398 ft terrain assessment. Regional dispatch grid: Chautauqua County.

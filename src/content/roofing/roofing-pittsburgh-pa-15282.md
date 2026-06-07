@@ -11,6 +11,7 @@ lng: -79.9800
 zipSample: ["15214", "15220", "15224", "15262", "15240"]
 zipCodes: ["15261", "15252", "15208", "15259", "15270", "15204", "15120", "15264", "15233", "15211", "15267", "15253"]
 localPaths: ["Allegheny County / ZIP 15214 sector", "Allegheny County / ZIP 15240 sector", "Allegheny County / ZIP 15220 sector", "Allegheny County / primary ZIP 15282", "Allegheny County / elevation 951 ft band"]
+zillowHomeValueUsd: 356663
 ---
 
 **Engineering Notice for Pittsburgh:** Structural loading calculated based on 951 ft terrain assessment. Regional dispatch grid: Allegheny County.

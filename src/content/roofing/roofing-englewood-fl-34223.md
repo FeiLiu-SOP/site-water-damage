@@ -11,6 +11,7 @@ lng: -82.3500
 zipSample: ["34223", "34224"]
 zipCodes: ["34223", "34224"]
 localPaths: ["Sarasota County / elevation 30 ft band", "Sarasota County / coords 26.9700, -82.3500", "Sarasota County / primary ZIP 34223", "Sarasota County / ZIP 34223 sector", "Sarasota County / ZIP 34224 sector"]
+zillowHomeValueUsd: 372632
 ---
 
 **Engineering Notice for Englewood:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Sarasota County.

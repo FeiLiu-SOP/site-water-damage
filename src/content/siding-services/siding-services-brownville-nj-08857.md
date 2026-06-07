@@ -12,6 +12,7 @@ lng: -74.3000
 zipSample: ["08857"]
 zipCodes: ["08857"]
 localPaths: ["Middlesex County / primary ZIP 08857", "Middlesex County / elevation 85 ft band", "Middlesex County / ZIP 08857 sector", "Middlesex County / coords 40.4000, -74.3000"]
+zillowHomeValueUsd: 633240
 ---
 
 **Engineering Notice for Brownville:** Facade Renewal was validated under stress factor 1.11; target tolerance set near 97 mph. Grid anchor: Middlesex County.

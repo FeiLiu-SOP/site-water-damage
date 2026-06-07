@@ -11,6 +11,7 @@ lng: -81.7000
 zipSample: ["28655", "28680"]
 zipCodes: ["28655", "28680"]
 localPaths: ["Burke County / primary ZIP 28655", "Burke County / coords 35.7400, -81.7000", "Burke County / ZIP 28655 sector", "Burke County / ZIP 28680 sector", "Burke County / elevation 1201 ft band"]
+zillowHomeValueUsd: 259551
 ---
 
 **Engineering Notice for Morganton:** Structural loading calculated based on 1201 ft terrain assessment. Regional dispatch grid: Burke County.

@@ -12,6 +12,7 @@ lng: -76.8700
 zipSample: ["14891"]
 zipCodes: ["14891"]
 localPaths: ["Schuyler County / coords 42.3800, -76.8700", "Schuyler County / ZIP 14891 sector", "Schuyler County / primary ZIP 14891", "Schuyler County / elevation 469 ft band"]
+zillowHomeValueUsd: 230573
 ---
 
 **Engineering Notice for Watkins Glen:** Envelope check: Exterior Envelope assigned to wind-load band C with stress factor 1.13. Regional dispatch grid: Schuyler County.

@@ -12,6 +12,7 @@ lng: -81.3900
 zipSample: ["32810", "32751"]
 zipCodes: ["32751", "32810"]
 localPaths: ["Orange County / primary ZIP 32751", "Orange County / coords 28.6200, -81.3900", "Orange County / ZIP 32810 sector", "Orange County / elevation 105 ft band", "Orange County / ZIP 32751 sector"]
+zillowHomeValueUsd: 461495
 ---
 
 **Engineering Notice for Eatonville:** Envelope check: Panel Replacement assigned to wind-load band A with stress factor 0.79. Regional dispatch grid: Orange County.

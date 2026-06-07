@@ -11,6 +11,7 @@ lng: -81.1400
 zipSample: ["29212", "29210", "29227"]
 zipCodes: ["29212", "29210", "29227"]
 localPaths: ["Lexington County / primary ZIP 29212", "Lexington County / ZIP 29227 sector", "Lexington County / coords 34.0500, -81.1400", "Lexington County / ZIP 29212 sector", "Lexington County / ZIP 29210 sector"]
+zillowHomeValueUsd: 277876
 ---
 
 **Engineering Notice for Seven Oaks:** Structural loading calculated based on 262 ft terrain assessment. Regional dispatch grid: Lexington County.

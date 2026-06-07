@@ -12,6 +12,7 @@ lng: -75.0600
 zipSample: ["08825"]
 zipCodes: ["08825"]
 localPaths: ["Hunterdon County / primary ZIP 08825", "Hunterdon County / ZIP 08825 sector", "Hunterdon County / elevation 210 ft band", "Hunterdon County / coords 40.5300, -75.0600"]
+zillowHomeValueUsd: 572991
 ---
 
 **Engineering Notice for Frenchtown:** System optimized for 144 mg/L hard water scaling factors in Frenchtown. Regional dispatch grid: Hunterdon County.

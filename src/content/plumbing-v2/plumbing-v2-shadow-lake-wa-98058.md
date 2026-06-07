@@ -12,6 +12,7 @@ lng: -122.0800
 zipSample: ["98038", "98058", "98042"]
 zipCodes: ["98058", "98038", "98042"]
 localPaths: ["King County / ZIP 98042 sector", "King County / ZIP 98038 sector", "King County / elevation 607 ft band", "King County / primary ZIP 98058", "King County / ZIP 98058 sector"]
+zillowHomeValueUsd: 742742
 ---
 
 **Engineering Notice for Shadow Lake:** System optimized for 164 mg/L hard water scaling factors in Shadow Lake. Regional dispatch grid: King County.

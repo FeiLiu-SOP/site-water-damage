@@ -12,6 +12,7 @@ lng: -94.5900
 zipSample: ["64454"]
 zipCodes: ["64454"]
 localPaths: ["Clinton County / coords 39.6100, -94.5900", "Clinton County / primary ZIP 64454", "Clinton County / elevation 984 ft band", "Clinton County / ZIP 64454 sector"]
+zillowHomeValueUsd: 313877
 ---
 
 **Engineering Notice for Gower:** structural drying capacity optimized for 984ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clinton County. Relative Humidity Threshold: 75%. Sensor sync: Active.

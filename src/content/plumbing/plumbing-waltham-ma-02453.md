@@ -12,6 +12,7 @@ lng: -71.2400
 zipSample: ["02453", "02454", "02451", "02455", "02452"]
 zipCodes: ["02453", "02454", "02451", "02455", "02452"]
 localPaths: ["Middlesex County / ZIP 02451 sector", "Middlesex County / ZIP 02454 sector", "Middlesex County / ZIP 02453 sector", "Middlesex County / primary ZIP 02453", "Middlesex County / ZIP 02452 sector"]
+zillowHomeValueUsd: 814627
 ---
 
 **Engineering Notice for Waltham:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Middlesex County.

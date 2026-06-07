@@ -12,6 +12,7 @@ lng: -83.4500
 zipSample: ["28713"]
 zipCodes: ["28713"]
 localPaths: ["Swain County / elevation 1739 ft band", "Swain County / coords 35.4300, -83.4500", "Swain County / primary ZIP 28713", "Swain County / ZIP 28713 sector"]
+zillowHomeValueUsd: 320522
 ---
 
 **Engineering Notice for Bryson City:** Cladding Service was validated under stress factor 1.19; target tolerance set near 102 mph. Coordinates: 35.4300, -83.4500. Grid anchor: Swain County.

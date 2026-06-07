@@ -12,6 +12,7 @@ lng: -81.8700
 zipSample: ["44273"]
 zipCodes: ["44273"]
 localPaths: ["Medina County / coords 41.0200, -81.8700", "Medina County / elevation 994 ft band", "Medina County / ZIP 44273 sector", "Medina County / primary ZIP 44273"]
+zillowHomeValueUsd: 322791
 ---
 
 **Engineering Notice for Seville:** Site context locked to Medina County. Exterior Cladding integrity verification recorded.

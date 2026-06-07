@@ -12,6 +12,7 @@ lng: -87.7300
 zipSample: ["53083", "53081"]
 zipCodes: ["53083", "53081"]
 localPaths: ["Sheboygan County / ZIP 53081 sector", "Sheboygan County / primary ZIP 53083", "Sheboygan County / coords 43.7400, -87.7300", "Sheboygan County / elevation 663 ft band", "Sheboygan County / ZIP 53083 sector"]
+zillowHomeValueUsd: 327693
 ---
 
 **Engineering Notice for Sheboygan:** Structural loading calculated based on 663 ft terrain assessment. Regional dispatch grid: Sheboygan County.

@@ -12,6 +12,7 @@ lng: -80.5600
 zipSample: ["26426"]
 zipCodes: ["26426"]
 localPaths: ["Harrison County / primary ZIP 26426", "Harrison County / coords 39.2800, -80.5600", "Harrison County / ZIP 26426 sector", "Harrison County / elevation 1181 ft band"]
+zillowHomeValueUsd: 127259
 ---
 
 **Engineering Notice for Salem:** System optimized for 125 mg/L hard water scaling factors in Salem. Regional dispatch grid: Harrison County.

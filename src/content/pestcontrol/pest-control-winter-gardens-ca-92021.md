@@ -11,6 +11,7 @@ lng: -116.9300
 zipSample: ["92021", "92040"]
 zipCodes: ["92040", "92021"]
 localPaths: ["San Diego County / elevation 676 ft band", "San Diego County / coords 32.8400, -116.9300", "San Diego County / ZIP 92040 sector", "San Diego County / ZIP 92021 sector", "San Diego County / primary ZIP 92021"]
+zillowHomeValueUsd: 770796
 ---
 
 **Engineering Notice for Winter Gardens:** Structural loading calculated based on 676 ft terrain assessment. Regional dispatch grid: San Diego County.

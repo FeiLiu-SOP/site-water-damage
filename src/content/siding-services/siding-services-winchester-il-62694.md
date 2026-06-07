@@ -12,6 +12,7 @@ lng: -90.4600
 zipSample: ["62694"]
 zipCodes: ["62694"]
 localPaths: ["Scott County / primary ZIP 62694", "Scott County / elevation 551 ft band", "Scott County / ZIP 62694 sector", "Scott County / coords 39.6300, -90.4600"]
+zillowHomeValueUsd: 103167
 ---
 
 **Engineering Notice for Winchester:** Structural integrity verification: Facade Renewal calibrated for 102 mph localized wind load factor. Elevation: 551 ft AMSL. Coordinates: 39.6300, -90.4600. Regional dispatch grid: Scott County.

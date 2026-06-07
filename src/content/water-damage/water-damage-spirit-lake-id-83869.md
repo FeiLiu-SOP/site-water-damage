@@ -12,6 +12,7 @@ lng: -116.8700
 zipSample: ["83869"]
 zipCodes: ["83869"]
 localPaths: ["Kootenai County / primary ZIP 83869", "Kootenai County / elevation 2569 ft band", "Kootenai County / ZIP 83869 sector", "Kootenai County / coords 47.9700, -116.8700"]
+zillowHomeValueUsd: 590932
 ---
 
 **Engineering Notice for Spirit Lake:** structural drying capacity optimized for 2569ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kootenai County. Relative Humidity Threshold: 83%. Sensor sync: Active.

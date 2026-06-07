@@ -12,6 +12,7 @@ lng: -122.1000
 zipSample: ["96055"]
 zipCodes: ["96055"]
 localPaths: ["Tehama County / primary ZIP 96055", "Tehama County / ZIP 96055 sector", "Tehama County / elevation 236 ft band", "Tehama County / coords 40.0300, -122.1000"]
+zillowHomeValueUsd: 318076
 ---
 
 **Engineering Notice for Los Molinos:** Cladding Service was validated under stress factor 1.14; target tolerance set near 137 mph. Coordinates: 40.0300, -122.1000. Grid anchor: Tehama County.

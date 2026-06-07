@@ -12,6 +12,7 @@ lng: -92.1100
 zipSample: ["70520", "70583", "70507"]
 zipCodes: ["70520", "70583", "70507"]
 localPaths: ["Lafayette Parish / ZIP 70520 sector", "Lafayette Parish / coords 30.2800, -92.1100", "Lafayette Parish / primary ZIP 70520", "Lafayette Parish / ZIP 70507 sector", "Lafayette Parish / ZIP 70583 sector"]
+zillowHomeValueUsd: 211683
 ---
 
 **Engineering Notice for Ossun:** Envelope check: Exterior Cladding assigned to wind-load band C with stress factor 1.12. Regional dispatch grid: Lafayette Parish.

@@ -12,6 +12,7 @@ lng: -89.3000
 zipSample: ["53954"]
 zipCodes: ["53954"]
 localPaths: ["Columbia County / coords 43.5400, -89.3000", "Columbia County / primary ZIP 53954", "Columbia County / elevation 830 ft band", "Columbia County / ZIP 53954 sector"]
+zillowHomeValueUsd: 359992
 ---
 
 **Engineering Notice for Pardeeville:** Exterior Cladding was validated under stress factor 0.87; target tolerance set near 102 mph. Coordinates: 43.5400, -89.3000. Grid anchor: Columbia County.

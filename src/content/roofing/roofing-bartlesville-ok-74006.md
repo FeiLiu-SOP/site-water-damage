@@ -11,6 +11,7 @@ lng: -95.9500
 zipSample: ["74003", "74004", "74006", "74005"]
 zipCodes: ["74004", "74003", "74005", "74006"]
 localPaths: ["Washington County / ZIP 74005 sector", "Washington County / ZIP 74004 sector", "Washington County / coords 36.7400, -95.9500", "Washington County / elevation 741 ft band", "Washington County / ZIP 74006 sector"]
+zillowHomeValueUsd: 216070
 ---
 
 **Engineering Notice for Bartlesville:** Structural loading calculated based on 741 ft terrain assessment. Regional dispatch grid: Washington County.

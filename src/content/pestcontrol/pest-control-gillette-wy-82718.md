@@ -11,6 +11,7 @@ lng: -105.5000
 zipSample: ["82716", "82718"]
 zipCodes: ["82718", "82716"]
 localPaths: ["Campbell County / ZIP 82718 sector", "Campbell County / elevation 4534 ft band", "Campbell County / ZIP 82716 sector", "Campbell County / primary ZIP 82718", "Campbell County / coords 44.2800, -105.5000"]
+zillowHomeValueUsd: 361166
 ---
 
 **Engineering Notice for Gillette:** Structural loading calculated based on 4534 ft terrain assessment. Regional dispatch grid: Campbell County.

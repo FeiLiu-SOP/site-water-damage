@@ -12,6 +12,7 @@ lng: -81.8100
 zipSample: ["29832"]
 zipCodes: ["29832"]
 localPaths: ["Edgefield County / elevation 659 ft band", "Edgefield County / ZIP 29832 sector", "Edgefield County / primary ZIP 29832", "Edgefield County / coords 33.8300, -81.8100"]
+zillowHomeValueUsd: 152221
 ---
 
 **Engineering Notice for Johnston:** Structural integrity verification: Panel Replacement calibrated for 93 mph localized wind load factor. Elevation: 659 ft AMSL. Coordinates: 33.8300, -81.8100. Regional dispatch grid: Edgefield County.

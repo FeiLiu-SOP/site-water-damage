@@ -11,6 +11,7 @@ lng: -86.0500
 zipSample: ["46131"]
 zipCodes: ["46131"]
 localPaths: ["Johnson County / coords 39.4900, -86.0500", "Johnson County / primary ZIP 46131", "Johnson County / ZIP 46131 sector", "Johnson County / elevation 748 ft band"]
+zillowHomeValueUsd: 279648
 ---
 
 **Engineering Notice for Franklin:** Structural loading calculated based on 748 ft terrain assessment. Regional dispatch grid: Johnson County.

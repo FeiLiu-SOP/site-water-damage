@@ -12,6 +12,7 @@ lng: -75.5600
 zipSample: ["19934"]
 zipCodes: ["19934"]
 localPaths: ["Kent County / coords 39.1100, -75.5600", "Kent County / elevation 49 ft band", "Kent County / primary ZIP 19934", "Kent County / ZIP 19934 sector"]
+zillowHomeValueUsd: 378491
 ---
 
 **Engineering Notice for Wyoming:** System optimized for 130 mg/L hard water scaling factors in Wyoming. Regional dispatch grid: Kent County.

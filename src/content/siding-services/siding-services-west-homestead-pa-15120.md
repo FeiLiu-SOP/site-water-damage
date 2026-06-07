@@ -12,6 +12,7 @@ lng: -79.9200
 zipSample: ["15120"]
 zipCodes: ["15120"]
 localPaths: ["Allegheny County / ZIP 15120 sector", "Allegheny County / elevation 1040 ft band", "Allegheny County / coords 40.4000, -79.9200", "Allegheny County / primary ZIP 15120"]
+zillowHomeValueUsd: 143447
 ---
 
 **Engineering Notice for West Homestead:** Structural integrity verification: Cladding Retrofit calibrated for 90 mph localized wind load factor. Elevation: 1040 ft AMSL. Coordinates: 40.4000, -79.9200. Regional dispatch grid: Allegheny County.

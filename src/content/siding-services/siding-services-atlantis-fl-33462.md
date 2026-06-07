@@ -12,6 +12,7 @@ lng: -80.1000
 zipSample: ["33462"]
 zipCodes: ["33462"]
 localPaths: ["Palm Beach County / ZIP 33462 sector", "Palm Beach County / coords 26.6000, -80.1000", "Palm Beach County / elevation 30 ft band", "Palm Beach County / primary ZIP 33462"]
+zillowHomeValueUsd: 386207
 ---
 
 **Engineering Notice for Atlantis:** Vinyl Panels was validated under stress factor 0.84; target tolerance set near 148 mph. Grid anchor: Palm Beach County.

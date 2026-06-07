@@ -12,6 +12,7 @@ lng: -91.1600
 zipSample: ["52637"]
 zipCodes: ["52637"]
 localPaths: ["Des Moines County / elevation 778 ft band", "Des Moines County / coords 41.0100, -91.1600", "Des Moines County / ZIP 52637 sector", "Des Moines County / primary ZIP 52637"]
+zillowHomeValueUsd: 207468
 ---
 
 **Engineering Notice for Mediapolis:** System optimized for 140 mg/L hard water scaling factors in Mediapolis. Regional dispatch grid: Des Moines County.

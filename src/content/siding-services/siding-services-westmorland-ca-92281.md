@@ -12,6 +12,8 @@ lng: -115.6200
 zipSample: ["92281"]
 zipCodes: ["92281"]
 localPaths: ["Imperial County / ZIP 92281 sector", "Imperial County / primary ZIP 92281", "Imperial County / coords 33.0400, -115.6200", "Imperial County / elevation -159 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 861918
 ---
 
 **Engineering Notice for Westmorland:** Site context locked to Imperial County. Elevation: -159 ft AMSL. Vinyl Panels integrity verification recorded.

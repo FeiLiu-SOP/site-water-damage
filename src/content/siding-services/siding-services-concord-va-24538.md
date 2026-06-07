@@ -12,6 +12,7 @@ lng: -78.9900
 zipSample: ["24538"]
 zipCodes: ["24538"]
 localPaths: ["Campbell County / elevation 856 ft band", "Campbell County / primary ZIP 24538", "Campbell County / ZIP 24538 sector", "Campbell County / coords 37.3400, -78.9900"]
+zillowHomeValueUsd: 290243
 ---
 
 **Engineering Notice for Concord:** Panel Replacement was validated under stress factor 0.73; target tolerance set near 95 mph. Grid anchor: Campbell County.

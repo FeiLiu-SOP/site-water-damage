@@ -12,6 +12,7 @@ lng: -122.4700
 zipSample: ["94920"]
 zipCodes: ["94920"]
 localPaths: ["Marin County / coords 37.8700, -122.4700", "Marin County / primary ZIP 94920", "Marin County / elevation 66 ft band", "Marin County / ZIP 94920 sector"]
+zillowHomeValueUsd: 3265547
 ---
 
 **Engineering Notice for Belvedere:** System optimized for 172 mg/L hard water scaling factors in Belvedere. Regional dispatch grid: Marin County.

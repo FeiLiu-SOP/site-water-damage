@@ -12,6 +12,7 @@ lng: -82.6300
 zipSample: ["34667"]
 zipCodes: ["34667"]
 localPaths: ["Pasco County / primary ZIP 34667", "Pasco County / ZIP 34667 sector", "Pasco County / elevation 43 ft band", "Pasco County / coords 28.4300, -82.6300"]
+zillowHomeValueUsd: 276823
 ---
 
 **Engineering Notice for Heritage Pines:** structural drying capacity optimized for 43ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pasco County. Relative Humidity Threshold: 72%. Sensor sync: Active.

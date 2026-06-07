@@ -12,6 +12,7 @@ lng: -116.9800
 zipSample: ["91977", "91979", "91978"]
 zipCodes: ["91977", "91979", "91978"]
 localPaths: ["San Diego County / ZIP 91978 sector", "San Diego County / ZIP 91977 sector", "San Diego County / coords 32.7300, -116.9800", "San Diego County / elevation 535 ft band", "San Diego County / primary ZIP 91977"]
+zillowHomeValueUsd: 768733
 ---
 
 **Engineering Notice for Spring Valley:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: San Diego County.

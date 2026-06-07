@@ -12,6 +12,7 @@ lng: -87.0500
 zipSample: ["47635"]
 zipCodes: ["47635"]
 localPaths: ["Spencer County / primary ZIP 47635", "Spencer County / ZIP 47635 sector", "Spencer County / coords 37.8900, -87.0500", "Spencer County / elevation 400 ft band"]
+zillowHomeValueUsd: 209699
 ---
 
 **Engineering Notice for Rockport:** System optimized for 160 mg/L hard water scaling factors in Rockport. Regional dispatch grid: Spencer County.

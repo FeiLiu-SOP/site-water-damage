@@ -11,6 +11,7 @@ lng: -84.2300
 zipSample: ["48667", "48642", "48686", "48670", "48640"]
 zipCodes: ["48642", "48686", "48667", "48640", "48670"]
 localPaths: ["Midland County / ZIP 48686 sector", "Midland County / ZIP 48642 sector", "Midland County / ZIP 48670 sector", "Midland County / coords 43.6200, -84.2300", "Midland County / ZIP 48667 sector"]
+zillowHomeValueUsd: 247800
 ---
 
 **Engineering Notice for Midland:** Structural loading calculated based on 630 ft terrain assessment. Regional dispatch grid: Midland County.

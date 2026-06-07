@@ -12,6 +12,7 @@ lng: -90.1800
 zipSample: ["39073"]
 zipCodes: ["39073"]
 localPaths: ["Rankin County / ZIP 39073 sector", "Rankin County / primary ZIP 39073", "Rankin County / elevation 397 ft band", "Rankin County / coords 32.1600, -90.1800"]
+zillowHomeValueUsd: 246438
 ---
 
 **Engineering Notice for Cleary:** System optimized for 170 mg/L hard water scaling factors in Cleary. Regional dispatch grid: Rankin County.

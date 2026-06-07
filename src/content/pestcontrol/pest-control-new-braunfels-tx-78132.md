@@ -11,6 +11,7 @@ lng: -98.1100
 zipSample: ["78135", "78131", "78132", "78130"]
 zipCodes: ["78130", "78132", "78131", "78135"]
 localPaths: ["Comal County / ZIP 78131 sector", "Comal County / ZIP 78135 sector", "Comal County / ZIP 78132 sector", "Comal County / elevation 633 ft band", "Comal County / coords 29.7000, -98.1100"]
+zillowHomeValueUsd: 561022
 ---
 
 **Engineering Notice for New Braunfels:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Comal County.

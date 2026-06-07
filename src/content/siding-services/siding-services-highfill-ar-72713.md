@@ -12,6 +12,7 @@ lng: -94.3200
 zipSample: ["72734", "72713"]
 zipCodes: ["72734", "72713"]
 localPaths: ["Benton County / ZIP 72734 sector", "Benton County / ZIP 72713 sector", "Benton County / primary ZIP 72713", "Benton County / coords 36.2800, -94.3200", "Benton County / elevation 1276 ft band"]
+zillowHomeValueUsd: 454991
 ---
 
 **Engineering Notice for Highfill:** Vinyl Panels was validated under stress factor 1.00; target tolerance set near 90 mph. Grid anchor: Benton County.

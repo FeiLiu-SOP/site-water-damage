@@ -11,6 +11,7 @@ lng: -115.2600
 zipSample: ["89103", "89146", "89118", "89117", "89147"]
 zipCodes: ["89147", "89150", "89103", "89113", "89117", "89148", "89173", "89118", "89146"]
 localPaths: ["Clark County / primary ZIP 89147", "Clark County / ZIP 89117 sector", "Clark County / ZIP 89146 sector", "Clark County / coords 36.1000, -115.2600", "Clark County / ZIP 89118 sector"]
+zillowHomeValueUsd: 416084
 ---
 
 **Engineering Notice for Spring Valley:** Structural loading calculated based on 2444 ft terrain assessment. Regional dispatch grid: Clark County.

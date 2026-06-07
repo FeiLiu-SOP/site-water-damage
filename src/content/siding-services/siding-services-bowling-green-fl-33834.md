@@ -12,6 +12,7 @@ lng: -81.8200
 zipSample: ["33834"]
 zipCodes: ["33834"]
 localPaths: ["Hardee County / coords 27.6400, -81.8200", "Hardee County / ZIP 33834 sector", "Hardee County / elevation 138 ft band", "Hardee County / primary ZIP 33834"]
+zillowHomeValueUsd: 197471
 ---
 
 **Engineering Notice for Bowling Green:** Envelope check: Cladding Service assigned to wind-load band C with stress factor 0.75. Regional dispatch grid: Hardee County.

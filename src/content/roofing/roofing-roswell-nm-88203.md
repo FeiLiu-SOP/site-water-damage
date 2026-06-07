@@ -11,6 +11,7 @@ lng: -104.5300
 zipSample: ["88203", "88201"]
 zipCodes: ["88203", "88201"]
 localPaths: ["Chaves County / elevation 3629 ft band", "Chaves County / coords 33.3700, -104.5300", "Chaves County / ZIP 88203 sector", "Chaves County / primary ZIP 88203", "Chaves County / ZIP 88201 sector"]
+zillowHomeValueUsd: 142013
 ---
 
 **Engineering Notice for Roswell:** Structural loading calculated based on 3629 ft terrain assessment. Regional dispatch grid: Chaves County.

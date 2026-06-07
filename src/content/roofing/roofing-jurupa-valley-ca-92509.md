@@ -11,6 +11,7 @@ lng: -117.4700
 zipSample: ["92509", "91752", "92519"]
 zipCodes: ["91752", "92509", "92519"]
 localPaths: ["Riverside County / ZIP 92509 sector", "Riverside County / elevation 761 ft band", "Riverside County / ZIP 91752 sector", "Riverside County / ZIP 92519 sector", "Riverside County / primary ZIP 92509"]
+zillowHomeValueUsd: 636901
 ---
 
 **Engineering Notice for Jurupa Valley:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Riverside County.

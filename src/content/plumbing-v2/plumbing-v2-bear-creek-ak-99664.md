@@ -12,6 +12,7 @@ lng: -149.3500
 zipSample: ["99664"]
 zipCodes: ["99664"]
 localPaths: ["Kenai Peninsula County / ZIP 99664 sector", "Kenai Peninsula County / elevation 0 ft band", "Kenai Peninsula County / primary ZIP 99664", "Kenai Peninsula County / coords 60.2100, -149.3500"]
+zillowHomeValueUsd: 380727
 ---
 
 **Engineering Notice for Bear Creek:** System optimized for 151 mg/L hard water scaling factors in Bear Creek. Regional dispatch grid: Kenai Peninsula County.

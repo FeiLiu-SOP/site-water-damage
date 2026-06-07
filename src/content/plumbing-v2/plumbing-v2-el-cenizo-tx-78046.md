@@ -12,6 +12,7 @@ lng: -99.5000
 zipSample: ["78046"]
 zipCodes: ["78046"]
 localPaths: ["Webb County / ZIP 78046 sector", "Webb County / elevation 423 ft band", "Webb County / primary ZIP 78046", "Webb County / coords 27.3300, -99.5000"]
+zillowHomeValueUsd: 192645
 ---
 
 **Engineering Notice for El Cenizo:** System optimized for 142 mg/L hard water scaling factors in El Cenizo. Regional dispatch grid: Webb County.

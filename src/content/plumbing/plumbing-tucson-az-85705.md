@@ -12,6 +12,7 @@ lng: -110.8800
 zipSample: ["85751", "85713", "85732", "85748", "85714"]
 zipCodes: ["85725", "85734", "85723", "85754", "85724", "85732", "85756", "85726", "85748", "85716", "85711", "85721"]
 localPaths: ["Pima County / elevation 2677 ft band", "Pima County / ZIP 85714 sector", "Pima County / ZIP 85751 sector", "Pima County / ZIP 85713 sector", "Pima County / ZIP 85732 sector"]
+zillowHomeValueUsd: 254279
 ---
 
 **Engineering Notice for Tucson:** Structural loading calculated based on 2677 ft terrain assessment. Regional dispatch grid: Pima County.

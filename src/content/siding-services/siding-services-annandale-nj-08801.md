@@ -12,6 +12,7 @@ lng: -74.8900
 zipSample: ["08801", "08809"]
 zipCodes: ["08801", "08809"]
 localPaths: ["Hunterdon County / coords 40.6500, -74.8900", "Hunterdon County / ZIP 08801 sector", "Hunterdon County / ZIP 08809 sector", "Hunterdon County / primary ZIP 08801", "Hunterdon County / elevation 420 ft band"]
+zillowHomeValueUsd: 617007
 ---
 
 **Engineering Notice for Annandale:** Exterior Cladding was validated under stress factor 1.00; target tolerance set near 98 mph. Coordinates: 40.6500, -74.8900. Grid anchor: Hunterdon County.

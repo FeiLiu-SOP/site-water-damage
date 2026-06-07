@@ -11,6 +11,7 @@ lng: -95.2300
 zipSample: ["77587"]
 zipCodes: ["77587"]
 localPaths: ["Harris County / ZIP 77587 sector", "Harris County / elevation 43 ft band", "Harris County / coords 29.6600, -95.2300", "Harris County / primary ZIP 77587"]
+zillowHomeValueUsd: 192436
 ---
 
 **Engineering Notice for South Houston:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Harris County.

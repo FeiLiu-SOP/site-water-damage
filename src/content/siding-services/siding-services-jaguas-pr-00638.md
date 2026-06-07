@@ -12,6 +12,8 @@ lng: -66.4800
 zipSample: ["00638"]
 zipCodes: ["00638"]
 localPaths: ["Ciales County / elevation 1178 ft band", "Ciales County / coords 18.3100, -66.4800", "Ciales County / primary ZIP 00638", "Ciales County / ZIP 00638 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 364154
 ---
 
 **Engineering Notice for Jaguas:** Site context locked to Ciales County. Elevation: 1178 ft AMSL. Coordinates: 18.3100, -66.4800. Cladding Retrofit integrity verification recorded.

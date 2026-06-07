@@ -12,6 +12,7 @@ lng: -76.6400
 zipSample: ["17402"]
 zipCodes: ["17402"]
 localPaths: ["York County / primary ZIP 17402", "York County / elevation 420 ft band", "York County / coords 39.9900, -76.6400", "York County / ZIP 17402 sector"]
+zillowHomeValueUsd: 325279
 ---
 
 **Engineering Notice for Yorklyn:** System optimized for 143 mg/L hard water scaling factors in Yorklyn. Regional dispatch grid: York County.

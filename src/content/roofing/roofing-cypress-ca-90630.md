@@ -11,6 +11,7 @@ lng: -118.0400
 zipSample: ["90630"]
 zipCodes: ["90630"]
 localPaths: ["Orange County / coords 33.8200, -118.0400", "Orange County / elevation 52 ft band", "Orange County / ZIP 90630 sector", "Orange County / primary ZIP 90630"]
+zillowHomeValueUsd: 1086103
 ---
 
 **Engineering Notice for Cypress:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Orange County.

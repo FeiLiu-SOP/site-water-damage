@@ -12,6 +12,7 @@ lng: -86.3700
 zipSample: ["49420"]
 zipCodes: ["49420"]
 localPaths: ["Oceana County / primary ZIP 49420", "Oceana County / elevation 682 ft band", "Oceana County / ZIP 49420 sector", "Oceana County / coords 43.7000, -86.3700"]
+zillowHomeValueUsd: 214551
 ---
 
 **Engineering Notice for Hart:** Site context locked to Oceana County. Elevation: 682 ft AMSL. Coordinates: 43.7000, -86.3700. Vinyl Panels integrity verification recorded.

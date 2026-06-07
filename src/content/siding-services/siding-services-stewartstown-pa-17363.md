@@ -12,6 +12,7 @@ lng: -76.5900
 zipSample: ["17363"]
 zipCodes: ["17363"]
 localPaths: ["York County / elevation 879 ft band", "York County / primary ZIP 17363", "York County / coords 39.7500, -76.5900", "York County / ZIP 17363 sector"]
+zillowHomeValueUsd: 387050
 ---
 
 **Engineering Notice for Stewartstown:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Elevation: 879 ft AMSL. Grid: York County.

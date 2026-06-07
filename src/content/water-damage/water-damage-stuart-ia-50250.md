@@ -12,6 +12,7 @@ lng: -94.3200
 zipSample: ["50250"]
 zipCodes: ["50250"]
 localPaths: ["Adair County / elevation 1211 ft band", "Adair County / ZIP 50250 sector", "Adair County / primary ZIP 50250", "Adair County / coords 41.5000, -94.3200"]
+zillowHomeValueUsd: 221136
 ---
 
 **Engineering Notice for Stuart:** structural drying capacity optimized for 1211ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Adair County. Relative Humidity Threshold: 82%. Sensor sync: Active.

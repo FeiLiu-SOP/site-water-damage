@@ -11,6 +11,7 @@ lng: -96.8400
 zipSample: ["75167", "75165"]
 zipCodes: ["75165", "75167"]
 localPaths: ["Ellis County / coords 32.4000, -96.8400", "Ellis County / ZIP 75165 sector", "Ellis County / elevation 630 ft band", "Ellis County / primary ZIP 75167", "Ellis County / ZIP 75167 sector"]
+zillowHomeValueUsd: 501595
 ---
 
 **Engineering Notice for Waxahachie:** Structural loading calculated based on 630 ft terrain assessment. Regional dispatch grid: Ellis County.

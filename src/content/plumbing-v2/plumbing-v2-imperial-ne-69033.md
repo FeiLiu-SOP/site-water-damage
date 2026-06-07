@@ -12,6 +12,7 @@ lng: -101.6400
 zipSample: ["69033"]
 zipCodes: ["69033"]
 localPaths: ["Chase County / coords 40.5100, -101.6400", "Chase County / ZIP 69033 sector", "Chase County / elevation 3284 ft band", "Chase County / primary ZIP 69033"]
+zillowHomeValueUsd: 230940
 ---
 
 **Engineering Notice for Imperial:** System optimized for 126 mg/L hard water scaling factors in Imperial. Regional dispatch grid: Chase County.

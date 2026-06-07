@@ -11,6 +11,7 @@ lng: -77.4400
 zipSample: ["20120", "20124", "20121"]
 zipCodes: ["20124", "20121", "20120"]
 localPaths: ["Fairfax County / ZIP 20121 sector", "Fairfax County / ZIP 20120 sector", "Fairfax County / ZIP 20124 sector", "Fairfax County / elevation 259 ft band", "Fairfax County / primary ZIP 20120"]
+zillowHomeValueUsd: 702203
 ---
 
 **Engineering Notice for Centreville:** Structural loading calculated based on 259 ft terrain assessment. Regional dispatch grid: Fairfax County.

@@ -12,6 +12,7 @@ lng: -95.1700
 zipSample: ["56150"]
 zipCodes: ["56150"]
 localPaths: ["Jackson County / elevation 1480 ft band", "Jackson County / primary ZIP 56150", "Jackson County / ZIP 56150 sector", "Jackson County / coords 43.6800, -95.1700"]
+zillowHomeValueUsd: 204190
 ---
 
 **Engineering Notice for Lakefield:** structural drying capacity optimized for 1480ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jackson County. Relative Humidity Threshold: 68%. Sensor sync: Active.

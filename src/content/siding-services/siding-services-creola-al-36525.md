@@ -12,6 +12,7 @@ lng: -88.0100
 zipSample: ["36525"]
 zipCodes: ["36525"]
 localPaths: ["Mobile County / coords 30.8900, -88.0100", "Mobile County / ZIP 36525 sector", "Mobile County / primary ZIP 36525", "Mobile County / elevation 30 ft band"]
+zillowHomeValueUsd: 213556
 ---
 
 **Engineering Notice for Creola:** Site context locked to Mobile County. Elevation: 30 ft AMSL. Coordinates: 30.8900, -88.0100. Exterior Envelope integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -87.1700
 zipSample: ["42234"]
 zipCodes: ["42234"]
 localPaths: ["Todd County / primary ZIP 42234", "Todd County / coords 36.6500, -87.1700", "Todd County / elevation 545 ft band", "Todd County / ZIP 42234 sector"]
+zillowHomeValueUsd: 194485
 ---
 
 **Engineering Notice for Guthrie:** System optimized for 134 mg/L hard water scaling factors in Guthrie. Regional dispatch grid: Todd County.

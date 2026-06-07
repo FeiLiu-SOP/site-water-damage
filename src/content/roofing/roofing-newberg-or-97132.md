@@ -11,6 +11,7 @@ lng: -122.9600
 zipSample: ["97132"]
 zipCodes: ["97132"]
 localPaths: ["Yamhill County / primary ZIP 97132", "Yamhill County / elevation 233 ft band", "Yamhill County / coords 45.3100, -122.9600", "Yamhill County / ZIP 97132 sector"]
+zillowHomeValueUsd: 533772
 ---
 
 **Engineering Notice for Newberg:** Structural loading calculated based on 233 ft terrain assessment. Regional dispatch grid: Yamhill County.

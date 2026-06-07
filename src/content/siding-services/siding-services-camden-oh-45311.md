@@ -12,6 +12,7 @@ lng: -84.6400
 zipSample: ["45311"]
 zipCodes: ["45311"]
 localPaths: ["Preble County / ZIP 45311 sector", "Preble County / primary ZIP 45311", "Preble County / coords 39.6400, -84.6400", "Preble County / elevation 856 ft band"]
+zillowHomeValueUsd: 206243
 ---
 
 **Engineering Notice for Camden:** Structural integrity verification: Wall Restoration calibrated for 102 mph localized wind load factor. Regional dispatch grid: Preble County.

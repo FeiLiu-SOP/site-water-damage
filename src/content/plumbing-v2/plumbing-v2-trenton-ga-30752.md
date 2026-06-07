@@ -12,6 +12,7 @@ lng: -85.5100
 zipSample: ["30752"]
 zipCodes: ["30752"]
 localPaths: ["Dade County / coords 34.8700, -85.5100", "Dade County / elevation 738 ft band", "Dade County / primary ZIP 30752", "Dade County / ZIP 30752 sector"]
+zillowHomeValueUsd: 237083
 ---
 
 **Engineering Notice for Trenton:** System optimized for 168 mg/L hard water scaling factors in Trenton. Regional dispatch grid: Dade County.

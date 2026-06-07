@@ -11,6 +11,7 @@ lng: -121.7400
 zipSample: ["95617", "95618", "95616"]
 zipCodes: ["95616", "95618", "95617"]
 localPaths: ["Yolo County / elevation 43 ft band", "Yolo County / coords 38.5600, -121.7400", "Yolo County / ZIP 95616 sector", "Yolo County / primary ZIP 95618", "Yolo County / ZIP 95617 sector"]
+zillowHomeValueUsd: 846431
 ---
 
 **Engineering Notice for Davis:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Yolo County.

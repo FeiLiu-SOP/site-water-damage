@@ -12,6 +12,7 @@ lng: -105.9800
 zipSample: ["87507", "87503", "87509", "87502", "87505"]
 zipCodes: ["87501", "87502", "87509", "87505", "87503", "87507"]
 localPaths: ["Santa Fe County / coords 35.6600, -105.9800", "Santa Fe County / ZIP 87509 sector", "Santa Fe County / ZIP 87503 sector", "Santa Fe County / elevation 6765 ft band", "Santa Fe County / ZIP 87505 sector"]
+zillowHomeValueUsd: 563418
 ---
 
 **Engineering Notice for Santa Fe:** Structural loading calculated based on 6765 ft terrain assessment. Regional dispatch grid: Santa Fe County.

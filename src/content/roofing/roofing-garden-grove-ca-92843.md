@@ -11,6 +11,7 @@ lng: -117.9600
 zipSample: ["92843", "92840", "92844", "92846", "92845"]
 zipCodes: ["92844", "92840", "92843", "92845", "92841", "92846", "92842"]
 localPaths: ["Orange County / ZIP 92845 sector", "Orange County / ZIP 92843 sector", "Orange County / elevation 89 ft band", "Orange County / primary ZIP 92843", "Orange County / ZIP 92844 sector"]
+zillowHomeValueUsd: 977527
 ---
 
 **Engineering Notice for Garden Grove:** Structural loading calculated based on 89 ft terrain assessment. Regional dispatch grid: Orange County.

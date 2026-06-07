@@ -11,6 +11,7 @@ lng: -87.7500
 zipSample: ["60452"]
 zipCodes: ["60452"]
 localPaths: ["Cook County / elevation 653 ft band", "Cook County / coords 41.6100, -87.7500", "Cook County / primary ZIP 60452", "Cook County / ZIP 60452 sector"]
+zillowHomeValueUsd: 287181
 ---
 
 **Engineering Notice for Oak Forest:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Cook County.

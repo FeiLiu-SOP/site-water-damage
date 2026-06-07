@@ -11,6 +11,8 @@ lng: -72.2500
 zipSample: ["06269", "06268"]
 zipCodes: ["06269", "06268"]
 localPaths: ["Capitol County / ZIP 06268 sector", "Capitol County / coords 41.8100, -72.2500", "Capitol County / elevation 643 ft band", "Capitol County / ZIP 06269 sector", "Capitol County / primary ZIP 06269"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 517559
 ---
 
 **Engineering Notice for Storrs:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Capitol County.

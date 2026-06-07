@@ -12,6 +12,7 @@ lng: -97.4300
 zipSample: ["73463"]
 zipCodes: ["73463"]
 localPaths: ["Carter County / primary ZIP 73463", "Carter County / ZIP 73463 sector", "Carter County / elevation 938 ft band", "Carter County / coords 34.1700, -97.4300"]
+zillowHomeValueUsd: 173272
 ---
 
 **Engineering Notice for Wilson:** Structural integrity verification: Surface Sheathing calibrated for 98 mph localized wind load factor. Elevation: 938 ft AMSL. Coordinates: 34.1700, -97.4300. Regional dispatch grid: Carter County.

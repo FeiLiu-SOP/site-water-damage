@@ -11,6 +11,7 @@ lng: -75.9100
 zipSample: ["13903", "13905", "13904", "13901"]
 zipCodes: ["13903", "13901", "13904", "13905"]
 localPaths: ["Broome County / ZIP 13904 sector", "Broome County / elevation 883 ft band", "Broome County / ZIP 13901 sector", "Broome County / coords 42.1000, -75.9100", "Broome County / ZIP 13903 sector"]
+zillowHomeValueUsd: 153416
 ---
 
 **Engineering Notice for Binghamton:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Broome County.

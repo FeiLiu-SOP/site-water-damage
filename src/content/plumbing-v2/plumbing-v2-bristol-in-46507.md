@@ -12,6 +12,7 @@ lng: -85.8200
 zipSample: ["46507"]
 zipCodes: ["46507"]
 localPaths: ["Elkhart County / elevation 781 ft band", "Elkhart County / primary ZIP 46507", "Elkhart County / ZIP 46507 sector", "Elkhart County / coords 41.7200, -85.8200"]
+zillowHomeValueUsd: 330227
 ---
 
 **Engineering Notice for Bristol:** System optimized for 176 mg/L hard water scaling factors in Bristol. Regional dispatch grid: Elkhart County.

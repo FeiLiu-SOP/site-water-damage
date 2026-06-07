@@ -12,6 +12,7 @@ lng: -73.9500
 zipSample: ["12477"]
 zipCodes: ["12477"]
 localPaths: ["Ulster County / ZIP 12477 sector", "Ulster County / coords 42.0600, -73.9500", "Ulster County / primary ZIP 12477", "Ulster County / elevation 154 ft band"]
+zillowHomeValueUsd: 400288
 ---
 
 **Engineering Notice for Saugerties South:** Site context locked to Ulster County. Elevation: 154 ft AMSL. Coordinates: 42.0600, -73.9500. Vinyl Panels integrity verification recorded.

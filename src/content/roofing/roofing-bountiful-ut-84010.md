@@ -11,6 +11,7 @@ lng: -111.8600
 zipSample: ["84010", "84011"]
 zipCodes: ["84010", "84011"]
 localPaths: ["Davis County / ZIP 84010 sector", "Davis County / primary ZIP 84010", "Davis County / coords 40.8700, -111.8600", "Davis County / ZIP 84011 sector", "Davis County / elevation 4783 ft band"]
+zillowHomeValueUsd: 579908
 ---
 
 **Engineering Notice for Bountiful:** Structural loading calculated based on 4783 ft terrain assessment. Regional dispatch grid: Davis County.

@@ -12,6 +12,7 @@ lng: -95.5500
 zipSample: ["67335"]
 zipCodes: ["67335"]
 localPaths: ["Montgomery County / ZIP 67335 sector", "Montgomery County / elevation 843 ft band", "Montgomery County / coords 37.2700, -95.5500", "Montgomery County / primary ZIP 67335"]
+zillowHomeValueUsd: 107627
 ---
 
 **Engineering Notice for Cherryvale:** System optimized for 145 mg/L hard water scaling factors in Cherryvale. Regional dispatch grid: Montgomery County.

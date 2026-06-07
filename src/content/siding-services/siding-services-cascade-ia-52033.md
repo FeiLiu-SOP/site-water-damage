@@ -12,6 +12,7 @@ lng: -91.0000
 zipSample: ["52033"]
 zipCodes: ["52033"]
 localPaths: ["Dubuque County / ZIP 52033 sector", "Dubuque County / elevation 860 ft band", "Dubuque County / coords 42.3000, -91.0000", "Dubuque County / primary ZIP 52033"]
+zillowHomeValueUsd: 288301
 ---
 
 **Engineering Notice for Cascade:** Exterior Cladding was validated under stress factor 0.88; target tolerance set near 106 mph. Grid anchor: Dubuque County.

@@ -12,6 +12,7 @@ lng: -88.0800
 zipSample: ["60433", "60436"]
 zipCodes: ["60433", "60436"]
 localPaths: ["Will County / coords 41.5000, -88.0800", "Will County / ZIP 60433 sector", "Will County / elevation 636 ft band", "Will County / primary ZIP 60433", "Will County / ZIP 60436 sector"]
+zillowHomeValueUsd: 207310
 ---
 
 **Engineering Notice for Preston Heights:** System optimized for 138 mg/L hard water scaling factors in Preston Heights. Regional dispatch grid: Will County.

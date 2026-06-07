@@ -12,6 +12,7 @@ lng: -85.6200
 zipSample: ["42129"]
 zipCodes: ["42129"]
 localPaths: ["Metcalfe County / ZIP 42129 sector", "Metcalfe County / coords 36.9900, -85.6200", "Metcalfe County / primary ZIP 42129", "Metcalfe County / elevation 791 ft band"]
+zillowHomeValueUsd: 166449
 ---
 
 **Engineering Notice for Edmonton:** Cladding verification uses 96 mph routing baseline; lateral pressure note: 12.7 psf. Elevation: 791 ft AMSL. Coordinates: 36.9900, -85.6200. Grid: Metcalfe County.

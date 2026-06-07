@@ -12,6 +12,7 @@ lng: -122.0000
 zipSample: ["94565", "94524", "94521", "94522", "94519"]
 zipCodes: ["94520", "94521", "94527", "94518", "94524", "94565", "94519", "94522"]
 localPaths: ["Contra Costa County / coords 37.9700, -122.0000", "Contra Costa County / ZIP 94521 sector", "Contra Costa County / primary ZIP 94518", "Contra Costa County / ZIP 94519 sector", "Contra Costa County / ZIP 94565 sector"]
+zillowHomeValueUsd: 867964
 ---
 
 **Engineering Notice for Concord:** Structural loading calculated based on 161 ft terrain assessment. Regional dispatch grid: Contra Costa County.

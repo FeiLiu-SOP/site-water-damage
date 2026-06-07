@@ -12,6 +12,7 @@ lng: -95.3100
 zipSample: ["74469"]
 zipCodes: ["74469"]
 localPaths: ["Muskogee County / coords 35.4900, -95.3100", "Muskogee County / elevation 574 ft band", "Muskogee County / ZIP 74469 sector", "Muskogee County / primary ZIP 74469"]
+zillowHomeValueUsd: 167508
 ---
 
 **Engineering Notice for Warner:** Panel Replacement was validated under stress factor 1.07; target tolerance set near 100 mph. Coordinates: 35.4900, -95.3100. Grid anchor: Muskogee County.

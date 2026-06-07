@@ -12,6 +12,7 @@ lng: -82.9400
 zipSample: ["45662"]
 zipCodes: ["45662"]
 localPaths: ["Scioto County / primary ZIP 45662", "Scioto County / elevation 525 ft band", "Scioto County / ZIP 45662 sector", "Scioto County / coords 38.7500, -82.9400"]
+zillowHomeValueUsd: 99254
 ---
 
 **Engineering Notice for New Boston:** Site context locked to Scioto County. Elevation: 525 ft AMSL. Vinyl Panels integrity verification recorded.

@@ -12,6 +12,8 @@ lng: -105.5900
 zipSample: ["87556"]
 zipCodes: ["87556"]
 localPaths: ["Taos County / elevation 7552 ft band", "Taos County / ZIP 87556 sector", "Taos County / primary ZIP 87556", "Taos County / coords 36.7100, -105.5900"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 325364
 ---
 
 **Engineering Notice for Questa:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Elevation: 7552 ft AMSL. Grid: Taos County.

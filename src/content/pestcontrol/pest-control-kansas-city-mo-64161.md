@@ -11,6 +11,7 @@ lng: -94.5500
 zipSample: ["64179", "64141", "64162", "64155", "64117"]
 zipCodes: ["64117", "64171", "64112", "64163", "64101", "64196", "64141", "64184", "64161", "64124", "64109", "64166"]
 localPaths: ["Jackson County / coords 39.1200, -94.5500", "Jackson County / ZIP 64141 sector", "Jackson County / ZIP 64155 sector", "Jackson County / elevation 745 ft band", "Jackson County / primary ZIP 64161"]
+zillowHomeValueUsd: 199507
 ---
 
 **Engineering Notice for Kansas City:** Structural loading calculated based on 745 ft terrain assessment. Regional dispatch grid: Jackson County.

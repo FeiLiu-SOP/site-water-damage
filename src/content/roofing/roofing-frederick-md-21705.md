@@ -11,6 +11,7 @@ lng: -77.4100
 zipSample: ["21701", "21702", "21709", "21705"]
 zipCodes: ["21705", "21702", "21709", "21701"]
 localPaths: ["Frederick County / coords 39.4300, -77.4100", "Frederick County / primary ZIP 21705", "Frederick County / elevation 348 ft band", "Frederick County / ZIP 21705 sector", "Frederick County / ZIP 21709 sector"]
+zillowHomeValueUsd: 462306
 ---
 
 **Engineering Notice for Frederick:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Frederick County.

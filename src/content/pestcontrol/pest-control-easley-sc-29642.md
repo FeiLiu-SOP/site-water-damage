@@ -11,6 +11,7 @@ lng: -82.5800
 zipSample: ["29640", "29642"]
 zipCodes: ["29640", "29642"]
 localPaths: ["Pickens County / ZIP 29642 sector", "Pickens County / ZIP 29640 sector", "Pickens County / coords 34.8200, -82.5800", "Pickens County / primary ZIP 29642", "Pickens County / elevation 1024 ft band"]
+zillowHomeValueUsd: 349297
 ---
 
 **Engineering Notice for Easley:** Structural loading calculated based on 1024 ft terrain assessment. Regional dispatch grid: Pickens County.

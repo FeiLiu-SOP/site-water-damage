@@ -12,6 +12,7 @@ lng: -96.9000
 zipSample: ["77951", "77905"]
 zipCodes: ["77905", "77951"]
 localPaths: ["Victoria County / primary ZIP 77951", "Victoria County / coords 28.6500, -96.9000", "Victoria County / ZIP 77951 sector", "Victoria County / ZIP 77905 sector", "Victoria County / elevation 66 ft band"]
+zillowHomeValueUsd: 112344
 ---
 
 **Engineering Notice for Bloomington:** System optimized for 131 mg/L hard water scaling factors in Bloomington. Regional dispatch grid: Victoria County.

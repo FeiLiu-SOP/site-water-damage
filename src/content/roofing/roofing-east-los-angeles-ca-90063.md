@@ -11,6 +11,7 @@ lng: -118.1700
 zipSample: ["90022", "90023", "90063"]
 zipCodes: ["90023", "90063", "90022"]
 localPaths: ["Los Angeles County / ZIP 90063 sector", "Los Angeles County / ZIP 90023 sector", "Los Angeles County / coords 34.0300, -118.1700", "Los Angeles County / ZIP 90022 sector", "Los Angeles County / primary ZIP 90063"]
+zillowHomeValueUsd: 669443
 ---
 
 **Engineering Notice for East Los Angeles:** Structural loading calculated based on 292 ft terrain assessment. Regional dispatch grid: Los Angeles County.

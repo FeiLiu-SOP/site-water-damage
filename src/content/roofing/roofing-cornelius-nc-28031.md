@@ -11,6 +11,7 @@ lng: -80.8800
 zipSample: ["28031"]
 zipCodes: ["28031"]
 localPaths: ["Mecklenburg County / elevation 768 ft band", "Mecklenburg County / primary ZIP 28031", "Mecklenburg County / ZIP 28031 sector", "Mecklenburg County / coords 35.4700, -80.8800"]
+zillowHomeValueUsd: 544197
 ---
 
 **Engineering Notice for Cornelius:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: Mecklenburg County.

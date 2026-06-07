@@ -12,6 +12,7 @@ lng: -122.4700
 zipSample: ["94920"]
 zipCodes: ["94920"]
 localPaths: ["Marin County / coords 37.8700, -122.4700", "Marin County / ZIP 94920 sector", "Marin County / primary ZIP 94920", "Marin County / elevation 66 ft band"]
+zillowHomeValueUsd: 3265548
 ---
 
 **Engineering Notice for Belvedere:** Envelope check: Cladding Retrofit assigned to wind-load band B with stress factor 0.94. Elevation: 66 ft AMSL. Regional dispatch grid: Marin County.

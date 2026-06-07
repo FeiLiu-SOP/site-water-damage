@@ -12,6 +12,7 @@ lng: -94.9300
 zipSample: ["50025"]
 zipCodes: ["50025"]
 localPaths: ["Audubon County / coords 41.7200, -94.9300", "Audubon County / primary ZIP 50025", "Audubon County / ZIP 50025 sector", "Audubon County / elevation 1325 ft band"]
+zillowHomeValueUsd: 150719
 ---
 
 **Engineering Notice for Audubon:** structural drying capacity optimized for 1325ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Audubon County. Relative Humidity Threshold: 84%. Sensor sync: Active.

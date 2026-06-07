@@ -11,6 +11,7 @@ lng: -122.3200
 zipSample: ["98148", "98198"]
 zipCodes: ["98198", "98148"]
 localPaths: ["King County / primary ZIP 98148", "King County / elevation 164 ft band", "King County / ZIP 98198 sector", "King County / ZIP 98148 sector", "King County / coords 47.3900, -122.3200"]
+zillowHomeValueUsd: 612378
 ---
 
 **Engineering Notice for Des Moines:** Structural loading calculated based on 164 ft terrain assessment. Regional dispatch grid: King County.

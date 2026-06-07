@@ -12,6 +12,7 @@ lng: -98.2700
 zipSample: ["73741"]
 zipCodes: ["73741"]
 localPaths: ["Alfalfa County / coords 36.5500, -98.2700", "Alfalfa County / primary ZIP 73741", "Alfalfa County / elevation 1424 ft band", "Alfalfa County / ZIP 73741 sector"]
+zillowHomeValueUsd: 105889
 ---
 
 **Engineering Notice for Helena:** Exterior Cladding was validated under stress factor 0.93; target tolerance set near 106 mph. Coordinates: 36.5500, -98.2700. Grid anchor: Alfalfa County.

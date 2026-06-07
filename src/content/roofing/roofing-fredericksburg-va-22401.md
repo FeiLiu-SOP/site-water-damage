@@ -11,6 +11,7 @@ lng: -77.4900
 zipSample: ["22401", "22412", "22404"]
 zipCodes: ["22401", "22412", "22404"]
 localPaths: ["Fredericksburg County / ZIP 22401 sector", "Fredericksburg County / primary ZIP 22401", "Fredericksburg County / elevation 131 ft band", "Fredericksburg County / ZIP 22412 sector", "Fredericksburg County / coords 38.3000, -77.4900"]
+zillowHomeValueUsd: 466810
 ---
 
 **Engineering Notice for Fredericksburg:** Structural loading calculated based on 131 ft terrain assessment. Regional dispatch grid: Fredericksburg County.

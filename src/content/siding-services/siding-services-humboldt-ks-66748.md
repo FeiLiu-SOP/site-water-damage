@@ -12,6 +12,7 @@ lng: -95.4400
 zipSample: ["66748"]
 zipCodes: ["66748"]
 localPaths: ["Allen County / elevation 981 ft band", "Allen County / primary ZIP 66748", "Allen County / ZIP 66748 sector", "Allen County / coords 37.8100, -95.4400"]
+zillowHomeValueUsd: 120757
 ---
 
 **Engineering Notice for Humboldt:** Vinyl Panels was validated under stress factor 0.75; target tolerance set near 90 mph. Coordinates: 37.8100, -95.4400. Grid anchor: Allen County.

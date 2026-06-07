@@ -11,6 +11,7 @@ lng: -96.6700
 zipSample: ["75013", "75002"]
 zipCodes: ["75002", "75013"]
 localPaths: ["Collin County / elevation 673 ft band", "Collin County / coords 33.1100, -96.6700", "Collin County / ZIP 75002 sector", "Collin County / ZIP 75013 sector", "Collin County / primary ZIP 75002"]
+zillowHomeValueUsd: 457446
 ---
 
 **Engineering Notice for Allen:** Structural loading calculated based on 673 ft terrain assessment. Regional dispatch grid: Collin County.

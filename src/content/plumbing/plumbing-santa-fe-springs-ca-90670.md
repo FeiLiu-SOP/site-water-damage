@@ -12,6 +12,7 @@ lng: -118.0600
 zipSample: ["90671", "90670"]
 zipCodes: ["90671", "90670"]
 localPaths: ["Los Angeles County / elevation 154 ft band", "Los Angeles County / primary ZIP 90670", "Los Angeles County / ZIP 90670 sector", "Los Angeles County / ZIP 90671 sector", "Los Angeles County / coords 33.9300, -118.0600"]
+zillowHomeValueUsd: 783137
 ---
 
 **Engineering Notice for Santa Fe Springs:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Los Angeles County.

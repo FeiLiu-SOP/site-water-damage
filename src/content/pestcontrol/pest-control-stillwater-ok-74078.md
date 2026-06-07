@@ -11,6 +11,7 @@ lng: -97.0700
 zipSample: ["74078", "74077", "74076", "74074", "74075"]
 zipCodes: ["74074", "74078", "74075", "74076", "74077"]
 localPaths: ["Payne County / primary ZIP 74078", "Payne County / ZIP 74074 sector", "Payne County / ZIP 74075 sector", "Payne County / ZIP 74077 sector", "Payne County / coords 36.1300, -97.0700"]
+zillowHomeValueUsd: 271893
 ---
 
 **Engineering Notice for Stillwater:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Payne County.

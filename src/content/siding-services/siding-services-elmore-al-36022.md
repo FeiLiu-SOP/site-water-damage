@@ -12,6 +12,7 @@ lng: -86.3400
 zipSample: ["36022", "36025"]
 zipCodes: ["36025", "36022"]
 localPaths: ["Elmore County / coords 32.5600, -86.3400", "Elmore County / elevation 302 ft band", "Elmore County / ZIP 36025 sector", "Elmore County / ZIP 36022 sector", "Elmore County / primary ZIP 36022"]
+zillowHomeValueUsd: 292442
 ---
 
 **Engineering Notice for Elmore:** Site context locked to Elmore County. Coordinates: 32.5600, -86.3400. Exterior Envelope integrity verification recorded.

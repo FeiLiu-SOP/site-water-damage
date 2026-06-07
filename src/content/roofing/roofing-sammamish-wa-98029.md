@@ -11,6 +11,7 @@ lng: -122.0400
 zipSample: ["98075", "98074", "98029"]
 zipCodes: ["98074", "98029", "98075"]
 localPaths: ["King County / ZIP 98029 sector", "King County / coords 47.6000, -122.0400", "King County / primary ZIP 98029", "King County / elevation 397 ft band", "King County / ZIP 98075 sector"]
+zillowHomeValueUsd: 1195291
 ---
 
 **Engineering Notice for Sammamish:** Structural loading calculated based on 397 ft terrain assessment. Regional dispatch grid: King County.

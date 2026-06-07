@@ -12,6 +12,7 @@ lng: -87.6000
 zipSample: ["60419"]
 zipCodes: ["60419"]
 localPaths: ["Cook County / coords 41.6300, -87.6000", "Cook County / ZIP 60419 sector", "Cook County / primary ZIP 60419", "Cook County / elevation 620 ft band"]
+zillowHomeValueUsd: 150078
 ---
 
 **Engineering Notice for Dolton:** Structural loading calculated based on 620 ft terrain assessment. Regional dispatch grid: Cook County.

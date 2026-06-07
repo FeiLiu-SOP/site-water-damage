@@ -12,6 +12,7 @@ lng: -155.8000
 zipSample: ["96755"]
 zipCodes: ["96755"]
 localPaths: ["Hawaii County / coords 20.2300, -155.8000", "Hawaii County / elevation 466 ft band", "Hawaii County / primary ZIP 96755", "Hawaii County / ZIP 96755 sector"]
+zillowHomeValueUsd: 635777
 ---
 
 **Engineering Notice for Kapaau:** System optimized for 134 mg/L hard water scaling factors in Kapaau. Regional dispatch grid: Hawaii County.

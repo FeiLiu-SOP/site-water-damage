@@ -12,6 +12,7 @@ lng: -88.0400
 zipSample: ["60074", "60055", "60067", "60095"]
 zipCodes: ["60095", "60074", "60067", "60055"]
 localPaths: ["Cook County / ZIP 60055 sector", "Cook County / ZIP 60074 sector", "Cook County / ZIP 60067 sector", "Cook County / elevation 768 ft band", "Cook County / coords 42.1200, -88.0400"]
+zillowHomeValueUsd: 301892
 ---
 
 **Engineering Notice for Palatine:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: Cook County.

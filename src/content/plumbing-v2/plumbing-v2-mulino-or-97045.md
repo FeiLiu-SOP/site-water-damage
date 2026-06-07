@@ -12,6 +12,7 @@ lng: -122.5600
 zipSample: ["97042", "97045"]
 zipCodes: ["97045", "97042"]
 localPaths: ["Clackamas County / elevation 279 ft band", "Clackamas County / ZIP 97045 sector", "Clackamas County / ZIP 97042 sector", "Clackamas County / primary ZIP 97045", "Clackamas County / coords 45.2200, -122.5600"]
+zillowHomeValueUsd: 602889
 ---
 
 **Engineering Notice for Mulino:** System optimized for 179 mg/L hard water scaling factors in Mulino. Regional dispatch grid: Clackamas County.

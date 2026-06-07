@@ -11,6 +11,7 @@ lng: -77.3000
 zipSample: ["23860"]
 zipCodes: ["23860"]
 localPaths: ["Hopewell County / elevation 52 ft band", "Hopewell County / coords 37.2900, -77.3000", "Hopewell County / primary ZIP 23860", "Hopewell County / ZIP 23860 sector"]
+zillowHomeValueUsd: 233420
 ---
 
 **Engineering Notice for Hopewell:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Hopewell County.

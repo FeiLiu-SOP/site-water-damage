@@ -11,6 +11,7 @@ lng: -76.6900
 zipSample: ["21113", "21054"]
 zipCodes: ["21054", "21113"]
 localPaths: ["Anne Arundel County / ZIP 21054 sector", "Anne Arundel County / primary ZIP 21054", "Anne Arundel County / elevation 240 ft band", "Anne Arundel County / ZIP 21113 sector", "Anne Arundel County / coords 39.0700, -76.6900"]
+zillowHomeValueUsd: 613076
 ---
 
 **Engineering Notice for Odenton:** Structural loading calculated based on 240 ft terrain assessment. Regional dispatch grid: Anne Arundel County.

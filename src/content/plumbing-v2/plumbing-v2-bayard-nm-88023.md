@@ -12,6 +12,7 @@ lng: -108.1300
 zipSample: ["88023"]
 zipCodes: ["88023"]
 localPaths: ["Grant County / coords 32.7600, -108.1300", "Grant County / primary ZIP 88023", "Grant County / ZIP 88023 sector", "Grant County / elevation 5810 ft band"]
+zillowHomeValueUsd: 108529
 ---
 
 **Engineering Notice for Bayard:** System optimized for 165 mg/L hard water scaling factors in Bayard. Regional dispatch grid: Grant County.

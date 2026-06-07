@@ -12,6 +12,7 @@ lng: -115.0500
 zipSample: ["89162", "89104", "89156", "89110", "89180"]
 zipCodes: ["89142", "89122", "89121", "89104", "89180", "89110", "89115", "89162", "89156"]
 localPaths: ["Clark County / elevation 1778 ft band", "Clark County / ZIP 89180 sector", "Clark County / ZIP 89104 sector", "Clark County / ZIP 89156 sector", "Clark County / primary ZIP 89104"]
+zillowHomeValueUsd: 361740
 ---
 
 **Engineering Notice for Sunrise Manor:** Structural loading calculated based on 1778 ft terrain assessment. Regional dispatch grid: Clark County.

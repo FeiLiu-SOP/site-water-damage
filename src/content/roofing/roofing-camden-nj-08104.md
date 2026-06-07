@@ -11,6 +11,7 @@ lng: -75.1100
 zipSample: ["08104", "08105", "08102", "08101", "08103"]
 zipCodes: ["08101", "08103", "08105", "08102", "08104"]
 localPaths: ["Camden County / ZIP 08104 sector", "Camden County / ZIP 08103 sector", "Camden County / ZIP 08101 sector", "Camden County / ZIP 08105 sector", "Camden County / primary ZIP 08104"]
+zillowHomeValueUsd: 131224
 ---
 
 **Engineering Notice for Camden:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Camden County.

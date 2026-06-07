@@ -12,6 +12,7 @@ lng: -96.6000
 zipSample: ["74030"]
 zipCodes: ["74030"]
 localPaths: ["Creek County / elevation 807 ft band", "Creek County / primary ZIP 74030", "Creek County / ZIP 74030 sector", "Creek County / coords 35.9900, -96.6000"]
+zillowHomeValueUsd: 109467
 ---
 
 **Engineering Notice for Drumright:** Envelope check: Exterior Envelope assigned to wind-load band A with stress factor 0.94. Elevation: 807 ft AMSL. Regional dispatch grid: Creek County.

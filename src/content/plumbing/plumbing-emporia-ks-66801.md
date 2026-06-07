@@ -12,6 +12,7 @@ lng: -96.1900
 zipSample: ["66801"]
 zipCodes: ["66801"]
 localPaths: ["Lyon County / ZIP 66801 sector", "Lyon County / elevation 1145 ft band", "Lyon County / primary ZIP 66801", "Lyon County / coords 38.4000, -96.1900"]
+zillowHomeValueUsd: 169018
 ---
 
 **Engineering Notice for Emporia:** Structural loading calculated based on 1145 ft terrain assessment. Regional dispatch grid: Lyon County.

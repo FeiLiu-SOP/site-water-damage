@@ -12,6 +12,7 @@ lng: -74.2400
 zipSample: ["07036"]
 zipCodes: ["07036"]
 localPaths: ["Union County / ZIP 07036 sector", "Union County / coords 40.6300, -74.2400", "Union County / primary ZIP 07036", "Union County / elevation 7 ft band"]
+zillowHomeValueUsd: 537202
 ---
 
 **Engineering Notice for Linden:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Union County.

@@ -12,6 +12,7 @@ lng: -93.3600
 zipSample: ["55378"]
 zipCodes: ["55378"]
 localPaths: ["Scott County / coords 44.7500, -93.3600", "Scott County / ZIP 55378 sector", "Scott County / elevation 886 ft band", "Scott County / primary ZIP 55378"]
+zillowHomeValueUsd: 434931
 ---
 
 **Engineering Notice for Savage:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Scott County.

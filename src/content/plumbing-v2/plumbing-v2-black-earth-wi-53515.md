@@ -12,6 +12,7 @@ lng: -89.7500
 zipSample: ["53515"]
 zipCodes: ["53515"]
 localPaths: ["Dane County / ZIP 53515 sector", "Dane County / coords 43.1300, -89.7500", "Dane County / elevation 827 ft band", "Dane County / primary ZIP 53515"]
+zillowHomeValueUsd: 431455
 ---
 
 **Engineering Notice for Black Earth:** System optimized for 155 mg/L hard water scaling factors in Black Earth. Regional dispatch grid: Dane County.

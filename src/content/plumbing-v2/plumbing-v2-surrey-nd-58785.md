@@ -12,6 +12,7 @@ lng: -101.1300
 zipSample: ["58785"]
 zipCodes: ["58785"]
 localPaths: ["Ward County / ZIP 58785 sector", "Ward County / primary ZIP 58785", "Ward County / elevation 1608 ft band", "Ward County / coords 48.2400, -101.1300"]
+zillowHomeValueUsd: 334980
 ---
 
 **Engineering Notice for Surrey:** System optimized for 170 mg/L hard water scaling factors in Surrey. Regional dispatch grid: Ward County.

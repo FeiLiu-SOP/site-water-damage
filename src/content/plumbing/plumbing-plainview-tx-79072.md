@@ -12,6 +12,7 @@ lng: -101.7200
 zipSample: ["79072"]
 zipCodes: ["79072"]
 localPaths: ["Hale County / primary ZIP 79072", "Hale County / elevation 3389 ft band", "Hale County / ZIP 79072 sector", "Hale County / coords 34.1900, -101.7200"]
+zillowHomeValueUsd: 116115
 ---
 
 **Engineering Notice for Plainview:** Structural loading calculated based on 3389 ft terrain assessment. Regional dispatch grid: Hale County.

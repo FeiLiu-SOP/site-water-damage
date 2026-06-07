@@ -12,6 +12,8 @@ lng: -99.7400
 zipSample: ["79252"]
 zipCodes: ["79252"]
 localPaths: ["Hardeman County / ZIP 79252 sector", "Hardeman County / coords 34.3000, -99.7400", "Hardeman County / primary ZIP 79252", "Hardeman County / elevation 1588 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 294783
 ---
 
 **Engineering Notice for Quanah:** Cladding verification uses 144 mph routing baseline; lateral pressure note: 18.5 psf. Coordinates: 34.3000, -99.7400. Grid: Hardeman County.

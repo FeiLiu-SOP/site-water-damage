@@ -12,6 +12,7 @@ lng: -87.2300
 zipSample: ["35490", "35188"]
 zipCodes: ["35490", "35188"]
 localPaths: ["Tuscaloosa County / ZIP 35490 sector", "Tuscaloosa County / primary ZIP 35188", "Tuscaloosa County / ZIP 35188 sector", "Tuscaloosa County / elevation 558 ft band", "Tuscaloosa County / coords 33.1700, -87.2300"]
+zillowHomeValueUsd: 224957
 ---
 
 **Engineering Notice for Vance:** Cladding Service was validated under stress factor 0.74; target tolerance set near 102 mph. Coordinates: 33.1700, -87.2300. Grid anchor: Tuscaloosa County.

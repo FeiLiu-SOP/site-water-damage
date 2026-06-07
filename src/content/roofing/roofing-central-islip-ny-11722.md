@@ -11,6 +11,7 @@ lng: -73.1900
 zipSample: ["11722", "11752"]
 zipCodes: ["11752", "11722"]
 localPaths: ["Suffolk County / primary ZIP 11722", "Suffolk County / ZIP 11722 sector", "Suffolk County / ZIP 11752 sector", "Suffolk County / coords 40.7800, -73.1900", "Suffolk County / elevation 72 ft band"]
+zillowHomeValueUsd: 546563
 ---
 
 **Engineering Notice for Central Islip:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Suffolk County.

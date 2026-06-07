@@ -12,6 +12,7 @@ lng: -77.2000
 zipSample: ["22042", "22003"]
 zipCodes: ["22042", "22003"]
 localPaths: ["Fairfax County / elevation 361 ft band", "Fairfax County / primary ZIP 22003", "Fairfax County / coords 38.8300, -77.2000", "Fairfax County / ZIP 22003 sector", "Fairfax County / ZIP 22042 sector"]
+zillowHomeValueUsd: 763791
 ---
 
 **Engineering Notice for Annandale:** Structural loading calculated based on 361 ft terrain assessment. Regional dispatch grid: Fairfax County.

@@ -12,6 +12,7 @@ lng: -95.5000
 zipSample: ["74432", "74426"]
 zipCodes: ["74432", "74426"]
 localPaths: ["McIntosh County / primary ZIP 74426", "McIntosh County / ZIP 74432 sector", "McIntosh County / ZIP 74426 sector", "McIntosh County / coords 35.3600, -95.5000", "McIntosh County / elevation 709 ft band"]
+zillowHomeValueUsd: 175835
 ---
 
 **Engineering Notice for Texanna:** System optimized for 152 mg/L hard water scaling factors in Texanna. Regional dispatch grid: McIntosh County.

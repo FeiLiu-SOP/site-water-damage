@@ -12,6 +12,7 @@ lng: -75.1900
 zipSample: ["08302"]
 zipCodes: ["08302"]
 localPaths: ["Cumberland County / ZIP 08302 sector", "Cumberland County / primary ZIP 08302", "Cumberland County / coords 39.4200, -75.1900", "Cumberland County / elevation 95 ft band"]
+zillowHomeValueUsd: 252918
 ---
 
 **Engineering Notice for Gouldtown:** structural drying capacity optimized for 95ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cumberland County. Relative Humidity Threshold: 77%. Sensor sync: Active.

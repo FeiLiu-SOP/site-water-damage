@@ -12,6 +12,7 @@ lng: -89.8600
 zipSample: ["61483"]
 zipCodes: ["61483"]
 localPaths: ["Stark County / ZIP 61483 sector", "Stark County / primary ZIP 61483", "Stark County / coords 41.0900, -89.8600", "Stark County / elevation 741 ft band"]
+zillowHomeValueUsd: 141087
 ---
 
 **Engineering Notice for Toulon:** Cladding verification uses 104 mph routing baseline; lateral pressure note: 13.7 psf. Elevation: 741 ft AMSL. Grid: Stark County.

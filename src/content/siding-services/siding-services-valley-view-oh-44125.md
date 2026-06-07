@@ -12,6 +12,7 @@ lng: -81.6100
 zipSample: ["44125"]
 zipCodes: ["44125"]
 localPaths: ["Cuyahoga County / ZIP 44125 sector", "Cuyahoga County / primary ZIP 44125", "Cuyahoga County / coords 41.3800, -81.6100", "Cuyahoga County / elevation 627 ft band"]
+zillowHomeValueUsd: 139003
 ---
 
 **Engineering Notice for Valley View:** Structural integrity verification: Exterior Envelope calibrated for 101 mph localized wind load factor. Elevation: 627 ft AMSL. Regional dispatch grid: Cuyahoga County.

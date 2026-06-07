@@ -12,6 +12,7 @@ lng: -82.0800
 zipSample: ["45732"]
 zipCodes: ["45732"]
 localPaths: ["Athens County / ZIP 45732 sector", "Athens County / elevation 692 ft band", "Athens County / coords 39.5000, -82.0800", "Athens County / primary ZIP 45732"]
+zillowHomeValueUsd: 105471
 ---
 
 **Engineering Notice for Glouster:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Elevation: 692 ft AMSL. Coordinates: 39.5000, -82.0800. Grid: Athens County.

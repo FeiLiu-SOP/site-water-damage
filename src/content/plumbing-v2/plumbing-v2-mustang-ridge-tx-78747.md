@@ -12,6 +12,7 @@ lng: -97.6900
 zipSample: ["78610", "78616", "78747"]
 zipCodes: ["78616", "78610", "78747"]
 localPaths: ["Travis County / elevation 627 ft band", "Travis County / ZIP 78616 sector", "Travis County / ZIP 78747 sector", "Travis County / coords 30.0600, -97.6900", "Travis County / primary ZIP 78747"]
+zillowHomeValueUsd: 365974
 ---
 
 **Engineering Notice for Mustang Ridge:** System optimized for 171 mg/L hard water scaling factors in Mustang Ridge. Regional dispatch grid: Travis County.

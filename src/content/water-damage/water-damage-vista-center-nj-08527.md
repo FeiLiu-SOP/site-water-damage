@@ -12,6 +12,7 @@ lng: -74.3200
 zipSample: ["08527"]
 zipCodes: ["08527"]
 localPaths: ["Ocean County / elevation 138 ft band", "Ocean County / ZIP 08527 sector", "Ocean County / coords 40.1600, -74.3200", "Ocean County / primary ZIP 08527"]
+zillowHomeValueUsd: 631435
 ---
 
 **Engineering Notice for Vista Center:** structural drying capacity optimized for 138ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ocean County. Relative Humidity Threshold: 82%. Sensor sync: Active.

@@ -11,6 +11,7 @@ lng: -117.1200
 zipSample: ["92149", "92161", "92182", "92137", "92176"]
 zipCodes: ["92071", "92149", "92142", "92109", "92115", "92108", "92126", "92154", "92104", "92195", "92103", "92117"]
 localPaths: ["San Diego County / ZIP 92149 sector", "San Diego County / ZIP 92161 sector", "San Diego County / ZIP 92137 sector", "San Diego County / ZIP 92182 sector", "San Diego County / elevation 404 ft band"]
+zillowHomeValueUsd: 746743
 ---
 
 **Engineering Notice for San Diego:** Structural loading calculated based on 404 ft terrain assessment. Regional dispatch grid: San Diego County.

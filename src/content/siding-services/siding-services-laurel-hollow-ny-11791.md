@@ -12,6 +12,7 @@ lng: -73.4800
 zipSample: ["11791"]
 zipCodes: ["11791"]
 localPaths: ["Nassau County / elevation 230 ft band", "Nassau County / ZIP 11791 sector", "Nassau County / coords 40.8500, -73.4800", "Nassau County / primary ZIP 11791"]
+zillowHomeValueUsd: 1165910
 ---
 
 **Engineering Notice for Laurel Hollow:** Structural integrity verification: Exterior Cladding calibrated for 102 mph localized wind load factor. Coordinates: 40.8500, -73.4800. Regional dispatch grid: Nassau County.

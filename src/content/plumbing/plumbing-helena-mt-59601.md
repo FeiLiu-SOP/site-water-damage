@@ -12,6 +12,7 @@ lng: -112.0200
 zipSample: ["59623", "59602", "59626", "59624", "59625"]
 zipCodes: ["59625", "59624", "59601", "59626", "59623", "59602"]
 localPaths: ["Lewis and Clark County / elevation 3990 ft band", "Lewis and Clark County / ZIP 59623 sector", "Lewis and Clark County / ZIP 59626 sector", "Lewis and Clark County / ZIP 59624 sector", "Lewis and Clark County / ZIP 59625 sector"]
+zillowHomeValueUsd: 434739
 ---
 
 **Engineering Notice for Helena:** Structural loading calculated based on 3990 ft terrain assessment. Regional dispatch grid: Lewis and Clark County.

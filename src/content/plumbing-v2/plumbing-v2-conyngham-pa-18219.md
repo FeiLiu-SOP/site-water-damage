@@ -12,6 +12,7 @@ lng: -76.0600
 zipSample: ["18249", "18219"]
 zipCodes: ["18249", "18219"]
 localPaths: ["Luzerne County / ZIP 18249 sector", "Luzerne County / elevation 951 ft band", "Luzerne County / primary ZIP 18219", "Luzerne County / coords 40.9900, -76.0600", "Luzerne County / ZIP 18219 sector"]
+zillowHomeValueUsd: 264581
 ---
 
 **Engineering Notice for Conyngham:** System optimized for 140 mg/L hard water scaling factors in Conyngham. Regional dispatch grid: Luzerne County.

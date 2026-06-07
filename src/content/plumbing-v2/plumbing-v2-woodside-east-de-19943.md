@@ -12,6 +12,7 @@ lng: -75.5400
 zipSample: ["19962", "19943"]
 zipCodes: ["19943", "19962"]
 localPaths: ["Kent County / elevation 52 ft band", "Kent County / coords 39.0700, -75.5400", "Kent County / primary ZIP 19943", "Kent County / ZIP 19943 sector", "Kent County / ZIP 19962 sector"]
+zillowHomeValueUsd: 389110
 ---
 
 **Engineering Notice for Woodside East:** System optimized for 138 mg/L hard water scaling factors in Woodside East. Regional dispatch grid: Kent County.

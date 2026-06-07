@@ -12,6 +12,7 @@ lng: -78.8000
 zipSample: ["28320"]
 zipCodes: ["28320"]
 localPaths: ["Bladen County / primary ZIP 28320", "Bladen County / elevation 108 ft band", "Bladen County / ZIP 28320 sector", "Bladen County / coords 34.5400, -78.8000"]
+zillowHomeValueUsd: 136680
 ---
 
 **Engineering Notice for Bladenboro:** structural drying capacity optimized for 108ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bladen County. Relative Humidity Threshold: 65%. Sensor sync: Active.

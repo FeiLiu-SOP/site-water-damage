@@ -12,6 +12,7 @@ lng: -97.1500
 zipSample: ["76055"]
 zipCodes: ["76055"]
 localPaths: ["Hill County / elevation 705 ft band", "Hill County / ZIP 76055 sector", "Hill County / primary ZIP 76055", "Hill County / coords 32.1600, -97.1500"]
+zillowHomeValueUsd: 217861
 ---
 
 **Engineering Notice for Itasca:** structural drying capacity optimized for 705ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hill County. Relative Humidity Threshold: 66%. Sensor sync: Active.

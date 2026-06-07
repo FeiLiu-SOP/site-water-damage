@@ -12,6 +12,7 @@ lng: -81.2500
 zipSample: ["25921"]
 zipCodes: ["25921"]
 localPaths: ["Raleigh County / coords 37.7100, -81.2500", "Raleigh County / elevation 2408 ft band", "Raleigh County / primary ZIP 25921", "Raleigh County / ZIP 25921 sector"]
+zillowHomeValueUsd: 107396
 ---
 
 **Engineering Notice for Sophia:** Facade Renewal was validated under stress factor 1.01; target tolerance set near 91 mph. Coordinates: 37.7100, -81.2500. Grid anchor: Raleigh County.

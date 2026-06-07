@@ -12,6 +12,7 @@ lng: -77.0200
 zipSample: ["20901", "20911", "20903", "20912", "20997"]
 zipCodes: ["20907", "20901", "20903", "20997", "20912", "20911", "20910"]
 localPaths: ["Montgomery County / ZIP 20912 sector", "Montgomery County / primary ZIP 20910", "Montgomery County / ZIP 20903 sector", "Montgomery County / ZIP 20997 sector", "Montgomery County / coords 39.0000, -77.0200"]
+zillowHomeValueUsd: 655266
 ---
 
 **Engineering Notice for Silver Spring:** Structural loading calculated based on 292 ft terrain assessment. Regional dispatch grid: Montgomery County.

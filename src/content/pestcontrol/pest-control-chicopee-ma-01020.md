@@ -11,6 +11,7 @@ lng: -72.5700
 zipSample: ["01020", "01022", "01014", "01021", "01013"]
 zipCodes: ["01014", "01013", "01021", "01022", "01020"]
 localPaths: ["Hampden County / coords 42.1800, -72.5700", "Hampden County / elevation 236 ft band", "Hampden County / ZIP 01022 sector", "Hampden County / ZIP 01013 sector", "Hampden County / ZIP 01014 sector"]
+zillowHomeValueUsd: 320699
 ---
 
 **Engineering Notice for Chicopee:** Structural loading calculated based on 236 ft terrain assessment. Regional dispatch grid: Hampden County.

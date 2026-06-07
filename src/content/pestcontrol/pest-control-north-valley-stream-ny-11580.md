@@ -11,6 +11,7 @@ lng: -73.7100
 zipSample: ["11580", "11003"]
 zipCodes: ["11580", "11003"]
 localPaths: ["Nassau County / elevation 52 ft band", "Nassau County / primary ZIP 11580", "Nassau County / coords 40.6800, -73.7100", "Nassau County / ZIP 11580 sector", "Nassau County / ZIP 11003 sector"]
+zillowHomeValueUsd: 743792
 ---
 
 **Engineering Notice for North Valley Stream:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Nassau County.

@@ -12,6 +12,8 @@ lng: -91.5500
 zipSample: ["70538", "70514"]
 zipCodes: ["70538", "70514"]
 localPaths: ["St. Mary Parish / ZIP 70514 sector", "St. Mary Parish / primary ZIP 70514", "St. Mary Parish / elevation 26 ft band", "St. Mary Parish / coords 29.8400, -91.5500", "St. Mary Parish / ZIP 70538 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 193545
 ---
 
 **Engineering Notice for Baldwin:** System optimized for 144 mg/L hard water scaling factors in Baldwin. Regional dispatch grid: St. Mary Parish.

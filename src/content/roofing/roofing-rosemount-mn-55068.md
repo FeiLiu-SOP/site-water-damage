@@ -11,6 +11,7 @@ lng: -93.0700
 zipSample: ["55068"]
 zipCodes: ["55068"]
 localPaths: ["Dakota County / elevation 922 ft band", "Dakota County / ZIP 55068 sector", "Dakota County / primary ZIP 55068", "Dakota County / coords 44.7500, -93.0700"]
+zillowHomeValueUsd: 408857
 ---
 
 **Engineering Notice for Rosemount:** Structural loading calculated based on 922 ft terrain assessment. Regional dispatch grid: Dakota County.

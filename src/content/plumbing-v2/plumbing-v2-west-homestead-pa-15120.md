@@ -12,6 +12,7 @@ lng: -79.9200
 zipSample: ["15120"]
 zipCodes: ["15120"]
 localPaths: ["Allegheny County / elevation 1040 ft band", "Allegheny County / ZIP 15120 sector", "Allegheny County / primary ZIP 15120", "Allegheny County / coords 40.4000, -79.9200"]
+zillowHomeValueUsd: 143446
 ---
 
 **Engineering Notice for West Homestead:** System optimized for 144 mg/L hard water scaling factors in West Homestead. Regional dispatch grid: Allegheny County.

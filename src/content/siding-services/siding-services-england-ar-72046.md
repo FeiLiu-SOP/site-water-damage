@@ -12,6 +12,7 @@ lng: -91.9700
 zipSample: ["72046"]
 zipCodes: ["72046"]
 localPaths: ["Lonoke County / ZIP 72046 sector", "Lonoke County / coords 34.5500, -91.9700", "Lonoke County / primary ZIP 72046", "Lonoke County / elevation 246 ft band"]
+zillowHomeValueUsd: 142479
 ---
 
 **Engineering Notice for England:** Structural integrity verification: Exterior Cladding calibrated for 106 mph localized wind load factor. Coordinates: 34.5500, -91.9700. Regional dispatch grid: Lonoke County.

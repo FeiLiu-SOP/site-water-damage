@@ -12,6 +12,7 @@ lng: -102.9400
 zipSample: ["58852"]
 zipCodes: ["58852"]
 localPaths: ["Williams County / ZIP 58852 sector", "Williams County / elevation 2238 ft band", "Williams County / coords 48.3900, -102.9400", "Williams County / primary ZIP 58852"]
+zillowHomeValueUsd: 251622
 ---
 
 **Engineering Notice for Tioga:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Elevation: 2238 ft AMSL. Grid: Williams County.

@@ -12,6 +12,7 @@ lng: -97.5900
 zipSample: ["68370"]
 zipCodes: ["68370"]
 localPaths: ["Thayer County / elevation 1486 ft band", "Thayer County / primary ZIP 68370", "Thayer County / ZIP 68370 sector", "Thayer County / coords 40.1700, -97.5900"]
+zillowHomeValueUsd: 177015
 ---
 
 **Engineering Notice for Hebron:** structural drying capacity optimized for 1486ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Thayer County. Relative Humidity Threshold: 70%. Sensor sync: Active.

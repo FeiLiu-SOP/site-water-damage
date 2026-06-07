@@ -12,6 +12,8 @@ lng: -100.8200
 zipSample: ["57570"]
 zipCodes: ["57570"]
 localPaths: ["Todd County / coords 43.2400, -100.8200", "Todd County / elevation 2838 ft band", "Todd County / ZIP 57570 sector", "Todd County / primary ZIP 57570"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 296036
 ---
 
 **Engineering Notice for Rosebud:** System optimized for 133 mg/L hard water scaling factors in Rosebud. Regional dispatch grid: Todd County.

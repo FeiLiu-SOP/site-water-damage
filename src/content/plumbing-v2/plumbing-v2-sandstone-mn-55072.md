@@ -12,6 +12,7 @@ lng: -92.8600
 zipSample: ["55072"]
 zipCodes: ["55072"]
 localPaths: ["Pine County / coords 46.1300, -92.8600", "Pine County / elevation 1086 ft band", "Pine County / ZIP 55072 sector", "Pine County / primary ZIP 55072"]
+zillowHomeValueUsd: 224373
 ---
 
 **Engineering Notice for Sandstone:** System optimized for 175 mg/L hard water scaling factors in Sandstone. Regional dispatch grid: Pine County.

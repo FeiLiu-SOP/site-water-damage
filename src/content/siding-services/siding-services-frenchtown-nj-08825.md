@@ -12,6 +12,7 @@ lng: -75.0600
 zipSample: ["08825"]
 zipCodes: ["08825"]
 localPaths: ["Hunterdon County / coords 40.5300, -75.0600", "Hunterdon County / ZIP 08825 sector", "Hunterdon County / elevation 210 ft band", "Hunterdon County / primary ZIP 08825"]
+zillowHomeValueUsd: 572992
 ---
 
 **Engineering Notice for Frenchtown:** Structural integrity verification: Surface Sheathing calibrated for 106 mph localized wind load factor. Elevation: 210 ft AMSL. Coordinates: 40.5300, -75.0600. Regional dispatch grid: Hunterdon County.

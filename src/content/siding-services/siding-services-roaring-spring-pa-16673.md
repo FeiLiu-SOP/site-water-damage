@@ -12,6 +12,7 @@ lng: -78.4000
 zipSample: ["16673"]
 zipCodes: ["16673"]
 localPaths: ["Blair County / ZIP 16673 sector", "Blair County / coords 40.3300, -78.4000", "Blair County / primary ZIP 16673", "Blair County / elevation 1273 ft band"]
+zillowHomeValueUsd: 193919
 ---
 
 **Engineering Notice for Roaring Spring:** Exterior Envelope was validated under stress factor 0.84; target tolerance set near 100 mph. Coordinates: 40.3300, -78.4000. Grid anchor: Blair County.

@@ -12,6 +12,7 @@ lng: -122.4000
 zipSample: ["98229"]
 zipCodes: ["98229"]
 localPaths: ["Whatcom County / coords 48.7400, -122.4000", "Whatcom County / primary ZIP 98229", "Whatcom County / elevation 499 ft band", "Whatcom County / ZIP 98229 sector"]
+zillowHomeValueUsd: 694558
 ---
 
 **Engineering Notice for Geneva:** System optimized for 134 mg/L hard water scaling factors in Geneva. Regional dispatch grid: Whatcom County.

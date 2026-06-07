@@ -12,6 +12,7 @@ lng: -94.3400
 zipSample: ["64720"]
 zipCodes: ["64720"]
 localPaths: ["Bates County / primary ZIP 64720", "Bates County / coords 38.3900, -94.3400", "Bates County / ZIP 64720 sector", "Bates County / elevation 856 ft band"]
+zillowHomeValueUsd: 275373
 ---
 
 **Engineering Notice for Adrian:** System optimized for 158 mg/L hard water scaling factors in Adrian. Regional dispatch grid: Bates County.

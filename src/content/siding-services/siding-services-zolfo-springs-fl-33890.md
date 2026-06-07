@@ -12,6 +12,7 @@ lng: -81.7900
 zipSample: ["33890"]
 zipCodes: ["33890"]
 localPaths: ["Hardee County / coords 27.4900, -81.7900", "Hardee County / ZIP 33890 sector", "Hardee County / primary ZIP 33890", "Hardee County / elevation 75 ft band"]
+zillowHomeValueUsd: 288271
 ---
 
 **Engineering Notice for Zolfo Springs:** Structural integrity verification: Cladding Retrofit calibrated for 143 mph localized wind load factor. Elevation: 75 ft AMSL. Regional dispatch grid: Hardee County.

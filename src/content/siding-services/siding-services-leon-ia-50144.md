@@ -12,6 +12,7 @@ lng: -93.7500
 zipSample: ["50144"]
 zipCodes: ["50144"]
 localPaths: ["Decatur County / elevation 1076 ft band", "Decatur County / coords 40.7400, -93.7500", "Decatur County / primary ZIP 50144", "Decatur County / ZIP 50144 sector"]
+zillowHomeValueUsd: 136136
 ---
 
 **Engineering Notice for Leon:** Cladding verification uses 107 mph routing baseline; lateral pressure note: 14.0 psf. Grid: Decatur County.

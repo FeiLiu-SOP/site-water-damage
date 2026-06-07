@@ -12,6 +12,7 @@ lng: -91.3500
 zipSample: ["65565"]
 zipCodes: ["65565"]
 localPaths: ["Crawford County / elevation 768 ft band", "Crawford County / coords 37.9700, -91.3500", "Crawford County / ZIP 65565 sector", "Crawford County / primary ZIP 65565"]
+zillowHomeValueUsd: 208872
 ---
 
 **Engineering Notice for Steelville:** Structural integrity verification: Facade Renewal calibrated for 110 mph localized wind load factor. Elevation: 768 ft AMSL. Coordinates: 37.9700, -91.3500. Regional dispatch grid: Crawford County.

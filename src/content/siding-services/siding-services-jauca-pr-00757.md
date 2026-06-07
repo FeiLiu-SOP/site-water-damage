@@ -12,6 +12,8 @@ lng: -66.3700
 zipSample: ["00757"]
 zipCodes: ["00757"]
 localPaths: ["Santa Isabel County / primary ZIP 00757", "Santa Isabel County / elevation 0 ft band", "Santa Isabel County / coords 17.9600, -66.3700", "Santa Isabel County / ZIP 00757 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 362944
 ---
 
 **Engineering Notice for Jauca:** Envelope check: Panel Replacement assigned to wind-load band C with stress factor 0.90. Elevation: 0 ft AMSL. Regional dispatch grid: Santa Isabel County.

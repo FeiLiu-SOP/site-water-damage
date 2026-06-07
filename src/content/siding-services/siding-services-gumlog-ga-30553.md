@@ -12,6 +12,7 @@ lng: -83.1000
 zipSample: ["30557", "30553"]
 zipCodes: ["30553", "30557"]
 localPaths: ["Franklin County / coords 34.4900, -83.1000", "Franklin County / elevation 669 ft band", "Franklin County / primary ZIP 30553", "Franklin County / ZIP 30557 sector", "Franklin County / ZIP 30553 sector"]
+zillowHomeValueUsd: 316698
 ---
 
 **Engineering Notice for Gumlog:** Cladding verification uses 97 mph routing baseline; lateral pressure note: 12.8 psf. Coordinates: 34.4900, -83.1000. Grid: Franklin County.

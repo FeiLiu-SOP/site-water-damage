@@ -11,6 +11,7 @@ lng: -121.2300
 zipSample: ["95336", "95337"]
 zipCodes: ["95337", "95336"]
 localPaths: ["San Joaquin County / ZIP 95337 sector", "San Joaquin County / elevation 30 ft band", "San Joaquin County / coords 37.7900, -121.2300", "San Joaquin County / primary ZIP 95337", "San Joaquin County / ZIP 95336 sector"]
+zillowHomeValueUsd: 646781
 ---
 
 **Engineering Notice for Manteca:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: San Joaquin County.

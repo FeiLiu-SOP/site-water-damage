@@ -12,6 +12,7 @@ lng: -75.8000
 zipSample: ["13612"]
 zipCodes: ["13612"]
 localPaths: ["Jefferson County / coords 44.0100, -75.8000", "Jefferson County / elevation 581 ft band", "Jefferson County / ZIP 13612 sector", "Jefferson County / primary ZIP 13612"]
+zillowHomeValueUsd: 236058
 ---
 
 **Engineering Notice for Black River:** structural drying capacity optimized for 581ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 65%. Sensor sync: Active.

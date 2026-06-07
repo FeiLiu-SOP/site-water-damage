@@ -12,6 +12,7 @@ lng: -77.1500
 zipSample: ["22312"]
 zipCodes: ["22312"]
 localPaths: ["Fairfax County / ZIP 22312 sector", "Fairfax County / coords 38.8200, -77.1500", "Fairfax County / elevation 243 ft band", "Fairfax County / primary ZIP 22312"]
+zillowHomeValueUsd: 639343
 ---
 
 **Engineering Notice for Lincolnia:** Structural loading calculated based on 243 ft terrain assessment. Regional dispatch grid: Fairfax County.

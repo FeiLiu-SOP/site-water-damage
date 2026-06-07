@@ -12,6 +12,7 @@ lng: -93.3900
 zipSample: ["55316"]
 zipCodes: ["55316"]
 localPaths: ["Hennepin County / ZIP 55316 sector", "Hennepin County / coords 45.1700, -93.3900", "Hennepin County / elevation 873 ft band", "Hennepin County / primary ZIP 55316"]
+zillowHomeValueUsd: 370765
 ---
 
 **Engineering Notice for Champlin:** Structural loading calculated based on 873 ft terrain assessment. Regional dispatch grid: Hennepin County.

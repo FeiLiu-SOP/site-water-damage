@@ -12,6 +12,7 @@ lng: -88.7500
 zipSample: ["62411"]
 zipCodes: ["62411"]
 localPaths: ["Effingham County / coords 39.0600, -88.7500", "Effingham County / elevation 623 ft band", "Effingham County / primary ZIP 62411", "Effingham County / ZIP 62411 sector"]
+zillowHomeValueUsd: 160490
 ---
 
 **Engineering Notice for Altamont:** structural drying capacity optimized for 623ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Effingham County. Relative Humidity Threshold: 78%. Sensor sync: Active.

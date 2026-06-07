@@ -11,6 +11,7 @@ lng: -111.7000
 zipSample: ["84058", "84097", "84059", "84057"]
 zipCodes: ["84057", "84058", "84097", "84059"]
 localPaths: ["Utah County / primary ZIP 84097", "Utah County / ZIP 84057 sector", "Utah County / ZIP 84097 sector", "Utah County / elevation 4777 ft band", "Utah County / coords 40.3000, -111.7000"]
+zillowHomeValueUsd: 596551
 ---
 
 **Engineering Notice for Orem:** Structural loading calculated based on 4777 ft terrain assessment. Regional dispatch grid: Utah County.

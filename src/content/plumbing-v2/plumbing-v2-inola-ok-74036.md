@@ -12,6 +12,7 @@ lng: -95.5400
 zipSample: ["74036"]
 zipCodes: ["74036"]
 localPaths: ["Rogers County / ZIP 74036 sector", "Rogers County / elevation 614 ft band", "Rogers County / primary ZIP 74036", "Rogers County / coords 36.1300, -95.5400"]
+zillowHomeValueUsd: 260907
 ---
 
 **Engineering Notice for Inola:** System optimized for 162 mg/L hard water scaling factors in Inola. Regional dispatch grid: Rogers County.

@@ -11,6 +11,7 @@ lng: -76.9500
 zipSample: ["20705", "20904"]
 zipCodes: ["20705", "20904"]
 localPaths: ["Montgomery County / elevation 299 ft band", "Montgomery County / ZIP 20904 sector", "Montgomery County / ZIP 20705 sector", "Montgomery County / coords 39.0600, -76.9500", "Montgomery County / primary ZIP 20705"]
+zillowHomeValueUsd: 460435
 ---
 
 **Engineering Notice for Calverton:** Structural loading calculated based on 299 ft terrain assessment. Regional dispatch grid: Montgomery County.

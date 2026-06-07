@@ -12,6 +12,7 @@ lng: -104.7100
 zipSample: ["80911", "80925", "80931"]
 zipCodes: ["80931", "80925", "80911"]
 localPaths: ["El Paso County / primary ZIP 80911", "El Paso County / ZIP 80911 sector", "El Paso County / coords 38.7500, -104.7100", "El Paso County / ZIP 80931 sector", "El Paso County / ZIP 80925 sector"]
+zillowHomeValueUsd: 372797
 ---
 
 **Engineering Notice for Security-Widefield:** Structural loading calculated based on 5856 ft terrain assessment. Regional dispatch grid: El Paso County.

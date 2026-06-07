@@ -12,6 +12,7 @@ lng: -110.6600
 zipSample: ["59442"]
 zipCodes: ["59442"]
 localPaths: ["Chouteau County / ZIP 59442 sector", "Chouteau County / elevation 2651 ft band", "Chouteau County / primary ZIP 59442", "Chouteau County / coords 47.8300, -110.6600"]
+zillowHomeValueUsd: 291305
 ---
 
 **Engineering Notice for Fort Benton:** structural drying capacity optimized for 2651ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chouteau County. Relative Humidity Threshold: 81%. Sensor sync: Active.

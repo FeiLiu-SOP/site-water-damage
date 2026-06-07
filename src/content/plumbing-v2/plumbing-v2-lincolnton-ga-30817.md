@@ -12,6 +12,7 @@ lng: -82.4800
 zipSample: ["30817"]
 zipCodes: ["30817"]
 localPaths: ["Lincoln County / coords 33.7900, -82.4800", "Lincoln County / elevation 502 ft band", "Lincoln County / primary ZIP 30817", "Lincoln County / ZIP 30817 sector"]
+zillowHomeValueUsd: 267001
 ---
 
 **Engineering Notice for Lincolnton:** System optimized for 174 mg/L hard water scaling factors in Lincolnton. Regional dispatch grid: Lincoln County.

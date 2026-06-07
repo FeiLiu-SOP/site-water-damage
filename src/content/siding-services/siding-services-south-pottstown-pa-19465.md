@@ -12,6 +12,7 @@ lng: -75.6600
 zipSample: ["19465"]
 zipCodes: ["19465"]
 localPaths: ["Chester County / coords 40.2400, -75.6600", "Chester County / ZIP 19465 sector", "Chester County / elevation 184 ft band", "Chester County / primary ZIP 19465"]
+zillowHomeValueUsd: 490223
 ---
 
 **Engineering Notice for South Pottstown:** Exterior Envelope was validated under stress factor 1.24; target tolerance set near 110 mph. Coordinates: 40.2400, -75.6600. Grid anchor: Chester County.

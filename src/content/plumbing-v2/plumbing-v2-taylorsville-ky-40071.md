@@ -12,6 +12,7 @@ lng: -85.3300
 zipSample: ["40071"]
 zipCodes: ["40071"]
 localPaths: ["Spencer County / primary ZIP 40071", "Spencer County / ZIP 40071 sector", "Spencer County / elevation 502 ft band", "Spencer County / coords 38.0400, -85.3300"]
+zillowHomeValueUsd: 364105
 ---
 
 **Engineering Notice for Taylorsville:** System optimized for 142 mg/L hard water scaling factors in Taylorsville. Regional dispatch grid: Spencer County.

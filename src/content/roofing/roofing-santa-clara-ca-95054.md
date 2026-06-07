@@ -11,6 +11,7 @@ lng: -121.9700
 zipSample: ["95055", "95051", "95056", "95050", "95053"]
 zipCodes: ["95052", "95056", "95051", "95053", "95055", "95050", "95054"]
 localPaths: ["Santa Clara County / ZIP 95056 sector", "Santa Clara County / ZIP 95053 sector", "Santa Clara County / ZIP 95050 sector", "Santa Clara County / ZIP 95051 sector", "Santa Clara County / coords 37.3600, -121.9700"]
+zillowHomeValueUsd: 1556593
 ---
 
 **Engineering Notice for Santa Clara:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Santa Clara County.

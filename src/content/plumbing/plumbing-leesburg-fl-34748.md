@@ -12,6 +12,7 @@ lng: -81.9000
 zipSample: ["34762", "34789", "34748", "34736", "34749"]
 zipCodes: ["34789", "34762", "34736", "34749", "34748"]
 localPaths: ["Lake County / ZIP 34789 sector", "Lake County / elevation 69 ft band", "Lake County / ZIP 34749 sector", "Lake County / ZIP 34748 sector", "Lake County / coords 28.7700, -81.9000"]
+zillowHomeValueUsd: 276588
 ---
 
 **Engineering Notice for Leesburg:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Lake County.

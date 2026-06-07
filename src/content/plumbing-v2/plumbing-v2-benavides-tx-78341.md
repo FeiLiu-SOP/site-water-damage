@@ -12,6 +12,7 @@ lng: -98.4100
 zipSample: ["78341"]
 zipCodes: ["78341"]
 localPaths: ["Duval County / coords 27.6000, -98.4100", "Duval County / elevation 394 ft band", "Duval County / ZIP 78341 sector", "Duval County / primary ZIP 78341"]
+zillowHomeValueUsd: 75686
 ---
 
 **Engineering Notice for Benavides:** System optimized for 176 mg/L hard water scaling factors in Benavides. Regional dispatch grid: Duval County.

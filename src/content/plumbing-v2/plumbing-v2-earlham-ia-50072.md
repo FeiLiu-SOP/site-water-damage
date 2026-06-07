@@ -12,6 +12,7 @@ lng: -94.1200
 zipSample: ["50072"]
 zipCodes: ["50072"]
 localPaths: ["Madison County / ZIP 50072 sector", "Madison County / primary ZIP 50072", "Madison County / elevation 1112 ft band", "Madison County / coords 41.4900, -94.1200"]
+zillowHomeValueUsd: 363822
 ---
 
 **Engineering Notice for Earlham:** System optimized for 161 mg/L hard water scaling factors in Earlham. Regional dispatch grid: Madison County.

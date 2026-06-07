@@ -12,6 +12,7 @@ lng: -91.1300
 zipSample: ["62321"]
 zipCodes: ["62321"]
 localPaths: ["Hancock County / elevation 669 ft band", "Hancock County / coords 40.4100, -91.1300", "Hancock County / ZIP 62321 sector", "Hancock County / primary ZIP 62321"]
+zillowHomeValueUsd: 117246
 ---
 
 **Engineering Notice for Carthage:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Coordinates: 40.4100, -91.1300. Grid: Hancock County.

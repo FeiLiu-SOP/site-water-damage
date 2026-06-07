@@ -11,6 +11,7 @@ lng: -80.4300
 zipSample: ["33177", "33187"]
 zipCodes: ["33177", "33187"]
 localPaths: ["Miami-Dade County / ZIP 33177 sector", "Miami-Dade County / elevation 26 ft band", "Miami-Dade County / coords 25.6100, -80.4300", "Miami-Dade County / primary ZIP 33177", "Miami-Dade County / ZIP 33187 sector"]
+zillowHomeValueUsd: 571270
 ---
 
 **Engineering Notice for Richmond West:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

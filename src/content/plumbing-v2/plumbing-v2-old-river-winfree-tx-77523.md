@@ -12,6 +12,7 @@ lng: -94.8300
 zipSample: ["77535", "77523"]
 zipCodes: ["77523", "77535"]
 localPaths: ["Chambers County / primary ZIP 77523", "Chambers County / ZIP 77535 sector", "Chambers County / elevation 39 ft band", "Chambers County / ZIP 77523 sector", "Chambers County / coords 29.8700, -94.8300"]
+zillowHomeValueUsd: 375912
 ---
 
 **Engineering Notice for Old River-Winfree:** System optimized for 132 mg/L hard water scaling factors in Old River-Winfree. Regional dispatch grid: Chambers County.

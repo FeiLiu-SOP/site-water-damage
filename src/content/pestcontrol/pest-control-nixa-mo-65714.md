@@ -11,6 +11,7 @@ lng: -93.3000
 zipSample: ["65714"]
 zipCodes: ["65714"]
 localPaths: ["Christian County / ZIP 65714 sector", "Christian County / primary ZIP 65714", "Christian County / coords 37.0500, -93.3000", "Christian County / elevation 1299 ft band"]
+zillowHomeValueUsd: 322542
 ---
 
 **Engineering Notice for Nixa:** Structural loading calculated based on 1299 ft terrain assessment. Regional dispatch grid: Christian County.

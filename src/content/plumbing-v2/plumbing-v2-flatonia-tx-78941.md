@@ -12,6 +12,7 @@ lng: -97.1100
 zipSample: ["78941"]
 zipCodes: ["78941"]
 localPaths: ["Fayette County / ZIP 78941 sector", "Fayette County / elevation 453 ft band", "Fayette County / primary ZIP 78941", "Fayette County / coords 29.6900, -97.1100"]
+zillowHomeValueUsd: 451212
 ---
 
 **Engineering Notice for Flatonia:** System optimized for 136 mg/L hard water scaling factors in Flatonia. Regional dispatch grid: Fayette County.

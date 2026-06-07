@@ -12,6 +12,7 @@ lng: -92.6300
 zipSample: ["65049"]
 zipCodes: ["65049"]
 localPaths: ["Miller County / ZIP 65049 sector", "Miller County / primary ZIP 65049", "Miller County / coords 38.2000, -92.6300", "Miller County / elevation 659 ft band"]
+zillowHomeValueUsd: 333519
 ---
 
 **Engineering Notice for Lake Ozark:** Site context locked to Miller County. Coordinates: 38.2000, -92.6300. Exterior Cladding integrity verification recorded.

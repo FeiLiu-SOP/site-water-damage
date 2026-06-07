@@ -12,6 +12,7 @@ lng: -84.9200
 zipSample: ["46742"]
 zipCodes: ["46742"]
 localPaths: ["Steuben County / coords 41.5400, -84.9200", "Steuben County / primary ZIP 46742", "Steuben County / ZIP 46742 sector", "Steuben County / elevation 925 ft band"]
+zillowHomeValueUsd: 357833
 ---
 
 **Engineering Notice for Hamilton:** Cladding Retrofit was validated under stress factor 1.19; target tolerance set near 100 mph. Grid anchor: Steuben County.

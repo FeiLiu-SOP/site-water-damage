@@ -11,6 +11,7 @@ lng: -83.6400
 zipSample: ["43551", "43552"]
 zipCodes: ["43551", "43552"]
 localPaths: ["Wood County / elevation 633 ft band", "Wood County / ZIP 43552 sector", "Wood County / ZIP 43551 sector", "Wood County / primary ZIP 43551", "Wood County / coords 41.5400, -83.6400"]
+zillowHomeValueUsd: 333102
 ---
 
 **Engineering Notice for Perrysburg:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Wood County.

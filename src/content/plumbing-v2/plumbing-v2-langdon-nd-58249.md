@@ -12,6 +12,7 @@ lng: -98.3700
 zipSample: ["58249"]
 zipCodes: ["58249"]
 localPaths: ["Cavalier County / elevation 1614 ft band", "Cavalier County / primary ZIP 58249", "Cavalier County / coords 48.7600, -98.3700", "Cavalier County / ZIP 58249 sector"]
+zillowHomeValueUsd: 169458
 ---
 
 **Engineering Notice for Langdon:** System optimized for 146 mg/L hard water scaling factors in Langdon. Regional dispatch grid: Cavalier County.

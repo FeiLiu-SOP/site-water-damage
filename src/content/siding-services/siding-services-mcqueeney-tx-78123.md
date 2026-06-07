@@ -12,6 +12,7 @@ lng: -98.0400
 zipSample: ["78130", "78155", "78123"]
 zipCodes: ["78155", "78130", "78123"]
 localPaths: ["Guadalupe County / primary ZIP 78123", "Guadalupe County / ZIP 78155 sector", "Guadalupe County / coords 29.6000, -98.0400", "Guadalupe County / elevation 561 ft band", "Guadalupe County / ZIP 78130 sector"]
+zillowHomeValueUsd: 424356
 ---
 
 **Engineering Notice for McQueeney:** Envelope check: Surface Sheathing assigned to wind-load band B with stress factor 1.12. Elevation: 561 ft AMSL. Regional dispatch grid: Guadalupe County.

@@ -12,6 +12,7 @@ lng: -118.2300
 zipSample: ["90220", "90221", "90223", "90222"]
 zipCodes: ["90223", "90221", "90220", "90222"]
 localPaths: ["Los Angeles County / ZIP 90220 sector", "Los Angeles County / ZIP 90222 sector", "Los Angeles County / elevation 85 ft band", "Los Angeles County / ZIP 90223 sector", "Los Angeles County / coords 33.8900, -118.2300"]
+zillowHomeValueUsd: 638887
 ---
 
 **Engineering Notice for Compton:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Los Angeles County.

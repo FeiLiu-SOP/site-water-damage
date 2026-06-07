@@ -12,6 +12,7 @@ lng: -72.6100
 zipSample: ["11931", "11901"]
 zipCodes: ["11931", "11901"]
 localPaths: ["Suffolk County / coords 40.9400, -72.6100", "Suffolk County / primary ZIP 11931", "Suffolk County / ZIP 11901 sector", "Suffolk County / elevation 7 ft band", "Suffolk County / ZIP 11931 sector"]
+zillowHomeValueUsd: 802540
 ---
 
 **Engineering Notice for Aquebogue:** Site context locked to Suffolk County. Coordinates: 40.9400, -72.6100. Vinyl Panels integrity verification recorded.

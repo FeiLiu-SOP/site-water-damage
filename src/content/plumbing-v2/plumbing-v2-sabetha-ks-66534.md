@@ -12,6 +12,7 @@ lng: -95.7900
 zipSample: ["66534"]
 zipCodes: ["66534"]
 localPaths: ["Nemaha County / coords 39.9100, -95.7900", "Nemaha County / primary ZIP 66534", "Nemaha County / elevation 1263 ft band", "Nemaha County / ZIP 66534 sector"]
+zillowHomeValueUsd: 211134
 ---
 
 **Engineering Notice for Sabetha:** System optimized for 176 mg/L hard water scaling factors in Sabetha. Regional dispatch grid: Nemaha County.

@@ -12,6 +12,7 @@ lng: -93.7100
 zipSample: ["56431"]
 zipCodes: ["56431"]
 localPaths: ["Aitkin County / elevation 1227 ft band", "Aitkin County / primary ZIP 56431", "Aitkin County / coords 46.5300, -93.7100", "Aitkin County / ZIP 56431 sector"]
+zillowHomeValueUsd: 310041
 ---
 
 **Engineering Notice for Aitkin:** System optimized for 159 mg/L hard water scaling factors in Aitkin. Regional dispatch grid: Aitkin County.

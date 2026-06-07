@@ -12,6 +12,7 @@ lng: -78.1600
 zipSample: ["27569"]
 zipCodes: ["27569"]
 localPaths: ["Johnston County / coords 35.4700, -78.1600", "Johnston County / ZIP 27569 sector", "Johnston County / elevation 154 ft band", "Johnston County / primary ZIP 27569"]
+zillowHomeValueUsd: 279436
 ---
 
 **Engineering Notice for Princeton:** System optimized for 176 mg/L hard water scaling factors in Princeton. Regional dispatch grid: Johnston County.

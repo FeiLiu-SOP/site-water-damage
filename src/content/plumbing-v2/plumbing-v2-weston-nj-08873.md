@@ -12,6 +12,7 @@ lng: -74.5800
 zipSample: ["08873"]
 zipCodes: ["08873"]
 localPaths: ["Somerset County / coords 40.5200, -74.5800", "Somerset County / primary ZIP 08873", "Somerset County / ZIP 08873 sector", "Somerset County / elevation 92 ft band"]
+zillowHomeValueUsd: 567146
 ---
 
 **Engineering Notice for Weston:** System optimized for 140 mg/L hard water scaling factors in Weston. Regional dispatch grid: Somerset County.

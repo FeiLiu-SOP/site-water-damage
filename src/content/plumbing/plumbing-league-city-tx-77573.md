@@ -12,6 +12,7 @@ lng: -95.1100
 zipSample: ["77573", "77592", "77539", "77574", "77511"]
 zipCodes: ["77574", "77598", "77573", "77511", "77592", "77565", "77539"]
 localPaths: ["Galveston County / ZIP 77539 sector", "Galveston County / ZIP 77592 sector", "Galveston County / primary ZIP 77573", "Galveston County / coords 29.4900, -95.1100", "Galveston County / ZIP 77511 sector"]
+zillowHomeValueUsd: 382866
 ---
 
 **Engineering Notice for League City:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Galveston County.

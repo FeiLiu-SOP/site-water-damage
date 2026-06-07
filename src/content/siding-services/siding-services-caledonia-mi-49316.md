@@ -12,6 +12,7 @@ lng: -85.5200
 zipSample: ["49316"]
 zipCodes: ["49316"]
 localPaths: ["Kent County / coords 42.7900, -85.5200", "Kent County / elevation 791 ft band", "Kent County / primary ZIP 49316", "Kent County / ZIP 49316 sector"]
+zillowHomeValueUsd: 434933
 ---
 
 **Engineering Notice for Caledonia:** Exterior Cladding was validated under stress factor 0.91; target tolerance set near 92 mph. Grid anchor: Kent County.

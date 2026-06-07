@@ -11,6 +11,7 @@ lng: -82.7600
 zipSample: ["33755", "33757", "33767", "33765", "33758"]
 zipCodes: ["33756", "33767", "33763", "33764", "33759", "33757", "33765", "33761", "33769", "33766", "33758", "33755"]
 localPaths: ["Pinellas County / ZIP 33758 sector", "Pinellas County / elevation 82 ft band", "Pinellas County / primary ZIP 33759", "Pinellas County / ZIP 33767 sector", "Pinellas County / ZIP 33757 sector"]
+zillowHomeValueUsd: 343296
 ---
 
 **Engineering Notice for Clearwater:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Pinellas County.

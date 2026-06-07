@@ -12,6 +12,7 @@ lng: -89.4100
 zipSample: ["39402"]
 zipCodes: ["39402"]
 localPaths: ["Lamar County / ZIP 39402 sector", "Lamar County / primary ZIP 39402", "Lamar County / coords 31.2900, -89.4100", "Lamar County / elevation 410 ft band"]
+zillowHomeValueUsd: 276470
 ---
 
 **Engineering Notice for Oak Grove:** System optimized for 179 mg/L hard water scaling factors in Oak Grove. Regional dispatch grid: Lamar County.

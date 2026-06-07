@@ -12,6 +12,7 @@ lng: -85.2000
 zipSample: ["37367"]
 zipCodes: ["37367"]
 localPaths: ["Bledsoe County / elevation 840 ft band", "Bledsoe County / ZIP 37367 sector", "Bledsoe County / primary ZIP 37367", "Bledsoe County / coords 35.6000, -85.2000"]
+zillowHomeValueUsd: 243953
 ---
 
 **Engineering Notice for Pikeville:** Site context locked to Bledsoe County. Elevation: 840 ft AMSL. Coordinates: 35.6000, -85.2000. Cladding Service integrity verification recorded.

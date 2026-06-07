@@ -12,6 +12,7 @@ lng: -122.5400
 zipSample: ["98604"]
 zipCodes: ["98604"]
 localPaths: ["Clark County / coords 45.7800, -122.5400", "Clark County / ZIP 98604 sector", "Clark County / elevation 282 ft band", "Clark County / primary ZIP 98604"]
+zillowHomeValueUsd: 605401
 ---
 
 **Engineering Notice for Battle Ground:** Structural loading calculated based on 282 ft terrain assessment. Regional dispatch grid: Clark County.

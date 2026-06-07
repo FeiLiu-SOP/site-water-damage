@@ -12,6 +12,7 @@ lng: -94.3600
 zipSample: ["64034"]
 zipCodes: ["64034"]
 localPaths: ["Cass County / coords 38.8200, -94.3600", "Cass County / primary ZIP 64034", "Cass County / elevation 968 ft band", "Cass County / ZIP 64034 sector"]
+zillowHomeValueUsd: 408724
 ---
 
 **Engineering Notice for Lake Winnebago:** structural drying capacity optimized for 968ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cass County. Relative Humidity Threshold: 66%. Sensor sync: Active.

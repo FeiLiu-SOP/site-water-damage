@@ -12,6 +12,8 @@ lng: -66.3400
 zipSample: ["00769"]
 zipCodes: ["00769"]
 localPaths: ["Coamo County / coords 18.0300, -66.3400", "Coamo County / primary ZIP 00769", "Coamo County / ZIP 00769 sector", "Coamo County / elevation 531 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 379677
 ---
 
 **Engineering Notice for Mariano Colón:** Structural integrity verification: Exterior Cladding calibrated for 97 mph localized wind load factor. Coordinates: 18.0300, -66.3400. Regional dispatch grid: Coamo County.

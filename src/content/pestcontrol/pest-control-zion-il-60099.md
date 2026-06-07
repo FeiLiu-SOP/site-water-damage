@@ -11,6 +11,7 @@ lng: -87.8500
 zipSample: ["60099"]
 zipCodes: ["60099"]
 localPaths: ["Lake County / coords 42.4600, -87.8500", "Lake County / primary ZIP 60099", "Lake County / ZIP 60099 sector", "Lake County / elevation 699 ft band"]
+zillowHomeValueUsd: 257000
 ---
 
 **Engineering Notice for Zion:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Lake County.

@@ -11,6 +11,7 @@ lng: -95.8500
 zipSample: ["51503", "51502", "51501"]
 zipCodes: ["51503", "51501", "51502"]
 localPaths: ["Pottawattamie County / primary ZIP 51503", "Pottawattamie County / coords 41.2400, -95.8500", "Pottawattamie County / elevation 974 ft band", "Pottawattamie County / ZIP 51501 sector", "Pottawattamie County / ZIP 51502 sector"]
+zillowHomeValueUsd: 301083
 ---
 
 **Engineering Notice for Council Bluffs:** Structural loading calculated based on 974 ft terrain assessment. Regional dispatch grid: Pottawattamie County.

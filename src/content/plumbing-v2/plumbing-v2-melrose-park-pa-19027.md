@@ -12,6 +12,7 @@ lng: -75.1300
 zipSample: ["19027"]
 zipCodes: ["19027"]
 localPaths: ["Montgomery County / ZIP 19027 sector", "Montgomery County / primary ZIP 19027", "Montgomery County / elevation 230 ft band", "Montgomery County / coords 40.0600, -75.1300"]
+zillowHomeValueUsd: 410623
 ---
 
 **Engineering Notice for Melrose Park:** System optimized for 160 mg/L hard water scaling factors in Melrose Park. Regional dispatch grid: Montgomery County.

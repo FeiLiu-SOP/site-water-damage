@@ -12,6 +12,7 @@ lng: -89.1300
 zipSample: ["61369"]
 zipCodes: ["61369"]
 localPaths: ["Marshall County / coords 41.0000, -89.1300", "Marshall County / primary ZIP 61369", "Marshall County / ZIP 61369 sector", "Marshall County / elevation 696 ft band"]
+zillowHomeValueUsd: 109372
 ---
 
 **Engineering Notice for Toluca:** System optimized for 144 mg/L hard water scaling factors in Toluca. Regional dispatch grid: Marshall County.

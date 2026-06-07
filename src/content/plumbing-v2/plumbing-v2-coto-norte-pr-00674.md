@@ -12,6 +12,8 @@ lng: -66.4400
 zipSample: ["00674"]
 zipCodes: ["00674"]
 localPaths: ["Manatí County / ZIP 00674 sector", "Manatí County / elevation 282 ft band", "Manatí County / primary ZIP 00674", "Manatí County / coords 18.4300, -66.4400"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 375789
 ---
 
 **Engineering Notice for Coto Norte:** System optimized for 126 mg/L hard water scaling factors in Coto Norte. Regional dispatch grid: Manatí County.

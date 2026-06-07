@@ -12,6 +12,7 @@ lng: -87.5900
 zipSample: ["36744"]
 zipCodes: ["36744"]
 localPaths: ["Hale County / coords 32.7000, -87.5900", "Hale County / primary ZIP 36744", "Hale County / ZIP 36744 sector", "Hale County / elevation 272 ft band"]
+zillowHomeValueUsd: 143777
 ---
 
 **Engineering Notice for Greensboro:** structural drying capacity optimized for 272ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hale County. Relative Humidity Threshold: 74%. Sensor sync: Active.

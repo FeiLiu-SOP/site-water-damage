@@ -12,6 +12,7 @@ lng: -72.6000
 zipSample: ["06443"]
 zipCodes: ["06443"]
 localPaths: ["South Central Connecticut County / ZIP 06443 sector", "South Central Connecticut County / elevation 30 ft band", "South Central Connecticut County / coords 41.2800, -72.6000", "South Central Connecticut County / primary ZIP 06443"]
+zillowHomeValueUsd: 701514
 ---
 
 **Engineering Notice for Madison Center:** System optimized for 122 mg/L hard water scaling factors in Madison Center. Regional dispatch grid: South Central Connecticut County.

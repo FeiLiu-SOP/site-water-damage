@@ -12,6 +12,7 @@ lng: -93.8100
 zipSample: ["71078"]
 zipCodes: ["71078"]
 localPaths: ["De Soto Parish / primary ZIP 71078", "De Soto Parish / ZIP 71078 sector", "De Soto Parish / coords 32.2700, -93.8100", "De Soto Parish / elevation 276 ft band"]
+zillowHomeValueUsd: 354535
 ---
 
 **Engineering Notice for Stonewall:** System optimized for 157 mg/L hard water scaling factors in Stonewall. Regional dispatch grid: De Soto Parish.

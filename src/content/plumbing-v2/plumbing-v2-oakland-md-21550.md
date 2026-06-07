@@ -12,6 +12,7 @@ lng: -79.4000
 zipSample: ["21550"]
 zipCodes: ["21550"]
 localPaths: ["Garrett County / ZIP 21550 sector", "Garrett County / primary ZIP 21550", "Garrett County / coords 39.4200, -79.4000", "Garrett County / elevation 2451 ft band"]
+zillowHomeValueUsd: 296035
 ---
 
 **Engineering Notice for Oakland:** System optimized for 155 mg/L hard water scaling factors in Oakland. Regional dispatch grid: Garrett County.

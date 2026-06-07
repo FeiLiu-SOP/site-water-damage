@@ -12,6 +12,7 @@ lng: -82.3700
 zipSample: ["31501", "31503"]
 zipCodes: ["31501", "31503"]
 localPaths: ["Ware County / primary ZIP 31501", "Ware County / coords 31.2500, -82.3700", "Ware County / elevation 161 ft band", "Ware County / ZIP 31501 sector", "Ware County / ZIP 31503 sector"]
+zillowHomeValueUsd: 133291
 ---
 
 **Engineering Notice for Deenwood:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Elevation: 161 ft AMSL. Grid: Ware County.

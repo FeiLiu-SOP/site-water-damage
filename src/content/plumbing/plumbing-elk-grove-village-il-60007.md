@@ -12,6 +12,7 @@ lng: -87.9900
 zipSample: ["60009", "60007"]
 zipCodes: ["60009", "60007"]
 localPaths: ["Cook County / ZIP 60007 sector", "Cook County / elevation 689 ft band", "Cook County / ZIP 60009 sector", "Cook County / primary ZIP 60007", "Cook County / coords 42.0100, -87.9900"]
+zillowHomeValueUsd: 384405
 ---
 
 **Engineering Notice for Elk Grove Village:** Structural loading calculated based on 689 ft terrain assessment. Regional dispatch grid: Cook County.

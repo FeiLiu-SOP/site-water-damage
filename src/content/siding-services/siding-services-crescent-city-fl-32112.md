@@ -12,6 +12,7 @@ lng: -81.5200
 zipSample: ["32112"]
 zipCodes: ["32112"]
 localPaths: ["Putnam County / coords 29.4400, -81.5200", "Putnam County / ZIP 32112 sector", "Putnam County / primary ZIP 32112", "Putnam County / elevation 56 ft band"]
+zillowHomeValueUsd: 208735
 ---
 
 **Engineering Notice for Crescent City:** Site context locked to Putnam County. Elevation: 56 ft AMSL. Coordinates: 29.4400, -81.5200. Facade Renewal integrity verification recorded.

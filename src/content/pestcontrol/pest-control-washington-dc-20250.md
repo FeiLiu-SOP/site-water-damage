@@ -11,6 +11,7 @@ lng: -77.0200
 zipSample: ["20289", "20033", "20463", "20039", "20037"]
 zipCodes: ["20420", "20076", "20027", "20222", "20395", "20319", "20557", "20422", "20453", "20594", "20081", "20522"]
 localPaths: ["District of Columbia County / ZIP 20289 sector", "District of Columbia County / elevation 69 ft band", "District of Columbia County / coords 38.9000, -77.0200", "District of Columbia County / primary ZIP 20250", "District of Columbia County / ZIP 20037 sector"]
+zillowHomeValueUsd: 615796
 ---
 
 **Engineering Notice for Washington:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: District of Columbia County.

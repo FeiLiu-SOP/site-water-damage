@@ -12,6 +12,7 @@ lng: -74.9200
 zipSample: ["19048", "19047", "19049"]
 zipCodes: ["19047", "19048", "19049"]
 localPaths: ["Bucks County / ZIP 19049 sector", "Bucks County / ZIP 19048 sector", "Bucks County / elevation 233 ft band", "Bucks County / coords 40.1800, -74.9200", "Bucks County / ZIP 19047 sector"]
+zillowHomeValueUsd: 560828
 ---
 
 **Engineering Notice for Langhorne:** System optimized for 136 mg/L hard water scaling factors in Langhorne. Regional dispatch grid: Bucks County.

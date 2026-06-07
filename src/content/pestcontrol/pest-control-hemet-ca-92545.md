@@ -11,6 +11,7 @@ lng: -117.0000
 zipSample: ["92545", "92543", "92546"]
 zipCodes: ["92543", "92546", "92545"]
 localPaths: ["Riverside County / primary ZIP 92545", "Riverside County / ZIP 92543 sector", "Riverside County / ZIP 92545 sector", "Riverside County / ZIP 92546 sector", "Riverside County / elevation 1549 ft band"]
+zillowHomeValueUsd: 451582
 ---
 
 **Engineering Notice for Hemet:** Structural loading calculated based on 1549 ft terrain assessment. Regional dispatch grid: Riverside County.

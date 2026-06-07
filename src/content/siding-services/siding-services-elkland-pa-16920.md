@@ -12,6 +12,7 @@ lng: -77.3100
 zipSample: ["16920"]
 zipCodes: ["16920"]
 localPaths: ["Tioga County / primary ZIP 16920", "Tioga County / coords 41.9900, -77.3100", "Tioga County / elevation 1148 ft band", "Tioga County / ZIP 16920 sector"]
+zillowHomeValueUsd: 128365
 ---
 
 **Engineering Notice for Elkland:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Coordinates: 41.9900, -77.3100. Grid: Tioga County.

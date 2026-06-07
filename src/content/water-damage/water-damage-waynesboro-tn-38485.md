@@ -12,6 +12,7 @@ lng: -87.7600
 zipSample: ["38485"]
 zipCodes: ["38485"]
 localPaths: ["Wayne County / primary ZIP 38485", "Wayne County / elevation 705 ft band", "Wayne County / coords 35.3200, -87.7600", "Wayne County / ZIP 38485 sector"]
+zillowHomeValueUsd: 170404
 ---
 
 **Engineering Notice for Waynesboro:** structural drying capacity optimized for 705ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wayne County. Relative Humidity Threshold: 85%. Sensor sync: Active.

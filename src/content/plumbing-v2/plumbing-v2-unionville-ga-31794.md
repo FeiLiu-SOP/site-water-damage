@@ -12,6 +12,7 @@ lng: -83.5100
 zipSample: ["31794"]
 zipCodes: ["31794"]
 localPaths: ["Tift County / ZIP 31794 sector", "Tift County / elevation 371 ft band", "Tift County / primary ZIP 31794", "Tift County / coords 31.4400, -83.5100"]
+zillowHomeValueUsd: 182382
 ---
 
 **Engineering Notice for Unionville:** System optimized for 150 mg/L hard water scaling factors in Unionville. Regional dispatch grid: Tift County.

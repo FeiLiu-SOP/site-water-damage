@@ -12,6 +12,7 @@ lng: -92.8500
 zipSample: ["70648"]
 zipCodes: ["70648"]
 localPaths: ["Allen Parish / elevation 59 ft band", "Allen Parish / primary ZIP 70648", "Allen Parish / ZIP 70648 sector", "Allen Parish / coords 30.4800, -92.8500"]
+zillowHomeValueUsd: 139297
 ---
 
 **Engineering Notice for Kinder:** structural drying capacity optimized for 59ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allen Parish. Relative Humidity Threshold: 81%. Sensor sync: Active.

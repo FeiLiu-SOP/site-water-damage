@@ -12,6 +12,7 @@ lng: -74.6100
 zipSample: ["07461"]
 zipCodes: ["07461"]
 localPaths: ["Sussex County / ZIP 07461 sector", "Sussex County / coords 41.2100, -74.6100", "Sussex County / primary ZIP 07461", "Sussex County / elevation 449 ft band"]
+zillowHomeValueUsd: 447835
 ---
 
 **Engineering Notice for Sussex:** System optimized for 171 mg/L hard water scaling factors in Sussex. Regional dispatch grid: Sussex County.

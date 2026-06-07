@@ -12,6 +12,7 @@ lng: -114.0800
 zipSample: ["59870"]
 zipCodes: ["59870"]
 localPaths: ["Ravalli County / coords 46.5100, -114.0800", "Ravalli County / ZIP 59870 sector", "Ravalli County / elevation 3376 ft band", "Ravalli County / primary ZIP 59870"]
+zillowHomeValueUsd: 615643
 ---
 
 **Engineering Notice for Stevensville:** System optimized for 121 mg/L hard water scaling factors in Stevensville. Regional dispatch grid: Ravalli County.

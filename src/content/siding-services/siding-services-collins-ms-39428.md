@@ -12,6 +12,7 @@ lng: -89.5700
 zipSample: ["39428"]
 zipCodes: ["39428"]
 localPaths: ["Covington County / primary ZIP 39428", "Covington County / ZIP 39428 sector", "Covington County / coords 31.6500, -89.5700", "Covington County / elevation 308 ft band"]
+zillowHomeValueUsd: 161378
 ---
 
 **Engineering Notice for Collins:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Coordinates: 31.6500, -89.5700. Grid: Covington County.

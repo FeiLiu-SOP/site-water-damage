@@ -12,6 +12,7 @@ lng: -95.0000
 zipSample: ["50583"]
 zipCodes: ["50583"]
 localPaths: ["Sac County / primary ZIP 50583", "Sac County / elevation 1260 ft band", "Sac County / ZIP 50583 sector", "Sac County / coords 42.4200, -95.0000"]
+zillowHomeValueUsd: 141939
 ---
 
 **Engineering Notice for Sac City:** Facade Renewal was validated under stress factor 0.92; target tolerance set near 90 mph. Grid anchor: Sac County.

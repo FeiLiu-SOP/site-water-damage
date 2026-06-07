@@ -12,6 +12,7 @@ lng: -79.1300
 zipSample: ["26847"]
 zipCodes: ["26847"]
 localPaths: ["Grant County / primary ZIP 26847", "Grant County / ZIP 26847 sector", "Grant County / elevation 955 ft band", "Grant County / coords 39.0000, -79.1300"]
+zillowHomeValueUsd: 194495
 ---
 
 **Engineering Notice for Petersburg:** Site context locked to Grant County. Exterior Cladding integrity verification recorded.

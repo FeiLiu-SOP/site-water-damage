@@ -12,6 +12,7 @@ lng: -88.8900
 zipSample: ["62995"]
 zipCodes: ["62995"]
 localPaths: ["Johnson County / primary ZIP 62995", "Johnson County / elevation 367 ft band", "Johnson County / ZIP 62995 sector", "Johnson County / coords 37.4100, -88.8900"]
+zillowHomeValueUsd: 175937
 ---
 
 **Engineering Notice for Vienna:** System optimized for 143 mg/L hard water scaling factors in Vienna. Regional dispatch grid: Johnson County.

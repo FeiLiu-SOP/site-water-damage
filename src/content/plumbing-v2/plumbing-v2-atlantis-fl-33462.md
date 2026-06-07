@@ -12,6 +12,7 @@ lng: -80.1000
 zipSample: ["33462"]
 zipCodes: ["33462"]
 localPaths: ["Palm Beach County / coords 26.6000, -80.1000", "Palm Beach County / ZIP 33462 sector", "Palm Beach County / elevation 30 ft band", "Palm Beach County / primary ZIP 33462"]
+zillowHomeValueUsd: 386206
 ---
 
 **Engineering Notice for Atlantis:** System optimized for 163 mg/L hard water scaling factors in Atlantis. Regional dispatch grid: Palm Beach County.

@@ -12,6 +12,7 @@ lng: -83.3100
 zipSample: ["48162"]
 zipCodes: ["48162"]
 localPaths: ["Monroe County / ZIP 48162 sector", "Monroe County / elevation 577 ft band", "Monroe County / coords 41.9400, -83.3100", "Monroe County / primary ZIP 48162"]
+zillowHomeValueUsd: 231491
 ---
 
 **Engineering Notice for Woodland Beach:** Envelope check: Cladding Service assigned to wind-load band C with stress factor 0.78. Regional dispatch grid: Monroe County.

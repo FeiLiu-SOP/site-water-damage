@@ -12,6 +12,7 @@ lng: -92.2300
 zipSample: ["55934"]
 zipCodes: ["55934"]
 localPaths: ["Olmsted County / ZIP 55934 sector", "Olmsted County / coords 43.9900, -92.2300", "Olmsted County / elevation 1257 ft band", "Olmsted County / primary ZIP 55934"]
+zillowHomeValueUsd: 353837
 ---
 
 **Engineering Notice for Eyota:** Envelope check: Surface Sheathing assigned to wind-load band C with stress factor 0.72. Elevation: 1257 ft AMSL. Regional dispatch grid: Olmsted County.

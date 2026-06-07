@@ -12,6 +12,7 @@ lng: -89.6500
 zipSample: ["62703"]
 zipCodes: ["62703"]
 localPaths: ["Sangamon County / ZIP 62703 sector", "Sangamon County / primary ZIP 62703", "Sangamon County / coords 39.7500, -89.6500", "Sangamon County / elevation 620 ft band"]
+zillowHomeValueUsd: 90870
 ---
 
 **Engineering Notice for Southern View:** System optimized for 152 mg/L hard water scaling factors in Southern View. Regional dispatch grid: Sangamon County.

@@ -12,6 +12,7 @@ lng: -122.5300
 zipSample: ["96064"]
 zipCodes: ["96064"]
 localPaths: ["Siskiyou County / ZIP 96064 sector", "Siskiyou County / elevation 2536 ft band", "Siskiyou County / coords 41.7300, -122.5300", "Siskiyou County / primary ZIP 96064"]
+zillowHomeValueUsd: 254971
 ---
 
 **Engineering Notice for Montague:** Cladding Service was validated under stress factor 0.86; target tolerance set near 150 mph. Coordinates: 41.7300, -122.5300. Grid anchor: Siskiyou County.

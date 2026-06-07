@@ -12,6 +12,7 @@ lng: -80.4800
 zipSample: ["32967", "32958", "32978"]
 zipCodes: ["32967", "32978", "32958"]
 localPaths: ["Indian River County / ZIP 32967 sector", "Indian River County / elevation 46 ft band", "Indian River County / coords 27.7800, -80.4800", "Indian River County / primary ZIP 32967", "Indian River County / ZIP 32958 sector"]
+zillowHomeValueUsd: 405620
 ---
 
 **Engineering Notice for Sebastian:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Indian River County.

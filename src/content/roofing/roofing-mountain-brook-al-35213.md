@@ -11,6 +11,7 @@ lng: -86.7400
 zipSample: ["35297", "35253", "35223", "35213", "35243"]
 zipCodes: ["35243", "35213", "35297", "35253", "35223"]
 localPaths: ["Jefferson County / elevation 971 ft band", "Jefferson County / ZIP 35297 sector", "Jefferson County / coords 33.4900, -86.7400", "Jefferson County / ZIP 35253 sector", "Jefferson County / primary ZIP 35213"]
+zillowHomeValueUsd: 853350
 ---
 
 **Engineering Notice for Mountain Brook:** Structural loading calculated based on 971 ft terrain assessment. Regional dispatch grid: Jefferson County.

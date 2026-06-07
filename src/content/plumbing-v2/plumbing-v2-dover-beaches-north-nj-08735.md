@@ -12,6 +12,7 @@ lng: -74.0700
 zipSample: ["08735", "08739"]
 zipCodes: ["08739", "08735"]
 localPaths: ["Ocean County / coords 39.9900, -74.0700", "Ocean County / ZIP 08739 sector", "Ocean County / primary ZIP 08735", "Ocean County / elevation 3 ft band", "Ocean County / ZIP 08735 sector"]
+zillowHomeValueUsd: 1146027
 ---
 
 **Engineering Notice for Dover Beaches North:** System optimized for 139 mg/L hard water scaling factors in Dover Beaches North. Regional dispatch grid: Ocean County.

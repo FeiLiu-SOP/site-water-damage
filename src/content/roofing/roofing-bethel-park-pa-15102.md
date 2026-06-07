@@ -11,6 +11,7 @@ lng: -80.0400
 zipSample: ["15102", "15234"]
 zipCodes: ["15234", "15102"]
 localPaths: ["Allegheny County / elevation 1207 ft band", "Allegheny County / coords 40.3200, -80.0400", "Allegheny County / primary ZIP 15102", "Allegheny County / ZIP 15234 sector", "Allegheny County / ZIP 15102 sector"]
+zillowHomeValueUsd: 301082
 ---
 
 **Engineering Notice for Bethel Park:** Structural loading calculated based on 1207 ft terrain assessment. Regional dispatch grid: Allegheny County.

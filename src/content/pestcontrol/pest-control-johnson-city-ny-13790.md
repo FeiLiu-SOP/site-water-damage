@@ -11,6 +11,7 @@ lng: -75.9600
 zipSample: ["13790"]
 zipCodes: ["13790"]
 localPaths: ["Broome County / primary ZIP 13790", "Broome County / ZIP 13790 sector", "Broome County / elevation 860 ft band", "Broome County / coords 42.1200, -75.9600"]
+zillowHomeValueUsd: 156646
 ---
 
 **Engineering Notice for Johnson City:** Structural loading calculated based on 860 ft terrain assessment. Regional dispatch grid: Broome County.

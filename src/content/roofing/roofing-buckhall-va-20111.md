@@ -11,6 +11,7 @@ lng: -77.4500
 zipSample: ["20110", "20111", "20112"]
 zipCodes: ["20112", "20111", "20110"]
 localPaths: ["Prince William County / ZIP 20112 sector", "Prince William County / coords 38.7200, -77.4500", "Prince William County / ZIP 20111 sector", "Prince William County / ZIP 20110 sector", "Prince William County / elevation 315 ft band"]
+zillowHomeValueUsd: 520385
 ---
 
 **Engineering Notice for Buckhall:** Structural loading calculated based on 315 ft terrain assessment. Regional dispatch grid: Prince William County.

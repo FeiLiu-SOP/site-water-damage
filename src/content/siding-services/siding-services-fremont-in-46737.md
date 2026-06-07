@@ -12,6 +12,7 @@ lng: -84.9400
 zipSample: ["46737"]
 zipCodes: ["46737"]
 localPaths: ["Steuben County / elevation 1047 ft band", "Steuben County / ZIP 46737 sector", "Steuben County / coords 41.7300, -84.9400", "Steuben County / primary ZIP 46737"]
+zillowHomeValueUsd: 368235
 ---
 
 **Engineering Notice for Fremont:** Structural integrity verification: Panel Replacement calibrated for 107 mph localized wind load factor. Elevation: 1047 ft AMSL. Coordinates: 41.7300, -84.9400. Regional dispatch grid: Steuben County.

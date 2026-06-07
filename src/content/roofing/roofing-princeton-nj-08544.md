@@ -11,6 +11,7 @@ lng: -74.6700
 zipSample: ["08542", "08540", "08544", "08541"]
 zipCodes: ["08544", "08540", "08542", "08541"]
 localPaths: ["Mercer County / coords 40.3600, -74.6700", "Mercer County / ZIP 08540 sector", "Mercer County / primary ZIP 08544", "Mercer County / ZIP 08544 sector", "Mercer County / elevation 148 ft band"]
+zillowHomeValueUsd: 969751
 ---
 
 **Engineering Notice for Princeton:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Mercer County.

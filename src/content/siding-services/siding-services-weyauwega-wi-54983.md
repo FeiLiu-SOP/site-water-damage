@@ -12,6 +12,7 @@ lng: -88.9300
 zipSample: ["54983"]
 zipCodes: ["54983"]
 localPaths: ["Waupaca County / ZIP 54983 sector", "Waupaca County / primary ZIP 54983", "Waupaca County / elevation 784 ft band", "Waupaca County / coords 44.3200, -88.9300"]
+zillowHomeValueUsd: 284146
 ---
 
 **Engineering Notice for Weyauwega:** Site context locked to Waupaca County. Elevation: 784 ft AMSL. Coordinates: 44.3200, -88.9300. Exterior Envelope integrity verification recorded.

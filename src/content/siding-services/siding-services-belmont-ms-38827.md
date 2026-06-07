@@ -12,6 +12,7 @@ lng: -88.2100
 zipSample: ["38847", "38827"]
 zipCodes: ["38847", "38827"]
 localPaths: ["Tishomingo County / ZIP 38827 sector", "Tishomingo County / elevation 584 ft band", "Tishomingo County / coords 34.5000, -88.2100", "Tishomingo County / primary ZIP 38827", "Tishomingo County / ZIP 38847 sector"]
+zillowHomeValueUsd: 166599
 ---
 
 **Engineering Notice for Belmont:** Envelope check: Panel Replacement assigned to wind-load band B with stress factor 0.74. Elevation: 584 ft AMSL. Regional dispatch grid: Tishomingo County.

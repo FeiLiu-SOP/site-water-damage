@@ -12,6 +12,7 @@ lng: -74.8100
 zipSample: ["08270"]
 zipCodes: ["08270"]
 localPaths: ["Cape May County / primary ZIP 08270", "Cape May County / ZIP 08270 sector", "Cape May County / coords 39.2300, -74.8100", "Cape May County / elevation 33 ft band"]
+zillowHomeValueUsd: 323720
 ---
 
 **Engineering Notice for Woodbine:** Cladding verification uses 90 mph routing baseline; lateral pressure note: 12.0 psf. Grid: Cape May County.

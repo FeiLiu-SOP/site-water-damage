@@ -12,6 +12,7 @@ lng: -96.9100
 zipSample: ["58078"]
 zipCodes: ["58078"]
 localPaths: ["Cass County / ZIP 58078 sector", "Cass County / primary ZIP 58078", "Cass County / coords 46.8600, -96.9100", "Cass County / elevation 896 ft band"]
+zillowHomeValueUsd: 349061
 ---
 
 **Engineering Notice for West Fargo:** Structural loading calculated based on 896 ft terrain assessment. Regional dispatch grid: Cass County.

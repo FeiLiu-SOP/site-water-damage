@@ -11,6 +11,7 @@ lng: -85.7800
 zipSample: ["46176"]
 zipCodes: ["46176"]
 localPaths: ["Shelby County / ZIP 46176 sector", "Shelby County / elevation 761 ft band", "Shelby County / primary ZIP 46176", "Shelby County / coords 39.5400, -85.7800"]
+zillowHomeValueUsd: 221720
 ---
 
 **Engineering Notice for Shelbyville:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Shelby County.

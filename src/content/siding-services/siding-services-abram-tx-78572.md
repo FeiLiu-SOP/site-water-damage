@@ -12,6 +12,7 @@ lng: -98.4200
 zipSample: ["78572"]
 zipCodes: ["78572"]
 localPaths: ["Hidalgo County / coords 26.2200, -98.4200", "Hidalgo County / ZIP 78572 sector", "Hidalgo County / elevation 128 ft band", "Hidalgo County / primary ZIP 78572"]
+zillowHomeValueUsd: 197886
 ---
 
 **Engineering Notice for Abram:** Cladding verification uses 144 mph routing baseline; lateral pressure note: 18.5 psf. Elevation: 128 ft AMSL. Coordinates: 26.2200, -98.4200. Grid: Hidalgo County.

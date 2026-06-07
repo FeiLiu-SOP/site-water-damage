@@ -11,6 +11,7 @@ lng: -118.1800
 zipSample: ["90201"]
 zipCodes: ["90201"]
 localPaths: ["Los Angeles County / ZIP 90201 sector", "Los Angeles County / coords 33.9800, -118.1800", "Los Angeles County / primary ZIP 90201", "Los Angeles County / elevation 144 ft band"]
+zillowHomeValueUsd: 687036
 ---
 
 **Engineering Notice for Bell:** Structural loading calculated based on 144 ft terrain assessment. Regional dispatch grid: Los Angeles County.

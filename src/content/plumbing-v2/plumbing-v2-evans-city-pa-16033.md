@@ -12,6 +12,7 @@ lng: -80.0600
 zipSample: ["16033"]
 zipCodes: ["16033"]
 localPaths: ["Butler County / elevation 974 ft band", "Butler County / primary ZIP 16033", "Butler County / coords 40.7700, -80.0600", "Butler County / ZIP 16033 sector"]
+zillowHomeValueUsd: 334430
 ---
 
 **Engineering Notice for Evans City:** System optimized for 160 mg/L hard water scaling factors in Evans City. Regional dispatch grid: Butler County.

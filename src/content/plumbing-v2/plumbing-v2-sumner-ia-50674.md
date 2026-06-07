@@ -12,6 +12,7 @@ lng: -92.1000
 zipSample: ["50674"]
 zipCodes: ["50674"]
 localPaths: ["Bremer County / elevation 1063 ft band", "Bremer County / ZIP 50674 sector", "Bremer County / coords 42.8500, -92.1000", "Bremer County / primary ZIP 50674"]
+zillowHomeValueUsd: 203239
 ---
 
 **Engineering Notice for Sumner:** System optimized for 144 mg/L hard water scaling factors in Sumner. Regional dispatch grid: Bremer County.

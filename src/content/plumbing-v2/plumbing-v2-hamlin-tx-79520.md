@@ -12,6 +12,7 @@ lng: -100.1300
 zipSample: ["79520"]
 zipCodes: ["79520"]
 localPaths: ["Jones County / ZIP 79520 sector", "Jones County / coords 32.8900, -100.1300", "Jones County / primary ZIP 79520", "Jones County / elevation 1722 ft band"]
+zillowHomeValueUsd: 109371
 ---
 
 **Engineering Notice for Hamlin:** System optimized for 136 mg/L hard water scaling factors in Hamlin. Regional dispatch grid: Jones County.

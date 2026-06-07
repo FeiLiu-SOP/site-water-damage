@@ -12,6 +12,7 @@ lng: -120.7600
 zipSample: ["98947"]
 zipCodes: ["98947"]
 localPaths: ["Yakima County / primary ZIP 98947", "Yakima County / coords 46.7000, -120.7600", "Yakima County / elevation 1926 ft band", "Yakima County / ZIP 98947 sector"]
+zillowHomeValueUsd: 345885
 ---
 
 **Engineering Notice for Tieton:** System optimized for 177 mg/L hard water scaling factors in Tieton. Regional dispatch grid: Yakima County.

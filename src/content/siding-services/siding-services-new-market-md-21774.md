@@ -12,6 +12,7 @@ lng: -77.2800
 zipSample: ["21770", "21774"]
 zipCodes: ["21770", "21774"]
 localPaths: ["Frederick County / ZIP 21770 sector", "Frederick County / elevation 479 ft band", "Frederick County / primary ZIP 21774", "Frederick County / ZIP 21774 sector", "Frederick County / coords 39.3900, -77.2800"]
+zillowHomeValueUsd: 604045
 ---
 
 **Engineering Notice for New Market:** Structural integrity verification: Wall Restoration calibrated for 97 mph localized wind load factor. Elevation: 479 ft AMSL. Regional dispatch grid: Frederick County.

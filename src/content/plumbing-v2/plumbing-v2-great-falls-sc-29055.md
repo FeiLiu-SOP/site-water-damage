@@ -12,6 +12,7 @@ lng: -80.9000
 zipSample: ["29055"]
 zipCodes: ["29055"]
 localPaths: ["Chester County / coords 34.5800, -80.9000", "Chester County / primary ZIP 29055", "Chester County / ZIP 29055 sector", "Chester County / elevation 420 ft band"]
+zillowHomeValueUsd: 143417
 ---
 
 **Engineering Notice for Great Falls:** System optimized for 170 mg/L hard water scaling factors in Great Falls. Regional dispatch grid: Chester County.

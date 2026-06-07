@@ -11,6 +11,7 @@ lng: -83.9500
 zipSample: ["48607", "48602", "48606", "48601", "48663"]
 zipCodes: ["48606", "48601", "48602", "48663", "48607"]
 localPaths: ["Saginaw County / ZIP 48602 sector", "Saginaw County / ZIP 48663 sector", "Saginaw County / elevation 594 ft band", "Saginaw County / coords 43.4200, -83.9500", "Saginaw County / ZIP 48607 sector"]
+zillowHomeValueUsd: 81414
 ---
 
 **Engineering Notice for Saginaw:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: Saginaw County.

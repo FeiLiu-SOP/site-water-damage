@@ -12,6 +12,8 @@ lng: -66.8600
 zipSample: ["00627"]
 zipCodes: ["00627"]
 localPaths: ["Camuy County / ZIP 00627 sector", "Camuy County / primary ZIP 00627", "Camuy County / elevation 371 ft band", "Camuy County / coords 18.4500, -66.8600"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 383117
 ---
 
 **Engineering Notice for Alianza:** System optimized for 123 mg/L hard water scaling factors in Alianza. Regional dispatch grid: Camuy County.

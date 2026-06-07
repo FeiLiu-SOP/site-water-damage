@@ -11,6 +11,7 @@ lng: -74.3100
 zipSample: ["07067"]
 zipCodes: ["07067"]
 localPaths: ["Middlesex County / coords 40.5900, -74.3100", "Middlesex County / primary ZIP 07067", "Middlesex County / ZIP 07067 sector", "Middlesex County / elevation 92 ft band"]
+zillowHomeValueUsd: 635434
 ---
 
 **Engineering Notice for Colonia:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Middlesex County.

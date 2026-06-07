@@ -12,6 +12,7 @@ lng: -88.3700
 zipSample: ["61853"]
 zipCodes: ["61853"]
 localPaths: ["Champaign County / primary ZIP 61853", "Champaign County / coords 40.2100, -88.3700", "Champaign County / elevation 768 ft band", "Champaign County / ZIP 61853 sector"]
+zillowHomeValueUsd: 340247
 ---
 
 **Engineering Notice for Lake of the Woods:** System optimized for 162 mg/L hard water scaling factors in Lake of the Woods. Regional dispatch grid: Champaign County.

@@ -12,6 +12,7 @@ lng: -80.0500
 zipSample: ["33435"]
 zipCodes: ["33435"]
 localPaths: ["Palm Beach County / coords 26.5300, -80.0500", "Palm Beach County / primary ZIP 33435", "Palm Beach County / ZIP 33435 sector", "Palm Beach County / elevation 26 ft band"]
+zillowHomeValueUsd: 305029
 ---
 
 **Engineering Notice for Ocean Ridge:** System optimized for 165 mg/L hard water scaling factors in Ocean Ridge. Regional dispatch grid: Palm Beach County.

@@ -12,6 +12,7 @@ lng: -85.6400
 zipSample: ["37339"]
 zipCodes: ["37339"]
 localPaths: ["Grundy County / primary ZIP 37339", "Grundy County / elevation 1883 ft band", "Grundy County / coords 35.3700, -85.6400", "Grundy County / ZIP 37339 sector"]
+zillowHomeValueUsd: 186657
 ---
 
 **Engineering Notice for Gruetli-Laager:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 0.72. Elevation: 1883 ft AMSL. Regional dispatch grid: Grundy County.

@@ -12,6 +12,7 @@ lng: -78.6400
 zipSample: ["14094"]
 zipCodes: ["14094"]
 localPaths: ["Niagara County / ZIP 14094 sector", "Niagara County / primary ZIP 14094", "Niagara County / coords 43.1000, -78.6400", "Niagara County / elevation 587 ft band"]
+zillowHomeValueUsd: 257275
 ---
 
 **Engineering Notice for Rapids:** Envelope check: Weather Barrier Wrap assigned to wind-load band B with stress factor 0.72. Elevation: 587 ft AMSL. Regional dispatch grid: Niagara County.

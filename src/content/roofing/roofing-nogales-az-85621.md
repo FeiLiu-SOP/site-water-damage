@@ -11,6 +11,7 @@ lng: -110.9300
 zipSample: ["85621"]
 zipCodes: ["85621"]
 localPaths: ["Santa Cruz County / elevation 3770 ft band", "Santa Cruz County / ZIP 85621 sector", "Santa Cruz County / coords 31.3600, -110.9300", "Santa Cruz County / primary ZIP 85621"]
+zillowHomeValueUsd: 221003
 ---
 
 **Engineering Notice for Nogales:** Structural loading calculated based on 3770 ft terrain assessment. Regional dispatch grid: Santa Cruz County.

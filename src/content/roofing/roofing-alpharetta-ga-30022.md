@@ -11,6 +11,7 @@ lng: -84.2700
 zipSample: ["30022", "30005", "30023", "30004", "30009"]
 zipCodes: ["30005", "30009", "30023", "30022", "30004"]
 localPaths: ["Fulton County / ZIP 30005 sector", "Fulton County / ZIP 30009 sector", "Fulton County / primary ZIP 30022", "Fulton County / ZIP 30004 sector", "Fulton County / ZIP 30023 sector"]
+zillowHomeValueUsd: 678097
 ---
 
 **Engineering Notice for Alpharetta:** Structural loading calculated based on 1093 ft terrain assessment. Regional dispatch grid: Fulton County.

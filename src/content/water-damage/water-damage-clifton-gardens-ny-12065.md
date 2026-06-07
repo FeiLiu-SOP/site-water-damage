@@ -12,6 +12,7 @@ lng: -73.7800
 zipSample: ["12065"]
 zipCodes: ["12065"]
 localPaths: ["Saratoga County / primary ZIP 12065", "Saratoga County / coords 42.8500, -73.7800", "Saratoga County / elevation 335 ft band", "Saratoga County / ZIP 12065 sector"]
+zillowHomeValueUsd: 474873
 ---
 
 **Engineering Notice for Clifton Gardens:** structural drying capacity optimized for 335ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Saratoga County. Relative Humidity Threshold: 70%. Sensor sync: Active.

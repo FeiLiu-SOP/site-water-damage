@@ -11,6 +11,7 @@ lng: -93.3600
 zipSample: ["55416", "55427", "55426", "55422"]
 zipCodes: ["55416", "55426", "55422", "55427"]
 localPaths: ["Hennepin County / primary ZIP 55422", "Hennepin County / coords 44.9900, -93.3600", "Hennepin County / ZIP 55422 sector", "Hennepin County / ZIP 55426 sector", "Hennepin County / ZIP 55416 sector"]
+zillowHomeValueUsd: 339165
 ---
 
 **Engineering Notice for Golden Valley:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: Hennepin County.

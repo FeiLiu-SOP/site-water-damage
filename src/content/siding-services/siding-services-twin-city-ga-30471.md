@@ -12,6 +12,7 @@ lng: -82.1600
 zipSample: ["30471"]
 zipCodes: ["30471"]
 localPaths: ["Emanuel County / primary ZIP 30471", "Emanuel County / coords 32.5800, -82.1600", "Emanuel County / elevation 308 ft band", "Emanuel County / ZIP 30471 sector"]
+zillowHomeValueUsd: 131018
 ---
 
 **Engineering Notice for Twin City:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Elevation: 308 ft AMSL. Coordinates: 32.5800, -82.1600. Grid: Emanuel County.

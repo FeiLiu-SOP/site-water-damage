@@ -11,6 +11,7 @@ lng: -97.8900
 zipSample: ["78666", "78640"]
 zipCodes: ["78666", "78640"]
 localPaths: ["Hays County / primary ZIP 78666", "Hays County / ZIP 78640 sector", "Hays County / elevation 764 ft band", "Hays County / coords 29.9900, -97.8900", "Hays County / ZIP 78666 sector"]
+zillowHomeValueUsd: 314047
 ---
 
 **Engineering Notice for Kyle:** Structural loading calculated based on 764 ft terrain assessment. Regional dispatch grid: Hays County.

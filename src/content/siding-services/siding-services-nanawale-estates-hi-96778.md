@@ -12,6 +12,7 @@ lng: -154.9100
 zipSample: ["96778"]
 zipCodes: ["96778"]
 localPaths: ["Hawaii County / ZIP 96778 sector", "Hawaii County / primary ZIP 96778", "Hawaii County / elevation 482 ft band", "Hawaii County / coords 19.5000, -154.9100"]
+zillowHomeValueUsd: 288894
 ---
 
 **Engineering Notice for Nanawale Estates:** Cladding verification uses 97 mph routing baseline; lateral pressure note: 12.8 psf. Coordinates: 19.5000, -154.9100. Grid: Hawaii County.

@@ -11,6 +11,7 @@ lng: -87.9300
 zipSample: ["60521"]
 zipCodes: ["60521"]
 localPaths: ["DuPage County / elevation 728 ft band", "DuPage County / coords 41.8000, -87.9300", "DuPage County / ZIP 60521 sector", "DuPage County / primary ZIP 60521"]
+zillowHomeValueUsd: 1210421
 ---
 
 **Engineering Notice for Hinsdale:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: DuPage County.

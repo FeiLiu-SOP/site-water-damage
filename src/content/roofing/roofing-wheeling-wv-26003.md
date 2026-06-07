@@ -11,6 +11,7 @@ lng: -80.7000
 zipSample: ["26003"]
 zipCodes: ["26003"]
 localPaths: ["Ohio County / coords 40.0800, -80.7000", "Ohio County / elevation 679 ft band", "Ohio County / ZIP 26003 sector", "Ohio County / primary ZIP 26003"]
+zillowHomeValueUsd: 156616
 ---
 
 **Engineering Notice for Wheeling:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: Ohio County.

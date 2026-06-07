@@ -12,6 +12,7 @@ lng: -78.3600
 zipSample: ["16648"]
 zipCodes: ["16648"]
 localPaths: ["Blair County / coords 40.4200, -78.3600", "Blair County / primary ZIP 16648", "Blair County / ZIP 16648 sector", "Blair County / elevation 942 ft band"]
+zillowHomeValueUsd: 243707
 ---
 
 **Engineering Notice for Loop:** Weather Barrier Wrap was validated under stress factor 1.04; target tolerance set near 108 mph. Grid anchor: Blair County.

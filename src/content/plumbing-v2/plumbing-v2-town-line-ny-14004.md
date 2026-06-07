@@ -12,6 +12,7 @@ lng: -78.5600
 zipSample: ["14004", "14086"]
 zipCodes: ["14004", "14086"]
 localPaths: ["Erie County / coords 42.8900, -78.5600", "Erie County / primary ZIP 14004", "Erie County / ZIP 14086 sector", "Erie County / elevation 768 ft band", "Erie County / ZIP 14004 sector"]
+zillowHomeValueUsd: 321645
 ---
 
 **Engineering Notice for Town Line:** System optimized for 120 mg/L hard water scaling factors in Town Line. Regional dispatch grid: Erie County.

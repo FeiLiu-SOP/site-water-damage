@@ -12,6 +12,7 @@ lng: -85.0900
 zipSample: ["30161", "30172"]
 zipCodes: ["30161", "30172"]
 localPaths: ["Floyd County / elevation 692 ft band", "Floyd County / coords 34.3400, -85.0900", "Floyd County / primary ZIP 30161", "Floyd County / ZIP 30161 sector", "Floyd County / ZIP 30172 sector"]
+zillowHomeValueUsd: 217855
 ---
 
 **Engineering Notice for Shannon:** System optimized for 169 mg/L hard water scaling factors in Shannon. Regional dispatch grid: Floyd County.

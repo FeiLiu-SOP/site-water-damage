@@ -11,6 +11,7 @@ lng: -81.2800
 zipSample: ["32771", "32772", "32773"]
 zipCodes: ["32772", "32773", "32771"]
 localPaths: ["Seminole County / ZIP 32771 sector", "Seminole County / ZIP 32772 sector", "Seminole County / primary ZIP 32773", "Seminole County / coords 28.7900, -81.2800", "Seminole County / elevation 56 ft band"]
+zillowHomeValueUsd: 310868
 ---
 
 **Engineering Notice for Sanford:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Seminole County.

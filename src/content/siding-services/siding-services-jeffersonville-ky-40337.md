@@ -12,6 +12,7 @@ lng: -83.8300
 zipSample: ["40337"]
 zipCodes: ["40337"]
 localPaths: ["Montgomery County / elevation 804 ft band", "Montgomery County / ZIP 40337 sector", "Montgomery County / coords 37.9700, -83.8300", "Montgomery County / primary ZIP 40337"]
+zillowHomeValueUsd: 210077
 ---
 
 **Engineering Notice for Jeffersonville:** Site context locked to Montgomery County. Elevation: 804 ft AMSL. Coordinates: 37.9700, -83.8300. Wall Restoration integrity verification recorded.

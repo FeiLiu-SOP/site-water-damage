@@ -12,6 +12,7 @@ lng: -70.9700
 zipSample: ["01961", "01960"]
 zipCodes: ["01960", "01961"]
 localPaths: ["Essex County / ZIP 01960 sector", "Essex County / primary ZIP 01960", "Essex County / coords 42.5300, -70.9700", "Essex County / ZIP 01961 sector", "Essex County / elevation 184 ft band"]
+zillowHomeValueUsd: 695263
 ---
 
 **Engineering Notice for Peabody:** Structural loading calculated based on 184 ft terrain assessment. Regional dispatch grid: Essex County.

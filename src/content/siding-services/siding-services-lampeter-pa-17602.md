@@ -12,6 +12,7 @@ lng: -76.2400
 zipSample: ["17602", "17537"]
 zipCodes: ["17602", "17537"]
 localPaths: ["Lancaster County / coords 39.9900, -76.2400", "Lancaster County / ZIP 17537 sector", "Lancaster County / primary ZIP 17602", "Lancaster County / elevation 400 ft band", "Lancaster County / ZIP 17602 sector"]
+zillowHomeValueUsd: 317038
 ---
 
 **Engineering Notice for Lampeter:** Site context locked to Lancaster County. Exterior Cladding integrity verification recorded.

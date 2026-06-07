@@ -12,6 +12,7 @@ lng: -87.9400
 zipSample: ["53217"]
 zipCodes: ["53217"]
 localPaths: ["Milwaukee County / primary ZIP 53217", "Milwaukee County / coords 43.1700, -87.9400", "Milwaukee County / elevation 705 ft band", "Milwaukee County / ZIP 53217 sector"]
+zillowHomeValueUsd: 562366
 ---
 
 **Engineering Notice for River Hills:** structural drying capacity optimized for 705ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Milwaukee County. Relative Humidity Threshold: 82%. Sensor sync: Active.

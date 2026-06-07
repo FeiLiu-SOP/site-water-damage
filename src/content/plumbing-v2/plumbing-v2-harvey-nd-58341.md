@@ -12,6 +12,7 @@ lng: -99.9300
 zipSample: ["58341"]
 zipCodes: ["58341"]
 localPaths: ["Wells County / ZIP 58341 sector", "Wells County / elevation 1591 ft band", "Wells County / coords 47.7800, -99.9300", "Wells County / primary ZIP 58341"]
+zillowHomeValueUsd: 139155
 ---
 
 **Engineering Notice for Harvey:** System optimized for 155 mg/L hard water scaling factors in Harvey. Regional dispatch grid: Wells County.

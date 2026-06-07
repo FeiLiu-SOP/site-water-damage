@@ -11,6 +11,7 @@ lng: -75.3700
 zipSample: ["18015", "18018", "18017", "18016"]
 zipCodes: ["18016", "18018", "18015", "18017"]
 localPaths: ["Northampton County / primary ZIP 18017", "Northampton County / ZIP 18015 sector", "Northampton County / ZIP 18018 sector", "Northampton County / elevation 351 ft band", "Northampton County / coords 40.6300, -75.3700"]
+zillowHomeValueUsd: 378658
 ---
 
 **Engineering Notice for Bethlehem:** Structural loading calculated based on 351 ft terrain assessment. Regional dispatch grid: Northampton County.

@@ -12,6 +12,7 @@ lng: -81.2400
 zipSample: ["29918"]
 zipCodes: ["29918"]
 localPaths: ["Hampton County / ZIP 29918 sector", "Hampton County / coords 32.7500, -81.2400", "Hampton County / primary ZIP 29918", "Hampton County / elevation 121 ft band"]
+zillowHomeValueUsd: 115477
 ---
 
 **Engineering Notice for Estill:** Cladding verification uses 108 mph routing baseline; lateral pressure note: 14.2 psf. Coordinates: 32.7500, -81.2400. Grid: Hampton County.

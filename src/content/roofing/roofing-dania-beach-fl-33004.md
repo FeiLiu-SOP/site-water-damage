@@ -11,6 +11,7 @@ lng: -80.1600
 zipSample: ["33004", "33312"]
 zipCodes: ["33004", "33312"]
 localPaths: ["Broward County / elevation 23 ft band", "Broward County / coords 26.0600, -80.1600", "Broward County / ZIP 33312 sector", "Broward County / ZIP 33004 sector", "Broward County / primary ZIP 33004"]
+zillowHomeValueUsd: 325967
 ---
 
 **Engineering Notice for Dania Beach:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Broward County.

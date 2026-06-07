@@ -11,6 +11,7 @@ lng: -78.5100
 zipSample: ["27588", "27587"]
 zipCodes: ["27588", "27587"]
 localPaths: ["Wake County / elevation 348 ft band", "Wake County / ZIP 27587 sector", "Wake County / ZIP 27588 sector", "Wake County / coords 35.9600, -78.5100", "Wake County / primary ZIP 27587"]
+zillowHomeValueUsd: 512262
 ---
 
 **Engineering Notice for Wake Forest:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Wake County.

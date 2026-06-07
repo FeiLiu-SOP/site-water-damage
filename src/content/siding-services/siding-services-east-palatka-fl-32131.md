@@ -12,6 +12,7 @@ lng: -81.6000
 zipSample: ["32131"]
 zipCodes: ["32131"]
 localPaths: ["Putnam County / coords 29.6500, -81.6000", "Putnam County / primary ZIP 32131", "Putnam County / ZIP 32131 sector", "Putnam County / elevation 46 ft band"]
+zillowHomeValueUsd: 267428
 ---
 
 **Engineering Notice for East Palatka:** Vinyl Panels was validated under stress factor 1.05; target tolerance set near 138 mph. Grid anchor: Putnam County.

@@ -12,6 +12,7 @@ lng: -101.6900
 zipSample: ["79072"]
 zipCodes: ["79072"]
 localPaths: ["Hale County / ZIP 79072 sector", "Hale County / coords 34.2200, -101.6900", "Hale County / elevation 3363 ft band", "Hale County / primary ZIP 79072"]
+zillowHomeValueUsd: 116117
 ---
 
 **Engineering Notice for Seth Ward:** Cladding verification uses 134 mph routing baseline; lateral pressure note: 17.3 psf. Elevation: 3363 ft AMSL. Coordinates: 34.2200, -101.6900. Grid: Hale County.

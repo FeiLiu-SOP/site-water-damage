@@ -12,6 +12,7 @@ lng: -76.2600
 zipSample: ["17087"]
 zipCodes: ["17087"]
 localPaths: ["Lebanon County / elevation 499 ft band", "Lebanon County / coords 40.3600, -76.2600", "Lebanon County / ZIP 17087 sector", "Lebanon County / primary ZIP 17087"]
+zillowHomeValueUsd: 302113
 ---
 
 **Engineering Notice for Richland:** System optimized for 137 mg/L hard water scaling factors in Richland. Regional dispatch grid: Lebanon County.

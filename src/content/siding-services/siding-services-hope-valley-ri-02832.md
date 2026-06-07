@@ -12,6 +12,7 @@ lng: -71.7200
 zipSample: ["02832"]
 zipCodes: ["02832"]
 localPaths: ["Washington County / coords 41.5200, -71.7200", "Washington County / elevation 135 ft band", "Washington County / ZIP 02832 sector", "Washington County / primary ZIP 02832"]
+zillowHomeValueUsd: 492169
 ---
 
 **Engineering Notice for Hope Valley:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Coordinates: 41.5200, -71.7200. Grid: Washington County.

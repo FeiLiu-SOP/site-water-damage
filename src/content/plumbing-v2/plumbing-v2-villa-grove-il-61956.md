@@ -12,6 +12,7 @@ lng: -88.1600
 zipSample: ["61956"]
 zipCodes: ["61956"]
 localPaths: ["Douglas County / ZIP 61956 sector", "Douglas County / primary ZIP 61956", "Douglas County / coords 39.8600, -88.1600", "Douglas County / elevation 650 ft band"]
+zillowHomeValueUsd: 131967
 ---
 
 **Engineering Notice for Villa Grove:** System optimized for 174 mg/L hard water scaling factors in Villa Grove. Regional dispatch grid: Douglas County.

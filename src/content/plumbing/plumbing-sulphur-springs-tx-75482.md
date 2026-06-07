@@ -12,6 +12,7 @@ lng: -95.6100
 zipSample: ["75483", "75482"]
 zipCodes: ["75483", "75482"]
 localPaths: ["Hopkins County / coords 33.1400, -95.6100", "Hopkins County / elevation 522 ft band", "Hopkins County / ZIP 75483 sector", "Hopkins County / ZIP 75482 sector", "Hopkins County / primary ZIP 75482"]
+zillowHomeValueUsd: 243101
 ---
 
 **Engineering Notice for Sulphur Springs:** Structural loading calculated based on 522 ft terrain assessment. Regional dispatch grid: Hopkins County.

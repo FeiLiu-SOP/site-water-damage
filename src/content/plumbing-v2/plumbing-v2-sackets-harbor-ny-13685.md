@@ -12,6 +12,7 @@ lng: -76.1200
 zipSample: ["13685"]
 zipCodes: ["13685"]
 localPaths: ["Jefferson County / elevation 276 ft band", "Jefferson County / coords 43.9400, -76.1200", "Jefferson County / primary ZIP 13685", "Jefferson County / ZIP 13685 sector"]
+zillowHomeValueUsd: 285897
 ---
 
 **Engineering Notice for Sackets Harbor:** System optimized for 125 mg/L hard water scaling factors in Sackets Harbor. Regional dispatch grid: Jefferson County.

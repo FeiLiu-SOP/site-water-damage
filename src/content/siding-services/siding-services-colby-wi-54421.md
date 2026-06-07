@@ -12,6 +12,7 @@ lng: -90.3200
 zipSample: ["54421"]
 zipCodes: ["54421"]
 localPaths: ["Marathon County / elevation 1355 ft band", "Marathon County / primary ZIP 54421", "Marathon County / coords 44.9100, -90.3200", "Marathon County / ZIP 54421 sector"]
+zillowHomeValueUsd: 219278
 ---
 
 **Engineering Notice for Colby:** Cladding verification uses 105 mph routing baseline; lateral pressure note: 13.8 psf. Elevation: 1355 ft AMSL. Coordinates: 44.9100, -90.3200. Grid: Marathon County.

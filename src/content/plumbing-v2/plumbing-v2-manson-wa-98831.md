@@ -12,6 +12,7 @@ lng: -120.1600
 zipSample: ["98831"]
 zipCodes: ["98831"]
 localPaths: ["Chelan County / coords 47.8800, -120.1600", "Chelan County / ZIP 98831 sector", "Chelan County / primary ZIP 98831", "Chelan County / elevation 1086 ft band"]
+zillowHomeValueUsd: 743637
 ---
 
 **Engineering Notice for Manson:** System optimized for 152 mg/L hard water scaling factors in Manson. Regional dispatch grid: Chelan County.

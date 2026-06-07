@@ -12,6 +12,7 @@ lng: -89.2600
 zipSample: ["53576"]
 zipCodes: ["53576"]
 localPaths: ["Rock County / primary ZIP 53576", "Rock County / ZIP 53576 sector", "Rock County / elevation 889 ft band", "Rock County / coords 42.6300, -89.2600"]
+zillowHomeValueUsd: 305081
 ---
 
 **Engineering Notice for Orfordville:** System optimized for 132 mg/L hard water scaling factors in Orfordville. Regional dispatch grid: Rock County.

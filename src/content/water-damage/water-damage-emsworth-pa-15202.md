@@ -12,6 +12,7 @@ lng: -80.1000
 zipSample: ["15202"]
 zipCodes: ["15202"]
 localPaths: ["Allegheny County / primary ZIP 15202", "Allegheny County / coords 40.5100, -80.1000", "Allegheny County / ZIP 15202 sector", "Allegheny County / elevation 797 ft band"]
+zillowHomeValueUsd: 221009
 ---
 
 **Engineering Notice for Emsworth:** structural drying capacity optimized for 797ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allegheny County. Relative Humidity Threshold: 80%. Sensor sync: Active.

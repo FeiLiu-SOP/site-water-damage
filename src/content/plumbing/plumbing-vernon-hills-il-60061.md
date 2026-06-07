@@ -12,6 +12,7 @@ lng: -87.9600
 zipSample: ["60061"]
 zipCodes: ["60061"]
 localPaths: ["Lake County / ZIP 60061 sector", "Lake County / coords 42.2300, -87.9600", "Lake County / elevation 689 ft band", "Lake County / primary ZIP 60061"]
+zillowHomeValueUsd: 449142
 ---
 
 **Engineering Notice for Vernon Hills:** Structural loading calculated based on 689 ft terrain assessment. Regional dispatch grid: Lake County.

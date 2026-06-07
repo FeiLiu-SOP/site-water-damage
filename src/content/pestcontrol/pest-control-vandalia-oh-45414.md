@@ -11,6 +11,7 @@ lng: -84.1900
 zipSample: ["45377", "45414"]
 zipCodes: ["45414", "45377"]
 localPaths: ["Montgomery County / ZIP 45414 sector", "Montgomery County / coords 39.8800, -84.1900", "Montgomery County / ZIP 45377 sector", "Montgomery County / primary ZIP 45414", "Montgomery County / elevation 958 ft band"]
+zillowHomeValueUsd: 180264
 ---
 
 **Engineering Notice for Vandalia:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Montgomery County.

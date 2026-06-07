@@ -12,6 +12,7 @@ lng: -73.9200
 zipSample: ["10175", "11368", "11358", "11106", "10126"]
 zipCodes: ["10138", "11242", "10303", "10121", "11499", "11109", "11251", "10023", "10463", "11416", "10109", "11359"]
 localPaths: ["Queens County / elevation 66 ft band", "Queens County / ZIP 10126 sector", "Queens County / ZIP 11368 sector", "Queens County / ZIP 10175 sector", "Queens County / ZIP 11106 sector"]
+zillowHomeValueUsd: 767742
 ---
 
 **Engineering Notice for New York:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Queens County.

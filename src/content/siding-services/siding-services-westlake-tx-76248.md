@@ -12,6 +12,7 @@ lng: -97.2000
 zipSample: ["76262", "76248"]
 zipCodes: ["76248", "76262"]
 localPaths: ["Tarrant County / ZIP 76248 sector", "Tarrant County / coords 32.9800, -97.2000", "Tarrant County / primary ZIP 76248", "Tarrant County / ZIP 76262 sector", "Tarrant County / elevation 676 ft band"]
+zillowHomeValueUsd: 589589
 ---
 
 **Engineering Notice for Westlake:** Panel Replacement was validated under stress factor 0.81; target tolerance set near 143 mph. Grid anchor: Tarrant County.

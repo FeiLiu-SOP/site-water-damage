@@ -12,6 +12,8 @@ lng: -99.7400
 zipSample: ["58316"]
 zipCodes: ["58316"]
 localPaths: ["Rolette County / primary ZIP 58316", "Rolette County / coords 48.8400, -99.7400", "Rolette County / elevation 1965 ft band", "Rolette County / ZIP 58316 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 245651
 ---
 
 **Engineering Notice for Belcourt:** System optimized for 169 mg/L hard water scaling factors in Belcourt. Regional dispatch grid: Rolette County.

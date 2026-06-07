@@ -12,6 +12,7 @@ lng: -72.3700
 zipSample: ["11939", "11944"]
 zipCodes: ["11939", "11944"]
 localPaths: ["Suffolk County / coords 41.1000, -72.3700", "Suffolk County / elevation 16 ft band", "Suffolk County / ZIP 11939 sector", "Suffolk County / ZIP 11944 sector", "Suffolk County / primary ZIP 11939"]
+zillowHomeValueUsd: 1175685
 ---
 
 **Engineering Notice for Greenport West:** Structural integrity verification: Cladding Retrofit calibrated for 93 mph localized wind load factor. Elevation: 16 ft AMSL. Regional dispatch grid: Suffolk County.

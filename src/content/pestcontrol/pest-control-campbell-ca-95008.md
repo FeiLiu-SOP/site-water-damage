@@ -11,6 +11,7 @@ lng: -121.9500
 zipSample: ["95009", "95008", "95011"]
 zipCodes: ["95011", "95008", "95009"]
 localPaths: ["Santa Clara County / ZIP 95009 sector", "Santa Clara County / ZIP 95008 sector", "Santa Clara County / elevation 200 ft band", "Santa Clara County / coords 37.2800, -121.9500", "Santa Clara County / primary ZIP 95008"]
+zillowHomeValueUsd: 1942107
 ---
 
 **Engineering Notice for Campbell:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Santa Clara County.

@@ -12,6 +12,7 @@ lng: -102.9400
 zipSample: ["58852"]
 zipCodes: ["58852"]
 localPaths: ["Williams County / ZIP 58852 sector", "Williams County / primary ZIP 58852", "Williams County / coords 48.3900, -102.9400", "Williams County / elevation 2238 ft band"]
+zillowHomeValueUsd: 251621
 ---
 
 **Engineering Notice for Tioga:** System optimized for 132 mg/L hard water scaling factors in Tioga. Regional dispatch grid: Williams County.

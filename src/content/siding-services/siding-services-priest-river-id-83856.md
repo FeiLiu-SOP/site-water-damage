@@ -12,6 +12,7 @@ lng: -116.8800
 zipSample: ["83856"]
 zipCodes: ["83856"]
 localPaths: ["Bonner County / ZIP 83856 sector", "Bonner County / elevation 2060 ft band", "Bonner County / coords 48.1800, -116.8800", "Bonner County / primary ZIP 83856"]
+zillowHomeValueUsd: 554406
 ---
 
 **Engineering Notice for Priest River:** Cladding verification uses 105 mph routing baseline; lateral pressure note: 13.8 psf. Elevation: 2060 ft AMSL. Coordinates: 48.1800, -116.8800. Grid: Bonner County.

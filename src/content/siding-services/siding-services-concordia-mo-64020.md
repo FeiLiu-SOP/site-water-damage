@@ -12,6 +12,7 @@ lng: -93.5700
 zipSample: ["64020"]
 zipCodes: ["64020"]
 localPaths: ["Lafayette County / ZIP 64020 sector", "Lafayette County / primary ZIP 64020", "Lafayette County / coords 38.9900, -93.5700", "Lafayette County / elevation 787 ft band"]
+zillowHomeValueUsd: 233088
 ---
 
 **Engineering Notice for Concordia:** Site context locked to Lafayette County. Cladding Retrofit integrity verification recorded.

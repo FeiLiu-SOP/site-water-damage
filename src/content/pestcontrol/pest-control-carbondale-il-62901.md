@@ -11,6 +11,7 @@ lng: -89.2200
 zipSample: ["62901", "62902", "62903"]
 zipCodes: ["62902", "62903", "62901"]
 localPaths: ["Jackson County / ZIP 62902 sector", "Jackson County / ZIP 62903 sector", "Jackson County / elevation 446 ft band", "Jackson County / coords 37.7200, -89.2200", "Jackson County / primary ZIP 62901"]
+zillowHomeValueUsd: 119714
 ---
 
 **Engineering Notice for Carbondale:** Structural loading calculated based on 446 ft terrain assessment. Regional dispatch grid: Jackson County.

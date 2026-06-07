@@ -11,6 +11,7 @@ lng: -88.1400
 zipSample: ["60133"]
 zipCodes: ["60133"]
 localPaths: ["DuPage County / elevation 801 ft band", "DuPage County / ZIP 60133 sector", "DuPage County / coords 41.9800, -88.1400", "DuPage County / primary ZIP 60133"]
+zillowHomeValueUsd: 322904
 ---
 
 **Engineering Notice for Hanover Park:** Structural loading calculated based on 801 ft terrain assessment. Regional dispatch grid: DuPage County.

@@ -12,6 +12,7 @@ lng: -120.4500
 zipSample: ["95247"]
 zipCodes: ["95247"]
 localPaths: ["Calaveras County / primary ZIP 95247", "Calaveras County / coords 38.1400, -120.4500", "Calaveras County / elevation 2297 ft band", "Calaveras County / ZIP 95247 sector"]
+zillowHomeValueUsd: 496450
 ---
 
 **Engineering Notice for Murphys:** Cladding verification uses 146 mph routing baseline; lateral pressure note: 18.7 psf. Coordinates: 38.1400, -120.4500. Grid: Calaveras County.

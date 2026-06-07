@@ -12,6 +12,7 @@ lng: -118.4800
 zipSample: ["93205"]
 zipCodes: ["93205"]
 localPaths: ["Kern County / coords 35.5800, -118.4800", "Kern County / ZIP 93205 sector", "Kern County / primary ZIP 93205", "Kern County / elevation 3389 ft band"]
+zillowHomeValueUsd: 186257
 ---
 
 **Engineering Notice for Bodfish:** Cladding verification uses 147 mph routing baseline; lateral pressure note: 18.8 psf. Coordinates: 35.5800, -118.4800. Grid: Kern County.

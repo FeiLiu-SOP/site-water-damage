@@ -12,6 +12,7 @@ lng: -113.0100
 zipSample: ["84751"]
 zipCodes: ["84751"]
 localPaths: ["Beaver County / ZIP 84751 sector", "Beaver County / primary ZIP 84751", "Beaver County / elevation 4987 ft band", "Beaver County / coords 38.3900, -113.0100"]
+zillowHomeValueUsd: 214738
 ---
 
 **Engineering Notice for Milford:** System optimized for 121 mg/L hard water scaling factors in Milford. Regional dispatch grid: Beaver County.

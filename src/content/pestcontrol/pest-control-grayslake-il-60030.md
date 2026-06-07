@@ -11,6 +11,7 @@ lng: -88.0300
 zipSample: ["60030"]
 zipCodes: ["60030"]
 localPaths: ["Lake County / elevation 781 ft band", "Lake County / primary ZIP 60030", "Lake County / ZIP 60030 sector", "Lake County / coords 42.3400, -88.0300"]
+zillowHomeValueUsd: 346436
 ---
 
 **Engineering Notice for Grayslake:** Structural loading calculated based on 781 ft terrain assessment. Regional dispatch grid: Lake County.

@@ -12,6 +12,7 @@ lng: -76.9600
 zipSample: ["17011"]
 zipCodes: ["17011"]
 localPaths: ["Cumberland County / primary ZIP 17011", "Cumberland County / coords 40.2200, -76.9600", "Cumberland County / elevation 427 ft band", "Cumberland County / ZIP 17011 sector"]
+zillowHomeValueUsd: 326918
 ---
 
 **Engineering Notice for Shiremanstown:** structural drying capacity optimized for 427ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cumberland County. Relative Humidity Threshold: 77%. Sensor sync: Active.

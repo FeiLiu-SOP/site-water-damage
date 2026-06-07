@@ -12,6 +12,7 @@ lng: -122.4800
 zipSample: ["98601", "98675"]
 zipCodes: ["98601", "98675"]
 localPaths: ["Clark County / ZIP 98675 sector", "Clark County / coords 45.9100, -122.4800", "Clark County / elevation 787 ft band", "Clark County / ZIP 98601 sector", "Clark County / primary ZIP 98601"]
+zillowHomeValueUsd: 703398
 ---
 
 **Engineering Notice for Amboy:** Site context locked to Clark County. Coordinates: 45.9100, -122.4800. Exterior Envelope integrity verification recorded.

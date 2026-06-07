@@ -12,6 +12,7 @@ lng: -95.3400
 zipSample: ["74337"]
 zipCodes: ["74337"]
 localPaths: ["Mayes County / coords 36.1900, -95.3400", "Mayes County / primary ZIP 74337", "Mayes County / elevation 633 ft band", "Mayes County / ZIP 74337 sector"]
+zillowHomeValueUsd: 208451
 ---
 
 **Engineering Notice for Chouteau:** Envelope check: Cladding Retrofit assigned to wind-load band C with stress factor 0.74. Elevation: 633 ft AMSL. Regional dispatch grid: Mayes County.

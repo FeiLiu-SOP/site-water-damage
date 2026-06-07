@@ -12,6 +12,7 @@ lng: -95.0800
 zipSample: ["66092"]
 zipCodes: ["66092"]
 localPaths: ["Franklin County / ZIP 66092 sector", "Franklin County / elevation 1079 ft band", "Franklin County / coords 38.7200, -95.0800", "Franklin County / primary ZIP 66092"]
+zillowHomeValueUsd: 343715
 ---
 
 **Engineering Notice for Wellsville:** System optimized for 129 mg/L hard water scaling factors in Wellsville. Regional dispatch grid: Franklin County.

@@ -11,6 +11,7 @@ lng: -122.1700
 zipSample: ["94304", "94305", "94309"]
 zipCodes: ["94309", "94304", "94305"]
 localPaths: ["Santa Clara County / coords 37.4300, -122.1700", "Santa Clara County / ZIP 94304 sector", "Santa Clara County / elevation 115 ft band", "Santa Clara County / ZIP 94309 sector", "Santa Clara County / primary ZIP 94305"]
+zillowHomeValueUsd: 3346474
 ---
 
 **Engineering Notice for Stanford:** Structural loading calculated based on 115 ft terrain assessment. Regional dispatch grid: Santa Clara County.

@@ -12,6 +12,7 @@ lng: -76.1200
 zipSample: ["13685"]
 zipCodes: ["13685"]
 localPaths: ["Jefferson County / ZIP 13685 sector", "Jefferson County / primary ZIP 13685", "Jefferson County / coords 43.9400, -76.1200", "Jefferson County / elevation 276 ft band"]
+zillowHomeValueUsd: 285905
 ---
 
 **Engineering Notice for Sackets Harbor:** Envelope check: Exterior Cladding assigned to wind-load band A with stress factor 0.88. Elevation: 276 ft AMSL. Regional dispatch grid: Jefferson County.

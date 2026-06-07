@@ -12,6 +12,7 @@ lng: -95.5500
 zipSample: ["67335"]
 zipCodes: ["67335"]
 localPaths: ["Montgomery County / coords 37.2700, -95.5500", "Montgomery County / elevation 843 ft band", "Montgomery County / primary ZIP 67335", "Montgomery County / ZIP 67335 sector"]
+zillowHomeValueUsd: 107628
 ---
 
 **Engineering Notice for Cherryvale:** Envelope check: Panel Replacement assigned to wind-load band C with stress factor 1.04. Regional dispatch grid: Montgomery County.

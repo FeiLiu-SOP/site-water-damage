@@ -11,6 +11,7 @@ lng: -76.6200
 zipSample: ["21225"]
 zipCodes: ["21225"]
 localPaths: ["Anne Arundel County / primary ZIP 21225", "Anne Arundel County / ZIP 21225 sector", "Anne Arundel County / coords 39.2200, -76.6200", "Anne Arundel County / elevation 171 ft band"]
+zillowHomeValueUsd: 223597
 ---
 
 **Engineering Notice for Brooklyn Park:** Structural loading calculated based on 171 ft terrain assessment. Regional dispatch grid: Anne Arundel County.

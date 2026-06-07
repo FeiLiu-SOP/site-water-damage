@@ -11,6 +11,7 @@ lng: -118.1300
 zipSample: ["91003", "91001", "91104"]
 zipCodes: ["91001", "91104", "91003"]
 localPaths: ["Los Angeles County / ZIP 91001 sector", "Los Angeles County / ZIP 91003 sector", "Los Angeles County / primary ZIP 91104", "Los Angeles County / elevation 1430 ft band", "Los Angeles County / coords 34.1900, -118.1300"]
+zillowHomeValueUsd: 1226180
 ---
 
 **Engineering Notice for Altadena:** Structural loading calculated based on 1430 ft terrain assessment. Regional dispatch grid: Los Angeles County.

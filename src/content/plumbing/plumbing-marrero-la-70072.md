@@ -12,6 +12,7 @@ lng: -90.1100
 zipSample: ["70072"]
 zipCodes: ["70072"]
 localPaths: ["Jefferson Parish / elevation 16 ft band", "Jefferson Parish / primary ZIP 70072", "Jefferson Parish / ZIP 70072 sector", "Jefferson Parish / coords 29.8900, -90.1100"]
+zillowHomeValueUsd: 228794
 ---
 
 **Engineering Notice for Marrero:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Jefferson Parish.

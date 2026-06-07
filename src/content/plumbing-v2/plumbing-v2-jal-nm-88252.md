@@ -12,6 +12,7 @@ lng: -103.1900
 zipSample: ["88252"]
 zipCodes: ["88252"]
 localPaths: ["Lea County / primary ZIP 88252", "Lea County / elevation 3051 ft band", "Lea County / coords 32.1100, -103.1900", "Lea County / ZIP 88252 sector"]
+zillowHomeValueUsd: 136202
 ---
 
 **Engineering Notice for Jal:** System optimized for 178 mg/L hard water scaling factors in Jal. Regional dispatch grid: Lea County.

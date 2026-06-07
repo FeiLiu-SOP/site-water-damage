@@ -12,6 +12,7 @@ lng: -94.2100
 zipSample: ["55334"]
 zipCodes: ["55334"]
 localPaths: ["Sibley County / ZIP 55334 sector", "Sibley County / primary ZIP 55334", "Sibley County / coords 44.5600, -94.2100", "Sibley County / elevation 974 ft band"]
+zillowHomeValueUsd: 246600
 ---
 
 **Engineering Notice for Gaylord:** Site context locked to Sibley County. Coordinates: 44.5600, -94.2100. Exterior Cladding integrity verification recorded.

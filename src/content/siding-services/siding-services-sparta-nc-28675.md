@@ -12,6 +12,7 @@ lng: -81.1200
 zipSample: ["28675"]
 zipCodes: ["28675"]
 localPaths: ["Alleghany County / elevation 2861 ft band", "Alleghany County / ZIP 28675 sector", "Alleghany County / coords 36.5000, -81.1200", "Alleghany County / primary ZIP 28675"]
+zillowHomeValueUsd: 248360
 ---
 
 **Engineering Notice for Sparta:** Envelope check: Exterior Envelope assigned to wind-load band C with stress factor 1.20. Elevation: 2861 ft AMSL. Regional dispatch grid: Alleghany County.

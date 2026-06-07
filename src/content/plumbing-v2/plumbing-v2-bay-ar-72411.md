@@ -12,6 +12,7 @@ lng: -90.5500
 zipSample: ["72411"]
 zipCodes: ["72411"]
 localPaths: ["Craighead County / elevation 223 ft band", "Craighead County / primary ZIP 72411", "Craighead County / ZIP 72411 sector", "Craighead County / coords 35.7500, -90.5500"]
+zillowHomeValueUsd: 136109
 ---
 
 **Engineering Notice for Bay:** System optimized for 130 mg/L hard water scaling factors in Bay. Regional dispatch grid: Craighead County.

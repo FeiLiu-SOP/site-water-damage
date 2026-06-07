@@ -12,6 +12,7 @@ lng: -105.9400
 zipSample: ["87522"]
 zipCodes: ["87522"]
 localPaths: ["Santa Fe County / elevation 6066 ft band", "Santa Fe County / ZIP 87522 sector", "Santa Fe County / primary ZIP 87522", "Santa Fe County / coords 36.0000, -105.9400"]
+zillowHomeValueUsd: 328282
 ---
 
 **Engineering Notice for Chimayo:** structural drying capacity optimized for 6066ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Santa Fe County. Relative Humidity Threshold: 67%. Sensor sync: Active.

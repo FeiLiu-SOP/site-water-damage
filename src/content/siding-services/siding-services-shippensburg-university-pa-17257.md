@@ -12,6 +12,7 @@ lng: -77.5200
 zipSample: ["17257"]
 zipCodes: ["17257"]
 localPaths: ["Cumberland County / primary ZIP 17257", "Cumberland County / ZIP 17257 sector", "Cumberland County / coords 40.0600, -77.5200", "Cumberland County / elevation 650 ft band"]
+zillowHomeValueUsd: 302799
 ---
 
 **Engineering Notice for Shippensburg University:** Exterior Envelope was validated under stress factor 1.03; target tolerance set near 110 mph. Grid anchor: Cumberland County.

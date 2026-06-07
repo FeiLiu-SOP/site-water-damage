@@ -11,6 +11,7 @@ lng: -86.7800
 zipSample: ["37232", "37214", "37236", "37072", "37230"]
 zipCodes: ["37243", "37080", "37238", "37230", "37246", "37242", "37232", "37214", "37221", "37115", "37244", "37229"]
 localPaths: ["Davidson County / primary ZIP 37027", "Davidson County / coords 36.1700, -86.7800", "Davidson County / ZIP 37230 sector", "Davidson County / elevation 413 ft band", "Davidson County / ZIP 37236 sector"]
+zillowHomeValueUsd: 1222884
 ---
 
 **Engineering Notice for Nashville:** Structural loading calculated based on 413 ft terrain assessment. Regional dispatch grid: Davidson County.

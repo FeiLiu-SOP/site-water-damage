@@ -11,6 +11,7 @@ lng: -73.1100
 zipSample: ["11779", "11767"]
 zipCodes: ["11779", "11767"]
 localPaths: ["Suffolk County / coords 40.8300, -73.1100", "Suffolk County / ZIP 11767 sector", "Suffolk County / ZIP 11779 sector", "Suffolk County / elevation 89 ft band", "Suffolk County / primary ZIP 11767"]
+zillowHomeValueUsd: 758752
 ---
 
 **Engineering Notice for Lake Ronkonkoma:** Structural loading calculated based on 89 ft terrain assessment. Regional dispatch grid: Suffolk County.

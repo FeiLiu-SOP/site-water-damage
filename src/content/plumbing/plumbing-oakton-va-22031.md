@@ -12,6 +12,7 @@ lng: -77.3000
 zipSample: ["22031", "22181", "22124"]
 zipCodes: ["22181", "22031", "22124"]
 localPaths: ["Fairfax County / coords 38.8900, -77.3000", "Fairfax County / ZIP 22124 sector", "Fairfax County / primary ZIP 22031", "Fairfax County / elevation 394 ft band", "Fairfax County / ZIP 22031 sector"]
+zillowHomeValueUsd: 774787
 ---
 
 **Engineering Notice for Oakton:** Structural loading calculated based on 394 ft terrain assessment. Regional dispatch grid: Fairfax County.

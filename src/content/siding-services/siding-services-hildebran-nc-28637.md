@@ -12,6 +12,8 @@ lng: -81.4200
 zipSample: ["28637"]
 zipCodes: ["28637"]
 localPaths: ["Burke County / ZIP 28637 sector", "Burke County / primary ZIP 28637", "Burke County / coords 35.7200, -81.4200", "Burke County / elevation 1115 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 331557
 ---
 
 **Engineering Notice for Hildebran:** Structural integrity verification: Facade Renewal calibrated for 91 mph localized wind load factor. Elevation: 1115 ft AMSL. Regional dispatch grid: Burke County.

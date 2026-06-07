@@ -12,6 +12,7 @@ lng: -74.7200
 zipSample: ["07874"]
 zipCodes: ["07874"]
 localPaths: ["Sussex County / primary ZIP 07874", "Sussex County / elevation 712 ft band", "Sussex County / coords 40.9300, -74.7200", "Sussex County / ZIP 07874 sector"]
+zillowHomeValueUsd: 441396
 ---
 
 **Engineering Notice for Byram Center:** Site context locked to Sussex County. Coordinates: 40.9300, -74.7200. Surface Sheathing integrity verification recorded.

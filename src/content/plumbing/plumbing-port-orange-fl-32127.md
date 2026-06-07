@@ -12,6 +12,7 @@ lng: -81.0100
 zipSample: ["32128", "32123", "32122", "32129", "32127"]
 zipCodes: ["32122", "32127", "32123", "32129", "32128"]
 localPaths: ["Volusia County / primary ZIP 32127", "Volusia County / ZIP 32127 sector", "Volusia County / elevation 43 ft band", "Volusia County / coords 29.1100, -81.0100", "Volusia County / ZIP 32123 sector"]
+zillowHomeValueUsd: 351806
 ---
 
 **Engineering Notice for Port Orange:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Volusia County.

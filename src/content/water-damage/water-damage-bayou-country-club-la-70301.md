@@ -12,6 +12,7 @@ lng: -90.7900
 zipSample: ["70301"]
 zipCodes: ["70301"]
 localPaths: ["Lafourche Parish / ZIP 70301 sector", "Lafourche Parish / elevation 26 ft band", "Lafourche Parish / primary ZIP 70301", "Lafourche Parish / coords 29.7800, -90.7900"]
+zillowHomeValueUsd: 224556
 ---
 
 **Engineering Notice for Bayou Country Club:** structural drying capacity optimized for 26ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lafourche Parish. Relative Humidity Threshold: 67%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -116.4200
 zipSample: ["92284"]
 zipCodes: ["92284"]
 localPaths: ["San Bernardino County / elevation 3271 ft band", "San Bernardino County / primary ZIP 92284", "San Bernardino County / ZIP 92284 sector", "San Bernardino County / coords 34.1200, -116.4200"]
+zillowHomeValueUsd: 357244
 ---
 
 **Engineering Notice for Yucca Valley:** Structural loading calculated based on 3271 ft terrain assessment. Regional dispatch grid: San Bernardino County.

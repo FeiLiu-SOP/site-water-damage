@@ -12,6 +12,7 @@ lng: -98.3600
 zipSample: ["73728"]
 zipCodes: ["73728"]
 localPaths: ["Alfalfa County / ZIP 73728 sector", "Alfalfa County / primary ZIP 73728", "Alfalfa County / coords 36.7500, -98.3600", "Alfalfa County / elevation 1207 ft band"]
+zillowHomeValueUsd: 76347
 ---
 
 **Engineering Notice for Cherokee:** System optimized for 142 mg/L hard water scaling factors in Cherokee. Regional dispatch grid: Alfalfa County.

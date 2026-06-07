@@ -12,6 +12,7 @@ lng: -70.0600
 zipSample: ["02646", "02645"]
 zipCodes: ["02646", "02645"]
 localPaths: ["Barnstable County / elevation 20 ft band", "Barnstable County / coords 41.6700, -70.0600", "Barnstable County / ZIP 02645 sector", "Barnstable County / ZIP 02646 sector", "Barnstable County / primary ZIP 02645"]
+zillowHomeValueUsd: 751587
 ---
 
 **Engineering Notice for Harwich Port:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Coordinates: 41.6700, -70.0600. Grid: Barnstable County.

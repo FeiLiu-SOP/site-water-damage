@@ -12,6 +12,7 @@ lng: -90.7100
 zipSample: ["70361", "70360", "70363"]
 zipCodes: ["70361", "70360", "70363"]
 localPaths: ["Terrebonne Parish / ZIP 70360 sector", "Terrebonne Parish / primary ZIP 70363", "Terrebonne Parish / coords 29.5800, -90.7100", "Terrebonne Parish / elevation 49 ft band", "Terrebonne Parish / ZIP 70361 sector"]
+zillowHomeValueUsd: 125692
 ---
 
 **Engineering Notice for Houma:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Terrebonne Parish.

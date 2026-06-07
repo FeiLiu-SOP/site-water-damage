@@ -12,6 +12,7 @@ lng: -88.8900
 zipSample: ["62995"]
 zipCodes: ["62995"]
 localPaths: ["Johnson County / coords 37.4100, -88.8900", "Johnson County / primary ZIP 62995", "Johnson County / ZIP 62995 sector", "Johnson County / elevation 367 ft band"]
+zillowHomeValueUsd: 175939
 ---
 
 **Engineering Notice for Vienna:** Cladding verification uses 99 mph routing baseline; lateral pressure note: 13.1 psf. Elevation: 367 ft AMSL. Coordinates: 37.4100, -88.8900. Grid: Johnson County.

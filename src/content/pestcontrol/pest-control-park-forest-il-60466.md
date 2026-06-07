@@ -11,6 +11,7 @@ lng: -87.6900
 zipSample: ["60466"]
 zipCodes: ["60466"]
 localPaths: ["Cook County / elevation 725 ft band", "Cook County / ZIP 60466 sector", "Cook County / coords 41.4800, -87.6900", "Cook County / primary ZIP 60466"]
+zillowHomeValueUsd: 150014
 ---
 
 **Engineering Notice for Park Forest:** Structural loading calculated based on 725 ft terrain assessment. Regional dispatch grid: Cook County.

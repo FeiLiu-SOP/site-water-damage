@@ -12,6 +12,7 @@ lng: -118.1200
 zipSample: ["90712", "90714", "90713", "90715", "90711"]
 zipCodes: ["90712", "90711", "90713", "90714", "90715"]
 localPaths: ["Los Angeles County / elevation 69 ft band", "Los Angeles County / ZIP 90715 sector", "Los Angeles County / ZIP 90714 sector", "Los Angeles County / ZIP 90712 sector", "Los Angeles County / ZIP 90711 sector"]
+zillowHomeValueUsd: 822596
 ---
 
 **Engineering Notice for Lakewood:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Los Angeles County.

@@ -12,6 +12,7 @@ lng: -75.3800
 zipSample: ["13323"]
 zipCodes: ["13323"]
 localPaths: ["Oneida County / coords 43.0500, -75.3800", "Oneida County / primary ZIP 13323", "Oneida County / elevation 610 ft band", "Oneida County / ZIP 13323 sector"]
+zillowHomeValueUsd: 297032
 ---
 
 **Engineering Notice for Clinton:** System optimized for 164 mg/L hard water scaling factors in Clinton. Regional dispatch grid: Oneida County.

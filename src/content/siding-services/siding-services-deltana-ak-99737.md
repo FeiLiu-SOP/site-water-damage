@@ -12,6 +12,7 @@ lng: -145.2200
 zipSample: ["99731", "99737"]
 zipCodes: ["99737", "99731"]
 localPaths: ["Southeast Fairbanks County / coords 63.8700, -145.2200", "Southeast Fairbanks County / ZIP 99737 sector", "Southeast Fairbanks County / ZIP 99731 sector", "Southeast Fairbanks County / elevation 0 ft band", "Southeast Fairbanks County / primary ZIP 99737"]
+zillowHomeValueUsd: 313216
 ---
 
 **Engineering Notice for Deltana:** Envelope check: Weather Barrier Wrap assigned to wind-load band B with stress factor 0.73. Elevation: 0 ft AMSL. Regional dispatch grid: Southeast Fairbanks County.

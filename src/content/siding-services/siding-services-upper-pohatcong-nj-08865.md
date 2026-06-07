@@ -12,6 +12,7 @@ lng: -75.1600
 zipSample: ["08865"]
 zipCodes: ["08865"]
 localPaths: ["Warren County / coords 40.6800, -75.1600", "Warren County / ZIP 08865 sector", "Warren County / elevation 325 ft band", "Warren County / primary ZIP 08865"]
+zillowHomeValueUsd: 336593
 ---
 
 **Engineering Notice for Upper Pohatcong:** Cladding verification uses 95 mph routing baseline; lateral pressure note: 12.6 psf. Grid: Warren County.

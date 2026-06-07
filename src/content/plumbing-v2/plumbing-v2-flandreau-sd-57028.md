@@ -12,6 +12,7 @@ lng: -96.6000
 zipSample: ["57028"]
 zipCodes: ["57028"]
 localPaths: ["Moody County / coords 44.0500, -96.6000", "Moody County / ZIP 57028 sector", "Moody County / primary ZIP 57028", "Moody County / elevation 1562 ft band"]
+zillowHomeValueUsd: 222555
 ---
 
 **Engineering Notice for Flandreau:** System optimized for 175 mg/L hard water scaling factors in Flandreau. Regional dispatch grid: Moody County.

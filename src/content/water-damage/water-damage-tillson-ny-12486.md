@@ -12,6 +12,7 @@ lng: -74.0700
 zipSample: ["12486", "12561"]
 zipCodes: ["12561", "12486"]
 localPaths: ["Ulster County / primary ZIP 12486", "Ulster County / ZIP 12561 sector", "Ulster County / coords 41.8300, -74.0700", "Ulster County / ZIP 12486 sector", "Ulster County / elevation 246 ft band"]
+zillowHomeValueUsd: 405077
 ---
 
 **Engineering Notice for Tillson:** structural drying capacity optimized for 246ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ulster County. Relative Humidity Threshold: 82%. Sensor sync: Active.

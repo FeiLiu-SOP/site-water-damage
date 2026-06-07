@@ -11,6 +11,7 @@ lng: -80.3900
 zipSample: ["34983", "34985", "34984", "34952", "34986"]
 zipCodes: ["34983", "34953", "34984", "34987", "34985", "34952", "34986"]
 localPaths: ["St. Lucie County / ZIP 34983 sector", "St. Lucie County / ZIP 34985 sector", "St. Lucie County / ZIP 34952 sector", "St. Lucie County / coords 27.2800, -80.3900", "St. Lucie County / ZIP 34986 sector"]
+zillowHomeValueUsd: 374081
 ---
 
 **Engineering Notice for Port St. Lucie:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: St. Lucie County.

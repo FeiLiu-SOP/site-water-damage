@@ -12,6 +12,7 @@ lng: -82.2900
 zipSample: ["37601"]
 zipCodes: ["37601"]
 localPaths: ["Carter County / elevation 1617 ft band", "Carter County / primary ZIP 37601", "Carter County / ZIP 37601 sector", "Carter County / coords 36.3300, -82.2900"]
+zillowHomeValueUsd: 262988
 ---
 
 **Engineering Notice for Central:** System optimized for 175 mg/L hard water scaling factors in Central. Regional dispatch grid: Carter County.

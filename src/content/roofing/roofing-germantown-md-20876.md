@@ -11,6 +11,7 @@ lng: -77.2600
 zipSample: ["20876", "20874", "20875"]
 zipCodes: ["20876", "20874", "20875"]
 localPaths: ["Montgomery County / ZIP 20874 sector", "Montgomery County / elevation 492 ft band", "Montgomery County / coords 39.1800, -77.2600", "Montgomery County / primary ZIP 20876", "Montgomery County / ZIP 20876 sector"]
+zillowHomeValueUsd: 484247
 ---
 
 **Engineering Notice for Germantown:** Structural loading calculated based on 492 ft terrain assessment. Regional dispatch grid: Montgomery County.

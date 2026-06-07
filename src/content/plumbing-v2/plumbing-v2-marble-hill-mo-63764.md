@@ -12,6 +12,7 @@ lng: -89.9800
 zipSample: ["63764"]
 zipCodes: ["63764"]
 localPaths: ["Bollinger County / coords 37.3000, -89.9800", "Bollinger County / primary ZIP 63764", "Bollinger County / elevation 430 ft band", "Bollinger County / ZIP 63764 sector"]
+zillowHomeValueUsd: 186203
 ---
 
 **Engineering Notice for Marble Hill:** System optimized for 151 mg/L hard water scaling factors in Marble Hill. Regional dispatch grid: Bollinger County.

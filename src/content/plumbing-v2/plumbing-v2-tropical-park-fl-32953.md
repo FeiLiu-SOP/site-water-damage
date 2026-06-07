@@ -12,6 +12,7 @@ lng: -80.7100
 zipSample: ["32953"]
 zipCodes: ["32953"]
 localPaths: ["Brevard County / primary ZIP 32953", "Brevard County / elevation 16 ft band", "Brevard County / ZIP 32953 sector", "Brevard County / coords 28.3800, -80.7100"]
+zillowHomeValueUsd: 423335
 ---
 
 **Engineering Notice for Tropical Park:** System optimized for 146 mg/L hard water scaling factors in Tropical Park. Regional dispatch grid: Brevard County.

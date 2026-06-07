@@ -12,6 +12,7 @@ lng: -95.3000
 zipSample: ["77306"]
 zipCodes: ["77306"]
 localPaths: ["Montgomery County / primary ZIP 77306", "Montgomery County / elevation 210 ft band", "Montgomery County / coords 30.3200, -95.3000", "Montgomery County / ZIP 77306 sector"]
+zillowHomeValueUsd: 228619
 ---
 
 **Engineering Notice for Deerwood:** Site context locked to Montgomery County. Elevation: 210 ft AMSL. Coordinates: 30.3200, -95.3000. Exterior Envelope integrity verification recorded.

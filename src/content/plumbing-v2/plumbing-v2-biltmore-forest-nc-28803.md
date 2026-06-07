@@ -12,6 +12,7 @@ lng: -82.5400
 zipSample: ["28803"]
 zipCodes: ["28803"]
 localPaths: ["Buncombe County / primary ZIP 28803", "Buncombe County / elevation 2257 ft band", "Buncombe County / ZIP 28803 sector", "Buncombe County / coords 35.5300, -82.5400"]
+zillowHomeValueUsd: 451079
 ---
 
 **Engineering Notice for Biltmore Forest:** System optimized for 172 mg/L hard water scaling factors in Biltmore Forest. Regional dispatch grid: Buncombe County.

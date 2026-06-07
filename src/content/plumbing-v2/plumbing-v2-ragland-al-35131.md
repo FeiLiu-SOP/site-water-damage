@@ -12,6 +12,7 @@ lng: -86.1400
 zipSample: ["35131"]
 zipCodes: ["35131"]
 localPaths: ["St. Clair County / primary ZIP 35131", "St. Clair County / ZIP 35131 sector", "St. Clair County / coords 33.7500, -86.1400", "St. Clair County / elevation 499 ft band"]
+zillowHomeValueUsd: 168805
 ---
 
 **Engineering Notice for Ragland:** System optimized for 122 mg/L hard water scaling factors in Ragland. Regional dispatch grid: St. Clair County.

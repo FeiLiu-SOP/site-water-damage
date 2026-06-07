@@ -12,6 +12,7 @@ lng: -106.0100
 zipSample: ["87506"]
 zipCodes: ["87506"]
 localPaths: ["Santa Fe County / elevation 5886 ft band", "Santa Fe County / coords 35.9000, -106.0100", "Santa Fe County / ZIP 87506 sector", "Santa Fe County / primary ZIP 87506"]
+zillowHomeValueUsd: 1093178
 ---
 
 **Engineering Notice for Pojoaque:** Site context locked to Santa Fe County. Cladding Service integrity verification recorded.

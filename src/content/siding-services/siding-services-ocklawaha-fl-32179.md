@@ -12,6 +12,7 @@ lng: -81.9300
 zipSample: ["32179", "32183"]
 zipCodes: ["32179", "32183"]
 localPaths: ["Marion County / ZIP 32183 sector", "Marion County / primary ZIP 32179", "Marion County / ZIP 32179 sector", "Marion County / coords 29.0400, -81.9300", "Marion County / elevation 102 ft band"]
+zillowHomeValueUsd: 243952
 ---
 
 **Engineering Notice for Ocklawaha:** Structural integrity verification: Wall Restoration calibrated for 144 mph localized wind load factor. Regional dispatch grid: Marion County.

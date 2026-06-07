@@ -12,6 +12,7 @@ lng: -87.8900
 zipSample: ["60154"]
 zipCodes: ["60154"]
 localPaths: ["Cook County / elevation 656 ft band", "Cook County / primary ZIP 60154", "Cook County / ZIP 60154 sector", "Cook County / coords 41.8500, -87.8900"]
+zillowHomeValueUsd: 357128
 ---
 
 **Engineering Notice for Westchester:** Structural loading calculated based on 656 ft terrain assessment. Regional dispatch grid: Cook County.

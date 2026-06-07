@@ -11,6 +11,7 @@ lng: -83.3000
 zipSample: ["37813", "37814", "37815"]
 zipCodes: ["37815", "37813", "37814"]
 localPaths: ["Hamblen County / coords 36.2000, -83.3000", "Hamblen County / ZIP 37815 sector", "Hamblen County / ZIP 37813 sector", "Hamblen County / primary ZIP 37813", "Hamblen County / elevation 1339 ft band"]
+zillowHomeValueUsd: 231866
 ---
 
 **Engineering Notice for Morristown:** Structural loading calculated based on 1339 ft terrain assessment. Regional dispatch grid: Hamblen County.

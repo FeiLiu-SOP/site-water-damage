@@ -12,6 +12,7 @@ lng: -73.6000
 zipSample: ["11548", "11545"]
 zipCodes: ["11545", "11548"]
 localPaths: ["Nassau County / ZIP 11548 sector", "Nassau County / elevation 121 ft band", "Nassau County / ZIP 11545 sector", "Nassau County / coords 40.8300, -73.6000", "Nassau County / primary ZIP 11545"]
+zillowHomeValueUsd: 1543047
 ---
 
 **Engineering Notice for Old Brookville:** Weather Barrier Wrap was validated under stress factor 0.92; target tolerance set near 97 mph. Grid anchor: Nassau County.

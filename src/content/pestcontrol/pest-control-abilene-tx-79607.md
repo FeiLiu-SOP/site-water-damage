@@ -11,6 +11,7 @@ lng: -99.7400
 zipSample: ["79605", "79601", "79606", "79608", "79603"]
 zipCodes: ["79697", "79698", "79604", "79699", "79608", "79606", "79601", "79607", "79603", "79602", "79605"]
 localPaths: ["Taylor County / ZIP 79601 sector", "Taylor County / elevation 1732 ft band", "Taylor County / primary ZIP 79607", "Taylor County / ZIP 79606 sector", "Taylor County / ZIP 79608 sector"]
+zillowHomeValueUsd: 170710
 ---
 
 **Engineering Notice for Abilene:** Structural loading calculated based on 1732 ft terrain assessment. Regional dispatch grid: Taylor County.

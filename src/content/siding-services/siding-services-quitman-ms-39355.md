@@ -12,6 +12,7 @@ lng: -88.7200
 zipSample: ["39355"]
 zipCodes: ["39355"]
 localPaths: ["Clarke County / primary ZIP 39355", "Clarke County / coords 32.0400, -88.7200", "Clarke County / elevation 249 ft band", "Clarke County / ZIP 39355 sector"]
+zillowHomeValueUsd: 105503
 ---
 
 **Engineering Notice for Quitman:** Structural integrity verification: Exterior Envelope calibrated for 110 mph localized wind load factor. Coordinates: 32.0400, -88.7200. Regional dispatch grid: Clarke County.

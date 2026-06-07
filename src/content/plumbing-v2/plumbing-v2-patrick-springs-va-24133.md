@@ -12,6 +12,7 @@ lng: -80.2000
 zipSample: ["24133", "24171"]
 zipCodes: ["24171", "24133"]
 localPaths: ["Patrick County / ZIP 24133 sector", "Patrick County / primary ZIP 24133", "Patrick County / ZIP 24171 sector", "Patrick County / elevation 1240 ft band", "Patrick County / coords 36.6300, -80.2000"]
+zillowHomeValueUsd: 174528
 ---
 
 **Engineering Notice for Patrick Springs:** System optimized for 161 mg/L hard water scaling factors in Patrick Springs. Regional dispatch grid: Patrick County.

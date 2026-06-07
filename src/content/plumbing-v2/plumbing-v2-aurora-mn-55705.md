@@ -12,6 +12,7 @@ lng: -92.2400
 zipSample: ["55705"]
 zipCodes: ["55705"]
 localPaths: ["St. Louis County / ZIP 55705 sector", "St. Louis County / coords 47.5300, -92.2400", "St. Louis County / elevation 1490 ft band", "St. Louis County / primary ZIP 55705"]
+zillowHomeValueUsd: 153688
 ---
 
 **Engineering Notice for Aurora:** System optimized for 146 mg/L hard water scaling factors in Aurora. Regional dispatch grid: St. Louis County.

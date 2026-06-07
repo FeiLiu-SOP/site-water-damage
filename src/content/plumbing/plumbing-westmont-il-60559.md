@@ -12,6 +12,7 @@ lng: -87.9700
 zipSample: ["60559"]
 zipCodes: ["60559"]
 localPaths: ["DuPage County / primary ZIP 60559", "DuPage County / elevation 768 ft band", "DuPage County / coords 41.7900, -87.9700", "DuPage County / ZIP 60559 sector"]
+zillowHomeValueUsd: 398665
 ---
 
 **Engineering Notice for Westmont:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: DuPage County.

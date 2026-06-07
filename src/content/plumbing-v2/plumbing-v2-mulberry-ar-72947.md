@@ -12,6 +12,7 @@ lng: -94.0700
 zipSample: ["72947"]
 zipCodes: ["72947"]
 localPaths: ["Crawford County / elevation 417 ft band", "Crawford County / primary ZIP 72947", "Crawford County / coords 35.5100, -94.0700", "Crawford County / ZIP 72947 sector"]
+zillowHomeValueUsd: 179821
 ---
 
 **Engineering Notice for Mulberry:** System optimized for 175 mg/L hard water scaling factors in Mulberry. Regional dispatch grid: Crawford County.

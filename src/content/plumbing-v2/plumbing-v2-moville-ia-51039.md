@@ -12,6 +12,7 @@ lng: -96.0700
 zipSample: ["51039"]
 zipCodes: ["51039"]
 localPaths: ["Woodbury County / elevation 1181 ft band", "Woodbury County / ZIP 51039 sector", "Woodbury County / coords 42.4900, -96.0700", "Woodbury County / primary ZIP 51039"]
+zillowHomeValueUsd: 267950
 ---
 
 **Engineering Notice for Moville:** System optimized for 140 mg/L hard water scaling factors in Moville. Regional dispatch grid: Woodbury County.

@@ -12,6 +12,7 @@ lng: -73.5600
 zipSample: ["12901", "12962"]
 zipCodes: ["12962", "12901"]
 localPaths: ["Clinton County / coords 44.6900, -73.5600", "Clinton County / ZIP 12962 sector", "Clinton County / primary ZIP 12901", "Clinton County / ZIP 12901 sector", "Clinton County / elevation 335 ft band"]
+zillowHomeValueUsd: 243767
 ---
 
 **Engineering Notice for Morrisonville:** System optimized for 146 mg/L hard water scaling factors in Morrisonville. Regional dispatch grid: Clinton County.

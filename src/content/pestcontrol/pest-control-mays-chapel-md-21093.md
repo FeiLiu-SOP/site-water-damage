@@ -11,6 +11,7 @@ lng: -76.6500
 zipSample: ["21093"]
 zipCodes: ["21093"]
 localPaths: ["Baltimore County / primary ZIP 21093", "Baltimore County / elevation 499 ft band", "Baltimore County / coords 39.4300, -76.6500", "Baltimore County / ZIP 21093 sector"]
+zillowHomeValueUsd: 506362
 ---
 
 **Engineering Notice for Mays Chapel:** Structural loading calculated based on 499 ft terrain assessment. Regional dispatch grid: Baltimore County.

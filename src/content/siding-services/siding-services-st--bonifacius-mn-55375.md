@@ -12,6 +12,7 @@ lng: -93.7500
 zipSample: ["55375"]
 zipCodes: ["55375"]
 localPaths: ["Hennepin County / ZIP 55375 sector", "Hennepin County / coords 44.9100, -93.7500", "Hennepin County / elevation 965 ft band", "Hennepin County / primary ZIP 55375"]
+zillowHomeValueUsd: 451702
 ---
 
 **Engineering Notice for St. Bonifacius:** Envelope check: Weather Barrier Wrap assigned to wind-load band A with stress factor 0.99. Regional dispatch grid: Hennepin County.

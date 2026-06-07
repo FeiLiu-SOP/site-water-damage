@@ -11,6 +11,7 @@ lng: -74.1100
 zipSample: ["07450", "07451"]
 zipCodes: ["07451", "07450"]
 localPaths: ["Bergen County / ZIP 07450 sector", "Bergen County / elevation 102 ft band", "Bergen County / ZIP 07451 sector", "Bergen County / primary ZIP 07450", "Bergen County / coords 40.9800, -74.1100"]
+zillowHomeValueUsd: 1199721
 ---
 
 **Engineering Notice for Ridgewood:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Bergen County.

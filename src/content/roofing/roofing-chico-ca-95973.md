@@ -11,6 +11,7 @@ lng: -121.8200
 zipSample: ["95928", "95973", "95926", "95927", "95929"]
 zipCodes: ["95928", "95976", "95973", "95929", "95927", "95926"]
 localPaths: ["Butte County / ZIP 95926 sector", "Butte County / coords 39.7600, -121.8200", "Butte County / ZIP 95973 sector", "Butte County / ZIP 95928 sector", "Butte County / ZIP 95929 sector"]
+zillowHomeValueUsd: 502734
 ---
 
 **Engineering Notice for Chico:** Structural loading calculated based on 243 ft terrain assessment. Regional dispatch grid: Butte County.

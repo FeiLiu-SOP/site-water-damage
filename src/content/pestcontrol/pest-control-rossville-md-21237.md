@@ -11,6 +11,7 @@ lng: -76.4800
 zipSample: ["21236", "21237"]
 zipCodes: ["21236", "21237"]
 localPaths: ["Baltimore County / elevation 148 ft band", "Baltimore County / primary ZIP 21237", "Baltimore County / ZIP 21236 sector", "Baltimore County / coords 39.3600, -76.4800", "Baltimore County / ZIP 21237 sector"]
+zillowHomeValueUsd: 316097
 ---
 
 **Engineering Notice for Rossville:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Baltimore County.

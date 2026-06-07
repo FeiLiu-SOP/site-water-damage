@@ -12,6 +12,7 @@ lng: -93.9800
 zipSample: ["50063"]
 zipCodes: ["50063"]
 localPaths: ["Dallas County / primary ZIP 50063", "Dallas County / ZIP 50063 sector", "Dallas County / elevation 1063 ft band", "Dallas County / coords 41.6900, -93.9800"]
+zillowHomeValueUsd: 326184
 ---
 
 **Engineering Notice for Dallas Center:** Structural integrity verification: Cladding Service calibrated for 97 mph localized wind load factor. Regional dispatch grid: Dallas County.

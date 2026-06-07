@@ -12,6 +12,7 @@ lng: -119.0000
 zipSample: ["93307"]
 zipCodes: ["93307"]
 localPaths: ["Kern County / coords 35.3400, -119.0000", "Kern County / primary ZIP 93307", "Kern County / elevation 407 ft band", "Kern County / ZIP 93307 sector"]
+zillowHomeValueUsd: 318577
 ---
 
 **Engineering Notice for Casa Loma:** Structural integrity verification: Exterior Envelope calibrated for 144 mph localized wind load factor. Coordinates: 35.3400, -119.0000. Regional dispatch grid: Kern County.

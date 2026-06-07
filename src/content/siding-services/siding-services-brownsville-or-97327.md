@@ -12,6 +12,7 @@ lng: -122.9800
 zipSample: ["97327"]
 zipCodes: ["97327"]
 localPaths: ["Linn County / primary ZIP 97327", "Linn County / ZIP 97327 sector", "Linn County / elevation 344 ft band", "Linn County / coords 44.3900, -122.9800"]
+zillowHomeValueUsd: 443294
 ---
 
 **Engineering Notice for Brownsville:** Exterior Envelope was validated under stress factor 0.91; target tolerance set near 99 mph. Grid anchor: Linn County.

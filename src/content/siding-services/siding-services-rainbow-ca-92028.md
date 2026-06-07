@@ -12,6 +12,7 @@ lng: -117.1400
 zipSample: ["92028"]
 zipCodes: ["92028"]
 localPaths: ["San Diego County / elevation 1266 ft band", "San Diego County / ZIP 92028 sector", "San Diego County / coords 33.4100, -117.1400", "San Diego County / primary ZIP 92028"]
+zillowHomeValueUsd: 885158
 ---
 
 **Engineering Notice for Rainbow:** Cladding verification uses 130 mph routing baseline; lateral pressure note: 16.8 psf. Grid: San Diego County.

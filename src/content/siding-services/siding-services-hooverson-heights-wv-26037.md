@@ -12,6 +12,7 @@ lng: -80.5800
 zipSample: ["26037"]
 zipCodes: ["26037"]
 localPaths: ["Brooke County / ZIP 26037 sector", "Brooke County / coords 40.3200, -80.5800", "Brooke County / elevation 1020 ft band", "Brooke County / primary ZIP 26037"]
+zillowHomeValueUsd: 122744
 ---
 
 **Engineering Notice for Hooverson Heights:** Envelope check: Cladding Service assigned to wind-load band C with stress factor 0.76. Elevation: 1020 ft AMSL. Regional dispatch grid: Brooke County.

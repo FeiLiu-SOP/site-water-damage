@@ -12,6 +12,7 @@ lng: -76.0800
 zipSample: ["18617"]
 zipCodes: ["18617"]
 localPaths: ["Luzerne County / ZIP 18617 sector", "Luzerne County / elevation 1079 ft band", "Luzerne County / coords 41.1800, -76.0800", "Luzerne County / primary ZIP 18617"]
+zillowHomeValueUsd: 115634
 ---
 
 **Engineering Notice for Glen Lyon:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Coordinates: 41.1800, -76.0800. Grid: Luzerne County.

@@ -12,6 +12,7 @@ lng: -95.6200
 zipSample: ["56175"]
 zipCodes: ["56175"]
 localPaths: ["Lyon County / coords 44.2400, -95.6200", "Lyon County / primary ZIP 56175", "Lyon County / elevation 1378 ft band", "Lyon County / ZIP 56175 sector"]
+zillowHomeValueUsd: 160170
 ---
 
 **Engineering Notice for Tracy:** Site context locked to Lyon County. Elevation: 1378 ft AMSL. Coordinates: 44.2400, -95.6200. Exterior Envelope integrity verification recorded.

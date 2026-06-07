@@ -12,6 +12,7 @@ lng: -82.0600
 zipSample: ["45760"]
 zipCodes: ["45760"]
 localPaths: ["Meigs County / ZIP 45760 sector", "Meigs County / elevation 597 ft band", "Meigs County / primary ZIP 45760", "Meigs County / coords 38.9900, -82.0600"]
+zillowHomeValueUsd: 83889
 ---
 
 **Engineering Notice for Middleport:** Site context locked to Meigs County. Wall Restoration integrity verification recorded.

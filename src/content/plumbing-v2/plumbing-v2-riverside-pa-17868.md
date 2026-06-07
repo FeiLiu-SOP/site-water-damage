@@ -12,6 +12,8 @@ lng: -76.6500
 zipSample: ["17821", "17868"]
 zipCodes: ["17868", "17821"]
 localPaths: ["Northumberland County / coords 40.9500, -76.6500", "Northumberland County / primary ZIP 17868", "Northumberland County / ZIP 17868 sector", "Northumberland County / elevation 564 ft band", "Northumberland County / ZIP 17821 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 282942
 ---
 
 **Engineering Notice for Riverside:** System optimized for 159 mg/L hard water scaling factors in Riverside. Regional dispatch grid: Northumberland County.

@@ -12,6 +12,7 @@ lng: -84.5700
 zipSample: ["40340", "40356"]
 zipCodes: ["40356", "40340"]
 localPaths: ["Jessamine County / primary ZIP 40356", "Jessamine County / ZIP 40340 sector", "Jessamine County / coords 37.8900, -84.5700", "Jessamine County / elevation 994 ft band", "Jessamine County / ZIP 40356 sector"]
+zillowHomeValueUsd: 320101
 ---
 
 **Engineering Notice for Nicholasville:** Structural loading calculated based on 994 ft terrain assessment. Regional dispatch grid: Jessamine County.

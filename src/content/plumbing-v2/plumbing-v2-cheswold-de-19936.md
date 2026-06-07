@@ -12,6 +12,8 @@ lng: -75.5900
 zipSample: ["19901", "19904", "19936"]
 zipCodes: ["19936", "19904", "19901"]
 localPaths: ["Kent County / ZIP 19936 sector", "Kent County / elevation 49 ft band", "Kent County / ZIP 19901 sector", "Kent County / primary ZIP 19936", "Kent County / coords 39.2200, -75.5900"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 464881
 ---
 
 **Engineering Notice for Cheswold:** System optimized for 147 mg/L hard water scaling factors in Cheswold. Regional dispatch grid: Kent County.

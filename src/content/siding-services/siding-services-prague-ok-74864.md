@@ -12,6 +12,7 @@ lng: -96.7000
 zipSample: ["74864"]
 zipCodes: ["74864"]
 localPaths: ["Lincoln County / elevation 965 ft band", "Lincoln County / primary ZIP 74864", "Lincoln County / ZIP 74864 sector", "Lincoln County / coords 35.5000, -96.7000"]
+zillowHomeValueUsd: 195918
 ---
 
 **Engineering Notice for Prague:** Site context locked to Lincoln County. Elevation: 965 ft AMSL. Coordinates: 35.5000, -96.7000. Panel Replacement integrity verification recorded.

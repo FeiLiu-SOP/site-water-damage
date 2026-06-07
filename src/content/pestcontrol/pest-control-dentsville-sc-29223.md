@@ -11,6 +11,7 @@ lng: -80.9500
 zipSample: ["29223"]
 zipCodes: ["29223"]
 localPaths: ["Richland County / coords 34.0800, -80.9500", "Richland County / ZIP 29223 sector", "Richland County / primary ZIP 29223", "Richland County / elevation 262 ft band"]
+zillowHomeValueUsd: 221572
 ---
 
 **Engineering Notice for Dentsville:** Structural loading calculated based on 262 ft terrain assessment. Regional dispatch grid: Richland County.

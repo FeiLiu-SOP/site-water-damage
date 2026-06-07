@@ -12,6 +12,7 @@ lng: -98.2700
 zipSample: ["73741"]
 zipCodes: ["73741"]
 localPaths: ["Alfalfa County / ZIP 73741 sector", "Alfalfa County / elevation 1424 ft band", "Alfalfa County / coords 36.5500, -98.2700", "Alfalfa County / primary ZIP 73741"]
+zillowHomeValueUsd: 105888
 ---
 
 **Engineering Notice for Helena:** System optimized for 154 mg/L hard water scaling factors in Helena. Regional dispatch grid: Alfalfa County.

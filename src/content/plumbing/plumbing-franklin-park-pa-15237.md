@@ -12,6 +12,7 @@ lng: -80.1000
 zipSample: ["15090", "15237", "15143"]
 zipCodes: ["15237", "15090", "15143"]
 localPaths: ["Allegheny County / elevation 1257 ft band", "Allegheny County / ZIP 15237 sector", "Allegheny County / coords 40.5900, -80.1000", "Allegheny County / primary ZIP 15237", "Allegheny County / ZIP 15090 sector"]
+zillowHomeValueUsd: 356660
 ---
 
 **Engineering Notice for Franklin Park:** Structural loading calculated based on 1257 ft terrain assessment. Regional dispatch grid: Allegheny County.

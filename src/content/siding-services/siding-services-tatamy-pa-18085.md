@@ -12,6 +12,7 @@ lng: -75.2600
 zipSample: ["18085", "18045"]
 zipCodes: ["18045", "18085"]
 localPaths: ["Northampton County / elevation 394 ft band", "Northampton County / primary ZIP 18085", "Northampton County / ZIP 18045 sector", "Northampton County / coords 40.7400, -75.2600", "Northampton County / ZIP 18085 sector"]
+zillowHomeValueUsd: 358524
 ---
 
 **Engineering Notice for Tatamy:** Envelope check: Surface Sheathing assigned to wind-load band B with stress factor 1.10. Regional dispatch grid: Northampton County.

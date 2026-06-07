@@ -12,6 +12,7 @@ lng: -84.3900
 zipSample: ["45242", "45236"]
 zipCodes: ["45236", "45242"]
 localPaths: ["Hamilton County / coords 39.2200, -84.3900", "Hamilton County / primary ZIP 45242", "Hamilton County / ZIP 45236 sector", "Hamilton County / ZIP 45242 sector", "Hamilton County / elevation 837 ft band"]
+zillowHomeValueUsd: 548136
 ---
 
 **Engineering Notice for Rossmoyne:** Panel Replacement was validated under stress factor 0.95; target tolerance set near 103 mph. Coordinates: 39.2200, -84.3900. Grid anchor: Hamilton County.

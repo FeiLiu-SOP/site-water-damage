@@ -12,6 +12,7 @@ lng: -72.3800
 zipSample: ["06029"]
 zipCodes: ["06029"]
 localPaths: ["Capitol County / elevation 673 ft band", "Capitol County / coords 41.9300, -72.3800", "Capitol County / primary ZIP 06029", "Capitol County / ZIP 06029 sector"]
+zillowHomeValueUsd: 430787
 ---
 
 **Engineering Notice for Crystal Lake:** System optimized for 148 mg/L hard water scaling factors in Crystal Lake. Regional dispatch grid: Capitol County.

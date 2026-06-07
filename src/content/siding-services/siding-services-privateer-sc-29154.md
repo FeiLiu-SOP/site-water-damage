@@ -12,6 +12,7 @@ lng: -80.3900
 zipSample: ["29154"]
 zipCodes: ["29154"]
 localPaths: ["Sumter County / ZIP 29154 sector", "Sumter County / elevation 174 ft band", "Sumter County / primary ZIP 29154", "Sumter County / coords 33.8200, -80.3900"]
+zillowHomeValueUsd: 235591
 ---
 
 **Engineering Notice for Privateer:** Panel Replacement was validated under stress factor 0.99; target tolerance set near 96 mph. Grid anchor: Sumter County.

@@ -12,6 +12,7 @@ lng: -116.9400
 zipSample: ["83660"]
 zipCodes: ["83660"]
 localPaths: ["Canyon County / coords 43.7900, -116.9400", "Canyon County / primary ZIP 83660", "Canyon County / ZIP 83660 sector", "Canyon County / elevation 2241 ft band"]
+zillowHomeValueUsd: 508394
 ---
 
 **Engineering Notice for Parma:** Envelope check: Wall Restoration assigned to wind-load band A with stress factor 0.82. Elevation: 2241 ft AMSL. Regional dispatch grid: Canyon County.

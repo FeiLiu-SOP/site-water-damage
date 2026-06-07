@@ -12,6 +12,8 @@ lng: -97.3900
 zipSample: ["58204", "58205"]
 zipCodes: ["58205", "58204"]
 localPaths: ["Grand Forks County / primary ZIP 58205", "Grand Forks County / ZIP 58204 sector", "Grand Forks County / ZIP 58205 sector", "Grand Forks County / coords 47.9600, -97.3900", "Grand Forks County / elevation 896 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 252987
 ---
 
 **Engineering Notice for Grand Forks AFB:** Structural integrity verification: Exterior Envelope calibrated for 99 mph localized wind load factor. Coordinates: 47.9600, -97.3900. Regional dispatch grid: Grand Forks County.

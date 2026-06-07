@@ -12,6 +12,7 @@ lng: -122.5000
 zipSample: ["95476"]
 zipCodes: ["95476"]
 localPaths: ["Sonoma County / coords 38.2600, -122.5000", "Sonoma County / elevation 121 ft band", "Sonoma County / primary ZIP 95476", "Sonoma County / ZIP 95476 sector"]
+zillowHomeValueUsd: 954495
 ---
 
 **Engineering Notice for Temelec:** System optimized for 171 mg/L hard water scaling factors in Temelec. Regional dispatch grid: Sonoma County.

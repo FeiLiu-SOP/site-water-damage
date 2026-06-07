@@ -11,6 +11,7 @@ lng: -122.9200
 zipSample: ["98512", "98501", "98511"]
 zipCodes: ["98501", "98512", "98511"]
 localPaths: ["Thurston County / coords 46.9900, -122.9200", "Thurston County / elevation 190 ft band", "Thurston County / ZIP 98501 sector", "Thurston County / primary ZIP 98501", "Thurston County / ZIP 98512 sector"]
+zillowHomeValueUsd: 549731
 ---
 
 **Engineering Notice for Tumwater:** Structural loading calculated based on 190 ft terrain assessment. Regional dispatch grid: Thurston County.

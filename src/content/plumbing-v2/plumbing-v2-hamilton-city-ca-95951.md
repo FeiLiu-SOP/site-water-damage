@@ -12,6 +12,7 @@ lng: -122.0100
 zipSample: ["95951"]
 zipCodes: ["95951"]
 localPaths: ["Glenn County / primary ZIP 95951", "Glenn County / ZIP 95951 sector", "Glenn County / coords 39.7400, -122.0100", "Glenn County / elevation 151 ft band"]
+zillowHomeValueUsd: 306898
 ---
 
 **Engineering Notice for Hamilton City:** System optimized for 140 mg/L hard water scaling factors in Hamilton City. Regional dispatch grid: Glenn County.

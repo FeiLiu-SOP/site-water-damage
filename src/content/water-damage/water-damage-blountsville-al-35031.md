@@ -12,6 +12,7 @@ lng: -86.5900
 zipSample: ["35031"]
 zipCodes: ["35031"]
 localPaths: ["Blount County / coords 34.0800, -86.5900", "Blount County / elevation 768 ft band", "Blount County / primary ZIP 35031", "Blount County / ZIP 35031 sector"]
+zillowHomeValueUsd: 201144
 ---
 
 **Engineering Notice for Blountsville:** structural drying capacity optimized for 768ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Blount County. Relative Humidity Threshold: 65%. Sensor sync: Active.

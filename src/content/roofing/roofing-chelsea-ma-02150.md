@@ -11,6 +11,7 @@ lng: -71.0300
 zipSample: ["02204", "02150"]
 zipCodes: ["02150", "02204"]
 localPaths: ["Suffolk County / ZIP 02204 sector", "Suffolk County / coords 42.4000, -71.0300", "Suffolk County / ZIP 02150 sector", "Suffolk County / primary ZIP 02150", "Suffolk County / elevation 39 ft band"]
+zillowHomeValueUsd: 525556
 ---
 
 **Engineering Notice for Chelsea:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Suffolk County.

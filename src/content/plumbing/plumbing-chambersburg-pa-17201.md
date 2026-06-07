@@ -12,6 +12,7 @@ lng: -77.6600
 zipSample: ["17201"]
 zipCodes: ["17201"]
 localPaths: ["Franklin County / ZIP 17201 sector", "Franklin County / coords 39.9300, -77.6600", "Franklin County / primary ZIP 17201", "Franklin County / elevation 633 ft band"]
+zillowHomeValueUsd: 252507
 ---
 
 **Engineering Notice for Chambersburg:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Franklin County.

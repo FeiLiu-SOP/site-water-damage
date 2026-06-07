@@ -12,6 +12,7 @@ lng: -90.0300
 zipSample: ["70056"]
 zipCodes: ["70056"]
 localPaths: ["Jefferson Parish / primary ZIP 70056", "Jefferson Parish / elevation 7 ft band", "Jefferson Parish / ZIP 70056 sector", "Jefferson Parish / coords 29.9000, -90.0300"]
+zillowHomeValueUsd: 250971
 ---
 
 **Engineering Notice for Terrytown:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Jefferson Parish.

@@ -12,6 +12,7 @@ lng: -75.2000
 zipSample: ["18917"]
 zipCodes: ["18917"]
 localPaths: ["Bucks County / elevation 541 ft band", "Bucks County / primary ZIP 18917", "Bucks County / coords 40.3700, -75.2000", "Bucks County / ZIP 18917 sector"]
+zillowHomeValueUsd: 472155
 ---
 
 **Engineering Notice for Dublin:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Elevation: 541 ft AMSL. Grid: Bucks County.

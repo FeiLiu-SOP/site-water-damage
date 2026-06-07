@@ -12,6 +12,7 @@ lng: -100.8400
 zipSample: ["67748"]
 zipCodes: ["67748"]
 localPaths: ["Logan County / elevation 3068 ft band", "Logan County / primary ZIP 67748", "Logan County / ZIP 67748 sector", "Logan County / coords 39.1200, -100.8400"]
+zillowHomeValueUsd: 165867
 ---
 
 **Engineering Notice for Oakley:** System optimized for 178 mg/L hard water scaling factors in Oakley. Regional dispatch grid: Logan County.

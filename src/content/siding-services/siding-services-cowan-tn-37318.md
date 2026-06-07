@@ -12,6 +12,7 @@ lng: -86.0100
 zipSample: ["37318"]
 zipCodes: ["37318"]
 localPaths: ["Franklin County / coords 35.1600, -86.0100", "Franklin County / primary ZIP 37318", "Franklin County / ZIP 37318 sector", "Franklin County / elevation 981 ft band"]
+zillowHomeValueUsd: 186871
 ---
 
 **Engineering Notice for Cowan:** Structural integrity verification: Vinyl Panels calibrated for 101 mph localized wind load factor. Coordinates: 35.1600, -86.0100. Regional dispatch grid: Franklin County.

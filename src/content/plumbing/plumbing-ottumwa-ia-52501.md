@@ -12,6 +12,7 @@ lng: -92.4200
 zipSample: ["52501"]
 zipCodes: ["52501"]
 localPaths: ["Wapello County / ZIP 52501 sector", "Wapello County / elevation 636 ft band", "Wapello County / primary ZIP 52501", "Wapello County / coords 41.0200, -92.4200"]
+zillowHomeValueUsd: 121535
 ---
 
 **Engineering Notice for Ottumwa:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Wapello County.

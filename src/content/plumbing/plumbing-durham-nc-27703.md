@@ -12,6 +12,7 @@ lng: -78.9000
 zipSample: ["27710", "27707", "27701", "27715", "27712"]
 zipCodes: ["27715", "27722", "27701", "27708", "27717", "27705", "27710", "27706", "27704", "27707", "27703", "27712"]
 localPaths: ["Durham County / elevation 374 ft band", "Durham County / ZIP 27701 sector", "Durham County / coords 35.9800, -78.9000", "Durham County / ZIP 27715 sector", "Durham County / ZIP 27710 sector"]
+zillowHomeValueUsd: 388833
 ---
 
 **Engineering Notice for Durham:** Structural loading calculated based on 374 ft terrain assessment. Regional dispatch grid: Durham County.

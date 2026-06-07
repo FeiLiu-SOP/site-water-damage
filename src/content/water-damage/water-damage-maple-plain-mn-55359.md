@@ -12,6 +12,7 @@ lng: -93.6600
 zipSample: ["55359"]
 zipCodes: ["55359"]
 localPaths: ["Hennepin County / coords 45.0100, -93.6600", "Hennepin County / ZIP 55359 sector", "Hennepin County / elevation 1020 ft band", "Hennepin County / primary ZIP 55359"]
+zillowHomeValueUsd: 603618
 ---
 
 **Engineering Notice for Maple Plain:** structural drying capacity optimized for 1020ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hennepin County. Relative Humidity Threshold: 83%. Sensor sync: Active.

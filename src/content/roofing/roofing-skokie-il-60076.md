@@ -11,6 +11,7 @@ lng: -87.7400
 zipSample: ["60203", "60076", "60077"]
 zipCodes: ["60076", "60077", "60203"]
 localPaths: ["Cook County / ZIP 60076 sector", "Cook County / elevation 617 ft band", "Cook County / ZIP 60077 sector", "Cook County / primary ZIP 60076", "Cook County / ZIP 60203 sector"]
+zillowHomeValueUsd: 443349
 ---
 
 **Engineering Notice for Skokie:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: Cook County.

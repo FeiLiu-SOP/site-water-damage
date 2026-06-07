@@ -11,6 +11,7 @@ lng: -123.0200
 zipSample: ["97317", "97311", "97301", "97304", "97312"]
 zipCodes: ["97304", "97302", "97317", "97314", "97301", "97312", "97306", "97310", "97311", "97309"]
 localPaths: ["Marion County / coords 44.9200, -123.0200", "Marion County / ZIP 97317 sector", "Marion County / ZIP 97311 sector", "Marion County / elevation 180 ft band", "Marion County / ZIP 97301 sector"]
+zillowHomeValueUsd: 463322
 ---
 
 **Engineering Notice for Salem:** Structural loading calculated based on 180 ft terrain assessment. Regional dispatch grid: Marion County.

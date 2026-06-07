@@ -12,6 +12,7 @@ lng: -74.0700
 zipSample: ["12486", "12561"]
 zipCodes: ["12486", "12561"]
 localPaths: ["Ulster County / coords 41.8300, -74.0700", "Ulster County / ZIP 12561 sector", "Ulster County / primary ZIP 12486", "Ulster County / elevation 246 ft band", "Ulster County / ZIP 12486 sector"]
+zillowHomeValueUsd: 405075
 ---
 
 **Engineering Notice for Tillson:** System optimized for 136 mg/L hard water scaling factors in Tillson. Regional dispatch grid: Ulster County.

@@ -12,6 +12,7 @@ lng: -71.7200
 zipSample: ["02832"]
 zipCodes: ["02832"]
 localPaths: ["Washington County / elevation 135 ft band", "Washington County / primary ZIP 02832", "Washington County / coords 41.5200, -71.7200", "Washington County / ZIP 02832 sector"]
+zillowHomeValueUsd: 492170
 ---
 
 **Engineering Notice for Hope Valley:** structural drying capacity optimized for 135ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 72%. Sensor sync: Active.

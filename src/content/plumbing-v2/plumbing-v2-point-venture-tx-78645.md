@@ -12,6 +12,7 @@ lng: -98.0000
 zipSample: ["78645"]
 zipCodes: ["78645"]
 localPaths: ["Travis County / primary ZIP 78645", "Travis County / coords 30.3800, -98.0000", "Travis County / elevation 810 ft band", "Travis County / ZIP 78645 sector"]
+zillowHomeValueUsd: 422863
 ---
 
 **Engineering Notice for Point Venture:** System optimized for 157 mg/L hard water scaling factors in Point Venture. Regional dispatch grid: Travis County.

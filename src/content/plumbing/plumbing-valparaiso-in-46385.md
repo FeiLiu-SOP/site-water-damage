@@ -12,6 +12,7 @@ lng: -87.0500
 zipSample: ["46385", "46383", "46384"]
 zipCodes: ["46384", "46383", "46385"]
 localPaths: ["Porter County / primary ZIP 46385", "Porter County / elevation 810 ft band", "Porter County / ZIP 46385 sector", "Porter County / ZIP 46384 sector", "Porter County / ZIP 46383 sector"]
+zillowHomeValueUsd: 368951
 ---
 
 **Engineering Notice for Valparaiso:** Structural loading calculated based on 810 ft terrain assessment. Regional dispatch grid: Porter County.

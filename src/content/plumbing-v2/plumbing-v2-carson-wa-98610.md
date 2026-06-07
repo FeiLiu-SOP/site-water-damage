@@ -12,6 +12,7 @@ lng: -121.8200
 zipSample: ["98610"]
 zipCodes: ["98610"]
 localPaths: ["Skamania County / coords 45.7400, -121.8200", "Skamania County / elevation 518 ft band", "Skamania County / primary ZIP 98610", "Skamania County / ZIP 98610 sector"]
+zillowHomeValueUsd: 453375
 ---
 
 **Engineering Notice for Carson:** System optimized for 125 mg/L hard water scaling factors in Carson. Regional dispatch grid: Skamania County.

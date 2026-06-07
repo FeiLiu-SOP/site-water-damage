@@ -11,6 +11,7 @@ lng: -122.4400
 zipSample: ["94124", "94123", "94102", "94103", "94114"]
 zipCodes: ["94147", "94141", "94121", "94118", "94125", "94108", "94107", "94119", "94131", "94132", "94161", "94139"]
 localPaths: ["San Francisco County / ZIP 94124 sector", "San Francisco County / elevation 653 ft band", "San Francisco County / ZIP 94102 sector", "San Francisco County / ZIP 94103 sector", "San Francisco County / coords 37.7600, -122.4400"]
+zillowHomeValueUsd: 1130456
 ---
 
 **Engineering Notice for San Francisco:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: San Francisco County.

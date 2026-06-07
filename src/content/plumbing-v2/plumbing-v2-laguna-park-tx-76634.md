@@ -12,6 +12,7 @@ lng: -97.3900
 zipSample: ["76634", "76644"]
 zipCodes: ["76644", "76634"]
 localPaths: ["Bosque County / elevation 528 ft band", "Bosque County / primary ZIP 76634", "Bosque County / ZIP 76644 sector", "Bosque County / coords 31.8600, -97.3900", "Bosque County / ZIP 76634 sector"]
+zillowHomeValueUsd: 224659
 ---
 
 **Engineering Notice for Laguna Park:** System optimized for 138 mg/L hard water scaling factors in Laguna Park. Regional dispatch grid: Bosque County.

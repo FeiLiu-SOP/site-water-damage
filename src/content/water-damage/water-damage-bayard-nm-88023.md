@@ -12,6 +12,7 @@ lng: -108.1300
 zipSample: ["88023"]
 zipCodes: ["88023"]
 localPaths: ["Grant County / coords 32.7600, -108.1300", "Grant County / primary ZIP 88023", "Grant County / ZIP 88023 sector", "Grant County / elevation 5810 ft band"]
+zillowHomeValueUsd: 108531
 ---
 
 **Engineering Notice for Bayard:** structural drying capacity optimized for 5810ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grant County. Relative Humidity Threshold: 73%. Sensor sync: Active.

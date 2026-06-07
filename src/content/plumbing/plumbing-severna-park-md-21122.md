@@ -12,6 +12,7 @@ lng: -76.5700
 zipSample: ["21123", "21146", "21122", "21108"]
 zipCodes: ["21122", "21146", "21123", "21108"]
 localPaths: ["Anne Arundel County / ZIP 21108 sector", "Anne Arundel County / primary ZIP 21122", "Anne Arundel County / ZIP 21122 sector", "Anne Arundel County / ZIP 21146 sector", "Anne Arundel County / coords 39.0900, -76.5700"]
+zillowHomeValueUsd: 454634
 ---
 
 **Engineering Notice for Severna Park:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Anne Arundel County.

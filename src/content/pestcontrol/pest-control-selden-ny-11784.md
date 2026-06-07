@@ -11,6 +11,7 @@ lng: -73.0500
 zipSample: ["11784"]
 zipCodes: ["11784"]
 localPaths: ["Suffolk County / elevation 121 ft band", "Suffolk County / primary ZIP 11784", "Suffolk County / ZIP 11784 sector", "Suffolk County / coords 40.8700, -73.0500"]
+zillowHomeValueUsd: 585558
 ---
 
 **Engineering Notice for Selden:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Suffolk County.

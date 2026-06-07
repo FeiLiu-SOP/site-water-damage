@@ -12,6 +12,7 @@ lng: -73.3600
 zipSample: ["11704"]
 zipCodes: ["11704"]
 localPaths: ["Suffolk County / primary ZIP 11704", "Suffolk County / elevation 39 ft band", "Suffolk County / ZIP 11704 sector", "Suffolk County / coords 40.7100, -73.3600"]
+zillowHomeValueUsd: 614820
 ---
 
 **Engineering Notice for West Babylon:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Suffolk County.

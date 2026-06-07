@@ -12,6 +12,7 @@ lng: -87.7900
 zipSample: ["36748"]
 zipCodes: ["36748"]
 localPaths: ["Marengo County / primary ZIP 36748", "Marengo County / coords 32.3000, -87.7900", "Marengo County / elevation 154 ft band", "Marengo County / ZIP 36748 sector"]
+zillowHomeValueUsd: 109819
 ---
 
 **Engineering Notice for Linden:** Envelope check: Panel Replacement assigned to wind-load band B with stress factor 0.97. Regional dispatch grid: Marengo County.

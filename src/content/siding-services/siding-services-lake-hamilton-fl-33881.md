@@ -12,6 +12,7 @@ lng: -81.6300
 zipSample: ["33851", "33881", "33844", "33838"]
 zipCodes: ["33881", "33838", "33844", "33851"]
 localPaths: ["Polk County / ZIP 33844 sector", "Polk County / coords 28.0500, -81.6300", "Polk County / elevation 144 ft band", "Polk County / ZIP 33851 sector", "Polk County / ZIP 33838 sector"]
+zillowHomeValueUsd: 264772
 ---
 
 **Engineering Notice for Lake Hamilton:** Cladding verification uses 133 mph routing baseline; lateral pressure note: 17.2 psf. Grid: Polk County.

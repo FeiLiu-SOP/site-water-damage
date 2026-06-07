@@ -12,6 +12,7 @@ lng: -79.5600
 zipSample: ["15613"]
 zipCodes: ["15613"]
 localPaths: ["Armstrong County / elevation 853 ft band", "Armstrong County / ZIP 15613 sector", "Armstrong County / primary ZIP 15613", "Armstrong County / coords 40.5800, -79.5600"]
+zillowHomeValueUsd: 188689
 ---
 
 **Engineering Notice for Apollo:** Envelope check: Weather Barrier Wrap assigned to wind-load band B with stress factor 1.10. Regional dispatch grid: Armstrong County.

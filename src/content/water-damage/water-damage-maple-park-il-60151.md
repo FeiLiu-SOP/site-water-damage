@@ -12,6 +12,7 @@ lng: -88.6100
 zipSample: ["60151"]
 zipCodes: ["60151"]
 localPaths: ["DeKalb County / ZIP 60151 sector", "DeKalb County / coords 41.9100, -88.6100", "DeKalb County / elevation 853 ft band", "DeKalb County / primary ZIP 60151"]
+zillowHomeValueUsd: 404932
 ---
 
 **Engineering Notice for Maple Park:** structural drying capacity optimized for 853ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: DeKalb County. Relative Humidity Threshold: 73%. Sensor sync: Active.

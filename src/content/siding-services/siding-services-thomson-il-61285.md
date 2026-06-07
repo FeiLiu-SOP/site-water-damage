@@ -12,6 +12,7 @@ lng: -90.1100
 zipSample: ["61285"]
 zipCodes: ["61285"]
 localPaths: ["Carroll County / elevation 604 ft band", "Carroll County / ZIP 61285 sector", "Carroll County / coords 41.9700, -90.1100", "Carroll County / primary ZIP 61285"]
+zillowHomeValueUsd: 151243
 ---
 
 **Engineering Notice for Thomson:** Cladding Service was validated under stress factor 0.95; target tolerance set near 103 mph. Coordinates: 41.9700, -90.1100. Grid anchor: Carroll County.

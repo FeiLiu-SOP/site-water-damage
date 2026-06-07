@@ -11,6 +11,7 @@ lng: -122.4300
 zipSample: ["94066"]
 zipCodes: ["94066"]
 localPaths: ["San Mateo County / ZIP 94066 sector", "San Mateo County / coords 37.6300, -122.4300", "San Mateo County / primary ZIP 94066", "San Mateo County / elevation 331 ft band"]
+zillowHomeValueUsd: 1329665
 ---
 
 **Engineering Notice for San Bruno:** Structural loading calculated based on 331 ft terrain assessment. Regional dispatch grid: San Mateo County.

@@ -12,6 +12,7 @@ lng: -122.6400
 zipSample: ["94973"]
 zipCodes: ["94973"]
 localPaths: ["Marin County / ZIP 94973 sector", "Marin County / coords 38.0100, -122.6400", "Marin County / primary ZIP 94973", "Marin County / elevation 449 ft band"]
+zillowHomeValueUsd: 1099779
 ---
 
 **Engineering Notice for Woodacre:** System optimized for 142 mg/L hard water scaling factors in Woodacre. Regional dispatch grid: Marin County.

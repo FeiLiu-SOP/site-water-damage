@@ -12,6 +12,7 @@ lng: -86.3200
 zipSample: ["46628"]
 zipCodes: ["46628"]
 localPaths: ["St. Joseph County / ZIP 46628 sector", "St. Joseph County / primary ZIP 46628", "St. Joseph County / coords 41.6900, -86.3200", "St. Joseph County / elevation 748 ft band"]
+zillowHomeValueUsd: 172356
 ---
 
 **Engineering Notice for Ardmore:** System optimized for 145 mg/L hard water scaling factors in Ardmore. Regional dispatch grid: St. Joseph County.

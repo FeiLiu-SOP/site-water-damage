@@ -12,6 +12,7 @@ lng: -76.4800
 zipSample: ["17042", "17046", "17083"]
 zipCodes: ["17042", "17046", "17083"]
 localPaths: ["Lebanon County / ZIP 17083 sector", "Lebanon County / coords 40.3400, -76.4800", "Lebanon County / ZIP 17042 sector", "Lebanon County / elevation 463 ft band", "Lebanon County / ZIP 17046 sector"]
+zillowHomeValueUsd: 258552
 ---
 
 **Engineering Notice for Cleona:** Panel Replacement was validated under stress factor 1.04; target tolerance set near 99 mph. Grid anchor: Lebanon County.

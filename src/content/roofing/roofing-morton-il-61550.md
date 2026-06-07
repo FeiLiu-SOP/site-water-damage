@@ -11,6 +11,7 @@ lng: -89.4700
 zipSample: ["61550", "61650"]
 zipCodes: ["61550", "61650"]
 localPaths: ["Tazewell County / ZIP 61550 sector", "Tazewell County / elevation 722 ft band", "Tazewell County / ZIP 61650 sector", "Tazewell County / coords 40.6100, -89.4700", "Tazewell County / primary ZIP 61550"]
+zillowHomeValueUsd: 280485
 ---
 
 **Engineering Notice for Morton:** Structural loading calculated based on 722 ft terrain assessment. Regional dispatch grid: Tazewell County.

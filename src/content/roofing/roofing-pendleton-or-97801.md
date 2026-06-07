@@ -11,6 +11,7 @@ lng: -118.8200
 zipSample: ["97801"]
 zipCodes: ["97801"]
 localPaths: ["Umatilla County / primary ZIP 97801", "Umatilla County / coords 45.6800, -118.8200", "Umatilla County / ZIP 97801 sector", "Umatilla County / elevation 1115 ft band"]
+zillowHomeValueUsd: 293569
 ---
 
 **Engineering Notice for Pendleton:** Structural loading calculated based on 1115 ft terrain assessment. Regional dispatch grid: Umatilla County.

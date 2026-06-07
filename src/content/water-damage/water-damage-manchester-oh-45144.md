@@ -12,6 +12,7 @@ lng: -83.6100
 zipSample: ["45144"]
 zipCodes: ["45144"]
 localPaths: ["Adams County / coords 38.6900, -83.6100", "Adams County / elevation 509 ft band", "Adams County / ZIP 45144 sector", "Adams County / primary ZIP 45144"]
+zillowHomeValueUsd: 138703
 ---
 
 **Engineering Notice for Manchester:** structural drying capacity optimized for 509ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Adams County. Relative Humidity Threshold: 69%. Sensor sync: Active.

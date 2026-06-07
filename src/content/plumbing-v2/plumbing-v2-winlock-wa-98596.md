@@ -12,6 +12,7 @@ lng: -122.9300
 zipSample: ["98596"]
 zipCodes: ["98596"]
 localPaths: ["Lewis County / elevation 384 ft band", "Lewis County / primary ZIP 98596", "Lewis County / coords 46.4900, -122.9300", "Lewis County / ZIP 98596 sector"]
+zillowHomeValueUsd: 454278
 ---
 
 **Engineering Notice for Winlock:** System optimized for 161 mg/L hard water scaling factors in Winlock. Regional dispatch grid: Lewis County.

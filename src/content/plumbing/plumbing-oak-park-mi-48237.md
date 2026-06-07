@@ -12,6 +12,7 @@ lng: -83.1800
 zipSample: ["48237"]
 zipCodes: ["48237"]
 localPaths: ["Oakland County / primary ZIP 48237", "Oakland County / ZIP 48237 sector", "Oakland County / coords 42.4600, -83.1800", "Oakland County / elevation 673 ft band"]
+zillowHomeValueUsd: 233013
 ---
 
 **Engineering Notice for Oak Park:** Structural loading calculated based on 673 ft terrain assessment. Regional dispatch grid: Oakland County.

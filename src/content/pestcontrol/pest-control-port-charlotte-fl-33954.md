@@ -11,6 +11,7 @@ lng: -82.1100
 zipSample: ["33952", "33948", "33954", "33980", "33949"]
 zipCodes: ["33954", "33980", "33948", "33952", "33949"]
 localPaths: ["Charlotte County / ZIP 33949 sector", "Charlotte County / ZIP 33948 sector", "Charlotte County / ZIP 33980 sector", "Charlotte County / ZIP 33954 sector", "Charlotte County / primary ZIP 33954"]
+zillowHomeValueUsd: 298525
 ---
 
 **Engineering Notice for Port Charlotte:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Charlotte County.

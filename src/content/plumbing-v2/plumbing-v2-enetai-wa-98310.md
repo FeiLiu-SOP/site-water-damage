@@ -12,6 +12,7 @@ lng: -122.6100
 zipSample: ["98310"]
 zipCodes: ["98310"]
 localPaths: ["Kitsap County / primary ZIP 98310", "Kitsap County / elevation 308 ft band", "Kitsap County / coords 47.5900, -122.6100", "Kitsap County / ZIP 98310 sector"]
+zillowHomeValueUsd: 460144
 ---
 
 **Engineering Notice for Enetai:** System optimized for 125 mg/L hard water scaling factors in Enetai. Regional dispatch grid: Kitsap County.

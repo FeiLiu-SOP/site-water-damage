@@ -12,6 +12,7 @@ lng: -121.7100
 zipSample: ["95917"]
 zipCodes: ["95917"]
 localPaths: ["Butte County / primary ZIP 95917", "Butte County / elevation 95 ft band", "Butte County / coords 39.4100, -121.7100", "Butte County / ZIP 95917 sector"]
+zillowHomeValueUsd: 343549
 ---
 
 **Engineering Notice for Biggs:** structural drying capacity optimized for 95ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Butte County. Relative Humidity Threshold: 79%. Sensor sync: Active.

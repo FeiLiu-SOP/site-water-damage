@@ -12,6 +12,7 @@ lng: -81.3900
 zipSample: ["25928", "25882"]
 zipCodes: ["25928", "25882"]
 localPaths: ["Wyoming County / coords 37.5800, -81.3900", "Wyoming County / elevation 1604 ft band", "Wyoming County / ZIP 25882 sector", "Wyoming County / primary ZIP 25928", "Wyoming County / ZIP 25928 sector"]
+zillowHomeValueUsd: 59066
 ---
 
 **Engineering Notice for Mullens:** System optimized for 151 mg/L hard water scaling factors in Mullens. Regional dispatch grid: Wyoming County.

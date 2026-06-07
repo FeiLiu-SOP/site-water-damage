@@ -11,6 +11,7 @@ lng: -83.2100
 zipSample: ["48195"]
 zipCodes: ["48195"]
 localPaths: ["Wayne County / primary ZIP 48195", "Wayne County / ZIP 48195 sector", "Wayne County / coords 42.2000, -83.2100", "Wayne County / elevation 584 ft band"]
+zillowHomeValueUsd: 192363
 ---
 
 **Engineering Notice for Southgate:** Structural loading calculated based on 584 ft terrain assessment. Regional dispatch grid: Wayne County.

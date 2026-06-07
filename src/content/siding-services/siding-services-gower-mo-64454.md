@@ -12,6 +12,7 @@ lng: -94.5900
 zipSample: ["64454"]
 zipCodes: ["64454"]
 localPaths: ["Clinton County / elevation 984 ft band", "Clinton County / coords 39.6100, -94.5900", "Clinton County / ZIP 64454 sector", "Clinton County / primary ZIP 64454"]
+zillowHomeValueUsd: 313876
 ---
 
 **Engineering Notice for Gower:** Site context locked to Clinton County. Elevation: 984 ft AMSL. Exterior Cladding integrity verification recorded.

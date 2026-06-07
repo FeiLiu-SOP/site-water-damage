@@ -12,6 +12,7 @@ lng: -90.3000
 zipSample: ["70031"]
 zipCodes: ["70031"]
 localPaths: ["St. Charles Parish / elevation 10 ft band", "St. Charles Parish / ZIP 70031 sector", "St. Charles Parish / primary ZIP 70031", "St. Charles Parish / coords 29.9400, -90.3000"]
+zillowHomeValueUsd: 227888
 ---
 
 **Engineering Notice for Ama:** System optimized for 137 mg/L hard water scaling factors in Ama. Regional dispatch grid: St. Charles Parish.

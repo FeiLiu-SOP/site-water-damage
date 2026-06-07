@@ -12,6 +12,7 @@ lng: -80.5400
 zipSample: ["44425", "44438"]
 zipCodes: ["44438", "44425"]
 localPaths: ["Trumbull County / coords 41.2100, -80.5400", "Trumbull County / ZIP 44425 sector", "Trumbull County / elevation 912 ft band", "Trumbull County / ZIP 44438 sector", "Trumbull County / primary ZIP 44425"]
+zillowHomeValueUsd: 165783
 ---
 
 **Engineering Notice for Masury:** System optimized for 156 mg/L hard water scaling factors in Masury. Regional dispatch grid: Trumbull County.

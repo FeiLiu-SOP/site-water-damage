@@ -12,6 +12,7 @@ lng: -120.8800
 zipSample: ["93430", "93442"]
 zipCodes: ["93442", "93430"]
 localPaths: ["San Luis Obispo County / elevation 131 ft band", "San Luis Obispo County / ZIP 93442 sector", "San Luis Obispo County / primary ZIP 93442", "San Luis Obispo County / ZIP 93430 sector", "San Luis Obispo County / coords 35.4400, -120.8800"]
+zillowHomeValueUsd: 954553
 ---
 
 **Engineering Notice for Cayucos:** Envelope check: Wall Restoration assigned to wind-load band B with stress factor 1.05. Regional dispatch grid: San Luis Obispo County.

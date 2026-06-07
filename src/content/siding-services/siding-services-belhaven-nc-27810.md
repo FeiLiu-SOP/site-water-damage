@@ -12,6 +12,7 @@ lng: -76.6200
 zipSample: ["27810"]
 zipCodes: ["27810"]
 localPaths: ["Beaufort County / coords 35.5400, -76.6200", "Beaufort County / primary ZIP 27810", "Beaufort County / ZIP 27810 sector", "Beaufort County / elevation 10 ft band"]
+zillowHomeValueUsd: 235357
 ---
 
 **Engineering Notice for Belhaven:** Structural integrity verification: Weather Barrier Wrap calibrated for 104 mph localized wind load factor. Elevation: 10 ft AMSL. Regional dispatch grid: Beaufort County.

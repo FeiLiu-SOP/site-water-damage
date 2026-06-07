@@ -12,6 +12,7 @@ lng: -116.9600
 zipSample: ["92019", "92021", "92020"]
 zipCodes: ["92021", "92020", "92019"]
 localPaths: ["San Diego County / ZIP 92020 sector", "San Diego County / ZIP 92019 sector", "San Diego County / coords 32.8000, -116.9600", "San Diego County / elevation 430 ft band", "San Diego County / primary ZIP 92020"]
+zillowHomeValueUsd: 840319
 ---
 
 **Engineering Notice for El Cajon:** Structural loading calculated based on 430 ft terrain assessment. Regional dispatch grid: San Diego County.

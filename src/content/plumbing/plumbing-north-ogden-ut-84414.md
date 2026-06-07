@@ -12,6 +12,7 @@ lng: -111.9600
 zipSample: ["84414"]
 zipCodes: ["84414"]
 localPaths: ["Weber County / elevation 4619 ft band", "Weber County / ZIP 84414 sector", "Weber County / primary ZIP 84414", "Weber County / coords 41.3100, -111.9600"]
+zillowHomeValueUsd: 544747
 ---
 
 **Engineering Notice for North Ogden:** Structural loading calculated based on 4619 ft terrain assessment. Regional dispatch grid: Weber County.

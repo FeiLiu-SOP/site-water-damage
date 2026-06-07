@@ -11,6 +11,7 @@ lng: -122.2300
 zipSample: ["94591", "94589", "94590", "94592"]
 zipCodes: ["94592", "94589", "94590", "94591"]
 localPaths: ["Solano County / coords 38.1100, -122.2300", "Solano County / elevation 66 ft band", "Solano County / ZIP 94591 sector", "Solano County / primary ZIP 94592", "Solano County / ZIP 94592 sector"]
+zillowHomeValueUsd: 721298
 ---
 
 **Engineering Notice for Vallejo:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Solano County.

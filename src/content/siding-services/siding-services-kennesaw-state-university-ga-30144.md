@@ -12,6 +12,7 @@ lng: -84.5800
 zipSample: ["30144"]
 zipCodes: ["30144"]
 localPaths: ["Cobb County / coords 34.0400, -84.5800", "Cobb County / primary ZIP 30144", "Cobb County / ZIP 30144 sector", "Cobb County / elevation 1063 ft band"]
+zillowHomeValueUsd: 382692
 ---
 
 **Engineering Notice for Kennesaw State University:** Structural integrity verification: Cladding Service calibrated for 110 mph localized wind load factor. Elevation: 1063 ft AMSL. Coordinates: 34.0400, -84.5800. Regional dispatch grid: Cobb County.

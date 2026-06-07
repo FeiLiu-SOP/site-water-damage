@@ -12,6 +12,7 @@ lng: -92.4000
 zipSample: ["65556"]
 zipCodes: ["65556"]
 localPaths: ["Pulaski County / elevation 1109 ft band", "Pulaski County / coords 37.8600, -92.4000", "Pulaski County / ZIP 65556 sector", "Pulaski County / primary ZIP 65556"]
+zillowHomeValueUsd: 208399
 ---
 
 **Engineering Notice for Richland:** Site context locked to Pulaski County. Coordinates: 37.8600, -92.4000. Facade Renewal integrity verification recorded.

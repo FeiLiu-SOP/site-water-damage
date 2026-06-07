@@ -12,6 +12,7 @@ lng: -87.7700
 zipSample: ["53402"]
 zipCodes: ["53402"]
 localPaths: ["Racine County / elevation 617 ft band", "Racine County / ZIP 53402 sector", "Racine County / primary ZIP 53402", "Racine County / coords 42.7800, -87.7700"]
+zillowHomeValueUsd: 294606
 ---
 
 **Engineering Notice for Wind Point:** structural drying capacity optimized for 617ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Racine County. Relative Humidity Threshold: 78%. Sensor sync: Active.

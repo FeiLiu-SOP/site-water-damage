@@ -11,6 +11,7 @@ lng: -80.3000
 zipSample: ["33018", "33010", "33012", "33016", "33014"]
 zipCodes: ["33018", "33010", "33014", "33013", "33016", "33012"]
 localPaths: ["Miami-Dade County / primary ZIP 33014", "Miami-Dade County / coords 25.8700, -80.3000", "Miami-Dade County / ZIP 33010 sector", "Miami-Dade County / ZIP 33016 sector", "Miami-Dade County / elevation 33 ft band"]
+zillowHomeValueUsd: 440155
 ---
 
 **Engineering Notice for Hialeah:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

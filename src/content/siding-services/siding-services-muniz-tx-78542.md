@@ -12,6 +12,7 @@ lng: -98.0900
 zipSample: ["78542"]
 zipCodes: ["78542"]
 localPaths: ["Hidalgo County / primary ZIP 78542", "Hidalgo County / ZIP 78542 sector", "Hidalgo County / elevation 98 ft band", "Hidalgo County / coords 26.2600, -98.0900"]
+zillowHomeValueUsd: 206194
 ---
 
 **Engineering Notice for Muniz:** Cladding verification uses 136 mph routing baseline; lateral pressure note: 17.5 psf. Grid: Hidalgo County.

@@ -12,6 +12,7 @@ lng: -92.3500
 zipSample: ["50703", "50702", "50701", "50707"]
 zipCodes: ["50703", "50701", "50702", "50707"]
 localPaths: ["Black Hawk County / ZIP 50702 sector", "Black Hawk County / ZIP 50703 sector", "Black Hawk County / coords 42.4900, -92.3500", "Black Hawk County / ZIP 50701 sector", "Black Hawk County / primary ZIP 50707"]
+zillowHomeValueUsd: 153500
 ---
 
 **Engineering Notice for Waterloo:** Structural loading calculated based on 892 ft terrain assessment. Regional dispatch grid: Black Hawk County.

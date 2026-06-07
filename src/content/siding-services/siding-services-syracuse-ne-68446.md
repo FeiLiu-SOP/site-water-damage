@@ -12,6 +12,7 @@ lng: -96.1800
 zipSample: ["68446"]
 zipCodes: ["68446"]
 localPaths: ["Otoe County / primary ZIP 68446", "Otoe County / elevation 1076 ft band", "Otoe County / ZIP 68446 sector", "Otoe County / coords 40.6600, -96.1800"]
+zillowHomeValueUsd: 267743
 ---
 
 **Engineering Notice for Syracuse:** Envelope check: Weather Barrier Wrap assigned to wind-load band C with stress factor 0.87. Regional dispatch grid: Otoe County.

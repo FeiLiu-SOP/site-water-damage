@@ -11,6 +11,7 @@ lng: -88.9500
 zipSample: ["39531", "39533", "39530", "39535", "39534"]
 zipCodes: ["39534", "39532", "39531", "39535", "39533", "39530"]
 localPaths: ["Harrison County / ZIP 39534 sector", "Harrison County / ZIP 39531 sector", "Harrison County / primary ZIP 39531", "Harrison County / ZIP 39535 sector", "Harrison County / ZIP 39530 sector"]
+zillowHomeValueUsd: 204233
 ---
 
 **Engineering Notice for Biloxi:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Harrison County.

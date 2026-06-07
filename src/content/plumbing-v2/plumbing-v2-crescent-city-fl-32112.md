@@ -12,6 +12,7 @@ lng: -81.5200
 zipSample: ["32112"]
 zipCodes: ["32112"]
 localPaths: ["Putnam County / ZIP 32112 sector", "Putnam County / coords 29.4400, -81.5200", "Putnam County / elevation 56 ft band", "Putnam County / primary ZIP 32112"]
+zillowHomeValueUsd: 208734
 ---
 
 **Engineering Notice for Crescent City:** System optimized for 122 mg/L hard water scaling factors in Crescent City. Regional dispatch grid: Putnam County.

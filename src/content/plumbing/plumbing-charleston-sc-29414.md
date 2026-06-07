@@ -12,6 +12,7 @@ lng: -79.9700
 zipSample: ["29403", "29455", "29409", "29402", "29417"]
 zipCodes: ["29417", "29403", "29422", "29457", "29455", "29425", "29407", "29409", "29414", "29424", "29405", "29492"]
 localPaths: ["Charleston County / primary ZIP 29414", "Charleston County / elevation 0 ft band", "Charleston County / ZIP 29455 sector", "Charleston County / ZIP 29402 sector", "Charleston County / coords 32.8200, -79.9700"]
+zillowHomeValueUsd: 471703
 ---
 
 **Engineering Notice for Charleston:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Charleston County.

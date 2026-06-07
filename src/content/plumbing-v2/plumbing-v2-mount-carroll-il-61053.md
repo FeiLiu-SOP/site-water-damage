@@ -12,6 +12,7 @@ lng: -89.9800
 zipSample: ["61053"]
 zipCodes: ["61053"]
 localPaths: ["Carroll County / coords 42.0900, -89.9800", "Carroll County / primary ZIP 61053", "Carroll County / elevation 807 ft band", "Carroll County / ZIP 61053 sector"]
+zillowHomeValueUsd: 146938
 ---
 
 **Engineering Notice for Mount Carroll:** System optimized for 177 mg/L hard water scaling factors in Mount Carroll. Regional dispatch grid: Carroll County.

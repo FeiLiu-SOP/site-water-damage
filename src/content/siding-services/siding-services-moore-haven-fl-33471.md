@@ -12,6 +12,7 @@ lng: -81.1000
 zipSample: ["33471"]
 zipCodes: ["33471"]
 localPaths: ["Glades County / primary ZIP 33471", "Glades County / ZIP 33471 sector", "Glades County / elevation 30 ft band", "Glades County / coords 26.8300, -81.1000"]
+zillowHomeValueUsd: 211135
 ---
 
 **Engineering Notice for Moore Haven:** Exterior Cladding was validated under stress factor 1.16; target tolerance set near 145 mph. Grid anchor: Glades County.

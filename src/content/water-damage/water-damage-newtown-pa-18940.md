@@ -12,6 +12,7 @@ lng: -74.9300
 zipSample: ["18940"]
 zipCodes: ["18940"]
 localPaths: ["Bucks County / elevation 187 ft band", "Bucks County / coords 40.2300, -74.9300", "Bucks County / primary ZIP 18940", "Bucks County / ZIP 18940 sector"]
+zillowHomeValueUsd: 734793
 ---
 
 **Engineering Notice for Newtown:** structural drying capacity optimized for 187ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bucks County. Relative Humidity Threshold: 68%. Sensor sync: Active.

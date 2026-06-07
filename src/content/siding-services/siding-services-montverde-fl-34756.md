@@ -12,6 +12,7 @@ lng: -81.6800
 zipSample: ["34756"]
 zipCodes: ["34756"]
 localPaths: ["Lake County / coords 28.6000, -81.6800", "Lake County / ZIP 34756 sector", "Lake County / primary ZIP 34756", "Lake County / elevation 75 ft band"]
+zillowHomeValueUsd: 709193
 ---
 
 **Engineering Notice for Montverde:** Exterior Cladding was validated under stress factor 1.07; target tolerance set near 135 mph. Coordinates: 28.6000, -81.6800. Grid anchor: Lake County.

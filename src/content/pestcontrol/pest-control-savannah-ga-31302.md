@@ -11,6 +11,7 @@ lng: -81.1800
 zipSample: ["31407", "31418", "31416", "31412", "31421"]
 zipCodes: ["31412", "31415", "31416", "31419", "31418", "31406", "31404", "31420", "31408", "31409", "31302", "31407"]
 localPaths: ["Chatham County / ZIP 31418 sector", "Chatham County / ZIP 31412 sector", "Chatham County / ZIP 31407 sector", "Chatham County / ZIP 31416 sector", "Chatham County / elevation 13 ft band"]
+zillowHomeValueUsd: 334226
 ---
 
 **Engineering Notice for Savannah:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Chatham County.

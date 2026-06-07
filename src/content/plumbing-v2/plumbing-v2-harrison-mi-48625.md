@@ -12,6 +12,7 @@ lng: -84.8100
 zipSample: ["48625"]
 zipCodes: ["48625"]
 localPaths: ["Clare County / ZIP 48625 sector", "Clare County / elevation 1188 ft band", "Clare County / coords 44.0200, -84.8100", "Clare County / primary ZIP 48625"]
+zillowHomeValueUsd: 127895
 ---
 
 **Engineering Notice for Harrison:** System optimized for 139 mg/L hard water scaling factors in Harrison. Regional dispatch grid: Clare County.

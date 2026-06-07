@@ -12,6 +12,7 @@ lng: -81.4700
 zipSample: ["31521", "31520"]
 zipCodes: ["31521", "31520"]
 localPaths: ["Glynn County / coords 31.1400, -81.4700", "Glynn County / ZIP 31520 sector", "Glynn County / ZIP 31521 sector", "Glynn County / elevation 3 ft band", "Glynn County / primary ZIP 31520"]
+zillowHomeValueUsd: 148459
 ---
 
 **Engineering Notice for Brunswick:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Glynn County.

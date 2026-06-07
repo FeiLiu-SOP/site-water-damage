@@ -12,6 +12,7 @@ lng: -112.0000
 zipSample: ["59634"]
 zipCodes: ["59634"]
 localPaths: ["Jefferson County / primary ZIP 59634", "Jefferson County / coords 46.4500, -112.0000", "Jefferson County / ZIP 59634 sector", "Jefferson County / elevation 4764 ft band"]
+zillowHomeValueUsd: 648266
 ---
 
 **Engineering Notice for Clancy:** Site context locked to Jefferson County. Vinyl Panels integrity verification recorded.

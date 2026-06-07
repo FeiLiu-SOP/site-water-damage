@@ -12,6 +12,7 @@ lng: -118.0400
 zipSample: ["90601"]
 zipCodes: ["90601"]
 localPaths: ["Los Angeles County / coords 34.0100, -118.0400", "Los Angeles County / primary ZIP 90601", "Los Angeles County / ZIP 90601 sector", "Los Angeles County / elevation 476 ft band"]
+zillowHomeValueUsd: 864685
 ---
 
 **Engineering Notice for Rose Hills:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 1.00. Elevation: 476 ft AMSL. Regional dispatch grid: Los Angeles County.

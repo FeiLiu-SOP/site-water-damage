@@ -11,6 +11,7 @@ lng: -84.2100
 zipSample: ["30071"]
 zipCodes: ["30071"]
 localPaths: ["Gwinnett County / elevation 991 ft band", "Gwinnett County / ZIP 30071 sector", "Gwinnett County / coords 33.9400, -84.2100", "Gwinnett County / primary ZIP 30071"]
+zillowHomeValueUsd: 360285
 ---
 
 **Engineering Notice for Norcross:** Structural loading calculated based on 991 ft terrain assessment. Regional dispatch grid: Gwinnett County.

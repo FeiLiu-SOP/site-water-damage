@@ -11,6 +11,7 @@ lng: -117.2200
 zipSample: ["92571", "92570", "92599", "92572"]
 zipCodes: ["92599", "92572", "92571", "92570"]
 localPaths: ["Riverside County / ZIP 92572 sector", "Riverside County / ZIP 92570 sector", "Riverside County / ZIP 92571 sector", "Riverside County / primary ZIP 92570", "Riverside County / ZIP 92599 sector"]
+zillowHomeValueUsd: 580619
 ---
 
 **Engineering Notice for Perris:** Structural loading calculated based on 1437 ft terrain assessment. Regional dispatch grid: Riverside County.

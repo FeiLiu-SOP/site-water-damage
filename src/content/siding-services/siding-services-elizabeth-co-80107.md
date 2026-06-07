@@ -12,6 +12,7 @@ lng: -104.6200
 zipSample: ["80107"]
 zipCodes: ["80107"]
 localPaths: ["Elbert County / elevation 6545 ft band", "Elbert County / primary ZIP 80107", "Elbert County / coords 39.3600, -104.6200", "Elbert County / ZIP 80107 sector"]
+zillowHomeValueUsd: 665950
 ---
 
 **Engineering Notice for Elizabeth:** Exterior Envelope was validated under stress factor 1.09; target tolerance set near 105 mph. Grid anchor: Elbert County.

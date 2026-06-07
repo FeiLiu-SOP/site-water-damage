@@ -11,6 +11,7 @@ lng: -122.2800
 zipSample: ["94710", "94707", "94705", "94708", "94703"]
 zipCodes: ["94703", "94701", "94702", "94712", "94707", "94709", "94710", "94708", "94705", "94720", "94704"]
 localPaths: ["Alameda County / ZIP 94710 sector", "Alameda County / ZIP 94708 sector", "Alameda County / ZIP 94703 sector", "Alameda County / elevation 157 ft band", "Alameda County / primary ZIP 94708"]
+zillowHomeValueUsd: 1635577
 ---
 
 **Engineering Notice for Berkeley:** Structural loading calculated based on 157 ft terrain assessment. Regional dispatch grid: Alameda County.

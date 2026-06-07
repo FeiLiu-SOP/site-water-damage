@@ -12,6 +12,7 @@ lng: -92.0000
 zipSample: ["65275"]
 zipCodes: ["65275"]
 localPaths: ["Monroe County / coords 39.4800, -92.0000", "Monroe County / primary ZIP 65275", "Monroe County / ZIP 65275 sector", "Monroe County / elevation 699 ft band"]
+zillowHomeValueUsd: 206496
 ---
 
 **Engineering Notice for Paris:** structural drying capacity optimized for 699ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Monroe County. Relative Humidity Threshold: 84%. Sensor sync: Active.

@@ -11,6 +11,7 @@ lng: -121.3600
 zipSample: ["95826", "95827"]
 zipCodes: ["95827", "95826"]
 localPaths: ["Sacramento County / ZIP 95826 sector", "Sacramento County / coords 38.5500, -121.3600", "Sacramento County / elevation 62 ft band", "Sacramento County / primary ZIP 95827", "Sacramento County / ZIP 95827 sector"]
+zillowHomeValueUsd: 475704
 ---
 
 **Engineering Notice for Rosemont:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Sacramento County.

@@ -12,6 +12,7 @@ lng: -123.7700
 zipSample: ["98563", "98520", "98537"]
 zipCodes: ["98537", "98563", "98520"]
 localPaths: ["Grays Harbor County / ZIP 98520 sector", "Grays Harbor County / ZIP 98563 sector", "Grays Harbor County / primary ZIP 98520", "Grays Harbor County / ZIP 98537 sector", "Grays Harbor County / elevation 20 ft band"]
+zillowHomeValueUsd: 272304
 ---
 
 **Engineering Notice for Cosmopolis:** Site context locked to Grays Harbor County. Elevation: 20 ft AMSL. Vinyl Panels integrity verification recorded.

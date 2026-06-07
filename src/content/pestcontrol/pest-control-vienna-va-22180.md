@@ -11,6 +11,7 @@ lng: -77.2600
 zipSample: ["22180", "22183", "22185"]
 zipCodes: ["22180", "22183", "22185"]
 localPaths: ["Fairfax County / elevation 390 ft band", "Fairfax County / ZIP 22183 sector", "Fairfax County / ZIP 22180 sector", "Fairfax County / coords 38.9000, -77.2600", "Fairfax County / primary ZIP 22180"]
+zillowHomeValueUsd: 1072239
 ---
 
 **Engineering Notice for Vienna:** Structural loading calculated based on 390 ft terrain assessment. Regional dispatch grid: Fairfax County.

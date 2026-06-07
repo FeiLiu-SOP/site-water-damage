@@ -12,6 +12,7 @@ lng: -90.3700
 zipSample: ["62082"]
 zipCodes: ["62082"]
 localPaths: ["Greene County / elevation 663 ft band", "Greene County / ZIP 62082 sector", "Greene County / primary ZIP 62082", "Greene County / coords 39.4800, -90.3700"]
+zillowHomeValueUsd: 76605
 ---
 
 **Engineering Notice for Roodhouse:** Structural integrity verification: Cladding Service calibrated for 101 mph localized wind load factor. Elevation: 663 ft AMSL. Coordinates: 39.4800, -90.3700. Regional dispatch grid: Greene County.

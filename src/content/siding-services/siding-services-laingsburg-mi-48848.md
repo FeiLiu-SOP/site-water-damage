@@ -12,6 +12,7 @@ lng: -84.3500
 zipSample: ["48848"]
 zipCodes: ["48848"]
 localPaths: ["Shiawassee County / primary ZIP 48848", "Shiawassee County / ZIP 48848 sector", "Shiawassee County / coords 42.8900, -84.3500", "Shiawassee County / elevation 833 ft band"]
+zillowHomeValueUsd: 297989
 ---
 
 **Engineering Notice for Laingsburg:** Site context locked to Shiawassee County. Coordinates: 42.8900, -84.3500. Cladding Retrofit integrity verification recorded.

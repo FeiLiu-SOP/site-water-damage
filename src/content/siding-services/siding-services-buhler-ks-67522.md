@@ -12,6 +12,7 @@ lng: -97.7700
 zipSample: ["67522"]
 zipCodes: ["67522"]
 localPaths: ["Reno County / coords 38.1400, -97.7700", "Reno County / elevation 1512 ft band", "Reno County / ZIP 67522 sector", "Reno County / primary ZIP 67522"]
+zillowHomeValueUsd: 197887
 ---
 
 **Engineering Notice for Buhler:** Site context locked to Reno County. Coordinates: 38.1400, -97.7700. Weather Barrier Wrap integrity verification recorded.

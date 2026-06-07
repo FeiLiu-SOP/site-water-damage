@@ -12,6 +12,7 @@ lng: -78.2800
 zipSample: ["22645"]
 zipCodes: ["22645"]
 localPaths: ["Frederick County / coords 39.0300, -78.2800", "Frederick County / elevation 722 ft band", "Frederick County / ZIP 22645 sector", "Frederick County / primary ZIP 22645"]
+zillowHomeValueUsd: 447680
 ---
 
 **Engineering Notice for Middletown:** System optimized for 145 mg/L hard water scaling factors in Middletown. Regional dispatch grid: Frederick County.

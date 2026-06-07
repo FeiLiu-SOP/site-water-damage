@@ -12,6 +12,7 @@ lng: -87.4400
 zipSample: ["38469"]
 zipCodes: ["38469"]
 localPaths: ["Lawrence County / primary ZIP 38469", "Lawrence County / ZIP 38469 sector", "Lawrence County / elevation 846 ft band", "Lawrence County / coords 35.0800, -87.4400"]
+zillowHomeValueUsd: 238678
 ---
 
 **Engineering Notice for Loretto:** System optimized for 123 mg/L hard water scaling factors in Loretto. Regional dispatch grid: Lawrence County.

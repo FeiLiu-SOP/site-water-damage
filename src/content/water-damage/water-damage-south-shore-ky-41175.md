@@ -12,6 +12,7 @@ lng: -82.9600
 zipSample: ["41175"]
 zipCodes: ["41175"]
 localPaths: ["Greenup County / elevation 538 ft band", "Greenup County / coords 38.7200, -82.9600", "Greenup County / primary ZIP 41175", "Greenup County / ZIP 41175 sector"]
+zillowHomeValueUsd: 129861
 ---
 
 **Engineering Notice for South Shore:** structural drying capacity optimized for 538ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Greenup County. Relative Humidity Threshold: 83%. Sensor sync: Active.

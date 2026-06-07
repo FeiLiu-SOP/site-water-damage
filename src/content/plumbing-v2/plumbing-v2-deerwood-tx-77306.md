@@ -12,6 +12,7 @@ lng: -95.3000
 zipSample: ["77306"]
 zipCodes: ["77306"]
 localPaths: ["Montgomery County / primary ZIP 77306", "Montgomery County / coords 30.3200, -95.3000", "Montgomery County / ZIP 77306 sector", "Montgomery County / elevation 210 ft band"]
+zillowHomeValueUsd: 228618
 ---
 
 **Engineering Notice for Deerwood:** System optimized for 163 mg/L hard water scaling factors in Deerwood. Regional dispatch grid: Montgomery County.

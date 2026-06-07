@@ -12,6 +12,7 @@ lng: -74.9300
 zipSample: ["18940"]
 zipCodes: ["18940"]
 localPaths: ["Bucks County / ZIP 18940 sector", "Bucks County / coords 40.2300, -74.9300", "Bucks County / elevation 187 ft band", "Bucks County / primary ZIP 18940"]
+zillowHomeValueUsd: 734792
 ---
 
 **Engineering Notice for Newtown:** Site context locked to Bucks County. Coordinates: 40.2300, -74.9300. Cladding Service integrity verification recorded.

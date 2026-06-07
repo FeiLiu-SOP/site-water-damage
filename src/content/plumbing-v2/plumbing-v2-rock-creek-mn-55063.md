@@ -12,6 +12,7 @@ lng: -92.9100
 zipSample: ["55063", "55067", "55069"]
 zipCodes: ["55069", "55067", "55063"]
 localPaths: ["Pine County / ZIP 55067 sector", "Pine County / ZIP 55069 sector", "Pine County / ZIP 55063 sector", "Pine County / primary ZIP 55063", "Pine County / coords 45.7600, -92.9100"]
+zillowHomeValueUsd: 285357
 ---
 
 **Engineering Notice for Rock Creek:** System optimized for 139 mg/L hard water scaling factors in Rock Creek. Regional dispatch grid: Pine County.

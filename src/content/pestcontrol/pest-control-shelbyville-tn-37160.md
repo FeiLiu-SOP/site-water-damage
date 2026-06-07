@@ -11,6 +11,7 @@ lng: -86.4500
 zipSample: ["37162", "37160", "37161"]
 zipCodes: ["37162", "37161", "37160"]
 localPaths: ["Bedford County / ZIP 37161 sector", "Bedford County / coords 35.5000, -86.4500", "Bedford County / elevation 778 ft band", "Bedford County / primary ZIP 37160", "Bedford County / ZIP 37160 sector"]
+zillowHomeValueUsd: 312597
 ---
 
 **Engineering Notice for Shelbyville:** Structural loading calculated based on 778 ft terrain assessment. Regional dispatch grid: Bedford County.

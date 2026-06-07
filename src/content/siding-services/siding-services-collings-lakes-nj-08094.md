@@ -12,6 +12,7 @@ lng: -74.8800
 zipSample: ["08094"]
 zipCodes: ["08094"]
 localPaths: ["Atlantic County / primary ZIP 08094", "Atlantic County / ZIP 08094 sector", "Atlantic County / elevation 92 ft band", "Atlantic County / coords 39.5900, -74.8800"]
+zillowHomeValueUsd: 365844
 ---
 
 **Engineering Notice for Collings Lakes:** Cladding verification uses 102 mph routing baseline; lateral pressure note: 13.4 psf. Grid: Atlantic County.

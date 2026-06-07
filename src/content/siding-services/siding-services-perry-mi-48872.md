@@ -12,6 +12,7 @@ lng: -84.2300
 zipSample: ["48872"]
 zipCodes: ["48872"]
 localPaths: ["Shiawassee County / ZIP 48872 sector", "Shiawassee County / primary ZIP 48872", "Shiawassee County / elevation 886 ft band", "Shiawassee County / coords 42.8200, -84.2300"]
+zillowHomeValueUsd: 267429
 ---
 
 **Engineering Notice for Perry:** Structural integrity verification: Wall Restoration calibrated for 99 mph localized wind load factor. Elevation: 886 ft AMSL. Coordinates: 42.8200, -84.2300. Regional dispatch grid: Shiawassee County.

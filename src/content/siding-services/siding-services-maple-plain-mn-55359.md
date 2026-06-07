@@ -12,6 +12,7 @@ lng: -93.6600
 zipSample: ["55359"]
 zipCodes: ["55359"]
 localPaths: ["Hennepin County / ZIP 55359 sector", "Hennepin County / primary ZIP 55359", "Hennepin County / elevation 1020 ft band", "Hennepin County / coords 45.0100, -93.6600"]
+zillowHomeValueUsd: 603617
 ---
 
 **Engineering Notice for Maple Plain:** Exterior Envelope was validated under stress factor 0.97; target tolerance set near 102 mph. Coordinates: 45.0100, -93.6600. Grid anchor: Hennepin County.

@@ -11,6 +11,7 @@ lng: -122.1700
 zipSample: ["94026", "94025"]
 zipCodes: ["94026", "94025"]
 localPaths: ["San Mateo County / coords 37.4700, -122.1700", "San Mateo County / primary ZIP 94025", "San Mateo County / ZIP 94025 sector", "San Mateo County / ZIP 94026 sector", "San Mateo County / elevation 49 ft band"]
+zillowHomeValueUsd: 2889235
 ---
 
 **Engineering Notice for Menlo Park:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: San Mateo County.

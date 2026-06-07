@@ -12,6 +12,7 @@ lng: -89.4000
 zipSample: ["61019"]
 zipCodes: ["61019"]
 localPaths: ["Winnebago County / elevation 820 ft band", "Winnebago County / primary ZIP 61019", "Winnebago County / ZIP 61019 sector", "Winnebago County / coords 42.4500, -89.4000"]
+zillowHomeValueUsd: 264188
 ---
 
 **Engineering Notice for Lake Summerset:** Wall Restoration was validated under stress factor 1.07; target tolerance set near 106 mph. Coordinates: 42.4500, -89.4000. Grid anchor: Winnebago County.

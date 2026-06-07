@@ -12,6 +12,7 @@ lng: -87.0300
 zipSample: ["46347"]
 zipCodes: ["46347"]
 localPaths: ["Porter County / elevation 686 ft band", "Porter County / coords 41.3200, -87.0300", "Porter County / primary ZIP 46347", "Porter County / ZIP 46347 sector"]
+zillowHomeValueUsd: 314438
 ---
 
 **Engineering Notice for Kouts:** System optimized for 139 mg/L hard water scaling factors in Kouts. Regional dispatch grid: Porter County.

@@ -12,6 +12,7 @@ lng: -111.4600
 zipSample: ["85544"]
 zipCodes: ["85544"]
 localPaths: ["Gila County / coords 34.3800, -111.4600", "Gila County / primary ZIP 85544", "Gila County / elevation 5397 ft band", "Gila County / ZIP 85544 sector"]
+zillowHomeValueUsd: 481242
 ---
 
 **Engineering Notice for Pine:** structural drying capacity optimized for 5397ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gila County. Relative Humidity Threshold: 70%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -91.4300
 zipSample: ["71638"]
 zipCodes: ["71638"]
 localPaths: ["Chicot County / coords 33.5300, -91.4300", "Chicot County / elevation 141 ft band", "Chicot County / primary ZIP 71638", "Chicot County / ZIP 71638 sector"]
+zillowHomeValueUsd: 59548
 ---
 
 **Engineering Notice for Dermott:** System optimized for 161 mg/L hard water scaling factors in Dermott. Regional dispatch grid: Chicot County.

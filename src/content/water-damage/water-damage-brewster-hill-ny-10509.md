@@ -12,6 +12,7 @@ lng: -73.6100
 zipSample: ["10509"]
 zipCodes: ["10509"]
 localPaths: ["Putnam County / coords 41.4200, -73.6100", "Putnam County / ZIP 10509 sector", "Putnam County / elevation 594 ft band", "Putnam County / primary ZIP 10509"]
+zillowHomeValueUsd: 518654
 ---
 
 **Engineering Notice for Brewster Hill:** structural drying capacity optimized for 594ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Putnam County. Relative Humidity Threshold: 67%. Sensor sync: Active.

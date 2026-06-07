@@ -12,6 +12,7 @@ lng: -88.4500
 zipSample: ["49946"]
 zipCodes: ["49946"]
 localPaths: ["Baraga County / ZIP 49946 sector", "Baraga County / elevation 715 ft band", "Baraga County / primary ZIP 49946", "Baraga County / coords 46.7500, -88.4500"]
+zillowHomeValueUsd: 164634
 ---
 
 **Engineering Notice for L'Anse:** Facade Renewal was validated under stress factor 1.09; target tolerance set near 106 mph. Grid anchor: Baraga County.

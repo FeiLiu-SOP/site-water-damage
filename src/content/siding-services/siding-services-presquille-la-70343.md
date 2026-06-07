@@ -12,6 +12,7 @@ lng: -90.6400
 zipSample: ["70363", "70343"]
 zipCodes: ["70363", "70343"]
 localPaths: ["Terrebonne Parish / primary ZIP 70343", "Terrebonne Parish / ZIP 70363 sector", "Terrebonne Parish / coords 29.5600, -90.6400", "Terrebonne Parish / elevation 16 ft band", "Terrebonne Parish / ZIP 70343 sector"]
+zillowHomeValueUsd: 230074
 ---
 
 **Engineering Notice for Presquille:** Vinyl Panels was validated under stress factor 1.12; target tolerance set near 94 mph. Grid anchor: Terrebonne Parish.

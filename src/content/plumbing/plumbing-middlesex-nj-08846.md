@@ -12,6 +12,7 @@ lng: -74.5000
 zipSample: ["08846"]
 zipCodes: ["08846"]
 localPaths: ["Middlesex County / coords 40.5700, -74.5000", "Middlesex County / elevation 52 ft band", "Middlesex County / ZIP 08846 sector", "Middlesex County / primary ZIP 08846"]
+zillowHomeValueUsd: 537820
 ---
 
 **Engineering Notice for Middlesex:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Middlesex County.

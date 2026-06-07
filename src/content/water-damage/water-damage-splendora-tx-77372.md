@@ -12,6 +12,7 @@ lng: -95.1600
 zipSample: ["77372"]
 zipCodes: ["77372"]
 localPaths: ["Montgomery County / ZIP 77372 sector", "Montgomery County / coords 30.2300, -95.1600", "Montgomery County / elevation 144 ft band", "Montgomery County / primary ZIP 77372"]
+zillowHomeValueUsd: 240804
 ---
 
 **Engineering Notice for Splendora:** structural drying capacity optimized for 144ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Montgomery County. Relative Humidity Threshold: 81%. Sensor sync: Active.

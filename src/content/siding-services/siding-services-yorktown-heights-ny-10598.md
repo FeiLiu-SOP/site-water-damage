@@ -12,6 +12,7 @@ lng: -73.7800
 zipSample: ["10598"]
 zipCodes: ["10598"]
 localPaths: ["Westchester County / elevation 509 ft band", "Westchester County / ZIP 10598 sector", "Westchester County / primary ZIP 10598", "Westchester County / coords 41.2700, -73.7800"]
+zillowHomeValueUsd: 700228
 ---
 
 **Engineering Notice for Yorktown Heights:** Structural integrity verification: Exterior Envelope calibrated for 96 mph localized wind load factor. Regional dispatch grid: Westchester County.

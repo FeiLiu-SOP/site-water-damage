@@ -12,6 +12,7 @@ lng: -123.2000
 zipSample: ["95470"]
 zipCodes: ["95470"]
 localPaths: ["Mendocino County / coords 39.2700, -123.2000", "Mendocino County / ZIP 95470 sector", "Mendocino County / elevation 781 ft band", "Mendocino County / primary ZIP 95470"]
+zillowHomeValueUsd: 538943
 ---
 
 **Engineering Notice for Redwood Valley:** System optimized for 120 mg/L hard water scaling factors in Redwood Valley. Regional dispatch grid: Mendocino County.

@@ -11,6 +11,7 @@ lng: -80.7700
 zipSample: ["32926", "32922"]
 zipCodes: ["32922", "32926"]
 localPaths: ["Brevard County / ZIP 32922 sector", "Brevard County / primary ZIP 32922", "Brevard County / elevation 39 ft band", "Brevard County / coords 28.3800, -80.7700", "Brevard County / ZIP 32926 sector"]
+zillowHomeValueUsd: 199957
 ---
 
 **Engineering Notice for Cocoa:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Brevard County.

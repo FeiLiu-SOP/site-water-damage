@@ -12,6 +12,7 @@ lng: -84.6000
 zipSample: ["39866"]
 zipCodes: ["39866"]
 localPaths: ["Calhoun County / elevation 262 ft band", "Calhoun County / primary ZIP 39866", "Calhoun County / coords 31.5400, -84.6000", "Calhoun County / ZIP 39866 sector"]
+zillowHomeValueUsd: 122874
 ---
 
 **Engineering Notice for Morgan:** System optimized for 132 mg/L hard water scaling factors in Morgan. Regional dispatch grid: Calhoun County.

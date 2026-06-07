@@ -11,6 +11,7 @@ lng: -94.9200
 zipSample: ["66048", "66027"]
 zipCodes: ["66048", "66027"]
 localPaths: ["Leavenworth County / ZIP 66048 sector", "Leavenworth County / ZIP 66027 sector", "Leavenworth County / coords 39.3200, -94.9200", "Leavenworth County / elevation 860 ft band", "Leavenworth County / primary ZIP 66027"]
+zillowHomeValueUsd: 260107
 ---
 
 **Engineering Notice for Leavenworth:** Structural loading calculated based on 860 ft terrain assessment. Regional dispatch grid: Leavenworth County.

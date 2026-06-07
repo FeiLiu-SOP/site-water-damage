@@ -12,6 +12,7 @@ lng: -119.3000
 zipSample: ["93291"]
 zipCodes: ["93291"]
 localPaths: ["Tulare County / coords 36.3800, -119.3000", "Tulare County / ZIP 93291 sector", "Tulare County / elevation 341 ft band", "Tulare County / primary ZIP 93291"]
+zillowHomeValueUsd: 426597
 ---
 
 **Engineering Notice for Patterson Tract:** System optimized for 152 mg/L hard water scaling factors in Patterson Tract. Regional dispatch grid: Tulare County.

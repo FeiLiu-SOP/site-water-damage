@@ -12,6 +12,7 @@ lng: -89.7500
 zipSample: ["53515"]
 zipCodes: ["53515"]
 localPaths: ["Dane County / coords 43.1300, -89.7500", "Dane County / primary ZIP 53515", "Dane County / elevation 827 ft band", "Dane County / ZIP 53515 sector"]
+zillowHomeValueUsd: 431456
 ---
 
 **Engineering Notice for Black Earth:** Envelope check: Panel Replacement assigned to wind-load band B with stress factor 1.07. Elevation: 827 ft AMSL. Regional dispatch grid: Dane County.

@@ -12,6 +12,7 @@ lng: -76.5300
 zipSample: ["17368"]
 zipCodes: ["17368"]
 localPaths: ["York County / elevation 328 ft band", "York County / ZIP 17368 sector", "York County / primary ZIP 17368", "York County / coords 40.0200, -76.5300"]
+zillowHomeValueUsd: 274085
 ---
 
 **Engineering Notice for Wrightsville:** System optimized for 139 mg/L hard water scaling factors in Wrightsville. Regional dispatch grid: York County.

@@ -12,6 +12,7 @@ lng: -82.3700
 zipSample: ["33637", "33619", "33617", "33610", "33601"]
 zipCodes: ["33637", "33617", "33601", "33610", "33680", "33619"]
 localPaths: ["Hillsborough County / elevation 43 ft band", "Hillsborough County / ZIP 33637 sector", "Hillsborough County / ZIP 33619 sector", "Hillsborough County / ZIP 33610 sector", "Hillsborough County / coords 28.0000, -82.3700"]
+zillowHomeValueUsd: 295200
 ---
 
 **Engineering Notice for East Lake-Orient Park:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Hillsborough County.

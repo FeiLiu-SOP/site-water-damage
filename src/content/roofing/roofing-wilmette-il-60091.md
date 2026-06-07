@@ -11,6 +11,7 @@ lng: -87.7300
 zipSample: ["60091"]
 zipCodes: ["60091"]
 localPaths: ["Cook County / coords 42.0800, -87.7300", "Cook County / ZIP 60091 sector", "Cook County / primary ZIP 60091", "Cook County / elevation 646 ft band"]
+zillowHomeValueUsd: 960807
 ---
 
 **Engineering Notice for Wilmette:** Structural loading calculated based on 646 ft terrain assessment. Regional dispatch grid: Cook County.

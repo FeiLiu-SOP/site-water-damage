@@ -12,6 +12,7 @@ lng: -80.1400
 zipSample: ["27052"]
 zipCodes: ["27052"]
 localPaths: ["Stokes County / elevation 640 ft band", "Stokes County / primary ZIP 27052", "Stokes County / ZIP 27052 sector", "Stokes County / coords 36.2900, -80.1400"]
+zillowHomeValueUsd: 240444
 ---
 
 **Engineering Notice for Walnut Cove:** structural drying capacity optimized for 640ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stokes County. Relative Humidity Threshold: 66%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -94.9800
 zipSample: ["56087"]
 zipCodes: ["56087"]
 localPaths: ["Brown County / ZIP 56087 sector", "Brown County / primary ZIP 56087", "Brown County / coords 44.2400, -94.9800", "Brown County / elevation 1060 ft band"]
+zillowHomeValueUsd: 206977
 ---
 
 **Engineering Notice for Springfield:** System optimized for 156 mg/L hard water scaling factors in Springfield. Regional dispatch grid: Brown County.

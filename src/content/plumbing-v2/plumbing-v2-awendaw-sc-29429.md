@@ -12,6 +12,7 @@ lng: -79.6600
 zipSample: ["29429"]
 zipCodes: ["29429"]
 localPaths: ["Charleston County / primary ZIP 29429", "Charleston County / elevation 23 ft band", "Charleston County / ZIP 29429 sector", "Charleston County / coords 32.9700, -79.6600"]
+zillowHomeValueUsd: 759801
 ---
 
 **Engineering Notice for Awendaw:** System optimized for 133 mg/L hard water scaling factors in Awendaw. Regional dispatch grid: Charleston County.

@@ -12,6 +12,7 @@ lng: -93.9600
 zipSample: ["56441"]
 zipCodes: ["56441"]
 localPaths: ["Crow Wing County / elevation 1234 ft band", "Crow Wing County / primary ZIP 56441", "Crow Wing County / ZIP 56441 sector", "Crow Wing County / coords 46.4900, -93.9600"]
+zillowHomeValueUsd: 240607
 ---
 
 **Engineering Notice for Crosby:** Wall Restoration was validated under stress factor 1.14; target tolerance set near 95 mph. Grid anchor: Crow Wing County.

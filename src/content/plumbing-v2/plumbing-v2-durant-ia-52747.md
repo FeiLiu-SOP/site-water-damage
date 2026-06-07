@@ -12,6 +12,7 @@ lng: -90.9100
 zipSample: ["52747"]
 zipCodes: ["52747"]
 localPaths: ["Cedar County / primary ZIP 52747", "Cedar County / ZIP 52747 sector", "Cedar County / coords 41.6000, -90.9100", "Cedar County / elevation 719 ft band"]
+zillowHomeValueUsd: 236756
 ---
 
 **Engineering Notice for Durant:** System optimized for 178 mg/L hard water scaling factors in Durant. Regional dispatch grid: Cedar County.

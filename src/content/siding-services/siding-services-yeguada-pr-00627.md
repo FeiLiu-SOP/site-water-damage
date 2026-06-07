@@ -12,6 +12,8 @@ lng: -66.8800
 zipSample: ["00627"]
 zipCodes: ["00627"]
 localPaths: ["Camuy County / ZIP 00627 sector", "Camuy County / elevation 125 ft band", "Camuy County / primary ZIP 00627", "Camuy County / coords 18.4800, -66.8800"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 373555
 ---
 
 **Engineering Notice for Yeguada:** Exterior Cladding was validated under stress factor 1.06; target tolerance set near 90 mph. Coordinates: 18.4800, -66.8800. Grid anchor: Camuy County.

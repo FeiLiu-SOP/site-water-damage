@@ -12,6 +12,7 @@ lng: -117.0200
 zipSample: ["92064", "92074"]
 zipCodes: ["92074", "92064"]
 localPaths: ["San Diego County / ZIP 92074 sector", "San Diego County / ZIP 92064 sector", "San Diego County / coords 32.9900, -117.0200", "San Diego County / elevation 705 ft band", "San Diego County / primary ZIP 92064"]
+zillowHomeValueUsd: 1235010
 ---
 
 **Engineering Notice for Poway:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: San Diego County.

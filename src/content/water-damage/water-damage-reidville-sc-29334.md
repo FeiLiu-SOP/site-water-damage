@@ -12,6 +12,7 @@ lng: -82.1100
 zipSample: ["29388", "29334", "29375"]
 zipCodes: ["29388", "29334", "29375"]
 localPaths: ["Spartanburg County / primary ZIP 29334", "Spartanburg County / elevation 820 ft band", "Spartanburg County / ZIP 29334 sector", "Spartanburg County / ZIP 29375 sector", "Spartanburg County / ZIP 29388 sector"]
+zillowHomeValueUsd: 309539
 ---
 
 **Engineering Notice for Reidville:** structural drying capacity optimized for 820ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Spartanburg County. Relative Humidity Threshold: 73%. Sensor sync: Active.

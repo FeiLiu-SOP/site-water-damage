@@ -12,6 +12,7 @@ lng: -98.1500
 zipSample: ["78542", "78589"]
 zipCodes: ["78589", "78542"]
 localPaths: ["Hidalgo County / ZIP 78589 sector", "Hidalgo County / ZIP 78542 sector", "Hidalgo County / coords 26.2500, -98.1500", "Hidalgo County / primary ZIP 78589", "Hidalgo County / elevation 115 ft band"]
+zillowHomeValueUsd: 183960
 ---
 
 **Engineering Notice for Lopezville:** Envelope check: Exterior Cladding assigned to wind-load band C with stress factor 0.85. Elevation: 115 ft AMSL. Regional dispatch grid: Hidalgo County.

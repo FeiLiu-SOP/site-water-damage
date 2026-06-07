@@ -11,6 +11,7 @@ lng: -92.4800
 zipSample: ["55902", "55903", "55904", "55905", "55901"]
 zipCodes: ["55903", "55901", "55902", "55904", "55905", "55906"]
 localPaths: ["Olmsted County / coords 44.0200, -92.4800", "Olmsted County / ZIP 55905 sector", "Olmsted County / ZIP 55901 sector", "Olmsted County / primary ZIP 55902", "Olmsted County / ZIP 55904 sector"]
+zillowHomeValueUsd: 468242
 ---
 
 **Engineering Notice for Rochester:** Structural loading calculated based on 1129 ft terrain assessment. Regional dispatch grid: Olmsted County.

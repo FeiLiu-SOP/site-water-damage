@@ -12,6 +12,7 @@ lng: -91.3100
 zipSample: ["54650"]
 zipCodes: ["54650"]
 localPaths: ["La Crosse County / primary ZIP 54650", "La Crosse County / coords 43.9400, -91.3100", "La Crosse County / ZIP 54650 sector", "La Crosse County / elevation 656 ft band"]
+zillowHomeValueUsd: 357567
 ---
 
 **Engineering Notice for Brice Prairie:** System optimized for 155 mg/L hard water scaling factors in Brice Prairie. Regional dispatch grid: La Crosse County.

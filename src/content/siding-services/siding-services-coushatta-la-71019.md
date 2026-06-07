@@ -12,6 +12,7 @@ lng: -93.3400
 zipSample: ["71019"]
 zipCodes: ["71019"]
 localPaths: ["Red River Parish / coords 32.0300, -93.3400", "Red River Parish / ZIP 71019 sector", "Red River Parish / primary ZIP 71019", "Red River Parish / elevation 161 ft band"]
+zillowHomeValueUsd: 150314
 ---
 
 **Engineering Notice for Coushatta:** Exterior Cladding was validated under stress factor 0.88; target tolerance set near 94 mph. Coordinates: 32.0300, -93.3400. Grid anchor: Red River Parish.

@@ -12,6 +12,7 @@ lng: -121.2300
 zipSample: ["95638", "95632"]
 zipCodes: ["95638", "95632"]
 localPaths: ["Sacramento County / elevation 75 ft band", "Sacramento County / coords 38.2900, -121.2300", "Sacramento County / primary ZIP 95632", "Sacramento County / ZIP 95632 sector", "Sacramento County / ZIP 95638 sector"]
+zillowHomeValueUsd: 533067
 ---
 
 **Engineering Notice for Herald:** Cladding verification uses 150 mph routing baseline; lateral pressure note: 19.2 psf. Elevation: 75 ft AMSL. Coordinates: 38.2900, -121.2300. Grid: Sacramento County.

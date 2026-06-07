@@ -12,6 +12,7 @@ lng: -74.5800
 zipSample: ["07920", "07938"]
 zipCodes: ["07938", "07920"]
 localPaths: ["Somerset County / primary ZIP 07920", "Somerset County / ZIP 07920 sector", "Somerset County / ZIP 07938 sector", "Somerset County / elevation 276 ft band", "Somerset County / coords 40.6600, -74.5800"]
+zillowHomeValueUsd: 916455
 ---
 
 **Engineering Notice for Liberty Corner:** Site context locked to Somerset County. Elevation: 276 ft AMSL. Panel Replacement integrity verification recorded.

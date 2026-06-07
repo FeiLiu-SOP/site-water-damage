@@ -11,6 +11,7 @@ lng: -117.4700
 zipSample: ["92883"]
 zipCodes: ["92883"]
 localPaths: ["Riverside County / ZIP 92883 sector", "Riverside County / coords 33.7600, -117.4700", "Riverside County / primary ZIP 92883", "Riverside County / elevation 1152 ft band"]
+zillowHomeValueUsd: 761461
 ---
 
 **Engineering Notice for Temescal Valley:** Structural loading calculated based on 1152 ft terrain assessment. Regional dispatch grid: Riverside County.

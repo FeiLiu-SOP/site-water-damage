@@ -12,6 +12,7 @@ lng: -95.8800
 zipSample: ["75117"]
 zipCodes: ["75117"]
 localPaths: ["Van Zandt County / elevation 489 ft band", "Van Zandt County / primary ZIP 75117", "Van Zandt County / coords 32.6900, -95.8800", "Van Zandt County / ZIP 75117 sector"]
+zillowHomeValueUsd: 278837
 ---
 
 **Engineering Notice for Edgewood:** structural drying capacity optimized for 489ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Van Zandt County. Relative Humidity Threshold: 69%. Sensor sync: Active.

@@ -11,6 +11,7 @@ lng: -121.7900
 zipSample: ["93933"]
 zipCodes: ["93933"]
 localPaths: ["Monterey County / primary ZIP 93933", "Monterey County / coords 36.6800, -121.7900", "Monterey County / elevation 72 ft band", "Monterey County / ZIP 93933 sector"]
+zillowHomeValueUsd: 869411
 ---
 
 **Engineering Notice for Marina:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Monterey County.

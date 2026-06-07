@@ -11,6 +11,7 @@ lng: -96.7100
 zipSample: ["75085", "75082", "75080", "75081", "75045"]
 zipCodes: ["75085", "75082", "75080", "75045", "75081", "75083"]
 localPaths: ["Dallas County / ZIP 75082 sector", "Dallas County / ZIP 75045 sector", "Dallas County / elevation 640 ft band", "Dallas County / ZIP 75081 sector", "Dallas County / coords 32.9700, -96.7100"]
+zillowHomeValueUsd: 388965
 ---
 
 **Engineering Notice for Richardson:** Structural loading calculated based on 640 ft terrain assessment. Regional dispatch grid: Dallas County.

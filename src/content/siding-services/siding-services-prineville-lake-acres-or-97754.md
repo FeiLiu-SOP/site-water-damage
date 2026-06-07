@@ -12,6 +12,7 @@ lng: -120.7900
 zipSample: ["97754"]
 zipCodes: ["97754"]
 localPaths: ["Crook County / elevation 3839 ft band", "Crook County / coords 44.1700, -120.7900", "Crook County / primary ZIP 97754", "Crook County / ZIP 97754 sector"]
+zillowHomeValueUsd: 425748
 ---
 
 **Engineering Notice for Prineville Lake Acres:** Weather Barrier Wrap was validated under stress factor 0.86; target tolerance set near 92 mph. Grid anchor: Crook County.

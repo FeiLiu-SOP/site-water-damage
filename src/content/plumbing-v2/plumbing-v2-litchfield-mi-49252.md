@@ -12,6 +12,7 @@ lng: -84.7600
 zipSample: ["49252"]
 zipCodes: ["49252"]
 localPaths: ["Hillsdale County / ZIP 49252 sector", "Hillsdale County / primary ZIP 49252", "Hillsdale County / coords 42.0400, -84.7600", "Hillsdale County / elevation 1027 ft band"]
+zillowHomeValueUsd: 182457
 ---
 
 **Engineering Notice for Litchfield:** System optimized for 143 mg/L hard water scaling factors in Litchfield. Regional dispatch grid: Hillsdale County.

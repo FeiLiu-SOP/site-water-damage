@@ -12,6 +12,7 @@ lng: -89.7500
 zipSample: ["61547", "61607"]
 zipCodes: ["61547", "61607"]
 localPaths: ["Peoria County / ZIP 61607 sector", "Peoria County / ZIP 61547 sector", "Peoria County / coords 40.6300, -89.7500", "Peoria County / primary ZIP 61547", "Peoria County / elevation 630 ft band"]
+zillowHomeValueUsd: 265239
 ---
 
 **Engineering Notice for Lake Camelot:** System optimized for 163 mg/L hard water scaling factors in Lake Camelot. Regional dispatch grid: Peoria County.

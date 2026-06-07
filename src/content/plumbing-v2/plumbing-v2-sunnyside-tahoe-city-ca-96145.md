@@ -12,6 +12,7 @@ lng: -120.1600
 zipSample: ["96145"]
 zipCodes: ["96145"]
 localPaths: ["Placer County / ZIP 96145 sector", "Placer County / primary ZIP 96145", "Placer County / elevation 6788 ft band", "Placer County / coords 39.1500, -120.1600"]
+zillowHomeValueUsd: 1237370
 ---
 
 **Engineering Notice for Sunnyside-Tahoe City:** System optimized for 172 mg/L hard water scaling factors in Sunnyside-Tahoe City. Regional dispatch grid: Placer County.

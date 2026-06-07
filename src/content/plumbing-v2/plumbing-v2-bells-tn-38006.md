@@ -12,6 +12,7 @@ lng: -89.0900
 zipSample: ["38006"]
 zipCodes: ["38006"]
 localPaths: ["Crockett County / elevation 374 ft band", "Crockett County / ZIP 38006 sector", "Crockett County / primary ZIP 38006", "Crockett County / coords 35.7200, -89.0900"]
+zillowHomeValueUsd: 206551
 ---
 
 **Engineering Notice for Bells:** System optimized for 179 mg/L hard water scaling factors in Bells. Regional dispatch grid: Crockett County.

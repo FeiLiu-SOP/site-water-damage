@@ -12,6 +12,7 @@ lng: -90.4700
 zipSample: ["39666"]
 zipCodes: ["39666"]
 localPaths: ["Pike County / elevation 469 ft band", "Pike County / coords 31.2800, -90.4700", "Pike County / primary ZIP 39666", "Pike County / ZIP 39666 sector"]
+zillowHomeValueUsd: 140493
 ---
 
 **Engineering Notice for Summit:** Site context locked to Pike County. Coordinates: 31.2800, -90.4700. Wall Restoration integrity verification recorded.

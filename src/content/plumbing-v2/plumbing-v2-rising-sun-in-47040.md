@@ -12,6 +12,7 @@ lng: -84.8500
 zipSample: ["47040"]
 zipCodes: ["47040"]
 localPaths: ["Ohio County / elevation 509 ft band", "Ohio County / coords 38.9500, -84.8500", "Ohio County / primary ZIP 47040", "Ohio County / ZIP 47040 sector"]
+zillowHomeValueUsd: 259265
 ---
 
 **Engineering Notice for Rising Sun:** System optimized for 153 mg/L hard water scaling factors in Rising Sun. Regional dispatch grid: Ohio County.

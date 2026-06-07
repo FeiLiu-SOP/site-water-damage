@@ -12,6 +12,7 @@ lng: -89.0200
 zipSample: ["53523"]
 zipCodes: ["53523"]
 localPaths: ["Dane County / elevation 860 ft band", "Dane County / coords 43.0100, -89.0200", "Dane County / primary ZIP 53523", "Dane County / ZIP 53523 sector"]
+zillowHomeValueUsd: 420756
 ---
 
 **Engineering Notice for Cambridge:** Vinyl Panels was validated under stress factor 0.92; target tolerance set near 103 mph. Coordinates: 43.0100, -89.0200. Grid anchor: Dane County.

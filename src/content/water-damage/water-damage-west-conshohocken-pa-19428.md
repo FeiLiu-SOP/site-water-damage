@@ -12,6 +12,7 @@ lng: -75.3200
 zipSample: ["19428"]
 zipCodes: ["19428"]
 localPaths: ["Montgomery County / ZIP 19428 sector", "Montgomery County / primary ZIP 19428", "Montgomery County / elevation 226 ft band", "Montgomery County / coords 40.0700, -75.3200"]
+zillowHomeValueUsd: 493197
 ---
 
 **Engineering Notice for West Conshohocken:** structural drying capacity optimized for 226ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Montgomery County. Relative Humidity Threshold: 83%. Sensor sync: Active.

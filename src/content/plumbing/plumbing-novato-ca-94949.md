@@ -12,6 +12,7 @@ lng: -122.5600
 zipSample: ["94945", "94947", "94949", "94998"]
 zipCodes: ["94945", "94949", "94947", "94998"]
 localPaths: ["Marin County / coords 38.0900, -122.5600", "Marin County / ZIP 94945 sector", "Marin County / primary ZIP 94949", "Marin County / elevation 10 ft band", "Marin County / ZIP 94949 sector"]
+zillowHomeValueUsd: 1237200
 ---
 
 **Engineering Notice for Novato:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Marin County.

@@ -12,6 +12,7 @@ lng: -80.6100
 zipSample: ["43920"]
 zipCodes: ["43920"]
 localPaths: ["Columbiana County / elevation 1148 ft band", "Columbiana County / primary ZIP 43920", "Columbiana County / ZIP 43920 sector", "Columbiana County / coords 40.6600, -80.6100"]
+zillowHomeValueUsd: 103077
 ---
 
 **Engineering Notice for Glenmoor:** System optimized for 142 mg/L hard water scaling factors in Glenmoor. Regional dispatch grid: Columbiana County.

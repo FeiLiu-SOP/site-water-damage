@@ -12,6 +12,7 @@ lng: -82.9400
 zipSample: ["43231"]
 zipCodes: ["43231"]
 localPaths: ["Franklin County / primary ZIP 43231", "Franklin County / ZIP 43231 sector", "Franklin County / elevation 863 ft band", "Franklin County / coords 40.0800, -82.9400"]
+zillowHomeValueUsd: 273654
 ---
 
 **Engineering Notice for Minerva Park:** System optimized for 172 mg/L hard water scaling factors in Minerva Park. Regional dispatch grid: Franklin County.

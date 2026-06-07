@@ -11,6 +11,7 @@ lng: -73.7200
 zipSample: ["10528", "10580", "10577", "10604"]
 zipCodes: ["10580", "10528", "10604", "10577"]
 localPaths: ["Westchester County / ZIP 10528 sector", "Westchester County / ZIP 10580 sector", "Westchester County / ZIP 10577 sector", "Westchester County / ZIP 10604 sector", "Westchester County / primary ZIP 10580"]
+zillowHomeValueUsd: 2216660
 ---
 
 **Engineering Notice for Harrison:** Structural loading calculated based on 230 ft terrain assessment. Regional dispatch grid: Westchester County.

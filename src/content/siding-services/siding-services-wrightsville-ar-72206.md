@@ -12,6 +12,7 @@ lng: -92.2100
 zipSample: ["72183", "72206"]
 zipCodes: ["72206", "72183"]
 localPaths: ["Pulaski County / ZIP 72183 sector", "Pulaski County / ZIP 72206 sector", "Pulaski County / elevation 256 ft band", "Pulaski County / coords 34.6100, -92.2100", "Pulaski County / primary ZIP 72206"]
+zillowHomeValueUsd: 133292
 ---
 
 **Engineering Notice for Wrightsville:** Structural integrity verification: Exterior Envelope calibrated for 106 mph localized wind load factor. Elevation: 256 ft AMSL. Regional dispatch grid: Pulaski County.

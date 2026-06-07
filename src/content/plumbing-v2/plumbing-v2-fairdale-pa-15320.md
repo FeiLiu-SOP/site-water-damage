@@ -12,6 +12,7 @@ lng: -79.9700
 zipSample: ["15320"]
 zipCodes: ["15320"]
 localPaths: ["Greene County / ZIP 15320 sector", "Greene County / primary ZIP 15320", "Greene County / coords 39.8900, -79.9700", "Greene County / elevation 948 ft band"]
+zillowHomeValueUsd: 167371
 ---
 
 **Engineering Notice for Fairdale:** System optimized for 160 mg/L hard water scaling factors in Fairdale. Regional dispatch grid: Greene County.

@@ -12,6 +12,7 @@ lng: -80.1700
 zipSample: ["29455"]
 zipCodes: ["29455"]
 localPaths: ["Charleston County / coords 32.5800, -80.1700", "Charleston County / primary ZIP 29455", "Charleston County / ZIP 29455 sector", "Charleston County / elevation 3 ft band"]
+zillowHomeValueUsd: 739642
 ---
 
 **Engineering Notice for Seabrook Island:** Exterior Cladding was validated under stress factor 1.09; target tolerance set near 95 mph. Coordinates: 32.5800, -80.1700. Grid anchor: Charleston County.

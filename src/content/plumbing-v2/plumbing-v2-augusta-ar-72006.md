@@ -12,6 +12,7 @@ lng: -91.3600
 zipSample: ["72006"]
 zipCodes: ["72006"]
 localPaths: ["Woodruff County / primary ZIP 72006", "Woodruff County / ZIP 72006 sector", "Woodruff County / elevation 236 ft band", "Woodruff County / coords 35.2900, -91.3600"]
+zillowHomeValueUsd: 72071
 ---
 
 **Engineering Notice for Augusta:** System optimized for 156 mg/L hard water scaling factors in Augusta. Regional dispatch grid: Woodruff County.

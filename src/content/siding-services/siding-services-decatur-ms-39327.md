@@ -12,6 +12,7 @@ lng: -89.1100
 zipSample: ["39327"]
 zipCodes: ["39327"]
 localPaths: ["Newton County / coords 32.4300, -89.1100", "Newton County / ZIP 39327 sector", "Newton County / elevation 417 ft band", "Newton County / primary ZIP 39327"]
+zillowHomeValueUsd: 169480
 ---
 
 **Engineering Notice for Decatur:** Site context locked to Newton County. Elevation: 417 ft AMSL. Facade Renewal integrity verification recorded.

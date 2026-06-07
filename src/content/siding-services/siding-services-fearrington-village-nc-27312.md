@@ -12,6 +12,7 @@ lng: -79.0800
 zipSample: ["27312"]
 zipCodes: ["27312"]
 localPaths: ["Chatham County / ZIP 27312 sector", "Chatham County / primary ZIP 27312", "Chatham County / elevation 446 ft band", "Chatham County / coords 35.8000, -79.0800"]
+zillowHomeValueUsd: 562603
 ---
 
 **Engineering Notice for Fearrington Village:** Envelope check: Exterior Envelope assigned to wind-load band A with stress factor 1.20. Elevation: 446 ft AMSL. Regional dispatch grid: Chatham County.

@@ -12,6 +12,7 @@ lng: -83.5600
 zipSample: ["43044"]
 zipCodes: ["43044"]
 localPaths: ["Champaign County / elevation 1093 ft band", "Champaign County / coords 40.0700, -83.5600", "Champaign County / ZIP 43044 sector", "Champaign County / primary ZIP 43044"]
+zillowHomeValueUsd: 272707
 ---
 
 **Engineering Notice for Mechanicsburg:** Cladding verification uses 101 mph routing baseline; lateral pressure note: 13.3 psf. Elevation: 1093 ft AMSL. Grid: Champaign County.

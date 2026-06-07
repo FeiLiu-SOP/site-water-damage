@@ -11,6 +11,7 @@ lng: -89.5100
 zipSample: ["53562"]
 zipCodes: ["53562"]
 localPaths: ["Dane County / primary ZIP 53562", "Dane County / elevation 935 ft band", "Dane County / coords 43.1100, -89.5100", "Dane County / ZIP 53562 sector"]
+zillowHomeValueUsd: 618471
 ---
 
 **Engineering Notice for Middleton:** Structural loading calculated based on 935 ft terrain assessment. Regional dispatch grid: Dane County.

@@ -12,6 +12,7 @@ lng: -84.1800
 zipSample: ["45302"]
 zipCodes: ["45302"]
 localPaths: ["Shelby County / ZIP 45302 sector", "Shelby County / coords 40.4000, -84.1800", "Shelby County / elevation 1020 ft band", "Shelby County / primary ZIP 45302"]
+zillowHomeValueUsd: 321943
 ---
 
 **Engineering Notice for Anna:** Envelope check: Wall Restoration assigned to wind-load band A with stress factor 0.92. Elevation: 1020 ft AMSL. Regional dispatch grid: Shelby County.

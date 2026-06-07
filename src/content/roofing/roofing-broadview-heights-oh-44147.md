@@ -11,6 +11,7 @@ lng: -81.6800
 zipSample: ["44147"]
 zipCodes: ["44147"]
 localPaths: ["Cuyahoga County / coords 41.3200, -81.6800", "Cuyahoga County / elevation 1181 ft band", "Cuyahoga County / primary ZIP 44147", "Cuyahoga County / ZIP 44147 sector"]
+zillowHomeValueUsd: 366175
 ---
 
 **Engineering Notice for Broadview Heights:** Structural loading calculated based on 1181 ft terrain assessment. Regional dispatch grid: Cuyahoga County.

@@ -12,6 +12,7 @@ lng: -97.5100
 zipSample: ["76078"]
 zipCodes: ["76078"]
 localPaths: ["Wise County / primary ZIP 76078", "Wise County / ZIP 76078 sector", "Wise County / coords 33.0600, -97.5100", "Wise County / elevation 768 ft band"]
+zillowHomeValueUsd: 367212
 ---
 
 **Engineering Notice for Aurora:** Structural integrity verification: Weather Barrier Wrap calibrated for 150 mph localized wind load factor. Elevation: 768 ft AMSL. Regional dispatch grid: Wise County.

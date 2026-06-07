@@ -11,6 +11,7 @@ lng: -112.0900
 zipSample: ["85068", "85028", "85054", "85029", "85005"]
 zipCodes: ["85061", "85006", "85009", "85020", "85028", "85066", "85024", "85036", "85062", "85310", "85266", "85040"]
 localPaths: ["Maricopa County / ZIP 85029 sector", "Maricopa County / elevation 1243 ft band", "Maricopa County / coords 33.5700, -112.0900", "Maricopa County / ZIP 85005 sector", "Maricopa County / ZIP 85068 sector"]
+zillowHomeValueUsd: 279098
 ---
 
 **Engineering Notice for Phoenix:** Structural loading calculated based on 1243 ft terrain assessment. Regional dispatch grid: Maricopa County.

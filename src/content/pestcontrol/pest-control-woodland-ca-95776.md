@@ -11,6 +11,7 @@ lng: -121.7500
 zipSample: ["95776", "95695"]
 zipCodes: ["95695", "95776"]
 localPaths: ["Yolo County / primary ZIP 95776", "Yolo County / ZIP 95776 sector", "Yolo County / ZIP 95695 sector", "Yolo County / coords 38.6700, -121.7500", "Yolo County / elevation 36 ft band"]
+zillowHomeValueUsd: 601678
 ---
 
 **Engineering Notice for Woodland:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Yolo County.

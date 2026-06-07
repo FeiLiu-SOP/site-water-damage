@@ -12,6 +12,7 @@ lng: -106.3500
 zipSample: ["81132"]
 zipCodes: ["81132"]
 localPaths: ["Rio Grande County / ZIP 81132 sector", "Rio Grande County / primary ZIP 81132", "Rio Grande County / elevation 7897 ft band", "Rio Grande County / coords 37.6800, -106.3500"]
+zillowHomeValueUsd: 303256
 ---
 
 **Engineering Notice for Del Norte:** System optimized for 154 mg/L hard water scaling factors in Del Norte. Regional dispatch grid: Rio Grande County.

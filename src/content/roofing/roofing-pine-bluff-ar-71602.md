@@ -11,6 +11,7 @@ lng: -92.0200
 zipSample: ["71603", "71611", "71601", "71602", "71612"]
 zipCodes: ["71612", "71601", "71602", "71603", "71611"]
 localPaths: ["Jefferson County / elevation 240 ft band", "Jefferson County / ZIP 71602 sector", "Jefferson County / ZIP 71601 sector", "Jefferson County / ZIP 71603 sector", "Jefferson County / primary ZIP 71602"]
+zillowHomeValueUsd: 135560
 ---
 
 **Engineering Notice for Pine Bluff:** Structural loading calculated based on 240 ft terrain assessment. Regional dispatch grid: Jefferson County.

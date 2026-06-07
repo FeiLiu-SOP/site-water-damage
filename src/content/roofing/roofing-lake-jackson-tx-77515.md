@@ -11,6 +11,7 @@ lng: -95.4500
 zipSample: ["77566", "77515"]
 zipCodes: ["77566", "77515"]
 localPaths: ["Brazoria County / coords 29.0500, -95.4500", "Brazoria County / elevation 36 ft band", "Brazoria County / primary ZIP 77515", "Brazoria County / ZIP 77515 sector", "Brazoria County / ZIP 77566 sector"]
+zillowHomeValueUsd: 240719
 ---
 
 **Engineering Notice for Lake Jackson:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Brazoria County.

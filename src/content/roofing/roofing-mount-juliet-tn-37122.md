@@ -11,6 +11,7 @@ lng: -86.5100
 zipSample: ["37121", "37122"]
 zipCodes: ["37122", "37121"]
 localPaths: ["Wilson County / primary ZIP 37122", "Wilson County / elevation 577 ft band", "Wilson County / coords 36.2000, -86.5100", "Wilson County / ZIP 37122 sector", "Wilson County / ZIP 37121 sector"]
+zillowHomeValueUsd: 571618
 ---
 
 **Engineering Notice for Mount Juliet:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Wilson County.

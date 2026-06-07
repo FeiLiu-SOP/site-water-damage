@@ -11,6 +11,7 @@ lng: -71.5500
 zipSample: ["01752"]
 zipCodes: ["01752"]
 localPaths: ["Middlesex County / primary ZIP 01752", "Middlesex County / ZIP 01752 sector", "Middlesex County / elevation 440 ft band", "Middlesex County / coords 42.3500, -71.5500"]
+zillowHomeValueUsd: 579229
 ---
 
 **Engineering Notice for Marlborough:** Structural loading calculated based on 440 ft terrain assessment. Regional dispatch grid: Middlesex County.

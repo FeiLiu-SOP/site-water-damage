@@ -12,6 +12,7 @@ lng: -87.9000
 zipSample: ["35466"]
 zipCodes: ["35466"]
 localPaths: ["Pickens County / elevation 295 ft band", "Pickens County / ZIP 35466 sector", "Pickens County / coords 33.3200, -87.9000", "Pickens County / primary ZIP 35466"]
+zillowHomeValueUsd: 178788
 ---
 
 **Engineering Notice for Gordo:** Site context locked to Pickens County. Coordinates: 33.3200, -87.9000. Exterior Envelope integrity verification recorded.

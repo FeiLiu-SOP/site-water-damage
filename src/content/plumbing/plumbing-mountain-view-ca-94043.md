@@ -12,6 +12,7 @@ lng: -122.0800
 zipSample: ["94041", "94042", "94039", "94043", "94040"]
 zipCodes: ["94041", "94042", "94039", "94043", "94040"]
 localPaths: ["Santa Clara County / elevation 56 ft band", "Santa Clara County / coords 37.4000, -122.0800", "Santa Clara County / ZIP 94043 sector", "Santa Clara County / ZIP 94041 sector", "Santa Clara County / ZIP 94039 sector"]
+zillowHomeValueUsd: 1599228
 ---
 
 **Engineering Notice for Mountain View:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Santa Clara County.

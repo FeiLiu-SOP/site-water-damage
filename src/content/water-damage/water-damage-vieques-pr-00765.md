@@ -12,6 +12,8 @@ lng: -65.4400
 zipSample: ["00765"]
 zipCodes: ["00765"]
 localPaths: ["Vieques County / ZIP 00765 sector", "Vieques County / coords 18.1500, -65.4400", "Vieques County / primary ZIP 00765", "Vieques County / elevation 121 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 363726
 ---
 
 **Engineering Notice for Vieques:** structural drying capacity optimized for 121ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Vieques County. Relative Humidity Threshold: 76%. Sensor sync: Active.

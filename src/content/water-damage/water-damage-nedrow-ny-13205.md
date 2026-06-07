@@ -12,6 +12,7 @@ lng: -76.1400
 zipSample: ["13120", "13205"]
 zipCodes: ["13205", "13120"]
 localPaths: ["Onondaga County / ZIP 13120 sector", "Onondaga County / ZIP 13205 sector", "Onondaga County / elevation 459 ft band", "Onondaga County / primary ZIP 13205", "Onondaga County / coords 42.9800, -76.1400"]
+zillowHomeValueUsd: 142708
 ---
 
 **Engineering Notice for Nedrow:** structural drying capacity optimized for 459ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Onondaga County. Relative Humidity Threshold: 81%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -145.6100
 zipSample: ["99574"]
 zipCodes: ["99574"]
 localPaths: ["Chugach County / coords 60.5300, -145.6100", "Chugach County / elevation 0 ft band", "Chugach County / ZIP 99574 sector", "Chugach County / primary ZIP 99574"]
+zillowHomeValueUsd: 377451
 ---
 
 **Engineering Notice for Cordova:** System optimized for 144 mg/L hard water scaling factors in Cordova. Regional dispatch grid: Chugach County.

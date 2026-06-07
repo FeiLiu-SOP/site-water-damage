@@ -12,6 +12,7 @@ lng: -83.8800
 zipSample: ["45384", "45385"]
 zipCodes: ["45384", "45385"]
 localPaths: ["Greene County / primary ZIP 45385", "Greene County / coords 39.7200, -83.8800", "Greene County / ZIP 45385 sector", "Greene County / elevation 1020 ft band", "Greene County / ZIP 45384 sector"]
+zillowHomeValueUsd: 253901
 ---
 
 **Engineering Notice for Wilberforce:** System optimized for 131 mg/L hard water scaling factors in Wilberforce. Regional dispatch grid: Greene County.

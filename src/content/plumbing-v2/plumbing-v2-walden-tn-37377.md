@@ -12,6 +12,7 @@ lng: -85.3100
 zipSample: ["37377"]
 zipCodes: ["37377"]
 localPaths: ["Hamilton County / elevation 1972 ft band", "Hamilton County / ZIP 37377 sector", "Hamilton County / coords 35.1600, -85.3100", "Hamilton County / primary ZIP 37377"]
+zillowHomeValueUsd: 628074
 ---
 
 **Engineering Notice for Walden:** System optimized for 120 mg/L hard water scaling factors in Walden. Regional dispatch grid: Hamilton County.

@@ -11,6 +11,7 @@ lng: -82.7200
 zipSample: ["34690", "34652", "34680", "34653"]
 zipCodes: ["34652", "34680", "34653", "34690"]
 localPaths: ["Pasco County / elevation 39 ft band", "Pasco County / primary ZIP 34690", "Pasco County / coords 28.2100, -82.7200", "Pasco County / ZIP 34653 sector", "Pasco County / ZIP 34652 sector"]
+zillowHomeValueUsd: 219577
 ---
 
 **Engineering Notice for Elfers:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Pasco County.

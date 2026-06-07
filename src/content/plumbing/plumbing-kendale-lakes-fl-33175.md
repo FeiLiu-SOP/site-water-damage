@@ -12,6 +12,7 @@ lng: -80.4100
 zipSample: ["33175", "33183"]
 zipCodes: ["33183", "33175"]
 localPaths: ["Miami-Dade County / ZIP 33175 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / primary ZIP 33175", "Miami-Dade County / coords 25.7100, -80.4100", "Miami-Dade County / ZIP 33183 sector"]
+zillowHomeValueUsd: 622066
 ---
 
 **Engineering Notice for Kendale Lakes:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

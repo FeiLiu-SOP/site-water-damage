@@ -12,6 +12,7 @@ lng: -122.4700
 zipSample: ["94017", "94016", "94014", "94015"]
 zipCodes: ["94017", "94016", "94014", "94015"]
 localPaths: ["San Mateo County / coords 37.6900, -122.4700", "San Mateo County / primary ZIP 94015", "San Mateo County / ZIP 94016 sector", "San Mateo County / elevation 157 ft band", "San Mateo County / ZIP 94014 sector"]
+zillowHomeValueUsd: 1197146
 ---
 
 **Engineering Notice for Daly City:** Structural loading calculated based on 157 ft terrain assessment. Regional dispatch grid: San Mateo County.

@@ -12,6 +12,7 @@ lng: -95.3500
 zipSample: ["77534"]
 zipCodes: ["77534"]
 localPaths: ["Brazoria County / ZIP 77534 sector", "Brazoria County / primary ZIP 77534", "Brazoria County / elevation 43 ft band", "Brazoria County / coords 29.2300, -95.3500"]
+zillowHomeValueUsd: 275871
 ---
 
 **Engineering Notice for Danbury:** Site context locked to Brazoria County. Coordinates: 29.2300, -95.3500. Cladding Service integrity verification recorded.

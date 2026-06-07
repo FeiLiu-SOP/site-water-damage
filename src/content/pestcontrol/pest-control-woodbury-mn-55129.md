@@ -11,6 +11,7 @@ lng: -92.9200
 zipSample: ["55129", "55125"]
 zipCodes: ["55125", "55129"]
 localPaths: ["Washington County / elevation 978 ft band", "Washington County / ZIP 55129 sector", "Washington County / ZIP 55125 sector", "Washington County / coords 44.9100, -92.9200", "Washington County / primary ZIP 55129"]
+zillowHomeValueUsd: 533061
 ---
 
 **Engineering Notice for Woodbury:** Structural loading calculated based on 978 ft terrain assessment. Regional dispatch grid: Washington County.

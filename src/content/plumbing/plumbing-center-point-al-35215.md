@@ -12,6 +12,7 @@ lng: -86.6900
 zipSample: ["35215"]
 zipCodes: ["35215"]
 localPaths: ["Jefferson County / elevation 853 ft band", "Jefferson County / primary ZIP 35215", "Jefferson County / ZIP 35215 sector", "Jefferson County / coords 33.6400, -86.6900"]
+zillowHomeValueUsd: 150987
 ---
 
 **Engineering Notice for Center Point:** Structural loading calculated based on 853 ft terrain assessment. Regional dispatch grid: Jefferson County.

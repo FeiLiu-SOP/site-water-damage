@@ -12,6 +12,7 @@ lng: -98.4000
 zipSample: ["78572"]
 zipCodes: ["78572"]
 localPaths: ["Hidalgo County / primary ZIP 78572", "Hidalgo County / elevation 164 ft band", "Hidalgo County / coords 26.2500, -98.4000", "Hidalgo County / ZIP 78572 sector"]
+zillowHomeValueUsd: 197898
 ---
 
 **Engineering Notice for Perezville:** structural drying capacity optimized for 164ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hidalgo County. Relative Humidity Threshold: 77%. Sensor sync: Active.

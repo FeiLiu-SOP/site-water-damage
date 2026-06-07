@@ -12,6 +12,7 @@ lng: -117.6600
 zipSample: ["91785", "91784", "91786"]
 zipCodes: ["91786", "91784", "91785"]
 localPaths: ["San Bernardino County / ZIP 91784 sector", "San Bernardino County / coords 34.1200, -117.6600", "San Bernardino County / elevation 1483 ft band", "San Bernardino County / ZIP 91785 sector", "San Bernardino County / ZIP 91786 sector"]
+zillowHomeValueUsd: 986180
 ---
 
 **Engineering Notice for Upland:** Structural loading calculated based on 1483 ft terrain assessment. Regional dispatch grid: San Bernardino County.

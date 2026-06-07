@@ -12,6 +12,7 @@ lng: -99.5600
 zipSample: ["67637"]
 zipCodes: ["67637"]
 localPaths: ["Ellis County / coords 38.9300, -99.5600", "Ellis County / elevation 2165 ft band", "Ellis County / primary ZIP 67637", "Ellis County / ZIP 67637 sector"]
+zillowHomeValueUsd: 170283
 ---
 
 **Engineering Notice for Ellis:** System optimized for 175 mg/L hard water scaling factors in Ellis. Regional dispatch grid: Ellis County.

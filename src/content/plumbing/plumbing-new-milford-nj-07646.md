@@ -12,6 +12,7 @@ lng: -74.0200
 zipSample: ["07646"]
 zipCodes: ["07646"]
 localPaths: ["Bergen County / primary ZIP 07646", "Bergen County / coords 40.9300, -74.0200", "Bergen County / elevation 36 ft band", "Bergen County / ZIP 07646 sector"]
+zillowHomeValueUsd: 728346
 ---
 
 **Engineering Notice for New Milford:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Bergen County.

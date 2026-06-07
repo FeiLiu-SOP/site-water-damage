@@ -12,6 +12,7 @@ lng: -94.3200
 zipSample: ["72713", "72734"]
 zipCodes: ["72734", "72713"]
 localPaths: ["Benton County / primary ZIP 72713", "Benton County / ZIP 72734 sector", "Benton County / coords 36.2800, -94.3200", "Benton County / elevation 1276 ft band", "Benton County / ZIP 72713 sector"]
+zillowHomeValueUsd: 454982
 ---
 
 **Engineering Notice for Highfill:** System optimized for 125 mg/L hard water scaling factors in Highfill. Regional dispatch grid: Benton County.

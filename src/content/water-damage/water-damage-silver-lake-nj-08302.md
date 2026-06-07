@@ -12,6 +12,7 @@ lng: -75.2400
 zipSample: ["08302"]
 zipCodes: ["08302"]
 localPaths: ["Cumberland County / coords 39.4700, -75.2400", "Cumberland County / primary ZIP 08302", "Cumberland County / ZIP 08302 sector", "Cumberland County / elevation 69 ft band"]
+zillowHomeValueUsd: 252922
 ---
 
 **Engineering Notice for Silver Lake:** structural drying capacity optimized for 69ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cumberland County. Relative Humidity Threshold: 85%. Sensor sync: Active.

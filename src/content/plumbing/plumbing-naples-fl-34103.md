@@ -12,6 +12,7 @@ lng: -81.7900
 zipSample: ["34104", "34106", "34105", "34101", "34102"]
 zipCodes: ["34102", "34101", "34104", "34105", "34103", "34106"]
 localPaths: ["Collier County / ZIP 34105 sector", "Collier County / ZIP 34104 sector", "Collier County / primary ZIP 34103", "Collier County / elevation 20 ft band", "Collier County / ZIP 34102 sector"]
+zillowHomeValueUsd: 1108376
 ---
 
 **Engineering Notice for Naples:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Collier County.

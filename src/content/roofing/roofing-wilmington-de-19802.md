@@ -11,6 +11,7 @@ lng: -75.5400
 zipSample: ["19806", "19805", "19801", "19802", "19809"]
 zipCodes: ["19880", "19898", "19806", "19885", "19884", "19850", "19893", "19805", "19895", "19899", "19802", "19801"]
 localPaths: ["New Castle County / ZIP 19806 sector", "New Castle County / ZIP 19805 sector", "New Castle County / ZIP 19801 sector", "New Castle County / primary ZIP 19802", "New Castle County / ZIP 19809 sector"]
+zillowHomeValueUsd: 201429
 ---
 
 **Engineering Notice for Wilmington:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: New Castle County.

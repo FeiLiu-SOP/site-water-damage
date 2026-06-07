@@ -12,6 +12,7 @@ lng: -92.5900
 zipSample: ["72619"]
 zipCodes: ["72619"]
 localPaths: ["Marion County / elevation 591 ft band", "Marion County / primary ZIP 72619", "Marion County / coords 36.3700, -92.5900", "Marion County / ZIP 72619 sector"]
+zillowHomeValueUsd: 205774
 ---
 
 **Engineering Notice for Bull Shoals:** Site context locked to Marion County. Elevation: 591 ft AMSL. Coordinates: 36.3700, -92.5900. Vinyl Panels integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -71.6900
 zipSample: ["01523", "01561"]
 zipCodes: ["01523", "01561"]
 localPaths: ["Worcester County / elevation 289 ft band", "Worcester County / ZIP 01561 sector", "Worcester County / primary ZIP 01523", "Worcester County / coords 42.4400, -71.6900", "Worcester County / ZIP 01523 sector"]
+zillowHomeValueUsd: 570333
 ---
 
 **Engineering Notice for South Lancaster:** structural drying capacity optimized for 289ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Worcester County. Relative Humidity Threshold: 65%. Sensor sync: Active.

@@ -11,6 +11,7 @@ lng: -73.9900
 zipSample: ["10956"]
 zipCodes: ["10956"]
 localPaths: ["Rockland County / primary ZIP 10956", "Rockland County / coords 41.1500, -73.9900", "Rockland County / elevation 200 ft band", "Rockland County / ZIP 10956 sector"]
+zillowHomeValueUsd: 791540
 ---
 
 **Engineering Notice for New City:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Rockland County.

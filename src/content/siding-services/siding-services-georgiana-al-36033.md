@@ -12,6 +12,7 @@ lng: -86.7500
 zipSample: ["36033"]
 zipCodes: ["36033"]
 localPaths: ["Butler County / primary ZIP 36033", "Butler County / ZIP 36033 sector", "Butler County / coords 31.6400, -86.7500", "Butler County / elevation 354 ft band"]
+zillowHomeValueUsd: 104789
 ---
 
 **Engineering Notice for Georgiana:** Site context locked to Butler County. Elevation: 354 ft AMSL. Cladding Service integrity verification recorded.

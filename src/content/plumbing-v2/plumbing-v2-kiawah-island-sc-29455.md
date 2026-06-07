@@ -12,6 +12,7 @@ lng: -80.0600
 zipSample: ["29455"]
 zipCodes: ["29455"]
 localPaths: ["Charleston County / ZIP 29455 sector", "Charleston County / elevation 20 ft band", "Charleston County / primary ZIP 29455", "Charleston County / coords 32.6200, -80.0600"]
+zillowHomeValueUsd: 739639
 ---
 
 **Engineering Notice for Kiawah Island:** System optimized for 121 mg/L hard water scaling factors in Kiawah Island. Regional dispatch grid: Charleston County.

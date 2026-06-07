@@ -12,6 +12,7 @@ lng: -88.7500
 zipSample: ["38860"]
 zipCodes: ["38860"]
 localPaths: ["Chickasaw County / primary ZIP 38860", "Chickasaw County / elevation 325 ft band", "Chickasaw County / ZIP 38860 sector", "Chickasaw County / coords 34.0100, -88.7500"]
+zillowHomeValueUsd: 125063
 ---
 
 **Engineering Notice for Okolona:** System optimized for 127 mg/L hard water scaling factors in Okolona. Regional dispatch grid: Chickasaw County.

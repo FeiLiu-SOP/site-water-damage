@@ -12,6 +12,7 @@ lng: -93.2000
 zipSample: ["50401", "50402"]
 zipCodes: ["50402", "50401"]
 localPaths: ["Cerro Gordo County / coords 43.1500, -93.2000", "Cerro Gordo County / primary ZIP 50401", "Cerro Gordo County / ZIP 50401 sector", "Cerro Gordo County / ZIP 50402 sector", "Cerro Gordo County / elevation 1122 ft band"]
+zillowHomeValueUsd: 154135
 ---
 
 **Engineering Notice for Mason City:** Structural loading calculated based on 1122 ft terrain assessment. Regional dispatch grid: Cerro Gordo County.

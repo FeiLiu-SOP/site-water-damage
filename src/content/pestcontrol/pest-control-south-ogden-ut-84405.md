@@ -11,6 +11,7 @@ lng: -111.9600
 zipSample: ["84405", "84403"]
 zipCodes: ["84405", "84403"]
 localPaths: ["Weber County / elevation 4688 ft band", "Weber County / coords 41.1700, -111.9600", "Weber County / primary ZIP 84405", "Weber County / ZIP 84403 sector", "Weber County / ZIP 84405 sector"]
+zillowHomeValueUsd: 460511
 ---
 
 **Engineering Notice for South Ogden:** Structural loading calculated based on 4688 ft terrain assessment. Regional dispatch grid: Weber County.

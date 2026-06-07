@@ -12,6 +12,7 @@ lng: -76.1200
 zipSample: ["13760"]
 zipCodes: ["13760"]
 localPaths: ["Tioga County / primary ZIP 13760", "Tioga County / ZIP 13760 sector", "Tioga County / elevation 1037 ft band", "Tioga County / coords 42.0800, -76.1200"]
+zillowHomeValueUsd: 200207
 ---
 
 **Engineering Notice for Crest View Heights:** System optimized for 166 mg/L hard water scaling factors in Crest View Heights. Regional dispatch grid: Tioga County.

@@ -12,6 +12,7 @@ lng: -91.1500
 zipSample: ["70788"]
 zipCodes: ["70788"]
 localPaths: ["Iberville Parish / ZIP 70788 sector", "Iberville Parish / coords 30.1600, -91.1500", "Iberville Parish / primary ZIP 70788", "Iberville Parish / elevation 36 ft band"]
+zillowHomeValueUsd: 130402
 ---
 
 **Engineering Notice for White Castle:** System optimized for 156 mg/L hard water scaling factors in White Castle. Regional dispatch grid: Iberville Parish.

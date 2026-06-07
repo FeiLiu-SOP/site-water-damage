@@ -12,6 +12,7 @@ lng: -88.1800
 zipSample: ["61920"]
 zipCodes: ["61920"]
 localPaths: ["Coles County / elevation 702 ft band", "Coles County / primary ZIP 61920", "Coles County / ZIP 61920 sector", "Coles County / coords 39.4800, -88.1800"]
+zillowHomeValueUsd: 162321
 ---
 
 **Engineering Notice for Charleston:** Structural loading calculated based on 702 ft terrain assessment. Regional dispatch grid: Coles County.

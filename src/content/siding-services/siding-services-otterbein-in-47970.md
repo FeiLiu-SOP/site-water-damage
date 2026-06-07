@@ -12,6 +12,7 @@ lng: -87.0900
 zipSample: ["47970"]
 zipCodes: ["47970"]
 localPaths: ["Tippecanoe County / coords 40.4900, -87.0900", "Tippecanoe County / primary ZIP 47970", "Tippecanoe County / elevation 705 ft band", "Tippecanoe County / ZIP 47970 sector"]
+zillowHomeValueUsd: 213405
 ---
 
 **Engineering Notice for Otterbein:** Site context locked to Tippecanoe County. Facade Renewal integrity verification recorded.

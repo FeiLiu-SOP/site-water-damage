@@ -12,6 +12,7 @@ lng: -74.1200
 zipSample: ["07099", "07032"]
 zipCodes: ["07032", "07099"]
 localPaths: ["Hudson County / coords 40.7500, -74.1200", "Hudson County / elevation -1 ft band", "Hudson County / ZIP 07032 sector", "Hudson County / ZIP 07099 sector", "Hudson County / primary ZIP 07032"]
+zillowHomeValueUsd: 583869
 ---
 
 **Engineering Notice for Kearny:** Structural loading calculated based on -1 ft terrain assessment. Regional dispatch grid: Hudson County.

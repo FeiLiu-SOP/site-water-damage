@@ -12,6 +12,7 @@ lng: -83.2400
 zipSample: ["43064"]
 zipCodes: ["43064"]
 localPaths: ["Union County / elevation 981 ft band", "Union County / primary ZIP 43064", "Union County / coords 40.1500, -83.2400", "Union County / ZIP 43064 sector"]
+zillowHomeValueUsd: 541598
 ---
 
 **Engineering Notice for New California:** System optimized for 151 mg/L hard water scaling factors in New California. Regional dispatch grid: Union County.

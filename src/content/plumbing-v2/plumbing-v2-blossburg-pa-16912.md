@@ -12,6 +12,7 @@ lng: -77.0700
 zipSample: ["16912"]
 zipCodes: ["16912"]
 localPaths: ["Tioga County / elevation 1470 ft band", "Tioga County / coords 41.6800, -77.0700", "Tioga County / primary ZIP 16912", "Tioga County / ZIP 16912 sector"]
+zillowHomeValueUsd: 157316
 ---
 
 **Engineering Notice for Blossburg:** System optimized for 131 mg/L hard water scaling factors in Blossburg. Regional dispatch grid: Tioga County.

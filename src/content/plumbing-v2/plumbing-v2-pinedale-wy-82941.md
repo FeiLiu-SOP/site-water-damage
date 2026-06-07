@@ -12,6 +12,7 @@ lng: -109.8700
 zipSample: ["82941"]
 zipCodes: ["82941"]
 localPaths: ["Sublette County / ZIP 82941 sector", "Sublette County / coords 42.8700, -109.8700", "Sublette County / primary ZIP 82941", "Sublette County / elevation 7182 ft band"]
+zillowHomeValueUsd: 456097
 ---
 
 **Engineering Notice for Pinedale:** System optimized for 174 mg/L hard water scaling factors in Pinedale. Regional dispatch grid: Sublette County.

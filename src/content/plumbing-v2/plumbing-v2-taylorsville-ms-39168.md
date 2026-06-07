@@ -12,6 +12,7 @@ lng: -89.4300
 zipSample: ["39168"]
 zipCodes: ["39168"]
 localPaths: ["Smith County / coords 31.8300, -89.4300", "Smith County / primary ZIP 39168", "Smith County / ZIP 39168 sector", "Smith County / elevation 308 ft band"]
+zillowHomeValueUsd: 145785
 ---
 
 **Engineering Notice for Taylorsville:** System optimized for 128 mg/L hard water scaling factors in Taylorsville. Regional dispatch grid: Smith County.

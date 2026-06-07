@@ -11,6 +11,7 @@ lng: -80.2200
 zipSample: ["33068"]
 zipCodes: ["33068"]
 localPaths: ["Broward County / primary ZIP 33068", "Broward County / coords 26.2100, -80.2200", "Broward County / elevation 20 ft band", "Broward County / ZIP 33068 sector"]
+zillowHomeValueUsd: 358265
 ---
 
 **Engineering Notice for North Lauderdale:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Broward County.

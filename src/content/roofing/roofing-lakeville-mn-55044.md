@@ -11,6 +11,7 @@ lng: -93.2500
 zipSample: ["55044"]
 zipCodes: ["55044"]
 localPaths: ["Dakota County / primary ZIP 55044", "Dakota County / coords 44.6800, -93.2500", "Dakota County / elevation 1079 ft band", "Dakota County / ZIP 55044 sector"]
+zillowHomeValueUsd: 515351
 ---
 
 **Engineering Notice for Lakeville:** Structural loading calculated based on 1079 ft terrain assessment. Regional dispatch grid: Dakota County.

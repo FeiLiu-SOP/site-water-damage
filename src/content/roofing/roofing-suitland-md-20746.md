@@ -11,6 +11,7 @@ lng: -76.9200
 zipSample: ["20790", "20746", "20752", "20747"]
 zipCodes: ["20790", "20747", "20746", "20752"]
 localPaths: ["Prince George's County / ZIP 20790 sector", "Prince George's County / ZIP 20752 sector", "Prince George's County / coords 38.8500, -76.9200", "Prince George's County / elevation 282 ft band", "Prince George's County / ZIP 20747 sector"]
+zillowHomeValueUsd: 335936
 ---
 
 **Engineering Notice for Suitland:** Structural loading calculated based on 282 ft terrain assessment. Regional dispatch grid: Prince George's County.

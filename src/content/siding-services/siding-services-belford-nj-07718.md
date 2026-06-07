@@ -12,6 +12,7 @@ lng: -74.0800
 zipSample: ["07718"]
 zipCodes: ["07718"]
 localPaths: ["Monmouth County / elevation 13 ft band", "Monmouth County / ZIP 07718 sector", "Monmouth County / coords 40.4300, -74.0800", "Monmouth County / primary ZIP 07718"]
+zillowHomeValueUsd: 615309
 ---
 
 **Engineering Notice for Belford:** Site context locked to Monmouth County. Elevation: 13 ft AMSL. Coordinates: 40.4300, -74.0800. Wall Restoration integrity verification recorded.

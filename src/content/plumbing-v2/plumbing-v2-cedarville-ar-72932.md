@@ -12,6 +12,7 @@ lng: -94.3600
 zipSample: ["72932"]
 zipCodes: ["72932"]
 localPaths: ["Crawford County / primary ZIP 72932", "Crawford County / ZIP 72932 sector", "Crawford County / coords 35.5800, -94.3600", "Crawford County / elevation 899 ft band"]
+zillowHomeValueUsd: 250902
 ---
 
 **Engineering Notice for Cedarville:** System optimized for 126 mg/L hard water scaling factors in Cedarville. Regional dispatch grid: Crawford County.

@@ -12,6 +12,7 @@ lng: -74.4000
 zipSample: ["08759"]
 zipCodes: ["08759"]
 localPaths: ["Ocean County / coords 39.9500, -74.4000", "Ocean County / elevation 164 ft band", "Ocean County / ZIP 08759 sector", "Ocean County / primary ZIP 08759"]
+zillowHomeValueUsd: 274838
 ---
 
 **Engineering Notice for Cedar Glen Lakes:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 1.19. Regional dispatch grid: Ocean County.

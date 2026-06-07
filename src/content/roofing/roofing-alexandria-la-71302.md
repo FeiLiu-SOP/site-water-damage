@@ -11,6 +11,7 @@ lng: -92.4700
 zipSample: ["71348", "71315", "71302", "71307", "71301"]
 zipCodes: ["71307", "71309", "71315", "71303", "71348", "71302", "71301"]
 localPaths: ["Rapides Parish / ZIP 71302 sector", "Rapides Parish / ZIP 71301 sector", "Rapides Parish / primary ZIP 71302", "Rapides Parish / coords 31.2900, -92.4700", "Rapides Parish / ZIP 71307 sector"]
+zillowHomeValueUsd: 89929
 ---
 
 **Engineering Notice for Alexandria:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Rapides Parish.

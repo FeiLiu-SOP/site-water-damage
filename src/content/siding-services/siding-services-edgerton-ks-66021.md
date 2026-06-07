@@ -12,6 +12,7 @@ lng: -94.9700
 zipSample: ["66021", "66030"]
 zipCodes: ["66021", "66030"]
 localPaths: ["Johnson County / ZIP 66021 sector", "Johnson County / ZIP 66030 sector", "Johnson County / coords 38.7700, -94.9700", "Johnson County / primary ZIP 66021", "Johnson County / elevation 1030 ft band"]
+zillowHomeValueUsd: 301470
 ---
 
 **Engineering Notice for Edgerton:** Site context locked to Johnson County. Panel Replacement integrity verification recorded.

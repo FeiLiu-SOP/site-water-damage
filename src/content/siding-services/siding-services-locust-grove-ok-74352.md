@@ -12,6 +12,7 @@ lng: -95.1700
 zipSample: ["74352"]
 zipCodes: ["74352"]
 localPaths: ["Mayes County / primary ZIP 74352", "Mayes County / ZIP 74352 sector", "Mayes County / elevation 682 ft band", "Mayes County / coords 36.2000, -95.1700"]
+zillowHomeValueUsd: 187909
 ---
 
 **Engineering Notice for Locust Grove:** Site context locked to Mayes County. Elevation: 682 ft AMSL. Coordinates: 36.2000, -95.1700. Surface Sheathing integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -79.5800
 zipSample: ["27325"]
 zipCodes: ["27325"]
 localPaths: ["Moore County / ZIP 27325 sector", "Moore County / primary ZIP 27325", "Moore County / elevation 469 ft band", "Moore County / coords 35.4300, -79.5800"]
+zillowHomeValueUsd: 174340
 ---
 
 **Engineering Notice for Robbins:** System optimized for 180 mg/L hard water scaling factors in Robbins. Regional dispatch grid: Moore County.

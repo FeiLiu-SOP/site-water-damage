@@ -12,6 +12,7 @@ lng: -93.1200
 zipSample: ["63556"]
 zipCodes: ["63556"]
 localPaths: ["Sullivan County / ZIP 63556 sector", "Sullivan County / elevation 971 ft band", "Sullivan County / primary ZIP 63556", "Sullivan County / coords 40.2000, -93.1200"]
+zillowHomeValueUsd: 100088
 ---
 
 **Engineering Notice for Milan:** structural drying capacity optimized for 971ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sullivan County. Relative Humidity Threshold: 79%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -76.4600
 zipSample: ["20629", "20688"]
 zipCodes: ["20688", "20629"]
 localPaths: ["Calvert County / elevation 0 ft band", "Calvert County / coords 38.3400, -76.4600", "Calvert County / ZIP 20688 sector", "Calvert County / primary ZIP 20688", "Calvert County / ZIP 20629 sector"]
+zillowHomeValueUsd: 458841
 ---
 
 **Engineering Notice for Solomons:** structural drying capacity optimized for 0ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Calvert County. Relative Humidity Threshold: 79%. Sensor sync: Active.

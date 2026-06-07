@@ -11,6 +11,7 @@ lng: -93.3600
 zipSample: ["70665", "70663"]
 zipCodes: ["70663", "70665"]
 localPaths: ["Calcasieu Parish / elevation 43 ft band", "Calcasieu Parish / ZIP 70665 sector", "Calcasieu Parish / ZIP 70663 sector", "Calcasieu Parish / coords 30.2300, -93.3600", "Calcasieu Parish / primary ZIP 70663"]
+zillowHomeValueUsd: 177434
 ---
 
 **Engineering Notice for Sulphur:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Calcasieu Parish.

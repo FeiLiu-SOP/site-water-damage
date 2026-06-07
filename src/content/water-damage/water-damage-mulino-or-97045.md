@@ -12,6 +12,7 @@ lng: -122.5600
 zipSample: ["97045", "97042"]
 zipCodes: ["97045", "97042"]
 localPaths: ["Clackamas County / ZIP 97042 sector", "Clackamas County / ZIP 97045 sector", "Clackamas County / coords 45.2200, -122.5600", "Clackamas County / elevation 279 ft band", "Clackamas County / primary ZIP 97045"]
+zillowHomeValueUsd: 602893
 ---
 
 **Engineering Notice for Mulino:** structural drying capacity optimized for 279ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clackamas County. Relative Humidity Threshold: 83%. Sensor sync: Active.

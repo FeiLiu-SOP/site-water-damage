@@ -12,6 +12,7 @@ lng: -90.3800
 zipSample: ["61273"]
 zipCodes: ["61273"]
 localPaths: ["Henry County / primary ZIP 61273", "Henry County / ZIP 61273 sector", "Henry County / elevation 781 ft band", "Henry County / coords 41.3500, -90.3800"]
+zillowHomeValueUsd: 214615
 ---
 
 **Engineering Notice for Orion:** structural drying capacity optimized for 781ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Henry County. Relative Humidity Threshold: 72%. Sensor sync: Active.

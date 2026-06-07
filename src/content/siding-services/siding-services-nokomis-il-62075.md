@@ -12,6 +12,7 @@ lng: -89.2900
 zipSample: ["62075"]
 zipCodes: ["62075"]
 localPaths: ["Montgomery County / elevation 679 ft band", "Montgomery County / primary ZIP 62075", "Montgomery County / coords 39.3000, -89.2900", "Montgomery County / ZIP 62075 sector"]
+zillowHomeValueUsd: 98080
 ---
 
 **Engineering Notice for Nokomis:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Coordinates: 39.3000, -89.2900. Grid: Montgomery County.

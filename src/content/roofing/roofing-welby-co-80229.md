@@ -11,6 +11,7 @@ lng: -104.9700
 zipSample: ["80229"]
 zipCodes: ["80229"]
 localPaths: ["Adams County / coords 39.8400, -104.9700", "Adams County / primary ZIP 80229", "Adams County / elevation 5194 ft band", "Adams County / ZIP 80229 sector"]
+zillowHomeValueUsd: 425785
 ---
 
 **Engineering Notice for Welby:** Structural loading calculated based on 5194 ft terrain assessment. Regional dispatch grid: Adams County.

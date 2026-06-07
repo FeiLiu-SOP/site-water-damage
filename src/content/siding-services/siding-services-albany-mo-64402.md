@@ -12,6 +12,7 @@ lng: -94.3300
 zipSample: ["64402"]
 zipCodes: ["64402"]
 localPaths: ["Gentry County / primary ZIP 64402", "Gentry County / elevation 915 ft band", "Gentry County / coords 40.2500, -94.3300", "Gentry County / ZIP 64402 sector"]
+zillowHomeValueUsd: 119145
 ---
 
 **Engineering Notice for Albany:** Panel Replacement was validated under stress factor 0.94; target tolerance set near 97 mph. Grid anchor: Gentry County.

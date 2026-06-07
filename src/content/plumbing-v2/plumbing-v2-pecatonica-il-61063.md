@@ -12,6 +12,7 @@ lng: -89.3600
 zipSample: ["61063"]
 zipCodes: ["61063"]
 localPaths: ["Winnebago County / primary ZIP 61063", "Winnebago County / ZIP 61063 sector", "Winnebago County / coords 42.3100, -89.3600", "Winnebago County / elevation 761 ft band"]
+zillowHomeValueUsd: 226863
 ---
 
 **Engineering Notice for Pecatonica:** System optimized for 179 mg/L hard water scaling factors in Pecatonica. Regional dispatch grid: Winnebago County.

@@ -12,6 +12,7 @@ lng: -72.4400
 zipSample: ["06469"]
 zipCodes: ["06469"]
 localPaths: ["Lower Connecticut River Valley County / primary ZIP 06469", "Lower Connecticut River Valley County / coords 41.5000, -72.4400", "Lower Connecticut River Valley County / elevation 272 ft band", "Lower Connecticut River Valley County / ZIP 06469 sector"]
+zillowHomeValueUsd: 390647
 ---
 
 **Engineering Notice for Moodus:** structural drying capacity optimized for 272ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lower Connecticut River Valley County. Relative Humidity Threshold: 80%. Sensor sync: Active.

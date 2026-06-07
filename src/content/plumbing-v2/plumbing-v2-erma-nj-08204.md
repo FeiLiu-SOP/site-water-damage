@@ -12,6 +12,7 @@ lng: -74.8900
 zipSample: ["08204"]
 zipCodes: ["08204"]
 localPaths: ["Cape May County / primary ZIP 08204", "Cape May County / coords 39.0000, -74.8900", "Cape May County / elevation 20 ft band", "Cape May County / ZIP 08204 sector"]
+zillowHomeValueUsd: 705515
 ---
 
 **Engineering Notice for Erma:** System optimized for 146 mg/L hard water scaling factors in Erma. Regional dispatch grid: Cape May County.

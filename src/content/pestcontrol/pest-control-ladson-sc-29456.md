@@ -11,6 +11,7 @@ lng: -80.1100
 zipSample: ["29456"]
 zipCodes: ["29456"]
 localPaths: ["Berkeley County / elevation 59 ft band", "Berkeley County / primary ZIP 29456", "Berkeley County / ZIP 29456 sector", "Berkeley County / coords 33.0100, -80.1100"]
+zillowHomeValueUsd: 315488
 ---
 
 **Engineering Notice for Ladson:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Berkeley County.

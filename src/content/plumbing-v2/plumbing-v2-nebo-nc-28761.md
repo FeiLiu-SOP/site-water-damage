@@ -12,6 +12,7 @@ lng: -81.9200
 zipSample: ["28761"]
 zipCodes: ["28761"]
 localPaths: ["McDowell County / elevation 1342 ft band", "McDowell County / coords 35.7100, -81.9200", "McDowell County / primary ZIP 28761", "McDowell County / ZIP 28761 sector"]
+zillowHomeValueUsd: 378207
 ---
 
 **Engineering Notice for Nebo:** System optimized for 153 mg/L hard water scaling factors in Nebo. Regional dispatch grid: McDowell County.

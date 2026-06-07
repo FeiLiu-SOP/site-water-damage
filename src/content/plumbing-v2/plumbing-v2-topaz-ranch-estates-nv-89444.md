@@ -12,6 +12,7 @@ lng: -119.5000
 zipSample: ["89444"]
 zipCodes: ["89444"]
 localPaths: ["Douglas County / ZIP 89444 sector", "Douglas County / primary ZIP 89444", "Douglas County / coords 38.7400, -119.5000", "Douglas County / elevation 5121 ft band"]
+zillowHomeValueUsd: 536715
 ---
 
 **Engineering Notice for Topaz Ranch Estates:** System optimized for 147 mg/L hard water scaling factors in Topaz Ranch Estates. Regional dispatch grid: Douglas County.

@@ -11,6 +11,7 @@ lng: -74.4400
 zipSample: ["08901", "08906", "08875", "08933"]
 zipCodes: ["08875", "08901", "08933", "08906"]
 localPaths: ["Middlesex County / ZIP 08933 sector", "Middlesex County / ZIP 08901 sector", "Middlesex County / coords 40.4900, -74.4400", "Middlesex County / ZIP 08906 sector", "Middlesex County / primary ZIP 08901"]
+zillowHomeValueUsd: 443146
 ---
 
 **Engineering Notice for New Brunswick:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Middlesex County.

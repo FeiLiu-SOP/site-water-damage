@@ -11,6 +11,7 @@ lng: -97.0700
 zipSample: ["74604", "74601", "74602"]
 zipCodes: ["74602", "74601", "74604"]
 localPaths: ["Kay County / ZIP 74601 sector", "Kay County / coords 36.7200, -97.0700", "Kay County / ZIP 74604 sector", "Kay County / elevation 1040 ft band", "Kay County / ZIP 74602 sector"]
+zillowHomeValueUsd: 86943
 ---
 
 **Engineering Notice for Ponca City:** Structural loading calculated based on 1040 ft terrain assessment. Regional dispatch grid: Kay County.

@@ -12,6 +12,7 @@ lng: -82.7300
 zipSample: ["41169", "41183"]
 zipCodes: ["41183", "41169"]
 localPaths: ["Greenup County / coords 38.5400, -82.7300", "Greenup County / primary ZIP 41183", "Greenup County / ZIP 41169 sector", "Greenup County / elevation 620 ft band", "Greenup County / ZIP 41183 sector"]
+zillowHomeValueUsd: 126118
 ---
 
 **Engineering Notice for Raceland:** Structural integrity verification: Cladding Service calibrated for 90 mph localized wind load factor. Elevation: 620 ft AMSL. Coordinates: 38.5400, -82.7300. Regional dispatch grid: Greenup County.

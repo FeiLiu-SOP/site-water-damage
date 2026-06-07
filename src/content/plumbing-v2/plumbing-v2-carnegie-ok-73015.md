@@ -12,6 +12,7 @@ lng: -98.6000
 zipSample: ["73015"]
 zipCodes: ["73015"]
 localPaths: ["Caddo County / elevation 1352 ft band", "Caddo County / ZIP 73015 sector", "Caddo County / coords 35.1000, -98.6000", "Caddo County / primary ZIP 73015"]
+zillowHomeValueUsd: 74219
 ---
 
 **Engineering Notice for Carnegie:** System optimized for 156 mg/L hard water scaling factors in Carnegie. Regional dispatch grid: Caddo County.

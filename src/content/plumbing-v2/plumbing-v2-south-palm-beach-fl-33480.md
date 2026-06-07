@@ -12,6 +12,7 @@ lng: -80.0400
 zipSample: ["33480"]
 zipCodes: ["33480"]
 localPaths: ["Palm Beach County / primary ZIP 33480", "Palm Beach County / elevation 36 ft band", "Palm Beach County / ZIP 33480 sector", "Palm Beach County / coords 26.5900, -80.0400"]
+zillowHomeValueUsd: 1488254
 ---
 
 **Engineering Notice for South Palm Beach:** System optimized for 122 mg/L hard water scaling factors in South Palm Beach. Regional dispatch grid: Palm Beach County.

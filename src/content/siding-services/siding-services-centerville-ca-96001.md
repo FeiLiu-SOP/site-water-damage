@@ -12,6 +12,7 @@ lng: -122.4600
 zipSample: ["96001"]
 zipCodes: ["96001"]
 localPaths: ["Shasta County / primary ZIP 96001", "Shasta County / coords 40.5400, -122.4600", "Shasta County / ZIP 96001 sector", "Shasta County / elevation 873 ft band"]
+zillowHomeValueUsd: 383529
 ---
 
 **Engineering Notice for Centerville:** Cladding verification uses 133 mph routing baseline; lateral pressure note: 17.2 psf. Coordinates: 40.5400, -122.4600. Grid: Shasta County.

@@ -12,6 +12,7 @@ lng: -99.9300
 zipSample: ["79567"]
 zipCodes: ["79567"]
 localPaths: ["Runnels County / ZIP 79567 sector", "Runnels County / elevation 1854 ft band", "Runnels County / coords 31.9600, -99.9300", "Runnels County / primary ZIP 79567"]
+zillowHomeValueUsd: 100184
 ---
 
 **Engineering Notice for Winters:** System optimized for 120 mg/L hard water scaling factors in Winters. Regional dispatch grid: Runnels County.

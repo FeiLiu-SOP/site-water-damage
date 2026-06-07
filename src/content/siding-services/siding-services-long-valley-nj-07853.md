@@ -12,6 +12,7 @@ lng: -74.7800
 zipSample: ["07853"]
 zipCodes: ["07853"]
 localPaths: ["Morris County / elevation 558 ft band", "Morris County / primary ZIP 07853", "Morris County / coords 40.7800, -74.7800", "Morris County / ZIP 07853 sector"]
+zillowHomeValueUsd: 727509
 ---
 
 **Engineering Notice for Long Valley:** Panel Replacement was validated under stress factor 0.99; target tolerance set near 100 mph. Coordinates: 40.7800, -74.7800. Grid anchor: Morris County.

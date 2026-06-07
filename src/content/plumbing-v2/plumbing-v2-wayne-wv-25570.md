@@ -12,6 +12,7 @@ lng: -82.4400
 zipSample: ["25570"]
 zipCodes: ["25570"]
 localPaths: ["Wayne County / coords 38.2300, -82.4400", "Wayne County / primary ZIP 25570", "Wayne County / elevation 600 ft band", "Wayne County / ZIP 25570 sector"]
+zillowHomeValueUsd: 130065
 ---
 
 **Engineering Notice for Wayne:** System optimized for 158 mg/L hard water scaling factors in Wayne. Regional dispatch grid: Wayne County.

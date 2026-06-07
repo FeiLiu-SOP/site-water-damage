@@ -12,6 +12,7 @@ lng: -118.4000
 zipSample: ["90254"]
 zipCodes: ["90254"]
 localPaths: ["Los Angeles County / ZIP 90254 sector", "Los Angeles County / elevation 59 ft band", "Los Angeles County / coords 33.8700, -118.4000", "Los Angeles County / primary ZIP 90254"]
+zillowHomeValueUsd: 2237803
 ---
 
 **Engineering Notice for Hermosa Beach:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Los Angeles County.

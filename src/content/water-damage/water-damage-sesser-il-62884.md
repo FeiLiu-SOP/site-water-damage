@@ -12,6 +12,7 @@ lng: -89.0500
 zipSample: ["62884"]
 zipCodes: ["62884"]
 localPaths: ["Franklin County / elevation 482 ft band", "Franklin County / primary ZIP 62884", "Franklin County / coords 38.0900, -89.0500", "Franklin County / ZIP 62884 sector"]
+zillowHomeValueUsd: 98481
 ---
 
 **Engineering Notice for Sesser:** structural drying capacity optimized for 482ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Franklin County. Relative Humidity Threshold: 66%. Sensor sync: Active.

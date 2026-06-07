@@ -12,6 +12,7 @@ lng: -89.1100
 zipSample: ["54970"]
 zipCodes: ["54970"]
 localPaths: ["Waushara County / ZIP 54970 sector", "Waushara County / elevation 810 ft band", "Waushara County / coords 44.0500, -89.1100", "Waushara County / primary ZIP 54970"]
+zillowHomeValueUsd: 202610
 ---
 
 **Engineering Notice for Redgranite:** structural drying capacity optimized for 810ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Waushara County. Relative Humidity Threshold: 77%. Sensor sync: Active.

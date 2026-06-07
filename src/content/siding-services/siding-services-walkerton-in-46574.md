@@ -12,6 +12,7 @@ lng: -86.4800
 zipSample: ["46574"]
 zipCodes: ["46574"]
 localPaths: ["St. Joseph County / coords 41.4700, -86.4800", "St. Joseph County / primary ZIP 46574", "St. Joseph County / elevation 728 ft band", "St. Joseph County / ZIP 46574 sector"]
+zillowHomeValueUsd: 228390
 ---
 
 **Engineering Notice for Walkerton:** Site context locked to St. Joseph County. Elevation: 728 ft AMSL. Coordinates: 41.4700, -86.4800. Cladding Retrofit integrity verification recorded.

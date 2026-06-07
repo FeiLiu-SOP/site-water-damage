@@ -12,6 +12,7 @@ lng: -89.3800
 zipSample: ["39402"]
 zipCodes: ["39402"]
 localPaths: ["Lamar County / coords 31.3400, -89.3800", "Lamar County / primary ZIP 39402", "Lamar County / ZIP 39402 sector", "Lamar County / elevation 262 ft band"]
+zillowHomeValueUsd: 276474
 ---
 
 **Engineering Notice for Arnold Line:** Exterior Cladding was validated under stress factor 1.23; target tolerance set near 101 mph. Grid anchor: Lamar County.

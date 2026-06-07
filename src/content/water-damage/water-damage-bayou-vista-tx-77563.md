@@ -12,6 +12,7 @@ lng: -94.9400
 zipSample: ["77563"]
 zipCodes: ["77563"]
 localPaths: ["Galveston County / ZIP 77563 sector", "Galveston County / primary ZIP 77563", "Galveston County / coords 29.3300, -94.9400", "Galveston County / elevation 13 ft band"]
+zillowHomeValueUsd: 253487
 ---
 
 **Engineering Notice for Bayou Vista:** structural drying capacity optimized for 13ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Galveston County. Relative Humidity Threshold: 73%. Sensor sync: Active.

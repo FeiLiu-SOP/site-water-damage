@@ -12,6 +12,7 @@ lng: -82.1600
 zipSample: ["24202", "24201", "24209", "24203", "24205"]
 zipCodes: ["24209", "24205", "24201", "24203", "24202"]
 localPaths: ["Bristol County / ZIP 24209 sector", "Bristol County / ZIP 24205 sector", "Bristol County / primary ZIP 24201", "Bristol County / ZIP 24201 sector", "Bristol County / ZIP 24202 sector"]
+zillowHomeValueUsd: 176118
 ---
 
 **Engineering Notice for Bristol:** Structural loading calculated based on 1768 ft terrain assessment. Regional dispatch grid: Bristol County.

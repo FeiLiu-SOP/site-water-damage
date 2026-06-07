@@ -11,6 +11,7 @@ lng: -123.1200
 zipSample: ["97401", "97440", "97404", "97405", "97402"]
 zipCodes: ["97405", "97402", "97401", "97404", "97403", "97440"]
 localPaths: ["Lane County / ZIP 97440 sector", "Lane County / ZIP 97402 sector", "Lane County / ZIP 97405 sector", "Lane County / coords 44.0600, -123.1200", "Lane County / primary ZIP 97405"]
+zillowHomeValueUsd: 527587
 ---
 
 **Engineering Notice for Eugene:** Structural loading calculated based on 413 ft terrain assessment. Regional dispatch grid: Lane County.

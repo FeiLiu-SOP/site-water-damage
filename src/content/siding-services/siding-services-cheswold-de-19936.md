@@ -12,6 +12,8 @@ lng: -75.5900
 zipSample: ["19936", "19901", "19904"]
 zipCodes: ["19936", "19901", "19904"]
 localPaths: ["Kent County / ZIP 19901 sector", "Kent County / elevation 49 ft band", "Kent County / coords 39.2200, -75.5900", "Kent County / ZIP 19936 sector", "Kent County / ZIP 19904 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 457927
 ---
 
 **Engineering Notice for Cheswold:** Envelope check: Weather Barrier Wrap assigned to wind-load band A with stress factor 1.22. Elevation: 49 ft AMSL. Regional dispatch grid: Kent County.

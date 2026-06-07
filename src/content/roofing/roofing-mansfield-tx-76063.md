@@ -11,6 +11,7 @@ lng: -97.1200
 zipSample: ["76063"]
 zipCodes: ["76063"]
 localPaths: ["Tarrant County / coords 32.5700, -97.1200", "Tarrant County / elevation 607 ft band", "Tarrant County / primary ZIP 76063", "Tarrant County / ZIP 76063 sector"]
+zillowHomeValueUsd: 440023
 ---
 
 **Engineering Notice for Mansfield:** Structural loading calculated based on 607 ft terrain assessment. Regional dispatch grid: Tarrant County.

@@ -12,6 +12,8 @@ lng: -74.8000
 zipSample: ["08210", "08245"]
 zipCodes: ["08210", "08245"]
 localPaths: ["Cape May County / coords 39.1700, -74.8000", "Cape May County / ZIP 08210 sector", "Cape May County / primary ZIP 08245", "Cape May County / ZIP 08245 sector", "Cape May County / elevation 30 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 684101
 ---
 
 **Engineering Notice for South Dennis:** Envelope check: Weather Barrier Wrap assigned to wind-load band B with stress factor 0.82. Elevation: 30 ft AMSL. Regional dispatch grid: Cape May County.

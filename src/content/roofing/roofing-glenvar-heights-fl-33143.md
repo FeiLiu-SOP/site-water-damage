@@ -11,6 +11,7 @@ lng: -80.3200
 zipSample: ["33155", "33143"]
 zipCodes: ["33155", "33143"]
 localPaths: ["Miami-Dade County / ZIP 33143 sector", "Miami-Dade County / elevation 39 ft band", "Miami-Dade County / ZIP 33155 sector", "Miami-Dade County / primary ZIP 33143", "Miami-Dade County / coords 25.7100, -80.3200"]
+zillowHomeValueUsd: 936798
 ---
 
 **Engineering Notice for Glenvar Heights:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

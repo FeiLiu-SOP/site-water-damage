@@ -12,6 +12,7 @@ lng: -84.7800
 zipSample: ["45846"]
 zipCodes: ["45846"]
 localPaths: ["Mercer County / elevation 945 ft band", "Mercer County / coords 40.4100, -84.7800", "Mercer County / ZIP 45846 sector", "Mercer County / primary ZIP 45846"]
+zillowHomeValueUsd: 338808
 ---
 
 **Engineering Notice for Fort Recovery:** System optimized for 166 mg/L hard water scaling factors in Fort Recovery. Regional dispatch grid: Mercer County.

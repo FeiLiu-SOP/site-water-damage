@@ -12,6 +12,7 @@ lng: -86.1400
 zipSample: ["37184"]
 zipCodes: ["37184"]
 localPaths: ["Wilson County / elevation 696 ft band", "Wilson County / primary ZIP 37184", "Wilson County / ZIP 37184 sector", "Wilson County / coords 36.1000, -86.1400"]
+zillowHomeValueUsd: 432493
 ---
 
 **Engineering Notice for Watertown:** System optimized for 143 mg/L hard water scaling factors in Watertown. Regional dispatch grid: Wilson County.

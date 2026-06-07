@@ -12,6 +12,7 @@ lng: -82.5000
 zipSample: ["28739"]
 zipCodes: ["28739"]
 localPaths: ["Henderson County / elevation 2805 ft band", "Henderson County / coords 35.3100, -82.5000", "Henderson County / primary ZIP 28739", "Henderson County / ZIP 28739 sector"]
+zillowHomeValueUsd: 457982
 ---
 
 **Engineering Notice for Laurel Park:** Envelope check: Exterior Envelope assigned to wind-load band A with stress factor 1.10. Elevation: 2805 ft AMSL. Regional dispatch grid: Henderson County.

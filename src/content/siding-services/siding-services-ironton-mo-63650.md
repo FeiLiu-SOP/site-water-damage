@@ -12,6 +12,7 @@ lng: -90.6400
 zipSample: ["63650"]
 zipCodes: ["63650"]
 localPaths: ["Iron County / ZIP 63650 sector", "Iron County / coords 37.6000, -90.6400", "Iron County / primary ZIP 63650", "Iron County / elevation 1037 ft band"]
+zillowHomeValueUsd: 132473
 ---
 
 **Engineering Notice for Ironton:** Panel Replacement was validated under stress factor 0.85; target tolerance set near 106 mph. Grid anchor: Iron County.

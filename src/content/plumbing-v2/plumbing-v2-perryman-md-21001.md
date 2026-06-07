@@ -12,6 +12,7 @@ lng: -76.2100
 zipSample: ["21001", "21130"]
 zipCodes: ["21130", "21001"]
 localPaths: ["Harford County / elevation 33 ft band", "Harford County / ZIP 21130 sector", "Harford County / primary ZIP 21001", "Harford County / ZIP 21001 sector", "Harford County / coords 39.4600, -76.2100"]
+zillowHomeValueUsd: 345712
 ---
 
 **Engineering Notice for Perryman:** System optimized for 138 mg/L hard water scaling factors in Perryman. Regional dispatch grid: Harford County.

@@ -12,6 +12,7 @@ lng: -111.3000
 zipSample: ["85553"]
 zipCodes: ["85553"]
 localPaths: ["Gila County / coords 33.8400, -111.3000", "Gila County / elevation 2274 ft band", "Gila County / ZIP 85553 sector", "Gila County / primary ZIP 85553"]
+zillowHomeValueUsd: 334493
 ---
 
 **Engineering Notice for Tonto Basin:** Cladding Service was validated under stress factor 1.14; target tolerance set near 103 mph. Coordinates: 33.8400, -111.3000. Grid anchor: Gila County.

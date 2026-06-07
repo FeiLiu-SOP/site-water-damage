@@ -12,6 +12,7 @@ lng: -98.1000
 zipSample: ["57445"]
 zipCodes: ["57445"]
 localPaths: ["Brown County / primary ZIP 57445", "Brown County / elevation 1302 ft band", "Brown County / ZIP 57445 sector", "Brown County / coords 45.4500, -98.1000"]
+zillowHomeValueUsd: 237590
 ---
 
 **Engineering Notice for Groton:** System optimized for 127 mg/L hard water scaling factors in Groton. Regional dispatch grid: Brown County.

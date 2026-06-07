@@ -12,6 +12,7 @@ lng: -90.6700
 zipSample: ["63040", "63069", "63025", "63038", "63021"]
 zipCodes: ["63005", "63021", "63025", "63040", "63038", "63069", "63011"]
 localPaths: ["St. Louis County / ZIP 63021 sector", "St. Louis County / ZIP 63040 sector", "St. Louis County / ZIP 63025 sector", "St. Louis County / coords 38.5800, -90.6700", "St. Louis County / ZIP 63069 sector"]
+zillowHomeValueUsd: 415564
 ---
 
 **Engineering Notice for Wildwood:** Structural loading calculated based on 781 ft terrain assessment. Regional dispatch grid: St. Louis County.

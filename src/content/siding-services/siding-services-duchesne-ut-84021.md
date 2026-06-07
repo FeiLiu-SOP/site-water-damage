@@ -12,6 +12,7 @@ lng: -110.3900
 zipSample: ["84021"]
 zipCodes: ["84021"]
 localPaths: ["Duchesne County / elevation 5719 ft band", "Duchesne County / ZIP 84021 sector", "Duchesne County / coords 40.1800, -110.3900", "Duchesne County / primary ZIP 84021"]
+zillowHomeValueUsd: 339596
 ---
 
 **Engineering Notice for Duchesne:** Cladding verification uses 97 mph routing baseline; lateral pressure note: 12.8 psf. Elevation: 5719 ft AMSL. Grid: Duchesne County.

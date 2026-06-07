@@ -12,6 +12,7 @@ lng: -111.4600
 zipSample: ["85544"]
 zipCodes: ["85544"]
 localPaths: ["Gila County / ZIP 85544 sector", "Gila County / coords 34.3800, -111.4600", "Gila County / primary ZIP 85544", "Gila County / elevation 5397 ft band"]
+zillowHomeValueUsd: 481240
 ---
 
 **Engineering Notice for Pine:** System optimized for 144 mg/L hard water scaling factors in Pine. Regional dispatch grid: Gila County.

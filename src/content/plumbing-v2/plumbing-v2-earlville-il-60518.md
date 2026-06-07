@@ -12,6 +12,7 @@ lng: -88.9200
 zipSample: ["60518"]
 zipCodes: ["60518"]
 localPaths: ["LaSalle County / primary ZIP 60518", "LaSalle County / ZIP 60518 sector", "LaSalle County / coords 41.5900, -88.9200", "LaSalle County / elevation 715 ft band"]
+zillowHomeValueUsd: 240988
 ---
 
 **Engineering Notice for Earlville:** System optimized for 159 mg/L hard water scaling factors in Earlville. Regional dispatch grid: LaSalle County.

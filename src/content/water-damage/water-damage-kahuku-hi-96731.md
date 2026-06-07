@@ -12,6 +12,7 @@ lng: -157.9500
 zipSample: ["96731"]
 zipCodes: ["96731"]
 localPaths: ["Honolulu County / primary ZIP 96731", "Honolulu County / ZIP 96731 sector", "Honolulu County / elevation 20 ft band", "Honolulu County / coords 21.6800, -157.9500"]
+zillowHomeValueUsd: 1058896
 ---
 
 **Engineering Notice for Kahuku:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Honolulu County. Relative Humidity Threshold: 85%. Sensor sync: Active.

@@ -11,6 +11,7 @@ lng: -111.9500
 zipSample: ["84123", "84184", "84129"]
 zipCodes: ["84184", "84129", "84123"]
 localPaths: ["Salt Lake County / primary ZIP 84123", "Salt Lake County / elevation 4360 ft band", "Salt Lake County / ZIP 84129 sector", "Salt Lake County / coords 40.6600, -111.9500", "Salt Lake County / ZIP 84123 sector"]
+zillowHomeValueUsd: 537862
 ---
 
 **Engineering Notice for Taylorsville:** Structural loading calculated based on 4360 ft terrain assessment. Regional dispatch grid: Salt Lake County.

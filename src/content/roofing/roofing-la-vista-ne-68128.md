@@ -11,6 +11,7 @@ lng: -96.0700
 zipSample: ["68128"]
 zipCodes: ["68128"]
 localPaths: ["Sarpy County / ZIP 68128 sector", "Sarpy County / primary ZIP 68128", "Sarpy County / elevation 1115 ft band", "Sarpy County / coords 41.1800, -96.0700"]
+zillowHomeValueUsd: 309867
 ---
 
 **Engineering Notice for La Vista:** Structural loading calculated based on 1115 ft terrain assessment. Regional dispatch grid: Sarpy County.

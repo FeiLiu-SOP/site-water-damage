@@ -11,6 +11,7 @@ lng: -88.1300
 zipSample: ["60128", "60116", "60199", "60197", "60188"]
 zipCodes: ["60188", "60197", "60199", "60116", "60128"]
 localPaths: ["DuPage County / ZIP 60128 sector", "DuPage County / coords 41.9200, -88.1300", "DuPage County / ZIP 60188 sector", "DuPage County / primary ZIP 60188", "DuPage County / ZIP 60116 sector"]
+zillowHomeValueUsd: 379936
 ---
 
 **Engineering Notice for Carol Stream:** Structural loading calculated based on 755 ft terrain assessment. Regional dispatch grid: DuPage County.

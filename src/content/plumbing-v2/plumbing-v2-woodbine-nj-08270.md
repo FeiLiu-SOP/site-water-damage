@@ -12,6 +12,7 @@ lng: -74.8100
 zipSample: ["08270"]
 zipCodes: ["08270"]
 localPaths: ["Cape May County / ZIP 08270 sector", "Cape May County / coords 39.2300, -74.8100", "Cape May County / elevation 33 ft band", "Cape May County / primary ZIP 08270"]
+zillowHomeValueUsd: 323713
 ---
 
 **Engineering Notice for Woodbine:** System optimized for 126 mg/L hard water scaling factors in Woodbine. Regional dispatch grid: Cape May County.

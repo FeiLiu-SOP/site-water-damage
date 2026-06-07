@@ -11,6 +11,7 @@ lng: -76.9500
 zipSample: ["20781", "20788", "20782"]
 zipCodes: ["20781", "20782", "20788"]
 localPaths: ["Prince George's County / ZIP 20788 sector", "Prince George's County / ZIP 20781 sector", "Prince George's County / primary ZIP 20781", "Prince George's County / elevation 148 ft band", "Prince George's County / coords 38.9600, -76.9500"]
+zillowHomeValueUsd: 434866
 ---
 
 **Engineering Notice for Hyattsville:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Prince George's County.

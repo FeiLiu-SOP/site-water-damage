@@ -11,6 +11,7 @@ lng: -95.9000
 zipSample: ["74105", "74153", "74141", "74146", "74129"]
 zipCodes: ["74136", "74148", "74106", "74129", "74115", "74156", "74147", "74112", "74130", "74159", "74128", "74135"]
 localPaths: ["Tulsa County / ZIP 74105 sector", "Tulsa County / elevation 728 ft band", "Tulsa County / ZIP 74141 sector", "Tulsa County / coords 36.1300, -95.9000", "Tulsa County / ZIP 74146 sector"]
+zillowHomeValueUsd: 429439
 ---
 
 **Engineering Notice for Tulsa:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Tulsa County.

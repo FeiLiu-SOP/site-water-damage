@@ -11,6 +11,7 @@ lng: -80.5600
 zipSample: ["28110", "28112", "28111"]
 zipCodes: ["28112", "28111", "28110"]
 localPaths: ["Union County / primary ZIP 28110", "Union County / ZIP 28111 sector", "Union County / coords 35.0100, -80.5600", "Union County / elevation 604 ft band", "Union County / ZIP 28110 sector"]
+zillowHomeValueUsd: 373742
 ---
 
 **Engineering Notice for Monroe:** Structural loading calculated based on 604 ft terrain assessment. Regional dispatch grid: Union County.

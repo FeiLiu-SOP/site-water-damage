@@ -12,6 +12,7 @@ lng: -99.3700
 zipSample: ["73547"]
 zipCodes: ["73547"]
 localPaths: ["Greer County / ZIP 73547 sector", "Greer County / coords 34.9600, -99.3700", "Greer County / elevation 1608 ft band", "Greer County / primary ZIP 73547"]
+zillowHomeValueUsd: 92475
 ---
 
 **Engineering Notice for Granite:** Cladding verification uses 108 mph routing baseline; lateral pressure note: 14.2 psf. Elevation: 1608 ft AMSL. Grid: Greer County.

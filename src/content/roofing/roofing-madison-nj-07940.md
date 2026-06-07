@@ -11,6 +11,7 @@ lng: -74.4200
 zipSample: ["07940"]
 zipCodes: ["07940"]
 localPaths: ["Morris County / primary ZIP 07940", "Morris County / ZIP 07940 sector", "Morris County / elevation 262 ft band", "Morris County / coords 40.7600, -74.4200"]
+zillowHomeValueUsd: 1030710
 ---
 
 **Engineering Notice for Madison:** Structural loading calculated based on 262 ft terrain assessment. Regional dispatch grid: Morris County.

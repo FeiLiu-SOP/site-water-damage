@@ -12,6 +12,7 @@ lng: -75.5000
 zipSample: ["19453", "19460"]
 zipCodes: ["19453", "19460"]
 localPaths: ["Montgomery County / ZIP 19453 sector", "Montgomery County / primary ZIP 19460", "Montgomery County / ZIP 19460 sector", "Montgomery County / coords 40.1400, -75.5000", "Montgomery County / elevation 207 ft band"]
+zillowHomeValueUsd: 517849
 ---
 
 **Engineering Notice for Mont Clare:** structural drying capacity optimized for 207ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Montgomery County. Relative Humidity Threshold: 67%. Sensor sync: Active.

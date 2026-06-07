@@ -11,6 +11,7 @@ lng: -87.6600
 zipSample: ["60430"]
 zipCodes: ["60430"]
 localPaths: ["Cook County / elevation 669 ft band", "Cook County / coords 41.5600, -87.6600", "Cook County / ZIP 60430 sector", "Cook County / primary ZIP 60430"]
+zillowHomeValueUsd: 243702
 ---
 
 **Engineering Notice for Homewood:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Cook County.

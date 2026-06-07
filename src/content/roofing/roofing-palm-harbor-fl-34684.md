@@ -11,6 +11,7 @@ lng: -82.7500
 zipSample: ["34683", "34682", "34660", "34684", "34681"]
 zipCodes: ["34683", "34660", "34682", "34681", "34684"]
 localPaths: ["Pinellas County / ZIP 34682 sector", "Pinellas County / coords 28.0800, -82.7500", "Pinellas County / ZIP 34681 sector", "Pinellas County / ZIP 34684 sector", "Pinellas County / ZIP 34660 sector"]
+zillowHomeValueUsd: 324177
 ---
 
 **Engineering Notice for Palm Harbor:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Pinellas County.

@@ -11,6 +11,7 @@ lng: -84.8600
 zipSample: ["40622", "40618", "40603", "40621", "40619"]
 zipCodes: ["40621", "40620", "40622", "40618", "40603", "40601", "40619"]
 localPaths: ["Franklin County / coords 38.1900, -84.8600", "Franklin County / elevation 722 ft band", "Franklin County / primary ZIP 40601", "Franklin County / ZIP 40621 sector", "Franklin County / ZIP 40618 sector"]
+zillowHomeValueUsd: 240497
 ---
 
 **Engineering Notice for Frankfort:** Structural loading calculated based on 722 ft terrain assessment. Regional dispatch grid: Franklin County.

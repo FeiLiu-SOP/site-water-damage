@@ -11,6 +11,7 @@ lng: -88.0200
 zipSample: ["60516", "60515"]
 zipCodes: ["60516", "60515"]
 localPaths: ["DuPage County / elevation 732 ft band", "DuPage County / ZIP 60515 sector", "DuPage County / coords 41.7900, -88.0200", "DuPage County / primary ZIP 60515", "DuPage County / ZIP 60516 sector"]
+zillowHomeValueUsd: 497663
 ---
 
 **Engineering Notice for Downers Grove:** Structural loading calculated based on 732 ft terrain assessment. Regional dispatch grid: DuPage County.

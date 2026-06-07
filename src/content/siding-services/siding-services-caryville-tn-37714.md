@@ -12,6 +12,7 @@ lng: -84.2200
 zipSample: ["37757", "37714", "37847"]
 zipCodes: ["37847", "37714", "37757"]
 localPaths: ["Campbell County / elevation 1188 ft band", "Campbell County / ZIP 37714 sector", "Campbell County / ZIP 37847 sector", "Campbell County / primary ZIP 37714", "Campbell County / ZIP 37757 sector"]
+zillowHomeValueUsd: 247693
 ---
 
 **Engineering Notice for Caryville:** Site context locked to Campbell County. Coordinates: 36.3300, -84.2200. Wall Restoration integrity verification recorded.

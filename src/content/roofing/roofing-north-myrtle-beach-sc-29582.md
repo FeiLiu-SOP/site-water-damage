@@ -11,6 +11,7 @@ lng: -78.7100
 zipSample: ["29597", "29566", "29582", "29568"]
 zipCodes: ["29582", "29568", "29566", "29597"]
 localPaths: ["Horry County / ZIP 29582 sector", "Horry County / ZIP 29597 sector", "Horry County / ZIP 29568 sector", "Horry County / coords 33.8200, -78.7100", "Horry County / elevation 7 ft band"]
+zillowHomeValueUsd: 393266
 ---
 
 **Engineering Notice for North Myrtle Beach:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Horry County.

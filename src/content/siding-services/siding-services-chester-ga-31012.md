@@ -12,6 +12,7 @@ lng: -83.1600
 zipSample: ["31012"]
 zipCodes: ["31012"]
 localPaths: ["Dodge County / primary ZIP 31012", "Dodge County / ZIP 31012 sector", "Dodge County / coords 32.3900, -83.1600", "Dodge County / elevation 374 ft band"]
+zillowHomeValueUsd: 154577
 ---
 
 **Engineering Notice for Chester:** Cladding Service was validated under stress factor 0.74; target tolerance set near 104 mph. Coordinates: 32.3900, -83.1600. Grid anchor: Dodge County.

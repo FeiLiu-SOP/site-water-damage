@@ -12,6 +12,7 @@ lng: -91.9600
 zipSample: ["70577"]
 zipCodes: ["70577"]
 localPaths: ["St. Landry Parish / ZIP 70577 sector", "St. Landry Parish / primary ZIP 70577", "St. Landry Parish / coords 30.5600, -91.9600", "St. Landry Parish / elevation 43 ft band"]
+zillowHomeValueUsd: 122633
 ---
 
 **Engineering Notice for Port Barre:** Cladding verification uses 95 mph routing baseline; lateral pressure note: 12.6 psf. Elevation: 43 ft AMSL. Coordinates: 30.5600, -91.9600. Grid: St. Landry Parish.

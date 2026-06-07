@@ -11,6 +11,7 @@ lng: -122.9100
 zipSample: ["97502"]
 zipCodes: ["97502"]
 localPaths: ["Jackson County / ZIP 97502 sector", "Jackson County / coords 42.3800, -122.9100", "Jackson County / primary ZIP 97502", "Jackson County / elevation 1270 ft band"]
+zillowHomeValueUsd: 420178
 ---
 
 **Engineering Notice for Central Point:** Structural loading calculated based on 1270 ft terrain assessment. Regional dispatch grid: Jackson County.

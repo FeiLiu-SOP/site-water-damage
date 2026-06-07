@@ -11,6 +11,7 @@ lng: -72.2100
 zipSample: ["06226", "06256"]
 zipCodes: ["06226", "06256"]
 localPaths: ["Southeastern Connecticut County / primary ZIP 06256", "Southeastern Connecticut County / elevation 384 ft band", "Southeastern Connecticut County / coords 41.7200, -72.2100", "Southeastern Connecticut County / ZIP 06256 sector", "Southeastern Connecticut County / ZIP 06226 sector"]
+zillowHomeValueUsd: 303924
 ---
 
 **Engineering Notice for Willimantic:** Structural loading calculated based on 384 ft terrain assessment. Regional dispatch grid: Southeastern Connecticut County.

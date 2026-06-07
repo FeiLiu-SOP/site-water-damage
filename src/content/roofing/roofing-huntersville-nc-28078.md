@@ -11,6 +11,7 @@ lng: -80.8700
 zipSample: ["28070", "28078"]
 zipCodes: ["28070", "28078"]
 localPaths: ["Mecklenburg County / elevation 696 ft band", "Mecklenburg County / ZIP 28078 sector", "Mecklenburg County / primary ZIP 28078", "Mecklenburg County / ZIP 28070 sector", "Mecklenburg County / coords 35.4100, -80.8700"]
+zillowHomeValueUsd: 541670
 ---
 
 **Engineering Notice for Huntersville:** Structural loading calculated based on 696 ft terrain assessment. Regional dispatch grid: Mecklenburg County.

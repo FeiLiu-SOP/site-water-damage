@@ -12,6 +12,7 @@ lng: -88.2100
 zipSample: ["38847", "38827"]
 zipCodes: ["38847", "38827"]
 localPaths: ["Tishomingo County / coords 34.5000, -88.2100", "Tishomingo County / primary ZIP 38827", "Tishomingo County / ZIP 38827 sector", "Tishomingo County / ZIP 38847 sector", "Tishomingo County / elevation 584 ft band"]
+zillowHomeValueUsd: 166600
 ---
 
 **Engineering Notice for Belmont:** structural drying capacity optimized for 584ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tishomingo County. Relative Humidity Threshold: 85%. Sensor sync: Active.

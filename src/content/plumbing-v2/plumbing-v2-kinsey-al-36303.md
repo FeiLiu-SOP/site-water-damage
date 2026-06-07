@@ -12,6 +12,7 @@ lng: -85.3400
 zipSample: ["36345", "36303"]
 zipCodes: ["36345", "36303"]
 localPaths: ["Houston County / ZIP 36303 sector", "Houston County / elevation 335 ft band", "Houston County / ZIP 36345 sector", "Houston County / primary ZIP 36303", "Houston County / coords 31.2900, -85.3400"]
+zillowHomeValueUsd: 184711
 ---
 
 **Engineering Notice for Kinsey:** System optimized for 141 mg/L hard water scaling factors in Kinsey. Regional dispatch grid: Houston County.

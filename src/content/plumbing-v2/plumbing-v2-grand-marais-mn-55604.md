@@ -12,6 +12,7 @@ lng: -90.3400
 zipSample: ["55604"]
 zipCodes: ["55604"]
 localPaths: ["Cook County / elevation 879 ft band", "Cook County / ZIP 55604 sector", "Cook County / primary ZIP 55604", "Cook County / coords 47.7600, -90.3400"]
+zillowHomeValueUsd: 407349
 ---
 
 **Engineering Notice for Grand Marais:** System optimized for 127 mg/L hard water scaling factors in Grand Marais. Regional dispatch grid: Cook County.

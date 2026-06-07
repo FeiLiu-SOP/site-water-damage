@@ -11,6 +11,7 @@ lng: -87.3400
 zipSample: ["37042", "37041", "37044", "37040", "37043"]
 zipCodes: ["37041", "37043", "37044", "37040", "37042", "42223"]
 localPaths: ["Montgomery County / elevation 495 ft band", "Montgomery County / ZIP 37043 sector", "Montgomery County / ZIP 37042 sector", "Montgomery County / ZIP 37044 sector", "Montgomery County / ZIP 37040 sector"]
+zillowHomeValueUsd: 292166
 ---
 
 **Engineering Notice for Clarksville:** Structural loading calculated based on 495 ft terrain assessment. Regional dispatch grid: Montgomery County.

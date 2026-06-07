@@ -12,6 +12,7 @@ lng: -83.6400
 zipSample: ["32331"]
 zipCodes: ["32331"]
 localPaths: ["Madison County / ZIP 32331 sector", "Madison County / coords 30.4700, -83.6400", "Madison County / elevation 144 ft band", "Madison County / primary ZIP 32331"]
+zillowHomeValueUsd: 218407
 ---
 
 **Engineering Notice for Greenville:** System optimized for 149 mg/L hard water scaling factors in Greenville. Regional dispatch grid: Madison County.

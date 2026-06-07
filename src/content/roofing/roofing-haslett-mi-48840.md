@@ -11,6 +11,7 @@ lng: -84.4000
 zipSample: ["48840", "48823"]
 zipCodes: ["48840", "48823"]
 localPaths: ["Ingham County / elevation 846 ft band", "Ingham County / ZIP 48823 sector", "Ingham County / ZIP 48840 sector", "Ingham County / coords 42.7500, -84.4000", "Ingham County / primary ZIP 48840"]
+zillowHomeValueUsd: 305877
 ---
 
 **Engineering Notice for Haslett:** Structural loading calculated based on 846 ft terrain assessment. Regional dispatch grid: Ingham County.

@@ -12,6 +12,7 @@ lng: -97.2800
 zipSample: ["73050", "73027"]
 zipCodes: ["73027", "73050"]
 localPaths: ["Logan County / ZIP 73027 sector", "Logan County / ZIP 73050 sector", "Logan County / elevation 968 ft band", "Logan County / coords 35.9300, -97.2800", "Logan County / primary ZIP 73027"]
+zillowHomeValueUsd: 187241
 ---
 
 **Engineering Notice for Langston:** Site context locked to Logan County. Elevation: 968 ft AMSL. Panel Replacement integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -90.7500
 zipSample: ["70754"]
 zipCodes: ["70754"]
 localPaths: ["Livingston Parish / ZIP 70754 sector", "Livingston Parish / coords 30.5000, -90.7500", "Livingston Parish / elevation 72 ft band", "Livingston Parish / primary ZIP 70754"]
+zillowHomeValueUsd: 252913
 ---
 
 **Engineering Notice for Livingston:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Elevation: 72 ft AMSL. Grid: Livingston Parish.

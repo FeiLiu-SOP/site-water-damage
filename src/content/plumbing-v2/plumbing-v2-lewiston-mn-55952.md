@@ -12,6 +12,7 @@ lng: -91.8700
 zipSample: ["55952"]
 zipCodes: ["55952"]
 localPaths: ["Winona County / coords 43.9800, -91.8700", "Winona County / elevation 1217 ft band", "Winona County / ZIP 55952 sector", "Winona County / primary ZIP 55952"]
+zillowHomeValueUsd: 299304
 ---
 
 **Engineering Notice for Lewiston:** System optimized for 140 mg/L hard water scaling factors in Lewiston. Regional dispatch grid: Winona County.

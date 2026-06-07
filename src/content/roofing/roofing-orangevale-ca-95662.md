@@ -11,6 +11,7 @@ lng: -121.2200
 zipSample: ["95662"]
 zipCodes: ["95662"]
 localPaths: ["Sacramento County / elevation 233 ft band", "Sacramento County / primary ZIP 95662", "Sacramento County / coords 38.6900, -121.2200", "Sacramento County / ZIP 95662 sector"]
+zillowHomeValueUsd: 561839
 ---
 
 **Engineering Notice for Orangevale:** Structural loading calculated based on 233 ft terrain assessment. Regional dispatch grid: Sacramento County.

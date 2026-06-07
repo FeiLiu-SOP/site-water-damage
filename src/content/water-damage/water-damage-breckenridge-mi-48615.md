@@ -12,6 +12,7 @@ lng: -84.4800
 zipSample: ["48615"]
 zipCodes: ["48615"]
 localPaths: ["Gratiot County / elevation 738 ft band", "Gratiot County / ZIP 48615 sector", "Gratiot County / coords 43.4100, -84.4800", "Gratiot County / primary ZIP 48615"]
+zillowHomeValueUsd: 177467
 ---
 
 **Engineering Notice for Breckenridge:** structural drying capacity optimized for 738ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gratiot County. Relative Humidity Threshold: 74%. Sensor sync: Active.

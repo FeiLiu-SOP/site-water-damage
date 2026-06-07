@@ -11,6 +11,7 @@ lng: -87.9700
 zipSample: ["53222", "53211", "53207", "53259", "53221"]
 zipCodes: ["53201", "53212", "53224", "53225", "53263", "53237", "53288", "53215", "53211", "53203", "53214", "53218"]
 localPaths: ["Milwaukee County / coords 43.0600, -87.9700", "Milwaukee County / primary ZIP 53203", "Milwaukee County / ZIP 53211 sector", "Milwaukee County / ZIP 53222 sector", "Milwaukee County / ZIP 53207 sector"]
+zillowHomeValueUsd: 377689
 ---
 
 **Engineering Notice for Milwaukee:** Structural loading calculated based on 722 ft terrain assessment. Regional dispatch grid: Milwaukee County.

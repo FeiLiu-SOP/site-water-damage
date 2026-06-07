@@ -12,6 +12,7 @@ lng: -80.3800
 zipSample: ["16101"]
 zipCodes: ["16101"]
 localPaths: ["Lawrence County / elevation 1020 ft band", "Lawrence County / coords 41.0100, -80.3800", "Lawrence County / ZIP 16101 sector", "Lawrence County / primary ZIP 16101"]
+zillowHomeValueUsd: 117567
 ---
 
 **Engineering Notice for Oakwood:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Elevation: 1020 ft AMSL. Coordinates: 41.0100, -80.3800. Grid: Lawrence County.

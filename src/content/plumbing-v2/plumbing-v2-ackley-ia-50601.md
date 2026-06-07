@@ -12,6 +12,7 @@ lng: -93.0500
 zipSample: ["50601"]
 zipCodes: ["50601"]
 localPaths: ["Hardin County / elevation 1102 ft band", "Hardin County / primary ZIP 50601", "Hardin County / ZIP 50601 sector", "Hardin County / coords 42.5500, -93.0500"]
+zillowHomeValueUsd: 137472
 ---
 
 **Engineering Notice for Ackley:** System optimized for 149 mg/L hard water scaling factors in Ackley. Regional dispatch grid: Hardin County.

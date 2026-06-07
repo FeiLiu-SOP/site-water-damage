@@ -12,6 +12,7 @@ lng: -83.1000
 zipSample: ["48030"]
 zipCodes: ["48030"]
 localPaths: ["Oakland County / ZIP 48030 sector", "Oakland County / coords 42.4600, -83.1000", "Oakland County / elevation 640 ft band", "Oakland County / primary ZIP 48030"]
+zillowHomeValueUsd: 155433
 ---
 
 **Engineering Notice for Hazel Park:** Structural loading calculated based on 640 ft terrain assessment. Regional dispatch grid: Oakland County.

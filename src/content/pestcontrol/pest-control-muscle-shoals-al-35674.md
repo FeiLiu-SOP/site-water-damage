@@ -11,6 +11,7 @@ lng: -87.6300
 zipSample: ["35661", "35674", "35662"]
 zipCodes: ["35674", "35661", "35662"]
 localPaths: ["Colbert County / elevation 535 ft band", "Colbert County / ZIP 35674 sector", "Colbert County / ZIP 35661 sector", "Colbert County / ZIP 35662 sector", "Colbert County / coords 34.7400, -87.6300"]
+zillowHomeValueUsd: 200206
 ---
 
 **Engineering Notice for Muscle Shoals:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: Colbert County.

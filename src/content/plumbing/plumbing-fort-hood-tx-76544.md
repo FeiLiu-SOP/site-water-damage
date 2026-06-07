@@ -12,6 +12,8 @@ lng: -97.7800
 zipSample: ["76544"]
 zipCodes: ["76544"]
 localPaths: ["Coryell County / coords 31.1400, -97.7800", "Coryell County / primary ZIP 76544", "Coryell County / ZIP 76544 sector", "Coryell County / elevation 925 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 301005
 ---
 
 **Engineering Notice for Fort Hood:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Coryell County.

@@ -12,6 +12,7 @@ lng: -85.2400
 zipSample: ["36312"]
 zipCodes: ["36312"]
 localPaths: ["Houston County / primary ZIP 36312", "Houston County / elevation 259 ft band", "Houston County / coords 31.1900, -85.2400", "Houston County / ZIP 36312 sector"]
+zillowHomeValueUsd: 194321
 ---
 
 **Engineering Notice for Ashford:** System optimized for 180 mg/L hard water scaling factors in Ashford. Regional dispatch grid: Houston County.

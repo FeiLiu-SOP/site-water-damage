@@ -11,6 +11,7 @@ lng: -85.0200
 zipSample: ["46803", "46774"]
 zipCodes: ["46803", "46774"]
 localPaths: ["Allen County / elevation 771 ft band", "Allen County / ZIP 46774 sector", "Allen County / ZIP 46803 sector", "Allen County / primary ZIP 46774", "Allen County / coords 41.0700, -85.0200"]
+zillowHomeValueUsd: 245305
 ---
 
 **Engineering Notice for New Haven:** Structural loading calculated based on 771 ft terrain assessment. Regional dispatch grid: Allen County.

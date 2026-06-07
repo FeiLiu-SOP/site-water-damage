@@ -12,6 +12,8 @@ lng: -90.7700
 zipSample: ["38774"]
 zipCodes: ["38774"]
 localPaths: ["Bolivar County / elevation 161 ft band", "Bolivar County / coords 33.9500, -90.7700", "Bolivar County / primary ZIP 38774", "Bolivar County / ZIP 38774 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 159612
 ---
 
 **Engineering Notice for Shelby:** Site context locked to Bolivar County. Elevation: 161 ft AMSL. Vinyl Panels integrity verification recorded.

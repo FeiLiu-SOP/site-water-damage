@@ -12,6 +12,7 @@ lng: -93.2100
 zipSample: ["55112"]
 zipCodes: ["55112"]
 localPaths: ["Ramsey County / ZIP 55112 sector", "Ramsey County / coords 45.0700, -93.2100", "Ramsey County / primary ZIP 55112", "Ramsey County / elevation 869 ft band"]
+zillowHomeValueUsd: 377329
 ---
 
 **Engineering Notice for New Brighton:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: Ramsey County.

@@ -12,6 +12,7 @@ lng: -85.5200
 zipSample: ["37397"]
 zipCodes: ["37397"]
 localPaths: ["Marion County / ZIP 37397 sector", "Marion County / coords 35.1900, -85.5200", "Marion County / primary ZIP 37397", "Marion County / elevation 650 ft band"]
+zillowHomeValueUsd: 227301
 ---
 
 **Engineering Notice for Whitwell:** System optimized for 179 mg/L hard water scaling factors in Whitwell. Regional dispatch grid: Marion County.

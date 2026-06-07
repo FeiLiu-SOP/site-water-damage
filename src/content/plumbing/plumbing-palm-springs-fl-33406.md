@@ -12,6 +12,7 @@ lng: -80.1000
 zipSample: ["33406", "33461"]
 zipCodes: ["33406", "33461"]
 localPaths: ["Palm Beach County / elevation 36 ft band", "Palm Beach County / coords 26.6300, -80.1000", "Palm Beach County / ZIP 33406 sector", "Palm Beach County / primary ZIP 33406", "Palm Beach County / ZIP 33461 sector"]
+zillowHomeValueUsd: 422311
 ---
 
 **Engineering Notice for Palm Springs:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Palm Beach County.

@@ -12,6 +12,7 @@ lng: -120.2300
 zipSample: ["95383", "95370"]
 zipCodes: ["95370", "95383"]
 localPaths: ["Tuolumne County / primary ZIP 95370", "Tuolumne County / coords 38.0400, -120.2300", "Tuolumne County / ZIP 95383 sector", "Tuolumne County / elevation 3727 ft band", "Tuolumne County / ZIP 95370 sector"]
+zillowHomeValueUsd: 404623
 ---
 
 **Engineering Notice for Twain Harte:** System optimized for 174 mg/L hard water scaling factors in Twain Harte. Regional dispatch grid: Tuolumne County.

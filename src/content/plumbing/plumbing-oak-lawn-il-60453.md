@@ -12,6 +12,7 @@ lng: -87.7500
 zipSample: ["60453"]
 zipCodes: ["60453"]
 localPaths: ["Cook County / ZIP 60453 sector", "Cook County / coords 41.7100, -87.7500", "Cook County / elevation 614 ft band", "Cook County / primary ZIP 60453"]
+zillowHomeValueUsd: 283265
 ---
 
 **Engineering Notice for Oak Lawn:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Cook County.

@@ -12,6 +12,7 @@ lng: -123.1100
 zipSample: ["97348"]
 zipCodes: ["97348"]
 localPaths: ["Linn County / elevation 285 ft band", "Linn County / ZIP 97348 sector", "Linn County / primary ZIP 97348", "Linn County / coords 44.3800, -123.1100"]
+zillowHomeValueUsd: 397652
 ---
 
 **Engineering Notice for Halsey:** System optimized for 137 mg/L hard water scaling factors in Halsey. Regional dispatch grid: Linn County.

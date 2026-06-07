@@ -11,6 +11,7 @@ lng: -117.9100
 zipSample: ["92628", "92626", "92627"]
 zipCodes: ["92627", "92626", "92628"]
 localPaths: ["Orange County / primary ZIP 92626", "Orange County / ZIP 92626 sector", "Orange County / coords 33.6700, -117.9100", "Orange County / elevation 75 ft band", "Orange County / ZIP 92627 sector"]
+zillowHomeValueUsd: 1442423
 ---
 
 **Engineering Notice for Costa Mesa:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Orange County.

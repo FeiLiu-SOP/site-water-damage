@@ -11,6 +11,7 @@ lng: -78.0000
 zipSample: ["22701"]
 zipCodes: ["22701"]
 localPaths: ["Culpeper County / primary ZIP 22701", "Culpeper County / coords 38.4700, -78.0000", "Culpeper County / ZIP 22701 sector", "Culpeper County / elevation 433 ft band"]
+zillowHomeValueUsd: 450329
 ---
 
 **Engineering Notice for Culpeper:** Structural loading calculated based on 433 ft terrain assessment. Regional dispatch grid: Culpeper County.

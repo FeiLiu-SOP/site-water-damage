@@ -12,6 +12,7 @@ lng: -95.9800
 zipSample: ["56264"]
 zipCodes: ["56264"]
 localPaths: ["Lyon County / coords 44.5600, -95.9800", "Lyon County / elevation 1168 ft band", "Lyon County / ZIP 56264 sector", "Lyon County / primary ZIP 56264"]
+zillowHomeValueUsd: 187422
 ---
 
 **Engineering Notice for Minneota:** Envelope check: Wall Restoration assigned to wind-load band C with stress factor 1.02. Regional dispatch grid: Lyon County.

@@ -12,6 +12,7 @@ lng: -81.6400
 zipSample: ["45715"]
 zipCodes: ["45715"]
 localPaths: ["Washington County / elevation 712 ft band", "Washington County / ZIP 45715 sector", "Washington County / coords 39.5500, -81.6400", "Washington County / primary ZIP 45715"]
+zillowHomeValueUsd: 175783
 ---
 
 **Engineering Notice for Beverly:** System optimized for 167 mg/L hard water scaling factors in Beverly. Regional dispatch grid: Washington County.

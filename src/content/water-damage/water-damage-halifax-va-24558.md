@@ -12,6 +12,7 @@ lng: -78.9300
 zipSample: ["24558"]
 zipCodes: ["24558"]
 localPaths: ["Halifax County / primary ZIP 24558", "Halifax County / ZIP 24558 sector", "Halifax County / elevation 394 ft band", "Halifax County / coords 36.7600, -78.9300"]
+zillowHomeValueUsd: 172284
 ---
 
 **Engineering Notice for Halifax:** structural drying capacity optimized for 394ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Halifax County. Relative Humidity Threshold: 83%. Sensor sync: Active.

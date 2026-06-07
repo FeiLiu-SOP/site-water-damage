@@ -12,6 +12,7 @@ lng: -94.7400
 zipSample: ["50841"]
 zipCodes: ["50841"]
 localPaths: ["Adams County / primary ZIP 50841", "Adams County / coords 40.9900, -94.7400", "Adams County / elevation 1214 ft band", "Adams County / ZIP 50841 sector"]
+zillowHomeValueUsd: 143271
 ---
 
 **Engineering Notice for Corning:** System optimized for 143 mg/L hard water scaling factors in Corning. Regional dispatch grid: Adams County.

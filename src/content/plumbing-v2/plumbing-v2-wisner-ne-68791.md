@@ -12,6 +12,7 @@ lng: -96.9100
 zipSample: ["68791"]
 zipCodes: ["68791"]
 localPaths: ["Cuming County / elevation 1404 ft band", "Cuming County / primary ZIP 68791", "Cuming County / ZIP 68791 sector", "Cuming County / coords 41.9900, -96.9100"]
+zillowHomeValueUsd: 226040
 ---
 
 **Engineering Notice for Wisner:** System optimized for 170 mg/L hard water scaling factors in Wisner. Regional dispatch grid: Cuming County.

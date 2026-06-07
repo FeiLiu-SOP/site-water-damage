@@ -12,6 +12,7 @@ lng: -121.2300
 zipSample: ["95638", "95632"]
 zipCodes: ["95632", "95638"]
 localPaths: ["Sacramento County / coords 38.2900, -121.2300", "Sacramento County / elevation 75 ft band", "Sacramento County / ZIP 95632 sector", "Sacramento County / primary ZIP 95632", "Sacramento County / ZIP 95638 sector"]
+zillowHomeValueUsd: 533062
 ---
 
 **Engineering Notice for Herald:** System optimized for 126 mg/L hard water scaling factors in Herald. Regional dispatch grid: Sacramento County.

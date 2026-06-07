@@ -12,6 +12,7 @@ lng: -87.9400
 zipSample: ["53217"]
 zipCodes: ["53217"]
 localPaths: ["Milwaukee County / elevation 705 ft band", "Milwaukee County / ZIP 53217 sector", "Milwaukee County / primary ZIP 53217", "Milwaukee County / coords 43.1700, -87.9400"]
+zillowHomeValueUsd: 562365
 ---
 
 **Engineering Notice for River Hills:** Envelope check: Exterior Cladding assigned to wind-load band A with stress factor 0.74. Elevation: 705 ft AMSL. Regional dispatch grid: Milwaukee County.

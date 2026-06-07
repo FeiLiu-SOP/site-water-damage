@@ -12,6 +12,7 @@ lng: -83.7600
 zipSample: ["40360"]
 zipCodes: ["40360"]
 localPaths: ["Bath County / ZIP 40360 sector", "Bath County / coords 38.1400, -83.7600", "Bath County / elevation 915 ft band", "Bath County / primary ZIP 40360"]
+zillowHomeValueUsd: 176889
 ---
 
 **Engineering Notice for Owingsville:** structural drying capacity optimized for 915ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bath County. Relative Humidity Threshold: 74%. Sensor sync: Active.

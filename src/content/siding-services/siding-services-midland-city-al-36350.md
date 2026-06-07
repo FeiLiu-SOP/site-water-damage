@@ -12,6 +12,7 @@ lng: -85.4900
 zipSample: ["36350"]
 zipCodes: ["36350"]
 localPaths: ["Dale County / coords 31.3200, -85.4900", "Dale County / ZIP 36350 sector", "Dale County / elevation 394 ft band", "Dale County / primary ZIP 36350"]
+zillowHomeValueUsd: 201519
 ---
 
 **Engineering Notice for Midland City:** Site context locked to Dale County. Elevation: 394 ft AMSL. Coordinates: 31.3200, -85.4900. Cladding Service integrity verification recorded.

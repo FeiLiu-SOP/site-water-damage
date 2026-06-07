@@ -12,6 +12,7 @@ lng: -90.8000
 zipSample: ["54771"]
 zipCodes: ["54771"]
 localPaths: ["Clark County / coords 44.9600, -90.8000", "Clark County / primary ZIP 54771", "Clark County / ZIP 54771 sector", "Clark County / elevation 1191 ft band"]
+zillowHomeValueUsd: 237593
 ---
 
 **Engineering Notice for Thorp:** Envelope check: Wall Restoration assigned to wind-load band A with stress factor 0.87. Elevation: 1191 ft AMSL. Regional dispatch grid: Clark County.

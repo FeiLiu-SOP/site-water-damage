@@ -11,6 +11,7 @@ lng: -81.7300
 zipSample: ["44130", "44134", "44129"]
 zipCodes: ["44129", "44130", "44134"]
 localPaths: ["Cuyahoga County / elevation 965 ft band", "Cuyahoga County / coords 41.3800, -81.7300", "Cuyahoga County / ZIP 44134 sector", "Cuyahoga County / ZIP 44129 sector", "Cuyahoga County / ZIP 44130 sector"]
+zillowHomeValueUsd: 205980
 ---
 
 **Engineering Notice for Parma:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Cuyahoga County.

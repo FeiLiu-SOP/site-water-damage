@@ -12,6 +12,7 @@ lng: -78.5200
 zipSample: ["16833"]
 zipCodes: ["16833"]
 localPaths: ["Clearfield County / ZIP 16833 sector", "Clearfield County / coords 40.9700, -78.5200", "Clearfield County / primary ZIP 16833", "Clearfield County / elevation 1152 ft band"]
+zillowHomeValueUsd: 135093
 ---
 
 **Engineering Notice for Curwensville:** Cladding verification uses 98 mph routing baseline; lateral pressure note: 13.0 psf. Elevation: 1152 ft AMSL. Grid: Clearfield County.

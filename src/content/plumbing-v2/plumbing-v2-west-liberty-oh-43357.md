@@ -12,6 +12,7 @@ lng: -83.7600
 zipSample: ["43357"]
 zipCodes: ["43357"]
 localPaths: ["Logan County / primary ZIP 43357", "Logan County / elevation 1178 ft band", "Logan County / ZIP 43357 sector", "Logan County / coords 40.2600, -83.7600"]
+zillowHomeValueUsd: 300266
 ---
 
 **Engineering Notice for West Liberty:** System optimized for 147 mg/L hard water scaling factors in West Liberty. Regional dispatch grid: Logan County.

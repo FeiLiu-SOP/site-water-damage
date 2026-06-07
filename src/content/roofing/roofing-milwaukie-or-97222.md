@@ -11,6 +11,7 @@ lng: -122.6200
 zipSample: ["97269", "97222"]
 zipCodes: ["97269", "97222"]
 localPaths: ["Clackamas County / ZIP 97269 sector", "Clackamas County / ZIP 97222 sector", "Clackamas County / coords 45.4400, -122.6200", "Clackamas County / primary ZIP 97222", "Clackamas County / elevation 154 ft band"]
+zillowHomeValueUsd: 495484
 ---
 
 **Engineering Notice for Milwaukie:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Clackamas County.

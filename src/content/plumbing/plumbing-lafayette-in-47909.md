@@ -12,6 +12,7 @@ lng: -86.8600
 zipSample: ["47904", "47903", "47909", "47901", "47905"]
 zipCodes: ["47902", "47903", "47905", "47904", "47901", "47909"]
 localPaths: ["Tippecanoe County / ZIP 47901 sector", "Tippecanoe County / primary ZIP 47909", "Tippecanoe County / ZIP 47909 sector", "Tippecanoe County / elevation 669 ft band", "Tippecanoe County / ZIP 47904 sector"]
+zillowHomeValueUsd: 275924
 ---
 
 **Engineering Notice for Lafayette:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Tippecanoe County.

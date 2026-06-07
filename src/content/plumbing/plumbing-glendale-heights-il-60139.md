@@ -12,6 +12,7 @@ lng: -88.0800
 zipSample: ["60139", "60132"]
 zipCodes: ["60132", "60139"]
 localPaths: ["DuPage County / coords 41.9200, -88.0800", "DuPage County / elevation 810 ft band", "DuPage County / primary ZIP 60139", "DuPage County / ZIP 60132 sector", "DuPage County / ZIP 60139 sector"]
+zillowHomeValueUsd: 317503
 ---
 
 **Engineering Notice for Glendale Heights:** Structural loading calculated based on 810 ft terrain assessment. Regional dispatch grid: DuPage County.

@@ -12,6 +12,7 @@ lng: -90.5900
 zipSample: ["54456"]
 zipCodes: ["54456"]
 localPaths: ["Clark County / elevation 1050 ft band", "Clark County / coords 44.5600, -90.5900", "Clark County / primary ZIP 54456", "Clark County / ZIP 54456 sector"]
+zillowHomeValueUsd: 210691
 ---
 
 **Engineering Notice for Neillsville:** System optimized for 122 mg/L hard water scaling factors in Neillsville. Regional dispatch grid: Clark County.

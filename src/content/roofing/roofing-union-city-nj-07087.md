@@ -11,6 +11,7 @@ lng: -74.0300
 zipSample: ["07087"]
 zipCodes: ["07087"]
 localPaths: ["Hudson County / ZIP 07087 sector", "Hudson County / coords 40.7700, -74.0300", "Hudson County / primary ZIP 07087", "Hudson County / elevation 210 ft band"]
+zillowHomeValueUsd: 567902
 ---
 
 **Engineering Notice for Union City:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Hudson County.

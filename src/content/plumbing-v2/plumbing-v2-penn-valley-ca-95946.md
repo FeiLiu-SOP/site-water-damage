@@ -12,6 +12,7 @@ lng: -121.1900
 zipSample: ["95946"]
 zipCodes: ["95946"]
 localPaths: ["Nevada County / elevation 1460 ft band", "Nevada County / coords 39.2000, -121.1900", "Nevada County / ZIP 95946 sector", "Nevada County / primary ZIP 95946"]
+zillowHomeValueUsd: 519425
 ---
 
 **Engineering Notice for Penn Valley:** System optimized for 136 mg/L hard water scaling factors in Penn Valley. Regional dispatch grid: Nevada County.

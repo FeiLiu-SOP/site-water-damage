@@ -12,6 +12,7 @@ lng: -90.2400
 zipSample: ["52734", "52732", "52733", "52736"]
 zipCodes: ["52732", "52734", "52733", "52736"]
 localPaths: ["Clinton County / ZIP 52732 sector", "Clinton County / ZIP 52734 sector", "Clinton County / coords 41.8400, -90.2400", "Clinton County / ZIP 52733 sector", "Clinton County / primary ZIP 52732"]
+zillowHomeValueUsd: 127195
 ---
 
 **Engineering Notice for Clinton:** Structural loading calculated based on 663 ft terrain assessment. Regional dispatch grid: Clinton County.

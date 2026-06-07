@@ -11,6 +11,7 @@ lng: -87.5100
 zipSample: ["46311"]
 zipCodes: ["46311"]
 localPaths: ["Lake County / primary ZIP 46311", "Lake County / ZIP 46311 sector", "Lake County / coords 41.5000, -87.5100", "Lake County / elevation 630 ft band"]
+zillowHomeValueUsd: 361193
 ---
 
 **Engineering Notice for Dyer:** Structural loading calculated based on 630 ft terrain assessment. Regional dispatch grid: Lake County.

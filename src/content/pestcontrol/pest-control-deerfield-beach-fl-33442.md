@@ -11,6 +11,7 @@ lng: -80.1300
 zipSample: ["33442", "33441", "33064", "33443"]
 zipCodes: ["33441", "33064", "33442", "33443"]
 localPaths: ["Broward County / coords 26.3000, -80.1300", "Broward County / elevation 36 ft band", "Broward County / primary ZIP 33442", "Broward County / ZIP 33443 sector", "Broward County / ZIP 33441 sector"]
+zillowHomeValueUsd: 185215
 ---
 
 **Engineering Notice for Deerfield Beach:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Broward County.

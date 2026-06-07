@@ -12,6 +12,7 @@ lng: -77.5700
 zipSample: ["21773"]
 zipCodes: ["21773"]
 localPaths: ["Frederick County / coords 39.5100, -77.5700", "Frederick County / primary ZIP 21773", "Frederick County / ZIP 21773 sector", "Frederick County / elevation 636 ft band"]
+zillowHomeValueUsd: 554279
 ---
 
 **Engineering Notice for Myersville:** System optimized for 120 mg/L hard water scaling factors in Myersville. Regional dispatch grid: Frederick County.

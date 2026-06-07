@@ -12,6 +12,7 @@ lng: -79.7500
 zipSample: ["15473"]
 zipCodes: ["15473"]
 localPaths: ["Fayette County / primary ZIP 15473", "Fayette County / elevation 1010 ft band", "Fayette County / coords 40.0900, -79.7500", "Fayette County / ZIP 15473 sector"]
+zillowHomeValueUsd: 185145
 ---
 
 **Engineering Notice for Perryopolis:** Cladding verification uses 106 mph routing baseline; lateral pressure note: 13.9 psf. Elevation: 1010 ft AMSL. Coordinates: 40.0900, -79.7500. Grid: Fayette County.

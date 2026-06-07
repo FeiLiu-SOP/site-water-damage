@@ -12,6 +12,7 @@ lng: -90.4300
 zipSample: ["72365"]
 zipCodes: ["72365"]
 localPaths: ["Poinsett County / primary ZIP 72365", "Poinsett County / ZIP 72365 sector", "Poinsett County / elevation 210 ft band", "Poinsett County / coords 35.5300, -90.4300"]
+zillowHomeValueUsd: 105060
 ---
 
 **Engineering Notice for Marked Tree:** structural drying capacity optimized for 210ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Poinsett County. Relative Humidity Threshold: 80%. Sensor sync: Active.

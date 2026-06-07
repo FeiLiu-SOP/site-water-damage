@@ -12,6 +12,7 @@ lng: -122.1100
 zipSample: ["98296"]
 zipCodes: ["98296"]
 localPaths: ["Snohomish County / coords 47.8500, -122.1100", "Snohomish County / primary ZIP 98296", "Snohomish County / ZIP 98296 sector", "Snohomish County / elevation 384 ft band"]
+zillowHomeValueUsd: 1059004
 ---
 
 **Engineering Notice for Cathcart:** System optimized for 138 mg/L hard water scaling factors in Cathcart. Regional dispatch grid: Snohomish County.

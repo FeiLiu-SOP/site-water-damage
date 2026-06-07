@@ -12,6 +12,7 @@ lng: -85.8700
 zipSample: ["36253", "36203", "36260"]
 zipCodes: ["36260", "36253", "36203"]
 localPaths: ["Calhoun County / ZIP 36203 sector", "Calhoun County / primary ZIP 36260", "Calhoun County / coords 33.6000, -85.8700", "Calhoun County / ZIP 36253 sector", "Calhoun County / elevation 646 ft band"]
+zillowHomeValueUsd: 186867
 ---
 
 **Engineering Notice for Oxford:** Structural loading calculated based on 646 ft terrain assessment. Regional dispatch grid: Calhoun County.

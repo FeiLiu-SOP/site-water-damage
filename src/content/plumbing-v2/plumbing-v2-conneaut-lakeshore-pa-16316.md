@@ -12,6 +12,7 @@ lng: -80.3100
 zipSample: ["16316"]
 zipCodes: ["16316"]
 localPaths: ["Crawford County / primary ZIP 16316", "Crawford County / ZIP 16316 sector", "Crawford County / coords 41.6300, -80.3100", "Crawford County / elevation 1066 ft band"]
+zillowHomeValueUsd: 211057
 ---
 
 **Engineering Notice for Conneaut Lakeshore:** System optimized for 137 mg/L hard water scaling factors in Conneaut Lakeshore. Regional dispatch grid: Crawford County.

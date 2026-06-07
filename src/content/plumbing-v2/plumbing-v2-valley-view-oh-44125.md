@@ -12,6 +12,7 @@ lng: -81.6100
 zipSample: ["44125"]
 zipCodes: ["44125"]
 localPaths: ["Cuyahoga County / primary ZIP 44125", "Cuyahoga County / elevation 627 ft band", "Cuyahoga County / ZIP 44125 sector", "Cuyahoga County / coords 41.3800, -81.6100"]
+zillowHomeValueUsd: 139000
 ---
 
 **Engineering Notice for Valley View:** System optimized for 141 mg/L hard water scaling factors in Valley View. Regional dispatch grid: Cuyahoga County.

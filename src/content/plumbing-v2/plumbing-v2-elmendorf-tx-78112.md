@@ -12,6 +12,7 @@ lng: -98.3200
 zipSample: ["78112"]
 zipCodes: ["78112"]
 localPaths: ["Bexar County / coords 29.2600, -98.3200", "Bexar County / ZIP 78112 sector", "Bexar County / elevation 545 ft band", "Bexar County / primary ZIP 78112"]
+zillowHomeValueUsd: 234005
 ---
 
 **Engineering Notice for Elmendorf:** System optimized for 180 mg/L hard water scaling factors in Elmendorf. Regional dispatch grid: Bexar County.

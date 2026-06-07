@@ -12,6 +12,7 @@ lng: -98.0600
 zipSample: ["78605"]
 zipCodes: ["78605"]
 localPaths: ["Burnet County / coords 30.7400, -98.0600", "Burnet County / elevation 1270 ft band", "Burnet County / ZIP 78605 sector", "Burnet County / primary ZIP 78605"]
+zillowHomeValueUsd: 422314
 ---
 
 **Engineering Notice for Bertram:** Surface Sheathing was validated under stress factor 0.95; target tolerance set near 138 mph. Coordinates: 30.7400, -98.0600. Grid anchor: Burnet County.

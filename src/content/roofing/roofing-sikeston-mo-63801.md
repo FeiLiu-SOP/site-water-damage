@@ -11,6 +11,7 @@ lng: -89.5900
 zipSample: ["63801"]
 zipCodes: ["63801"]
 localPaths: ["Scott County / primary ZIP 63801", "Scott County / ZIP 63801 sector", "Scott County / coords 36.8900, -89.5900", "Scott County / elevation 348 ft band"]
+zillowHomeValueUsd: 156952
 ---
 
 **Engineering Notice for Sikeston:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Scott County.

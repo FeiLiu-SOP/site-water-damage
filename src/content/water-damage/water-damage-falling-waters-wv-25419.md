@@ -12,6 +12,7 @@ lng: -77.8900
 zipSample: ["25419"]
 zipCodes: ["25419"]
 localPaths: ["Berkeley County / ZIP 25419 sector", "Berkeley County / elevation 440 ft band", "Berkeley County / primary ZIP 25419", "Berkeley County / coords 39.5600, -77.8900"]
+zillowHomeValueUsd: 315011
 ---
 
 **Engineering Notice for Falling Waters:** structural drying capacity optimized for 440ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Berkeley County. Relative Humidity Threshold: 79%. Sensor sync: Active.

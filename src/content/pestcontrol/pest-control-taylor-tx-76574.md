@@ -11,6 +11,7 @@ lng: -97.4300
 zipSample: ["76574"]
 zipCodes: ["76574"]
 localPaths: ["Williamson County / ZIP 76574 sector", "Williamson County / primary ZIP 76574", "Williamson County / elevation 587 ft band", "Williamson County / coords 30.5700, -97.4300"]
+zillowHomeValueUsd: 285759
 ---
 
 **Engineering Notice for Taylor:** Structural loading calculated based on 587 ft terrain assessment. Regional dispatch grid: Williamson County.

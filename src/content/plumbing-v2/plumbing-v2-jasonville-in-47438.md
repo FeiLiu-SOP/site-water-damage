@@ -12,6 +12,7 @@ lng: -87.2000
 zipSample: ["47438"]
 zipCodes: ["47438"]
 localPaths: ["Greene County / elevation 633 ft band", "Greene County / ZIP 47438 sector", "Greene County / coords 39.1600, -87.2000", "Greene County / primary ZIP 47438"]
+zillowHomeValueUsd: 138277
 ---
 
 **Engineering Notice for Jasonville:** System optimized for 168 mg/L hard water scaling factors in Jasonville. Regional dispatch grid: Greene County.

@@ -11,6 +11,7 @@ lng: -81.7000
 zipSample: ["34145", "34140", "34146"]
 zipCodes: ["34146", "34145", "34140"]
 localPaths: ["Collier County / coords 25.9300, -81.7000", "Collier County / elevation 30 ft band", "Collier County / ZIP 34145 sector", "Collier County / ZIP 34146 sector", "Collier County / primary ZIP 34145"]
+zillowHomeValueUsd: 867775
 ---
 
 **Engineering Notice for Marco Island:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Collier County.

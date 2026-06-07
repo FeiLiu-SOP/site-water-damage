@@ -12,6 +12,8 @@ lng: -108.2000
 zipSample: ["87323"]
 zipCodes: ["87323"]
 localPaths: ["McKinley County / coords 35.4300, -108.2000", "McKinley County / elevation 7241 ft band", "McKinley County / primary ZIP 87323", "McKinley County / ZIP 87323 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 313792
 ---
 
 **Engineering Notice for Thoreau:** System optimized for 151 mg/L hard water scaling factors in Thoreau. Regional dispatch grid: McKinley County.

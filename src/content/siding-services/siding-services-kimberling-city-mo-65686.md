@@ -12,6 +12,7 @@ lng: -93.4200
 zipSample: ["65686"]
 zipCodes: ["65686"]
 localPaths: ["Stone County / ZIP 65686 sector", "Stone County / coords 36.6400, -93.4200", "Stone County / elevation 1063 ft band", "Stone County / primary ZIP 65686"]
+zillowHomeValueUsd: 299499
 ---
 
 **Engineering Notice for Kimberling City:** Site context locked to Stone County. Cladding Service integrity verification recorded.

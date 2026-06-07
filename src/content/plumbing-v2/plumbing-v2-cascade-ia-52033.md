@@ -12,6 +12,7 @@ lng: -91.0000
 zipSample: ["52033"]
 zipCodes: ["52033"]
 localPaths: ["Dubuque County / coords 42.3000, -91.0000", "Dubuque County / primary ZIP 52033", "Dubuque County / ZIP 52033 sector", "Dubuque County / elevation 860 ft band"]
+zillowHomeValueUsd: 288300
 ---
 
 **Engineering Notice for Cascade:** System optimized for 129 mg/L hard water scaling factors in Cascade. Regional dispatch grid: Dubuque County.

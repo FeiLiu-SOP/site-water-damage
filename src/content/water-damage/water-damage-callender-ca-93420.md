@@ -12,6 +12,7 @@ lng: -120.5800
 zipSample: ["93420"]
 zipCodes: ["93420"]
 localPaths: ["San Luis Obispo County / elevation 171 ft band", "San Luis Obispo County / primary ZIP 93420", "San Luis Obispo County / coords 35.0500, -120.5800", "San Luis Obispo County / ZIP 93420 sector"]
+zillowHomeValueUsd: 1050015
 ---
 
 **Engineering Notice for Callender:** structural drying capacity optimized for 171ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Luis Obispo County. Relative Humidity Threshold: 70%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -74.1600
 zipSample: ["07013", "07012", "07011", "07015", "07014"]
 zipCodes: ["07012", "07014", "07015", "07013", "07011"]
 localPaths: ["Passaic County / ZIP 07013 sector", "Passaic County / ZIP 07012 sector", "Passaic County / ZIP 07011 sector", "Passaic County / ZIP 07014 sector", "Passaic County / ZIP 07015 sector"]
+zillowHomeValueUsd: 577243
 ---
 
 **Engineering Notice for Clifton:** Structural loading calculated based on 131 ft terrain assessment. Regional dispatch grid: Passaic County.

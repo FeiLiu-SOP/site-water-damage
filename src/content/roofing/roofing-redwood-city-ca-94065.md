@@ -11,6 +11,7 @@ lng: -122.2300
 zipSample: ["94061", "94062", "94063", "94065"]
 zipCodes: ["94063", "94065", "94062", "94061"]
 localPaths: ["San Mateo County / ZIP 94065 sector", "San Mateo County / ZIP 94063 sector", "San Mateo County / coords 37.5000, -122.2300", "San Mateo County / ZIP 94062 sector", "San Mateo County / primary ZIP 94065"]
+zillowHomeValueUsd: 1870632
 ---
 
 **Engineering Notice for Redwood City:** Structural loading calculated based on -8 ft terrain assessment. Regional dispatch grid: San Mateo County.

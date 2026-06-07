@@ -11,6 +11,7 @@ lng: -122.0600
 zipSample: ["94552", "94578", "94546"]
 zipCodes: ["94578", "94552", "94546"]
 localPaths: ["Alameda County / ZIP 94578 sector", "Alameda County / elevation 361 ft band", "Alameda County / primary ZIP 94546", "Alameda County / ZIP 94546 sector", "Alameda County / ZIP 94552 sector"]
+zillowHomeValueUsd: 1035792
 ---
 
 **Engineering Notice for Castro Valley:** Structural loading calculated based on 361 ft terrain assessment. Regional dispatch grid: Alameda County.

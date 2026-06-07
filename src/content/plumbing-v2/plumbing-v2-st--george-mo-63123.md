@@ -12,6 +12,7 @@ lng: -90.3100
 zipSample: ["63123"]
 zipCodes: ["63123"]
 localPaths: ["St. Louis County / elevation 518 ft band", "St. Louis County / ZIP 63123 sector", "St. Louis County / coords 38.5400, -90.3100", "St. Louis County / primary ZIP 63123"]
+zillowHomeValueUsd: 243687
 ---
 
 **Engineering Notice for St. George:** System optimized for 143 mg/L hard water scaling factors in St. George. Regional dispatch grid: St. Louis County.

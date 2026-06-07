@@ -12,6 +12,7 @@ lng: -84.6400
 zipSample: ["45311"]
 zipCodes: ["45311"]
 localPaths: ["Preble County / coords 39.6400, -84.6400", "Preble County / primary ZIP 45311", "Preble County / elevation 856 ft band", "Preble County / ZIP 45311 sector"]
+zillowHomeValueUsd: 206244
 ---
 
 **Engineering Notice for Camden:** structural drying capacity optimized for 856ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Preble County. Relative Humidity Threshold: 78%. Sensor sync: Active.

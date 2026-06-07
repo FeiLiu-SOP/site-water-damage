@@ -11,6 +11,7 @@ lng: -121.3200
 zipSample: ["95829", "95830", "95828"]
 zipCodes: ["95830", "95828", "95829"]
 localPaths: ["Sacramento County / ZIP 95829 sector", "Sacramento County / ZIP 95830 sector", "Sacramento County / ZIP 95828 sector", "Sacramento County / coords 38.4700, -121.3200", "Sacramento County / primary ZIP 95830"]
+zillowHomeValueUsd: 1011934
 ---
 
 **Engineering Notice for Vineyard:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Sacramento County.

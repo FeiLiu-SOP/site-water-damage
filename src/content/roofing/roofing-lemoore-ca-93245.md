@@ -11,6 +11,7 @@ lng: -119.8000
 zipSample: ["93245"]
 zipCodes: ["93245"]
 localPaths: ["Kings County / ZIP 93245 sector", "Kings County / elevation 220 ft band", "Kings County / coords 36.2900, -119.8000", "Kings County / primary ZIP 93245"]
+zillowHomeValueUsd: 384351
 ---
 
 **Engineering Notice for Lemoore:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Kings County.

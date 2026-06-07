@@ -12,6 +12,7 @@ lng: -95.1800
 zipSample: ["77357"]
 zipCodes: ["77357"]
 localPaths: ["Montgomery County / ZIP 77357 sector", "Montgomery County / coords 30.1800, -95.1800", "Montgomery County / primary ZIP 77357", "Montgomery County / elevation 108 ft band"]
+zillowHomeValueUsd: 263586
 ---
 
 **Engineering Notice for Woodbranch:** structural drying capacity optimized for 108ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Montgomery County. Relative Humidity Threshold: 74%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -94.3800
 zipSample: ["77661", "77665"]
 zipCodes: ["77665", "77661"]
 localPaths: ["Chambers County / ZIP 77661 sector", "Chambers County / coords 29.7800, -94.3800", "Chambers County / ZIP 77665 sector", "Chambers County / elevation 30 ft band", "Chambers County / primary ZIP 77665"]
+zillowHomeValueUsd: 246182
 ---
 
 **Engineering Notice for Stowell:** structural drying capacity optimized for 30ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chambers County. Relative Humidity Threshold: 66%. Sensor sync: Active.

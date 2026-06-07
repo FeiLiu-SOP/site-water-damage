@@ -12,6 +12,7 @@ lng: -90.0900
 zipSample: ["70448", "70471", "70470"]
 zipCodes: ["70471", "70470", "70448"]
 localPaths: ["St. Tammany Parish / primary ZIP 70448", "St. Tammany Parish / coords 30.3800, -90.0900", "St. Tammany Parish / ZIP 70471 sector", "St. Tammany Parish / ZIP 70470 sector", "St. Tammany Parish / ZIP 70448 sector"]
+zillowHomeValueUsd: 335221
 ---
 
 **Engineering Notice for Mandeville:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: St. Tammany Parish.

@@ -12,6 +12,7 @@ lng: -79.1500
 zipSample: ["14738"]
 zipCodes: ["14738"]
 localPaths: ["Chautauqua County / ZIP 14738 sector", "Chautauqua County / elevation 1332 ft band", "Chautauqua County / coords 42.0600, -79.1500", "Chautauqua County / primary ZIP 14738"]
+zillowHomeValueUsd: 171158
 ---
 
 **Engineering Notice for Frewsburg:** structural drying capacity optimized for 1332ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chautauqua County. Relative Humidity Threshold: 71%. Sensor sync: Active.

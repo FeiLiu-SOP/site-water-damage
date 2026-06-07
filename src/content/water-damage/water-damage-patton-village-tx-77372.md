@@ -12,6 +12,7 @@ lng: -95.1600
 zipSample: ["77357", "77372"]
 zipCodes: ["77357", "77372"]
 localPaths: ["Montgomery County / elevation 112 ft band", "Montgomery County / ZIP 77357 sector", "Montgomery County / ZIP 77372 sector", "Montgomery County / coords 30.2000, -95.1600", "Montgomery County / primary ZIP 77372"]
+zillowHomeValueUsd: 240803
 ---
 
 **Engineering Notice for Patton Village:** structural drying capacity optimized for 112ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Montgomery County. Relative Humidity Threshold: 69%. Sensor sync: Active.

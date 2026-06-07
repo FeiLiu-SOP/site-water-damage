@@ -12,6 +12,7 @@ lng: -89.7500
 zipSample: ["61559"]
 zipCodes: ["61559"]
 localPaths: ["Peoria County / primary ZIP 61559", "Peoria County / ZIP 61559 sector", "Peoria County / coords 40.9300, -89.7500", "Peoria County / elevation 748 ft band"]
+zillowHomeValueUsd: 223092
 ---
 
 **Engineering Notice for Princeville:** Envelope check: Weather Barrier Wrap assigned to wind-load band C with stress factor 1.11. Regional dispatch grid: Peoria County.

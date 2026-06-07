@@ -11,6 +11,7 @@ lng: -87.9800
 zipSample: ["60561"]
 zipCodes: ["60561"]
 localPaths: ["DuPage County / ZIP 60561 sector", "DuPage County / coords 41.7400, -87.9800", "DuPage County / elevation 764 ft band", "DuPage County / primary ZIP 60561"]
+zillowHomeValueUsd: 449941
 ---
 
 **Engineering Notice for Darien:** Structural loading calculated based on 764 ft terrain assessment. Regional dispatch grid: DuPage County.

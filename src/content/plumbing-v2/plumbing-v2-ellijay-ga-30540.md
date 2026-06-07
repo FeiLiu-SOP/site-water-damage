@@ -12,6 +12,7 @@ lng: -84.4800
 zipSample: ["30540"]
 zipCodes: ["30540"]
 localPaths: ["Gilmer County / coords 34.6900, -84.4800", "Gilmer County / ZIP 30540 sector", "Gilmer County / elevation 1250 ft band", "Gilmer County / primary ZIP 30540"]
+zillowHomeValueUsd: 402066
 ---
 
 **Engineering Notice for Ellijay:** System optimized for 172 mg/L hard water scaling factors in Ellijay. Regional dispatch grid: Gilmer County.

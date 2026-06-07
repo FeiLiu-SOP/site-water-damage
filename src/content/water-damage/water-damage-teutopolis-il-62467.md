@@ -12,6 +12,7 @@ lng: -88.4800
 zipSample: ["62467"]
 zipCodes: ["62467"]
 localPaths: ["Effingham County / ZIP 62467 sector", "Effingham County / coords 39.1300, -88.4800", "Effingham County / primary ZIP 62467", "Effingham County / elevation 607 ft band"]
+zillowHomeValueUsd: 260796
 ---
 
 **Engineering Notice for Teutopolis:** structural drying capacity optimized for 607ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Effingham County. Relative Humidity Threshold: 77%. Sensor sync: Active.

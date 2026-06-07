@@ -11,6 +11,7 @@ lng: -82.2300
 zipSample: ["33594", "33596"]
 zipCodes: ["33594", "33596"]
 localPaths: ["Hillsborough County / ZIP 33596 sector", "Hillsborough County / elevation 115 ft band", "Hillsborough County / ZIP 33594 sector", "Hillsborough County / primary ZIP 33594", "Hillsborough County / coords 27.9200, -82.2300"]
+zillowHomeValueUsd: 369788
 ---
 
 **Engineering Notice for Valrico:** Structural loading calculated based on 115 ft terrain assessment. Regional dispatch grid: Hillsborough County.

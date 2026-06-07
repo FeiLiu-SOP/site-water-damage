@@ -12,6 +12,7 @@ lng: -95.9800
 zipSample: ["56264"]
 zipCodes: ["56264"]
 localPaths: ["Lyon County / elevation 1168 ft band", "Lyon County / ZIP 56264 sector", "Lyon County / primary ZIP 56264", "Lyon County / coords 44.5600, -95.9800"]
+zillowHomeValueUsd: 187423
 ---
 
 **Engineering Notice for Minneota:** structural drying capacity optimized for 1168ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lyon County. Relative Humidity Threshold: 85%. Sensor sync: Active.

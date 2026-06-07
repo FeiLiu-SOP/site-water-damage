@@ -12,6 +12,7 @@ lng: -82.0800
 zipSample: ["43777"]
 zipCodes: ["43777"]
 localPaths: ["Perry County / elevation 755 ft band", "Perry County / coords 39.8100, -82.0800", "Perry County / ZIP 43777 sector", "Perry County / primary ZIP 43777"]
+zillowHomeValueUsd: 154081
 ---
 
 **Engineering Notice for Roseville:** System optimized for 154 mg/L hard water scaling factors in Roseville. Regional dispatch grid: Perry County.

@@ -12,6 +12,7 @@ lng: -88.5700
 zipSample: ["61813"]
 zipCodes: ["61813"]
 localPaths: ["Piatt County / ZIP 61813 sector", "Piatt County / elevation 696 ft band", "Piatt County / primary ZIP 61813", "Piatt County / coords 39.9200, -88.5700"]
+zillowHomeValueUsd: 152106
 ---
 
 **Engineering Notice for Bement:** System optimized for 161 mg/L hard water scaling factors in Bement. Regional dispatch grid: Piatt County.

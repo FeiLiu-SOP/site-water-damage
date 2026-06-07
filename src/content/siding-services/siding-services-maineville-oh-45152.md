@@ -12,6 +12,7 @@ lng: -84.2000
 zipSample: ["45152", "45039", "45140"]
 zipCodes: ["45140", "45039", "45152"]
 localPaths: ["Warren County / elevation 823 ft band", "Warren County / ZIP 45152 sector", "Warren County / primary ZIP 45152", "Warren County / ZIP 45039 sector", "Warren County / coords 39.3100, -84.2000"]
+zillowHomeValueUsd: 394058
 ---
 
 **Engineering Notice for Maineville:** Structural integrity verification: Vinyl Panels calibrated for 92 mph localized wind load factor. Regional dispatch grid: Warren County.

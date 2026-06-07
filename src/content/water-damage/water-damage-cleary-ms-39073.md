@@ -12,6 +12,7 @@ lng: -90.1800
 zipSample: ["39073"]
 zipCodes: ["39073"]
 localPaths: ["Rankin County / elevation 397 ft band", "Rankin County / primary ZIP 39073", "Rankin County / ZIP 39073 sector", "Rankin County / coords 32.1600, -90.1800"]
+zillowHomeValueUsd: 246440
 ---
 
 **Engineering Notice for Cleary:** structural drying capacity optimized for 397ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rankin County. Relative Humidity Threshold: 85%. Sensor sync: Active.

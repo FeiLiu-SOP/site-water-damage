@@ -12,6 +12,7 @@ lng: -83.7900
 zipSample: ["37721", "37779"]
 zipCodes: ["37721", "37779"]
 localPaths: ["Union County / ZIP 37721 sector", "Union County / coords 36.1800, -83.7900", "Union County / primary ZIP 37779", "Union County / elevation 1132 ft band", "Union County / ZIP 37779 sector"]
+zillowHomeValueUsd: 240220
 ---
 
 **Engineering Notice for Plainview:** Site context locked to Union County. Coordinates: 36.1800, -83.7900. Weather Barrier Wrap integrity verification recorded.

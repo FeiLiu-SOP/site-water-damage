@@ -12,6 +12,7 @@ lng: -90.4000
 zipSample: ["54555"]
 zipCodes: ["54555"]
 localPaths: ["Price County / elevation 1430 ft band", "Price County / coords 45.7000, -90.4000", "Price County / ZIP 54555 sector", "Price County / primary ZIP 54555"]
+zillowHomeValueUsd: 221726
 ---
 
 **Engineering Notice for Phillips:** Site context locked to Price County. Elevation: 1430 ft AMSL. Wall Restoration integrity verification recorded.

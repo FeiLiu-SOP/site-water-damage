@@ -12,6 +12,7 @@ lng: -109.7200
 zipSample: ["85548", "85546"]
 zipCodes: ["85546", "85548"]
 localPaths: ["Graham County / elevation 3120 ft band", "Graham County / ZIP 85548 sector", "Graham County / primary ZIP 85546", "Graham County / ZIP 85546 sector", "Graham County / coords 32.7600, -109.7200"]
+zillowHomeValueUsd: 285946
 ---
 
 **Engineering Notice for Cactus Flats:** Site context locked to Graham County. Coordinates: 32.7600, -109.7200. Cladding Service integrity verification recorded.

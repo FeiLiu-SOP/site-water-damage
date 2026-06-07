@@ -12,6 +12,7 @@ lng: -80.6100
 zipSample: ["26070"]
 zipCodes: ["26070"]
 localPaths: ["Brooke County / coords 40.2800, -80.6100", "Brooke County / elevation 663 ft band", "Brooke County / ZIP 26070 sector", "Brooke County / primary ZIP 26070"]
+zillowHomeValueUsd: 122320
 ---
 
 **Engineering Notice for Wellsburg:** Envelope check: Surface Sheathing assigned to wind-load band A with stress factor 0.80. Regional dispatch grid: Brooke County.

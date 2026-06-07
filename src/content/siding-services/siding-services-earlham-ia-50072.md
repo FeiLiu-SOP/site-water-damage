@@ -12,6 +12,7 @@ lng: -94.1200
 zipSample: ["50072"]
 zipCodes: ["50072"]
 localPaths: ["Madison County / ZIP 50072 sector", "Madison County / primary ZIP 50072", "Madison County / coords 41.4900, -94.1200", "Madison County / elevation 1112 ft band"]
+zillowHomeValueUsd: 363823
 ---
 
 **Engineering Notice for Earlham:** Cladding verification uses 108 mph routing baseline; lateral pressure note: 14.2 psf. Elevation: 1112 ft AMSL. Coordinates: 41.4900, -94.1200. Grid: Madison County.

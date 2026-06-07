@@ -12,6 +12,7 @@ lng: -90.0000
 zipSample: ["61085"]
 zipCodes: ["61085"]
 localPaths: ["Jo Daviess County / elevation 981 ft band", "Jo Daviess County / ZIP 61085 sector", "Jo Daviess County / coords 42.3500, -90.0000", "Jo Daviess County / primary ZIP 61085"]
+zillowHomeValueUsd: 154694
 ---
 
 **Engineering Notice for Stockton:** structural drying capacity optimized for 981ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jo Daviess County. Relative Humidity Threshold: 67%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -75.9200
 zipSample: ["19560"]
 zipCodes: ["19560"]
 localPaths: ["Berks County / elevation 358 ft band", "Berks County / primary ZIP 19560", "Berks County / ZIP 19560 sector", "Berks County / coords 40.4100, -75.9200"]
+zillowHomeValueUsd: 270188
 ---
 
 **Engineering Notice for Temple:** System optimized for 167 mg/L hard water scaling factors in Temple. Regional dispatch grid: Berks County.

@@ -12,6 +12,7 @@ lng: -94.5900
 zipSample: ["64454"]
 zipCodes: ["64454"]
 localPaths: ["Clinton County / coords 39.6100, -94.5900", "Clinton County / ZIP 64454 sector", "Clinton County / primary ZIP 64454", "Clinton County / elevation 984 ft band"]
+zillowHomeValueUsd: 313875
 ---
 
 **Engineering Notice for Gower:** System optimized for 166 mg/L hard water scaling factors in Gower. Regional dispatch grid: Clinton County.

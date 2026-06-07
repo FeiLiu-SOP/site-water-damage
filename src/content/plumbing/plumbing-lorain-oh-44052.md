@@ -12,6 +12,7 @@ lng: -82.1800
 zipSample: ["44052", "44055", "44053"]
 zipCodes: ["44052", "44053", "44055"]
 localPaths: ["Lorain County / coords 41.4400, -82.1800", "Lorain County / primary ZIP 44052", "Lorain County / ZIP 44052 sector", "Lorain County / elevation 614 ft band", "Lorain County / ZIP 44055 sector"]
+zillowHomeValueUsd: 136799
 ---
 
 **Engineering Notice for Lorain:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Lorain County.

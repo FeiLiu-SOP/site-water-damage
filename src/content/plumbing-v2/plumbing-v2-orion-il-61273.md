@@ -12,6 +12,7 @@ lng: -90.3800
 zipSample: ["61273"]
 zipCodes: ["61273"]
 localPaths: ["Henry County / ZIP 61273 sector", "Henry County / coords 41.3500, -90.3800", "Henry County / elevation 781 ft band", "Henry County / primary ZIP 61273"]
+zillowHomeValueUsd: 214611
 ---
 
 **Engineering Notice for Orion:** System optimized for 174 mg/L hard water scaling factors in Orion. Regional dispatch grid: Henry County.

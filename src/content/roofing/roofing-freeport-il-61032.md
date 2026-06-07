@@ -11,6 +11,7 @@ lng: -89.6300
 zipSample: ["61032"]
 zipCodes: ["61032"]
 localPaths: ["Stephenson County / coords 42.2900, -89.6300", "Stephenson County / elevation 801 ft band", "Stephenson County / ZIP 61032 sector", "Stephenson County / primary ZIP 61032"]
+zillowHomeValueUsd: 123036
 ---
 
 **Engineering Notice for Freeport:** Structural loading calculated based on 801 ft terrain assessment. Regional dispatch grid: Stephenson County.

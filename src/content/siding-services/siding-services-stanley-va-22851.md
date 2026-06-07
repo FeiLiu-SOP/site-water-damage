@@ -12,6 +12,7 @@ lng: -78.5000
 zipSample: ["22851"]
 zipCodes: ["22851"]
 localPaths: ["Page County / primary ZIP 22851", "Page County / elevation 1079 ft band", "Page County / coords 38.5800, -78.5000", "Page County / ZIP 22851 sector"]
+zillowHomeValueUsd: 297108
 ---
 
 **Engineering Notice for Stanley:** Site context locked to Page County. Elevation: 1079 ft AMSL. Panel Replacement integrity verification recorded.

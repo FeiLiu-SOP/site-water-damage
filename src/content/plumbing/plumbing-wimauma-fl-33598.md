@@ -12,6 +12,7 @@ lng: -82.3000
 zipSample: ["33598"]
 zipCodes: ["33598"]
 localPaths: ["Hillsborough County / ZIP 33598 sector", "Hillsborough County / coords 27.7000, -82.3000", "Hillsborough County / primary ZIP 33598", "Hillsborough County / elevation 79 ft band"]
+zillowHomeValueUsd: 350210
 ---
 
 **Engineering Notice for Wimauma:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Hillsborough County.

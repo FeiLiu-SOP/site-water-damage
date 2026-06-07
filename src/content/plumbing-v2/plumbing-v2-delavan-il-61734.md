@@ -12,6 +12,7 @@ lng: -89.5500
 zipSample: ["61734"]
 zipCodes: ["61734"]
 localPaths: ["Tazewell County / coords 40.3700, -89.5500", "Tazewell County / primary ZIP 61734", "Tazewell County / elevation 610 ft band", "Tazewell County / ZIP 61734 sector"]
+zillowHomeValueUsd: 156508
 ---
 
 **Engineering Notice for Delavan:** System optimized for 125 mg/L hard water scaling factors in Delavan. Regional dispatch grid: Tazewell County.

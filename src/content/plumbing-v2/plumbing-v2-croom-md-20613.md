@@ -12,6 +12,7 @@ lng: -76.7600
 zipSample: ["20613", "20772", "20775"]
 zipCodes: ["20613", "20772", "20775"]
 localPaths: ["Prince George's County / ZIP 20775 sector", "Prince George's County / ZIP 20772 sector", "Prince George's County / elevation 200 ft band", "Prince George's County / coords 38.7500, -76.7600", "Prince George's County / primary ZIP 20613"]
+zillowHomeValueUsd: 509171
 ---
 
 **Engineering Notice for Croom:** System optimized for 143 mg/L hard water scaling factors in Croom. Regional dispatch grid: Prince George's County.

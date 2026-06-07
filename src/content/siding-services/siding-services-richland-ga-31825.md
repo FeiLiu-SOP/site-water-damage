@@ -12,6 +12,7 @@ lng: -84.6600
 zipSample: ["31825"]
 zipCodes: ["31825"]
 localPaths: ["Stewart County / coords 32.0900, -84.6600", "Stewart County / ZIP 31825 sector", "Stewart County / primary ZIP 31825", "Stewart County / elevation 574 ft band"]
+zillowHomeValueUsd: 100840
 ---
 
 **Engineering Notice for Richland:** Envelope check: Weather Barrier Wrap assigned to wind-load band B with stress factor 0.72. Elevation: 574 ft AMSL. Regional dispatch grid: Stewart County.

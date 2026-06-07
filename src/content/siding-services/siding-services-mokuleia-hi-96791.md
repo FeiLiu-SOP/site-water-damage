@@ -12,6 +12,7 @@ lng: -158.1700
 zipSample: ["96791"]
 zipCodes: ["96791"]
 localPaths: ["Honolulu County / elevation 26 ft band", "Honolulu County / ZIP 96791 sector", "Honolulu County / coords 21.5800, -158.1700", "Honolulu County / primary ZIP 96791"]
+zillowHomeValueUsd: 1021145
 ---
 
 **Engineering Notice for Mokuleia:** Cladding verification uses 108 mph routing baseline; lateral pressure note: 14.2 psf. Elevation: 26 ft AMSL. Grid: Honolulu County.

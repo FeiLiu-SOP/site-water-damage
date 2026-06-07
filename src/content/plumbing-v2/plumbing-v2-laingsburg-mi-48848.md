@@ -12,6 +12,7 @@ lng: -84.3500
 zipSample: ["48848"]
 zipCodes: ["48848"]
 localPaths: ["Shiawassee County / ZIP 48848 sector", "Shiawassee County / primary ZIP 48848", "Shiawassee County / elevation 833 ft band", "Shiawassee County / coords 42.8900, -84.3500"]
+zillowHomeValueUsd: 297988
 ---
 
 **Engineering Notice for Laingsburg:** System optimized for 171 mg/L hard water scaling factors in Laingsburg. Regional dispatch grid: Shiawassee County.

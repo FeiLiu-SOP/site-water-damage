@@ -11,6 +11,7 @@ lng: -73.4100
 zipSample: ["11746"]
 zipCodes: ["11746"]
 localPaths: ["Suffolk County / ZIP 11746 sector", "Suffolk County / elevation 184 ft band", "Suffolk County / primary ZIP 11746", "Suffolk County / coords 40.8400, -73.4100"]
+zillowHomeValueUsd: 771480
 ---
 
 **Engineering Notice for Huntington Station:** Structural loading calculated based on 184 ft terrain assessment. Regional dispatch grid: Suffolk County.

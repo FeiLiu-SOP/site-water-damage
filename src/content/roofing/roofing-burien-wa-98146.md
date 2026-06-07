@@ -11,6 +11,7 @@ lng: -122.3400
 zipSample: ["98146", "98148", "98062", "98168", "98166"]
 zipCodes: ["98166", "98062", "98146", "98148", "98168"]
 localPaths: ["King County / ZIP 98168 sector", "King County / ZIP 98166 sector", "King County / ZIP 98146 sector", "King County / primary ZIP 98146", "King County / coords 47.4800, -122.3400"]
+zillowHomeValueUsd: 693822
 ---
 
 **Engineering Notice for Burien:** Structural loading calculated based on 374 ft terrain assessment. Regional dispatch grid: King County.

@@ -11,6 +11,7 @@ lng: -85.5100
 zipSample: ["46750"]
 zipCodes: ["46750"]
 localPaths: ["Huntington County / elevation 794 ft band", "Huntington County / coords 40.8800, -85.5100", "Huntington County / primary ZIP 46750", "Huntington County / ZIP 46750 sector"]
+zillowHomeValueUsd: 191615
 ---
 
 **Engineering Notice for Huntington:** Structural loading calculated based on 794 ft terrain assessment. Regional dispatch grid: Huntington County.

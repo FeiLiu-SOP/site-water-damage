@@ -12,6 +12,7 @@ lng: -80.3300
 zipSample: ["16172", "16142"]
 zipCodes: ["16142", "16172"]
 localPaths: ["Lawrence County / coords 41.1200, -80.3300", "Lawrence County / ZIP 16172 sector", "Lawrence County / ZIP 16142 sector", "Lawrence County / elevation 1004 ft band", "Lawrence County / primary ZIP 16142"]
+zillowHomeValueUsd: 260295
 ---
 
 **Engineering Notice for New Wilmington:** System optimized for 157 mg/L hard water scaling factors in New Wilmington. Regional dispatch grid: Lawrence County.

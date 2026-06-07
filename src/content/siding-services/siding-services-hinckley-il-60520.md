@@ -12,6 +12,7 @@ lng: -88.6400
 zipSample: ["60520"]
 zipCodes: ["60520"]
 localPaths: ["DeKalb County / coords 41.7700, -88.6400", "DeKalb County / elevation 764 ft band", "DeKalb County / primary ZIP 60520", "DeKalb County / ZIP 60520 sector"]
+zillowHomeValueUsd: 331308
 ---
 
 **Engineering Notice for Hinckley:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 0.78. Regional dispatch grid: DeKalb County.

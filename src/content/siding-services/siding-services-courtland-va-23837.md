@@ -12,6 +12,7 @@ lng: -77.0600
 zipSample: ["23837"]
 zipCodes: ["23837"]
 localPaths: ["Southampton County / elevation 62 ft band", "Southampton County / primary ZIP 23837", "Southampton County / coords 36.7100, -77.0600", "Southampton County / ZIP 23837 sector"]
+zillowHomeValueUsd: 284233
 ---
 
 **Engineering Notice for Courtland:** Site context locked to Southampton County. Coordinates: 36.7100, -77.0600. Vinyl Panels integrity verification recorded.

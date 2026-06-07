@@ -12,6 +12,7 @@ lng: -96.6300
 zipSample: ["75120", "75119"]
 zipCodes: ["75120", "75119"]
 localPaths: ["Ellis County / ZIP 75120 sector", "Ellis County / primary ZIP 75119", "Ellis County / ZIP 75119 sector", "Ellis County / coords 32.3300, -96.6300", "Ellis County / elevation 548 ft band"]
+zillowHomeValueUsd: 265435
 ---
 
 **Engineering Notice for Ennis:** Structural loading calculated based on 548 ft terrain assessment. Regional dispatch grid: Ellis County.

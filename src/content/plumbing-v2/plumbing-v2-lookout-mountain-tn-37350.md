@@ -12,6 +12,7 @@ lng: -85.3500
 zipSample: ["37350"]
 zipCodes: ["37350"]
 localPaths: ["Hamilton County / coords 34.9900, -85.3500", "Hamilton County / ZIP 37350 sector", "Hamilton County / elevation 1877 ft band", "Hamilton County / primary ZIP 37350"]
+zillowHomeValueUsd: 1034253
 ---
 
 **Engineering Notice for Lookout Mountain:** System optimized for 155 mg/L hard water scaling factors in Lookout Mountain. Regional dispatch grid: Hamilton County.

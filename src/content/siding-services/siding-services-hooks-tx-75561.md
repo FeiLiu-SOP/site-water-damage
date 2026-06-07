@@ -12,6 +12,7 @@ lng: -94.2800
 zipSample: ["75561"]
 zipCodes: ["75561"]
 localPaths: ["Bowie County / primary ZIP 75561", "Bowie County / elevation 390 ft band", "Bowie County / ZIP 75561 sector", "Bowie County / coords 33.4700, -94.2800"]
+zillowHomeValueUsd: 160027
 ---
 
 **Engineering Notice for Hooks:** Site context locked to Bowie County. Elevation: 390 ft AMSL. Weather Barrier Wrap integrity verification recorded.

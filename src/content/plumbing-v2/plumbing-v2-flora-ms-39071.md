@@ -12,6 +12,7 @@ lng: -90.3100
 zipSample: ["39071"]
 zipCodes: ["39071"]
 localPaths: ["Madison County / ZIP 39071 sector", "Madison County / elevation 272 ft band", "Madison County / primary ZIP 39071", "Madison County / coords 32.5400, -90.3100"]
+zillowHomeValueUsd: 296375
 ---
 
 **Engineering Notice for Flora:** System optimized for 173 mg/L hard water scaling factors in Flora. Regional dispatch grid: Madison County.

@@ -12,6 +12,7 @@ lng: -81.1700
 zipSample: ["32832"]
 zipCodes: ["32832"]
 localPaths: ["Orange County / ZIP 32832 sector", "Orange County / coords 28.3900, -81.1700", "Orange County / primary ZIP 32832", "Orange County / elevation 43 ft band"]
+zillowHomeValueUsd: 528344
 ---
 
 **Engineering Notice for Lake Mary Jane:** structural drying capacity optimized for 43ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Orange County. Relative Humidity Threshold: 73%. Sensor sync: Active.

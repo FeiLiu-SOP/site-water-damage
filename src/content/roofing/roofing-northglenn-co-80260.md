@@ -11,6 +11,7 @@ lng: -104.9800
 zipSample: ["80234", "80260", "80233", "80603"]
 zipCodes: ["80260", "80603", "80233", "80234"]
 localPaths: ["Adams County / ZIP 80603 sector", "Adams County / ZIP 80260 sector", "Adams County / coords 39.9100, -104.9800", "Adams County / primary ZIP 80260", "Adams County / ZIP 80233 sector"]
+zillowHomeValueUsd: 403855
 ---
 
 **Engineering Notice for Northglenn:** Structural loading calculated based on 5384 ft terrain assessment. Regional dispatch grid: Adams County.

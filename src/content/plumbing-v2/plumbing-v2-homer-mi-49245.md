@@ -12,6 +12,7 @@ lng: -84.8100
 zipSample: ["49245"]
 zipCodes: ["49245"]
 localPaths: ["Calhoun County / ZIP 49245 sector", "Calhoun County / elevation 1001 ft band", "Calhoun County / primary ZIP 49245", "Calhoun County / coords 42.1500, -84.8100"]
+zillowHomeValueUsd: 137387
 ---
 
 **Engineering Notice for Homer:** System optimized for 143 mg/L hard water scaling factors in Homer. Regional dispatch grid: Calhoun County.

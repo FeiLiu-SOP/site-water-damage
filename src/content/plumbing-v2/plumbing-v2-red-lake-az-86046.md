@@ -12,6 +12,7 @@ lng: -112.1700
 zipSample: ["86046"]
 zipCodes: ["86046"]
 localPaths: ["Coconino County / coords 35.3600, -112.1700", "Coconino County / primary ZIP 86046", "Coconino County / ZIP 86046 sector", "Coconino County / elevation 6552 ft band"]
+zillowHomeValueUsd: 437860
 ---
 
 **Engineering Notice for Red Lake:** System optimized for 123 mg/L hard water scaling factors in Red Lake. Regional dispatch grid: Coconino County.

@@ -12,6 +12,7 @@ lng: -88.0600
 zipSample: ["62806"]
 zipCodes: ["62806"]
 localPaths: ["Edwards County / primary ZIP 62806", "Edwards County / ZIP 62806 sector", "Edwards County / coords 38.3800, -88.0600", "Edwards County / elevation 518 ft band"]
+zillowHomeValueUsd: 126236
 ---
 
 **Engineering Notice for Albion:** structural drying capacity optimized for 518ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Edwards County. Relative Humidity Threshold: 85%. Sensor sync: Active.

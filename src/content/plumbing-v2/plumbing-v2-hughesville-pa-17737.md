@@ -12,6 +12,7 @@ lng: -76.7300
 zipSample: ["17737"]
 zipCodes: ["17737"]
 localPaths: ["Lycoming County / primary ZIP 17737", "Lycoming County / coords 41.2400, -76.7300", "Lycoming County / ZIP 17737 sector", "Lycoming County / elevation 584 ft band"]
+zillowHomeValueUsd: 250728
 ---
 
 **Engineering Notice for Hughesville:** System optimized for 161 mg/L hard water scaling factors in Hughesville. Regional dispatch grid: Lycoming County.

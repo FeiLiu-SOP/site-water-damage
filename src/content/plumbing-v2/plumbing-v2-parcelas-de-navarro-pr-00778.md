@@ -12,6 +12,8 @@ lng: -66.0000
 zipSample: ["00778"]
 zipCodes: ["00778"]
 localPaths: ["Gurabo County / ZIP 00778 sector", "Gurabo County / primary ZIP 00778", "Gurabo County / elevation 213 ft band", "Gurabo County / coords 18.2300, -66.0000"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 369943
 ---
 
 **Engineering Notice for Parcelas de Navarro:** System optimized for 132 mg/L hard water scaling factors in Parcelas de Navarro. Regional dispatch grid: Gurabo County.

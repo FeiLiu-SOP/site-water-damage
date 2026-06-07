@@ -12,6 +12,7 @@ lng: -81.7300
 zipSample: ["34104"]
 zipCodes: ["34104"]
 localPaths: ["Collier County / elevation 23 ft band", "Collier County / primary ZIP 34104", "Collier County / ZIP 34104 sector", "Collier County / coords 26.1600, -81.7300"]
+zillowHomeValueUsd: 354659
 ---
 
 **Engineering Notice for Berkshire Lakes:** Exterior Envelope was validated under stress factor 0.96; target tolerance set near 150 mph. Coordinates: 26.1600, -81.7300. Grid anchor: Collier County.

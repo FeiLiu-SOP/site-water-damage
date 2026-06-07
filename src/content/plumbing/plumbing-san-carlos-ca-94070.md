@@ -12,6 +12,7 @@ lng: -122.2700
 zipSample: ["94070"]
 zipCodes: ["94070"]
 localPaths: ["San Mateo County / coords 37.5000, -122.2700", "San Mateo County / ZIP 94070 sector", "San Mateo County / elevation 108 ft band", "San Mateo County / primary ZIP 94070"]
+zillowHomeValueUsd: 2457950
 ---
 
 **Engineering Notice for San Carlos:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: San Mateo County.

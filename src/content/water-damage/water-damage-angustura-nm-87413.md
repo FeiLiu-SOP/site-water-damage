@@ -12,6 +12,7 @@ lng: -107.9200
 zipSample: ["87413"]
 zipCodes: ["87413"]
 localPaths: ["San Juan County / elevation 5505 ft band", "San Juan County / coords 36.7100, -107.9200", "San Juan County / ZIP 87413 sector", "San Juan County / primary ZIP 87413"]
+zillowHomeValueUsd: 252917
 ---
 
 **Engineering Notice for Angustura:** structural drying capacity optimized for 5505ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Juan County. Relative Humidity Threshold: 79%. Sensor sync: Active.

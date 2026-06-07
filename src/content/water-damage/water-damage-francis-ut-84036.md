@@ -12,6 +12,7 @@ lng: -111.2700
 zipSample: ["84036"]
 zipCodes: ["84036"]
 localPaths: ["Summit County / primary ZIP 84036", "Summit County / coords 40.6100, -111.2700", "Summit County / elevation 6594 ft band", "Summit County / ZIP 84036 sector"]
+zillowHomeValueUsd: 1017833
 ---
 
 **Engineering Notice for Francis:** structural drying capacity optimized for 6594ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Summit County. Relative Humidity Threshold: 77%. Sensor sync: Active.

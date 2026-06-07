@@ -12,6 +12,7 @@ lng: -84.2300
 zipSample: ["45066"]
 zipCodes: ["45066"]
 localPaths: ["Warren County / elevation 804 ft band", "Warren County / ZIP 45066 sector", "Warren County / coords 39.5600, -84.2300", "Warren County / primary ZIP 45066"]
+zillowHomeValueUsd: 428416
 ---
 
 **Engineering Notice for Springboro:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Warren County.

@@ -12,6 +12,7 @@ lng: -103.6000
 zipSample: ["57730"]
 zipCodes: ["57730"]
 localPaths: ["Custer County / coords 43.7700, -103.6000", "Custer County / elevation 5318 ft band", "Custer County / primary ZIP 57730", "Custer County / ZIP 57730 sector"]
+zillowHomeValueUsd: 482739
 ---
 
 **Engineering Notice for Custer:** Structural integrity verification: Exterior Cladding calibrated for 101 mph localized wind load factor. Coordinates: 43.7700, -103.6000. Regional dispatch grid: Custer County.

@@ -12,6 +12,7 @@ lng: -87.3200
 zipSample: ["47944"]
 zipCodes: ["47944"]
 localPaths: ["Benton County / ZIP 47944 sector", "Benton County / elevation 833 ft band", "Benton County / coords 40.6200, -87.3200", "Benton County / primary ZIP 47944"]
+zillowHomeValueUsd: 206353
 ---
 
 **Engineering Notice for Fowler:** System optimized for 157 mg/L hard water scaling factors in Fowler. Regional dispatch grid: Benton County.

@@ -11,6 +11,7 @@ lng: -73.7100
 zipSample: ["11003"]
 zipCodes: ["11003"]
 localPaths: ["Nassau County / ZIP 11003 sector", "Nassau County / primary ZIP 11003", "Nassau County / coords 40.7000, -73.7100", "Nassau County / elevation 66 ft band"]
+zillowHomeValueUsd: 726222
 ---
 
 **Engineering Notice for Elmont:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Nassau County.

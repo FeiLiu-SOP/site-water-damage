@@ -12,6 +12,7 @@ lng: -85.0200
 zipSample: ["49021"]
 zipCodes: ["49021"]
 localPaths: ["Eaton County / coords 42.4400, -85.0200", "Eaton County / ZIP 49021 sector", "Eaton County / primary ZIP 49021", "Eaton County / elevation 869 ft band"]
+zillowHomeValueUsd: 242288
 ---
 
 **Engineering Notice for Bellevue:** System optimized for 169 mg/L hard water scaling factors in Bellevue. Regional dispatch grid: Eaton County.

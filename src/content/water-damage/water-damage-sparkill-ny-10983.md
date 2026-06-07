@@ -12,6 +12,7 @@ lng: -73.9300
 zipSample: ["10976", "10983"]
 zipCodes: ["10976", "10983"]
 localPaths: ["Rockland County / coords 41.0300, -73.9300", "Rockland County / elevation 72 ft band", "Rockland County / ZIP 10983 sector", "Rockland County / ZIP 10976 sector", "Rockland County / primary ZIP 10983"]
+zillowHomeValueUsd: 728396
 ---
 
 **Engineering Notice for Sparkill:** structural drying capacity optimized for 72ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rockland County. Relative Humidity Threshold: 69%. Sensor sync: Active.

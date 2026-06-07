@@ -12,6 +12,7 @@ lng: -97.3500
 zipSample: ["68701"]
 zipCodes: ["68701"]
 localPaths: ["Stanton County / ZIP 68701 sector", "Stanton County / elevation 1686 ft band", "Stanton County / coords 42.0500, -97.3500", "Stanton County / primary ZIP 68701"]
+zillowHomeValueUsd: 256123
 ---
 
 **Engineering Notice for Woodland Park:** Envelope check: Weather Barrier Wrap assigned to wind-load band A with stress factor 1.17. Elevation: 1686 ft AMSL. Regional dispatch grid: Stanton County.

@@ -12,6 +12,7 @@ lng: -99.8400
 zipSample: ["76837"]
 zipCodes: ["76837"]
 localPaths: ["Concho County / elevation 2051 ft band", "Concho County / coords 31.2200, -99.8400", "Concho County / ZIP 76837 sector", "Concho County / primary ZIP 76837"]
+zillowHomeValueUsd: 127384
 ---
 
 **Engineering Notice for Eden:** Envelope check: Exterior Cladding assigned to wind-load band B with stress factor 0.76. Elevation: 2051 ft AMSL. Regional dispatch grid: Concho County.

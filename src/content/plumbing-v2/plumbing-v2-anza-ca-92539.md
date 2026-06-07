@@ -12,6 +12,7 @@ lng: -116.7000
 zipSample: ["92539"]
 zipCodes: ["92539"]
 localPaths: ["Riverside County / ZIP 92539 sector", "Riverside County / elevation 4065 ft band", "Riverside County / primary ZIP 92539", "Riverside County / coords 33.5700, -116.7000"]
+zillowHomeValueUsd: 404957
 ---
 
 **Engineering Notice for Anza:** System optimized for 162 mg/L hard water scaling factors in Anza. Regional dispatch grid: Riverside County.

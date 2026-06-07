@@ -12,6 +12,7 @@ lng: -90.6800
 zipSample: ["63025", "63069", "63051", "63016"]
 zipCodes: ["63025", "63016", "63069", "63051"]
 localPaths: ["Jefferson County / ZIP 63051 sector", "Jefferson County / ZIP 63025 sector", "Jefferson County / coords 38.4200, -90.6800", "Jefferson County / ZIP 63016 sector", "Jefferson County / primary ZIP 63025"]
+zillowHomeValueUsd: 415563
 ---
 
 **Engineering Notice for LaBarque Creek:** System optimized for 131 mg/L hard water scaling factors in LaBarque Creek. Regional dispatch grid: Jefferson County.

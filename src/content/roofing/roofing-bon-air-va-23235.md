@@ -11,6 +11,7 @@ lng: -77.5700
 zipSample: ["23235"]
 zipCodes: ["23235"]
 localPaths: ["Chesterfield County / ZIP 23235 sector", "Chesterfield County / coords 37.5200, -77.5700", "Chesterfield County / primary ZIP 23235", "Chesterfield County / elevation 322 ft band"]
+zillowHomeValueUsd: 412304
 ---
 
 **Engineering Notice for Bon Air:** Structural loading calculated based on 322 ft terrain assessment. Regional dispatch grid: Chesterfield County.

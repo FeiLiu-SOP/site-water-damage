@@ -12,6 +12,7 @@ lng: -122.8600
 zipSample: ["98589"]
 zipCodes: ["98589"]
 localPaths: ["Thurston County / ZIP 98589 sector", "Thurston County / elevation 279 ft band", "Thurston County / coords 46.8500, -122.8600", "Thurston County / primary ZIP 98589"]
+zillowHomeValueUsd: 519402
 ---
 
 **Engineering Notice for Tenino:** Cladding verification uses 95 mph routing baseline; lateral pressure note: 12.6 psf. Elevation: 279 ft AMSL. Coordinates: 46.8500, -122.8600. Grid: Thurston County.

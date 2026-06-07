@@ -12,6 +12,7 @@ lng: -89.7000
 zipSample: ["62664"]
 zipCodes: ["62664"]
 localPaths: ["Mason County / elevation 577 ft band", "Mason County / coords 40.2000, -89.7000", "Mason County / primary ZIP 62664", "Mason County / ZIP 62664 sector"]
+zillowHomeValueUsd: 104519
 ---
 
 **Engineering Notice for Mason City:** Site context locked to Mason County. Panel Replacement integrity verification recorded.

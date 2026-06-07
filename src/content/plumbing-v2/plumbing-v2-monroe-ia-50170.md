@@ -12,6 +12,7 @@ lng: -93.1000
 zipSample: ["50170"]
 zipCodes: ["50170"]
 localPaths: ["Jasper County / elevation 915 ft band", "Jasper County / ZIP 50170 sector", "Jasper County / primary ZIP 50170", "Jasper County / coords 41.5200, -93.1000"]
+zillowHomeValueUsd: 255426
 ---
 
 **Engineering Notice for Monroe:** System optimized for 159 mg/L hard water scaling factors in Monroe. Regional dispatch grid: Jasper County.

@@ -11,6 +11,7 @@ lng: -72.8500
 zipSample: ["11949", "11950"]
 zipCodes: ["11949", "11950"]
 localPaths: ["Suffolk County / primary ZIP 11950", "Suffolk County / ZIP 11949 sector", "Suffolk County / elevation 52 ft band", "Suffolk County / coords 40.8100, -72.8500", "Suffolk County / ZIP 11950 sector"]
+zillowHomeValueUsd: 500640
 ---
 
 **Engineering Notice for Mastic:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Suffolk County.

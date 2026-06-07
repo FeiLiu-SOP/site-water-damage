@@ -12,6 +12,7 @@ lng: -89.6100
 zipSample: ["62216"]
 zipCodes: ["62216"]
 localPaths: ["Clinton County / ZIP 62216 sector", "Clinton County / coords 38.6200, -89.6100", "Clinton County / elevation 472 ft band", "Clinton County / primary ZIP 62216"]
+zillowHomeValueUsd: 301830
 ---
 
 **Engineering Notice for Aviston:** Facade Renewal was validated under stress factor 1.06; target tolerance set near 100 mph. Coordinates: 38.6200, -89.6100. Grid anchor: Clinton County.

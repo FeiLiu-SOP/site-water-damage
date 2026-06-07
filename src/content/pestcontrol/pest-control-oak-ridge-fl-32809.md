@@ -11,6 +11,7 @@ lng: -81.4200
 zipSample: ["32809", "32839"]
 zipCodes: ["32809", "32839"]
 localPaths: ["Orange County / primary ZIP 32809", "Orange County / ZIP 32809 sector", "Orange County / coords 28.4700, -81.4200", "Orange County / elevation 108 ft band", "Orange County / ZIP 32839 sector"]
+zillowHomeValueUsd: 311222
 ---
 
 **Engineering Notice for Oak Ridge:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Orange County.

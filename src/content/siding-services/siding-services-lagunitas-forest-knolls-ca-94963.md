@@ -12,6 +12,7 @@ lng: -122.6900
 zipSample: ["94933", "94963", "94938"]
 zipCodes: ["94933", "94938", "94963"]
 localPaths: ["Marin County / elevation 367 ft band", "Marin County / ZIP 94933 sector", "Marin County / ZIP 94963 sector", "Marin County / ZIP 94938 sector", "Marin County / coords 38.0200, -122.6900"]
+zillowHomeValueUsd: 1300141
 ---
 
 **Engineering Notice for Lagunitas-Forest Knolls:** Cladding verification uses 130 mph routing baseline; lateral pressure note: 16.8 psf. Elevation: 367 ft AMSL. Grid: Marin County.

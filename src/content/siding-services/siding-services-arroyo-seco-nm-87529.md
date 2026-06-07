@@ -12,6 +12,7 @@ lng: -105.5900
 zipSample: ["87514", "87529"]
 zipCodes: ["87514", "87529"]
 localPaths: ["Taos County / coords 36.5200, -105.5900", "Taos County / primary ZIP 87529", "Taos County / ZIP 87529 sector", "Taos County / elevation 7579 ft band", "Taos County / ZIP 87514 sector"]
+zillowHomeValueUsd: 496892
 ---
 
 **Engineering Notice for Arroyo Seco:** Cladding Service was validated under stress factor 0.90; target tolerance set near 104 mph. Grid anchor: Taos County.

@@ -12,6 +12,7 @@ lng: -86.3100
 zipSample: ["36442"]
 zipCodes: ["36442"]
 localPaths: ["Covington County / coords 31.0200, -86.3100", "Covington County / elevation 259 ft band", "Covington County / ZIP 36442 sector", "Covington County / primary ZIP 36442"]
+zillowHomeValueUsd: 145888
 ---
 
 **Engineering Notice for Florala:** System optimized for 131 mg/L hard water scaling factors in Florala. Regional dispatch grid: Covington County.

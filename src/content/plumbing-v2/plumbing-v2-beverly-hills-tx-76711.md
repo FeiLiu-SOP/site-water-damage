@@ -12,6 +12,7 @@ lng: -97.1600
 zipSample: ["76711"]
 zipCodes: ["76711"]
 localPaths: ["McLennan County / elevation 528 ft band", "McLennan County / ZIP 76711 sector", "McLennan County / primary ZIP 76711", "McLennan County / coords 31.5200, -97.1600"]
+zillowHomeValueUsd: 137150
 ---
 
 **Engineering Notice for Beverly Hills:** System optimized for 173 mg/L hard water scaling factors in Beverly Hills. Regional dispatch grid: McLennan County.

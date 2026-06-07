@@ -12,6 +12,7 @@ lng: -118.9600
 zipSample: ["97845"]
 zipCodes: ["97845"]
 localPaths: ["Grant County / primary ZIP 97845", "Grant County / coords 44.4200, -118.9600", "Grant County / ZIP 97845 sector", "Grant County / elevation 3081 ft band"]
+zillowHomeValueUsd: 284830
 ---
 
 **Engineering Notice for John Day:** Site context locked to Grant County. Facade Renewal integrity verification recorded.

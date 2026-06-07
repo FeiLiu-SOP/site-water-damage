@@ -12,6 +12,7 @@ lng: -94.9800
 zipSample: ["56087"]
 zipCodes: ["56087"]
 localPaths: ["Brown County / primary ZIP 56087", "Brown County / elevation 1060 ft band", "Brown County / ZIP 56087 sector", "Brown County / coords 44.2400, -94.9800"]
+zillowHomeValueUsd: 206978
 ---
 
 **Engineering Notice for Springfield:** Structural integrity verification: Exterior Envelope calibrated for 94 mph localized wind load factor. Regional dispatch grid: Brown County.

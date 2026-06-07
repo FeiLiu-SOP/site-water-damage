@@ -12,6 +12,7 @@ lng: -68.7100
 zipSample: ["04401"]
 zipCodes: ["04401"]
 localPaths: ["Penobscot County / elevation 177 ft band", "Penobscot County / coords 44.8400, -68.7100", "Penobscot County / ZIP 04401 sector", "Penobscot County / primary ZIP 04401"]
+zillowHomeValueUsd: 299419
 ---
 
 **Engineering Notice for Veazie:** Cladding verification uses 98 mph routing baseline; lateral pressure note: 13.0 psf. Elevation: 177 ft AMSL. Coordinates: 44.8400, -68.7100. Grid: Penobscot County.

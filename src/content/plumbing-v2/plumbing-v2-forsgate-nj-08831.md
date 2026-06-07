@@ -12,6 +12,7 @@ lng: -74.4600
 zipSample: ["08831"]
 zipCodes: ["08831"]
 localPaths: ["Middlesex County / elevation 157 ft band", "Middlesex County / coords 40.3500, -74.4600", "Middlesex County / ZIP 08831 sector", "Middlesex County / primary ZIP 08831"]
+zillowHomeValueUsd: 602344
 ---
 
 **Engineering Notice for Forsgate:** System optimized for 157 mg/L hard water scaling factors in Forsgate. Regional dispatch grid: Middlesex County.

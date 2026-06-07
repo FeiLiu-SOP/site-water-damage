@@ -12,6 +12,7 @@ lng: -84.4900
 zipSample: ["45216"]
 zipCodes: ["45216"]
 localPaths: ["Hamilton County / coords 39.1900, -84.4900", "Hamilton County / elevation 528 ft band", "Hamilton County / ZIP 45216 sector", "Hamilton County / primary ZIP 45216"]
+zillowHomeValueUsd: 158839
 ---
 
 **Engineering Notice for Elmwood Place:** Weather Barrier Wrap was validated under stress factor 0.90; target tolerance set near 91 mph. Coordinates: 39.1900, -84.4900. Grid anchor: Hamilton County.

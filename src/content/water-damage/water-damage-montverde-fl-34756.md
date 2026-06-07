@@ -12,6 +12,7 @@ lng: -81.6800
 zipSample: ["34756"]
 zipCodes: ["34756"]
 localPaths: ["Lake County / ZIP 34756 sector", "Lake County / coords 28.6000, -81.6800", "Lake County / primary ZIP 34756", "Lake County / elevation 75 ft band"]
+zillowHomeValueUsd: 709194
 ---
 
 **Engineering Notice for Montverde:** structural drying capacity optimized for 75ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lake County. Relative Humidity Threshold: 65%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -76.1400
 zipSample: ["19551"]
 zipCodes: ["19551"]
 localPaths: ["Berks County / coords 40.3500, -76.1400", "Berks County / elevation 436 ft band", "Berks County / primary ZIP 19551", "Berks County / ZIP 19551 sector"]
+zillowHomeValueUsd: 329216
 ---
 
 **Engineering Notice for Robesonia:** System optimized for 135 mg/L hard water scaling factors in Robesonia. Regional dispatch grid: Berks County.

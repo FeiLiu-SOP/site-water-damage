@@ -12,6 +12,7 @@ lng: -70.5900
 zipSample: ["02536"]
 zipCodes: ["02536"]
 localPaths: ["Barnstable County / ZIP 02536 sector", "Barnstable County / coords 41.5600, -70.5900", "Barnstable County / elevation 23 ft band", "Barnstable County / primary ZIP 02536"]
+zillowHomeValueUsd: 705471
 ---
 
 **Engineering Notice for Teaticket:** Cladding verification uses 107 mph routing baseline; lateral pressure note: 14.0 psf. Elevation: 23 ft AMSL. Grid: Barnstable County.

@@ -12,6 +12,7 @@ lng: -75.8600
 zipSample: ["19320"]
 zipCodes: ["19320"]
 localPaths: ["Chester County / elevation 387 ft band", "Chester County / ZIP 19320 sector", "Chester County / primary ZIP 19320", "Chester County / coords 39.9700, -75.8600"]
+zillowHomeValueUsd: 382354
 ---
 
 **Engineering Notice for Westwood:** Structural integrity verification: Exterior Envelope calibrated for 90 mph localized wind load factor. Coordinates: 39.9700, -75.8600. Regional dispatch grid: Chester County.

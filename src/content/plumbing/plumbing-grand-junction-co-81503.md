@@ -12,6 +12,7 @@ lng: -108.5700
 zipSample: ["81504", "81507", "81503", "81502", "81501"]
 zipCodes: ["81505", "81504", "81501", "81507", "81503", "81502", "81506"]
 localPaths: ["Mesa County / ZIP 81504 sector", "Mesa County / ZIP 81503 sector", "Mesa County / primary ZIP 81503", "Mesa County / ZIP 81502 sector", "Mesa County / ZIP 81501 sector"]
+zillowHomeValueUsd: 401177
 ---
 
 **Engineering Notice for Grand Junction:** Structural loading calculated based on 4672 ft terrain assessment. Regional dispatch grid: Mesa County.

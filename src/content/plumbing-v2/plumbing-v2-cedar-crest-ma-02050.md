@@ -12,6 +12,7 @@ lng: -70.6600
 zipSample: ["02020", "02041", "02050"]
 zipCodes: ["02050", "02020", "02041"]
 localPaths: ["Plymouth County / ZIP 02050 sector", "Plymouth County / coords 42.0800, -70.6600", "Plymouth County / ZIP 02020 sector", "Plymouth County / elevation 36 ft band", "Plymouth County / ZIP 02041 sector"]
+zillowHomeValueUsd: 793572
 ---
 
 **Engineering Notice for Cedar Crest:** System optimized for 144 mg/L hard water scaling factors in Cedar Crest. Regional dispatch grid: Plymouth County.

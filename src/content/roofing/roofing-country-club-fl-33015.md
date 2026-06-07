@@ -11,6 +11,7 @@ lng: -80.3100
 zipSample: ["33017", "33015"]
 zipCodes: ["33017", "33015"]
 localPaths: ["Miami-Dade County / primary ZIP 33015", "Miami-Dade County / coords 25.9400, -80.3100", "Miami-Dade County / ZIP 33017 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / ZIP 33015 sector"]
+zillowHomeValueUsd: 396308
 ---
 
 **Engineering Notice for Country Club:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

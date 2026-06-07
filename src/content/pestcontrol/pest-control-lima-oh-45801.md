@@ -11,6 +11,7 @@ lng: -84.1100
 zipSample: ["45805", "45804", "45801"]
 zipCodes: ["45801", "45804", "45805"]
 localPaths: ["Allen County / primary ZIP 45801", "Allen County / ZIP 45805 sector", "Allen County / elevation 886 ft band", "Allen County / ZIP 45801 sector", "Allen County / ZIP 45804 sector"]
+zillowHomeValueUsd: 139037
 ---
 
 **Engineering Notice for Lima:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Allen County.

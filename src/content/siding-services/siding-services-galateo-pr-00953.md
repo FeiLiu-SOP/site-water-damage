@@ -12,6 +12,8 @@ lng: -66.2600
 zipSample: ["00953"]
 zipCodes: ["00953"]
 localPaths: ["Toa Alta County / elevation 118 ft band", "Toa Alta County / primary ZIP 00953", "Toa Alta County / coords 18.3600, -66.2600", "Toa Alta County / ZIP 00953 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 355632
 ---
 
 **Engineering Notice for Galateo:** Structural integrity verification: Weather Barrier Wrap calibrated for 102 mph localized wind load factor. Coordinates: 18.3600, -66.2600. Regional dispatch grid: Toa Alta County.

@@ -11,6 +11,7 @@ lng: -104.9400
 zipSample: ["80233", "80241", "80614", "80229", "80023"]
 zipCodes: ["80023", "80260", "80602", "80614", "80640", "80233", "80229", "80241"]
 localPaths: ["Adams County / elevation 5223 ft band", "Adams County / ZIP 80233 sector", "Adams County / primary ZIP 80260", "Adams County / ZIP 80023 sector", "Adams County / coords 39.9200, -104.9400"]
+zillowHomeValueUsd: 403856
 ---
 
 **Engineering Notice for Thornton:** Structural loading calculated based on 5223 ft terrain assessment. Regional dispatch grid: Adams County.

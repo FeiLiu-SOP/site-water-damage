@@ -12,6 +12,7 @@ lng: -103.7600
 zipSample: ["81063"]
 zipCodes: ["81063"]
 localPaths: ["Crowley County / coords 38.2200, -103.7600", "Crowley County / elevation 4337 ft band", "Crowley County / primary ZIP 81063", "Crowley County / ZIP 81063 sector"]
+zillowHomeValueUsd: 155686
 ---
 
 **Engineering Notice for Ordway:** Structural integrity verification: Cladding Retrofit calibrated for 93 mph localized wind load factor. Elevation: 4337 ft AMSL. Regional dispatch grid: Crowley County.

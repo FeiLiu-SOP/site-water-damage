@@ -12,6 +12,7 @@ lng: -82.2400
 zipSample: ["29692"]
 zipCodes: ["29692"]
 localPaths: ["Greenwood County / elevation 640 ft band", "Greenwood County / coords 34.3900, -82.2400", "Greenwood County / primary ZIP 29692", "Greenwood County / ZIP 29692 sector"]
+zillowHomeValueUsd: 144278
 ---
 
 **Engineering Notice for Ware Shoals:** System optimized for 162 mg/L hard water scaling factors in Ware Shoals. Regional dispatch grid: Greenwood County.

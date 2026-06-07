@@ -12,6 +12,7 @@ lng: -83.7100
 zipSample: ["40977"]
 zipCodes: ["40977"]
 localPaths: ["Bell County / elevation 2119 ft band", "Bell County / coords 36.7500, -83.7100", "Bell County / ZIP 40977 sector", "Bell County / primary ZIP 40977"]
+zillowHomeValueUsd: 90029
 ---
 
 **Engineering Notice for Pineville:** System optimized for 152 mg/L hard water scaling factors in Pineville. Regional dispatch grid: Bell County.

@@ -12,6 +12,7 @@ lng: -97.1500
 zipSample: ["76034"]
 zipCodes: ["76034"]
 localPaths: ["Tarrant County / primary ZIP 76034", "Tarrant County / elevation 653 ft band", "Tarrant County / coords 32.8900, -97.1500", "Tarrant County / ZIP 76034 sector"]
+zillowHomeValueUsd: 912169
 ---
 
 **Engineering Notice for Colleyville:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Tarrant County.

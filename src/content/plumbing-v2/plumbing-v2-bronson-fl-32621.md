@@ -12,6 +12,7 @@ lng: -82.6400
 zipSample: ["32621"]
 zipCodes: ["32621"]
 localPaths: ["Levy County / primary ZIP 32621", "Levy County / coords 29.4500, -82.6400", "Levy County / elevation 92 ft band", "Levy County / ZIP 32621 sector"]
+zillowHomeValueUsd: 245928
 ---
 
 **Engineering Notice for Bronson:** System optimized for 168 mg/L hard water scaling factors in Bronson. Regional dispatch grid: Levy County.

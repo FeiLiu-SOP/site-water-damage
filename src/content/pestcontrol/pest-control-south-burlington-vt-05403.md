@@ -11,6 +11,7 @@ lng: -73.2200
 zipSample: ["05407", "05403", "05408"]
 zipCodes: ["05403", "05407", "05408"]
 localPaths: ["Chittenden County / ZIP 05408 sector", "Chittenden County / primary ZIP 05403", "Chittenden County / ZIP 05407 sector", "Chittenden County / ZIP 05403 sector", "Chittenden County / elevation 112 ft band"]
+zillowHomeValueUsd: 480535
 ---
 
 **Engineering Notice for South Burlington:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Chittenden County.

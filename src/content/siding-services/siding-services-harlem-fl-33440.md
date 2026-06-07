@@ -12,6 +12,7 @@ lng: -80.9500
 zipSample: ["33440"]
 zipCodes: ["33440"]
 localPaths: ["Hendry County / coords 26.7300, -80.9500", "Hendry County / elevation 33 ft band", "Hendry County / ZIP 33440 sector", "Hendry County / primary ZIP 33440"]
+zillowHomeValueUsd: 254540
 ---
 
 **Engineering Notice for Harlem:** Structural integrity verification: Wall Restoration calibrated for 145 mph localized wind load factor. Elevation: 33 ft AMSL. Coordinates: 26.7300, -80.9500. Regional dispatch grid: Hendry County.

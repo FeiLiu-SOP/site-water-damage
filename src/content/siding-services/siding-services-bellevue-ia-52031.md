@@ -12,6 +12,7 @@ lng: -90.4300
 zipSample: ["52031"]
 zipCodes: ["52031"]
 localPaths: ["Jackson County / coords 42.2600, -90.4300", "Jackson County / primary ZIP 52031", "Jackson County / ZIP 52031 sector", "Jackson County / elevation 709 ft band"]
+zillowHomeValueUsd: 308049
 ---
 
 **Engineering Notice for Bellevue:** Wall Restoration was validated under stress factor 1.08; target tolerance set near 93 mph. Coordinates: 42.2600, -90.4300. Grid anchor: Jackson County.

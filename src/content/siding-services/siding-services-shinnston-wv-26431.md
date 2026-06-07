@@ -12,6 +12,7 @@ lng: -80.3000
 zipSample: ["26431"]
 zipCodes: ["26431"]
 localPaths: ["Harrison County / elevation 1112 ft band", "Harrison County / primary ZIP 26431", "Harrison County / coords 39.3900, -80.3000", "Harrison County / ZIP 26431 sector"]
+zillowHomeValueUsd: 136278
 ---
 
 **Engineering Notice for Shinnston:** Envelope check: Wall Restoration assigned to wind-load band B with stress factor 1.20. Regional dispatch grid: Harrison County.

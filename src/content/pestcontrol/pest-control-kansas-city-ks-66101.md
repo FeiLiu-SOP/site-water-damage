@@ -11,6 +11,7 @@ lng: -94.7400
 zipSample: ["66117", "66105", "66110", "66104", "66109"]
 zipCodes: ["66111", "66112", "66118", "66106", "66117", "66103", "66104", "66110", "66105", "66101", "66119", "66102"]
 localPaths: ["Wyandotte County / ZIP 66105 sector", "Wyandotte County / coords 39.1200, -94.7400", "Wyandotte County / primary ZIP 66101", "Wyandotte County / ZIP 66104 sector", "Wyandotte County / ZIP 66110 sector"]
+zillowHomeValueUsd: 123571
 ---
 
 **Engineering Notice for Kansas City:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Wyandotte County.

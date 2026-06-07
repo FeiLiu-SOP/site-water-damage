@@ -12,6 +12,7 @@ lng: -120.3500
 zipSample: ["95223"]
 zipCodes: ["95223"]
 localPaths: ["Calaveras County / ZIP 95223 sector", "Calaveras County / elevation 4199 ft band", "Calaveras County / coords 38.2500, -120.3500", "Calaveras County / primary ZIP 95223"]
+zillowHomeValueUsd: 421027
 ---
 
 **Engineering Notice for Arnold:** structural drying capacity optimized for 4199ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Calaveras County. Relative Humidity Threshold: 67%. Sensor sync: Active.

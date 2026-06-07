@@ -12,6 +12,7 @@ lng: -82.4000
 zipSample: ["30434"]
 zipCodes: ["30434"]
 localPaths: ["Jefferson County / primary ZIP 30434", "Jefferson County / ZIP 30434 sector", "Jefferson County / elevation 299 ft band", "Jefferson County / coords 33.0000, -82.4000"]
+zillowHomeValueUsd: 117756
 ---
 
 **Engineering Notice for Louisville:** System optimized for 161 mg/L hard water scaling factors in Louisville. Regional dispatch grid: Jefferson County.

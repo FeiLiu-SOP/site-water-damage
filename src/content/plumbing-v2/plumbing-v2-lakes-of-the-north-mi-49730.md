@@ -12,6 +12,7 @@ lng: -84.8800
 zipSample: ["49730", "49659"]
 zipCodes: ["49659", "49730"]
 localPaths: ["Antrim County / ZIP 49659 sector", "Antrim County / coords 44.9400, -84.8800", "Antrim County / elevation 1309 ft band", "Antrim County / ZIP 49730 sector", "Antrim County / primary ZIP 49730"]
+zillowHomeValueUsd: 261465
 ---
 
 **Engineering Notice for Lakes of the North:** System optimized for 120 mg/L hard water scaling factors in Lakes of the North. Regional dispatch grid: Antrim County.

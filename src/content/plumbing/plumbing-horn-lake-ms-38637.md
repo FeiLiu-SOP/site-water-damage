@@ -12,6 +12,7 @@ lng: -90.0500
 zipSample: ["38637"]
 zipCodes: ["38637"]
 localPaths: ["DeSoto County / ZIP 38637 sector", "DeSoto County / primary ZIP 38637", "DeSoto County / elevation 299 ft band", "DeSoto County / coords 34.9500, -90.0500"]
+zillowHomeValueUsd: 202265
 ---
 
 **Engineering Notice for Horn Lake:** Structural loading calculated based on 299 ft terrain assessment. Regional dispatch grid: DeSoto County.

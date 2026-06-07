@@ -11,6 +11,7 @@ lng: -88.7900
 zipSample: ["39566", "39564"]
 zipCodes: ["39564", "39566"]
 localPaths: ["Jackson County / primary ZIP 39564", "Jackson County / ZIP 39566 sector", "Jackson County / ZIP 39564 sector", "Jackson County / coords 30.4100, -88.7900", "Jackson County / elevation 39 ft band"]
+zillowHomeValueUsd: 268117
 ---
 
 **Engineering Notice for Ocean Springs:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Jackson County.

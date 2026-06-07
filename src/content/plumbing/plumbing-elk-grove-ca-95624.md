@@ -12,6 +12,7 @@ lng: -121.3800
 zipSample: ["95759", "95758", "95624", "95757"]
 zipCodes: ["95624", "95759", "95758", "95757"]
 localPaths: ["Sacramento County / ZIP 95758 sector", "Sacramento County / primary ZIP 95624", "Sacramento County / elevation 43 ft band", "Sacramento County / ZIP 95757 sector", "Sacramento County / coords 38.4200, -121.3800"]
+zillowHomeValueUsd: 641708
 ---
 
 **Engineering Notice for Elk Grove:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Sacramento County.

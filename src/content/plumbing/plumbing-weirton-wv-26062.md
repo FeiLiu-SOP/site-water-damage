@@ -12,6 +12,7 @@ lng: -80.5700
 zipSample: ["26062"]
 zipCodes: ["26062"]
 localPaths: ["Hancock County / elevation 991 ft band", "Hancock County / primary ZIP 26062", "Hancock County / coords 40.4100, -80.5700", "Hancock County / ZIP 26062 sector"]
+zillowHomeValueUsd: 147024
 ---
 
 **Engineering Notice for Weirton:** Structural loading calculated based on 991 ft terrain assessment. Regional dispatch grid: Hancock County.

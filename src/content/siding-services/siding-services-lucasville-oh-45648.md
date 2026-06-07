@@ -12,6 +12,7 @@ lng: -82.9800
 zipSample: ["45648"]
 zipCodes: ["45648"]
 localPaths: ["Scioto County / coords 38.8800, -82.9800", "Scioto County / ZIP 45648 sector", "Scioto County / primary ZIP 45648", "Scioto County / elevation 676 ft band"]
+zillowHomeValueUsd: 171238
 ---
 
 **Engineering Notice for Lucasville:** Structural integrity verification: Cladding Retrofit calibrated for 108 mph localized wind load factor. Elevation: 676 ft AMSL. Coordinates: 38.8800, -82.9800. Regional dispatch grid: Scioto County.

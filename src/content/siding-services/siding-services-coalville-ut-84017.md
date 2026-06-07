@@ -12,6 +12,7 @@ lng: -111.4100
 zipSample: ["84017"]
 zipCodes: ["84017"]
 localPaths: ["Summit County / ZIP 84017 sector", "Summit County / primary ZIP 84017", "Summit County / coords 40.9100, -111.4100", "Summit County / elevation 5863 ft band"]
+zillowHomeValueUsd: 706035
 ---
 
 **Engineering Notice for Coalville:** Site context locked to Summit County. Coordinates: 40.9100, -111.4100. Weather Barrier Wrap integrity verification recorded.

@@ -11,6 +11,7 @@ lng: -88.0900
 zipSample: ["54313", "54303"]
 zipCodes: ["54313", "54303"]
 localPaths: ["Brown County / elevation 653 ft band", "Brown County / coords 44.5700, -88.0900", "Brown County / ZIP 54313 sector", "Brown County / primary ZIP 54303", "Brown County / ZIP 54303 sector"]
+zillowHomeValueUsd: 244123
 ---
 
 **Engineering Notice for Howard:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Brown County.

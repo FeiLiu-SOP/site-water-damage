@@ -11,6 +11,7 @@ lng: -117.1800
 zipSample: ["92586", "92564", "92587", "92584", "92585"]
 zipCodes: ["92584", "92585", "92587", "92564", "92586"]
 localPaths: ["Riverside County / elevation 1430 ft band", "Riverside County / primary ZIP 92587", "Riverside County / ZIP 92585 sector", "Riverside County / ZIP 92584 sector", "Riverside County / ZIP 92586 sector"]
+zillowHomeValueUsd: 641305
 ---
 
 **Engineering Notice for Menifee:** Structural loading calculated based on 1430 ft terrain assessment. Regional dispatch grid: Riverside County.

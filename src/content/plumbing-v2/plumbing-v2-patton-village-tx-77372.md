@@ -12,6 +12,7 @@ lng: -95.1600
 zipSample: ["77357", "77372"]
 zipCodes: ["77372", "77357"]
 localPaths: ["Montgomery County / primary ZIP 77372", "Montgomery County / elevation 112 ft band", "Montgomery County / ZIP 77372 sector", "Montgomery County / ZIP 77357 sector", "Montgomery County / coords 30.2000, -95.1600"]
+zillowHomeValueUsd: 240797
 ---
 
 **Engineering Notice for Patton Village:** System optimized for 152 mg/L hard water scaling factors in Patton Village. Regional dispatch grid: Montgomery County.

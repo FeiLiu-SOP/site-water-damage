@@ -12,6 +12,7 @@ lng: -74.0700
 zipSample: ["07096", "07094"]
 zipCodes: ["07096", "07094"]
 localPaths: ["Hudson County / primary ZIP 07094", "Hudson County / ZIP 07096 sector", "Hudson County / coords 40.7800, -74.0700", "Hudson County / elevation 26 ft band", "Hudson County / ZIP 07094 sector"]
+zillowHomeValueUsd: 660126
 ---
 
 **Engineering Notice for Secaucus:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Hudson County.

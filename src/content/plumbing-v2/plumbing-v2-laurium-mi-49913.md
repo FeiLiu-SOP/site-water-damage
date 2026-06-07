@@ -12,6 +12,7 @@ lng: -88.4400
 zipSample: ["49913"]
 zipCodes: ["49913"]
 localPaths: ["Houghton County / ZIP 49913 sector", "Houghton County / primary ZIP 49913", "Houghton County / elevation 1220 ft band", "Houghton County / coords 47.2400, -88.4400"]
+zillowHomeValueUsd: 126169
 ---
 
 **Engineering Notice for Laurium:** System optimized for 165 mg/L hard water scaling factors in Laurium. Regional dispatch grid: Houghton County.

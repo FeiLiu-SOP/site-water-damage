@@ -12,6 +12,7 @@ lng: -98.3800
 zipSample: ["78572"]
 zipCodes: ["78572"]
 localPaths: ["Hidalgo County / coords 26.2100, -98.3800", "Hidalgo County / ZIP 78572 sector", "Hidalgo County / primary ZIP 78572", "Hidalgo County / elevation 131 ft band"]
+zillowHomeValueUsd: 197883
 ---
 
 **Engineering Notice for Palmview South:** System optimized for 130 mg/L hard water scaling factors in Palmview South. Regional dispatch grid: Hidalgo County.

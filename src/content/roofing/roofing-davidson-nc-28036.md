@@ -11,6 +11,7 @@ lng: -80.8200
 zipSample: ["28035", "28036"]
 zipCodes: ["28035", "28036"]
 localPaths: ["Mecklenburg County / elevation 751 ft band", "Mecklenburg County / ZIP 28036 sector", "Mecklenburg County / primary ZIP 28036", "Mecklenburg County / coords 35.4800, -80.8200", "Mecklenburg County / ZIP 28035 sector"]
+zillowHomeValueUsd: 655823
 ---
 
 **Engineering Notice for Davidson:** Structural loading calculated based on 751 ft terrain assessment. Regional dispatch grid: Mecklenburg County.

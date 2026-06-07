@@ -12,6 +12,7 @@ lng: -87.0600
 zipSample: ["37143"]
 zipCodes: ["37143"]
 localPaths: ["Cheatham County / ZIP 37143 sector", "Cheatham County / elevation 564 ft band", "Cheatham County / primary ZIP 37143", "Cheatham County / coords 36.1000, -87.0600"]
+zillowHomeValueUsd: 450019
 ---
 
 **Engineering Notice for Pegram:** System optimized for 180 mg/L hard water scaling factors in Pegram. Regional dispatch grid: Cheatham County.

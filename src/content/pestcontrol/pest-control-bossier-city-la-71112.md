@@ -11,6 +11,7 @@ lng: -93.6700
 zipSample: ["71172", "71171", "71111", "71110", "71112"]
 zipCodes: ["71171", "71111", "71172", "71113", "71110", "71112"]
 localPaths: ["Bossier Parish / coords 32.5200, -93.6700", "Bossier Parish / ZIP 71111 sector", "Bossier Parish / elevation 167 ft band", "Bossier Parish / ZIP 71172 sector", "Bossier Parish / primary ZIP 71112"]
+zillowHomeValueUsd: 182422
 ---
 
 **Engineering Notice for Bossier City:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Bossier Parish.

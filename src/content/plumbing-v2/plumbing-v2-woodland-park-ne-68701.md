@@ -12,6 +12,7 @@ lng: -97.3500
 zipSample: ["68701"]
 zipCodes: ["68701"]
 localPaths: ["Stanton County / coords 42.0500, -97.3500", "Stanton County / ZIP 68701 sector", "Stanton County / elevation 1686 ft band", "Stanton County / primary ZIP 68701"]
+zillowHomeValueUsd: 256118
 ---
 
 **Engineering Notice for Woodland Park:** System optimized for 157 mg/L hard water scaling factors in Woodland Park. Regional dispatch grid: Stanton County.

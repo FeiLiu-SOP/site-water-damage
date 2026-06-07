@@ -12,6 +12,7 @@ lng: -114.9300
 zipSample: ["89006", "89005"]
 zipCodes: ["89005", "89006"]
 localPaths: ["Clark County / coords 35.8400, -114.9300", "Clark County / ZIP 89006 sector", "Clark County / elevation 1854 ft band", "Clark County / ZIP 89005 sector", "Clark County / primary ZIP 89005"]
+zillowHomeValueUsd: 471008
 ---
 
 **Engineering Notice for Boulder City:** Structural loading calculated based on 1854 ft terrain assessment. Regional dispatch grid: Clark County.

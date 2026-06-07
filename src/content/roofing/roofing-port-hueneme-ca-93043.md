@@ -11,6 +11,7 @@ lng: -119.2000
 zipSample: ["93043", "93044", "93041"]
 zipCodes: ["93044", "93041", "93043"]
 localPaths: ["Ventura County / elevation 16 ft band", "Ventura County / ZIP 93043 sector", "Ventura County / ZIP 93044 sector", "Ventura County / ZIP 93041 sector", "Ventura County / primary ZIP 93043"]
+zillowHomeValueUsd: 627975
 ---
 
 **Engineering Notice for Port Hueneme:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Ventura County.

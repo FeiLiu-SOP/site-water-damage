@@ -12,6 +12,7 @@ lng: -99.9200
 zipSample: ["73550"]
 zipCodes: ["73550"]
 localPaths: ["Harmon County / coords 34.6900, -99.9200", "Harmon County / ZIP 73550 sector", "Harmon County / elevation 1650 ft band", "Harmon County / primary ZIP 73550"]
+zillowHomeValueUsd: 57053
 ---
 
 **Engineering Notice for Hollis:** Envelope check: Panel Replacement assigned to wind-load band A with stress factor 0.92. Elevation: 1650 ft AMSL. Regional dispatch grid: Harmon County.

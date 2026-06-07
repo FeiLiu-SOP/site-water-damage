@@ -12,6 +12,7 @@ lng: -81.8700
 zipSample: ["44273"]
 zipCodes: ["44273"]
 localPaths: ["Medina County / ZIP 44273 sector", "Medina County / elevation 994 ft band", "Medina County / coords 41.0200, -81.8700", "Medina County / primary ZIP 44273"]
+zillowHomeValueUsd: 322790
 ---
 
 **Engineering Notice for Seville:** System optimized for 173 mg/L hard water scaling factors in Seville. Regional dispatch grid: Medina County.

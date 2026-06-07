@@ -11,6 +11,7 @@ lng: -76.6100
 zipSample: ["21062", "21108", "21060", "21061"]
 zipCodes: ["21108", "21062", "21060", "21061"]
 localPaths: ["Anne Arundel County / ZIP 21108 sector", "Anne Arundel County / ZIP 21060 sector", "Anne Arundel County / ZIP 21062 sector", "Anne Arundel County / primary ZIP 21060", "Anne Arundel County / coords 39.1600, -76.6100"]
+zillowHomeValueUsd: 416302
 ---
 
 **Engineering Notice for Glen Burnie:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Anne Arundel County.

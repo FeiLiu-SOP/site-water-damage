@@ -12,6 +12,7 @@ lng: -79.8800
 zipSample: ["15104"]
 zipCodes: ["15104"]
 localPaths: ["Allegheny County / elevation 774 ft band", "Allegheny County / coords 40.4100, -79.8800", "Allegheny County / ZIP 15104 sector", "Allegheny County / primary ZIP 15104"]
+zillowHomeValueUsd: 58373
 ---
 
 **Engineering Notice for Rankin:** structural drying capacity optimized for 774ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allegheny County. Relative Humidity Threshold: 70%. Sensor sync: Active.

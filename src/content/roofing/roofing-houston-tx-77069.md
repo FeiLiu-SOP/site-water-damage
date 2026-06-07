@@ -11,6 +11,7 @@ lng: -95.3900
 zipSample: ["77074", "77208", "77261", "77287", "77274"]
 zipCodes: ["77407", "77084", "77504", "77254", "77085", "77292", "77091", "77073", "77336", "77028", "77223", "77060"]
 localPaths: ["Harris County / elevation 69 ft band", "Harris County / ZIP 77261 sector", "Harris County / ZIP 77074 sector", "Harris County / coords 29.7900, -95.3900", "Harris County / ZIP 77274 sector"]
+zillowHomeValueUsd: 330537
 ---
 
 **Engineering Notice for Houston:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Harris County.

@@ -11,6 +11,7 @@ lng: -94.3800
 zipSample: ["64086", "64002", "64082", "64064", "64063"]
 zipCodes: ["64081", "64086", "64082", "64064", "64063", "64002"]
 localPaths: ["Jackson County / coords 38.9200, -94.3800", "Jackson County / ZIP 64063 sector", "Jackson County / ZIP 64064 sector", "Jackson County / ZIP 64086 sector", "Jackson County / ZIP 64002 sector"]
+zillowHomeValueUsd: 375423
 ---
 
 **Engineering Notice for Lee's Summit:** Structural loading calculated based on 1030 ft terrain assessment. Regional dispatch grid: Jackson County.

@@ -12,6 +12,7 @@ lng: -93.9000
 zipSample: ["75956"]
 zipCodes: ["75956"]
 localPaths: ["Jasper County / coords 30.6600, -93.9000", "Jasper County / primary ZIP 75956", "Jasper County / elevation 138 ft band", "Jasper County / ZIP 75956 sector"]
+zillowHomeValueUsd: 170439
 ---
 
 **Engineering Notice for Kirbyville:** Structural integrity verification: Wall Restoration calibrated for 150 mph localized wind load factor. Regional dispatch grid: Jasper County.

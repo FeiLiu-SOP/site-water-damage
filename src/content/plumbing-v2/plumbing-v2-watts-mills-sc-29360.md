@@ -12,6 +12,7 @@ lng: -81.9900
 zipSample: ["29360"]
 zipCodes: ["29360"]
 localPaths: ["Laurens County / coords 34.5200, -81.9900", "Laurens County / primary ZIP 29360", "Laurens County / ZIP 29360 sector", "Laurens County / elevation 666 ft band"]
+zillowHomeValueUsd: 180620
 ---
 
 **Engineering Notice for Watts Mills:** System optimized for 132 mg/L hard water scaling factors in Watts Mills. Regional dispatch grid: Laurens County.

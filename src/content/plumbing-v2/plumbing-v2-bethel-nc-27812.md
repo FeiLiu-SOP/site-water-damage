@@ -12,6 +12,7 @@ lng: -77.3800
 zipSample: ["27812"]
 zipCodes: ["27812"]
 localPaths: ["Pitt County / ZIP 27812 sector", "Pitt County / elevation 85 ft band", "Pitt County / coords 35.8100, -77.3800", "Pitt County / primary ZIP 27812"]
+zillowHomeValueUsd: 151465
 ---
 
 **Engineering Notice for Bethel:** System optimized for 155 mg/L hard water scaling factors in Bethel. Regional dispatch grid: Pitt County.

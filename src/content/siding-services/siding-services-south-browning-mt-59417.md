@@ -12,6 +12,7 @@ lng: -113.0100
 zipSample: ["59417"]
 zipCodes: ["59417"]
 localPaths: ["Glacier County / ZIP 59417 sector", "Glacier County / primary ZIP 59417", "Glacier County / coords 48.5500, -113.0100", "Glacier County / elevation 4386 ft band"]
+zillowHomeValueUsd: 159257
 ---
 
 **Engineering Notice for South Browning:** Cladding Service was validated under stress factor 1.03; target tolerance set near 91 mph. Grid anchor: Glacier County.

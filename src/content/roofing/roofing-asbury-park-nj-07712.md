@@ -11,6 +11,7 @@ lng: -74.0100
 zipSample: ["07712"]
 zipCodes: ["07712"]
 localPaths: ["Monmouth County / ZIP 07712 sector", "Monmouth County / coords 40.2200, -74.0100", "Monmouth County / elevation 23 ft band", "Monmouth County / primary ZIP 07712"]
+zillowHomeValueUsd: 737216
 ---
 
 **Engineering Notice for Asbury Park:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Monmouth County.

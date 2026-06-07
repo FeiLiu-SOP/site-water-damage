@@ -12,6 +12,7 @@ lng: -78.8200
 zipSample: ["27560", "27518", "27519", "27513", "27511"]
 zipCodes: ["27519", "27511", "27518", "27512", "27560", "27513"]
 localPaths: ["Wake County / ZIP 27519 sector", "Wake County / elevation 420 ft band", "Wake County / ZIP 27560 sector", "Wake County / ZIP 27511 sector", "Wake County / primary ZIP 27560"]
+zillowHomeValueUsd: 501932
 ---
 
 **Engineering Notice for Cary:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: Wake County.

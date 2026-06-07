@@ -12,6 +12,7 @@ lng: -83.3600
 zipSample: ["43430"]
 zipCodes: ["43430"]
 localPaths: ["Ottawa County / coords 41.5200, -83.3600", "Ottawa County / elevation 620 ft band", "Ottawa County / primary ZIP 43430", "Ottawa County / ZIP 43430 sector"]
+zillowHomeValueUsd: 203625
 ---
 
 **Engineering Notice for Genoa:** Site context locked to Ottawa County. Elevation: 620 ft AMSL. Panel Replacement integrity verification recorded.

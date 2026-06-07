@@ -12,6 +12,7 @@ lng: -122.6700
 zipSample: ["94951"]
 zipCodes: ["94951"]
 localPaths: ["Sonoma County / coords 38.3000, -122.6700", "Sonoma County / primary ZIP 94951", "Sonoma County / elevation 85 ft band", "Sonoma County / ZIP 94951 sector"]
+zillowHomeValueUsd: 1261645
 ---
 
 **Engineering Notice for Penngrove:** System optimized for 143 mg/L hard water scaling factors in Penngrove. Regional dispatch grid: Sonoma County.

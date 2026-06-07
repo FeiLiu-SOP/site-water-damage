@@ -12,6 +12,7 @@ lng: -87.8100
 zipSample: ["60035", "60037"]
 zipCodes: ["60035", "60037"]
 localPaths: ["Lake County / elevation 659 ft band", "Lake County / coords 42.1800, -87.8100", "Lake County / ZIP 60037 sector", "Lake County / ZIP 60035 sector", "Lake County / primary ZIP 60035"]
+zillowHomeValueUsd: 751158
 ---
 
 **Engineering Notice for Highland Park:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Lake County.

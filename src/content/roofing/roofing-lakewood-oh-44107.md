@@ -11,6 +11,7 @@ lng: -81.8000
 zipSample: ["44107"]
 zipCodes: ["44107"]
 localPaths: ["Cuyahoga County / coords 41.4800, -81.8000", "Cuyahoga County / ZIP 44107 sector", "Cuyahoga County / primary ZIP 44107", "Cuyahoga County / elevation 705 ft band"]
+zillowHomeValueUsd: 285902
 ---
 
 **Engineering Notice for Lakewood:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: Cuyahoga County.

@@ -11,6 +11,7 @@ lng: -91.2300
 zipSample: ["54602", "54603", "54601"]
 zipCodes: ["54601", "54603", "54602"]
 localPaths: ["La Crosse County / ZIP 54602 sector", "La Crosse County / elevation 627 ft band", "La Crosse County / ZIP 54603 sector", "La Crosse County / ZIP 54601 sector", "La Crosse County / primary ZIP 54603"]
+zillowHomeValueUsd: 236860
 ---
 
 **Engineering Notice for La Crosse:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: La Crosse County.

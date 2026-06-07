@@ -12,6 +12,7 @@ lng: -122.7700
 zipSample: ["97070"]
 zipCodes: ["97070"]
 localPaths: ["Clackamas County / ZIP 97070 sector", "Clackamas County / elevation 180 ft band", "Clackamas County / primary ZIP 97070", "Clackamas County / coords 45.3100, -122.7700"]
+zillowHomeValueUsd: 633760
 ---
 
 **Engineering Notice for Wilsonville:** Structural loading calculated based on 180 ft terrain assessment. Regional dispatch grid: Clackamas County.

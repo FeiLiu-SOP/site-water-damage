@@ -12,6 +12,7 @@ lng: -122.6200
 zipSample: ["95461"]
 zipCodes: ["95461"]
 localPaths: ["Lake County / primary ZIP 95461", "Lake County / coords 38.7500, -122.6200", "Lake County / elevation 1115 ft band", "Lake County / ZIP 95461 sector"]
+zillowHomeValueUsd: 315493
 ---
 
 **Engineering Notice for Middletown:** Site context locked to Lake County. Exterior Envelope integrity verification recorded.

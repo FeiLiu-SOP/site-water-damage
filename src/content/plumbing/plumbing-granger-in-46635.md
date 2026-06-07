@@ -12,6 +12,7 @@ lng: -86.1300
 zipSample: ["46530", "46635", "46545"]
 zipCodes: ["46635", "46545", "46530"]
 localPaths: ["St. Joseph County / ZIP 46545 sector", "St. Joseph County / ZIP 46530 sector", "St. Joseph County / elevation 801 ft band", "St. Joseph County / ZIP 46635 sector", "St. Joseph County / primary ZIP 46635"]
+zillowHomeValueUsd: 262315
 ---
 
 **Engineering Notice for Granger:** Structural loading calculated based on 801 ft terrain assessment. Regional dispatch grid: St. Joseph County.

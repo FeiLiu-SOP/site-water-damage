@@ -12,6 +12,7 @@ lng: -81.8900
 zipSample: ["29842"]
 zipCodes: ["29842"]
 localPaths: ["Aiken County / elevation 230 ft band", "Aiken County / coords 33.4300, -81.8900", "Aiken County / ZIP 29842 sector", "Aiken County / primary ZIP 29842"]
+zillowHomeValueUsd: 150889
 ---
 
 **Engineering Notice for Beech Island:** structural drying capacity optimized for 230ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Aiken County. Relative Humidity Threshold: 70%. Sensor sync: Active.

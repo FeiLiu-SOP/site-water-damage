@@ -12,6 +12,7 @@ lng: -77.6900
 zipSample: ["16823"]
 zipCodes: ["16823"]
 localPaths: ["Centre County / elevation 1017 ft band", "Centre County / coords 40.9200, -77.6900", "Centre County / primary ZIP 16823", "Centre County / ZIP 16823 sector"]
+zillowHomeValueUsd: 304148
 ---
 
 **Engineering Notice for Zion:** Structural integrity verification: Panel Replacement calibrated for 101 mph localized wind load factor. Regional dispatch grid: Centre County.

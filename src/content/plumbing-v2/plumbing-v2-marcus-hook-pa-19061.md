@@ -12,6 +12,7 @@ lng: -75.4200
 zipSample: ["19061"]
 zipCodes: ["19061"]
 localPaths: ["Delaware County / primary ZIP 19061", "Delaware County / ZIP 19061 sector", "Delaware County / coords 39.8100, -75.4200", "Delaware County / elevation 7 ft band"]
+zillowHomeValueUsd: 275760
 ---
 
 **Engineering Notice for Marcus Hook:** System optimized for 126 mg/L hard water scaling factors in Marcus Hook. Regional dispatch grid: Delaware County.

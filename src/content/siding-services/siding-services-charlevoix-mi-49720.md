@@ -12,6 +12,7 @@ lng: -85.2600
 zipSample: ["49720"]
 zipCodes: ["49720"]
 localPaths: ["Charlevoix County / coords 45.3100, -85.2600", "Charlevoix County / elevation 627 ft band", "Charlevoix County / ZIP 49720 sector", "Charlevoix County / primary ZIP 49720"]
+zillowHomeValueUsd: 435412
 ---
 
 **Engineering Notice for Charlevoix:** Structural integrity verification: Panel Replacement calibrated for 92 mph localized wind load factor. Elevation: 627 ft AMSL. Coordinates: 45.3100, -85.2600. Regional dispatch grid: Charlevoix County.

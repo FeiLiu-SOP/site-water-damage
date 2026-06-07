@@ -12,6 +12,7 @@ lng: -85.2500
 zipSample: ["30108"]
 zipCodes: ["30108"]
 localPaths: ["Carroll County / ZIP 30108 sector", "Carroll County / primary ZIP 30108", "Carroll County / coords 33.5400, -85.2500", "Carroll County / elevation 1093 ft band"]
+zillowHomeValueUsd: 260294
 ---
 
 **Engineering Notice for Bowdon:** System optimized for 134 mg/L hard water scaling factors in Bowdon. Regional dispatch grid: Carroll County.

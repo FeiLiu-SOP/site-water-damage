@@ -11,6 +11,7 @@ lng: -87.4700
 zipSample: ["46373", "46311"]
 zipCodes: ["46311", "46373"]
 localPaths: ["Lake County / elevation 702 ft band", "Lake County / ZIP 46311 sector", "Lake County / ZIP 46373 sector", "Lake County / primary ZIP 46373", "Lake County / coords 41.4400, -87.4700"]
+zillowHomeValueUsd: 448548
 ---
 
 **Engineering Notice for St. John:** Structural loading calculated based on 702 ft terrain assessment. Regional dispatch grid: Lake County.

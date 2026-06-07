@@ -12,6 +12,7 @@ lng: -90.3400
 zipSample: ["63123", "63119"]
 zipCodes: ["63119", "63123"]
 localPaths: ["St. Louis County / coords 38.5700, -90.3400", "St. Louis County / ZIP 63123 sector", "St. Louis County / ZIP 63119 sector", "St. Louis County / elevation 525 ft band", "St. Louis County / primary ZIP 63119"]
+zillowHomeValueUsd: 378661
 ---
 
 **Engineering Notice for Marlborough:** System optimized for 174 mg/L hard water scaling factors in Marlborough. Regional dispatch grid: St. Louis County.

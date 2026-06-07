@@ -11,6 +11,7 @@ lng: -76.7300
 zipSample: ["17405", "17403", "17401", "17404"]
 zipCodes: ["17404", "17401", "17405", "17403"]
 localPaths: ["York County / ZIP 17403 sector", "York County / coords 39.9700, -76.7300", "York County / ZIP 17405 sector", "York County / ZIP 17401 sector", "York County / ZIP 17404 sector"]
+zillowHomeValueUsd: 255878
 ---
 
 **Engineering Notice for York:** Structural loading calculated based on 367 ft terrain assessment. Regional dispatch grid: York County.

@@ -12,6 +12,7 @@ lng: -79.3600
 zipSample: ["24557"]
 zipCodes: ["24557"]
 localPaths: ["Pittsylvania County / primary ZIP 24557", "Pittsylvania County / coords 36.9500, -79.3600", "Pittsylvania County / elevation 863 ft band", "Pittsylvania County / ZIP 24557 sector"]
+zillowHomeValueUsd: 171409
 ---
 
 **Engineering Notice for Gretna:** Site context locked to Pittsylvania County. Elevation: 863 ft AMSL. Coordinates: 36.9500, -79.3600. Exterior Cladding integrity verification recorded.

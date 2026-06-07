@@ -12,6 +12,7 @@ lng: -75.1700
 zipSample: ["08318"]
 zipCodes: ["08318"]
 localPaths: ["Salem County / primary ZIP 08318", "Salem County / coords 39.5400, -75.1700", "Salem County / elevation 102 ft band", "Salem County / ZIP 08318 sector"]
+zillowHomeValueUsd: 344237
 ---
 
 **Engineering Notice for Olivet:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Grid: Salem County.

@@ -12,6 +12,7 @@ lng: -84.2300
 zipSample: ["45150"]
 zipCodes: ["45150"]
 localPaths: ["Clermont County / coords 39.1800, -84.2300", "Clermont County / ZIP 45150 sector", "Clermont County / primary ZIP 45150", "Clermont County / elevation 869 ft band"]
+zillowHomeValueUsd: 336976
 ---
 
 **Engineering Notice for Day Heights:** structural drying capacity optimized for 869ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clermont County. Relative Humidity Threshold: 83%. Sensor sync: Active.

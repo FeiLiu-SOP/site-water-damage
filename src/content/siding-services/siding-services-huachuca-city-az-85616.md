@@ -12,6 +12,7 @@ lng: -110.3400
 zipSample: ["85616"]
 zipCodes: ["85616"]
 localPaths: ["Cochise County / coords 31.6300, -110.3400", "Cochise County / elevation 4367 ft band", "Cochise County / primary ZIP 85616", "Cochise County / ZIP 85616 sector"]
+zillowHomeValueUsd: 218488
 ---
 
 **Engineering Notice for Huachuca City:** Envelope check: Exterior Cladding assigned to wind-load band A with stress factor 1.18. Elevation: 4367 ft AMSL. Regional dispatch grid: Cochise County.

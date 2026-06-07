@@ -12,6 +12,7 @@ lng: -74.0700
 zipSample: ["08735"]
 zipCodes: ["08735"]
 localPaths: ["Ocean County / elevation 13 ft band", "Ocean County / ZIP 08735 sector", "Ocean County / primary ZIP 08735", "Ocean County / coords 39.9700, -74.0700"]
+zillowHomeValueUsd: 1146030
 ---
 
 **Engineering Notice for Lavallette:** Surface Sheathing was validated under stress factor 0.92; target tolerance set near 102 mph. Grid anchor: Ocean County.

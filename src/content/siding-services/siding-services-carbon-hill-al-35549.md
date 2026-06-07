@@ -12,6 +12,7 @@ lng: -87.5200
 zipSample: ["35549"]
 zipCodes: ["35549"]
 localPaths: ["Walker County / coords 33.8900, -87.5200", "Walker County / elevation 525 ft band", "Walker County / primary ZIP 35549", "Walker County / ZIP 35549 sector"]
+zillowHomeValueUsd: 90871
 ---
 
 **Engineering Notice for Carbon Hill:** Cladding Retrofit was validated under stress factor 0.83; target tolerance set near 110 mph. Coordinates: 33.8900, -87.5200. Grid anchor: Walker County.

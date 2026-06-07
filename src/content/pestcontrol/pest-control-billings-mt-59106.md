@@ -11,6 +11,7 @@ lng: -108.5500
 zipSample: ["59115", "59104", "59102", "59101", "59107"]
 zipCodes: ["59115", "59117", "59104", "59105", "59116", "59102", "59101", "59106", "59107", "59108"]
 localPaths: ["Yellowstone County / ZIP 59104 sector", "Yellowstone County / ZIP 59102 sector", "Yellowstone County / primary ZIP 59106", "Yellowstone County / coords 45.7900, -108.5500", "Yellowstone County / ZIP 59115 sector"]
+zillowHomeValueUsd: 536064
 ---
 
 **Engineering Notice for Billings:** Structural loading calculated based on 3228 ft terrain assessment. Regional dispatch grid: Yellowstone County.

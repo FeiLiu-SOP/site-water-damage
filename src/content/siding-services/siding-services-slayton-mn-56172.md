@@ -12,6 +12,7 @@ lng: -95.7600
 zipSample: ["56172"]
 zipCodes: ["56172"]
 localPaths: ["Murray County / elevation 1611 ft band", "Murray County / ZIP 56172 sector", "Murray County / primary ZIP 56172", "Murray County / coords 43.9900, -95.7600"]
+zillowHomeValueUsd: 218664
 ---
 
 **Engineering Notice for Slayton:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 0.90. Elevation: 1611 ft AMSL. Regional dispatch grid: Murray County.

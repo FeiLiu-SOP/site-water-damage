@@ -12,6 +12,7 @@ lng: -90.0900
 zipSample: ["62203", "62204"]
 zipCodes: ["62203", "62204"]
 localPaths: ["St. Clair County / elevation 430 ft band", "St. Clair County / coords 38.6300, -90.0900", "St. Clair County / primary ZIP 62204", "St. Clair County / ZIP 62204 sector", "St. Clair County / ZIP 62203 sector"]
+zillowHomeValueUsd: 40299
 ---
 
 **Engineering Notice for Washington Park:** Weather Barrier Wrap was validated under stress factor 0.94; target tolerance set near 90 mph. Coordinates: 38.6300, -90.0900. Grid anchor: St. Clair County.

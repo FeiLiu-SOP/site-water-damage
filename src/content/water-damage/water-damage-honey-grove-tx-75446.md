@@ -12,6 +12,7 @@ lng: -95.9100
 zipSample: ["75446"]
 zipCodes: ["75446"]
 localPaths: ["Fannin County / primary ZIP 75446", "Fannin County / ZIP 75446 sector", "Fannin County / coords 33.5900, -95.9100", "Fannin County / elevation 673 ft band"]
+zillowHomeValueUsd: 248136
 ---
 
 **Engineering Notice for Honey Grove:** structural drying capacity optimized for 673ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fannin County. Relative Humidity Threshold: 69%. Sensor sync: Active.

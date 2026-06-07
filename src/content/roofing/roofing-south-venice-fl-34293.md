@@ -11,6 +11,7 @@ lng: -82.4200
 zipSample: ["34293", "34284"]
 zipCodes: ["34293", "34284"]
 localPaths: ["Sarasota County / ZIP 34293 sector", "Sarasota County / primary ZIP 34293", "Sarasota County / elevation 26 ft band", "Sarasota County / ZIP 34284 sector", "Sarasota County / coords 27.0400, -82.4200"]
+zillowHomeValueUsd: 366732
 ---
 
 **Engineering Notice for South Venice:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Sarasota County.

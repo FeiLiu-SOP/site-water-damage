@@ -11,6 +11,7 @@ lng: -94.3500
 zipSample: ["64053", "64054", "64052", "64051", "64050"]
 zipCodes: ["64056", "64057", "64050", "64053", "64054", "64016", "64052", "64051", "64055", "64015"]
 localPaths: ["Jackson County / ZIP 64054 sector", "Jackson County / ZIP 64052 sector", "Jackson County / ZIP 64050 sector", "Jackson County / ZIP 64051 sector", "Jackson County / primary ZIP 64054"]
+zillowHomeValueUsd: 159692
 ---
 
 **Engineering Notice for Independence:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: Jackson County.

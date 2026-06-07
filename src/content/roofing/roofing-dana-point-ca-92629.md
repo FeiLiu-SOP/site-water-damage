@@ -11,6 +11,7 @@ lng: -117.7000
 zipSample: ["92629", "92624"]
 zipCodes: ["92629", "92624"]
 localPaths: ["Orange County / primary ZIP 92629", "Orange County / elevation 285 ft band", "Orange County / coords 33.4700, -117.7000", "Orange County / ZIP 92624 sector", "Orange County / ZIP 92629 sector"]
+zillowHomeValueUsd: 1753686
 ---
 
 **Engineering Notice for Dana Point:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Orange County.

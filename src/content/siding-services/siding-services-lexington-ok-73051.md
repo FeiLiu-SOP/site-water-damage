@@ -12,6 +12,7 @@ lng: -97.3300
 zipSample: ["73051"]
 zipCodes: ["73051"]
 localPaths: ["Cleveland County / primary ZIP 73051", "Cleveland County / elevation 1047 ft band", "Cleveland County / coords 35.0200, -97.3300", "Cleveland County / ZIP 73051 sector"]
+zillowHomeValueUsd: 200721
 ---
 
 **Engineering Notice for Lexington:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Grid: Cleveland County.

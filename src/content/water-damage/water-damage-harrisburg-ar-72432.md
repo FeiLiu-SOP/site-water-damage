@@ -12,6 +12,7 @@ lng: -90.7200
 zipSample: ["72432"]
 zipCodes: ["72432"]
 localPaths: ["Poinsett County / elevation 279 ft band", "Poinsett County / coords 35.5600, -90.7200", "Poinsett County / primary ZIP 72432", "Poinsett County / ZIP 72432 sector"]
+zillowHomeValueUsd: 148128
 ---
 
 **Engineering Notice for Harrisburg:** structural drying capacity optimized for 279ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Poinsett County. Relative Humidity Threshold: 76%. Sensor sync: Active.

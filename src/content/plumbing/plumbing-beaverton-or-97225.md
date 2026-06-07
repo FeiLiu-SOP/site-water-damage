@@ -12,6 +12,7 @@ lng: -122.8200
 zipSample: ["97005", "97075", "97007", "97008", "97225"]
 zipCodes: ["97076", "97005", "97225", "97007", "97003", "97079", "97006", "97008", "97075", "97077"]
 localPaths: ["Washington County / coords 45.4800, -122.8200", "Washington County / ZIP 97225 sector", "Washington County / ZIP 97005 sector", "Washington County / ZIP 97007 sector", "Washington County / primary ZIP 97225"]
+zillowHomeValueUsd: 743440
 ---
 
 **Engineering Notice for Beaverton:** Structural loading calculated based on 236 ft terrain assessment. Regional dispatch grid: Washington County.

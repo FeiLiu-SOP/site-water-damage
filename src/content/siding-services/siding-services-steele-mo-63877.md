@@ -12,6 +12,7 @@ lng: -89.8400
 zipSample: ["63877"]
 zipCodes: ["63877"]
 localPaths: ["Pemiscot County / elevation 253 ft band", "Pemiscot County / primary ZIP 63877", "Pemiscot County / ZIP 63877 sector", "Pemiscot County / coords 36.0900, -89.8400"]
+zillowHomeValueUsd: 105840
 ---
 
 **Engineering Notice for Steele:** Envelope check: Panel Replacement assigned to wind-load band A with stress factor 0.90. Regional dispatch grid: Pemiscot County.

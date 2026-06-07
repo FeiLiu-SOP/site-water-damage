@@ -12,6 +12,7 @@ lng: -90.4600
 zipSample: ["70068"]
 zipCodes: ["70068"]
 localPaths: ["St. Charles Parish / ZIP 70068 sector", "St. Charles Parish / primary ZIP 70068", "St. Charles Parish / elevation 20 ft band", "St. Charles Parish / coords 30.0200, -90.4600"]
+zillowHomeValueUsd: 214964
 ---
 
 **Engineering Notice for Montz:** System optimized for 154 mg/L hard water scaling factors in Montz. Regional dispatch grid: St. Charles Parish.

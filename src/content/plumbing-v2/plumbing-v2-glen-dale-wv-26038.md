@@ -12,6 +12,7 @@ lng: -80.7600
 zipSample: ["26038"]
 zipCodes: ["26038"]
 localPaths: ["Marshall County / primary ZIP 26038", "Marshall County / coords 39.9500, -80.7600", "Marshall County / ZIP 26038 sector", "Marshall County / elevation 669 ft band"]
+zillowHomeValueUsd: 190105
 ---
 
 **Engineering Notice for Glen Dale:** System optimized for 156 mg/L hard water scaling factors in Glen Dale. Regional dispatch grid: Marshall County.

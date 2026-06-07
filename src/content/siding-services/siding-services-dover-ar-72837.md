@@ -12,6 +12,7 @@ lng: -93.1100
 zipSample: ["72837"]
 zipCodes: ["72837"]
 localPaths: ["Pope County / ZIP 72837 sector", "Pope County / elevation 420 ft band", "Pope County / coords 35.3900, -93.1100", "Pope County / primary ZIP 72837"]
+zillowHomeValueUsd: 216356
 ---
 
 **Engineering Notice for Dover:** Structural integrity verification: Facade Renewal calibrated for 95 mph localized wind load factor. Elevation: 420 ft AMSL. Coordinates: 35.3900, -93.1100. Regional dispatch grid: Pope County.

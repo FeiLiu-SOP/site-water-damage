@@ -12,6 +12,7 @@ lng: -83.2700
 zipSample: ["43143"]
 zipCodes: ["43143"]
 localPaths: ["Madison County / coords 39.7100, -83.2700", "Madison County / ZIP 43143 sector", "Madison County / elevation 909 ft band", "Madison County / primary ZIP 43143"]
+zillowHomeValueUsd: 288893
 ---
 
 **Engineering Notice for Mount Sterling:** Site context locked to Madison County. Coordinates: 39.7100, -83.2700. Facade Renewal integrity verification recorded.

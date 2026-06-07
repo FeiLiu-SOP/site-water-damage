@@ -12,6 +12,7 @@ lng: -75.8300
 zipSample: ["23350"]
 zipCodes: ["23350"]
 localPaths: ["Northampton County / elevation 43 ft band", "Northampton County / ZIP 23350 sector", "Northampton County / coords 37.5300, -75.8300", "Northampton County / primary ZIP 23350"]
+zillowHomeValueUsd: 193823
 ---
 
 **Engineering Notice for Exmore:** System optimized for 179 mg/L hard water scaling factors in Exmore. Regional dispatch grid: Northampton County.

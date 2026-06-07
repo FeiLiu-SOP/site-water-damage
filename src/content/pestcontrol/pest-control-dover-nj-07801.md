@@ -11,6 +11,7 @@ lng: -74.5600
 zipSample: ["07801"]
 zipCodes: ["07801"]
 localPaths: ["Morris County / coords 40.8900, -74.5600", "Morris County / ZIP 07801 sector", "Morris County / primary ZIP 07801", "Morris County / elevation 577 ft band"]
+zillowHomeValueUsd: 500468
 ---
 
 **Engineering Notice for Dover:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Morris County.

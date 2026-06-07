@@ -12,6 +12,7 @@ lng: -119.5600
 zipSample: ["93657"]
 zipCodes: ["93657"]
 localPaths: ["Fresno County / primary ZIP 93657", "Fresno County / coords 36.7000, -119.5600", "Fresno County / ZIP 93657 sector", "Fresno County / elevation 371 ft band"]
+zillowHomeValueUsd: 412139
 ---
 
 **Engineering Notice for Sanger:** Structural loading calculated based on 371 ft terrain assessment. Regional dispatch grid: Fresno County.

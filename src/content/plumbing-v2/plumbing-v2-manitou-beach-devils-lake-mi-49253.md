@@ -12,6 +12,7 @@ lng: -84.2900
 zipSample: ["49253"]
 zipCodes: ["49253"]
 localPaths: ["Lenawee County / elevation 1037 ft band", "Lenawee County / ZIP 49253 sector", "Lenawee County / primary ZIP 49253", "Lenawee County / coords 41.9800, -84.2900"]
+zillowHomeValueUsd: 303922
 ---
 
 **Engineering Notice for Manitou Beach-Devils Lake:** System optimized for 174 mg/L hard water scaling factors in Manitou Beach-Devils Lake. Regional dispatch grid: Lenawee County.

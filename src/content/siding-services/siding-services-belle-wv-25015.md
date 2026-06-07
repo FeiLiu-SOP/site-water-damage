@@ -12,6 +12,7 @@ lng: -81.5400
 zipSample: ["25015"]
 zipCodes: ["25015"]
 localPaths: ["Kanawha County / ZIP 25015 sector", "Kanawha County / primary ZIP 25015", "Kanawha County / coords 38.2300, -81.5400", "Kanawha County / elevation 640 ft band"]
+zillowHomeValueUsd: 115088
 ---
 
 **Engineering Notice for Belle:** Structural integrity verification: Vinyl Panels calibrated for 109 mph localized wind load factor. Elevation: 640 ft AMSL. Coordinates: 38.2300, -81.5400. Regional dispatch grid: Kanawha County.

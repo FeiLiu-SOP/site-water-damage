@@ -12,6 +12,7 @@ lng: -82.4700
 zipSample: ["24230"]
 zipCodes: ["24230"]
 localPaths: ["Wise County / primary ZIP 24230", "Wise County / ZIP 24230 sector", "Wise County / coords 36.9400, -82.4700", "Wise County / elevation 2001 ft band"]
+zillowHomeValueUsd: 115630
 ---
 
 **Engineering Notice for Coeburn:** System optimized for 151 mg/L hard water scaling factors in Coeburn. Regional dispatch grid: Wise County.

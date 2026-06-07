@@ -12,6 +12,7 @@ lng: -75.5900
 zipSample: ["19706"]
 zipCodes: ["19706"]
 localPaths: ["New Castle County / elevation 16 ft band", "New Castle County / ZIP 19706 sector", "New Castle County / coords 39.5700, -75.5900", "New Castle County / primary ZIP 19706"]
+zillowHomeValueUsd: 293973
 ---
 
 **Engineering Notice for Delaware City:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Elevation: 16 ft AMSL. Coordinates: 39.5700, -75.5900. Grid: New Castle County.

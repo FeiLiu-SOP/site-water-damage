@@ -11,6 +11,7 @@ lng: -77.2400
 zipSample: ["20850", "20878"]
 zipCodes: ["20850", "20878"]
 localPaths: ["Montgomery County / primary ZIP 20878", "Montgomery County / ZIP 20878 sector", "Montgomery County / coords 39.1000, -77.2400", "Montgomery County / ZIP 20850 sector", "Montgomery County / elevation 394 ft band"]
+zillowHomeValueUsd: 703159
 ---
 
 **Engineering Notice for North Potomac:** Structural loading calculated based on 394 ft terrain assessment. Regional dispatch grid: Montgomery County.

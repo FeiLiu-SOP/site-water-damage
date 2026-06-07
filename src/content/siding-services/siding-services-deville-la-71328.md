@@ -12,6 +12,7 @@ lng: -92.1400
 zipSample: ["71328"]
 zipCodes: ["71328"]
 localPaths: ["Rapides Parish / coords 31.3400, -92.1400", "Rapides Parish / primary ZIP 71328", "Rapides Parish / ZIP 71328 sector", "Rapides Parish / elevation 72 ft band"]
+zillowHomeValueUsd: 195874
 ---
 
 **Engineering Notice for Deville:** Cladding Service was validated under stress factor 1.22; target tolerance set near 106 mph. Grid anchor: Rapides Parish.

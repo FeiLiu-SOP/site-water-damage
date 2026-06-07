@@ -12,6 +12,7 @@ lng: -89.0500
 zipSample: ["62884"]
 zipCodes: ["62884"]
 localPaths: ["Franklin County / primary ZIP 62884", "Franklin County / elevation 482 ft band", "Franklin County / ZIP 62884 sector", "Franklin County / coords 38.0900, -89.0500"]
+zillowHomeValueUsd: 98480
 ---
 
 **Engineering Notice for Sesser:** Cladding verification uses 94 mph routing baseline; lateral pressure note: 12.5 psf. Grid: Franklin County.

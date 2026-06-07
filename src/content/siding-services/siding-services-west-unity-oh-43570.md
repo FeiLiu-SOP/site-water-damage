@@ -12,6 +12,7 @@ lng: -84.4300
 zipSample: ["43570"]
 zipCodes: ["43570"]
 localPaths: ["Williams County / coords 41.5900, -84.4300", "Williams County / primary ZIP 43570", "Williams County / elevation 804 ft band", "Williams County / ZIP 43570 sector"]
+zillowHomeValueUsd: 187910
 ---
 
 **Engineering Notice for West Unity:** Envelope check: Surface Sheathing assigned to wind-load band C with stress factor 0.76. Elevation: 804 ft AMSL. Regional dispatch grid: Williams County.

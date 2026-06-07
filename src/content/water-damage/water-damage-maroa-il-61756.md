@@ -12,6 +12,7 @@ lng: -88.9600
 zipSample: ["61756"]
 zipCodes: ["61756"]
 localPaths: ["Macon County / elevation 738 ft band", "Macon County / ZIP 61756 sector", "Macon County / primary ZIP 61756", "Macon County / coords 40.0400, -88.9600"]
+zillowHomeValueUsd: 158331
 ---
 
 **Engineering Notice for Maroa:** structural drying capacity optimized for 738ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Macon County. Relative Humidity Threshold: 73%. Sensor sync: Active.

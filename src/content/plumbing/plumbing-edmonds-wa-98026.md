@@ -12,6 +12,7 @@ lng: -122.3500
 zipSample: ["98026", "98020"]
 zipCodes: ["98020", "98026"]
 localPaths: ["Snohomish County / ZIP 98026 sector", "Snohomish County / coords 47.8100, -122.3500", "Snohomish County / elevation 390 ft band", "Snohomish County / ZIP 98020 sector", "Snohomish County / primary ZIP 98026"]
+zillowHomeValueUsd: 872959
 ---
 
 **Engineering Notice for Edmonds:** Structural loading calculated based on 390 ft terrain assessment. Regional dispatch grid: Snohomish County.

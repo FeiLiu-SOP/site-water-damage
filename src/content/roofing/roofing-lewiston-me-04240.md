@@ -11,6 +11,7 @@ lng: -70.1700
 zipSample: ["04241", "04243", "04240"]
 zipCodes: ["04240", "04241", "04243"]
 localPaths: ["Androscoggin County / primary ZIP 04240", "Androscoggin County / ZIP 04243 sector", "Androscoggin County / coords 44.0900, -70.1700", "Androscoggin County / elevation 364 ft band", "Androscoggin County / ZIP 04241 sector"]
+zillowHomeValueUsd: 296142
 ---
 
 **Engineering Notice for Lewiston:** Structural loading calculated based on 364 ft terrain assessment. Regional dispatch grid: Androscoggin County.

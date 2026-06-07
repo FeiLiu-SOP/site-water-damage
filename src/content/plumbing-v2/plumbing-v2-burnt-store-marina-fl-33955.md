@@ -12,6 +12,7 @@ lng: -82.0500
 zipSample: ["33955"]
 zipCodes: ["33955"]
 localPaths: ["Lee County / primary ZIP 33955", "Lee County / coords 26.7600, -82.0500", "Lee County / ZIP 33955 sector", "Lee County / elevation 13 ft band"]
+zillowHomeValueUsd: 330605
 ---
 
 **Engineering Notice for Burnt Store Marina:** System optimized for 167 mg/L hard water scaling factors in Burnt Store Marina. Regional dispatch grid: Lee County.

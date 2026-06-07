@@ -11,6 +11,7 @@ lng: -120.6900
 zipSample: ["93422", "93423"]
 zipCodes: ["93423", "93422"]
 localPaths: ["San Luis Obispo County / ZIP 93423 sector", "San Luis Obispo County / primary ZIP 93422", "San Luis Obispo County / elevation 1083 ft band", "San Luis Obispo County / coords 35.4800, -120.6900", "San Luis Obispo County / ZIP 93422 sector"]
+zillowHomeValueUsd: 785565
 ---
 
 **Engineering Notice for Atascadero:** Structural loading calculated based on 1083 ft terrain assessment. Regional dispatch grid: San Luis Obispo County.

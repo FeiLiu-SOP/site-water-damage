@@ -12,6 +12,8 @@ lng: -109.0600
 zipSample: ["86515"]
 zipCodes: ["86515"]
 localPaths: ["Apache County / primary ZIP 86515", "Apache County / coords 35.6700, -109.0600", "Apache County / ZIP 86515 sector", "Apache County / elevation 6759 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 449006
 ---
 
 **Engineering Notice for Window Rock:** System optimized for 123 mg/L hard water scaling factors in Window Rock. Regional dispatch grid: Apache County.

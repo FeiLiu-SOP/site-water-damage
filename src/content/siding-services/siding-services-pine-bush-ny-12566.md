@@ -12,6 +12,7 @@ lng: -74.3000
 zipSample: ["12566"]
 zipCodes: ["12566"]
 localPaths: ["Orange County / elevation 397 ft band", "Orange County / ZIP 12566 sector", "Orange County / coords 41.6100, -74.3000", "Orange County / primary ZIP 12566"]
+zillowHomeValueUsd: 435871
 ---
 
 **Engineering Notice for Pine Bush:** Envelope check: Cladding Retrofit assigned to wind-load band A with stress factor 0.99. Elevation: 397 ft AMSL. Regional dispatch grid: Orange County.

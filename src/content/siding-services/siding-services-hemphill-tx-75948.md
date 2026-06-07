@@ -12,6 +12,7 @@ lng: -93.8500
 zipSample: ["75948"]
 zipCodes: ["75948"]
 localPaths: ["Sabine County / coords 31.3400, -93.8500", "Sabine County / primary ZIP 75948", "Sabine County / elevation 299 ft band", "Sabine County / ZIP 75948 sector"]
+zillowHomeValueUsd: 213096
 ---
 
 **Engineering Notice for Hemphill:** Vinyl Panels was validated under stress factor 0.83; target tolerance set near 135 mph. Coordinates: 31.3400, -93.8500. Grid anchor: Sabine County.

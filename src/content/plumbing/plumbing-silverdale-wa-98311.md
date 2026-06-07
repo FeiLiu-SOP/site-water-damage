@@ -12,6 +12,7 @@ lng: -122.6800
 zipSample: ["98370", "98311", "98383"]
 zipCodes: ["98383", "98370", "98311"]
 localPaths: ["Kitsap County / primary ZIP 98311", "Kitsap County / ZIP 98370 sector", "Kitsap County / elevation 39 ft band", "Kitsap County / ZIP 98383 sector", "Kitsap County / ZIP 98311 sector"]
+zillowHomeValueUsd: 510726
 ---
 
 **Engineering Notice for Silverdale:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Kitsap County.

@@ -11,6 +11,7 @@ lng: -76.9500
 zipSample: ["21104", "21784"]
 zipCodes: ["21784", "21104"]
 localPaths: ["Carroll County / ZIP 21104 sector", "Carroll County / ZIP 21784 sector", "Carroll County / coords 39.4000, -76.9500", "Carroll County / elevation 646 ft band", "Carroll County / primary ZIP 21784"]
+zillowHomeValueUsd: 559060
 ---
 
 **Engineering Notice for Eldersburg:** Structural loading calculated based on 646 ft terrain assessment. Regional dispatch grid: Carroll County.

@@ -12,6 +12,7 @@ lng: -74.7000
 zipSample: ["08243"]
 zipCodes: ["08243"]
 localPaths: ["Cape May County / ZIP 08243 sector", "Cape May County / primary ZIP 08243", "Cape May County / elevation 13 ft band", "Cape May County / coords 39.1500, -74.7000"]
+zillowHomeValueUsd: 1479135
 ---
 
 **Engineering Notice for Sea Isle City:** Cladding verification uses 101 mph routing baseline; lateral pressure note: 13.3 psf. Elevation: 13 ft AMSL. Coordinates: 39.1500, -74.7000. Grid: Cape May County.

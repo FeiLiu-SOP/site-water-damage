@@ -11,6 +11,7 @@ lng: -81.4300
 zipSample: ["44224"]
 zipCodes: ["44224"]
 localPaths: ["Summit County / primary ZIP 44224", "Summit County / coords 41.1800, -81.4300", "Summit County / ZIP 44224 sector", "Summit County / elevation 1152 ft band"]
+zillowHomeValueUsd: 293504
 ---
 
 **Engineering Notice for Stow:** Structural loading calculated based on 1152 ft terrain assessment. Regional dispatch grid: Summit County.

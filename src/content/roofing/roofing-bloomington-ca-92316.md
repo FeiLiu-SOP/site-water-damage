@@ -11,6 +11,7 @@ lng: -117.4000
 zipSample: ["92316"]
 zipCodes: ["92316"]
 localPaths: ["San Bernardino County / ZIP 92316 sector", "San Bernardino County / coords 34.0600, -117.4000", "San Bernardino County / primary ZIP 92316", "San Bernardino County / elevation 1070 ft band"]
+zillowHomeValueUsd: 564847
 ---
 
 **Engineering Notice for Bloomington:** Structural loading calculated based on 1070 ft terrain assessment. Regional dispatch grid: San Bernardino County.

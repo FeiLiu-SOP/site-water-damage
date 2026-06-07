@@ -12,6 +12,7 @@ lng: -83.8900
 zipSample: ["48457"]
 zipCodes: ["48457"]
 localPaths: ["Genesee County / primary ZIP 48457", "Genesee County / coords 43.1800, -83.8900", "Genesee County / elevation 673 ft band", "Genesee County / ZIP 48457 sector"]
+zillowHomeValueUsd: 206895
 ---
 
 **Engineering Notice for Montrose:** System optimized for 142 mg/L hard water scaling factors in Montrose. Regional dispatch grid: Genesee County.

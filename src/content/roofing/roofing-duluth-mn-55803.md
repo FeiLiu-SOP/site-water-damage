@@ -11,6 +11,7 @@ lng: -92.1400
 zipSample: ["55812", "55805", "55808", "55806", "55807"]
 zipCodes: ["55815", "55806", "55807", "55810", "55803", "55805", "55808", "55802", "55812", "55811", "55816", "55804"]
 localPaths: ["St. Louis County / ZIP 55806 sector", "St. Louis County / ZIP 55808 sector", "St. Louis County / ZIP 55807 sector", "St. Louis County / coords 46.7800, -92.1400", "St. Louis County / ZIP 55805 sector"]
+zillowHomeValueUsd: 341389
 ---
 
 **Engineering Notice for Duluth:** Structural loading calculated based on 1047 ft terrain assessment. Regional dispatch grid: St. Louis County.

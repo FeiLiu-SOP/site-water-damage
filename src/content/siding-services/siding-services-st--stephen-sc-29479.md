@@ -12,6 +12,7 @@ lng: -79.9300
 zipSample: ["29479"]
 zipCodes: ["29479"]
 localPaths: ["Berkeley County / coords 33.4000, -79.9300", "Berkeley County / primary ZIP 29479", "Berkeley County / ZIP 29479 sector", "Berkeley County / elevation 72 ft band"]
+zillowHomeValueUsd: 217160
 ---
 
 **Engineering Notice for St. Stephen:** Cladding verification uses 91 mph routing baseline; lateral pressure note: 12.1 psf. Elevation: 72 ft AMSL. Grid: Berkeley County.

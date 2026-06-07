@@ -11,6 +11,7 @@ lng: -112.3300
 zipSample: ["85335"]
 zipCodes: ["85335"]
 localPaths: ["Maricopa County / elevation 1106 ft band", "Maricopa County / primary ZIP 85335", "Maricopa County / coords 33.5900, -112.3300", "Maricopa County / ZIP 85335 sector"]
+zillowHomeValueUsd: 342483
 ---
 
 **Engineering Notice for El Mirage:** Structural loading calculated based on 1106 ft terrain assessment. Regional dispatch grid: Maricopa County.

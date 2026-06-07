@@ -12,6 +12,7 @@ lng: -83.7900
 zipSample: ["43569"]
 zipCodes: ["43569"]
 localPaths: ["Wood County / ZIP 43569 sector", "Wood County / elevation 682 ft band", "Wood County / coords 41.3500, -83.7900", "Wood County / primary ZIP 43569"]
+zillowHomeValueUsd: 163792
 ---
 
 **Engineering Notice for Weston:** System optimized for 153 mg/L hard water scaling factors in Weston. Regional dispatch grid: Wood County.

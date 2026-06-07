@@ -11,6 +11,7 @@ lng: -93.1700
 zipSample: ["55024"]
 zipCodes: ["55024"]
 localPaths: ["Dakota County / coords 44.6600, -93.1700", "Dakota County / ZIP 55024 sector", "Dakota County / elevation 909 ft band", "Dakota County / primary ZIP 55024"]
+zillowHomeValueUsd: 400287
 ---
 
 **Engineering Notice for Farmington:** Structural loading calculated based on 909 ft terrain assessment. Regional dispatch grid: Dakota County.

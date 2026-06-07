@@ -12,6 +12,7 @@ lng: -74.9700
 zipSample: ["08094"]
 zipCodes: ["08094"]
 localPaths: ["Gloucester County / ZIP 08094 sector", "Gloucester County / coords 39.6300, -74.9700", "Gloucester County / elevation 141 ft band", "Gloucester County / primary ZIP 08094"]
+zillowHomeValueUsd: 365834
 ---
 
 **Engineering Notice for Victory Lakes:** System optimized for 150 mg/L hard water scaling factors in Victory Lakes. Regional dispatch grid: Gloucester County.

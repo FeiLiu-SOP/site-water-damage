@@ -12,6 +12,7 @@ lng: -76.9900
 zipSample: ["17331"]
 zipCodes: ["17331"]
 localPaths: ["York County / coords 39.7900, -76.9900", "York County / elevation 577 ft band", "York County / ZIP 17331 sector", "York County / primary ZIP 17331"]
+zillowHomeValueUsd: 291911
 ---
 
 **Engineering Notice for Pennville:** Site context locked to York County. Elevation: 577 ft AMSL. Coordinates: 39.7900, -76.9900. Panel Replacement integrity verification recorded.

@@ -11,6 +11,7 @@ lng: -122.1700
 zipSample: ["98391"]
 zipCodes: ["98391"]
 localPaths: ["Pierce County / ZIP 98391 sector", "Pierce County / coords 47.1800, -122.1700", "Pierce County / primary ZIP 98391", "Pierce County / elevation 476 ft band"]
+zillowHomeValueUsd: 679317
 ---
 
 **Engineering Notice for Bonney Lake:** Structural loading calculated based on 476 ft terrain assessment. Regional dispatch grid: Pierce County.

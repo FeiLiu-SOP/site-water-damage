@@ -12,6 +12,7 @@ lng: -75.6600
 zipSample: ["27954"]
 zipCodes: ["27954"]
 localPaths: ["Dare County / ZIP 27954 sector", "Dare County / elevation 3 ft band", "Dare County / primary ZIP 27954", "Dare County / coords 35.9000, -75.6600"]
+zillowHomeValueUsd: 517263
 ---
 
 **Engineering Notice for Manteo:** Structural integrity verification: Exterior Envelope calibrated for 92 mph localized wind load factor. Regional dispatch grid: Dare County.

@@ -12,6 +12,7 @@ lng: -83.3100
 zipSample: ["48162"]
 zipCodes: ["48162"]
 localPaths: ["Monroe County / coords 41.9400, -83.3100", "Monroe County / primary ZIP 48162", "Monroe County / elevation 577 ft band", "Monroe County / ZIP 48162 sector"]
+zillowHomeValueUsd: 231487
 ---
 
 **Engineering Notice for Woodland Beach:** System optimized for 169 mg/L hard water scaling factors in Woodland Beach. Regional dispatch grid: Monroe County.

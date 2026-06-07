@@ -11,6 +11,7 @@ lng: -116.8900
 zipSample: ["92544"]
 zipCodes: ["92544"]
 localPaths: ["Riverside County / elevation 1873 ft band", "Riverside County / coords 33.7400, -116.8900", "Riverside County / primary ZIP 92544", "Riverside County / ZIP 92544 sector"]
+zillowHomeValueUsd: 459550
 ---
 
 **Engineering Notice for Valle Vista:** Structural loading calculated based on 1873 ft terrain assessment. Regional dispatch grid: Riverside County.

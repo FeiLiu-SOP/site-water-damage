@@ -12,6 +12,7 @@ lng: -76.1100
 zipSample: ["17572", "17529", "17534"]
 zipCodes: ["17534", "17529", "17572"]
 localPaths: ["Lancaster County / ZIP 17572 sector", "Lancaster County / elevation 440 ft band", "Lancaster County / coords 40.0400, -76.1100", "Lancaster County / ZIP 17529 sector", "Lancaster County / ZIP 17534 sector"]
+zillowHomeValueUsd: 495118
 ---
 
 **Engineering Notice for Intercourse:** System optimized for 120 mg/L hard water scaling factors in Intercourse. Regional dispatch grid: Lancaster County.

@@ -11,6 +11,7 @@ lng: -82.4600
 zipSample: ["28793", "28792", "28739", "28791"]
 zipCodes: ["28793", "28791", "28739", "28792"]
 localPaths: ["Henderson County / primary ZIP 28792", "Henderson County / ZIP 28791 sector", "Henderson County / coords 35.3200, -82.4600", "Henderson County / ZIP 28739 sector", "Henderson County / elevation 2103 ft band"]
+zillowHomeValueUsd: 370088
 ---
 
 **Engineering Notice for Hendersonville:** Structural loading calculated based on 2103 ft terrain assessment. Regional dispatch grid: Henderson County.

@@ -12,6 +12,7 @@ lng: -97.3000
 zipSample: ["76712"]
 zipCodes: ["76712"]
 localPaths: ["McLennan County / elevation 568 ft band", "McLennan County / ZIP 76712 sector", "McLennan County / primary ZIP 76712", "McLennan County / coords 31.5600, -97.3000"]
+zillowHomeValueUsd: 349632
 ---
 
 **Engineering Notice for Willow Grove:** Site context locked to McLennan County. Elevation: 568 ft AMSL. Exterior Cladding integrity verification recorded.

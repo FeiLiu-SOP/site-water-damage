@@ -11,6 +11,7 @@ lng: -81.0100
 zipSample: ["28236", "28012", "28120"]
 zipCodes: ["28012", "28120", "28236"]
 localPaths: ["Gaston County / coords 35.3100, -81.0100", "Gaston County / ZIP 28236 sector", "Gaston County / elevation 666 ft band", "Gaston County / ZIP 28012 sector", "Gaston County / ZIP 28120 sector"]
+zillowHomeValueUsd: 366801
 ---
 
 **Engineering Notice for Mount Holly:** Structural loading calculated based on 666 ft terrain assessment. Regional dispatch grid: Gaston County.

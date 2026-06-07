@@ -12,6 +12,7 @@ lng: -83.7300
 zipSample: ["48108", "48109", "48103", "48113", "48105"]
 zipCodes: ["48113", "48108", "48109", "48103", "48104", "48105"]
 localPaths: ["Washtenaw County / primary ZIP 48103", "Washtenaw County / ZIP 48113 sector", "Washtenaw County / ZIP 48103 sector", "Washtenaw County / ZIP 48105 sector", "Washtenaw County / ZIP 48109 sector"]
+zillowHomeValueUsd: 522041
 ---
 
 **Engineering Notice for Ann Arbor:** Structural loading calculated based on 889 ft terrain assessment. Regional dispatch grid: Washtenaw County.

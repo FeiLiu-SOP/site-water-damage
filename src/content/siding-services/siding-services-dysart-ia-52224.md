@@ -12,6 +12,7 @@ lng: -92.3100
 zipSample: ["52224"]
 zipCodes: ["52224"]
 localPaths: ["Tama County / ZIP 52224 sector", "Tama County / primary ZIP 52224", "Tama County / elevation 965 ft band", "Tama County / coords 42.1700, -92.3100"]
+zillowHomeValueUsd: 248267
 ---
 
 **Engineering Notice for Dysart:** Cladding Retrofit was validated under stress factor 0.77; target tolerance set near 91 mph. Coordinates: 42.1700, -92.3100. Grid anchor: Tama County.

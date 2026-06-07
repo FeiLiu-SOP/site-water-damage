@@ -11,6 +11,7 @@ lng: -120.4700
 zipSample: ["93438", "93436"]
 zipCodes: ["93436", "93438"]
 localPaths: ["Santa Barbara County / coords 34.6600, -120.4700", "Santa Barbara County / elevation 85 ft band", "Santa Barbara County / ZIP 93436 sector", "Santa Barbara County / ZIP 93438 sector", "Santa Barbara County / primary ZIP 93436"]
+zillowHomeValueUsd: 590089
 ---
 
 **Engineering Notice for Lompoc:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Santa Barbara County.

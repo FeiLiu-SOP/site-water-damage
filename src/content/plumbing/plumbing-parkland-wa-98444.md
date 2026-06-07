@@ -12,6 +12,7 @@ lng: -122.4400
 zipSample: ["98447", "98444", "98445"]
 zipCodes: ["98445", "98444", "98447"]
 localPaths: ["Pierce County / coords 47.1400, -122.4400", "Pierce County / ZIP 98444 sector", "Pierce County / ZIP 98447 sector", "Pierce County / primary ZIP 98444", "Pierce County / ZIP 98445 sector"]
+zillowHomeValueUsd: 447023
 ---
 
 **Engineering Notice for Parkland:** Structural loading calculated based on 292 ft terrain assessment. Regional dispatch grid: Pierce County.

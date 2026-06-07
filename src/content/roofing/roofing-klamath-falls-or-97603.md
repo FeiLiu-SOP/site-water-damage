@@ -11,6 +11,7 @@ lng: -121.7800
 zipSample: ["97603", "97601"]
 zipCodes: ["97603", "97601"]
 localPaths: ["Klamath County / coords 42.2200, -121.7800", "Klamath County / primary ZIP 97603", "Klamath County / ZIP 97601 sector", "Klamath County / ZIP 97603 sector", "Klamath County / elevation 4091 ft band"]
+zillowHomeValueUsd: 325601
 ---
 
 **Engineering Notice for Klamath Falls:** Structural loading calculated based on 4091 ft terrain assessment. Regional dispatch grid: Klamath County.

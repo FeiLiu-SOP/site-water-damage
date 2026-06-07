@@ -11,6 +11,7 @@ lng: -105.2100
 zipSample: ["80403", "80419", "80401"]
 zipCodes: ["80401", "80419", "80403"]
 localPaths: ["Jefferson County / primary ZIP 80401", "Jefferson County / ZIP 80419 sector", "Jefferson County / coords 39.7400, -105.2100", "Jefferson County / elevation 5797 ft band", "Jefferson County / ZIP 80401 sector"]
+zillowHomeValueUsd: 837777
 ---
 
 **Engineering Notice for Golden:** Structural loading calculated based on 5797 ft terrain assessment. Regional dispatch grid: Jefferson County.

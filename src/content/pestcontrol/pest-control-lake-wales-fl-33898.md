@@ -11,6 +11,7 @@ lng: -81.6000
 zipSample: ["33853", "33859", "33898"]
 zipCodes: ["33898", "33853", "33859"]
 localPaths: ["Polk County / primary ZIP 33898", "Polk County / ZIP 33859 sector", "Polk County / elevation 184 ft band", "Polk County / ZIP 33853 sector", "Polk County / ZIP 33898 sector"]
+zillowHomeValueUsd: 251350
 ---
 
 **Engineering Notice for Lake Wales:** Structural loading calculated based on 184 ft terrain assessment. Regional dispatch grid: Polk County.

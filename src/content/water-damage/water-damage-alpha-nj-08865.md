@@ -12,6 +12,7 @@ lng: -75.1600
 zipSample: ["08865"]
 zipCodes: ["08865"]
 localPaths: ["Warren County / ZIP 08865 sector", "Warren County / coords 40.6600, -75.1600", "Warren County / primary ZIP 08865", "Warren County / elevation 279 ft band"]
+zillowHomeValueUsd: 336594
 ---
 
 **Engineering Notice for Alpha:** structural drying capacity optimized for 279ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Warren County. Relative Humidity Threshold: 67%. Sensor sync: Active.

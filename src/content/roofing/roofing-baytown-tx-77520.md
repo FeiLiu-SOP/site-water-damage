@@ -11,6 +11,7 @@ lng: -94.9700
 zipSample: ["77523", "77521", "77522", "77520"]
 zipCodes: ["77520", "77523", "77522", "77521"]
 localPaths: ["Harris County / ZIP 77521 sector", "Harris County / primary ZIP 77520", "Harris County / ZIP 77523 sector", "Harris County / elevation 26 ft band", "Harris County / coords 29.7600, -94.9700"]
+zillowHomeValueUsd: 172972
 ---
 
 **Engineering Notice for Baytown:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Harris County.

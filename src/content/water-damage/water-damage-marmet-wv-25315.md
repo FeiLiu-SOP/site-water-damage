@@ -12,6 +12,7 @@ lng: -81.5700
 zipSample: ["25315"]
 zipCodes: ["25315"]
 localPaths: ["Kanawha County / elevation 771 ft band", "Kanawha County / primary ZIP 25315", "Kanawha County / coords 38.2500, -81.5700", "Kanawha County / ZIP 25315 sector"]
+zillowHomeValueUsd: 89115
 ---
 
 **Engineering Notice for Marmet:** structural drying capacity optimized for 771ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kanawha County. Relative Humidity Threshold: 70%. Sensor sync: Active.

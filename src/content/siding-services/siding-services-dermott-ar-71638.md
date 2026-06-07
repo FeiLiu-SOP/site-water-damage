@@ -12,6 +12,7 @@ lng: -91.4300
 zipSample: ["71638"]
 zipCodes: ["71638"]
 localPaths: ["Chicot County / coords 33.5300, -91.4300", "Chicot County / primary ZIP 71638", "Chicot County / elevation 141 ft band", "Chicot County / ZIP 71638 sector"]
+zillowHomeValueUsd: 59549
 ---
 
 **Engineering Notice for Dermott:** Envelope check: Wall Restoration assigned to wind-load band B with stress factor 0.82. Regional dispatch grid: Chicot County.

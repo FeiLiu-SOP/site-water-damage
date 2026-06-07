@@ -11,6 +11,7 @@ lng: -74.0700
 zipSample: ["07399", "07308", "07097", "07303", "07305"]
 zipCodes: ["07305", "07308", "07307", "07399", "07395", "07311", "07303", "07306", "07097", "07302", "07304", "07310"]
 localPaths: ["Hudson County / ZIP 07305 sector", "Hudson County / ZIP 07303 sector", "Hudson County / ZIP 07097 sector", "Hudson County / ZIP 07308 sector", "Hudson County / ZIP 07399 sector"]
+zillowHomeValueUsd: 928948
 ---
 
 **Engineering Notice for Jersey City:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Hudson County.

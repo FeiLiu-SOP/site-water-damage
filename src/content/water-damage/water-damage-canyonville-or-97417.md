@@ -12,6 +12,7 @@ lng: -123.2800
 zipSample: ["97417"]
 zipCodes: ["97417"]
 localPaths: ["Douglas County / elevation 745 ft band", "Douglas County / coords 42.9300, -123.2800", "Douglas County / primary ZIP 97417", "Douglas County / ZIP 97417 sector"]
+zillowHomeValueUsd: 264074
 ---
 
 **Engineering Notice for Canyonville:** structural drying capacity optimized for 745ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Douglas County. Relative Humidity Threshold: 67%. Sensor sync: Active.

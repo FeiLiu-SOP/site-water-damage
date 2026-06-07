@@ -12,6 +12,7 @@ lng: -80.0800
 zipSample: ["33407"]
 zipCodes: ["33407"]
 localPaths: ["Palm Beach County / primary ZIP 33407", "Palm Beach County / coords 26.7600, -80.0800", "Palm Beach County / ZIP 33407 sector", "Palm Beach County / elevation 33 ft band"]
+zillowHomeValueUsd: 347063
 ---
 
 **Engineering Notice for Mangonia Park:** System optimized for 178 mg/L hard water scaling factors in Mangonia Park. Regional dispatch grid: Palm Beach County.

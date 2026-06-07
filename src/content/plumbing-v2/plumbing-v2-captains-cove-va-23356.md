@@ -12,6 +12,7 @@ lng: -75.4200
 zipSample: ["23356"]
 zipCodes: ["23356"]
 localPaths: ["Accomack County / primary ZIP 23356", "Accomack County / coords 38.0000, -75.4200", "Accomack County / elevation 20 ft band", "Accomack County / ZIP 23356 sector"]
+zillowHomeValueUsd: 315832
 ---
 
 **Engineering Notice for Captains Cove:** System optimized for 174 mg/L hard water scaling factors in Captains Cove. Regional dispatch grid: Accomack County.

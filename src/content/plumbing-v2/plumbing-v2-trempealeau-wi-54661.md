@@ -12,6 +12,7 @@ lng: -91.4300
 zipSample: ["54661"]
 zipCodes: ["54661"]
 localPaths: ["Trempealeau County / elevation 676 ft band", "Trempealeau County / ZIP 54661 sector", "Trempealeau County / primary ZIP 54661", "Trempealeau County / coords 44.0000, -91.4300"]
+zillowHomeValueUsd: 345135
 ---
 
 **Engineering Notice for Trempealeau:** System optimized for 143 mg/L hard water scaling factors in Trempealeau. Regional dispatch grid: Trempealeau County.

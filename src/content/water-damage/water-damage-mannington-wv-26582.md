@@ -12,6 +12,7 @@ lng: -80.3400
 zipSample: ["26582"]
 zipCodes: ["26582"]
 localPaths: ["Marion County / elevation 1043 ft band", "Marion County / coords 39.5300, -80.3400", "Marion County / primary ZIP 26582", "Marion County / ZIP 26582 sector"]
+zillowHomeValueUsd: 120557
 ---
 
 **Engineering Notice for Mannington:** structural drying capacity optimized for 1043ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marion County. Relative Humidity Threshold: 65%. Sensor sync: Active.

@@ -11,6 +11,7 @@ lng: -83.1600
 zipSample: ["48192"]
 zipCodes: ["48192"]
 localPaths: ["Wayne County / ZIP 48192 sector", "Wayne County / coords 42.2100, -83.1600", "Wayne County / primary ZIP 48192", "Wayne County / elevation 577 ft band"]
+zillowHomeValueUsd: 186256
 ---
 
 **Engineering Notice for Wyandotte:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Wayne County.

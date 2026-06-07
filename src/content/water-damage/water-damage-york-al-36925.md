@@ -12,6 +12,7 @@ lng: -88.2900
 zipSample: ["36925"]
 zipCodes: ["36925"]
 localPaths: ["Sumter County / ZIP 36925 sector", "Sumter County / coords 32.5000, -88.2900", "Sumter County / elevation 233 ft band", "Sumter County / primary ZIP 36925"]
+zillowHomeValueUsd: 55906
 ---
 
 **Engineering Notice for York:** structural drying capacity optimized for 233ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sumter County. Relative Humidity Threshold: 79%. Sensor sync: Active.

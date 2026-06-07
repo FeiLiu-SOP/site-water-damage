@@ -12,6 +12,7 @@ lng: -85.1400
 zipSample: ["37379", "37343"]
 zipCodes: ["37379", "37343"]
 localPaths: ["Hamilton County / ZIP 37343 sector", "Hamilton County / ZIP 37379 sector", "Hamilton County / primary ZIP 37343", "Hamilton County / elevation 748 ft band", "Hamilton County / coords 35.2000, -85.1400"]
+zillowHomeValueUsd: 365358
 ---
 
 **Engineering Notice for Lakesite:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 0.80. Elevation: 748 ft AMSL. Regional dispatch grid: Hamilton County.

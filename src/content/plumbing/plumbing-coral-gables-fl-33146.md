@@ -12,6 +12,7 @@ lng: -80.2700
 zipSample: ["33143", "33158", "33206", "33146", "33114"]
 zipCodes: ["33206", "33234", "33146", "33134", "33114", "33158", "33143", "33156"]
 localPaths: ["Miami-Dade County / ZIP 33158 sector", "Miami-Dade County / ZIP 33114 sector", "Miami-Dade County / ZIP 33143 sector", "Miami-Dade County / coords 25.7000, -80.2700", "Miami-Dade County / elevation 43 ft band"]
+zillowHomeValueUsd: 1867152
 ---
 
 **Engineering Notice for Coral Gables:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

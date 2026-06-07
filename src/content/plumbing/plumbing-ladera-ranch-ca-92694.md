@@ -12,6 +12,7 @@ lng: -117.6400
 zipSample: ["92694"]
 zipCodes: ["92694"]
 localPaths: ["Orange County / elevation 512 ft band", "Orange County / ZIP 92694 sector", "Orange County / primary ZIP 92694", "Orange County / coords 33.5500, -117.6400"]
+zillowHomeValueUsd: 1275276
 ---
 
 **Engineering Notice for Ladera Ranch:** Structural loading calculated based on 512 ft terrain assessment. Regional dispatch grid: Orange County.

@@ -11,6 +11,7 @@ lng: -74.4200
 zipSample: ["07062", "07060", "07061", "07063"]
 zipCodes: ["07063", "07061", "07062", "07060"]
 localPaths: ["Union County / ZIP 07060 sector", "Union County / elevation 112 ft band", "Union County / coords 40.6200, -74.4200", "Union County / ZIP 07063 sector", "Union County / primary ZIP 07062"]
+zillowHomeValueUsd: 498064
 ---
 
 **Engineering Notice for Plainfield:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Union County.

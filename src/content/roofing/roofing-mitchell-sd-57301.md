@@ -11,6 +11,7 @@ lng: -98.0300
 zipSample: ["57301"]
 zipCodes: ["57301"]
 localPaths: ["Davison County / ZIP 57301 sector", "Davison County / primary ZIP 57301", "Davison County / elevation 1289 ft band", "Davison County / coords 43.7300, -98.0300"]
+zillowHomeValueUsd: 247470
 ---
 
 **Engineering Notice for Mitchell:** Structural loading calculated based on 1289 ft terrain assessment. Regional dispatch grid: Davison County.

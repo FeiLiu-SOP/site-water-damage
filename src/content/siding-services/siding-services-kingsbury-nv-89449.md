@@ -12,6 +12,7 @@ lng: -119.8800
 zipSample: ["89449", "89411"]
 zipCodes: ["89411", "89449"]
 localPaths: ["Douglas County / ZIP 89411 sector", "Douglas County / elevation 8005 ft band", "Douglas County / coords 38.9900, -119.8800", "Douglas County / ZIP 89449 sector", "Douglas County / primary ZIP 89449"]
+zillowHomeValueUsd: 763621
 ---
 
 **Engineering Notice for Kingsbury:** Cladding verification uses 90 mph routing baseline; lateral pressure note: 12.0 psf. Elevation: 8005 ft AMSL. Coordinates: 38.9900, -119.8800. Grid: Douglas County.

@@ -12,6 +12,7 @@ lng: -122.1900
 zipSample: ["98012"]
 zipCodes: ["98012"]
 localPaths: ["Snohomish County / ZIP 98012 sector", "Snohomish County / coords 47.8400, -122.1900", "Snohomish County / primary ZIP 98012", "Snohomish County / elevation 384 ft band"]
+zillowHomeValueUsd: 999100
 ---
 
 **Engineering Notice for Mill Creek East:** Structural loading calculated based on 384 ft terrain assessment. Regional dispatch grid: Snohomish County.

@@ -12,6 +12,7 @@ lng: -80.0800
 zipSample: ["29709"]
 zipCodes: ["29709"]
 localPaths: ["Chesterfield County / ZIP 29709 sector", "Chesterfield County / coords 34.7300, -80.0800", "Chesterfield County / primary ZIP 29709", "Chesterfield County / elevation 285 ft band"]
+zillowHomeValueUsd: 177735
 ---
 
 **Engineering Notice for Chesterfield:** structural drying capacity optimized for 285ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chesterfield County. Relative Humidity Threshold: 72%. Sensor sync: Active.

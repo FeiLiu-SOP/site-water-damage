@@ -12,6 +12,7 @@ lng: -118.3800
 zipSample: ["99169"]
 zipCodes: ["99169"]
 localPaths: ["Adams County / ZIP 99169 sector", "Adams County / coords 47.1300, -118.3800", "Adams County / primary ZIP 99169", "Adams County / elevation 1808 ft band"]
+zillowHomeValueUsd: 239030
 ---
 
 **Engineering Notice for Ritzville:** Structural integrity verification: Wall Restoration calibrated for 97 mph localized wind load factor. Elevation: 1808 ft AMSL. Coordinates: 47.1300, -118.3800. Regional dispatch grid: Adams County.

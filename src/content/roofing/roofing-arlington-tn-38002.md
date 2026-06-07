@@ -11,6 +11,7 @@ lng: -89.6700
 zipSample: ["38028", "38002"]
 zipCodes: ["38028", "38002"]
 localPaths: ["Shelby County / primary ZIP 38002", "Shelby County / elevation 302 ft band", "Shelby County / coords 35.2600, -89.6700", "Shelby County / ZIP 38002 sector", "Shelby County / ZIP 38028 sector"]
+zillowHomeValueUsd: 407849
 ---
 
 **Engineering Notice for Arlington:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Shelby County.

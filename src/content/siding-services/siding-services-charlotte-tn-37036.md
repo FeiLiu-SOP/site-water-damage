@@ -12,6 +12,7 @@ lng: -87.3400
 zipSample: ["37036"]
 zipCodes: ["37036"]
 localPaths: ["Dickson County / ZIP 37036 sector", "Dickson County / elevation 669 ft band", "Dickson County / primary ZIP 37036", "Dickson County / coords 36.1900, -87.3400"]
+zillowHomeValueUsd: 345302
 ---
 
 **Engineering Notice for Charlotte:** Structural integrity verification: Cladding Service calibrated for 97 mph localized wind load factor. Coordinates: 36.1900, -87.3400. Regional dispatch grid: Dickson County.

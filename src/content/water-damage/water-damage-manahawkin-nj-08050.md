@@ -12,6 +12,7 @@ lng: -74.2500
 zipSample: ["08050"]
 zipCodes: ["08050"]
 localPaths: ["Ocean County / primary ZIP 08050", "Ocean County / ZIP 08050 sector", "Ocean County / elevation 39 ft band", "Ocean County / coords 39.6900, -74.2500"]
+zillowHomeValueUsd: 583816
 ---
 
 **Engineering Notice for Manahawkin:** structural drying capacity optimized for 39ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ocean County. Relative Humidity Threshold: 83%. Sensor sync: Active.

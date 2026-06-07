@@ -12,6 +12,7 @@ lng: -81.7400
 zipSample: ["33905"]
 zipCodes: ["33905"]
 localPaths: ["Lee County / coords 26.7000, -81.7400", "Lee County / ZIP 33905 sector", "Lee County / primary ZIP 33905", "Lee County / elevation 36 ft band"]
+zillowHomeValueUsd: 284506
 ---
 
 **Engineering Notice for Verandah:** Site context locked to Lee County. Coordinates: 26.7000, -81.7400. Panel Replacement integrity verification recorded.

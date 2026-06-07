@@ -12,6 +12,8 @@ lng: -65.6400
 zipSample: ["00738"]
 zipCodes: ["00738"]
 localPaths: ["Fajardo County / coords 18.3000, -65.6400", "Fajardo County / ZIP 00738 sector", "Fajardo County / primary ZIP 00738", "Fajardo County / elevation 98 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 374774
 ---
 
 **Engineering Notice for Luis M. Cintrón:** structural drying capacity optimized for 98ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fajardo County. Relative Humidity Threshold: 80%. Sensor sync: Active.

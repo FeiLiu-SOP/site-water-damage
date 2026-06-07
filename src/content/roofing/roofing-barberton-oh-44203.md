@@ -11,6 +11,7 @@ lng: -81.6000
 zipSample: ["44203"]
 zipCodes: ["44203"]
 localPaths: ["Summit County / coords 41.0100, -81.6000", "Summit County / ZIP 44203 sector", "Summit County / primary ZIP 44203", "Summit County / elevation 955 ft band"]
+zillowHomeValueUsd: 179057
 ---
 
 **Engineering Notice for Barberton:** Structural loading calculated based on 955 ft terrain assessment. Regional dispatch grid: Summit County.

@@ -12,6 +12,7 @@ lng: -82.6000
 zipSample: ["44846"]
 zipCodes: ["44846"]
 localPaths: ["Erie County / primary ZIP 44846", "Erie County / coords 41.2900, -82.6000", "Erie County / ZIP 44846 sector", "Erie County / elevation 676 ft band"]
+zillowHomeValueUsd: 280118
 ---
 
 **Engineering Notice for Milan:** System optimized for 159 mg/L hard water scaling factors in Milan. Regional dispatch grid: Erie County.

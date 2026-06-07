@@ -12,6 +12,7 @@ lng: -84.1400
 zipSample: ["45806", "45895"]
 zipCodes: ["45895", "45806"]
 localPaths: ["Auglaize County / ZIP 45806 sector", "Auglaize County / primary ZIP 45806", "Auglaize County / elevation 886 ft band", "Auglaize County / ZIP 45895 sector", "Auglaize County / coords 40.6500, -84.1400"]
+zillowHomeValueUsd: 230533
 ---
 
 **Engineering Notice for Cridersville:** Facade Renewal was validated under stress factor 0.70; target tolerance set near 96 mph. Grid anchor: Auglaize County.

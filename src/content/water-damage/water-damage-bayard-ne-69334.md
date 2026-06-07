@@ -12,6 +12,7 @@ lng: -103.3200
 zipSample: ["69334"]
 zipCodes: ["69334"]
 localPaths: ["Morrill County / primary ZIP 69334", "Morrill County / ZIP 69334 sector", "Morrill County / elevation 3770 ft band", "Morrill County / coords 41.7600, -103.3200"]
+zillowHomeValueUsd: 154232
 ---
 
 **Engineering Notice for Bayard:** structural drying capacity optimized for 3770ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Morrill County. Relative Humidity Threshold: 72%. Sensor sync: Active.

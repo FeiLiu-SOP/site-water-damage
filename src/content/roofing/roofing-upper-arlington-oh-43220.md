@@ -11,6 +11,7 @@ lng: -83.0700
 zipSample: ["43220", "43221", "43212"]
 zipCodes: ["43220", "43221", "43212"]
 localPaths: ["Franklin County / coords 40.0300, -83.0700", "Franklin County / ZIP 43221 sector", "Franklin County / ZIP 43220 sector", "Franklin County / primary ZIP 43220", "Franklin County / ZIP 43212 sector"]
+zillowHomeValueUsd: 364504
 ---
 
 **Engineering Notice for Upper Arlington:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Franklin County.

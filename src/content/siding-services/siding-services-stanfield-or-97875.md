@@ -12,6 +12,7 @@ lng: -119.2200
 zipSample: ["97875"]
 zipCodes: ["97875"]
 localPaths: ["Umatilla County / ZIP 97875 sector", "Umatilla County / primary ZIP 97875", "Umatilla County / elevation 604 ft band", "Umatilla County / coords 45.7800, -119.2200"]
+zillowHomeValueUsd: 284925
 ---
 
 **Engineering Notice for Stanfield:** Envelope check: Panel Replacement assigned to wind-load band B with stress factor 0.93. Regional dispatch grid: Umatilla County.

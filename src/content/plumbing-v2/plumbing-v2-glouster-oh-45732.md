@@ -12,6 +12,7 @@ lng: -82.0800
 zipSample: ["45732"]
 zipCodes: ["45732"]
 localPaths: ["Athens County / primary ZIP 45732", "Athens County / elevation 692 ft band", "Athens County / ZIP 45732 sector", "Athens County / coords 39.5000, -82.0800"]
+zillowHomeValueUsd: 105468
 ---
 
 **Engineering Notice for Glouster:** System optimized for 148 mg/L hard water scaling factors in Glouster. Regional dispatch grid: Athens County.

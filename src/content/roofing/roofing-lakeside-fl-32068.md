@@ -11,6 +11,7 @@ lng: -81.7700
 zipSample: ["32065", "32068", "32073", "32030"]
 zipCodes: ["32068", "32073", "32030", "32065"]
 localPaths: ["Clay County / ZIP 32068 sector", "Clay County / ZIP 32065 sector", "Clay County / coords 30.1400, -81.7700", "Clay County / primary ZIP 32068", "Clay County / ZIP 32030 sector"]
+zillowHomeValueUsd: 325241
 ---
 
 **Engineering Notice for Lakeside:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Clay County.

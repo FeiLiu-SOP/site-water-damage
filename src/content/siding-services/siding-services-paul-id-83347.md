@@ -12,6 +12,7 @@ lng: -113.7800
 zipSample: ["83347"]
 zipCodes: ["83347"]
 localPaths: ["Minidoka County / coords 42.6100, -113.7800", "Minidoka County / elevation 4150 ft band", "Minidoka County / primary ZIP 83347", "Minidoka County / ZIP 83347 sector"]
+zillowHomeValueUsd: 347070
 ---
 
 **Engineering Notice for Paul:** Exterior Envelope was validated under stress factor 0.92; target tolerance set near 100 mph. Coordinates: 42.6100, -113.7800. Grid anchor: Minidoka County.

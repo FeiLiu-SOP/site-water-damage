@@ -11,6 +11,7 @@ lng: -122.3000
 zipSample: ["94002"]
 zipCodes: ["94002"]
 localPaths: ["San Mateo County / coords 37.5200, -122.3000", "San Mateo County / elevation 226 ft band", "San Mateo County / ZIP 94002 sector", "San Mateo County / primary ZIP 94002"]
+zillowHomeValueUsd: 2339018
 ---
 
 **Engineering Notice for Belmont:** Structural loading calculated based on 226 ft terrain assessment. Regional dispatch grid: San Mateo County.

@@ -12,6 +12,7 @@ lng: -91.9600
 zipSample: ["65793"]
 zipCodes: ["65793"]
 localPaths: ["Howell County / coords 36.9900, -91.9600", "Howell County / elevation 1227 ft band", "Howell County / ZIP 65793 sector", "Howell County / primary ZIP 65793"]
+zillowHomeValueUsd: 197885
 ---
 
 **Engineering Notice for Willow Springs:** System optimized for 143 mg/L hard water scaling factors in Willow Springs. Regional dispatch grid: Howell County.

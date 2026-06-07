@@ -12,6 +12,7 @@ lng: -73.7300
 zipSample: ["11001"]
 zipCodes: ["11001"]
 localPaths: ["Nassau County / primary ZIP 11001", "Nassau County / coords 40.7200, -73.7300", "Nassau County / ZIP 11001 sector", "Nassau County / elevation 89 ft band"]
+zillowHomeValueUsd: 850880
 ---
 
 **Engineering Notice for Bellerose Terrace:** Cladding Retrofit was validated under stress factor 1.06; target tolerance set near 110 mph. Grid anchor: Nassau County.

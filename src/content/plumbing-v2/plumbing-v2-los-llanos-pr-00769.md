@@ -12,6 +12,8 @@ lng: -66.4100
 zipSample: ["00769"]
 zipCodes: ["00769"]
 localPaths: ["Coamo County / coords 18.0600, -66.4100", "Coamo County / primary ZIP 00769", "Coamo County / elevation 482 ft band", "Coamo County / ZIP 00769 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 354735
 ---
 
 **Engineering Notice for Los Llanos:** System optimized for 129 mg/L hard water scaling factors in Los Llanos. Regional dispatch grid: Coamo County.

@@ -12,6 +12,7 @@ lng: -90.7700
 zipSample: ["38773"]
 zipCodes: ["38773"]
 localPaths: ["Bolivar County / primary ZIP 38773", "Bolivar County / ZIP 38773 sector", "Bolivar County / coords 33.6000, -90.7700", "Bolivar County / elevation 148 ft band"]
+zillowHomeValueUsd: 102187
 ---
 
 **Engineering Notice for Shaw:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Grid: Bolivar County.

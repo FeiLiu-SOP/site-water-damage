@@ -11,6 +11,7 @@ lng: -105.6100
 zipSample: ["82072", "82070"]
 zipCodes: ["82072", "82070"]
 localPaths: ["Albany County / elevation 7149 ft band", "Albany County / ZIP 82070 sector", "Albany County / ZIP 82072 sector", "Albany County / primary ZIP 82072", "Albany County / coords 41.3100, -105.6100"]
+zillowHomeValueUsd: 363864
 ---
 
 **Engineering Notice for Laramie:** Structural loading calculated based on 7149 ft terrain assessment. Regional dispatch grid: Albany County.

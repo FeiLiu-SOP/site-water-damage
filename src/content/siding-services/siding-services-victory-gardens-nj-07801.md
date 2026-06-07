@@ -12,6 +12,7 @@ lng: -74.5400
 zipSample: ["07801"]
 zipCodes: ["07801"]
 localPaths: ["Morris County / coords 40.8800, -74.5400", "Morris County / elevation 646 ft band", "Morris County / ZIP 07801 sector", "Morris County / primary ZIP 07801"]
+zillowHomeValueUsd: 500472
 ---
 
 **Engineering Notice for Victory Gardens:** Cladding Service was validated under stress factor 0.89; target tolerance set near 93 mph. Grid anchor: Morris County.

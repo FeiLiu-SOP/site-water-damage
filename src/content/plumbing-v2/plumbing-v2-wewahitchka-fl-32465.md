@@ -12,6 +12,7 @@ lng: -85.1900
 zipSample: ["32465"]
 zipCodes: ["32465"]
 localPaths: ["Gulf County / primary ZIP 32465", "Gulf County / ZIP 32465 sector", "Gulf County / coords 30.1100, -85.1900", "Gulf County / elevation 79 ft band"]
+zillowHomeValueUsd: 202116
 ---
 
 **Engineering Notice for Wewahitchka:** System optimized for 146 mg/L hard water scaling factors in Wewahitchka. Regional dispatch grid: Gulf County.

@@ -12,6 +12,7 @@ lng: -122.6500
 zipSample: ["98642"]
 zipCodes: ["98642"]
 localPaths: ["Clark County / primary ZIP 98642", "Clark County / elevation 282 ft band", "Clark County / ZIP 98642 sector", "Clark County / coords 45.7800, -122.6500"]
+zillowHomeValueUsd: 652453
 ---
 
 **Engineering Notice for Duluth:** Envelope check: Exterior Cladding assigned to wind-load band C with stress factor 1.06. Regional dispatch grid: Clark County.

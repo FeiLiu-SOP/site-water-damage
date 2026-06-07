@@ -11,6 +11,7 @@ lng: -88.1500
 zipSample: ["60169", "60192", "60120", "60159", "60094"]
 zipCodes: ["60159", "60192", "60094", "60169", "60120"]
 localPaths: ["Cook County / ZIP 60169 sector", "Cook County / ZIP 60094 sector", "Cook County / elevation 817 ft band", "Cook County / ZIP 60159 sector", "Cook County / primary ZIP 60192"]
+zillowHomeValueUsd: 490578
 ---
 
 **Engineering Notice for Hoffman Estates:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Cook County.

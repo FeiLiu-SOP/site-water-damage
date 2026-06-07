@@ -12,6 +12,7 @@ lng: -74.4700
 zipSample: ["08831"]
 zipCodes: ["08831"]
 localPaths: ["Middlesex County / elevation 121 ft band", "Middlesex County / coords 40.2900, -74.4700", "Middlesex County / ZIP 08831 sector", "Middlesex County / primary ZIP 08831"]
+zillowHomeValueUsd: 602347
 ---
 
 **Engineering Notice for Stonebridge:** System optimized for 127 mg/L hard water scaling factors in Stonebridge. Regional dispatch grid: Middlesex County.

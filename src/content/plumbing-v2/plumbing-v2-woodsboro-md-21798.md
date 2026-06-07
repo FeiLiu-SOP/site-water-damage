@@ -12,6 +12,7 @@ lng: -77.3100
 zipSample: ["21798"]
 zipCodes: ["21798"]
 localPaths: ["Frederick County / primary ZIP 21798", "Frederick County / elevation 335 ft band", "Frederick County / coords 39.5300, -77.3100", "Frederick County / ZIP 21798 sector"]
+zillowHomeValueUsd: 504793
 ---
 
 **Engineering Notice for Woodsboro:** System optimized for 152 mg/L hard water scaling factors in Woodsboro. Regional dispatch grid: Frederick County.

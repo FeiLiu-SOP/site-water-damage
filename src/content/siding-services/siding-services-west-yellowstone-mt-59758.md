@@ -12,6 +12,7 @@ lng: -111.1100
 zipSample: ["59758"]
 zipCodes: ["59758"]
 localPaths: ["Gallatin County / primary ZIP 59758", "Gallatin County / elevation 6670 ft band", "Gallatin County / ZIP 59758 sector", "Gallatin County / coords 44.6600, -111.1100"]
+zillowHomeValueUsd: 638951
 ---
 
 **Engineering Notice for West Yellowstone:** Structural integrity verification: Facade Renewal calibrated for 97 mph localized wind load factor. Elevation: 6670 ft AMSL. Coordinates: 44.6600, -111.1100. Regional dispatch grid: Gallatin County.

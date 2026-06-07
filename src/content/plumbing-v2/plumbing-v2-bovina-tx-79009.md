@@ -12,6 +12,8 @@ lng: -102.8800
 zipSample: ["79009"]
 zipCodes: ["79009"]
 localPaths: ["Parmer County / coords 34.5200, -102.8800", "Parmer County / elevation 4075 ft band", "Parmer County / primary ZIP 79009", "Parmer County / ZIP 79009 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 292908
 ---
 
 **Engineering Notice for Bovina:** System optimized for 130 mg/L hard water scaling factors in Bovina. Regional dispatch grid: Parmer County.

@@ -12,6 +12,7 @@ lng: -101.3800
 zipSample: ["79357"]
 zipCodes: ["79357"]
 localPaths: ["Crosby County / primary ZIP 79357", "Crosby County / elevation 3110 ft band", "Crosby County / coords 33.6800, -101.3800", "Crosby County / ZIP 79357 sector"]
+zillowHomeValueUsd: 85299
 ---
 
 **Engineering Notice for Ralls:** Cladding verification uses 137 mph routing baseline; lateral pressure note: 17.6 psf. Grid: Crosby County.

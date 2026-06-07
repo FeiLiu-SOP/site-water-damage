@@ -12,6 +12,7 @@ lng: -93.9400
 zipSample: ["50003", "50261"]
 zipCodes: ["50261", "50003"]
 localPaths: ["Dallas County / elevation 997 ft band", "Dallas County / primary ZIP 50261", "Dallas County / ZIP 50261 sector", "Dallas County / ZIP 50003 sector", "Dallas County / coords 41.5200, -93.9400"]
+zillowHomeValueUsd: 406045
 ---
 
 **Engineering Notice for Van Meter:** Envelope check: Wall Restoration assigned to wind-load band A with stress factor 0.72. Elevation: 997 ft AMSL. Regional dispatch grid: Dallas County.

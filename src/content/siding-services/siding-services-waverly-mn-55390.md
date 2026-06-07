@@ -12,6 +12,7 @@ lng: -93.9700
 zipSample: ["55390"]
 zipCodes: ["55390"]
 localPaths: ["Wright County / primary ZIP 55390", "Wright County / elevation 1010 ft band", "Wright County / ZIP 55390 sector", "Wright County / coords 45.0600, -93.9700"]
+zillowHomeValueUsd: 348834
 ---
 
 **Engineering Notice for Waverly:** Exterior Cladding was validated under stress factor 0.79; target tolerance set near 109 mph. Coordinates: 45.0600, -93.9700. Grid anchor: Wright County.

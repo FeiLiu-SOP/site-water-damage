@@ -11,6 +11,7 @@ lng: -122.1000
 zipSample: ["98042"]
 zipCodes: ["98042"]
 localPaths: ["King County / elevation 390 ft band", "King County / coords 47.3700, -122.1000", "King County / ZIP 98042 sector", "King County / primary ZIP 98042"]
+zillowHomeValueUsd: 710171
 ---
 
 **Engineering Notice for Covington:** Structural loading calculated based on 390 ft terrain assessment. Regional dispatch grid: King County.

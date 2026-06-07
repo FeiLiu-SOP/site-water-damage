@@ -11,6 +11,8 @@ lng: -66.1100
 zipSample: ["00784", "00785"]
 zipCodes: ["00785", "00784"]
 localPaths: ["Guayama County / coords 17.9700, -66.1100", "Guayama County / primary ZIP 00784", "Guayama County / ZIP 00784 sector", "Guayama County / ZIP 00785 sector", "Guayama County / elevation 112 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 378292
 ---
 
 **Engineering Notice for Guayama:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Guayama County.

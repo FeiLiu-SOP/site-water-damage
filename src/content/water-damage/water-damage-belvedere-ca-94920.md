@@ -12,6 +12,7 @@ lng: -122.4700
 zipSample: ["94920"]
 zipCodes: ["94920"]
 localPaths: ["Marin County / primary ZIP 94920", "Marin County / coords 37.8700, -122.4700", "Marin County / elevation 66 ft band", "Marin County / ZIP 94920 sector"]
+zillowHomeValueUsd: 3265549
 ---
 
 **Engineering Notice for Belvedere:** structural drying capacity optimized for 66ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marin County. Relative Humidity Threshold: 73%. Sensor sync: Active.

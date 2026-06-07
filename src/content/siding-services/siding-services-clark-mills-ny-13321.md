@@ -12,6 +12,7 @@ lng: -75.3800
 zipSample: ["13321", "13323", "13492"]
 zipCodes: ["13323", "13492", "13321"]
 localPaths: ["Oneida County / ZIP 13492 sector", "Oneida County / ZIP 13321 sector", "Oneida County / elevation 535 ft band", "Oneida County / coords 43.0900, -75.3800", "Oneida County / ZIP 13323 sector"]
+zillowHomeValueUsd: 190793
 ---
 
 **Engineering Notice for Clark Mills:** Site context locked to Oneida County. Elevation: 535 ft AMSL. Vinyl Panels integrity verification recorded.

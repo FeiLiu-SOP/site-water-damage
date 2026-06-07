@@ -12,6 +12,7 @@ lng: -95.4700
 zipSample: ["77545", "77583"]
 zipCodes: ["77545", "77583"]
 localPaths: ["Fort Bend County / primary ZIP 77545", "Fort Bend County / ZIP 77545 sector", "Fort Bend County / coords 29.5000, -95.4700", "Fort Bend County / ZIP 77583 sector", "Fort Bend County / elevation 69 ft band"]
+zillowHomeValueUsd: 280343
 ---
 
 **Engineering Notice for Arcola:** Facade Renewal was validated under stress factor 1.21; target tolerance set near 145 mph. Grid anchor: Fort Bend County.

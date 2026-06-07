@@ -12,6 +12,7 @@ lng: -74.7700
 zipSample: ["13329"]
 zipCodes: ["13329"]
 localPaths: ["Herkimer County / elevation 801 ft band", "Herkimer County / coords 43.1000, -74.7700", "Herkimer County / ZIP 13329 sector", "Herkimer County / primary ZIP 13329"]
+zillowHomeValueUsd: 143895
 ---
 
 **Engineering Notice for Dolgeville:** System optimized for 120 mg/L hard water scaling factors in Dolgeville. Regional dispatch grid: Herkimer County.

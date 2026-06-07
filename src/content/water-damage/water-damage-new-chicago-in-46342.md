@@ -12,6 +12,7 @@ lng: -87.2700
 zipSample: ["46405", "46342"]
 zipCodes: ["46405", "46342"]
 localPaths: ["Lake County / ZIP 46342 sector", "Lake County / ZIP 46405 sector", "Lake County / primary ZIP 46342", "Lake County / coords 41.5600, -87.2700", "Lake County / elevation 643 ft band"]
+zillowHomeValueUsd: 234748
 ---
 
 **Engineering Notice for New Chicago:** structural drying capacity optimized for 643ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lake County. Relative Humidity Threshold: 71%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -100.4100
 zipSample: ["78832"]
 zipCodes: ["78832"]
 localPaths: ["Kinney County / ZIP 78832 sector", "Kinney County / elevation 1142 ft band", "Kinney County / coords 29.3200, -100.4100", "Kinney County / primary ZIP 78832"]
+zillowHomeValueUsd: 123299
 ---
 
 **Engineering Notice for Brackettville:** Facade Renewal was validated under stress factor 0.93; target tolerance set near 143 mph. Coordinates: 29.3200, -100.4100. Grid anchor: Kinney County.

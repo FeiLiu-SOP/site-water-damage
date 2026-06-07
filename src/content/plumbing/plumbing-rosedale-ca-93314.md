@@ -12,6 +12,7 @@ lng: -119.2100
 zipSample: ["93314"]
 zipCodes: ["93314"]
 localPaths: ["Kern County / coords 35.3900, -119.2100", "Kern County / elevation 354 ft band", "Kern County / ZIP 93314 sector", "Kern County / primary ZIP 93314"]
+zillowHomeValueUsd: 574311
 ---
 
 **Engineering Notice for Rosedale:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Kern County.

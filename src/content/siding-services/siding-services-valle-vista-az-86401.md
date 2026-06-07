@@ -12,6 +12,7 @@ lng: -113.8600
 zipSample: ["86401"]
 zipCodes: ["86401"]
 localPaths: ["Mohave County / primary ZIP 86401", "Mohave County / ZIP 86401 sector", "Mohave County / coords 35.4100, -113.8600", "Mohave County / elevation 3179 ft band"]
+zillowHomeValueUsd: 287694
 ---
 
 **Engineering Notice for Valle Vista:** Envelope check: Exterior Envelope assigned to wind-load band A with stress factor 1.04. Regional dispatch grid: Mohave County.

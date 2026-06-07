@@ -12,6 +12,7 @@ lng: -83.8300
 zipSample: ["45167"]
 zipCodes: ["45167"]
 localPaths: ["Brown County / elevation 525 ft band", "Brown County / ZIP 45167 sector", "Brown County / coords 38.7300, -83.8300", "Brown County / primary ZIP 45167"]
+zillowHomeValueUsd: 184323
 ---
 
 **Engineering Notice for Ripley:** Site context locked to Brown County. Panel Replacement integrity verification recorded.

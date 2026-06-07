@@ -12,6 +12,7 @@ lng: -122.6100
 zipSample: ["98310"]
 zipCodes: ["98310"]
 localPaths: ["Kitsap County / ZIP 98310 sector", "Kitsap County / primary ZIP 98310", "Kitsap County / coords 47.5900, -122.6100", "Kitsap County / elevation 308 ft band"]
+zillowHomeValueUsd: 460145
 ---
 
 **Engineering Notice for Enetai:** Site context locked to Kitsap County. Elevation: 308 ft AMSL. Coordinates: 47.5900, -122.6100. Exterior Cladding integrity verification recorded.

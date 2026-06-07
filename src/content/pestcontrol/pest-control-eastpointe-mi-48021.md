@@ -11,6 +11,7 @@ lng: -82.9500
 zipSample: ["48021"]
 zipCodes: ["48021"]
 localPaths: ["Macomb County / ZIP 48021 sector", "Macomb County / primary ZIP 48021", "Macomb County / elevation 607 ft band", "Macomb County / coords 42.4700, -82.9500"]
+zillowHomeValueUsd: 150818
 ---
 
 **Engineering Notice for Eastpointe:** Structural loading calculated based on 607 ft terrain assessment. Regional dispatch grid: Macomb County.

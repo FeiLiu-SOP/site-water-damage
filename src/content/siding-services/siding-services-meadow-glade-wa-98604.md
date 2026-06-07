@@ -12,6 +12,7 @@ lng: -122.5600
 zipSample: ["98604"]
 zipCodes: ["98604"]
 localPaths: ["Clark County / coords 45.7500, -122.5600", "Clark County / ZIP 98604 sector", "Clark County / primary ZIP 98604", "Clark County / elevation 328 ft band"]
+zillowHomeValueUsd: 605404
 ---
 
 **Engineering Notice for Meadow Glade:** Cladding verification uses 95 mph routing baseline; lateral pressure note: 12.6 psf. Elevation: 328 ft AMSL. Grid: Clark County.

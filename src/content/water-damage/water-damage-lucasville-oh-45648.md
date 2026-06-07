@@ -12,6 +12,7 @@ lng: -82.9800
 zipSample: ["45648"]
 zipCodes: ["45648"]
 localPaths: ["Scioto County / elevation 676 ft band", "Scioto County / primary ZIP 45648", "Scioto County / coords 38.8800, -82.9800", "Scioto County / ZIP 45648 sector"]
+zillowHomeValueUsd: 171241
 ---
 
 **Engineering Notice for Lucasville:** structural drying capacity optimized for 676ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Scioto County. Relative Humidity Threshold: 84%. Sensor sync: Active.

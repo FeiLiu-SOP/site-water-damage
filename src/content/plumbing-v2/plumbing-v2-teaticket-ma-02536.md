@@ -12,6 +12,7 @@ lng: -70.5900
 zipSample: ["02536"]
 zipCodes: ["02536"]
 localPaths: ["Barnstable County / ZIP 02536 sector", "Barnstable County / elevation 23 ft band", "Barnstable County / primary ZIP 02536", "Barnstable County / coords 41.5600, -70.5900"]
+zillowHomeValueUsd: 705470
 ---
 
 **Engineering Notice for Teaticket:** System optimized for 135 mg/L hard water scaling factors in Teaticket. Regional dispatch grid: Barnstable County.

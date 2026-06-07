@@ -11,6 +11,8 @@ lng: -158.0600
 zipSample: ["96786", "96857"]
 zipCodes: ["96786", "96857"]
 localPaths: ["Honolulu County / primary ZIP 96857", "Honolulu County / ZIP 96857 sector", "Honolulu County / ZIP 96786 sector", "Honolulu County / elevation 919 ft band", "Honolulu County / coords 21.4900, -158.0600"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 849020
 ---
 
 **Engineering Notice for Schofield Barracks:** Structural loading calculated based on 919 ft terrain assessment. Regional dispatch grid: Honolulu County.

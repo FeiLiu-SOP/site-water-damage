@@ -12,6 +12,7 @@ lng: -81.6000
 zipSample: ["32131"]
 zipCodes: ["32131"]
 localPaths: ["Putnam County / ZIP 32131 sector", "Putnam County / elevation 46 ft band", "Putnam County / primary ZIP 32131", "Putnam County / coords 29.6500, -81.6000"]
+zillowHomeValueUsd: 267424
 ---
 
 **Engineering Notice for East Palatka:** System optimized for 120 mg/L hard water scaling factors in East Palatka. Regional dispatch grid: Putnam County.

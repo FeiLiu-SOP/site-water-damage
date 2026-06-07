@@ -12,6 +12,7 @@ lng: -84.8500
 zipSample: ["47040"]
 zipCodes: ["47040"]
 localPaths: ["Ohio County / elevation 509 ft band", "Ohio County / coords 38.9500, -84.8500", "Ohio County / primary ZIP 47040", "Ohio County / ZIP 47040 sector"]
+zillowHomeValueUsd: 259266
 ---
 
 **Engineering Notice for Rising Sun:** Envelope check: Surface Sheathing assigned to wind-load band C with stress factor 1.10. Elevation: 509 ft AMSL. Regional dispatch grid: Ohio County.

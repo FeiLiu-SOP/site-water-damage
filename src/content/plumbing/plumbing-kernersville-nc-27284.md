@@ -12,6 +12,7 @@ lng: -80.0800
 zipSample: ["27284", "27285"]
 zipCodes: ["27285", "27284"]
 localPaths: ["Forsyth County / primary ZIP 27284", "Forsyth County / elevation 951 ft band", "Forsyth County / coords 36.1100, -80.0800", "Forsyth County / ZIP 27284 sector", "Forsyth County / ZIP 27285 sector"]
+zillowHomeValueUsd: 322989
 ---
 
 **Engineering Notice for Kernersville:** Structural loading calculated based on 951 ft terrain assessment. Regional dispatch grid: Forsyth County.

@@ -12,6 +12,7 @@ lng: -88.5800
 zipSample: ["38857"]
 zipCodes: ["38857"]
 localPaths: ["Lee County / coords 34.2600, -88.5800", "Lee County / ZIP 38857 sector", "Lee County / elevation 407 ft band", "Lee County / primary ZIP 38857"]
+zillowHomeValueUsd: 219364
 ---
 
 **Engineering Notice for Mooreville:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Coordinates: 34.2600, -88.5800. Grid: Lee County.

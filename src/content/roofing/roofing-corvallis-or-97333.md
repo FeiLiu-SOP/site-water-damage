@@ -11,6 +11,7 @@ lng: -123.2800
 zipSample: ["97339", "97333", "97331", "97330"]
 zipCodes: ["97339", "97330", "97333", "97331"]
 localPaths: ["Benton County / ZIP 97339 sector", "Benton County / elevation 259 ft band", "Benton County / primary ZIP 97333", "Benton County / coords 44.5700, -123.2800", "Benton County / ZIP 97330 sector"]
+zillowHomeValueUsd: 523706
 ---
 
 **Engineering Notice for Corvallis:** Structural loading calculated based on 259 ft terrain assessment. Regional dispatch grid: Benton County.

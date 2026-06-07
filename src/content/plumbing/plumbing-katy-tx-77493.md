@@ -12,6 +12,7 @@ lng: -95.8400
 zipSample: ["77491", "77493", "77494"]
 zipCodes: ["77491", "77494", "77493"]
 localPaths: ["Waller County / ZIP 77493 sector", "Waller County / ZIP 77491 sector", "Waller County / ZIP 77494 sector", "Waller County / elevation 148 ft band", "Waller County / primary ZIP 77493"]
+zillowHomeValueUsd: 344087
 ---
 
 **Engineering Notice for Katy:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Waller County.

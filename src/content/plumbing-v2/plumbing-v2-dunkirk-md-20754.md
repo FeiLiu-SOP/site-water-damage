@@ -12,6 +12,7 @@ lng: -76.6700
 zipSample: ["20754"]
 zipCodes: ["20754"]
 localPaths: ["Calvert County / ZIP 20754 sector", "Calvert County / elevation 102 ft band", "Calvert County / primary ZIP 20754", "Calvert County / coords 38.7200, -76.6700"]
+zillowHomeValueUsd: 637494
 ---
 
 **Engineering Notice for Dunkirk:** System optimized for 133 mg/L hard water scaling factors in Dunkirk. Regional dispatch grid: Calvert County.

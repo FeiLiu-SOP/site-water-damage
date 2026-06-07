@@ -11,6 +11,7 @@ lng: -77.3000
 zipSample: ["22102", "22066"]
 zipCodes: ["22066", "22102"]
 localPaths: ["Fairfax County / primary ZIP 22066", "Fairfax County / elevation 394 ft band", "Fairfax County / ZIP 22102 sector", "Fairfax County / coords 39.0100, -77.3000", "Fairfax County / ZIP 22066 sector"]
+zillowHomeValueUsd: 1681486
 ---
 
 **Engineering Notice for Great Falls:** Structural loading calculated based on 394 ft terrain assessment. Regional dispatch grid: Fairfax County.

@@ -11,6 +11,7 @@ lng: -119.6500
 zipSample: ["93230"]
 zipCodes: ["93230"]
 localPaths: ["Kings County / ZIP 93230 sector", "Kings County / elevation 246 ft band", "Kings County / primary ZIP 93230", "Kings County / coords 36.3300, -119.6500"]
+zillowHomeValueUsd: 382688
 ---
 
 **Engineering Notice for Hanford:** Structural loading calculated based on 246 ft terrain assessment. Regional dispatch grid: Kings County.

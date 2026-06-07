@@ -12,6 +12,7 @@ lng: -81.2400
 zipSample: ["29827"]
 zipCodes: ["29827"]
 localPaths: ["Allendale County / coords 32.9600, -81.2400", "Allendale County / elevation 148 ft band", "Allendale County / ZIP 29827 sector", "Allendale County / primary ZIP 29827"]
+zillowHomeValueUsd: 86403
 ---
 
 **Engineering Notice for Fairfax:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Elevation: 148 ft AMSL. Coordinates: 32.9600, -81.2400. Grid: Allendale County.

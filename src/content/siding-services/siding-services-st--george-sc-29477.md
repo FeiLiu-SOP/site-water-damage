@@ -12,6 +12,7 @@ lng: -80.5800
 zipSample: ["29477"]
 zipCodes: ["29477"]
 localPaths: ["Dorchester County / ZIP 29477 sector", "Dorchester County / elevation 102 ft band", "Dorchester County / coords 33.1900, -80.5800", "Dorchester County / primary ZIP 29477"]
+zillowHomeValueUsd: 218153
 ---
 
 **Engineering Notice for St. George:** Site context locked to Dorchester County. Elevation: 102 ft AMSL. Exterior Cladding integrity verification recorded.

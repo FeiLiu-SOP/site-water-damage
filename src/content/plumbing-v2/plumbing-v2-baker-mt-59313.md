@@ -12,6 +12,7 @@ lng: -104.2700
 zipSample: ["59313"]
 zipCodes: ["59313"]
 localPaths: ["Fallon County / elevation 2936 ft band", "Fallon County / ZIP 59313 sector", "Fallon County / coords 46.3600, -104.2700", "Fallon County / primary ZIP 59313"]
+zillowHomeValueUsd: 189949
 ---
 
 **Engineering Notice for Baker:** System optimized for 126 mg/L hard water scaling factors in Baker. Regional dispatch grid: Fallon County.

@@ -12,6 +12,7 @@ lng: -78.6800
 zipSample: ["15845"]
 zipCodes: ["15845"]
 localPaths: ["Elk County / coords 41.4900, -78.6800", "Elk County / elevation 1444 ft band", "Elk County / primary ZIP 15845", "Elk County / ZIP 15845 sector"]
+zillowHomeValueUsd: 81209
 ---
 
 **Engineering Notice for Johnsonburg:** System optimized for 149 mg/L hard water scaling factors in Johnsonburg. Regional dispatch grid: Elk County.

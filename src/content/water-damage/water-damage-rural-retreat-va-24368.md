@@ -12,6 +12,7 @@ lng: -81.2800
 zipSample: ["24368"]
 zipCodes: ["24368"]
 localPaths: ["Wythe County / coords 36.9000, -81.2800", "Wythe County / primary ZIP 24368", "Wythe County / elevation 2566 ft band", "Wythe County / ZIP 24368 sector"]
+zillowHomeValueUsd: 212078
 ---
 
 **Engineering Notice for Rural Retreat:** structural drying capacity optimized for 2566ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wythe County. Relative Humidity Threshold: 72%. Sensor sync: Active.

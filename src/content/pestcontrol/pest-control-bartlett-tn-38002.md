@@ -11,6 +11,7 @@ lng: -89.8200
 zipSample: ["38134", "38002", "38029", "38133", "38135"]
 zipCodes: ["38002", "38134", "38029", "38135", "38133"]
 localPaths: ["Shelby County / primary ZIP 38002", "Shelby County / ZIP 38135 sector", "Shelby County / ZIP 38002 sector", "Shelby County / ZIP 38133 sector", "Shelby County / elevation 338 ft band"]
+zillowHomeValueUsd: 407845
 ---
 
 **Engineering Notice for Bartlett:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Shelby County.

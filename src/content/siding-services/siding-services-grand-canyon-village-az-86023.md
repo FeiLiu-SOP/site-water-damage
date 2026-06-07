@@ -12,6 +12,8 @@ lng: -112.1600
 zipSample: ["86023"]
 zipCodes: ["86023"]
 localPaths: ["Coconino County / primary ZIP 86023", "Coconino County / elevation 6788 ft band", "Coconino County / ZIP 86023 sector", "Coconino County / coords 36.0500, -112.1600"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 425901
 ---
 
 **Engineering Notice for Grand Canyon Village:** Envelope check: Vinyl Panels assigned to wind-load band A with stress factor 0.97. Elevation: 6788 ft AMSL. Regional dispatch grid: Coconino County.

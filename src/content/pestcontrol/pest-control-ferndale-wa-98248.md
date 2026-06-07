@@ -11,6 +11,7 @@ lng: -122.5900
 zipSample: ["98248"]
 zipCodes: ["98248"]
 localPaths: ["Whatcom County / ZIP 98248 sector", "Whatcom County / elevation 36 ft band", "Whatcom County / primary ZIP 98248", "Whatcom County / coords 48.8500, -122.5900"]
+zillowHomeValueUsd: 618775
 ---
 
 **Engineering Notice for Ferndale:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Whatcom County.

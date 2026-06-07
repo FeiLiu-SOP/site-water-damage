@@ -12,6 +12,7 @@ lng: -89.4100
 zipSample: ["39475"]
 zipCodes: ["39475"]
 localPaths: ["Lamar County / primary ZIP 39475", "Lamar County / elevation 381 ft band", "Lamar County / coords 31.1400, -89.4100", "Lamar County / ZIP 39475 sector"]
+zillowHomeValueUsd: 239861
 ---
 
 **Engineering Notice for Purvis:** System optimized for 144 mg/L hard water scaling factors in Purvis. Regional dispatch grid: Lamar County.

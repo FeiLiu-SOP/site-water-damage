@@ -12,6 +12,7 @@ lng: -99.8800
 zipSample: ["67672"]
 zipCodes: ["67672"]
 localPaths: ["Trego County / elevation 2467 ft band", "Trego County / primary ZIP 67672", "Trego County / ZIP 67672 sector", "Trego County / coords 39.0200, -99.8800"]
+zillowHomeValueUsd: 130981
 ---
 
 **Engineering Notice for WaKeeney:** System optimized for 161 mg/L hard water scaling factors in WaKeeney. Regional dispatch grid: Trego County.

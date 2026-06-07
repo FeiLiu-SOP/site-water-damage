@@ -12,6 +12,7 @@ lng: -95.7900
 zipSample: ["66534"]
 zipCodes: ["66534"]
 localPaths: ["Nemaha County / elevation 1263 ft band", "Nemaha County / coords 39.9100, -95.7900", "Nemaha County / primary ZIP 66534", "Nemaha County / ZIP 66534 sector"]
+zillowHomeValueUsd: 211136
 ---
 
 **Engineering Notice for Sabetha:** Envelope check: Vinyl Panels assigned to wind-load band A with stress factor 0.72. Elevation: 1263 ft AMSL. Regional dispatch grid: Nemaha County.

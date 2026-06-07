@@ -11,6 +11,7 @@ lng: -78.0300
 zipSample: ["28479", "28451"]
 zipCodes: ["28479", "28451"]
 localPaths: ["Brunswick County / primary ZIP 28451", "Brunswick County / coords 34.2000, -78.0300", "Brunswick County / ZIP 28451 sector", "Brunswick County / elevation 20 ft band", "Brunswick County / ZIP 28479 sector"]
+zillowHomeValueUsd: 378074
 ---
 
 **Engineering Notice for Leland:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Brunswick County.

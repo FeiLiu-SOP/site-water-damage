@@ -12,6 +12,7 @@ lng: -123.3300
 zipSample: ["97527", "97528", "97526"]
 zipCodes: ["97526", "97527", "97528"]
 localPaths: ["Josephine County / elevation 928 ft band", "Josephine County / ZIP 97526 sector", "Josephine County / coords 42.4300, -123.3300", "Josephine County / primary ZIP 97526", "Josephine County / ZIP 97528 sector"]
+zillowHomeValueUsd: 383990
 ---
 
 **Engineering Notice for Grants Pass:** Structural loading calculated based on 928 ft terrain assessment. Regional dispatch grid: Josephine County.

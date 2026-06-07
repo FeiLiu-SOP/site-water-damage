@@ -12,6 +12,7 @@ lng: -105.0400
 zipSample: ["80516"]
 zipCodes: ["80516"]
 localPaths: ["Weld County / primary ZIP 80516", "Weld County / coords 40.0400, -105.0400", "Weld County / elevation 5056 ft band", "Weld County / ZIP 80516 sector"]
+zillowHomeValueUsd: 714128
 ---
 
 **Engineering Notice for Erie:** Structural loading calculated based on 5056 ft terrain assessment. Regional dispatch grid: Weld County.

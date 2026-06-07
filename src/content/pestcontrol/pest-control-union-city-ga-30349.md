@@ -11,6 +11,7 @@ lng: -84.5600
 zipSample: ["30349", "31192", "30291", "30213"]
 zipCodes: ["30349", "30291", "30213", "31192"]
 localPaths: ["Fulton County / ZIP 30213 sector", "Fulton County / primary ZIP 30349", "Fulton County / ZIP 30291 sector", "Fulton County / ZIP 30349 sector", "Fulton County / ZIP 31192 sector"]
+zillowHomeValueUsd: 251877
 ---
 
 **Engineering Notice for Union City:** Structural loading calculated based on 981 ft terrain assessment. Regional dispatch grid: Fulton County.

@@ -12,6 +12,7 @@ lng: -97.7400
 zipSample: ["58270"]
 zipCodes: ["58270"]
 localPaths: ["Walsh County / elevation 997 ft band", "Walsh County / ZIP 58270 sector", "Walsh County / primary ZIP 58270", "Walsh County / coords 48.3900, -97.7400"]
+zillowHomeValueUsd: 166208
 ---
 
 **Engineering Notice for Park River:** System optimized for 126 mg/L hard water scaling factors in Park River. Regional dispatch grid: Walsh County.

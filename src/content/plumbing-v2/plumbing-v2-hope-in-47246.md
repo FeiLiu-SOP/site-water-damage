@@ -12,6 +12,7 @@ lng: -85.7700
 zipSample: ["47246"]
 zipCodes: ["47246"]
 localPaths: ["Bartholomew County / primary ZIP 47246", "Bartholomew County / coords 39.3000, -85.7700", "Bartholomew County / ZIP 47246 sector", "Bartholomew County / elevation 732 ft band"]
+zillowHomeValueUsd: 255744
 ---
 
 **Engineering Notice for Hope:** System optimized for 121 mg/L hard water scaling factors in Hope. Regional dispatch grid: Bartholomew County.

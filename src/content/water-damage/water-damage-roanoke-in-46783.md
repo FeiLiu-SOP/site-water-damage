@@ -12,6 +12,7 @@ lng: -85.3800
 zipSample: ["46783"]
 zipCodes: ["46783"]
 localPaths: ["Huntington County / primary ZIP 46783", "Huntington County / ZIP 46783 sector", "Huntington County / elevation 787 ft band", "Huntington County / coords 40.9600, -85.3800"]
+zillowHomeValueUsd: 358069
 ---
 
 **Engineering Notice for Roanoke:** structural drying capacity optimized for 787ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Huntington County. Relative Humidity Threshold: 73%. Sensor sync: Active.

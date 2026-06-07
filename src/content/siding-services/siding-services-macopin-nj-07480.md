@@ -12,6 +12,7 @@ lng: -74.3800
 zipSample: ["07480"]
 zipCodes: ["07480"]
 localPaths: ["Passaic County / primary ZIP 07480", "Passaic County / coords 41.0300, -74.3800", "Passaic County / ZIP 07480 sector", "Passaic County / elevation 873 ft band"]
+zillowHomeValueUsd: 482151
 ---
 
 **Engineering Notice for Macopin:** Envelope check: Cladding Retrofit assigned to wind-load band C with stress factor 0.82. Regional dispatch grid: Passaic County.

@@ -12,6 +12,7 @@ lng: -78.5600
 zipSample: ["23927"]
 zipCodes: ["23927"]
 localPaths: ["Mecklenburg County / primary ZIP 23927", "Mecklenburg County / elevation 351 ft band", "Mecklenburg County / ZIP 23927 sector", "Mecklenburg County / coords 36.6200, -78.5600"]
+zillowHomeValueUsd: 305676
 ---
 
 **Engineering Notice for Clarksville:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Grid: Mecklenburg County.

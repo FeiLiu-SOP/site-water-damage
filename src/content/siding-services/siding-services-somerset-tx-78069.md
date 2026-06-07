@@ -12,6 +12,7 @@ lng: -98.6600
 zipSample: ["78069", "78073"]
 zipCodes: ["78069", "78073"]
 localPaths: ["Bexar County / coords 29.2300, -98.6600", "Bexar County / ZIP 78069 sector", "Bexar County / elevation 659 ft band", "Bexar County / primary ZIP 78069", "Bexar County / ZIP 78073 sector"]
+zillowHomeValueUsd: 234631
 ---
 
 **Engineering Notice for Somerset:** Cladding verification uses 148 mph routing baseline; lateral pressure note: 19.0 psf. Elevation: 659 ft AMSL. Grid: Bexar County.

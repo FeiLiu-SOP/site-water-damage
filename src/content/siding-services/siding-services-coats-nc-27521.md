@@ -12,6 +12,7 @@ lng: -78.6700
 zipSample: ["27521"]
 zipCodes: ["27521"]
 localPaths: ["Harnett County / primary ZIP 27521", "Harnett County / coords 35.4100, -78.6700", "Harnett County / elevation 305 ft band", "Harnett County / ZIP 27521 sector"]
+zillowHomeValueUsd: 244929
 ---
 
 **Engineering Notice for Coats:** Envelope check: Vinyl Panels assigned to wind-load band B with stress factor 1.15. Regional dispatch grid: Harnett County.

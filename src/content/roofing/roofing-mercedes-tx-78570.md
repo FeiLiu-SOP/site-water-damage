@@ -11,6 +11,7 @@ lng: -97.9100
 zipSample: ["78570"]
 zipCodes: ["78570"]
 localPaths: ["Hidalgo County / elevation 82 ft band", "Hidalgo County / ZIP 78570 sector", "Hidalgo County / coords 26.1500, -97.9100", "Hidalgo County / primary ZIP 78570"]
+zillowHomeValueUsd: 141085
 ---
 
 **Engineering Notice for Mercedes:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Hidalgo County.

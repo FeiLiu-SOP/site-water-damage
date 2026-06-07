@@ -12,6 +12,7 @@ lng: -96.7600
 zipSample: ["76271", "75459", "75058"]
 zipCodes: ["75459", "76271", "75058"]
 localPaths: ["Grayson County / ZIP 75058 sector", "Grayson County / ZIP 75459 sector", "Grayson County / coords 33.4600, -96.7600", "Grayson County / ZIP 76271 sector", "Grayson County / primary ZIP 76271"]
+zillowHomeValueUsd: 385697
 ---
 
 **Engineering Notice for Gunter:** structural drying capacity optimized for 686ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grayson County. Relative Humidity Threshold: 74%. Sensor sync: Active.

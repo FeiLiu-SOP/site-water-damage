@@ -12,6 +12,7 @@ lng: -123.9400
 zipSample: ["97136"]
 zipCodes: ["97136"]
 localPaths: ["Tillamook County / elevation 13 ft band", "Tillamook County / ZIP 97136 sector", "Tillamook County / coords 45.6200, -123.9400", "Tillamook County / primary ZIP 97136"]
+zillowHomeValueUsd: 458335
 ---
 
 **Engineering Notice for Rockaway Beach:** Envelope check: Cladding Retrofit assigned to wind-load band C with stress factor 1.01. Elevation: 13 ft AMSL. Regional dispatch grid: Tillamook County.

@@ -12,6 +12,7 @@ lng: -80.1900
 zipSample: ["15071"]
 zipCodes: ["15071"]
 localPaths: ["Allegheny County / elevation 912 ft band", "Allegheny County / ZIP 15071 sector", "Allegheny County / coords 40.4000, -80.1900", "Allegheny County / primary ZIP 15071"]
+zillowHomeValueUsd: 335157
 ---
 
 **Engineering Notice for Oakdale:** System optimized for 127 mg/L hard water scaling factors in Oakdale. Regional dispatch grid: Allegheny County.

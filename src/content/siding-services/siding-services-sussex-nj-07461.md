@@ -12,6 +12,7 @@ lng: -74.6100
 zipSample: ["07461"]
 zipCodes: ["07461"]
 localPaths: ["Sussex County / coords 41.2100, -74.6100", "Sussex County / elevation 449 ft band", "Sussex County / ZIP 07461 sector", "Sussex County / primary ZIP 07461"]
+zillowHomeValueUsd: 447837
 ---
 
 **Engineering Notice for Sussex:** Site context locked to Sussex County. Elevation: 449 ft AMSL. Coordinates: 41.2100, -74.6100. Wall Restoration integrity verification recorded.

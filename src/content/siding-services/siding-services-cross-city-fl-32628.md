@@ -12,6 +12,7 @@ lng: -83.1200
 zipSample: ["32628"]
 zipCodes: ["32628"]
 localPaths: ["Dixie County / ZIP 32628 sector", "Dixie County / coords 29.6400, -83.1200", "Dixie County / elevation 79 ft band", "Dixie County / primary ZIP 32628"]
+zillowHomeValueUsd: 161965
 ---
 
 **Engineering Notice for Cross City:** Cladding verification uses 147 mph routing baseline; lateral pressure note: 18.8 psf. Grid: Dixie County.

@@ -12,6 +12,7 @@ lng: -118.2200
 zipSample: ["90255"]
 zipCodes: ["90255"]
 localPaths: ["Los Angeles County / ZIP 90255 sector", "Los Angeles County / primary ZIP 90255", "Los Angeles County / elevation 167 ft band", "Los Angeles County / coords 33.9800, -118.2200"]
+zillowHomeValueUsd: 675405
 ---
 
 **Engineering Notice for Huntington Park:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Los Angeles County.

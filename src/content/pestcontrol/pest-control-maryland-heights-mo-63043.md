@@ -11,6 +11,7 @@ lng: -90.4700
 zipSample: ["63146", "63043"]
 zipCodes: ["63043", "63146"]
 localPaths: ["St. Louis County / primary ZIP 63043", "St. Louis County / elevation 535 ft band", "St. Louis County / ZIP 63146 sector", "St. Louis County / ZIP 63043 sector", "St. Louis County / coords 38.7200, -90.4700"]
+zillowHomeValueUsd: 258748
 ---
 
 **Engineering Notice for Maryland Heights:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: St. Louis County.

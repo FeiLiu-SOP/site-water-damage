@@ -12,6 +12,7 @@ lng: -96.0700
 zipSample: ["75831"]
 zipCodes: ["75831"]
 localPaths: ["Leon County / coords 31.4600, -96.0700", "Leon County / elevation 387 ft band", "Leon County / ZIP 75831 sector", "Leon County / primary ZIP 75831"]
+zillowHomeValueUsd: 290093
 ---
 
 **Engineering Notice for Buffalo:** Envelope check: Surface Sheathing assigned to wind-load band A with stress factor 1.12. Regional dispatch grid: Leon County.

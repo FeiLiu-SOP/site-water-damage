@@ -12,6 +12,7 @@ lng: -83.9500
 zipSample: ["45323"]
 zipCodes: ["45323"]
 localPaths: ["Clark County / primary ZIP 45323", "Clark County / elevation 909 ft band", "Clark County / ZIP 45323 sector", "Clark County / coords 39.8700, -83.9500"]
+zillowHomeValueUsd: 239860
 ---
 
 **Engineering Notice for Green Meadows:** System optimized for 140 mg/L hard water scaling factors in Green Meadows. Regional dispatch grid: Clark County.

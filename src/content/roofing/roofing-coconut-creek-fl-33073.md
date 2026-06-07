@@ -11,6 +11,7 @@ lng: -80.1800
 zipSample: ["33066", "33073", "33063"]
 zipCodes: ["33066", "33073", "33063"]
 localPaths: ["Broward County / coords 26.2800, -80.1800", "Broward County / ZIP 33073 sector", "Broward County / ZIP 33066 sector", "Broward County / elevation 20 ft band", "Broward County / ZIP 33063 sector"]
+zillowHomeValueUsd: 519207
 ---
 
 **Engineering Notice for Coconut Creek:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Broward County.

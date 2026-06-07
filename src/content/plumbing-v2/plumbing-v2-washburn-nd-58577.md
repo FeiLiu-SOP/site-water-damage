@@ -12,6 +12,7 @@ lng: -101.0300
 zipSample: ["58577"]
 zipCodes: ["58577"]
 localPaths: ["McLean County / elevation 1818 ft band", "McLean County / coords 47.2900, -101.0300", "McLean County / ZIP 58577 sector", "McLean County / primary ZIP 58577"]
+zillowHomeValueUsd: 241764
 ---
 
 **Engineering Notice for Washburn:** System optimized for 157 mg/L hard water scaling factors in Washburn. Regional dispatch grid: McLean County.

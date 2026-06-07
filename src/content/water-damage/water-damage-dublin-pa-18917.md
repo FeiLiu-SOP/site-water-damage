@@ -12,6 +12,7 @@ lng: -75.2000
 zipSample: ["18917"]
 zipCodes: ["18917"]
 localPaths: ["Bucks County / ZIP 18917 sector", "Bucks County / elevation 541 ft band", "Bucks County / coords 40.3700, -75.2000", "Bucks County / primary ZIP 18917"]
+zillowHomeValueUsd: 472156
 ---
 
 **Engineering Notice for Dublin:** structural drying capacity optimized for 541ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bucks County. Relative Humidity Threshold: 79%. Sensor sync: Active.

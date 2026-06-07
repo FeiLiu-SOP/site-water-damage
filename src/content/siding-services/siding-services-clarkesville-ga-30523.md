@@ -12,6 +12,7 @@ lng: -83.5300
 zipSample: ["30523"]
 zipCodes: ["30523"]
 localPaths: ["Habersham County / elevation 1417 ft band", "Habersham County / ZIP 30523 sector", "Habersham County / coords 34.6100, -83.5300", "Habersham County / primary ZIP 30523"]
+zillowHomeValueUsd: 386718
 ---
 
 **Engineering Notice for Clarkesville:** Site context locked to Habersham County. Vinyl Panels integrity verification recorded.

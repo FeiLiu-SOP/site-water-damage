@@ -12,6 +12,7 @@ lng: -120.7600
 zipSample: ["98947"]
 zipCodes: ["98947"]
 localPaths: ["Yakima County / primary ZIP 98947", "Yakima County / elevation 1926 ft band", "Yakima County / coords 46.7000, -120.7600", "Yakima County / ZIP 98947 sector"]
+zillowHomeValueUsd: 345886
 ---
 
 **Engineering Notice for Tieton:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 0.81. Elevation: 1926 ft AMSL. Regional dispatch grid: Yakima County.

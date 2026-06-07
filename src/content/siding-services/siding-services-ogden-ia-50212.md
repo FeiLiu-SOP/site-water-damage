@@ -12,6 +12,7 @@ lng: -94.0300
 zipSample: ["50212"]
 zipCodes: ["50212"]
 localPaths: ["Boone County / primary ZIP 50212", "Boone County / coords 42.0400, -94.0300", "Boone County / elevation 1096 ft band", "Boone County / ZIP 50212 sector"]
+zillowHomeValueUsd: 236340
 ---
 
 **Engineering Notice for Ogden:** Panel Replacement was validated under stress factor 1.04; target tolerance set near 94 mph. Coordinates: 42.0400, -94.0300. Grid anchor: Boone County.

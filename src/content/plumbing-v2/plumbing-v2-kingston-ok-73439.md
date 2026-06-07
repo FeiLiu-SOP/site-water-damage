@@ -12,6 +12,7 @@ lng: -96.7100
 zipSample: ["73439"]
 zipCodes: ["73439"]
 localPaths: ["Marshall County / ZIP 73439 sector", "Marshall County / elevation 804 ft band", "Marshall County / primary ZIP 73439", "Marshall County / coords 34.0000, -96.7100"]
+zillowHomeValueUsd: 239998
 ---
 
 **Engineering Notice for Kingston:** System optimized for 149 mg/L hard water scaling factors in Kingston. Regional dispatch grid: Marshall County.

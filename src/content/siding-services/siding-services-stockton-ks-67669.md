@@ -12,6 +12,7 @@ lng: -99.2800
 zipSample: ["67669"]
 zipCodes: ["67669"]
 localPaths: ["Rooks County / ZIP 67669 sector", "Rooks County / primary ZIP 67669", "Rooks County / elevation 1781 ft band", "Rooks County / coords 39.4300, -99.2800"]
+zillowHomeValueUsd: 120216
 ---
 
 **Engineering Notice for Stockton:** Site context locked to Rooks County. Coordinates: 39.4300, -99.2800. Exterior Cladding integrity verification recorded.

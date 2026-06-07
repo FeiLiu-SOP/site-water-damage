@@ -12,6 +12,7 @@ lng: -74.7700
 zipSample: ["13329"]
 zipCodes: ["13329"]
 localPaths: ["Herkimer County / elevation 801 ft band", "Herkimer County / primary ZIP 13329", "Herkimer County / coords 43.1000, -74.7700", "Herkimer County / ZIP 13329 sector"]
+zillowHomeValueUsd: 143896
 ---
 
 **Engineering Notice for Dolgeville:** Envelope check: Cladding Retrofit assigned to wind-load band C with stress factor 1.16. Elevation: 801 ft AMSL. Regional dispatch grid: Herkimer County.

@@ -12,6 +12,7 @@ lng: -82.6400
 zipSample: ["32621"]
 zipCodes: ["32621"]
 localPaths: ["Levy County / primary ZIP 32621", "Levy County / ZIP 32621 sector", "Levy County / elevation 92 ft band", "Levy County / coords 29.4500, -82.6400"]
+zillowHomeValueUsd: 245930
 ---
 
 **Engineering Notice for Bronson:** structural drying capacity optimized for 92ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Levy County. Relative Humidity Threshold: 72%. Sensor sync: Active.

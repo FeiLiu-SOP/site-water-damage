@@ -12,6 +12,7 @@ lng: -82.4000
 zipSample: ["30477"]
 zipCodes: ["30477"]
 localPaths: ["Jefferson County / coords 32.8700, -82.4000", "Jefferson County / elevation 253 ft band", "Jefferson County / ZIP 30477 sector", "Jefferson County / primary ZIP 30477"]
+zillowHomeValueUsd: 80907
 ---
 
 **Engineering Notice for Wadley:** Site context locked to Jefferson County. Elevation: 253 ft AMSL. Exterior Cladding integrity verification recorded.

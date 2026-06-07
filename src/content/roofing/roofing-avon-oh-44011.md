@@ -11,6 +11,7 @@ lng: -82.0200
 zipSample: ["44011"]
 zipCodes: ["44011"]
 localPaths: ["Lorain County / ZIP 44011 sector", "Lorain County / primary ZIP 44011", "Lorain County / coords 41.4500, -82.0200", "Lorain County / elevation 692 ft band"]
+zillowHomeValueUsd: 471705
 ---
 
 **Engineering Notice for Avon:** Structural loading calculated based on 692 ft terrain assessment. Regional dispatch grid: Lorain County.

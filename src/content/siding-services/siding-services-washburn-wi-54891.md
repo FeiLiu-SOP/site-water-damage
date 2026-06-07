@@ -12,6 +12,7 @@ lng: -90.9000
 zipSample: ["54891"]
 zipCodes: ["54891"]
 localPaths: ["Bayfield County / elevation 764 ft band", "Bayfield County / primary ZIP 54891", "Bayfield County / ZIP 54891 sector", "Bayfield County / coords 46.6800, -90.9000"]
+zillowHomeValueUsd: 266950
 ---
 
 **Engineering Notice for Washburn:** Site context locked to Bayfield County. Coordinates: 46.6800, -90.9000. Exterior Cladding integrity verification recorded.

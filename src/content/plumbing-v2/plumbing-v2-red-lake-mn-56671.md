@@ -12,6 +12,8 @@ lng: -95.0100
 zipSample: ["56671"]
 zipCodes: ["56671"]
 localPaths: ["Beltrami County / ZIP 56671 sector", "Beltrami County / coords 47.8700, -95.0100", "Beltrami County / elevation 1237 ft band", "Beltrami County / primary ZIP 56671"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 299334
 ---
 
 **Engineering Notice for Red Lake:** System optimized for 148 mg/L hard water scaling factors in Red Lake. Regional dispatch grid: Beltrami County.

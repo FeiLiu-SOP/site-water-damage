@@ -11,6 +11,7 @@ lng: -98.2100
 zipSample: ["78108", "78124"]
 zipCodes: ["78108", "78124"]
 localPaths: ["Guadalupe County / coords 29.5600, -98.2100", "Guadalupe County / ZIP 78124 sector", "Guadalupe County / ZIP 78108 sector", "Guadalupe County / primary ZIP 78124", "Guadalupe County / elevation 705 ft band"]
+zillowHomeValueUsd: 344757
 ---
 
 **Engineering Notice for Cibolo:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: Guadalupe County.

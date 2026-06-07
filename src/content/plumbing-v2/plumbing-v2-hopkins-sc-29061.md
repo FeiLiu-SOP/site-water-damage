@@ -12,6 +12,7 @@ lng: -80.8600
 zipSample: ["29061", "29290"]
 zipCodes: ["29290", "29061"]
 localPaths: ["Richland County / primary ZIP 29061", "Richland County / coords 33.9000, -80.8600", "Richland County / ZIP 29061 sector", "Richland County / elevation 184 ft band", "Richland County / ZIP 29290 sector"]
+zillowHomeValueUsd: 198094
 ---
 
 **Engineering Notice for Hopkins:** System optimized for 159 mg/L hard water scaling factors in Hopkins. Regional dispatch grid: Richland County.

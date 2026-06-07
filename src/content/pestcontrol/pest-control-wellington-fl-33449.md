@@ -11,6 +11,7 @@ lng: -80.2700
 zipSample: ["33449", "33470", "33414"]
 zipCodes: ["33414", "33470", "33449"]
 localPaths: ["Palm Beach County / elevation 26 ft band", "Palm Beach County / ZIP 33414 sector", "Palm Beach County / primary ZIP 33449", "Palm Beach County / ZIP 33470 sector", "Palm Beach County / ZIP 33449 sector"]
+zillowHomeValueUsd: 733775
 ---
 
 **Engineering Notice for Wellington:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Palm Beach County.

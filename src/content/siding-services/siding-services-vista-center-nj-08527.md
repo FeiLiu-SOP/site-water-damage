@@ -12,6 +12,7 @@ lng: -74.3200
 zipSample: ["08527"]
 zipCodes: ["08527"]
 localPaths: ["Ocean County / primary ZIP 08527", "Ocean County / elevation 138 ft band", "Ocean County / coords 40.1600, -74.3200", "Ocean County / ZIP 08527 sector"]
+zillowHomeValueUsd: 631434
 ---
 
 **Engineering Notice for Vista Center:** Site context locked to Ocean County. Coordinates: 40.1600, -74.3200. Exterior Cladding integrity verification recorded.

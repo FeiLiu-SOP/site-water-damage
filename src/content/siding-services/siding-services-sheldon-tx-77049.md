@@ -12,6 +12,7 @@ lng: -95.1300
 zipSample: ["77049"]
 zipCodes: ["77049"]
 localPaths: ["Harris County / coords 29.8600, -95.1300", "Harris County / ZIP 77049 sector", "Harris County / primary ZIP 77049", "Harris County / elevation 52 ft band"]
+zillowHomeValueUsd: 242111
 ---
 
 **Engineering Notice for Sheldon:** Structural integrity verification: Weather Barrier Wrap calibrated for 149 mph localized wind load factor. Elevation: 52 ft AMSL. Coordinates: 29.8600, -95.1300. Regional dispatch grid: Harris County.

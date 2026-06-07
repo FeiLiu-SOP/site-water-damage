@@ -11,6 +11,7 @@ lng: -81.4000
 zipSample: ["32240", "32250"]
 zipCodes: ["32250", "32240"]
 localPaths: ["Duval County / ZIP 32250 sector", "Duval County / ZIP 32240 sector", "Duval County / elevation 33 ft band", "Duval County / coords 30.2800, -81.4000", "Duval County / primary ZIP 32250"]
+zillowHomeValueUsd: 630396
 ---
 
 **Engineering Notice for Jacksonville Beach:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Duval County.

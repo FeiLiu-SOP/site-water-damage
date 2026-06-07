@@ -11,6 +11,7 @@ lng: -111.8600
 zipSample: ["84020"]
 zipCodes: ["84020"]
 localPaths: ["Salt Lake County / elevation 4757 ft band", "Salt Lake County / primary ZIP 84020", "Salt Lake County / coords 40.5000, -111.8600", "Salt Lake County / ZIP 84020 sector"]
+zillowHomeValueUsd: 806292
 ---
 
 **Engineering Notice for Draper:** Structural loading calculated based on 4757 ft terrain assessment. Regional dispatch grid: Salt Lake County.

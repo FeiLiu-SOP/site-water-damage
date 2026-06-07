@@ -12,6 +12,7 @@ lng: -88.0900
 zipSample: ["60047"]
 zipCodes: ["60047"]
 localPaths: ["Lake County / coords 42.2000, -88.0900", "Lake County / elevation 892 ft band", "Lake County / primary ZIP 60047", "Lake County / ZIP 60047 sector"]
+zillowHomeValueUsd: 638948
 ---
 
 **Engineering Notice for Lake Zurich:** Structural loading calculated based on 892 ft terrain assessment. Regional dispatch grid: Lake County.

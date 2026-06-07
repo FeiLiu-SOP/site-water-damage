@@ -11,6 +11,7 @@ lng: -87.3500
 zipSample: ["46409", "46406", "46403", "46404", "46407"]
 zipCodes: ["46403", "46405", "46408", "46407", "46409", "46404", "46402", "46406"]
 localPaths: ["Lake County / ZIP 46407 sector", "Lake County / ZIP 46406 sector", "Lake County / elevation 607 ft band", "Lake County / ZIP 46409 sector", "Lake County / coords 41.5900, -87.3500"]
+zillowHomeValueUsd: 79201
 ---
 
 **Engineering Notice for Gary:** Structural loading calculated based on 607 ft terrain assessment. Regional dispatch grid: Lake County.

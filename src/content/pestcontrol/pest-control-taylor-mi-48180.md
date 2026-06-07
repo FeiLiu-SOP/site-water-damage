@@ -11,6 +11,7 @@ lng: -83.2700
 zipSample: ["48180"]
 zipCodes: ["48180"]
 localPaths: ["Wayne County / coords 42.2300, -83.2700", "Wayne County / primary ZIP 48180", "Wayne County / elevation 617 ft band", "Wayne County / ZIP 48180 sector"]
+zillowHomeValueUsd: 175782
 ---
 
 **Engineering Notice for Taylor:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: Wayne County.

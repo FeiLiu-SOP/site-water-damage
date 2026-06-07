@@ -12,6 +12,7 @@ lng: -89.5400
 zipSample: ["39482"]
 zipCodes: ["39482"]
 localPaths: ["Lamar County / coords 31.4200, -89.5400", "Lamar County / ZIP 39482 sector", "Lamar County / primary ZIP 39482", "Lamar County / elevation 305 ft band"]
+zillowHomeValueUsd: 259555
 ---
 
 **Engineering Notice for Sumrall:** System optimized for 125 mg/L hard water scaling factors in Sumrall. Regional dispatch grid: Lamar County.

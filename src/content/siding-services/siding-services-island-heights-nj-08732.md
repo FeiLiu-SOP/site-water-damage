@@ -12,6 +12,7 @@ lng: -74.1500
 zipSample: ["08732"]
 zipCodes: ["08732"]
 localPaths: ["Ocean County / elevation 52 ft band", "Ocean County / primary ZIP 08732", "Ocean County / coords 39.9400, -74.1500", "Ocean County / ZIP 08732 sector"]
+zillowHomeValueUsd: 641045
 ---
 
 **Engineering Notice for Island Heights:** Cladding Retrofit was validated under stress factor 0.96; target tolerance set near 100 mph. Coordinates: 39.9400, -74.1500. Grid anchor: Ocean County.

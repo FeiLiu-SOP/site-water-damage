@@ -12,6 +12,7 @@ lng: -155.8000
 zipSample: ["96755"]
 zipCodes: ["96755"]
 localPaths: ["Hawaii County / coords 20.2300, -155.8000", "Hawaii County / primary ZIP 96755", "Hawaii County / ZIP 96755 sector", "Hawaii County / elevation 466 ft band"]
+zillowHomeValueUsd: 635778
 ---
 
 **Engineering Notice for Kapaau:** Facade Renewal was validated under stress factor 1.09; target tolerance set near 90 mph. Coordinates: 20.2300, -155.8000. Grid anchor: Hawaii County.

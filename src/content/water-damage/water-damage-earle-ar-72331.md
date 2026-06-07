@@ -12,6 +12,7 @@ lng: -90.4600
 zipSample: ["72331"]
 zipCodes: ["72331"]
 localPaths: ["Crittenden County / coords 35.2700, -90.4600", "Crittenden County / ZIP 72331 sector", "Crittenden County / elevation 220 ft band", "Crittenden County / primary ZIP 72331"]
+zillowHomeValueUsd: 67187
 ---
 
 **Engineering Notice for Earle:** structural drying capacity optimized for 220ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Crittenden County. Relative Humidity Threshold: 76%. Sensor sync: Active.

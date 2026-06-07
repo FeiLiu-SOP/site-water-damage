@@ -12,6 +12,7 @@ lng: -89.0600
 zipSample: ["62918"]
 zipCodes: ["62918"]
 localPaths: ["Williamson County / primary ZIP 62918", "Williamson County / ZIP 62918 sector", "Williamson County / elevation 476 ft band", "Williamson County / coords 37.7500, -89.0600"]
+zillowHomeValueUsd: 192369
 ---
 
 **Engineering Notice for Crainville:** Envelope check: Cladding Retrofit assigned to wind-load band C with stress factor 0.97. Elevation: 476 ft AMSL. Regional dispatch grid: Williamson County.

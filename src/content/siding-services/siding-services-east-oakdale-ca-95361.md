@@ -12,6 +12,7 @@ lng: -120.8000
 zipSample: ["95361"]
 zipCodes: ["95361"]
 localPaths: ["Stanislaus County / coords 37.7900, -120.8000", "Stanislaus County / ZIP 95361 sector", "Stanislaus County / primary ZIP 95361", "Stanislaus County / elevation 135 ft band"]
+zillowHomeValueUsd: 557744
 ---
 
 **Engineering Notice for East Oakdale:** Wall Restoration was validated under stress factor 1.15; target tolerance set near 130 mph. Grid anchor: Stanislaus County.

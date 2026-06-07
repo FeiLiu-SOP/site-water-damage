@@ -12,6 +12,7 @@ lng: -90.0000
 zipSample: ["61085"]
 zipCodes: ["61085"]
 localPaths: ["Jo Daviess County / elevation 981 ft band", "Jo Daviess County / ZIP 61085 sector", "Jo Daviess County / primary ZIP 61085", "Jo Daviess County / coords 42.3500, -90.0000"]
+zillowHomeValueUsd: 154692
 ---
 
 **Engineering Notice for Stockton:** Cladding verification uses 98 mph routing baseline; lateral pressure note: 13.0 psf. Elevation: 981 ft AMSL. Coordinates: 42.3500, -90.0000. Grid: Jo Daviess County.

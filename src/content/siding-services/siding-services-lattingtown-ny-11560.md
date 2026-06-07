@@ -12,6 +12,7 @@ lng: -73.6000
 zipSample: ["11560"]
 zipCodes: ["11560"]
 localPaths: ["Nassau County / primary ZIP 11560", "Nassau County / elevation 56 ft band", "Nassau County / coords 40.8900, -73.6000", "Nassau County / ZIP 11560 sector"]
+zillowHomeValueUsd: 1226059
 ---
 
 **Engineering Notice for Lattingtown:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 1.03. Regional dispatch grid: Nassau County.

@@ -11,6 +11,7 @@ lng: -77.1100
 zipSample: ["22309"]
 zipCodes: ["22309"]
 localPaths: ["Fairfax County / ZIP 22309 sector", "Fairfax County / elevation 33 ft band", "Fairfax County / coords 38.7300, -77.1100", "Fairfax County / primary ZIP 22309"]
+zillowHomeValueUsd: 592045
 ---
 
 **Engineering Notice for Woodlawn:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Fairfax County.

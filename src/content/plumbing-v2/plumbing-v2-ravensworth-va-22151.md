@@ -12,6 +12,7 @@ lng: -77.2200
 zipSample: ["22160", "22151"]
 zipCodes: ["22151", "22160"]
 localPaths: ["Fairfax County / primary ZIP 22151", "Fairfax County / ZIP 22151 sector", "Fairfax County / coords 38.8000, -77.2200", "Fairfax County / elevation 269 ft band", "Fairfax County / ZIP 22160 sector"]
+zillowHomeValueUsd: 718984
 ---
 
 **Engineering Notice for Ravensworth:** System optimized for 148 mg/L hard water scaling factors in Ravensworth. Regional dispatch grid: Fairfax County.

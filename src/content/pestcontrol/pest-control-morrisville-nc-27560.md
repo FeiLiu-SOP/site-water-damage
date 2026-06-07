@@ -11,6 +11,7 @@ lng: -78.8300
 zipSample: ["27560"]
 zipCodes: ["27560"]
 localPaths: ["Wake County / coords 35.8400, -78.8300", "Wake County / ZIP 27560 sector", "Wake County / elevation 348 ft band", "Wake County / primary ZIP 27560"]
+zillowHomeValueUsd: 501931
 ---
 
 **Engineering Notice for Morrisville:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Wake County.

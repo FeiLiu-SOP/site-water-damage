@@ -12,6 +12,7 @@ lng: -83.5000
 zipSample: ["30563", "30531"]
 zipCodes: ["30531", "30563"]
 localPaths: ["Habersham County / coords 34.5200, -83.5000", "Habersham County / ZIP 30531 sector", "Habersham County / primary ZIP 30563", "Habersham County / ZIP 30563 sector", "Habersham County / elevation 1483 ft band"]
+zillowHomeValueUsd: 313515
 ---
 
 **Engineering Notice for Mount Airy:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 1.05. Regional dispatch grid: Habersham County.

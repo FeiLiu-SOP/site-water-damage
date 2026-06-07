@@ -11,6 +11,7 @@ lng: -104.2400
 zipSample: ["88220", "88221"]
 zipCodes: ["88220", "88221"]
 localPaths: ["Eddy County / elevation 3127 ft band", "Eddy County / primary ZIP 88220", "Eddy County / ZIP 88220 sector", "Eddy County / coords 32.4000, -104.2400", "Eddy County / ZIP 88221 sector"]
+zillowHomeValueUsd: 251257
 ---
 
 **Engineering Notice for Carlsbad:** Structural loading calculated based on 3127 ft terrain assessment. Regional dispatch grid: Eddy County.

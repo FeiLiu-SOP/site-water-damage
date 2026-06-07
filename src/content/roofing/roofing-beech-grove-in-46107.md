@@ -11,6 +11,7 @@ lng: -86.0900
 zipSample: ["46203", "46107"]
 zipCodes: ["46107", "46203"]
 localPaths: ["Marion County / primary ZIP 46107", "Marion County / ZIP 46203 sector", "Marion County / coords 39.7200, -86.0900", "Marion County / elevation 820 ft band", "Marion County / ZIP 46107 sector"]
+zillowHomeValueUsd: 190362
 ---
 
 **Engineering Notice for Beech Grove:** Structural loading calculated based on 820 ft terrain assessment. Regional dispatch grid: Marion County.

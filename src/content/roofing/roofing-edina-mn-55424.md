@@ -11,6 +11,7 @@ lng: -93.3600
 zipSample: ["55439", "55410", "55424", "55436", "55435"]
 zipCodes: ["55435", "55424", "55439", "55410", "55436"]
 localPaths: ["Hennepin County / ZIP 55435 sector", "Hennepin County / elevation 942 ft band", "Hennepin County / ZIP 55436 sector", "Hennepin County / coords 44.8900, -93.3600", "Hennepin County / ZIP 55424 sector"]
+zillowHomeValueUsd: 1012409
 ---
 
 **Engineering Notice for Edina:** Structural loading calculated based on 942 ft terrain assessment. Regional dispatch grid: Hennepin County.

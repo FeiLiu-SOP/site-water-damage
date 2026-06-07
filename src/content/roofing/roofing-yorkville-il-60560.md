@@ -11,6 +11,7 @@ lng: -88.4500
 zipSample: ["60512", "60560"]
 zipCodes: ["60560", "60512"]
 localPaths: ["Kendall County / ZIP 60560 sector", "Kendall County / elevation 650 ft band", "Kendall County / coords 41.6600, -88.4500", "Kendall County / ZIP 60512 sector", "Kendall County / primary ZIP 60560"]
+zillowHomeValueUsd: 400192
 ---
 
 **Engineering Notice for Yorkville:** Structural loading calculated based on 650 ft terrain assessment. Regional dispatch grid: Kendall County.

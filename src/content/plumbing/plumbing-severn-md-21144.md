@@ -12,6 +12,7 @@ lng: -76.7000
 zipSample: ["21076", "21144", "21077"]
 zipCodes: ["21076", "21077", "21144"]
 localPaths: ["Anne Arundel County / ZIP 21077 sector", "Anne Arundel County / ZIP 21076 sector", "Anne Arundel County / primary ZIP 21144", "Anne Arundel County / elevation 174 ft band", "Anne Arundel County / ZIP 21144 sector"]
+zillowHomeValueUsd: 520501
 ---
 
 **Engineering Notice for Severn:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Anne Arundel County.

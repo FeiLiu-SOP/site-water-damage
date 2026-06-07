@@ -12,6 +12,7 @@ lng: -82.8900
 zipSample: ["43315"]
 zipCodes: ["43315"]
 localPaths: ["Morrow County / primary ZIP 43315", "Morrow County / ZIP 43315 sector", "Morrow County / elevation 1014 ft band", "Morrow County / coords 40.5000, -82.8900"]
+zillowHomeValueUsd: 270191
 ---
 
 **Engineering Notice for Cardington:** Structural integrity verification: Cladding Retrofit calibrated for 96 mph localized wind load factor. Regional dispatch grid: Morrow County.

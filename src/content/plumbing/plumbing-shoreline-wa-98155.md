@@ -12,6 +12,7 @@ lng: -122.3400
 zipSample: ["98160", "98133", "98177", "98155"]
 zipCodes: ["98155", "98177", "98160", "98133"]
 localPaths: ["King County / ZIP 98160 sector", "King County / coords 47.7600, -122.3400", "King County / elevation 476 ft band", "King County / ZIP 98133 sector", "King County / ZIP 98155 sector"]
+zillowHomeValueUsd: 853071
 ---
 
 **Engineering Notice for Shoreline:** Structural loading calculated based on 476 ft terrain assessment. Regional dispatch grid: King County.

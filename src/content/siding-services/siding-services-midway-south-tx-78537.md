@@ -12,6 +12,7 @@ lng: -98.0200
 zipSample: ["78537", "78596"]
 zipCodes: ["78537", "78596"]
 localPaths: ["Hidalgo County / ZIP 78537 sector", "Hidalgo County / ZIP 78596 sector", "Hidalgo County / coords 26.1600, -98.0200", "Hidalgo County / primary ZIP 78537", "Hidalgo County / elevation 95 ft band"]
+zillowHomeValueUsd: 152969
 ---
 
 **Engineering Notice for Midway South:** Structural integrity verification: Panel Replacement calibrated for 133 mph localized wind load factor. Elevation: 95 ft AMSL. Regional dispatch grid: Hidalgo County.

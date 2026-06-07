@@ -12,6 +12,7 @@ lng: -96.4700
 zipSample: ["68045"]
 zipCodes: ["68045"]
 localPaths: ["Burt County / ZIP 68045 sector", "Burt County / elevation 1289 ft band", "Burt County / primary ZIP 68045", "Burt County / coords 41.8400, -96.4700"]
+zillowHomeValueUsd: 194494
 ---
 
 **Engineering Notice for Oakland:** Site context locked to Burt County. Elevation: 1289 ft AMSL. Coordinates: 41.8400, -96.4700. Vinyl Panels integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -118.3500
 zipSample: ["90274"]
 zipCodes: ["90274"]
 localPaths: ["Los Angeles County / ZIP 90274 sector", "Los Angeles County / coords 33.7600, -118.3500", "Los Angeles County / elevation 1089 ft band", "Los Angeles County / primary ZIP 90274"]
+zillowHomeValueUsd: 2533650
 ---
 
 **Engineering Notice for Rolling Hills:** Site context locked to Los Angeles County. Coordinates: 33.7600, -118.3500. Exterior Envelope integrity verification recorded.

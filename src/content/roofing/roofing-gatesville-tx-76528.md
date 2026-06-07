@@ -11,6 +11,7 @@ lng: -97.7300
 zipSample: ["76599", "76528", "76596", "76598", "76597"]
 zipCodes: ["76528", "76599", "76596", "76598", "76597"]
 localPaths: ["Coryell County / elevation 801 ft band", "Coryell County / ZIP 76528 sector", "Coryell County / coords 31.4400, -97.7300", "Coryell County / ZIP 76597 sector", "Coryell County / ZIP 76599 sector"]
+zillowHomeValueUsd: 243102
 ---
 
 **Engineering Notice for Gatesville:** Structural loading calculated based on 801 ft terrain assessment. Regional dispatch grid: Coryell County.

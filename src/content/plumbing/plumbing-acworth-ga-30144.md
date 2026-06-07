@@ -12,6 +12,7 @@ lng: -84.6700
 zipSample: ["30101", "30144"]
 zipCodes: ["30101", "30144"]
 localPaths: ["Cobb County / ZIP 30101 sector", "Cobb County / primary ZIP 30144", "Cobb County / ZIP 30144 sector", "Cobb County / elevation 866 ft band", "Cobb County / coords 34.0600, -84.6700"]
+zillowHomeValueUsd: 382684
 ---
 
 **Engineering Notice for Acworth:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Cobb County.

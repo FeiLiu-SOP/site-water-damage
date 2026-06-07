@@ -11,6 +11,7 @@ lng: -121.5900
 zipSample: ["95020"]
 zipCodes: ["95020"]
 localPaths: ["Santa Clara County / ZIP 95020 sector", "Santa Clara County / coords 37.0000, -121.5900", "Santa Clara County / primary ZIP 95020", "Santa Clara County / elevation 210 ft band"]
+zillowHomeValueUsd: 1080108
 ---
 
 **Engineering Notice for Gilroy:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Santa Clara County.

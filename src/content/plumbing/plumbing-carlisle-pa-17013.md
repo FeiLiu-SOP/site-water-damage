@@ -12,6 +12,7 @@ lng: -77.2000
 zipSample: ["17013"]
 zipCodes: ["17013"]
 localPaths: ["Cumberland County / ZIP 17013 sector", "Cumberland County / primary ZIP 17013", "Cumberland County / coords 40.2000, -77.2000", "Cumberland County / elevation 489 ft band"]
+zillowHomeValueUsd: 285898
 ---
 
 **Engineering Notice for Carlisle:** Structural loading calculated based on 489 ft terrain assessment. Regional dispatch grid: Cumberland County.

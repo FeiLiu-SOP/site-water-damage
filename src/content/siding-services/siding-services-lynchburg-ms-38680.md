@@ -12,6 +12,7 @@ lng: -90.1100
 zipSample: ["38680"]
 zipCodes: ["38680"]
 localPaths: ["DeSoto County / coords 34.9600, -90.1100", "DeSoto County / elevation 292 ft band", "DeSoto County / ZIP 38680 sector", "DeSoto County / primary ZIP 38680"]
+zillowHomeValueUsd: 260186
 ---
 
 **Engineering Notice for Lynchburg:** Panel Replacement was validated under stress factor 1.17; target tolerance set near 96 mph. Grid anchor: DeSoto County.

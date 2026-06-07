@@ -12,6 +12,7 @@ lng: -97.6000
 zipSample: ["68361"]
 zipCodes: ["68361"]
 localPaths: ["Fillmore County / elevation 1650 ft band", "Fillmore County / coords 40.5300, -97.6000", "Fillmore County / ZIP 68361 sector", "Fillmore County / primary ZIP 68361"]
+zillowHomeValueUsd: 176344
 ---
 
 **Engineering Notice for Geneva:** structural drying capacity optimized for 1650ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fillmore County. Relative Humidity Threshold: 81%. Sensor sync: Active.

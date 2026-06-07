@@ -12,6 +12,7 @@ lng: -95.7900
 zipSample: ["66534"]
 zipCodes: ["66534"]
 localPaths: ["Nemaha County / ZIP 66534 sector", "Nemaha County / primary ZIP 66534", "Nemaha County / elevation 1263 ft band", "Nemaha County / coords 39.9100, -95.7900"]
+zillowHomeValueUsd: 211138
 ---
 
 **Engineering Notice for Sabetha:** structural drying capacity optimized for 1263ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Nemaha County. Relative Humidity Threshold: 73%. Sensor sync: Active.

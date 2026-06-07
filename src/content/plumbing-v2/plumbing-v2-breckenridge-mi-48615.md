@@ -12,6 +12,7 @@ lng: -84.4800
 zipSample: ["48615"]
 zipCodes: ["48615"]
 localPaths: ["Gratiot County / coords 43.4100, -84.4800", "Gratiot County / elevation 738 ft band", "Gratiot County / ZIP 48615 sector", "Gratiot County / primary ZIP 48615"]
+zillowHomeValueUsd: 177465
 ---
 
 **Engineering Notice for Breckenridge:** System optimized for 159 mg/L hard water scaling factors in Breckenridge. Regional dispatch grid: Gratiot County.

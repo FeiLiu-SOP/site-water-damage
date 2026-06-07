@@ -12,6 +12,7 @@ lng: -98.7800
 zipSample: ["66967"]
 zipCodes: ["66967"]
 localPaths: ["Smith County / coords 39.7700, -98.7800", "Smith County / primary ZIP 66967", "Smith County / elevation 1827 ft band", "Smith County / ZIP 66967 sector"]
+zillowHomeValueUsd: 104230
 ---
 
 **Engineering Notice for Smith Center:** Cladding verification uses 107 mph routing baseline; lateral pressure note: 14.0 psf. Elevation: 1827 ft AMSL. Grid: Smith County.

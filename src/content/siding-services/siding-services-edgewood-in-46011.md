@@ -12,6 +12,7 @@ lng: -85.7400
 zipSample: ["46011"]
 zipCodes: ["46011"]
 localPaths: ["Madison County / primary ZIP 46011", "Madison County / coords 40.1000, -85.7400", "Madison County / elevation 883 ft band", "Madison County / ZIP 46011 sector"]
+zillowHomeValueUsd: 210076
 ---
 
 **Engineering Notice for Edgewood:** Surface Sheathing was validated under stress factor 0.71; target tolerance set near 105 mph. Grid anchor: Madison County.

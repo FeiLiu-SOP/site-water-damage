@@ -12,6 +12,7 @@ lng: -118.0100
 zipSample: ["90637", "90638", "90639"]
 zipCodes: ["90638", "90637", "90639"]
 localPaths: ["Los Angeles County / ZIP 90638 sector", "Los Angeles County / ZIP 90639 sector", "Los Angeles County / coords 33.9000, -118.0100", "Los Angeles County / primary ZIP 90638", "Los Angeles County / ZIP 90637 sector"]
+zillowHomeValueUsd: 887418
 ---
 
 **Engineering Notice for La Mirada:** Structural loading calculated based on 161 ft terrain assessment. Regional dispatch grid: Los Angeles County.

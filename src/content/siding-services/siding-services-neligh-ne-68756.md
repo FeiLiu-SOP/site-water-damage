@@ -12,6 +12,7 @@ lng: -98.0300
 zipSample: ["68756"]
 zipCodes: ["68756"]
 localPaths: ["Antelope County / primary ZIP 68756", "Antelope County / elevation 1765 ft band", "Antelope County / ZIP 68756 sector", "Antelope County / coords 42.1300, -98.0300"]
+zillowHomeValueUsd: 179825
 ---
 
 **Engineering Notice for Neligh:** Weather Barrier Wrap was validated under stress factor 1.16; target tolerance set near 93 mph. Coordinates: 42.1300, -98.0300. Grid anchor: Antelope County.

@@ -12,6 +12,7 @@ lng: -81.7000
 zipSample: ["28655"]
 zipCodes: ["28655"]
 localPaths: ["Burke County / ZIP 28655 sector", "Burke County / elevation 1224 ft band", "Burke County / primary ZIP 28655", "Burke County / coords 35.7000, -81.7000"]
+zillowHomeValueUsd: 259554
 ---
 
 **Engineering Notice for Salem:** System optimized for 161 mg/L hard water scaling factors in Salem. Regional dispatch grid: Burke County.

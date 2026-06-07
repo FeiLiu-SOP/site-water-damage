@@ -11,6 +11,7 @@ lng: -71.4400
 zipSample: ["01704", "01703", "01702", "01705", "01701"]
 zipCodes: ["01705", "01702", "01704", "01701", "01703"]
 localPaths: ["Middlesex County / ZIP 01702 sector", "Middlesex County / ZIP 01704 sector", "Middlesex County / primary ZIP 01701", "Middlesex County / ZIP 01701 sector", "Middlesex County / coords 42.3100, -71.4400"]
+zillowHomeValueUsd: 705081
 ---
 
 **Engineering Notice for Framingham:** Structural loading calculated based on 177 ft terrain assessment. Regional dispatch grid: Middlesex County.

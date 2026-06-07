@@ -11,6 +11,7 @@ lng: -86.7600
 zipSample: ["35124"]
 zipCodes: ["35124"]
 localPaths: ["Shelby County / coords 33.3100, -86.7600", "Shelby County / elevation 883 ft band", "Shelby County / primary ZIP 35124", "Shelby County / ZIP 35124 sector"]
+zillowHomeValueUsd: 348427
 ---
 
 **Engineering Notice for Pelham:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Shelby County.

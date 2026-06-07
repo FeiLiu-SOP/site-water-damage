@@ -12,6 +12,7 @@ lng: -78.2500
 zipSample: ["27577", "27576", "27568"]
 zipCodes: ["27568", "27577", "27576"]
 localPaths: ["Johnston County / coords 35.5000, -78.2500", "Johnston County / ZIP 27568 sector", "Johnston County / ZIP 27577 sector", "Johnston County / primary ZIP 27577", "Johnston County / elevation 167 ft band"]
+zillowHomeValueUsd: 293018
 ---
 
 **Engineering Notice for Pine Level:** Exterior Envelope was validated under stress factor 0.81; target tolerance set near 92 mph. Coordinates: 35.5000, -78.2500. Grid anchor: Johnston County.

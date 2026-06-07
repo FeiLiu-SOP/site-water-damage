@@ -12,6 +12,7 @@ lng: -106.6700
 zipSample: ["87031"]
 zipCodes: ["87031"]
 localPaths: ["Valencia County / elevation 5007 ft band", "Valencia County / ZIP 87031 sector", "Valencia County / coords 34.7300, -106.6700", "Valencia County / primary ZIP 87031"]
+zillowHomeValueUsd: 323915
 ---
 
 **Engineering Notice for Las Maravillas:** Envelope check: Cladding Service assigned to wind-load band C with stress factor 1.20. Elevation: 5007 ft AMSL. Regional dispatch grid: Valencia County.

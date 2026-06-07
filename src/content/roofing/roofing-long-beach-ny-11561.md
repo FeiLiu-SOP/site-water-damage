@@ -11,6 +11,7 @@ lng: -73.6700
 zipSample: ["11561"]
 zipCodes: ["11561"]
 localPaths: ["Nassau County / coords 40.5900, -73.6700", "Nassau County / ZIP 11561 sector", "Nassau County / primary ZIP 11561", "Nassau County / elevation 13 ft band"]
+zillowHomeValueUsd: 820902
 ---
 
 **Engineering Notice for Long Beach:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Nassau County.

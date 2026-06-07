@@ -12,6 +12,7 @@ lng: -122.9100
 zipSample: ["97355"]
 zipCodes: ["97355"]
 localPaths: ["Linn County / elevation 348 ft band", "Linn County / primary ZIP 97355", "Linn County / coords 44.5300, -122.9100", "Linn County / ZIP 97355 sector"]
+zillowHomeValueUsd: 390862
 ---
 
 **Engineering Notice for Lebanon:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Linn County.

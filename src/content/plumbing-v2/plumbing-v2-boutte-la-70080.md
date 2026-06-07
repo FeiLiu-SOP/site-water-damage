@@ -12,6 +12,7 @@ lng: -90.3900
 zipSample: ["70080", "70039", "70030"]
 zipCodes: ["70080", "70030", "70039"]
 localPaths: ["St. Charles Parish / primary ZIP 70080", "St. Charles Parish / ZIP 70030 sector", "St. Charles Parish / coords 29.8800, -90.3900", "St. Charles Parish / ZIP 70039 sector", "St. Charles Parish / ZIP 70080 sector"]
+zillowHomeValueUsd: 208376
 ---
 
 **Engineering Notice for Boutte:** System optimized for 138 mg/L hard water scaling factors in Boutte. Regional dispatch grid: St. Charles Parish.

@@ -11,6 +11,7 @@ lng: -71.0600
 zipSample: ["02148"]
 zipCodes: ["02148"]
 localPaths: ["Middlesex County / coords 42.4300, -71.0600", "Middlesex County / elevation 39 ft band", "Middlesex County / primary ZIP 02148", "Middlesex County / ZIP 02148 sector"]
+zillowHomeValueUsd: 683007
 ---
 
 **Engineering Notice for Malden:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Middlesex County.

@@ -12,6 +12,7 @@ lng: -74.1500
 zipSample: ["12440", "12484"]
 zipCodes: ["12440", "12484"]
 localPaths: ["Ulster County / elevation 361 ft band", "Ulster County / ZIP 12440 sector", "Ulster County / primary ZIP 12484", "Ulster County / ZIP 12484 sector", "Ulster County / coords 41.8400, -74.1500"]
+zillowHomeValueUsd: 572182
 ---
 
 **Engineering Notice for Stone Ridge:** structural drying capacity optimized for 361ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ulster County. Relative Humidity Threshold: 68%. Sensor sync: Active.

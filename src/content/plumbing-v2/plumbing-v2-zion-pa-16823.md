@@ -12,6 +12,7 @@ lng: -77.6900
 zipSample: ["16823"]
 zipCodes: ["16823"]
 localPaths: ["Centre County / ZIP 16823 sector", "Centre County / elevation 1017 ft band", "Centre County / primary ZIP 16823", "Centre County / coords 40.9200, -77.6900"]
+zillowHomeValueUsd: 304145
 ---
 
 **Engineering Notice for Zion:** System optimized for 124 mg/L hard water scaling factors in Zion. Regional dispatch grid: Centre County.

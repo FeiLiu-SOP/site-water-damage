@@ -12,6 +12,7 @@ lng: -86.4600
 zipSample: ["36022", "36051"]
 zipCodes: ["36022", "36051"]
 localPaths: ["Autauga County / ZIP 36051 sector", "Autauga County / elevation 479 ft band", "Autauga County / primary ZIP 36022", "Autauga County / coords 32.6800, -86.4600", "Autauga County / ZIP 36022 sector"]
+zillowHomeValueUsd: 292443
 ---
 
 **Engineering Notice for Marbury:** Facade Renewal was validated under stress factor 1.19; target tolerance set near 110 mph. Grid anchor: Autauga County.

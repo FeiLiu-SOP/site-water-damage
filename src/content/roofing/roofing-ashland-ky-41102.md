@@ -11,6 +11,7 @@ lng: -82.6400
 zipSample: ["41114", "41101", "41102"]
 zipCodes: ["41101", "41114", "41102"]
 localPaths: ["Boyd County / ZIP 41102 sector", "Boyd County / ZIP 41101 sector", "Boyd County / primary ZIP 41102", "Boyd County / coords 38.4600, -82.6400", "Boyd County / ZIP 41114 sector"]
+zillowHomeValueUsd: 150188
 ---
 
 **Engineering Notice for Ashland:** Structural loading calculated based on 676 ft terrain assessment. Regional dispatch grid: Boyd County.

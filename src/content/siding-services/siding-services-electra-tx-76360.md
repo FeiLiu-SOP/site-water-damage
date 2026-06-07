@@ -12,6 +12,7 @@ lng: -98.9200
 zipSample: ["76360"]
 zipCodes: ["76360"]
 localPaths: ["Wichita County / elevation 1237 ft band", "Wichita County / coords 34.0300, -98.9200", "Wichita County / primary ZIP 76360", "Wichita County / ZIP 76360 sector"]
+zillowHomeValueUsd: 77454
 ---
 
 **Engineering Notice for Electra:** Facade Renewal was validated under stress factor 1.10; target tolerance set near 150 mph. Coordinates: 34.0300, -98.9200. Grid anchor: Wichita County.

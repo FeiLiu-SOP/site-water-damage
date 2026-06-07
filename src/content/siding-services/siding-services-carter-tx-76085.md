@@ -12,6 +12,7 @@ lng: -97.7300
 zipSample: ["76085", "76082"]
 zipCodes: ["76085", "76082"]
 localPaths: ["Parker County / ZIP 76085 sector", "Parker County / coords 32.9100, -97.7300", "Parker County / elevation 1145 ft band", "Parker County / ZIP 76082 sector", "Parker County / primary ZIP 76085"]
+zillowHomeValueUsd: 464397
 ---
 
 **Engineering Notice for Carter:** Cladding verification uses 138 mph routing baseline; lateral pressure note: 17.8 psf. Coordinates: 32.9100, -97.7300. Grid: Parker County.

@@ -12,6 +12,7 @@ lng: -122.9400
 zipSample: ["97048"]
 zipCodes: ["97048"]
 localPaths: ["Columbia County / coords 46.0800, -122.9400", "Columbia County / elevation 236 ft band", "Columbia County / ZIP 97048 sector", "Columbia County / primary ZIP 97048"]
+zillowHomeValueUsd: 419666
 ---
 
 **Engineering Notice for Rainier:** System optimized for 125 mg/L hard water scaling factors in Rainier. Regional dispatch grid: Columbia County.

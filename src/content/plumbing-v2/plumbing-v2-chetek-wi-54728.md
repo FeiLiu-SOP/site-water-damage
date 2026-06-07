@@ -12,6 +12,7 @@ lng: -91.6500
 zipSample: ["54728"]
 zipCodes: ["54728"]
 localPaths: ["Barron County / ZIP 54728 sector", "Barron County / elevation 1047 ft band", "Barron County / coords 45.3200, -91.6500", "Barron County / primary ZIP 54728"]
+zillowHomeValueUsd: 280772
 ---
 
 **Engineering Notice for Chetek:** System optimized for 180 mg/L hard water scaling factors in Chetek. Regional dispatch grid: Barron County.

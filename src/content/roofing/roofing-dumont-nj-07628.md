@@ -11,6 +11,7 @@ lng: -73.9900
 zipSample: ["07628"]
 zipCodes: ["07628"]
 localPaths: ["Bergen County / coords 40.9500, -73.9900", "Bergen County / ZIP 07628 sector", "Bergen County / primary ZIP 07628", "Bergen County / elevation 112 ft band"]
+zillowHomeValueUsd: 667111
 ---
 
 **Engineering Notice for Dumont:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Bergen County.

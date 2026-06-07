@@ -12,6 +12,7 @@ lng: -73.1800
 zipSample: ["11787"]
 zipCodes: ["11787"]
 localPaths: ["Suffolk County / elevation 59 ft band", "Suffolk County / primary ZIP 11787", "Suffolk County / ZIP 11787 sector", "Suffolk County / coords 40.8500, -73.1800"]
+zillowHomeValueUsd: 794528
 ---
 
 **Engineering Notice for Village of the Branch:** Site context locked to Suffolk County. Elevation: 59 ft AMSL. Coordinates: 40.8500, -73.1800. Cladding Retrofit integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -97.7400
 zipSample: ["76048"]
 zipCodes: ["76048"]
 localPaths: ["Hood County / primary ZIP 76048", "Hood County / coords 32.3900, -97.7400", "Hood County / elevation 807 ft band", "Hood County / ZIP 76048 sector"]
+zillowHomeValueUsd: 311608
 ---
 
 **Engineering Notice for Canyon Creek:** System optimized for 125 mg/L hard water scaling factors in Canyon Creek. Regional dispatch grid: Hood County.

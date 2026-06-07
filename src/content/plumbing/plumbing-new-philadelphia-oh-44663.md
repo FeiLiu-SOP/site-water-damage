@@ -12,6 +12,7 @@ lng: -81.4400
 zipSample: ["44663"]
 zipCodes: ["44663"]
 localPaths: ["Tuscarawas County / ZIP 44663 sector", "Tuscarawas County / coords 40.4900, -81.4400", "Tuscarawas County / elevation 889 ft band", "Tuscarawas County / primary ZIP 44663"]
+zillowHomeValueUsd: 201216
 ---
 
 **Engineering Notice for New Philadelphia:** Structural loading calculated based on 889 ft terrain assessment. Regional dispatch grid: Tuscarawas County.

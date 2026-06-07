@@ -12,6 +12,7 @@ lng: -91.2100
 zipSample: ["70339"]
 zipCodes: ["70339"]
 localPaths: ["Assumption Parish / elevation 36 ft band", "Assumption Parish / coords 29.9600, -91.2100", "Assumption Parish / primary ZIP 70339", "Assumption Parish / ZIP 70339 sector"]
+zillowHomeValueUsd: 205209
 ---
 
 **Engineering Notice for Pierre Part:** Structural integrity verification: Cladding Retrofit calibrated for 98 mph localized wind load factor. Regional dispatch grid: Assumption Parish.

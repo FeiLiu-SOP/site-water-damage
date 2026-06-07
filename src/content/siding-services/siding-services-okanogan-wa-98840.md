@@ -12,6 +12,7 @@ lng: -119.5800
 zipSample: ["98840"]
 zipCodes: ["98840"]
 localPaths: ["Okanogan County / primary ZIP 98840", "Okanogan County / coords 48.3700, -119.5800", "Okanogan County / ZIP 98840 sector", "Okanogan County / elevation 853 ft band"]
+zillowHomeValueUsd: 272236
 ---
 
 **Engineering Notice for Okanogan:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Coordinates: 48.3700, -119.5800. Grid: Okanogan County.

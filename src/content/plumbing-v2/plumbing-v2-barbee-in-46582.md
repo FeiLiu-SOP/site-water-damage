@@ -12,6 +12,7 @@ lng: -85.7100
 zipSample: ["46538", "46582"]
 zipCodes: ["46582", "46538"]
 localPaths: ["Kosciusko County / ZIP 46538 sector", "Kosciusko County / coords 41.2900, -85.7100", "Kosciusko County / elevation 846 ft band", "Kosciusko County / primary ZIP 46582", "Kosciusko County / ZIP 46582 sector"]
+zillowHomeValueUsd: 304490
 ---
 
 **Engineering Notice for Barbee:** System optimized for 121 mg/L hard water scaling factors in Barbee. Regional dispatch grid: Kosciusko County.

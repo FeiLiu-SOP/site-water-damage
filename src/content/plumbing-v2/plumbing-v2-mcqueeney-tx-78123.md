@@ -12,6 +12,7 @@ lng: -98.0400
 zipSample: ["78123", "78155", "78130"]
 zipCodes: ["78155", "78130", "78123"]
 localPaths: ["Guadalupe County / elevation 561 ft band", "Guadalupe County / ZIP 78123 sector", "Guadalupe County / primary ZIP 78123", "Guadalupe County / ZIP 78155 sector", "Guadalupe County / ZIP 78130 sector"]
+zillowHomeValueUsd: 424355
 ---
 
 **Engineering Notice for McQueeney:** System optimized for 168 mg/L hard water scaling factors in McQueeney. Regional dispatch grid: Guadalupe County.

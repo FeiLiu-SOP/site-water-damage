@@ -11,6 +11,7 @@ lng: -80.2100
 zipSample: ["33068", "33093", "33063"]
 zipCodes: ["33093", "33063", "33068"]
 localPaths: ["Broward County / coords 26.2500, -80.2100", "Broward County / ZIP 33093 sector", "Broward County / ZIP 33068 sector", "Broward County / ZIP 33063 sector", "Broward County / elevation 30 ft band"]
+zillowHomeValueUsd: 358269
 ---
 
 **Engineering Notice for Margate:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Broward County.

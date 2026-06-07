@@ -12,6 +12,7 @@ lng: -113.4900
 zipSample: ["84780", "84771"]
 zipCodes: ["84780", "84771"]
 localPaths: ["Washington County / ZIP 84771 sector", "Washington County / elevation 2841 ft band", "Washington County / coords 37.1300, -113.4900", "Washington County / ZIP 84780 sector", "Washington County / primary ZIP 84780"]
+zillowHomeValueUsd: 544588
 ---
 
 **Engineering Notice for Washington:** Structural loading calculated based on 2841 ft terrain assessment. Regional dispatch grid: Washington County.

@@ -11,6 +11,7 @@ lng: -92.9600
 zipSample: ["55038"]
 zipCodes: ["55038"]
 localPaths: ["Washington County / ZIP 55038 sector", "Washington County / coords 45.1700, -92.9600", "Washington County / primary ZIP 55038", "Washington County / elevation 922 ft band"]
+zillowHomeValueUsd: 449015
 ---
 
 **Engineering Notice for Hugo:** Structural loading calculated based on 922 ft terrain assessment. Regional dispatch grid: Washington County.

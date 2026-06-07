@@ -11,6 +11,7 @@ lng: -89.8300
 zipSample: ["54495", "54494"]
 zipCodes: ["54495", "54494"]
 localPaths: ["Wood County / ZIP 54495 sector", "Wood County / primary ZIP 54495", "Wood County / elevation 994 ft band", "Wood County / coords 44.3900, -89.8300", "Wood County / ZIP 54494 sector"]
+zillowHomeValueUsd: 173993
 ---
 
 **Engineering Notice for Wisconsin Rapids:** Structural loading calculated based on 994 ft terrain assessment. Regional dispatch grid: Wood County.

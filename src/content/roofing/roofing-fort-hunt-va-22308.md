@@ -11,6 +11,7 @@ lng: -77.0600
 zipSample: ["22307", "22308"]
 zipCodes: ["22307", "22308"]
 localPaths: ["Fairfax County / ZIP 22308 sector", "Fairfax County / coords 38.7400, -77.0600", "Fairfax County / primary ZIP 22308", "Fairfax County / ZIP 22307 sector", "Fairfax County / elevation 39 ft band"]
+zillowHomeValueUsd: 976008
 ---
 
 **Engineering Notice for Fort Hunt:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Fairfax County.

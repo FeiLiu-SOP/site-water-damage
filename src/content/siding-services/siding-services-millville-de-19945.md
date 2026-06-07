@@ -12,6 +12,7 @@ lng: -75.1300
 zipSample: ["19945", "19967"]
 zipCodes: ["19967", "19945"]
 localPaths: ["Sussex County / primary ZIP 19945", "Sussex County / ZIP 19945 sector", "Sussex County / ZIP 19967 sector", "Sussex County / elevation 10 ft band", "Sussex County / coords 38.5400, -75.1300"]
+zillowHomeValueUsd: 483329
 ---
 
 **Engineering Notice for Millville:** Cladding verification uses 94 mph routing baseline; lateral pressure note: 12.5 psf. Elevation: 10 ft AMSL. Coordinates: 38.5400, -75.1300. Grid: Sussex County.

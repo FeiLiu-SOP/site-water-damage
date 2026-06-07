@@ -12,6 +12,7 @@ lng: -75.6900
 zipSample: ["21830"]
 zipCodes: ["21830"]
 localPaths: ["Wicomico County / elevation 39 ft band", "Wicomico County / coords 38.4200, -75.6900", "Wicomico County / primary ZIP 21830", "Wicomico County / ZIP 21830 sector"]
+zillowHomeValueUsd: 315907
 ---
 
 **Engineering Notice for Hebron:** Panel Replacement was validated under stress factor 1.21; target tolerance set near 107 mph. Grid anchor: Wicomico County.

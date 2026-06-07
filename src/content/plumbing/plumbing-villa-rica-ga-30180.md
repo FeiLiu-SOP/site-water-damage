@@ -12,6 +12,7 @@ lng: -84.9200
 zipSample: ["30180"]
 zipCodes: ["30180"]
 localPaths: ["Carroll County / primary ZIP 30180", "Carroll County / coords 33.7300, -84.9200", "Carroll County / ZIP 30180 sector", "Carroll County / elevation 1155 ft band"]
+zillowHomeValueUsd: 311931
 ---
 
 **Engineering Notice for Villa Rica:** Structural loading calculated based on 1155 ft terrain assessment. Regional dispatch grid: Carroll County.

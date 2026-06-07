@@ -12,6 +12,7 @@ lng: -78.3700
 zipSample: ["15537"]
 zipCodes: ["15537"]
 localPaths: ["Bedford County / coords 40.0100, -78.3700", "Bedford County / elevation 1109 ft band", "Bedford County / ZIP 15537 sector", "Bedford County / primary ZIP 15537"]
+zillowHomeValueUsd: 205675
 ---
 
 **Engineering Notice for Everett:** Site context locked to Bedford County. Elevation: 1109 ft AMSL. Coordinates: 40.0100, -78.3700. Panel Replacement integrity verification recorded.

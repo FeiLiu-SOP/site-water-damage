@@ -12,6 +12,7 @@ lng: -75.9700
 zipSample: ["19533"]
 zipCodes: ["19533"]
 localPaths: ["Berks County / elevation 282 ft band", "Berks County / primary ZIP 19533", "Berks County / coords 40.4500, -75.9700", "Berks County / ZIP 19533 sector"]
+zillowHomeValueUsd: 358842
 ---
 
 **Engineering Notice for Leesport:** Cladding Retrofit was validated under stress factor 0.72; target tolerance set near 94 mph. Grid anchor: Berks County.

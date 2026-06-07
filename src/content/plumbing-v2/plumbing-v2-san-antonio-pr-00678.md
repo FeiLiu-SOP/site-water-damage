@@ -12,6 +12,8 @@ lng: -66.9300
 zipSample: ["00678"]
 zipCodes: ["00678"]
 localPaths: ["Quebradillas County / ZIP 00678 sector", "Quebradillas County / elevation 620 ft band", "Quebradillas County / coords 18.4400, -66.9300", "Quebradillas County / primary ZIP 00678"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 377615
 ---
 
 **Engineering Notice for San Antonio:** System optimized for 152 mg/L hard water scaling factors in San Antonio. Regional dispatch grid: Quebradillas County.

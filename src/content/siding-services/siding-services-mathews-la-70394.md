@@ -12,6 +12,7 @@ lng: -90.5600
 zipSample: ["70394"]
 zipCodes: ["70394"]
 localPaths: ["Lafourche Parish / ZIP 70394 sector", "Lafourche Parish / elevation 10 ft band", "Lafourche Parish / coords 29.6800, -90.5600", "Lafourche Parish / primary ZIP 70394"]
+zillowHomeValueUsd: 175303
 ---
 
 **Engineering Notice for Mathews:** Site context locked to Lafourche Parish. Wall Restoration integrity verification recorded.

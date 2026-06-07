@@ -11,6 +11,7 @@ lng: -81.8000
 zipSample: ["33868", "33823"]
 zipCodes: ["33868", "33823"]
 localPaths: ["Polk County / ZIP 33823 sector", "Polk County / ZIP 33868 sector", "Polk County / elevation 138 ft band", "Polk County / primary ZIP 33868", "Polk County / coords 28.1000, -81.8000"]
+zillowHomeValueUsd: 261024
 ---
 
 **Engineering Notice for Auburndale:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Polk County.

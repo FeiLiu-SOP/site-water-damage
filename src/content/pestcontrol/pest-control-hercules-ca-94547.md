@@ -11,6 +11,7 @@ lng: -122.2600
 zipSample: ["94572", "94547"]
 zipCodes: ["94572", "94547"]
 localPaths: ["Contra Costa County / elevation 154 ft band", "Contra Costa County / coords 38.0100, -122.2600", "Contra Costa County / ZIP 94547 sector", "Contra Costa County / primary ZIP 94547", "Contra Costa County / ZIP 94572 sector"]
+zillowHomeValueUsd: 754566
 ---
 
 **Engineering Notice for Hercules:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Contra Costa County.

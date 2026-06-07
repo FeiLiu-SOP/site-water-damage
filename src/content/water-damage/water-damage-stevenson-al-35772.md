@@ -12,6 +12,7 @@ lng: -85.8400
 zipSample: ["35772"]
 zipCodes: ["35772"]
 localPaths: ["Jackson County / ZIP 35772 sector", "Jackson County / elevation 594 ft band", "Jackson County / coords 34.8500, -85.8400", "Jackson County / primary ZIP 35772"]
+zillowHomeValueUsd: 176451
 ---
 
 **Engineering Notice for Stevenson:** structural drying capacity optimized for 594ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jackson County. Relative Humidity Threshold: 80%. Sensor sync: Active.

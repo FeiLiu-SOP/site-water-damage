@@ -12,6 +12,7 @@ lng: -85.2400
 zipSample: ["36312"]
 zipCodes: ["36312"]
 localPaths: ["Houston County / coords 31.1900, -85.2400", "Houston County / ZIP 36312 sector", "Houston County / elevation 259 ft band", "Houston County / primary ZIP 36312"]
+zillowHomeValueUsd: 194322
 ---
 
 **Engineering Notice for Ashford:** Structural integrity verification: Surface Sheathing calibrated for 109 mph localized wind load factor. Coordinates: 31.1900, -85.2400. Regional dispatch grid: Houston County.

@@ -11,6 +11,7 @@ lng: -87.3000
 zipSample: ["32512", "32507", "32511", "32516", "32506"]
 zipCodes: ["32512", "32511", "32516", "32506", "32507"]
 localPaths: ["Escambia County / ZIP 32512 sector", "Escambia County / coords 30.4200, -87.3000", "Escambia County / ZIP 32507 sector", "Escambia County / ZIP 32511 sector", "Escambia County / primary ZIP 32506"]
+zillowHomeValueUsd: 243705
 ---
 
 **Engineering Notice for Myrtle Grove:** Structural loading calculated based on 89 ft terrain assessment. Regional dispatch grid: Escambia County.

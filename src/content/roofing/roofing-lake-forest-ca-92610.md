@@ -11,6 +11,7 @@ lng: -117.6700
 zipSample: ["92609", "92630", "92610"]
 zipCodes: ["92610", "92609", "92630"]
 localPaths: ["Orange County / ZIP 92609 sector", "Orange County / coords 33.6600, -117.6700", "Orange County / primary ZIP 92610", "Orange County / ZIP 92610 sector", "Orange County / ZIP 92630 sector"]
+zillowHomeValueUsd: 1272009
 ---
 
 **Engineering Notice for Lake Forest:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: Orange County.

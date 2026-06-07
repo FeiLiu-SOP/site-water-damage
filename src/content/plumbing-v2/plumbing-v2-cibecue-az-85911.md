@@ -12,6 +12,8 @@ lng: -110.4900
 zipSample: ["85911"]
 zipCodes: ["85911"]
 localPaths: ["Navajo County / coords 34.0300, -110.4900", "Navajo County / elevation 4967 ft band", "Navajo County / primary ZIP 85911", "Navajo County / ZIP 85911 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 440482
 ---
 
 **Engineering Notice for Cibecue:** System optimized for 121 mg/L hard water scaling factors in Cibecue. Regional dispatch grid: Navajo County.

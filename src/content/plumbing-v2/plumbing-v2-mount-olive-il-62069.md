@@ -12,6 +12,7 @@ lng: -89.7300
 zipSample: ["62069"]
 zipCodes: ["62069"]
 localPaths: ["Macoupin County / elevation 682 ft band", "Macoupin County / ZIP 62069 sector", "Macoupin County / coords 39.0700, -89.7300", "Macoupin County / primary ZIP 62069"]
+zillowHomeValueUsd: 102859
 ---
 
 **Engineering Notice for Mount Olive:** System optimized for 152 mg/L hard water scaling factors in Mount Olive. Regional dispatch grid: Macoupin County.

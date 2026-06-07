@@ -12,6 +12,7 @@ lng: -71.7500
 zipSample: ["02808", "02891"]
 zipCodes: ["02891", "02808"]
 localPaths: ["Washington County / ZIP 02808 sector", "Washington County / coords 41.3900, -71.7500", "Washington County / elevation 79 ft band", "Washington County / ZIP 02891 sector", "Washington County / primary ZIP 02891"]
+zillowHomeValueUsd: 621613
 ---
 
 **Engineering Notice for Bradford:** Cladding verification uses 91 mph routing baseline; lateral pressure note: 12.1 psf. Elevation: 79 ft AMSL. Coordinates: 41.3900, -71.7500. Grid: Washington County.

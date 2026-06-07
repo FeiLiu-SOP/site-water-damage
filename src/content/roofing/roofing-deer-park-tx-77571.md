@@ -11,6 +11,7 @@ lng: -95.1200
 zipSample: ["77571", "77536"]
 zipCodes: ["77571", "77536"]
 localPaths: ["Harris County / elevation 39 ft band", "Harris County / ZIP 77571 sector", "Harris County / ZIP 77536 sector", "Harris County / coords 29.6900, -95.1200", "Harris County / primary ZIP 77571"]
+zillowHomeValueUsd: 257189
 ---
 
 **Engineering Notice for Deer Park:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Harris County.

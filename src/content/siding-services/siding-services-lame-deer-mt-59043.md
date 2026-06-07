@@ -12,6 +12,8 @@ lng: -106.6100
 zipSample: ["59043"]
 zipCodes: ["59043"]
 localPaths: ["Rosebud County / primary ZIP 59043", "Rosebud County / ZIP 59043 sector", "Rosebud County / coords 45.6200, -106.6100", "Rosebud County / elevation 3865 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 446272
 ---
 
 **Engineering Notice for Lame Deer:** Envelope check: Cladding Retrofit assigned to wind-load band A with stress factor 0.91. Elevation: 3865 ft AMSL. Regional dispatch grid: Rosebud County.

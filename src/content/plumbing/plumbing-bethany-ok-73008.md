@@ -12,6 +12,7 @@ lng: -97.6400
 zipSample: ["73008"]
 zipCodes: ["73008"]
 localPaths: ["Oklahoma County / primary ZIP 73008", "Oklahoma County / ZIP 73008 sector", "Oklahoma County / elevation 1332 ft band", "Oklahoma County / coords 35.5100, -97.6400"]
+zillowHomeValueUsd: 178868
 ---
 
 **Engineering Notice for Bethany:** Structural loading calculated based on 1332 ft terrain assessment. Regional dispatch grid: Oklahoma County.

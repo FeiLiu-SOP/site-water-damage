@@ -12,6 +12,7 @@ lng: -117.2800
 zipSample: ["97828"]
 zipCodes: ["97828"]
 localPaths: ["Wallowa County / ZIP 97828 sector", "Wallowa County / primary ZIP 97828", "Wallowa County / elevation 3753 ft band", "Wallowa County / coords 45.4300, -117.2800"]
+zillowHomeValueUsd: 419621
 ---
 
 **Engineering Notice for Enterprise:** structural drying capacity optimized for 3753ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wallowa County. Relative Humidity Threshold: 82%. Sensor sync: Active.

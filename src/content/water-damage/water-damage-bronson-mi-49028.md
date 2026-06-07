@@ -12,6 +12,7 @@ lng: -85.1900
 zipSample: ["49028"]
 zipCodes: ["49028"]
 localPaths: ["Branch County / coords 41.8700, -85.1900", "Branch County / elevation 925 ft band", "Branch County / ZIP 49028 sector", "Branch County / primary ZIP 49028"]
+zillowHomeValueUsd: 175256
 ---
 
 **Engineering Notice for Bronson:** structural drying capacity optimized for 925ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Branch County. Relative Humidity Threshold: 70%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -95.6200
 zipSample: ["74523"]
 zipCodes: ["74523"]
 localPaths: ["Pushmataha County / ZIP 74523 sector", "Pushmataha County / elevation 525 ft band", "Pushmataha County / coords 34.2300, -95.6200", "Pushmataha County / primary ZIP 74523"]
+zillowHomeValueUsd: 143087
 ---
 
 **Engineering Notice for Antlers:** Envelope check: Cladding Retrofit assigned to wind-load band A with stress factor 1.24. Elevation: 525 ft AMSL. Regional dispatch grid: Pushmataha County.

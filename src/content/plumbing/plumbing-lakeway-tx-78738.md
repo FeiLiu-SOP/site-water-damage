@@ -12,6 +12,7 @@ lng: -97.9900
 zipSample: ["78734", "78738"]
 zipCodes: ["78738", "78734"]
 localPaths: ["Travis County / ZIP 78738 sector", "Travis County / elevation 843 ft band", "Travis County / ZIP 78734 sector", "Travis County / primary ZIP 78738", "Travis County / coords 30.3500, -97.9900"]
+zillowHomeValueUsd: 840163
 ---
 
 **Engineering Notice for Lakeway:** Structural loading calculated based on 843 ft terrain assessment. Regional dispatch grid: Travis County.

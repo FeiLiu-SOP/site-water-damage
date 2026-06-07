@@ -12,6 +12,7 @@ lng: -112.1800
 zipSample: ["59422"]
 zipCodes: ["59422"]
 localPaths: ["Teton County / coords 47.8100, -112.1800", "Teton County / elevation 3829 ft band", "Teton County / ZIP 59422 sector", "Teton County / primary ZIP 59422"]
+zillowHomeValueUsd: 295654
 ---
 
 **Engineering Notice for Choteau:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 1.05. Regional dispatch grid: Teton County.

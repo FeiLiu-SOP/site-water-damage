@@ -12,6 +12,7 @@ lng: -80.0900
 zipSample: ["33410", "33420"]
 zipCodes: ["33420", "33410"]
 localPaths: ["Palm Beach County / primary ZIP 33410", "Palm Beach County / ZIP 33410 sector", "Palm Beach County / ZIP 33420 sector", "Palm Beach County / coords 26.8600, -80.0900", "Palm Beach County / elevation 20 ft band"]
+zillowHomeValueUsd: 579689
 ---
 
 **Engineering Notice for Cabana Colony:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Palm Beach County. Relative Humidity Threshold: 81%. Sensor sync: Active.

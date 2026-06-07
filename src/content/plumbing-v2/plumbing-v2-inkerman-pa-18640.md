@@ -12,6 +12,7 @@ lng: -75.8200
 zipSample: ["18702", "18640"]
 zipCodes: ["18702", "18640"]
 localPaths: ["Luzerne County / coords 41.3000, -75.8200", "Luzerne County / ZIP 18702 sector", "Luzerne County / elevation 787 ft band", "Luzerne County / primary ZIP 18640", "Luzerne County / ZIP 18640 sector"]
+zillowHomeValueUsd: 201812
 ---
 
 **Engineering Notice for Inkerman:** System optimized for 154 mg/L hard water scaling factors in Inkerman. Regional dispatch grid: Luzerne County.

@@ -12,6 +12,7 @@ lng: -81.1500
 zipSample: ["44021"]
 zipCodes: ["44021"]
 localPaths: ["Geauga County / primary ZIP 44021", "Geauga County / elevation 1322 ft band", "Geauga County / ZIP 44021 sector", "Geauga County / coords 41.4700, -81.1500"]
+zillowHomeValueUsd: 288429
 ---
 
 **Engineering Notice for Burton:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Elevation: 1322 ft AMSL. Grid: Geauga County.

@@ -11,6 +11,7 @@ lng: -87.9800
 zipSample: ["60181"]
 zipCodes: ["60181"]
 localPaths: ["DuPage County / coords 41.8900, -87.9800", "DuPage County / elevation 705 ft band", "DuPage County / primary ZIP 60181", "DuPage County / ZIP 60181 sector"]
+zillowHomeValueUsd: 358490
 ---
 
 **Engineering Notice for Villa Park:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: DuPage County.

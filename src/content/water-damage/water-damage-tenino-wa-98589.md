@@ -12,6 +12,7 @@ lng: -122.8600
 zipSample: ["98589"]
 zipCodes: ["98589"]
 localPaths: ["Thurston County / coords 46.8500, -122.8600", "Thurston County / primary ZIP 98589", "Thurston County / elevation 279 ft band", "Thurston County / ZIP 98589 sector"]
+zillowHomeValueUsd: 519403
 ---
 
 **Engineering Notice for Tenino:** structural drying capacity optimized for 279ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Thurston County. Relative Humidity Threshold: 78%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -73.1300
 zipSample: ["06614", "06615"]
 zipCodes: ["06615", "06614"]
 localPaths: ["Greater Bridgeport County / primary ZIP 06614", "Greater Bridgeport County / ZIP 06614 sector", "Greater Bridgeport County / elevation 23 ft band", "Greater Bridgeport County / ZIP 06615 sector", "Greater Bridgeport County / coords 41.2000, -73.1300"]
+zillowHomeValueUsd: 465823
 ---
 
 **Engineering Notice for Stratford Downtown:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Elevation: 23 ft AMSL. Grid: Greater Bridgeport County.

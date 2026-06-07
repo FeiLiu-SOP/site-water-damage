@@ -11,6 +11,7 @@ lng: -80.0700
 zipSample: ["33407", "33419", "33404"]
 zipCodes: ["33419", "33404", "33407"]
 localPaths: ["Palm Beach County / ZIP 33419 sector", "Palm Beach County / ZIP 33404 sector", "Palm Beach County / coords 26.7800, -80.0700", "Palm Beach County / ZIP 33407 sector", "Palm Beach County / elevation 30 ft band"]
+zillowHomeValueUsd: 347062
 ---
 
 **Engineering Notice for Riviera Beach:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Palm Beach County.

@@ -12,6 +12,7 @@ lng: -121.9300
 zipSample: ["97601", "97627"]
 zipCodes: ["97601", "97627"]
 localPaths: ["Klamath County / primary ZIP 97601", "Klamath County / elevation 4111 ft band", "Klamath County / coords 42.1300, -121.9300", "Klamath County / ZIP 97627 sector", "Klamath County / ZIP 97601 sector"]
+zillowHomeValueUsd: 273535
 ---
 
 **Engineering Notice for Keno:** Site context locked to Klamath County. Elevation: 4111 ft AMSL. Coordinates: 42.1300, -121.9300. Exterior Cladding integrity verification recorded.

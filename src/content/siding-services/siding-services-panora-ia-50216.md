@@ -12,6 +12,7 @@ lng: -94.3600
 zipSample: ["50216"]
 zipCodes: ["50216"]
 localPaths: ["Guthrie County / elevation 1073 ft band", "Guthrie County / coords 41.6900, -94.3600", "Guthrie County / primary ZIP 50216", "Guthrie County / ZIP 50216 sector"]
+zillowHomeValueUsd: 482069
 ---
 
 **Engineering Notice for Panora:** Structural integrity verification: Panel Replacement calibrated for 109 mph localized wind load factor. Elevation: 1073 ft AMSL. Regional dispatch grid: Guthrie County.

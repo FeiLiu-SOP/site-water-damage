@@ -11,6 +11,7 @@ lng: -118.0000
 zipSample: ["92647", "92648", "92615", "90742", "92646"]
 zipCodes: ["92649", "92647", "92605", "90742", "92615", "92646", "92648"]
 localPaths: ["Orange County / ZIP 90742 sector", "Orange County / ZIP 92648 sector", "Orange County / coords 33.7000, -118.0000", "Orange County / elevation 59 ft band", "Orange County / ZIP 92615 sector"]
+zillowHomeValueUsd: 1550214
 ---
 
 **Engineering Notice for Huntington Beach:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Orange County.

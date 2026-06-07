@@ -12,6 +12,7 @@ lng: -95.9100
 zipSample: ["75446"]
 zipCodes: ["75446"]
 localPaths: ["Fannin County / primary ZIP 75446", "Fannin County / elevation 673 ft band", "Fannin County / ZIP 75446 sector", "Fannin County / coords 33.5900, -95.9100"]
+zillowHomeValueUsd: 248134
 ---
 
 **Engineering Notice for Honey Grove:** System optimized for 130 mg/L hard water scaling factors in Honey Grove. Regional dispatch grid: Fannin County.

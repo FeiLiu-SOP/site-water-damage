@@ -12,6 +12,7 @@ lng: -86.2500
 zipSample: ["46501"]
 zipCodes: ["46501"]
 localPaths: ["Marshall County / primary ZIP 46501", "Marshall County / elevation 827 ft band", "Marshall County / ZIP 46501 sector", "Marshall County / coords 41.2400, -86.2500"]
+zillowHomeValueUsd: 219443
 ---
 
 **Engineering Notice for Argos:** Envelope check: Wall Restoration assigned to wind-load band A with stress factor 0.78. Regional dispatch grid: Marshall County.

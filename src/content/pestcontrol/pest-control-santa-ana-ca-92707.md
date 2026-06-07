@@ -11,6 +11,7 @@ lng: -117.8800
 zipSample: ["92706", "92703", "92704", "92799", "92701"]
 zipCodes: ["92704", "92799", "92707", "92705", "92735", "92706", "92703", "92702", "92701"]
 localPaths: ["Orange County / ZIP 92706 sector", "Orange County / ZIP 92799 sector", "Orange County / primary ZIP 92707", "Orange County / elevation 92 ft band", "Orange County / coords 33.7400, -117.8800"]
+zillowHomeValueUsd: 833478
 ---
 
 **Engineering Notice for Santa Ana:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Orange County.

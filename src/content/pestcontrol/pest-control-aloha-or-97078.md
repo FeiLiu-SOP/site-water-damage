@@ -11,6 +11,7 @@ lng: -122.8700
 zipSample: ["97003", "97007", "97078"]
 zipCodes: ["97007", "97078", "97003"]
 localPaths: ["Washington County / ZIP 97003 sector", "Washington County / primary ZIP 97078", "Washington County / elevation 200 ft band", "Washington County / coords 45.4900, -122.8700", "Washington County / ZIP 97078 sector"]
+zillowHomeValueUsd: 496302
 ---
 
 **Engineering Notice for Aloha:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Washington County.

@@ -12,6 +12,7 @@ lng: -77.4200
 zipSample: ["20166", "20164"]
 zipCodes: ["20166", "20164"]
 localPaths: ["Loudoun County / ZIP 20164 sector", "Loudoun County / coords 38.9800, -77.4200", "Loudoun County / ZIP 20166 sector", "Loudoun County / primary ZIP 20164", "Loudoun County / elevation 325 ft band"]
+zillowHomeValueUsd: 596637
 ---
 
 **Engineering Notice for Oak Grove:** Envelope check: Panel Replacement assigned to wind-load band C with stress factor 1.10. Elevation: 325 ft AMSL. Regional dispatch grid: Loudoun County.

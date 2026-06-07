@@ -12,6 +12,7 @@ lng: -122.8800
 zipSample: ["97053", "97056"]
 zipCodes: ["97056", "97053"]
 localPaths: ["Columbia County / ZIP 97053 sector", "Columbia County / ZIP 97056 sector", "Columbia County / primary ZIP 97056", "Columbia County / elevation 184 ft band", "Columbia County / coords 45.8100, -122.8800"]
+zillowHomeValueUsd: 490886
 ---
 
 **Engineering Notice for Warren:** System optimized for 125 mg/L hard water scaling factors in Warren. Regional dispatch grid: Columbia County.

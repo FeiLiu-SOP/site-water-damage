@@ -12,6 +12,7 @@ lng: -71.9000
 zipSample: ["06234"]
 zipCodes: ["06234"]
 localPaths: ["Northeastern Connecticut County / primary ZIP 06234", "Northeastern Connecticut County / coords 41.8000, -71.9000", "Northeastern Connecticut County / ZIP 06234 sector", "Northeastern Connecticut County / elevation 243 ft band"]
+zillowHomeValueUsd: 409575
 ---
 
 **Engineering Notice for East Brooklyn:** Cladding Retrofit was validated under stress factor 0.96; target tolerance set near 96 mph. Coordinates: 41.8000, -71.9000. Grid anchor: Northeastern Connecticut County.

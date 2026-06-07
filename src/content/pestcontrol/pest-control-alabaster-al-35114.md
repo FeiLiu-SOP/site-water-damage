@@ -11,6 +11,7 @@ lng: -86.8200
 zipSample: ["35114", "35007"]
 zipCodes: ["35114", "35007"]
 localPaths: ["Shelby County / ZIP 35007 sector", "Shelby County / coords 33.2200, -86.8200", "Shelby County / ZIP 35114 sector", "Shelby County / primary ZIP 35114", "Shelby County / elevation 495 ft band"]
+zillowHomeValueUsd: 344580
 ---
 
 **Engineering Notice for Alabaster:** Structural loading calculated based on 495 ft terrain assessment. Regional dispatch grid: Shelby County.

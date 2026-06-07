@@ -12,6 +12,7 @@ lng: -119.7500
 zipSample: ["89711", "89703", "89713", "89712", "89714"]
 zipCodes: ["89712", "89713", "89711", "89703", "89706", "89714", "89701"]
 localPaths: ["Carson City County / ZIP 89712 sector", "Carson City County / coords 39.1500, -119.7500", "Carson City County / ZIP 89711 sector", "Carson City County / ZIP 89703 sector", "Carson City County / primary ZIP 89701"]
+zillowHomeValueUsd: 475356
 ---
 
 **Engineering Notice for Carson City:** Structural loading calculated based on 4672 ft terrain assessment. Regional dispatch grid: Carson City County.

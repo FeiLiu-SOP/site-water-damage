@@ -12,6 +12,7 @@ lng: -84.4100
 zipSample: ["32333"]
 zipCodes: ["32333"]
 localPaths: ["Gadsden County / primary ZIP 32333", "Gadsden County / ZIP 32333 sector", "Gadsden County / elevation 285 ft band", "Gadsden County / coords 30.6300, -84.4100"]
+zillowHomeValueUsd: 266149
 ---
 
 **Engineering Notice for Havana:** System optimized for 137 mg/L hard water scaling factors in Havana. Regional dispatch grid: Gadsden County.

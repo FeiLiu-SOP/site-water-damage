@@ -12,6 +12,7 @@ lng: -92.9600
 zipSample: ["71910", "71909"]
 zipCodes: ["71910", "71909"]
 localPaths: ["Garland County / coords 34.6600, -92.9600", "Garland County / ZIP 71909 sector", "Garland County / primary ZIP 71909", "Garland County / ZIP 71910 sector", "Garland County / elevation 650 ft band"]
+zillowHomeValueUsd: 305746
 ---
 
 **Engineering Notice for Hot Springs Village:** Structural loading calculated based on 650 ft terrain assessment. Regional dispatch grid: Garland County.

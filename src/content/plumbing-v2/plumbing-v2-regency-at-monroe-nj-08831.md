@@ -12,6 +12,7 @@ lng: -74.3900
 zipSample: ["08831"]
 zipCodes: ["08831"]
 localPaths: ["Middlesex County / elevation 125 ft band", "Middlesex County / coords 40.3200, -74.3900", "Middlesex County / ZIP 08831 sector", "Middlesex County / primary ZIP 08831"]
+zillowHomeValueUsd: 602346
 ---
 
 **Engineering Notice for Regency at Monroe:** System optimized for 150 mg/L hard water scaling factors in Regency at Monroe. Regional dispatch grid: Middlesex County.

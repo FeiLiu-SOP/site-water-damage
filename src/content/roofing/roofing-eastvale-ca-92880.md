@@ -11,6 +11,7 @@ lng: -117.5800
 zipSample: ["91752", "92880"]
 zipCodes: ["92880", "91752"]
 localPaths: ["Riverside County / coords 33.9600, -117.5800", "Riverside County / ZIP 91752 sector", "Riverside County / elevation 617 ft band", "Riverside County / primary ZIP 92880", "Riverside County / ZIP 92880 sector"]
+zillowHomeValueUsd: 954192
 ---
 
 **Engineering Notice for Eastvale:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: Riverside County.

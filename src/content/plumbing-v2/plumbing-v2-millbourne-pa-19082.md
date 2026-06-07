@@ -12,6 +12,7 @@ lng: -75.2500
 zipSample: ["19082"]
 zipCodes: ["19082"]
 localPaths: ["Delaware County / primary ZIP 19082", "Delaware County / ZIP 19082 sector", "Delaware County / coords 39.9600, -75.2500", "Delaware County / elevation 125 ft band"]
+zillowHomeValueUsd: 201354
 ---
 
 **Engineering Notice for Millbourne:** System optimized for 177 mg/L hard water scaling factors in Millbourne. Regional dispatch grid: Delaware County.

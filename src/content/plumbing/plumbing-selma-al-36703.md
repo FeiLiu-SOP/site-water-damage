@@ -12,6 +12,7 @@ lng: -87.0300
 zipSample: ["36703", "36701", "36702"]
 zipCodes: ["36703", "36702", "36701"]
 localPaths: ["Dallas County / primary ZIP 36703", "Dallas County / ZIP 36702 sector", "Dallas County / ZIP 36703 sector", "Dallas County / coords 32.4200, -87.0300", "Dallas County / ZIP 36701 sector"]
+zillowHomeValueUsd: 62494
 ---
 
 **Engineering Notice for Selma:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Dallas County.

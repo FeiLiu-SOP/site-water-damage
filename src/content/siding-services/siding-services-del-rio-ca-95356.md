@@ -12,6 +12,7 @@ lng: -121.0100
 zipSample: ["95356"]
 zipCodes: ["95356"]
 localPaths: ["Stanislaus County / ZIP 95356 sector", "Stanislaus County / primary ZIP 95356", "Stanislaus County / elevation 141 ft band", "Stanislaus County / coords 37.7400, -121.0100"]
+zillowHomeValueUsd: 524431
 ---
 
 **Engineering Notice for Del Rio:** Envelope check: Facade Renewal assigned to wind-load band B with stress factor 1.09. Elevation: 141 ft AMSL. Regional dispatch grid: Stanislaus County.

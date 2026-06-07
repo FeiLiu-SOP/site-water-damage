@@ -12,6 +12,7 @@ lng: -97.1500
 zipSample: ["76240", "76241"]
 zipCodes: ["76240", "76241"]
 localPaths: ["Cooke County / elevation 778 ft band", "Cooke County / ZIP 76240 sector", "Cooke County / primary ZIP 76240", "Cooke County / ZIP 76241 sector", "Cooke County / coords 33.6400, -97.1500"]
+zillowHomeValueUsd: 278373
 ---
 
 **Engineering Notice for Gainesville:** Structural loading calculated based on 778 ft terrain assessment. Regional dispatch grid: Cooke County.

@@ -12,6 +12,7 @@ lng: -107.8900
 zipSample: ["87021", "87020"]
 zipCodes: ["87021", "87020"]
 localPaths: ["Cibola County / ZIP 87020 sector", "Cibola County / elevation 6532 ft band", "Cibola County / primary ZIP 87020", "Cibola County / coords 35.1900, -107.8900", "Cibola County / ZIP 87021 sector"]
+zillowHomeValueUsd: 154691
 ---
 
 **Engineering Notice for Milan:** Site context locked to Cibola County. Cladding Service integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -77.4100
 zipSample: ["20164", "20167"]
 zipCodes: ["20164", "20167"]
 localPaths: ["Loudoun County / ZIP 20164 sector", "Loudoun County / ZIP 20167 sector", "Loudoun County / coords 39.0100, -77.4100", "Loudoun County / primary ZIP 20164", "Loudoun County / elevation 335 ft band"]
+zillowHomeValueUsd: 596635
 ---
 
 **Engineering Notice for Sterling:** Structural loading calculated based on 335 ft terrain assessment. Regional dispatch grid: Loudoun County.

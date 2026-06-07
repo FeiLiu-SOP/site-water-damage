@@ -11,6 +11,7 @@ lng: -76.9600
 zipSample: ["20748"]
 zipCodes: ["20748"]
 localPaths: ["Prince George's County / coords 38.8400, -76.9600", "Prince George's County / ZIP 20748 sector", "Prince George's County / primary ZIP 20748", "Prince George's County / elevation 276 ft band"]
+zillowHomeValueUsd: 364503
 ---
 
 **Engineering Notice for Hillcrest Heights:** Structural loading calculated based on 276 ft terrain assessment. Regional dispatch grid: Prince George's County.

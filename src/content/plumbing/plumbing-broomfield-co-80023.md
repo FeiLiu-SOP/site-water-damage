@@ -12,6 +12,7 @@ lng: -105.0500
 zipSample: ["80038", "80020", "80021", "80023", "80516"]
 zipCodes: ["80516", "80023", "80038", "80021", "80020"]
 localPaths: ["Broomfield County / ZIP 80020 sector", "Broomfield County / ZIP 80516 sector", "Broomfield County / coords 39.9500, -105.0500", "Broomfield County / ZIP 80038 sector", "Broomfield County / ZIP 80021 sector"]
+zillowHomeValueUsd: 825367
 ---
 
 **Engineering Notice for Broomfield:** Structural loading calculated based on 5351 ft terrain assessment. Regional dispatch grid: Broomfield County.

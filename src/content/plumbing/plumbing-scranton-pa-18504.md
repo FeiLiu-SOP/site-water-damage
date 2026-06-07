@@ -12,6 +12,7 @@ lng: -75.6600
 zipSample: ["18540", "18510", "18515", "18504", "18503"]
 zipCodes: ["18515", "18505", "18503", "18507", "18508", "18510", "18540", "18504", "18509"]
 localPaths: ["Lackawanna County / coords 41.4000, -75.6600", "Lackawanna County / ZIP 18540 sector", "Lackawanna County / elevation 748 ft band", "Lackawanna County / primary ZIP 18504", "Lackawanna County / ZIP 18515 sector"]
+zillowHomeValueUsd: 177403
 ---
 
 **Engineering Notice for Scranton:** Structural loading calculated based on 748 ft terrain assessment. Regional dispatch grid: Lackawanna County.

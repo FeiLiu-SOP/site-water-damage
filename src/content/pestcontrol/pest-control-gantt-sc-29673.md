@@ -11,6 +11,7 @@ lng: -82.4000
 zipSample: ["29673", "29605"]
 zipCodes: ["29673", "29605"]
 localPaths: ["Greenville County / elevation 961 ft band", "Greenville County / ZIP 29605 sector", "Greenville County / ZIP 29673 sector", "Greenville County / coords 34.7800, -82.4000", "Greenville County / primary ZIP 29673"]
+zillowHomeValueUsd: 302689
 ---
 
 **Engineering Notice for Gantt:** Structural loading calculated based on 961 ft terrain assessment. Regional dispatch grid: Greenville County.

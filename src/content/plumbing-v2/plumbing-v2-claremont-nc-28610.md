@@ -12,6 +12,7 @@ lng: -81.1500
 zipSample: ["28610"]
 zipCodes: ["28610"]
 localPaths: ["Catawba County / elevation 965 ft band", "Catawba County / primary ZIP 28610", "Catawba County / coords 35.7100, -81.1500", "Catawba County / ZIP 28610 sector"]
+zillowHomeValueUsd: 259552
 ---
 
 **Engineering Notice for Claremont:** System optimized for 171 mg/L hard water scaling factors in Claremont. Regional dispatch grid: Catawba County.

@@ -12,6 +12,7 @@ lng: -89.7700
 zipSample: ["61491"]
 zipCodes: ["61491"]
 localPaths: ["Stark County / ZIP 61491 sector", "Stark County / coords 41.0600, -89.7700", "Stark County / elevation 722 ft band", "Stark County / primary ZIP 61491"]
+zillowHomeValueUsd: 134725
 ---
 
 **Engineering Notice for Wyoming:** Cladding Retrofit was validated under stress factor 0.84; target tolerance set near 99 mph. Grid anchor: Stark County.

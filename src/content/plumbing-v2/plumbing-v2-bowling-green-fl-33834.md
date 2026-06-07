@@ -12,6 +12,7 @@ lng: -81.8200
 zipSample: ["33834"]
 zipCodes: ["33834"]
 localPaths: ["Hardee County / primary ZIP 33834", "Hardee County / coords 27.6400, -81.8200", "Hardee County / ZIP 33834 sector", "Hardee County / elevation 138 ft band"]
+zillowHomeValueUsd: 197467
 ---
 
 **Engineering Notice for Bowling Green:** System optimized for 177 mg/L hard water scaling factors in Bowling Green. Regional dispatch grid: Hardee County.

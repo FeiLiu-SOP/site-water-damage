@@ -12,6 +12,7 @@ lng: -76.3000
 zipSample: ["13135"]
 zipCodes: ["13135"]
 localPaths: ["Oswego County / ZIP 13135 sector", "Oswego County / primary ZIP 13135", "Oswego County / elevation 384 ft band", "Oswego County / coords 43.2300, -76.3000"]
+zillowHomeValueUsd: 236541
 ---
 
 **Engineering Notice for Phoenix:** structural drying capacity optimized for 384ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Oswego County. Relative Humidity Threshold: 81%. Sensor sync: Active.

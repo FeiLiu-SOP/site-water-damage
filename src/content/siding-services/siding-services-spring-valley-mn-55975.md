@@ -12,6 +12,7 @@ lng: -92.3900
 zipSample: ["55975"]
 zipCodes: ["55975"]
 localPaths: ["Fillmore County / ZIP 55975 sector", "Fillmore County / elevation 1276 ft band", "Fillmore County / primary ZIP 55975", "Fillmore County / coords 43.6900, -92.3900"]
+zillowHomeValueUsd: 262995
 ---
 
 **Engineering Notice for Spring Valley:** Structural integrity verification: Surface Sheathing calibrated for 97 mph localized wind load factor. Coordinates: 43.6900, -92.3900. Regional dispatch grid: Fillmore County.

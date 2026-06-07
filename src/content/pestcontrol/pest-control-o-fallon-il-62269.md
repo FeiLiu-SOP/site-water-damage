@@ -11,6 +11,7 @@ lng: -89.9100
 zipSample: ["62269"]
 zipCodes: ["62269"]
 localPaths: ["St. Clair County / primary ZIP 62269", "St. Clair County / elevation 548 ft band", "St. Clair County / coords 38.6000, -89.9100", "St. Clair County / ZIP 62269 sector"]
+zillowHomeValueUsd: 306897
 ---
 
 **Engineering Notice for O'Fallon:** Structural loading calculated based on 548 ft terrain assessment. Regional dispatch grid: St. Clair County.

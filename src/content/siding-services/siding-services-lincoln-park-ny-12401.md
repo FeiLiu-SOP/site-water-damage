@@ -12,6 +12,7 @@ lng: -74.0000
 zipSample: ["12401"]
 zipCodes: ["12401"]
 localPaths: ["Ulster County / primary ZIP 12401", "Ulster County / elevation 184 ft band", "Ulster County / ZIP 12401 sector", "Ulster County / coords 41.9600, -74.0000"]
+zillowHomeValueUsd: 380962
 ---
 
 **Engineering Notice for Lincoln Park:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Grid: Ulster County.

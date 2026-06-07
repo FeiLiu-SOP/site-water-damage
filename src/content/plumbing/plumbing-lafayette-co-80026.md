@@ -12,6 +12,7 @@ lng: -105.1000
 zipSample: ["80026"]
 zipCodes: ["80026"]
 localPaths: ["Boulder County / primary ZIP 80026", "Boulder County / ZIP 80026 sector", "Boulder County / elevation 5276 ft band", "Boulder County / coords 39.9900, -105.1000"]
+zillowHomeValueUsd: 674731
 ---
 
 **Engineering Notice for Lafayette:** Structural loading calculated based on 5276 ft terrain assessment. Regional dispatch grid: Boulder County.

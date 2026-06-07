@@ -12,6 +12,7 @@ lng: -80.6700
 zipSample: ["44505", "44420"]
 zipCodes: ["44505", "44420"]
 localPaths: ["Trumbull County / coords 41.1700, -80.6700", "Trumbull County / elevation 1083 ft band", "Trumbull County / primary ZIP 44420", "Trumbull County / ZIP 44505 sector", "Trumbull County / ZIP 44420 sector"]
+zillowHomeValueUsd: 142853
 ---
 
 **Engineering Notice for Churchill:** System optimized for 137 mg/L hard water scaling factors in Churchill. Regional dispatch grid: Trumbull County.

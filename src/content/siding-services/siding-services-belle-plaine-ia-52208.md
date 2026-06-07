@@ -12,6 +12,7 @@ lng: -92.2800
 zipSample: ["52208"]
 zipCodes: ["52208"]
 localPaths: ["Benton County / coords 41.9000, -92.2800", "Benton County / elevation 814 ft band", "Benton County / primary ZIP 52208", "Benton County / ZIP 52208 sector"]
+zillowHomeValueUsd: 156220
 ---
 
 **Engineering Notice for Belle Plaine:** Site context locked to Benton County. Wall Restoration integrity verification recorded.

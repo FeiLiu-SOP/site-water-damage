@@ -11,6 +11,7 @@ lng: -97.0700
 zipSample: ["76210", "76208"]
 zipCodes: ["76210", "76208"]
 localPaths: ["Denton County / coords 33.1400, -97.0700", "Denton County / ZIP 76208 sector", "Denton County / elevation 636 ft band", "Denton County / ZIP 76210 sector", "Denton County / primary ZIP 76208"]
+zillowHomeValueUsd: 409502
 ---
 
 **Engineering Notice for Corinth:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Denton County.

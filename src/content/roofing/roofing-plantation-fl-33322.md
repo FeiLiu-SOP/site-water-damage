@@ -11,6 +11,7 @@ lng: -80.2600
 zipSample: ["33322", "33318", "33325", "33323", "33388"]
 zipCodes: ["33317", "33325", "33313", "33388", "33329", "33322", "33318", "33323", "33324"]
 localPaths: ["Broward County / ZIP 33325 sector", "Broward County / primary ZIP 33322", "Broward County / ZIP 33322 sector", "Broward County / ZIP 33323 sector", "Broward County / ZIP 33318 sector"]
+zillowHomeValueUsd: 261595
 ---
 
 **Engineering Notice for Plantation:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Broward County.

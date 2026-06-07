@@ -12,6 +12,7 @@ lng: -79.9700
 zipSample: ["27025"]
 zipCodes: ["27025"]
 localPaths: ["Rockingham County / primary ZIP 27025", "Rockingham County / elevation 610 ft band", "Rockingham County / ZIP 27025 sector", "Rockingham County / coords 36.3900, -79.9700"]
+zillowHomeValueUsd: 223374
 ---
 
 **Engineering Notice for Madison:** System optimized for 169 mg/L hard water scaling factors in Madison. Regional dispatch grid: Rockingham County.

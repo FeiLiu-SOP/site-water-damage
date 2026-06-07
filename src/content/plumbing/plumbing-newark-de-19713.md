@@ -12,6 +12,7 @@ lng: -75.7600
 zipSample: ["19711", "19715", "19725", "19716", "19726"]
 zipCodes: ["19716", "19711", "19715", "19725", "19726", "19713", "19717"]
 localPaths: ["New Castle County / elevation 141 ft band", "New Castle County / primary ZIP 19713", "New Castle County / ZIP 19716 sector", "New Castle County / ZIP 19726 sector", "New Castle County / ZIP 19711 sector"]
+zillowHomeValueUsd: 315004
 ---
 
 **Engineering Notice for Newark:** Structural loading calculated based on 141 ft terrain assessment. Regional dispatch grid: New Castle County.

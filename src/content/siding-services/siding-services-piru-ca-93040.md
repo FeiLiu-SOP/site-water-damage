@@ -12,6 +12,7 @@ lng: -118.8000
 zipSample: ["93015", "93040"]
 zipCodes: ["93040", "93015"]
 localPaths: ["Ventura County / ZIP 93040 sector", "Ventura County / elevation 653 ft band", "Ventura County / primary ZIP 93040", "Ventura County / ZIP 93015 sector", "Ventura County / coords 34.4100, -118.8000"]
+zillowHomeValueUsd: 579488
 ---
 
 **Engineering Notice for Piru:** Structural integrity verification: Weather Barrier Wrap calibrated for 137 mph localized wind load factor. Coordinates: 34.4100, -118.8000. Regional dispatch grid: Ventura County.

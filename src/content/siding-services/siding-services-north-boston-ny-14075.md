@@ -12,6 +12,7 @@ lng: -78.7800
 zipSample: ["14110", "14075"]
 zipCodes: ["14075", "14110"]
 localPaths: ["Erie County / primary ZIP 14075", "Erie County / coords 42.6800, -78.7800", "Erie County / ZIP 14075 sector", "Erie County / elevation 889 ft band", "Erie County / ZIP 14110 sector"]
+zillowHomeValueUsd: 325820
 ---
 
 **Engineering Notice for North Boston:** Structural integrity verification: Panel Replacement calibrated for 91 mph localized wind load factor. Elevation: 889 ft AMSL. Regional dispatch grid: Erie County.

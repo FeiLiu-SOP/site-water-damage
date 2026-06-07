@@ -12,6 +12,7 @@ lng: -90.4300
 zipSample: ["63640"]
 zipCodes: ["63640"]
 localPaths: ["St. Francois County / coords 37.7800, -90.4300", "St. Francois County / primary ZIP 63640", "St. Francois County / ZIP 63640 sector", "St. Francois County / elevation 961 ft band"]
+zillowHomeValueUsd: 254779
 ---
 
 **Engineering Notice for Farmington:** Structural loading calculated based on 961 ft terrain assessment. Regional dispatch grid: St. Francois County.

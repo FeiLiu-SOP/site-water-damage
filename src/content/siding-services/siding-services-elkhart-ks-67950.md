@@ -12,6 +12,7 @@ lng: -101.8900
 zipSample: ["67950"]
 zipCodes: ["67950"]
 localPaths: ["Morton County / ZIP 67950 sector", "Morton County / primary ZIP 67950", "Morton County / coords 37.0000, -101.8900", "Morton County / elevation 3599 ft band"]
+zillowHomeValueUsd: 104078
 ---
 
 **Engineering Notice for Elkhart:** Envelope check: Cladding Retrofit assigned to wind-load band A with stress factor 1.12. Regional dispatch grid: Morton County.

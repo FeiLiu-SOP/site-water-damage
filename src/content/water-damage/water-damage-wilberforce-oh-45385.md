@@ -12,6 +12,7 @@ lng: -83.8800
 zipSample: ["45384", "45385"]
 zipCodes: ["45385", "45384"]
 localPaths: ["Greene County / elevation 1020 ft band", "Greene County / ZIP 45384 sector", "Greene County / ZIP 45385 sector", "Greene County / coords 39.7200, -83.8800", "Greene County / primary ZIP 45385"]
+zillowHomeValueUsd: 253909
 ---
 
 **Engineering Notice for Wilberforce:** structural drying capacity optimized for 1020ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Greene County. Relative Humidity Threshold: 66%. Sensor sync: Active.

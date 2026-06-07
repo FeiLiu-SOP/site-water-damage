@@ -12,6 +12,7 @@ lng: -92.0600
 zipSample: ["71280", "71211"]
 zipCodes: ["71211", "71280"]
 localPaths: ["Ouachita Parish / primary ZIP 71280", "Ouachita Parish / ZIP 71211 sector", "Ouachita Parish / elevation 85 ft band", "Ouachita Parish / ZIP 71280 sector", "Ouachita Parish / coords 32.6900, -92.0600"]
+zillowHomeValueUsd: 228981
 ---
 
 **Engineering Notice for Sterlington:** Site context locked to Ouachita Parish. Elevation: 85 ft AMSL. Coordinates: 32.6900, -92.0600. Facade Renewal integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -75.4600
 zipSample: ["19473", "19478"]
 zipCodes: ["19478", "19473"]
 localPaths: ["Montgomery County / primary ZIP 19473", "Montgomery County / ZIP 19478 sector", "Montgomery County / ZIP 19473 sector", "Montgomery County / elevation 220 ft band", "Montgomery County / coords 40.2800, -75.4600"]
+zillowHomeValueUsd: 535372
 ---
 
 **Engineering Notice for Spring Mount:** System optimized for 146 mg/L hard water scaling factors in Spring Mount. Regional dispatch grid: Montgomery County.

@@ -12,6 +12,7 @@ lng: -73.9300
 zipSample: ["10521", "10520"]
 zipCodes: ["10521", "10520"]
 localPaths: ["Westchester County / elevation 52 ft band", "Westchester County / ZIP 10520 sector", "Westchester County / primary ZIP 10520", "Westchester County / coords 41.2300, -73.9300", "Westchester County / ZIP 10521 sector"]
+zillowHomeValueUsd: 811462
 ---
 
 **Engineering Notice for Crugers:** System optimized for 123 mg/L hard water scaling factors in Crugers. Regional dispatch grid: Westchester County.

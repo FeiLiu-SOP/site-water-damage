@@ -12,6 +12,7 @@ lng: -86.7200
 zipSample: ["35171"]
 zipCodes: ["35171"]
 localPaths: ["Chilton County / elevation 692 ft band", "Chilton County / coords 32.9200, -86.7200", "Chilton County / ZIP 35171 sector", "Chilton County / primary ZIP 35171"]
+zillowHomeValueUsd: 225395
 ---
 
 **Engineering Notice for Thorsby:** structural drying capacity optimized for 692ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chilton County. Relative Humidity Threshold: 71%. Sensor sync: Active.

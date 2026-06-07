@@ -12,6 +12,7 @@ lng: -122.6500
 zipSample: ["97218", "97214", "97258", "97294", "97210"]
 zipCodes: ["97221", "97252", "97211", "97203", "97250", "97294", "97209", "97286", "97251", "97283", "97228", "97258"]
 localPaths: ["Multnomah County / elevation 171 ft band", "Multnomah County / primary ZIP 97227", "Multnomah County / coords 45.5400, -122.6500", "Multnomah County / ZIP 97210 sector", "Multnomah County / ZIP 97218 sector"]
+zillowHomeValueUsd: 562004
 ---
 
 **Engineering Notice for Portland:** Structural loading calculated based on 171 ft terrain assessment. Regional dispatch grid: Multnomah County.

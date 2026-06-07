@@ -12,6 +12,7 @@ lng: -88.1100
 zipSample: ["60189", "60187"]
 zipCodes: ["60187", "60189"]
 localPaths: ["DuPage County / elevation 761 ft band", "DuPage County / coords 41.8600, -88.1100", "DuPage County / primary ZIP 60187", "DuPage County / ZIP 60189 sector", "DuPage County / ZIP 60187 sector"]
+zillowHomeValueUsd: 490767
 ---
 
 **Engineering Notice for Wheaton:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: DuPage County.

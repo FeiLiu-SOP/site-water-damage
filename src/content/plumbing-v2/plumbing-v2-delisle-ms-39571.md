@@ -12,6 +12,7 @@ lng: -89.2700
 zipSample: ["39571"]
 zipCodes: ["39571"]
 localPaths: ["Harrison County / ZIP 39571 sector", "Harrison County / primary ZIP 39571", "Harrison County / coords 30.3800, -89.2700", "Harrison County / elevation 59 ft band"]
+zillowHomeValueUsd: 304031
 ---
 
 **Engineering Notice for DeLisle:** System optimized for 124 mg/L hard water scaling factors in DeLisle. Regional dispatch grid: Harrison County.

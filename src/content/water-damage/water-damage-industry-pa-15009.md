@@ -12,6 +12,7 @@ lng: -80.4100
 zipSample: ["15052", "15009"]
 zipCodes: ["15009", "15052"]
 localPaths: ["Beaver County / ZIP 15009 sector", "Beaver County / elevation 1129 ft band", "Beaver County / coords 40.6600, -80.4100", "Beaver County / primary ZIP 15009", "Beaver County / ZIP 15052 sector"]
+zillowHomeValueUsd: 270196
 ---
 
 **Engineering Notice for Industry:** structural drying capacity optimized for 1129ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Beaver County. Relative Humidity Threshold: 82%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -83.9600
 zipSample: ["45877"]
 zipCodes: ["45877"]
 localPaths: ["Putnam County / ZIP 45877 sector", "Putnam County / elevation 774 ft band", "Putnam County / primary ZIP 45877", "Putnam County / coords 40.9500, -83.9600"]
+zillowHomeValueUsd: 232184
 ---
 
 **Engineering Notice for Pandora:** System optimized for 140 mg/L hard water scaling factors in Pandora. Regional dispatch grid: Putnam County.

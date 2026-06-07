@@ -12,6 +12,7 @@ lng: -72.3100
 zipSample: ["11932", "11976", "11962"]
 zipCodes: ["11932", "11962", "11976"]
 localPaths: ["Suffolk County / ZIP 11962 sector", "Suffolk County / ZIP 11976 sector", "Suffolk County / ZIP 11932 sector", "Suffolk County / coords 40.9400, -72.3100", "Suffolk County / elevation 23 ft band"]
+zillowHomeValueUsd: 4586465
 ---
 
 **Engineering Notice for Bridgehampton:** Site context locked to Suffolk County. Elevation: 23 ft AMSL. Wall Restoration integrity verification recorded.

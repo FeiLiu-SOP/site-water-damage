@@ -12,6 +12,7 @@ lng: -83.9600
 zipSample: ["48658"]
 zipCodes: ["48658"]
 localPaths: ["Arenac County / coords 43.9800, -83.9600", "Arenac County / primary ZIP 48658", "Arenac County / elevation 627 ft band", "Arenac County / ZIP 48658 sector"]
+zillowHomeValueUsd: 152925
 ---
 
 **Engineering Notice for Standish:** structural drying capacity optimized for 627ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Arenac County. Relative Humidity Threshold: 65%. Sensor sync: Active.

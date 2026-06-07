@@ -11,6 +11,7 @@ lng: -97.7000
 zipSample: ["78551", "78552", "78553", "78550"]
 zipCodes: ["78551", "78553", "78552", "78550"]
 localPaths: ["Cameron County / coords 26.1900, -97.7000", "Cameron County / ZIP 78552 sector", "Cameron County / elevation 56 ft band", "Cameron County / primary ZIP 78550", "Cameron County / ZIP 78551 sector"]
+zillowHomeValueUsd: 176116
 ---
 
 **Engineering Notice for Harlingen:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Cameron County.

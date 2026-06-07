@@ -12,6 +12,7 @@ lng: -90.2700
 zipSample: ["70357"]
 zipCodes: ["70357"]
 localPaths: ["Lafourche Parish / elevation 7 ft band", "Lafourche Parish / coords 29.3900, -90.2700", "Lafourche Parish / primary ZIP 70357", "Lafourche Parish / ZIP 70357 sector"]
+zillowHomeValueUsd: 81770
 ---
 
 **Engineering Notice for Golden Meadow:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 1.18. Elevation: 7 ft AMSL. Regional dispatch grid: Lafourche Parish.

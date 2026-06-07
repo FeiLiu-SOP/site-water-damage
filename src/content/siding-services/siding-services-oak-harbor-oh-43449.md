@@ -12,6 +12,7 @@ lng: -83.1400
 zipSample: ["43449"]
 zipCodes: ["43449"]
 localPaths: ["Ottawa County / ZIP 43449 sector", "Ottawa County / elevation 577 ft band", "Ottawa County / primary ZIP 43449", "Ottawa County / coords 41.5100, -83.1400"]
+zillowHomeValueUsd: 204904
 ---
 
 **Engineering Notice for Oak Harbor:** Structural integrity verification: Exterior Cladding calibrated for 92 mph localized wind load factor. Elevation: 577 ft AMSL. Coordinates: 41.5100, -83.1400. Regional dispatch grid: Ottawa County.

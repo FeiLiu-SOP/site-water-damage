@@ -11,6 +11,7 @@ lng: -120.4800
 zipSample: ["95343", "95341", "95348", "95340"]
 zipCodes: ["95340", "95343", "95348", "95341"]
 localPaths: ["Merced County / ZIP 95343 sector", "Merced County / ZIP 95340 sector", "Merced County / primary ZIP 95348", "Merced County / ZIP 95341 sector", "Merced County / coords 37.3100, -120.4800"]
+zillowHomeValueUsd: 417767
 ---
 
 **Engineering Notice for Merced:** Structural loading calculated based on 190 ft terrain assessment. Regional dispatch grid: Merced County.

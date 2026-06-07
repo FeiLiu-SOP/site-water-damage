@@ -12,6 +12,7 @@ lng: -77.6900
 zipSample: ["16828"]
 zipCodes: ["16828"]
 localPaths: ["Centre County / elevation 1322 ft band", "Centre County / ZIP 16828 sector", "Centre County / primary ZIP 16828", "Centre County / coords 40.8400, -77.6900"]
+zillowHomeValueUsd: 334880
 ---
 
 **Engineering Notice for Centre Hall:** Cladding verification uses 90 mph routing baseline; lateral pressure note: 12.0 psf. Coordinates: 40.8400, -77.6900. Grid: Centre County.

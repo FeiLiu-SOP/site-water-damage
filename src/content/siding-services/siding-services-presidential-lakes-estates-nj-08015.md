@@ -12,6 +12,7 @@ lng: -74.5700
 zipSample: ["08015"]
 zipCodes: ["08015"]
 localPaths: ["Burlington County / ZIP 08015 sector", "Burlington County / elevation 131 ft band", "Burlington County / primary ZIP 08015", "Burlington County / coords 39.9200, -74.5700"]
+zillowHomeValueUsd: 325821
 ---
 
 **Engineering Notice for Presidential Lakes Estates:** Structural integrity verification: Cladding Service calibrated for 103 mph localized wind load factor. Elevation: 131 ft AMSL. Coordinates: 39.9200, -74.5700. Regional dispatch grid: Burlington County.

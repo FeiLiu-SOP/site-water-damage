@@ -11,6 +11,7 @@ lng: -122.6400
 zipSample: ["97068"]
 zipCodes: ["97068"]
 localPaths: ["Clackamas County / primary ZIP 97068", "Clackamas County / ZIP 97068 sector", "Clackamas County / coords 45.3700, -122.6400", "Clackamas County / elevation 673 ft band"]
+zillowHomeValueUsd: 773647
 ---
 
 **Engineering Notice for West Linn:** Structural loading calculated based on 673 ft terrain assessment. Regional dispatch grid: Clackamas County.

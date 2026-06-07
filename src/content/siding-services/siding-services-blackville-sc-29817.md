@@ -12,6 +12,7 @@ lng: -81.2800
 zipSample: ["29817"]
 zipCodes: ["29817"]
 localPaths: ["Barnwell County / elevation 279 ft band", "Barnwell County / primary ZIP 29817", "Barnwell County / ZIP 29817 sector", "Barnwell County / coords 33.3600, -81.2800"]
+zillowHomeValueUsd: 107710
 ---
 
 **Engineering Notice for Blackville:** Exterior Envelope was validated under stress factor 0.86; target tolerance set near 98 mph. Grid anchor: Barnwell County.

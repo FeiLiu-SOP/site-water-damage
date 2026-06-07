@@ -11,6 +11,7 @@ lng: -80.0800
 zipSample: ["33435", "33474", "33426", "33436"]
 zipCodes: ["33436", "33426", "33435", "33474"]
 localPaths: ["Palm Beach County / ZIP 33436 sector", "Palm Beach County / elevation 36 ft band", "Palm Beach County / ZIP 33474 sector", "Palm Beach County / primary ZIP 33426", "Palm Beach County / ZIP 33426 sector"]
+zillowHomeValueUsd: 336040
 ---
 
 **Engineering Notice for Boynton Beach:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Palm Beach County.

@@ -12,6 +12,7 @@ lng: -80.1200
 zipSample: ["33160"]
 zipCodes: ["33160"]
 localPaths: ["Miami-Dade County / coords 25.9400, -80.1200", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / primary ZIP 33160", "Miami-Dade County / ZIP 33160 sector"]
+zillowHomeValueUsd: 516009
 ---
 
 **Engineering Notice for Sunny Isles Beach:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

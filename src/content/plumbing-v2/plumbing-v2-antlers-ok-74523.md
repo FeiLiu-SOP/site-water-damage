@@ -12,6 +12,7 @@ lng: -95.6200
 zipSample: ["74523"]
 zipCodes: ["74523"]
 localPaths: ["Pushmataha County / ZIP 74523 sector", "Pushmataha County / coords 34.2300, -95.6200", "Pushmataha County / elevation 525 ft band", "Pushmataha County / primary ZIP 74523"]
+zillowHomeValueUsd: 143086
 ---
 
 **Engineering Notice for Antlers:** System optimized for 157 mg/L hard water scaling factors in Antlers. Regional dispatch grid: Pushmataha County.

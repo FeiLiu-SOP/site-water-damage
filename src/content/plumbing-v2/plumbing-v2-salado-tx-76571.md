@@ -12,6 +12,7 @@ lng: -97.5300
 zipSample: ["76571"]
 zipCodes: ["76571"]
 localPaths: ["Bell County / elevation 640 ft band", "Bell County / ZIP 76571 sector", "Bell County / coords 30.9500, -97.5300", "Bell County / primary ZIP 76571"]
+zillowHomeValueUsd: 510498
 ---
 
 **Engineering Notice for Salado:** System optimized for 135 mg/L hard water scaling factors in Salado. Regional dispatch grid: Bell County.

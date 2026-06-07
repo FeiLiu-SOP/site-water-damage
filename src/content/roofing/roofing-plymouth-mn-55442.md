@@ -11,6 +11,7 @@ lng: -93.4600
 zipSample: ["55446", "55442", "55441", "55447"]
 zipCodes: ["55442", "55446", "55447", "55441"]
 localPaths: ["Hennepin County / ZIP 55446 sector", "Hennepin County / coords 45.0200, -93.4600", "Hennepin County / ZIP 55447 sector", "Hennepin County / ZIP 55442 sector", "Hennepin County / ZIP 55441 sector"]
+zillowHomeValueUsd: 471707
 ---
 
 **Engineering Notice for Plymouth:** Structural loading calculated based on 955 ft terrain assessment. Regional dispatch grid: Hennepin County.

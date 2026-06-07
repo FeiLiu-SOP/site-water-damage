@@ -12,6 +12,7 @@ lng: -90.8200
 zipSample: ["63935"]
 zipCodes: ["63935"]
 localPaths: ["Ripley County / elevation 404 ft band", "Ripley County / ZIP 63935 sector", "Ripley County / coords 36.6200, -90.8200", "Ripley County / primary ZIP 63935"]
+zillowHomeValueUsd: 153561
 ---
 
 **Engineering Notice for Doniphan:** Structural integrity verification: Cladding Service calibrated for 108 mph localized wind load factor. Elevation: 404 ft AMSL. Coordinates: 36.6200, -90.8200. Regional dispatch grid: Ripley County.

@@ -12,6 +12,7 @@ lng: -78.5200
 zipSample: ["16833"]
 zipCodes: ["16833"]
 localPaths: ["Clearfield County / coords 40.9700, -78.5200", "Clearfield County / ZIP 16833 sector", "Clearfield County / elevation 1152 ft band", "Clearfield County / primary ZIP 16833"]
+zillowHomeValueUsd: 135095
 ---
 
 **Engineering Notice for Curwensville:** structural drying capacity optimized for 1152ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clearfield County. Relative Humidity Threshold: 71%. Sensor sync: Active.

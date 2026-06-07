@@ -12,6 +12,7 @@ lng: -85.8500
 zipSample: ["37356", "37375"]
 zipCodes: ["37356", "37375"]
 localPaths: ["Grundy County / ZIP 37375 sector", "Grundy County / elevation 1932 ft band", "Grundy County / ZIP 37356 sector", "Grundy County / coords 35.2400, -85.8500", "Grundy County / primary ZIP 37375"]
+zillowHomeValueUsd: 407846
 ---
 
 **Engineering Notice for Monteagle:** System optimized for 151 mg/L hard water scaling factors in Monteagle. Regional dispatch grid: Grundy County.

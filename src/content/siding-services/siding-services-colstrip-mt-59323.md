@@ -12,6 +12,7 @@ lng: -106.6300
 zipSample: ["59323"]
 zipCodes: ["59323"]
 localPaths: ["Rosebud County / coords 45.8900, -106.6300", "Rosebud County / elevation 3215 ft band", "Rosebud County / primary ZIP 59323", "Rosebud County / ZIP 59323 sector"]
+zillowHomeValueUsd: 224910
 ---
 
 **Engineering Notice for Colstrip:** Envelope check: Panel Replacement assigned to wind-load band A with stress factor 1.21. Regional dispatch grid: Rosebud County.

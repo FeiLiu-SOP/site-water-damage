@@ -11,6 +11,7 @@ lng: -94.9700
 zipSample: ["77539", "77518", "77568", "77591", "77590"]
 zipCodes: ["77590", "77518", "77539", "77591", "77568"]
 localPaths: ["Galveston County / ZIP 77590 sector", "Galveston County / elevation 16 ft band", "Galveston County / ZIP 77591 sector", "Galveston County / ZIP 77539 sector", "Galveston County / ZIP 77568 sector"]
+zillowHomeValueUsd: 239872
 ---
 
 **Engineering Notice for Texas City:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Galveston County.

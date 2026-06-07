@@ -12,6 +12,7 @@ lng: -88.7300
 zipSample: ["61726"]
 zipCodes: ["61726"]
 localPaths: ["McLean County / coords 40.7400, -88.7300", "McLean County / elevation 719 ft band", "McLean County / ZIP 61726 sector", "McLean County / primary ZIP 61726"]
+zillowHomeValueUsd: 164722
 ---
 
 **Engineering Notice for Chenoa:** System optimized for 135 mg/L hard water scaling factors in Chenoa. Regional dispatch grid: McLean County.

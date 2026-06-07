@@ -12,6 +12,7 @@ lng: -122.4000
 zipSample: ["94030"]
 zipCodes: ["94030"]
 localPaths: ["San Mateo County / coords 37.6000, -122.4000", "San Mateo County / ZIP 94030 sector", "San Mateo County / elevation 92 ft band", "San Mateo County / primary ZIP 94030"]
+zillowHomeValueUsd: 2081754
 ---
 
 **Engineering Notice for Millbrae:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: San Mateo County.

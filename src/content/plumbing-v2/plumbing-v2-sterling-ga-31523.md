@@ -12,6 +12,7 @@ lng: -81.5500
 zipSample: ["31525", "31523"]
 zipCodes: ["31525", "31523"]
 localPaths: ["Glynn County / primary ZIP 31523", "Glynn County / coords 31.2600, -81.5500", "Glynn County / ZIP 31523 sector", "Glynn County / ZIP 31525 sector", "Glynn County / elevation 20 ft band"]
+zillowHomeValueUsd: 329217
 ---
 
 **Engineering Notice for Sterling:** System optimized for 120 mg/L hard water scaling factors in Sterling. Regional dispatch grid: Glynn County.

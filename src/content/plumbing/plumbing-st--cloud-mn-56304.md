@@ -12,6 +12,7 @@ lng: -94.1700
 zipSample: ["56301", "56396", "56372", "56395", "56393"]
 zipCodes: ["56372", "56393", "56303", "56304", "56396", "56301", "56302", "56395"]
 localPaths: ["Stearns County / ZIP 56372 sector", "Stearns County / primary ZIP 56304", "Stearns County / ZIP 56396 sector", "Stearns County / coords 45.5300, -94.1700", "Stearns County / ZIP 56395 sector"]
+zillowHomeValueUsd: 265959
 ---
 
 **Engineering Notice for St. Cloud:** Structural loading calculated based on 1020 ft terrain assessment. Regional dispatch grid: Stearns County.

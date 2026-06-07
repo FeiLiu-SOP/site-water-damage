@@ -12,6 +12,7 @@ lng: -76.3200
 zipSample: ["17067"]
 zipCodes: ["17067"]
 localPaths: ["Lebanon County / ZIP 17067 sector", "Lebanon County / elevation 482 ft band", "Lebanon County / coords 40.3700, -76.3200", "Lebanon County / primary ZIP 17067"]
+zillowHomeValueUsd: 312257
 ---
 
 **Engineering Notice for West Myerstown:** Structural integrity verification: Vinyl Panels calibrated for 91 mph localized wind load factor. Regional dispatch grid: Lebanon County.

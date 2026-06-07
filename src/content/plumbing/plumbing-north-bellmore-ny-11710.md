@@ -12,6 +12,7 @@ lng: -73.5400
 zipSample: ["11710"]
 zipCodes: ["11710"]
 localPaths: ["Nassau County / primary ZIP 11710", "Nassau County / coords 40.6900, -73.5400", "Nassau County / ZIP 11710 sector", "Nassau County / elevation 52 ft band"]
+zillowHomeValueUsd: 804928
 ---
 
 **Engineering Notice for North Bellmore:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Nassau County.

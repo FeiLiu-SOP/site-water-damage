@@ -12,6 +12,7 @@ lng: -84.9000
 zipSample: ["41095"]
 zipCodes: ["41095"]
 localPaths: ["Gallatin County / primary ZIP 41095", "Gallatin County / coords 38.7800, -84.9000", "Gallatin County / elevation 486 ft band", "Gallatin County / ZIP 41095 sector"]
+zillowHomeValueUsd: 196843
 ---
 
 **Engineering Notice for Warsaw:** Envelope check: Cladding Retrofit assigned to wind-load band C with stress factor 1.02. Elevation: 486 ft AMSL. Regional dispatch grid: Gallatin County.

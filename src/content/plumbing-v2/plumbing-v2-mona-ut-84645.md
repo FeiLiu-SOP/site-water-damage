@@ -12,6 +12,7 @@ lng: -111.8500
 zipSample: ["84645"]
 zipCodes: ["84645"]
 localPaths: ["Juab County / elevation 5066 ft band", "Juab County / primary ZIP 84645", "Juab County / coords 39.8100, -111.8500", "Juab County / ZIP 84645 sector"]
+zillowHomeValueUsd: 603570
 ---
 
 **Engineering Notice for Mona:** System optimized for 141 mg/L hard water scaling factors in Mona. Regional dispatch grid: Juab County.

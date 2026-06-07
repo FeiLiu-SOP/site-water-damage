@@ -12,6 +12,7 @@ lng: -77.9000
 zipSample: ["28409", "28412"]
 zipCodes: ["28412", "28409"]
 localPaths: ["New Hanover County / ZIP 28409 sector", "New Hanover County / elevation 13 ft band", "New Hanover County / primary ZIP 28409", "New Hanover County / ZIP 28412 sector", "New Hanover County / coords 34.0700, -77.9000"]
+zillowHomeValueUsd: 510818
 ---
 
 **Engineering Notice for Sea Breeze:** System optimized for 128 mg/L hard water scaling factors in Sea Breeze. Regional dispatch grid: New Hanover County.

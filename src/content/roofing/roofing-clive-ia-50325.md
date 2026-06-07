@@ -11,6 +11,7 @@ lng: -93.8000
 zipSample: ["50325"]
 zipCodes: ["50325"]
 localPaths: ["Polk County / primary ZIP 50325", "Polk County / elevation 883 ft band", "Polk County / coords 41.6100, -93.8000", "Polk County / ZIP 50325 sector"]
+zillowHomeValueUsd: 428798
 ---
 
 **Engineering Notice for Clive:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Polk County.

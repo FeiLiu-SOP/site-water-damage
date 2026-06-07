@@ -11,6 +11,7 @@ lng: -87.4400
 zipSample: ["46375", "46307"]
 zipCodes: ["46375", "46307"]
 localPaths: ["Lake County / ZIP 46307 sector", "Lake County / primary ZIP 46375", "Lake County / ZIP 46375 sector", "Lake County / coords 41.4900, -87.4400", "Lake County / elevation 659 ft band"]
+zillowHomeValueUsd: 352736
 ---
 
 **Engineering Notice for Schererville:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Lake County.

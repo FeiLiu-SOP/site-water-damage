@@ -12,6 +12,7 @@ lng: -120.5000
 zipSample: ["96114"]
 zipCodes: ["96114"]
 localPaths: ["Lassen County / ZIP 96114 sector", "Lassen County / coords 40.3000, -120.5000", "Lassen County / primary ZIP 96114", "Lassen County / elevation 4144 ft band"]
+zillowHomeValueUsd: 312137
 ---
 
 **Engineering Notice for Janesville:** System optimized for 150 mg/L hard water scaling factors in Janesville. Regional dispatch grid: Lassen County.

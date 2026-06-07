@@ -12,6 +12,7 @@ lng: -80.1000
 zipSample: ["15202"]
 zipCodes: ["15202"]
 localPaths: ["Allegheny County / elevation 797 ft band", "Allegheny County / ZIP 15202 sector", "Allegheny County / primary ZIP 15202", "Allegheny County / coords 40.5100, -80.1000"]
+zillowHomeValueUsd: 221001
 ---
 
 **Engineering Notice for Emsworth:** System optimized for 161 mg/L hard water scaling factors in Emsworth. Regional dispatch grid: Allegheny County.

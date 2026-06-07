@@ -12,6 +12,7 @@ lng: -80.9500
 zipSample: ["33440"]
 zipCodes: ["33440"]
 localPaths: ["Hendry County / ZIP 33440 sector", "Hendry County / primary ZIP 33440", "Hendry County / elevation 33 ft band", "Hendry County / coords 26.7300, -80.9500"]
+zillowHomeValueUsd: 254541
 ---
 
 **Engineering Notice for Harlem:** structural drying capacity optimized for 33ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hendry County. Relative Humidity Threshold: 74%. Sensor sync: Active.

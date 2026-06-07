@@ -12,6 +12,8 @@ lng: -65.9000
 zipSample: ["00707"]
 zipCodes: ["00707"]
 localPaths: ["Maunabo County / coords 18.0100, -65.9000", "Maunabo County / elevation 43 ft band", "Maunabo County / ZIP 00707 sector", "Maunabo County / primary ZIP 00707"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 361915
 ---
 
 **Engineering Notice for Maunabo:** System optimized for 148 mg/L hard water scaling factors in Maunabo. Regional dispatch grid: Maunabo County.

@@ -12,6 +12,7 @@ lng: -77.8000
 zipSample: ["25443"]
 zipCodes: ["25443"]
 localPaths: ["Jefferson County / coords 39.4300, -77.8000", "Jefferson County / ZIP 25443 sector", "Jefferson County / primary ZIP 25443", "Jefferson County / elevation 410 ft band"]
+zillowHomeValueUsd: 477983
 ---
 
 **Engineering Notice for Shepherdstown:** Envelope check: Surface Sheathing assigned to wind-load band B with stress factor 0.75. Regional dispatch grid: Jefferson County.

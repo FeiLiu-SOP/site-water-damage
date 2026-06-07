@@ -11,6 +11,7 @@ lng: -94.3700
 zipSample: ["72906", "72901", "72918", "72914", "72913"]
 zipCodes: ["72914", "72919", "72908", "72917", "72918", "72904", "72906", "72923", "72913", "72903", "72916", "72901"]
 localPaths: ["Sebastian County / ZIP 72913 sector", "Sebastian County / ZIP 72918 sector", "Sebastian County / ZIP 72914 sector", "Sebastian County / primary ZIP 72908", "Sebastian County / ZIP 72901 sector"]
+zillowHomeValueUsd: 229123
 ---
 
 **Engineering Notice for Fort Smith:** Structural loading calculated based on 476 ft terrain assessment. Regional dispatch grid: Sebastian County.

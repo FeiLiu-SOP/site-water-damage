@@ -12,6 +12,7 @@ lng: -119.0400
 zipSample: ["93309", "93301", "93390", "93314", "93304"]
 zipCodes: ["93389", "93312", "93313", "93306", "93384", "93305", "93383", "93309", "93307", "93302", "93301", "93304"]
 localPaths: ["Kern County / elevation 390 ft band", "Kern County / ZIP 93390 sector", "Kern County / ZIP 93314 sector", "Kern County / ZIP 93309 sector", "Kern County / ZIP 93304 sector"]
+zillowHomeValueUsd: 348779
 ---
 
 **Engineering Notice for Bakersfield:** Structural loading calculated based on 390 ft terrain assessment. Regional dispatch grid: Kern County.

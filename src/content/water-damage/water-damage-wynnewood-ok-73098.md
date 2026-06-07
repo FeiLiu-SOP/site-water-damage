@@ -12,6 +12,7 @@ lng: -97.1600
 zipSample: ["73098"]
 zipCodes: ["73098"]
 localPaths: ["Garvin County / elevation 912 ft band", "Garvin County / ZIP 73098 sector", "Garvin County / primary ZIP 73098", "Garvin County / coords 34.6400, -97.1600"]
+zillowHomeValueUsd: 160261
 ---
 
 **Engineering Notice for Wynnewood:** structural drying capacity optimized for 912ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Garvin County. Relative Humidity Threshold: 84%. Sensor sync: Active.

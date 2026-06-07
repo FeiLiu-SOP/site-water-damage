@@ -11,6 +11,7 @@ lng: -82.7900
 zipSample: ["43068", "43069"]
 zipCodes: ["43069", "43068"]
 localPaths: ["Franklin County / primary ZIP 43068", "Franklin County / coords 39.9600, -82.7900", "Franklin County / elevation 892 ft band", "Franklin County / ZIP 43069 sector", "Franklin County / ZIP 43068 sector"]
+zillowHomeValueUsd: 295328
 ---
 
 **Engineering Notice for Reynoldsburg:** Structural loading calculated based on 892 ft terrain assessment. Regional dispatch grid: Franklin County.

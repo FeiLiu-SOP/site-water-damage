@@ -11,6 +11,7 @@ lng: -83.1200
 zipSample: ["43302"]
 zipCodes: ["43302"]
 localPaths: ["Marion County / primary ZIP 43302", "Marion County / elevation 994 ft band", "Marion County / coords 40.6000, -83.1200", "Marion County / ZIP 43302 sector"]
+zillowHomeValueUsd: 165616
 ---
 
 **Engineering Notice for Marion:** Structural loading calculated based on 994 ft terrain assessment. Regional dispatch grid: Marion County.

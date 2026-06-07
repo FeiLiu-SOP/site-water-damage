@@ -12,6 +12,7 @@ lng: -85.4400
 zipSample: ["36301"]
 zipCodes: ["36301"]
 localPaths: ["Houston County / primary ZIP 36301", "Houston County / coords 31.1200, -85.4400", "Houston County / elevation 249 ft band", "Houston County / ZIP 36301 sector"]
+zillowHomeValueUsd: 181244
 ---
 
 **Engineering Notice for Rehobeth:** Envelope check: Cladding Service assigned to wind-load band A with stress factor 1.18. Regional dispatch grid: Houston County.

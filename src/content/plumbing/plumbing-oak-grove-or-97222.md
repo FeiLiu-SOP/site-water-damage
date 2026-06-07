@@ -12,6 +12,7 @@ lng: -122.6300
 zipSample: ["97268", "97222", "97267"]
 zipCodes: ["97268", "97222", "97267"]
 localPaths: ["Clackamas County / ZIP 97268 sector", "Clackamas County / coords 45.4200, -122.6300", "Clackamas County / elevation 210 ft band", "Clackamas County / ZIP 97267 sector", "Clackamas County / ZIP 97222 sector"]
+zillowHomeValueUsd: 495483
 ---
 
 **Engineering Notice for Oak Grove:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Clackamas County.

@@ -12,6 +12,7 @@ lng: -81.6800
 zipSample: ["24319"]
 zipCodes: ["24319"]
 localPaths: ["Smyth County / elevation 1975 ft band", "Smyth County / primary ZIP 24319", "Smyth County / ZIP 24319 sector", "Smyth County / coords 36.8000, -81.6800"]
+zillowHomeValueUsd: 190009
 ---
 
 **Engineering Notice for Chilhowie:** Structural integrity verification: Weather Barrier Wrap calibrated for 91 mph localized wind load factor. Elevation: 1975 ft AMSL. Coordinates: 36.8000, -81.6800. Regional dispatch grid: Smyth County.

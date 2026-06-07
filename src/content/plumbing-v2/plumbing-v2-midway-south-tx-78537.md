@@ -12,6 +12,7 @@ lng: -98.0200
 zipSample: ["78596", "78537"]
 zipCodes: ["78596", "78537"]
 localPaths: ["Hidalgo County / coords 26.1600, -98.0200", "Hidalgo County / elevation 95 ft band", "Hidalgo County / primary ZIP 78537", "Hidalgo County / ZIP 78537 sector", "Hidalgo County / ZIP 78596 sector"]
+zillowHomeValueUsd: 152966
 ---
 
 **Engineering Notice for Midway South:** System optimized for 132 mg/L hard water scaling factors in Midway South. Regional dispatch grid: Hidalgo County.

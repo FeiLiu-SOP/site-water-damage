@@ -12,6 +12,7 @@ lng: -85.1900
 zipSample: ["32465"]
 zipCodes: ["32465"]
 localPaths: ["Gulf County / ZIP 32465 sector", "Gulf County / primary ZIP 32465", "Gulf County / elevation 79 ft band", "Gulf County / coords 30.1100, -85.1900"]
+zillowHomeValueUsd: 202117
 ---
 
 **Engineering Notice for Wewahitchka:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 1.14. Elevation: 79 ft AMSL. Regional dispatch grid: Gulf County.

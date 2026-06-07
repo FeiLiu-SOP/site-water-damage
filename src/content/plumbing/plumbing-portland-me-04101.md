@@ -12,6 +12,7 @@ lng: -70.2700
 zipSample: ["04112", "04103", "04122", "04123", "04102"]
 zipCodes: ["04122", "04108", "04124", "04116", "04112", "04102", "04123", "04103", "04109", "04019", "04101", "04104"]
 localPaths: ["Cumberland County / ZIP 04123 sector", "Cumberland County / ZIP 04102 sector", "Cumberland County / ZIP 04103 sector", "Cumberland County / coords 43.6800, -70.2700", "Cumberland County / ZIP 04122 sector"]
+zillowHomeValueUsd: 653900
 ---
 
 **Engineering Notice for Portland:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Cumberland County.

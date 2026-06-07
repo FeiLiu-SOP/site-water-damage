@@ -12,6 +12,7 @@ lng: -82.4300
 zipSample: ["28732"]
 zipCodes: ["28732"]
 localPaths: ["Henderson County / elevation 2274 ft band", "Henderson County / primary ZIP 28732", "Henderson County / ZIP 28732 sector", "Henderson County / coords 35.4500, -82.4300"]
+zillowHomeValueUsd: 447737
 ---
 
 **Engineering Notice for Hoopers Creek:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 1.16. Regional dispatch grid: Henderson County.

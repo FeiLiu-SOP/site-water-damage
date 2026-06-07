@@ -11,6 +11,7 @@ lng: -90.5800
 zipSample: ["63017", "63006", "63005"]
 zipCodes: ["63017", "63006", "63005"]
 localPaths: ["St. Louis County / ZIP 63017 sector", "St. Louis County / elevation 505 ft band", "St. Louis County / coords 38.6600, -90.5800", "St. Louis County / ZIP 63005 sector", "St. Louis County / primary ZIP 63017"]
+zillowHomeValueUsd: 552584
 ---
 
 **Engineering Notice for Chesterfield:** Structural loading calculated based on 505 ft terrain assessment. Regional dispatch grid: St. Louis County.

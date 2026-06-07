@@ -12,6 +12,7 @@ lng: -82.0700
 zipSample: ["28777"]
 zipCodes: ["28777"]
 localPaths: ["Mitchell County / ZIP 28777 sector", "Mitchell County / coords 35.9100, -82.0700", "Mitchell County / elevation 2598 ft band", "Mitchell County / primary ZIP 28777"]
+zillowHomeValueUsd: 245805
 ---
 
 **Engineering Notice for Spruce Pine:** Structural integrity verification: Cladding Service calibrated for 93 mph localized wind load factor. Regional dispatch grid: Mitchell County.

@@ -12,6 +12,7 @@ lng: -73.7000
 zipSample: ["10507"]
 zipCodes: ["10507"]
 localPaths: ["Westchester County / coords 41.2400, -73.7000", "Westchester County / elevation 387 ft band", "Westchester County / primary ZIP 10507", "Westchester County / ZIP 10507 sector"]
+zillowHomeValueUsd: 793512
 ---
 
 **Engineering Notice for Bedford Hills:** structural drying capacity optimized for 387ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Westchester County. Relative Humidity Threshold: 73%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -97.5900
 zipSample: ["68370"]
 zipCodes: ["68370"]
 localPaths: ["Thayer County / elevation 1486 ft band", "Thayer County / coords 40.1700, -97.5900", "Thayer County / ZIP 68370 sector", "Thayer County / primary ZIP 68370"]
+zillowHomeValueUsd: 177011
 ---
 
 **Engineering Notice for Hebron:** System optimized for 134 mg/L hard water scaling factors in Hebron. Regional dispatch grid: Thayer County.

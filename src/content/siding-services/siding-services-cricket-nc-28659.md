@@ -12,6 +12,7 @@ lng: -81.1900
 zipSample: ["28659"]
 zipCodes: ["28659"]
 localPaths: ["Wilkes County / coords 36.1700, -81.1900", "Wilkes County / primary ZIP 28659", "Wilkes County / ZIP 28659 sector", "Wilkes County / elevation 1257 ft band"]
+zillowHomeValueUsd: 209866
 ---
 
 **Engineering Notice for Cricket:** Structural integrity verification: Facade Renewal calibrated for 100 mph localized wind load factor. Coordinates: 36.1700, -81.1900. Regional dispatch grid: Wilkes County.

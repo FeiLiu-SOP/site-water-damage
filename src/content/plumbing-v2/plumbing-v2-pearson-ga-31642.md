@@ -12,6 +12,7 @@ lng: -82.8500
 zipSample: ["31642"]
 zipCodes: ["31642"]
 localPaths: ["Atkinson County / primary ZIP 31642", "Atkinson County / coords 31.3000, -82.8500", "Atkinson County / ZIP 31642 sector", "Atkinson County / elevation 207 ft band"]
+zillowHomeValueUsd: 126486
 ---
 
 **Engineering Notice for Pearson:** System optimized for 167 mg/L hard water scaling factors in Pearson. Regional dispatch grid: Atkinson County.

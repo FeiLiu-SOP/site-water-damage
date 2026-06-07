@@ -12,6 +12,7 @@ lng: -80.0800
 zipSample: ["29709"]
 zipCodes: ["29709"]
 localPaths: ["Chesterfield County / coords 34.7300, -80.0800", "Chesterfield County / primary ZIP 29709", "Chesterfield County / elevation 285 ft band", "Chesterfield County / ZIP 29709 sector"]
+zillowHomeValueUsd: 177732
 ---
 
 **Engineering Notice for Chesterfield:** System optimized for 137 mg/L hard water scaling factors in Chesterfield. Regional dispatch grid: Chesterfield County.

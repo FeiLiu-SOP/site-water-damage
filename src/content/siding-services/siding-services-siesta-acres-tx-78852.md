@@ -12,6 +12,7 @@ lng: -100.4900
 zipSample: ["78852"]
 zipCodes: ["78852"]
 localPaths: ["Maverick County / ZIP 78852 sector", "Maverick County / elevation 758 ft band", "Maverick County / primary ZIP 78852", "Maverick County / coords 28.7600, -100.4900"]
+zillowHomeValueUsd: 230827
 ---
 
 **Engineering Notice for Siesta Acres:** Exterior Envelope was validated under stress factor 0.75; target tolerance set near 132 mph. Grid anchor: Maverick County.

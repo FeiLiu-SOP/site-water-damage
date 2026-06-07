@@ -12,6 +12,7 @@ lng: -96.7700
 zipSample: ["56762"]
 zipCodes: ["56762"]
 localPaths: ["Marshall County / primary ZIP 56762", "Marshall County / coords 48.1900, -96.7700", "Marshall County / ZIP 56762 sector", "Marshall County / elevation 853 ft band"]
+zillowHomeValueUsd: 194373
 ---
 
 **Engineering Notice for Warren:** Structural integrity verification: Facade Renewal calibrated for 102 mph localized wind load factor. Elevation: 853 ft AMSL. Regional dispatch grid: Marshall County.

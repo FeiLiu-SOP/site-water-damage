@@ -11,6 +11,7 @@ lng: -117.3900
 zipSample: ["92058"]
 zipCodes: ["92058"]
 localPaths: ["San Diego County / ZIP 92058 sector", "San Diego County / coords 33.2300, -117.3900", "San Diego County / elevation 33 ft band", "San Diego County / primary ZIP 92058"]
+zillowHomeValueUsd: 780465
 ---
 
 **Engineering Notice for Camp Pendleton South:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: San Diego County.

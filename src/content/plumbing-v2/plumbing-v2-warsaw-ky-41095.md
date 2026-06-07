@@ -12,6 +12,7 @@ lng: -84.9000
 zipSample: ["41095"]
 zipCodes: ["41095"]
 localPaths: ["Gallatin County / primary ZIP 41095", "Gallatin County / coords 38.7800, -84.9000", "Gallatin County / ZIP 41095 sector", "Gallatin County / elevation 486 ft band"]
+zillowHomeValueUsd: 196835
 ---
 
 **Engineering Notice for Warsaw:** System optimized for 133 mg/L hard water scaling factors in Warsaw. Regional dispatch grid: Gallatin County.

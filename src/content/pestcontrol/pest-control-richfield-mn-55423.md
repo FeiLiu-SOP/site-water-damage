@@ -11,6 +11,7 @@ lng: -93.2800
 zipSample: ["55423"]
 zipCodes: ["55423"]
 localPaths: ["Hennepin County / ZIP 55423 sector", "Hennepin County / coords 44.8800, -93.2800", "Hennepin County / elevation 840 ft band", "Hennepin County / primary ZIP 55423"]
+zillowHomeValueUsd: 347265
 ---
 
 **Engineering Notice for Richfield:** Structural loading calculated based on 840 ft terrain assessment. Regional dispatch grid: Hennepin County.

@@ -12,6 +12,7 @@ lng: -89.3100
 zipSample: ["38916"]
 zipCodes: ["38916"]
 localPaths: ["Calhoun County / primary ZIP 38916", "Calhoun County / ZIP 38916 sector", "Calhoun County / elevation 292 ft band", "Calhoun County / coords 33.8600, -89.3100"]
+zillowHomeValueUsd: 113755
 ---
 
 **Engineering Notice for Calhoun City:** Structural integrity verification: Wall Restoration calibrated for 101 mph localized wind load factor. Elevation: 292 ft AMSL. Regional dispatch grid: Calhoun County.

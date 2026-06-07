@@ -12,6 +12,7 @@ lng: -84.0600
 zipSample: ["37705", "37828"]
 zipCodes: ["37705", "37828"]
 localPaths: ["Anderson County / ZIP 37828 sector", "Anderson County / elevation 981 ft band", "Anderson County / primary ZIP 37705", "Anderson County / coords 36.2100, -84.0600", "Anderson County / ZIP 37705 sector"]
+zillowHomeValueUsd: 424474
 ---
 
 **Engineering Notice for Norris:** Structural integrity verification: Wall Restoration calibrated for 101 mph localized wind load factor. Elevation: 981 ft AMSL. Coordinates: 36.2100, -84.0600. Regional dispatch grid: Anderson County.

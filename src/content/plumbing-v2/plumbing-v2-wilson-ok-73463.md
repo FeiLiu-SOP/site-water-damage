@@ -12,6 +12,7 @@ lng: -97.4300
 zipSample: ["73463"]
 zipCodes: ["73463"]
 localPaths: ["Carter County / coords 34.1700, -97.4300", "Carter County / primary ZIP 73463", "Carter County / elevation 938 ft band", "Carter County / ZIP 73463 sector"]
+zillowHomeValueUsd: 173271
 ---
 
 **Engineering Notice for Wilson:** System optimized for 135 mg/L hard water scaling factors in Wilson. Regional dispatch grid: Carter County.

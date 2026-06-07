@@ -11,6 +11,7 @@ lng: -70.8600
 zipSample: ["01965", "01915"]
 zipCodes: ["01965", "01915"]
 localPaths: ["Essex County / elevation 95 ft band", "Essex County / coords 42.5700, -70.8600", "Essex County / ZIP 01915 sector", "Essex County / ZIP 01965 sector", "Essex County / primary ZIP 01965"]
+zillowHomeValueUsd: 755866
 ---
 
 **Engineering Notice for Beverly:** Structural loading calculated based on 95 ft terrain assessment. Regional dispatch grid: Essex County.

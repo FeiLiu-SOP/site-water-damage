@@ -12,6 +12,7 @@ lng: -95.5000
 zipSample: ["74426", "74432"]
 zipCodes: ["74426", "74432"]
 localPaths: ["McIntosh County / elevation 709 ft band", "McIntosh County / coords 35.3600, -95.5000", "McIntosh County / primary ZIP 74426", "McIntosh County / ZIP 74432 sector", "McIntosh County / ZIP 74426 sector"]
+zillowHomeValueUsd: 175837
 ---
 
 **Engineering Notice for Texanna:** structural drying capacity optimized for 709ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McIntosh County. Relative Humidity Threshold: 75%. Sensor sync: Active.

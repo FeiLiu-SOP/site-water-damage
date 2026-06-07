@@ -12,6 +12,7 @@ lng: -80.1800
 zipSample: ["29484", "29483", "29485", "29486"]
 zipCodes: ["29486", "29484", "29485", "29483"]
 localPaths: ["Dorchester County / ZIP 29484 sector", "Dorchester County / coords 33.0000, -80.1800", "Dorchester County / ZIP 29486 sector", "Dorchester County / primary ZIP 29485", "Dorchester County / elevation 66 ft band"]
+zillowHomeValueUsd: 366109
 ---
 
 **Engineering Notice for Summerville:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Dorchester County.

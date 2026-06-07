@@ -12,6 +12,7 @@ lng: -76.5600
 zipSample: ["13166"]
 zipCodes: ["13166"]
 localPaths: ["Cayuga County / elevation 407 ft band", "Cayuga County / primary ZIP 13166", "Cayuga County / coords 43.0500, -76.5600", "Cayuga County / ZIP 13166 sector"]
+zillowHomeValueUsd: 225305
 ---
 
 **Engineering Notice for Weedsport:** Envelope check: Cladding Service assigned to wind-load band C with stress factor 0.80. Elevation: 407 ft AMSL. Regional dispatch grid: Cayuga County.

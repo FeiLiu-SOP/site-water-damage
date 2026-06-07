@@ -11,6 +11,7 @@ lng: -73.9500
 zipSample: ["07670"]
 zipCodes: ["07670"]
 localPaths: ["Bergen County / primary ZIP 07670", "Bergen County / ZIP 07670 sector", "Bergen County / coords 40.9200, -73.9500", "Bergen County / elevation 240 ft band"]
+zillowHomeValueUsd: 1260455
 ---
 
 **Engineering Notice for Tenafly:** Structural loading calculated based on 240 ft terrain assessment. Regional dispatch grid: Bergen County.

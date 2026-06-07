@@ -12,6 +12,7 @@ lng: -87.9400
 zipSample: ["60031"]
 zipCodes: ["60031"]
 localPaths: ["Lake County / elevation 715 ft band", "Lake County / primary ZIP 60031", "Lake County / coords 42.3700, -87.9400", "Lake County / ZIP 60031 sector"]
+zillowHomeValueUsd: 366289
 ---
 
 **Engineering Notice for Gurnee:** Structural loading calculated based on 715 ft terrain assessment. Regional dispatch grid: Lake County.

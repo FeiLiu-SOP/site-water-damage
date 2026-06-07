@@ -12,6 +12,7 @@ lng: -111.9200
 zipSample: ["84339", "84335", "84321"]
 zipCodes: ["84321", "84339", "84335"]
 localPaths: ["Cache County / elevation 4413 ft band", "Cache County / ZIP 84339 sector", "Cache County / primary ZIP 84321", "Cache County / coords 41.7500, -111.9200", "Cache County / ZIP 84321 sector"]
+zillowHomeValueUsd: 421492
 ---
 
 **Engineering Notice for Benson:** Structural integrity verification: Weather Barrier Wrap calibrated for 110 mph localized wind load factor. Coordinates: 41.7500, -111.9200. Regional dispatch grid: Cache County.

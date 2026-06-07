@@ -12,6 +12,7 @@ lng: -100.3800
 zipSample: ["79014"]
 zipCodes: ["79014"]
 localPaths: ["Hemphill County / primary ZIP 79014", "Hemphill County / ZIP 79014 sector", "Hemphill County / coords 35.9100, -100.3800", "Hemphill County / elevation 2448 ft band"]
+zillowHomeValueUsd: 170823
 ---
 
 **Engineering Notice for Canadian:** System optimized for 145 mg/L hard water scaling factors in Canadian. Regional dispatch grid: Hemphill County.

@@ -12,6 +12,7 @@ lng: -105.1400
 zipSample: ["80524", "80535"]
 zipCodes: ["80535", "80524"]
 localPaths: ["Larimer County / primary ZIP 80524", "Larimer County / ZIP 80535 sector", "Larimer County / elevation 5118 ft band", "Larimer County / coords 40.6400, -105.1400", "Larimer County / ZIP 80524 sector"]
+zillowHomeValueUsd: 588218
 ---
 
 **Engineering Notice for Laporte:** System optimized for 160 mg/L hard water scaling factors in Laporte. Regional dispatch grid: Larimer County.

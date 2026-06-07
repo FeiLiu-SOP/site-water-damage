@@ -12,6 +12,7 @@ lng: -99.5000
 zipSample: ["78046"]
 zipCodes: ["78046"]
 localPaths: ["Webb County / ZIP 78046 sector", "Webb County / primary ZIP 78046", "Webb County / coords 27.3300, -99.5000", "Webb County / elevation 423 ft band"]
+zillowHomeValueUsd: 192652
 ---
 
 **Engineering Notice for El Cenizo:** Cladding verification uses 139 mph routing baseline; lateral pressure note: 17.9 psf. Elevation: 423 ft AMSL. Coordinates: 27.3300, -99.5000. Grid: Webb County.

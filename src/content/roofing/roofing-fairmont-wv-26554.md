@@ -11,6 +11,7 @@ lng: -80.1500
 zipSample: ["26555", "26554"]
 zipCodes: ["26554", "26555"]
 localPaths: ["Marion County / primary ZIP 26554", "Marion County / ZIP 26554 sector", "Marion County / ZIP 26555 sector", "Marion County / coords 39.4800, -80.1500", "Marion County / elevation 997 ft band"]
+zillowHomeValueUsd: 182427
 ---
 
 **Engineering Notice for Fairmont:** Structural loading calculated based on 997 ft terrain assessment. Regional dispatch grid: Marion County.

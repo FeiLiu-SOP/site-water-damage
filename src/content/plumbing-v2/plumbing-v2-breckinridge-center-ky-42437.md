@@ -12,6 +12,7 @@ lng: -87.8700
 zipSample: ["42437"]
 zipCodes: ["42437"]
 localPaths: ["Union County / coords 37.6800, -87.8700", "Union County / ZIP 42437 sector", "Union County / elevation 423 ft band", "Union County / primary ZIP 42437"]
+zillowHomeValueUsd: 156488
 ---
 
 **Engineering Notice for Breckinridge Center:** System optimized for 178 mg/L hard water scaling factors in Breckinridge Center. Regional dispatch grid: Union County.

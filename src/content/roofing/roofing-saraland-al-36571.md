@@ -11,6 +11,7 @@ lng: -88.1000
 zipSample: ["36571"]
 zipCodes: ["36571"]
 localPaths: ["Mobile County / coords 30.8500, -88.1000", "Mobile County / ZIP 36571 sector", "Mobile County / elevation 79 ft band", "Mobile County / primary ZIP 36571"]
+zillowHomeValueUsd: 234311
 ---
 
 **Engineering Notice for Saraland:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Mobile County.

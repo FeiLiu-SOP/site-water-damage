@@ -12,6 +12,7 @@ lng: -112.1700
 zipSample: ["86046"]
 zipCodes: ["86046"]
 localPaths: ["Coconino County / elevation 6552 ft band", "Coconino County / primary ZIP 86046", "Coconino County / coords 35.3600, -112.1700", "Coconino County / ZIP 86046 sector"]
+zillowHomeValueUsd: 437862
 ---
 
 **Engineering Notice for Red Lake:** Facade Renewal was validated under stress factor 0.86; target tolerance set near 98 mph. Grid anchor: Coconino County.

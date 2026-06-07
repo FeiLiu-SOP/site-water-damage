@@ -12,6 +12,7 @@ lng: -84.5100
 zipSample: ["37756", "37755"]
 zipCodes: ["37756", "37755"]
 localPaths: ["Scott County / ZIP 37756 sector", "Scott County / coords 36.4100, -84.5100", "Scott County / elevation 1404 ft band", "Scott County / ZIP 37755 sector", "Scott County / primary ZIP 37756"]
+zillowHomeValueUsd: 160028
 ---
 
 **Engineering Notice for Huntsville:** Envelope check: Vinyl Panels assigned to wind-load band C with stress factor 1.23. Regional dispatch grid: Scott County.

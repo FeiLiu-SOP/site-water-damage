@@ -12,6 +12,7 @@ lng: -74.6300
 zipSample: ["12779"]
 zipCodes: ["12779"]
 localPaths: ["Sullivan County / primary ZIP 12779", "Sullivan County / elevation 1230 ft band", "Sullivan County / ZIP 12779 sector", "Sullivan County / coords 41.7000, -74.6300"]
+zillowHomeValueUsd: 283827
 ---
 
 **Engineering Notice for South Fallsburg:** System optimized for 164 mg/L hard water scaling factors in South Fallsburg. Regional dispatch grid: Sullivan County.

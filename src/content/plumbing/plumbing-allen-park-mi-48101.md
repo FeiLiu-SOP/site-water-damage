@@ -12,6 +12,7 @@ lng: -83.2100
 zipSample: ["48101"]
 zipCodes: ["48101"]
 localPaths: ["Wayne County / ZIP 48101 sector", "Wayne County / elevation 600 ft band", "Wayne County / coords 42.2600, -83.2100", "Wayne County / primary ZIP 48101"]
+zillowHomeValueUsd: 206354
 ---
 
 **Engineering Notice for Allen Park:** Structural loading calculated based on 600 ft terrain assessment. Regional dispatch grid: Wayne County.

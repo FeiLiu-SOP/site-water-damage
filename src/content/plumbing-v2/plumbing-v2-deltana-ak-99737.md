@@ -12,6 +12,7 @@ lng: -145.2200
 zipSample: ["99731", "99737"]
 zipCodes: ["99737", "99731"]
 localPaths: ["Southeast Fairbanks County / ZIP 99731 sector", "Southeast Fairbanks County / elevation 0 ft band", "Southeast Fairbanks County / coords 63.8700, -145.2200", "Southeast Fairbanks County / ZIP 99737 sector", "Southeast Fairbanks County / primary ZIP 99737"]
+zillowHomeValueUsd: 313215
 ---
 
 **Engineering Notice for Deltana:** System optimized for 149 mg/L hard water scaling factors in Deltana. Regional dispatch grid: Southeast Fairbanks County.

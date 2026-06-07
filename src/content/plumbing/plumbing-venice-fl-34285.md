@@ -12,6 +12,7 @@ lng: -82.4100
 zipSample: ["34292", "34285", "34275"]
 zipCodes: ["34292", "34285", "34275"]
 localPaths: ["Sarasota County / ZIP 34292 sector", "Sarasota County / ZIP 34285 sector", "Sarasota County / elevation 20 ft band", "Sarasota County / primary ZIP 34285", "Sarasota County / coords 27.1200, -82.4100"]
+zillowHomeValueUsd: 373439
 ---
 
 **Engineering Notice for Venice:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Sarasota County.

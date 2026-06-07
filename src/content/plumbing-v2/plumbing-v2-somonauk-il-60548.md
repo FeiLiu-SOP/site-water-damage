@@ -12,6 +12,7 @@ lng: -88.6700
 zipSample: ["60552", "60548"]
 zipCodes: ["60548", "60552"]
 localPaths: ["DeKalb County / primary ZIP 60548", "DeKalb County / ZIP 60552 sector", "DeKalb County / ZIP 60548 sector", "DeKalb County / coords 41.6400, -88.6700", "DeKalb County / elevation 679 ft band"]
+zillowHomeValueUsd: 319320
 ---
 
 **Engineering Notice for Somonauk:** System optimized for 149 mg/L hard water scaling factors in Somonauk. Regional dispatch grid: DeKalb County.

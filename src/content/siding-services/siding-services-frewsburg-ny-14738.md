@@ -12,6 +12,7 @@ lng: -79.1500
 zipSample: ["14738"]
 zipCodes: ["14738"]
 localPaths: ["Chautauqua County / elevation 1332 ft band", "Chautauqua County / ZIP 14738 sector", "Chautauqua County / coords 42.0600, -79.1500", "Chautauqua County / primary ZIP 14738"]
+zillowHomeValueUsd: 171157
 ---
 
 **Engineering Notice for Frewsburg:** Cladding verification uses 108 mph routing baseline; lateral pressure note: 14.2 psf. Elevation: 1332 ft AMSL. Grid: Chautauqua County.

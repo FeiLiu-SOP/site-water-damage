@@ -12,6 +12,7 @@ lng: -81.3200
 zipSample: ["32713", "32753"]
 zipCodes: ["32753", "32713"]
 localPaths: ["Volusia County / coords 28.8800, -81.3200", "Volusia County / elevation 72 ft band", "Volusia County / ZIP 32753 sector", "Volusia County / primary ZIP 32713", "Volusia County / ZIP 32713 sector"]
+zillowHomeValueUsd: 378068
 ---
 
 **Engineering Notice for DeBary:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Volusia County.

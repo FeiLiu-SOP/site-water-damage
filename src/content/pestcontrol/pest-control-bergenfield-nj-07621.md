@@ -11,6 +11,7 @@ lng: -74.0000
 zipSample: ["07621"]
 zipCodes: ["07621"]
 localPaths: ["Bergen County / ZIP 07621 sector", "Bergen County / coords 40.9200, -74.0000", "Bergen County / primary ZIP 07621", "Bergen County / elevation 75 ft band"]
+zillowHomeValueUsd: 628220
 ---
 
 **Engineering Notice for Bergenfield:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Bergen County.

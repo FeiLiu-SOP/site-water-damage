@@ -12,6 +12,7 @@ lng: -93.2000
 zipSample: ["55124"]
 zipCodes: ["55124"]
 localPaths: ["Dakota County / coords 44.7500, -93.2000", "Dakota County / elevation 974 ft band", "Dakota County / ZIP 55124 sector", "Dakota County / primary ZIP 55124"]
+zillowHomeValueUsd: 376030
 ---
 
 **Engineering Notice for Apple Valley:** Structural loading calculated based on 974 ft terrain assessment. Regional dispatch grid: Dakota County.

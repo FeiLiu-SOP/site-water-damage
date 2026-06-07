@@ -11,6 +11,7 @@ lng: -77.3900
 zipSample: ["28544", "28542", "28547", "28545", "28541"]
 zipCodes: ["28544", "28540", "28547", "28543", "28542", "28545", "28546", "28541"]
 localPaths: ["Onslow County / ZIP 28542 sector", "Onslow County / primary ZIP 28546", "Onslow County / ZIP 28544 sector", "Onslow County / ZIP 28541 sector", "Onslow County / elevation 3 ft band"]
+zillowHomeValueUsd: 266941
 ---
 
 **Engineering Notice for Jacksonville:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Onslow County.

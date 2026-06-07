@@ -11,6 +11,7 @@ lng: -97.6100
 zipSample: ["67401", "67402"]
 zipCodes: ["67401", "67402"]
 localPaths: ["Saline County / coords 38.8100, -97.6100", "Saline County / elevation 1250 ft band", "Saline County / primary ZIP 67401", "Saline County / ZIP 67402 sector", "Saline County / ZIP 67401 sector"]
+zillowHomeValueUsd: 172843
 ---
 
 **Engineering Notice for Salina:** Structural loading calculated based on 1250 ft terrain assessment. Regional dispatch grid: Saline County.

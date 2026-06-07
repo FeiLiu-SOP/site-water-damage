@@ -11,6 +11,7 @@ lng: -80.3000
 zipSample: ["33144", "33245", "33155"]
 zipCodes: ["33144", "33155", "33245"]
 localPaths: ["Miami-Dade County / elevation 30 ft band", "Miami-Dade County / ZIP 33155 sector", "Miami-Dade County / ZIP 33144 sector", "Miami-Dade County / coords 25.7500, -80.3000", "Miami-Dade County / ZIP 33245 sector"]
+zillowHomeValueUsd: 621095
 ---
 
 **Engineering Notice for Coral Terrace:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

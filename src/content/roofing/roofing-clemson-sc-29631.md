@@ -11,6 +11,7 @@ lng: -82.8100
 zipSample: ["29630", "29632", "29631"]
 zipCodes: ["29631", "29632", "29630"]
 localPaths: ["Pickens County / primary ZIP 29631", "Pickens County / ZIP 29631 sector", "Pickens County / coords 34.6800, -82.8100", "Pickens County / ZIP 29630 sector", "Pickens County / ZIP 29632 sector"]
+zillowHomeValueUsd: 397825
 ---
 
 **Engineering Notice for Clemson:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Pickens County.

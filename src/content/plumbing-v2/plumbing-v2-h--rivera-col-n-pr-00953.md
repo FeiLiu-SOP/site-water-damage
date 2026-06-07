@@ -12,6 +12,8 @@ lng: -66.2700
 zipSample: ["00953"]
 zipCodes: ["00953"]
 localPaths: ["Toa Alta County / elevation 440 ft band", "Toa Alta County / ZIP 00953 sector", "Toa Alta County / coords 18.3500, -66.2700", "Toa Alta County / primary ZIP 00953"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 373903
 ---
 
 **Engineering Notice for H. Rivera Colón:** System optimized for 134 mg/L hard water scaling factors in H. Rivera Colón. Regional dispatch grid: Toa Alta County.

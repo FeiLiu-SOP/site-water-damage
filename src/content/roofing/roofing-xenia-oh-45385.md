@@ -11,6 +11,7 @@ lng: -83.9400
 zipSample: ["45385"]
 zipCodes: ["45385"]
 localPaths: ["Greene County / elevation 925 ft band", "Greene County / coords 39.6800, -83.9400", "Greene County / ZIP 45385 sector", "Greene County / primary ZIP 45385"]
+zillowHomeValueUsd: 253905
 ---
 
 **Engineering Notice for Xenia:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Greene County.

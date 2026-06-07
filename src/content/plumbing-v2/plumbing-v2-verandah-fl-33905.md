@@ -12,6 +12,7 @@ lng: -81.7400
 zipSample: ["33905"]
 zipCodes: ["33905"]
 localPaths: ["Lee County / coords 26.7000, -81.7400", "Lee County / primary ZIP 33905", "Lee County / elevation 36 ft band", "Lee County / ZIP 33905 sector"]
+zillowHomeValueUsd: 284505
 ---
 
 **Engineering Notice for Verandah:** System optimized for 140 mg/L hard water scaling factors in Verandah. Regional dispatch grid: Lee County.

@@ -12,6 +12,7 @@ lng: -97.1500
 zipSample: ["57201"]
 zipCodes: ["57201"]
 localPaths: ["Codington County / primary ZIP 57201", "Codington County / coords 44.9100, -97.1500", "Codington County / ZIP 57201 sector", "Codington County / elevation 1726 ft band"]
+zillowHomeValueUsd: 319587
 ---
 
 **Engineering Notice for Watertown:** Structural loading calculated based on 1726 ft terrain assessment. Regional dispatch grid: Codington County.

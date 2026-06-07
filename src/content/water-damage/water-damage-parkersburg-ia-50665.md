@@ -12,6 +12,7 @@ lng: -92.7800
 zipSample: ["50665"]
 zipCodes: ["50665"]
 localPaths: ["Butler County / ZIP 50665 sector", "Butler County / elevation 981 ft band", "Butler County / coords 42.5700, -92.7800", "Butler County / primary ZIP 50665"]
+zillowHomeValueUsd: 238059
 ---
 
 **Engineering Notice for Parkersburg:** structural drying capacity optimized for 981ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Butler County. Relative Humidity Threshold: 68%. Sensor sync: Active.

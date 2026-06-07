@@ -11,6 +11,7 @@ lng: -117.9100
 zipSample: ["91702", "91010"]
 zipCodes: ["91010", "91702"]
 localPaths: ["Los Angeles County / ZIP 91702 sector", "Los Angeles County / primary ZIP 91702", "Los Angeles County / ZIP 91010 sector", "Los Angeles County / coords 34.1400, -117.9100", "Los Angeles County / elevation 646 ft band"]
+zillowHomeValueUsd: 715449
 ---
 
 **Engineering Notice for Azusa:** Structural loading calculated based on 646 ft terrain assessment. Regional dispatch grid: Los Angeles County.

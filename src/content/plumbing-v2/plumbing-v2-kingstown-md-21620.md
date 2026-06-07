@@ -12,6 +12,7 @@ lng: -76.0500
 zipSample: ["21620"]
 zipCodes: ["21620"]
 localPaths: ["Queen Anne's County / ZIP 21620 sector", "Queen Anne's County / coords 39.2000, -76.0500", "Queen Anne's County / primary ZIP 21620", "Queen Anne's County / elevation 16 ft band"]
+zillowHomeValueUsd: 390155
 ---
 
 **Engineering Notice for Kingstown:** System optimized for 164 mg/L hard water scaling factors in Kingstown. Regional dispatch grid: Queen Anne's County.

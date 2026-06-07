@@ -12,6 +12,7 @@ lng: -95.4300
 zipSample: ["74016"]
 zipCodes: ["74016"]
 localPaths: ["Rogers County / coords 36.5300, -95.4300", "Rogers County / elevation 722 ft band", "Rogers County / ZIP 74016 sector", "Rogers County / primary ZIP 74016"]
+zillowHomeValueUsd: 214818
 ---
 
 **Engineering Notice for Chelsea:** Site context locked to Rogers County. Coordinates: 36.5300, -95.4300. Wall Restoration integrity verification recorded.

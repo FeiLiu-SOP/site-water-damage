@@ -12,6 +12,7 @@ lng: -91.2600
 zipSample: ["71640"]
 zipCodes: ["71640"]
 localPaths: ["Chicot County / primary ZIP 71640", "Chicot County / elevation 154 ft band", "Chicot County / coords 33.1200, -91.2600", "Chicot County / ZIP 71640 sector"]
+zillowHomeValueUsd: 69432
 ---
 
 **Engineering Notice for Eudora:** Site context locked to Chicot County. Elevation: 154 ft AMSL. Coordinates: 33.1200, -91.2600. Cladding Service integrity verification recorded.

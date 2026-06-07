@@ -11,6 +11,7 @@ lng: -89.4300
 zipSample: ["53711", "53744", "53713", "53719", "53575"]
 zipCodes: ["53719", "53713", "53711", "53575", "53744"]
 localPaths: ["Dane County / primary ZIP 53575", "Dane County / elevation 1033 ft band", "Dane County / ZIP 53719 sector", "Dane County / ZIP 53744 sector", "Dane County / ZIP 53711 sector"]
+zillowHomeValueUsd: 495913
 ---
 
 **Engineering Notice for Fitchburg:** Structural loading calculated based on 1033 ft terrain assessment. Regional dispatch grid: Dane County.

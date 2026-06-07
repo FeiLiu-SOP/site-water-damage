@@ -12,6 +12,7 @@ lng: -81.3400
 zipSample: ["32807", "32808", "32832", "32839", "32861"]
 zipCodes: ["32805", "32835", "32822", "32804", "32807", "32801", "32806", "32824", "32802", "32872", "32891", "32827"]
 localPaths: ["Orange County / ZIP 32808 sector", "Orange County / elevation 108 ft band", "Orange County / ZIP 32807 sector", "Orange County / coords 28.4800, -81.3400", "Orange County / primary ZIP 32829"]
+zillowHomeValueUsd: 406903
 ---
 
 **Engineering Notice for Orlando:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Orange County.

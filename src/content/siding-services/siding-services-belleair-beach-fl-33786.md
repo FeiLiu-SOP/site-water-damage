@@ -12,6 +12,7 @@ lng: -82.8400
 zipSample: ["33786"]
 zipCodes: ["33786"]
 localPaths: ["Pinellas County / ZIP 33786 sector", "Pinellas County / primary ZIP 33786", "Pinellas County / coords 27.9200, -82.8400", "Pinellas County / elevation 0 ft band"]
+zillowHomeValueUsd: 907575
 ---
 
 **Engineering Notice for Belleair Beach:** Envelope check: Exterior Cladding assigned to wind-load band B with stress factor 1.18. Elevation: 0 ft AMSL. Regional dispatch grid: Pinellas County.

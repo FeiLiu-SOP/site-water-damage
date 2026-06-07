@@ -12,6 +12,7 @@ lng: -87.2500
 zipSample: ["36441"]
 zipCodes: ["36441"]
 localPaths: ["Escambia County / coords 31.0100, -87.2500", "Escambia County / elevation 138 ft band", "Escambia County / ZIP 36441 sector", "Escambia County / primary ZIP 36441"]
+zillowHomeValueUsd: 140243
 ---
 
 **Engineering Notice for Flomaton:** System optimized for 171 mg/L hard water scaling factors in Flomaton. Regional dispatch grid: Escambia County.

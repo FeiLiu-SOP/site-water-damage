@@ -12,6 +12,7 @@ lng: -92.0600
 zipSample: ["71211", "71280"]
 zipCodes: ["71211", "71280"]
 localPaths: ["Ouachita Parish / ZIP 71211 sector", "Ouachita Parish / primary ZIP 71280", "Ouachita Parish / elevation 85 ft band", "Ouachita Parish / coords 32.6900, -92.0600", "Ouachita Parish / ZIP 71280 sector"]
+zillowHomeValueUsd: 228982
 ---
 
 **Engineering Notice for Sterlington:** structural drying capacity optimized for 85ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ouachita Parish. Relative Humidity Threshold: 72%. Sensor sync: Active.

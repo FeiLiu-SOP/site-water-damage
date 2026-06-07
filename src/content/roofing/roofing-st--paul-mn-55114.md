@@ -11,6 +11,7 @@ lng: -93.1000
 zipSample: ["55155", "55114", "55133", "55104", "55145"]
 zipCodes: ["55114", "55131", "55104", "55108", "55130", "55164", "55146", "55116", "55145", "55144", "55101", "55133"]
 localPaths: ["Ramsey County / ZIP 55133 sector", "Ramsey County / ZIP 55104 sector", "Ramsey County / ZIP 55114 sector", "Ramsey County / ZIP 55155 sector", "Ramsey County / coords 44.9500, -93.1000"]
+zillowHomeValueUsd: 280955
 ---
 
 **Engineering Notice for St. Paul:** Structural loading calculated based on 801 ft terrain assessment. Regional dispatch grid: Ramsey County.

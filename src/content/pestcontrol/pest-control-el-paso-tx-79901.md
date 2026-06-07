@@ -11,6 +11,7 @@ lng: -106.4300
 zipSample: ["88557", "88545", "88569", "88570", "88559"]
 zipCodes: ["88563", "79835", "88554", "79911", "79941", "88584", "88557", "88543", "88582", "79995", "88579", "79999"]
 localPaths: ["El Paso County / ZIP 88557 sector", "El Paso County / ZIP 88545 sector", "El Paso County / primary ZIP 79901", "El Paso County / coords 31.8500, -106.4300", "El Paso County / elevation 3875 ft band"]
+zillowHomeValueUsd: 137662
 ---
 
 **Engineering Notice for El Paso:** Structural loading calculated based on 3875 ft terrain assessment. Regional dispatch grid: El Paso County.

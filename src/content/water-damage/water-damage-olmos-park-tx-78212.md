@@ -12,6 +12,7 @@ lng: -98.4900
 zipSample: ["78212"]
 zipCodes: ["78212"]
 localPaths: ["Bexar County / elevation 764 ft band", "Bexar County / primary ZIP 78212", "Bexar County / ZIP 78212 sector", "Bexar County / coords 29.4700, -98.4900"]
+zillowHomeValueUsd: 284289
 ---
 
 **Engineering Notice for Olmos Park:** structural drying capacity optimized for 764ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bexar County. Relative Humidity Threshold: 79%. Sensor sync: Active.

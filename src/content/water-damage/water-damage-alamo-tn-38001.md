@@ -12,6 +12,7 @@ lng: -89.1200
 zipSample: ["38001"]
 zipCodes: ["38001"]
 localPaths: ["Crockett County / elevation 371 ft band", "Crockett County / ZIP 38001 sector", "Crockett County / coords 35.7800, -89.1200", "Crockett County / primary ZIP 38001"]
+zillowHomeValueUsd: 178566
 ---
 
 **Engineering Notice for Alamo:** structural drying capacity optimized for 371ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Crockett County. Relative Humidity Threshold: 82%. Sensor sync: Active.

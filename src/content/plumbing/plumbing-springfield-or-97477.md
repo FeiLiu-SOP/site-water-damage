@@ -12,6 +12,7 @@ lng: -122.9800
 zipSample: ["97475", "97477", "97403", "97478"]
 zipCodes: ["97403", "97477", "97475", "97478"]
 localPaths: ["Lane County / primary ZIP 97477", "Lane County / ZIP 97477 sector", "Lane County / coords 44.0500, -122.9800", "Lane County / elevation 479 ft band", "Lane County / ZIP 97478 sector"]
+zillowHomeValueUsd: 399535
 ---
 
 **Engineering Notice for Springfield:** Structural loading calculated based on 479 ft terrain assessment. Regional dispatch grid: Lane County.

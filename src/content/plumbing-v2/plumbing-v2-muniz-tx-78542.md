@@ -12,6 +12,7 @@ lng: -98.0900
 zipSample: ["78542"]
 zipCodes: ["78542"]
 localPaths: ["Hidalgo County / coords 26.2600, -98.0900", "Hidalgo County / ZIP 78542 sector", "Hidalgo County / elevation 98 ft band", "Hidalgo County / primary ZIP 78542"]
+zillowHomeValueUsd: 206193
 ---
 
 **Engineering Notice for Muniz:** System optimized for 172 mg/L hard water scaling factors in Muniz. Regional dispatch grid: Hidalgo County.

@@ -12,6 +12,7 @@ lng: -118.9400
 zipSample: ["93306"]
 zipCodes: ["93306"]
 localPaths: ["Kern County / primary ZIP 93306", "Kern County / elevation 712 ft band", "Kern County / ZIP 93306 sector", "Kern County / coords 35.3900, -118.9400"]
+zillowHomeValueUsd: 348778
 ---
 
 **Engineering Notice for Bakersfield Country Club:** System optimized for 141 mg/L hard water scaling factors in Bakersfield Country Club. Regional dispatch grid: Kern County.

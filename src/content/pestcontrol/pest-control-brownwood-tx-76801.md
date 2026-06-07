@@ -11,6 +11,7 @@ lng: -98.9800
 zipSample: ["76801", "76803", "76802"]
 zipCodes: ["76803", "76801", "76802"]
 localPaths: ["Brown County / ZIP 76803 sector", "Brown County / ZIP 76802 sector", "Brown County / elevation 1358 ft band", "Brown County / ZIP 76801 sector", "Brown County / coords 31.7100, -98.9800"]
+zillowHomeValueUsd: 168917
 ---
 
 **Engineering Notice for Brownwood:** Structural loading calculated based on 1358 ft terrain assessment. Regional dispatch grid: Brown County.

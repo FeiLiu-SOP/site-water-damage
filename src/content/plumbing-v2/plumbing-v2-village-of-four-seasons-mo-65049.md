@@ -12,6 +12,7 @@ lng: -92.7200
 zipSample: ["65049"]
 zipCodes: ["65049"]
 localPaths: ["Camden County / coords 38.2000, -92.7200", "Camden County / ZIP 65049 sector", "Camden County / elevation 751 ft band", "Camden County / primary ZIP 65049"]
+zillowHomeValueUsd: 333518
 ---
 
 **Engineering Notice for Village of Four Seasons:** System optimized for 140 mg/L hard water scaling factors in Village of Four Seasons. Regional dispatch grid: Camden County.

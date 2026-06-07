@@ -12,6 +12,7 @@ lng: -80.3900
 zipSample: ["27103", "27012"]
 zipCodes: ["27103", "27012"]
 localPaths: ["Forsyth County / primary ZIP 27012", "Forsyth County / ZIP 27012 sector", "Forsyth County / ZIP 27103 sector", "Forsyth County / coords 36.0300, -80.3900", "Forsyth County / elevation 814 ft band"]
+zillowHomeValueUsd: 388289
 ---
 
 **Engineering Notice for Clemmons:** Structural loading calculated based on 814 ft terrain assessment. Regional dispatch grid: Forsyth County.

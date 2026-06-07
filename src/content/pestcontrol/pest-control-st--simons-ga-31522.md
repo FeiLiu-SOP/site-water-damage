@@ -11,6 +11,7 @@ lng: -81.3900
 zipSample: ["31522"]
 zipCodes: ["31522"]
 localPaths: ["Glynn County / ZIP 31522 sector", "Glynn County / coords 31.1800, -81.3900", "Glynn County / elevation 20 ft band", "Glynn County / primary ZIP 31522"]
+zillowHomeValueUsd: 688204
 ---
 
 **Engineering Notice for St. Simons:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Glynn County.

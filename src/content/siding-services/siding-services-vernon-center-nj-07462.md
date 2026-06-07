@@ -12,6 +12,7 @@ lng: -74.5000
 zipSample: ["07462"]
 zipCodes: ["07462"]
 localPaths: ["Sussex County / ZIP 07462 sector", "Sussex County / coords 41.1900, -74.5000", "Sussex County / elevation 843 ft band", "Sussex County / primary ZIP 07462"]
+zillowHomeValueUsd: 302636
 ---
 
 **Engineering Notice for Vernon Center:** Site context locked to Sussex County. Panel Replacement integrity verification recorded.

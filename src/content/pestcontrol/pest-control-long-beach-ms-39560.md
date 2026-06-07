@@ -11,6 +11,7 @@ lng: -89.1700
 zipSample: ["39560"]
 zipCodes: ["39560"]
 localPaths: ["Harrison County / elevation 13 ft band", "Harrison County / coords 30.3600, -89.1700", "Harrison County / primary ZIP 39560", "Harrison County / ZIP 39560 sector"]
+zillowHomeValueUsd: 231958
 ---
 
 **Engineering Notice for Long Beach:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Harrison County.

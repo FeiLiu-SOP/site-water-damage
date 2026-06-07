@@ -11,6 +11,7 @@ lng: -122.6900
 zipSample: ["97013"]
 zipCodes: ["97013"]
 localPaths: ["Clackamas County / elevation 144 ft band", "Clackamas County / coords 45.2700, -122.6900", "Clackamas County / ZIP 97013 sector", "Clackamas County / primary ZIP 97013"]
+zillowHomeValueUsd: 591272
 ---
 
 **Engineering Notice for Canby:** Structural loading calculated based on 144 ft terrain assessment. Regional dispatch grid: Clackamas County.

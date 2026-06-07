@@ -12,6 +12,7 @@ lng: -97.6000
 zipSample: ["68361"]
 zipCodes: ["68361"]
 localPaths: ["Fillmore County / elevation 1650 ft band", "Fillmore County / primary ZIP 68361", "Fillmore County / coords 40.5300, -97.6000", "Fillmore County / ZIP 68361 sector"]
+zillowHomeValueUsd: 176343
 ---
 
 **Engineering Notice for Geneva:** Envelope check: Panel Replacement assigned to wind-load band A with stress factor 0.85. Elevation: 1650 ft AMSL. Regional dispatch grid: Fillmore County.

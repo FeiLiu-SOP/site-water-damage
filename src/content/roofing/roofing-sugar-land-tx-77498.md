@@ -11,6 +11,7 @@ lng: -95.6400
 zipSample: ["77479", "77496", "77487", "77478", "77498"]
 zipCodes: ["77487", "77478", "77496", "77479", "77498"]
 localPaths: ["Fort Bend County / ZIP 77496 sector", "Fort Bend County / ZIP 77487 sector", "Fort Bend County / elevation 82 ft band", "Fort Bend County / ZIP 77498 sector", "Fort Bend County / ZIP 77478 sector"]
+zillowHomeValueUsd: 327196
 ---
 
 **Engineering Notice for Sugar Land:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Fort Bend County.

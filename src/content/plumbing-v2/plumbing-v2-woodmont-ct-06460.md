@@ -12,6 +12,7 @@ lng: -72.9900
 zipSample: ["06460"]
 zipCodes: ["06460"]
 localPaths: ["South Central Connecticut County / primary ZIP 06460", "South Central Connecticut County / ZIP 06460 sector", "South Central Connecticut County / elevation 46 ft band", "South Central Connecticut County / coords 41.2300, -72.9900"]
+zillowHomeValueUsd: 494402
 ---
 
 **Engineering Notice for Woodmont:** System optimized for 167 mg/L hard water scaling factors in Woodmont. Regional dispatch grid: South Central Connecticut County.

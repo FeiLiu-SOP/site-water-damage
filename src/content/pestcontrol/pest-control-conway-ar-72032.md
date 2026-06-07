@@ -11,6 +11,7 @@ lng: -92.4700
 zipSample: ["72034", "72035", "72032"]
 zipCodes: ["72034", "72032", "72035"]
 localPaths: ["Faulkner County / coords 35.0800, -92.4700", "Faulkner County / ZIP 72034 sector", "Faulkner County / ZIP 72035 sector", "Faulkner County / ZIP 72032 sector", "Faulkner County / primary ZIP 72032"]
+zillowHomeValueUsd: 219054
 ---
 
 **Engineering Notice for Conway:** Structural loading calculated based on 335 ft terrain assessment. Regional dispatch grid: Faulkner County.

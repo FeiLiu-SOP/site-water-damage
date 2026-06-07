@@ -11,6 +11,7 @@ lng: -123.2100
 zipSample: ["95418", "95482"]
 zipCodes: ["95482", "95418"]
 localPaths: ["Mendocino County / elevation 650 ft band", "Mendocino County / primary ZIP 95482", "Mendocino County / ZIP 95418 sector", "Mendocino County / ZIP 95482 sector", "Mendocino County / coords 39.1500, -123.2100"]
+zillowHomeValueUsd: 477210
 ---
 
 **Engineering Notice for Ukiah:** Structural loading calculated based on 650 ft terrain assessment. Regional dispatch grid: Mendocino County.

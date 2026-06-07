@@ -12,6 +12,7 @@ lng: -87.6200
 zipSample: ["60430", "60476"]
 zipCodes: ["60430", "60476"]
 localPaths: ["Cook County / primary ZIP 60476", "Cook County / elevation 522 ft band", "Cook County / coords 41.5700, -87.6200", "Cook County / ZIP 60430 sector", "Cook County / ZIP 60476 sector"]
+zillowHomeValueUsd: 176273
 ---
 
 **Engineering Notice for Thornton:** System optimized for 164 mg/L hard water scaling factors in Thornton. Regional dispatch grid: Cook County.

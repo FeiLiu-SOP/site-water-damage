@@ -12,6 +12,7 @@ lng: -95.8900
 zipSample: ["68048"]
 zipCodes: ["68048"]
 localPaths: ["Cass County / elevation 1066 ft band", "Cass County / coords 40.9200, -95.8900", "Cass County / ZIP 68048 sector", "Cass County / primary ZIP 68048"]
+zillowHomeValueUsd: 305629
 ---
 
 **Engineering Notice for Beaver Lake:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Coordinates: 40.9200, -95.8900. Grid: Cass County.

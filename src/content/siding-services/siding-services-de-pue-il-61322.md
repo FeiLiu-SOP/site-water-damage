@@ -12,6 +12,8 @@ lng: -89.3000
 zipSample: ["61356", "61322"]
 zipCodes: ["61322", "61356"]
 localPaths: ["Bureau County / ZIP 61322 sector", "Bureau County / ZIP 61356 sector", "Bureau County / coords 41.3300, -89.3000", "Bureau County / elevation 512 ft band", "Bureau County / primary ZIP 61322"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 237538
 ---
 
 **Engineering Notice for De Pue:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 0.96. Regional dispatch grid: Bureau County.

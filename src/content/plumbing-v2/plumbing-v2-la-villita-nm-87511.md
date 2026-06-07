@@ -12,6 +12,8 @@ lng: -106.0500
 zipSample: ["87511"]
 zipCodes: ["87511"]
 localPaths: ["Rio Arriba County / primary ZIP 87511", "Rio Arriba County / elevation 5679 ft band", "Rio Arriba County / ZIP 87511 sector", "Rio Arriba County / coords 36.1000, -106.0500"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 314785
 ---
 
 **Engineering Notice for La Villita:** System optimized for 128 mg/L hard water scaling factors in La Villita. Regional dispatch grid: Rio Arriba County.

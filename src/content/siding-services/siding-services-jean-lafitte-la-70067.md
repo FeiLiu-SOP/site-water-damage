@@ -12,6 +12,7 @@ lng: -90.1000
 zipSample: ["70067"]
 zipCodes: ["70067"]
 localPaths: ["Jefferson Parish / ZIP 70067 sector", "Jefferson Parish / elevation 3 ft band", "Jefferson Parish / primary ZIP 70067", "Jefferson Parish / coords 29.7500, -90.1000"]
+zillowHomeValueUsd: 202451
 ---
 
 **Engineering Notice for Jean Lafitte:** Cladding verification uses 106 mph routing baseline; lateral pressure note: 13.9 psf. Coordinates: 29.7500, -90.1000. Grid: Jefferson Parish.

@@ -12,6 +12,7 @@ lng: -85.7200
 zipSample: ["40150"]
 zipCodes: ["40150"]
 localPaths: ["Bullitt County / primary ZIP 40150", "Bullitt County / elevation 554 ft band", "Bullitt County / coords 37.8400, -85.7200", "Bullitt County / ZIP 40150 sector"]
+zillowHomeValueUsd: 240969
 ---
 
 **Engineering Notice for Lebanon Junction:** Weather Barrier Wrap was validated under stress factor 1.10; target tolerance set near 99 mph. Grid anchor: Bullitt County.

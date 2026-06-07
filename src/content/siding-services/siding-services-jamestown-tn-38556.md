@@ -12,6 +12,7 @@ lng: -84.9300
 zipSample: ["38556"]
 zipCodes: ["38556"]
 localPaths: ["Fentress County / elevation 1722 ft band", "Fentress County / coords 36.4300, -84.9300", "Fentress County / ZIP 38556 sector", "Fentress County / primary ZIP 38556"]
+zillowHomeValueUsd: 234963
 ---
 
 **Engineering Notice for Jamestown:** Site context locked to Fentress County. Elevation: 1722 ft AMSL. Coordinates: 36.4300, -84.9300. Wall Restoration integrity verification recorded.

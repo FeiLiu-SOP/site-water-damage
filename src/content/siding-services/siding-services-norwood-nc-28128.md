@@ -12,6 +12,7 @@ lng: -80.1100
 zipSample: ["28128"]
 zipCodes: ["28128"]
 localPaths: ["Stanly County / ZIP 28128 sector", "Stanly County / elevation 433 ft band", "Stanly County / coords 35.2300, -80.1100", "Stanly County / primary ZIP 28128"]
+zillowHomeValueUsd: 296559
 ---
 
 **Engineering Notice for Norwood:** Site context locked to Stanly County. Coordinates: 35.2300, -80.1100. Facade Renewal integrity verification recorded.

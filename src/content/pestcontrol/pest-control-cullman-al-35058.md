@@ -11,6 +11,7 @@ lng: -86.8400
 zipSample: ["35058", "35055", "35056", "35057"]
 zipCodes: ["35058", "35055", "35057", "35056"]
 localPaths: ["Cullman County / ZIP 35057 sector", "Cullman County / primary ZIP 35058", "Cullman County / ZIP 35056 sector", "Cullman County / coords 34.1800, -86.8400", "Cullman County / elevation 823 ft band"]
+zillowHomeValueUsd: 262442
 ---
 
 **Engineering Notice for Cullman:** Structural loading calculated based on 823 ft terrain assessment. Regional dispatch grid: Cullman County.

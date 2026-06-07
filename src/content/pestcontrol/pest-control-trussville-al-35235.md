@@ -11,6 +11,7 @@ lng: -86.5800
 zipSample: ["35173", "35235"]
 zipCodes: ["35235", "35173"]
 localPaths: ["Jefferson County / ZIP 35235 sector", "Jefferson County / primary ZIP 35235", "Jefferson County / elevation 804 ft band", "Jefferson County / ZIP 35173 sector", "Jefferson County / coords 33.6400, -86.5800"]
+zillowHomeValueUsd: 185009
 ---
 
 **Engineering Notice for Trussville:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Jefferson County.

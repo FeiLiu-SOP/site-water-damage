@@ -12,6 +12,7 @@ lng: -78.3800
 zipSample: ["22947"]
 zipCodes: ["22947"]
 localPaths: ["Albemarle County / elevation 381 ft band", "Albemarle County / primary ZIP 22947", "Albemarle County / ZIP 22947 sector", "Albemarle County / coords 37.9900, -78.3800"]
+zillowHomeValueUsd: 818877
 ---
 
 **Engineering Notice for Rivanna:** Weather Barrier Wrap was validated under stress factor 0.74; target tolerance set near 108 mph. Grid anchor: Albemarle County.

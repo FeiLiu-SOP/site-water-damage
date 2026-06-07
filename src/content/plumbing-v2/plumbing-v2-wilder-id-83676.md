@@ -12,6 +12,7 @@ lng: -116.9100
 zipSample: ["83676"]
 zipCodes: ["83676"]
 localPaths: ["Canyon County / ZIP 83676 sector", "Canyon County / elevation 2425 ft band", "Canyon County / primary ZIP 83676", "Canyon County / coords 43.6800, -116.9100"]
+zillowHomeValueUsd: 543276
 ---
 
 **Engineering Notice for Wilder:** System optimized for 142 mg/L hard water scaling factors in Wilder. Regional dispatch grid: Canyon County.

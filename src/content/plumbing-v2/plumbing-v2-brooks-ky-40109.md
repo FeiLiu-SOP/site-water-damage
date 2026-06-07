@@ -12,6 +12,7 @@ lng: -85.7200
 zipSample: ["40109"]
 zipCodes: ["40109"]
 localPaths: ["Bullitt County / primary ZIP 40109", "Bullitt County / coords 38.0700, -85.7200", "Bullitt County / elevation 535 ft band", "Bullitt County / ZIP 40109 sector"]
+zillowHomeValueUsd: 302875
 ---
 
 **Engineering Notice for Brooks:** System optimized for 120 mg/L hard water scaling factors in Brooks. Regional dispatch grid: Bullitt County.

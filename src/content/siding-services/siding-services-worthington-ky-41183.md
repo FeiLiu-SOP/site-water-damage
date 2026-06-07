@@ -12,6 +12,7 @@ lng: -82.7300
 zipSample: ["41183"]
 zipCodes: ["41183"]
 localPaths: ["Greenup County / coords 38.5500, -82.7300", "Greenup County / ZIP 41183 sector", "Greenup County / primary ZIP 41183", "Greenup County / elevation 548 ft band"]
+zillowHomeValueUsd: 126119
 ---
 
 **Engineering Notice for Worthington:** Vinyl Panels was validated under stress factor 1.07; target tolerance set near 108 mph. Grid anchor: Greenup County.

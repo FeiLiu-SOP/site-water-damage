@@ -12,6 +12,7 @@ lng: -119.7600
 zipSample: ["93725"]
 zipCodes: ["93725"]
 localPaths: ["Fresno County / coords 36.7100, -119.7600", "Fresno County / primary ZIP 93725", "Fresno County / elevation 295 ft band", "Fresno County / ZIP 93725 sector"]
+zillowHomeValueUsd: 358374
 ---
 
 **Engineering Notice for Calwa:** System optimized for 147 mg/L hard water scaling factors in Calwa. Regional dispatch grid: Fresno County.

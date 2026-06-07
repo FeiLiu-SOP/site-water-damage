@@ -12,6 +12,7 @@ lng: -96.0200
 zipSample: ["75474"]
 zipCodes: ["75474"]
 localPaths: ["Hunt County / coords 32.9000, -96.0200", "Hunt County / ZIP 75474 sector", "Hunt County / elevation 476 ft band", "Hunt County / primary ZIP 75474"]
+zillowHomeValueUsd: 243037
 ---
 
 **Engineering Notice for West Tawakoni:** Site context locked to Hunt County. Elevation: 476 ft AMSL. Coordinates: 32.9000, -96.0200. Panel Replacement integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -86.0800
 zipSample: ["49112"]
 zipCodes: ["49112"]
 localPaths: ["Cass County / elevation 843 ft band", "Cass County / coords 41.8000, -86.0800", "Cass County / primary ZIP 49112", "Cass County / ZIP 49112 sector"]
+zillowHomeValueUsd: 300235
 ---
 
 **Engineering Notice for Edwardsburg:** System optimized for 163 mg/L hard water scaling factors in Edwardsburg. Regional dispatch grid: Cass County.

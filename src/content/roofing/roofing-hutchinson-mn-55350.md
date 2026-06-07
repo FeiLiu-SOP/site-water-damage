@@ -11,6 +11,7 @@ lng: -94.3800
 zipSample: ["55350"]
 zipCodes: ["55350"]
 localPaths: ["McLeod County / coords 44.8900, -94.3800", "McLeod County / primary ZIP 55350", "McLeod County / ZIP 55350 sector", "McLeod County / elevation 1079 ft band"]
+zillowHomeValueUsd: 293457
 ---
 
 **Engineering Notice for Hutchinson:** Structural loading calculated based on 1079 ft terrain assessment. Regional dispatch grid: McLeod County.

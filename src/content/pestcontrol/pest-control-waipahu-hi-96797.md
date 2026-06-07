@@ -11,6 +11,7 @@ lng: -158.0100
 zipSample: ["96797"]
 zipCodes: ["96797"]
 localPaths: ["Honolulu County / coords 21.3900, -158.0100", "Honolulu County / elevation 43 ft band", "Honolulu County / ZIP 96797 sector", "Honolulu County / primary ZIP 96797"]
+zillowHomeValueUsd: 869127
 ---
 
 **Engineering Notice for Waipahu:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Honolulu County.

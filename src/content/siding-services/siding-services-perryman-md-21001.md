@@ -12,6 +12,7 @@ lng: -76.2100
 zipSample: ["21130", "21001"]
 zipCodes: ["21001", "21130"]
 localPaths: ["Harford County / elevation 33 ft band", "Harford County / ZIP 21001 sector", "Harford County / coords 39.4600, -76.2100", "Harford County / ZIP 21130 sector", "Harford County / primary ZIP 21001"]
+zillowHomeValueUsd: 345715
 ---
 
 **Engineering Notice for Perryman:** Structural integrity verification: Panel Replacement calibrated for 97 mph localized wind load factor. Regional dispatch grid: Harford County.

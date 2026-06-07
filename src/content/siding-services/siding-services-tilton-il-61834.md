@@ -12,6 +12,7 @@ lng: -87.6400
 zipSample: ["61834", "61832", "61833"]
 zipCodes: ["61834", "61833", "61832"]
 localPaths: ["Vermilion County / ZIP 61833 sector", "Vermilion County / ZIP 61834 sector", "Vermilion County / primary ZIP 61834", "Vermilion County / coords 40.1000, -87.6400", "Vermilion County / elevation 656 ft band"]
+zillowHomeValueUsd: 183457
 ---
 
 **Engineering Notice for Tilton:** Exterior Cladding was validated under stress factor 0.96; target tolerance set near 98 mph. Grid anchor: Vermilion County.

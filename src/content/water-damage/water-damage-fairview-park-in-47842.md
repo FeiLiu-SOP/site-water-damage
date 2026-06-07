@@ -12,6 +12,7 @@ lng: -87.4100
 zipSample: ["47842"]
 zipCodes: ["47842"]
 localPaths: ["Vermillion County / elevation 509 ft band", "Vermillion County / coords 39.6800, -87.4100", "Vermillion County / primary ZIP 47842", "Vermillion County / ZIP 47842 sector"]
+zillowHomeValueUsd: 131777
 ---
 
 **Engineering Notice for Fairview Park:** structural drying capacity optimized for 509ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Vermillion County. Relative Humidity Threshold: 69%. Sensor sync: Active.

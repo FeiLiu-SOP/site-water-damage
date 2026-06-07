@@ -12,6 +12,7 @@ lng: -122.3500
 zipSample: ["94402"]
 zipCodes: ["94402"]
 localPaths: ["San Mateo County / primary ZIP 94402", "San Mateo County / coords 37.5200, -122.3500", "San Mateo County / ZIP 94402 sector", "San Mateo County / elevation 568 ft band"]
+zillowHomeValueUsd: 2475192
 ---
 
 **Engineering Notice for Highlands:** System optimized for 151 mg/L hard water scaling factors in Highlands. Regional dispatch grid: San Mateo County.

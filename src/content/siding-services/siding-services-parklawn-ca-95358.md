@@ -12,6 +12,7 @@ lng: -120.9800
 zipSample: ["95358"]
 zipCodes: ["95358"]
 localPaths: ["Stanislaus County / elevation 89 ft band", "Stanislaus County / primary ZIP 95358", "Stanislaus County / ZIP 95358 sector", "Stanislaus County / coords 37.6100, -120.9800"]
+zillowHomeValueUsd: 434064
 ---
 
 **Engineering Notice for Parklawn:** Envelope check: Cladding Retrofit assigned to wind-load band C with stress factor 0.94. Elevation: 89 ft AMSL. Regional dispatch grid: Stanislaus County.

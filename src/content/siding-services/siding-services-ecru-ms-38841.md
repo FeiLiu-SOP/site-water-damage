@@ -12,6 +12,7 @@ lng: -89.0200
 zipSample: ["38841"]
 zipCodes: ["38841"]
 localPaths: ["Pontotoc County / primary ZIP 38841", "Pontotoc County / ZIP 38841 sector", "Pontotoc County / coords 34.3500, -89.0200", "Pontotoc County / elevation 394 ft band"]
+zillowHomeValueUsd: 208783
 ---
 
 **Engineering Notice for Ecru:** Wall Restoration was validated under stress factor 0.74; target tolerance set near 96 mph. Grid anchor: Pontotoc County.

@@ -11,6 +11,7 @@ lng: -77.4000
 zipSample: ["20171", "22033"]
 zipCodes: ["22033", "20171"]
 localPaths: ["Fairfax County / primary ZIP 22033", "Fairfax County / ZIP 22033 sector", "Fairfax County / elevation 374 ft band", "Fairfax County / ZIP 20171 sector", "Fairfax County / coords 38.9100, -77.4000"]
+zillowHomeValueUsd: 711149
 ---
 
 **Engineering Notice for Franklin Farm:** Structural loading calculated based on 374 ft terrain assessment. Regional dispatch grid: Fairfax County.

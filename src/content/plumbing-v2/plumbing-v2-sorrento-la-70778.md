@@ -12,6 +12,7 @@ lng: -90.8700
 zipSample: ["70778", "70737"]
 zipCodes: ["70737", "70778"]
 localPaths: ["Ascension Parish / ZIP 70737 sector", "Ascension Parish / ZIP 70778 sector", "Ascension Parish / coords 30.1800, -90.8700", "Ascension Parish / elevation 30 ft band", "Ascension Parish / primary ZIP 70778"]
+zillowHomeValueUsd: 277425
 ---
 
 **Engineering Notice for Sorrento:** System optimized for 139 mg/L hard water scaling factors in Sorrento. Regional dispatch grid: Ascension Parish.

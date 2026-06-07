@@ -12,6 +12,7 @@ lng: -111.2800
 zipSample: ["84055", "84036"]
 zipCodes: ["84055", "84036"]
 localPaths: ["Summit County / primary ZIP 84036", "Summit County / ZIP 84036 sector", "Summit County / coords 40.7300, -111.2800", "Summit County / ZIP 84055 sector", "Summit County / elevation 6575 ft band"]
+zillowHomeValueUsd: 1017832
 ---
 
 **Engineering Notice for Oakley:** Structural integrity verification: Cladding Service calibrated for 102 mph localized wind load factor. Regional dispatch grid: Summit County.

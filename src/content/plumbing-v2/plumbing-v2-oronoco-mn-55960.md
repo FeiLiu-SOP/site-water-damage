@@ -12,6 +12,7 @@ lng: -92.5400
 zipSample: ["55960"]
 zipCodes: ["55960"]
 localPaths: ["Olmsted County / primary ZIP 55960", "Olmsted County / elevation 948 ft band", "Olmsted County / ZIP 55960 sector", "Olmsted County / coords 44.1600, -92.5400"]
+zillowHomeValueUsd: 538576
 ---
 
 **Engineering Notice for Oronoco:** System optimized for 158 mg/L hard water scaling factors in Oronoco. Regional dispatch grid: Olmsted County.

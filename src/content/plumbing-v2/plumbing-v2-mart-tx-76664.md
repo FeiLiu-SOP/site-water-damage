@@ -12,6 +12,7 @@ lng: -96.8300
 zipSample: ["76664"]
 zipCodes: ["76664"]
 localPaths: ["McLennan County / elevation 541 ft band", "McLennan County / primary ZIP 76664", "McLennan County / ZIP 76664 sector", "McLennan County / coords 31.5400, -96.8300"]
+zillowHomeValueUsd: 155432
 ---
 
 **Engineering Notice for Mart:** System optimized for 149 mg/L hard water scaling factors in Mart. Regional dispatch grid: McLennan County.

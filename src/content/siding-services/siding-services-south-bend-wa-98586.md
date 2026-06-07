@@ -12,6 +12,7 @@ lng: -123.8000
 zipSample: ["98577", "98586"]
 zipCodes: ["98586", "98577"]
 localPaths: ["Pacific County / elevation 7 ft band", "Pacific County / coords 46.6700, -123.8000", "Pacific County / ZIP 98577 sector", "Pacific County / ZIP 98586 sector", "Pacific County / primary ZIP 98586"]
+zillowHomeValueUsd: 296645
 ---
 
 **Engineering Notice for South Bend:** Structural integrity verification: Wall Restoration calibrated for 100 mph localized wind load factor. Coordinates: 46.6700, -123.8000. Regional dispatch grid: Pacific County.

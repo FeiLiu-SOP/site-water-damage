@@ -12,6 +12,7 @@ lng: -72.0900
 zipSample: ["06360", "06380", "06389"]
 zipCodes: ["06389", "06360", "06380"]
 localPaths: ["Southeastern Connecticut County / ZIP 06380 sector", "Southeastern Connecticut County / coords 41.5500, -72.0900", "Southeastern Connecticut County / ZIP 06389 sector", "Southeastern Connecticut County / primary ZIP 06380", "Southeastern Connecticut County / ZIP 06360 sector"]
+zillowHomeValueUsd: 282016
 ---
 
 **Engineering Notice for Norwich:** Structural loading calculated based on 141 ft terrain assessment. Regional dispatch grid: Southeastern Connecticut County.

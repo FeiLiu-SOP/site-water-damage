@@ -12,6 +12,7 @@ lng: -79.7000
 zipSample: ["15401", "15445"]
 zipCodes: ["15401", "15445"]
 localPaths: ["Fayette County / primary ZIP 15401", "Fayette County / elevation 1102 ft band", "Fayette County / ZIP 15445 sector", "Fayette County / coords 39.8800, -79.7000", "Fayette County / ZIP 15401 sector"]
+zillowHomeValueUsd: 155373
 ---
 
 **Engineering Notice for Hopwood:** structural drying capacity optimized for 1102ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fayette County. Relative Humidity Threshold: 85%. Sensor sync: Active.

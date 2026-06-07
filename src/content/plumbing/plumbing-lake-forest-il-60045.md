@@ -12,6 +12,7 @@ lng: -87.8600
 zipSample: ["60045", "60065"]
 zipCodes: ["60065", "60045"]
 localPaths: ["Lake County / ZIP 60065 sector", "Lake County / coords 42.2400, -87.8600", "Lake County / primary ZIP 60045", "Lake County / elevation 689 ft band", "Lake County / ZIP 60045 sector"]
+zillowHomeValueUsd: 1139150
 ---
 
 **Engineering Notice for Lake Forest:** Structural loading calculated based on 689 ft terrain assessment. Regional dispatch grid: Lake County.

@@ -12,6 +12,7 @@ lng: -80.3000
 zipSample: ["33166"]
 zipCodes: ["33166"]
 localPaths: ["Miami-Dade County / primary ZIP 33166", "Miami-Dade County / ZIP 33166 sector", "Miami-Dade County / coords 25.8100, -80.3000", "Miami-Dade County / elevation 30 ft band"]
+zillowHomeValueUsd: 608378
 ---
 
 **Engineering Notice for Virginia Gardens:** structural drying capacity optimized for 30ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Miami-Dade County. Relative Humidity Threshold: 80%. Sensor sync: Active.

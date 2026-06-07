@@ -12,6 +12,7 @@ lng: -86.7500
 zipSample: ["36033"]
 zipCodes: ["36033"]
 localPaths: ["Butler County / primary ZIP 36033", "Butler County / elevation 354 ft band", "Butler County / ZIP 36033 sector", "Butler County / coords 31.6400, -86.7500"]
+zillowHomeValueUsd: 104790
 ---
 
 **Engineering Notice for Georgiana:** structural drying capacity optimized for 354ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Butler County. Relative Humidity Threshold: 79%. Sensor sync: Active.

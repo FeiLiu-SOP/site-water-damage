@@ -11,6 +11,7 @@ lng: -110.6900
 zipSample: ["85744", "85641"]
 zipCodes: ["85744", "85641"]
 localPaths: ["Pima County / ZIP 85744 sector", "Pima County / coords 32.0200, -110.6900", "Pima County / elevation 3346 ft band", "Pima County / primary ZIP 85641", "Pima County / ZIP 85641 sector"]
+zillowHomeValueUsd: 407235
 ---
 
 **Engineering Notice for Vail:** Structural loading calculated based on 3346 ft terrain assessment. Regional dispatch grid: Pima County.

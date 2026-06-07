@@ -11,6 +11,7 @@ lng: -87.8800
 zipSample: ["53405", "53126", "53406", "53402", "53108"]
 zipCodes: ["53402", "53126", "53404", "53405", "53108", "53406"]
 localPaths: ["Racine County / ZIP 53402 sector", "Racine County / ZIP 53406 sector", "Racine County / ZIP 53108 sector", "Racine County / ZIP 53126 sector", "Racine County / elevation 702 ft band"]
+zillowHomeValueUsd: 227209
 ---
 
 **Engineering Notice for Caledonia:** Structural loading calculated based on 702 ft terrain assessment. Regional dispatch grid: Racine County.

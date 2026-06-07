@@ -11,6 +11,7 @@ lng: -85.6000
 zipSample: ["32402", "32412", "32404", "32405", "32401"]
 zipCodes: ["32401", "32412", "32404", "32405", "32402"]
 localPaths: ["Bay County / ZIP 32405 sector", "Bay County / ZIP 32412 sector", "Bay County / primary ZIP 32401", "Bay County / coords 30.2000, -85.6000", "Bay County / ZIP 32402 sector"]
+zillowHomeValueUsd: 212915
 ---
 
 **Engineering Notice for Panama City:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Bay County.

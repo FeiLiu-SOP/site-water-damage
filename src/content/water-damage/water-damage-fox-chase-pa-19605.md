@@ -12,6 +12,7 @@ lng: -75.9600
 zipSample: ["19605"]
 zipCodes: ["19605"]
 localPaths: ["Berks County / primary ZIP 19605", "Berks County / coords 40.4000, -75.9600", "Berks County / elevation 322 ft band", "Berks County / ZIP 19605 sector"]
+zillowHomeValueUsd: 292207
 ---
 
 **Engineering Notice for Fox Chase:** structural drying capacity optimized for 322ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Berks County. Relative Humidity Threshold: 76%. Sensor sync: Active.

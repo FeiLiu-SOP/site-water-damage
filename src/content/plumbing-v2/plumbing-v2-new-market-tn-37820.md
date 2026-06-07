@@ -12,6 +12,7 @@ lng: -83.5500
 zipSample: ["37820"]
 zipCodes: ["37820"]
 localPaths: ["Jefferson County / primary ZIP 37820", "Jefferson County / ZIP 37820 sector", "Jefferson County / elevation 1060 ft band", "Jefferson County / coords 36.1100, -83.5500"]
+zillowHomeValueUsd: 317532
 ---
 
 **Engineering Notice for New Market:** System optimized for 157 mg/L hard water scaling factors in New Market. Regional dispatch grid: Jefferson County.

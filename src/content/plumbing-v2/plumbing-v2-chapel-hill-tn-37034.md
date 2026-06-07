@@ -12,6 +12,7 @@ lng: -86.7000
 zipSample: ["37034"]
 zipCodes: ["37034"]
 localPaths: ["Marshall County / ZIP 37034 sector", "Marshall County / elevation 696 ft band", "Marshall County / primary ZIP 37034", "Marshall County / coords 35.6300, -86.7000"]
+zillowHomeValueUsd: 391641
 ---
 
 **Engineering Notice for Chapel Hill:** System optimized for 166 mg/L hard water scaling factors in Chapel Hill. Regional dispatch grid: Marshall County.

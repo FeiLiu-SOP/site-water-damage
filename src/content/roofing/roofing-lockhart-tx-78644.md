@@ -11,6 +11,7 @@ lng: -97.6800
 zipSample: ["78644"]
 zipCodes: ["78644"]
 localPaths: ["Caldwell County / primary ZIP 78644", "Caldwell County / coords 29.8800, -97.6800", "Caldwell County / elevation 558 ft band", "Caldwell County / ZIP 78644 sector"]
+zillowHomeValueUsd: 284186
 ---
 
 **Engineering Notice for Lockhart:** Structural loading calculated based on 558 ft terrain assessment. Regional dispatch grid: Caldwell County.

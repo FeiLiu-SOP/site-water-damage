@@ -12,6 +12,7 @@ lng: -75.0700
 zipSample: ["08322"]
 zipCodes: ["08322"]
 localPaths: ["Gloucester County / elevation 108 ft band", "Gloucester County / primary ZIP 08322", "Gloucester County / ZIP 08322 sector", "Gloucester County / coords 39.6200, -75.0700"]
+zillowHomeValueUsd: 373804
 ---
 
 **Engineering Notice for Franklinville:** Cladding verification uses 101 mph routing baseline; lateral pressure note: 13.3 psf. Coordinates: 39.6200, -75.0700. Grid: Gloucester County.

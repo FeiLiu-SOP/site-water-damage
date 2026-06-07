@@ -12,6 +12,7 @@ lng: -82.3200
 zipSample: ["33543", "33544", "33545", "33559"]
 zipCodes: ["33545", "33544", "33543", "33559"]
 localPaths: ["Pasco County / primary ZIP 33543", "Pasco County / ZIP 33544 sector", "Pasco County / elevation 89 ft band", "Pasco County / ZIP 33543 sector", "Pasco County / ZIP 33545 sector"]
+zillowHomeValueUsd: 407233
 ---
 
 **Engineering Notice for Wesley Chapel:** Structural loading calculated based on 89 ft terrain assessment. Regional dispatch grid: Pasco County.

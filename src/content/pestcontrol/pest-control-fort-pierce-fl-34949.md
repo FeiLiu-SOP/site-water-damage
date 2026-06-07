@@ -11,6 +11,7 @@ lng: -80.3400
 zipSample: ["34981", "34949", "34979", "34954", "34950"]
 zipCodes: ["34979", "34948", "34947", "34982", "34949", "34954", "34950", "34981"]
 localPaths: ["St. Lucie County / ZIP 34979 sector", "St. Lucie County / primary ZIP 34949", "St. Lucie County / ZIP 34950 sector", "St. Lucie County / coords 27.4300, -80.3400", "St. Lucie County / ZIP 34981 sector"]
+zillowHomeValueUsd: 414609
 ---
 
 **Engineering Notice for Fort Pierce:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: St. Lucie County.

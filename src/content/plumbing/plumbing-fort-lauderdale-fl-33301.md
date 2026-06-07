@@ -12,6 +12,7 @@ lng: -80.1500
 zipSample: ["33316", "33309", "33308", "33304", "33315"]
 zipCodes: ["33309", "33316", "33338", "33304", "33348", "33301", "33306", "33308", "33346", "33320", "33340", "33315"]
 localPaths: ["Broward County / primary ZIP 33301", "Broward County / coords 26.1400, -80.1500", "Broward County / ZIP 33304 sector", "Broward County / ZIP 33309 sector", "Broward County / ZIP 33315 sector"]
+zillowHomeValueUsd: 868508
 ---
 
 **Engineering Notice for Fort Lauderdale:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Broward County.

@@ -12,6 +12,7 @@ lng: -82.5300
 zipSample: ["34608", "34609", "34604", "34606", "34611"]
 zipCodes: ["34609", "34606", "34608", "34611", "34604"]
 localPaths: ["Hernando County / ZIP 34604 sector", "Hernando County / ZIP 34611 sector", "Hernando County / ZIP 34608 sector", "Hernando County / ZIP 34606 sector", "Hernando County / primary ZIP 34608"]
+zillowHomeValueUsd: 293455
 ---
 
 **Engineering Notice for Spring Hill:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Hernando County.

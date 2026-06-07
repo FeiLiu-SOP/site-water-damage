@@ -11,6 +11,7 @@ lng: -84.3700
 zipSample: ["31150", "30327", "30342", "30358", "30350"]
 zipCodes: ["30328", "30358", "30350", "31150", "30342", "31156", "30327"]
 localPaths: ["Fulton County / ZIP 30358 sector", "Fulton County / primary ZIP 30350", "Fulton County / ZIP 30342 sector", "Fulton County / ZIP 30327 sector", "Fulton County / elevation 1024 ft band"]
+zillowHomeValueUsd: 547271
 ---
 
 **Engineering Notice for Sandy Springs:** Structural loading calculated based on 1024 ft terrain assessment. Regional dispatch grid: Fulton County.

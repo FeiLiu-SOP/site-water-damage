@@ -12,6 +12,7 @@ lng: -78.6400
 zipSample: ["14094"]
 zipCodes: ["14094"]
 localPaths: ["Niagara County / primary ZIP 14094", "Niagara County / ZIP 14094 sector", "Niagara County / coords 43.1000, -78.6400", "Niagara County / elevation 587 ft band"]
+zillowHomeValueUsd: 257272
 ---
 
 **Engineering Notice for Rapids:** System optimized for 160 mg/L hard water scaling factors in Rapids. Regional dispatch grid: Niagara County.

@@ -12,6 +12,7 @@ lng: -72.8200
 zipSample: ["11955"]
 zipCodes: ["11955"]
 localPaths: ["Suffolk County / coords 40.8100, -72.8200", "Suffolk County / elevation 39 ft band", "Suffolk County / ZIP 11955 sector", "Suffolk County / primary ZIP 11955"]
+zillowHomeValueUsd: 623247
 ---
 
 **Engineering Notice for Moriches:** structural drying capacity optimized for 39ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Suffolk County. Relative Humidity Threshold: 69%. Sensor sync: Active.

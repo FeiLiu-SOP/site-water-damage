@@ -12,6 +12,7 @@ lng: -89.7800
 zipSample: ["70458", "70460", "70459", "70469"]
 zipCodes: ["70469", "70458", "70459", "70460"]
 localPaths: ["St. Tammany Parish / coords 30.2900, -89.7800", "St. Tammany Parish / ZIP 70469 sector", "St. Tammany Parish / ZIP 70458 sector", "St. Tammany Parish / primary ZIP 70460", "St. Tammany Parish / ZIP 70459 sector"]
+zillowHomeValueUsd: 190190
 ---
 
 **Engineering Notice for Slidell:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: St. Tammany Parish.

@@ -12,6 +12,7 @@ lng: -83.8100
 zipSample: ["30548", "30517"]
 zipCodes: ["30517", "30548"]
 localPaths: ["Jackson County / coords 34.1100, -83.8100", "Jackson County / elevation 853 ft band", "Jackson County / ZIP 30548 sector", "Jackson County / primary ZIP 30548", "Jackson County / ZIP 30517 sector"]
+zillowHomeValueUsd: 486273
 ---
 
 **Engineering Notice for Braselton:** Structural loading calculated based on 853 ft terrain assessment. Regional dispatch grid: Jackson County.

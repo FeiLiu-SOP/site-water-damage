@@ -12,6 +12,7 @@ lng: -74.9200
 zipSample: ["19047"]
 zipCodes: ["19047"]
 localPaths: ["Bucks County / ZIP 19047 sector", "Bucks County / coords 40.1700, -74.9200", "Bucks County / elevation 243 ft band", "Bucks County / primary ZIP 19047"]
+zillowHomeValueUsd: 560830
 ---
 
 **Engineering Notice for Langhorne Manor:** Facade Renewal was validated under stress factor 0.86; target tolerance set near 100 mph. Grid anchor: Bucks County.

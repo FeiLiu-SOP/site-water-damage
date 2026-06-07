@@ -12,6 +12,7 @@ lng: -97.4600
 zipSample: ["78578", "78575", "78520", "78522", "78566"]
 zipCodes: ["78575", "78578", "78520", "78566", "78522", "78521", "78526"]
 localPaths: ["Cameron County / coords 26.0000, -97.4600", "Cameron County / ZIP 78520 sector", "Cameron County / primary ZIP 78521", "Cameron County / ZIP 78522 sector", "Cameron County / ZIP 78578 sector"]
+zillowHomeValueUsd: 174163
 ---
 
 **Engineering Notice for Brownsville:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Cameron County.

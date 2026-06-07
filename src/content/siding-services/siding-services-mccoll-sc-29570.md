@@ -12,6 +12,7 @@ lng: -79.5400
 zipSample: ["29570"]
 zipCodes: ["29570"]
 localPaths: ["Marlboro County / coords 34.6700, -79.5400", "Marlboro County / ZIP 29570 sector", "Marlboro County / elevation 194 ft band", "Marlboro County / primary ZIP 29570"]
+zillowHomeValueUsd: 76231
 ---
 
 **Engineering Notice for McColl:** Panel Replacement was validated under stress factor 0.98; target tolerance set near 106 mph. Grid anchor: Marlboro County.

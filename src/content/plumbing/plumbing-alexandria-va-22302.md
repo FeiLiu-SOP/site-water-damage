@@ -12,6 +12,7 @@ lng: -77.0900
 zipSample: ["22334", "22333", "22304", "22311", "22314"]
 zipCodes: ["22333", "22334", "22320", "22305", "22302", "20598", "22301", "22304", "22331", "22314", "22311", "22332"]
 localPaths: ["Alexandria County / ZIP 22333 sector", "Alexandria County / ZIP 22334 sector", "Alexandria County / ZIP 22314 sector", "Alexandria County / primary ZIP 22302", "Alexandria County / ZIP 22311 sector"]
+zillowHomeValueUsd: 441864
 ---
 
 **Engineering Notice for Alexandria:** Structural loading calculated based on 194 ft terrain assessment. Regional dispatch grid: Alexandria County.

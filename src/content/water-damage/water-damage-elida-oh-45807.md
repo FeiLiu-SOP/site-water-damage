@@ -12,6 +12,7 @@ lng: -84.2000
 zipSample: ["45807"]
 zipCodes: ["45807"]
 localPaths: ["Allen County / elevation 801 ft band", "Allen County / primary ZIP 45807", "Allen County / ZIP 45807 sector", "Allen County / coords 40.7900, -84.2000"]
+zillowHomeValueUsd: 251747
 ---
 
 **Engineering Notice for Elida:** structural drying capacity optimized for 801ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allen County. Relative Humidity Threshold: 67%. Sensor sync: Active.

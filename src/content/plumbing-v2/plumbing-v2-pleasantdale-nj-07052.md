@@ -12,6 +12,7 @@ lng: -74.2700
 zipSample: ["07052"]
 zipCodes: ["07052"]
 localPaths: ["Essex County / primary ZIP 07052", "Essex County / elevation 594 ft band", "Essex County / coords 40.8100, -74.2700", "Essex County / ZIP 07052 sector"]
+zillowHomeValueUsd: 686480
 ---
 
 **Engineering Notice for Pleasantdale:** System optimized for 150 mg/L hard water scaling factors in Pleasantdale. Regional dispatch grid: Essex County.

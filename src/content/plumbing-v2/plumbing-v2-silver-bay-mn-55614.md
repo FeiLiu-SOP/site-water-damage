@@ -12,6 +12,7 @@ lng: -91.2800
 zipSample: ["55614"]
 zipCodes: ["55614"]
 localPaths: ["Lake County / primary ZIP 55614", "Lake County / coords 47.2900, -91.2800", "Lake County / elevation 955 ft band", "Lake County / ZIP 55614 sector"]
+zillowHomeValueUsd: 183813
 ---
 
 **Engineering Notice for Silver Bay:** System optimized for 179 mg/L hard water scaling factors in Silver Bay. Regional dispatch grid: Lake County.

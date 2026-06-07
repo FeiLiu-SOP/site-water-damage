@@ -11,6 +11,7 @@ lng: -92.7300
 zipSample: ["54016"]
 zipCodes: ["54016"]
 localPaths: ["St. Croix County / primary ZIP 54016", "St. Croix County / elevation 840 ft band", "St. Croix County / ZIP 54016 sector", "St. Croix County / coords 44.9600, -92.7300"]
+zillowHomeValueUsd: 487100
 ---
 
 **Engineering Notice for Hudson:** Structural loading calculated based on 840 ft terrain assessment. Regional dispatch grid: St. Croix County.

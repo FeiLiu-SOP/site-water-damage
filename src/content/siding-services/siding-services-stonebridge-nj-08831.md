@@ -12,6 +12,7 @@ lng: -74.4700
 zipSample: ["08831"]
 zipCodes: ["08831"]
 localPaths: ["Middlesex County / coords 40.2900, -74.4700", "Middlesex County / primary ZIP 08831", "Middlesex County / elevation 121 ft band", "Middlesex County / ZIP 08831 sector"]
+zillowHomeValueUsd: 602352
 ---
 
 **Engineering Notice for Stonebridge:** Vinyl Panels was validated under stress factor 1.11; target tolerance set near 101 mph. Coordinates: 40.2900, -74.4700. Grid anchor: Middlesex County.

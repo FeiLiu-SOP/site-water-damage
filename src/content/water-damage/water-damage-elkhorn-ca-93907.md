@@ -12,6 +12,7 @@ lng: -121.7200
 zipSample: ["93907", "95012"]
 zipCodes: ["93907", "95012"]
 localPaths: ["Monterey County / ZIP 93907 sector", "Monterey County / ZIP 95012 sector", "Monterey County / elevation 154 ft band", "Monterey County / primary ZIP 93907", "Monterey County / coords 36.8100, -121.7200"]
+zillowHomeValueUsd: 837751
 ---
 
 **Engineering Notice for Elkhorn:** structural drying capacity optimized for 154ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Monterey County. Relative Humidity Threshold: 80%. Sensor sync: Active.

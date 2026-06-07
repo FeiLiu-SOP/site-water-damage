@@ -12,6 +12,7 @@ lng: -92.5800
 zipSample: ["63501"]
 zipCodes: ["63501"]
 localPaths: ["Adair County / elevation 971 ft band", "Adair County / primary ZIP 63501", "Adair County / coords 40.2000, -92.5800", "Adair County / ZIP 63501 sector"]
+zillowHomeValueUsd: 175693
 ---
 
 **Engineering Notice for Kirksville:** Structural loading calculated based on 971 ft terrain assessment. Regional dispatch grid: Adair County.

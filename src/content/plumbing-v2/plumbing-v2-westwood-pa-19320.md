@@ -12,6 +12,7 @@ lng: -75.8600
 zipSample: ["19320"]
 zipCodes: ["19320"]
 localPaths: ["Chester County / primary ZIP 19320", "Chester County / ZIP 19320 sector", "Chester County / coords 39.9700, -75.8600", "Chester County / elevation 387 ft band"]
+zillowHomeValueUsd: 382346
 ---
 
 **Engineering Notice for Westwood:** System optimized for 125 mg/L hard water scaling factors in Westwood. Regional dispatch grid: Chester County.

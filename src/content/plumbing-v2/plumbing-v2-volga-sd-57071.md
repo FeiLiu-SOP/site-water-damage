@@ -12,6 +12,7 @@ lng: -96.9200
 zipSample: ["57071"]
 zipCodes: ["57071"]
 localPaths: ["Brookings County / ZIP 57071 sector", "Brookings County / primary ZIP 57071", "Brookings County / coords 44.3200, -96.9200", "Brookings County / elevation 1627 ft band"]
+zillowHomeValueUsd: 331010
 ---
 
 **Engineering Notice for Volga:** System optimized for 149 mg/L hard water scaling factors in Volga. Regional dispatch grid: Brookings County.

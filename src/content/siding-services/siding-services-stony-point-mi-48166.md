@@ -12,6 +12,7 @@ lng: -83.2800
 zipSample: ["48166"]
 zipCodes: ["48166"]
 localPaths: ["Monroe County / ZIP 48166 sector", "Monroe County / coords 41.9500, -83.2800", "Monroe County / primary ZIP 48166", "Monroe County / elevation 581 ft band"]
+zillowHomeValueUsd: 197079
 ---
 
 **Engineering Notice for Stony Point:** Structural integrity verification: Exterior Cladding calibrated for 92 mph localized wind load factor. Elevation: 581 ft AMSL. Coordinates: 41.9500, -83.2800. Regional dispatch grid: Monroe County.

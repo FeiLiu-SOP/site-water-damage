@@ -12,6 +12,7 @@ lng: -95.4800
 zipSample: ["51346"]
 zipCodes: ["51346"]
 localPaths: ["O'Brien County / ZIP 51346 sector", "O'Brien County / elevation 1453 ft band", "O'Brien County / coords 43.1800, -95.4800", "O'Brien County / primary ZIP 51346"]
+zillowHomeValueUsd: 174411
 ---
 
 **Engineering Notice for Hartley:** Cladding verification uses 91 mph routing baseline; lateral pressure note: 12.1 psf. Coordinates: 43.1800, -95.4800. Grid: O'Brien County.

@@ -12,6 +12,7 @@ lng: -82.1700
 zipSample: ["37658"]
 zipCodes: ["37658"]
 localPaths: ["Carter County / primary ZIP 37658", "Carter County / coords 36.2800, -82.1700", "Carter County / ZIP 37658 sector", "Carter County / elevation 1818 ft band"]
+zillowHomeValueUsd: 206463
 ---
 
 **Engineering Notice for Hampton:** Cladding verification uses 106 mph routing baseline; lateral pressure note: 13.9 psf. Coordinates: 36.2800, -82.1700. Grid: Carter County.

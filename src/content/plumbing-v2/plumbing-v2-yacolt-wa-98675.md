@@ -12,6 +12,7 @@ lng: -122.4100
 zipSample: ["98675"]
 zipCodes: ["98675"]
 localPaths: ["Clark County / primary ZIP 98675", "Clark County / elevation 712 ft band", "Clark County / ZIP 98675 sector", "Clark County / coords 45.8700, -122.4100"]
+zillowHomeValueUsd: 642940
 ---
 
 **Engineering Notice for Yacolt:** System optimized for 141 mg/L hard water scaling factors in Yacolt. Regional dispatch grid: Clark County.

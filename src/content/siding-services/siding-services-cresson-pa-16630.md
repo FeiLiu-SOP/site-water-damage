@@ -12,6 +12,7 @@ lng: -78.5900
 zipSample: ["16630"]
 zipCodes: ["16630"]
 localPaths: ["Cambria County / elevation 2070 ft band", "Cambria County / ZIP 16630 sector", "Cambria County / coords 40.4600, -78.5900", "Cambria County / primary ZIP 16630"]
+zillowHomeValueUsd: 122062
 ---
 
 **Engineering Notice for Cresson:** Cladding Retrofit was validated under stress factor 1.03; target tolerance set near 101 mph. Coordinates: 40.4600, -78.5900. Grid anchor: Cambria County.

@@ -12,6 +12,7 @@ lng: -97.1600
 zipSample: ["76711"]
 zipCodes: ["76711"]
 localPaths: ["McLennan County / primary ZIP 76711", "McLennan County / ZIP 76711 sector", "McLennan County / elevation 528 ft band", "McLennan County / coords 31.5200, -97.1600"]
+zillowHomeValueUsd: 137154
 ---
 
 **Engineering Notice for Beverly Hills:** structural drying capacity optimized for 528ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McLennan County. Relative Humidity Threshold: 70%. Sensor sync: Active.

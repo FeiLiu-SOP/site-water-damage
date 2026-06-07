@@ -12,6 +12,7 @@ lng: -73.7000
 zipSample: ["11030"]
 zipCodes: ["11030"]
 localPaths: ["Nassau County / ZIP 11030 sector", "Nassau County / primary ZIP 11030", "Nassau County / elevation 66 ft band", "Nassau County / coords 40.8100, -73.7000"]
+zillowHomeValueUsd: 2214925
 ---
 
 **Engineering Notice for Plandome:** System optimized for 139 mg/L hard water scaling factors in Plandome. Regional dispatch grid: Nassau County.

@@ -11,6 +11,7 @@ lng: -80.6500
 zipSample: ["28227"]
 zipCodes: ["28227"]
 localPaths: ["Mecklenburg County / elevation 791 ft band", "Mecklenburg County / primary ZIP 28227", "Mecklenburg County / coords 35.1800, -80.6500", "Mecklenburg County / ZIP 28227 sector"]
+zillowHomeValueUsd: 390110
 ---
 
 **Engineering Notice for Mint Hill:** Structural loading calculated based on 791 ft terrain assessment. Regional dispatch grid: Mecklenburg County.

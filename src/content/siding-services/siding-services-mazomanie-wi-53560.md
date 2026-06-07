@@ -12,6 +12,7 @@ lng: -89.8000
 zipSample: ["53560"]
 zipCodes: ["53560"]
 localPaths: ["Dane County / coords 43.1700, -89.8000", "Dane County / ZIP 53560 sector", "Dane County / primary ZIP 53560", "Dane County / elevation 804 ft band"]
+zillowHomeValueUsd: 425613
 ---
 
 **Engineering Notice for Mazomanie:** Cladding verification uses 102 mph routing baseline; lateral pressure note: 13.4 psf. Elevation: 804 ft AMSL. Grid: Dane County.

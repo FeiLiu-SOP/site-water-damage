@@ -12,6 +12,7 @@ lng: -77.8200
 zipSample: ["21795"]
 zipCodes: ["21795"]
 localPaths: ["Washington County / primary ZIP 21795", "Washington County / ZIP 21795 sector", "Washington County / elevation 427 ft band", "Washington County / coords 39.6000, -77.8200"]
+zillowHomeValueUsd: 341870
 ---
 
 **Engineering Notice for Williamsport:** Site context locked to Washington County. Elevation: 427 ft AMSL. Exterior Envelope integrity verification recorded.

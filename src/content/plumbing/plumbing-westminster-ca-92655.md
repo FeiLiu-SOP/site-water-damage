@@ -12,6 +12,7 @@ lng: -117.9900
 zipSample: ["92684", "92685", "92683", "92655"]
 zipCodes: ["92683", "92684", "92655", "92685"]
 localPaths: ["Orange County / ZIP 92684 sector", "Orange County / coords 33.7500, -117.9900", "Orange County / ZIP 92655 sector", "Orange County / elevation 46 ft band", "Orange County / ZIP 92683 sector"]
+zillowHomeValueUsd: 1040704
 ---
 
 **Engineering Notice for Westminster:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Orange County.

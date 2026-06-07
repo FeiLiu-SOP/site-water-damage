@@ -12,6 +12,7 @@ lng: -90.3200
 zipSample: ["61036"]
 zipCodes: ["61036"]
 localPaths: ["Jo Daviess County / primary ZIP 61036", "Jo Daviess County / coords 42.4000, -90.3200", "Jo Daviess County / elevation 1050 ft band", "Jo Daviess County / ZIP 61036 sector"]
+zillowHomeValueUsd: 305830
 ---
 
 **Engineering Notice for The Galena Territory:** Vinyl Panels was validated under stress factor 0.75; target tolerance set near 103 mph. Grid anchor: Jo Daviess County.

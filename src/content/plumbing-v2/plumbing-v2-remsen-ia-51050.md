@@ -12,6 +12,7 @@ lng: -95.9700
 zipSample: ["51050"]
 zipCodes: ["51050"]
 localPaths: ["Plymouth County / elevation 1329 ft band", "Plymouth County / coords 42.8200, -95.9700", "Plymouth County / ZIP 51050 sector", "Plymouth County / primary ZIP 51050"]
+zillowHomeValueUsd: 278166
 ---
 
 **Engineering Notice for Remsen:** System optimized for 148 mg/L hard water scaling factors in Remsen. Regional dispatch grid: Plymouth County.

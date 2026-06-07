@@ -12,6 +12,7 @@ lng: -80.2500
 zipSample: ["15042"]
 zipCodes: ["15042"]
 localPaths: ["Beaver County / elevation 715 ft band", "Beaver County / ZIP 15042 sector", "Beaver County / primary ZIP 15042", "Beaver County / coords 40.6800, -80.2500"]
+zillowHomeValueUsd: 255224
 ---
 
 **Engineering Notice for Freedom:** Structural integrity verification: Cladding Service calibrated for 97 mph localized wind load factor. Elevation: 715 ft AMSL. Coordinates: 40.6800, -80.2500. Regional dispatch grid: Beaver County.

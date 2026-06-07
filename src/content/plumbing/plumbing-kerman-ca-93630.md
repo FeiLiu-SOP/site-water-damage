@@ -12,6 +12,7 @@ lng: -120.0600
 zipSample: ["93630"]
 zipCodes: ["93630"]
 localPaths: ["Fresno County / ZIP 93630 sector", "Fresno County / elevation 236 ft band", "Fresno County / coords 36.7200, -120.0600", "Fresno County / primary ZIP 93630"]
+zillowHomeValueUsd: 414704
 ---
 
 **Engineering Notice for Kerman:** Structural loading calculated based on 236 ft terrain assessment. Regional dispatch grid: Fresno County.

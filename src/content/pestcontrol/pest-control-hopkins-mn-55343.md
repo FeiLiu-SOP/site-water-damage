@@ -11,6 +11,7 @@ lng: -93.4100
 zipSample: ["55343", "55305"]
 zipCodes: ["55343", "55305"]
 localPaths: ["Hennepin County / ZIP 55343 sector", "Hennepin County / coords 44.9300, -93.4100", "Hennepin County / ZIP 55305 sector", "Hennepin County / primary ZIP 55343", "Hennepin County / elevation 919 ft band"]
+zillowHomeValueUsd: 344986
 ---
 
 **Engineering Notice for Hopkins:** Structural loading calculated based on 919 ft terrain assessment. Regional dispatch grid: Hennepin County.

@@ -12,6 +12,7 @@ lng: -98.0000
 zipSample: ["68620"]
 zipCodes: ["68620"]
 localPaths: ["Boone County / ZIP 68620 sector", "Boone County / primary ZIP 68620", "Boone County / coords 41.6900, -98.0000", "Boone County / elevation 1781 ft band"]
+zillowHomeValueUsd: 310869
 ---
 
 **Engineering Notice for Albion:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 0.90. Elevation: 1781 ft AMSL. Regional dispatch grid: Boone County.

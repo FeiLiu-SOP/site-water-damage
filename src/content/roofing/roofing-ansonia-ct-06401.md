@@ -11,6 +11,7 @@ lng: -73.0700
 zipSample: ["06401"]
 zipCodes: ["06401"]
 localPaths: ["Naugatuck Valley County / elevation 131 ft band", "Naugatuck Valley County / coords 41.3400, -73.0700", "Naugatuck Valley County / primary ZIP 06401", "Naugatuck Valley County / ZIP 06401 sector"]
+zillowHomeValueUsd: 374389
 ---
 
 **Engineering Notice for Ansonia:** Structural loading calculated based on 131 ft terrain assessment. Regional dispatch grid: Naugatuck Valley County.

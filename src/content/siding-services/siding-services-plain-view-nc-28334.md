@@ -12,6 +12,7 @@ lng: -78.5600
 zipSample: ["28334"]
 zipCodes: ["28334"]
 localPaths: ["Sampson County / primary ZIP 28334", "Sampson County / elevation 197 ft band", "Sampson County / ZIP 28334 sector", "Sampson County / coords 35.2500, -78.5600"]
+zillowHomeValueUsd: 226664
 ---
 
 **Engineering Notice for Plain View:** Cladding Service was validated under stress factor 0.97; target tolerance set near 106 mph. Grid anchor: Sampson County.

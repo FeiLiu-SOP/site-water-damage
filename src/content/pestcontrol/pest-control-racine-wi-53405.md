@@ -11,6 +11,7 @@ lng: -87.8100
 zipSample: ["53403", "53408", "53406", "53402", "53405"]
 zipCodes: ["53404", "53406", "53403", "53401", "53405", "53402", "53408"]
 localPaths: ["Racine County / primary ZIP 53405", "Racine County / elevation 640 ft band", "Racine County / ZIP 53406 sector", "Racine County / coords 42.7300, -87.8100", "Racine County / ZIP 53408 sector"]
+zillowHomeValueUsd: 227211
 ---
 
 **Engineering Notice for Racine:** Structural loading calculated based on 640 ft terrain assessment. Regional dispatch grid: Racine County.

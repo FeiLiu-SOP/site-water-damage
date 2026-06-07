@@ -12,6 +12,7 @@ lng: -106.6700
 zipSample: ["87031"]
 zipCodes: ["87031"]
 localPaths: ["Valencia County / primary ZIP 87031", "Valencia County / ZIP 87031 sector", "Valencia County / coords 34.7300, -106.6700", "Valencia County / elevation 5007 ft band"]
+zillowHomeValueUsd: 323886
 ---
 
 **Engineering Notice for Las Maravillas:** System optimized for 151 mg/L hard water scaling factors in Las Maravillas. Regional dispatch grid: Valencia County.

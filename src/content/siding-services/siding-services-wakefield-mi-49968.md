@@ -12,6 +12,7 @@ lng: -89.9300
 zipSample: ["49968"]
 zipCodes: ["49968"]
 localPaths: ["Gogebic County / ZIP 49968 sector", "Gogebic County / coords 46.4800, -89.9300", "Gogebic County / primary ZIP 49968", "Gogebic County / elevation 1526 ft band"]
+zillowHomeValueUsd: 105058
 ---
 
 **Engineering Notice for Wakefield:** Facade Renewal was validated under stress factor 0.98; target tolerance set near 94 mph. Coordinates: 46.4800, -89.9300. Grid anchor: Gogebic County.

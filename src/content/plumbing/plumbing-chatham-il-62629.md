@@ -12,6 +12,7 @@ lng: -89.6900
 zipSample: ["62629"]
 zipCodes: ["62629"]
 localPaths: ["Sangamon County / ZIP 62629 sector", "Sangamon County / coords 39.6700, -89.6900", "Sangamon County / elevation 600 ft band", "Sangamon County / primary ZIP 62629"]
+zillowHomeValueUsd: 297656
 ---
 
 **Engineering Notice for Chatham:** Structural loading calculated based on 600 ft terrain assessment. Regional dispatch grid: Sangamon County.

@@ -11,6 +11,7 @@ lng: -79.8200
 zipSample: ["29464", "29465", "29466"]
 zipCodes: ["29466", "29465", "29464"]
 localPaths: ["Charleston County / ZIP 29464 sector", "Charleston County / elevation 30 ft band", "Charleston County / ZIP 29466 sector", "Charleston County / coords 32.8500, -79.8200", "Charleston County / ZIP 29465 sector"]
+zillowHomeValueUsd: 840233
 ---
 
 **Engineering Notice for Mount Pleasant:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Charleston County.

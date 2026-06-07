@@ -12,6 +12,7 @@ lng: -84.2400
 zipSample: ["37801", "37885"]
 zipCodes: ["37885", "37801"]
 localPaths: ["Monroe County / ZIP 37885 sector", "Monroe County / ZIP 37801 sector", "Monroe County / coords 35.6000, -84.2400", "Monroe County / primary ZIP 37885", "Monroe County / elevation 843 ft band"]
+zillowHomeValueUsd: 480392
 ---
 
 **Engineering Notice for Vonore:** Structural integrity verification: Cladding Retrofit calibrated for 96 mph localized wind load factor. Elevation: 843 ft AMSL. Regional dispatch grid: Monroe County.

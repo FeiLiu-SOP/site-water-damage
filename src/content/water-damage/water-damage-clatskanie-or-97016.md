@@ -12,6 +12,7 @@ lng: -123.2000
 zipSample: ["97016"]
 zipCodes: ["97016"]
 localPaths: ["Columbia County / coords 46.1000, -123.2000", "Columbia County / elevation 20 ft band", "Columbia County / primary ZIP 97016", "Columbia County / ZIP 97016 sector"]
+zillowHomeValueUsd: 402710
 ---
 
 **Engineering Notice for Clatskanie:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Columbia County. Relative Humidity Threshold: 76%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -73.2000
 zipSample: ["06751"]
 zipCodes: ["06751"]
 localPaths: ["Naugatuck Valley County / ZIP 06751 sector", "Naugatuck Valley County / elevation 902 ft band", "Naugatuck Valley County / primary ZIP 06751", "Naugatuck Valley County / coords 41.6400, -73.2000"]
+zillowHomeValueUsd: 507752
 ---
 
 **Engineering Notice for Bethlehem Village:** Cladding Service was validated under stress factor 0.84; target tolerance set near 94 mph. Coordinates: 41.6400, -73.2000. Grid anchor: Naugatuck Valley County.

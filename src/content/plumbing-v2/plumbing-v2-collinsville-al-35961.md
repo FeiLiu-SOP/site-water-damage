@@ -12,6 +12,7 @@ lng: -85.8700
 zipSample: ["35961"]
 zipCodes: ["35961"]
 localPaths: ["DeKalb County / coords 34.2700, -85.8700", "DeKalb County / elevation 846 ft band", "DeKalb County / ZIP 35961 sector", "DeKalb County / primary ZIP 35961"]
+zillowHomeValueUsd: 197280
 ---
 
 **Engineering Notice for Collinsville:** System optimized for 151 mg/L hard water scaling factors in Collinsville. Regional dispatch grid: DeKalb County.

@@ -12,6 +12,7 @@ lng: -85.0800
 zipSample: ["47043"]
 zipCodes: ["47043"]
 localPaths: ["Switzerland County / ZIP 47043 sector", "Switzerland County / elevation 476 ft band", "Switzerland County / primary ZIP 47043", "Switzerland County / coords 38.7400, -85.0800"]
+zillowHomeValueUsd: 234965
 ---
 
 **Engineering Notice for Vevay:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Grid: Switzerland County.

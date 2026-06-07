@@ -12,6 +12,7 @@ lng: -155.9100
 zipSample: ["96750"]
 zipCodes: ["96750"]
 localPaths: ["Hawaii County / ZIP 96750 sector", "Hawaii County / coords 19.5300, -155.9100", "Hawaii County / elevation 2014 ft band", "Hawaii County / primary ZIP 96750"]
+zillowHomeValueUsd: 764347
 ---
 
 **Engineering Notice for Kealakekua:** structural drying capacity optimized for 2014ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hawaii County. Relative Humidity Threshold: 81%. Sensor sync: Active.

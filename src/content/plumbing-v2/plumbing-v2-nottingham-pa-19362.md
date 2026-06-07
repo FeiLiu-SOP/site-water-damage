@@ -12,6 +12,7 @@ lng: -76.0300
 zipSample: ["19362"]
 zipCodes: ["19362"]
 localPaths: ["Chester County / primary ZIP 19362", "Chester County / coords 39.7500, -76.0300", "Chester County / ZIP 19362 sector", "Chester County / elevation 525 ft band"]
+zillowHomeValueUsd: 463290
 ---
 
 **Engineering Notice for Nottingham:** System optimized for 168 mg/L hard water scaling factors in Nottingham. Regional dispatch grid: Chester County.

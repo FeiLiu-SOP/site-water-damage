@@ -12,6 +12,7 @@ lng: -78.7900
 zipSample: ["28312"]
 zipCodes: ["28312"]
 localPaths: ["Cumberland County / coords 35.0300, -78.7900", "Cumberland County / ZIP 28312 sector", "Cumberland County / elevation 141 ft band", "Cumberland County / primary ZIP 28312"]
+zillowHomeValueUsd: 297205
 ---
 
 **Engineering Notice for Vander:** structural drying capacity optimized for 141ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cumberland County. Relative Humidity Threshold: 78%. Sensor sync: Active.

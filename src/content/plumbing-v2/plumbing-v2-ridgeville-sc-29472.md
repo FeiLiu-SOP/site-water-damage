@@ -12,6 +12,7 @@ lng: -80.3100
 zipSample: ["29472"]
 zipCodes: ["29472"]
 localPaths: ["Dorchester County / coords 33.0900, -80.3100", "Dorchester County / ZIP 29472 sector", "Dorchester County / elevation 66 ft band", "Dorchester County / primary ZIP 29472"]
+zillowHomeValueUsd: 327354
 ---
 
 **Engineering Notice for Ridgeville:** System optimized for 174 mg/L hard water scaling factors in Ridgeville. Regional dispatch grid: Dorchester County.

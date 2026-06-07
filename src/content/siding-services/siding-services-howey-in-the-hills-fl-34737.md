@@ -12,6 +12,7 @@ lng: -81.7800
 zipSample: ["34737"]
 zipCodes: ["34737"]
 localPaths: ["Lake County / elevation 89 ft band", "Lake County / ZIP 34737 sector", "Lake County / coords 28.7100, -81.7800", "Lake County / primary ZIP 34737"]
+zillowHomeValueUsd: 404748
 ---
 
 **Engineering Notice for Howey-in-the-Hills:** Surface Sheathing was validated under stress factor 0.77; target tolerance set near 137 mph. Coordinates: 28.7100, -81.7800. Grid anchor: Lake County.

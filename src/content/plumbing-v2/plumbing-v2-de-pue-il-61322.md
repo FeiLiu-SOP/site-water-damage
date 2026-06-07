@@ -12,6 +12,8 @@ lng: -89.3000
 zipSample: ["61356", "61322"]
 zipCodes: ["61322", "61356"]
 localPaths: ["Bureau County / primary ZIP 61322", "Bureau County / ZIP 61356 sector", "Bureau County / elevation 512 ft band", "Bureau County / coords 41.3300, -89.3000", "Bureau County / ZIP 61322 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 241265
 ---
 
 **Engineering Notice for De Pue:** System optimized for 148 mg/L hard water scaling factors in De Pue. Regional dispatch grid: Bureau County.

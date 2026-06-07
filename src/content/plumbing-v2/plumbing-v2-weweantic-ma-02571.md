@@ -12,6 +12,7 @@ lng: -70.7300
 zipSample: ["02571"]
 zipCodes: ["02571"]
 localPaths: ["Plymouth County / ZIP 02571 sector", "Plymouth County / elevation 13 ft band", "Plymouth County / primary ZIP 02571", "Plymouth County / coords 41.7400, -70.7300"]
+zillowHomeValueUsd: 469229
 ---
 
 **Engineering Notice for Weweantic:** System optimized for 160 mg/L hard water scaling factors in Weweantic. Regional dispatch grid: Plymouth County.

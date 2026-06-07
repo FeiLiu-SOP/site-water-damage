@@ -12,6 +12,8 @@ lng: -66.9000
 zipSample: ["00653"]
 zipCodes: ["00653"]
 localPaths: ["Guánica County / elevation 325 ft band", "Guánica County / ZIP 00653 sector", "Guánica County / coords 18.0000, -66.9000", "Guánica County / primary ZIP 00653"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 365831
 ---
 
 **Engineering Notice for El Tumbao:** System optimized for 175 mg/L hard water scaling factors in El Tumbao. Regional dispatch grid: Guánica County.

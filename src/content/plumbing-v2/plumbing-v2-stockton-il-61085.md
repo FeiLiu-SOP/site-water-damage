@@ -12,6 +12,7 @@ lng: -90.0000
 zipSample: ["61085"]
 zipCodes: ["61085"]
 localPaths: ["Jo Daviess County / elevation 981 ft band", "Jo Daviess County / ZIP 61085 sector", "Jo Daviess County / coords 42.3500, -90.0000", "Jo Daviess County / primary ZIP 61085"]
+zillowHomeValueUsd: 154686
 ---
 
 **Engineering Notice for Stockton:** System optimized for 179 mg/L hard water scaling factors in Stockton. Regional dispatch grid: Jo Daviess County.

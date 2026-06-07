@@ -11,6 +11,7 @@ lng: -106.6000
 zipSample: ["88063", "88008", "79922"]
 zipCodes: ["88063", "88008", "79922"]
 localPaths: ["Doña Ana County / ZIP 88063 sector", "Doña Ana County / primary ZIP 88063", "Doña Ana County / ZIP 79922 sector", "Doña Ana County / elevation 3720 ft band", "Doña Ana County / coords 31.8200, -106.6000"]
+zillowHomeValueUsd: 248266
 ---
 
 **Engineering Notice for Sunland Park:** Structural loading calculated based on 3720 ft terrain assessment. Regional dispatch grid: Doña Ana County.

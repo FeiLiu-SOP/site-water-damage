@@ -12,6 +12,7 @@ lng: -94.0500
 zipSample: ["55395"]
 zipCodes: ["55395"]
 localPaths: ["McLeod County / ZIP 55395 sector", "McLeod County / coords 44.9600, -94.0500", "McLeod County / primary ZIP 55395", "McLeod County / elevation 1010 ft band"]
+zillowHomeValueUsd: 287587
 ---
 
 **Engineering Notice for Winsted:** Envelope check: Cladding Retrofit assigned to wind-load band A with stress factor 0.79. Elevation: 1010 ft AMSL. Regional dispatch grid: McLeod County.

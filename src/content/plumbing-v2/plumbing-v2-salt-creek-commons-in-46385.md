@@ -12,6 +12,7 @@ lng: -87.1400
 zipSample: ["46385"]
 zipCodes: ["46385"]
 localPaths: ["Porter County / elevation 666 ft band", "Porter County / ZIP 46385 sector", "Porter County / coords 41.5100, -87.1400", "Porter County / primary ZIP 46385"]
+zillowHomeValueUsd: 368949
 ---
 
 **Engineering Notice for Salt Creek Commons:** System optimized for 148 mg/L hard water scaling factors in Salt Creek Commons. Regional dispatch grid: Porter County.

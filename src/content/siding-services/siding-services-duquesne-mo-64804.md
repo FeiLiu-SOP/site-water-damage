@@ -12,6 +12,7 @@ lng: -94.4600
 zipSample: ["64804", "64801"]
 zipCodes: ["64804", "64801"]
 localPaths: ["Jasper County / ZIP 64801 sector", "Jasper County / coords 37.0700, -94.4600", "Jasper County / elevation 1112 ft band", "Jasper County / ZIP 64804 sector", "Jasper County / primary ZIP 64804"]
+zillowHomeValueUsd: 225111
 ---
 
 **Engineering Notice for Duquesne:** Site context locked to Jasper County. Elevation: 1112 ft AMSL. Weather Barrier Wrap integrity verification recorded.

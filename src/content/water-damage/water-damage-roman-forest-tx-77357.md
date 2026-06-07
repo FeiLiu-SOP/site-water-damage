@@ -12,6 +12,7 @@ lng: -95.1600
 zipSample: ["77357"]
 zipCodes: ["77357"]
 localPaths: ["Montgomery County / ZIP 77357 sector", "Montgomery County / coords 30.1800, -95.1600", "Montgomery County / primary ZIP 77357", "Montgomery County / elevation 151 ft band"]
+zillowHomeValueUsd: 263584
 ---
 
 **Engineering Notice for Roman Forest:** structural drying capacity optimized for 151ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Montgomery County. Relative Humidity Threshold: 82%. Sensor sync: Active.

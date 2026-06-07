@@ -11,6 +11,7 @@ lng: -78.8400
 zipSample: ["27540", "27539"]
 zipCodes: ["27540", "27539"]
 localPaths: ["Wake County / ZIP 27540 sector", "Wake County / elevation 420 ft band", "Wake County / ZIP 27539 sector", "Wake County / coords 35.6500, -78.8400", "Wake County / primary ZIP 27539"]
+zillowHomeValueUsd: 604356
 ---
 
 **Engineering Notice for Holly Springs:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: Wake County.

@@ -12,6 +12,7 @@ lng: -80.5100
 zipSample: ["33070"]
 zipCodes: ["33070"]
 localPaths: ["Monroe County / primary ZIP 33070", "Monroe County / ZIP 33070 sector", "Monroe County / elevation 3 ft band", "Monroe County / coords 25.0200, -80.5100"]
+zillowHomeValueUsd: 904690
 ---
 
 **Engineering Notice for Tavernier:** Wall Restoration was validated under stress factor 0.79; target tolerance set near 147 mph. Grid anchor: Monroe County.

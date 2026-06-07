@@ -12,6 +12,7 @@ lng: -86.1200
 zipSample: ["46227"]
 zipCodes: ["46227"]
 localPaths: ["Marion County / ZIP 46227 sector", "Marion County / primary ZIP 46227", "Marion County / elevation 791 ft band", "Marion County / coords 39.6600, -86.1200"]
+zillowHomeValueUsd: 227338
 ---
 
 **Engineering Notice for Southport:** Site context locked to Marion County. Elevation: 791 ft AMSL. Vinyl Panels integrity verification recorded.

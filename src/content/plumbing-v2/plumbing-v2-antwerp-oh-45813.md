@@ -12,6 +12,7 @@ lng: -84.7400
 zipSample: ["45813"]
 zipCodes: ["45813"]
 localPaths: ["Paulding County / primary ZIP 45813", "Paulding County / coords 41.1800, -84.7400", "Paulding County / elevation 738 ft band", "Paulding County / ZIP 45813 sector"]
+zillowHomeValueUsd: 170253
 ---
 
 **Engineering Notice for Antwerp:** System optimized for 169 mg/L hard water scaling factors in Antwerp. Regional dispatch grid: Paulding County.

@@ -12,6 +12,7 @@ lng: -82.8300
 zipSample: ["33708", "33730"]
 zipCodes: ["33730", "33708"]
 localPaths: ["Pinellas County / primary ZIP 33708", "Pinellas County / coords 27.8300, -82.8300", "Pinellas County / ZIP 33708 sector", "Pinellas County / ZIP 33730 sector", "Pinellas County / elevation 0 ft band"]
+zillowHomeValueUsd: 507669
 ---
 
 **Engineering Notice for Redington Shores:** structural drying capacity optimized for 0ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pinellas County. Relative Humidity Threshold: 72%. Sensor sync: Active.

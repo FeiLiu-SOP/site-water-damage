@@ -12,6 +12,7 @@ lng: -107.9300
 zipSample: ["81413"]
 zipCodes: ["81413"]
 localPaths: ["Delta County / elevation 6175 ft band", "Delta County / primary ZIP 81413", "Delta County / ZIP 81413 sector", "Delta County / coords 38.8900, -107.9300"]
+zillowHomeValueUsd: 425119
 ---
 
 **Engineering Notice for Cedaredge:** System optimized for 144 mg/L hard water scaling factors in Cedaredge. Regional dispatch grid: Delta County.

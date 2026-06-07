@@ -12,6 +12,7 @@ lng: -80.7600
 zipSample: ["26038"]
 zipCodes: ["26038"]
 localPaths: ["Marshall County / ZIP 26038 sector", "Marshall County / coords 39.9500, -80.7600", "Marshall County / elevation 669 ft band", "Marshall County / primary ZIP 26038"]
+zillowHomeValueUsd: 190107
 ---
 
 **Engineering Notice for Glen Dale:** Site context locked to Marshall County. Coordinates: 39.9500, -80.7600. Cladding Service integrity verification recorded.

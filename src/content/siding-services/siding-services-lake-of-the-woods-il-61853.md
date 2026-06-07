@@ -12,6 +12,7 @@ lng: -88.3700
 zipSample: ["61853"]
 zipCodes: ["61853"]
 localPaths: ["Champaign County / primary ZIP 61853", "Champaign County / coords 40.2100, -88.3700", "Champaign County / ZIP 61853 sector", "Champaign County / elevation 768 ft band"]
+zillowHomeValueUsd: 340248
 ---
 
 **Engineering Notice for Lake of the Woods:** Structural integrity verification: Exterior Envelope calibrated for 90 mph localized wind load factor. Elevation: 768 ft AMSL. Coordinates: 40.2100, -88.3700. Regional dispatch grid: Champaign County.

@@ -12,6 +12,7 @@ lng: -86.6000
 zipSample: ["46065"]
 zipCodes: ["46065"]
 localPaths: ["Clinton County / elevation 735 ft band", "Clinton County / coords 40.4200, -86.6000", "Clinton County / ZIP 46065 sector", "Clinton County / primary ZIP 46065"]
+zillowHomeValueUsd: 288578
 ---
 
 **Engineering Notice for Rossville:** System optimized for 150 mg/L hard water scaling factors in Rossville. Regional dispatch grid: Clinton County.

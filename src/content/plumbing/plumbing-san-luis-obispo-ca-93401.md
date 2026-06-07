@@ -12,6 +12,7 @@ lng: -120.6700
 zipSample: ["93405", "93403", "93406", "93401"]
 zipCodes: ["93403", "93406", "93405", "93401"]
 localPaths: ["San Luis Obispo County / ZIP 93403 sector", "San Luis Obispo County / coords 35.2700, -120.6700", "San Luis Obispo County / primary ZIP 93401", "San Luis Obispo County / ZIP 93401 sector", "San Luis Obispo County / ZIP 93405 sector"]
+zillowHomeValueUsd: 1103814
 ---
 
 **Engineering Notice for San Luis Obispo:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: San Luis Obispo County.

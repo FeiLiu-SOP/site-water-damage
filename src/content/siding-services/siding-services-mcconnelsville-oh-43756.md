@@ -12,6 +12,7 @@ lng: -81.8500
 zipSample: ["43756"]
 zipCodes: ["43756"]
 localPaths: ["Morgan County / coords 39.6600, -81.8500", "Morgan County / ZIP 43756 sector", "Morgan County / elevation 919 ft band", "Morgan County / primary ZIP 43756"]
+zillowHomeValueUsd: 168690
 ---
 
 **Engineering Notice for McConnelsville:** Envelope check: Exterior Envelope assigned to wind-load band A with stress factor 0.92. Elevation: 919 ft AMSL. Regional dispatch grid: Morgan County.

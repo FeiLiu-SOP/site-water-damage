@@ -12,6 +12,7 @@ lng: -111.2700
 zipSample: ["84036"]
 zipCodes: ["84036"]
 localPaths: ["Summit County / ZIP 84036 sector", "Summit County / elevation 6680 ft band", "Summit County / primary ZIP 84036", "Summit County / coords 40.6500, -111.2700"]
+zillowHomeValueUsd: 1017834
 ---
 
 **Engineering Notice for Kamas:** structural drying capacity optimized for 6680ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Summit County. Relative Humidity Threshold: 69%. Sensor sync: Active.

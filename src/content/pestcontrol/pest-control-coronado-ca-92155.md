@@ -11,6 +11,7 @@ lng: -117.1600
 zipSample: ["92178", "92135", "92155", "92118"]
 zipCodes: ["92135", "92155", "92178", "92118"]
 localPaths: ["San Diego County / primary ZIP 92155", "San Diego County / elevation 16 ft band", "San Diego County / ZIP 92135 sector", "San Diego County / coords 32.6600, -117.1600", "San Diego County / ZIP 92155 sector"]
+zillowHomeValueUsd: 2513968
 ---
 
 **Engineering Notice for Coronado:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: San Diego County.

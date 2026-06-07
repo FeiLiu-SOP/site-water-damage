@@ -11,6 +11,7 @@ lng: -76.5200
 zipSample: ["21234"]
 zipCodes: ["21234"]
 localPaths: ["Baltimore County / elevation 466 ft band", "Baltimore County / coords 39.4100, -76.5200", "Baltimore County / primary ZIP 21234", "Baltimore County / ZIP 21234 sector"]
+zillowHomeValueUsd: 301827
 ---
 
 **Engineering Notice for Carney:** Structural loading calculated based on 466 ft terrain assessment. Regional dispatch grid: Baltimore County.

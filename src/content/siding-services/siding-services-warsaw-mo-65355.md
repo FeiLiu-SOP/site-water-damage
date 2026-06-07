@@ -12,6 +12,7 @@ lng: -93.3700
 zipSample: ["65355"]
 zipCodes: ["65355"]
 localPaths: ["Benton County / ZIP 65355 sector", "Benton County / elevation 755 ft band", "Benton County / coords 38.2500, -93.3700", "Benton County / primary ZIP 65355"]
+zillowHomeValueUsd: 181856
 ---
 
 **Engineering Notice for Warsaw:** Cladding verification uses 98 mph routing baseline; lateral pressure note: 13.0 psf. Elevation: 755 ft AMSL. Grid: Benton County.

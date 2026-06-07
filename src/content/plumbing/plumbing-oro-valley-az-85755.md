@@ -12,6 +12,7 @@ lng: -110.9800
 zipSample: ["85737", "85704", "85755", "85742"]
 zipCodes: ["85755", "85742", "85737", "85704"]
 localPaths: ["Pima County / elevation 2740 ft band", "Pima County / primary ZIP 85755", "Pima County / ZIP 85704 sector", "Pima County / ZIP 85737 sector", "Pima County / coords 32.4200, -110.9800"]
+zillowHomeValueUsd: 513231
 ---
 
 **Engineering Notice for Oro Valley:** Structural loading calculated based on 2740 ft terrain assessment. Regional dispatch grid: Pima County.

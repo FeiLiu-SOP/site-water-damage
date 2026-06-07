@@ -11,6 +11,7 @@ lng: -91.6100
 zipSample: ["52317"]
 zipCodes: ["52317"]
 localPaths: ["Johnson County / coords 41.7400, -91.6100", "Johnson County / primary ZIP 52317", "Johnson County / ZIP 52317 sector", "Johnson County / elevation 768 ft band"]
+zillowHomeValueUsd: 307509
 ---
 
 **Engineering Notice for North Liberty:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: Johnson County.

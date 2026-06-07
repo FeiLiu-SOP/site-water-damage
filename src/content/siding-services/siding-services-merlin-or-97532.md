@@ -12,6 +12,7 @@ lng: -123.4300
 zipSample: ["97526", "97532"]
 zipCodes: ["97532", "97526"]
 localPaths: ["Josephine County / ZIP 97526 sector", "Josephine County / ZIP 97532 sector", "Josephine County / coords 42.5200, -123.4300", "Josephine County / elevation 896 ft band", "Josephine County / primary ZIP 97532"]
+zillowHomeValueUsd: 464731
 ---
 
 **Engineering Notice for Merlin:** Cladding verification uses 107 mph routing baseline; lateral pressure note: 14.0 psf. Coordinates: 42.5200, -123.4300. Grid: Josephine County.

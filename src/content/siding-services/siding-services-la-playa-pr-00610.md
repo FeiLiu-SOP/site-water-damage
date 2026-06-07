@@ -12,6 +12,8 @@ lng: -67.1900
 zipSample: ["00610"]
 zipCodes: ["00610"]
 localPaths: ["Añasco County / elevation 13 ft band", "Añasco County / ZIP 00610 sector", "Añasco County / primary ZIP 00610", "Añasco County / coords 18.2900, -67.1900"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 360936
 ---
 
 **Engineering Notice for La Playa:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Coordinates: 18.2900, -67.1900. Grid: Añasco County.

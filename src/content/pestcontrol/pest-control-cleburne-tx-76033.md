@@ -11,6 +11,7 @@ lng: -97.4200
 zipSample: ["76031", "76033"]
 zipCodes: ["76033", "76031"]
 localPaths: ["Johnson County / coords 32.3600, -97.4200", "Johnson County / elevation 817 ft band", "Johnson County / ZIP 76031 sector", "Johnson County / ZIP 76033 sector", "Johnson County / primary ZIP 76033"]
+zillowHomeValueUsd: 272506
 ---
 
 **Engineering Notice for Cleburne:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Johnson County.

@@ -12,6 +12,7 @@ lng: -81.8000
 zipSample: ["29330"]
 zipCodes: ["29330"]
 localPaths: ["Spartanburg County / ZIP 29330 sector", "Spartanburg County / coords 35.0200, -81.8000", "Spartanburg County / elevation 879 ft band", "Spartanburg County / primary ZIP 29330"]
+zillowHomeValueUsd: 207151
 ---
 
 **Engineering Notice for Cowpens:** structural drying capacity optimized for 879ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Spartanburg County. Relative Humidity Threshold: 71%. Sensor sync: Active.

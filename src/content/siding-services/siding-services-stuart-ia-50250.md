@@ -12,6 +12,7 @@ lng: -94.3200
 zipSample: ["50250"]
 zipCodes: ["50250"]
 localPaths: ["Adair County / elevation 1211 ft band", "Adair County / coords 41.5000, -94.3200", "Adair County / ZIP 50250 sector", "Adair County / primary ZIP 50250"]
+zillowHomeValueUsd: 221135
 ---
 
 **Engineering Notice for Stuart:** Cladding Service was validated under stress factor 0.70; target tolerance set near 104 mph. Coordinates: 41.5000, -94.3200. Grid anchor: Adair County.

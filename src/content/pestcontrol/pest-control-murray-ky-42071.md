@@ -11,6 +11,7 @@ lng: -88.3200
 zipSample: ["42071"]
 zipCodes: ["42071"]
 localPaths: ["Calloway County / elevation 545 ft band", "Calloway County / ZIP 42071 sector", "Calloway County / primary ZIP 42071", "Calloway County / coords 36.6100, -88.3200"]
+zillowHomeValueUsd: 180006
 ---
 
 **Engineering Notice for Murray:** Structural loading calculated based on 545 ft terrain assessment. Regional dispatch grid: Calloway County.

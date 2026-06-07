@@ -12,6 +12,8 @@ lng: -123.7000
 zipSample: ["95546"]
 zipCodes: ["95546"]
 localPaths: ["Humboldt County / ZIP 95546 sector", "Humboldt County / primary ZIP 95546", "Humboldt County / coords 41.0800, -123.7000", "Humboldt County / elevation 305 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 862041
 ---
 
 **Engineering Notice for Hoopa:** Structural integrity verification: Exterior Envelope calibrated for 139 mph localized wind load factor. Regional dispatch grid: Humboldt County.

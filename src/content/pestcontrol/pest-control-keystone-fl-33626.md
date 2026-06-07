@@ -11,6 +11,7 @@ lng: -82.6000
 zipSample: ["33626", "33558", "33556"]
 zipCodes: ["33556", "33626", "33558"]
 localPaths: ["Hillsborough County / coords 28.1300, -82.6000", "Hillsborough County / ZIP 33556 sector", "Hillsborough County / ZIP 33626 sector", "Hillsborough County / elevation 66 ft band", "Hillsborough County / ZIP 33558 sector"]
+zillowHomeValueUsd: 569048
 ---
 
 **Engineering Notice for Keystone:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Hillsborough County.

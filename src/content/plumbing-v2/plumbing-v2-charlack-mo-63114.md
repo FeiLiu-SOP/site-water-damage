@@ -12,6 +12,7 @@ lng: -90.3400
 zipSample: ["63114"]
 zipCodes: ["63114"]
 localPaths: ["St. Louis County / primary ZIP 63114", "St. Louis County / elevation 600 ft band", "St. Louis County / coords 38.7000, -90.3400", "St. Louis County / ZIP 63114 sector"]
+zillowHomeValueUsd: 139447
 ---
 
 **Engineering Notice for Charlack:** System optimized for 174 mg/L hard water scaling factors in Charlack. Regional dispatch grid: St. Louis County.

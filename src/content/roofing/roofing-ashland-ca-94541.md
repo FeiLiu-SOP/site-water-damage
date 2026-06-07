@@ -11,6 +11,7 @@ lng: -122.1200
 zipSample: ["94578", "94580", "94541"]
 zipCodes: ["94541", "94580", "94578"]
 localPaths: ["Alameda County / ZIP 94580 sector", "Alameda County / primary ZIP 94541", "Alameda County / ZIP 94578 sector", "Alameda County / ZIP 94541 sector", "Alameda County / elevation 33 ft band"]
+zillowHomeValueUsd: 783230
 ---
 
 **Engineering Notice for Ashland:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Alameda County.

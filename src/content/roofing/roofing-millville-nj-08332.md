@@ -11,6 +11,7 @@ lng: -75.0600
 zipSample: ["08332"]
 zipCodes: ["08332"]
 localPaths: ["Cumberland County / ZIP 08332 sector", "Cumberland County / primary ZIP 08332", "Cumberland County / elevation 56 ft band", "Cumberland County / coords 39.3900, -75.0600"]
+zillowHomeValueUsd: 253774
 ---
 
 **Engineering Notice for Millville:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Cumberland County.

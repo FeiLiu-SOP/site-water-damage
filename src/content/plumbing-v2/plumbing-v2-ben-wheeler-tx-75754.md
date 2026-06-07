@@ -12,6 +12,7 @@ lng: -95.7000
 zipSample: ["75754"]
 zipCodes: ["75754"]
 localPaths: ["Van Zandt County / elevation 541 ft band", "Van Zandt County / primary ZIP 75754", "Van Zandt County / ZIP 75754 sector", "Van Zandt County / coords 32.4500, -95.7000"]
+zillowHomeValueUsd: 314049
 ---
 
 **Engineering Notice for Ben Wheeler:** System optimized for 172 mg/L hard water scaling factors in Ben Wheeler. Regional dispatch grid: Van Zandt County.

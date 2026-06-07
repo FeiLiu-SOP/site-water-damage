@@ -12,6 +12,7 @@ lng: -123.7700
 zipSample: ["98563", "98520", "98537"]
 zipCodes: ["98520", "98537", "98563"]
 localPaths: ["Grays Harbor County / ZIP 98563 sector", "Grays Harbor County / ZIP 98520 sector", "Grays Harbor County / elevation 20 ft band", "Grays Harbor County / ZIP 98537 sector", "Grays Harbor County / coords 46.9500, -123.7700"]
+zillowHomeValueUsd: 272301
 ---
 
 **Engineering Notice for Cosmopolis:** System optimized for 159 mg/L hard water scaling factors in Cosmopolis. Regional dispatch grid: Grays Harbor County.

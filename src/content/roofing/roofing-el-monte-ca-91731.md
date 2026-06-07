@@ -11,6 +11,7 @@ lng: -118.0300
 zipSample: ["91731", "91734", "91733", "91735", "91732"]
 zipCodes: ["91735", "91733", "91734", "91732", "91731"]
 localPaths: ["Los Angeles County / ZIP 91734 sector", "Los Angeles County / ZIP 91733 sector", "Los Angeles County / elevation 292 ft band", "Los Angeles County / ZIP 91735 sector", "Los Angeles County / primary ZIP 91731"]
+zillowHomeValueUsd: 777260
 ---
 
 **Engineering Notice for El Monte:** Structural loading calculated based on 292 ft terrain assessment. Regional dispatch grid: Los Angeles County.

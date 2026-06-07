@@ -12,6 +12,7 @@ lng: -120.1100
 zipSample: ["96145"]
 zipCodes: ["96145"]
 localPaths: ["Placer County / elevation 6444 ft band", "Placer County / primary ZIP 96145", "Placer County / coords 39.1900, -120.1100", "Placer County / ZIP 96145 sector"]
+zillowHomeValueUsd: 1237371
 ---
 
 **Engineering Notice for Dollar Point:** Site context locked to Placer County. Coordinates: 39.1900, -120.1100. Vinyl Panels integrity verification recorded.

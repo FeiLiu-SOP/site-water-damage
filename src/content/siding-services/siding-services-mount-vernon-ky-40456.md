@@ -12,6 +12,7 @@ lng: -84.3400
 zipSample: ["40473", "40456"]
 zipCodes: ["40473", "40456"]
 localPaths: ["Rockcastle County / elevation 1247 ft band", "Rockcastle County / coords 37.3700, -84.3400", "Rockcastle County / ZIP 40473 sector", "Rockcastle County / primary ZIP 40456", "Rockcastle County / ZIP 40456 sector"]
+zillowHomeValueUsd: 150022
 ---
 
 **Engineering Notice for Mount Vernon:** Envelope check: Exterior Cladding assigned to wind-load band A with stress factor 1.01. Elevation: 1247 ft AMSL. Regional dispatch grid: Rockcastle County.

@@ -11,6 +11,7 @@ lng: -88.1200
 zipSample: ["53076", "53022"]
 zipCodes: ["53022", "53076"]
 localPaths: ["Washington County / primary ZIP 53076", "Washington County / ZIP 53022 sector", "Washington County / coords 43.2300, -88.1200", "Washington County / ZIP 53076 sector", "Washington County / elevation 873 ft band"]
+zillowHomeValueUsd: 587306
 ---
 
 **Engineering Notice for Germantown:** Structural loading calculated based on 873 ft terrain assessment. Regional dispatch grid: Washington County.

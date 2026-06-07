@@ -11,6 +11,7 @@ lng: -87.8500
 zipSample: ["60513"]
 zipCodes: ["60513"]
 localPaths: ["Cook County / coords 41.8200, -87.8500", "Cook County / ZIP 60513 sector", "Cook County / primary ZIP 60513", "Cook County / elevation 633 ft band"]
+zillowHomeValueUsd: 345458
 ---
 
 **Engineering Notice for Brookfield:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Cook County.

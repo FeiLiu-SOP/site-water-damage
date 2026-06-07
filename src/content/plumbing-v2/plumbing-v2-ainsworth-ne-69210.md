@@ -12,6 +12,7 @@ lng: -99.8600
 zipSample: ["69210"]
 zipCodes: ["69210"]
 localPaths: ["Brown County / primary ZIP 69210", "Brown County / elevation 2530 ft band", "Brown County / ZIP 69210 sector", "Brown County / coords 42.5500, -99.8600"]
+zillowHomeValueUsd: 139583
 ---
 
 **Engineering Notice for Ainsworth:** System optimized for 172 mg/L hard water scaling factors in Ainsworth. Regional dispatch grid: Brown County.

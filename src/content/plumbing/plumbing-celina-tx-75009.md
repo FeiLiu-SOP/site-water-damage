@@ -12,6 +12,7 @@ lng: -96.7900
 zipSample: ["75078", "75009"]
 zipCodes: ["75078", "75009"]
 localPaths: ["Collin County / elevation 679 ft band", "Collin County / ZIP 75078 sector", "Collin County / ZIP 75009 sector", "Collin County / primary ZIP 75009", "Collin County / coords 33.3200, -96.7900"]
+zillowHomeValueUsd: 537572
 ---
 
 **Engineering Notice for Celina:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: Collin County.

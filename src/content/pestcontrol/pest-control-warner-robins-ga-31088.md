@@ -11,6 +11,7 @@ lng: -83.6500
 zipSample: ["31099", "31088", "31005", "31093"]
 zipCodes: ["31005", "31099", "31088", "31093"]
 localPaths: ["Houston County / ZIP 31093 sector", "Houston County / primary ZIP 31088", "Houston County / coords 32.6000, -83.6500", "Houston County / elevation 423 ft band", "Houston County / ZIP 31099 sector"]
+zillowHomeValueUsd: 236328
 ---
 
 **Engineering Notice for Warner Robins:** Structural loading calculated based on 423 ft terrain assessment. Regional dispatch grid: Houston County.

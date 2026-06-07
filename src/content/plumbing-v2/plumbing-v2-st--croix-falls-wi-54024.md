@@ -12,6 +12,7 @@ lng: -92.6300
 zipSample: ["54024"]
 zipCodes: ["54024"]
 localPaths: ["Polk County / primary ZIP 54024", "Polk County / coords 45.4100, -92.6300", "Polk County / ZIP 54024 sector", "Polk County / elevation 1047 ft band"]
+zillowHomeValueUsd: 325964
 ---
 
 **Engineering Notice for St. Croix Falls:** System optimized for 160 mg/L hard water scaling factors in St. Croix Falls. Regional dispatch grid: Polk County.

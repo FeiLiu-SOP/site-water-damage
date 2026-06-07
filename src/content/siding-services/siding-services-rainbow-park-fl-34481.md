@@ -12,6 +12,7 @@ lng: -82.3600
 zipSample: ["34481"]
 zipCodes: ["34481"]
 localPaths: ["Marion County / coords 29.1700, -82.3600", "Marion County / elevation 92 ft band", "Marion County / primary ZIP 34481", "Marion County / ZIP 34481 sector"]
+zillowHomeValueUsd: 279099
 ---
 
 **Engineering Notice for Rainbow Park:** Structural integrity verification: Cladding Service calibrated for 140 mph localized wind load factor. Elevation: 92 ft AMSL. Regional dispatch grid: Marion County.

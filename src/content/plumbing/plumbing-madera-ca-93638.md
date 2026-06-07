@@ -12,6 +12,7 @@ lng: -120.0800
 zipSample: ["93639", "93637", "93638"]
 zipCodes: ["93637", "93638", "93639"]
 localPaths: ["Madera County / ZIP 93638 sector", "Madera County / ZIP 93637 sector", "Madera County / elevation 272 ft band", "Madera County / coords 36.9600, -120.0800", "Madera County / primary ZIP 93638"]
+zillowHomeValueUsd: 363102
 ---
 
 **Engineering Notice for Madera:** Structural loading calculated based on 272 ft terrain assessment. Regional dispatch grid: Madera County.

@@ -11,6 +11,7 @@ lng: -87.9500
 zipSample: ["60491"]
 zipCodes: ["60491"]
 localPaths: ["Will County / elevation 764 ft band", "Will County / ZIP 60491 sector", "Will County / primary ZIP 60491", "Will County / coords 41.6000, -87.9500"]
+zillowHomeValueUsd: 501827
 ---
 
 **Engineering Notice for Homer Glen:** Structural loading calculated based on 764 ft terrain assessment. Regional dispatch grid: Will County.

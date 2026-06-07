@@ -12,6 +12,7 @@ lng: -85.7200
 zipSample: ["35740"]
 zipCodes: ["35740"]
 localPaths: ["Jackson County / elevation 709 ft band", "Jackson County / ZIP 35740 sector", "Jackson County / primary ZIP 35740", "Jackson County / coords 34.9500, -85.7200"]
+zillowHomeValueUsd: 136251
 ---
 
 **Engineering Notice for Bridgeport:** structural drying capacity optimized for 709ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jackson County. Relative Humidity Threshold: 78%. Sensor sync: Active.

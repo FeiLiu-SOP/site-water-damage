@@ -12,6 +12,7 @@ lng: -84.8800
 zipSample: ["31811"]
 zipCodes: ["31811"]
 localPaths: ["Harris County / elevation 758 ft band", "Harris County / primary ZIP 31811", "Harris County / ZIP 31811 sector", "Harris County / coords 32.7600, -84.8800"]
+zillowHomeValueUsd: 385230
 ---
 
 **Engineering Notice for Hamilton:** System optimized for 161 mg/L hard water scaling factors in Hamilton. Regional dispatch grid: Harris County.

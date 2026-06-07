@@ -12,6 +12,7 @@ lng: -81.5100
 zipSample: ["26150"]
 zipCodes: ["26150"]
 localPaths: ["Wood County / primary ZIP 26150", "Wood County / ZIP 26150 sector", "Wood County / coords 39.1800, -81.5100", "Wood County / elevation 640 ft band"]
+zillowHomeValueUsd: 217462
 ---
 
 **Engineering Notice for Mineralwells:** structural drying capacity optimized for 640ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wood County. Relative Humidity Threshold: 66%. Sensor sync: Active.

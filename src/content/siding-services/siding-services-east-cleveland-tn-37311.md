@@ -12,6 +12,7 @@ lng: -84.8500
 zipSample: ["37311"]
 zipCodes: ["37311"]
 localPaths: ["Bradley County / ZIP 37311 sector", "Bradley County / coords 35.1500, -84.8500", "Bradley County / primary ZIP 37311", "Bradley County / elevation 988 ft band"]
+zillowHomeValueUsd: 251650
 ---
 
 **Engineering Notice for East Cleveland:** Cladding verification uses 101 mph routing baseline; lateral pressure note: 13.3 psf. Grid: Bradley County.

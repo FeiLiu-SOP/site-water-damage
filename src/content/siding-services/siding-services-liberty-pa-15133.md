@@ -12,6 +12,7 @@ lng: -79.8600
 zipSample: ["15133"]
 zipCodes: ["15133"]
 localPaths: ["Allegheny County / coords 40.3200, -79.8600", "Allegheny County / elevation 919 ft band", "Allegheny County / primary ZIP 15133", "Allegheny County / ZIP 15133 sector"]
+zillowHomeValueUsd: 117566
 ---
 
 **Engineering Notice for Liberty:** Site context locked to Allegheny County. Elevation: 919 ft AMSL. Wall Restoration integrity verification recorded.

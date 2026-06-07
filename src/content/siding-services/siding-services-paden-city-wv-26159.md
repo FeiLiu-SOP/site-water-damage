@@ -12,6 +12,7 @@ lng: -80.9400
 zipSample: ["26159"]
 zipCodes: ["26159"]
 localPaths: ["Wetzel County / ZIP 26159 sector", "Wetzel County / elevation 659 ft band", "Wetzel County / primary ZIP 26159", "Wetzel County / coords 39.6000, -80.9400"]
+zillowHomeValueUsd: 115256
 ---
 
 **Engineering Notice for Paden City:** Site context locked to Wetzel County. Elevation: 659 ft AMSL. Coordinates: 39.6000, -80.9400. Facade Renewal integrity verification recorded.

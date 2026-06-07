@@ -11,6 +11,7 @@ lng: -90.4200
 zipSample: ["63122"]
 zipCodes: ["63122"]
 localPaths: ["St. Louis County / primary ZIP 63122", "St. Louis County / coords 38.5800, -90.4200", "St. Louis County / ZIP 63122 sector", "St. Louis County / elevation 594 ft band"]
+zillowHomeValueUsd: 505175
 ---
 
 **Engineering Notice for Kirkwood:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: St. Louis County.

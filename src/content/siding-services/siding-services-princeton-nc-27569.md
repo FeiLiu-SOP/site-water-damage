@@ -12,6 +12,7 @@ lng: -78.1600
 zipSample: ["27569"]
 zipCodes: ["27569"]
 localPaths: ["Johnston County / primary ZIP 27569", "Johnston County / ZIP 27569 sector", "Johnston County / elevation 154 ft band", "Johnston County / coords 35.4700, -78.1600"]
+zillowHomeValueUsd: 279439
 ---
 
 **Engineering Notice for Princeton:** Exterior Envelope was validated under stress factor 1.02; target tolerance set near 106 mph. Grid anchor: Johnston County.

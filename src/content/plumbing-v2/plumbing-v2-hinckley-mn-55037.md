@@ -12,6 +12,7 @@ lng: -92.9300
 zipSample: ["55037"]
 zipCodes: ["55037"]
 localPaths: ["Pine County / primary ZIP 55037", "Pine County / elevation 1017 ft band", "Pine County / coords 46.0100, -92.9300", "Pine County / ZIP 55037 sector"]
+zillowHomeValueUsd: 190214
 ---
 
 **Engineering Notice for Hinckley:** System optimized for 164 mg/L hard water scaling factors in Hinckley. Regional dispatch grid: Pine County.

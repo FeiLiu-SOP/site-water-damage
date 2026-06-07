@@ -12,6 +12,7 @@ lng: -76.6200
 zipSample: ["17033"]
 zipCodes: ["17033"]
 localPaths: ["Dauphin County / primary ZIP 17033", "Dauphin County / elevation 423 ft band", "Dauphin County / ZIP 17033 sector", "Dauphin County / coords 40.3000, -76.6200"]
+zillowHomeValueUsd: 404284
 ---
 
 **Engineering Notice for Palmdale:** System optimized for 161 mg/L hard water scaling factors in Palmdale. Regional dispatch grid: Dauphin County.

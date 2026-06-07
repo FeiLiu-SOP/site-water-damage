@@ -12,6 +12,7 @@ lng: -115.6300
 zipSample: ["89019"]
 zipCodes: ["89019"]
 localPaths: ["Clark County / coords 35.8400, -115.6300", "Clark County / primary ZIP 89019", "Clark County / ZIP 89019 sector", "Clark County / elevation 2772 ft band"]
+zillowHomeValueUsd: 322075
 ---
 
 **Engineering Notice for Sandy Valley:** Structural integrity verification: Exterior Envelope calibrated for 106 mph localized wind load factor. Elevation: 2772 ft AMSL. Coordinates: 35.8400, -115.6300. Regional dispatch grid: Clark County.

@@ -12,6 +12,7 @@ lng: -74.9700
 zipSample: ["19020"]
 zipCodes: ["19020"]
 localPaths: ["Bucks County / primary ZIP 19020", "Bucks County / coords 40.0700, -74.9700", "Bucks County / ZIP 19020 sector", "Bucks County / elevation 72 ft band"]
+zillowHomeValueUsd: 422405
 ---
 
 **Engineering Notice for Andalusia:** Wall Restoration was validated under stress factor 0.87; target tolerance set near 90 mph. Coordinates: 40.0700, -74.9700. Grid anchor: Bucks County.

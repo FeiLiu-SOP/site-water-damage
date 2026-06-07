@@ -11,6 +11,7 @@ lng: -77.8400
 zipSample: ["28411"]
 zipCodes: ["28411"]
 localPaths: ["New Hanover County / elevation 36 ft band", "New Hanover County / ZIP 28411 sector", "New Hanover County / coords 34.2900, -77.8400", "New Hanover County / primary ZIP 28411"]
+zillowHomeValueUsd: 463617
 ---
 
 **Engineering Notice for Murraysville:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: New Hanover County.

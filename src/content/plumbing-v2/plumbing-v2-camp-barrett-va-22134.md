@@ -12,6 +12,7 @@ lng: -77.4400
 zipSample: ["22134"]
 zipCodes: ["22134"]
 localPaths: ["Stafford County / coords 38.5200, -77.4400", "Stafford County / elevation 322 ft band", "Stafford County / ZIP 22134 sector", "Stafford County / primary ZIP 22134"]
+zillowHomeValueUsd: 317785
 ---
 
 **Engineering Notice for Camp Barrett:** System optimized for 142 mg/L hard water scaling factors in Camp Barrett. Regional dispatch grid: Stafford County.

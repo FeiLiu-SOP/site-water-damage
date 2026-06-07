@@ -12,6 +12,7 @@ lng: -90.4700
 zipSample: ["39666"]
 zipCodes: ["39666"]
 localPaths: ["Pike County / coords 31.2800, -90.4700", "Pike County / ZIP 39666 sector", "Pike County / elevation 469 ft band", "Pike County / primary ZIP 39666"]
+zillowHomeValueUsd: 140492
 ---
 
 **Engineering Notice for Summit:** System optimized for 130 mg/L hard water scaling factors in Summit. Regional dispatch grid: Pike County.

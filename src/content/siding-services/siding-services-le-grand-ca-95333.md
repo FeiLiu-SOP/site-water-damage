@@ -12,6 +12,7 @@ lng: -120.2500
 zipSample: ["95333"]
 zipCodes: ["95333"]
 localPaths: ["Merced County / elevation 259 ft band", "Merced County / ZIP 95333 sector", "Merced County / coords 37.2300, -120.2500", "Merced County / primary ZIP 95333"]
+zillowHomeValueUsd: 349772
 ---
 
 **Engineering Notice for Le Grand:** Site context locked to Merced County. Surface Sheathing integrity verification recorded.

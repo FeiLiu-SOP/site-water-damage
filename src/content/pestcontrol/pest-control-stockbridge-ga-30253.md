@@ -11,6 +11,7 @@ lng: -84.2300
 zipSample: ["30281", "30253"]
 zipCodes: ["30281", "30253"]
 localPaths: ["Henry County / elevation 817 ft band", "Henry County / coords 33.5300, -84.2300", "Henry County / primary ZIP 30253", "Henry County / ZIP 30253 sector", "Henry County / ZIP 30281 sector"]
+zillowHomeValueUsd: 311563
 ---
 
 **Engineering Notice for Stockbridge:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Henry County.

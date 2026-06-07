@@ -11,6 +11,7 @@ lng: -77.1200
 zipSample: ["20852", "20851", "20817", "20895", "20814"]
 zipCodes: ["20895", "20851", "20896", "20817", "20852", "20814"]
 localPaths: ["Montgomery County / ZIP 20895 sector", "Montgomery County / ZIP 20851 sector", "Montgomery County / ZIP 20852 sector", "Montgomery County / elevation 364 ft band", "Montgomery County / ZIP 20817 sector"]
+zillowHomeValueUsd: 819908
 ---
 
 **Engineering Notice for North Bethesda:** Structural loading calculated based on 364 ft terrain assessment. Regional dispatch grid: Montgomery County.

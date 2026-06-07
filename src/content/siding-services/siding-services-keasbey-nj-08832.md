@@ -12,6 +12,8 @@ lng: -74.3100
 zipSample: ["08832"]
 zipCodes: ["08832"]
 localPaths: ["Middlesex County / elevation 23 ft band", "Middlesex County / coords 40.5100, -74.3100", "Middlesex County / primary ZIP 08832", "Middlesex County / ZIP 08832 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 648916
 ---
 
 **Engineering Notice for Keasbey:** Site context locked to Middlesex County. Cladding Service integrity verification recorded.

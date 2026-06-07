@@ -12,6 +12,8 @@ lng: -99.7400
 zipSample: ["58316"]
 zipCodes: ["58316"]
 localPaths: ["Rolette County / primary ZIP 58316", "Rolette County / ZIP 58316 sector", "Rolette County / coords 48.8400, -99.7400", "Rolette County / elevation 1965 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 257647
 ---
 
 **Engineering Notice for Belcourt:** structural drying capacity optimized for 1965ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rolette County. Relative Humidity Threshold: 85%. Sensor sync: Active.

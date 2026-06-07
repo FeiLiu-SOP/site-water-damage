@@ -12,6 +12,7 @@ lng: -155.8400
 zipSample: ["96719", "96755"]
 zipCodes: ["96755", "96719"]
 localPaths: ["Hawaii County / ZIP 96719 sector", "Hawaii County / elevation 896 ft band", "Hawaii County / ZIP 96755 sector", "Hawaii County / coords 20.2300, -155.8400", "Hawaii County / primary ZIP 96719"]
+zillowHomeValueUsd: 841821
 ---
 
 **Engineering Notice for Hawi:** System optimized for 154 mg/L hard water scaling factors in Hawi. Regional dispatch grid: Hawaii County.

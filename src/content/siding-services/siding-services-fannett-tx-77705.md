@@ -12,6 +12,7 @@ lng: -94.2400
 zipSample: ["77705"]
 zipCodes: ["77705"]
 localPaths: ["Jefferson County / coords 29.9300, -94.2400", "Jefferson County / elevation 39 ft band", "Jefferson County / primary ZIP 77705", "Jefferson County / ZIP 77705 sector"]
+zillowHomeValueUsd: 135380
 ---
 
 **Engineering Notice for Fannett:** Structural integrity verification: Cladding Retrofit calibrated for 147 mph localized wind load factor. Elevation: 39 ft AMSL. Coordinates: 29.9300, -94.2400. Regional dispatch grid: Jefferson County.

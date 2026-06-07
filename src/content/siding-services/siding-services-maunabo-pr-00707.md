@@ -12,6 +12,8 @@ lng: -65.9000
 zipSample: ["00707"]
 zipCodes: ["00707"]
 localPaths: ["Maunabo County / coords 18.0100, -65.9000", "Maunabo County / primary ZIP 00707", "Maunabo County / elevation 43 ft band", "Maunabo County / ZIP 00707 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 380637
 ---
 
 **Engineering Notice for Maunabo:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Grid: Maunabo County.

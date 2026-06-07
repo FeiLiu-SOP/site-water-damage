@@ -12,6 +12,7 @@ lng: -85.7700
 zipSample: ["46044"]
 zipCodes: ["46044"]
 localPaths: ["Madison County / ZIP 46044 sector", "Madison County / coords 40.2200, -85.7700", "Madison County / elevation 856 ft band", "Madison County / primary ZIP 46044"]
+zillowHomeValueUsd: 202085
 ---
 
 **Engineering Notice for Frankton:** System optimized for 156 mg/L hard water scaling factors in Frankton. Regional dispatch grid: Madison County.

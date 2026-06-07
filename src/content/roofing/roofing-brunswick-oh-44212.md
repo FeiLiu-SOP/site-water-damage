@@ -11,6 +11,7 @@ lng: -81.8200
 zipSample: ["44212"]
 zipCodes: ["44212"]
 localPaths: ["Medina County / coords 41.2500, -81.8200", "Medina County / elevation 1112 ft band", "Medina County / ZIP 44212 sector", "Medina County / primary ZIP 44212"]
+zillowHomeValueUsd: 313172
 ---
 
 **Engineering Notice for Brunswick:** Structural loading calculated based on 1112 ft terrain assessment. Regional dispatch grid: Medina County.

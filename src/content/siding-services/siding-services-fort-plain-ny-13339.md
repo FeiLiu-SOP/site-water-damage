@@ -12,6 +12,7 @@ lng: -74.6300
 zipSample: ["13339"]
 zipCodes: ["13339"]
 localPaths: ["Montgomery County / elevation 364 ft band", "Montgomery County / coords 42.9300, -74.6300", "Montgomery County / primary ZIP 13339", "Montgomery County / ZIP 13339 sector"]
+zillowHomeValueUsd: 169611
 ---
 
 **Engineering Notice for Fort Plain:** Structural integrity verification: Cladding Retrofit calibrated for 94 mph localized wind load factor. Elevation: 364 ft AMSL. Regional dispatch grid: Montgomery County.

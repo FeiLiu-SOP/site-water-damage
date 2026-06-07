@@ -12,6 +12,7 @@ lng: -88.1600
 zipSample: ["61864"]
 zipCodes: ["61864"]
 localPaths: ["Champaign County / ZIP 61864 sector", "Champaign County / elevation 741 ft band", "Champaign County / primary ZIP 61864", "Champaign County / coords 40.0000, -88.1600"]
+zillowHomeValueUsd: 251207
 ---
 
 **Engineering Notice for Philo:** System optimized for 135 mg/L hard water scaling factors in Philo. Regional dispatch grid: Champaign County.

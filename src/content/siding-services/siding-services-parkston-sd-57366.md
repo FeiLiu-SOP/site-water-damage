@@ -12,6 +12,7 @@ lng: -97.9900
 zipSample: ["57366"]
 zipCodes: ["57366"]
 localPaths: ["Hutchinson County / ZIP 57366 sector", "Hutchinson County / coords 43.3900, -97.9900", "Hutchinson County / elevation 1401 ft band", "Hutchinson County / primary ZIP 57366"]
+zillowHomeValueUsd: 232845
 ---
 
 **Engineering Notice for Parkston:** Cladding verification uses 91 mph routing baseline; lateral pressure note: 12.1 psf. Grid: Hutchinson County.

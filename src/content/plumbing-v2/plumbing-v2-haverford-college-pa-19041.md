@@ -12,6 +12,7 @@ lng: -75.3100
 zipSample: ["19003", "19041"]
 zipCodes: ["19003", "19041"]
 localPaths: ["Delaware County / elevation 367 ft band", "Delaware County / ZIP 19003 sector", "Delaware County / coords 40.0100, -75.3100", "Delaware County / ZIP 19041 sector", "Delaware County / primary ZIP 19041"]
+zillowHomeValueUsd: 1135384
 ---
 
 **Engineering Notice for Haverford College:** System optimized for 157 mg/L hard water scaling factors in Haverford College. Regional dispatch grid: Delaware County.

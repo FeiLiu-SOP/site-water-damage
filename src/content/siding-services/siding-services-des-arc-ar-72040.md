@@ -12,6 +12,8 @@ lng: -91.5100
 zipSample: ["72040"]
 zipCodes: ["72040"]
 localPaths: ["Prairie County / ZIP 72040 sector", "Prairie County / coords 34.9800, -91.5100", "Prairie County / elevation 217 ft band", "Prairie County / primary ZIP 72040"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 198259
 ---
 
 **Engineering Notice for Des Arc:** Envelope check: Exterior Cladding assigned to wind-load band B with stress factor 1.13. Elevation: 217 ft AMSL. Regional dispatch grid: Prairie County.

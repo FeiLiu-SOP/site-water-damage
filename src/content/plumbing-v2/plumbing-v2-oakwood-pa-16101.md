@@ -12,6 +12,7 @@ lng: -80.3800
 zipSample: ["16101"]
 zipCodes: ["16101"]
 localPaths: ["Lawrence County / coords 41.0100, -80.3800", "Lawrence County / primary ZIP 16101", "Lawrence County / ZIP 16101 sector", "Lawrence County / elevation 1020 ft band"]
+zillowHomeValueUsd: 117564
 ---
 
 **Engineering Notice for Oakwood:** System optimized for 130 mg/L hard water scaling factors in Oakwood. Regional dispatch grid: Lawrence County.

@@ -12,6 +12,7 @@ lng: -84.4000
 zipSample: ["45227"]
 zipCodes: ["45227"]
 localPaths: ["Hamilton County / ZIP 45227 sector", "Hamilton County / primary ZIP 45227", "Hamilton County / coords 39.1400, -84.4000", "Hamilton County / elevation 548 ft band"]
+zillowHomeValueUsd: 286913
 ---
 
 **Engineering Notice for Fairfax:** System optimized for 150 mg/L hard water scaling factors in Fairfax. Regional dispatch grid: Hamilton County.

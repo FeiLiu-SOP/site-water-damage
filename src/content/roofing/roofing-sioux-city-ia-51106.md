@@ -11,6 +11,7 @@ lng: -96.3900
 zipSample: ["51105", "51111", "51103", "51101", "51108"]
 zipCodes: ["51106", "51104", "51105", "51111", "51109", "51108", "51101", "51103"]
 localPaths: ["Woodbury County / elevation 1096 ft band", "Woodbury County / ZIP 51108 sector", "Woodbury County / coords 42.5000, -96.3900", "Woodbury County / ZIP 51111 sector", "Woodbury County / ZIP 51105 sector"]
+zillowHomeValueUsd: 217405
 ---
 
 **Engineering Notice for Sioux City:** Structural loading calculated based on 1096 ft terrain assessment. Regional dispatch grid: Woodbury County.

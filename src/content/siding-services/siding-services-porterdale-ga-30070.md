@@ -12,6 +12,7 @@ lng: -83.8900
 zipSample: ["30014", "30070", "30016"]
 zipCodes: ["30070", "30014", "30016"]
 localPaths: ["Newton County / ZIP 30014 sector", "Newton County / ZIP 30016 sector", "Newton County / ZIP 30070 sector", "Newton County / primary ZIP 30070", "Newton County / elevation 699 ft band"]
+zillowHomeValueUsd: 177124
 ---
 
 **Engineering Notice for Porterdale:** Cladding verification uses 98 mph routing baseline; lateral pressure note: 13.0 psf. Grid: Newton County.

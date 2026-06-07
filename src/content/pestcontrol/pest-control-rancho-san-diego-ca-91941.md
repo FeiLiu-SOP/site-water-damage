@@ -11,6 +11,7 @@ lng: -116.9200
 zipSample: ["91941", "92019"]
 zipCodes: ["91941", "92019"]
 localPaths: ["San Diego County / coords 32.7600, -116.9200", "San Diego County / elevation 489 ft band", "San Diego County / primary ZIP 91941", "San Diego County / ZIP 92019 sector", "San Diego County / ZIP 91941 sector"]
+zillowHomeValueUsd: 1030887
 ---
 
 **Engineering Notice for Rancho San Diego:** Structural loading calculated based on 489 ft terrain assessment. Regional dispatch grid: San Diego County.

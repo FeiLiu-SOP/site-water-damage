@@ -12,6 +12,7 @@ lng: -86.0000
 zipSample: ["35962"]
 zipCodes: ["35962"]
 localPaths: ["DeKalb County / elevation 1135 ft band", "DeKalb County / primary ZIP 35962", "DeKalb County / coords 34.2900, -86.0000", "DeKalb County / ZIP 35962 sector"]
+zillowHomeValueUsd: 193734
 ---
 
 **Engineering Notice for Crossville:** structural drying capacity optimized for 1135ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: DeKalb County. Relative Humidity Threshold: 66%. Sensor sync: Active.

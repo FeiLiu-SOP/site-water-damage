@@ -11,6 +11,7 @@ lng: -76.7100
 zipSample: ["23188", "23185", "23187"]
 zipCodes: ["23188", "23185", "23187"]
 localPaths: ["Williamsburg County / primary ZIP 23185", "Williamsburg County / coords 37.2700, -76.7100", "Williamsburg County / ZIP 23185 sector", "Williamsburg County / ZIP 23187 sector", "Williamsburg County / ZIP 23188 sector"]
+zillowHomeValueUsd: 459682
 ---
 
 **Engineering Notice for Williamsburg:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Williamsburg County.

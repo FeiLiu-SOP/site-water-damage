@@ -12,6 +12,7 @@ lng: -92.1400
 zipSample: ["71328"]
 zipCodes: ["71328"]
 localPaths: ["Rapides Parish / primary ZIP 71328", "Rapides Parish / coords 31.3400, -92.1400", "Rapides Parish / elevation 72 ft band", "Rapides Parish / ZIP 71328 sector"]
+zillowHomeValueUsd: 195873
 ---
 
 **Engineering Notice for Deville:** System optimized for 120 mg/L hard water scaling factors in Deville. Regional dispatch grid: Rapides Parish.

@@ -12,6 +12,7 @@ lng: -84.7100
 zipSample: ["49738"]
 zipCodes: ["49738"]
 localPaths: ["Crawford County / ZIP 49738 sector", "Crawford County / elevation 1135 ft band", "Crawford County / coords 44.6600, -84.7100", "Crawford County / primary ZIP 49738"]
+zillowHomeValueUsd: 177191
 ---
 
 **Engineering Notice for Grayling:** structural drying capacity optimized for 1135ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Crawford County. Relative Humidity Threshold: 70%. Sensor sync: Active.

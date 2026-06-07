@@ -12,6 +12,7 @@ lng: -90.3100
 zipSample: ["63123"]
 zipCodes: ["63123"]
 localPaths: ["St. Louis County / primary ZIP 63123", "St. Louis County / ZIP 63123 sector", "St. Louis County / coords 38.5400, -90.3100", "St. Louis County / elevation 518 ft band"]
+zillowHomeValueUsd: 243715
 ---
 
 **Engineering Notice for St. George:** structural drying capacity optimized for 518ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Louis County. Relative Humidity Threshold: 80%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -74.0200
 zipSample: ["07717"]
 zipCodes: ["07717"]
 localPaths: ["Monmouth County / elevation 16 ft band", "Monmouth County / coords 40.1900, -74.0200", "Monmouth County / ZIP 07717 sector", "Monmouth County / primary ZIP 07717"]
+zillowHomeValueUsd: 1735277
 ---
 
 **Engineering Notice for Avon-by-the-Sea:** Exterior Envelope was validated under stress factor 1.22; target tolerance set near 99 mph. Coordinates: 40.1900, -74.0200. Grid anchor: Monmouth County.

@@ -12,6 +12,7 @@ lng: -94.3500
 zipSample: ["75657"]
 zipCodes: ["75657"]
 localPaths: ["Marion County / elevation 236 ft band", "Marion County / coords 32.7600, -94.3500", "Marion County / ZIP 75657 sector", "Marion County / primary ZIP 75657"]
+zillowHomeValueUsd: 155371
 ---
 
 **Engineering Notice for Jefferson:** Structural integrity verification: Vinyl Panels calibrated for 135 mph localized wind load factor. Regional dispatch grid: Marion County.

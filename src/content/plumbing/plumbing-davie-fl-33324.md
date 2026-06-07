@@ -12,6 +12,7 @@ lng: -80.2900
 zipSample: ["33331", "33355", "33314", "33324", "33328"]
 zipCodes: ["33325", "33331", "33324", "33355", "33314", "33328", "33330"]
 localPaths: ["Broward County / ZIP 33331 sector", "Broward County / ZIP 33328 sector", "Broward County / primary ZIP 33324", "Broward County / ZIP 33314 sector", "Broward County / ZIP 33355 sector"]
+zillowHomeValueUsd: 359243
 ---
 
 **Engineering Notice for Davie:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Broward County.

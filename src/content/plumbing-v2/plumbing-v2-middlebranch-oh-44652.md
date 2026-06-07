@@ -12,6 +12,8 @@ lng: -81.3300
 zipSample: ["44652", "44721"]
 zipCodes: ["44652", "44721"]
 localPaths: ["Stark County / ZIP 44652 sector", "Stark County / ZIP 44721 sector", "Stark County / coords 40.9000, -81.3300", "Stark County / elevation 1112 ft band", "Stark County / primary ZIP 44652"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 239883
 ---
 
 **Engineering Notice for Middlebranch:** System optimized for 120 mg/L hard water scaling factors in Middlebranch. Regional dispatch grid: Stark County.

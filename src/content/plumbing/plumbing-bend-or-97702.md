@@ -12,6 +12,7 @@ lng: -121.3100
 zipSample: ["97701", "97702", "97708", "97703"]
 zipCodes: ["97703", "97702", "97701", "97708"]
 localPaths: ["Deschutes County / elevation 3648 ft band", "Deschutes County / ZIP 97702 sector", "Deschutes County / ZIP 97701 sector", "Deschutes County / ZIP 97708 sector", "Deschutes County / primary ZIP 97702"]
+zillowHomeValueUsd: 681935
 ---
 
 **Engineering Notice for Bend:** Structural loading calculated based on 3648 ft terrain assessment. Regional dispatch grid: Deschutes County.

@@ -12,6 +12,7 @@ lng: -104.8000
 zipSample: ["80601", "80603"]
 zipCodes: ["80601", "80603"]
 localPaths: ["Adams County / coords 39.9700, -104.8000", "Adams County / ZIP 80603 sector", "Adams County / primary ZIP 80603", "Adams County / elevation 5030 ft band", "Adams County / ZIP 80601 sector"]
+zillowHomeValueUsd: 502731
 ---
 
 **Engineering Notice for Brighton:** Structural loading calculated based on 5030 ft terrain assessment. Regional dispatch grid: Adams County.

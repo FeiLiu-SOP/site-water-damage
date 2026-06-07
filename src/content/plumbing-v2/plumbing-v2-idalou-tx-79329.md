@@ -12,6 +12,7 @@ lng: -101.6800
 zipSample: ["79329"]
 zipCodes: ["79329"]
 localPaths: ["Lubbock County / elevation 3199 ft band", "Lubbock County / primary ZIP 79329", "Lubbock County / ZIP 79329 sector", "Lubbock County / coords 33.6600, -101.6800"]
+zillowHomeValueUsd: 252897
 ---
 
 **Engineering Notice for Idalou:** System optimized for 180 mg/L hard water scaling factors in Idalou. Regional dispatch grid: Lubbock County.

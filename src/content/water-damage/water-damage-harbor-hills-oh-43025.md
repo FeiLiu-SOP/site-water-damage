@@ -12,6 +12,7 @@ lng: -82.4300
 zipSample: ["43025", "43076"]
 zipCodes: ["43025", "43076"]
 localPaths: ["Licking County / elevation 935 ft band", "Licking County / ZIP 43076 sector", "Licking County / coords 39.9400, -82.4300", "Licking County / ZIP 43025 sector", "Licking County / primary ZIP 43025"]
+zillowHomeValueUsd: 356396
 ---
 
 **Engineering Notice for Harbor Hills:** structural drying capacity optimized for 935ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Licking County. Relative Humidity Threshold: 78%. Sensor sync: Active.

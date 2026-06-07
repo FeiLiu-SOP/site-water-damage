@@ -11,6 +11,7 @@ lng: -117.8700
 zipSample: ["92821", "92823", "92822"]
 zipCodes: ["92823", "92822", "92821"]
 localPaths: ["Orange County / elevation 564 ft band", "Orange County / coords 33.9300, -117.8700", "Orange County / ZIP 92822 sector", "Orange County / ZIP 92823 sector", "Orange County / ZIP 92821 sector"]
+zillowHomeValueUsd: 1120940
 ---
 
 **Engineering Notice for Brea:** Structural loading calculated based on 564 ft terrain assessment. Regional dispatch grid: Orange County.

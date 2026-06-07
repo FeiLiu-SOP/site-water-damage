@@ -12,6 +12,7 @@ lng: -77.6900
 zipSample: ["16828"]
 zipCodes: ["16828"]
 localPaths: ["Centre County / primary ZIP 16828", "Centre County / elevation 1322 ft band", "Centre County / coords 40.8400, -77.6900", "Centre County / ZIP 16828 sector"]
+zillowHomeValueUsd: 334881
 ---
 
 **Engineering Notice for Centre Hall:** structural drying capacity optimized for 1322ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Centre County. Relative Humidity Threshold: 81%. Sensor sync: Active.

@@ -11,6 +11,7 @@ lng: -122.3500
 zipSample: ["98671"]
 zipCodes: ["98671"]
 localPaths: ["Clark County / elevation 92 ft band", "Clark County / coords 45.5800, -122.3500", "Clark County / ZIP 98671 sector", "Clark County / primary ZIP 98671"]
+zillowHomeValueUsd: 639832
 ---
 
 **Engineering Notice for Washougal:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Clark County.

@@ -12,6 +12,7 @@ lng: -95.9700
 zipSample: ["51028"]
 zipCodes: ["51028"]
 localPaths: ["Plymouth County / coords 42.5900, -95.9700", "Plymouth County / elevation 1237 ft band", "Plymouth County / ZIP 51028 sector", "Plymouth County / primary ZIP 51028"]
+zillowHomeValueUsd: 248485
 ---
 
 **Engineering Notice for Kingsley:** Weather Barrier Wrap was validated under stress factor 0.93; target tolerance set near 95 mph. Coordinates: 42.5900, -95.9700. Grid anchor: Plymouth County.

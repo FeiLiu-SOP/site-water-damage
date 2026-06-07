@@ -12,6 +12,7 @@ lng: -75.9800
 zipSample: ["21914", "21901"]
 zipCodes: ["21901", "21914"]
 localPaths: ["Cecil County / ZIP 21914 sector", "Cecil County / elevation 56 ft band", "Cecil County / primary ZIP 21901", "Cecil County / ZIP 21901 sector", "Cecil County / coords 39.5800, -75.9800"]
+zillowHomeValueUsd: 391581
 ---
 
 **Engineering Notice for Charlestown:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Elevation: 56 ft AMSL. Grid: Cecil County.

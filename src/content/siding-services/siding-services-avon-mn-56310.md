@@ -12,6 +12,7 @@ lng: -94.4600
 zipSample: ["56310"]
 zipCodes: ["56310"]
 localPaths: ["Stearns County / ZIP 56310 sector", "Stearns County / primary ZIP 56310", "Stearns County / elevation 1106 ft band", "Stearns County / coords 45.6100, -94.4600"]
+zillowHomeValueUsd: 386054
 ---
 
 **Engineering Notice for Avon:** Weather Barrier Wrap was validated under stress factor 0.73; target tolerance set near 96 mph. Grid anchor: Stearns County.

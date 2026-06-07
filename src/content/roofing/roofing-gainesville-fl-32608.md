@@ -11,6 +11,7 @@ lng: -82.3500
 zipSample: ["32611", "32607", "32601", "32605", "32612"]
 zipCodes: ["32627", "32611", "32605", "32601", "32614", "32610", "32603", "32608", "32604", "32609", "32635", "32653"]
 localPaths: ["Alachua County / ZIP 32612 sector", "Alachua County / coords 29.6800, -82.3500", "Alachua County / ZIP 32605 sector", "Alachua County / ZIP 32601 sector", "Alachua County / elevation 180 ft band"]
+zillowHomeValueUsd: 337062
 ---
 
 **Engineering Notice for Gainesville:** Structural loading calculated based on 180 ft terrain assessment. Regional dispatch grid: Alachua County.

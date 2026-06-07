@@ -12,6 +12,8 @@ lng: -65.4400
 zipSample: ["00765"]
 zipCodes: ["00765"]
 localPaths: ["Vieques County / coords 18.1500, -65.4400", "Vieques County / ZIP 00765 sector", "Vieques County / primary ZIP 00765", "Vieques County / elevation 121 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 358195
 ---
 
 **Engineering Notice for Vieques:** Envelope check: Vinyl Panels assigned to wind-load band C with stress factor 1.20. Regional dispatch grid: Vieques County.

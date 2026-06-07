@@ -12,6 +12,7 @@ lng: -75.0100
 zipSample: ["08021"]
 zipCodes: ["08021"]
 localPaths: ["Camden County / ZIP 08021 sector", "Camden County / primary ZIP 08021", "Camden County / elevation 95 ft band", "Camden County / coords 39.8200, -75.0100"]
+zillowHomeValueUsd: 285606
 ---
 
 **Engineering Notice for Laurel Springs:** Site context locked to Camden County. Coordinates: 39.8200, -75.0100. Exterior Cladding integrity verification recorded.

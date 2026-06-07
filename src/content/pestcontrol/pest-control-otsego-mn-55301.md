@@ -11,6 +11,7 @@ lng: -93.6200
 zipSample: ["55362", "55301", "55330"]
 zipCodes: ["55362", "55330", "55301"]
 localPaths: ["Wright County / coords 45.2700, -93.6200", "Wright County / ZIP 55301 sector", "Wright County / ZIP 55362 sector", "Wright County / elevation 919 ft band", "Wright County / ZIP 55330 sector"]
+zillowHomeValueUsd: 373799
 ---
 
 **Engineering Notice for Otsego:** Structural loading calculated based on 919 ft terrain assessment. Regional dispatch grid: Wright County.

@@ -12,6 +12,7 @@ lng: -81.6400
 zipSample: ["45715"]
 zipCodes: ["45715"]
 localPaths: ["Washington County / primary ZIP 45715", "Washington County / coords 39.5500, -81.6400", "Washington County / elevation 712 ft band", "Washington County / ZIP 45715 sector"]
+zillowHomeValueUsd: 175786
 ---
 
 **Engineering Notice for Beverly:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Coordinates: 39.5500, -81.6400. Grid: Washington County.

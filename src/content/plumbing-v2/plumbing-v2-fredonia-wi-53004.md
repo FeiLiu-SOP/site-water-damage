@@ -12,6 +12,7 @@ lng: -87.9500
 zipSample: ["53004", "53021"]
 zipCodes: ["53021", "53004"]
 localPaths: ["Ozaukee County / ZIP 53004 sector", "Ozaukee County / elevation 837 ft band", "Ozaukee County / coords 43.4700, -87.9500", "Ozaukee County / ZIP 53021 sector", "Ozaukee County / primary ZIP 53004"]
+zillowHomeValueUsd: 387241
 ---
 
 **Engineering Notice for Fredonia:** System optimized for 161 mg/L hard water scaling factors in Fredonia. Regional dispatch grid: Ozaukee County.

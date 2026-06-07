@@ -12,6 +12,7 @@ lng: -90.6000
 zipSample: ["63050"]
 zipCodes: ["63050"]
 localPaths: ["Jefferson County / elevation 745 ft band", "Jefferson County / ZIP 63050 sector", "Jefferson County / primary ZIP 63050", "Jefferson County / coords 38.2500, -90.6000"]
+zillowHomeValueUsd: 315258
 ---
 
 **Engineering Notice for Raintree Plantation:** System optimized for 173 mg/L hard water scaling factors in Raintree Plantation. Regional dispatch grid: Jefferson County.

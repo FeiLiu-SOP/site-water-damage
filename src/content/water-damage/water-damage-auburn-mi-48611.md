@@ -12,6 +12,7 @@ lng: -84.0800
 zipSample: ["48611"]
 zipCodes: ["48611"]
 localPaths: ["Bay County / primary ZIP 48611", "Bay County / coords 43.6000, -84.0800", "Bay County / elevation 623 ft band", "Bay County / ZIP 48611 sector"]
+zillowHomeValueUsd: 229410
 ---
 
 **Engineering Notice for Auburn:** structural drying capacity optimized for 623ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bay County. Relative Humidity Threshold: 70%. Sensor sync: Active.

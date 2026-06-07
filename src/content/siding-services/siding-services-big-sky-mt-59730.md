@@ -12,6 +12,7 @@ lng: -111.3400
 zipSample: ["59716", "59730"]
 zipCodes: ["59730", "59716"]
 localPaths: ["Gallatin County / elevation 6942 ft band", "Gallatin County / coords 45.2600, -111.3400", "Gallatin County / primary ZIP 59730", "Gallatin County / ZIP 59730 sector", "Gallatin County / ZIP 59716 sector"]
+zillowHomeValueUsd: 1365074
 ---
 
 **Engineering Notice for Big Sky:** Site context locked to Gallatin County. Elevation: 6942 ft AMSL. Cladding Service integrity verification recorded.

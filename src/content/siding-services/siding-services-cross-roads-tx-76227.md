@@ -12,6 +12,7 @@ lng: -97.0000
 zipSample: ["76227"]
 zipCodes: ["76227"]
 localPaths: ["Denton County / ZIP 76227 sector", "Denton County / elevation 607 ft band", "Denton County / coords 33.2300, -97.0000", "Denton County / primary ZIP 76227"]
+zillowHomeValueUsd: 364108
 ---
 
 **Engineering Notice for Cross Roads:** Structural integrity verification: Weather Barrier Wrap calibrated for 147 mph localized wind load factor. Elevation: 607 ft AMSL. Coordinates: 33.2300, -97.0000. Regional dispatch grid: Denton County.

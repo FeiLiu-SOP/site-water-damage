@@ -12,6 +12,7 @@ lng: -98.3600
 zipSample: ["68803", "68801"]
 zipCodes: ["68803", "68801"]
 localPaths: ["Hall County / ZIP 68803 sector", "Hall County / coords 40.9200, -98.3600", "Hall County / ZIP 68801 sector", "Hall County / elevation 1883 ft band", "Hall County / primary ZIP 68803"]
+zillowHomeValueUsd: 283500
 ---
 
 **Engineering Notice for Grand Island:** Structural loading calculated based on 1883 ft terrain assessment. Regional dispatch grid: Hall County.

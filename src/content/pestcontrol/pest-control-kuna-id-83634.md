@@ -11,6 +11,7 @@ lng: -116.3900
 zipSample: ["83642", "83634"]
 zipCodes: ["83642", "83634"]
 localPaths: ["Ada County / ZIP 83634 sector", "Ada County / elevation 2726 ft band", "Ada County / coords 43.4900, -116.3900", "Ada County / primary ZIP 83634", "Ada County / ZIP 83642 sector"]
+zillowHomeValueUsd: 459313
 ---
 
 **Engineering Notice for Kuna:** Structural loading calculated based on 2726 ft terrain assessment. Regional dispatch grid: Ada County.

@@ -11,6 +11,7 @@ lng: -74.4400
 zipSample: ["07062", "07063", "07060"]
 zipCodes: ["07060", "07062", "07063"]
 localPaths: ["Somerset County / coords 40.6200, -74.4400", "Somerset County / ZIP 07060 sector", "Somerset County / primary ZIP 07062", "Somerset County / elevation 85 ft band", "Somerset County / ZIP 07063 sector"]
+zillowHomeValueUsd: 498063
 ---
 
 **Engineering Notice for North Plainfield:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Somerset County.

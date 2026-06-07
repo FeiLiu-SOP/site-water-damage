@@ -12,6 +12,7 @@ lng: -115.0400
 zipSample: ["89122"]
 zipCodes: ["89122"]
 localPaths: ["Clark County / coords 36.1000, -115.0400", "Clark County / elevation 1667 ft band", "Clark County / ZIP 89122 sector", "Clark County / primary ZIP 89122"]
+zillowHomeValueUsd: 356264
 ---
 
 **Engineering Notice for Whitney:** Structural loading calculated based on 1667 ft terrain assessment. Regional dispatch grid: Clark County.

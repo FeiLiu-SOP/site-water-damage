@@ -12,6 +12,7 @@ lng: -88.8700
 zipSample: ["53525"]
 zipCodes: ["53525"]
 localPaths: ["Rock County / primary ZIP 53525", "Rock County / coords 42.5600, -88.8700", "Rock County / ZIP 53525 sector", "Rock County / elevation 968 ft band"]
+zillowHomeValueUsd: 316290
 ---
 
 **Engineering Notice for Clinton:** Site context locked to Rock County. Panel Replacement integrity verification recorded.

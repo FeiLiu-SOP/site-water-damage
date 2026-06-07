@@ -12,6 +12,7 @@ lng: -89.3300
 zipSample: ["61024"]
 zipCodes: ["61024"]
 localPaths: ["Winnebago County / elevation 781 ft band", "Winnebago County / ZIP 61024 sector", "Winnebago County / coords 42.4300, -89.3300", "Winnebago County / primary ZIP 61024"]
+zillowHomeValueUsd: 220534
 ---
 
 **Engineering Notice for Durand:** Structural integrity verification: Cladding Retrofit calibrated for 99 mph localized wind load factor. Regional dispatch grid: Winnebago County.

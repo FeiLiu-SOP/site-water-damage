@@ -12,6 +12,7 @@ lng: -95.5400
 zipSample: ["51025"]
 zipCodes: ["51025"]
 localPaths: ["Ida County / coords 42.4900, -95.5400", "Ida County / ZIP 51025 sector", "Ida County / primary ZIP 51025", "Ida County / elevation 1457 ft band"]
+zillowHomeValueUsd: 170262
 ---
 
 **Engineering Notice for Holstein:** structural drying capacity optimized for 1457ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ida County. Relative Humidity Threshold: 68%. Sensor sync: Active.

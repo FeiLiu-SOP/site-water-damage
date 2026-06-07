@@ -12,6 +12,7 @@ lng: -81.1000
 zipSample: ["29053"]
 zipCodes: ["29053"]
 localPaths: ["Lexington County / ZIP 29053 sector", "Lexington County / elevation 499 ft band", "Lexington County / coords 33.8200, -81.1000", "Lexington County / primary ZIP 29053"]
+zillowHomeValueUsd: 164047
 ---
 
 **Engineering Notice for Gaston:** Structural integrity verification: Cladding Service calibrated for 102 mph localized wind load factor. Elevation: 499 ft AMSL. Coordinates: 33.8200, -81.1000. Regional dispatch grid: Lexington County.

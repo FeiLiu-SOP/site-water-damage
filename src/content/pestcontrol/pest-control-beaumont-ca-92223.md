@@ -11,6 +11,7 @@ lng: -116.9800
 zipSample: ["92223"]
 zipCodes: ["92223"]
 localPaths: ["Riverside County / coords 33.9100, -116.9800", "Riverside County / ZIP 92223 sector", "Riverside County / elevation 2602 ft band", "Riverside County / primary ZIP 92223"]
+zillowHomeValueUsd: 537372
 ---
 
 **Engineering Notice for Beaumont:** Structural loading calculated based on 2602 ft terrain assessment. Regional dispatch grid: Riverside County.

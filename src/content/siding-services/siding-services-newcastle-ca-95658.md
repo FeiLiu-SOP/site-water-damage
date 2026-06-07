@@ -12,6 +12,7 @@ lng: -121.1300
 zipSample: ["95658"]
 zipCodes: ["95658"]
 localPaths: ["Placer County / ZIP 95658 sector", "Placer County / elevation 820 ft band", "Placer County / coords 38.8700, -121.1300", "Placer County / primary ZIP 95658"]
+zillowHomeValueUsd: 930762
 ---
 
 **Engineering Notice for Newcastle:** Cladding Service was validated under stress factor 0.97; target tolerance set near 137 mph. Grid anchor: Placer County.

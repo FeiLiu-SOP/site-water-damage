@@ -12,6 +12,7 @@ lng: -88.1700
 zipSample: ["60565", "60567", "60540", "60564", "60563"]
 zipCodes: ["60565", "60563", "60567", "60564", "60540"]
 localPaths: ["DuPage County / primary ZIP 60540", "DuPage County / ZIP 60564 sector", "DuPage County / ZIP 60565 sector", "DuPage County / ZIP 60567 sector", "DuPage County / ZIP 60563 sector"]
+zillowHomeValueUsd: 633154
 ---
 
 **Engineering Notice for Naperville:** Structural loading calculated based on 709 ft terrain assessment. Regional dispatch grid: DuPage County.

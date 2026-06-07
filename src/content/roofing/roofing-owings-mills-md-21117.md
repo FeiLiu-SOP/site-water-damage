@@ -11,6 +11,7 @@ lng: -76.7900
 zipSample: ["21117"]
 zipCodes: ["21117"]
 localPaths: ["Baltimore County / primary ZIP 21117", "Baltimore County / elevation 564 ft band", "Baltimore County / coords 39.4100, -76.7900", "Baltimore County / ZIP 21117 sector"]
+zillowHomeValueUsd: 386489
 ---
 
 **Engineering Notice for Owings Mills:** Structural loading calculated based on 564 ft terrain assessment. Regional dispatch grid: Baltimore County.

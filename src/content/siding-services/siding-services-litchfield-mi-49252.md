@@ -12,6 +12,7 @@ lng: -84.7600
 zipSample: ["49252"]
 zipCodes: ["49252"]
 localPaths: ["Hillsdale County / coords 42.0400, -84.7600", "Hillsdale County / primary ZIP 49252", "Hillsdale County / elevation 1027 ft band", "Hillsdale County / ZIP 49252 sector"]
+zillowHomeValueUsd: 182458
 ---
 
 **Engineering Notice for Litchfield:** Structural integrity verification: Weather Barrier Wrap calibrated for 94 mph localized wind load factor. Coordinates: 42.0400, -84.7600. Regional dispatch grid: Hillsdale County.

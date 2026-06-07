@@ -12,6 +12,7 @@ lng: -75.9600
 zipSample: ["19605"]
 zipCodes: ["19605"]
 localPaths: ["Berks County / elevation 322 ft band", "Berks County / coords 40.4000, -75.9600", "Berks County / ZIP 19605 sector", "Berks County / primary ZIP 19605"]
+zillowHomeValueUsd: 292206
 ---
 
 **Engineering Notice for Fox Chase:** Vinyl Panels was validated under stress factor 0.80; target tolerance set near 102 mph. Grid anchor: Berks County.

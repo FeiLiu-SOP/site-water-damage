@@ -11,6 +11,7 @@ lng: -70.7800
 zipSample: ["03801", "03804", "03803", "03802"]
 zipCodes: ["03804", "03803", "03801", "03802"]
 localPaths: ["Rockingham County / primary ZIP 03801", "Rockingham County / ZIP 03802 sector", "Rockingham County / coords 43.0600, -70.7800", "Rockingham County / ZIP 03803 sector", "Rockingham County / ZIP 03804 sector"]
+zillowHomeValueUsd: 809424
 ---
 
 **Engineering Notice for Portsmouth:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Rockingham County.

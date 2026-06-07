@@ -12,6 +12,7 @@ lng: -80.1900
 zipSample: ["15143"]
 zipCodes: ["15143"]
 localPaths: ["Allegheny County / coords 40.5500, -80.1900", "Allegheny County / primary ZIP 15143", "Allegheny County / elevation 787 ft band", "Allegheny County / ZIP 15143 sector"]
+zillowHomeValueUsd: 520381
 ---
 
 **Engineering Notice for Edgeworth:** System optimized for 125 mg/L hard water scaling factors in Edgeworth. Regional dispatch grid: Allegheny County.

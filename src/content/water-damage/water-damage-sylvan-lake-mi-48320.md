@@ -12,6 +12,7 @@ lng: -83.3300
 zipSample: ["48320"]
 zipCodes: ["48320"]
 localPaths: ["Oakland County / primary ZIP 48320", "Oakland County / ZIP 48320 sector", "Oakland County / coords 42.6200, -83.3300", "Oakland County / elevation 955 ft band"]
+zillowHomeValueUsd: 300485
 ---
 
 **Engineering Notice for Sylvan Lake:** structural drying capacity optimized for 955ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Oakland County. Relative Humidity Threshold: 75%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -77.1300
 zipSample: ["23009", "23086"]
 zipCodes: ["23086", "23009"]
 localPaths: ["King William County / primary ZIP 23086", "King William County / coords 37.7500, -77.1300", "King William County / elevation 174 ft band", "King William County / ZIP 23086 sector", "King William County / ZIP 23009 sector"]
+zillowHomeValueUsd: 351292
 ---
 
 **Engineering Notice for Central Garage:** Envelope check: Surface Sheathing assigned to wind-load band B with stress factor 0.99. Regional dispatch grid: King William County.

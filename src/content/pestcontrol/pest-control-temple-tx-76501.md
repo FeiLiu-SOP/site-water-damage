@@ -11,6 +11,7 @@ lng: -97.3900
 zipSample: ["76504", "76508", "76502", "76501", "76533"]
 zipCodes: ["76533", "76504", "76508", "76501", "76502"]
 localPaths: ["Bell County / elevation 623 ft band", "Bell County / ZIP 76508 sector", "Bell County / ZIP 76533 sector", "Bell County / primary ZIP 76501", "Bell County / ZIP 76504 sector"]
+zillowHomeValueUsd: 192644
 ---
 
 **Engineering Notice for Temple:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Bell County.

@@ -12,6 +12,7 @@ lng: -96.4000
 zipSample: ["68073"]
 zipCodes: ["68073"]
 localPaths: ["Saunders County / coords 41.2400, -96.4000", "Saunders County / primary ZIP 68073", "Saunders County / elevation 1161 ft band", "Saunders County / ZIP 68073 sector"]
+zillowHomeValueUsd: 375113
 ---
 
 **Engineering Notice for Yutan:** System optimized for 170 mg/L hard water scaling factors in Yutan. Regional dispatch grid: Saunders County.

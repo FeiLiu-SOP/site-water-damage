@@ -11,6 +11,7 @@ lng: -122.1400
 zipSample: ["94303"]
 zipCodes: ["94303"]
 localPaths: ["San Mateo County / elevation 10 ft band", "San Mateo County / primary ZIP 94303", "San Mateo County / coords 37.4700, -122.1400", "San Mateo County / ZIP 94303 sector"]
+zillowHomeValueUsd: 2133423
 ---
 
 **Engineering Notice for East Palo Alto:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: San Mateo County.

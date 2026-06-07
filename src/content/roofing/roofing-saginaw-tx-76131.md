@@ -11,6 +11,7 @@ lng: -97.3700
 zipSample: ["76179", "76131"]
 zipCodes: ["76131", "76179"]
 localPaths: ["Tarrant County / primary ZIP 76131", "Tarrant County / ZIP 76131 sector", "Tarrant County / ZIP 76179 sector", "Tarrant County / coords 32.8700, -97.3700", "Tarrant County / elevation 745 ft band"]
+zillowHomeValueUsd: 337716
 ---
 
 **Engineering Notice for Saginaw:** Structural loading calculated based on 745 ft terrain assessment. Regional dispatch grid: Tarrant County.

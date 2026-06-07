@@ -11,6 +11,7 @@ lng: -85.5100
 zipSample: ["38502", "38506", "38503", "38501", "38505"]
 zipCodes: ["38501", "38505", "38502", "38503", "38506"]
 localPaths: ["Putnam County / ZIP 38505 sector", "Putnam County / primary ZIP 38503", "Putnam County / ZIP 38506 sector", "Putnam County / ZIP 38501 sector", "Putnam County / ZIP 38502 sector"]
+zillowHomeValueUsd: 300312
 ---
 
 **Engineering Notice for Cookeville:** Structural loading calculated based on 1079 ft terrain assessment. Regional dispatch grid: Putnam County.

@@ -12,6 +12,8 @@ lng: -79.0400
 zipSample: ["14109"]
 zipCodes: ["14109"]
 localPaths: ["Niagara County / elevation 600 ft band", "Niagara County / ZIP 14109 sector", "Niagara County / coords 43.1400, -79.0400", "Niagara County / primary ZIP 14109"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 479657
 ---
 
 **Engineering Notice for Niagara University:** Envelope check: Vinyl Panels assigned to wind-load band A with stress factor 1.02. Elevation: 600 ft AMSL. Regional dispatch grid: Niagara County.

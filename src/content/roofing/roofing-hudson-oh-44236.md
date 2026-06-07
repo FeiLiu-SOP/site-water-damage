@@ -11,6 +11,7 @@ lng: -81.4400
 zipSample: ["44237", "44236"]
 zipCodes: ["44236", "44237"]
 localPaths: ["Summit County / ZIP 44236 sector", "Summit County / elevation 1073 ft band", "Summit County / coords 41.2400, -81.4400", "Summit County / primary ZIP 44236", "Summit County / ZIP 44237 sector"]
+zillowHomeValueUsd: 532227
 ---
 
 **Engineering Notice for Hudson:** Structural loading calculated based on 1073 ft terrain assessment. Regional dispatch grid: Summit County.

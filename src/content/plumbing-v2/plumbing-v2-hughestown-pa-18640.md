@@ -12,6 +12,7 @@ lng: -75.7700
 zipSample: ["18640"]
 zipCodes: ["18640"]
 localPaths: ["Luzerne County / ZIP 18640 sector", "Luzerne County / primary ZIP 18640", "Luzerne County / elevation 764 ft band", "Luzerne County / coords 41.3300, -75.7700"]
+zillowHomeValueUsd: 201811
 ---
 
 **Engineering Notice for Hughestown:** System optimized for 128 mg/L hard water scaling factors in Hughestown. Regional dispatch grid: Luzerne County.

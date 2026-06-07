@@ -12,6 +12,8 @@ lng: -102.2200
 zipSample: ["79752"]
 zipCodes: ["79752"]
 localPaths: ["Upton County / elevation 2448 ft band", "Upton County / primary ZIP 79752", "Upton County / coords 31.1300, -102.2200", "Upton County / ZIP 79752 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 309566
 ---
 
 **Engineering Notice for McCamey:** Surface Sheathing was validated under stress factor 1.08; target tolerance set near 142 mph. Grid anchor: Upton County.

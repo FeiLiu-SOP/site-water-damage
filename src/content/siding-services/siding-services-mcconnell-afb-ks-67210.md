@@ -12,6 +12,7 @@ lng: -97.2600
 zipSample: ["67221", "67210"]
 zipCodes: ["67210", "67221"]
 localPaths: ["Sedgwick County / coords 37.6200, -97.2600", "Sedgwick County / ZIP 67221 sector", "Sedgwick County / elevation 1345 ft band", "Sedgwick County / ZIP 67210 sector", "Sedgwick County / primary ZIP 67210"]
+zillowHomeValueUsd: 223311
 ---
 
 **Engineering Notice for McConnell AFB:** Structural integrity verification: Cladding Service calibrated for 95 mph localized wind load factor. Coordinates: 37.6200, -97.2600. Regional dispatch grid: Sedgwick County.

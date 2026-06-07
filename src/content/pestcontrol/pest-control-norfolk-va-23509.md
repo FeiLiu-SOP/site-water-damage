@@ -11,6 +11,7 @@ lng: -76.2600
 zipSample: ["23502", "23541", "23551", "23511", "23523"]
 zipCodes: ["23502", "23529", "23501", "23523", "23504", "23518", "23513", "23507", "23505", "23514", "23519", "23508"]
 localPaths: ["Norfolk County / ZIP 23551 sector", "Norfolk County / ZIP 23523 sector", "Norfolk County / coords 36.8900, -76.2600", "Norfolk County / ZIP 23541 sector", "Norfolk County / primary ZIP 23509"]
+zillowHomeValueUsd: 279650
 ---
 
 **Engineering Notice for Norfolk:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Norfolk County.

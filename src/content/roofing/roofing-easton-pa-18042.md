@@ -11,6 +11,7 @@ lng: -75.2200
 zipSample: ["18044", "18043", "18045", "18042"]
 zipCodes: ["18045", "18043", "18042", "18044"]
 localPaths: ["Northampton County / elevation 367 ft band", "Northampton County / primary ZIP 18042", "Northampton County / coords 40.6900, -75.2200", "Northampton County / ZIP 18042 sector", "Northampton County / ZIP 18044 sector"]
+zillowHomeValueUsd: 265672
 ---
 
 **Engineering Notice for Easton:** Structural loading calculated based on 367 ft terrain assessment. Regional dispatch grid: Northampton County.

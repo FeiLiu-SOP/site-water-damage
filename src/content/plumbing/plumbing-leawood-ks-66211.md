@@ -12,6 +12,7 @@ lng: -94.6300
 zipSample: ["66209", "66206", "66224", "66211"]
 zipCodes: ["66224", "66206", "66211", "66209"]
 localPaths: ["Johnson County / coords 38.9100, -94.6300", "Johnson County / primary ZIP 66211", "Johnson County / ZIP 66224 sector", "Johnson County / ZIP 66206 sector", "Johnson County / ZIP 66211 sector"]
+zillowHomeValueUsd: 790099
 ---
 
 **Engineering Notice for Leawood:** Structural loading calculated based on 978 ft terrain assessment. Regional dispatch grid: Johnson County.

@@ -12,6 +12,7 @@ lng: -78.8700
 zipSample: ["14217"]
 zipCodes: ["14217"]
 localPaths: ["Erie County / elevation 617 ft band", "Erie County / coords 42.9600, -78.8700", "Erie County / ZIP 14217 sector", "Erie County / primary ZIP 14217"]
+zillowHomeValueUsd: 254537
 ---
 
 **Engineering Notice for Kenmore:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: Erie County.

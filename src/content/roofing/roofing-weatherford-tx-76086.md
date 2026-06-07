@@ -11,6 +11,7 @@ lng: -97.7700
 zipSample: ["76087", "76086"]
 zipCodes: ["76086", "76087"]
 localPaths: ["Parker County / coords 32.7500, -97.7700", "Parker County / elevation 1020 ft band", "Parker County / ZIP 76086 sector", "Parker County / primary ZIP 76086", "Parker County / ZIP 76087 sector"]
+zillowHomeValueUsd: 272917
 ---
 
 **Engineering Notice for Weatherford:** Structural loading calculated based on 1020 ft terrain assessment. Regional dispatch grid: Parker County.

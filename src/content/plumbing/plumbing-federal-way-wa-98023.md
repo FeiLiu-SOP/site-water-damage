@@ -12,6 +12,7 @@ lng: -122.3400
 zipSample: ["98093", "98063", "98003", "98023"]
 zipCodes: ["98093", "98003", "98063", "98023"]
 localPaths: ["King County / ZIP 98003 sector", "King County / ZIP 98063 sector", "King County / ZIP 98093 sector", "King County / elevation 377 ft band", "King County / coords 47.3100, -122.3400"]
+zillowHomeValueUsd: 622005
 ---
 
 **Engineering Notice for Federal Way:** Structural loading calculated based on 377 ft terrain assessment. Regional dispatch grid: King County.

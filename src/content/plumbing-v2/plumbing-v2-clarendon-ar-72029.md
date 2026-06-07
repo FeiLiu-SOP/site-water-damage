@@ -12,6 +12,8 @@ lng: -91.3100
 zipSample: ["72029"]
 zipCodes: ["72029"]
 localPaths: ["Monroe County / primary ZIP 72029", "Monroe County / coords 34.6900, -91.3100", "Monroe County / elevation 174 ft band", "Monroe County / ZIP 72029 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 201598
 ---
 
 **Engineering Notice for Clarendon:** System optimized for 128 mg/L hard water scaling factors in Clarendon. Regional dispatch grid: Monroe County.

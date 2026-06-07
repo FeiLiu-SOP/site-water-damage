@@ -12,6 +12,7 @@ lng: -102.9400
 zipSample: ["58852"]
 zipCodes: ["58852"]
 localPaths: ["Williams County / ZIP 58852 sector", "Williams County / elevation 2238 ft band", "Williams County / primary ZIP 58852", "Williams County / coords 48.3900, -102.9400"]
+zillowHomeValueUsd: 251623
 ---
 
 **Engineering Notice for Tioga:** structural drying capacity optimized for 2238ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Williams County. Relative Humidity Threshold: 79%. Sensor sync: Active.

@@ -11,6 +11,7 @@ lng: -90.2800
 zipSample: ["63125"]
 zipCodes: ["63125"]
 localPaths: ["St. Louis County / primary ZIP 63125", "St. Louis County / elevation 492 ft band", "St. Louis County / coords 38.5300, -90.2800", "St. Louis County / ZIP 63125 sector"]
+zillowHomeValueUsd: 203119
 ---
 
 **Engineering Notice for Lemay:** Structural loading calculated based on 492 ft terrain assessment. Regional dispatch grid: St. Louis County.

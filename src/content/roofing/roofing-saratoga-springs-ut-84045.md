@@ -11,6 +11,7 @@ lng: -111.9200
 zipSample: ["84045"]
 zipCodes: ["84045"]
 localPaths: ["Utah County / elevation 4557 ft band", "Utah County / ZIP 84045 sector", "Utah County / coords 40.3400, -111.9200", "Utah County / primary ZIP 84045"]
+zillowHomeValueUsd: 555130
 ---
 
 **Engineering Notice for Saratoga Springs:** Structural loading calculated based on 4557 ft terrain assessment. Regional dispatch grid: Utah County.

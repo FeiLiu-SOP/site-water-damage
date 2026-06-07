@@ -11,6 +11,7 @@ lng: -82.4200
 zipSample: ["33570", "33575", "33571"]
 zipCodes: ["33570", "33575", "33571"]
 localPaths: ["Hillsborough County / elevation 23 ft band", "Hillsborough County / ZIP 33571 sector", "Hillsborough County / coords 27.7100, -82.4200", "Hillsborough County / ZIP 33575 sector", "Hillsborough County / ZIP 33570 sector"]
+zillowHomeValueUsd: 314437
 ---
 
 **Engineering Notice for Ruskin:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Hillsborough County.

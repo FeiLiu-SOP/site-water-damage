@@ -12,6 +12,7 @@ lng: -75.2000
 zipSample: ["08086"]
 zipCodes: ["08086"]
 localPaths: ["Gloucester County / elevation 39 ft band", "Gloucester County / ZIP 08086 sector", "Gloucester County / primary ZIP 08086", "Gloucester County / coords 39.8500, -75.2000"]
+zillowHomeValueUsd: 358732
 ---
 
 **Engineering Notice for Thorofare:** Site context locked to Gloucester County. Elevation: 39 ft AMSL. Coordinates: 39.8500, -75.2000. Exterior Envelope integrity verification recorded.

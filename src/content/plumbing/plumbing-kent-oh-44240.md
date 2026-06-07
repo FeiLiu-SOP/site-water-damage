@@ -12,6 +12,7 @@ lng: -81.3600
 zipSample: ["44242", "44243", "44240"]
 zipCodes: ["44240", "44243", "44242"]
 localPaths: ["Portage County / coords 41.1500, -81.3600", "Portage County / ZIP 44240 sector", "Portage County / ZIP 44243 sector", "Portage County / elevation 1060 ft band", "Portage County / primary ZIP 44240"]
+zillowHomeValueUsd: 243694
 ---
 
 **Engineering Notice for Kent:** Structural loading calculated based on 1060 ft terrain assessment. Regional dispatch grid: Portage County.

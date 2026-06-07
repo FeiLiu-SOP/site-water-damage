@@ -12,6 +12,7 @@ lng: -119.6700
 zipSample: ["89441", "89436"]
 zipCodes: ["89441", "89436"]
 localPaths: ["Washoe County / ZIP 89436 sector", "Washoe County / primary ZIP 89441", "Washoe County / ZIP 89441 sector", "Washoe County / elevation 4738 ft band", "Washoe County / coords 39.6600, -119.6700"]
+zillowHomeValueUsd: 696199
 ---
 
 **Engineering Notice for Spanish Springs:** Structural loading calculated based on 4738 ft terrain assessment. Regional dispatch grid: Washoe County.

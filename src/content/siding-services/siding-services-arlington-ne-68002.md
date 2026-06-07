@@ -12,6 +12,7 @@ lng: -96.3600
 zipSample: ["68002"]
 zipCodes: ["68002"]
 localPaths: ["Washington County / elevation 1220 ft band", "Washington County / coords 41.4500, -96.3600", "Washington County / ZIP 68002 sector", "Washington County / primary ZIP 68002"]
+zillowHomeValueUsd: 372634
 ---
 
 **Engineering Notice for Arlington:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 0.96. Elevation: 1220 ft AMSL. Regional dispatch grid: Washington County.

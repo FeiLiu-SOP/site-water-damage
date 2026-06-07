@@ -12,6 +12,7 @@ lng: -77.6700
 zipSample: ["27823"]
 zipCodes: ["27823"]
 localPaths: ["Halifax County / ZIP 27823 sector", "Halifax County / primary ZIP 27823", "Halifax County / coords 36.1800, -77.6700", "Halifax County / elevation 121 ft band"]
+zillowHomeValueUsd: 74875
 ---
 
 **Engineering Notice for Enfield:** System optimized for 155 mg/L hard water scaling factors in Enfield. Regional dispatch grid: Halifax County.

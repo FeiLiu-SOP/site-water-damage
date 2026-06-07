@@ -12,6 +12,7 @@ lng: -122.6800
 zipSample: ["97068", "97034"]
 zipCodes: ["97034", "97068"]
 localPaths: ["Clackamas County / coords 45.3800, -122.6800", "Clackamas County / elevation 253 ft band", "Clackamas County / ZIP 97034 sector", "Clackamas County / ZIP 97068 sector", "Clackamas County / primary ZIP 97068"]
+zillowHomeValueUsd: 773652
 ---
 
 **Engineering Notice for Stafford:** structural drying capacity optimized for 253ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clackamas County. Relative Humidity Threshold: 79%. Sensor sync: Active.

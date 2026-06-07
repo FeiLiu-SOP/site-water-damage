@@ -12,6 +12,7 @@ lng: -75.9300
 zipSample: ["19352"]
 zipCodes: ["19352"]
 localPaths: ["Chester County / primary ZIP 19352", "Chester County / ZIP 19352 sector", "Chester County / elevation 538 ft band", "Chester County / coords 39.8100, -75.9300"]
+zillowHomeValueUsd: 569749
 ---
 
 **Engineering Notice for Lincoln University:** System optimized for 144 mg/L hard water scaling factors in Lincoln University. Regional dispatch grid: Chester County.

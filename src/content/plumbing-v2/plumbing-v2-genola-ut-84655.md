@@ -12,6 +12,7 @@ lng: -111.8500
 zipSample: ["84655"]
 zipCodes: ["84655"]
 localPaths: ["Utah County / elevation 4528 ft band", "Utah County / coords 40.0100, -111.8500", "Utah County / primary ZIP 84655", "Utah County / ZIP 84655 sector"]
+zillowHomeValueUsd: 500642
 ---
 
 **Engineering Notice for Genola:** System optimized for 172 mg/L hard water scaling factors in Genola. Regional dispatch grid: Utah County.

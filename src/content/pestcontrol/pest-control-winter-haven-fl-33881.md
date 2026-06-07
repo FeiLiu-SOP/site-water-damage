@@ -11,6 +11,7 @@ lng: -81.7000
 zipSample: ["33883", "33884", "33888", "33880", "33885"]
 zipCodes: ["33883", "33884", "33888", "33885", "33881", "33880"]
 localPaths: ["Polk County / ZIP 33888 sector", "Polk County / ZIP 33884 sector", "Polk County / ZIP 33885 sector", "Polk County / ZIP 33883 sector", "Polk County / elevation 157 ft band"]
+zillowHomeValueUsd: 264768
 ---
 
 **Engineering Notice for Winter Haven:** Structural loading calculated based on 157 ft terrain assessment. Regional dispatch grid: Polk County.

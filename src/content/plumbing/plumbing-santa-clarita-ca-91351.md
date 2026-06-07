@@ -12,6 +12,7 @@ lng: -118.5000
 zipSample: ["91355", "91322", "91387", "91321", "91385"]
 zipCodes: ["91321", "91385", "91355", "91322", "91350", "91387", "91386", "91351", "91382", "91354"]
 localPaths: ["Los Angeles County / coords 34.4200, -118.5000", "Los Angeles County / primary ZIP 91351", "Los Angeles County / ZIP 91355 sector", "Los Angeles County / elevation 1378 ft band", "Los Angeles County / ZIP 91385 sector"]
+zillowHomeValueUsd: 723478
 ---
 
 **Engineering Notice for Santa Clarita:** Structural loading calculated based on 1378 ft terrain assessment. Regional dispatch grid: Los Angeles County.

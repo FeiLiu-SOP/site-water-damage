@@ -11,6 +11,7 @@ lng: -77.3500
 zipSample: ["22096", "20194", "20191", "20192", "20195"]
 zipCodes: ["22096", "20191", "20192", "20195", "20194", "20190"]
 localPaths: ["Fairfax County / primary ZIP 20194", "Fairfax County / ZIP 20192 sector", "Fairfax County / elevation 384 ft band", "Fairfax County / ZIP 22096 sector", "Fairfax County / ZIP 20195 sector"]
+zillowHomeValueUsd: 778978
 ---
 
 **Engineering Notice for Reston:** Structural loading calculated based on 384 ft terrain assessment. Regional dispatch grid: Fairfax County.

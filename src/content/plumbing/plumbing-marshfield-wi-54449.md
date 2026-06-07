@@ -12,6 +12,7 @@ lng: -90.1700
 zipSample: ["54449"]
 zipCodes: ["54449"]
 localPaths: ["Wood County / coords 44.6600, -90.1700", "Wood County / primary ZIP 54449", "Wood County / ZIP 54449 sector", "Wood County / elevation 1289 ft band"]
+zillowHomeValueUsd: 250530
 ---
 
 **Engineering Notice for Marshfield:** Structural loading calculated based on 1289 ft terrain assessment. Regional dispatch grid: Wood County.

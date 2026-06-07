@@ -11,6 +11,7 @@ lng: -88.1000
 zipSample: ["60446"]
 zipCodes: ["60446"]
 localPaths: ["Will County / elevation 682 ft band", "Will County / ZIP 60446 sector", "Will County / primary ZIP 60446", "Will County / coords 41.6300, -88.1000"]
+zillowHomeValueUsd: 313705
 ---
 
 **Engineering Notice for Romeoville:** Structural loading calculated based on 682 ft terrain assessment. Regional dispatch grid: Will County.

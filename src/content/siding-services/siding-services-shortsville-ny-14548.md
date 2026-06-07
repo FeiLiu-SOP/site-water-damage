@@ -12,6 +12,7 @@ lng: -77.2200
 zipSample: ["14548"]
 zipCodes: ["14548"]
 localPaths: ["Ontario County / coords 42.9600, -77.2200", "Ontario County / elevation 633 ft band", "Ontario County / primary ZIP 14548", "Ontario County / ZIP 14548 sector"]
+zillowHomeValueUsd: 244044
 ---
 
 **Engineering Notice for Shortsville:** Envelope check: Vinyl Panels assigned to wind-load band B with stress factor 0.96. Elevation: 633 ft AMSL. Regional dispatch grid: Ontario County.

@@ -12,6 +12,8 @@ lng: -80.4400
 zipSample: ["32958", "32970", "32967"]
 zipCodes: ["32970", "32967", "32958"]
 localPaths: ["Indian River County / ZIP 32967 sector", "Indian River County / coords 27.7500, -80.4400", "Indian River County / primary ZIP 32970", "Indian River County / ZIP 32970 sector", "Indian River County / elevation 52 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 435821
 ---
 
 **Engineering Notice for Wabasso:** System optimized for 166 mg/L hard water scaling factors in Wabasso. Regional dispatch grid: Indian River County.

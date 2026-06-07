@@ -12,6 +12,8 @@ lng: -107.4600
 zipSample: ["59022"]
 zipCodes: ["59022"]
 localPaths: ["Big Horn County / primary ZIP 59022", "Big Horn County / ZIP 59022 sector", "Big Horn County / elevation 3041 ft band", "Big Horn County / coords 45.6000, -107.4600"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 427765
 ---
 
 **Engineering Notice for Crow Agency:** Structural integrity verification: Vinyl Panels calibrated for 95 mph localized wind load factor. Elevation: 3041 ft AMSL. Coordinates: 45.6000, -107.4600. Regional dispatch grid: Big Horn County.

@@ -11,6 +11,7 @@ lng: -106.6800
 zipSample: ["87195", "87105"]
 zipCodes: ["87105", "87195"]
 localPaths: ["Bernalillo County / ZIP 87195 sector", "Bernalillo County / coords 35.0100, -106.6800", "Bernalillo County / ZIP 87105 sector", "Bernalillo County / primary ZIP 87105", "Bernalillo County / elevation 4944 ft band"]
+zillowHomeValueUsd: 279752
 ---
 
 **Engineering Notice for South Valley:** Structural loading calculated based on 4944 ft terrain assessment. Regional dispatch grid: Bernalillo County.

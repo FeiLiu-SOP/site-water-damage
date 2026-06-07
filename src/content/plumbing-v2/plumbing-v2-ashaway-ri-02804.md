@@ -12,6 +12,7 @@ lng: -71.7900
 zipSample: ["02804"]
 zipCodes: ["02804"]
 localPaths: ["Washington County / coords 41.4300, -71.7900", "Washington County / elevation 105 ft band", "Washington County / ZIP 02804 sector", "Washington County / primary ZIP 02804"]
+zillowHomeValueUsd: 451944
 ---
 
 **Engineering Notice for Ashaway:** System optimized for 154 mg/L hard water scaling factors in Ashaway. Regional dispatch grid: Washington County.

@@ -12,6 +12,7 @@ lng: -117.1600
 zipSample: ["92585"]
 zipCodes: ["92585"]
 localPaths: ["Riverside County / coords 33.7600, -117.1600", "Riverside County / ZIP 92585 sector", "Riverside County / elevation 1558 ft band", "Riverside County / primary ZIP 92585"]
+zillowHomeValueUsd: 598635
 ---
 
 **Engineering Notice for Romoland:** Envelope check: Surface Sheathing assigned to wind-load band C with stress factor 0.90. Regional dispatch grid: Riverside County.

@@ -12,6 +12,7 @@ lng: -74.9300
 zipSample: ["13326"]
 zipCodes: ["13326"]
 localPaths: ["Otsego County / ZIP 13326 sector", "Otsego County / elevation 1270 ft band", "Otsego County / coords 42.7000, -74.9300", "Otsego County / primary ZIP 13326"]
+zillowHomeValueUsd: 382320
 ---
 
 **Engineering Notice for Cooperstown:** System optimized for 127 mg/L hard water scaling factors in Cooperstown. Regional dispatch grid: Otsego County.

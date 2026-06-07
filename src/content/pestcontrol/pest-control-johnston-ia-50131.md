@@ -11,6 +11,7 @@ lng: -93.7200
 zipSample: ["50131"]
 zipCodes: ["50131"]
 localPaths: ["Polk County / coords 41.6900, -93.7200", "Polk County / ZIP 50131 sector", "Polk County / elevation 820 ft band", "Polk County / primary ZIP 50131"]
+zillowHomeValueUsd: 395640
 ---
 
 **Engineering Notice for Johnston:** Structural loading calculated based on 820 ft terrain assessment. Regional dispatch grid: Polk County.

@@ -12,6 +12,7 @@ lng: -75.2400
 zipSample: ["08056"]
 zipCodes: ["08056"]
 localPaths: ["Gloucester County / coords 39.7900, -75.2400", "Gloucester County / elevation 56 ft band", "Gloucester County / ZIP 08056 sector", "Gloucester County / primary ZIP 08056"]
+zillowHomeValueUsd: 602582
 ---
 
 **Engineering Notice for Mickleton:** structural drying capacity optimized for 56ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gloucester County. Relative Humidity Threshold: 67%. Sensor sync: Active.

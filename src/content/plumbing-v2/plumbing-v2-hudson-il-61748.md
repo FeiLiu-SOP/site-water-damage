@@ -12,6 +12,7 @@ lng: -88.9900
 zipSample: ["61748"]
 zipCodes: ["61748"]
 localPaths: ["McLean County / primary ZIP 61748", "McLean County / elevation 774 ft band", "McLean County / ZIP 61748 sector", "McLean County / coords 40.6100, -88.9900"]
+zillowHomeValueUsd: 301537
 ---
 
 **Engineering Notice for Hudson:** System optimized for 164 mg/L hard water scaling factors in Hudson. Regional dispatch grid: McLean County.

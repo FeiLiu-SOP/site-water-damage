@@ -12,6 +12,8 @@ lng: -78.4700
 zipSample: ["23943", "23901"]
 zipCodes: ["23901", "23943"]
 localPaths: ["Prince Edward County / primary ZIP 23943", "Prince Edward County / ZIP 23943 sector", "Prince Edward County / coords 37.2400, -78.4700", "Prince Edward County / elevation 535 ft band", "Prince Edward County / ZIP 23901 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 387408
 ---
 
 **Engineering Notice for Hampden-Sydney:** Structural integrity verification: Vinyl Panels calibrated for 110 mph localized wind load factor. Coordinates: 37.2400, -78.4700. Regional dispatch grid: Prince Edward County.

@@ -12,6 +12,7 @@ lng: -85.2600
 zipSample: ["49720"]
 zipCodes: ["49720"]
 localPaths: ["Charlevoix County / ZIP 49720 sector", "Charlevoix County / primary ZIP 49720", "Charlevoix County / coords 45.3100, -85.2600", "Charlevoix County / elevation 627 ft band"]
+zillowHomeValueUsd: 435411
 ---
 
 **Engineering Notice for Charlevoix:** System optimized for 169 mg/L hard water scaling factors in Charlevoix. Regional dispatch grid: Charlevoix County.

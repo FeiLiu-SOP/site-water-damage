@@ -12,6 +12,7 @@ lng: -84.3500
 zipSample: ["45359"]
 zipCodes: ["45359"]
 localPaths: ["Miami County / coords 40.0500, -84.3500", "Miami County / primary ZIP 45359", "Miami County / ZIP 45359 sector", "Miami County / elevation 928 ft band"]
+zillowHomeValueUsd: 242317
 ---
 
 **Engineering Notice for Pleasant Hill:** Site context locked to Miami County. Elevation: 928 ft AMSL. Exterior Cladding integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -90.3000
 zipSample: ["39170"]
 zipCodes: ["39170"]
 localPaths: ["Hinds County / ZIP 39170 sector", "Hinds County / primary ZIP 39170", "Hinds County / elevation 328 ft band", "Hinds County / coords 32.1000, -90.3000"]
+zillowHomeValueUsd: 267906
 ---
 
 **Engineering Notice for Terry:** Facade Renewal was validated under stress factor 0.88; target tolerance set near 103 mph. Coordinates: 32.1000, -90.3000. Grid anchor: Hinds County.

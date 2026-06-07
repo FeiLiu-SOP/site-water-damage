@@ -12,6 +12,7 @@ lng: -85.3800
 zipSample: ["46783"]
 zipCodes: ["46783"]
 localPaths: ["Huntington County / coords 40.9600, -85.3800", "Huntington County / primary ZIP 46783", "Huntington County / elevation 787 ft band", "Huntington County / ZIP 46783 sector"]
+zillowHomeValueUsd: 358068
 ---
 
 **Engineering Notice for Roanoke:** Cladding verification uses 108 mph routing baseline; lateral pressure note: 14.2 psf. Coordinates: 40.9600, -85.3800. Grid: Huntington County.

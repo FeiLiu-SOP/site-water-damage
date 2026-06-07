@@ -12,6 +12,7 @@ lng: -70.7500
 zipSample: ["02576", "02571"]
 zipCodes: ["02571", "02576"]
 localPaths: ["Plymouth County / primary ZIP 02576", "Plymouth County / coords 41.7900, -70.7500", "Plymouth County / ZIP 02571 sector", "Plymouth County / elevation 72 ft band", "Plymouth County / ZIP 02576 sector"]
+zillowHomeValueUsd: 486689
 ---
 
 **Engineering Notice for West Wareham:** Envelope check: Wall Restoration assigned to wind-load band B with stress factor 0.81. Regional dispatch grid: Plymouth County.

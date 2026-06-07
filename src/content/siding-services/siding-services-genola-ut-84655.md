@@ -12,6 +12,7 @@ lng: -111.8500
 zipSample: ["84655"]
 zipCodes: ["84655"]
 localPaths: ["Utah County / ZIP 84655 sector", "Utah County / primary ZIP 84655", "Utah County / elevation 4528 ft band", "Utah County / coords 40.0100, -111.8500"]
+zillowHomeValueUsd: 500648
 ---
 
 **Engineering Notice for Genola:** Envelope check: Exterior Cladding assigned to wind-load band C with stress factor 1.04. Elevation: 4528 ft AMSL. Regional dispatch grid: Utah County.

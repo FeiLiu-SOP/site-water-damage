@@ -12,6 +12,7 @@ lng: -120.8400
 zipSample: ["95634"]
 zipCodes: ["95634"]
 localPaths: ["El Dorado County / primary ZIP 95634", "El Dorado County / coords 38.9100, -120.8400", "El Dorado County / elevation 2720 ft band", "El Dorado County / ZIP 95634 sector"]
+zillowHomeValueUsd: 417686
 ---
 
 **Engineering Notice for Georgetown:** System optimized for 136 mg/L hard water scaling factors in Georgetown. Regional dispatch grid: El Dorado County.

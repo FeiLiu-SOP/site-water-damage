@@ -11,6 +11,7 @@ lng: -99.4900
 zipSample: ["78043", "78042", "78045", "78040", "78041"]
 zipCodes: ["78046", "78041", "78040", "78043", "78045", "78042"]
 localPaths: ["Webb County / ZIP 78043 sector", "Webb County / primary ZIP 78046", "Webb County / ZIP 78041 sector", "Webb County / ZIP 78042 sector", "Webb County / ZIP 78040 sector"]
+zillowHomeValueUsd: 192649
 ---
 
 **Engineering Notice for Laredo:** Structural loading calculated based on 512 ft terrain assessment. Regional dispatch grid: Webb County.

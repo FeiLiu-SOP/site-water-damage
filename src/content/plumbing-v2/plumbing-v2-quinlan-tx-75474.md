@@ -12,6 +12,7 @@ lng: -96.1300
 zipSample: ["75474"]
 zipCodes: ["75474"]
 localPaths: ["Hunt County / primary ZIP 75474", "Hunt County / coords 32.9100, -96.1300", "Hunt County / elevation 535 ft band", "Hunt County / ZIP 75474 sector"]
+zillowHomeValueUsd: 243032
 ---
 
 **Engineering Notice for Quinlan:** System optimized for 129 mg/L hard water scaling factors in Quinlan. Regional dispatch grid: Hunt County.

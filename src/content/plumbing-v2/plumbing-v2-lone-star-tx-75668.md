@@ -12,6 +12,7 @@ lng: -94.7100
 zipSample: ["75636", "75668"]
 zipCodes: ["75668", "75636"]
 localPaths: ["Morris County / coords 32.9400, -94.7100", "Morris County / elevation 331 ft band", "Morris County / ZIP 75636 sector", "Morris County / ZIP 75668 sector", "Morris County / primary ZIP 75668"]
+zillowHomeValueUsd: 102770
 ---
 
 **Engineering Notice for Lone Star:** System optimized for 176 mg/L hard water scaling factors in Lone Star. Regional dispatch grid: Morris County.

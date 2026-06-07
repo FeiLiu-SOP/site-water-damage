@@ -12,6 +12,7 @@ lng: -84.2200
 zipSample: ["49256"]
 zipCodes: ["49256"]
 localPaths: ["Lenawee County / elevation 778 ft band", "Lenawee County / coords 41.7200, -84.2200", "Lenawee County / ZIP 49256 sector", "Lenawee County / primary ZIP 49256"]
+zillowHomeValueUsd: 172279
 ---
 
 **Engineering Notice for Morenci:** System optimized for 172 mg/L hard water scaling factors in Morenci. Regional dispatch grid: Lenawee County.

@@ -11,6 +11,7 @@ lng: -85.8900
 zipSample: ["47274"]
 zipCodes: ["47274"]
 localPaths: ["Jackson County / coords 38.9500, -85.8900", "Jackson County / ZIP 47274 sector", "Jackson County / primary ZIP 47274", "Jackson County / elevation 584 ft band"]
+zillowHomeValueUsd: 232267
 ---
 
 **Engineering Notice for Seymour:** Structural loading calculated based on 584 ft terrain assessment. Regional dispatch grid: Jackson County.

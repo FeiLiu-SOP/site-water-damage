@@ -12,6 +12,7 @@ lng: -82.0200
 zipSample: ["44676"]
 zipCodes: ["44676"]
 localPaths: ["Wayne County / ZIP 44676 sector", "Wayne County / coords 40.6800, -82.0200", "Wayne County / primary ZIP 44676", "Wayne County / elevation 899 ft band"]
+zillowHomeValueUsd: 247551
 ---
 
 **Engineering Notice for Shreve:** structural drying capacity optimized for 899ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wayne County. Relative Humidity Threshold: 71%. Sensor sync: Active.

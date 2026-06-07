@@ -12,6 +12,7 @@ lng: -97.0200
 zipSample: ["67431"]
 zipCodes: ["67431"]
 localPaths: ["Dickinson County / coords 38.9700, -97.0200", "Dickinson County / primary ZIP 67431", "Dickinson County / elevation 1135 ft band", "Dickinson County / ZIP 67431 sector"]
+zillowHomeValueUsd: 242897
 ---
 
 **Engineering Notice for Chapman:** Surface Sheathing was validated under stress factor 0.81; target tolerance set near 94 mph. Grid anchor: Dickinson County.

@@ -12,6 +12,7 @@ lng: -122.6600
 zipSample: ["97219"]
 zipCodes: ["97219"]
 localPaths: ["Multnomah County / elevation 440 ft band", "Multnomah County / ZIP 97219 sector", "Multnomah County / coords 45.4400, -122.6600", "Multnomah County / primary ZIP 97219"]
+zillowHomeValueUsd: 638410
 ---
 
 **Engineering Notice for Dunthorpe:** Envelope check: Cladding Retrofit assigned to wind-load band B with stress factor 0.77. Elevation: 440 ft AMSL. Regional dispatch grid: Multnomah County.

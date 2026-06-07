@@ -12,6 +12,7 @@ lng: -88.8500
 zipSample: ["39325"]
 zipCodes: ["39325"]
 localPaths: ["Lauderdale County / ZIP 39325 sector", "Lauderdale County / coords 32.4900, -88.8500", "Lauderdale County / primary ZIP 39325", "Lauderdale County / elevation 433 ft band"]
+zillowHomeValueUsd: 208843
 ---
 
 **Engineering Notice for Collinsville:** structural drying capacity optimized for 433ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lauderdale County. Relative Humidity Threshold: 66%. Sensor sync: Active.

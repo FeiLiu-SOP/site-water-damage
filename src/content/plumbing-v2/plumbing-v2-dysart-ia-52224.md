@@ -12,6 +12,7 @@ lng: -92.3100
 zipSample: ["52224"]
 zipCodes: ["52224"]
 localPaths: ["Tama County / elevation 965 ft band", "Tama County / primary ZIP 52224", "Tama County / coords 42.1700, -92.3100", "Tama County / ZIP 52224 sector"]
+zillowHomeValueUsd: 248264
 ---
 
 **Engineering Notice for Dysart:** System optimized for 137 mg/L hard water scaling factors in Dysart. Regional dispatch grid: Tama County.

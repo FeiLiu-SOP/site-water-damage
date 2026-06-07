@@ -12,6 +12,7 @@ lng: -82.4300
 zipSample: ["34432", "34431"]
 zipCodes: ["34431", "34432"]
 localPaths: ["Marion County / ZIP 34431 sector", "Marion County / ZIP 34432 sector", "Marion County / coords 29.0600, -82.4300", "Marion County / elevation 49 ft band", "Marion County / primary ZIP 34432"]
+zillowHomeValueUsd: 303061
 ---
 
 **Engineering Notice for Dunnellon:** Site context locked to Marion County. Elevation: 49 ft AMSL. Surface Sheathing integrity verification recorded.

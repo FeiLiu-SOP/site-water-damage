@@ -12,6 +12,7 @@ lng: -83.1800
 zipSample: ["44883"]
 zipCodes: ["44883"]
 localPaths: ["Seneca County / ZIP 44883 sector", "Seneca County / primary ZIP 44883", "Seneca County / elevation 738 ft band", "Seneca County / coords 41.1200, -83.1800"]
+zillowHomeValueUsd: 186278
 ---
 
 **Engineering Notice for Tiffin:** Structural loading calculated based on 738 ft terrain assessment. Regional dispatch grid: Seneca County.

@@ -12,6 +12,7 @@ lng: -124.1000
 zipSample: ["95570"]
 zipCodes: ["95570"]
 localPaths: ["Humboldt County / ZIP 95570 sector", "Humboldt County / elevation 505 ft band", "Humboldt County / primary ZIP 95570", "Humboldt County / coords 41.0400, -124.1000"]
+zillowHomeValueUsd: 573492
 ---
 
 **Engineering Notice for Westhaven-Moonstone:** System optimized for 174 mg/L hard water scaling factors in Westhaven-Moonstone. Regional dispatch grid: Humboldt County.

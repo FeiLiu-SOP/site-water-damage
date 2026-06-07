@@ -12,6 +12,7 @@ lng: -74.3000
 zipSample: ["12446"]
 zipCodes: ["12446"]
 localPaths: ["Ulster County / ZIP 12446 sector", "Ulster County / elevation 276 ft band", "Ulster County / primary ZIP 12446", "Ulster County / coords 41.7800, -74.3000"]
+zillowHomeValueUsd: 395807
 ---
 
 **Engineering Notice for Kerhonkson:** structural drying capacity optimized for 276ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ulster County. Relative Humidity Threshold: 85%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -71.1200
 zipSample: ["03847", "03860"]
 zipCodes: ["03860", "03847"]
 localPaths: ["Carroll County / elevation 591 ft band", "Carroll County / ZIP 03860 sector", "Carroll County / coords 44.0400, -71.1200", "Carroll County / ZIP 03847 sector", "Carroll County / primary ZIP 03860"]
+zillowHomeValueUsd: 486686
 ---
 
 **Engineering Notice for North Conway:** System optimized for 175 mg/L hard water scaling factors in North Conway. Regional dispatch grid: Carroll County.

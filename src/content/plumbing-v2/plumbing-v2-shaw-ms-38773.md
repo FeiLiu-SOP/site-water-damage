@@ -12,6 +12,7 @@ lng: -90.7700
 zipSample: ["38773"]
 zipCodes: ["38773"]
 localPaths: ["Bolivar County / elevation 148 ft band", "Bolivar County / primary ZIP 38773", "Bolivar County / ZIP 38773 sector", "Bolivar County / coords 33.6000, -90.7700"]
+zillowHomeValueUsd: 102186
 ---
 
 **Engineering Notice for Shaw:** System optimized for 176 mg/L hard water scaling factors in Shaw. Regional dispatch grid: Bolivar County.

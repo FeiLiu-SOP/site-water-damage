@@ -12,6 +12,7 @@ lng: -75.0600
 zipSample: ["08328"]
 zipCodes: ["08328"]
 localPaths: ["Gloucester County / primary ZIP 08328", "Gloucester County / coords 39.5800, -75.0600", "Gloucester County / ZIP 08328 sector", "Gloucester County / elevation 82 ft band"]
+zillowHomeValueUsd: 315141
 ---
 
 **Engineering Notice for Malaga:** System optimized for 159 mg/L hard water scaling factors in Malaga. Regional dispatch grid: Gloucester County.

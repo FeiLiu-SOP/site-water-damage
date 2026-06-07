@@ -12,6 +12,7 @@ lng: -89.8600
 zipSample: ["39063"]
 zipCodes: ["39063"]
 localPaths: ["Holmes County / primary ZIP 39063", "Holmes County / ZIP 39063 sector", "Holmes County / coords 33.0800, -89.8600", "Holmes County / elevation 276 ft band"]
+zillowHomeValueUsd: 60717
 ---
 
 **Engineering Notice for Durant:** structural drying capacity optimized for 276ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Holmes County. Relative Humidity Threshold: 68%. Sensor sync: Active.

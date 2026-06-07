@@ -12,6 +12,7 @@ lng: -92.4600
 zipSample: ["50675"]
 zipCodes: ["50675"]
 localPaths: ["Tama County / ZIP 50675 sector", "Tama County / primary ZIP 50675", "Tama County / elevation 965 ft band", "Tama County / coords 42.1900, -92.4600"]
+zillowHomeValueUsd: 175940
 ---
 
 **Engineering Notice for Traer:** structural drying capacity optimized for 965ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tama County. Relative Humidity Threshold: 78%. Sensor sync: Active.

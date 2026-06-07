@@ -12,6 +12,7 @@ lng: -114.2200
 zipSample: ["85359", "85346"]
 zipCodes: ["85346", "85359"]
 localPaths: ["La Paz County / primary ZIP 85346", "La Paz County / elevation 876 ft band", "La Paz County / coords 33.6700, -114.2200", "La Paz County / ZIP 85346 sector", "La Paz County / ZIP 85359 sector"]
+zillowHomeValueUsd: 199035
 ---
 
 **Engineering Notice for Quartzsite:** Structural integrity verification: Panel Replacement calibrated for 95 mph localized wind load factor. Coordinates: 33.6700, -114.2200. Regional dispatch grid: La Paz County.

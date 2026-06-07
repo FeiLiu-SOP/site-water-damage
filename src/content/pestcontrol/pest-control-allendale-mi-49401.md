@@ -11,6 +11,7 @@ lng: -85.9500
 zipSample: ["49401"]
 zipCodes: ["49401"]
 localPaths: ["Ottawa County / elevation 610 ft band", "Ottawa County / coords 42.9800, -85.9500", "Ottawa County / ZIP 49401 sector", "Ottawa County / primary ZIP 49401"]
+zillowHomeValueUsd: 402579
 ---
 
 **Engineering Notice for Allendale:** Structural loading calculated based on 610 ft terrain assessment. Regional dispatch grid: Ottawa County.

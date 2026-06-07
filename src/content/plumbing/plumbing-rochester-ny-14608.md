@@ -12,6 +12,7 @@ lng: -77.6200
 zipSample: ["14612", "14615", "14605", "14647", "14608"]
 zipCodes: ["14613", "14644", "14602", "14615", "14651", "14611", "14643", "14603", "14621", "14646", "14606", "14639"]
 localPaths: ["Monroe County / ZIP 14615 sector", "Monroe County / ZIP 14605 sector", "Monroe County / coords 43.1700, -77.6200", "Monroe County / ZIP 14612 sector", "Monroe County / ZIP 14608 sector"]
+zillowHomeValueUsd: 120619
 ---
 
 **Engineering Notice for Rochester:** Structural loading calculated based on 505 ft terrain assessment. Regional dispatch grid: Monroe County.

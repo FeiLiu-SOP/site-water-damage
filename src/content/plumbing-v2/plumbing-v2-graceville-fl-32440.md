@@ -12,6 +12,7 @@ lng: -85.5100
 zipSample: ["32440"]
 zipCodes: ["32440"]
 localPaths: ["Jackson County / ZIP 32440 sector", "Jackson County / coords 30.9600, -85.5100", "Jackson County / primary ZIP 32440", "Jackson County / elevation 174 ft band"]
+zillowHomeValueUsd: 172401
 ---
 
 **Engineering Notice for Graceville:** System optimized for 159 mg/L hard water scaling factors in Graceville. Regional dispatch grid: Jackson County.

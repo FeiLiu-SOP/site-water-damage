@@ -12,6 +12,7 @@ lng: -75.3800
 zipSample: ["13480"]
 zipCodes: ["13480"]
 localPaths: ["Oneida County / coords 42.9300, -75.3800", "Oneida County / primary ZIP 13480", "Oneida County / ZIP 13480 sector", "Oneida County / elevation 1204 ft band"]
+zillowHomeValueUsd: 218463
 ---
 
 **Engineering Notice for Waterville:** structural drying capacity optimized for 1204ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Oneida County. Relative Humidity Threshold: 77%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -80.8800
 zipSample: ["25951"]
 zipCodes: ["25951"]
 localPaths: ["Summers County / elevation 1867 ft band", "Summers County / ZIP 25951 sector", "Summers County / coords 37.6700, -80.8800", "Summers County / primary ZIP 25951"]
+zillowHomeValueUsd: 134724
 ---
 
 **Engineering Notice for Hinton:** Structural integrity verification: Cladding Service calibrated for 102 mph localized wind load factor. Elevation: 1867 ft AMSL. Regional dispatch grid: Summers County.

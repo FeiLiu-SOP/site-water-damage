@@ -11,6 +11,7 @@ lng: -72.2500
 zipSample: ["03766", "03784", "03756"]
 zipCodes: ["03766", "03784", "03756"]
 localPaths: ["Grafton County / ZIP 03756 sector", "Grafton County / elevation 607 ft band", "Grafton County / ZIP 03784 sector", "Grafton County / primary ZIP 03784", "Grafton County / ZIP 03766 sector"]
+zillowHomeValueUsd: 477981
 ---
 
 **Engineering Notice for Lebanon:** Structural loading calculated based on 607 ft terrain assessment. Regional dispatch grid: Grafton County.

@@ -12,6 +12,7 @@ lng: -85.3200
 zipSample: ["46723"]
 zipCodes: ["46723"]
 localPaths: ["Whitley County / elevation 899 ft band", "Whitley County / ZIP 46723 sector", "Whitley County / coords 41.2300, -85.3200", "Whitley County / primary ZIP 46723"]
+zillowHomeValueUsd: 292610
 ---
 
 **Engineering Notice for Churubusco:** System optimized for 180 mg/L hard water scaling factors in Churubusco. Regional dispatch grid: Whitley County.

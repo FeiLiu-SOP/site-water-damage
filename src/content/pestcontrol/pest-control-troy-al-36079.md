@@ -11,6 +11,7 @@ lng: -85.9700
 zipSample: ["36081", "36082", "36079"]
 zipCodes: ["36081", "36079", "36082"]
 localPaths: ["Pike County / ZIP 36081 sector", "Pike County / ZIP 36079 sector", "Pike County / ZIP 36082 sector", "Pike County / coords 31.8000, -85.9700", "Pike County / primary ZIP 36079"]
+zillowHomeValueUsd: 206642
 ---
 
 **Engineering Notice for Troy:** Structural loading calculated based on 551 ft terrain assessment. Regional dispatch grid: Pike County.

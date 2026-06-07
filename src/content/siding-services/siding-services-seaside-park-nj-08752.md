@@ -12,6 +12,7 @@ lng: -74.0800
 zipSample: ["08752"]
 zipCodes: ["08752"]
 localPaths: ["Ocean County / primary ZIP 08752", "Ocean County / ZIP 08752 sector", "Ocean County / elevation 10 ft band", "Ocean County / coords 39.9300, -74.0800"]
+zillowHomeValueUsd: 845232
 ---
 
 **Engineering Notice for Seaside Park:** Wall Restoration was validated under stress factor 1.13; target tolerance set near 110 mph. Coordinates: 39.9300, -74.0800. Grid anchor: Ocean County.

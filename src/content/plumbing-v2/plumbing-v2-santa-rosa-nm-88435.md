@@ -12,6 +12,8 @@ lng: -104.6800
 zipSample: ["88435"]
 zipCodes: ["88435"]
 localPaths: ["Guadalupe County / primary ZIP 88435", "Guadalupe County / elevation 4567 ft band", "Guadalupe County / ZIP 88435 sector", "Guadalupe County / coords 34.9400, -104.6800"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 322729
 ---
 
 **Engineering Notice for Santa Rosa:** System optimized for 161 mg/L hard water scaling factors in Santa Rosa. Regional dispatch grid: Guadalupe County.

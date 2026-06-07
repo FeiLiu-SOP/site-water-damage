@@ -12,6 +12,7 @@ lng: -110.3000
 zipSample: ["82937"]
 zipCodes: ["82937"]
 localPaths: ["Uinta County / primary ZIP 82937", "Uinta County / ZIP 82937 sector", "Uinta County / elevation 6722 ft band", "Uinta County / coords 41.3300, -110.3000"]
+zillowHomeValueUsd: 308293
 ---
 
 **Engineering Notice for Lyman:** Structural integrity verification: Exterior Envelope calibrated for 94 mph localized wind load factor. Elevation: 6722 ft AMSL. Regional dispatch grid: Uinta County.

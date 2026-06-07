@@ -11,6 +11,7 @@ lng: -78.8700
 zipSample: ["14120"]
 zipCodes: ["14120"]
 localPaths: ["Niagara County / coords 43.0500, -78.8700", "Niagara County / ZIP 14120 sector", "Niagara County / primary ZIP 14120", "Niagara County / elevation 581 ft band"]
+zillowHomeValueUsd: 273966
 ---
 
 **Engineering Notice for North Tonawanda:** Structural loading calculated based on 581 ft terrain assessment. Regional dispatch grid: Niagara County.

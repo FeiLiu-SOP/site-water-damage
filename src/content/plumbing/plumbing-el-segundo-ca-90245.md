@@ -12,6 +12,7 @@ lng: -118.4000
 zipSample: ["90245"]
 zipCodes: ["90245"]
 localPaths: ["Los Angeles County / ZIP 90245 sector", "Los Angeles County / elevation 131 ft band", "Los Angeles County / coords 33.9200, -118.4000", "Los Angeles County / primary ZIP 90245"]
+zillowHomeValueUsd: 1757324
 ---
 
 **Engineering Notice for El Segundo:** Structural loading calculated based on 131 ft terrain assessment. Regional dispatch grid: Los Angeles County.

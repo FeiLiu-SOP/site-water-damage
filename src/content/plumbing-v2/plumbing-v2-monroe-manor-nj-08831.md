@@ -12,6 +12,7 @@ lng: -74.4700
 zipSample: ["08831"]
 zipCodes: ["08831"]
 localPaths: ["Middlesex County / coords 40.2600, -74.4700", "Middlesex County / ZIP 08831 sector", "Middlesex County / primary ZIP 08831", "Middlesex County / elevation 118 ft band"]
+zillowHomeValueUsd: 602345
 ---
 
 **Engineering Notice for Monroe Manor:** System optimized for 129 mg/L hard water scaling factors in Monroe Manor. Regional dispatch grid: Middlesex County.

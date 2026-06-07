@@ -12,6 +12,7 @@ lng: -122.5400
 zipSample: ["98249"]
 zipCodes: ["98249"]
 localPaths: ["Island County / elevation 0 ft band", "Island County / ZIP 98249 sector", "Island County / primary ZIP 98249", "Island County / coords 48.0200, -122.5400"]
+zillowHomeValueUsd: 741051
 ---
 
 **Engineering Notice for Freeland:** System optimized for 154 mg/L hard water scaling factors in Freeland. Regional dispatch grid: Island County.

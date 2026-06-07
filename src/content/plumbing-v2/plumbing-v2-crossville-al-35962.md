@@ -12,6 +12,7 @@ lng: -86.0000
 zipSample: ["35962"]
 zipCodes: ["35962"]
 localPaths: ["DeKalb County / primary ZIP 35962", "DeKalb County / ZIP 35962 sector", "DeKalb County / coords 34.2900, -86.0000", "DeKalb County / elevation 1135 ft band"]
+zillowHomeValueUsd: 193732
 ---
 
 **Engineering Notice for Crossville:** System optimized for 174 mg/L hard water scaling factors in Crossville. Regional dispatch grid: DeKalb County.

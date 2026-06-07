@@ -12,6 +12,7 @@ lng: -83.7900
 zipSample: ["37721", "37779"]
 zipCodes: ["37779", "37721"]
 localPaths: ["Union County / ZIP 37721 sector", "Union County / ZIP 37779 sector", "Union County / coords 36.1800, -83.7900", "Union County / primary ZIP 37779", "Union County / elevation 1132 ft band"]
+zillowHomeValueUsd: 240221
 ---
 
 **Engineering Notice for Plainview:** structural drying capacity optimized for 1132ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Union County. Relative Humidity Threshold: 84%. Sensor sync: Active.

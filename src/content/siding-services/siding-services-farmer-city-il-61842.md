@@ -12,6 +12,7 @@ lng: -88.6400
 zipSample: ["61842"]
 zipCodes: ["61842"]
 localPaths: ["De Witt County / coords 40.2500, -88.6400", "De Witt County / elevation 722 ft band", "De Witt County / ZIP 61842 sector", "De Witt County / primary ZIP 61842"]
+zillowHomeValueUsd: 166378
 ---
 
 **Engineering Notice for Farmer City:** Wall Restoration was validated under stress factor 0.78; target tolerance set near 98 mph. Grid anchor: De Witt County.

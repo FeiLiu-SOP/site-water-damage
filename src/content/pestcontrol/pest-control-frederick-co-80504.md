@@ -11,6 +11,7 @@ lng: -104.9700
 zipSample: ["80514", "80504", "80516", "80530"]
 zipCodes: ["80530", "80516", "80504", "80514"]
 localPaths: ["Weld County / coords 40.1100, -104.9700", "Weld County / ZIP 80516 sector", "Weld County / elevation 4928 ft band", "Weld County / primary ZIP 80504", "Weld County / ZIP 80530 sector"]
+zillowHomeValueUsd: 580995
 ---
 
 **Engineering Notice for Frederick:** Structural loading calculated based on 4928 ft terrain assessment. Regional dispatch grid: Weld County.

@@ -12,6 +12,7 @@ lng: -73.8100
 zipSample: ["12533"]
 zipCodes: ["12533"]
 localPaths: ["Dutchess County / coords 41.5800, -73.8100", "Dutchess County / primary ZIP 12533", "Dutchess County / ZIP 12533 sector", "Dutchess County / elevation 259 ft band"]
+zillowHomeValueUsd: 572130
 ---
 
 **Engineering Notice for Hopewell Junction:** Cladding verification uses 107 mph routing baseline; lateral pressure note: 14.0 psf. Elevation: 259 ft AMSL. Grid: Dutchess County.

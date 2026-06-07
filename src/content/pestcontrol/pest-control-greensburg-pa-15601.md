@@ -11,6 +11,7 @@ lng: -79.5400
 zipSample: ["15601", "15606"]
 zipCodes: ["15601", "15606"]
 localPaths: ["Westmoreland County / ZIP 15606 sector", "Westmoreland County / ZIP 15601 sector", "Westmoreland County / coords 40.3100, -79.5400", "Westmoreland County / primary ZIP 15601", "Westmoreland County / elevation 1152 ft band"]
+zillowHomeValueUsd: 239857
 ---
 
 **Engineering Notice for Greensburg:** Structural loading calculated based on 1152 ft terrain assessment. Regional dispatch grid: Westmoreland County.

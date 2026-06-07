@@ -12,6 +12,7 @@ lng: -90.2900
 zipSample: ["72461"]
 zipCodes: ["72461"]
 localPaths: ["Clay County / primary ZIP 72461", "Clay County / elevation 292 ft band", "Clay County / coords 36.2600, -90.2900", "Clay County / ZIP 72461 sector"]
+zillowHomeValueUsd: 126629
 ---
 
 **Engineering Notice for Rector:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 0.90. Elevation: 292 ft AMSL. Regional dispatch grid: Clay County.

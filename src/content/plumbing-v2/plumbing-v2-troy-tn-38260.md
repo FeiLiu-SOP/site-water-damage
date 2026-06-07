@@ -12,6 +12,7 @@ lng: -89.1600
 zipSample: ["38260"]
 zipCodes: ["38260"]
 localPaths: ["Obion County / coords 36.3400, -89.1600", "Obion County / elevation 351 ft band", "Obion County / primary ZIP 38260", "Obion County / ZIP 38260 sector"]
+zillowHomeValueUsd: 172841
 ---
 
 **Engineering Notice for Troy:** System optimized for 143 mg/L hard water scaling factors in Troy. Regional dispatch grid: Obion County.

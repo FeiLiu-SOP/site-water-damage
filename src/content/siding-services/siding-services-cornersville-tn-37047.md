@@ -12,6 +12,7 @@ lng: -86.8600
 zipSample: ["37047"]
 zipCodes: ["37047"]
 localPaths: ["Marshall County / coords 35.3600, -86.8600", "Marshall County / primary ZIP 37047", "Marshall County / ZIP 37047 sector", "Marshall County / elevation 1043 ft band"]
+zillowHomeValueUsd: 312107
 ---
 
 **Engineering Notice for Cornersville:** Exterior Cladding was validated under stress factor 1.21; target tolerance set near 102 mph. Grid anchor: Marshall County.

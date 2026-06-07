@@ -11,6 +11,7 @@ lng: -90.2200
 zipSample: ["62035"]
 zipCodes: ["62035"]
 localPaths: ["Madison County / elevation 587 ft band", "Madison County / ZIP 62035 sector", "Madison County / coords 38.9600, -90.2200", "Madison County / primary ZIP 62035"]
+zillowHomeValueUsd: 213371
 ---
 
 **Engineering Notice for Godfrey:** Structural loading calculated based on 587 ft terrain assessment. Regional dispatch grid: Madison County.

@@ -12,6 +12,7 @@ lng: -111.9800
 zipSample: ["84325"]
 zipCodes: ["84325"]
 localPaths: ["Cache County / elevation 4498 ft band", "Cache County / ZIP 84325 sector", "Cache County / coords 41.7100, -111.9800", "Cache County / primary ZIP 84325"]
+zillowHomeValueUsd: 659789
 ---
 
 **Engineering Notice for Mendon:** Exterior Envelope was validated under stress factor 1.11; target tolerance set near 109 mph. Coordinates: 41.7100, -111.9800. Grid anchor: Cache County.

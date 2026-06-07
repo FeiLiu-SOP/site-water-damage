@@ -12,6 +12,7 @@ lng: -84.5100
 zipSample: ["37755", "37756"]
 zipCodes: ["37755", "37756"]
 localPaths: ["Scott County / elevation 1404 ft band", "Scott County / primary ZIP 37756", "Scott County / coords 36.4100, -84.5100", "Scott County / ZIP 37755 sector", "Scott County / ZIP 37756 sector"]
+zillowHomeValueUsd: 160026
 ---
 
 **Engineering Notice for Huntsville:** System optimized for 166 mg/L hard water scaling factors in Huntsville. Regional dispatch grid: Scott County.

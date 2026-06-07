@@ -11,6 +11,7 @@ lng: -110.9700
 zipSample: ["85614", "85629"]
 zipCodes: ["85614", "85629"]
 localPaths: ["Pima County / elevation 2749 ft band", "Pima County / coords 31.9300, -110.9700", "Pima County / ZIP 85614 sector", "Pima County / ZIP 85629 sector", "Pima County / primary ZIP 85629"]
+zillowHomeValueUsd: 338572
 ---
 
 **Engineering Notice for Sahuarita:** Structural loading calculated based on 2749 ft terrain assessment. Regional dispatch grid: Pima County.

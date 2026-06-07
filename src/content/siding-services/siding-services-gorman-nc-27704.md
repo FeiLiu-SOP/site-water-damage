@@ -12,6 +12,7 @@ lng: -78.8100
 zipSample: ["27704"]
 zipCodes: ["27704"]
 localPaths: ["Durham County / primary ZIP 27704", "Durham County / elevation 331 ft band", "Durham County / coords 36.0400, -78.8100", "Durham County / ZIP 27704 sector"]
+zillowHomeValueUsd: 310713
 ---
 
 **Engineering Notice for Gorman:** Site context locked to Durham County. Elevation: 331 ft AMSL. Coordinates: 36.0400, -78.8100. Exterior Cladding integrity verification recorded.

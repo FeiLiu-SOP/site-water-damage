@@ -12,6 +12,7 @@ lng: -81.7000
 zipSample: ["44618"]
 zipCodes: ["44618"]
 localPaths: ["Wayne County / coords 40.8000, -81.7000", "Wayne County / primary ZIP 44618", "Wayne County / ZIP 44618 sector", "Wayne County / elevation 1181 ft band"]
+zillowHomeValueUsd: 298395
 ---
 
 **Engineering Notice for Dalton:** System optimized for 169 mg/L hard water scaling factors in Dalton. Regional dispatch grid: Wayne County.

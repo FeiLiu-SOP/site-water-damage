@@ -11,6 +11,7 @@ lng: -77.1300
 zipSample: ["22041", "22311"]
 zipCodes: ["22311", "22041"]
 localPaths: ["Fairfax County / primary ZIP 22041", "Fairfax County / ZIP 22311 sector", "Fairfax County / ZIP 22041 sector", "Fairfax County / coords 38.8500, -77.1300", "Fairfax County / elevation 259 ft band"]
+zillowHomeValueUsd: 446616
 ---
 
 **Engineering Notice for Bailey's Crossroads:** Structural loading calculated based on 259 ft terrain assessment. Regional dispatch grid: Fairfax County.

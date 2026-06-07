@@ -12,6 +12,7 @@ lng: -87.5200
 zipSample: ["42455"]
 zipCodes: ["42455"]
 localPaths: ["Webster County / elevation 568 ft band", "Webster County / coords 37.6000, -87.5200", "Webster County / ZIP 42455 sector", "Webster County / primary ZIP 42455"]
+zillowHomeValueUsd: 160685
 ---
 
 **Engineering Notice for Sebree:** System optimized for 164 mg/L hard water scaling factors in Sebree. Regional dispatch grid: Webster County.

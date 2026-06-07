@@ -12,6 +12,7 @@ lng: -76.6700
 zipSample: ["17872", "17881"]
 zipCodes: ["17872", "17881"]
 localPaths: ["Northumberland County / coords 40.7800, -76.6700", "Northumberland County / ZIP 17881 sector", "Northumberland County / primary ZIP 17881", "Northumberland County / ZIP 17872 sector", "Northumberland County / elevation 791 ft band"]
+zillowHomeValueUsd: 117485
 ---
 
 **Engineering Notice for Trevorton:** structural drying capacity optimized for 791ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Northumberland County. Relative Humidity Threshold: 65%. Sensor sync: Active.

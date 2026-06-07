@@ -12,6 +12,7 @@ lng: -117.2400
 zipSample: ["97918"]
 zipCodes: ["97918"]
 localPaths: ["Malheur County / ZIP 97918 sector", "Malheur County / elevation 2241 ft band", "Malheur County / primary ZIP 97918", "Malheur County / coords 43.9800, -117.2400"]
+zillowHomeValueUsd: 338938
 ---
 
 **Engineering Notice for Vale:** System optimized for 156 mg/L hard water scaling factors in Vale. Regional dispatch grid: Malheur County.

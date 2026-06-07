@@ -12,6 +12,7 @@ lng: -82.5600
 zipSample: ["28739", "28759", "28742", "28791"]
 zipCodes: ["28759", "28739", "28742", "28791"]
 localPaths: ["Henderson County / ZIP 28791 sector", "Henderson County / coords 35.3400, -82.5600", "Henderson County / ZIP 28742 sector", "Henderson County / primary ZIP 28791", "Henderson County / ZIP 28739 sector"]
+zillowHomeValueUsd: 418351
 ---
 
 **Engineering Notice for Horse Shoe:** System optimized for 133 mg/L hard water scaling factors in Horse Shoe. Regional dispatch grid: Henderson County.

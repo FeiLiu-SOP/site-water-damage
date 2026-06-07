@@ -12,6 +12,7 @@ lng: -89.6900
 zipSample: ["38611"]
 zipCodes: ["38611"]
 localPaths: ["Marshall County / coords 34.8700, -89.6900", "Marshall County / elevation 381 ft band", "Marshall County / ZIP 38611 sector", "Marshall County / primary ZIP 38611"]
+zillowHomeValueUsd: 273448
 ---
 
 **Engineering Notice for Byhalia:** Envelope check: Wall Restoration assigned to wind-load band B with stress factor 1.12. Regional dispatch grid: Marshall County.

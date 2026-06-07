@@ -12,6 +12,7 @@ lng: -92.5900
 zipSample: ["50669"]
 zipCodes: ["50669"]
 localPaths: ["Grundy County / elevation 942 ft band", "Grundy County / coords 42.3200, -92.5900", "Grundy County / ZIP 50669 sector", "Grundy County / primary ZIP 50669"]
+zillowHomeValueUsd: 189214
 ---
 
 **Engineering Notice for Reinbeck:** Site context locked to Grundy County. Elevation: 942 ft AMSL. Cladding Service integrity verification recorded.

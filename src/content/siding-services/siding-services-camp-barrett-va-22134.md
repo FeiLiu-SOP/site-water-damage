@@ -12,6 +12,7 @@ lng: -77.4400
 zipSample: ["22134"]
 zipCodes: ["22134"]
 localPaths: ["Stafford County / coords 38.5200, -77.4400", "Stafford County / primary ZIP 22134", "Stafford County / elevation 322 ft band", "Stafford County / ZIP 22134 sector"]
+zillowHomeValueUsd: 317787
 ---
 
 **Engineering Notice for Camp Barrett:** Envelope check: Panel Replacement assigned to wind-load band A with stress factor 1.15. Elevation: 322 ft AMSL. Regional dispatch grid: Stafford County.

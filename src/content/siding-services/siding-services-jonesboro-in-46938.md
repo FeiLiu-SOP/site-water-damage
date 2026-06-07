@@ -12,6 +12,7 @@ lng: -85.6300
 zipSample: ["46938"]
 zipCodes: ["46938"]
 localPaths: ["Grant County / coords 40.4800, -85.6300", "Grant County / primary ZIP 46938", "Grant County / ZIP 46938 sector", "Grant County / elevation 837 ft band"]
+zillowHomeValueUsd: 152666
 ---
 
 **Engineering Notice for Jonesboro:** Envelope check: Vinyl Panels assigned to wind-load band B with stress factor 0.85. Regional dispatch grid: Grant County.

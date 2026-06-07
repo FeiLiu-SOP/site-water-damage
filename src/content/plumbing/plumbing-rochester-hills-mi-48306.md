@@ -12,6 +12,7 @@ lng: -83.1600
 zipSample: ["48309", "48306", "48307"]
 zipCodes: ["48307", "48306", "48309"]
 localPaths: ["Oakland County / ZIP 48306 sector", "Oakland County / primary ZIP 48306", "Oakland County / coords 42.6600, -83.1600", "Oakland County / ZIP 48307 sector", "Oakland County / ZIP 48309 sector"]
+zillowHomeValueUsd: 589513
 ---
 
 **Engineering Notice for Rochester Hills:** Structural loading calculated based on 784 ft terrain assessment. Regional dispatch grid: Oakland County.

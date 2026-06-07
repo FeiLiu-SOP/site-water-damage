@@ -11,6 +11,7 @@ lng: -84.1200
 zipSample: ["45431", "45404", "45432", "45437", "45424"]
 zipCodes: ["45424", "45404", "45431", "45437", "45432"]
 localPaths: ["Montgomery County / ZIP 45432 sector", "Montgomery County / ZIP 45437 sector", "Montgomery County / ZIP 45431 sector", "Montgomery County / primary ZIP 45432", "Montgomery County / ZIP 45404 sector"]
+zillowHomeValueUsd: 224666
 ---
 
 **Engineering Notice for Riverside:** Structural loading calculated based on 771 ft terrain assessment. Regional dispatch grid: Montgomery County.

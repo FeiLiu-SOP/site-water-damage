@@ -11,6 +11,7 @@ lng: -70.9000
 zipSample: ["01970", "01971"]
 zipCodes: ["01971", "01970"]
 localPaths: ["Essex County / primary ZIP 01970", "Essex County / ZIP 01970 sector", "Essex County / ZIP 01971 sector", "Essex County / coords 42.5100, -70.9000", "Essex County / elevation 49 ft band"]
+zillowHomeValueUsd: 604405
 ---
 
 **Engineering Notice for Salem:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Essex County.

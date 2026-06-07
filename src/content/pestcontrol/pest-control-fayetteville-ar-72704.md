@@ -11,6 +11,7 @@ lng: -94.1700
 zipSample: ["72703", "72702", "72701", "72704"]
 zipCodes: ["72701", "72704", "72703", "72702"]
 localPaths: ["Washington County / primary ZIP 72704", "Washington County / ZIP 72702 sector", "Washington County / elevation 1398 ft band", "Washington County / ZIP 72704 sector", "Washington County / ZIP 72701 sector"]
+zillowHomeValueUsd: 361960
 ---
 
 **Engineering Notice for Fayetteville:** Structural loading calculated based on 1398 ft terrain assessment. Regional dispatch grid: Washington County.

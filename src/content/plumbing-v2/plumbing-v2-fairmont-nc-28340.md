@@ -12,6 +12,7 @@ lng: -79.1100
 zipSample: ["28340"]
 zipCodes: ["28340"]
 localPaths: ["Robeson County / primary ZIP 28340", "Robeson County / ZIP 28340 sector", "Robeson County / elevation 121 ft band", "Robeson County / coords 34.4900, -79.1100"]
+zillowHomeValueUsd: 112030
 ---
 
 **Engineering Notice for Fairmont:** System optimized for 147 mg/L hard water scaling factors in Fairmont. Regional dispatch grid: Robeson County.

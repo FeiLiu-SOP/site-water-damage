@@ -12,6 +12,7 @@ lng: -85.2900
 zipSample: ["47037"]
 zipCodes: ["47037"]
 localPaths: ["Ripley County / elevation 991 ft band", "Ripley County / coords 39.1300, -85.2900", "Ripley County / primary ZIP 47037", "Ripley County / ZIP 47037 sector"]
+zillowHomeValueUsd: 249732
 ---
 
 **Engineering Notice for Osgood:** System optimized for 130 mg/L hard water scaling factors in Osgood. Regional dispatch grid: Ripley County.

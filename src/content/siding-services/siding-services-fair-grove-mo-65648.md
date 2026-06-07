@@ -12,6 +12,7 @@ lng: -93.1500
 zipSample: ["65648"]
 zipCodes: ["65648"]
 localPaths: ["Greene County / primary ZIP 65648", "Greene County / ZIP 65648 sector", "Greene County / elevation 1217 ft band", "Greene County / coords 37.3800, -93.1500"]
+zillowHomeValueUsd: 309627
 ---
 
 **Engineering Notice for Fair Grove:** Structural integrity verification: Panel Replacement calibrated for 107 mph localized wind load factor. Coordinates: 37.3800, -93.1500. Regional dispatch grid: Greene County.

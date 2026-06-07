@@ -11,6 +11,7 @@ lng: -117.6600
 zipSample: ["93556", "93555"]
 zipCodes: ["93556", "93555"]
 localPaths: ["Kern County / ZIP 93555 sector", "Kern County / ZIP 93556 sector", "Kern County / elevation 2277 ft band", "Kern County / primary ZIP 93555", "Kern County / coords 35.6300, -117.6600"]
+zillowHomeValueUsd: 269213
 ---
 
 **Engineering Notice for Ridgecrest:** Structural loading calculated based on 2277 ft terrain assessment. Regional dispatch grid: Kern County.

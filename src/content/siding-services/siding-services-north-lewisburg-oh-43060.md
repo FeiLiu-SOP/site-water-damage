@@ -12,6 +12,7 @@ lng: -83.5600
 zipSample: ["43060"]
 zipCodes: ["43060"]
 localPaths: ["Champaign County / primary ZIP 43060", "Champaign County / elevation 1099 ft band", "Champaign County / coords 40.2200, -83.5600", "Champaign County / ZIP 43060 sector"]
+zillowHomeValueUsd: 255986
 ---
 
 **Engineering Notice for North Lewisburg:** Weather Barrier Wrap was validated under stress factor 1.18; target tolerance set near 94 mph. Coordinates: 40.2200, -83.5600. Grid anchor: Champaign County.

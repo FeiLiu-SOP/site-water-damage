@@ -12,6 +12,7 @@ lng: -112.3200
 zipSample: ["85392", "85353", "85323", "85329"]
 zipCodes: ["85353", "85323", "85392", "85329"]
 localPaths: ["Maricopa County / ZIP 85392 sector", "Maricopa County / elevation 925 ft band", "Maricopa County / coords 33.3900, -112.3200", "Maricopa County / ZIP 85323 sector", "Maricopa County / ZIP 85353 sector"]
+zillowHomeValueUsd: 393994
 ---
 
 **Engineering Notice for Avondale:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Maricopa County.

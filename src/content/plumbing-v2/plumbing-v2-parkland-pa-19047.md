@@ -12,6 +12,7 @@ lng: -74.9300
 zipSample: ["19047"]
 zipCodes: ["19047"]
 localPaths: ["Bucks County / coords 40.1600, -74.9300", "Bucks County / ZIP 19047 sector", "Bucks County / primary ZIP 19047", "Bucks County / elevation 200 ft band"]
+zillowHomeValueUsd: 560829
 ---
 
 **Engineering Notice for Parkland:** System optimized for 177 mg/L hard water scaling factors in Parkland. Regional dispatch grid: Bucks County.

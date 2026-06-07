@@ -12,6 +12,7 @@ lng: -84.7100
 zipSample: ["49738"]
 zipCodes: ["49738"]
 localPaths: ["Crawford County / elevation 1135 ft band", "Crawford County / primary ZIP 49738", "Crawford County / ZIP 49738 sector", "Crawford County / coords 44.6600, -84.7100"]
+zillowHomeValueUsd: 177185
 ---
 
 **Engineering Notice for Grayling:** System optimized for 148 mg/L hard water scaling factors in Grayling. Regional dispatch grid: Crawford County.

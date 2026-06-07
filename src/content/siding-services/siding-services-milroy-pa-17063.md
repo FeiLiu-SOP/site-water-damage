@@ -12,6 +12,7 @@ lng: -77.5900
 zipSample: ["17063"]
 zipCodes: ["17063"]
 localPaths: ["Mifflin County / primary ZIP 17063", "Mifflin County / ZIP 17063 sector", "Mifflin County / elevation 801 ft band", "Mifflin County / coords 40.7200, -77.5900"]
+zillowHomeValueUsd: 192370
 ---
 
 **Engineering Notice for Milroy:** Structural integrity verification: Facade Renewal calibrated for 90 mph localized wind load factor. Elevation: 801 ft AMSL. Regional dispatch grid: Mifflin County.

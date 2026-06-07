@@ -11,6 +11,7 @@ lng: -121.0500
 zipSample: ["95682", "95762"]
 zipCodes: ["95762", "95682"]
 localPaths: ["El Dorado County / primary ZIP 95762", "El Dorado County / coords 38.6700, -121.0500", "El Dorado County / ZIP 95762 sector", "El Dorado County / ZIP 95682 sector", "El Dorado County / elevation 1070 ft band"]
+zillowHomeValueUsd: 911296
 ---
 
 **Engineering Notice for El Dorado Hills:** Structural loading calculated based on 1070 ft terrain assessment. Regional dispatch grid: El Dorado County.

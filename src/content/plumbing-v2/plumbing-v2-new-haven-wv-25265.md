@@ -12,6 +12,7 @@ lng: -81.9700
 zipSample: ["25265"]
 zipCodes: ["25265"]
 localPaths: ["Mason County / elevation 591 ft band", "Mason County / primary ZIP 25265", "Mason County / ZIP 25265 sector", "Mason County / coords 38.9900, -81.9700"]
+zillowHomeValueUsd: 125062
 ---
 
 **Engineering Notice for New Haven:** System optimized for 165 mg/L hard water scaling factors in New Haven. Regional dispatch grid: Mason County.

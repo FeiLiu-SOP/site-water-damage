@@ -11,6 +11,7 @@ lng: -73.6800
 zipSample: ["12181", "12182", "12180"]
 zipCodes: ["12181", "12182", "12180"]
 localPaths: ["Rensselaer County / primary ZIP 12182", "Rensselaer County / ZIP 12181 sector", "Rensselaer County / ZIP 12180 sector", "Rensselaer County / ZIP 12182 sector", "Rensselaer County / coords 42.7400, -73.6800"]
+zillowHomeValueUsd: 256212
 ---
 
 **Engineering Notice for Troy:** Structural loading calculated based on 249 ft terrain assessment. Regional dispatch grid: Rensselaer County.

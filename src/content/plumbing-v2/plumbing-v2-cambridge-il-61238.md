@@ -12,6 +12,7 @@ lng: -90.1900
 zipSample: ["61238"]
 zipCodes: ["61238"]
 localPaths: ["Henry County / ZIP 61238 sector", "Henry County / coords 41.3000, -90.1900", "Henry County / primary ZIP 61238", "Henry County / elevation 810 ft band"]
+zillowHomeValueUsd: 157287
 ---
 
 **Engineering Notice for Cambridge:** System optimized for 148 mg/L hard water scaling factors in Cambridge. Regional dispatch grid: Henry County.

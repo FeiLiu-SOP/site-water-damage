@@ -12,6 +12,7 @@ lng: -84.8800
 zipSample: ["49082"]
 zipCodes: ["49082"]
 localPaths: ["Branch County / primary ZIP 49082", "Branch County / ZIP 49082 sector", "Branch County / coords 41.9400, -84.8800", "Branch County / elevation 1033 ft band"]
+zillowHomeValueUsd: 220453
 ---
 
 **Engineering Notice for Quincy:** structural drying capacity optimized for 1033ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Branch County. Relative Humidity Threshold: 71%. Sensor sync: Active.

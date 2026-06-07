@@ -12,6 +12,7 @@ lng: -87.9700
 zipSample: ["37134"]
 zipCodes: ["37134"]
 localPaths: ["Humphreys County / ZIP 37134 sector", "Humphreys County / elevation 400 ft band", "Humphreys County / primary ZIP 37134", "Humphreys County / coords 36.0200, -87.9700"]
+zillowHomeValueUsd: 223205
 ---
 
 **Engineering Notice for New Johnsonville:** Envelope check: Cladding Retrofit assigned to wind-load band A with stress factor 0.93. Regional dispatch grid: Humphreys County.

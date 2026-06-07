@@ -12,6 +12,7 @@ lng: -79.5400
 zipSample: ["15613"]
 zipCodes: ["15613"]
 localPaths: ["Armstrong County / elevation 1148 ft band", "Armstrong County / primary ZIP 15613", "Armstrong County / coords 40.5800, -79.5400", "Armstrong County / ZIP 15613 sector"]
+zillowHomeValueUsd: 188690
 ---
 
 **Engineering Notice for Orchard Hills:** Site context locked to Armstrong County. Coordinates: 40.5800, -79.5400. Panel Replacement integrity verification recorded.

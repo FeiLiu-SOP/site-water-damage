@@ -11,6 +11,7 @@ lng: -80.9300
 zipSample: ["29910"]
 zipCodes: ["29910"]
 localPaths: ["Beaufort County / ZIP 29910 sector", "Beaufort County / elevation 59 ft band", "Beaufort County / coords 32.2100, -80.9300", "Beaufort County / primary ZIP 29910"]
+zillowHomeValueUsd: 520595
 ---
 
 **Engineering Notice for Bluffton:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Beaufort County.

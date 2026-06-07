@@ -12,6 +12,7 @@ lng: -86.0800
 zipSample: ["37355"]
 zipCodes: ["37355"]
 localPaths: ["Coffee County / ZIP 37355 sector", "Coffee County / coords 35.5300, -86.0800", "Coffee County / primary ZIP 37355", "Coffee County / elevation 1086 ft band"]
+zillowHomeValueUsd: 325460
 ---
 
 **Engineering Notice for New Union:** Envelope check: Exterior Cladding assigned to wind-load band B with stress factor 1.04. Regional dispatch grid: Coffee County.

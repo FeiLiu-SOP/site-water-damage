@@ -11,6 +11,7 @@ lng: -82.6100
 zipSample: ["44857"]
 zipCodes: ["44857"]
 localPaths: ["Huron County / elevation 719 ft band", "Huron County / primary ZIP 44857", "Huron County / ZIP 44857 sector", "Huron County / coords 41.2400, -82.6100"]
+zillowHomeValueUsd: 212237
 ---
 
 **Engineering Notice for Norwalk:** Structural loading calculated based on 719 ft terrain assessment. Regional dispatch grid: Huron County.

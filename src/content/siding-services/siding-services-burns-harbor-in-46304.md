@@ -12,6 +12,7 @@ lng: -87.1300
 zipSample: ["46304"]
 zipCodes: ["46304"]
 localPaths: ["Porter County / ZIP 46304 sector", "Porter County / elevation 627 ft band", "Porter County / coords 41.6200, -87.1300", "Porter County / primary ZIP 46304"]
+zillowHomeValueUsd: 329911
 ---
 
 **Engineering Notice for Burns Harbor:** Site context locked to Porter County. Elevation: 627 ft AMSL. Coordinates: 41.6200, -87.1300. Cladding Service integrity verification recorded.

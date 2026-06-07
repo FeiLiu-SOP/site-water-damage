@@ -12,6 +12,7 @@ lng: -71.6800
 zipSample: ["02830"]
 zipCodes: ["02830"]
 localPaths: ["Providence County / ZIP 02830 sector", "Providence County / primary ZIP 02830", "Providence County / coords 41.9700, -71.6800", "Providence County / elevation 351 ft band"]
+zillowHomeValueUsd: 474203
 ---
 
 **Engineering Notice for Harrisville:** structural drying capacity optimized for 351ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Providence County. Relative Humidity Threshold: 67%. Sensor sync: Active.

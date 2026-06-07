@@ -12,6 +12,7 @@ lng: -92.6000
 zipSample: ["70515"]
 zipCodes: ["70515"]
 localPaths: ["Evangeline Parish / primary ZIP 70515", "Evangeline Parish / elevation 66 ft band", "Evangeline Parish / coords 30.4900, -92.6000", "Evangeline Parish / ZIP 70515 sector"]
+zillowHomeValueUsd: 106360
 ---
 
 **Engineering Notice for Basile:** System optimized for 172 mg/L hard water scaling factors in Basile. Regional dispatch grid: Evangeline Parish.

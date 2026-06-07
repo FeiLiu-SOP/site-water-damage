@@ -12,6 +12,7 @@ lng: -97.5200
 zipSample: ["76020"]
 zipCodes: ["76020"]
 localPaths: ["Tarrant County / primary ZIP 76020", "Tarrant County / elevation 725 ft band", "Tarrant County / coords 32.9200, -97.5200", "Tarrant County / ZIP 76020 sector"]
+zillowHomeValueUsd: 329554
 ---
 
 **Engineering Notice for Pelican Bay:** structural drying capacity optimized for 725ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tarrant County. Relative Humidity Threshold: 84%. Sensor sync: Active.

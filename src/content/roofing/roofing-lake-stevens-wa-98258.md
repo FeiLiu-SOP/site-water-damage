@@ -11,6 +11,7 @@ lng: -122.1000
 zipSample: ["98258"]
 zipCodes: ["98258"]
 localPaths: ["Snohomish County / elevation 262 ft band", "Snohomish County / primary ZIP 98258", "Snohomish County / coords 48.0000, -122.1000", "Snohomish County / ZIP 98258 sector"]
+zillowHomeValueUsd: 714422
 ---
 
 **Engineering Notice for Lake Stevens:** Structural loading calculated based on 262 ft terrain assessment. Regional dispatch grid: Snohomish County.

@@ -11,6 +11,7 @@ lng: -122.5400
 zipSample: ["98110", "98061"]
 zipCodes: ["98061", "98110"]
 localPaths: ["Kitsap County / primary ZIP 98110", "Kitsap County / elevation 220 ft band", "Kitsap County / ZIP 98061 sector", "Kitsap County / coords 47.6400, -122.5400", "Kitsap County / ZIP 98110 sector"]
+zillowHomeValueUsd: 1175778
 ---
 
 **Engineering Notice for Bainbridge Island:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Kitsap County.

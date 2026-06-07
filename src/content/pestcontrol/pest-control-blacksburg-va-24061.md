@@ -11,6 +11,7 @@ lng: -80.4300
 zipSample: ["24062", "24060", "24061", "24111", "24063"]
 zipCodes: ["24063", "24062", "24060", "24061", "24111"]
 localPaths: ["Montgomery County / ZIP 24061 sector", "Montgomery County / primary ZIP 24061", "Montgomery County / ZIP 24111 sector", "Montgomery County / coords 37.2300, -80.4300", "Montgomery County / elevation 2041 ft band"]
+zillowHomeValueUsd: 425930
 ---
 
 **Engineering Notice for Blacksburg:** Structural loading calculated based on 2041 ft terrain assessment. Regional dispatch grid: Montgomery County.

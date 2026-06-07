@@ -12,6 +12,7 @@ lng: -94.6700
 zipSample: ["50574"]
 zipCodes: ["50574"]
 localPaths: ["Pocahontas County / primary ZIP 50574", "Pocahontas County / ZIP 50574 sector", "Pocahontas County / coords 42.7400, -94.6700", "Pocahontas County / elevation 1217 ft band"]
+zillowHomeValueUsd: 117807
 ---
 
 **Engineering Notice for Pocahontas:** Cladding verification uses 105 mph routing baseline; lateral pressure note: 13.8 psf. Elevation: 1217 ft AMSL. Grid: Pocahontas County.

@@ -12,6 +12,7 @@ lng: -108.5400
 zipSample: ["59072"]
 zipCodes: ["59072"]
 localPaths: ["Musselshell County / elevation 3228 ft band", "Musselshell County / ZIP 59072 sector", "Musselshell County / primary ZIP 59072", "Musselshell County / coords 46.4500, -108.5400"]
+zillowHomeValueUsd: 233705
 ---
 
 **Engineering Notice for Roundup:** Site context locked to Musselshell County. Wall Restoration integrity verification recorded.

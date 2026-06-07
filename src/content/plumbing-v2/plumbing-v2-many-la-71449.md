@@ -12,6 +12,7 @@ lng: -93.4800
 zipSample: ["71449"]
 zipCodes: ["71449"]
 localPaths: ["Sabine Parish / elevation 272 ft band", "Sabine Parish / coords 31.5700, -93.4800", "Sabine Parish / ZIP 71449 sector", "Sabine Parish / primary ZIP 71449"]
+zillowHomeValueUsd: 222813
 ---
 
 **Engineering Notice for Many:** System optimized for 161 mg/L hard water scaling factors in Many. Regional dispatch grid: Sabine Parish.

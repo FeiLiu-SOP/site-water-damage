@@ -12,6 +12,7 @@ lng: -93.3600
 zipSample: ["56007"]
 zipCodes: ["56007"]
 localPaths: ["Freeborn County / coords 43.6500, -93.3600", "Freeborn County / primary ZIP 56007", "Freeborn County / elevation 1243 ft band", "Freeborn County / ZIP 56007 sector"]
+zillowHomeValueUsd: 177186
 ---
 
 **Engineering Notice for Albert Lea:** Structural loading calculated based on 1243 ft terrain assessment. Regional dispatch grid: Freeborn County.

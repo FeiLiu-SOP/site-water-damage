@@ -11,6 +11,7 @@ lng: -87.7300
 zipSample: ["60478"]
 zipCodes: ["60478"]
 localPaths: ["Cook County / coords 41.5600, -87.7300", "Cook County / ZIP 60478 sector", "Cook County / elevation 689 ft band", "Cook County / primary ZIP 60478"]
+zillowHomeValueUsd: 200211
 ---
 
 **Engineering Notice for Country Club Hills:** Structural loading calculated based on 689 ft terrain assessment. Regional dispatch grid: Cook County.

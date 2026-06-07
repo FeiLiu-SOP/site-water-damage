@@ -11,6 +11,7 @@ lng: -87.9200
 zipSample: ["60078", "60090"]
 zipCodes: ["60090", "60078"]
 localPaths: ["Cook County / coords 42.1300, -87.9200", "Cook County / ZIP 60090 sector", "Cook County / primary ZIP 60090", "Cook County / elevation 653 ft band", "Cook County / ZIP 60078 sector"]
+zillowHomeValueUsd: 305458
 ---
 
 **Engineering Notice for Wheeling:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Cook County.

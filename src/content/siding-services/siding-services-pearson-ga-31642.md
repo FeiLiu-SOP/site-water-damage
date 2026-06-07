@@ -12,6 +12,7 @@ lng: -82.8500
 zipSample: ["31642"]
 zipCodes: ["31642"]
 localPaths: ["Atkinson County / coords 31.3000, -82.8500", "Atkinson County / primary ZIP 31642", "Atkinson County / elevation 207 ft band", "Atkinson County / ZIP 31642 sector"]
+zillowHomeValueUsd: 126487
 ---
 
 **Engineering Notice for Pearson:** Cladding verification uses 106 mph routing baseline; lateral pressure note: 13.9 psf. Coordinates: 31.3000, -82.8500. Grid: Atkinson County.

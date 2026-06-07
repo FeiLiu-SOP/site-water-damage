@@ -11,6 +11,7 @@ lng: -90.2000
 zipSample: ["72364", "72301", "72303"]
 zipCodes: ["72303", "72364", "72301"]
 localPaths: ["Crittenden County / coords 35.1500, -90.2000", "Crittenden County / primary ZIP 72301", "Crittenden County / elevation 217 ft band", "Crittenden County / ZIP 72303 sector", "Crittenden County / ZIP 72364 sector"]
+zillowHomeValueUsd: 132141
 ---
 
 **Engineering Notice for West Memphis:** Structural loading calculated based on 217 ft terrain assessment. Regional dispatch grid: Crittenden County.

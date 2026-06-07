@@ -12,6 +12,7 @@ lng: -85.6700
 zipSample: ["37347", "37380"]
 zipCodes: ["37347", "37380"]
 localPaths: ["Marion County / elevation 666 ft band", "Marion County / ZIP 37380 sector", "Marion County / primary ZIP 37347", "Marion County / ZIP 37347 sector", "Marion County / coords 35.0500, -85.6700"]
+zillowHomeValueUsd: 272326
 ---
 
 **Engineering Notice for Kimball:** Site context locked to Marion County. Coordinates: 35.0500, -85.6700. Vinyl Panels integrity verification recorded.

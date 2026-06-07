@@ -12,6 +12,7 @@ lng: -83.3200
 zipSample: ["41179"]
 zipCodes: ["41179"]
 localPaths: ["Lewis County / primary ZIP 41179", "Lewis County / ZIP 41179 sector", "Lewis County / elevation 522 ft band", "Lewis County / coords 38.5900, -83.3200"]
+zillowHomeValueUsd: 115112
 ---
 
 **Engineering Notice for Vanceburg:** Site context locked to Lewis County. Coordinates: 38.5900, -83.3200. Wall Restoration integrity verification recorded.

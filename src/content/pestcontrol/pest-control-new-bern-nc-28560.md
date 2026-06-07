@@ -11,6 +11,7 @@ lng: -77.0700
 zipSample: ["28561", "28562", "28560"]
 zipCodes: ["28560", "28561", "28562"]
 localPaths: ["Craven County / ZIP 28561 sector", "Craven County / coords 35.1000, -77.0700", "Craven County / ZIP 28562 sector", "Craven County / elevation 16 ft band", "Craven County / ZIP 28560 sector"]
+zillowHomeValueUsd: 268111
 ---
 
 **Engineering Notice for New Bern:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Craven County.

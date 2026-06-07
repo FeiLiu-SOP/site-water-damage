@@ -12,6 +12,7 @@ lng: -87.8500
 zipSample: ["60914", "60915"]
 zipCodes: ["60915", "60914"]
 localPaths: ["Kankakee County / coords 41.1600, -87.8500", "Kankakee County / primary ZIP 60915", "Kankakee County / elevation 673 ft band", "Kankakee County / ZIP 60914 sector", "Kankakee County / ZIP 60915 sector"]
+zillowHomeValueUsd: 176274
 ---
 
 **Engineering Notice for Bradley:** Structural loading calculated based on 673 ft terrain assessment. Regional dispatch grid: Kankakee County.

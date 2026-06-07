@@ -12,6 +12,7 @@ lng: -122.4500
 zipSample: ["94014"]
 zipCodes: ["94014"]
 localPaths: ["San Mateo County / elevation 180 ft band", "San Mateo County / coords 37.6800, -122.4500", "San Mateo County / ZIP 94014 sector", "San Mateo County / primary ZIP 94014"]
+zillowHomeValueUsd: 1017474
 ---
 
 **Engineering Notice for Colma:** Cladding verification uses 143 mph routing baseline; lateral pressure note: 18.4 psf. Elevation: 180 ft AMSL. Grid: San Mateo County.

@@ -12,6 +12,7 @@ lng: -81.8900
 zipSample: ["29842"]
 zipCodes: ["29842"]
 localPaths: ["Aiken County / ZIP 29842 sector", "Aiken County / coords 33.4300, -81.8900", "Aiken County / elevation 230 ft band", "Aiken County / primary ZIP 29842"]
+zillowHomeValueUsd: 150887
 ---
 
 **Engineering Notice for Beech Island:** Structural integrity verification: Weather Barrier Wrap calibrated for 93 mph localized wind load factor. Regional dispatch grid: Aiken County.

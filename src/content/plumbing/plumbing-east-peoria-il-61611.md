@@ -12,6 +12,7 @@ lng: -89.5400
 zipSample: ["61635", "61612", "61611"]
 zipCodes: ["61611", "61635", "61612"]
 localPaths: ["Tazewell County / elevation 502 ft band", "Tazewell County / ZIP 61635 sector", "Tazewell County / primary ZIP 61611", "Tazewell County / ZIP 61612 sector", "Tazewell County / ZIP 61611 sector"]
+zillowHomeValueUsd: 182683
 ---
 
 **Engineering Notice for East Peoria:** Structural loading calculated based on 502 ft terrain assessment. Regional dispatch grid: Tazewell County.

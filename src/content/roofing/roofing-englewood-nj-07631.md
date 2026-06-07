@@ -11,6 +11,7 @@ lng: -73.9700
 zipSample: ["07631"]
 zipCodes: ["07631"]
 localPaths: ["Bergen County / ZIP 07631 sector", "Bergen County / elevation 49 ft band", "Bergen County / primary ZIP 07631", "Bergen County / coords 40.8900, -73.9700"]
+zillowHomeValueUsd: 610681
 ---
 
 **Engineering Notice for Englewood:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Bergen County.

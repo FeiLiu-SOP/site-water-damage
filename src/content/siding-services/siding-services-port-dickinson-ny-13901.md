@@ -12,6 +12,7 @@ lng: -75.8900
 zipSample: ["13901"]
 zipCodes: ["13901"]
 localPaths: ["Broome County / coords 42.1400, -75.8900", "Broome County / elevation 856 ft band", "Broome County / ZIP 13901 sector", "Broome County / primary ZIP 13901"]
+zillowHomeValueUsd: 193601
 ---
 
 **Engineering Notice for Port Dickinson:** Envelope check: Surface Sheathing assigned to wind-load band C with stress factor 1.21. Elevation: 856 ft AMSL. Regional dispatch grid: Broome County.

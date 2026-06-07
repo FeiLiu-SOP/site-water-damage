@@ -12,6 +12,7 @@ lng: -106.0400
 zipSample: ["87507", "87506"]
 zipCodes: ["87507", "87506"]
 localPaths: ["Santa Fe County / primary ZIP 87507", "Santa Fe County / ZIP 87507 sector", "Santa Fe County / coords 35.6800, -106.0400", "Santa Fe County / ZIP 87506 sector", "Santa Fe County / elevation 6575 ft band"]
+zillowHomeValueUsd: 458376
 ---
 
 **Engineering Notice for Tres Arroyos:** System optimized for 127 mg/L hard water scaling factors in Tres Arroyos. Regional dispatch grid: Santa Fe County.

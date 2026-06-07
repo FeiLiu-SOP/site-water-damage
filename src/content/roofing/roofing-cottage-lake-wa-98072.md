@@ -11,6 +11,7 @@ lng: -122.0800
 zipSample: ["98077", "98072"]
 zipCodes: ["98077", "98072"]
 localPaths: ["King County / ZIP 98077 sector", "King County / coords 47.7500, -122.0800", "King County / elevation 328 ft band", "King County / primary ZIP 98072", "King County / ZIP 98072 sector"]
+zillowHomeValueUsd: 1319451
 ---
 
 **Engineering Notice for Cottage Lake:** Structural loading calculated based on 328 ft terrain assessment. Regional dispatch grid: King County.

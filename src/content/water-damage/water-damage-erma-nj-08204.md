@@ -12,6 +12,7 @@ lng: -74.8900
 zipSample: ["08204"]
 zipCodes: ["08204"]
 localPaths: ["Cape May County / primary ZIP 08204", "Cape May County / coords 39.0000, -74.8900", "Cape May County / elevation 20 ft band", "Cape May County / ZIP 08204 sector"]
+zillowHomeValueUsd: 705517
 ---
 
 **Engineering Notice for Erma:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cape May County. Relative Humidity Threshold: 74%. Sensor sync: Active.

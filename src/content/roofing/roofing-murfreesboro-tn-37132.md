@@ -11,6 +11,7 @@ lng: -86.4100
 zipSample: ["37132", "37133", "37131", "37130", "37129"]
 zipCodes: ["37129", "37127", "37130", "37133", "37128", "37131", "37132"]
 localPaths: ["Rutherford County / ZIP 37129 sector", "Rutherford County / ZIP 37132 sector", "Rutherford County / elevation 574 ft band", "Rutherford County / ZIP 37131 sector", "Rutherford County / ZIP 37133 sector"]
+zillowHomeValueUsd: 443881
 ---
 
 **Engineering Notice for Murfreesboro:** Structural loading calculated based on 574 ft terrain assessment. Regional dispatch grid: Rutherford County.

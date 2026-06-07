@@ -12,6 +12,8 @@ lng: -67.1400
 zipSample: ["00610"]
 zipCodes: ["00610"]
 localPaths: ["Añasco County / elevation 49 ft band", "Añasco County / coords 18.2900, -67.1400", "Añasco County / primary ZIP 00610", "Añasco County / ZIP 00610 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 383932
 ---
 
 **Engineering Notice for Las Marías:** System optimized for 151 mg/L hard water scaling factors in Las Marías. Regional dispatch grid: Añasco County.

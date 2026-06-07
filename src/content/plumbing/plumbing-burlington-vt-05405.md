@@ -12,6 +12,7 @@ lng: -73.2300
 zipSample: ["05405", "05408", "05406", "05401"]
 zipCodes: ["05406", "05401", "05408", "05405"]
 localPaths: ["Chittenden County / primary ZIP 05405", "Chittenden County / coords 44.4900, -73.2300", "Chittenden County / ZIP 05408 sector", "Chittenden County / ZIP 05406 sector", "Chittenden County / ZIP 05405 sector"]
+zillowHomeValueUsd: 556504
 ---
 
 **Engineering Notice for Burlington:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Chittenden County.

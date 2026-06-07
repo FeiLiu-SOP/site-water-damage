@@ -12,6 +12,7 @@ lng: -120.4400
 zipSample: ["93454", "93455", "93458"]
 zipCodes: ["93458", "93455", "93454"]
 localPaths: ["Santa Barbara County / primary ZIP 93454", "Santa Barbara County / ZIP 93454 sector", "Santa Barbara County / ZIP 93455 sector", "Santa Barbara County / ZIP 93458 sector", "Santa Barbara County / coords 34.9300, -120.4400"]
+zillowHomeValueUsd: 627000
 ---
 
 **Engineering Notice for Santa Maria:** Structural loading calculated based on 213 ft terrain assessment. Regional dispatch grid: Santa Barbara County.

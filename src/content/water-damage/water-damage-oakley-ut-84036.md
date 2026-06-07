@@ -12,6 +12,7 @@ lng: -111.2800
 zipSample: ["84036", "84055"]
 zipCodes: ["84036", "84055"]
 localPaths: ["Summit County / primary ZIP 84036", "Summit County / elevation 6575 ft band", "Summit County / ZIP 84055 sector", "Summit County / ZIP 84036 sector", "Summit County / coords 40.7300, -111.2800"]
+zillowHomeValueUsd: 1017835
 ---
 
 **Engineering Notice for Oakley:** structural drying capacity optimized for 6575ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Summit County. Relative Humidity Threshold: 70%. Sensor sync: Active.

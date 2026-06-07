@@ -11,6 +11,7 @@ lng: -74.3400
 zipSample: ["07090"]
 zipCodes: ["07090"]
 localPaths: ["Union County / elevation 121 ft band", "Union County / ZIP 07090 sector", "Union County / primary ZIP 07090", "Union County / coords 40.6500, -74.3400"]
+zillowHomeValueUsd: 1270854
 ---
 
 **Engineering Notice for Westfield:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Union County.

@@ -12,6 +12,7 @@ lng: -94.7400
 zipSample: ["50841"]
 zipCodes: ["50841"]
 localPaths: ["Adams County / ZIP 50841 sector", "Adams County / elevation 1214 ft band", "Adams County / primary ZIP 50841", "Adams County / coords 40.9900, -94.7400"]
+zillowHomeValueUsd: 143277
 ---
 
 **Engineering Notice for Corning:** structural drying capacity optimized for 1214ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Adams County. Relative Humidity Threshold: 72%. Sensor sync: Active.

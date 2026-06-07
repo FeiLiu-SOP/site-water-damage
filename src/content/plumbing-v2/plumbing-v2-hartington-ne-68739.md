@@ -12,6 +12,7 @@ lng: -97.2700
 zipSample: ["68739"]
 zipCodes: ["68739"]
 localPaths: ["Cedar County / primary ZIP 68739", "Cedar County / elevation 1424 ft band", "Cedar County / ZIP 68739 sector", "Cedar County / coords 42.6200, -97.2700"]
+zillowHomeValueUsd: 266591
 ---
 
 **Engineering Notice for Hartington:** System optimized for 171 mg/L hard water scaling factors in Hartington. Regional dispatch grid: Cedar County.

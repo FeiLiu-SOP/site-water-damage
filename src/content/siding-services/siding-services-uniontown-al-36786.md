@@ -12,6 +12,8 @@ lng: -87.5000
 zipSample: ["36786"]
 zipCodes: ["36786"]
 localPaths: ["Perry County / ZIP 36786 sector", "Perry County / primary ZIP 36786", "Perry County / elevation 233 ft band", "Perry County / coords 32.4500, -87.5000"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 213385
 ---
 
 **Engineering Notice for Uniontown:** Vinyl Panels was validated under stress factor 1.23; target tolerance set near 93 mph. Grid anchor: Perry County.

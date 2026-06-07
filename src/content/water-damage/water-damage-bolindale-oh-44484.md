@@ -12,6 +12,7 @@ lng: -80.7800
 zipSample: ["44484"]
 zipCodes: ["44484"]
 localPaths: ["Trumbull County / elevation 997 ft band", "Trumbull County / coords 41.2100, -80.7800", "Trumbull County / primary ZIP 44484", "Trumbull County / ZIP 44484 sector"]
+zillowHomeValueUsd: 192146
 ---
 
 **Engineering Notice for Bolindale:** structural drying capacity optimized for 997ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Trumbull County. Relative Humidity Threshold: 82%. Sensor sync: Active.

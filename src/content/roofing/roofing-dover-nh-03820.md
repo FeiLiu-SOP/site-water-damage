@@ -11,6 +11,7 @@ lng: -70.8800
 zipSample: ["03820", "03821"]
 zipCodes: ["03820", "03821"]
 localPaths: ["Strafford County / elevation 125 ft band", "Strafford County / ZIP 03821 sector", "Strafford County / primary ZIP 03820", "Strafford County / ZIP 03820 sector", "Strafford County / coords 43.1900, -70.8800"]
+zillowHomeValueUsd: 537702
 ---
 
 **Engineering Notice for Dover:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Strafford County.

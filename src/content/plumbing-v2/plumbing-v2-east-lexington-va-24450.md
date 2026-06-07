@@ -12,6 +12,7 @@ lng: -79.4200
 zipSample: ["24450"]
 zipCodes: ["24450"]
 localPaths: ["Rockbridge County / ZIP 24450 sector", "Rockbridge County / primary ZIP 24450", "Rockbridge County / coords 37.8000, -79.4200", "Rockbridge County / elevation 1020 ft band"]
+zillowHomeValueUsd: 359872
 ---
 
 **Engineering Notice for East Lexington:** System optimized for 162 mg/L hard water scaling factors in East Lexington. Regional dispatch grid: Rockbridge County.

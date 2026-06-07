@@ -12,6 +12,7 @@ lng: -90.5600
 zipSample: ["70394"]
 zipCodes: ["70394"]
 localPaths: ["Lafourche Parish / coords 29.6800, -90.5600", "Lafourche Parish / elevation 10 ft band", "Lafourche Parish / ZIP 70394 sector", "Lafourche Parish / primary ZIP 70394"]
+zillowHomeValueUsd: 175302
 ---
 
 **Engineering Notice for Mathews:** System optimized for 180 mg/L hard water scaling factors in Mathews. Regional dispatch grid: Lafourche Parish.

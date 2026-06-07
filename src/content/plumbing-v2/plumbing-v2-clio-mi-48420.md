@@ -12,6 +12,7 @@ lng: -83.7400
 zipSample: ["48420"]
 zipCodes: ["48420"]
 localPaths: ["Genesee County / elevation 725 ft band", "Genesee County / coords 43.1800, -83.7400", "Genesee County / primary ZIP 48420", "Genesee County / ZIP 48420 sector"]
+zillowHomeValueUsd: 214543
 ---
 
 **Engineering Notice for Clio:** System optimized for 176 mg/L hard water scaling factors in Clio. Regional dispatch grid: Genesee County.

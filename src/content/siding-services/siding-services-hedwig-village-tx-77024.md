@@ -12,6 +12,7 @@ lng: -95.5200
 zipSample: ["77024"]
 zipCodes: ["77024"]
 localPaths: ["Harris County / ZIP 77024 sector", "Harris County / elevation 98 ft band", "Harris County / coords 29.7800, -95.5200", "Harris County / primary ZIP 77024"]
+zillowHomeValueUsd: 1406098
 ---
 
 **Engineering Notice for Hedwig Village:** Envelope check: Panel Replacement assigned to wind-load band B with stress factor 1.24. Regional dispatch grid: Harris County.

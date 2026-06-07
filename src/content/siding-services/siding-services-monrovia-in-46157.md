@@ -12,6 +12,7 @@ lng: -86.4800
 zipSample: ["46157"]
 zipCodes: ["46157"]
 localPaths: ["Morgan County / ZIP 46157 sector", "Morgan County / primary ZIP 46157", "Morgan County / elevation 807 ft band", "Morgan County / coords 39.5800, -86.4800"]
+zillowHomeValueUsd: 303802
 ---
 
 **Engineering Notice for Monrovia:** Structural integrity verification: Wall Restoration calibrated for 97 mph localized wind load factor. Elevation: 807 ft AMSL. Regional dispatch grid: Morgan County.

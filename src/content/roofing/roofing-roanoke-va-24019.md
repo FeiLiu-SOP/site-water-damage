@@ -11,6 +11,7 @@ lng: -79.9600
 zipSample: ["24015", "24005", "24031", "24008", "24014"]
 zipCodes: ["24035", "24043", "24032", "24006", "24011", "24019", "24036", "24017", "24014", "24024", "24040", "24031"]
 localPaths: ["Roanoke County / ZIP 24015 sector", "Roanoke County / ZIP 24005 sector", "Roanoke County / ZIP 24014 sector", "Roanoke County / primary ZIP 24019", "Roanoke County / ZIP 24008 sector"]
+zillowHomeValueUsd: 306218
 ---
 
 **Engineering Notice for Roanoke:** Structural loading calculated based on 971 ft terrain assessment. Regional dispatch grid: Roanoke County.

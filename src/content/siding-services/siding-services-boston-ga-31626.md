@@ -12,6 +12,7 @@ lng: -83.7900
 zipSample: ["31626"]
 zipCodes: ["31626"]
 localPaths: ["Thomas County / elevation 220 ft band", "Thomas County / ZIP 31626 sector", "Thomas County / coords 30.7900, -83.7900", "Thomas County / primary ZIP 31626"]
+zillowHomeValueUsd: 218973
 ---
 
 **Engineering Notice for Boston:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Elevation: 220 ft AMSL. Coordinates: 30.7900, -83.7900. Grid: Thomas County.

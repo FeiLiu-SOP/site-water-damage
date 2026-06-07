@@ -12,6 +12,7 @@ lng: -84.1200
 zipSample: ["48616"]
 zipCodes: ["48616"]
 localPaths: ["Saginaw County / primary ZIP 48616", "Saginaw County / coords 43.1900, -84.1200", "Saginaw County / ZIP 48616 sector", "Saginaw County / elevation 650 ft band"]
+zillowHomeValueUsd: 209161
 ---
 
 **Engineering Notice for Chesaning:** structural drying capacity optimized for 650ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Saginaw County. Relative Humidity Threshold: 80%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -85.6700
 zipSample: ["40218"]
 zipCodes: ["40218"]
 localPaths: ["Jefferson County / primary ZIP 40218", "Jefferson County / coords 38.2000, -85.6700", "Jefferson County / elevation 472 ft band", "Jefferson County / ZIP 40218 sector"]
+zillowHomeValueUsd: 217492
 ---
 
 **Engineering Notice for West Buechel:** System optimized for 129 mg/L hard water scaling factors in West Buechel. Regional dispatch grid: Jefferson County.

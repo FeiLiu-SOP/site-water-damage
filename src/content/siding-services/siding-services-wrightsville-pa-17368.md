@@ -12,6 +12,7 @@ lng: -76.5300
 zipSample: ["17368"]
 zipCodes: ["17368"]
 localPaths: ["York County / coords 40.0200, -76.5300", "York County / ZIP 17368 sector", "York County / elevation 328 ft band", "York County / primary ZIP 17368"]
+zillowHomeValueUsd: 274087
 ---
 
 **Engineering Notice for Wrightsville:** Site context locked to York County. Elevation: 328 ft AMSL. Coordinates: 40.0200, -76.5300. Vinyl Panels integrity verification recorded.

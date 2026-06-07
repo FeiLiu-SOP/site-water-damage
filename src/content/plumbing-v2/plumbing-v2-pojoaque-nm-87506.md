@@ -12,6 +12,7 @@ lng: -106.0100
 zipSample: ["87506"]
 zipCodes: ["87506"]
 localPaths: ["Santa Fe County / coords 35.9000, -106.0100", "Santa Fe County / elevation 5886 ft band", "Santa Fe County / ZIP 87506 sector", "Santa Fe County / primary ZIP 87506"]
+zillowHomeValueUsd: 1093174
 ---
 
 **Engineering Notice for Pojoaque:** System optimized for 141 mg/L hard water scaling factors in Pojoaque. Regional dispatch grid: Santa Fe County.

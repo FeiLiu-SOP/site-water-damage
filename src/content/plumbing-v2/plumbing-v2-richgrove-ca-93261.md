@@ -12,6 +12,7 @@ lng: -119.1100
 zipSample: ["93261"]
 zipCodes: ["93261"]
 localPaths: ["Tulare County / ZIP 93261 sector", "Tulare County / elevation 525 ft band", "Tulare County / coords 35.8000, -119.1100", "Tulare County / primary ZIP 93261"]
+zillowHomeValueUsd: 262726
 ---
 
 **Engineering Notice for Richgrove:** System optimized for 166 mg/L hard water scaling factors in Richgrove. Regional dispatch grid: Tulare County.

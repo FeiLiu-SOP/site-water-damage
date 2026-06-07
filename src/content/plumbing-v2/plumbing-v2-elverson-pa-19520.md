@@ -12,6 +12,7 @@ lng: -75.8300
 zipSample: ["19520"]
 zipCodes: ["19520"]
 localPaths: ["Chester County / coords 40.1600, -75.8300", "Chester County / ZIP 19520 sector", "Chester County / primary ZIP 19520", "Chester County / elevation 679 ft band"]
+zillowHomeValueUsd: 471701
 ---
 
 **Engineering Notice for Elverson:** System optimized for 171 mg/L hard water scaling factors in Elverson. Regional dispatch grid: Chester County.

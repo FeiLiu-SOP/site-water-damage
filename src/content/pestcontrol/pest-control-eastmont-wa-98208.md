@@ -11,6 +11,7 @@ lng: -122.1800
 zipSample: ["98208"]
 zipCodes: ["98208"]
 localPaths: ["Snohomish County / coords 47.9000, -122.1800", "Snohomish County / ZIP 98208 sector", "Snohomish County / elevation 387 ft band", "Snohomish County / primary ZIP 98208"]
+zillowHomeValueUsd: 771478
 ---
 
 **Engineering Notice for Eastmont:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Snohomish County.

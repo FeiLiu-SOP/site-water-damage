@@ -12,6 +12,7 @@ lng: -77.1400
 zipSample: ["14432"]
 zipCodes: ["14432"]
 localPaths: ["Ontario County / coords 42.9600, -77.1400", "Ontario County / primary ZIP 14432", "Ontario County / ZIP 14432 sector", "Ontario County / elevation 600 ft band"]
+zillowHomeValueUsd: 241354
 ---
 
 **Engineering Notice for Clifton Springs:** System optimized for 163 mg/L hard water scaling factors in Clifton Springs. Regional dispatch grid: Ontario County.

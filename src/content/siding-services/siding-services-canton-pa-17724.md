@@ -12,6 +12,7 @@ lng: -76.8500
 zipSample: ["17724"]
 zipCodes: ["17724"]
 localPaths: ["Bradford County / ZIP 17724 sector", "Bradford County / elevation 1234 ft band", "Bradford County / coords 41.6600, -76.8500", "Bradford County / primary ZIP 17724"]
+zillowHomeValueUsd: 167554
 ---
 
 **Engineering Notice for Canton:** Envelope check: Surface Sheathing assigned to wind-load band A with stress factor 0.99. Regional dispatch grid: Bradford County.

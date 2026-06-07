@@ -11,6 +11,7 @@ lng: -81.0900
 zipSample: ["29169", "29171", "29170"]
 zipCodes: ["29169", "29171", "29170"]
 localPaths: ["Lexington County / ZIP 29170 sector", "Lexington County / ZIP 29171 sector", "Lexington County / primary ZIP 29170", "Lexington County / elevation 276 ft band", "Lexington County / ZIP 29169 sector"]
+zillowHomeValueUsd: 245223
 ---
 
 **Engineering Notice for West Columbia:** Structural loading calculated based on 276 ft terrain assessment. Regional dispatch grid: Lexington County.

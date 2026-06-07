@@ -12,6 +12,7 @@ lng: -112.0000
 zipSample: ["85139", "85138"]
 zipCodes: ["85139", "85138"]
 localPaths: ["Pinal County / coords 33.0400, -112.0000", "Pinal County / ZIP 85139 sector", "Pinal County / ZIP 85138 sector", "Pinal County / elevation 1181 ft band", "Pinal County / primary ZIP 85138"]
+zillowHomeValueUsd: 347857
 ---
 
 **Engineering Notice for Maricopa:** Structural loading calculated based on 1181 ft terrain assessment. Regional dispatch grid: Pinal County.

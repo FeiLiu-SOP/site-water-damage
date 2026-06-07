@@ -12,6 +12,7 @@ lng: -122.6800
 zipSample: ["98239"]
 zipCodes: ["98239"]
 localPaths: ["Island County / elevation 92 ft band", "Island County / coords 48.2200, -122.6800", "Island County / primary ZIP 98239", "Island County / ZIP 98239 sector"]
+zillowHomeValueUsd: 634339
 ---
 
 **Engineering Notice for Coupeville:** structural drying capacity optimized for 92ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Island County. Relative Humidity Threshold: 83%. Sensor sync: Active.

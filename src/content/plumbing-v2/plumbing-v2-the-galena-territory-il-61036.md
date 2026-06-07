@@ -12,6 +12,7 @@ lng: -90.3200
 zipSample: ["61036"]
 zipCodes: ["61036"]
 localPaths: ["Jo Daviess County / ZIP 61036 sector", "Jo Daviess County / primary ZIP 61036", "Jo Daviess County / elevation 1050 ft band", "Jo Daviess County / coords 42.4000, -90.3200"]
+zillowHomeValueUsd: 305828
 ---
 
 **Engineering Notice for The Galena Territory:** System optimized for 166 mg/L hard water scaling factors in The Galena Territory. Regional dispatch grid: Jo Daviess County.

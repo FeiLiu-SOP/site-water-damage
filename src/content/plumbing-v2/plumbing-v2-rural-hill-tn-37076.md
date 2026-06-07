@@ -12,6 +12,7 @@ lng: -86.5100
 zipSample: ["37122", "37076"]
 zipCodes: ["37122", "37076"]
 localPaths: ["Wilson County / ZIP 37122 sector", "Wilson County / ZIP 37076 sector", "Wilson County / primary ZIP 37076", "Wilson County / coords 36.1200, -86.5100", "Wilson County / elevation 577 ft band"]
+zillowHomeValueUsd: 404794
 ---
 
 **Engineering Notice for Rural Hill:** System optimized for 171 mg/L hard water scaling factors in Rural Hill. Regional dispatch grid: Wilson County.

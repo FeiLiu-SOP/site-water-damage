@@ -11,6 +11,7 @@ lng: -73.8000
 zipSample: ["12233", "12237", "12240", "12231", "12244"]
 zipCodes: ["12203", "12234", "12206", "12243", "12205", "12228", "12257", "12201", "12230", "12246", "12204", "12209"]
 localPaths: ["Albany County / coords 42.6700, -73.8000", "Albany County / primary ZIP 12208", "Albany County / ZIP 12240 sector", "Albany County / ZIP 12231 sector", "Albany County / ZIP 12233 sector"]
+zillowHomeValueUsd: 317885
 ---
 
 **Engineering Notice for Albany:** Structural loading calculated based on 233 ft terrain assessment. Regional dispatch grid: Albany County.

@@ -12,6 +12,7 @@ lng: -74.6100
 zipSample: ["12733"]
 zipCodes: ["12733"]
 localPaths: ["Sullivan County / primary ZIP 12733", "Sullivan County / coords 41.7300, -74.6100", "Sullivan County / elevation 1302 ft band", "Sullivan County / ZIP 12733 sector"]
+zillowHomeValueUsd: 323914
 ---
 
 **Engineering Notice for Fallsburg:** Wall Restoration was validated under stress factor 0.89; target tolerance set near 90 mph. Coordinates: 41.7300, -74.6100. Grid anchor: Sullivan County.

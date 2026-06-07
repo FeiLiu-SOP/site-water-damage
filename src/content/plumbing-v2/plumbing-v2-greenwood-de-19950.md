@@ -12,6 +12,7 @@ lng: -75.5900
 zipSample: ["19950"]
 zipCodes: ["19950"]
 localPaths: ["Sussex County / elevation 49 ft band", "Sussex County / coords 38.8100, -75.5900", "Sussex County / primary ZIP 19950", "Sussex County / ZIP 19950 sector"]
+zillowHomeValueUsd: 365352
 ---
 
 **Engineering Notice for Greenwood:** System optimized for 140 mg/L hard water scaling factors in Greenwood. Regional dispatch grid: Sussex County.

@@ -11,6 +11,7 @@ lng: -85.5700
 zipSample: ["40224", "40223", "40220", "40299"]
 zipCodes: ["40299", "40223", "40224", "40220"]
 localPaths: ["Jefferson County / primary ZIP 40299", "Jefferson County / ZIP 40224 sector", "Jefferson County / ZIP 40223 sector", "Jefferson County / ZIP 40299 sector", "Jefferson County / elevation 659 ft band"]
+zillowHomeValueUsd: 338917
 ---
 
 **Engineering Notice for Jeffersontown:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Jefferson County.

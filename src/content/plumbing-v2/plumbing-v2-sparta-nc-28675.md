@@ -12,6 +12,7 @@ lng: -81.1200
 zipSample: ["28675"]
 zipCodes: ["28675"]
 localPaths: ["Alleghany County / elevation 2861 ft band", "Alleghany County / primary ZIP 28675", "Alleghany County / coords 36.5000, -81.1200", "Alleghany County / ZIP 28675 sector"]
+zillowHomeValueUsd: 248359
 ---
 
 **Engineering Notice for Sparta:** System optimized for 180 mg/L hard water scaling factors in Sparta. Regional dispatch grid: Alleghany County.

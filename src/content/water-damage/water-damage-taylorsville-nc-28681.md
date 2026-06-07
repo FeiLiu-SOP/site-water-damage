@@ -12,6 +12,7 @@ lng: -81.1800
 zipSample: ["28681"]
 zipCodes: ["28681"]
 localPaths: ["Alexander County / elevation 1188 ft band", "Alexander County / primary ZIP 28681", "Alexander County / ZIP 28681 sector", "Alexander County / coords 35.9200, -81.1800"]
+zillowHomeValueUsd: 263585
 ---
 
 **Engineering Notice for Taylorsville:** structural drying capacity optimized for 1188ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Alexander County. Relative Humidity Threshold: 71%. Sensor sync: Active.

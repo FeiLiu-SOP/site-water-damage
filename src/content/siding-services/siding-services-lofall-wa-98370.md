@@ -12,6 +12,7 @@ lng: -122.6600
 zipSample: ["98370"]
 zipCodes: ["98370"]
 localPaths: ["Kitsap County / primary ZIP 98370", "Kitsap County / coords 47.8100, -122.6600", "Kitsap County / elevation 108 ft band", "Kitsap County / ZIP 98370 sector"]
+zillowHomeValueUsd: 667224
 ---
 
 **Engineering Notice for Lofall:** Structural integrity verification: Surface Sheathing calibrated for 106 mph localized wind load factor. Coordinates: 47.8100, -122.6600. Regional dispatch grid: Kitsap County.

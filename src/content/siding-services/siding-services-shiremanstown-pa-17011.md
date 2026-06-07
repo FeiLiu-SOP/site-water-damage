@@ -12,6 +12,7 @@ lng: -76.9600
 zipSample: ["17011"]
 zipCodes: ["17011"]
 localPaths: ["Cumberland County / primary ZIP 17011", "Cumberland County / coords 40.2200, -76.9600", "Cumberland County / ZIP 17011 sector", "Cumberland County / elevation 427 ft band"]
+zillowHomeValueUsd: 326916
 ---
 
 **Engineering Notice for Shiremanstown:** Wall Restoration was validated under stress factor 0.76; target tolerance set near 110 mph. Grid anchor: Cumberland County.

@@ -12,6 +12,7 @@ lng: -84.1800
 zipSample: ["48857"]
 zipCodes: ["48857"]
 localPaths: ["Shiawassee County / primary ZIP 48857", "Shiawassee County / ZIP 48857 sector", "Shiawassee County / coords 42.8400, -84.1800", "Shiawassee County / elevation 889 ft band"]
+zillowHomeValueUsd: 239519
 ---
 
 **Engineering Notice for Morrice:** System optimized for 126 mg/L hard water scaling factors in Morrice. Regional dispatch grid: Shiawassee County.

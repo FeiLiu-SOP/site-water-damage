@@ -11,6 +11,7 @@ lng: -118.0800
 zipSample: ["90702", "90701"]
 zipCodes: ["90701", "90702"]
 localPaths: ["Los Angeles County / ZIP 90702 sector", "Los Angeles County / ZIP 90701 sector", "Los Angeles County / coords 33.8700, -118.0800", "Los Angeles County / elevation 66 ft band", "Los Angeles County / primary ZIP 90701"]
+zillowHomeValueUsd: 873738
 ---
 
 **Engineering Notice for Artesia:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Los Angeles County.

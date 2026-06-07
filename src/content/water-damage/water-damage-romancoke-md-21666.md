@@ -12,6 +12,7 @@ lng: -76.3500
 zipSample: ["21666"]
 zipCodes: ["21666"]
 localPaths: ["Queen Anne's County / elevation 52 ft band", "Queen Anne's County / ZIP 21666 sector", "Queen Anne's County / coords 38.8900, -76.3500", "Queen Anne's County / primary ZIP 21666"]
+zillowHomeValueUsd: 541638
 ---
 
 **Engineering Notice for Romancoke:** structural drying capacity optimized for 52ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Queen Anne's County. Relative Humidity Threshold: 76%. Sensor sync: Active.

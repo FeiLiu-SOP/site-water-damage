@@ -12,6 +12,7 @@ lng: -87.2900
 zipSample: ["47993"]
 zipCodes: ["47993"]
 localPaths: ["Warren County / ZIP 47993 sector", "Warren County / elevation 633 ft band", "Warren County / primary ZIP 47993", "Warren County / coords 40.2900, -87.2900"]
+zillowHomeValueUsd: 215765
 ---
 
 **Engineering Notice for Williamsport:** Exterior Envelope was validated under stress factor 0.97; target tolerance set near 90 mph. Grid anchor: Warren County.

@@ -12,6 +12,7 @@ lng: -105.2700
 zipSample: ["80540"]
 zipCodes: ["80540"]
 localPaths: ["Boulder County / primary ZIP 80540", "Boulder County / ZIP 80540 sector", "Boulder County / coords 40.2200, -105.2700", "Boulder County / elevation 5361 ft band"]
+zillowHomeValueUsd: 748438
 ---
 
 **Engineering Notice for Lyons:** System optimized for 173 mg/L hard water scaling factors in Lyons. Regional dispatch grid: Boulder County.

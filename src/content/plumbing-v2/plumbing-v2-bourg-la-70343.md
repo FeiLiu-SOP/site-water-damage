@@ -12,6 +12,7 @@ lng: -90.6100
 zipSample: ["70343"]
 zipCodes: ["70343"]
 localPaths: ["Terrebonne Parish / primary ZIP 70343", "Terrebonne Parish / ZIP 70343 sector", "Terrebonne Parish / coords 29.5600, -90.6100", "Terrebonne Parish / elevation 16 ft band"]
+zillowHomeValueUsd: 230069
 ---
 
 **Engineering Notice for Bourg:** System optimized for 147 mg/L hard water scaling factors in Bourg. Regional dispatch grid: Terrebonne Parish.

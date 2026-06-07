@@ -12,6 +12,7 @@ lng: -94.0700
 zipSample: ["72947"]
 zipCodes: ["72947"]
 localPaths: ["Crawford County / primary ZIP 72947", "Crawford County / elevation 417 ft band", "Crawford County / ZIP 72947 sector", "Crawford County / coords 35.5100, -94.0700"]
+zillowHomeValueUsd: 179824
 ---
 
 **Engineering Notice for Mulberry:** Site context locked to Crawford County. Elevation: 417 ft AMSL. Coordinates: 35.5100, -94.0700. Weather Barrier Wrap integrity verification recorded.

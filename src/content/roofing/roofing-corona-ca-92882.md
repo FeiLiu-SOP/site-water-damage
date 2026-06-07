@@ -11,6 +11,7 @@ lng: -117.5600
 zipSample: ["92882", "92881", "92877", "92879", "92880"]
 zipCodes: ["92880", "92877", "92879", "92878", "92881", "92882"]
 localPaths: ["Riverside County / coords 33.8600, -117.5600", "Riverside County / ZIP 92881 sector", "Riverside County / ZIP 92882 sector", "Riverside County / ZIP 92879 sector", "Riverside County / ZIP 92877 sector"]
+zillowHomeValueUsd: 785478
 ---
 
 **Engineering Notice for Corona:** Structural loading calculated based on 846 ft terrain assessment. Regional dispatch grid: Riverside County.

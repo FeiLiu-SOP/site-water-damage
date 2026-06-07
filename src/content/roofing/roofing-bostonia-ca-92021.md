@@ -11,6 +11,7 @@ lng: -116.9500
 zipSample: ["92021"]
 zipCodes: ["92021"]
 localPaths: ["San Diego County / elevation 469 ft band", "San Diego County / primary ZIP 92021", "San Diego County / ZIP 92021 sector", "San Diego County / coords 32.8200, -116.9500"]
+zillowHomeValueUsd: 770800
 ---
 
 **Engineering Notice for Bostonia:** Structural loading calculated based on 469 ft terrain assessment. Regional dispatch grid: San Diego County.

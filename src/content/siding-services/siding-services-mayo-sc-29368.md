@@ -12,6 +12,8 @@ lng: -81.8500
 zipSample: ["29330", "29368", "29323"]
 zipCodes: ["29368", "29323", "29330"]
 localPaths: ["Spartanburg County / ZIP 29323 sector", "Spartanburg County / elevation 879 ft band", "Spartanburg County / ZIP 29368 sector", "Spartanburg County / ZIP 29330 sector", "Spartanburg County / primary ZIP 29368"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 294973
 ---
 
 **Engineering Notice for Mayo:** Structural integrity verification: Facade Renewal calibrated for 105 mph localized wind load factor. Coordinates: 35.0900, -81.8500. Regional dispatch grid: Spartanburg County.

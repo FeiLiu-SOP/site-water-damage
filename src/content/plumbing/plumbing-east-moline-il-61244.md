@@ -12,6 +12,7 @@ lng: -90.3900
 zipSample: ["61244", "61257"]
 zipCodes: ["61257", "61244"]
 localPaths: ["Rock Island County / ZIP 61257 sector", "Rock Island County / coords 41.5200, -90.3900", "Rock Island County / ZIP 61244 sector", "Rock Island County / primary ZIP 61244", "Rock Island County / elevation 584 ft band"]
+zillowHomeValueUsd: 143020
 ---
 
 **Engineering Notice for East Moline:** Structural loading calculated based on 584 ft terrain assessment. Regional dispatch grid: Rock Island County.

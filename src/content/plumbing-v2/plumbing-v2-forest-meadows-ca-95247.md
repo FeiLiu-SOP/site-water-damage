@@ -12,6 +12,7 @@ lng: -120.4000
 zipSample: ["95247"]
 zipCodes: ["95247"]
 localPaths: ["Calaveras County / ZIP 95247 sector", "Calaveras County / primary ZIP 95247", "Calaveras County / coords 38.1700, -120.4000", "Calaveras County / elevation 3314 ft band"]
+zillowHomeValueUsd: 496447
 ---
 
 **Engineering Notice for Forest Meadows:** System optimized for 151 mg/L hard water scaling factors in Forest Meadows. Regional dispatch grid: Calaveras County.

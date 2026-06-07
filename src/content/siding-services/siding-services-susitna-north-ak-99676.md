@@ -12,6 +12,7 @@ lng: -149.8600
 zipSample: ["99688", "99676"]
 zipCodes: ["99688", "99676"]
 localPaths: ["Matanuska-Susitna County / ZIP 99676 sector", "Matanuska-Susitna County / coords 62.1300, -149.8600", "Matanuska-Susitna County / elevation 0 ft band", "Matanuska-Susitna County / ZIP 99688 sector", "Matanuska-Susitna County / primary ZIP 99676"]
+zillowHomeValueUsd: 259389
 ---
 
 **Engineering Notice for Susitna North:** Cladding verification uses 97 mph routing baseline; lateral pressure note: 12.8 psf. Grid: Matanuska-Susitna County.

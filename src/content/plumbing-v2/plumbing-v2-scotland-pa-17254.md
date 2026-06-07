@@ -12,6 +12,8 @@ lng: -77.5800
 zipSample: ["17202", "17254"]
 zipCodes: ["17254", "17202"]
 localPaths: ["Franklin County / ZIP 17254 sector", "Franklin County / coords 39.9700, -77.5800", "Franklin County / elevation 702 ft band", "Franklin County / primary ZIP 17254", "Franklin County / ZIP 17202 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 261042
 ---
 
 **Engineering Notice for Scotland:** System optimized for 127 mg/L hard water scaling factors in Scotland. Regional dispatch grid: Franklin County.

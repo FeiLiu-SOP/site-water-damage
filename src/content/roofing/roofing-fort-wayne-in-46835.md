@@ -11,6 +11,7 @@ lng: -85.1400
 zipSample: ["46851", "46802", "46855", "46815", "46809"]
 zipCodes: ["46806", "46835", "46869", "46807", "46816", "46863", "46860", "46866", "46856", "46852", "46885", "46845"]
 localPaths: ["Allen County / ZIP 46815 sector", "Allen County / primary ZIP 46835", "Allen County / ZIP 46802 sector", "Allen County / coords 41.0900, -85.1400", "Allen County / ZIP 46855 sector"]
+zillowHomeValueUsd: 258386
 ---
 
 **Engineering Notice for Fort Wayne:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Allen County.

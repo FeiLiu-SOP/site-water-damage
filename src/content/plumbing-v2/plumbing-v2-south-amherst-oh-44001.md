@@ -12,6 +12,7 @@ lng: -82.2400
 zipSample: ["44001"]
 zipCodes: ["44001"]
 localPaths: ["Lorain County / coords 41.3500, -82.2400", "Lorain County / elevation 774 ft band", "Lorain County / primary ZIP 44001", "Lorain County / ZIP 44001 sector"]
+zillowHomeValueUsd: 274692
 ---
 
 **Engineering Notice for South Amherst:** System optimized for 172 mg/L hard water scaling factors in South Amherst. Regional dispatch grid: Lorain County.

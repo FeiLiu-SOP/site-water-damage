@@ -12,6 +12,7 @@ lng: -111.9200
 zipSample: ["59635"]
 zipCodes: ["59635"]
 localPaths: ["Lewis and Clark County / coords 46.5900, -111.9200", "Lewis and Clark County / ZIP 59635 sector", "Lewis and Clark County / elevation 3914 ft band", "Lewis and Clark County / primary ZIP 59635"]
+zillowHomeValueUsd: 428059
 ---
 
 **Engineering Notice for East Helena:** Structural integrity verification: Cladding Retrofit calibrated for 109 mph localized wind load factor. Coordinates: 46.5900, -111.9200. Regional dispatch grid: Lewis and Clark County.

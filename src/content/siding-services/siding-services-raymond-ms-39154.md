@@ -12,6 +12,7 @@ lng: -90.4100
 zipSample: ["39154"]
 zipCodes: ["39154"]
 localPaths: ["Hinds County / ZIP 39154 sector", "Hinds County / coords 32.2600, -90.4100", "Hinds County / primary ZIP 39154", "Hinds County / elevation 318 ft band"]
+zillowHomeValueUsd: 257602
 ---
 
 **Engineering Notice for Raymond:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Coordinates: 32.2600, -90.4100. Grid: Hinds County.

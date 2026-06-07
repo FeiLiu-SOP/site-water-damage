@@ -12,6 +12,7 @@ lng: -70.6100
 zipSample: ["02568"]
 zipCodes: ["02568"]
 localPaths: ["Dukes County / ZIP 02568 sector", "Dukes County / primary ZIP 02568", "Dukes County / elevation 56 ft band", "Dukes County / coords 41.4600, -70.6100"]
+zillowHomeValueUsd: 1342873
 ---
 
 **Engineering Notice for Vineyard Haven:** structural drying capacity optimized for 56ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dukes County. Relative Humidity Threshold: 75%. Sensor sync: Active.

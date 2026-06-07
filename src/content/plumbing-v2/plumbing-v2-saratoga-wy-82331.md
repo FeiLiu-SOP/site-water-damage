@@ -12,6 +12,7 @@ lng: -106.8100
 zipSample: ["82331"]
 zipCodes: ["82331"]
 localPaths: ["Carbon County / elevation 6804 ft band", "Carbon County / ZIP 82331 sector", "Carbon County / coords 41.4500, -106.8100", "Carbon County / primary ZIP 82331"]
+zillowHomeValueUsd: 296642
 ---
 
 **Engineering Notice for Saratoga:** System optimized for 164 mg/L hard water scaling factors in Saratoga. Regional dispatch grid: Carbon County.

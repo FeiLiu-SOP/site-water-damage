@@ -12,6 +12,8 @@ lng: -73.9700
 zipSample: ["10014", "10278", "10173", "10282", "10152"]
 zipCodes: ["10120", "10108", "10004", "10123", "10016", "10024", "10029", "10090", "10155", "10102", "10178", "10168"]
 localPaths: ["New York County / ZIP 10173 sector", "New York County / ZIP 10152 sector", "New York County / elevation 128 ft band", "New York County / ZIP 10282 sector", "New York County / coords 40.7800, -73.9700"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 504618
 ---
 
 **Engineering Notice for Manhattan:** Structural loading calculated based on 128 ft terrain assessment. Regional dispatch grid: New York County.

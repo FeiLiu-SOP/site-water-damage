@@ -11,6 +11,7 @@ lng: -80.3500
 zipSample: ["16103", "16105", "16102", "16101", "16107"]
 zipCodes: ["16102", "16107", "16101", "16103", "16105"]
 localPaths: ["Lawrence County / elevation 801 ft band", "Lawrence County / ZIP 16102 sector", "Lawrence County / primary ZIP 16102", "Lawrence County / ZIP 16103 sector", "Lawrence County / coords 41.0000, -80.3500"]
+zillowHomeValueUsd: 113564
 ---
 
 **Engineering Notice for New Castle:** Structural loading calculated based on 801 ft terrain assessment. Regional dispatch grid: Lawrence County.

@@ -12,6 +12,7 @@ lng: -71.9000
 zipSample: ["06234"]
 zipCodes: ["06234"]
 localPaths: ["Northeastern Connecticut County / ZIP 06234 sector", "Northeastern Connecticut County / primary ZIP 06234", "Northeastern Connecticut County / coords 41.8000, -71.9000", "Northeastern Connecticut County / elevation 243 ft band"]
+zillowHomeValueUsd: 409572
 ---
 
 **Engineering Notice for East Brooklyn:** System optimized for 164 mg/L hard water scaling factors in East Brooklyn. Regional dispatch grid: Northeastern Connecticut County.

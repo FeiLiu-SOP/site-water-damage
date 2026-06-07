@@ -12,6 +12,7 @@ lng: -77.4200
 zipSample: ["27874"]
 zipCodes: ["27874"]
 localPaths: ["Halifax County / coords 36.1300, -77.4200", "Halifax County / ZIP 27874 sector", "Halifax County / elevation 108 ft band", "Halifax County / primary ZIP 27874"]
+zillowHomeValueUsd: 86090
 ---
 
 **Engineering Notice for Scotland Neck:** Panel Replacement was validated under stress factor 1.06; target tolerance set near 94 mph. Coordinates: 36.1300, -77.4200. Grid anchor: Halifax County.

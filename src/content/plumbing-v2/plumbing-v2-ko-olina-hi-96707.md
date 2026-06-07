@@ -12,6 +12,7 @@ lng: -158.1200
 zipSample: ["96707"]
 zipCodes: ["96707"]
 localPaths: ["Honolulu County / primary ZIP 96707", "Honolulu County / ZIP 96707 sector", "Honolulu County / coords 21.3400, -158.1200", "Honolulu County / elevation 36 ft band"]
+zillowHomeValueUsd: 860457
 ---
 
 **Engineering Notice for Ko Olina:** System optimized for 166 mg/L hard water scaling factors in Ko Olina. Regional dispatch grid: Honolulu County.

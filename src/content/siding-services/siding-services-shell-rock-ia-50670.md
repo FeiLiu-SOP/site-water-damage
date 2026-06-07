@@ -12,6 +12,7 @@ lng: -92.5800
 zipSample: ["50670"]
 zipCodes: ["50670"]
 localPaths: ["Butler County / ZIP 50670 sector", "Butler County / elevation 915 ft band", "Butler County / primary ZIP 50670", "Butler County / coords 42.7100, -92.5800"]
+zillowHomeValueUsd: 223945
 ---
 
 **Engineering Notice for Shell Rock:** Envelope check: Cladding Retrofit assigned to wind-load band C with stress factor 0.93. Regional dispatch grid: Butler County.

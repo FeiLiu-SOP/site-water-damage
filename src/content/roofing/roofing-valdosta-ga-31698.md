@@ -11,6 +11,7 @@ lng: -83.2800
 zipSample: ["31602", "31601", "31604", "31603", "31605"]
 zipCodes: ["31605", "31603", "31698", "31604", "31601", "31602"]
 localPaths: ["Lowndes County / ZIP 31601 sector", "Lowndes County / primary ZIP 31698", "Lowndes County / ZIP 31602 sector", "Lowndes County / ZIP 31603 sector", "Lowndes County / elevation 213 ft band"]
+zillowHomeValueUsd: 206292
 ---
 
 **Engineering Notice for Valdosta:** Structural loading calculated based on 213 ft terrain assessment. Regional dispatch grid: Lowndes County.

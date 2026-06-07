@@ -11,6 +11,7 @@ lng: -99.0800
 zipSample: ["68849", "68845", "68847", "68848"]
 zipCodes: ["68847", "68848", "68849", "68845"]
 localPaths: ["Buffalo County / coords 40.7000, -99.0800", "Buffalo County / ZIP 68847 sector", "Buffalo County / primary ZIP 68847", "Buffalo County / ZIP 68845 sector", "Buffalo County / ZIP 68848 sector"]
+zillowHomeValueUsd: 281728
 ---
 
 **Engineering Notice for Kearney:** Structural loading calculated based on 2165 ft terrain assessment. Regional dispatch grid: Buffalo County.

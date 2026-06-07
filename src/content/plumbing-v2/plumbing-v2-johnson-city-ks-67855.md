@@ -12,6 +12,7 @@ lng: -101.7400
 zipSample: ["67855"]
 zipCodes: ["67855"]
 localPaths: ["Stanton County / elevation 3337 ft band", "Stanton County / coords 37.5700, -101.7400", "Stanton County / ZIP 67855 sector", "Stanton County / primary ZIP 67855"]
+zillowHomeValueUsd: 165341
 ---
 
 **Engineering Notice for Johnson City:** System optimized for 179 mg/L hard water scaling factors in Johnson City. Regional dispatch grid: Stanton County.

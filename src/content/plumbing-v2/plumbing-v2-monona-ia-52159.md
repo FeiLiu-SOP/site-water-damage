@@ -12,6 +12,7 @@ lng: -91.3900
 zipSample: ["52159"]
 zipCodes: ["52159"]
 localPaths: ["Clayton County / elevation 1204 ft band", "Clayton County / ZIP 52159 sector", "Clayton County / primary ZIP 52159", "Clayton County / coords 43.0500, -91.3900"]
+zillowHomeValueUsd: 227985
 ---
 
 **Engineering Notice for Monona:** System optimized for 167 mg/L hard water scaling factors in Monona. Regional dispatch grid: Clayton County.

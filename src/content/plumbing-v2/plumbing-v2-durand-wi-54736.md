@@ -12,6 +12,7 @@ lng: -91.9600
 zipSample: ["54736"]
 zipCodes: ["54736"]
 localPaths: ["Pepin County / coords 44.6300, -91.9600", "Pepin County / elevation 768 ft band", "Pepin County / ZIP 54736 sector", "Pepin County / primary ZIP 54736"]
+zillowHomeValueUsd: 246903
 ---
 
 **Engineering Notice for Durand:** System optimized for 136 mg/L hard water scaling factors in Durand. Regional dispatch grid: Pepin County.

@@ -12,6 +12,7 @@ lng: -95.4700
 zipSample: ["77541"]
 zipCodes: ["77541"]
 localPaths: ["Brazoria County / primary ZIP 77541", "Brazoria County / ZIP 77541 sector", "Brazoria County / elevation 16 ft band", "Brazoria County / coords 28.9800, -95.4700"]
+zillowHomeValueUsd: 197889
 ---
 
 **Engineering Notice for Jones Creek:** Cladding verification uses 141 mph routing baseline; lateral pressure note: 18.1 psf. Elevation: 16 ft AMSL. Coordinates: 28.9800, -95.4700. Grid: Brazoria County.

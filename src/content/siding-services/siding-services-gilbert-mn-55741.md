@@ -12,6 +12,7 @@ lng: -92.4600
 zipSample: ["55741", "55734"]
 zipCodes: ["55734", "55741"]
 localPaths: ["St. Louis County / elevation 1509 ft band", "St. Louis County / ZIP 55734 sector", "St. Louis County / primary ZIP 55741", "St. Louis County / coords 47.4900, -92.4600", "St. Louis County / ZIP 55741 sector"]
+zillowHomeValueUsd: 176122
 ---
 
 **Engineering Notice for Gilbert:** Envelope check: Vinyl Panels assigned to wind-load band B with stress factor 1.15. Regional dispatch grid: St. Louis County.

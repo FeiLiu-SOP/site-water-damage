@@ -12,6 +12,7 @@ lng: -87.1200
 zipSample: ["46385"]
 zipCodes: ["46385"]
 localPaths: ["Porter County / elevation 778 ft band", "Porter County / coords 41.4400, -87.1200", "Porter County / primary ZIP 46385", "Porter County / ZIP 46385 sector"]
+zillowHomeValueUsd: 368954
 ---
 
 **Engineering Notice for Aberdeen:** Envelope check: Exterior Cladding assigned to wind-load band B with stress factor 0.96. Elevation: 778 ft AMSL. Regional dispatch grid: Porter County.

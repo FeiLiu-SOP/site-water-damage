@@ -12,6 +12,7 @@ lng: -85.0900
 zipSample: ["49073"]
 zipCodes: ["49073"]
 localPaths: ["Barry County / coords 42.6000, -85.0900", "Barry County / elevation 817 ft band", "Barry County / primary ZIP 49073", "Barry County / ZIP 49073 sector"]
+zillowHomeValueUsd: 214820
 ---
 
 **Engineering Notice for Nashville:** Envelope check: Exterior Cladding assigned to wind-load band A with stress factor 1.18. Elevation: 817 ft AMSL. Regional dispatch grid: Barry County.

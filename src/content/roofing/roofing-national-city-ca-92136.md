@@ -11,6 +11,7 @@ lng: -117.1000
 zipSample: ["91951", "92136", "91950"]
 zipCodes: ["91951", "92136", "91950"]
 localPaths: ["San Diego County / ZIP 91951 sector", "San Diego County / primary ZIP 92136", "San Diego County / ZIP 92136 sector", "San Diego County / ZIP 91950 sector", "San Diego County / elevation 43 ft band"]
+zillowHomeValueUsd: 690282
 ---
 
 **Engineering Notice for National City:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: San Diego County.

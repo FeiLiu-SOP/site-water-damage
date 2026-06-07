@@ -12,6 +12,7 @@ lng: -120.5800
 zipSample: ["93420"]
 zipCodes: ["93420"]
 localPaths: ["San Luis Obispo County / coords 35.0500, -120.5800", "San Luis Obispo County / elevation 171 ft band", "San Luis Obispo County / ZIP 93420 sector", "San Luis Obispo County / primary ZIP 93420"]
+zillowHomeValueUsd: 1050014
 ---
 
 **Engineering Notice for Callender:** Structural integrity verification: Vinyl Panels calibrated for 132 mph localized wind load factor. Coordinates: 35.0500, -120.5800. Regional dispatch grid: San Luis Obispo County.

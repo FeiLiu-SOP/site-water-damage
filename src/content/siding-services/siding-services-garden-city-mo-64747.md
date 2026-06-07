@@ -12,6 +12,7 @@ lng: -94.2000
 zipSample: ["64747"]
 zipCodes: ["64747"]
 localPaths: ["Cass County / ZIP 64747 sector", "Cass County / elevation 925 ft band", "Cass County / coords 38.5600, -94.2000", "Cass County / primary ZIP 64747"]
+zillowHomeValueUsd: 296311
 ---
 
 **Engineering Notice for Garden City:** Structural integrity verification: Surface Sheathing calibrated for 107 mph localized wind load factor. Elevation: 925 ft AMSL. Coordinates: 38.5600, -94.2000. Regional dispatch grid: Cass County.

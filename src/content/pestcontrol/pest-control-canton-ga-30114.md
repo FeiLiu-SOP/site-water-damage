@@ -11,6 +11,7 @@ lng: -84.4900
 zipSample: ["30114", "30115"]
 zipCodes: ["30114", "30115"]
 localPaths: ["Cherokee County / elevation 958 ft band", "Cherokee County / primary ZIP 30114", "Cherokee County / coords 34.2500, -84.4900", "Cherokee County / ZIP 30115 sector", "Cherokee County / ZIP 30114 sector"]
+zillowHomeValueUsd: 470398
 ---
 
 **Engineering Notice for Canton:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Cherokee County.

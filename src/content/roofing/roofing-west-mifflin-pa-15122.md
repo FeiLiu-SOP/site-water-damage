@@ -11,6 +11,7 @@ lng: -79.9100
 zipSample: ["15123", "15122"]
 zipCodes: ["15122", "15123"]
 localPaths: ["Allegheny County / ZIP 15123 sector", "Allegheny County / ZIP 15122 sector", "Allegheny County / elevation 1099 ft band", "Allegheny County / primary ZIP 15122", "Allegheny County / coords 40.3600, -79.9100"]
+zillowHomeValueUsd: 160936
 ---
 
 **Engineering Notice for West Mifflin:** Structural loading calculated based on 1099 ft terrain assessment. Regional dispatch grid: Allegheny County.

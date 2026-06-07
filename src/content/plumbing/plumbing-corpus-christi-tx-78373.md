@@ -12,6 +12,7 @@ lng: -97.3800
 zipSample: ["78404", "78408", "78411", "78427", "78409"]
 zipCodes: ["78426", "78409", "78406", "78412", "78460", "78403", "78415", "78413", "78469", "78373", "78414", "78467"]
 localPaths: ["Nueces County / primary ZIP 78373", "Nueces County / ZIP 78404 sector", "Nueces County / ZIP 78409 sector", "Nueces County / coords 27.7300, -97.3800", "Nueces County / ZIP 78427 sector"]
+zillowHomeValueUsd: 527920
 ---
 
 **Engineering Notice for Corpus Christi:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Nueces County.

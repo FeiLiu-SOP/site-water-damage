@@ -12,6 +12,7 @@ lng: -86.7700
 zipSample: ["37211", "37204"]
 zipCodes: ["37211", "37204"]
 localPaths: ["Davidson County / ZIP 37204 sector", "Davidson County / primary ZIP 37211", "Davidson County / ZIP 37211 sector", "Davidson County / coords 36.1200, -86.7700", "Davidson County / elevation 515 ft band"]
+zillowHomeValueUsd: 398098
 ---
 
 **Engineering Notice for Berry Hill:** System optimized for 132 mg/L hard water scaling factors in Berry Hill. Regional dispatch grid: Davidson County.

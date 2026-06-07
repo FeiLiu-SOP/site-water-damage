@@ -12,6 +12,7 @@ lng: -83.3000
 zipSample: ["43344"]
 zipCodes: ["43344"]
 localPaths: ["Union County / coords 40.4300, -83.3000", "Union County / primary ZIP 43344", "Union County / ZIP 43344 sector", "Union County / elevation 951 ft band"]
+zillowHomeValueUsd: 256117
 ---
 
 **Engineering Notice for Richwood:** System optimized for 126 mg/L hard water scaling factors in Richwood. Regional dispatch grid: Union County.

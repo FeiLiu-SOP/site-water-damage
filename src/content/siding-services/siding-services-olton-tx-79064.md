@@ -12,6 +12,7 @@ lng: -102.1400
 zipSample: ["79064"]
 zipCodes: ["79064"]
 localPaths: ["Lamb County / ZIP 79064 sector", "Lamb County / elevation 3619 ft band", "Lamb County / coords 34.1800, -102.1400", "Lamb County / primary ZIP 79064"]
+zillowHomeValueUsd: 110199
 ---
 
 **Engineering Notice for Olton:** Cladding verification uses 148 mph routing baseline; lateral pressure note: 19.0 psf. Elevation: 3619 ft AMSL. Grid: Lamb County.

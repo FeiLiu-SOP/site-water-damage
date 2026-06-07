@@ -12,6 +12,7 @@ lng: -81.9300
 zipSample: ["25070"]
 zipCodes: ["25070"]
 localPaths: ["Putnam County / primary ZIP 25070", "Putnam County / coords 38.5400, -81.9300", "Putnam County / elevation 604 ft band", "Putnam County / ZIP 25070 sector"]
+zillowHomeValueUsd: 223593
 ---
 
 **Engineering Notice for Eleanor:** System optimized for 176 mg/L hard water scaling factors in Eleanor. Regional dispatch grid: Putnam County.

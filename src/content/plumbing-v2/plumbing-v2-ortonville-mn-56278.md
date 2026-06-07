@@ -12,6 +12,7 @@ lng: -96.4400
 zipSample: ["56278"]
 zipCodes: ["56278"]
 localPaths: ["Big Stone County / coords 45.3000, -96.4400", "Big Stone County / elevation 1043 ft band", "Big Stone County / primary ZIP 56278", "Big Stone County / ZIP 56278 sector"]
+zillowHomeValueUsd: 197203
 ---
 
 **Engineering Notice for Ortonville:** System optimized for 139 mg/L hard water scaling factors in Ortonville. Regional dispatch grid: Big Stone County.

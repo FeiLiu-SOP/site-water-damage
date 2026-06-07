@@ -12,6 +12,7 @@ lng: -93.4500
 zipSample: ["55709", "55722", "55744"]
 zipCodes: ["55744", "55722", "55709"]
 localPaths: ["Itasca County / coords 47.2600, -93.4500", "Itasca County / elevation 1391 ft band", "Itasca County / ZIP 55722 sector", "Itasca County / primary ZIP 55709", "Itasca County / ZIP 55709 sector"]
+zillowHomeValueUsd: 233888
 ---
 
 **Engineering Notice for Coleraine:** structural drying capacity optimized for 1391ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Itasca County. Relative Humidity Threshold: 82%. Sensor sync: Active.

@@ -11,6 +11,7 @@ lng: -121.9600
 zipSample: ["95032", "95030", "95036"]
 zipCodes: ["95030", "95032", "95036"]
 localPaths: ["Santa Clara County / coords 37.2300, -121.9600", "Santa Clara County / ZIP 95032 sector", "Santa Clara County / elevation 354 ft band", "Santa Clara County / ZIP 95036 sector", "Santa Clara County / ZIP 95030 sector"]
+zillowHomeValueUsd: 2648090
 ---
 
 **Engineering Notice for Los Gatos:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Santa Clara County.

@@ -11,6 +11,7 @@ lng: -70.4500
 zipSample: ["04006", "04005", "04007"]
 zipCodes: ["04006", "04005", "04007"]
 localPaths: ["York County / ZIP 04006 sector", "York County / ZIP 04007 sector", "York County / elevation 151 ft band", "York County / primary ZIP 04005", "York County / ZIP 04005 sector"]
+zillowHomeValueUsd: 499656
 ---
 
 **Engineering Notice for Biddeford:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: York County.

@@ -12,6 +12,7 @@ lng: -95.1100
 zipSample: ["67356"]
 zipCodes: ["67356"]
 localPaths: ["Labette County / primary ZIP 67356", "Labette County / coords 37.1700, -95.1100", "Labette County / elevation 919 ft band", "Labette County / ZIP 67356 sector"]
+zillowHomeValueUsd: 98719
 ---
 
 **Engineering Notice for Oswego:** Envelope check: Exterior Cladding assigned to wind-load band C with stress factor 0.85. Regional dispatch grid: Labette County.

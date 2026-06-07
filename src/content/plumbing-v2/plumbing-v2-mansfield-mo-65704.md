@@ -12,6 +12,7 @@ lng: -92.5800
 zipSample: ["65704"]
 zipCodes: ["65704"]
 localPaths: ["Wright County / elevation 1447 ft band", "Wright County / ZIP 65704 sector", "Wright County / coords 37.1100, -92.5800", "Wright County / primary ZIP 65704"]
+zillowHomeValueUsd: 201600
 ---
 
 **Engineering Notice for Mansfield:** System optimized for 132 mg/L hard water scaling factors in Mansfield. Regional dispatch grid: Wright County.

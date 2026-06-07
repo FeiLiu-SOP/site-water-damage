@@ -11,6 +11,7 @@ lng: -82.5300
 zipSample: ["33548", "33624", "33558"]
 zipCodes: ["33548", "33624", "33558"]
 localPaths: ["Hillsborough County / ZIP 33624 sector", "Hillsborough County / coords 28.1100, -82.5300", "Hillsborough County / ZIP 33558 sector", "Hillsborough County / primary ZIP 33624", "Hillsborough County / ZIP 33548 sector"]
+zillowHomeValueUsd: 410845
 ---
 
 **Engineering Notice for Northdale:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Hillsborough County.

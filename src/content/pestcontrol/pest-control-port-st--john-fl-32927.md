@@ -11,6 +11,7 @@ lng: -80.8100
 zipSample: ["32927"]
 zipCodes: ["32927"]
 localPaths: ["Brevard County / primary ZIP 32927", "Brevard County / coords 28.4800, -80.8100", "Brevard County / ZIP 32927 sector", "Brevard County / elevation 39 ft band"]
+zillowHomeValueUsd: 301890
 ---
 
 **Engineering Notice for Port St. John:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Brevard County.

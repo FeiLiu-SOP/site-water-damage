@@ -12,6 +12,7 @@ lng: -98.6000
 zipSample: ["68883"]
 zipCodes: ["68883"]
 localPaths: ["Hall County / coords 40.8200, -98.6000", "Hall County / elevation 1982 ft band", "Hall County / ZIP 68883 sector", "Hall County / primary ZIP 68883"]
+zillowHomeValueUsd: 257974
 ---
 
 **Engineering Notice for Wood River:** Cladding Retrofit was validated under stress factor 0.92; target tolerance set near 91 mph. Coordinates: 40.8200, -98.6000. Grid anchor: Hall County.

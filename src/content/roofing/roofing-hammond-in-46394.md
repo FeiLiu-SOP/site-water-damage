@@ -11,6 +11,7 @@ lng: -87.4900
 zipSample: ["46324", "46394", "46325", "46323", "46320"]
 zipCodes: ["46327", "46394", "46325", "46324", "46320", "46323"]
 localPaths: ["Lake County / ZIP 46394 sector", "Lake County / ZIP 46320 sector", "Lake County / ZIP 46324 sector", "Lake County / ZIP 46323 sector", "Lake County / ZIP 46325 sector"]
+zillowHomeValueUsd: 200719
 ---
 
 **Engineering Notice for Hammond:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Lake County.

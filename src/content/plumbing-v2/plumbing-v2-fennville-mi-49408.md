@@ -12,6 +12,7 @@ lng: -86.1100
 zipSample: ["49408"]
 zipCodes: ["49408"]
 localPaths: ["Allegan County / ZIP 49408 sector", "Allegan County / primary ZIP 49408", "Allegan County / elevation 673 ft band", "Allegan County / coords 42.5900, -86.1100"]
+zillowHomeValueUsd: 361430
 ---
 
 **Engineering Notice for Fennville:** System optimized for 122 mg/L hard water scaling factors in Fennville. Regional dispatch grid: Allegan County.

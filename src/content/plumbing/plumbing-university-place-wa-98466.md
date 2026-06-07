@@ -12,6 +12,7 @@ lng: -122.5500
 zipSample: ["98466", "98467", "98464"]
 zipCodes: ["98466", "98467", "98464"]
 localPaths: ["Pierce County / ZIP 98464 sector", "Pierce County / elevation 413 ft band", "Pierce County / coords 47.2100, -122.5500", "Pierce County / primary ZIP 98466", "Pierce County / ZIP 98467 sector"]
+zillowHomeValueUsd: 630796
 ---
 
 **Engineering Notice for University Place:** Structural loading calculated based on 413 ft terrain assessment. Regional dispatch grid: Pierce County.

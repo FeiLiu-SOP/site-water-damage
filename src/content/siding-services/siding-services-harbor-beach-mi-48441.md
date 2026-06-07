@@ -12,6 +12,7 @@ lng: -82.6600
 zipSample: ["48441"]
 zipCodes: ["48441"]
 localPaths: ["Huron County / elevation 630 ft band", "Huron County / ZIP 48441 sector", "Huron County / primary ZIP 48441", "Huron County / coords 43.8500, -82.6600"]
+zillowHomeValueUsd: 197366
 ---
 
 **Engineering Notice for Harbor Beach:** Site context locked to Huron County. Coordinates: 43.8500, -82.6600. Surface Sheathing integrity verification recorded.

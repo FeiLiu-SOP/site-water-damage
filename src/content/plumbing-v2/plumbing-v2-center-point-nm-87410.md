@@ -12,6 +12,7 @@ lng: -107.9600
 zipSample: ["87410"]
 zipCodes: ["87410"]
 localPaths: ["San Juan County / coords 36.8700, -107.9600", "San Juan County / elevation 5741 ft band", "San Juan County / primary ZIP 87410", "San Juan County / ZIP 87410 sector"]
+zillowHomeValueUsd: 275863
 ---
 
 **Engineering Notice for Center Point:** System optimized for 122 mg/L hard water scaling factors in Center Point. Regional dispatch grid: San Juan County.

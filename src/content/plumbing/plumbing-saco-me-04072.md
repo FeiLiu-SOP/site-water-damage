@@ -12,6 +12,7 @@ lng: -70.4600
 zipSample: ["04072"]
 zipCodes: ["04072"]
 localPaths: ["York County / elevation 151 ft band", "York County / primary ZIP 04072", "York County / coords 43.5400, -70.4600", "York County / ZIP 04072 sector"]
+zillowHomeValueUsd: 520384
 ---
 
 **Engineering Notice for Saco:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: York County.

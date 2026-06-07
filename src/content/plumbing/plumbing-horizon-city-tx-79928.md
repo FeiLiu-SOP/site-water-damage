@@ -12,6 +12,7 @@ lng: -106.1900
 zipSample: ["79928"]
 zipCodes: ["79928"]
 localPaths: ["El Paso County / primary ZIP 79928", "El Paso County / ZIP 79928 sector", "El Paso County / coords 31.6800, -106.1900", "El Paso County / elevation 4016 ft band"]
+zillowHomeValueUsd: 260350
 ---
 
 **Engineering Notice for Horizon City:** Structural loading calculated based on 4016 ft terrain assessment. Regional dispatch grid: El Paso County.

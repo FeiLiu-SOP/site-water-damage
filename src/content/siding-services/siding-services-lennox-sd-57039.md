@@ -12,6 +12,7 @@ lng: -96.8900
 zipSample: ["57039"]
 zipCodes: ["57039"]
 localPaths: ["Lincoln County / coords 43.3500, -96.8900", "Lincoln County / primary ZIP 57039", "Lincoln County / ZIP 57039 sector", "Lincoln County / elevation 1348 ft band"]
+zillowHomeValueUsd: 322228
 ---
 
 **Engineering Notice for Lennox:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Elevation: 1348 ft AMSL. Grid: Lincoln County.

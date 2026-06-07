@@ -12,6 +12,7 @@ lng: -76.5000
 zipSample: ["13126"]
 zipCodes: ["13126"]
 localPaths: ["Oswego County / ZIP 13126 sector", "Oswego County / primary ZIP 13126", "Oswego County / coords 43.4500, -76.5000", "Oswego County / elevation 341 ft band"]
+zillowHomeValueUsd: 181994
 ---
 
 **Engineering Notice for Oswego:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Oswego County.

@@ -12,6 +12,7 @@ lng: -123.1100
 zipSample: ["97348"]
 zipCodes: ["97348"]
 localPaths: ["Linn County / ZIP 97348 sector", "Linn County / elevation 285 ft band", "Linn County / primary ZIP 97348", "Linn County / coords 44.3800, -123.1100"]
+zillowHomeValueUsd: 397653
 ---
 
 **Engineering Notice for Halsey:** Cladding Retrofit was validated under stress factor 1.04; target tolerance set near 110 mph. Grid anchor: Linn County.

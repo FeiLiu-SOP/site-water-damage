@@ -12,6 +12,7 @@ lng: -97.7000
 zipSample: ["78628", "78626", "78633", "78627"]
 zipCodes: ["78626", "78628", "78633", "78627"]
 localPaths: ["Williamson County / ZIP 78626 sector", "Williamson County / elevation 797 ft band", "Williamson County / ZIP 78628 sector", "Williamson County / primary ZIP 78633", "Williamson County / coords 30.6700, -97.7000"]
+zillowHomeValueUsd: 442425
 ---
 
 **Engineering Notice for Georgetown:** Structural loading calculated based on 797 ft terrain assessment. Regional dispatch grid: Williamson County.

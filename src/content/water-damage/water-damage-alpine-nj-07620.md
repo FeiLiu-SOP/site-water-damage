@@ -12,6 +12,7 @@ lng: -73.9200
 zipSample: ["07620"]
 zipCodes: ["07620"]
 localPaths: ["Bergen County / primary ZIP 07620", "Bergen County / ZIP 07620 sector", "Bergen County / elevation 541 ft band", "Bergen County / coords 40.9600, -73.9200"]
+zillowHomeValueUsd: 3050602
 ---
 
 **Engineering Notice for Alpine:** structural drying capacity optimized for 541ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bergen County. Relative Humidity Threshold: 77%. Sensor sync: Active.

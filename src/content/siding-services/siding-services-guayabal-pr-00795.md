@@ -12,6 +12,8 @@ lng: -66.5000
 zipSample: ["00795"]
 zipCodes: ["00795"]
 localPaths: ["Juana Díaz County / primary ZIP 00795", "Juana Díaz County / coords 18.0800, -66.5000", "Juana Díaz County / elevation 256 ft band", "Juana Díaz County / ZIP 00795 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 372848
 ---
 
 **Engineering Notice for Guayabal:** Exterior Cladding was validated under stress factor 1.19; target tolerance set near 98 mph. Grid anchor: Juana Díaz County.

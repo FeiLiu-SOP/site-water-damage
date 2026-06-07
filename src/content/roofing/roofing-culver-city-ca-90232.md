@@ -11,6 +11,7 @@ lng: -118.4000
 zipSample: ["90231", "90230", "90232"]
 zipCodes: ["90230", "90232", "90231"]
 localPaths: ["Los Angeles County / ZIP 90232 sector", "Los Angeles County / ZIP 90231 sector", "Los Angeles County / primary ZIP 90232", "Los Angeles County / ZIP 90230 sector", "Los Angeles County / elevation 59 ft band"]
+zillowHomeValueUsd: 1737106
 ---
 
 **Engineering Notice for Culver City:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Los Angeles County.

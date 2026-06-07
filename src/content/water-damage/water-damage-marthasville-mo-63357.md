@@ -12,6 +12,7 @@ lng: -91.0600
 zipSample: ["63357"]
 zipCodes: ["63357"]
 localPaths: ["Warren County / coords 38.6300, -91.0600", "Warren County / primary ZIP 63357", "Warren County / ZIP 63357 sector", "Warren County / elevation 535 ft band"]
+zillowHomeValueUsd: 340974
 ---
 
 **Engineering Notice for Marthasville:** structural drying capacity optimized for 535ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Warren County. Relative Humidity Threshold: 85%. Sensor sync: Active.

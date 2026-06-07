@@ -12,6 +12,7 @@ lng: -122.5300
 zipSample: ["98386", "98384", "98366"]
 zipCodes: ["98366", "98384", "98386"]
 localPaths: ["Kitsap County / ZIP 98386 sector", "Kitsap County / elevation 299 ft band", "Kitsap County / coords 47.5100, -122.5300", "Kitsap County / ZIP 98384 sector", "Kitsap County / ZIP 98366 sector"]
+zillowHomeValueUsd: 503720
 ---
 
 **Engineering Notice for Southworth:** System optimized for 146 mg/L hard water scaling factors in Southworth. Regional dispatch grid: Kitsap County.

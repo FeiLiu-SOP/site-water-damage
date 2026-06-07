@@ -12,6 +12,7 @@ lng: -80.4900
 zipSample: ["32957", "32958"]
 zipCodes: ["32957", "32958"]
 localPaths: ["Indian River County / coords 27.8400, -80.4900", "Indian River County / primary ZIP 32958", "Indian River County / ZIP 32958 sector", "Indian River County / elevation 33 ft band", "Indian River County / ZIP 32957 sector"]
+zillowHomeValueUsd: 345138
 ---
 
 **Engineering Notice for Roseland:** Surface Sheathing was validated under stress factor 1.07; target tolerance set near 146 mph. Grid anchor: Indian River County.

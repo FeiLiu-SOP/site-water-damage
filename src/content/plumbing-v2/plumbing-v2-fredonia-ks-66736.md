@@ -12,6 +12,7 @@ lng: -95.8200
 zipSample: ["66736"]
 zipCodes: ["66736"]
 localPaths: ["Wilson County / elevation 912 ft band", "Wilson County / ZIP 66736 sector", "Wilson County / coords 37.5300, -95.8200", "Wilson County / primary ZIP 66736"]
+zillowHomeValueUsd: 101939
 ---
 
 **Engineering Notice for Fredonia:** System optimized for 176 mg/L hard water scaling factors in Fredonia. Regional dispatch grid: Wilson County.

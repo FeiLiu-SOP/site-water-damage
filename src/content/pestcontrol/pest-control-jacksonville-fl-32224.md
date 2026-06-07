@@ -11,6 +11,7 @@ lng: -81.6700
 zipSample: ["32228", "32220", "32254", "32216", "32227"]
 zipCodes: ["32221", "32227", "32207", "32201", "32236", "32231", "32256", "32229", "32250", "32217", "32209", "32210"]
 localPaths: ["Duval County / elevation 46 ft band", "Duval County / ZIP 32216 sector", "Duval County / ZIP 32228 sector", "Duval County / coords 30.3300, -81.6700", "Duval County / ZIP 32254 sector"]
+zillowHomeValueUsd: 454187
 ---
 
 **Engineering Notice for Jacksonville:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Duval County.

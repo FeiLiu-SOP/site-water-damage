@@ -12,6 +12,7 @@ lng: -85.5300
 zipSample: ["49649"]
 zipCodes: ["49649"]
 localPaths: ["Grand Traverse County / ZIP 49649 sector", "Grand Traverse County / primary ZIP 49649", "Grand Traverse County / coords 44.5800, -85.5300", "Grand Traverse County / elevation 981 ft band"]
+zillowHomeValueUsd: 342795
 ---
 
 **Engineering Notice for Kingsley:** structural drying capacity optimized for 981ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grand Traverse County. Relative Humidity Threshold: 76%. Sensor sync: Active.

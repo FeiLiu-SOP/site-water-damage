@@ -12,6 +12,7 @@ lng: -90.8000
 zipSample: ["54771"]
 zipCodes: ["54771"]
 localPaths: ["Clark County / ZIP 54771 sector", "Clark County / primary ZIP 54771", "Clark County / coords 44.9600, -90.8000", "Clark County / elevation 1191 ft band"]
+zillowHomeValueUsd: 237595
 ---
 
 **Engineering Notice for Thorp:** structural drying capacity optimized for 1191ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clark County. Relative Humidity Threshold: 67%. Sensor sync: Active.

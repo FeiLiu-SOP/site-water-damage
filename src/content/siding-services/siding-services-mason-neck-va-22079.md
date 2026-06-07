@@ -12,6 +12,7 @@ lng: -77.1800
 zipSample: ["22079"]
 zipCodes: ["22079"]
 localPaths: ["Fairfax County / primary ZIP 22079", "Fairfax County / elevation 43 ft band", "Fairfax County / coords 38.6600, -77.1800", "Fairfax County / ZIP 22079 sector"]
+zillowHomeValueUsd: 684787
 ---
 
 **Engineering Notice for Mason Neck:** Cladding Service was validated under stress factor 1.17; target tolerance set near 91 mph. Coordinates: 38.6600, -77.1800. Grid anchor: Fairfax County.

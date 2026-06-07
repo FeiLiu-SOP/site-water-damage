@@ -12,6 +12,7 @@ lng: -97.9500
 zipSample: ["73059"]
 zipCodes: ["73059"]
 localPaths: ["Grady County / primary ZIP 73059", "Grady County / ZIP 73059 sector", "Grady County / coords 35.3200, -97.9500", "Grady County / elevation 1332 ft band"]
+zillowHomeValueUsd: 198556
 ---
 
 **Engineering Notice for Minco:** Envelope check: Weather Barrier Wrap assigned to wind-load band B with stress factor 0.72. Regional dispatch grid: Grady County.

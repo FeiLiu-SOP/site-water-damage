@@ -12,6 +12,7 @@ lng: -86.0100
 zipSample: ["49031"]
 zipCodes: ["49031"]
 localPaths: ["Cass County / coords 41.9100, -86.0100", "Cass County / primary ZIP 49031", "Cass County / elevation 892 ft band", "Cass County / ZIP 49031 sector"]
+zillowHomeValueUsd: 275525
 ---
 
 **Engineering Notice for Cassopolis:** System optimized for 128 mg/L hard water scaling factors in Cassopolis. Regional dispatch grid: Cass County.

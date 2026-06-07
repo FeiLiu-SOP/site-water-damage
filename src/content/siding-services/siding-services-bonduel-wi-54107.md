@@ -12,6 +12,7 @@ lng: -88.4500
 zipSample: ["54107"]
 zipCodes: ["54107"]
 localPaths: ["Shawano County / coords 44.7400, -88.4500", "Shawano County / ZIP 54107 sector", "Shawano County / primary ZIP 54107", "Shawano County / elevation 866 ft band"]
+zillowHomeValueUsd: 302876
 ---
 
 **Engineering Notice for Bonduel:** Cladding verification uses 106 mph routing baseline; lateral pressure note: 13.9 psf. Elevation: 866 ft AMSL. Coordinates: 44.7400, -88.4500. Grid: Shawano County.

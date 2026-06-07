@@ -12,6 +12,7 @@ lng: -74.0800
 zipSample: ["08752"]
 zipCodes: ["08752"]
 localPaths: ["Ocean County / elevation 10 ft band", "Ocean County / primary ZIP 08752", "Ocean County / ZIP 08752 sector", "Ocean County / coords 39.9300, -74.0800"]
+zillowHomeValueUsd: 845231
 ---
 
 **Engineering Notice for Seaside Park:** System optimized for 175 mg/L hard water scaling factors in Seaside Park. Regional dispatch grid: Ocean County.

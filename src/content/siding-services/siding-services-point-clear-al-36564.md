@@ -12,6 +12,8 @@ lng: -87.9100
 zipSample: ["36532", "36564"]
 zipCodes: ["36532", "36564"]
 localPaths: ["Baldwin County / primary ZIP 36564", "Baldwin County / ZIP 36532 sector", "Baldwin County / coords 30.4900, -87.9100", "Baldwin County / elevation 43 ft band", "Baldwin County / ZIP 36564 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 216428
 ---
 
 **Engineering Notice for Point Clear:** Structural integrity verification: Wall Restoration calibrated for 110 mph localized wind load factor. Regional dispatch grid: Baldwin County.

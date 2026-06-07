@@ -11,6 +11,7 @@ lng: -98.4800
 zipSample: ["78260"]
 zipCodes: ["78260"]
 localPaths: ["Bexar County / primary ZIP 78260", "Bexar County / coords 29.7000, -98.4800", "Bexar County / elevation 1250 ft band", "Bexar County / ZIP 78260 sector"]
+zillowHomeValueUsd: 517706
 ---
 
 **Engineering Notice for Timberwood Park:** Structural loading calculated based on 1250 ft terrain assessment. Regional dispatch grid: Bexar County.

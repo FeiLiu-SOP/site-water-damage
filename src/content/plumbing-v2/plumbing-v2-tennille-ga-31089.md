@@ -12,6 +12,7 @@ lng: -82.8100
 zipSample: ["31089"]
 zipCodes: ["31089"]
 localPaths: ["Washington County / primary ZIP 31089", "Washington County / coords 32.9400, -82.8100", "Washington County / ZIP 31089 sector", "Washington County / elevation 472 ft band"]
+zillowHomeValueUsd: 135090
 ---
 
 **Engineering Notice for Tennille:** System optimized for 138 mg/L hard water scaling factors in Tennille. Regional dispatch grid: Washington County.

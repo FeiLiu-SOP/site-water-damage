@@ -12,6 +12,7 @@ lng: -94.5400
 zipSample: ["50563"]
 zipCodes: ["50563"]
 localPaths: ["Calhoun County / primary ZIP 50563", "Calhoun County / ZIP 50563 sector", "Calhoun County / coords 42.5300, -94.5400", "Calhoun County / elevation 1204 ft band"]
+zillowHomeValueUsd: 192654
 ---
 
 **Engineering Notice for Manson:** Cladding verification uses 105 mph routing baseline; lateral pressure note: 13.8 psf. Coordinates: 42.5300, -94.5400. Grid: Calhoun County.

@@ -12,6 +12,7 @@ lng: -95.4500
 zipSample: ["77583"]
 zipCodes: ["77583"]
 localPaths: ["Brazoria County / coords 29.3500, -95.4500", "Brazoria County / elevation 52 ft band", "Brazoria County / ZIP 77583 sector", "Brazoria County / primary ZIP 77583"]
+zillowHomeValueUsd: 321969
 ---
 
 **Engineering Notice for Rosharon:** Structural integrity verification: Facade Renewal calibrated for 145 mph localized wind load factor. Elevation: 52 ft AMSL. Coordinates: 29.3500, -95.4500. Regional dispatch grid: Brazoria County.

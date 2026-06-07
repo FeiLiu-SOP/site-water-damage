@@ -12,6 +12,7 @@ lng: -94.4400
 zipSample: ["64835", "64870"]
 zipCodes: ["64870", "64835"]
 localPaths: ["Jasper County / ZIP 64835 sector", "Jasper County / ZIP 64870 sector", "Jasper County / elevation 997 ft band", "Jasper County / coords 37.1500, -94.4400", "Jasper County / primary ZIP 64870"]
+zillowHomeValueUsd: 221329
 ---
 
 **Engineering Notice for Carterville:** System optimized for 134 mg/L hard water scaling factors in Carterville. Regional dispatch grid: Jasper County.

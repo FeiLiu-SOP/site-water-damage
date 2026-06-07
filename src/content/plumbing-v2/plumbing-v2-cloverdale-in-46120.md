@@ -12,6 +12,7 @@ lng: -86.8000
 zipSample: ["46120"]
 zipCodes: ["46120"]
 localPaths: ["Putnam County / ZIP 46120 sector", "Putnam County / primary ZIP 46120", "Putnam County / coords 39.5200, -86.8000", "Putnam County / elevation 797 ft band"]
+zillowHomeValueUsd: 256429
 ---
 
 **Engineering Notice for Cloverdale:** System optimized for 160 mg/L hard water scaling factors in Cloverdale. Regional dispatch grid: Putnam County.

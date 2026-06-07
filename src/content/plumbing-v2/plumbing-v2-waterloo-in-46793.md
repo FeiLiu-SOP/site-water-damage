@@ -12,6 +12,7 @@ lng: -85.0300
 zipSample: ["46793"]
 zipCodes: ["46793"]
 localPaths: ["DeKalb County / primary ZIP 46793", "DeKalb County / coords 41.4300, -85.0300", "DeKalb County / ZIP 46793 sector", "DeKalb County / elevation 925 ft band"]
+zillowHomeValueUsd: 250732
 ---
 
 **Engineering Notice for Waterloo:** System optimized for 150 mg/L hard water scaling factors in Waterloo. Regional dispatch grid: DeKalb County.

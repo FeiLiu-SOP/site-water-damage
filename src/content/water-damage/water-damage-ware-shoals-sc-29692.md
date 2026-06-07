@@ -12,6 +12,7 @@ lng: -82.2400
 zipSample: ["29692"]
 zipCodes: ["29692"]
 localPaths: ["Greenwood County / coords 34.3900, -82.2400", "Greenwood County / ZIP 29692 sector", "Greenwood County / elevation 640 ft band", "Greenwood County / primary ZIP 29692"]
+zillowHomeValueUsd: 144280
 ---
 
 **Engineering Notice for Ware Shoals:** structural drying capacity optimized for 640ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Greenwood County. Relative Humidity Threshold: 83%. Sensor sync: Active.

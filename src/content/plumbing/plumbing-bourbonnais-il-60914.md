@@ -12,6 +12,7 @@ lng: -87.8800
 zipSample: ["60914"]
 zipCodes: ["60914"]
 localPaths: ["Kankakee County / coords 41.1800, -87.8800", "Kankakee County / ZIP 60914 sector", "Kankakee County / primary ZIP 60914", "Kankakee County / elevation 696 ft band"]
+zillowHomeValueUsd: 293453
 ---
 
 **Engineering Notice for Bourbonnais:** Structural loading calculated based on 696 ft terrain assessment. Regional dispatch grid: Kankakee County.

@@ -12,6 +12,7 @@ lng: -101.8500
 zipSample: ["79041"]
 zipCodes: ["79041"]
 localPaths: ["Hale County / coords 34.0700, -101.8500", "Hale County / elevation 3425 ft band", "Hale County / ZIP 79041 sector", "Hale County / primary ZIP 79041"]
+zillowHomeValueUsd: 108927
 ---
 
 **Engineering Notice for Hale Center:** Cladding verification uses 142 mph routing baseline; lateral pressure note: 18.2 psf. Elevation: 3425 ft AMSL. Grid: Hale County.

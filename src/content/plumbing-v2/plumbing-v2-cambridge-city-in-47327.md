@@ -12,6 +12,7 @@ lng: -85.1700
 zipSample: ["47327"]
 zipCodes: ["47327"]
 localPaths: ["Wayne County / elevation 925 ft band", "Wayne County / coords 39.8100, -85.1700", "Wayne County / ZIP 47327 sector", "Wayne County / primary ZIP 47327"]
+zillowHomeValueUsd: 180822
 ---
 
 **Engineering Notice for Cambridge City:** System optimized for 168 mg/L hard water scaling factors in Cambridge City. Regional dispatch grid: Wayne County.

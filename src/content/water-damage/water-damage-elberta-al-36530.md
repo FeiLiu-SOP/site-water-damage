@@ -12,6 +12,7 @@ lng: -87.5900
 zipSample: ["36530"]
 zipCodes: ["36530"]
 localPaths: ["Baldwin County / elevation 62 ft band", "Baldwin County / coords 30.3900, -87.5900", "Baldwin County / ZIP 36530 sector", "Baldwin County / primary ZIP 36530"]
+zillowHomeValueUsd: 344467
 ---
 
 **Engineering Notice for Elberta:** structural drying capacity optimized for 62ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Baldwin County. Relative Humidity Threshold: 82%. Sensor sync: Active.

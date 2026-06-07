@@ -12,6 +12,7 @@ lng: -80.1400
 zipSample: ["33180", "33160", "33163"]
 zipCodes: ["33180", "33163", "33160"]
 localPaths: ["Miami-Dade County / ZIP 33163 sector", "Miami-Dade County / ZIP 33160 sector", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / primary ZIP 33160", "Miami-Dade County / coords 25.9600, -80.1400"]
+zillowHomeValueUsd: 516008
 ---
 
 **Engineering Notice for Aventura:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

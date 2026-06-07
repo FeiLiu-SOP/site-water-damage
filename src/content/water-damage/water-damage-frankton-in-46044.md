@@ -12,6 +12,7 @@ lng: -85.7700
 zipSample: ["46044"]
 zipCodes: ["46044"]
 localPaths: ["Madison County / elevation 856 ft band", "Madison County / coords 40.2200, -85.7700", "Madison County / primary ZIP 46044", "Madison County / ZIP 46044 sector"]
+zillowHomeValueUsd: 202087
 ---
 
 **Engineering Notice for Frankton:** structural drying capacity optimized for 856ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Madison County. Relative Humidity Threshold: 68%. Sensor sync: Active.

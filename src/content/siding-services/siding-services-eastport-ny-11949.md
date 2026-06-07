@@ -12,6 +12,7 @@ lng: -72.7300
 zipSample: ["11949", "11941"]
 zipCodes: ["11941", "11949"]
 localPaths: ["Suffolk County / elevation 66 ft band", "Suffolk County / primary ZIP 11949", "Suffolk County / ZIP 11941 sector", "Suffolk County / coords 40.8400, -72.7300", "Suffolk County / ZIP 11949 sector"]
+zillowHomeValueUsd: 704386
 ---
 
 **Engineering Notice for Eastport:** Site context locked to Suffolk County. Elevation: 66 ft AMSL. Coordinates: 40.8400, -72.7300. Panel Replacement integrity verification recorded.

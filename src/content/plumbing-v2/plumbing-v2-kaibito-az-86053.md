@@ -12,6 +12,8 @@ lng: -111.1100
 zipSample: ["86053"]
 zipCodes: ["86053"]
 localPaths: ["Coconino County / elevation 6040 ft band", "Coconino County / primary ZIP 86053", "Coconino County / ZIP 86053 sector", "Coconino County / coords 36.5900, -111.1100"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 421122
 ---
 
 **Engineering Notice for Kaibito:** System optimized for 152 mg/L hard water scaling factors in Kaibito. Regional dispatch grid: Coconino County.

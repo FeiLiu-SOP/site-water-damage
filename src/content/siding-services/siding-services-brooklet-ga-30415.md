@@ -12,6 +12,7 @@ lng: -81.6700
 zipSample: ["30415"]
 zipCodes: ["30415"]
 localPaths: ["Bulloch County / ZIP 30415 sector", "Bulloch County / primary ZIP 30415", "Bulloch County / coords 32.3900, -81.6700", "Bulloch County / elevation 187 ft band"]
+zillowHomeValueUsd: 326407
 ---
 
 **Engineering Notice for Brooklet:** Structural integrity verification: Exterior Cladding calibrated for 98 mph localized wind load factor. Elevation: 187 ft AMSL. Regional dispatch grid: Bulloch County.

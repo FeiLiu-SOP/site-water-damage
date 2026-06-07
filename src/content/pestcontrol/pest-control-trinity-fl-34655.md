@@ -11,6 +11,7 @@ lng: -82.6600
 zipSample: ["34655"]
 zipCodes: ["34655"]
 localPaths: ["Pasco County / ZIP 34655 sector", "Pasco County / elevation 43 ft band", "Pasco County / coords 28.1800, -82.6600", "Pasco County / primary ZIP 34655"]
+zillowHomeValueUsd: 378334
 ---
 
 **Engineering Notice for Trinity:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Pasco County.

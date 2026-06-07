@@ -12,6 +12,7 @@ lng: -85.1400
 zipSample: ["49094"]
 zipCodes: ["49094"]
 localPaths: ["Branch County / coords 42.0700, -85.1400", "Branch County / elevation 906 ft band", "Branch County / ZIP 49094 sector", "Branch County / primary ZIP 49094"]
+zillowHomeValueUsd: 172174
 ---
 
 **Engineering Notice for Union City:** Site context locked to Branch County. Elevation: 906 ft AMSL. Panel Replacement integrity verification recorded.

@@ -11,6 +11,7 @@ lng: -112.0400
 zipSample: ["83415", "83402", "83401", "83404"]
 zipCodes: ["83402", "83401", "83415", "83404"]
 localPaths: ["Bonneville County / ZIP 83402 sector", "Bonneville County / ZIP 83401 sector", "Bonneville County / primary ZIP 83401", "Bonneville County / ZIP 83404 sector", "Bonneville County / ZIP 83415 sector"]
+zillowHomeValueUsd: 401269
 ---
 
 **Engineering Notice for Idaho Falls:** Structural loading calculated based on 4715 ft terrain assessment. Regional dispatch grid: Bonneville County.

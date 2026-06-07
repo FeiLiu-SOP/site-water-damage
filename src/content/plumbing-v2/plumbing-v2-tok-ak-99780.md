@@ -12,6 +12,8 @@ lng: -143.0400
 zipSample: ["99780"]
 zipCodes: ["99780"]
 localPaths: ["Southeast Fairbanks County / elevation 0 ft band", "Southeast Fairbanks County / coords 63.3300, -143.0400", "Southeast Fairbanks County / primary ZIP 99780", "Southeast Fairbanks County / ZIP 99780 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 367965
 ---
 
 **Engineering Notice for Tok:** System optimized for 129 mg/L hard water scaling factors in Tok. Regional dispatch grid: Southeast Fairbanks County.

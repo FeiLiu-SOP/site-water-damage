@@ -12,6 +12,7 @@ lng: -98.5800
 zipSample: ["67526"]
 zipCodes: ["67526"]
 localPaths: ["Barton County / primary ZIP 67526", "Barton County / elevation 1818 ft band", "Barton County / coords 38.3600, -98.5800", "Barton County / ZIP 67526 sector"]
+zillowHomeValueUsd: 127004
 ---
 
 **Engineering Notice for Ellinwood:** Structural integrity verification: Panel Replacement calibrated for 103 mph localized wind load factor. Regional dispatch grid: Barton County.

@@ -12,6 +12,7 @@ lng: -83.9500
 zipSample: ["45323"]
 zipCodes: ["45323"]
 localPaths: ["Clark County / primary ZIP 45323", "Clark County / ZIP 45323 sector", "Clark County / elevation 909 ft band", "Clark County / coords 39.8700, -83.9500"]
+zillowHomeValueUsd: 239873
 ---
 
 **Engineering Notice for Green Meadows:** Facade Renewal was validated under stress factor 0.79; target tolerance set near 92 mph. Coordinates: 39.8700, -83.9500. Grid anchor: Clark County.

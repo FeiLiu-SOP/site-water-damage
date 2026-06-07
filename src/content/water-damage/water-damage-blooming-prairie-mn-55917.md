@@ -12,6 +12,7 @@ lng: -93.0600
 zipSample: ["55917"]
 zipCodes: ["55917"]
 localPaths: ["Steele County / ZIP 55917 sector", "Steele County / elevation 1296 ft band", "Steele County / coords 43.8700, -93.0600", "Steele County / primary ZIP 55917"]
+zillowHomeValueUsd: 266065
 ---
 
 **Engineering Notice for Blooming Prairie:** structural drying capacity optimized for 1296ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Steele County. Relative Humidity Threshold: 81%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -76.4900
 zipSample: ["21122"]
 zipCodes: ["21122"]
 localPaths: ["Anne Arundel County / ZIP 21122 sector", "Anne Arundel County / coords 39.1000, -76.4900", "Anne Arundel County / elevation 75 ft band", "Anne Arundel County / primary ZIP 21122"]
+zillowHomeValueUsd: 454632
 ---
 
 **Engineering Notice for Lake Shore:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Anne Arundel County.

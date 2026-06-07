@@ -12,6 +12,7 @@ lng: -80.1400
 zipSample: ["27052"]
 zipCodes: ["27052"]
 localPaths: ["Stokes County / elevation 640 ft band", "Stokes County / ZIP 27052 sector", "Stokes County / primary ZIP 27052", "Stokes County / coords 36.2900, -80.1400"]
+zillowHomeValueUsd: 240442
 ---
 
 **Engineering Notice for Walnut Cove:** Cladding verification uses 94 mph routing baseline; lateral pressure note: 12.5 psf. Grid: Stokes County.

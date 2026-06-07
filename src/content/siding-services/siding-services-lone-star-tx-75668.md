@@ -12,6 +12,7 @@ lng: -94.7100
 zipSample: ["75636", "75668"]
 zipCodes: ["75636", "75668"]
 localPaths: ["Morris County / elevation 331 ft band", "Morris County / ZIP 75668 sector", "Morris County / ZIP 75636 sector", "Morris County / coords 32.9400, -94.7100", "Morris County / primary ZIP 75668"]
+zillowHomeValueUsd: 102773
 ---
 
 **Engineering Notice for Lone Star:** Cladding verification uses 150 mph routing baseline; lateral pressure note: 19.2 psf. Elevation: 331 ft AMSL. Grid: Morris County.

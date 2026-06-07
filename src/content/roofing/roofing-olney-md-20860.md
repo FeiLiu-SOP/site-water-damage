@@ -11,6 +11,7 @@ lng: -77.0700
 zipSample: ["20833", "20853", "20906", "20832", "20830"]
 zipCodes: ["20833", "20853", "20832", "20830", "20906", "20860"]
 localPaths: ["Montgomery County / ZIP 20833 sector", "Montgomery County / primary ZIP 20860", "Montgomery County / ZIP 20832 sector", "Montgomery County / ZIP 20830 sector", "Montgomery County / ZIP 20853 sector"]
+zillowHomeValueUsd: 821806
 ---
 
 **Engineering Notice for Olney:** Structural loading calculated based on 512 ft terrain assessment. Regional dispatch grid: Montgomery County.

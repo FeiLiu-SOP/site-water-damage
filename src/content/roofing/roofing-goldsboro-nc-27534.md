@@ -11,6 +11,7 @@ lng: -77.9700
 zipSample: ["27534", "27532", "27533", "27531", "27530"]
 zipCodes: ["27531", "27533", "27532", "27530", "27534"]
 localPaths: ["Wayne County / ZIP 27532 sector", "Wayne County / ZIP 27533 sector", "Wayne County / coords 35.3800, -77.9700", "Wayne County / ZIP 27531 sector", "Wayne County / primary ZIP 27534"]
+zillowHomeValueUsd: 218739
 ---
 
 **Engineering Notice for Goldsboro:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Wayne County.

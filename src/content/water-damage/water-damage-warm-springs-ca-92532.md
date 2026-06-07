@@ -12,6 +12,7 @@ lng: -117.3300
 zipSample: ["92532"]
 zipCodes: ["92532"]
 localPaths: ["Riverside County / coords 33.7100, -117.3300", "Riverside County / elevation 1398 ft band", "Riverside County / primary ZIP 92532", "Riverside County / ZIP 92532 sector"]
+zillowHomeValueUsd: 630261
 ---
 
 **Engineering Notice for Warm Springs:** structural drying capacity optimized for 1398ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Riverside County. Relative Humidity Threshold: 79%. Sensor sync: Active.

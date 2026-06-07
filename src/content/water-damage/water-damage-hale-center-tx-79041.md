@@ -12,6 +12,7 @@ lng: -101.8500
 zipSample: ["79041"]
 zipCodes: ["79041"]
 localPaths: ["Hale County / ZIP 79041 sector", "Hale County / coords 34.0700, -101.8500", "Hale County / elevation 3425 ft band", "Hale County / primary ZIP 79041"]
+zillowHomeValueUsd: 108928
 ---
 
 **Engineering Notice for Hale Center:** structural drying capacity optimized for 3425ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hale County. Relative Humidity Threshold: 77%. Sensor sync: Active.

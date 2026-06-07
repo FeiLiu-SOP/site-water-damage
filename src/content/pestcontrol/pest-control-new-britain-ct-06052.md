@@ -11,6 +11,7 @@ lng: -72.7900
 zipSample: ["06050", "06052", "06053", "06051"]
 zipCodes: ["06052", "06053", "06051", "06050"]
 localPaths: ["Capitol County / elevation 213 ft band", "Capitol County / coords 41.6800, -72.7900", "Capitol County / ZIP 06050 sector", "Capitol County / ZIP 06051 sector", "Capitol County / primary ZIP 06052"]
+zillowHomeValueUsd: 353815
 ---
 
 **Engineering Notice for New Britain:** Structural loading calculated based on 213 ft terrain assessment. Regional dispatch grid: Capitol County.

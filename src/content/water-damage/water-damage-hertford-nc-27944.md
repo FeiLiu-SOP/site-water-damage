@@ -12,6 +12,7 @@ lng: -76.4700
 zipSample: ["27944"]
 zipCodes: ["27944"]
 localPaths: ["Perquimans County / coords 36.1800, -76.4700", "Perquimans County / ZIP 27944 sector", "Perquimans County / elevation 23 ft band", "Perquimans County / primary ZIP 27944"]
+zillowHomeValueUsd: 281509
 ---
 
 **Engineering Notice for Hertford:** structural drying capacity optimized for 23ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Perquimans County. Relative Humidity Threshold: 81%. Sensor sync: Active.

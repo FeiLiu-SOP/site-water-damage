@@ -12,6 +12,7 @@ lng: -88.4400
 zipSample: ["54936", "54937", "54935"]
 zipCodes: ["54936", "54937", "54935"]
 localPaths: ["Fond du Lac County / ZIP 54936 sector", "Fond du Lac County / elevation 768 ft band", "Fond du Lac County / ZIP 54937 sector", "Fond du Lac County / primary ZIP 54937", "Fond du Lac County / coords 43.7700, -88.4400"]
+zillowHomeValueUsd: 338918
 ---
 
 **Engineering Notice for Fond du Lac:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: Fond du Lac County.

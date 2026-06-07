@@ -12,6 +12,7 @@ lng: -76.7000
 zipSample: ["17048"]
 zipCodes: ["17048"]
 localPaths: ["Dauphin County / ZIP 17048 sector", "Dauphin County / elevation 732 ft band", "Dauphin County / primary ZIP 17048", "Dauphin County / coords 40.5600, -76.7000"]
+zillowHomeValueUsd: 156786
 ---
 
 **Engineering Notice for Lykens:** structural drying capacity optimized for 732ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dauphin County. Relative Humidity Threshold: 72%. Sensor sync: Active.

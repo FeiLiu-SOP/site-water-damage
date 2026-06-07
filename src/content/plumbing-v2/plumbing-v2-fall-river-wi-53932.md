@@ -12,6 +12,7 @@ lng: -89.0500
 zipSample: ["53932"]
 zipCodes: ["53932"]
 localPaths: ["Columbia County / coords 43.3900, -89.0500", "Columbia County / primary ZIP 53932", "Columbia County / ZIP 53932 sector", "Columbia County / elevation 860 ft band"]
+zillowHomeValueUsd: 353723
 ---
 
 **Engineering Notice for Fall River:** System optimized for 154 mg/L hard water scaling factors in Fall River. Regional dispatch grid: Columbia County.

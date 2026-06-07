@@ -12,6 +12,7 @@ lng: -89.8000
 zipSample: ["62009"]
 zipCodes: ["62009"]
 localPaths: ["Macoupin County / coords 39.0900, -89.8000", "Macoupin County / ZIP 62009 sector", "Macoupin County / primary ZIP 62009", "Macoupin County / elevation 623 ft band"]
+zillowHomeValueUsd: 70468
 ---
 
 **Engineering Notice for Benld:** System optimized for 164 mg/L hard water scaling factors in Benld. Regional dispatch grid: Macoupin County.

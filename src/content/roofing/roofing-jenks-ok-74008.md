@@ -11,6 +11,7 @@ lng: -95.9700
 zipSample: ["74037", "74008"]
 zipCodes: ["74008", "74037"]
 localPaths: ["Tulsa County / ZIP 74037 sector", "Tulsa County / coords 36.0000, -95.9700", "Tulsa County / primary ZIP 74008", "Tulsa County / ZIP 74008 sector", "Tulsa County / elevation 696 ft band"]
+zillowHomeValueUsd: 349706
 ---
 
 **Engineering Notice for Jenks:** Structural loading calculated based on 696 ft terrain assessment. Regional dispatch grid: Tulsa County.

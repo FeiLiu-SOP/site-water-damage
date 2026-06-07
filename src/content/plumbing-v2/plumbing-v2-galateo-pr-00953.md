@@ -12,6 +12,8 @@ lng: -66.2600
 zipSample: ["00953"]
 zipCodes: ["00953"]
 localPaths: ["Toa Alta County / coords 18.3600, -66.2600", "Toa Alta County / elevation 118 ft band", "Toa Alta County / ZIP 00953 sector", "Toa Alta County / primary ZIP 00953"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 373471
 ---
 
 **Engineering Notice for Galateo:** System optimized for 136 mg/L hard water scaling factors in Galateo. Regional dispatch grid: Toa Alta County.

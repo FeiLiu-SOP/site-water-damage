@@ -11,6 +11,7 @@ lng: -87.9800
 zipSample: ["53092", "53097"]
 zipCodes: ["53092", "53097"]
 localPaths: ["Ozaukee County / ZIP 53092 sector", "Ozaukee County / coords 43.2400, -87.9800", "Ozaukee County / elevation 666 ft band", "Ozaukee County / primary ZIP 53097", "Ozaukee County / ZIP 53097 sector"]
+zillowHomeValueUsd: 673236
 ---
 
 **Engineering Notice for Mequon:** Structural loading calculated based on 666 ft terrain assessment. Regional dispatch grid: Ozaukee County.

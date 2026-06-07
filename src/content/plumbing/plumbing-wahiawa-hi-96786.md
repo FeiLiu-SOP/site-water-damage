@@ -12,6 +12,7 @@ lng: -158.0200
 zipSample: ["96786"]
 zipCodes: ["96786"]
 localPaths: ["Honolulu County / elevation 991 ft band", "Honolulu County / ZIP 96786 sector", "Honolulu County / coords 21.5000, -158.0200", "Honolulu County / primary ZIP 96786"]
+zillowHomeValueUsd: 850690
 ---
 
 **Engineering Notice for Wahiawa:** Structural loading calculated based on 991 ft terrain assessment. Regional dispatch grid: Honolulu County.

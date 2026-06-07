@@ -12,6 +12,7 @@ lng: -80.5600
 zipSample: ["26034"]
 zipCodes: ["26034"]
 localPaths: ["Hancock County / ZIP 26034 sector", "Hancock County / coords 40.6100, -80.5600", "Hancock County / elevation 709 ft band", "Hancock County / primary ZIP 26034"]
+zillowHomeValueUsd: 119959
 ---
 
 **Engineering Notice for Chester:** Structural integrity verification: Cladding Retrofit calibrated for 104 mph localized wind load factor. Elevation: 709 ft AMSL. Regional dispatch grid: Hancock County.

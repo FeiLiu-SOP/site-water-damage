@@ -12,6 +12,7 @@ lng: -88.1200
 zipSample: ["53005", "53045", "53008"]
 zipCodes: ["53005", "53045", "53008"]
 localPaths: ["Waukesha County / ZIP 53005 sector", "Waukesha County / elevation 886 ft band", "Waukesha County / ZIP 53008 sector", "Waukesha County / ZIP 53045 sector", "Waukesha County / coords 43.0600, -88.1200"]
+zillowHomeValueUsd: 498298
 ---
 
 **Engineering Notice for Brookfield:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Waukesha County.

@@ -12,6 +12,7 @@ lng: -98.8500
 zipSample: ["68840"]
 zipCodes: ["68840"]
 localPaths: ["Buffalo County / primary ZIP 68840", "Buffalo County / elevation 2070 ft band", "Buffalo County / coords 40.7500, -98.8500", "Buffalo County / ZIP 68840 sector"]
+zillowHomeValueUsd: 254900
 ---
 
 **Engineering Notice for Gibbon:** Structural integrity verification: Weather Barrier Wrap calibrated for 92 mph localized wind load factor. Elevation: 2070 ft AMSL. Coordinates: 40.7500, -98.8500. Regional dispatch grid: Buffalo County.

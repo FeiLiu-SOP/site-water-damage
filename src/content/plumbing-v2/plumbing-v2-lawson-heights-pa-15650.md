@@ -12,6 +12,7 @@ lng: -79.3900
 zipSample: ["15650"]
 zipCodes: ["15650"]
 localPaths: ["Westmoreland County / elevation 1129 ft band", "Westmoreland County / primary ZIP 15650", "Westmoreland County / ZIP 15650 sector", "Westmoreland County / coords 40.2900, -79.3900"]
+zillowHomeValueUsd: 202162
 ---
 
 **Engineering Notice for Lawson Heights:** System optimized for 141 mg/L hard water scaling factors in Lawson Heights. Regional dispatch grid: Westmoreland County.

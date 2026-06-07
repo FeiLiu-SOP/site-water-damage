@@ -12,6 +12,7 @@ lng: -81.4200
 zipSample: ["32720"]
 zipCodes: ["32720"]
 localPaths: ["Lake County / ZIP 32720 sector", "Lake County / coords 29.0000, -81.4200", "Lake County / elevation 75 ft band", "Lake County / primary ZIP 32720"]
+zillowHomeValueUsd: 323575
 ---
 
 **Engineering Notice for Lake Mack-Forest Hills:** System optimized for 139 mg/L hard water scaling factors in Lake Mack-Forest Hills. Regional dispatch grid: Lake County.

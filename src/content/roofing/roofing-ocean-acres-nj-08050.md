@@ -11,6 +11,7 @@ lng: -74.2800
 zipSample: ["08050", "08005"]
 zipCodes: ["08050", "08005"]
 localPaths: ["Ocean County / coords 39.7400, -74.2800", "Ocean County / primary ZIP 08050", "Ocean County / elevation 131 ft band", "Ocean County / ZIP 08050 sector", "Ocean County / ZIP 08005 sector"]
+zillowHomeValueUsd: 583814
 ---
 
 **Engineering Notice for Ocean Acres:** Structural loading calculated based on 131 ft terrain assessment. Regional dispatch grid: Ocean County.

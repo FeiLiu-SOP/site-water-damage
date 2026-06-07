@@ -12,6 +12,7 @@ lng: -118.9800
 zipSample: ["99116"]
 zipCodes: ["99116"]
 localPaths: ["Okanogan County / elevation 1142 ft band", "Okanogan County / ZIP 99116 sector", "Okanogan County / primary ZIP 99116", "Okanogan County / coords 47.9700, -118.9800"]
+zillowHomeValueUsd: 230941
 ---
 
 **Engineering Notice for Coulee Dam:** Facade Renewal was validated under stress factor 1.20; target tolerance set near 108 mph. Grid anchor: Okanogan County.

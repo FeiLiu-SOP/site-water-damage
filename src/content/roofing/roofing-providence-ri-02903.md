@@ -11,6 +11,7 @@ lng: -71.4200
 zipSample: ["02905", "02904", "02901", "02908", "02907"]
 zipCodes: ["02903", "02908", "02901", "02905", "02902", "02918", "02906", "02907", "02940", "02904", "02912", "02909"]
 localPaths: ["Providence County / ZIP 02904 sector", "Providence County / primary ZIP 02903", "Providence County / elevation 82 ft band", "Providence County / ZIP 02901 sector", "Providence County / ZIP 02907 sector"]
+zillowHomeValueUsd: 438303
 ---
 
 **Engineering Notice for Providence:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Providence County.

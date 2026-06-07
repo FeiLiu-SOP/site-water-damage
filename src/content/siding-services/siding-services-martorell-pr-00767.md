@@ -12,6 +12,8 @@ lng: -65.9000
 zipSample: ["00767"]
 zipCodes: ["00767"]
 localPaths: ["Yabucoa County / coords 18.0700, -65.9000", "Yabucoa County / primary ZIP 00767", "Yabucoa County / elevation 92 ft band", "Yabucoa County / ZIP 00767 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 376220
 ---
 
 **Engineering Notice for Martorell:** Site context locked to Yabucoa County. Facade Renewal integrity verification recorded.

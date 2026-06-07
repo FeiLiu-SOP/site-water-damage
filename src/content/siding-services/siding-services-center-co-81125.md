@@ -12,6 +12,7 @@ lng: -106.1100
 zipSample: ["81125"]
 zipCodes: ["81125"]
 localPaths: ["Saguache County / elevation 7651 ft band", "Saguache County / primary ZIP 81125", "Saguache County / ZIP 81125 sector", "Saguache County / coords 37.7500, -106.1100"]
+zillowHomeValueUsd: 168329
 ---
 
 **Engineering Notice for Center:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Elevation: 7651 ft AMSL. Coordinates: 37.7500, -106.1100. Grid: Saguache County.

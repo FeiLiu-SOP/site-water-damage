@@ -12,6 +12,7 @@ lng: -81.1400
 zipSample: ["29170", "29172"]
 zipCodes: ["29170", "29172"]
 localPaths: ["Lexington County / ZIP 29170 sector", "Lexington County / ZIP 29172 sector", "Lexington County / elevation 184 ft band", "Lexington County / primary ZIP 29170", "Lexington County / coords 33.9100, -81.1400"]
+zillowHomeValueUsd: 245229
 ---
 
 **Engineering Notice for South Congaree:** Structural integrity verification: Panel Replacement calibrated for 100 mph localized wind load factor. Elevation: 184 ft AMSL. Coordinates: 33.9100, -81.1400. Regional dispatch grid: Lexington County.

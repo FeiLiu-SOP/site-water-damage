@@ -12,6 +12,7 @@ lng: -86.4300
 zipSample: ["37122"]
 zipCodes: ["37122"]
 localPaths: ["Wilson County / elevation 607 ft band", "Wilson County / coords 36.1200, -86.4300", "Wilson County / primary ZIP 37122", "Wilson County / ZIP 37122 sector"]
+zillowHomeValueUsd: 571616
 ---
 
 **Engineering Notice for Gladeville:** System optimized for 124 mg/L hard water scaling factors in Gladeville. Regional dispatch grid: Wilson County.

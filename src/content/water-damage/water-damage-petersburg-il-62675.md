@@ -12,6 +12,7 @@ lng: -89.8500
 zipSample: ["62675"]
 zipCodes: ["62675"]
 localPaths: ["Menard County / primary ZIP 62675", "Menard County / elevation 499 ft band", "Menard County / coords 40.0100, -89.8500", "Menard County / ZIP 62675 sector"]
+zillowHomeValueUsd: 216542
 ---
 
 **Engineering Notice for Petersburg:** structural drying capacity optimized for 499ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Menard County. Relative Humidity Threshold: 83%. Sensor sync: Active.

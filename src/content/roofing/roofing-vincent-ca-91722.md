@@ -11,6 +11,7 @@ lng: -117.9200
 zipSample: ["91702", "91722"]
 zipCodes: ["91722", "91702"]
 localPaths: ["Los Angeles County / coords 34.1000, -117.9200", "Los Angeles County / ZIP 91722 sector", "Los Angeles County / elevation 463 ft band", "Los Angeles County / ZIP 91702 sector", "Los Angeles County / primary ZIP 91722"]
+zillowHomeValueUsd: 764505
 ---
 
 **Engineering Notice for Vincent:** Structural loading calculated based on 463 ft terrain assessment. Regional dispatch grid: Los Angeles County.

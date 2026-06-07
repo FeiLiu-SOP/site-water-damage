@@ -11,6 +11,7 @@ lng: -122.2100
 zipSample: ["98033", "98034", "98039", "98083"]
 zipCodes: ["98039", "98034", "98083", "98033"]
 localPaths: ["King County / coords 47.7000, -122.2100", "King County / ZIP 98034 sector", "King County / ZIP 98039 sector", "King County / primary ZIP 98039", "King County / elevation 49 ft band"]
+zillowHomeValueUsd: 4556316
 ---
 
 **Engineering Notice for Kirkland:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: King County.

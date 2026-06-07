@@ -12,6 +12,7 @@ lng: -81.4700
 zipSample: ["28640"]
 zipCodes: ["28640"]
 localPaths: ["Ashe County / ZIP 28640 sector", "Ashe County / elevation 2913 ft band", "Ashe County / coords 36.4200, -81.4700", "Ashe County / primary ZIP 28640"]
+zillowHomeValueUsd: 360098
 ---
 
 **Engineering Notice for Jefferson:** System optimized for 120 mg/L hard water scaling factors in Jefferson. Regional dispatch grid: Ashe County.

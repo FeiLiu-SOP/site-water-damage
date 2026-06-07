@@ -11,6 +11,7 @@ lng: -73.2500
 zipSample: ["11754"]
 zipCodes: ["11754"]
 localPaths: ["Suffolk County / ZIP 11754 sector", "Suffolk County / primary ZIP 11754", "Suffolk County / elevation 174 ft band", "Suffolk County / coords 40.8900, -73.2500"]
+zillowHomeValueUsd: 737748
 ---
 
 **Engineering Notice for Kings Park:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Suffolk County.

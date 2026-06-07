@@ -11,6 +11,7 @@ lng: -105.1500
 zipSample: ["80403", "80003", "80002", "80005", "80001"]
 zipCodes: ["80007", "80003", "80004", "80403", "80006", "80002", "80001", "80005"]
 localPaths: ["Jefferson County / ZIP 80403 sector", "Jefferson County / ZIP 80002 sector", "Jefferson County / ZIP 80001 sector", "Jefferson County / ZIP 80005 sector", "Jefferson County / ZIP 80003 sector"]
+zillowHomeValueUsd: 652247
 ---
 
 **Engineering Notice for Arvada:** Structural loading calculated based on 5538 ft terrain assessment. Regional dispatch grid: Jefferson County.

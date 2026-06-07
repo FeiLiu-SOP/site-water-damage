@@ -12,6 +12,7 @@ lng: -84.9900
 zipSample: ["32320", "32329"]
 zipCodes: ["32320", "32329"]
 localPaths: ["Franklin County / elevation 43 ft band", "Franklin County / primary ZIP 32320", "Franklin County / coords 29.7300, -84.9900", "Franklin County / ZIP 32320 sector", "Franklin County / ZIP 32329 sector"]
+zillowHomeValueUsd: 282018
 ---
 
 **Engineering Notice for Apalachicola:** Exterior Envelope was validated under stress factor 1.14; target tolerance set near 145 mph. Grid anchor: Franklin County.

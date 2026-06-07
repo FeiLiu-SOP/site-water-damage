@@ -12,6 +12,7 @@ lng: -78.1400
 zipSample: ["27542"]
 zipCodes: ["27542"]
 localPaths: ["Johnston County / primary ZIP 27542", "Johnston County / coords 35.5900, -78.1400", "Johnston County / ZIP 27542 sector", "Johnston County / elevation 203 ft band"]
+zillowHomeValueUsd: 268982
 ---
 
 **Engineering Notice for Kenly:** System optimized for 126 mg/L hard water scaling factors in Kenly. Regional dispatch grid: Johnston County.

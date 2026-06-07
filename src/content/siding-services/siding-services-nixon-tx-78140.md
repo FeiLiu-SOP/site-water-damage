@@ -12,6 +12,7 @@ lng: -97.7700
 zipSample: ["78140"]
 zipCodes: ["78140"]
 localPaths: ["Gonzales County / coords 29.2700, -97.7700", "Gonzales County / primary ZIP 78140", "Gonzales County / elevation 404 ft band", "Gonzales County / ZIP 78140 sector"]
+zillowHomeValueUsd: 201033
 ---
 
 **Engineering Notice for Nixon:** Cladding Retrofit was validated under stress factor 1.18; target tolerance set near 135 mph. Coordinates: 29.2700, -97.7700. Grid anchor: Gonzales County.

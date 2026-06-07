@@ -12,6 +12,7 @@ lng: -75.0000
 zipSample: ["08344", "08360", "08361", "08362"]
 zipCodes: ["08362", "08360", "08344", "08361"]
 localPaths: ["Cumberland County / ZIP 08361 sector", "Cumberland County / ZIP 08360 sector", "Cumberland County / coords 39.4700, -75.0000", "Cumberland County / ZIP 08362 sector", "Cumberland County / ZIP 08344 sector"]
+zillowHomeValueUsd: 326791
 ---
 
 **Engineering Notice for Vineland:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Cumberland County.

@@ -12,6 +12,7 @@ lng: -84.7900
 zipSample: ["45347"]
 zipCodes: ["45347"]
 localPaths: ["Preble County / elevation 1043 ft band", "Preble County / ZIP 45347 sector", "Preble County / coords 39.8600, -84.7900", "Preble County / primary ZIP 45347"]
+zillowHomeValueUsd: 200527
 ---
 
 **Engineering Notice for New Paris:** structural drying capacity optimized for 1043ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Preble County. Relative Humidity Threshold: 71%. Sensor sync: Active.

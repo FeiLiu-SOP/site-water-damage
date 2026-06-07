@@ -12,6 +12,7 @@ lng: -92.1200
 zipSample: ["55750"]
 zipCodes: ["55750"]
 localPaths: ["St. Louis County / ZIP 55750 sector", "St. Louis County / elevation 1522 ft band", "St. Louis County / primary ZIP 55750", "St. Louis County / coords 47.5600, -92.1200"]
+zillowHomeValueUsd: 117562
 ---
 
 **Engineering Notice for Hoyt Lakes:** System optimized for 177 mg/L hard water scaling factors in Hoyt Lakes. Regional dispatch grid: St. Louis County.

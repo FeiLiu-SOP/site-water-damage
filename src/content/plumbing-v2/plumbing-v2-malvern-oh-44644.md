@@ -12,6 +12,7 @@ lng: -81.1800
 zipSample: ["44644"]
 zipCodes: ["44644"]
 localPaths: ["Carroll County / coords 40.6900, -81.1800", "Carroll County / elevation 997 ft band", "Carroll County / primary ZIP 44644", "Carroll County / ZIP 44644 sector"]
+zillowHomeValueUsd: 270720
 ---
 
 **Engineering Notice for Malvern:** System optimized for 168 mg/L hard water scaling factors in Malvern. Regional dispatch grid: Carroll County.

@@ -12,6 +12,7 @@ lng: -90.1600
 zipSample: ["61542"]
 zipCodes: ["61542"]
 localPaths: ["Fulton County / elevation 594 ft band", "Fulton County / coords 40.4000, -90.1600", "Fulton County / primary ZIP 61542", "Fulton County / ZIP 61542 sector"]
+zillowHomeValueUsd: 98387
 ---
 
 **Engineering Notice for Lewistown:** Envelope check: Exterior Cladding assigned to wind-load band A with stress factor 0.91. Elevation: 594 ft AMSL. Regional dispatch grid: Fulton County.

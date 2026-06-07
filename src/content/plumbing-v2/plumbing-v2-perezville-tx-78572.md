@@ -12,6 +12,7 @@ lng: -98.4000
 zipSample: ["78572"]
 zipCodes: ["78572"]
 localPaths: ["Hidalgo County / elevation 164 ft band", "Hidalgo County / ZIP 78572 sector", "Hidalgo County / primary ZIP 78572", "Hidalgo County / coords 26.2500, -98.4000"]
+zillowHomeValueUsd: 197884
 ---
 
 **Engineering Notice for Perezville:** System optimized for 167 mg/L hard water scaling factors in Perezville. Regional dispatch grid: Hidalgo County.

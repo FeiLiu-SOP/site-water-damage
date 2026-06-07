@@ -12,6 +12,7 @@ lng: -94.8800
 zipSample: ["56601", "56619"]
 zipCodes: ["56601", "56619"]
 localPaths: ["Beltrami County / ZIP 56601 sector", "Beltrami County / ZIP 56619 sector", "Beltrami County / primary ZIP 56601", "Beltrami County / elevation 1378 ft band", "Beltrami County / coords 47.4800, -94.8800"]
+zillowHomeValueUsd: 279437
 ---
 
 **Engineering Notice for Bemidji:** Structural loading calculated based on 1378 ft terrain assessment. Regional dispatch grid: Beltrami County.

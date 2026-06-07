@@ -12,6 +12,7 @@ lng: -79.5500
 zipSample: ["16201"]
 zipCodes: ["16201"]
 localPaths: ["Armstrong County / ZIP 16201 sector", "Armstrong County / elevation 1217 ft band", "Armstrong County / coords 40.8300, -79.5500", "Armstrong County / primary ZIP 16201"]
+zillowHomeValueUsd: 169023
 ---
 
 **Engineering Notice for West Hills:** Envelope check: Cladding Service assigned to wind-load band C with stress factor 0.92. Elevation: 1217 ft AMSL. Regional dispatch grid: Armstrong County.

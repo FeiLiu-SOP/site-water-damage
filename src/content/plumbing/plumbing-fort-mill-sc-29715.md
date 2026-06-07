@@ -12,6 +12,7 @@ lng: -80.9400
 zipSample: ["29715", "29716"]
 zipCodes: ["29715", "29716"]
 localPaths: ["York County / ZIP 29716 sector", "York County / coords 35.0100, -80.9400", "York County / ZIP 29715 sector", "York County / elevation 656 ft band", "York County / primary ZIP 29715"]
+zillowHomeValueUsd: 486345
 ---
 
 **Engineering Notice for Fort Mill:** Structural loading calculated based on 656 ft terrain assessment. Regional dispatch grid: York County.

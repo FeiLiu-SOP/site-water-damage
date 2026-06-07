@@ -12,6 +12,7 @@ lng: -81.9700
 zipSample: ["25265"]
 zipCodes: ["25265"]
 localPaths: ["Mason County / elevation 591 ft band", "Mason County / ZIP 25265 sector", "Mason County / coords 38.9900, -81.9700", "Mason County / primary ZIP 25265"]
+zillowHomeValueUsd: 125066
 ---
 
 **Engineering Notice for New Haven:** structural drying capacity optimized for 591ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mason County. Relative Humidity Threshold: 71%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -87.6300
 zipSample: ["60426"]
 zipCodes: ["60426"]
 localPaths: ["Cook County / elevation 604 ft band", "Cook County / ZIP 60426 sector", "Cook County / primary ZIP 60426", "Cook County / coords 41.6100, -87.6300"]
+zillowHomeValueUsd: 101403
 ---
 
 **Engineering Notice for Phoenix:** System optimized for 162 mg/L hard water scaling factors in Phoenix. Regional dispatch grid: Cook County.

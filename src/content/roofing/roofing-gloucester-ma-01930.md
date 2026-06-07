@@ -11,6 +11,7 @@ lng: -70.6900
 zipSample: ["01931", "01930"]
 zipCodes: ["01930", "01931"]
 localPaths: ["Essex County / elevation 3 ft band", "Essex County / coords 42.6300, -70.6900", "Essex County / ZIP 01931 sector", "Essex County / ZIP 01930 sector", "Essex County / primary ZIP 01930"]
+zillowHomeValueUsd: 760889
 ---
 
 **Engineering Notice for Gloucester:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Essex County.

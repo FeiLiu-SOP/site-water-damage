@@ -12,6 +12,7 @@ lng: -84.7400
 zipSample: ["45002"]
 zipCodes: ["45002"]
 localPaths: ["Hamilton County / elevation 778 ft band", "Hamilton County / coords 39.2300, -84.7400", "Hamilton County / ZIP 45002 sector", "Hamilton County / primary ZIP 45002"]
+zillowHomeValueUsd: 352833
 ---
 
 **Engineering Notice for Blue Jay:** System optimized for 152 mg/L hard water scaling factors in Blue Jay. Regional dispatch grid: Hamilton County.

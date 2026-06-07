@@ -12,6 +12,8 @@ lng: -65.7900
 zipSample: ["00718"]
 zipCodes: ["00718"]
 localPaths: ["Naguabo County / coords 18.2100, -65.7900", "Naguabo County / primary ZIP 00718", "Naguabo County / elevation 131 ft band", "Naguabo County / ZIP 00718 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 357242
 ---
 
 **Engineering Notice for Río Blanco:** System optimized for 159 mg/L hard water scaling factors in Río Blanco. Regional dispatch grid: Naguabo County.

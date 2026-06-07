@@ -12,6 +12,7 @@ lng: -119.8500
 zipSample: ["89507", "89533", "89599", "89523", "89505"]
 zipCodes: ["89595", "89523", "89599", "89509", "89508", "89505", "89439", "89506", "89502", "89521", "89512", "89519"]
 localPaths: ["Washoe County / ZIP 89505 sector", "Washoe County / ZIP 89533 sector", "Washoe County / ZIP 89523 sector", "Washoe County / ZIP 89507 sector", "Washoe County / coords 39.5500, -119.8500"]
+zillowHomeValueUsd: 701998
 ---
 
 **Engineering Notice for Reno:** Structural loading calculated based on 4892 ft terrain assessment. Regional dispatch grid: Washoe County.

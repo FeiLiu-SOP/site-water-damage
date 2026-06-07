@@ -12,6 +12,7 @@ lng: -95.3800
 zipSample: ["64491"]
 zipCodes: ["64491"]
 localPaths: ["Atchison County / primary ZIP 64491", "Atchison County / coords 40.4400, -95.3800", "Atchison County / ZIP 64491 sector", "Atchison County / elevation 1010 ft band"]
+zillowHomeValueUsd: 125847
 ---
 
 **Engineering Notice for Tarkio:** Cladding verification uses 98 mph routing baseline; lateral pressure note: 13.0 psf. Grid: Atchison County.

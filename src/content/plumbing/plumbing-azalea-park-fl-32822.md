@@ -12,6 +12,7 @@ lng: -81.3000
 zipSample: ["32807", "32857", "32822"]
 zipCodes: ["32807", "32857", "32822"]
 localPaths: ["Orange County / coords 28.5500, -81.3000", "Orange County / ZIP 32807 sector", "Orange County / ZIP 32822 sector", "Orange County / primary ZIP 32822", "Orange County / elevation 108 ft band"]
+zillowHomeValueUsd: 263058
 ---
 
 **Engineering Notice for Azalea Park:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Orange County.

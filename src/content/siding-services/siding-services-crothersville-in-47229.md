@@ -12,6 +12,7 @@ lng: -85.8400
 zipSample: ["47229"]
 zipCodes: ["47229"]
 localPaths: ["Jackson County / elevation 564 ft band", "Jackson County / coords 38.7900, -85.8400", "Jackson County / ZIP 47229 sector", "Jackson County / primary ZIP 47229"]
+zillowHomeValueUsd: 196842
 ---
 
 **Engineering Notice for Crothersville:** Exterior Cladding was validated under stress factor 1.20; target tolerance set near 100 mph. Coordinates: 38.7900, -85.8400. Grid anchor: Jackson County.

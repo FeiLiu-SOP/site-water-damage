@@ -12,6 +12,7 @@ lng: -92.0300
 zipSample: ["54829"]
 zipCodes: ["54829"]
 localPaths: ["Barron County / elevation 1257 ft band", "Barron County / ZIP 54829 sector", "Barron County / primary ZIP 54829", "Barron County / coords 45.5400, -92.0300"]
+zillowHomeValueUsd: 321448
 ---
 
 **Engineering Notice for Cumberland:** structural drying capacity optimized for 1257ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Barron County. Relative Humidity Threshold: 84%. Sensor sync: Active.

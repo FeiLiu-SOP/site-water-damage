@@ -12,6 +12,7 @@ lng: -79.4300
 zipSample: ["29565"]
 zipCodes: ["29565"]
 localPaths: ["Dillon County / elevation 102 ft band", "Dillon County / ZIP 29565 sector", "Dillon County / coords 34.3400, -79.4300", "Dillon County / primary ZIP 29565"]
+zillowHomeValueUsd: 118080
 ---
 
 **Engineering Notice for Latta:** System optimized for 144 mg/L hard water scaling factors in Latta. Regional dispatch grid: Dillon County.

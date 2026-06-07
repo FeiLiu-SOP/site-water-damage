@@ -11,6 +11,7 @@ lng: -94.3000
 zipSample: ["72719", "72713"]
 zipCodes: ["72713", "72719"]
 localPaths: ["Benton County / elevation 1309 ft band", "Benton County / ZIP 72719 sector", "Benton County / ZIP 72713 sector", "Benton County / primary ZIP 72713", "Benton County / coords 36.3600, -94.3000"]
+zillowHomeValueUsd: 454979
 ---
 
 **Engineering Notice for Centerton:** Structural loading calculated based on 1309 ft terrain assessment. Regional dispatch grid: Benton County.

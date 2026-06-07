@@ -12,6 +12,7 @@ lng: -98.1000
 zipSample: ["57445"]
 zipCodes: ["57445"]
 localPaths: ["Brown County / ZIP 57445 sector", "Brown County / primary ZIP 57445", "Brown County / elevation 1302 ft band", "Brown County / coords 45.4500, -98.1000"]
+zillowHomeValueUsd: 237594
 ---
 
 **Engineering Notice for Groton:** structural drying capacity optimized for 1302ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Brown County. Relative Humidity Threshold: 71%. Sensor sync: Active.

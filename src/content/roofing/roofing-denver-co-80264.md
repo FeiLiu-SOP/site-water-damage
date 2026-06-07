@@ -11,6 +11,7 @@ lng: -104.8800
 zipSample: ["80230", "80205", "80256", "80248", "80207"]
 zipCodes: ["80123", "80220", "80230", "80247", "80236", "80235", "80210", "80227", "80209", "80238", "80259", "80202"]
 localPaths: ["Denver County / coords 39.7600, -104.8800", "Denver County / ZIP 80207 sector", "Denver County / ZIP 80248 sector", "Denver County / ZIP 80230 sector", "Denver County / ZIP 80205 sector"]
+zillowHomeValueUsd: 427031
 ---
 
 **Engineering Notice for Denver:** Structural loading calculated based on 5285 ft terrain assessment. Regional dispatch grid: Denver County.

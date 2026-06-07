@@ -12,6 +12,7 @@ lng: -80.4100
 zipSample: ["15052", "15009"]
 zipCodes: ["15052", "15009"]
 localPaths: ["Beaver County / coords 40.6600, -80.4100", "Beaver County / elevation 1129 ft band", "Beaver County / ZIP 15009 sector", "Beaver County / primary ZIP 15009", "Beaver County / ZIP 15052 sector"]
+zillowHomeValueUsd: 270192
 ---
 
 **Engineering Notice for Industry:** Site context locked to Beaver County. Elevation: 1129 ft AMSL. Coordinates: 40.6600, -80.4100. Vinyl Panels integrity verification recorded.

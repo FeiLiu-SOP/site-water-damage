@@ -11,6 +11,7 @@ lng: -122.1000
 zipSample: ["94024", "94022", "94023"]
 zipCodes: ["94023", "94022", "94024"]
 localPaths: ["Santa Clara County / ZIP 94024 sector", "Santa Clara County / coords 37.3700, -122.1000", "Santa Clara County / ZIP 94022 sector", "Santa Clara County / ZIP 94023 sector", "Santa Clara County / primary ZIP 94022"]
+zillowHomeValueUsd: 5191318
 ---
 
 **Engineering Notice for Los Altos:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Santa Clara County.

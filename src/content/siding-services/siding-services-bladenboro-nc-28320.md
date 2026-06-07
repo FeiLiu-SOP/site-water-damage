@@ -12,6 +12,7 @@ lng: -78.8000
 zipSample: ["28320"]
 zipCodes: ["28320"]
 localPaths: ["Bladen County / ZIP 28320 sector", "Bladen County / coords 34.5400, -78.8000", "Bladen County / elevation 108 ft band", "Bladen County / primary ZIP 28320"]
+zillowHomeValueUsd: 136679
 ---
 
 **Engineering Notice for Bladenboro:** Exterior Envelope was validated under stress factor 1.21; target tolerance set near 93 mph. Coordinates: 34.5400, -78.8000. Grid anchor: Bladen County.

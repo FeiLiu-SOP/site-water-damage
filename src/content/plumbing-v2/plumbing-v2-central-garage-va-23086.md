@@ -12,6 +12,7 @@ lng: -77.1300
 zipSample: ["23009", "23086"]
 zipCodes: ["23009", "23086"]
 localPaths: ["King William County / ZIP 23009 sector", "King William County / coords 37.7500, -77.1300", "King William County / ZIP 23086 sector", "King William County / elevation 174 ft band", "King William County / primary ZIP 23086"]
+zillowHomeValueUsd: 351291
 ---
 
 **Engineering Notice for Central Garage:** System optimized for 156 mg/L hard water scaling factors in Central Garage. Regional dispatch grid: King William County.

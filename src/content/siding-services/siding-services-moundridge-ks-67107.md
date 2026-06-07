@@ -12,6 +12,7 @@ lng: -97.5200
 zipSample: ["67107"]
 zipCodes: ["67107"]
 localPaths: ["McPherson County / primary ZIP 67107", "McPherson County / elevation 1499 ft band", "McPherson County / ZIP 67107 sector", "McPherson County / coords 38.2000, -97.5200"]
+zillowHomeValueUsd: 238790
 ---
 
 **Engineering Notice for Moundridge:** Exterior Cladding was validated under stress factor 0.94; target tolerance set near 102 mph. Coordinates: 38.2000, -97.5200. Grid anchor: McPherson County.

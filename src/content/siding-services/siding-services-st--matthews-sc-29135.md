@@ -12,6 +12,7 @@ lng: -80.7800
 zipSample: ["29135"]
 zipCodes: ["29135"]
 localPaths: ["Calhoun County / elevation 285 ft band", "Calhoun County / coords 33.6600, -80.7800", "Calhoun County / ZIP 29135 sector", "Calhoun County / primary ZIP 29135"]
+zillowHomeValueUsd: 177515
 ---
 
 **Engineering Notice for St. Matthews:** Site context locked to Calhoun County. Coordinates: 33.6600, -80.7800. Vinyl Panels integrity verification recorded.

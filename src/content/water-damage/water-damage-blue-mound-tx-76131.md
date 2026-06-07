@@ -12,6 +12,7 @@ lng: -97.3400
 zipSample: ["76131"]
 zipCodes: ["76131"]
 localPaths: ["Tarrant County / coords 32.8500, -97.3400", "Tarrant County / ZIP 76131 sector", "Tarrant County / primary ZIP 76131", "Tarrant County / elevation 682 ft band"]
+zillowHomeValueUsd: 337718
 ---
 
 **Engineering Notice for Blue Mound:** structural drying capacity optimized for 682ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tarrant County. Relative Humidity Threshold: 84%. Sensor sync: Active.

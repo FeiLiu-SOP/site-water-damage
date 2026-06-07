@@ -12,6 +12,7 @@ lng: -87.0900
 zipSample: ["47970"]
 zipCodes: ["47970"]
 localPaths: ["Tippecanoe County / coords 40.4900, -87.0900", "Tippecanoe County / ZIP 47970 sector", "Tippecanoe County / elevation 705 ft band", "Tippecanoe County / primary ZIP 47970"]
+zillowHomeValueUsd: 213404
 ---
 
 **Engineering Notice for Otterbein:** System optimized for 132 mg/L hard water scaling factors in Otterbein. Regional dispatch grid: Tippecanoe County.

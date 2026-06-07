@@ -11,6 +11,7 @@ lng: -77.4400
 zipSample: ["20111"]
 zipCodes: ["20111"]
 localPaths: ["Manassas Park County / coords 38.7700, -77.4400", "Manassas Park County / ZIP 20111 sector", "Manassas Park County / elevation 285 ft band", "Manassas Park County / primary ZIP 20111"]
+zillowHomeValueUsd: 520386
 ---
 
 **Engineering Notice for Manassas Park:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Manassas Park County.

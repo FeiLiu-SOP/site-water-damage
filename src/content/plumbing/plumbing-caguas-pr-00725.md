@@ -12,6 +12,8 @@ lng: -66.0400
 zipSample: ["00725", "00726", "00727"]
 zipCodes: ["00726", "00725", "00727"]
 localPaths: ["Caguas County / elevation 253 ft band", "Caguas County / ZIP 00726 sector", "Caguas County / coords 18.2300, -66.0400", "Caguas County / primary ZIP 00725", "Caguas County / ZIP 00727 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 366120
 ---
 
 **Engineering Notice for Caguas:** Structural loading calculated based on 253 ft terrain assessment. Regional dispatch grid: Caguas County.

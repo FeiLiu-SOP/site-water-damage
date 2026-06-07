@@ -12,6 +12,7 @@ lng: -80.1200
 zipSample: ["28127", "28009"]
 zipCodes: ["28127", "28009"]
 localPaths: ["Stanly County / elevation 525 ft band", "Stanly County / coords 35.4100, -80.1200", "Stanly County / ZIP 28127 sector", "Stanly County / primary ZIP 28127", "Stanly County / ZIP 28009 sector"]
+zillowHomeValueUsd: 314840
 ---
 
 **Engineering Notice for Badin:** System optimized for 167 mg/L hard water scaling factors in Badin. Regional dispatch grid: Stanly County.

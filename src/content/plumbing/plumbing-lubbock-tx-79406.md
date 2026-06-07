@@ -12,6 +12,7 @@ lng: -101.8900
 zipSample: ["79464", "79412", "79411", "79409", "79452"]
 zipCodes: ["79413", "79407", "79406", "79409", "79452", "79411", "79402", "79415", "79493", "79412", "79414", "79423"]
 localPaths: ["Lubbock County / ZIP 79452 sector", "Lubbock County / primary ZIP 79406", "Lubbock County / ZIP 79409 sector", "Lubbock County / elevation 3232 ft band", "Lubbock County / coords 33.5700, -101.8900"]
+zillowHomeValueUsd: 298220
 ---
 
 **Engineering Notice for Lubbock:** Structural loading calculated based on 3232 ft terrain assessment. Regional dispatch grid: Lubbock County.

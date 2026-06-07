@@ -12,6 +12,7 @@ lng: -110.4400
 zipSample: ["85602"]
 zipCodes: ["85602"]
 localPaths: ["Cochise County / coords 31.9700, -110.4400", "Cochise County / primary ZIP 85602", "Cochise County / elevation 4160 ft band", "Cochise County / ZIP 85602 sector"]
+zillowHomeValueUsd: 252914
 ---
 
 **Engineering Notice for Mescal:** Site context locked to Cochise County. Panel Replacement integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -97.0100
 zipSample: ["76240"]
 zipCodes: ["76240"]
 localPaths: ["Cooke County / ZIP 76240 sector", "Cooke County / elevation 725 ft band", "Cooke County / coords 33.5700, -97.0100", "Cooke County / primary ZIP 76240"]
+zillowHomeValueUsd: 278370
 ---
 
 **Engineering Notice for Lake Kiowa:** System optimized for 168 mg/L hard water scaling factors in Lake Kiowa. Regional dispatch grid: Cooke County.

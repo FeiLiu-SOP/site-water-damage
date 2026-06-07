@@ -12,6 +12,7 @@ lng: -83.3300
 zipSample: ["31031"]
 zipCodes: ["31031"]
 localPaths: ["Wilkinson County / ZIP 31031 sector", "Wilkinson County / primary ZIP 31031", "Wilkinson County / elevation 381 ft band", "Wilkinson County / coords 32.8900, -83.3300"]
+zillowHomeValueUsd: 143159
 ---
 
 **Engineering Notice for Gordon:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Grid: Wilkinson County.

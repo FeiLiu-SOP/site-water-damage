@@ -12,6 +12,7 @@ lng: -88.4000
 zipSample: ["53153"]
 zipCodes: ["53153"]
 localPaths: ["Waukesha County / primary ZIP 53153", "Waukesha County / elevation 955 ft band", "Waukesha County / ZIP 53153 sector", "Waukesha County / coords 42.9400, -88.4000"]
+zillowHomeValueUsd: 495767
 ---
 
 **Engineering Notice for North Prairie:** System optimized for 139 mg/L hard water scaling factors in North Prairie. Regional dispatch grid: Waukesha County.

@@ -12,6 +12,7 @@ lng: -84.9200
 zipSample: ["49076"]
 zipCodes: ["49076"]
 localPaths: ["Eaton County / primary ZIP 49076", "Eaton County / coords 42.4400, -84.9200", "Eaton County / elevation 935 ft band", "Eaton County / ZIP 49076 sector"]
+zillowHomeValueUsd: 228422
 ---
 
 **Engineering Notice for Olivet:** Surface Sheathing was validated under stress factor 1.14; target tolerance set near 93 mph. Coordinates: 42.4400, -84.9200. Grid anchor: Eaton County.

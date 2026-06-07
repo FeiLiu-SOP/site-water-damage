@@ -12,6 +12,7 @@ lng: -107.5900
 zipSample: ["81428"]
 zipCodes: ["81428"]
 localPaths: ["Delta County / primary ZIP 81428", "Delta County / elevation 5702 ft band", "Delta County / coords 38.8700, -107.5900", "Delta County / ZIP 81428 sector"]
+zillowHomeValueUsd: 464853
 ---
 
 **Engineering Notice for Paonia:** Exterior Cladding was validated under stress factor 0.94; target tolerance set near 107 mph. Coordinates: 38.8700, -107.5900. Grid anchor: Delta County.

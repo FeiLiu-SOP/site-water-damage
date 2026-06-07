@@ -12,6 +12,7 @@ lng: -90.7900
 zipSample: ["63343"]
 zipCodes: ["63343"]
 localPaths: ["Lincoln County / coords 39.1700, -90.7900", "Lincoln County / elevation 492 ft band", "Lincoln County / ZIP 63343 sector", "Lincoln County / primary ZIP 63343"]
+zillowHomeValueUsd: 208550
 ---
 
 **Engineering Notice for Elsberry:** Structural integrity verification: Wall Restoration calibrated for 109 mph localized wind load factor. Regional dispatch grid: Lincoln County.

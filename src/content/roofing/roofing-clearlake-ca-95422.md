@@ -11,6 +11,7 @@ lng: -122.6300
 zipSample: ["95424", "95422"]
 zipCodes: ["95422", "95424"]
 localPaths: ["Lake County / elevation 1362 ft band", "Lake County / ZIP 95424 sector", "Lake County / primary ZIP 95422", "Lake County / ZIP 95422 sector", "Lake County / coords 38.9600, -122.6300"]
+zillowHomeValueUsd: 202450
 ---
 
 **Engineering Notice for Clearlake:** Structural loading calculated based on 1362 ft terrain assessment. Regional dispatch grid: Lake County.

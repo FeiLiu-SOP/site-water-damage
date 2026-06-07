@@ -12,6 +12,7 @@ lng: -94.8900
 zipSample: ["64098"]
 zipCodes: ["64098"]
 localPaths: ["Platte County / elevation 935 ft band", "Platte County / primary ZIP 64098", "Platte County / ZIP 64098 sector", "Platte County / coords 39.4000, -94.8900"]
+zillowHomeValueUsd: 371535
 ---
 
 **Engineering Notice for Weston:** Surface Sheathing was validated under stress factor 0.78; target tolerance set near 90 mph. Coordinates: 39.4000, -94.8900. Grid anchor: Platte County.

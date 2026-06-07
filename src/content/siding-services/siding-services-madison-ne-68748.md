@@ -12,6 +12,7 @@ lng: -97.4600
 zipSample: ["68748"]
 zipCodes: ["68748"]
 localPaths: ["Madison County / primary ZIP 68748", "Madison County / elevation 1581 ft band", "Madison County / coords 41.8300, -97.4600", "Madison County / ZIP 68748 sector"]
+zillowHomeValueUsd: 214272
 ---
 
 **Engineering Notice for Madison:** Structural integrity verification: Panel Replacement calibrated for 101 mph localized wind load factor. Regional dispatch grid: Madison County.

@@ -12,6 +12,7 @@ lng: -81.9300
 zipSample: ["32179", "32183"]
 zipCodes: ["32179", "32183"]
 localPaths: ["Marion County / elevation 102 ft band", "Marion County / ZIP 32179 sector", "Marion County / ZIP 32183 sector", "Marion County / primary ZIP 32179", "Marion County / coords 29.0400, -81.9300"]
+zillowHomeValueUsd: 243924
 ---
 
 **Engineering Notice for Ocklawaha:** System optimized for 120 mg/L hard water scaling factors in Ocklawaha. Regional dispatch grid: Marion County.

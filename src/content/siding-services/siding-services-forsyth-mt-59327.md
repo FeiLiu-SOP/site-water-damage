@@ -12,6 +12,7 @@ lng: -106.6700
 zipSample: ["59327"]
 zipCodes: ["59327"]
 localPaths: ["Rosebud County / elevation 2523 ft band", "Rosebud County / ZIP 59327 sector", "Rosebud County / coords 46.2700, -106.6700", "Rosebud County / primary ZIP 59327"]
+zillowHomeValueUsd: 223204
 ---
 
 **Engineering Notice for Forsyth:** Structural integrity verification: Exterior Envelope calibrated for 100 mph localized wind load factor. Elevation: 2523 ft AMSL. Coordinates: 46.2700, -106.6700. Regional dispatch grid: Rosebud County.

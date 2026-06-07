@@ -11,6 +11,7 @@ lng: -106.7800
 zipSample: ["87031"]
 zipCodes: ["87031"]
 localPaths: ["Valencia County / coords 34.8100, -106.7800", "Valencia County / primary ZIP 87031", "Valencia County / elevation 5033 ft band", "Valencia County / ZIP 87031 sector"]
+zillowHomeValueUsd: 323884
 ---
 
 **Engineering Notice for Los Lunas:** Structural loading calculated based on 5033 ft terrain assessment. Regional dispatch grid: Valencia County.

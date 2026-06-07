@@ -12,6 +12,7 @@ lng: -84.4000
 zipSample: ["45227"]
 zipCodes: ["45227"]
 localPaths: ["Hamilton County / ZIP 45227 sector", "Hamilton County / elevation 548 ft band", "Hamilton County / primary ZIP 45227", "Hamilton County / coords 39.1400, -84.4000"]
+zillowHomeValueUsd: 286919
 ---
 
 **Engineering Notice for Fairfax:** Cladding verification uses 108 mph routing baseline; lateral pressure note: 14.2 psf. Elevation: 548 ft AMSL. Coordinates: 39.1400, -84.4000. Grid: Hamilton County.

@@ -12,6 +12,7 @@ lng: -82.5100
 zipSample: ["33614"]
 zipCodes: ["33614"]
 localPaths: ["Hillsborough County / primary ZIP 33614", "Hillsborough County / ZIP 33614 sector", "Hillsborough County / coords 28.0200, -82.5100", "Hillsborough County / elevation 46 ft band"]
+zillowHomeValueUsd: 348781
 ---
 
 **Engineering Notice for Egypt Lake-Leto:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Hillsborough County.

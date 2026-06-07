@@ -12,6 +12,7 @@ lng: -122.9000
 zipSample: ["98502", "98508", "98501", "98506", "98507"]
 zipCodes: ["98508", "98506", "98507", "98501", "98504", "98502"]
 localPaths: ["Thurston County / ZIP 98502 sector", "Thurston County / ZIP 98506 sector", "Thurston County / ZIP 98507 sector", "Thurston County / primary ZIP 98502", "Thurston County / elevation 30 ft band"]
+zillowHomeValueUsd: 574255
 ---
 
 **Engineering Notice for Olympia:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Thurston County.

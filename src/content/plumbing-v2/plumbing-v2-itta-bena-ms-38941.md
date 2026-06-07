@@ -12,6 +12,7 @@ lng: -90.3300
 zipSample: ["38941"]
 zipCodes: ["38941"]
 localPaths: ["Leflore County / coords 33.5000, -90.3300", "Leflore County / elevation 118 ft band", "Leflore County / primary ZIP 38941", "Leflore County / ZIP 38941 sector"]
+zillowHomeValueUsd: 52441
 ---
 
 **Engineering Notice for Itta Bena:** System optimized for 144 mg/L hard water scaling factors in Itta Bena. Regional dispatch grid: Leflore County.

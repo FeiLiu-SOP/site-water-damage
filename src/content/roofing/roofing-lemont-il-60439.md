@@ -11,6 +11,7 @@ lng: -87.9800
 zipSample: ["60439"]
 zipCodes: ["60439"]
 localPaths: ["Cook County / primary ZIP 60439", "Cook County / ZIP 60439 sector", "Cook County / coords 41.6700, -87.9800", "Cook County / elevation 745 ft band"]
+zillowHomeValueUsd: 569562
 ---
 
 **Engineering Notice for Lemont:** Structural loading calculated based on 745 ft terrain assessment. Regional dispatch grid: Cook County.

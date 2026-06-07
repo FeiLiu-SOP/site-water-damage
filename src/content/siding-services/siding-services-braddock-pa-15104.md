@@ -12,6 +12,7 @@ lng: -79.8700
 zipSample: ["15104"]
 zipCodes: ["15104"]
 localPaths: ["Allegheny County / primary ZIP 15104", "Allegheny County / ZIP 15104 sector", "Allegheny County / elevation 748 ft band", "Allegheny County / coords 40.4000, -79.8700"]
+zillowHomeValueUsd: 58370
 ---
 
 **Engineering Notice for Braddock:** Envelope check: Exterior Envelope assigned to wind-load band A with stress factor 0.94. Elevation: 748 ft AMSL. Regional dispatch grid: Allegheny County.

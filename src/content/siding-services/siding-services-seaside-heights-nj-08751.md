@@ -12,6 +12,7 @@ lng: -74.0800
 zipSample: ["08751"]
 zipCodes: ["08751"]
 localPaths: ["Ocean County / primary ZIP 08751", "Ocean County / ZIP 08751 sector", "Ocean County / elevation 0 ft band", "Ocean County / coords 39.9500, -74.0800"]
+zillowHomeValueUsd: 712595
 ---
 
 **Engineering Notice for Seaside Heights:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 1.20. Regional dispatch grid: Ocean County.

@@ -12,6 +12,7 @@ lng: -76.8700
 zipSample: ["17752"]
 zipCodes: ["17752"]
 localPaths: ["Lycoming County / primary ZIP 17752", "Lycoming County / coords 41.1700, -76.8700", "Lycoming County / ZIP 17752 sector", "Lycoming County / elevation 515 ft band"]
+zillowHomeValueUsd: 225668
 ---
 
 **Engineering Notice for Montgomery:** System optimized for 179 mg/L hard water scaling factors in Montgomery. Regional dispatch grid: Lycoming County.

@@ -12,6 +12,7 @@ lng: -94.4400
 zipSample: ["74901"]
 zipCodes: ["74901"]
 localPaths: ["Le Flore County / elevation 440 ft band", "Le Flore County / ZIP 74901 sector", "Le Flore County / coords 35.3400, -94.4400", "Le Flore County / primary ZIP 74901"]
+zillowHomeValueUsd: 104886
 ---
 
 **Engineering Notice for Arkoma:** Vinyl Panels was validated under stress factor 1.07; target tolerance set near 104 mph. Coordinates: 35.3400, -94.4400. Grid anchor: Le Flore County.

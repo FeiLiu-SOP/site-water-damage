@@ -12,6 +12,8 @@ lng: -97.2900
 zipSample: ["78359"]
 zipCodes: ["78359"]
 localPaths: ["San Patricio County / coords 27.9200, -97.2900", "San Patricio County / ZIP 78359 sector", "San Patricio County / primary ZIP 78359", "San Patricio County / elevation 43 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 303677
 ---
 
 **Engineering Notice for Gregory:** Site context locked to San Patricio County. Coordinates: 27.9200, -97.2900. Surface Sheathing integrity verification recorded.

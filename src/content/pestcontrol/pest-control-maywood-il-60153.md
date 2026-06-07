@@ -11,6 +11,7 @@ lng: -87.8400
 zipSample: ["60153"]
 zipCodes: ["60153"]
 localPaths: ["Cook County / ZIP 60153 sector", "Cook County / primary ZIP 60153", "Cook County / elevation 636 ft band", "Cook County / coords 41.8800, -87.8400"]
+zillowHomeValueUsd: 242635
 ---
 
 **Engineering Notice for Maywood:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Cook County.

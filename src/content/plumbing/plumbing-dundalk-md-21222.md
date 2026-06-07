@@ -12,6 +12,7 @@ lng: -76.4900
 zipSample: ["21224", "21222"]
 zipCodes: ["21222", "21224"]
 localPaths: ["Baltimore County / elevation 30 ft band", "Baltimore County / ZIP 21222 sector", "Baltimore County / primary ZIP 21222", "Baltimore County / coords 39.2700, -76.4900", "Baltimore County / ZIP 21224 sector"]
+zillowHomeValueUsd: 226662
 ---
 
 **Engineering Notice for Dundalk:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Baltimore County.

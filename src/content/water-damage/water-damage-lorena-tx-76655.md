@@ -12,6 +12,7 @@ lng: -97.2100
 zipSample: ["76655"]
 zipCodes: ["76655"]
 localPaths: ["McLennan County / primary ZIP 76655", "McLennan County / ZIP 76655 sector", "McLennan County / elevation 614 ft band", "McLennan County / coords 31.3800, -97.2100"]
+zillowHomeValueUsd: 343675
 ---
 
 **Engineering Notice for Lorena:** structural drying capacity optimized for 614ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McLennan County. Relative Humidity Threshold: 68%. Sensor sync: Active.

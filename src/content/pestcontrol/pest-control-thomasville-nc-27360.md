@@ -11,6 +11,7 @@ lng: -80.0800
 zipSample: ["27361", "27360"]
 zipCodes: ["27360", "27361"]
 localPaths: ["Davidson County / ZIP 27361 sector", "Davidson County / ZIP 27360 sector", "Davidson County / primary ZIP 27360", "Davidson County / coords 35.8800, -80.0800", "Davidson County / elevation 840 ft band"]
+zillowHomeValueUsd: 238342
 ---
 
 **Engineering Notice for Thomasville:** Structural loading calculated based on 840 ft terrain assessment. Regional dispatch grid: Davidson County.

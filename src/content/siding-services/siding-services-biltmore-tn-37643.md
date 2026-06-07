@@ -12,6 +12,7 @@ lng: -82.2200
 zipSample: ["37643"]
 zipCodes: ["37643"]
 localPaths: ["Carter County / primary ZIP 37643", "Carter County / coords 36.3700, -82.2200", "Carter County / ZIP 37643 sector", "Carter County / elevation 1860 ft band"]
+zillowHomeValueUsd: 230354
 ---
 
 **Engineering Notice for Biltmore:** Envelope check: Cladding Service assigned to wind-load band C with stress factor 1.25. Elevation: 1860 ft AMSL. Regional dispatch grid: Carter County.

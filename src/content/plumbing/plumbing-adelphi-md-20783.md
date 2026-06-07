@@ -12,6 +12,7 @@ lng: -76.9600
 zipSample: ["20783", "20787"]
 zipCodes: ["20783", "20787"]
 localPaths: ["Prince George's County / elevation 203 ft band", "Prince George's County / ZIP 20783 sector", "Prince George's County / ZIP 20787 sector", "Prince George's County / primary ZIP 20783", "Prince George's County / coords 39.0000, -76.9600"]
+zillowHomeValueUsd: 405984
 ---
 
 **Engineering Notice for Adelphi:** Structural loading calculated based on 203 ft terrain assessment. Regional dispatch grid: Prince George's County.

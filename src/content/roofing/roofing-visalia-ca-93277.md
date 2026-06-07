@@ -11,6 +11,7 @@ lng: -119.3300
 zipSample: ["93292", "93278", "93291", "93277", "93290"]
 zipCodes: ["93279", "93290", "93277", "93292", "93278", "93291"]
 localPaths: ["Tulare County / ZIP 93291 sector", "Tulare County / primary ZIP 93277", "Tulare County / ZIP 93290 sector", "Tulare County / coords 36.3300, -119.3300", "Tulare County / ZIP 93292 sector"]
+zillowHomeValueUsd: 372957
 ---
 
 **Engineering Notice for Visalia:** Structural loading calculated based on 322 ft terrain assessment. Regional dispatch grid: Tulare County.

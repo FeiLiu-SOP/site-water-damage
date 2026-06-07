@@ -12,6 +12,7 @@ lng: -77.0900
 zipSample: ["14870"]
 zipCodes: ["14870"]
 localPaths: ["Steuben County / primary ZIP 14870", "Steuben County / coords 42.1600, -77.0900", "Steuben County / ZIP 14870 sector", "Steuben County / elevation 1004 ft band"]
+zillowHomeValueUsd: 204050
 ---
 
 **Engineering Notice for Painted Post:** structural drying capacity optimized for 1004ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Steuben County. Relative Humidity Threshold: 75%. Sensor sync: Active.

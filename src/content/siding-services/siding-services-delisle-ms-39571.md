@@ -12,6 +12,7 @@ lng: -89.2700
 zipSample: ["39571"]
 zipCodes: ["39571"]
 localPaths: ["Harrison County / primary ZIP 39571", "Harrison County / elevation 59 ft band", "Harrison County / ZIP 39571 sector", "Harrison County / coords 30.3800, -89.2700"]
+zillowHomeValueUsd: 304032
 ---
 
 **Engineering Notice for DeLisle:** Wall Restoration was validated under stress factor 0.97; target tolerance set near 93 mph. Grid anchor: Harrison County.

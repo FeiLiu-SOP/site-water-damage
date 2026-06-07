@@ -12,6 +12,7 @@ lng: -82.6100
 zipSample: ["34487", "34448"]
 zipCodes: ["34487", "34448"]
 localPaths: ["Citrus County / primary ZIP 34487", "Citrus County / ZIP 34487 sector", "Citrus County / elevation 39 ft band", "Citrus County / ZIP 34448 sector", "Citrus County / coords 28.7800, -82.6100"]
+zillowHomeValueUsd: 319415
 ---
 
 **Engineering Notice for Homosassa:** System optimized for 175 mg/L hard water scaling factors in Homosassa. Regional dispatch grid: Citrus County.

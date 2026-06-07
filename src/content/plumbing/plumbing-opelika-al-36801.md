@@ -12,6 +12,7 @@ lng: -85.3800
 zipSample: ["36801", "36803", "36804"]
 zipCodes: ["36804", "36803", "36801"]
 localPaths: ["Lee County / ZIP 36804 sector", "Lee County / primary ZIP 36801", "Lee County / ZIP 36803 sector", "Lee County / ZIP 36801 sector", "Lee County / coords 32.6600, -85.3800"]
+zillowHomeValueUsd: 294173
 ---
 
 **Engineering Notice for Opelika:** Structural loading calculated based on 794 ft terrain assessment. Regional dispatch grid: Lee County.

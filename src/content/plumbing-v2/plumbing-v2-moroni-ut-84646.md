@@ -12,6 +12,8 @@ lng: -111.5800
 zipSample: ["84646"]
 zipCodes: ["84646"]
 localPaths: ["Sanpete County / elevation 5587 ft band", "Sanpete County / ZIP 84646 sector", "Sanpete County / primary ZIP 84646", "Sanpete County / coords 39.5300, -111.5800"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 541735
 ---
 
 **Engineering Notice for Moroni:** System optimized for 171 mg/L hard water scaling factors in Moroni. Regional dispatch grid: Sanpete County.

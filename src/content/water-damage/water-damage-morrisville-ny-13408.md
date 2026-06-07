@@ -12,6 +12,7 @@ lng: -75.6400
 zipSample: ["13408"]
 zipCodes: ["13408"]
 localPaths: ["Madison County / primary ZIP 13408", "Madison County / ZIP 13408 sector", "Madison County / elevation 1293 ft band", "Madison County / coords 42.9000, -75.6400"]
+zillowHomeValueUsd: 229949
 ---
 
 **Engineering Notice for Morrisville:** structural drying capacity optimized for 1293ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Madison County. Relative Humidity Threshold: 76%. Sensor sync: Active.

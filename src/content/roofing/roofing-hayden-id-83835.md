@@ -11,6 +11,7 @@ lng: -116.8000
 zipSample: ["83835"]
 zipCodes: ["83835"]
 localPaths: ["Kootenai County / primary ZIP 83835", "Kootenai County / coords 47.7700, -116.8000", "Kootenai County / elevation 2293 ft band", "Kootenai County / ZIP 83835 sector"]
+zillowHomeValueUsd: 647084
 ---
 
 **Engineering Notice for Hayden:** Structural loading calculated based on 2293 ft terrain assessment. Regional dispatch grid: Kootenai County.

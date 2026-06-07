@@ -12,6 +12,7 @@ lng: -94.8300
 zipSample: ["75939"]
 zipCodes: ["75939"]
 localPaths: ["Polk County / ZIP 75939 sector", "Polk County / coords 31.0000, -94.8300", "Polk County / elevation 249 ft band", "Polk County / primary ZIP 75939"]
+zillowHomeValueUsd: 148239
 ---
 
 **Engineering Notice for Corrigan:** System optimized for 162 mg/L hard water scaling factors in Corrigan. Regional dispatch grid: Polk County.

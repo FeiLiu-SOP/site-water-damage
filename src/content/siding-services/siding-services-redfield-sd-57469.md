@@ -12,6 +12,7 @@ lng: -98.5200
 zipSample: ["57469"]
 zipCodes: ["57469"]
 localPaths: ["Spink County / elevation 1302 ft band", "Spink County / coords 44.8700, -98.5200", "Spink County / ZIP 57469 sector", "Spink County / primary ZIP 57469"]
+zillowHomeValueUsd: 162996
 ---
 
 **Engineering Notice for Redfield:** Envelope check: Wall Restoration assigned to wind-load band A with stress factor 1.06. Regional dispatch grid: Spink County.

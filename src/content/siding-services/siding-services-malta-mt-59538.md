@@ -12,6 +12,7 @@ lng: -107.8700
 zipSample: ["59538"]
 zipCodes: ["59538"]
 localPaths: ["Phillips County / coords 48.3600, -107.8700", "Phillips County / primary ZIP 59538", "Phillips County / elevation 2260 ft band", "Phillips County / ZIP 59538 sector"]
+zillowHomeValueUsd: 240441
 ---
 
 **Engineering Notice for Malta:** Exterior Envelope was validated under stress factor 1.10; target tolerance set near 109 mph. Grid anchor: Phillips County.

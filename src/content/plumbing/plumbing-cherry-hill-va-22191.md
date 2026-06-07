@@ -12,6 +12,7 @@ lng: -77.2900
 zipSample: ["22191", "22026"]
 zipCodes: ["22026", "22191"]
 localPaths: ["Prince William County / ZIP 22191 sector", "Prince William County / elevation 220 ft band", "Prince William County / coords 38.5700, -77.2900", "Prince William County / primary ZIP 22191", "Prince William County / ZIP 22026 sector"]
+zillowHomeValueUsd: 489084
 ---
 
 **Engineering Notice for Cherry Hill:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Prince William County.

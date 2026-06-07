@@ -12,6 +12,7 @@ lng: -85.6700
 zipSample: ["40218"]
 zipCodes: ["40218"]
 localPaths: ["Jefferson County / primary ZIP 40218", "Jefferson County / elevation 472 ft band", "Jefferson County / ZIP 40218 sector", "Jefferson County / coords 38.2000, -85.6700"]
+zillowHomeValueUsd: 217493
 ---
 
 **Engineering Notice for West Buechel:** Envelope check: Surface Sheathing assigned to wind-load band A with stress factor 0.85. Regional dispatch grid: Jefferson County.

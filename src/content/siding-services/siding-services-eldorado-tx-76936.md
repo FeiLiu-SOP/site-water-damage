@@ -12,6 +12,8 @@ lng: -100.6000
 zipSample: ["76936"]
 zipCodes: ["76936"]
 localPaths: ["Schleicher County / ZIP 76936 sector", "Schleicher County / primary ZIP 76936", "Schleicher County / elevation 2441 ft band", "Schleicher County / coords 30.8600, -100.6000"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 307769
 ---
 
 **Engineering Notice for Eldorado:** Envelope check: Panel Replacement assigned to wind-load band B with stress factor 0.73. Regional dispatch grid: Schleicher County.

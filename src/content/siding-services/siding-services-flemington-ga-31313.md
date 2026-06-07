@@ -12,6 +12,7 @@ lng: -81.5600
 zipSample: ["31313"]
 zipCodes: ["31313"]
 localPaths: ["Liberty County / ZIP 31313 sector", "Liberty County / primary ZIP 31313", "Liberty County / coords 31.8500, -81.5600", "Liberty County / elevation 59 ft band"]
+zillowHomeValueUsd: 236339
 ---
 
 **Engineering Notice for Flemington:** Structural integrity verification: Cladding Retrofit calibrated for 91 mph localized wind load factor. Elevation: 59 ft AMSL. Coordinates: 31.8500, -81.5600. Regional dispatch grid: Liberty County.

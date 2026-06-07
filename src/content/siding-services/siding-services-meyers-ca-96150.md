@@ -12,6 +12,7 @@ lng: -120.0200
 zipSample: ["96150"]
 zipCodes: ["96150"]
 localPaths: ["El Dorado County / elevation 6411 ft band", "El Dorado County / coords 38.8300, -120.0200", "El Dorado County / ZIP 96150 sector", "El Dorado County / primary ZIP 96150"]
+zillowHomeValueUsd: 663286
 ---
 
 **Engineering Notice for Meyers:** Weather Barrier Wrap was validated under stress factor 0.73; target tolerance set near 145 mph. Coordinates: 38.8300, -120.0200. Grid anchor: El Dorado County.

@@ -12,6 +12,7 @@ lng: -80.5300
 zipSample: ["44438"]
 zipCodes: ["44438"]
 localPaths: ["Trumbull County / primary ZIP 44438", "Trumbull County / coords 41.2300, -80.5300", "Trumbull County / elevation 906 ft band", "Trumbull County / ZIP 44438 sector"]
+zillowHomeValueUsd: 91217
 ---
 
 **Engineering Notice for West Hill:** System optimized for 165 mg/L hard water scaling factors in West Hill. Regional dispatch grid: Trumbull County.

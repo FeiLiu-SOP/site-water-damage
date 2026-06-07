@@ -11,6 +11,7 @@ lng: -82.4000
 zipSample: ["33570", "33573", "33572"]
 zipCodes: ["33570", "33573", "33572"]
 localPaths: ["Hillsborough County / primary ZIP 33573", "Hillsborough County / elevation 36 ft band", "Hillsborough County / ZIP 33572 sector", "Hillsborough County / ZIP 33573 sector", "Hillsborough County / ZIP 33570 sector"]
+zillowHomeValueUsd: 274224
 ---
 
 **Engineering Notice for Apollo Beach:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Hillsborough County.

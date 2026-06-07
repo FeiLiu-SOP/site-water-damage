@@ -12,6 +12,7 @@ lng: -97.3300
 zipSample: ["58257"]
 zipCodes: ["58257"]
 localPaths: ["Traill County / primary ZIP 58257", "Traill County / coords 47.5000, -97.3300", "Traill County / ZIP 58257 sector", "Traill County / elevation 948 ft band"]
+zillowHomeValueUsd: 194542
 ---
 
 **Engineering Notice for Mayville:** System optimized for 130 mg/L hard water scaling factors in Mayville. Regional dispatch grid: Traill County.

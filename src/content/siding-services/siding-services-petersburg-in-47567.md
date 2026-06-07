@@ -12,6 +12,7 @@ lng: -87.2800
 zipSample: ["47567"]
 zipCodes: ["47567"]
 localPaths: ["Pike County / elevation 463 ft band", "Pike County / coords 38.4900, -87.2800", "Pike County / primary ZIP 47567", "Pike County / ZIP 47567 sector"]
+zillowHomeValueUsd: 165435
 ---
 
 **Engineering Notice for Petersburg:** Wall Restoration was validated under stress factor 0.76; target tolerance set near 106 mph. Coordinates: 38.4900, -87.2800. Grid anchor: Pike County.

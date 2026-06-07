@@ -12,6 +12,7 @@ lng: -70.8900
 zipSample: ["01950"]
 zipCodes: ["01950"]
 localPaths: ["Essex County / elevation 79 ft band", "Essex County / primary ZIP 01950", "Essex County / ZIP 01950 sector", "Essex County / coords 42.8100, -70.8900"]
+zillowHomeValueUsd: 923089
 ---
 
 **Engineering Notice for Newburyport:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Essex County.

@@ -11,6 +11,7 @@ lng: -73.8700
 zipSample: ["10473", "10465", "10470", "10466", "10454"]
 zipCodes: ["10459", "10461", "10465", "10458", "10453", "10463", "10455", "10454", "10456", "10451", "10460", "10457"]
 localPaths: ["Bronx County / primary ZIP 10452", "Bronx County / elevation 62 ft band", "Bronx County / coords 40.8500, -73.8700", "Bronx County / ZIP 10470 sector", "Bronx County / ZIP 10454 sector"]
+zillowHomeValueUsd: 319083
 ---
 
 **Engineering Notice for Bronx:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Bronx County.

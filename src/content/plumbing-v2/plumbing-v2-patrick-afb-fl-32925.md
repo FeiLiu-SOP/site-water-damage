@@ -12,6 +12,8 @@ lng: -80.6100
 zipSample: ["32925"]
 zipCodes: ["32925"]
 localPaths: ["Brevard County / coords 28.2300, -80.6100", "Brevard County / elevation 3 ft band", "Brevard County / primary ZIP 32925", "Brevard County / ZIP 32925 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 471266
 ---
 
 **Engineering Notice for Patrick AFB:** System optimized for 149 mg/L hard water scaling factors in Patrick AFB. Regional dispatch grid: Brevard County.

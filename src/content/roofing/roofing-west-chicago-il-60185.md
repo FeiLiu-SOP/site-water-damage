@@ -11,6 +11,7 @@ lng: -88.2300
 zipSample: ["60186", "60185"]
 zipCodes: ["60186", "60185"]
 localPaths: ["DuPage County / ZIP 60185 sector", "DuPage County / coords 41.9000, -88.2300", "DuPage County / ZIP 60186 sector", "DuPage County / elevation 768 ft band", "DuPage County / primary ZIP 60185"]
+zillowHomeValueUsd: 382836
 ---
 
 **Engineering Notice for West Chicago:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: DuPage County.

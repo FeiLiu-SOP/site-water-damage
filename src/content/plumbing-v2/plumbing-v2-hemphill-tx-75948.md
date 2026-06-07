@@ -12,6 +12,7 @@ lng: -93.8500
 zipSample: ["75948"]
 zipCodes: ["75948"]
 localPaths: ["Sabine County / ZIP 75948 sector", "Sabine County / elevation 299 ft band", "Sabine County / coords 31.3400, -93.8500", "Sabine County / primary ZIP 75948"]
+zillowHomeValueUsd: 213094
 ---
 
 **Engineering Notice for Hemphill:** System optimized for 134 mg/L hard water scaling factors in Hemphill. Regional dispatch grid: Sabine County.

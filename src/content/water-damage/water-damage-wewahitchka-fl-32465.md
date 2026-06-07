@@ -12,6 +12,7 @@ lng: -85.1900
 zipSample: ["32465"]
 zipCodes: ["32465"]
 localPaths: ["Gulf County / coords 30.1100, -85.1900", "Gulf County / elevation 79 ft band", "Gulf County / ZIP 32465 sector", "Gulf County / primary ZIP 32465"]
+zillowHomeValueUsd: 202118
 ---
 
 **Engineering Notice for Wewahitchka:** structural drying capacity optimized for 79ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Gulf County. Relative Humidity Threshold: 68%. Sensor sync: Active.

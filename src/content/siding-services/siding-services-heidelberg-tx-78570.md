@@ -12,6 +12,7 @@ lng: -97.8900
 zipSample: ["78570"]
 zipCodes: ["78570"]
 localPaths: ["Hidalgo County / elevation 72 ft band", "Hidalgo County / primary ZIP 78570", "Hidalgo County / ZIP 78570 sector", "Hidalgo County / coords 26.1800, -97.8900"]
+zillowHomeValueUsd: 141086
 ---
 
 **Engineering Notice for Heidelberg:** Cladding Retrofit was validated under stress factor 1.14; target tolerance set near 133 mph. Coordinates: 26.1800, -97.8900. Grid anchor: Hidalgo County.

@@ -11,6 +11,7 @@ lng: -74.0800
 zipSample: ["07644"]
 zipCodes: ["07644"]
 localPaths: ["Bergen County / elevation 33 ft band", "Bergen County / primary ZIP 07644", "Bergen County / coords 40.8800, -74.0800", "Bergen County / ZIP 07644 sector"]
+zillowHomeValueUsd: 619202
 ---
 
 **Engineering Notice for Lodi:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Bergen County.

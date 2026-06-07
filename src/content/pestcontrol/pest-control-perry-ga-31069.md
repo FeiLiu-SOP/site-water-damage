@@ -11,6 +11,7 @@ lng: -83.7300
 zipSample: ["31069"]
 zipCodes: ["31069"]
 localPaths: ["Houston County / coords 32.4700, -83.7300", "Houston County / ZIP 31069 sector", "Houston County / elevation 394 ft band", "Houston County / primary ZIP 31069"]
+zillowHomeValueUsd: 273988
 ---
 
 **Engineering Notice for Perry:** Structural loading calculated based on 394 ft terrain assessment. Regional dispatch grid: Houston County.

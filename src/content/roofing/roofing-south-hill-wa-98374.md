@@ -11,6 +11,7 @@ lng: -122.2900
 zipSample: ["98373", "98374", "98375"]
 zipCodes: ["98373", "98374", "98375"]
 localPaths: ["Pierce County / ZIP 98375 sector", "Pierce County / ZIP 98373 sector", "Pierce County / elevation 561 ft band", "Pierce County / primary ZIP 98374", "Pierce County / ZIP 98374 sector"]
+zillowHomeValueUsd: 584164
 ---
 
 **Engineering Notice for South Hill:** Structural loading calculated based on 561 ft terrain assessment. Regional dispatch grid: Pierce County.

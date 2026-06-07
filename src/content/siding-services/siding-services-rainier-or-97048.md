@@ -12,6 +12,7 @@ lng: -122.9400
 zipSample: ["97048"]
 zipCodes: ["97048"]
 localPaths: ["Columbia County / coords 46.0800, -122.9400", "Columbia County / primary ZIP 97048", "Columbia County / ZIP 97048 sector", "Columbia County / elevation 236 ft band"]
+zillowHomeValueUsd: 419667
 ---
 
 **Engineering Notice for Rainier:** Panel Replacement was validated under stress factor 1.08; target tolerance set near 97 mph. Coordinates: 46.0800, -122.9400. Grid anchor: Columbia County.

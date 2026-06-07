@@ -11,6 +11,7 @@ lng: -72.6500
 zipSample: ["06457", "06459"]
 zipCodes: ["06457", "06459"]
 localPaths: ["Lower Connecticut River Valley County / ZIP 06457 sector", "Lower Connecticut River Valley County / elevation 154 ft band", "Lower Connecticut River Valley County / ZIP 06459 sector", "Lower Connecticut River Valley County / primary ZIP 06457", "Lower Connecticut River Valley County / coords 41.5500, -72.6500"]
+zillowHomeValueUsd: 354792
 ---
 
 **Engineering Notice for Middletown:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Lower Connecticut River Valley County.

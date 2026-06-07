@@ -12,6 +12,7 @@ lng: -98.0000
 zipSample: ["78645"]
 zipCodes: ["78645"]
 localPaths: ["Travis County / primary ZIP 78645", "Travis County / ZIP 78645 sector", "Travis County / elevation 810 ft band", "Travis County / coords 30.3800, -98.0000"]
+zillowHomeValueUsd: 422864
 ---
 
 **Engineering Notice for Point Venture:** Envelope check: Facade Renewal assigned to wind-load band B with stress factor 0.99. Elevation: 810 ft AMSL. Regional dispatch grid: Travis County.

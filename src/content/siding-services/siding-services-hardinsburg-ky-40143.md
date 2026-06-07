@@ -12,6 +12,7 @@ lng: -86.4500
 zipSample: ["40143"]
 zipCodes: ["40143"]
 localPaths: ["Breckinridge County / elevation 699 ft band", "Breckinridge County / coords 37.7800, -86.4500", "Breckinridge County / primary ZIP 40143", "Breckinridge County / ZIP 40143 sector"]
+zillowHomeValueUsd: 178758
 ---
 
 **Engineering Notice for Hardinsburg:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 0.78. Regional dispatch grid: Breckinridge County.

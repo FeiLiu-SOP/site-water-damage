@@ -12,6 +12,7 @@ lng: -81.7000
 zipSample: ["44618"]
 zipCodes: ["44618"]
 localPaths: ["Wayne County / coords 40.8000, -81.7000", "Wayne County / primary ZIP 44618", "Wayne County / elevation 1181 ft band", "Wayne County / ZIP 44618 sector"]
+zillowHomeValueUsd: 298396
 ---
 
 **Engineering Notice for Dalton:** Envelope check: Facade Renewal assigned to wind-load band B with stress factor 1.22. Elevation: 1181 ft AMSL. Regional dispatch grid: Wayne County.

@@ -12,6 +12,7 @@ lng: -75.9300
 zipSample: ["19607"]
 zipCodes: ["19607"]
 localPaths: ["Berks County / elevation 341 ft band", "Berks County / ZIP 19607 sector", "Berks County / primary ZIP 19607", "Berks County / coords 40.3000, -75.9300"]
+zillowHomeValueUsd: 271901
 ---
 
 **Engineering Notice for Grill:** structural drying capacity optimized for 341ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Berks County. Relative Humidity Threshold: 75%. Sensor sync: Active.

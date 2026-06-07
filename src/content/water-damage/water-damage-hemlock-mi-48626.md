@@ -12,6 +12,7 @@ lng: -84.2300
 zipSample: ["48626"]
 zipCodes: ["48626"]
 localPaths: ["Saginaw County / coords 43.4200, -84.2300", "Saginaw County / ZIP 48626 sector", "Saginaw County / elevation 653 ft band", "Saginaw County / primary ZIP 48626"]
+zillowHomeValueUsd: 243264
 ---
 
 **Engineering Notice for Hemlock:** structural drying capacity optimized for 653ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Saginaw County. Relative Humidity Threshold: 74%. Sensor sync: Active.

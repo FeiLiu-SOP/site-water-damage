@@ -11,6 +11,7 @@ lng: -74.3200
 zipSample: ["08830"]
 zipCodes: ["08830"]
 localPaths: ["Middlesex County / elevation 43 ft band", "Middlesex County / primary ZIP 08830", "Middlesex County / ZIP 08830 sector", "Middlesex County / coords 40.5700, -74.3200"]
+zillowHomeValueUsd: 559741
 ---
 
 **Engineering Notice for Iselin:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Middlesex County.

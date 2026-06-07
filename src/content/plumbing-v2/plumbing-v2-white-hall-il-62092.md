@@ -12,6 +12,7 @@ lng: -90.4000
 zipSample: ["62092"]
 zipCodes: ["62092"]
 localPaths: ["Greene County / ZIP 62092 sector", "Greene County / elevation 587 ft band", "Greene County / primary ZIP 62092", "Greene County / coords 39.4400, -90.4000"]
+zillowHomeValueUsd: 63872
 ---
 
 **Engineering Notice for White Hall:** System optimized for 172 mg/L hard water scaling factors in White Hall. Regional dispatch grid: Greene County.

@@ -12,6 +12,7 @@ lng: -93.8000
 zipSample: ["50423"]
 zipCodes: ["50423"]
 localPaths: ["Hancock County / elevation 1227 ft band", "Hancock County / coords 43.1000, -93.8000", "Hancock County / primary ZIP 50423", "Hancock County / ZIP 50423 sector"]
+zillowHomeValueUsd: 153418
 ---
 
 **Engineering Notice for Britt:** structural drying capacity optimized for 1227ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hancock County. Relative Humidity Threshold: 74%. Sensor sync: Active.

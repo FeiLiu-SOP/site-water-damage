@@ -12,6 +12,7 @@ lng: -81.0400
 zipSample: ["44288"]
 zipCodes: ["44288"]
 localPaths: ["Portage County / ZIP 44288 sector", "Portage County / coords 41.2400, -81.0400", "Portage County / elevation 961 ft band", "Portage County / primary ZIP 44288"]
+zillowHomeValueUsd: 187141
 ---
 
 **Engineering Notice for Windham:** System optimized for 123 mg/L hard water scaling factors in Windham. Regional dispatch grid: Portage County.

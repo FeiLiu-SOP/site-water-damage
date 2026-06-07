@@ -12,6 +12,7 @@ lng: -87.2500
 zipSample: ["36441"]
 zipCodes: ["36441"]
 localPaths: ["Escambia County / ZIP 36441 sector", "Escambia County / primary ZIP 36441", "Escambia County / elevation 138 ft band", "Escambia County / coords 31.0100, -87.2500"]
+zillowHomeValueUsd: 140245
 ---
 
 **Engineering Notice for Flomaton:** Site context locked to Escambia County. Elevation: 138 ft AMSL. Surface Sheathing integrity verification recorded.

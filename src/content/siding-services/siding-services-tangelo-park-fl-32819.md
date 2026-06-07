@@ -12,6 +12,7 @@ lng: -81.4500
 zipSample: ["32819"]
 zipCodes: ["32819"]
 localPaths: ["Orange County / ZIP 32819 sector", "Orange County / coords 28.4600, -81.4500", "Orange County / primary ZIP 32819", "Orange County / elevation 105 ft band"]
+zillowHomeValueUsd: 497163
 ---
 
 **Engineering Notice for Tangelo Park:** Cladding verification uses 149 mph routing baseline; lateral pressure note: 19.1 psf. Coordinates: 28.4600, -81.4500. Grid: Orange County.

@@ -12,6 +12,7 @@ lng: -75.8800
 zipSample: ["21660"]
 zipCodes: ["21660"]
 localPaths: ["Caroline County / primary ZIP 21660", "Caroline County / ZIP 21660 sector", "Caroline County / coords 38.9500, -75.8800", "Caroline County / elevation 59 ft band"]
+zillowHomeValueUsd: 365551
 ---
 
 **Engineering Notice for Ridgely:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 1.13. Regional dispatch grid: Caroline County.

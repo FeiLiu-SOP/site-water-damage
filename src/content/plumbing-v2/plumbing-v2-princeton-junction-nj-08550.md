@@ -12,6 +12,7 @@ lng: -74.6200
 zipSample: ["08540", "08550"]
 zipCodes: ["08550", "08540"]
 localPaths: ["Mercer County / ZIP 08550 sector", "Mercer County / ZIP 08540 sector", "Mercer County / primary ZIP 08550", "Mercer County / coords 40.3200, -74.6200", "Mercer County / elevation 85 ft band"]
+zillowHomeValueUsd: 1000620
 ---
 
 **Engineering Notice for Princeton Junction:** System optimized for 170 mg/L hard water scaling factors in Princeton Junction. Regional dispatch grid: Mercer County.

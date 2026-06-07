@@ -11,6 +11,7 @@ lng: -115.7000
 zipSample: ["83647"]
 zipCodes: ["83647"]
 localPaths: ["Elmore County / elevation 3143 ft band", "Elmore County / ZIP 83647 sector", "Elmore County / coords 43.1300, -115.7000", "Elmore County / primary ZIP 83647"]
+zillowHomeValueUsd: 355942
 ---
 
 **Engineering Notice for Mountain Home:** Structural loading calculated based on 3143 ft terrain assessment. Regional dispatch grid: Elmore County.

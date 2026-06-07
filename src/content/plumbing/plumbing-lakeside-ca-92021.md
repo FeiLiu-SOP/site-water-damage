@@ -12,6 +12,7 @@ lng: -116.9000
 zipSample: ["92040", "92021"]
 zipCodes: ["92021", "92040"]
 localPaths: ["San Diego County / elevation 463 ft band", "San Diego County / primary ZIP 92021", "San Diego County / ZIP 92040 sector", "San Diego County / coords 32.8600, -116.9000", "San Diego County / ZIP 92021 sector"]
+zillowHomeValueUsd: 770798
 ---
 
 **Engineering Notice for Lakeside:** Structural loading calculated based on 463 ft terrain assessment. Regional dispatch grid: San Diego County.

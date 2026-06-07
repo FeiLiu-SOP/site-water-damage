@@ -11,6 +11,7 @@ lng: -112.0000
 zipSample: ["84084", "84088", "84081"]
 zipCodes: ["84084", "84081", "84088"]
 localPaths: ["Salt Lake County / primary ZIP 84088", "Salt Lake County / ZIP 84088 sector", "Salt Lake County / ZIP 84081 sector", "Salt Lake County / elevation 4675 ft band", "Salt Lake County / coords 40.6000, -112.0000"]
+zillowHomeValueUsd: 578799
 ---
 
 **Engineering Notice for West Jordan:** Structural loading calculated based on 4675 ft terrain assessment. Regional dispatch grid: Salt Lake County.

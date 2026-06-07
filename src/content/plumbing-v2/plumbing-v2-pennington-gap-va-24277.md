@@ -12,6 +12,7 @@ lng: -83.0300
 zipSample: ["24218", "24277"]
 zipCodes: ["24218", "24277"]
 localPaths: ["Lee County / elevation 1427 ft band", "Lee County / primary ZIP 24277", "Lee County / ZIP 24277 sector", "Lee County / coords 36.7600, -83.0300", "Lee County / ZIP 24218 sector"]
+zillowHomeValueUsd: 99575
 ---
 
 **Engineering Notice for Pennington Gap:** System optimized for 159 mg/L hard water scaling factors in Pennington Gap. Regional dispatch grid: Lee County.

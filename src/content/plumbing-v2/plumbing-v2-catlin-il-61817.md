@@ -12,6 +12,7 @@ lng: -87.7100
 zipSample: ["61817"]
 zipCodes: ["61817"]
 localPaths: ["Vermilion County / coords 40.0700, -87.7100", "Vermilion County / primary ZIP 61817", "Vermilion County / ZIP 61817 sector", "Vermilion County / elevation 656 ft band"]
+zillowHomeValueUsd: 166334
 ---
 
 **Engineering Notice for Catlin:** System optimized for 128 mg/L hard water scaling factors in Catlin. Regional dispatch grid: Vermilion County.

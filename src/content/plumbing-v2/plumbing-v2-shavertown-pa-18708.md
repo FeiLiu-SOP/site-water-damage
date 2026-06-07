@@ -12,6 +12,7 @@ lng: -75.9400
 zipSample: ["18708"]
 zipCodes: ["18708"]
 localPaths: ["Luzerne County / ZIP 18708 sector", "Luzerne County / coords 41.3200, -75.9400", "Luzerne County / primary ZIP 18708", "Luzerne County / elevation 1017 ft band"]
+zillowHomeValueUsd: 287047
 ---
 
 **Engineering Notice for Shavertown:** System optimized for 156 mg/L hard water scaling factors in Shavertown. Regional dispatch grid: Luzerne County.

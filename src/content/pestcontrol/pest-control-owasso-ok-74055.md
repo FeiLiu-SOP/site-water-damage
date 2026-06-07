@@ -11,6 +11,7 @@ lng: -95.8300
 zipSample: ["74055"]
 zipCodes: ["74055"]
 localPaths: ["Tulsa County / elevation 712 ft band", "Tulsa County / coords 36.2900, -95.8300", "Tulsa County / ZIP 74055 sector", "Tulsa County / primary ZIP 74055"]
+zillowHomeValueUsd: 315537
 ---
 
 **Engineering Notice for Owasso:** Structural loading calculated based on 712 ft terrain assessment. Regional dispatch grid: Tulsa County.

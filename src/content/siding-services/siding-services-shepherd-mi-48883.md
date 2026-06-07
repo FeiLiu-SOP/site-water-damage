@@ -12,6 +12,7 @@ lng: -84.6900
 zipSample: ["48883"]
 zipCodes: ["48883"]
 localPaths: ["Isabella County / elevation 784 ft band", "Isabella County / primary ZIP 48883", "Isabella County / coords 43.5200, -84.6900", "Isabella County / ZIP 48883 sector"]
+zillowHomeValueUsd: 216847
 ---
 
 **Engineering Notice for Shepherd:** Cladding verification uses 99 mph routing baseline; lateral pressure note: 13.1 psf. Elevation: 784 ft AMSL. Grid: Isabella County.

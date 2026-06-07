@@ -11,6 +11,7 @@ lng: -80.2200
 zipSample: ["33083", "33311", "33351", "33313", "33319"]
 zipCodes: ["33311", "33313", "33351", "33083", "33319"]
 localPaths: ["Broward County / ZIP 33311 sector", "Broward County / ZIP 33083 sector", "Broward County / coords 26.1600, -80.2200", "Broward County / elevation 20 ft band", "Broward County / ZIP 33313 sector"]
+zillowHomeValueUsd: 367750
 ---
 
 **Engineering Notice for Lauderhill:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Broward County.

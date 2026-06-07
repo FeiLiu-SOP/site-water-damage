@@ -12,6 +12,8 @@ lng: -96.0600
 zipSample: ["74131", "74157", "74050", "74107"]
 zipCodes: ["74131", "74107", "74050", "74157"]
 localPaths: ["Tulsa County / elevation 745 ft band", "Tulsa County / primary ZIP 74050", "Tulsa County / ZIP 74107 sector", "Tulsa County / ZIP 74050 sector", "Tulsa County / ZIP 74131 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 178362
 ---
 
 **Engineering Notice for Oakhurst:** System optimized for 139 mg/L hard water scaling factors in Oakhurst. Regional dispatch grid: Tulsa County.

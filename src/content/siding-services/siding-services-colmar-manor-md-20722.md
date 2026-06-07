@@ -12,6 +12,7 @@ lng: -76.9400
 zipSample: ["20781", "20722"]
 zipCodes: ["20781", "20722"]
 localPaths: ["Prince George's County / elevation 62 ft band", "Prince George's County / ZIP 20722 sector", "Prince George's County / ZIP 20781 sector", "Prince George's County / primary ZIP 20722", "Prince George's County / coords 38.9300, -76.9400"]
+zillowHomeValueUsd: 377908
 ---
 
 **Engineering Notice for Colmar Manor:** Envelope check: Vinyl Panels assigned to wind-load band B with stress factor 0.72. Regional dispatch grid: Prince George's County.

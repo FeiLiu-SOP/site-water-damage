@@ -11,6 +11,7 @@ lng: -80.2400
 zipSample: ["33150", "33247", "33147"]
 zipCodes: ["33247", "33147", "33150"]
 localPaths: ["Miami-Dade County / ZIP 33147 sector", "Miami-Dade County / elevation 26 ft band", "Miami-Dade County / coords 25.8600, -80.2400", "Miami-Dade County / ZIP 33247 sector", "Miami-Dade County / primary ZIP 33147"]
+zillowHomeValueUsd: 434398
 ---
 
 **Engineering Notice for West Little River:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

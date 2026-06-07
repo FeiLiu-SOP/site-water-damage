@@ -12,6 +12,8 @@ lng: -98.2900
 zipSample: ["57380"]
 zipCodes: ["57380"]
 localPaths: ["Charles Mix County / ZIP 57380 sector", "Charles Mix County / primary ZIP 57380", "Charles Mix County / coords 43.0800, -98.2900", "Charles Mix County / elevation 1453 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 317412
 ---
 
 **Engineering Notice for Wagner:** Envelope check: Facade Renewal assigned to wind-load band B with stress factor 1.04. Regional dispatch grid: Charles Mix County.

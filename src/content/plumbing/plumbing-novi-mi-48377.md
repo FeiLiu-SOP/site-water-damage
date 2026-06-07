@@ -12,6 +12,7 @@ lng: -83.4900
 zipSample: ["48375", "48167", "48377", "48374", "48376"]
 zipCodes: ["48375", "48167", "48376", "48377", "48374"]
 localPaths: ["Oakland County / ZIP 48375 sector", "Oakland County / primary ZIP 48377", "Oakland County / ZIP 48376 sector", "Oakland County / ZIP 48167 sector", "Oakland County / elevation 935 ft band"]
+zillowHomeValueUsd: 379388
 ---
 
 **Engineering Notice for Novi:** Structural loading calculated based on 935 ft terrain assessment. Regional dispatch grid: Oakland County.

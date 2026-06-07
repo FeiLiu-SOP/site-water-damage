@@ -12,6 +12,7 @@ lng: -84.9200
 zipSample: ["49076"]
 zipCodes: ["49076"]
 localPaths: ["Eaton County / elevation 935 ft band", "Eaton County / primary ZIP 49076", "Eaton County / coords 42.4400, -84.9200", "Eaton County / ZIP 49076 sector"]
+zillowHomeValueUsd: 228421
 ---
 
 **Engineering Notice for Olivet:** System optimized for 122 mg/L hard water scaling factors in Olivet. Regional dispatch grid: Eaton County.

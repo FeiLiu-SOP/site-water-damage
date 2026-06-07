@@ -12,6 +12,7 @@ lng: -97.4800
 zipSample: ["76078", "76234"]
 zipCodes: ["76078", "76234"]
 localPaths: ["Wise County / coords 33.0600, -97.4800", "Wise County / elevation 912 ft band", "Wise County / ZIP 76078 sector", "Wise County / primary ZIP 76078", "Wise County / ZIP 76234 sector"]
+zillowHomeValueUsd: 367215
 ---
 
 **Engineering Notice for Rhome:** Cladding Service was validated under stress factor 0.97; target tolerance set near 134 mph. Coordinates: 33.0600, -97.4800. Grid anchor: Wise County.

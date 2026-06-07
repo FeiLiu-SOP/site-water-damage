@@ -12,6 +12,7 @@ lng: -79.2800
 zipSample: ["28394"]
 zipCodes: ["28394"]
 localPaths: ["Moore County / coords 35.2500, -79.2800", "Moore County / elevation 299 ft band", "Moore County / ZIP 28394 sector", "Moore County / primary ZIP 28394"]
+zillowHomeValueUsd: 361517
 ---
 
 **Engineering Notice for Vass:** Cladding verification uses 107 mph routing baseline; lateral pressure note: 14.0 psf. Elevation: 299 ft AMSL. Grid: Moore County.

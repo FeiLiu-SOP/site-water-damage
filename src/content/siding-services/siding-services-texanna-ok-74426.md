@@ -12,6 +12,7 @@ lng: -95.5000
 zipSample: ["74432", "74426"]
 zipCodes: ["74432", "74426"]
 localPaths: ["McIntosh County / ZIP 74426 sector", "McIntosh County / coords 35.3600, -95.5000", "McIntosh County / primary ZIP 74426", "McIntosh County / elevation 709 ft band", "McIntosh County / ZIP 74432 sector"]
+zillowHomeValueUsd: 175836
 ---
 
 **Engineering Notice for Texanna:** Cladding verification uses 104 mph routing baseline; lateral pressure note: 13.7 psf. Elevation: 709 ft AMSL. Coordinates: 35.3600, -95.5000. Grid: McIntosh County.

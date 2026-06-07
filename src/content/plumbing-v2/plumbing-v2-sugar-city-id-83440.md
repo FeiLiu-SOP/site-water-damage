@@ -12,6 +12,7 @@ lng: -111.7500
 zipSample: ["83448", "83440"]
 zipCodes: ["83448", "83440"]
 localPaths: ["Madison County / elevation 4895 ft band", "Madison County / coords 43.8800, -111.7500", "Madison County / ZIP 83448 sector", "Madison County / ZIP 83440 sector", "Madison County / primary ZIP 83440"]
+zillowHomeValueUsd: 417080
 ---
 
 **Engineering Notice for Sugar City:** System optimized for 149 mg/L hard water scaling factors in Sugar City. Regional dispatch grid: Madison County.

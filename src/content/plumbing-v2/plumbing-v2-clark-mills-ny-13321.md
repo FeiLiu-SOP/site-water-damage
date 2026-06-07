@@ -12,6 +12,7 @@ lng: -75.3800
 zipSample: ["13323", "13492", "13321"]
 zipCodes: ["13492", "13323", "13321"]
 localPaths: ["Oneida County / coords 43.0900, -75.3800", "Oneida County / ZIP 13321 sector", "Oneida County / ZIP 13492 sector", "Oneida County / ZIP 13323 sector", "Oneida County / elevation 535 ft band"]
+zillowHomeValueUsd: 190792
 ---
 
 **Engineering Notice for Clark Mills:** System optimized for 165 mg/L hard water scaling factors in Clark Mills. Regional dispatch grid: Oneida County.

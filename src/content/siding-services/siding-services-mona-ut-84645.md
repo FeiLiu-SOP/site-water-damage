@@ -12,6 +12,7 @@ lng: -111.8500
 zipSample: ["84645"]
 zipCodes: ["84645"]
 localPaths: ["Juab County / primary ZIP 84645", "Juab County / coords 39.8100, -111.8500", "Juab County / ZIP 84645 sector", "Juab County / elevation 5066 ft band"]
+zillowHomeValueUsd: 603571
 ---
 
 **Engineering Notice for Mona:** Envelope check: Exterior Cladding assigned to wind-load band C with stress factor 1.08. Elevation: 5066 ft AMSL. Regional dispatch grid: Juab County.

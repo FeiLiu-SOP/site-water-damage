@@ -12,6 +12,7 @@ lng: -94.3600
 zipSample: ["64034"]
 zipCodes: ["64034"]
 localPaths: ["Cass County / coords 38.8200, -94.3600", "Cass County / primary ZIP 64034", "Cass County / ZIP 64034 sector", "Cass County / elevation 968 ft band"]
+zillowHomeValueUsd: 408723
 ---
 
 **Engineering Notice for Lake Winnebago:** Structural integrity verification: Panel Replacement calibrated for 108 mph localized wind load factor. Elevation: 968 ft AMSL. Regional dispatch grid: Cass County.

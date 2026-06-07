@@ -11,6 +11,7 @@ lng: -100.8900
 zipSample: ["58554"]
 zipCodes: ["58554"]
 localPaths: ["Morton County / ZIP 58554 sector", "Morton County / primary ZIP 58554", "Morton County / elevation 1650 ft band", "Morton County / coords 46.8300, -100.8900"]
+zillowHomeValueUsd: 341750
 ---
 
 **Engineering Notice for Mandan:** Structural loading calculated based on 1650 ft terrain assessment. Regional dispatch grid: Morton County.

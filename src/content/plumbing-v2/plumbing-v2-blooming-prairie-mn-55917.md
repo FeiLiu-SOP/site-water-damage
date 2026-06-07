@@ -12,6 +12,7 @@ lng: -93.0600
 zipSample: ["55917"]
 zipCodes: ["55917"]
 localPaths: ["Steele County / primary ZIP 55917", "Steele County / ZIP 55917 sector", "Steele County / coords 43.8700, -93.0600", "Steele County / elevation 1296 ft band"]
+zillowHomeValueUsd: 266063
 ---
 
 **Engineering Notice for Blooming Prairie:** System optimized for 145 mg/L hard water scaling factors in Blooming Prairie. Regional dispatch grid: Steele County.

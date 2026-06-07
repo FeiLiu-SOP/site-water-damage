@@ -12,6 +12,7 @@ lng: -99.1000
 zipSample: ["76801"]
 zipCodes: ["76801"]
 localPaths: ["Brown County / coords 31.8200, -99.1000", "Brown County / elevation 1486 ft band", "Brown County / ZIP 76801 sector", "Brown County / primary ZIP 76801"]
+zillowHomeValueUsd: 168921
 ---
 
 **Engineering Notice for Lake Brownwood:** Cladding verification uses 150 mph routing baseline; lateral pressure note: 19.2 psf. Grid: Brown County.

@@ -12,6 +12,7 @@ lng: -93.3900
 zipSample: ["72833"]
 zipCodes: ["72833"]
 localPaths: ["Yell County / elevation 358 ft band", "Yell County / primary ZIP 72833", "Yell County / coords 35.0500, -93.3900", "Yell County / ZIP 72833 sector"]
+zillowHomeValueUsd: 153592
 ---
 
 **Engineering Notice for Danville:** structural drying capacity optimized for 358ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Yell County. Relative Humidity Threshold: 85%. Sensor sync: Active.

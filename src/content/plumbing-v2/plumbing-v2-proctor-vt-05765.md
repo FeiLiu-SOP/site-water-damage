@@ -12,6 +12,7 @@ lng: -73.0400
 zipSample: ["05765"]
 zipCodes: ["05765"]
 localPaths: ["Rutland County / elevation 479 ft band", "Rutland County / primary ZIP 05765", "Rutland County / ZIP 05765 sector", "Rutland County / coords 43.6700, -73.0400"]
+zillowHomeValueUsd: 255390
 ---
 
 **Engineering Notice for Proctor:** System optimized for 173 mg/L hard water scaling factors in Proctor. Regional dispatch grid: Rutland County.

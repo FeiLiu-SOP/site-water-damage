@@ -12,6 +12,8 @@ lng: -96.0600
 zipSample: ["74107", "74131", "74157", "74050"]
 zipCodes: ["74131", "74107", "74157", "74050"]
 localPaths: ["Tulsa County / primary ZIP 74050", "Tulsa County / ZIP 74107 sector", "Tulsa County / ZIP 74131 sector", "Tulsa County / elevation 745 ft band", "Tulsa County / ZIP 74050 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 184595
 ---
 
 **Engineering Notice for Oakhurst:** Site context locked to Tulsa County. Cladding Service integrity verification recorded.

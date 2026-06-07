@@ -12,6 +12,7 @@ lng: -84.0300
 zipSample: ["28906"]
 zipCodes: ["28906"]
 localPaths: ["Cherokee County / primary ZIP 28906", "Cherokee County / coords 35.0900, -84.0300", "Cherokee County / elevation 1555 ft band", "Cherokee County / ZIP 28906 sector"]
+zillowHomeValueUsd: 278376
 ---
 
 **Engineering Notice for Murphy:** Cladding verification uses 94 mph routing baseline; lateral pressure note: 12.5 psf. Grid: Cherokee County.

@@ -11,6 +11,7 @@ lng: -81.9300
 zipSample: ["44691"]
 zipCodes: ["44691"]
 localPaths: ["Wayne County / primary ZIP 44691", "Wayne County / coords 40.8200, -81.9300", "Wayne County / ZIP 44691 sector", "Wayne County / elevation 1138 ft band"]
+zillowHomeValueUsd: 260228
 ---
 
 **Engineering Notice for Wooster:** Structural loading calculated based on 1138 ft terrain assessment. Regional dispatch grid: Wayne County.

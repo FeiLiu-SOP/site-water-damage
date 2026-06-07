@@ -12,6 +12,7 @@ lng: -82.0300
 zipSample: ["45769"]
 zipCodes: ["45769"]
 localPaths: ["Meigs County / primary ZIP 45769", "Meigs County / coords 39.0300, -82.0300", "Meigs County / elevation 787 ft band", "Meigs County / ZIP 45769 sector"]
+zillowHomeValueUsd: 98229
 ---
 
 **Engineering Notice for Pomeroy:** structural drying capacity optimized for 787ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Meigs County. Relative Humidity Threshold: 80%. Sensor sync: Active.

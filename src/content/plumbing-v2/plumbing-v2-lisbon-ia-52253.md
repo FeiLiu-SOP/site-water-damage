@@ -12,6 +12,7 @@ lng: -91.3900
 zipSample: ["52253"]
 zipCodes: ["52253"]
 localPaths: ["Linn County / primary ZIP 52253", "Linn County / ZIP 52253 sector", "Linn County / elevation 850 ft band", "Linn County / coords 41.9200, -91.3900"]
+zillowHomeValueUsd: 301176
 ---
 
 **Engineering Notice for Lisbon:** System optimized for 126 mg/L hard water scaling factors in Lisbon. Regional dispatch grid: Linn County.

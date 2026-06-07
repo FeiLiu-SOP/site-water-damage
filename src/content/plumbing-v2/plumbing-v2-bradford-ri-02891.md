@@ -12,6 +12,7 @@ lng: -71.7500
 zipSample: ["02891", "02808"]
 zipCodes: ["02891", "02808"]
 localPaths: ["Washington County / coords 41.3900, -71.7500", "Washington County / primary ZIP 02891", "Washington County / elevation 79 ft band", "Washington County / ZIP 02808 sector", "Washington County / ZIP 02891 sector"]
+zillowHomeValueUsd: 621611
 ---
 
 **Engineering Notice for Bradford:** System optimized for 172 mg/L hard water scaling factors in Bradford. Regional dispatch grid: Washington County.

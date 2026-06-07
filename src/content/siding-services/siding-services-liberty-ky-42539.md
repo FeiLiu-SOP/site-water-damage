@@ -12,6 +12,7 @@ lng: -84.9300
 zipSample: ["42539"]
 zipCodes: ["42539"]
 localPaths: ["Casey County / primary ZIP 42539", "Casey County / elevation 810 ft band", "Casey County / coords 37.3200, -84.9300", "Casey County / ZIP 42539 sector"]
+zillowHomeValueUsd: 152246
 ---
 
 **Engineering Notice for Liberty:** Cladding verification uses 108 mph routing baseline; lateral pressure note: 14.2 psf. Grid: Casey County.

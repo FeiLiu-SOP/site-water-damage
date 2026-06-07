@@ -12,6 +12,7 @@ lng: -85.6000
 zipSample: ["36375", "36349"]
 zipCodes: ["36349", "36375"]
 localPaths: ["Geneva County / ZIP 36349 sector", "Geneva County / ZIP 36375 sector", "Geneva County / primary ZIP 36375", "Geneva County / elevation 312 ft band", "Geneva County / coords 31.1100, -85.6000"]
+zillowHomeValueUsd: 173829
 ---
 
 **Engineering Notice for Slocomb:** Cladding verification uses 104 mph routing baseline; lateral pressure note: 13.7 psf. Elevation: 312 ft AMSL. Grid: Geneva County.

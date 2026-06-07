@@ -12,6 +12,7 @@ lng: -91.8800
 zipSample: ["72556"]
 zipCodes: ["72556"]
 localPaths: ["Izard County / ZIP 72556 sector", "Izard County / coords 36.0600, -91.8800", "Izard County / elevation 650 ft band", "Izard County / primary ZIP 72556"]
+zillowHomeValueUsd: 181031
 ---
 
 **Engineering Notice for Melbourne:** structural drying capacity optimized for 650ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Izard County. Relative Humidity Threshold: 81%. Sensor sync: Active.

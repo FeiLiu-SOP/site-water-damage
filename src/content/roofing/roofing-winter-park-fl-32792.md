@@ -11,6 +11,7 @@ lng: -81.3400
 zipSample: ["32792", "32789", "32790"]
 zipCodes: ["32792", "32789", "32790"]
 localPaths: ["Orange County / ZIP 32792 sector", "Orange County / primary ZIP 32792", "Orange County / ZIP 32789 sector", "Orange County / elevation 69 ft band", "Orange County / ZIP 32790 sector"]
+zillowHomeValueUsd: 397312
 ---
 
 **Engineering Notice for Winter Park:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Orange County.

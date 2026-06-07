@@ -12,6 +12,7 @@ lng: -105.5100
 zipSample: ["80308", "80466"]
 zipCodes: ["80308", "80466"]
 localPaths: ["Boulder County / coords 39.9600, -105.5100", "Boulder County / elevation 8238 ft band", "Boulder County / primary ZIP 80466", "Boulder County / ZIP 80466 sector", "Boulder County / ZIP 80308 sector"]
+zillowHomeValueUsd: 677769
 ---
 
 **Engineering Notice for Nederland:** Cladding verification uses 96 mph routing baseline; lateral pressure note: 12.7 psf. Elevation: 8238 ft AMSL. Grid: Boulder County.

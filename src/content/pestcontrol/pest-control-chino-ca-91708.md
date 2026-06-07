@@ -11,6 +11,7 @@ lng: -117.6700
 zipSample: ["91708", "91710"]
 zipCodes: ["91710", "91708"]
 localPaths: ["San Bernardino County / ZIP 91708 sector", "San Bernardino County / elevation 620 ft band", "San Bernardino County / ZIP 91710 sector", "San Bernardino County / primary ZIP 91708", "San Bernardino County / coords 33.9800, -117.6700"]
+zillowHomeValueUsd: 726258
 ---
 
 **Engineering Notice for Chino:** Structural loading calculated based on 620 ft terrain assessment. Regional dispatch grid: San Bernardino County.

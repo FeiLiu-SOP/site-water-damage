@@ -12,6 +12,7 @@ lng: -74.5900
 zipSample: ["08501"]
 zipCodes: ["08501"]
 localPaths: ["Monmouth County / elevation 79 ft band", "Monmouth County / primary ZIP 08501", "Monmouth County / ZIP 08501 sector", "Monmouth County / coords 40.1800, -74.5900"]
+zillowHomeValueUsd: 713913
 ---
 
 **Engineering Notice for Allentown:** structural drying capacity optimized for 79ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Monmouth County. Relative Humidity Threshold: 73%. Sensor sync: Active.

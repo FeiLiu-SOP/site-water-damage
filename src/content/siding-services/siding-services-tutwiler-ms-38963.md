@@ -12,6 +12,7 @@ lng: -90.4300
 zipSample: ["38963"]
 zipCodes: ["38963"]
 localPaths: ["Tallahatchie County / ZIP 38963 sector", "Tallahatchie County / primary ZIP 38963", "Tallahatchie County / elevation 167 ft band", "Tallahatchie County / coords 34.0200, -90.4300"]
+zillowHomeValueUsd: 90788
 ---
 
 **Engineering Notice for Tutwiler:** Envelope check: Surface Sheathing assigned to wind-load band A with stress factor 0.91. Regional dispatch grid: Tallahatchie County.

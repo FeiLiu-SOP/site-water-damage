@@ -11,6 +11,7 @@ lng: -83.8900
 zipSample: ["48706", "48708"]
 zipCodes: ["48706", "48708"]
 localPaths: ["Bay County / elevation 600 ft band", "Bay County / ZIP 48706 sector", "Bay County / coords 43.5900, -83.8900", "Bay County / primary ZIP 48706", "Bay County / ZIP 48708 sector"]
+zillowHomeValueUsd: 185012
 ---
 
 **Engineering Notice for Bay City:** Structural loading calculated based on 600 ft terrain assessment. Regional dispatch grid: Bay County.

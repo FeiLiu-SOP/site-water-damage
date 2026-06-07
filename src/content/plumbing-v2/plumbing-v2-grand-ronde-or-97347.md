@@ -12,6 +12,7 @@ lng: -123.6200
 zipSample: ["97347"]
 zipCodes: ["97347"]
 localPaths: ["Polk County / elevation 338 ft band", "Polk County / primary ZIP 97347", "Polk County / ZIP 97347 sector", "Polk County / coords 45.0700, -123.6200"]
+zillowHomeValueUsd: 457444
 ---
 
 **Engineering Notice for Grand Ronde:** System optimized for 135 mg/L hard water scaling factors in Grand Ronde. Regional dispatch grid: Polk County.

@@ -12,6 +12,8 @@ lng: -102.2200
 zipSample: ["79752"]
 zipCodes: ["79752"]
 localPaths: ["Upton County / ZIP 79752 sector", "Upton County / primary ZIP 79752", "Upton County / elevation 2448 ft band", "Upton County / coords 31.1300, -102.2200"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 292977
 ---
 
 **Engineering Notice for McCamey:** System optimized for 123 mg/L hard water scaling factors in McCamey. Regional dispatch grid: Upton County.

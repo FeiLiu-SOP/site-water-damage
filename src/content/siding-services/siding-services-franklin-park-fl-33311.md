@@ -12,6 +12,7 @@ lng: -80.1800
 zipSample: ["33311"]
 zipCodes: ["33311"]
 localPaths: ["Broward County / ZIP 33311 sector", "Broward County / primary ZIP 33311", "Broward County / elevation 26 ft band", "Broward County / coords 26.1300, -80.1800"]
+zillowHomeValueUsd: 362748
 ---
 
 **Engineering Notice for Franklin Park:** Envelope check: Exterior Cladding assigned to wind-load band A with stress factor 0.98. Elevation: 26 ft AMSL. Regional dispatch grid: Broward County.

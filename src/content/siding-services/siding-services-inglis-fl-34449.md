@@ -12,6 +12,7 @@ lng: -82.6600
 zipSample: ["34449"]
 zipCodes: ["34449"]
 localPaths: ["Levy County / elevation 69 ft band", "Levy County / coords 29.0300, -82.6600", "Levy County / primary ZIP 34449", "Levy County / ZIP 34449 sector"]
+zillowHomeValueUsd: 250856
 ---
 
 **Engineering Notice for Inglis:** Weather Barrier Wrap was validated under stress factor 0.80; target tolerance set near 145 mph. Grid anchor: Levy County.

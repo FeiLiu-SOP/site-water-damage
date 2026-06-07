@@ -12,6 +12,7 @@ lng: -82.6000
 zipSample: ["41129"]
 zipCodes: ["41129"]
 localPaths: ["Boyd County / ZIP 41129 sector", "Boyd County / primary ZIP 41129", "Boyd County / coords 38.4200, -82.6000", "Boyd County / elevation 620 ft band"]
+zillowHomeValueUsd: 137419
 ---
 
 **Engineering Notice for Catlettsburg:** System optimized for 120 mg/L hard water scaling factors in Catlettsburg. Regional dispatch grid: Boyd County.

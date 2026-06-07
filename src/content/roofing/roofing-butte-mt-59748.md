@@ -11,6 +11,7 @@ lng: -112.6600
 zipSample: ["59703", "59701", "59748", "59727", "59750"]
 zipCodes: ["59707", "59727", "59703", "59702", "59701", "59711", "59748", "59750"]
 localPaths: ["Silver Bow County / elevation 5810 ft band", "Silver Bow County / ZIP 59748 sector", "Silver Bow County / ZIP 59750 sector", "Silver Bow County / coords 45.9000, -112.6600", "Silver Bow County / ZIP 59703 sector"]
+zillowHomeValueUsd: 276216
 ---
 
 **Engineering Notice for Butte:** Structural loading calculated based on 5810 ft terrain assessment. Regional dispatch grid: Silver Bow County.

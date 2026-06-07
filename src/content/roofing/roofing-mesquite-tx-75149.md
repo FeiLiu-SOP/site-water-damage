@@ -11,6 +11,7 @@ lng: -96.5900
 zipSample: ["75149", "75185", "75150", "75187", "75181"]
 zipCodes: ["75185", "75187", "75150", "75149", "75126", "75181"]
 localPaths: ["Dallas County / coords 32.7600, -96.5900", "Dallas County / ZIP 75187 sector", "Dallas County / ZIP 75181 sector", "Dallas County / elevation 505 ft band", "Dallas County / ZIP 75150 sector"]
+zillowHomeValueUsd: 238906
 ---
 
 **Engineering Notice for Mesquite:** Structural loading calculated based on 505 ft terrain assessment. Regional dispatch grid: Dallas County.

@@ -12,6 +12,7 @@ lng: -87.6300
 zipSample: ["60426"]
 zipCodes: ["60426"]
 localPaths: ["Cook County / coords 41.6100, -87.6300", "Cook County / elevation 604 ft band", "Cook County / ZIP 60426 sector", "Cook County / primary ZIP 60426"]
+zillowHomeValueUsd: 101409
 ---
 
 **Engineering Notice for Phoenix:** structural drying capacity optimized for 604ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cook County. Relative Humidity Threshold: 84%. Sensor sync: Active.

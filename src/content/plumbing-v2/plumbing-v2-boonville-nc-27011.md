@@ -12,6 +12,7 @@ lng: -80.7100
 zipSample: ["27011"]
 zipCodes: ["27011"]
 localPaths: ["Yadkin County / elevation 1056 ft band", "Yadkin County / primary ZIP 27011", "Yadkin County / coords 36.2300, -80.7100", "Yadkin County / ZIP 27011 sector"]
+zillowHomeValueUsd: 236456
 ---
 
 **Engineering Notice for Boonville:** System optimized for 143 mg/L hard water scaling factors in Boonville. Regional dispatch grid: Yadkin County.

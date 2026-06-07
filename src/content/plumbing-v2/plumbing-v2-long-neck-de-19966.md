@@ -12,6 +12,7 @@ lng: -75.1500
 zipSample: ["19966"]
 zipCodes: ["19966"]
 localPaths: ["Sussex County / elevation 16 ft band", "Sussex County / ZIP 19966 sector", "Sussex County / primary ZIP 19966", "Sussex County / coords 38.6200, -75.1500"]
+zillowHomeValueUsd: 397213
 ---
 
 **Engineering Notice for Long Neck:** System optimized for 149 mg/L hard water scaling factors in Long Neck. Regional dispatch grid: Sussex County.

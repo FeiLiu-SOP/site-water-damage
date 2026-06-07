@@ -12,6 +12,7 @@ lng: -75.3700
 zipSample: ["19016", "19013"]
 zipCodes: ["19013", "19016"]
 localPaths: ["Delaware County / primary ZIP 19013", "Delaware County / ZIP 19013 sector", "Delaware County / ZIP 19016 sector", "Delaware County / coords 39.8500, -75.3700", "Delaware County / elevation 56 ft band"]
+zillowHomeValueUsd: 113470
 ---
 
 **Engineering Notice for Chester:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Delaware County.

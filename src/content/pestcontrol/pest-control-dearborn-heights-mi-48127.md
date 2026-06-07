@@ -11,6 +11,7 @@ lng: -83.2800
 zipSample: ["48125", "48127"]
 zipCodes: ["48125", "48127"]
 localPaths: ["Wayne County / ZIP 48125 sector", "Wayne County / primary ZIP 48127", "Wayne County / elevation 627 ft band", "Wayne County / ZIP 48127 sector", "Wayne County / coords 42.3200, -83.2800"]
+zillowHomeValueUsd: 259550
 ---
 
 **Engineering Notice for Dearborn Heights:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Wayne County.

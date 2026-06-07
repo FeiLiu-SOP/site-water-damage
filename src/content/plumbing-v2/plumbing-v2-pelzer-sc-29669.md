@@ -12,6 +12,7 @@ lng: -82.4600
 zipSample: ["29669"]
 zipCodes: ["29669"]
 localPaths: ["Anderson County / primary ZIP 29669", "Anderson County / ZIP 29669 sector", "Anderson County / elevation 794 ft band", "Anderson County / coords 34.6400, -82.4600"]
+zillowHomeValueUsd: 269251
 ---
 
 **Engineering Notice for Pelzer:** System optimized for 122 mg/L hard water scaling factors in Pelzer. Regional dispatch grid: Anderson County.

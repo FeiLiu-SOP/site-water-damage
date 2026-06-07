@@ -12,6 +12,7 @@ lng: -102.3600
 zipSample: ["79758"]
 zipCodes: ["79758"]
 localPaths: ["Ector County / elevation 2940 ft band", "Ector County / primary ZIP 79758", "Ector County / ZIP 79758 sector", "Ector County / coords 32.0100, -102.3600"]
+zillowHomeValueUsd: 387047
 ---
 
 **Engineering Notice for Gardendale:** System optimized for 159 mg/L hard water scaling factors in Gardendale. Regional dispatch grid: Ector County.

@@ -12,6 +12,7 @@ lng: -88.6000
 zipSample: ["53156"]
 zipCodes: ["53156"]
 localPaths: ["Jefferson County / ZIP 53156 sector", "Jefferson County / elevation 840 ft band", "Jefferson County / primary ZIP 53156", "Jefferson County / coords 42.8800, -88.6000"]
+zillowHomeValueUsd: 368578
 ---
 
 **Engineering Notice for Palmyra:** System optimized for 138 mg/L hard water scaling factors in Palmyra. Regional dispatch grid: Jefferson County.

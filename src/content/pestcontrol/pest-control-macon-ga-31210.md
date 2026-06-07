@@ -11,6 +11,7 @@ lng: -83.7000
 zipSample: ["31207", "31221", "31206", "31211", "31204"]
 zipCodes: ["31205", "31207", "31052", "31204", "31213", "31216", "31208", "31201", "31296", "31294", "31295", "31206"]
 localPaths: ["Bibb County / primary ZIP 31210", "Bibb County / ZIP 31206 sector", "Bibb County / ZIP 31211 sector", "Bibb County / ZIP 31221 sector", "Bibb County / coords 32.8100, -83.7000"]
+zillowHomeValueUsd: 286911
 ---
 
 **Engineering Notice for Macon:** Structural loading calculated based on 413 ft terrain assessment. Regional dispatch grid: Bibb County.

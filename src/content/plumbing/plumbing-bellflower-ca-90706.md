@@ -12,6 +12,7 @@ lng: -118.1300
 zipSample: ["90706", "90707"]
 zipCodes: ["90707", "90706"]
 localPaths: ["Los Angeles County / elevation 85 ft band", "Los Angeles County / primary ZIP 90706", "Los Angeles County / ZIP 90706 sector", "Los Angeles County / coords 33.8900, -118.1300", "Los Angeles County / ZIP 90707 sector"]
+zillowHomeValueUsd: 802006
 ---
 
 **Engineering Notice for Bellflower:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Los Angeles County.

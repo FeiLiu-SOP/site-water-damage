@@ -11,6 +11,7 @@ lng: -76.6100
 zipSample: ["21226", "21278", "21275", "21287", "21210"]
 zipCodes: ["21278", "21264", "21270", "21263", "21201", "21273", "21287", "21231", "21217", "21298", "21215", "21281"]
 localPaths: ["Baltimore County / primary ZIP 21218", "Baltimore County / ZIP 21226 sector", "Baltimore County / ZIP 21210 sector", "Baltimore County / ZIP 21275 sector", "Baltimore County / coords 39.3100, -76.6100"]
+zillowHomeValueUsd: 185299
 ---
 
 **Engineering Notice for Baltimore:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Baltimore County.

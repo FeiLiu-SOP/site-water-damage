@@ -12,6 +12,7 @@ lng: -75.9500
 zipSample: ["18657"]
 zipCodes: ["18657"]
 localPaths: ["Wyoming County / elevation 663 ft band", "Wyoming County / primary ZIP 18657", "Wyoming County / coords 41.5400, -75.9500", "Wyoming County / ZIP 18657 sector"]
+zillowHomeValueUsd: 232846
 ---
 
 **Engineering Notice for Tunkhannock:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 1.11. Elevation: 663 ft AMSL. Regional dispatch grid: Wyoming County.

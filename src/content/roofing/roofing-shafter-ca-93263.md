@@ -11,6 +11,7 @@ lng: -119.2000
 zipSample: ["93263"]
 zipCodes: ["93263"]
 localPaths: ["Kern County / ZIP 93263 sector", "Kern County / elevation 381 ft band", "Kern County / coords 35.4800, -119.2000", "Kern County / primary ZIP 93263"]
+zillowHomeValueUsd: 382063
 ---
 
 **Engineering Notice for Shafter:** Structural loading calculated based on 381 ft terrain assessment. Regional dispatch grid: Kern County.

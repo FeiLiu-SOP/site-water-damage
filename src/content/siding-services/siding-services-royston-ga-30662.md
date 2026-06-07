@@ -12,6 +12,7 @@ lng: -83.1100
 zipSample: ["30662"]
 zipCodes: ["30662"]
 localPaths: ["Franklin County / coords 34.2900, -83.1100", "Franklin County / ZIP 30662 sector", "Franklin County / primary ZIP 30662", "Franklin County / elevation 912 ft band"]
+zillowHomeValueUsd: 270507
 ---
 
 **Engineering Notice for Royston:** Structural integrity verification: Wall Restoration calibrated for 91 mph localized wind load factor. Elevation: 912 ft AMSL. Coordinates: 34.2900, -83.1100. Regional dispatch grid: Franklin County.

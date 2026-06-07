@@ -12,6 +12,7 @@ lng: -87.5900
 zipSample: ["36530"]
 zipCodes: ["36530"]
 localPaths: ["Baldwin County / ZIP 36530 sector", "Baldwin County / primary ZIP 36530", "Baldwin County / coords 30.3900, -87.5900", "Baldwin County / elevation 62 ft band"]
+zillowHomeValueUsd: 344463
 ---
 
 **Engineering Notice for Elberta:** System optimized for 137 mg/L hard water scaling factors in Elberta. Regional dispatch grid: Baldwin County.

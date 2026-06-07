@@ -12,6 +12,7 @@ lng: -80.3400
 zipSample: ["33023", "33027", "33084", "33029", "33028"]
 zipCodes: ["33084", "33025", "33026", "33029", "33024", "33023", "33027", "33028"]
 localPaths: ["Broward County / ZIP 33028 sector", "Broward County / elevation 13 ft band", "Broward County / ZIP 33027 sector", "Broward County / primary ZIP 33029", "Broward County / coords 26.0100, -80.3400"]
+zillowHomeValueUsd: 708676
 ---
 
 **Engineering Notice for Pembroke Pines:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Broward County.

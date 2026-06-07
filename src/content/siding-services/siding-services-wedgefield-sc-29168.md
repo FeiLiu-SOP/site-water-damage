@@ -12,6 +12,7 @@ lng: -80.5200
 zipSample: ["29168"]
 zipCodes: ["29168"]
 localPaths: ["Sumter County / coords 33.8800, -80.5200", "Sumter County / primary ZIP 29168", "Sumter County / elevation 223 ft band", "Sumter County / ZIP 29168 sector"]
+zillowHomeValueUsd: 182322
 ---
 
 **Engineering Notice for Wedgefield:** Structural integrity verification: Cladding Retrofit calibrated for 98 mph localized wind load factor. Elevation: 223 ft AMSL. Regional dispatch grid: Sumter County.

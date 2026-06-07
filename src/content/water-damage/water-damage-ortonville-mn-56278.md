@@ -12,6 +12,7 @@ lng: -96.4400
 zipSample: ["56278"]
 zipCodes: ["56278"]
 localPaths: ["Big Stone County / elevation 1043 ft band", "Big Stone County / primary ZIP 56278", "Big Stone County / coords 45.3000, -96.4400", "Big Stone County / ZIP 56278 sector"]
+zillowHomeValueUsd: 197205
 ---
 
 **Engineering Notice for Ortonville:** structural drying capacity optimized for 1043ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Big Stone County. Relative Humidity Threshold: 81%. Sensor sync: Active.

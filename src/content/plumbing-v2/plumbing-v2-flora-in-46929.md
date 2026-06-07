@@ -12,6 +12,7 @@ lng: -86.5200
 zipSample: ["46929", "46913"]
 zipCodes: ["46913", "46929"]
 localPaths: ["Carroll County / primary ZIP 46929", "Carroll County / ZIP 46913 sector", "Carroll County / ZIP 46929 sector", "Carroll County / elevation 715 ft band", "Carroll County / coords 40.5500, -86.5200"]
+zillowHomeValueUsd: 202488
 ---
 
 **Engineering Notice for Flora:** System optimized for 170 mg/L hard water scaling factors in Flora. Regional dispatch grid: Carroll County.

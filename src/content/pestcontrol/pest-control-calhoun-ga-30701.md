@@ -11,6 +11,7 @@ lng: -84.9400
 zipSample: ["30701", "30703"]
 zipCodes: ["30701", "30703"]
 localPaths: ["Gordon County / coords 34.4900, -84.9400", "Gordon County / elevation 666 ft band", "Gordon County / primary ZIP 30701", "Gordon County / ZIP 30701 sector", "Gordon County / ZIP 30703 sector"]
+zillowHomeValueUsd: 273348
 ---
 
 **Engineering Notice for Calhoun:** Structural loading calculated based on 666 ft terrain assessment. Regional dispatch grid: Gordon County.

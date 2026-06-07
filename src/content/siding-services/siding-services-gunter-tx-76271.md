@@ -12,6 +12,7 @@ lng: -96.7600
 zipSample: ["76271", "75459", "75058"]
 zipCodes: ["75459", "75058", "76271"]
 localPaths: ["Grayson County / ZIP 75058 sector", "Grayson County / primary ZIP 76271", "Grayson County / ZIP 75459 sector", "Grayson County / elevation 686 ft band", "Grayson County / ZIP 76271 sector"]
+zillowHomeValueUsd: 385696
 ---
 
 **Engineering Notice for Gunter:** Structural integrity verification: Exterior Envelope calibrated for 131 mph localized wind load factor. Regional dispatch grid: Grayson County.

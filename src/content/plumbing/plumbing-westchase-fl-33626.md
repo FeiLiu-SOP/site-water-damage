@@ -12,6 +12,7 @@ lng: -82.6100
 zipSample: ["33626"]
 zipCodes: ["33626"]
 localPaths: ["Hillsborough County / coords 28.0600, -82.6100", "Hillsborough County / ZIP 33626 sector", "Hillsborough County / elevation 43 ft band", "Hillsborough County / primary ZIP 33626"]
+zillowHomeValueUsd: 569051
 ---
 
 **Engineering Notice for Westchase:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Hillsborough County.

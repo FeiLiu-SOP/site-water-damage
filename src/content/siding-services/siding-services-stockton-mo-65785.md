@@ -12,6 +12,7 @@ lng: -93.8000
 zipSample: ["65785"]
 zipCodes: ["65785"]
 localPaths: ["Cedar County / elevation 981 ft band", "Cedar County / primary ZIP 65785", "Cedar County / coords 37.7000, -93.8000", "Cedar County / ZIP 65785 sector"]
+zillowHomeValueUsd: 251410
 ---
 
 **Engineering Notice for Stockton:** Vinyl Panels was validated under stress factor 0.85; target tolerance set near 107 mph. Grid anchor: Cedar County.

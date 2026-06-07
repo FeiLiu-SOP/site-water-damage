@@ -12,6 +12,7 @@ lng: -97.6500
 zipSample: ["76665"]
 zipCodes: ["76665"]
 localPaths: ["Bosque County / elevation 771 ft band", "Bosque County / coords 31.9300, -97.6500", "Bosque County / primary ZIP 76665", "Bosque County / ZIP 76665 sector"]
+zillowHomeValueUsd: 268926
 ---
 
 **Engineering Notice for Meridian:** System optimized for 146 mg/L hard water scaling factors in Meridian. Regional dispatch grid: Bosque County.

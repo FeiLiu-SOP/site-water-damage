@@ -12,6 +12,7 @@ lng: -83.4300
 zipSample: ["30565"]
 zipCodes: ["30565"]
 localPaths: ["Jackson County / ZIP 30565 sector", "Jackson County / coords 34.1200, -83.4300", "Jackson County / primary ZIP 30565", "Jackson County / elevation 846 ft band"]
+zillowHomeValueUsd: 344464
 ---
 
 **Engineering Notice for Nicholson:** System optimized for 120 mg/L hard water scaling factors in Nicholson. Regional dispatch grid: Jackson County.

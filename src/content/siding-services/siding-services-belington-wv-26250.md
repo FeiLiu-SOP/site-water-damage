@@ -12,6 +12,7 @@ lng: -79.9400
 zipSample: ["26250"]
 zipCodes: ["26250"]
 localPaths: ["Barbour County / elevation 1706 ft band", "Barbour County / ZIP 26250 sector", "Barbour County / coords 39.0200, -79.9400", "Barbour County / primary ZIP 26250"]
+zillowHomeValueUsd: 107943
 ---
 
 **Engineering Notice for Belington:** Facade Renewal was validated under stress factor 1.16; target tolerance set near 99 mph. Coordinates: 39.0200, -79.9400. Grid anchor: Barbour County.

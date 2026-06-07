@@ -12,6 +12,7 @@ lng: -83.8300
 zipSample: ["28901"]
 zipCodes: ["28901"]
 localPaths: ["Cherokee County / coords 35.2000, -83.8300", "Cherokee County / elevation 1804 ft band", "Cherokee County / ZIP 28901 sector", "Cherokee County / primary ZIP 28901"]
+zillowHomeValueUsd: 220999
 ---
 
 **Engineering Notice for Andrews:** System optimized for 120 mg/L hard water scaling factors in Andrews. Regional dispatch grid: Cherokee County.

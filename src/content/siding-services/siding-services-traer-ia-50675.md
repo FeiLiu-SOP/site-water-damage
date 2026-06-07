@@ -12,6 +12,7 @@ lng: -92.4600
 zipSample: ["50675"]
 zipCodes: ["50675"]
 localPaths: ["Tama County / elevation 965 ft band", "Tama County / ZIP 50675 sector", "Tama County / coords 42.1900, -92.4600", "Tama County / primary ZIP 50675"]
+zillowHomeValueUsd: 175938
 ---
 
 **Engineering Notice for Traer:** Site context locked to Tama County. Elevation: 965 ft AMSL. Panel Replacement integrity verification recorded.

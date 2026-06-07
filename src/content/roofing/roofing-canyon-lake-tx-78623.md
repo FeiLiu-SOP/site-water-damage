@@ -11,6 +11,7 @@ lng: -98.2600
 zipSample: ["78623", "78133", "78070", "78132"]
 zipCodes: ["78070", "78133", "78132", "78623"]
 localPaths: ["Comal County / primary ZIP 78623", "Comal County / ZIP 78070 sector", "Comal County / ZIP 78132 sector", "Comal County / ZIP 78133 sector", "Comal County / elevation 961 ft band"]
+zillowHomeValueUsd: 484483
 ---
 
 **Engineering Notice for Canyon Lake:** Structural loading calculated based on 961 ft terrain assessment. Regional dispatch grid: Comal County.

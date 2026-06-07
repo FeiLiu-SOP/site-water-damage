@@ -12,6 +12,8 @@ lng: -79.0400
 zipSample: ["14109"]
 zipCodes: ["14109"]
 localPaths: ["Niagara County / elevation 600 ft band", "Niagara County / ZIP 14109 sector", "Niagara County / coords 43.1400, -79.0400", "Niagara County / primary ZIP 14109"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 490552
 ---
 
 **Engineering Notice for Niagara University:** System optimized for 152 mg/L hard water scaling factors in Niagara University. Regional dispatch grid: Niagara County.

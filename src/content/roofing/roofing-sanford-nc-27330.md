@@ -11,6 +11,7 @@ lng: -79.1800
 zipSample: ["27331", "27332", "27330"]
 zipCodes: ["27332", "27330", "27331"]
 localPaths: ["Lee County / ZIP 27332 sector", "Lee County / primary ZIP 27330", "Lee County / coords 35.4900, -79.1800", "Lee County / ZIP 27330 sector", "Lee County / ZIP 27331 sector"]
+zillowHomeValueUsd: 294251
 ---
 
 **Engineering Notice for Sanford:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Lee County.

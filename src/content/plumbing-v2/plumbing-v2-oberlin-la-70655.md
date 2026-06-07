@@ -12,6 +12,7 @@ lng: -92.7700
 zipSample: ["70648", "70655"]
 zipCodes: ["70655", "70648"]
 localPaths: ["Allen Parish / elevation 125 ft band", "Allen Parish / primary ZIP 70655", "Allen Parish / coords 30.6100, -92.7700", "Allen Parish / ZIP 70648 sector", "Allen Parish / ZIP 70655 sector"]
+zillowHomeValueUsd: 90591
 ---
 
 **Engineering Notice for Oberlin:** System optimized for 180 mg/L hard water scaling factors in Oberlin. Regional dispatch grid: Allen Parish.

@@ -12,6 +12,7 @@ lng: -155.9100
 zipSample: ["96750"]
 zipCodes: ["96750"]
 localPaths: ["Hawaii County / ZIP 96750 sector", "Hawaii County / coords 19.5300, -155.9100", "Hawaii County / primary ZIP 96750", "Hawaii County / elevation 2014 ft band"]
+zillowHomeValueUsd: 764345
 ---
 
 **Engineering Notice for Kealakekua:** System optimized for 163 mg/L hard water scaling factors in Kealakekua. Regional dispatch grid: Hawaii County.

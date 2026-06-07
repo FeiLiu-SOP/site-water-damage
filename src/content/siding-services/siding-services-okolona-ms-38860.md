@@ -12,6 +12,7 @@ lng: -88.7500
 zipSample: ["38860"]
 zipCodes: ["38860"]
 localPaths: ["Chickasaw County / ZIP 38860 sector", "Chickasaw County / primary ZIP 38860", "Chickasaw County / elevation 325 ft band", "Chickasaw County / coords 34.0100, -88.7500"]
+zillowHomeValueUsd: 125065
 ---
 
 **Engineering Notice for Okolona:** Site context locked to Chickasaw County. Elevation: 325 ft AMSL. Coordinates: 34.0100, -88.7500. Vinyl Panels integrity verification recorded.

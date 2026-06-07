@@ -12,6 +12,7 @@ lng: -83.3000
 zipSample: ["43344"]
 zipCodes: ["43344"]
 localPaths: ["Union County / primary ZIP 43344", "Union County / elevation 951 ft band", "Union County / coords 40.4300, -83.3000", "Union County / ZIP 43344 sector"]
+zillowHomeValueUsd: 256122
 ---
 
 **Engineering Notice for Richwood:** Envelope check: Weather Barrier Wrap assigned to wind-load band A with stress factor 0.99. Elevation: 951 ft AMSL. Regional dispatch grid: Union County.

@@ -12,6 +12,7 @@ lng: -73.7800
 zipSample: ["10583"]
 zipCodes: ["10583"]
 localPaths: ["Westchester County / coords 40.9900, -73.7800", "Westchester County / elevation 289 ft band", "Westchester County / ZIP 10583 sector", "Westchester County / primary ZIP 10583"]
+zillowHomeValueUsd: 1499891
 ---
 
 **Engineering Notice for Scarsdale:** Structural loading calculated based on 289 ft terrain assessment. Regional dispatch grid: Westchester County.

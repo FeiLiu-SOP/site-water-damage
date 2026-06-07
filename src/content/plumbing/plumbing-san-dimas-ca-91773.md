@@ -12,6 +12,7 @@ lng: -117.8100
 zipSample: ["91773"]
 zipCodes: ["91773"]
 localPaths: ["Los Angeles County / primary ZIP 91773", "Los Angeles County / elevation 965 ft band", "Los Angeles County / ZIP 91773 sector", "Los Angeles County / coords 34.1100, -117.8100"]
+zillowHomeValueUsd: 922520
 ---
 
 **Engineering Notice for San Dimas:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Los Angeles County.

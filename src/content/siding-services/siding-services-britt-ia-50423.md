@@ -12,6 +12,7 @@ lng: -93.8000
 zipSample: ["50423"]
 zipCodes: ["50423"]
 localPaths: ["Hancock County / primary ZIP 50423", "Hancock County / elevation 1227 ft band", "Hancock County / ZIP 50423 sector", "Hancock County / coords 43.1000, -93.8000"]
+zillowHomeValueUsd: 153417
 ---
 
 **Engineering Notice for Britt:** Structural integrity verification: Cladding Service calibrated for 107 mph localized wind load factor. Coordinates: 43.1000, -93.8000. Regional dispatch grid: Hancock County.

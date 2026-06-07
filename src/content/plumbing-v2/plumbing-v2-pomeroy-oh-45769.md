@@ -12,6 +12,7 @@ lng: -82.0300
 zipSample: ["45769"]
 zipCodes: ["45769"]
 localPaths: ["Meigs County / coords 39.0300, -82.0300", "Meigs County / primary ZIP 45769", "Meigs County / ZIP 45769 sector", "Meigs County / elevation 787 ft band"]
+zillowHomeValueUsd: 98227
 ---
 
 **Engineering Notice for Pomeroy:** System optimized for 125 mg/L hard water scaling factors in Pomeroy. Regional dispatch grid: Meigs County.

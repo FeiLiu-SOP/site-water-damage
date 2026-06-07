@@ -11,6 +11,7 @@ lng: -72.5200
 zipSample: ["11946"]
 zipCodes: ["11946"]
 localPaths: ["Suffolk County / ZIP 11946 sector", "Suffolk County / elevation 20 ft band", "Suffolk County / primary ZIP 11946", "Suffolk County / coords 40.8700, -72.5200"]
+zillowHomeValueUsd: 933957
 ---
 
 **Engineering Notice for Hampton Bays:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Suffolk County.

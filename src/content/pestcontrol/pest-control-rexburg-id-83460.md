@@ -11,6 +11,7 @@ lng: -111.7900
 zipSample: ["83440", "83460"]
 zipCodes: ["83460", "83440"]
 localPaths: ["Madison County / ZIP 83440 sector", "Madison County / coords 43.8200, -111.7900", "Madison County / ZIP 83460 sector", "Madison County / elevation 4872 ft band", "Madison County / primary ZIP 83460"]
+zillowHomeValueUsd: 417079
 ---
 
 **Engineering Notice for Rexburg:** Structural loading calculated based on 4872 ft terrain assessment. Regional dispatch grid: Madison County.

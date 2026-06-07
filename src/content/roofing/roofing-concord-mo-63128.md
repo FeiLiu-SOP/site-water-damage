@@ -11,6 +11,7 @@ lng: -90.3600
 zipSample: ["63128", "63123"]
 zipCodes: ["63123", "63128"]
 localPaths: ["St. Louis County / primary ZIP 63128", "St. Louis County / ZIP 63123 sector", "St. Louis County / elevation 574 ft band", "St. Louis County / ZIP 63128 sector", "St. Louis County / coords 38.5100, -90.3600"]
+zillowHomeValueUsd: 369560
 ---
 
 **Engineering Notice for Concord:** Structural loading calculated based on 574 ft terrain assessment. Regional dispatch grid: St. Louis County.

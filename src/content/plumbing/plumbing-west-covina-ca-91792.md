@@ -12,6 +12,7 @@ lng: -117.9100
 zipSample: ["91792", "91791", "91790", "91793"]
 zipCodes: ["91790", "91791", "91793", "91792"]
 localPaths: ["Los Angeles County / ZIP 91792 sector", "Los Angeles County / ZIP 91790 sector", "Los Angeles County / ZIP 91793 sector", "Los Angeles County / ZIP 91791 sector", "Los Angeles County / coords 34.0600, -117.9100"]
+zillowHomeValueUsd: 819016
 ---
 
 **Engineering Notice for West Covina:** Structural loading calculated based on 446 ft terrain assessment. Regional dispatch grid: Los Angeles County.

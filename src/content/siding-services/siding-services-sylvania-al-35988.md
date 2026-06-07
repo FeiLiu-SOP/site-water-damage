@@ -12,6 +12,7 @@ lng: -85.8100
 zipSample: ["35988", "35968"]
 zipCodes: ["35968", "35988"]
 localPaths: ["DeKalb County / ZIP 35968 sector", "DeKalb County / ZIP 35988 sector", "DeKalb County / primary ZIP 35988", "DeKalb County / coords 34.5600, -85.8100", "DeKalb County / elevation 1362 ft band"]
+zillowHomeValueUsd: 195112
 ---
 
 **Engineering Notice for Sylvania:** Envelope check: Exterior Cladding assigned to wind-load band A with stress factor 1.20. Elevation: 1362 ft AMSL. Regional dispatch grid: DeKalb County.

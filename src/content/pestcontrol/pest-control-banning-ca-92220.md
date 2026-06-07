@@ -11,6 +11,7 @@ lng: -116.9000
 zipSample: ["92220"]
 zipCodes: ["92220"]
 localPaths: ["Riverside County / elevation 2930 ft band", "Riverside County / ZIP 92220 sector", "Riverside County / primary ZIP 92220", "Riverside County / coords 33.9500, -116.9000"]
+zillowHomeValueUsd: 414159
 ---
 
 **Engineering Notice for Banning:** Structural loading calculated based on 2930 ft terrain assessment. Regional dispatch grid: Riverside County.

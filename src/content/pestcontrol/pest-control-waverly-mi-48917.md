@@ -11,6 +11,7 @@ lng: -84.6400
 zipSample: ["48917", "48908"]
 zipCodes: ["48908", "48917"]
 localPaths: ["Eaton County / ZIP 48917 sector", "Eaton County / ZIP 48908 sector", "Eaton County / coords 42.7400, -84.6400", "Eaton County / primary ZIP 48917", "Eaton County / elevation 869 ft band"]
+zillowHomeValueUsd: 260293
 ---
 
 **Engineering Notice for Waverly:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: Eaton County.

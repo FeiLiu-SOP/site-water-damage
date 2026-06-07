@@ -12,6 +12,7 @@ lng: -82.1500
 zipSample: ["37643"]
 zipCodes: ["37643"]
 localPaths: ["Carter County / elevation 2963 ft band", "Carter County / primary ZIP 37643", "Carter County / coords 36.4000, -82.1500", "Carter County / ZIP 37643 sector"]
+zillowHomeValueUsd: 230355
 ---
 
 **Engineering Notice for Hunter:** Panel Replacement was validated under stress factor 1.14; target tolerance set near 101 mph. Coordinates: 36.4000, -82.1500. Grid anchor: Carter County.

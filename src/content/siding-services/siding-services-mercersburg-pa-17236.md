@@ -12,6 +12,7 @@ lng: -77.9000
 zipSample: ["17236"]
 zipCodes: ["17236"]
 localPaths: ["Franklin County / primary ZIP 17236", "Franklin County / coords 39.8300, -77.9000", "Franklin County / elevation 551 ft band", "Franklin County / ZIP 17236 sector"]
+zillowHomeValueUsd: 293459
 ---
 
 **Engineering Notice for Mercersburg:** Envelope check: Wall Restoration assigned to wind-load band B with stress factor 1.01. Elevation: 551 ft AMSL. Regional dispatch grid: Franklin County.

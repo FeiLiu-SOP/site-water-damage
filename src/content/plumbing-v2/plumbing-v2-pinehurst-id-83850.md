@@ -12,6 +12,7 @@ lng: -116.2300
 zipSample: ["83850"]
 zipCodes: ["83850"]
 localPaths: ["Shoshone County / coords 47.5400, -116.2300", "Shoshone County / elevation 2228 ft band", "Shoshone County / ZIP 83850 sector", "Shoshone County / primary ZIP 83850"]
+zillowHomeValueUsd: 303447
 ---
 
 **Engineering Notice for Pinehurst:** System optimized for 151 mg/L hard water scaling factors in Pinehurst. Regional dispatch grid: Shoshone County.

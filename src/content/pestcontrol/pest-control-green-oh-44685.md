@@ -11,6 +11,7 @@ lng: -81.4800
 zipSample: ["44312", "44319", "44216", "44232", "44685"]
 zipCodes: ["44685", "44232", "44319", "44312", "44720", "44216"]
 localPaths: ["Summit County / elevation 1191 ft band", "Summit County / ZIP 44216 sector", "Summit County / primary ZIP 44685", "Summit County / ZIP 44685 sector", "Summit County / ZIP 44312 sector"]
+zillowHomeValueUsd: 315376
 ---
 
 **Engineering Notice for Green:** Structural loading calculated based on 1191 ft terrain assessment. Regional dispatch grid: Summit County.

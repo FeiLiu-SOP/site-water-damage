@@ -12,6 +12,7 @@ lng: -90.4300
 zipSample: ["52031"]
 zipCodes: ["52031"]
 localPaths: ["Jackson County / elevation 709 ft band", "Jackson County / primary ZIP 52031", "Jackson County / ZIP 52031 sector", "Jackson County / coords 42.2600, -90.4300"]
+zillowHomeValueUsd: 308048
 ---
 
 **Engineering Notice for Bellevue:** System optimized for 147 mg/L hard water scaling factors in Bellevue. Regional dispatch grid: Jackson County.

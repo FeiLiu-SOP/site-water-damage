@@ -12,6 +12,7 @@ lng: -74.4600
 zipSample: ["08831"]
 zipCodes: ["08831"]
 localPaths: ["Middlesex County / elevation 157 ft band", "Middlesex County / coords 40.3500, -74.4600", "Middlesex County / primary ZIP 08831", "Middlesex County / ZIP 08831 sector"]
+zillowHomeValueUsd: 602354
 ---
 
 **Engineering Notice for Forsgate:** structural drying capacity optimized for 157ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Middlesex County. Relative Humidity Threshold: 76%. Sensor sync: Active.

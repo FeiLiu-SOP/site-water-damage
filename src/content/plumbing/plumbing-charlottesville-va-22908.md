@@ -12,6 +12,7 @@ lng: -78.4900
 zipSample: ["22906", "22908", "22901", "22904", "22903"]
 zipCodes: ["22902", "22903", "22908", "22909", "22904", "22905", "22901", "22906"]
 localPaths: ["Charlottesville County / primary ZIP 22908", "Charlottesville County / ZIP 22908 sector", "Charlottesville County / elevation 456 ft band", "Charlottesville County / coords 38.0400, -78.4900", "Charlottesville County / ZIP 22904 sector"]
+zillowHomeValueUsd: 533810
 ---
 
 **Engineering Notice for Charlottesville:** Structural loading calculated based on 456 ft terrain assessment. Regional dispatch grid: Charlottesville County.

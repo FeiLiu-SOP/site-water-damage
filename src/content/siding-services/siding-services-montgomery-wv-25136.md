@@ -12,6 +12,7 @@ lng: -81.3200
 zipSample: ["25126", "25136"]
 zipCodes: ["25126", "25136"]
 localPaths: ["Fayette County / ZIP 25136 sector", "Fayette County / ZIP 25126 sector", "Fayette County / primary ZIP 25136", "Fayette County / coords 38.1700, -81.3200", "Fayette County / elevation 1355 ft band"]
+zillowHomeValueUsd: 77658
 ---
 
 **Engineering Notice for Montgomery:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 0.92. Regional dispatch grid: Fayette County.

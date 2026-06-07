@@ -12,6 +12,7 @@ lng: -83.5600
 zipSample: ["43044"]
 zipCodes: ["43044"]
 localPaths: ["Champaign County / primary ZIP 43044", "Champaign County / elevation 1093 ft band", "Champaign County / ZIP 43044 sector", "Champaign County / coords 40.0700, -83.5600"]
+zillowHomeValueUsd: 272708
 ---
 
 **Engineering Notice for Mechanicsburg:** structural drying capacity optimized for 1093ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Champaign County. Relative Humidity Threshold: 75%. Sensor sync: Active.

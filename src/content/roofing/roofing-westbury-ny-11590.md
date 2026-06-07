@@ -11,6 +11,7 @@ lng: -73.5900
 zipSample: ["11590"]
 zipCodes: ["11590"]
 localPaths: ["Nassau County / elevation 121 ft band", "Nassau County / primary ZIP 11590", "Nassau County / coords 40.7600, -73.5900", "Nassau County / ZIP 11590 sector"]
+zillowHomeValueUsd: 787198
 ---
 
 **Engineering Notice for Westbury:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Nassau County.

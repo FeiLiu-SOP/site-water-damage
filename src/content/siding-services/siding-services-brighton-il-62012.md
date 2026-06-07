@@ -12,6 +12,7 @@ lng: -90.1400
 zipSample: ["62012"]
 zipCodes: ["62012"]
 localPaths: ["Macoupin County / elevation 673 ft band", "Macoupin County / coords 39.0400, -90.1400", "Macoupin County / ZIP 62012 sector", "Macoupin County / primary ZIP 62012"]
+zillowHomeValueUsd: 212771
 ---
 
 **Engineering Notice for Brighton:** Panel Replacement was validated under stress factor 0.99; target tolerance set near 100 mph. Coordinates: 39.0400, -90.1400. Grid anchor: Macoupin County.

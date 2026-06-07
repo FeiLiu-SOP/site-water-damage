@@ -11,6 +11,7 @@ lng: -117.7600
 zipSample: ["91769", "91767", "91766", "91768"]
 zipCodes: ["91767", "91766", "91768", "91769"]
 localPaths: ["Los Angeles County / ZIP 91766 sector", "Los Angeles County / primary ZIP 91768", "Los Angeles County / coords 34.0600, -117.7600", "Los Angeles County / elevation 853 ft band", "Los Angeles County / ZIP 91768 sector"]
+zillowHomeValueUsd: 674161
 ---
 
 **Engineering Notice for Pomona:** Structural loading calculated based on 853 ft terrain assessment. Regional dispatch grid: Los Angeles County.

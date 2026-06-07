@@ -11,6 +11,7 @@ lng: -155.0900
 zipSample: ["96720"]
 zipCodes: ["96720"]
 localPaths: ["Hawaii County / ZIP 96720 sector", "Hawaii County / coords 19.6900, -155.0900", "Hawaii County / primary ZIP 96720", "Hawaii County / elevation 374 ft band"]
+zillowHomeValueUsd: 542572
 ---
 
 **Engineering Notice for Hilo:** Structural loading calculated based on 374 ft terrain assessment. Regional dispatch grid: Hawaii County.

@@ -11,6 +11,7 @@ lng: -90.8100
 zipSample: ["70310", "70301"]
 zipCodes: ["70301", "70310"]
 localPaths: ["Lafourche Parish / elevation 33 ft band", "Lafourche Parish / ZIP 70310 sector", "Lafourche Parish / ZIP 70301 sector", "Lafourche Parish / coords 29.7900, -90.8100", "Lafourche Parish / primary ZIP 70301"]
+zillowHomeValueUsd: 224553
 ---
 
 **Engineering Notice for Thibodaux:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Lafourche Parish.

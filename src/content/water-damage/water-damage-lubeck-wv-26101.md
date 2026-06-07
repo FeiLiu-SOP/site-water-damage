@@ -12,6 +12,7 @@ lng: -81.6300
 zipSample: ["26181", "26101"]
 zipCodes: ["26181", "26101"]
 localPaths: ["Wood County / elevation 860 ft band", "Wood County / ZIP 26181 sector", "Wood County / primary ZIP 26101", "Wood County / ZIP 26101 sector", "Wood County / coords 39.2300, -81.6300"]
+zillowHomeValueUsd: 132866
 ---
 
 **Engineering Notice for Lubeck:** structural drying capacity optimized for 860ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wood County. Relative Humidity Threshold: 77%. Sensor sync: Active.

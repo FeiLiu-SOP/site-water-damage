@@ -12,6 +12,7 @@ lng: -80.3800
 zipSample: ["33172", "33182", "33174", "33112"]
 zipCodes: ["33174", "33172", "33182", "33112"]
 localPaths: ["Miami-Dade County / coords 25.7800, -80.3800", "Miami-Dade County / primary ZIP 33172", "Miami-Dade County / ZIP 33182 sector", "Miami-Dade County / ZIP 33174 sector", "Miami-Dade County / ZIP 33112 sector"]
+zillowHomeValueUsd: 300890
 ---
 
 **Engineering Notice for Sweetwater:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

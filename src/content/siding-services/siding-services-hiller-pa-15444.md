@@ -12,6 +12,7 @@ lng: -79.9000
 zipSample: ["15444", "15417"]
 zipCodes: ["15444", "15417"]
 localPaths: ["Fayette County / elevation 1027 ft band", "Fayette County / coords 40.0100, -79.9000", "Fayette County / ZIP 15417 sector", "Fayette County / ZIP 15444 sector", "Fayette County / primary ZIP 15444"]
+zillowHomeValueUsd: 84653
 ---
 
 **Engineering Notice for Hiller:** Structural integrity verification: Exterior Cladding calibrated for 97 mph localized wind load factor. Regional dispatch grid: Fayette County.

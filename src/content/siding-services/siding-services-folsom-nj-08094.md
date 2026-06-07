@@ -12,6 +12,7 @@ lng: -74.8400
 zipSample: ["08037", "08094"]
 zipCodes: ["08037", "08094"]
 localPaths: ["Atlantic County / coords 39.5900, -74.8400", "Atlantic County / ZIP 08094 sector", "Atlantic County / elevation 75 ft band", "Atlantic County / primary ZIP 08094", "Atlantic County / ZIP 08037 sector"]
+zillowHomeValueUsd: 365845
 ---
 
 **Engineering Notice for Folsom:** Envelope check: Surface Sheathing assigned to wind-load band B with stress factor 0.90. Elevation: 75 ft AMSL. Regional dispatch grid: Atlantic County.

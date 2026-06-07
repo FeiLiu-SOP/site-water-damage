@@ -12,6 +12,7 @@ lng: -88.2400
 zipSample: ["53105"]
 zipCodes: ["53105"]
 localPaths: ["Racine County / elevation 764 ft band", "Racine County / coords 42.6900, -88.2400", "Racine County / primary ZIP 53105", "Racine County / ZIP 53105 sector"]
+zillowHomeValueUsd: 387459
 ---
 
 **Engineering Notice for Browns Lake:** structural drying capacity optimized for 764ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Racine County. Relative Humidity Threshold: 77%. Sensor sync: Active.

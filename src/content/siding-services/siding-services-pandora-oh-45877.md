@@ -12,6 +12,7 @@ lng: -83.9600
 zipSample: ["45877"]
 zipCodes: ["45877"]
 localPaths: ["Putnam County / elevation 774 ft band", "Putnam County / ZIP 45877 sector", "Putnam County / primary ZIP 45877", "Putnam County / coords 40.9500, -83.9600"]
+zillowHomeValueUsd: 232185
 ---
 
 **Engineering Notice for Pandora:** Site context locked to Putnam County. Elevation: 774 ft AMSL. Panel Replacement integrity verification recorded.

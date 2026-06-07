@@ -12,6 +12,7 @@ lng: -82.8100
 zipSample: ["31089"]
 zipCodes: ["31089"]
 localPaths: ["Washington County / coords 32.9400, -82.8100", "Washington County / primary ZIP 31089", "Washington County / ZIP 31089 sector", "Washington County / elevation 472 ft band"]
+zillowHomeValueUsd: 135094
 ---
 
 **Engineering Notice for Tennille:** Envelope check: Cladding Retrofit assigned to wind-load band B with stress factor 1.21. Regional dispatch grid: Washington County.

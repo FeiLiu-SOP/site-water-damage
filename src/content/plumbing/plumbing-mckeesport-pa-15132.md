@@ -12,6 +12,7 @@ lng: -79.8400
 zipSample: ["15134", "15132"]
 zipCodes: ["15134", "15132"]
 localPaths: ["Allegheny County / elevation 1001 ft band", "Allegheny County / ZIP 15134 sector", "Allegheny County / ZIP 15132 sector", "Allegheny County / primary ZIP 15132", "Allegheny County / coords 40.3400, -79.8400"]
+zillowHomeValueUsd: 73742
 ---
 
 **Engineering Notice for McKeesport:** Structural loading calculated based on 1001 ft terrain assessment. Regional dispatch grid: Allegheny County.

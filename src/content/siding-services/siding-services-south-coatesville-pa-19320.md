@@ -12,6 +12,7 @@ lng: -75.8100
 zipSample: ["19320"]
 zipCodes: ["19320"]
 localPaths: ["Chester County / primary ZIP 19320", "Chester County / coords 39.9700, -75.8100", "Chester County / ZIP 19320 sector", "Chester County / elevation 318 ft band"]
+zillowHomeValueUsd: 382353
 ---
 
 **Engineering Notice for South Coatesville:** Site context locked to Chester County. Elevation: 318 ft AMSL. Coordinates: 39.9700, -75.8100. Cladding Service integrity verification recorded.

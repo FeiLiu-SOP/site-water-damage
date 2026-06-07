@@ -12,6 +12,7 @@ lng: -122.3400
 zipSample: ["94530", "94802", "94807", "94806", "94804"]
 zipCodes: ["94802", "94804", "94801", "94806", "94803", "94530", "94805", "94807", "94850", "94808"]
 localPaths: ["Contra Costa County / ZIP 94802 sector", "Contra Costa County / primary ZIP 94530", "Contra Costa County / elevation 75 ft band", "Contra Costa County / ZIP 94804 sector", "Contra Costa County / ZIP 94530 sector"]
+zillowHomeValueUsd: 1139704
 ---
 
 **Engineering Notice for Richmond:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Contra Costa County.

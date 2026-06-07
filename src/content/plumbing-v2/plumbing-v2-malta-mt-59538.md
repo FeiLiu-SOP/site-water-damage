@@ -12,6 +12,7 @@ lng: -107.8700
 zipSample: ["59538"]
 zipCodes: ["59538"]
 localPaths: ["Phillips County / coords 48.3600, -107.8700", "Phillips County / elevation 2260 ft band", "Phillips County / primary ZIP 59538", "Phillips County / ZIP 59538 sector"]
+zillowHomeValueUsd: 240439
 ---
 
 **Engineering Notice for Malta:** System optimized for 137 mg/L hard water scaling factors in Malta. Regional dispatch grid: Phillips County.

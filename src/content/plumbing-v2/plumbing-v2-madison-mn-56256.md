@@ -12,6 +12,7 @@ lng: -96.1900
 zipSample: ["56256"]
 zipCodes: ["56256"]
 localPaths: ["Lac qui Parle County / elevation 1093 ft band", "Lac qui Parle County / coords 45.0100, -96.1900", "Lac qui Parle County / primary ZIP 56256", "Lac qui Parle County / ZIP 56256 sector"]
+zillowHomeValueUsd: 171236
 ---
 
 **Engineering Notice for Madison:** System optimized for 160 mg/L hard water scaling factors in Madison. Regional dispatch grid: Lac qui Parle County.

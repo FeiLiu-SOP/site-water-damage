@@ -12,6 +12,7 @@ lng: -77.8000
 zipSample: ["25443"]
 zipCodes: ["25443"]
 localPaths: ["Jefferson County / elevation 410 ft band", "Jefferson County / coords 39.4300, -77.8000", "Jefferson County / primary ZIP 25443", "Jefferson County / ZIP 25443 sector"]
+zillowHomeValueUsd: 477978
 ---
 
 **Engineering Notice for Shepherdstown:** System optimized for 123 mg/L hard water scaling factors in Shepherdstown. Regional dispatch grid: Jefferson County.

@@ -11,6 +11,7 @@ lng: -77.0600
 zipSample: ["20915", "20902", "20906"]
 zipCodes: ["20902", "20915", "20906"]
 localPaths: ["Montgomery County / primary ZIP 20906", "Montgomery County / ZIP 20906 sector", "Montgomery County / coords 39.0500, -77.0600", "Montgomery County / ZIP 20902 sector", "Montgomery County / elevation 397 ft band"]
+zillowHomeValueUsd: 447365
 ---
 
 **Engineering Notice for Wheaton:** Structural loading calculated based on 397 ft terrain assessment. Regional dispatch grid: Montgomery County.

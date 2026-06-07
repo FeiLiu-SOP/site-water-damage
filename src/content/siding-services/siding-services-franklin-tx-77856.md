@@ -12,6 +12,7 @@ lng: -96.4900
 zipSample: ["77856"]
 zipCodes: ["77856"]
 localPaths: ["Robertson County / primary ZIP 77856", "Robertson County / ZIP 77856 sector", "Robertson County / elevation 456 ft band", "Robertson County / coords 31.0200, -96.4900"]
+zillowHomeValueUsd: 370444
 ---
 
 **Engineering Notice for Franklin:** Cladding Retrofit was validated under stress factor 0.89; target tolerance set near 130 mph. Coordinates: 31.0200, -96.4900. Grid anchor: Robertson County.

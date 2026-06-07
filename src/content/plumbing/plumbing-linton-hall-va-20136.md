@@ -12,6 +12,7 @@ lng: -77.5800
 zipSample: ["20136", "20181", "20155"]
 zipCodes: ["20181", "20155", "20136"]
 localPaths: ["Prince William County / coords 38.7600, -77.5800", "Prince William County / ZIP 20136 sector", "Prince William County / elevation 279 ft band", "Prince William County / ZIP 20181 sector", "Prince William County / ZIP 20155 sector"]
+zillowHomeValueUsd: 745781
 ---
 
 **Engineering Notice for Linton Hall:** Structural loading calculated based on 279 ft terrain assessment. Regional dispatch grid: Prince William County.

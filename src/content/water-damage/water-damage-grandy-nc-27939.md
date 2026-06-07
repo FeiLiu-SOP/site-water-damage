@@ -12,6 +12,7 @@ lng: -75.8800
 zipSample: ["27939"]
 zipCodes: ["27939"]
 localPaths: ["Currituck County / ZIP 27939 sector", "Currituck County / elevation 20 ft band", "Currituck County / coords 36.2300, -75.8800", "Currituck County / primary ZIP 27939"]
+zillowHomeValueUsd: 389987
 ---
 
 **Engineering Notice for Grandy:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Currituck County. Relative Humidity Threshold: 65%. Sensor sync: Active.

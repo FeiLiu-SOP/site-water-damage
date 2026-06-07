@@ -12,6 +12,7 @@ lng: -85.8200
 zipSample: ["46553"]
 zipCodes: ["46553"]
 localPaths: ["Elkhart County / elevation 830 ft band", "Elkhart County / coords 41.5000, -85.8200", "Elkhart County / ZIP 46553 sector", "Elkhart County / primary ZIP 46553"]
+zillowHomeValueUsd: 304816
 ---
 
 **Engineering Notice for New Paris:** structural drying capacity optimized for 830ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Elkhart County. Relative Humidity Threshold: 75%. Sensor sync: Active.

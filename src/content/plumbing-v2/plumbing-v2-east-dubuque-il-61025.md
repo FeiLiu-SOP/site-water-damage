@@ -12,6 +12,7 @@ lng: -90.6300
 zipSample: ["61025"]
 zipCodes: ["61025"]
 localPaths: ["Jo Daviess County / coords 42.4900, -90.6300", "Jo Daviess County / elevation 732 ft band", "Jo Daviess County / primary ZIP 61025", "Jo Daviess County / ZIP 61025 sector"]
+zillowHomeValueUsd: 231959
 ---
 
 **Engineering Notice for East Dubuque:** System optimized for 170 mg/L hard water scaling factors in East Dubuque. Regional dispatch grid: Jo Daviess County.

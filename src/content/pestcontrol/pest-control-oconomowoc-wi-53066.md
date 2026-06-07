@@ -11,6 +11,7 @@ lng: -88.4900
 zipSample: ["53066"]
 zipCodes: ["53066"]
 localPaths: ["Waukesha County / coords 43.1000, -88.4900", "Waukesha County / elevation 873 ft band", "Waukesha County / primary ZIP 53066", "Waukesha County / ZIP 53066 sector"]
+zillowHomeValueUsd: 567637
 ---
 
 **Engineering Notice for Oconomowoc:** Structural loading calculated based on 873 ft terrain assessment. Regional dispatch grid: Waukesha County.

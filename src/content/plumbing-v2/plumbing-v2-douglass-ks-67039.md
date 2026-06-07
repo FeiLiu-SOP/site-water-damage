@@ -12,6 +12,7 @@ lng: -97.0100
 zipSample: ["67039"]
 zipCodes: ["67039"]
 localPaths: ["Butler County / primary ZIP 67039", "Butler County / coords 37.5200, -97.0100", "Butler County / ZIP 67039 sector", "Butler County / elevation 1217 ft band"]
+zillowHomeValueUsd: 241026
 ---
 
 **Engineering Notice for Douglass:** System optimized for 152 mg/L hard water scaling factors in Douglass. Regional dispatch grid: Butler County.

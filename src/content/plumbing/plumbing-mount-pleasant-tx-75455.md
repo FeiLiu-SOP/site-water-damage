@@ -12,6 +12,7 @@ lng: -94.9700
 zipSample: ["75455", "75456"]
 zipCodes: ["75455", "75456"]
 localPaths: ["Titus County / ZIP 75456 sector", "Titus County / ZIP 75455 sector", "Titus County / elevation 410 ft band", "Titus County / primary ZIP 75455", "Titus County / coords 33.1600, -94.9700"]
+zillowHomeValueUsd: 227676
 ---
 
 **Engineering Notice for Mount Pleasant:** Structural loading calculated based on 410 ft terrain assessment. Regional dispatch grid: Titus County.

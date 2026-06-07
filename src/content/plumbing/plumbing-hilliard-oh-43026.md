@@ -12,6 +12,7 @@ lng: -83.1600
 zipSample: ["43026"]
 zipCodes: ["43026"]
 localPaths: ["Franklin County / ZIP 43026 sector", "Franklin County / primary ZIP 43026", "Franklin County / coords 40.0400, -83.1600", "Franklin County / elevation 935 ft band"]
+zillowHomeValueUsd: 379651
 ---
 
 **Engineering Notice for Hilliard:** Structural loading calculated based on 935 ft terrain assessment. Regional dispatch grid: Franklin County.

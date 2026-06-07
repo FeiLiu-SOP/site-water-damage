@@ -12,6 +12,7 @@ lng: -115.3400
 zipSample: ["59873"]
 zipCodes: ["59873"]
 localPaths: ["Sanders County / elevation 2621 ft band", "Sanders County / coords 47.6000, -115.3400", "Sanders County / primary ZIP 59873", "Sanders County / ZIP 59873 sector"]
+zillowHomeValueUsd: 429280
 ---
 
 **Engineering Notice for Thompson Falls:** System optimized for 145 mg/L hard water scaling factors in Thompson Falls. Regional dispatch grid: Sanders County.

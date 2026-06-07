@@ -12,6 +12,7 @@ lng: -95.4400
 zipSample: ["66748"]
 zipCodes: ["66748"]
 localPaths: ["Allen County / coords 37.8100, -95.4400", "Allen County / primary ZIP 66748", "Allen County / ZIP 66748 sector", "Allen County / elevation 981 ft band"]
+zillowHomeValueUsd: 120756
 ---
 
 **Engineering Notice for Humboldt:** System optimized for 129 mg/L hard water scaling factors in Humboldt. Regional dispatch grid: Allen County.

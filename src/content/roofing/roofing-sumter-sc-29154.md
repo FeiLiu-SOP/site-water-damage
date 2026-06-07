@@ -11,6 +11,7 @@ lng: -80.3900
 zipSample: ["29152", "29151", "29154", "29153", "29150"]
 zipCodes: ["29153", "29152", "29150", "29151", "29154"]
 localPaths: ["Sumter County / ZIP 29152 sector", "Sumter County / primary ZIP 29154", "Sumter County / elevation 184 ft band", "Sumter County / ZIP 29151 sector", "Sumter County / ZIP 29150 sector"]
+zillowHomeValueUsd: 235587
 ---
 
 **Engineering Notice for Sumter:** Structural loading calculated based on 184 ft terrain assessment. Regional dispatch grid: Sumter County.

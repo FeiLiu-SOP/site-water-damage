@@ -11,6 +11,7 @@ lng: -80.8300
 zipSample: ["28117", "28115"]
 zipCodes: ["28115", "28117"]
 localPaths: ["Iredell County / elevation 853 ft band", "Iredell County / primary ZIP 28117", "Iredell County / ZIP 28115 sector", "Iredell County / ZIP 28117 sector", "Iredell County / coords 35.5800, -80.8300"]
+zillowHomeValueUsd: 632059
 ---
 
 **Engineering Notice for Mooresville:** Structural loading calculated based on 853 ft terrain assessment. Regional dispatch grid: Iredell County.

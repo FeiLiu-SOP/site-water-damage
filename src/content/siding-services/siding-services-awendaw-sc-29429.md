@@ -12,6 +12,7 @@ lng: -79.6600
 zipSample: ["29429"]
 zipCodes: ["29429"]
 localPaths: ["Charleston County / ZIP 29429 sector", "Charleston County / elevation 23 ft band", "Charleston County / primary ZIP 29429", "Charleston County / coords 32.9700, -79.6600"]
+zillowHomeValueUsd: 759802
 ---
 
 **Engineering Notice for Awendaw:** Envelope check: Cladding Service assigned to wind-load band A with stress factor 0.92. Elevation: 23 ft AMSL. Regional dispatch grid: Charleston County.

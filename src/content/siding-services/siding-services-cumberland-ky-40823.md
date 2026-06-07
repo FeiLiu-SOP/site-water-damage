@@ -12,6 +12,7 @@ lng: -82.9900
 zipSample: ["40823"]
 zipCodes: ["40823"]
 localPaths: ["Harlan County / primary ZIP 40823", "Harlan County / ZIP 40823 sector", "Harlan County / elevation 1706 ft band", "Harlan County / coords 36.9800, -82.9900"]
+zillowHomeValueUsd: 60564
 ---
 
 **Engineering Notice for Cumberland:** Site context locked to Harlan County. Elevation: 1706 ft AMSL. Vinyl Panels integrity verification recorded.

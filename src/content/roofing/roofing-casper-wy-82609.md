@@ -11,6 +11,7 @@ lng: -106.3200
 zipSample: ["82604", "82609", "82605", "82601", "82602"]
 zipCodes: ["82604", "82605", "82602", "82609", "82601"]
 localPaths: ["Natrona County / primary ZIP 82609", "Natrona County / ZIP 82605 sector", "Natrona County / ZIP 82601 sector", "Natrona County / ZIP 82609 sector", "Natrona County / ZIP 82602 sector"]
+zillowHomeValueUsd: 349371
 ---
 
 **Engineering Notice for Casper:** Structural loading calculated based on 5171 ft terrain assessment. Regional dispatch grid: Natrona County.

@@ -12,6 +12,7 @@ lng: -85.1300
 zipSample: ["47031"]
 zipCodes: ["47031"]
 localPaths: ["Ripley County / elevation 997 ft band", "Ripley County / coords 39.1300, -85.1300", "Ripley County / primary ZIP 47031", "Ripley County / ZIP 47031 sector"]
+zillowHomeValueUsd: 274410
 ---
 
 **Engineering Notice for Milan:** structural drying capacity optimized for 997ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ripley County. Relative Humidity Threshold: 75%. Sensor sync: Active.

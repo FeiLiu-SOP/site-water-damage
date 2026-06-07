@@ -11,6 +11,7 @@ lng: -80.1900
 zipSample: ["28001", "28002"]
 zipCodes: ["28001", "28002"]
 localPaths: ["Stanly County / coords 35.3600, -80.1900", "Stanly County / elevation 564 ft band", "Stanly County / ZIP 28002 sector", "Stanly County / primary ZIP 28001", "Stanly County / ZIP 28001 sector"]
+zillowHomeValueUsd: 262725
 ---
 
 **Engineering Notice for Albemarle:** Structural loading calculated based on 564 ft terrain assessment. Regional dispatch grid: Stanly County.

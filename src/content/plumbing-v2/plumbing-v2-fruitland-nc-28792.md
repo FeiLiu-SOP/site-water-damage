@@ -12,6 +12,7 @@ lng: -82.4100
 zipSample: ["28792"]
 zipCodes: ["28792"]
 localPaths: ["Henderson County / coords 35.3900, -82.4100", "Henderson County / ZIP 28792 sector", "Henderson County / elevation 2602 ft band", "Henderson County / primary ZIP 28792"]
+zillowHomeValueUsd: 370083
 ---
 
 **Engineering Notice for Fruitland:** System optimized for 139 mg/L hard water scaling factors in Fruitland. Regional dispatch grid: Henderson County.

@@ -12,6 +12,7 @@ lng: -78.5100
 zipSample: ["28450"]
 zipCodes: ["28450"]
 localPaths: ["Columbus County / coords 34.3100, -78.5100", "Columbus County / elevation 59 ft band", "Columbus County / ZIP 28450 sector", "Columbus County / primary ZIP 28450"]
+zillowHomeValueUsd: 318921
 ---
 
 **Engineering Notice for Lake Waccamaw:** Structural integrity verification: Weather Barrier Wrap calibrated for 102 mph localized wind load factor. Elevation: 59 ft AMSL. Coordinates: 34.3100, -78.5100. Regional dispatch grid: Columbus County.

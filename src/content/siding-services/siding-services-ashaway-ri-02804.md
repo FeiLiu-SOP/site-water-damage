@@ -12,6 +12,7 @@ lng: -71.7900
 zipSample: ["02804"]
 zipCodes: ["02804"]
 localPaths: ["Washington County / coords 41.4300, -71.7900", "Washington County / ZIP 02804 sector", "Washington County / primary ZIP 02804", "Washington County / elevation 105 ft band"]
+zillowHomeValueUsd: 451946
 ---
 
 **Engineering Notice for Ashaway:** Envelope check: Panel Replacement assigned to wind-load band B with stress factor 1.01. Elevation: 105 ft AMSL. Regional dispatch grid: Washington County.

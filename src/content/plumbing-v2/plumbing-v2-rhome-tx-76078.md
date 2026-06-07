@@ -12,6 +12,7 @@ lng: -97.4800
 zipSample: ["76078", "76234"]
 zipCodes: ["76234", "76078"]
 localPaths: ["Wise County / coords 33.0600, -97.4800", "Wise County / ZIP 76078 sector", "Wise County / elevation 912 ft band", "Wise County / ZIP 76234 sector", "Wise County / primary ZIP 76078"]
+zillowHomeValueUsd: 367211
 ---
 
 **Engineering Notice for Rhome:** System optimized for 124 mg/L hard water scaling factors in Rhome. Regional dispatch grid: Wise County.

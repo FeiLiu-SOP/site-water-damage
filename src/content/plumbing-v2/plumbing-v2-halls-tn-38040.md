@@ -12,6 +12,7 @@ lng: -89.4100
 zipSample: ["38040"]
 zipCodes: ["38040"]
 localPaths: ["Lauderdale County / primary ZIP 38040", "Lauderdale County / coords 35.8800, -89.4100", "Lauderdale County / ZIP 38040 sector", "Lauderdale County / elevation 338 ft band"]
+zillowHomeValueUsd: 147174
 ---
 
 **Engineering Notice for Halls:** System optimized for 164 mg/L hard water scaling factors in Halls. Regional dispatch grid: Lauderdale County.

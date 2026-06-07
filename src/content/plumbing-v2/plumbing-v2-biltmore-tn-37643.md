@@ -12,6 +12,7 @@ lng: -82.2200
 zipSample: ["37643"]
 zipCodes: ["37643"]
 localPaths: ["Carter County / elevation 1860 ft band", "Carter County / coords 36.3700, -82.2200", "Carter County / primary ZIP 37643", "Carter County / ZIP 37643 sector"]
+zillowHomeValueUsd: 230351
 ---
 
 **Engineering Notice for Biltmore:** System optimized for 135 mg/L hard water scaling factors in Biltmore. Regional dispatch grid: Carter County.

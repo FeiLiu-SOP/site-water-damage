@@ -12,6 +12,7 @@ lng: -122.2400
 zipSample: ["98274"]
 zipCodes: ["98274"]
 localPaths: ["Skagit County / primary ZIP 98274", "Skagit County / coords 48.3900, -122.2400", "Skagit County / ZIP 98274 sector", "Skagit County / elevation 105 ft band"]
+zillowHomeValueUsd: 621337
 ---
 
 **Engineering Notice for Big Lake:** Envelope check: Facade Renewal assigned to wind-load band B with stress factor 1.17. Elevation: 105 ft AMSL. Regional dispatch grid: Skagit County.

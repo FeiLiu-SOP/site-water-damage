@@ -11,6 +11,7 @@ lng: -81.0200
 zipSample: ["29731", "29732", "29733", "29730"]
 zipCodes: ["29731", "29732", "29730", "29733"]
 localPaths: ["York County / ZIP 29732 sector", "York County / coords 34.9400, -81.0200", "York County / elevation 679 ft band", "York County / ZIP 29733 sector", "York County / ZIP 29731 sector"]
+zillowHomeValueUsd: 354373
 ---
 
 **Engineering Notice for Rock Hill:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: York County.

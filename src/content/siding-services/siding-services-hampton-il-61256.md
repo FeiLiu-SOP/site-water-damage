@@ -12,6 +12,7 @@ lng: -90.4000
 zipSample: ["61256"]
 zipCodes: ["61256"]
 localPaths: ["Rock Island County / ZIP 61256 sector", "Rock Island County / primary ZIP 61256", "Rock Island County / elevation 689 ft band", "Rock Island County / coords 41.5600, -90.4000"]
+zillowHomeValueUsd: 198926
 ---
 
 **Engineering Notice for Hampton:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Elevation: 689 ft AMSL. Grid: Rock Island County.

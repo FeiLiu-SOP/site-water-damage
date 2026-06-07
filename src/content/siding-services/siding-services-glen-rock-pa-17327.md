@@ -12,6 +12,7 @@ lng: -76.7300
 zipSample: ["17327"]
 zipCodes: ["17327"]
 localPaths: ["York County / primary ZIP 17327", "York County / coords 39.7900, -76.7300", "York County / ZIP 17327 sector", "York County / elevation 561 ft band"]
+zillowHomeValueUsd: 364110
 ---
 
 **Engineering Notice for Glen Rock:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Coordinates: 39.7900, -76.7300. Grid: York County.

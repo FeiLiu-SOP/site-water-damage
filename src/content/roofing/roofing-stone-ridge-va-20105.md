@@ -11,6 +11,7 @@ lng: -77.5600
 zipSample: ["20105"]
 zipCodes: ["20105"]
 localPaths: ["Loudoun County / coords 38.9300, -77.5600", "Loudoun County / elevation 344 ft band", "Loudoun County / ZIP 20105 sector", "Loudoun County / primary ZIP 20105"]
+zillowHomeValueUsd: 1102704
 ---
 
 **Engineering Notice for Stone Ridge:** Structural loading calculated based on 344 ft terrain assessment. Regional dispatch grid: Loudoun County.

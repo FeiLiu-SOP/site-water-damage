@@ -11,6 +11,7 @@ lng: -84.5700
 zipSample: ["45011", "45015", "45013"]
 zipCodes: ["45015", "45013", "45011"]
 localPaths: ["Butler County / primary ZIP 45011", "Butler County / ZIP 45015 sector", "Butler County / elevation 594 ft band", "Butler County / coords 39.3900, -84.5700", "Butler County / ZIP 45013 sector"]
+zillowHomeValueUsd: 367967
 ---
 
 **Engineering Notice for Hamilton:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: Butler County.

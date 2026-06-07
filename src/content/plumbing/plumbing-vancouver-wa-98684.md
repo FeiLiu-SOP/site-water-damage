@@ -12,6 +12,7 @@ lng: -122.6000
 zipSample: ["98664", "98683", "98660", "98665", "98662"]
 zipCodes: ["98662", "98683", "98687", "98661", "98684", "98664", "98660", "98663", "98682", "98665"]
 localPaths: ["Clark County / ZIP 98665 sector", "Clark County / coords 45.6400, -122.6000", "Clark County / ZIP 98662 sector", "Clark County / primary ZIP 98684", "Clark County / ZIP 98683 sector"]
+zillowHomeValueUsd: 491656
 ---
 
 **Engineering Notice for Vancouver:** Structural loading calculated based on 180 ft terrain assessment. Regional dispatch grid: Clark County.

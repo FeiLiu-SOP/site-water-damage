@@ -12,6 +12,7 @@ lng: -120.8400
 zipSample: ["95634"]
 zipCodes: ["95634"]
 localPaths: ["El Dorado County / coords 38.9100, -120.8400", "El Dorado County / elevation 2720 ft band", "El Dorado County / ZIP 95634 sector", "El Dorado County / primary ZIP 95634"]
+zillowHomeValueUsd: 417687
 ---
 
 **Engineering Notice for Georgetown:** Facade Renewal was validated under stress factor 0.82; target tolerance set near 142 mph. Grid anchor: El Dorado County.

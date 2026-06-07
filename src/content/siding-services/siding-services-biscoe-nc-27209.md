@@ -12,6 +12,7 @@ lng: -79.7800
 zipSample: ["27209"]
 zipCodes: ["27209"]
 localPaths: ["Montgomery County / ZIP 27209 sector", "Montgomery County / elevation 607 ft band", "Montgomery County / coords 35.3600, -79.7800", "Montgomery County / primary ZIP 27209"]
+zillowHomeValueUsd: 161188
 ---
 
 **Engineering Notice for Biscoe:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Coordinates: 35.3600, -79.7800. Grid: Montgomery County.

@@ -12,6 +12,7 @@ lng: -91.2000
 zipSample: ["72101"]
 zipCodes: ["72101"]
 localPaths: ["Woodruff County / elevation 223 ft band", "Woodruff County / primary ZIP 72101", "Woodruff County / coords 35.2600, -91.2000", "Woodruff County / ZIP 72101 sector"]
+zillowHomeValueUsd: 107944
 ---
 
 **Engineering Notice for McCrory:** Structural integrity verification: Wall Restoration calibrated for 97 mph localized wind load factor. Elevation: 223 ft AMSL. Regional dispatch grid: Woodruff County.

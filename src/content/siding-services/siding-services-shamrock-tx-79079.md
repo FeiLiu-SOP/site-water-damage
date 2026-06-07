@@ -12,6 +12,7 @@ lng: -100.2500
 zipSample: ["79079"]
 zipCodes: ["79079"]
 localPaths: ["Wheeler County / ZIP 79079 sector", "Wheeler County / primary ZIP 79079", "Wheeler County / elevation 2343 ft band", "Wheeler County / coords 35.2200, -100.2500"]
+zillowHomeValueUsd: 74328
 ---
 
 **Engineering Notice for Shamrock:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 1.04. Regional dispatch grid: Wheeler County.

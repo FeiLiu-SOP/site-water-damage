@@ -11,6 +11,7 @@ lng: -117.7300
 zipSample: ["91709"]
 zipCodes: ["91709"]
 localPaths: ["San Bernardino County / elevation 965 ft band", "San Bernardino County / ZIP 91709 sector", "San Bernardino County / primary ZIP 91709", "San Bernardino County / coords 33.9500, -117.7300"]
+zillowHomeValueUsd: 997439
 ---
 
 **Engineering Notice for Chino Hills:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: San Bernardino County.

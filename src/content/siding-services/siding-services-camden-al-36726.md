@@ -12,6 +12,7 @@ lng: -87.3000
 zipSample: ["36726"]
 zipCodes: ["36726"]
 localPaths: ["Wilcox County / coords 32.0000, -87.3000", "Wilcox County / elevation 266 ft band", "Wilcox County / ZIP 36726 sector", "Wilcox County / primary ZIP 36726"]
+zillowHomeValueUsd: 154311
 ---
 
 **Engineering Notice for Camden:** Panel Replacement was validated under stress factor 1.08; target tolerance set near 90 mph. Coordinates: 32.0000, -87.3000. Grid anchor: Wilcox County.

@@ -12,6 +12,7 @@ lng: -74.3300
 zipSample: ["07421"]
 zipCodes: ["07421"]
 localPaths: ["Passaic County / coords 41.1600, -74.3300", "Passaic County / elevation 633 ft band", "Passaic County / primary ZIP 07421", "Passaic County / ZIP 07421 sector"]
+zillowHomeValueUsd: 472629
 ---
 
 **Engineering Notice for Hewitt:** Wall Restoration was validated under stress factor 0.95; target tolerance set near 96 mph. Grid anchor: Passaic County.

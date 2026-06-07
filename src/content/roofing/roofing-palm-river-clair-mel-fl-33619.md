@@ -11,6 +11,7 @@ lng: -82.3800
 zipSample: ["33660", "33619"]
 zipCodes: ["33619", "33660"]
 localPaths: ["Hillsborough County / ZIP 33660 sector", "Hillsborough County / primary ZIP 33619", "Hillsborough County / elevation 52 ft band", "Hillsborough County / ZIP 33619 sector", "Hillsborough County / coords 27.9200, -82.3800"]
+zillowHomeValueUsd: 286970
 ---
 
 **Engineering Notice for Palm River-Clair Mel:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Hillsborough County.

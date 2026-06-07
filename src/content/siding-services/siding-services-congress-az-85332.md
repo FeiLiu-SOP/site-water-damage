@@ -12,6 +12,7 @@ lng: -112.8600
 zipSample: ["85332"]
 zipCodes: ["85332"]
 localPaths: ["Yavapai County / primary ZIP 85332", "Yavapai County / ZIP 85332 sector", "Yavapai County / elevation 2992 ft band", "Yavapai County / coords 34.1500, -112.8600"]
+zillowHomeValueUsd: 354379
 ---
 
 **Engineering Notice for Congress:** Weather Barrier Wrap was validated under stress factor 0.83; target tolerance set near 105 mph. Grid anchor: Yavapai County.

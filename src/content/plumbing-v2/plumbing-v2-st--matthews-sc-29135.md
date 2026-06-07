@@ -12,6 +12,7 @@ lng: -80.7800
 zipSample: ["29135"]
 zipCodes: ["29135"]
 localPaths: ["Calhoun County / primary ZIP 29135", "Calhoun County / elevation 285 ft band", "Calhoun County / coords 33.6600, -80.7800", "Calhoun County / ZIP 29135 sector"]
+zillowHomeValueUsd: 177514
 ---
 
 **Engineering Notice for St. Matthews:** System optimized for 132 mg/L hard water scaling factors in St. Matthews. Regional dispatch grid: Calhoun County.

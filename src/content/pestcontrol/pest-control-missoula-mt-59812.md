@@ -11,6 +11,7 @@ lng: -114.0200
 zipSample: ["59812", "59802", "59808", "59801", "59803"]
 zipCodes: ["59801", "59803", "59812", "59808", "59802"]
 localPaths: ["Missoula County / ZIP 59812 sector", "Missoula County / ZIP 59801 sector", "Missoula County / ZIP 59808 sector", "Missoula County / coords 46.8800, -114.0200", "Missoula County / ZIP 59802 sector"]
+zillowHomeValueUsd: 499211
 ---
 
 **Engineering Notice for Missoula:** Structural loading calculated based on 3166 ft terrain assessment. Regional dispatch grid: Missoula County.

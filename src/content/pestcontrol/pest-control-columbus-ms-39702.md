@@ -11,6 +11,7 @@ lng: -88.4100
 zipSample: ["39702", "39701", "39705"]
 zipCodes: ["39702", "39701", "39705"]
 localPaths: ["Lowndes County / elevation 180 ft band", "Lowndes County / ZIP 39701 sector", "Lowndes County / coords 33.5100, -88.4100", "Lowndes County / ZIP 39702 sector", "Lowndes County / primary ZIP 39702"]
+zillowHomeValueUsd: 173320
 ---
 
 **Engineering Notice for Columbus:** Structural loading calculated based on 180 ft terrain assessment. Regional dispatch grid: Lowndes County.

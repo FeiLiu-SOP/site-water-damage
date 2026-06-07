@@ -12,6 +12,7 @@ lng: -77.5000
 zipSample: ["20109"]
 zipCodes: ["20109"]
 localPaths: ["Prince William County / elevation 203 ft band", "Prince William County / primary ZIP 20109", "Prince William County / ZIP 20109 sector", "Prince William County / coords 38.7900, -77.5000"]
+zillowHomeValueUsd: 456364
 ---
 
 **Engineering Notice for Sudley:** Structural loading calculated based on 203 ft terrain assessment. Regional dispatch grid: Prince William County.

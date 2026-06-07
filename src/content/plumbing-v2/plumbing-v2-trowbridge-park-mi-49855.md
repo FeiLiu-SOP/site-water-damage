@@ -12,6 +12,7 @@ lng: -87.4400
 zipSample: ["49855"]
 zipCodes: ["49855"]
 localPaths: ["Marquette County / ZIP 49855 sector", "Marquette County / elevation 814 ft band", "Marquette County / primary ZIP 49855", "Marquette County / coords 46.5600, -87.4400"]
+zillowHomeValueUsd: 322658
 ---
 
 **Engineering Notice for Trowbridge Park:** System optimized for 158 mg/L hard water scaling factors in Trowbridge Park. Regional dispatch grid: Marquette County.

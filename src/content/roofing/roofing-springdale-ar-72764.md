@@ -11,6 +11,7 @@ lng: -94.1600
 zipSample: ["72762", "72764", "72766", "72765"]
 zipCodes: ["72762", "72765", "72764", "72766"]
 localPaths: ["Washington County / ZIP 72764 sector", "Washington County / ZIP 72765 sector", "Washington County / ZIP 72762 sector", "Washington County / coords 36.1900, -94.1600", "Washington County / ZIP 72766 sector"]
+zillowHomeValueUsd: 315181
 ---
 
 **Engineering Notice for Springdale:** Structural loading calculated based on 1345 ft terrain assessment. Regional dispatch grid: Washington County.

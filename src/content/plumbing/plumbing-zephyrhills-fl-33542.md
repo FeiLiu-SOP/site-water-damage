@@ -12,6 +12,7 @@ lng: -82.1800
 zipSample: ["33540", "33542", "33541"]
 zipCodes: ["33542", "33540", "33541"]
 localPaths: ["Pasco County / ZIP 33542 sector", "Pasco County / ZIP 33541 sector", "Pasco County / ZIP 33540 sector", "Pasco County / coords 28.2400, -82.1800", "Pasco County / elevation 125 ft band"]
+zillowHomeValueUsd: 227218
 ---
 
 **Engineering Notice for Zephyrhills:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Pasco County.

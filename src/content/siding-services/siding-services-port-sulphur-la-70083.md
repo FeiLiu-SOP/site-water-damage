@@ -12,6 +12,7 @@ lng: -89.7200
 zipSample: ["70083"]
 zipCodes: ["70083"]
 localPaths: ["Plaquemines Parish / elevation 13 ft band", "Plaquemines Parish / primary ZIP 70083", "Plaquemines Parish / ZIP 70083 sector", "Plaquemines Parish / coords 29.5000, -89.7200"]
+zillowHomeValueUsd: 147181
 ---
 
 **Engineering Notice for Port Sulphur:** Site context locked to Plaquemines Parish. Elevation: 13 ft AMSL. Facade Renewal integrity verification recorded.

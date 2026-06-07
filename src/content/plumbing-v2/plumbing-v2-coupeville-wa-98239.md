@@ -12,6 +12,7 @@ lng: -122.6800
 zipSample: ["98239"]
 zipCodes: ["98239"]
 localPaths: ["Island County / coords 48.2200, -122.6800", "Island County / ZIP 98239 sector", "Island County / elevation 92 ft band", "Island County / primary ZIP 98239"]
+zillowHomeValueUsd: 634337
 ---
 
 **Engineering Notice for Coupeville:** System optimized for 166 mg/L hard water scaling factors in Coupeville. Regional dispatch grid: Island County.

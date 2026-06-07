@@ -11,6 +11,7 @@ lng: -118.6700
 zipSample: ["91372", "91302"]
 zipCodes: ["91372", "91302"]
 localPaths: ["Los Angeles County / ZIP 91372 sector", "Los Angeles County / coords 34.1400, -118.6700", "Los Angeles County / ZIP 91302 sector", "Los Angeles County / elevation 1430 ft band", "Los Angeles County / primary ZIP 91302"]
+zillowHomeValueUsd: 1958309
 ---
 
 **Engineering Notice for Calabasas:** Structural loading calculated based on 1430 ft terrain assessment. Regional dispatch grid: Los Angeles County.

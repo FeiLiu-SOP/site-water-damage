@@ -12,6 +12,7 @@ lng: -97.8000
 zipSample: ["76431"]
 zipCodes: ["76431"]
 localPaths: ["Wise County / coords 33.3000, -97.8000", "Wise County / elevation 945 ft band", "Wise County / primary ZIP 76431", "Wise County / ZIP 76431 sector"]
+zillowHomeValueUsd: 357019
 ---
 
 **Engineering Notice for Chico:** Site context locked to Wise County. Elevation: 945 ft AMSL. Coordinates: 33.3000, -97.8000. Wall Restoration integrity verification recorded.

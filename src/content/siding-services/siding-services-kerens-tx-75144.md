@@ -12,6 +12,7 @@ lng: -96.2300
 zipSample: ["75144"]
 zipCodes: ["75144"]
 localPaths: ["Navarro County / ZIP 75144 sector", "Navarro County / coords 32.1300, -96.2300", "Navarro County / elevation 384 ft band", "Navarro County / primary ZIP 75144"]
+zillowHomeValueUsd: 221725
 ---
 
 **Engineering Notice for Kerens:** Exterior Cladding was validated under stress factor 0.94; target tolerance set near 135 mph. Coordinates: 32.1300, -96.2300. Grid anchor: Navarro County.

@@ -12,6 +12,7 @@ lng: -79.8600
 zipSample: ["15221"]
 zipCodes: ["15221"]
 localPaths: ["Allegheny County / primary ZIP 15221", "Allegheny County / coords 40.4200, -79.8600", "Allegheny County / ZIP 15221 sector", "Allegheny County / elevation 1089 ft band"]
+zillowHomeValueUsd: 147178
 ---
 
 **Engineering Notice for Braddock Hills:** Envelope check: Surface Sheathing assigned to wind-load band C with stress factor 1.04. Elevation: 1089 ft AMSL. Regional dispatch grid: Allegheny County.

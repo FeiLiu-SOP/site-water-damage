@@ -12,6 +12,7 @@ lng: -92.2300
 zipSample: ["65255"]
 zipCodes: ["65255"]
 localPaths: ["Boone County / ZIP 65255 sector", "Boone County / elevation 906 ft band", "Boone County / coords 39.1200, -92.2300", "Boone County / primary ZIP 65255"]
+zillowHomeValueUsd: 361167
 ---
 
 **Engineering Notice for Hallsville:** System optimized for 171 mg/L hard water scaling factors in Hallsville. Regional dispatch grid: Boone County.

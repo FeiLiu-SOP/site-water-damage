@@ -12,6 +12,7 @@ lng: -90.9900
 zipSample: ["54614"]
 zipCodes: ["54614"]
 localPaths: ["La Crosse County / ZIP 54614 sector", "La Crosse County / elevation 738 ft band", "La Crosse County / coords 43.8900, -90.9900", "La Crosse County / primary ZIP 54614"]
+zillowHomeValueUsd: 320952
 ---
 
 **Engineering Notice for Bangor:** structural drying capacity optimized for 738ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: La Crosse County. Relative Humidity Threshold: 76%. Sensor sync: Active.

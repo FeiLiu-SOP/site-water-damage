@@ -12,6 +12,7 @@ lng: -81.4200
 zipSample: ["31320"]
 zipCodes: ["31320"]
 localPaths: ["Liberty County / coords 31.8000, -81.4200", "Liberty County / primary ZIP 31320", "Liberty County / elevation 26 ft band", "Liberty County / ZIP 31320 sector"]
+zillowHomeValueUsd: 288660
 ---
 
 **Engineering Notice for Midway:** Site context locked to Liberty County. Elevation: 26 ft AMSL. Facade Renewal integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -90.6800
 zipSample: ["63051", "63025", "63069", "63016"]
 zipCodes: ["63051", "63025", "63069", "63016"]
 localPaths: ["Jefferson County / ZIP 63051 sector", "Jefferson County / coords 38.4200, -90.6800", "Jefferson County / ZIP 63069 sector", "Jefferson County / primary ZIP 63025", "Jefferson County / ZIP 63016 sector"]
+zillowHomeValueUsd: 415566
 ---
 
 **Engineering Notice for LaBarque Creek:** Structural integrity verification: Cladding Retrofit calibrated for 107 mph localized wind load factor. Elevation: 620 ft AMSL. Regional dispatch grid: Jefferson County.

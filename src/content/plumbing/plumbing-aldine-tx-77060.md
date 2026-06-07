@@ -12,6 +12,7 @@ lng: -95.3800
 zipSample: ["77039", "77037", "77060"]
 zipCodes: ["77060", "77039", "77037"]
 localPaths: ["Harris County / ZIP 77060 sector", "Harris County / coords 29.9100, -95.3800", "Harris County / ZIP 77039 sector", "Harris County / primary ZIP 77060", "Harris County / elevation 92 ft band"]
+zillowHomeValueUsd: 195976
 ---
 
 **Engineering Notice for Aldine:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Harris County.

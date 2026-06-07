@@ -11,6 +11,7 @@ lng: -91.2100
 zipSample: ["54650"]
 zipCodes: ["54650"]
 localPaths: ["La Crosse County / ZIP 54650 sector", "La Crosse County / primary ZIP 54650", "La Crosse County / elevation 722 ft band", "La Crosse County / coords 43.8900, -91.2100"]
+zillowHomeValueUsd: 357566
 ---
 
 **Engineering Notice for Onalaska:** Structural loading calculated based on 722 ft terrain assessment. Regional dispatch grid: La Crosse County.

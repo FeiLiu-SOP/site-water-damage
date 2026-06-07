@@ -12,6 +12,7 @@ lng: -74.2500
 zipSample: ["08050"]
 zipCodes: ["08050"]
 localPaths: ["Ocean County / ZIP 08050 sector", "Ocean County / coords 39.6900, -74.2500", "Ocean County / primary ZIP 08050", "Ocean County / elevation 39 ft band"]
+zillowHomeValueUsd: 583812
 ---
 
 **Engineering Notice for Manahawkin:** System optimized for 122 mg/L hard water scaling factors in Manahawkin. Regional dispatch grid: Ocean County.

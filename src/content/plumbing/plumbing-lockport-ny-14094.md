@@ -12,6 +12,7 @@ lng: -78.7000
 zipSample: ["14094", "14095"]
 zipCodes: ["14094", "14095"]
 localPaths: ["Niagara County / ZIP 14095 sector", "Niagara County / coords 43.1700, -78.7000", "Niagara County / ZIP 14094 sector", "Niagara County / primary ZIP 14094", "Niagara County / elevation 587 ft band"]
+zillowHomeValueUsd: 257273
 ---
 
 **Engineering Notice for Lockport:** Structural loading calculated based on 587 ft terrain assessment. Regional dispatch grid: Niagara County.

@@ -12,6 +12,7 @@ lng: -83.5200
 zipSample: ["48764", "48763"]
 zipCodes: ["48764", "48763"]
 localPaths: ["Iosco County / primary ZIP 48763", "Iosco County / ZIP 48764 sector", "Iosco County / coords 44.2700, -83.5200", "Iosco County / elevation 594 ft band", "Iosco County / ZIP 48763 sector"]
+zillowHomeValueUsd: 200806
 ---
 
 **Engineering Notice for Tawas City:** structural drying capacity optimized for 594ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Iosco County. Relative Humidity Threshold: 74%. Sensor sync: Active.

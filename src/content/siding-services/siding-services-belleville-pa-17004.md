@@ -12,6 +12,7 @@ lng: -77.7200
 zipSample: ["17004"]
 zipCodes: ["17004"]
 localPaths: ["Mifflin County / coords 40.6100, -77.7200", "Mifflin County / elevation 827 ft band", "Mifflin County / ZIP 17004 sector", "Mifflin County / primary ZIP 17004"]
+zillowHomeValueUsd: 261597
 ---
 
 **Engineering Notice for Belleville:** Site context locked to Mifflin County. Coordinates: 40.6100, -77.7200. Exterior Cladding integrity verification recorded.

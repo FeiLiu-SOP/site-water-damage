@@ -12,6 +12,7 @@ lng: -118.1700
 zipSample: ["90723"]
 zipCodes: ["90723"]
 localPaths: ["Los Angeles County / elevation 89 ft band", "Los Angeles County / primary ZIP 90723", "Los Angeles County / ZIP 90723 sector", "Los Angeles County / coords 33.9000, -118.1700"]
+zillowHomeValueUsd: 649878
 ---
 
 **Engineering Notice for Paramount:** Structural loading calculated based on 89 ft terrain assessment. Regional dispatch grid: Los Angeles County.

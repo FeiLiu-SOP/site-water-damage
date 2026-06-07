@@ -12,6 +12,7 @@ lng: -86.6000
 zipSample: ["46996"]
 zipCodes: ["46996"]
 localPaths: ["Pulaski County / ZIP 46996 sector", "Pulaski County / elevation 709 ft band", "Pulaski County / primary ZIP 46996", "Pulaski County / coords 41.0500, -86.6000"]
+zillowHomeValueUsd: 185643
 ---
 
 **Engineering Notice for Winamac:** System optimized for 169 mg/L hard water scaling factors in Winamac. Regional dispatch grid: Pulaski County.

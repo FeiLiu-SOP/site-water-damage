@@ -11,6 +11,7 @@ lng: -94.4200
 zipSample: ["64068", "64069"]
 zipCodes: ["64068", "64069"]
 localPaths: ["Clay County / ZIP 64069 sector", "Clay County / ZIP 64068 sector", "Clay County / elevation 876 ft band", "Clay County / coords 39.2400, -94.4200", "Clay County / primary ZIP 64068"]
+zillowHomeValueUsd: 326589
 ---
 
 **Engineering Notice for Liberty:** Structural loading calculated based on 876 ft terrain assessment. Regional dispatch grid: Clay County.

@@ -12,6 +12,7 @@ lng: -96.6600
 zipSample: ["75076"]
 zipCodes: ["75076"]
 localPaths: ["Grayson County / ZIP 75076 sector", "Grayson County / coords 33.8700, -96.6600", "Grayson County / elevation 696 ft band", "Grayson County / primary ZIP 75076"]
+zillowHomeValueUsd: 338048
 ---
 
 **Engineering Notice for Preston:** System optimized for 144 mg/L hard water scaling factors in Preston. Regional dispatch grid: Grayson County.

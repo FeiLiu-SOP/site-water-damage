@@ -12,6 +12,7 @@ lng: -110.8000
 zipSample: ["83001"]
 zipCodes: ["83001"]
 localPaths: ["Teton County / elevation 6063 ft band", "Teton County / primary ZIP 83001", "Teton County / ZIP 83001 sector", "Teton County / coords 43.4200, -110.8000"]
+zillowHomeValueUsd: 1936413
 ---
 
 **Engineering Notice for South Park:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Coordinates: 43.4200, -110.8000. Grid: Teton County.

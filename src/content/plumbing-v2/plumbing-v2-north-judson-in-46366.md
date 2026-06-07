@@ -12,6 +12,7 @@ lng: -86.7800
 zipSample: ["46366"]
 zipCodes: ["46366"]
 localPaths: ["Starke County / primary ZIP 46366", "Starke County / ZIP 46366 sector", "Starke County / coords 41.2200, -86.7800", "Starke County / elevation 722 ft band"]
+zillowHomeValueUsd: 212724
 ---
 
 **Engineering Notice for North Judson:** System optimized for 156 mg/L hard water scaling factors in North Judson. Regional dispatch grid: Starke County.

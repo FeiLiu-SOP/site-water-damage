@@ -12,6 +12,7 @@ lng: -93.2700
 zipSample: ["50225"]
 zipCodes: ["50225"]
 localPaths: ["Marion County / primary ZIP 50225", "Marion County / coords 41.3900, -93.2700", "Marion County / elevation 915 ft band", "Marion County / ZIP 50225 sector"]
+zillowHomeValueUsd: 266213
 ---
 
 **Engineering Notice for Pleasantville:** System optimized for 123 mg/L hard water scaling factors in Pleasantville. Regional dispatch grid: Marion County.

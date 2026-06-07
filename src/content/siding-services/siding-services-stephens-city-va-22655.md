@@ -12,6 +12,7 @@ lng: -78.2200
 zipSample: ["22655"]
 zipCodes: ["22655"]
 localPaths: ["Frederick County / ZIP 22655 sector", "Frederick County / elevation 722 ft band", "Frederick County / primary ZIP 22655", "Frederick County / coords 39.0900, -78.2200"]
+zillowHomeValueUsd: 403879
 ---
 
 **Engineering Notice for Stephens City:** Envelope check: Panel Replacement assigned to wind-load band A with stress factor 0.79. Regional dispatch grid: Frederick County.

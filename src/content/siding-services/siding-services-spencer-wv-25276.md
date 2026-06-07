@@ -12,6 +12,7 @@ lng: -81.3500
 zipSample: ["25276"]
 zipCodes: ["25276"]
 localPaths: ["Roane County / coords 38.8000, -81.3500", "Roane County / elevation 807 ft band", "Roane County / ZIP 25276 sector", "Roane County / primary ZIP 25276"]
+zillowHomeValueUsd: 117725
 ---
 
 **Engineering Notice for Spencer:** Surface Sheathing was validated under stress factor 0.74; target tolerance set near 94 mph. Coordinates: 38.8000, -81.3500. Grid anchor: Roane County.

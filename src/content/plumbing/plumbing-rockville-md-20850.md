@@ -12,6 +12,7 @@ lng: -77.1600
 zipSample: ["20849", "20852", "20848", "20851", "20847"]
 zipCodes: ["20848", "20850", "20851", "20852", "20847", "20857", "20849"]
 localPaths: ["Montgomery County / ZIP 20849 sector", "Montgomery County / elevation 463 ft band", "Montgomery County / ZIP 20851 sector", "Montgomery County / ZIP 20847 sector", "Montgomery County / primary ZIP 20850"]
+zillowHomeValueUsd: 697023
 ---
 
 **Engineering Notice for Rockville:** Structural loading calculated based on 463 ft terrain assessment. Regional dispatch grid: Montgomery County.

@@ -12,6 +12,7 @@ lng: -96.8000
 zipSample: ["77968"]
 zipCodes: ["77968"]
 localPaths: ["Victoria County / coords 28.8700, -96.8000", "Victoria County / primary ZIP 77968", "Victoria County / ZIP 77968 sector", "Victoria County / elevation 69 ft band"]
+zillowHomeValueUsd: 363231
 ---
 
 **Engineering Notice for Inez:** Site context locked to Victoria County. Coordinates: 28.8700, -96.8000. Panel Replacement integrity verification recorded.

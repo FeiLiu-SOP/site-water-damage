@@ -12,6 +12,7 @@ lng: -79.8400
 zipSample: ["15112"]
 zipCodes: ["15112"]
 localPaths: ["Allegheny County / elevation 889 ft band", "Allegheny County / primary ZIP 15112", "Allegheny County / ZIP 15112 sector", "Allegheny County / coords 40.4000, -79.8400"]
+zillowHomeValueUsd: 100004
 ---
 
 **Engineering Notice for East Pittsburgh:** structural drying capacity optimized for 889ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allegheny County. Relative Humidity Threshold: 71%. Sensor sync: Active.

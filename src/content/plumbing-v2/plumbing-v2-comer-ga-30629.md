@@ -12,6 +12,7 @@ lng: -83.1300
 zipSample: ["30629"]
 zipCodes: ["30629"]
 localPaths: ["Madison County / primary ZIP 30629", "Madison County / coords 34.0600, -83.1300", "Madison County / ZIP 30629 sector", "Madison County / elevation 702 ft band"]
+zillowHomeValueUsd: 304762
 ---
 
 **Engineering Notice for Comer:** System optimized for 121 mg/L hard water scaling factors in Comer. Regional dispatch grid: Madison County.

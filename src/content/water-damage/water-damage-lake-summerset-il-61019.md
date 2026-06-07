@@ -12,6 +12,7 @@ lng: -89.4000
 zipSample: ["61019"]
 zipCodes: ["61019"]
 localPaths: ["Winnebago County / coords 42.4500, -89.4000", "Winnebago County / primary ZIP 61019", "Winnebago County / elevation 820 ft band", "Winnebago County / ZIP 61019 sector"]
+zillowHomeValueUsd: 264189
 ---
 
 **Engineering Notice for Lake Summerset:** structural drying capacity optimized for 820ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Winnebago County. Relative Humidity Threshold: 75%. Sensor sync: Active.

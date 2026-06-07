@@ -11,6 +11,7 @@ lng: -73.9500
 zipSample: ["11201", "11229", "11212", "11223", "11230"]
 zipCodes: ["11215", "11207", "11223", "11224", "11247", "11256", "11221", "11204", "11211", "11222", "11230", "11213"]
 localPaths: ["Kings County / primary ZIP 11229", "Kings County / ZIP 11223 sector", "Kings County / elevation 59 ft band", "Kings County / ZIP 11212 sector", "Kings County / ZIP 11201 sector"]
+zillowHomeValueUsd: 767743
 ---
 
 **Engineering Notice for Brooklyn:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Kings County.

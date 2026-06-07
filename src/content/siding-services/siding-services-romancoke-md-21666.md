@@ -12,6 +12,7 @@ lng: -76.3500
 zipSample: ["21666"]
 zipCodes: ["21666"]
 localPaths: ["Queen Anne's County / primary ZIP 21666", "Queen Anne's County / ZIP 21666 sector", "Queen Anne's County / elevation 52 ft band", "Queen Anne's County / coords 38.8900, -76.3500"]
+zillowHomeValueUsd: 541637
 ---
 
 **Engineering Notice for Romancoke:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 1.17. Elevation: 52 ft AMSL. Regional dispatch grid: Queen Anne's County.

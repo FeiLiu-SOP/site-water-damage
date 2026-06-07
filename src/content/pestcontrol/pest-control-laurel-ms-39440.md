@@ -11,6 +11,7 @@ lng: -89.1400
 zipSample: ["39443", "39441", "39440", "39442"]
 zipCodes: ["39442", "39443", "39440", "39441"]
 localPaths: ["Jones County / primary ZIP 39440", "Jones County / ZIP 39441 sector", "Jones County / ZIP 39442 sector", "Jones County / ZIP 39440 sector", "Jones County / coords 31.7000, -89.1400"]
+zillowHomeValueUsd: 112710
 ---
 
 **Engineering Notice for Laurel:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Jones County.

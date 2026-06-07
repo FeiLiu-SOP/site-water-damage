@@ -12,6 +12,7 @@ lng: -103.2200
 zipSample: ["80720"]
 zipCodes: ["80720"]
 localPaths: ["Washington County / ZIP 80720 sector", "Washington County / elevation 4682 ft band", "Washington County / coords 40.1600, -103.2200", "Washington County / primary ZIP 80720"]
+zillowHomeValueUsd: 253021
 ---
 
 **Engineering Notice for Akron:** System optimized for 165 mg/L hard water scaling factors in Akron. Regional dispatch grid: Washington County.

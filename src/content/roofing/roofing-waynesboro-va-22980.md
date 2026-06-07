@@ -11,6 +11,7 @@ lng: -78.9000
 zipSample: ["22980"]
 zipCodes: ["22980"]
 localPaths: ["Waynesboro County / coords 38.0700, -78.9000", "Waynesboro County / primary ZIP 22980", "Waynesboro County / elevation 1352 ft band", "Waynesboro County / ZIP 22980 sector"]
+zillowHomeValueUsd: 313608
 ---
 
 **Engineering Notice for Waynesboro:** Structural loading calculated based on 1352 ft terrain assessment. Regional dispatch grid: Waynesboro County.

@@ -12,6 +12,7 @@ lng: -78.9400
 zipSample: ["22821"]
 zipCodes: ["22821"]
 localPaths: ["Rockingham County / coords 38.4200, -78.9400", "Rockingham County / primary ZIP 22821", "Rockingham County / ZIP 22821 sector", "Rockingham County / elevation 1234 ft band"]
+zillowHomeValueUsd: 359900
 ---
 
 **Engineering Notice for Dayton:** structural drying capacity optimized for 1234ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rockingham County. Relative Humidity Threshold: 73%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -88.4900
 zipSample: ["42058"]
 zipCodes: ["42058"]
 localPaths: ["Livingston County / primary ZIP 42058", "Livingston County / ZIP 42058 sector", "Livingston County / elevation 341 ft band", "Livingston County / coords 37.0500, -88.4900"]
+zillowHomeValueUsd: 157458
 ---
 
 **Engineering Notice for Ledbetter:** System optimized for 168 mg/L hard water scaling factors in Ledbetter. Regional dispatch grid: Livingston County.

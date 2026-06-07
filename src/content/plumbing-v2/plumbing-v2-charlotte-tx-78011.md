@@ -12,6 +12,8 @@ lng: -98.7000
 zipSample: ["78011"]
 zipCodes: ["78011"]
 localPaths: ["Atascosa County / primary ZIP 78011", "Atascosa County / coords 28.8600, -98.7000", "Atascosa County / elevation 554 ft band", "Atascosa County / ZIP 78011 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 301280
 ---
 
 **Engineering Notice for Charlotte:** System optimized for 143 mg/L hard water scaling factors in Charlotte. Regional dispatch grid: Atascosa County.

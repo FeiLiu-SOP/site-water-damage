@@ -12,6 +12,7 @@ lng: -88.7300
 zipSample: ["53098", "53094"]
 zipCodes: ["53098", "53094"]
 localPaths: ["Jefferson County / coords 43.1900, -88.7300", "Jefferson County / elevation 830 ft band", "Jefferson County / ZIP 53094 sector", "Jefferson County / ZIP 53098 sector", "Jefferson County / primary ZIP 53098"]
+zillowHomeValueUsd: 325966
 ---
 
 **Engineering Notice for Watertown:** Structural loading calculated based on 830 ft terrain assessment. Regional dispatch grid: Jefferson County.

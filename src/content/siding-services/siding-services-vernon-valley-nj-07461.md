@@ -12,6 +12,7 @@ lng: -74.4800
 zipSample: ["07461", "07418"]
 zipCodes: ["07418", "07461"]
 localPaths: ["Sussex County / ZIP 07418 sector", "Sussex County / coords 41.2400, -74.4800", "Sussex County / ZIP 07461 sector", "Sussex County / elevation 617 ft band", "Sussex County / primary ZIP 07461"]
+zillowHomeValueUsd: 447838
 ---
 
 **Engineering Notice for Vernon Valley:** Site context locked to Sussex County. Elevation: 617 ft AMSL. Coordinates: 41.2400, -74.4800. Cladding Retrofit integrity verification recorded.

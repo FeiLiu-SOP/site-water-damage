@@ -12,6 +12,7 @@ lng: -76.4800
 zipSample: ["17038"]
 zipCodes: ["17038"]
 localPaths: ["Lebanon County / elevation 476 ft band", "Lebanon County / coords 40.4100, -76.4800", "Lebanon County / primary ZIP 17038", "Lebanon County / ZIP 17038 sector"]
+zillowHomeValueUsd: 320173
 ---
 
 **Engineering Notice for Jonestown:** Site context locked to Lebanon County. Elevation: 476 ft AMSL. Coordinates: 40.4100, -76.4800. Wall Restoration integrity verification recorded.

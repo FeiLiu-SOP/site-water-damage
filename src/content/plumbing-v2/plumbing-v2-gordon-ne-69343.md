@@ -12,6 +12,7 @@ lng: -102.2000
 zipSample: ["69343"]
 zipCodes: ["69343"]
 localPaths: ["Sheridan County / primary ZIP 69343", "Sheridan County / coords 42.8100, -102.2000", "Sheridan County / elevation 3553 ft band", "Sheridan County / ZIP 69343 sector"]
+zillowHomeValueUsd: 130042
 ---
 
 **Engineering Notice for Gordon:** System optimized for 128 mg/L hard water scaling factors in Gordon. Regional dispatch grid: Sheridan County.

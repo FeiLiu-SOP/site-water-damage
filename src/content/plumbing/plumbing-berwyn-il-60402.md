@@ -12,6 +12,7 @@ lng: -87.7900
 zipSample: ["60402"]
 zipCodes: ["60402"]
 localPaths: ["Cook County / elevation 614 ft band", "Cook County / ZIP 60402 sector", "Cook County / primary ZIP 60402", "Cook County / coords 41.8400, -87.7900"]
+zillowHomeValueUsd: 303507
 ---
 
 **Engineering Notice for Berwyn:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Cook County.

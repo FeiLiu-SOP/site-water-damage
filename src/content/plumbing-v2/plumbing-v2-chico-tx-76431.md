@@ -12,6 +12,7 @@ lng: -97.8000
 zipSample: ["76431"]
 zipCodes: ["76431"]
 localPaths: ["Wise County / primary ZIP 76431", "Wise County / ZIP 76431 sector", "Wise County / elevation 945 ft band", "Wise County / coords 33.3000, -97.8000"]
+zillowHomeValueUsd: 357018
 ---
 
 **Engineering Notice for Chico:** System optimized for 174 mg/L hard water scaling factors in Chico. Regional dispatch grid: Wise County.

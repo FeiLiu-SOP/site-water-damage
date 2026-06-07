@@ -12,6 +12,7 @@ lng: -95.1200
 zipSample: ["75789"]
 zipCodes: ["75789"]
 localPaths: ["Smith County / primary ZIP 75789", "Smith County / elevation 472 ft band", "Smith County / coords 32.1500, -95.1200", "Smith County / ZIP 75789 sector"]
+zillowHomeValueUsd: 273660
 ---
 
 **Engineering Notice for Troup:** Structural integrity verification: Cladding Retrofit calibrated for 138 mph localized wind load factor. Regional dispatch grid: Smith County.

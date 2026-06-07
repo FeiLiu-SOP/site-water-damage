@@ -12,6 +12,7 @@ lng: -91.3400
 zipSample: ["54773"]
 zipCodes: ["54773"]
 localPaths: ["Trempealeau County / primary ZIP 54773", "Trempealeau County / coords 44.3600, -91.3400", "Trempealeau County / ZIP 54773 sector", "Trempealeau County / elevation 938 ft band"]
+zillowHomeValueUsd: 228792
 ---
 
 **Engineering Notice for Whitehall:** System optimized for 170 mg/L hard water scaling factors in Whitehall. Regional dispatch grid: Trempealeau County.

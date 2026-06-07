@@ -12,6 +12,7 @@ lng: -91.9000
 zipSample: ["54871"]
 zipCodes: ["54871"]
 localPaths: ["Washburn County / coords 45.7300, -91.9000", "Washburn County / ZIP 54871 sector", "Washburn County / primary ZIP 54871", "Washburn County / elevation 1207 ft band"]
+zillowHomeValueUsd: 310864
 ---
 
 **Engineering Notice for Shell Lake:** System optimized for 132 mg/L hard water scaling factors in Shell Lake. Regional dispatch grid: Washburn County.

@@ -12,6 +12,7 @@ lng: -88.9300
 zipSample: ["54983"]
 zipCodes: ["54983"]
 localPaths: ["Waupaca County / primary ZIP 54983", "Waupaca County / elevation 784 ft band", "Waupaca County / coords 44.3200, -88.9300", "Waupaca County / ZIP 54983 sector"]
+zillowHomeValueUsd: 284145
 ---
 
 **Engineering Notice for Weyauwega:** System optimized for 174 mg/L hard water scaling factors in Weyauwega. Regional dispatch grid: Waupaca County.

@@ -12,6 +12,7 @@ lng: -117.8700
 zipSample: ["97883"]
 zipCodes: ["97883"]
 localPaths: ["Union County / primary ZIP 97883", "Union County / coords 45.2100, -117.8700", "Union County / elevation 2782 ft band", "Union County / ZIP 97883 sector"]
+zillowHomeValueUsd: 300001
 ---
 
 **Engineering Notice for Union:** Cladding verification uses 90 mph routing baseline; lateral pressure note: 12.0 psf. Elevation: 2782 ft AMSL. Coordinates: 45.2100, -117.8700. Grid: Union County.

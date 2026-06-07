@@ -12,6 +12,7 @@ lng: -89.0200
 zipSample: ["62550"]
 zipCodes: ["62550"]
 localPaths: ["Shelby County / elevation 640 ft band", "Shelby County / ZIP 62550 sector", "Shelby County / primary ZIP 62550", "Shelby County / coords 39.6300, -89.0200"]
+zillowHomeValueUsd: 165787
 ---
 
 **Engineering Notice for Moweaqua:** Structural integrity verification: Surface Sheathing calibrated for 100 mph localized wind load factor. Regional dispatch grid: Shelby County.

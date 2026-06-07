@@ -12,6 +12,7 @@ lng: -92.3600
 zipSample: ["72207", "72209", "72201", "72223", "72255"]
 zipCodes: ["72202", "72223", "72231", "72205", "72227", "72219", "72103", "72260", "72225", "72222", "72210", "72217"]
 localPaths: ["Pulaski County / ZIP 72255 sector", "Pulaski County / ZIP 72223 sector", "Pulaski County / coords 34.7300, -92.3600", "Pulaski County / elevation 341 ft band", "Pulaski County / ZIP 72207 sector"]
+zillowHomeValueUsd: 280216
 ---
 
 **Engineering Notice for Little Rock:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Pulaski County.

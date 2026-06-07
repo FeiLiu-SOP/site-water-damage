@@ -11,6 +11,7 @@ lng: -87.8800
 zipSample: ["36526"]
 zipCodes: ["36526"]
 localPaths: ["Baldwin County / ZIP 36526 sector", "Baldwin County / primary ZIP 36526", "Baldwin County / elevation 125 ft band", "Baldwin County / coords 30.6300, -87.8800"]
+zillowHomeValueUsd: 326673
 ---
 
 **Engineering Notice for Daphne:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Baldwin County.

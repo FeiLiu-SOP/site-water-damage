@@ -12,6 +12,7 @@ lng: -78.8900
 zipSample: ["15851"]
 zipCodes: ["15851"]
 localPaths: ["Jefferson County / coords 41.0900, -78.8900", "Jefferson County / ZIP 15851 sector", "Jefferson County / elevation 1394 ft band", "Jefferson County / primary ZIP 15851"]
+zillowHomeValueUsd: 114957
 ---
 
 **Engineering Notice for Reynoldsville:** Envelope check: Surface Sheathing assigned to wind-load band A with stress factor 0.78. Elevation: 1394 ft AMSL. Regional dispatch grid: Jefferson County.

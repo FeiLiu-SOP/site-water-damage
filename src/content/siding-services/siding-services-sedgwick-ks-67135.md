@@ -12,6 +12,7 @@ lng: -97.4200
 zipSample: ["67135"]
 zipCodes: ["67135"]
 localPaths: ["Harvey County / coords 37.9200, -97.4200", "Harvey County / ZIP 67135 sector", "Harvey County / elevation 1394 ft band", "Harvey County / primary ZIP 67135"]
+zillowHomeValueUsd: 243104
 ---
 
 **Engineering Notice for Sedgwick:** Site context locked to Harvey County. Elevation: 1394 ft AMSL. Cladding Service integrity verification recorded.

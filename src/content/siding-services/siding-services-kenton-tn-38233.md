@@ -12,6 +12,7 @@ lng: -89.0200
 zipSample: ["38233"]
 zipCodes: ["38233"]
 localPaths: ["Gibson County / ZIP 38233 sector", "Gibson County / elevation 315 ft band", "Gibson County / primary ZIP 38233", "Gibson County / coords 36.2000, -89.0200"]
+zillowHomeValueUsd: 144044
 ---
 
 **Engineering Notice for Kenton:** Structural integrity verification: Cladding Retrofit calibrated for 98 mph localized wind load factor. Elevation: 315 ft AMSL. Coordinates: 36.2000, -89.0200. Regional dispatch grid: Gibson County.

@@ -11,6 +11,7 @@ lng: -88.1300
 zipSample: ["36612", "36663", "36610", "36613"]
 zipCodes: ["36663", "36613", "36610", "36612"]
 localPaths: ["Mobile County / elevation 62 ft band", "Mobile County / primary ZIP 36663", "Mobile County / ZIP 36610 sector", "Mobile County / ZIP 36613 sector", "Mobile County / ZIP 36612 sector"]
+zillowHomeValueUsd: 147177
 ---
 
 **Engineering Notice for Prichard:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Mobile County.

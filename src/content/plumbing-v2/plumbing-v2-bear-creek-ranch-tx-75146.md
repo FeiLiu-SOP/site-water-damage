@@ -12,6 +12,7 @@ lng: -96.7600
 zipSample: ["75146"]
 zipCodes: ["75146"]
 localPaths: ["Dallas County / ZIP 75146 sector", "Dallas County / coords 32.5600, -96.7600", "Dallas County / elevation 581 ft band", "Dallas County / primary ZIP 75146"]
+zillowHomeValueUsd: 281306
 ---
 
 **Engineering Notice for Bear Creek Ranch:** System optimized for 148 mg/L hard water scaling factors in Bear Creek Ranch. Regional dispatch grid: Dallas County.

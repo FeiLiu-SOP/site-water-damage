@@ -12,6 +12,7 @@ lng: -84.8800
 zipSample: ["49730", "49659"]
 zipCodes: ["49730", "49659"]
 localPaths: ["Antrim County / elevation 1309 ft band", "Antrim County / ZIP 49730 sector", "Antrim County / coords 44.9400, -84.8800", "Antrim County / primary ZIP 49730", "Antrim County / ZIP 49659 sector"]
+zillowHomeValueUsd: 261466
 ---
 
 **Engineering Notice for Lakes of the North:** Envelope check: Exterior Cladding assigned to wind-load band B with stress factor 0.78. Elevation: 1309 ft AMSL. Regional dispatch grid: Antrim County.

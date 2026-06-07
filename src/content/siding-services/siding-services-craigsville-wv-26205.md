@@ -12,6 +12,7 @@ lng: -80.6400
 zipSample: ["26205"]
 zipCodes: ["26205"]
 localPaths: ["Nicholas County / coords 38.3200, -80.6400", "Nicholas County / ZIP 26205 sector", "Nicholas County / primary ZIP 26205", "Nicholas County / elevation 2313 ft band"]
+zillowHomeValueUsd: 136494
 ---
 
 **Engineering Notice for Craigsville:** Site context locked to Nicholas County. Surface Sheathing integrity verification recorded.

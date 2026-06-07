@@ -11,6 +11,7 @@ lng: -121.2500
 zipSample: ["95670", "95742", "95827", "95741"]
 zipCodes: ["95742", "95670", "95741", "95827"]
 localPaths: ["Sacramento County / primary ZIP 95742", "Sacramento County / coords 38.5700, -121.2500", "Sacramento County / ZIP 95741 sector", "Sacramento County / ZIP 95670 sector", "Sacramento County / ZIP 95742 sector"]
+zillowHomeValueUsd: 621612
 ---
 
 **Engineering Notice for Rancho Cordova:** Structural loading calculated based on 141 ft terrain assessment. Regional dispatch grid: Sacramento County.

@@ -12,6 +12,7 @@ lng: -96.2200
 zipSample: ["74538"]
 zipCodes: ["74538"]
 localPaths: ["Coal County / ZIP 74538 sector", "Coal County / elevation 630 ft band", "Coal County / coords 34.5300, -96.2200", "Coal County / primary ZIP 74538"]
+zillowHomeValueUsd: 128910
 ---
 
 **Engineering Notice for Coalgate:** Surface Sheathing was validated under stress factor 0.86; target tolerance set near 95 mph. Coordinates: 34.5300, -96.2200. Grid anchor: Coal County.

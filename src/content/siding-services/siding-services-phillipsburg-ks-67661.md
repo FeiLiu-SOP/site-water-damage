@@ -12,6 +12,7 @@ lng: -99.3200
 zipSample: ["67661"]
 zipCodes: ["67661"]
 localPaths: ["Phillips County / elevation 1939 ft band", "Phillips County / ZIP 67661 sector", "Phillips County / coords 39.7500, -99.3200", "Phillips County / primary ZIP 67661"]
+zillowHomeValueUsd: 124480
 ---
 
 **Engineering Notice for Phillipsburg:** Envelope check: Surface Sheathing assigned to wind-load band C with stress factor 0.99. Elevation: 1939 ft AMSL. Regional dispatch grid: Phillips County.

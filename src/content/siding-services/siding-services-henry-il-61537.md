@@ -12,6 +12,7 @@ lng: -89.3600
 zipSample: ["61537"]
 zipCodes: ["61537"]
 localPaths: ["Marshall County / ZIP 61537 sector", "Marshall County / elevation 502 ft band", "Marshall County / primary ZIP 61537", "Marshall County / coords 41.1200, -89.3600"]
+zillowHomeValueUsd: 119224
 ---
 
 **Engineering Notice for Henry:** Structural integrity verification: Cladding Service calibrated for 98 mph localized wind load factor. Regional dispatch grid: Marshall County.

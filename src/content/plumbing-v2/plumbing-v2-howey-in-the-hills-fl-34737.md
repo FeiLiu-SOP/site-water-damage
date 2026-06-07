@@ -12,6 +12,7 @@ lng: -81.7800
 zipSample: ["34737"]
 zipCodes: ["34737"]
 localPaths: ["Lake County / coords 28.7100, -81.7800", "Lake County / ZIP 34737 sector", "Lake County / primary ZIP 34737", "Lake County / elevation 89 ft band"]
+zillowHomeValueUsd: 404747
 ---
 
 **Engineering Notice for Howey-in-the-Hills:** System optimized for 138 mg/L hard water scaling factors in Howey-in-the-Hills. Regional dispatch grid: Lake County.

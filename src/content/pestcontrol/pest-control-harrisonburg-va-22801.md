@@ -11,6 +11,7 @@ lng: -78.8700
 zipSample: ["22802", "22801", "22803", "22807"]
 zipCodes: ["22807", "22803", "22801", "22802"]
 localPaths: ["Harrisonburg County / coords 38.4400, -78.8700", "Harrisonburg County / ZIP 22803 sector", "Harrisonburg County / primary ZIP 22801", "Harrisonburg County / ZIP 22801 sector", "Harrisonburg County / elevation 1309 ft band"]
+zillowHomeValueUsd: 368601
 ---
 
 **Engineering Notice for Harrisonburg:** Structural loading calculated based on 1309 ft terrain assessment. Regional dispatch grid: Harrisonburg County.

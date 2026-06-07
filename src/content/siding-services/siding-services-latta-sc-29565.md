@@ -12,6 +12,7 @@ lng: -79.4300
 zipSample: ["29565"]
 zipCodes: ["29565"]
 localPaths: ["Dillon County / primary ZIP 29565", "Dillon County / coords 34.3400, -79.4300", "Dillon County / ZIP 29565 sector", "Dillon County / elevation 102 ft band"]
+zillowHomeValueUsd: 118081
 ---
 
 **Engineering Notice for Latta:** Cladding verification uses 94 mph routing baseline; lateral pressure note: 12.5 psf. Grid: Dillon County.

@@ -11,6 +11,7 @@ lng: -73.9700
 zipSample: ["12508"]
 zipCodes: ["12508"]
 localPaths: ["Dutchess County / coords 41.5000, -73.9700", "Dutchess County / elevation 171 ft band", "Dutchess County / ZIP 12508 sector", "Dutchess County / primary ZIP 12508"]
+zillowHomeValueUsd: 533907
 ---
 
 **Engineering Notice for Beacon:** Structural loading calculated based on 171 ft terrain assessment. Regional dispatch grid: Dutchess County.

@@ -11,6 +11,7 @@ lng: -77.2300
 zipSample: ["22102", "22182"]
 zipCodes: ["22102", "22182"]
 localPaths: ["Fairfax County / ZIP 22182 sector", "Fairfax County / elevation 512 ft band", "Fairfax County / ZIP 22102 sector", "Fairfax County / coords 38.9200, -77.2300", "Fairfax County / primary ZIP 22102"]
+zillowHomeValueUsd: 841490
 ---
 
 **Engineering Notice for Tysons:** Structural loading calculated based on 512 ft terrain assessment. Regional dispatch grid: Fairfax County.

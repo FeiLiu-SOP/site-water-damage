@@ -11,6 +11,7 @@ lng: -93.2100
 zipSample: ["70606", "70605", "70616", "70609", "70602"]
 zipCodes: ["70601", "70607", "70615", "70616", "70602", "70605", "70612", "70609", "70629", "70606"]
 localPaths: ["Calcasieu Parish / primary ZIP 70605", "Calcasieu Parish / ZIP 70606 sector", "Calcasieu Parish / ZIP 70609 sector", "Calcasieu Parish / coords 30.2000, -93.2100", "Calcasieu Parish / elevation 26 ft band"]
+zillowHomeValueUsd: 263784
 ---
 
 **Engineering Notice for Lake Charles:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Calcasieu Parish.

@@ -12,6 +12,7 @@ lng: -123.0700
 zipSample: ["97443", "97447"]
 zipCodes: ["97447", "97443"]
 localPaths: ["Douglas County / primary ZIP 97443", "Douglas County / coords 43.3000, -123.0700", "Douglas County / elevation 1293 ft band", "Douglas County / ZIP 97447 sector", "Douglas County / ZIP 97443 sector"]
+zillowHomeValueUsd: 389407
 ---
 
 **Engineering Notice for Glide:** System optimized for 180 mg/L hard water scaling factors in Glide. Regional dispatch grid: Douglas County.

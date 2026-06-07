@@ -12,6 +12,7 @@ lng: -97.1500
 zipSample: ["76013"]
 zipCodes: ["76013"]
 localPaths: ["Tarrant County / primary ZIP 76013", "Tarrant County / elevation 600 ft band", "Tarrant County / coords 32.7100, -97.1500", "Tarrant County / ZIP 76013 sector"]
+zillowHomeValueUsd: 311167
 ---
 
 **Engineering Notice for Pantego:** System optimized for 177 mg/L hard water scaling factors in Pantego. Regional dispatch grid: Tarrant County.

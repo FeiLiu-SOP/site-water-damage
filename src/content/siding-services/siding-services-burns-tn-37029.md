@@ -12,6 +12,7 @@ lng: -87.3000
 zipSample: ["37055", "37029"]
 zipCodes: ["37055", "37029"]
 localPaths: ["Dickson County / elevation 791 ft band", "Dickson County / coords 36.0500, -87.3000", "Dickson County / ZIP 37029 sector", "Dickson County / ZIP 37055 sector", "Dickson County / primary ZIP 37029"]
+zillowHomeValueUsd: 440521
 ---
 
 **Engineering Notice for Burns:** Exterior Cladding was validated under stress factor 0.86; target tolerance set near 109 mph. Coordinates: 36.0500, -87.3000. Grid anchor: Dickson County.

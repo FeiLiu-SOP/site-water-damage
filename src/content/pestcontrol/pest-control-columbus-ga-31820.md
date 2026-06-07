@@ -11,6 +11,7 @@ lng: -84.8800
 zipSample: ["31909", "31995", "31908", "31998", "31902"]
 zipCodes: ["31904", "31997", "31808", "31907", "31908", "31905", "31901", "31906", "31902", "31999", "31995", "31917"]
 localPaths: ["Muscogee County / primary ZIP 31820", "Muscogee County / ZIP 31902 sector", "Muscogee County / ZIP 31995 sector", "Muscogee County / coords 32.5100, -84.8800", "Muscogee County / elevation 322 ft band"]
+zillowHomeValueUsd: 383001
 ---
 
 **Engineering Notice for Columbus:** Structural loading calculated based on 322 ft terrain assessment. Regional dispatch grid: Muscogee County.

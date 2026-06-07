@@ -12,6 +12,7 @@ lng: -100.2500
 zipSample: ["79079"]
 zipCodes: ["79079"]
 localPaths: ["Wheeler County / coords 35.2200, -100.2500", "Wheeler County / elevation 2343 ft band", "Wheeler County / primary ZIP 79079", "Wheeler County / ZIP 79079 sector"]
+zillowHomeValueUsd: 74330
 ---
 
 **Engineering Notice for Shamrock:** structural drying capacity optimized for 2343ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wheeler County. Relative Humidity Threshold: 78%. Sensor sync: Active.

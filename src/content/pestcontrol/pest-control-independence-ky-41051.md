@@ -11,6 +11,7 @@ lng: -84.5500
 zipSample: ["41051"]
 zipCodes: ["41051"]
 localPaths: ["Kenton County / ZIP 41051 sector", "Kenton County / coords 38.9500, -84.5500", "Kenton County / elevation 797 ft band", "Kenton County / primary ZIP 41051"]
+zillowHomeValueUsd: 329642
 ---
 
 **Engineering Notice for Independence:** Structural loading calculated based on 797 ft terrain assessment. Regional dispatch grid: Kenton County.

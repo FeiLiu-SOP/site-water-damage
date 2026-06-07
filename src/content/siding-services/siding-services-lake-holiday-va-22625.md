@@ -12,6 +12,7 @@ lng: -78.3200
 zipSample: ["22625"]
 zipCodes: ["22625"]
 localPaths: ["Frederick County / coords 39.3100, -78.3200", "Frederick County / elevation 830 ft band", "Frederick County / ZIP 22625 sector", "Frederick County / primary ZIP 22625"]
+zillowHomeValueUsd: 428829
 ---
 
 **Engineering Notice for Lake Holiday:** Cladding Retrofit was validated under stress factor 1.12; target tolerance set near 107 mph. Grid anchor: Frederick County.

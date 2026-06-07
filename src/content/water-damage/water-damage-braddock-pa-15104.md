@@ -12,6 +12,7 @@ lng: -79.8700
 zipSample: ["15104"]
 zipCodes: ["15104"]
 localPaths: ["Allegheny County / coords 40.4000, -79.8700", "Allegheny County / ZIP 15104 sector", "Allegheny County / primary ZIP 15104", "Allegheny County / elevation 748 ft band"]
+zillowHomeValueUsd: 58372
 ---
 
 **Engineering Notice for Braddock:** structural drying capacity optimized for 748ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allegheny County. Relative Humidity Threshold: 77%. Sensor sync: Active.

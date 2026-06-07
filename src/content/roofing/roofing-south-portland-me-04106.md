@@ -11,6 +11,7 @@ lng: -70.2900
 zipSample: ["04106"]
 zipCodes: ["04106"]
 localPaths: ["Cumberland County / primary ZIP 04106", "Cumberland County / ZIP 04106 sector", "Cumberland County / coords 43.6300, -70.2900", "Cumberland County / elevation 33 ft band"]
+zillowHomeValueUsd: 518094
 ---
 
 **Engineering Notice for South Portland:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Cumberland County.

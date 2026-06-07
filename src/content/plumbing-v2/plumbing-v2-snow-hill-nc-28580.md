@@ -12,6 +12,7 @@ lng: -77.6800
 zipSample: ["28580"]
 zipCodes: ["28580"]
 localPaths: ["Greene County / coords 35.4500, -77.6800", "Greene County / elevation 79 ft band", "Greene County / primary ZIP 28580", "Greene County / ZIP 28580 sector"]
+zillowHomeValueUsd: 179656
 ---
 
 **Engineering Notice for Snow Hill:** System optimized for 142 mg/L hard water scaling factors in Snow Hill. Regional dispatch grid: Greene County.

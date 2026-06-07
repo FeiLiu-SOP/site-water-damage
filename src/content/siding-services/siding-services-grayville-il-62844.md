@@ -12,6 +12,7 @@ lng: -88.0000
 zipSample: ["62844"]
 zipCodes: ["62844"]
 localPaths: ["White County / coords 38.2600, -88.0000", "White County / elevation 436 ft band", "White County / primary ZIP 62844", "White County / ZIP 62844 sector"]
+zillowHomeValueUsd: 77821
 ---
 
 **Engineering Notice for Grayville:** Site context locked to White County. Elevation: 436 ft AMSL. Facade Renewal integrity verification recorded.

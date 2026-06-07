@@ -12,6 +12,7 @@ lng: -79.8100
 zipSample: ["15148"]
 zipCodes: ["15148"]
 localPaths: ["Allegheny County / ZIP 15148 sector", "Allegheny County / elevation 751 ft band", "Allegheny County / primary ZIP 15148", "Allegheny County / coords 40.3900, -79.8100"]
+zillowHomeValueUsd: 71136
 ---
 
 **Engineering Notice for Wilmerding:** System optimized for 176 mg/L hard water scaling factors in Wilmerding. Regional dispatch grid: Allegheny County.

@@ -12,6 +12,7 @@ lng: -75.9300
 zipSample: ["19607"]
 zipCodes: ["19607"]
 localPaths: ["Berks County / elevation 341 ft band", "Berks County / coords 40.3000, -75.9300", "Berks County / primary ZIP 19607", "Berks County / ZIP 19607 sector"]
+zillowHomeValueUsd: 271899
 ---
 
 **Engineering Notice for Grill:** Structural integrity verification: Facade Renewal calibrated for 99 mph localized wind load factor. Regional dispatch grid: Berks County.

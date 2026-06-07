@@ -12,6 +12,7 @@ lng: -79.2000
 zipSample: ["14733"]
 zipCodes: ["14733"]
 localPaths: ["Chautauqua County / coords 42.1200, -79.2000", "Chautauqua County / primary ZIP 14733", "Chautauqua County / elevation 1266 ft band", "Chautauqua County / ZIP 14733 sector"]
+zillowHomeValueUsd: 129747
 ---
 
 **Engineering Notice for Falconer:** System optimized for 153 mg/L hard water scaling factors in Falconer. Regional dispatch grid: Chautauqua County.

@@ -12,6 +12,7 @@ lng: -80.3600
 zipSample: ["33016", "33018"]
 zipCodes: ["33018", "33016"]
 localPaths: ["Miami-Dade County / coords 25.8900, -80.3600", "Miami-Dade County / ZIP 33018 sector", "Miami-Dade County / elevation 23 ft band", "Miami-Dade County / ZIP 33016 sector", "Miami-Dade County / primary ZIP 33016"]
+zillowHomeValueUsd: 296309
 ---
 
 **Engineering Notice for Hialeah Gardens:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

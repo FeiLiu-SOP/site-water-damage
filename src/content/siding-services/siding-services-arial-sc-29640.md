@@ -12,6 +12,7 @@ lng: -82.6400
 zipSample: ["29640"]
 zipCodes: ["29640"]
 localPaths: ["Pickens County / elevation 1047 ft band", "Pickens County / coords 34.8500, -82.6400", "Pickens County / ZIP 29640 sector", "Pickens County / primary ZIP 29640"]
+zillowHomeValueUsd: 273658
 ---
 
 **Engineering Notice for Arial:** Site context locked to Pickens County. Elevation: 1047 ft AMSL. Weather Barrier Wrap integrity verification recorded.

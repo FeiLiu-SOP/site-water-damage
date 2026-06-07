@@ -12,6 +12,7 @@ lng: -97.3300
 zipSample: ["73051"]
 zipCodes: ["73051"]
 localPaths: ["Cleveland County / primary ZIP 73051", "Cleveland County / ZIP 73051 sector", "Cleveland County / elevation 1047 ft band", "Cleveland County / coords 35.0200, -97.3300"]
+zillowHomeValueUsd: 200696
 ---
 
 **Engineering Notice for Lexington:** System optimized for 135 mg/L hard water scaling factors in Lexington. Regional dispatch grid: Cleveland County.

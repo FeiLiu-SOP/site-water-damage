@@ -12,6 +12,8 @@ lng: -66.0000
 zipSample: ["00778"]
 zipCodes: ["00778"]
 localPaths: ["Gurabo County / coords 18.2300, -66.0000", "Gurabo County / ZIP 00778 sector", "Gurabo County / elevation 213 ft band", "Gurabo County / primary ZIP 00778"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 383778
 ---
 
 **Engineering Notice for Parcelas de Navarro:** Cladding verification uses 102 mph routing baseline; lateral pressure note: 13.4 psf. Elevation: 213 ft AMSL. Coordinates: 18.2300, -66.0000. Grid: Gurabo County.

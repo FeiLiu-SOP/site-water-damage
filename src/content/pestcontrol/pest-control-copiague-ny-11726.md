@@ -11,6 +11,7 @@ lng: -73.3900
 zipSample: ["11701", "11726", "11757"]
 zipCodes: ["11757", "11701", "11726"]
 localPaths: ["Suffolk County / elevation 20 ft band", "Suffolk County / coords 40.6700, -73.3900", "Suffolk County / ZIP 11726 sector", "Suffolk County / ZIP 11757 sector", "Suffolk County / primary ZIP 11726"]
+zillowHomeValueUsd: 568493
 ---
 
 **Engineering Notice for Copiague:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Suffolk County.

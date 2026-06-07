@@ -12,6 +12,7 @@ lng: -95.9100
 zipSample: ["75446"]
 zipCodes: ["75446"]
 localPaths: ["Fannin County / primary ZIP 75446", "Fannin County / coords 33.5900, -95.9100", "Fannin County / ZIP 75446 sector", "Fannin County / elevation 673 ft band"]
+zillowHomeValueUsd: 248135
 ---
 
 **Engineering Notice for Honey Grove:** Site context locked to Fannin County. Elevation: 673 ft AMSL. Cladding Service integrity verification recorded.

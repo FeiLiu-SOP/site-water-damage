@@ -11,6 +11,7 @@ lng: -77.5900
 zipSample: ["28501", "28503", "28504", "28502"]
 zipCodes: ["28503", "28502", "28504", "28501"]
 localPaths: ["Lenoir County / ZIP 28501 sector", "Lenoir County / elevation 95 ft band", "Lenoir County / ZIP 28502 sector", "Lenoir County / primary ZIP 28501", "Lenoir County / ZIP 28504 sector"]
+zillowHomeValueUsd: 97109
 ---
 
 **Engineering Notice for Kinston:** Structural loading calculated based on 95 ft terrain assessment. Regional dispatch grid: Lenoir County.

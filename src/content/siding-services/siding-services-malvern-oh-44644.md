@@ -12,6 +12,7 @@ lng: -81.1800
 zipSample: ["44644"]
 zipCodes: ["44644"]
 localPaths: ["Carroll County / elevation 997 ft band", "Carroll County / ZIP 44644 sector", "Carroll County / primary ZIP 44644", "Carroll County / coords 40.6900, -81.1800"]
+zillowHomeValueUsd: 270721
 ---
 
 **Engineering Notice for Malvern:** Cladding verification uses 108 mph routing baseline; lateral pressure note: 14.2 psf. Elevation: 997 ft AMSL. Grid: Carroll County.

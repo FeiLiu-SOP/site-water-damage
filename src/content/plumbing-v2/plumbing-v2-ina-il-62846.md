@@ -12,6 +12,8 @@ lng: -88.9000
 zipSample: ["62846", "62816"]
 zipCodes: ["62816", "62846"]
 localPaths: ["Jefferson County / coords 38.1500, -88.9000", "Jefferson County / ZIP 62846 sector", "Jefferson County / primary ZIP 62846", "Jefferson County / ZIP 62816 sector", "Jefferson County / elevation 423 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 234460
 ---
 
 **Engineering Notice for Ina:** System optimized for 125 mg/L hard water scaling factors in Ina. Regional dispatch grid: Jefferson County.

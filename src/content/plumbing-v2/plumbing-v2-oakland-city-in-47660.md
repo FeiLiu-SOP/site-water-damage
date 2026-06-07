@@ -12,6 +12,7 @@ lng: -87.3500
 zipSample: ["47660"]
 zipCodes: ["47660"]
 localPaths: ["Gibson County / ZIP 47660 sector", "Gibson County / elevation 472 ft band", "Gibson County / primary ZIP 47660", "Gibson County / coords 38.3400, -87.3500"]
+zillowHomeValueUsd: 165500
 ---
 
 **Engineering Notice for Oakland City:** System optimized for 144 mg/L hard water scaling factors in Oakland City. Regional dispatch grid: Gibson County.

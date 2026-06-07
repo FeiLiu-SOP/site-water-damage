@@ -12,6 +12,7 @@ lng: -81.5100
 zipSample: ["26150"]
 zipCodes: ["26150"]
 localPaths: ["Wood County / primary ZIP 26150", "Wood County / elevation 640 ft band", "Wood County / coords 39.1800, -81.5100", "Wood County / ZIP 26150 sector"]
+zillowHomeValueUsd: 217461
 ---
 
 **Engineering Notice for Mineralwells:** Cladding verification uses 104 mph routing baseline; lateral pressure note: 13.7 psf. Elevation: 640 ft AMSL. Coordinates: 39.1800, -81.5100. Grid: Wood County.

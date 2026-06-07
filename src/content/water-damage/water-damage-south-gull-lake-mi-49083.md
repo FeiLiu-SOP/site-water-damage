@@ -12,6 +12,7 @@ lng: -85.4000
 zipSample: ["49060", "49083"]
 zipCodes: ["49083", "49060"]
 localPaths: ["Kalamazoo County / ZIP 49060 sector", "Kalamazoo County / elevation 876 ft band", "Kalamazoo County / coords 42.3900, -85.4000", "Kalamazoo County / ZIP 49083 sector", "Kalamazoo County / primary ZIP 49083"]
+zillowHomeValueUsd: 369748
 ---
 
 **Engineering Notice for South Gull Lake:** structural drying capacity optimized for 876ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kalamazoo County. Relative Humidity Threshold: 72%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -83.8700
 zipSample: ["30054"]
 zipCodes: ["30054"]
 localPaths: ["Newton County / elevation 797 ft band", "Newton County / coords 33.6300, -83.8700", "Newton County / primary ZIP 30054", "Newton County / ZIP 30054 sector"]
+zillowHomeValueUsd: 343771
 ---
 
 **Engineering Notice for Oxford:** structural drying capacity optimized for 797ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Newton County. Relative Humidity Threshold: 68%. Sensor sync: Active.

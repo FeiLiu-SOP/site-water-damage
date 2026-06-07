@@ -12,6 +12,8 @@ lng: -90.2600
 zipSample: ["72438"]
 zipCodes: ["72438"]
 localPaths: ["Mississippi County / ZIP 72438 sector", "Mississippi County / primary ZIP 72438", "Mississippi County / elevation 226 ft band", "Mississippi County / coords 35.9000, -90.2600"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 194961
 ---
 
 **Engineering Notice for Leachville:** Facade Renewal was validated under stress factor 1.15; target tolerance set near 96 mph. Grid anchor: Mississippi County.

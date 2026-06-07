@@ -12,6 +12,7 @@ lng: -90.3400
 zipSample: ["63123", "63119"]
 zipCodes: ["63119", "63123"]
 localPaths: ["St. Louis County / primary ZIP 63119", "St. Louis County / elevation 525 ft band", "St. Louis County / ZIP 63119 sector", "St. Louis County / coords 38.5700, -90.3400", "St. Louis County / ZIP 63123 sector"]
+zillowHomeValueUsd: 378668
 ---
 
 **Engineering Notice for Marlborough:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Elevation: 525 ft AMSL. Grid: St. Louis County.

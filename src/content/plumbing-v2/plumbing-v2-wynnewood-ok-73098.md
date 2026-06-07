@@ -12,6 +12,7 @@ lng: -97.1600
 zipSample: ["73098"]
 zipCodes: ["73098"]
 localPaths: ["Garvin County / coords 34.6400, -97.1600", "Garvin County / primary ZIP 73098", "Garvin County / ZIP 73098 sector", "Garvin County / elevation 912 ft band"]
+zillowHomeValueUsd: 160259
 ---
 
 **Engineering Notice for Wynnewood:** System optimized for 178 mg/L hard water scaling factors in Wynnewood. Regional dispatch grid: Garvin County.

@@ -12,6 +12,7 @@ lng: -92.9900
 zipSample: ["55946"]
 zipCodes: ["55946"]
 localPaths: ["Goodhue County / primary ZIP 55946", "Goodhue County / ZIP 55946 sector", "Goodhue County / coords 44.2700, -92.9900", "Goodhue County / elevation 1152 ft band"]
+zillowHomeValueUsd: 296033
 ---
 
 **Engineering Notice for Kenyon:** System optimized for 161 mg/L hard water scaling factors in Kenyon. Regional dispatch grid: Goodhue County.

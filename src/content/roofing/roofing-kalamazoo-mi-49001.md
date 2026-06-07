@@ -11,6 +11,7 @@ lng: -85.5900
 zipSample: ["49005", "49007", "49008", "49006", "49019"]
 zipCodes: ["49019", "49008", "49005", "49074", "49007", "49001", "49006"]
 localPaths: ["Kalamazoo County / ZIP 49006 sector", "Kalamazoo County / ZIP 49007 sector", "Kalamazoo County / ZIP 49019 sector", "Kalamazoo County / ZIP 49008 sector", "Kalamazoo County / ZIP 49005 sector"]
+zillowHomeValueUsd: 163363
 ---
 
 **Engineering Notice for Kalamazoo:** Structural loading calculated based on 784 ft terrain assessment. Regional dispatch grid: Kalamazoo County.

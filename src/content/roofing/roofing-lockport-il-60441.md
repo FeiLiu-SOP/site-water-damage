@@ -11,6 +11,7 @@ lng: -88.0300
 zipSample: ["60441"]
 zipCodes: ["60441"]
 localPaths: ["Will County / elevation 702 ft band", "Will County / ZIP 60441 sector", "Will County / primary ZIP 60441", "Will County / coords 41.5900, -88.0300"]
+zillowHomeValueUsd: 352670
 ---
 
 **Engineering Notice for Lockport:** Structural loading calculated based on 702 ft terrain assessment. Regional dispatch grid: Will County.

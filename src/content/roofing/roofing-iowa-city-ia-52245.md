@@ -11,6 +11,7 @@ lng: -91.5300
 zipSample: ["52243", "52244", "52245", "52242", "52240"]
 zipCodes: ["52244", "52245", "52243", "52240", "52246", "52242"]
 localPaths: ["Johnson County / ZIP 52244 sector", "Johnson County / elevation 656 ft band", "Johnson County / ZIP 52240 sector", "Johnson County / ZIP 52245 sector", "Johnson County / ZIP 52243 sector"]
+zillowHomeValueUsd: 322825
 ---
 
 **Engineering Notice for Iowa City:** Structural loading calculated based on 656 ft terrain assessment. Regional dispatch grid: Johnson County.

@@ -12,6 +12,7 @@ lng: -88.5700
 zipSample: ["61813"]
 zipCodes: ["61813"]
 localPaths: ["Piatt County / ZIP 61813 sector", "Piatt County / primary ZIP 61813", "Piatt County / coords 39.9200, -88.5700", "Piatt County / elevation 696 ft band"]
+zillowHomeValueUsd: 152108
 ---
 
 **Engineering Notice for Bement:** structural drying capacity optimized for 696ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Piatt County. Relative Humidity Threshold: 79%. Sensor sync: Active.

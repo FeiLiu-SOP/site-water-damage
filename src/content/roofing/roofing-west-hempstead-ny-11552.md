@@ -11,6 +11,7 @@ lng: -73.6500
 zipSample: ["11552"]
 zipCodes: ["11552"]
 localPaths: ["Nassau County / ZIP 11552 sector", "Nassau County / coords 40.7000, -73.6500", "Nassau County / primary ZIP 11552", "Nassau County / elevation 69 ft band"]
+zillowHomeValueUsd: 786263
 ---
 
 **Engineering Notice for West Hempstead:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Nassau County.

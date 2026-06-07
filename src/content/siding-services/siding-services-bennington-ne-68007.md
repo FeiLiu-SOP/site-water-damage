@@ -12,6 +12,7 @@ lng: -96.1600
 zipSample: ["68007"]
 zipCodes: ["68007"]
 localPaths: ["Douglas County / coords 41.3700, -96.1600", "Douglas County / primary ZIP 68007", "Douglas County / elevation 1142 ft band", "Douglas County / ZIP 68007 sector"]
+zillowHomeValueUsd: 410085
 ---
 
 **Engineering Notice for Bennington:** Cladding verification uses 102 mph routing baseline; lateral pressure note: 13.4 psf. Grid: Douglas County.

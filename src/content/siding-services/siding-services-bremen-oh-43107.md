@@ -12,6 +12,7 @@ lng: -82.4300
 zipSample: ["43107"]
 zipCodes: ["43107"]
 localPaths: ["Fairfield County / ZIP 43107 sector", "Fairfield County / primary ZIP 43107", "Fairfield County / elevation 794 ft band", "Fairfield County / coords 39.7100, -82.4300"]
+zillowHomeValueUsd: 283877
 ---
 
 **Engineering Notice for Bremen:** Exterior Cladding was validated under stress factor 1.20; target tolerance set near 108 mph. Coordinates: 39.7100, -82.4300. Grid anchor: Fairfield County.

@@ -12,6 +12,7 @@ lng: -95.5600
 zipSample: ["74547"]
 zipCodes: ["74547"]
 localPaths: ["Pittsburg County / ZIP 74547 sector", "Pittsburg County / elevation 705 ft band", "Pittsburg County / primary ZIP 74547", "Pittsburg County / coords 34.8400, -95.5600"]
+zillowHomeValueUsd: 106798
 ---
 
 **Engineering Notice for Hartshorne:** Site context locked to Pittsburg County. Coordinates: 34.8400, -95.5600. Cladding Service integrity verification recorded.

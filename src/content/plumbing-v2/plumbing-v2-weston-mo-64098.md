@@ -12,6 +12,7 @@ lng: -94.8900
 zipSample: ["64098"]
 zipCodes: ["64098"]
 localPaths: ["Platte County / primary ZIP 64098", "Platte County / ZIP 64098 sector", "Platte County / coords 39.4000, -94.8900", "Platte County / elevation 935 ft band"]
+zillowHomeValueUsd: 371534
 ---
 
 **Engineering Notice for Weston:** System optimized for 127 mg/L hard water scaling factors in Weston. Regional dispatch grid: Platte County.

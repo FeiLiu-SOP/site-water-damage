@@ -12,6 +12,7 @@ lng: -90.4800
 zipSample: ["70401", "70466", "70451"]
 zipCodes: ["70466", "70401", "70451"]
 localPaths: ["Tangipahoa Parish / ZIP 70401 sector", "Tangipahoa Parish / coords 30.5500, -90.4800", "Tangipahoa Parish / ZIP 70466 sector", "Tangipahoa Parish / ZIP 70451 sector", "Tangipahoa Parish / elevation 72 ft band"]
+zillowHomeValueUsd: 196549
 ---
 
 **Engineering Notice for Natalbany:** Site context locked to Tangipahoa Parish. Elevation: 72 ft AMSL. Coordinates: 30.5500, -90.4800. Cladding Retrofit integrity verification recorded.

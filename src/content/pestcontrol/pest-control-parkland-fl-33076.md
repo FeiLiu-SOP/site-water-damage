@@ -11,6 +11,7 @@ lng: -80.2500
 zipSample: ["33067", "33076"]
 zipCodes: ["33076", "33067"]
 localPaths: ["Broward County / ZIP 33067 sector", "Broward County / elevation 23 ft band", "Broward County / ZIP 33076 sector", "Broward County / primary ZIP 33076", "Broward County / coords 26.3200, -80.2500"]
+zillowHomeValueUsd: 873322
 ---
 
 **Engineering Notice for Parkland:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Broward County.

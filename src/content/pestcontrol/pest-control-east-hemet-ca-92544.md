@@ -11,6 +11,7 @@ lng: -116.9400
 zipSample: ["92544"]
 zipCodes: ["92544"]
 localPaths: ["Riverside County / elevation 1686 ft band", "Riverside County / ZIP 92544 sector", "Riverside County / coords 33.7300, -116.9400", "Riverside County / primary ZIP 92544"]
+zillowHomeValueUsd: 459549
 ---
 
 **Engineering Notice for East Hemet:** Structural loading calculated based on 1686 ft terrain assessment. Regional dispatch grid: Riverside County.

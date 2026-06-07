@@ -12,6 +12,7 @@ lng: -108.0600
 zipSample: ["87410"]
 zipCodes: ["87410"]
 localPaths: ["San Juan County / coords 36.7900, -108.0600", "San Juan County / ZIP 87410 sector", "San Juan County / elevation 5571 ft band", "San Juan County / primary ZIP 87410"]
+zillowHomeValueUsd: 275865
 ---
 
 **Engineering Notice for South River:** System optimized for 137 mg/L hard water scaling factors in South River. Regional dispatch grid: San Juan County.

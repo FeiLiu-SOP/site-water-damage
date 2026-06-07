@@ -12,6 +12,7 @@ lng: -83.7700
 zipSample: ["37865"]
 zipCodes: ["37865"]
 localPaths: ["Sevier County / coords 35.8800, -83.7700", "Sevier County / elevation 1207 ft band", "Sevier County / primary ZIP 37865", "Sevier County / ZIP 37865 sector"]
+zillowHomeValueUsd: 373968
 ---
 
 **Engineering Notice for Seymour:** Structural loading calculated based on 1207 ft terrain assessment. Regional dispatch grid: Sevier County.

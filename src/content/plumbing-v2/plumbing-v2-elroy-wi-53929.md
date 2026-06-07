@@ -12,6 +12,7 @@ lng: -90.2700
 zipSample: ["53929"]
 zipCodes: ["53929"]
 localPaths: ["Juneau County / elevation 955 ft band", "Juneau County / ZIP 53929 sector", "Juneau County / coords 43.7400, -90.2700", "Juneau County / primary ZIP 53929"]
+zillowHomeValueUsd: 224341
 ---
 
 **Engineering Notice for Elroy:** System optimized for 136 mg/L hard water scaling factors in Elroy. Regional dispatch grid: Juneau County.

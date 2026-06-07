@@ -12,6 +12,7 @@ lng: -97.6600
 zipSample: ["78664", "78665", "78681", "78683", "78682"]
 zipCodes: ["78681", "78665", "78682", "78683", "78664"]
 localPaths: ["Williamson County / coords 30.5300, -97.6600", "Williamson County / ZIP 78681 sector", "Williamson County / ZIP 78682 sector", "Williamson County / ZIP 78665 sector", "Williamson County / primary ZIP 78681"]
+zillowHomeValueUsd: 486133
 ---
 
 **Engineering Notice for Round Rock:** Structural loading calculated based on 745 ft terrain assessment. Regional dispatch grid: Williamson County.

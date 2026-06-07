@@ -12,6 +12,7 @@ lng: -87.0300
 zipSample: ["35118"]
 zipCodes: ["35118"]
 localPaths: ["Jefferson County / coords 33.5300, -87.0300", "Jefferson County / primary ZIP 35118", "Jefferson County / ZIP 35118 sector", "Jefferson County / elevation 636 ft band"]
+zillowHomeValueUsd: 139999
 ---
 
 **Engineering Notice for Sylvan Springs:** System optimized for 137 mg/L hard water scaling factors in Sylvan Springs. Regional dispatch grid: Jefferson County.

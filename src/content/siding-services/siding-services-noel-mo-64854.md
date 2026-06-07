@@ -12,6 +12,7 @@ lng: -94.4900
 zipSample: ["64854"]
 zipCodes: ["64854"]
 localPaths: ["McDonald County / primary ZIP 64854", "McDonald County / ZIP 64854 sector", "McDonald County / elevation 869 ft band", "McDonald County / coords 36.5400, -94.4900"]
+zillowHomeValueUsd: 201817
 ---
 
 **Engineering Notice for Noel:** Panel Replacement was validated under stress factor 0.85; target tolerance set near 92 mph. Coordinates: 36.5400, -94.4900. Grid anchor: McDonald County.

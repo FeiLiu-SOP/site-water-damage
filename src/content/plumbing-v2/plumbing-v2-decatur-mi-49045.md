@@ -12,6 +12,7 @@ lng: -85.9700
 zipSample: ["49045"]
 zipCodes: ["49045"]
 localPaths: ["Van Buren County / coords 42.1100, -85.9700", "Van Buren County / ZIP 49045 sector", "Van Buren County / elevation 794 ft band", "Van Buren County / primary ZIP 49045"]
+zillowHomeValueUsd: 214544
 ---
 
 **Engineering Notice for Decatur:** System optimized for 137 mg/L hard water scaling factors in Decatur. Regional dispatch grid: Van Buren County.

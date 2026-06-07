@@ -12,6 +12,7 @@ lng: -88.0300
 zipSample: ["53219", "53214", "53227"]
 zipCodes: ["53227", "53219", "53214"]
 localPaths: ["Milwaukee County / elevation 791 ft band", "Milwaukee County / primary ZIP 53219", "Milwaukee County / coords 43.0100, -88.0300", "Milwaukee County / ZIP 53214 sector", "Milwaukee County / ZIP 53227 sector"]
+zillowHomeValueUsd: 267002
 ---
 
 **Engineering Notice for West Allis:** Structural loading calculated based on 791 ft terrain assessment. Regional dispatch grid: Milwaukee County.

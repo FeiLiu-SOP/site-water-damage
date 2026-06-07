@@ -12,6 +12,7 @@ lng: -78.3200
 zipSample: ["16662"]
 zipCodes: ["16662"]
 localPaths: ["Blair County / coords 40.3100, -78.3200", "Blair County / elevation 1404 ft band", "Blair County / primary ZIP 16662", "Blair County / ZIP 16662 sector"]
+zillowHomeValueUsd: 243951
 ---
 
 **Engineering Notice for Martinsburg:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 0.78. Elevation: 1404 ft AMSL. Regional dispatch grid: Blair County.

@@ -12,6 +12,7 @@ lng: -75.7000
 zipSample: ["18411"]
 zipCodes: ["18411"]
 localPaths: ["Lackawanna County / primary ZIP 18411", "Lackawanna County / coords 41.5000, -75.7000", "Lackawanna County / elevation 1378 ft band", "Lackawanna County / ZIP 18411 sector"]
+zillowHomeValueUsd: 324541
 ---
 
 **Engineering Notice for Clarks Green:** Structural integrity verification: Weather Barrier Wrap calibrated for 99 mph localized wind load factor. Elevation: 1378 ft AMSL. Coordinates: 41.5000, -75.7000. Regional dispatch grid: Lackawanna County.

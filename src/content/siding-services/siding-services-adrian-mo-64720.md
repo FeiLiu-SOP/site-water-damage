@@ -12,6 +12,7 @@ lng: -94.3400
 zipSample: ["64720"]
 zipCodes: ["64720"]
 localPaths: ["Bates County / elevation 856 ft band", "Bates County / ZIP 64720 sector", "Bates County / primary ZIP 64720", "Bates County / coords 38.3900, -94.3400"]
+zillowHomeValueUsd: 275374
 ---
 
 **Engineering Notice for Adrian:** Envelope check: Vinyl Panels assigned to wind-load band B with stress factor 1.21. Elevation: 856 ft AMSL. Regional dispatch grid: Bates County.

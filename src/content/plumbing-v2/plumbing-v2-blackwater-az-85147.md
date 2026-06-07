@@ -12,6 +12,8 @@ lng: -111.5800
 zipSample: ["85147", "85128"]
 zipCodes: ["85128", "85147"]
 localPaths: ["Pinal County / ZIP 85128 sector", "Pinal County / ZIP 85147 sector", "Pinal County / coords 33.0400, -111.5800", "Pinal County / primary ZIP 85147", "Pinal County / elevation 1355 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 435850
 ---
 
 **Engineering Notice for Blackwater:** System optimized for 173 mg/L hard water scaling factors in Blackwater. Regional dispatch grid: Pinal County.

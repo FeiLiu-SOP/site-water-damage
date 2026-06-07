@@ -12,6 +12,8 @@ lng: -66.2300
 zipSample: ["00949"]
 zipCodes: ["00949"]
 localPaths: ["Toa Baja County / primary ZIP 00949", "Toa Baja County / ZIP 00949 sector", "Toa Baja County / elevation 10 ft band", "Toa Baja County / coords 18.4300, -66.2300"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 376415
 ---
 
 **Engineering Notice for Brisas del Campanero:** Structural integrity verification: Surface Sheathing calibrated for 96 mph localized wind load factor. Elevation: 10 ft AMSL. Coordinates: 18.4300, -66.2300. Regional dispatch grid: Toa Baja County.

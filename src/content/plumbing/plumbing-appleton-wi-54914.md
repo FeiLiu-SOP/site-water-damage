@@ -12,6 +12,7 @@ lng: -88.3900
 zipSample: ["54914", "54913", "54912", "54915", "54919"]
 zipCodes: ["54915", "54912", "54911", "54914", "54919", "54913"]
 localPaths: ["Outagamie County / elevation 791 ft band", "Outagamie County / ZIP 54919 sector", "Outagamie County / ZIP 54914 sector", "Outagamie County / coords 44.2800, -88.3900", "Outagamie County / ZIP 54912 sector"]
+zillowHomeValueUsd: 303675
 ---
 
 **Engineering Notice for Appleton:** Structural loading calculated based on 791 ft terrain assessment. Regional dispatch grid: Outagamie County.

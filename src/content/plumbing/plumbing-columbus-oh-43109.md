@@ -12,6 +12,7 @@ lng: -82.9900
 zipSample: ["43260", "43218", "43016", "43204", "43205"]
 zipCodes: ["43211", "43220", "43109", "43213", "43229", "43268", "43210", "43224", "43202", "43219", "43287", "43016"]
 localPaths: ["Franklin County / ZIP 43204 sector", "Franklin County / elevation 804 ft band", "Franklin County / primary ZIP 43109", "Franklin County / ZIP 43260 sector", "Franklin County / ZIP 43205 sector"]
+zillowHomeValueUsd: 274494
 ---
 
 **Engineering Notice for Columbus:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Franklin County.

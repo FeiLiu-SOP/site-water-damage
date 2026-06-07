@@ -12,6 +12,7 @@ lng: -76.0200
 zipSample: ["17527", "17535"]
 zipCodes: ["17535", "17527"]
 localPaths: ["Lancaster County / ZIP 17535 sector", "Lancaster County / elevation 505 ft band", "Lancaster County / primary ZIP 17527", "Lancaster County / coords 39.9900, -76.0200", "Lancaster County / ZIP 17527 sector"]
+zillowHomeValueUsd: 462096
 ---
 
 **Engineering Notice for Gap:** Surface Sheathing was validated under stress factor 1.20; target tolerance set near 110 mph. Coordinates: 39.9900, -76.0200. Grid anchor: Lancaster County.

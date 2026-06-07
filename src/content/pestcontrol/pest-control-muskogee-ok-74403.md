@@ -11,6 +11,7 @@ lng: -95.3600
 zipSample: ["74403", "74401", "74402"]
 zipCodes: ["74402", "74401", "74403"]
 localPaths: ["Muskogee County / ZIP 74402 sector", "Muskogee County / elevation 591 ft band", "Muskogee County / primary ZIP 74403", "Muskogee County / coords 35.7400, -95.3600", "Muskogee County / ZIP 74401 sector"]
+zillowHomeValueUsd: 157383
 ---
 
 **Engineering Notice for Muskogee:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Muskogee County.

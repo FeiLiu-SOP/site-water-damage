@@ -12,6 +12,7 @@ lng: -95.3200
 zipSample: ["77581"]
 zipCodes: ["77581"]
 localPaths: ["Brazoria County / ZIP 77581 sector", "Brazoria County / primary ZIP 77581", "Brazoria County / elevation 56 ft band", "Brazoria County / coords 29.5900, -95.3200"]
+zillowHomeValueUsd: 372404
 ---
 
 **Engineering Notice for Brookside Village:** Structural integrity verification: Exterior Cladding calibrated for 145 mph localized wind load factor. Elevation: 56 ft AMSL. Coordinates: 29.5900, -95.3200. Regional dispatch grid: Brazoria County.

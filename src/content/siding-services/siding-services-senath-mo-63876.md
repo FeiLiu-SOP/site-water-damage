@@ -12,6 +12,7 @@ lng: -90.1600
 zipSample: ["63876"]
 zipCodes: ["63876"]
 localPaths: ["Dunklin County / primary ZIP 63876", "Dunklin County / ZIP 63876 sector", "Dunklin County / coords 36.1300, -90.1600", "Dunklin County / elevation 256 ft band"]
+zillowHomeValueUsd: 94410
 ---
 
 **Engineering Notice for Senath:** Envelope check: Surface Sheathing assigned to wind-load band A with stress factor 1.14. Elevation: 256 ft AMSL. Regional dispatch grid: Dunklin County.

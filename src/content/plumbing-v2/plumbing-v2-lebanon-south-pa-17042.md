@@ -12,6 +12,7 @@ lng: -76.4100
 zipSample: ["17042"]
 zipCodes: ["17042"]
 localPaths: ["Lebanon County / ZIP 17042 sector", "Lebanon County / elevation 531 ft band", "Lebanon County / coords 40.3300, -76.4100", "Lebanon County / primary ZIP 17042"]
+zillowHomeValueUsd: 303257
 ---
 
 **Engineering Notice for Lebanon South:** System optimized for 144 mg/L hard water scaling factors in Lebanon South. Regional dispatch grid: Lebanon County.

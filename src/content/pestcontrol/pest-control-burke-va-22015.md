@@ -11,6 +11,7 @@ lng: -77.2600
 zipSample: ["22153", "22009", "22152", "22015"]
 zipCodes: ["22152", "22009", "22153", "22015"]
 localPaths: ["Fairfax County / ZIP 22153 sector", "Fairfax County / ZIP 22152 sector", "Fairfax County / ZIP 22015 sector", "Fairfax County / primary ZIP 22015", "Fairfax County / ZIP 22009 sector"]
+zillowHomeValueUsd: 733875
 ---
 
 **Engineering Notice for Burke:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Fairfax County.

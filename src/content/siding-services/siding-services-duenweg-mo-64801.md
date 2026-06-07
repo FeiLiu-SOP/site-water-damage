@@ -12,6 +12,7 @@ lng: -94.4100
 zipSample: ["64801", "64841"]
 zipCodes: ["64801", "64841"]
 localPaths: ["Jasper County / primary ZIP 64801", "Jasper County / elevation 1073 ft band", "Jasper County / ZIP 64801 sector", "Jasper County / ZIP 64841 sector", "Jasper County / coords 37.0800, -94.4100"]
+zillowHomeValueUsd: 191129
 ---
 
 **Engineering Notice for Duenweg:** Vinyl Panels was validated under stress factor 1.20; target tolerance set near 98 mph. Coordinates: 37.0800, -94.4100. Grid anchor: Jasper County.

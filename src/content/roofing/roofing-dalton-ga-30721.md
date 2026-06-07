@@ -11,6 +11,7 @@ lng: -84.9700
 zipSample: ["30720", "30722", "30721", "30719"]
 zipCodes: ["30721", "30719", "30722", "30720"]
 localPaths: ["Whitfield County / coords 34.7700, -84.9700", "Whitfield County / ZIP 30721 sector", "Whitfield County / ZIP 30720 sector", "Whitfield County / ZIP 30722 sector", "Whitfield County / primary ZIP 30721"]
+zillowHomeValueUsd: 235179
 ---
 
 **Engineering Notice for Dalton:** Structural loading calculated based on 771 ft terrain assessment. Regional dispatch grid: Whitfield County.

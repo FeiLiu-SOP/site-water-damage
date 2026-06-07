@@ -12,6 +12,7 @@ lng: -83.3600
 zipSample: ["43040", "43041"]
 zipCodes: ["43041", "43040"]
 localPaths: ["Union County / elevation 997 ft band", "Union County / primary ZIP 43040", "Union County / ZIP 43040 sector", "Union County / ZIP 43041 sector", "Union County / coords 40.2300, -83.3600"]
+zillowHomeValueUsd: 366108
 ---
 
 **Engineering Notice for Marysville:** Structural loading calculated based on 997 ft terrain assessment. Regional dispatch grid: Union County.

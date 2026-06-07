@@ -11,6 +11,7 @@ lng: -74.1200
 zipSample: ["07002"]
 zipCodes: ["07002"]
 localPaths: ["Hudson County / primary ZIP 07002", "Hudson County / coords 40.6700, -74.1200", "Hudson County / ZIP 07002 sector", "Hudson County / elevation 43 ft band"]
+zillowHomeValueUsd: 582677
 ---
 
 **Engineering Notice for Bayonne:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Hudson County.

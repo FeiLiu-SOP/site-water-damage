@@ -12,6 +12,7 @@ lng: -92.8000
 zipSample: ["65281"]
 zipCodes: ["65281"]
 localPaths: ["Chariton County / elevation 751 ft band", "Chariton County / ZIP 65281 sector", "Chariton County / primary ZIP 65281", "Chariton County / coords 39.4200, -92.8000"]
+zillowHomeValueUsd: 178015
 ---
 
 **Engineering Notice for Salisbury:** System optimized for 139 mg/L hard water scaling factors in Salisbury. Regional dispatch grid: Chariton County.

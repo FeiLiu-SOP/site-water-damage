@@ -12,6 +12,7 @@ lng: -97.0100
 zipSample: ["67039"]
 zipCodes: ["67039"]
 localPaths: ["Butler County / elevation 1217 ft band", "Butler County / primary ZIP 67039", "Butler County / coords 37.5200, -97.0100", "Butler County / ZIP 67039 sector"]
+zillowHomeValueUsd: 241027
 ---
 
 **Engineering Notice for Douglass:** Site context locked to Butler County. Panel Replacement integrity verification recorded.

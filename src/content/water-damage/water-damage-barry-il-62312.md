@@ -12,6 +12,7 @@ lng: -91.0400
 zipSample: ["62312"]
 zipCodes: ["62312"]
 localPaths: ["Pike County / elevation 692 ft band", "Pike County / primary ZIP 62312", "Pike County / ZIP 62312 sector", "Pike County / coords 39.7000, -91.0400"]
+zillowHomeValueUsd: 109210
 ---
 
 **Engineering Notice for Barry:** structural drying capacity optimized for 692ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pike County. Relative Humidity Threshold: 79%. Sensor sync: Active.

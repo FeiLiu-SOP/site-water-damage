@@ -12,6 +12,7 @@ lng: -81.8300
 zipSample: ["32068", "32065", "32073"]
 zipCodes: ["32065", "32073", "32068"]
 localPaths: ["Clay County / coords 30.1700, -81.8300", "Clay County / ZIP 32068 sector", "Clay County / primary ZIP 32068", "Clay County / ZIP 32073 sector", "Clay County / ZIP 32065 sector"]
+zillowHomeValueUsd: 325240
 ---
 
 **Engineering Notice for Oakleaf Plantation:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Clay County.

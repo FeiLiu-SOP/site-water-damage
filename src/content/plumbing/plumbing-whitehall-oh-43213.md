@@ -12,6 +12,7 @@ lng: -82.8800
 zipSample: ["43213", "43216"]
 zipCodes: ["43213", "43216"]
 localPaths: ["Franklin County / primary ZIP 43213", "Franklin County / coords 39.9700, -82.8800", "Franklin County / ZIP 43216 sector", "Franklin County / ZIP 43213 sector", "Franklin County / elevation 797 ft band"]
+zillowHomeValueUsd: 213967
 ---
 
 **Engineering Notice for Whitehall:** Structural loading calculated based on 797 ft terrain assessment. Regional dispatch grid: Franklin County.

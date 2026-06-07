@@ -12,6 +12,7 @@ lng: -82.6000
 zipSample: ["41129"]
 zipCodes: ["41129"]
 localPaths: ["Boyd County / primary ZIP 41129", "Boyd County / ZIP 41129 sector", "Boyd County / elevation 620 ft band", "Boyd County / coords 38.4200, -82.6000"]
+zillowHomeValueUsd: 137421
 ---
 
 **Engineering Notice for Catlettsburg:** structural drying capacity optimized for 620ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Boyd County. Relative Humidity Threshold: 71%. Sensor sync: Active.

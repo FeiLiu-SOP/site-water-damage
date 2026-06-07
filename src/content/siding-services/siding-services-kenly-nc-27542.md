@@ -12,6 +12,7 @@ lng: -78.1400
 zipSample: ["27542"]
 zipCodes: ["27542"]
 localPaths: ["Johnston County / coords 35.5900, -78.1400", "Johnston County / primary ZIP 27542", "Johnston County / ZIP 27542 sector", "Johnston County / elevation 203 ft band"]
+zillowHomeValueUsd: 268983
 ---
 
 **Engineering Notice for Kenly:** Structural integrity verification: Weather Barrier Wrap calibrated for 96 mph localized wind load factor. Coordinates: 35.5900, -78.1400. Regional dispatch grid: Johnston County.

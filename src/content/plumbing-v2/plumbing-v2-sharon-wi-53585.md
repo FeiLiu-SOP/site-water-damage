@@ -12,6 +12,7 @@ lng: -88.7400
 zipSample: ["53585"]
 zipCodes: ["53585"]
 localPaths: ["Walworth County / elevation 974 ft band", "Walworth County / coords 42.5000, -88.7400", "Walworth County / primary ZIP 53585", "Walworth County / ZIP 53585 sector"]
+zillowHomeValueUsd: 298700
 ---
 
 **Engineering Notice for Sharon:** System optimized for 150 mg/L hard water scaling factors in Sharon. Regional dispatch grid: Walworth County.

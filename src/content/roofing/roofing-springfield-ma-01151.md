@@ -11,6 +11,7 @@ lng: -72.5400
 zipSample: ["01107", "01139", "01104", "01102", "01118"]
 zipCodes: ["01118", "01144", "01101", "01108", "01151", "01119", "01111", "01115", "01102", "01138", "01139", "01103"]
 localPaths: ["Hampden County / ZIP 01102 sector", "Hampden County / coords 42.1200, -72.5400", "Hampden County / ZIP 01104 sector", "Hampden County / primary ZIP 01151", "Hampden County / ZIP 01107 sector"]
+zillowHomeValueUsd: 284101
 ---
 
 **Engineering Notice for Springfield:** Structural loading calculated based on 180 ft terrain assessment. Regional dispatch grid: Hampden County.

@@ -11,6 +11,7 @@ lng: -72.8400
 zipSample: ["11951"]
 zipCodes: ["11951"]
 localPaths: ["Suffolk County / ZIP 11951 sector", "Suffolk County / elevation 23 ft band", "Suffolk County / primary ZIP 11951", "Suffolk County / coords 40.7700, -72.8400"]
+zillowHomeValueUsd: 470406
 ---
 
 **Engineering Notice for Mastic Beach:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Suffolk County.

@@ -12,6 +12,7 @@ lng: -97.4200
 zipSample: ["68702", "68701"]
 zipCodes: ["68702", "68701"]
 localPaths: ["Madison County / ZIP 68701 sector", "Madison County / elevation 1532 ft band", "Madison County / coords 42.0300, -97.4200", "Madison County / ZIP 68702 sector", "Madison County / primary ZIP 68701"]
+zillowHomeValueUsd: 256119
 ---
 
 **Engineering Notice for Norfolk:** Structural loading calculated based on 1532 ft terrain assessment. Regional dispatch grid: Madison County.

@@ -11,6 +11,7 @@ lng: -85.5900
 zipSample: ["49024", "49002", "49081"]
 zipCodes: ["49024", "49002", "49081"]
 localPaths: ["Kalamazoo County / elevation 869 ft band", "Kalamazoo County / primary ZIP 49002", "Kalamazoo County / ZIP 49024 sector", "Kalamazoo County / coords 42.2000, -85.5900", "Kalamazoo County / ZIP 49081 sector"]
+zillowHomeValueUsd: 268952
 ---
 
 **Engineering Notice for Portage:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: Kalamazoo County.

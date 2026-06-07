@@ -12,6 +12,8 @@ lng: -98.1000
 zipSample: ["78332", "78342"]
 zipCodes: ["78332", "78342"]
 localPaths: ["Jim Wells County / primary ZIP 78342", "Jim Wells County / ZIP 78342 sector", "Jim Wells County / elevation 203 ft band", "Jim Wells County / coords 27.6700, -98.1000", "Jim Wells County / ZIP 78332 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 295586
 ---
 
 **Engineering Notice for Ben Bolt:** System optimized for 121 mg/L hard water scaling factors in Ben Bolt. Regional dispatch grid: Jim Wells County.

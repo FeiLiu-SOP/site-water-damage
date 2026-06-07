@@ -12,6 +12,7 @@ lng: -114.2200
 zipSample: ["85359", "85346"]
 zipCodes: ["85346", "85359"]
 localPaths: ["La Paz County / primary ZIP 85346", "La Paz County / elevation 876 ft band", "La Paz County / coords 33.6700, -114.2200", "La Paz County / ZIP 85359 sector", "La Paz County / ZIP 85346 sector"]
+zillowHomeValueUsd: 199036
 ---
 
 **Engineering Notice for Quartzsite:** structural drying capacity optimized for 876ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: La Paz County. Relative Humidity Threshold: 74%. Sensor sync: Active.

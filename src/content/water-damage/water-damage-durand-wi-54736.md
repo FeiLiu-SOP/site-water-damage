@@ -12,6 +12,7 @@ lng: -91.9600
 zipSample: ["54736"]
 zipCodes: ["54736"]
 localPaths: ["Pepin County / elevation 768 ft band", "Pepin County / coords 44.6300, -91.9600", "Pepin County / ZIP 54736 sector", "Pepin County / primary ZIP 54736"]
+zillowHomeValueUsd: 246905
 ---
 
 **Engineering Notice for Durand:** structural drying capacity optimized for 768ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pepin County. Relative Humidity Threshold: 69%. Sensor sync: Active.

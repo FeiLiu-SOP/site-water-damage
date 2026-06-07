@@ -11,6 +11,7 @@ lng: -77.5300
 zipSample: ["20148"]
 zipCodes: ["20148"]
 localPaths: ["Loudoun County / ZIP 20148 sector", "Loudoun County / coords 38.9800, -77.5300", "Loudoun County / elevation 341 ft band", "Loudoun County / primary ZIP 20148"]
+zillowHomeValueUsd: 886950
 ---
 
 **Engineering Notice for Brambleton:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Loudoun County.

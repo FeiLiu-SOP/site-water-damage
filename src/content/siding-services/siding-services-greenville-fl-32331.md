@@ -12,6 +12,7 @@ lng: -83.6400
 zipSample: ["32331"]
 zipCodes: ["32331"]
 localPaths: ["Madison County / primary ZIP 32331", "Madison County / ZIP 32331 sector", "Madison County / coords 30.4700, -83.6400", "Madison County / elevation 144 ft band"]
+zillowHomeValueUsd: 218409
 ---
 
 **Engineering Notice for Greenville:** Site context locked to Madison County. Coordinates: 30.4700, -83.6400. Surface Sheathing integrity verification recorded.

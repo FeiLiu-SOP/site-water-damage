@@ -12,6 +12,7 @@ lng: -122.6700
 zipSample: ["98312"]
 zipCodes: ["98312"]
 localPaths: ["Kitsap County / elevation 49 ft band", "Kitsap County / ZIP 98312 sector", "Kitsap County / coords 47.5900, -122.6700", "Kitsap County / primary ZIP 98312"]
+zillowHomeValueUsd: 497812
 ---
 
 **Engineering Notice for Rocky Point:** Site context locked to Kitsap County. Vinyl Panels integrity verification recorded.

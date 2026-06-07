@@ -12,6 +12,7 @@ lng: -94.0400
 zipSample: ["55354"]
 zipCodes: ["55354"]
 localPaths: ["McLeod County / coords 44.8800, -94.0400", "McLeod County / elevation 971 ft band", "McLeod County / ZIP 55354 sector", "McLeod County / primary ZIP 55354"]
+zillowHomeValueUsd: 316519
 ---
 
 **Engineering Notice for Lester Prairie:** System optimized for 139 mg/L hard water scaling factors in Lester Prairie. Regional dispatch grid: McLeod County.

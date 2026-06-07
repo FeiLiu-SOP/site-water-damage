@@ -12,6 +12,7 @@ lng: -93.3300
 zipSample: ["65338"]
 zipCodes: ["65338"]
 localPaths: ["Benton County / elevation 958 ft band", "Benton County / ZIP 65338 sector", "Benton County / primary ZIP 65338", "Benton County / coords 38.3900, -93.3300"]
+zillowHomeValueUsd: 200517
 ---
 
 **Engineering Notice for Lincoln:** System optimized for 125 mg/L hard water scaling factors in Lincoln. Regional dispatch grid: Benton County.

@@ -12,6 +12,7 @@ lng: -77.5200
 zipSample: ["20109"]
 zipCodes: ["20109"]
 localPaths: ["Prince William County / elevation 292 ft band", "Prince William County / ZIP 20109 sector", "Prince William County / coords 38.7800, -77.5200", "Prince William County / primary ZIP 20109"]
+zillowHomeValueUsd: 456363
 ---
 
 **Engineering Notice for Bull Run:** Structural loading calculated based on 292 ft terrain assessment. Regional dispatch grid: Prince William County.

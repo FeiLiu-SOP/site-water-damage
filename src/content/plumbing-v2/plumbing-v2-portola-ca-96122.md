@@ -12,6 +12,7 @@ lng: -120.4700
 zipSample: ["96122"]
 zipCodes: ["96122"]
 localPaths: ["Plumas County / elevation 5115 ft band", "Plumas County / ZIP 96122 sector", "Plumas County / coords 39.8200, -120.4700", "Plumas County / primary ZIP 96122"]
+zillowHomeValueUsd: 262354
 ---
 
 **Engineering Notice for Portola:** System optimized for 168 mg/L hard water scaling factors in Portola. Regional dispatch grid: Plumas County.

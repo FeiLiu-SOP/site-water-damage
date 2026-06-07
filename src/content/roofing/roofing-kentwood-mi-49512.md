@@ -11,6 +11,7 @@ lng: -85.5900
 zipSample: ["49546", "49548", "49560", "49518", "49512"]
 zipCodes: ["49546", "49548", "49508", "49512", "49518", "49560"]
 localPaths: ["Kent County / elevation 751 ft band", "Kent County / ZIP 49518 sector", "Kent County / ZIP 49546 sector", "Kent County / primary ZIP 49512", "Kent County / coords 42.8900, -85.5900"]
+zillowHomeValueUsd: 364979
 ---
 
 **Engineering Notice for Kentwood:** Structural loading calculated based on 751 ft terrain assessment. Regional dispatch grid: Kent County.

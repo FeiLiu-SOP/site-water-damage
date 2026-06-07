@@ -12,6 +12,7 @@ lng: -93.4400
 zipSample: ["65619", "65738", "65802"]
 zipCodes: ["65619", "65738", "65802"]
 localPaths: ["Greene County / primary ZIP 65738", "Greene County / coords 37.1500, -93.4400", "Greene County / ZIP 65619 sector", "Greene County / elevation 1273 ft band", "Greene County / ZIP 65738 sector"]
+zillowHomeValueUsd: 266755
 ---
 
 **Engineering Notice for Republic:** Structural loading calculated based on 1273 ft terrain assessment. Regional dispatch grid: Greene County.

@@ -12,6 +12,7 @@ lng: -97.0900
 zipSample: ["58201", "58203", "58202", "58208", "58206"]
 zipCodes: ["58202", "58206", "58201", "58208", "58203"]
 localPaths: ["Grand Forks County / ZIP 58208 sector", "Grand Forks County / ZIP 58203 sector", "Grand Forks County / ZIP 58202 sector", "Grand Forks County / coords 47.9200, -97.0900", "Grand Forks County / ZIP 58206 sector"]
+zillowHomeValueUsd: 316246
 ---
 
 **Engineering Notice for Grand Forks:** Structural loading calculated based on 833 ft terrain assessment. Regional dispatch grid: Grand Forks County.

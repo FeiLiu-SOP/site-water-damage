@@ -12,6 +12,7 @@ lng: -73.9500
 zipSample: ["10516"]
 zipCodes: ["10516"]
 localPaths: ["Putnam County / primary ZIP 10516", "Putnam County / elevation 131 ft band", "Putnam County / ZIP 10516 sector", "Putnam County / coords 41.4200, -73.9500"]
+zillowHomeValueUsd: 706609
 ---
 
 **Engineering Notice for Cold Spring:** Site context locked to Putnam County. Coordinates: 41.4200, -73.9500. Facade Renewal integrity verification recorded.

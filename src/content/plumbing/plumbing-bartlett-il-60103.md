@@ -12,6 +12,7 @@ lng: -88.2100
 zipSample: ["60103"]
 zipCodes: ["60103"]
 localPaths: ["DuPage County / elevation 797 ft band", "DuPage County / ZIP 60103 sector", "DuPage County / primary ZIP 60103", "DuPage County / coords 41.9800, -88.2100"]
+zillowHomeValueUsd: 427256
 ---
 
 **Engineering Notice for Bartlett:** Structural loading calculated based on 797 ft terrain assessment. Regional dispatch grid: DuPage County.

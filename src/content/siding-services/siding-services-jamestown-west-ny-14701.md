@@ -12,6 +12,7 @@ lng: -79.2800
 zipSample: ["14701"]
 zipCodes: ["14701"]
 localPaths: ["Chautauqua County / elevation 1499 ft band", "Chautauqua County / ZIP 14701 sector", "Chautauqua County / primary ZIP 14701", "Chautauqua County / coords 42.0900, -79.2800"]
+zillowHomeValueUsd: 117907
 ---
 
 **Engineering Notice for Jamestown West:** Site context locked to Chautauqua County. Elevation: 1499 ft AMSL. Vinyl Panels integrity verification recorded.

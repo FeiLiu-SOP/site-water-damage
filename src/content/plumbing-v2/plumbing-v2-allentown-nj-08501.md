@@ -12,6 +12,7 @@ lng: -74.5900
 zipSample: ["08501"]
 zipCodes: ["08501"]
 localPaths: ["Monmouth County / primary ZIP 08501", "Monmouth County / coords 40.1800, -74.5900", "Monmouth County / ZIP 08501 sector", "Monmouth County / elevation 79 ft band"]
+zillowHomeValueUsd: 713911
 ---
 
 **Engineering Notice for Allentown:** System optimized for 123 mg/L hard water scaling factors in Allentown. Regional dispatch grid: Monmouth County.

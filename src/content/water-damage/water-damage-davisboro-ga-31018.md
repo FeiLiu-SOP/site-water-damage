@@ -12,6 +12,7 @@ lng: -82.6000
 zipSample: ["31018"]
 zipCodes: ["31018"]
 localPaths: ["Washington County / elevation 341 ft band", "Washington County / ZIP 31018 sector", "Washington County / primary ZIP 31018", "Washington County / coords 32.9800, -82.6000"]
+zillowHomeValueUsd: 141153
 ---
 
 **Engineering Notice for Davisboro:** structural drying capacity optimized for 341ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 72%. Sensor sync: Active.

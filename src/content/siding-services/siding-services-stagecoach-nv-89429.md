@@ -12,6 +12,7 @@ lng: -119.3800
 zipSample: ["89429"]
 zipCodes: ["89429"]
 localPaths: ["Lyon County / coords 39.3700, -119.3800", "Lyon County / ZIP 89429 sector", "Lyon County / primary ZIP 89429", "Lyon County / elevation 4301 ft band"]
+zillowHomeValueUsd: 355914
 ---
 
 **Engineering Notice for Stagecoach:** Vinyl Panels was validated under stress factor 0.74; target tolerance set near 94 mph. Grid anchor: Lyon County.

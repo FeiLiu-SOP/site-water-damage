@@ -12,6 +12,7 @@ lng: -77.6400
 zipSample: ["20168", "20169"]
 zipCodes: ["20169", "20168"]
 localPaths: ["Prince William County / ZIP 20169 sector", "Prince William County / ZIP 20168 sector", "Prince William County / primary ZIP 20169", "Prince William County / coords 38.8100, -77.6400", "Prince William County / elevation 364 ft band"]
+zillowHomeValueUsd: 832983
 ---
 
 **Engineering Notice for Haymarket:** System optimized for 130 mg/L hard water scaling factors in Haymarket. Regional dispatch grid: Prince William County.

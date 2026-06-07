@@ -12,6 +12,7 @@ lng: -84.1400
 zipSample: ["48647"]
 zipCodes: ["48647"]
 localPaths: ["Oscoda County / elevation 958 ft band", "Oscoda County / primary ZIP 48647", "Oscoda County / coords 44.6600, -84.1400", "Oscoda County / ZIP 48647 sector"]
+zillowHomeValueUsd: 125954
 ---
 
 **Engineering Notice for Mio:** Envelope check: Vinyl Panels assigned to wind-load band A with stress factor 1.15. Regional dispatch grid: Oscoda County.

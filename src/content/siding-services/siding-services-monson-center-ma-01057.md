@@ -12,6 +12,7 @@ lng: -72.3000
 zipSample: ["01057"]
 zipCodes: ["01057"]
 localPaths: ["Hampden County / ZIP 01057 sector", "Hampden County / coords 42.1000, -72.3000", "Hampden County / elevation 577 ft band", "Hampden County / primary ZIP 01057"]
+zillowHomeValueUsd: 401181
 ---
 
 **Engineering Notice for Monson Center:** Structural integrity verification: Cladding Service calibrated for 105 mph localized wind load factor. Elevation: 577 ft AMSL. Regional dispatch grid: Hampden County.

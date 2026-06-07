@@ -12,6 +12,7 @@ lng: -84.5400
 zipSample: ["45338"]
 zipCodes: ["45338"]
 localPaths: ["Preble County / primary ZIP 45338", "Preble County / elevation 1001 ft band", "Preble County / coords 39.8500, -84.5400", "Preble County / ZIP 45338 sector"]
+zillowHomeValueUsd: 245528
 ---
 
 **Engineering Notice for Lewisburg:** System optimized for 148 mg/L hard water scaling factors in Lewisburg. Regional dispatch grid: Preble County.

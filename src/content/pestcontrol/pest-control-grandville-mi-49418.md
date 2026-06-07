@@ -11,6 +11,7 @@ lng: -85.7600
 zipSample: ["49468", "49418"]
 zipCodes: ["49418", "49468"]
 localPaths: ["Kent County / coords 42.9000, -85.7600", "Kent County / ZIP 49418 sector", "Kent County / ZIP 49468 sector", "Kent County / primary ZIP 49418", "Kent County / elevation 627 ft band"]
+zillowHomeValueUsd: 377166
 ---
 
 **Engineering Notice for Grandville:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Kent County.

@@ -12,6 +12,7 @@ lng: -98.0800
 zipSample: ["78147"]
 zipCodes: ["78147"]
 localPaths: ["Wilson County / coords 29.0700, -98.0800", "Wilson County / elevation 420 ft band", "Wilson County / primary ZIP 78147", "Wilson County / ZIP 78147 sector"]
+zillowHomeValueUsd: 243709
 ---
 
 **Engineering Notice for Poth:** Cladding verification uses 133 mph routing baseline; lateral pressure note: 17.2 psf. Coordinates: 29.0700, -98.0800. Grid: Wilson County.

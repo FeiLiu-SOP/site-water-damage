@@ -12,6 +12,7 @@ lng: -82.0200
 zipSample: ["29336", "29301"]
 zipCodes: ["29301", "29336"]
 localPaths: ["Spartanburg County / coords 34.9500, -82.0200", "Spartanburg County / primary ZIP 29301", "Spartanburg County / elevation 860 ft band", "Spartanburg County / ZIP 29336 sector", "Spartanburg County / ZIP 29301 sector"]
+zillowHomeValueUsd: 237484
 ---
 
 **Engineering Notice for Fairforest:** structural drying capacity optimized for 860ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Spartanburg County. Relative Humidity Threshold: 65%. Sensor sync: Active.

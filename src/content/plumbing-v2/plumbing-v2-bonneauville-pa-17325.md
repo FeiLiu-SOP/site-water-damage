@@ -12,6 +12,7 @@ lng: -77.1400
 zipSample: ["17325"]
 zipCodes: ["17325"]
 localPaths: ["Adams County / elevation 577 ft band", "Adams County / coords 39.8100, -77.1400", "Adams County / ZIP 17325 sector", "Adams County / primary ZIP 17325"]
+zillowHomeValueUsd: 367460
 ---
 
 **Engineering Notice for Bonneauville:** System optimized for 126 mg/L hard water scaling factors in Bonneauville. Regional dispatch grid: Adams County.

@@ -12,6 +12,7 @@ lng: -70.0000
 zipSample: ["02642"]
 zipCodes: ["02642"]
 localPaths: ["Barnstable County / elevation 30 ft band", "Barnstable County / primary ZIP 02642", "Barnstable County / coords 41.8500, -70.0000", "Barnstable County / ZIP 02642 sector"]
+zillowHomeValueUsd: 802680
 ---
 
 **Engineering Notice for North Eastham:** System optimized for 123 mg/L hard water scaling factors in North Eastham. Regional dispatch grid: Barnstable County.

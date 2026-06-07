@@ -12,6 +12,7 @@ lng: -87.3500
 zipSample: ["47660"]
 zipCodes: ["47660"]
 localPaths: ["Gibson County / ZIP 47660 sector", "Gibson County / coords 38.3400, -87.3500", "Gibson County / elevation 472 ft band", "Gibson County / primary ZIP 47660"]
+zillowHomeValueUsd: 165501
 ---
 
 **Engineering Notice for Oakland City:** Cladding verification uses 97 mph routing baseline; lateral pressure note: 12.8 psf. Elevation: 472 ft AMSL. Coordinates: 38.3400, -87.3500. Grid: Gibson County.

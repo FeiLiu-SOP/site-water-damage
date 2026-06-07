@@ -11,6 +11,7 @@ lng: -117.1100
 zipSample: ["92563", "92596"]
 zipCodes: ["92563", "92596"]
 localPaths: ["Riverside County / elevation 1365 ft band", "Riverside County / coords 33.6000, -117.1100", "Riverside County / ZIP 92596 sector", "Riverside County / ZIP 92563 sector", "Riverside County / primary ZIP 92563"]
+zillowHomeValueUsd: 693278
 ---
 
 **Engineering Notice for French Valley:** Structural loading calculated based on 1365 ft terrain assessment. Regional dispatch grid: Riverside County.

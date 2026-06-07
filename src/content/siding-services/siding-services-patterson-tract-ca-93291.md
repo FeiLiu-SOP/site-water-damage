@@ -12,6 +12,7 @@ lng: -119.3000
 zipSample: ["93291"]
 zipCodes: ["93291"]
 localPaths: ["Tulare County / coords 36.3800, -119.3000", "Tulare County / elevation 341 ft band", "Tulare County / primary ZIP 93291", "Tulare County / ZIP 93291 sector"]
+zillowHomeValueUsd: 426598
 ---
 
 **Engineering Notice for Patterson Tract:** Panel Replacement was validated under stress factor 0.72; target tolerance set near 145 mph. Coordinates: 36.3800, -119.3000. Grid anchor: Tulare County.

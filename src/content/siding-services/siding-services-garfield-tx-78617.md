@@ -12,6 +12,7 @@ lng: -97.5500
 zipSample: ["78617"]
 zipCodes: ["78617"]
 localPaths: ["Travis County / elevation 482 ft band", "Travis County / primary ZIP 78617", "Travis County / ZIP 78617 sector", "Travis County / coords 30.2000, -97.5500"]
+zillowHomeValueUsd: 291211
 ---
 
 **Engineering Notice for Garfield:** Cladding verification uses 144 mph routing baseline; lateral pressure note: 18.5 psf. Elevation: 482 ft AMSL. Grid: Travis County.

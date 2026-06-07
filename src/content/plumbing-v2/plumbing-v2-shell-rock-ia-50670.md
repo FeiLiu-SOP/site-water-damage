@@ -12,6 +12,7 @@ lng: -92.5800
 zipSample: ["50670"]
 zipCodes: ["50670"]
 localPaths: ["Butler County / ZIP 50670 sector", "Butler County / elevation 915 ft band", "Butler County / coords 42.7100, -92.5800", "Butler County / primary ZIP 50670"]
+zillowHomeValueUsd: 223943
 ---
 
 **Engineering Notice for Shell Rock:** System optimized for 161 mg/L hard water scaling factors in Shell Rock. Regional dispatch grid: Butler County.

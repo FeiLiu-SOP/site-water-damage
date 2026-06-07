@@ -12,6 +12,8 @@ lng: -80.2700
 zipSample: ["27292", "27351"]
 zipCodes: ["27351", "27292"]
 localPaths: ["Davidson County / coords 35.6500, -80.2700", "Davidson County / primary ZIP 27351", "Davidson County / ZIP 27292 sector", "Davidson County / elevation 725 ft band", "Davidson County / ZIP 27351 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 328482
 ---
 
 **Engineering Notice for Southmont:** Envelope check: Cladding Retrofit assigned to wind-load band B with stress factor 0.88. Regional dispatch grid: Davidson County.

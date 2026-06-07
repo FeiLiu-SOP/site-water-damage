@@ -12,6 +12,7 @@ lng: -97.1600
 zipSample: ["76711"]
 zipCodes: ["76711"]
 localPaths: ["McLennan County / elevation 528 ft band", "McLennan County / coords 31.5200, -97.1600", "McLennan County / primary ZIP 76711", "McLennan County / ZIP 76711 sector"]
+zillowHomeValueUsd: 137152
 ---
 
 **Engineering Notice for Beverly Hills:** Cladding Retrofit was validated under stress factor 1.06; target tolerance set near 136 mph. Grid anchor: McLennan County.

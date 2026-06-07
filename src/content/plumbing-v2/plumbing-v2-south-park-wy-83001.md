@@ -12,6 +12,7 @@ lng: -110.8000
 zipSample: ["83001"]
 zipCodes: ["83001"]
 localPaths: ["Teton County / elevation 6063 ft band", "Teton County / primary ZIP 83001", "Teton County / coords 43.4200, -110.8000", "Teton County / ZIP 83001 sector"]
+zillowHomeValueUsd: 1936412
 ---
 
 **Engineering Notice for South Park:** System optimized for 178 mg/L hard water scaling factors in South Park. Regional dispatch grid: Teton County.

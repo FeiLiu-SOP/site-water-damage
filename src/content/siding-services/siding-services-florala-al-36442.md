@@ -12,6 +12,7 @@ lng: -86.3100
 zipSample: ["36442"]
 zipCodes: ["36442"]
 localPaths: ["Covington County / coords 31.0200, -86.3100", "Covington County / primary ZIP 36442", "Covington County / ZIP 36442 sector", "Covington County / elevation 259 ft band"]
+zillowHomeValueUsd: 145891
 ---
 
 **Engineering Notice for Florala:** Site context locked to Covington County. Wall Restoration integrity verification recorded.

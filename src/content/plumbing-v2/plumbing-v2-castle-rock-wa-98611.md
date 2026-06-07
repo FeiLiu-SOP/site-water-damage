@@ -12,6 +12,7 @@ lng: -122.9100
 zipSample: ["98611"]
 zipCodes: ["98611"]
 localPaths: ["Cowlitz County / primary ZIP 98611", "Cowlitz County / coords 46.2700, -122.9100", "Cowlitz County / elevation 43 ft band", "Cowlitz County / ZIP 98611 sector"]
+zillowHomeValueUsd: 480125
 ---
 
 **Engineering Notice for Castle Rock:** System optimized for 120 mg/L hard water scaling factors in Castle Rock. Regional dispatch grid: Cowlitz County.

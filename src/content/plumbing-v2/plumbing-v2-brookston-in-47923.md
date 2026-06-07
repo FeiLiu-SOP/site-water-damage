@@ -12,6 +12,7 @@ lng: -86.8700
 zipSample: ["47923"]
 zipCodes: ["47923"]
 localPaths: ["White County / elevation 689 ft band", "White County / ZIP 47923 sector", "White County / primary ZIP 47923", "White County / coords 40.6000, -86.8700"]
+zillowHomeValueUsd: 240796
 ---
 
 **Engineering Notice for Brookston:** System optimized for 142 mg/L hard water scaling factors in Brookston. Regional dispatch grid: White County.

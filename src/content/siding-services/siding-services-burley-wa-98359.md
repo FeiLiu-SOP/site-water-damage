@@ -12,6 +12,7 @@ lng: -122.6400
 zipSample: ["98359", "98367", "98322"]
 zipCodes: ["98367", "98359", "98322"]
 localPaths: ["Kitsap County / coords 47.4200, -122.6400", "Kitsap County / elevation 108 ft band", "Kitsap County / ZIP 98359 sector", "Kitsap County / primary ZIP 98359", "Kitsap County / ZIP 98322 sector"]
+zillowHomeValueUsd: 721830
 ---
 
 **Engineering Notice for Burley:** Envelope check: Exterior Cladding assigned to wind-load band C with stress factor 0.77. Regional dispatch grid: Kitsap County.

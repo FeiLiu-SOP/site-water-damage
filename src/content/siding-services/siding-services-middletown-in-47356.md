@@ -12,6 +12,7 @@ lng: -85.5400
 zipSample: ["47356"]
 zipCodes: ["47356"]
 localPaths: ["Henry County / coords 40.0600, -85.5400", "Henry County / elevation 978 ft band", "Henry County / primary ZIP 47356", "Henry County / ZIP 47356 sector"]
+zillowHomeValueUsd: 240002
 ---
 
 **Engineering Notice for Middletown:** Cladding verification uses 99 mph routing baseline; lateral pressure note: 13.1 psf. Elevation: 978 ft AMSL. Grid: Henry County.

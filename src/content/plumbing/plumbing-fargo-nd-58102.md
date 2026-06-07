@@ -12,6 +12,7 @@ lng: -96.8300
 zipSample: ["58124", "58102", "58105", "58106", "58107"]
 zipCodes: ["58103", "58104", "58121", "58125", "58109", "58126", "58105", "58102", "58122", "58124", "58107", "58106"]
 localPaths: ["Cass County / coords 46.8700, -96.8300", "Cass County / elevation 902 ft band", "Cass County / ZIP 58105 sector", "Cass County / ZIP 58102 sector", "Cass County / ZIP 58124 sector"]
+zillowHomeValueUsd: 267539
 ---
 
 **Engineering Notice for Fargo:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Cass County.

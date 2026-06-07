@@ -12,6 +12,7 @@ lng: -122.4800
 zipSample: ["97360"]
 zipCodes: ["97360"]
 localPaths: ["Linn County / elevation 833 ft band", "Linn County / coords 44.7500, -122.4800", "Linn County / primary ZIP 97360", "Linn County / ZIP 97360 sector"]
+zillowHomeValueUsd: 359633
 ---
 
 **Engineering Notice for Mill City:** System optimized for 150 mg/L hard water scaling factors in Mill City. Regional dispatch grid: Linn County.

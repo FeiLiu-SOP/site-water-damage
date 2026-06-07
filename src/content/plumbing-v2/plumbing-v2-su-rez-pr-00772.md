@@ -12,6 +12,8 @@ lng: -65.8500
 zipSample: ["00772"]
 zipCodes: ["00772"]
 localPaths: ["Loíza County / ZIP 00772 sector", "Loíza County / primary ZIP 00772", "Loíza County / coords 18.4300, -65.8500", "Loíza County / elevation 20 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 383874
 ---
 
 **Engineering Notice for Suárez:** System optimized for 135 mg/L hard water scaling factors in Suárez. Regional dispatch grid: Loíza County.

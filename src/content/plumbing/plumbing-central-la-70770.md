@@ -12,6 +12,7 @@ lng: -91.0400
 zipSample: ["70770", "70714", "70819", "70791", "70818"]
 zipCodes: ["70714", "70770", "70791", "70819", "70739", "70818"]
 localPaths: ["East Baton Rouge Parish / ZIP 70714 sector", "East Baton Rouge Parish / ZIP 70818 sector", "East Baton Rouge Parish / elevation 82 ft band", "East Baton Rouge Parish / primary ZIP 70770", "East Baton Rouge Parish / ZIP 70819 sector"]
+zillowHomeValueUsd: 253902
 ---
 
 **Engineering Notice for Central:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: East Baton Rouge Parish.

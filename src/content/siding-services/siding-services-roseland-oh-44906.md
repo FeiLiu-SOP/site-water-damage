@@ -12,6 +12,7 @@ lng: -82.5500
 zipSample: ["44906"]
 zipCodes: ["44906"]
 localPaths: ["Richland County / coords 40.7900, -82.5500", "Richland County / ZIP 44906 sector", "Richland County / elevation 1263 ft band", "Richland County / primary ZIP 44906"]
+zillowHomeValueUsd: 168360
 ---
 
 **Engineering Notice for Roseland:** Site context locked to Richland County. Elevation: 1263 ft AMSL. Weather Barrier Wrap integrity verification recorded.

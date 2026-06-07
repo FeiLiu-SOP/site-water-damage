@@ -12,6 +12,7 @@ lng: -86.2200
 zipSample: ["37388"]
 zipCodes: ["37388"]
 localPaths: ["Coffee County / ZIP 37388 sector", "Coffee County / primary ZIP 37388", "Coffee County / elevation 1060 ft band", "Coffee County / coords 35.3700, -86.2200"]
+zillowHomeValueUsd: 295831
 ---
 
 **Engineering Notice for Tullahoma:** Structural loading calculated based on 1060 ft terrain assessment. Regional dispatch grid: Coffee County.

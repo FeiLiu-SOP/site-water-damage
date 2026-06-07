@@ -12,6 +12,7 @@ lng: -77.8800
 zipSample: ["17066"]
 zipCodes: ["17066"]
 localPaths: ["Huntingdon County / coords 40.3800, -77.8800", "Huntingdon County / ZIP 17066 sector", "Huntingdon County / elevation 614 ft band", "Huntingdon County / primary ZIP 17066"]
+zillowHomeValueUsd: 126121
 ---
 
 **Engineering Notice for Mount Union:** structural drying capacity optimized for 614ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Huntingdon County. Relative Humidity Threshold: 78%. Sensor sync: Active.

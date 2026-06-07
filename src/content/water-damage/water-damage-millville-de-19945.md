@@ -12,6 +12,7 @@ lng: -75.1300
 zipSample: ["19967", "19945"]
 zipCodes: ["19945", "19967"]
 localPaths: ["Sussex County / ZIP 19967 sector", "Sussex County / ZIP 19945 sector", "Sussex County / coords 38.5400, -75.1300", "Sussex County / primary ZIP 19945", "Sussex County / elevation 10 ft band"]
+zillowHomeValueUsd: 483330
 ---
 
 **Engineering Notice for Millville:** structural drying capacity optimized for 10ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sussex County. Relative Humidity Threshold: 80%. Sensor sync: Active.

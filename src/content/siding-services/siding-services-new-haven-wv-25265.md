@@ -12,6 +12,7 @@ lng: -81.9700
 zipSample: ["25265"]
 zipCodes: ["25265"]
 localPaths: ["Mason County / ZIP 25265 sector", "Mason County / primary ZIP 25265", "Mason County / coords 38.9900, -81.9700", "Mason County / elevation 591 ft band"]
+zillowHomeValueUsd: 125064
 ---
 
 **Engineering Notice for New Haven:** Envelope check: Cladding Retrofit assigned to wind-load band B with stress factor 0.83. Regional dispatch grid: Mason County.

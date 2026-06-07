@@ -12,6 +12,7 @@ lng: -77.3600
 zipSample: ["28546"]
 zipCodes: ["28546"]
 localPaths: ["Onslow County / coords 34.7900, -77.3600", "Onslow County / ZIP 28546 sector", "Onslow County / primary ZIP 28546", "Onslow County / elevation 33 ft band"]
+zillowHomeValueUsd: 266949
 ---
 
 **Engineering Notice for Pumpkin Center:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Elevation: 33 ft AMSL. Grid: Onslow County.

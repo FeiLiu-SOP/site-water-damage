@@ -12,6 +12,7 @@ lng: -93.6000
 zipSample: ["65747"]
 zipCodes: ["65747"]
 localPaths: ["Barry County / elevation 912 ft band", "Barry County / coords 36.6100, -93.6000", "Barry County / ZIP 65747 sector", "Barry County / primary ZIP 65747"]
+zillowHomeValueUsd: 331669
 ---
 
 **Engineering Notice for Shell Knob:** Envelope check: Weather Barrier Wrap assigned to wind-load band B with stress factor 0.97. Regional dispatch grid: Barry County.

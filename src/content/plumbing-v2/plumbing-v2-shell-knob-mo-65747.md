@@ -12,6 +12,7 @@ lng: -93.6000
 zipSample: ["65747"]
 zipCodes: ["65747"]
 localPaths: ["Barry County / primary ZIP 65747", "Barry County / ZIP 65747 sector", "Barry County / elevation 912 ft band", "Barry County / coords 36.6100, -93.6000"]
+zillowHomeValueUsd: 331666
 ---
 
 **Engineering Notice for Shell Knob:** System optimized for 178 mg/L hard water scaling factors in Shell Knob. Regional dispatch grid: Barry County.

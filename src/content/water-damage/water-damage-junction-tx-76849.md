@@ -12,6 +12,7 @@ lng: -99.7700
 zipSample: ["76849"]
 zipCodes: ["76849"]
 localPaths: ["Kimble County / coords 30.4900, -99.7700", "Kimble County / elevation 1713 ft band", "Kimble County / primary ZIP 76849", "Kimble County / ZIP 76849 sector"]
+zillowHomeValueUsd: 325603
 ---
 
 **Engineering Notice for Junction:** structural drying capacity optimized for 1713ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kimble County. Relative Humidity Threshold: 67%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -96.4700
 zipSample: ["68045"]
 zipCodes: ["68045"]
 localPaths: ["Burt County / ZIP 68045 sector", "Burt County / elevation 1289 ft band", "Burt County / primary ZIP 68045", "Burt County / coords 41.8400, -96.4700"]
+zillowHomeValueUsd: 194487
 ---
 
 **Engineering Notice for Oakland:** System optimized for 162 mg/L hard water scaling factors in Oakland. Regional dispatch grid: Burt County.

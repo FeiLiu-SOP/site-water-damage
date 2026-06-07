@@ -12,6 +12,7 @@ lng: -91.1500
 zipSample: ["70788"]
 zipCodes: ["70788"]
 localPaths: ["Iberville Parish / coords 30.1600, -91.1500", "Iberville Parish / ZIP 70788 sector", "Iberville Parish / primary ZIP 70788", "Iberville Parish / elevation 36 ft band"]
+zillowHomeValueUsd: 130403
 ---
 
 **Engineering Notice for White Castle:** Panel Replacement was validated under stress factor 0.71; target tolerance set near 98 mph. Grid anchor: Iberville Parish.

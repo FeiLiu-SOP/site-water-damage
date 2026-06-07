@@ -11,6 +11,7 @@ lng: -85.8100
 zipSample: ["36204", "36205", "36201", "36206", "36207"]
 zipCodes: ["36205", "36206", "36201", "36207", "36204"]
 localPaths: ["Calhoun County / coords 33.6700, -85.8100", "Calhoun County / ZIP 36204 sector", "Calhoun County / ZIP 36207 sector", "Calhoun County / elevation 873 ft band", "Calhoun County / ZIP 36206 sector"]
+zillowHomeValueUsd: 69370
 ---
 
 **Engineering Notice for Anniston:** Structural loading calculated based on 873 ft terrain assessment. Regional dispatch grid: Calhoun County.

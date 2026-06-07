@@ -11,6 +11,7 @@ lng: -72.9800
 zipSample: ["11772"]
 zipCodes: ["11772"]
 localPaths: ["Suffolk County / elevation 36 ft band", "Suffolk County / coords 40.7700, -72.9800", "Suffolk County / primary ZIP 11772", "Suffolk County / ZIP 11772 sector"]
+zillowHomeValueUsd: 585773
 ---
 
 **Engineering Notice for East Patchogue:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Suffolk County.

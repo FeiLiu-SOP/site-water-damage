@@ -11,6 +11,7 @@ lng: -88.0100
 zipSample: ["60101"]
 zipCodes: ["60101"]
 localPaths: ["DuPage County / primary ZIP 60101", "DuPage County / elevation 715 ft band", "DuPage County / coords 41.9300, -88.0100", "DuPage County / ZIP 60101 sector"]
+zillowHomeValueUsd: 369539
 ---
 
 **Engineering Notice for Addison:** Structural loading calculated based on 715 ft terrain assessment. Regional dispatch grid: DuPage County.

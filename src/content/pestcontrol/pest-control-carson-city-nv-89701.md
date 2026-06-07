@@ -11,6 +11,7 @@ lng: -119.7500
 zipSample: ["89701", "89703", "89714", "89712", "89711"]
 zipCodes: ["89703", "89706", "89713", "89701", "89711", "89714", "89712"]
 localPaths: ["Carson City County / elevation 4672 ft band", "Carson City County / ZIP 89712 sector", "Carson City County / ZIP 89701 sector", "Carson City County / coords 39.1500, -119.7500", "Carson City County / ZIP 89703 sector"]
+zillowHomeValueUsd: 475355
 ---
 
 **Engineering Notice for Carson City:** Structural loading calculated based on 4672 ft terrain assessment. Regional dispatch grid: Carson City County.

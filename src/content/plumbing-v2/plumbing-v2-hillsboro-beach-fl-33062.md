@@ -12,6 +12,7 @@ lng: -80.0800
 zipSample: ["33062"]
 zipCodes: ["33062"]
 localPaths: ["Broward County / elevation 33 ft band", "Broward County / primary ZIP 33062", "Broward County / ZIP 33062 sector", "Broward County / coords 26.2800, -80.0800"]
+zillowHomeValueUsd: 477166
 ---
 
 **Engineering Notice for Hillsboro Beach:** System optimized for 139 mg/L hard water scaling factors in Hillsboro Beach. Regional dispatch grid: Broward County.

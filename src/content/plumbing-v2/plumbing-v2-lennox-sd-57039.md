@@ -12,6 +12,7 @@ lng: -96.8900
 zipSample: ["57039"]
 zipCodes: ["57039"]
 localPaths: ["Lincoln County / ZIP 57039 sector", "Lincoln County / primary ZIP 57039", "Lincoln County / elevation 1348 ft band", "Lincoln County / coords 43.3500, -96.8900"]
+zillowHomeValueUsd: 322227
 ---
 
 **Engineering Notice for Lennox:** System optimized for 177 mg/L hard water scaling factors in Lennox. Regional dispatch grid: Lincoln County.

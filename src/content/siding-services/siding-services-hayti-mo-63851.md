@@ -12,6 +12,8 @@ lng: -89.7500
 zipSample: ["63851"]
 zipCodes: ["63851"]
 localPaths: ["Pemiscot County / primary ZIP 63851", "Pemiscot County / coords 36.2300, -89.7500", "Pemiscot County / ZIP 63851 sector", "Pemiscot County / elevation 269 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 248773
 ---
 
 **Engineering Notice for Hayti:** Weather Barrier Wrap was validated under stress factor 0.91; target tolerance set near 92 mph. Coordinates: 36.2300, -89.7500. Grid anchor: Pemiscot County.

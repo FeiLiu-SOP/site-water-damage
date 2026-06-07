@@ -12,6 +12,7 @@ lng: -80.8300
 zipSample: ["32759"]
 zipCodes: ["32759"]
 localPaths: ["Volusia County / primary ZIP 32759", "Volusia County / elevation 3 ft band", "Volusia County / coords 28.8800, -80.8300", "Volusia County / ZIP 32759 sector"]
+zillowHomeValueUsd: 336592
 ---
 
 **Engineering Notice for Oak Hill:** Structural integrity verification: Wall Restoration calibrated for 144 mph localized wind load factor. Regional dispatch grid: Volusia County.

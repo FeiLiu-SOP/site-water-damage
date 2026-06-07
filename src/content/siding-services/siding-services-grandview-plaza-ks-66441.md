@@ -12,6 +12,7 @@ lng: -96.7900
 zipSample: ["66441"]
 zipCodes: ["66441"]
 localPaths: ["Geary County / elevation 1148 ft band", "Geary County / coords 39.0300, -96.7900", "Geary County / primary ZIP 66441", "Geary County / ZIP 66441 sector"]
+zillowHomeValueUsd: 207662
 ---
 
 **Engineering Notice for Grandview Plaza:** Envelope check: Wall Restoration assigned to wind-load band A with stress factor 1.11. Elevation: 1148 ft AMSL. Regional dispatch grid: Geary County.

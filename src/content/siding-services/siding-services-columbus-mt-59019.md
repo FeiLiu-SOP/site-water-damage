@@ -12,6 +12,7 @@ lng: -109.2500
 zipSample: ["59019"]
 zipCodes: ["59019"]
 localPaths: ["Stillwater County / elevation 3579 ft band", "Stillwater County / ZIP 59019 sector", "Stillwater County / primary ZIP 59019", "Stillwater County / coords 45.6400, -109.2500"]
+zillowHomeValueUsd: 467042
 ---
 
 **Engineering Notice for Columbus:** Site context locked to Stillwater County. Panel Replacement integrity verification recorded.

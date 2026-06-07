@@ -11,6 +11,7 @@ lng: -97.8200
 zipSample: ["78630", "78613"]
 zipCodes: ["78613", "78630"]
 localPaths: ["Williamson County / ZIP 78613 sector", "Williamson County / primary ZIP 78613", "Williamson County / ZIP 78630 sector", "Williamson County / coords 30.5100, -97.8200", "Williamson County / elevation 951 ft band"]
+zillowHomeValueUsd: 466189
 ---
 
 **Engineering Notice for Cedar Park:** Structural loading calculated based on 951 ft terrain assessment. Regional dispatch grid: Williamson County.

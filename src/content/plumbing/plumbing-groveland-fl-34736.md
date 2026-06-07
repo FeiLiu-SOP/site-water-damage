@@ -12,6 +12,7 @@ lng: -81.8200
 zipSample: ["34736", "34737"]
 zipCodes: ["34737", "34736"]
 localPaths: ["Lake County / ZIP 34737 sector", "Lake County / ZIP 34736 sector", "Lake County / primary ZIP 34736", "Lake County / elevation 121 ft band", "Lake County / coords 28.6100, -81.8200"]
+zillowHomeValueUsd: 370441
 ---
 
 **Engineering Notice for Groveland:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Lake County.

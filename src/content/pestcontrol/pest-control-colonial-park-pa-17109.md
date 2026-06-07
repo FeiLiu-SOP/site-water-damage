@@ -11,6 +11,7 @@ lng: -76.8100
 zipSample: ["17177", "17112", "17109"]
 zipCodes: ["17109", "17112", "17177"]
 localPaths: ["Dauphin County / elevation 528 ft band", "Dauphin County / ZIP 17177 sector", "Dauphin County / ZIP 17112 sector", "Dauphin County / coords 40.3000, -76.8100", "Dauphin County / ZIP 17109 sector"]
+zillowHomeValueUsd: 261220
 ---
 
 **Engineering Notice for Colonial Park:** Structural loading calculated based on 528 ft terrain assessment. Regional dispatch grid: Dauphin County.

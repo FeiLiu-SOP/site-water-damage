@@ -11,6 +11,7 @@ lng: -76.8500
 zipSample: ["20709", "20726", "20708"]
 zipCodes: ["20709", "20726", "20708"]
 localPaths: ["Prince George's County / primary ZIP 20708", "Prince George's County / ZIP 20709 sector", "Prince George's County / ZIP 20726 sector", "Prince George's County / coords 39.0600, -76.8500", "Prince George's County / elevation 220 ft band"]
+zillowHomeValueUsd: 486622
 ---
 
 **Engineering Notice for South Laurel:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Prince George's County.

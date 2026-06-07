@@ -11,6 +11,7 @@ lng: -97.2700
 zipSample: ["76117", "76148", "76137"]
 zipCodes: ["76117", "76148", "76137"]
 localPaths: ["Tarrant County / ZIP 76137 sector", "Tarrant County / ZIP 76117 sector", "Tarrant County / ZIP 76148 sector", "Tarrant County / elevation 610 ft band", "Tarrant County / primary ZIP 76137"]
+zillowHomeValueUsd: 319978
 ---
 
 **Engineering Notice for Haltom City:** Structural loading calculated based on 610 ft terrain assessment. Regional dispatch grid: Tarrant County.

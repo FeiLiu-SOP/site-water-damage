@@ -11,6 +11,7 @@ lng: -83.1000
 zipSample: ["48211", "48269", "48213", "48210", "48226"]
 zipCodes: ["48217", "48260", "48277", "48269", "48272", "48231", "48216", "48243", "48221", "48209", "48224", "48267"]
 localPaths: ["Wayne County / ZIP 48210 sector", "Wayne County / coords 42.3800, -83.1000", "Wayne County / ZIP 48213 sector", "Wayne County / ZIP 48226 sector", "Wayne County / primary ZIP 48209"]
+zillowHomeValueUsd: 93261
 ---
 
 **Engineering Notice for Detroit:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Wayne County.

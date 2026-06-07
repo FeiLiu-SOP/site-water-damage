@@ -12,6 +12,7 @@ lng: -112.0400
 zipSample: ["84340"]
 zipCodes: ["84340"]
 localPaths: ["Box Elder County / primary ZIP 84340", "Box Elder County / ZIP 84340 sector", "Box Elder County / coords 41.3600, -112.0400", "Box Elder County / elevation 4275 ft band"]
+zillowHomeValueUsd: 584716
 ---
 
 **Engineering Notice for South Willard:** structural drying capacity optimized for 4275ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Box Elder County. Relative Humidity Threshold: 75%. Sensor sync: Active.

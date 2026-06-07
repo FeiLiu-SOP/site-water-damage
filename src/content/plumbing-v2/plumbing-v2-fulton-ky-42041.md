@@ -12,6 +12,7 @@ lng: -88.8800
 zipSample: ["42041"]
 zipCodes: ["42041"]
 localPaths: ["Fulton County / primary ZIP 42041", "Fulton County / coords 36.5100, -88.8800", "Fulton County / elevation 400 ft band", "Fulton County / ZIP 42041 sector"]
+zillowHomeValueUsd: 105422
 ---
 
 **Engineering Notice for Fulton:** System optimized for 121 mg/L hard water scaling factors in Fulton. Regional dispatch grid: Fulton County.

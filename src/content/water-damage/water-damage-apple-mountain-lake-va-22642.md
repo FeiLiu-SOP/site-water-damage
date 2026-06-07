@@ -12,6 +12,7 @@ lng: -78.1000
 zipSample: ["22642"]
 zipCodes: ["22642"]
 localPaths: ["Warren County / coords 38.9200, -78.1000", "Warren County / ZIP 22642 sector", "Warren County / elevation 974 ft band", "Warren County / primary ZIP 22642"]
+zillowHomeValueUsd: 403493
 ---
 
 **Engineering Notice for Apple Mountain Lake:** structural drying capacity optimized for 974ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Warren County. Relative Humidity Threshold: 66%. Sensor sync: Active.

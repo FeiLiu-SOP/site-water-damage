@@ -12,6 +12,7 @@ lng: -90.1400
 zipSample: ["39667"]
 zipCodes: ["39667"]
 localPaths: ["Walthall County / elevation 331 ft band", "Walthall County / ZIP 39667 sector", "Walthall County / coords 31.1200, -90.1400", "Walthall County / primary ZIP 39667"]
+zillowHomeValueUsd: 150823
 ---
 
 **Engineering Notice for Tylertown:** structural drying capacity optimized for 331ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Walthall County. Relative Humidity Threshold: 81%. Sensor sync: Active.

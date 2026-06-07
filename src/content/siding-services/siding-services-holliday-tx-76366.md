@@ -12,6 +12,7 @@ lng: -98.6900
 zipSample: ["76366", "76310"]
 zipCodes: ["76310", "76366"]
 localPaths: ["Archer County / primary ZIP 76366", "Archer County / coords 33.8100, -98.6900", "Archer County / elevation 1063 ft band", "Archer County / ZIP 76310 sector", "Archer County / ZIP 76366 sector"]
+zillowHomeValueUsd: 191513
 ---
 
 **Engineering Notice for Holliday:** Envelope check: Vinyl Panels assigned to wind-load band A with stress factor 0.85. Regional dispatch grid: Archer County.

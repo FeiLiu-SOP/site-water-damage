@@ -12,6 +12,7 @@ lng: -84.9300
 zipSample: ["38556"]
 zipCodes: ["38556"]
 localPaths: ["Fentress County / coords 36.4300, -84.9300", "Fentress County / elevation 1722 ft band", "Fentress County / ZIP 38556 sector", "Fentress County / primary ZIP 38556"]
+zillowHomeValueUsd: 234960
 ---
 
 **Engineering Notice for Jamestown:** System optimized for 163 mg/L hard water scaling factors in Jamestown. Regional dispatch grid: Fentress County.

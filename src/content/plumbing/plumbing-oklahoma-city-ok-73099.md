@@ -12,6 +12,7 @@ lng: -97.5100
 zipSample: ["73105", "73155", "73136", "73143", "73167"]
 zipCodes: ["73121", "73131", "73108", "73135", "73113", "73064", "73112", "73170", "73169", "73129", "73155", "73110"]
 localPaths: ["Oklahoma County / ZIP 73143 sector", "Oklahoma County / primary ZIP 73099", "Oklahoma County / elevation 1253 ft band", "Oklahoma County / ZIP 73105 sector", "Oklahoma County / ZIP 73155 sector"]
+zillowHomeValueUsd: 273394
 ---
 
 **Engineering Notice for Oklahoma City:** Structural loading calculated based on 1253 ft terrain assessment. Regional dispatch grid: Oklahoma County.

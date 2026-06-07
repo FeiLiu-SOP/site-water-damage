@@ -12,6 +12,7 @@ lng: -73.0800
 zipSample: ["11782"]
 zipCodes: ["11782"]
 localPaths: ["Suffolk County / ZIP 11782 sector", "Suffolk County / primary ZIP 11782", "Suffolk County / coords 40.7500, -73.0800", "Suffolk County / elevation 39 ft band"]
+zillowHomeValueUsd: 745331
 ---
 
 **Engineering Notice for Sayville:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Suffolk County.

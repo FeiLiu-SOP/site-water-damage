@@ -12,6 +12,7 @@ lng: -71.3900
 zipSample: ["02863"]
 zipCodes: ["02863"]
 localPaths: ["Providence County / elevation 102 ft band", "Providence County / coords 41.8900, -71.3900", "Providence County / ZIP 02863 sector", "Providence County / primary ZIP 02863"]
+zillowHomeValueUsd: 377686
 ---
 
 **Engineering Notice for Central Falls:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Providence County.

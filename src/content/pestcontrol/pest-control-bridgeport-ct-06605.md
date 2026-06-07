@@ -11,6 +11,7 @@ lng: -73.2000
 zipSample: ["06601", "06602", "06607", "06606", "06608"]
 zipCodes: ["06608", "06605", "06606", "06601", "06607", "06602", "06604", "06610"]
 localPaths: ["Greater Bridgeport County / coords 41.1900, -73.2000", "Greater Bridgeport County / ZIP 06607 sector", "Greater Bridgeport County / primary ZIP 06605", "Greater Bridgeport County / elevation 33 ft band", "Greater Bridgeport County / ZIP 06602 sector"]
+zillowHomeValueUsd: 372624
 ---
 
 **Engineering Notice for Bridgeport:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Greater Bridgeport County.

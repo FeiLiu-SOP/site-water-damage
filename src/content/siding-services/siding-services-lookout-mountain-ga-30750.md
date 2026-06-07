@@ -12,6 +12,7 @@ lng: -85.3600
 zipSample: ["30750"]
 zipCodes: ["30750"]
 localPaths: ["Walker County / coords 34.9700, -85.3600", "Walker County / ZIP 30750 sector", "Walker County / primary ZIP 30750", "Walker County / elevation 1650 ft band"]
+zillowHomeValueUsd: 462941
 ---
 
 **Engineering Notice for Lookout Mountain:** Site context locked to Walker County. Elevation: 1650 ft AMSL. Coordinates: 34.9700, -85.3600. Exterior Envelope integrity verification recorded.

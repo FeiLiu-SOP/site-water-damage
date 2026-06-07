@@ -12,6 +12,7 @@ lng: -124.2500
 zipSample: ["97415"]
 zipCodes: ["97415"]
 localPaths: ["Curry County / primary ZIP 97415", "Curry County / coords 42.0400, -124.2500", "Curry County / elevation 121 ft band", "Curry County / ZIP 97415 sector"]
+zillowHomeValueUsd: 476255
 ---
 
 **Engineering Notice for Harbor:** System optimized for 124 mg/L hard water scaling factors in Harbor. Regional dispatch grid: Curry County.

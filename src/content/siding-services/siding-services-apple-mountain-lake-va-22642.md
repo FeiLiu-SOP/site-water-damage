@@ -12,6 +12,7 @@ lng: -78.1000
 zipSample: ["22642"]
 zipCodes: ["22642"]
 localPaths: ["Warren County / ZIP 22642 sector", "Warren County / elevation 974 ft band", "Warren County / primary ZIP 22642", "Warren County / coords 38.9200, -78.1000"]
+zillowHomeValueUsd: 403492
 ---
 
 **Engineering Notice for Apple Mountain Lake:** Envelope check: Panel Replacement assigned to wind-load band C with stress factor 0.89. Regional dispatch grid: Warren County.

@@ -12,6 +12,7 @@ lng: -93.9600
 zipSample: ["64640"]
 zipCodes: ["64640"]
 localPaths: ["Daviess County / ZIP 64640 sector", "Daviess County / primary ZIP 64640", "Daviess County / elevation 932 ft band", "Daviess County / coords 39.9100, -93.9600"]
+zillowHomeValueUsd: 254992
 ---
 
 **Engineering Notice for Gallatin:** Site context locked to Daviess County. Elevation: 932 ft AMSL. Vinyl Panels integrity verification recorded.

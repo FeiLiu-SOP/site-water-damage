@@ -11,6 +11,7 @@ lng: -77.7200
 zipSample: ["21740", "21741", "21749", "21742", "21747"]
 zipCodes: ["21747", "21740", "21749", "21742", "21741"]
 localPaths: ["Washington County / elevation 561 ft band", "Washington County / ZIP 21742 sector", "Washington County / ZIP 21741 sector", "Washington County / primary ZIP 21742", "Washington County / coords 39.6400, -77.7200"]
+zillowHomeValueUsd: 346251
 ---
 
 **Engineering Notice for Hagerstown:** Structural loading calculated based on 561 ft terrain assessment. Regional dispatch grid: Washington County.

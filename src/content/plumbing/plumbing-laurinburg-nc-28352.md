@@ -12,6 +12,7 @@ lng: -79.4800
 zipSample: ["28352", "28353"]
 zipCodes: ["28353", "28352"]
 localPaths: ["Scotland County / primary ZIP 28352", "Scotland County / ZIP 28353 sector", "Scotland County / ZIP 28352 sector", "Scotland County / coords 34.7600, -79.4800", "Scotland County / elevation 236 ft band"]
+zillowHomeValueUsd: 149000
 ---
 
 **Engineering Notice for Laurinburg:** Structural loading calculated based on 236 ft terrain assessment. Regional dispatch grid: Scotland County.

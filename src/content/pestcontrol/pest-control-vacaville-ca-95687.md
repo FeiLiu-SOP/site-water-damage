@@ -11,6 +11,7 @@ lng: -121.9700
 zipSample: ["95687", "95688"]
 zipCodes: ["95687", "95688"]
 localPaths: ["Solano County / primary ZIP 95687", "Solano County / coords 38.3600, -121.9700", "Solano County / ZIP 95688 sector", "Solano County / elevation 131 ft band", "Solano County / ZIP 95687 sector"]
+zillowHomeValueUsd: 581869
 ---
 
 **Engineering Notice for Vacaville:** Structural loading calculated based on 131 ft terrain assessment. Regional dispatch grid: Solano County.

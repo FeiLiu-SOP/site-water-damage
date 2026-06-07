@@ -12,6 +12,7 @@ lng: -86.9000
 zipSample: ["42351"]
 zipCodes: ["42351"]
 localPaths: ["Hancock County / ZIP 42351 sector", "Hancock County / primary ZIP 42351", "Hancock County / coords 37.9300, -86.9000", "Hancock County / elevation 394 ft band"]
+zillowHomeValueUsd: 209512
 ---
 
 **Engineering Notice for Lewisport:** structural drying capacity optimized for 394ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hancock County. Relative Humidity Threshold: 74%. Sensor sync: Active.

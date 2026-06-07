@@ -12,6 +12,7 @@ lng: -82.8600
 zipSample: ["43230"]
 zipCodes: ["43230"]
 localPaths: ["Franklin County / elevation 830 ft band", "Franklin County / ZIP 43230 sector", "Franklin County / primary ZIP 43230", "Franklin County / coords 40.0300, -82.8600"]
+zillowHomeValueUsd: 343035
 ---
 
 **Engineering Notice for Gahanna:** Structural loading calculated based on 830 ft terrain assessment. Regional dispatch grid: Franklin County.

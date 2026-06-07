@@ -12,6 +12,7 @@ lng: -83.0000
 zipSample: ["45661"]
 zipCodes: ["45661"]
 localPaths: ["Pike County / elevation 597 ft band", "Pike County / coords 39.0600, -83.0000", "Pike County / primary ZIP 45661", "Pike County / ZIP 45661 sector"]
+zillowHomeValueUsd: 160909
 ---
 
 **Engineering Notice for Piketon:** System optimized for 125 mg/L hard water scaling factors in Piketon. Regional dispatch grid: Pike County.

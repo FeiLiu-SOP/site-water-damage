@@ -12,6 +12,7 @@ lng: -121.5400
 zipSample: ["95045"]
 zipCodes: ["95045"]
 localPaths: ["San Benito County / ZIP 95045 sector", "San Benito County / coords 36.8400, -121.5400", "San Benito County / elevation 207 ft band", "San Benito County / primary ZIP 95045"]
+zillowHomeValueUsd: 918091
 ---
 
 **Engineering Notice for San Juan Bautista:** System optimized for 144 mg/L hard water scaling factors in San Juan Bautista. Regional dispatch grid: San Benito County.

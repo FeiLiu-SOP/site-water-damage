@@ -11,6 +11,7 @@ lng: -87.8500
 zipSample: ["60015"]
 zipCodes: ["60015"]
 localPaths: ["Lake County / ZIP 60015 sector", "Lake County / elevation 679 ft band", "Lake County / coords 42.1700, -87.8500", "Lake County / primary ZIP 60015"]
+zillowHomeValueUsd: 700502
 ---
 
 **Engineering Notice for Deerfield:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: Lake County.

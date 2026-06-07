@@ -12,6 +12,7 @@ lng: -82.8100
 zipSample: ["32693"]
 zipCodes: ["32693"]
 localPaths: ["Gilchrist County / primary ZIP 32693", "Gilchrist County / elevation 89 ft band", "Gilchrist County / ZIP 32693 sector", "Gilchrist County / coords 29.6100, -82.8100"]
+zillowHomeValueUsd: 281207
 ---
 
 **Engineering Notice for Trenton:** System optimized for 175 mg/L hard water scaling factors in Trenton. Regional dispatch grid: Gilchrist County.

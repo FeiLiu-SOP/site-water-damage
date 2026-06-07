@@ -11,6 +11,7 @@ lng: -81.1900
 zipSample: ["28056", "28052", "28054"]
 zipCodes: ["28054", "28056", "28052"]
 localPaths: ["Gaston County / primary ZIP 28054", "Gaston County / coords 35.2500, -81.1900", "Gaston County / ZIP 28052 sector", "Gaston County / elevation 768 ft band", "Gaston County / ZIP 28056 sector"]
+zillowHomeValueUsd: 270931
 ---
 
 **Engineering Notice for Gastonia:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: Gaston County.

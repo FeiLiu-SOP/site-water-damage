@@ -12,6 +12,7 @@ lng: -101.7900
 zipSample: ["79373"]
 zipCodes: ["79373"]
 localPaths: ["Lynn County / coords 33.1600, -101.7900", "Lynn County / elevation 3094 ft band", "Lynn County / primary ZIP 79373", "Lynn County / ZIP 79373 sector"]
+zillowHomeValueUsd: 167907
 ---
 
 **Engineering Notice for Tahoka:** Wall Restoration was validated under stress factor 1.14; target tolerance set near 140 mph. Grid anchor: Lynn County.

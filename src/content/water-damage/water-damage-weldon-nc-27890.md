@@ -12,6 +12,7 @@ lng: -77.6100
 zipSample: ["27890"]
 zipCodes: ["27890"]
 localPaths: ["Halifax County / elevation 125 ft band", "Halifax County / ZIP 27890 sector", "Halifax County / primary ZIP 27890", "Halifax County / coords 36.4200, -77.6100"]
+zillowHomeValueUsd: 58944
 ---
 
 **Engineering Notice for Weldon:** structural drying capacity optimized for 125ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Halifax County. Relative Humidity Threshold: 85%. Sensor sync: Active.

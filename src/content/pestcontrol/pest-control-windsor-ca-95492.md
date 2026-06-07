@@ -11,6 +11,7 @@ lng: -122.8100
 zipSample: ["95492"]
 zipCodes: ["95492"]
 localPaths: ["Sonoma County / elevation 98 ft band", "Sonoma County / primary ZIP 95492", "Sonoma County / ZIP 95492 sector", "Sonoma County / coords 38.5400, -122.8100"]
+zillowHomeValueUsd: 806240
 ---
 
 **Engineering Notice for Windsor:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Sonoma County.

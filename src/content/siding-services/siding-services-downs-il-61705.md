@@ -12,6 +12,7 @@ lng: -88.8900
 zipSample: ["61705", "61736"]
 zipCodes: ["61736", "61705"]
 localPaths: ["McLean County / primary ZIP 61705", "McLean County / elevation 778 ft band", "McLean County / ZIP 61705 sector", "McLean County / coords 40.4000, -88.8900", "McLean County / ZIP 61736 sector"]
+zillowHomeValueUsd: 378424
 ---
 
 **Engineering Notice for Downs:** Envelope check: Exterior Cladding assigned to wind-load band B with stress factor 0.99. Elevation: 778 ft AMSL. Regional dispatch grid: McLean County.

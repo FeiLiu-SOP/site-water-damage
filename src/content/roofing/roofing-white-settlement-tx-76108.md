@@ -11,6 +11,7 @@ lng: -97.4600
 zipSample: ["76108"]
 zipCodes: ["76108"]
 localPaths: ["Tarrant County / primary ZIP 76108", "Tarrant County / coords 32.7600, -97.4600", "Tarrant County / elevation 699 ft band", "Tarrant County / ZIP 76108 sector"]
+zillowHomeValueUsd: 285903
 ---
 
 **Engineering Notice for White Settlement:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Tarrant County.

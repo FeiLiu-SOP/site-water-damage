@@ -11,6 +11,7 @@ lng: -87.2700
 zipSample: ["32507", "32506", "32505"]
 zipCodes: ["32507", "32506", "32505"]
 localPaths: ["Escambia County / ZIP 32507 sector", "Escambia County / ZIP 32506 sector", "Escambia County / elevation 98 ft band", "Escambia County / ZIP 32505 sector", "Escambia County / primary ZIP 32505"]
+zillowHomeValueUsd: 148975
 ---
 
 **Engineering Notice for West Pensacola:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Escambia County.

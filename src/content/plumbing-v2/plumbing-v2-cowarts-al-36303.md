@@ -12,6 +12,7 @@ lng: -85.3100
 zipSample: ["36321", "36303"]
 zipCodes: ["36303", "36321"]
 localPaths: ["Houston County / coords 31.2000, -85.3100", "Houston County / ZIP 36303 sector", "Houston County / elevation 358 ft band", "Houston County / primary ZIP 36303", "Houston County / ZIP 36321 sector"]
+zillowHomeValueUsd: 184709
 ---
 
 **Engineering Notice for Cowarts:** System optimized for 124 mg/L hard water scaling factors in Cowarts. Regional dispatch grid: Houston County.

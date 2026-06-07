@@ -11,6 +11,7 @@ lng: -122.7800
 zipSample: ["97281", "97224", "97223"]
 zipCodes: ["97224", "97223", "97281"]
 localPaths: ["Washington County / primary ZIP 97224", "Washington County / ZIP 97223 sector", "Washington County / elevation 230 ft band", "Washington County / coords 45.4200, -122.7800", "Washington County / ZIP 97281 sector"]
+zillowHomeValueUsd: 607975
 ---
 
 **Engineering Notice for Tigard:** Structural loading calculated based on 230 ft terrain assessment. Regional dispatch grid: Washington County.

@@ -12,6 +12,7 @@ lng: -81.3300
 zipSample: ["44621"]
 zipCodes: ["44621"]
 localPaths: ["Tuscarawas County / primary ZIP 44621", "Tuscarawas County / elevation 860 ft band", "Tuscarawas County / ZIP 44621 sector", "Tuscarawas County / coords 40.4000, -81.3300"]
+zillowHomeValueUsd: 150209
 ---
 
 **Engineering Notice for Dennison:** System optimized for 157 mg/L hard water scaling factors in Dennison. Regional dispatch grid: Tuscarawas County.

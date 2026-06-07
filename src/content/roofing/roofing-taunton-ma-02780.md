@@ -11,6 +11,7 @@ lng: -71.0900
 zipSample: ["02780", "02718", "02767"]
 zipCodes: ["02718", "02780", "02767"]
 localPaths: ["Bristol County / primary ZIP 02780", "Bristol County / coords 41.9000, -71.0900", "Bristol County / ZIP 02718 sector", "Bristol County / ZIP 02780 sector", "Bristol County / elevation 59 ft band"]
+zillowHomeValueUsd: 512341
 ---
 
 **Engineering Notice for Taunton:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Bristol County.

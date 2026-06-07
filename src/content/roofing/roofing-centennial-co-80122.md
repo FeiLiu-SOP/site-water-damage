@@ -11,6 +11,7 @@ lng: -104.8700
 zipSample: ["80015", "80122", "80112", "80121", "80155"]
 zipCodes: ["80122", "80112", "80121", "80111", "80161", "80016", "80155", "80015"]
 localPaths: ["Arapahoe County / primary ZIP 80122", "Arapahoe County / coords 39.5900, -104.8700", "Arapahoe County / ZIP 80155 sector", "Arapahoe County / ZIP 80121 sector", "Arapahoe County / ZIP 80122 sector"]
+zillowHomeValueUsd: 639563
 ---
 
 **Engineering Notice for Centennial:** Structural loading calculated based on 5741 ft terrain assessment. Regional dispatch grid: Arapahoe County.

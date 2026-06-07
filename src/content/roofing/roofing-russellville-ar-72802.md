@@ -11,6 +11,7 @@ lng: -93.1400
 zipSample: ["72811", "72801", "72802"]
 zipCodes: ["72802", "72801", "72811"]
 localPaths: ["Pope County / ZIP 72811 sector", "Pope County / primary ZIP 72802", "Pope County / ZIP 72801 sector", "Pope County / coords 35.2800, -93.1400", "Pope County / ZIP 72802 sector"]
+zillowHomeValueUsd: 241314
 ---
 
 **Engineering Notice for Russellville:** Structural loading calculated based on 381 ft terrain assessment. Regional dispatch grid: Pope County.

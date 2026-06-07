@@ -12,6 +12,7 @@ lng: -76.8100
 zipSample: ["21136", "21117"]
 zipCodes: ["21117", "21136"]
 localPaths: ["Baltimore County / ZIP 21136 sector", "Baltimore County / ZIP 21117 sector", "Baltimore County / elevation 705 ft band", "Baltimore County / primary ZIP 21117", "Baltimore County / coords 39.4500, -76.8100"]
+zillowHomeValueUsd: 386486
 ---
 
 **Engineering Notice for Reisterstown:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: Baltimore County.

@@ -12,6 +12,7 @@ lng: -85.9600
 zipSample: ["46936"]
 zipCodes: ["46936"]
 localPaths: ["Howard County / primary ZIP 46936", "Howard County / coords 40.4800, -85.9600", "Howard County / elevation 846 ft band", "Howard County / ZIP 46936 sector"]
+zillowHomeValueUsd: 244179
 ---
 
 **Engineering Notice for Greentown:** Site context locked to Howard County. Elevation: 846 ft AMSL. Coordinates: 40.4800, -85.9600. Cladding Retrofit integrity verification recorded.

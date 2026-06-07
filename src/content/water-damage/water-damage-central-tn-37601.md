@@ -12,6 +12,7 @@ lng: -82.2900
 zipSample: ["37601"]
 zipCodes: ["37601"]
 localPaths: ["Carter County / elevation 1617 ft band", "Carter County / primary ZIP 37601", "Carter County / coords 36.3300, -82.2900", "Carter County / ZIP 37601 sector"]
+zillowHomeValueUsd: 262996
 ---
 
 **Engineering Notice for Central:** structural drying capacity optimized for 1617ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Carter County. Relative Humidity Threshold: 68%. Sensor sync: Active.

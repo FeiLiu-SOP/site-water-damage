@@ -12,6 +12,7 @@ lng: -118.0300
 zipSample: ["90605", "90604"]
 zipCodes: ["90605", "90604"]
 localPaths: ["Los Angeles County / primary ZIP 90604", "Los Angeles County / ZIP 90605 sector", "Los Angeles County / elevation 174 ft band", "Los Angeles County / ZIP 90604 sector", "Los Angeles County / coords 33.9300, -118.0300"]
+zillowHomeValueUsd: 828670
 ---
 
 **Engineering Notice for South Whittier:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Los Angeles County.

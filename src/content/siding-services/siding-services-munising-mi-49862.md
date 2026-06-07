@@ -12,6 +12,7 @@ lng: -86.6400
 zipSample: ["49862"]
 zipCodes: ["49862"]
 localPaths: ["Alger County / primary ZIP 49862", "Alger County / coords 46.4200, -86.6400", "Alger County / elevation 587 ft band", "Alger County / ZIP 49862 sector"]
+zillowHomeValueUsd: 198283
 ---
 
 **Engineering Notice for Munising:** Envelope check: Exterior Cladding assigned to wind-load band C with stress factor 1.24. Elevation: 587 ft AMSL. Regional dispatch grid: Alger County.

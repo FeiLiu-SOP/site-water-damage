@@ -11,6 +11,7 @@ lng: -84.3500
 zipSample: ["30075", "30076", "30077"]
 zipCodes: ["30075", "30077", "30076"]
 localPaths: ["Fulton County / ZIP 30076 sector", "Fulton County / coords 34.0400, -84.3500", "Fulton County / elevation 1060 ft band", "Fulton County / ZIP 30077 sector", "Fulton County / ZIP 30075 sector"]
+zillowHomeValueUsd: 707534
 ---
 
 **Engineering Notice for Roswell:** Structural loading calculated based on 1060 ft terrain assessment. Regional dispatch grid: Fulton County.

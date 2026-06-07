@@ -12,6 +12,7 @@ lng: -75.2600
 zipSample: ["18045"]
 zipCodes: ["18045"]
 localPaths: ["Northampton County / ZIP 18045 sector", "Northampton County / primary ZIP 18045", "Northampton County / elevation 427 ft band", "Northampton County / coords 40.6600, -75.2600"]
+zillowHomeValueUsd: 411793
 ---
 
 **Engineering Notice for Old Orchard:** Site context locked to Northampton County. Coordinates: 40.6600, -75.2600. Exterior Envelope integrity verification recorded.

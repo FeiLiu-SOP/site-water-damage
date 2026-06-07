@@ -11,6 +11,7 @@ lng: -69.7300
 zipSample: ["04332", "04336", "04333", "04330", "04338"]
 zipCodes: ["04333", "04332", "04336", "04330", "04338"]
 localPaths: ["Kennebec County / ZIP 04332 sector", "Kennebec County / elevation 174 ft band", "Kennebec County / ZIP 04338 sector", "Kennebec County / ZIP 04333 sector", "Kennebec County / primary ZIP 04330"]
+zillowHomeValueUsd: 285984
 ---
 
 **Engineering Notice for Augusta:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Kennebec County.

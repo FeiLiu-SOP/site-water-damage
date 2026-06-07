@@ -12,6 +12,8 @@ lng: -76.1300
 zipSample: ["21005"]
 zipCodes: ["21005"]
 localPaths: ["Harford County / coords 39.4700, -76.1300", "Harford County / primary ZIP 21005", "Harford County / ZIP 21005 sector", "Harford County / elevation 33 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 500905
 ---
 
 **Engineering Notice for Aberdeen Proving Ground:** structural drying capacity optimized for 33ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harford County. Relative Humidity Threshold: 66%. Sensor sync: Active.

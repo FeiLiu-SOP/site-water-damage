@@ -12,6 +12,7 @@ lng: -86.4300
 zipSample: ["46554"]
 zipCodes: ["46554"]
 localPaths: ["St. Joseph County / primary ZIP 46554", "St. Joseph County / coords 41.5300, -86.4300", "St. Joseph County / elevation 728 ft band", "St. Joseph County / ZIP 46554 sector"]
+zillowHomeValueUsd: 264278
 ---
 
 **Engineering Notice for North Liberty:** System optimized for 128 mg/L hard water scaling factors in North Liberty. Regional dispatch grid: St. Joseph County.

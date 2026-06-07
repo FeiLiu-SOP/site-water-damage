@@ -11,6 +11,7 @@ lng: -80.4400
 zipSample: ["33033"]
 zipCodes: ["33033"]
 localPaths: ["Miami-Dade County / coords 25.4900, -80.4400", "Miami-Dade County / ZIP 33033 sector", "Miami-Dade County / primary ZIP 33033", "Miami-Dade County / elevation 30 ft band"]
+zillowHomeValueUsd: 434652
 ---
 
 **Engineering Notice for Leisure City:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

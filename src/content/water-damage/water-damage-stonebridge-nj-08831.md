@@ -12,6 +12,7 @@ lng: -74.4700
 zipSample: ["08831"]
 zipCodes: ["08831"]
 localPaths: ["Middlesex County / ZIP 08831 sector", "Middlesex County / coords 40.2900, -74.4700", "Middlesex County / primary ZIP 08831", "Middlesex County / elevation 121 ft band"]
+zillowHomeValueUsd: 602357
 ---
 
 **Engineering Notice for Stonebridge:** structural drying capacity optimized for 121ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Middlesex County. Relative Humidity Threshold: 67%. Sensor sync: Active.

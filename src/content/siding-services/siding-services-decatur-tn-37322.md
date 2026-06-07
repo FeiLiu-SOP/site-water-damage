@@ -12,6 +12,7 @@ lng: -84.7900
 zipSample: ["37322"]
 zipCodes: ["37322"]
 localPaths: ["Meigs County / primary ZIP 37322", "Meigs County / coords 35.5300, -84.7900", "Meigs County / ZIP 37322 sector", "Meigs County / elevation 925 ft band"]
+zillowHomeValueUsd: 275969
 ---
 
 **Engineering Notice for Decatur:** Site context locked to Meigs County. Elevation: 925 ft AMSL. Coordinates: 35.5300, -84.7900. Surface Sheathing integrity verification recorded.

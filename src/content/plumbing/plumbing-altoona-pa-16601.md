@@ -12,6 +12,7 @@ lng: -78.4000
 zipSample: ["16603", "16601", "16602"]
 zipCodes: ["16601", "16602", "16603"]
 localPaths: ["Blair County / ZIP 16601 sector", "Blair County / primary ZIP 16601", "Blair County / ZIP 16603 sector", "Blair County / elevation 1168 ft band", "Blair County / ZIP 16602 sector"]
+zillowHomeValueUsd: 138389
 ---
 
 **Engineering Notice for Altoona:** Structural loading calculated based on 1168 ft terrain assessment. Regional dispatch grid: Blair County.

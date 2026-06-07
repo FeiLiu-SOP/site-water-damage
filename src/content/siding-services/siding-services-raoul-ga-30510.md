@@ -12,6 +12,7 @@ lng: -83.6000
 zipSample: ["30510"]
 zipCodes: ["30510"]
 localPaths: ["Habersham County / primary ZIP 30510", "Habersham County / elevation 1394 ft band", "Habersham County / coords 34.4500, -83.6000", "Habersham County / ZIP 30510 sector"]
+zillowHomeValueUsd: 294784
 ---
 
 **Engineering Notice for Raoul:** Cladding verification uses 102 mph routing baseline; lateral pressure note: 13.4 psf. Grid: Habersham County.

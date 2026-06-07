@@ -11,6 +11,7 @@ lng: -97.8600
 zipSample: ["78363", "78364"]
 zipCodes: ["78364", "78363"]
 localPaths: ["Kleberg County / coords 27.5100, -97.8600", "Kleberg County / elevation 79 ft band", "Kleberg County / primary ZIP 78363", "Kleberg County / ZIP 78363 sector", "Kleberg County / ZIP 78364 sector"]
+zillowHomeValueUsd: 147290
 ---
 
 **Engineering Notice for Kingsville:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Kleberg County.

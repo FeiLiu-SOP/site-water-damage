@@ -11,6 +11,7 @@ lng: -88.1200
 zipSample: ["36688", "36619", "36652", "36695", "36611"]
 zipCodes: ["36652", "36617", "36618", "36601", "36611", "36628", "36633", "36640", "36616", "36695", "36688", "36691"]
 localPaths: ["Mobile County / ZIP 36619 sector", "Mobile County / ZIP 36611 sector", "Mobile County / ZIP 36688 sector", "Mobile County / primary ZIP 36652", "Mobile County / ZIP 36695 sector"]
+zillowHomeValueUsd: 275869
 ---
 
 **Engineering Notice for Mobile:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Mobile County.

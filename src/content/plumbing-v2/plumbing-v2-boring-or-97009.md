@@ -12,6 +12,7 @@ lng: -122.3700
 zipSample: ["97009"]
 zipCodes: ["97009"]
 localPaths: ["Clackamas County / elevation 502 ft band", "Clackamas County / primary ZIP 97009", "Clackamas County / coords 45.4300, -122.3700", "Clackamas County / ZIP 97009 sector"]
+zillowHomeValueUsd: 717034
 ---
 
 **Engineering Notice for Boring:** System optimized for 144 mg/L hard water scaling factors in Boring. Regional dispatch grid: Clackamas County.

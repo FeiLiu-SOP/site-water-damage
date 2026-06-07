@@ -12,6 +12,7 @@ lng: -98.4100
 zipSample: ["78636"]
 zipCodes: ["78636"]
 localPaths: ["Blanco County / elevation 1240 ft band", "Blanco County / coords 30.2700, -98.4100", "Blanco County / primary ZIP 78636", "Blanco County / ZIP 78636 sector"]
+zillowHomeValueUsd: 621180
 ---
 
 **Engineering Notice for Johnson City:** structural drying capacity optimized for 1240ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Blanco County. Relative Humidity Threshold: 68%. Sensor sync: Active.

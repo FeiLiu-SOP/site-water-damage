@@ -11,6 +11,7 @@ lng: -81.8200
 zipSample: ["33831", "33830", "33863"]
 zipCodes: ["33863", "33830", "33831"]
 localPaths: ["Polk County / ZIP 33830 sector", "Polk County / elevation 148 ft band", "Polk County / primary ZIP 33830", "Polk County / coords 27.8900, -81.8200", "Polk County / ZIP 33863 sector"]
+zillowHomeValueUsd: 276473
 ---
 
 **Engineering Notice for Bartow:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Polk County.

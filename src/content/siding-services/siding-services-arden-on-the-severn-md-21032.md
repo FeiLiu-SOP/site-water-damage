@@ -12,6 +12,7 @@ lng: -76.6000
 zipSample: ["21032"]
 zipCodes: ["21032"]
 localPaths: ["Anne Arundel County / elevation 75 ft band", "Anne Arundel County / coords 39.0700, -76.6000", "Anne Arundel County / primary ZIP 21032", "Anne Arundel County / ZIP 21032 sector"]
+zillowHomeValueUsd: 669444
 ---
 
 **Engineering Notice for Arden on the Severn:** Site context locked to Anne Arundel County. Exterior Cladding integrity verification recorded.

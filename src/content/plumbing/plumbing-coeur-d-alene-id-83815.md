@@ -12,6 +12,7 @@ lng: -116.7900
 zipSample: ["83816", "83814", "83815"]
 zipCodes: ["83815", "83814", "83816"]
 localPaths: ["Kootenai County / ZIP 83814 sector", "Kootenai County / primary ZIP 83815", "Kootenai County / ZIP 83815 sector", "Kootenai County / elevation 2247 ft band", "Kootenai County / ZIP 83816 sector"]
+zillowHomeValueUsd: 558595
 ---
 
 **Engineering Notice for Coeur d'Alene:** Structural loading calculated based on 2247 ft terrain assessment. Regional dispatch grid: Kootenai County.

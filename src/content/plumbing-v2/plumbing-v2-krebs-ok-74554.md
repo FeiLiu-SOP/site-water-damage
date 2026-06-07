@@ -12,6 +12,7 @@ lng: -95.7200
 zipSample: ["74554", "74501"]
 zipCodes: ["74501", "74554"]
 localPaths: ["Pittsburg County / elevation 686 ft band", "Pittsburg County / primary ZIP 74554", "Pittsburg County / ZIP 74554 sector", "Pittsburg County / coords 34.9300, -95.7200", "Pittsburg County / ZIP 74501 sector"]
+zillowHomeValueUsd: 114880
 ---
 
 **Engineering Notice for Krebs:** System optimized for 123 mg/L hard water scaling factors in Krebs. Regional dispatch grid: Pittsburg County.

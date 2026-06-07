@@ -12,6 +12,7 @@ lng: -96.6000
 zipSample: ["66502", "66503", "66506", "66505"]
 zipCodes: ["66505", "66506", "66503", "66502"]
 localPaths: ["Riley County / ZIP 66503 sector", "Riley County / elevation 1066 ft band", "Riley County / ZIP 66506 sector", "Riley County / primary ZIP 66506", "Riley County / coords 39.1900, -96.6000"]
+zillowHomeValueUsd: 258272
 ---
 
 **Engineering Notice for Manhattan:** Structural loading calculated based on 1066 ft terrain assessment. Regional dispatch grid: Riley County.

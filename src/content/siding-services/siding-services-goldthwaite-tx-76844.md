@@ -12,6 +12,7 @@ lng: -98.5700
 zipSample: ["76844"]
 zipCodes: ["76844"]
 localPaths: ["Mills County / coords 31.4500, -98.5700", "Mills County / primary ZIP 76844", "Mills County / elevation 1565 ft band", "Mills County / ZIP 76844 sector"]
+zillowHomeValueUsd: 370445
 ---
 
 **Engineering Notice for Goldthwaite:** Site context locked to Mills County. Coordinates: 31.4500, -98.5700. Exterior Cladding integrity verification recorded.

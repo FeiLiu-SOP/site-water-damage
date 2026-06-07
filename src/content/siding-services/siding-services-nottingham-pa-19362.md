@@ -12,6 +12,7 @@ lng: -76.0300
 zipSample: ["19362"]
 zipCodes: ["19362"]
 localPaths: ["Chester County / elevation 525 ft band", "Chester County / primary ZIP 19362", "Chester County / ZIP 19362 sector", "Chester County / coords 39.7500, -76.0300"]
+zillowHomeValueUsd: 463291
 ---
 
 **Engineering Notice for Nottingham:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Elevation: 525 ft AMSL. Coordinates: 39.7500, -76.0300. Grid: Chester County.

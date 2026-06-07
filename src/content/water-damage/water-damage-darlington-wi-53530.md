@@ -12,6 +12,7 @@ lng: -90.1200
 zipSample: ["53530"]
 zipCodes: ["53530"]
 localPaths: ["Lafayette County / ZIP 53530 sector", "Lafayette County / elevation 843 ft band", "Lafayette County / primary ZIP 53530", "Lafayette County / coords 42.6800, -90.1200"]
+zillowHomeValueUsd: 224778
 ---
 
 **Engineering Notice for Darlington:** structural drying capacity optimized for 843ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lafayette County. Relative Humidity Threshold: 70%. Sensor sync: Active.

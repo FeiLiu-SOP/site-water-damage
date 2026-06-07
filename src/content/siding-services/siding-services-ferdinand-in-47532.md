@@ -12,6 +12,7 @@ lng: -86.8600
 zipSample: ["47532"]
 zipCodes: ["47532"]
 localPaths: ["Dubois County / primary ZIP 47532", "Dubois County / ZIP 47532 sector", "Dubois County / coords 38.2300, -86.8600", "Dubois County / elevation 528 ft band"]
+zillowHomeValueUsd: 279665
 ---
 
 **Engineering Notice for Ferdinand:** Envelope check: Surface Sheathing assigned to wind-load band B with stress factor 0.79. Regional dispatch grid: Dubois County.

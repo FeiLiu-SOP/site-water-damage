@@ -12,6 +12,7 @@ lng: -110.6600
 zipSample: ["59442"]
 zipCodes: ["59442"]
 localPaths: ["Chouteau County / coords 47.8300, -110.6600", "Chouteau County / primary ZIP 59442", "Chouteau County / elevation 2651 ft band", "Chouteau County / ZIP 59442 sector"]
+zillowHomeValueUsd: 291304
 ---
 
 **Engineering Notice for Fort Benton:** Site context locked to Chouteau County. Panel Replacement integrity verification recorded.

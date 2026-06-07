@@ -12,6 +12,7 @@ lng: -87.7700
 zipSample: ["36451"]
 zipCodes: ["36451"]
 localPaths: ["Clarke County / primary ZIP 36451", "Clarke County / elevation 509 ft band", "Clarke County / ZIP 36451 sector", "Clarke County / coords 31.7000, -87.7700"]
+zillowHomeValueUsd: 141675
 ---
 
 **Engineering Notice for Grove Hill:** structural drying capacity optimized for 509ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clarke County. Relative Humidity Threshold: 79%. Sensor sync: Active.

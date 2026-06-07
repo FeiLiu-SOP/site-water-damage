@@ -11,6 +11,7 @@ lng: -117.5500
 zipSample: ["92860"]
 zipCodes: ["92860"]
 localPaths: ["Riverside County / ZIP 92860 sector", "Riverside County / elevation 643 ft band", "Riverside County / primary ZIP 92860", "Riverside County / coords 33.9300, -117.5500"]
+zillowHomeValueUsd: 917465
 ---
 
 **Engineering Notice for Norco:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Riverside County.

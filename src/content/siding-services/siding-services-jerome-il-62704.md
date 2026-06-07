@@ -12,6 +12,7 @@ lng: -89.6800
 zipSample: ["62704"]
 zipCodes: ["62704"]
 localPaths: ["Sangamon County / ZIP 62704 sector", "Sangamon County / primary ZIP 62704", "Sangamon County / coords 39.7700, -89.6800", "Sangamon County / elevation 617 ft band"]
+zillowHomeValueUsd: 180773
 ---
 
 **Engineering Notice for Jerome:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Elevation: 617 ft AMSL. Coordinates: 39.7700, -89.6800. Grid: Sangamon County.

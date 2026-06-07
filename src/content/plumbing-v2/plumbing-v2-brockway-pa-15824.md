@@ -12,6 +12,7 @@ lng: -78.7900
 zipSample: ["15824"]
 zipCodes: ["15824"]
 localPaths: ["Jefferson County / coords 41.2500, -78.7900", "Jefferson County / ZIP 15824 sector", "Jefferson County / primary ZIP 15824", "Jefferson County / elevation 1450 ft band"]
+zillowHomeValueUsd: 138365
 ---
 
 **Engineering Notice for Brockway:** System optimized for 174 mg/L hard water scaling factors in Brockway. Regional dispatch grid: Jefferson County.

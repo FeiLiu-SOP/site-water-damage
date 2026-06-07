@@ -12,6 +12,7 @@ lng: -76.7400
 zipSample: ["21228", "21250"]
 zipCodes: ["21228", "21250"]
 localPaths: ["Baltimore County / elevation 482 ft band", "Baltimore County / ZIP 21228 sector", "Baltimore County / primary ZIP 21250", "Baltimore County / ZIP 21250 sector", "Baltimore County / coords 39.2600, -76.7400"]
+zillowHomeValueUsd: 425899
 ---
 
 **Engineering Notice for Catonsville:** Structural loading calculated based on 482 ft terrain assessment. Regional dispatch grid: Baltimore County.

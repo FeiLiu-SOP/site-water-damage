@@ -12,6 +12,7 @@ lng: -82.7400
 zipSample: ["31634"]
 zipCodes: ["31634"]
 localPaths: ["Clinch County / ZIP 31634 sector", "Clinch County / elevation 190 ft band", "Clinch County / coords 31.0400, -82.7400", "Clinch County / primary ZIP 31634"]
+zillowHomeValueUsd: 128830
 ---
 
 **Engineering Notice for Homerville:** System optimized for 164 mg/L hard water scaling factors in Homerville. Regional dispatch grid: Clinch County.

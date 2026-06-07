@@ -12,6 +12,7 @@ lng: -73.5800
 zipSample: ["11575"]
 zipCodes: ["11575"]
 localPaths: ["Nassau County / coords 40.6800, -73.5800", "Nassau County / ZIP 11575 sector", "Nassau County / primary ZIP 11575", "Nassau County / elevation 43 ft band"]
+zillowHomeValueUsd: 630768
 ---
 
 **Engineering Notice for Roosevelt:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Nassau County.

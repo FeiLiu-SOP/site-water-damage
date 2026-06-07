@@ -11,6 +11,7 @@ lng: -95.5500
 zipSample: ["75461", "75460", "75462"]
 zipCodes: ["75460", "75461", "75462"]
 localPaths: ["Lamar County / ZIP 75461 sector", "Lamar County / ZIP 75460 sector", "Lamar County / ZIP 75462 sector", "Lamar County / coords 33.6700, -95.5500", "Lamar County / elevation 614 ft band"]
+zillowHomeValueUsd: 277711
 ---
 
 **Engineering Notice for Paris:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Lamar County.

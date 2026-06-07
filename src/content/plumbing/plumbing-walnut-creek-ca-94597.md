@@ -12,6 +12,7 @@ lng: -122.0400
 zipSample: ["94597", "94595", "94598", "94596"]
 zipCodes: ["94597", "94596", "94595", "94598"]
 localPaths: ["Contra Costa County / ZIP 94595 sector", "Contra Costa County / ZIP 94596 sector", "Contra Costa County / ZIP 94597 sector", "Contra Costa County / ZIP 94598 sector", "Contra Costa County / primary ZIP 94597"]
+zillowHomeValueUsd: 1004231
 ---
 
 **Engineering Notice for Walnut Creek:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Contra Costa County.

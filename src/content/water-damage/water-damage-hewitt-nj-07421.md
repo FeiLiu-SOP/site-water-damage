@@ -12,6 +12,7 @@ lng: -74.3300
 zipSample: ["07421"]
 zipCodes: ["07421"]
 localPaths: ["Passaic County / ZIP 07421 sector", "Passaic County / coords 41.1600, -74.3300", "Passaic County / primary ZIP 07421", "Passaic County / elevation 633 ft band"]
+zillowHomeValueUsd: 472630
 ---
 
 **Engineering Notice for Hewitt:** structural drying capacity optimized for 633ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Passaic County. Relative Humidity Threshold: 69%. Sensor sync: Active.

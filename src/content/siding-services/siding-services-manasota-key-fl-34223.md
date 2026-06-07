@@ -12,6 +12,7 @@ lng: -82.3500
 zipSample: ["34223"]
 zipCodes: ["34223"]
 localPaths: ["Charlotte County / primary ZIP 34223", "Charlotte County / ZIP 34223 sector", "Charlotte County / coords 26.9200, -82.3500", "Charlotte County / elevation 16 ft band"]
+zillowHomeValueUsd: 372636
 ---
 
 **Engineering Notice for Manasota Key:** Envelope check: Vinyl Panels assigned to wind-load band C with stress factor 1.15. Regional dispatch grid: Charlotte County.

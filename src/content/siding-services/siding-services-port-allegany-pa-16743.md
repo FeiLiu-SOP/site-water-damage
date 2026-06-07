@@ -12,6 +12,7 @@ lng: -78.2800
 zipSample: ["16743"]
 zipCodes: ["16743"]
 localPaths: ["McKean County / elevation 1509 ft band", "McKean County / ZIP 16743 sector", "McKean County / coords 41.8100, -78.2800", "McKean County / primary ZIP 16743"]
+zillowHomeValueUsd: 123834
 ---
 
 **Engineering Notice for Port Allegany:** Structural integrity verification: Panel Replacement calibrated for 105 mph localized wind load factor. Elevation: 1509 ft AMSL. Regional dispatch grid: McKean County.

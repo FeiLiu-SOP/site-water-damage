@@ -12,6 +12,7 @@ lng: -96.0500
 zipSample: ["68127", "68197", "68135", "68103", "68117"]
 zipCodes: ["68139", "68106", "68197", "68116", "68111", "68182", "68103", "68107", "68132", "68144", "68198", "68180"]
 localPaths: ["Douglas County / ZIP 68197 sector", "Douglas County / elevation 1152 ft band", "Douglas County / ZIP 68103 sector", "Douglas County / ZIP 68135 sector", "Douglas County / coords 41.2600, -96.0500"]
+zillowHomeValueUsd: 182179
 ---
 
 **Engineering Notice for Omaha:** Structural loading calculated based on 1152 ft terrain assessment. Regional dispatch grid: Douglas County.

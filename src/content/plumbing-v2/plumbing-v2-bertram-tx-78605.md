@@ -12,6 +12,7 @@ lng: -98.0600
 zipSample: ["78605"]
 zipCodes: ["78605"]
 localPaths: ["Burnet County / primary ZIP 78605", "Burnet County / coords 30.7400, -98.0600", "Burnet County / elevation 1270 ft band", "Burnet County / ZIP 78605 sector"]
+zillowHomeValueUsd: 422308
 ---
 
 **Engineering Notice for Bertram:** System optimized for 120 mg/L hard water scaling factors in Bertram. Regional dispatch grid: Burnet County.

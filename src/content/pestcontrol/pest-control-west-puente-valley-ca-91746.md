@@ -11,6 +11,7 @@ lng: -117.9700
 zipSample: ["91744", "91746"]
 zipCodes: ["91746", "91744"]
 localPaths: ["Los Angeles County / coords 34.0500, -117.9700", "Los Angeles County / primary ZIP 91746", "Los Angeles County / ZIP 91746 sector", "Los Angeles County / ZIP 91744 sector", "Los Angeles County / elevation 328 ft band"]
+zillowHomeValueUsd: 764010
 ---
 
 **Engineering Notice for West Puente Valley:** Structural loading calculated based on 328 ft terrain assessment. Regional dispatch grid: Los Angeles County.

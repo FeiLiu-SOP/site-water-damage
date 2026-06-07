@@ -11,6 +11,7 @@ lng: -117.1700
 zipSample: ["92079", "92069", "92078", "92096"]
 zipCodes: ["92069", "92078", "92079", "92096"]
 localPaths: ["San Diego County / coords 33.1300, -117.1700", "San Diego County / ZIP 92069 sector", "San Diego County / elevation 545 ft band", "San Diego County / ZIP 92079 sector", "San Diego County / ZIP 92096 sector"]
+zillowHomeValueUsd: 1025312
 ---
 
 **Engineering Notice for San Marcos:** Structural loading calculated based on 545 ft terrain assessment. Regional dispatch grid: San Diego County.

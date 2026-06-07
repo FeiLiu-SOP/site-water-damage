@@ -11,6 +11,7 @@ lng: -85.9200
 zipSample: ["47203", "47202", "47201"]
 zipCodes: ["47202", "47201", "47203"]
 localPaths: ["Bartholomew County / primary ZIP 47203", "Bartholomew County / elevation 633 ft band", "Bartholomew County / ZIP 47202 sector", "Bartholomew County / coords 39.2100, -85.9200", "Bartholomew County / ZIP 47203 sector"]
+zillowHomeValueUsd: 285737
 ---
 
 **Engineering Notice for Columbus:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Bartholomew County.

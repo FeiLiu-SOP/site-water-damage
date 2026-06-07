@@ -12,6 +12,7 @@ lng: -85.1400
 zipSample: ["42602"]
 zipCodes: ["42602"]
 localPaths: ["Clinton County / coords 36.6900, -85.1400", "Clinton County / primary ZIP 42602", "Clinton County / ZIP 42602 sector", "Clinton County / elevation 961 ft band"]
+zillowHomeValueUsd: 156187
 ---
 
 **Engineering Notice for Albany:** structural drying capacity optimized for 961ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clinton County. Relative Humidity Threshold: 68%. Sensor sync: Active.

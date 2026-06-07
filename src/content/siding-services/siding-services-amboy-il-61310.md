@@ -12,6 +12,7 @@ lng: -89.3700
 zipSample: ["61021", "61310"]
 zipCodes: ["61021", "61310"]
 localPaths: ["Lee County / primary ZIP 61310", "Lee County / ZIP 61310 sector", "Lee County / elevation 781 ft band", "Lee County / ZIP 61021 sector", "Lee County / coords 41.7300, -89.3700"]
+zillowHomeValueUsd: 173099
 ---
 
 **Engineering Notice for Amboy:** Structural integrity verification: Weather Barrier Wrap calibrated for 92 mph localized wind load factor. Regional dispatch grid: Lee County.

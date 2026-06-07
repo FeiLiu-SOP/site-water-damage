@@ -12,6 +12,7 @@ lng: -77.1000
 zipSample: ["23890"]
 zipCodes: ["23890"]
 localPaths: ["Sussex County / elevation 121 ft band", "Sussex County / ZIP 23890 sector", "Sussex County / coords 37.0300, -77.1000", "Sussex County / primary ZIP 23890"]
+zillowHomeValueUsd: 192560
 ---
 
 **Engineering Notice for Waverly:** Envelope check: Cladding Service assigned to wind-load band A with stress factor 1.17. Elevation: 121 ft AMSL. Regional dispatch grid: Sussex County.

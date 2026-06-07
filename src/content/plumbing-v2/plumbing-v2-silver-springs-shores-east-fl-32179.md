@@ -12,6 +12,7 @@ lng: -81.8900
 zipSample: ["32179"]
 zipCodes: ["32179"]
 localPaths: ["Marion County / primary ZIP 32179", "Marion County / ZIP 32179 sector", "Marion County / coords 29.0500, -81.8900", "Marion County / elevation 135 ft band"]
+zillowHomeValueUsd: 243947
 ---
 
 **Engineering Notice for Silver Springs Shores East:** System optimized for 164 mg/L hard water scaling factors in Silver Springs Shores East. Regional dispatch grid: Marion County.

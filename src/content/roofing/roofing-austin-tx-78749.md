@@ -11,6 +11,7 @@ lng: -97.7500
 zipSample: ["78754", "78772", "78723", "78725", "78760"]
 zipCodes: ["78719", "78727", "73301", "78759", "78766", "78703", "78713", "78720", "78755", "78711", "78754", "78723"]
 localPaths: ["Travis County / ZIP 78754 sector", "Travis County / ZIP 78723 sector", "Travis County / ZIP 78760 sector", "Travis County / ZIP 78772 sector", "Travis County / coords 30.3000, -97.7500"]
+zillowHomeValueUsd: 555264
 ---
 
 **Engineering Notice for Austin:** Structural loading calculated based on 630 ft terrain assessment. Regional dispatch grid: Travis County.

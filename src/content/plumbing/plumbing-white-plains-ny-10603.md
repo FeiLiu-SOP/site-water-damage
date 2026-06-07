@@ -12,6 +12,7 @@ lng: -73.7500
 zipSample: ["10605", "10602", "10601", "10606", "10604"]
 zipCodes: ["10601", "10603", "10604", "10602", "10606", "10605"]
 localPaths: ["Westchester County / ZIP 10601 sector", "Westchester County / ZIP 10606 sector", "Westchester County / elevation 259 ft band", "Westchester County / coords 41.0200, -73.7500", "Westchester County / ZIP 10604 sector"]
+zillowHomeValueUsd: 652971
 ---
 
 **Engineering Notice for White Plains:** Structural loading calculated based on 259 ft terrain assessment. Regional dispatch grid: Westchester County.

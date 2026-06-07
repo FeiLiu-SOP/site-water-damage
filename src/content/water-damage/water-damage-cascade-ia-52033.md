@@ -12,6 +12,7 @@ lng: -91.0000
 zipSample: ["52033"]
 zipCodes: ["52033"]
 localPaths: ["Dubuque County / ZIP 52033 sector", "Dubuque County / coords 42.3000, -91.0000", "Dubuque County / elevation 860 ft band", "Dubuque County / primary ZIP 52033"]
+zillowHomeValueUsd: 288302
 ---
 
 **Engineering Notice for Cascade:** structural drying capacity optimized for 860ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dubuque County. Relative Humidity Threshold: 78%. Sensor sync: Active.

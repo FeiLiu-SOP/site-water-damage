@@ -12,6 +12,7 @@ lng: -97.9500
 zipSample: ["73529"]
 zipCodes: ["73529"]
 localPaths: ["Stephens County / elevation 1033 ft band", "Stephens County / coords 34.3600, -97.9500", "Stephens County / ZIP 73529 sector", "Stephens County / primary ZIP 73529"]
+zillowHomeValueUsd: 132865
 ---
 
 **Engineering Notice for Comanche:** structural drying capacity optimized for 1033ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stephens County. Relative Humidity Threshold: 85%. Sensor sync: Active.

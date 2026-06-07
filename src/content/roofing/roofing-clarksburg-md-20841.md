@@ -11,6 +11,7 @@ lng: -77.2700
 zipSample: ["20841", "20871", "20876"]
 zipCodes: ["20876", "20841", "20871"]
 localPaths: ["Montgomery County / elevation 551 ft band", "Montgomery County / ZIP 20876 sector", "Montgomery County / ZIP 20841 sector", "Montgomery County / ZIP 20871 sector", "Montgomery County / coords 39.2200, -77.2700"]
+zillowHomeValueUsd: 838611
 ---
 
 **Engineering Notice for Clarksburg:** Structural loading calculated based on 551 ft terrain assessment. Regional dispatch grid: Montgomery County.

@@ -11,6 +11,7 @@ lng: -84.2500
 zipSample: ["32316", "32306", "32311", "32317", "32301"]
 zipCodes: ["32303", "32309", "32304", "32316", "32313", "32307", "32302", "32311", "32308", "32314", "32315", "32312"]
 localPaths: ["Leon County / ZIP 32306 sector", "Leon County / ZIP 32317 sector", "Leon County / coords 30.4600, -84.2500", "Leon County / ZIP 32301 sector", "Leon County / primary ZIP 32310"]
+zillowHomeValueUsd: 177712
 ---
 
 **Engineering Notice for Tallahassee:** Structural loading calculated based on 164 ft terrain assessment. Regional dispatch grid: Leon County.

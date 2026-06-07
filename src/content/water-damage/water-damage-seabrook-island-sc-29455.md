@@ -12,6 +12,7 @@ lng: -80.1700
 zipSample: ["29455"]
 zipCodes: ["29455"]
 localPaths: ["Charleston County / primary ZIP 29455", "Charleston County / ZIP 29455 sector", "Charleston County / elevation 3 ft band", "Charleston County / coords 32.5800, -80.1700"]
+zillowHomeValueUsd: 739644
 ---
 
 **Engineering Notice for Seabrook Island:** structural drying capacity optimized for 3ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Charleston County. Relative Humidity Threshold: 75%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -93.6300
 zipSample: ["55384"]
 zipCodes: ["55384"]
 localPaths: ["Hennepin County / ZIP 55384 sector", "Hennepin County / elevation 938 ft band", "Hennepin County / primary ZIP 55384", "Hennepin County / coords 44.9400, -93.6300"]
+zillowHomeValueUsd: 573875
 ---
 
 **Engineering Notice for Spring Park:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Elevation: 938 ft AMSL. Coordinates: 44.9400, -93.6300. Grid: Hennepin County.

@@ -11,6 +11,7 @@ lng: -80.2500
 zipSample: ["33321", "33319", "33359"]
 zipCodes: ["33321", "33319", "33359"]
 localPaths: ["Broward County / ZIP 33319 sector", "Broward County / ZIP 33321 sector", "Broward County / coords 26.2100, -80.2500", "Broward County / elevation 20 ft band", "Broward County / primary ZIP 33321"]
+zillowHomeValueUsd: 296722
 ---
 
 **Engineering Notice for Tamarac:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Broward County.

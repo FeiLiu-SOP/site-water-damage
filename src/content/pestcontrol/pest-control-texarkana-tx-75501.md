@@ -11,6 +11,7 @@ lng: -94.0800
 zipSample: ["75501", "75503", "75599"]
 zipCodes: ["75503", "75599", "75501"]
 localPaths: ["Bowie County / elevation 348 ft band", "Bowie County / ZIP 75501 sector", "Bowie County / ZIP 75599 sector", "Bowie County / coords 33.4500, -94.0800", "Bowie County / primary ZIP 75501"]
+zillowHomeValueUsd: 154032
 ---
 
 **Engineering Notice for Texarkana:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Bowie County.

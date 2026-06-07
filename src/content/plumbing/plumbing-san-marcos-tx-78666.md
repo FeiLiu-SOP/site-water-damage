@@ -12,6 +12,7 @@ lng: -97.9400
 zipSample: ["78666", "78656", "78667"]
 zipCodes: ["78666", "78667", "78656"]
 localPaths: ["Hays County / ZIP 78656 sector", "Hays County / ZIP 78666 sector", "Hays County / coords 29.8700, -97.9400", "Hays County / primary ZIP 78666", "Hays County / elevation 597 ft band"]
+zillowHomeValueUsd: 314053
 ---
 
 **Engineering Notice for San Marcos:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Hays County.

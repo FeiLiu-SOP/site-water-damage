@@ -12,6 +12,7 @@ lng: -121.6400
 zipSample: ["94513", "94514"]
 zipCodes: ["94513", "94514"]
 localPaths: ["Contra Costa County / coords 37.8800, -121.6400", "Contra Costa County / ZIP 94514 sector", "Contra Costa County / ZIP 94513 sector", "Contra Costa County / primary ZIP 94514", "Contra Costa County / elevation 30 ft band"]
+zillowHomeValueUsd: 855682
 ---
 
 **Engineering Notice for Byron:** Site context locked to Contra Costa County. Cladding Service integrity verification recorded.

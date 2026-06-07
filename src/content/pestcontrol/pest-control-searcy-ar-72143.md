@@ -11,6 +11,7 @@ lng: -91.7400
 zipSample: ["72145", "72143", "72149"]
 zipCodes: ["72145", "72143", "72149"]
 localPaths: ["White County / primary ZIP 72143", "White County / ZIP 72145 sector", "White County / ZIP 72143 sector", "White County / elevation 233 ft band", "White County / coords 35.2400, -91.7400"]
+zillowHomeValueUsd: 217398
 ---
 
 **Engineering Notice for Searcy:** Structural loading calculated based on 233 ft terrain assessment. Regional dispatch grid: White County.

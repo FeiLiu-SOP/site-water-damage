@@ -12,6 +12,7 @@ lng: -89.0200
 zipSample: ["53523"]
 zipCodes: ["53523"]
 localPaths: ["Dane County / elevation 860 ft band", "Dane County / ZIP 53523 sector", "Dane County / coords 43.0100, -89.0200", "Dane County / primary ZIP 53523"]
+zillowHomeValueUsd: 420758
 ---
 
 **Engineering Notice for Cambridge:** structural drying capacity optimized for 860ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dane County. Relative Humidity Threshold: 73%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -116.0000
 zipSample: ["83849"]
 zipCodes: ["83849"]
 localPaths: ["Shoshone County / primary ZIP 83849", "Shoshone County / elevation 2520 ft band", "Shoshone County / ZIP 83849 sector", "Shoshone County / coords 47.5100, -116.0000"]
+zillowHomeValueUsd: 281843
 ---
 
 **Engineering Notice for Osburn:** Cladding verification uses 101 mph routing baseline; lateral pressure note: 13.3 psf. Coordinates: 47.5100, -116.0000. Grid: Shoshone County.

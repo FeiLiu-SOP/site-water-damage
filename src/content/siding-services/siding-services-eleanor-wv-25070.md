@@ -12,6 +12,7 @@ lng: -81.9300
 zipSample: ["25070"]
 zipCodes: ["25070"]
 localPaths: ["Putnam County / ZIP 25070 sector", "Putnam County / coords 38.5400, -81.9300", "Putnam County / primary ZIP 25070", "Putnam County / elevation 604 ft band"]
+zillowHomeValueUsd: 223600
 ---
 
 **Engineering Notice for Eleanor:** Structural integrity verification: Wall Restoration calibrated for 106 mph localized wind load factor. Elevation: 604 ft AMSL. Coordinates: 38.5400, -81.9300. Regional dispatch grid: Putnam County.

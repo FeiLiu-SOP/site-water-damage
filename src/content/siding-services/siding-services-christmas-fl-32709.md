@@ -12,6 +12,7 @@ lng: -81.0200
 zipSample: ["32709"]
 zipCodes: ["32709"]
 localPaths: ["Orange County / elevation 62 ft band", "Orange County / coords 28.5600, -81.0200", "Orange County / ZIP 32709 sector", "Orange County / primary ZIP 32709"]
+zillowHomeValueUsd: 475615
 ---
 
 **Engineering Notice for Christmas:** Exterior Cladding was validated under stress factor 1.03; target tolerance set near 131 mph. Coordinates: 28.5600, -81.0200. Grid anchor: Orange County.

@@ -12,6 +12,7 @@ lng: -81.8100
 zipSample: ["29832"]
 zipCodes: ["29832"]
 localPaths: ["Edgefield County / primary ZIP 29832", "Edgefield County / elevation 659 ft band", "Edgefield County / ZIP 29832 sector", "Edgefield County / coords 33.8300, -81.8100"]
+zillowHomeValueUsd: 152222
 ---
 
 **Engineering Notice for Johnston:** structural drying capacity optimized for 659ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Edgefield County. Relative Humidity Threshold: 73%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -94.4800
 zipSample: ["64068", "64119"]
 zipCodes: ["64068", "64119"]
 localPaths: ["Clay County / coords 39.2000, -94.4800", "Clay County / ZIP 64119 sector", "Clay County / ZIP 64068 sector", "Clay County / elevation 833 ft band", "Clay County / primary ZIP 64068"]
+zillowHomeValueUsd: 326585
 ---
 
 **Engineering Notice for Claycomo:** System optimized for 127 mg/L hard water scaling factors in Claycomo. Regional dispatch grid: Clay County.

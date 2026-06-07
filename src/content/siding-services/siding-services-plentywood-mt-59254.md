@@ -12,6 +12,7 @@ lng: -104.5600
 zipSample: ["59254"]
 zipCodes: ["59254"]
 localPaths: ["Sheridan County / ZIP 59254 sector", "Sheridan County / primary ZIP 59254", "Sheridan County / coords 48.7800, -104.5600", "Sheridan County / elevation 2047 ft band"]
+zillowHomeValueUsd: 163090
 ---
 
 **Engineering Notice for Plentywood:** Envelope check: Panel Replacement assigned to wind-load band A with stress factor 0.95. Regional dispatch grid: Sheridan County.

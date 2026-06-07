@@ -12,6 +12,8 @@ lng: -98.1000
 zipSample: ["78342", "78332"]
 zipCodes: ["78332", "78342"]
 localPaths: ["Jim Wells County / primary ZIP 78342", "Jim Wells County / elevation 203 ft band", "Jim Wells County / ZIP 78342 sector", "Jim Wells County / ZIP 78332 sector", "Jim Wells County / coords 27.6700, -98.1000"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 291751
 ---
 
 **Engineering Notice for Ben Bolt:** Panel Replacement was validated under stress factor 1.16; target tolerance set near 150 mph. Grid anchor: Jim Wells County.

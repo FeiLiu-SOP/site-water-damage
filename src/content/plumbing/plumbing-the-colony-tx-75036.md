@@ -12,6 +12,7 @@ lng: -96.9000
 zipSample: ["75056", "75036"]
 zipCodes: ["75036", "75056"]
 localPaths: ["Denton County / ZIP 75056 sector", "Denton County / primary ZIP 75036", "Denton County / elevation 551 ft band", "Denton County / coords 33.0900, -96.9000", "Denton County / ZIP 75036 sector"]
+zillowHomeValueUsd: 567516
 ---
 
 **Engineering Notice for The Colony:** Structural loading calculated based on 551 ft terrain assessment. Regional dispatch grid: Denton County.

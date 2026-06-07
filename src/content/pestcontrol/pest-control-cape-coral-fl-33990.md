@@ -11,6 +11,7 @@ lng: -82.0000
 zipSample: ["33914", "33910", "33909", "33993", "33990"]
 zipCodes: ["33915", "33990", "33914", "33904", "33910", "33991", "33993", "33909"]
 localPaths: ["Lee County / ZIP 33909 sector", "Lee County / coords 26.6400, -82.0000", "Lee County / ZIP 33990 sector", "Lee County / ZIP 33910 sector", "Lee County / ZIP 33993 sector"]
+zillowHomeValueUsd: 323708
 ---
 
 **Engineering Notice for Cape Coral:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Lee County.

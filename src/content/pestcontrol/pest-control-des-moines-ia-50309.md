@@ -11,6 +11,7 @@ lng: -93.6100
 zipSample: ["50950", "50393", "50305", "50312", "50309"]
 zipCodes: ["50392", "50302", "50318", "50393", "50981", "50980", "50321", "50313", "50340", "50395", "50332", "50314"]
 localPaths: ["Polk County / elevation 787 ft band", "Polk County / ZIP 50305 sector", "Polk County / coords 41.5700, -93.6100", "Polk County / ZIP 50309 sector", "Polk County / ZIP 50950 sector"]
+zillowHomeValueUsd: 247364
 ---
 
 **Engineering Notice for Des Moines:** Structural loading calculated based on 787 ft terrain assessment. Regional dispatch grid: Polk County.

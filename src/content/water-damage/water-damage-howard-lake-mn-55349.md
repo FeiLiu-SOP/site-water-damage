@@ -12,6 +12,7 @@ lng: -94.0700
 zipSample: ["55349"]
 zipCodes: ["55349"]
 localPaths: ["Wright County / ZIP 55349 sector", "Wright County / coords 45.0600, -94.0700", "Wright County / primary ZIP 55349", "Wright County / elevation 1017 ft band"]
+zillowHomeValueUsd: 342506
 ---
 
 **Engineering Notice for Howard Lake:** structural drying capacity optimized for 1017ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wright County. Relative Humidity Threshold: 70%. Sensor sync: Active.

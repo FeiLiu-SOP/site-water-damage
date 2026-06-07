@@ -11,6 +11,7 @@ lng: -118.1800
 zipSample: ["90201", "90096"]
 zipCodes: ["90201", "90096"]
 localPaths: ["Los Angeles County / elevation 138 ft band", "Los Angeles County / ZIP 90096 sector", "Los Angeles County / ZIP 90201 sector", "Los Angeles County / primary ZIP 90201", "Los Angeles County / coords 33.9600, -118.1800"]
+zillowHomeValueUsd: 687038
 ---
 
 **Engineering Notice for Cudahy:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Los Angeles County.

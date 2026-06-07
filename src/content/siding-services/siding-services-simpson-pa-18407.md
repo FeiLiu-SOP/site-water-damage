@@ -12,6 +12,7 @@ lng: -75.4800
 zipSample: ["18407"]
 zipCodes: ["18407"]
 localPaths: ["Lackawanna County / ZIP 18407 sector", "Lackawanna County / elevation 1211 ft band", "Lackawanna County / primary ZIP 18407", "Lackawanna County / coords 41.5900, -75.4800"]
+zillowHomeValueUsd: 165061
 ---
 
 **Engineering Notice for Simpson:** Envelope check: Cladding Retrofit assigned to wind-load band C with stress factor 1.22. Regional dispatch grid: Lackawanna County.

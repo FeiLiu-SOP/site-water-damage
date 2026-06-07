@@ -12,6 +12,7 @@ lng: -96.5200
 zipSample: ["56510"]
 zipCodes: ["56510"]
 localPaths: ["Norman County / primary ZIP 56510", "Norman County / elevation 902 ft band", "Norman County / ZIP 56510 sector", "Norman County / coords 47.3000, -96.5200"]
+zillowHomeValueUsd: 165057
 ---
 
 **Engineering Notice for Ada:** Cladding verification uses 105 mph routing baseline; lateral pressure note: 13.8 psf. Elevation: 902 ft AMSL. Coordinates: 47.3000, -96.5200. Grid: Norman County.

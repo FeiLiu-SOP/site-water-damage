@@ -12,6 +12,7 @@ lng: -72.6800
 zipSample: ["06126", "06146", "06105", "06112", "06102"]
 zipCodes: ["06152", "06143", "06133", "06106", "06141", "06115", "06102", "06151", "06142", "06154", "06112", "06167"]
 localPaths: ["Capitol County / ZIP 06112 sector", "Capitol County / ZIP 06102 sector", "Capitol County / ZIP 06146 sector", "Capitol County / elevation 46 ft band", "Capitol County / ZIP 06126 sector"]
+zillowHomeValueUsd: 226071
 ---
 
 **Engineering Notice for Hartford:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Capitol County.

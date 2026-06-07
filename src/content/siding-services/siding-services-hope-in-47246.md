@@ -12,6 +12,7 @@ lng: -85.7700
 zipSample: ["47246"]
 zipCodes: ["47246"]
 localPaths: ["Bartholomew County / elevation 732 ft band", "Bartholomew County / primary ZIP 47246", "Bartholomew County / coords 39.3000, -85.7700", "Bartholomew County / ZIP 47246 sector"]
+zillowHomeValueUsd: 255745
 ---
 
 **Engineering Notice for Hope:** Exterior Envelope was validated under stress factor 0.74; target tolerance set near 94 mph. Coordinates: 39.3000, -85.7700. Grid anchor: Bartholomew County.

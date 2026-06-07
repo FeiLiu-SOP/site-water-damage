@@ -12,6 +12,7 @@ lng: -92.5800
 zipSample: ["65704"]
 zipCodes: ["65704"]
 localPaths: ["Wright County / primary ZIP 65704", "Wright County / elevation 1447 ft band", "Wright County / coords 37.1100, -92.5800", "Wright County / ZIP 65704 sector"]
+zillowHomeValueUsd: 201602
 ---
 
 **Engineering Notice for Mansfield:** Cladding Service was validated under stress factor 0.74; target tolerance set near 90 mph. Coordinates: 37.1100, -92.5800. Grid anchor: Wright County.

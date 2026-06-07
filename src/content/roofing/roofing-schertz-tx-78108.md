@@ -11,6 +11,7 @@ lng: -98.2500
 zipSample: ["78154", "78108", "78132"]
 zipCodes: ["78132", "78154", "78108"]
 localPaths: ["Bexar County / elevation 699 ft band", "Bexar County / ZIP 78132 sector", "Bexar County / primary ZIP 78108", "Bexar County / coords 29.5700, -98.2500", "Bexar County / ZIP 78154 sector"]
+zillowHomeValueUsd: 330397
 ---
 
 **Engineering Notice for Schertz:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Bexar County.

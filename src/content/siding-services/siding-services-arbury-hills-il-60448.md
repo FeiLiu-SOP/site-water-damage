@@ -12,6 +12,7 @@ lng: -87.8500
 zipSample: ["60448"]
 zipCodes: ["60448"]
 localPaths: ["Will County / elevation 728 ft band", "Will County / ZIP 60448 sector", "Will County / primary ZIP 60448", "Will County / coords 41.5400, -87.8500"]
+zillowHomeValueUsd: 438004
 ---
 
 **Engineering Notice for Arbury Hills:** Cladding verification uses 102 mph routing baseline; lateral pressure note: 13.4 psf. Elevation: 728 ft AMSL. Coordinates: 41.5400, -87.8500. Grid: Will County.

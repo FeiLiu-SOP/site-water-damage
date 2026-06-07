@@ -12,6 +12,7 @@ lng: -112.0400
 zipSample: ["84340"]
 zipCodes: ["84340"]
 localPaths: ["Box Elder County / coords 41.4100, -112.0400", "Box Elder County / primary ZIP 84340", "Box Elder County / elevation 4288 ft band", "Box Elder County / ZIP 84340 sector"]
+zillowHomeValueUsd: 584715
 ---
 
 **Engineering Notice for Willard:** Structural integrity verification: Wall Restoration calibrated for 103 mph localized wind load factor. Regional dispatch grid: Box Elder County.

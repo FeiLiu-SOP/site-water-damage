@@ -12,6 +12,7 @@ lng: -95.0000
 zipSample: ["50583"]
 zipCodes: ["50583"]
 localPaths: ["Sac County / ZIP 50583 sector", "Sac County / primary ZIP 50583", "Sac County / coords 42.4200, -95.0000", "Sac County / elevation 1260 ft band"]
+zillowHomeValueUsd: 141936
 ---
 
 **Engineering Notice for Sac City:** System optimized for 157 mg/L hard water scaling factors in Sac City. Regional dispatch grid: Sac County.

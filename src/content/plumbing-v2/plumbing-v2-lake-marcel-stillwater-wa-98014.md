@@ -12,6 +12,7 @@ lng: -121.9200
 zipSample: ["98014"]
 zipCodes: ["98014"]
 localPaths: ["King County / elevation 328 ft band", "King County / primary ZIP 98014", "King County / coords 47.6900, -121.9200", "King County / ZIP 98014 sector"]
+zillowHomeValueUsd: 1034188
 ---
 
 **Engineering Notice for Lake Marcel-Stillwater:** System optimized for 122 mg/L hard water scaling factors in Lake Marcel-Stillwater. Regional dispatch grid: King County.

@@ -11,6 +11,7 @@ lng: -77.2100
 zipSample: ["22046", "22043"]
 zipCodes: ["22046", "22043"]
 localPaths: ["Fairfax County / ZIP 22046 sector", "Fairfax County / ZIP 22043 sector", "Fairfax County / elevation 433 ft band", "Fairfax County / coords 38.8900, -77.2100", "Fairfax County / primary ZIP 22046"]
+zillowHomeValueUsd: 1052546
 ---
 
 **Engineering Notice for Idylwood:** Structural loading calculated based on 433 ft terrain assessment. Regional dispatch grid: Fairfax County.

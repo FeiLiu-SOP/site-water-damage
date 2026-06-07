@@ -12,6 +12,7 @@ lng: -87.0500
 zipSample: ["35148", "35062"]
 zipCodes: ["35062", "35148"]
 localPaths: ["Walker County / primary ZIP 35062", "Walker County / elevation 456 ft band", "Walker County / ZIP 35148 sector", "Walker County / ZIP 35062 sector", "Walker County / coords 33.7500, -87.0500"]
+zillowHomeValueUsd: 181128
 ---
 
 **Engineering Notice for Sumiton:** Site context locked to Walker County. Coordinates: 33.7500, -87.0500. Cladding Retrofit integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -84.9400
 zipSample: ["46737"]
 zipCodes: ["46737"]
 localPaths: ["Steuben County / ZIP 46737 sector", "Steuben County / coords 41.7300, -84.9400", "Steuben County / primary ZIP 46737", "Steuben County / elevation 1047 ft band"]
+zillowHomeValueUsd: 368234
 ---
 
 **Engineering Notice for Fremont:** System optimized for 172 mg/L hard water scaling factors in Fremont. Regional dispatch grid: Steuben County.

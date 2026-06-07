@@ -11,6 +11,7 @@ lng: -86.9900
 zipSample: ["35601", "35603", "35609", "35602"]
 zipCodes: ["35601", "35602", "35609", "35603"]
 localPaths: ["Morgan County / ZIP 35603 sector", "Morgan County / primary ZIP 35603", "Morgan County / coords 34.5700, -86.9900", "Morgan County / ZIP 35602 sector", "Morgan County / ZIP 35601 sector"]
+zillowHomeValueUsd: 280538
 ---
 
 **Engineering Notice for Decatur:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Morgan County.

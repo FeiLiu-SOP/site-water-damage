@@ -12,6 +12,7 @@ lng: -75.5200
 zipSample: ["19901"]
 zipCodes: ["19901"]
 localPaths: ["Kent County / coords 39.1300, -75.5200", "Kent County / ZIP 19901 sector", "Kent County / primary ZIP 19901", "Kent County / elevation 46 ft band"]
+zillowHomeValueUsd: 330654
 ---
 
 **Engineering Notice for Kent Acres:** structural drying capacity optimized for 46ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kent County. Relative Humidity Threshold: 82%. Sensor sync: Active.

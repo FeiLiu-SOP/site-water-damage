@@ -12,6 +12,7 @@ lng: -86.1000
 zipSample: ["35161", "35160"]
 zipCodes: ["35160", "35161"]
 localPaths: ["Talladega County / ZIP 35161 sector", "Talladega County / elevation 597 ft band", "Talladega County / coords 33.4300, -86.1000", "Talladega County / ZIP 35160 sector", "Talladega County / primary ZIP 35160"]
+zillowHomeValueUsd: 145156
 ---
 
 **Engineering Notice for Talladega:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Talladega County.

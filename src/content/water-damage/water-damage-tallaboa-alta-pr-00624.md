@@ -12,6 +12,8 @@ lng: -66.7000
 zipSample: ["00624"]
 zipCodes: ["00624"]
 localPaths: ["Peñuelas County / coords 18.0500, -66.7000", "Peñuelas County / primary ZIP 00624", "Peñuelas County / ZIP 00624 sector", "Peñuelas County / elevation 322 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 358525
 ---
 
 **Engineering Notice for Tallaboa Alta:** structural drying capacity optimized for 322ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Peñuelas County. Relative Humidity Threshold: 85%. Sensor sync: Active.

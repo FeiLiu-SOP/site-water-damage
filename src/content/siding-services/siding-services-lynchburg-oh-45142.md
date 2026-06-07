@@ -12,6 +12,7 @@ lng: -83.7900
 zipSample: ["45142"]
 zipCodes: ["45142"]
 localPaths: ["Highland County / ZIP 45142 sector", "Highland County / coords 39.2400, -83.7900", "Highland County / elevation 1020 ft band", "Highland County / primary ZIP 45142"]
+zillowHomeValueUsd: 211807
 ---
 
 **Engineering Notice for Lynchburg:** Structural integrity verification: Surface Sheathing calibrated for 94 mph localized wind load factor. Elevation: 1020 ft AMSL. Regional dispatch grid: Highland County.

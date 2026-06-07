@@ -12,6 +12,7 @@ lng: -116.1300
 zipSample: ["92274"]
 zipCodes: ["92274"]
 localPaths: ["Riverside County / ZIP 92274 sector", "Riverside County / coords 33.6300, -116.1300", "Riverside County / elevation -133 ft band", "Riverside County / primary ZIP 92274"]
+zillowHomeValueUsd: 301820
 ---
 
 **Engineering Notice for Thermal:** System optimized for 142 mg/L hard water scaling factors in Thermal. Regional dispatch grid: Riverside County.

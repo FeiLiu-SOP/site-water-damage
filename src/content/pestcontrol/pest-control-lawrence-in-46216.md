@@ -11,6 +11,7 @@ lng: -85.9900
 zipSample: ["46235", "46249", "46216", "46236", "46226"]
 zipCodes: ["46226", "46249", "46236", "46216", "46235"]
 localPaths: ["Marion County / ZIP 46235 sector", "Marion County / ZIP 46226 sector", "Marion County / ZIP 46216 sector", "Marion County / ZIP 46236 sector", "Marion County / primary ZIP 46216"]
+zillowHomeValueUsd: 309760
 ---
 
 **Engineering Notice for Lawrence:** Structural loading calculated based on 856 ft terrain assessment. Regional dispatch grid: Marion County.

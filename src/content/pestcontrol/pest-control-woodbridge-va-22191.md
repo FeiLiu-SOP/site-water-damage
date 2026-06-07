@@ -11,6 +11,7 @@ lng: -77.2600
 zipSample: ["22191", "22195", "22194"]
 zipCodes: ["22191", "22194", "22195"]
 localPaths: ["Prince William County / ZIP 22191 sector", "Prince William County / ZIP 22194 sector", "Prince William County / ZIP 22195 sector", "Prince William County / coords 38.6400, -77.2600", "Prince William County / primary ZIP 22191"]
+zillowHomeValueUsd: 489083
 ---
 
 **Engineering Notice for Woodbridge:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Prince William County.

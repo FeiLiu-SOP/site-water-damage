@@ -12,6 +12,7 @@ lng: -122.6800
 zipSample: ["97034", "97068"]
 zipCodes: ["97068", "97034"]
 localPaths: ["Clackamas County / ZIP 97068 sector", "Clackamas County / primary ZIP 97068", "Clackamas County / elevation 253 ft band", "Clackamas County / ZIP 97034 sector", "Clackamas County / coords 45.3800, -122.6800"]
+zillowHomeValueUsd: 773651
 ---
 
 **Engineering Notice for Stafford:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Elevation: 253 ft AMSL. Grid: Clackamas County.

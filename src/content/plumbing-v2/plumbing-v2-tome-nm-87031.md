@@ -12,6 +12,7 @@ lng: -106.7300
 zipSample: ["87060", "87031"]
 zipCodes: ["87031", "87060"]
 localPaths: ["Valencia County / coords 34.7400, -106.7300", "Valencia County / ZIP 87031 sector", "Valencia County / primary ZIP 87031", "Valencia County / elevation 4823 ft band", "Valencia County / ZIP 87060 sector"]
+zillowHomeValueUsd: 323887
 ---
 
 **Engineering Notice for Tome:** System optimized for 166 mg/L hard water scaling factors in Tome. Regional dispatch grid: Valencia County.

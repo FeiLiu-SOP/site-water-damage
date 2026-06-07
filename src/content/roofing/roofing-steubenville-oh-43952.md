@@ -11,6 +11,7 @@ lng: -80.6500
 zipSample: ["43953", "43952"]
 zipCodes: ["43953", "43952"]
 localPaths: ["Jefferson County / primary ZIP 43952", "Jefferson County / coords 40.3700, -80.6500", "Jefferson County / ZIP 43952 sector", "Jefferson County / elevation 1129 ft band", "Jefferson County / ZIP 43953 sector"]
+zillowHomeValueUsd: 105717
 ---
 
 **Engineering Notice for Steubenville:** Structural loading calculated based on 1129 ft terrain assessment. Regional dispatch grid: Jefferson County.

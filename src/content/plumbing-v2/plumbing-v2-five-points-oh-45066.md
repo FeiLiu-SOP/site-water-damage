@@ -12,6 +12,7 @@ lng: -84.1900
 zipSample: ["45066"]
 zipCodes: ["45066"]
 localPaths: ["Warren County / ZIP 45066 sector", "Warren County / primary ZIP 45066", "Warren County / elevation 1001 ft band", "Warren County / coords 39.5600, -84.1900"]
+zillowHomeValueUsd: 428415
 ---
 
 **Engineering Notice for Five Points:** System optimized for 178 mg/L hard water scaling factors in Five Points. Regional dispatch grid: Warren County.

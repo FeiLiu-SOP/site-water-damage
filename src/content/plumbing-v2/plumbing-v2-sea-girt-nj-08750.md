@@ -12,6 +12,7 @@ lng: -74.0400
 zipSample: ["08750"]
 zipCodes: ["08750"]
 localPaths: ["Monmouth County / primary ZIP 08750", "Monmouth County / ZIP 08750 sector", "Monmouth County / coords 40.1300, -74.0400", "Monmouth County / elevation 23 ft band"]
+zillowHomeValueUsd: 2412345
 ---
 
 **Engineering Notice for Sea Girt:** System optimized for 157 mg/L hard water scaling factors in Sea Girt. Regional dispatch grid: Monmouth County.

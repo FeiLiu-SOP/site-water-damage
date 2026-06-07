@@ -12,6 +12,7 @@ lng: -121.9900
 zipSample: ["98272", "98290"]
 zipCodes: ["98290", "98272"]
 localPaths: ["Snohomish County / coords 47.8800, -121.9900", "Snohomish County / ZIP 98290 sector", "Snohomish County / primary ZIP 98290", "Snohomish County / elevation 285 ft band", "Snohomish County / ZIP 98272 sector"]
+zillowHomeValueUsd: 846882
 ---
 
 **Engineering Notice for Monroe North:** Cladding verification uses 97 mph routing baseline; lateral pressure note: 12.8 psf. Grid: Snohomish County.

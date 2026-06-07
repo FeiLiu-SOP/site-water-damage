@@ -12,6 +12,7 @@ lng: -75.0900
 zipSample: ["19012"]
 zipCodes: ["19012"]
 localPaths: ["Montgomery County / coords 40.0600, -75.0900", "Montgomery County / ZIP 19012 sector", "Montgomery County / primary ZIP 19012", "Montgomery County / elevation 171 ft band"]
+zillowHomeValueUsd: 392218
 ---
 
 **Engineering Notice for Cheltenham Village:** structural drying capacity optimized for 171ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Montgomery County. Relative Humidity Threshold: 79%. Sensor sync: Active.

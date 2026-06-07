@@ -12,6 +12,7 @@ lng: -88.4500
 zipSample: ["49946"]
 zipCodes: ["49946"]
 localPaths: ["Baraga County / primary ZIP 49946", "Baraga County / elevation 715 ft band", "Baraga County / coords 46.7500, -88.4500", "Baraga County / ZIP 49946 sector"]
+zillowHomeValueUsd: 164633
 ---
 
 **Engineering Notice for L'Anse:** System optimized for 147 mg/L hard water scaling factors in L'Anse. Regional dispatch grid: Baraga County.

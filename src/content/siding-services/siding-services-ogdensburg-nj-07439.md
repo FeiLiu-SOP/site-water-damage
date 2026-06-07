@@ -12,6 +12,7 @@ lng: -74.6000
 zipSample: ["07439"]
 zipCodes: ["07439"]
 localPaths: ["Sussex County / primary ZIP 07439", "Sussex County / coords 41.0800, -74.6000", "Sussex County / ZIP 07439 sector", "Sussex County / elevation 597 ft band"]
+zillowHomeValueUsd: 421698
 ---
 
 **Engineering Notice for Ogdensburg:** Envelope check: Panel Replacement assigned to wind-load band A with stress factor 0.88. Elevation: 597 ft AMSL. Regional dispatch grid: Sussex County.

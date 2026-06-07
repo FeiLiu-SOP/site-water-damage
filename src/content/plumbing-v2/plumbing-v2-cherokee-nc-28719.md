@@ -12,6 +12,8 @@ lng: -83.3000
 zipSample: ["28719"]
 zipCodes: ["28719"]
 localPaths: ["Swain County / elevation 2490 ft band", "Swain County / primary ZIP 28719", "Swain County / coords 35.4900, -83.3000", "Swain County / ZIP 28719 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 323712
 ---
 
 **Engineering Notice for Cherokee:** System optimized for 121 mg/L hard water scaling factors in Cherokee. Regional dispatch grid: Swain County.

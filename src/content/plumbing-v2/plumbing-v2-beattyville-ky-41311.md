@@ -12,6 +12,7 @@ lng: -83.7100
 zipSample: ["41311"]
 zipCodes: ["41311"]
 localPaths: ["Lee County / coords 37.5900, -83.7100", "Lee County / ZIP 41311 sector", "Lee County / primary ZIP 41311", "Lee County / elevation 919 ft band"]
+zillowHomeValueUsd: 119390
 ---
 
 **Engineering Notice for Beattyville:** System optimized for 128 mg/L hard water scaling factors in Beattyville. Regional dispatch grid: Lee County.

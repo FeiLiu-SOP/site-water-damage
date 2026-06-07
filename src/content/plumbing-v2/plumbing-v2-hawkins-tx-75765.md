@@ -12,6 +12,7 @@ lng: -95.2000
 zipSample: ["75765"]
 zipCodes: ["75765"]
 localPaths: ["Wood County / ZIP 75765 sector", "Wood County / coords 32.5900, -95.2000", "Wood County / primary ZIP 75765", "Wood County / elevation 430 ft band"]
+zillowHomeValueUsd: 256116
 ---
 
 **Engineering Notice for Hawkins:** System optimized for 140 mg/L hard water scaling factors in Hawkins. Regional dispatch grid: Wood County.

@@ -12,6 +12,7 @@ lng: -90.0400
 zipSample: ["61434"]
 zipCodes: ["61434"]
 localPaths: ["Henry County / primary ZIP 61434", "Henry County / elevation 846 ft band", "Henry County / ZIP 61434 sector", "Henry County / coords 41.1700, -90.0400"]
+zillowHomeValueUsd: 107203
 ---
 
 **Engineering Notice for Galva:** System optimized for 159 mg/L hard water scaling factors in Galva. Regional dispatch grid: Henry County.

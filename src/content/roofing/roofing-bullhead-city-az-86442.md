@@ -11,6 +11,7 @@ lng: -114.5500
 zipSample: ["86442", "86430", "86429", "86439"]
 zipCodes: ["86442", "86439", "86430", "86429"]
 localPaths: ["Mohave County / primary ZIP 86442", "Mohave County / ZIP 86430 sector", "Mohave County / elevation 935 ft band", "Mohave County / ZIP 86439 sector", "Mohave County / ZIP 86429 sector"]
+zillowHomeValueUsd: 270505
 ---
 
 **Engineering Notice for Bullhead City:** Structural loading calculated based on 935 ft terrain assessment. Regional dispatch grid: Mohave County.

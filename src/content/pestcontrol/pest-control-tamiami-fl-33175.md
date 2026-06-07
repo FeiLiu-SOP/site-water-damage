@@ -11,6 +11,7 @@ lng: -80.4000
 zipSample: ["33184", "33182", "33175", "33265"]
 zipCodes: ["33184", "33182", "33265", "33175"]
 localPaths: ["Miami-Dade County / ZIP 33184 sector", "Miami-Dade County / ZIP 33182 sector", "Miami-Dade County / primary ZIP 33175", "Miami-Dade County / ZIP 33175 sector", "Miami-Dade County / coords 25.7600, -80.4000"]
+zillowHomeValueUsd: 622065
 ---
 
 **Engineering Notice for Tamiami:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

@@ -11,6 +11,7 @@ lng: -85.8500
 zipSample: ["36331", "36330"]
 zipCodes: ["36330", "36331"]
 localPaths: ["Coffee County / coords 31.3300, -85.8500", "Coffee County / elevation 338 ft band", "Coffee County / primary ZIP 36330", "Coffee County / ZIP 36330 sector", "Coffee County / ZIP 36331 sector"]
+zillowHomeValueUsd: 203867
 ---
 
 **Engineering Notice for Enterprise:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Coffee County.

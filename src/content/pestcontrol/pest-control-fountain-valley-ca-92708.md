@@ -11,6 +11,7 @@ lng: -117.9500
 zipSample: ["92728", "92708"]
 zipCodes: ["92728", "92708"]
 localPaths: ["Orange County / primary ZIP 92708", "Orange County / ZIP 92728 sector", "Orange County / coords 33.7100, -117.9500", "Orange County / ZIP 92708 sector", "Orange County / elevation 52 ft band"]
+zillowHomeValueUsd: 1395116
 ---
 
 **Engineering Notice for Fountain Valley:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Orange County.

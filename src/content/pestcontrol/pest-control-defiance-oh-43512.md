@@ -11,6 +11,7 @@ lng: -84.3700
 zipSample: ["43512"]
 zipCodes: ["43512"]
 localPaths: ["Defiance County / elevation 705 ft band", "Defiance County / ZIP 43512 sector", "Defiance County / coords 41.2800, -84.3700", "Defiance County / primary ZIP 43512"]
+zillowHomeValueUsd: 181003
 ---
 
 **Engineering Notice for Defiance:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: Defiance County.

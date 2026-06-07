@@ -12,6 +12,7 @@ lng: -119.4900
 zipSample: ["98851"]
 zipCodes: ["98851"]
 localPaths: ["Grant County / ZIP 98851 sector", "Grant County / elevation 1076 ft band", "Grant County / primary ZIP 98851", "Grant County / coords 47.3900, -119.4900"]
+zillowHomeValueUsd: 300457
 ---
 
 **Engineering Notice for Soap Lake:** System optimized for 153 mg/L hard water scaling factors in Soap Lake. Regional dispatch grid: Grant County.

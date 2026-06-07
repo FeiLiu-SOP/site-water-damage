@@ -11,6 +11,7 @@ lng: -84.2900
 zipSample: ["37830", "37831"]
 zipCodes: ["37831", "37830"]
 localPaths: ["Anderson County / elevation 935 ft band", "Anderson County / ZIP 37830 sector", "Anderson County / ZIP 37831 sector", "Anderson County / coords 35.9600, -84.2900", "Anderson County / primary ZIP 37830"]
+zillowHomeValueUsd: 324020
 ---
 
 **Engineering Notice for Oak Ridge:** Structural loading calculated based on 935 ft terrain assessment. Regional dispatch grid: Anderson County.

@@ -12,6 +12,7 @@ lng: -81.8600
 zipSample: ["44017"]
 zipCodes: ["44017"]
 localPaths: ["Cuyahoga County / primary ZIP 44017", "Cuyahoga County / ZIP 44017 sector", "Cuyahoga County / coords 41.3700, -81.8600", "Cuyahoga County / elevation 794 ft band"]
+zillowHomeValueUsd: 239230
 ---
 
 **Engineering Notice for Berea:** Structural loading calculated based on 794 ft terrain assessment. Regional dispatch grid: Cuyahoga County.

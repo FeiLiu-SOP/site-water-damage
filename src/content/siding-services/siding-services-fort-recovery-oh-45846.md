@@ -12,6 +12,7 @@ lng: -84.7800
 zipSample: ["45846"]
 zipCodes: ["45846"]
 localPaths: ["Mercer County / coords 40.4100, -84.7800", "Mercer County / ZIP 45846 sector", "Mercer County / primary ZIP 45846", "Mercer County / elevation 945 ft band"]
+zillowHomeValueUsd: 338809
 ---
 
 **Engineering Notice for Fort Recovery:** Surface Sheathing was validated under stress factor 0.75; target tolerance set near 103 mph. Grid anchor: Mercer County.

@@ -11,6 +11,7 @@ lng: -80.2100
 zipSample: ["33161", "33162", "33169", "33168"]
 zipCodes: ["33161", "33168", "33162", "33169"]
 localPaths: ["Miami-Dade County / ZIP 33169 sector", "Miami-Dade County / ZIP 33162 sector", "Miami-Dade County / primary ZIP 33162", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / coords 25.9100, -80.2100"]
+zillowHomeValueUsd: 463919
 ---
 
 **Engineering Notice for Biscayne Gardens:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

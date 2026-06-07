@@ -12,6 +12,7 @@ lng: -78.8400
 zipSample: ["15909", "15942"]
 zipCodes: ["15909", "15942"]
 localPaths: ["Cambria County / ZIP 15909 sector", "Cambria County / primary ZIP 15942", "Cambria County / elevation 1857 ft band", "Cambria County / coords 40.4100, -78.8400", "Cambria County / ZIP 15942 sector"]
+zillowHomeValueUsd: 136137
 ---
 
 **Engineering Notice for Vinco:** Structural integrity verification: Exterior Cladding calibrated for 106 mph localized wind load factor. Elevation: 1857 ft AMSL. Regional dispatch grid: Cambria County.

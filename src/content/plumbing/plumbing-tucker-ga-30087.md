@@ -12,6 +12,7 @@ lng: -84.2000
 zipSample: ["30084", "30085", "30087", "30083"]
 zipCodes: ["30084", "30083", "30085", "30087"]
 localPaths: ["DeKalb County / coords 33.8400, -84.2000", "DeKalb County / elevation 1079 ft band", "DeKalb County / ZIP 30083 sector", "DeKalb County / ZIP 30084 sector", "DeKalb County / primary ZIP 30087"]
+zillowHomeValueUsd: 346183
 ---
 
 **Engineering Notice for Tucker:** Structural loading calculated based on 1079 ft terrain assessment. Regional dispatch grid: DeKalb County.

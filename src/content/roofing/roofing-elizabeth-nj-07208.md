@@ -11,6 +11,7 @@ lng: -74.1900
 zipSample: ["07206", "07202", "07207", "07208", "07201"]
 zipCodes: ["07207", "07201", "07202", "07208", "07206"]
 localPaths: ["Union County / ZIP 07207 sector", "Union County / ZIP 07202 sector", "Union County / ZIP 07208 sector", "Union County / primary ZIP 07208", "Union County / coords 40.6700, -74.1900"]
+zillowHomeValueUsd: 572773
 ---
 
 **Engineering Notice for Elizabeth:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Union County.

@@ -12,6 +12,7 @@ lng: -77.0400
 zipSample: ["17316"]
 zipCodes: ["17316"]
 localPaths: ["Adams County / elevation 489 ft band", "Adams County / primary ZIP 17316", "Adams County / ZIP 17316 sector", "Adams County / coords 39.9800, -77.0400"]
+zillowHomeValueUsd: 350818
 ---
 
 **Engineering Notice for Lake Meade:** Site context locked to Adams County. Wall Restoration integrity verification recorded.

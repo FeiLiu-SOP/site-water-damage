@@ -12,6 +12,7 @@ lng: -90.8700
 zipSample: ["70737", "70778"]
 zipCodes: ["70737", "70778"]
 localPaths: ["Ascension Parish / primary ZIP 70778", "Ascension Parish / ZIP 70737 sector", "Ascension Parish / elevation 30 ft band", "Ascension Parish / coords 30.1800, -90.8700", "Ascension Parish / ZIP 70778 sector"]
+zillowHomeValueUsd: 277427
 ---
 
 **Engineering Notice for Sorrento:** Structural integrity verification: Weather Barrier Wrap calibrated for 104 mph localized wind load factor. Regional dispatch grid: Ascension Parish.

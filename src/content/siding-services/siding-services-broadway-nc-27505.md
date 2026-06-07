@@ -12,6 +12,7 @@ lng: -79.0500
 zipSample: ["27505"]
 zipCodes: ["27505"]
 localPaths: ["Lee County / elevation 469 ft band", "Lee County / ZIP 27505 sector", "Lee County / coords 35.4600, -79.0500", "Lee County / primary ZIP 27505"]
+zillowHomeValueUsd: 274836
 ---
 
 **Engineering Notice for Broadway:** Panel Replacement was validated under stress factor 1.04; target tolerance set near 99 mph. Coordinates: 35.4600, -79.0500. Grid anchor: Lee County.

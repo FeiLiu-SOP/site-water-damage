@@ -12,6 +12,7 @@ lng: -114.3100
 zipSample: ["86405", "86406", "86403", "86404"]
 zipCodes: ["86404", "86405", "86403", "86406"]
 localPaths: ["Mohave County / ZIP 86404 sector", "Mohave County / ZIP 86406 sector", "Mohave County / coords 34.5000, -114.3100", "Mohave County / ZIP 86405 sector", "Mohave County / ZIP 86403 sector"]
+zillowHomeValueUsd: 387975
 ---
 
 **Engineering Notice for Lake Havasu City:** Structural loading calculated based on 948 ft terrain assessment. Regional dispatch grid: Mohave County.

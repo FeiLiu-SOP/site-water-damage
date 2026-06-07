@@ -12,6 +12,7 @@ lng: -119.6400
 zipSample: ["93230"]
 zipCodes: ["93230"]
 localPaths: ["Kings County / primary ZIP 93230", "Kings County / elevation 240 ft band", "Kings County / ZIP 93230 sector", "Kings County / coords 36.3000, -119.6400"]
+zillowHomeValueUsd: 382681
 ---
 
 **Engineering Notice for Home Garden:** System optimized for 148 mg/L hard water scaling factors in Home Garden. Regional dispatch grid: Kings County.

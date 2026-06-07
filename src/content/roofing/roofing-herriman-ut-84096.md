@@ -11,6 +11,7 @@ lng: -112.0200
 zipSample: ["84096"]
 zipCodes: ["84096"]
 localPaths: ["Salt Lake County / elevation 5007 ft band", "Salt Lake County / primary ZIP 84096", "Salt Lake County / coords 40.4900, -112.0200", "Salt Lake County / ZIP 84096 sector"]
+zillowHomeValueUsd: 604146
 ---
 
 **Engineering Notice for Herriman:** Structural loading calculated based on 5007 ft terrain assessment. Regional dispatch grid: Salt Lake County.

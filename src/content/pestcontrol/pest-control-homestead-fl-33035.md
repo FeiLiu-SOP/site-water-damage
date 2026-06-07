@@ -11,6 +11,7 @@ lng: -80.4500
 zipSample: ["33030", "33033", "33035"]
 zipCodes: ["33030", "33035", "33033"]
 localPaths: ["Miami-Dade County / ZIP 33033 sector", "Miami-Dade County / coords 25.4700, -80.4500", "Miami-Dade County / primary ZIP 33035", "Miami-Dade County / ZIP 33030 sector", "Miami-Dade County / elevation 20 ft band"]
+zillowHomeValueUsd: 338350
 ---
 
 **Engineering Notice for Homestead:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

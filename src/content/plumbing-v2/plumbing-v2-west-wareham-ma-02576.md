@@ -12,6 +12,7 @@ lng: -70.7500
 zipSample: ["02571", "02576"]
 zipCodes: ["02571", "02576"]
 localPaths: ["Plymouth County / coords 41.7900, -70.7500", "Plymouth County / ZIP 02571 sector", "Plymouth County / ZIP 02576 sector", "Plymouth County / elevation 72 ft band", "Plymouth County / primary ZIP 02576"]
+zillowHomeValueUsd: 486687
 ---
 
 **Engineering Notice for West Wareham:** System optimized for 163 mg/L hard water scaling factors in West Wareham. Regional dispatch grid: Plymouth County.

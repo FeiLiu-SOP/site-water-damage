@@ -12,6 +12,7 @@ lng: -94.6500
 zipSample: ["75962", "75961", "75964", "75963", "75965"]
 zipCodes: ["75965", "75964", "75962", "75963", "75961"]
 localPaths: ["Nacogdoches County / ZIP 75965 sector", "Nacogdoches County / elevation 338 ft band", "Nacogdoches County / ZIP 75961 sector", "Nacogdoches County / ZIP 75962 sector", "Nacogdoches County / ZIP 75964 sector"]
+zillowHomeValueUsd: 187108
 ---
 
 **Engineering Notice for Nacogdoches:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Nacogdoches County.

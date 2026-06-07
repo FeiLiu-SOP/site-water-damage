@@ -12,6 +12,7 @@ lng: -89.3900
 zipSample: ["39402"]
 zipCodes: ["39402"]
 localPaths: ["Forrest County / elevation 233 ft band", "Forrest County / ZIP 39402 sector", "Forrest County / primary ZIP 39402", "Forrest County / coords 31.3800, -89.3900"]
+zillowHomeValueUsd: 276476
 ---
 
 **Engineering Notice for Rawls Springs:** Site context locked to Forrest County. Exterior Envelope integrity verification recorded.

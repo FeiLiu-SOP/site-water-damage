@@ -12,6 +12,7 @@ lng: -80.2000
 zipSample: ["34958", "34996"]
 zipCodes: ["34958", "34996"]
 localPaths: ["Martin County / ZIP 34958 sector", "Martin County / elevation 33 ft band", "Martin County / ZIP 34996 sector", "Martin County / primary ZIP 34996", "Martin County / coords 27.2000, -80.2000"]
+zillowHomeValueUsd: 430788
 ---
 
 **Engineering Notice for Sewall's Point:** System optimized for 141 mg/L hard water scaling factors in Sewall's Point. Regional dispatch grid: Martin County.

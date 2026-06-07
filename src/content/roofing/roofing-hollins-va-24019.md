@@ -11,6 +11,7 @@ lng: -79.9500
 zipSample: ["24019", "24050", "24020"]
 zipCodes: ["24050", "24019", "24020"]
 localPaths: ["Roanoke County / elevation 1112 ft band", "Roanoke County / ZIP 24020 sector", "Roanoke County / coords 37.3400, -79.9500", "Roanoke County / ZIP 24050 sector", "Roanoke County / primary ZIP 24019"]
+zillowHomeValueUsd: 306217
 ---
 
 **Engineering Notice for Hollins:** Structural loading calculated based on 1112 ft terrain assessment. Regional dispatch grid: Roanoke County.

@@ -12,6 +12,7 @@ lng: -116.2100
 zipSample: ["92274", "92236"]
 zipCodes: ["92274", "92236"]
 localPaths: ["Riverside County / primary ZIP 92274", "Riverside County / elevation -83 ft band", "Riverside County / coords 33.6200, -116.2100", "Riverside County / ZIP 92274 sector", "Riverside County / ZIP 92236 sector"]
+zillowHomeValueUsd: 301821
 ---
 
 **Engineering Notice for Vista Santa Rosa:** System optimized for 156 mg/L hard water scaling factors in Vista Santa Rosa. Regional dispatch grid: Riverside County.

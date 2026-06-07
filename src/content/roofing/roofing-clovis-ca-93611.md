@@ -11,6 +11,7 @@ lng: -119.6800
 zipSample: ["93612", "93747", "93611", "93619", "93613"]
 zipCodes: ["93613", "93747", "93611", "93619", "93612"]
 localPaths: ["Fresno County / primary ZIP 93611", "Fresno County / ZIP 93611 sector", "Fresno County / ZIP 93613 sector", "Fresno County / ZIP 93747 sector", "Fresno County / elevation 381 ft band"]
+zillowHomeValueUsd: 499429
 ---
 
 **Engineering Notice for Clovis:** Structural loading calculated based on 381 ft terrain assessment. Regional dispatch grid: Fresno County.

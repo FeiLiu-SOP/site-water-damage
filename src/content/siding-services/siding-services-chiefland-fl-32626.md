@@ -12,6 +12,7 @@ lng: -82.8700
 zipSample: ["32626", "32644"]
 zipCodes: ["32626", "32644"]
 localPaths: ["Levy County / ZIP 32626 sector", "Levy County / elevation 108 ft band", "Levy County / primary ZIP 32626", "Levy County / ZIP 32644 sector", "Levy County / coords 29.4900, -82.8700"]
+zillowHomeValueUsd: 277886
 ---
 
 **Engineering Notice for Chiefland:** Envelope check: Wall Restoration assigned to wind-load band C with stress factor 1.17. Elevation: 108 ft AMSL. Regional dispatch grid: Levy County.

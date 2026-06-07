@@ -12,6 +12,7 @@ lng: -79.7600
 zipSample: ["15140", "15146"]
 zipCodes: ["15140", "15146"]
 localPaths: ["Allegheny County / ZIP 15140 sector", "Allegheny County / coords 40.4300, -79.7600", "Allegheny County / elevation 1184 ft band", "Allegheny County / primary ZIP 15140", "Allegheny County / ZIP 15146 sector"]
+zillowHomeValueUsd: 88176
 ---
 
 **Engineering Notice for Monroeville:** Structural loading calculated based on 1184 ft terrain assessment. Regional dispatch grid: Allegheny County.

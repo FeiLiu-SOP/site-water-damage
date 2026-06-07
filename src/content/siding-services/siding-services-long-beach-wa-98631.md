@@ -12,6 +12,7 @@ lng: -124.0600
 zipSample: ["98631"]
 zipCodes: ["98631"]
 localPaths: ["Pacific County / elevation 20 ft band", "Pacific County / ZIP 98631 sector", "Pacific County / primary ZIP 98631", "Pacific County / coords 46.3600, -124.0600"]
+zillowHomeValueUsd: 347466
 ---
 
 **Engineering Notice for Long Beach:** Cladding Service was validated under stress factor 1.00; target tolerance set near 98 mph. Coordinates: 46.3600, -124.0600. Grid anchor: Pacific County.

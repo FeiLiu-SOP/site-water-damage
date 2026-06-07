@@ -12,6 +12,7 @@ lng: -74.0800
 zipSample: ["07718"]
 zipCodes: ["07718"]
 localPaths: ["Monmouth County / coords 40.4300, -74.0800", "Monmouth County / ZIP 07718 sector", "Monmouth County / primary ZIP 07718", "Monmouth County / elevation 13 ft band"]
+zillowHomeValueUsd: 615310
 ---
 
 **Engineering Notice for Belford:** structural drying capacity optimized for 13ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Monmouth County. Relative Humidity Threshold: 72%. Sensor sync: Active.

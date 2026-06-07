@@ -12,6 +12,7 @@ lng: -83.6500
 zipSample: ["45814"]
 zipCodes: ["45814"]
 localPaths: ["Hancock County / primary ZIP 45814", "Hancock County / elevation 863 ft band", "Hancock County / ZIP 45814 sector", "Hancock County / coords 40.8900, -83.6500"]
+zillowHomeValueUsd: 235707
 ---
 
 **Engineering Notice for Arlington:** Cladding Service was validated under stress factor 0.71; target tolerance set near 90 mph. Coordinates: 40.8900, -83.6500. Grid anchor: Hancock County.

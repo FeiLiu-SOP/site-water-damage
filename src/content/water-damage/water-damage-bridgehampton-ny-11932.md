@@ -12,6 +12,7 @@ lng: -72.3100
 zipSample: ["11932", "11962", "11976"]
 zipCodes: ["11976", "11932", "11962"]
 localPaths: ["Suffolk County / primary ZIP 11932", "Suffolk County / coords 40.9400, -72.3100", "Suffolk County / ZIP 11962 sector", "Suffolk County / elevation 23 ft band", "Suffolk County / ZIP 11932 sector"]
+zillowHomeValueUsd: 4586466
 ---
 
 **Engineering Notice for Bridgehampton:** structural drying capacity optimized for 23ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Suffolk County. Relative Humidity Threshold: 72%. Sensor sync: Active.

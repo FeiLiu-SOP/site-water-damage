@@ -12,6 +12,7 @@ lng: -95.3000
 zipSample: ["77306"]
 zipCodes: ["77306"]
 localPaths: ["Montgomery County / elevation 210 ft band", "Montgomery County / primary ZIP 77306", "Montgomery County / ZIP 77306 sector", "Montgomery County / coords 30.3200, -95.3000"]
+zillowHomeValueUsd: 228620
 ---
 
 **Engineering Notice for Deerwood:** structural drying capacity optimized for 210ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Montgomery County. Relative Humidity Threshold: 81%. Sensor sync: Active.

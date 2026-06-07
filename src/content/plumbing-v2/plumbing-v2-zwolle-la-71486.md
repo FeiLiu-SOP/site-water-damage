@@ -12,6 +12,7 @@ lng: -93.6400
 zipSample: ["71486"]
 zipCodes: ["71486"]
 localPaths: ["Sabine Parish / elevation 256 ft band", "Sabine Parish / coords 31.6400, -93.6400", "Sabine Parish / primary ZIP 71486", "Sabine Parish / ZIP 71486 sector"]
+zillowHomeValueUsd: 187513
 ---
 
 **Engineering Notice for Zwolle:** System optimized for 136 mg/L hard water scaling factors in Zwolle. Regional dispatch grid: Sabine Parish.

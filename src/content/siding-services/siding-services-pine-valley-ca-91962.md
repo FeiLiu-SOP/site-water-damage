@@ -12,6 +12,7 @@ lng: -116.5100
 zipSample: ["91962"]
 zipCodes: ["91962"]
 localPaths: ["San Diego County / ZIP 91962 sector", "San Diego County / coords 32.8400, -116.5100", "San Diego County / primary ZIP 91962", "San Diego County / elevation 4081 ft band"]
+zillowHomeValueUsd: 652292
 ---
 
 **Engineering Notice for Pine Valley:** Envelope check: Exterior Cladding assigned to wind-load band B with stress factor 1.15. Regional dispatch grid: San Diego County.

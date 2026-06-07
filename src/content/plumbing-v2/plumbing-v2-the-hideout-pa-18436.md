@@ -12,6 +12,7 @@ lng: -75.3500
 zipSample: ["18436"]
 zipCodes: ["18436"]
 localPaths: ["Wayne County / primary ZIP 18436", "Wayne County / elevation 1345 ft band", "Wayne County / ZIP 18436 sector", "Wayne County / coords 41.4400, -75.3500"]
+zillowHomeValueUsd: 303555
 ---
 
 **Engineering Notice for The Hideout:** System optimized for 133 mg/L hard water scaling factors in The Hideout. Regional dispatch grid: Wayne County.

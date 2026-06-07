@@ -12,6 +12,7 @@ lng: -101.6000
 zipSample: ["79036"]
 zipCodes: ["79036"]
 localPaths: ["Hutchinson County / coords 35.6400, -101.6000", "Hutchinson County / primary ZIP 79036", "Hutchinson County / elevation 3215 ft band", "Hutchinson County / ZIP 79036 sector"]
+zillowHomeValueUsd: 154865
 ---
 
 **Engineering Notice for Fritch:** System optimized for 158 mg/L hard water scaling factors in Fritch. Regional dispatch grid: Hutchinson County.

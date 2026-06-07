@@ -12,6 +12,7 @@ lng: -122.5600
 zipSample: ["98604"]
 zipCodes: ["98604"]
 localPaths: ["Clark County / primary ZIP 98604", "Clark County / elevation 328 ft band", "Clark County / coords 45.7500, -122.5600", "Clark County / ZIP 98604 sector"]
+zillowHomeValueUsd: 605400
 ---
 
 **Engineering Notice for Meadow Glade:** System optimized for 137 mg/L hard water scaling factors in Meadow Glade. Regional dispatch grid: Clark County.

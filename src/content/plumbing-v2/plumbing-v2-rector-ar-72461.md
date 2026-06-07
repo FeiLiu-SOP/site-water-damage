@@ -12,6 +12,7 @@ lng: -90.2900
 zipSample: ["72461"]
 zipCodes: ["72461"]
 localPaths: ["Clay County / ZIP 72461 sector", "Clay County / primary ZIP 72461", "Clay County / elevation 292 ft band", "Clay County / coords 36.2600, -90.2900"]
+zillowHomeValueUsd: 126628
 ---
 
 **Engineering Notice for Rector:** System optimized for 159 mg/L hard water scaling factors in Rector. Regional dispatch grid: Clay County.

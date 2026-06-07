@@ -12,6 +12,7 @@ lng: -82.8800
 zipSample: ["43021"]
 zipCodes: ["43021"]
 localPaths: ["Delaware County / coords 40.2200, -82.8800", "Delaware County / primary ZIP 43021", "Delaware County / elevation 919 ft band", "Delaware County / ZIP 43021 sector"]
+zillowHomeValueUsd: 640044
 ---
 
 **Engineering Notice for Galena:** structural drying capacity optimized for 919ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Delaware County. Relative Humidity Threshold: 70%. Sensor sync: Active.

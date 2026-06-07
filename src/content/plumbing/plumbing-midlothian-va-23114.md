@@ -12,6 +12,7 @@ lng: -77.6500
 zipSample: ["23113", "23114"]
 zipCodes: ["23114", "23113"]
 localPaths: ["Chesterfield County / primary ZIP 23114", "Chesterfield County / coords 37.4900, -77.6500", "Chesterfield County / ZIP 23113 sector", "Chesterfield County / ZIP 23114 sector", "Chesterfield County / elevation 285 ft band"]
+zillowHomeValueUsd: 466283
 ---
 
 **Engineering Notice for Midlothian:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Chesterfield County.

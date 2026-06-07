@@ -12,6 +12,7 @@ lng: -97.1500
 zipSample: ["76055"]
 zipCodes: ["76055"]
 localPaths: ["Hill County / coords 32.1600, -97.1500", "Hill County / primary ZIP 76055", "Hill County / elevation 705 ft band", "Hill County / ZIP 76055 sector"]
+zillowHomeValueUsd: 217858
 ---
 
 **Engineering Notice for Itasca:** Envelope check: Cladding Retrofit assigned to wind-load band C with stress factor 1.10. Regional dispatch grid: Hill County.

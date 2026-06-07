@@ -12,6 +12,7 @@ lng: -86.1700
 zipSample: ["49057"]
 zipCodes: ["49057"]
 localPaths: ["Van Buren County / elevation 676 ft band", "Van Buren County / ZIP 49057 sector", "Van Buren County / coords 42.2000, -86.1700", "Van Buren County / primary ZIP 49057"]
+zillowHomeValueUsd: 170826
 ---
 
 **Engineering Notice for Hartford:** Site context locked to Van Buren County. Surface Sheathing integrity verification recorded.

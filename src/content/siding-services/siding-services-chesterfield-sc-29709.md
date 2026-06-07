@@ -12,6 +12,7 @@ lng: -80.0800
 zipSample: ["29709"]
 zipCodes: ["29709"]
 localPaths: ["Chesterfield County / coords 34.7300, -80.0800", "Chesterfield County / primary ZIP 29709", "Chesterfield County / ZIP 29709 sector", "Chesterfield County / elevation 285 ft band"]
+zillowHomeValueUsd: 177734
 ---
 
 **Engineering Notice for Chesterfield:** Cladding Service was validated under stress factor 0.71; target tolerance set near 104 mph. Grid anchor: Chesterfield County.

@@ -12,6 +12,7 @@ lng: -118.1500
 zipSample: ["99122"]
 zipCodes: ["99122"]
 localPaths: ["Lincoln County / ZIP 99122 sector", "Lincoln County / primary ZIP 99122", "Lincoln County / elevation 2372 ft band", "Lincoln County / coords 47.6600, -118.1500"]
+zillowHomeValueUsd: 363552
 ---
 
 **Engineering Notice for Davenport:** System optimized for 175 mg/L hard water scaling factors in Davenport. Regional dispatch grid: Lincoln County.

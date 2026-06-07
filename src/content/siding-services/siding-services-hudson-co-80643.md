@@ -12,6 +12,7 @@ lng: -104.6200
 zipSample: ["80643", "80642"]
 zipCodes: ["80642", "80643"]
 localPaths: ["Weld County / primary ZIP 80643", "Weld County / ZIP 80642 sector", "Weld County / coords 40.0900, -104.6200", "Weld County / ZIP 80643 sector", "Weld County / elevation 4941 ft band"]
+zillowHomeValueUsd: 533908
 ---
 
 **Engineering Notice for Hudson:** Site context locked to Weld County. Facade Renewal integrity verification recorded.

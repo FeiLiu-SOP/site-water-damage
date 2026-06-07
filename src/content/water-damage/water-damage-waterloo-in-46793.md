@@ -12,6 +12,7 @@ lng: -85.0300
 zipSample: ["46793"]
 zipCodes: ["46793"]
 localPaths: ["DeKalb County / ZIP 46793 sector", "DeKalb County / coords 41.4300, -85.0300", "DeKalb County / primary ZIP 46793", "DeKalb County / elevation 925 ft band"]
+zillowHomeValueUsd: 250746
 ---
 
 **Engineering Notice for Waterloo:** structural drying capacity optimized for 925ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: DeKalb County. Relative Humidity Threshold: 84%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -98.6900
 zipSample: ["76310", "76366"]
 zipCodes: ["76366", "76310"]
 localPaths: ["Archer County / ZIP 76366 sector", "Archer County / elevation 1063 ft band", "Archer County / coords 33.8100, -98.6900", "Archer County / primary ZIP 76366", "Archer County / ZIP 76310 sector"]
+zillowHomeValueUsd: 191512
 ---
 
 **Engineering Notice for Holliday:** System optimized for 140 mg/L hard water scaling factors in Holliday. Regional dispatch grid: Archer County.

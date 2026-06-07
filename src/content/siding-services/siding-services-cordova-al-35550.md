@@ -12,6 +12,7 @@ lng: -87.1900
 zipSample: ["35550"]
 zipCodes: ["35550"]
 localPaths: ["Walker County / primary ZIP 35550", "Walker County / coords 33.7600, -87.1900", "Walker County / ZIP 35550 sector", "Walker County / elevation 472 ft band"]
+zillowHomeValueUsd: 94409
 ---
 
 **Engineering Notice for Cordova:** Envelope check: Cladding Service assigned to wind-load band C with stress factor 1.10. Elevation: 472 ft AMSL. Regional dispatch grid: Walker County.

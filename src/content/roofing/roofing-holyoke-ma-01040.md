@@ -11,6 +11,7 @@ lng: -72.6400
 zipSample: ["01041", "01040"]
 zipCodes: ["01041", "01040"]
 localPaths: ["Hampden County / ZIP 01040 sector", "Hampden County / coords 42.2100, -72.6400", "Hampden County / primary ZIP 01040", "Hampden County / elevation 509 ft band", "Hampden County / ZIP 01041 sector"]
+zillowHomeValueUsd: 323034
 ---
 
 **Engineering Notice for Holyoke:** Structural loading calculated based on 509 ft terrain assessment. Regional dispatch grid: Hampden County.

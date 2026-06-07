@@ -12,6 +12,7 @@ lng: -81.6200
 zipSample: ["32259"]
 zipCodes: ["32259"]
 localPaths: ["St. Johns County / elevation 39 ft band", "St. Johns County / ZIP 32259 sector", "St. Johns County / primary ZIP 32259", "St. Johns County / coords 30.1000, -81.6200"]
+zillowHomeValueUsd: 541893
 ---
 
 **Engineering Notice for Fruit Cove:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: St. Johns County.

@@ -12,6 +12,7 @@ lng: -88.4800
 zipSample: ["62467"]
 zipCodes: ["62467"]
 localPaths: ["Effingham County / primary ZIP 62467", "Effingham County / elevation 607 ft band", "Effingham County / coords 39.1300, -88.4800", "Effingham County / ZIP 62467 sector"]
+zillowHomeValueUsd: 260795
 ---
 
 **Engineering Notice for Teutopolis:** Cladding verification uses 107 mph routing baseline; lateral pressure note: 14.0 psf. Elevation: 607 ft AMSL. Grid: Effingham County.

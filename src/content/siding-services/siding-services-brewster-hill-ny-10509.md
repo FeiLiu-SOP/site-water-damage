@@ -12,6 +12,7 @@ lng: -73.6100
 zipSample: ["10509"]
 zipCodes: ["10509"]
 localPaths: ["Putnam County / coords 41.4200, -73.6100", "Putnam County / ZIP 10509 sector", "Putnam County / primary ZIP 10509", "Putnam County / elevation 594 ft band"]
+zillowHomeValueUsd: 518653
 ---
 
 **Engineering Notice for Brewster Hill:** Envelope check: Vinyl Panels assigned to wind-load band C with stress factor 0.88. Elevation: 594 ft AMSL. Regional dispatch grid: Putnam County.

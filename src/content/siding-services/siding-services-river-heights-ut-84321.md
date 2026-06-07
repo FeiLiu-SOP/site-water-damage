@@ -12,6 +12,7 @@ lng: -111.8200
 zipSample: ["84321"]
 zipCodes: ["84321"]
 localPaths: ["Cache County / ZIP 84321 sector", "Cache County / coords 41.7200, -111.8200", "Cache County / primary ZIP 84321", "Cache County / elevation 4567 ft band"]
+zillowHomeValueUsd: 421494
 ---
 
 **Engineering Notice for River Heights:** Exterior Envelope was validated under stress factor 1.08; target tolerance set near 96 mph. Coordinates: 41.7200, -111.8200. Grid anchor: Cache County.

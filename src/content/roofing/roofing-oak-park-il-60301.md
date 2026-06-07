@@ -11,6 +11,7 @@ lng: -87.7900
 zipSample: ["60301", "60303", "60304", "60302"]
 zipCodes: ["60303", "60301", "60302", "60304"]
 localPaths: ["Cook County / coords 41.8900, -87.7900", "Cook County / ZIP 60304 sector", "Cook County / ZIP 60303 sector", "Cook County / ZIP 60302 sector", "Cook County / primary ZIP 60301"]
+zillowHomeValueUsd: 272666
 ---
 
 **Engineering Notice for Oak Park:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Cook County.

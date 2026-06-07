@@ -12,6 +12,7 @@ lng: -92.0500
 zipSample: ["71327"]
 zipCodes: ["71327"]
 localPaths: ["Avoyelles Parish / primary ZIP 71327", "Avoyelles Parish / ZIP 71327 sector", "Avoyelles Parish / coords 30.9900, -92.0500", "Avoyelles Parish / elevation 72 ft band"]
+zillowHomeValueUsd: 121902
 ---
 
 **Engineering Notice for Cottonport:** System optimized for 168 mg/L hard water scaling factors in Cottonport. Regional dispatch grid: Avoyelles Parish.

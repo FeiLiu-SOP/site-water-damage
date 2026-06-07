@@ -12,6 +12,7 @@ lng: -96.7400
 zipSample: ["57003"]
 zipCodes: ["57003"]
 localPaths: ["Minnehaha County / primary ZIP 57003", "Minnehaha County / ZIP 57003 sector", "Minnehaha County / coords 43.7600, -96.7400", "Minnehaha County / elevation 1499 ft band"]
+zillowHomeValueUsd: 353476
 ---
 
 **Engineering Notice for Baltic:** Cladding Service was validated under stress factor 0.91; target tolerance set near 107 mph. Coordinates: 43.7600, -96.7400. Grid anchor: Minnehaha County.

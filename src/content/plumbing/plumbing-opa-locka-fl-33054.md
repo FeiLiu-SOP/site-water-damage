@@ -12,6 +12,7 @@ lng: -80.2600
 zipSample: ["33054"]
 zipCodes: ["33054"]
 localPaths: ["Miami-Dade County / elevation 26 ft band", "Miami-Dade County / ZIP 33054 sector", "Miami-Dade County / primary ZIP 33054", "Miami-Dade County / coords 25.9000, -80.2600"]
+zillowHomeValueUsd: 416231
 ---
 
 **Engineering Notice for Opa-locka:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

@@ -12,6 +12,7 @@ lng: -96.4700
 zipSample: ["75109", "75151", "75110"]
 zipCodes: ["75151", "75109", "75110"]
 localPaths: ["Navarro County / ZIP 75109 sector", "Navarro County / elevation 436 ft band", "Navarro County / ZIP 75110 sector", "Navarro County / coords 32.0800, -96.4700", "Navarro County / primary ZIP 75110"]
+zillowHomeValueUsd: 193031
 ---
 
 **Engineering Notice for Corsicana:** Structural loading calculated based on 436 ft terrain assessment. Regional dispatch grid: Navarro County.

@@ -12,6 +12,7 @@ lng: -79.9800
 zipSample: ["16563", "16510"]
 zipCodes: ["16563", "16510"]
 localPaths: ["Erie County / ZIP 16563 sector", "Erie County / elevation 1070 ft band", "Erie County / ZIP 16510 sector", "Erie County / coords 42.1200, -79.9800", "Erie County / primary ZIP 16510"]
+zillowHomeValueUsd: 202448
 ---
 
 **Engineering Notice for Penn State Erie:** System optimized for 170 mg/L hard water scaling factors in Penn State Erie. Regional dispatch grid: Erie County.

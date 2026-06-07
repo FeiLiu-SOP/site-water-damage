@@ -12,6 +12,7 @@ lng: -89.1200
 zipSample: ["39365"]
 zipCodes: ["39365"]
 localPaths: ["Newton County / ZIP 39365 sector", "Newton County / primary ZIP 39365", "Newton County / coords 32.5700, -89.1200", "Newton County / elevation 512 ft band"]
+zillowHomeValueUsd: 148776
 ---
 
 **Engineering Notice for Union:** Structural integrity verification: Exterior Cladding calibrated for 95 mph localized wind load factor. Elevation: 512 ft AMSL. Coordinates: 32.5700, -89.1200. Regional dispatch grid: Newton County.

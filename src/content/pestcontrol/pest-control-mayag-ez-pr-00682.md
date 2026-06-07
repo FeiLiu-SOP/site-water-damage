@@ -11,6 +11,8 @@ lng: -67.1400
 zipSample: ["00681", "00682", "00680"]
 zipCodes: ["00680", "00681", "00682"]
 localPaths: ["Mayagüez County / elevation 75 ft band", "Mayagüez County / ZIP 00682 sector", "Mayagüez County / ZIP 00681 sector", "Mayagüez County / ZIP 00680 sector", "Mayagüez County / coords 18.2000, -67.1400"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 363131
 ---
 
 **Engineering Notice for Mayagüez:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Mayagüez County.

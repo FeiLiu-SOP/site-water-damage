@@ -12,6 +12,7 @@ lng: -113.0100
 zipSample: ["84751"]
 zipCodes: ["84751"]
 localPaths: ["Beaver County / coords 38.3900, -113.0100", "Beaver County / primary ZIP 84751", "Beaver County / elevation 4987 ft band", "Beaver County / ZIP 84751 sector"]
+zillowHomeValueUsd: 214819
 ---
 
 **Engineering Notice for Milford:** Site context locked to Beaver County. Elevation: 4987 ft AMSL. Coordinates: 38.3900, -113.0100. Exterior Cladding integrity verification recorded.

@@ -11,6 +11,7 @@ lng: -74.6500
 zipSample: ["08844"]
 zipCodes: ["08844"]
 localPaths: ["Somerset County / elevation 115 ft band", "Somerset County / ZIP 08844 sector", "Somerset County / coords 40.5100, -74.6500", "Somerset County / primary ZIP 08844"]
+zillowHomeValueUsd: 672848
 ---
 
 **Engineering Notice for Hillsborough:** Structural loading calculated based on 115 ft terrain assessment. Regional dispatch grid: Somerset County.

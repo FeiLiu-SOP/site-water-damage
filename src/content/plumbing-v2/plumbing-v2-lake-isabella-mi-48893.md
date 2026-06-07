@@ -12,6 +12,7 @@ lng: -85.0000
 zipSample: ["48893"]
 zipCodes: ["48893"]
 localPaths: ["Isabella County / coords 43.6400, -85.0000", "Isabella County / elevation 889 ft band", "Isabella County / primary ZIP 48893", "Isabella County / ZIP 48893 sector"]
+zillowHomeValueUsd: 222135
 ---
 
 **Engineering Notice for Lake Isabella:** System optimized for 159 mg/L hard water scaling factors in Lake Isabella. Regional dispatch grid: Isabella County.

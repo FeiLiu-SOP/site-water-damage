@@ -12,6 +12,7 @@ lng: -95.1500
 zipSample: ["74441", "74434"]
 zipCodes: ["74441", "74434"]
 localPaths: ["Cherokee County / coords 35.8500, -95.1500", "Cherokee County / ZIP 74434 sector", "Cherokee County / ZIP 74441 sector", "Cherokee County / elevation 919 ft band", "Cherokee County / primary ZIP 74441"]
+zillowHomeValueUsd: 208840
 ---
 
 **Engineering Notice for Norwood:** System optimized for 124 mg/L hard water scaling factors in Norwood. Regional dispatch grid: Cherokee County.

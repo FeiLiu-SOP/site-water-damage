@@ -12,6 +12,7 @@ lng: -86.2700
 zipSample: ["35183", "35151"]
 zipCodes: ["35151", "35183"]
 localPaths: ["Coosa County / elevation 676 ft band", "Coosa County / coords 33.0700, -86.2700", "Coosa County / ZIP 35183 sector", "Coosa County / ZIP 35151 sector", "Coosa County / primary ZIP 35151"]
+zillowHomeValueUsd: 201145
 ---
 
 **Engineering Notice for Stewartville:** structural drying capacity optimized for 676ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Coosa County. Relative Humidity Threshold: 73%. Sensor sync: Active.

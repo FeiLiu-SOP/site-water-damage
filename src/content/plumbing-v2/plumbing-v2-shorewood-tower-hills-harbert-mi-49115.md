@@ -12,6 +12,7 @@ lng: -86.6100
 zipSample: ["49115", "49125"]
 zipCodes: ["49115", "49125"]
 localPaths: ["Berrien County / ZIP 49115 sector", "Berrien County / ZIP 49125 sector", "Berrien County / primary ZIP 49115", "Berrien County / elevation 656 ft band", "Berrien County / coords 41.8800, -86.6100"]
+zillowHomeValueUsd: 807261
 ---
 
 **Engineering Notice for Shorewood-Tower Hills-Harbert:** System optimized for 132 mg/L hard water scaling factors in Shorewood-Tower Hills-Harbert. Regional dispatch grid: Berrien County.

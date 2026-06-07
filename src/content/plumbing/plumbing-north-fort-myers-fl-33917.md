@@ -12,6 +12,7 @@ lng: -81.8500
 zipSample: ["33917", "33903", "33918"]
 zipCodes: ["33903", "33918", "33917"]
 localPaths: ["Lee County / ZIP 33918 sector", "Lee County / ZIP 33903 sector", "Lee County / ZIP 33917 sector", "Lee County / primary ZIP 33917", "Lee County / coords 26.7200, -81.8500"]
+zillowHomeValueUsd: 291604
 ---
 
 **Engineering Notice for North Fort Myers:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Lee County.

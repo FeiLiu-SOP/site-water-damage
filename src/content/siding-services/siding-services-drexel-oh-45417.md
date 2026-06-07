@@ -12,6 +12,7 @@ lng: -84.2900
 zipSample: ["45417"]
 zipCodes: ["45417"]
 localPaths: ["Montgomery County / coords 39.7400, -84.2900", "Montgomery County / primary ZIP 45417", "Montgomery County / ZIP 45417 sector", "Montgomery County / elevation 948 ft band"]
+zillowHomeValueUsd: 75689
 ---
 
 **Engineering Notice for Drexel:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Elevation: 948 ft AMSL. Coordinates: 39.7400, -84.2900. Grid: Montgomery County.

@@ -12,6 +12,7 @@ lng: -88.4000
 zipSample: ["53153"]
 zipCodes: ["53153"]
 localPaths: ["Waukesha County / primary ZIP 53153", "Waukesha County / coords 42.9400, -88.4000", "Waukesha County / elevation 955 ft band", "Waukesha County / ZIP 53153 sector"]
+zillowHomeValueUsd: 495768
 ---
 
 **Engineering Notice for North Prairie:** Panel Replacement was validated under stress factor 0.93; target tolerance set near 107 mph. Grid anchor: Waukesha County.

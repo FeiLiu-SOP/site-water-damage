@@ -12,6 +12,7 @@ lng: -87.1900
 zipSample: ["35550"]
 zipCodes: ["35550"]
 localPaths: ["Walker County / elevation 472 ft band", "Walker County / ZIP 35550 sector", "Walker County / coords 33.7600, -87.1900", "Walker County / primary ZIP 35550"]
+zillowHomeValueUsd: 94411
 ---
 
 **Engineering Notice for Cordova:** structural drying capacity optimized for 472ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Walker County. Relative Humidity Threshold: 82%. Sensor sync: Active.

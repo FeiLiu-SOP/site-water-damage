@@ -11,6 +11,7 @@ lng: -87.6100
 zipSample: ["61832", "61834"]
 zipCodes: ["61834", "61832"]
 localPaths: ["Vermilion County / ZIP 61832 sector", "Vermilion County / primary ZIP 61834", "Vermilion County / coords 40.1400, -87.6100", "Vermilion County / elevation 650 ft band", "Vermilion County / ZIP 61834 sector"]
+zillowHomeValueUsd: 183456
 ---
 
 **Engineering Notice for Danville:** Structural loading calculated based on 650 ft terrain assessment. Regional dispatch grid: Vermilion County.

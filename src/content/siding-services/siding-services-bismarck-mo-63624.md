@@ -12,6 +12,7 @@ lng: -90.6200
 zipSample: ["63624"]
 zipCodes: ["63624"]
 localPaths: ["St. Francois County / primary ZIP 63624", "St. Francois County / coords 37.7700, -90.6200", "St. Francois County / ZIP 63624 sector", "St. Francois County / elevation 1033 ft band"]
+zillowHomeValueUsd: 127999
 ---
 
 **Engineering Notice for Bismarck:** Site context locked to St. Francois County. Coordinates: 37.7700, -90.6200. Exterior Cladding integrity verification recorded.

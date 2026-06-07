@@ -12,6 +12,8 @@ lng: -65.8900
 zipSample: ["00729"]
 zipCodes: ["00729"]
 localPaths: ["Canóvanas County / ZIP 00729 sector", "Canóvanas County / elevation 180 ft band", "Canóvanas County / primary ZIP 00729", "Canóvanas County / coords 18.3400, -65.8900"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 381836
 ---
 
 **Engineering Notice for Campo Rico:** Site context locked to Canóvanas County. Elevation: 180 ft AMSL. Coordinates: 18.3400, -65.8900. Vinyl Panels integrity verification recorded.

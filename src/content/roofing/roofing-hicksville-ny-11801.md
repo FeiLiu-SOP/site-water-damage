@@ -11,6 +11,7 @@ lng: -73.5200
 zipSample: ["11801", "11805", "11815", "11802"]
 zipCodes: ["11801", "11805", "11802", "11815"]
 localPaths: ["Nassau County / ZIP 11805 sector", "Nassau County / primary ZIP 11801", "Nassau County / coords 40.7600, -73.5200", "Nassau County / elevation 151 ft band", "Nassau County / ZIP 11802 sector"]
+zillowHomeValueUsd: 767883
 ---
 
 **Engineering Notice for Hicksville:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: Nassau County.

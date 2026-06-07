@@ -12,6 +12,7 @@ lng: -80.4400
 zipSample: ["33196", "33186"]
 zipCodes: ["33186", "33196"]
 localPaths: ["Miami-Dade County / coords 25.6300, -80.4400", "Miami-Dade County / ZIP 33196 sector", "Miami-Dade County / primary ZIP 33196", "Miami-Dade County / ZIP 33186 sector", "Miami-Dade County / elevation 36 ft band"]
+zillowHomeValueUsd: 567265
 ---
 
 **Engineering Notice for Country Walk:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

@@ -11,6 +11,7 @@ lng: -85.6000
 zipSample: ["49525"]
 zipCodes: ["49525"]
 localPaths: ["Kent County / ZIP 49525 sector", "Kent County / coords 43.0400, -85.6000", "Kent County / primary ZIP 49525", "Kent County / elevation 755 ft band"]
+zillowHomeValueUsd: 378209
 ---
 
 **Engineering Notice for Northview:** Structural loading calculated based on 755 ft terrain assessment. Regional dispatch grid: Kent County.

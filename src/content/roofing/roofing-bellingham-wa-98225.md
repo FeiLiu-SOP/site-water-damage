@@ -11,6 +11,7 @@ lng: -122.4700
 zipSample: ["98229", "98226", "98225", "98228"]
 zipCodes: ["98228", "98225", "98226", "98229"]
 localPaths: ["Whatcom County / primary ZIP 98225", "Whatcom County / coords 48.7500, -122.4700", "Whatcom County / ZIP 98229 sector", "Whatcom County / ZIP 98226 sector", "Whatcom County / ZIP 98228 sector"]
+zillowHomeValueUsd: 669610
 ---
 
 **Engineering Notice for Bellingham:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Whatcom County.

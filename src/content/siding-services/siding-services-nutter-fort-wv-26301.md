@@ -12,6 +12,7 @@ lng: -80.3300
 zipSample: ["26301"]
 zipCodes: ["26301"]
 localPaths: ["Harrison County / primary ZIP 26301", "Harrison County / ZIP 26301 sector", "Harrison County / coords 39.2600, -80.3300", "Harrison County / elevation 1030 ft band"]
+zillowHomeValueUsd: 116912
 ---
 
 **Engineering Notice for Nutter Fort:** Site context locked to Harrison County. Elevation: 1030 ft AMSL. Cladding Service integrity verification recorded.

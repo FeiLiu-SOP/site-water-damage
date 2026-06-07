@@ -12,6 +12,7 @@ lng: -122.3200
 zipSample: ["98145", "98108", "98170", "98111", "98112"]
 zipCodes: ["98174", "98170", "98178", "98102", "98119", "98145", "98116", "98115", "98177", "98117", "98175", "98133"]
 localPaths: ["King County / primary ZIP 98109", "King County / ZIP 98145 sector", "King County / ZIP 98112 sector", "King County / ZIP 98111 sector", "King County / elevation 305 ft band"]
+zillowHomeValueUsd: 758218
 ---
 
 **Engineering Notice for Seattle:** Structural loading calculated based on 305 ft terrain assessment. Regional dispatch grid: King County.

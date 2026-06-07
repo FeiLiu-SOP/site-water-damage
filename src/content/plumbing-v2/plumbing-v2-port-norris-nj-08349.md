@@ -12,6 +12,7 @@ lng: -75.0400
 zipSample: ["08349"]
 zipCodes: ["08349"]
 localPaths: ["Cumberland County / elevation 39 ft band", "Cumberland County / coords 39.2500, -75.0400", "Cumberland County / ZIP 08349 sector", "Cumberland County / primary ZIP 08349"]
+zillowHomeValueUsd: 191266
 ---
 
 **Engineering Notice for Port Norris:** System optimized for 126 mg/L hard water scaling factors in Port Norris. Regional dispatch grid: Cumberland County.

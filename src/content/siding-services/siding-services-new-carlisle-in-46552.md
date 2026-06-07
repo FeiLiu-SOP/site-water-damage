@@ -12,6 +12,7 @@ lng: -86.4900
 zipSample: ["46552"]
 zipCodes: ["46552"]
 localPaths: ["St. Joseph County / elevation 758 ft band", "St. Joseph County / ZIP 46552 sector", "St. Joseph County / primary ZIP 46552", "St. Joseph County / coords 41.7000, -86.4900"]
+zillowHomeValueUsd: 273040
 ---
 
 **Engineering Notice for New Carlisle:** Wall Restoration was validated under stress factor 0.82; target tolerance set near 104 mph. Coordinates: 41.7000, -86.4900. Grid anchor: St. Joseph County.

@@ -12,6 +12,7 @@ lng: -116.7800
 zipSample: ["92230"]
 zipCodes: ["92230"]
 localPaths: ["Riverside County / coords 33.9100, -116.7800", "Riverside County / ZIP 92230 sector", "Riverside County / primary ZIP 92230", "Riverside County / elevation 1749 ft band"]
+zillowHomeValueUsd: 332010
 ---
 
 **Engineering Notice for Cabazon:** System optimized for 146 mg/L hard water scaling factors in Cabazon. Regional dispatch grid: Riverside County.

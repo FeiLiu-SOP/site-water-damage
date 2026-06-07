@@ -12,6 +12,7 @@ lng: -82.4800
 zipSample: ["45651"]
 zipCodes: ["45651"]
 localPaths: ["Vinton County / primary ZIP 45651", "Vinton County / elevation 768 ft band", "Vinton County / ZIP 45651 sector", "Vinton County / coords 39.2500, -82.4800"]
+zillowHomeValueUsd: 171648
 ---
 
 **Engineering Notice for McArthur:** Structural integrity verification: Vinyl Panels calibrated for 108 mph localized wind load factor. Coordinates: 39.2500, -82.4800. Regional dispatch grid: Vinton County.

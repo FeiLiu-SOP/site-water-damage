@@ -12,6 +12,7 @@ lng: -97.9700
 zipSample: ["78155"]
 zipCodes: ["78155"]
 localPaths: ["Guadalupe County / primary ZIP 78155", "Guadalupe County / elevation 587 ft band", "Guadalupe County / coords 29.6700, -97.9700", "Guadalupe County / ZIP 78155 sector"]
+zillowHomeValueUsd: 272113
 ---
 
 **Engineering Notice for Geronimo:** structural drying capacity optimized for 587ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Guadalupe County. Relative Humidity Threshold: 77%. Sensor sync: Active.

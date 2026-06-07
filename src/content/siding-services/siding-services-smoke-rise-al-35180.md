@@ -12,6 +12,7 @@ lng: -86.8200
 zipSample: ["35180"]
 zipCodes: ["35180"]
 localPaths: ["Blount County / elevation 833 ft band", "Blount County / ZIP 35180 sector", "Blount County / primary ZIP 35180", "Blount County / coords 33.8800, -86.8200"]
+zillowHomeValueUsd: 235148
 ---
 
 **Engineering Notice for Smoke Rise:** Site context locked to Blount County. Elevation: 833 ft AMSL. Surface Sheathing integrity verification recorded.

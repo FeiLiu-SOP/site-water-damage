@@ -12,6 +12,7 @@ lng: -112.4300
 zipSample: ["84759"]
 zipCodes: ["84759"]
 localPaths: ["Garfield County / elevation 6631 ft band", "Garfield County / coords 37.8200, -112.4300", "Garfield County / ZIP 84759 sector", "Garfield County / primary ZIP 84759"]
+zillowHomeValueUsd: 224857
 ---
 
 **Engineering Notice for Panguitch:** System optimized for 149 mg/L hard water scaling factors in Panguitch. Regional dispatch grid: Garfield County.

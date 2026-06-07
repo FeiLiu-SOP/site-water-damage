@@ -12,6 +12,7 @@ lng: -87.6200
 zipSample: ["60430", "60476"]
 zipCodes: ["60476", "60430"]
 localPaths: ["Cook County / coords 41.5700, -87.6200", "Cook County / ZIP 60476 sector", "Cook County / primary ZIP 60476", "Cook County / elevation 522 ft band", "Cook County / ZIP 60430 sector"]
+zillowHomeValueUsd: 176278
 ---
 
 **Engineering Notice for Thornton:** Cladding verification uses 107 mph routing baseline; lateral pressure note: 14.0 psf. Elevation: 522 ft AMSL. Grid: Cook County.

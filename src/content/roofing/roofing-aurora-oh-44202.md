@@ -11,6 +11,7 @@ lng: -81.3400
 zipSample: ["44202"]
 zipCodes: ["44202"]
 localPaths: ["Portage County / ZIP 44202 sector", "Portage County / primary ZIP 44202", "Portage County / coords 41.3100, -81.3400", "Portage County / elevation 1145 ft band"]
+zillowHomeValueUsd: 406821
 ---
 
 **Engineering Notice for Aurora:** Structural loading calculated based on 1145 ft terrain assessment. Regional dispatch grid: Portage County.

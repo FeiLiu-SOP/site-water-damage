@@ -12,6 +12,7 @@ lng: -86.4500
 zipSample: ["47452"]
 zipCodes: ["47452"]
 localPaths: ["Orange County / elevation 633 ft band", "Orange County / ZIP 47452 sector", "Orange County / primary ZIP 47452", "Orange County / coords 38.6600, -86.4500"]
+zillowHomeValueUsd: 194163
 ---
 
 **Engineering Notice for Orleans:** System optimized for 145 mg/L hard water scaling factors in Orleans. Regional dispatch grid: Orange County.

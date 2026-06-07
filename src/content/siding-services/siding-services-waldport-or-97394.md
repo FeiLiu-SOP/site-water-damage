@@ -12,6 +12,7 @@ lng: -124.0700
 zipSample: ["97394"]
 zipCodes: ["97394"]
 localPaths: ["Lincoln County / elevation 171 ft band", "Lincoln County / coords 44.4200, -124.0700", "Lincoln County / ZIP 97394 sector", "Lincoln County / primary ZIP 97394"]
+zillowHomeValueUsd: 472753
 ---
 
 **Engineering Notice for Waldport:** Envelope check: Facade Renewal assigned to wind-load band B with stress factor 0.74. Elevation: 171 ft AMSL. Regional dispatch grid: Lincoln County.

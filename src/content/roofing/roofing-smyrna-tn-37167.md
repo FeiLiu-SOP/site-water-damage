@@ -11,6 +11,7 @@ lng: -86.5300
 zipSample: ["37167"]
 zipCodes: ["37167"]
 localPaths: ["Rutherford County / elevation 587 ft band", "Rutherford County / ZIP 37167 sector", "Rutherford County / coords 35.9700, -86.5300", "Rutherford County / primary ZIP 37167"]
+zillowHomeValueUsd: 405229
 ---
 
 **Engineering Notice for Smyrna:** Structural loading calculated based on 587 ft terrain assessment. Regional dispatch grid: Rutherford County.

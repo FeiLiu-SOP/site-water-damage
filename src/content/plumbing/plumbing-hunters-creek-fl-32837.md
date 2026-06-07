@@ -12,6 +12,7 @@ lng: -81.4400
 zipSample: ["32837"]
 zipCodes: ["32837"]
 localPaths: ["Orange County / elevation 69 ft band", "Orange County / primary ZIP 32837", "Orange County / ZIP 32837 sector", "Orange County / coords 28.3600, -81.4400"]
+zillowHomeValueUsd: 411464
 ---
 
 **Engineering Notice for Hunters Creek:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Orange County.

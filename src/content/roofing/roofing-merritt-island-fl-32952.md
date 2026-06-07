@@ -11,6 +11,7 @@ lng: -80.6700
 zipSample: ["32937", "32954", "32953", "32952"]
 zipCodes: ["32952", "32953", "32954", "32937"]
 localPaths: ["Brevard County / elevation 0 ft band", "Brevard County / primary ZIP 32952", "Brevard County / ZIP 32937 sector", "Brevard County / ZIP 32954 sector", "Brevard County / coords 28.3100, -80.6700"]
+zillowHomeValueUsd: 432995
 ---
 
 **Engineering Notice for Merritt Island:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Brevard County.

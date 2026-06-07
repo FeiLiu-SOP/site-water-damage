@@ -12,6 +12,7 @@ lng: -90.2200
 zipSample: ["39169"]
 zipCodes: ["39169"]
 localPaths: ["Holmes County / coords 33.1800, -90.2200", "Holmes County / primary ZIP 39169", "Holmes County / ZIP 39169 sector", "Holmes County / elevation 125 ft band"]
+zillowHomeValueUsd: 66349
 ---
 
 **Engineering Notice for Tchula:** Site context locked to Holmes County. Wall Restoration integrity verification recorded.

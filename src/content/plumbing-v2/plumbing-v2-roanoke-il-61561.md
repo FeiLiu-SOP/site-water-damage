@@ -12,6 +12,7 @@ lng: -89.2000
 zipSample: ["61561"]
 zipCodes: ["61561"]
 localPaths: ["Woodford County / coords 40.8000, -89.2000", "Woodford County / elevation 738 ft band", "Woodford County / primary ZIP 61561", "Woodford County / ZIP 61561 sector"]
+zillowHomeValueUsd: 169016
 ---
 
 **Engineering Notice for Roanoke:** System optimized for 125 mg/L hard water scaling factors in Roanoke. Regional dispatch grid: Woodford County.

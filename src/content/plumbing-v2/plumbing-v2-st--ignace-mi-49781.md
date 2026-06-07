@@ -12,6 +12,7 @@ lng: -84.7300
 zipSample: ["49781"]
 zipCodes: ["49781"]
 localPaths: ["Mackinac County / elevation 574 ft band", "Mackinac County / coords 45.8700, -84.7300", "Mackinac County / primary ZIP 49781", "Mackinac County / ZIP 49781 sector"]
+zillowHomeValueUsd: 226282
 ---
 
 **Engineering Notice for St. Ignace:** System optimized for 159 mg/L hard water scaling factors in St. Ignace. Regional dispatch grid: Mackinac County.

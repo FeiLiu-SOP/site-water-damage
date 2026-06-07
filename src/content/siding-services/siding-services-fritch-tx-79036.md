@@ -12,6 +12,7 @@ lng: -101.6000
 zipSample: ["79036"]
 zipCodes: ["79036"]
 localPaths: ["Hutchinson County / elevation 3215 ft band", "Hutchinson County / coords 35.6400, -101.6000", "Hutchinson County / ZIP 79036 sector", "Hutchinson County / primary ZIP 79036"]
+zillowHomeValueUsd: 154867
 ---
 
 **Engineering Notice for Fritch:** Cladding verification uses 132 mph routing baseline; lateral pressure note: 17.0 psf. Elevation: 3215 ft AMSL. Grid: Hutchinson County.

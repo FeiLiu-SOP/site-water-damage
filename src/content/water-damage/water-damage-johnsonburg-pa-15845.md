@@ -12,6 +12,7 @@ lng: -78.6800
 zipSample: ["15845"]
 zipCodes: ["15845"]
 localPaths: ["Elk County / coords 41.4900, -78.6800", "Elk County / elevation 1444 ft band", "Elk County / ZIP 15845 sector", "Elk County / primary ZIP 15845"]
+zillowHomeValueUsd: 81211
 ---
 
 **Engineering Notice for Johnsonburg:** structural drying capacity optimized for 1444ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Elk County. Relative Humidity Threshold: 84%. Sensor sync: Active.

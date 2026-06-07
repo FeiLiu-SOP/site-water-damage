@@ -12,6 +12,7 @@ lng: -87.2700
 zipSample: ["46342", "46405"]
 zipCodes: ["46405", "46342"]
 localPaths: ["Lake County / elevation 643 ft band", "Lake County / primary ZIP 46342", "Lake County / coords 41.5600, -87.2700", "Lake County / ZIP 46342 sector", "Lake County / ZIP 46405 sector"]
+zillowHomeValueUsd: 234744
 ---
 
 **Engineering Notice for New Chicago:** System optimized for 121 mg/L hard water scaling factors in New Chicago. Regional dispatch grid: Lake County.

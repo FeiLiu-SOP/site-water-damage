@@ -12,6 +12,7 @@ lng: -101.9100
 zipSample: ["79015", "79118"]
 zipCodes: ["79015", "79118"]
 localPaths: ["Randall County / ZIP 79015 sector", "Randall County / coords 35.0400, -101.9100", "Randall County / ZIP 79118 sector", "Randall County / elevation 3648 ft band", "Randall County / primary ZIP 79118"]
+zillowHomeValueUsd: 258123
 ---
 
 **Engineering Notice for Rockwell Place:** structural drying capacity optimized for 3648ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Randall County. Relative Humidity Threshold: 69%. Sensor sync: Active.

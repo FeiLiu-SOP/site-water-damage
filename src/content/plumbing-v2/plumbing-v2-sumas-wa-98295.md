@@ -12,6 +12,7 @@ lng: -122.2700
 zipSample: ["98295"]
 zipCodes: ["98295"]
 localPaths: ["Whatcom County / coords 49.0000, -122.2700", "Whatcom County / ZIP 98295 sector", "Whatcom County / elevation 36 ft band", "Whatcom County / primary ZIP 98295"]
+zillowHomeValueUsd: 457691
 ---
 
 **Engineering Notice for Sumas:** System optimized for 148 mg/L hard water scaling factors in Sumas. Regional dispatch grid: Whatcom County.

@@ -12,6 +12,7 @@ lng: -75.2000
 zipSample: ["08086"]
 zipCodes: ["08086"]
 localPaths: ["Gloucester County / elevation 39 ft band", "Gloucester County / coords 39.8500, -75.2000", "Gloucester County / primary ZIP 08086", "Gloucester County / ZIP 08086 sector"]
+zillowHomeValueUsd: 358730
 ---
 
 **Engineering Notice for Thorofare:** System optimized for 165 mg/L hard water scaling factors in Thorofare. Regional dispatch grid: Gloucester County.

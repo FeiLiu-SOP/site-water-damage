@@ -12,6 +12,7 @@ lng: -88.9100
 zipSample: ["53933"]
 zipCodes: ["53933"]
 localPaths: ["Dodge County / primary ZIP 53933", "Dodge County / coords 43.5600, -88.9100", "Dodge County / ZIP 53933 sector", "Dodge County / elevation 925 ft band"]
+zillowHomeValueUsd: 340506
 ---
 
 **Engineering Notice for Fox Lake:** System optimized for 141 mg/L hard water scaling factors in Fox Lake. Regional dispatch grid: Dodge County.

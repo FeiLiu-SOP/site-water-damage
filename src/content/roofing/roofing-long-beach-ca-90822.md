@@ -11,6 +11,7 @@ lng: -118.1700
 zipSample: ["90815", "90848", "90832", "90833", "90822"]
 zipCodes: ["90814", "90806", "90802", "90847", "90809", "90833", "90822", "90848", "90801", "90853", "90844", "90831"]
 localPaths: ["Los Angeles County / primary ZIP 90822", "Los Angeles County / ZIP 90848 sector", "Los Angeles County / ZIP 90815 sector", "Los Angeles County / ZIP 90832 sector", "Los Angeles County / elevation 187 ft band"]
+zillowHomeValueUsd: 714553
 ---
 
 **Engineering Notice for Long Beach:** Structural loading calculated based on 187 ft terrain assessment. Regional dispatch grid: Los Angeles County.

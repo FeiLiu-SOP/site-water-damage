@@ -12,6 +12,7 @@ lng: -100.8400
 zipSample: ["67748"]
 zipCodes: ["67748"]
 localPaths: ["Logan County / elevation 3068 ft band", "Logan County / coords 39.1200, -100.8400", "Logan County / primary ZIP 67748", "Logan County / ZIP 67748 sector"]
+zillowHomeValueUsd: 165869
 ---
 
 **Engineering Notice for Oakley:** structural drying capacity optimized for 3068ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Logan County. Relative Humidity Threshold: 74%. Sensor sync: Active.

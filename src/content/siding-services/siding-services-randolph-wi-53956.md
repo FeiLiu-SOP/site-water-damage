@@ -12,6 +12,7 @@ lng: -89.0000
 zipSample: ["53956", "53957"]
 zipCodes: ["53956", "53957"]
 localPaths: ["Dodge County / ZIP 53956 sector", "Dodge County / coords 43.5400, -89.0000", "Dodge County / ZIP 53957 sector", "Dodge County / elevation 965 ft band", "Dodge County / primary ZIP 53956"]
+zillowHomeValueUsd: 292909
 ---
 
 **Engineering Notice for Randolph:** Site context locked to Dodge County. Elevation: 965 ft AMSL. Exterior Envelope integrity verification recorded.

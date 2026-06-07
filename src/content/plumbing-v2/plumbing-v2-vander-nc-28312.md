@@ -12,6 +12,7 @@ lng: -78.7900
 zipSample: ["28312"]
 zipCodes: ["28312"]
 localPaths: ["Cumberland County / coords 35.0300, -78.7900", "Cumberland County / primary ZIP 28312", "Cumberland County / elevation 141 ft band", "Cumberland County / ZIP 28312 sector"]
+zillowHomeValueUsd: 297201
 ---
 
 **Engineering Notice for Vander:** System optimized for 138 mg/L hard water scaling factors in Vander. Regional dispatch grid: Cumberland County.

@@ -12,6 +12,7 @@ lng: -108.1500
 zipSample: ["88041", "88026", "88022", "88036"]
 zipCodes: ["88036", "88026", "88041", "88022"]
 localPaths: ["Grant County / ZIP 88026 sector", "Grant County / ZIP 88022 sector", "Grant County / ZIP 88036 sector", "Grant County / elevation 6004 ft band", "Grant County / ZIP 88041 sector"]
+zillowHomeValueUsd: 214612
 ---
 
 **Engineering Notice for Santa Clara:** System optimized for 164 mg/L hard water scaling factors in Santa Clara. Regional dispatch grid: Grant County.

@@ -12,6 +12,7 @@ lng: -90.8200
 zipSample: ["63935"]
 zipCodes: ["63935"]
 localPaths: ["Ripley County / ZIP 63935 sector", "Ripley County / coords 36.6200, -90.8200", "Ripley County / elevation 404 ft band", "Ripley County / primary ZIP 63935"]
+zillowHomeValueUsd: 153560
 ---
 
 **Engineering Notice for Doniphan:** System optimized for 137 mg/L hard water scaling factors in Doniphan. Regional dispatch grid: Ripley County.

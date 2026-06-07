@@ -12,6 +12,7 @@ lng: -98.3900
 zipSample: ["78574"]
 zipCodes: ["78574"]
 localPaths: ["Hidalgo County / elevation 233 ft band", "Hidalgo County / primary ZIP 78574", "Hidalgo County / ZIP 78574 sector", "Hidalgo County / coords 26.3300, -98.3900"]
+zillowHomeValueUsd: 196833
 ---
 
 **Engineering Notice for Citrus City:** System optimized for 160 mg/L hard water scaling factors in Citrus City. Regional dispatch grid: Hidalgo County.

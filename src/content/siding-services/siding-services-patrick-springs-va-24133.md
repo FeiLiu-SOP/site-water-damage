@@ -12,6 +12,7 @@ lng: -80.2000
 zipSample: ["24133", "24171"]
 zipCodes: ["24133", "24171"]
 localPaths: ["Patrick County / coords 36.6300, -80.2000", "Patrick County / primary ZIP 24133", "Patrick County / ZIP 24171 sector", "Patrick County / ZIP 24133 sector", "Patrick County / elevation 1240 ft band"]
+zillowHomeValueUsd: 174529
 ---
 
 **Engineering Notice for Patrick Springs:** Surface Sheathing was validated under stress factor 0.73; target tolerance set near 99 mph. Grid anchor: Patrick County.

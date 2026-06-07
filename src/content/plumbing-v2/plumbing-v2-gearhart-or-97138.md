@@ -12,6 +12,7 @@ lng: -123.9200
 zipSample: ["97138"]
 zipCodes: ["97138"]
 localPaths: ["Clatsop County / coords 46.0300, -123.9200", "Clatsop County / elevation 49 ft band", "Clatsop County / primary ZIP 97138", "Clatsop County / ZIP 97138 sector"]
+zillowHomeValueUsd: 498553
 ---
 
 **Engineering Notice for Gearhart:** System optimized for 122 mg/L hard water scaling factors in Gearhart. Regional dispatch grid: Clatsop County.

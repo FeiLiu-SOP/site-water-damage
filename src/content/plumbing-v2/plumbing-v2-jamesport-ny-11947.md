@@ -12,6 +12,8 @@ lng: -72.5800
 zipSample: ["11947", "11948", "11970", "11901"]
 zipCodes: ["11947", "11970", "11948", "11901"]
 localPaths: ["Suffolk County / ZIP 11901 sector", "Suffolk County / coords 40.9500, -72.5800", "Suffolk County / primary ZIP 11947", "Suffolk County / ZIP 11970 sector", "Suffolk County / elevation 26 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 506524
 ---
 
 **Engineering Notice for Jamesport:** System optimized for 142 mg/L hard water scaling factors in Jamesport. Regional dispatch grid: Suffolk County.

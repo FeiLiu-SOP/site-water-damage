@@ -12,6 +12,7 @@ lng: -79.6000
 zipSample: ["15656"]
 zipCodes: ["15656"]
 localPaths: ["Armstrong County / ZIP 15656 sector", "Armstrong County / coords 40.6300, -79.6000", "Armstrong County / primary ZIP 15656", "Armstrong County / elevation 909 ft band"]
+zillowHomeValueUsd: 162351
 ---
 
 **Engineering Notice for Leechburg:** System optimized for 171 mg/L hard water scaling factors in Leechburg. Regional dispatch grid: Armstrong County.

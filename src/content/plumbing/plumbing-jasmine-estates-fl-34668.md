@@ -12,6 +12,7 @@ lng: -82.6900
 zipSample: ["34668"]
 zipCodes: ["34668"]
 localPaths: ["Pasco County / primary ZIP 34668", "Pasco County / ZIP 34668 sector", "Pasco County / coords 28.2900, -82.6900", "Pasco County / elevation 26 ft band"]
+zillowHomeValueUsd: 227566
 ---
 
 **Engineering Notice for Jasmine Estates:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Pasco County.

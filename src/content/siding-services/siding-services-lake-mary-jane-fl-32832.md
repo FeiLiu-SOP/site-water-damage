@@ -12,6 +12,7 @@ lng: -81.1700
 zipSample: ["32832"]
 zipCodes: ["32832"]
 localPaths: ["Orange County / primary ZIP 32832", "Orange County / ZIP 32832 sector", "Orange County / coords 28.3900, -81.1700", "Orange County / elevation 43 ft band"]
+zillowHomeValueUsd: 528343
 ---
 
 **Engineering Notice for Lake Mary Jane:** Site context locked to Orange County. Coordinates: 28.3900, -81.1700. Weather Barrier Wrap integrity verification recorded.

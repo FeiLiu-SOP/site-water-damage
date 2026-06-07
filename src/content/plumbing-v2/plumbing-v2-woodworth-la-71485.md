@@ -12,6 +12,7 @@ lng: -92.5100
 zipSample: ["71485"]
 zipCodes: ["71485"]
 localPaths: ["Rapides Parish / primary ZIP 71485", "Rapides Parish / elevation 112 ft band", "Rapides Parish / ZIP 71485 sector", "Rapides Parish / coords 31.1700, -92.5100"]
+zillowHomeValueUsd: 314712
 ---
 
 **Engineering Notice for Woodworth:** System optimized for 166 mg/L hard water scaling factors in Woodworth. Regional dispatch grid: Rapides Parish.

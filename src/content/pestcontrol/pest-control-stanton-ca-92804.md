@@ -11,6 +11,7 @@ lng: -117.9900
 zipSample: ["92804", "90680"]
 zipCodes: ["90680", "92804"]
 localPaths: ["Orange County / coords 33.8000, -117.9900", "Orange County / primary ZIP 92804", "Orange County / ZIP 92804 sector", "Orange County / elevation 79 ft band", "Orange County / ZIP 90680 sector"]
+zillowHomeValueUsd: 940849
 ---
 
 **Engineering Notice for Stanton:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Orange County.

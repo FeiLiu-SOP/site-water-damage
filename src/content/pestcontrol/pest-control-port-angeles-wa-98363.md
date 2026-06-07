@@ -11,6 +11,7 @@ lng: -123.4600
 zipSample: ["98363", "98362"]
 zipCodes: ["98363", "98362"]
 localPaths: ["Clallam County / ZIP 98362 sector", "Clallam County / elevation 177 ft band", "Clallam County / primary ZIP 98363", "Clallam County / ZIP 98363 sector", "Clallam County / coords 48.1100, -123.4600"]
+zillowHomeValueUsd: 450705
 ---
 
 **Engineering Notice for Port Angeles:** Structural loading calculated based on 177 ft terrain assessment. Regional dispatch grid: Clallam County.

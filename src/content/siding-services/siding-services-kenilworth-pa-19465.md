@@ -12,6 +12,7 @@ lng: -75.6400
 zipSample: ["19465"]
 zipCodes: ["19465"]
 localPaths: ["Chester County / elevation 240 ft band", "Chester County / ZIP 19465 sector", "Chester County / coords 40.2200, -75.6400", "Chester County / primary ZIP 19465"]
+zillowHomeValueUsd: 490222
 ---
 
 **Engineering Notice for Kenilworth:** Structural integrity verification: Exterior Cladding calibrated for 96 mph localized wind load factor. Regional dispatch grid: Chester County.

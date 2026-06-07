@@ -12,6 +12,7 @@ lng: -92.2100
 zipSample: ["72183", "72206"]
 zipCodes: ["72206", "72183"]
 localPaths: ["Pulaski County / elevation 256 ft band", "Pulaski County / ZIP 72183 sector", "Pulaski County / primary ZIP 72206", "Pulaski County / ZIP 72206 sector", "Pulaski County / coords 34.6100, -92.2100"]
+zillowHomeValueUsd: 133294
 ---
 
 **Engineering Notice for Wrightsville:** structural drying capacity optimized for 256ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pulaski County. Relative Humidity Threshold: 68%. Sensor sync: Active.

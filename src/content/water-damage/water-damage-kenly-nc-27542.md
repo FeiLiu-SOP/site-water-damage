@@ -12,6 +12,7 @@ lng: -78.1400
 zipSample: ["27542"]
 zipCodes: ["27542"]
 localPaths: ["Johnston County / coords 35.5900, -78.1400", "Johnston County / elevation 203 ft band", "Johnston County / ZIP 27542 sector", "Johnston County / primary ZIP 27542"]
+zillowHomeValueUsd: 268984
 ---
 
 **Engineering Notice for Kenly:** structural drying capacity optimized for 203ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Johnston County. Relative Humidity Threshold: 69%. Sensor sync: Active.

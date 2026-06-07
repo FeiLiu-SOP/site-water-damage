@@ -12,6 +12,7 @@ lng: -74.4600
 zipSample: ["08831"]
 zipCodes: ["08831"]
 localPaths: ["Middlesex County / elevation 157 ft band", "Middlesex County / primary ZIP 08831", "Middlesex County / ZIP 08831 sector", "Middlesex County / coords 40.3500, -74.4600"]
+zillowHomeValueUsd: 602349
 ---
 
 **Engineering Notice for Forsgate:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 0.84. Elevation: 157 ft AMSL. Regional dispatch grid: Middlesex County.

@@ -12,6 +12,7 @@ lng: -92.3300
 zipSample: ["50622"]
 zipCodes: ["50622"]
 localPaths: ["Bremer County / coords 42.6700, -92.3300", "Bremer County / elevation 965 ft band", "Bremer County / primary ZIP 50622", "Bremer County / ZIP 50622 sector"]
+zillowHomeValueUsd: 305322
 ---
 
 **Engineering Notice for Denver:** System optimized for 162 mg/L hard water scaling factors in Denver. Regional dispatch grid: Bremer County.

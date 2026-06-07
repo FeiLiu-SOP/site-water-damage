@@ -12,6 +12,7 @@ lng: -82.4400
 zipSample: ["43080"]
 zipCodes: ["43080"]
 localPaths: ["Licking County / elevation 1070 ft band", "Licking County / primary ZIP 43080", "Licking County / coords 40.2300, -82.4400", "Licking County / ZIP 43080 sector"]
+zillowHomeValueUsd: 282608
 ---
 
 **Engineering Notice for Utica:** Weather Barrier Wrap was validated under stress factor 0.72; target tolerance set near 99 mph. Coordinates: 40.2300, -82.4400. Grid anchor: Licking County.

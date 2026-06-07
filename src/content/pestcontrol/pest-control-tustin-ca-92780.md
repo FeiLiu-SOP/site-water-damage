@@ -11,6 +11,7 @@ lng: -117.8100
 zipSample: ["92623", "92782", "92780", "92781"]
 zipCodes: ["92623", "92781", "92782", "92780"]
 localPaths: ["Orange County / ZIP 92623 sector", "Orange County / primary ZIP 92780", "Orange County / coords 33.7300, -117.8100", "Orange County / elevation 105 ft band", "Orange County / ZIP 92780 sector"]
+zillowHomeValueUsd: 1138568
 ---
 
 **Engineering Notice for Tustin:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Orange County.

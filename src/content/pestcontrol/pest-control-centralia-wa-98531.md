@@ -11,6 +11,7 @@ lng: -122.9700
 zipSample: ["98531"]
 zipCodes: ["98531"]
 localPaths: ["Lewis County / coords 46.7200, -122.9700", "Lewis County / elevation 174 ft band", "Lewis County / ZIP 98531 sector", "Lewis County / primary ZIP 98531"]
+zillowHomeValueUsd: 396441
 ---
 
 **Engineering Notice for Centralia:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Lewis County.

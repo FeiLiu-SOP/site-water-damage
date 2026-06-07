@@ -12,6 +12,7 @@ lng: -95.8600
 zipSample: ["74447", "74445"]
 zipCodes: ["74447", "74445"]
 localPaths: ["Okmulgee County / coords 35.6200, -95.8600", "Okmulgee County / ZIP 74445 sector", "Okmulgee County / primary ZIP 74447", "Okmulgee County / elevation 719 ft band", "Okmulgee County / ZIP 74447 sector"]
+zillowHomeValueUsd: 104229
 ---
 
 **Engineering Notice for Morris:** Cladding verification uses 99 mph routing baseline; lateral pressure note: 13.1 psf. Elevation: 719 ft AMSL. Coordinates: 35.6200, -95.8600. Grid: Okmulgee County.

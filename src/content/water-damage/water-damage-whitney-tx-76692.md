@@ -12,6 +12,7 @@ lng: -97.3200
 zipSample: ["76692"]
 zipCodes: ["76692"]
 localPaths: ["Hill County / primary ZIP 76692", "Hill County / coords 31.9500, -97.3200", "Hill County / elevation 591 ft band", "Hill County / ZIP 76692 sector"]
+zillowHomeValueUsd: 219956
 ---
 
 **Engineering Notice for Whitney:** structural drying capacity optimized for 591ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hill County. Relative Humidity Threshold: 69%. Sensor sync: Active.

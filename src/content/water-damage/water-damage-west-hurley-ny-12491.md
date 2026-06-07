@@ -12,6 +12,7 @@ lng: -74.1100
 zipSample: ["12433", "12491", "12498"]
 zipCodes: ["12491", "12433", "12498"]
 localPaths: ["Ulster County / ZIP 12491 sector", "Ulster County / ZIP 12433 sector", "Ulster County / primary ZIP 12491", "Ulster County / elevation 614 ft band", "Ulster County / ZIP 12498 sector"]
+zillowHomeValueUsd: 462450
 ---
 
 **Engineering Notice for West Hurley:** structural drying capacity optimized for 614ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ulster County. Relative Humidity Threshold: 79%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -101.4400
 zipSample: ["79241", "79221"]
 zipCodes: ["79221", "79241"]
 localPaths: ["Floyd County / ZIP 79221 sector", "Floyd County / elevation 3274 ft band", "Floyd County / ZIP 79241 sector", "Floyd County / primary ZIP 79241", "Floyd County / coords 34.1200, -101.4400"]
+zillowHomeValueUsd: 109077
 ---
 
 **Engineering Notice for Lockney:** Site context locked to Floyd County. Coordinates: 34.1200, -101.4400. Weather Barrier Wrap integrity verification recorded.

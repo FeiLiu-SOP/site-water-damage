@@ -11,6 +11,7 @@ lng: -76.1400
 zipSample: ["13206", "13210", "13208", "13224", "13218"]
 zipCodes: ["13244", "13261", "13217", "13252", "13214", "13207", "13210", "13205", "13218", "13201", "13202", "13290"]
 localPaths: ["Onondaga County / ZIP 13210 sector", "Onondaga County / ZIP 13206 sector", "Onondaga County / ZIP 13208 sector", "Onondaga County / ZIP 13224 sector", "Onondaga County / ZIP 13218 sector"]
+zillowHomeValueUsd: 254894
 ---
 
 **Engineering Notice for Syracuse:** Structural loading calculated based on 410 ft terrain assessment. Regional dispatch grid: Onondaga County.

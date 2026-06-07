@@ -12,6 +12,7 @@ lng: -97.4100
 zipSample: ["78390"]
 zipCodes: ["78390"]
 localPaths: ["San Patricio County / ZIP 78390 sector", "San Patricio County / primary ZIP 78390", "San Patricio County / coords 27.9700, -97.4100", "San Patricio County / elevation 72 ft band"]
+zillowHomeValueUsd: 142387
 ---
 
 **Engineering Notice for Taft Southwest:** Structural integrity verification: Wall Restoration calibrated for 149 mph localized wind load factor. Coordinates: 27.9700, -97.4100. Regional dispatch grid: San Patricio County.

@@ -12,6 +12,7 @@ lng: -83.9200
 zipSample: ["43318"]
 zipCodes: ["43318"]
 localPaths: ["Logan County / primary ZIP 43318", "Logan County / elevation 1004 ft band", "Logan County / coords 40.3100, -83.9200", "Logan County / ZIP 43318 sector"]
+zillowHomeValueUsd: 246758
 ---
 
 **Engineering Notice for De Graff:** Site context locked to Logan County. Coordinates: 40.3100, -83.9200. Facade Renewal integrity verification recorded.

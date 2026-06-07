@@ -12,6 +12,7 @@ lng: -91.3900
 zipSample: ["52159"]
 zipCodes: ["52159"]
 localPaths: ["Clayton County / elevation 1204 ft band", "Clayton County / coords 43.0500, -91.3900", "Clayton County / primary ZIP 52159", "Clayton County / ZIP 52159 sector"]
+zillowHomeValueUsd: 227986
 ---
 
 **Engineering Notice for Monona:** Cladding verification uses 106 mph routing baseline; lateral pressure note: 13.9 psf. Elevation: 1204 ft AMSL. Grid: Clayton County.

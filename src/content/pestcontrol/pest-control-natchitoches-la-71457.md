@@ -11,6 +11,7 @@ lng: -93.1000
 zipSample: ["71458", "71457", "71497"]
 zipCodes: ["71497", "71458", "71457"]
 localPaths: ["Natchitoches Parish / coords 31.7300, -93.1000", "Natchitoches Parish / ZIP 71458 sector", "Natchitoches Parish / elevation 105 ft band", "Natchitoches Parish / primary ZIP 71457", "Natchitoches Parish / ZIP 71497 sector"]
+zillowHomeValueUsd: 181004
 ---
 
 **Engineering Notice for Natchitoches:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Natchitoches Parish.

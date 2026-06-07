@@ -12,6 +12,7 @@ lng: -81.6100
 zipSample: ["44125"]
 zipCodes: ["44125"]
 localPaths: ["Cuyahoga County / ZIP 44125 sector", "Cuyahoga County / elevation 627 ft band", "Cuyahoga County / primary ZIP 44125", "Cuyahoga County / coords 41.3800, -81.6100"]
+zillowHomeValueUsd: 139004
 ---
 
 **Engineering Notice for Valley View:** structural drying capacity optimized for 627ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cuyahoga County. Relative Humidity Threshold: 68%. Sensor sync: Active.

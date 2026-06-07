@@ -12,6 +12,7 @@ lng: -117.2900
 zipSample: ["92408", "92405", "92427", "92411", "92404"]
 zipCodes: ["92408", "92415", "92418", "92407", "92403", "92410", "92404", "92427", "92413", "92423", "92405", "92401"]
 localPaths: ["San Bernardino County / coords 34.1400, -117.2900", "San Bernardino County / ZIP 92408 sector", "San Bernardino County / ZIP 92405 sector", "San Bernardino County / ZIP 92411 sector", "San Bernardino County / elevation 1201 ft band"]
+zillowHomeValueUsd: 480029
 ---
 
 **Engineering Notice for San Bernardino:** Structural loading calculated based on 1201 ft terrain assessment. Regional dispatch grid: San Bernardino County.

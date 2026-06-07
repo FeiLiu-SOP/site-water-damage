@@ -12,6 +12,7 @@ lng: -91.8400
 zipSample: ["52356"]
 zipCodes: ["52356"]
 localPaths: ["Washington County / elevation 771 ft band", "Washington County / ZIP 52356 sector", "Washington County / coords 41.4700, -91.8400", "Washington County / primary ZIP 52356"]
+zillowHomeValueUsd: 241267
 ---
 
 **Engineering Notice for Wellman:** Exterior Cladding was validated under stress factor 0.95; target tolerance set near 97 mph. Coordinates: 41.4700, -91.8400. Grid anchor: Washington County.

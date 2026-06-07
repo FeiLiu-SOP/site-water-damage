@@ -12,6 +12,7 @@ lng: -91.7200
 zipSample: ["63445"]
 zipCodes: ["63445"]
 localPaths: ["Clark County / ZIP 63445 sector", "Clark County / primary ZIP 63445", "Clark County / elevation 699 ft band", "Clark County / coords 40.4200, -91.7200"]
+zillowHomeValueUsd: 168607
 ---
 
 **Engineering Notice for Kahoka:** System optimized for 122 mg/L hard water scaling factors in Kahoka. Regional dispatch grid: Clark County.

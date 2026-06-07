@@ -11,6 +11,7 @@ lng: -96.7900
 zipSample: ["75225", "75205", "75275"]
 zipCodes: ["75275", "75225", "75205"]
 localPaths: ["Dallas County / ZIP 75205 sector", "Dallas County / coords 32.8500, -96.7900", "Dallas County / elevation 571 ft band", "Dallas County / ZIP 75225 sector", "Dallas County / ZIP 75275 sector"]
+zillowHomeValueUsd: 2057953
 ---
 
 **Engineering Notice for University Park:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: Dallas County.

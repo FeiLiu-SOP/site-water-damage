@@ -12,6 +12,7 @@ lng: -121.6900
 zipSample: ["98251"]
 zipCodes: ["98251"]
 localPaths: ["Snohomish County / coords 47.8600, -121.6900", "Snohomish County / ZIP 98251 sector", "Snohomish County / elevation 203 ft band", "Snohomish County / primary ZIP 98251"]
+zillowHomeValueUsd: 480052
 ---
 
 **Engineering Notice for Gold Bar:** Exterior Cladding was validated under stress factor 1.00; target tolerance set near 90 mph. Grid anchor: Snohomish County.

@@ -11,6 +11,7 @@ lng: -83.3800
 zipSample: ["48161", "48162"]
 zipCodes: ["48162", "48161"]
 localPaths: ["Monroe County / ZIP 48161 sector", "Monroe County / ZIP 48162 sector", "Monroe County / primary ZIP 48162", "Monroe County / elevation 581 ft band", "Monroe County / coords 41.9200, -83.3800"]
+zillowHomeValueUsd: 231489
 ---
 
 **Engineering Notice for Monroe:** Structural loading calculated based on 581 ft terrain assessment. Regional dispatch grid: Monroe County.

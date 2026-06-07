@@ -12,6 +12,7 @@ lng: -89.6200
 zipSample: ["61554"]
 zipCodes: ["61554"]
 localPaths: ["Tazewell County / ZIP 61554 sector", "Tazewell County / primary ZIP 61554", "Tazewell County / elevation 476 ft band", "Tazewell County / coords 40.6100, -89.6200"]
+zillowHomeValueUsd: 138004
 ---
 
 **Engineering Notice for North Pekin:** structural drying capacity optimized for 476ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tazewell County. Relative Humidity Threshold: 76%. Sensor sync: Active.

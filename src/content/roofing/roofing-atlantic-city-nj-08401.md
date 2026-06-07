@@ -11,6 +11,7 @@ lng: -74.4500
 zipSample: ["08405", "08401", "08404"]
 zipCodes: ["08404", "08405", "08401"]
 localPaths: ["Atlantic County / elevation 7 ft band", "Atlantic County / coords 39.3800, -74.4500", "Atlantic County / primary ZIP 08401", "Atlantic County / ZIP 08405 sector", "Atlantic County / ZIP 08401 sector"]
+zillowHomeValueUsd: 215896
 ---
 
 **Engineering Notice for Atlantic City:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Atlantic County.

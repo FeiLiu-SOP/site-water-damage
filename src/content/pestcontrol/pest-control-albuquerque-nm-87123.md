@@ -11,6 +11,7 @@ lng: -106.6500
 zipSample: ["87109", "87187", "87196", "87120", "87184"]
 zipCodes: ["87105", "87104", "87187", "87107", "87111", "87196", "87108", "87199", "87101", "87181", "87119", "87194"]
 localPaths: ["Bernalillo County / ZIP 87120 sector", "Bernalillo County / ZIP 87196 sector", "Bernalillo County / ZIP 87109 sector", "Bernalillo County / ZIP 87184 sector", "Bernalillo County / elevation 4980 ft band"]
+zillowHomeValueUsd: 340599
 ---
 
 **Engineering Notice for Albuquerque:** Structural loading calculated based on 4980 ft terrain assessment. Regional dispatch grid: Bernalillo County.

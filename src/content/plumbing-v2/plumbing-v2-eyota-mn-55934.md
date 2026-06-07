@@ -12,6 +12,7 @@ lng: -92.2300
 zipSample: ["55934"]
 zipCodes: ["55934"]
 localPaths: ["Olmsted County / elevation 1257 ft band", "Olmsted County / coords 43.9900, -92.2300", "Olmsted County / ZIP 55934 sector", "Olmsted County / primary ZIP 55934"]
+zillowHomeValueUsd: 353834
 ---
 
 **Engineering Notice for Eyota:** System optimized for 177 mg/L hard water scaling factors in Eyota. Regional dispatch grid: Olmsted County.

@@ -11,6 +11,7 @@ lng: -98.1500
 zipSample: ["78589"]
 zipCodes: ["78589"]
 localPaths: ["Hidalgo County / elevation 121 ft band", "Hidalgo County / primary ZIP 78589", "Hidalgo County / ZIP 78589 sector", "Hidalgo County / coords 26.1900, -98.1500"]
+zillowHomeValueUsd: 183956
 ---
 
 **Engineering Notice for San Juan:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Hidalgo County.

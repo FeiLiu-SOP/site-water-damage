@@ -12,6 +12,7 @@ lng: -121.0200
 zipSample: ["95322"]
 zipCodes: ["95322"]
 localPaths: ["Merced County / ZIP 95322 sector", "Merced County / coords 37.1000, -121.0200", "Merced County / elevation 151 ft band", "Merced County / primary ZIP 95322"]
+zillowHomeValueUsd: 422095
 ---
 
 **Engineering Notice for Santa Nella:** System optimized for 166 mg/L hard water scaling factors in Santa Nella. Regional dispatch grid: Merced County.

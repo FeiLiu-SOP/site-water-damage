@@ -11,6 +11,7 @@ lng: -74.3300
 zipSample: ["07078"]
 zipCodes: ["07078"]
 localPaths: ["Essex County / elevation 413 ft band", "Essex County / ZIP 07078 sector", "Essex County / primary ZIP 07078", "Essex County / coords 40.7400, -74.3300"]
+zillowHomeValueUsd: 2306011
 ---
 
 **Engineering Notice for Short Hills:** Structural loading calculated based on 413 ft terrain assessment. Regional dispatch grid: Essex County.

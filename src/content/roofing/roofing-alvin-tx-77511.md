@@ -11,6 +11,7 @@ lng: -95.2900
 zipSample: ["77511", "77512", "77583"]
 zipCodes: ["77511", "77583", "77512"]
 localPaths: ["Brazoria County / coords 29.3900, -95.2900", "Brazoria County / elevation 46 ft band", "Brazoria County / ZIP 77512 sector", "Brazoria County / ZIP 77511 sector", "Brazoria County / primary ZIP 77511"]
+zillowHomeValueUsd: 295855
 ---
 
 **Engineering Notice for Alvin:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Brazoria County.

@@ -12,6 +12,7 @@ lng: -110.8300
 zipSample: ["84526", "84501"]
 zipCodes: ["84526", "84501"]
 localPaths: ["Carbon County / coords 39.6300, -110.8300", "Carbon County / primary ZIP 84526", "Carbon County / ZIP 84501 sector", "Carbon County / ZIP 84526 sector", "Carbon County / elevation 5676 ft band"]
+zillowHomeValueUsd: 283375
 ---
 
 **Engineering Notice for Carbonville:** structural drying capacity optimized for 5676ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Carbon County. Relative Humidity Threshold: 66%. Sensor sync: Active.

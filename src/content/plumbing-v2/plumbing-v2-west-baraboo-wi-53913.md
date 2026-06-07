@@ -12,6 +12,7 @@ lng: -89.7700
 zipSample: ["53913"]
 zipCodes: ["53913"]
 localPaths: ["Sauk County / coords 43.4800, -89.7700", "Sauk County / elevation 1007 ft band", "Sauk County / ZIP 53913 sector", "Sauk County / primary ZIP 53913"]
+zillowHomeValueUsd: 302154
 ---
 
 **Engineering Notice for West Baraboo:** System optimized for 149 mg/L hard water scaling factors in West Baraboo. Regional dispatch grid: Sauk County.

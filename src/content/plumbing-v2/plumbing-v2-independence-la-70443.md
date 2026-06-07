@@ -12,6 +12,7 @@ lng: -90.5100
 zipSample: ["70443"]
 zipCodes: ["70443"]
 localPaths: ["Tangipahoa Parish / primary ZIP 70443", "Tangipahoa Parish / coords 30.6400, -90.5100", "Tangipahoa Parish / elevation 95 ft band", "Tangipahoa Parish / ZIP 70443 sector"]
+zillowHomeValueUsd: 191982
 ---
 
 **Engineering Notice for Independence:** System optimized for 146 mg/L hard water scaling factors in Independence. Regional dispatch grid: Tangipahoa Parish.

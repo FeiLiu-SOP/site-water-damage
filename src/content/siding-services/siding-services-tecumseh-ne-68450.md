@@ -12,6 +12,7 @@ lng: -96.1900
 zipSample: ["68450"]
 zipCodes: ["68450"]
 localPaths: ["Johnson County / coords 40.3700, -96.1900", "Johnson County / elevation 1125 ft band", "Johnson County / ZIP 68450 sector", "Johnson County / primary ZIP 68450"]
+zillowHomeValueUsd: 177808
 ---
 
 **Engineering Notice for Tecumseh:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Elevation: 1125 ft AMSL. Grid: Johnson County.

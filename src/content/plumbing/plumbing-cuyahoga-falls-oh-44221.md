@@ -12,6 +12,7 @@ lng: -81.5200
 zipSample: ["44221", "44222", "44264", "44223", "44313"]
 zipCodes: ["44264", "44222", "44313", "44223", "44221"]
 localPaths: ["Summit County / primary ZIP 44221", "Summit County / ZIP 44221 sector", "Summit County / ZIP 44222 sector", "Summit County / ZIP 44223 sector", "Summit County / coords 41.1600, -81.5200"]
+zillowHomeValueUsd: 195317
 ---
 
 **Engineering Notice for Cuyahoga Falls:** Structural loading calculated based on 994 ft terrain assessment. Regional dispatch grid: Summit County.

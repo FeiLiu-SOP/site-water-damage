@@ -12,6 +12,7 @@ lng: -81.7900
 zipSample: ["29831"]
 zipCodes: ["29831"]
 localPaths: ["Aiken County / coords 33.3300, -81.7900", "Aiken County / ZIP 29831 sector", "Aiken County / primary ZIP 29831", "Aiken County / elevation 217 ft band"]
+zillowHomeValueUsd: 123188
 ---
 
 **Engineering Notice for Jackson:** System optimized for 178 mg/L hard water scaling factors in Jackson. Regional dispatch grid: Aiken County.

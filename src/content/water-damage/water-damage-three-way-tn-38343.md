@@ -12,6 +12,7 @@ lng: -88.8600
 zipSample: ["38343"]
 zipCodes: ["38343"]
 localPaths: ["Madison County / coords 35.7700, -88.8600", "Madison County / ZIP 38343 sector", "Madison County / elevation 433 ft band", "Madison County / primary ZIP 38343"]
+zillowHomeValueUsd: 179759
 ---
 
 **Engineering Notice for Three Way:** structural drying capacity optimized for 433ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Madison County. Relative Humidity Threshold: 75%. Sensor sync: Active.

@@ -11,6 +11,7 @@ lng: -111.0100
 zipSample: ["85741", "85742", "85704", "85752"]
 zipCodes: ["85741", "85752", "85742", "85704"]
 localPaths: ["Pima County / ZIP 85741 sector", "Pima County / elevation 2411 ft band", "Pima County / primary ZIP 85704", "Pima County / ZIP 85742 sector", "Pima County / coords 32.3400, -111.0100"]
+zillowHomeValueUsd: 448266
 ---
 
 **Engineering Notice for Casas Adobes:** Structural loading calculated based on 2411 ft terrain assessment. Regional dispatch grid: Pima County.

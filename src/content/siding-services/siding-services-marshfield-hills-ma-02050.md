@@ -12,6 +12,7 @@ lng: -70.7300
 zipSample: ["02051", "02050"]
 zipCodes: ["02051", "02050"]
 localPaths: ["Plymouth County / ZIP 02050 sector", "Plymouth County / ZIP 02051 sector", "Plymouth County / elevation 79 ft band", "Plymouth County / primary ZIP 02050", "Plymouth County / coords 42.1500, -70.7300"]
+zillowHomeValueUsd: 793575
 ---
 
 **Engineering Notice for Marshfield Hills:** Wall Restoration was validated under stress factor 0.75; target tolerance set near 109 mph. Grid anchor: Plymouth County.

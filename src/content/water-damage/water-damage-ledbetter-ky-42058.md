@@ -12,6 +12,7 @@ lng: -88.4900
 zipSample: ["42058"]
 zipCodes: ["42058"]
 localPaths: ["Livingston County / ZIP 42058 sector", "Livingston County / primary ZIP 42058", "Livingston County / elevation 341 ft band", "Livingston County / coords 37.0500, -88.4900"]
+zillowHomeValueUsd: 157460
 ---
 
 **Engineering Notice for Ledbetter:** structural drying capacity optimized for 341ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Livingston County. Relative Humidity Threshold: 82%. Sensor sync: Active.

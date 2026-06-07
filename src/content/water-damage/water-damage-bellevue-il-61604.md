@@ -12,6 +12,7 @@ lng: -89.6700
 zipSample: ["61604"]
 zipCodes: ["61604"]
 localPaths: ["Peoria County / primary ZIP 61604", "Peoria County / ZIP 61604 sector", "Peoria County / elevation 604 ft band", "Peoria County / coords 40.6900, -89.6700"]
+zillowHomeValueUsd: 105059
 ---
 
 **Engineering Notice for Bellevue:** structural drying capacity optimized for 604ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Peoria County. Relative Humidity Threshold: 77%. Sensor sync: Active.

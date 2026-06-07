@@ -12,6 +12,8 @@ lng: -66.0600
 zipSample: ["00955", "00913", "00975", "00907", "00929"]
 zipCodes: ["00908", "00928", "00909", "00907", "00969", "00939", "00975", "00935", "00913", "00926", "00955", "00936"]
 localPaths: ["San Juan County / ZIP 00975 sector", "San Juan County / ZIP 00913 sector", "San Juan County / elevation 43 ft band", "San Juan County / ZIP 00955 sector", "San Juan County / ZIP 00907 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 358698
 ---
 
 **Engineering Notice for San Juan:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: San Juan County.

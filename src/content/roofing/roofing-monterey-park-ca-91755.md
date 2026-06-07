@@ -11,6 +11,7 @@ lng: -118.1300
 zipSample: ["91755", "91756", "91754"]
 zipCodes: ["91755", "91754", "91756"]
 localPaths: ["Los Angeles County / coords 34.0500, -118.1300", "Los Angeles County / ZIP 91754 sector", "Los Angeles County / ZIP 91755 sector", "Los Angeles County / primary ZIP 91755", "Los Angeles County / ZIP 91756 sector"]
+zillowHomeValueUsd: 924213
 ---
 
 **Engineering Notice for Monterey Park:** Structural loading calculated based on 509 ft terrain assessment. Regional dispatch grid: Los Angeles County.

@@ -12,6 +12,7 @@ lng: -90.8800
 zipSample: ["39159"]
 zipCodes: ["39159"]
 localPaths: ["Sharkey County / elevation 115 ft band", "Sharkey County / primary ZIP 39159", "Sharkey County / coords 32.9100, -90.8800", "Sharkey County / ZIP 39159 sector"]
+zillowHomeValueUsd: 113565
 ---
 
 **Engineering Notice for Rolling Fork:** System optimized for 145 mg/L hard water scaling factors in Rolling Fork. Regional dispatch grid: Sharkey County.

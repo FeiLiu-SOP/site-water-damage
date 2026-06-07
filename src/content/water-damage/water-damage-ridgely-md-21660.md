@@ -12,6 +12,7 @@ lng: -75.8800
 zipSample: ["21660"]
 zipCodes: ["21660"]
 localPaths: ["Caroline County / coords 38.9500, -75.8800", "Caroline County / ZIP 21660 sector", "Caroline County / elevation 59 ft band", "Caroline County / primary ZIP 21660"]
+zillowHomeValueUsd: 365552
 ---
 
 **Engineering Notice for Ridgely:** structural drying capacity optimized for 59ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Caroline County. Relative Humidity Threshold: 65%. Sensor sync: Active.

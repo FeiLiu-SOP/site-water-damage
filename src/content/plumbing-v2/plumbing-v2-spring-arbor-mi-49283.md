@@ -12,6 +12,7 @@ lng: -84.5600
 zipSample: ["49283"]
 zipCodes: ["49283"]
 localPaths: ["Jackson County / ZIP 49283 sector", "Jackson County / elevation 1007 ft band", "Jackson County / primary ZIP 49283", "Jackson County / coords 42.2100, -84.5600"]
+zillowHomeValueUsd: 283264
 ---
 
 **Engineering Notice for Spring Arbor:** System optimized for 174 mg/L hard water scaling factors in Spring Arbor. Regional dispatch grid: Jackson County.

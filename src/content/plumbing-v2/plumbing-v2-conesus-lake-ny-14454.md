@@ -12,6 +12,7 @@ lng: -77.7100
 zipSample: ["14435", "14487", "14480", "14454"]
 zipCodes: ["14435", "14480", "14454", "14487"]
 localPaths: ["Livingston County / coords 42.7800, -77.7100", "Livingston County / elevation 810 ft band", "Livingston County / ZIP 14480 sector", "Livingston County / ZIP 14435 sector", "Livingston County / ZIP 14487 sector"]
+zillowHomeValueUsd: 310257
 ---
 
 **Engineering Notice for Conesus Lake:** System optimized for 159 mg/L hard water scaling factors in Conesus Lake. Regional dispatch grid: Livingston County.

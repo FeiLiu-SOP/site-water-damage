@@ -12,6 +12,7 @@ lng: -101.6800
 zipSample: ["79329"]
 zipCodes: ["79329"]
 localPaths: ["Lubbock County / ZIP 79329 sector", "Lubbock County / primary ZIP 79329", "Lubbock County / coords 33.6600, -101.6800", "Lubbock County / elevation 3199 ft band"]
+zillowHomeValueUsd: 252919
 ---
 
 **Engineering Notice for Idalou:** structural drying capacity optimized for 3199ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lubbock County. Relative Humidity Threshold: 67%. Sensor sync: Active.

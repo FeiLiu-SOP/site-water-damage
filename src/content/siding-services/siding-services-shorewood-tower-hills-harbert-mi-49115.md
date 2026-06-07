@@ -12,6 +12,7 @@ lng: -86.6100
 zipSample: ["49115", "49125"]
 zipCodes: ["49115", "49125"]
 localPaths: ["Berrien County / ZIP 49115 sector", "Berrien County / coords 41.8800, -86.6100", "Berrien County / ZIP 49125 sector", "Berrien County / primary ZIP 49115", "Berrien County / elevation 656 ft band"]
+zillowHomeValueUsd: 807262
 ---
 
 **Engineering Notice for Shorewood-Tower Hills-Harbert:** Vinyl Panels was validated under stress factor 1.09; target tolerance set near 107 mph. Grid anchor: Berrien County.

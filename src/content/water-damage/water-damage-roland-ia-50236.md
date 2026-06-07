@@ -12,6 +12,7 @@ lng: -93.5000
 zipSample: ["50236"]
 zipCodes: ["50236"]
 localPaths: ["Story County / ZIP 50236 sector", "Story County / elevation 1037 ft band", "Story County / coords 42.1700, -93.5000", "Story County / primary ZIP 50236"]
+zillowHomeValueUsd: 252310
 ---
 
 **Engineering Notice for Roland:** structural drying capacity optimized for 1037ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Story County. Relative Humidity Threshold: 66%. Sensor sync: Active.

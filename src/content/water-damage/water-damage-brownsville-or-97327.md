@@ -12,6 +12,7 @@ lng: -122.9800
 zipSample: ["97327"]
 zipCodes: ["97327"]
 localPaths: ["Linn County / ZIP 97327 sector", "Linn County / elevation 344 ft band", "Linn County / coords 44.3900, -122.9800", "Linn County / primary ZIP 97327"]
+zillowHomeValueUsd: 443295
 ---
 
 **Engineering Notice for Brownsville:** structural drying capacity optimized for 344ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Linn County. Relative Humidity Threshold: 68%. Sensor sync: Active.

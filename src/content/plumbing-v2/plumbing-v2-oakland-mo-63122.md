@@ -12,6 +12,7 @@ lng: -90.3800
 zipSample: ["63122"]
 zipCodes: ["63122"]
 localPaths: ["St. Louis County / elevation 610 ft band", "St. Louis County / ZIP 63122 sector", "St. Louis County / coords 38.5800, -90.3800", "St. Louis County / primary ZIP 63122"]
+zillowHomeValueUsd: 505176
 ---
 
 **Engineering Notice for Oakland:** System optimized for 138 mg/L hard water scaling factors in Oakland. Regional dispatch grid: St. Louis County.

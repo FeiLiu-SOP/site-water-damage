@@ -12,6 +12,7 @@ lng: -81.8100
 zipSample: ["29832"]
 zipCodes: ["29832"]
 localPaths: ["Edgefield County / elevation 659 ft band", "Edgefield County / ZIP 29832 sector", "Edgefield County / coords 33.8300, -81.8100", "Edgefield County / primary ZIP 29832"]
+zillowHomeValueUsd: 152220
 ---
 
 **Engineering Notice for Johnston:** System optimized for 145 mg/L hard water scaling factors in Johnston. Regional dispatch grid: Edgefield County.

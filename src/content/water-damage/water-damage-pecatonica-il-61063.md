@@ -12,6 +12,7 @@ lng: -89.3600
 zipSample: ["61063"]
 zipCodes: ["61063"]
 localPaths: ["Winnebago County / primary ZIP 61063", "Winnebago County / coords 42.3100, -89.3600", "Winnebago County / ZIP 61063 sector", "Winnebago County / elevation 761 ft band"]
+zillowHomeValueUsd: 226865
 ---
 
 **Engineering Notice for Pecatonica:** structural drying capacity optimized for 761ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Winnebago County. Relative Humidity Threshold: 85%. Sensor sync: Active.

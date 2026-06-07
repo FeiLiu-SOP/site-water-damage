@@ -11,6 +11,7 @@ lng: -71.0900
 zipSample: ["02284", "02126", "02115", "02118", "02199"]
 zipCodes: ["02131", "02196", "02284", "02130", "02119", "02293", "02115", "02211", "02135", "02114", "02241", "02133"]
 localPaths: ["Suffolk County / coords 42.3200, -71.0900", "Suffolk County / ZIP 02126 sector", "Suffolk County / elevation 98 ft band", "Suffolk County / primary ZIP 02120", "Suffolk County / ZIP 02118 sector"]
+zillowHomeValueUsd: 949234
 ---
 
 **Engineering Notice for Boston:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Suffolk County.

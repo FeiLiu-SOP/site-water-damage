@@ -12,6 +12,7 @@ lng: -85.1400
 zipSample: ["48849"]
 zipCodes: ["48849"]
 localPaths: ["Ionia County / ZIP 48849 sector", "Ionia County / primary ZIP 48849", "Ionia County / elevation 860 ft band", "Ionia County / coords 42.7800, -85.1400"]
+zillowHomeValueUsd: 256243
 ---
 
 **Engineering Notice for Lake Odessa:** System optimized for 124 mg/L hard water scaling factors in Lake Odessa. Regional dispatch grid: Ionia County.

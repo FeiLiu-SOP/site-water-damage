@@ -12,6 +12,7 @@ lng: -78.9300
 zipSample: ["15905"]
 zipCodes: ["15905"]
 localPaths: ["Cambria County / coords 40.3100, -78.9300", "Cambria County / primary ZIP 15905", "Cambria County / elevation 1591 ft band", "Cambria County / ZIP 15905 sector"]
+zillowHomeValueUsd: 115115
 ---
 
 **Engineering Notice for Southmont:** structural drying capacity optimized for 1591ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cambria County. Relative Humidity Threshold: 81%. Sensor sync: Active.

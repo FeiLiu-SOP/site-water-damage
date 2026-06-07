@@ -12,6 +12,7 @@ lng: -85.0700
 zipSample: ["42629"]
 zipCodes: ["42629"]
 localPaths: ["Russell County / ZIP 42629 sector", "Russell County / primary ZIP 42629", "Russell County / elevation 968 ft band", "Russell County / coords 36.9900, -85.0700"]
+zillowHomeValueUsd: 162250
 ---
 
 **Engineering Notice for Jamestown:** Envelope check: Cladding Service assigned to wind-load band A with stress factor 0.87. Elevation: 968 ft AMSL. Regional dispatch grid: Russell County.

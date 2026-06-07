@@ -12,6 +12,7 @@ lng: -120.9800
 zipSample: ["95358"]
 zipCodes: ["95358"]
 localPaths: ["Stanislaus County / primary ZIP 95358", "Stanislaus County / elevation 89 ft band", "Stanislaus County / coords 37.6100, -120.9800", "Stanislaus County / ZIP 95358 sector"]
+zillowHomeValueUsd: 434059
 ---
 
 **Engineering Notice for Parklawn:** System optimized for 131 mg/L hard water scaling factors in Parklawn. Regional dispatch grid: Stanislaus County.

@@ -12,6 +12,7 @@ lng: -90.0600
 zipSample: ["62087", "62025"]
 zipCodes: ["62087", "62025"]
 localPaths: ["Madison County / primary ZIP 62087", "Madison County / coords 38.8100, -90.0600", "Madison County / ZIP 62087 sector", "Madison County / elevation 420 ft band", "Madison County / ZIP 62025 sector"]
+zillowHomeValueUsd: 96561
 ---
 
 **Engineering Notice for South Roxana:** Cladding verification uses 105 mph routing baseline; lateral pressure note: 13.8 psf. Coordinates: 38.8100, -90.0600. Grid: Madison County.

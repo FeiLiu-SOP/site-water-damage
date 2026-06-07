@@ -12,6 +12,7 @@ lng: -86.6800
 zipSample: ["37049"]
 zipCodes: ["37049"]
 localPaths: ["Robertson County / ZIP 37049 sector", "Robertson County / coords 36.5400, -86.6800", "Robertson County / elevation 784 ft band", "Robertson County / primary ZIP 37049"]
+zillowHomeValueUsd: 419975
 ---
 
 **Engineering Notice for Cross Plains:** Structural integrity verification: Wall Restoration calibrated for 108 mph localized wind load factor. Elevation: 784 ft AMSL. Coordinates: 36.5400, -86.6800. Regional dispatch grid: Robertson County.

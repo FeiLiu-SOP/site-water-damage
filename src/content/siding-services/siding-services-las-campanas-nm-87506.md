@@ -12,6 +12,7 @@ lng: -106.0600
 zipSample: ["87506"]
 zipCodes: ["87506"]
 localPaths: ["Santa Fe County / elevation 6588 ft band", "Santa Fe County / ZIP 87506 sector", "Santa Fe County / primary ZIP 87506", "Santa Fe County / coords 35.7200, -106.0600"]
+zillowHomeValueUsd: 1093176
 ---
 
 **Engineering Notice for Las Campanas:** Structural integrity verification: Exterior Envelope calibrated for 101 mph localized wind load factor. Elevation: 6588 ft AMSL. Regional dispatch grid: Santa Fe County.

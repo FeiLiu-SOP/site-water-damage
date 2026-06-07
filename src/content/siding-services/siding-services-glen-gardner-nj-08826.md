@@ -12,6 +12,7 @@ lng: -74.9400
 zipSample: ["08826"]
 zipCodes: ["08826"]
 localPaths: ["Hunterdon County / elevation 561 ft band", "Hunterdon County / coords 40.7000, -74.9400", "Hunterdon County / primary ZIP 08826", "Hunterdon County / ZIP 08826 sector"]
+zillowHomeValueUsd: 552656
 ---
 
 **Engineering Notice for Glen Gardner:** Structural integrity verification: Cladding Retrofit calibrated for 107 mph localized wind load factor. Regional dispatch grid: Hunterdon County.

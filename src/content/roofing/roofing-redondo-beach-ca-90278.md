@@ -11,6 +11,7 @@ lng: -118.3800
 zipSample: ["90277", "90278"]
 zipCodes: ["90278", "90277"]
 localPaths: ["Los Angeles County / coords 33.8600, -118.3800", "Los Angeles County / elevation 144 ft band", "Los Angeles County / ZIP 90277 sector", "Los Angeles County / primary ZIP 90278", "Los Angeles County / ZIP 90278 sector"]
+zillowHomeValueUsd: 1416872
 ---
 
 **Engineering Notice for Redondo Beach:** Structural loading calculated based on 144 ft terrain assessment. Regional dispatch grid: Los Angeles County.

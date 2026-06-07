@@ -12,6 +12,7 @@ lng: -85.3100
 zipSample: ["36303", "36321"]
 zipCodes: ["36303", "36321"]
 localPaths: ["Houston County / primary ZIP 36303", "Houston County / elevation 358 ft band", "Houston County / coords 31.2000, -85.3100", "Houston County / ZIP 36321 sector", "Houston County / ZIP 36303 sector"]
+zillowHomeValueUsd: 184714
 ---
 
 **Engineering Notice for Cowarts:** Panel Replacement was validated under stress factor 1.13; target tolerance set near 107 mph. Grid anchor: Houston County.

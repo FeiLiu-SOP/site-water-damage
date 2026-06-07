@@ -11,6 +11,7 @@ lng: -111.8700
 zipSample: ["84043", "84048"]
 zipCodes: ["84043", "84048"]
 localPaths: ["Utah County / ZIP 84043 sector", "Utah County / primary ZIP 84043", "Utah County / elevation 4557 ft band", "Utah County / coords 40.4100, -111.8700", "Utah County / ZIP 84048 sector"]
+zillowHomeValueUsd: 573610
 ---
 
 **Engineering Notice for Lehi:** Structural loading calculated based on 4557 ft terrain assessment. Regional dispatch grid: Utah County.

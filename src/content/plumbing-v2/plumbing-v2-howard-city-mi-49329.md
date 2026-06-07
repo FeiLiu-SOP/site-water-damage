@@ -12,6 +12,7 @@ lng: -85.4700
 zipSample: ["49329"]
 zipCodes: ["49329"]
 localPaths: ["Montcalm County / elevation 883 ft band", "Montcalm County / primary ZIP 49329", "Montcalm County / coords 43.3900, -85.4700", "Montcalm County / ZIP 49329 sector"]
+zillowHomeValueUsd: 271413
 ---
 
 **Engineering Notice for Howard City:** System optimized for 180 mg/L hard water scaling factors in Howard City. Regional dispatch grid: Montcalm County.

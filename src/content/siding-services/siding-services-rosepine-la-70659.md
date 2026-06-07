@@ -12,6 +12,7 @@ lng: -93.2900
 zipSample: ["70634", "70659"]
 zipCodes: ["70659", "70634"]
 localPaths: ["Vernon Parish / coords 30.9200, -93.2900", "Vernon Parish / ZIP 70634 sector", "Vernon Parish / primary ZIP 70659", "Vernon Parish / ZIP 70659 sector", "Vernon Parish / elevation 243 ft band"]
+zillowHomeValueUsd: 190108
 ---
 
 **Engineering Notice for Rosepine:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Elevation: 243 ft AMSL. Coordinates: 30.9200, -93.2900. Grid: Vernon Parish.

@@ -12,6 +12,7 @@ lng: -87.9500
 zipSample: ["53075"]
 zipCodes: ["53075"]
 localPaths: ["Sheboygan County / elevation 866 ft band", "Sheboygan County / primary ZIP 53075", "Sheboygan County / coords 43.5500, -87.9500", "Sheboygan County / ZIP 53075 sector"]
+zillowHomeValueUsd: 355037
 ---
 
 **Engineering Notice for Random Lake:** Cladding verification uses 96 mph routing baseline; lateral pressure note: 12.7 psf. Elevation: 866 ft AMSL. Coordinates: 43.5500, -87.9500. Grid: Sheboygan County.

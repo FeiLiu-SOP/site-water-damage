@@ -12,6 +12,7 @@ lng: -76.1400
 zipSample: ["13036"]
 zipCodes: ["13036"]
 localPaths: ["Oswego County / elevation 394 ft band", "Oswego County / ZIP 13036 sector", "Oswego County / coords 43.2900, -76.1400", "Oswego County / primary ZIP 13036"]
+zillowHomeValueUsd: 253055
 ---
 
 **Engineering Notice for Central Square:** Envelope check: Wall Restoration assigned to wind-load band A with stress factor 1.14. Elevation: 394 ft AMSL. Regional dispatch grid: Oswego County.

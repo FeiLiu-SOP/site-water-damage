@@ -12,6 +12,7 @@ lng: -83.1900
 zipSample: ["48072"]
 zipCodes: ["48072"]
 localPaths: ["Oakland County / coords 42.5000, -83.1900", "Oakland County / elevation 696 ft band", "Oakland County / primary ZIP 48072", "Oakland County / ZIP 48072 sector"]
+zillowHomeValueUsd: 314775
 ---
 
 **Engineering Notice for Berkley:** Structural loading calculated based on 696 ft terrain assessment. Regional dispatch grid: Oakland County.

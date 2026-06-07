@@ -12,6 +12,7 @@ lng: -105.5900
 zipSample: ["87529", "87514"]
 zipCodes: ["87529", "87514"]
 localPaths: ["Taos County / elevation 7579 ft band", "Taos County / ZIP 87529 sector", "Taos County / ZIP 87514 sector", "Taos County / primary ZIP 87529", "Taos County / coords 36.5200, -105.5900"]
+zillowHomeValueUsd: 496891
 ---
 
 **Engineering Notice for Arroyo Seco:** System optimized for 175 mg/L hard water scaling factors in Arroyo Seco. Regional dispatch grid: Taos County.

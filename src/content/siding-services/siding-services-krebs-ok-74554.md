@@ -12,6 +12,7 @@ lng: -95.7200
 zipSample: ["74501", "74554"]
 zipCodes: ["74501", "74554"]
 localPaths: ["Pittsburg County / coords 34.9300, -95.7200", "Pittsburg County / primary ZIP 74554", "Pittsburg County / ZIP 74501 sector", "Pittsburg County / elevation 686 ft band", "Pittsburg County / ZIP 74554 sector"]
+zillowHomeValueUsd: 114881
 ---
 
 **Engineering Notice for Krebs:** Cladding verification uses 105 mph routing baseline; lateral pressure note: 13.8 psf. Grid: Pittsburg County.

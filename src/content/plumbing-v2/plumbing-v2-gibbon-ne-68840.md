@@ -12,6 +12,7 @@ lng: -98.8500
 zipSample: ["68840"]
 zipCodes: ["68840"]
 localPaths: ["Buffalo County / coords 40.7500, -98.8500", "Buffalo County / primary ZIP 68840", "Buffalo County / ZIP 68840 sector", "Buffalo County / elevation 2070 ft band"]
+zillowHomeValueUsd: 254895
 ---
 
 **Engineering Notice for Gibbon:** System optimized for 167 mg/L hard water scaling factors in Gibbon. Regional dispatch grid: Buffalo County.

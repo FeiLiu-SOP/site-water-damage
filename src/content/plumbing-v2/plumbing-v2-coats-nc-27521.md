@@ -12,6 +12,7 @@ lng: -78.6700
 zipSample: ["27521"]
 zipCodes: ["27521"]
 localPaths: ["Harnett County / coords 35.4100, -78.6700", "Harnett County / elevation 305 ft band", "Harnett County / primary ZIP 27521", "Harnett County / ZIP 27521 sector"]
+zillowHomeValueUsd: 244928
 ---
 
 **Engineering Notice for Coats:** System optimized for 132 mg/L hard water scaling factors in Coats. Regional dispatch grid: Harnett County.

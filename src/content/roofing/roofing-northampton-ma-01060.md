@@ -11,6 +11,7 @@ lng: -72.6700
 zipSample: ["01060", "01061", "01062", "01053", "01063"]
 zipCodes: ["01063", "01061", "01053", "01062", "01060"]
 localPaths: ["Hampshire County / ZIP 01063 sector", "Hampshire County / ZIP 01061 sector", "Hampshire County / primary ZIP 01060", "Hampshire County / ZIP 01062 sector", "Hampshire County / elevation 240 ft band"]
+zillowHomeValueUsd: 498174
 ---
 
 **Engineering Notice for Northampton:** Structural loading calculated based on 240 ft terrain assessment. Regional dispatch grid: Hampshire County.

@@ -12,6 +12,7 @@ lng: -87.2600
 zipSample: ["32535"]
 zipCodes: ["32535"]
 localPaths: ["Escambia County / primary ZIP 32535", "Escambia County / elevation 112 ft band", "Escambia County / coords 30.9800, -87.2600", "Escambia County / ZIP 32535 sector"]
+zillowHomeValueUsd: 201963
 ---
 
 **Engineering Notice for Century:** structural drying capacity optimized for 112ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Escambia County. Relative Humidity Threshold: 71%. Sensor sync: Active.

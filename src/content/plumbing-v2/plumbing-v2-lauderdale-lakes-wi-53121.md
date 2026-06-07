@@ -12,6 +12,7 @@ lng: -88.5800
 zipSample: ["53121"]
 zipCodes: ["53121"]
 localPaths: ["Walworth County / coords 42.7700, -88.5800", "Walworth County / ZIP 53121 sector", "Walworth County / primary ZIP 53121", "Walworth County / elevation 892 ft band"]
+zillowHomeValueUsd: 394089
 ---
 
 **Engineering Notice for Lauderdale Lakes:** System optimized for 168 mg/L hard water scaling factors in Lauderdale Lakes. Regional dispatch grid: Walworth County.

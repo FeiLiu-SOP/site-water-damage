@@ -11,6 +11,7 @@ lng: -122.2900
 zipSample: ["98371", "98352", "98374", "98373", "98372"]
 zipCodes: ["98372", "98374", "98371", "98352", "98373"]
 localPaths: ["Pierce County / elevation 115 ft band", "Pierce County / coords 47.1800, -122.2900", "Pierce County / ZIP 98374 sector", "Pierce County / ZIP 98371 sector", "Pierce County / ZIP 98352 sector"]
+zillowHomeValueUsd: 584163
 ---
 
 **Engineering Notice for Puyallup:** Structural loading calculated based on 115 ft terrain assessment. Regional dispatch grid: Pierce County.

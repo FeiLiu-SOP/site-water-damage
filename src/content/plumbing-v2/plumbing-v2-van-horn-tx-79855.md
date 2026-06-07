@@ -12,6 +12,7 @@ lng: -104.8300
 zipSample: ["79855"]
 zipCodes: ["79855"]
 localPaths: ["Culberson County / elevation 4058 ft band", "Culberson County / primary ZIP 79855", "Culberson County / ZIP 79855 sector", "Culberson County / coords 31.0400, -104.8300"]
+zillowHomeValueUsd: 171734
 ---
 
 **Engineering Notice for Van Horn:** System optimized for 139 mg/L hard water scaling factors in Van Horn. Regional dispatch grid: Culberson County.

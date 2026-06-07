@@ -12,6 +12,7 @@ lng: -88.1600
 zipSample: ["60431", "60435"]
 zipCodes: ["60435", "60431"]
 localPaths: ["Will County / ZIP 60431 sector", "Will County / primary ZIP 60431", "Will County / elevation 617 ft band", "Will County / coords 41.5700, -88.1600", "Will County / ZIP 60435 sector"]
+zillowHomeValueUsd: 345399
 ---
 
 **Engineering Notice for Crystal Lawns:** System optimized for 136 mg/L hard water scaling factors in Crystal Lawns. Regional dispatch grid: Will County.

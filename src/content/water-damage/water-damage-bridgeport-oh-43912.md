@@ -12,6 +12,7 @@ lng: -80.7500
 zipSample: ["43912", "43916"]
 zipCodes: ["43912", "43916"]
 localPaths: ["Belmont County / ZIP 43916 sector", "Belmont County / elevation 896 ft band", "Belmont County / coords 40.0700, -80.7500", "Belmont County / ZIP 43912 sector", "Belmont County / primary ZIP 43912"]
+zillowHomeValueUsd: 94923
 ---
 
 **Engineering Notice for Bridgeport:** structural drying capacity optimized for 896ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Belmont County. Relative Humidity Threshold: 84%. Sensor sync: Active.

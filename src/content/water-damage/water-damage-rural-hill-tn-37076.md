@@ -12,6 +12,7 @@ lng: -86.5100
 zipSample: ["37076", "37122"]
 zipCodes: ["37076", "37122"]
 localPaths: ["Wilson County / ZIP 37122 sector", "Wilson County / primary ZIP 37076", "Wilson County / ZIP 37076 sector", "Wilson County / elevation 577 ft band", "Wilson County / coords 36.1200, -86.5100"]
+zillowHomeValueUsd: 404796
 ---
 
 **Engineering Notice for Rural Hill:** structural drying capacity optimized for 577ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wilson County. Relative Humidity Threshold: 79%. Sensor sync: Active.

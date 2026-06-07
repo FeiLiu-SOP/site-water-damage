@@ -12,6 +12,7 @@ lng: -91.9600
 zipSample: ["70577"]
 zipCodes: ["70577"]
 localPaths: ["St. Landry Parish / ZIP 70577 sector", "St. Landry Parish / elevation 43 ft band", "St. Landry Parish / primary ZIP 70577", "St. Landry Parish / coords 30.5600, -91.9600"]
+zillowHomeValueUsd: 122632
 ---
 
 **Engineering Notice for Port Barre:** System optimized for 149 mg/L hard water scaling factors in Port Barre. Regional dispatch grid: St. Landry Parish.

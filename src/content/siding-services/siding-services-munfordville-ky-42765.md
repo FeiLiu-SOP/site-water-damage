@@ -12,6 +12,7 @@ lng: -85.9000
 zipSample: ["42765"]
 zipCodes: ["42765"]
 localPaths: ["Hart County / primary ZIP 42765", "Hart County / coords 37.2800, -85.9000", "Hart County / elevation 614 ft band", "Hart County / ZIP 42765 sector"]
+zillowHomeValueUsd: 198835
 ---
 
 **Engineering Notice for Munfordville:** Panel Replacement was validated under stress factor 1.01; target tolerance set near 108 mph. Coordinates: 37.2800, -85.9000. Grid anchor: Hart County.

@@ -12,6 +12,8 @@ lng: -65.7500
 zipSample: ["00773"]
 zipCodes: ["00773"]
 localPaths: ["Luquillo County / ZIP 00773 sector", "Luquillo County / coords 18.3800, -65.7500", "Luquillo County / primary ZIP 00773", "Luquillo County / elevation 121 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 383762
 ---
 
 **Engineering Notice for Playa Fortuna:** Envelope check: Facade Renewal assigned to wind-load band B with stress factor 0.70. Regional dispatch grid: Luquillo County.

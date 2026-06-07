@@ -12,6 +12,7 @@ lng: -93.0900
 zipSample: ["71913"]
 zipCodes: ["71913"]
 localPaths: ["Garland County / primary ZIP 71913", "Garland County / coords 34.4300, -93.0900", "Garland County / elevation 433 ft band", "Garland County / ZIP 71913 sector"]
+zillowHomeValueUsd: 261795
 ---
 
 **Engineering Notice for Lake Hamilton:** structural drying capacity optimized for 433ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Garland County. Relative Humidity Threshold: 77%. Sensor sync: Active.

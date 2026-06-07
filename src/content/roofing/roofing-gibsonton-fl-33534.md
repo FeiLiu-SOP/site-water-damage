@@ -11,6 +11,7 @@ lng: -82.3800
 zipSample: ["33534"]
 zipCodes: ["33534"]
 localPaths: ["Hillsborough County / coords 27.8300, -82.3800", "Hillsborough County / elevation 23 ft band", "Hillsborough County / primary ZIP 33534", "Hillsborough County / ZIP 33534 sector"]
+zillowHomeValueUsd: 316194
 ---
 
 **Engineering Notice for Gibsonton:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Hillsborough County.

@@ -12,6 +12,7 @@ lng: -76.9000
 zipSample: ["17837"]
 zipCodes: ["17837"]
 localPaths: ["Union County / ZIP 17837 sector", "Union County / coords 40.9600, -76.9000", "Union County / primary ZIP 17837", "Union County / elevation 502 ft band"]
+zillowHomeValueUsd: 326506
 ---
 
 **Engineering Notice for Linntown:** Cladding Retrofit was validated under stress factor 0.89; target tolerance set near 108 mph. Coordinates: 40.9600, -76.9000. Grid anchor: Union County.

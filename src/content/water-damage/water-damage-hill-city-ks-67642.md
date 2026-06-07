@@ -12,6 +12,7 @@ lng: -99.8500
 zipSample: ["67642"]
 zipCodes: ["67642"]
 localPaths: ["Graham County / primary ZIP 67642", "Graham County / ZIP 67642 sector", "Graham County / elevation 2215 ft band", "Graham County / coords 39.3700, -99.8500"]
+zillowHomeValueUsd: 113891
 ---
 
 **Engineering Notice for Hill City:** structural drying capacity optimized for 2215ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Graham County. Relative Humidity Threshold: 83%. Sensor sync: Active.

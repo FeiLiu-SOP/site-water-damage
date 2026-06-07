@@ -12,6 +12,7 @@ lng: -84.7800
 zipSample: ["45846"]
 zipCodes: ["45846"]
 localPaths: ["Mercer County / primary ZIP 45846", "Mercer County / coords 40.4100, -84.7800", "Mercer County / elevation 945 ft band", "Mercer County / ZIP 45846 sector"]
+zillowHomeValueUsd: 338810
 ---
 
 **Engineering Notice for Fort Recovery:** structural drying capacity optimized for 945ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mercer County. Relative Humidity Threshold: 73%. Sensor sync: Active.

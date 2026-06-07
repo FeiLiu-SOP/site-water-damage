@@ -12,6 +12,7 @@ lng: -105.9600
 zipSample: ["88310"]
 zipCodes: ["88310"]
 localPaths: ["Otero County / coords 32.8800, -105.9600", "Otero County / primary ZIP 88310", "Otero County / ZIP 88310 sector", "Otero County / elevation 4298 ft band"]
+zillowHomeValueUsd: 221507
 ---
 
 **Engineering Notice for Alamogordo:** Structural loading calculated based on 4298 ft terrain assessment. Regional dispatch grid: Otero County.

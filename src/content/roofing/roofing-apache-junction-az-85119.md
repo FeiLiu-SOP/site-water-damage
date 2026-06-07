@@ -11,6 +11,7 @@ lng: -111.5300
 zipSample: ["85117", "85119", "85178", "85120"]
 zipCodes: ["85178", "85119", "85117", "85120"]
 localPaths: ["Pinal County / ZIP 85178 sector", "Pinal County / ZIP 85120 sector", "Pinal County / primary ZIP 85119", "Pinal County / elevation 1699 ft band", "Pinal County / coords 33.4000, -111.5300"]
+zillowHomeValueUsd: 398041
 ---
 
 **Engineering Notice for Apache Junction:** Structural loading calculated based on 1699 ft terrain assessment. Regional dispatch grid: Pinal County.

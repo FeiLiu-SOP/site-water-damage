@@ -12,6 +12,8 @@ lng: -98.2900
 zipSample: ["57380"]
 zipCodes: ["57380"]
 localPaths: ["Charles Mix County / elevation 1453 ft band", "Charles Mix County / coords 43.0800, -98.2900", "Charles Mix County / primary ZIP 57380", "Charles Mix County / ZIP 57380 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 301931
 ---
 
 **Engineering Notice for Wagner:** System optimized for 136 mg/L hard water scaling factors in Wagner. Regional dispatch grid: Charles Mix County.

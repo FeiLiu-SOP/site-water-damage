@@ -12,6 +12,7 @@ lng: -92.4900
 zipSample: ["72635"]
 zipCodes: ["72635"]
 localPaths: ["Baxter County / primary ZIP 72635", "Baxter County / coords 36.2800, -92.4900", "Baxter County / ZIP 72635 sector", "Baxter County / elevation 745 ft band"]
+zillowHomeValueUsd: 194028
 ---
 
 **Engineering Notice for Gassville:** System optimized for 146 mg/L hard water scaling factors in Gassville. Regional dispatch grid: Baxter County.

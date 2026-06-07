@@ -12,6 +12,7 @@ lng: -90.1200
 zipSample: ["53530"]
 zipCodes: ["53530"]
 localPaths: ["Lafayette County / primary ZIP 53530", "Lafayette County / coords 42.6800, -90.1200", "Lafayette County / elevation 843 ft band", "Lafayette County / ZIP 53530 sector"]
+zillowHomeValueUsd: 224777
 ---
 
 **Engineering Notice for Darlington:** Structural integrity verification: Exterior Envelope calibrated for 106 mph localized wind load factor. Coordinates: 42.6800, -90.1200. Regional dispatch grid: Lafayette County.

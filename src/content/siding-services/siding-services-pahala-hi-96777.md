@@ -12,6 +12,7 @@ lng: -155.4800
 zipSample: ["96777"]
 zipCodes: ["96777"]
 localPaths: ["Hawaii County / ZIP 96777 sector", "Hawaii County / elevation 860 ft band", "Hawaii County / coords 19.2000, -155.4800", "Hawaii County / primary ZIP 96777"]
+zillowHomeValueUsd: 284624
 ---
 
 **Engineering Notice for Pahala:** Vinyl Panels was validated under stress factor 0.86; target tolerance set near 104 mph. Grid anchor: Hawaii County.

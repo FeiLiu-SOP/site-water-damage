@@ -12,6 +12,7 @@ lng: -83.6500
 zipSample: ["45814"]
 zipCodes: ["45814"]
 localPaths: ["Hancock County / elevation 863 ft band", "Hancock County / ZIP 45814 sector", "Hancock County / primary ZIP 45814", "Hancock County / coords 40.8900, -83.6500"]
+zillowHomeValueUsd: 235708
 ---
 
 **Engineering Notice for Arlington:** structural drying capacity optimized for 863ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hancock County. Relative Humidity Threshold: 72%. Sensor sync: Active.

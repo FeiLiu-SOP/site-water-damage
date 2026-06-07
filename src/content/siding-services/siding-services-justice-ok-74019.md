@@ -12,6 +12,7 @@ lng: -95.5600
 zipSample: ["74019"]
 zipCodes: ["74019"]
 localPaths: ["Rogers County / coords 36.2900, -95.5600", "Rogers County / elevation 659 ft band", "Rogers County / ZIP 74019 sector", "Rogers County / primary ZIP 74019"]
+zillowHomeValueUsd: 283831
 ---
 
 **Engineering Notice for Justice:** Cladding verification uses 97 mph routing baseline; lateral pressure note: 12.8 psf. Coordinates: 36.2900, -95.5600. Grid: Rogers County.

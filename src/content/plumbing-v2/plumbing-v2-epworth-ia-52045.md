@@ -12,6 +12,7 @@ lng: -90.9300
 zipSample: ["52045"]
 zipCodes: ["52045"]
 localPaths: ["Dubuque County / coords 42.4500, -90.9300", "Dubuque County / ZIP 52045 sector", "Dubuque County / elevation 1047 ft band", "Dubuque County / primary ZIP 52045"]
+zillowHomeValueUsd: 322902
 ---
 
 **Engineering Notice for Epworth:** System optimized for 144 mg/L hard water scaling factors in Epworth. Regional dispatch grid: Dubuque County.

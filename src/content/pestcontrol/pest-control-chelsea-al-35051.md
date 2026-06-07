@@ -11,6 +11,7 @@ lng: -86.6300
 zipSample: ["35043", "35051"]
 zipCodes: ["35043", "35051"]
 localPaths: ["Shelby County / elevation 548 ft band", "Shelby County / coords 33.3300, -86.6300", "Shelby County / primary ZIP 35051", "Shelby County / ZIP 35043 sector", "Shelby County / ZIP 35051 sector"]
+zillowHomeValueUsd: 322567
 ---
 
 **Engineering Notice for Chelsea:** Structural loading calculated based on 548 ft terrain assessment. Regional dispatch grid: Shelby County.

@@ -12,6 +12,7 @@ lng: -98.3100
 zipSample: ["78109"]
 zipCodes: ["78109"]
 localPaths: ["Bexar County / coords 29.5100, -98.3100", "Bexar County / ZIP 78109 sector", "Bexar County / elevation 686 ft band", "Bexar County / primary ZIP 78109"]
+zillowHomeValueUsd: 246244
 ---
 
 **Engineering Notice for Converse:** Structural loading calculated based on 686 ft terrain assessment. Regional dispatch grid: Bexar County.

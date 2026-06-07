@@ -11,6 +11,7 @@ lng: -87.9500
 zipSample: ["54311"]
 zipCodes: ["54311"]
 localPaths: ["Brown County / ZIP 54311 sector", "Brown County / coords 44.4600, -87.9500", "Brown County / elevation 682 ft band", "Brown County / primary ZIP 54311"]
+zillowHomeValueUsd: 386538
 ---
 
 **Engineering Notice for Bellevue:** Structural loading calculated based on 682 ft terrain assessment. Regional dispatch grid: Brown County.

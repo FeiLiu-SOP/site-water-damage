@@ -12,6 +12,7 @@ lng: -95.4400
 zipSample: ["66748"]
 zipCodes: ["66748"]
 localPaths: ["Allen County / coords 37.8100, -95.4400", "Allen County / primary ZIP 66748", "Allen County / ZIP 66748 sector", "Allen County / elevation 981 ft band"]
+zillowHomeValueUsd: 120758
 ---
 
 **Engineering Notice for Humboldt:** structural drying capacity optimized for 981ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allen County. Relative Humidity Threshold: 65%. Sensor sync: Active.

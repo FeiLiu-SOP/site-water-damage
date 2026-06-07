@@ -12,6 +12,7 @@ lng: -95.6500
 zipSample: ["75801", "75803", "75802", "75882"]
 zipCodes: ["75801", "75882", "75803", "75802"]
 localPaths: ["Anderson County / ZIP 75803 sector", "Anderson County / ZIP 75882 sector", "Anderson County / coords 31.7500, -95.6500", "Anderson County / ZIP 75801 sector", "Anderson County / primary ZIP 75801"]
+zillowHomeValueUsd: 182352
 ---
 
 **Engineering Notice for Palestine:** Structural loading calculated based on 518 ft terrain assessment. Regional dispatch grid: Anderson County.

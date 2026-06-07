@@ -11,6 +11,7 @@ lng: -89.9300
 zipSample: ["70162", "70118", "70167", "70139", "70142"]
 zipCodes: ["70124", "70116", "70162", "70156", "70175", "70181", "70177", "70114", "70195", "70158", "70142", "70152"]
 localPaths: ["Orleans Parish / primary ZIP 70139", "Orleans Parish / ZIP 70162 sector", "Orleans Parish / ZIP 70139 sector", "Orleans Parish / ZIP 70167 sector", "Orleans Parish / elevation 33 ft band"]
+zillowHomeValueUsd: 364596
 ---
 
 **Engineering Notice for New Orleans:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Orleans Parish.

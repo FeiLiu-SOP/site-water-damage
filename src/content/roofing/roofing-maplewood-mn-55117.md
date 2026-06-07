@@ -11,6 +11,7 @@ lng: -93.0200
 zipSample: ["55119", "55117", "55109"]
 zipCodes: ["55119", "55117", "55109"]
 localPaths: ["Ramsey County / ZIP 55109 sector", "Ramsey County / ZIP 55119 sector", "Ramsey County / coords 44.9800, -93.0200", "Ramsey County / primary ZIP 55117", "Ramsey County / elevation 938 ft band"]
+zillowHomeValueUsd: 299093
 ---
 
 **Engineering Notice for Maplewood:** Structural loading calculated based on 938 ft terrain assessment. Regional dispatch grid: Ramsey County.

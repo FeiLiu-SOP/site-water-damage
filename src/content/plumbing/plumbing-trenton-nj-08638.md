@@ -12,6 +12,7 @@ lng: -74.7600
 zipSample: ["08604", "08695", "08603", "08611", "08638"]
 zipCodes: ["08629", "08601", "08607", "08604", "08618", "08646", "08625", "08603", "08638", "08608", "08609", "08645"]
 localPaths: ["Mercer County / elevation 66 ft band", "Mercer County / ZIP 08695 sector", "Mercer County / primary ZIP 08638", "Mercer County / ZIP 08603 sector", "Mercer County / ZIP 08604 sector"]
+zillowHomeValueUsd: 305459
 ---
 
 **Engineering Notice for Trenton:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Mercer County.

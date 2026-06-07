@@ -11,6 +11,7 @@ lng: -80.3500
 zipSample: ["33126", "33172", "33174", "33144"]
 zipCodes: ["33172", "33144", "33126", "33174"]
 localPaths: ["Miami-Dade County / ZIP 33172 sector", "Miami-Dade County / primary ZIP 33172", "Miami-Dade County / ZIP 33126 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / coords 25.7700, -80.3500"]
+zillowHomeValueUsd: 300887
 ---
 
 **Engineering Notice for Fountainebleau:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

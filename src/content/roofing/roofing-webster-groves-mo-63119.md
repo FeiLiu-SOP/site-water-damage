@@ -11,6 +11,7 @@ lng: -90.3500
 zipSample: ["63119"]
 zipCodes: ["63119"]
 localPaths: ["St. Louis County / coords 38.5900, -90.3500", "St. Louis County / ZIP 63119 sector", "St. Louis County / elevation 581 ft band", "St. Louis County / primary ZIP 63119"]
+zillowHomeValueUsd: 378667
 ---
 
 **Engineering Notice for Webster Groves:** Structural loading calculated based on 581 ft terrain assessment. Regional dispatch grid: St. Louis County.

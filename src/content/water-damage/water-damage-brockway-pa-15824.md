@@ -12,6 +12,7 @@ lng: -78.7900
 zipSample: ["15824"]
 zipCodes: ["15824"]
 localPaths: ["Jefferson County / coords 41.2500, -78.7900", "Jefferson County / elevation 1450 ft band", "Jefferson County / primary ZIP 15824", "Jefferson County / ZIP 15824 sector"]
+zillowHomeValueUsd: 138367
 ---
 
 **Engineering Notice for Brockway:** structural drying capacity optimized for 1450ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 81%. Sensor sync: Active.

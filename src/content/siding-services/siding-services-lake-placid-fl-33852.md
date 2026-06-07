@@ -12,6 +12,7 @@ lng: -81.3700
 zipSample: ["33852", "33862"]
 zipCodes: ["33862", "33852"]
 localPaths: ["Highlands County / ZIP 33862 sector", "Highlands County / ZIP 33852 sector", "Highlands County / elevation 108 ft band", "Highlands County / primary ZIP 33852", "Highlands County / coords 27.3000, -81.3700"]
+zillowHomeValueUsd: 238440
 ---
 
 **Engineering Notice for Lake Placid:** Cladding verification uses 132 mph routing baseline; lateral pressure note: 17.0 psf. Coordinates: 27.3000, -81.3700. Grid: Highlands County.

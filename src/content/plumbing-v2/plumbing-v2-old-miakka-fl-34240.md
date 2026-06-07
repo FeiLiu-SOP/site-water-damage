@@ -12,6 +12,7 @@ lng: -82.2800
 zipSample: ["34240"]
 zipCodes: ["34240"]
 localPaths: ["Sarasota County / primary ZIP 34240", "Sarasota County / coords 27.3200, -82.2800", "Sarasota County / ZIP 34240 sector", "Sarasota County / elevation 52 ft band"]
+zillowHomeValueUsd: 744412
 ---
 
 **Engineering Notice for Old Miakka:** System optimized for 124 mg/L hard water scaling factors in Old Miakka. Regional dispatch grid: Sarasota County.

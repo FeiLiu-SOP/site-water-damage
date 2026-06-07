@@ -12,6 +12,7 @@ lng: -75.0900
 zipSample: ["19012"]
 zipCodes: ["19012"]
 localPaths: ["Montgomery County / ZIP 19012 sector", "Montgomery County / elevation 171 ft band", "Montgomery County / primary ZIP 19012", "Montgomery County / coords 40.0600, -75.0900"]
+zillowHomeValueUsd: 392217
 ---
 
 **Engineering Notice for Cheltenham Village:** Envelope check: Vinyl Panels assigned to wind-load band A with stress factor 0.77. Elevation: 171 ft AMSL. Regional dispatch grid: Montgomery County.

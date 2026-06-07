@@ -12,6 +12,7 @@ lng: -81.9000
 zipSample: ["29333", "29307"]
 zipCodes: ["29307", "29333"]
 localPaths: ["Spartanburg County / ZIP 29333 sector", "Spartanburg County / ZIP 29307 sector", "Spartanburg County / elevation 774 ft band", "Spartanburg County / primary ZIP 29333", "Spartanburg County / coords 34.9800, -81.9000"]
+zillowHomeValueUsd: 150121
 ---
 
 **Engineering Notice for Drayton:** System optimized for 135 mg/L hard water scaling factors in Drayton. Regional dispatch grid: Spartanburg County.

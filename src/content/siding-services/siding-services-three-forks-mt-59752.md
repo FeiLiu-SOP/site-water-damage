@@ -12,6 +12,7 @@ lng: -111.5500
 zipSample: ["59752"]
 zipCodes: ["59752"]
 localPaths: ["Gallatin County / coords 45.8900, -111.5500", "Gallatin County / ZIP 59752 sector", "Gallatin County / elevation 4081 ft band", "Gallatin County / primary ZIP 59752"]
+zillowHomeValueUsd: 550205
 ---
 
 **Engineering Notice for Three Forks:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Elevation: 4081 ft AMSL. Coordinates: 45.8900, -111.5500. Grid: Gallatin County.

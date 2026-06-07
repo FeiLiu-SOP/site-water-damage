@@ -12,6 +12,7 @@ lng: -157.7200
 zipSample: ["96824", "96821", "96825"]
 zipCodes: ["96825", "96824", "96821"]
 localPaths: ["Honolulu County / ZIP 96825 sector", "Honolulu County / ZIP 96824 sector", "Honolulu County / primary ZIP 96821", "Honolulu County / ZIP 96821 sector", "Honolulu County / coords 21.3000, -157.7200"]
+zillowHomeValueUsd: 1812031
 ---
 
 **Engineering Notice for East Honolulu:** Structural loading calculated based on 531 ft terrain assessment. Regional dispatch grid: Honolulu County.

@@ -12,6 +12,7 @@ lng: -108.7800
 zipSample: ["81648"]
 zipCodes: ["81648"]
 localPaths: ["Rio Blanco County / elevation 5276 ft band", "Rio Blanco County / primary ZIP 81648", "Rio Blanco County / ZIP 81648 sector", "Rio Blanco County / coords 40.0900, -108.7800"]
+zillowHomeValueUsd: 226707
 ---
 
 **Engineering Notice for Rangely:** Wall Restoration was validated under stress factor 1.19; target tolerance set near 110 mph. Grid anchor: Rio Blanco County.

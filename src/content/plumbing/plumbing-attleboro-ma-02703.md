@@ -12,6 +12,7 @@ lng: -71.3000
 zipSample: ["02703"]
 zipCodes: ["02703"]
 localPaths: ["Bristol County / primary ZIP 02703", "Bristol County / elevation 144 ft band", "Bristol County / coords 41.9300, -71.3000", "Bristol County / ZIP 02703 sector"]
+zillowHomeValueUsd: 532909
 ---
 
 **Engineering Notice for Attleboro:** Structural loading calculated based on 144 ft terrain assessment. Regional dispatch grid: Bristol County.

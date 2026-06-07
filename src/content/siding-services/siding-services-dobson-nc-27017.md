@@ -12,6 +12,7 @@ lng: -80.7200
 zipSample: ["27017"]
 zipCodes: ["27017"]
 localPaths: ["Surry County / coords 36.3900, -80.7200", "Surry County / primary ZIP 27017", "Surry County / ZIP 27017 sector", "Surry County / elevation 1224 ft band"]
+zillowHomeValueUsd: 256533
 ---
 
 **Engineering Notice for Dobson:** Cladding verification uses 106 mph routing baseline; lateral pressure note: 13.9 psf. Grid: Surry County.

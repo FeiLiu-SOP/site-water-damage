@@ -12,6 +12,7 @@ lng: -94.5600
 zipSample: ["50851"]
 zipCodes: ["50851"]
 localPaths: ["Taylor County / primary ZIP 50851", "Taylor County / coords 40.8800, -94.5600", "Taylor County / elevation 1306 ft band", "Taylor County / ZIP 50851 sector"]
+zillowHomeValueUsd: 151699
 ---
 
 **Engineering Notice for Lenox:** System optimized for 179 mg/L hard water scaling factors in Lenox. Regional dispatch grid: Taylor County.

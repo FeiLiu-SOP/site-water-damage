@@ -12,6 +12,8 @@ lng: -90.2600
 zipSample: ["72438"]
 zipCodes: ["72438"]
 localPaths: ["Mississippi County / coords 35.9000, -90.2600", "Mississippi County / primary ZIP 72438", "Mississippi County / ZIP 72438 sector", "Mississippi County / elevation 226 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 197257
 ---
 
 **Engineering Notice for Leachville:** structural drying capacity optimized for 226ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mississippi County. Relative Humidity Threshold: 75%. Sensor sync: Active.

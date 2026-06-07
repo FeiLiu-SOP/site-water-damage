@@ -11,6 +11,7 @@ lng: -74.2700
 zipSample: ["07001"]
 zipCodes: ["07001"]
 localPaths: ["Middlesex County / primary ZIP 07001", "Middlesex County / coords 40.5800, -74.2700", "Middlesex County / elevation 56 ft band", "Middlesex County / ZIP 07001 sector"]
+zillowHomeValueUsd: 527509
 ---
 
 **Engineering Notice for Avenel:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Middlesex County.

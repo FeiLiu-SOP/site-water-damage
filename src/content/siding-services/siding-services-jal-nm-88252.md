@@ -12,6 +12,7 @@ lng: -103.1900
 zipSample: ["88252"]
 zipCodes: ["88252"]
 localPaths: ["Lea County / ZIP 88252 sector", "Lea County / coords 32.1100, -103.1900", "Lea County / primary ZIP 88252", "Lea County / elevation 3051 ft band"]
+zillowHomeValueUsd: 136203
 ---
 
 **Engineering Notice for Jal:** Surface Sheathing was validated under stress factor 0.86; target tolerance set near 90 mph. Grid anchor: Lea County.

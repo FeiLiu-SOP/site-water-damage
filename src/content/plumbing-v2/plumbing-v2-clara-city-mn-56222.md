@@ -12,6 +12,7 @@ lng: -95.3700
 zipSample: ["56222"]
 zipCodes: ["56222"]
 localPaths: ["Chippewa County / primary ZIP 56222", "Chippewa County / ZIP 56222 sector", "Chippewa County / elevation 1066 ft band", "Chippewa County / coords 44.9600, -95.3700"]
+zillowHomeValueUsd: 234065
 ---
 
 **Engineering Notice for Clara City:** System optimized for 150 mg/L hard water scaling factors in Clara City. Regional dispatch grid: Chippewa County.

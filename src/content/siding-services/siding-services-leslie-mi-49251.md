@@ -12,6 +12,7 @@ lng: -84.4300
 zipSample: ["49251"]
 zipCodes: ["49251"]
 localPaths: ["Ingham County / primary ZIP 49251", "Ingham County / coords 42.4500, -84.4300", "Ingham County / elevation 945 ft band", "Ingham County / ZIP 49251 sector"]
+zillowHomeValueUsd: 235590
 ---
 
 **Engineering Notice for Leslie:** Surface Sheathing was validated under stress factor 1.22; target tolerance set near 106 mph. Coordinates: 42.4500, -84.4300. Grid anchor: Ingham County.

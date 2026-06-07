@@ -12,6 +12,7 @@ lng: -82.1700
 zipSample: ["37658"]
 zipCodes: ["37658"]
 localPaths: ["Carter County / coords 36.2800, -82.1700", "Carter County / elevation 1818 ft band", "Carter County / ZIP 37658 sector", "Carter County / primary ZIP 37658"]
+zillowHomeValueUsd: 206461
 ---
 
 **Engineering Notice for Hampton:** System optimized for 157 mg/L hard water scaling factors in Hampton. Regional dispatch grid: Carter County.

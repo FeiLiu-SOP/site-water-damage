@@ -11,6 +11,7 @@ lng: -76.8800
 zipSample: ["17128", "17102", "17129", "17124", "17105"]
 zipCodes: ["17124", "17127", "17128", "17125", "17101", "17102", "17110", "17129", "17123", "17122", "17105", "17120"]
 localPaths: ["Dauphin County / coords 40.2800, -76.8800", "Dauphin County / ZIP 17102 sector", "Dauphin County / ZIP 17124 sector", "Dauphin County / ZIP 17128 sector", "Dauphin County / primary ZIP 17101"]
+zillowHomeValueUsd: 214183
 ---
 
 **Engineering Notice for Harrisburg:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Dauphin County.

@@ -12,6 +12,7 @@ lng: -80.2400
 zipSample: ["33147"]
 zipCodes: ["33147"]
 localPaths: ["Miami-Dade County / primary ZIP 33147", "Miami-Dade County / ZIP 33147 sector", "Miami-Dade County / coords 25.8400, -80.2400", "Miami-Dade County / elevation 30 ft band"]
+zillowHomeValueUsd: 434391
 ---
 
 **Engineering Notice for Gladeview:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

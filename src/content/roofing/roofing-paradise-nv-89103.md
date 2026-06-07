@@ -11,6 +11,7 @@ lng: -115.1400
 zipSample: ["89157", "89169", "89123", "89109", "89119"]
 zipCodes: ["89119", "89154", "89121", "89123", "89118", "89111", "89177", "89193", "89103", "89169", "89157", "89120"]
 localPaths: ["Clark County / ZIP 89169 sector", "Clark County / ZIP 89157 sector", "Clark County / ZIP 89109 sector", "Clark County / ZIP 89119 sector", "Clark County / coords 36.0900, -115.1400"]
+zillowHomeValueUsd: 265073
 ---
 
 **Engineering Notice for Paradise:** Structural loading calculated based on 2051 ft terrain assessment. Regional dispatch grid: Clark County.

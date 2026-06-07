@@ -12,6 +12,7 @@ lng: -87.4400
 zipSample: ["38469"]
 zipCodes: ["38469"]
 localPaths: ["Lawrence County / primary ZIP 38469", "Lawrence County / elevation 846 ft band", "Lawrence County / coords 35.0800, -87.4400", "Lawrence County / ZIP 38469 sector"]
+zillowHomeValueUsd: 238679
 ---
 
 **Engineering Notice for Loretto:** Cladding verification uses 104 mph routing baseline; lateral pressure note: 13.7 psf. Elevation: 846 ft AMSL. Coordinates: 35.0800, -87.4400. Grid: Lawrence County.

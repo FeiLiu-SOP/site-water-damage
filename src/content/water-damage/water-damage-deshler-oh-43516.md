@@ -12,6 +12,7 @@ lng: -83.9100
 zipSample: ["43516"]
 zipCodes: ["43516"]
 localPaths: ["Henry County / ZIP 43516 sector", "Henry County / primary ZIP 43516", "Henry County / coords 41.2100, -83.9100", "Henry County / elevation 705 ft band"]
+zillowHomeValueUsd: 177058
 ---
 
 **Engineering Notice for Deshler:** structural drying capacity optimized for 705ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Henry County. Relative Humidity Threshold: 78%. Sensor sync: Active.

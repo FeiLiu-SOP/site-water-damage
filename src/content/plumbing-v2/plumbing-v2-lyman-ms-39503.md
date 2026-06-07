@@ -12,6 +12,7 @@ lng: -89.1300
 zipSample: ["39503"]
 zipCodes: ["39503"]
 localPaths: ["Harrison County / primary ZIP 39503", "Harrison County / ZIP 39503 sector", "Harrison County / elevation 102 ft band", "Harrison County / coords 30.5000, -89.1300"]
+zillowHomeValueUsd: 224217
 ---
 
 **Engineering Notice for Lyman:** System optimized for 155 mg/L hard water scaling factors in Lyman. Regional dispatch grid: Harrison County.

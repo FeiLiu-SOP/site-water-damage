@@ -12,6 +12,7 @@ lng: -89.2300
 zipSample: ["61723"]
 zipCodes: ["61723"]
 localPaths: ["Logan County / elevation 719 ft band", "Logan County / coords 40.2600, -89.2300", "Logan County / ZIP 61723 sector", "Logan County / primary ZIP 61723"]
+zillowHomeValueUsd: 160664
 ---
 
 **Engineering Notice for Atlanta:** Exterior Cladding was validated under stress factor 1.09; target tolerance set near 105 mph. Coordinates: 40.2600, -89.2300. Grid anchor: Logan County.

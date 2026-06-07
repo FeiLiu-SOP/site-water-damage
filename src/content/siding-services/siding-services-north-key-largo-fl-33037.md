@@ -12,6 +12,7 @@ lng: -80.3200
 zipSample: ["33037"]
 zipCodes: ["33037"]
 localPaths: ["Monroe County / primary ZIP 33037", "Monroe County / ZIP 33037 sector", "Monroe County / coords 25.2600, -80.3200", "Monroe County / elevation 13 ft band"]
+zillowHomeValueUsd: 1082522
 ---
 
 **Engineering Notice for North Key Largo:** Cladding Service was validated under stress factor 0.73; target tolerance set near 140 mph. Coordinates: 25.2600, -80.3200. Grid anchor: Monroe County.

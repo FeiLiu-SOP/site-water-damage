@@ -12,6 +12,7 @@ lng: -88.1100
 zipSample: ["60403", "60441"]
 zipCodes: ["60403", "60441"]
 localPaths: ["Will County / elevation 636 ft band", "Will County / primary ZIP 60403", "Will County / ZIP 60441 sector", "Will County / ZIP 60403 sector", "Will County / coords 41.5700, -88.1100"]
+zillowHomeValueUsd: 276290
 ---
 
 **Engineering Notice for Crest Hill:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Will County.

@@ -12,6 +12,7 @@ lng: -87.2000
 zipSample: ["47438"]
 zipCodes: ["47438"]
 localPaths: ["Greene County / coords 39.1600, -87.2000", "Greene County / primary ZIP 47438", "Greene County / ZIP 47438 sector", "Greene County / elevation 633 ft band"]
+zillowHomeValueUsd: 138278
 ---
 
 **Engineering Notice for Jasonville:** Site context locked to Greene County. Coordinates: 39.1600, -87.2000. Weather Barrier Wrap integrity verification recorded.

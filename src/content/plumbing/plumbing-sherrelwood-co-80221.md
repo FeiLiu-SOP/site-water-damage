@@ -12,6 +12,7 @@ lng: -105.0000
 zipSample: ["80263", "80221"]
 zipCodes: ["80263", "80221"]
 localPaths: ["Adams County / elevation 5302 ft band", "Adams County / ZIP 80221 sector", "Adams County / ZIP 80263 sector", "Adams County / primary ZIP 80221", "Adams County / coords 39.8400, -105.0000"]
+zillowHomeValueUsd: 456463
 ---
 
 **Engineering Notice for Sherrelwood:** Structural loading calculated based on 5302 ft terrain assessment. Regional dispatch grid: Adams County.

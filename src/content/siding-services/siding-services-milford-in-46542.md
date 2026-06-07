@@ -12,6 +12,7 @@ lng: -85.8400
 zipSample: ["46542"]
 zipCodes: ["46542"]
 localPaths: ["Kosciusko County / coords 41.4100, -85.8400", "Kosciusko County / primary ZIP 46542", "Kosciusko County / ZIP 46542 sector", "Kosciusko County / elevation 827 ft band"]
+zillowHomeValueUsd: 274086
 ---
 
 **Engineering Notice for Milford:** Site context locked to Kosciusko County. Coordinates: 41.4100, -85.8400. Cladding Service integrity verification recorded.

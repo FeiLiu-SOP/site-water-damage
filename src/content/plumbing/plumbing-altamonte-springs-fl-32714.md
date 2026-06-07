@@ -12,6 +12,7 @@ lng: -81.4000
 zipSample: ["32714", "32715", "32716", "32701"]
 zipCodes: ["32714", "32716", "32701", "32715"]
 localPaths: ["Seminole County / elevation 102 ft band", "Seminole County / ZIP 32701 sector", "Seminole County / primary ZIP 32714", "Seminole County / coords 28.6600, -81.4000", "Seminole County / ZIP 32714 sector"]
+zillowHomeValueUsd: 303055
 ---
 
 **Engineering Notice for Altamonte Springs:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Seminole County.

@@ -11,6 +11,7 @@ lng: -117.8700
 zipSample: ["92662", "92657", "92661", "92659", "92663"]
 zipCodes: ["92660", "92662", "92658", "92659", "92625", "92657", "92661", "92663"]
 localPaths: ["Orange County / primary ZIP 92662", "Orange County / ZIP 92659 sector", "Orange County / ZIP 92662 sector", "Orange County / elevation 256 ft band", "Orange County / ZIP 92661 sector"]
+zillowHomeValueUsd: 4388795
 ---
 
 **Engineering Notice for Newport Beach:** Structural loading calculated based on 256 ft terrain assessment. Regional dispatch grid: Orange County.

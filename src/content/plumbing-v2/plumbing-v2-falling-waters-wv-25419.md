@@ -12,6 +12,7 @@ lng: -77.8900
 zipSample: ["25419"]
 zipCodes: ["25419"]
 localPaths: ["Berkeley County / coords 39.5600, -77.8900", "Berkeley County / elevation 440 ft band", "Berkeley County / ZIP 25419 sector", "Berkeley County / primary ZIP 25419"]
+zillowHomeValueUsd: 315002
 ---
 
 **Engineering Notice for Falling Waters:** System optimized for 151 mg/L hard water scaling factors in Falling Waters. Regional dispatch grid: Berkeley County.

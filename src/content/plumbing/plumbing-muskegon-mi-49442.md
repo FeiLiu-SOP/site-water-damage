@@ -12,6 +12,7 @@ lng: -86.2600
 zipSample: ["49442", "49440", "49443", "49441"]
 zipCodes: ["49441", "49440", "49443", "49442"]
 localPaths: ["Muskegon County / elevation 623 ft band", "Muskegon County / ZIP 49441 sector", "Muskegon County / primary ZIP 49442", "Muskegon County / ZIP 49440 sector", "Muskegon County / ZIP 49443 sector"]
+zillowHomeValueUsd: 176275
 ---
 
 **Engineering Notice for Muskegon:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Muskegon County.

@@ -12,6 +12,7 @@ lng: -84.5400
 zipSample: ["45013", "45011"]
 zipCodes: ["45011", "45013"]
 localPaths: ["Butler County / primary ZIP 45011", "Butler County / ZIP 45013 sector", "Butler County / coords 39.4300, -84.5400", "Butler County / ZIP 45011 sector", "Butler County / elevation 594 ft band"]
+zillowHomeValueUsd: 367968
 ---
 
 **Engineering Notice for New Miami:** Structural integrity verification: Cladding Retrofit calibrated for 98 mph localized wind load factor. Coordinates: 39.4300, -84.5400. Regional dispatch grid: Butler County.

@@ -12,6 +12,7 @@ lng: -79.5600
 zipSample: ["27281", "27376"]
 zipCodes: ["27281", "27376"]
 localPaths: ["Moore County / ZIP 27376 sector", "Moore County / primary ZIP 27281", "Moore County / coords 35.1800, -79.5600", "Moore County / ZIP 27281 sector", "Moore County / elevation 486 ft band"]
+zillowHomeValueUsd: 370438
 ---
 
 **Engineering Notice for Foxfire:** System optimized for 120 mg/L hard water scaling factors in Foxfire. Regional dispatch grid: Moore County.

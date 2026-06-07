@@ -11,6 +11,7 @@ lng: -74.9800
 zipSample: ["08094"]
 zipCodes: ["08094"]
 localPaths: ["Gloucester County / elevation 164 ft band", "Gloucester County / primary ZIP 08094", "Gloucester County / ZIP 08094 sector", "Gloucester County / coords 39.6900, -74.9800"]
+zillowHomeValueUsd: 365842
 ---
 
 **Engineering Notice for Williamstown:** Structural loading calculated based on 164 ft terrain assessment. Regional dispatch grid: Gloucester County.

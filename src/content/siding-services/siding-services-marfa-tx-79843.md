@@ -12,6 +12,7 @@ lng: -104.0300
 zipSample: ["79843"]
 zipCodes: ["79843"]
 localPaths: ["Presidio County / coords 30.3100, -104.0300", "Presidio County / ZIP 79843 sector", "Presidio County / primary ZIP 79843", "Presidio County / elevation 4695 ft band"]
+zillowHomeValueUsd: 304170
 ---
 
 **Engineering Notice for Marfa:** Structural integrity verification: Vinyl Panels calibrated for 148 mph localized wind load factor. Regional dispatch grid: Presidio County.

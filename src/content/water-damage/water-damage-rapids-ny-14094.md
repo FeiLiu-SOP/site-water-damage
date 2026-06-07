@@ -12,6 +12,7 @@ lng: -78.6400
 zipSample: ["14094"]
 zipCodes: ["14094"]
 localPaths: ["Niagara County / elevation 587 ft band", "Niagara County / primary ZIP 14094", "Niagara County / coords 43.1000, -78.6400", "Niagara County / ZIP 14094 sector"]
+zillowHomeValueUsd: 257276
 ---
 
 **Engineering Notice for Rapids:** structural drying capacity optimized for 587ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Niagara County. Relative Humidity Threshold: 69%. Sensor sync: Active.

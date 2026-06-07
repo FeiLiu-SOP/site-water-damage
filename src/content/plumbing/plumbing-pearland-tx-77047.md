@@ -12,6 +12,7 @@ lng: -95.3200
 zipSample: ["77581", "77588", "77584", "77089", "77047"]
 zipCodes: ["77047", "77584", "77089", "77581", "77588"]
 localPaths: ["Brazoria County / primary ZIP 77047", "Brazoria County / ZIP 77588 sector", "Brazoria County / ZIP 77089 sector", "Brazoria County / ZIP 77581 sector", "Brazoria County / coords 29.5600, -95.3200"]
+zillowHomeValueUsd: 251999
 ---
 
 **Engineering Notice for Pearland:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Brazoria County.

@@ -11,6 +11,7 @@ lng: -89.3900
 zipSample: ["53793", "53708", "53715", "53711", "53702"]
 zipCodes: ["53790", "53718", "53785", "53716", "53705", "53786", "53782", "53713", "53774", "53702", "53711", "53783"]
 localPaths: ["Dane County / ZIP 53711 sector", "Dane County / ZIP 53702 sector", "Dane County / ZIP 53793 sector", "Dane County / ZIP 53715 sector", "Dane County / coords 43.0800, -89.3900"]
+zillowHomeValueUsd: 505819
 ---
 
 **Engineering Notice for Madison:** Structural loading calculated based on 846 ft terrain assessment. Regional dispatch grid: Dane County.

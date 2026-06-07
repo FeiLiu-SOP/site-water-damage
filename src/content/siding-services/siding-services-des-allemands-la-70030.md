@@ -12,6 +12,7 @@ lng: -90.4700
 zipSample: ["70030"]
 zipCodes: ["70030"]
 localPaths: ["St. Charles Parish / ZIP 70030 sector", "St. Charles Parish / primary ZIP 70030", "St. Charles Parish / elevation 3 ft band", "St. Charles Parish / coords 29.8200, -90.4700"]
+zillowHomeValueUsd: 226597
 ---
 
 **Engineering Notice for Des Allemands:** Panel Replacement was validated under stress factor 1.13; target tolerance set near 108 mph. Grid anchor: St. Charles Parish.

@@ -12,6 +12,7 @@ lng: -80.2200
 zipSample: ["15057", "15082"]
 zipCodes: ["15082", "15057"]
 localPaths: ["Allegheny County / ZIP 15057 sector", "Allegheny County / coords 40.3800, -80.2200", "Allegheny County / ZIP 15082 sector", "Allegheny County / elevation 1047 ft band", "Allegheny County / primary ZIP 15082"]
+zillowHomeValueUsd: 189654
 ---
 
 **Engineering Notice for Sturgeon:** Envelope check: Cladding Retrofit assigned to wind-load band A with stress factor 0.97. Elevation: 1047 ft AMSL. Regional dispatch grid: Allegheny County.

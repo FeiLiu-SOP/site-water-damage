@@ -12,6 +12,7 @@ lng: -85.8400
 zipSample: ["35772"]
 zipCodes: ["35772"]
 localPaths: ["Jackson County / coords 34.8500, -85.8400", "Jackson County / primary ZIP 35772", "Jackson County / elevation 594 ft band", "Jackson County / ZIP 35772 sector"]
+zillowHomeValueUsd: 176450
 ---
 
 **Engineering Notice for Stevenson:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Grid: Jackson County.

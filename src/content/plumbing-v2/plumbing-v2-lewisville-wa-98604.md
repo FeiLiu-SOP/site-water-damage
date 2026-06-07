@@ -12,6 +12,7 @@ lng: -122.5100
 zipSample: ["98604"]
 zipCodes: ["98604"]
 localPaths: ["Clark County / coords 45.8100, -122.5100", "Clark County / elevation 669 ft band", "Clark County / ZIP 98604 sector", "Clark County / primary ZIP 98604"]
+zillowHomeValueUsd: 605399
 ---
 
 **Engineering Notice for Lewisville:** System optimized for 144 mg/L hard water scaling factors in Lewisville. Regional dispatch grid: Clark County.

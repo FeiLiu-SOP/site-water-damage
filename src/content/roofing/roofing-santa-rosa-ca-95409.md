@@ -11,6 +11,7 @@ lng: -122.7100
 zipSample: ["95406", "95407", "95405", "95404", "95401"]
 zipCodes: ["95405", "95404", "95403", "95406", "95409", "95407", "95401"]
 localPaths: ["Sonoma County / ZIP 95405 sector", "Sonoma County / ZIP 95407 sector", "Sonoma County / primary ZIP 95409", "Sonoma County / ZIP 95406 sector", "Sonoma County / ZIP 95401 sector"]
+zillowHomeValueUsd: 780326
 ---
 
 **Engineering Notice for Santa Rosa:** Structural loading calculated based on 184 ft terrain assessment. Regional dispatch grid: Sonoma County.

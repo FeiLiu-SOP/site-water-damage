@@ -12,6 +12,7 @@ lng: -122.1200
 zipSample: ["94575", "94556", "94570"]
 zipCodes: ["94570", "94575", "94556"]
 localPaths: ["Contra Costa County / ZIP 94570 sector", "Contra Costa County / elevation 594 ft band", "Contra Costa County / ZIP 94575 sector", "Contra Costa County / ZIP 94556 sector", "Contra Costa County / primary ZIP 94556"]
+zillowHomeValueUsd: 1665942
 ---
 
 **Engineering Notice for Moraga:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: Contra Costa County.

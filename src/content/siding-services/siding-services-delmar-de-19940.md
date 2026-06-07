@@ -12,6 +12,7 @@ lng: -75.5600
 zipSample: ["19940"]
 zipCodes: ["19940"]
 localPaths: ["Sussex County / ZIP 19940 sector", "Sussex County / coords 38.4700, -75.5600", "Sussex County / primary ZIP 19940", "Sussex County / elevation 52 ft band"]
+zillowHomeValueUsd: 335341
 ---
 
 **Engineering Notice for Delmar:** Exterior Cladding was validated under stress factor 0.81; target tolerance set near 100 mph. Coordinates: 38.4700, -75.5600. Grid anchor: Sussex County.

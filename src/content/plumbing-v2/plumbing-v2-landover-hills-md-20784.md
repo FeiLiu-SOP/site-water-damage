@@ -12,6 +12,7 @@ lng: -76.8900
 zipSample: ["20784"]
 zipCodes: ["20784"]
 localPaths: ["Prince George's County / coords 38.9400, -76.8900", "Prince George's County / elevation 157 ft band", "Prince George's County / primary ZIP 20784", "Prince George's County / ZIP 20784 sector"]
+zillowHomeValueUsd: 374933
 ---
 
 **Engineering Notice for Landover Hills:** System optimized for 133 mg/L hard water scaling factors in Landover Hills. Regional dispatch grid: Prince George's County.

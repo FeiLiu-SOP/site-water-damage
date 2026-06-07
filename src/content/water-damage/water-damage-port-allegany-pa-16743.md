@@ -12,6 +12,7 @@ lng: -78.2800
 zipSample: ["16743"]
 zipCodes: ["16743"]
 localPaths: ["McKean County / primary ZIP 16743", "McKean County / elevation 1509 ft band", "McKean County / coords 41.8100, -78.2800", "McKean County / ZIP 16743 sector"]
+zillowHomeValueUsd: 123835
 ---
 
 **Engineering Notice for Port Allegany:** structural drying capacity optimized for 1509ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: McKean County. Relative Humidity Threshold: 66%. Sensor sync: Active.

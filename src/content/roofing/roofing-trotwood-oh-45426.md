@@ -11,6 +11,7 @@ lng: -84.3200
 zipSample: ["45416", "45417", "45426"]
 zipCodes: ["45417", "45416", "45426"]
 localPaths: ["Montgomery County / coords 39.7900, -84.3200", "Montgomery County / ZIP 45416 sector", "Montgomery County / ZIP 45426 sector", "Montgomery County / ZIP 45417 sector", "Montgomery County / primary ZIP 45426"]
+zillowHomeValueUsd: 167553
 ---
 
 **Engineering Notice for Trotwood:** Structural loading calculated based on 853 ft terrain assessment. Regional dispatch grid: Montgomery County.

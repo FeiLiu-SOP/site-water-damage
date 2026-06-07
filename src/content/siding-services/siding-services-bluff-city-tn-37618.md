@@ -12,6 +12,7 @@ lng: -82.2800
 zipSample: ["37686", "37618"]
 zipCodes: ["37618", "37686"]
 localPaths: ["Sullivan County / primary ZIP 37618", "Sullivan County / coords 36.4600, -82.2800", "Sullivan County / ZIP 37618 sector", "Sullivan County / elevation 1552 ft band", "Sullivan County / ZIP 37686 sector"]
+zillowHomeValueUsd: 280998
 ---
 
 **Engineering Notice for Bluff City:** Cladding verification uses 98 mph routing baseline; lateral pressure note: 13.0 psf. Elevation: 1552 ft AMSL. Coordinates: 36.4600, -82.2800. Grid: Sullivan County.

@@ -11,6 +11,7 @@ lng: -71.8100
 zipSample: ["01609", "01614", "01604", "01603", "01655"]
 zipCodes: ["01607", "01602", "01606", "01610", "01615", "01604", "01603", "01608", "01614", "01601", "01605", "01653"]
 localPaths: ["Worcester County / ZIP 01603 sector", "Worcester County / primary ZIP 01608", "Worcester County / coords 42.2700, -71.8100", "Worcester County / ZIP 01614 sector", "Worcester County / elevation 502 ft band"]
+zillowHomeValueUsd: 189652
 ---
 
 **Engineering Notice for Worcester:** Structural loading calculated based on 502 ft terrain assessment. Regional dispatch grid: Worcester County.

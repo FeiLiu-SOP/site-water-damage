@@ -12,6 +12,7 @@ lng: -90.1100
 zipSample: ["61285"]
 zipCodes: ["61285"]
 localPaths: ["Carroll County / coords 41.9700, -90.1100", "Carroll County / elevation 604 ft band", "Carroll County / ZIP 61285 sector", "Carroll County / primary ZIP 61285"]
+zillowHomeValueUsd: 151239
 ---
 
 **Engineering Notice for Thomson:** System optimized for 172 mg/L hard water scaling factors in Thomson. Regional dispatch grid: Carroll County.

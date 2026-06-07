@@ -12,6 +12,7 @@ lng: -123.1100
 zipSample: ["97106"]
 zipCodes: ["97106"]
 localPaths: ["Washington County / ZIP 97106 sector", "Washington County / coords 45.6200, -123.1100", "Washington County / primary ZIP 97106", "Washington County / elevation 210 ft band"]
+zillowHomeValueUsd: 633525
 ---
 
 **Engineering Notice for Banks:** System optimized for 174 mg/L hard water scaling factors in Banks. Regional dispatch grid: Washington County.

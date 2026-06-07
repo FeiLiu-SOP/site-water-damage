@@ -12,6 +12,7 @@ lng: -79.8100
 zipSample: ["15035"]
 zipCodes: ["15035"]
 localPaths: ["Allegheny County / primary ZIP 15035", "Allegheny County / ZIP 15035 sector", "Allegheny County / elevation 1204 ft band", "Allegheny County / coords 40.3800, -79.8100"]
+zillowHomeValueUsd: 115089
 ---
 
 **Engineering Notice for East McKeesport:** Weather Barrier Wrap was validated under stress factor 0.81; target tolerance set near 94 mph. Coordinates: 40.3800, -79.8100. Grid anchor: Allegheny County.

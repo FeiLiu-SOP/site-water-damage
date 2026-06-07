@@ -12,6 +12,7 @@ lng: -80.1800
 zipSample: ["33311"]
 zipCodes: ["33311"]
 localPaths: ["Broward County / coords 26.1300, -80.1800", "Broward County / elevation 26 ft band", "Broward County / primary ZIP 33311", "Broward County / ZIP 33311 sector"]
+zillowHomeValueUsd: 362743
 ---
 
 **Engineering Notice for Franklin Park:** System optimized for 160 mg/L hard water scaling factors in Franklin Park. Regional dispatch grid: Broward County.

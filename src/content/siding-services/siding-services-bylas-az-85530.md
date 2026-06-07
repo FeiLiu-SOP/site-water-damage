@@ -12,6 +12,8 @@ lng: -110.1200
 zipSample: ["85530"]
 zipCodes: ["85530"]
 localPaths: ["Graham County / primary ZIP 85530", "Graham County / elevation 2618 ft band", "Graham County / coords 33.1300, -110.1200", "Graham County / ZIP 85530 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 437659
 ---
 
 **Engineering Notice for Bylas:** Site context locked to Graham County. Cladding Service integrity verification recorded.

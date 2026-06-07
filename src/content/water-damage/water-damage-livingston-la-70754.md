@@ -12,6 +12,7 @@ lng: -90.7500
 zipSample: ["70754"]
 zipCodes: ["70754"]
 localPaths: ["Livingston Parish / primary ZIP 70754", "Livingston Parish / ZIP 70754 sector", "Livingston Parish / coords 30.5000, -90.7500", "Livingston Parish / elevation 72 ft band"]
+zillowHomeValueUsd: 252920
 ---
 
 **Engineering Notice for Livingston:** structural drying capacity optimized for 72ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Livingston Parish. Relative Humidity Threshold: 75%. Sensor sync: Active.

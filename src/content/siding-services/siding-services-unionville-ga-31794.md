@@ -12,6 +12,7 @@ lng: -83.5100
 zipSample: ["31794"]
 zipCodes: ["31794"]
 localPaths: ["Tift County / elevation 371 ft band", "Tift County / coords 31.4400, -83.5100", "Tift County / ZIP 31794 sector", "Tift County / primary ZIP 31794"]
+zillowHomeValueUsd: 182383
 ---
 
 **Engineering Notice for Unionville:** Structural integrity verification: Wall Restoration calibrated for 94 mph localized wind load factor. Elevation: 371 ft AMSL. Regional dispatch grid: Tift County.

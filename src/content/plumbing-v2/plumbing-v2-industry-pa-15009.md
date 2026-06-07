@@ -12,6 +12,7 @@ lng: -80.4100
 zipSample: ["15009", "15052"]
 zipCodes: ["15009", "15052"]
 localPaths: ["Beaver County / ZIP 15009 sector", "Beaver County / elevation 1129 ft band", "Beaver County / ZIP 15052 sector", "Beaver County / primary ZIP 15009", "Beaver County / coords 40.6600, -80.4100"]
+zillowHomeValueUsd: 270186
 ---
 
 **Engineering Notice for Industry:** System optimized for 134 mg/L hard water scaling factors in Industry. Regional dispatch grid: Beaver County.

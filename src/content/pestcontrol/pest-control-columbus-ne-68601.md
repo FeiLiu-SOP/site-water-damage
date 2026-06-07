@@ -11,6 +11,7 @@ lng: -97.3600
 zipSample: ["68602", "68601"]
 zipCodes: ["68602", "68601"]
 localPaths: ["Platte County / elevation 1453 ft band", "Platte County / primary ZIP 68601", "Platte County / ZIP 68601 sector", "Platte County / coords 41.4400, -97.3600", "Platte County / ZIP 68602 sector"]
+zillowHomeValueUsd: 271028
 ---
 
 **Engineering Notice for Columbus:** Structural loading calculated based on 1453 ft terrain assessment. Regional dispatch grid: Platte County.

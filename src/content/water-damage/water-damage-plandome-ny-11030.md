@@ -12,6 +12,7 @@ lng: -73.7000
 zipSample: ["11030"]
 zipCodes: ["11030"]
 localPaths: ["Nassau County / ZIP 11030 sector", "Nassau County / primary ZIP 11030", "Nassau County / coords 40.8100, -73.7000", "Nassau County / elevation 66 ft band"]
+zillowHomeValueUsd: 2214927
 ---
 
 **Engineering Notice for Plandome:** structural drying capacity optimized for 66ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Nassau County. Relative Humidity Threshold: 70%. Sensor sync: Active.

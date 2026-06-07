@@ -11,6 +11,7 @@ lng: -81.2900
 zipSample: ["32720", "32723", "32724", "32721"]
 zipCodes: ["32723", "32724", "32720", "32721"]
 localPaths: ["Volusia County / primary ZIP 32724", "Volusia County / coords 29.0200, -81.2900", "Volusia County / ZIP 32723 sector", "Volusia County / elevation 105 ft band", "Volusia County / ZIP 32724 sector"]
+zillowHomeValueUsd: 339093
 ---
 
 **Engineering Notice for DeLand:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Volusia County.

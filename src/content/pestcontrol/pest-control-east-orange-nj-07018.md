@@ -11,6 +11,7 @@ lng: -74.2100
 zipSample: ["07018", "07017", "07019"]
 zipCodes: ["07019", "07017", "07018"]
 localPaths: ["Essex County / ZIP 07018 sector", "Essex County / coords 40.7700, -74.2100", "Essex County / ZIP 07019 sector", "Essex County / elevation 197 ft band", "Essex County / ZIP 07017 sector"]
+zillowHomeValueUsd: 463575
 ---
 
 **Engineering Notice for East Orange:** Structural loading calculated based on 197 ft terrain assessment. Regional dispatch grid: Essex County.

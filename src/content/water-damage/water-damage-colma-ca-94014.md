@@ -12,6 +12,7 @@ lng: -122.4500
 zipSample: ["94014"]
 zipCodes: ["94014"]
 localPaths: ["San Mateo County / coords 37.6800, -122.4500", "San Mateo County / elevation 180 ft band", "San Mateo County / ZIP 94014 sector", "San Mateo County / primary ZIP 94014"]
+zillowHomeValueUsd: 1017475
 ---
 
 **Engineering Notice for Colma:** structural drying capacity optimized for 180ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Mateo County. Relative Humidity Threshold: 74%. Sensor sync: Active.

@@ -11,6 +11,7 @@ lng: -85.2500
 zipSample: ["37407", "37414", "37406", "37416", "37408"]
 zipCodes: ["37408", "37407", "37410", "37421", "37415", "37411", "37405", "37402", "37343", "37409", "37419", "37414"]
 localPaths: ["Hamilton County / elevation 696 ft band", "Hamilton County / ZIP 37414 sector", "Hamilton County / coords 35.0700, -85.2500", "Hamilton County / ZIP 37407 sector", "Hamilton County / ZIP 37408 sector"]
+zillowHomeValueUsd: 330306
 ---
 
 **Engineering Notice for Chattanooga:** Structural loading calculated based on 696 ft terrain assessment. Regional dispatch grid: Hamilton County.

@@ -12,6 +12,7 @@ lng: -82.9700
 zipSample: ["45662"]
 zipCodes: ["45662"]
 localPaths: ["Scioto County / ZIP 45662 sector", "Scioto County / elevation 755 ft band", "Scioto County / primary ZIP 45662", "Scioto County / coords 38.7800, -82.9700"]
+zillowHomeValueUsd: 99251
 ---
 
 **Engineering Notice for Rosemount:** System optimized for 129 mg/L hard water scaling factors in Rosemount. Regional dispatch grid: Scioto County.

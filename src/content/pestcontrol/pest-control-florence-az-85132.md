@@ -11,6 +11,7 @@ lng: -111.4200
 zipSample: ["85132"]
 zipCodes: ["85132"]
 localPaths: ["Pinal County / coords 33.0600, -111.4200", "Pinal County / primary ZIP 85132", "Pinal County / ZIP 85132 sector", "Pinal County / elevation 1526 ft band"]
+zillowHomeValueUsd: 334124
 ---
 
 **Engineering Notice for Florence:** Structural loading calculated based on 1526 ft terrain assessment. Regional dispatch grid: Pinal County.

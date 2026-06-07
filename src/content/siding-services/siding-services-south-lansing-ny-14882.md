@@ -12,6 +12,7 @@ lng: -76.5000
 zipSample: ["14882"]
 zipCodes: ["14882"]
 localPaths: ["Tompkins County / elevation 935 ft band", "Tompkins County / ZIP 14882 sector", "Tompkins County / primary ZIP 14882", "Tompkins County / coords 42.5400, -76.5000"]
+zillowHomeValueUsd: 357941
 ---
 
 **Engineering Notice for South Lansing:** Cladding verification uses 99 mph routing baseline; lateral pressure note: 13.1 psf. Elevation: 935 ft AMSL. Coordinates: 42.5400, -76.5000. Grid: Tompkins County.

@@ -12,6 +12,7 @@ lng: -75.8500
 zipSample: ["19320"]
 zipCodes: ["19320"]
 localPaths: ["Chester County / coords 39.9900, -75.8500", "Chester County / primary ZIP 19320", "Chester County / elevation 600 ft band", "Chester County / ZIP 19320 sector"]
+zillowHomeValueUsd: 382322
 ---
 
 **Engineering Notice for Hayti:** System optimized for 138 mg/L hard water scaling factors in Hayti. Regional dispatch grid: Chester County.

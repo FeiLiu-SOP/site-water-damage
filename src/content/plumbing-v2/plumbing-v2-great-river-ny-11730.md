@@ -12,6 +12,7 @@ lng: -73.1600
 zipSample: ["11739", "11730"]
 zipCodes: ["11739", "11730"]
 localPaths: ["Suffolk County / ZIP 11730 sector", "Suffolk County / elevation 30 ft band", "Suffolk County / coords 40.7100, -73.1600", "Suffolk County / ZIP 11739 sector", "Suffolk County / primary ZIP 11730"]
+zillowHomeValueUsd: 704561
 ---
 
 **Engineering Notice for Great River:** System optimized for 142 mg/L hard water scaling factors in Great River. Regional dispatch grid: Suffolk County.

@@ -12,6 +12,7 @@ lng: -76.3500
 zipSample: ["17921"]
 zipCodes: ["17921"]
 localPaths: ["Schuylkill County / ZIP 17921 sector", "Schuylkill County / elevation 1010 ft band", "Schuylkill County / primary ZIP 17921", "Schuylkill County / coords 40.7800, -76.3500"]
+zillowHomeValueUsd: 128748
 ---
 
 **Engineering Notice for Ashland:** System optimized for 121 mg/L hard water scaling factors in Ashland. Regional dispatch grid: Schuylkill County.

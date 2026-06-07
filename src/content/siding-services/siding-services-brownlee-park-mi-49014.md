@@ -12,6 +12,7 @@ lng: -85.1400
 zipSample: ["49014"]
 zipCodes: ["49014"]
 localPaths: ["Calhoun County / elevation 892 ft band", "Calhoun County / ZIP 49014 sector", "Calhoun County / primary ZIP 49014", "Calhoun County / coords 42.3300, -85.1400"]
+zillowHomeValueUsd: 197653
 ---
 
 **Engineering Notice for Brownlee Park:** Site context locked to Calhoun County. Elevation: 892 ft AMSL. Coordinates: 42.3300, -85.1400. Surface Sheathing integrity verification recorded.

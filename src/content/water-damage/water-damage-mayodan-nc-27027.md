@@ -12,6 +12,7 @@ lng: -79.9700
 zipSample: ["27027"]
 zipCodes: ["27027"]
 localPaths: ["Rockingham County / ZIP 27027 sector", "Rockingham County / primary ZIP 27027", "Rockingham County / coords 36.4200, -79.9700", "Rockingham County / elevation 656 ft band"]
+zillowHomeValueUsd: 162032
 ---
 
 **Engineering Notice for Mayodan:** structural drying capacity optimized for 656ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rockingham County. Relative Humidity Threshold: 76%. Sensor sync: Active.

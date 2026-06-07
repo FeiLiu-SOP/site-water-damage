@@ -12,6 +12,7 @@ lng: -87.5500
 zipSample: ["60438"]
 zipCodes: ["60438"]
 localPaths: ["Cook County / coords 41.5600, -87.5500", "Cook County / elevation 650 ft band", "Cook County / ZIP 60438 sector", "Cook County / primary ZIP 60438"]
+zillowHomeValueUsd: 194857
 ---
 
 **Engineering Notice for Lansing:** Structural loading calculated based on 650 ft terrain assessment. Regional dispatch grid: Cook County.

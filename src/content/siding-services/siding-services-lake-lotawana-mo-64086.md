@@ -12,6 +12,7 @@ lng: -94.2600
 zipSample: ["64034", "64086"]
 zipCodes: ["64086", "64034"]
 localPaths: ["Jackson County / primary ZIP 64086", "Jackson County / coords 38.9000, -94.2600", "Jackson County / ZIP 64034 sector", "Jackson County / ZIP 64086 sector", "Jackson County / elevation 961 ft band"]
+zillowHomeValueUsd: 375449
 ---
 
 **Engineering Notice for Lake Lotawana:** Site context locked to Jackson County. Elevation: 961 ft AMSL. Surface Sheathing integrity verification recorded.

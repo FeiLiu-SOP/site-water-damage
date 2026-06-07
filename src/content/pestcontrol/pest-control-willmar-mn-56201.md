@@ -11,6 +11,7 @@ lng: -95.0600
 zipSample: ["56201"]
 zipCodes: ["56201"]
 localPaths: ["Kandiyohi County / coords 45.1200, -95.0600", "Kandiyohi County / ZIP 56201 sector", "Kandiyohi County / elevation 1122 ft band", "Kandiyohi County / primary ZIP 56201"]
+zillowHomeValueUsd: 236407
 ---
 
 **Engineering Notice for Willmar:** Structural loading calculated based on 1122 ft terrain assessment. Regional dispatch grid: Kandiyohi County.

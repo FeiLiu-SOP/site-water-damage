@@ -12,6 +12,7 @@ lng: -75.4600
 zipSample: ["19478", "19473"]
 zipCodes: ["19478", "19473"]
 localPaths: ["Montgomery County / ZIP 19478 sector", "Montgomery County / elevation 220 ft band", "Montgomery County / primary ZIP 19473", "Montgomery County / ZIP 19473 sector", "Montgomery County / coords 40.2800, -75.4600"]
+zillowHomeValueUsd: 535373
 ---
 
 **Engineering Notice for Spring Mount:** Cladding verification uses 98 mph routing baseline; lateral pressure note: 13.0 psf. Grid: Montgomery County.

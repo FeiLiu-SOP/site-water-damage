@@ -11,6 +11,7 @@ lng: -97.9900
 zipSample: ["78599", "78596"]
 zipCodes: ["78596", "78599"]
 localPaths: ["Hidalgo County / ZIP 78596 sector", "Hidalgo County / elevation 95 ft band", "Hidalgo County / ZIP 78599 sector", "Hidalgo County / coords 26.1600, -97.9900", "Hidalgo County / primary ZIP 78599"]
+zillowHomeValueUsd: 192200
 ---
 
 **Engineering Notice for Weslaco:** Structural loading calculated based on 95 ft terrain assessment. Regional dispatch grid: Hidalgo County.

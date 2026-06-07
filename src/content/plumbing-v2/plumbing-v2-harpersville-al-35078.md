@@ -12,6 +12,7 @@ lng: -86.4300
 zipSample: ["35078"]
 zipCodes: ["35078"]
 localPaths: ["Shelby County / ZIP 35078 sector", "Shelby County / coords 33.3200, -86.4300", "Shelby County / primary ZIP 35078", "Shelby County / elevation 466 ft band"]
+zillowHomeValueUsd: 283825
 ---
 
 **Engineering Notice for Harpersville:** System optimized for 143 mg/L hard water scaling factors in Harpersville. Regional dispatch grid: Shelby County.

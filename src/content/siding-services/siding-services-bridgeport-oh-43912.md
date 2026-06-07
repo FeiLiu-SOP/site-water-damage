@@ -12,6 +12,7 @@ lng: -80.7500
 zipSample: ["43912", "43916"]
 zipCodes: ["43916", "43912"]
 localPaths: ["Belmont County / elevation 896 ft band", "Belmont County / ZIP 43912 sector", "Belmont County / ZIP 43916 sector", "Belmont County / coords 40.0700, -80.7500", "Belmont County / primary ZIP 43912"]
+zillowHomeValueUsd: 94922
 ---
 
 **Engineering Notice for Bridgeport:** Structural integrity verification: Weather Barrier Wrap calibrated for 97 mph localized wind load factor. Elevation: 896 ft AMSL. Regional dispatch grid: Belmont County.

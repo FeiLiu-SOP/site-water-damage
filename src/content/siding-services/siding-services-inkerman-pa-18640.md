@@ -12,6 +12,7 @@ lng: -75.8200
 zipSample: ["18640", "18702"]
 zipCodes: ["18702", "18640"]
 localPaths: ["Luzerne County / ZIP 18640 sector", "Luzerne County / primary ZIP 18640", "Luzerne County / ZIP 18702 sector", "Luzerne County / elevation 787 ft band", "Luzerne County / coords 41.3000, -75.8200"]
+zillowHomeValueUsd: 201816
 ---
 
 **Engineering Notice for Inkerman:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 1.03. Regional dispatch grid: Luzerne County.

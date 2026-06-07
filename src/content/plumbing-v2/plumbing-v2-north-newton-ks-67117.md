@@ -12,6 +12,7 @@ lng: -97.3500
 zipSample: ["67117"]
 zipCodes: ["67117"]
 localPaths: ["Harvey County / primary ZIP 67117", "Harvey County / coords 38.0800, -97.3500", "Harvey County / elevation 1457 ft band", "Harvey County / ZIP 67117 sector"]
+zillowHomeValueUsd: 239196
 ---
 
 **Engineering Notice for North Newton:** System optimized for 158 mg/L hard water scaling factors in North Newton. Regional dispatch grid: Harvey County.

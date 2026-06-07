@@ -11,6 +11,7 @@ lng: -73.9200
 zipSample: ["10566"]
 zipCodes: ["10566"]
 localPaths: ["Westchester County / coords 41.2900, -73.9200", "Westchester County / elevation 203 ft band", "Westchester County / ZIP 10566 sector", "Westchester County / primary ZIP 10566"]
+zillowHomeValueUsd: 500800
 ---
 
 **Engineering Notice for Peekskill:** Structural loading calculated based on 203 ft terrain assessment. Regional dispatch grid: Westchester County.

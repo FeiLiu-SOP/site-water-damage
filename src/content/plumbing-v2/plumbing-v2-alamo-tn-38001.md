@@ -12,6 +12,7 @@ lng: -89.1200
 zipSample: ["38001"]
 zipCodes: ["38001"]
 localPaths: ["Crockett County / elevation 371 ft band", "Crockett County / primary ZIP 38001", "Crockett County / ZIP 38001 sector", "Crockett County / coords 35.7800, -89.1200"]
+zillowHomeValueUsd: 178564
 ---
 
 **Engineering Notice for Alamo:** System optimized for 126 mg/L hard water scaling factors in Alamo. Regional dispatch grid: Crockett County.

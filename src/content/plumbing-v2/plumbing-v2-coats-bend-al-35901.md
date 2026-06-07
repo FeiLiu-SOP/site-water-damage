@@ -12,6 +12,7 @@ lng: -85.8700
 zipSample: ["35901"]
 zipCodes: ["35901"]
 localPaths: ["Etowah County / primary ZIP 35901", "Etowah County / elevation 607 ft band", "Etowah County / coords 34.0800, -85.8700", "Etowah County / ZIP 35901 sector"]
+zillowHomeValueUsd: 158232
 ---
 
 **Engineering Notice for Coats Bend:** System optimized for 159 mg/L hard water scaling factors in Coats Bend. Regional dispatch grid: Etowah County.

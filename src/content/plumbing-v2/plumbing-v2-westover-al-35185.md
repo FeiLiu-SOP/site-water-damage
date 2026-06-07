@@ -12,6 +12,8 @@ lng: -86.5300
 zipSample: ["35185", "35078", "35147"]
 zipCodes: ["35185", "35078", "35147"]
 localPaths: ["Shelby County / elevation 495 ft band", "Shelby County / ZIP 35185 sector", "Shelby County / ZIP 35147 sector", "Shelby County / coords 33.3700, -86.5300", "Shelby County / primary ZIP 35185"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 213966
 ---
 
 **Engineering Notice for Westover:** System optimized for 126 mg/L hard water scaling factors in Westover. Regional dispatch grid: Shelby County.

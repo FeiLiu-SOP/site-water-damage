@@ -12,6 +12,7 @@ lng: -83.4400
 zipSample: ["31647"]
 zipCodes: ["31647"]
 localPaths: ["Cook County / elevation 269 ft band", "Cook County / coords 31.1700, -83.4400", "Cook County / primary ZIP 31647", "Cook County / ZIP 31647 sector"]
+zillowHomeValueUsd: 125719
 ---
 
 **Engineering Notice for Sparks:** Structural integrity verification: Exterior Cladding calibrated for 101 mph localized wind load factor. Regional dispatch grid: Cook County.

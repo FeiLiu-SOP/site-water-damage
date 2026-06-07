@@ -12,6 +12,7 @@ lng: -88.9300
 zipSample: ["62522", "62521", "62526", "62524", "62523"]
 zipCodes: ["62521", "62524", "62525", "62523", "62522", "62526"]
 localPaths: ["Macon County / ZIP 62522 sector", "Macon County / elevation 682 ft band", "Macon County / coords 39.8600, -88.9300", "Macon County / ZIP 62521 sector", "Macon County / ZIP 62526 sector"]
+zillowHomeValueUsd: 90432
 ---
 
 **Engineering Notice for Decatur:** Structural loading calculated based on 682 ft terrain assessment. Regional dispatch grid: Macon County.

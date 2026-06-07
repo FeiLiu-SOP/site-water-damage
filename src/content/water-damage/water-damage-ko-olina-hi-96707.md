@@ -12,6 +12,7 @@ lng: -158.1200
 zipSample: ["96707"]
 zipCodes: ["96707"]
 localPaths: ["Honolulu County / elevation 36 ft band", "Honolulu County / ZIP 96707 sector", "Honolulu County / coords 21.3400, -158.1200", "Honolulu County / primary ZIP 96707"]
+zillowHomeValueUsd: 860463
 ---
 
 **Engineering Notice for Ko Olina:** structural drying capacity optimized for 36ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Honolulu County. Relative Humidity Threshold: 78%. Sensor sync: Active.

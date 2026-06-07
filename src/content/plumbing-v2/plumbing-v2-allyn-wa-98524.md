@@ -12,6 +12,7 @@ lng: -122.8400
 zipSample: ["98524"]
 zipCodes: ["98524"]
 localPaths: ["Mason County / primary ZIP 98524", "Mason County / ZIP 98524 sector", "Mason County / elevation 226 ft band", "Mason County / coords 47.3900, -122.8400"]
+zillowHomeValueUsd: 537797
 ---
 
 **Engineering Notice for Allyn:** System optimized for 173 mg/L hard water scaling factors in Allyn. Regional dispatch grid: Mason County.

@@ -12,6 +12,7 @@ lng: -89.1200
 zipSample: ["39365"]
 zipCodes: ["39365"]
 localPaths: ["Newton County / ZIP 39365 sector", "Newton County / elevation 512 ft band", "Newton County / primary ZIP 39365", "Newton County / coords 32.5700, -89.1200"]
+zillowHomeValueUsd: 148777
 ---
 
 **Engineering Notice for Union:** structural drying capacity optimized for 512ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Newton County. Relative Humidity Threshold: 72%. Sensor sync: Active.

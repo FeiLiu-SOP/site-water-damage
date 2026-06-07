@@ -11,6 +11,7 @@ lng: -76.9800
 zipSample: ["20783", "20782"]
 zipCodes: ["20782", "20783"]
 localPaths: ["Prince George's County / primary ZIP 20783", "Prince George's County / ZIP 20783 sector", "Prince George's County / ZIP 20782 sector", "Prince George's County / coords 38.9700, -76.9800", "Prince George's County / elevation 59 ft band"]
+zillowHomeValueUsd: 405982
 ---
 
 **Engineering Notice for Chillum:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Prince George's County.

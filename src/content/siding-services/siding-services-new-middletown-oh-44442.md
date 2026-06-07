@@ -12,6 +12,7 @@ lng: -80.5600
 zipSample: ["44442"]
 zipCodes: ["44442"]
 localPaths: ["Mahoning County / elevation 1217 ft band", "Mahoning County / ZIP 44442 sector", "Mahoning County / primary ZIP 44442", "Mahoning County / coords 40.9600, -80.5600"]
+zillowHomeValueUsd: 238490
 ---
 
 **Engineering Notice for New Middletown:** Site context locked to Mahoning County. Coordinates: 40.9600, -80.5600. Wall Restoration integrity verification recorded.

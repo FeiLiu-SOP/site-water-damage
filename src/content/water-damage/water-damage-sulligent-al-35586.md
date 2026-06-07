@@ -12,6 +12,7 @@ lng: -88.1300
 zipSample: ["35586"]
 zipCodes: ["35586"]
 localPaths: ["Lamar County / primary ZIP 35586", "Lamar County / ZIP 35586 sector", "Lamar County / elevation 427 ft band", "Lamar County / coords 33.8900, -88.1300"]
+zillowHomeValueUsd: 125608
 ---
 
 **Engineering Notice for Sulligent:** structural drying capacity optimized for 427ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lamar County. Relative Humidity Threshold: 79%. Sensor sync: Active.

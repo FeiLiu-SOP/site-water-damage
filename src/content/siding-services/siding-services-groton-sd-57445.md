@@ -12,6 +12,7 @@ lng: -98.1000
 zipSample: ["57445"]
 zipCodes: ["57445"]
 localPaths: ["Brown County / ZIP 57445 sector", "Brown County / elevation 1302 ft band", "Brown County / coords 45.4500, -98.1000", "Brown County / primary ZIP 57445"]
+zillowHomeValueUsd: 237592
 ---
 
 **Engineering Notice for Groton:** Exterior Cladding was validated under stress factor 1.11; target tolerance set near 98 mph. Grid anchor: Brown County.

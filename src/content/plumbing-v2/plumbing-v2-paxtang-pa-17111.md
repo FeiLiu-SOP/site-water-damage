@@ -12,6 +12,7 @@ lng: -76.8300
 zipSample: ["17111"]
 zipCodes: ["17111"]
 localPaths: ["Dauphin County / elevation 417 ft band", "Dauphin County / primary ZIP 17111", "Dauphin County / ZIP 17111 sector", "Dauphin County / coords 40.2600, -76.8300"]
+zillowHomeValueUsd: 292230
 ---
 
 **Engineering Notice for Paxtang:** System optimized for 159 mg/L hard water scaling factors in Paxtang. Regional dispatch grid: Dauphin County.

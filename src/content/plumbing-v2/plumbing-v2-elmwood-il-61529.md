@@ -12,6 +12,7 @@ lng: -89.9700
 zipSample: ["61529"]
 zipCodes: ["61529"]
 localPaths: ["Peoria County / ZIP 61529 sector", "Peoria County / primary ZIP 61529", "Peoria County / coords 40.7800, -89.9700", "Peoria County / elevation 646 ft band"]
+zillowHomeValueUsd: 178944
 ---
 
 **Engineering Notice for Elmwood:** System optimized for 126 mg/L hard water scaling factors in Elmwood. Regional dispatch grid: Peoria County.

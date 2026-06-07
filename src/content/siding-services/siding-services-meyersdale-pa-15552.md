@@ -12,6 +12,7 @@ lng: -79.0300
 zipSample: ["15552"]
 zipCodes: ["15552"]
 localPaths: ["Somerset County / ZIP 15552 sector", "Somerset County / elevation 1949 ft band", "Somerset County / coords 39.8100, -79.0300", "Somerset County / primary ZIP 15552"]
+zillowHomeValueUsd: 142705
 ---
 
 **Engineering Notice for Meyersdale:** Envelope check: Weather Barrier Wrap assigned to wind-load band C with stress factor 0.87. Regional dispatch grid: Somerset County.

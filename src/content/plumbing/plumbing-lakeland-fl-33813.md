@@ -12,6 +12,7 @@ lng: -81.9500
 zipSample: ["33811", "33803", "33815", "33801", "33806"]
 zipCodes: ["33811", "33815", "33803", "33804", "33813", "33802", "33801", "33805", "33806"]
 localPaths: ["Polk County / coords 28.0600, -81.9500", "Polk County / ZIP 33811 sector", "Polk County / primary ZIP 33813", "Polk County / elevation 220 ft band", "Polk County / ZIP 33801 sector"]
+zillowHomeValueUsd: 369302
 ---
 
 **Engineering Notice for Lakeland:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Polk County.

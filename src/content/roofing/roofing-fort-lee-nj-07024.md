@@ -11,6 +11,7 @@ lng: -73.9700
 zipSample: ["07024"]
 zipCodes: ["07024"]
 localPaths: ["Bergen County / ZIP 07024 sector", "Bergen County / coords 40.8500, -73.9700", "Bergen County / primary ZIP 07024", "Bergen County / elevation 299 ft band"]
+zillowHomeValueUsd: 587728
 ---
 
 **Engineering Notice for Fort Lee:** Structural loading calculated based on 299 ft terrain assessment. Regional dispatch grid: Bergen County.

@@ -11,6 +11,7 @@ lng: -84.8700
 zipSample: ["37312", "37311", "37320"]
 zipCodes: ["37311", "37312", "37320"]
 localPaths: ["Bradley County / elevation 817 ft band", "Bradley County / ZIP 37312 sector", "Bradley County / ZIP 37320 sector", "Bradley County / coords 35.1800, -84.8700", "Bradley County / primary ZIP 37312"]
+zillowHomeValueUsd: 350250
 ---
 
 **Engineering Notice for Cleveland:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Bradley County.

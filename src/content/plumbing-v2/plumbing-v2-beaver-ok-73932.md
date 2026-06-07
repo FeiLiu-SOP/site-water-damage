@@ -12,6 +12,7 @@ lng: -100.5200
 zipSample: ["73932"]
 zipCodes: ["73932"]
 localPaths: ["Beaver County / ZIP 73932 sector", "Beaver County / coords 36.8100, -100.5200", "Beaver County / elevation 2448 ft band", "Beaver County / primary ZIP 73932"]
+zillowHomeValueUsd: 108613
 ---
 
 **Engineering Notice for Beaver:** System optimized for 150 mg/L hard water scaling factors in Beaver. Regional dispatch grid: Beaver County.

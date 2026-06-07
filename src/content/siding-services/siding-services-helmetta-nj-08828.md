@@ -12,6 +12,7 @@ lng: -74.4200
 zipSample: ["08828"]
 zipCodes: ["08828"]
 localPaths: ["Middlesex County / elevation 66 ft band", "Middlesex County / primary ZIP 08828", "Middlesex County / coords 40.3800, -74.4200", "Middlesex County / ZIP 08828 sector"]
+zillowHomeValueUsd: 425151
 ---
 
 **Engineering Notice for Helmetta:** Structural integrity verification: Facade Renewal calibrated for 104 mph localized wind load factor. Elevation: 66 ft AMSL. Regional dispatch grid: Middlesex County.

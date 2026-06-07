@@ -12,6 +12,7 @@ lng: -75.9300
 zipSample: ["19352"]
 zipCodes: ["19352"]
 localPaths: ["Chester County / elevation 538 ft band", "Chester County / ZIP 19352 sector", "Chester County / primary ZIP 19352", "Chester County / coords 39.8100, -75.9300"]
+zillowHomeValueUsd: 569751
 ---
 
 **Engineering Notice for Lincoln University:** structural drying capacity optimized for 538ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chester County. Relative Humidity Threshold: 77%. Sensor sync: Active.

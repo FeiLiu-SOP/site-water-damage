@@ -12,6 +12,7 @@ lng: -96.8600
 zipSample: ["75154"]
 zipCodes: ["75154"]
 localPaths: ["Ellis County / primary ZIP 75154", "Ellis County / ZIP 75154 sector", "Ellis County / coords 32.5100, -96.8600", "Ellis County / elevation 617 ft band"]
+zillowHomeValueUsd: 350969
 ---
 
 **Engineering Notice for Oak Leaf:** Structural integrity verification: Cladding Retrofit calibrated for 133 mph localized wind load factor. Elevation: 617 ft AMSL. Regional dispatch grid: Ellis County.

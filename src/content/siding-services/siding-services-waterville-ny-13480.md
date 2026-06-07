@@ -12,6 +12,7 @@ lng: -75.3800
 zipSample: ["13480"]
 zipCodes: ["13480"]
 localPaths: ["Oneida County / primary ZIP 13480", "Oneida County / ZIP 13480 sector", "Oneida County / elevation 1204 ft band", "Oneida County / coords 42.9300, -75.3800"]
+zillowHomeValueUsd: 218462
 ---
 
 **Engineering Notice for Waterville:** Site context locked to Oneida County. Cladding Retrofit integrity verification recorded.

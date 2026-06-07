@@ -11,6 +11,7 @@ lng: -90.3700
 zipSample: ["63010"]
 zipCodes: ["63010"]
 localPaths: ["Jefferson County / primary ZIP 63010", "Jefferson County / coords 38.4300, -90.3700", "Jefferson County / elevation 531 ft band", "Jefferson County / ZIP 63010 sector"]
+zillowHomeValueUsd: 272916
 ---
 
 **Engineering Notice for Arnold:** Structural loading calculated based on 531 ft terrain assessment. Regional dispatch grid: Jefferson County.

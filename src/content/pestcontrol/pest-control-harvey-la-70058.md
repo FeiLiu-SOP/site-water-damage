@@ -11,6 +11,7 @@ lng: -90.0700
 zipSample: ["70059", "70060", "70058"]
 zipCodes: ["70059", "70058", "70060"]
 localPaths: ["Jefferson Parish / ZIP 70059 sector", "Jefferson Parish / ZIP 70060 sector", "Jefferson Parish / coords 29.8900, -90.0700", "Jefferson Parish / elevation 10 ft band", "Jefferson Parish / ZIP 70058 sector"]
+zillowHomeValueUsd: 229279
 ---
 
 **Engineering Notice for Harvey:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Jefferson Parish.

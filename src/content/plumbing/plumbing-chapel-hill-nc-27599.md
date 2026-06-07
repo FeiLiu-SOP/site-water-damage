@@ -12,6 +12,7 @@ lng: -79.0400
 zipSample: ["27515", "27599", "27514", "27516", "27517"]
 zipCodes: ["27517", "27515", "27514", "27599", "27516"]
 localPaths: ["Orange County / ZIP 27516 sector", "Orange County / elevation 302 ft band", "Orange County / primary ZIP 27599", "Orange County / ZIP 27517 sector", "Orange County / coords 35.9300, -79.0400"]
+zillowHomeValueUsd: 642703
 ---
 
 **Engineering Notice for Chapel Hill:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Orange County.

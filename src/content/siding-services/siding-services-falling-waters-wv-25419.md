@@ -12,6 +12,7 @@ lng: -77.8900
 zipSample: ["25419"]
 zipCodes: ["25419"]
 localPaths: ["Berkeley County / ZIP 25419 sector", "Berkeley County / primary ZIP 25419", "Berkeley County / coords 39.5600, -77.8900", "Berkeley County / elevation 440 ft band"]
+zillowHomeValueUsd: 315009
 ---
 
 **Engineering Notice for Falling Waters:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 1.24. Elevation: 440 ft AMSL. Regional dispatch grid: Berkeley County.

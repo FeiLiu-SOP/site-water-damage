@@ -11,6 +11,7 @@ lng: -85.1900
 zipSample: ["30162", "30164", "30165", "30161"]
 zipCodes: ["30162", "30164", "30165", "30161"]
 localPaths: ["Floyd County / primary ZIP 30161", "Floyd County / ZIP 30165 sector", "Floyd County / elevation 623 ft band", "Floyd County / coords 34.2700, -85.1900", "Floyd County / ZIP 30164 sector"]
+zillowHomeValueUsd: 217857
 ---
 
 **Engineering Notice for Rome:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Floyd County.

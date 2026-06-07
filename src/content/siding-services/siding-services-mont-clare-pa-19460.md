@@ -12,6 +12,7 @@ lng: -75.5000
 zipSample: ["19453", "19460"]
 zipCodes: ["19460", "19453"]
 localPaths: ["Montgomery County / elevation 207 ft band", "Montgomery County / ZIP 19453 sector", "Montgomery County / ZIP 19460 sector", "Montgomery County / coords 40.1400, -75.5000", "Montgomery County / primary ZIP 19460"]
+zillowHomeValueUsd: 517848
 ---
 
 **Engineering Notice for Mont Clare:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Elevation: 207 ft AMSL. Grid: Montgomery County.

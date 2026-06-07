@@ -12,6 +12,7 @@ lng: -112.1600
 zipSample: ["86333"]
 zipCodes: ["86333"]
 localPaths: ["Yavapai County / ZIP 86333 sector", "Yavapai County / primary ZIP 86333", "Yavapai County / elevation 3930 ft band", "Yavapai County / coords 34.3500, -112.1600"]
+zillowHomeValueUsd: 308389
 ---
 
 **Engineering Notice for Spring Valley:** Site context locked to Yavapai County. Elevation: 3930 ft AMSL. Surface Sheathing integrity verification recorded.

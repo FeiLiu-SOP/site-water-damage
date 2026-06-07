@@ -11,6 +11,7 @@ lng: -117.0000
 zipSample: ["83844", "83843"]
 zipCodes: ["83844", "83843"]
 localPaths: ["Latah County / coords 46.7300, -117.0000", "Latah County / ZIP 83843 sector", "Latah County / primary ZIP 83843", "Latah County / ZIP 83844 sector", "Latah County / elevation 2589 ft band"]
+zillowHomeValueUsd: 468186
 ---
 
 **Engineering Notice for Moscow:** Structural loading calculated based on 2589 ft terrain assessment. Regional dispatch grid: Latah County.

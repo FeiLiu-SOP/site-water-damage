@@ -12,6 +12,7 @@ lng: -77.5300
 zipSample: ["21777"]
 zipCodes: ["21777"]
 localPaths: ["Frederick County / ZIP 21777 sector", "Frederick County / primary ZIP 21777", "Frederick County / coords 39.2800, -77.5300", "Frederick County / elevation 276 ft band"]
+zillowHomeValueUsd: 519132
 ---
 
 **Engineering Notice for Point of Rocks:** System optimized for 173 mg/L hard water scaling factors in Point of Rocks. Regional dispatch grid: Frederick County.

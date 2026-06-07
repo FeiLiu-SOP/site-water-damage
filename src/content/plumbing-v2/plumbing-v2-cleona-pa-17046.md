@@ -12,6 +12,7 @@ lng: -76.4800
 zipSample: ["17083", "17042", "17046"]
 zipCodes: ["17083", "17042", "17046"]
 localPaths: ["Lebanon County / elevation 463 ft band", "Lebanon County / ZIP 17046 sector", "Lebanon County / coords 40.3400, -76.4800", "Lebanon County / ZIP 17042 sector", "Lebanon County / primary ZIP 17046"]
+zillowHomeValueUsd: 258549
 ---
 
 **Engineering Notice for Cleona:** System optimized for 142 mg/L hard water scaling factors in Cleona. Regional dispatch grid: Lebanon County.

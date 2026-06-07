@@ -12,6 +12,7 @@ lng: -96.1300
 zipSample: ["51239"]
 zipCodes: ["51239"]
 localPaths: ["Sioux County / coords 43.1900, -96.1300", "Sioux County / elevation 1440 ft band", "Sioux County / ZIP 51239 sector", "Sioux County / primary ZIP 51239"]
+zillowHomeValueUsd: 310270
 ---
 
 **Engineering Notice for Hull:** Envelope check: Surface Sheathing assigned to wind-load band A with stress factor 0.98. Regional dispatch grid: Sioux County.

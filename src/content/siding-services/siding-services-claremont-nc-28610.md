@@ -12,6 +12,7 @@ lng: -81.1500
 zipSample: ["28610"]
 zipCodes: ["28610"]
 localPaths: ["Catawba County / primary ZIP 28610", "Catawba County / coords 35.7100, -81.1500", "Catawba County / ZIP 28610 sector", "Catawba County / elevation 965 ft band"]
+zillowHomeValueUsd: 259562
 ---
 
 **Engineering Notice for Claremont:** Cladding Service was validated under stress factor 1.04; target tolerance set near 96 mph. Coordinates: 35.7100, -81.1500. Grid anchor: Catawba County.

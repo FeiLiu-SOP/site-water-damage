@@ -12,6 +12,7 @@ lng: -79.5800
 zipSample: ["27325"]
 zipCodes: ["27325"]
 localPaths: ["Moore County / elevation 469 ft band", "Moore County / coords 35.4300, -79.5800", "Moore County / primary ZIP 27325", "Moore County / ZIP 27325 sector"]
+zillowHomeValueUsd: 174342
 ---
 
 **Engineering Notice for Robbins:** structural drying capacity optimized for 469ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Moore County. Relative Humidity Threshold: 77%. Sensor sync: Active.

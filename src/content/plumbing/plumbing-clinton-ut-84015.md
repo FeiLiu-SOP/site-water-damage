@@ -12,6 +12,7 @@ lng: -112.0700
 zipSample: ["84015"]
 zipCodes: ["84015"]
 localPaths: ["Davis County / elevation 4341 ft band", "Davis County / coords 41.1400, -112.0700", "Davis County / primary ZIP 84015", "Davis County / ZIP 84015 sector"]
+zillowHomeValueUsd: 466016
 ---
 
 **Engineering Notice for Clinton:** Structural loading calculated based on 4341 ft terrain assessment. Regional dispatch grid: Davis County.

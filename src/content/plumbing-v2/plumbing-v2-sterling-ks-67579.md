@@ -12,6 +12,7 @@ lng: -98.2100
 zipSample: ["67579"]
 zipCodes: ["67579"]
 localPaths: ["Rice County / ZIP 67579 sector", "Rice County / coords 38.2100, -98.2100", "Rice County / elevation 1650 ft band", "Rice County / primary ZIP 67579"]
+zillowHomeValueUsd: 167309
 ---
 
 **Engineering Notice for Sterling:** System optimized for 131 mg/L hard water scaling factors in Sterling. Regional dispatch grid: Rice County.

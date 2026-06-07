@@ -11,6 +11,7 @@ lng: -81.2500
 zipSample: ["44077"]
 zipCodes: ["44077"]
 localPaths: ["Lake County / elevation 650 ft band", "Lake County / primary ZIP 44077", "Lake County / coords 41.7200, -81.2500", "Lake County / ZIP 44077 sector"]
+zillowHomeValueUsd: 252909
 ---
 
 **Engineering Notice for Painesville:** Structural loading calculated based on 650 ft terrain assessment. Regional dispatch grid: Lake County.

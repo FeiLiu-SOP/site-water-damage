@@ -11,6 +11,7 @@ lng: -84.5500
 zipSample: ["40324"]
 zipCodes: ["40324"]
 localPaths: ["Scott County / elevation 827 ft band", "Scott County / ZIP 40324 sector", "Scott County / primary ZIP 40324", "Scott County / coords 38.2200, -84.5500"]
+zillowHomeValueUsd: 336318
 ---
 
 **Engineering Notice for Georgetown:** Structural loading calculated based on 827 ft terrain assessment. Regional dispatch grid: Scott County.

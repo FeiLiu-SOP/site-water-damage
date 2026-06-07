@@ -12,6 +12,7 @@ lng: -87.8300
 zipSample: ["60465"]
 zipCodes: ["60465"]
 localPaths: ["Cook County / primary ZIP 60465", "Cook County / coords 41.7000, -87.8300", "Cook County / elevation 607 ft band", "Cook County / ZIP 60465 sector"]
+zillowHomeValueUsd: 280010
 ---
 
 **Engineering Notice for Palos Hills:** Structural loading calculated based on 607 ft terrain assessment. Regional dispatch grid: Cook County.

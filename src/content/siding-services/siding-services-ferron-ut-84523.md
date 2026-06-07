@@ -12,6 +12,7 @@ lng: -111.1300
 zipSample: ["84523"]
 zipCodes: ["84523"]
 localPaths: ["Emery County / elevation 5951 ft band", "Emery County / coords 39.0900, -111.1300", "Emery County / primary ZIP 84523", "Emery County / ZIP 84523 sector"]
+zillowHomeValueUsd: 318257
 ---
 
 **Engineering Notice for Ferron:** Envelope check: Wall Restoration assigned to wind-load band B with stress factor 0.75. Regional dispatch grid: Emery County.

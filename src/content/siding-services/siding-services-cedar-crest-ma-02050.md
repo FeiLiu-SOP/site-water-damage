@@ -12,6 +12,7 @@ lng: -70.6600
 zipSample: ["02020", "02050", "02041"]
 zipCodes: ["02041", "02050", "02020"]
 localPaths: ["Plymouth County / ZIP 02050 sector", "Plymouth County / primary ZIP 02050", "Plymouth County / ZIP 02020 sector", "Plymouth County / elevation 36 ft band", "Plymouth County / coords 42.0800, -70.6600"]
+zillowHomeValueUsd: 793574
 ---
 
 **Engineering Notice for Cedar Crest:** Structural integrity verification: Cladding Retrofit calibrated for 97 mph localized wind load factor. Elevation: 36 ft AMSL. Coordinates: 42.0800, -70.6600. Regional dispatch grid: Plymouth County.

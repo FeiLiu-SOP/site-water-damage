@@ -11,6 +11,7 @@ lng: -121.6600
 zipSample: ["95012", "95004", "93907", "95076"]
 zipCodes: ["93907", "95076", "95012", "95004"]
 localPaths: ["Monterey County / primary ZIP 95076", "Monterey County / coords 36.8100, -121.6600", "Monterey County / ZIP 95012 sector", "Monterey County / ZIP 95076 sector", "Monterey County / ZIP 93907 sector"]
+zillowHomeValueUsd: 839636
 ---
 
 **Engineering Notice for Prunedale:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Monterey County.

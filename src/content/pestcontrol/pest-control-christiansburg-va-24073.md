@@ -11,6 +11,7 @@ lng: -80.4000
 zipSample: ["24068", "24073"]
 zipCodes: ["24068", "24073"]
 localPaths: ["Montgomery County / primary ZIP 24073", "Montgomery County / coords 37.1400, -80.4000", "Montgomery County / ZIP 24073 sector", "Montgomery County / elevation 2067 ft band", "Montgomery County / ZIP 24068 sector"]
+zillowHomeValueUsd: 306051
 ---
 
 **Engineering Notice for Christiansburg:** Structural loading calculated based on 2067 ft terrain assessment. Regional dispatch grid: Montgomery County.

@@ -12,6 +12,7 @@ lng: -76.9900
 zipSample: ["17331"]
 zipCodes: ["17331"]
 localPaths: ["York County / elevation 577 ft band", "York County / coords 39.7900, -76.9900", "York County / primary ZIP 17331", "York County / ZIP 17331 sector"]
+zillowHomeValueUsd: 291906
 ---
 
 **Engineering Notice for Pennville:** System optimized for 135 mg/L hard water scaling factors in Pennville. Regional dispatch grid: York County.

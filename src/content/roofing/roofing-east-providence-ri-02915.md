@@ -11,6 +11,7 @@ lng: -71.3600
 zipSample: ["02916", "02914", "02915"]
 zipCodes: ["02914", "02916", "02915"]
 localPaths: ["Providence County / ZIP 02916 sector", "Providence County / ZIP 02914 sector", "Providence County / ZIP 02915 sector", "Providence County / primary ZIP 02915", "Providence County / coords 41.8100, -71.3600"]
+zillowHomeValueUsd: 437786
 ---
 
 **Engineering Notice for East Providence:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Providence County.

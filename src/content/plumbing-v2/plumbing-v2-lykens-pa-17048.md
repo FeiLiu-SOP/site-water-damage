@@ -12,6 +12,7 @@ lng: -76.7000
 zipSample: ["17048"]
 zipCodes: ["17048"]
 localPaths: ["Dauphin County / primary ZIP 17048", "Dauphin County / elevation 732 ft band", "Dauphin County / coords 40.5600, -76.7000", "Dauphin County / ZIP 17048 sector"]
+zillowHomeValueUsd: 156780
 ---
 
 **Engineering Notice for Lykens:** System optimized for 180 mg/L hard water scaling factors in Lykens. Regional dispatch grid: Dauphin County.

@@ -12,6 +12,7 @@ lng: -84.0000
 zipSample: ["41002"]
 zipCodes: ["41002"]
 localPaths: ["Bracken County / elevation 522 ft band", "Bracken County / ZIP 41002 sector", "Bracken County / coords 38.7700, -84.0000", "Bracken County / primary ZIP 41002"]
+zillowHomeValueUsd: 194298
 ---
 
 **Engineering Notice for Augusta:** Site context locked to Bracken County. Elevation: 522 ft AMSL. Panel Replacement integrity verification recorded.

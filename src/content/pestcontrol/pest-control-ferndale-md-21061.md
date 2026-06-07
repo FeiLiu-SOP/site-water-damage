@@ -11,6 +11,7 @@ lng: -76.6300
 zipSample: ["21061"]
 zipCodes: ["21061"]
 localPaths: ["Anne Arundel County / primary ZIP 21061", "Anne Arundel County / ZIP 21061 sector", "Anne Arundel County / coords 39.1900, -76.6300", "Anne Arundel County / elevation 85 ft band"]
+zillowHomeValueUsd: 377356
 ---
 
 **Engineering Notice for Ferndale:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Anne Arundel County.

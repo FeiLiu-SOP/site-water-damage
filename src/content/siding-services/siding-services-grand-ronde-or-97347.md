@@ -12,6 +12,7 @@ lng: -123.6200
 zipSample: ["97347"]
 zipCodes: ["97347"]
 localPaths: ["Polk County / ZIP 97347 sector", "Polk County / primary ZIP 97347", "Polk County / elevation 338 ft band", "Polk County / coords 45.0700, -123.6200"]
+zillowHomeValueUsd: 457447
 ---
 
 **Engineering Notice for Grand Ronde:** Facade Renewal was validated under stress factor 1.17; target tolerance set near 99 mph. Coordinates: 45.0700, -123.6200. Grid anchor: Polk County.

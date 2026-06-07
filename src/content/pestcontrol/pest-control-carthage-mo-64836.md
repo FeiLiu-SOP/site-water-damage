@@ -11,6 +11,7 @@ lng: -94.3200
 zipSample: ["64836"]
 zipCodes: ["64836"]
 localPaths: ["Jasper County / ZIP 64836 sector", "Jasper County / primary ZIP 64836", "Jasper County / coords 37.1500, -94.3200", "Jasper County / elevation 1053 ft band"]
+zillowHomeValueUsd: 240383
 ---
 
 **Engineering Notice for Carthage:** Structural loading calculated based on 1053 ft terrain assessment. Regional dispatch grid: Jasper County.

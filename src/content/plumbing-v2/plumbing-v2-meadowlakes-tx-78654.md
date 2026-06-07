@@ -12,6 +12,7 @@ lng: -98.3000
 zipSample: ["78654"]
 zipCodes: ["78654"]
 localPaths: ["Burnet County / coords 30.5600, -98.3000", "Burnet County / elevation 817 ft band", "Burnet County / ZIP 78654 sector", "Burnet County / primary ZIP 78654"]
+zillowHomeValueUsd: 405256
 ---
 
 **Engineering Notice for Meadowlakes:** System optimized for 124 mg/L hard water scaling factors in Meadowlakes. Regional dispatch grid: Burnet County.

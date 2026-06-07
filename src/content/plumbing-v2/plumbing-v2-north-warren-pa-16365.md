@@ -12,6 +12,7 @@ lng: -79.1700
 zipSample: ["16365"]
 zipCodes: ["16365"]
 localPaths: ["Warren County / primary ZIP 16365", "Warren County / coords 41.8800, -79.1700", "Warren County / elevation 1699 ft band", "Warren County / ZIP 16365 sector"]
+zillowHomeValueUsd: 139481
 ---
 
 **Engineering Notice for North Warren:** System optimized for 126 mg/L hard water scaling factors in North Warren. Regional dispatch grid: Warren County.

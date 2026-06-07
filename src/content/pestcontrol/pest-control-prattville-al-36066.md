@@ -11,6 +11,7 @@ lng: -86.4600
 zipSample: ["36067", "36066", "36068"]
 zipCodes: ["36067", "36066", "36068"]
 localPaths: ["Autauga County / ZIP 36068 sector", "Autauga County / ZIP 36066 sector", "Autauga County / ZIP 36067 sector", "Autauga County / primary ZIP 36066", "Autauga County / coords 32.4600, -86.4600"]
+zillowHomeValueUsd: 288267
 ---
 
 **Engineering Notice for Prattville:** Structural loading calculated based on 315 ft terrain assessment. Regional dispatch grid: Autauga County.

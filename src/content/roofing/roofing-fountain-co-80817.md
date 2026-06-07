@@ -11,6 +11,7 @@ lng: -104.6800
 zipSample: ["80817"]
 zipCodes: ["80817"]
 localPaths: ["El Paso County / coords 38.6900, -104.6800", "El Paso County / ZIP 80817 sector", "El Paso County / elevation 5564 ft band", "El Paso County / primary ZIP 80817"]
+zillowHomeValueUsd: 395948
 ---
 
 **Engineering Notice for Fountain:** Structural loading calculated based on 5564 ft terrain assessment. Regional dispatch grid: El Paso County.

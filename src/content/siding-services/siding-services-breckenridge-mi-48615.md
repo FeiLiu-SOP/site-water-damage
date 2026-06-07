@@ -12,6 +12,7 @@ lng: -84.4800
 zipSample: ["48615"]
 zipCodes: ["48615"]
 localPaths: ["Gratiot County / ZIP 48615 sector", "Gratiot County / elevation 738 ft band", "Gratiot County / primary ZIP 48615", "Gratiot County / coords 43.4100, -84.4800"]
+zillowHomeValueUsd: 177466
 ---
 
 **Engineering Notice for Breckenridge:** Cladding verification uses 95 mph routing baseline; lateral pressure note: 12.6 psf. Elevation: 738 ft AMSL. Coordinates: 43.4100, -84.4800. Grid: Gratiot County.

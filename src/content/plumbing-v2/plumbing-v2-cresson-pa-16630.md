@@ -12,6 +12,7 @@ lng: -78.5900
 zipSample: ["16630"]
 zipCodes: ["16630"]
 localPaths: ["Cambria County / ZIP 16630 sector", "Cambria County / elevation 2070 ft band", "Cambria County / coords 40.4600, -78.5900", "Cambria County / primary ZIP 16630"]
+zillowHomeValueUsd: 122061
 ---
 
 **Engineering Notice for Cresson:** System optimized for 125 mg/L hard water scaling factors in Cresson. Regional dispatch grid: Cambria County.

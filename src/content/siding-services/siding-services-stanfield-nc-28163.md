@@ -12,6 +12,7 @@ lng: -80.4300
 zipSample: ["28163"]
 zipCodes: ["28163"]
 localPaths: ["Stanly County / coords 35.2300, -80.4300", "Stanly County / primary ZIP 28163", "Stanly County / elevation 594 ft band", "Stanly County / ZIP 28163 sector"]
+zillowHomeValueUsd: 390330
 ---
 
 **Engineering Notice for Stanfield:** Envelope check: Wall Restoration assigned to wind-load band B with stress factor 1.11. Elevation: 594 ft AMSL. Regional dispatch grid: Stanly County.

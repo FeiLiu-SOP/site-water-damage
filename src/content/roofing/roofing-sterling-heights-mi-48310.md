@@ -11,6 +11,7 @@ lng: -83.0300
 zipSample: ["48312", "48311", "48314", "48310", "48313"]
 zipCodes: ["48313", "48312", "48314", "48311", "48310"]
 localPaths: ["Macomb County / ZIP 48312 sector", "Macomb County / primary ZIP 48310", "Macomb County / ZIP 48313 sector", "Macomb County / ZIP 48314 sector", "Macomb County / coords 42.5800, -83.0300"]
+zillowHomeValueUsd: 317630
 ---
 
 **Engineering Notice for Sterling Heights:** Structural loading calculated based on 620 ft terrain assessment. Regional dispatch grid: Macomb County.

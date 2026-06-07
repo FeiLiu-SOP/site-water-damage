@@ -12,6 +12,7 @@ lng: -97.4200
 zipSample: ["73003", "73013", "73007", "73034"]
 zipCodes: ["73013", "73003", "73007", "73034"]
 localPaths: ["Oklahoma County / ZIP 73034 sector", "Oklahoma County / coords 35.6700, -97.4200", "Oklahoma County / ZIP 73013 sector", "Oklahoma County / primary ZIP 73013", "Oklahoma County / ZIP 73007 sector"]
+zillowHomeValueUsd: 326249
 ---
 
 **Engineering Notice for Edmond:** Structural loading calculated based on 1148 ft terrain assessment. Regional dispatch grid: Oklahoma County.

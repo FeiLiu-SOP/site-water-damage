@@ -12,6 +12,7 @@ lng: -80.0000
 zipSample: ["15314"]
 zipCodes: ["15314"]
 localPaths: ["Washington County / ZIP 15314 sector", "Washington County / elevation 1010 ft band", "Washington County / primary ZIP 15314", "Washington County / coords 40.1200, -80.0000"]
+zillowHomeValueUsd: 159611
 ---
 
 **Engineering Notice for Bentleyville:** Envelope check: Vinyl Panels assigned to wind-load band B with stress factor 1.08. Regional dispatch grid: Washington County.

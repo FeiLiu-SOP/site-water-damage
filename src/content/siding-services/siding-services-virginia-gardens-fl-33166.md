@@ -12,6 +12,7 @@ lng: -80.3000
 zipSample: ["33166"]
 zipCodes: ["33166"]
 localPaths: ["Miami-Dade County / primary ZIP 33166", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / ZIP 33166 sector", "Miami-Dade County / coords 25.8100, -80.3000"]
+zillowHomeValueUsd: 608377
 ---
 
 **Engineering Notice for Virginia Gardens:** Cladding verification uses 136 mph routing baseline; lateral pressure note: 17.5 psf. Elevation: 30 ft AMSL. Grid: Miami-Dade County.

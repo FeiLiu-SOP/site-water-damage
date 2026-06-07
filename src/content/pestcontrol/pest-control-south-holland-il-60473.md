@@ -11,6 +11,7 @@ lng: -87.6000
 zipSample: ["60473"]
 zipCodes: ["60473"]
 localPaths: ["Cook County / elevation 614 ft band", "Cook County / ZIP 60473 sector", "Cook County / coords 41.6000, -87.6000", "Cook County / primary ZIP 60473"]
+zillowHomeValueUsd: 223011
 ---
 
 **Engineering Notice for South Holland:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Cook County.

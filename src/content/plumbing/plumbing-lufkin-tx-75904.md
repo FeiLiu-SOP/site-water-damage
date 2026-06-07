@@ -12,6 +12,7 @@ lng: -94.7300
 zipSample: ["75915", "75904", "75903", "75901"]
 zipCodes: ["75904", "75903", "75915", "75901"]
 localPaths: ["Angelina County / ZIP 75904 sector", "Angelina County / coords 31.3200, -94.7300", "Angelina County / ZIP 75915 sector", "Angelina County / elevation 282 ft band", "Angelina County / ZIP 75903 sector"]
+zillowHomeValueUsd: 207470
 ---
 
 **Engineering Notice for Lufkin:** Structural loading calculated based on 282 ft terrain assessment. Regional dispatch grid: Angelina County.

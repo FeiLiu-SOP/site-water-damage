@@ -11,6 +11,7 @@ lng: -122.1500
 zipSample: ["94510"]
 zipCodes: ["94510"]
 localPaths: ["Solano County / ZIP 94510 sector", "Solano County / primary ZIP 94510", "Solano County / elevation 374 ft band", "Solano County / coords 38.0700, -122.1500"]
+zillowHomeValueUsd: 781406
 ---
 
 **Engineering Notice for Benicia:** Structural loading calculated based on 374 ft terrain assessment. Regional dispatch grid: Solano County.

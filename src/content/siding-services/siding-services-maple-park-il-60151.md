@@ -12,6 +12,7 @@ lng: -88.6100
 zipSample: ["60151"]
 zipCodes: ["60151"]
 localPaths: ["DeKalb County / ZIP 60151 sector", "DeKalb County / primary ZIP 60151", "DeKalb County / coords 41.9100, -88.6100", "DeKalb County / elevation 853 ft band"]
+zillowHomeValueUsd: 404930
 ---
 
 **Engineering Notice for Maple Park:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 1.08. Elevation: 853 ft AMSL. Regional dispatch grid: DeKalb County.

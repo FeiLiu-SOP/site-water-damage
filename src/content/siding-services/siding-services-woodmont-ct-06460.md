@@ -12,6 +12,7 @@ lng: -72.9900
 zipSample: ["06460"]
 zipCodes: ["06460"]
 localPaths: ["South Central Connecticut County / coords 41.2300, -72.9900", "South Central Connecticut County / elevation 46 ft band", "South Central Connecticut County / ZIP 06460 sector", "South Central Connecticut County / primary ZIP 06460"]
+zillowHomeValueUsd: 494403
 ---
 
 **Engineering Notice for Woodmont:** Cladding Retrofit was validated under stress factor 0.79; target tolerance set near 98 mph. Grid anchor: South Central Connecticut County.

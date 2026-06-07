@@ -12,6 +12,7 @@ lng: -93.4800
 zipSample: ["71449"]
 zipCodes: ["71449"]
 localPaths: ["Sabine Parish / primary ZIP 71449", "Sabine Parish / coords 31.5700, -93.4800", "Sabine Parish / elevation 272 ft band", "Sabine Parish / ZIP 71449 sector"]
+zillowHomeValueUsd: 222821
 ---
 
 **Engineering Notice for Many:** structural drying capacity optimized for 272ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sabine Parish. Relative Humidity Threshold: 84%. Sensor sync: Active.

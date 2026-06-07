@@ -12,6 +12,7 @@ lng: -121.1300
 zipSample: ["95658"]
 zipCodes: ["95658"]
 localPaths: ["Placer County / coords 38.8700, -121.1300", "Placer County / elevation 820 ft band", "Placer County / ZIP 95658 sector", "Placer County / primary ZIP 95658"]
+zillowHomeValueUsd: 930761
 ---
 
 **Engineering Notice for Newcastle:** System optimized for 152 mg/L hard water scaling factors in Newcastle. Regional dispatch grid: Placer County.

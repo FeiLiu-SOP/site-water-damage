@@ -12,6 +12,7 @@ lng: -77.9100
 zipSample: ["28449", "28428"]
 zipCodes: ["28428", "28449"]
 localPaths: ["New Hanover County / primary ZIP 28449", "New Hanover County / coords 34.0000, -77.9100", "New Hanover County / ZIP 28449 sector", "New Hanover County / ZIP 28428 sector", "New Hanover County / elevation 16 ft band"]
+zillowHomeValueUsd: 753333
 ---
 
 **Engineering Notice for Kure Beach:** System optimized for 158 mg/L hard water scaling factors in Kure Beach. Regional dispatch grid: New Hanover County.

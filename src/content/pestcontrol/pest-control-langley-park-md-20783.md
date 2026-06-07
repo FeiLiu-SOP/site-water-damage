@@ -11,6 +11,7 @@ lng: -76.9800
 zipSample: ["20783", "20903"]
 zipCodes: ["20783", "20903"]
 localPaths: ["Prince George's County / ZIP 20903 sector", "Prince George's County / ZIP 20783 sector", "Prince George's County / primary ZIP 20783", "Prince George's County / coords 38.9900, -76.9800", "Prince George's County / elevation 157 ft band"]
+zillowHomeValueUsd: 405983
 ---
 
 **Engineering Notice for Langley Park:** Structural loading calculated based on 157 ft terrain assessment. Regional dispatch grid: Prince George's County.

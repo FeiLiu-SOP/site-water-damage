@@ -12,6 +12,7 @@ lng: -92.8500
 zipSample: ["70648"]
 zipCodes: ["70648"]
 localPaths: ["Allen Parish / coords 30.4800, -92.8500", "Allen Parish / ZIP 70648 sector", "Allen Parish / primary ZIP 70648", "Allen Parish / elevation 59 ft band"]
+zillowHomeValueUsd: 139295
 ---
 
 **Engineering Notice for Kinder:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Coordinates: 30.4800, -92.8500. Grid: Allen Parish.

@@ -12,6 +12,7 @@ lng: -90.7100
 zipSample: ["52001", "52099", "52002", "52003", "52004"]
 zipCodes: ["52002", "52099", "52003", "52004", "52001"]
 localPaths: ["Dubuque County / ZIP 52004 sector", "Dubuque County / elevation 820 ft band", "Dubuque County / ZIP 52099 sector", "Dubuque County / ZIP 52001 sector", "Dubuque County / ZIP 52002 sector"]
+zillowHomeValueUsd: 339235
 ---
 
 **Engineering Notice for Dubuque:** Structural loading calculated based on 820 ft terrain assessment. Regional dispatch grid: Dubuque County.

@@ -11,6 +11,7 @@ lng: -82.2200
 zipSample: ["34481", "34476"]
 zipCodes: ["34476", "34481"]
 localPaths: ["Marion County / elevation 72 ft band", "Marion County / ZIP 34476 sector", "Marion County / primary ZIP 34481", "Marion County / ZIP 34481 sector", "Marion County / coords 29.0800, -82.2200"]
+zillowHomeValueUsd: 279092
 ---
 
 **Engineering Notice for Liberty Triangle:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Marion County.

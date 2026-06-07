@@ -12,6 +12,7 @@ lng: -120.1600
 zipSample: ["96145"]
 zipCodes: ["96145"]
 localPaths: ["Placer County / coords 39.1500, -120.1600", "Placer County / elevation 6788 ft band", "Placer County / primary ZIP 96145", "Placer County / ZIP 96145 sector"]
+zillowHomeValueUsd: 1237372
 ---
 
 **Engineering Notice for Sunnyside-Tahoe City:** Site context locked to Placer County. Elevation: 6788 ft AMSL. Wall Restoration integrity verification recorded.

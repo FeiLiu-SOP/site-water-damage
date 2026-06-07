@@ -12,6 +12,7 @@ lng: -86.4600
 zipSample: ["46052"]
 zipCodes: ["46052"]
 localPaths: ["Boone County / primary ZIP 46052", "Boone County / coords 40.0300, -86.4600", "Boone County / ZIP 46052 sector", "Boone County / elevation 945 ft band"]
+zillowHomeValueUsd: 295201
 ---
 
 **Engineering Notice for Lebanon:** Structural loading calculated based on 945 ft terrain assessment. Regional dispatch grid: Boone County.

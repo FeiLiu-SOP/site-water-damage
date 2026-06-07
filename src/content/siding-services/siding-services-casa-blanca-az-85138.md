@@ -12,6 +12,7 @@ lng: -111.9100
 zipSample: ["85121", "85138"]
 zipCodes: ["85138", "85121"]
 localPaths: ["Pinal County / ZIP 85138 sector", "Pinal County / ZIP 85121 sector", "Pinal County / coords 33.1200, -111.9100", "Pinal County / primary ZIP 85138", "Pinal County / elevation 1191 ft band"]
+zillowHomeValueUsd: 347859
 ---
 
 **Engineering Notice for Casa Blanca:** Structural integrity verification: Facade Renewal calibrated for 90 mph localized wind load factor. Regional dispatch grid: Pinal County.

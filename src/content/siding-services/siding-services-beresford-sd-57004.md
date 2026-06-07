@@ -12,6 +12,7 @@ lng: -96.7800
 zipSample: ["57004"]
 zipCodes: ["57004"]
 localPaths: ["Union County / coords 43.0800, -96.7800", "Union County / elevation 1512 ft band", "Union County / ZIP 57004 sector", "Union County / primary ZIP 57004"]
+zillowHomeValueUsd: 322905
 ---
 
 **Engineering Notice for Beresford:** Panel Replacement was validated under stress factor 1.24; target tolerance set near 106 mph. Grid anchor: Union County.

@@ -12,6 +12,7 @@ lng: -80.3100
 zipSample: ["16316"]
 zipCodes: ["16316"]
 localPaths: ["Crawford County / elevation 1066 ft band", "Crawford County / ZIP 16316 sector", "Crawford County / coords 41.6300, -80.3100", "Crawford County / primary ZIP 16316"]
+zillowHomeValueUsd: 211061
 ---
 
 **Engineering Notice for Conneaut Lakeshore:** structural drying capacity optimized for 1066ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Crawford County. Relative Humidity Threshold: 66%. Sensor sync: Active.

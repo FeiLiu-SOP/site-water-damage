@@ -12,6 +12,7 @@ lng: -149.8600
 zipSample: ["99676", "99688"]
 zipCodes: ["99676", "99688"]
 localPaths: ["Matanuska-Susitna County / ZIP 99688 sector", "Matanuska-Susitna County / ZIP 99676 sector", "Matanuska-Susitna County / coords 62.1300, -149.8600", "Matanuska-Susitna County / primary ZIP 99676", "Matanuska-Susitna County / elevation 0 ft band"]
+zillowHomeValueUsd: 259390
 ---
 
 **Engineering Notice for Susitna North:** structural drying capacity optimized for 0ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Matanuska-Susitna County. Relative Humidity Threshold: 65%. Sensor sync: Active.

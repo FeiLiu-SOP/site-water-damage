@@ -12,6 +12,7 @@ lng: -92.2300
 zipSample: ["65255"]
 zipCodes: ["65255"]
 localPaths: ["Boone County / primary ZIP 65255", "Boone County / ZIP 65255 sector", "Boone County / coords 39.1200, -92.2300", "Boone County / elevation 906 ft band"]
+zillowHomeValueUsd: 361171
 ---
 
 **Engineering Notice for Hallsville:** Panel Replacement was validated under stress factor 1.03; target tolerance set near 94 mph. Grid anchor: Boone County.

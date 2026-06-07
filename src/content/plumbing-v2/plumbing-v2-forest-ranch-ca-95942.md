@@ -12,6 +12,7 @@ lng: -121.6700
 zipSample: ["95942"]
 zipCodes: ["95942"]
 localPaths: ["Butte County / elevation 2598 ft band", "Butte County / coords 39.9000, -121.6700", "Butte County / primary ZIP 95942", "Butte County / ZIP 95942 sector"]
+zillowHomeValueUsd: 369917
 ---
 
 **Engineering Notice for Forest Ranch:** System optimized for 165 mg/L hard water scaling factors in Forest Ranch. Regional dispatch grid: Butte County.

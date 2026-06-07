@@ -12,6 +12,7 @@ lng: -86.0600
 zipSample: ["35956"]
 zipCodes: ["35956"]
 localPaths: ["Etowah County / elevation 1047 ft band", "Etowah County / ZIP 35956 sector", "Etowah County / primary ZIP 35956", "Etowah County / coords 34.1700, -86.0600"]
+zillowHomeValueUsd: 220901
 ---
 
 **Engineering Notice for Whitesboro:** structural drying capacity optimized for 1047ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Etowah County. Relative Humidity Threshold: 85%. Sensor sync: Active.

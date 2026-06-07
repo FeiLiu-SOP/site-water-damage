@@ -12,6 +12,7 @@ lng: -85.0400
 zipSample: ["48829"]
 zipCodes: ["48829"]
 localPaths: ["Montcalm County / elevation 974 ft band", "Montcalm County / coords 43.4100, -85.0400", "Montcalm County / primary ZIP 48829", "Montcalm County / ZIP 48829 sector"]
+zillowHomeValueUsd: 194296
 ---
 
 **Engineering Notice for Edmore:** System optimized for 136 mg/L hard water scaling factors in Edmore. Regional dispatch grid: Montcalm County.

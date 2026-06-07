@@ -12,6 +12,8 @@ lng: -74.8000
 zipSample: ["08245", "08210"]
 zipCodes: ["08210", "08245"]
 localPaths: ["Cape May County / ZIP 08245 sector", "Cape May County / ZIP 08210 sector", "Cape May County / elevation 30 ft band", "Cape May County / coords 39.1700, -74.8000", "Cape May County / primary ZIP 08245"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 660238
 ---
 
 **Engineering Notice for South Dennis:** System optimized for 177 mg/L hard water scaling factors in South Dennis. Regional dispatch grid: Cape May County.

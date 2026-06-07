@@ -11,6 +11,7 @@ lng: -81.4500
 zipSample: ["44124"]
 zipCodes: ["44124"]
 localPaths: ["Cuyahoga County / primary ZIP 44124", "Cuyahoga County / elevation 1086 ft band", "Cuyahoga County / ZIP 44124 sector", "Cuyahoga County / coords 41.5200, -81.4500"]
+zillowHomeValueUsd: 248436
 ---
 
 **Engineering Notice for Mayfield Heights:** Structural loading calculated based on 1086 ft terrain assessment. Regional dispatch grid: Cuyahoga County.

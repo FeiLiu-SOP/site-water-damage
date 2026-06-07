@@ -12,6 +12,7 @@ lng: -84.4800
 zipSample: ["30114", "30115", "30142"]
 zipCodes: ["30114", "30115", "30142"]
 localPaths: ["Cherokee County / ZIP 30115 sector", "Cherokee County / coords 34.1700, -84.4800", "Cherokee County / ZIP 30114 sector", "Cherokee County / elevation 1070 ft band", "Cherokee County / primary ZIP 30114"]
+zillowHomeValueUsd: 470402
 ---
 
 **Engineering Notice for Holly Springs:** Structural loading calculated based on 1070 ft terrain assessment. Regional dispatch grid: Cherokee County.

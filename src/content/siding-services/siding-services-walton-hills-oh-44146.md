@@ -12,6 +12,7 @@ lng: -81.5600
 zipSample: ["44146"]
 zipCodes: ["44146"]
 localPaths: ["Cuyahoga County / primary ZIP 44146", "Cuyahoga County / coords 41.3700, -81.5600", "Cuyahoga County / elevation 968 ft band", "Cuyahoga County / ZIP 44146 sector"]
+zillowHomeValueUsd: 178716
 ---
 
 **Engineering Notice for Walton Hills:** Cladding Retrofit was validated under stress factor 1.13; target tolerance set near 106 mph. Coordinates: 41.3700, -81.5600. Grid anchor: Cuyahoga County.

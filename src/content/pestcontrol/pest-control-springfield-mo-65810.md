@@ -11,6 +11,7 @@ lng: -93.2900
 zipSample: ["65809", "65806", "65899", "65801", "65802"]
 zipCodes: ["65807", "65899", "65805", "65809", "65801", "65810", "65814", "65803", "65808", "65890", "65817", "65806"]
 localPaths: ["Greene County / coords 37.1900, -93.2900", "Greene County / ZIP 65809 sector", "Greene County / ZIP 65802 sector", "Greene County / primary ZIP 65810", "Greene County / ZIP 65899 sector"]
+zillowHomeValueUsd: 350477
 ---
 
 **Engineering Notice for Springfield:** Structural loading calculated based on 1312 ft terrain assessment. Regional dispatch grid: Greene County.

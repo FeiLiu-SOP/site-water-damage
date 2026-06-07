@@ -12,6 +12,7 @@ lng: -84.6700
 zipSample: ["32322"]
 zipCodes: ["32322"]
 localPaths: ["Franklin County / primary ZIP 32322", "Franklin County / ZIP 32322 sector", "Franklin County / coords 29.8600, -84.6700", "Franklin County / elevation 46 ft band"]
+zillowHomeValueUsd: 282227
 ---
 
 **Engineering Notice for Carrabelle:** System optimized for 155 mg/L hard water scaling factors in Carrabelle. Regional dispatch grid: Franklin County.

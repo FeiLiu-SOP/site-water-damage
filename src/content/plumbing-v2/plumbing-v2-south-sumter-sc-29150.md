@@ -12,6 +12,7 @@ lng: -80.3400
 zipSample: ["29150"]
 zipCodes: ["29150"]
 localPaths: ["Sumter County / coords 33.8900, -80.3400", "Sumter County / ZIP 29150 sector", "Sumter County / primary ZIP 29150", "Sumter County / elevation 164 ft band"]
+zillowHomeValueUsd: 187795
 ---
 
 **Engineering Notice for South Sumter:** System optimized for 129 mg/L hard water scaling factors in South Sumter. Regional dispatch grid: Sumter County.

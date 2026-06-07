@@ -12,6 +12,7 @@ lng: -83.9100
 zipSample: ["43516"]
 zipCodes: ["43516"]
 localPaths: ["Henry County / elevation 705 ft band", "Henry County / primary ZIP 43516", "Henry County / coords 41.2100, -83.9100", "Henry County / ZIP 43516 sector"]
+zillowHomeValueUsd: 177056
 ---
 
 **Engineering Notice for Deshler:** System optimized for 152 mg/L hard water scaling factors in Deshler. Regional dispatch grid: Henry County.

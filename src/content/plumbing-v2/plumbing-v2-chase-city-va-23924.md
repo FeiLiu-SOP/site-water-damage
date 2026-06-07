@@ -12,6 +12,7 @@ lng: -78.4600
 zipSample: ["23924"]
 zipCodes: ["23924"]
 localPaths: ["Mecklenburg County / coords 36.8000, -78.4600", "Mecklenburg County / ZIP 23924 sector", "Mecklenburg County / primary ZIP 23924", "Mecklenburg County / elevation 531 ft band"]
+zillowHomeValueUsd: 141107
 ---
 
 **Engineering Notice for Chase City:** System optimized for 125 mg/L hard water scaling factors in Chase City. Regional dispatch grid: Mecklenburg County.

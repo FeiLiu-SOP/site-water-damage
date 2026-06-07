@@ -12,6 +12,7 @@ lng: -82.2800
 zipSample: ["34240"]
 zipCodes: ["34240"]
 localPaths: ["Sarasota County / elevation 52 ft band", "Sarasota County / ZIP 34240 sector", "Sarasota County / coords 27.3200, -82.2800", "Sarasota County / primary ZIP 34240"]
+zillowHomeValueUsd: 744414
 ---
 
 **Engineering Notice for Old Miakka:** structural drying capacity optimized for 52ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sarasota County. Relative Humidity Threshold: 80%. Sensor sync: Active.

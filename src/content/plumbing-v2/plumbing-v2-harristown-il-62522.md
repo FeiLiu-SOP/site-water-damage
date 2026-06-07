@@ -12,6 +12,7 @@ lng: -89.0600
 zipSample: ["62522", "62537"]
 zipCodes: ["62537", "62522"]
 localPaths: ["Macon County / ZIP 62522 sector", "Macon County / primary ZIP 62522", "Macon County / ZIP 62537 sector", "Macon County / elevation 676 ft band", "Macon County / coords 39.8400, -89.0600"]
+zillowHomeValueUsd: 90431
 ---
 
 **Engineering Notice for Harristown:** System optimized for 139 mg/L hard water scaling factors in Harristown. Regional dispatch grid: Macon County.

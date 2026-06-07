@@ -12,6 +12,7 @@ lng: -75.6200
 zipSample: ["13619"]
 zipCodes: ["13619"]
 localPaths: ["Jefferson County / primary ZIP 13619", "Jefferson County / ZIP 13619 sector", "Jefferson County / elevation 791 ft band", "Jefferson County / coords 43.9700, -75.6200"]
+zillowHomeValueUsd: 193404
 ---
 
 **Engineering Notice for West Carthage:** Cladding verification uses 106 mph routing baseline; lateral pressure note: 13.9 psf. Elevation: 791 ft AMSL. Coordinates: 43.9700, -75.6200. Grid: Jefferson County.

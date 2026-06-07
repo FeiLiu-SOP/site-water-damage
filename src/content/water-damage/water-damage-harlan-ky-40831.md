@@ -12,6 +12,7 @@ lng: -83.3200
 zipSample: ["40831"]
 zipCodes: ["40831"]
 localPaths: ["Harlan County / coords 36.8400, -83.3200", "Harlan County / ZIP 40831 sector", "Harlan County / elevation 1424 ft band", "Harlan County / primary ZIP 40831"]
+zillowHomeValueUsd: 100709
 ---
 
 **Engineering Notice for Harlan:** structural drying capacity optimized for 1424ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harlan County. Relative Humidity Threshold: 83%. Sensor sync: Active.

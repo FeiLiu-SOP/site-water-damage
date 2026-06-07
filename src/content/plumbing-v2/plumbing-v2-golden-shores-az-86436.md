@@ -12,6 +12,7 @@ lng: -114.4800
 zipSample: ["86436"]
 zipCodes: ["86436"]
 localPaths: ["Mohave County / coords 34.7800, -114.4800", "Mohave County / ZIP 86436 sector", "Mohave County / primary ZIP 86436", "Mohave County / elevation 679 ft band"]
+zillowHomeValueUsd: 268113
 ---
 
 **Engineering Notice for Golden Shores:** System optimized for 126 mg/L hard water scaling factors in Golden Shores. Regional dispatch grid: Mohave County.

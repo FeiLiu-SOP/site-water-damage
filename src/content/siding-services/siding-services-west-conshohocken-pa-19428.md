@@ -12,6 +12,7 @@ lng: -75.3200
 zipSample: ["19428"]
 zipCodes: ["19428"]
 localPaths: ["Montgomery County / primary ZIP 19428", "Montgomery County / elevation 226 ft band", "Montgomery County / ZIP 19428 sector", "Montgomery County / coords 40.0700, -75.3200"]
+zillowHomeValueUsd: 493195
 ---
 
 **Engineering Notice for West Conshohocken:** Site context locked to Montgomery County. Elevation: 226 ft AMSL. Coordinates: 40.0700, -75.3200. Cladding Service integrity verification recorded.

@@ -11,6 +11,7 @@ lng: -68.7900
 zipSample: ["04401", "04402"]
 zipCodes: ["04401", "04402"]
 localPaths: ["Penobscot County / ZIP 04402 sector", "Penobscot County / coords 44.8300, -68.7900", "Penobscot County / elevation 167 ft band", "Penobscot County / primary ZIP 04401", "Penobscot County / ZIP 04401 sector"]
+zillowHomeValueUsd: 299418
 ---
 
 **Engineering Notice for Bangor:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Penobscot County.

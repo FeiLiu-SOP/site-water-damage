@@ -12,6 +12,7 @@ lng: -97.9700
 zipSample: ["78538"]
 zipCodes: ["78538"]
 localPaths: ["Hidalgo County / elevation 75 ft band", "Hidalgo County / coords 26.3700, -97.9700", "Hidalgo County / ZIP 78538 sector", "Hidalgo County / primary ZIP 78538"]
+zillowHomeValueUsd: 151769
 ---
 
 **Engineering Notice for Monte Alto:** Cladding verification uses 149 mph routing baseline; lateral pressure note: 19.1 psf. Coordinates: 26.3700, -97.9700. Grid: Hidalgo County.

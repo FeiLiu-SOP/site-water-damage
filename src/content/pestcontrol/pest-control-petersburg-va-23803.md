@@ -11,6 +11,7 @@ lng: -77.3900
 zipSample: ["23806", "23803", "23804", "23805"]
 zipCodes: ["23806", "23805", "23804", "23803"]
 localPaths: ["Petersburg County / primary ZIP 23803", "Petersburg County / elevation 174 ft band", "Petersburg County / ZIP 23806 sector", "Petersburg County / ZIP 23805 sector", "Petersburg County / coords 37.2000, -77.3900"]
+zillowHomeValueUsd: 234901
 ---
 
 **Engineering Notice for Petersburg:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Petersburg County.

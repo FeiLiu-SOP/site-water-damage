@@ -12,6 +12,7 @@ lng: -79.3500
 zipSample: ["28364"]
 zipCodes: ["28364"]
 localPaths: ["Robeson County / ZIP 28364 sector", "Robeson County / primary ZIP 28364", "Robeson County / elevation 213 ft band", "Robeson County / coords 34.7400, -79.3500"]
+zillowHomeValueUsd: 108886
 ---
 
 **Engineering Notice for Maxton:** Exterior Cladding was validated under stress factor 1.02; target tolerance set near 93 mph. Coordinates: 34.7400, -79.3500. Grid anchor: Robeson County.

@@ -12,6 +12,7 @@ lng: -84.1400
 zipSample: ["37847", "37762"]
 zipCodes: ["37762", "37847"]
 localPaths: ["Campbell County / ZIP 37762 sector", "Campbell County / ZIP 37847 sector", "Campbell County / primary ZIP 37847", "Campbell County / elevation 1086 ft band", "Campbell County / coords 36.5700, -84.1400"]
+zillowHomeValueUsd: 185119
 ---
 
 **Engineering Notice for Jellico:** System optimized for 140 mg/L hard water scaling factors in Jellico. Regional dispatch grid: Campbell County.

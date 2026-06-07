@@ -12,6 +12,7 @@ lng: -76.0700
 zipSample: ["21601"]
 zipCodes: ["21601"]
 localPaths: ["Talbot County / coords 38.7800, -76.0700", "Talbot County / ZIP 21601 sector", "Talbot County / primary ZIP 21601", "Talbot County / elevation 43 ft band"]
+zillowHomeValueUsd: 450707
 ---
 
 **Engineering Notice for Easton:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Talbot County.

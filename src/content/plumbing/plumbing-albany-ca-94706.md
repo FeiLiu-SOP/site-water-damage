@@ -12,6 +12,7 @@ lng: -122.3000
 zipSample: ["94706"]
 zipCodes: ["94706"]
 localPaths: ["Alameda County / primary ZIP 94706", "Alameda County / ZIP 94706 sector", "Alameda County / elevation 49 ft band", "Alameda County / coords 37.8900, -122.3000"]
+zillowHomeValueUsd: 1260314
 ---
 
 **Engineering Notice for Albany:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Alameda County.

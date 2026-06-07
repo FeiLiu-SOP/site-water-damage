@@ -12,6 +12,7 @@ lng: -73.2000
 zipSample: ["06751"]
 zipCodes: ["06751"]
 localPaths: ["Naugatuck Valley County / elevation 902 ft band", "Naugatuck Valley County / coords 41.6400, -73.2000", "Naugatuck Valley County / primary ZIP 06751", "Naugatuck Valley County / ZIP 06751 sector"]
+zillowHomeValueUsd: 507753
 ---
 
 **Engineering Notice for Bethlehem Village:** structural drying capacity optimized for 902ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Naugatuck Valley County. Relative Humidity Threshold: 69%. Sensor sync: Active.

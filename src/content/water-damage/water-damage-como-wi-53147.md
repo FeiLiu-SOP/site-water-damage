@@ -12,6 +12,7 @@ lng: -88.4900
 zipSample: ["53147"]
 zipCodes: ["53147"]
 localPaths: ["Walworth County / coords 42.6100, -88.4900", "Walworth County / ZIP 53147 sector", "Walworth County / elevation 968 ft band", "Walworth County / primary ZIP 53147"]
+zillowHomeValueUsd: 454097
 ---
 
 **Engineering Notice for Como:** structural drying capacity optimized for 968ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Walworth County. Relative Humidity Threshold: 75%. Sensor sync: Active.

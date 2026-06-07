@@ -12,6 +12,7 @@ lng: -82.7300
 zipSample: ["41183", "41169"]
 zipCodes: ["41169", "41183"]
 localPaths: ["Greenup County / primary ZIP 41183", "Greenup County / coords 38.5400, -82.7300", "Greenup County / ZIP 41183 sector", "Greenup County / elevation 620 ft band", "Greenup County / ZIP 41169 sector"]
+zillowHomeValueUsd: 126114
 ---
 
 **Engineering Notice for Raceland:** System optimized for 175 mg/L hard water scaling factors in Raceland. Regional dispatch grid: Greenup County.

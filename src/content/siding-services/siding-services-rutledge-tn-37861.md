@@ -12,6 +12,7 @@ lng: -83.5300
 zipSample: ["37861"]
 zipCodes: ["37861"]
 localPaths: ["Grainger County / ZIP 37861 sector", "Grainger County / primary ZIP 37861", "Grainger County / elevation 991 ft band", "Grainger County / coords 36.2800, -83.5300"]
+zillowHomeValueUsd: 287386
 ---
 
 **Engineering Notice for Rutledge:** Site context locked to Grainger County. Elevation: 991 ft AMSL. Wall Restoration integrity verification recorded.

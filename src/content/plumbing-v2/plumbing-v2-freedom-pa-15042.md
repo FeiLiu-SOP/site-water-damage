@@ -12,6 +12,7 @@ lng: -80.2500
 zipSample: ["15042"]
 zipCodes: ["15042"]
 localPaths: ["Beaver County / elevation 715 ft band", "Beaver County / coords 40.6800, -80.2500", "Beaver County / primary ZIP 15042", "Beaver County / ZIP 15042 sector"]
+zillowHomeValueUsd: 255223
 ---
 
 **Engineering Notice for Freedom:** System optimized for 121 mg/L hard water scaling factors in Freedom. Regional dispatch grid: Beaver County.

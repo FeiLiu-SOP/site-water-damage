@@ -12,6 +12,7 @@ lng: -86.8200
 zipSample: ["35180"]
 zipCodes: ["35180"]
 localPaths: ["Blount County / coords 33.8800, -86.8200", "Blount County / primary ZIP 35180", "Blount County / elevation 833 ft band", "Blount County / ZIP 35180 sector"]
+zillowHomeValueUsd: 235149
 ---
 
 **Engineering Notice for Smoke Rise:** structural drying capacity optimized for 833ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Blount County. Relative Humidity Threshold: 75%. Sensor sync: Active.

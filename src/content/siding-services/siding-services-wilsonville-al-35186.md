@@ -12,6 +12,7 @@ lng: -86.4900
 zipSample: ["35186"]
 zipCodes: ["35186"]
 localPaths: ["Shelby County / ZIP 35186 sector", "Shelby County / primary ZIP 35186", "Shelby County / coords 33.2300, -86.4900", "Shelby County / elevation 443 ft band"]
+zillowHomeValueUsd: 360466
 ---
 
 **Engineering Notice for Wilsonville:** Envelope check: Vinyl Panels assigned to wind-load band C with stress factor 0.77. Regional dispatch grid: Shelby County.

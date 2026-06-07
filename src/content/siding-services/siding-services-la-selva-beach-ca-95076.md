@@ -12,6 +12,7 @@ lng: -121.8400
 zipSample: ["95076"]
 zipCodes: ["95076"]
 localPaths: ["Santa Cruz County / elevation 194 ft band", "Santa Cruz County / coords 36.9300, -121.8400", "Santa Cruz County / ZIP 95076 sector", "Santa Cruz County / primary ZIP 95076"]
+zillowHomeValueUsd: 839640
 ---
 
 **Engineering Notice for La Selva Beach:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 0.82. Elevation: 194 ft AMSL. Regional dispatch grid: Santa Cruz County.

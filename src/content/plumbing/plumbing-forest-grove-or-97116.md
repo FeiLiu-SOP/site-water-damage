@@ -12,6 +12,7 @@ lng: -123.1100
 zipSample: ["97116"]
 zipCodes: ["97116"]
 localPaths: ["Washington County / coords 45.5200, -123.1100", "Washington County / elevation 194 ft band", "Washington County / primary ZIP 97116", "Washington County / ZIP 97116 sector"]
+zillowHomeValueUsd: 527003
 ---
 
 **Engineering Notice for Forest Grove:** Structural loading calculated based on 194 ft terrain assessment. Regional dispatch grid: Washington County.

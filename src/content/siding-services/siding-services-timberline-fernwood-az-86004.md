@@ -12,6 +12,7 @@ lng: -111.5500
 zipSample: ["86004"]
 zipCodes: ["86004"]
 localPaths: ["Coconino County / coords 35.3200, -111.5500", "Coconino County / elevation 6788 ft band", "Coconino County / primary ZIP 86004", "Coconino County / ZIP 86004 sector"]
+zillowHomeValueUsd: 621916
 ---
 
 **Engineering Notice for Timberline-Fernwood:** Exterior Cladding was validated under stress factor 0.85; target tolerance set near 106 mph. Grid anchor: Coconino County.

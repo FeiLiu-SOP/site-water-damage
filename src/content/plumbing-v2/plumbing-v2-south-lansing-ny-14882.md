@@ -12,6 +12,7 @@ lng: -76.5000
 zipSample: ["14882"]
 zipCodes: ["14882"]
 localPaths: ["Tompkins County / elevation 935 ft band", "Tompkins County / primary ZIP 14882", "Tompkins County / ZIP 14882 sector", "Tompkins County / coords 42.5400, -76.5000"]
+zillowHomeValueUsd: 357939
 ---
 
 **Engineering Notice for South Lansing:** System optimized for 153 mg/L hard water scaling factors in South Lansing. Regional dispatch grid: Tompkins County.

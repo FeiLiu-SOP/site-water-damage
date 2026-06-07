@@ -12,6 +12,7 @@ lng: -109.9500
 zipSample: ["84066"]
 zipCodes: ["84066"]
 localPaths: ["Uintah County / elevation 5023 ft band", "Uintah County / primary ZIP 84066", "Uintah County / coords 40.2900, -109.9500", "Uintah County / ZIP 84066 sector"]
+zillowHomeValueUsd: 371834
 ---
 
 **Engineering Notice for Ballard:** System optimized for 161 mg/L hard water scaling factors in Ballard. Regional dispatch grid: Uintah County.

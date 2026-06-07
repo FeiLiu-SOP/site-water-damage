@@ -12,6 +12,8 @@ lng: -85.1900
 zipSample: ["30149"]
 zipCodes: ["30149"]
 localPaths: ["Floyd County / elevation 610 ft band", "Floyd County / ZIP 30149 sector", "Floyd County / primary ZIP 30149", "Floyd County / coords 34.2900, -85.1900"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 294002
 ---
 
 **Engineering Notice for Berry College:** System optimized for 180 mg/L hard water scaling factors in Berry College. Regional dispatch grid: Floyd County.

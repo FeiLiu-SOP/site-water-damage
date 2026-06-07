@@ -12,6 +12,7 @@ lng: -119.3400
 zipSample: ["93274", "93275"]
 zipCodes: ["93274", "93275"]
 localPaths: ["Tulare County / elevation 289 ft band", "Tulare County / ZIP 93274 sector", "Tulare County / ZIP 93275 sector", "Tulare County / primary ZIP 93274", "Tulare County / coords 36.2000, -119.3400"]
+zillowHomeValueUsd: 355578
 ---
 
 **Engineering Notice for Tulare:** Structural loading calculated based on 289 ft terrain assessment. Regional dispatch grid: Tulare County.

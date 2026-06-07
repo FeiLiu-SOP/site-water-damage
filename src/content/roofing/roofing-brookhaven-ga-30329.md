@@ -11,6 +11,7 @@ lng: -84.3300
 zipSample: ["30329", "30324", "31119", "30319"]
 zipCodes: ["30319", "30329", "30324", "31119"]
 localPaths: ["DeKalb County / ZIP 30319 sector", "DeKalb County / ZIP 30329 sector", "DeKalb County / elevation 1024 ft band", "DeKalb County / primary ZIP 30329", "DeKalb County / ZIP 31119 sector"]
+zillowHomeValueUsd: 524045
 ---
 
 **Engineering Notice for Brookhaven:** Structural loading calculated based on 1024 ft terrain assessment. Regional dispatch grid: DeKalb County.

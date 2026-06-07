@@ -11,6 +11,7 @@ lng: -73.3400
 zipSample: ["11746"]
 zipCodes: ["11746"]
 localPaths: ["Suffolk County / coords 40.8000, -73.3400", "Suffolk County / primary ZIP 11746", "Suffolk County / elevation 213 ft band", "Suffolk County / ZIP 11746 sector"]
+zillowHomeValueUsd: 771485
 ---
 
 **Engineering Notice for Dix Hills:** Structural loading calculated based on 213 ft terrain assessment. Regional dispatch grid: Suffolk County.

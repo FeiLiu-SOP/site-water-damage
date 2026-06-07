@@ -12,6 +12,7 @@ lng: -83.6000
 zipSample: ["30510"]
 zipCodes: ["30510"]
 localPaths: ["Habersham County / elevation 1394 ft band", "Habersham County / ZIP 30510 sector", "Habersham County / coords 34.4500, -83.6000", "Habersham County / primary ZIP 30510"]
+zillowHomeValueUsd: 294782
 ---
 
 **Engineering Notice for Raoul:** System optimized for 157 mg/L hard water scaling factors in Raoul. Regional dispatch grid: Habersham County.

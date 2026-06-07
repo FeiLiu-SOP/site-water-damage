@@ -12,6 +12,7 @@ lng: -75.8100
 zipSample: ["19320"]
 zipCodes: ["19320"]
 localPaths: ["Chester County / coords 39.9700, -75.8100", "Chester County / ZIP 19320 sector", "Chester County / elevation 318 ft band", "Chester County / primary ZIP 19320"]
+zillowHomeValueUsd: 382345
 ---
 
 **Engineering Notice for South Coatesville:** System optimized for 128 mg/L hard water scaling factors in South Coatesville. Regional dispatch grid: Chester County.

@@ -12,6 +12,7 @@ lng: -87.8300
 zipSample: ["35564"]
 zipCodes: ["35564"]
 localPaths: ["Marion County / coords 34.2700, -87.8300", "Marion County / ZIP 35564 sector", "Marion County / primary ZIP 35564", "Marion County / elevation 909 ft band"]
+zillowHomeValueUsd: 154231
 ---
 
 **Engineering Notice for Hackleburg:** Cladding Retrofit was validated under stress factor 0.75; target tolerance set near 93 mph. Coordinates: 34.2700, -87.8300. Grid anchor: Marion County.

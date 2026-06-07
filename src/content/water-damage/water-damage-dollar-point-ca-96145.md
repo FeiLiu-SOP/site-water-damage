@@ -12,6 +12,7 @@ lng: -120.1100
 zipSample: ["96145"]
 zipCodes: ["96145"]
 localPaths: ["Placer County / ZIP 96145 sector", "Placer County / coords 39.1900, -120.1100", "Placer County / elevation 6444 ft band", "Placer County / primary ZIP 96145"]
+zillowHomeValueUsd: 1237373
 ---
 
 **Engineering Notice for Dollar Point:** structural drying capacity optimized for 6444ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Placer County. Relative Humidity Threshold: 80%. Sensor sync: Active.

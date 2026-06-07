@@ -12,6 +12,7 @@ lng: -74.4200
 zipSample: ["10940"]
 zipCodes: ["10940"]
 localPaths: ["Orange County / coords 41.4700, -74.4200", "Orange County / elevation 689 ft band", "Orange County / ZIP 10940 sector", "Orange County / primary ZIP 10940"]
+zillowHomeValueUsd: 390385
 ---
 
 **Engineering Notice for Washington Heights:** Cladding verification uses 102 mph routing baseline; lateral pressure note: 13.4 psf. Elevation: 689 ft AMSL. Grid: Orange County.

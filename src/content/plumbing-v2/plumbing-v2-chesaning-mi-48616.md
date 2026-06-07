@@ -12,6 +12,7 @@ lng: -84.1200
 zipSample: ["48616"]
 zipCodes: ["48616"]
 localPaths: ["Saginaw County / elevation 650 ft band", "Saginaw County / primary ZIP 48616", "Saginaw County / ZIP 48616 sector", "Saginaw County / coords 43.1900, -84.1200"]
+zillowHomeValueUsd: 209157
 ---
 
 **Engineering Notice for Chesaning:** System optimized for 171 mg/L hard water scaling factors in Chesaning. Regional dispatch grid: Saginaw County.

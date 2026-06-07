@@ -12,6 +12,8 @@ lng: -110.9600
 zipSample: ["83127"]
 zipCodes: ["83127"]
 localPaths: ["Lincoln County / primary ZIP 83127", "Lincoln County / coords 42.9800, -110.9600", "Lincoln County / elevation 6293 ft band", "Lincoln County / ZIP 83127 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 429891
 ---
 
 **Engineering Notice for Star Valley Ranch:** System optimized for 167 mg/L hard water scaling factors in Star Valley Ranch. Regional dispatch grid: Lincoln County.

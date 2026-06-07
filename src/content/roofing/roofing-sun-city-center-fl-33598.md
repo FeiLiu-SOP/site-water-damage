@@ -11,6 +11,7 @@ lng: -82.3600
 zipSample: ["33598", "33573"]
 zipCodes: ["33573", "33598"]
 localPaths: ["Hillsborough County / elevation 49 ft band", "Hillsborough County / ZIP 33573 sector", "Hillsborough County / coords 27.7100, -82.3600", "Hillsborough County / ZIP 33598 sector", "Hillsborough County / primary ZIP 33598"]
+zillowHomeValueUsd: 350211
 ---
 
 **Engineering Notice for Sun City Center:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Hillsborough County.

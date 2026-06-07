@@ -11,6 +11,7 @@ lng: -90.8700
 zipSample: ["63385", "63348"]
 zipCodes: ["63348", "63385"]
 localPaths: ["St. Charles County / coords 38.8200, -90.8700", "St. Charles County / elevation 620 ft band", "St. Charles County / ZIP 63348 sector", "St. Charles County / ZIP 63385 sector", "St. Charles County / primary ZIP 63348"]
+zillowHomeValueUsd: 439334
 ---
 
 **Engineering Notice for Wentzville:** Structural loading calculated based on 620 ft terrain assessment. Regional dispatch grid: St. Charles County.

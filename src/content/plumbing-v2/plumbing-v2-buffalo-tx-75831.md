@@ -12,6 +12,7 @@ lng: -96.0700
 zipSample: ["75831"]
 zipCodes: ["75831"]
 localPaths: ["Leon County / ZIP 75831 sector", "Leon County / primary ZIP 75831", "Leon County / coords 31.4600, -96.0700", "Leon County / elevation 387 ft band"]
+zillowHomeValueUsd: 290092
 ---
 
 **Engineering Notice for Buffalo:** System optimized for 151 mg/L hard water scaling factors in Buffalo. Regional dispatch grid: Leon County.

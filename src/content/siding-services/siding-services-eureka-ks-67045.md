@@ -12,6 +12,7 @@ lng: -96.2900
 zipSample: ["67045"]
 zipCodes: ["67045"]
 localPaths: ["Greenwood County / ZIP 67045 sector", "Greenwood County / primary ZIP 67045", "Greenwood County / elevation 1096 ft band", "Greenwood County / coords 37.8300, -96.2900"]
+zillowHomeValueUsd: 100785
 ---
 
 **Engineering Notice for Eureka:** Panel Replacement was validated under stress factor 1.15; target tolerance set near 90 mph. Coordinates: 37.8300, -96.2900. Grid anchor: Greenwood County.

@@ -11,6 +11,7 @@ lng: -76.6200
 zipSample: ["21286", "21252", "21204", "21285", "21239"]
 zipCodes: ["21209", "21139", "21239", "21212", "21252", "21286", "21284", "21204", "21210", "21285"]
 localPaths: ["Baltimore County / elevation 364 ft band", "Baltimore County / ZIP 21285 sector", "Baltimore County / ZIP 21286 sector", "Baltimore County / coords 39.3900, -76.6200", "Baltimore County / ZIP 21204 sector"]
+zillowHomeValueUsd: 477977
 ---
 
 **Engineering Notice for Towson:** Structural loading calculated based on 364 ft terrain assessment. Regional dispatch grid: Baltimore County.

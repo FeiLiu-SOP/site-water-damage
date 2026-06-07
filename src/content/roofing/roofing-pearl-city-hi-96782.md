@@ -11,6 +11,7 @@ lng: -157.9600
 zipSample: ["96782", "96701"]
 zipCodes: ["96782", "96701"]
 localPaths: ["Honolulu County / primary ZIP 96782", "Honolulu County / coords 21.4000, -157.9600", "Honolulu County / elevation 230 ft band", "Honolulu County / ZIP 96701 sector", "Honolulu County / ZIP 96782 sector"]
+zillowHomeValueUsd: 945892
 ---
 
 **Engineering Notice for Pearl City:** Structural loading calculated based on 230 ft terrain assessment. Regional dispatch grid: Honolulu County.

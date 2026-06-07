@@ -12,6 +12,7 @@ lng: -93.9900
 zipSample: ["64040"]
 zipCodes: ["64040"]
 localPaths: ["Johnson County / elevation 883 ft band", "Johnson County / primary ZIP 64040", "Johnson County / coords 38.7100, -93.9900", "Johnson County / ZIP 64040 sector"]
+zillowHomeValueUsd: 286553
 ---
 
 **Engineering Notice for Holden:** System optimized for 136 mg/L hard water scaling factors in Holden. Regional dispatch grid: Johnson County.

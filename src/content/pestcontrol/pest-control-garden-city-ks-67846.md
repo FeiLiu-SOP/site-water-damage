@@ -11,6 +11,7 @@ lng: -100.8500
 zipSample: ["67846"]
 zipCodes: ["67846"]
 localPaths: ["Finney County / coords 37.9800, -100.8500", "Finney County / elevation 2841 ft band", "Finney County / ZIP 67846 sector", "Finney County / primary ZIP 67846"]
+zillowHomeValueUsd: 233482
 ---
 
 **Engineering Notice for Garden City:** Structural loading calculated based on 2841 ft terrain assessment. Regional dispatch grid: Finney County.

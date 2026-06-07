@@ -12,6 +12,7 @@ lng: -96.3200
 zipSample: ["75189"]
 zipCodes: ["75189"]
 localPaths: ["Rockwall County / coords 32.9800, -96.3200", "Rockwall County / primary ZIP 75189", "Rockwall County / elevation 535 ft band", "Rockwall County / ZIP 75189 sector"]
+zillowHomeValueUsd: 321822
 ---
 
 **Engineering Notice for Royse City:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: Rockwall County.

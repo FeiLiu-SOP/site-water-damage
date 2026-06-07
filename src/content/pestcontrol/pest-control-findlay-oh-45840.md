@@ -11,6 +11,7 @@ lng: -83.6400
 zipSample: ["45839", "45840"]
 zipCodes: ["45839", "45840"]
 localPaths: ["Hancock County / ZIP 45840 sector", "Hancock County / primary ZIP 45840", "Hancock County / ZIP 45839 sector", "Hancock County / coords 41.0500, -83.6400", "Hancock County / elevation 784 ft band"]
+zillowHomeValueUsd: 240658
 ---
 
 **Engineering Notice for Findlay:** Structural loading calculated based on 784 ft terrain assessment. Regional dispatch grid: Hancock County.

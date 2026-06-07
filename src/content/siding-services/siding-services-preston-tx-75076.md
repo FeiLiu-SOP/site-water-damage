@@ -12,6 +12,7 @@ lng: -96.6600
 zipSample: ["75076"]
 zipCodes: ["75076"]
 localPaths: ["Grayson County / coords 33.8700, -96.6600", "Grayson County / primary ZIP 75076", "Grayson County / ZIP 75076 sector", "Grayson County / elevation 696 ft band"]
+zillowHomeValueUsd: 338049
 ---
 
 **Engineering Notice for Preston:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 1.06. Regional dispatch grid: Grayson County.

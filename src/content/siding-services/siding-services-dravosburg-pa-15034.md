@@ -12,6 +12,7 @@ lng: -79.8900
 zipSample: ["15034"]
 zipCodes: ["15034"]
 localPaths: ["Allegheny County / coords 40.3500, -79.8900", "Allegheny County / elevation 892 ft band", "Allegheny County / ZIP 15034 sector", "Allegheny County / primary ZIP 15034"]
+zillowHomeValueUsd: 115429
 ---
 
 **Engineering Notice for Dravosburg:** Envelope check: Exterior Cladding assigned to wind-load band C with stress factor 0.89. Regional dispatch grid: Allegheny County.

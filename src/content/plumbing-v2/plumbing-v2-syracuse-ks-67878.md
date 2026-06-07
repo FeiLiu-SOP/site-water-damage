@@ -12,6 +12,7 @@ lng: -101.7800
 zipSample: ["67878"]
 zipCodes: ["67878"]
 localPaths: ["Hamilton County / primary ZIP 67878", "Hamilton County / elevation 3251 ft band", "Hamilton County / coords 37.9600, -101.7800", "Hamilton County / ZIP 67878 sector"]
+zillowHomeValueUsd: 151466
 ---
 
 **Engineering Notice for Syracuse:** System optimized for 172 mg/L hard water scaling factors in Syracuse. Regional dispatch grid: Hamilton County.

@@ -11,6 +11,7 @@ lng: -156.5100
 zipSample: ["96793"]
 zipCodes: ["96793"]
 localPaths: ["Maui County / primary ZIP 96793", "Maui County / ZIP 96793 sector", "Maui County / coords 20.8800, -156.5100", "Maui County / elevation 354 ft band"]
+zillowHomeValueUsd: 924844
 ---
 
 **Engineering Notice for Wailuku:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Maui County.

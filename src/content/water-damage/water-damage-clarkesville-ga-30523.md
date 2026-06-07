@@ -12,6 +12,7 @@ lng: -83.5300
 zipSample: ["30523"]
 zipCodes: ["30523"]
 localPaths: ["Habersham County / primary ZIP 30523", "Habersham County / coords 34.6100, -83.5300", "Habersham County / elevation 1417 ft band", "Habersham County / ZIP 30523 sector"]
+zillowHomeValueUsd: 386719
 ---
 
 **Engineering Notice for Clarkesville:** structural drying capacity optimized for 1417ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Habersham County. Relative Humidity Threshold: 85%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -88.2700
 zipSample: ["60012", "60014", "60050"]
 zipCodes: ["60012", "60014", "60050"]
 localPaths: ["McHenry County / primary ZIP 60014", "McHenry County / ZIP 60012 sector", "McHenry County / elevation 761 ft band", "McHenry County / ZIP 60050 sector", "McHenry County / ZIP 60014 sector"]
+zillowHomeValueUsd: 359993
 ---
 
 **Engineering Notice for Prairie Grove:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Coordinates: 42.2800, -88.2700. Grid: McHenry County.

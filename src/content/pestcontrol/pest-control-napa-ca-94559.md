@@ -11,6 +11,7 @@ lng: -122.3000
 zipSample: ["94581", "94558", "94559"]
 zipCodes: ["94581", "94559", "94558"]
 localPaths: ["Napa County / ZIP 94581 sector", "Napa County / ZIP 94558 sector", "Napa County / elevation 49 ft band", "Napa County / ZIP 94559 sector", "Napa County / primary ZIP 94559"]
+zillowHomeValueUsd: 807847
 ---
 
 **Engineering Notice for Napa:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Napa County.

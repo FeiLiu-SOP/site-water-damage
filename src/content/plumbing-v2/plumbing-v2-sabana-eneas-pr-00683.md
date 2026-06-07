@@ -12,6 +12,8 @@ lng: -67.0900
 zipSample: ["00683"]
 zipCodes: ["00683"]
 localPaths: ["San Germán County / elevation 338 ft band", "San Germán County / coords 18.0800, -67.0900", "San Germán County / primary ZIP 00683", "San Germán County / ZIP 00683 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 359458
 ---
 
 **Engineering Notice for Sabana Eneas:** System optimized for 154 mg/L hard water scaling factors in Sabana Eneas. Regional dispatch grid: San Germán County.

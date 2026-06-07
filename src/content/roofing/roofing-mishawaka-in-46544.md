@@ -11,6 +11,7 @@ lng: -86.1700
 zipSample: ["46544", "46545", "46530", "46546"]
 zipCodes: ["46546", "46545", "46530", "46544"]
 localPaths: ["St. Joseph County / primary ZIP 46544", "St. Joseph County / ZIP 46546 sector", "St. Joseph County / ZIP 46545 sector", "St. Joseph County / coords 41.6700, -86.1700", "St. Joseph County / ZIP 46544 sector"]
+zillowHomeValueUsd: 202837
 ---
 
 **Engineering Notice for Mishawaka:** Structural loading calculated based on 738 ft terrain assessment. Regional dispatch grid: St. Joseph County.

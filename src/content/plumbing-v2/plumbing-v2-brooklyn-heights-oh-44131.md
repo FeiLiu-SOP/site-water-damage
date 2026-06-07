@@ -12,6 +12,7 @@ lng: -81.6700
 zipSample: ["44131"]
 zipCodes: ["44131"]
 localPaths: ["Cuyahoga County / coords 41.4200, -81.6700", "Cuyahoga County / ZIP 44131 sector", "Cuyahoga County / elevation 755 ft band", "Cuyahoga County / primary ZIP 44131"]
+zillowHomeValueUsd: 309139
 ---
 
 **Engineering Notice for Brooklyn Heights:** System optimized for 143 mg/L hard water scaling factors in Brooklyn Heights. Regional dispatch grid: Cuyahoga County.

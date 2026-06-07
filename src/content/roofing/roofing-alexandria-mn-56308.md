@@ -11,6 +11,7 @@ lng: -95.3800
 zipSample: ["56308"]
 zipCodes: ["56308"]
 localPaths: ["Douglas County / elevation 1417 ft band", "Douglas County / ZIP 56308 sector", "Douglas County / coords 45.8800, -95.3800", "Douglas County / primary ZIP 56308"]
+zillowHomeValueUsd: 352493
 ---
 
 **Engineering Notice for Alexandria:** Structural loading calculated based on 1417 ft terrain assessment. Regional dispatch grid: Douglas County.

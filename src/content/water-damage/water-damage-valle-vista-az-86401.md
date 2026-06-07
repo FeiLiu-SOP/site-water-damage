@@ -12,6 +12,7 @@ lng: -113.8600
 zipSample: ["86401"]
 zipCodes: ["86401"]
 localPaths: ["Mohave County / ZIP 86401 sector", "Mohave County / primary ZIP 86401", "Mohave County / coords 35.4100, -113.8600", "Mohave County / elevation 3179 ft band"]
+zillowHomeValueUsd: 287695
 ---
 
 **Engineering Notice for Valle Vista:** structural drying capacity optimized for 3179ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mohave County. Relative Humidity Threshold: 67%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -89.5500
 zipSample: ["61734"]
 zipCodes: ["61734"]
 localPaths: ["Tazewell County / elevation 610 ft band", "Tazewell County / coords 40.3700, -89.5500", "Tazewell County / ZIP 61734 sector", "Tazewell County / primary ZIP 61734"]
+zillowHomeValueUsd: 156511
 ---
 
 **Engineering Notice for Delavan:** structural drying capacity optimized for 610ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tazewell County. Relative Humidity Threshold: 75%. Sensor sync: Active.

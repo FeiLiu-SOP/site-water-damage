@@ -12,6 +12,7 @@ lng: -84.8600
 zipSample: ["30135", "30187"]
 zipCodes: ["30135", "30187"]
 localPaths: ["Douglas County / primary ZIP 30135", "Douglas County / elevation 1115 ft band", "Douglas County / ZIP 30187 sector", "Douglas County / ZIP 30135 sector", "Douglas County / coords 33.6200, -84.8600"]
+zillowHomeValueUsd: 313239
 ---
 
 **Engineering Notice for Fairplay:** System optimized for 126 mg/L hard water scaling factors in Fairplay. Regional dispatch grid: Douglas County.

@@ -12,6 +12,7 @@ lng: -88.4400
 zipSample: ["38834"]
 zipCodes: ["38834"]
 localPaths: ["Alcorn County / ZIP 38834 sector", "Alcorn County / coords 34.9200, -88.4400", "Alcorn County / elevation 541 ft band", "Alcorn County / primary ZIP 38834"]
+zillowHomeValueUsd: 181219
 ---
 
 **Engineering Notice for Farmington:** System optimized for 123 mg/L hard water scaling factors in Farmington. Regional dispatch grid: Alcorn County.

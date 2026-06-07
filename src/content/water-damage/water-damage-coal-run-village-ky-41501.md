@@ -12,6 +12,7 @@ lng: -82.5600
 zipSample: ["41501"]
 zipCodes: ["41501"]
 localPaths: ["Pike County / elevation 1073 ft band", "Pike County / coords 37.5400, -82.5600", "Pike County / ZIP 41501 sector", "Pike County / primary ZIP 41501"]
+zillowHomeValueUsd: 122179
 ---
 
 **Engineering Notice for Coal Run Village:** structural drying capacity optimized for 1073ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pike County. Relative Humidity Threshold: 68%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -88.4400
 zipSample: ["38834"]
 zipCodes: ["38834"]
 localPaths: ["Alcorn County / ZIP 38834 sector", "Alcorn County / elevation 541 ft band", "Alcorn County / coords 34.9200, -88.4400", "Alcorn County / primary ZIP 38834"]
+zillowHomeValueUsd: 181220
 ---
 
 **Engineering Notice for Farmington:** Cladding verification uses 107 mph routing baseline; lateral pressure note: 14.0 psf. Elevation: 541 ft AMSL. Coordinates: 34.9200, -88.4400. Grid: Alcorn County.

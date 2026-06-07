@@ -11,6 +11,7 @@ lng: -115.0900
 zipSample: ["89030", "89086", "89031", "89085", "89032"]
 zipCodes: ["89081", "89084", "89115", "89031", "89033", "89085", "89086", "89032", "89030", "89087"]
 localPaths: ["Clark County / elevation 2096 ft band", "Clark County / primary ZIP 89032", "Clark County / ZIP 89032 sector", "Clark County / ZIP 89086 sector", "Clark County / coords 36.2900, -115.0900"]
+zillowHomeValueUsd: 392535
 ---
 
 **Engineering Notice for North Las Vegas:** Structural loading calculated based on 2096 ft terrain assessment. Regional dispatch grid: Clark County.

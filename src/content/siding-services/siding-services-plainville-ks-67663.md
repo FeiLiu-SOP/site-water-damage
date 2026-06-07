@@ -12,6 +12,7 @@ lng: -99.3000
 zipSample: ["67663"]
 zipCodes: ["67663"]
 localPaths: ["Rooks County / coords 39.2300, -99.3000", "Rooks County / elevation 2165 ft band", "Rooks County / ZIP 67663 sector", "Rooks County / primary ZIP 67663"]
+zillowHomeValueUsd: 130085
 ---
 
 **Engineering Notice for Plainville:** Envelope check: Cladding Retrofit assigned to wind-load band C with stress factor 1.10. Elevation: 2165 ft AMSL. Regional dispatch grid: Rooks County.

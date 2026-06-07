@@ -12,6 +12,7 @@ lng: -74.1700
 zipSample: ["08741"]
 zipCodes: ["08741"]
 localPaths: ["Ocean County / primary ZIP 08741", "Ocean County / elevation 26 ft band", "Ocean County / coords 39.9400, -74.1700", "Ocean County / ZIP 08741 sector"]
+zillowHomeValueUsd: 561889
 ---
 
 **Engineering Notice for Pine Beach:** System optimized for 130 mg/L hard water scaling factors in Pine Beach. Regional dispatch grid: Ocean County.

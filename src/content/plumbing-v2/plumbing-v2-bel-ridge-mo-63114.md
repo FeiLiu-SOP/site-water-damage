@@ -12,6 +12,7 @@ lng: -90.3300
 zipSample: ["63134", "63114", "63121"]
 zipCodes: ["63114", "63134", "63121"]
 localPaths: ["St. Louis County / ZIP 63121 sector", "St. Louis County / coords 38.7100, -90.3300", "St. Louis County / elevation 610 ft band", "St. Louis County / ZIP 63114 sector", "St. Louis County / ZIP 63134 sector"]
+zillowHomeValueUsd: 139446
 ---
 
 **Engineering Notice for Bel-Ridge:** System optimized for 138 mg/L hard water scaling factors in Bel-Ridge. Regional dispatch grid: St. Louis County.

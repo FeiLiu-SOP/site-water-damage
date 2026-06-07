@@ -12,6 +12,7 @@ lng: -89.8500
 zipSample: ["54494", "54469"]
 zipCodes: ["54494", "54469"]
 localPaths: ["Wood County / ZIP 54494 sector", "Wood County / ZIP 54469 sector", "Wood County / elevation 984 ft band", "Wood County / coords 44.3500, -89.8500", "Wood County / primary ZIP 54469"]
+zillowHomeValueUsd: 198331
 ---
 
 **Engineering Notice for Port Edwards:** Cladding verification uses 94 mph routing baseline; lateral pressure note: 12.5 psf. Grid: Wood County.

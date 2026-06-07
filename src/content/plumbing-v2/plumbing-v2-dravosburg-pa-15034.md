@@ -12,6 +12,7 @@ lng: -79.8900
 zipSample: ["15034"]
 zipCodes: ["15034"]
 localPaths: ["Allegheny County / primary ZIP 15034", "Allegheny County / elevation 892 ft band", "Allegheny County / ZIP 15034 sector", "Allegheny County / coords 40.3500, -79.8900"]
+zillowHomeValueUsd: 115428
 ---
 
 **Engineering Notice for Dravosburg:** System optimized for 166 mg/L hard water scaling factors in Dravosburg. Regional dispatch grid: Allegheny County.

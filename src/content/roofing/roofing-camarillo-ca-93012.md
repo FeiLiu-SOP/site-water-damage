@@ -11,6 +11,7 @@ lng: -119.0300
 zipSample: ["93011", "93012", "93010"]
 zipCodes: ["93010", "93012", "93011"]
 localPaths: ["Ventura County / coords 34.2200, -119.0300", "Ventura County / ZIP 93011 sector", "Ventura County / ZIP 93010 sector", "Ventura County / ZIP 93012 sector", "Ventura County / elevation 164 ft band"]
+zillowHomeValueUsd: 925656
 ---
 
 **Engineering Notice for Camarillo:** Structural loading calculated based on 164 ft terrain assessment. Regional dispatch grid: Ventura County.

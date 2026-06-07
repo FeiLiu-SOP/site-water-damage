@@ -12,6 +12,7 @@ lng: -118.6600
 zipSample: ["91302"]
 zipCodes: ["91302"]
 localPaths: ["Los Angeles County / elevation 1135 ft band", "Los Angeles County / primary ZIP 91302", "Los Angeles County / ZIP 91302 sector", "Los Angeles County / coords 34.1600, -118.6600"]
+zillowHomeValueUsd: 1958314
 ---
 
 **Engineering Notice for Hidden Hills:** structural drying capacity optimized for 1135ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Los Angeles County. Relative Humidity Threshold: 68%. Sensor sync: Active.

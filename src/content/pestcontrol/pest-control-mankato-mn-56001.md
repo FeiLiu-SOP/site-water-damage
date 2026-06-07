@@ -11,6 +11,7 @@ lng: -93.9800
 zipSample: ["56002", "56001"]
 zipCodes: ["56002", "56001"]
 localPaths: ["Blue Earth County / primary ZIP 56001", "Blue Earth County / elevation 1007 ft band", "Blue Earth County / ZIP 56001 sector", "Blue Earth County / coords 44.1700, -93.9800", "Blue Earth County / ZIP 56002 sector"]
+zillowHomeValueUsd: 300666
 ---
 
 **Engineering Notice for Mankato:** Structural loading calculated based on 1007 ft terrain assessment. Regional dispatch grid: Blue Earth County.

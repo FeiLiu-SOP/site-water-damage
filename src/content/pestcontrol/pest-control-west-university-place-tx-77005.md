@@ -11,6 +11,7 @@ lng: -95.4300
 zipSample: ["77265", "77277", "77005"]
 zipCodes: ["77265", "77277", "77005"]
 localPaths: ["Harris County / ZIP 77277 sector", "Harris County / ZIP 77005 sector", "Harris County / primary ZIP 77005", "Harris County / elevation 72 ft band", "Harris County / coords 29.7200, -95.4300"]
+zillowHomeValueUsd: 1677634
 ---
 
 **Engineering Notice for West University Place:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Harris County.

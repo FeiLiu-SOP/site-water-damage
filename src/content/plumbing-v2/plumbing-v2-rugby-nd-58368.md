@@ -12,6 +12,7 @@ lng: -99.9900
 zipSample: ["58368"]
 zipCodes: ["58368"]
 localPaths: ["Pierce County / ZIP 58368 sector", "Pierce County / coords 48.3700, -99.9900", "Pierce County / elevation 1532 ft band", "Pierce County / primary ZIP 58368"]
+zillowHomeValueUsd: 199760
 ---
 
 **Engineering Notice for Rugby:** System optimized for 130 mg/L hard water scaling factors in Rugby. Regional dispatch grid: Pierce County.

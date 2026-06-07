@@ -12,6 +12,7 @@ lng: -96.8000
 zipSample: ["74058"]
 zipCodes: ["74058"]
 localPaths: ["Pawnee County / coords 36.3500, -96.8000", "Pawnee County / primary ZIP 74058", "Pawnee County / elevation 843 ft band", "Pawnee County / ZIP 74058 sector"]
+zillowHomeValueUsd: 148811
 ---
 
 **Engineering Notice for Pawnee:** Envelope check: Weather Barrier Wrap assigned to wind-load band B with stress factor 0.90. Regional dispatch grid: Pawnee County.

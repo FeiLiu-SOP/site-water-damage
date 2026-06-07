@@ -11,6 +11,7 @@ lng: -80.9000
 zipSample: ["29210", "29225", "29220", "29218", "29204"]
 zipCodes: ["29202", "29217", "29240", "29250", "29201", "29216", "29215", "29203", "29209", "29207", "29210", "29226"]
 localPaths: ["Richland County / ZIP 29225 sector", "Richland County / elevation 308 ft band", "Richland County / primary ZIP 29203", "Richland County / ZIP 29204 sector", "Richland County / coords 34.0400, -80.9000"]
+zillowHomeValueUsd: 134209
 ---
 
 **Engineering Notice for Columbia:** Structural loading calculated based on 308 ft terrain assessment. Regional dispatch grid: Richland County.

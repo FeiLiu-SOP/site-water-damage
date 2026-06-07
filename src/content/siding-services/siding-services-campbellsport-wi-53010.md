@@ -12,6 +12,7 @@ lng: -88.2800
 zipSample: ["53010"]
 zipCodes: ["53010"]
 localPaths: ["Fond du Lac County / primary ZIP 53010", "Fond du Lac County / coords 43.6000, -88.2800", "Fond du Lac County / elevation 1047 ft band", "Fond du Lac County / ZIP 53010 sector"]
+zillowHomeValueUsd: 371683
 ---
 
 **Engineering Notice for Campbellsport:** Cladding verification uses 90 mph routing baseline; lateral pressure note: 12.0 psf. Elevation: 1047 ft AMSL. Coordinates: 43.6000, -88.2800. Grid: Fond du Lac County.

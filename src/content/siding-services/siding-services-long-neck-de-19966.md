@@ -12,6 +12,7 @@ lng: -75.1500
 zipSample: ["19966"]
 zipCodes: ["19966"]
 localPaths: ["Sussex County / ZIP 19966 sector", "Sussex County / elevation 16 ft band", "Sussex County / coords 38.6200, -75.1500", "Sussex County / primary ZIP 19966"]
+zillowHomeValueUsd: 397215
 ---
 
 **Engineering Notice for Long Neck:** Site context locked to Sussex County. Coordinates: 38.6200, -75.1500. Weather Barrier Wrap integrity verification recorded.

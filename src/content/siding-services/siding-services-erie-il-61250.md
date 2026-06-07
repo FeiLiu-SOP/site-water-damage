@@ -12,6 +12,7 @@ lng: -90.0800
 zipSample: ["61250"]
 zipCodes: ["61250"]
 localPaths: ["Whiteside County / primary ZIP 61250", "Whiteside County / coords 41.6600, -90.0800", "Whiteside County / ZIP 61250 sector", "Whiteside County / elevation 597 ft band"]
+zillowHomeValueUsd: 168418
 ---
 
 **Engineering Notice for Erie:** Cladding verification uses 99 mph routing baseline; lateral pressure note: 13.1 psf. Grid: Whiteside County.

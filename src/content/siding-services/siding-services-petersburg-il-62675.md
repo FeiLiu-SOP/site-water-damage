@@ -12,6 +12,7 @@ lng: -89.8500
 zipSample: ["62675"]
 zipCodes: ["62675"]
 localPaths: ["Menard County / primary ZIP 62675", "Menard County / coords 40.0100, -89.8500", "Menard County / elevation 499 ft band", "Menard County / ZIP 62675 sector"]
+zillowHomeValueUsd: 216541
 ---
 
 **Engineering Notice for Petersburg:** Site context locked to Menard County. Elevation: 499 ft AMSL. Coordinates: 40.0100, -89.8500. Exterior Envelope integrity verification recorded.

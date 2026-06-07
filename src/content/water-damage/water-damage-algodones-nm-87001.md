@@ -12,6 +12,7 @@ lng: -106.4700
 zipSample: ["87001"]
 zipCodes: ["87001"]
 localPaths: ["Sandoval County / elevation 5112 ft band", "Sandoval County / coords 35.3800, -106.4700", "Sandoval County / primary ZIP 87001", "Sandoval County / ZIP 87001 sector"]
+zillowHomeValueUsd: 397216
 ---
 
 **Engineering Notice for Algodones:** structural drying capacity optimized for 5112ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sandoval County. Relative Humidity Threshold: 71%. Sensor sync: Active.

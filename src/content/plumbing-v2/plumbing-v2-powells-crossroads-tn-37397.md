@@ -12,6 +12,7 @@ lng: -85.4800
 zipSample: ["37397"]
 zipCodes: ["37397"]
 localPaths: ["Marion County / elevation 699 ft band", "Marion County / ZIP 37397 sector", "Marion County / coords 35.1800, -85.4800", "Marion County / primary ZIP 37397"]
+zillowHomeValueUsd: 227300
 ---
 
 **Engineering Notice for Powells Crossroads:** System optimized for 140 mg/L hard water scaling factors in Powells Crossroads. Regional dispatch grid: Marion County.

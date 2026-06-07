@@ -12,6 +12,7 @@ lng: -78.0300
 zipSample: ["14470"]
 zipCodes: ["14470"]
 localPaths: ["Orleans County / ZIP 14470 sector", "Orleans County / coords 43.2200, -78.0300", "Orleans County / elevation 548 ft band", "Orleans County / primary ZIP 14470"]
+zillowHomeValueUsd: 213713
 ---
 
 **Engineering Notice for Holley:** structural drying capacity optimized for 548ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Orleans County. Relative Humidity Threshold: 75%. Sensor sync: Active.

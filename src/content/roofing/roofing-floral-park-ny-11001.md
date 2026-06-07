@@ -11,6 +11,7 @@ lng: -73.7000
 zipSample: ["11002", "11001"]
 zipCodes: ["11001", "11002"]
 localPaths: ["Nassau County / ZIP 11001 sector", "Nassau County / elevation 92 ft band", "Nassau County / primary ZIP 11001", "Nassau County / ZIP 11002 sector", "Nassau County / coords 40.7200, -73.7000"]
+zillowHomeValueUsd: 850879
 ---
 
 **Engineering Notice for Floral Park:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Nassau County.

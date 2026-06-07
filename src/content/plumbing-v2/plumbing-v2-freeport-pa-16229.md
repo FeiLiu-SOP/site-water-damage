@@ -12,6 +12,7 @@ lng: -79.6800
 zipSample: ["16229"]
 zipCodes: ["16229"]
 localPaths: ["Armstrong County / primary ZIP 16229", "Armstrong County / ZIP 16229 sector", "Armstrong County / coords 40.6800, -79.6800", "Armstrong County / elevation 1076 ft band"]
+zillowHomeValueUsd: 207653
 ---
 
 **Engineering Notice for Freeport:** System optimized for 164 mg/L hard water scaling factors in Freeport. Regional dispatch grid: Armstrong County.

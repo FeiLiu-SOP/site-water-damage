@@ -11,6 +11,7 @@ lng: -97.3500
 zipSample: ["76110", "76103", "76115", "76108", "76133"]
 zipCodes: ["76191", "76262", "76193", "76137", "76036", "76106", "76132", "76112", "76116", "76135", "76130", "76105"]
 localPaths: ["Tarrant County / ZIP 76103 sector", "Tarrant County / ZIP 76110 sector", "Tarrant County / coords 32.7800, -97.3500", "Tarrant County / ZIP 76108 sector", "Tarrant County / ZIP 76115 sector"]
+zillowHomeValueUsd: 187492
 ---
 
 **Engineering Notice for Fort Worth:** Structural loading calculated based on 558 ft terrain assessment. Regional dispatch grid: Tarrant County.

@@ -12,6 +12,7 @@ lng: -91.2000
 zipSample: ["72101"]
 zipCodes: ["72101"]
 localPaths: ["Woodruff County / coords 35.2600, -91.2000", "Woodruff County / elevation 223 ft band", "Woodruff County / primary ZIP 72101", "Woodruff County / ZIP 72101 sector"]
+zillowHomeValueUsd: 107942
 ---
 
 **Engineering Notice for McCrory:** System optimized for 128 mg/L hard water scaling factors in McCrory. Regional dispatch grid: Woodruff County.

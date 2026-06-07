@@ -12,6 +12,7 @@ lng: -78.2400
 zipSample: ["15834"]
 zipCodes: ["15834"]
 localPaths: ["Cameron County / elevation 1024 ft band", "Cameron County / primary ZIP 15834", "Cameron County / coords 41.5100, -78.2400", "Cameron County / ZIP 15834 sector"]
+zillowHomeValueUsd: 83502
 ---
 
 **Engineering Notice for Emporium:** System optimized for 152 mg/L hard water scaling factors in Emporium. Regional dispatch grid: Cameron County.

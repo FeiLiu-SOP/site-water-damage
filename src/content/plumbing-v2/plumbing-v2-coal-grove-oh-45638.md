@@ -12,6 +12,7 @@ lng: -82.6400
 zipSample: ["45638"]
 zipCodes: ["45638"]
 localPaths: ["Lawrence County / elevation 620 ft band", "Lawrence County / coords 38.5000, -82.6400", "Lawrence County / ZIP 45638 sector", "Lawrence County / primary ZIP 45638"]
+zillowHomeValueUsd: 114125
 ---
 
 **Engineering Notice for Coal Grove:** System optimized for 127 mg/L hard water scaling factors in Coal Grove. Regional dispatch grid: Lawrence County.

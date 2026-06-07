@@ -12,6 +12,7 @@ lng: -114.0800
 zipSample: ["86444"]
 zipCodes: ["86444"]
 localPaths: ["Mohave County / ZIP 86444 sector", "Mohave County / primary ZIP 86444", "Mohave County / coords 35.9500, -114.0800", "Mohave County / elevation 3350 ft band"]
+zillowHomeValueUsd: 212307
 ---
 
 **Engineering Notice for Meadview:** System optimized for 125 mg/L hard water scaling factors in Meadview. Regional dispatch grid: Mohave County.

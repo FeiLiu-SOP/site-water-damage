@@ -11,6 +11,7 @@ lng: -121.2500
 zipSample: ["95677", "95765"]
 zipCodes: ["95765", "95677"]
 localPaths: ["Placer County / primary ZIP 95677", "Placer County / ZIP 95677 sector", "Placer County / coords 38.8100, -121.2500", "Placer County / ZIP 95765 sector", "Placer County / elevation 387 ft band"]
+zillowHomeValueUsd: 655630
 ---
 
 **Engineering Notice for Rocklin:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Placer County.

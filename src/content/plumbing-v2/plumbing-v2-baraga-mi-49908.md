@@ -12,6 +12,7 @@ lng: -88.5000
 zipSample: ["49908"]
 zipCodes: ["49908"]
 localPaths: ["Baraga County / primary ZIP 49908", "Baraga County / elevation 689 ft band", "Baraga County / coords 46.7800, -88.5000", "Baraga County / ZIP 49908 sector"]
+zillowHomeValueUsd: 159689
 ---
 
 **Engineering Notice for Baraga:** System optimized for 161 mg/L hard water scaling factors in Baraga. Regional dispatch grid: Baraga County.

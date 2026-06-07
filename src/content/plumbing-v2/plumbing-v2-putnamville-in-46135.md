@@ -12,6 +12,7 @@ lng: -86.8700
 zipSample: ["46170", "46135"]
 zipCodes: ["46135", "46170"]
 localPaths: ["Putnam County / primary ZIP 46135", "Putnam County / coords 39.5700, -86.8700", "Putnam County / ZIP 46135 sector", "Putnam County / elevation 686 ft band", "Putnam County / ZIP 46170 sector"]
+zillowHomeValueUsd: 242311
 ---
 
 **Engineering Notice for Putnamville:** System optimized for 151 mg/L hard water scaling factors in Putnamville. Regional dispatch grid: Putnam County.

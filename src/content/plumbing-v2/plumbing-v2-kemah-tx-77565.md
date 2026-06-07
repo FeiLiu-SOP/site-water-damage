@@ -12,6 +12,7 @@ lng: -95.0200
 zipSample: ["77565"]
 zipCodes: ["77565"]
 localPaths: ["Galveston County / coords 29.5300, -95.0200", "Galveston County / elevation 30 ft band", "Galveston County / ZIP 77565 sector", "Galveston County / primary ZIP 77565"]
+zillowHomeValueUsd: 358127
 ---
 
 **Engineering Notice for Kemah:** System optimized for 177 mg/L hard water scaling factors in Kemah. Regional dispatch grid: Galveston County.

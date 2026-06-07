@@ -12,6 +12,7 @@ lng: -74.4200
 zipSample: ["10940"]
 zipCodes: ["10940"]
 localPaths: ["Orange County / elevation 689 ft band", "Orange County / primary ZIP 10940", "Orange County / ZIP 10940 sector", "Orange County / coords 41.4700, -74.4200"]
+zillowHomeValueUsd: 390386
 ---
 
 **Engineering Notice for Washington Heights:** structural drying capacity optimized for 689ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Orange County. Relative Humidity Threshold: 75%. Sensor sync: Active.

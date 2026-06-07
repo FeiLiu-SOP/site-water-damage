@@ -12,6 +12,7 @@ lng: -116.7800
 zipSample: ["92230"]
 zipCodes: ["92230"]
 localPaths: ["Riverside County / elevation 1749 ft band", "Riverside County / coords 33.9100, -116.7800", "Riverside County / primary ZIP 92230", "Riverside County / ZIP 92230 sector"]
+zillowHomeValueUsd: 332012
 ---
 
 **Engineering Notice for Cabazon:** Exterior Envelope was validated under stress factor 0.76; target tolerance set near 135 mph. Grid anchor: Riverside County.

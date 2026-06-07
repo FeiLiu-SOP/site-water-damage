@@ -12,6 +12,7 @@ lng: -80.5100
 zipSample: ["33070"]
 zipCodes: ["33070"]
 localPaths: ["Monroe County / primary ZIP 33070", "Monroe County / elevation 3 ft band", "Monroe County / ZIP 33070 sector", "Monroe County / coords 25.0200, -80.5100"]
+zillowHomeValueUsd: 904689
 ---
 
 **Engineering Notice for Tavernier:** System optimized for 163 mg/L hard water scaling factors in Tavernier. Regional dispatch grid: Monroe County.

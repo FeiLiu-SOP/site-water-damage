@@ -12,6 +12,7 @@ lng: -91.9600
 zipSample: ["65483"]
 zipCodes: ["65483"]
 localPaths: ["Texas County / ZIP 65483 sector", "Texas County / primary ZIP 65483", "Texas County / elevation 1207 ft band", "Texas County / coords 37.3200, -91.9600"]
+zillowHomeValueUsd: 186634
 ---
 
 **Engineering Notice for Houston:** System optimized for 130 mg/L hard water scaling factors in Houston. Regional dispatch grid: Texas County.

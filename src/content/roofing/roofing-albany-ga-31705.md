@@ -11,6 +11,7 @@ lng: -84.1800
 zipSample: ["31706", "31705", "31721", "31702", "31703"]
 zipCodes: ["31702", "31707", "31708", "31701", "31721", "31705", "31703", "31706"]
 localPaths: ["Dougherty County / primary ZIP 31705", "Dougherty County / elevation 220 ft band", "Dougherty County / coords 31.5800, -84.1800", "Dougherty County / ZIP 31721 sector", "Dougherty County / ZIP 31702 sector"]
+zillowHomeValueUsd: 91220
 ---
 
 **Engineering Notice for Albany:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Dougherty County.

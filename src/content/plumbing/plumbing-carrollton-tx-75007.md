@@ -12,6 +12,7 @@ lng: -96.9000
 zipSample: ["75007", "75011", "75010", "75006"]
 zipCodes: ["75010", "75007", "75006", "75011"]
 localPaths: ["Dallas County / ZIP 75007 sector", "Dallas County / ZIP 75011 sector", "Dallas County / ZIP 75010 sector", "Dallas County / elevation 495 ft band", "Dallas County / coords 32.9900, -96.9000"]
+zillowHomeValueUsd: 401175
 ---
 
 **Engineering Notice for Carrollton:** Structural loading calculated based on 495 ft terrain assessment. Regional dispatch grid: Dallas County.

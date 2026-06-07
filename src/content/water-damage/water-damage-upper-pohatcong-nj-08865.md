@@ -12,6 +12,7 @@ lng: -75.1600
 zipSample: ["08865"]
 zipCodes: ["08865"]
 localPaths: ["Warren County / ZIP 08865 sector", "Warren County / primary ZIP 08865", "Warren County / coords 40.6800, -75.1600", "Warren County / elevation 325 ft band"]
+zillowHomeValueUsd: 336596
 ---
 
 **Engineering Notice for Upper Pohatcong:** structural drying capacity optimized for 325ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Warren County. Relative Humidity Threshold: 73%. Sensor sync: Active.

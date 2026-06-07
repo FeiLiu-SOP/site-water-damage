@@ -11,6 +11,7 @@ lng: -81.5300
 zipSample: ["32768", "32703", "32712"]
 zipCodes: ["32768", "32712", "32703"]
 localPaths: ["Orange County / coords 28.7000, -81.5300", "Orange County / ZIP 32703 sector", "Orange County / elevation 98 ft band", "Orange County / ZIP 32768 sector", "Orange County / primary ZIP 32712"]
+zillowHomeValueUsd: 435434
 ---
 
 **Engineering Notice for Apopka:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Orange County.

@@ -12,6 +12,7 @@ lng: -132.0200
 zipSample: ["99903", "99929"]
 zipCodes: ["99903", "99929"]
 localPaths: ["Wrangell County / primary ZIP 99903", "Wrangell County / ZIP 99903 sector", "Wrangell County / elevation 1184 ft band", "Wrangell County / ZIP 99929 sector", "Wrangell County / coords 56.3300, -132.0200"]
+zillowHomeValueUsd: 310260
 ---
 
 **Engineering Notice for Wrangell:** System optimized for 158 mg/L hard water scaling factors in Wrangell. Regional dispatch grid: Wrangell County.

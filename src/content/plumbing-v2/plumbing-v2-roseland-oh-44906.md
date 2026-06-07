@@ -12,6 +12,7 @@ lng: -82.5500
 zipSample: ["44906"]
 zipCodes: ["44906"]
 localPaths: ["Richland County / ZIP 44906 sector", "Richland County / elevation 1263 ft band", "Richland County / coords 40.7900, -82.5500", "Richland County / primary ZIP 44906"]
+zillowHomeValueUsd: 168359
 ---
 
 **Engineering Notice for Roseland:** System optimized for 135 mg/L hard water scaling factors in Roseland. Regional dispatch grid: Richland County.

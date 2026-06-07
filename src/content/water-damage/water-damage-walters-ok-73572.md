@@ -12,6 +12,7 @@ lng: -98.3600
 zipSample: ["73572"]
 zipCodes: ["73572"]
 localPaths: ["Cotton County / elevation 1076 ft band", "Cotton County / ZIP 73572 sector", "Cotton County / primary ZIP 73572", "Cotton County / coords 34.3600, -98.3600"]
+zillowHomeValueUsd: 109571
 ---
 
 **Engineering Notice for Walters:** structural drying capacity optimized for 1076ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cotton County. Relative Humidity Threshold: 80%. Sensor sync: Active.

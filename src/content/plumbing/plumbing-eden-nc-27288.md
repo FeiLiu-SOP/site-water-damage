@@ -12,6 +12,7 @@ lng: -79.7400
 zipSample: ["27289", "27288"]
 zipCodes: ["27289", "27288"]
 localPaths: ["Rockingham County / primary ZIP 27288", "Rockingham County / ZIP 27288 sector", "Rockingham County / coords 36.5000, -79.7400", "Rockingham County / ZIP 27289 sector", "Rockingham County / elevation 643 ft band"]
+zillowHomeValueUsd: 149527
 ---
 
 **Engineering Notice for Eden:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Rockingham County.

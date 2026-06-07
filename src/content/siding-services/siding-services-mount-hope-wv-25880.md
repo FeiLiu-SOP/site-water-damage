@@ -12,6 +12,7 @@ lng: -81.1700
 zipSample: ["25888", "25880"]
 zipCodes: ["25880", "25888"]
 localPaths: ["Fayette County / ZIP 25880 sector", "Fayette County / ZIP 25888 sector", "Fayette County / primary ZIP 25880", "Fayette County / elevation 1768 ft band", "Fayette County / coords 37.9000, -81.1700"]
+zillowHomeValueUsd: 129369
 ---
 
 **Engineering Notice for Mount Hope:** Structural integrity verification: Vinyl Panels calibrated for 96 mph localized wind load factor. Elevation: 1768 ft AMSL. Regional dispatch grid: Fayette County.

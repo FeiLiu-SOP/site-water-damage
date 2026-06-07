@@ -11,6 +11,7 @@ lng: -77.6300
 zipSample: ["20156", "20169", "20155"]
 zipCodes: ["20169", "20155", "20156"]
 localPaths: ["Prince William County / ZIP 20155 sector", "Prince William County / ZIP 20156 sector", "Prince William County / elevation 387 ft band", "Prince William County / coords 38.7900, -77.6300", "Prince William County / primary ZIP 20169"]
+zillowHomeValueUsd: 832981
 ---
 
 **Engineering Notice for Gainesville:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Prince William County.

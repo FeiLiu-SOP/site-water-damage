@@ -12,6 +12,7 @@ lng: -82.4600
 zipSample: ["29669"]
 zipCodes: ["29669"]
 localPaths: ["Anderson County / elevation 794 ft band", "Anderson County / coords 34.6400, -82.4600", "Anderson County / primary ZIP 29669", "Anderson County / ZIP 29669 sector"]
+zillowHomeValueUsd: 269255
 ---
 
 **Engineering Notice for Pelzer:** structural drying capacity optimized for 794ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Anderson County. Relative Humidity Threshold: 74%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -79.8100
 zipSample: ["15148"]
 zipCodes: ["15148"]
 localPaths: ["Allegheny County / primary ZIP 15148", "Allegheny County / ZIP 15148 sector", "Allegheny County / coords 40.3900, -79.8100", "Allegheny County / elevation 751 ft band"]
+zillowHomeValueUsd: 71137
 ---
 
 **Engineering Notice for Wilmerding:** Exterior Envelope was validated under stress factor 0.90; target tolerance set near 96 mph. Coordinates: 40.3900, -79.8100. Grid anchor: Allegheny County.

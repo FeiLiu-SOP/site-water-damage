@@ -11,6 +11,7 @@ lng: -121.2400
 zipSample: ["93927"]
 zipCodes: ["93927"]
 localPaths: ["Monterey County / primary ZIP 93927", "Monterey County / coords 36.3200, -121.2400", "Monterey County / ZIP 93927 sector", "Monterey County / elevation 285 ft band"]
+zillowHomeValueUsd: 547264
 ---
 
 **Engineering Notice for Greenfield:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Monterey County.

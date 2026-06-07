@@ -11,6 +11,7 @@ lng: -70.9800
 zipSample: ["03868", "03839", "03866", "03867"]
 zipCodes: ["03866", "03868", "03839", "03867"]
 localPaths: ["Strafford County / ZIP 03867 sector", "Strafford County / ZIP 03866 sector", "Strafford County / primary ZIP 03839", "Strafford County / elevation 203 ft band", "Strafford County / coords 43.3000, -70.9800"]
+zillowHomeValueUsd: 414524
 ---
 
 **Engineering Notice for Rochester:** Structural loading calculated based on 203 ft terrain assessment. Regional dispatch grid: Strafford County.

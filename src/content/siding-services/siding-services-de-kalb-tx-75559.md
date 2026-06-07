@@ -12,6 +12,7 @@ lng: -94.6200
 zipSample: ["75559"]
 zipCodes: ["75559"]
 localPaths: ["Bowie County / ZIP 75559 sector", "Bowie County / coords 33.5100, -94.6200", "Bowie County / elevation 423 ft band", "Bowie County / primary ZIP 75559"]
+zillowHomeValueUsd: 194372
 ---
 
 **Engineering Notice for De Kalb:** Cladding verification uses 145 mph routing baseline; lateral pressure note: 18.6 psf. Coordinates: 33.5100, -94.6200. Grid: Bowie County.

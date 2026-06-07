@@ -12,6 +12,7 @@ lng: -106.6300
 zipSample: ["59323"]
 zipCodes: ["59323"]
 localPaths: ["Rosebud County / coords 45.8900, -106.6300", "Rosebud County / elevation 3215 ft band", "Rosebud County / ZIP 59323 sector", "Rosebud County / primary ZIP 59323"]
+zillowHomeValueUsd: 224909
 ---
 
 **Engineering Notice for Colstrip:** System optimized for 133 mg/L hard water scaling factors in Colstrip. Regional dispatch grid: Rosebud County.

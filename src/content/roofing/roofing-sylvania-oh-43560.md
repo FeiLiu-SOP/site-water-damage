@@ -11,6 +11,7 @@ lng: -83.7100
 zipSample: ["43560"]
 zipCodes: ["43560"]
 localPaths: ["Lucas County / ZIP 43560 sector", "Lucas County / primary ZIP 43560", "Lucas County / coords 41.7100, -83.7100", "Lucas County / elevation 689 ft band"]
+zillowHomeValueUsd: 320239
 ---
 
 **Engineering Notice for Sylvania:** Structural loading calculated based on 689 ft terrain assessment. Regional dispatch grid: Lucas County.

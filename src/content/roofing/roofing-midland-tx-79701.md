@@ -11,6 +11,7 @@ lng: -102.1100
 zipSample: ["79705", "79706", "79707", "79701", "79703"]
 zipCodes: ["79703", "79708", "79701", "79705", "79706", "79711", "79702", "79707"]
 localPaths: ["Midland County / primary ZIP 79701", "Midland County / ZIP 79706 sector", "Midland County / ZIP 79705 sector", "Midland County / ZIP 79701 sector", "Midland County / ZIP 79703 sector"]
+zillowHomeValueUsd: 217403
 ---
 
 **Engineering Notice for Midland:** Structural loading calculated based on 2815 ft terrain assessment. Regional dispatch grid: Midland County.

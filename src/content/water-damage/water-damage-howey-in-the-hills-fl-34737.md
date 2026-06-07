@@ -12,6 +12,7 @@ lng: -81.7800
 zipSample: ["34737"]
 zipCodes: ["34737"]
 localPaths: ["Lake County / elevation 89 ft band", "Lake County / ZIP 34737 sector", "Lake County / primary ZIP 34737", "Lake County / coords 28.7100, -81.7800"]
+zillowHomeValueUsd: 404749
 ---
 
 **Engineering Notice for Howey-in-the-Hills:** structural drying capacity optimized for 89ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lake County. Relative Humidity Threshold: 78%. Sensor sync: Active.

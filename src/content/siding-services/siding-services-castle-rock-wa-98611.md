@@ -12,6 +12,7 @@ lng: -122.9100
 zipSample: ["98611"]
 zipCodes: ["98611"]
 localPaths: ["Cowlitz County / elevation 43 ft band", "Cowlitz County / primary ZIP 98611", "Cowlitz County / ZIP 98611 sector", "Cowlitz County / coords 46.2700, -122.9100"]
+zillowHomeValueUsd: 480126
 ---
 
 **Engineering Notice for Castle Rock:** Wall Restoration was validated under stress factor 0.76; target tolerance set near 97 mph. Grid anchor: Cowlitz County.

@@ -12,6 +12,7 @@ lng: -96.2200
 zipSample: ["68061"]
 zipCodes: ["68061"]
 localPaths: ["Burt County / primary ZIP 68061", "Burt County / ZIP 68061 sector", "Burt County / coords 41.7800, -96.2200", "Burt County / elevation 1066 ft band"]
+zillowHomeValueUsd: 194490
 ---
 
 **Engineering Notice for Tekamah:** System optimized for 163 mg/L hard water scaling factors in Tekamah. Regional dispatch grid: Burt County.

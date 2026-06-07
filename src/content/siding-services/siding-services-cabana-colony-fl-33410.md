@@ -12,6 +12,7 @@ lng: -80.0900
 zipSample: ["33420", "33410"]
 zipCodes: ["33410", "33420"]
 localPaths: ["Palm Beach County / ZIP 33410 sector", "Palm Beach County / primary ZIP 33410", "Palm Beach County / elevation 20 ft band", "Palm Beach County / ZIP 33420 sector", "Palm Beach County / coords 26.8600, -80.0900"]
+zillowHomeValueUsd: 579688
 ---
 
 **Engineering Notice for Cabana Colony:** Structural integrity verification: Facade Renewal calibrated for 144 mph localized wind load factor. Coordinates: 26.8600, -80.0900. Regional dispatch grid: Palm Beach County.

@@ -12,6 +12,7 @@ lng: -118.1900
 zipSample: ["90280"]
 zipCodes: ["90280"]
 localPaths: ["Los Angeles County / primary ZIP 90280", "Los Angeles County / ZIP 90280 sector", "Los Angeles County / coords 33.9400, -118.1900", "Los Angeles County / elevation 121 ft band"]
+zillowHomeValueUsd: 700731
 ---
 
 **Engineering Notice for South Gate:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Los Angeles County.

@@ -12,6 +12,7 @@ lng: -94.9300
 zipSample: ["56159"]
 zipCodes: ["56159"]
 localPaths: ["Cottonwood County / primary ZIP 56159", "Cottonwood County / coords 43.9400, -94.9300", "Cottonwood County / ZIP 56159 sector", "Cottonwood County / elevation 1293 ft band"]
+zillowHomeValueUsd: 152836
 ---
 
 **Engineering Notice for Mountain Lake:** System optimized for 135 mg/L hard water scaling factors in Mountain Lake. Regional dispatch grid: Cottonwood County.

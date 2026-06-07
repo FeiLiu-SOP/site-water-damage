@@ -11,6 +11,7 @@ lng: -94.6400
 zipSample: ["66207", "66208"]
 zipCodes: ["66208", "66207"]
 localPaths: ["Johnson County / ZIP 66207 sector", "Johnson County / primary ZIP 66208", "Johnson County / coords 38.9900, -94.6400", "Johnson County / ZIP 66208 sector", "Johnson County / elevation 1060 ft band"]
+zillowHomeValueUsd: 492489
 ---
 
 **Engineering Notice for Prairie Village:** Structural loading calculated based on 1060 ft terrain assessment. Regional dispatch grid: Johnson County.

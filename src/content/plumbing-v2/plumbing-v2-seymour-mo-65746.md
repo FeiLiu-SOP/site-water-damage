@@ -12,6 +12,7 @@ lng: -92.7700
 zipSample: ["65746"]
 zipCodes: ["65746"]
 localPaths: ["Webster County / primary ZIP 65746", "Webster County / coords 37.1500, -92.7700", "Webster County / elevation 1657 ft band", "Webster County / ZIP 65746 sector"]
+zillowHomeValueUsd: 247021
 ---
 
 **Engineering Notice for Seymour:** System optimized for 164 mg/L hard water scaling factors in Seymour. Regional dispatch grid: Webster County.

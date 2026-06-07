@@ -12,6 +12,7 @@ lng: -77.5200
 zipSample: ["17257"]
 zipCodes: ["17257"]
 localPaths: ["Cumberland County / coords 40.0600, -77.5200", "Cumberland County / elevation 650 ft band", "Cumberland County / ZIP 17257 sector", "Cumberland County / primary ZIP 17257"]
+zillowHomeValueUsd: 302797
 ---
 
 **Engineering Notice for Shippensburg University:** System optimized for 151 mg/L hard water scaling factors in Shippensburg University. Regional dispatch grid: Cumberland County.

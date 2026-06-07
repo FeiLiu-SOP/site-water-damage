@@ -12,6 +12,7 @@ lng: -84.5400
 zipSample: ["45338"]
 zipCodes: ["45338"]
 localPaths: ["Preble County / primary ZIP 45338", "Preble County / coords 39.8500, -84.5400", "Preble County / elevation 1001 ft band", "Preble County / ZIP 45338 sector"]
+zillowHomeValueUsd: 245529
 ---
 
 **Engineering Notice for Lewisburg:** Cladding verification uses 96 mph routing baseline; lateral pressure note: 12.7 psf. Elevation: 1001 ft AMSL. Grid: Preble County.

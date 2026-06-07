@@ -12,6 +12,7 @@ lng: -73.7200
 zipSample: ["11598", "11516", "11581"]
 zipCodes: ["11598", "11516", "11581"]
 localPaths: ["Nassau County / primary ZIP 11516", "Nassau County / ZIP 11598 sector", "Nassau County / ZIP 11581 sector", "Nassau County / elevation 3 ft band", "Nassau County / coords 40.6400, -73.7200"]
+zillowHomeValueUsd: 1210491
 ---
 
 **Engineering Notice for Woodmere:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Nassau County.

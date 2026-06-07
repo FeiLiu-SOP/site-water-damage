@@ -11,6 +11,7 @@ lng: -91.3800
 zipSample: ["62301", "62305"]
 zipCodes: ["62301", "62305"]
 localPaths: ["Adams County / ZIP 62301 sector", "Adams County / ZIP 62305 sector", "Adams County / elevation 636 ft band", "Adams County / coords 39.9300, -91.3800", "Adams County / primary ZIP 62305"]
+zillowHomeValueUsd: 253401
 ---
 
 **Engineering Notice for Quincy:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Adams County.

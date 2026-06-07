@@ -11,6 +11,7 @@ lng: -81.0400
 zipSample: ["28012"]
 zipCodes: ["28012"]
 localPaths: ["Gaston County / elevation 709 ft band", "Gaston County / primary ZIP 28012", "Gaston County / coords 35.2200, -81.0400", "Gaston County / ZIP 28012 sector"]
+zillowHomeValueUsd: 418814
 ---
 
 **Engineering Notice for Belmont:** Structural loading calculated based on 709 ft terrain assessment. Regional dispatch grid: Gaston County.

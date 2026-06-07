@@ -12,6 +12,7 @@ lng: -111.4000
 zipSample: ["84032"]
 zipCodes: ["84032"]
 localPaths: ["Wasatch County / ZIP 84032 sector", "Wasatch County / coords 40.5100, -111.4000", "Wasatch County / elevation 5669 ft band", "Wasatch County / primary ZIP 84032"]
+zillowHomeValueUsd: 849857
 ---
 
 **Engineering Notice for Heber:** Structural loading calculated based on 5669 ft terrain assessment. Regional dispatch grid: Wasatch County.

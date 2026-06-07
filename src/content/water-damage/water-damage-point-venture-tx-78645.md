@@ -12,6 +12,7 @@ lng: -98.0000
 zipSample: ["78645"]
 zipCodes: ["78645"]
 localPaths: ["Travis County / elevation 810 ft band", "Travis County / coords 30.3800, -98.0000", "Travis County / primary ZIP 78645", "Travis County / ZIP 78645 sector"]
+zillowHomeValueUsd: 422865
 ---
 
 **Engineering Notice for Point Venture:** structural drying capacity optimized for 810ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Travis County. Relative Humidity Threshold: 68%. Sensor sync: Active.

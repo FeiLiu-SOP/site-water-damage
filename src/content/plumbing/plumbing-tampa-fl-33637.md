@@ -12,6 +12,7 @@ lng: -82.4400
 zipSample: ["33672", "33613", "33619", "33606", "33686"]
 zipCodes: ["33602", "33604", "33621", "33616", "33631", "33620", "33608", "33686", "33633", "33610", "33637", "33674"]
 localPaths: ["Hillsborough County / elevation 75 ft band", "Hillsborough County / primary ZIP 33637", "Hillsborough County / ZIP 33686 sector", "Hillsborough County / ZIP 33606 sector", "Hillsborough County / ZIP 33619 sector"]
+zillowHomeValueUsd: 295203
 ---
 
 **Engineering Notice for Tampa:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Hillsborough County.

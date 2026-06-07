@@ -11,6 +11,7 @@ lng: -84.5200
 zipSample: ["41016", "41014", "41017", "41015", "41011"]
 zipCodes: ["41014", "41016", "41015", "41011", "41017"]
 localPaths: ["Kenton County / elevation 778 ft band", "Kenton County / primary ZIP 41011", "Kenton County / ZIP 41011 sector", "Kenton County / ZIP 41016 sector", "Kenton County / ZIP 41017 sector"]
+zillowHomeValueUsd: 285359
 ---
 
 **Engineering Notice for Covington:** Structural loading calculated based on 778 ft terrain assessment. Regional dispatch grid: Kenton County.

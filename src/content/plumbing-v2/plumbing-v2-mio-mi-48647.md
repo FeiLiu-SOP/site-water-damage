@@ -12,6 +12,7 @@ lng: -84.1400
 zipSample: ["48647"]
 zipCodes: ["48647"]
 localPaths: ["Oscoda County / elevation 958 ft band", "Oscoda County / coords 44.6600, -84.1400", "Oscoda County / ZIP 48647 sector", "Oscoda County / primary ZIP 48647"]
+zillowHomeValueUsd: 125953
 ---
 
 **Engineering Notice for Mio:** System optimized for 168 mg/L hard water scaling factors in Mio. Regional dispatch grid: Oscoda County.

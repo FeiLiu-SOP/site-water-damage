@@ -12,6 +12,7 @@ lng: -82.8100
 zipSample: ["31089"]
 zipCodes: ["31089"]
 localPaths: ["Washington County / elevation 472 ft band", "Washington County / coords 32.9400, -82.8100", "Washington County / ZIP 31089 sector", "Washington County / primary ZIP 31089"]
+zillowHomeValueUsd: 135096
 ---
 
 **Engineering Notice for Tennille:** structural drying capacity optimized for 472ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 79%. Sensor sync: Active.

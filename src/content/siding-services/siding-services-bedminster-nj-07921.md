@@ -12,6 +12,7 @@ lng: -74.6600
 zipSample: ["07921"]
 zipCodes: ["07921"]
 localPaths: ["Somerset County / ZIP 07921 sector", "Somerset County / primary ZIP 07921", "Somerset County / coords 40.6700, -74.6600", "Somerset County / elevation 154 ft band"]
+zillowHomeValueUsd: 511072
 ---
 
 **Engineering Notice for Bedminster:** Cladding Retrofit was validated under stress factor 0.71; target tolerance set near 109 mph. Grid anchor: Somerset County.

@@ -12,6 +12,7 @@ lng: -117.6100
 zipSample: ["92673", "92674", "92672"]
 zipCodes: ["92673", "92674", "92672"]
 localPaths: ["Orange County / ZIP 92674 sector", "Orange County / ZIP 92672 sector", "Orange County / elevation 200 ft band", "Orange County / ZIP 92673 sector", "Orange County / coords 33.4500, -117.6100"]
+zillowHomeValueUsd: 1736227
 ---
 
 **Engineering Notice for San Clemente:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Orange County.

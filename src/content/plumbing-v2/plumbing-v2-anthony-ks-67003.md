@@ -12,6 +12,7 @@ lng: -98.0400
 zipSample: ["67003"]
 zipCodes: ["67003"]
 localPaths: ["Harper County / primary ZIP 67003", "Harper County / coords 37.1600, -98.0400", "Harper County / elevation 1378 ft band", "Harper County / ZIP 67003 sector"]
+zillowHomeValueUsd: 84502
 ---
 
 **Engineering Notice for Anthony:** System optimized for 178 mg/L hard water scaling factors in Anthony. Regional dispatch grid: Harper County.

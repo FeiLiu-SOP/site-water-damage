@@ -11,6 +11,7 @@ lng: -89.5400
 zipSample: ["53593"]
 zipCodes: ["53593"]
 localPaths: ["Dane County / coords 42.9900, -89.5400", "Dane County / ZIP 53593 sector", "Dane County / elevation 1004 ft band", "Dane County / primary ZIP 53593"]
+zillowHomeValueUsd: 593079
 ---
 
 **Engineering Notice for Verona:** Structural loading calculated based on 1004 ft terrain assessment. Regional dispatch grid: Dane County.

@@ -12,6 +12,7 @@ lng: -122.7700
 zipSample: ["97062"]
 zipCodes: ["97062"]
 localPaths: ["Washington County / ZIP 97062 sector", "Washington County / elevation 164 ft band", "Washington County / coords 45.3800, -122.7700", "Washington County / primary ZIP 97062"]
+zillowHomeValueUsd: 640371
 ---
 
 **Engineering Notice for Tualatin:** Structural loading calculated based on 164 ft terrain assessment. Regional dispatch grid: Washington County.

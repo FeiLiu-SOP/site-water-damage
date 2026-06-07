@@ -12,6 +12,7 @@ lng: -76.5300
 zipSample: ["13021"]
 zipCodes: ["13021"]
 localPaths: ["Cayuga County / elevation 761 ft band", "Cayuga County / coords 42.9100, -76.5300", "Cayuga County / primary ZIP 13021", "Cayuga County / ZIP 13021 sector"]
+zillowHomeValueUsd: 215012
 ---
 
 **Engineering Notice for Melrose Park:** Envelope check: Facade Renewal assigned to wind-load band B with stress factor 1.15. Regional dispatch grid: Cayuga County.

@@ -12,6 +12,7 @@ lng: -124.1000
 zipSample: ["95570"]
 zipCodes: ["95570"]
 localPaths: ["Humboldt County / coords 41.0400, -124.1000", "Humboldt County / primary ZIP 95570", "Humboldt County / elevation 505 ft band", "Humboldt County / ZIP 95570 sector"]
+zillowHomeValueUsd: 573493
 ---
 
 **Engineering Notice for Westhaven-Moonstone:** Envelope check: Cladding Retrofit assigned to wind-load band C with stress factor 0.85. Regional dispatch grid: Humboldt County.

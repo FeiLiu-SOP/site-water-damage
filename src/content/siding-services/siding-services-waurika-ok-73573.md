@@ -12,6 +12,7 @@ lng: -98.0200
 zipSample: ["73573"]
 zipCodes: ["73573"]
 localPaths: ["Jefferson County / elevation 889 ft band", "Jefferson County / coords 34.1800, -98.0200", "Jefferson County / ZIP 73573 sector", "Jefferson County / primary ZIP 73573"]
+zillowHomeValueUsd: 103292
 ---
 
 **Engineering Notice for Waurika:** Cladding verification uses 104 mph routing baseline; lateral pressure note: 13.7 psf. Grid: Jefferson County.

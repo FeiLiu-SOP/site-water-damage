@@ -12,6 +12,7 @@ lng: -87.4500
 zipSample: ["47951"]
 zipCodes: ["47951"]
 localPaths: ["Newton County / coords 40.7700, -87.4500", "Newton County / elevation 686 ft band", "Newton County / primary ZIP 47951", "Newton County / ZIP 47951 sector"]
+zillowHomeValueUsd: 172259
 ---
 
 **Engineering Notice for Kentland:** System optimized for 155 mg/L hard water scaling factors in Kentland. Regional dispatch grid: Newton County.

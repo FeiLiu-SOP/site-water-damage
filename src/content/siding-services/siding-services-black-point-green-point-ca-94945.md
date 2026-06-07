@@ -12,6 +12,7 @@ lng: -122.5200
 zipSample: ["94945"]
 zipCodes: ["94945"]
 localPaths: ["Marin County / ZIP 94945 sector", "Marin County / elevation 141 ft band", "Marin County / primary ZIP 94945", "Marin County / coords 38.1100, -122.5200"]
+zillowHomeValueUsd: 1082474
 ---
 
 **Engineering Notice for Black Point-Green Point:** Site context locked to Marin County. Elevation: 141 ft AMSL. Facade Renewal integrity verification recorded.

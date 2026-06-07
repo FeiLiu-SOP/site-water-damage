@@ -11,6 +11,7 @@ lng: -81.5700
 zipSample: ["32097", "32041"]
 zipCodes: ["32041", "32097"]
 localPaths: ["Nassau County / ZIP 32097 sector", "Nassau County / coords 30.6400, -81.5700", "Nassau County / primary ZIP 32097", "Nassau County / ZIP 32041 sector", "Nassau County / elevation 52 ft band"]
+zillowHomeValueUsd: 383703
 ---
 
 **Engineering Notice for Yulee:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Nassau County.

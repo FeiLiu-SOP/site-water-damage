@@ -12,6 +12,7 @@ lng: -84.2400
 zipSample: ["48661"]
 zipCodes: ["48661"]
 localPaths: ["Ogemaw County / coords 44.2700, -84.2400", "Ogemaw County / elevation 945 ft band", "Ogemaw County / primary ZIP 48661", "Ogemaw County / ZIP 48661 sector"]
+zillowHomeValueUsd: 213613
 ---
 
 **Engineering Notice for West Branch:** System optimized for 127 mg/L hard water scaling factors in West Branch. Regional dispatch grid: Ogemaw County.

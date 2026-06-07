@@ -12,6 +12,7 @@ lng: -80.5600
 zipSample: ["26034"]
 zipCodes: ["26034"]
 localPaths: ["Hancock County / coords 40.6100, -80.5600", "Hancock County / elevation 709 ft band", "Hancock County / ZIP 26034 sector", "Hancock County / primary ZIP 26034"]
+zillowHomeValueUsd: 119958
 ---
 
 **Engineering Notice for Chester:** System optimized for 154 mg/L hard water scaling factors in Chester. Regional dispatch grid: Hancock County.

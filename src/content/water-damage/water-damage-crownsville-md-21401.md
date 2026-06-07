@@ -12,6 +12,7 @@ lng: -76.5900
 zipSample: ["21032", "21401"]
 zipCodes: ["21032", "21401"]
 localPaths: ["Anne Arundel County / elevation 138 ft band", "Anne Arundel County / ZIP 21032 sector", "Anne Arundel County / coords 39.0200, -76.5900", "Anne Arundel County / primary ZIP 21401", "Anne Arundel County / ZIP 21401 sector"]
+zillowHomeValueUsd: 625167
 ---
 
 **Engineering Notice for Crownsville:** structural drying capacity optimized for 138ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Anne Arundel County. Relative Humidity Threshold: 76%. Sensor sync: Active.

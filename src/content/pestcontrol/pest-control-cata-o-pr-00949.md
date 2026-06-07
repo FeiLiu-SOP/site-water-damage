@@ -11,6 +11,8 @@ lng: -66.1400
 zipSample: ["00963", "00962", "00949"]
 zipCodes: ["00962", "00949", "00963"]
 localPaths: ["Cataño County / ZIP 00963 sector", "Cataño County / coords 18.4400, -66.1400", "Cataño County / ZIP 00962 sector", "Cataño County / primary ZIP 00949", "Cataño County / ZIP 00949 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 362756
 ---
 
 **Engineering Notice for Cataño:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Cataño County.

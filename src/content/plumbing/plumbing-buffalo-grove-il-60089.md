@@ -12,6 +12,7 @@ lng: -87.9600
 zipSample: ["60089"]
 zipCodes: ["60089"]
 localPaths: ["Lake County / coords 42.1700, -87.9600", "Lake County / primary ZIP 60089", "Lake County / elevation 689 ft band", "Lake County / ZIP 60089 sector"]
+zillowHomeValueUsd: 438000
 ---
 
 **Engineering Notice for Buffalo Grove:** Structural loading calculated based on 689 ft terrain assessment. Regional dispatch grid: Lake County.

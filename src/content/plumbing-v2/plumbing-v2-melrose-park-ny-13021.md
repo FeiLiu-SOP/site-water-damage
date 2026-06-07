@@ -12,6 +12,7 @@ lng: -76.5300
 zipSample: ["13021"]
 zipCodes: ["13021"]
 localPaths: ["Cayuga County / ZIP 13021 sector", "Cayuga County / primary ZIP 13021", "Cayuga County / elevation 761 ft band", "Cayuga County / coords 42.9100, -76.5300"]
+zillowHomeValueUsd: 215009
 ---
 
 **Engineering Notice for Melrose Park:** System optimized for 135 mg/L hard water scaling factors in Melrose Park. Regional dispatch grid: Cayuga County.

@@ -12,6 +12,7 @@ lng: -85.9600
 zipSample: ["36268"]
 zipCodes: ["36268"]
 localPaths: ["Talladega County / primary ZIP 36268", "Talladega County / ZIP 36268 sector", "Talladega County / coords 33.5300, -85.9600", "Talladega County / elevation 627 ft band"]
+zillowHomeValueUsd: 201300
 ---
 
 **Engineering Notice for Munford:** structural drying capacity optimized for 627ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Talladega County. Relative Humidity Threshold: 85%. Sensor sync: Active.

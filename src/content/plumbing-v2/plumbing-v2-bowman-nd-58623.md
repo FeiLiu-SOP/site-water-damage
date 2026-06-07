@@ -12,6 +12,7 @@ lng: -103.4000
 zipSample: ["58623"]
 zipCodes: ["58623"]
 localPaths: ["Bowman County / ZIP 58623 sector", "Bowman County / primary ZIP 58623", "Bowman County / coords 46.1800, -103.4000", "Bowman County / elevation 2963 ft band"]
+zillowHomeValueUsd: 192198
 ---
 
 **Engineering Notice for Bowman:** System optimized for 162 mg/L hard water scaling factors in Bowman. Regional dispatch grid: Bowman County.

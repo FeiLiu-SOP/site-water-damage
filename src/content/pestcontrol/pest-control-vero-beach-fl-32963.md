@@ -11,6 +11,7 @@ lng: -80.3900
 zipSample: ["32964", "32961", "32963", "32969", "32965"]
 zipCodes: ["32963", "32960", "32961", "32964", "32969", "32965"]
 localPaths: ["Indian River County / ZIP 32969 sector", "Indian River County / coords 27.6500, -80.3900", "Indian River County / ZIP 32964 sector", "Indian River County / ZIP 32961 sector", "Indian River County / ZIP 32965 sector"]
+zillowHomeValueUsd: 1038959
 ---
 
 **Engineering Notice for Vero Beach:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Indian River County.

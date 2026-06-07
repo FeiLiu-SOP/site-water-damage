@@ -12,6 +12,7 @@ lng: -86.6400
 zipSample: ["35806", "35741", "35805", "35763", "35893"]
 zipCodes: ["35742", "35815", "35763", "35811", "35806", "35824", "35757", "35894", "35893", "35804", "35895", "35741"]
 localPaths: ["Madison County / ZIP 35806 sector", "Madison County / primary ZIP 35801", "Madison County / coords 34.7000, -86.6400", "Madison County / ZIP 35741 sector", "Madison County / ZIP 35893 sector"]
+zillowHomeValueUsd: 394340
 ---
 
 **Engineering Notice for Huntsville:** Structural loading calculated based on 650 ft terrain assessment. Regional dispatch grid: Madison County.

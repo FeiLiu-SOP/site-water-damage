@@ -12,6 +12,7 @@ lng: -118.6900
 zipSample: ["91307"]
 zipCodes: ["91307"]
 localPaths: ["Ventura County / elevation 1388 ft band", "Ventura County / coords 34.2100, -118.6900", "Ventura County / primary ZIP 91307", "Ventura County / ZIP 91307 sector"]
+zillowHomeValueUsd: 1011316
 ---
 
 **Engineering Notice for Bell Canyon:** structural drying capacity optimized for 1388ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ventura County. Relative Humidity Threshold: 67%. Sensor sync: Active.

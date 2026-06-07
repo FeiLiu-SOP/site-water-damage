@@ -12,6 +12,7 @@ lng: -86.2000
 zipSample: ["35135", "35125"]
 zipCodes: ["35125", "35135"]
 localPaths: ["St. Clair County / primary ZIP 35135", "St. Clair County / ZIP 35125 sector", "St. Clair County / elevation 528 ft band", "St. Clair County / ZIP 35135 sector", "St. Clair County / coords 33.6200, -86.2000"]
+zillowHomeValueUsd: 305057
 ---
 
 **Engineering Notice for Riverside:** Exterior Cladding was validated under stress factor 0.84; target tolerance set near 94 mph. Coordinates: 33.6200, -86.2000. Grid anchor: St. Clair County.

@@ -12,6 +12,7 @@ lng: -78.8800
 zipSample: ["22958"]
 zipCodes: ["22958"]
 localPaths: ["Nelson County / primary ZIP 22958", "Nelson County / ZIP 22958 sector", "Nelson County / coords 37.9100, -78.8800", "Nelson County / elevation 1289 ft band"]
+zillowHomeValueUsd: 571307
 ---
 
 **Engineering Notice for Nellysford:** Site context locked to Nelson County. Coordinates: 37.9100, -78.8800. Surface Sheathing integrity verification recorded.

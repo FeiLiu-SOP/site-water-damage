@@ -12,6 +12,7 @@ lng: -74.3000
 zipSample: ["08857"]
 zipCodes: ["08857"]
 localPaths: ["Middlesex County / coords 40.4000, -74.3000", "Middlesex County / ZIP 08857 sector", "Middlesex County / primary ZIP 08857", "Middlesex County / elevation 85 ft band"]
+zillowHomeValueUsd: 633239
 ---
 
 **Engineering Notice for Brownville:** System optimized for 159 mg/L hard water scaling factors in Brownville. Regional dispatch grid: Middlesex County.

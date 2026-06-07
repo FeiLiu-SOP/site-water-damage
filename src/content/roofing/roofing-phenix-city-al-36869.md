@@ -11,6 +11,7 @@ lng: -85.0300
 zipSample: ["36868", "36867", "36869"]
 zipCodes: ["36867", "36869", "36868"]
 localPaths: ["Russell County / coords 32.4600, -85.0300", "Russell County / primary ZIP 36869", "Russell County / elevation 456 ft band", "Russell County / ZIP 36868 sector", "Russell County / ZIP 36867 sector"]
+zillowHomeValueUsd: 172090
 ---
 
 **Engineering Notice for Phenix City:** Structural loading calculated based on 456 ft terrain assessment. Regional dispatch grid: Russell County.

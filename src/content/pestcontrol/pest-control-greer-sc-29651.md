@@ -11,6 +11,7 @@ lng: -82.2300
 zipSample: ["29652", "29650", "29651"]
 zipCodes: ["29651", "29652", "29650"]
 localPaths: ["Greenville County / coords 34.9300, -82.2300", "Greenville County / ZIP 29650 sector", "Greenville County / primary ZIP 29651", "Greenville County / ZIP 29651 sector", "Greenville County / elevation 978 ft band"]
+zillowHomeValueUsd: 335392
 ---
 
 **Engineering Notice for Greer:** Structural loading calculated based on 978 ft terrain assessment. Regional dispatch grid: Greenville County.

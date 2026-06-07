@@ -12,6 +12,7 @@ lng: -72.1100
 zipSample: ["01518", "01566"]
 zipCodes: ["01566", "01518"]
 localPaths: ["Worcester County / ZIP 01518 sector", "Worcester County / elevation 807 ft band", "Worcester County / primary ZIP 01518", "Worcester County / ZIP 01566 sector", "Worcester County / coords 42.1200, -72.1100"]
+zillowHomeValueUsd: 521142
 ---
 
 **Engineering Notice for Fiskdale:** System optimized for 169 mg/L hard water scaling factors in Fiskdale. Regional dispatch grid: Worcester County.

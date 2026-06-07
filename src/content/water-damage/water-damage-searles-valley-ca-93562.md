@@ -12,6 +12,7 @@ lng: -117.4000
 zipSample: ["93562"]
 zipCodes: ["93562"]
 localPaths: ["San Bernardino County / elevation 1880 ft band", "San Bernardino County / coords 35.7700, -117.4000", "San Bernardino County / ZIP 93562 sector", "San Bernardino County / primary ZIP 93562"]
+zillowHomeValueUsd: 74329
 ---
 
 **Engineering Notice for Searles Valley:** structural drying capacity optimized for 1880ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Bernardino County. Relative Humidity Threshold: 69%. Sensor sync: Active.

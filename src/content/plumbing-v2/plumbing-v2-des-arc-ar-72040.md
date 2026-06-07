@@ -12,6 +12,8 @@ lng: -91.5100
 zipSample: ["72040"]
 zipCodes: ["72040"]
 localPaths: ["Prairie County / primary ZIP 72040", "Prairie County / ZIP 72040 sector", "Prairie County / elevation 217 ft band", "Prairie County / coords 34.9800, -91.5100"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 201810
 ---
 
 **Engineering Notice for Des Arc:** System optimized for 155 mg/L hard water scaling factors in Des Arc. Regional dispatch grid: Prairie County.

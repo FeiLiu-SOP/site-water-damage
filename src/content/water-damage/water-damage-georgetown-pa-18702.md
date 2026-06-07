@@ -12,6 +12,7 @@ lng: -75.8700
 zipSample: ["18702"]
 zipCodes: ["18702"]
 localPaths: ["Luzerne County / ZIP 18702 sector", "Luzerne County / primary ZIP 18702", "Luzerne County / coords 41.2300, -75.8700", "Luzerne County / elevation 692 ft band"]
+zillowHomeValueUsd: 168333
 ---
 
 **Engineering Notice for Georgetown:** structural drying capacity optimized for 692ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Luzerne County. Relative Humidity Threshold: 72%. Sensor sync: Active.

@@ -11,6 +11,7 @@ lng: -117.1700
 zipSample: ["92346", "92410", "92359"]
 zipCodes: ["92346", "92410", "92359"]
 localPaths: ["San Bernardino County / ZIP 92410 sector", "San Bernardino County / primary ZIP 92359", "San Bernardino County / ZIP 92346 sector", "San Bernardino County / coords 34.1100, -117.1700", "San Bernardino County / ZIP 92359 sector"]
+zillowHomeValueUsd: 511528
 ---
 
 **Engineering Notice for Highland:** Structural loading calculated based on 1371 ft terrain assessment. Regional dispatch grid: San Bernardino County.

@@ -12,6 +12,7 @@ lng: -96.6200
 zipSample: ["75090", "75091", "75092"]
 zipCodes: ["75090", "75092", "75091"]
 localPaths: ["Grayson County / primary ZIP 75092", "Grayson County / coords 33.6300, -96.6200", "Grayson County / ZIP 75090 sector", "Grayson County / ZIP 75092 sector", "Grayson County / elevation 692 ft band"]
+zillowHomeValueUsd: 291302
 ---
 
 **Engineering Notice for Sherman:** Structural loading calculated based on 692 ft terrain assessment. Regional dispatch grid: Grayson County.

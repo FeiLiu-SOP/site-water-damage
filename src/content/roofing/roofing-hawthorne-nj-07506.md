@@ -11,6 +11,7 @@ lng: -74.1600
 zipSample: ["07506"]
 zipCodes: ["07506"]
 localPaths: ["Passaic County / ZIP 07506 sector", "Passaic County / elevation 89 ft band", "Passaic County / coords 40.9600, -74.1600", "Passaic County / primary ZIP 07506"]
+zillowHomeValueUsd: 628615
 ---
 
 **Engineering Notice for Hawthorne:** Structural loading calculated based on 89 ft terrain assessment. Regional dispatch grid: Passaic County.

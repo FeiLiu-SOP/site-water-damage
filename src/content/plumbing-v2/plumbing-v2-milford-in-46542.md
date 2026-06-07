@@ -12,6 +12,7 @@ lng: -85.8400
 zipSample: ["46542"]
 zipCodes: ["46542"]
 localPaths: ["Kosciusko County / elevation 827 ft band", "Kosciusko County / ZIP 46542 sector", "Kosciusko County / coords 41.4100, -85.8400", "Kosciusko County / primary ZIP 46542"]
+zillowHomeValueUsd: 274084
 ---
 
 **Engineering Notice for Milford:** System optimized for 170 mg/L hard water scaling factors in Milford. Regional dispatch grid: Kosciusko County.

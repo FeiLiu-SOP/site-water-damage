@@ -12,6 +12,7 @@ lng: -104.9800
 zipSample: ["80118"]
 zipCodes: ["80118"]
 localPaths: ["Douglas County / primary ZIP 80118", "Douglas County / elevation 6493 ft band", "Douglas County / ZIP 80118 sector", "Douglas County / coords 39.2600, -104.9800"]
+zillowHomeValueUsd: 951142
 ---
 
 **Engineering Notice for Perry Park:** Cladding verification uses 98 mph routing baseline; lateral pressure note: 13.0 psf. Elevation: 6493 ft AMSL. Grid: Douglas County.

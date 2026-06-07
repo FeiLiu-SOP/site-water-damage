@@ -11,6 +11,7 @@ lng: -84.1800
 zipSample: ["37934"]
 zipCodes: ["37934"]
 localPaths: ["Knox County / ZIP 37934 sector", "Knox County / primary ZIP 37934", "Knox County / coords 35.8700, -84.1800", "Knox County / elevation 955 ft band"]
+zillowHomeValueUsd: 648265
 ---
 
 **Engineering Notice for Farragut:** Structural loading calculated based on 955 ft terrain assessment. Regional dispatch grid: Knox County.

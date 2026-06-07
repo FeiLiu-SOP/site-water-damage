@@ -11,6 +11,7 @@ lng: -89.0100
 zipSample: ["53546", "53548", "53545", "53547"]
 zipCodes: ["53546", "53548", "53545", "53547"]
 localPaths: ["Rock County / coords 42.6900, -89.0100", "Rock County / ZIP 53546 sector", "Rock County / ZIP 53548 sector", "Rock County / ZIP 53545 sector", "Rock County / elevation 866 ft band"]
+zillowHomeValueUsd: 276946
 ---
 
 **Engineering Notice for Janesville:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Rock County.

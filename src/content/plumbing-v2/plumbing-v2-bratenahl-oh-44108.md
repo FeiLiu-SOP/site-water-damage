@@ -12,6 +12,7 @@ lng: -81.6100
 zipSample: ["44108"]
 zipCodes: ["44108"]
 localPaths: ["Cuyahoga County / coords 41.5500, -81.6100", "Cuyahoga County / elevation 636 ft band", "Cuyahoga County / primary ZIP 44108", "Cuyahoga County / ZIP 44108 sector"]
+zillowHomeValueUsd: 75070
 ---
 
 **Engineering Notice for Bratenahl:** System optimized for 125 mg/L hard water scaling factors in Bratenahl. Regional dispatch grid: Cuyahoga County.

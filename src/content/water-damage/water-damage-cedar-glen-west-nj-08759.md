@@ -12,6 +12,7 @@ lng: -74.2900
 zipSample: ["08759"]
 zipCodes: ["08759"]
 localPaths: ["Ocean County / ZIP 08759 sector", "Ocean County / coords 40.0400, -74.2900", "Ocean County / primary ZIP 08759", "Ocean County / elevation 89 ft band"]
+zillowHomeValueUsd: 274844
 ---
 
 **Engineering Notice for Cedar Glen West:** structural drying capacity optimized for 89ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ocean County. Relative Humidity Threshold: 65%. Sensor sync: Active.

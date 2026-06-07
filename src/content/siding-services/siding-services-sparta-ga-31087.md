@@ -12,6 +12,7 @@ lng: -82.9700
 zipSample: ["31087"]
 zipCodes: ["31087"]
 localPaths: ["Hancock County / coords 33.2800, -82.9700", "Hancock County / primary ZIP 31087", "Hancock County / ZIP 31087 sector", "Hancock County / elevation 571 ft band"]
+zillowHomeValueUsd: 227378
 ---
 
 **Engineering Notice for Sparta:** Envelope check: Cladding Retrofit assigned to wind-load band B with stress factor 0.70. Regional dispatch grid: Hancock County.

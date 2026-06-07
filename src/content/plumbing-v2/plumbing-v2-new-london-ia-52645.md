@@ -12,6 +12,7 @@ lng: -91.4000
 zipSample: ["52645"]
 zipCodes: ["52645"]
 localPaths: ["Henry County / ZIP 52645 sector", "Henry County / coords 40.9200, -91.4000", "Henry County / elevation 764 ft band", "Henry County / primary ZIP 52645"]
+zillowHomeValueUsd: 184109
 ---
 
 **Engineering Notice for New London:** System optimized for 155 mg/L hard water scaling factors in New London. Regional dispatch grid: Henry County.

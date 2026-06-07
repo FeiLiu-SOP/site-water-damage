@@ -12,6 +12,7 @@ lng: -98.6900
 zipSample: ["58402", "58401", "58405"]
 zipCodes: ["58402", "58405", "58401"]
 localPaths: ["Stutsman County / ZIP 58402 sector", "Stutsman County / elevation 1424 ft band", "Stutsman County / ZIP 58401 sector", "Stutsman County / coords 46.9100, -98.6900", "Stutsman County / ZIP 58405 sector"]
+zillowHomeValueUsd: 230280
 ---
 
 **Engineering Notice for Jamestown:** Structural loading calculated based on 1424 ft terrain assessment. Regional dispatch grid: Stutsman County.

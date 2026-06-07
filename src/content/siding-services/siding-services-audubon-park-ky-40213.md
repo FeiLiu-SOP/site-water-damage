@@ -12,6 +12,7 @@ lng: -85.7300
 zipSample: ["40213"]
 zipCodes: ["40213"]
 localPaths: ["Jefferson County / elevation 528 ft band", "Jefferson County / coords 38.2000, -85.7300", "Jefferson County / ZIP 40213 sector", "Jefferson County / primary ZIP 40213"]
+zillowHomeValueUsd: 209418
 ---
 
 **Engineering Notice for Audubon Park:** Cladding verification uses 108 mph routing baseline; lateral pressure note: 14.2 psf. Elevation: 528 ft AMSL. Grid: Jefferson County.

@@ -12,6 +12,7 @@ lng: -81.5800
 zipSample: ["29379"]
 zipCodes: ["29379"]
 localPaths: ["Union County / coords 34.7200, -81.5800", "Union County / elevation 525 ft band", "Union County / primary ZIP 29379", "Union County / ZIP 29379 sector"]
+zillowHomeValueUsd: 135025
 ---
 
 **Engineering Notice for Monarch Mill:** System optimized for 164 mg/L hard water scaling factors in Monarch Mill. Regional dispatch grid: Union County.

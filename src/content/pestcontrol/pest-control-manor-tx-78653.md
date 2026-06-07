@@ -11,6 +11,7 @@ lng: -97.5200
 zipSample: ["78653"]
 zipCodes: ["78653"]
 localPaths: ["Travis County / primary ZIP 78653", "Travis County / coords 30.3600, -97.5200", "Travis County / ZIP 78653 sector", "Travis County / elevation 568 ft band"]
+zillowHomeValueUsd: 324796
 ---
 
 **Engineering Notice for Manor:** Structural loading calculated based on 568 ft terrain assessment. Regional dispatch grid: Travis County.

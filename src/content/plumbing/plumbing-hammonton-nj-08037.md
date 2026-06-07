@@ -12,6 +12,7 @@ lng: -74.7700
 zipSample: ["08037"]
 zipCodes: ["08037"]
 localPaths: ["Atlantic County / elevation 62 ft band", "Atlantic County / coords 39.6600, -74.7700", "Atlantic County / ZIP 08037 sector", "Atlantic County / primary ZIP 08037"]
+zillowHomeValueUsd: 373438
 ---
 
 **Engineering Notice for Hammonton:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Atlantic County.

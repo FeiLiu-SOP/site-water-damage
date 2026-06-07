@@ -12,6 +12,7 @@ lng: -117.9300
 zipSample: ["92834", "92836", "92831", "92832", "92833"]
 zipCodes: ["92838", "92834", "92832", "92837", "92836", "92835", "92833", "92831"]
 localPaths: ["Orange County / ZIP 92836 sector", "Orange County / ZIP 92832 sector", "Orange County / coords 33.8800, -117.9300", "Orange County / elevation 266 ft band", "Orange County / primary ZIP 92835"]
+zillowHomeValueUsd: 1317936
 ---
 
 **Engineering Notice for Fullerton:** Structural loading calculated based on 266 ft terrain assessment. Regional dispatch grid: Orange County.

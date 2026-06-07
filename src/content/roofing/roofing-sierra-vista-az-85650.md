@@ -11,6 +11,7 @@ lng: -110.3200
 zipSample: ["85635", "85650", "85613", "85670"]
 zipCodes: ["85670", "85613", "85650", "85635"]
 localPaths: ["Cochise County / ZIP 85650 sector", "Cochise County / ZIP 85613 sector", "Cochise County / elevation 4649 ft band", "Cochise County / primary ZIP 85650", "Cochise County / coords 31.5600, -110.3200"]
+zillowHomeValueUsd: 359415
 ---
 
 **Engineering Notice for Sierra Vista:** Structural loading calculated based on 4649 ft terrain assessment. Regional dispatch grid: Cochise County.

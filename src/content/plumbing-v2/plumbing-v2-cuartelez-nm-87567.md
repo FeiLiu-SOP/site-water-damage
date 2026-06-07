@@ -12,6 +12,7 @@ lng: -106.0200
 zipSample: ["87567"]
 zipCodes: ["87567"]
 localPaths: ["Santa Fe County / coords 35.9900, -106.0200", "Santa Fe County / primary ZIP 87567", "Santa Fe County / ZIP 87567 sector", "Santa Fe County / elevation 5892 ft band"]
+zillowHomeValueUsd: 328803
 ---
 
 **Engineering Notice for Cuartelez:** System optimized for 156 mg/L hard water scaling factors in Cuartelez. Regional dispatch grid: Santa Fe County.

@@ -12,6 +12,7 @@ lng: -74.6200
 zipSample: ["07847"]
 zipCodes: ["07847"]
 localPaths: ["Morris County / primary ZIP 07847", "Morris County / ZIP 07847 sector", "Morris County / elevation 715 ft band", "Morris County / coords 40.8800, -74.6200"]
+zillowHomeValueUsd: 498614
 ---
 
 **Engineering Notice for Kenvil:** System optimized for 136 mg/L hard water scaling factors in Kenvil. Regional dispatch grid: Morris County.

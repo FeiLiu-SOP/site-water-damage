@@ -12,6 +12,7 @@ lng: -95.5600
 zipSample: ["74547"]
 zipCodes: ["74547"]
 localPaths: ["Pittsburg County / primary ZIP 74547", "Pittsburg County / ZIP 74547 sector", "Pittsburg County / elevation 705 ft band", "Pittsburg County / coords 34.8400, -95.5600"]
+zillowHomeValueUsd: 106799
 ---
 
 **Engineering Notice for Hartshorne:** structural drying capacity optimized for 705ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pittsburg County. Relative Humidity Threshold: 82%. Sensor sync: Active.

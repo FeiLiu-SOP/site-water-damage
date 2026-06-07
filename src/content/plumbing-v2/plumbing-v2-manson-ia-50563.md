@@ -12,6 +12,7 @@ lng: -94.5400
 zipSample: ["50563"]
 zipCodes: ["50563"]
 localPaths: ["Calhoun County / elevation 1204 ft band", "Calhoun County / primary ZIP 50563", "Calhoun County / coords 42.5300, -94.5400", "Calhoun County / ZIP 50563 sector"]
+zillowHomeValueUsd: 192646
 ---
 
 **Engineering Notice for Manson:** System optimized for 128 mg/L hard water scaling factors in Manson. Regional dispatch grid: Calhoun County.

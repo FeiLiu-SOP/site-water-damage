@@ -11,6 +11,7 @@ lng: -121.8800
 zipSample: ["93940", "93943", "93944"]
 zipCodes: ["93944", "93943", "93940"]
 localPaths: ["Monterey County / primary ZIP 93943", "Monterey County / coords 36.5900, -121.8800", "Monterey County / ZIP 93943 sector", "Monterey County / elevation 16 ft band", "Monterey County / ZIP 93944 sector"]
+zillowHomeValueUsd: 1135832
 ---
 
 **Engineering Notice for Monterey:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Monterey County.

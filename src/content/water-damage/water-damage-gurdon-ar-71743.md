@@ -12,6 +12,7 @@ lng: -93.1500
 zipSample: ["71743"]
 zipCodes: ["71743"]
 localPaths: ["Clark County / primary ZIP 71743", "Clark County / ZIP 71743 sector", "Clark County / elevation 233 ft band", "Clark County / coords 33.9200, -93.1500"]
+zillowHomeValueUsd: 107308
 ---
 
 **Engineering Notice for Gurdon:** structural drying capacity optimized for 233ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clark County. Relative Humidity Threshold: 67%. Sensor sync: Active.

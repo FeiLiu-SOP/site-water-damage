@@ -12,6 +12,7 @@ lng: -122.4000
 zipSample: ["98607"]
 zipCodes: ["98607"]
 localPaths: ["Clark County / ZIP 98607 sector", "Clark County / elevation 489 ft band", "Clark County / primary ZIP 98607", "Clark County / coords 45.6400, -122.4000"]
+zillowHomeValueUsd: 751875
 ---
 
 **Engineering Notice for Fern Prairie:** structural drying capacity optimized for 489ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clark County. Relative Humidity Threshold: 76%. Sensor sync: Active.

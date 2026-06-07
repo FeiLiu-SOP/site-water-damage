@@ -12,6 +12,7 @@ lng: -116.2300
 zipSample: ["83799", "83704", "83712", "83735", "83705"]
 zipCodes: ["83703", "83725", "83716", "83729", "83715", "83713", "83705", "83708", "83799", "83706", "83717", "83722"]
 localPaths: ["Ada County / elevation 2756 ft band", "Ada County / ZIP 83735 sector", "Ada County / ZIP 83705 sector", "Ada County / ZIP 83704 sector", "Ada County / primary ZIP 83703"]
+zillowHomeValueUsd: 530686
 ---
 
 **Engineering Notice for Boise:** Structural loading calculated based on 2756 ft terrain assessment. Regional dispatch grid: Ada County.

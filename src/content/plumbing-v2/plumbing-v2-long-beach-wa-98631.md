@@ -12,6 +12,7 @@ lng: -124.0600
 zipSample: ["98631"]
 zipCodes: ["98631"]
 localPaths: ["Pacific County / coords 46.3600, -124.0600", "Pacific County / primary ZIP 98631", "Pacific County / ZIP 98631 sector", "Pacific County / elevation 20 ft band"]
+zillowHomeValueUsd: 347463
 ---
 
 **Engineering Notice for Long Beach:** System optimized for 177 mg/L hard water scaling factors in Long Beach. Regional dispatch grid: Pacific County.

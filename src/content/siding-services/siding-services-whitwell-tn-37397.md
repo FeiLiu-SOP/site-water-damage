@@ -12,6 +12,7 @@ lng: -85.5200
 zipSample: ["37397"]
 zipCodes: ["37397"]
 localPaths: ["Marion County / coords 35.1900, -85.5200", "Marion County / primary ZIP 37397", "Marion County / ZIP 37397 sector", "Marion County / elevation 650 ft band"]
+zillowHomeValueUsd: 227303
 ---
 
 **Engineering Notice for Whitwell:** Site context locked to Marion County. Elevation: 650 ft AMSL. Exterior Cladding integrity verification recorded.

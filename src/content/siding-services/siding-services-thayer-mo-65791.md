@@ -12,6 +12,7 @@ lng: -91.5400
 zipSample: ["65791"]
 zipCodes: ["65791"]
 localPaths: ["Oregon County / elevation 617 ft band", "Oregon County / ZIP 65791 sector", "Oregon County / coords 36.5200, -91.5400", "Oregon County / primary ZIP 65791"]
+zillowHomeValueUsd: 147026
 ---
 
 **Engineering Notice for Thayer:** Site context locked to Oregon County. Elevation: 617 ft AMSL. Coordinates: 36.5200, -91.5400. Wall Restoration integrity verification recorded.

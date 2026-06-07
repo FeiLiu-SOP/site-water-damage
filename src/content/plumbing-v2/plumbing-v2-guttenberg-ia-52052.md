@@ -12,6 +12,7 @@ lng: -91.1100
 zipSample: ["52052"]
 zipCodes: ["52052"]
 localPaths: ["Clayton County / primary ZIP 52052", "Clayton County / elevation 748 ft band", "Clayton County / coords 42.7900, -91.1100", "Clayton County / ZIP 52052 sector"]
+zillowHomeValueUsd: 253154
 ---
 
 **Engineering Notice for Guttenberg:** System optimized for 122 mg/L hard water scaling factors in Guttenberg. Regional dispatch grid: Clayton County.

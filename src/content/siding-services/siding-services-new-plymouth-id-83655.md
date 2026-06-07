@@ -12,6 +12,7 @@ lng: -116.8200
 zipSample: ["83655"]
 zipCodes: ["83655"]
 localPaths: ["Payette County / elevation 2260 ft band", "Payette County / coords 43.9700, -116.8200", "Payette County / ZIP 83655 sector", "Payette County / primary ZIP 83655"]
+zillowHomeValueUsd: 493468
 ---
 
 **Engineering Notice for New Plymouth:** Envelope check: Wall Restoration assigned to wind-load band B with stress factor 0.89. Regional dispatch grid: Payette County.

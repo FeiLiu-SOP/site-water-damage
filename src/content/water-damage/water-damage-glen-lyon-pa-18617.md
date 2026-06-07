@@ -12,6 +12,7 @@ lng: -76.0800
 zipSample: ["18617"]
 zipCodes: ["18617"]
 localPaths: ["Luzerne County / ZIP 18617 sector", "Luzerne County / coords 41.1800, -76.0800", "Luzerne County / primary ZIP 18617", "Luzerne County / elevation 1079 ft band"]
+zillowHomeValueUsd: 115637
 ---
 
 **Engineering Notice for Glen Lyon:** structural drying capacity optimized for 1079ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Luzerne County. Relative Humidity Threshold: 78%. Sensor sync: Active.

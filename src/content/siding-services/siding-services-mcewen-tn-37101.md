@@ -12,6 +12,7 @@ lng: -87.6400
 zipSample: ["37101"]
 zipCodes: ["37101"]
 localPaths: ["Humphreys County / ZIP 37101 sector", "Humphreys County / coords 36.1100, -87.6400", "Humphreys County / primary ZIP 37101", "Humphreys County / elevation 843 ft band"]
+zillowHomeValueUsd: 278556
 ---
 
 **Engineering Notice for McEwen:** Structural integrity verification: Cladding Service calibrated for 93 mph localized wind load factor. Elevation: 843 ft AMSL. Regional dispatch grid: Humphreys County.

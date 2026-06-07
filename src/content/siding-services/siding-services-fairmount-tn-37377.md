@@ -12,6 +12,7 @@ lng: -85.3300
 zipSample: ["37377"]
 zipCodes: ["37377"]
 localPaths: ["Hamilton County / elevation 1939 ft band", "Hamilton County / ZIP 37377 sector", "Hamilton County / coords 35.1900, -85.3300", "Hamilton County / primary ZIP 37377"]
+zillowHomeValueUsd: 628075
 ---
 
 **Engineering Notice for Fairmount:** Envelope check: Weather Barrier Wrap assigned to wind-load band C with stress factor 1.13. Elevation: 1939 ft AMSL. Regional dispatch grid: Hamilton County.

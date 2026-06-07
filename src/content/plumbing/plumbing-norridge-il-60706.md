@@ -12,6 +12,7 @@ lng: -87.8200
 zipSample: ["60706"]
 zipCodes: ["60706"]
 localPaths: ["Cook County / ZIP 60706 sector", "Cook County / primary ZIP 60706", "Cook County / coords 41.9600, -87.8200", "Cook County / elevation 650 ft band"]
+zillowHomeValueUsd: 396761
 ---
 
 **Engineering Notice for Norridge:** Structural loading calculated based on 650 ft terrain assessment. Regional dispatch grid: Cook County.

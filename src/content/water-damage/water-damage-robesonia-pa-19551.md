@@ -12,6 +12,7 @@ lng: -76.1400
 zipSample: ["19551"]
 zipCodes: ["19551"]
 localPaths: ["Berks County / ZIP 19551 sector", "Berks County / elevation 436 ft band", "Berks County / coords 40.3500, -76.1400", "Berks County / primary ZIP 19551"]
+zillowHomeValueUsd: 329220
 ---
 
 **Engineering Notice for Robesonia:** structural drying capacity optimized for 436ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Berks County. Relative Humidity Threshold: 78%. Sensor sync: Active.

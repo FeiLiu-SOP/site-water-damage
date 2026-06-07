@@ -12,6 +12,7 @@ lng: -96.3600
 zipSample: ["68002"]
 zipCodes: ["68002"]
 localPaths: ["Washington County / primary ZIP 68002", "Washington County / ZIP 68002 sector", "Washington County / elevation 1220 ft band", "Washington County / coords 41.4500, -96.3600"]
+zillowHomeValueUsd: 372626
 ---
 
 **Engineering Notice for Arlington:** System optimized for 150 mg/L hard water scaling factors in Arlington. Regional dispatch grid: Washington County.

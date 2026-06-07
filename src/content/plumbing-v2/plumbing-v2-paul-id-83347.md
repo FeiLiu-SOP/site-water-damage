@@ -12,6 +12,7 @@ lng: -113.7800
 zipSample: ["83347"]
 zipCodes: ["83347"]
 localPaths: ["Minidoka County / ZIP 83347 sector", "Minidoka County / primary ZIP 83347", "Minidoka County / coords 42.6100, -113.7800", "Minidoka County / elevation 4150 ft band"]
+zillowHomeValueUsd: 347064
 ---
 
 **Engineering Notice for Paul:** System optimized for 153 mg/L hard water scaling factors in Paul. Regional dispatch grid: Minidoka County.

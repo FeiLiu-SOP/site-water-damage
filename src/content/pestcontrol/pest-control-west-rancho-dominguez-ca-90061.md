@@ -11,6 +11,7 @@ lng: -118.2700
 zipSample: ["90059", "90061", "90248", "90220"]
 zipCodes: ["90059", "90220", "90061", "90248"]
 localPaths: ["Los Angeles County / ZIP 90061 sector", "Los Angeles County / ZIP 90220 sector", "Los Angeles County / ZIP 90059 sector", "Los Angeles County / primary ZIP 90061", "Los Angeles County / coords 33.9100, -118.2700"]
+zillowHomeValueUsd: 633095
 ---
 
 **Engineering Notice for West Rancho Dominguez:** Structural loading calculated based on 131 ft terrain assessment. Regional dispatch grid: Los Angeles County.

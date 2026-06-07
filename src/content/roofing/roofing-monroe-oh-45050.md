@@ -11,6 +11,7 @@ lng: -84.3700
 zipSample: ["45036", "45044", "45050"]
 zipCodes: ["45050", "45044", "45036"]
 localPaths: ["Butler County / coords 39.4500, -84.3700", "Butler County / ZIP 45044 sector", "Butler County / primary ZIP 45050", "Butler County / elevation 830 ft band", "Butler County / ZIP 45036 sector"]
+zillowHomeValueUsd: 351654
 ---
 
 **Engineering Notice for Monroe:** Structural loading calculated based on 830 ft terrain assessment. Regional dispatch grid: Butler County.

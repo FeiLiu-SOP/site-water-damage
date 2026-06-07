@@ -12,6 +12,7 @@ lng: -80.2000
 zipSample: ["34996", "34958"]
 zipCodes: ["34996", "34958"]
 localPaths: ["Martin County / primary ZIP 34996", "Martin County / ZIP 34958 sector", "Martin County / ZIP 34996 sector", "Martin County / coords 27.2000, -80.2000", "Martin County / elevation 33 ft band"]
+zillowHomeValueUsd: 430790
 ---
 
 **Engineering Notice for Sewall's Point:** Site context locked to Martin County. Coordinates: 27.2000, -80.2000. Cladding Retrofit integrity verification recorded.

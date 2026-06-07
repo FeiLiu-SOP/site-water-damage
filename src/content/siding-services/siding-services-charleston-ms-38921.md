@@ -12,6 +12,7 @@ lng: -90.0600
 zipSample: ["38921"]
 zipCodes: ["38921"]
 localPaths: ["Tallahatchie County / coords 34.0100, -90.0600", "Tallahatchie County / ZIP 38921 sector", "Tallahatchie County / primary ZIP 38921", "Tallahatchie County / elevation 213 ft band"]
+zillowHomeValueUsd: 99974
 ---
 
 **Engineering Notice for Charleston:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 1.00. Regional dispatch grid: Tallahatchie County.

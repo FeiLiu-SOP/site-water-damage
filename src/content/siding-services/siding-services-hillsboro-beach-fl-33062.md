@@ -12,6 +12,7 @@ lng: -80.0800
 zipSample: ["33062"]
 zipCodes: ["33062"]
 localPaths: ["Broward County / coords 26.2800, -80.0800", "Broward County / primary ZIP 33062", "Broward County / elevation 33 ft band", "Broward County / ZIP 33062 sector"]
+zillowHomeValueUsd: 477167
 ---
 
 **Engineering Notice for Hillsboro Beach:** Site context locked to Broward County. Elevation: 33 ft AMSL. Exterior Envelope integrity verification recorded.

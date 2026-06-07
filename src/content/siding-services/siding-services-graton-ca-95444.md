@@ -12,6 +12,7 @@ lng: -122.8700
 zipSample: ["95444", "95472"]
 zipCodes: ["95472", "95444"]
 localPaths: ["Sonoma County / ZIP 95472 sector", "Sonoma County / primary ZIP 95444", "Sonoma County / ZIP 95444 sector", "Sonoma County / elevation 203 ft band", "Sonoma County / coords 38.4400, -122.8700"]
+zillowHomeValueUsd: 822598
 ---
 
 **Engineering Notice for Graton:** Site context locked to Sonoma County. Panel Replacement integrity verification recorded.

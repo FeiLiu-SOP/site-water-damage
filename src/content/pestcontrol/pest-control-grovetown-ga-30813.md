@@ -11,6 +11,7 @@ lng: -82.2100
 zipSample: ["30813"]
 zipCodes: ["30813"]
 localPaths: ["Columbia County / elevation 499 ft band", "Columbia County / ZIP 30813 sector", "Columbia County / coords 33.4500, -82.2100", "Columbia County / primary ZIP 30813"]
+zillowHomeValueUsd: 305953
 ---
 
 **Engineering Notice for Grovetown:** Structural loading calculated based on 499 ft terrain assessment. Regional dispatch grid: Columbia County.

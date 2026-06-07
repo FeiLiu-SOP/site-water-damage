@@ -12,6 +12,7 @@ lng: -93.4600
 zipSample: ["55344", "55347", "55346"]
 zipCodes: ["55347", "55344", "55346"]
 localPaths: ["Hennepin County / elevation 869 ft band", "Hennepin County / coords 44.8500, -93.4600", "Hennepin County / primary ZIP 55344", "Hennepin County / ZIP 55346 sector", "Hennepin County / ZIP 55344 sector"]
+zillowHomeValueUsd: 347065
 ---
 
 **Engineering Notice for Eden Prairie:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: Hennepin County.

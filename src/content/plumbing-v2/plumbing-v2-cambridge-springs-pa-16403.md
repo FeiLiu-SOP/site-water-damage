@@ -12,6 +12,7 @@ lng: -80.0600
 zipSample: ["16403"]
 zipCodes: ["16403"]
 localPaths: ["Crawford County / ZIP 16403 sector", "Crawford County / coords 41.8000, -80.0600", "Crawford County / elevation 1184 ft band", "Crawford County / primary ZIP 16403"]
+zillowHomeValueUsd: 181786
 ---
 
 **Engineering Notice for Cambridge Springs:** System optimized for 169 mg/L hard water scaling factors in Cambridge Springs. Regional dispatch grid: Crawford County.

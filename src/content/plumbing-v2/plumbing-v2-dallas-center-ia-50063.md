@@ -12,6 +12,7 @@ lng: -93.9800
 zipSample: ["50063"]
 zipCodes: ["50063"]
 localPaths: ["Dallas County / ZIP 50063 sector", "Dallas County / elevation 1063 ft band", "Dallas County / coords 41.6900, -93.9800", "Dallas County / primary ZIP 50063"]
+zillowHomeValueUsd: 326183
 ---
 
 **Engineering Notice for Dallas Center:** System optimized for 170 mg/L hard water scaling factors in Dallas Center. Regional dispatch grid: Dallas County.

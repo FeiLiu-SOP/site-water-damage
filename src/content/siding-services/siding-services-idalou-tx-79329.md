@@ -12,6 +12,7 @@ lng: -101.6800
 zipSample: ["79329"]
 zipCodes: ["79329"]
 localPaths: ["Lubbock County / primary ZIP 79329", "Lubbock County / elevation 3199 ft band", "Lubbock County / coords 33.6600, -101.6800", "Lubbock County / ZIP 79329 sector"]
+zillowHomeValueUsd: 252912
 ---
 
 **Engineering Notice for Idalou:** Structural integrity verification: Exterior Envelope calibrated for 148 mph localized wind load factor. Regional dispatch grid: Lubbock County.

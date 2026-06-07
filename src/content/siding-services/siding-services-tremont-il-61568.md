@@ -12,6 +12,7 @@ lng: -89.4900
 zipSample: ["61568"]
 zipCodes: ["61568"]
 localPaths: ["Tazewell County / ZIP 61568 sector", "Tazewell County / primary ZIP 61568", "Tazewell County / coords 40.5300, -89.4900", "Tazewell County / elevation 669 ft band"]
+zillowHomeValueUsd: 246630
 ---
 
 **Engineering Notice for Tremont:** Structural integrity verification: Weather Barrier Wrap calibrated for 92 mph localized wind load factor. Elevation: 669 ft AMSL. Coordinates: 40.5300, -89.4900. Regional dispatch grid: Tazewell County.

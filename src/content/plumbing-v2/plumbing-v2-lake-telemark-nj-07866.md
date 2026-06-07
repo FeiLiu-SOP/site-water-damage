@@ -12,6 +12,7 @@ lng: -74.5000
 zipSample: ["07866"]
 zipCodes: ["07866"]
 localPaths: ["Morris County / primary ZIP 07866", "Morris County / coords 40.9600, -74.5000", "Morris County / elevation 722 ft band", "Morris County / ZIP 07866 sector"]
+zillowHomeValueUsd: 563533
 ---
 
 **Engineering Notice for Lake Telemark:** System optimized for 169 mg/L hard water scaling factors in Lake Telemark. Regional dispatch grid: Morris County.

@@ -12,6 +12,7 @@ lng: -84.6500
 zipSample: ["41042", "41022"]
 zipCodes: ["41042", "41022"]
 localPaths: ["Boone County / ZIP 41042 sector", "Boone County / elevation 896 ft band", "Boone County / coords 38.9900, -84.6500", "Boone County / ZIP 41022 sector", "Boone County / primary ZIP 41042"]
+zillowHomeValueUsd: 275042
 ---
 
 **Engineering Notice for Florence:** Structural loading calculated based on 896 ft terrain assessment. Regional dispatch grid: Boone County.

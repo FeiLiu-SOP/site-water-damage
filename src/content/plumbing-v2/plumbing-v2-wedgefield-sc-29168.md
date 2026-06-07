@@ -12,6 +12,7 @@ lng: -80.5200
 zipSample: ["29168"]
 zipCodes: ["29168"]
 localPaths: ["Sumter County / coords 33.8800, -80.5200", "Sumter County / ZIP 29168 sector", "Sumter County / elevation 223 ft band", "Sumter County / primary ZIP 29168"]
+zillowHomeValueUsd: 182321
 ---
 
 **Engineering Notice for Wedgefield:** System optimized for 180 mg/L hard water scaling factors in Wedgefield. Regional dispatch grid: Sumter County.

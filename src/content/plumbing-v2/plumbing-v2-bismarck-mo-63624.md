@@ -12,6 +12,7 @@ lng: -90.6200
 zipSample: ["63624"]
 zipCodes: ["63624"]
 localPaths: ["St. Francois County / coords 37.7700, -90.6200", "St. Francois County / ZIP 63624 sector", "St. Francois County / elevation 1033 ft band", "St. Francois County / primary ZIP 63624"]
+zillowHomeValueUsd: 127998
 ---
 
 **Engineering Notice for Bismarck:** System optimized for 154 mg/L hard water scaling factors in Bismarck. Regional dispatch grid: St. Francois County.

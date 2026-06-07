@@ -12,6 +12,7 @@ lng: -78.5000
 zipSample: ["22851"]
 zipCodes: ["22851"]
 localPaths: ["Page County / coords 38.5800, -78.5000", "Page County / elevation 1079 ft band", "Page County / ZIP 22851 sector", "Page County / primary ZIP 22851"]
+zillowHomeValueUsd: 297103
 ---
 
 **Engineering Notice for Stanley:** System optimized for 128 mg/L hard water scaling factors in Stanley. Regional dispatch grid: Page County.

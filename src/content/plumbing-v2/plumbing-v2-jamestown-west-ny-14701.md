@@ -12,6 +12,7 @@ lng: -79.2800
 zipSample: ["14701"]
 zipCodes: ["14701"]
 localPaths: ["Chautauqua County / elevation 1499 ft band", "Chautauqua County / coords 42.0900, -79.2800", "Chautauqua County / primary ZIP 14701", "Chautauqua County / ZIP 14701 sector"]
+zillowHomeValueUsd: 117904
 ---
 
 **Engineering Notice for Jamestown West:** System optimized for 164 mg/L hard water scaling factors in Jamestown West. Regional dispatch grid: Chautauqua County.

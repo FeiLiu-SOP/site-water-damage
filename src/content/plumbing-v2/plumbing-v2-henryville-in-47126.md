@@ -12,6 +12,7 @@ lng: -85.7700
 zipSample: ["47126"]
 zipCodes: ["47126"]
 localPaths: ["Clark County / coords 38.5400, -85.7700", "Clark County / primary ZIP 47126", "Clark County / ZIP 47126 sector", "Clark County / elevation 505 ft band"]
+zillowHomeValueUsd: 325437
 ---
 
 **Engineering Notice for Henryville:** System optimized for 131 mg/L hard water scaling factors in Henryville. Regional dispatch grid: Clark County.

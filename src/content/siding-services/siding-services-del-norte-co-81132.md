@@ -12,6 +12,7 @@ lng: -106.3500
 zipSample: ["81132"]
 zipCodes: ["81132"]
 localPaths: ["Rio Grande County / primary ZIP 81132", "Rio Grande County / ZIP 81132 sector", "Rio Grande County / coords 37.6800, -106.3500", "Rio Grande County / elevation 7897 ft band"]
+zillowHomeValueUsd: 303258
 ---
 
 **Engineering Notice for Del Norte:** Envelope check: Panel Replacement assigned to wind-load band B with stress factor 0.75. Regional dispatch grid: Rio Grande County.

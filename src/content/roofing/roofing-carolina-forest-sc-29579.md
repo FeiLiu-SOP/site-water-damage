@@ -11,6 +11,7 @@ lng: -78.9100
 zipSample: ["29579"]
 zipCodes: ["29579"]
 localPaths: ["Horry County / ZIP 29579 sector", "Horry County / elevation 30 ft band", "Horry County / coords 33.7700, -78.9100", "Horry County / primary ZIP 29579"]
+zillowHomeValueUsd: 355014
 ---
 
 **Engineering Notice for Carolina Forest:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Horry County.

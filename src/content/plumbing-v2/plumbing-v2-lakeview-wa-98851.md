@@ -12,6 +12,7 @@ lng: -119.5000
 zipSample: ["98851"]
 zipCodes: ["98851"]
 localPaths: ["Grant County / ZIP 98851 sector", "Grant County / primary ZIP 98851", "Grant County / elevation 1207 ft band", "Grant County / coords 47.3800, -119.5000"]
+zillowHomeValueUsd: 300456
 ---
 
 **Engineering Notice for Lakeview:** System optimized for 140 mg/L hard water scaling factors in Lakeview. Regional dispatch grid: Grant County.

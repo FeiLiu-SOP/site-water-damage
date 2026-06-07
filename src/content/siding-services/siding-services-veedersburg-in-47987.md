@@ -12,6 +12,7 @@ lng: -87.2600
 zipSample: ["47987"]
 zipCodes: ["47987"]
 localPaths: ["Fountain County / elevation 587 ft band", "Fountain County / ZIP 47987 sector", "Fountain County / coords 40.1100, -87.2600", "Fountain County / primary ZIP 47987"]
+zillowHomeValueUsd: 196181
 ---
 
 **Engineering Notice for Veedersburg:** Cladding Retrofit was validated under stress factor 0.81; target tolerance set near 100 mph. Grid anchor: Fountain County.

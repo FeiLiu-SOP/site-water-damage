@@ -12,6 +12,7 @@ lng: -89.8600
 zipSample: ["61483"]
 zipCodes: ["61483"]
 localPaths: ["Stark County / coords 41.0900, -89.8600", "Stark County / elevation 741 ft band", "Stark County / ZIP 61483 sector", "Stark County / primary ZIP 61483"]
+zillowHomeValueUsd: 141110
 ---
 
 **Engineering Notice for Toulon:** structural drying capacity optimized for 741ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stark County. Relative Humidity Threshold: 81%. Sensor sync: Active.

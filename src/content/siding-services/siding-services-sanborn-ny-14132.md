@@ -12,6 +12,7 @@ lng: -78.8800
 zipSample: ["14132"]
 zipCodes: ["14132"]
 localPaths: ["Niagara County / elevation 633 ft band", "Niagara County / ZIP 14132 sector", "Niagara County / coords 43.1500, -78.8800", "Niagara County / primary ZIP 14132"]
+zillowHomeValueUsd: 313610
 ---
 
 **Engineering Notice for Sanborn:** Cladding verification uses 94 mph routing baseline; lateral pressure note: 12.5 psf. Coordinates: 43.1500, -78.8800. Grid: Niagara County.

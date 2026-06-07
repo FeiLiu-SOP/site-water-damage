@@ -11,6 +11,7 @@ lng: -88.0900
 zipSample: ["60172"]
 zipCodes: ["60172"]
 localPaths: ["DuPage County / coords 41.9800, -88.0900", "DuPage County / primary ZIP 60172", "DuPage County / ZIP 60172 sector", "DuPage County / elevation 794 ft band"]
+zillowHomeValueUsd: 374417
 ---
 
 **Engineering Notice for Roselle:** Structural loading calculated based on 794 ft terrain assessment. Regional dispatch grid: DuPage County.

@@ -12,6 +12,7 @@ lng: -107.2300
 zipSample: ["87935"]
 zipCodes: ["87935"]
 localPaths: ["Sierra County / elevation 4491 ft band", "Sierra County / primary ZIP 87935", "Sierra County / coords 33.1800, -107.2300", "Sierra County / ZIP 87935 sector"]
+zillowHomeValueUsd: 237655
 ---
 
 **Engineering Notice for Elephant Butte:** structural drying capacity optimized for 4491ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sierra County. Relative Humidity Threshold: 74%. Sensor sync: Active.

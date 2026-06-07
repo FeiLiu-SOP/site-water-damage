@@ -12,6 +12,7 @@ lng: -89.2300
 zipSample: ["61723"]
 zipCodes: ["61723"]
 localPaths: ["Logan County / coords 40.2600, -89.2300", "Logan County / elevation 719 ft band", "Logan County / ZIP 61723 sector", "Logan County / primary ZIP 61723"]
+zillowHomeValueUsd: 160663
 ---
 
 **Engineering Notice for Atlanta:** System optimized for 151 mg/L hard water scaling factors in Atlanta. Regional dispatch grid: Logan County.

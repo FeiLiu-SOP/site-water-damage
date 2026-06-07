@@ -12,6 +12,7 @@ lng: -118.0000
 zipSample: ["90622", "90624", "90620", "90621"]
 zipCodes: ["90621", "90622", "90620", "90624"]
 localPaths: ["Orange County / primary ZIP 90621", "Orange County / ZIP 90624 sector", "Orange County / ZIP 90620 sector", "Orange County / ZIP 90621 sector", "Orange County / elevation 79 ft band"]
+zillowHomeValueUsd: 896224
 ---
 
 **Engineering Notice for Buena Park:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Orange County.

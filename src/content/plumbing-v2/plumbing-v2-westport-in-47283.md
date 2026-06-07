@@ -12,6 +12,7 @@ lng: -85.5700
 zipSample: ["47283"]
 zipCodes: ["47283"]
 localPaths: ["Decatur County / primary ZIP 47283", "Decatur County / ZIP 47283 sector", "Decatur County / coords 39.1800, -85.5700", "Decatur County / elevation 801 ft band"]
+zillowHomeValueUsd: 238249
 ---
 
 **Engineering Notice for Westport:** System optimized for 129 mg/L hard water scaling factors in Westport. Regional dispatch grid: Decatur County.

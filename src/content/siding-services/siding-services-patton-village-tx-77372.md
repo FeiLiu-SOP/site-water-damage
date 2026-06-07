@@ -12,6 +12,7 @@ lng: -95.1600
 zipSample: ["77372", "77357"]
 zipCodes: ["77372", "77357"]
 localPaths: ["Montgomery County / primary ZIP 77372", "Montgomery County / ZIP 77372 sector", "Montgomery County / coords 30.2000, -95.1600", "Montgomery County / elevation 112 ft band", "Montgomery County / ZIP 77357 sector"]
+zillowHomeValueUsd: 240800
 ---
 
 **Engineering Notice for Patton Village:** Structural integrity verification: Cladding Service calibrated for 132 mph localized wind load factor. Elevation: 112 ft AMSL. Coordinates: 30.2000, -95.1600. Regional dispatch grid: Montgomery County.

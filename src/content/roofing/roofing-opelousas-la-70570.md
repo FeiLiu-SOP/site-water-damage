@@ -11,6 +11,7 @@ lng: -92.0800
 zipSample: ["70571", "70570"]
 zipCodes: ["70570", "70571"]
 localPaths: ["St. Landry Parish / primary ZIP 70570", "St. Landry Parish / coords 30.5300, -92.0800", "St. Landry Parish / elevation 72 ft band", "St. Landry Parish / ZIP 70570 sector", "St. Landry Parish / ZIP 70571 sector"]
+zillowHomeValueUsd: 122667
 ---
 
 **Engineering Notice for Opelousas:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: St. Landry Parish.

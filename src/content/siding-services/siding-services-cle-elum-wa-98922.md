@@ -12,6 +12,7 @@ lng: -120.9500
 zipSample: ["98922"]
 zipCodes: ["98922"]
 localPaths: ["Kittitas County / primary ZIP 98922", "Kittitas County / coords 47.1900, -120.9500", "Kittitas County / ZIP 98922 sector", "Kittitas County / elevation 2014 ft band"]
+zillowHomeValueUsd: 613707
 ---
 
 **Engineering Notice for Cle Elum:** Structural integrity verification: Exterior Envelope calibrated for 94 mph localized wind load factor. Elevation: 2014 ft AMSL. Coordinates: 47.1900, -120.9500. Regional dispatch grid: Kittitas County.

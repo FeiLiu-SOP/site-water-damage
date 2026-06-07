@@ -11,6 +11,7 @@ lng: -123.8100
 zipSample: ["98520"]
 zipCodes: ["98520"]
 localPaths: ["Grays Harbor County / elevation 7 ft band", "Grays Harbor County / primary ZIP 98520", "Grays Harbor County / coords 46.9800, -123.8100", "Grays Harbor County / ZIP 98520 sector"]
+zillowHomeValueUsd: 272300
 ---
 
 **Engineering Notice for Aberdeen:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Grays Harbor County.

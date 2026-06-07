@@ -11,6 +11,7 @@ lng: -81.4300
 zipSample: ["32779", "32752", "32791"]
 zipCodes: ["32791", "32779", "32752"]
 localPaths: ["Seminole County / coords 28.7000, -81.4300", "Seminole County / elevation 79 ft band", "Seminole County / ZIP 32779 sector", "Seminole County / primary ZIP 32779", "Seminole County / ZIP 32791 sector"]
+zillowHomeValueUsd: 536779
 ---
 
 **Engineering Notice for Wekiwa Springs:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Seminole County.

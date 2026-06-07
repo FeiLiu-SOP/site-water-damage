@@ -11,6 +11,7 @@ lng: -75.3400
 zipSample: ["19401", "19409", "19404", "19415"]
 zipCodes: ["19404", "19409", "19415", "19401"]
 localPaths: ["Montgomery County / elevation 141 ft band", "Montgomery County / coords 40.1200, -75.3400", "Montgomery County / ZIP 19409 sector", "Montgomery County / ZIP 19415 sector", "Montgomery County / ZIP 19401 sector"]
+zillowHomeValueUsd: 267657
 ---
 
 **Engineering Notice for Norristown:** Structural loading calculated based on 141 ft terrain assessment. Regional dispatch grid: Montgomery County.

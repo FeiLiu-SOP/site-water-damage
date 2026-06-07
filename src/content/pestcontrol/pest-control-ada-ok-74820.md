@@ -11,6 +11,7 @@ lng: -96.6700
 zipSample: ["74821", "74820"]
 zipCodes: ["74820", "74821"]
 localPaths: ["Pontotoc County / elevation 1010 ft band", "Pontotoc County / coords 34.7700, -96.6700", "Pontotoc County / ZIP 74821 sector", "Pontotoc County / ZIP 74820 sector", "Pontotoc County / primary ZIP 74820"]
+zillowHomeValueUsd: 184108
 ---
 
 **Engineering Notice for Ada:** Structural loading calculated based on 1010 ft terrain assessment. Regional dispatch grid: Pontotoc County.

@@ -11,6 +11,7 @@ lng: -87.6900
 zipSample: ["60208", "60204", "60201", "60202"]
 zipCodes: ["60201", "60202", "60204", "60208"]
 localPaths: ["Cook County / coords 42.0500, -87.6900", "Cook County / ZIP 60208 sector", "Cook County / ZIP 60202 sector", "Cook County / primary ZIP 60201", "Cook County / elevation 614 ft band"]
+zillowHomeValueUsd: 556346
 ---
 
 **Engineering Notice for Evanston:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Cook County.

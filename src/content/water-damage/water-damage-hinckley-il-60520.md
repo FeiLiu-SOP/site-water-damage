@@ -12,6 +12,7 @@ lng: -88.6400
 zipSample: ["60520"]
 zipCodes: ["60520"]
 localPaths: ["DeKalb County / elevation 764 ft band", "DeKalb County / ZIP 60520 sector", "DeKalb County / coords 41.7700, -88.6400", "DeKalb County / primary ZIP 60520"]
+zillowHomeValueUsd: 331309
 ---
 
 **Engineering Notice for Hinckley:** structural drying capacity optimized for 764ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: DeKalb County. Relative Humidity Threshold: 79%. Sensor sync: Active.

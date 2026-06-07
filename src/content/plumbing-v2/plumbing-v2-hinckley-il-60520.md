@@ -12,6 +12,7 @@ lng: -88.6400
 zipSample: ["60520"]
 zipCodes: ["60520"]
 localPaths: ["DeKalb County / coords 41.7700, -88.6400", "DeKalb County / ZIP 60520 sector", "DeKalb County / elevation 764 ft band", "DeKalb County / primary ZIP 60520"]
+zillowHomeValueUsd: 331307
 ---
 
 **Engineering Notice for Hinckley:** System optimized for 143 mg/L hard water scaling factors in Hinckley. Regional dispatch grid: DeKalb County.

@@ -12,6 +12,7 @@ lng: -96.0600
 zipSample: ["77485"]
 zipCodes: ["77485"]
 localPaths: ["Austin County / ZIP 77485 sector", "Austin County / elevation 138 ft band", "Austin County / coords 29.6300, -96.0600", "Austin County / primary ZIP 77485"]
+zillowHomeValueUsd: 328745
 ---
 
 **Engineering Notice for Wallis:** Site context locked to Austin County. Elevation: 138 ft AMSL. Coordinates: 29.6300, -96.0600. Panel Replacement integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -97.5300
 zipSample: ["68767"]
 zipCodes: ["68767"]
 localPaths: ["Pierce County / elevation 1588 ft band", "Pierce County / primary ZIP 68767", "Pierce County / coords 42.2000, -97.5300", "Pierce County / ZIP 68767 sector"]
+zillowHomeValueUsd: 286121
 ---
 
 **Engineering Notice for Pierce:** structural drying capacity optimized for 1588ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pierce County. Relative Humidity Threshold: 67%. Sensor sync: Active.

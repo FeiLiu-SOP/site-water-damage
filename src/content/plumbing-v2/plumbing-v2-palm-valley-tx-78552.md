@@ -12,6 +12,7 @@ lng: -97.7500
 zipSample: ["78552"]
 zipCodes: ["78552"]
 localPaths: ["Cameron County / primary ZIP 78552", "Cameron County / coords 26.2000, -97.7500", "Cameron County / elevation 52 ft band", "Cameron County / ZIP 78552 sector"]
+zillowHomeValueUsd: 224055
 ---
 
 **Engineering Notice for Palm Valley:** System optimized for 164 mg/L hard water scaling factors in Palm Valley. Regional dispatch grid: Cameron County.

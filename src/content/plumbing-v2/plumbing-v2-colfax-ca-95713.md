@@ -12,6 +12,7 @@ lng: -120.9500
 zipSample: ["95713"]
 zipCodes: ["95713"]
 localPaths: ["Placer County / elevation 2385 ft band", "Placer County / coords 39.0900, -120.9500", "Placer County / primary ZIP 95713", "Placer County / ZIP 95713 sector"]
+zillowHomeValueUsd: 506048
 ---
 
 **Engineering Notice for Colfax:** System optimized for 122 mg/L hard water scaling factors in Colfax. Regional dispatch grid: Placer County.

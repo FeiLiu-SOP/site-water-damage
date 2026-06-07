@@ -12,6 +12,7 @@ lng: -76.0500
 zipSample: ["21620"]
 zipCodes: ["21620"]
 localPaths: ["Queen Anne's County / coords 39.2000, -76.0500", "Queen Anne's County / primary ZIP 21620", "Queen Anne's County / ZIP 21620 sector", "Queen Anne's County / elevation 16 ft band"]
+zillowHomeValueUsd: 390156
 ---
 
 **Engineering Notice for Kingstown:** Envelope check: Vinyl Panels assigned to wind-load band A with stress factor 0.82. Elevation: 16 ft AMSL. Regional dispatch grid: Queen Anne's County.

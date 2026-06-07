@@ -12,6 +12,7 @@ lng: -89.2600
 zipSample: ["54521"]
 zipCodes: ["54521"]
 localPaths: ["Vilas County / coords 45.9200, -89.2600", "Vilas County / ZIP 54521 sector", "Vilas County / elevation 1644 ft band", "Vilas County / primary ZIP 54521"]
+zillowHomeValueUsd: 375112
 ---
 
 **Engineering Notice for Eagle River:** System optimized for 168 mg/L hard water scaling factors in Eagle River. Regional dispatch grid: Vilas County.

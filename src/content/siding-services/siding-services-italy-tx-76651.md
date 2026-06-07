@@ -12,6 +12,7 @@ lng: -96.8900
 zipSample: ["76651"]
 zipCodes: ["76651"]
 localPaths: ["Ellis County / elevation 564 ft band", "Ellis County / ZIP 76651 sector", "Ellis County / primary ZIP 76651", "Ellis County / coords 32.1900, -96.8900"]
+zillowHomeValueUsd: 254825
 ---
 
 **Engineering Notice for Italy:** Site context locked to Ellis County. Elevation: 564 ft AMSL. Coordinates: 32.1900, -96.8900. Facade Renewal integrity verification recorded.

@@ -11,6 +11,7 @@ lng: -117.3900
 zipSample: ["92377", "92376", "92316"]
 zipCodes: ["92376", "92316", "92377"]
 localPaths: ["San Bernardino County / primary ZIP 92316", "San Bernardino County / coords 34.1200, -117.3900", "San Bernardino County / elevation 1342 ft band", "San Bernardino County / ZIP 92376 sector", "San Bernardino County / ZIP 92316 sector"]
+zillowHomeValueUsd: 564844
 ---
 
 **Engineering Notice for Rialto:** Structural loading calculated based on 1342 ft terrain assessment. Regional dispatch grid: San Bernardino County.

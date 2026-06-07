@@ -12,6 +12,7 @@ lng: -85.8700
 zipSample: ["35901"]
 zipCodes: ["35901"]
 localPaths: ["Etowah County / elevation 607 ft band", "Etowah County / primary ZIP 35901", "Etowah County / ZIP 35901 sector", "Etowah County / coords 34.0800, -85.8700"]
+zillowHomeValueUsd: 158235
 ---
 
 **Engineering Notice for Coats Bend:** Surface Sheathing was validated under stress factor 1.07; target tolerance set near 110 mph. Grid anchor: Etowah County.

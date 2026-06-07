@@ -12,6 +12,7 @@ lng: -101.6400
 zipSample: ["69033"]
 zipCodes: ["69033"]
 localPaths: ["Chase County / primary ZIP 69033", "Chase County / elevation 3284 ft band", "Chase County / ZIP 69033 sector", "Chase County / coords 40.5100, -101.6400"]
+zillowHomeValueUsd: 230942
 ---
 
 **Engineering Notice for Imperial:** Panel Replacement was validated under stress factor 1.17; target tolerance set near 106 mph. Coordinates: 40.5100, -101.6400. Grid anchor: Chase County.

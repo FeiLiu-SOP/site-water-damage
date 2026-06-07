@@ -12,6 +12,7 @@ lng: -101.7900
 zipSample: ["79373"]
 zipCodes: ["79373"]
 localPaths: ["Lynn County / primary ZIP 79373", "Lynn County / ZIP 79373 sector", "Lynn County / elevation 3094 ft band", "Lynn County / coords 33.1600, -101.7900"]
+zillowHomeValueUsd: 167906
 ---
 
 **Engineering Notice for Tahoka:** System optimized for 160 mg/L hard water scaling factors in Tahoka. Regional dispatch grid: Lynn County.

@@ -12,6 +12,7 @@ lng: -84.3900
 zipSample: ["45236", "45242"]
 zipCodes: ["45242", "45236"]
 localPaths: ["Hamilton County / ZIP 45242 sector", "Hamilton County / coords 39.2200, -84.3900", "Hamilton County / elevation 837 ft band", "Hamilton County / primary ZIP 45242", "Hamilton County / ZIP 45236 sector"]
+zillowHomeValueUsd: 548133
 ---
 
 **Engineering Notice for Rossmoyne:** System optimized for 146 mg/L hard water scaling factors in Rossmoyne. Regional dispatch grid: Hamilton County.

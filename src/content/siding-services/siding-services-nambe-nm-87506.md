@@ -12,6 +12,7 @@ lng: -105.9700
 zipSample: ["87506"]
 zipCodes: ["87506"]
 localPaths: ["Santa Fe County / coords 35.9000, -105.9700", "Santa Fe County / elevation 6122 ft band", "Santa Fe County / primary ZIP 87506", "Santa Fe County / ZIP 87506 sector"]
+zillowHomeValueUsd: 1093177
 ---
 
 **Engineering Notice for Nambe:** Site context locked to Santa Fe County. Elevation: 6122 ft AMSL. Coordinates: 35.9000, -105.9700. Exterior Envelope integrity verification recorded.

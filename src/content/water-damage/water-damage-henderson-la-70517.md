@@ -12,6 +12,7 @@ lng: -91.8100
 zipSample: ["70517"]
 zipCodes: ["70517"]
 localPaths: ["St. Martin Parish / ZIP 70517 sector", "St. Martin Parish / elevation 23 ft band", "St. Martin Parish / coords 30.3200, -91.8100", "St. Martin Parish / primary ZIP 70517"]
+zillowHomeValueUsd: 176304
 ---
 
 **Engineering Notice for Henderson:** structural drying capacity optimized for 23ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Martin Parish. Relative Humidity Threshold: 66%. Sensor sync: Active.

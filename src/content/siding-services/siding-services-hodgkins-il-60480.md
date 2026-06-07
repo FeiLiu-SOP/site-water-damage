@@ -12,6 +12,7 @@ lng: -87.8600
 zipSample: ["60480", "60525"]
 zipCodes: ["60480", "60525"]
 localPaths: ["Cook County / ZIP 60480 sector", "Cook County / elevation 610 ft band", "Cook County / ZIP 60525 sector", "Cook County / coords 41.7700, -87.8600", "Cook County / primary ZIP 60480"]
+zillowHomeValueUsd: 377121
 ---
 
 **Engineering Notice for Hodgkins:** Envelope check: Exterior Envelope assigned to wind-load band A with stress factor 1.21. Elevation: 610 ft AMSL. Regional dispatch grid: Cook County.

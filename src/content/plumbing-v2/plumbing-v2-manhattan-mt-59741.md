@@ -12,6 +12,7 @@ lng: -111.3300
 zipSample: ["59741"]
 zipCodes: ["59741"]
 localPaths: ["Gallatin County / primary ZIP 59741", "Gallatin County / elevation 4232 ft band", "Gallatin County / coords 45.8600, -111.3300", "Gallatin County / ZIP 59741 sector"]
+zillowHomeValueUsd: 661804
 ---
 
 **Engineering Notice for Manhattan:** System optimized for 124 mg/L hard water scaling factors in Manhattan. Regional dispatch grid: Gallatin County.

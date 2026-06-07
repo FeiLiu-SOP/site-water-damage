@@ -12,6 +12,7 @@ lng: -118.0600
 zipSample: ["99141"]
 zipCodes: ["99141"]
 localPaths: ["Stevens County / ZIP 99141 sector", "Stevens County / primary ZIP 99141", "Stevens County / elevation 1617 ft band", "Stevens County / coords 48.6100, -118.0600"]
+zillowHomeValueUsd: 331486
 ---
 
 **Engineering Notice for Kettle Falls:** structural drying capacity optimized for 1617ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stevens County. Relative Humidity Threshold: 82%. Sensor sync: Active.

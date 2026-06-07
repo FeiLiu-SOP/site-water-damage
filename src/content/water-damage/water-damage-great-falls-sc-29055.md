@@ -12,6 +12,7 @@ lng: -80.9000
 zipSample: ["29055"]
 zipCodes: ["29055"]
 localPaths: ["Chester County / elevation 420 ft band", "Chester County / primary ZIP 29055", "Chester County / coords 34.5800, -80.9000", "Chester County / ZIP 29055 sector"]
+zillowHomeValueUsd: 143419
 ---
 
 **Engineering Notice for Great Falls:** structural drying capacity optimized for 420ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chester County. Relative Humidity Threshold: 69%. Sensor sync: Active.

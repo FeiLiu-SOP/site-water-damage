@@ -12,6 +12,7 @@ lng: -85.5200
 zipSample: ["49316"]
 zipCodes: ["49316"]
 localPaths: ["Kent County / primary ZIP 49316", "Kent County / elevation 791 ft band", "Kent County / coords 42.7900, -85.5200", "Kent County / ZIP 49316 sector"]
+zillowHomeValueUsd: 434930
 ---
 
 **Engineering Notice for Caledonia:** System optimized for 135 mg/L hard water scaling factors in Caledonia. Regional dispatch grid: Kent County.

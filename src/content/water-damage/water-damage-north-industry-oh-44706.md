@@ -12,6 +12,7 @@ lng: -81.3700
 zipSample: ["44707", "44706"]
 zipCodes: ["44706", "44707"]
 localPaths: ["Stark County / coords 40.7400, -81.3700", "Stark County / ZIP 44707 sector", "Stark County / elevation 1060 ft band", "Stark County / primary ZIP 44706", "Stark County / ZIP 44706 sector"]
+zillowHomeValueUsd: 156787
 ---
 
 **Engineering Notice for North Industry:** structural drying capacity optimized for 1060ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stark County. Relative Humidity Threshold: 67%. Sensor sync: Active.

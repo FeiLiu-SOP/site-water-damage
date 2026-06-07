@@ -12,6 +12,7 @@ lng: -75.4000
 zipSample: ["19061"]
 zipCodes: ["19061"]
 localPaths: ["Delaware County / elevation 46 ft band", "Delaware County / coords 39.8200, -75.4000", "Delaware County / ZIP 19061 sector", "Delaware County / primary ZIP 19061"]
+zillowHomeValueUsd: 275761
 ---
 
 **Engineering Notice for Trainer:** System optimized for 142 mg/L hard water scaling factors in Trainer. Regional dispatch grid: Delaware County.

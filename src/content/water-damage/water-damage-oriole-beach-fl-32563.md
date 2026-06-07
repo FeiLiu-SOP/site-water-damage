@@ -12,6 +12,7 @@ lng: -87.1000
 zipSample: ["32563"]
 zipCodes: ["32563"]
 localPaths: ["Santa Rosa County / primary ZIP 32563", "Santa Rosa County / coords 30.3700, -87.1000", "Santa Rosa County / elevation 0 ft band", "Santa Rosa County / ZIP 32563 sector"]
+zillowHomeValueUsd: 400926
 ---
 
 **Engineering Notice for Oriole Beach:** structural drying capacity optimized for 0ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Santa Rosa County. Relative Humidity Threshold: 76%. Sensor sync: Active.

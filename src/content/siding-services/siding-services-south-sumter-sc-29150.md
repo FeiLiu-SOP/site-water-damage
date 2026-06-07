@@ -12,6 +12,7 @@ lng: -80.3400
 zipSample: ["29150"]
 zipCodes: ["29150"]
 localPaths: ["Sumter County / coords 33.8900, -80.3400", "Sumter County / primary ZIP 29150", "Sumter County / elevation 164 ft band", "Sumter County / ZIP 29150 sector"]
+zillowHomeValueUsd: 187796
 ---
 
 **Engineering Notice for South Sumter:** Envelope check: Cladding Service assigned to wind-load band A with stress factor 1.07. Regional dispatch grid: Sumter County.

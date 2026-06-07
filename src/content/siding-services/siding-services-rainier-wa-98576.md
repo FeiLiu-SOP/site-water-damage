@@ -12,6 +12,7 @@ lng: -122.6900
 zipSample: ["98576"]
 zipCodes: ["98576"]
 localPaths: ["Thurston County / primary ZIP 98576", "Thurston County / coords 46.8900, -122.6900", "Thurston County / elevation 436 ft band", "Thurston County / ZIP 98576 sector"]
+zillowHomeValueUsd: 519677
 ---
 
 **Engineering Notice for Rainier:** Envelope check: Cladding Service assigned to wind-load band C with stress factor 0.74. Regional dispatch grid: Thurston County.

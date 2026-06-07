@@ -11,6 +11,7 @@ lng: -80.2600
 zipSample: ["27109", "27107", "27127", "27150", "27040"]
 zipCodes: ["27198", "27130", "27115", "27120", "27127", "27114", "27106", "27116", "27150", "27102", "27117", "27110"]
 localPaths: ["Forsyth County / ZIP 27109 sector", "Forsyth County / coords 36.1000, -80.2600", "Forsyth County / elevation 801 ft band", "Forsyth County / ZIP 27107 sector", "Forsyth County / ZIP 27150 sector"]
+zillowHomeValueUsd: 243949
 ---
 
 **Engineering Notice for Winston-Salem:** Structural loading calculated based on 801 ft terrain assessment. Regional dispatch grid: Forsyth County.

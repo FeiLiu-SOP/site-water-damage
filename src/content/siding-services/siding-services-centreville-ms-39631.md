@@ -12,6 +12,7 @@ lng: -91.0700
 zipSample: ["39631"]
 zipCodes: ["39631"]
 localPaths: ["Wilkinson County / elevation 384 ft band", "Wilkinson County / ZIP 39631 sector", "Wilkinson County / coords 31.0900, -91.0700", "Wilkinson County / primary ZIP 39631"]
+zillowHomeValueUsd: 116911
 ---
 
 **Engineering Notice for Centreville:** Surface Sheathing was validated under stress factor 0.93; target tolerance set near 92 mph. Grid anchor: Wilkinson County.

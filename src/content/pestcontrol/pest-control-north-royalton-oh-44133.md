@@ -11,6 +11,7 @@ lng: -81.7500
 zipSample: ["44133"]
 zipCodes: ["44133"]
 localPaths: ["Cuyahoga County / elevation 1037 ft band", "Cuyahoga County / ZIP 44133 sector", "Cuyahoga County / primary ZIP 44133", "Cuyahoga County / coords 41.3100, -81.7500"]
+zillowHomeValueUsd: 335137
 ---
 
 **Engineering Notice for North Royalton:** Structural loading calculated based on 1037 ft terrain assessment. Regional dispatch grid: Cuyahoga County.

@@ -12,6 +12,7 @@ lng: -82.4400
 zipSample: ["25570"]
 zipCodes: ["25570"]
 localPaths: ["Wayne County / primary ZIP 25570", "Wayne County / elevation 600 ft band", "Wayne County / ZIP 25570 sector", "Wayne County / coords 38.2300, -82.4400"]
+zillowHomeValueUsd: 130088
 ---
 
 **Engineering Notice for Wayne:** structural drying capacity optimized for 600ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wayne County. Relative Humidity Threshold: 66%. Sensor sync: Active.

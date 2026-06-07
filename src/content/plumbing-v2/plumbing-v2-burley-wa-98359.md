@@ -12,6 +12,7 @@ lng: -122.6400
 zipSample: ["98359", "98322", "98367"]
 zipCodes: ["98359", "98322", "98367"]
 localPaths: ["Kitsap County / ZIP 98322 sector", "Kitsap County / elevation 108 ft band", "Kitsap County / ZIP 98359 sector", "Kitsap County / ZIP 98367 sector", "Kitsap County / coords 47.4200, -122.6400"]
+zillowHomeValueUsd: 721829
 ---
 
 **Engineering Notice for Burley:** System optimized for 157 mg/L hard water scaling factors in Burley. Regional dispatch grid: Kitsap County.

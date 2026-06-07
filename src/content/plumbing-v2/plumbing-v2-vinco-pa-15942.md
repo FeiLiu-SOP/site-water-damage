@@ -12,6 +12,7 @@ lng: -78.8400
 zipSample: ["15942", "15909"]
 zipCodes: ["15942", "15909"]
 localPaths: ["Cambria County / coords 40.4100, -78.8400", "Cambria County / primary ZIP 15942", "Cambria County / ZIP 15909 sector", "Cambria County / elevation 1857 ft band", "Cambria County / ZIP 15942 sector"]
+zillowHomeValueUsd: 136130
 ---
 
 **Engineering Notice for Vinco:** System optimized for 122 mg/L hard water scaling factors in Vinco. Regional dispatch grid: Cambria County.

@@ -12,6 +12,7 @@ lng: -72.7000
 zipSample: ["06002"]
 zipCodes: ["06002"]
 localPaths: ["Capitol County / elevation 161 ft band", "Capitol County / coords 41.8100, -72.7000", "Capitol County / primary ZIP 06002", "Capitol County / ZIP 06002 sector"]
+zillowHomeValueUsd: 355159
 ---
 
 **Engineering Notice for Blue Hills:** Site context locked to Capitol County. Elevation: 161 ft AMSL. Weather Barrier Wrap integrity verification recorded.

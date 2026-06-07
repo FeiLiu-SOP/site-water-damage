@@ -12,6 +12,7 @@ lng: -90.0000
 zipSample: ["61531"]
 zipCodes: ["61531"]
 localPaths: ["Fulton County / elevation 741 ft band", "Fulton County / primary ZIP 61531", "Fulton County / coords 40.7000, -90.0000", "Fulton County / ZIP 61531 sector"]
+zillowHomeValueUsd: 113591
 ---
 
 **Engineering Notice for Farmington:** Cladding verification uses 106 mph routing baseline; lateral pressure note: 13.9 psf. Elevation: 741 ft AMSL. Grid: Fulton County.

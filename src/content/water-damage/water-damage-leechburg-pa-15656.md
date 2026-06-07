@@ -12,6 +12,7 @@ lng: -79.6000
 zipSample: ["15656"]
 zipCodes: ["15656"]
 localPaths: ["Armstrong County / ZIP 15656 sector", "Armstrong County / elevation 909 ft band", "Armstrong County / coords 40.6300, -79.6000", "Armstrong County / primary ZIP 15656"]
+zillowHomeValueUsd: 162353
 ---
 
 **Engineering Notice for Leechburg:** structural drying capacity optimized for 909ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Armstrong County. Relative Humidity Threshold: 78%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -78.4400
 zipSample: ["16749"]
 zipCodes: ["16749"]
 localPaths: ["McKean County / ZIP 16749 sector", "McKean County / coords 41.8100, -78.4400", "McKean County / primary ZIP 16749", "McKean County / elevation 1476 ft band"]
+zillowHomeValueUsd: 126331
 ---
 
 **Engineering Notice for Smethport:** System optimized for 123 mg/L hard water scaling factors in Smethport. Regional dispatch grid: McKean County.

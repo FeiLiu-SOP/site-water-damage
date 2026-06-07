@@ -12,6 +12,7 @@ lng: -76.3500
 zipSample: ["23707", "23703", "23705", "23708", "23701"]
 zipCodes: ["23702", "23709", "23701", "23708", "23704", "23703", "23707", "23705"]
 localPaths: ["Portsmouth County / coords 36.8500, -76.3500", "Portsmouth County / ZIP 23708 sector", "Portsmouth County / ZIP 23701 sector", "Portsmouth County / ZIP 23705 sector", "Portsmouth County / ZIP 23707 sector"]
+zillowHomeValueUsd: 315704
 ---
 
 **Engineering Notice for Portsmouth:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Portsmouth County.

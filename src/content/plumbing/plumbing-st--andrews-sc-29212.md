@@ -12,6 +12,7 @@ lng: -81.1100
 zipSample: ["29212", "29210", "29221"]
 zipCodes: ["29210", "29212", "29221"]
 localPaths: ["Richland County / ZIP 29212 sector", "Richland County / coords 34.0500, -81.1100", "Richland County / primary ZIP 29212", "Richland County / ZIP 29210 sector", "Richland County / ZIP 29221 sector"]
+zillowHomeValueUsd: 277883
 ---
 
 **Engineering Notice for St. Andrews:** Structural loading calculated based on 305 ft terrain assessment. Regional dispatch grid: Richland County.

@@ -11,6 +11,7 @@ lng: -117.1200
 zipSample: ["91932", "91933"]
 zipCodes: ["91933", "91932"]
 localPaths: ["San Diego County / ZIP 91932 sector", "San Diego County / coords 32.5700, -117.1200", "San Diego County / primary ZIP 91932", "San Diego County / elevation 26 ft band", "San Diego County / ZIP 91933 sector"]
+zillowHomeValueUsd: 842119
 ---
 
 **Engineering Notice for Imperial Beach:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: San Diego County.

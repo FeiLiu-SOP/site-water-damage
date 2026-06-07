@@ -12,6 +12,7 @@ lng: -122.1400
 zipSample: ["98058"]
 zipCodes: ["98058"]
 localPaths: ["King County / ZIP 98058 sector", "King County / elevation 509 ft band", "King County / primary ZIP 98058", "King County / coords 47.4500, -122.1400"]
+zillowHomeValueUsd: 742743
 ---
 
 **Engineering Notice for Fairwood:** Structural loading calculated based on 509 ft terrain assessment. Regional dispatch grid: King County.

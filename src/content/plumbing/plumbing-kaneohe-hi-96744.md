@@ -12,6 +12,7 @@ lng: -157.7900
 zipSample: ["96744"]
 zipCodes: ["96744"]
 localPaths: ["Honolulu County / ZIP 96744 sector", "Honolulu County / primary ZIP 96744", "Honolulu County / coords 21.4100, -157.7900", "Honolulu County / elevation 56 ft band"]
+zillowHomeValueUsd: 1090300
 ---
 
 **Engineering Notice for Kaneohe:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Honolulu County.

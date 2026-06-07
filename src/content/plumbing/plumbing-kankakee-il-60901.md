@@ -12,6 +12,7 @@ lng: -87.8600
 zipSample: ["60901"]
 zipCodes: ["60901"]
 localPaths: ["Kankakee County / elevation 633 ft band", "Kankakee County / primary ZIP 60901", "Kankakee County / coords 41.1000, -87.8600", "Kankakee County / ZIP 60901 sector"]
+zillowHomeValueUsd: 154687
 ---
 
 **Engineering Notice for Kankakee:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Kankakee County.

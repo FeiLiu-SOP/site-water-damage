@@ -12,6 +12,7 @@ lng: -88.3900
 zipSample: ["38310"]
 zipCodes: ["38310"]
 localPaths: ["McNairy County / elevation 495 ft band", "McNairy County / coords 35.2600, -88.3900", "McNairy County / ZIP 38310 sector", "McNairy County / primary ZIP 38310"]
+zillowHomeValueUsd: 184206
 ---
 
 **Engineering Notice for Adamsville:** Panel Replacement was validated under stress factor 0.97; target tolerance set near 94 mph. Coordinates: 35.2600, -88.3900. Grid anchor: McNairy County.

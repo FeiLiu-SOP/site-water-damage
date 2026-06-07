@@ -12,6 +12,7 @@ lng: -96.7600
 zipSample: ["75459", "75058", "76271"]
 zipCodes: ["76271", "75459", "75058"]
 localPaths: ["Grayson County / elevation 686 ft band", "Grayson County / coords 33.4600, -96.7600", "Grayson County / primary ZIP 76271", "Grayson County / ZIP 75058 sector", "Grayson County / ZIP 76271 sector"]
+zillowHomeValueUsd: 385695
 ---
 
 **Engineering Notice for Gunter:** System optimized for 178 mg/L hard water scaling factors in Gunter. Regional dispatch grid: Grayson County.

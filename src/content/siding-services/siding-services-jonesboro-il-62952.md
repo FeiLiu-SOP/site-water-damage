@@ -12,6 +12,7 @@ lng: -89.2700
 zipSample: ["62952"]
 zipCodes: ["62952"]
 localPaths: ["Union County / elevation 535 ft band", "Union County / primary ZIP 62952", "Union County / ZIP 62952 sector", "Union County / coords 37.4500, -89.2700"]
+zillowHomeValueUsd: 134131
 ---
 
 **Engineering Notice for Jonesboro:** Exterior Envelope was validated under stress factor 0.92; target tolerance set near 100 mph. Grid anchor: Union County.

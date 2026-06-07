@@ -11,6 +11,7 @@ lng: -121.3400
 zipSample: ["93960"]
 zipCodes: ["93960"]
 localPaths: ["Monterey County / primary ZIP 93960", "Monterey County / elevation 174 ft band", "Monterey County / ZIP 93960 sector", "Monterey County / coords 36.4400, -121.3400"]
+zillowHomeValueUsd: 631389
 ---
 
 **Engineering Notice for Soledad:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Monterey County.

@@ -11,6 +11,7 @@ lng: -82.4400
 zipSample: ["48061", "48060"]
 zipCodes: ["48060", "48061"]
 localPaths: ["St. Clair County / ZIP 48060 sector", "St. Clair County / ZIP 48061 sector", "St. Clair County / elevation 597 ft band", "St. Clair County / primary ZIP 48060", "St. Clair County / coords 42.9800, -82.4400"]
+zillowHomeValueUsd: 170075
 ---
 
 **Engineering Notice for Port Huron:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: St. Clair County.

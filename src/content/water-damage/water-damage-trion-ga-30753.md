@@ -12,6 +12,7 @@ lng: -85.3100
 zipSample: ["30753"]
 zipCodes: ["30753"]
 localPaths: ["Chattooga County / elevation 676 ft band", "Chattooga County / ZIP 30753 sector", "Chattooga County / primary ZIP 30753", "Chattooga County / coords 34.5500, -85.3100"]
+zillowHomeValueUsd: 151246
 ---
 
 **Engineering Notice for Trion:** structural drying capacity optimized for 676ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chattooga County. Relative Humidity Threshold: 71%. Sensor sync: Active.

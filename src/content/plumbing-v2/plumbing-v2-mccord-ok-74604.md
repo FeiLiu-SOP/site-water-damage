@@ -12,6 +12,7 @@ lng: -97.0300
 zipSample: ["74604"]
 zipCodes: ["74604"]
 localPaths: ["Osage County / elevation 1079 ft band", "Osage County / coords 36.6800, -97.0300", "Osage County / primary ZIP 74604", "Osage County / ZIP 74604 sector"]
+zillowHomeValueUsd: 217008
 ---
 
 **Engineering Notice for McCord:** System optimized for 167 mg/L hard water scaling factors in McCord. Regional dispatch grid: Osage County.

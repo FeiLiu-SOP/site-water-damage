@@ -12,6 +12,7 @@ lng: -91.2100
 zipSample: ["70339"]
 zipCodes: ["70339"]
 localPaths: ["Assumption Parish / primary ZIP 70339", "Assumption Parish / coords 29.9600, -91.2100", "Assumption Parish / elevation 36 ft band", "Assumption Parish / ZIP 70339 sector"]
+zillowHomeValueUsd: 205206
 ---
 
 **Engineering Notice for Pierre Part:** System optimized for 159 mg/L hard water scaling factors in Pierre Part. Regional dispatch grid: Assumption Parish.

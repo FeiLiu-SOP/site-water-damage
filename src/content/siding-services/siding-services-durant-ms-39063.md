@@ -12,6 +12,7 @@ lng: -89.8600
 zipSample: ["39063"]
 zipCodes: ["39063"]
 localPaths: ["Holmes County / elevation 276 ft band", "Holmes County / coords 33.0800, -89.8600", "Holmes County / primary ZIP 39063", "Holmes County / ZIP 39063 sector"]
+zillowHomeValueUsd: 60716
 ---
 
 **Engineering Notice for Durant:** Structural integrity verification: Panel Replacement calibrated for 100 mph localized wind load factor. Elevation: 276 ft AMSL. Regional dispatch grid: Holmes County.

@@ -12,6 +12,7 @@ lng: -78.1800
 zipSample: ["14020"]
 zipCodes: ["14020"]
 localPaths: ["Genesee County / primary ZIP 14020", "Genesee County / elevation 906 ft band", "Genesee County / ZIP 14020 sector", "Genesee County / coords 43.0000, -78.1800"]
+zillowHomeValueUsd: 197651
 ---
 
 **Engineering Notice for Batavia:** Structural loading calculated based on 906 ft terrain assessment. Regional dispatch grid: Genesee County.

@@ -12,6 +12,7 @@ lng: -95.9800
 zipSample: ["56264"]
 zipCodes: ["56264"]
 localPaths: ["Lyon County / primary ZIP 56264", "Lyon County / elevation 1168 ft band", "Lyon County / coords 44.5600, -95.9800", "Lyon County / ZIP 56264 sector"]
+zillowHomeValueUsd: 187421
 ---
 
 **Engineering Notice for Minneota:** System optimized for 130 mg/L hard water scaling factors in Minneota. Regional dispatch grid: Lyon County.

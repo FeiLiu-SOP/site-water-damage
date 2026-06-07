@@ -11,6 +11,7 @@ lng: -73.3200
 zipSample: ["11731", "11768"]
 zipCodes: ["11768", "11731"]
 localPaths: ["Suffolk County / coords 40.8800, -73.3200", "Suffolk County / primary ZIP 11768", "Suffolk County / ZIP 11731 sector", "Suffolk County / ZIP 11768 sector", "Suffolk County / elevation 243 ft band"]
+zillowHomeValueUsd: 945751
 ---
 
 **Engineering Notice for East Northport:** Structural loading calculated based on 243 ft terrain assessment. Regional dispatch grid: Suffolk County.

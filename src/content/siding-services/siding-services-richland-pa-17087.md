@@ -12,6 +12,7 @@ lng: -76.2600
 zipSample: ["17087"]
 zipCodes: ["17087"]
 localPaths: ["Lebanon County / ZIP 17087 sector", "Lebanon County / elevation 499 ft band", "Lebanon County / primary ZIP 17087", "Lebanon County / coords 40.3600, -76.2600"]
+zillowHomeValueUsd: 302116
 ---
 
 **Engineering Notice for Richland:** Envelope check: Exterior Cladding assigned to wind-load band C with stress factor 0.83. Elevation: 499 ft AMSL. Regional dispatch grid: Lebanon County.

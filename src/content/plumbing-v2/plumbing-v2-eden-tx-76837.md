@@ -12,6 +12,7 @@ lng: -99.8400
 zipSample: ["76837"]
 zipCodes: ["76837"]
 localPaths: ["Concho County / ZIP 76837 sector", "Concho County / coords 31.2200, -99.8400", "Concho County / primary ZIP 76837", "Concho County / elevation 2051 ft band"]
+zillowHomeValueUsd: 127383
 ---
 
 **Engineering Notice for Eden:** System optimized for 137 mg/L hard water scaling factors in Eden. Regional dispatch grid: Concho County.

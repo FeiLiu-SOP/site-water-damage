@@ -12,6 +12,7 @@ lng: -89.5100
 zipSample: ["61523", "61562"]
 zipCodes: ["61562", "61523"]
 localPaths: ["Peoria County / coords 40.8800, -89.5100", "Peoria County / primary ZIP 61523", "Peoria County / ZIP 61562 sector", "Peoria County / ZIP 61523 sector", "Peoria County / elevation 486 ft band"]
+zillowHomeValueUsd: 178757
 ---
 
 **Engineering Notice for Rome:** System optimized for 141 mg/L hard water scaling factors in Rome. Regional dispatch grid: Peoria County.

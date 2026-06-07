@@ -12,6 +12,7 @@ lng: -111.3400
 zipSample: ["59730", "59716"]
 zipCodes: ["59716", "59730"]
 localPaths: ["Gallatin County / ZIP 59716 sector", "Gallatin County / coords 45.2600, -111.3400", "Gallatin County / primary ZIP 59730", "Gallatin County / ZIP 59730 sector", "Gallatin County / elevation 6942 ft band"]
+zillowHomeValueUsd: 1365073
 ---
 
 **Engineering Notice for Big Sky:** System optimized for 144 mg/L hard water scaling factors in Big Sky. Regional dispatch grid: Gallatin County.

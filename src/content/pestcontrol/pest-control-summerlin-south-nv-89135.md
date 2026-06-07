@@ -11,6 +11,7 @@ lng: -115.3300
 zipSample: ["89135"]
 zipCodes: ["89135"]
 localPaths: ["Clark County / elevation 2887 ft band", "Clark County / primary ZIP 89135", "Clark County / ZIP 89135 sector", "Clark County / coords 36.1200, -115.3300"]
+zillowHomeValueUsd: 720082
 ---
 
 **Engineering Notice for Summerlin South:** Structural loading calculated based on 2887 ft terrain assessment. Regional dispatch grid: Clark County.

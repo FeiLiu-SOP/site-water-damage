@@ -12,6 +12,7 @@ lng: -86.2000
 zipSample: ["35135", "35125"]
 zipCodes: ["35135", "35125"]
 localPaths: ["St. Clair County / ZIP 35125 sector", "St. Clair County / primary ZIP 35135", "St. Clair County / elevation 528 ft band", "St. Clair County / coords 33.6200, -86.2000", "St. Clair County / ZIP 35135 sector"]
+zillowHomeValueUsd: 305058
 ---
 
 **Engineering Notice for Riverside:** structural drying capacity optimized for 528ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Clair County. Relative Humidity Threshold: 75%. Sensor sync: Active.

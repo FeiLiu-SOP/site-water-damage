@@ -12,6 +12,7 @@ lng: -102.3000
 zipSample: ["80734"]
 zipCodes: ["80734"]
 localPaths: ["Phillips County / primary ZIP 80734", "Phillips County / elevation 3747 ft band", "Phillips County / coords 40.5800, -102.3000", "Phillips County / ZIP 80734 sector"]
+zillowHomeValueUsd: 260679
 ---
 
 **Engineering Notice for Holyoke:** System optimized for 138 mg/L hard water scaling factors in Holyoke. Regional dispatch grid: Phillips County.

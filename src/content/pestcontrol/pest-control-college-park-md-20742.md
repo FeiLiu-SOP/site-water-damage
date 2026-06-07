@@ -11,6 +11,7 @@ lng: -76.9300
 zipSample: ["20740", "20741", "20742"]
 zipCodes: ["20741", "20740", "20742"]
 localPaths: ["Prince George's County / ZIP 20740 sector", "Prince George's County / coords 39.0000, -76.9300", "Prince George's County / ZIP 20742 sector", "Prince George's County / primary ZIP 20742", "Prince George's County / ZIP 20741 sector"]
+zillowHomeValueUsd: 438681
 ---
 
 **Engineering Notice for College Park:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Prince George's County.

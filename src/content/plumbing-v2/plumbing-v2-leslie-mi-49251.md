@@ -12,6 +12,7 @@ lng: -84.4300
 zipSample: ["49251"]
 zipCodes: ["49251"]
 localPaths: ["Ingham County / ZIP 49251 sector", "Ingham County / primary ZIP 49251", "Ingham County / elevation 945 ft band", "Ingham County / coords 42.4500, -84.4300"]
+zillowHomeValueUsd: 235585
 ---
 
 **Engineering Notice for Leslie:** System optimized for 163 mg/L hard water scaling factors in Leslie. Regional dispatch grid: Ingham County.

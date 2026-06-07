@@ -12,6 +12,7 @@ lng: -92.8500
 zipSample: ["70648"]
 zipCodes: ["70648"]
 localPaths: ["Allen Parish / coords 30.4800, -92.8500", "Allen Parish / ZIP 70648 sector", "Allen Parish / elevation 59 ft band", "Allen Parish / primary ZIP 70648"]
+zillowHomeValueUsd: 139291
 ---
 
 **Engineering Notice for Kinder:** System optimized for 178 mg/L hard water scaling factors in Kinder. Regional dispatch grid: Allen Parish.

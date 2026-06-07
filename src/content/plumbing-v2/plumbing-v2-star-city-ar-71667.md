@@ -12,6 +12,7 @@ lng: -91.8400
 zipSample: ["71667"]
 zipCodes: ["71667"]
 localPaths: ["Lincoln County / coords 33.9400, -91.8400", "Lincoln County / elevation 289 ft band", "Lincoln County / ZIP 71667 sector", "Lincoln County / primary ZIP 71667"]
+zillowHomeValueUsd: 138505
 ---
 
 **Engineering Notice for Star City:** System optimized for 177 mg/L hard water scaling factors in Star City. Regional dispatch grid: Lincoln County.

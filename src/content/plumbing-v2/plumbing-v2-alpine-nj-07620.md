@@ -12,6 +12,7 @@ lng: -73.9200
 zipSample: ["07620"]
 zipCodes: ["07620"]
 localPaths: ["Bergen County / ZIP 07620 sector", "Bergen County / elevation 541 ft band", "Bergen County / coords 40.9600, -73.9200", "Bergen County / primary ZIP 07620"]
+zillowHomeValueUsd: 3050600
 ---
 
 **Engineering Notice for Alpine:** System optimized for 135 mg/L hard water scaling factors in Alpine. Regional dispatch grid: Bergen County.

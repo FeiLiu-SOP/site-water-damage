@@ -12,6 +12,7 @@ lng: -84.8500
 zipSample: ["47040"]
 zipCodes: ["47040"]
 localPaths: ["Ohio County / ZIP 47040 sector", "Ohio County / elevation 509 ft band", "Ohio County / primary ZIP 47040", "Ohio County / coords 38.9500, -84.8500"]
+zillowHomeValueUsd: 259267
 ---
 
 **Engineering Notice for Rising Sun:** structural drying capacity optimized for 509ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ohio County. Relative Humidity Threshold: 68%. Sensor sync: Active.

@@ -11,6 +11,7 @@ lng: -119.0300
 zipSample: ["93257"]
 zipCodes: ["93257"]
 localPaths: ["Tulare County / primary ZIP 93257", "Tulare County / coords 36.0600, -119.0300", "Tulare County / ZIP 93257 sector", "Tulare County / elevation 449 ft band"]
+zillowHomeValueUsd: 326647
 ---
 
 **Engineering Notice for Porterville:** Structural loading calculated based on 449 ft terrain assessment. Regional dispatch grid: Tulare County.

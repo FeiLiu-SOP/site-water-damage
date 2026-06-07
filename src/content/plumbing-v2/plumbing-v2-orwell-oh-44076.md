@@ -12,6 +12,7 @@ lng: -80.8600
 zipSample: ["44076"]
 zipCodes: ["44076"]
 localPaths: ["Ashtabula County / elevation 922 ft band", "Ashtabula County / primary ZIP 44076", "Ashtabula County / coords 41.5400, -80.8600", "Ashtabula County / ZIP 44076 sector"]
+zillowHomeValueUsd: 227214
 ---
 
 **Engineering Notice for Orwell:** System optimized for 129 mg/L hard water scaling factors in Orwell. Regional dispatch grid: Ashtabula County.

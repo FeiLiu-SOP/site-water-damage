@@ -12,6 +12,7 @@ lng: -88.2900
 zipSample: ["60110"]
 zipCodes: ["60110"]
 localPaths: ["Kane County / primary ZIP 60110", "Kane County / ZIP 60110 sector", "Kane County / coords 42.1200, -88.2900", "Kane County / elevation 722 ft band"]
+zillowHomeValueUsd: 284286
 ---
 
 **Engineering Notice for Carpentersville:** Structural loading calculated based on 722 ft terrain assessment. Regional dispatch grid: Kane County.

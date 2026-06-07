@@ -12,6 +12,7 @@ lng: -91.7200
 zipSample: ["63445"]
 zipCodes: ["63445"]
 localPaths: ["Clark County / primary ZIP 63445", "Clark County / ZIP 63445 sector", "Clark County / elevation 699 ft band", "Clark County / coords 40.4200, -91.7200"]
+zillowHomeValueUsd: 168608
 ---
 
 **Engineering Notice for Kahoka:** Site context locked to Clark County. Panel Replacement integrity verification recorded.

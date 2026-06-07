@@ -12,6 +12,7 @@ lng: -85.8200
 zipSample: ["47151", "47150"]
 zipCodes: ["47150", "47151"]
 localPaths: ["Floyd County / ZIP 47151 sector", "Floyd County / coords 38.3100, -85.8200", "Floyd County / ZIP 47150 sector", "Floyd County / elevation 482 ft band", "Floyd County / primary ZIP 47150"]
+zillowHomeValueUsd: 232483
 ---
 
 **Engineering Notice for New Albany:** Structural loading calculated based on 482 ft terrain assessment. Regional dispatch grid: Floyd County.

@@ -12,6 +12,7 @@ lng: -100.4100
 zipSample: ["78832"]
 zipCodes: ["78832"]
 localPaths: ["Kinney County / elevation 1142 ft band", "Kinney County / primary ZIP 78832", "Kinney County / coords 29.3200, -100.4100", "Kinney County / ZIP 78832 sector"]
+zillowHomeValueUsd: 123296
 ---
 
 **Engineering Notice for Brackettville:** System optimized for 156 mg/L hard water scaling factors in Brackettville. Regional dispatch grid: Kinney County.

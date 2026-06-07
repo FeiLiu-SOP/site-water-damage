@@ -12,6 +12,7 @@ lng: -151.7100
 zipSample: ["99556"]
 zipCodes: ["99556"]
 localPaths: ["Kenai Peninsula County / ZIP 99556 sector", "Kenai Peninsula County / coords 59.7700, -151.7100", "Kenai Peninsula County / primary ZIP 99556", "Kenai Peninsula County / elevation 364 ft band"]
+zillowHomeValueUsd: 251742
 ---
 
 **Engineering Notice for Anchor Point:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 0.93. Elevation: 364 ft AMSL. Regional dispatch grid: Kenai Peninsula County.

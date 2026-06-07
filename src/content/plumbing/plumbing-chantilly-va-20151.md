@@ -12,6 +12,7 @@ lng: -77.4500
 zipSample: ["20153", "20151"]
 zipCodes: ["20153", "20151"]
 localPaths: ["Fairfax County / ZIP 20153 sector", "Fairfax County / coords 38.8900, -77.4500", "Fairfax County / elevation 285 ft band", "Fairfax County / primary ZIP 20151", "Fairfax County / ZIP 20151 sector"]
+zillowHomeValueUsd: 763404
 ---
 
 **Engineering Notice for Chantilly:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Fairfax County.

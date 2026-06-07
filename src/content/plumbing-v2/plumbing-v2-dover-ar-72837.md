@@ -12,6 +12,7 @@ lng: -93.1100
 zipSample: ["72837"]
 zipCodes: ["72837"]
 localPaths: ["Pope County / elevation 420 ft band", "Pope County / coords 35.3900, -93.1100", "Pope County / primary ZIP 72837", "Pope County / ZIP 72837 sector"]
+zillowHomeValueUsd: 216354
 ---
 
 **Engineering Notice for Dover:** System optimized for 168 mg/L hard water scaling factors in Dover. Regional dispatch grid: Pope County.

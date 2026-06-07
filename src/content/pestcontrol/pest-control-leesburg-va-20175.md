@@ -11,6 +11,7 @@ lng: -77.5500
 zipSample: ["20175", "20176", "20178", "20177"]
 zipCodes: ["20178", "20175", "20176", "20177"]
 localPaths: ["Loudoun County / ZIP 20177 sector", "Loudoun County / coords 39.1100, -77.5500", "Loudoun County / ZIP 20178 sector", "Loudoun County / ZIP 20175 sector", "Loudoun County / elevation 289 ft band"]
+zillowHomeValueUsd: 840022
 ---
 
 **Engineering Notice for Leesburg:** Structural loading calculated based on 289 ft terrain assessment. Regional dispatch grid: Loudoun County.

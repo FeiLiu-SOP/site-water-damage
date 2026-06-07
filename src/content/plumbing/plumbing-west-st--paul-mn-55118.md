@@ -12,6 +12,7 @@ lng: -93.0900
 zipSample: ["55118"]
 zipCodes: ["55118"]
 localPaths: ["Dakota County / coords 44.9000, -93.0900", "Dakota County / elevation 1033 ft band", "Dakota County / ZIP 55118 sector", "Dakota County / primary ZIP 55118"]
+zillowHomeValueUsd: 364254
 ---
 
 **Engineering Notice for West St. Paul:** Structural loading calculated based on 1033 ft terrain assessment. Regional dispatch grid: Dakota County.

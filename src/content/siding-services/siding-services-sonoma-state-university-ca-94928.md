@@ -12,6 +12,7 @@ lng: -122.6700
 zipSample: ["94928"]
 zipCodes: ["94928"]
 localPaths: ["Sonoma County / elevation 161 ft band", "Sonoma County / primary ZIP 94928", "Sonoma County / ZIP 94928 sector", "Sonoma County / coords 38.3400, -122.6700"]
+zillowHomeValueUsd: 713089
 ---
 
 **Engineering Notice for Sonoma State University:** Envelope check: Exterior Envelope assigned to wind-load band A with stress factor 1.02. Elevation: 161 ft AMSL. Regional dispatch grid: Sonoma County.

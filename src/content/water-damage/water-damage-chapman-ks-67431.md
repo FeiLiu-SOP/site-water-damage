@@ -12,6 +12,7 @@ lng: -97.0200
 zipSample: ["67431"]
 zipCodes: ["67431"]
 localPaths: ["Dickinson County / elevation 1135 ft band", "Dickinson County / ZIP 67431 sector", "Dickinson County / primary ZIP 67431", "Dickinson County / coords 38.9700, -97.0200"]
+zillowHomeValueUsd: 242898
 ---
 
 **Engineering Notice for Chapman:** structural drying capacity optimized for 1135ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dickinson County. Relative Humidity Threshold: 77%. Sensor sync: Active.

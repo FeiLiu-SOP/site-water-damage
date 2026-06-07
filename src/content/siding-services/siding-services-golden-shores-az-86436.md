@@ -12,6 +12,7 @@ lng: -114.4800
 zipSample: ["86436"]
 zipCodes: ["86436"]
 localPaths: ["Mohave County / ZIP 86436 sector", "Mohave County / primary ZIP 86436", "Mohave County / elevation 679 ft band", "Mohave County / coords 34.7800, -114.4800"]
+zillowHomeValueUsd: 268118
 ---
 
 **Engineering Notice for Golden Shores:** Structural integrity verification: Vinyl Panels calibrated for 104 mph localized wind load factor. Elevation: 679 ft AMSL. Coordinates: 34.7800, -114.4800. Regional dispatch grid: Mohave County.

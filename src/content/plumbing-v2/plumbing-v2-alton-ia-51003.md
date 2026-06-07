@@ -12,6 +12,7 @@ lng: -96.0100
 zipSample: ["51003"]
 zipCodes: ["51003"]
 localPaths: ["Sioux County / elevation 1306 ft band", "Sioux County / ZIP 51003 sector", "Sioux County / coords 42.9900, -96.0100", "Sioux County / primary ZIP 51003"]
+zillowHomeValueUsd: 299263
 ---
 
 **Engineering Notice for Alton:** System optimized for 177 mg/L hard water scaling factors in Alton. Regional dispatch grid: Sioux County.

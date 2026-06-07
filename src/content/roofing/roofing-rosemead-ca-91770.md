@@ -11,6 +11,7 @@ lng: -118.0800
 zipSample: ["91771", "91770", "91772"]
 zipCodes: ["91771", "91772", "91770"]
 localPaths: ["Los Angeles County / ZIP 91772 sector", "Los Angeles County / elevation 285 ft band", "Los Angeles County / primary ZIP 91770", "Los Angeles County / ZIP 91770 sector", "Los Angeles County / ZIP 91771 sector"]
+zillowHomeValueUsd: 912833
 ---
 
 **Engineering Notice for Rosemead:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Los Angeles County.

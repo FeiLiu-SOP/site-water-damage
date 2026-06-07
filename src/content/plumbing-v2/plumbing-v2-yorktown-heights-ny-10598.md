@@ -12,6 +12,7 @@ lng: -73.7800
 zipSample: ["10598"]
 zipCodes: ["10598"]
 localPaths: ["Westchester County / elevation 509 ft band", "Westchester County / coords 41.2700, -73.7800", "Westchester County / primary ZIP 10598", "Westchester County / ZIP 10598 sector"]
+zillowHomeValueUsd: 700225
 ---
 
 **Engineering Notice for Yorktown Heights:** System optimized for 142 mg/L hard water scaling factors in Yorktown Heights. Regional dispatch grid: Westchester County.

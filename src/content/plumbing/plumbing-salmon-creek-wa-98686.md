@@ -12,6 +12,7 @@ lng: -122.6600
 zipSample: ["98686", "98685"]
 zipCodes: ["98685", "98686"]
 localPaths: ["Clark County / primary ZIP 98686", "Clark County / ZIP 98686 sector", "Clark County / elevation 92 ft band", "Clark County / coords 45.7100, -122.6600", "Clark County / ZIP 98685 sector"]
+zillowHomeValueUsd: 590618
 ---
 
 **Engineering Notice for Salmon Creek:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Clark County.

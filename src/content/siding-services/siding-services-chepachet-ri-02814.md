@@ -12,6 +12,7 @@ lng: -71.6700
 zipSample: ["02814"]
 zipCodes: ["02814"]
 localPaths: ["Providence County / primary ZIP 02814", "Providence County / ZIP 02814 sector", "Providence County / coords 41.9100, -71.6700", "Providence County / elevation 479 ft band"]
+zillowHomeValueUsd: 490023
 ---
 
 **Engineering Notice for Chepachet:** Site context locked to Providence County. Elevation: 479 ft AMSL. Coordinates: 41.9100, -71.6700. Panel Replacement integrity verification recorded.

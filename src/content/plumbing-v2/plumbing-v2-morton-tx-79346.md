@@ -12,6 +12,7 @@ lng: -102.7600
 zipSample: ["79346"]
 zipCodes: ["79346"]
 localPaths: ["Cochran County / ZIP 79346 sector", "Cochran County / coords 33.7200, -102.7600", "Cochran County / elevation 3766 ft band", "Cochran County / primary ZIP 79346"]
+zillowHomeValueUsd: 49539
 ---
 
 **Engineering Notice for Morton:** System optimized for 143 mg/L hard water scaling factors in Morton. Regional dispatch grid: Cochran County.

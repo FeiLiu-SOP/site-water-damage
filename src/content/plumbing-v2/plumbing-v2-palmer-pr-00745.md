@@ -12,6 +12,8 @@ lng: -65.7700
 zipSample: ["00721", "00745"]
 zipCodes: ["00745", "00721"]
 localPaths: ["Río Grande County / primary ZIP 00745", "Río Grande County / coords 18.3700, -65.7700", "Río Grande County / ZIP 00721 sector", "Río Grande County / elevation 52 ft band", "Río Grande County / ZIP 00745 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 382344
 ---
 
 **Engineering Notice for Palmer:** System optimized for 147 mg/L hard water scaling factors in Palmer. Regional dispatch grid: Río Grande County.

@@ -12,6 +12,7 @@ lng: -85.9400
 zipSample: ["47119", "47124"]
 zipCodes: ["47119", "47124"]
 localPaths: ["Floyd County / coords 38.3500, -85.9400", "Floyd County / ZIP 47119 sector", "Floyd County / ZIP 47124 sector", "Floyd County / elevation 837 ft band", "Floyd County / primary ZIP 47124"]
+zillowHomeValueUsd: 342939
 ---
 
 **Engineering Notice for Galena:** structural drying capacity optimized for 837ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Floyd County. Relative Humidity Threshold: 78%. Sensor sync: Active.

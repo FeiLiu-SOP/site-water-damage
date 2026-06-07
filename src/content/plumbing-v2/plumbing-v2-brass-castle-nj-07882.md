@@ -12,6 +12,7 @@ lng: -75.0100
 zipSample: ["07882"]
 zipCodes: ["07882"]
 localPaths: ["Warren County / ZIP 07882 sector", "Warren County / primary ZIP 07882", "Warren County / elevation 515 ft band", "Warren County / coords 40.7600, -75.0100"]
+zillowHomeValueUsd: 412057
 ---
 
 **Engineering Notice for Brass Castle:** System optimized for 129 mg/L hard water scaling factors in Brass Castle. Regional dispatch grid: Warren County.

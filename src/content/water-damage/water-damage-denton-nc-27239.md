@@ -12,6 +12,7 @@ lng: -80.1100
 zipSample: ["27239"]
 zipCodes: ["27239"]
 localPaths: ["Davidson County / coords 35.6400, -80.1100", "Davidson County / ZIP 27239 sector", "Davidson County / primary ZIP 27239", "Davidson County / elevation 715 ft band"]
+zillowHomeValueUsd: 266777
 ---
 
 **Engineering Notice for Denton:** structural drying capacity optimized for 715ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Davidson County. Relative Humidity Threshold: 82%. Sensor sync: Active.

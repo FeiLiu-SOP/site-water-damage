@@ -12,6 +12,7 @@ lng: -100.2100
 zipSample: ["79095"]
 zipCodes: ["79095"]
 localPaths: ["Collingsworth County / ZIP 79095 sector", "Collingsworth County / coords 34.8500, -100.2100", "Collingsworth County / primary ZIP 79095", "Collingsworth County / elevation 2041 ft band"]
+zillowHomeValueUsd: 83266
 ---
 
 **Engineering Notice for Wellington:** Cladding Service was validated under stress factor 0.76; target tolerance set near 143 mph. Grid anchor: Collingsworth County.

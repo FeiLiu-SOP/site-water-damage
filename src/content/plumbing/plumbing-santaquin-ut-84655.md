@@ -12,6 +12,7 @@ lng: -111.7900
 zipSample: ["84655"]
 zipCodes: ["84655"]
 localPaths: ["Utah County / ZIP 84655 sector", "Utah County / elevation 4997 ft band", "Utah County / primary ZIP 84655", "Utah County / coords 39.9700, -111.7900"]
+zillowHomeValueUsd: 500644
 ---
 
 **Engineering Notice for Santaquin:** Structural loading calculated based on 4997 ft terrain assessment. Regional dispatch grid: Utah County.

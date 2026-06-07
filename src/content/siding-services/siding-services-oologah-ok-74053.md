@@ -12,6 +12,7 @@ lng: -95.7100
 zipSample: ["74053"]
 zipCodes: ["74053"]
 localPaths: ["Rogers County / ZIP 74053 sector", "Rogers County / elevation 653 ft band", "Rogers County / primary ZIP 74053", "Rogers County / coords 36.4400, -95.7100"]
+zillowHomeValueUsd: 293832
 ---
 
 **Engineering Notice for Oologah:** Site context locked to Rogers County. Coordinates: 36.4400, -95.7100. Vinyl Panels integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -111.6700
 zipSample: ["85263"]
 zipCodes: ["85263"]
 localPaths: ["Maricopa County / primary ZIP 85263", "Maricopa County / coords 33.7300, -111.6700", "Maricopa County / ZIP 85263 sector", "Maricopa County / elevation 1608 ft band"]
+zillowHomeValueUsd: 841909
 ---
 
 **Engineering Notice for Rio Verde:** Site context locked to Maricopa County. Elevation: 1608 ft AMSL. Coordinates: 33.7300, -111.6700. Facade Renewal integrity verification recorded.

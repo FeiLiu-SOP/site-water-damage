@@ -12,6 +12,7 @@ lng: -74.5800
 zipSample: ["08873"]
 zipCodes: ["08873"]
 localPaths: ["Somerset County / coords 40.5200, -74.5800", "Somerset County / elevation 92 ft band", "Somerset County / primary ZIP 08873", "Somerset County / ZIP 08873 sector"]
+zillowHomeValueUsd: 567150
 ---
 
 **Engineering Notice for Weston:** Site context locked to Somerset County. Elevation: 92 ft AMSL. Vinyl Panels integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -85.9600
 zipSample: ["46517", "46515", "46516", "46514"]
 zipCodes: ["46514", "46516", "46515", "46517"]
 localPaths: ["Elkhart County / ZIP 46516 sector", "Elkhart County / ZIP 46515 sector", "Elkhart County / ZIP 46514 sector", "Elkhart County / coords 41.6900, -85.9600", "Elkhart County / elevation 751 ft band"]
+zillowHomeValueUsd: 243692
 ---
 
 **Engineering Notice for Elkhart:** Structural loading calculated based on 751 ft terrain assessment. Regional dispatch grid: Elkhart County.

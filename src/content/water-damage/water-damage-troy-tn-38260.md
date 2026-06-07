@@ -12,6 +12,7 @@ lng: -89.1600
 zipSample: ["38260"]
 zipCodes: ["38260"]
 localPaths: ["Obion County / elevation 351 ft band", "Obion County / ZIP 38260 sector", "Obion County / primary ZIP 38260", "Obion County / coords 36.3400, -89.1600"]
+zillowHomeValueUsd: 172845
 ---
 
 **Engineering Notice for Troy:** structural drying capacity optimized for 351ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Obion County. Relative Humidity Threshold: 65%. Sensor sync: Active.

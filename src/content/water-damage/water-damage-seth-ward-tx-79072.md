@@ -12,6 +12,7 @@ lng: -101.6900
 zipSample: ["79072"]
 zipCodes: ["79072"]
 localPaths: ["Hale County / coords 34.2200, -101.6900", "Hale County / primary ZIP 79072", "Hale County / elevation 3363 ft band", "Hale County / ZIP 79072 sector"]
+zillowHomeValueUsd: 116118
 ---
 
 **Engineering Notice for Seth Ward:** structural drying capacity optimized for 3363ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hale County. Relative Humidity Threshold: 78%. Sensor sync: Active.

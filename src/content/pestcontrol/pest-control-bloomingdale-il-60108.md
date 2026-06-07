@@ -11,6 +11,7 @@ lng: -88.0900
 zipSample: ["60108", "60117"]
 zipCodes: ["60117", "60108"]
 localPaths: ["DuPage County / elevation 794 ft band", "DuPage County / ZIP 60108 sector", "DuPage County / primary ZIP 60108", "DuPage County / ZIP 60117 sector", "DuPage County / coords 41.9500, -88.0900"]
+zillowHomeValueUsd: 432931
 ---
 
 **Engineering Notice for Bloomingdale:** Structural loading calculated based on 794 ft terrain assessment. Regional dispatch grid: DuPage County.

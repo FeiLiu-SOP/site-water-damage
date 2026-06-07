@@ -11,6 +11,7 @@ lng: -73.3200
 zipSample: ["11729"]
 zipCodes: ["11729"]
 localPaths: ["Suffolk County / primary ZIP 11729", "Suffolk County / ZIP 11729 sector", "Suffolk County / elevation 82 ft band", "Suffolk County / coords 40.7600, -73.3200"]
+zillowHomeValueUsd: 639071
 ---
 
 **Engineering Notice for Deer Park:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Suffolk County.

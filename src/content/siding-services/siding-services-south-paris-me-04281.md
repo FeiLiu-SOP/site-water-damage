@@ -12,6 +12,7 @@ lng: -70.5100
 zipSample: ["04281"]
 zipCodes: ["04281"]
 localPaths: ["Oxford County / primary ZIP 04281", "Oxford County / elevation 377 ft band", "Oxford County / coords 44.2200, -70.5100", "Oxford County / ZIP 04281 sector"]
+zillowHomeValueUsd: 295231
 ---
 
 **Engineering Notice for South Paris:** Structural integrity verification: Cladding Retrofit calibrated for 101 mph localized wind load factor. Coordinates: 44.2200, -70.5100. Regional dispatch grid: Oxford County.

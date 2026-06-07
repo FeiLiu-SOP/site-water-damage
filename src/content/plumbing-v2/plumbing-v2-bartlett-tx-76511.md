@@ -12,6 +12,7 @@ lng: -97.4300
 zipSample: ["76511"]
 zipCodes: ["76511"]
 localPaths: ["Williamson County / ZIP 76511 sector", "Williamson County / coords 30.8000, -97.4300", "Williamson County / elevation 614 ft band", "Williamson County / primary ZIP 76511"]
+zillowHomeValueUsd: 218346
 ---
 
 **Engineering Notice for Bartlett:** System optimized for 122 mg/L hard water scaling factors in Bartlett. Regional dispatch grid: Williamson County.

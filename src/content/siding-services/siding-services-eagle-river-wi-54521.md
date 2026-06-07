@@ -12,6 +12,7 @@ lng: -89.2600
 zipSample: ["54521"]
 zipCodes: ["54521"]
 localPaths: ["Vilas County / primary ZIP 54521", "Vilas County / elevation 1644 ft band", "Vilas County / coords 45.9200, -89.2600", "Vilas County / ZIP 54521 sector"]
+zillowHomeValueUsd: 375114
 ---
 
 **Engineering Notice for Eagle River:** Structural integrity verification: Facade Renewal calibrated for 93 mph localized wind load factor. Elevation: 1644 ft AMSL. Regional dispatch grid: Vilas County.

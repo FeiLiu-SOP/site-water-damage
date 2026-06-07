@@ -12,6 +12,7 @@ lng: -85.8100
 zipSample: ["40216", "40256"]
 zipCodes: ["40256", "40216"]
 localPaths: ["Jefferson County / elevation 463 ft band", "Jefferson County / ZIP 40216 sector", "Jefferson County / ZIP 40256 sector", "Jefferson County / coords 38.2000, -85.8100", "Jefferson County / primary ZIP 40216"]
+zillowHomeValueUsd: 205852
 ---
 
 **Engineering Notice for Shively:** Structural loading calculated based on 463 ft terrain assessment. Regional dispatch grid: Jefferson County.

@@ -12,6 +12,7 @@ lng: -96.3200
 zipSample: ["56549"]
 zipCodes: ["56549"]
 localPaths: ["Clay County / elevation 1142 ft band", "Clay County / coords 46.8800, -96.3200", "Clay County / primary ZIP 56549", "Clay County / ZIP 56549 sector"]
+zillowHomeValueUsd: 398573
 ---
 
 **Engineering Notice for Hawley:** Facade Renewal was validated under stress factor 1.03; target tolerance set near 93 mph. Coordinates: 46.8800, -96.3200. Grid anchor: Clay County.

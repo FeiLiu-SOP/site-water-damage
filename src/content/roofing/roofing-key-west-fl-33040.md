@@ -11,6 +11,7 @@ lng: -81.7800
 zipSample: ["33045", "33040", "33041"]
 zipCodes: ["33040", "33041", "33045"]
 localPaths: ["Monroe County / coords 24.5600, -81.7800", "Monroe County / ZIP 33040 sector", "Monroe County / elevation 10 ft band", "Monroe County / ZIP 33045 sector", "Monroe County / ZIP 33041 sector"]
+zillowHomeValueUsd: 959855
 ---
 
 **Engineering Notice for Key West:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Monroe County.

@@ -12,6 +12,7 @@ lng: -90.8400
 zipSample: ["52068"]
 zipCodes: ["52068"]
 localPaths: ["Dubuque County / primary ZIP 52068", "Dubuque County / elevation 1063 ft band", "Dubuque County / coords 42.4500, -90.8400", "Dubuque County / ZIP 52068 sector"]
+zillowHomeValueUsd: 428890
 ---
 
 **Engineering Notice for Peosta:** System optimized for 142 mg/L hard water scaling factors in Peosta. Regional dispatch grid: Dubuque County.

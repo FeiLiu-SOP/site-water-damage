@@ -11,6 +11,8 @@ lng: -66.1100
 zipSample: ["00968", "00934", "00969", "00971", "00962"]
 zipCodes: ["00970", "00934", "00968", "00966", "00969", "00971", "00962", "00965"]
 localPaths: ["Guaynabo County / primary ZIP 00971", "Guaynabo County / coords 18.3800, -66.1100", "Guaynabo County / ZIP 00962 sector", "Guaynabo County / elevation 246 ft band", "Guaynabo County / ZIP 00971 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 364928
 ---
 
 **Engineering Notice for Guaynabo:** Structural loading calculated based on 246 ft terrain assessment. Regional dispatch grid: Guaynabo County.

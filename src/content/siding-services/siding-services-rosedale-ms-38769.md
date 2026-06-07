@@ -12,6 +12,7 @@ lng: -91.0300
 zipSample: ["38769"]
 zipCodes: ["38769"]
 localPaths: ["Bolivar County / primary ZIP 38769", "Bolivar County / coords 33.8500, -91.0300", "Bolivar County / ZIP 38769 sector", "Bolivar County / elevation 148 ft band"]
+zillowHomeValueUsd: 84218
 ---
 
 **Engineering Notice for Rosedale:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 0.99. Elevation: 148 ft AMSL. Regional dispatch grid: Bolivar County.

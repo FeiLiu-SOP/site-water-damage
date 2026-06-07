@@ -12,6 +12,7 @@ lng: -93.7600
 zipSample: ["77632"]
 zipCodes: ["77632"]
 localPaths: ["Orange County / primary ZIP 77632", "Orange County / ZIP 77632 sector", "Orange County / elevation 49 ft band", "Orange County / coords 30.2300, -93.7600"]
+zillowHomeValueUsd: 222928
 ---
 
 **Engineering Notice for Forest Heights:** System optimized for 158 mg/L hard water scaling factors in Forest Heights. Regional dispatch grid: Orange County.

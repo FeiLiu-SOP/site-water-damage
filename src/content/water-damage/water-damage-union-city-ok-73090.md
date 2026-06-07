@@ -12,6 +12,7 @@ lng: -97.9000
 zipSample: ["73090", "73036"]
 zipCodes: ["73090", "73036"]
 localPaths: ["Canadian County / primary ZIP 73090", "Canadian County / ZIP 73090 sector", "Canadian County / coords 35.4000, -97.9000", "Canadian County / ZIP 73036 sector", "Canadian County / elevation 1316 ft band"]
+zillowHomeValueUsd: 213740
 ---
 
 **Engineering Notice for Union City:** structural drying capacity optimized for 1316ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Canadian County. Relative Humidity Threshold: 66%. Sensor sync: Active.

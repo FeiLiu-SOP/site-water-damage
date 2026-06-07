@@ -12,6 +12,7 @@ lng: -119.6800
 zipSample: ["89410"]
 zipCodes: ["89410"]
 localPaths: ["Douglas County / coords 38.8900, -119.6800", "Douglas County / ZIP 89410 sector", "Douglas County / elevation 4990 ft band", "Douglas County / primary ZIP 89410"]
+zillowHomeValueUsd: 623517
 ---
 
 **Engineering Notice for Ruhenstroth:** structural drying capacity optimized for 4990ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Douglas County. Relative Humidity Threshold: 71%. Sensor sync: Active.

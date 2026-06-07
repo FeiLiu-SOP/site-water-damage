@@ -12,6 +12,7 @@ lng: -78.9900
 zipSample: ["24558"]
 zipCodes: ["24558"]
 localPaths: ["Halifax County / primary ZIP 24558", "Halifax County / elevation 548 ft band", "Halifax County / ZIP 24558 sector", "Halifax County / coords 36.7600, -78.9900"]
+zillowHomeValueUsd: 172283
 ---
 
 **Engineering Notice for Mountain Road:** Envelope check: Exterior Cladding assigned to wind-load band B with stress factor 0.95. Regional dispatch grid: Halifax County.

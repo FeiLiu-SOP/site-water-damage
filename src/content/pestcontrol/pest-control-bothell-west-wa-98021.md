@@ -11,6 +11,7 @@ lng: -122.2400
 zipSample: ["98021", "98012", "98036"]
 zipCodes: ["98012", "98036", "98021"]
 localPaths: ["Snohomish County / primary ZIP 98021", "Snohomish County / ZIP 98021 sector", "Snohomish County / elevation 479 ft band", "Snohomish County / coords 47.8100, -122.2400", "Snohomish County / ZIP 98012 sector"]
+zillowHomeValueUsd: 1146136
 ---
 
 **Engineering Notice for Bothell West:** Structural loading calculated based on 479 ft terrain assessment. Regional dispatch grid: Snohomish County.

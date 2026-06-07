@@ -12,6 +12,7 @@ lng: -93.2800
 zipSample: ["71446", "71461"]
 zipCodes: ["71446", "71461"]
 localPaths: ["Vernon Parish / ZIP 71461 sector", "Vernon Parish / elevation 240 ft band", "Vernon Parish / primary ZIP 71446", "Vernon Parish / coords 31.1000, -93.2800", "Vernon Parish / ZIP 71446 sector"]
+zillowHomeValueUsd: 154314
 ---
 
 **Engineering Notice for New Llano:** structural drying capacity optimized for 240ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Vernon Parish. Relative Humidity Threshold: 73%. Sensor sync: Active.

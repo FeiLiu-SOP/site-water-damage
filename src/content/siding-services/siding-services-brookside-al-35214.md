@@ -12,6 +12,7 @@ lng: -86.9000
 zipSample: ["35073", "35117", "35036", "35214"]
 zipCodes: ["35073", "35214", "35036", "35117"]
 localPaths: ["Jefferson County / ZIP 35117 sector", "Jefferson County / coords 33.6400, -86.9000", "Jefferson County / primary ZIP 35214", "Jefferson County / ZIP 35073 sector", "Jefferson County / ZIP 35036 sector"]
+zillowHomeValueUsd: 143774
 ---
 
 **Engineering Notice for Brookside:** Cladding verification uses 99 mph routing baseline; lateral pressure note: 13.1 psf. Elevation: 640 ft AMSL. Grid: Jefferson County.

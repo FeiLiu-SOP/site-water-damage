@@ -12,6 +12,7 @@ lng: -89.6300
 zipSample: ["61558", "61555", "61554"]
 zipCodes: ["61555", "61554", "61558"]
 localPaths: ["Tazewell County / ZIP 61558 sector", "Tazewell County / coords 40.5700, -89.6300", "Tazewell County / ZIP 61554 sector", "Tazewell County / ZIP 61555 sector", "Tazewell County / primary ZIP 61554"]
+zillowHomeValueUsd: 138001
 ---
 
 **Engineering Notice for Pekin:** Structural loading calculated based on 541 ft terrain assessment. Regional dispatch grid: Tazewell County.

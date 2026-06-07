@@ -12,6 +12,7 @@ lng: -76.0600
 zipSample: ["17569", "19501"]
 zipCodes: ["17569", "19501"]
 localPaths: ["Lancaster County / primary ZIP 17569", "Lancaster County / ZIP 17569 sector", "Lancaster County / ZIP 19501 sector", "Lancaster County / coords 40.2400, -76.0600", "Lancaster County / elevation 499 ft band"]
+zillowHomeValueUsd: 382402
 ---
 
 **Engineering Notice for Adamstown:** System optimized for 176 mg/L hard water scaling factors in Adamstown. Regional dispatch grid: Lancaster County.

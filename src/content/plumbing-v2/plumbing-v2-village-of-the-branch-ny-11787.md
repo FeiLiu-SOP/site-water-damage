@@ -12,6 +12,7 @@ lng: -73.1800
 zipSample: ["11787"]
 zipCodes: ["11787"]
 localPaths: ["Suffolk County / primary ZIP 11787", "Suffolk County / ZIP 11787 sector", "Suffolk County / elevation 59 ft band", "Suffolk County / coords 40.8500, -73.1800"]
+zillowHomeValueUsd: 794525
 ---
 
 **Engineering Notice for Village of the Branch:** System optimized for 179 mg/L hard water scaling factors in Village of the Branch. Regional dispatch grid: Suffolk County.

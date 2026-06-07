@@ -12,6 +12,7 @@ lng: -77.3100
 zipSample: ["21798"]
 zipCodes: ["21798"]
 localPaths: ["Frederick County / coords 39.5300, -77.3100", "Frederick County / ZIP 21798 sector", "Frederick County / elevation 335 ft band", "Frederick County / primary ZIP 21798"]
+zillowHomeValueUsd: 504794
 ---
 
 **Engineering Notice for Woodsboro:** Cladding verification uses 108 mph routing baseline; lateral pressure note: 14.2 psf. Elevation: 335 ft AMSL. Coordinates: 39.5300, -77.3100. Grid: Frederick County.

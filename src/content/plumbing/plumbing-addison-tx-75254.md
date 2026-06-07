@@ -12,6 +12,7 @@ lng: -96.8400
 zipSample: ["75254", "75391", "75001"]
 zipCodes: ["75001", "75391", "75254"]
 localPaths: ["Dallas County / coords 32.9600, -96.8400", "Dallas County / ZIP 75391 sector", "Dallas County / ZIP 75254 sector", "Dallas County / elevation 637 ft band", "Dallas County / primary ZIP 75254"]
+zillowHomeValueUsd: 299694
 ---
 
 **Engineering Notice for Addison:** Structural loading calculated based on 637 ft terrain assessment. Regional dispatch grid: Dallas County.

@@ -12,6 +12,7 @@ lng: -78.5600
 zipSample: ["14004", "14086"]
 zipCodes: ["14004", "14086"]
 localPaths: ["Erie County / elevation 768 ft band", "Erie County / ZIP 14086 sector", "Erie County / coords 42.8900, -78.5600", "Erie County / ZIP 14004 sector", "Erie County / primary ZIP 14004"]
+zillowHomeValueUsd: 321646
 ---
 
 **Engineering Notice for Town Line:** Site context locked to Erie County. Elevation: 768 ft AMSL. Coordinates: 42.8900, -78.5600. Wall Restoration integrity verification recorded.

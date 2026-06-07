@@ -11,6 +11,7 @@ lng: -92.8300
 zipSample: ["55082", "55083"]
 zipCodes: ["55082", "55083"]
 localPaths: ["Washington County / ZIP 55083 sector", "Washington County / ZIP 55082 sector", "Washington County / coords 45.0600, -92.8300", "Washington County / primary ZIP 55082", "Washington County / elevation 856 ft band"]
+zillowHomeValueUsd: 520504
 ---
 
 **Engineering Notice for Stillwater:** Structural loading calculated based on 856 ft terrain assessment. Regional dispatch grid: Washington County.

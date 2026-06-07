@@ -11,6 +11,7 @@ lng: -73.8300
 zipSample: ["10550", "10551", "10552", "10553"]
 zipCodes: ["10552", "10550", "10553", "10551"]
 localPaths: ["Westchester County / elevation 148 ft band", "Westchester County / ZIP 10553 sector", "Westchester County / ZIP 10550 sector", "Westchester County / coords 40.9100, -73.8300", "Westchester County / ZIP 10552 sector"]
+zillowHomeValueUsd: 534710
 ---
 
 **Engineering Notice for Mount Vernon:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Westchester County.

@@ -11,6 +11,7 @@ lng: -157.9900
 zipSample: ["96789"]
 zipCodes: ["96789"]
 localPaths: ["Honolulu County / primary ZIP 96789", "Honolulu County / ZIP 96789 sector", "Honolulu County / coords 21.4800, -157.9900", "Honolulu County / elevation 883 ft band"]
+zillowHomeValueUsd: 881755
 ---
 
 **Engineering Notice for Mililani Mauka:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Honolulu County.

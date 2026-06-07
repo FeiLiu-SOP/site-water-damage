@@ -12,6 +12,7 @@ lng: -121.9000
 zipSample: ["98014"]
 zipCodes: ["98014"]
 localPaths: ["King County / ZIP 98014 sector", "King County / elevation 98 ft band", "King County / coords 47.6400, -121.9000", "King County / primary ZIP 98014"]
+zillowHomeValueUsd: 1034189
 ---
 
 **Engineering Notice for Carnation:** Cladding Service was validated under stress factor 1.11; target tolerance set near 95 mph. Grid anchor: King County.

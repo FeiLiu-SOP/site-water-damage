@@ -12,6 +12,7 @@ lng: -116.9900
 zipSample: ["83501"]
 zipCodes: ["83501"]
 localPaths: ["Nez Perce County / primary ZIP 83501", "Nez Perce County / coords 46.3900, -116.9900", "Nez Perce County / ZIP 83501 sector", "Nez Perce County / elevation 1286 ft band"]
+zillowHomeValueUsd: 382347
 ---
 
 **Engineering Notice for Lewiston:** Structural loading calculated based on 1286 ft terrain assessment. Regional dispatch grid: Nez Perce County.

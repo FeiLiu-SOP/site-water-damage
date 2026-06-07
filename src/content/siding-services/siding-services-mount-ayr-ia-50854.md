@@ -12,6 +12,7 @@ lng: -94.2400
 zipSample: ["50854"]
 zipCodes: ["50854"]
 localPaths: ["Ringgold County / elevation 1243 ft band", "Ringgold County / ZIP 50854 sector", "Ringgold County / primary ZIP 50854", "Ringgold County / coords 40.7100, -94.2400"]
+zillowHomeValueUsd: 139123
 ---
 
 **Engineering Notice for Mount Ayr:** Site context locked to Ringgold County. Coordinates: 40.7100, -94.2400. Vinyl Panels integrity verification recorded.

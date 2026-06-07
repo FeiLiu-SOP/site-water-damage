@@ -11,6 +11,7 @@ lng: -80.0000
 zipSample: ["29410"]
 zipCodes: ["29410"]
 localPaths: ["Berkeley County / primary ZIP 29410", "Berkeley County / coords 32.9300, -80.0000", "Berkeley County / ZIP 29410 sector", "Berkeley County / elevation 26 ft band"]
+zillowHomeValueUsd: 404462
 ---
 
 **Engineering Notice for Hanahan:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Berkeley County.

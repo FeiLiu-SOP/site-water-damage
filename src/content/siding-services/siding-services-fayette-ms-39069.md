@@ -12,6 +12,7 @@ lng: -91.0600
 zipSample: ["39069"]
 zipCodes: ["39069"]
 localPaths: ["Jefferson County / elevation 289 ft band", "Jefferson County / primary ZIP 39069", "Jefferson County / ZIP 39069 sector", "Jefferson County / coords 31.7100, -91.0600"]
+zillowHomeValueUsd: 85332
 ---
 
 **Engineering Notice for Fayette:** Envelope check: Panel Replacement assigned to wind-load band B with stress factor 1.20. Regional dispatch grid: Jefferson County.

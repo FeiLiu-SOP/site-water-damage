@@ -11,6 +11,7 @@ lng: -94.8200
 zipSample: ["66062", "66051", "66061", "66063"]
 zipCodes: ["66061", "66062", "66051", "66063"]
 localPaths: ["Johnson County / ZIP 66051 sector", "Johnson County / ZIP 66061 sector", "Johnson County / ZIP 66063 sector", "Johnson County / coords 38.8800, -94.8200", "Johnson County / ZIP 66062 sector"]
+zillowHomeValueUsd: 438518
 ---
 
 **Engineering Notice for Olathe:** Structural loading calculated based on 1050 ft terrain assessment. Regional dispatch grid: Johnson County.

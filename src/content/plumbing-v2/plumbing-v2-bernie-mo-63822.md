@@ -12,6 +12,7 @@ lng: -89.9700
 zipSample: ["63822"]
 zipCodes: ["63822"]
 localPaths: ["Stoddard County / primary ZIP 63822", "Stoddard County / coords 36.6700, -89.9700", "Stoddard County / ZIP 63822 sector", "Stoddard County / elevation 315 ft band"]
+zillowHomeValueUsd: 108503
 ---
 
 **Engineering Notice for Bernie:** System optimized for 132 mg/L hard water scaling factors in Bernie. Regional dispatch grid: Stoddard County.

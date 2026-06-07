@@ -12,6 +12,7 @@ lng: -80.2700
 zipSample: ["24171"]
 zipCodes: ["24171"]
 localPaths: ["Patrick County / coords 36.6400, -80.2700", "Patrick County / ZIP 24171 sector", "Patrick County / elevation 1299 ft band", "Patrick County / primary ZIP 24171"]
+zillowHomeValueUsd: 188247
 ---
 
 **Engineering Notice for Stuart:** Cladding verification uses 97 mph routing baseline; lateral pressure note: 12.8 psf. Elevation: 1299 ft AMSL. Grid: Patrick County.

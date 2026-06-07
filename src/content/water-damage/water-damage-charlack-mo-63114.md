@@ -12,6 +12,7 @@ lng: -90.3400
 zipSample: ["63114"]
 zipCodes: ["63114"]
 localPaths: ["St. Louis County / ZIP 63114 sector", "St. Louis County / coords 38.7000, -90.3400", "St. Louis County / primary ZIP 63114", "St. Louis County / elevation 600 ft band"]
+zillowHomeValueUsd: 139457
 ---
 
 **Engineering Notice for Charlack:** structural drying capacity optimized for 600ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Louis County. Relative Humidity Threshold: 71%. Sensor sync: Active.

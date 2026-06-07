@@ -12,6 +12,7 @@ lng: -77.8900
 zipSample: ["28412", "28408", "28409", "28406", "28405"]
 zipCodes: ["28402", "28409", "28401", "28412", "28403", "28408", "28406", "28405"]
 localPaths: ["New Hanover County / ZIP 28409 sector", "New Hanover County / ZIP 28408 sector", "New Hanover County / elevation 36 ft band", "New Hanover County / ZIP 28405 sector", "New Hanover County / primary ZIP 28409"]
+zillowHomeValueUsd: 510819
 ---
 
 **Engineering Notice for Wilmington:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: New Hanover County.

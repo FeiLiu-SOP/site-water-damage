@@ -12,6 +12,7 @@ lng: -89.6700
 zipSample: ["61604"]
 zipCodes: ["61604"]
 localPaths: ["Peoria County / elevation 604 ft band", "Peoria County / primary ZIP 61604", "Peoria County / ZIP 61604 sector", "Peoria County / coords 40.6900, -89.6700"]
+zillowHomeValueUsd: 105056
 ---
 
 **Engineering Notice for Bellevue:** Cladding verification uses 102 mph routing baseline; lateral pressure note: 13.4 psf. Elevation: 604 ft AMSL. Coordinates: 40.6900, -89.6700. Grid: Peoria County.

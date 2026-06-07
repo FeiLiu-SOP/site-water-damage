@@ -12,6 +12,7 @@ lng: -110.9600
 zipSample: ["84528"]
 zipCodes: ["84528"]
 localPaths: ["Emery County / coords 39.3300, -110.9600", "Emery County / ZIP 84528 sector", "Emery County / primary ZIP 84528", "Emery County / elevation 5801 ft band"]
+zillowHomeValueUsd: 291436
 ---
 
 **Engineering Notice for Huntington:** Cladding verification uses 95 mph routing baseline; lateral pressure note: 12.6 psf. Elevation: 5801 ft AMSL. Coordinates: 39.3300, -110.9600. Grid: Emery County.

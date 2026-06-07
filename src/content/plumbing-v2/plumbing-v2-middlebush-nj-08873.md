@@ -12,6 +12,7 @@ lng: -74.5300
 zipSample: ["08873"]
 zipCodes: ["08873"]
 localPaths: ["Somerset County / coords 40.5000, -74.5300", "Somerset County / primary ZIP 08873", "Somerset County / ZIP 08873 sector", "Somerset County / elevation 131 ft band"]
+zillowHomeValueUsd: 567145
 ---
 
 **Engineering Notice for Middlebush:** System optimized for 170 mg/L hard water scaling factors in Middlebush. Regional dispatch grid: Somerset County.

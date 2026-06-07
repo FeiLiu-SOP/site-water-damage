@@ -12,6 +12,7 @@ lng: -85.4000
 zipSample: ["49663"]
 zipCodes: ["49663"]
 localPaths: ["Wexford County / coords 44.4100, -85.4000", "Wexford County / elevation 1129 ft band", "Wexford County / primary ZIP 49663", "Wexford County / ZIP 49663 sector"]
+zillowHomeValueUsd: 225542
 ---
 
 **Engineering Notice for Manton:** Wall Restoration was validated under stress factor 1.10; target tolerance set near 104 mph. Grid anchor: Wexford County.

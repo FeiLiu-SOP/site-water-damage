@@ -12,6 +12,7 @@ lng: -80.5400
 zipSample: ["26261"]
 zipCodes: ["26261"]
 localPaths: ["Nicholas County / coords 38.2200, -80.5400", "Nicholas County / primary ZIP 26261", "Nicholas County / elevation 2182 ft band", "Nicholas County / ZIP 26261 sector"]
+zillowHomeValueUsd: 73166
 ---
 
 **Engineering Notice for Richwood:** Cladding verification uses 98 mph routing baseline; lateral pressure note: 13.0 psf. Coordinates: 38.2200, -80.5400. Grid: Nicholas County.

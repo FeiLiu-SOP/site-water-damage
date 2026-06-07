@@ -11,6 +11,7 @@ lng: -93.1500
 zipSample: ["55113"]
 zipCodes: ["55113"]
 localPaths: ["Ramsey County / elevation 912 ft band", "Ramsey County / primary ZIP 55113", "Ramsey County / ZIP 55113 sector", "Ramsey County / coords 45.0200, -93.1500"]
+zillowHomeValueUsd: 375061
 ---
 
 **Engineering Notice for Roseville:** Structural loading calculated based on 912 ft terrain assessment. Regional dispatch grid: Ramsey County.

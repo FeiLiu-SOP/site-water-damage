@@ -12,6 +12,7 @@ lng: -76.8100
 zipSample: ["28532"]
 zipCodes: ["28532"]
 localPaths: ["Craven County / primary ZIP 28532", "Craven County / coords 34.9300, -76.8100", "Craven County / elevation 20 ft band", "Craven County / ZIP 28532 sector"]
+zillowHomeValueUsd: 233704
 ---
 
 **Engineering Notice for Cherry Branch:** Site context locked to Craven County. Surface Sheathing integrity verification recorded.

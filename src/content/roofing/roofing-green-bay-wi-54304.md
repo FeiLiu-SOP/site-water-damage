@@ -11,6 +11,7 @@ lng: -87.9900
 zipSample: ["54305", "54301", "54306", "54303", "54308"]
 zipCodes: ["54302", "54301", "54303", "54311", "54306", "54305", "54308", "54304"]
 localPaths: ["Brown County / ZIP 54306 sector", "Brown County / ZIP 54305 sector", "Brown County / ZIP 54308 sector", "Brown County / ZIP 54301 sector", "Brown County / primary ZIP 54304"]
+zillowHomeValueUsd: 289079
 ---
 
 **Engineering Notice for Green Bay:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Brown County.

@@ -11,6 +11,7 @@ lng: -121.3100
 zipSample: ["95211", "95269", "95203", "95212", "95297"]
 zipCodes: ["95297", "95205", "95207", "95209", "95296", "95211", "95210", "95203", "95219", "95204", "95206", "95267"]
 localPaths: ["San Joaquin County / ZIP 95211 sector", "San Joaquin County / ZIP 95269 sector", "San Joaquin County / ZIP 95212 sector", "San Joaquin County / primary ZIP 95219", "San Joaquin County / ZIP 95297 sector"]
+zillowHomeValueUsd: 555838
 ---
 
 **Engineering Notice for Stockton:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: San Joaquin County.

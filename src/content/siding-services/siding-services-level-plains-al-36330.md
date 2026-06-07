@@ -12,6 +12,7 @@ lng: -85.7700
 zipSample: ["36322", "36330"]
 zipCodes: ["36330", "36322"]
 localPaths: ["Dale County / coords 31.3100, -85.7700", "Dale County / ZIP 36322 sector", "Dale County / ZIP 36330 sector", "Dale County / primary ZIP 36330", "Dale County / elevation 338 ft band"]
+zillowHomeValueUsd: 203871
 ---
 
 **Engineering Notice for Level Plains:** Envelope check: Exterior Envelope assigned to wind-load band A with stress factor 0.91. Elevation: 338 ft AMSL. Regional dispatch grid: Dale County.

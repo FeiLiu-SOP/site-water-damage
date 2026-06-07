@@ -12,6 +12,7 @@ lng: -152.5400
 zipSample: ["99615"]
 zipCodes: ["99615"]
 localPaths: ["Kodiak Island County / primary ZIP 99615", "Kodiak Island County / ZIP 99615 sector", "Kodiak Island County / coords 57.7400, -152.5400", "Kodiak Island County / elevation 482 ft band"]
+zillowHomeValueUsd: 426142
 ---
 
 **Engineering Notice for Kodiak Station:** System optimized for 131 mg/L hard water scaling factors in Kodiak Station. Regional dispatch grid: Kodiak Island County.

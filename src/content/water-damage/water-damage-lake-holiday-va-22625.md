@@ -12,6 +12,7 @@ lng: -78.3200
 zipSample: ["22625"]
 zipCodes: ["22625"]
 localPaths: ["Frederick County / coords 39.3100, -78.3200", "Frederick County / ZIP 22625 sector", "Frederick County / primary ZIP 22625", "Frederick County / elevation 830 ft band"]
+zillowHomeValueUsd: 428830
 ---
 
 **Engineering Notice for Lake Holiday:** structural drying capacity optimized for 830ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Frederick County. Relative Humidity Threshold: 70%. Sensor sync: Active.

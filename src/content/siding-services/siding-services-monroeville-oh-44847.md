@@ -12,6 +12,7 @@ lng: -82.7000
 zipSample: ["44847"]
 zipCodes: ["44847"]
 localPaths: ["Huron County / elevation 715 ft band", "Huron County / coords 41.2400, -82.7000", "Huron County / primary ZIP 44847", "Huron County / ZIP 44847 sector"]
+zillowHomeValueUsd: 205676
 ---
 
 **Engineering Notice for Monroeville:** Envelope check: Cladding Retrofit assigned to wind-load band A with stress factor 0.82. Elevation: 715 ft AMSL. Regional dispatch grid: Huron County.

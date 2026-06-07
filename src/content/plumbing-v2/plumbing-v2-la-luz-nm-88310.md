@@ -12,6 +12,7 @@ lng: -105.9400
 zipSample: ["88337", "88310"]
 zipCodes: ["88310", "88337"]
 localPaths: ["Otero County / ZIP 88310 sector", "Otero County / ZIP 88337 sector", "Otero County / primary ZIP 88310", "Otero County / coords 32.9700, -105.9400", "Otero County / elevation 4701 ft band"]
+zillowHomeValueUsd: 221506
 ---
 
 **Engineering Notice for La Luz:** System optimized for 161 mg/L hard water scaling factors in La Luz. Regional dispatch grid: Otero County.

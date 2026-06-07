@@ -12,6 +12,7 @@ lng: -86.6400
 zipSample: ["49862"]
 zipCodes: ["49862"]
 localPaths: ["Alger County / elevation 587 ft band", "Alger County / ZIP 49862 sector", "Alger County / coords 46.4200, -86.6400", "Alger County / primary ZIP 49862"]
+zillowHomeValueUsd: 198282
 ---
 
 **Engineering Notice for Munising:** System optimized for 131 mg/L hard water scaling factors in Munising. Regional dispatch grid: Alger County.

@@ -12,6 +12,7 @@ lng: -79.8500
 zipSample: ["24175"]
 zipCodes: ["24175"]
 localPaths: ["Botetourt County / coords 37.3600, -79.8500", "Botetourt County / primary ZIP 24175", "Botetourt County / ZIP 24175 sector", "Botetourt County / elevation 1191 ft band"]
+zillowHomeValueUsd: 332011
 ---
 
 **Engineering Notice for Laymantown:** System optimized for 140 mg/L hard water scaling factors in Laymantown. Regional dispatch grid: Botetourt County.

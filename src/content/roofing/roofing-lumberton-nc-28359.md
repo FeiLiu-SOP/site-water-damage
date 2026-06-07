@@ -11,6 +11,7 @@ lng: -79.0200
 zipSample: ["28359", "28360", "28358"]
 zipCodes: ["28360", "28358", "28359"]
 localPaths: ["Robeson County / ZIP 28358 sector", "Robeson County / coords 34.6300, -79.0200", "Robeson County / primary ZIP 28359", "Robeson County / ZIP 28359 sector", "Robeson County / ZIP 28360 sector"]
+zillowHomeValueUsd: 141500
 ---
 
 **Engineering Notice for Lumberton:** Structural loading calculated based on 128 ft terrain assessment. Regional dispatch grid: Robeson County.

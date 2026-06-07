@@ -12,6 +12,7 @@ lng: -79.4000
 zipSample: ["21550"]
 zipCodes: ["21550"]
 localPaths: ["Garrett County / primary ZIP 21550", "Garrett County / ZIP 21550 sector", "Garrett County / elevation 2451 ft band", "Garrett County / coords 39.4200, -79.4000"]
+zillowHomeValueUsd: 296041
 ---
 
 **Engineering Notice for Oakland:** Cladding verification uses 101 mph routing baseline; lateral pressure note: 13.3 psf. Elevation: 2451 ft AMSL. Coordinates: 39.4200, -79.4000. Grid: Garrett County.

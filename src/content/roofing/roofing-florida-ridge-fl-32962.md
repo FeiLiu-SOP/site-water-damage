@@ -11,6 +11,7 @@ lng: -80.3800
 zipSample: ["32962"]
 zipCodes: ["32962"]
 localPaths: ["Indian River County / ZIP 32962 sector", "Indian River County / primary ZIP 32962", "Indian River County / elevation 39 ft band", "Indian River County / coords 27.5800, -80.3800"]
+zillowHomeValueUsd: 258885
 ---
 
 **Engineering Notice for Florida Ridge:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Indian River County.

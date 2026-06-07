@@ -12,6 +12,7 @@ lng: -95.7100
 zipSample: ["51579"]
 zipCodes: ["51579"]
 localPaths: ["Harrison County / elevation 1109 ft band", "Harrison County / coords 41.7400, -95.7100", "Harrison County / ZIP 51579 sector", "Harrison County / primary ZIP 51579"]
+zillowHomeValueUsd: 229373
 ---
 
 **Engineering Notice for Woodbine:** Cladding Retrofit was validated under stress factor 1.01; target tolerance set near 100 mph. Coordinates: 41.7400, -95.7100. Grid anchor: Harrison County.

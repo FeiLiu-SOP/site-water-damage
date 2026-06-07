@@ -11,6 +11,7 @@ lng: -73.6400
 zipSample: ["11572"]
 zipCodes: ["11572"]
 localPaths: ["Nassau County / coords 40.6300, -73.6400", "Nassau County / primary ZIP 11572", "Nassau County / elevation 10 ft band", "Nassau County / ZIP 11572 sector"]
+zillowHomeValueUsd: 774721
 ---
 
 **Engineering Notice for Oceanside:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Nassau County.

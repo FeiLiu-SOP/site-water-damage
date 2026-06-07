@@ -11,6 +11,7 @@ lng: -95.4600
 zipSample: ["77401", "77402"]
 zipCodes: ["77402", "77401"]
 localPaths: ["Harris County / ZIP 77401 sector", "Harris County / primary ZIP 77401", "Harris County / elevation 72 ft band", "Harris County / ZIP 77402 sector", "Harris County / coords 29.7000, -95.4600"]
+zillowHomeValueUsd: 1162709
 ---
 
 **Engineering Notice for Bellaire:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Harris County.

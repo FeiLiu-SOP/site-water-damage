@@ -12,6 +12,7 @@ lng: -81.7400
 zipSample: ["32778"]
 zipCodes: ["32778"]
 localPaths: ["Lake County / primary ZIP 32778", "Lake County / coords 28.7900, -81.7400", "Lake County / elevation 66 ft band", "Lake County / ZIP 32778 sector"]
+zillowHomeValueUsd: 311875
 ---
 
 **Engineering Notice for Tavares:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Lake County.

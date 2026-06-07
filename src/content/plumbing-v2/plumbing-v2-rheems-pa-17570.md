@@ -12,6 +12,8 @@ lng: -76.5700
 zipSample: ["17552", "17022", "17570"]
 zipCodes: ["17022", "17552", "17570"]
 localPaths: ["Lancaster County / ZIP 17552 sector", "Lancaster County / ZIP 17022 sector", "Lancaster County / primary ZIP 17570", "Lancaster County / ZIP 17570 sector", "Lancaster County / coords 40.1300, -76.5700"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 276315
 ---
 
 **Engineering Notice for Rheems:** System optimized for 136 mg/L hard water scaling factors in Rheems. Regional dispatch grid: Lancaster County.

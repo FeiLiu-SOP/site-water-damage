@@ -12,6 +12,7 @@ lng: -121.7200
 zipSample: ["95012", "93907"]
 zipCodes: ["93907", "95012"]
 localPaths: ["Monterey County / ZIP 95012 sector", "Monterey County / ZIP 93907 sector", "Monterey County / coords 36.8100, -121.7200", "Monterey County / primary ZIP 93907", "Monterey County / elevation 154 ft band"]
+zillowHomeValueUsd: 837750
 ---
 
 **Engineering Notice for Elkhorn:** Envelope check: Exterior Cladding assigned to wind-load band C with stress factor 1.10. Regional dispatch grid: Monterey County.

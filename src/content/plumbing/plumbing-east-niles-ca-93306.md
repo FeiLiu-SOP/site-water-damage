@@ -12,6 +12,7 @@ lng: -118.9200
 zipSample: ["93306", "93307"]
 zipCodes: ["93307", "93306"]
 localPaths: ["Kern County / elevation 479 ft band", "Kern County / coords 35.3700, -118.9200", "Kern County / ZIP 93306 sector", "Kern County / primary ZIP 93306", "Kern County / ZIP 93307 sector"]
+zillowHomeValueUsd: 348780
 ---
 
 **Engineering Notice for East Niles:** Structural loading calculated based on 479 ft terrain assessment. Regional dispatch grid: Kern County.

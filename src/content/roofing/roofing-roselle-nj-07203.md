@@ -11,6 +11,7 @@ lng: -74.2600
 zipSample: ["07203"]
 zipCodes: ["07203"]
 localPaths: ["Union County / ZIP 07203 sector", "Union County / primary ZIP 07203", "Union County / coords 40.6500, -74.2600", "Union County / elevation 72 ft band"]
+zillowHomeValueUsd: 507495
 ---
 
 **Engineering Notice for Roselle:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Union County.

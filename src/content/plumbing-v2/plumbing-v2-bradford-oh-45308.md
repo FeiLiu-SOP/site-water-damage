@@ -12,6 +12,7 @@ lng: -84.4300
 zipSample: ["45308"]
 zipCodes: ["45308"]
 localPaths: ["Miami County / primary ZIP 45308", "Miami County / coords 40.1300, -84.4300", "Miami County / ZIP 45308 sector", "Miami County / elevation 991 ft band"]
+zillowHomeValueUsd: 205979
 ---
 
 **Engineering Notice for Bradford:** System optimized for 133 mg/L hard water scaling factors in Bradford. Regional dispatch grid: Miami County.

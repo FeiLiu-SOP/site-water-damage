@@ -11,6 +11,7 @@ lng: -123.3500
 zipSample: ["97470", "97471"]
 zipCodes: ["97471", "97470"]
 localPaths: ["Douglas County / ZIP 97471 sector", "Douglas County / primary ZIP 97470", "Douglas County / elevation 482 ft band", "Douglas County / coords 43.2200, -123.3500", "Douglas County / ZIP 97470 sector"]
+zillowHomeValueUsd: 320704
 ---
 
 **Engineering Notice for Roseburg:** Structural loading calculated based on 482 ft terrain assessment. Regional dispatch grid: Douglas County.

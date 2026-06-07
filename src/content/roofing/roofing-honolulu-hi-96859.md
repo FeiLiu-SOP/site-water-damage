@@ -11,6 +11,7 @@ lng: -157.8500
 zipSample: ["96818", "96843", "96804", "96810", "96802"]
 zipCodes: ["96844", "96814", "96818", "96812", "96802", "96849", "96858", "96816", "96850", "96809", "96807", "96830"]
 localPaths: ["Honolulu County / ZIP 96810 sector", "Honolulu County / ZIP 96802 sector", "Honolulu County / ZIP 96818 sector", "Honolulu County / coords 21.3300, -157.8500", "Honolulu County / ZIP 96843 sector"]
+zillowHomeValueUsd: 530534
 ---
 
 **Engineering Notice for Honolulu:** Structural loading calculated based on 256 ft terrain assessment. Regional dispatch grid: Honolulu County.

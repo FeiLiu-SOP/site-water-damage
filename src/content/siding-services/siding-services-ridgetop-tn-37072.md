@@ -12,6 +12,7 @@ lng: -86.7700
 zipSample: ["37072", "37152", "37073"]
 zipCodes: ["37072", "37073", "37152"]
 localPaths: ["Robertson County / ZIP 37073 sector", "Robertson County / ZIP 37152 sector", "Robertson County / elevation 869 ft band", "Robertson County / coords 36.4000, -86.7700", "Robertson County / ZIP 37072 sector"]
+zillowHomeValueUsd: 404727
 ---
 
 **Engineering Notice for Ridgetop:** Cladding verification uses 108 mph routing baseline; lateral pressure note: 14.2 psf. Grid: Robertson County.

@@ -12,6 +12,8 @@ lng: -72.5800
 zipSample: ["11947", "11970", "11948", "11901"]
 zipCodes: ["11947", "11901", "11948", "11970"]
 localPaths: ["Suffolk County / primary ZIP 11947", "Suffolk County / coords 40.9500, -72.5800", "Suffolk County / ZIP 11970 sector", "Suffolk County / ZIP 11947 sector", "Suffolk County / ZIP 11948 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 502322
 ---
 
 **Engineering Notice for Jamesport:** Envelope check: Exterior Envelope assigned to wind-load band C with stress factor 1.02. Elevation: 26 ft AMSL. Regional dispatch grid: Suffolk County.

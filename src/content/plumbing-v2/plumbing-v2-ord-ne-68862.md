@@ -12,6 +12,7 @@ lng: -98.9200
 zipSample: ["68862", "68859"]
 zipCodes: ["68859", "68862"]
 localPaths: ["Valley County / elevation 2041 ft band", "Valley County / ZIP 68859 sector", "Valley County / ZIP 68862 sector", "Valley County / coords 41.6000, -98.9200", "Valley County / primary ZIP 68862"]
+zillowHomeValueUsd: 193116
 ---
 
 **Engineering Notice for Ord:** System optimized for 164 mg/L hard water scaling factors in Ord. Regional dispatch grid: Valley County.

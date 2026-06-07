@@ -12,6 +12,7 @@ lng: -113.3000
 zipSample: ["84720", "84746", "84774"]
 zipCodes: ["84774", "84746", "84720"]
 localPaths: ["Washington County / coords 37.2700, -113.3000", "Washington County / ZIP 84774 sector", "Washington County / primary ZIP 84774", "Washington County / elevation 3599 ft band", "Washington County / ZIP 84746 sector"]
+zillowHomeValueUsd: 593447
 ---
 
 **Engineering Notice for Toquerville:** Site context locked to Washington County. Elevation: 3599 ft AMSL. Coordinates: 37.2700, -113.3000. Exterior Cladding integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -81.8000
 zipSample: ["29330"]
 zipCodes: ["29330"]
 localPaths: ["Spartanburg County / elevation 879 ft band", "Spartanburg County / primary ZIP 29330", "Spartanburg County / coords 35.0200, -81.8000", "Spartanburg County / ZIP 29330 sector"]
+zillowHomeValueUsd: 207150
 ---
 
 **Engineering Notice for Cowpens:** Site context locked to Spartanburg County. Facade Renewal integrity verification recorded.

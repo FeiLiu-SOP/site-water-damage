@@ -12,6 +12,7 @@ lng: -80.9000
 zipSample: ["29115"]
 zipCodes: ["29115"]
 localPaths: ["Orangeburg County / ZIP 29115 sector", "Orangeburg County / elevation 240 ft band", "Orangeburg County / coords 33.4800, -80.9000", "Orangeburg County / primary ZIP 29115"]
+zillowHomeValueUsd: 123303
 ---
 
 **Engineering Notice for Edisto:** structural drying capacity optimized for 240ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Orangeburg County. Relative Humidity Threshold: 79%. Sensor sync: Active.

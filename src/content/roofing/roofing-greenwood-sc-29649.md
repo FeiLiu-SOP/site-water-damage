@@ -11,6 +11,7 @@ lng: -82.1500
 zipSample: ["29649", "29648", "29647", "29646"]
 zipCodes: ["29647", "29646", "29648", "29649"]
 localPaths: ["Greenwood County / ZIP 29648 sector", "Greenwood County / ZIP 29646 sector", "Greenwood County / ZIP 29647 sector", "Greenwood County / primary ZIP 29649", "Greenwood County / elevation 627 ft band"]
+zillowHomeValueUsd: 224026
 ---
 
 **Engineering Notice for Greenwood:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Greenwood County.

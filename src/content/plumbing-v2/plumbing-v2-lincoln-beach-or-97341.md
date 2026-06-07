@@ -12,6 +12,7 @@ lng: -124.0300
 zipSample: ["97367", "97341", "97388"]
 zipCodes: ["97367", "97388", "97341"]
 localPaths: ["Lincoln County / ZIP 97367 sector", "Lincoln County / primary ZIP 97341", "Lincoln County / coords 44.8700, -124.0300", "Lincoln County / elevation 82 ft band", "Lincoln County / ZIP 97388 sector"]
+zillowHomeValueUsd: 544629
 ---
 
 **Engineering Notice for Lincoln Beach:** System optimized for 128 mg/L hard water scaling factors in Lincoln Beach. Regional dispatch grid: Lincoln County.

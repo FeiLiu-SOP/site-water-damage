@@ -12,6 +12,7 @@ lng: -97.6900
 zipSample: ["78616", "78747", "78610"]
 zipCodes: ["78610", "78747", "78616"]
 localPaths: ["Travis County / elevation 627 ft band", "Travis County / ZIP 78616 sector", "Travis County / ZIP 78747 sector", "Travis County / primary ZIP 78747", "Travis County / ZIP 78610 sector"]
+zillowHomeValueUsd: 365975
 ---
 
 **Engineering Notice for Mustang Ridge:** Structural integrity verification: Facade Renewal calibrated for 148 mph localized wind load factor. Regional dispatch grid: Travis County.

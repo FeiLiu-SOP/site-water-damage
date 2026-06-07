@@ -11,6 +11,7 @@ lng: -73.5000
 zipSample: ["11791", "11773"]
 zipCodes: ["11773", "11791"]
 localPaths: ["Nassau County / elevation 207 ft band", "Nassau County / primary ZIP 11791", "Nassau County / ZIP 11791 sector", "Nassau County / coords 40.8200, -73.5000", "Nassau County / ZIP 11773 sector"]
+zillowHomeValueUsd: 1165909
 ---
 
 **Engineering Notice for Syosset:** Structural loading calculated based on 207 ft terrain assessment. Regional dispatch grid: Nassau County.

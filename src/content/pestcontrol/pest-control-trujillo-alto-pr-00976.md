@@ -11,6 +11,8 @@ lng: -66.0100
 zipSample: ["00976", "00926", "00978", "00977"]
 zipCodes: ["00978", "00976", "00977", "00926"]
 localPaths: ["Trujillo Alto County / elevation 200 ft band", "Trujillo Alto County / coords 18.3600, -66.0100", "Trujillo Alto County / ZIP 00978 sector", "Trujillo Alto County / ZIP 00976 sector", "Trujillo Alto County / ZIP 00926 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 383922
 ---
 
 **Engineering Notice for Trujillo Alto:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Trujillo Alto County.

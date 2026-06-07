@@ -12,6 +12,7 @@ lng: -98.5800
 zipSample: ["67104"]
 zipCodes: ["67104"]
 localPaths: ["Barber County / primary ZIP 67104", "Barber County / coords 37.2900, -98.5800", "Barber County / elevation 1506 ft band", "Barber County / ZIP 67104 sector"]
+zillowHomeValueUsd: 94502
 ---
 
 **Engineering Notice for Medicine Lodge:** structural drying capacity optimized for 1506ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Barber County. Relative Humidity Threshold: 84%. Sensor sync: Active.

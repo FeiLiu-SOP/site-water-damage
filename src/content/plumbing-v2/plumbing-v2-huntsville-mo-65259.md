@@ -12,6 +12,7 @@ lng: -92.5400
 zipSample: ["65259"]
 zipCodes: ["65259"]
 localPaths: ["Randolph County / ZIP 65259 sector", "Randolph County / coords 39.4400, -92.5400", "Randolph County / primary ZIP 65259", "Randolph County / elevation 768 ft band"]
+zillowHomeValueUsd: 208450
 ---
 
 **Engineering Notice for Huntsville:** System optimized for 172 mg/L hard water scaling factors in Huntsville. Regional dispatch grid: Randolph County.

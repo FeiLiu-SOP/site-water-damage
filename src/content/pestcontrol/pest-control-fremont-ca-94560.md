@@ -11,6 +11,7 @@ lng: -121.9800
 zipSample: ["94538", "94555", "94536", "94560", "94537"]
 zipCodes: ["94555", "94538", "94539", "94537", "94536", "94560"]
 localPaths: ["Alameda County / ZIP 94555 sector", "Alameda County / ZIP 94560 sector", "Alameda County / ZIP 94537 sector", "Alameda County / ZIP 94538 sector", "Alameda County / coords 37.5300, -121.9800"]
+zillowHomeValueUsd: 1260686
 ---
 
 **Engineering Notice for Fremont:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Alameda County.

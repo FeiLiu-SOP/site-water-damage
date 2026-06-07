@@ -12,6 +12,7 @@ lng: -94.4900
 zipSample: ["64854"]
 zipCodes: ["64854"]
 localPaths: ["McDonald County / primary ZIP 64854", "McDonald County / ZIP 64854 sector", "McDonald County / coords 36.5400, -94.4900", "McDonald County / elevation 869 ft band"]
+zillowHomeValueUsd: 201813
 ---
 
 **Engineering Notice for Noel:** System optimized for 156 mg/L hard water scaling factors in Noel. Regional dispatch grid: McDonald County.

@@ -12,6 +12,7 @@ lng: -80.7100
 zipSample: ["28105", "28106"]
 zipCodes: ["28105", "28106"]
 localPaths: ["Mecklenburg County / coords 35.1200, -80.7100", "Mecklenburg County / elevation 745 ft band", "Mecklenburg County / ZIP 28105 sector", "Mecklenburg County / ZIP 28106 sector", "Mecklenburg County / primary ZIP 28105"]
+zillowHomeValueUsd: 490626
 ---
 
 **Engineering Notice for Matthews:** Structural loading calculated based on 745 ft terrain assessment. Regional dispatch grid: Mecklenburg County.

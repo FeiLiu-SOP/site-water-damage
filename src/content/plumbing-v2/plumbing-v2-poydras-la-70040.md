@@ -12,6 +12,7 @@ lng: -89.8900
 zipSample: ["70085", "70040"]
 zipCodes: ["70040", "70085"]
 localPaths: ["St. Bernard Parish / coords 29.8600, -89.8900", "St. Bernard Parish / elevation 56 ft band", "St. Bernard Parish / ZIP 70085 sector", "St. Bernard Parish / primary ZIP 70040", "St. Bernard Parish / ZIP 70040 sector"]
+zillowHomeValueUsd: 191661
 ---
 
 **Engineering Notice for Poydras:** System optimized for 124 mg/L hard water scaling factors in Poydras. Regional dispatch grid: St. Bernard Parish.

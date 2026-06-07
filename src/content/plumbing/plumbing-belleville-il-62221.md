@@ -12,6 +12,7 @@ lng: -89.9900
 zipSample: ["62221", "62220", "62223", "62226"]
 zipCodes: ["62220", "62223", "62221", "62226"]
 localPaths: ["St. Clair County / coords 38.5200, -89.9900", "St. Clair County / ZIP 62223 sector", "St. Clair County / ZIP 62221 sector", "St. Clair County / elevation 505 ft band", "St. Clair County / ZIP 62220 sector"]
+zillowHomeValueUsd: 248082
 ---
 
 **Engineering Notice for Belleville:** Structural loading calculated based on 505 ft terrain assessment. Regional dispatch grid: St. Clair County.

@@ -12,6 +12,7 @@ lng: -86.7700
 zipSample: ["47460"]
 zipCodes: ["47460"]
 localPaths: ["Owen County / coords 39.2900, -86.7700", "Owen County / primary ZIP 47460", "Owen County / ZIP 47460 sector", "Owen County / elevation 558 ft band"]
+zillowHomeValueUsd: 248950
 ---
 
 **Engineering Notice for Spencer:** System optimized for 167 mg/L hard water scaling factors in Spencer. Regional dispatch grid: Owen County.

@@ -12,6 +12,7 @@ lng: -109.9500
 zipSample: ["84066"]
 zipCodes: ["84066"]
 localPaths: ["Uintah County / ZIP 84066 sector", "Uintah County / elevation 5023 ft band", "Uintah County / primary ZIP 84066", "Uintah County / coords 40.2900, -109.9500"]
+zillowHomeValueUsd: 371837
 ---
 
 **Engineering Notice for Ballard:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Elevation: 5023 ft AMSL. Grid: Uintah County.

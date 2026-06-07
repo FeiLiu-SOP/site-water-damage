@@ -11,6 +11,7 @@ lng: -98.0700
 zipSample: ["78332", "78333"]
 zipCodes: ["78332", "78333"]
 localPaths: ["Jim Wells County / ZIP 78333 sector", "Jim Wells County / primary ZIP 78332", "Jim Wells County / elevation 210 ft band", "Jim Wells County / ZIP 78332 sector", "Jim Wells County / coords 27.7600, -98.0700"]
+zillowHomeValueUsd: 133845
 ---
 
 **Engineering Notice for Alice:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Jim Wells County.

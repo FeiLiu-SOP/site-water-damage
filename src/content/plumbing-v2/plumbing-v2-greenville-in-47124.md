@@ -12,6 +12,7 @@ lng: -85.9800
 zipSample: ["47124"]
 zipCodes: ["47124"]
 localPaths: ["Floyd County / elevation 873 ft band", "Floyd County / ZIP 47124 sector", "Floyd County / coords 38.3700, -85.9800", "Floyd County / primary ZIP 47124"]
+zillowHomeValueUsd: 342934
 ---
 
 **Engineering Notice for Greenville:** System optimized for 147 mg/L hard water scaling factors in Greenville. Regional dispatch grid: Floyd County.

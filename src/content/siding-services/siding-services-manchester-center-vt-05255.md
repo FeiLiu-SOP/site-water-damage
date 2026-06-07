@@ -12,6 +12,7 @@ lng: -73.0400
 zipSample: ["05255"]
 zipCodes: ["05255"]
 localPaths: ["Bennington County / coords 43.1800, -73.0400", "Bennington County / elevation 886 ft band", "Bennington County / primary ZIP 05255", "Bennington County / ZIP 05255 sector"]
+zillowHomeValueUsd: 593928
 ---
 
 **Engineering Notice for Manchester Center:** Envelope check: Wall Restoration assigned to wind-load band B with stress factor 0.72. Elevation: 886 ft AMSL. Regional dispatch grid: Bennington County.

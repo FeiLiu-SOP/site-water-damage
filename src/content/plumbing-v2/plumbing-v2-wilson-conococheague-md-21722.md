@@ -12,6 +12,7 @@ lng: -77.8300
 zipSample: ["21740", "21722"]
 zipCodes: ["21740", "21722"]
 localPaths: ["Washington County / coords 39.6500, -77.8300", "Washington County / primary ZIP 21722", "Washington County / ZIP 21722 sector", "Washington County / elevation 436 ft band", "Washington County / ZIP 21740 sector"]
+zillowHomeValueUsd: 370146
 ---
 
 **Engineering Notice for Wilson-Conococheague:** System optimized for 176 mg/L hard water scaling factors in Wilson-Conococheague. Regional dispatch grid: Washington County.

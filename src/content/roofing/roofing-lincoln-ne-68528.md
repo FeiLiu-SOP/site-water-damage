@@ -11,6 +11,7 @@ lng: -96.6800
 zipSample: ["68516", "68508", "68506", "68522", "68503"]
 zipCodes: ["68529", "68528", "68583", "68506", "68503", "68544", "68516", "68526", "68505", "68520", "68508", "68521"]
 localPaths: ["Lancaster County / ZIP 68508 sector", "Lancaster County / ZIP 68522 sector", "Lancaster County / ZIP 68503 sector", "Lancaster County / ZIP 68506 sector", "Lancaster County / ZIP 68516 sector"]
+zillowHomeValueUsd: 287586
 ---
 
 **Engineering Notice for Lincoln:** Structural loading calculated based on 1224 ft terrain assessment. Regional dispatch grid: Lancaster County.

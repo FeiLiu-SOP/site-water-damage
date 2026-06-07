@@ -12,6 +12,7 @@ lng: -79.3900
 zipSample: ["27258", "27216", "27253"]
 zipCodes: ["27216", "27253", "27258"]
 localPaths: ["Alamance County / primary ZIP 27253", "Alamance County / elevation 591 ft band", "Alamance County / ZIP 27253 sector", "Alamance County / ZIP 27216 sector", "Alamance County / coords 36.0600, -79.3900"]
+zillowHomeValueUsd: 301418
 ---
 
 **Engineering Notice for Graham:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Alamance County.

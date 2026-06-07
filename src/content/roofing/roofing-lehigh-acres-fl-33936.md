@@ -11,6 +11,7 @@ lng: -81.6400
 zipSample: ["33970", "33976", "33971", "33936", "33974"]
 zipCodes: ["33971", "33970", "33973", "33936", "33974", "33976", "33972"]
 localPaths: ["Lee County / elevation 43 ft band", "Lee County / ZIP 33936 sector", "Lee County / primary ZIP 33936", "Lee County / coords 26.6100, -81.6400", "Lee County / ZIP 33970 sector"]
+zillowHomeValueUsd: 243035
 ---
 
 **Engineering Notice for Lehigh Acres:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Lee County.

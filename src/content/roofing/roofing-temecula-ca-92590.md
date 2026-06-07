@@ -11,6 +11,7 @@ lng: -117.1300
 zipSample: ["92589", "92591", "92590", "92592", "92593"]
 zipCodes: ["92592", "92590", "92593", "92589", "92591"]
 localPaths: ["Riverside County / primary ZIP 92590", "Riverside County / ZIP 92589 sector", "Riverside County / ZIP 92590 sector", "Riverside County / ZIP 92591 sector", "Riverside County / elevation 1152 ft band"]
+zillowHomeValueUsd: 1488345
 ---
 
 **Engineering Notice for Temecula:** Structural loading calculated based on 1152 ft terrain assessment. Regional dispatch grid: Riverside County.

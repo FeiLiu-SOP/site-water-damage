@@ -12,6 +12,7 @@ lng: -114.1100
 zipSample: ["59860", "59855", "59864"]
 zipCodes: ["59855", "59864", "59860"]
 localPaths: ["Lake County / coords 47.6000, -114.1100", "Lake County / primary ZIP 59864", "Lake County / elevation 3107 ft band", "Lake County / ZIP 59864 sector", "Lake County / ZIP 59860 sector"]
+zillowHomeValueUsd: 438304
 ---
 
 **Engineering Notice for Pablo:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Elevation: 3107 ft AMSL. Grid: Lake County.

@@ -12,6 +12,7 @@ lng: -77.4200
 zipSample: ["20151", "20171"]
 zipCodes: ["20171", "20151"]
 localPaths: ["Fairfax County / ZIP 20171 sector", "Fairfax County / primary ZIP 20151", "Fairfax County / elevation 344 ft band", "Fairfax County / ZIP 20151 sector", "Fairfax County / coords 38.9200, -77.4200"]
+zillowHomeValueUsd: 763403
 ---
 
 **Engineering Notice for Sully Square:** System optimized for 135 mg/L hard water scaling factors in Sully Square. Regional dispatch grid: Fairfax County.

@@ -12,6 +12,7 @@ lng: -75.8800
 zipSample: ["21660"]
 zipCodes: ["21660"]
 localPaths: ["Caroline County / primary ZIP 21660", "Caroline County / coords 38.9500, -75.8800", "Caroline County / elevation 59 ft band", "Caroline County / ZIP 21660 sector"]
+zillowHomeValueUsd: 365550
 ---
 
 **Engineering Notice for Ridgely:** System optimized for 128 mg/L hard water scaling factors in Ridgely. Regional dispatch grid: Caroline County.

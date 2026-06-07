@@ -11,6 +11,7 @@ lng: -80.6600
 zipSample: ["32934", "32935", "32912", "32941", "32919"]
 zipCodes: ["32903", "32912", "32919", "32901", "32904", "32935", "32941", "32934"]
 localPaths: ["Brevard County / primary ZIP 32934", "Brevard County / ZIP 32935 sector", "Brevard County / ZIP 32941 sector", "Brevard County / ZIP 32934 sector", "Brevard County / ZIP 32912 sector"]
+zillowHomeValueUsd: 489528
 ---
 
 **Engineering Notice for Melbourne:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Brevard County.

@@ -11,6 +11,7 @@ lng: -84.2100
 zipSample: ["32312", "32309", "32318"]
 zipCodes: ["32312", "32309", "32318"]
 localPaths: ["Leon County / ZIP 32309 sector", "Leon County / ZIP 32312 sector", "Leon County / ZIP 32318 sector", "Leon County / elevation 167 ft band", "Leon County / coords 30.5700, -84.2100"]
+zillowHomeValueUsd: 452062
 ---
 
 **Engineering Notice for Bradfordville:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Leon County.

@@ -12,6 +12,8 @@ lng: -121.2900
 zipSample: ["97761"]
 zipCodes: ["97761"]
 localPaths: ["Jefferson County / primary ZIP 97761", "Jefferson County / coords 44.7700, -121.2900", "Jefferson County / elevation 1657 ft band", "Jefferson County / ZIP 97761 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 485085
 ---
 
 **Engineering Notice for Warm Springs:** System optimized for 141 mg/L hard water scaling factors in Warm Springs. Regional dispatch grid: Jefferson County.

@@ -12,6 +12,7 @@ lng: -76.4700
 zipSample: ["13080"]
 zipCodes: ["13080"]
 localPaths: ["Onondaga County / elevation 413 ft band", "Onondaga County / coords 43.0700, -76.4700", "Onondaga County / primary ZIP 13080", "Onondaga County / ZIP 13080 sector"]
+zillowHomeValueUsd: 228951
 ---
 
 **Engineering Notice for Jordan:** Exterior Cladding was validated under stress factor 0.75; target tolerance set near 99 mph. Coordinates: 43.0700, -76.4700. Grid anchor: Onondaga County.

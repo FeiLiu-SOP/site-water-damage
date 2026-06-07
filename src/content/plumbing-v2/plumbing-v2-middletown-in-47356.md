@@ -12,6 +12,7 @@ lng: -85.5400
 zipSample: ["47356"]
 zipCodes: ["47356"]
 localPaths: ["Henry County / ZIP 47356 sector", "Henry County / primary ZIP 47356", "Henry County / elevation 978 ft band", "Henry County / coords 40.0600, -85.5400"]
+zillowHomeValueUsd: 239999
 ---
 
 **Engineering Notice for Middletown:** System optimized for 147 mg/L hard water scaling factors in Middletown. Regional dispatch grid: Henry County.

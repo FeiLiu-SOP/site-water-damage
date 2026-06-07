@@ -12,6 +12,7 @@ lng: -94.3500
 zipSample: ["75657"]
 zipCodes: ["75657"]
 localPaths: ["Marion County / ZIP 75657 sector", "Marion County / coords 32.7600, -94.3500", "Marion County / elevation 236 ft band", "Marion County / primary ZIP 75657"]
+zillowHomeValueUsd: 155368
 ---
 
 **Engineering Notice for Jefferson:** System optimized for 125 mg/L hard water scaling factors in Jefferson. Regional dispatch grid: Marion County.

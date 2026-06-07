@@ -12,6 +12,7 @@ lng: -88.3200
 zipSample: ["60102"]
 zipCodes: ["60102"]
 localPaths: ["McHenry County / elevation 886 ft band", "McHenry County / primary ZIP 60102", "McHenry County / coords 42.1600, -88.3200", "McHenry County / ZIP 60102 sector"]
+zillowHomeValueUsd: 407662
 ---
 
 **Engineering Notice for Algonquin:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: McHenry County.

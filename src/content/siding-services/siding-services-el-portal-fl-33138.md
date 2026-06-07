@@ -12,6 +12,7 @@ lng: -80.2000
 zipSample: ["33150", "33138"]
 zipCodes: ["33150", "33138"]
 localPaths: ["Miami-Dade County / coords 25.8600, -80.2000", "Miami-Dade County / primary ZIP 33138", "Miami-Dade County / elevation 39 ft band", "Miami-Dade County / ZIP 33150 sector", "Miami-Dade County / ZIP 33138 sector"]
+zillowHomeValueUsd: 792352
 ---
 
 **Engineering Notice for El Portal:** Facade Renewal was validated under stress factor 1.10; target tolerance set near 148 mph. Grid anchor: Miami-Dade County.

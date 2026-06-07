@@ -11,6 +11,7 @@ lng: -85.6400
 zipSample: ["40222", "40207"]
 zipCodes: ["40207", "40222"]
 localPaths: ["Jefferson County / elevation 545 ft band", "Jefferson County / ZIP 40207 sector", "Jefferson County / primary ZIP 40222", "Jefferson County / ZIP 40222 sector", "Jefferson County / coords 38.2500, -85.6400"]
+zillowHomeValueUsd: 391876
 ---
 
 **Engineering Notice for St. Matthews:** Structural loading calculated based on 545 ft terrain assessment. Regional dispatch grid: Jefferson County.

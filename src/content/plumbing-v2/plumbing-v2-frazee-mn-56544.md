@@ -12,6 +12,7 @@ lng: -95.7000
 zipSample: ["56544"]
 zipCodes: ["56544"]
 localPaths: ["Becker County / ZIP 56544 sector", "Becker County / elevation 1388 ft band", "Becker County / primary ZIP 56544", "Becker County / coords 46.7300, -95.7000"]
+zillowHomeValueUsd: 334082
 ---
 
 **Engineering Notice for Frazee:** System optimized for 168 mg/L hard water scaling factors in Frazee. Regional dispatch grid: Becker County.

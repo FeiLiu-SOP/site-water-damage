@@ -12,6 +12,7 @@ lng: -80.2700
 zipSample: ["24171"]
 zipCodes: ["24171"]
 localPaths: ["Patrick County / coords 36.6400, -80.2700", "Patrick County / elevation 1299 ft band", "Patrick County / primary ZIP 24171", "Patrick County / ZIP 24171 sector"]
+zillowHomeValueUsd: 188246
 ---
 
 **Engineering Notice for Stuart:** System optimized for 134 mg/L hard water scaling factors in Stuart. Regional dispatch grid: Patrick County.

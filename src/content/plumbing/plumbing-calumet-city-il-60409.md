@@ -12,6 +12,7 @@ lng: -87.5500
 zipSample: ["60409"]
 zipCodes: ["60409"]
 localPaths: ["Cook County / elevation 597 ft band", "Cook County / ZIP 60409 sector", "Cook County / primary ZIP 60409", "Cook County / coords 41.6100, -87.5500"]
+zillowHomeValueUsd: 150648
 ---
 
 **Engineering Notice for Calumet City:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Cook County.

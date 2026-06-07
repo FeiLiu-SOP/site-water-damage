@@ -12,6 +12,7 @@ lng: -83.2700
 zipSample: ["43143"]
 zipCodes: ["43143"]
 localPaths: ["Madison County / ZIP 43143 sector", "Madison County / coords 39.7100, -83.2700", "Madison County / primary ZIP 43143", "Madison County / elevation 909 ft band"]
+zillowHomeValueUsd: 288896
 ---
 
 **Engineering Notice for Mount Sterling:** structural drying capacity optimized for 909ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Madison County. Relative Humidity Threshold: 81%. Sensor sync: Active.

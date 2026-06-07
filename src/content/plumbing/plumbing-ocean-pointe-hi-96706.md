@@ -12,6 +12,7 @@ lng: -158.0300
 zipSample: ["96706"]
 zipCodes: ["96706"]
 localPaths: ["Honolulu County / ZIP 96706 sector", "Honolulu County / elevation 30 ft band", "Honolulu County / coords 21.3100, -158.0300", "Honolulu County / primary ZIP 96706"]
+zillowHomeValueUsd: 830575
 ---
 
 **Engineering Notice for Ocean Pointe:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Honolulu County.

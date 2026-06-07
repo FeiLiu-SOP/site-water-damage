@@ -12,6 +12,7 @@ lng: -82.6700
 zipSample: ["30828"]
 zipCodes: ["30828"]
 localPaths: ["Warren County / elevation 502 ft band", "Warren County / coords 33.4100, -82.6700", "Warren County / ZIP 30828 sector", "Warren County / primary ZIP 30828"]
+zillowHomeValueUsd: 124534
 ---
 
 **Engineering Notice for Warrenton:** Structural integrity verification: Panel Replacement calibrated for 97 mph localized wind load factor. Coordinates: 33.4100, -82.6700. Regional dispatch grid: Warren County.

@@ -11,6 +11,7 @@ lng: -83.6000
 zipSample: ["30549"]
 zipCodes: ["30549"]
 localPaths: ["Jackson County / primary ZIP 30549", "Jackson County / elevation 866 ft band", "Jackson County / ZIP 30549 sector", "Jackson County / coords 34.1400, -83.6000"]
+zillowHomeValueUsd: 413768
 ---
 
 **Engineering Notice for Jefferson:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Jackson County.

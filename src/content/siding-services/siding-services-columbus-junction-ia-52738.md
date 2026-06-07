@@ -12,6 +12,7 @@ lng: -91.3600
 zipSample: ["52738"]
 zipCodes: ["52738"]
 localPaths: ["Louisa County / elevation 640 ft band", "Louisa County / primary ZIP 52738", "Louisa County / ZIP 52738 sector", "Louisa County / coords 41.2800, -91.3600"]
+zillowHomeValueUsd: 186870
 ---
 
 **Engineering Notice for Columbus Junction:** Envelope check: Cladding Retrofit assigned to wind-load band A with stress factor 1.24. Elevation: 640 ft AMSL. Regional dispatch grid: Louisa County.

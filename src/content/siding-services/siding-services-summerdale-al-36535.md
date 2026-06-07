@@ -12,6 +12,7 @@ lng: -87.6900
 zipSample: ["36535", "36580"]
 zipCodes: ["36580", "36535"]
 localPaths: ["Baldwin County / primary ZIP 36535", "Baldwin County / ZIP 36535 sector", "Baldwin County / ZIP 36580 sector", "Baldwin County / coords 30.4800, -87.6900", "Baldwin County / elevation 112 ft band"]
+zillowHomeValueUsd: 301645
 ---
 
 **Engineering Notice for Summerdale:** Structural integrity verification: Vinyl Panels calibrated for 100 mph localized wind load factor. Coordinates: 30.4800, -87.6900. Regional dispatch grid: Baldwin County.

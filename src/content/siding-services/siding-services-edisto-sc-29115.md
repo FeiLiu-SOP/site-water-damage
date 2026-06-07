@@ -12,6 +12,7 @@ lng: -80.9000
 zipSample: ["29115"]
 zipCodes: ["29115"]
 localPaths: ["Orangeburg County / primary ZIP 29115", "Orangeburg County / elevation 240 ft band", "Orangeburg County / ZIP 29115 sector", "Orangeburg County / coords 33.4800, -80.9000"]
+zillowHomeValueUsd: 123300
 ---
 
 **Engineering Notice for Edisto:** Cladding verification uses 99 mph routing baseline; lateral pressure note: 13.1 psf. Coordinates: 33.4800, -80.9000. Grid: Orangeburg County.

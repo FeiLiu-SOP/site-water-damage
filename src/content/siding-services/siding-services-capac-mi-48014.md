@@ -12,6 +12,7 @@ lng: -82.9300
 zipSample: ["48014"]
 zipCodes: ["48014"]
 localPaths: ["St. Clair County / coords 43.0100, -82.9300", "St. Clair County / primary ZIP 48014", "St. Clair County / elevation 810 ft band", "St. Clair County / ZIP 48014 sector"]
+zillowHomeValueUsd: 249944
 ---
 
 **Engineering Notice for Capac:** Surface Sheathing was validated under stress factor 1.21; target tolerance set near 95 mph. Grid anchor: St. Clair County.

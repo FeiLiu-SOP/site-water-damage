@@ -12,6 +12,7 @@ lng: -82.5600
 zipSample: ["33556", "33625"]
 zipCodes: ["33556", "33625"]
 localPaths: ["Hillsborough County / ZIP 33556 sector", "Hillsborough County / ZIP 33625 sector", "Hillsborough County / primary ZIP 33625", "Hillsborough County / coords 28.0700, -82.5600", "Hillsborough County / elevation 56 ft band"]
+zillowHomeValueUsd: 426984
 ---
 
 **Engineering Notice for Citrus Park:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Hillsborough County.

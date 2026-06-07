@@ -11,6 +11,7 @@ lng: -84.3000
 zipSample: ["30036", "30030", "30031"]
 zipCodes: ["30030", "30036", "30031"]
 localPaths: ["DeKalb County / ZIP 30036 sector", "DeKalb County / primary ZIP 30030", "DeKalb County / ZIP 30030 sector", "DeKalb County / ZIP 30031 sector", "DeKalb County / coords 33.7700, -84.3000"]
+zillowHomeValueUsd: 639070
 ---
 
 **Engineering Notice for Decatur:** Structural loading calculated based on 1030 ft terrain assessment. Regional dispatch grid: DeKalb County.

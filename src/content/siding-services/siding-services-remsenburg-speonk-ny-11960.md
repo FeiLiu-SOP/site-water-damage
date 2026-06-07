@@ -12,6 +12,7 @@ lng: -72.7100
 zipSample: ["11977", "11972", "11960"]
 zipCodes: ["11972", "11960", "11977"]
 localPaths: ["Suffolk County / elevation 20 ft band", "Suffolk County / ZIP 11972 sector", "Suffolk County / coords 40.8200, -72.7100", "Suffolk County / primary ZIP 11960", "Suffolk County / ZIP 11960 sector"]
+zillowHomeValueUsd: 1778543
 ---
 
 **Engineering Notice for Remsenburg-Speonk:** Structural integrity verification: Surface Sheathing calibrated for 105 mph localized wind load factor. Elevation: 20 ft AMSL. Regional dispatch grid: Suffolk County.

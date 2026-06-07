@@ -12,6 +12,7 @@ lng: -122.0800
 zipSample: ["98042", "98058", "98038"]
 zipCodes: ["98042", "98038", "98058"]
 localPaths: ["King County / ZIP 98058 sector", "King County / coords 47.4000, -122.0800", "King County / elevation 607 ft band", "King County / ZIP 98038 sector", "King County / ZIP 98042 sector"]
+zillowHomeValueUsd: 742746
 ---
 
 **Engineering Notice for Shadow Lake:** structural drying capacity optimized for 607ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: King County. Relative Humidity Threshold: 79%. Sensor sync: Active.

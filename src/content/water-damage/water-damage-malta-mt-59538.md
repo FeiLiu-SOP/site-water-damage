@@ -12,6 +12,7 @@ lng: -107.8700
 zipSample: ["59538"]
 zipCodes: ["59538"]
 localPaths: ["Phillips County / ZIP 59538 sector", "Phillips County / primary ZIP 59538", "Phillips County / elevation 2260 ft band", "Phillips County / coords 48.3600, -107.8700"]
+zillowHomeValueUsd: 240443
 ---
 
 **Engineering Notice for Malta:** structural drying capacity optimized for 2260ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Phillips County. Relative Humidity Threshold: 79%. Sensor sync: Active.

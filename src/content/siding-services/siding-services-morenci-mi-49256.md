@@ -12,6 +12,7 @@ lng: -84.2200
 zipSample: ["49256"]
 zipCodes: ["49256"]
 localPaths: ["Lenawee County / primary ZIP 49256", "Lenawee County / ZIP 49256 sector", "Lenawee County / coords 41.7200, -84.2200", "Lenawee County / elevation 778 ft band"]
+zillowHomeValueUsd: 172282
 ---
 
 **Engineering Notice for Morenci:** Structural integrity verification: Panel Replacement calibrated for 93 mph localized wind load factor. Elevation: 778 ft AMSL. Coordinates: 41.7200, -84.2200. Regional dispatch grid: Lenawee County.

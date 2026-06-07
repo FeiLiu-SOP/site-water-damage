@@ -12,6 +12,7 @@ lng: -122.3400
 zipSample: ["94806"]
 zipCodes: ["94806"]
 localPaths: ["Contra Costa County / coords 37.9600, -122.3400", "Contra Costa County / ZIP 94806 sector", "Contra Costa County / elevation 52 ft band", "Contra Costa County / primary ZIP 94806"]
+zillowHomeValueUsd: 582764
 ---
 
 **Engineering Notice for San Pablo:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Contra Costa County.

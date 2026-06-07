@@ -11,6 +11,7 @@ lng: -86.8100
 zipSample: ["35226", "35260", "35216", "35244", "35242"]
 zipCodes: ["35236", "35260", "35244", "35226", "35216", "35242"]
 localPaths: ["Jefferson County / ZIP 35244 sector", "Jefferson County / primary ZIP 35216", "Jefferson County / ZIP 35260 sector", "Jefferson County / elevation 492 ft band", "Jefferson County / ZIP 35242 sector"]
+zillowHomeValueUsd: 411558
 ---
 
 **Engineering Notice for Hoover:** Structural loading calculated based on 492 ft terrain assessment. Regional dispatch grid: Jefferson County.

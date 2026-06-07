@@ -12,6 +12,7 @@ lng: -111.7400
 zipSample: ["84062"]
 zipCodes: ["84062"]
 localPaths: ["Utah County / coords 40.3700, -111.7400", "Utah County / elevation 4636 ft band", "Utah County / ZIP 84062 sector", "Utah County / primary ZIP 84062"]
+zillowHomeValueUsd: 584834
 ---
 
 **Engineering Notice for Pleasant Grove:** Structural loading calculated based on 4636 ft terrain assessment. Regional dispatch grid: Utah County.

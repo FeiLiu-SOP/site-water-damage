@@ -12,6 +12,7 @@ lng: -100.1300
 zipSample: ["79520"]
 zipCodes: ["79520"]
 localPaths: ["Jones County / primary ZIP 79520", "Jones County / elevation 1722 ft band", "Jones County / ZIP 79520 sector", "Jones County / coords 32.8900, -100.1300"]
+zillowHomeValueUsd: 109373
 ---
 
 **Engineering Notice for Hamlin:** Site context locked to Jones County. Coordinates: 32.8900, -100.1300. Cladding Retrofit integrity verification recorded.

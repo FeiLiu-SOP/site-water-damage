@@ -12,6 +12,7 @@ lng: -83.4100
 zipSample: ["45660"]
 zipCodes: ["45660"]
 localPaths: ["Adams County / ZIP 45660 sector", "Adams County / primary ZIP 45660", "Adams County / elevation 820 ft band", "Adams County / coords 38.9500, -83.4100"]
+zillowHomeValueUsd: 187081
 ---
 
 **Engineering Notice for Peebles:** System optimized for 161 mg/L hard water scaling factors in Peebles. Regional dispatch grid: Adams County.

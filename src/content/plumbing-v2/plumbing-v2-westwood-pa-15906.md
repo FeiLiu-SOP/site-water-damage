@@ -12,6 +12,7 @@ lng: -78.9500
 zipSample: ["15905", "15906"]
 zipCodes: ["15905", "15906"]
 localPaths: ["Cambria County / coords 40.3300, -78.9500", "Cambria County / ZIP 15906 sector", "Cambria County / primary ZIP 15906", "Cambria County / elevation 1742 ft band", "Cambria County / ZIP 15905 sector"]
+zillowHomeValueUsd: 42909
 ---
 
 **Engineering Notice for Westwood:** System optimized for 166 mg/L hard water scaling factors in Westwood. Regional dispatch grid: Cambria County.

@@ -12,6 +12,7 @@ lng: -106.0600
 zipSample: ["87016", "87035", "87032"]
 zipCodes: ["87035", "87032", "87016"]
 localPaths: ["Torrance County / elevation 6152 ft band", "Torrance County / primary ZIP 87032", "Torrance County / ZIP 87016 sector", "Torrance County / coords 34.8800, -106.0600", "Torrance County / ZIP 87032 sector"]
+zillowHomeValueUsd: 217567
 ---
 
 **Engineering Notice for McIntosh:** System optimized for 161 mg/L hard water scaling factors in McIntosh. Regional dispatch grid: Torrance County.

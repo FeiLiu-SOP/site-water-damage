@@ -11,6 +11,7 @@ lng: -91.3900
 zipSample: ["63401"]
 zipCodes: ["63401"]
 localPaths: ["Marion County / primary ZIP 63401", "Marion County / elevation 650 ft band", "Marion County / coords 39.7100, -91.3900", "Marion County / ZIP 63401 sector"]
+zillowHomeValueUsd: 173719
 ---
 
 **Engineering Notice for Hannibal:** Structural loading calculated based on 650 ft terrain assessment. Regional dispatch grid: Marion County.

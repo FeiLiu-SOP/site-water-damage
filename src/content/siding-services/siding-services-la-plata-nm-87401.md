@@ -12,6 +12,7 @@ lng: -108.2000
 zipSample: ["87418", "87401"]
 zipCodes: ["87418", "87401"]
 localPaths: ["San Juan County / coords 36.9000, -108.2000", "San Juan County / elevation 5732 ft band", "San Juan County / ZIP 87401 sector", "San Juan County / primary ZIP 87401", "San Juan County / ZIP 87418 sector"]
+zillowHomeValueUsd: 265344
 ---
 
 **Engineering Notice for La Plata:** Envelope check: Exterior Cladding assigned to wind-load band B with stress factor 0.73. Elevation: 5732 ft AMSL. Regional dispatch grid: San Juan County.

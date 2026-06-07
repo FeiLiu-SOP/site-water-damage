@@ -12,6 +12,7 @@ lng: -116.1300
 zipSample: ["92274"]
 zipCodes: ["92274"]
 localPaths: ["Riverside County / coords 33.6300, -116.1300", "Riverside County / primary ZIP 92274", "Riverside County / ZIP 92274 sector", "Riverside County / elevation -133 ft band"]
+zillowHomeValueUsd: 301832
 ---
 
 **Engineering Notice for Thermal:** Cladding verification uses 149 mph routing baseline; lateral pressure note: 19.1 psf. Coordinates: 33.6300, -116.1300. Grid: Riverside County.

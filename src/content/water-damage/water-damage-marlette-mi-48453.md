@@ -12,6 +12,7 @@ lng: -83.0800
 zipSample: ["48453"]
 zipCodes: ["48453"]
 localPaths: ["Sanilac County / ZIP 48453 sector", "Sanilac County / primary ZIP 48453", "Sanilac County / coords 43.3300, -83.0800", "Sanilac County / elevation 837 ft band"]
+zillowHomeValueUsd: 177971
 ---
 
 **Engineering Notice for Marlette:** structural drying capacity optimized for 837ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sanilac County. Relative Humidity Threshold: 84%. Sensor sync: Active.

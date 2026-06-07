@@ -12,6 +12,7 @@ lng: -95.8800
 zipSample: ["77482"]
 zipCodes: ["77482"]
 localPaths: ["Matagorda County / primary ZIP 77482", "Matagorda County / ZIP 77482 sector", "Matagorda County / coords 29.0300, -95.8800", "Matagorda County / elevation 59 ft band"]
+zillowHomeValueUsd: 236457
 ---
 
 **Engineering Notice for Van Vleck:** System optimized for 167 mg/L hard water scaling factors in Van Vleck. Regional dispatch grid: Matagorda County.

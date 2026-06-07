@@ -12,6 +12,7 @@ lng: -90.5100
 zipSample: ["70443"]
 zipCodes: ["70443"]
 localPaths: ["Tangipahoa Parish / ZIP 70443 sector", "Tangipahoa Parish / elevation 95 ft band", "Tangipahoa Parish / primary ZIP 70443", "Tangipahoa Parish / coords 30.6400, -90.5100"]
+zillowHomeValueUsd: 191985
 ---
 
 **Engineering Notice for Independence:** Envelope check: Cladding Service assigned to wind-load band A with stress factor 0.84. Elevation: 95 ft AMSL. Regional dispatch grid: Tangipahoa Parish.

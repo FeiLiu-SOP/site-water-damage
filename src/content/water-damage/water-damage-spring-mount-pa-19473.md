@@ -12,6 +12,7 @@ lng: -75.4600
 zipSample: ["19478", "19473"]
 zipCodes: ["19473", "19478"]
 localPaths: ["Montgomery County / primary ZIP 19473", "Montgomery County / ZIP 19473 sector", "Montgomery County / elevation 220 ft band", "Montgomery County / coords 40.2800, -75.4600", "Montgomery County / ZIP 19478 sector"]
+zillowHomeValueUsd: 535374
 ---
 
 **Engineering Notice for Spring Mount:** structural drying capacity optimized for 220ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Montgomery County. Relative Humidity Threshold: 72%. Sensor sync: Active.

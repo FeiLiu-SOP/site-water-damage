@@ -11,6 +11,7 @@ lng: -73.1300
 zipSample: ["06790"]
 zipCodes: ["06790"]
 localPaths: ["Northwest Hills County / elevation 1043 ft band", "Northwest Hills County / primary ZIP 06790", "Northwest Hills County / ZIP 06790 sector", "Northwest Hills County / coords 41.8300, -73.1300"]
+zillowHomeValueUsd: 294967
 ---
 
 **Engineering Notice for Torrington:** Structural loading calculated based on 1043 ft terrain assessment. Regional dispatch grid: Northwest Hills County.

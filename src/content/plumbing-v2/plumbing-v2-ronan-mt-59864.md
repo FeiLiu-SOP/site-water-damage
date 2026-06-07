@@ -12,6 +12,7 @@ lng: -114.1000
 zipSample: ["59864"]
 zipCodes: ["59864"]
 localPaths: ["Lake County / ZIP 59864 sector", "Lake County / coords 47.5300, -114.1000", "Lake County / primary ZIP 59864", "Lake County / elevation 3054 ft band"]
+zillowHomeValueUsd: 438301
 ---
 
 **Engineering Notice for Ronan:** System optimized for 156 mg/L hard water scaling factors in Ronan. Regional dispatch grid: Lake County.

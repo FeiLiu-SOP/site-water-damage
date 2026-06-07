@@ -11,6 +11,7 @@ lng: -84.4100
 zipSample: ["30287", "30374", "30274", "30296"]
 zipCodes: ["30374", "30274", "30296", "30287"]
 localPaths: ["Clayton County / coords 33.5600, -84.4100", "Clayton County / primary ZIP 30274", "Clayton County / ZIP 30374 sector", "Clayton County / ZIP 30296 sector", "Clayton County / ZIP 30287 sector"]
+zillowHomeValueUsd: 200595
 ---
 
 **Engineering Notice for Riverdale:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Clayton County.

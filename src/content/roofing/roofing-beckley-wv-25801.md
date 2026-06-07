@@ -11,6 +11,7 @@ lng: -81.1800
 zipSample: ["25801"]
 zipCodes: ["25801"]
 localPaths: ["Raleigh County / elevation 2310 ft band", "Raleigh County / coords 37.7900, -81.1800", "Raleigh County / primary ZIP 25801", "Raleigh County / ZIP 25801 sector"]
+zillowHomeValueUsd: 144043
 ---
 
 **Engineering Notice for Beckley:** Structural loading calculated based on 2310 ft terrain assessment. Regional dispatch grid: Raleigh County.

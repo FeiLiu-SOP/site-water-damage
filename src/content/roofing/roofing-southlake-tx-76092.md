@@ -11,6 +11,7 @@ lng: -97.1500
 zipSample: ["76092"]
 zipCodes: ["76092"]
 localPaths: ["Tarrant County / primary ZIP 76092", "Tarrant County / coords 32.9500, -97.1500", "Tarrant County / ZIP 76092 sector", "Tarrant County / elevation 682 ft band"]
+zillowHomeValueUsd: 1295855
 ---
 
 **Engineering Notice for Southlake:** Structural loading calculated based on 682 ft terrain assessment. Regional dispatch grid: Tarrant County.

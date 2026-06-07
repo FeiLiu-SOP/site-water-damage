@@ -12,6 +12,7 @@ lng: -76.3900
 zipSample: ["17981"]
 zipCodes: ["17981"]
 localPaths: ["Schuylkill County / elevation 787 ft band", "Schuylkill County / coords 40.6300, -76.3900", "Schuylkill County / ZIP 17981 sector", "Schuylkill County / primary ZIP 17981"]
+zillowHomeValueUsd: 105538
 ---
 
 **Engineering Notice for Tremont:** structural drying capacity optimized for 787ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Schuylkill County. Relative Humidity Threshold: 82%. Sensor sync: Active.

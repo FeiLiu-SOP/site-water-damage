@@ -11,6 +11,7 @@ lng: -72.3000
 zipSample: ["03431", "03435"]
 zipCodes: ["03435", "03431"]
 localPaths: ["Cheshire County / primary ZIP 03431", "Cheshire County / ZIP 03435 sector", "Cheshire County / coords 42.9500, -72.3000", "Cheshire County / elevation 509 ft band", "Cheshire County / ZIP 03431 sector"]
+zillowHomeValueUsd: 342932
 ---
 
 **Engineering Notice for Keene:** Structural loading calculated based on 509 ft terrain assessment. Regional dispatch grid: Cheshire County.

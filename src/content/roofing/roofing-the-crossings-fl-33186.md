@@ -11,6 +11,7 @@ lng: -80.4000
 zipSample: ["33186"]
 zipCodes: ["33186"]
 localPaths: ["Miami-Dade County / primary ZIP 33186", "Miami-Dade County / coords 25.6700, -80.4000", "Miami-Dade County / ZIP 33186 sector", "Miami-Dade County / elevation 26 ft band"]
+zillowHomeValueUsd: 522115
 ---
 
 **Engineering Notice for The Crossings:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

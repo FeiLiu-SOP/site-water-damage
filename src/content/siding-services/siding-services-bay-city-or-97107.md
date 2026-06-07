@@ -12,6 +12,7 @@ lng: -123.8900
 zipSample: ["97107"]
 zipCodes: ["97107"]
 localPaths: ["Tillamook County / coords 45.5200, -123.8900", "Tillamook County / elevation 118 ft band", "Tillamook County / ZIP 97107 sector", "Tillamook County / primary ZIP 97107"]
+zillowHomeValueUsd: 395268
 ---
 
 **Engineering Notice for Bay City:** Structural integrity verification: Panel Replacement calibrated for 100 mph localized wind load factor. Elevation: 118 ft AMSL. Coordinates: 45.5200, -123.8900. Regional dispatch grid: Tillamook County.

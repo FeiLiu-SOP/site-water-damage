@@ -12,6 +12,7 @@ lng: -111.2700
 zipSample: ["84036"]
 zipCodes: ["84036"]
 localPaths: ["Summit County / primary ZIP 84036", "Summit County / elevation 6680 ft band", "Summit County / ZIP 84036 sector", "Summit County / coords 40.6500, -111.2700"]
+zillowHomeValueUsd: 1017828
 ---
 
 **Engineering Notice for Kamas:** System optimized for 147 mg/L hard water scaling factors in Kamas. Regional dispatch grid: Summit County.

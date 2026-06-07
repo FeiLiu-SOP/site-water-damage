@@ -12,6 +12,7 @@ lng: -122.2700
 zipSample: ["98372"]
 zipCodes: ["98372"]
 localPaths: ["Pierce County / primary ZIP 98372", "Pierce County / ZIP 98372 sector", "Pierce County / elevation 56 ft band", "Pierce County / coords 47.2000, -122.2700"]
+zillowHomeValueUsd: 627791
 ---
 
 **Engineering Notice for North Puyallup:** Site context locked to Pierce County. Coordinates: 47.2000, -122.2700. Wall Restoration integrity verification recorded.

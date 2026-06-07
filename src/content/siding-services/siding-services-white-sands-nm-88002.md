@@ -12,6 +12,8 @@ lng: -106.4800
 zipSample: ["88002"]
 zipCodes: ["88002"]
 localPaths: ["Doña Ana County / ZIP 88002 sector", "Doña Ana County / elevation 4242 ft band", "Doña Ana County / coords 32.3800, -106.4800", "Doña Ana County / primary ZIP 88002"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 301254
 ---
 
 **Engineering Notice for White Sands:** Structural integrity verification: Cladding Retrofit calibrated for 93 mph localized wind load factor. Regional dispatch grid: Doña Ana County.

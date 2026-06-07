@@ -12,6 +12,7 @@ lng: -94.5200
 zipSample: ["64030"]
 zipCodes: ["64030"]
 localPaths: ["Jackson County / elevation 1020 ft band", "Jackson County / ZIP 64030 sector", "Jackson County / coords 38.8800, -94.5200", "Jackson County / primary ZIP 64030"]
+zillowHomeValueUsd: 216667
 ---
 
 **Engineering Notice for Grandview:** Structural loading calculated based on 1020 ft terrain assessment. Regional dispatch grid: Jackson County.

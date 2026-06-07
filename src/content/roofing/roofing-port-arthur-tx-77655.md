@@ -11,6 +11,7 @@ lng: -93.9300
 zipSample: ["77640", "77643", "77655", "77642", "77641"]
 zipCodes: ["77655", "77643", "77642", "77640", "77641"]
 localPaths: ["Jefferson County / ZIP 77642 sector", "Jefferson County / ZIP 77655 sector", "Jefferson County / ZIP 77641 sector", "Jefferson County / primary ZIP 77655", "Jefferson County / elevation 0 ft band"]
+zillowHomeValueUsd: 120472
 ---
 
 **Engineering Notice for Port Arthur:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Jefferson County.

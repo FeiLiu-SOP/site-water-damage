@@ -12,6 +12,7 @@ lng: -85.7700
 zipSample: ["36322", "36330"]
 zipCodes: ["36322", "36330"]
 localPaths: ["Dale County / elevation 338 ft band", "Dale County / coords 31.3100, -85.7700", "Dale County / ZIP 36330 sector", "Dale County / primary ZIP 36330", "Dale County / ZIP 36322 sector"]
+zillowHomeValueUsd: 203868
 ---
 
 **Engineering Notice for Level Plains:** System optimized for 145 mg/L hard water scaling factors in Level Plains. Regional dispatch grid: Dale County.

@@ -12,6 +12,7 @@ lng: -119.4300
 zipSample: ["98844"]
 zipCodes: ["98844"]
 localPaths: ["Okanogan County / ZIP 98844 sector", "Okanogan County / elevation 909 ft band", "Okanogan County / primary ZIP 98844", "Okanogan County / coords 48.9400, -119.4300"]
+zillowHomeValueUsd: 261939
 ---
 
 **Engineering Notice for Oroville:** structural drying capacity optimized for 909ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Okanogan County. Relative Humidity Threshold: 80%. Sensor sync: Active.

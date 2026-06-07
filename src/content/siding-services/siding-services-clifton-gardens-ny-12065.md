@@ -12,6 +12,7 @@ lng: -73.7800
 zipSample: ["12065"]
 zipCodes: ["12065"]
 localPaths: ["Saratoga County / ZIP 12065 sector", "Saratoga County / coords 42.8500, -73.7800", "Saratoga County / primary ZIP 12065", "Saratoga County / elevation 335 ft band"]
+zillowHomeValueUsd: 474872
 ---
 
 **Engineering Notice for Clifton Gardens:** Structural integrity verification: Panel Replacement calibrated for 105 mph localized wind load factor. Coordinates: 42.8500, -73.7800. Regional dispatch grid: Saratoga County.

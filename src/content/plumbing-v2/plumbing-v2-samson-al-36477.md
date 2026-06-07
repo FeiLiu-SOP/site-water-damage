@@ -12,6 +12,7 @@ lng: -86.0500
 zipSample: ["36477"]
 zipCodes: ["36477"]
 localPaths: ["Geneva County / ZIP 36477 sector", "Geneva County / elevation 223 ft band", "Geneva County / coords 31.1100, -86.0500", "Geneva County / primary ZIP 36477"]
+zillowHomeValueUsd: 148295
 ---
 
 **Engineering Notice for Samson:** System optimized for 177 mg/L hard water scaling factors in Samson. Regional dispatch grid: Geneva County.

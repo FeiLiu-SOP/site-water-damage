@@ -12,6 +12,7 @@ lng: -84.6000
 zipSample: ["41035"]
 zipCodes: ["41035"]
 localPaths: ["Grant County / ZIP 41035 sector", "Grant County / primary ZIP 41035", "Grant County / elevation 958 ft band", "Grant County / coords 38.6800, -84.6000"]
+zillowHomeValueUsd: 290664
 ---
 
 **Engineering Notice for Dry Ridge:** System optimized for 169 mg/L hard water scaling factors in Dry Ridge. Regional dispatch grid: Grant County.

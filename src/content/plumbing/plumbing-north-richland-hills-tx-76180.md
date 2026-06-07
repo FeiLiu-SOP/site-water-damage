@@ -12,6 +12,7 @@ lng: -97.2200
 zipSample: ["76182", "76185", "76180"]
 zipCodes: ["76180", "76185", "76182"]
 localPaths: ["Tarrant County / elevation 636 ft band", "Tarrant County / coords 32.8600, -97.2200", "Tarrant County / ZIP 76180 sector", "Tarrant County / ZIP 76182 sector", "Tarrant County / primary ZIP 76180"]
+zillowHomeValueUsd: 336937
 ---
 
 **Engineering Notice for North Richland Hills:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Tarrant County.

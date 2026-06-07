@@ -12,6 +12,7 @@ lng: -75.9200
 zipSample: ["19560"]
 zipCodes: ["19560"]
 localPaths: ["Berks County / ZIP 19560 sector", "Berks County / primary ZIP 19560", "Berks County / coords 40.4000, -75.9200", "Berks County / elevation 354 ft band"]
+zillowHomeValueUsd: 270193
 ---
 
 **Engineering Notice for South Temple:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Coordinates: 40.4000, -75.9200. Grid: Berks County.

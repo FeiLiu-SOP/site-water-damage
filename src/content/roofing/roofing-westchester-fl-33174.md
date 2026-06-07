@@ -11,6 +11,7 @@ lng: -80.3500
 zipSample: ["33144", "33174", "33155", "33165", "33199"]
 zipCodes: ["33165", "33199", "33174", "33155", "33144"]
 localPaths: ["Miami-Dade County / ZIP 33144 sector", "Miami-Dade County / ZIP 33165 sector", "Miami-Dade County / ZIP 33199 sector", "Miami-Dade County / ZIP 33174 sector", "Miami-Dade County / elevation 33 ft band"]
+zillowHomeValueUsd: 442086
 ---
 
 **Engineering Notice for Westchester:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

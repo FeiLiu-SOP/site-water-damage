@@ -12,6 +12,7 @@ lng: -122.6800
 zipSample: ["97034", "97068"]
 zipCodes: ["97068", "97034"]
 localPaths: ["Clackamas County / ZIP 97034 sector", "Clackamas County / ZIP 97068 sector", "Clackamas County / elevation 253 ft band", "Clackamas County / coords 45.3800, -122.6800", "Clackamas County / primary ZIP 97068"]
+zillowHomeValueUsd: 773648
 ---
 
 **Engineering Notice for Stafford:** System optimized for 179 mg/L hard water scaling factors in Stafford. Regional dispatch grid: Clackamas County.

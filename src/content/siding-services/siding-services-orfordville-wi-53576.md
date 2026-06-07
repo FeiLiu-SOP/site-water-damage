@@ -12,6 +12,7 @@ lng: -89.2600
 zipSample: ["53576"]
 zipCodes: ["53576"]
 localPaths: ["Rock County / ZIP 53576 sector", "Rock County / primary ZIP 53576", "Rock County / coords 42.6300, -89.2600", "Rock County / elevation 889 ft band"]
+zillowHomeValueUsd: 305082
 ---
 
 **Engineering Notice for Orfordville:** Envelope check: Exterior Envelope assigned to wind-load band A with stress factor 1.03. Regional dispatch grid: Rock County.

@@ -12,6 +12,7 @@ lng: -86.1200
 zipSample: ["46504"]
 zipCodes: ["46504"]
 localPaths: ["Marshall County / primary ZIP 46504", "Marshall County / coords 41.3000, -86.1200", "Marshall County / elevation 856 ft band", "Marshall County / ZIP 46504 sector"]
+zillowHomeValueUsd: 234528
 ---
 
 **Engineering Notice for Bourbon:** Structural integrity verification: Panel Replacement calibrated for 102 mph localized wind load factor. Elevation: 856 ft AMSL. Regional dispatch grid: Marshall County.

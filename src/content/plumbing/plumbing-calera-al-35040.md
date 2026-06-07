@@ -12,6 +12,7 @@ lng: -86.7400
 zipSample: ["35040"]
 zipCodes: ["35040"]
 localPaths: ["Shelby County / primary ZIP 35040", "Shelby County / elevation 571 ft band", "Shelby County / coords 33.1300, -86.7400", "Shelby County / ZIP 35040 sector"]
+zillowHomeValueUsd: 254896
 ---
 
 **Engineering Notice for Calera:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: Shelby County.

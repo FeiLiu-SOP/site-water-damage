@@ -12,6 +12,7 @@ lng: -77.0600
 zipSample: ["17350"]
 zipCodes: ["17350"]
 localPaths: ["Adams County / elevation 564 ft band", "Adams County / primary ZIP 17350", "Adams County / coords 39.8600, -77.0600", "Adams County / ZIP 17350 sector"]
+zillowHomeValueUsd: 297843
 ---
 
 **Engineering Notice for New Oxford:** System optimized for 138 mg/L hard water scaling factors in New Oxford. Regional dispatch grid: Adams County.

@@ -12,6 +12,7 @@ lng: -92.0000
 zipSample: ["65275"]
 zipCodes: ["65275"]
 localPaths: ["Monroe County / primary ZIP 65275", "Monroe County / elevation 699 ft band", "Monroe County / coords 39.4800, -92.0000", "Monroe County / ZIP 65275 sector"]
+zillowHomeValueUsd: 206494
 ---
 
 **Engineering Notice for Paris:** System optimized for 137 mg/L hard water scaling factors in Paris. Regional dispatch grid: Monroe County.

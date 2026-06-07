@@ -12,6 +12,7 @@ lng: -90.5300
 zipSample: ["63021"]
 zipCodes: ["63021"]
 localPaths: ["St. Louis County / ZIP 63021 sector", "St. Louis County / coords 38.5900, -90.5300", "St. Louis County / primary ZIP 63021", "St. Louis County / elevation 620 ft band"]
+zillowHomeValueUsd: 386331
 ---
 
 **Engineering Notice for Winchester:** System optimized for 166 mg/L hard water scaling factors in Winchester. Regional dispatch grid: St. Louis County.

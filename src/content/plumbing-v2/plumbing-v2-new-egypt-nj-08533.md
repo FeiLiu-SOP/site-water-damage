@@ -12,6 +12,7 @@ lng: -74.5300
 zipSample: ["08533"]
 zipCodes: ["08533"]
 localPaths: ["Ocean County / elevation 85 ft band", "Ocean County / ZIP 08533 sector", "Ocean County / coords 40.0600, -74.5300", "Ocean County / primary ZIP 08533"]
+zillowHomeValueUsd: 558654
 ---
 
 **Engineering Notice for New Egypt:** System optimized for 160 mg/L hard water scaling factors in New Egypt. Regional dispatch grid: Ocean County.

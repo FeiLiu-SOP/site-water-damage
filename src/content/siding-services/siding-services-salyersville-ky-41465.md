@@ -12,6 +12,7 @@ lng: -83.0600
 zipSample: ["41465"]
 zipCodes: ["41465"]
 localPaths: ["Magoffin County / coords 37.7500, -83.0600", "Magoffin County / primary ZIP 41465", "Magoffin County / ZIP 41465 sector", "Magoffin County / elevation 860 ft band"]
+zillowHomeValueUsd: 120132
 ---
 
 **Engineering Notice for Salyersville:** Cladding Service was validated under stress factor 0.86; target tolerance set near 97 mph. Coordinates: 37.7500, -83.0600. Grid anchor: Magoffin County.

@@ -11,6 +11,7 @@ lng: -90.1300
 zipSample: ["62202", "62201", "62203", "62204", "62205"]
 zipCodes: ["62205", "62204", "62201", "62207", "62203", "62202"]
 localPaths: ["St. Clair County / ZIP 62203 sector", "St. Clair County / elevation 420 ft band", "St. Clair County / ZIP 62205 sector", "St. Clair County / coords 38.6200, -90.1300", "St. Clair County / ZIP 62202 sector"]
+zillowHomeValueUsd: 42269
 ---
 
 **Engineering Notice for East St. Louis:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: St. Clair County.

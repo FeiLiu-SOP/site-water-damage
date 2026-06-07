@@ -12,6 +12,7 @@ lng: -75.4100
 zipSample: ["21850"]
 zipCodes: ["21850"]
 localPaths: ["Wicomico County / coords 38.3900, -75.4100", "Wicomico County / primary ZIP 21850", "Wicomico County / elevation 56 ft band", "Wicomico County / ZIP 21850 sector"]
+zillowHomeValueUsd: 300930
 ---
 
 **Engineering Notice for Pittsville:** System optimized for 149 mg/L hard water scaling factors in Pittsville. Regional dispatch grid: Wicomico County.

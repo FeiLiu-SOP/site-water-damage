@@ -11,6 +11,7 @@ lng: -87.9400
 zipSample: ["60056"]
 zipCodes: ["60056"]
 localPaths: ["Cook County / primary ZIP 60056", "Cook County / ZIP 60056 sector", "Cook County / elevation 676 ft band", "Cook County / coords 42.0600, -87.9400"]
+zillowHomeValueUsd: 434450
 ---
 
 **Engineering Notice for Mount Prospect:** Structural loading calculated based on 676 ft terrain assessment. Regional dispatch grid: Cook County.

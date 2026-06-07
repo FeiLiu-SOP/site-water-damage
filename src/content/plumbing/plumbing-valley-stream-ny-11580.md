@@ -12,6 +12,7 @@ lng: -73.7000
 zipSample: ["11580", "11582", "11581"]
 zipCodes: ["11580", "11581", "11582"]
 localPaths: ["Nassau County / ZIP 11581 sector", "Nassau County / primary ZIP 11580", "Nassau County / ZIP 11582 sector", "Nassau County / ZIP 11580 sector", "Nassau County / coords 40.6600, -73.7000"]
+zillowHomeValueUsd: 743795
 ---
 
 **Engineering Notice for Valley Stream:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Nassau County.

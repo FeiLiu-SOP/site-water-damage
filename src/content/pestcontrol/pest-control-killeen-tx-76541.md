@@ -11,6 +11,7 @@ lng: -97.7300
 zipSample: ["76542", "76547", "76541", "76540", "76543"]
 zipCodes: ["76541", "76543", "76549", "76540", "76547", "76542"]
 localPaths: ["Bell County / ZIP 76547 sector", "Bell County / ZIP 76540 sector", "Bell County / primary ZIP 76541", "Bell County / elevation 876 ft band", "Bell County / ZIP 76542 sector"]
+zillowHomeValueUsd: 122012
 ---
 
 **Engineering Notice for Killeen:** Structural loading calculated based on 876 ft terrain assessment. Regional dispatch grid: Bell County.

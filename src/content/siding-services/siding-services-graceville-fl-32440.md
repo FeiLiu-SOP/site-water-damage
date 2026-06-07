@@ -12,6 +12,7 @@ lng: -85.5100
 zipSample: ["32440"]
 zipCodes: ["32440"]
 localPaths: ["Jackson County / elevation 174 ft band", "Jackson County / ZIP 32440 sector", "Jackson County / primary ZIP 32440", "Jackson County / coords 30.9600, -85.5100"]
+zillowHomeValueUsd: 172403
 ---
 
 **Engineering Notice for Graceville:** Cladding verification uses 135 mph routing baseline; lateral pressure note: 17.4 psf. Coordinates: 30.9600, -85.5100. Grid: Jackson County.

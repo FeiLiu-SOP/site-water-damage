@@ -12,6 +12,7 @@ lng: -95.0200
 zipSample: ["77571"]
 zipCodes: ["77571"]
 localPaths: ["Harris County / ZIP 77571 sector", "Harris County / coords 29.6200, -95.0200", "Harris County / primary ZIP 77571", "Harris County / elevation 33 ft band"]
+zillowHomeValueUsd: 257186
 ---
 
 **Engineering Notice for Shoreacres:** System optimized for 152 mg/L hard water scaling factors in Shoreacres. Regional dispatch grid: Harris County.

@@ -11,6 +11,7 @@ lng: -83.2600
 zipSample: ["48037", "48075", "48034", "48033", "48076"]
 zipCodes: ["48034", "48086", "48037", "48033", "48076", "48075"]
 localPaths: ["Oakland County / ZIP 48075 sector", "Oakland County / elevation 682 ft band", "Oakland County / ZIP 48034 sector", "Oakland County / primary ZIP 48033", "Oakland County / ZIP 48033 sector"]
+zillowHomeValueUsd: 223592
 ---
 
 **Engineering Notice for Southfield:** Structural loading calculated based on 682 ft terrain assessment. Regional dispatch grid: Oakland County.

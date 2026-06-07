@@ -12,6 +12,7 @@ lng: -73.9800
 zipSample: ["10922", "10928"]
 zipCodes: ["10928", "10922"]
 localPaths: ["Orange County / coords 41.3400, -73.9800", "Orange County / elevation 548 ft band", "Orange County / primary ZIP 10922", "Orange County / ZIP 10928 sector", "Orange County / ZIP 10922 sector"]
+zillowHomeValueUsd: 450538
 ---
 
 **Engineering Notice for Fort Montgomery:** Exterior Envelope was validated under stress factor 1.04; target tolerance set near 102 mph. Coordinates: 41.3400, -73.9800. Grid anchor: Orange County.

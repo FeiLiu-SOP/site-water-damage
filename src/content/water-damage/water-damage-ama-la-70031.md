@@ -12,6 +12,7 @@ lng: -90.3000
 zipSample: ["70031"]
 zipCodes: ["70031"]
 localPaths: ["St. Charles Parish / primary ZIP 70031", "St. Charles Parish / elevation 10 ft band", "St. Charles Parish / ZIP 70031 sector", "St. Charles Parish / coords 29.9400, -90.3000"]
+zillowHomeValueUsd: 227890
 ---
 
 **Engineering Notice for Ama:** structural drying capacity optimized for 10ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Charles Parish. Relative Humidity Threshold: 77%. Sensor sync: Active.

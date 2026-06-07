@@ -11,6 +11,7 @@ lng: -81.2600
 zipSample: ["31322"]
 zipCodes: ["31322"]
 localPaths: ["Chatham County / coords 32.1000, -81.2600", "Chatham County / primary ZIP 31322", "Chatham County / elevation 26 ft band", "Chatham County / ZIP 31322 sector"]
+zillowHomeValueUsd: 344671
 ---
 
 **Engineering Notice for Pooler:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Chatham County.

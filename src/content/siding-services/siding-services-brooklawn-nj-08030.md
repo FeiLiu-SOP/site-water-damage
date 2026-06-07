@@ -12,6 +12,7 @@ lng: -75.1200
 zipSample: ["08030"]
 zipCodes: ["08030"]
 localPaths: ["Camden County / elevation 20 ft band", "Camden County / primary ZIP 08030", "Camden County / coords 39.8800, -75.1200", "Camden County / ZIP 08030 sector"]
+zillowHomeValueUsd: 237537
 ---
 
 **Engineering Notice for Brooklawn:** Exterior Envelope was validated under stress factor 0.86; target tolerance set near 104 mph. Grid anchor: Camden County.

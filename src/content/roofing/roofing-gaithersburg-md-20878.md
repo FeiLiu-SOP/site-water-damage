@@ -11,6 +11,7 @@ lng: -77.2100
 zipSample: ["20879", "20878", "20884", "20877", "20885"]
 zipCodes: ["20877", "20878", "20884", "20899", "20898", "20885", "20879"]
 localPaths: ["Montgomery County / ZIP 20878 sector", "Montgomery County / coords 39.1300, -77.2100", "Montgomery County / ZIP 20885 sector", "Montgomery County / ZIP 20877 sector", "Montgomery County / primary ZIP 20878"]
+zillowHomeValueUsd: 703158
 ---
 
 **Engineering Notice for Gaithersburg:** Structural loading calculated based on 466 ft terrain assessment. Regional dispatch grid: Montgomery County.

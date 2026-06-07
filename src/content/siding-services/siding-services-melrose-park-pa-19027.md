@@ -12,6 +12,7 @@ lng: -75.1300
 zipSample: ["19027"]
 zipCodes: ["19027"]
 localPaths: ["Montgomery County / coords 40.0600, -75.1300", "Montgomery County / elevation 230 ft band", "Montgomery County / ZIP 19027 sector", "Montgomery County / primary ZIP 19027"]
+zillowHomeValueUsd: 410624
 ---
 
 **Engineering Notice for Melrose Park:** Cladding verification uses 97 mph routing baseline; lateral pressure note: 12.8 psf. Grid: Montgomery County.

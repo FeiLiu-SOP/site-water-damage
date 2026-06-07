@@ -12,6 +12,7 @@ lng: -114.0100
 zipSample: ["86401", "86409"]
 zipCodes: ["86401", "86409"]
 localPaths: ["Mohave County / primary ZIP 86409", "Mohave County / ZIP 86401 sector", "Mohave County / coords 35.2200, -114.0100", "Mohave County / ZIP 86409 sector", "Mohave County / elevation 3478 ft band"]
+zillowHomeValueUsd: 263579
 ---
 
 **Engineering Notice for Kingman:** Structural loading calculated based on 3478 ft terrain assessment. Regional dispatch grid: Mohave County.

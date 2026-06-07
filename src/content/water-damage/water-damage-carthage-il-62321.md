@@ -12,6 +12,7 @@ lng: -91.1300
 zipSample: ["62321"]
 zipCodes: ["62321"]
 localPaths: ["Hancock County / coords 40.4100, -91.1300", "Hancock County / primary ZIP 62321", "Hancock County / elevation 669 ft band", "Hancock County / ZIP 62321 sector"]
+zillowHomeValueUsd: 117247
 ---
 
 **Engineering Notice for Carthage:** structural drying capacity optimized for 669ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hancock County. Relative Humidity Threshold: 75%. Sensor sync: Active.

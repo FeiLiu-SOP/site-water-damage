@@ -12,6 +12,7 @@ lng: -81.5100
 zipSample: ["43724"]
 zipCodes: ["43724"]
 localPaths: ["Noble County / elevation 722 ft band", "Noble County / coords 39.7500, -81.5100", "Noble County / primary ZIP 43724", "Noble County / ZIP 43724 sector"]
+zillowHomeValueUsd: 178835
 ---
 
 **Engineering Notice for Caldwell:** structural drying capacity optimized for 722ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Noble County. Relative Humidity Threshold: 76%. Sensor sync: Active.

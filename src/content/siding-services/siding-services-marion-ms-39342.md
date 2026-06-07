@@ -12,6 +12,7 @@ lng: -88.6500
 zipSample: ["39364", "39342"]
 zipCodes: ["39364", "39342"]
 localPaths: ["Lauderdale County / coords 32.4300, -88.6500", "Lauderdale County / ZIP 39364 sector", "Lauderdale County / elevation 394 ft band", "Lauderdale County / primary ZIP 39342", "Lauderdale County / ZIP 39342 sector"]
+zillowHomeValueUsd: 173886
 ---
 
 **Engineering Notice for Marion:** Cladding Service was validated under stress factor 1.20; target tolerance set near 95 mph. Grid anchor: Lauderdale County.

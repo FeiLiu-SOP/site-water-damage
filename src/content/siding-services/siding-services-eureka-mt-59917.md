@@ -12,6 +12,7 @@ lng: -115.0500
 zipSample: ["59917"]
 zipCodes: ["59917"]
 localPaths: ["Lincoln County / coords 48.8800, -115.0500", "Lincoln County / primary ZIP 59917", "Lincoln County / ZIP 59917 sector", "Lincoln County / elevation 2687 ft band"]
+zillowHomeValueUsd: 529382
 ---
 
 **Engineering Notice for Eureka:** Site context locked to Lincoln County. Elevation: 2687 ft AMSL. Coordinates: 48.8800, -115.0500. Wall Restoration integrity verification recorded.

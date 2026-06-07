@@ -12,6 +12,7 @@ lng: -96.1300
 zipSample: ["68059"]
 zipCodes: ["68059"]
 localPaths: ["Sarpy County / ZIP 68059 sector", "Sarpy County / primary ZIP 68059", "Sarpy County / coords 41.0900, -96.1300", "Sarpy County / elevation 1093 ft band"]
+zillowHomeValueUsd: 452390
 ---
 
 **Engineering Notice for Springfield:** structural drying capacity optimized for 1093ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sarpy County. Relative Humidity Threshold: 83%. Sensor sync: Active.

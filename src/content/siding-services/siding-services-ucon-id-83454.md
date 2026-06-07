@@ -12,6 +12,7 @@ lng: -111.9600
 zipSample: ["83401", "83454"]
 zipCodes: ["83454", "83401"]
 localPaths: ["Bonneville County / coords 43.5900, -111.9600", "Bonneville County / ZIP 83401 sector", "Bonneville County / primary ZIP 83454", "Bonneville County / elevation 4816 ft band", "Bonneville County / ZIP 83454 sector"]
+zillowHomeValueUsd: 347884
 ---
 
 **Engineering Notice for Ucon:** Site context locked to Bonneville County. Elevation: 4816 ft AMSL. Cladding Retrofit integrity verification recorded.

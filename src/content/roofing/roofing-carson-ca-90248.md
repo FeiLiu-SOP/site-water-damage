@@ -11,6 +11,7 @@ lng: -118.2600
 zipSample: ["90810", "90248", "90224", "90745", "90746"]
 zipCodes: ["90749", "90745", "90895", "90747", "90224", "90746", "90248", "90810"]
 localPaths: ["Los Angeles County / ZIP 90248 sector", "Los Angeles County / elevation 30 ft band", "Los Angeles County / ZIP 90745 sector", "Los Angeles County / coords 33.8400, -118.2600", "Los Angeles County / primary ZIP 90248"]
+zillowHomeValueUsd: 817460
 ---
 
 **Engineering Notice for Carson:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Los Angeles County.

@@ -11,6 +11,7 @@ lng: -75.9300
 zipSample: ["19603", "19612", "19611", "19602", "19604"]
 zipCodes: ["19604", "19603", "19601", "19611", "19602", "19612"]
 localPaths: ["Berks County / ZIP 19604 sector", "Berks County / ZIP 19611 sector", "Berks County / ZIP 19612 sector", "Berks County / ZIP 19602 sector", "Berks County / coords 40.3400, -75.9300"]
+zillowHomeValueUsd: 179733
 ---
 
 **Engineering Notice for Reading:** Structural loading calculated based on 272 ft terrain assessment. Regional dispatch grid: Berks County.

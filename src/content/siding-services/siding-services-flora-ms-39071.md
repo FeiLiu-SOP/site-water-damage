@@ -12,6 +12,7 @@ lng: -90.3100
 zipSample: ["39071"]
 zipCodes: ["39071"]
 localPaths: ["Madison County / ZIP 39071 sector", "Madison County / elevation 272 ft band", "Madison County / coords 32.5400, -90.3100", "Madison County / primary ZIP 39071"]
+zillowHomeValueUsd: 296376
 ---
 
 **Engineering Notice for Flora:** Vinyl Panels was validated under stress factor 1.25; target tolerance set near 104 mph. Coordinates: 32.5400, -90.3100. Grid anchor: Madison County.

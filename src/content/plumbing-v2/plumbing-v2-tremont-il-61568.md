@@ -12,6 +12,7 @@ lng: -89.4900
 zipSample: ["61568"]
 zipCodes: ["61568"]
 localPaths: ["Tazewell County / ZIP 61568 sector", "Tazewell County / elevation 669 ft band", "Tazewell County / primary ZIP 61568", "Tazewell County / coords 40.5300, -89.4900"]
+zillowHomeValueUsd: 246629
 ---
 
 **Engineering Notice for Tremont:** System optimized for 168 mg/L hard water scaling factors in Tremont. Regional dispatch grid: Tazewell County.

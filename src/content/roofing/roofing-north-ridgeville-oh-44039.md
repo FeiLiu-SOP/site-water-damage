@@ -11,6 +11,7 @@ lng: -82.0200
 zipSample: ["44039"]
 zipCodes: ["44039"]
 localPaths: ["Lorain County / elevation 728 ft band", "Lorain County / ZIP 44039 sector", "Lorain County / coords 41.3900, -82.0200", "Lorain County / primary ZIP 44039"]
+zillowHomeValueUsd: 324767
 ---
 
 **Engineering Notice for North Ridgeville:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Lorain County.

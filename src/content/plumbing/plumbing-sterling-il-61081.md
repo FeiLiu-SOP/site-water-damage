@@ -12,6 +12,7 @@ lng: -89.7000
 zipSample: ["61081"]
 zipCodes: ["61081"]
 localPaths: ["Whiteside County / elevation 689 ft band", "Whiteside County / coords 41.8000, -89.7000", "Whiteside County / primary ZIP 61081", "Whiteside County / ZIP 61081 sector"]
+zillowHomeValueUsd: 137389
 ---
 
 **Engineering Notice for Sterling:** Structural loading calculated based on 689 ft terrain assessment. Regional dispatch grid: Whiteside County.

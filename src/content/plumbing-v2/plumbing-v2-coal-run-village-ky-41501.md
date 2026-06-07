@@ -12,6 +12,7 @@ lng: -82.5600
 zipSample: ["41501"]
 zipCodes: ["41501"]
 localPaths: ["Pike County / ZIP 41501 sector", "Pike County / elevation 1073 ft band", "Pike County / primary ZIP 41501", "Pike County / coords 37.5400, -82.5600"]
+zillowHomeValueUsd: 122177
 ---
 
 **Engineering Notice for Coal Run Village:** System optimized for 129 mg/L hard water scaling factors in Coal Run Village. Regional dispatch grid: Pike County.

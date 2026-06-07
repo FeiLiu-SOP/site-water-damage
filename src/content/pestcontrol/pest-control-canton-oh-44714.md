@@ -11,6 +11,7 @@ lng: -81.3700
 zipSample: ["44704", "44705", "44750", "44714", "44711"]
 zipCodes: ["44711", "44702", "44707", "44710", "44799", "44705", "44709", "44714", "44750", "44703", "44708", "44704"]
 localPaths: ["Stark County / ZIP 44714 sector", "Stark County / coords 40.8100, -81.3700", "Stark County / primary ZIP 44714", "Stark County / ZIP 44705 sector", "Stark County / ZIP 44711 sector"]
+zillowHomeValueUsd: 151395
 ---
 
 **Engineering Notice for Canton:** Structural loading calculated based on 1070 ft terrain assessment. Regional dispatch grid: Stark County.

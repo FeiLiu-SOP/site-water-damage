@@ -12,6 +12,7 @@ lng: -121.0100
 zipSample: ["95351"]
 zipCodes: ["95351"]
 localPaths: ["Stanislaus County / coords 37.6200, -121.0100", "Stanislaus County / primary ZIP 95351", "Stanislaus County / elevation 98 ft band", "Stanislaus County / ZIP 95351 sector"]
+zillowHomeValueUsd: 379061
 ---
 
 **Engineering Notice for Rouse:** Structural integrity verification: Surface Sheathing calibrated for 139 mph localized wind load factor. Regional dispatch grid: Stanislaus County.

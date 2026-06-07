@@ -12,6 +12,7 @@ lng: -112.2300
 zipSample: ["85318", "85311", "85305", "85302", "85307"]
 zipCodes: ["85309", "85308", "85312", "85303", "85302", "85306", "85310", "85318", "85307", "85311", "85305", "85355"]
 localPaths: ["Maricopa County / ZIP 85307 sector", "Maricopa County / coords 33.5800, -112.2300", "Maricopa County / ZIP 85305 sector", "Maricopa County / ZIP 85311 sector", "Maricopa County / ZIP 85302 sector"]
+zillowHomeValueUsd: 312502
 ---
 
 **Engineering Notice for Glendale:** Structural loading calculated based on 1142 ft terrain assessment. Regional dispatch grid: Maricopa County.

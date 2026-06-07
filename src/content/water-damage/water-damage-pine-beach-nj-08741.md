@@ -12,6 +12,7 @@ lng: -74.1700
 zipSample: ["08741"]
 zipCodes: ["08741"]
 localPaths: ["Ocean County / elevation 26 ft band", "Ocean County / coords 39.9400, -74.1700", "Ocean County / primary ZIP 08741", "Ocean County / ZIP 08741 sector"]
+zillowHomeValueUsd: 561891
 ---
 
 **Engineering Notice for Pine Beach:** structural drying capacity optimized for 26ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ocean County. Relative Humidity Threshold: 83%. Sensor sync: Active.

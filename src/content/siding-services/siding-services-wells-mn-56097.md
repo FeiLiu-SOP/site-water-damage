@@ -12,6 +12,7 @@ lng: -93.7300
 zipSample: ["56097"]
 zipCodes: ["56097"]
 localPaths: ["Faribault County / ZIP 56097 sector", "Faribault County / elevation 1158 ft band", "Faribault County / coords 43.7400, -93.7300", "Faribault County / primary ZIP 56097"]
+zillowHomeValueUsd: 182236
 ---
 
 **Engineering Notice for Wells:** Envelope check: Cladding Service assigned to wind-load band A with stress factor 0.71. Elevation: 1158 ft AMSL. Regional dispatch grid: Faribault County.

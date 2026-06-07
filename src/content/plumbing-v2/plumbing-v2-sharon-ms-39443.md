@@ -12,6 +12,7 @@ lng: -89.1000
 zipSample: ["39443"]
 zipCodes: ["39443"]
 localPaths: ["Jones County / ZIP 39443 sector", "Jones County / primary ZIP 39443", "Jones County / coords 31.7900, -89.1000", "Jones County / elevation 315 ft band"]
+zillowHomeValueUsd: 173502
 ---
 
 **Engineering Notice for Sharon:** System optimized for 167 mg/L hard water scaling factors in Sharon. Regional dispatch grid: Jones County.

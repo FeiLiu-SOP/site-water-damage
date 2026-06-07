@@ -12,6 +12,7 @@ lng: -97.1000
 zipSample: ["74873", "74852"]
 zipCodes: ["74873", "74852"]
 localPaths: ["Pottawatomie County / primary ZIP 74852", "Pottawatomie County / elevation 1089 ft band", "Pottawatomie County / coords 35.2300, -97.1000", "Pottawatomie County / ZIP 74873 sector", "Pottawatomie County / ZIP 74852 sector"]
+zillowHomeValueUsd: 216689
 ---
 
 **Engineering Notice for Pink:** structural drying capacity optimized for 1089ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pottawatomie County. Relative Humidity Threshold: 81%. Sensor sync: Active.

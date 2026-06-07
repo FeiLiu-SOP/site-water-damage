@@ -11,6 +11,7 @@ lng: -104.7400
 zipSample: ["80645", "80634", "80620"]
 zipCodes: ["80645", "80634", "80620"]
 localPaths: ["Weld County / primary ZIP 80645", "Weld County / elevation 4701 ft band", "Weld County / coords 40.3700, -104.7400", "Weld County / ZIP 80634 sector", "Weld County / ZIP 80645 sector"]
+zillowHomeValueUsd: 455837
 ---
 
 **Engineering Notice for Evans:** Structural loading calculated based on 4701 ft terrain assessment. Regional dispatch grid: Weld County.

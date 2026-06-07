@@ -12,6 +12,7 @@ lng: -72.7100
 zipSample: ["11972", "11960", "11977"]
 zipCodes: ["11972", "11960", "11977"]
 localPaths: ["Suffolk County / primary ZIP 11960", "Suffolk County / ZIP 11972 sector", "Suffolk County / ZIP 11960 sector", "Suffolk County / coords 40.8200, -72.7100", "Suffolk County / elevation 20 ft band"]
+zillowHomeValueUsd: 1778542
 ---
 
 **Engineering Notice for Remsenburg-Speonk:** System optimized for 146 mg/L hard water scaling factors in Remsenburg-Speonk. Regional dispatch grid: Suffolk County.

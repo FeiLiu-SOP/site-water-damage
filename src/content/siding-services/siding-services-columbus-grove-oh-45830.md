@@ -12,6 +12,7 @@ lng: -84.0600
 zipSample: ["45830"]
 zipCodes: ["45830"]
 localPaths: ["Putnam County / coords 40.9200, -84.0600", "Putnam County / elevation 758 ft band", "Putnam County / ZIP 45830 sector", "Putnam County / primary ZIP 45830"]
+zillowHomeValueUsd: 235589
 ---
 
 **Engineering Notice for Columbus Grove:** Surface Sheathing was validated under stress factor 0.92; target tolerance set near 106 mph. Grid anchor: Putnam County.

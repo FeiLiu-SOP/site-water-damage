@@ -12,6 +12,7 @@ lng: -78.9200
 zipSample: ["15905"]
 zipCodes: ["15905"]
 localPaths: ["Cambria County / ZIP 15905 sector", "Cambria County / primary ZIP 15905", "Cambria County / coords 40.2900, -78.9200", "Cambria County / elevation 1302 ft band"]
+zillowHomeValueUsd: 115084
 ---
 
 **Engineering Notice for Ferndale:** System optimized for 164 mg/L hard water scaling factors in Ferndale. Regional dispatch grid: Cambria County.

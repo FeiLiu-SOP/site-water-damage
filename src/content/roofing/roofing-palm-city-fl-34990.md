@@ -11,6 +11,7 @@ lng: -80.2900
 zipSample: ["34990", "34991"]
 zipCodes: ["34990", "34991"]
 localPaths: ["Martin County / primary ZIP 34990", "Martin County / ZIP 34991 sector", "Martin County / elevation 3 ft band", "Martin County / coords 27.1700, -80.2900", "Martin County / ZIP 34990 sector"]
+zillowHomeValueUsd: 611103
 ---
 
 **Engineering Notice for Palm City:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Martin County.

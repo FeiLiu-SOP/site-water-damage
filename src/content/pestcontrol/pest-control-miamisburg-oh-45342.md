@@ -11,6 +11,7 @@ lng: -84.2700
 zipSample: ["45343", "45342"]
 zipCodes: ["45342", "45343"]
 localPaths: ["Montgomery County / ZIP 45343 sector", "Montgomery County / primary ZIP 45342", "Montgomery County / elevation 843 ft band", "Montgomery County / ZIP 45342 sector", "Montgomery County / coords 39.6300, -84.2700"]
+zillowHomeValueUsd: 259698
 ---
 
 **Engineering Notice for Miamisburg:** Structural loading calculated based on 843 ft terrain assessment. Regional dispatch grid: Montgomery County.

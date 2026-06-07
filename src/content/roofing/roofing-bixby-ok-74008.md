@@ -11,6 +11,7 @@ lng: -95.8800
 zipSample: ["74008"]
 zipCodes: ["74008"]
 localPaths: ["Tulsa County / coords 35.9500, -95.8800", "Tulsa County / primary ZIP 74008", "Tulsa County / elevation 617 ft band", "Tulsa County / ZIP 74008 sector"]
+zillowHomeValueUsd: 349705
 ---
 
 **Engineering Notice for Bixby:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: Tulsa County.

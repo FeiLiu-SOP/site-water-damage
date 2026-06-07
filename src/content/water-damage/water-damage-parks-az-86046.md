@@ -12,6 +12,7 @@ lng: -111.9800
 zipSample: ["86018", "86046"]
 zipCodes: ["86046", "86018"]
 localPaths: ["Coconino County / elevation 7323 ft band", "Coconino County / ZIP 86046 sector", "Coconino County / primary ZIP 86046", "Coconino County / ZIP 86018 sector", "Coconino County / coords 35.2900, -111.9800"]
+zillowHomeValueUsd: 437863
 ---
 
 **Engineering Notice for Parks:** structural drying capacity optimized for 7323ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Coconino County. Relative Humidity Threshold: 75%. Sensor sync: Active.

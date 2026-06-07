@@ -12,6 +12,7 @@ lng: -80.3400
 zipSample: ["26582"]
 zipCodes: ["26582"]
 localPaths: ["Marion County / ZIP 26582 sector", "Marion County / coords 39.5300, -80.3400", "Marion County / primary ZIP 26582", "Marion County / elevation 1043 ft band"]
+zillowHomeValueUsd: 120555
 ---
 
 **Engineering Notice for Mannington:** System optimized for 138 mg/L hard water scaling factors in Mannington. Regional dispatch grid: Marion County.

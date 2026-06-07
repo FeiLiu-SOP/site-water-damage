@@ -12,6 +12,7 @@ lng: -99.7700
 zipSample: ["76849"]
 zipCodes: ["76849"]
 localPaths: ["Kimble County / coords 30.4900, -99.7700", "Kimble County / primary ZIP 76849", "Kimble County / elevation 1713 ft band", "Kimble County / ZIP 76849 sector"]
+zillowHomeValueUsd: 325597
 ---
 
 **Engineering Notice for Junction:** System optimized for 131 mg/L hard water scaling factors in Junction. Regional dispatch grid: Kimble County.

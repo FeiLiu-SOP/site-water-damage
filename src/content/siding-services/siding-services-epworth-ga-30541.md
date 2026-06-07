@@ -12,6 +12,7 @@ lng: -84.3800
 zipSample: ["30513", "30541"]
 zipCodes: ["30541", "30513"]
 localPaths: ["Fannin County / primary ZIP 30541", "Fannin County / coords 34.9500, -84.3800", "Fannin County / elevation 1745 ft band", "Fannin County / ZIP 30541 sector", "Fannin County / ZIP 30513 sector"]
+zillowHomeValueUsd: 427825
 ---
 
 **Engineering Notice for Epworth:** Site context locked to Fannin County. Elevation: 1745 ft AMSL. Cladding Retrofit integrity verification recorded.

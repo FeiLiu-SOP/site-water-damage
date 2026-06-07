@@ -12,6 +12,7 @@ lng: -70.3900
 zipSample: ["04074", "04070"]
 zipCodes: ["04070", "04074"]
 localPaths: ["Cumberland County / ZIP 04074 sector", "Cumberland County / coords 43.5700, -70.3900", "Cumberland County / elevation 62 ft band", "Cumberland County / ZIP 04070 sector", "Cumberland County / primary ZIP 04074"]
+zillowHomeValueUsd: 681826
 ---
 
 **Engineering Notice for Dunstan:** System optimized for 167 mg/L hard water scaling factors in Dunstan. Regional dispatch grid: Cumberland County.

@@ -12,6 +12,7 @@ lng: -96.3200
 zipSample: ["56549"]
 zipCodes: ["56549"]
 localPaths: ["Clay County / ZIP 56549 sector", "Clay County / coords 46.8800, -96.3200", "Clay County / primary ZIP 56549", "Clay County / elevation 1142 ft band"]
+zillowHomeValueUsd: 398572
 ---
 
 **Engineering Notice for Hawley:** System optimized for 145 mg/L hard water scaling factors in Hawley. Regional dispatch grid: Clay County.

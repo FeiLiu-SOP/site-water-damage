@@ -12,6 +12,7 @@ lng: -75.6600
 zipSample: ["27954"]
 zipCodes: ["27954"]
 localPaths: ["Dare County / coords 35.9000, -75.6600", "Dare County / elevation 3 ft band", "Dare County / ZIP 27954 sector", "Dare County / primary ZIP 27954"]
+zillowHomeValueUsd: 517262
 ---
 
 **Engineering Notice for Manteo:** System optimized for 160 mg/L hard water scaling factors in Manteo. Regional dispatch grid: Dare County.

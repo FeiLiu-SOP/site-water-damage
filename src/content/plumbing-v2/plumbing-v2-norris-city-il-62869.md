@@ -12,6 +12,7 @@ lng: -88.3300
 zipSample: ["62869"]
 zipCodes: ["62869"]
 localPaths: ["White County / elevation 427 ft band", "White County / primary ZIP 62869", "White County / ZIP 62869 sector", "White County / coords 37.9800, -88.3300"]
+zillowHomeValueUsd: 122432
 ---
 
 **Engineering Notice for Norris City:** System optimized for 127 mg/L hard water scaling factors in Norris City. Regional dispatch grid: White County.

@@ -11,6 +11,7 @@ lng: -77.4200
 zipSample: ["21703", "21704"]
 zipCodes: ["21704", "21703"]
 localPaths: ["Frederick County / elevation 289 ft band", "Frederick County / ZIP 21703 sector", "Frederick County / coords 39.3800, -77.4200", "Frederick County / primary ZIP 21704", "Frederick County / ZIP 21704 sector"]
+zillowHomeValueUsd: 657547
 ---
 
 **Engineering Notice for Ballenger Creek:** Structural loading calculated based on 289 ft terrain assessment. Regional dispatch grid: Frederick County.

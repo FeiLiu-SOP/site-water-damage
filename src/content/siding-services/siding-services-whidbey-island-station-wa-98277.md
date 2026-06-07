@@ -12,6 +12,7 @@ lng: -122.6600
 zipSample: ["98278", "98277"]
 zipCodes: ["98277", "98278"]
 localPaths: ["Island County / primary ZIP 98277", "Island County / elevation 7 ft band", "Island County / ZIP 98278 sector", "Island County / coords 48.3400, -122.6600", "Island County / ZIP 98277 sector"]
+zillowHomeValueUsd: 528490
 ---
 
 **Engineering Notice for Whidbey Island Station:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 1.23. Regional dispatch grid: Island County.

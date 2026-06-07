@@ -12,6 +12,7 @@ lng: -78.4600
 zipSample: ["23924"]
 zipCodes: ["23924"]
 localPaths: ["Mecklenburg County / primary ZIP 23924", "Mecklenburg County / coords 36.8000, -78.4600", "Mecklenburg County / elevation 531 ft band", "Mecklenburg County / ZIP 23924 sector"]
+zillowHomeValueUsd: 141108
 ---
 
 **Engineering Notice for Chase City:** Structural integrity verification: Exterior Cladding calibrated for 94 mph localized wind load factor. Elevation: 531 ft AMSL. Coordinates: 36.8000, -78.4600. Regional dispatch grid: Mecklenburg County.

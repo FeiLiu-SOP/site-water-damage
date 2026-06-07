@@ -11,6 +11,7 @@ lng: -122.5200
 zipSample: ["94901", "94915", "94912", "94903"]
 zipCodes: ["94901", "94903", "94912", "94915"]
 localPaths: ["Marin County / ZIP 94912 sector", "Marin County / primary ZIP 94901", "Marin County / coords 37.9900, -122.5200", "Marin County / ZIP 94915 sector", "Marin County / elevation 482 ft band"]
+zillowHomeValueUsd: 1408594
 ---
 
 **Engineering Notice for San Rafael:** Structural loading calculated based on 482 ft terrain assessment. Regional dispatch grid: Marin County.

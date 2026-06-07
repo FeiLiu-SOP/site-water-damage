@@ -12,6 +12,7 @@ lng: -80.1700
 zipSample: ["33149"]
 zipCodes: ["33149"]
 localPaths: ["Miami-Dade County / coords 25.6900, -80.1700", "Miami-Dade County / ZIP 33149 sector", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / primary ZIP 33149"]
+zillowHomeValueUsd: 1654610
 ---
 
 **Engineering Notice for Key Biscayne:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

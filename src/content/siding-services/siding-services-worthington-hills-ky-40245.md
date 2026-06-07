@@ -12,6 +12,7 @@ lng: -85.5300
 zipSample: ["40245"]
 zipCodes: ["40245"]
 localPaths: ["Jefferson County / primary ZIP 40245", "Jefferson County / ZIP 40245 sector", "Jefferson County / coords 38.3100, -85.5300", "Jefferson County / elevation 738 ft band"]
+zillowHomeValueUsd: 480852
 ---
 
 **Engineering Notice for Worthington Hills:** Surface Sheathing was validated under stress factor 1.16; target tolerance set near 106 mph. Coordinates: 38.3100, -85.5300. Grid anchor: Jefferson County.

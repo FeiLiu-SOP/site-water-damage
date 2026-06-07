@@ -12,6 +12,7 @@ lng: -74.2900
 zipSample: ["08759"]
 zipCodes: ["08759"]
 localPaths: ["Ocean County / coords 40.0400, -74.2900", "Ocean County / ZIP 08759 sector", "Ocean County / elevation 89 ft band", "Ocean County / primary ZIP 08759"]
+zillowHomeValueUsd: 274797
 ---
 
 **Engineering Notice for Cedar Glen West:** System optimized for 123 mg/L hard water scaling factors in Cedar Glen West. Regional dispatch grid: Ocean County.

@@ -11,6 +11,7 @@ lng: -77.1600
 zipSample: ["22315", "22310"]
 zipCodes: ["22310", "22315"]
 localPaths: ["Fairfax County / ZIP 22310 sector", "Fairfax County / elevation 249 ft band", "Fairfax County / ZIP 22315 sector", "Fairfax County / primary ZIP 22310", "Fairfax County / coords 38.7700, -77.1600"]
+zillowHomeValueUsd: 673061
 ---
 
 **Engineering Notice for Franconia:** Structural loading calculated based on 249 ft terrain assessment. Regional dispatch grid: Fairfax County.

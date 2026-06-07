@@ -11,6 +11,7 @@ lng: -73.4500
 zipSample: ["11735"]
 zipCodes: ["11735"]
 localPaths: ["Nassau County / ZIP 11735 sector", "Nassau County / elevation 52 ft band", "Nassau County / coords 40.7200, -73.4500", "Nassau County / primary ZIP 11735"]
+zillowHomeValueUsd: 716962
 ---
 
 **Engineering Notice for South Farmingdale:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Nassau County.

@@ -12,6 +12,7 @@ lng: -75.5200
 zipSample: ["19901"]
 zipCodes: ["19901"]
 localPaths: ["Kent County / coords 39.1300, -75.5200", "Kent County / primary ZIP 19901", "Kent County / elevation 46 ft band", "Kent County / ZIP 19901 sector"]
+zillowHomeValueUsd: 330653
 ---
 
 **Engineering Notice for Kent Acres:** Envelope check: Facade Renewal assigned to wind-load band B with stress factor 1.05. Regional dispatch grid: Kent County.

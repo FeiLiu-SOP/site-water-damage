@@ -12,6 +12,7 @@ lng: -98.4400
 zipSample: ["78607", "78609"]
 zipCodes: ["78609", "78607"]
 localPaths: ["Llano County / coords 30.7800, -98.4400", "Llano County / elevation 1017 ft band", "Llano County / ZIP 78607 sector", "Llano County / primary ZIP 78609", "Llano County / ZIP 78609 sector"]
+zillowHomeValueUsd: 363227
 ---
 
 **Engineering Notice for Buchanan Dam:** System optimized for 157 mg/L hard water scaling factors in Buchanan Dam. Regional dispatch grid: Llano County.

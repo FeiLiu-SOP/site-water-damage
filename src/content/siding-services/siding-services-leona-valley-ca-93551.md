@@ -12,6 +12,7 @@ lng: -118.3000
 zipSample: ["93551"]
 zipCodes: ["93551"]
 localPaths: ["Los Angeles County / ZIP 93551 sector", "Los Angeles County / coords 34.6100, -118.3000", "Los Angeles County / elevation 3228 ft band", "Los Angeles County / primary ZIP 93551"]
+zillowHomeValueUsd: 592123
 ---
 
 **Engineering Notice for Leona Valley:** Envelope check: Weather Barrier Wrap assigned to wind-load band C with stress factor 0.95. Elevation: 3228 ft AMSL. Regional dispatch grid: Los Angeles County.

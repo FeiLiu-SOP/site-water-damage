@@ -12,6 +12,7 @@ lng: -98.9000
 zipSample: ["78013"]
 zipCodes: ["78013"]
 localPaths: ["Kendall County / coords 29.9700, -98.9000", "Kendall County / primary ZIP 78013", "Kendall County / elevation 1427 ft band", "Kendall County / ZIP 78013 sector"]
+zillowHomeValueUsd: 550394
 ---
 
 **Engineering Notice for Comfort:** structural drying capacity optimized for 1427ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kendall County. Relative Humidity Threshold: 84%. Sensor sync: Active.

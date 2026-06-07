@@ -12,6 +12,7 @@ lng: -101.3800
 zipSample: ["79357"]
 zipCodes: ["79357"]
 localPaths: ["Crosby County / primary ZIP 79357", "Crosby County / elevation 3110 ft band", "Crosby County / coords 33.6800, -101.3800", "Crosby County / ZIP 79357 sector"]
+zillowHomeValueUsd: 85298
 ---
 
 **Engineering Notice for Ralls:** System optimized for 126 mg/L hard water scaling factors in Ralls. Regional dispatch grid: Crosby County.

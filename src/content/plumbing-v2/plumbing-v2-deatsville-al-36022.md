@@ -12,6 +12,7 @@ lng: -86.3900
 zipSample: ["36022"]
 zipCodes: ["36022"]
 localPaths: ["Elmore County / elevation 427 ft band", "Elmore County / coords 32.5900, -86.3900", "Elmore County / ZIP 36022 sector", "Elmore County / primary ZIP 36022"]
+zillowHomeValueUsd: 292438
 ---
 
 **Engineering Notice for Deatsville:** System optimized for 125 mg/L hard water scaling factors in Deatsville. Regional dispatch grid: Elmore County.

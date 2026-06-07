@@ -12,6 +12,7 @@ lng: -90.6100
 zipSample: ["70343"]
 zipCodes: ["70343"]
 localPaths: ["Terrebonne Parish / ZIP 70343 sector", "Terrebonne Parish / primary ZIP 70343", "Terrebonne Parish / elevation 16 ft band", "Terrebonne Parish / coords 29.5600, -90.6100"]
+zillowHomeValueUsd: 230072
 ---
 
 **Engineering Notice for Bourg:** Envelope check: Exterior Cladding assigned to wind-load band B with stress factor 0.92. Elevation: 16 ft AMSL. Regional dispatch grid: Terrebonne Parish.

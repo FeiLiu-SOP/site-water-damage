@@ -12,6 +12,7 @@ lng: -97.3300
 zipSample: ["73051"]
 zipCodes: ["73051"]
 localPaths: ["Cleveland County / ZIP 73051 sector", "Cleveland County / elevation 1047 ft band", "Cleveland County / coords 35.0200, -97.3300", "Cleveland County / primary ZIP 73051"]
+zillowHomeValueUsd: 200723
 ---
 
 **Engineering Notice for Lexington:** structural drying capacity optimized for 1047ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cleveland County. Relative Humidity Threshold: 82%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -75.7000
 zipSample: ["19562"]
 zipCodes: ["19562"]
 localPaths: ["Berks County / coords 40.5000, -75.7000", "Berks County / primary ZIP 19562", "Berks County / ZIP 19562 sector", "Berks County / elevation 492 ft band"]
+zillowHomeValueUsd: 260229
 ---
 
 **Engineering Notice for Topton:** System optimized for 128 mg/L hard water scaling factors in Topton. Regional dispatch grid: Berks County.

@@ -12,6 +12,7 @@ lng: -120.2700
 zipSample: ["95370"]
 zipCodes: ["95370"]
 localPaths: ["Tuolumne County / elevation 3796 ft band", "Tuolumne County / ZIP 95370 sector", "Tuolumne County / primary ZIP 95370", "Tuolumne County / coords 38.0700, -120.2700"]
+zillowHomeValueUsd: 404626
 ---
 
 **Engineering Notice for Cedar Ridge:** Site context locked to Tuolumne County. Elevation: 3796 ft AMSL. Surface Sheathing integrity verification recorded.

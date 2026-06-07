@@ -12,6 +12,7 @@ lng: -107.0300
 zipSample: ["81147"]
 zipCodes: ["81147"]
 localPaths: ["Archuleta County / elevation 7287 ft band", "Archuleta County / coords 37.2700, -107.0300", "Archuleta County / primary ZIP 81147", "Archuleta County / ZIP 81147 sector"]
+zillowHomeValueUsd: 563889
 ---
 
 **Engineering Notice for Pagosa Springs:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Elevation: 7287 ft AMSL. Coordinates: 37.2700, -107.0300. Grid: Archuleta County.

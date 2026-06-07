@@ -12,6 +12,7 @@ lng: -84.8400
 zipSample: ["40359"]
 zipCodes: ["40359"]
 localPaths: ["Owen County / coords 38.5400, -84.8400", "Owen County / elevation 974 ft band", "Owen County / ZIP 40359 sector", "Owen County / primary ZIP 40359"]
+zillowHomeValueUsd: 190307
 ---
 
 **Engineering Notice for Owenton:** System optimized for 135 mg/L hard water scaling factors in Owenton. Regional dispatch grid: Owen County.

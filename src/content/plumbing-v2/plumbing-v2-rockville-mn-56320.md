@@ -12,6 +12,7 @@ lng: -94.3200
 zipSample: ["56301", "56320", "56369"]
 zipCodes: ["56320", "56301", "56369"]
 localPaths: ["Stearns County / elevation 1148 ft band", "Stearns County / primary ZIP 56320", "Stearns County / ZIP 56369 sector", "Stearns County / coords 45.4700, -94.3200", "Stearns County / ZIP 56301 sector"]
+zillowHomeValueUsd: 373437
 ---
 
 **Engineering Notice for Rockville:** System optimized for 158 mg/L hard water scaling factors in Rockville. Regional dispatch grid: Stearns County.

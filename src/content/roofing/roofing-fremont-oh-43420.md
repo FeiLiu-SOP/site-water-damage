@@ -11,6 +11,7 @@ lng: -83.1100
 zipSample: ["43420"]
 zipCodes: ["43420"]
 localPaths: ["Sandusky County / ZIP 43420 sector", "Sandusky County / elevation 577 ft band", "Sandusky County / primary ZIP 43420", "Sandusky County / coords 41.3500, -83.1100"]
+zillowHomeValueUsd: 173724
 ---
 
 **Engineering Notice for Fremont:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Sandusky County.

@@ -12,6 +12,7 @@ lng: -82.5400
 zipSample: ["34447", "34446", "34448"]
 zipCodes: ["34446", "34447", "34448"]
 localPaths: ["Citrus County / primary ZIP 34446", "Citrus County / coords 28.8100, -82.5400", "Citrus County / elevation 43 ft band", "Citrus County / ZIP 34447 sector", "Citrus County / ZIP 34446 sector"]
+zillowHomeValueUsd: 319416
 ---
 
 **Engineering Notice for Homosassa Springs:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Citrus County.

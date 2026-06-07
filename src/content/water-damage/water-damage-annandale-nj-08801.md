@@ -12,6 +12,7 @@ lng: -74.8900
 zipSample: ["08801", "08809"]
 zipCodes: ["08801", "08809"]
 localPaths: ["Hunterdon County / elevation 420 ft band", "Hunterdon County / coords 40.6500, -74.8900", "Hunterdon County / ZIP 08801 sector", "Hunterdon County / ZIP 08809 sector", "Hunterdon County / primary ZIP 08801"]
+zillowHomeValueUsd: 617008
 ---
 
 **Engineering Notice for Annandale:** structural drying capacity optimized for 420ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hunterdon County. Relative Humidity Threshold: 71%. Sensor sync: Active.

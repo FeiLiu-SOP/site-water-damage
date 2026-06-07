@@ -12,6 +12,7 @@ lng: -99.1800
 zipSample: ["73624"]
 zipCodes: ["73624"]
 localPaths: ["Washita County / ZIP 73624 sector", "Washita County / coords 35.3500, -99.1800", "Washita County / elevation 1923 ft band", "Washita County / primary ZIP 73624"]
+zillowHomeValueUsd: 78101
 ---
 
 **Engineering Notice for Burns Flat:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 1.21. Elevation: 1923 ft AMSL. Regional dispatch grid: Washita County.

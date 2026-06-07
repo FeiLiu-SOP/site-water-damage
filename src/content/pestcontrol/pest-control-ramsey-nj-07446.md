@@ -11,6 +11,7 @@ lng: -74.1500
 zipSample: ["07446"]
 zipCodes: ["07446"]
 localPaths: ["Bergen County / primary ZIP 07446", "Bergen County / elevation 371 ft band", "Bergen County / coords 41.0600, -74.1500", "Bergen County / ZIP 07446 sector"]
+zillowHomeValueUsd: 863432
 ---
 
 **Engineering Notice for Ramsey:** Structural loading calculated based on 371 ft terrain assessment. Regional dispatch grid: Bergen County.

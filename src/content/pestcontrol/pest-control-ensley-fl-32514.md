@@ -11,6 +11,7 @@ lng: -87.2700
 zipSample: ["32514", "32534"]
 zipCodes: ["32514", "32534"]
 localPaths: ["Escambia County / ZIP 32534 sector", "Escambia County / primary ZIP 32514", "Escambia County / elevation 138 ft band", "Escambia County / coords 30.5300, -87.2700", "Escambia County / ZIP 32514 sector"]
+zillowHomeValueUsd: 259803
 ---
 
 **Engineering Notice for Ensley:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Escambia County.

@@ -12,6 +12,7 @@ lng: -75.6400
 zipSample: ["27981"]
 zipCodes: ["27981"]
 localPaths: ["Dare County / ZIP 27981 sector", "Dare County / elevation 30 ft band", "Dare County / primary ZIP 27981", "Dare County / coords 35.8400, -75.6400"]
+zillowHomeValueUsd: 368023
 ---
 
 **Engineering Notice for Wanchese:** System optimized for 167 mg/L hard water scaling factors in Wanchese. Regional dispatch grid: Dare County.

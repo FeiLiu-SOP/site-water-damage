@@ -12,6 +12,7 @@ lng: -73.1900
 zipSample: ["11780"]
 zipCodes: ["11780"]
 localPaths: ["Suffolk County / coords 40.9000, -73.1900", "Suffolk County / primary ZIP 11780", "Suffolk County / ZIP 11780 sector", "Suffolk County / elevation 128 ft band"]
+zillowHomeValueUsd: 826772
 ---
 
 **Engineering Notice for Nissequogue:** System optimized for 156 mg/L hard water scaling factors in Nissequogue. Regional dispatch grid: Suffolk County.

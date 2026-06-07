@@ -12,6 +12,7 @@ lng: -76.5000
 zipSample: ["21012"]
 zipCodes: ["21012"]
 localPaths: ["Anne Arundel County / coords 39.0400, -76.5000", "Anne Arundel County / elevation 138 ft band", "Anne Arundel County / primary ZIP 21012", "Anne Arundel County / ZIP 21012 sector"]
+zillowHomeValueUsd: 597112
 ---
 
 **Engineering Notice for Arnold:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Anne Arundel County.

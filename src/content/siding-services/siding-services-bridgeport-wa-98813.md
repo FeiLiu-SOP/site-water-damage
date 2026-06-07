@@ -12,6 +12,7 @@ lng: -119.6700
 zipSample: ["98813"]
 zipCodes: ["98813"]
 localPaths: ["Douglas County / elevation 856 ft band", "Douglas County / ZIP 98813 sector", "Douglas County / coords 48.0100, -119.6700", "Douglas County / primary ZIP 98813"]
+zillowHomeValueUsd: 233885
 ---
 
 **Engineering Notice for Bridgeport:** Site context locked to Douglas County. Elevation: 856 ft AMSL. Coordinates: 48.0100, -119.6700. Surface Sheathing integrity verification recorded.

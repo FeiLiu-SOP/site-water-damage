@@ -12,6 +12,7 @@ lng: -90.1000
 zipSample: ["70067"]
 zipCodes: ["70067"]
 localPaths: ["Jefferson Parish / primary ZIP 70067", "Jefferson Parish / elevation 3 ft band", "Jefferson Parish / ZIP 70067 sector", "Jefferson Parish / coords 29.7500, -90.1000"]
+zillowHomeValueUsd: 202447
 ---
 
 **Engineering Notice for Jean Lafitte:** System optimized for 166 mg/L hard water scaling factors in Jean Lafitte. Regional dispatch grid: Jefferson Parish.

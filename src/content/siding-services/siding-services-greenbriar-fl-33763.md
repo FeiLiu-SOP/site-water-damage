@@ -12,6 +12,7 @@ lng: -82.7500
 zipSample: ["33763", "34698"]
 zipCodes: ["34698", "33763"]
 localPaths: ["Pinellas County / primary ZIP 33763", "Pinellas County / coords 28.0100, -82.7500", "Pinellas County / ZIP 34698 sector", "Pinellas County / elevation 66 ft band", "Pinellas County / ZIP 33763 sector"]
+zillowHomeValueUsd: 201601
 ---
 
 **Engineering Notice for Greenbriar:** Site context locked to Pinellas County. Elevation: 66 ft AMSL. Surface Sheathing integrity verification recorded.

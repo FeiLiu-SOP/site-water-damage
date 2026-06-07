@@ -12,6 +12,7 @@ lng: -83.0300
 zipSample: ["24277", "24218"]
 zipCodes: ["24277", "24218"]
 localPaths: ["Lee County / ZIP 24218 sector", "Lee County / elevation 1427 ft band", "Lee County / ZIP 24277 sector", "Lee County / coords 36.7600, -83.0300", "Lee County / primary ZIP 24277"]
+zillowHomeValueUsd: 99576
 ---
 
 **Engineering Notice for Pennington Gap:** Cladding verification uses 101 mph routing baseline; lateral pressure note: 13.3 psf. Grid: Lee County.

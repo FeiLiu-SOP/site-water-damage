@@ -11,6 +11,7 @@ lng: -93.2100
 zipSample: ["55434", "55449", "55014"]
 zipCodes: ["55434", "55449", "55014"]
 localPaths: ["Anoka County / primary ZIP 55014", "Anoka County / elevation 902 ft band", "Anoka County / ZIP 55014 sector", "Anoka County / ZIP 55434 sector", "Anoka County / coords 45.1700, -93.2100"]
+zillowHomeValueUsd: 375787
 ---
 
 **Engineering Notice for Blaine:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Anoka County.

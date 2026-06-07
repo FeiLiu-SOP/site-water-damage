@@ -12,6 +12,7 @@ lng: -95.5400
 zipSample: ["74036"]
 zipCodes: ["74036"]
 localPaths: ["Rogers County / primary ZIP 74036", "Rogers County / coords 36.1300, -95.5400", "Rogers County / ZIP 74036 sector", "Rogers County / elevation 614 ft band"]
+zillowHomeValueUsd: 260908
 ---
 
 **Engineering Notice for Inola:** Cladding verification uses 98 mph routing baseline; lateral pressure note: 13.0 psf. Elevation: 614 ft AMSL. Coordinates: 36.1300, -95.5400. Grid: Rogers County.

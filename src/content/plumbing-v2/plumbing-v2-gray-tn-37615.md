@@ -12,6 +12,7 @@ lng: -82.4800
 zipSample: ["37615"]
 zipCodes: ["37615"]
 localPaths: ["Washington County / primary ZIP 37615", "Washington County / elevation 1581 ft band", "Washington County / coords 36.4200, -82.4800", "Washington County / ZIP 37615 sector"]
+zillowHomeValueUsd: 353153
 ---
 
 **Engineering Notice for Gray:** System optimized for 177 mg/L hard water scaling factors in Gray. Regional dispatch grid: Washington County.

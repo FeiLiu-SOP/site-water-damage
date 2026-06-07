@@ -11,6 +11,7 @@ lng: -117.9500
 zipSample: ["90631", "90632", "90633"]
 zipCodes: ["90631", "90632", "90633"]
 localPaths: ["Orange County / coords 33.9300, -117.9500", "Orange County / elevation 279 ft band", "Orange County / primary ZIP 90631", "Orange County / ZIP 90631 sector", "Orange County / ZIP 90633 sector"]
+zillowHomeValueUsd: 942859
 ---
 
 **Engineering Notice for La Habra:** Structural loading calculated based on 279 ft terrain assessment. Regional dispatch grid: Orange County.

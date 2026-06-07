@@ -12,6 +12,7 @@ lng: -82.4000
 zipSample: ["30434"]
 zipCodes: ["30434"]
 localPaths: ["Jefferson County / coords 33.0000, -82.4000", "Jefferson County / ZIP 30434 sector", "Jefferson County / primary ZIP 30434", "Jefferson County / elevation 299 ft band"]
+zillowHomeValueUsd: 117757
 ---
 
 **Engineering Notice for Louisville:** Facade Renewal was validated under stress factor 0.78; target tolerance set near 92 mph. Coordinates: 33.0000, -82.4000. Grid anchor: Jefferson County.

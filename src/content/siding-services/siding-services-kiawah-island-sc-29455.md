@@ -12,6 +12,7 @@ lng: -80.0600
 zipSample: ["29455"]
 zipCodes: ["29455"]
 localPaths: ["Charleston County / elevation 20 ft band", "Charleston County / coords 32.6200, -80.0600", "Charleston County / primary ZIP 29455", "Charleston County / ZIP 29455 sector"]
+zillowHomeValueUsd: 739641
 ---
 
 **Engineering Notice for Kiawah Island:** Envelope check: Vinyl Panels assigned to wind-load band B with stress factor 1.18. Elevation: 20 ft AMSL. Regional dispatch grid: Charleston County.

@@ -12,6 +12,7 @@ lng: -82.3900
 zipSample: ["30833"]
 zipCodes: ["30833"]
 localPaths: ["Jefferson County / ZIP 30833 sector", "Jefferson County / elevation 436 ft band", "Jefferson County / coords 33.2100, -82.3900", "Jefferson County / primary ZIP 30833"]
+zillowHomeValueUsd: 137151
 ---
 
 **Engineering Notice for Wrens:** System optimized for 169 mg/L hard water scaling factors in Wrens. Regional dispatch grid: Jefferson County.

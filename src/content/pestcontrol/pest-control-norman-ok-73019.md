@@ -11,6 +11,7 @@ lng: -97.3500
 zipSample: ["73070", "73072", "73069", "73071", "73019"]
 zipCodes: ["73069", "73068", "73071", "74857", "73072", "73070", "73026", "73019"]
 localPaths: ["Cleveland County / primary ZIP 73019", "Cleveland County / coords 35.2300, -97.3500", "Cleveland County / elevation 1152 ft band", "Cleveland County / ZIP 73070 sector", "Cleveland County / ZIP 73071 sector"]
+zillowHomeValueUsd: 318838
 ---
 
 **Engineering Notice for Norman:** Structural loading calculated based on 1152 ft terrain assessment. Regional dispatch grid: Cleveland County.

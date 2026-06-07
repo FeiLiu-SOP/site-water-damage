@@ -11,6 +11,7 @@ lng: -86.0500
 zipSample: ["35768", "35769"]
 zipCodes: ["35768", "35769"]
 localPaths: ["Jackson County / primary ZIP 35768", "Jackson County / elevation 623 ft band", "Jackson County / ZIP 35769 sector", "Jackson County / ZIP 35768 sector", "Jackson County / coords 34.6400, -86.0500"]
+zillowHomeValueUsd: 172969
 ---
 
 **Engineering Notice for Scottsboro:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Jackson County.

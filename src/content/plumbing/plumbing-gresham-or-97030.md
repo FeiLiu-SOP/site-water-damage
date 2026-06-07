@@ -12,6 +12,7 @@ lng: -122.4400
 zipSample: ["97230", "97233", "97030", "97080"]
 zipCodes: ["97080", "97030", "97230", "97233"]
 localPaths: ["Multnomah County / elevation 381 ft band", "Multnomah County / primary ZIP 97030", "Multnomah County / ZIP 97233 sector", "Multnomah County / ZIP 97030 sector", "Multnomah County / coords 45.5000, -122.4400"]
+zillowHomeValueUsd: 439117
 ---
 
 **Engineering Notice for Gresham:** Structural loading calculated based on 381 ft terrain assessment. Regional dispatch grid: Multnomah County.

@@ -11,6 +11,7 @@ lng: -72.8700
 zipSample: ["11967"]
 zipCodes: ["11967"]
 localPaths: ["Suffolk County / ZIP 11967 sector", "Suffolk County / primary ZIP 11967", "Suffolk County / coords 40.7900, -72.8700", "Suffolk County / elevation 59 ft band"]
+zillowHomeValueUsd: 531129
 ---
 
 **Engineering Notice for Shirley:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Suffolk County.

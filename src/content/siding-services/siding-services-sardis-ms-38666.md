@@ -12,6 +12,7 @@ lng: -89.9100
 zipSample: ["38666"]
 zipCodes: ["38666"]
 localPaths: ["Panola County / elevation 371 ft band", "Panola County / coords 34.4400, -89.9100", "Panola County / primary ZIP 38666", "Panola County / ZIP 38666 sector"]
+zillowHomeValueUsd: 165060
 ---
 
 **Engineering Notice for Sardis:** Panel Replacement was validated under stress factor 0.72; target tolerance set near 107 mph. Grid anchor: Panola County.

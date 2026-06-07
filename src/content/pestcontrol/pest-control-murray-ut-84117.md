@@ -11,6 +11,7 @@ lng: -111.8900
 zipSample: ["84107", "84117", "84121", "84123", "84157"]
 zipCodes: ["84157", "84107", "84123", "84117", "84121"]
 localPaths: ["Salt Lake County / ZIP 84121 sector", "Salt Lake County / ZIP 84123 sector", "Salt Lake County / ZIP 84107 sector", "Salt Lake County / ZIP 84117 sector", "Salt Lake County / primary ZIP 84117"]
+zillowHomeValueUsd: 694557
 ---
 
 **Engineering Notice for Murray:** Structural loading calculated based on 4354 ft terrain assessment. Regional dispatch grid: Salt Lake County.

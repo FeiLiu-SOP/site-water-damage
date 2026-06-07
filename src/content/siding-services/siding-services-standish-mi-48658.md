@@ -12,6 +12,7 @@ lng: -83.9600
 zipSample: ["48658"]
 zipCodes: ["48658"]
 localPaths: ["Arenac County / elevation 627 ft band", "Arenac County / coords 43.9800, -83.9600", "Arenac County / ZIP 48658 sector", "Arenac County / primary ZIP 48658"]
+zillowHomeValueUsd: 152923
 ---
 
 **Engineering Notice for Standish:** Panel Replacement was validated under stress factor 0.70; target tolerance set near 97 mph. Grid anchor: Arenac County.

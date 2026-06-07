@@ -11,6 +11,7 @@ lng: -74.0100
 zipSample: ["07093"]
 zipCodes: ["07093"]
 localPaths: ["Hudson County / ZIP 07093 sector", "Hudson County / coords 40.7900, -74.0100", "Hudson County / primary ZIP 07093", "Hudson County / elevation 171 ft band"]
+zillowHomeValueUsd: 442423
 ---
 
 **Engineering Notice for West New York:** Structural loading calculated based on 171 ft terrain assessment. Regional dispatch grid: Hudson County.

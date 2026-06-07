@@ -11,6 +11,7 @@ lng: -91.6800
 zipSample: ["52408", "52403", "52497", "52404", "52407"]
 zipCodes: ["52404", "52409", "52497", "52405", "52408", "52401", "52411", "52498", "52406", "52410", "52402", "52407"]
 localPaths: ["Linn County / elevation 732 ft band", "Linn County / coords 41.9700, -91.6800", "Linn County / ZIP 52497 sector", "Linn County / primary ZIP 52404", "Linn County / ZIP 52403 sector"]
+zillowHomeValueUsd: 192739
 ---
 
 **Engineering Notice for Cedar Rapids:** Structural loading calculated based on 732 ft terrain assessment. Regional dispatch grid: Linn County.

@@ -12,6 +12,7 @@ lng: -76.4100
 zipSample: ["17042"]
 zipCodes: ["17042"]
 localPaths: ["Lebanon County / ZIP 17042 sector", "Lebanon County / coords 40.3300, -76.4100", "Lebanon County / elevation 531 ft band", "Lebanon County / primary ZIP 17042"]
+zillowHomeValueUsd: 303259
 ---
 
 **Engineering Notice for Lebanon South:** Structural integrity verification: Weather Barrier Wrap calibrated for 92 mph localized wind load factor. Elevation: 531 ft AMSL. Coordinates: 40.3300, -76.4100. Regional dispatch grid: Lebanon County.

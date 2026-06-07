@@ -11,6 +11,7 @@ lng: -115.1400
 zipSample: ["89121", "89109", "89169", "89199"]
 zipCodes: ["89121", "89109", "89199", "89169"]
 localPaths: ["Clark County / ZIP 89199 sector", "Clark County / primary ZIP 89109", "Clark County / elevation 2014 ft band", "Clark County / ZIP 89121 sector", "Clark County / coords 36.1400, -115.1400"]
+zillowHomeValueUsd: 377751
 ---
 
 **Engineering Notice for Winchester:** Structural loading calculated based on 2014 ft terrain assessment. Regional dispatch grid: Clark County.

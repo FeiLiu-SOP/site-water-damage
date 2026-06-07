@@ -12,6 +12,7 @@ lng: -76.5900
 zipSample: ["21401", "21032"]
 zipCodes: ["21032", "21401"]
 localPaths: ["Anne Arundel County / coords 39.0200, -76.5900", "Anne Arundel County / primary ZIP 21401", "Anne Arundel County / ZIP 21401 sector", "Anne Arundel County / elevation 138 ft band", "Anne Arundel County / ZIP 21032 sector"]
+zillowHomeValueUsd: 625166
 ---
 
 **Engineering Notice for Crownsville:** Exterior Cladding was validated under stress factor 1.03; target tolerance set near 93 mph. Grid anchor: Anne Arundel County.

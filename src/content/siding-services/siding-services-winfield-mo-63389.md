@@ -12,6 +12,7 @@ lng: -90.7500
 zipSample: ["63389"]
 zipCodes: ["63389"]
 localPaths: ["Lincoln County / coords 38.9900, -90.7500", "Lincoln County / primary ZIP 63389", "Lincoln County / ZIP 63389 sector", "Lincoln County / elevation 548 ft band"]
+zillowHomeValueUsd: 279669
 ---
 
 **Engineering Notice for Winfield:** Envelope check: Exterior Cladding assigned to wind-load band C with stress factor 1.23. Elevation: 548 ft AMSL. Regional dispatch grid: Lincoln County.

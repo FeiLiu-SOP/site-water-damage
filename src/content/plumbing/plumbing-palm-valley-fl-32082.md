@@ -12,6 +12,7 @@ lng: -81.3900
 zipSample: ["32082"]
 zipCodes: ["32082"]
 localPaths: ["St. Johns County / elevation 16 ft band", "St. Johns County / coords 30.2000, -81.3900", "St. Johns County / ZIP 32082 sector", "St. Johns County / primary ZIP 32082"]
+zillowHomeValueUsd: 827466
 ---
 
 **Engineering Notice for Palm Valley:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: St. Johns County.

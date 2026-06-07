@@ -11,6 +11,7 @@ lng: -71.5000
 zipSample: ["02895"]
 zipCodes: ["02895"]
 localPaths: ["Providence County / coords 42.0000, -71.5000", "Providence County / primary ZIP 02895", "Providence County / ZIP 02895 sector", "Providence County / elevation 144 ft band"]
+zillowHomeValueUsd: 381071
 ---
 
 **Engineering Notice for Woonsocket:** Structural loading calculated based on 144 ft terrain assessment. Regional dispatch grid: Providence County.

@@ -12,6 +12,7 @@ lng: -77.5600
 zipSample: ["17009"]
 zipCodes: ["17009"]
 localPaths: ["Mifflin County / ZIP 17009 sector", "Mifflin County / coords 40.6400, -77.5600", "Mifflin County / primary ZIP 17009", "Mifflin County / elevation 541 ft band"]
+zillowHomeValueUsd: 145248
 ---
 
 **Engineering Notice for Burnham:** structural drying capacity optimized for 541ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mifflin County. Relative Humidity Threshold: 75%. Sensor sync: Active.

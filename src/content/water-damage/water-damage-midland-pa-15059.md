@@ -12,6 +12,7 @@ lng: -80.4600
 zipSample: ["15059"]
 zipCodes: ["15059"]
 localPaths: ["Beaver County / primary ZIP 15059", "Beaver County / coords 40.6400, -80.4600", "Beaver County / ZIP 15059 sector", "Beaver County / elevation 774 ft band"]
+zillowHomeValueUsd: 104264
 ---
 
 **Engineering Notice for Midland:** structural drying capacity optimized for 774ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Beaver County. Relative Humidity Threshold: 80%. Sensor sync: Active.

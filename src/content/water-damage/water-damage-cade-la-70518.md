@@ -12,6 +12,7 @@ lng: -91.9000
 zipSample: ["70582", "70518", "70519"]
 zipCodes: ["70519", "70582", "70518"]
 localPaths: ["St. Martin Parish / primary ZIP 70518", "St. Martin Parish / ZIP 70582 sector", "St. Martin Parish / ZIP 70518 sector", "St. Martin Parish / coords 30.0900, -91.9000", "St. Martin Parish / elevation 30 ft band"]
+zillowHomeValueUsd: 283503
 ---
 
 **Engineering Notice for Cade:** structural drying capacity optimized for 30ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Martin Parish. Relative Humidity Threshold: 72%. Sensor sync: Active.

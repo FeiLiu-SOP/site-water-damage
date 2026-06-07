@@ -12,6 +12,7 @@ lng: -89.2800
 zipSample: ["62548"]
 zipCodes: ["62548"]
 localPaths: ["Logan County / elevation 682 ft band", "Logan County / ZIP 62548 sector", "Logan County / primary ZIP 62548", "Logan County / coords 40.0100, -89.2800"]
+zillowHomeValueUsd: 150865
 ---
 
 **Engineering Notice for Mount Pulaski:** System optimized for 178 mg/L hard water scaling factors in Mount Pulaski. Regional dispatch grid: Logan County.

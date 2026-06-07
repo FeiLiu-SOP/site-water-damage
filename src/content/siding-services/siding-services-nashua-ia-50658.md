@@ -12,6 +12,7 @@ lng: -92.5400
 zipSample: ["50658"]
 zipCodes: ["50658"]
 localPaths: ["Chickasaw County / primary ZIP 50658", "Chickasaw County / coords 42.9500, -92.5400", "Chickasaw County / ZIP 50658 sector", "Chickasaw County / elevation 1007 ft band"]
+zillowHomeValueUsd: 189653
 ---
 
 **Engineering Notice for Nashua:** Weather Barrier Wrap was validated under stress factor 1.24; target tolerance set near 101 mph. Grid anchor: Chickasaw County.

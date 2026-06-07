@@ -11,6 +11,7 @@ lng: -115.2300
 zipSample: ["89183", "89119", "89148", "89178", "89123"]
 zipCodes: ["89113", "89141", "89183", "89139", "89119", "89148", "89178", "89118", "89123"]
 localPaths: ["Clark County / primary ZIP 89178", "Clark County / elevation 2464 ft band", "Clark County / ZIP 89123 sector", "Clark County / ZIP 89148 sector", "Clark County / ZIP 89119 sector"]
+zillowHomeValueUsd: 480992
 ---
 
 **Engineering Notice for Enterprise:** Structural loading calculated based on 2464 ft terrain assessment. Regional dispatch grid: Clark County.

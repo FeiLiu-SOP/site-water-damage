@@ -12,6 +12,7 @@ lng: -93.2400
 zipSample: ["50054"]
 zipCodes: ["50054"]
 localPaths: ["Jasper County / elevation 883 ft band", "Jasper County / ZIP 50054 sector", "Jasper County / primary ZIP 50054", "Jasper County / coords 41.6800, -93.2400"]
+zillowHomeValueUsd: 235229
 ---
 
 **Engineering Notice for Colfax:** structural drying capacity optimized for 883ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jasper County. Relative Humidity Threshold: 67%. Sensor sync: Active.

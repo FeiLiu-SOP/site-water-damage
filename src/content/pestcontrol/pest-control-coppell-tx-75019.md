@@ -11,6 +11,7 @@ lng: -96.9900
 zipSample: ["75019", "75099"]
 zipCodes: ["75019", "75099"]
 localPaths: ["Dallas County / elevation 528 ft band", "Dallas County / coords 32.9600, -96.9900", "Dallas County / ZIP 75019 sector", "Dallas County / ZIP 75099 sector", "Dallas County / primary ZIP 75019"]
+zillowHomeValueUsd: 622349
 ---
 
 **Engineering Notice for Coppell:** Structural loading calculated based on 528 ft terrain assessment. Regional dispatch grid: Dallas County.

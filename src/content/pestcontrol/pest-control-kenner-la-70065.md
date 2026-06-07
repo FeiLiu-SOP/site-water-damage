@@ -11,6 +11,7 @@ lng: -90.2500
 zipSample: ["70097", "70065", "70062", "70141", "70064"]
 zipCodes: ["70065", "70064", "70063", "70062", "70097", "70141"]
 localPaths: ["Jefferson Parish / ZIP 70097 sector", "Jefferson Parish / ZIP 70062 sector", "Jefferson Parish / primary ZIP 70065", "Jefferson Parish / elevation 0 ft band", "Jefferson Parish / ZIP 70141 sector"]
+zillowHomeValueUsd: 282405
 ---
 
 **Engineering Notice for Kenner:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Jefferson Parish.

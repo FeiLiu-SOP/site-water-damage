@@ -12,6 +12,7 @@ lng: -97.5900
 zipSample: ["78370"]
 zipCodes: ["78370"]
 localPaths: ["San Patricio County / ZIP 78370 sector", "San Patricio County / elevation 92 ft band", "San Patricio County / primary ZIP 78370", "San Patricio County / coords 27.9500, -97.5900"]
+zillowHomeValueUsd: 195534
 ---
 
 **Engineering Notice for Odem:** Envelope check: Exterior Envelope assigned to wind-load band C with stress factor 1.10. Regional dispatch grid: San Patricio County.

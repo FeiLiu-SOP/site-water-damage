@@ -12,6 +12,7 @@ lng: -86.5700
 zipSample: ["49106"]
 zipCodes: ["49106"]
 localPaths: ["Berrien County / elevation 627 ft band", "Berrien County / coords 41.9400, -86.5700", "Berrien County / primary ZIP 49106", "Berrien County / ZIP 49106 sector"]
+zillowHomeValueUsd: 343397
 ---
 
 **Engineering Notice for Bridgman:** System optimized for 150 mg/L hard water scaling factors in Bridgman. Regional dispatch grid: Berrien County.

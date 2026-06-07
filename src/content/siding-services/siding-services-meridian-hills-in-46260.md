@@ -12,6 +12,7 @@ lng: -86.1600
 zipSample: ["46240", "46260"]
 zipCodes: ["46240", "46260"]
 localPaths: ["Marion County / ZIP 46260 sector", "Marion County / primary ZIP 46260", "Marion County / elevation 797 ft band", "Marion County / coords 39.8900, -86.1600", "Marion County / ZIP 46240 sector"]
+zillowHomeValueUsd: 304704
 ---
 
 **Engineering Notice for Meridian Hills:** Envelope check: Exterior Cladding assigned to wind-load band C with stress factor 0.78. Elevation: 797 ft AMSL. Regional dispatch grid: Marion County.

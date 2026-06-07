@@ -12,6 +12,7 @@ lng: -73.8700
 zipSample: ["12524"]
 zipCodes: ["12524"]
 localPaths: ["Dutchess County / ZIP 12524 sector", "Dutchess County / coords 41.5400, -73.8700", "Dutchess County / elevation 295 ft band", "Dutchess County / primary ZIP 12524"]
+zillowHomeValueUsd: 470079
 ---
 
 **Engineering Notice for Merritt Park:** Site context locked to Dutchess County. Exterior Cladding integrity verification recorded.

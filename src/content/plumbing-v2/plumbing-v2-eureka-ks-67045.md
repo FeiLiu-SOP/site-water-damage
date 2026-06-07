@@ -12,6 +12,7 @@ lng: -96.2900
 zipSample: ["67045"]
 zipCodes: ["67045"]
 localPaths: ["Greenwood County / ZIP 67045 sector", "Greenwood County / coords 37.8300, -96.2900", "Greenwood County / elevation 1096 ft band", "Greenwood County / primary ZIP 67045"]
+zillowHomeValueUsd: 100784
 ---
 
 **Engineering Notice for Eureka:** System optimized for 179 mg/L hard water scaling factors in Eureka. Regional dispatch grid: Greenwood County.

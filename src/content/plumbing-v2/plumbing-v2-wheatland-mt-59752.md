@@ -12,6 +12,7 @@ lng: -111.5800
 zipSample: ["59752"]
 zipCodes: ["59752"]
 localPaths: ["Broadwater County / coords 45.9600, -111.5800", "Broadwater County / ZIP 59752 sector", "Broadwater County / elevation 4344 ft band", "Broadwater County / primary ZIP 59752"]
+zillowHomeValueUsd: 550204
 ---
 
 **Engineering Notice for Wheatland:** System optimized for 140 mg/L hard water scaling factors in Wheatland. Regional dispatch grid: Broadwater County.

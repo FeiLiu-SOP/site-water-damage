@@ -12,6 +12,7 @@ lng: -84.3400
 zipSample: ["40456", "40473"]
 zipCodes: ["40456", "40473"]
 localPaths: ["Rockcastle County / ZIP 40456 sector", "Rockcastle County / coords 37.3700, -84.3400", "Rockcastle County / primary ZIP 40456", "Rockcastle County / elevation 1247 ft band", "Rockcastle County / ZIP 40473 sector"]
+zillowHomeValueUsd: 150017
 ---
 
 **Engineering Notice for Mount Vernon:** System optimized for 173 mg/L hard water scaling factors in Mount Vernon. Regional dispatch grid: Rockcastle County.

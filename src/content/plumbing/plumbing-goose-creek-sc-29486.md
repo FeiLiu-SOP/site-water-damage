@@ -12,6 +12,7 @@ lng: -80.0100
 zipSample: ["29445", "29486"]
 zipCodes: ["29445", "29486"]
 localPaths: ["Berkeley County / coords 32.9900, -80.0100", "Berkeley County / elevation 3 ft band", "Berkeley County / primary ZIP 29486", "Berkeley County / ZIP 29486 sector", "Berkeley County / ZIP 29445 sector"]
+zillowHomeValueUsd: 401402
 ---
 
 **Engineering Notice for Goose Creek:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Berkeley County.

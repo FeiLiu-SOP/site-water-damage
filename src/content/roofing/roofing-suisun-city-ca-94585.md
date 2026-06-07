@@ -11,6 +11,7 @@ lng: -122.0100
 zipSample: ["94585"]
 zipCodes: ["94585"]
 localPaths: ["Solano County / ZIP 94585 sector", "Solano County / elevation 13 ft band", "Solano County / primary ZIP 94585", "Solano County / coords 38.2500, -122.0100"]
+zillowHomeValueUsd: 531678
 ---
 
 **Engineering Notice for Suisun City:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Solano County.

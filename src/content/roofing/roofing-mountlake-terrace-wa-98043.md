@@ -11,6 +11,7 @@ lng: -122.3100
 zipSample: ["98043"]
 zipCodes: ["98043"]
 localPaths: ["Snohomish County / coords 47.7900, -122.3100", "Snohomish County / ZIP 98043 sector", "Snohomish County / primary ZIP 98043", "Snohomish County / elevation 495 ft band"]
+zillowHomeValueUsd: 699227
 ---
 
 **Engineering Notice for Mountlake Terrace:** Structural loading calculated based on 495 ft terrain assessment. Regional dispatch grid: Snohomish County.

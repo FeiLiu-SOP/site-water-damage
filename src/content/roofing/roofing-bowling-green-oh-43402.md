@@ -11,6 +11,7 @@ lng: -83.6500
 zipSample: ["43402", "43403"]
 zipCodes: ["43402", "43403"]
 localPaths: ["Wood County / elevation 699 ft band", "Wood County / coords 41.3800, -83.6500", "Wood County / primary ZIP 43402", "Wood County / ZIP 43402 sector", "Wood County / ZIP 43403 sector"]
+zillowHomeValueUsd: 260883
 ---
 
 **Engineering Notice for Bowling Green:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Wood County.

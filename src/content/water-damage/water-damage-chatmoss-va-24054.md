@@ -12,6 +12,7 @@ lng: -79.8000
 zipSample: ["24054", "24112"]
 zipCodes: ["24112", "24054"]
 localPaths: ["Henry County / coords 36.6800, -79.8000", "Henry County / ZIP 24054 sector", "Henry County / primary ZIP 24054", "Henry County / elevation 745 ft band", "Henry County / ZIP 24112 sector"]
+zillowHomeValueUsd: 126859
 ---
 
 **Engineering Notice for Chatmoss:** structural drying capacity optimized for 745ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Henry County. Relative Humidity Threshold: 76%. Sensor sync: Active.

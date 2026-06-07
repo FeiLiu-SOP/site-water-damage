@@ -11,6 +11,8 @@ lng: -75.7800
 zipSample: ["13603", "13602"]
 zipCodes: ["13602", "13603"]
 localPaths: ["Jefferson County / ZIP 13603 sector", "Jefferson County / coords 44.0500, -75.7800", "Jefferson County / elevation 561 ft band", "Jefferson County / primary ZIP 13603", "Jefferson County / ZIP 13602 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 498126
 ---
 
 **Engineering Notice for Fort Drum:** Structural loading calculated based on 561 ft terrain assessment. Regional dispatch grid: Jefferson County.

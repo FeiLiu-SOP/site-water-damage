@@ -12,6 +12,7 @@ lng: -107.1600
 zipSample: ["87937"]
 zipCodes: ["87937"]
 localPaths: ["Doña Ana County / primary ZIP 87937", "Doña Ana County / ZIP 87937 sector", "Doña Ana County / elevation 4055 ft band", "Doña Ana County / coords 32.6700, -107.1600"]
+zillowHomeValueUsd: 168537
 ---
 
 **Engineering Notice for Hatch:** Structural integrity verification: Surface Sheathing calibrated for 91 mph localized wind load factor. Elevation: 4055 ft AMSL. Coordinates: 32.6700, -107.1600. Regional dispatch grid: Doña Ana County.

@@ -12,6 +12,7 @@ lng: -88.1300
 zipSample: ["35586"]
 zipCodes: ["35586"]
 localPaths: ["Lamar County / primary ZIP 35586", "Lamar County / elevation 427 ft band", "Lamar County / coords 33.8900, -88.1300", "Lamar County / ZIP 35586 sector"]
+zillowHomeValueUsd: 125606
 ---
 
 **Engineering Notice for Sulligent:** Structural integrity verification: Cladding Service calibrated for 94 mph localized wind load factor. Regional dispatch grid: Lamar County.

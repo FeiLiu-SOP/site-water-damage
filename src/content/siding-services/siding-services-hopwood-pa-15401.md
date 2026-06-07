@@ -12,6 +12,7 @@ lng: -79.7000
 zipSample: ["15401", "15445"]
 zipCodes: ["15445", "15401"]
 localPaths: ["Fayette County / primary ZIP 15401", "Fayette County / coords 39.8800, -79.7000", "Fayette County / ZIP 15401 sector", "Fayette County / elevation 1102 ft band", "Fayette County / ZIP 15445 sector"]
+zillowHomeValueUsd: 155370
 ---
 
 **Engineering Notice for Hopwood:** Exterior Envelope was validated under stress factor 1.04; target tolerance set near 91 mph. Grid anchor: Fayette County.

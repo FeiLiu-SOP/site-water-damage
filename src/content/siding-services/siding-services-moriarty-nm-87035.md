@@ -12,6 +12,7 @@ lng: -106.0400
 zipSample: ["87035"]
 zipCodes: ["87035"]
 localPaths: ["Torrance County / ZIP 87035 sector", "Torrance County / coords 35.0000, -106.0400", "Torrance County / elevation 6217 ft band", "Torrance County / primary ZIP 87035"]
+zillowHomeValueUsd: 234964
 ---
 
 **Engineering Notice for Moriarty:** Structural integrity verification: Surface Sheathing calibrated for 105 mph localized wind load factor. Coordinates: 35.0000, -106.0400. Regional dispatch grid: Torrance County.

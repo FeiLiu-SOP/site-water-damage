@@ -12,6 +12,7 @@ lng: -124.3100
 zipSample: ["97420"]
 zipCodes: ["97420"]
 localPaths: ["Coos County / primary ZIP 97420", "Coos County / elevation 85 ft band", "Coos County / coords 43.3500, -124.3100", "Coos County / ZIP 97420 sector"]
+zillowHomeValueUsd: 323718
 ---
 
 **Engineering Notice for Barview:** Site context locked to Coos County. Surface Sheathing integrity verification recorded.

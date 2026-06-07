@@ -12,6 +12,7 @@ lng: -81.2600
 zipSample: ["24701", "24737"]
 zipCodes: ["24701", "24737"]
 localPaths: ["Mercer County / ZIP 24701 sector", "Mercer County / coords 37.3100, -81.2600", "Mercer County / elevation 2631 ft band", "Mercer County / ZIP 24737 sector", "Mercer County / primary ZIP 24701"]
+zillowHomeValueUsd: 106669
 ---
 
 **Engineering Notice for Bluewell:** System optimized for 146 mg/L hard water scaling factors in Bluewell. Regional dispatch grid: Mercer County.

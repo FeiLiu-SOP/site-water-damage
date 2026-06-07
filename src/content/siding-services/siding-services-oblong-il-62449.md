@@ -12,6 +12,7 @@ lng: -87.9100
 zipSample: ["62449"]
 zipCodes: ["62449"]
 localPaths: ["Crawford County / coords 39.0000, -87.9100", "Crawford County / elevation 518 ft band", "Crawford County / primary ZIP 62449", "Crawford County / ZIP 62449 sector"]
+zillowHomeValueUsd: 114956
 ---
 
 **Engineering Notice for Oblong:** Cladding Service was validated under stress factor 1.18; target tolerance set near 91 mph. Coordinates: 39.0000, -87.9100. Grid anchor: Crawford County.

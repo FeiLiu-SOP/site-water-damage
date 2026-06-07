@@ -12,6 +12,7 @@ lng: -97.1400
 zipSample: ["76208", "76226", "76209", "76204", "76206"]
 zipCodes: ["76207", "76203", "76204", "76202", "76205", "76208", "76226", "76201", "76206", "76210", "76209"]
 localPaths: ["Denton County / coords 33.2200, -97.1400", "Denton County / ZIP 76206 sector", "Denton County / primary ZIP 76207", "Denton County / ZIP 76204 sector", "Denton County / ZIP 76208 sector"]
+zillowHomeValueUsd: 356058
 ---
 
 **Engineering Notice for Denton:** Structural loading calculated based on 686 ft terrain assessment. Regional dispatch grid: Denton County.

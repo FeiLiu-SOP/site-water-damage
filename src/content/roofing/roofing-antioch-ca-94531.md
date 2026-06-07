@@ -11,6 +11,7 @@ lng: -121.8000
 zipSample: ["94531", "94509"]
 zipCodes: ["94509", "94531"]
 localPaths: ["Contra Costa County / primary ZIP 94531", "Contra Costa County / elevation 213 ft band", "Contra Costa County / ZIP 94531 sector", "Contra Costa County / coords 37.9800, -121.8000", "Contra Costa County / ZIP 94509 sector"]
+zillowHomeValueUsd: 669718
 ---
 
 **Engineering Notice for Antioch:** Structural loading calculated based on 213 ft terrain assessment. Regional dispatch grid: Contra Costa County.

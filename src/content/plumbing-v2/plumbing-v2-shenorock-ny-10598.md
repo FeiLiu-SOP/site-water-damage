@@ -12,6 +12,7 @@ lng: -73.7400
 zipSample: ["10587", "10598"]
 zipCodes: ["10587", "10598"]
 localPaths: ["Westchester County / primary ZIP 10598", "Westchester County / coords 41.3300, -73.7400", "Westchester County / elevation 502 ft band", "Westchester County / ZIP 10598 sector", "Westchester County / ZIP 10587 sector"]
+zillowHomeValueUsd: 700224
 ---
 
 **Engineering Notice for Shenorock:** System optimized for 121 mg/L hard water scaling factors in Shenorock. Regional dispatch grid: Westchester County.

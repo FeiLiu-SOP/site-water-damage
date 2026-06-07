@@ -12,6 +12,7 @@ lng: -81.7600
 zipSample: ["24370"]
 zipCodes: ["24370"]
 localPaths: ["Smyth County / elevation 1696 ft band", "Smyth County / ZIP 24370 sector", "Smyth County / primary ZIP 24370", "Smyth County / coords 36.8800, -81.7600"]
+zillowHomeValueUsd: 117808
 ---
 
 **Engineering Notice for Saltville:** Panel Replacement was validated under stress factor 0.82; target tolerance set near 107 mph. Grid anchor: Smyth County.

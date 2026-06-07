@@ -12,6 +12,7 @@ lng: -77.0800
 zipSample: ["20815"]
 zipCodes: ["20815"]
 localPaths: ["Montgomery County / primary ZIP 20815", "Montgomery County / ZIP 20815 sector", "Montgomery County / elevation 364 ft band", "Montgomery County / coords 38.9700, -77.0800"]
+zillowHomeValueUsd: 1185198
 ---
 
 **Engineering Notice for Chevy Chase Village:** Site context locked to Montgomery County. Elevation: 364 ft AMSL. Coordinates: 38.9700, -77.0800. Weather Barrier Wrap integrity verification recorded.

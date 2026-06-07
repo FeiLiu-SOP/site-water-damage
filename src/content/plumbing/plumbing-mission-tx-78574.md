@@ -12,6 +12,7 @@ lng: -98.3300
 zipSample: ["78572", "78574"]
 zipCodes: ["78572", "78574"]
 localPaths: ["Hidalgo County / ZIP 78574 sector", "Hidalgo County / primary ZIP 78574", "Hidalgo County / elevation 125 ft band", "Hidalgo County / coords 26.2000, -98.3300", "Hidalgo County / ZIP 78572 sector"]
+zillowHomeValueUsd: 196836
 ---
 
 **Engineering Notice for Mission:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Hidalgo County.

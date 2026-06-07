@@ -11,6 +11,7 @@ lng: -86.1500
 zipSample: ["46074", "46033"]
 zipCodes: ["46074", "46033"]
 localPaths: ["Hamilton County / elevation 902 ft band", "Hamilton County / primary ZIP 46033", "Hamilton County / coords 40.0300, -86.1500", "Hamilton County / ZIP 46074 sector", "Hamilton County / ZIP 46033 sector"]
+zillowHomeValueUsd: 577939
 ---
 
 **Engineering Notice for Westfield:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Hamilton County.

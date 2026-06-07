@@ -12,6 +12,7 @@ lng: -109.9500
 zipSample: ["59011"]
 zipCodes: ["59011"]
 localPaths: ["Sweet Grass County / coords 45.8300, -109.9500", "Sweet Grass County / primary ZIP 59011", "Sweet Grass County / elevation 4104 ft band", "Sweet Grass County / ZIP 59011 sector"]
+zillowHomeValueUsd: 460356
 ---
 
 **Engineering Notice for Big Timber:** Site context locked to Sweet Grass County. Cladding Service integrity verification recorded.

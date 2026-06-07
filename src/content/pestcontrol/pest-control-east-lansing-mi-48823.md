@@ -11,6 +11,7 @@ lng: -84.4800
 zipSample: ["48825", "48824", "48826", "48823"]
 zipCodes: ["48826", "48825", "48824", "48823"]
 localPaths: ["Ingham County / coords 42.7500, -84.4800", "Ingham County / elevation 856 ft band", "Ingham County / ZIP 48823 sector", "Ingham County / primary ZIP 48823", "Ingham County / ZIP 48826 sector"]
+zillowHomeValueUsd: 315929
 ---
 
 **Engineering Notice for East Lansing:** Structural loading calculated based on 856 ft terrain assessment. Regional dispatch grid: Ingham County.

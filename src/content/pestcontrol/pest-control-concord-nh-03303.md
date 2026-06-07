@@ -11,6 +11,7 @@ lng: -71.5600
 zipSample: ["03305", "03302", "03301", "03303"]
 zipCodes: ["03305", "03301", "03303", "03302"]
 localPaths: ["Merrimack County / elevation 335 ft band", "Merrimack County / primary ZIP 03303", "Merrimack County / ZIP 03305 sector", "Merrimack County / ZIP 03301 sector", "Merrimack County / coords 43.2300, -71.5600"]
+zillowHomeValueUsd: 422937
 ---
 
 **Engineering Notice for Concord:** Structural loading calculated based on 335 ft terrain assessment. Regional dispatch grid: Merrimack County.

@@ -12,6 +12,7 @@ lng: -84.7500
 zipSample: ["43517"]
 zipCodes: ["43517"]
 localPaths: ["Williams County / elevation 846 ft band", "Williams County / ZIP 43517 sector", "Williams County / primary ZIP 43517", "Williams County / coords 41.4500, -84.7500"]
+zillowHomeValueUsd: 196632
 ---
 
 **Engineering Notice for Edgerton:** Cladding verification uses 98 mph routing baseline; lateral pressure note: 13.0 psf. Coordinates: 41.4500, -84.7500. Grid: Williams County.

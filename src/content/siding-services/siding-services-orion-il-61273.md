@@ -12,6 +12,7 @@ lng: -90.3800
 zipSample: ["61273"]
 zipCodes: ["61273"]
 localPaths: ["Henry County / coords 41.3500, -90.3800", "Henry County / primary ZIP 61273", "Henry County / ZIP 61273 sector", "Henry County / elevation 781 ft band"]
+zillowHomeValueUsd: 214613
 ---
 
 **Engineering Notice for Orion:** Envelope check: Panel Replacement assigned to wind-load band C with stress factor 0.95. Elevation: 781 ft AMSL. Regional dispatch grid: Henry County.

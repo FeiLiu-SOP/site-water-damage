@@ -11,6 +11,7 @@ lng: -119.7200
 zipSample: ["89436", "89435", "89432", "89431", "89434"]
 zipCodes: ["89431", "89432", "89436", "89435", "89434"]
 localPaths: ["Washoe County / ZIP 89435 sector", "Washoe County / primary ZIP 89436", "Washoe County / elevation 4560 ft band", "Washoe County / ZIP 89434 sector", "Washoe County / ZIP 89431 sector"]
+zillowHomeValueUsd: 572055
 ---
 
 **Engineering Notice for Sparks:** Structural loading calculated based on 4560 ft terrain assessment. Regional dispatch grid: Washoe County.

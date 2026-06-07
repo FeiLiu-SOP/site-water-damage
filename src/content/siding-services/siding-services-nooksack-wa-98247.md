@@ -12,6 +12,7 @@ lng: -122.3200
 zipSample: ["98276", "98247"]
 zipCodes: ["98276", "98247"]
 localPaths: ["Whatcom County / ZIP 98247 sector", "Whatcom County / ZIP 98276 sector", "Whatcom County / coords 48.9300, -122.3200", "Whatcom County / elevation 85 ft band", "Whatcom County / primary ZIP 98247"]
+zillowHomeValueUsd: 607898
 ---
 
 **Engineering Notice for Nooksack:** Cladding verification uses 108 mph routing baseline; lateral pressure note: 14.2 psf. Elevation: 85 ft AMSL. Grid: Whatcom County.

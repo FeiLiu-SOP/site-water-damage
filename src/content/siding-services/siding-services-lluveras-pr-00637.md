@@ -12,6 +12,8 @@ lng: -66.9000
 zipSample: ["00637"]
 zipCodes: ["00637"]
 localPaths: ["Sabana Grande County / ZIP 00637 sector", "Sabana Grande County / primary ZIP 00637", "Sabana Grande County / coords 18.0400, -66.9000", "Sabana Grande County / elevation 344 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 360667
 ---
 
 **Engineering Notice for Lluveras:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 0.90. Regional dispatch grid: Sabana Grande County.

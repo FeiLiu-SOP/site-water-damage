@@ -12,6 +12,7 @@ lng: -73.6700
 zipSample: ["11563"]
 zipCodes: ["11563"]
 localPaths: ["Nassau County / elevation 16 ft band", "Nassau County / coords 40.6600, -73.6700", "Nassau County / ZIP 11563 sector", "Nassau County / primary ZIP 11563"]
+zillowHomeValueUsd: 748008
 ---
 
 **Engineering Notice for Lynbrook:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Nassau County.

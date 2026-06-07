@@ -12,6 +12,7 @@ lng: -89.4300
 zipSample: ["39168"]
 zipCodes: ["39168"]
 localPaths: ["Smith County / primary ZIP 39168", "Smith County / elevation 308 ft band", "Smith County / ZIP 39168 sector", "Smith County / coords 31.8300, -89.4300"]
+zillowHomeValueUsd: 145787
 ---
 
 **Engineering Notice for Taylorsville:** Panel Replacement was validated under stress factor 1.03; target tolerance set near 109 mph. Grid anchor: Smith County.

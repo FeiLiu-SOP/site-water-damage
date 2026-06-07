@@ -12,6 +12,7 @@ lng: -151.0300
 zipSample: ["99611", "99669"]
 zipCodes: ["99611", "99669"]
 localPaths: ["Kenai Peninsula County / elevation 0 ft band", "Kenai Peninsula County / ZIP 99611 sector", "Kenai Peninsula County / ZIP 99669 sector", "Kenai Peninsula County / primary ZIP 99611", "Kenai Peninsula County / coords 60.5300, -151.0300"]
+zillowHomeValueUsd: 317032
 ---
 
 **Engineering Notice for Ridgeway:** System optimized for 123 mg/L hard water scaling factors in Ridgeway. Regional dispatch grid: Kenai Peninsula County.

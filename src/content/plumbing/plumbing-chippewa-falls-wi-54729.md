@@ -12,6 +12,7 @@ lng: -91.3900
 zipSample: ["54729", "54774"]
 zipCodes: ["54729", "54774"]
 localPaths: ["Chippewa County / ZIP 54774 sector", "Chippewa County / primary ZIP 54729", "Chippewa County / elevation 820 ft band", "Chippewa County / ZIP 54729 sector", "Chippewa County / coords 44.9400, -91.3900"]
+zillowHomeValueUsd: 331450
 ---
 
 **Engineering Notice for Chippewa Falls:** Structural loading calculated based on 820 ft terrain assessment. Regional dispatch grid: Chippewa County.

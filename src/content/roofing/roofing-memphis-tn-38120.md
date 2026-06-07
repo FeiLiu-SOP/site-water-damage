@@ -11,6 +11,7 @@ lng: -89.9700
 zipSample: ["38101", "38112", "38148", "38159", "38188"]
 zipCodes: ["38108", "38132", "38187", "38104", "38109", "38117", "38119", "38124", "38174", "38194", "38163", "38103"]
 localPaths: ["Shelby County / ZIP 38112 sector", "Shelby County / elevation 315 ft band", "Shelby County / ZIP 38101 sector", "Shelby County / ZIP 38159 sector", "Shelby County / ZIP 38148 sector"]
+zillowHomeValueUsd: 423535
 ---
 
 **Engineering Notice for Memphis:** Structural loading calculated based on 315 ft terrain assessment. Regional dispatch grid: Shelby County.

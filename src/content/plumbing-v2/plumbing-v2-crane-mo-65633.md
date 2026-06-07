@@ -12,6 +12,7 @@ lng: -93.5700
 zipSample: ["65633"]
 zipCodes: ["65633"]
 localPaths: ["Stone County / coords 36.9000, -93.5700", "Stone County / ZIP 65633 sector", "Stone County / elevation 1129 ft band", "Stone County / primary ZIP 65633"]
+zillowHomeValueUsd: 242289
 ---
 
 **Engineering Notice for Crane:** System optimized for 149 mg/L hard water scaling factors in Crane. Regional dispatch grid: Stone County.

@@ -11,6 +11,7 @@ lng: -93.3200
 zipSample: ["55430", "55429"]
 zipCodes: ["55430", "55429"]
 localPaths: ["Hennepin County / primary ZIP 55429", "Hennepin County / elevation 846 ft band", "Hennepin County / ZIP 55429 sector", "Hennepin County / coords 45.0700, -93.3200", "Hennepin County / ZIP 55430 sector"]
+zillowHomeValueUsd: 298888
 ---
 
 **Engineering Notice for Brooklyn Center:** Structural loading calculated based on 846 ft terrain assessment. Regional dispatch grid: Hennepin County.

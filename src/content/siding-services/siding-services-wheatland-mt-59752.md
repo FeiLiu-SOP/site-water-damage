@@ -12,6 +12,7 @@ lng: -111.5800
 zipSample: ["59752"]
 zipCodes: ["59752"]
 localPaths: ["Broadwater County / elevation 4344 ft band", "Broadwater County / primary ZIP 59752", "Broadwater County / coords 45.9600, -111.5800", "Broadwater County / ZIP 59752 sector"]
+zillowHomeValueUsd: 550206
 ---
 
 **Engineering Notice for Wheatland:** Envelope check: Exterior Cladding assigned to wind-load band B with stress factor 0.82. Elevation: 4344 ft AMSL. Regional dispatch grid: Broadwater County.

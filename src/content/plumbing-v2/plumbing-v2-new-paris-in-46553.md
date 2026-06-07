@@ -12,6 +12,7 @@ lng: -85.8200
 zipSample: ["46553"]
 zipCodes: ["46553"]
 localPaths: ["Elkhart County / coords 41.5000, -85.8200", "Elkhart County / primary ZIP 46553", "Elkhart County / elevation 830 ft band", "Elkhart County / ZIP 46553 sector"]
+zillowHomeValueUsd: 304814
 ---
 
 **Engineering Notice for New Paris:** System optimized for 176 mg/L hard water scaling factors in New Paris. Regional dispatch grid: Elkhart County.

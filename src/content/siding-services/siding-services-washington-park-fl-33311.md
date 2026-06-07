@@ -12,6 +12,7 @@ lng: -80.1800
 zipSample: ["33311"]
 zipCodes: ["33311"]
 localPaths: ["Broward County / primary ZIP 33311", "Broward County / elevation 30 ft band", "Broward County / ZIP 33311 sector", "Broward County / coords 26.1300, -80.1800"]
+zillowHomeValueUsd: 362749
 ---
 
 **Engineering Notice for Washington Park:** Facade Renewal was validated under stress factor 0.93; target tolerance set near 141 mph. Coordinates: 26.1300, -80.1800. Grid anchor: Broward County.

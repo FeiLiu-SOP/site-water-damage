@@ -12,6 +12,7 @@ lng: -82.9400
 zipSample: ["45662"]
 zipCodes: ["45662"]
 localPaths: ["Scioto County / coords 38.7500, -82.9400", "Scioto County / ZIP 45662 sector", "Scioto County / elevation 525 ft band", "Scioto County / primary ZIP 45662"]
+zillowHomeValueUsd: 99250
 ---
 
 **Engineering Notice for New Boston:** System optimized for 135 mg/L hard water scaling factors in New Boston. Regional dispatch grid: Scioto County.

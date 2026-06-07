@@ -12,6 +12,7 @@ lng: -84.4300
 zipSample: ["43570"]
 zipCodes: ["43570"]
 localPaths: ["Williams County / primary ZIP 43570", "Williams County / elevation 804 ft band", "Williams County / ZIP 43570 sector", "Williams County / coords 41.5900, -84.4300"]
+zillowHomeValueUsd: 187908
 ---
 
 **Engineering Notice for West Unity:** System optimized for 157 mg/L hard water scaling factors in West Unity. Regional dispatch grid: Williams County.

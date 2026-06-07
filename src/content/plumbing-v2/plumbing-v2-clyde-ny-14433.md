@@ -12,6 +12,7 @@ lng: -76.8700
 zipSample: ["14433"]
 zipCodes: ["14433"]
 localPaths: ["Wayne County / ZIP 14433 sector", "Wayne County / elevation 404 ft band", "Wayne County / primary ZIP 14433", "Wayne County / coords 43.0800, -76.8700"]
+zillowHomeValueUsd: 155620
 ---
 
 **Engineering Notice for Clyde:** System optimized for 123 mg/L hard water scaling factors in Clyde. Regional dispatch grid: Wayne County.

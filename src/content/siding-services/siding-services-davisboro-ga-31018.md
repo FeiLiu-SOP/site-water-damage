@@ -12,6 +12,7 @@ lng: -82.6000
 zipSample: ["31018"]
 zipCodes: ["31018"]
 localPaths: ["Washington County / ZIP 31018 sector", "Washington County / elevation 341 ft band", "Washington County / primary ZIP 31018", "Washington County / coords 32.9800, -82.6000"]
+zillowHomeValueUsd: 141152
 ---
 
 **Engineering Notice for Davisboro:** Envelope check: Vinyl Panels assigned to wind-load band B with stress factor 1.01. Regional dispatch grid: Washington County.

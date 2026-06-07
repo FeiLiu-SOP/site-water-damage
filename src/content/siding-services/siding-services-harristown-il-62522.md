@@ -12,6 +12,7 @@ lng: -89.0600
 zipSample: ["62522", "62537"]
 zipCodes: ["62537", "62522"]
 localPaths: ["Macon County / primary ZIP 62522", "Macon County / ZIP 62537 sector", "Macon County / coords 39.8400, -89.0600", "Macon County / elevation 676 ft band", "Macon County / ZIP 62522 sector"]
+zillowHomeValueUsd: 90434
 ---
 
 **Engineering Notice for Harristown:** Site context locked to Macon County. Coordinates: 39.8400, -89.0600. Wall Restoration integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -76.3900
 zipSample: ["17963"]
 zipCodes: ["17963"]
 localPaths: ["Schuylkill County / ZIP 17963 sector", "Schuylkill County / elevation 528 ft band", "Schuylkill County / coords 40.5500, -76.3900", "Schuylkill County / primary ZIP 17963"]
+zillowHomeValueUsd: 251407
 ---
 
 **Engineering Notice for Pine Grove:** System optimized for 135 mg/L hard water scaling factors in Pine Grove. Regional dispatch grid: Schuylkill County.

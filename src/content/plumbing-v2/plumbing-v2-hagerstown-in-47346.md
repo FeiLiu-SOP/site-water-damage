@@ -12,6 +12,7 @@ lng: -85.1600
 zipSample: ["47346"]
 zipCodes: ["47346"]
 localPaths: ["Wayne County / coords 39.9100, -85.1600", "Wayne County / elevation 988 ft band", "Wayne County / primary ZIP 47346", "Wayne County / ZIP 47346 sector"]
+zillowHomeValueUsd: 207655
 ---
 
 **Engineering Notice for Hagerstown:** System optimized for 158 mg/L hard water scaling factors in Hagerstown. Regional dispatch grid: Wayne County.

@@ -12,6 +12,7 @@ lng: -82.3600
 zipSample: ["29607", "29603", "29609", "29602", "29614"]
 zipCodes: ["29603", "29614", "29601", "29612", "29605", "29602", "29616", "29604", "29607", "29609"]
 localPaths: ["Greenville County / primary ZIP 29614", "Greenville County / elevation 958 ft band", "Greenville County / ZIP 29609 sector", "Greenville County / coords 34.8400, -82.3600", "Greenville County / ZIP 29603 sector"]
+zillowHomeValueUsd: 380751
 ---
 
 **Engineering Notice for Greenville:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Greenville County.

@@ -12,6 +12,7 @@ lng: -88.0900
 zipSample: ["54313", "54304", "54115"]
 zipCodes: ["54304", "54115", "54313"]
 localPaths: ["Brown County / ZIP 54304 sector", "Brown County / ZIP 54115 sector", "Brown County / coords 44.4800, -88.0900", "Brown County / elevation 614 ft band", "Brown County / ZIP 54313 sector"]
+zillowHomeValueUsd: 289076
 ---
 
 **Engineering Notice for Ashwaubenon:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Brown County.

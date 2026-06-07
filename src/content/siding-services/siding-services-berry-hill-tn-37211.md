@@ -12,6 +12,7 @@ lng: -86.7700
 zipSample: ["37211", "37204"]
 zipCodes: ["37204", "37211"]
 localPaths: ["Davidson County / primary ZIP 37211", "Davidson County / elevation 515 ft band", "Davidson County / ZIP 37211 sector", "Davidson County / coords 36.1200, -86.7700", "Davidson County / ZIP 37204 sector"]
+zillowHomeValueUsd: 398101
 ---
 
 **Engineering Notice for Berry Hill:** Site context locked to Davidson County. Elevation: 515 ft AMSL. Cladding Retrofit integrity verification recorded.

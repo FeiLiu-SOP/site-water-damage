@@ -12,6 +12,7 @@ lng: -72.6800
 zipSample: ["06437"]
 zipCodes: ["06437"]
 localPaths: ["South Central Connecticut County / ZIP 06437 sector", "South Central Connecticut County / primary ZIP 06437", "South Central Connecticut County / coords 41.2800, -72.6800", "South Central Connecticut County / elevation 16 ft band"]
+zillowHomeValueUsd: 614863
 ---
 
 **Engineering Notice for Guilford Center:** System optimized for 129 mg/L hard water scaling factors in Guilford Center. Regional dispatch grid: South Central Connecticut County.

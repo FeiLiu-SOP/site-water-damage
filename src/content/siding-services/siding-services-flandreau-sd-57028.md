@@ -12,6 +12,7 @@ lng: -96.6000
 zipSample: ["57028"]
 zipCodes: ["57028"]
 localPaths: ["Moody County / primary ZIP 57028", "Moody County / elevation 1562 ft band", "Moody County / coords 44.0500, -96.6000", "Moody County / ZIP 57028 sector"]
+zillowHomeValueUsd: 222556
 ---
 
 **Engineering Notice for Flandreau:** Site context locked to Moody County. Elevation: 1562 ft AMSL. Cladding Service integrity verification recorded.

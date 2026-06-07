@@ -11,6 +11,7 @@ lng: -84.3600
 zipSample: ["30297", "30298", "30294"]
 zipCodes: ["30294", "30297", "30298"]
 localPaths: ["Clayton County / elevation 1004 ft band", "Clayton County / primary ZIP 30297", "Clayton County / ZIP 30297 sector", "Clayton County / ZIP 30298 sector", "Clayton County / ZIP 30294 sector"]
+zillowHomeValueUsd: 165055
 ---
 
 **Engineering Notice for Forest Park:** Structural loading calculated based on 1004 ft terrain assessment. Regional dispatch grid: Clayton County.

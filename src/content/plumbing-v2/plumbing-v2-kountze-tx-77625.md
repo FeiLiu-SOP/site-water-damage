@@ -12,6 +12,7 @@ lng: -94.3200
 zipSample: ["77625"]
 zipCodes: ["77625"]
 localPaths: ["Hardin County / primary ZIP 77625", "Hardin County / elevation 112 ft band", "Hardin County / ZIP 77625 sector", "Hardin County / coords 30.3700, -94.3200"]
+zillowHomeValueUsd: 217854
 ---
 
 **Engineering Notice for Kountze:** System optimized for 164 mg/L hard water scaling factors in Kountze. Regional dispatch grid: Hardin County.

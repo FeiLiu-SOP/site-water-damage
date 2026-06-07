@@ -11,6 +11,7 @@ lng: -122.0300
 zipSample: ["95065", "95061", "95063", "95067", "95064"]
 zipCodes: ["95060", "95067", "95063", "95062", "95064", "95065", "95061"]
 localPaths: ["Santa Cruz County / elevation 226 ft band", "Santa Cruz County / ZIP 95061 sector", "Santa Cruz County / ZIP 95063 sector", "Santa Cruz County / coords 36.9800, -122.0300", "Santa Cruz County / ZIP 95067 sector"]
+zillowHomeValueUsd: 1351126
 ---
 
 **Engineering Notice for Santa Cruz:** Structural loading calculated based on 226 ft terrain assessment. Regional dispatch grid: Santa Cruz County.

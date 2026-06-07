@@ -12,6 +12,7 @@ lng: -75.4200
 zipSample: ["19960"]
 zipCodes: ["19960"]
 localPaths: ["Sussex County / primary ZIP 19960", "Sussex County / ZIP 19960 sector", "Sussex County / coords 38.8700, -75.4200", "Sussex County / elevation 46 ft band"]
+zillowHomeValueUsd: 351048
 ---
 
 **Engineering Notice for Lincoln:** System optimized for 139 mg/L hard water scaling factors in Lincoln. Regional dispatch grid: Sussex County.

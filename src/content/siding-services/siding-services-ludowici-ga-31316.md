@@ -12,6 +12,7 @@ lng: -81.7500
 zipSample: ["31316"]
 zipCodes: ["31316"]
 localPaths: ["Long County / elevation 75 ft band", "Long County / ZIP 31316 sector", "Long County / coords 31.7100, -81.7500", "Long County / primary ZIP 31316"]
+zillowHomeValueUsd: 287775
 ---
 
 **Engineering Notice for Ludowici:** Envelope check: Weather Barrier Wrap assigned to wind-load band A with stress factor 1.20. Regional dispatch grid: Long County.

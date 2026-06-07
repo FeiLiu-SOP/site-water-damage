@@ -12,6 +12,7 @@ lng: -93.7300
 zipSample: ["56097"]
 zipCodes: ["56097"]
 localPaths: ["Faribault County / elevation 1158 ft band", "Faribault County / primary ZIP 56097", "Faribault County / ZIP 56097 sector", "Faribault County / coords 43.7400, -93.7300"]
+zillowHomeValueUsd: 182235
 ---
 
 **Engineering Notice for Wells:** System optimized for 149 mg/L hard water scaling factors in Wells. Regional dispatch grid: Faribault County.

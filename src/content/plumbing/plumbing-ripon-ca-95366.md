@@ -12,6 +12,7 @@ lng: -121.1300
 zipSample: ["95366"]
 zipCodes: ["95366"]
 localPaths: ["San Joaquin County / ZIP 95366 sector", "San Joaquin County / elevation 62 ft band", "San Joaquin County / primary ZIP 95366", "San Joaquin County / coords 37.7400, -121.1300"]
+zillowHomeValueUsd: 682723
 ---
 
 **Engineering Notice for Ripon:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: San Joaquin County.

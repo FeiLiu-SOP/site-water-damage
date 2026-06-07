@@ -12,6 +12,7 @@ lng: -88.6400
 zipSample: ["42001", "42003", "42002"]
 zipCodes: ["42002", "42001", "42003"]
 localPaths: ["McCracken County / primary ZIP 42003", "McCracken County / elevation 387 ft band", "McCracken County / ZIP 42003 sector", "McCracken County / ZIP 42001 sector", "McCracken County / coords 37.0700, -88.6400"]
+zillowHomeValueUsd: 161242
 ---
 
 **Engineering Notice for Paducah:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: McCracken County.

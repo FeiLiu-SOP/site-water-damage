@@ -12,6 +12,7 @@ lng: -88.6100
 zipSample: ["60151"]
 zipCodes: ["60151"]
 localPaths: ["DeKalb County / elevation 853 ft band", "DeKalb County / coords 41.9100, -88.6100", "DeKalb County / ZIP 60151 sector", "DeKalb County / primary ZIP 60151"]
+zillowHomeValueUsd: 404928
 ---
 
 **Engineering Notice for Maple Park:** System optimized for 162 mg/L hard water scaling factors in Maple Park. Regional dispatch grid: DeKalb County.

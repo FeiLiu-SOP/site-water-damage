@@ -12,6 +12,7 @@ lng: -82.6300
 zipSample: ["34667"]
 zipCodes: ["34667"]
 localPaths: ["Pasco County / ZIP 34667 sector", "Pasco County / elevation 43 ft band", "Pasco County / primary ZIP 34667", "Pasco County / coords 28.4300, -82.6300"]
+zillowHomeValueUsd: 276822
 ---
 
 **Engineering Notice for Heritage Pines:** Cladding verification uses 133 mph routing baseline; lateral pressure note: 17.2 psf. Elevation: 43 ft AMSL. Coordinates: 28.4300, -82.6300. Grid: Pasco County.

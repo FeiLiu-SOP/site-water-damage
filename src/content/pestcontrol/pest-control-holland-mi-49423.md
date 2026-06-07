@@ -11,6 +11,7 @@ lng: -86.1000
 zipSample: ["49423", "49422"]
 zipCodes: ["49423", "49422"]
 localPaths: ["Ottawa County / ZIP 49423 sector", "Ottawa County / ZIP 49422 sector", "Ottawa County / elevation 656 ft band", "Ottawa County / coords 42.7700, -86.1000", "Ottawa County / primary ZIP 49423"]
+zillowHomeValueUsd: 347233
 ---
 
 **Engineering Notice for Holland:** Structural loading calculated based on 656 ft terrain assessment. Regional dispatch grid: Ottawa County.

@@ -12,6 +12,7 @@ lng: -90.3200
 zipSample: ["63151", "63129"]
 zipCodes: ["63151", "63129"]
 localPaths: ["St. Louis County / elevation 571 ft band", "St. Louis County / coords 38.4500, -90.3200", "St. Louis County / primary ZIP 63129", "St. Louis County / ZIP 63151 sector", "St. Louis County / ZIP 63129 sector"]
+zillowHomeValueUsd: 340032
 ---
 
 **Engineering Notice for Oakville:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: St. Louis County.

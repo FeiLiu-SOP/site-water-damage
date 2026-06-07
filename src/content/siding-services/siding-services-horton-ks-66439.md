@@ -12,6 +12,7 @@ lng: -95.5300
 zipSample: ["66439"]
 zipCodes: ["66439"]
 localPaths: ["Brown County / primary ZIP 66439", "Brown County / elevation 1063 ft band", "Brown County / coords 39.6600, -95.5300", "Brown County / ZIP 66439 sector"]
+zillowHomeValueUsd: 103498
 ---
 
 **Engineering Notice for Horton:** Facade Renewal was validated under stress factor 0.72; target tolerance set near 104 mph. Coordinates: 39.6600, -95.5300. Grid anchor: Brown County.

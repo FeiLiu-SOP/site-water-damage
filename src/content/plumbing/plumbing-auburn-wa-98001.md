@@ -12,6 +12,7 @@ lng: -122.2100
 zipSample: ["98092", "98001", "98002"]
 zipCodes: ["98002", "98001", "98092"]
 localPaths: ["King County / coords 47.3000, -122.2100", "King County / ZIP 98001 sector", "King County / ZIP 98002 sector", "King County / elevation 92 ft band", "King County / primary ZIP 98001"]
+zillowHomeValueUsd: 640571
 ---
 
 **Engineering Notice for Auburn:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: King County.

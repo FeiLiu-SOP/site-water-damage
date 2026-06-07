@@ -11,6 +11,7 @@ lng: -80.6400
 zipSample: ["28027", "28081", "28083", "28082"]
 zipCodes: ["28082", "28027", "28083", "28081"]
 localPaths: ["Cabarrus County / coords 35.4800, -80.6400", "Cabarrus County / ZIP 28083 sector", "Cabarrus County / ZIP 28082 sector", "Cabarrus County / elevation 761 ft band", "Cabarrus County / ZIP 28027 sector"]
+zillowHomeValueUsd: 414979
 ---
 
 **Engineering Notice for Kannapolis:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Cabarrus County.

@@ -12,6 +12,7 @@ lng: -80.1700
 zipSample: ["15143"]
 zipCodes: ["15143"]
 localPaths: ["Allegheny County / coords 40.5900, -80.1700", "Allegheny County / elevation 1184 ft band", "Allegheny County / primary ZIP 15143", "Allegheny County / ZIP 15143 sector"]
+zillowHomeValueUsd: 520380
 ---
 
 **Engineering Notice for Bell Acres:** System optimized for 171 mg/L hard water scaling factors in Bell Acres. Regional dispatch grid: Allegheny County.

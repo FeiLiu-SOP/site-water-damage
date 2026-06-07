@@ -12,6 +12,7 @@ lng: -87.5800
 zipSample: ["47725"]
 zipCodes: ["47725"]
 localPaths: ["Vanderburgh County / elevation 463 ft band", "Vanderburgh County / primary ZIP 47725", "Vanderburgh County / coords 38.0900, -87.5800", "Vanderburgh County / ZIP 47725 sector"]
+zillowHomeValueUsd: 323462
 ---
 
 **Engineering Notice for Darmstadt:** structural drying capacity optimized for 463ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Vanderburgh County. Relative Humidity Threshold: 66%. Sensor sync: Active.

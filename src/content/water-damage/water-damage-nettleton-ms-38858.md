@@ -12,6 +12,7 @@ lng: -88.6200
 zipSample: ["38858"]
 zipCodes: ["38858"]
 localPaths: ["Monroe County / ZIP 38858 sector", "Monroe County / coords 34.0900, -88.6200", "Monroe County / elevation 253 ft band", "Monroe County / primary ZIP 38858"]
+zillowHomeValueUsd: 152763
 ---
 
 **Engineering Notice for Nettleton:** structural drying capacity optimized for 253ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Monroe County. Relative Humidity Threshold: 83%. Sensor sync: Active.

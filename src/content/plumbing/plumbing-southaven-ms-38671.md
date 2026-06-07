@@ -12,6 +12,7 @@ lng: -89.9800
 zipSample: ["38671", "38672", "38651"]
 zipCodes: ["38671", "38651", "38672"]
 localPaths: ["DeSoto County / ZIP 38671 sector", "DeSoto County / coords 34.9500, -89.9800", "DeSoto County / ZIP 38672 sector", "DeSoto County / primary ZIP 38671", "DeSoto County / elevation 331 ft band"]
+zillowHomeValueUsd: 235226
 ---
 
 **Engineering Notice for Southaven:** Structural loading calculated based on 331 ft terrain assessment. Regional dispatch grid: DeSoto County.

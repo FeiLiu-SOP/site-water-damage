@@ -12,6 +12,7 @@ lng: -77.5600
 zipSample: ["17009"]
 zipCodes: ["17009"]
 localPaths: ["Mifflin County / ZIP 17009 sector", "Mifflin County / coords 40.6400, -77.5600", "Mifflin County / primary ZIP 17009", "Mifflin County / elevation 541 ft band"]
+zillowHomeValueUsd: 145247
 ---
 
 **Engineering Notice for Burnham:** Structural integrity verification: Exterior Cladding calibrated for 99 mph localized wind load factor. Coordinates: 40.6400, -77.5600. Regional dispatch grid: Mifflin County.

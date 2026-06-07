@@ -12,6 +12,7 @@ lng: -84.2400
 zipSample: ["48661"]
 zipCodes: ["48661"]
 localPaths: ["Ogemaw County / ZIP 48661 sector", "Ogemaw County / primary ZIP 48661", "Ogemaw County / coords 44.2700, -84.2400", "Ogemaw County / elevation 945 ft band"]
+zillowHomeValueUsd: 213614
 ---
 
 **Engineering Notice for West Branch:** Wall Restoration was validated under stress factor 0.79; target tolerance set near 98 mph. Grid anchor: Ogemaw County.

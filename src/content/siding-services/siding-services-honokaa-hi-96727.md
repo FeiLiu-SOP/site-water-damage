@@ -12,6 +12,7 @@ lng: -155.4600
 zipSample: ["96727"]
 zipCodes: ["96727"]
 localPaths: ["Hawaii County / ZIP 96727 sector", "Hawaii County / primary ZIP 96727", "Hawaii County / elevation 1125 ft band", "Hawaii County / coords 20.0800, -155.4600"]
+zillowHomeValueUsd: 642779
 ---
 
 **Engineering Notice for Honokaa:** Cladding verification uses 107 mph routing baseline; lateral pressure note: 14.0 psf. Coordinates: 20.0800, -155.4600. Grid: Hawaii County.

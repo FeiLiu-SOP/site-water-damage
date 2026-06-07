@@ -12,6 +12,7 @@ lng: -94.9300
 zipSample: ["50025"]
 zipCodes: ["50025"]
 localPaths: ["Audubon County / ZIP 50025 sector", "Audubon County / elevation 1325 ft band", "Audubon County / coords 41.7200, -94.9300", "Audubon County / primary ZIP 50025"]
+zillowHomeValueUsd: 150718
 ---
 
 **Engineering Notice for Audubon:** Envelope check: Vinyl Panels assigned to wind-load band C with stress factor 1.10. Regional dispatch grid: Audubon County.

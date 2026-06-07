@@ -12,6 +12,7 @@ lng: -100.9400
 zipSample: ["78840"]
 zipCodes: ["78840"]
 localPaths: ["Val Verde County / elevation 955 ft band", "Val Verde County / coords 29.3700, -100.9400", "Val Verde County / ZIP 78840 sector", "Val Verde County / primary ZIP 78840"]
+zillowHomeValueUsd: 209856
 ---
 
 **Engineering Notice for Cienegas Terrace:** System optimized for 136 mg/L hard water scaling factors in Cienegas Terrace. Regional dispatch grid: Val Verde County.

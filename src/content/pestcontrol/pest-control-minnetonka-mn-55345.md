@@ -11,6 +11,7 @@ lng: -93.4600
 zipSample: ["55343", "55345", "55391", "55305"]
 zipCodes: ["55345", "55305", "55391", "55343"]
 localPaths: ["Hennepin County / ZIP 55343 sector", "Hennepin County / ZIP 55345 sector", "Hennepin County / ZIP 55391 sector", "Hennepin County / coords 44.9300, -93.4600", "Hennepin County / ZIP 55305 sector"]
+zillowHomeValueUsd: 534605
 ---
 
 **Engineering Notice for Minnetonka:** Structural loading calculated based on 991 ft terrain assessment. Regional dispatch grid: Hennepin County.

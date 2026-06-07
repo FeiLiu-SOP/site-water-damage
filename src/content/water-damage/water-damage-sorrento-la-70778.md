@@ -12,6 +12,7 @@ lng: -90.8700
 zipSample: ["70778", "70737"]
 zipCodes: ["70778", "70737"]
 localPaths: ["Ascension Parish / ZIP 70737 sector", "Ascension Parish / elevation 30 ft band", "Ascension Parish / coords 30.1800, -90.8700", "Ascension Parish / ZIP 70778 sector", "Ascension Parish / primary ZIP 70778"]
+zillowHomeValueUsd: 277429
 ---
 
 **Engineering Notice for Sorrento:** structural drying capacity optimized for 30ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ascension Parish. Relative Humidity Threshold: 81%. Sensor sync: Active.

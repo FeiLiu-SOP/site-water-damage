@@ -12,6 +12,7 @@ lng: -80.2800
 zipSample: ["33411", "33412", "33470"]
 zipCodes: ["33411", "33470", "33412"]
 localPaths: ["Palm Beach County / ZIP 33411 sector", "Palm Beach County / elevation 43 ft band", "Palm Beach County / ZIP 33470 sector", "Palm Beach County / coords 26.7700, -80.2800", "Palm Beach County / primary ZIP 33411"]
+zillowHomeValueUsd: 465814
 ---
 
 **Engineering Notice for The Acreage:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Palm Beach County.

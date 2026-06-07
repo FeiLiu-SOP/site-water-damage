@@ -12,6 +12,7 @@ lng: -85.6500
 zipSample: ["49099"]
 zipCodes: ["49099"]
 localPaths: ["St. Joseph County / primary ZIP 49099", "St. Joseph County / elevation 830 ft band", "St. Joseph County / coords 41.8000, -85.6500", "St. Joseph County / ZIP 49099 sector"]
+zillowHomeValueUsd: 233128
 ---
 
 **Engineering Notice for White Pigeon:** System optimized for 161 mg/L hard water scaling factors in White Pigeon. Regional dispatch grid: St. Joseph County.

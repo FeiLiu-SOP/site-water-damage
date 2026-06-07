@@ -12,6 +12,7 @@ lng: -93.1700
 zipSample: ["55006"]
 zipCodes: ["55006"]
 localPaths: ["Isanti County / coords 45.7200, -93.1700", "Isanti County / ZIP 55006 sector", "Isanti County / elevation 942 ft band", "Isanti County / primary ZIP 55006"]
+zillowHomeValueUsd: 271827
 ---
 
 **Engineering Notice for Braham:** Facade Renewal was validated under stress factor 0.86; target tolerance set near 100 mph. Coordinates: 45.7200, -93.1700. Grid anchor: Isanti County.

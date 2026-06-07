@@ -12,6 +12,7 @@ lng: -74.1400
 zipSample: ["10950"]
 zipCodes: ["10950"]
 localPaths: ["Orange County / elevation 860 ft band", "Orange County / coords 41.3900, -74.1400", "Orange County / ZIP 10950 sector", "Orange County / primary ZIP 10950"]
+zillowHomeValueUsd: 529137
 ---
 
 **Engineering Notice for Mountain Lodge Park:** structural drying capacity optimized for 860ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Orange County. Relative Humidity Threshold: 78%. Sensor sync: Active.

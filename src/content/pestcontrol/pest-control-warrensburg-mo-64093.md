@@ -11,6 +11,7 @@ lng: -93.7300
 zipSample: ["64093"]
 zipCodes: ["64093"]
 localPaths: ["Johnson County / coords 38.7600, -93.7300", "Johnson County / elevation 837 ft band", "Johnson County / primary ZIP 64093", "Johnson County / ZIP 64093 sector"]
+zillowHomeValueUsd: 266535
 ---
 
 **Engineering Notice for Warrensburg:** Structural loading calculated based on 837 ft terrain assessment. Regional dispatch grid: Johnson County.

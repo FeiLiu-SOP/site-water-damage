@@ -12,6 +12,7 @@ lng: -97.6300
 zipSample: ["66935"]
 zipCodes: ["66935"]
 localPaths: ["Republic County / elevation 1555 ft band", "Republic County / ZIP 66935 sector", "Republic County / coords 39.8200, -97.6300", "Republic County / primary ZIP 66935"]
+zillowHomeValueUsd: 99480
 ---
 
 **Engineering Notice for Belleville:** structural drying capacity optimized for 1555ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Republic County. Relative Humidity Threshold: 79%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -97.7200
 zipSample: ["73064"]
 zipCodes: ["73064"]
 localPaths: ["Canadian County / ZIP 73064 sector", "Canadian County / elevation 1345 ft band", "Canadian County / primary ZIP 73064", "Canadian County / coords 35.3900, -97.7200"]
+zillowHomeValueUsd: 276360
 ---
 
 **Engineering Notice for Mustang:** Structural loading calculated based on 1345 ft terrain assessment. Regional dispatch grid: Canadian County.

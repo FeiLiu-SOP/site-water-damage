@@ -12,6 +12,7 @@ lng: -111.5500
 zipSample: ["59752"]
 zipCodes: ["59752"]
 localPaths: ["Gallatin County / primary ZIP 59752", "Gallatin County / coords 45.8900, -111.5500", "Gallatin County / ZIP 59752 sector", "Gallatin County / elevation 4081 ft band"]
+zillowHomeValueUsd: 550203
 ---
 
 **Engineering Notice for Three Forks:** System optimized for 131 mg/L hard water scaling factors in Three Forks. Regional dispatch grid: Gallatin County.

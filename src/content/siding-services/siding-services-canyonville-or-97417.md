@@ -12,6 +12,7 @@ lng: -123.2800
 zipSample: ["97417"]
 zipCodes: ["97417"]
 localPaths: ["Douglas County / ZIP 97417 sector", "Douglas County / coords 42.9300, -123.2800", "Douglas County / elevation 745 ft band", "Douglas County / primary ZIP 97417"]
+zillowHomeValueUsd: 264073
 ---
 
 **Engineering Notice for Canyonville:** Structural integrity verification: Exterior Cladding calibrated for 91 mph localized wind load factor. Elevation: 745 ft AMSL. Coordinates: 42.9300, -123.2800. Regional dispatch grid: Douglas County.

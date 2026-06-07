@@ -12,6 +12,7 @@ lng: -78.0000
 zipSample: ["23093"]
 zipCodes: ["23093"]
 localPaths: ["Louisa County / elevation 446 ft band", "Louisa County / ZIP 23093 sector", "Louisa County / primary ZIP 23093", "Louisa County / coords 38.0200, -78.0000"]
+zillowHomeValueUsd: 373097
 ---
 
 **Engineering Notice for Louisa:** Structural integrity verification: Surface Sheathing calibrated for 106 mph localized wind load factor. Elevation: 446 ft AMSL. Coordinates: 38.0200, -78.0000. Regional dispatch grid: Louisa County.

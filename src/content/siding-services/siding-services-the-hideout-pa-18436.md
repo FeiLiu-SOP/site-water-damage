@@ -12,6 +12,7 @@ lng: -75.3500
 zipSample: ["18436"]
 zipCodes: ["18436"]
 localPaths: ["Wayne County / ZIP 18436 sector", "Wayne County / elevation 1345 ft band", "Wayne County / primary ZIP 18436", "Wayne County / coords 41.4400, -75.3500"]
+zillowHomeValueUsd: 303558
 ---
 
 **Engineering Notice for The Hideout:** Cladding verification uses 102 mph routing baseline; lateral pressure note: 13.4 psf. Elevation: 1345 ft AMSL. Grid: Wayne County.

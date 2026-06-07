@@ -12,6 +12,7 @@ lng: -106.3800
 zipSample: ["80459"]
 zipCodes: ["80459"]
 localPaths: ["Grand County / ZIP 80459 sector", "Grand County / elevation 7408 ft band", "Grand County / primary ZIP 80459", "Grand County / coords 40.0600, -106.3800"]
+zillowHomeValueUsd: 546680
 ---
 
 **Engineering Notice for Kremmling:** System optimized for 126 mg/L hard water scaling factors in Kremmling. Regional dispatch grid: Grand County.

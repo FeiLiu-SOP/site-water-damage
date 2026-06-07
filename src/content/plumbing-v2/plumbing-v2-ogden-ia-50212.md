@@ -12,6 +12,7 @@ lng: -94.0300
 zipSample: ["50212"]
 zipCodes: ["50212"]
 localPaths: ["Boone County / primary ZIP 50212", "Boone County / ZIP 50212 sector", "Boone County / elevation 1096 ft band", "Boone County / coords 42.0400, -94.0300"]
+zillowHomeValueUsd: 236331
 ---
 
 **Engineering Notice for Ogden:** System optimized for 123 mg/L hard water scaling factors in Ogden. Regional dispatch grid: Boone County.

@@ -12,6 +12,7 @@ lng: -97.5200
 zipSample: ["57274"]
 zipCodes: ["57274"]
 localPaths: ["Day County / elevation 1834 ft band", "Day County / ZIP 57274 sector", "Day County / coords 45.3400, -97.5200", "Day County / primary ZIP 57274"]
+zillowHomeValueUsd: 222823
 ---
 
 **Engineering Notice for Webster:** structural drying capacity optimized for 1834ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Day County. Relative Humidity Threshold: 65%. Sensor sync: Active.

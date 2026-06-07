@@ -12,6 +12,7 @@ lng: -79.0400
 zipSample: ["21562"]
 zipCodes: ["21562"]
 localPaths: ["Allegany County / primary ZIP 21562", "Allegany County / elevation 961 ft band", "Allegany County / ZIP 21562 sector", "Allegany County / coords 39.4900, -79.0400"]
+zillowHomeValueUsd: 84185
 ---
 
 **Engineering Notice for Westernport:** System optimized for 146 mg/L hard water scaling factors in Westernport. Regional dispatch grid: Allegany County.

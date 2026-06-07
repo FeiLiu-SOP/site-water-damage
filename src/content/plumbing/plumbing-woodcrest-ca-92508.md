@@ -12,6 +12,7 @@ lng: -117.3700
 zipSample: ["92504", "92508", "92503", "92506"]
 zipCodes: ["92504", "92508", "92506", "92503"]
 localPaths: ["Riverside County / ZIP 92504 sector", "Riverside County / primary ZIP 92508", "Riverside County / ZIP 92503 sector", "Riverside County / ZIP 92506 sector", "Riverside County / ZIP 92508 sector"]
+zillowHomeValueUsd: 767565
 ---
 
 **Engineering Notice for Woodcrest:** Structural loading calculated based on 1476 ft terrain assessment. Regional dispatch grid: Riverside County.

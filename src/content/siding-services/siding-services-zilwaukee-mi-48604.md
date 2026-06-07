@@ -12,6 +12,7 @@ lng: -83.9200
 zipSample: ["48604"]
 zipCodes: ["48604"]
 localPaths: ["Saginaw County / coords 43.4800, -83.9200", "Saginaw County / primary ZIP 48604", "Saginaw County / ZIP 48604 sector", "Saginaw County / elevation 591 ft band"]
+zillowHomeValueUsd: 136803
 ---
 
 **Engineering Notice for Zilwaukee:** Envelope check: Panel Replacement assigned to wind-load band C with stress factor 1.16. Elevation: 591 ft AMSL. Regional dispatch grid: Saginaw County.

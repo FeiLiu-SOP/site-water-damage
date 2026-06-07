@@ -12,6 +12,7 @@ lng: -88.4300
 zipSample: ["60450"]
 zipCodes: ["60450"]
 localPaths: ["Grundy County / primary ZIP 60450", "Grundy County / coords 41.3700, -88.4300", "Grundy County / elevation 538 ft band", "Grundy County / ZIP 60450 sector"]
+zillowHomeValueUsd: 307987
 ---
 
 **Engineering Notice for Morris:** Structural loading calculated based on 538 ft terrain assessment. Regional dispatch grid: Grundy County.

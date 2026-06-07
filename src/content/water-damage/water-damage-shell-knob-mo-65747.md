@@ -12,6 +12,7 @@ lng: -93.6000
 zipSample: ["65747"]
 zipCodes: ["65747"]
 localPaths: ["Barry County / ZIP 65747 sector", "Barry County / elevation 912 ft band", "Barry County / primary ZIP 65747", "Barry County / coords 36.6100, -93.6000"]
+zillowHomeValueUsd: 331670
 ---
 
 **Engineering Notice for Shell Knob:** structural drying capacity optimized for 912ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Barry County. Relative Humidity Threshold: 76%. Sensor sync: Active.

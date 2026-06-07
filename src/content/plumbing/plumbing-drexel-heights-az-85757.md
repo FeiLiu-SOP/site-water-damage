@@ -12,6 +12,7 @@ lng: -111.0500
 zipSample: ["85746", "85757"]
 zipCodes: ["85757", "85746"]
 localPaths: ["Pima County / elevation 2664 ft band", "Pima County / primary ZIP 85757", "Pima County / ZIP 85757 sector", "Pima County / ZIP 85746 sector", "Pima County / coords 32.1500, -111.0500"]
+zillowHomeValueUsd: 324477
 ---
 
 **Engineering Notice for Drexel Heights:** Structural loading calculated based on 2664 ft terrain assessment. Regional dispatch grid: Pima County.

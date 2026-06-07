@@ -12,6 +12,7 @@ lng: -99.2300
 zipSample: ["76856"]
 zipCodes: ["76856"]
 localPaths: ["Mason County / coords 30.7500, -99.2300", "Mason County / elevation 1542 ft band", "Mason County / primary ZIP 76856", "Mason County / ZIP 76856 sector"]
+zillowHomeValueUsd: 355633
 ---
 
 **Engineering Notice for Mason:** Envelope check: Weather Barrier Wrap assigned to wind-load band A with stress factor 0.77. Elevation: 1542 ft AMSL. Regional dispatch grid: Mason County.

@@ -11,6 +11,7 @@ lng: -77.9300
 zipSample: ["27896", "27895", "27893", "27894"]
 zipCodes: ["27895", "27893", "27896", "27894"]
 localPaths: ["Wilson County / ZIP 27896 sector", "Wilson County / primary ZIP 27896", "Wilson County / elevation 135 ft band", "Wilson County / ZIP 27894 sector", "Wilson County / ZIP 27895 sector"]
+zillowHomeValueUsd: 279887
 ---
 
 **Engineering Notice for Wilson:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Wilson County.

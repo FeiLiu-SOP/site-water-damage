@@ -12,6 +12,7 @@ lng: -91.1900
 zipSample: ["52653"]
 zipCodes: ["52653"]
 localPaths: ["Louisa County / coords 41.1800, -91.1900", "Louisa County / ZIP 52653 sector", "Louisa County / primary ZIP 52653", "Louisa County / elevation 584 ft band"]
+zillowHomeValueUsd: 161936
 ---
 
 **Engineering Notice for Wapello:** System optimized for 128 mg/L hard water scaling factors in Wapello. Regional dispatch grid: Louisa County.

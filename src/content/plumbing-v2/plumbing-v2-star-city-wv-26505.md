@@ -12,6 +12,7 @@ lng: -79.9900
 zipSample: ["26505"]
 zipCodes: ["26505"]
 localPaths: ["Monongalia County / coords 39.6600, -79.9900", "Monongalia County / elevation 932 ft band", "Monongalia County / ZIP 26505 sector", "Monongalia County / primary ZIP 26505"]
+zillowHomeValueUsd: 253600
 ---
 
 **Engineering Notice for Star City:** System optimized for 146 mg/L hard water scaling factors in Star City. Regional dispatch grid: Monongalia County.

@@ -12,6 +12,7 @@ lng: -86.2800
 zipSample: ["49454"]
 zipCodes: ["49454"]
 localPaths: ["Mason County / coords 43.9500, -86.2800", "Mason County / ZIP 49454 sector", "Mason County / elevation 682 ft band", "Mason County / primary ZIP 49454"]
+zillowHomeValueUsd: 213095
 ---
 
 **Engineering Notice for Scottville:** System optimized for 122 mg/L hard water scaling factors in Scottville. Regional dispatch grid: Mason County.

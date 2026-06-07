@@ -12,6 +12,8 @@ lng: -100.8200
 zipSample: ["57570"]
 zipCodes: ["57570"]
 localPaths: ["Todd County / elevation 2838 ft band", "Todd County / primary ZIP 57570", "Todd County / coords 43.2400, -100.8200", "Todd County / ZIP 57570 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 317295
 ---
 
 **Engineering Notice for Rosebud:** Envelope check: Exterior Cladding assigned to wind-load band B with stress factor 0.82. Elevation: 2838 ft AMSL. Regional dispatch grid: Todd County.

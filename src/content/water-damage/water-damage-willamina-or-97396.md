@@ -12,6 +12,7 @@ lng: -123.4800
 zipSample: ["97396"]
 zipCodes: ["97396"]
 localPaths: ["Yamhill County / primary ZIP 97396", "Yamhill County / coords 45.0800, -123.4800", "Yamhill County / elevation 233 ft band", "Yamhill County / ZIP 97396 sector"]
+zillowHomeValueUsd: 356962
 ---
 
 **Engineering Notice for Willamina:** structural drying capacity optimized for 233ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Yamhill County. Relative Humidity Threshold: 83%. Sensor sync: Active.

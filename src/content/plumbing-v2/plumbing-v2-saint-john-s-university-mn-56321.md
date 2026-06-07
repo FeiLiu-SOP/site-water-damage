@@ -12,6 +12,8 @@ lng: -94.3900
 zipSample: ["56321"]
 zipCodes: ["56321"]
 localPaths: ["Stearns County / primary ZIP 56321", "Stearns County / elevation 1227 ft band", "Stearns County / ZIP 56321 sector", "Stearns County / coords 45.5800, -94.3900"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 297379
 ---
 
 **Engineering Notice for Saint John's University:** System optimized for 143 mg/L hard water scaling factors in Saint John's University. Regional dispatch grid: Stearns County.

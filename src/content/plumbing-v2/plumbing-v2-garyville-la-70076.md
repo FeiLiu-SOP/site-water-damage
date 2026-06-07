@@ -12,6 +12,8 @@ lng: -90.6300
 zipSample: ["70084", "70051", "70076"]
 zipCodes: ["70051", "70084", "70076"]
 localPaths: ["St. John the Baptist Parish / ZIP 70051 sector", "St. John the Baptist Parish / ZIP 70084 sector", "St. John the Baptist Parish / ZIP 70076 sector", "St. John the Baptist Parish / primary ZIP 70076", "St. John the Baptist Parish / coords 30.0700, -90.6300"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 192675
 ---
 
 **Engineering Notice for Garyville:** System optimized for 140 mg/L hard water scaling factors in Garyville. Regional dispatch grid: St. John the Baptist Parish.

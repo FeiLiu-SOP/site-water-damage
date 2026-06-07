@@ -12,6 +12,7 @@ lng: -121.5400
 zipSample: ["95045"]
 zipCodes: ["95045"]
 localPaths: ["San Benito County / ZIP 95045 sector", "San Benito County / primary ZIP 95045", "San Benito County / coords 36.8400, -121.5400", "San Benito County / elevation 207 ft band"]
+zillowHomeValueUsd: 918092
 ---
 
 **Engineering Notice for San Juan Bautista:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 0.78. Regional dispatch grid: San Benito County.

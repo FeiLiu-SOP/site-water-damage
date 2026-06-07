@@ -12,6 +12,7 @@ lng: -96.9700
 zipSample: ["75017", "75039", "75059", "75061", "75014"]
 zipCodes: ["75062", "75059", "75368", "75015", "75014", "75063", "75038", "75060", "75326", "75039", "75017", "75061"]
 localPaths: ["Dallas County / elevation 577 ft band", "Dallas County / primary ZIP 75063", "Dallas County / ZIP 75059 sector", "Dallas County / ZIP 75039 sector", "Dallas County / coords 32.8600, -96.9700"]
+zillowHomeValueUsd: 610921
 ---
 
 **Engineering Notice for Irving:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Dallas County.

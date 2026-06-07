@@ -12,6 +12,7 @@ lng: -76.0800
 zipSample: ["17517"]
 zipCodes: ["17517"]
 localPaths: ["Lancaster County / elevation 528 ft band", "Lancaster County / ZIP 17517 sector", "Lancaster County / primary ZIP 17517", "Lancaster County / coords 40.2300, -76.0800"]
+zillowHomeValueUsd: 386370
 ---
 
 **Engineering Notice for Swartzville:** structural drying capacity optimized for 528ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lancaster County. Relative Humidity Threshold: 69%. Sensor sync: Active.

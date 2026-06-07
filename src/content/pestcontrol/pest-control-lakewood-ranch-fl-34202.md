@@ -11,6 +11,7 @@ lng: -82.3900
 zipSample: ["34211", "34240", "34212", "34202"]
 zipCodes: ["34240", "34211", "34202", "34212"]
 localPaths: ["Manatee County / coords 27.4200, -82.3900", "Manatee County / ZIP 34212 sector", "Manatee County / ZIP 34211 sector", "Manatee County / primary ZIP 34202", "Manatee County / elevation 43 ft band"]
+zillowHomeValueUsd: 666458
 ---
 
 **Engineering Notice for Lakewood Ranch:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Manatee County.

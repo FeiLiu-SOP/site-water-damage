@@ -12,6 +12,7 @@ lng: -92.9500
 zipSample: ["64658"]
 zipCodes: ["64658"]
 localPaths: ["Linn County / coords 39.7200, -92.9500", "Linn County / ZIP 64658 sector", "Linn County / primary ZIP 64658", "Linn County / elevation 869 ft band"]
+zillowHomeValueUsd: 134447
 ---
 
 **Engineering Notice for Marceline:** Site context locked to Linn County. Panel Replacement integrity verification recorded.

@@ -11,6 +11,7 @@ lng: -80.4500
 zipSample: ["33196", "33186"]
 zipCodes: ["33186", "33196"]
 localPaths: ["Miami-Dade County / primary ZIP 33196", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / coords 25.6700, -80.4500", "Miami-Dade County / ZIP 33196 sector", "Miami-Dade County / ZIP 33186 sector"]
+zillowHomeValueUsd: 567268
 ---
 
 **Engineering Notice for The Hammocks:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

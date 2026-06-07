@@ -12,6 +12,7 @@ lng: -119.1500
 zipSample: ["93258", "93257"]
 zipCodes: ["93258", "93257"]
 localPaths: ["Tulare County / ZIP 93258 sector", "Tulare County / ZIP 93257 sector", "Tulare County / elevation 364 ft band", "Tulare County / coords 36.0600, -119.1500", "Tulare County / primary ZIP 93257"]
+zillowHomeValueUsd: 326651
 ---
 
 **Engineering Notice for Poplar-Cotton Center:** Weather Barrier Wrap was validated under stress factor 0.89; target tolerance set near 135 mph. Coordinates: 36.0600, -119.1500. Grid anchor: Tulare County.

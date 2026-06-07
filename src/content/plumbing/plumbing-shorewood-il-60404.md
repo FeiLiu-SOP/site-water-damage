@@ -12,6 +12,7 @@ lng: -88.2100
 zipSample: ["60404"]
 zipCodes: ["60404"]
 localPaths: ["Will County / elevation 623 ft band", "Will County / primary ZIP 60404", "Will County / ZIP 60404 sector", "Will County / coords 41.5200, -88.2100"]
+zillowHomeValueUsd: 404164
 ---
 
 **Engineering Notice for Shorewood:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Will County.

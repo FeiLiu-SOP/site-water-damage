@@ -11,6 +11,7 @@ lng: -80.2600
 zipSample: ["33065", "33071", "33077", "33076", "33075"]
 zipCodes: ["33076", "33077", "33067", "33075", "33065", "33071"]
 localPaths: ["Broward County / primary ZIP 33071", "Broward County / ZIP 33076 sector", "Broward County / ZIP 33071 sector", "Broward County / ZIP 33065 sector", "Broward County / ZIP 33075 sector"]
+zillowHomeValueUsd: 583593
 ---
 
 **Engineering Notice for Coral Springs:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Broward County.

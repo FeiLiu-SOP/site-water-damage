@@ -12,6 +12,7 @@ lng: -85.0600
 zipSample: ["49659"]
 zipCodes: ["49659"]
 localPaths: ["Antrim County / elevation 1115 ft band", "Antrim County / primary ZIP 49659", "Antrim County / ZIP 49659 sector", "Antrim County / coords 44.9000, -85.0600"]
+zillowHomeValueUsd: 201297
 ---
 
 **Engineering Notice for Mancelona:** Wall Restoration was validated under stress factor 0.93; target tolerance set near 91 mph. Grid anchor: Antrim County.

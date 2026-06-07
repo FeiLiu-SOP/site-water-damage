@@ -12,6 +12,8 @@ lng: -66.5600
 zipSample: ["00638"]
 zipCodes: ["00638"]
 localPaths: ["Ciales County / ZIP 00638 sector", "Ciales County / primary ZIP 00638", "Ciales County / coords 18.3100, -66.5600", "Ciales County / elevation 1165 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 378494
 ---
 
 **Engineering Notice for Frontón:** Cladding Service was validated under stress factor 0.77; target tolerance set near 109 mph. Coordinates: 18.3100, -66.5600. Grid anchor: Ciales County.

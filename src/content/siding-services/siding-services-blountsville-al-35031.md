@@ -12,6 +12,7 @@ lng: -86.5900
 zipSample: ["35031"]
 zipCodes: ["35031"]
 localPaths: ["Blount County / ZIP 35031 sector", "Blount County / elevation 768 ft band", "Blount County / primary ZIP 35031", "Blount County / coords 34.0800, -86.5900"]
+zillowHomeValueUsd: 201142
 ---
 
 **Engineering Notice for Blountsville:** Site context locked to Blount County. Coordinates: 34.0800, -86.5900. Weather Barrier Wrap integrity verification recorded.

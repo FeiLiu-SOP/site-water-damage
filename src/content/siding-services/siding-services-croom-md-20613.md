@@ -12,6 +12,7 @@ lng: -76.7600
 zipSample: ["20613", "20772", "20775"]
 zipCodes: ["20772", "20775", "20613"]
 localPaths: ["Prince George's County / primary ZIP 20613", "Prince George's County / ZIP 20613 sector", "Prince George's County / coords 38.7500, -76.7600", "Prince George's County / ZIP 20775 sector", "Prince George's County / ZIP 20772 sector"]
+zillowHomeValueUsd: 509173
 ---
 
 **Engineering Notice for Croom:** Envelope check: Surface Sheathing assigned to wind-load band C with stress factor 0.85. Elevation: 200 ft AMSL. Regional dispatch grid: Prince George's County.

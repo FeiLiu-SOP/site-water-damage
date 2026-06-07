@@ -12,6 +12,7 @@ lng: -81.5100
 zipSample: ["26150"]
 zipCodes: ["26150"]
 localPaths: ["Wood County / ZIP 26150 sector", "Wood County / elevation 640 ft band", "Wood County / primary ZIP 26150", "Wood County / coords 39.1800, -81.5100"]
+zillowHomeValueUsd: 217460
 ---
 
 **Engineering Notice for Mineralwells:** System optimized for 132 mg/L hard water scaling factors in Mineralwells. Regional dispatch grid: Wood County.

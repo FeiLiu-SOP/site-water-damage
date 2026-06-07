@@ -12,6 +12,7 @@ lng: -96.1300
 zipSample: ["68059"]
 zipCodes: ["68059"]
 localPaths: ["Sarpy County / elevation 1093 ft band", "Sarpy County / ZIP 68059 sector", "Sarpy County / primary ZIP 68059", "Sarpy County / coords 41.0900, -96.1300"]
+zillowHomeValueUsd: 452389
 ---
 
 **Engineering Notice for Springfield:** Envelope check: Cladding Retrofit assigned to wind-load band B with stress factor 0.74. Regional dispatch grid: Sarpy County.

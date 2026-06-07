@@ -12,6 +12,7 @@ lng: -90.0800
 zipSample: ["63933"]
 zipCodes: ["63933"]
 localPaths: ["Dunklin County / coords 36.4900, -90.0800", "Dunklin County / primary ZIP 63933", "Dunklin County / ZIP 63933 sector", "Dunklin County / elevation 318 ft band"]
+zillowHomeValueUsd: 93982
 ---
 
 **Engineering Notice for Campbell:** System optimized for 137 mg/L hard water scaling factors in Campbell. Regional dispatch grid: Dunklin County.

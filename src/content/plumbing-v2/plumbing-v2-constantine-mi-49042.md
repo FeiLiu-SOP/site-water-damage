@@ -12,6 +12,7 @@ lng: -85.6700
 zipSample: ["49042"]
 zipCodes: ["49042"]
 localPaths: ["St. Joseph County / coords 41.8400, -85.6700", "St. Joseph County / elevation 807 ft band", "St. Joseph County / primary ZIP 49042", "St. Joseph County / ZIP 49042 sector"]
+zillowHomeValueUsd: 207768
 ---
 
 **Engineering Notice for Constantine:** System optimized for 157 mg/L hard water scaling factors in Constantine. Regional dispatch grid: St. Joseph County.

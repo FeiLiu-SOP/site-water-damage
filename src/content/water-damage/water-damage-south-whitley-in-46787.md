@@ -12,6 +12,7 @@ lng: -85.6300
 zipSample: ["46787"]
 zipCodes: ["46787"]
 localPaths: ["Whitley County / coords 41.0800, -85.6300", "Whitley County / primary ZIP 46787", "Whitley County / ZIP 46787 sector", "Whitley County / elevation 810 ft band"]
+zillowHomeValueUsd: 238379
 ---
 
 **Engineering Notice for South Whitley:** structural drying capacity optimized for 810ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Whitley County. Relative Humidity Threshold: 65%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -82.2300
 zipSample: ["29681"]
 zipCodes: ["29681"]
 localPaths: ["Greenville County / ZIP 29681 sector", "Greenville County / coords 34.8100, -82.2300", "Greenville County / elevation 876 ft band", "Greenville County / primary ZIP 29681"]
+zillowHomeValueUsd: 402419
 ---
 
 **Engineering Notice for Five Forks:** Structural loading calculated based on 876 ft terrain assessment. Regional dispatch grid: Greenville County.

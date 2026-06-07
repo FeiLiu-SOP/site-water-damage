@@ -12,6 +12,7 @@ lng: -98.4200
 zipSample: ["78606"]
 zipCodes: ["78606"]
 localPaths: ["Blanco County / ZIP 78606 sector", "Blanco County / coords 30.1000, -98.4200", "Blanco County / elevation 1319 ft band", "Blanco County / primary ZIP 78606"]
+zillowHomeValueUsd: 540088
 ---
 
 **Engineering Notice for Blanco:** structural drying capacity optimized for 1319ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Blanco County. Relative Humidity Threshold: 83%. Sensor sync: Active.

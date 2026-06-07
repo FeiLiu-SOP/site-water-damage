@@ -11,6 +11,7 @@ lng: -81.8000
 zipSample: ["34135", "33928", "33929", "33967"]
 zipCodes: ["33929", "34135", "33967", "33928"]
 localPaths: ["Lee County / ZIP 33967 sector", "Lee County / coords 26.4300, -81.8000", "Lee County / ZIP 33929 sector", "Lee County / ZIP 34135 sector", "Lee County / primary ZIP 33967"]
+zillowHomeValueUsd: 359375
 ---
 
 **Engineering Notice for Estero:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Lee County.

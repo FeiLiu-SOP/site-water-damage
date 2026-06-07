@@ -11,6 +11,7 @@ lng: -73.8000
 zipSample: ["11364", "11692", "11435", "11417", "11109"]
 zipCodes: ["11431", "11106", "11694", "11428", "11418", "11001", "11451", "11355", "11692", "11421", "11413", "11697"]
 localPaths: ["Queens County / ZIP 11692 sector", "Queens County / ZIP 11417 sector", "Queens County / primary ZIP 11385", "Queens County / coords 40.7500, -73.8000", "Queens County / ZIP 11364 sector"]
+zillowHomeValueUsd: 870560
 ---
 
 **Engineering Notice for Queens:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Queens County.

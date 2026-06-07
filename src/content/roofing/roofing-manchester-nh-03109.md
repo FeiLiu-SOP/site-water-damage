@@ -11,6 +11,7 @@ lng: -71.4400
 zipSample: ["03111", "03102", "03103", "03105", "03104"]
 zipCodes: ["03102", "03109", "03108", "03105", "03104", "03103", "03101", "03111"]
 localPaths: ["Hillsborough County / ZIP 03104 sector", "Hillsborough County / primary ZIP 03109", "Hillsborough County / coords 42.9800, -71.4400", "Hillsborough County / ZIP 03105 sector", "Hillsborough County / ZIP 03111 sector"]
+zillowHomeValueUsd: 461153
 ---
 
 **Engineering Notice for Manchester:** Structural loading calculated based on 266 ft terrain assessment. Regional dispatch grid: Hillsborough County.

@@ -12,6 +12,7 @@ lng: -81.2100
 zipSample: ["25801", "25873"]
 zipCodes: ["25873", "25801"]
 localPaths: ["Raleigh County / ZIP 25801 sector", "Raleigh County / primary ZIP 25801", "Raleigh County / elevation 2484 ft band", "Raleigh County / ZIP 25873 sector", "Raleigh County / coords 37.7600, -81.2100"]
+zillowHomeValueUsd: 144045
 ---
 
 **Engineering Notice for MacArthur:** Vinyl Panels was validated under stress factor 1.09; target tolerance set near 103 mph. Coordinates: 37.7600, -81.2100. Grid anchor: Raleigh County.

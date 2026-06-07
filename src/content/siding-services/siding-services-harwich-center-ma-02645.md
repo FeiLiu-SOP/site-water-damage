@@ -12,6 +12,7 @@ lng: -70.0700
 zipSample: ["02645"]
 zipCodes: ["02645"]
 localPaths: ["Barnstable County / primary ZIP 02645", "Barnstable County / coords 41.6900, -70.0700", "Barnstable County / elevation 49 ft band", "Barnstable County / ZIP 02645 sector"]
+zillowHomeValueUsd: 751586
 ---
 
 **Engineering Notice for Harwich Center:** Structural integrity verification: Surface Sheathing calibrated for 91 mph localized wind load factor. Regional dispatch grid: Barnstable County.

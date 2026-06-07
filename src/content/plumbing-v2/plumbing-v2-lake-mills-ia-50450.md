@@ -12,6 +12,7 @@ lng: -93.5300
 zipSample: ["50450"]
 zipCodes: ["50450"]
 localPaths: ["Winnebago County / primary ZIP 50450", "Winnebago County / ZIP 50450 sector", "Winnebago County / coords 43.4200, -93.5300", "Winnebago County / elevation 1286 ft band"]
+zillowHomeValueUsd: 165475
 ---
 
 **Engineering Notice for Lake Mills:** System optimized for 123 mg/L hard water scaling factors in Lake Mills. Regional dispatch grid: Winnebago County.

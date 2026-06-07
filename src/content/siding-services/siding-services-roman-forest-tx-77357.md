@@ -12,6 +12,7 @@ lng: -95.1600
 zipSample: ["77357"]
 zipCodes: ["77357"]
 localPaths: ["Montgomery County / ZIP 77357 sector", "Montgomery County / primary ZIP 77357", "Montgomery County / coords 30.1800, -95.1600", "Montgomery County / elevation 151 ft band"]
+zillowHomeValueUsd: 263581
 ---
 
 **Engineering Notice for Roman Forest:** Site context locked to Montgomery County. Elevation: 151 ft AMSL. Coordinates: 30.1800, -95.1600. Vinyl Panels integrity verification recorded.

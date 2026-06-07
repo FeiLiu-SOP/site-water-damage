@@ -12,6 +12,7 @@ lng: -88.9800
 zipSample: ["53523"]
 zipCodes: ["53523"]
 localPaths: ["Jefferson County / primary ZIP 53523", "Jefferson County / coords 43.0000, -88.9800", "Jefferson County / elevation 899 ft band", "Jefferson County / ZIP 53523 sector"]
+zillowHomeValueUsd: 420757
 ---
 
 **Engineering Notice for Lake Ripley:** Cladding verification uses 105 mph routing baseline; lateral pressure note: 13.8 psf. Elevation: 899 ft AMSL. Coordinates: 43.0000, -88.9800. Grid: Jefferson County.

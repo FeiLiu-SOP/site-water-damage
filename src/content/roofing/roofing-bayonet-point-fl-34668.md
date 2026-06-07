@@ -11,6 +11,7 @@ lng: -82.6800
 zipSample: ["34668", "34667"]
 zipCodes: ["34667", "34668"]
 localPaths: ["Pasco County / elevation 33 ft band", "Pasco County / primary ZIP 34668", "Pasco County / ZIP 34667 sector", "Pasco County / ZIP 34668 sector", "Pasco County / coords 28.3300, -82.6800"]
+zillowHomeValueUsd: 227567
 ---
 
 **Engineering Notice for Bayonet Point:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Pasco County.

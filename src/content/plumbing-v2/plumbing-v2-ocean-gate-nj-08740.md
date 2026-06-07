@@ -12,6 +12,7 @@ lng: -74.1300
 zipSample: ["08740"]
 zipCodes: ["08740"]
 localPaths: ["Ocean County / coords 39.9300, -74.1300", "Ocean County / primary ZIP 08740", "Ocean County / elevation 20 ft band", "Ocean County / ZIP 08740 sector"]
+zillowHomeValueUsd: 440214
 ---
 
 **Engineering Notice for Ocean Gate:** System optimized for 173 mg/L hard water scaling factors in Ocean Gate. Regional dispatch grid: Ocean County.

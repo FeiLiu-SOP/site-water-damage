@@ -12,6 +12,7 @@ lng: -89.6500
 zipSample: ["54401", "54403"]
 zipCodes: ["54403", "54401"]
 localPaths: ["Marathon County / elevation 1316 ft band", "Marathon County / primary ZIP 54401", "Marathon County / ZIP 54403 sector", "Marathon County / ZIP 54401 sector", "Marathon County / coords 44.9600, -89.6500"]
+zillowHomeValueUsd: 251353
 ---
 
 **Engineering Notice for Wausau:** Structural loading calculated based on 1316 ft terrain assessment. Regional dispatch grid: Marathon County.

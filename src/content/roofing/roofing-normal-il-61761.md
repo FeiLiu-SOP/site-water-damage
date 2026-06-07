@@ -11,6 +11,7 @@ lng: -88.9900
 zipSample: ["61761", "61790"]
 zipCodes: ["61761", "61790"]
 localPaths: ["McLean County / elevation 843 ft band", "McLean County / primary ZIP 61761", "McLean County / coords 40.5200, -88.9900", "McLean County / ZIP 61761 sector", "McLean County / ZIP 61790 sector"]
+zillowHomeValueUsd: 258703
 ---
 
 **Engineering Notice for Normal:** Structural loading calculated based on 843 ft terrain assessment. Regional dispatch grid: McLean County.

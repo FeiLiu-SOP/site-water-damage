@@ -11,6 +11,7 @@ lng: -111.9400
 zipSample: ["84065"]
 zipCodes: ["84065"]
 localPaths: ["Salt Lake County / ZIP 84065 sector", "Salt Lake County / elevation 4521 ft band", "Salt Lake County / primary ZIP 84065", "Salt Lake County / coords 40.4700, -111.9400"]
+zillowHomeValueUsd: 643168
 ---
 
 **Engineering Notice for Bluffdale:** Structural loading calculated based on 4521 ft terrain assessment. Regional dispatch grid: Salt Lake County.

@@ -11,6 +11,7 @@ lng: -77.0100
 zipSample: ["20749", "20744"]
 zipCodes: ["20749", "20744"]
 localPaths: ["Prince George's County / primary ZIP 20744", "Prince George's County / elevation 72 ft band", "Prince George's County / coords 38.7300, -77.0100", "Prince George's County / ZIP 20744 sector", "Prince George's County / ZIP 20749 sector"]
+zillowHomeValueUsd: 449001
 ---
 
 **Engineering Notice for Fort Washington:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Prince George's County.

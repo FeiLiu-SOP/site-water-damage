@@ -12,6 +12,7 @@ lng: -73.4700
 zipSample: ["11803"]
 zipCodes: ["11803"]
 localPaths: ["Nassau County / primary ZIP 11803", "Nassau County / coords 40.7800, -73.4700", "Nassau County / elevation 171 ft band", "Nassau County / ZIP 11803 sector"]
+zillowHomeValueUsd: 963076
 ---
 
 **Engineering Notice for Plainview:** Structural loading calculated based on 171 ft terrain assessment. Regional dispatch grid: Nassau County.

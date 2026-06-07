@@ -11,6 +11,7 @@ lng: -121.2500
 zipSample: ["95628"]
 zipCodes: ["95628"]
 localPaths: ["Sacramento County / coords 38.6500, -121.2500", "Sacramento County / primary ZIP 95628", "Sacramento County / elevation 210 ft band", "Sacramento County / ZIP 95628 sector"]
+zillowHomeValueUsd: 619495
 ---
 
 **Engineering Notice for Fair Oaks:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Sacramento County.

@@ -12,6 +12,7 @@ lng: -81.0500
 zipSample: ["26362"]
 zipCodes: ["26362"]
 localPaths: ["Ritchie County / primary ZIP 26362", "Ritchie County / ZIP 26362 sector", "Ritchie County / elevation 830 ft band", "Ritchie County / coords 39.2100, -81.0500"]
+zillowHomeValueUsd: 127896
 ---
 
 **Engineering Notice for Harrisville:** System optimized for 130 mg/L hard water scaling factors in Harrisville. Regional dispatch grid: Ritchie County.

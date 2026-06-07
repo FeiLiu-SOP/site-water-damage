@@ -12,6 +12,7 @@ lng: -77.3800
 zipSample: ["27836", "27833", "27858", "28590", "27835"]
 zipCodes: ["27834", "27836", "27858", "27835", "28590", "27833"]
 localPaths: ["Pitt County / coords 35.5900, -77.3800", "Pitt County / ZIP 28590 sector", "Pitt County / primary ZIP 27834", "Pitt County / elevation 59 ft band", "Pitt County / ZIP 27858 sector"]
+zillowHomeValueUsd: 211183
 ---
 
 **Engineering Notice for Greenville:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Pitt County.

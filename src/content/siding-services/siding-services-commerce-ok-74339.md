@@ -12,6 +12,7 @@ lng: -94.8600
 zipSample: ["74339", "74354"]
 zipCodes: ["74339", "74354"]
 localPaths: ["Ottawa County / ZIP 74339 sector", "Ottawa County / primary ZIP 74339", "Ottawa County / elevation 797 ft band", "Ottawa County / ZIP 74354 sector", "Ottawa County / coords 36.9300, -94.8600"]
+zillowHomeValueUsd: 68988
 ---
 
 **Engineering Notice for Commerce:** Structural integrity verification: Wall Restoration calibrated for 99 mph localized wind load factor. Regional dispatch grid: Ottawa County.

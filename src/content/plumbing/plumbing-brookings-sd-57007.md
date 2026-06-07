@@ -12,6 +12,7 @@ lng: -96.7900
 zipSample: ["57006", "57007"]
 zipCodes: ["57006", "57007"]
 localPaths: ["Brookings County / ZIP 57007 sector", "Brookings County / coords 44.3000, -96.7900", "Brookings County / elevation 1657 ft band", "Brookings County / primary ZIP 57007", "Brookings County / ZIP 57006 sector"]
+zillowHomeValueUsd: 312219
 ---
 
 **Engineering Notice for Brookings:** Structural loading calculated based on 1657 ft terrain assessment. Regional dispatch grid: Brookings County.

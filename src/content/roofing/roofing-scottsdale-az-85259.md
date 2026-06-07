@@ -11,6 +11,7 @@ lng: -111.8700
 zipSample: ["85266", "85257", "85255", "85252", "85250"]
 zipCodes: ["85258", "85252", "85260", "85262", "85259", "85254", "85255", "85257", "85250", "85266", "85271", "85251"]
 localPaths: ["Maricopa County / ZIP 85257 sector", "Maricopa County / coords 33.6900, -111.8700", "Maricopa County / elevation 2156 ft band", "Maricopa County / ZIP 85266 sector", "Maricopa County / primary ZIP 85259"]
+zillowHomeValueUsd: 1143709
 ---
 
 **Engineering Notice for Scottsdale:** Structural loading calculated based on 2156 ft terrain assessment. Regional dispatch grid: Maricopa County.

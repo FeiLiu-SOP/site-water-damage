@@ -12,6 +12,7 @@ lng: -75.6000
 zipSample: ["18088"]
 zipCodes: ["18088"]
 localPaths: ["Northampton County / ZIP 18088 sector", "Northampton County / elevation 404 ft band", "Northampton County / coords 40.7500, -75.6000", "Northampton County / primary ZIP 18088"]
+zillowHomeValueUsd: 347860
 ---
 
 **Engineering Notice for Walnutport:** Cladding verification uses 106 mph routing baseline; lateral pressure note: 13.9 psf. Elevation: 404 ft AMSL. Coordinates: 40.7500, -75.6000. Grid: Northampton County.

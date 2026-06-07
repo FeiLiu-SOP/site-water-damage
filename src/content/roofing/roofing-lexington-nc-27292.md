@@ -11,6 +11,7 @@ lng: -80.2700
 zipSample: ["27292", "27295", "27294"]
 zipCodes: ["27292", "27295", "27294"]
 localPaths: ["Davidson County / elevation 735 ft band", "Davidson County / ZIP 27294 sector", "Davidson County / coords 35.8000, -80.2700", "Davidson County / primary ZIP 27292", "Davidson County / ZIP 27295 sector"]
+zillowHomeValueUsd: 251169
 ---
 
 **Engineering Notice for Lexington:** Structural loading calculated based on 735 ft terrain assessment. Regional dispatch grid: Davidson County.

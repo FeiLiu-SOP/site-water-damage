@@ -12,6 +12,7 @@ lng: -76.2900
 zipSample: ["13027", "13209"]
 zipCodes: ["13209", "13027"]
 localPaths: ["Onondaga County / elevation 413 ft band", "Onondaga County / coords 43.1200, -76.2900", "Onondaga County / primary ZIP 13027", "Onondaga County / ZIP 13027 sector", "Onondaga County / ZIP 13209 sector"]
+zillowHomeValueUsd: 324339
 ---
 
 **Engineering Notice for Seneca Knolls:** Site context locked to Onondaga County. Elevation: 413 ft AMSL. Coordinates: 43.1200, -76.2900. Surface Sheathing integrity verification recorded.

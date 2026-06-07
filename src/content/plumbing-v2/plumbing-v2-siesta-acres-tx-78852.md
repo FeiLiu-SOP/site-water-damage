@@ -12,6 +12,7 @@ lng: -100.4900
 zipSample: ["78852"]
 zipCodes: ["78852"]
 localPaths: ["Maverick County / elevation 758 ft band", "Maverick County / coords 28.7600, -100.4900", "Maverick County / primary ZIP 78852", "Maverick County / ZIP 78852 sector"]
+zillowHomeValueUsd: 230821
 ---
 
 **Engineering Notice for Siesta Acres:** System optimized for 137 mg/L hard water scaling factors in Siesta Acres. Regional dispatch grid: Maverick County.

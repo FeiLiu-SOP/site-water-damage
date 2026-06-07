@@ -12,6 +12,7 @@ lng: -75.7900
 zipSample: ["18702"]
 zipCodes: ["18702"]
 localPaths: ["Luzerne County / ZIP 18702 sector", "Luzerne County / primary ZIP 18702", "Luzerne County / elevation 991 ft band", "Luzerne County / coords 41.2900, -75.7900"]
+zillowHomeValueUsd: 168334
 ---
 
 **Engineering Notice for Laflin:** structural drying capacity optimized for 991ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Luzerne County. Relative Humidity Threshold: 72%. Sensor sync: Active.

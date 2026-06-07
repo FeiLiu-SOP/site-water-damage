@@ -12,6 +12,7 @@ lng: -82.1400
 zipSample: ["33922"]
 zipCodes: ["33922"]
 localPaths: ["Lee County / coords 26.6800, -82.1400", "Lee County / ZIP 33922 sector", "Lee County / primary ZIP 33922", "Lee County / elevation 39 ft band"]
+zillowHomeValueUsd: 359540
 ---
 
 **Engineering Notice for Bokeelia:** Envelope check: Wall Restoration assigned to wind-load band C with stress factor 0.82. Regional dispatch grid: Lee County.

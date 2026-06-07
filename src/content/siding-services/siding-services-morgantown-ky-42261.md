@@ -12,6 +12,7 @@ lng: -86.7000
 zipSample: ["42261"]
 zipCodes: ["42261"]
 localPaths: ["Butler County / ZIP 42261 sector", "Butler County / elevation 446 ft band", "Butler County / coords 37.2200, -86.7000", "Butler County / primary ZIP 42261"]
+zillowHomeValueUsd: 188338
 ---
 
 **Engineering Notice for Morgantown:** Structural integrity verification: Panel Replacement calibrated for 99 mph localized wind load factor. Elevation: 446 ft AMSL. Regional dispatch grid: Butler County.

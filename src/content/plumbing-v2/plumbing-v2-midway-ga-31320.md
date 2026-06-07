@@ -12,6 +12,7 @@ lng: -81.4200
 zipSample: ["31320"]
 zipCodes: ["31320"]
 localPaths: ["Liberty County / ZIP 31320 sector", "Liberty County / coords 31.8000, -81.4200", "Liberty County / elevation 26 ft band", "Liberty County / primary ZIP 31320"]
+zillowHomeValueUsd: 288659
 ---
 
 **Engineering Notice for Midway:** System optimized for 171 mg/L hard water scaling factors in Midway. Regional dispatch grid: Liberty County.

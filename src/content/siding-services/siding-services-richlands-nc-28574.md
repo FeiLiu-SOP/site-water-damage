@@ -12,6 +12,7 @@ lng: -77.5400
 zipSample: ["28574"]
 zipCodes: ["28574"]
 localPaths: ["Onslow County / coords 34.9000, -77.5400", "Onslow County / elevation 36 ft band", "Onslow County / primary ZIP 28574", "Onslow County / ZIP 28574 sector"]
+zillowHomeValueUsd: 274499
 ---
 
 **Engineering Notice for Richlands:** Surface Sheathing was validated under stress factor 0.86; target tolerance set near 94 mph. Grid anchor: Onslow County.

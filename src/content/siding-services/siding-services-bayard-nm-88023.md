@@ -12,6 +12,7 @@ lng: -108.1300
 zipSample: ["88023"]
 zipCodes: ["88023"]
 localPaths: ["Grant County / elevation 5810 ft band", "Grant County / primary ZIP 88023", "Grant County / ZIP 88023 sector", "Grant County / coords 32.7600, -108.1300"]
+zillowHomeValueUsd: 108530
 ---
 
 **Engineering Notice for Bayard:** Exterior Cladding was validated under stress factor 0.81; target tolerance set near 100 mph. Grid anchor: Grant County.

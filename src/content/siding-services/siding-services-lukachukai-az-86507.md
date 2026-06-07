@@ -12,6 +12,8 @@ lng: -109.2300
 zipSample: ["86507"]
 zipCodes: ["86507"]
 localPaths: ["Apache County / ZIP 86507 sector", "Apache County / elevation 6568 ft band", "Apache County / primary ZIP 86507", "Apache County / coords 36.4100, -109.2300"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 420941
 ---
 
 **Engineering Notice for Lukachukai:** Structural integrity verification: Surface Sheathing calibrated for 102 mph localized wind load factor. Elevation: 6568 ft AMSL. Coordinates: 36.4100, -109.2300. Regional dispatch grid: Apache County.

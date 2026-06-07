@@ -12,6 +12,7 @@ lng: -88.2900
 zipSample: ["36925"]
 zipCodes: ["36925"]
 localPaths: ["Sumter County / elevation 233 ft band", "Sumter County / primary ZIP 36925", "Sumter County / coords 32.5000, -88.2900", "Sumter County / ZIP 36925 sector"]
+zillowHomeValueUsd: 55905
 ---
 
 **Engineering Notice for York:** Cladding verification uses 107 mph routing baseline; lateral pressure note: 14.0 psf. Coordinates: 32.5000, -88.2900. Grid: Sumter County.

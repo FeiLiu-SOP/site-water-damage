@@ -12,6 +12,7 @@ lng: -118.9600
 zipSample: ["97845"]
 zipCodes: ["97845"]
 localPaths: ["Grant County / ZIP 97845 sector", "Grant County / primary ZIP 97845", "Grant County / elevation 3081 ft band", "Grant County / coords 44.4200, -118.9600"]
+zillowHomeValueUsd: 284831
 ---
 
 **Engineering Notice for John Day:** structural drying capacity optimized for 3081ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Grant County. Relative Humidity Threshold: 69%. Sensor sync: Active.

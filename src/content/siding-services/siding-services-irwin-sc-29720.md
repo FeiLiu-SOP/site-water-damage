@@ -12,6 +12,7 @@ lng: -80.8200
 zipSample: ["29720"]
 zipCodes: ["29720"]
 localPaths: ["Lancaster County / ZIP 29720 sector", "Lancaster County / coords 34.6900, -80.8200", "Lancaster County / primary ZIP 29720", "Lancaster County / elevation 509 ft band"]
+zillowHomeValueUsd: 291609
 ---
 
 **Engineering Notice for Irwin:** Structural integrity verification: Exterior Cladding calibrated for 93 mph localized wind load factor. Elevation: 509 ft AMSL. Regional dispatch grid: Lancaster County.

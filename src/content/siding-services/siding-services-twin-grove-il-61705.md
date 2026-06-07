@@ -12,6 +12,7 @@ lng: -89.1000
 zipSample: ["61705"]
 zipCodes: ["61705"]
 localPaths: ["McLean County / ZIP 61705 sector", "McLean County / coords 40.4900, -89.1000", "McLean County / elevation 784 ft band", "McLean County / primary ZIP 61705"]
+zillowHomeValueUsd: 378425
 ---
 
 **Engineering Notice for Twin Grove:** Cladding verification uses 107 mph routing baseline; lateral pressure note: 14.0 psf. Elevation: 784 ft AMSL. Grid: McLean County.

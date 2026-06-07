@@ -12,6 +12,7 @@ lng: -96.9200
 zipSample: ["57071"]
 zipCodes: ["57071"]
 localPaths: ["Brookings County / ZIP 57071 sector", "Brookings County / primary ZIP 57071", "Brookings County / coords 44.3200, -96.9200", "Brookings County / elevation 1627 ft band"]
+zillowHomeValueUsd: 331013
 ---
 
 **Engineering Notice for Volga:** Structural integrity verification: Vinyl Panels calibrated for 108 mph localized wind load factor. Elevation: 1627 ft AMSL. Coordinates: 44.3200, -96.9200. Regional dispatch grid: Brookings County.

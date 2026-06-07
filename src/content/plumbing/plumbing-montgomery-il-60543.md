@@ -12,6 +12,7 @@ lng: -88.3600
 zipSample: ["60538", "60506", "60543"]
 zipCodes: ["60543", "60506", "60538"]
 localPaths: ["Kane County / coords 41.7200, -88.3600", "Kane County / ZIP 60543 sector", "Kane County / elevation 663 ft band", "Kane County / primary ZIP 60543", "Kane County / ZIP 60538 sector"]
+zillowHomeValueUsd: 416659
 ---
 
 **Engineering Notice for Montgomery:** Structural loading calculated based on 663 ft terrain assessment. Regional dispatch grid: Kane County.

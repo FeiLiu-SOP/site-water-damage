@@ -12,6 +12,7 @@ lng: -80.0600
 zipSample: ["24153", "24157", "24155"]
 zipCodes: ["24153", "24155", "24157"]
 localPaths: ["Salem County / coords 37.2900, -80.0600", "Salem County / ZIP 24155 sector", "Salem County / elevation 1017 ft band", "Salem County / primary ZIP 24153", "Salem County / ZIP 24157 sector"]
+zillowHomeValueUsd: 305152
 ---
 
 **Engineering Notice for Salem:** Structural loading calculated based on 1017 ft terrain assessment. Regional dispatch grid: Salem County.

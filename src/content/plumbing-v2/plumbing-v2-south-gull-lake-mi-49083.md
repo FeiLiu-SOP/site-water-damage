@@ -12,6 +12,7 @@ lng: -85.4000
 zipSample: ["49083", "49060"]
 zipCodes: ["49083", "49060"]
 localPaths: ["Kalamazoo County / ZIP 49060 sector", "Kalamazoo County / primary ZIP 49083", "Kalamazoo County / elevation 876 ft band", "Kalamazoo County / ZIP 49083 sector", "Kalamazoo County / coords 42.3900, -85.4000"]
+zillowHomeValueUsd: 369746
 ---
 
 **Engineering Notice for South Gull Lake:** System optimized for 176 mg/L hard water scaling factors in South Gull Lake. Regional dispatch grid: Kalamazoo County.

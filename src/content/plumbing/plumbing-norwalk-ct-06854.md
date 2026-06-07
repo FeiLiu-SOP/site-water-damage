@@ -12,6 +12,7 @@ lng: -73.4200
 zipSample: ["06856", "06857", "06851", "06852", "06853"]
 zipCodes: ["06852", "06858", "06856", "06851", "06854", "06850", "06853", "06857", "06855"]
 localPaths: ["Western Connecticut County / ZIP 06857 sector", "Western Connecticut County / ZIP 06851 sector", "Western Connecticut County / ZIP 06856 sector", "Western Connecticut County / elevation 135 ft band", "Western Connecticut County / ZIP 06852 sector"]
+zillowHomeValueUsd: 561182
 ---
 
 **Engineering Notice for Norwalk:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Western Connecticut County.

@@ -12,6 +12,7 @@ lng: -73.9100
 zipSample: ["10960"]
 zipCodes: ["10960"]
 localPaths: ["Rockland County / primary ZIP 10960", "Rockland County / coords 41.1100, -73.9100", "Rockland County / ZIP 10960 sector", "Rockland County / elevation 0 ft band"]
+zillowHomeValueUsd: 754783
 ---
 
 **Engineering Notice for Upper Nyack:** Site context locked to Rockland County. Vinyl Panels integrity verification recorded.

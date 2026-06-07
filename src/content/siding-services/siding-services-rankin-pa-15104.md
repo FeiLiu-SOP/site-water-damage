@@ -12,6 +12,7 @@ lng: -79.8800
 zipSample: ["15104"]
 zipCodes: ["15104"]
 localPaths: ["Allegheny County / elevation 774 ft band", "Allegheny County / ZIP 15104 sector", "Allegheny County / coords 40.4100, -79.8800", "Allegheny County / primary ZIP 15104"]
+zillowHomeValueUsd: 58371
 ---
 
 **Engineering Notice for Rankin:** Envelope check: Cladding Service assigned to wind-load band A with stress factor 0.90. Regional dispatch grid: Allegheny County.

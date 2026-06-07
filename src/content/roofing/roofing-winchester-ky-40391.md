@@ -11,6 +11,7 @@ lng: -84.1900
 zipSample: ["40392", "40391"]
 zipCodes: ["40391", "40392"]
 localPaths: ["Clark County / elevation 971 ft band", "Clark County / coords 38.0000, -84.1900", "Clark County / ZIP 40391 sector", "Clark County / primary ZIP 40391", "Clark County / ZIP 40392 sector"]
+zillowHomeValueUsd: 258121
 ---
 
 **Engineering Notice for Winchester:** Structural loading calculated based on 971 ft terrain assessment. Regional dispatch grid: Clark County.

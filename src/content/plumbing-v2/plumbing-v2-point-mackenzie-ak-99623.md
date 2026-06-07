@@ -12,6 +12,7 @@ lng: -150.0700
 zipSample: ["99623"]
 zipCodes: ["99623"]
 localPaths: ["Matanuska-Susitna County / elevation 0 ft band", "Matanuska-Susitna County / coords 61.3500, -150.0700", "Matanuska-Susitna County / primary ZIP 99623", "Matanuska-Susitna County / ZIP 99623 sector"]
+zillowHomeValueUsd: 366950
 ---
 
 **Engineering Notice for Point MacKenzie:** System optimized for 168 mg/L hard water scaling factors in Point MacKenzie. Regional dispatch grid: Matanuska-Susitna County.

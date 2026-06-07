@@ -12,6 +12,7 @@ lng: -73.9900
 zipSample: ["12946"]
 zipCodes: ["12946"]
 localPaths: ["Essex County / ZIP 12946 sector", "Essex County / elevation 1893 ft band", "Essex County / primary ZIP 12946", "Essex County / coords 44.2800, -73.9900"]
+zillowHomeValueUsd: 335777
 ---
 
 **Engineering Notice for Lake Placid:** Envelope check: Weather Barrier Wrap assigned to wind-load band C with stress factor 0.71. Elevation: 1893 ft AMSL. Regional dispatch grid: Essex County.

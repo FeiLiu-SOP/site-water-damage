@@ -12,6 +12,7 @@ lng: -82.0500
 zipSample: ["33514", "33597"]
 zipCodes: ["33597", "33514"]
 localPaths: ["Sumter County / primary ZIP 33514", "Sumter County / coords 28.6100, -82.0500", "Sumter County / ZIP 33597 sector", "Sumter County / elevation 118 ft band", "Sumter County / ZIP 33514 sector"]
+zillowHomeValueUsd: 293107
 ---
 
 **Engineering Notice for Webster:** System optimized for 175 mg/L hard water scaling factors in Webster. Regional dispatch grid: Sumter County.

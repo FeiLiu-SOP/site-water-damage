@@ -12,6 +12,7 @@ lng: -75.0400
 zipSample: ["08349"]
 zipCodes: ["08349"]
 localPaths: ["Cumberland County / coords 39.2500, -75.0400", "Cumberland County / primary ZIP 08349", "Cumberland County / ZIP 08349 sector", "Cumberland County / elevation 39 ft band"]
+zillowHomeValueUsd: 191269
 ---
 
 **Engineering Notice for Port Norris:** Site context locked to Cumberland County. Exterior Cladding integrity verification recorded.

@@ -12,6 +12,8 @@ lng: -66.3700
 zipSample: ["00757"]
 zipCodes: ["00757"]
 localPaths: ["Santa Isabel County / ZIP 00757 sector", "Santa Isabel County / primary ZIP 00757", "Santa Isabel County / coords 17.9600, -66.3700", "Santa Isabel County / elevation 0 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 381733
 ---
 
 **Engineering Notice for Jauca:** System optimized for 159 mg/L hard water scaling factors in Jauca. Regional dispatch grid: Santa Isabel County.

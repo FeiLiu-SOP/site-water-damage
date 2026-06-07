@@ -11,6 +11,7 @@ lng: -121.8300
 zipSample: ["95620"]
 zipCodes: ["95620"]
 localPaths: ["Solano County / primary ZIP 95620", "Solano County / elevation 66 ft band", "Solano County / coords 38.4500, -121.8300", "Solano County / ZIP 95620 sector"]
+zillowHomeValueUsd: 606815
 ---
 
 **Engineering Notice for Dixon:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Solano County.

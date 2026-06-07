@@ -12,6 +12,7 @@ lng: -89.7000
 zipSample: ["62664"]
 zipCodes: ["62664"]
 localPaths: ["Mason County / primary ZIP 62664", "Mason County / coords 40.2000, -89.7000", "Mason County / ZIP 62664 sector", "Mason County / elevation 577 ft band"]
+zillowHomeValueUsd: 104518
 ---
 
 **Engineering Notice for Mason City:** System optimized for 138 mg/L hard water scaling factors in Mason City. Regional dispatch grid: Mason County.

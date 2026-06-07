@@ -12,6 +12,7 @@ lng: -89.2900
 zipSample: ["62075"]
 zipCodes: ["62075"]
 localPaths: ["Montgomery County / elevation 679 ft band", "Montgomery County / ZIP 62075 sector", "Montgomery County / coords 39.3000, -89.2900", "Montgomery County / primary ZIP 62075"]
+zillowHomeValueUsd: 98079
 ---
 
 **Engineering Notice for Nokomis:** System optimized for 122 mg/L hard water scaling factors in Nokomis. Regional dispatch grid: Montgomery County.

@@ -12,6 +12,7 @@ lng: -92.4400
 zipSample: ["52211"]
 zipCodes: ["52211"]
 localPaths: ["Poweshiek County / coords 41.7300, -92.4400", "Poweshiek County / primary ZIP 52211", "Poweshiek County / elevation 906 ft band", "Poweshiek County / ZIP 52211 sector"]
+zillowHomeValueUsd: 194029
 ---
 
 **Engineering Notice for Brooklyn:** Structural integrity verification: Wall Restoration calibrated for 109 mph localized wind load factor. Elevation: 906 ft AMSL. Regional dispatch grid: Poweshiek County.

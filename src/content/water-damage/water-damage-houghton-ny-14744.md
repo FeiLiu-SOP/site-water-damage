@@ -12,6 +12,7 @@ lng: -78.1600
 zipSample: ["14744"]
 zipCodes: ["14744"]
 localPaths: ["Allegany County / ZIP 14744 sector", "Allegany County / coords 42.4300, -78.1600", "Allegany County / primary ZIP 14744", "Allegany County / elevation 1368 ft band"]
+zillowHomeValueUsd: 198581
 ---
 
 **Engineering Notice for Houghton:** structural drying capacity optimized for 1368ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allegany County. Relative Humidity Threshold: 66%. Sensor sync: Active.

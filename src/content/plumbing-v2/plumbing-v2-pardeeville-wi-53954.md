@@ -12,6 +12,7 @@ lng: -89.3000
 zipSample: ["53954"]
 zipCodes: ["53954"]
 localPaths: ["Columbia County / ZIP 53954 sector", "Columbia County / coords 43.5400, -89.3000", "Columbia County / primary ZIP 53954", "Columbia County / elevation 830 ft band"]
+zillowHomeValueUsd: 359988
 ---
 
 **Engineering Notice for Pardeeville:** System optimized for 131 mg/L hard water scaling factors in Pardeeville. Regional dispatch grid: Columbia County.

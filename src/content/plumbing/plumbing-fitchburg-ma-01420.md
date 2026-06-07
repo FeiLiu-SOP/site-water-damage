@@ -12,6 +12,7 @@ lng: -71.8200
 zipSample: ["01420"]
 zipCodes: ["01420"]
 localPaths: ["Worcester County / ZIP 01420 sector", "Worcester County / coords 42.5900, -71.8200", "Worcester County / primary ZIP 01420", "Worcester County / elevation 712 ft band"]
+zillowHomeValueUsd: 396202
 ---
 
 **Engineering Notice for Fitchburg:** Structural loading calculated based on 712 ft terrain assessment. Regional dispatch grid: Worcester County.

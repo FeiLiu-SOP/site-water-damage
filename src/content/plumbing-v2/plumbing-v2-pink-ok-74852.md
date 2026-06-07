@@ -12,6 +12,7 @@ lng: -97.1000
 zipSample: ["74873", "74852"]
 zipCodes: ["74852", "74873"]
 localPaths: ["Pottawatomie County / primary ZIP 74852", "Pottawatomie County / ZIP 74852 sector", "Pottawatomie County / elevation 1089 ft band", "Pottawatomie County / ZIP 74873 sector", "Pottawatomie County / coords 35.2300, -97.1000"]
+zillowHomeValueUsd: 216687
 ---
 
 **Engineering Notice for Pink:** System optimized for 153 mg/L hard water scaling factors in Pink. Regional dispatch grid: Pottawatomie County.

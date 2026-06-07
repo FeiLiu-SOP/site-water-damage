@@ -12,6 +12,7 @@ lng: -88.4500
 zipSample: ["54107"]
 zipCodes: ["54107"]
 localPaths: ["Shawano County / ZIP 54107 sector", "Shawano County / coords 44.7400, -88.4500", "Shawano County / primary ZIP 54107", "Shawano County / elevation 866 ft band"]
+zillowHomeValueUsd: 302874
 ---
 
 **Engineering Notice for Bonduel:** System optimized for 139 mg/L hard water scaling factors in Bonduel. Regional dispatch grid: Shawano County.

@@ -12,6 +12,7 @@ lng: -74.9400
 zipSample: ["19020"]
 zipCodes: ["19020"]
 localPaths: ["Bucks County / ZIP 19020 sector", "Bucks County / coords 40.0900, -74.9400", "Bucks County / primary ZIP 19020", "Bucks County / elevation 82 ft band"]
+zillowHomeValueUsd: 422406
 ---
 
 **Engineering Notice for Eddington:** Cladding verification uses 106 mph routing baseline; lateral pressure note: 13.9 psf. Grid: Bucks County.

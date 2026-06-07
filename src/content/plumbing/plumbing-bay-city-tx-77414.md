@@ -12,6 +12,7 @@ lng: -95.9600
 zipSample: ["77414"]
 zipCodes: ["77414"]
 localPaths: ["Matagorda County / primary ZIP 77414", "Matagorda County / coords 28.9800, -95.9600", "Matagorda County / ZIP 77414 sector", "Matagorda County / elevation 62 ft band"]
+zillowHomeValueUsd: 195977
 ---
 
 **Engineering Notice for Bay City:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Matagorda County.

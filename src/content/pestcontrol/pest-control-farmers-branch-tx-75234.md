@@ -11,6 +11,7 @@ lng: -96.8800
 zipSample: ["75244", "75234", "75381"]
 zipCodes: ["75234", "75244", "75381"]
 localPaths: ["Dallas County / ZIP 75381 sector", "Dallas County / primary ZIP 75234", "Dallas County / ZIP 75244 sector", "Dallas County / ZIP 75234 sector", "Dallas County / coords 32.9300, -96.8800"]
+zillowHomeValueUsd: 360963
 ---
 
 **Engineering Notice for Farmers Branch:** Structural loading calculated based on 518 ft terrain assessment. Regional dispatch grid: Dallas County.

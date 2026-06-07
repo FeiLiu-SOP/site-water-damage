@@ -12,6 +12,7 @@ lng: -86.2000
 zipSample: ["35135", "35125"]
 zipCodes: ["35125", "35135"]
 localPaths: ["St. Clair County / ZIP 35125 sector", "St. Clair County / primary ZIP 35135", "St. Clair County / coords 33.6200, -86.2000", "St. Clair County / ZIP 35135 sector", "St. Clair County / elevation 528 ft band"]
+zillowHomeValueUsd: 305056
 ---
 
 **Engineering Notice for Riverside:** System optimized for 139 mg/L hard water scaling factors in Riverside. Regional dispatch grid: St. Clair County.

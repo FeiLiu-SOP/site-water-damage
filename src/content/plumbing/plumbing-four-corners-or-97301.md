@@ -12,6 +12,7 @@ lng: -122.9700
 zipSample: ["97301", "97317"]
 zipCodes: ["97301", "97317"]
 localPaths: ["Marion County / elevation 226 ft band", "Marion County / coords 44.9300, -122.9700", "Marion County / primary ZIP 97301", "Marion County / ZIP 97301 sector", "Marion County / ZIP 97317 sector"]
+zillowHomeValueUsd: 370493
 ---
 
 **Engineering Notice for Four Corners:** Structural loading calculated based on 226 ft terrain assessment. Regional dispatch grid: Marion County.

@@ -12,6 +12,7 @@ lng: -84.3500
 zipSample: ["45887"]
 zipCodes: ["45887"]
 localPaths: ["Allen County / elevation 830 ft band", "Allen County / primary ZIP 45887", "Allen County / coords 40.7100, -84.3500", "Allen County / ZIP 45887 sector"]
+zillowHomeValueUsd: 197501
 ---
 
 **Engineering Notice for Spencerville:** structural drying capacity optimized for 830ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allen County. Relative Humidity Threshold: 76%. Sensor sync: Active.

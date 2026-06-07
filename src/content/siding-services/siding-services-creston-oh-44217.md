@@ -12,6 +12,7 @@ lng: -81.9000
 zipSample: ["44217"]
 zipCodes: ["44217"]
 localPaths: ["Wayne County / primary ZIP 44217", "Wayne County / ZIP 44217 sector", "Wayne County / elevation 997 ft band", "Wayne County / coords 40.9800, -81.9000"]
+zillowHomeValueUsd: 250532
 ---
 
 **Engineering Notice for Creston:** Cladding verification uses 107 mph routing baseline; lateral pressure note: 14.0 psf. Elevation: 997 ft AMSL. Grid: Wayne County.

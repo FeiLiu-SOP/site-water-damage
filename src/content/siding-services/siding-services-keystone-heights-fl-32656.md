@@ -12,6 +12,7 @@ lng: -82.0300
 zipSample: ["32656"]
 zipCodes: ["32656"]
 localPaths: ["Clay County / ZIP 32656 sector", "Clay County / coords 29.7800, -82.0300", "Clay County / primary ZIP 32656", "Clay County / elevation 98 ft band"]
+zillowHomeValueUsd: 282232
 ---
 
 **Engineering Notice for Keystone Heights:** Wall Restoration was validated under stress factor 0.95; target tolerance set near 132 mph. Coordinates: 29.7800, -82.0300. Grid anchor: Clay County.

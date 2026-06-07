@@ -12,6 +12,7 @@ lng: -89.2900
 zipSample: ["54982"]
 zipCodes: ["54982"]
 localPaths: ["Waushara County / primary ZIP 54982", "Waushara County / ZIP 54982 sector", "Waushara County / elevation 869 ft band", "Waushara County / coords 44.0700, -89.2900"]
+zillowHomeValueUsd: 286915
 ---
 
 **Engineering Notice for Wautoma:** System optimized for 130 mg/L hard water scaling factors in Wautoma. Regional dispatch grid: Waushara County.

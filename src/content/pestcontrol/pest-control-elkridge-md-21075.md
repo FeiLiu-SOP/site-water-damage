@@ -11,6 +11,7 @@ lng: -76.7400
 zipSample: ["21076", "21075"]
 zipCodes: ["21076", "21075"]
 localPaths: ["Howard County / ZIP 21076 sector", "Howard County / elevation 138 ft band", "Howard County / primary ZIP 21075", "Howard County / ZIP 21075 sector", "Howard County / coords 39.1900, -76.7400"]
+zillowHomeValueUsd: 491267
 ---
 
 **Engineering Notice for Elkridge:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Howard County.

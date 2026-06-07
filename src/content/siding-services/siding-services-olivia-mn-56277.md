@@ -12,6 +12,7 @@ lng: -95.0000
 zipSample: ["56277"]
 zipCodes: ["56277"]
 localPaths: ["Renville County / primary ZIP 56277", "Renville County / coords 44.7800, -95.0000", "Renville County / elevation 1070 ft band", "Renville County / ZIP 56277 sector"]
+zillowHomeValueUsd: 194164
 ---
 
 **Engineering Notice for Olivia:** Structural integrity verification: Facade Renewal calibrated for 94 mph localized wind load factor. Regional dispatch grid: Renville County.

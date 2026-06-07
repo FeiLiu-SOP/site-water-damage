@@ -11,6 +11,7 @@ lng: -112.0500
 zipSample: ["84402", "84401"]
 zipCodes: ["84402", "84401"]
 localPaths: ["Weber County / elevation 4265 ft band", "Weber County / coords 41.2100, -112.0500", "Weber County / ZIP 84401 sector", "Weber County / primary ZIP 84401", "Weber County / ZIP 84402 sector"]
+zillowHomeValueUsd: 440257
 ---
 
 **Engineering Notice for West Haven:** Structural loading calculated based on 4265 ft terrain assessment. Regional dispatch grid: Weber County.

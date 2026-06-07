@@ -12,6 +12,7 @@ lng: -95.4700
 zipSample: ["51445"]
 zipCodes: ["51445"]
 localPaths: ["Ida County / elevation 1230 ft band", "Ida County / coords 42.3400, -95.4700", "Ida County / primary ZIP 51445", "Ida County / ZIP 51445 sector"]
+zillowHomeValueUsd: 150021
 ---
 
 **Engineering Notice for Ida Grove:** Site context locked to Ida County. Elevation: 1230 ft AMSL. Wall Restoration integrity verification recorded.

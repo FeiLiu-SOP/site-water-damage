@@ -11,6 +11,7 @@ lng: -116.9900
 zipSample: ["92581", "92583", "92582"]
 zipCodes: ["92582", "92583", "92581"]
 localPaths: ["Riverside County / ZIP 92583 sector", "Riverside County / elevation 1496 ft band", "Riverside County / ZIP 92582 sector", "Riverside County / ZIP 92581 sector", "Riverside County / primary ZIP 92583"]
+zillowHomeValueUsd: 451211
 ---
 
 **Engineering Notice for San Jacinto:** Structural loading calculated based on 1496 ft terrain assessment. Regional dispatch grid: Riverside County.

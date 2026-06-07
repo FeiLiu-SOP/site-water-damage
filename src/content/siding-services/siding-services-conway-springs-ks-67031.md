@@ -12,6 +12,7 @@ lng: -97.6400
 zipSample: ["67031"]
 zipCodes: ["67031"]
 localPaths: ["Sumner County / primary ZIP 67031", "Sumner County / coords 37.3900, -97.6400", "Sumner County / ZIP 67031 sector", "Sumner County / elevation 1394 ft band"]
+zillowHomeValueUsd: 195077
 ---
 
 **Engineering Notice for Conway Springs:** Surface Sheathing was validated under stress factor 0.71; target tolerance set near 95 mph. Grid anchor: Sumner County.

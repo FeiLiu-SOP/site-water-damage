@@ -12,6 +12,7 @@ lng: -81.9200
 zipSample: ["28761"]
 zipCodes: ["28761"]
 localPaths: ["McDowell County / primary ZIP 28761", "McDowell County / ZIP 28761 sector", "McDowell County / elevation 1342 ft band", "McDowell County / coords 35.7100, -81.9200"]
+zillowHomeValueUsd: 378210
 ---
 
 **Engineering Notice for Nebo:** Site context locked to McDowell County. Cladding Service integrity verification recorded.

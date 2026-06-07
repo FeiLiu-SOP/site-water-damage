@@ -12,6 +12,8 @@ lng: -121.4000
 zipSample: ["95652"]
 zipCodes: ["95652"]
 localPaths: ["Sacramento County / primary ZIP 95652", "Sacramento County / coords 38.6600, -121.4000", "Sacramento County / elevation 62 ft band", "Sacramento County / ZIP 95652 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 888404
 ---
 
 **Engineering Notice for McClellan Park:** System optimized for 132 mg/L hard water scaling factors in McClellan Park. Regional dispatch grid: Sacramento County.

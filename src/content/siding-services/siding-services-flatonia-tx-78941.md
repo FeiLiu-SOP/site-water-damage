@@ -12,6 +12,7 @@ lng: -97.1100
 zipSample: ["78941"]
 zipCodes: ["78941"]
 localPaths: ["Fayette County / elevation 453 ft band", "Fayette County / primary ZIP 78941", "Fayette County / coords 29.6900, -97.1100", "Fayette County / ZIP 78941 sector"]
+zillowHomeValueUsd: 451215
 ---
 
 **Engineering Notice for Flatonia:** Panel Replacement was validated under stress factor 0.86; target tolerance set near 148 mph. Coordinates: 29.6900, -97.1100. Grid anchor: Fayette County.

@@ -12,6 +12,7 @@ lng: -122.3900
 zipSample: ["98387", "98338", "98580"]
 zipCodes: ["98387", "98580", "98338"]
 localPaths: ["Pierce County / elevation 486 ft band", "Pierce County / ZIP 98580 sector", "Pierce County / coords 47.0000, -122.3900", "Pierce County / primary ZIP 98580", "Pierce County / ZIP 98338 sector"]
+zillowHomeValueUsd: 628945
 ---
 
 **Engineering Notice for South Creek:** Site context locked to Pierce County. Vinyl Panels integrity verification recorded.

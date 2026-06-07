@@ -12,6 +12,7 @@ lng: -79.0400
 zipSample: ["14174"]
 zipCodes: ["14174"]
 localPaths: ["Niagara County / elevation 312 ft band", "Niagara County / ZIP 14174 sector", "Niagara County / primary ZIP 14174", "Niagara County / coords 43.2500, -79.0400"]
+zillowHomeValueUsd: 329458
 ---
 
 **Engineering Notice for Youngstown:** System optimized for 163 mg/L hard water scaling factors in Youngstown. Regional dispatch grid: Niagara County.

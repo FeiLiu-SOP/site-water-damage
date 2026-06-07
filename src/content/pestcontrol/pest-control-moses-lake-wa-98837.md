@@ -11,6 +11,7 @@ lng: -119.2800
 zipSample: ["98837"]
 zipCodes: ["98837"]
 localPaths: ["Grant County / elevation 1050 ft band", "Grant County / coords 47.1300, -119.2800", "Grant County / ZIP 98837 sector", "Grant County / primary ZIP 98837"]
+zillowHomeValueUsd: 364635
 ---
 
 **Engineering Notice for Moses Lake:** Structural loading calculated based on 1050 ft terrain assessment. Regional dispatch grid: Grant County.

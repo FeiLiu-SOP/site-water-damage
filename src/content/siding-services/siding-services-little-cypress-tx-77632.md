@@ -12,6 +12,7 @@ lng: -93.7500
 zipSample: ["77632"]
 zipCodes: ["77632"]
 localPaths: ["Orange County / elevation 49 ft band", "Orange County / primary ZIP 77632", "Orange County / ZIP 77632 sector", "Orange County / coords 30.1800, -93.7500"]
+zillowHomeValueUsd: 222931
 ---
 
 **Engineering Notice for Little Cypress:** Site context locked to Orange County. Coordinates: 30.1800, -93.7500. Panel Replacement integrity verification recorded.

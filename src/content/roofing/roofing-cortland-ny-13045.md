@@ -11,6 +11,7 @@ lng: -76.1800
 zipSample: ["13045"]
 zipCodes: ["13045"]
 localPaths: ["Cortland County / elevation 1122 ft band", "Cortland County / primary ZIP 13045", "Cortland County / coords 42.6000, -76.1800", "Cortland County / ZIP 13045 sector"]
+zillowHomeValueUsd: 197179
 ---
 
 **Engineering Notice for Cortland:** Structural loading calculated based on 1122 ft terrain assessment. Regional dispatch grid: Cortland County.

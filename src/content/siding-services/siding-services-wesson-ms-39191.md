@@ -12,6 +12,7 @@ lng: -90.4000
 zipSample: ["39191"]
 zipCodes: ["39191"]
 localPaths: ["Copiah County / ZIP 39191 sector", "Copiah County / primary ZIP 39191", "Copiah County / elevation 472 ft band", "Copiah County / coords 31.7000, -90.4000"]
+zillowHomeValueUsd: 177490
 ---
 
 **Engineering Notice for Wesson:** Site context locked to Copiah County. Elevation: 472 ft AMSL. Facade Renewal integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -91.4200
 zipSample: ["54747", "54612", "54773"]
 zipCodes: ["54747", "54612", "54773"]
 localPaths: ["Trempealeau County / elevation 810 ft band", "Trempealeau County / primary ZIP 54773", "Trempealeau County / ZIP 54747 sector", "Trempealeau County / ZIP 54612 sector", "Trempealeau County / ZIP 54773 sector"]
+zillowHomeValueUsd: 228797
 ---
 
 **Engineering Notice for Independence:** Structural integrity verification: Exterior Envelope calibrated for 95 mph localized wind load factor. Coordinates: 44.3300, -91.4200. Regional dispatch grid: Trempealeau County.

@@ -12,6 +12,7 @@ lng: -121.0100
 zipSample: ["95356"]
 zipCodes: ["95356"]
 localPaths: ["Stanislaus County / coords 37.7400, -121.0100", "Stanislaus County / ZIP 95356 sector", "Stanislaus County / elevation 141 ft band", "Stanislaus County / primary ZIP 95356"]
+zillowHomeValueUsd: 524428
 ---
 
 **Engineering Notice for Del Rio:** System optimized for 137 mg/L hard water scaling factors in Del Rio. Regional dispatch grid: Stanislaus County.

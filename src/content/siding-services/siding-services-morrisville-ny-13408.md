@@ -12,6 +12,7 @@ lng: -75.6400
 zipSample: ["13408"]
 zipCodes: ["13408"]
 localPaths: ["Madison County / elevation 1293 ft band", "Madison County / ZIP 13408 sector", "Madison County / primary ZIP 13408", "Madison County / coords 42.9000, -75.6400"]
+zillowHomeValueUsd: 229948
 ---
 
 **Engineering Notice for Morrisville:** Site context locked to Madison County. Panel Replacement integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -83.3800
 zipSample: ["41339"]
 zipCodes: ["41339"]
 localPaths: ["Breathitt County / primary ZIP 41339", "Breathitt County / coords 37.5600, -83.3800", "Breathitt County / ZIP 41339 sector", "Breathitt County / elevation 797 ft band"]
+zillowHomeValueUsd: 91224
 ---
 
 **Engineering Notice for Jackson:** structural drying capacity optimized for 797ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Breathitt County. Relative Humidity Threshold: 84%. Sensor sync: Active.

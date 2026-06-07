@@ -12,6 +12,7 @@ lng: -82.7000
 zipSample: ["43011"]
 zipCodes: ["43011"]
 localPaths: ["Knox County / elevation 1217 ft band", "Knox County / coords 40.3000, -82.7000", "Knox County / primary ZIP 43011", "Knox County / ZIP 43011 sector"]
+zillowHomeValueUsd: 387787
 ---
 
 **Engineering Notice for Centerburg:** System optimized for 165 mg/L hard water scaling factors in Centerburg. Regional dispatch grid: Knox County.

@@ -12,6 +12,7 @@ lng: -80.6100
 zipSample: ["43920"]
 zipCodes: ["43920"]
 localPaths: ["Columbiana County / ZIP 43920 sector", "Columbiana County / coords 40.6600, -80.6100", "Columbiana County / primary ZIP 43920", "Columbiana County / elevation 1148 ft band"]
+zillowHomeValueUsd: 103078
 ---
 
 **Engineering Notice for Glenmoor:** Site context locked to Columbiana County. Coordinates: 40.6600, -80.6100. Weather Barrier Wrap integrity verification recorded.

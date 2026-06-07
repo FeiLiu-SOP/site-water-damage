@@ -12,6 +12,7 @@ lng: -107.2400
 zipSample: ["81639"]
 zipCodes: ["81639"]
 localPaths: ["Routt County / primary ZIP 81639", "Routt County / elevation 6414 ft band", "Routt County / ZIP 81639 sector", "Routt County / coords 40.4900, -107.2400"]
+zillowHomeValueUsd: 523106
 ---
 
 **Engineering Notice for Hayden:** Cladding verification uses 104 mph routing baseline; lateral pressure note: 13.7 psf. Coordinates: 40.4900, -107.2400. Grid: Routt County.

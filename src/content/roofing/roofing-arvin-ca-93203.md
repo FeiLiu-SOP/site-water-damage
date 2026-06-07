@@ -11,6 +11,7 @@ lng: -118.8300
 zipSample: ["93203"]
 zipCodes: ["93203"]
 localPaths: ["Kern County / coords 35.1900, -118.8300", "Kern County / elevation 417 ft band", "Kern County / primary ZIP 93203", "Kern County / ZIP 93203 sector"]
+zillowHomeValueUsd: 297035
 ---
 
 **Engineering Notice for Arvin:** Structural loading calculated based on 417 ft terrain assessment. Regional dispatch grid: Kern County.

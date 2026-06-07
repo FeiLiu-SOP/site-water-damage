@@ -12,6 +12,7 @@ lng: -90.3100
 zipSample: ["63135"]
 zipCodes: ["63135"]
 localPaths: ["St. Louis County / elevation 604 ft band", "St. Louis County / coords 38.7700, -90.3100", "St. Louis County / ZIP 63135 sector", "St. Louis County / primary ZIP 63135"]
+zillowHomeValueUsd: 110784
 ---
 
 **Engineering Notice for Calverton Park:** System optimized for 146 mg/L hard water scaling factors in Calverton Park. Regional dispatch grid: St. Louis County.

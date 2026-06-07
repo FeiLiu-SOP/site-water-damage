@@ -12,6 +12,7 @@ lng: -85.9400
 zipSample: ["37030"]
 zipCodes: ["37030"]
 localPaths: ["Smith County / coords 36.2600, -85.9400", "Smith County / primary ZIP 37030", "Smith County / elevation 554 ft band", "Smith County / ZIP 37030 sector"]
+zillowHomeValueUsd: 274834
 ---
 
 **Engineering Notice for Carthage:** System optimized for 179 mg/L hard water scaling factors in Carthage. Regional dispatch grid: Smith County.

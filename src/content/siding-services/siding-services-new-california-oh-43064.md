@@ -12,6 +12,7 @@ lng: -83.2400
 zipSample: ["43064"]
 zipCodes: ["43064"]
 localPaths: ["Union County / primary ZIP 43064", "Union County / ZIP 43064 sector", "Union County / coords 40.1500, -83.2400", "Union County / elevation 981 ft band"]
+zillowHomeValueUsd: 541599
 ---
 
 **Engineering Notice for New California:** Structural integrity verification: Panel Replacement calibrated for 95 mph localized wind load factor. Elevation: 981 ft AMSL. Regional dispatch grid: Union County.

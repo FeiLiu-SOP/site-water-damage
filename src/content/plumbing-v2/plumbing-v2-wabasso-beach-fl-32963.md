@@ -12,6 +12,7 @@ lng: -80.4000
 zipSample: ["32963"]
 zipCodes: ["32963"]
 localPaths: ["Indian River County / elevation 36 ft band", "Indian River County / ZIP 32963 sector", "Indian River County / coords 27.7600, -80.4000", "Indian River County / primary ZIP 32963"]
+zillowHomeValueUsd: 1038960
 ---
 
 **Engineering Notice for Wabasso Beach:** System optimized for 149 mg/L hard water scaling factors in Wabasso Beach. Regional dispatch grid: Indian River County.

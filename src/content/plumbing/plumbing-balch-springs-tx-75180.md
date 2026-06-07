@@ -12,6 +12,7 @@ lng: -96.6200
 zipSample: ["75180", "75181"]
 zipCodes: ["75181", "75180"]
 localPaths: ["Dallas County / ZIP 75180 sector", "Dallas County / primary ZIP 75180", "Dallas County / coords 32.7200, -96.6200", "Dallas County / ZIP 75181 sector", "Dallas County / elevation 495 ft band"]
+zillowHomeValueUsd: 220743
 ---
 
 **Engineering Notice for Balch Springs:** Structural loading calculated based on 495 ft terrain assessment. Regional dispatch grid: Dallas County.

@@ -11,6 +11,7 @@ lng: -90.2100
 zipSample: ["39060", "39210", "39296", "39217", "39202"]
 zipCodes: ["39236", "39174", "39282", "39283", "39203", "39060", "39272", "39269", "39289", "39212", "39207", "39215"]
 localPaths: ["Hinds County / ZIP 39060 sector", "Hinds County / ZIP 39210 sector", "Hinds County / elevation 371 ft band", "Hinds County / primary ZIP 39272", "Hinds County / ZIP 39296 sector"]
+zillowHomeValueUsd: 222093
 ---
 
 **Engineering Notice for Jackson:** Structural loading calculated based on 371 ft terrain assessment. Regional dispatch grid: Hinds County.

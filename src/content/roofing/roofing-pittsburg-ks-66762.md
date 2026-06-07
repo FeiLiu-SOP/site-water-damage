@@ -11,6 +11,7 @@ lng: -94.7000
 zipSample: ["66762"]
 zipCodes: ["66762"]
 localPaths: ["Crawford County / coords 37.4100, -94.7000", "Crawford County / primary ZIP 66762", "Crawford County / elevation 928 ft band", "Crawford County / ZIP 66762 sector"]
+zillowHomeValueUsd: 132936
 ---
 
 **Engineering Notice for Pittsburg:** Structural loading calculated based on 928 ft terrain assessment. Regional dispatch grid: Crawford County.

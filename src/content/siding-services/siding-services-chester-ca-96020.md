@@ -12,6 +12,7 @@ lng: -121.2300
 zipSample: ["96020"]
 zipCodes: ["96020"]
 localPaths: ["Plumas County / coords 40.3000, -121.2300", "Plumas County / elevation 4537 ft band", "Plumas County / ZIP 96020 sector", "Plumas County / primary ZIP 96020"]
+zillowHomeValueUsd: 345400
 ---
 
 **Engineering Notice for Chester:** Envelope check: Exterior Cladding assigned to wind-load band A with stress factor 0.85. Regional dispatch grid: Plumas County.

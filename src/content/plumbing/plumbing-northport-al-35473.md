@@ -12,6 +12,7 @@ lng: -87.6000
 zipSample: ["35473", "35452", "35476", "35475"]
 zipCodes: ["35452", "35476", "35475", "35473"]
 localPaths: ["Tuscaloosa County / primary ZIP 35473", "Tuscaloosa County / elevation 328 ft band", "Tuscaloosa County / ZIP 35473 sector", "Tuscaloosa County / ZIP 35475 sector", "Tuscaloosa County / coords 33.2600, -87.6000"]
+zillowHomeValueUsd: 266476
 ---
 
 **Engineering Notice for Northport:** Structural loading calculated based on 328 ft terrain assessment. Regional dispatch grid: Tuscaloosa County.

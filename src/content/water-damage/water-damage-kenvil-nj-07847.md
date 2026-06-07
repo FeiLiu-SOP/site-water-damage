@@ -12,6 +12,7 @@ lng: -74.6200
 zipSample: ["07847"]
 zipCodes: ["07847"]
 localPaths: ["Morris County / elevation 715 ft band", "Morris County / primary ZIP 07847", "Morris County / coords 40.8800, -74.6200", "Morris County / ZIP 07847 sector"]
+zillowHomeValueUsd: 498616
 ---
 
 **Engineering Notice for Kenvil:** structural drying capacity optimized for 715ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Morris County. Relative Humidity Threshold: 68%. Sensor sync: Active.

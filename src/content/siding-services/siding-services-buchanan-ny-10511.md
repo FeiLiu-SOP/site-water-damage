@@ -12,6 +12,7 @@ lng: -73.9500
 zipSample: ["10511"]
 zipCodes: ["10511"]
 localPaths: ["Westchester County / ZIP 10511 sector", "Westchester County / primary ZIP 10511", "Westchester County / coords 41.2600, -73.9500", "Westchester County / elevation 135 ft band"]
+zillowHomeValueUsd: 577542
 ---
 
 **Engineering Notice for Buchanan:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 1.21. Elevation: 135 ft AMSL. Regional dispatch grid: Westchester County.

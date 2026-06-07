@@ -11,6 +11,7 @@ lng: -96.5800
 zipSample: ["75020"]
 zipCodes: ["75020"]
 localPaths: ["Grayson County / primary ZIP 75020", "Grayson County / ZIP 75020 sector", "Grayson County / coords 33.7700, -96.5800", "Grayson County / elevation 823 ft band"]
+zillowHomeValueUsd: 222137
 ---
 
 **Engineering Notice for Denison:** Structural loading calculated based on 823 ft terrain assessment. Regional dispatch grid: Grayson County.

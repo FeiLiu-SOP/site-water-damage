@@ -12,6 +12,7 @@ lng: -96.1300
 zipSample: ["68059"]
 zipCodes: ["68059"]
 localPaths: ["Sarpy County / coords 41.0900, -96.1300", "Sarpy County / primary ZIP 68059", "Sarpy County / ZIP 68059 sector", "Sarpy County / elevation 1093 ft band"]
+zillowHomeValueUsd: 452388
 ---
 
 **Engineering Notice for Springfield:** System optimized for 130 mg/L hard water scaling factors in Springfield. Regional dispatch grid: Sarpy County.

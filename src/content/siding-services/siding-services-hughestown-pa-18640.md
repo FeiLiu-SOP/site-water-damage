@@ -12,6 +12,7 @@ lng: -75.7700
 zipSample: ["18640"]
 zipCodes: ["18640"]
 localPaths: ["Luzerne County / ZIP 18640 sector", "Luzerne County / primary ZIP 18640", "Luzerne County / elevation 764 ft band", "Luzerne County / coords 41.3300, -75.7700"]
+zillowHomeValueUsd: 201815
 ---
 
 **Engineering Notice for Hughestown:** Facade Renewal was validated under stress factor 1.15; target tolerance set near 105 mph. Grid anchor: Luzerne County.

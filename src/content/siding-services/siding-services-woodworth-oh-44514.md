@@ -12,6 +12,7 @@ lng: -80.6500
 zipSample: ["44452", "44514"]
 zipCodes: ["44452", "44514"]
 localPaths: ["Mahoning County / coords 40.9800, -80.6500", "Mahoning County / primary ZIP 44514", "Mahoning County / elevation 1132 ft band", "Mahoning County / ZIP 44452 sector", "Mahoning County / ZIP 44514 sector"]
+zillowHomeValueUsd: 243711
 ---
 
 **Engineering Notice for Woodworth:** Cladding Retrofit was validated under stress factor 1.05; target tolerance set near 98 mph. Coordinates: 40.9800, -80.6500. Grid anchor: Mahoning County.

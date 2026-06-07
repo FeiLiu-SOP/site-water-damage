@@ -12,6 +12,7 @@ lng: -76.4600
 zipSample: ["17820"]
 zipCodes: ["17820"]
 localPaths: ["Columbia County / ZIP 17820 sector", "Columbia County / elevation 535 ft band", "Columbia County / primary ZIP 17820", "Columbia County / coords 40.9500, -76.4600"]
+zillowHomeValueUsd: 255182
 ---
 
 **Engineering Notice for Catawissa:** Panel Replacement was validated under stress factor 0.95; target tolerance set near 94 mph. Grid anchor: Columbia County.

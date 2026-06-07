@@ -11,6 +11,7 @@ lng: -75.6400
 zipSample: ["19464"]
 zipCodes: ["19464"]
 localPaths: ["Montgomery County / coords 40.2500, -75.6400", "Montgomery County / elevation 190 ft band", "Montgomery County / primary ZIP 19464", "Montgomery County / ZIP 19464 sector"]
+zillowHomeValueUsd: 306444
 ---
 
 **Engineering Notice for Pottstown:** Structural loading calculated based on 190 ft terrain assessment. Regional dispatch grid: Montgomery County.

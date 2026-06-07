@@ -12,6 +12,7 @@ lng: -95.4700
 zipSample: ["51445"]
 zipCodes: ["51445"]
 localPaths: ["Ida County / coords 42.3400, -95.4700", "Ida County / primary ZIP 51445", "Ida County / elevation 1230 ft band", "Ida County / ZIP 51445 sector"]
+zillowHomeValueUsd: 150016
 ---
 
 **Engineering Notice for Ida Grove:** System optimized for 153 mg/L hard water scaling factors in Ida Grove. Regional dispatch grid: Ida County.

@@ -12,6 +12,7 @@ lng: -88.4400
 zipSample: ["49913"]
 zipCodes: ["49913"]
 localPaths: ["Houghton County / primary ZIP 49913", "Houghton County / ZIP 49913 sector", "Houghton County / coords 47.2400, -88.4400", "Houghton County / elevation 1220 ft band"]
+zillowHomeValueUsd: 126170
 ---
 
 **Engineering Notice for Laurium:** Cladding verification uses 102 mph routing baseline; lateral pressure note: 13.4 psf. Coordinates: 47.2400, -88.4400. Grid: Houghton County.

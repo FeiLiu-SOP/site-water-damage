@@ -12,6 +12,7 @@ lng: -91.5500
 zipSample: ["72521"]
 zipCodes: ["72521"]
 localPaths: ["Sharp County / ZIP 72521 sector", "Sharp County / elevation 650 ft band", "Sharp County / primary ZIP 72521", "Sharp County / coords 35.9500, -91.5500"]
+zillowHomeValueUsd: 172900
 ---
 
 **Engineering Notice for Cave City:** structural drying capacity optimized for 650ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sharp County. Relative Humidity Threshold: 72%. Sensor sync: Active.

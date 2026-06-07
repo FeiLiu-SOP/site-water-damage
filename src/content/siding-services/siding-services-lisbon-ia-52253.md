@@ -12,6 +12,7 @@ lng: -91.3900
 zipSample: ["52253"]
 zipCodes: ["52253"]
 localPaths: ["Linn County / elevation 850 ft band", "Linn County / coords 41.9200, -91.3900", "Linn County / ZIP 52253 sector", "Linn County / primary ZIP 52253"]
+zillowHomeValueUsd: 301177
 ---
 
 **Engineering Notice for Lisbon:** Cladding verification uses 99 mph routing baseline; lateral pressure note: 13.1 psf. Elevation: 850 ft AMSL. Grid: Linn County.

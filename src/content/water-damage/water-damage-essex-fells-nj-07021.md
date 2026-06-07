@@ -12,6 +12,7 @@ lng: -74.2800
 zipSample: ["07021"]
 zipCodes: ["07021"]
 localPaths: ["Essex County / ZIP 07021 sector", "Essex County / elevation 528 ft band", "Essex County / primary ZIP 07021", "Essex County / coords 40.8300, -74.2800"]
+zillowHomeValueUsd: 1430608
 ---
 
 **Engineering Notice for Essex Fells:** structural drying capacity optimized for 528ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Essex County. Relative Humidity Threshold: 84%. Sensor sync: Active.

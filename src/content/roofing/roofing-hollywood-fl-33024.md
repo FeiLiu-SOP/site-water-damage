@@ -11,6 +11,7 @@ lng: -80.1700
 zipSample: ["33023", "33302", "33019", "33316", "33004"]
 zipCodes: ["33023", "33082", "33316", "33302", "33312", "33022", "33081", "33020", "33019", "33024", "33004", "33021"]
 localPaths: ["Broward County / ZIP 33019 sector", "Broward County / ZIP 33316 sector", "Broward County / ZIP 33023 sector", "Broward County / elevation 30 ft band", "Broward County / ZIP 33004 sector"]
+zillowHomeValueUsd: 465817
 ---
 
 **Engineering Notice for Hollywood:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Broward County.

@@ -12,6 +12,7 @@ lng: -87.5900
 zipSample: ["36744"]
 zipCodes: ["36744"]
 localPaths: ["Hale County / primary ZIP 36744", "Hale County / coords 32.7000, -87.5900", "Hale County / ZIP 36744 sector", "Hale County / elevation 272 ft band"]
+zillowHomeValueUsd: 143773
 ---
 
 **Engineering Notice for Greensboro:** System optimized for 144 mg/L hard water scaling factors in Greensboro. Regional dispatch grid: Hale County.

@@ -12,6 +12,7 @@ lng: -85.3600
 zipSample: ["47338", "47303"]
 zipCodes: ["47303", "47338"]
 localPaths: ["Delaware County / ZIP 47338 sector", "Delaware County / elevation 909 ft band", "Delaware County / ZIP 47303 sector", "Delaware County / coords 40.3200, -85.3600", "Delaware County / primary ZIP 47338"]
+zillowHomeValueUsd: 166770
 ---
 
 **Engineering Notice for Eaton:** Cladding Service was validated under stress factor 0.79; target tolerance set near 105 mph. Grid anchor: Delaware County.

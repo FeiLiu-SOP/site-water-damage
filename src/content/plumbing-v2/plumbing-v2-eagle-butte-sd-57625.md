@@ -12,6 +12,8 @@ lng: -101.2300
 zipSample: ["57625"]
 zipCodes: ["57625"]
 localPaths: ["Ziebach County / primary ZIP 57625", "Ziebach County / ZIP 57625 sector", "Ziebach County / elevation 2418 ft band", "Ziebach County / coords 44.9900, -101.2300"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 306801
 ---
 
 **Engineering Notice for Eagle Butte:** System optimized for 150 mg/L hard water scaling factors in Eagle Butte. Regional dispatch grid: Ziebach County.

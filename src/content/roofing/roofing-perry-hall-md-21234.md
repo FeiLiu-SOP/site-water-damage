@@ -11,6 +11,7 @@ lng: -76.4800
 zipSample: ["21234", "21128", "21236"]
 zipCodes: ["21234", "21128", "21236"]
 localPaths: ["Baltimore County / primary ZIP 21234", "Baltimore County / ZIP 21234 sector", "Baltimore County / coords 39.4100, -76.4800", "Baltimore County / ZIP 21128 sector", "Baltimore County / ZIP 21236 sector"]
+zillowHomeValueUsd: 301829
 ---
 
 **Engineering Notice for Perry Hall:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Baltimore County.

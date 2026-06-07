@@ -12,6 +12,7 @@ lng: -75.5200
 zipSample: ["19460"]
 zipCodes: ["19460"]
 localPaths: ["Chester County / primary ZIP 19460", "Chester County / coords 40.1400, -75.5200", "Chester County / elevation 131 ft band", "Chester County / ZIP 19460 sector"]
+zillowHomeValueUsd: 517845
 ---
 
 **Engineering Notice for Phoenixville:** Structural loading calculated based on 131 ft terrain assessment. Regional dispatch grid: Chester County.

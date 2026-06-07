@@ -11,6 +11,7 @@ lng: -80.1100
 zipSample: ["33468", "33458", "33477"]
 zipCodes: ["33468", "33458", "33477"]
 localPaths: ["Palm Beach County / elevation 23 ft band", "Palm Beach County / primary ZIP 33477", "Palm Beach County / ZIP 33468 sector", "Palm Beach County / coords 26.9200, -80.1100", "Palm Beach County / ZIP 33458 sector"]
+zillowHomeValueUsd: 676982
 ---
 
 **Engineering Notice for Jupiter:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Palm Beach County.

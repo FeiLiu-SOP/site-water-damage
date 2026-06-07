@@ -11,6 +11,7 @@ lng: -96.5200
 zipSample: ["75166", "75098", "75173"]
 zipCodes: ["75098", "75173", "75166"]
 localPaths: ["Collin County / primary ZIP 75098", "Collin County / ZIP 75098 sector", "Collin County / ZIP 75166 sector", "Collin County / elevation 525 ft band", "Collin County / ZIP 75173 sector"]
+zillowHomeValueUsd: 423198
 ---
 
 **Engineering Notice for Wylie:** Structural loading calculated based on 525 ft terrain assessment. Regional dispatch grid: Collin County.

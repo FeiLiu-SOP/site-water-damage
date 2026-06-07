@@ -12,6 +12,7 @@ lng: -122.0300
 zipSample: ["94560"]
 zipCodes: ["94560"]
 localPaths: ["Alameda County / ZIP 94560 sector", "Alameda County / primary ZIP 94560", "Alameda County / elevation 13 ft band", "Alameda County / coords 37.5200, -122.0300"]
+zillowHomeValueUsd: 1260689
 ---
 
 **Engineering Notice for Newark:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Alameda County.

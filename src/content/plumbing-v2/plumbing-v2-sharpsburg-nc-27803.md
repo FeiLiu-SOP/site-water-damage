@@ -12,6 +12,7 @@ lng: -77.8300
 zipSample: ["27878", "27803"]
 zipCodes: ["27803", "27878"]
 localPaths: ["Nash County / coords 35.8700, -77.8300", "Nash County / primary ZIP 27803", "Nash County / ZIP 27878 sector", "Nash County / elevation 151 ft band", "Nash County / ZIP 27803 sector"]
+zillowHomeValueUsd: 206772
 ---
 
 **Engineering Notice for Sharpsburg:** System optimized for 125 mg/L hard water scaling factors in Sharpsburg. Regional dispatch grid: Nash County.

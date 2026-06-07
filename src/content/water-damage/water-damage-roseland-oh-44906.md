@@ -12,6 +12,7 @@ lng: -82.5500
 zipSample: ["44906"]
 zipCodes: ["44906"]
 localPaths: ["Richland County / ZIP 44906 sector", "Richland County / coords 40.7900, -82.5500", "Richland County / elevation 1263 ft band", "Richland County / primary ZIP 44906"]
+zillowHomeValueUsd: 168361
 ---
 
 **Engineering Notice for Roseland:** structural drying capacity optimized for 1263ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Richland County. Relative Humidity Threshold: 80%. Sensor sync: Active.

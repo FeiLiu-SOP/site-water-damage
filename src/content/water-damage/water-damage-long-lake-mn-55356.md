@@ -12,6 +12,7 @@ lng: -93.5700
 zipSample: ["55356"]
 zipCodes: ["55356"]
 localPaths: ["Hennepin County / elevation 961 ft band", "Hennepin County / ZIP 55356 sector", "Hennepin County / primary ZIP 55356", "Hennepin County / coords 44.9800, -93.5700"]
+zillowHomeValueUsd: 795593
 ---
 
 **Engineering Notice for Long Lake:** structural drying capacity optimized for 961ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hennepin County. Relative Humidity Threshold: 67%. Sensor sync: Active.

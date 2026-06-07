@@ -12,6 +12,7 @@ lng: -93.5700
 zipSample: ["50125"]
 zipCodes: ["50125"]
 localPaths: ["Warren County / elevation 958 ft band", "Warren County / ZIP 50125 sector", "Warren County / primary ZIP 50125", "Warren County / coords 41.3600, -93.5700"]
+zillowHomeValueUsd: 309564
 ---
 
 **Engineering Notice for Indianola:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Warren County.

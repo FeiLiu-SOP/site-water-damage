@@ -12,6 +12,7 @@ lng: -97.4600
 zipSample: ["68748"]
 zipCodes: ["68748"]
 localPaths: ["Madison County / ZIP 68748 sector", "Madison County / elevation 1581 ft band", "Madison County / coords 41.8300, -97.4600", "Madison County / primary ZIP 68748"]
+zillowHomeValueUsd: 214271
 ---
 
 **Engineering Notice for Madison:** System optimized for 174 mg/L hard water scaling factors in Madison. Regional dispatch grid: Madison County.

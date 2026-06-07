@@ -12,6 +12,8 @@ lng: -115.6200
 zipSample: ["92281"]
 zipCodes: ["92281"]
 localPaths: ["Imperial County / ZIP 92281 sector", "Imperial County / primary ZIP 92281", "Imperial County / coords 33.0400, -115.6200", "Imperial County / elevation -159 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 839978
 ---
 
 **Engineering Notice for Westmorland:** System optimized for 167 mg/L hard water scaling factors in Westmorland. Regional dispatch grid: Imperial County.

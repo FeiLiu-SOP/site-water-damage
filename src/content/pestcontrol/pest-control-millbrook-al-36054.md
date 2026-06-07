@@ -11,6 +11,7 @@ lng: -86.3700
 zipSample: ["36054", "36022"]
 zipCodes: ["36022", "36054"]
 localPaths: ["Elmore County / coords 32.5000, -86.3700", "Elmore County / ZIP 36022 sector", "Elmore County / elevation 266 ft band", "Elmore County / ZIP 36054 sector", "Elmore County / primary ZIP 36054"]
+zillowHomeValueUsd: 219951
 ---
 
 **Engineering Notice for Millbrook:** Structural loading calculated based on 266 ft terrain assessment. Regional dispatch grid: Elmore County.

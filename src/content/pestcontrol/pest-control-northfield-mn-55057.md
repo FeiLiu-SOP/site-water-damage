@@ -11,6 +11,7 @@ lng: -93.1700
 zipSample: ["55057"]
 zipCodes: ["55057"]
 localPaths: ["Rice County / primary ZIP 55057", "Rice County / coords 44.4500, -93.1700", "Rice County / ZIP 55057 sector", "Rice County / elevation 932 ft band"]
+zillowHomeValueUsd: 385619
 ---
 
 **Engineering Notice for Northfield:** Structural loading calculated based on 932 ft terrain assessment. Regional dispatch grid: Rice County.

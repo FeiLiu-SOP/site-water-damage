@@ -11,6 +11,7 @@ lng: -98.5200
 zipSample: ["78259", "78299", "78268", "78256", "78252"]
 zipCodes: ["78201", "78219", "78073", "78245", "78269", "78023", "78250", "78231", "78254", "78251", "78279", "78112"]
 localPaths: ["Bexar County / ZIP 78252 sector", "Bexar County / primary ZIP 78112", "Bexar County / elevation 732 ft band", "Bexar County / ZIP 78268 sector", "Bexar County / ZIP 78299 sector"]
+zillowHomeValueUsd: 234004
 ---
 
 **Engineering Notice for San Antonio:** Structural loading calculated based on 732 ft terrain assessment. Regional dispatch grid: Bexar County.

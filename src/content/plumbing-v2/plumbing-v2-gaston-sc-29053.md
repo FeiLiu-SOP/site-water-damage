@@ -12,6 +12,7 @@ lng: -81.1000
 zipSample: ["29053"]
 zipCodes: ["29053"]
 localPaths: ["Lexington County / elevation 499 ft band", "Lexington County / ZIP 29053 sector", "Lexington County / coords 33.8200, -81.1000", "Lexington County / primary ZIP 29053"]
+zillowHomeValueUsd: 164044
 ---
 
 **Engineering Notice for Gaston:** System optimized for 155 mg/L hard water scaling factors in Gaston. Regional dispatch grid: Lexington County.

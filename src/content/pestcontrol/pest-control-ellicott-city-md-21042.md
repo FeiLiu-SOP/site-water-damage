@@ -11,6 +11,7 @@ lng: -76.8300
 zipSample: ["21043", "21041", "21042"]
 zipCodes: ["21042", "21041", "21043"]
 localPaths: ["Howard County / elevation 384 ft band", "Howard County / ZIP 21043 sector", "Howard County / ZIP 21042 sector", "Howard County / primary ZIP 21042", "Howard County / coords 39.2800, -76.8300"]
+zillowHomeValueUsd: 809320
 ---
 
 **Engineering Notice for Ellicott City:** Structural loading calculated based on 384 ft terrain assessment. Regional dispatch grid: Howard County.

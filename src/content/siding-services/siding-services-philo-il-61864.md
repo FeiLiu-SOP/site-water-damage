@@ -12,6 +12,7 @@ lng: -88.1600
 zipSample: ["61864"]
 zipCodes: ["61864"]
 localPaths: ["Champaign County / coords 40.0000, -88.1600", "Champaign County / ZIP 61864 sector", "Champaign County / elevation 741 ft band", "Champaign County / primary ZIP 61864"]
+zillowHomeValueUsd: 251208
 ---
 
 **Engineering Notice for Philo:** Site context locked to Champaign County. Elevation: 741 ft AMSL. Exterior Envelope integrity verification recorded.

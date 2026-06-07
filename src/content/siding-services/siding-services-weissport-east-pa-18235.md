@@ -12,6 +12,7 @@ lng: -75.6900
 zipSample: ["18235"]
 zipCodes: ["18235"]
 localPaths: ["Carbon County / ZIP 18235 sector", "Carbon County / elevation 620 ft band", "Carbon County / primary ZIP 18235", "Carbon County / coords 40.8400, -75.6900"]
+zillowHomeValueUsd: 276162
 ---
 
 **Engineering Notice for Weissport East:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 1.20. Elevation: 620 ft AMSL. Regional dispatch grid: Carbon County.

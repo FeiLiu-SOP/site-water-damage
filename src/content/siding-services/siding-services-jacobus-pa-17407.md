@@ -12,6 +12,7 @@ lng: -76.7100
 zipSample: ["17407"]
 zipCodes: ["17407"]
 localPaths: ["York County / coords 39.8800, -76.7100", "York County / elevation 686 ft band", "York County / ZIP 17407 sector", "York County / primary ZIP 17407"]
+zillowHomeValueUsd: 325459
 ---
 
 **Engineering Notice for Jacobus:** Structural integrity verification: Cladding Service calibrated for 96 mph localized wind load factor. Regional dispatch grid: York County.

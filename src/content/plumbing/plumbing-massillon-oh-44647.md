@@ -12,6 +12,7 @@ lng: -81.5300
 zipSample: ["44647", "44646"]
 zipCodes: ["44647", "44646"]
 localPaths: ["Stark County / ZIP 44646 sector", "Stark County / primary ZIP 44647", "Stark County / coords 40.7800, -81.5300", "Stark County / ZIP 44647 sector", "Stark County / elevation 984 ft band"]
+zillowHomeValueUsd: 184204
 ---
 
 **Engineering Notice for Massillon:** Structural loading calculated based on 984 ft terrain assessment. Regional dispatch grid: Stark County.

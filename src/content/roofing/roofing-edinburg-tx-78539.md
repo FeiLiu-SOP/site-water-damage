@@ -11,6 +11,7 @@ lng: -98.1600
 zipSample: ["78542", "78539", "78541"]
 zipCodes: ["78541", "78542", "78539"]
 localPaths: ["Hidalgo County / primary ZIP 78539", "Hidalgo County / coords 26.3200, -98.1600", "Hidalgo County / ZIP 78542 sector", "Hidalgo County / ZIP 78539 sector", "Hidalgo County / ZIP 78541 sector"]
+zillowHomeValueUsd: 244081
 ---
 
 **Engineering Notice for Edinburg:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Hidalgo County.

@@ -12,6 +12,7 @@ lng: -86.1700
 zipSample: ["49057"]
 zipCodes: ["49057"]
 localPaths: ["Van Buren County / elevation 676 ft band", "Van Buren County / coords 42.2000, -86.1700", "Van Buren County / primary ZIP 49057", "Van Buren County / ZIP 49057 sector"]
+zillowHomeValueUsd: 170824
 ---
 
 **Engineering Notice for Hartford:** System optimized for 122 mg/L hard water scaling factors in Hartford. Regional dispatch grid: Van Buren County.

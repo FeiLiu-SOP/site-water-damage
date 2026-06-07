@@ -12,6 +12,8 @@ lng: -110.7300
 zipSample: ["84542", "84501"]
 zipCodes: ["84542", "84501"]
 localPaths: ["Carbon County / ZIP 84542 sector", "Carbon County / primary ZIP 84542", "Carbon County / ZIP 84501 sector", "Carbon County / elevation 5394 ft band", "Carbon County / coords 39.5400, -110.7300"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 544798
 ---
 
 **Engineering Notice for Wellington:** Surface Sheathing was validated under stress factor 1.14; target tolerance set near 97 mph. Coordinates: 39.5400, -110.7300. Grid anchor: Carbon County.

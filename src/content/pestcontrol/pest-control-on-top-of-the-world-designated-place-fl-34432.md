@@ -11,6 +11,7 @@ lng: -82.2900
 zipSample: ["34432", "34481"]
 zipCodes: ["34432", "34481"]
 localPaths: ["Marion County / primary ZIP 34432", "Marion County / ZIP 34481 sector", "Marion County / ZIP 34432 sector", "Marion County / coords 29.1100, -82.2900", "Marion County / elevation 66 ft band"]
+zillowHomeValueUsd: 303053
 ---
 
 **Engineering Notice for On Top of the World Designated Place:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Marion County.

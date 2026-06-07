@@ -12,6 +12,7 @@ lng: -75.4200
 zipSample: ["19061"]
 zipCodes: ["19061"]
 localPaths: ["Delaware County / coords 39.8100, -75.4200", "Delaware County / elevation 7 ft band", "Delaware County / ZIP 19061 sector", "Delaware County / primary ZIP 19061"]
+zillowHomeValueUsd: 275763
 ---
 
 **Engineering Notice for Marcus Hook:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Elevation: 7 ft AMSL. Coordinates: 39.8100, -75.4200. Grid: Delaware County.

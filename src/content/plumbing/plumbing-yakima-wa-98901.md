@@ -12,6 +12,7 @@ lng: -120.5500
 zipSample: ["98907", "98908", "98901", "98903", "98904"]
 zipCodes: ["98902", "98908", "98903", "98904", "98901", "98907"]
 localPaths: ["Yakima County / ZIP 98907 sector", "Yakima County / primary ZIP 98901", "Yakima County / ZIP 98901 sector", "Yakima County / ZIP 98904 sector", "Yakima County / coords 46.5900, -120.5500"]
+zillowHomeValueUsd: 333781
 ---
 
 **Engineering Notice for Yakima:** Structural loading calculated based on 1198 ft terrain assessment. Regional dispatch grid: Yakima County.

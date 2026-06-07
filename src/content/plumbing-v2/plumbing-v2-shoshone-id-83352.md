@@ -12,6 +12,7 @@ lng: -114.4100
 zipSample: ["83352"]
 zipCodes: ["83352"]
 localPaths: ["Lincoln County / ZIP 83352 sector", "Lincoln County / coords 42.9400, -114.4100", "Lincoln County / primary ZIP 83352", "Lincoln County / elevation 3973 ft band"]
+zillowHomeValueUsd: 302798
 ---
 
 **Engineering Notice for Shoshone:** System optimized for 137 mg/L hard water scaling factors in Shoshone. Regional dispatch grid: Lincoln County.

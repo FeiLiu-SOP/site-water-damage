@@ -12,6 +12,7 @@ lng: -81.5200
 zipSample: ["29702"]
 zipCodes: ["29702"]
 localPaths: ["Cherokee County / ZIP 29702 sector", "Cherokee County / primary ZIP 29702", "Cherokee County / coords 35.1200, -81.5200", "Cherokee County / elevation 761 ft band"]
+zillowHomeValueUsd: 160086
 ---
 
 **Engineering Notice for Blacksburg:** System optimized for 171 mg/L hard water scaling factors in Blacksburg. Regional dispatch grid: Cherokee County.

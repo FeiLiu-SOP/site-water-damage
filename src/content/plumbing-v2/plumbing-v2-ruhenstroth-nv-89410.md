@@ -12,6 +12,7 @@ lng: -119.6800
 zipSample: ["89410"]
 zipCodes: ["89410"]
 localPaths: ["Douglas County / coords 38.8900, -119.6800", "Douglas County / ZIP 89410 sector", "Douglas County / elevation 4990 ft band", "Douglas County / primary ZIP 89410"]
+zillowHomeValueUsd: 623515
 ---
 
 **Engineering Notice for Ruhenstroth:** System optimized for 178 mg/L hard water scaling factors in Ruhenstroth. Regional dispatch grid: Douglas County.

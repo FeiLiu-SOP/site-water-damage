@@ -11,6 +11,7 @@ lng: -96.5000
 zipSample: ["75407"]
 zipCodes: ["75407"]
 localPaths: ["Collin County / elevation 558 ft band", "Collin County / coords 33.1800, -96.5000", "Collin County / primary ZIP 75407", "Collin County / ZIP 75407 sector"]
+zillowHomeValueUsd: 293566
 ---
 
 **Engineering Notice for Princeton:** Structural loading calculated based on 558 ft terrain assessment. Regional dispatch grid: Collin County.

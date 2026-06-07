@@ -12,6 +12,7 @@ lng: -105.9400
 zipSample: ["87522"]
 zipCodes: ["87522"]
 localPaths: ["Santa Fe County / elevation 6066 ft band", "Santa Fe County / ZIP 87522 sector", "Santa Fe County / primary ZIP 87522", "Santa Fe County / coords 36.0000, -105.9400"]
+zillowHomeValueUsd: 328281
 ---
 
 **Engineering Notice for Chimayo:** Envelope check: Wall Restoration assigned to wind-load band A with stress factor 1.17. Elevation: 6066 ft AMSL. Regional dispatch grid: Santa Fe County.

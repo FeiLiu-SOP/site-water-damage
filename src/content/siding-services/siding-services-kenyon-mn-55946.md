@@ -12,6 +12,7 @@ lng: -92.9900
 zipSample: ["55946"]
 zipCodes: ["55946"]
 localPaths: ["Goodhue County / ZIP 55946 sector", "Goodhue County / elevation 1152 ft band", "Goodhue County / coords 44.2700, -92.9900", "Goodhue County / primary ZIP 55946"]
+zillowHomeValueUsd: 296039
 ---
 
 **Engineering Notice for Kenyon:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 0.84. Elevation: 1152 ft AMSL. Regional dispatch grid: Goodhue County.

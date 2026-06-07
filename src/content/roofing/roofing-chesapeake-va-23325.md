@@ -11,6 +11,7 @@ lng: -76.3000
 zipSample: ["23325", "23323", "23322", "23326", "23328"]
 zipCodes: ["23323", "23325", "23327", "23324", "23320", "23328", "23326", "23322", "23321"]
 localPaths: ["Chesapeake County / ZIP 23323 sector", "Chesapeake County / coords 36.6800, -76.3000", "Chesapeake County / elevation 13 ft band", "Chesapeake County / ZIP 23328 sector", "Chesapeake County / ZIP 23326 sector"]
+zillowHomeValueUsd: 321716
 ---
 
 **Engineering Notice for Chesapeake:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Chesapeake County.

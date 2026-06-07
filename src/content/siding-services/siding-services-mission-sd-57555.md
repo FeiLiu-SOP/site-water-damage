@@ -12,6 +12,8 @@ lng: -100.6600
 zipSample: ["57555"]
 zipCodes: ["57555"]
 localPaths: ["Todd County / ZIP 57555 sector", "Todd County / elevation 2579 ft band", "Todd County / coords 43.3100, -100.6600", "Todd County / primary ZIP 57555"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 307512
 ---
 
 **Engineering Notice for Mission:** Site context locked to Todd County. Cladding Retrofit integrity verification recorded.

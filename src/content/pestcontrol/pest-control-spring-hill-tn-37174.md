@@ -11,6 +11,7 @@ lng: -86.9100
 zipSample: ["37179", "37174"]
 zipCodes: ["37174", "37179"]
 localPaths: ["Maury County / ZIP 37174 sector", "Maury County / coords 35.7400, -86.9100", "Maury County / ZIP 37179 sector", "Maury County / elevation 771 ft band", "Maury County / primary ZIP 37174"]
+zillowHomeValueUsd: 517933
 ---
 
 **Engineering Notice for Spring Hill:** Structural loading calculated based on 771 ft terrain assessment. Regional dispatch grid: Maury County.

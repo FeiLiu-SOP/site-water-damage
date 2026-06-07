@@ -12,6 +12,7 @@ lng: -111.2700
 zipSample: ["84036"]
 zipCodes: ["84036"]
 localPaths: ["Summit County / primary ZIP 84036", "Summit County / ZIP 84036 sector", "Summit County / elevation 6680 ft band", "Summit County / coords 40.6500, -111.2700"]
+zillowHomeValueUsd: 1017831
 ---
 
 **Engineering Notice for Kamas:** Site context locked to Summit County. Cladding Service integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -122.3000
 zipSample: ["98036", "98037", "98046"]
 zipCodes: ["98046", "98036", "98037"]
 localPaths: ["Snohomish County / coords 47.8300, -122.3000", "Snohomish County / ZIP 98036 sector", "Snohomish County / ZIP 98046 sector", "Snohomish County / ZIP 98037 sector", "Snohomish County / elevation 423 ft band"]
+zillowHomeValueUsd: 806910
 ---
 
 **Engineering Notice for Lynnwood:** Structural loading calculated based on 423 ft terrain assessment. Regional dispatch grid: Snohomish County.

@@ -11,6 +11,7 @@ lng: -73.6400
 zipSample: ["11599", "11530", "11531"]
 zipCodes: ["11531", "11530", "11599"]
 localPaths: ["Nassau County / elevation 95 ft band", "Nassau County / ZIP 11530 sector", "Nassau County / ZIP 11531 sector", "Nassau County / coords 40.7300, -73.6400", "Nassau County / ZIP 11599 sector"]
+zillowHomeValueUsd: 1281254
 ---
 
 **Engineering Notice for Garden City:** Structural loading calculated based on 95 ft terrain assessment. Regional dispatch grid: Nassau County.

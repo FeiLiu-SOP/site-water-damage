@@ -11,6 +11,7 @@ lng: -83.3700
 zipSample: ["30605", "30683", "30609", "30622", "30601"]
 zipCodes: ["30602", "30683", "30607", "30609", "30601", "30622", "30608", "30606", "30603", "30605"]
 localPaths: ["Clarke County / ZIP 30622 sector", "Clarke County / ZIP 30601 sector", "Clarke County / primary ZIP 30602", "Clarke County / ZIP 30683 sector", "Clarke County / ZIP 30609 sector"]
+zillowHomeValueUsd: 369307
 ---
 
 **Engineering Notice for Athens:** Structural loading calculated based on 640 ft terrain assessment. Regional dispatch grid: Clarke County.

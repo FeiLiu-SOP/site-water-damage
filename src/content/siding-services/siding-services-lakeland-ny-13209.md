@@ -12,6 +12,7 @@ lng: -76.2400
 zipSample: ["13209"]
 zipCodes: ["13209"]
 localPaths: ["Onondaga County / primary ZIP 13209", "Onondaga County / ZIP 13209 sector", "Onondaga County / coords 43.0900, -76.2400", "Onondaga County / elevation 505 ft band"]
+zillowHomeValueUsd: 226729
 ---
 
 **Engineering Notice for Lakeland:** Exterior Envelope was validated under stress factor 0.81; target tolerance set near 92 mph. Coordinates: 43.0900, -76.2400. Grid anchor: Onondaga County.

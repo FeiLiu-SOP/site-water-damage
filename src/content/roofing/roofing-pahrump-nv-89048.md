@@ -11,6 +11,7 @@ lng: -116.0000
 zipSample: ["89041", "89060", "89048", "89061"]
 zipCodes: ["89060", "89061", "89041", "89048"]
 localPaths: ["Nye County / coords 36.2200, -116.0000", "Nye County / ZIP 89061 sector", "Nye County / primary ZIP 89048", "Nye County / ZIP 89041 sector", "Nye County / ZIP 89060 sector"]
+zillowHomeValueUsd: 371901
 ---
 
 **Engineering Notice for Pahrump:** Structural loading calculated based on 2628 ft terrain assessment. Regional dispatch grid: Nye County.

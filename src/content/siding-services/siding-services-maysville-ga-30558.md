@@ -12,6 +12,7 @@ lng: -83.5500
 zipSample: ["30558"]
 zipCodes: ["30558"]
 localPaths: ["Jackson County / coords 34.2600, -83.5500", "Jackson County / primary ZIP 30558", "Jackson County / ZIP 30558 sector", "Jackson County / elevation 889 ft band"]
+zillowHomeValueUsd: 355063
 ---
 
 **Engineering Notice for Maysville:** Cladding verification uses 98 mph routing baseline; lateral pressure note: 13.0 psf. Grid: Jackson County.

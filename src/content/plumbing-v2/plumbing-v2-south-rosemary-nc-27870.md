@@ -12,6 +12,7 @@ lng: -77.7100
 zipSample: ["27870"]
 zipCodes: ["27870"]
 localPaths: ["Halifax County / primary ZIP 27870", "Halifax County / elevation 253 ft band", "Halifax County / coords 36.4500, -77.7100", "Halifax County / ZIP 27870 sector"]
+zillowHomeValueUsd: 120711
 ---
 
 **Engineering Notice for South Rosemary:** System optimized for 177 mg/L hard water scaling factors in South Rosemary. Regional dispatch grid: Halifax County.

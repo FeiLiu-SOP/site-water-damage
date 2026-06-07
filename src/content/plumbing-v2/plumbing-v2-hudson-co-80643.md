@@ -12,6 +12,7 @@ lng: -104.6200
 zipSample: ["80642", "80643"]
 zipCodes: ["80643", "80642"]
 localPaths: ["Weld County / ZIP 80642 sector", "Weld County / coords 40.0900, -104.6200", "Weld County / primary ZIP 80643", "Weld County / ZIP 80643 sector", "Weld County / elevation 4941 ft band"]
+zillowHomeValueUsd: 533904
 ---
 
 **Engineering Notice for Hudson:** System optimized for 151 mg/L hard water scaling factors in Hudson. Regional dispatch grid: Weld County.

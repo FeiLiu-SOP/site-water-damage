@@ -12,6 +12,7 @@ lng: -83.5500
 zipSample: ["37820"]
 zipCodes: ["37820"]
 localPaths: ["Jefferson County / coords 36.1100, -83.5500", "Jefferson County / primary ZIP 37820", "Jefferson County / elevation 1060 ft band", "Jefferson County / ZIP 37820 sector"]
+zillowHomeValueUsd: 317533
 ---
 
 **Engineering Notice for New Market:** Envelope check: Wall Restoration assigned to wind-load band B with stress factor 0.94. Regional dispatch grid: Jefferson County.

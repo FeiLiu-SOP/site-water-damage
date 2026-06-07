@@ -12,6 +12,7 @@ lng: -68.7100
 zipSample: ["04401"]
 zipCodes: ["04401"]
 localPaths: ["Penobscot County / coords 44.8400, -68.7100", "Penobscot County / ZIP 04401 sector", "Penobscot County / elevation 177 ft band", "Penobscot County / primary ZIP 04401"]
+zillowHomeValueUsd: 299416
 ---
 
 **Engineering Notice for Veazie:** System optimized for 133 mg/L hard water scaling factors in Veazie. Regional dispatch grid: Penobscot County.

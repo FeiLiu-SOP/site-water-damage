@@ -12,6 +12,7 @@ lng: -92.4400
 zipSample: ["54015"]
 zipCodes: ["54015"]
 localPaths: ["St. Croix County / elevation 1083 ft band", "St. Croix County / coords 44.9700, -92.4400", "St. Croix County / ZIP 54015 sector", "St. Croix County / primary ZIP 54015"]
+zillowHomeValueUsd: 380883
 ---
 
 **Engineering Notice for Hammond:** Surface Sheathing was validated under stress factor 0.79; target tolerance set near 96 mph. Grid anchor: St. Croix County.

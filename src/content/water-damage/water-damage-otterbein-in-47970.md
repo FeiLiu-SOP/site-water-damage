@@ -12,6 +12,7 @@ lng: -87.0900
 zipSample: ["47970"]
 zipCodes: ["47970"]
 localPaths: ["Tippecanoe County / elevation 705 ft band", "Tippecanoe County / primary ZIP 47970", "Tippecanoe County / ZIP 47970 sector", "Tippecanoe County / coords 40.4900, -87.0900"]
+zillowHomeValueUsd: 213406
 ---
 
 **Engineering Notice for Otterbein:** structural drying capacity optimized for 705ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Tippecanoe County. Relative Humidity Threshold: 81%. Sensor sync: Active.

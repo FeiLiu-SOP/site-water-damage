@@ -11,6 +11,7 @@ lng: -79.0100
 zipSample: ["29588"]
 zipCodes: ["29588"]
 localPaths: ["Horry County / coords 33.6900, -79.0100", "Horry County / primary ZIP 29588", "Horry County / ZIP 29588 sector", "Horry County / elevation 33 ft band"]
+zillowHomeValueUsd: 320364
 ---
 
 **Engineering Notice for Socastee:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Horry County.

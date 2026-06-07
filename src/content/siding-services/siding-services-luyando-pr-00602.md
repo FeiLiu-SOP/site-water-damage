@@ -12,6 +12,8 @@ lng: -67.1600
 zipSample: ["00602"]
 zipCodes: ["00602"]
 localPaths: ["Aguada County / primary ZIP 00602", "Aguada County / ZIP 00602 sector", "Aguada County / coords 18.3600, -67.1600", "Aguada County / elevation 413 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 382693
 ---
 
 **Engineering Notice for Luyando:** Cladding verification uses 90 mph routing baseline; lateral pressure note: 12.0 psf. Grid: Aguada County.

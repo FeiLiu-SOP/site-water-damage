@@ -11,6 +11,7 @@ lng: -122.1600
 zipSample: ["94622", "94579", "94578", "94577"]
 zipCodes: ["94577", "94578", "94579", "94622"]
 localPaths: ["Alameda County / coords 37.7100, -122.1600", "Alameda County / ZIP 94579 sector", "Alameda County / elevation 20 ft band", "Alameda County / ZIP 94577 sector", "Alameda County / ZIP 94622 sector"]
+zillowHomeValueUsd: 788050
 ---
 
 **Engineering Notice for San Leandro:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Alameda County.

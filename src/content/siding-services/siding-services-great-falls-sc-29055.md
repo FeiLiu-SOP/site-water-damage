@@ -12,6 +12,7 @@ lng: -80.9000
 zipSample: ["29055"]
 zipCodes: ["29055"]
 localPaths: ["Chester County / elevation 420 ft band", "Chester County / ZIP 29055 sector", "Chester County / primary ZIP 29055", "Chester County / coords 34.5800, -80.9000"]
+zillowHomeValueUsd: 143418
 ---
 
 **Engineering Notice for Great Falls:** Wall Restoration was validated under stress factor 0.93; target tolerance set near 98 mph. Coordinates: 34.5800, -80.9000. Grid anchor: Chester County.

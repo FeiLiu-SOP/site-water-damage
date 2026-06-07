@@ -12,6 +12,7 @@ lng: -96.4700
 zipSample: ["77807"]
 zipCodes: ["77807"]
 localPaths: ["Brazos County / elevation 374 ft band", "Brazos County / coords 30.7200, -96.4700", "Brazos County / primary ZIP 77807", "Brazos County / ZIP 77807 sector"]
+zillowHomeValueUsd: 291743
 ---
 
 **Engineering Notice for Lake Bryan:** Structural integrity verification: Cladding Service calibrated for 131 mph localized wind load factor. Elevation: 374 ft AMSL. Coordinates: 30.7200, -96.4700. Regional dispatch grid: Brazos County.

@@ -11,6 +11,7 @@ lng: -75.5200
 zipSample: ["19901", "19906", "19904", "19902", "19905"]
 zipCodes: ["19901", "19902", "19906", "19905", "19904"]
 localPaths: ["Kent County / ZIP 19902 sector", "Kent County / elevation 13 ft band", "Kent County / coords 39.1600, -75.5200", "Kent County / ZIP 19905 sector", "Kent County / primary ZIP 19902"]
+zillowHomeValueUsd: 341249
 ---
 
 **Engineering Notice for Dover:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Kent County.

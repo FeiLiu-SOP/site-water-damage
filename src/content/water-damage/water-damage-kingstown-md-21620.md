@@ -12,6 +12,7 @@ lng: -76.0500
 zipSample: ["21620"]
 zipCodes: ["21620"]
 localPaths: ["Queen Anne's County / primary ZIP 21620", "Queen Anne's County / elevation 16 ft band", "Queen Anne's County / coords 39.2000, -76.0500", "Queen Anne's County / ZIP 21620 sector"]
+zillowHomeValueUsd: 390157
 ---
 
 **Engineering Notice for Kingstown:** structural drying capacity optimized for 16ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Queen Anne's County. Relative Humidity Threshold: 79%. Sensor sync: Active.

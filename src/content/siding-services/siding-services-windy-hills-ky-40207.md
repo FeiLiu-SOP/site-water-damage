@@ -12,6 +12,7 @@ lng: -85.6400
 zipSample: ["40207"]
 zipCodes: ["40207"]
 localPaths: ["Jefferson County / primary ZIP 40207", "Jefferson County / ZIP 40207 sector", "Jefferson County / elevation 574 ft band", "Jefferson County / coords 38.2700, -85.6400"]
+zillowHomeValueUsd: 422548
 ---
 
 **Engineering Notice for Windy Hills:** Site context locked to Jefferson County. Elevation: 574 ft AMSL. Panel Replacement integrity verification recorded.

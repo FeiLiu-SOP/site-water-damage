@@ -12,6 +12,7 @@ lng: -91.2100
 zipSample: ["54758"]
 zipCodes: ["54758"]
 localPaths: ["Trempealeau County / ZIP 54758 sector", "Trempealeau County / primary ZIP 54758", "Trempealeau County / coords 44.5800, -91.2100", "Trempealeau County / elevation 1004 ft band"]
+zillowHomeValueUsd: 267277
 ---
 
 **Engineering Notice for Osseo:** Cladding verification uses 106 mph routing baseline; lateral pressure note: 13.9 psf. Coordinates: 44.5800, -91.2100. Grid: Trempealeau County.

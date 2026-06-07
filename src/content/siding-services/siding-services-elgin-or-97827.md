@@ -12,6 +12,7 @@ lng: -117.9200
 zipSample: ["97827"]
 zipCodes: ["97827"]
 localPaths: ["Union County / primary ZIP 97827", "Union County / coords 45.5600, -117.9200", "Union County / ZIP 97827 sector", "Union County / elevation 2680 ft band"]
+zillowHomeValueUsd: 268046
 ---
 
 **Engineering Notice for Elgin:** Structural integrity verification: Surface Sheathing calibrated for 102 mph localized wind load factor. Coordinates: 45.5600, -117.9200. Regional dispatch grid: Union County.

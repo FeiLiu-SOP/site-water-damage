@@ -11,6 +11,7 @@ lng: -118.0700
 zipSample: ["90606", "90610"]
 zipCodes: ["90606", "90610"]
 localPaths: ["Los Angeles County / coords 33.9800, -118.0700", "Los Angeles County / ZIP 90610 sector", "Los Angeles County / elevation 167 ft band", "Los Angeles County / primary ZIP 90606", "Los Angeles County / ZIP 90606 sector"]
+zillowHomeValueUsd: 775609
 ---
 
 **Engineering Notice for West Whittier-Los Nietos:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Los Angeles County.

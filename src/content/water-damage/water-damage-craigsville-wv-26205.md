@@ -12,6 +12,7 @@ lng: -80.6400
 zipSample: ["26205"]
 zipCodes: ["26205"]
 localPaths: ["Nicholas County / primary ZIP 26205", "Nicholas County / coords 38.3200, -80.6400", "Nicholas County / elevation 2313 ft band", "Nicholas County / ZIP 26205 sector"]
+zillowHomeValueUsd: 136495
 ---
 
 **Engineering Notice for Craigsville:** structural drying capacity optimized for 2313ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Nicholas County. Relative Humidity Threshold: 67%. Sensor sync: Active.

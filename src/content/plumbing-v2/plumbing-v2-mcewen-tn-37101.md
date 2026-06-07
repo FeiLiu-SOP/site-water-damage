@@ -12,6 +12,7 @@ lng: -87.6400
 zipSample: ["37101"]
 zipCodes: ["37101"]
 localPaths: ["Humphreys County / ZIP 37101 sector", "Humphreys County / elevation 843 ft band", "Humphreys County / coords 36.1100, -87.6400", "Humphreys County / primary ZIP 37101"]
+zillowHomeValueUsd: 278534
 ---
 
 **Engineering Notice for McEwen:** System optimized for 179 mg/L hard water scaling factors in McEwen. Regional dispatch grid: Humphreys County.

@@ -11,6 +11,7 @@ lng: -104.6800
 zipSample: ["80106", "80912", "80908"]
 zipCodes: ["80106", "80908", "80912"]
 localPaths: ["El Paso County / ZIP 80106 sector", "El Paso County / coords 39.0600, -104.6800", "El Paso County / elevation 7598 ft band", "El Paso County / ZIP 80912 sector", "El Paso County / primary ZIP 80908"]
+zillowHomeValueUsd: 673334
 ---
 
 **Engineering Notice for Black Forest:** Structural loading calculated based on 7598 ft terrain assessment. Regional dispatch grid: El Paso County.

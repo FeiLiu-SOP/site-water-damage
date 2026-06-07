@@ -12,6 +12,7 @@ lng: -84.7300
 zipSample: ["39837"]
 zipCodes: ["39837"]
 localPaths: ["Miller County / ZIP 39837 sector", "Miller County / elevation 184 ft band", "Miller County / coords 31.1700, -84.7300", "Miller County / primary ZIP 39837"]
+zillowHomeValueUsd: 161847
 ---
 
 **Engineering Notice for Colquitt:** System optimized for 164 mg/L hard water scaling factors in Colquitt. Regional dispatch grid: Miller County.

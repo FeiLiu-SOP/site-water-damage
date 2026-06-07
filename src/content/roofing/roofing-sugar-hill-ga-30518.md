@@ -11,6 +11,7 @@ lng: -84.0600
 zipSample: ["30518"]
 zipCodes: ["30518"]
 localPaths: ["Gwinnett County / coords 34.1100, -84.0600", "Gwinnett County / primary ZIP 30518", "Gwinnett County / ZIP 30518 sector", "Gwinnett County / elevation 1099 ft band"]
+zillowHomeValueUsd: 464396
 ---
 
 **Engineering Notice for Sugar Hill:** Structural loading calculated based on 1099 ft terrain assessment. Regional dispatch grid: Gwinnett County.

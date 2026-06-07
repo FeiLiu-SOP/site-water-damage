@@ -12,6 +12,7 @@ lng: -84.1500
 zipSample: ["48655"]
 zipCodes: ["48655"]
 localPaths: ["Saginaw County / coords 43.3000, -84.1500", "Saginaw County / ZIP 48655 sector", "Saginaw County / elevation 617 ft band", "Saginaw County / primary ZIP 48655"]
+zillowHomeValueUsd: 196678
 ---
 
 **Engineering Notice for St. Charles:** Structural integrity verification: Exterior Cladding calibrated for 100 mph localized wind load factor. Elevation: 617 ft AMSL. Regional dispatch grid: Saginaw County.

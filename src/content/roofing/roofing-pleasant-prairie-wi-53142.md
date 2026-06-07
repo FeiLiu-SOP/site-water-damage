@@ -11,6 +11,7 @@ lng: -87.8900
 zipSample: ["53158", "53142"]
 zipCodes: ["53142", "53158"]
 localPaths: ["Kenosha County / primary ZIP 53142", "Kenosha County / coords 42.5300, -87.8900", "Kenosha County / ZIP 53142 sector", "Kenosha County / elevation 725 ft band", "Kenosha County / ZIP 53158 sector"]
+zillowHomeValueUsd: 321252
 ---
 
 **Engineering Notice for Pleasant Prairie:** Structural loading calculated based on 725 ft terrain assessment. Regional dispatch grid: Kenosha County.

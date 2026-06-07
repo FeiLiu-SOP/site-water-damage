@@ -12,6 +12,7 @@ lng: -94.4600
 zipSample: ["72722"]
 zipCodes: ["72722"]
 localPaths: ["Benton County / elevation 1240 ft band", "Benton County / primary ZIP 72722", "Benton County / ZIP 72722 sector", "Benton County / coords 36.3400, -94.4600"]
+zillowHomeValueUsd: 286918
 ---
 
 **Engineering Notice for Decatur:** Cladding verification uses 99 mph routing baseline; lateral pressure note: 13.1 psf. Elevation: 1240 ft AMSL. Grid: Benton County.

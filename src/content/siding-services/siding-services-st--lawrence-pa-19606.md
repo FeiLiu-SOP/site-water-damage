@@ -12,6 +12,7 @@ lng: -75.8700
 zipSample: ["19606"]
 zipCodes: ["19606"]
 localPaths: ["Berks County / coords 40.3300, -75.8700", "Berks County / ZIP 19606 sector", "Berks County / elevation 364 ft band", "Berks County / primary ZIP 19606"]
+zillowHomeValueUsd: 297202
 ---
 
 **Engineering Notice for St. Lawrence:** Envelope check: Exterior Cladding assigned to wind-load band A with stress factor 1.15. Elevation: 364 ft AMSL. Regional dispatch grid: Berks County.

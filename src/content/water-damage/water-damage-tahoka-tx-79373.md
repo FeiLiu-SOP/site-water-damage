@@ -12,6 +12,7 @@ lng: -101.7900
 zipSample: ["79373"]
 zipCodes: ["79373"]
 localPaths: ["Lynn County / ZIP 79373 sector", "Lynn County / elevation 3094 ft band", "Lynn County / primary ZIP 79373", "Lynn County / coords 33.1600, -101.7900"]
+zillowHomeValueUsd: 167908
 ---
 
 **Engineering Notice for Tahoka:** structural drying capacity optimized for 3094ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lynn County. Relative Humidity Threshold: 73%. Sensor sync: Active.

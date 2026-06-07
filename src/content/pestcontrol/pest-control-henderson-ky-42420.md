@@ -11,6 +11,7 @@ lng: -87.5800
 zipSample: ["42419", "42420"]
 zipCodes: ["42420", "42419"]
 localPaths: ["Henderson County / coords 37.8400, -87.5800", "Henderson County / ZIP 42420 sector", "Henderson County / elevation 390 ft band", "Henderson County / primary ZIP 42420", "Henderson County / ZIP 42419 sector"]
+zillowHomeValueUsd: 199602
 ---
 
 **Engineering Notice for Henderson:** Structural loading calculated based on 390 ft terrain assessment. Regional dispatch grid: Henderson County.

@@ -12,6 +12,7 @@ lng: -122.4000
 zipSample: ["97060"]
 zipCodes: ["97060"]
 localPaths: ["Multnomah County / elevation 161 ft band", "Multnomah County / primary ZIP 97060", "Multnomah County / coords 45.5400, -122.4000", "Multnomah County / ZIP 97060 sector"]
+zillowHomeValueUsd: 485957
 ---
 
 **Engineering Notice for Troutdale:** Structural loading calculated based on 161 ft terrain assessment. Regional dispatch grid: Multnomah County.

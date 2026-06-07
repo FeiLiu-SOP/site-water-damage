@@ -11,6 +11,7 @@ lng: -76.8000
 zipSample: ["21133", "21208", "21163"]
 zipCodes: ["21133", "21163", "21208"]
 localPaths: ["Baltimore County / elevation 591 ft band", "Baltimore County / coords 39.3700, -76.8000", "Baltimore County / ZIP 21208 sector", "Baltimore County / primary ZIP 21163", "Baltimore County / ZIP 21163 sector"]
+zillowHomeValueUsd: 656637
 ---
 
 **Engineering Notice for Randallstown:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Baltimore County.

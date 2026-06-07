@@ -12,6 +12,7 @@ lng: -78.3200
 zipSample: ["16662"]
 zipCodes: ["16662"]
 localPaths: ["Blair County / elevation 1404 ft band", "Blair County / primary ZIP 16662", "Blair County / coords 40.3100, -78.3200", "Blair County / ZIP 16662 sector"]
+zillowHomeValueUsd: 243923
 ---
 
 **Engineering Notice for Martinsburg:** System optimized for 123 mg/L hard water scaling factors in Martinsburg. Regional dispatch grid: Blair County.

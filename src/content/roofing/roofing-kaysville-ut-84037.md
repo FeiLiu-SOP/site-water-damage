@@ -11,6 +11,7 @@ lng: -111.9500
 zipSample: ["84037"]
 zipCodes: ["84037"]
 localPaths: ["Davis County / elevation 4308 ft band", "Davis County / ZIP 84037 sector", "Davis County / coords 41.0300, -111.9500", "Davis County / primary ZIP 84037"]
+zillowHomeValueUsd: 701430
 ---
 
 **Engineering Notice for Kaysville:** Structural loading calculated based on 4308 ft terrain assessment. Regional dispatch grid: Davis County.

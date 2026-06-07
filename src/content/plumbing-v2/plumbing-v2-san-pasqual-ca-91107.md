@@ -12,6 +12,7 @@ lng: -118.1000
 zipSample: ["91107"]
 zipCodes: ["91107"]
 localPaths: ["Los Angeles County / coords 34.1400, -118.1000", "Los Angeles County / primary ZIP 91107", "Los Angeles County / ZIP 91107 sector", "Los Angeles County / elevation 712 ft band"]
+zillowHomeValueUsd: 1331285
 ---
 
 **Engineering Notice for San Pasqual:** System optimized for 140 mg/L hard water scaling factors in San Pasqual. Regional dispatch grid: Los Angeles County.

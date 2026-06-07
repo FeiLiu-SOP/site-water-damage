@@ -11,6 +11,7 @@ lng: -80.3000
 zipSample: ["33156"]
 zipCodes: ["33156"]
 localPaths: ["Miami-Dade County / primary ZIP 33156", "Miami-Dade County / coords 25.6600, -80.3000", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / ZIP 33156 sector"]
+zillowHomeValueUsd: 1509765
 ---
 
 **Engineering Notice for Pinecrest:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

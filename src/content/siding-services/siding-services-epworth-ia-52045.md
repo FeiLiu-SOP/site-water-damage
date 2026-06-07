@@ -12,6 +12,7 @@ lng: -90.9300
 zipSample: ["52045"]
 zipCodes: ["52045"]
 localPaths: ["Dubuque County / elevation 1047 ft band", "Dubuque County / primary ZIP 52045", "Dubuque County / ZIP 52045 sector", "Dubuque County / coords 42.4500, -90.9300"]
+zillowHomeValueUsd: 322907
 ---
 
 **Engineering Notice for Epworth:** Surface Sheathing was validated under stress factor 1.19; target tolerance set near 98 mph. Coordinates: 42.4500, -90.9300. Grid anchor: Dubuque County.

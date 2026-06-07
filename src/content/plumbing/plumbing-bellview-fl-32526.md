@@ -12,6 +12,7 @@ lng: -87.3100
 zipSample: ["32526"]
 zipCodes: ["32526"]
 localPaths: ["Escambia County / primary ZIP 32526", "Escambia County / coords 30.4600, -87.3100", "Escambia County / ZIP 32526 sector", "Escambia County / elevation 98 ft band"]
+zillowHomeValueUsd: 281308
 ---
 
 **Engineering Notice for Bellview:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Escambia County.

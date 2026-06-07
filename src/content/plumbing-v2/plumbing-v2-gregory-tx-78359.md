@@ -12,6 +12,8 @@ lng: -97.2900
 zipSample: ["78359"]
 zipCodes: ["78359"]
 localPaths: ["San Patricio County / coords 27.9200, -97.2900", "San Patricio County / ZIP 78359 sector", "San Patricio County / elevation 43 ft band", "San Patricio County / primary ZIP 78359"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 295711
 ---
 
 **Engineering Notice for Gregory:** System optimized for 146 mg/L hard water scaling factors in Gregory. Regional dispatch grid: San Patricio County.

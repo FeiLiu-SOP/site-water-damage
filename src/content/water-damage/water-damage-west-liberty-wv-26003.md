@@ -12,6 +12,7 @@ lng: -80.6000
 zipSample: ["26074", "26003"]
 zipCodes: ["26074", "26003"]
 localPaths: ["Ohio County / ZIP 26003 sector", "Ohio County / ZIP 26074 sector", "Ohio County / elevation 1102 ft band", "Ohio County / primary ZIP 26003", "Ohio County / coords 40.1600, -80.6000"]
+zillowHomeValueUsd: 156618
 ---
 
 **Engineering Notice for West Liberty:** structural drying capacity optimized for 1102ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ohio County. Relative Humidity Threshold: 65%. Sensor sync: Active.

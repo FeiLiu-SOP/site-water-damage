@@ -12,6 +12,7 @@ lng: -76.8600
 zipSample: ["17362"]
 zipCodes: ["17362"]
 localPaths: ["York County / primary ZIP 17362", "York County / elevation 502 ft band", "York County / ZIP 17362 sector", "York County / coords 39.8800, -76.8600"]
+zillowHomeValueUsd: 327590
 ---
 
 **Engineering Notice for Spring Grove:** Structural integrity verification: Panel Replacement calibrated for 97 mph localized wind load factor. Coordinates: 39.8800, -76.8600. Regional dispatch grid: York County.

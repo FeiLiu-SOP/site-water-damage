@@ -11,6 +11,7 @@ lng: -84.5200
 zipSample: ["30082", "30080", "30126", "30081"]
 zipCodes: ["30080", "30126", "30082", "30081"]
 localPaths: ["Cobb County / ZIP 30126 sector", "Cobb County / elevation 1040 ft band", "Cobb County / ZIP 30081 sector", "Cobb County / ZIP 30080 sector", "Cobb County / primary ZIP 30126"]
+zillowHomeValueUsd: 372328
 ---
 
 **Engineering Notice for Smyrna:** Structural loading calculated based on 1040 ft terrain assessment. Regional dispatch grid: Cobb County.

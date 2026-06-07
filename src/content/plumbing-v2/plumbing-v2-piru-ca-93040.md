@@ -12,6 +12,7 @@ lng: -118.8000
 zipSample: ["93040", "93015"]
 zipCodes: ["93040", "93015"]
 localPaths: ["Ventura County / coords 34.4100, -118.8000", "Ventura County / elevation 653 ft band", "Ventura County / ZIP 93015 sector", "Ventura County / primary ZIP 93040", "Ventura County / ZIP 93040 sector"]
+zillowHomeValueUsd: 579486
 ---
 
 **Engineering Notice for Piru:** System optimized for 128 mg/L hard water scaling factors in Piru. Regional dispatch grid: Ventura County.

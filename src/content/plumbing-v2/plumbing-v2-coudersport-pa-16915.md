@@ -12,6 +12,7 @@ lng: -78.0200
 zipSample: ["16915"]
 zipCodes: ["16915"]
 localPaths: ["Potter County / primary ZIP 16915", "Potter County / ZIP 16915 sector", "Potter County / coords 41.7800, -78.0200", "Potter County / elevation 1890 ft band"]
+zillowHomeValueUsd: 180733
 ---
 
 **Engineering Notice for Coudersport:** System optimized for 120 mg/L hard water scaling factors in Coudersport. Regional dispatch grid: Potter County.

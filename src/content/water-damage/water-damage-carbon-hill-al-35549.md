@@ -12,6 +12,7 @@ lng: -87.5200
 zipSample: ["35549"]
 zipCodes: ["35549"]
 localPaths: ["Walker County / ZIP 35549 sector", "Walker County / elevation 525 ft band", "Walker County / coords 33.8900, -87.5200", "Walker County / primary ZIP 35549"]
+zillowHomeValueUsd: 90873
 ---
 
 **Engineering Notice for Carbon Hill:** structural drying capacity optimized for 525ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Walker County. Relative Humidity Threshold: 79%. Sensor sync: Active.

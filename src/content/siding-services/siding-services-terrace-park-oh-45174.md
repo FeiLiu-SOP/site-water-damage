@@ -12,6 +12,7 @@ lng: -84.3100
 zipSample: ["45174"]
 zipCodes: ["45174"]
 localPaths: ["Hamilton County / elevation 581 ft band", "Hamilton County / coords 39.1600, -84.3100", "Hamilton County / primary ZIP 45174", "Hamilton County / ZIP 45174 sector"]
+zillowHomeValueUsd: 769766
 ---
 
 **Engineering Notice for Terrace Park:** Structural integrity verification: Cladding Service calibrated for 101 mph localized wind load factor. Coordinates: 39.1600, -84.3100. Regional dispatch grid: Hamilton County.

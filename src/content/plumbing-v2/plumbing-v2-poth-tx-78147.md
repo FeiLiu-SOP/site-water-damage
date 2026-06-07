@@ -12,6 +12,7 @@ lng: -98.0800
 zipSample: ["78147"]
 zipCodes: ["78147"]
 localPaths: ["Wilson County / primary ZIP 78147", "Wilson County / coords 29.0700, -98.0800", "Wilson County / ZIP 78147 sector", "Wilson County / elevation 420 ft band"]
+zillowHomeValueUsd: 243686
 ---
 
 **Engineering Notice for Poth:** System optimized for 154 mg/L hard water scaling factors in Poth. Regional dispatch grid: Wilson County.

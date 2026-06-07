@@ -12,6 +12,7 @@ lng: -82.8100
 zipSample: ["32693"]
 zipCodes: ["32693"]
 localPaths: ["Gilchrist County / elevation 89 ft band", "Gilchrist County / coords 29.6100, -82.8100", "Gilchrist County / primary ZIP 32693", "Gilchrist County / ZIP 32693 sector"]
+zillowHomeValueUsd: 281208
 ---
 
 **Engineering Notice for Trenton:** Envelope check: Exterior Cladding assigned to wind-load band A with stress factor 0.81. Regional dispatch grid: Gilchrist County.

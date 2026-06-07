@@ -12,6 +12,7 @@ lng: -73.7000
 zipSample: ["11030"]
 zipCodes: ["11030"]
 localPaths: ["Nassau County / elevation 66 ft band", "Nassau County / primary ZIP 11030", "Nassau County / coords 40.8100, -73.7000", "Nassau County / ZIP 11030 sector"]
+zillowHomeValueUsd: 2214926
 ---
 
 **Engineering Notice for Plandome:** Site context locked to Nassau County. Elevation: 66 ft AMSL. Weather Barrier Wrap integrity verification recorded.

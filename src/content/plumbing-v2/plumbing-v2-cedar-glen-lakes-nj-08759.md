@@ -12,6 +12,7 @@ lng: -74.4000
 zipSample: ["08759"]
 zipCodes: ["08759"]
 localPaths: ["Ocean County / ZIP 08759 sector", "Ocean County / coords 39.9500, -74.4000", "Ocean County / primary ZIP 08759", "Ocean County / elevation 164 ft band"]
+zillowHomeValueUsd: 274796
 ---
 
 **Engineering Notice for Cedar Glen Lakes:** System optimized for 164 mg/L hard water scaling factors in Cedar Glen Lakes. Regional dispatch grid: Ocean County.

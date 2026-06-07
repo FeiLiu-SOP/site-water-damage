@@ -12,6 +12,7 @@ lng: -73.5600
 zipSample: ["12018"]
 zipCodes: ["12018"]
 localPaths: ["Rensselaer County / primary ZIP 12018", "Rensselaer County / elevation 774 ft band", "Rensselaer County / coords 42.6400, -73.5600", "Rensselaer County / ZIP 12018 sector"]
+zillowHomeValueUsd: 373171
 ---
 
 **Engineering Notice for Averill Park:** Cladding verification uses 99 mph routing baseline; lateral pressure note: 13.1 psf. Coordinates: 42.6400, -73.5600. Grid: Rensselaer County.

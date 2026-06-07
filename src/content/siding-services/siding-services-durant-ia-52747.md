@@ -12,6 +12,7 @@ lng: -90.9100
 zipSample: ["52747"]
 zipCodes: ["52747"]
 localPaths: ["Cedar County / primary ZIP 52747", "Cedar County / ZIP 52747 sector", "Cedar County / coords 41.6000, -90.9100", "Cedar County / elevation 719 ft band"]
+zillowHomeValueUsd: 236757
 ---
 
 **Engineering Notice for Durant:** Wall Restoration was validated under stress factor 0.87; target tolerance set near 98 mph. Grid anchor: Cedar County.

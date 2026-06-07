@@ -12,6 +12,7 @@ lng: -116.3900
 zipSample: ["83616", "83714"]
 zipCodes: ["83714", "83616"]
 localPaths: ["Ada County / coords 43.7200, -116.3900", "Ada County / primary ZIP 83616", "Ada County / ZIP 83616 sector", "Ada County / ZIP 83714 sector", "Ada County / elevation 2618 ft band"]
+zillowHomeValueUsd: 802538
 ---
 
 **Engineering Notice for Eagle:** Structural loading calculated based on 2618 ft terrain assessment. Regional dispatch grid: Ada County.

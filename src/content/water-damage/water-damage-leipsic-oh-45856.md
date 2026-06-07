@@ -12,6 +12,7 @@ lng: -83.9700
 zipSample: ["45856"]
 zipCodes: ["45856"]
 localPaths: ["Putnam County / ZIP 45856 sector", "Putnam County / coords 41.1100, -83.9700", "Putnam County / primary ZIP 45856", "Putnam County / elevation 745 ft band"]
+zillowHomeValueUsd: 210837
 ---
 
 **Engineering Notice for Leipsic:** structural drying capacity optimized for 745ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Putnam County. Relative Humidity Threshold: 82%. Sensor sync: Active.

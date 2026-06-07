@@ -12,6 +12,7 @@ lng: -74.9700
 zipSample: ["08026"]
 zipCodes: ["08026"]
 localPaths: ["Camden County / elevation 98 ft band", "Camden County / primary ZIP 08026", "Camden County / coords 39.8300, -74.9700", "Camden County / ZIP 08026 sector"]
+zillowHomeValueUsd: 380307
 ---
 
 **Engineering Notice for Gibbsboro:** System optimized for 172 mg/L hard water scaling factors in Gibbsboro. Regional dispatch grid: Camden County.

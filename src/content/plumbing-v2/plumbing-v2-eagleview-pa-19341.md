@@ -12,6 +12,7 @@ lng: -75.6800
 zipSample: ["19341", "19335"]
 zipCodes: ["19341", "19335"]
 localPaths: ["Chester County / primary ZIP 19341", "Chester County / ZIP 19335 sector", "Chester County / ZIP 19341 sector", "Chester County / coords 40.0600, -75.6800", "Chester County / elevation 440 ft band"]
+zillowHomeValueUsd: 614233
 ---
 
 **Engineering Notice for Eagleview:** System optimized for 125 mg/L hard water scaling factors in Eagleview. Regional dispatch grid: Chester County.

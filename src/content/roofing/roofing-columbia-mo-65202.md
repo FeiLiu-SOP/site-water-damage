@@ -11,6 +11,7 @@ lng: -92.3300
 zipSample: ["65216", "65218", "65202", "65201", "65299"]
 zipCodes: ["65299", "65217", "65203", "65216", "65215", "65218", "65211", "65202", "65201"]
 localPaths: ["Boone County / ZIP 65201 sector", "Boone County / coords 38.9500, -92.3300", "Boone County / ZIP 65218 sector", "Boone County / ZIP 65202 sector", "Boone County / elevation 761 ft band"]
+zillowHomeValueUsd: 276078
 ---
 
 **Engineering Notice for Columbia:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Boone County.

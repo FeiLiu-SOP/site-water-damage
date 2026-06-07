@@ -12,6 +12,7 @@ lng: -106.8100
 zipSample: ["88005", "88046"]
 zipCodes: ["88005", "88046"]
 localPaths: ["Doña Ana County / elevation 3885 ft band", "Doña Ana County / primary ZIP 88046", "Doña Ana County / ZIP 88005 sector", "Doña Ana County / coords 32.2700, -106.8100", "Doña Ana County / ZIP 88046 sector"]
+zillowHomeValueUsd: 286914
 ---
 
 **Engineering Notice for Mesilla:** System optimized for 164 mg/L hard water scaling factors in Mesilla. Regional dispatch grid: Doña Ana County.

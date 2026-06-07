@@ -12,6 +12,7 @@ lng: -121.7100
 zipSample: ["95917"]
 zipCodes: ["95917"]
 localPaths: ["Butte County / ZIP 95917 sector", "Butte County / elevation 95 ft band", "Butte County / primary ZIP 95917", "Butte County / coords 39.4100, -121.7100"]
+zillowHomeValueUsd: 343548
 ---
 
 **Engineering Notice for Biggs:** Envelope check: Panel Replacement assigned to wind-load band A with stress factor 0.89. Elevation: 95 ft AMSL. Regional dispatch grid: Butte County.

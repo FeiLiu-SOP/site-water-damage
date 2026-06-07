@@ -12,6 +12,7 @@ lng: -100.3500
 zipSample: ["67835"]
 zipCodes: ["67835"]
 localPaths: ["Gray County / coords 37.8100, -100.3500", "Gray County / ZIP 67835 sector", "Gray County / elevation 2717 ft band", "Gray County / primary ZIP 67835"]
+zillowHomeValueUsd: 236338
 ---
 
 **Engineering Notice for Cimarron:** Exterior Envelope was validated under stress factor 0.78; target tolerance set near 95 mph. Grid anchor: Gray County.

@@ -12,6 +12,7 @@ lng: -92.3900
 zipSample: ["55975"]
 zipCodes: ["55975"]
 localPaths: ["Fillmore County / primary ZIP 55975", "Fillmore County / elevation 1276 ft band", "Fillmore County / ZIP 55975 sector", "Fillmore County / coords 43.6900, -92.3900"]
+zillowHomeValueUsd: 262998
 ---
 
 **Engineering Notice for Spring Valley:** structural drying capacity optimized for 1276ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fillmore County. Relative Humidity Threshold: 81%. Sensor sync: Active.

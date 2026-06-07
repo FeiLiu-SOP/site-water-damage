@@ -12,6 +12,7 @@ lng: -77.7200
 zipSample: ["17004"]
 zipCodes: ["17004"]
 localPaths: ["Mifflin County / elevation 827 ft band", "Mifflin County / ZIP 17004 sector", "Mifflin County / coords 40.6100, -77.7200", "Mifflin County / primary ZIP 17004"]
+zillowHomeValueUsd: 261591
 ---
 
 **Engineering Notice for Belleville:** System optimized for 134 mg/L hard water scaling factors in Belleville. Regional dispatch grid: Mifflin County.

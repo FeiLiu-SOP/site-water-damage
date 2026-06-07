@@ -12,6 +12,7 @@ lng: -120.1600
 zipSample: ["98831"]
 zipCodes: ["98831"]
 localPaths: ["Chelan County / elevation 1086 ft band", "Chelan County / coords 47.8800, -120.1600", "Chelan County / primary ZIP 98831", "Chelan County / ZIP 98831 sector"]
+zillowHomeValueUsd: 743639
 ---
 
 **Engineering Notice for Manson:** structural drying capacity optimized for 1086ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chelan County. Relative Humidity Threshold: 75%. Sensor sync: Active.

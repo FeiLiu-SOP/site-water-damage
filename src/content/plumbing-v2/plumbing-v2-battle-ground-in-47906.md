@@ -12,6 +12,7 @@ lng: -86.8500
 zipSample: ["47906", "47920"]
 zipCodes: ["47920", "47906"]
 localPaths: ["Tippecanoe County / primary ZIP 47906", "Tippecanoe County / ZIP 47920 sector", "Tippecanoe County / ZIP 47906 sector", "Tippecanoe County / coords 40.5100, -86.8500", "Tippecanoe County / elevation 659 ft band"]
+zillowHomeValueUsd: 363795
 ---
 
 **Engineering Notice for Battle Ground:** System optimized for 133 mg/L hard water scaling factors in Battle Ground. Regional dispatch grid: Tippecanoe County.

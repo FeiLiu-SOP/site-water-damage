@@ -12,6 +12,7 @@ lng: -93.5000
 zipSample: ["50236"]
 zipCodes: ["50236"]
 localPaths: ["Story County / ZIP 50236 sector", "Story County / primary ZIP 50236", "Story County / elevation 1037 ft band", "Story County / coords 42.1700, -93.5000"]
+zillowHomeValueUsd: 252309
 ---
 
 **Engineering Notice for Roland:** Cladding Retrofit was validated under stress factor 1.02; target tolerance set near 100 mph. Grid anchor: Story County.

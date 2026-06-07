@@ -12,6 +12,7 @@ lng: -86.9600
 zipSample: ["47909"]
 zipCodes: ["47909"]
 localPaths: ["Tippecanoe County / ZIP 47909 sector", "Tippecanoe County / coords 40.3500, -86.9600", "Tippecanoe County / elevation 689 ft band", "Tippecanoe County / primary ZIP 47909"]
+zillowHomeValueUsd: 275926
 ---
 
 **Engineering Notice for Shadeland:** Envelope check: Exterior Envelope assigned to wind-load band C with stress factor 0.94. Elevation: 689 ft AMSL. Regional dispatch grid: Tippecanoe County.

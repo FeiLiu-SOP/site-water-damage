@@ -12,6 +12,7 @@ lng: -92.0800
 zipSample: ["71202", "71213", "71212", "71210", "71201"]
 zipCodes: ["71210", "71213", "71202", "71217", "71212", "71207", "71209", "71201", "71203"]
 localPaths: ["Ouachita Parish / ZIP 71213 sector", "Ouachita Parish / primary ZIP 71212", "Ouachita Parish / ZIP 71212 sector", "Ouachita Parish / coords 32.5200, -92.0800", "Ouachita Parish / ZIP 71210 sector"]
+zillowHomeValueUsd: 182903
 ---
 
 **Engineering Notice for Monroe:** Structural loading calculated based on 95 ft terrain assessment. Regional dispatch grid: Ouachita Parish.

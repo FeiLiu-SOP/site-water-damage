@@ -12,6 +12,7 @@ lng: -86.1100
 zipSample: ["49013"]
 zipCodes: ["49013"]
 localPaths: ["Van Buren County / coords 42.3100, -86.1100", "Van Buren County / primary ZIP 49013", "Van Buren County / elevation 663 ft band", "Van Buren County / ZIP 49013 sector"]
+zillowHomeValueUsd: 204897
 ---
 
 **Engineering Notice for Bangor:** System optimized for 160 mg/L hard water scaling factors in Bangor. Regional dispatch grid: Van Buren County.

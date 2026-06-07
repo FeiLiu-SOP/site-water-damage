@@ -12,6 +12,7 @@ lng: -81.8600
 zipSample: ["29302"]
 zipCodes: ["29302"]
 localPaths: ["Spartanburg County / coords 34.9100, -81.8600", "Spartanburg County / ZIP 29302 sector", "Spartanburg County / primary ZIP 29302", "Spartanburg County / elevation 686 ft band"]
+zillowHomeValueUsd: 269461
 ---
 
 **Engineering Notice for Camp Croft:** System optimized for 166 mg/L hard water scaling factors in Camp Croft. Regional dispatch grid: Spartanburg County.

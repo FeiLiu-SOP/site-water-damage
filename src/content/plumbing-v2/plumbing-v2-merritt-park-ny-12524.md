@@ -12,6 +12,7 @@ lng: -73.8700
 zipSample: ["12524"]
 zipCodes: ["12524"]
 localPaths: ["Dutchess County / coords 41.5400, -73.8700", "Dutchess County / ZIP 12524 sector", "Dutchess County / elevation 295 ft band", "Dutchess County / primary ZIP 12524"]
+zillowHomeValueUsd: 470078
 ---
 
 **Engineering Notice for Merritt Park:** System optimized for 161 mg/L hard water scaling factors in Merritt Park. Regional dispatch grid: Dutchess County.

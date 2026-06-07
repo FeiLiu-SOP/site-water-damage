@@ -11,6 +11,7 @@ lng: -90.5100
 zipSample: ["72451", "72450"]
 zipCodes: ["72450", "72451"]
 localPaths: ["Greene County / elevation 292 ft band", "Greene County / primary ZIP 72450", "Greene County / ZIP 72451 sector", "Greene County / coords 36.0600, -90.5100", "Greene County / ZIP 72450 sector"]
+zillowHomeValueUsd: 190888
 ---
 
 **Engineering Notice for Paragould:** Structural loading calculated based on 292 ft terrain assessment. Regional dispatch grid: Greene County.

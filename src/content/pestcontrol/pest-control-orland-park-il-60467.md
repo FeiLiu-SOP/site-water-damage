@@ -11,6 +11,7 @@ lng: -87.8600
 zipSample: ["60467", "60462"]
 zipCodes: ["60467", "60462"]
 localPaths: ["Cook County / ZIP 60467 sector", "Cook County / coords 41.6100, -87.8600", "Cook County / primary ZIP 60467", "Cook County / ZIP 60462 sector", "Cook County / elevation 692 ft band"]
+zillowHomeValueUsd: 465581
 ---
 
 **Engineering Notice for Orland Park:** Structural loading calculated based on 692 ft terrain assessment. Regional dispatch grid: Cook County.

@@ -12,6 +12,7 @@ lng: -117.4400
 zipSample: ["92301"]
 zipCodes: ["92301"]
 localPaths: ["San Bernardino County / ZIP 92301 sector", "San Bernardino County / primary ZIP 92301", "San Bernardino County / elevation 2877 ft band", "San Bernardino County / coords 34.5800, -117.4400"]
+zillowHomeValueUsd: 397515
 ---
 
 **Engineering Notice for Adelanto:** Structural loading calculated based on 2877 ft terrain assessment. Regional dispatch grid: San Bernardino County.

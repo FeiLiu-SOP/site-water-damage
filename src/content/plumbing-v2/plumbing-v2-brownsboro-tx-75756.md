@@ -12,6 +12,7 @@ lng: -95.6100
 zipSample: ["75756"]
 zipCodes: ["75756"]
 localPaths: ["Henderson County / coords 32.3000, -95.6100", "Henderson County / elevation 430 ft band", "Henderson County / ZIP 75756 sector", "Henderson County / primary ZIP 75756"]
+zillowHomeValueUsd: 278013
 ---
 
 **Engineering Notice for Brownsboro:** System optimized for 154 mg/L hard water scaling factors in Brownsboro. Regional dispatch grid: Henderson County.

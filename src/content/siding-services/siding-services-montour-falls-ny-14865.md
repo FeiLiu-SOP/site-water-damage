@@ -12,6 +12,7 @@ lng: -76.8500
 zipSample: ["14865"]
 zipCodes: ["14865"]
 localPaths: ["Schuyler County / ZIP 14865 sector", "Schuyler County / primary ZIP 14865", "Schuyler County / elevation 469 ft band", "Schuyler County / coords 42.3500, -76.8500"]
+zillowHomeValueUsd: 206464
 ---
 
 **Engineering Notice for Montour Falls:** Site context locked to Schuyler County. Coordinates: 42.3500, -76.8500. Facade Renewal integrity verification recorded.

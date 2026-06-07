@@ -12,6 +12,7 @@ lng: -87.1400
 zipSample: ["47977"]
 zipCodes: ["47977"]
 localPaths: ["Jasper County / ZIP 47977 sector", "Jasper County / primary ZIP 47977", "Jasper County / coords 40.7700, -87.1400", "Jasper County / elevation 732 ft band"]
+zillowHomeValueUsd: 220493
 ---
 
 **Engineering Notice for Remington:** System optimized for 123 mg/L hard water scaling factors in Remington. Regional dispatch grid: Jasper County.

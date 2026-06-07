@@ -12,6 +12,8 @@ lng: -66.9300
 zipSample: ["00678"]
 zipCodes: ["00678"]
 localPaths: ["Quebradillas County / primary ZIP 00678", "Quebradillas County / coords 18.4400, -66.9300", "Quebradillas County / ZIP 00678 sector", "Quebradillas County / elevation 620 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 384475
 ---
 
 **Engineering Notice for San Antonio:** Cladding Retrofit was validated under stress factor 1.01; target tolerance set near 91 mph. Coordinates: 18.4400, -66.9300. Grid anchor: Quebradillas County.

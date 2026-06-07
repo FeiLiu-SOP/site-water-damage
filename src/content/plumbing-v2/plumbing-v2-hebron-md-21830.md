@@ -12,6 +12,7 @@ lng: -75.6900
 zipSample: ["21830"]
 zipCodes: ["21830"]
 localPaths: ["Wicomico County / primary ZIP 21830", "Wicomico County / coords 38.4200, -75.6900", "Wicomico County / ZIP 21830 sector", "Wicomico County / elevation 39 ft band"]
+zillowHomeValueUsd: 315904
 ---
 
 **Engineering Notice for Hebron:** System optimized for 121 mg/L hard water scaling factors in Hebron. Regional dispatch grid: Wicomico County.

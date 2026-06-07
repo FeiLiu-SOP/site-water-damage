@@ -12,6 +12,8 @@ lng: -66.0800
 zipSample: ["00784"]
 zipCodes: ["00784"]
 localPaths: ["Guayama County / elevation 253 ft band", "Guayama County / ZIP 00784 sector", "Guayama County / coords 17.9900, -66.0800", "Guayama County / primary ZIP 00784"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 357130
 ---
 
 **Engineering Notice for Corazón:** Cladding verification uses 99 mph routing baseline; lateral pressure note: 13.1 psf. Elevation: 253 ft AMSL. Grid: Guayama County.

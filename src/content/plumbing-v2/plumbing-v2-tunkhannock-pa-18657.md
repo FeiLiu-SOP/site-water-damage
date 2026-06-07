@@ -12,6 +12,7 @@ lng: -75.9500
 zipSample: ["18657"]
 zipCodes: ["18657"]
 localPaths: ["Wyoming County / elevation 663 ft band", "Wyoming County / coords 41.5400, -75.9500", "Wyoming County / primary ZIP 18657", "Wyoming County / ZIP 18657 sector"]
+zillowHomeValueUsd: 232840
 ---
 
 **Engineering Notice for Tunkhannock:** System optimized for 175 mg/L hard water scaling factors in Tunkhannock. Regional dispatch grid: Wyoming County.

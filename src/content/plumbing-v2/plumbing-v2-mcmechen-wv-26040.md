@@ -12,6 +12,7 @@ lng: -80.7300
 zipSample: ["26040"]
 zipCodes: ["26040"]
 localPaths: ["Marshall County / coords 39.9900, -80.7300", "Marshall County / ZIP 26040 sector", "Marshall County / elevation 656 ft band", "Marshall County / primary ZIP 26040"]
+zillowHomeValueUsd: 88830
 ---
 
 **Engineering Notice for McMechen:** System optimized for 133 mg/L hard water scaling factors in McMechen. Regional dispatch grid: Marshall County.

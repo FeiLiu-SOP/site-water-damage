@@ -12,6 +12,7 @@ lng: -98.7700
 zipSample: ["78582"]
 zipCodes: ["78582"]
 localPaths: ["Starr County / coords 26.3600, -98.7700", "Starr County / primary ZIP 78582", "Starr County / ZIP 78582 sector", "Starr County / elevation 180 ft band"]
+zillowHomeValueUsd: 146582
 ---
 
 **Engineering Notice for Las Lomas:** Cladding Service was validated under stress factor 1.19; target tolerance set near 141 mph. Coordinates: 26.3600, -98.7700. Grid anchor: Starr County.

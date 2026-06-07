@@ -12,6 +12,7 @@ lng: -76.8600
 zipSample: ["17777"]
 zipCodes: ["17777"]
 localPaths: ["Northumberland County / primary ZIP 17777", "Northumberland County / elevation 489 ft band", "Northumberland County / ZIP 17777 sector", "Northumberland County / coords 41.0900, -76.8600"]
+zillowHomeValueUsd: 231490
 ---
 
 **Engineering Notice for Watsontown:** Envelope check: Vinyl Panels assigned to wind-load band B with stress factor 0.88. Regional dispatch grid: Northumberland County.

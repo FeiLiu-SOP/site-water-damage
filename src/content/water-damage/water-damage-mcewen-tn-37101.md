@@ -12,6 +12,7 @@ lng: -87.6400
 zipSample: ["37101"]
 zipCodes: ["37101"]
 localPaths: ["Humphreys County / ZIP 37101 sector", "Humphreys County / primary ZIP 37101", "Humphreys County / elevation 843 ft band", "Humphreys County / coords 36.1100, -87.6400"]
+zillowHomeValueUsd: 278557
 ---
 
 **Engineering Notice for McEwen:** structural drying capacity optimized for 843ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Humphreys County. Relative Humidity Threshold: 66%. Sensor sync: Active.

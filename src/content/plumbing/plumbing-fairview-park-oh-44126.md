@@ -12,6 +12,7 @@ lng: -81.8500
 zipSample: ["44126"]
 zipCodes: ["44126"]
 localPaths: ["Cuyahoga County / primary ZIP 44126", "Cuyahoga County / coords 41.4400, -81.8500", "Cuyahoga County / ZIP 44126 sector", "Cuyahoga County / elevation 738 ft band"]
+zillowHomeValueUsd: 277917
 ---
 
 **Engineering Notice for Fairview Park:** Structural loading calculated based on 738 ft terrain assessment. Regional dispatch grid: Cuyahoga County.

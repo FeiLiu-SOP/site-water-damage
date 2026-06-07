@@ -12,6 +12,7 @@ lng: -87.9500
 zipSample: ["53075"]
 zipCodes: ["53075"]
 localPaths: ["Sheboygan County / primary ZIP 53075", "Sheboygan County / elevation 866 ft band", "Sheboygan County / coords 43.5500, -87.9500", "Sheboygan County / ZIP 53075 sector"]
+zillowHomeValueUsd: 355036
 ---
 
 **Engineering Notice for Random Lake:** System optimized for 180 mg/L hard water scaling factors in Random Lake. Regional dispatch grid: Sheboygan County.

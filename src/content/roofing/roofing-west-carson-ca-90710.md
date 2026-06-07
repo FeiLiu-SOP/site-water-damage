@@ -11,6 +11,7 @@ lng: -118.2900
 zipSample: ["90502", "90710"]
 zipCodes: ["90502", "90710"]
 localPaths: ["Los Angeles County / elevation 52 ft band", "Los Angeles County / coords 33.8200, -118.2900", "Los Angeles County / ZIP 90710 sector", "Los Angeles County / primary ZIP 90710", "Los Angeles County / ZIP 90502 sector"]
+zillowHomeValueUsd: 843459
 ---
 
 **Engineering Notice for West Carson:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Los Angeles County.

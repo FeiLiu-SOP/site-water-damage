@@ -12,6 +12,7 @@ lng: -89.4300
 zipSample: ["39556"]
 zipCodes: ["39556"]
 localPaths: ["Hancock County / ZIP 39556 sector", "Hancock County / primary ZIP 39556", "Hancock County / coords 30.4200, -89.4300", "Hancock County / elevation 39 ft band"]
+zillowHomeValueUsd: 234010
 ---
 
 **Engineering Notice for Kiln:** Structural integrity verification: Weather Barrier Wrap calibrated for 110 mph localized wind load factor. Elevation: 39 ft AMSL. Regional dispatch grid: Hancock County.

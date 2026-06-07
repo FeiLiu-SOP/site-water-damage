@@ -11,6 +11,7 @@ lng: -117.3500
 zipSample: ["92395", "92394", "92392", "92393"]
 zipCodes: ["92392", "92395", "92393", "92394"]
 localPaths: ["San Bernardino County / ZIP 92394 sector", "San Bernardino County / ZIP 92393 sector", "San Bernardino County / primary ZIP 92394", "San Bernardino County / coords 34.5300, -117.3500", "San Bernardino County / ZIP 92395 sector"]
+zillowHomeValueUsd: 431286
 ---
 
 **Engineering Notice for Victorville:** Structural loading calculated based on 2959 ft terrain assessment. Regional dispatch grid: San Bernardino County.

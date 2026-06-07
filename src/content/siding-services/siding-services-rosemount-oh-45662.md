@@ -12,6 +12,7 @@ lng: -82.9700
 zipSample: ["45662"]
 zipCodes: ["45662"]
 localPaths: ["Scioto County / primary ZIP 45662", "Scioto County / ZIP 45662 sector", "Scioto County / coords 38.7800, -82.9700", "Scioto County / elevation 755 ft band"]
+zillowHomeValueUsd: 99255
 ---
 
 **Engineering Notice for Rosemount:** Cladding verification uses 95 mph routing baseline; lateral pressure note: 12.6 psf. Grid: Scioto County.

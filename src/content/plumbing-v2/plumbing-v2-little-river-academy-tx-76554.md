@@ -12,6 +12,7 @@ lng: -97.3500
 zipSample: ["76554"]
 zipCodes: ["76554"]
 localPaths: ["Bell County / ZIP 76554 sector", "Bell County / elevation 489 ft band", "Bell County / coords 30.9900, -97.3500", "Bell County / primary ZIP 76554"]
+zillowHomeValueUsd: 211182
 ---
 
 **Engineering Notice for Little River-Academy:** System optimized for 129 mg/L hard water scaling factors in Little River-Academy. Regional dispatch grid: Bell County.

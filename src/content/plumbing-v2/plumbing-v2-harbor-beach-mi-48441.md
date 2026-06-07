@@ -12,6 +12,7 @@ lng: -82.6600
 zipSample: ["48441"]
 zipCodes: ["48441"]
 localPaths: ["Huron County / elevation 630 ft band", "Huron County / primary ZIP 48441", "Huron County / ZIP 48441 sector", "Huron County / coords 43.8500, -82.6600"]
+zillowHomeValueUsd: 197365
 ---
 
 **Engineering Notice for Harbor Beach:** System optimized for 120 mg/L hard water scaling factors in Harbor Beach. Regional dispatch grid: Huron County.

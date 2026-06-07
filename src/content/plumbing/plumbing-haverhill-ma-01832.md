@@ -12,6 +12,7 @@ lng: -71.0900
 zipSample: ["01830", "01831", "01832", "01835"]
 zipCodes: ["01831", "01832", "01830", "01835"]
 localPaths: ["Essex County / ZIP 01830 sector", "Essex County / elevation 52 ft band", "Essex County / ZIP 01832 sector", "Essex County / coords 42.7800, -71.0900", "Essex County / primary ZIP 01832"]
+zillowHomeValueUsd: 519830
 ---
 
 **Engineering Notice for Haverhill:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Essex County.

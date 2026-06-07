@@ -11,6 +11,7 @@ lng: -97.4600
 zipSample: ["76126", "76116"]
 zipCodes: ["76116", "76126"]
 localPaths: ["Tarrant County / elevation 725 ft band", "Tarrant County / ZIP 76116 sector", "Tarrant County / coords 32.6800, -97.4600", "Tarrant County / ZIP 76126 sector", "Tarrant County / primary ZIP 76116"]
+zillowHomeValueUsd: 295789
 ---
 
 **Engineering Notice for Benbrook:** Structural loading calculated based on 725 ft terrain assessment. Regional dispatch grid: Tarrant County.

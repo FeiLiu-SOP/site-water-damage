@@ -11,6 +11,7 @@ lng: -90.4600
 zipSample: ["70404", "70403", "70402", "70401"]
 zipCodes: ["70401", "70403", "70404", "70402"]
 localPaths: ["Tangipahoa Parish / primary ZIP 70402", "Tangipahoa Parish / coords 30.5100, -90.4600", "Tangipahoa Parish / ZIP 70404 sector", "Tangipahoa Parish / elevation 72 ft band", "Tangipahoa Parish / ZIP 70402 sector"]
+zillowHomeValueUsd: 227672
 ---
 
 **Engineering Notice for Hammond:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Tangipahoa Parish.

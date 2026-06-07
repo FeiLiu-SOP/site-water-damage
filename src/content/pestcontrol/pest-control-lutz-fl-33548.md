@@ -11,6 +11,7 @@ lng: -82.4500
 zipSample: ["33675", "33548", "33559", "33549", "33647"]
 zipCodes: ["33647", "33549", "33675", "33559", "33548"]
 localPaths: ["Hillsborough County / coords 28.1400, -82.4500", "Hillsborough County / elevation 52 ft band", "Hillsborough County / ZIP 33559 sector", "Hillsborough County / ZIP 33548 sector", "Hillsborough County / ZIP 33647 sector"]
+zillowHomeValueUsd: 668756
 ---
 
 **Engineering Notice for Lutz:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Hillsborough County.

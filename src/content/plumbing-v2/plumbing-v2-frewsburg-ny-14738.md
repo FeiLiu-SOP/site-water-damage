@@ -12,6 +12,7 @@ lng: -79.1500
 zipSample: ["14738"]
 zipCodes: ["14738"]
 localPaths: ["Chautauqua County / ZIP 14738 sector", "Chautauqua County / primary ZIP 14738", "Chautauqua County / elevation 1332 ft band", "Chautauqua County / coords 42.0600, -79.1500"]
+zillowHomeValueUsd: 171156
 ---
 
 **Engineering Notice for Frewsburg:** System optimized for 140 mg/L hard water scaling factors in Frewsburg. Regional dispatch grid: Chautauqua County.

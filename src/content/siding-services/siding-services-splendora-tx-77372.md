@@ -12,6 +12,7 @@ lng: -95.1600
 zipSample: ["77372"]
 zipCodes: ["77372"]
 localPaths: ["Montgomery County / coords 30.2300, -95.1600", "Montgomery County / elevation 144 ft band", "Montgomery County / ZIP 77372 sector", "Montgomery County / primary ZIP 77372"]
+zillowHomeValueUsd: 240801
 ---
 
 **Engineering Notice for Splendora:** Cladding verification uses 131 mph routing baseline; lateral pressure note: 16.9 psf. Elevation: 144 ft AMSL. Grid: Montgomery County.

@@ -12,6 +12,7 @@ lng: -87.8700
 zipSample: ["42437"]
 zipCodes: ["42437"]
 localPaths: ["Union County / elevation 423 ft band", "Union County / coords 37.6800, -87.8700", "Union County / primary ZIP 42437", "Union County / ZIP 42437 sector"]
+zillowHomeValueUsd: 156489
 ---
 
 **Engineering Notice for Breckinridge Center:** Envelope check: Surface Sheathing assigned to wind-load band B with stress factor 1.13. Elevation: 423 ft AMSL. Regional dispatch grid: Union County.

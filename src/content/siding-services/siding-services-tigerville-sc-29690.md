@@ -12,6 +12,7 @@ lng: -82.3700
 zipSample: ["29687", "29690"]
 zipCodes: ["29687", "29690"]
 localPaths: ["Greenville County / ZIP 29687 sector", "Greenville County / coords 35.0700, -82.3700", "Greenville County / primary ZIP 29690", "Greenville County / ZIP 29690 sector", "Greenville County / elevation 1017 ft band"]
+zillowHomeValueUsd: 353051
 ---
 
 **Engineering Notice for Tigerville:** Surface Sheathing was validated under stress factor 1.16; target tolerance set near 101 mph. Grid anchor: Greenville County.

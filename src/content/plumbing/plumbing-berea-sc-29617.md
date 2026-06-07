@@ -12,6 +12,7 @@ lng: -82.4700
 zipSample: ["29611", "29617"]
 zipCodes: ["29617", "29611"]
 localPaths: ["Greenville County / coords 34.8800, -82.4700", "Greenville County / primary ZIP 29617", "Greenville County / ZIP 29611 sector", "Greenville County / elevation 1073 ft band", "Greenville County / ZIP 29617 sector"]
+zillowHomeValueUsd: 264638
 ---
 
 **Engineering Notice for Berea:** Structural loading calculated based on 1073 ft terrain assessment. Regional dispatch grid: Greenville County.

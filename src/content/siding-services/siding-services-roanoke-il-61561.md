@@ -12,6 +12,7 @@ lng: -89.2000
 zipSample: ["61561"]
 zipCodes: ["61561"]
 localPaths: ["Woodford County / coords 40.8000, -89.2000", "Woodford County / elevation 738 ft band", "Woodford County / ZIP 61561 sector", "Woodford County / primary ZIP 61561"]
+zillowHomeValueUsd: 169022
 ---
 
 **Engineering Notice for Roanoke:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Elevation: 738 ft AMSL. Grid: Woodford County.

@@ -12,6 +12,7 @@ lng: -83.7600
 zipSample: ["40360"]
 zipCodes: ["40360"]
 localPaths: ["Bath County / coords 38.1400, -83.7600", "Bath County / elevation 915 ft band", "Bath County / primary ZIP 40360", "Bath County / ZIP 40360 sector"]
+zillowHomeValueUsd: 176888
 ---
 
 **Engineering Notice for Owingsville:** Weather Barrier Wrap was validated under stress factor 0.72; target tolerance set near 110 mph. Coordinates: 38.1400, -83.7600. Grid anchor: Bath County.

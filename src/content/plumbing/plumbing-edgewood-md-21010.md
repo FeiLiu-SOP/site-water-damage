@@ -12,6 +12,7 @@ lng: -76.3000
 zipSample: ["21010", "21040"]
 zipCodes: ["21010", "21040"]
 localPaths: ["Harford County / coords 39.4200, -76.3000", "Harford County / ZIP 21040 sector", "Harford County / primary ZIP 21010", "Harford County / elevation 82 ft band", "Harford County / ZIP 21010 sector"]
+zillowHomeValueUsd: 264071
 ---
 
 **Engineering Notice for Edgewood:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Harford County.

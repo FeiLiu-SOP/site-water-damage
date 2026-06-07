@@ -12,6 +12,7 @@ lng: -89.2300
 zipSample: ["61326"]
 zipCodes: ["61326"]
 localPaths: ["Putnam County / ZIP 61326 sector", "Putnam County / primary ZIP 61326", "Putnam County / elevation 692 ft band", "Putnam County / coords 41.2700, -89.2300"]
+zillowHomeValueUsd: 165785
 ---
 
 **Engineering Notice for Granville:** Site context locked to Putnam County. Elevation: 692 ft AMSL. Wall Restoration integrity verification recorded.

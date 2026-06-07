@@ -11,6 +11,7 @@ lng: -122.1200
 zipSample: ["98052", "98073"]
 zipCodes: ["98073", "98052"]
 localPaths: ["King County / coords 47.6800, -122.1200", "King County / ZIP 98073 sector", "King County / ZIP 98052 sector", "King County / elevation 59 ft band", "King County / primary ZIP 98052"]
+zillowHomeValueUsd: 1364894
 ---
 
 **Engineering Notice for Redmond:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: King County.

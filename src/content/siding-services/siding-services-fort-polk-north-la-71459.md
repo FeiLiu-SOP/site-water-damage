@@ -12,6 +12,8 @@ lng: -93.1800
 zipSample: ["71446", "71459"]
 zipCodes: ["71446", "71459"]
 localPaths: ["Vernon Parish / ZIP 71446 sector", "Vernon Parish / primary ZIP 71459", "Vernon Parish / ZIP 71459 sector", "Vernon Parish / coords 31.1000, -93.1800", "Vernon Parish / elevation 387 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 185587
 ---
 
 **Engineering Notice for Fort Polk North:** Exterior Cladding was validated under stress factor 0.89; target tolerance set near 91 mph. Coordinates: 31.1000, -93.1800. Grid anchor: Vernon Parish.

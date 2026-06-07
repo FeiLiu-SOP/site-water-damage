@@ -12,6 +12,7 @@ lng: -95.5500
 zipSample: ["77477"]
 zipCodes: ["77477"]
 localPaths: ["Fort Bend County / coords 29.6000, -95.5500", "Fort Bend County / ZIP 77477 sector", "Fort Bend County / primary ZIP 77477", "Fort Bend County / elevation 92 ft band"]
+zillowHomeValueUsd: 286715
 ---
 
 **Engineering Notice for Fifth Street:** System optimized for 154 mg/L hard water scaling factors in Fifth Street. Regional dispatch grid: Fort Bend County.

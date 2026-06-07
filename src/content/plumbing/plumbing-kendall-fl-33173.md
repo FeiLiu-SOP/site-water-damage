@@ -12,6 +12,7 @@ lng: -80.3600
 zipSample: ["33156", "33116", "33173", "33283", "33176"]
 zipCodes: ["33156", "33176", "33296", "33116", "33256", "33173", "33283"]
 localPaths: ["Miami-Dade County / ZIP 33173 sector", "Miami-Dade County / ZIP 33176 sector", "Miami-Dade County / coords 25.6700, -80.3600", "Miami-Dade County / elevation 36 ft band", "Miami-Dade County / ZIP 33156 sector"]
+zillowHomeValueUsd: 566195
 ---
 
 **Engineering Notice for Kendall:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

@@ -12,6 +12,7 @@ lng: -106.8100
 zipSample: ["82331"]
 zipCodes: ["82331"]
 localPaths: ["Carbon County / ZIP 82331 sector", "Carbon County / primary ZIP 82331", "Carbon County / coords 41.4500, -106.8100", "Carbon County / elevation 6804 ft band"]
+zillowHomeValueUsd: 296644
 ---
 
 **Engineering Notice for Saratoga:** Exterior Cladding was validated under stress factor 0.99; target tolerance set near 94 mph. Coordinates: 41.4500, -106.8100. Grid anchor: Carbon County.

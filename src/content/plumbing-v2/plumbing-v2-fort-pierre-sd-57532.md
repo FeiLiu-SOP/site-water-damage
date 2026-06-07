@@ -12,6 +12,7 @@ lng: -100.3800
 zipSample: ["57532"]
 zipCodes: ["57532"]
 localPaths: ["Stanley County / primary ZIP 57532", "Stanley County / ZIP 57532 sector", "Stanley County / coords 44.3700, -100.3800", "Stanley County / elevation 1430 ft band"]
+zillowHomeValueUsd: 308824
 ---
 
 **Engineering Notice for Fort Pierre:** System optimized for 135 mg/L hard water scaling factors in Fort Pierre. Regional dispatch grid: Stanley County.

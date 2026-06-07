@@ -12,6 +12,7 @@ lng: -118.3000
 zipSample: ["99362"]
 zipCodes: ["99362"]
 localPaths: ["Walla Walla County / coords 46.0500, -118.3000", "Walla Walla County / elevation 1001 ft band", "Walla Walla County / primary ZIP 99362", "Walla Walla County / ZIP 99362 sector"]
+zillowHomeValueUsd: 413055
 ---
 
 **Engineering Notice for Walla Walla East:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Elevation: 1001 ft AMSL. Coordinates: 46.0500, -118.3000. Grid: Walla Walla County.

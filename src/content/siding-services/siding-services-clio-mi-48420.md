@@ -12,6 +12,7 @@ lng: -83.7400
 zipSample: ["48420"]
 zipCodes: ["48420"]
 localPaths: ["Genesee County / primary ZIP 48420", "Genesee County / elevation 725 ft band", "Genesee County / coords 43.1800, -83.7400", "Genesee County / ZIP 48420 sector"]
+zillowHomeValueUsd: 214549
 ---
 
 **Engineering Notice for Clio:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Elevation: 725 ft AMSL. Coordinates: 43.1800, -83.7400. Grid: Genesee County.

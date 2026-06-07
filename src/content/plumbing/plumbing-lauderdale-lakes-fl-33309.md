@@ -12,6 +12,7 @@ lng: -80.2000
 zipSample: ["33309", "33311", "33319", "33313"]
 zipCodes: ["33313", "33319", "33311", "33309"]
 localPaths: ["Broward County / ZIP 33311 sector", "Broward County / ZIP 33319 sector", "Broward County / elevation 16 ft band", "Broward County / ZIP 33309 sector", "Broward County / ZIP 33313 sector"]
+zillowHomeValueUsd: 371835
 ---
 
 **Engineering Notice for Lauderdale Lakes:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Broward County.

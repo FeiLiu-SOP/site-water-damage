@@ -11,6 +11,7 @@ lng: -84.5400
 zipSample: ["30090", "30060", "30007", "30008", "30062"]
 zipCodes: ["30064", "30060", "30090", "30067", "30007", "30008", "30062", "30006"]
 localPaths: ["Cobb County / ZIP 30008 sector", "Cobb County / coords 33.9500, -84.5400", "Cobb County / ZIP 30062 sector", "Cobb County / ZIP 30060 sector", "Cobb County / ZIP 30007 sector"]
+zillowHomeValueUsd: 551682
 ---
 
 **Engineering Notice for Marietta:** Structural loading calculated based on 1119 ft terrain assessment. Regional dispatch grid: Cobb County.

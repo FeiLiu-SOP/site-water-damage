@@ -12,6 +12,7 @@ lng: -87.4500
 zipSample: ["47885"]
 zipCodes: ["47885"]
 localPaths: ["Vigo County / coords 39.4600, -87.4500", "Vigo County / primary ZIP 47885", "Vigo County / elevation 472 ft band", "Vigo County / ZIP 47885 sector"]
+zillowHomeValueUsd: 158776
 ---
 
 **Engineering Notice for West Terre Haute:** Envelope check: Cladding Service assigned to wind-load band C with stress factor 1.11. Elevation: 472 ft AMSL. Regional dispatch grid: Vigo County.

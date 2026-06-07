@@ -12,6 +12,7 @@ lng: -97.5400
 zipSample: ["78634"]
 zipCodes: ["78634"]
 localPaths: ["Williamson County / coords 30.5400, -97.5400", "Williamson County / primary ZIP 78634", "Williamson County / elevation 659 ft band", "Williamson County / ZIP 78634 sector"]
+zillowHomeValueUsd: 338109
 ---
 
 **Engineering Notice for Hutto:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Williamson County.

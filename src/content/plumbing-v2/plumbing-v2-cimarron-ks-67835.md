@@ -12,6 +12,7 @@ lng: -100.3500
 zipSample: ["67835"]
 zipCodes: ["67835"]
 localPaths: ["Gray County / primary ZIP 67835", "Gray County / coords 37.8100, -100.3500", "Gray County / elevation 2717 ft band", "Gray County / ZIP 67835 sector"]
+zillowHomeValueUsd: 236329
 ---
 
 **Engineering Notice for Cimarron:** System optimized for 129 mg/L hard water scaling factors in Cimarron. Regional dispatch grid: Gray County.

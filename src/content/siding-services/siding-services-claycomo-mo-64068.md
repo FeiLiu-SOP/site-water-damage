@@ -12,6 +12,7 @@ lng: -94.4800
 zipSample: ["64068", "64119"]
 zipCodes: ["64119", "64068"]
 localPaths: ["Clay County / primary ZIP 64068", "Clay County / elevation 833 ft band", "Clay County / ZIP 64119 sector", "Clay County / ZIP 64068 sector", "Clay County / coords 39.2000, -94.4800"]
+zillowHomeValueUsd: 326590
 ---
 
 **Engineering Notice for Claycomo:** Cladding verification uses 95 mph routing baseline; lateral pressure note: 12.6 psf. Elevation: 833 ft AMSL. Grid: Clay County.

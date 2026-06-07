@@ -12,6 +12,7 @@ lng: -96.2500
 zipSample: ["75160"]
 zipCodes: ["75160"]
 localPaths: ["Hunt County / elevation 571 ft band", "Hunt County / coords 32.8300, -96.2500", "Hunt County / ZIP 75160 sector", "Hunt County / primary ZIP 75160"]
+zillowHomeValueUsd: 261907
 ---
 
 **Engineering Notice for Poetry:** Cladding verification uses 136 mph routing baseline; lateral pressure note: 17.5 psf. Grid: Hunt County.

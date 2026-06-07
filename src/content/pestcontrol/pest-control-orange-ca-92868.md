@@ -11,6 +11,7 @@ lng: -117.8200
 zipSample: ["92869", "92866", "92863", "92868", "92864"]
 zipCodes: ["92857", "92856", "92867", "92868", "92866", "92869", "92865", "92863", "92864"]
 localPaths: ["Orange County / ZIP 92869 sector", "Orange County / primary ZIP 92868", "Orange County / ZIP 92868 sector", "Orange County / ZIP 92866 sector", "Orange County / ZIP 92864 sector"]
+zillowHomeValueUsd: 907096
 ---
 
 **Engineering Notice for Orange:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Orange County.

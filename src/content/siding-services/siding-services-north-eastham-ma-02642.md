@@ -12,6 +12,7 @@ lng: -70.0000
 zipSample: ["02642"]
 zipCodes: ["02642"]
 localPaths: ["Barnstable County / ZIP 02642 sector", "Barnstable County / elevation 30 ft band", "Barnstable County / primary ZIP 02642", "Barnstable County / coords 41.8500, -70.0000"]
+zillowHomeValueUsd: 802681
 ---
 
 **Engineering Notice for North Eastham:** Site context locked to Barnstable County. Coordinates: 41.8500, -70.0000. Cladding Service integrity verification recorded.

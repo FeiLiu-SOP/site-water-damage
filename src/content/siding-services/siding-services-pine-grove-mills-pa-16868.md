@@ -12,6 +12,7 @@ lng: -77.8900
 zipSample: ["16868", "16801"]
 zipCodes: ["16801", "16868"]
 localPaths: ["Centre County / ZIP 16868 sector", "Centre County / elevation 1358 ft band", "Centre County / coords 40.7300, -77.8900", "Centre County / primary ZIP 16868", "Centre County / ZIP 16801 sector"]
+zillowHomeValueUsd: 305001
 ---
 
 **Engineering Notice for Pine Grove Mills:** Structural integrity verification: Weather Barrier Wrap calibrated for 90 mph localized wind load factor. Elevation: 1358 ft AMSL. Regional dispatch grid: Centre County.

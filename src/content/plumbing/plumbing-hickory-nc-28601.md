@@ -12,6 +12,7 @@ lng: -81.3200
 zipSample: ["28602", "28601", "28603"]
 zipCodes: ["28603", "28601", "28602"]
 localPaths: ["Catawba County / ZIP 28602 sector", "Catawba County / ZIP 28601 sector", "Catawba County / elevation 1171 ft band", "Catawba County / coords 35.7400, -81.3200", "Catawba County / primary ZIP 28601"]
+zillowHomeValueUsd: 304594
 ---
 
 **Engineering Notice for Hickory:** Structural loading calculated based on 1171 ft terrain assessment. Regional dispatch grid: Catawba County.

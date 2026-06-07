@@ -12,6 +12,7 @@ lng: -74.0500
 zipSample: ["10952", "10977"]
 zipCodes: ["10952", "10977"]
 localPaths: ["Rockland County / primary ZIP 10952", "Rockland County / ZIP 10952 sector", "Rockland County / ZIP 10977 sector", "Rockland County / coords 41.1200, -74.0500", "Rockland County / elevation 479 ft band"]
+zillowHomeValueUsd: 1129922
 ---
 
 **Engineering Notice for Spring Valley:** Structural loading calculated based on 479 ft terrain assessment. Regional dispatch grid: Rockland County.

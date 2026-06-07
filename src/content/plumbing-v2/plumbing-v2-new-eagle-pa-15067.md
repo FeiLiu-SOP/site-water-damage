@@ -12,6 +12,7 @@ lng: -79.9500
 zipSample: ["15067"]
 zipCodes: ["15067"]
 localPaths: ["Washington County / primary ZIP 15067", "Washington County / ZIP 15067 sector", "Washington County / coords 40.2100, -79.9500", "Washington County / elevation 968 ft band"]
+zillowHomeValueUsd: 121492
 ---
 
 **Engineering Notice for New Eagle:** System optimized for 152 mg/L hard water scaling factors in New Eagle. Regional dispatch grid: Washington County.

@@ -11,6 +11,7 @@ lng: -87.8800
 zipSample: ["53144", "53143", "53142", "53141", "53140"]
 zipCodes: ["53144", "53141", "53140", "53142", "53143"]
 localPaths: ["Kenosha County / elevation 719 ft band", "Kenosha County / ZIP 53144 sector", "Kenosha County / ZIP 53140 sector", "Kenosha County / ZIP 53142 sector", "Kenosha County / coords 42.5900, -87.8800"]
+zillowHomeValueUsd: 319762
 ---
 
 **Engineering Notice for Kenosha:** Structural loading calculated based on 719 ft terrain assessment. Regional dispatch grid: Kenosha County.

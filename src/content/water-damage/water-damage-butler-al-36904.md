@@ -12,6 +12,7 @@ lng: -88.2100
 zipSample: ["36904"]
 zipCodes: ["36904"]
 localPaths: ["Choctaw County / elevation 161 ft band", "Choctaw County / coords 32.1000, -88.2100", "Choctaw County / primary ZIP 36904", "Choctaw County / ZIP 36904 sector"]
+zillowHomeValueUsd: 137394
 ---
 
 **Engineering Notice for Butler:** structural drying capacity optimized for 161ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Choctaw County. Relative Humidity Threshold: 69%. Sensor sync: Active.

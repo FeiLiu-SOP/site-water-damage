@@ -12,6 +12,7 @@ lng: -77.5300
 zipSample: ["21777"]
 zipCodes: ["21777"]
 localPaths: ["Frederick County / coords 39.2800, -77.5300", "Frederick County / primary ZIP 21777", "Frederick County / ZIP 21777 sector", "Frederick County / elevation 276 ft band"]
+zillowHomeValueUsd: 519133
 ---
 
 **Engineering Notice for Point of Rocks:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 0.81. Regional dispatch grid: Frederick County.

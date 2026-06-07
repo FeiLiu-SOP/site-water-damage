@@ -11,6 +11,7 @@ lng: -79.9600
 zipSample: ["15101", "15091"]
 zipCodes: ["15091", "15101"]
 localPaths: ["Allegheny County / elevation 1112 ft band", "Allegheny County / coords 40.5700, -79.9600", "Allegheny County / primary ZIP 15101", "Allegheny County / ZIP 15101 sector", "Allegheny County / ZIP 15091 sector"]
+zillowHomeValueUsd: 378274
 ---
 
 **Engineering Notice for Allison Park:** Structural loading calculated based on 1112 ft terrain assessment. Regional dispatch grid: Allegheny County.

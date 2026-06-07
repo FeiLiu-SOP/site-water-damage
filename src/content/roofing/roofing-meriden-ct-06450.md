@@ -11,6 +11,7 @@ lng: -72.7900
 zipSample: ["06451", "06450"]
 zipCodes: ["06451", "06450"]
 localPaths: ["South Central Connecticut County / primary ZIP 06450", "South Central Connecticut County / elevation 171 ft band", "South Central Connecticut County / coords 41.5400, -72.7900", "South Central Connecticut County / ZIP 06451 sector", "South Central Connecticut County / ZIP 06450 sector"]
+zillowHomeValueUsd: 310265
 ---
 
 **Engineering Notice for Meriden:** Structural loading calculated based on 171 ft terrain assessment. Regional dispatch grid: South Central Connecticut County.

@@ -12,6 +12,7 @@ lng: -88.4300
 zipSample: ["60142"]
 zipCodes: ["60142"]
 localPaths: ["McHenry County / coords 42.1600, -88.4300", "McHenry County / elevation 869 ft band", "McHenry County / ZIP 60142 sector", "McHenry County / primary ZIP 60142"]
+zillowHomeValueUsd: 417941
 ---
 
 **Engineering Notice for Huntley:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: McHenry County.

@@ -12,6 +12,7 @@ lng: -87.7700
 zipSample: ["53402"]
 zipCodes: ["53402"]
 localPaths: ["Racine County / primary ZIP 53402", "Racine County / elevation 617 ft band", "Racine County / ZIP 53402 sector", "Racine County / coords 42.7800, -87.7700"]
+zillowHomeValueUsd: 294604
 ---
 
 **Engineering Notice for Wind Point:** System optimized for 152 mg/L hard water scaling factors in Wind Point. Regional dispatch grid: Racine County.

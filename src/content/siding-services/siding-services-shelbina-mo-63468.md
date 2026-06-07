@@ -12,6 +12,7 @@ lng: -92.0400
 zipSample: ["63468"]
 zipCodes: ["63468"]
 localPaths: ["Shelby County / primary ZIP 63468", "Shelby County / coords 39.6900, -92.0400", "Shelby County / ZIP 63468 sector", "Shelby County / elevation 784 ft band"]
+zillowHomeValueUsd: 164494
 ---
 
 **Engineering Notice for Shelbina:** Structural integrity verification: Surface Sheathing calibrated for 104 mph localized wind load factor. Elevation: 784 ft AMSL. Regional dispatch grid: Shelby County.

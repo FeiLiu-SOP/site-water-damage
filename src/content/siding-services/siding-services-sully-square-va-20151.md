@@ -12,6 +12,7 @@ lng: -77.4200
 zipSample: ["20171", "20151"]
 zipCodes: ["20171", "20151"]
 localPaths: ["Fairfax County / coords 38.9200, -77.4200", "Fairfax County / ZIP 20151 sector", "Fairfax County / ZIP 20171 sector", "Fairfax County / primary ZIP 20151", "Fairfax County / elevation 344 ft band"]
+zillowHomeValueUsd: 763408
 ---
 
 **Engineering Notice for Sully Square:** Envelope check: Panel Replacement assigned to wind-load band B with stress factor 0.93. Elevation: 344 ft AMSL. Regional dispatch grid: Fairfax County.

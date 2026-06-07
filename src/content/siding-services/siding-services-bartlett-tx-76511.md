@@ -12,6 +12,7 @@ lng: -97.4300
 zipSample: ["76511"]
 zipCodes: ["76511"]
 localPaths: ["Williamson County / primary ZIP 76511", "Williamson County / coords 30.8000, -97.4300", "Williamson County / elevation 614 ft band", "Williamson County / ZIP 76511 sector"]
+zillowHomeValueUsd: 218348
 ---
 
 **Engineering Notice for Bartlett:** Envelope check: Exterior Envelope assigned to wind-load band A with stress factor 0.71. Regional dispatch grid: Williamson County.

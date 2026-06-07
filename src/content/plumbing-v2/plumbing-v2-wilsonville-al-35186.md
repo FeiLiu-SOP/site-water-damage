@@ -12,6 +12,7 @@ lng: -86.4900
 zipSample: ["35186"]
 zipCodes: ["35186"]
 localPaths: ["Shelby County / elevation 443 ft band", "Shelby County / coords 33.2300, -86.4900", "Shelby County / primary ZIP 35186", "Shelby County / ZIP 35186 sector"]
+zillowHomeValueUsd: 360464
 ---
 
 **Engineering Notice for Wilsonville:** System optimized for 139 mg/L hard water scaling factors in Wilsonville. Regional dispatch grid: Shelby County.

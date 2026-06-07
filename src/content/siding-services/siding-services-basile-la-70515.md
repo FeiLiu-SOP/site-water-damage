@@ -12,6 +12,7 @@ lng: -92.6000
 zipSample: ["70515"]
 zipCodes: ["70515"]
 localPaths: ["Evangeline Parish / primary ZIP 70515", "Evangeline Parish / elevation 66 ft band", "Evangeline Parish / coords 30.4900, -92.6000", "Evangeline Parish / ZIP 70515 sector"]
+zillowHomeValueUsd: 106361
 ---
 
 **Engineering Notice for Basile:** Envelope check: Cladding Service assigned to wind-load band A with stress factor 1.17. Regional dispatch grid: Evangeline Parish.

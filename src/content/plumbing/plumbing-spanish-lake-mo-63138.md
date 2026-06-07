@@ -12,6 +12,7 @@ lng: -90.2100
 zipSample: ["63138"]
 zipCodes: ["63138"]
 localPaths: ["St. Louis County / ZIP 63138 sector", "St. Louis County / coords 38.7900, -90.2100", "St. Louis County / primary ZIP 63138", "St. Louis County / elevation 531 ft band"]
+zillowHomeValueUsd: 148400
 ---
 
 **Engineering Notice for Spanish Lake:** Structural loading calculated based on 531 ft terrain assessment. Regional dispatch grid: St. Louis County.

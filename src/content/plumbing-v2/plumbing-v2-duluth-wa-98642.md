@@ -12,6 +12,7 @@ lng: -122.6500
 zipSample: ["98642"]
 zipCodes: ["98642"]
 localPaths: ["Clark County / primary ZIP 98642", "Clark County / ZIP 98642 sector", "Clark County / elevation 282 ft band", "Clark County / coords 45.7800, -122.6500"]
+zillowHomeValueUsd: 652452
 ---
 
 **Engineering Notice for Duluth:** System optimized for 135 mg/L hard water scaling factors in Duluth. Regional dispatch grid: Clark County.

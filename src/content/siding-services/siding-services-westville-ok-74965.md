@@ -12,6 +12,7 @@ lng: -94.5800
 zipSample: ["74965"]
 zipCodes: ["74965"]
 localPaths: ["Adair County / coords 35.9900, -94.5800", "Adair County / ZIP 74965 sector", "Adair County / primary ZIP 74965", "Adair County / elevation 1168 ft band"]
+zillowHomeValueUsd: 188960
 ---
 
 **Engineering Notice for Westville:** Envelope check: Weather Barrier Wrap assigned to wind-load band B with stress factor 0.72. Regional dispatch grid: Adair County.

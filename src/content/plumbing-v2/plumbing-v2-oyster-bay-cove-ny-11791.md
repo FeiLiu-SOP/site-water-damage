@@ -12,6 +12,7 @@ lng: -73.5000
 zipSample: ["11791", "11771"]
 zipCodes: ["11791", "11771"]
 localPaths: ["Nassau County / ZIP 11771 sector", "Nassau County / primary ZIP 11791", "Nassau County / coords 40.8600, -73.5000", "Nassau County / ZIP 11791 sector", "Nassau County / elevation 177 ft band"]
+zillowHomeValueUsd: 1165907
 ---
 
 **Engineering Notice for Oyster Bay Cove:** System optimized for 139 mg/L hard water scaling factors in Oyster Bay Cove. Regional dispatch grid: Nassau County.

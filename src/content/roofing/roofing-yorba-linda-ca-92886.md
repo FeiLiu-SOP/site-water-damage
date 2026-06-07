@@ -11,6 +11,7 @@ lng: -117.7700
 zipSample: ["92886", "92887", "92885"]
 zipCodes: ["92885", "92887", "92886"]
 localPaths: ["Orange County / primary ZIP 92886", "Orange County / ZIP 92887 sector", "Orange County / elevation 554 ft band", "Orange County / ZIP 92885 sector", "Orange County / ZIP 92886 sector"]
+zillowHomeValueUsd: 1378777
 ---
 
 **Engineering Notice for Yorba Linda:** Structural loading calculated based on 554 ft terrain assessment. Regional dispatch grid: Orange County.

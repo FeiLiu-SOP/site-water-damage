@@ -12,6 +12,7 @@ lng: -89.9000
 zipSample: ["54538"]
 zipCodes: ["54538"]
 localPaths: ["Vilas County / primary ZIP 54538", "Vilas County / coords 45.9700, -89.9000", "Vilas County / elevation 1585 ft band", "Vilas County / ZIP 54538 sector"]
+zillowHomeValueUsd: 463822
 ---
 
 **Engineering Notice for Lac du Flambeau:** structural drying capacity optimized for 1585ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Vilas County. Relative Humidity Threshold: 71%. Sensor sync: Active.

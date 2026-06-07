@@ -12,6 +12,7 @@ lng: -91.7400
 zipSample: ["72024"]
 zipCodes: ["72024"]
 localPaths: ["Lonoke County / primary ZIP 72024", "Lonoke County / ZIP 72024 sector", "Lonoke County / coords 34.7900, -91.7400", "Lonoke County / elevation 246 ft band"]
+zillowHomeValueUsd: 178365
 ---
 
 **Engineering Notice for Carlisle:** Wall Restoration was validated under stress factor 0.73; target tolerance set near 108 mph. Grid anchor: Lonoke County.

@@ -12,6 +12,7 @@ lng: -97.1300
 zipSample: ["73402", "73403", "73401"]
 zipCodes: ["73401", "73402", "73403"]
 localPaths: ["Carter County / elevation 899 ft band", "Carter County / coords 34.1900, -97.1300", "Carter County / ZIP 73401 sector", "Carter County / ZIP 73402 sector", "Carter County / primary ZIP 73401"]
+zillowHomeValueUsd: 181346
 ---
 
 **Engineering Notice for Ardmore:** Structural loading calculated based on 899 ft terrain assessment. Regional dispatch grid: Carter County.

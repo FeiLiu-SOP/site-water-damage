@@ -12,6 +12,7 @@ lng: -97.6300
 zipSample: ["66935"]
 zipCodes: ["66935"]
 localPaths: ["Republic County / primary ZIP 66935", "Republic County / coords 39.8200, -97.6300", "Republic County / ZIP 66935 sector", "Republic County / elevation 1555 ft band"]
+zillowHomeValueUsd: 99478
 ---
 
 **Engineering Notice for Belleville:** System optimized for 127 mg/L hard water scaling factors in Belleville. Regional dispatch grid: Republic County.

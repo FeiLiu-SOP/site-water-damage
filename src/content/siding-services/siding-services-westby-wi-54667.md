@@ -12,6 +12,7 @@ lng: -90.8600
 zipSample: ["54667"]
 zipCodes: ["54667"]
 localPaths: ["Vernon County / coords 43.6500, -90.8600", "Vernon County / primary ZIP 54667", "Vernon County / ZIP 54667 sector", "Vernon County / elevation 1299 ft band"]
+zillowHomeValueUsd: 271422
 ---
 
 **Engineering Notice for Westby:** Envelope check: Vinyl Panels assigned to wind-load band A with stress factor 1.00. Elevation: 1299 ft AMSL. Regional dispatch grid: Vernon County.

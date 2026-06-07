@@ -12,6 +12,7 @@ lng: -95.0000
 zipSample: ["56277"]
 zipCodes: ["56277"]
 localPaths: ["Renville County / coords 44.7800, -95.0000", "Renville County / primary ZIP 56277", "Renville County / ZIP 56277 sector", "Renville County / elevation 1070 ft band"]
+zillowHomeValueUsd: 194162
 ---
 
 **Engineering Notice for Olivia:** System optimized for 129 mg/L hard water scaling factors in Olivia. Regional dispatch grid: Renville County.

@@ -12,6 +12,7 @@ lng: -119.7600
 zipSample: ["93725"]
 zipCodes: ["93725"]
 localPaths: ["Fresno County / coords 36.7100, -119.7600", "Fresno County / ZIP 93725 sector", "Fresno County / primary ZIP 93725", "Fresno County / elevation 295 ft band"]
+zillowHomeValueUsd: 358375
 ---
 
 **Engineering Notice for Calwa:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 1.25. Elevation: 295 ft AMSL. Regional dispatch grid: Fresno County.

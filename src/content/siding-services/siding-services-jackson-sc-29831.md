@@ -12,6 +12,7 @@ lng: -81.7900
 zipSample: ["29831"]
 zipCodes: ["29831"]
 localPaths: ["Aiken County / coords 33.3300, -81.7900", "Aiken County / primary ZIP 29831", "Aiken County / ZIP 29831 sector", "Aiken County / elevation 217 ft band"]
+zillowHomeValueUsd: 123189
 ---
 
 **Engineering Notice for Jackson:** Structural integrity verification: Cladding Retrofit calibrated for 102 mph localized wind load factor. Elevation: 217 ft AMSL. Coordinates: 33.3300, -81.7900. Regional dispatch grid: Aiken County.

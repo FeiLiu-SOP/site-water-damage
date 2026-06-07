@@ -12,6 +12,7 @@ lng: -93.2000
 zipSample: ["55019"]
 zipCodes: ["55019"]
 localPaths: ["Rice County / coords 44.4300, -93.2000", "Rice County / ZIP 55019 sector", "Rice County / elevation 935 ft band", "Rice County / primary ZIP 55019"]
+zillowHomeValueUsd: 388229
 ---
 
 **Engineering Notice for Dundas:** structural drying capacity optimized for 935ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rice County. Relative Humidity Threshold: 76%. Sensor sync: Active.

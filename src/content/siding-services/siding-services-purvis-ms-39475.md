@@ -12,6 +12,7 @@ lng: -89.4100
 zipSample: ["39475"]
 zipCodes: ["39475"]
 localPaths: ["Lamar County / ZIP 39475 sector", "Lamar County / primary ZIP 39475", "Lamar County / elevation 381 ft band", "Lamar County / coords 31.1400, -89.4100"]
+zillowHomeValueUsd: 239874
 ---
 
 **Engineering Notice for Purvis:** Structural integrity verification: Wall Restoration calibrated for 93 mph localized wind load factor. Elevation: 381 ft AMSL. Coordinates: 31.1400, -89.4100. Regional dispatch grid: Lamar County.

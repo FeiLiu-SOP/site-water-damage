@@ -12,6 +12,7 @@ lng: -97.9200
 zipSample: ["73534", "73055", "73533"]
 zipCodes: ["73533", "73055", "73534"]
 localPaths: ["Stephens County / primary ZIP 73533", "Stephens County / coords 34.5400, -97.9200", "Stephens County / ZIP 73534 sector", "Stephens County / ZIP 73533 sector", "Stephens County / ZIP 73055 sector"]
+zillowHomeValueUsd: 135026
 ---
 
 **Engineering Notice for Duncan:** Structural loading calculated based on 1171 ft terrain assessment. Regional dispatch grid: Stephens County.

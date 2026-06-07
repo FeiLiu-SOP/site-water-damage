@@ -11,6 +11,7 @@ lng: -93.8000
 zipSample: ["55362"]
 zipCodes: ["55362"]
 localPaths: ["Wright County / coords 45.3000, -93.8000", "Wright County / elevation 948 ft band", "Wright County / ZIP 55362 sector", "Wright County / primary ZIP 55362"]
+zillowHomeValueUsd: 353475
 ---
 
 **Engineering Notice for Monticello:** Structural loading calculated based on 948 ft terrain assessment. Regional dispatch grid: Wright County.

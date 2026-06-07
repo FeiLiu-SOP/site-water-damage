@@ -12,6 +12,7 @@ lng: -83.3800
 zipSample: ["41339"]
 zipCodes: ["41339"]
 localPaths: ["Breathitt County / primary ZIP 41339", "Breathitt County / elevation 797 ft band", "Breathitt County / ZIP 41339 sector", "Breathitt County / coords 37.5600, -83.3800"]
+zillowHomeValueUsd: 91222
 ---
 
 **Engineering Notice for Jackson:** Envelope check: Exterior Cladding assigned to wind-load band C with stress factor 1.01. Elevation: 797 ft AMSL. Regional dispatch grid: Breathitt County.

@@ -12,6 +12,7 @@ lng: -82.2200
 zipSample: ["37643"]
 zipCodes: ["37643"]
 localPaths: ["Carter County / elevation 1860 ft band", "Carter County / ZIP 37643 sector", "Carter County / coords 36.3700, -82.2200", "Carter County / primary ZIP 37643"]
+zillowHomeValueUsd: 230357
 ---
 
 **Engineering Notice for Biltmore:** structural drying capacity optimized for 1860ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Carter County. Relative Humidity Threshold: 65%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -80.7600
 zipSample: ["44431"]
 zipCodes: ["44431"]
 localPaths: ["Columbiana County / primary ZIP 44431", "Columbiana County / elevation 1109 ft band", "Columbiana County / ZIP 44431 sector", "Columbiana County / coords 40.8800, -80.7600"]
+zillowHomeValueUsd: 176803
 ---
 
 **Engineering Notice for Leetonia:** Envelope check: Facade Renewal assigned to wind-load band B with stress factor 1.00. Regional dispatch grid: Columbiana County.

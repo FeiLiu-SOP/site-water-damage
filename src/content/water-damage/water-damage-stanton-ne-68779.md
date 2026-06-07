@@ -12,6 +12,7 @@ lng: -97.2200
 zipSample: ["68779"]
 zipCodes: ["68779"]
 localPaths: ["Stanton County / primary ZIP 68779", "Stanton County / ZIP 68779 sector", "Stanton County / coords 41.9500, -97.2200", "Stanton County / elevation 1460 ft band"]
+zillowHomeValueUsd: 248195
 ---
 
 **Engineering Notice for Stanton:** structural drying capacity optimized for 1460ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stanton County. Relative Humidity Threshold: 84%. Sensor sync: Active.

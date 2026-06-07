@@ -12,6 +12,7 @@ lng: -79.1700
 zipSample: ["27243"]
 zipCodes: ["27243"]
 localPaths: ["Orange County / coords 36.0800, -79.1700", "Orange County / elevation 656 ft band", "Orange County / primary ZIP 27243", "Orange County / ZIP 27243 sector"]
+zillowHomeValueUsd: 402779
 ---
 
 **Engineering Notice for Efland:** System optimized for 159 mg/L hard water scaling factors in Efland. Regional dispatch grid: Orange County.

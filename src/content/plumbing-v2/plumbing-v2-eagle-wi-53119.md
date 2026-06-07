@@ -12,6 +12,7 @@ lng: -88.4700
 zipSample: ["53119"]
 zipCodes: ["53119"]
 localPaths: ["Waukesha County / elevation 945 ft band", "Waukesha County / ZIP 53119 sector", "Waukesha County / primary ZIP 53119", "Waukesha County / coords 42.8800, -88.4700"]
+zillowHomeValueUsd: 523873
 ---
 
 **Engineering Notice for Eagle:** System optimized for 140 mg/L hard water scaling factors in Eagle. Regional dispatch grid: Waukesha County.

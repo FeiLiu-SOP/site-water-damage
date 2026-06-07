@@ -12,6 +12,7 @@ lng: -74.9300
 zipSample: ["19047"]
 zipCodes: ["19047"]
 localPaths: ["Bucks County / coords 40.1600, -74.9300", "Bucks County / ZIP 19047 sector", "Bucks County / elevation 200 ft band", "Bucks County / primary ZIP 19047"]
+zillowHomeValueUsd: 560832
 ---
 
 **Engineering Notice for Parkland:** Site context locked to Bucks County. Coordinates: 40.1600, -74.9300. Cladding Service integrity verification recorded.

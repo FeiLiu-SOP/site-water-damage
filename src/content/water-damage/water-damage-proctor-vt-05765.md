@@ -12,6 +12,7 @@ lng: -73.0400
 zipSample: ["05765"]
 zipCodes: ["05765"]
 localPaths: ["Rutland County / primary ZIP 05765", "Rutland County / elevation 479 ft band", "Rutland County / coords 43.6700, -73.0400", "Rutland County / ZIP 05765 sector"]
+zillowHomeValueUsd: 255392
 ---
 
 **Engineering Notice for Proctor:** structural drying capacity optimized for 479ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rutland County. Relative Humidity Threshold: 73%. Sensor sync: Active.

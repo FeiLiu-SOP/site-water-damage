@@ -12,6 +12,7 @@ lng: -88.5700
 zipSample: ["61813"]
 zipCodes: ["61813"]
 localPaths: ["Piatt County / elevation 696 ft band", "Piatt County / ZIP 61813 sector", "Piatt County / coords 39.9200, -88.5700", "Piatt County / primary ZIP 61813"]
+zillowHomeValueUsd: 152107
 ---
 
 **Engineering Notice for Bement:** Surface Sheathing was validated under stress factor 0.79; target tolerance set near 96 mph. Coordinates: 39.9200, -88.5700. Grid anchor: Piatt County.

@@ -12,6 +12,8 @@ lng: -85.1900
 zipSample: ["30149"]
 zipCodes: ["30149"]
 localPaths: ["Floyd County / elevation 610 ft band", "Floyd County / ZIP 30149 sector", "Floyd County / coords 34.2900, -85.1900", "Floyd County / primary ZIP 30149"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 299834
 ---
 
 **Engineering Notice for Berry College:** Envelope check: Wall Restoration assigned to wind-load band A with stress factor 1.06. Regional dispatch grid: Floyd County.

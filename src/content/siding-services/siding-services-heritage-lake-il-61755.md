@@ -12,6 +12,7 @@ lng: -89.3300
 zipSample: ["61755"]
 zipCodes: ["61755"]
 localPaths: ["Tazewell County / elevation 676 ft band", "Tazewell County / ZIP 61755 sector", "Tazewell County / coords 40.5500, -89.3300", "Tazewell County / primary ZIP 61755"]
+zillowHomeValueUsd: 250196
 ---
 
 **Engineering Notice for Heritage Lake:** Cladding verification uses 106 mph routing baseline; lateral pressure note: 13.9 psf. Elevation: 676 ft AMSL. Grid: Tazewell County.

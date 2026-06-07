@@ -12,6 +12,7 @@ lng: -73.9500
 zipSample: ["10516"]
 zipCodes: ["10516"]
 localPaths: ["Putnam County / coords 41.4200, -73.9500", "Putnam County / ZIP 10516 sector", "Putnam County / elevation 131 ft band", "Putnam County / primary ZIP 10516"]
+zillowHomeValueUsd: 706608
 ---
 
 **Engineering Notice for Cold Spring:** System optimized for 154 mg/L hard water scaling factors in Cold Spring. Regional dispatch grid: Putnam County.

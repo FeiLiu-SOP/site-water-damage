@@ -12,6 +12,7 @@ lng: -85.7200
 zipSample: ["35740"]
 zipCodes: ["35740"]
 localPaths: ["Jackson County / primary ZIP 35740", "Jackson County / elevation 709 ft band", "Jackson County / ZIP 35740 sector", "Jackson County / coords 34.9500, -85.7200"]
+zillowHomeValueUsd: 136250
 ---
 
 **Engineering Notice for Bridgeport:** Cladding Retrofit was validated under stress factor 1.14; target tolerance set near 97 mph. Grid anchor: Jackson County.

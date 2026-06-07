@@ -12,6 +12,7 @@ lng: -80.6200
 zipSample: ["44514"]
 zipCodes: ["44514"]
 localPaths: ["Mahoning County / elevation 1040 ft band", "Mahoning County / coords 41.0200, -80.6200", "Mahoning County / primary ZIP 44514", "Mahoning County / ZIP 44514 sector"]
+zillowHomeValueUsd: 243708
 ---
 
 **Engineering Notice for Poland:** Structural integrity verification: Surface Sheathing calibrated for 103 mph localized wind load factor. Elevation: 1040 ft AMSL. Coordinates: 41.0200, -80.6200. Regional dispatch grid: Mahoning County.

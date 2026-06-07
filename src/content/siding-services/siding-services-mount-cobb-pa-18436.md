@@ -12,6 +12,7 @@ lng: -75.5000
 zipSample: ["18436"]
 zipCodes: ["18436"]
 localPaths: ["Lackawanna County / ZIP 18436 sector", "Lackawanna County / coords 41.4200, -75.5000", "Lackawanna County / primary ZIP 18436", "Lackawanna County / elevation 1975 ft band"]
+zillowHomeValueUsd: 303557
 ---
 
 **Engineering Notice for Mount Cobb:** Envelope check: Wall Restoration assigned to wind-load band A with stress factor 1.20. Elevation: 1975 ft AMSL. Regional dispatch grid: Lackawanna County.

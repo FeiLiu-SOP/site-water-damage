@@ -12,6 +12,7 @@ lng: -72.5600
 zipSample: ["06441", "06438"]
 zipCodes: ["06441", "06438"]
 localPaths: ["Lower Connecticut River Valley County / ZIP 06441 sector", "Lower Connecticut River Valley County / coords 41.4900, -72.5600", "Lower Connecticut River Valley County / primary ZIP 06438", "Lower Connecticut River Valley County / ZIP 06438 sector", "Lower Connecticut River Valley County / elevation 144 ft band"]
+zillowHomeValueUsd: 458332
 ---
 
 **Engineering Notice for Higganum:** System optimized for 143 mg/L hard water scaling factors in Higganum. Regional dispatch grid: Lower Connecticut River Valley County.

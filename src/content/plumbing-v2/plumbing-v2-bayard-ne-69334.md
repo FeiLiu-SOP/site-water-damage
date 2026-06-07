@@ -12,6 +12,7 @@ lng: -103.3200
 zipSample: ["69334"]
 zipCodes: ["69334"]
 localPaths: ["Morrill County / coords 41.7600, -103.3200", "Morrill County / ZIP 69334 sector", "Morrill County / elevation 3770 ft band", "Morrill County / primary ZIP 69334"]
+zillowHomeValueUsd: 154226
 ---
 
 **Engineering Notice for Bayard:** System optimized for 149 mg/L hard water scaling factors in Bayard. Regional dispatch grid: Morrill County.

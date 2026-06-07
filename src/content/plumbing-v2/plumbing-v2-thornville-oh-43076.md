@@ -12,6 +12,7 @@ lng: -82.4200
 zipSample: ["43076"]
 zipCodes: ["43076"]
 localPaths: ["Perry County / coords 39.8900, -82.4200", "Perry County / primary ZIP 43076", "Perry County / ZIP 43076 sector", "Perry County / elevation 1020 ft band"]
+zillowHomeValueUsd: 348055
 ---
 
 **Engineering Notice for Thornville:** System optimized for 124 mg/L hard water scaling factors in Thornville. Regional dispatch grid: Perry County.

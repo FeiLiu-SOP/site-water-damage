@@ -12,6 +12,7 @@ lng: -80.7200
 zipSample: ["29720"]
 zipCodes: ["29720"]
 localPaths: ["Lancaster County / primary ZIP 29720", "Lancaster County / coords 34.6700, -80.7200", "Lancaster County / elevation 633 ft band", "Lancaster County / ZIP 29720 sector"]
+zillowHomeValueUsd: 291607
 ---
 
 **Engineering Notice for Elgin:** Panel Replacement was validated under stress factor 0.99; target tolerance set near 110 mph. Grid anchor: Lancaster County.

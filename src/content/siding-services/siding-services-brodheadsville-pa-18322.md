@@ -12,6 +12,7 @@ lng: -75.4000
 zipSample: ["18322"]
 zipCodes: ["18322"]
 localPaths: ["Monroe County / coords 40.9300, -75.4000", "Monroe County / elevation 768 ft band", "Monroe County / ZIP 18322 sector", "Monroe County / primary ZIP 18322"]
+zillowHomeValueUsd: 353567
 ---
 
 **Engineering Notice for Brodheadsville:** Site context locked to Monroe County. Elevation: 768 ft AMSL. Cladding Service integrity verification recorded.

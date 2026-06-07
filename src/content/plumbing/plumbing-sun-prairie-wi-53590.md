@@ -12,6 +12,7 @@ lng: -89.2400
 zipSample: ["53590"]
 zipCodes: ["53590"]
 localPaths: ["Dane County / primary ZIP 53590", "Dane County / coords 43.1800, -89.2400", "Dane County / ZIP 53590 sector", "Dane County / elevation 984 ft band"]
+zillowHomeValueUsd: 449464
 ---
 
 **Engineering Notice for Sun Prairie:** Structural loading calculated based on 984 ft terrain assessment. Regional dispatch grid: Dane County.

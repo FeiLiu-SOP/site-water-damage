@@ -12,6 +12,7 @@ lng: -87.4200
 zipSample: ["46319"]
 zipCodes: ["46319"]
 localPaths: ["Lake County / ZIP 46319 sector", "Lake County / primary ZIP 46319", "Lake County / elevation 653 ft band", "Lake County / coords 41.5300, -87.4200"]
+zillowHomeValueUsd: 247466
 ---
 
 **Engineering Notice for Griffith:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Lake County.

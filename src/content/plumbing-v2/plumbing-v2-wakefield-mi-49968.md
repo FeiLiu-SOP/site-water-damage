@@ -12,6 +12,7 @@ lng: -89.9300
 zipSample: ["49968"]
 zipCodes: ["49968"]
 localPaths: ["Gogebic County / elevation 1526 ft band", "Gogebic County / ZIP 49968 sector", "Gogebic County / primary ZIP 49968", "Gogebic County / coords 46.4800, -89.9300"]
+zillowHomeValueUsd: 105053
 ---
 
 **Engineering Notice for Wakefield:** System optimized for 156 mg/L hard water scaling factors in Wakefield. Regional dispatch grid: Gogebic County.

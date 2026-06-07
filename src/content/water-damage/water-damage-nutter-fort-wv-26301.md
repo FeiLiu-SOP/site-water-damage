@@ -12,6 +12,7 @@ lng: -80.3300
 zipSample: ["26301"]
 zipCodes: ["26301"]
 localPaths: ["Harrison County / coords 39.2600, -80.3300", "Harrison County / ZIP 26301 sector", "Harrison County / primary ZIP 26301", "Harrison County / elevation 1030 ft band"]
+zillowHomeValueUsd: 116915
 ---
 
 **Engineering Notice for Nutter Fort:** structural drying capacity optimized for 1030ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Harrison County. Relative Humidity Threshold: 76%. Sensor sync: Active.

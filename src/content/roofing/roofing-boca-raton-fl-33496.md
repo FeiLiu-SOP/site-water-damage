@@ -11,6 +11,7 @@ lng: -80.1100
 zipSample: ["33429", "33432", "33481", "33433", "33496"]
 zipCodes: ["33432", "33433", "33496", "33499", "33487", "33486", "33434", "33431", "33427", "33481", "33429"]
 localPaths: ["Palm Beach County / ZIP 33496 sector", "Palm Beach County / primary ZIP 33496", "Palm Beach County / ZIP 33481 sector", "Palm Beach County / elevation 20 ft band", "Palm Beach County / coords 26.3800, -80.1100"]
+zillowHomeValueUsd: 980348
 ---
 
 **Engineering Notice for Boca Raton:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Palm Beach County.

@@ -12,6 +12,7 @@ lng: -78.0400
 zipSample: ["28333"]
 zipCodes: ["28333"]
 localPaths: ["Wayne County / ZIP 28333 sector", "Wayne County / primary ZIP 28333", "Wayne County / elevation 177 ft band", "Wayne County / coords 35.2700, -78.0400"]
+zillowHomeValueUsd: 135142
 ---
 
 **Engineering Notice for Dudley:** Cladding verification uses 94 mph routing baseline; lateral pressure note: 12.5 psf. Elevation: 177 ft AMSL. Coordinates: 35.2700, -78.0400. Grid: Wayne County.

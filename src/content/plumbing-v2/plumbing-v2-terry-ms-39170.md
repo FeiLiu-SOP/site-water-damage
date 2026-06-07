@@ -12,6 +12,7 @@ lng: -90.3000
 zipSample: ["39170"]
 zipCodes: ["39170"]
 localPaths: ["Hinds County / elevation 328 ft band", "Hinds County / coords 32.1000, -90.3000", "Hinds County / ZIP 39170 sector", "Hinds County / primary ZIP 39170"]
+zillowHomeValueUsd: 267905
 ---
 
 **Engineering Notice for Terry:** System optimized for 178 mg/L hard water scaling factors in Terry. Regional dispatch grid: Hinds County.

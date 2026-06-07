@@ -12,6 +12,7 @@ lng: -75.5800
 zipSample: ["18210"]
 zipCodes: ["18210"]
 localPaths: ["Carbon County / coords 40.9900, -75.5800", "Carbon County / elevation 1709 ft band", "Carbon County / primary ZIP 18210", "Carbon County / ZIP 18210 sector"]
+zillowHomeValueUsd: 269874
 ---
 
 **Engineering Notice for Towamensing Trails:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Elevation: 1709 ft AMSL. Coordinates: 40.9900, -75.5800. Grid: Carbon County.

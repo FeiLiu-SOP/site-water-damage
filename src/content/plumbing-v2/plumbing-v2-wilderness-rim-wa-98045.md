@@ -12,6 +12,7 @@ lng: -121.7700
 zipSample: ["98045"]
 zipCodes: ["98045"]
 localPaths: ["King County / elevation 1063 ft band", "King County / primary ZIP 98045", "King County / coords 47.4500, -121.7700", "King County / ZIP 98045 sector"]
+zillowHomeValueUsd: 1003659
 ---
 
 **Engineering Notice for Wilderness Rim:** System optimized for 180 mg/L hard water scaling factors in Wilderness Rim. Regional dispatch grid: King County.

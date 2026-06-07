@@ -12,6 +12,7 @@ lng: -88.3500
 zipSample: ["60156"]
 zipCodes: ["60156"]
 localPaths: ["McHenry County / elevation 889 ft band", "McHenry County / ZIP 60156 sector", "McHenry County / primary ZIP 60156", "McHenry County / coords 42.1900, -88.3500"]
+zillowHomeValueUsd: 369538
 ---
 
 **Engineering Notice for Lake in the Hills:** Structural loading calculated based on 889 ft terrain assessment. Regional dispatch grid: McHenry County.

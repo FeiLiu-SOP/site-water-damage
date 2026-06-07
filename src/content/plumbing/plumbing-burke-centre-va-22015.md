@@ -12,6 +12,7 @@ lng: -77.3000
 zipSample: ["22015"]
 zipCodes: ["22015"]
 localPaths: ["Fairfax County / elevation 384 ft band", "Fairfax County / primary ZIP 22015", "Fairfax County / ZIP 22015 sector", "Fairfax County / coords 38.7900, -77.3000"]
+zillowHomeValueUsd: 733876
 ---
 
 **Engineering Notice for Burke Centre:** Structural loading calculated based on 384 ft terrain assessment. Regional dispatch grid: Fairfax County.

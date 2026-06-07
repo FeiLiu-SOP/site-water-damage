@@ -12,6 +12,7 @@ lng: -81.4600
 zipSample: ["28666", "28602", "28612"]
 zipCodes: ["28602", "28666", "28612"]
 localPaths: ["Burke County / ZIP 28666 sector", "Burke County / ZIP 28602 sector", "Burke County / coords 35.7300, -81.4600", "Burke County / primary ZIP 28612", "Burke County / ZIP 28612 sector"]
+zillowHomeValueUsd: 237887
 ---
 
 **Engineering Notice for Icard:** System optimized for 164 mg/L hard water scaling factors in Icard. Regional dispatch grid: Burke County.

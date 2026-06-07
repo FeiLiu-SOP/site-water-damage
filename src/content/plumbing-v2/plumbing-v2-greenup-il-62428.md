@@ -12,6 +12,7 @@ lng: -88.1600
 zipSample: ["62428"]
 zipCodes: ["62428"]
 localPaths: ["Cumberland County / coords 39.2500, -88.1600", "Cumberland County / ZIP 62428 sector", "Cumberland County / elevation 597 ft band", "Cumberland County / primary ZIP 62428"]
+zillowHomeValueUsd: 139940
 ---
 
 **Engineering Notice for Greenup:** System optimized for 134 mg/L hard water scaling factors in Greenup. Regional dispatch grid: Cumberland County.

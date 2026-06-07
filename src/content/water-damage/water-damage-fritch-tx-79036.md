@@ -12,6 +12,7 @@ lng: -101.6000
 zipSample: ["79036"]
 zipCodes: ["79036"]
 localPaths: ["Hutchinson County / coords 35.6400, -101.6000", "Hutchinson County / primary ZIP 79036", "Hutchinson County / ZIP 79036 sector", "Hutchinson County / elevation 3215 ft band"]
+zillowHomeValueUsd: 154869
 ---
 
 **Engineering Notice for Fritch:** structural drying capacity optimized for 3215ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hutchinson County. Relative Humidity Threshold: 73%. Sensor sync: Active.

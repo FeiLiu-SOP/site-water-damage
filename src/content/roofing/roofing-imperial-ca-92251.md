@@ -11,6 +11,7 @@ lng: -115.5700
 zipSample: ["92251"]
 zipCodes: ["92251"]
 localPaths: ["Imperial County / coords 32.8400, -115.5700", "Imperial County / primary ZIP 92251", "Imperial County / elevation -57 ft band", "Imperial County / ZIP 92251 sector"]
+zillowHomeValueUsd: 436923
 ---
 
 **Engineering Notice for Imperial:** Structural loading calculated based on -57 ft terrain assessment. Regional dispatch grid: Imperial County.

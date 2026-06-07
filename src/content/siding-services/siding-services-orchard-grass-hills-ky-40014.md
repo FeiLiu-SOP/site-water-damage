@@ -12,6 +12,7 @@ lng: -85.5200
 zipSample: ["40014"]
 zipCodes: ["40014"]
 localPaths: ["Oldham County / primary ZIP 40014", "Oldham County / elevation 696 ft band", "Oldham County / ZIP 40014 sector", "Oldham County / coords 38.3200, -85.5200"]
+zillowHomeValueUsd: 464427
 ---
 
 **Engineering Notice for Orchard Grass Hills:** Cladding Retrofit was validated under stress factor 0.83; target tolerance set near 106 mph. Coordinates: 38.3200, -85.5200. Grid anchor: Oldham County.

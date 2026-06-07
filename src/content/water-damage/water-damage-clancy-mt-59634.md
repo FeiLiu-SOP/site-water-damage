@@ -12,6 +12,7 @@ lng: -112.0000
 zipSample: ["59634"]
 zipCodes: ["59634"]
 localPaths: ["Jefferson County / elevation 4764 ft band", "Jefferson County / primary ZIP 59634", "Jefferson County / ZIP 59634 sector", "Jefferson County / coords 46.4500, -112.0000"]
+zillowHomeValueUsd: 648267
 ---
 
 **Engineering Notice for Clancy:** structural drying capacity optimized for 4764ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 75%. Sensor sync: Active.

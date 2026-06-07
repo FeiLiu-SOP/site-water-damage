@@ -12,6 +12,7 @@ lng: -80.3200
 zipSample: ["33257", "33158", "33157"]
 zipCodes: ["33158", "33257", "33157"]
 localPaths: ["Miami-Dade County / ZIP 33158 sector", "Miami-Dade County / ZIP 33157 sector", "Miami-Dade County / coords 25.6200, -80.3200", "Miami-Dade County / ZIP 33257 sector", "Miami-Dade County / elevation 36 ft band"]
+zillowHomeValueUsd: 1346487
 ---
 
 **Engineering Notice for Palmetto Bay:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

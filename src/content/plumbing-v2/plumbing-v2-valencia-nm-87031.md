@@ -12,6 +12,7 @@ lng: -106.6900
 zipSample: ["87031"]
 zipCodes: ["87031"]
 localPaths: ["Valencia County / elevation 4846 ft band", "Valencia County / coords 34.8100, -106.6900", "Valencia County / primary ZIP 87031", "Valencia County / ZIP 87031 sector"]
+zillowHomeValueUsd: 323888
 ---
 
 **Engineering Notice for Valencia:** System optimized for 143 mg/L hard water scaling factors in Valencia. Regional dispatch grid: Valencia County.

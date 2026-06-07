@@ -11,6 +11,7 @@ lng: -115.2700
 zipSample: ["89108", "89151", "89129", "89117", "89152"]
 zipCodes: ["89128", "89155", "89105", "89133", "89110", "89124", "89104", "89153", "89163", "89102", "89114", "89137"]
 localPaths: ["Clark County / ZIP 89129 sector", "Clark County / elevation 2362 ft band", "Clark County / ZIP 89117 sector", "Clark County / ZIP 89152 sector", "Clark County / ZIP 89151 sector"]
+zillowHomeValueUsd: 400974
 ---
 
 **Engineering Notice for Las Vegas:** Structural loading calculated based on 2362 ft terrain assessment. Regional dispatch grid: Clark County.

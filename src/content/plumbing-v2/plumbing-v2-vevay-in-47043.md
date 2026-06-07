@@ -12,6 +12,7 @@ lng: -85.0800
 zipSample: ["47043"]
 zipCodes: ["47043"]
 localPaths: ["Switzerland County / ZIP 47043 sector", "Switzerland County / primary ZIP 47043", "Switzerland County / coords 38.7400, -85.0800", "Switzerland County / elevation 476 ft band"]
+zillowHomeValueUsd: 234962
 ---
 
 **Engineering Notice for Vevay:** System optimized for 136 mg/L hard water scaling factors in Vevay. Regional dispatch grid: Switzerland County.

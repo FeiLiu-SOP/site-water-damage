@@ -12,6 +12,7 @@ lng: -81.5600
 zipSample: ["31547", "31558"]
 zipCodes: ["31558", "31547"]
 localPaths: ["Camden County / elevation 39 ft band", "Camden County / ZIP 31558 sector", "Camden County / coords 30.8000, -81.5600", "Camden County / ZIP 31547 sector", "Camden County / primary ZIP 31558"]
+zillowHomeValueUsd: 309063
 ---
 
 **Engineering Notice for Kings Bay Base:** System optimized for 169 mg/L hard water scaling factors in Kings Bay Base. Regional dispatch grid: Camden County.

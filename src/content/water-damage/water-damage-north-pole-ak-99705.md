@@ -12,6 +12,7 @@ lng: -147.3600
 zipSample: ["99705"]
 zipCodes: ["99705"]
 localPaths: ["Fairbanks North Star County / coords 64.7500, -147.3600", "Fairbanks North Star County / elevation 0 ft band", "Fairbanks North Star County / primary ZIP 99705", "Fairbanks North Star County / ZIP 99705 sector"]
+zillowHomeValueUsd: 324122
 ---
 
 **Engineering Notice for North Pole:** structural drying capacity optimized for 0ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fairbanks North Star County. Relative Humidity Threshold: 70%. Sensor sync: Active.

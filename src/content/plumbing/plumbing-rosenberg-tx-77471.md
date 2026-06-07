@@ -12,6 +12,7 @@ lng: -95.8200
 zipSample: ["77471", "77469"]
 zipCodes: ["77471", "77469"]
 localPaths: ["Fort Bend County / ZIP 77471 sector", "Fort Bend County / ZIP 77469 sector", "Fort Bend County / coords 29.5500, -95.8200", "Fort Bend County / elevation 102 ft band", "Fort Bend County / primary ZIP 77471"]
+zillowHomeValueUsd: 283371
 ---
 
 **Engineering Notice for Rosenberg:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Fort Bend County.

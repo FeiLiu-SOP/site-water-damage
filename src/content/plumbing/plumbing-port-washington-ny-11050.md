@@ -12,6 +12,7 @@ lng: -73.6800
 zipSample: ["11050"]
 zipCodes: ["11050"]
 localPaths: ["Nassau County / coords 40.8300, -73.6800", "Nassau County / ZIP 11050 sector", "Nassau County / primary ZIP 11050", "Nassau County / elevation 187 ft band"]
+zillowHomeValueUsd: 1301421
 ---
 
 **Engineering Notice for Port Washington:** Structural loading calculated based on 187 ft terrain assessment. Regional dispatch grid: Nassau County.

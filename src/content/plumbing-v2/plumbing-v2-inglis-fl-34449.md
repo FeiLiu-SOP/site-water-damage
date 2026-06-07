@@ -12,6 +12,7 @@ lng: -82.6600
 zipSample: ["34449"]
 zipCodes: ["34449"]
 localPaths: ["Levy County / coords 29.0300, -82.6600", "Levy County / ZIP 34449 sector", "Levy County / elevation 69 ft band", "Levy County / primary ZIP 34449"]
+zillowHomeValueUsd: 250855
 ---
 
 **Engineering Notice for Inglis:** System optimized for 176 mg/L hard water scaling factors in Inglis. Regional dispatch grid: Levy County.

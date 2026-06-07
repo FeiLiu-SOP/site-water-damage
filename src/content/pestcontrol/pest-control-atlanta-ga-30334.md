@@ -11,6 +11,7 @@ lng: -84.4200
 zipSample: ["30377", "30342", "30302", "31193", "30353"]
 zipCodes: ["30311", "30331", "30314", "30394", "30310", "30348", "30371", "30316", "30308", "30312", "30318", "30342"]
 localPaths: ["Fulton County / ZIP 30342 sector", "Fulton County / ZIP 31193 sector", "Fulton County / ZIP 30302 sector", "Fulton County / primary ZIP 30334", "Fulton County / coords 33.7600, -84.4200"]
+zillowHomeValueUsd: 386479
 ---
 
 **Engineering Notice for Atlanta:** Structural loading calculated based on 974 ft terrain assessment. Regional dispatch grid: Fulton County.

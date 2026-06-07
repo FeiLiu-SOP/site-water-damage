@@ -11,6 +11,7 @@ lng: -96.6300
 zipSample: ["75044", "75046", "75049", "75041", "75042"]
 zipCodes: ["75047", "75043", "75044", "75040", "75041", "75046", "75049", "75042"]
 localPaths: ["Dallas County / primary ZIP 75043", "Dallas County / ZIP 75044 sector", "Dallas County / ZIP 75046 sector", "Dallas County / ZIP 75049 sector", "Dallas County / elevation 535 ft band"]
+zillowHomeValueUsd: 289523
 ---
 
 **Engineering Notice for Garland:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: Dallas County.

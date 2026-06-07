@@ -12,6 +12,7 @@ lng: -80.0600
 zipSample: ["16033"]
 zipCodes: ["16033"]
 localPaths: ["Butler County / coords 40.7700, -80.0600", "Butler County / primary ZIP 16033", "Butler County / ZIP 16033 sector", "Butler County / elevation 974 ft band"]
+zillowHomeValueUsd: 334431
 ---
 
 **Engineering Notice for Evans City:** Structural integrity verification: Surface Sheathing calibrated for 105 mph localized wind load factor. Elevation: 974 ft AMSL. Regional dispatch grid: Butler County.

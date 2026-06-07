@@ -12,6 +12,7 @@ lng: -81.4700
 zipSample: ["28640"]
 zipCodes: ["28640"]
 localPaths: ["Ashe County / ZIP 28640 sector", "Ashe County / coords 36.4200, -81.4700", "Ashe County / primary ZIP 28640", "Ashe County / elevation 2913 ft band"]
+zillowHomeValueUsd: 360105
 ---
 
 **Engineering Notice for Jefferson:** Structural integrity verification: Panel Replacement calibrated for 98 mph localized wind load factor. Elevation: 2913 ft AMSL. Regional dispatch grid: Ashe County.

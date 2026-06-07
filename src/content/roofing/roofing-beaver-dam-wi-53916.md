@@ -11,6 +11,7 @@ lng: -88.8300
 zipSample: ["53916"]
 zipCodes: ["53916"]
 localPaths: ["Dodge County / coords 43.4700, -88.8300", "Dodge County / elevation 922 ft band", "Dodge County / ZIP 53916 sector", "Dodge County / primary ZIP 53916"]
+zillowHomeValueUsd: 288118
 ---
 
 **Engineering Notice for Beaver Dam:** Structural loading calculated based on 922 ft terrain assessment. Regional dispatch grid: Dodge County.

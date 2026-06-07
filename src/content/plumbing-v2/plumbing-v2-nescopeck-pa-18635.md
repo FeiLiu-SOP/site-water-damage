@@ -12,6 +12,7 @@ lng: -76.2100
 zipSample: ["18635", "18660"]
 zipCodes: ["18660", "18635"]
 localPaths: ["Luzerne County / ZIP 18660 sector", "Luzerne County / ZIP 18635 sector", "Luzerne County / coords 41.0500, -76.2100", "Luzerne County / primary ZIP 18635", "Luzerne County / elevation 531 ft band"]
+zillowHomeValueUsd: 242841
 ---
 
 **Engineering Notice for Nescopeck:** System optimized for 141 mg/L hard water scaling factors in Nescopeck. Regional dispatch grid: Luzerne County.

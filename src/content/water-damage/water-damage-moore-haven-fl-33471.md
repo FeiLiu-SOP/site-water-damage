@@ -12,6 +12,7 @@ lng: -81.1000
 zipSample: ["33471"]
 zipCodes: ["33471"]
 localPaths: ["Glades County / primary ZIP 33471", "Glades County / ZIP 33471 sector", "Glades County / elevation 30 ft band", "Glades County / coords 26.8300, -81.1000"]
+zillowHomeValueUsd: 211137
 ---
 
 **Engineering Notice for Moore Haven:** structural drying capacity optimized for 30ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Glades County. Relative Humidity Threshold: 83%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -79.9800
 zipSample: ["16510", "16563"]
 zipCodes: ["16510", "16563"]
 localPaths: ["Erie County / coords 42.1200, -79.9800", "Erie County / ZIP 16510 sector", "Erie County / ZIP 16563 sector", "Erie County / primary ZIP 16510", "Erie County / elevation 1070 ft band"]
+zillowHomeValueUsd: 202491
 ---
 
 **Engineering Notice for Penn State Erie:** Structural integrity verification: Panel Replacement calibrated for 94 mph localized wind load factor. Coordinates: 42.1200, -79.9800. Regional dispatch grid: Erie County.

@@ -11,6 +11,7 @@ lng: -88.2300
 zipSample: ["60544", "60585", "60586"]
 zipCodes: ["60585", "60544", "60586"]
 localPaths: ["Will County / ZIP 60585 sector", "Will County / ZIP 60544 sector", "Will County / coords 41.6200, -88.2300", "Will County / elevation 627 ft band", "Will County / primary ZIP 60544"]
+zillowHomeValueUsd: 383379
 ---
 
 **Engineering Notice for Plainfield:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Will County.

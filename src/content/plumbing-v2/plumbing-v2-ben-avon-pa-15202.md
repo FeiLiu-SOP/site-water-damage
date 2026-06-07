@@ -12,6 +12,7 @@ lng: -80.0800
 zipSample: ["15202"]
 zipCodes: ["15202"]
 localPaths: ["Allegheny County / coords 40.5100, -80.0800", "Allegheny County / ZIP 15202 sector", "Allegheny County / elevation 840 ft band", "Allegheny County / primary ZIP 15202"]
+zillowHomeValueUsd: 221000
 ---
 
 **Engineering Notice for Ben Avon:** System optimized for 175 mg/L hard water scaling factors in Ben Avon. Regional dispatch grid: Allegheny County.

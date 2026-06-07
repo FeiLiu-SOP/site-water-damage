@@ -12,6 +12,7 @@ lng: -75.6500
 zipSample: ["19709", "19701", "19733", "19720"]
 zipCodes: ["19720", "19701", "19709", "19733"]
 localPaths: ["New Castle County / ZIP 19701 sector", "New Castle County / ZIP 19709 sector", "New Castle County / coords 39.5600, -75.6500", "New Castle County / elevation 39 ft band", "New Castle County / ZIP 19720 sector"]
+zillowHomeValueUsd: 280715
 ---
 
 **Engineering Notice for St. Georges:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Elevation: 39 ft AMSL. Grid: New Castle County.

@@ -12,6 +12,7 @@ lng: -72.6800
 zipSample: ["06437"]
 zipCodes: ["06437"]
 localPaths: ["South Central Connecticut County / ZIP 06437 sector", "South Central Connecticut County / primary ZIP 06437", "South Central Connecticut County / elevation 16 ft band", "South Central Connecticut County / coords 41.2800, -72.6800"]
+zillowHomeValueUsd: 614864
 ---
 
 **Engineering Notice for Guilford Center:** Site context locked to South Central Connecticut County. Elevation: 16 ft AMSL. Coordinates: 41.2800, -72.6800. Wall Restoration integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -81.6700
 zipSample: ["44131"]
 zipCodes: ["44131"]
 localPaths: ["Cuyahoga County / coords 41.4200, -81.6700", "Cuyahoga County / ZIP 44131 sector", "Cuyahoga County / elevation 755 ft band", "Cuyahoga County / primary ZIP 44131"]
+zillowHomeValueUsd: 309140
 ---
 
 **Engineering Notice for Brooklyn Heights:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 1.10. Regional dispatch grid: Cuyahoga County.

@@ -12,6 +12,7 @@ lng: -84.1500
 zipSample: ["30098", "30096", "30097"]
 zipCodes: ["30097", "30096", "30098"]
 localPaths: ["Gwinnett County / ZIP 30097 sector", "Gwinnett County / primary ZIP 30097", "Gwinnett County / coords 34.0100, -84.1500", "Gwinnett County / ZIP 30098 sector", "Gwinnett County / elevation 1083 ft band"]
+zillowHomeValueUsd: 720369
 ---
 
 **Engineering Notice for Duluth:** Structural loading calculated based on 1083 ft terrain assessment. Regional dispatch grid: Gwinnett County.

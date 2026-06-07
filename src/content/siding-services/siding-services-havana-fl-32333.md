@@ -12,6 +12,7 @@ lng: -84.4100
 zipSample: ["32333"]
 zipCodes: ["32333"]
 localPaths: ["Gadsden County / coords 30.6300, -84.4100", "Gadsden County / elevation 285 ft band", "Gadsden County / ZIP 32333 sector", "Gadsden County / primary ZIP 32333"]
+zillowHomeValueUsd: 266151
 ---
 
 **Engineering Notice for Havana:** Envelope check: Surface Sheathing assigned to wind-load band C with stress factor 0.71. Elevation: 285 ft AMSL. Regional dispatch grid: Gadsden County.

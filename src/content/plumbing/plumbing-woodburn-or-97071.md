@@ -12,6 +12,7 @@ lng: -122.8600
 zipSample: ["97071"]
 zipCodes: ["97071"]
 localPaths: ["Marion County / elevation 187 ft band", "Marion County / ZIP 97071 sector", "Marion County / coords 45.1500, -122.8600", "Marion County / primary ZIP 97071"]
+zillowHomeValueUsd: 423740
 ---
 
 **Engineering Notice for Woodburn:** Structural loading calculated based on 187 ft terrain assessment. Regional dispatch grid: Marion County.

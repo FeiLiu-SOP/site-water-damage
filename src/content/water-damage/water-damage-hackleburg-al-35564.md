@@ -12,6 +12,7 @@ lng: -87.8300
 zipSample: ["35564"]
 zipCodes: ["35564"]
 localPaths: ["Marion County / elevation 909 ft band", "Marion County / primary ZIP 35564", "Marion County / coords 34.2700, -87.8300", "Marion County / ZIP 35564 sector"]
+zillowHomeValueUsd: 154233
 ---
 
 **Engineering Notice for Hackleburg:** structural drying capacity optimized for 909ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marion County. Relative Humidity Threshold: 78%. Sensor sync: Active.

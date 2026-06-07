@@ -12,6 +12,7 @@ lng: -96.8000
 zipSample: ["74058"]
 zipCodes: ["74058"]
 localPaths: ["Pawnee County / elevation 843 ft band", "Pawnee County / coords 36.3500, -96.8000", "Pawnee County / ZIP 74058 sector", "Pawnee County / primary ZIP 74058"]
+zillowHomeValueUsd: 148810
 ---
 
 **Engineering Notice for Pawnee:** System optimized for 126 mg/L hard water scaling factors in Pawnee. Regional dispatch grid: Pawnee County.

@@ -12,6 +12,7 @@ lng: -92.0400
 zipSample: ["70533"]
 zipCodes: ["70533"]
 localPaths: ["Vermilion Parish / primary ZIP 70533", "Vermilion Parish / ZIP 70533 sector", "Vermilion Parish / coords 29.9600, -92.0400", "Vermilion Parish / elevation 20 ft band"]
+zillowHomeValueUsd: 152924
 ---
 
 **Engineering Notice for Erath:** structural drying capacity optimized for 20ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Vermilion Parish. Relative Humidity Threshold: 69%. Sensor sync: Active.

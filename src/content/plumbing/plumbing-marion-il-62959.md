@@ -12,6 +12,7 @@ lng: -88.9400
 zipSample: ["62959"]
 zipCodes: ["62959"]
 localPaths: ["Williamson County / primary ZIP 62959", "Williamson County / ZIP 62959 sector", "Williamson County / coords 37.7300, -88.9400", "Williamson County / elevation 443 ft band"]
+zillowHomeValueUsd: 172622
 ---
 
 **Engineering Notice for Marion:** Structural loading calculated based on 443 ft terrain assessment. Regional dispatch grid: Williamson County.

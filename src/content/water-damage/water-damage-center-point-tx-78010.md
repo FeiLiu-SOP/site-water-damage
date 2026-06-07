@@ -12,6 +12,7 @@ lng: -99.0400
 zipSample: ["78010"]
 zipCodes: ["78010"]
 localPaths: ["Kerr County / ZIP 78010 sector", "Kerr County / primary ZIP 78010", "Kerr County / elevation 1512 ft band", "Kerr County / coords 29.9400, -99.0400"]
+zillowHomeValueUsd: 418918
 ---
 
 **Engineering Notice for Center Point:** structural drying capacity optimized for 1512ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kerr County. Relative Humidity Threshold: 76%. Sensor sync: Active.

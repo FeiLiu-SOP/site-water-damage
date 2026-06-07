@@ -11,6 +11,8 @@ lng: -65.9800
 zipSample: ["00984", "00987", "00985", "00982", "00983"]
 zipCodes: ["00979", "00986", "00987", "00984", "00985", "00983", "00982", "00988", "00981"]
 localPaths: ["Carolina County / ZIP 00987 sector", "Carolina County / elevation 30 ft band", "Carolina County / ZIP 00984 sector", "Carolina County / primary ZIP 00979", "Carolina County / coords 18.4100, -65.9800"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 358539
 ---
 
 **Engineering Notice for Carolina:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Carolina County.

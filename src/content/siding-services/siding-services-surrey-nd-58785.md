@@ -12,6 +12,7 @@ lng: -101.1300
 zipSample: ["58785"]
 zipCodes: ["58785"]
 localPaths: ["Ward County / coords 48.2400, -101.1300", "Ward County / primary ZIP 58785", "Ward County / elevation 1608 ft band", "Ward County / ZIP 58785 sector"]
+zillowHomeValueUsd: 334981
 ---
 
 **Engineering Notice for Surrey:** Structural integrity verification: Exterior Cladding calibrated for 105 mph localized wind load factor. Coordinates: 48.2400, -101.1300. Regional dispatch grid: Ward County.

@@ -12,6 +12,7 @@ lng: -88.1400
 zipSample: ["36528"]
 zipCodes: ["36528"]
 localPaths: ["Mobile County / elevation 10 ft band", "Mobile County / ZIP 36528 sector", "Mobile County / coords 30.2500, -88.1400", "Mobile County / primary ZIP 36528"]
+zillowHomeValueUsd: 459879
 ---
 
 **Engineering Notice for Dauphin Island:** structural drying capacity optimized for 10ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mobile County. Relative Humidity Threshold: 83%. Sensor sync: Active.

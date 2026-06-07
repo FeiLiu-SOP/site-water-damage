@@ -12,6 +12,8 @@ lng: -148.7200
 zipSample: ["99734", "99519"]
 zipCodes: ["99734", "99519"]
 localPaths: ["North Slope County / ZIP 99519 sector", "North Slope County / coords 70.3100, -148.7200", "North Slope County / ZIP 99734 sector", "North Slope County / primary ZIP 99519", "North Slope County / elevation 0 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 361785
 ---
 
 **Engineering Notice for Prudhoe Bay:** Structural integrity verification: Cladding Service calibrated for 102 mph localized wind load factor. Elevation: 0 ft AMSL. Coordinates: 70.3100, -148.7200. Regional dispatch grid: North Slope County.

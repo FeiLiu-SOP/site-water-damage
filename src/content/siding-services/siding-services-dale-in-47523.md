@@ -12,6 +12,7 @@ lng: -86.9800
 zipSample: ["47523"]
 zipCodes: ["47523"]
 localPaths: ["Spencer County / elevation 456 ft band", "Spencer County / coords 38.1800, -86.9800", "Spencer County / ZIP 47523 sector", "Spencer County / primary ZIP 47523"]
+zillowHomeValueUsd: 204960
 ---
 
 **Engineering Notice for Dale:** Cladding Retrofit was validated under stress factor 1.24; target tolerance set near 109 mph. Coordinates: 38.1800, -86.9800. Grid anchor: Spencer County.

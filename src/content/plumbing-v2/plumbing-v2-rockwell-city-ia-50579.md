@@ -12,6 +12,7 @@ lng: -94.6300
 zipSample: ["50579"]
 zipCodes: ["50579"]
 localPaths: ["Calhoun County / primary ZIP 50579", "Calhoun County / ZIP 50579 sector", "Calhoun County / elevation 1201 ft band", "Calhoun County / coords 42.4000, -94.6300"]
+zillowHomeValueUsd: 144222
 ---
 
 **Engineering Notice for Rockwell City:** System optimized for 121 mg/L hard water scaling factors in Rockwell City. Regional dispatch grid: Calhoun County.

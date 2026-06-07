@@ -12,6 +12,7 @@ lng: -83.3600
 zipSample: ["43430"]
 zipCodes: ["43430"]
 localPaths: ["Ottawa County / elevation 620 ft band", "Ottawa County / coords 41.5200, -83.3600", "Ottawa County / primary ZIP 43430", "Ottawa County / ZIP 43430 sector"]
+zillowHomeValueUsd: 203624
 ---
 
 **Engineering Notice for Genoa:** System optimized for 134 mg/L hard water scaling factors in Genoa. Regional dispatch grid: Ottawa County.

@@ -12,6 +12,7 @@ lng: -92.4400
 zipSample: ["52211"]
 zipCodes: ["52211"]
 localPaths: ["Poweshiek County / elevation 906 ft band", "Poweshiek County / ZIP 52211 sector", "Poweshiek County / coords 41.7300, -92.4400", "Poweshiek County / primary ZIP 52211"]
+zillowHomeValueUsd: 194027
 ---
 
 **Engineering Notice for Brooklyn:** System optimized for 164 mg/L hard water scaling factors in Brooklyn. Regional dispatch grid: Poweshiek County.

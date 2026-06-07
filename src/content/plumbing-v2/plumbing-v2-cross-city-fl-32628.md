@@ -12,6 +12,7 @@ lng: -83.1200
 zipSample: ["32628"]
 zipCodes: ["32628"]
 localPaths: ["Dixie County / primary ZIP 32628", "Dixie County / ZIP 32628 sector", "Dixie County / elevation 79 ft band", "Dixie County / coords 29.6400, -83.1200"]
+zillowHomeValueUsd: 161964
 ---
 
 **Engineering Notice for Cross City:** System optimized for 169 mg/L hard water scaling factors in Cross City. Regional dispatch grid: Dixie County.

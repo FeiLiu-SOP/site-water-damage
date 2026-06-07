@@ -12,6 +12,7 @@ lng: -80.4400
 zipSample: ["29154"]
 zipCodes: ["29154"]
 localPaths: ["Sumter County / coords 33.8900, -80.4400", "Sumter County / primary ZIP 29154", "Sumter County / ZIP 29154 sector", "Sumter County / elevation 184 ft band"]
+zillowHomeValueUsd: 235564
 ---
 
 **Engineering Notice for Cane Savannah:** System optimized for 122 mg/L hard water scaling factors in Cane Savannah. Regional dispatch grid: Sumter County.

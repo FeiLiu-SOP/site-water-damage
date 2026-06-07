@@ -12,6 +12,7 @@ lng: -76.3900
 zipSample: ["17963"]
 zipCodes: ["17963"]
 localPaths: ["Schuylkill County / ZIP 17963 sector", "Schuylkill County / coords 40.5500, -76.3900", "Schuylkill County / elevation 528 ft band", "Schuylkill County / primary ZIP 17963"]
+zillowHomeValueUsd: 251409
 ---
 
 **Engineering Notice for Pine Grove:** Envelope check: Exterior Cladding assigned to wind-load band B with stress factor 1.14. Elevation: 528 ft AMSL. Regional dispatch grid: Schuylkill County.

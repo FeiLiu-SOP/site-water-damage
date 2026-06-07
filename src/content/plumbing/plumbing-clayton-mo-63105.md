@@ -12,6 +12,7 @@ lng: -90.3300
 zipSample: ["63195", "63105", "63199"]
 zipCodes: ["63105", "63195", "63199"]
 localPaths: ["St. Louis County / primary ZIP 63105", "St. Louis County / ZIP 63195 sector", "St. Louis County / ZIP 63199 sector", "St. Louis County / ZIP 63105 sector", "St. Louis County / coords 38.6400, -90.3300"]
+zillowHomeValueUsd: 795369
 ---
 
 **Engineering Notice for Clayton:** Structural loading calculated based on 581 ft terrain assessment. Regional dispatch grid: St. Louis County.

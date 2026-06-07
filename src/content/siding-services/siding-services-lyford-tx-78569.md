@@ -12,6 +12,7 @@ lng: -97.7900
 zipSample: ["78569"]
 zipCodes: ["78569"]
 localPaths: ["Willacy County / primary ZIP 78569", "Willacy County / elevation 52 ft band", "Willacy County / ZIP 78569 sector", "Willacy County / coords 26.4100, -97.7900"]
+zillowHomeValueUsd: 179023
 ---
 
 **Engineering Notice for Lyford:** Envelope check: Exterior Cladding assigned to wind-load band B with stress factor 0.72. Elevation: 52 ft AMSL. Regional dispatch grid: Willacy County.

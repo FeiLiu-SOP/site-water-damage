@@ -11,6 +11,7 @@ lng: -73.0700
 zipSample: ["11741"]
 zipCodes: ["11741"]
 localPaths: ["Suffolk County / ZIP 11741 sector", "Suffolk County / elevation 92 ft band", "Suffolk County / primary ZIP 11741", "Suffolk County / coords 40.7900, -73.0700"]
+zillowHomeValueUsd: 648628
 ---
 
 **Engineering Notice for Holbrook:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Suffolk County.

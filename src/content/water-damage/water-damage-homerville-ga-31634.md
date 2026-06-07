@@ -12,6 +12,7 @@ lng: -82.7400
 zipSample: ["31634"]
 zipCodes: ["31634"]
 localPaths: ["Clinch County / elevation 190 ft band", "Clinch County / ZIP 31634 sector", "Clinch County / primary ZIP 31634", "Clinch County / coords 31.0400, -82.7400"]
+zillowHomeValueUsd: 128832
 ---
 
 **Engineering Notice for Homerville:** structural drying capacity optimized for 190ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clinch County. Relative Humidity Threshold: 85%. Sensor sync: Active.

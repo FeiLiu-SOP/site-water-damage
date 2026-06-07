@@ -12,6 +12,7 @@ lng: -89.8400
 zipSample: ["63877"]
 zipCodes: ["63877"]
 localPaths: ["Pemiscot County / elevation 253 ft band", "Pemiscot County / ZIP 63877 sector", "Pemiscot County / primary ZIP 63877", "Pemiscot County / coords 36.0900, -89.8400"]
+zillowHomeValueUsd: 105841
 ---
 
 **Engineering Notice for Steele:** structural drying capacity optimized for 253ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pemiscot County. Relative Humidity Threshold: 85%. Sensor sync: Active.

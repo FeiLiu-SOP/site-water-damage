@@ -12,6 +12,7 @@ lng: -84.5800
 zipSample: ["30144"]
 zipCodes: ["30144"]
 localPaths: ["Cobb County / ZIP 30144 sector", "Cobb County / elevation 1063 ft band", "Cobb County / coords 34.0400, -84.5800", "Cobb County / primary ZIP 30144"]
+zillowHomeValueUsd: 382682
 ---
 
 **Engineering Notice for Kennesaw State University:** System optimized for 172 mg/L hard water scaling factors in Kennesaw State University. Regional dispatch grid: Cobb County.

@@ -12,6 +12,7 @@ lng: -76.3900
 zipSample: ["17981"]
 zipCodes: ["17981"]
 localPaths: ["Schuylkill County / coords 40.6300, -76.3900", "Schuylkill County / elevation 787 ft band", "Schuylkill County / primary ZIP 17981", "Schuylkill County / ZIP 17981 sector"]
+zillowHomeValueUsd: 105537
 ---
 
 **Engineering Notice for Tremont:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Elevation: 787 ft AMSL. Grid: Schuylkill County.

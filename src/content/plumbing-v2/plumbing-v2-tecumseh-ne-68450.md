@@ -12,6 +12,7 @@ lng: -96.1900
 zipSample: ["68450"]
 zipCodes: ["68450"]
 localPaths: ["Johnson County / coords 40.3700, -96.1900", "Johnson County / elevation 1125 ft band", "Johnson County / ZIP 68450 sector", "Johnson County / primary ZIP 68450"]
+zillowHomeValueUsd: 177806
 ---
 
 **Engineering Notice for Tecumseh:** System optimized for 141 mg/L hard water scaling factors in Tecumseh. Regional dispatch grid: Johnson County.

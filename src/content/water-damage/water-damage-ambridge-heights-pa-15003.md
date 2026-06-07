@@ -12,6 +12,7 @@ lng: -80.2100
 zipSample: ["15003"]
 zipCodes: ["15003"]
 localPaths: ["Beaver County / primary ZIP 15003", "Beaver County / elevation 1158 ft band", "Beaver County / ZIP 15003 sector", "Beaver County / coords 40.5900, -80.2100"]
+zillowHomeValueUsd: 136805
 ---
 
 **Engineering Notice for Ambridge Heights:** structural drying capacity optimized for 1158ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Beaver County. Relative Humidity Threshold: 66%. Sensor sync: Active.

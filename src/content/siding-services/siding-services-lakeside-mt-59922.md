@@ -12,6 +12,7 @@ lng: -114.2300
 zipSample: ["59922"]
 zipCodes: ["59922"]
 localPaths: ["Flathead County / ZIP 59922 sector", "Flathead County / primary ZIP 59922", "Flathead County / elevation 2927 ft band", "Flathead County / coords 48.0200, -114.2300"]
+zillowHomeValueUsd: 841137
 ---
 
 **Engineering Notice for Lakeside:** Structural integrity verification: Exterior Envelope calibrated for 103 mph localized wind load factor. Regional dispatch grid: Flathead County.

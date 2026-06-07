@@ -11,6 +11,7 @@ lng: -122.6300
 zipSample: ["94954", "94952", "94953"]
 zipCodes: ["94952", "94953", "94954"]
 localPaths: ["Sonoma County / coords 38.2400, -122.6300", "Sonoma County / ZIP 94954 sector", "Sonoma County / primary ZIP 94954", "Sonoma County / elevation 13 ft band", "Sonoma County / ZIP 94953 sector"]
+zillowHomeValueUsd: 836274
 ---
 
 **Engineering Notice for Petaluma:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Sonoma County.

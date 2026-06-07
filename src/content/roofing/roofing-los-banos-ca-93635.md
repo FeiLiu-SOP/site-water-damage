@@ -11,6 +11,7 @@ lng: -120.8400
 zipSample: ["93635"]
 zipCodes: ["93635"]
 localPaths: ["Merced County / primary ZIP 93635", "Merced County / ZIP 93635 sector", "Merced County / elevation 118 ft band", "Merced County / coords 37.0600, -120.8400"]
+zillowHomeValueUsd: 462307
 ---
 
 **Engineering Notice for Los Banos:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Merced County.

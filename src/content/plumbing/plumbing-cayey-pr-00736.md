@@ -12,6 +12,8 @@ lng: -66.1600
 zipSample: ["00736", "00737"]
 zipCodes: ["00736", "00737"]
 localPaths: ["Cayey County / ZIP 00737 sector", "Cayey County / elevation 1299 ft band", "Cayey County / coords 18.1100, -66.1600", "Cayey County / ZIP 00736 sector", "Cayey County / primary ZIP 00736"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 373212
 ---
 
 **Engineering Notice for Cayey:** Structural loading calculated based on 1299 ft terrain assessment. Regional dispatch grid: Cayey County.

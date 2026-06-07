@@ -11,6 +11,7 @@ lng: -73.4900
 zipSample: ["11714"]
 zipCodes: ["11714"]
 localPaths: ["Nassau County / elevation 128 ft band", "Nassau County / ZIP 11714 sector", "Nassau County / coords 40.7500, -73.4900", "Nassau County / primary ZIP 11714"]
+zillowHomeValueUsd: 771249
 ---
 
 **Engineering Notice for Bethpage:** Structural loading calculated based on 128 ft terrain assessment. Regional dispatch grid: Nassau County.

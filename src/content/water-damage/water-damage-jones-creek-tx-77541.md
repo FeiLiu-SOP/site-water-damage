@@ -12,6 +12,7 @@ lng: -95.4700
 zipSample: ["77541"]
 zipCodes: ["77541"]
 localPaths: ["Brazoria County / ZIP 77541 sector", "Brazoria County / coords 28.9800, -95.4700", "Brazoria County / elevation 16 ft band", "Brazoria County / primary ZIP 77541"]
+zillowHomeValueUsd: 197896
 ---
 
 **Engineering Notice for Jones Creek:** structural drying capacity optimized for 16ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Brazoria County. Relative Humidity Threshold: 65%. Sensor sync: Active.

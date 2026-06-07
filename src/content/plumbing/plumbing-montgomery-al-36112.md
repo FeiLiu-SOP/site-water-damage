@@ -12,6 +12,7 @@ lng: -86.2700
 zipSample: ["36105", "36177", "36125", "36110", "36121"]
 zipCodes: ["36107", "36131", "36123", "36109", "36130", "36117", "36120", "36111", "36112", "36108", "36121", "36142"]
 localPaths: ["Montgomery County / elevation 276 ft band", "Montgomery County / ZIP 36177 sector", "Montgomery County / coords 32.3500, -86.2700", "Montgomery County / ZIP 36105 sector", "Montgomery County / ZIP 36110 sector"]
+zillowHomeValueUsd: 256568
 ---
 
 **Engineering Notice for Montgomery:** Structural loading calculated based on 276 ft terrain assessment. Regional dispatch grid: Montgomery County.

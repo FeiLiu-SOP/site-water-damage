@@ -12,6 +12,7 @@ lng: -76.6900
 zipSample: ["21227"]
 zipCodes: ["21227"]
 localPaths: ["Baltimore County / elevation 85 ft band", "Baltimore County / coords 39.2400, -76.6900", "Baltimore County / ZIP 21227 sector", "Baltimore County / primary ZIP 21227"]
+zillowHomeValueUsd: 306586
 ---
 
 **Engineering Notice for Arbutus:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Baltimore County.

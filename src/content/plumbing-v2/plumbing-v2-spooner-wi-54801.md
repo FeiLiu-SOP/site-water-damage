@@ -12,6 +12,7 @@ lng: -91.8900
 zipSample: ["54801"]
 zipCodes: ["54801"]
 localPaths: ["Washburn County / ZIP 54801 sector", "Washburn County / primary ZIP 54801", "Washburn County / elevation 1083 ft band", "Washburn County / coords 45.8300, -91.8900"]
+zillowHomeValueUsd: 292570
 ---
 
 **Engineering Notice for Spooner:** System optimized for 179 mg/L hard water scaling factors in Spooner. Regional dispatch grid: Washburn County.

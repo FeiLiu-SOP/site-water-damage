@@ -11,6 +11,7 @@ lng: -75.5900
 zipSample: ["21804", "21801"]
 zipCodes: ["21804", "21801"]
 localPaths: ["Wicomico County / elevation 39 ft band", "Wicomico County / primary ZIP 21804", "Wicomico County / ZIP 21801 sector", "Wicomico County / coords 38.3800, -75.5900", "Wicomico County / ZIP 21804 sector"]
+zillowHomeValueUsd: 249341
 ---
 
 **Engineering Notice for Salisbury:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Wicomico County.

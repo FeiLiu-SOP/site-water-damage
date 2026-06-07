@@ -11,6 +11,7 @@ lng: -117.9900
 zipSample: ["91017", "91185", "91016"]
 zipCodes: ["91185", "91017", "91016"]
 localPaths: ["Los Angeles County / ZIP 91185 sector", "Los Angeles County / coords 34.1600, -117.9900", "Los Angeles County / ZIP 91016 sector", "Los Angeles County / ZIP 91017 sector", "Los Angeles County / elevation 945 ft band"]
+zillowHomeValueUsd: 990357
 ---
 
 **Engineering Notice for Monrovia:** Structural loading calculated based on 945 ft terrain assessment. Regional dispatch grid: Los Angeles County.

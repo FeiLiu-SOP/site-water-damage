@@ -11,6 +11,7 @@ lng: -104.6100
 zipSample: ["81001", "81005", "81002", "81010", "81011"]
 zipCodes: ["81002", "81010", "81008", "81004", "81005", "81001", "81003", "81011", "81012"]
 localPaths: ["Pueblo County / elevation 4669 ft band", "Pueblo County / ZIP 81002 sector", "Pueblo County / ZIP 81011 sector", "Pueblo County / ZIP 81010 sector", "Pueblo County / primary ZIP 81004"]
+zillowHomeValueUsd: 195476
 ---
 
 **Engineering Notice for Pueblo:** Structural loading calculated based on 4669 ft terrain assessment. Regional dispatch grid: Pueblo County.

@@ -12,6 +12,7 @@ lng: -102.2300
 zipSample: ["80758"]
 zipCodes: ["80758"]
 localPaths: ["Yuma County / elevation 3533 ft band", "Yuma County / ZIP 80758 sector", "Yuma County / primary ZIP 80758", "Yuma County / coords 40.0800, -102.2300"]
+zillowHomeValueUsd: 289381
 ---
 
 **Engineering Notice for Wray:** Site context locked to Yuma County. Panel Replacement integrity verification recorded.

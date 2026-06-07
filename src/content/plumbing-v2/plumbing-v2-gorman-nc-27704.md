@@ -12,6 +12,7 @@ lng: -78.8100
 zipSample: ["27704"]
 zipCodes: ["27704"]
 localPaths: ["Durham County / elevation 331 ft band", "Durham County / ZIP 27704 sector", "Durham County / primary ZIP 27704", "Durham County / coords 36.0400, -78.8100"]
+zillowHomeValueUsd: 310711
 ---
 
 **Engineering Notice for Gorman:** System optimized for 168 mg/L hard water scaling factors in Gorman. Regional dispatch grid: Durham County.

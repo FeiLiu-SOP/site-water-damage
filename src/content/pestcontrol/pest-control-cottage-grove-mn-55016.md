@@ -11,6 +11,7 @@ lng: -92.9300
 zipSample: ["55016"]
 zipCodes: ["55016"]
 localPaths: ["Washington County / ZIP 55016 sector", "Washington County / coords 44.8200, -92.9300", "Washington County / primary ZIP 55016", "Washington County / elevation 807 ft band"]
+zillowHomeValueUsd: 396282
 ---
 
 **Engineering Notice for Cottage Grove:** Structural loading calculated based on 807 ft terrain assessment. Regional dispatch grid: Washington County.

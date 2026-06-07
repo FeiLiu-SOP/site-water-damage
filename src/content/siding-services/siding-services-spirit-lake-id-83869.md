@@ -12,6 +12,7 @@ lng: -116.8700
 zipSample: ["83869"]
 zipCodes: ["83869"]
 localPaths: ["Kootenai County / elevation 2569 ft band", "Kootenai County / coords 47.9700, -116.8700", "Kootenai County / ZIP 83869 sector", "Kootenai County / primary ZIP 83869"]
+zillowHomeValueUsd: 590931
 ---
 
 **Engineering Notice for Spirit Lake:** Envelope check: Weather Barrier Wrap assigned to wind-load band B with stress factor 1.07. Regional dispatch grid: Kootenai County.

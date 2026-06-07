@@ -11,6 +11,7 @@ lng: -84.7800
 zipSample: ["30265", "30264", "30263", "30271"]
 zipCodes: ["30263", "30264", "30271", "30265"]
 localPaths: ["Coweta County / coords 33.3800, -84.7800", "Coweta County / primary ZIP 30263", "Coweta County / ZIP 30271 sector", "Coweta County / ZIP 30263 sector", "Coweta County / elevation 945 ft band"]
+zillowHomeValueUsd: 336230
 ---
 
 **Engineering Notice for Newnan:** Structural loading calculated based on 945 ft terrain assessment. Regional dispatch grid: Coweta County.

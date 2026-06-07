@@ -12,6 +12,7 @@ lng: -74.9700
 zipSample: ["08094"]
 zipCodes: ["08094"]
 localPaths: ["Gloucester County / coords 39.6300, -74.9700", "Gloucester County / ZIP 08094 sector", "Gloucester County / elevation 141 ft band", "Gloucester County / primary ZIP 08094"]
+zillowHomeValueUsd: 365846
 ---
 
 **Engineering Notice for Victory Lakes:** Site context locked to Gloucester County. Coordinates: 39.6300, -74.9700. Exterior Envelope integrity verification recorded.

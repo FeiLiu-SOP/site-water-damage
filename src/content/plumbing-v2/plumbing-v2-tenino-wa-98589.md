@@ -12,6 +12,7 @@ lng: -122.8600
 zipSample: ["98589"]
 zipCodes: ["98589"]
 localPaths: ["Thurston County / coords 46.8500, -122.8600", "Thurston County / elevation 279 ft band", "Thurston County / primary ZIP 98589", "Thurston County / ZIP 98589 sector"]
+zillowHomeValueUsd: 519401
 ---
 
 **Engineering Notice for Tenino:** System optimized for 121 mg/L hard water scaling factors in Tenino. Regional dispatch grid: Thurston County.

@@ -12,6 +12,7 @@ lng: -158.1200
 zipSample: ["96707"]
 zipCodes: ["96707"]
 localPaths: ["Honolulu County / coords 21.3400, -158.1200", "Honolulu County / elevation 36 ft band", "Honolulu County / primary ZIP 96707", "Honolulu County / ZIP 96707 sector"]
+zillowHomeValueUsd: 860462
 ---
 
 **Engineering Notice for Ko Olina:** Weather Barrier Wrap was validated under stress factor 0.79; target tolerance set near 108 mph. Coordinates: 21.3400, -158.1200. Grid anchor: Honolulu County.

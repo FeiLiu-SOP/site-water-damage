@@ -12,6 +12,7 @@ lng: -90.3300
 zipSample: ["72354"]
 zipCodes: ["72354"]
 localPaths: ["Poinsett County / coords 35.6100, -90.3300", "Poinsett County / elevation 223 ft band", "Poinsett County / ZIP 72354 sector", "Poinsett County / primary ZIP 72354"]
+zillowHomeValueUsd: 98386
 ---
 
 **Engineering Notice for Lepanto:** Site context locked to Poinsett County. Coordinates: 35.6100, -90.3300. Cladding Service integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -123.0700
 zipSample: ["97443", "97447"]
 zipCodes: ["97443", "97447"]
 localPaths: ["Douglas County / ZIP 97443 sector", "Douglas County / elevation 1293 ft band", "Douglas County / coords 43.3000, -123.0700", "Douglas County / primary ZIP 97443", "Douglas County / ZIP 97447 sector"]
+zillowHomeValueUsd: 389408
 ---
 
 **Engineering Notice for Glide:** Cladding verification uses 100 mph routing baseline; lateral pressure note: 13.2 psf. Elevation: 1293 ft AMSL. Coordinates: 43.3000, -123.0700. Grid: Douglas County.

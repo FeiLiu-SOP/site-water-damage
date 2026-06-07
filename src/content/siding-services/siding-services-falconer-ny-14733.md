@@ -12,6 +12,7 @@ lng: -79.2000
 zipSample: ["14733"]
 zipCodes: ["14733"]
 localPaths: ["Chautauqua County / coords 42.1200, -79.2000", "Chautauqua County / elevation 1266 ft band", "Chautauqua County / primary ZIP 14733", "Chautauqua County / ZIP 14733 sector"]
+zillowHomeValueUsd: 129748
 ---
 
 **Engineering Notice for Falconer:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 1.24. Regional dispatch grid: Chautauqua County.

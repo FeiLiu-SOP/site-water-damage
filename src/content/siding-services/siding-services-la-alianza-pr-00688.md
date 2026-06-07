@@ -12,6 +12,8 @@ lng: -66.6000
 zipSample: ["00688"]
 zipCodes: ["00688"]
 localPaths: ["Arecibo County / primary ZIP 00688", "Arecibo County / coords 18.3900, -66.6000", "Arecibo County / elevation 633 ft band", "Arecibo County / ZIP 00688 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 383478
 ---
 
 **Engineering Notice for La Alianza:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Coordinates: 18.3900, -66.6000. Grid: Arecibo County.

@@ -12,6 +12,7 @@ lng: -115.5300
 zipSample: ["92227"]
 zipCodes: ["92227"]
 localPaths: ["Imperial County / coords 32.9800, -115.5300", "Imperial County / elevation -113 ft band", "Imperial County / primary ZIP 92227", "Imperial County / ZIP 92227 sector"]
+zillowHomeValueUsd: 358624
 ---
 
 **Engineering Notice for Brawley:** Structural loading calculated based on -113 ft terrain assessment. Regional dispatch grid: Imperial County.

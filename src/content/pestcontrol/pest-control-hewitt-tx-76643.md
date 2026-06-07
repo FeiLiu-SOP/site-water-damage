@@ -11,6 +11,7 @@ lng: -97.2000
 zipSample: ["76643"]
 zipCodes: ["76643"]
 localPaths: ["McLennan County / primary ZIP 76643", "McLennan County / ZIP 76643 sector", "McLennan County / elevation 643 ft band", "McLennan County / coords 31.4500, -97.2000"]
+zillowHomeValueUsd: 297500
 ---
 
 **Engineering Notice for Hewitt:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: McLennan County.

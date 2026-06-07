@@ -12,6 +12,7 @@ lng: -99.9300
 zipSample: ["58341"]
 zipCodes: ["58341"]
 localPaths: ["Wells County / coords 47.7800, -99.9300", "Wells County / primary ZIP 58341", "Wells County / ZIP 58341 sector", "Wells County / elevation 1591 ft band"]
+zillowHomeValueUsd: 139156
 ---
 
 **Engineering Notice for Harvey:** Site context locked to Wells County. Elevation: 1591 ft AMSL. Coordinates: 47.7800, -99.9300. Cladding Retrofit integrity verification recorded.

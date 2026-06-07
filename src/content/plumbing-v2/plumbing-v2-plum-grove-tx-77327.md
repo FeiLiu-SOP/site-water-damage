@@ -12,6 +12,7 @@ lng: -95.1000
 zipSample: ["77327"]
 zipCodes: ["77327"]
 localPaths: ["Liberty County / coords 30.2000, -95.1000", "Liberty County / elevation 102 ft band", "Liberty County / ZIP 77327 sector", "Liberty County / primary ZIP 77327"]
+zillowHomeValueUsd: 219440
 ---
 
 **Engineering Notice for Plum Grove:** System optimized for 166 mg/L hard water scaling factors in Plum Grove. Regional dispatch grid: Liberty County.

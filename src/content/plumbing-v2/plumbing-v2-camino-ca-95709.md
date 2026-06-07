@@ -12,6 +12,7 @@ lng: -120.6800
 zipSample: ["95709"]
 zipCodes: ["95709"]
 localPaths: ["El Dorado County / elevation 3097 ft band", "El Dorado County / coords 38.7400, -120.6800", "El Dorado County / ZIP 95709 sector", "El Dorado County / primary ZIP 95709"]
+zillowHomeValueUsd: 506764
 ---
 
 **Engineering Notice for Camino:** System optimized for 156 mg/L hard water scaling factors in Camino. Regional dispatch grid: El Dorado County.

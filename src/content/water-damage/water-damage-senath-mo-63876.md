@@ -12,6 +12,7 @@ lng: -90.1600
 zipSample: ["63876"]
 zipCodes: ["63876"]
 localPaths: ["Dunklin County / elevation 256 ft band", "Dunklin County / primary ZIP 63876", "Dunklin County / ZIP 63876 sector", "Dunklin County / coords 36.1300, -90.1600"]
+zillowHomeValueUsd: 94412
 ---
 
 **Engineering Notice for Senath:** structural drying capacity optimized for 256ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dunklin County. Relative Humidity Threshold: 84%. Sensor sync: Active.

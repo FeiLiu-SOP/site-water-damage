@@ -12,6 +12,7 @@ lng: -90.4000
 zipSample: ["39191"]
 zipCodes: ["39191"]
 localPaths: ["Copiah County / ZIP 39191 sector", "Copiah County / elevation 472 ft band", "Copiah County / coords 31.7000, -90.4000", "Copiah County / primary ZIP 39191"]
+zillowHomeValueUsd: 177489
 ---
 
 **Engineering Notice for Wesson:** System optimized for 180 mg/L hard water scaling factors in Wesson. Regional dispatch grid: Copiah County.

@@ -12,6 +12,7 @@ lng: -92.8000
 zipSample: ["65281"]
 zipCodes: ["65281"]
 localPaths: ["Chariton County / coords 39.4200, -92.8000", "Chariton County / primary ZIP 65281", "Chariton County / elevation 751 ft band", "Chariton County / ZIP 65281 sector"]
+zillowHomeValueUsd: 178017
 ---
 
 **Engineering Notice for Salisbury:** structural drying capacity optimized for 751ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chariton County. Relative Humidity Threshold: 80%. Sensor sync: Active.

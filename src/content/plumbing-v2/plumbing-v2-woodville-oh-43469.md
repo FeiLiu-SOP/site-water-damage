@@ -12,6 +12,7 @@ lng: -83.3600
 zipSample: ["43469"]
 zipCodes: ["43469"]
 localPaths: ["Sandusky County / coords 41.4500, -83.3600", "Sandusky County / primary ZIP 43469", "Sandusky County / ZIP 43469 sector", "Sandusky County / elevation 636 ft band"]
+zillowHomeValueUsd: 218347
 ---
 
 **Engineering Notice for Woodville:** System optimized for 122 mg/L hard water scaling factors in Woodville. Regional dispatch grid: Sandusky County.

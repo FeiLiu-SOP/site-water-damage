@@ -12,6 +12,7 @@ lng: -118.3800
 zipSample: ["93532"]
 zipCodes: ["93532"]
 localPaths: ["Los Angeles County / ZIP 93532 sector", "Los Angeles County / coords 34.6600, -118.3800", "Los Angeles County / elevation 3330 ft band", "Los Angeles County / primary ZIP 93532"]
+zillowHomeValueUsd: 426098
 ---
 
 **Engineering Notice for Elizabeth Lake:** System optimized for 142 mg/L hard water scaling factors in Elizabeth Lake. Regional dispatch grid: Los Angeles County.

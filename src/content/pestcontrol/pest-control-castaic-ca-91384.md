@@ -11,6 +11,7 @@ lng: -118.6300
 zipSample: ["91384", "91310"]
 zipCodes: ["91384", "91310"]
 localPaths: ["Los Angeles County / primary ZIP 91384", "Los Angeles County / coords 34.4800, -118.6300", "Los Angeles County / elevation 1699 ft band", "Los Angeles County / ZIP 91310 sector", "Los Angeles County / ZIP 91384 sector"]
+zillowHomeValueUsd: 805423
 ---
 
 **Engineering Notice for Castaic:** Structural loading calculated based on 1699 ft terrain assessment. Regional dispatch grid: Los Angeles County.

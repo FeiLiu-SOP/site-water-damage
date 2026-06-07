@@ -12,6 +12,7 @@ lng: -89.6800
 zipSample: ["62704"]
 zipCodes: ["62704"]
 localPaths: ["Sangamon County / coords 39.7700, -89.6800", "Sangamon County / primary ZIP 62704", "Sangamon County / elevation 617 ft band", "Sangamon County / ZIP 62704 sector"]
+zillowHomeValueUsd: 180771
 ---
 
 **Engineering Notice for Jerome:** System optimized for 173 mg/L hard water scaling factors in Jerome. Regional dispatch grid: Sangamon County.

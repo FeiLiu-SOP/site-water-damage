@@ -12,6 +12,7 @@ lng: -91.8700
 zipSample: ["55952"]
 zipCodes: ["55952"]
 localPaths: ["Winona County / primary ZIP 55952", "Winona County / ZIP 55952 sector", "Winona County / elevation 1217 ft band", "Winona County / coords 43.9800, -91.8700"]
+zillowHomeValueUsd: 299305
 ---
 
 **Engineering Notice for Lewiston:** Cladding verification uses 96 mph routing baseline; lateral pressure note: 12.7 psf. Coordinates: 43.9800, -91.8700. Grid: Winona County.

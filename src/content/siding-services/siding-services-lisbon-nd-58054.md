@@ -12,6 +12,7 @@ lng: -97.6800
 zipSample: ["58054"]
 zipCodes: ["58054"]
 localPaths: ["Ransom County / elevation 1096 ft band", "Ransom County / primary ZIP 58054", "Ransom County / ZIP 58054 sector", "Ransom County / coords 46.4400, -97.6800"]
+zillowHomeValueUsd: 191106
 ---
 
 **Engineering Notice for Lisbon:** Cladding Service was validated under stress factor 0.82; target tolerance set near 91 mph. Grid anchor: Ransom County.

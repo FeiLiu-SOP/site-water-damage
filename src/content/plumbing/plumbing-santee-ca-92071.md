@@ -12,6 +12,7 @@ lng: -116.9900
 zipSample: ["92040", "92071"]
 zipCodes: ["92071", "92040"]
 localPaths: ["San Diego County / coords 32.8600, -116.9900", "San Diego County / elevation 472 ft band", "San Diego County / ZIP 92071 sector", "San Diego County / ZIP 92040 sector", "San Diego County / primary ZIP 92071"]
+zillowHomeValueUsd: 808603
 ---
 
 **Engineering Notice for Santee:** Structural loading calculated based on 472 ft terrain assessment. Regional dispatch grid: San Diego County.

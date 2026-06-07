@@ -12,6 +12,7 @@ lng: -79.4700
 zipSample: ["28373"]
 zipCodes: ["28373"]
 localPaths: ["Moore County / elevation 430 ft band", "Moore County / coords 35.1100, -79.4700", "Moore County / primary ZIP 28373", "Moore County / ZIP 28373 sector"]
+zillowHomeValueUsd: 294055
 ---
 
 **Engineering Notice for Pinebluff:** Site context locked to Moore County. Coordinates: 35.1100, -79.4700. Wall Restoration integrity verification recorded.

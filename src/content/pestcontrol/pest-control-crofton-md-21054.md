@@ -11,6 +11,7 @@ lng: -76.6800
 zipSample: ["21114", "21054"]
 zipCodes: ["21114", "21054"]
 localPaths: ["Anne Arundel County / ZIP 21054 sector", "Anne Arundel County / ZIP 21114 sector", "Anne Arundel County / coords 39.0100, -76.6800", "Anne Arundel County / elevation 121 ft band", "Anne Arundel County / primary ZIP 21054"]
+zillowHomeValueUsd: 613075
 ---
 
 **Engineering Notice for Crofton:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Anne Arundel County.

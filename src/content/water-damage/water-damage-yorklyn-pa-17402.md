@@ -12,6 +12,7 @@ lng: -76.6400
 zipSample: ["17402"]
 zipCodes: ["17402"]
 localPaths: ["York County / ZIP 17402 sector", "York County / elevation 420 ft band", "York County / coords 39.9900, -76.6400", "York County / primary ZIP 17402"]
+zillowHomeValueUsd: 325281
 ---
 
 **Engineering Notice for Yorklyn:** structural drying capacity optimized for 420ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: York County. Relative Humidity Threshold: 77%. Sensor sync: Active.

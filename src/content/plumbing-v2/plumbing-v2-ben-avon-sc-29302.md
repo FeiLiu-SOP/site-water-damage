@@ -12,6 +12,7 @@ lng: -81.8800
 zipSample: ["29302"]
 zipCodes: ["29302"]
 localPaths: ["Spartanburg County / ZIP 29302 sector", "Spartanburg County / primary ZIP 29302", "Spartanburg County / elevation 751 ft band", "Spartanburg County / coords 34.9300, -81.8800"]
+zillowHomeValueUsd: 269460
 ---
 
 **Engineering Notice for Ben Avon:** System optimized for 133 mg/L hard water scaling factors in Ben Avon. Regional dispatch grid: Spartanburg County.

@@ -12,6 +12,7 @@ lng: -92.3300
 zipSample: ["50622"]
 zipCodes: ["50622"]
 localPaths: ["Bremer County / primary ZIP 50622", "Bremer County / ZIP 50622 sector", "Bremer County / elevation 965 ft band", "Bremer County / coords 42.6700, -92.3300"]
+zillowHomeValueUsd: 305324
 ---
 
 **Engineering Notice for Denver:** structural drying capacity optimized for 965ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Bremer County. Relative Humidity Threshold: 65%. Sensor sync: Active.

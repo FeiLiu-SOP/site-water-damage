@@ -12,6 +12,7 @@ lng: -96.7000
 zipSample: ["66517"]
 zipCodes: ["66517"]
 localPaths: ["Riley County / elevation 1053 ft band", "Riley County / ZIP 66517 sector", "Riley County / primary ZIP 66517", "Riley County / coords 39.1100, -96.7000"]
+zillowHomeValueUsd: 165145
 ---
 
 **Engineering Notice for Ogden:** Envelope check: Cladding Retrofit assigned to wind-load band B with stress factor 1.19. Elevation: 1053 ft AMSL. Regional dispatch grid: Riley County.

@@ -12,6 +12,7 @@ lng: -88.4800
 zipSample: ["53118", "53066"]
 zipCodes: ["53118", "53066"]
 localPaths: ["Waukesha County / ZIP 53066 sector", "Waukesha County / elevation 873 ft band", "Waukesha County / primary ZIP 53118", "Waukesha County / coords 43.0100, -88.4800", "Waukesha County / ZIP 53118 sector"]
+zillowHomeValueUsd: 599640
 ---
 
 **Engineering Notice for Dousman:** Structural integrity verification: Panel Replacement calibrated for 90 mph localized wind load factor. Regional dispatch grid: Waukesha County.

@@ -12,6 +12,7 @@ lng: -83.2100
 zipSample: ["48124", "48121", "48120", "48126", "48123"]
 zipCodes: ["48120", "48126", "48123", "48124", "48128", "48121"]
 localPaths: ["Wayne County / primary ZIP 48128", "Wayne County / ZIP 48126 sector", "Wayne County / ZIP 48124 sector", "Wayne County / coords 42.3100, -83.2100", "Wayne County / ZIP 48120 sector"]
+zillowHomeValueUsd: 305227
 ---
 
 **Engineering Notice for Dearborn:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Wayne County.

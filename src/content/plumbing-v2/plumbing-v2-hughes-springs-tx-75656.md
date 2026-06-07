@@ -12,6 +12,7 @@ lng: -94.6300
 zipSample: ["75656"]
 zipCodes: ["75656"]
 localPaths: ["Cass County / coords 33.0000, -94.6300", "Cass County / elevation 390 ft band", "Cass County / ZIP 75656 sector", "Cass County / primary ZIP 75656"]
+zillowHomeValueUsd: 170255
 ---
 
 **Engineering Notice for Hughes Springs:** System optimized for 154 mg/L hard water scaling factors in Hughes Springs. Regional dispatch grid: Cass County.

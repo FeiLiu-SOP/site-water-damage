@@ -11,6 +11,7 @@ lng: -122.2400
 zipSample: ["98178"]
 zipCodes: ["98178"]
 localPaths: ["King County / ZIP 98178 sector", "King County / elevation 387 ft band", "King County / primary ZIP 98178", "King County / coords 47.4900, -122.2400"]
+zillowHomeValueUsd: 670409
 ---
 
 **Engineering Notice for Bryn Mawr-Skyway:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: King County.

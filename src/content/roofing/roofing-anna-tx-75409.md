@@ -11,6 +11,7 @@ lng: -96.5500
 zipSample: ["75409"]
 zipCodes: ["75409"]
 localPaths: ["Collin County / coords 33.3500, -96.5500", "Collin County / ZIP 75409 sector", "Collin County / primary ZIP 75409", "Collin County / elevation 702 ft band"]
+zillowHomeValueUsd: 348222
 ---
 
 **Engineering Notice for Anna:** Structural loading calculated based on 702 ft terrain assessment. Regional dispatch grid: Collin County.

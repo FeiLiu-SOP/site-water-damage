@@ -11,6 +11,7 @@ lng: -87.5100
 zipSample: ["47591"]
 zipCodes: ["47591"]
 localPaths: ["Knox County / primary ZIP 47591", "Knox County / coords 38.6800, -87.5100", "Knox County / elevation 420 ft band", "Knox County / ZIP 47591 sector"]
+zillowHomeValueUsd: 165047
 ---
 
 **Engineering Notice for Vincennes:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: Knox County.

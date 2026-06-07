@@ -12,6 +12,7 @@ lng: -81.2000
 zipSample: ["26170"]
 zipCodes: ["26170"]
 localPaths: ["Pleasants County / coords 39.4000, -81.2000", "Pleasants County / elevation 617 ft band", "Pleasants County / ZIP 26170 sector", "Pleasants County / primary ZIP 26170"]
+zillowHomeValueUsd: 161303
 ---
 
 **Engineering Notice for St. Marys:** Exterior Envelope was validated under stress factor 0.75; target tolerance set near 100 mph. Grid anchor: Pleasants County.

@@ -12,6 +12,7 @@ lng: -96.8600
 zipSample: ["75154"]
 zipCodes: ["75154"]
 localPaths: ["Ellis County / primary ZIP 75154", "Ellis County / ZIP 75154 sector", "Ellis County / elevation 617 ft band", "Ellis County / coords 32.5100, -96.8600"]
+zillowHomeValueUsd: 350964
 ---
 
 **Engineering Notice for Oak Leaf:** System optimized for 148 mg/L hard water scaling factors in Oak Leaf. Regional dispatch grid: Ellis County.

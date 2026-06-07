@@ -11,6 +11,7 @@ lng: -87.8600
 zipSample: ["60088", "60064", "60086"]
 zipCodes: ["60064", "60086", "60088"]
 localPaths: ["Lake County / elevation 705 ft band", "Lake County / ZIP 60088 sector", "Lake County / ZIP 60086 sector", "Lake County / coords 42.3200, -87.8600", "Lake County / primary ZIP 60088"]
+zillowHomeValueUsd: 210073
 ---
 
 **Engineering Notice for North Chicago:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: Lake County.

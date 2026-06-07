@@ -12,6 +12,7 @@ lng: -89.7800
 zipSample: ["61546"]
 zipCodes: ["61546"]
 localPaths: ["Mason County / coords 40.4200, -89.7800", "Mason County / elevation 505 ft band", "Mason County / primary ZIP 61546", "Mason County / ZIP 61546 sector"]
+zillowHomeValueUsd: 137396
 ---
 
 **Engineering Notice for Manito:** structural drying capacity optimized for 505ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mason County. Relative Humidity Threshold: 71%. Sensor sync: Active.

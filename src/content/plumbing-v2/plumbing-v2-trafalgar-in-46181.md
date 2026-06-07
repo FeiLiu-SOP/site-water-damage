@@ -12,6 +12,7 @@ lng: -86.1500
 zipSample: ["46181"]
 zipCodes: ["46181"]
 localPaths: ["Johnson County / primary ZIP 46181", "Johnson County / elevation 843 ft band", "Johnson County / ZIP 46181 sector", "Johnson County / coords 39.4100, -86.1500"]
+zillowHomeValueUsd: 369070
 ---
 
 **Engineering Notice for Trafalgar:** System optimized for 157 mg/L hard water scaling factors in Trafalgar. Regional dispatch grid: Johnson County.

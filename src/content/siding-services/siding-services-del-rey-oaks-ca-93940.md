@@ -12,6 +12,7 @@ lng: -121.8300
 zipSample: ["93940", "93955"]
 zipCodes: ["93955", "93940"]
 localPaths: ["Monterey County / ZIP 93955 sector", "Monterey County / elevation 151 ft band", "Monterey County / coords 36.5900, -121.8300", "Monterey County / ZIP 93940 sector", "Monterey County / primary ZIP 93940"]
+zillowHomeValueUsd: 1135836
 ---
 
 **Engineering Notice for Del Rey Oaks:** Envelope check: Weather Barrier Wrap assigned to wind-load band B with stress factor 1.19. Elevation: 151 ft AMSL. Regional dispatch grid: Monterey County.

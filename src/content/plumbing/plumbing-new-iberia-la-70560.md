@@ -12,6 +12,7 @@ lng: -91.8200
 zipSample: ["70562", "70560", "70563"]
 zipCodes: ["70563", "70560", "70562"]
 localPaths: ["Iberia Parish / primary ZIP 70560", "Iberia Parish / elevation 36 ft band", "Iberia Parish / ZIP 70562 sector", "Iberia Parish / coords 30.0000, -91.8200", "Iberia Parish / ZIP 70563 sector"]
+zillowHomeValueUsd: 112929
 ---
 
 **Engineering Notice for New Iberia:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Iberia Parish.

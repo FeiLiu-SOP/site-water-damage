@@ -11,6 +11,7 @@ lng: -86.4400
 zipSample: ["42101", "42103", "42104", "42102"]
 zipCodes: ["42102", "42103", "42101", "42104"]
 localPaths: ["Warren County / coords 36.9700, -86.4400", "Warren County / ZIP 42103 sector", "Warren County / ZIP 42104 sector", "Warren County / primary ZIP 42104", "Warren County / ZIP 42102 sector"]
+zillowHomeValueUsd: 325818
 ---
 
 **Engineering Notice for Bowling Green:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: Warren County.

@@ -12,6 +12,7 @@ lng: -88.0500
 zipSample: ["60046"]
 zipCodes: ["60046"]
 localPaths: ["Lake County / primary ZIP 60046", "Lake County / elevation 787 ft band", "Lake County / ZIP 60046 sector", "Lake County / coords 42.4000, -88.0500"]
+zillowHomeValueUsd: 347464
 ---
 
 **Engineering Notice for Venetian Village:** System optimized for 151 mg/L hard water scaling factors in Venetian Village. Regional dispatch grid: Lake County.

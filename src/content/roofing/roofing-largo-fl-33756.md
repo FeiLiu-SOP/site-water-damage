@@ -11,6 +11,7 @@ lng: -82.7700
 zipSample: ["33756", "33773", "33774", "33779", "33760"]
 zipCodes: ["33774", "33770", "33760", "33773", "33771", "33778", "33764", "33756", "33779"]
 localPaths: ["Pinellas County / ZIP 33773 sector", "Pinellas County / ZIP 33756 sector", "Pinellas County / primary ZIP 33756", "Pinellas County / ZIP 33760 sector", "Pinellas County / ZIP 33779 sector"]
+zillowHomeValueUsd: 354086
 ---
 
 **Engineering Notice for Largo:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Pinellas County.

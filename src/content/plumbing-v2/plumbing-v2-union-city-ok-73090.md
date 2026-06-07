@@ -12,6 +12,7 @@ lng: -97.9000
 zipSample: ["73090", "73036"]
 zipCodes: ["73090", "73036"]
 localPaths: ["Canadian County / coords 35.4000, -97.9000", "Canadian County / ZIP 73090 sector", "Canadian County / ZIP 73036 sector", "Canadian County / primary ZIP 73090", "Canadian County / elevation 1316 ft band"]
+zillowHomeValueUsd: 213738
 ---
 
 **Engineering Notice for Union City:** System optimized for 155 mg/L hard water scaling factors in Union City. Regional dispatch grid: Canadian County.

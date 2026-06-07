@@ -12,6 +12,7 @@ lng: -104.0300
 zipSample: ["79843"]
 zipCodes: ["79843"]
 localPaths: ["Presidio County / coords 30.3100, -104.0300", "Presidio County / primary ZIP 79843", "Presidio County / ZIP 79843 sector", "Presidio County / elevation 4695 ft band"]
+zillowHomeValueUsd: 304169
 ---
 
 **Engineering Notice for Marfa:** System optimized for 141 mg/L hard water scaling factors in Marfa. Regional dispatch grid: Presidio County.

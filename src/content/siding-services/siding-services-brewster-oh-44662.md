@@ -12,6 +12,7 @@ lng: -81.6000
 zipSample: ["44613", "44662"]
 zipCodes: ["44613", "44662"]
 localPaths: ["Stark County / ZIP 44613 sector", "Stark County / primary ZIP 44662", "Stark County / coords 40.7100, -81.6000", "Stark County / elevation 968 ft band", "Stark County / ZIP 44662 sector"]
+zillowHomeValueUsd: 210075
 ---
 
 **Engineering Notice for Brewster:** Structural integrity verification: Exterior Cladding calibrated for 101 mph localized wind load factor. Regional dispatch grid: Stark County.

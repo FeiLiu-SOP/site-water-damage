@@ -11,6 +11,7 @@ lng: -98.2500
 zipSample: ["78505", "78502", "78557", "78501", "78573"]
 zipCodes: ["78503", "78502", "78501", "78504", "78573", "78505", "78557"]
 localPaths: ["Hidalgo County / ZIP 78505 sector", "Hidalgo County / primary ZIP 78573", "Hidalgo County / ZIP 78502 sector", "Hidalgo County / ZIP 78501 sector", "Hidalgo County / elevation 138 ft band"]
+zillowHomeValueUsd: 216804
 ---
 
 **Engineering Notice for McAllen:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Hidalgo County.

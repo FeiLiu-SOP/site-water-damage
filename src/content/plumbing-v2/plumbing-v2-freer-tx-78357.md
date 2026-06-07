@@ -12,6 +12,7 @@ lng: -98.6200
 zipSample: ["78357"]
 zipCodes: ["78357"]
 localPaths: ["Duval County / primary ZIP 78357", "Duval County / elevation 525 ft band", "Duval County / coords 27.8800, -98.6200", "Duval County / ZIP 78357 sector"]
+zillowHomeValueUsd: 80750
 ---
 
 **Engineering Notice for Freer:** System optimized for 140 mg/L hard water scaling factors in Freer. Regional dispatch grid: Duval County.

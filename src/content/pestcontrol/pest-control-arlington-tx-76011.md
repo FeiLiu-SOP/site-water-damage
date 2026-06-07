@@ -11,6 +11,7 @@ lng: -97.1200
 zipSample: ["76096", "76003", "76018", "76004", "76005"]
 zipCodes: ["76006", "76012", "76001", "76096", "76010", "76016", "76002", "76005", "76004", "76017", "76013", "76011"]
 localPaths: ["Tarrant County / ZIP 76005 sector", "Tarrant County / ZIP 76003 sector", "Tarrant County / ZIP 76018 sector", "Tarrant County / ZIP 76096 sector", "Tarrant County / primary ZIP 76011"]
+zillowHomeValueUsd: 255702
 ---
 
 **Engineering Notice for Arlington:** Structural loading calculated based on 663 ft terrain assessment. Regional dispatch grid: Tarrant County.

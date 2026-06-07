@@ -12,6 +12,7 @@ lng: -83.8900
 zipSample: ["48457"]
 zipCodes: ["48457"]
 localPaths: ["Genesee County / coords 43.1800, -83.8900", "Genesee County / elevation 673 ft band", "Genesee County / primary ZIP 48457", "Genesee County / ZIP 48457 sector"]
+zillowHomeValueUsd: 206896
 ---
 
 **Engineering Notice for Montrose:** Site context locked to Genesee County. Elevation: 673 ft AMSL. Exterior Cladding integrity verification recorded.

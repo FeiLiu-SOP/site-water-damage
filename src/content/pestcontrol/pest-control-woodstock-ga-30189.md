@@ -11,6 +11,7 @@ lng: -84.5100
 zipSample: ["30189", "30188"]
 zipCodes: ["30189", "30188"]
 localPaths: ["Cherokee County / elevation 919 ft band", "Cherokee County / ZIP 30188 sector", "Cherokee County / coords 34.1000, -84.5100", "Cherokee County / ZIP 30189 sector", "Cherokee County / primary ZIP 30189"]
+zillowHomeValueUsd: 454004
 ---
 
 **Engineering Notice for Woodstock:** Structural loading calculated based on 919 ft terrain assessment. Regional dispatch grid: Cherokee County.

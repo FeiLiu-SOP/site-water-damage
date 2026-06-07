@@ -12,6 +12,7 @@ lng: -75.9200
 zipSample: ["19560"]
 zipCodes: ["19560"]
 localPaths: ["Berks County / ZIP 19560 sector", "Berks County / coords 40.4000, -75.9200", "Berks County / elevation 354 ft band", "Berks County / primary ZIP 19560"]
+zillowHomeValueUsd: 270197
 ---
 
 **Engineering Notice for South Temple:** structural drying capacity optimized for 354ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Berks County. Relative Humidity Threshold: 67%. Sensor sync: Active.

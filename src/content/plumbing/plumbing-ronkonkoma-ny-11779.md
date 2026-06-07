@@ -12,6 +12,7 @@ lng: -73.1200
 zipSample: ["11779"]
 zipCodes: ["11779"]
 localPaths: ["Suffolk County / coords 40.8000, -73.1200", "Suffolk County / elevation 112 ft band", "Suffolk County / primary ZIP 11779", "Suffolk County / ZIP 11779 sector"]
+zillowHomeValueUsd: 619164
 ---
 
 **Engineering Notice for Ronkonkoma:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Suffolk County.

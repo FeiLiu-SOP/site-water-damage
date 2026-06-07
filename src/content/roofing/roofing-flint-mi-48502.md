@@ -11,6 +11,7 @@ lng: -83.6900
 zipSample: ["48506", "48553", "48503", "48551", "48507"]
 zipCodes: ["48552", "48506", "48553", "48504", "48507", "48556", "48557", "48551", "48505", "48503", "48502", "48550"]
 localPaths: ["Genesee County / ZIP 48506 sector", "Genesee County / ZIP 48551 sector", "Genesee County / coords 43.0200, -83.6900", "Genesee County / elevation 732 ft band", "Genesee County / ZIP 48553 sector"]
+zillowHomeValueUsd: 105716
 ---
 
 **Engineering Notice for Flint:** Structural loading calculated based on 732 ft terrain assessment. Regional dispatch grid: Genesee County.

@@ -12,6 +12,7 @@ lng: -91.1600
 zipSample: ["70791"]
 zipCodes: ["70791"]
 localPaths: ["East Baton Rouge Parish / ZIP 70791 sector", "East Baton Rouge Parish / primary ZIP 70791", "East Baton Rouge Parish / coords 30.6600, -91.1600", "East Baton Rouge Parish / elevation 121 ft band"]
+zillowHomeValueUsd: 268162
 ---
 
 **Engineering Notice for Zachary:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: East Baton Rouge Parish.

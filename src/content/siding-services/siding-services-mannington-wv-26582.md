@@ -12,6 +12,7 @@ lng: -80.3400
 zipSample: ["26582"]
 zipCodes: ["26582"]
 localPaths: ["Marion County / coords 39.5300, -80.3400", "Marion County / ZIP 26582 sector", "Marion County / elevation 1043 ft band", "Marion County / primary ZIP 26582"]
+zillowHomeValueUsd: 120556
 ---
 
 **Engineering Notice for Mannington:** Envelope check: Wall Restoration assigned to wind-load band B with stress factor 1.20. Regional dispatch grid: Marion County.

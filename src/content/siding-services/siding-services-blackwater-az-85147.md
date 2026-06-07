@@ -12,6 +12,8 @@ lng: -111.5800
 zipSample: ["85147", "85128"]
 zipCodes: ["85128", "85147"]
 localPaths: ["Pinal County / elevation 1355 ft band", "Pinal County / ZIP 85128 sector", "Pinal County / coords 33.0400, -111.5800", "Pinal County / ZIP 85147 sector", "Pinal County / primary ZIP 85147"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 447681
 ---
 
 **Engineering Notice for Blackwater:** Cladding verification uses 104 mph routing baseline; lateral pressure note: 13.7 psf. Elevation: 1355 ft AMSL. Grid: Pinal County.

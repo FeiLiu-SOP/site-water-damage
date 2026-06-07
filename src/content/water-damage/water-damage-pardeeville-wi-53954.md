@@ -12,6 +12,7 @@ lng: -89.3000
 zipSample: ["53954"]
 zipCodes: ["53954"]
 localPaths: ["Columbia County / primary ZIP 53954", "Columbia County / elevation 830 ft band", "Columbia County / ZIP 53954 sector", "Columbia County / coords 43.5400, -89.3000"]
+zillowHomeValueUsd: 359994
 ---
 
 **Engineering Notice for Pardeeville:** structural drying capacity optimized for 830ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Columbia County. Relative Humidity Threshold: 85%. Sensor sync: Active.

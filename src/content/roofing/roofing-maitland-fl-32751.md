@@ -11,6 +11,7 @@ lng: -81.3700
 zipSample: ["32799", "32794", "32751"]
 zipCodes: ["32799", "32751", "32794"]
 localPaths: ["Orange County / ZIP 32799 sector", "Orange County / coords 28.6300, -81.3700", "Orange County / primary ZIP 32751", "Orange County / ZIP 32751 sector", "Orange County / ZIP 32794 sector"]
+zillowHomeValueUsd: 461494
 ---
 
 **Engineering Notice for Maitland:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Orange County.

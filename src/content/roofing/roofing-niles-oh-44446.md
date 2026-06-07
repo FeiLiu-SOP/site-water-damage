@@ -11,6 +11,7 @@ lng: -80.7500
 zipSample: ["44446"]
 zipCodes: ["44446"]
 localPaths: ["Trumbull County / ZIP 44446 sector", "Trumbull County / primary ZIP 44446", "Trumbull County / coords 41.1900, -80.7500", "Trumbull County / elevation 902 ft band"]
+zillowHomeValueUsd: 130875
 ---
 
 **Engineering Notice for Niles:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Trumbull County.

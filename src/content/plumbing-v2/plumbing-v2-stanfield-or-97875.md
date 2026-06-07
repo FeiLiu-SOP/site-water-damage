@@ -12,6 +12,7 @@ lng: -119.2200
 zipSample: ["97875"]
 zipCodes: ["97875"]
 localPaths: ["Umatilla County / ZIP 97875 sector", "Umatilla County / coords 45.7800, -119.2200", "Umatilla County / elevation 604 ft band", "Umatilla County / primary ZIP 97875"]
+zillowHomeValueUsd: 284924
 ---
 
 **Engineering Notice for Stanfield:** System optimized for 141 mg/L hard water scaling factors in Stanfield. Regional dispatch grid: Umatilla County.

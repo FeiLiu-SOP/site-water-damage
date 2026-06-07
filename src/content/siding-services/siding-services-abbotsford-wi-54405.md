@@ -12,6 +12,7 @@ lng: -90.3200
 zipSample: ["54421", "54405"]
 zipCodes: ["54405", "54421"]
 localPaths: ["Marathon County / elevation 1417 ft band", "Marathon County / primary ZIP 54405", "Marathon County / coords 44.9400, -90.3200", "Marathon County / ZIP 54421 sector", "Marathon County / ZIP 54405 sector"]
+zillowHomeValueUsd: 193337
 ---
 
 **Engineering Notice for Abbotsford:** Cladding verification uses 93 mph routing baseline; lateral pressure note: 12.4 psf. Elevation: 1417 ft AMSL. Coordinates: 44.9400, -90.3200. Grid: Marathon County.

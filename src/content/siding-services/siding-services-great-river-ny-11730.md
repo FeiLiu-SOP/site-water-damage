@@ -12,6 +12,7 @@ lng: -73.1600
 zipSample: ["11739", "11730"]
 zipCodes: ["11739", "11730"]
 localPaths: ["Suffolk County / ZIP 11739 sector", "Suffolk County / coords 40.7100, -73.1600", "Suffolk County / elevation 30 ft band", "Suffolk County / primary ZIP 11730", "Suffolk County / ZIP 11730 sector"]
+zillowHomeValueUsd: 704562
 ---
 
 **Engineering Notice for Great River:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 0.87. Regional dispatch grid: Suffolk County.

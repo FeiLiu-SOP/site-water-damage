@@ -12,6 +12,7 @@ lng: -90.4600
 zipSample: ["62694"]
 zipCodes: ["62694"]
 localPaths: ["Scott County / coords 39.6300, -90.4600", "Scott County / elevation 551 ft band", "Scott County / primary ZIP 62694", "Scott County / ZIP 62694 sector"]
+zillowHomeValueUsd: 103166
 ---
 
 **Engineering Notice for Winchester:** System optimized for 168 mg/L hard water scaling factors in Winchester. Regional dispatch grid: Scott County.

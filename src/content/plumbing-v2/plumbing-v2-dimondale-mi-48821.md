@@ -12,6 +12,7 @@ lng: -84.6500
 zipSample: ["48821"]
 zipCodes: ["48821"]
 localPaths: ["Eaton County / primary ZIP 48821", "Eaton County / elevation 869 ft band", "Eaton County / coords 42.6500, -84.6500", "Eaton County / ZIP 48821 sector"]
+zillowHomeValueUsd: 297689
 ---
 
 **Engineering Notice for Dimondale:** System optimized for 136 mg/L hard water scaling factors in Dimondale. Regional dispatch grid: Eaton County.

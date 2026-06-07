@@ -12,6 +12,7 @@ lng: -83.1800
 zipSample: ["48726"]
 zipCodes: ["48726"]
 localPaths: ["Tuscola County / coords 43.6000, -83.1800", "Tuscola County / elevation 741 ft band", "Tuscola County / ZIP 48726 sector", "Tuscola County / primary ZIP 48726"]
+zillowHomeValueUsd: 177184
 ---
 
 **Engineering Notice for Cass City:** System optimized for 146 mg/L hard water scaling factors in Cass City. Regional dispatch grid: Tuscola County.

@@ -12,6 +12,7 @@ lng: -78.3200
 zipSample: ["22625"]
 zipCodes: ["22625"]
 localPaths: ["Frederick County / primary ZIP 22625", "Frederick County / coords 39.3100, -78.3200", "Frederick County / ZIP 22625 sector", "Frederick County / elevation 830 ft band"]
+zillowHomeValueUsd: 428828
 ---
 
 **Engineering Notice for Lake Holiday:** System optimized for 164 mg/L hard water scaling factors in Lake Holiday. Regional dispatch grid: Frederick County.

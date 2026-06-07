@@ -12,6 +12,7 @@ lng: -76.5500
 zipSample: ["21234"]
 zipCodes: ["21234"]
 localPaths: ["Baltimore County / ZIP 21234 sector", "Baltimore County / elevation 351 ft band", "Baltimore County / primary ZIP 21234", "Baltimore County / coords 39.3800, -76.5500"]
+zillowHomeValueUsd: 301824
 ---
 
 **Engineering Notice for Parkville:** Structural loading calculated based on 351 ft terrain assessment. Regional dispatch grid: Baltimore County.

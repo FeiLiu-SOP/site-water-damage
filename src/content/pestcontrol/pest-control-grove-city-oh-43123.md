@@ -11,6 +11,7 @@ lng: -83.0700
 zipSample: ["43123"]
 zipCodes: ["43123"]
 localPaths: ["Franklin County / ZIP 43123 sector", "Franklin County / coords 39.8700, -83.0700", "Franklin County / primary ZIP 43123", "Franklin County / elevation 810 ft band"]
+zillowHomeValueUsd: 330392
 ---
 
 **Engineering Notice for Grove City:** Structural loading calculated based on 810 ft terrain assessment. Regional dispatch grid: Franklin County.

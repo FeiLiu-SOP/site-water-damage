@@ -11,6 +11,7 @@ lng: -122.2700
 zipSample: ["94404"]
 zipCodes: ["94404"]
 localPaths: ["San Mateo County / coords 37.5600, -122.2700", "San Mateo County / ZIP 94404 sector", "San Mateo County / primary ZIP 94404", "San Mateo County / elevation 0 ft band"]
+zillowHomeValueUsd: 1763706
 ---
 
 **Engineering Notice for Foster City:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: San Mateo County.

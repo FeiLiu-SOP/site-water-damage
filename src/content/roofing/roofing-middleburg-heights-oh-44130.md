@@ -11,6 +11,7 @@ lng: -81.8100
 zipSample: ["44130"]
 zipCodes: ["44130"]
 localPaths: ["Cuyahoga County / primary ZIP 44130", "Cuyahoga County / ZIP 44130 sector", "Cuyahoga County / coords 41.3700, -81.8100", "Cuyahoga County / elevation 843 ft band"]
+zillowHomeValueUsd: 232843
 ---
 
 **Engineering Notice for Middleburg Heights:** Structural loading calculated based on 843 ft terrain assessment. Regional dispatch grid: Cuyahoga County.

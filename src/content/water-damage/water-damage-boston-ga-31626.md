@@ -12,6 +12,7 @@ lng: -83.7900
 zipSample: ["31626"]
 zipCodes: ["31626"]
 localPaths: ["Thomas County / elevation 220 ft band", "Thomas County / ZIP 31626 sector", "Thomas County / primary ZIP 31626", "Thomas County / coords 30.7900, -83.7900"]
+zillowHomeValueUsd: 218974
 ---
 
 **Engineering Notice for Boston:** structural drying capacity optimized for 220ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Thomas County. Relative Humidity Threshold: 66%. Sensor sync: Active.

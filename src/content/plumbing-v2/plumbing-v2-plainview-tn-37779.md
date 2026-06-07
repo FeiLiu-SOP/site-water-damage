@@ -12,6 +12,7 @@ lng: -83.7900
 zipSample: ["37721", "37779"]
 zipCodes: ["37721", "37779"]
 localPaths: ["Union County / coords 36.1800, -83.7900", "Union County / elevation 1132 ft band", "Union County / ZIP 37779 sector", "Union County / primary ZIP 37779", "Union County / ZIP 37721 sector"]
+zillowHomeValueUsd: 240219
 ---
 
 **Engineering Notice for Plainview:** System optimized for 151 mg/L hard water scaling factors in Plainview. Regional dispatch grid: Union County.

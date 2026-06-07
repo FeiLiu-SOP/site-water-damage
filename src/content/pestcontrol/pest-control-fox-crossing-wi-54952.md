@@ -11,6 +11,7 @@ lng: -88.4800
 zipSample: ["54952", "54956"]
 zipCodes: ["54952", "54956"]
 localPaths: ["Winnebago County / ZIP 54956 sector", "Winnebago County / ZIP 54952 sector", "Winnebago County / primary ZIP 54952", "Winnebago County / elevation 761 ft band", "Winnebago County / coords 44.2200, -88.4800"]
+zillowHomeValueUsd: 277350
 ---
 
 **Engineering Notice for Fox Crossing:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Winnebago County.

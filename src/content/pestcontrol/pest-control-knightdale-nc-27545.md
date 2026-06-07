@@ -11,6 +11,7 @@ lng: -78.5000
 zipSample: ["27545"]
 zipCodes: ["27545"]
 localPaths: ["Wake County / coords 35.7900, -78.5000", "Wake County / ZIP 27545 sector", "Wake County / elevation 253 ft band", "Wake County / primary ZIP 27545"]
+zillowHomeValueUsd: 370638
 ---
 
 **Engineering Notice for Knightdale:** Structural loading calculated based on 253 ft terrain assessment. Regional dispatch grid: Wake County.

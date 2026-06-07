@@ -12,6 +12,7 @@ lng: -74.0000
 zipSample: ["10965", "10962"]
 zipCodes: ["10962", "10965"]
 localPaths: ["Rockland County / ZIP 10962 sector", "Rockland County / elevation 292 ft band", "Rockland County / coords 41.0600, -74.0000", "Rockland County / ZIP 10965 sector", "Rockland County / primary ZIP 10965"]
+zillowHomeValueUsd: 703095
 ---
 
 **Engineering Notice for Pearl River:** Structural loading calculated based on 292 ft terrain assessment. Regional dispatch grid: Rockland County.

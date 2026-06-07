@@ -12,6 +12,7 @@ lng: -110.3900
 zipSample: ["84021"]
 zipCodes: ["84021"]
 localPaths: ["Duchesne County / coords 40.1800, -110.3900", "Duchesne County / primary ZIP 84021", "Duchesne County / elevation 5719 ft band", "Duchesne County / ZIP 84021 sector"]
+zillowHomeValueUsd: 339595
 ---
 
 **Engineering Notice for Duchesne:** System optimized for 126 mg/L hard water scaling factors in Duchesne. Regional dispatch grid: Duchesne County.

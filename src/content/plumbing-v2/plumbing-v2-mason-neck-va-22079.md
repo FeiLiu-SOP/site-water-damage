@@ -12,6 +12,7 @@ lng: -77.1800
 zipSample: ["22079"]
 zipCodes: ["22079"]
 localPaths: ["Fairfax County / ZIP 22079 sector", "Fairfax County / coords 38.6600, -77.1800", "Fairfax County / primary ZIP 22079", "Fairfax County / elevation 43 ft band"]
+zillowHomeValueUsd: 684784
 ---
 
 **Engineering Notice for Mason Neck:** System optimized for 167 mg/L hard water scaling factors in Mason Neck. Regional dispatch grid: Fairfax County.

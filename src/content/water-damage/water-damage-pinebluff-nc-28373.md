@@ -12,6 +12,7 @@ lng: -79.4700
 zipSample: ["28373"]
 zipCodes: ["28373"]
 localPaths: ["Moore County / elevation 430 ft band", "Moore County / primary ZIP 28373", "Moore County / ZIP 28373 sector", "Moore County / coords 35.1100, -79.4700"]
+zillowHomeValueUsd: 294056
 ---
 
 **Engineering Notice for Pinebluff:** structural drying capacity optimized for 430ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Moore County. Relative Humidity Threshold: 67%. Sensor sync: Active.

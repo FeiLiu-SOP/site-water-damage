@@ -12,6 +12,7 @@ lng: -87.5800
 zipSample: ["47639"]
 zipCodes: ["47639"]
 localPaths: ["Gibson County / elevation 476 ft band", "Gibson County / coords 38.2000, -87.5800", "Gibson County / primary ZIP 47639", "Gibson County / ZIP 47639 sector"]
+zillowHomeValueUsd: 310346
 ---
 
 **Engineering Notice for Haubstadt:** Structural integrity verification: Weather Barrier Wrap calibrated for 94 mph localized wind load factor. Coordinates: 38.2000, -87.5800. Regional dispatch grid: Gibson County.

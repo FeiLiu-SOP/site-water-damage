@@ -12,6 +12,7 @@ lng: -88.4000
 zipSample: ["53153"]
 zipCodes: ["53153"]
 localPaths: ["Waukesha County / primary ZIP 53153", "Waukesha County / ZIP 53153 sector", "Waukesha County / elevation 955 ft band", "Waukesha County / coords 42.9400, -88.4000"]
+zillowHomeValueUsd: 495769
 ---
 
 **Engineering Notice for North Prairie:** structural drying capacity optimized for 955ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Waukesha County. Relative Humidity Threshold: 78%. Sensor sync: Active.

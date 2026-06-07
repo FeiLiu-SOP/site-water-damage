@@ -11,6 +11,7 @@ lng: -118.2200
 zipSample: ["93560"]
 zipCodes: ["93560"]
 localPaths: ["Kern County / elevation 2411 ft band", "Kern County / ZIP 93560 sector", "Kern County / coords 34.8700, -118.2200", "Kern County / primary ZIP 93560"]
+zillowHomeValueUsd: 410962
 ---
 
 **Engineering Notice for Rosamond:** Structural loading calculated based on 2411 ft terrain assessment. Regional dispatch grid: Kern County.

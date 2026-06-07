@@ -12,6 +12,7 @@ lng: -73.7300
 zipSample: ["11001"]
 zipCodes: ["11001"]
 localPaths: ["Nassau County / coords 40.7200, -73.7300", "Nassau County / ZIP 11001 sector", "Nassau County / primary ZIP 11001", "Nassau County / elevation 89 ft band"]
+zillowHomeValueUsd: 850876
 ---
 
 **Engineering Notice for Bellerose Terrace:** System optimized for 134 mg/L hard water scaling factors in Bellerose Terrace. Regional dispatch grid: Nassau County.

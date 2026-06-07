@@ -12,6 +12,7 @@ lng: -90.3300
 zipSample: ["72354"]
 zipCodes: ["72354"]
 localPaths: ["Poinsett County / ZIP 72354 sector", "Poinsett County / elevation 223 ft band", "Poinsett County / coords 35.6100, -90.3300", "Poinsett County / primary ZIP 72354"]
+zillowHomeValueUsd: 98384
 ---
 
 **Engineering Notice for Lepanto:** System optimized for 155 mg/L hard water scaling factors in Lepanto. Regional dispatch grid: Poinsett County.

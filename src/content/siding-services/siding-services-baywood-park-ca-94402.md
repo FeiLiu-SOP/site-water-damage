@@ -12,6 +12,7 @@ lng: -122.3400
 zipSample: ["94402"]
 zipCodes: ["94402"]
 localPaths: ["San Mateo County / elevation 515 ft band", "San Mateo County / coords 37.5300, -122.3400", "San Mateo County / ZIP 94402 sector", "San Mateo County / primary ZIP 94402"]
+zillowHomeValueUsd: 2475193
 ---
 
 **Engineering Notice for Baywood Park:** Structural integrity verification: Exterior Cladding calibrated for 140 mph localized wind load factor. Regional dispatch grid: San Mateo County.

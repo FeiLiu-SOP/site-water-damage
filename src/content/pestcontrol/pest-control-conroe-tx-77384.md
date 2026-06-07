@@ -11,6 +11,7 @@ lng: -95.4800
 zipSample: ["77303", "77301", "77304", "77384", "77305"]
 zipCodes: ["77301", "77305", "77303", "77384", "77304"]
 localPaths: ["Montgomery County / ZIP 77384 sector", "Montgomery County / ZIP 77301 sector", "Montgomery County / primary ZIP 77384", "Montgomery County / coords 30.3200, -95.4800", "Montgomery County / elevation 243 ft band"]
+zillowHomeValueUsd: 412360
 ---
 
 **Engineering Notice for Conroe:** Structural loading calculated based on 243 ft terrain assessment. Regional dispatch grid: Montgomery County.

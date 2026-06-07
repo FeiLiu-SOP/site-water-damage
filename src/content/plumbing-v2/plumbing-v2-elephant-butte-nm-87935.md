@@ -12,6 +12,7 @@ lng: -107.2300
 zipSample: ["87935"]
 zipCodes: ["87935"]
 localPaths: ["Sierra County / coords 33.1800, -107.2300", "Sierra County / ZIP 87935 sector", "Sierra County / elevation 4491 ft band", "Sierra County / primary ZIP 87935"]
+zillowHomeValueUsd: 237653
 ---
 
 **Engineering Notice for Elephant Butte:** System optimized for 161 mg/L hard water scaling factors in Elephant Butte. Regional dispatch grid: Sierra County.

@@ -11,6 +11,7 @@ lng: -94.8000
 zipSample: ["66250", "66214", "66219", "66215", "66220"]
 zipCodes: ["66227", "66219", "66220", "66215", "66250", "66216", "66214"]
 localPaths: ["Johnson County / coords 38.9600, -94.8000", "Johnson County / ZIP 66215 sector", "Johnson County / ZIP 66219 sector", "Johnson County / ZIP 66214 sector", "Johnson County / ZIP 66250 sector"]
+zillowHomeValueUsd: 389083
 ---
 
 **Engineering Notice for Lenexa:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Johnson County.

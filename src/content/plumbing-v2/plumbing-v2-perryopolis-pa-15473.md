@@ -12,6 +12,7 @@ lng: -79.7500
 zipSample: ["15473"]
 zipCodes: ["15473"]
 localPaths: ["Fayette County / ZIP 15473 sector", "Fayette County / coords 40.0900, -79.7500", "Fayette County / elevation 1010 ft band", "Fayette County / primary ZIP 15473"]
+zillowHomeValueUsd: 185144
 ---
 
 **Engineering Notice for Perryopolis:** System optimized for 124 mg/L hard water scaling factors in Perryopolis. Regional dispatch grid: Fayette County.

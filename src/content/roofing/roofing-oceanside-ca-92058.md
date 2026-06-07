@@ -11,6 +11,7 @@ lng: -117.3100
 zipSample: ["92057", "92051", "92049", "92056", "92054"]
 zipCodes: ["92056", "92068", "92054", "92058", "92052", "92049", "92051", "92057"]
 localPaths: ["San Diego County / ZIP 92051 sector", "San Diego County / ZIP 92056 sector", "San Diego County / ZIP 92054 sector", "San Diego County / ZIP 92049 sector", "San Diego County / ZIP 92057 sector"]
+zillowHomeValueUsd: 780466
 ---
 
 **Engineering Notice for Oceanside:** Structural loading calculated based on 253 ft terrain assessment. Regional dispatch grid: San Diego County.

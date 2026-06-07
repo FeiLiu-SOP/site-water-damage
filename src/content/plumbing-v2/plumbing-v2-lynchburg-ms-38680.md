@@ -12,6 +12,7 @@ lng: -90.1100
 zipSample: ["38680"]
 zipCodes: ["38680"]
 localPaths: ["DeSoto County / elevation 292 ft band", "DeSoto County / ZIP 38680 sector", "DeSoto County / primary ZIP 38680", "DeSoto County / coords 34.9600, -90.1100"]
+zillowHomeValueUsd: 260183
 ---
 
 **Engineering Notice for Lynchburg:** System optimized for 151 mg/L hard water scaling factors in Lynchburg. Regional dispatch grid: DeSoto County.

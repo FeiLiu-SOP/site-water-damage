@@ -11,6 +11,7 @@ lng: -115.5600
 zipSample: ["92244", "92243"]
 zipCodes: ["92243", "92244"]
 localPaths: ["Imperial County / coords 32.7900, -115.5600", "Imperial County / ZIP 92244 sector", "Imperial County / primary ZIP 92243", "Imperial County / elevation -44 ft band", "Imperial County / ZIP 92243 sector"]
+zillowHomeValueUsd: 385317
 ---
 
 **Engineering Notice for El Centro:** Structural loading calculated based on -44 ft terrain assessment. Regional dispatch grid: Imperial County.

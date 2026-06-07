@@ -11,6 +11,7 @@ lng: -79.8100
 zipSample: ["27203", "27205"]
 zipCodes: ["27205", "27203"]
 localPaths: ["Randolph County / elevation 846 ft band", "Randolph County / ZIP 27203 sector", "Randolph County / primary ZIP 27205", "Randolph County / ZIP 27205 sector", "Randolph County / coords 35.7200, -79.8100"]
+zillowHomeValueUsd: 268409
 ---
 
 **Engineering Notice for Asheboro:** Structural loading calculated based on 846 ft terrain assessment. Regional dispatch grid: Randolph County.

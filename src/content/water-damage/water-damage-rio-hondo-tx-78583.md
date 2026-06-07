@@ -12,6 +12,7 @@ lng: -97.5800
 zipSample: ["78550", "78583"]
 zipCodes: ["78583", "78550"]
 localPaths: ["Cameron County / elevation 43 ft band", "Cameron County / coords 26.2300, -97.5800", "Cameron County / ZIP 78583 sector", "Cameron County / primary ZIP 78583", "Cameron County / ZIP 78550 sector"]
+zillowHomeValueUsd: 210496
 ---
 
 **Engineering Notice for Rio Hondo:** structural drying capacity optimized for 43ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cameron County. Relative Humidity Threshold: 65%. Sensor sync: Active.

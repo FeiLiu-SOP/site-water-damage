@@ -12,6 +12,7 @@ lng: -119.3500
 zipSample: ["89444", "89430"]
 zipCodes: ["89430", "89444"]
 localPaths: ["Lyon County / ZIP 89430 sector", "Lyon County / ZIP 89444 sector", "Lyon County / primary ZIP 89444", "Lyon County / elevation 4741 ft band", "Lyon County / coords 38.8100, -119.3500"]
+zillowHomeValueUsd: 536714
 ---
 
 **Engineering Notice for Smith Valley:** System optimized for 175 mg/L hard water scaling factors in Smith Valley. Regional dispatch grid: Lyon County.

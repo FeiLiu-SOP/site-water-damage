@@ -12,6 +12,7 @@ lng: -89.7700
 zipSample: ["61491"]
 zipCodes: ["61491"]
 localPaths: ["Stark County / elevation 722 ft band", "Stark County / coords 41.0600, -89.7700", "Stark County / ZIP 61491 sector", "Stark County / primary ZIP 61491"]
+zillowHomeValueUsd: 134723
 ---
 
 **Engineering Notice for Wyoming:** System optimized for 178 mg/L hard water scaling factors in Wyoming. Regional dispatch grid: Stark County.

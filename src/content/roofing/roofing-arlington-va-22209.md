@@ -11,6 +11,7 @@ lng: -77.1000
 zipSample: ["22243", "22241", "22207", "22245", "22230"]
 zipCodes: ["22240", "22201", "22206", "22243", "22202", "22204", "22244", "22211", "22350", "22205", "22227", "22216"]
 localPaths: ["Arlington County / ZIP 22230 sector", "Arlington County / ZIP 22243 sector", "Arlington County / ZIP 22245 sector", "Arlington County / ZIP 22241 sector", "Arlington County / primary ZIP 22209"]
+zillowHomeValueUsd: 726661
 ---
 
 **Engineering Notice for Arlington:** Structural loading calculated based on 282 ft terrain assessment. Regional dispatch grid: Arlington County.

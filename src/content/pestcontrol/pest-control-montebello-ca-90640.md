@@ -11,6 +11,7 @@ lng: -118.1100
 zipSample: ["90640"]
 zipCodes: ["90640"]
 localPaths: ["Los Angeles County / ZIP 90640 sector", "Los Angeles County / elevation 200 ft band", "Los Angeles County / coords 34.0200, -118.1100", "Los Angeles County / primary ZIP 90640"]
+zillowHomeValueUsd: 827436
 ---
 
 **Engineering Notice for Montebello:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Los Angeles County.

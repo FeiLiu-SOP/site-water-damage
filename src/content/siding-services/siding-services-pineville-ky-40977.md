@@ -12,6 +12,7 @@ lng: -83.7100
 zipSample: ["40977"]
 zipCodes: ["40977"]
 localPaths: ["Bell County / primary ZIP 40977", "Bell County / elevation 2119 ft band", "Bell County / ZIP 40977 sector", "Bell County / coords 36.7500, -83.7100"]
+zillowHomeValueUsd: 90030
 ---
 
 **Engineering Notice for Pineville:** Structural integrity verification: Wall Restoration calibrated for 95 mph localized wind load factor. Elevation: 2119 ft AMSL. Coordinates: 36.7500, -83.7100. Regional dispatch grid: Bell County.

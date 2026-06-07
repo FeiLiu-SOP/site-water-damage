@@ -11,6 +11,7 @@ lng: -81.9300
 zipSample: ["29307", "29302", "29319", "29306", "29301"]
 zipCodes: ["29306", "29304", "29301", "29302", "29307", "29319"]
 localPaths: ["Spartanburg County / coords 34.9400, -81.9300", "Spartanburg County / ZIP 29301 sector", "Spartanburg County / primary ZIP 29302", "Spartanburg County / ZIP 29306 sector", "Spartanburg County / elevation 774 ft band"]
+zillowHomeValueUsd: 269458
 ---
 
 **Engineering Notice for Spartanburg:** Structural loading calculated based on 774 ft terrain assessment. Regional dispatch grid: Spartanburg County.

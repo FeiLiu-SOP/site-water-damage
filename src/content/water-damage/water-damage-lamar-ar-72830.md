@@ -12,6 +12,7 @@ lng: -93.4000
 zipSample: ["72830", "72846"]
 zipCodes: ["72830", "72846"]
 localPaths: ["Johnson County / coords 35.4400, -93.4000", "Johnson County / elevation 449 ft band", "Johnson County / ZIP 72830 sector", "Johnson County / primary ZIP 72830", "Johnson County / ZIP 72846 sector"]
+zillowHomeValueUsd: 185964
 ---
 
 **Engineering Notice for Lamar:** structural drying capacity optimized for 449ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Johnson County. Relative Humidity Threshold: 81%. Sensor sync: Active.

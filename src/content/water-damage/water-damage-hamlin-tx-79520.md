@@ -12,6 +12,7 @@ lng: -100.1300
 zipSample: ["79520"]
 zipCodes: ["79520"]
 localPaths: ["Jones County / primary ZIP 79520", "Jones County / ZIP 79520 sector", "Jones County / coords 32.8900, -100.1300", "Jones County / elevation 1722 ft band"]
+zillowHomeValueUsd: 109375
 ---
 
 **Engineering Notice for Hamlin:** structural drying capacity optimized for 1722ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jones County. Relative Humidity Threshold: 83%. Sensor sync: Active.

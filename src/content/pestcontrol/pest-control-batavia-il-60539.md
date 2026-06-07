@@ -11,6 +11,7 @@ lng: -88.3100
 zipSample: ["60510", "60539"]
 zipCodes: ["60510", "60539"]
 localPaths: ["Kane County / ZIP 60539 sector", "Kane County / primary ZIP 60539", "Kane County / ZIP 60510 sector", "Kane County / elevation 709 ft band", "Kane County / coords 41.8500, -88.3100"]
+zillowHomeValueUsd: 453690
 ---
 
 **Engineering Notice for Batavia:** Structural loading calculated based on 709 ft terrain assessment. Regional dispatch grid: Kane County.

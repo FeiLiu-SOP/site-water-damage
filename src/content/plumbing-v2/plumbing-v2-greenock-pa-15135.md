@@ -12,6 +12,7 @@ lng: -79.8000
 zipSample: ["15047", "15135"]
 zipCodes: ["15047", "15135"]
 localPaths: ["Allegheny County / coords 40.3100, -79.8000", "Allegheny County / elevation 1010 ft band", "Allegheny County / ZIP 15047 sector", "Allegheny County / ZIP 15135 sector", "Allegheny County / primary ZIP 15135"]
+zillowHomeValueUsd: 200004
 ---
 
 **Engineering Notice for Greenock:** System optimized for 150 mg/L hard water scaling factors in Greenock. Regional dispatch grid: Allegheny County.

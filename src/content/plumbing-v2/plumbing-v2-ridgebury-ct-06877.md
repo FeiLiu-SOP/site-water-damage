@@ -12,6 +12,7 @@ lng: -73.5300
 zipSample: ["06877"]
 zipCodes: ["06877"]
 localPaths: ["Western Connecticut County / ZIP 06877 sector", "Western Connecticut County / primary ZIP 06877", "Western Connecticut County / elevation 709 ft band", "Western Connecticut County / coords 41.3600, -73.5300"]
+zillowHomeValueUsd: 978208
 ---
 
 **Engineering Notice for Ridgebury:** System optimized for 154 mg/L hard water scaling factors in Ridgebury. Regional dispatch grid: Western Connecticut County.

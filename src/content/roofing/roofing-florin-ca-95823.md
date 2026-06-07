@@ -11,6 +11,7 @@ lng: -121.4000
 zipSample: ["95828", "95823"]
 zipCodes: ["95823", "95828"]
 localPaths: ["Sacramento County / elevation 43 ft band", "Sacramento County / coords 38.4800, -121.4000", "Sacramento County / ZIP 95823 sector", "Sacramento County / primary ZIP 95823", "Sacramento County / ZIP 95828 sector"]
+zillowHomeValueUsd: 428766
 ---
 
 **Engineering Notice for Florin:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Sacramento County.

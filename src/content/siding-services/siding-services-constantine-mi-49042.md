@@ -12,6 +12,7 @@ lng: -85.6700
 zipSample: ["49042"]
 zipCodes: ["49042"]
 localPaths: ["St. Joseph County / ZIP 49042 sector", "St. Joseph County / primary ZIP 49042", "St. Joseph County / coords 41.8400, -85.6700", "St. Joseph County / elevation 807 ft band"]
+zillowHomeValueUsd: 207769
 ---
 
 **Engineering Notice for Constantine:** Site context locked to St. Joseph County. Elevation: 807 ft AMSL. Coordinates: 41.8400, -85.6700. Cladding Service integrity verification recorded.

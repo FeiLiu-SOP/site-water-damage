@@ -11,6 +11,7 @@ lng: -81.6700
 zipSample: ["28607", "28608"]
 zipCodes: ["28608", "28607"]
 localPaths: ["Watauga County / primary ZIP 28607", "Watauga County / ZIP 28608 sector", "Watauga County / coords 36.2100, -81.6700", "Watauga County / elevation 3235 ft band", "Watauga County / ZIP 28607 sector"]
+zillowHomeValueUsd: 492002
 ---
 
 **Engineering Notice for Boone:** Structural loading calculated based on 3235 ft terrain assessment. Regional dispatch grid: Watauga County.

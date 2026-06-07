@@ -11,6 +11,7 @@ lng: -80.6400
 zipSample: ["28025", "28026", "28027"]
 zipCodes: ["28027", "28026", "28025"]
 localPaths: ["Cabarrus County / ZIP 28026 sector", "Cabarrus County / elevation 646 ft band", "Cabarrus County / primary ZIP 28025", "Cabarrus County / coords 35.3900, -80.6400", "Cabarrus County / ZIP 28025 sector"]
+zillowHomeValueUsd: 342380
 ---
 
 **Engineering Notice for Concord:** Structural loading calculated based on 646 ft terrain assessment. Regional dispatch grid: Cabarrus County.

@@ -11,6 +11,7 @@ lng: -84.0600
 zipSample: ["45440", "45432", "45430", "45434", "45301"]
 zipCodes: ["45431", "45434", "45482", "45432", "45430", "45440", "45301"]
 localPaths: ["Greene County / primary ZIP 45440", "Greene County / ZIP 45430 sector", "Greene County / ZIP 45434 sector", "Greene County / elevation 883 ft band", "Greene County / coords 39.7300, -84.0600"]
+zillowHomeValueUsd: 315830
 ---
 
 **Engineering Notice for Beavercreek:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Greene County.

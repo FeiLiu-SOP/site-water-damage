@@ -12,6 +12,7 @@ lng: -83.7100
 zipSample: ["41311"]
 zipCodes: ["41311"]
 localPaths: ["Lee County / ZIP 41311 sector", "Lee County / elevation 919 ft band", "Lee County / primary ZIP 41311", "Lee County / coords 37.5900, -83.7100"]
+zillowHomeValueUsd: 119392
 ---
 
 **Engineering Notice for Beattyville:** structural drying capacity optimized for 919ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lee County. Relative Humidity Threshold: 83%. Sensor sync: Active.

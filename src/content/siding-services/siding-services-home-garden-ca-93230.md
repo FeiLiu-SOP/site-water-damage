@@ -12,6 +12,7 @@ lng: -119.6400
 zipSample: ["93230"]
 zipCodes: ["93230"]
 localPaths: ["Kings County / ZIP 93230 sector", "Kings County / coords 36.3000, -119.6400", "Kings County / elevation 240 ft band", "Kings County / primary ZIP 93230"]
+zillowHomeValueUsd: 382690
 ---
 
 **Engineering Notice for Home Garden:** Cladding verification uses 142 mph routing baseline; lateral pressure note: 18.2 psf. Elevation: 240 ft AMSL. Grid: Kings County.

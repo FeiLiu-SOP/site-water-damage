@@ -12,6 +12,7 @@ lng: -90.8900
 zipSample: ["39183", "39180", "39181", "39182"]
 zipCodes: ["39181", "39180", "39182", "39183"]
 localPaths: ["Warren County / ZIP 39183 sector", "Warren County / ZIP 39181 sector", "Warren County / primary ZIP 39180", "Warren County / ZIP 39180 sector", "Warren County / ZIP 39182 sector"]
+zillowHomeValueUsd: 144091
 ---
 
 **Engineering Notice for Vicksburg:** Structural loading calculated based on 253 ft terrain assessment. Regional dispatch grid: Warren County.

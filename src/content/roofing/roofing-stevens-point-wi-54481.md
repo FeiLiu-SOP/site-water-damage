@@ -11,6 +11,7 @@ lng: -89.5500
 zipSample: ["54482", "54481"]
 zipCodes: ["54482", "54481"]
 localPaths: ["Portage County / coords 44.5200, -89.5500", "Portage County / elevation 1099 ft band", "Portage County / ZIP 54481 sector", "Portage County / ZIP 54482 sector", "Portage County / primary ZIP 54481"]
+zillowHomeValueUsd: 254681
 ---
 
 **Engineering Notice for Stevens Point:** Structural loading calculated based on 1099 ft terrain assessment. Regional dispatch grid: Portage County.

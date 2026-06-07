@@ -12,6 +12,7 @@ lng: -93.5700
 zipSample: ["65633"]
 zipCodes: ["65633"]
 localPaths: ["Stone County / coords 36.9000, -93.5700", "Stone County / ZIP 65633 sector", "Stone County / elevation 1129 ft band", "Stone County / primary ZIP 65633"]
+zillowHomeValueUsd: 242315
 ---
 
 **Engineering Notice for Crane:** Structural integrity verification: Cladding Retrofit calibrated for 96 mph localized wind load factor. Elevation: 1129 ft AMSL. Coordinates: 36.9000, -93.5700. Regional dispatch grid: Stone County.

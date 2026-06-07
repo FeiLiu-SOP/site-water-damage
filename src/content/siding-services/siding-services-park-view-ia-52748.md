@@ -12,6 +12,7 @@ lng: -90.5400
 zipSample: ["52748"]
 zipCodes: ["52748"]
 localPaths: ["Scott County / coords 41.7000, -90.5400", "Scott County / elevation 768 ft band", "Scott County / primary ZIP 52748", "Scott County / ZIP 52748 sector"]
+zillowHomeValueUsd: 347237
 ---
 
 **Engineering Notice for Park View:** Envelope check: Vinyl Panels assigned to wind-load band A with stress factor 1.15. Regional dispatch grid: Scott County.

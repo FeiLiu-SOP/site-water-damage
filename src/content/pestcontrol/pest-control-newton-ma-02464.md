@@ -11,6 +11,7 @@ lng: -71.2100
 zipSample: ["02456", "02466", "02462", "02464", "02459"]
 zipCodes: ["02465", "02466", "02461", "02495", "02456", "02467", "02462", "02464", "02468", "02458", "02459", "02460"]
 localPaths: ["Middlesex County / ZIP 02462 sector", "Middlesex County / coords 42.3300, -71.2100", "Middlesex County / primary ZIP 02464", "Middlesex County / elevation 125 ft band", "Middlesex County / ZIP 02456 sector"]
+zillowHomeValueUsd: 959593
 ---
 
 **Engineering Notice for Newton:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Middlesex County.

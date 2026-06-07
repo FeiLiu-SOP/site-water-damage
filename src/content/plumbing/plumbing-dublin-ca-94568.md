@@ -12,6 +12,7 @@ lng: -121.9000
 zipSample: ["94568"]
 zipCodes: ["94568"]
 localPaths: ["Alameda County / ZIP 94568 sector", "Alameda County / primary ZIP 94568", "Alameda County / coords 37.7200, -121.9000", "Alameda County / elevation 354 ft band"]
+zillowHomeValueUsd: 1306789
 ---
 
 **Engineering Notice for Dublin:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Alameda County.

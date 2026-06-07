@@ -11,6 +11,7 @@ lng: -89.6500
 zipSample: ["62701", "62756", "62769", "62777", "62776"]
 zipCodes: ["62739", "62705", "62781", "62702", "62766", "62769", "62761", "62756", "62715", "62711", "62763", "62777"]
 localPaths: ["Sangamon County / coords 39.7700, -89.6500", "Sangamon County / ZIP 62776 sector", "Sangamon County / ZIP 62769 sector", "Sangamon County / elevation 597 ft band", "Sangamon County / primary ZIP 62711"]
+zillowHomeValueUsd: 357454
 ---
 
 **Engineering Notice for Springfield:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Sangamon County.

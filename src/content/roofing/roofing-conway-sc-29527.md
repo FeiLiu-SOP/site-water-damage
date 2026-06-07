@@ -11,6 +11,7 @@ lng: -79.0400
 zipSample: ["29527", "29528", "29526"]
 zipCodes: ["29526", "29528", "29527"]
 localPaths: ["Horry County / ZIP 29527 sector", "Horry County / elevation 39 ft band", "Horry County / coords 33.8400, -79.0400", "Horry County / ZIP 29528 sector", "Horry County / ZIP 29526 sector"]
+zillowHomeValueUsd: 259559
 ---
 
 **Engineering Notice for Conway:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Horry County.

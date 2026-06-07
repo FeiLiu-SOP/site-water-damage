@@ -11,6 +11,7 @@ lng: -94.0000
 zipSample: ["71854"]
 zipCodes: ["71854"]
 localPaths: ["Miller County / ZIP 71854 sector", "Miller County / coords 33.4400, -94.0000", "Miller County / primary ZIP 71854", "Miller County / elevation 387 ft band"]
+zillowHomeValueUsd: 167082
 ---
 
 **Engineering Notice for Texarkana:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Miller County.

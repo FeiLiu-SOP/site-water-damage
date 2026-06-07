@@ -12,6 +12,7 @@ lng: -85.5600
 zipSample: ["47334"]
 zipCodes: ["47334"]
 localPaths: ["Delaware County / ZIP 47334 sector", "Delaware County / elevation 919 ft band", "Delaware County / primary ZIP 47334", "Delaware County / coords 40.1200, -85.5600"]
+zillowHomeValueUsd: 226480
 ---
 
 **Engineering Notice for Daleville:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 1.02. Elevation: 919 ft AMSL. Regional dispatch grid: Delaware County.

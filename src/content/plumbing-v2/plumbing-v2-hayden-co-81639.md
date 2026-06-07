@@ -12,6 +12,7 @@ lng: -107.2400
 zipSample: ["81639"]
 zipCodes: ["81639"]
 localPaths: ["Routt County / elevation 6414 ft band", "Routt County / ZIP 81639 sector", "Routt County / coords 40.4900, -107.2400", "Routt County / primary ZIP 81639"]
+zillowHomeValueUsd: 523105
 ---
 
 **Engineering Notice for Hayden:** System optimized for 120 mg/L hard water scaling factors in Hayden. Regional dispatch grid: Routt County.

@@ -11,6 +11,7 @@ lng: -104.9200
 zipSample: ["80550", "80551"]
 zipCodes: ["80550", "80551"]
 localPaths: ["Weld County / coords 40.4700, -104.9200", "Weld County / elevation 4777 ft band", "Weld County / ZIP 80550 sector", "Weld County / ZIP 80551 sector", "Weld County / primary ZIP 80550"]
+zillowHomeValueUsd: 547352
 ---
 
 **Engineering Notice for Windsor:** Structural loading calculated based on 4777 ft terrain assessment. Regional dispatch grid: Weld County.

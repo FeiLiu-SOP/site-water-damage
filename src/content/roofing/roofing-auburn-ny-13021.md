@@ -11,6 +11,7 @@ lng: -76.5700
 zipSample: ["13024", "13021", "13022"]
 zipCodes: ["13022", "13021", "13024"]
 localPaths: ["Cayuga County / ZIP 13022 sector", "Cayuga County / ZIP 13021 sector", "Cayuga County / primary ZIP 13021", "Cayuga County / elevation 669 ft band", "Cayuga County / coords 42.9300, -76.5700"]
+zillowHomeValueUsd: 215011
 ---
 
 **Engineering Notice for Auburn:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Cayuga County.

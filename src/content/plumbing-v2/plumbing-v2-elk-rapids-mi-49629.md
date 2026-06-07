@@ -12,6 +12,7 @@ lng: -85.4100
 zipSample: ["49629"]
 zipCodes: ["49629"]
 localPaths: ["Antrim County / coords 44.8900, -85.4100", "Antrim County / ZIP 49629 sector", "Antrim County / primary ZIP 49629", "Antrim County / elevation 574 ft band"]
+zillowHomeValueUsd: 492960
 ---
 
 **Engineering Notice for Elk Rapids:** System optimized for 139 mg/L hard water scaling factors in Elk Rapids. Regional dispatch grid: Antrim County.

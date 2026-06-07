@@ -12,6 +12,7 @@ lng: -91.4300
 zipSample: ["65041"]
 zipCodes: ["65041"]
 localPaths: ["Gasconade County / ZIP 65041 sector", "Gasconade County / primary ZIP 65041", "Gasconade County / elevation 666 ft band", "Gasconade County / coords 38.7000, -91.4300"]
+zillowHomeValueUsd: 256972
 ---
 
 **Engineering Notice for Hermann:** System optimized for 121 mg/L hard water scaling factors in Hermann. Regional dispatch grid: Gasconade County.

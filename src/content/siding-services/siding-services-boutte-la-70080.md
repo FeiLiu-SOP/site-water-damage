@@ -12,6 +12,7 @@ lng: -90.3900
 zipSample: ["70030", "70039", "70080"]
 zipCodes: ["70080", "70030", "70039"]
 localPaths: ["St. Charles Parish / ZIP 70080 sector", "St. Charles Parish / coords 29.8800, -90.3900", "St. Charles Parish / primary ZIP 70080", "St. Charles Parish / ZIP 70039 sector", "St. Charles Parish / elevation 20 ft band"]
+zillowHomeValueUsd: 208377
 ---
 
 **Engineering Notice for Boutte:** Site context locked to St. Charles Parish. Cladding Service integrity verification recorded.

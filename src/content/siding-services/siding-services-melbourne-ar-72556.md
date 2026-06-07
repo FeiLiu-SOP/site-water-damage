@@ -12,6 +12,7 @@ lng: -91.8800
 zipSample: ["72556"]
 zipCodes: ["72556"]
 localPaths: ["Izard County / coords 36.0600, -91.8800", "Izard County / ZIP 72556 sector", "Izard County / elevation 650 ft band", "Izard County / primary ZIP 72556"]
+zillowHomeValueUsd: 181029
 ---
 
 **Engineering Notice for Melbourne:** Site context locked to Izard County. Elevation: 650 ft AMSL. Surface Sheathing integrity verification recorded.

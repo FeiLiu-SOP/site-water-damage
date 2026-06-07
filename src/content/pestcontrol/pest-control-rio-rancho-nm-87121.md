@@ -11,6 +11,7 @@ lng: -106.7000
 zipSample: ["87144", "87174", "87124", "87121"]
 zipCodes: ["87121", "87124", "87144", "87174"]
 localPaths: ["Sandoval County / elevation 5505 ft band", "Sandoval County / ZIP 87121 sector", "Sandoval County / primary ZIP 87121", "Sandoval County / ZIP 87144 sector", "Sandoval County / ZIP 87124 sector"]
+zillowHomeValueUsd: 289305
 ---
 
 **Engineering Notice for Rio Rancho:** Structural loading calculated based on 5505 ft terrain assessment. Regional dispatch grid: Sandoval County.

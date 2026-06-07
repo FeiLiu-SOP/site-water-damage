@@ -12,6 +12,7 @@ lng: -145.6100
 zipSample: ["99574"]
 zipCodes: ["99574"]
 localPaths: ["Chugach County / elevation 0 ft band", "Chugach County / ZIP 99574 sector", "Chugach County / coords 60.5300, -145.6100", "Chugach County / primary ZIP 99574"]
+zillowHomeValueUsd: 377452
 ---
 
 **Engineering Notice for Cordova:** Structural integrity verification: Facade Renewal calibrated for 98 mph localized wind load factor. Regional dispatch grid: Chugach County.

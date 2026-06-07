@@ -12,6 +12,7 @@ lng: -86.1400
 zipSample: ["37184"]
 zipCodes: ["37184"]
 localPaths: ["Wilson County / ZIP 37184 sector", "Wilson County / elevation 696 ft band", "Wilson County / coords 36.1000, -86.1400", "Wilson County / primary ZIP 37184"]
+zillowHomeValueUsd: 432497
 ---
 
 **Engineering Notice for Watertown:** Envelope check: Exterior Envelope assigned to wind-load band C with stress factor 0.94. Elevation: 696 ft AMSL. Regional dispatch grid: Wilson County.

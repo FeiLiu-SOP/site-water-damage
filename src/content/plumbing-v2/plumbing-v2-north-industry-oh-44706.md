@@ -12,6 +12,7 @@ lng: -81.3700
 zipSample: ["44706", "44707"]
 zipCodes: ["44706", "44707"]
 localPaths: ["Stark County / ZIP 44706 sector", "Stark County / elevation 1060 ft band", "Stark County / ZIP 44707 sector", "Stark County / primary ZIP 44706", "Stark County / coords 40.7400, -81.3700"]
+zillowHomeValueUsd: 156781
 ---
 
 **Engineering Notice for North Industry:** System optimized for 130 mg/L hard water scaling factors in North Industry. Regional dispatch grid: Stark County.

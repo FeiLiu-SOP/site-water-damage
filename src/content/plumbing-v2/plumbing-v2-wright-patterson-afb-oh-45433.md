@@ -12,6 +12,8 @@ lng: -84.0600
 zipSample: ["45433", "45324"]
 zipCodes: ["45324", "45433"]
 localPaths: ["Greene County / ZIP 45433 sector", "Greene County / ZIP 45324 sector", "Greene County / coords 39.8100, -84.0600", "Greene County / primary ZIP 45433", "Greene County / elevation 801 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 249066
 ---
 
 **Engineering Notice for Wright-Patterson AFB:** System optimized for 126 mg/L hard water scaling factors in Wright-Patterson AFB. Regional dispatch grid: Greene County.

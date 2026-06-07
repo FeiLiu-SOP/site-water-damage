@@ -12,6 +12,7 @@ lng: -75.6000
 zipSample: ["18087", "18106", "18031"]
 zipCodes: ["18087", "18031", "18106"]
 localPaths: ["Lehigh County / elevation 413 ft band", "Lehigh County / ZIP 18087 sector", "Lehigh County / ZIP 18031 sector", "Lehigh County / primary ZIP 18106", "Lehigh County / ZIP 18106 sector"]
+zillowHomeValueUsd: 442429
 ---
 
 **Engineering Notice for Trexlertown:** Exterior Cladding was validated under stress factor 0.88; target tolerance set near 108 mph. Grid anchor: Lehigh County.

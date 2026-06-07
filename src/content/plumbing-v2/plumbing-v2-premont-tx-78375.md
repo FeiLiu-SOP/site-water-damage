@@ -12,6 +12,8 @@ lng: -98.1200
 zipSample: ["78375"]
 zipCodes: ["78375"]
 localPaths: ["Jim Wells County / primary ZIP 78375", "Jim Wells County / coords 27.3600, -98.1200", "Jim Wells County / elevation 174 ft band", "Jim Wells County / ZIP 78375 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 306954
 ---
 
 **Engineering Notice for Premont:** System optimized for 152 mg/L hard water scaling factors in Premont. Regional dispatch grid: Jim Wells County.

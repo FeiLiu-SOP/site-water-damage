@@ -12,6 +12,7 @@ lng: -74.1700
 zipSample: ["10950"]
 zipCodes: ["10950"]
 localPaths: ["Orange County / elevation 728 ft band", "Orange County / coords 41.3400, -74.1700", "Orange County / ZIP 10950 sector", "Orange County / primary ZIP 10950"]
+zillowHomeValueUsd: 529134
 ---
 
 **Engineering Notice for Kiryas Joel:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Orange County.

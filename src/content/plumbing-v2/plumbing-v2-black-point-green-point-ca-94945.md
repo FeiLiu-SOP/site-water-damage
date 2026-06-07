@@ -12,6 +12,7 @@ lng: -122.5200
 zipSample: ["94945"]
 zipCodes: ["94945"]
 localPaths: ["Marin County / elevation 141 ft band", "Marin County / ZIP 94945 sector", "Marin County / coords 38.1100, -122.5200", "Marin County / primary ZIP 94945"]
+zillowHomeValueUsd: 1082473
 ---
 
 **Engineering Notice for Black Point-Green Point:** System optimized for 160 mg/L hard water scaling factors in Black Point-Green Point. Regional dispatch grid: Marin County.

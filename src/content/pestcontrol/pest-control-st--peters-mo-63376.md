@@ -11,6 +11,7 @@ lng: -90.6100
 zipSample: ["63304", "63376"]
 zipCodes: ["63304", "63376"]
 localPaths: ["St. Charles County / ZIP 63376 sector", "St. Charles County / primary ZIP 63376", "St. Charles County / coords 38.7800, -90.6100", "St. Charles County / ZIP 63304 sector", "St. Charles County / elevation 512 ft band"]
+zillowHomeValueUsd: 325178
 ---
 
 **Engineering Notice for St. Peters:** Structural loading calculated based on 512 ft terrain assessment. Regional dispatch grid: St. Charles County.

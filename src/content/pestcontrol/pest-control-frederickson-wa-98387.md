@@ -11,6 +11,7 @@ lng: -122.3600
 zipSample: ["98446", "98375", "98387"]
 zipCodes: ["98375", "98387", "98446"]
 localPaths: ["Pierce County / coords 47.0900, -122.3600", "Pierce County / primary ZIP 98387", "Pierce County / elevation 407 ft band", "Pierce County / ZIP 98375 sector", "Pierce County / ZIP 98387 sector"]
+zillowHomeValueUsd: 509456
 ---
 
 **Engineering Notice for Frederickson:** Structural loading calculated based on 407 ft terrain assessment. Regional dispatch grid: Pierce County.

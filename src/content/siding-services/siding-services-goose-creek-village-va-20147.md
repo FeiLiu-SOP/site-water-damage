@@ -12,6 +12,7 @@ lng: -77.5300
 zipSample: ["20148", "20147"]
 zipCodes: ["20148", "20147"]
 localPaths: ["Loudoun County / primary ZIP 20147", "Loudoun County / ZIP 20148 sector", "Loudoun County / ZIP 20147 sector", "Loudoun County / elevation 374 ft band", "Loudoun County / coords 39.0400, -77.5300"]
+zillowHomeValueUsd: 757814
 ---
 
 **Engineering Notice for Goose Creek Village:** Envelope check: Vinyl Panels assigned to wind-load band B with stress factor 0.97. Elevation: 374 ft AMSL. Regional dispatch grid: Loudoun County.

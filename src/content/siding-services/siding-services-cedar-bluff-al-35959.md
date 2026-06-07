@@ -12,6 +12,7 @@ lng: -85.5900
 zipSample: ["35959"]
 zipCodes: ["35959"]
 localPaths: ["Cherokee County / ZIP 35959 sector", "Cherokee County / primary ZIP 35959", "Cherokee County / coords 34.2200, -85.5900", "Cherokee County / elevation 574 ft band"]
+zillowHomeValueUsd: 241538
 ---
 
 **Engineering Notice for Cedar Bluff:** Envelope check: Wall Restoration assigned to wind-load band A with stress factor 0.74. Regional dispatch grid: Cherokee County.

@@ -11,6 +11,7 @@ lng: -98.3800
 zipSample: ["78574", "78572"]
 zipCodes: ["78572", "78574"]
 localPaths: ["Hidalgo County / ZIP 78574 sector", "Hidalgo County / primary ZIP 78574", "Hidalgo County / elevation 148 ft band", "Hidalgo County / coords 26.2300, -98.3800", "Hidalgo County / ZIP 78572 sector"]
+zillowHomeValueUsd: 196839
 ---
 
 **Engineering Notice for Palmview:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Hidalgo County.

@@ -12,6 +12,7 @@ lng: -87.9000
 zipSample: ["60017", "60018", "60016", "60019"]
 zipCodes: ["60018", "60019", "60017", "60016"]
 localPaths: ["Cook County / primary ZIP 60018", "Cook County / ZIP 60018 sector", "Cook County / elevation 656 ft band", "Cook County / ZIP 60016 sector", "Cook County / ZIP 60019 sector"]
+zillowHomeValueUsd: 378069
 ---
 
 **Engineering Notice for Des Plaines:** Structural loading calculated based on 656 ft terrain assessment. Regional dispatch grid: Cook County.

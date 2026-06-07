@@ -12,6 +12,7 @@ lng: -121.4700
 zipSample: ["95824", "94250", "95823", "94203", "94262"]
 zipCodes: ["94267", "95851", "95815", "94240", "95838", "95828", "94298", "94278", "94244", "94209", "94287", "95825"]
 localPaths: ["Sacramento County / coords 38.5700, -121.4700", "Sacramento County / ZIP 94203 sector", "Sacramento County / ZIP 94262 sector", "Sacramento County / ZIP 95824 sector", "Sacramento County / ZIP 94250 sector"]
+zillowHomeValueUsd: 498720
 ---
 
 **Engineering Notice for Sacramento:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Sacramento County.

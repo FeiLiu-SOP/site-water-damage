@@ -12,6 +12,7 @@ lng: -122.8100
 zipSample: ["97018"]
 zipCodes: ["97018"]
 localPaths: ["Columbia County / primary ZIP 97018", "Columbia County / coords 45.9000, -122.8100", "Columbia County / elevation 85 ft band", "Columbia County / ZIP 97018 sector"]
+zillowHomeValueUsd: 480391
 ---
 
 **Engineering Notice for Columbia City:** Vinyl Panels was validated under stress factor 1.21; target tolerance set near 92 mph. Coordinates: 45.9000, -122.8100. Grid anchor: Columbia County.

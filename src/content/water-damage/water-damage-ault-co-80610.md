@@ -12,6 +12,7 @@ lng: -104.7400
 zipSample: ["80610"]
 zipCodes: ["80610"]
 localPaths: ["Weld County / coords 40.5900, -104.7400", "Weld County / primary ZIP 80610", "Weld County / elevation 4954 ft band", "Weld County / ZIP 80610 sector"]
+zillowHomeValueUsd: 441176
 ---
 
 **Engineering Notice for Ault:** structural drying capacity optimized for 4954ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Weld County. Relative Humidity Threshold: 85%. Sensor sync: Active.

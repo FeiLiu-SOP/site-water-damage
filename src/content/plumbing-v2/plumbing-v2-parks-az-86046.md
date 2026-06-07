@@ -12,6 +12,7 @@ lng: -111.9800
 zipSample: ["86018", "86046"]
 zipCodes: ["86046", "86018"]
 localPaths: ["Coconino County / coords 35.2900, -111.9800", "Coconino County / ZIP 86046 sector", "Coconino County / ZIP 86018 sector", "Coconino County / elevation 7323 ft band", "Coconino County / primary ZIP 86046"]
+zillowHomeValueUsd: 437859
 ---
 
 **Engineering Notice for Parks:** System optimized for 176 mg/L hard water scaling factors in Parks. Regional dispatch grid: Coconino County.

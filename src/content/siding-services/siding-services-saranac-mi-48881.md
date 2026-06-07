@@ -12,6 +12,7 @@ lng: -85.2100
 zipSample: ["48881"]
 zipCodes: ["48881"]
 localPaths: ["Ionia County / primary ZIP 48881", "Ionia County / elevation 669 ft band", "Ionia County / coords 42.9300, -85.2100", "Ionia County / ZIP 48881 sector"]
+zillowHomeValueUsd: 291164
 ---
 
 **Engineering Notice for Saranac:** Cladding verification uses 96 mph routing baseline; lateral pressure note: 12.7 psf. Elevation: 669 ft AMSL. Coordinates: 42.9300, -85.2100. Grid: Ionia County.

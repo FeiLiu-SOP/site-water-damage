@@ -12,6 +12,7 @@ lng: -122.3900
 zipSample: ["98580", "98387", "98338"]
 zipCodes: ["98580", "98387", "98338"]
 localPaths: ["Pierce County / primary ZIP 98580", "Pierce County / elevation 486 ft band", "Pierce County / ZIP 98387 sector", "Pierce County / ZIP 98338 sector", "Pierce County / ZIP 98580 sector"]
+zillowHomeValueUsd: 628946
 ---
 
 **Engineering Notice for South Creek:** structural drying capacity optimized for 486ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pierce County. Relative Humidity Threshold: 66%. Sensor sync: Active.

@@ -11,6 +11,7 @@ lng: -86.3700
 zipSample: ["46231", "46168"]
 zipCodes: ["46168", "46231"]
 localPaths: ["Hendricks County / ZIP 46231 sector", "Hendricks County / primary ZIP 46168", "Hendricks County / elevation 748 ft band", "Hendricks County / ZIP 46168 sector", "Hendricks County / coords 39.7000, -86.3700"]
+zillowHomeValueUsd: 329513
 ---
 
 **Engineering Notice for Plainfield:** Structural loading calculated based on 748 ft terrain assessment. Regional dispatch grid: Hendricks County.

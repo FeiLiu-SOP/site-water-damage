@@ -12,6 +12,7 @@ lng: -97.9500
 zipSample: ["73529"]
 zipCodes: ["73529"]
 localPaths: ["Stephens County / ZIP 73529 sector", "Stephens County / elevation 1033 ft band", "Stephens County / primary ZIP 73529", "Stephens County / coords 34.3600, -97.9500"]
+zillowHomeValueUsd: 132861
 ---
 
 **Engineering Notice for Comanche:** System optimized for 150 mg/L hard water scaling factors in Comanche. Regional dispatch grid: Stephens County.

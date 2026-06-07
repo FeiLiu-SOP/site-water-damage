@@ -12,6 +12,7 @@ lng: -94.0700
 zipSample: ["55349"]
 zipCodes: ["55349"]
 localPaths: ["Wright County / coords 45.0600, -94.0700", "Wright County / elevation 1017 ft band", "Wright County / primary ZIP 55349", "Wright County / ZIP 55349 sector"]
+zillowHomeValueUsd: 342505
 ---
 
 **Engineering Notice for Howard Lake:** Cladding Retrofit was validated under stress factor 1.01; target tolerance set near 106 mph. Grid anchor: Wright County.

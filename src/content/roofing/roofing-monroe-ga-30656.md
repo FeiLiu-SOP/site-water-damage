@@ -11,6 +11,7 @@ lng: -83.7200
 zipSample: ["30655", "30656"]
 zipCodes: ["30655", "30656"]
 localPaths: ["Walton County / ZIP 30656 sector", "Walton County / primary ZIP 30656", "Walton County / ZIP 30655 sector", "Walton County / elevation 951 ft band", "Walton County / coords 33.8000, -83.7200"]
+zillowHomeValueUsd: 398100
 ---
 
 **Engineering Notice for Monroe:** Structural loading calculated based on 951 ft terrain assessment. Regional dispatch grid: Walton County.

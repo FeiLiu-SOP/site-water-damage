@@ -11,6 +11,7 @@ lng: -86.3500
 zipSample: ["37136", "37090", "37087", "37071", "37088"]
 zipCodes: ["37088", "37071", "37090", "37087", "37136"]
 localPaths: ["Wilson County / ZIP 37087 sector", "Wilson County / elevation 597 ft band", "Wilson County / ZIP 37136 sector", "Wilson County / ZIP 37090 sector", "Wilson County / primary ZIP 37087"]
+zillowHomeValueUsd: 439042
 ---
 
 **Engineering Notice for Lebanon:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Wilson County.

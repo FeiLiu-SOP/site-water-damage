@@ -12,6 +12,7 @@ lng: -118.7500
 zipSample: ["93099", "93065", "93063", "93094", "93062"]
 zipCodes: ["93063", "93094", "93065", "93099", "93062"]
 localPaths: ["Ventura County / ZIP 93094 sector", "Ventura County / ZIP 93065 sector", "Ventura County / elevation 879 ft band", "Ventura County / primary ZIP 93063", "Ventura County / ZIP 93063 sector"]
+zillowHomeValueUsd: 843109
 ---
 
 **Engineering Notice for Simi Valley:** Structural loading calculated based on 879 ft terrain assessment. Regional dispatch grid: Ventura County.

@@ -12,6 +12,8 @@ lng: -105.9800
 zipSample: ["88311", "88310"]
 zipCodes: ["88310", "88311"]
 localPaths: ["Otero County / elevation 4111 ft band", "Otero County / coords 32.8200, -105.9800", "Otero County / primary ZIP 88311", "Otero County / ZIP 88310 sector", "Otero County / ZIP 88311 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 303556
 ---
 
 **Engineering Notice for Boles Acres:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 0.78. Elevation: 4111 ft AMSL. Regional dispatch grid: Otero County.

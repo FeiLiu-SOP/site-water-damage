@@ -12,6 +12,7 @@ lng: -82.4300
 zipSample: ["43107"]
 zipCodes: ["43107"]
 localPaths: ["Fairfield County / elevation 794 ft band", "Fairfield County / coords 39.7100, -82.4300", "Fairfield County / primary ZIP 43107", "Fairfield County / ZIP 43107 sector"]
+zillowHomeValueUsd: 283876
 ---
 
 **Engineering Notice for Bremen:** System optimized for 155 mg/L hard water scaling factors in Bremen. Regional dispatch grid: Fairfield County.

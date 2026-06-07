@@ -12,6 +12,7 @@ lng: -82.0600
 zipSample: ["45760"]
 zipCodes: ["45760"]
 localPaths: ["Meigs County / elevation 597 ft band", "Meigs County / primary ZIP 45760", "Meigs County / ZIP 45760 sector", "Meigs County / coords 38.9900, -82.0600"]
+zillowHomeValueUsd: 83888
 ---
 
 **Engineering Notice for Middleport:** System optimized for 141 mg/L hard water scaling factors in Middleport. Regional dispatch grid: Meigs County.

@@ -12,6 +12,7 @@ lng: -104.2700
 zipSample: ["59313"]
 zipCodes: ["59313"]
 localPaths: ["Fallon County / primary ZIP 59313", "Fallon County / coords 46.3600, -104.2700", "Fallon County / ZIP 59313 sector", "Fallon County / elevation 2936 ft band"]
+zillowHomeValueUsd: 189950
 ---
 
 **Engineering Notice for Baker:** Site context locked to Fallon County. Coordinates: 46.3600, -104.2700. Cladding Service integrity verification recorded.

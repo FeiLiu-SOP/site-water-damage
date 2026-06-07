@@ -12,6 +12,7 @@ lng: -80.3000
 zipSample: ["26431"]
 zipCodes: ["26431"]
 localPaths: ["Harrison County / elevation 1112 ft band", "Harrison County / ZIP 26431 sector", "Harrison County / primary ZIP 26431", "Harrison County / coords 39.3900, -80.3000"]
+zillowHomeValueUsd: 136277
 ---
 
 **Engineering Notice for Shinnston:** System optimized for 177 mg/L hard water scaling factors in Shinnston. Regional dispatch grid: Harrison County.

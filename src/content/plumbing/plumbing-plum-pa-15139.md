@@ -12,6 +12,7 @@ lng: -79.7500
 zipSample: ["15068", "15147", "15268", "15139", "15239"]
 zipCodes: ["15147", "15268", "15068", "15139", "15239"]
 localPaths: ["Allegheny County / coords 40.5000, -79.7500", "Allegheny County / ZIP 15268 sector", "Allegheny County / ZIP 15239 sector", "Allegheny County / ZIP 15139 sector", "Allegheny County / primary ZIP 15139"]
+zillowHomeValueUsd: 333988
 ---
 
 **Engineering Notice for Plum:** Structural loading calculated based on 1161 ft terrain assessment. Regional dispatch grid: Allegheny County.

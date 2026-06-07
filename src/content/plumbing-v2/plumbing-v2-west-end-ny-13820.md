@@ -12,6 +12,7 @@ lng: -75.1000
 zipSample: ["13820"]
 zipCodes: ["13820"]
 localPaths: ["Otsego County / primary ZIP 13820", "Otsego County / ZIP 13820 sector", "Otsego County / elevation 1378 ft band", "Otsego County / coords 42.4700, -75.1000"]
+zillowHomeValueUsd: 211603
 ---
 
 **Engineering Notice for West End:** System optimized for 123 mg/L hard water scaling factors in West End. Regional dispatch grid: Otsego County.

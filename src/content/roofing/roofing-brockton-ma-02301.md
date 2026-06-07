@@ -11,6 +11,7 @@ lng: -71.0200
 zipSample: ["02305", "02302", "02303", "02301", "02304"]
 zipCodes: ["02305", "02303", "02304", "02301", "02302"]
 localPaths: ["Plymouth County / ZIP 02301 sector", "Plymouth County / primary ZIP 02301", "Plymouth County / ZIP 02302 sector", "Plymouth County / ZIP 02303 sector", "Plymouth County / coords 42.0800, -71.0200"]
+zillowHomeValueUsd: 513468
 ---
 
 **Engineering Notice for Brockton:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Plymouth County.

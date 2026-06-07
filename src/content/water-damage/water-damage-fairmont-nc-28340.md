@@ -12,6 +12,7 @@ lng: -79.1100
 zipSample: ["28340"]
 zipCodes: ["28340"]
 localPaths: ["Robeson County / ZIP 28340 sector", "Robeson County / elevation 121 ft band", "Robeson County / primary ZIP 28340", "Robeson County / coords 34.4900, -79.1100"]
+zillowHomeValueUsd: 112032
 ---
 
 **Engineering Notice for Fairmont:** structural drying capacity optimized for 121ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Robeson County. Relative Humidity Threshold: 70%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -71.6900
 zipSample: ["01561", "01523"]
 zipCodes: ["01561", "01523"]
 localPaths: ["Worcester County / coords 42.4400, -71.6900", "Worcester County / primary ZIP 01523", "Worcester County / elevation 289 ft band", "Worcester County / ZIP 01561 sector", "Worcester County / ZIP 01523 sector"]
+zillowHomeValueUsd: 570332
 ---
 
 **Engineering Notice for South Lancaster:** Structural integrity verification: Facade Renewal calibrated for 98 mph localized wind load factor. Regional dispatch grid: Worcester County.

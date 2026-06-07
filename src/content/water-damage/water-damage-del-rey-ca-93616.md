@@ -12,6 +12,7 @@ lng: -119.6000
 zipSample: ["93616"]
 zipCodes: ["93616"]
 localPaths: ["Fresno County / elevation 351 ft band", "Fresno County / ZIP 93616 sector", "Fresno County / coords 36.6600, -119.6000", "Fresno County / primary ZIP 93616"]
+zillowHomeValueUsd: 388112
 ---
 
 **Engineering Notice for Del Rey:** structural drying capacity optimized for 351ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fresno County. Relative Humidity Threshold: 79%. Sensor sync: Active.

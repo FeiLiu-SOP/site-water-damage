@@ -11,6 +11,7 @@ lng: -83.1000
 zipSample: ["48071"]
 zipCodes: ["48071"]
 localPaths: ["Oakland County / elevation 633 ft band", "Oakland County / primary ZIP 48071", "Oakland County / coords 42.5100, -83.1000", "Oakland County / ZIP 48071 sector"]
+zillowHomeValueUsd: 219578
 ---
 
 **Engineering Notice for Madison Heights:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Oakland County.

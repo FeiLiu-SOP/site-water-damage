@@ -12,6 +12,7 @@ lng: -86.6000
 zipSample: ["46996"]
 zipCodes: ["46996"]
 localPaths: ["Pulaski County / ZIP 46996 sector", "Pulaski County / elevation 709 ft band", "Pulaski County / primary ZIP 46996", "Pulaski County / coords 41.0500, -86.6000"]
+zillowHomeValueUsd: 185644
 ---
 
 **Engineering Notice for Winamac:** Site context locked to Pulaski County. Elevation: 709 ft AMSL. Coordinates: 41.0500, -86.6000. Surface Sheathing integrity verification recorded.

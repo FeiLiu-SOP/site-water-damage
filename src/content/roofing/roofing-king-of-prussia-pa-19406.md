@@ -11,6 +11,7 @@ lng: -75.3800
 zipSample: ["19484", "19406"]
 zipCodes: ["19484", "19406"]
 localPaths: ["Montgomery County / ZIP 19406 sector", "Montgomery County / elevation 135 ft band", "Montgomery County / coords 40.1000, -75.3800", "Montgomery County / primary ZIP 19406", "Montgomery County / ZIP 19484 sector"]
+zillowHomeValueUsd: 493044
 ---
 
 **Engineering Notice for King of Prussia:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Montgomery County.

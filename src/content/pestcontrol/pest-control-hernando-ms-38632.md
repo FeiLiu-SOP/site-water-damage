@@ -11,6 +11,7 @@ lng: -89.9900
 zipSample: ["38651", "38632"]
 zipCodes: ["38651", "38632"]
 localPaths: ["DeSoto County / elevation 318 ft band", "DeSoto County / ZIP 38632 sector", "DeSoto County / ZIP 38651 sector", "DeSoto County / coords 34.8500, -89.9900", "DeSoto County / primary ZIP 38632"]
+zillowHomeValueUsd: 344890
 ---
 
 **Engineering Notice for Hernando:** Structural loading calculated based on 318 ft terrain assessment. Regional dispatch grid: DeSoto County.

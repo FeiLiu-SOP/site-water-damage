@@ -12,6 +12,7 @@ lng: -82.6000
 zipSample: ["43130"]
 zipCodes: ["43130"]
 localPaths: ["Fairfield County / elevation 840 ft band", "Fairfield County / coords 39.7200, -82.6000", "Fairfield County / ZIP 43130 sector", "Fairfield County / primary ZIP 43130"]
+zillowHomeValueUsd: 271942
 ---
 
 **Engineering Notice for Lancaster:** Structural loading calculated based on 840 ft terrain assessment. Regional dispatch grid: Fairfield County.

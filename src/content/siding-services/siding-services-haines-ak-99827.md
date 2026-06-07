@@ -12,6 +12,7 @@ lng: -135.4500
 zipSample: ["99827"]
 zipCodes: ["99827"]
 localPaths: ["Haines County / coords 59.2400, -135.4500", "Haines County / elevation 171 ft band", "Haines County / ZIP 99827 sector", "Haines County / primary ZIP 99827"]
+zillowHomeValueUsd: 328381
 ---
 
 **Engineering Notice for Haines:** Wall Restoration was validated under stress factor 0.73; target tolerance set near 93 mph. Grid anchor: Haines County.

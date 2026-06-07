@@ -11,6 +11,7 @@ lng: -94.6900
 zipSample: ["66276", "66085", "66201", "66209", "66251"]
 zipCodes: ["66207", "66223", "66211", "66201", "66204", "66224", "66283", "66202", "66013", "66214", "66212", "66276"]
 localPaths: ["Johnson County / ZIP 66209 sector", "Johnson County / coords 38.8900, -94.6900", "Johnson County / primary ZIP 66214", "Johnson County / ZIP 66251 sector", "Johnson County / ZIP 66201 sector"]
+zillowHomeValueUsd: 389085
 ---
 
 **Engineering Notice for Overland Park:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Johnson County.

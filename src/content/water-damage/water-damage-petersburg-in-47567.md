@@ -12,6 +12,7 @@ lng: -87.2800
 zipSample: ["47567"]
 zipCodes: ["47567"]
 localPaths: ["Pike County / coords 38.4900, -87.2800", "Pike County / primary ZIP 47567", "Pike County / elevation 463 ft band", "Pike County / ZIP 47567 sector"]
+zillowHomeValueUsd: 165436
 ---
 
 **Engineering Notice for Petersburg:** structural drying capacity optimized for 463ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pike County. Relative Humidity Threshold: 67%. Sensor sync: Active.

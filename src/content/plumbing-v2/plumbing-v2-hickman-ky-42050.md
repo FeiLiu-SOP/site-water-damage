@@ -12,6 +12,7 @@ lng: -89.1800
 zipSample: ["42050"]
 zipCodes: ["42050"]
 localPaths: ["Fulton County / primary ZIP 42050", "Fulton County / elevation 404 ft band", "Fulton County / coords 36.5600, -89.1800", "Fulton County / ZIP 42050 sector"]
+zillowHomeValueUsd: 78627
 ---
 
 **Engineering Notice for Hickman:** System optimized for 139 mg/L hard water scaling factors in Hickman. Regional dispatch grid: Fulton County.

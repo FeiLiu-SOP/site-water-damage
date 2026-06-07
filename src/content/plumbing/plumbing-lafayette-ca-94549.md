@@ -12,6 +12,7 @@ lng: -122.1200
 zipSample: ["94549"]
 zipCodes: ["94549"]
 localPaths: ["Contra Costa County / ZIP 94549 sector", "Contra Costa County / elevation 289 ft band", "Contra Costa County / coords 37.8900, -122.1200", "Contra Costa County / primary ZIP 94549"]
+zillowHomeValueUsd: 1940609
 ---
 
 **Engineering Notice for Lafayette:** Structural loading calculated based on 289 ft terrain assessment. Regional dispatch grid: Contra Costa County.

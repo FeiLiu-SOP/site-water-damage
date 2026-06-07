@@ -12,6 +12,7 @@ lng: -97.7000
 zipSample: ["67467"]
 zipCodes: ["67467"]
 localPaths: ["Ottawa County / coords 39.1200, -97.7000", "Ottawa County / primary ZIP 67467", "Ottawa County / elevation 1316 ft band", "Ottawa County / ZIP 67467 sector"]
+zillowHomeValueUsd: 159698
 ---
 
 **Engineering Notice for Minneapolis:** structural drying capacity optimized for 1316ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Ottawa County. Relative Humidity Threshold: 82%. Sensor sync: Active.

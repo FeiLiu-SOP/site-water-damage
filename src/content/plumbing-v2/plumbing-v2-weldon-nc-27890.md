@@ -12,6 +12,7 @@ lng: -77.6100
 zipSample: ["27890"]
 zipCodes: ["27890"]
 localPaths: ["Halifax County / ZIP 27890 sector", "Halifax County / elevation 125 ft band", "Halifax County / primary ZIP 27890", "Halifax County / coords 36.4200, -77.6100"]
+zillowHomeValueUsd: 58942
 ---
 
 **Engineering Notice for Weldon:** System optimized for 167 mg/L hard water scaling factors in Weldon. Regional dispatch grid: Halifax County.

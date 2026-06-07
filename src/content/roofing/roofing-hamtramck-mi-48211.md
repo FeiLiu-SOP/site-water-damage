@@ -11,6 +11,7 @@ lng: -83.0600
 zipSample: ["48211", "48212"]
 zipCodes: ["48211", "48212"]
 localPaths: ["Wayne County / primary ZIP 48211", "Wayne County / elevation 636 ft band", "Wayne County / ZIP 48211 sector", "Wayne County / ZIP 48212 sector", "Wayne County / coords 42.4000, -83.0600"]
+zillowHomeValueUsd: 56338
 ---
 
 **Engineering Notice for Hamtramck:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Wayne County.

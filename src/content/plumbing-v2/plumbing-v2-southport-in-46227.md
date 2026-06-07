@@ -12,6 +12,7 @@ lng: -86.1200
 zipSample: ["46227"]
 zipCodes: ["46227"]
 localPaths: ["Marion County / coords 39.6600, -86.1200", "Marion County / primary ZIP 46227", "Marion County / ZIP 46227 sector", "Marion County / elevation 791 ft band"]
+zillowHomeValueUsd: 227337
 ---
 
 **Engineering Notice for Southport:** System optimized for 121 mg/L hard water scaling factors in Southport. Regional dispatch grid: Marion County.

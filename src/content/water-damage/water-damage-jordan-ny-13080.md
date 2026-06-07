@@ -12,6 +12,7 @@ lng: -76.4700
 zipSample: ["13080"]
 zipCodes: ["13080"]
 localPaths: ["Onondaga County / elevation 413 ft band", "Onondaga County / ZIP 13080 sector", "Onondaga County / primary ZIP 13080", "Onondaga County / coords 43.0700, -76.4700"]
+zillowHomeValueUsd: 228952
 ---
 
 **Engineering Notice for Jordan:** structural drying capacity optimized for 413ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Onondaga County. Relative Humidity Threshold: 67%. Sensor sync: Active.

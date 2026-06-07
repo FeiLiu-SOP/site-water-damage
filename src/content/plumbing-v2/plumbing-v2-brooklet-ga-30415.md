@@ -12,6 +12,7 @@ lng: -81.6700
 zipSample: ["30415"]
 zipCodes: ["30415"]
 localPaths: ["Bulloch County / coords 32.3900, -81.6700", "Bulloch County / elevation 187 ft band", "Bulloch County / primary ZIP 30415", "Bulloch County / ZIP 30415 sector"]
+zillowHomeValueUsd: 326406
 ---
 
 **Engineering Notice for Brooklet:** System optimized for 133 mg/L hard water scaling factors in Brooklet. Regional dispatch grid: Bulloch County.

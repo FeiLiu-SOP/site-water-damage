@@ -12,6 +12,7 @@ lng: -80.7700
 zipSample: ["25962"]
 zipCodes: ["25962"]
 localPaths: ["Greenbrier County / ZIP 25962 sector", "Greenbrier County / coords 37.9700, -80.7700", "Greenbrier County / elevation 2392 ft band", "Greenbrier County / primary ZIP 25962"]
+zillowHomeValueUsd: 103560
 ---
 
 **Engineering Notice for Rainelle:** structural drying capacity optimized for 2392ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Greenbrier County. Relative Humidity Threshold: 74%. Sensor sync: Active.

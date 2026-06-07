@@ -11,6 +11,7 @@ lng: -118.0700
 zipSample: ["90743", "90740"]
 zipCodes: ["90743", "90740"]
 localPaths: ["Orange County / elevation 13 ft band", "Orange County / ZIP 90743 sector", "Orange County / ZIP 90740 sector", "Orange County / primary ZIP 90743", "Orange County / coords 33.7500, -118.0700"]
+zillowHomeValueUsd: 798335
 ---
 
 **Engineering Notice for Seal Beach:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Orange County.

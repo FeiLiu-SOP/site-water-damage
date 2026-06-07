@@ -12,6 +12,7 @@ lng: -83.1700
 zipSample: ["41164"]
 zipCodes: ["41164"]
 localPaths: ["Carter County / elevation 840 ft band", "Carter County / coords 38.3000, -83.1700", "Carter County / ZIP 41164 sector", "Carter County / primary ZIP 41164"]
+zillowHomeValueUsd: 146425
 ---
 
 **Engineering Notice for Olive Hill:** Site context locked to Carter County. Elevation: 840 ft AMSL. Wall Restoration integrity verification recorded.

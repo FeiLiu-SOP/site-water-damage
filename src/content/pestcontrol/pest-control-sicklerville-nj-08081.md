@@ -11,6 +11,7 @@ lng: -74.9900
 zipSample: ["08081"]
 zipCodes: ["08081"]
 localPaths: ["Camden County / primary ZIP 08081", "Camden County / coords 39.7500, -74.9900", "Camden County / ZIP 08081 sector", "Camden County / elevation 174 ft band"]
+zillowHomeValueUsd: 377904
 ---
 
 **Engineering Notice for Sicklerville:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Camden County.

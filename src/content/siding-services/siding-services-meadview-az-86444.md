@@ -12,6 +12,7 @@ lng: -114.0800
 zipSample: ["86444"]
 zipCodes: ["86444"]
 localPaths: ["Mohave County / coords 35.9500, -114.0800", "Mohave County / ZIP 86444 sector", "Mohave County / elevation 3350 ft band", "Mohave County / primary ZIP 86444"]
+zillowHomeValueUsd: 212308
 ---
 
 **Engineering Notice for Meadview:** Cladding verification uses 104 mph routing baseline; lateral pressure note: 13.7 psf. Elevation: 3350 ft AMSL. Coordinates: 35.9500, -114.0800. Grid: Mohave County.

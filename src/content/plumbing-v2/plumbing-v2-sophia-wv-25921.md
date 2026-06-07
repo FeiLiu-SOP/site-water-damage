@@ -12,6 +12,7 @@ lng: -81.2500
 zipSample: ["25921"]
 zipCodes: ["25921"]
 localPaths: ["Raleigh County / elevation 2408 ft band", "Raleigh County / primary ZIP 25921", "Raleigh County / ZIP 25921 sector", "Raleigh County / coords 37.7100, -81.2500"]
+zillowHomeValueUsd: 107395
 ---
 
 **Engineering Notice for Sophia:** System optimized for 177 mg/L hard water scaling factors in Sophia. Regional dispatch grid: Raleigh County.

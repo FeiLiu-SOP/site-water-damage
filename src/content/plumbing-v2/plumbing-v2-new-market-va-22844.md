@@ -12,6 +12,7 @@ lng: -78.6700
 zipSample: ["22844"]
 zipCodes: ["22844"]
 localPaths: ["Shenandoah County / coords 38.6500, -78.6700", "Shenandoah County / elevation 1050 ft band", "Shenandoah County / primary ZIP 22844", "Shenandoah County / ZIP 22844 sector"]
+zillowHomeValueUsd: 333837
 ---
 
 **Engineering Notice for New Market:** System optimized for 121 mg/L hard water scaling factors in New Market. Regional dispatch grid: Shenandoah County.

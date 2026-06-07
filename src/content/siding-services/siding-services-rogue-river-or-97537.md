@@ -12,6 +12,7 @@ lng: -123.1700
 zipSample: ["97537", "97525"]
 zipCodes: ["97525", "97537"]
 localPaths: ["Jackson County / coords 42.4400, -123.1700", "Jackson County / primary ZIP 97537", "Jackson County / elevation 1020 ft band", "Jackson County / ZIP 97525 sector", "Jackson County / ZIP 97537 sector"]
+zillowHomeValueUsd: 474639
 ---
 
 **Engineering Notice for Rogue River:** Wall Restoration was validated under stress factor 1.10; target tolerance set near 106 mph. Coordinates: 42.4400, -123.1700. Grid anchor: Jackson County.

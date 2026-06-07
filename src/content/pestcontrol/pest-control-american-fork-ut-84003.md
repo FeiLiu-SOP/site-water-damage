@@ -11,6 +11,7 @@ lng: -111.8000
 zipSample: ["84003"]
 zipCodes: ["84003"]
 localPaths: ["Utah County / elevation 4629 ft band", "Utah County / primary ZIP 84003", "Utah County / ZIP 84003 sector", "Utah County / coords 40.3800, -111.8000"]
+zillowHomeValueUsd: 598766
 ---
 
 **Engineering Notice for American Fork:** Structural loading calculated based on 4629 ft terrain assessment. Regional dispatch grid: Utah County.

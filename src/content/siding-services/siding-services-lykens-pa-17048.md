@@ -12,6 +12,7 @@ lng: -76.7000
 zipSample: ["17048"]
 zipCodes: ["17048"]
 localPaths: ["Dauphin County / coords 40.5600, -76.7000", "Dauphin County / elevation 732 ft band", "Dauphin County / primary ZIP 17048", "Dauphin County / ZIP 17048 sector"]
+zillowHomeValueUsd: 156784
 ---
 
 **Engineering Notice for Lykens:** Structural integrity verification: Cladding Service calibrated for 94 mph localized wind load factor. Regional dispatch grid: Dauphin County.

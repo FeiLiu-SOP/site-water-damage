@@ -12,6 +12,7 @@ lng: -79.8000
 zipSample: ["15135", "15047"]
 zipCodes: ["15047", "15135"]
 localPaths: ["Allegheny County / ZIP 15047 sector", "Allegheny County / primary ZIP 15135", "Allegheny County / coords 40.3100, -79.8000", "Allegheny County / ZIP 15135 sector", "Allegheny County / elevation 1010 ft band"]
+zillowHomeValueUsd: 200005
 ---
 
 **Engineering Notice for Greenock:** Vinyl Panels was validated under stress factor 1.05; target tolerance set near 98 mph. Grid anchor: Allegheny County.

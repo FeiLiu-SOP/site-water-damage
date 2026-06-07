@@ -12,6 +12,7 @@ lng: -90.4300
 zipSample: ["72365"]
 zipCodes: ["72365"]
 localPaths: ["Poinsett County / ZIP 72365 sector", "Poinsett County / primary ZIP 72365", "Poinsett County / elevation 210 ft band", "Poinsett County / coords 35.5300, -90.4300"]
+zillowHomeValueUsd: 105052
 ---
 
 **Engineering Notice for Marked Tree:** System optimized for 155 mg/L hard water scaling factors in Marked Tree. Regional dispatch grid: Poinsett County.

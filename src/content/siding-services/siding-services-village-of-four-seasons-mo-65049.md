@@ -12,6 +12,7 @@ lng: -92.7200
 zipSample: ["65049"]
 zipCodes: ["65049"]
 localPaths: ["Camden County / ZIP 65049 sector", "Camden County / primary ZIP 65049", "Camden County / elevation 751 ft band", "Camden County / coords 38.2000, -92.7200"]
+zillowHomeValueUsd: 333520
 ---
 
 **Engineering Notice for Village of Four Seasons:** Vinyl Panels was validated under stress factor 1.13; target tolerance set near 98 mph. Grid anchor: Camden County.

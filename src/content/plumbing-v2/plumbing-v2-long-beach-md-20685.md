@@ -12,6 +12,7 @@ lng: -76.4700
 zipSample: ["20685"]
 zipCodes: ["20685"]
 localPaths: ["Calvert County / ZIP 20685 sector", "Calvert County / primary ZIP 20685", "Calvert County / coords 38.4600, -76.4700", "Calvert County / elevation 95 ft band"]
+zillowHomeValueUsd: 457747
 ---
 
 **Engineering Notice for Long Beach:** System optimized for 147 mg/L hard water scaling factors in Long Beach. Regional dispatch grid: Calvert County.

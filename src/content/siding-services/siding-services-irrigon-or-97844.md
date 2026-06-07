@@ -12,6 +12,7 @@ lng: -119.4900
 zipSample: ["97844"]
 zipCodes: ["97844"]
 localPaths: ["Morrow County / ZIP 97844 sector", "Morrow County / elevation 295 ft band", "Morrow County / primary ZIP 97844", "Morrow County / coords 45.9000, -119.4900"]
+zillowHomeValueUsd: 314520
 ---
 
 **Engineering Notice for Irrigon:** Cladding Service was validated under stress factor 0.89; target tolerance set near 104 mph. Grid anchor: Morrow County.

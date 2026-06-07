@@ -12,6 +12,7 @@ lng: -76.4200
 zipSample: ["17815"]
 zipCodes: ["17815"]
 localPaths: ["Columbia County / primary ZIP 17815", "Columbia County / ZIP 17815 sector", "Columbia County / elevation 492 ft band", "Columbia County / coords 41.0100, -76.4200"]
+zillowHomeValueUsd: 256975
 ---
 
 **Engineering Notice for Espy:** Structural integrity verification: Weather Barrier Wrap calibrated for 91 mph localized wind load factor. Elevation: 492 ft AMSL. Coordinates: 41.0100, -76.4200. Regional dispatch grid: Columbia County.

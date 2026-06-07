@@ -12,6 +12,7 @@ lng: -80.6100
 zipSample: ["26070"]
 zipCodes: ["26070"]
 localPaths: ["Brooke County / elevation 663 ft band", "Brooke County / primary ZIP 26070", "Brooke County / ZIP 26070 sector", "Brooke County / coords 40.2800, -80.6100"]
+zillowHomeValueUsd: 122319
 ---
 
 **Engineering Notice for Wellsburg:** System optimized for 143 mg/L hard water scaling factors in Wellsburg. Regional dispatch grid: Brooke County.

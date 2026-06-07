@@ -12,6 +12,7 @@ lng: -75.6400
 zipSample: ["19465"]
 zipCodes: ["19465"]
 localPaths: ["Chester County / coords 40.2200, -75.6400", "Chester County / ZIP 19465 sector", "Chester County / elevation 240 ft band", "Chester County / primary ZIP 19465"]
+zillowHomeValueUsd: 490224
 ---
 
 **Engineering Notice for Kenilworth:** structural drying capacity optimized for 240ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Chester County. Relative Humidity Threshold: 71%. Sensor sync: Active.

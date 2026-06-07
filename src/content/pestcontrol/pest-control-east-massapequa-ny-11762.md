@@ -11,6 +11,7 @@ lng: -73.4400
 zipSample: ["11762", "11758"]
 zipCodes: ["11758", "11762"]
 localPaths: ["Nassau County / ZIP 11758 sector", "Nassau County / elevation 33 ft band", "Nassau County / ZIP 11762 sector", "Nassau County / primary ZIP 11762", "Nassau County / coords 40.6700, -73.4400"]
+zillowHomeValueUsd: 792791
 ---
 
 **Engineering Notice for East Massapequa:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Nassau County.

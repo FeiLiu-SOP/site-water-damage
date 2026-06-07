@@ -12,6 +12,7 @@ lng: -117.1200
 zipSample: ["92567"]
 zipCodes: ["92567"]
 localPaths: ["Riverside County / ZIP 92567 sector", "Riverside County / coords 33.8300, -117.1200", "Riverside County / elevation 1483 ft band", "Riverside County / primary ZIP 92567"]
+zillowHomeValueUsd: 568964
 ---
 
 **Engineering Notice for Lakeview:** System optimized for 167 mg/L hard water scaling factors in Lakeview. Regional dispatch grid: Riverside County.

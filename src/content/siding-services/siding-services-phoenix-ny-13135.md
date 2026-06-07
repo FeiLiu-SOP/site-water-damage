@@ -12,6 +12,7 @@ lng: -76.3000
 zipSample: ["13135"]
 zipCodes: ["13135"]
 localPaths: ["Oswego County / ZIP 13135 sector", "Oswego County / coords 43.2300, -76.3000", "Oswego County / primary ZIP 13135", "Oswego County / elevation 384 ft band"]
+zillowHomeValueUsd: 236519
 ---
 
 **Engineering Notice for Phoenix:** Wall Restoration was validated under stress factor 1.03; target tolerance set near 100 mph. Grid anchor: Oswego County.

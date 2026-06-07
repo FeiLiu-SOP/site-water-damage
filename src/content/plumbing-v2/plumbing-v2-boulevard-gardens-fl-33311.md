@@ -12,6 +12,7 @@ lng: -80.1800
 zipSample: ["33311"]
 zipCodes: ["33311"]
 localPaths: ["Broward County / elevation 30 ft band", "Broward County / primary ZIP 33311", "Broward County / ZIP 33311 sector", "Broward County / coords 26.1300, -80.1800"]
+zillowHomeValueUsd: 362742
 ---
 
 **Engineering Notice for Boulevard Gardens:** System optimized for 133 mg/L hard water scaling factors in Boulevard Gardens. Regional dispatch grid: Broward County.

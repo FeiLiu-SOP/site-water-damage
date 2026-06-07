@@ -12,6 +12,7 @@ lng: -77.8200
 zipSample: ["16851", "16801"]
 zipCodes: ["16851", "16801"]
 localPaths: ["Centre County / elevation 1086 ft band", "Centre County / coords 40.8100, -77.8200", "Centre County / ZIP 16801 sector", "Centre County / primary ZIP 16851", "Centre County / ZIP 16851 sector"]
+zillowHomeValueUsd: 369110
 ---
 
 **Engineering Notice for Lemont:** System optimized for 130 mg/L hard water scaling factors in Lemont. Regional dispatch grid: Centre County.

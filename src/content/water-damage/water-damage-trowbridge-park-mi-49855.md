@@ -12,6 +12,7 @@ lng: -87.4400
 zipSample: ["49855"]
 zipCodes: ["49855"]
 localPaths: ["Marquette County / ZIP 49855 sector", "Marquette County / coords 46.5600, -87.4400", "Marquette County / primary ZIP 49855", "Marquette County / elevation 814 ft band"]
+zillowHomeValueUsd: 322662
 ---
 
 **Engineering Notice for Trowbridge Park:** structural drying capacity optimized for 814ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marquette County. Relative Humidity Threshold: 85%. Sensor sync: Active.

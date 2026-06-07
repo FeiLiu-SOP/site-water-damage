@@ -12,6 +12,7 @@ lng: -122.7100
 zipSample: ["98312"]
 zipCodes: ["98312"]
 localPaths: ["Kitsap County / ZIP 98312 sector", "Kitsap County / elevation 95 ft band", "Kitsap County / primary ZIP 98312", "Kitsap County / coords 47.5900, -122.7100"]
+zillowHomeValueUsd: 497811
 ---
 
 **Engineering Notice for Kitsap Lake:** Site context locked to Kitsap County. Cladding Service integrity verification recorded.

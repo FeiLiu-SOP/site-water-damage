@@ -12,6 +12,7 @@ lng: -86.9000
 zipSample: ["42351"]
 zipCodes: ["42351"]
 localPaths: ["Hancock County / ZIP 42351 sector", "Hancock County / coords 37.9300, -86.9000", "Hancock County / primary ZIP 42351", "Hancock County / elevation 394 ft band"]
+zillowHomeValueUsd: 209511
 ---
 
 **Engineering Notice for Lewisport:** Structural integrity verification: Weather Barrier Wrap calibrated for 94 mph localized wind load factor. Regional dispatch grid: Hancock County.

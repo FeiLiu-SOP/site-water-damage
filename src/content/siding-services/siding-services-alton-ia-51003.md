@@ -12,6 +12,7 @@ lng: -96.0100
 zipSample: ["51003"]
 zipCodes: ["51003"]
 localPaths: ["Sioux County / coords 42.9900, -96.0100", "Sioux County / primary ZIP 51003", "Sioux County / ZIP 51003 sector", "Sioux County / elevation 1306 ft band"]
+zillowHomeValueUsd: 299264
 ---
 
 **Engineering Notice for Alton:** Site context locked to Sioux County. Coordinates: 42.9900, -96.0100. Surface Sheathing integrity verification recorded.

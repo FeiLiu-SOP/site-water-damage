@@ -11,6 +11,7 @@ lng: -116.9400
 zipSample: ["83877", "83854"]
 zipCodes: ["83877", "83854"]
 localPaths: ["Kootenai County / coords 47.7200, -116.9400", "Kootenai County / ZIP 83877 sector", "Kootenai County / ZIP 83854 sector", "Kootenai County / elevation 2205 ft band", "Kootenai County / primary ZIP 83854"]
+zillowHomeValueUsd: 527002
 ---
 
 **Engineering Notice for Post Falls:** Structural loading calculated based on 2205 ft terrain assessment. Regional dispatch grid: Kootenai County.

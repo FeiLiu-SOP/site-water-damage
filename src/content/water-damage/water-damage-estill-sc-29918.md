@@ -12,6 +12,7 @@ lng: -81.2400
 zipSample: ["29918"]
 zipCodes: ["29918"]
 localPaths: ["Hampton County / elevation 121 ft band", "Hampton County / ZIP 29918 sector", "Hampton County / coords 32.7500, -81.2400", "Hampton County / primary ZIP 29918"]
+zillowHomeValueUsd: 115478
 ---
 
 **Engineering Notice for Estill:** structural drying capacity optimized for 121ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hampton County. Relative Humidity Threshold: 82%. Sensor sync: Active.

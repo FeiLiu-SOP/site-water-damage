@@ -12,6 +12,7 @@ lng: -94.0600
 zipSample: ["75692"]
 zipCodes: ["75692"]
 localPaths: ["Harrison County / ZIP 75692 sector", "Harrison County / coords 32.4800, -94.0600", "Harrison County / elevation 285 ft band", "Harrison County / primary ZIP 75692"]
+zillowHomeValueUsd: 187746
 ---
 
 **Engineering Notice for Waskom:** System optimized for 145 mg/L hard water scaling factors in Waskom. Regional dispatch grid: Harrison County.

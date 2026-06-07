@@ -12,6 +12,7 @@ lng: -117.1700
 zipSample: ["92375", "92374", "92346", "92359", "92373"]
 zipCodes: ["92375", "92374", "92373", "92359", "92346"]
 localPaths: ["San Bernardino County / elevation 1453 ft band", "San Bernardino County / ZIP 92359 sector", "San Bernardino County / ZIP 92374 sector", "San Bernardino County / ZIP 92375 sector", "San Bernardino County / primary ZIP 92359"]
+zillowHomeValueUsd: 511527
 ---
 
 **Engineering Notice for Redlands:** Structural loading calculated based on 1453 ft terrain assessment. Regional dispatch grid: San Bernardino County.

@@ -12,6 +12,7 @@ lng: -101.6900
 zipSample: ["79072"]
 zipCodes: ["79072"]
 localPaths: ["Hale County / primary ZIP 79072", "Hale County / elevation 3363 ft band", "Hale County / coords 34.2200, -101.6900", "Hale County / ZIP 79072 sector"]
+zillowHomeValueUsd: 116114
 ---
 
 **Engineering Notice for Seth Ward:** System optimized for 155 mg/L hard water scaling factors in Seth Ward. Regional dispatch grid: Hale County.

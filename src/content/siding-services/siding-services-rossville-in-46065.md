@@ -12,6 +12,7 @@ lng: -86.6000
 zipSample: ["46065"]
 zipCodes: ["46065"]
 localPaths: ["Clinton County / primary ZIP 46065", "Clinton County / coords 40.4200, -86.6000", "Clinton County / ZIP 46065 sector", "Clinton County / elevation 735 ft band"]
+zillowHomeValueUsd: 288582
 ---
 
 **Engineering Notice for Rossville:** Panel Replacement was validated under stress factor 0.90; target tolerance set near 107 mph. Coordinates: 40.4200, -86.6000. Grid anchor: Clinton County.

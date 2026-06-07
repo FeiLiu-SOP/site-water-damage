@@ -11,6 +11,7 @@ lng: -82.2900
 zipSample: ["33592", "33584"]
 zipCodes: ["33584", "33592"]
 localPaths: ["Hillsborough County / ZIP 33592 sector", "Hillsborough County / primary ZIP 33592", "Hillsborough County / ZIP 33584 sector", "Hillsborough County / elevation 98 ft band", "Hillsborough County / coords 28.0500, -82.2900"]
+zillowHomeValueUsd: 408358
 ---
 
 **Engineering Notice for Thonotosassa:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Hillsborough County.

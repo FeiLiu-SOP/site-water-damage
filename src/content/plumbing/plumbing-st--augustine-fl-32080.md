@@ -12,6 +12,7 @@ lng: -81.3100
 zipSample: ["32095", "32084", "32080"]
 zipCodes: ["32080", "32084", "32095"]
 localPaths: ["St. Johns County / ZIP 32084 sector", "St. Johns County / elevation 0 ft band", "St. Johns County / ZIP 32095 sector", "St. Johns County / coords 29.9000, -81.3100", "St. Johns County / ZIP 32080 sector"]
+zillowHomeValueUsd: 538480
 ---
 
 **Engineering Notice for St. Augustine:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: St. Johns County.

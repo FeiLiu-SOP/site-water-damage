@@ -11,6 +11,7 @@ lng: -104.8400
 zipSample: ["80640", "80037", "80022"]
 zipCodes: ["80022", "80037", "80640"]
 localPaths: ["Adams County / primary ZIP 80640", "Adams County / ZIP 80037 sector", "Adams County / ZIP 80640 sector", "Adams County / coords 39.8600, -104.8400", "Adams County / ZIP 80022 sector"]
+zillowHomeValueUsd: 506050
 ---
 
 **Engineering Notice for Commerce City:** Structural loading calculated based on 5177 ft terrain assessment. Regional dispatch grid: Adams County.

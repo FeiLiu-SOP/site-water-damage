@@ -12,6 +12,7 @@ lng: -111.6200
 zipSample: ["84663"]
 zipCodes: ["84663"]
 localPaths: ["Utah County / elevation 4554 ft band", "Utah County / primary ZIP 84663", "Utah County / ZIP 84663 sector", "Utah County / coords 40.1600, -111.6200"]
+zillowHomeValueUsd: 509301
 ---
 
 **Engineering Notice for Springville:** Structural loading calculated based on 4554 ft terrain assessment. Regional dispatch grid: Utah County.

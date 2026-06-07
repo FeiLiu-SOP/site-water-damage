@@ -11,6 +11,7 @@ lng: -112.0500
 zipSample: ["84302"]
 zipCodes: ["84302"]
 localPaths: ["Box Elder County / coords 41.5000, -112.0500", "Box Elder County / ZIP 84302 sector", "Box Elder County / elevation 4232 ft band", "Box Elder County / primary ZIP 84302"]
+zillowHomeValueUsd: 435525
 ---
 
 **Engineering Notice for Brigham City:** Structural loading calculated based on 4232 ft terrain assessment. Regional dispatch grid: Box Elder County.

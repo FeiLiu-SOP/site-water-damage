@@ -12,6 +12,7 @@ lng: -72.0000
 zipSample: ["06340", "06355"]
 zipCodes: ["06355", "06340"]
 localPaths: ["Southeastern Connecticut County / primary ZIP 06355", "Southeastern Connecticut County / ZIP 06340 sector", "Southeastern Connecticut County / elevation 148 ft band", "Southeastern Connecticut County / ZIP 06355 sector", "Southeastern Connecticut County / coords 41.3300, -72.0000"]
+zillowHomeValueUsd: 569564
 ---
 
 **Engineering Notice for Noank:** structural drying capacity optimized for 148ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Southeastern Connecticut County. Relative Humidity Threshold: 71%. Sensor sync: Active.

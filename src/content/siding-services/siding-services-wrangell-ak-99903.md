@@ -12,6 +12,7 @@ lng: -132.0200
 zipSample: ["99929", "99903"]
 zipCodes: ["99903", "99929"]
 localPaths: ["Wrangell County / coords 56.3300, -132.0200", "Wrangell County / ZIP 99903 sector", "Wrangell County / primary ZIP 99903", "Wrangell County / ZIP 99929 sector", "Wrangell County / elevation 1184 ft band"]
+zillowHomeValueUsd: 310272
 ---
 
 **Engineering Notice for Wrangell:** Site context locked to Wrangell County. Weather Barrier Wrap integrity verification recorded.

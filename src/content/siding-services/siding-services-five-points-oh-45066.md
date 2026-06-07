@@ -12,6 +12,7 @@ lng: -84.1900
 zipSample: ["45066"]
 zipCodes: ["45066"]
 localPaths: ["Warren County / coords 39.5600, -84.1900", "Warren County / primary ZIP 45066", "Warren County / ZIP 45066 sector", "Warren County / elevation 1001 ft band"]
+zillowHomeValueUsd: 428418
 ---
 
 **Engineering Notice for Five Points:** Cladding verification uses 107 mph routing baseline; lateral pressure note: 14.0 psf. Grid: Warren County.

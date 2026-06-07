@@ -11,6 +11,7 @@ lng: -74.4800
 zipSample: ["07960", "07963"]
 zipCodes: ["07963", "07960"]
 localPaths: ["Morris County / ZIP 07960 sector", "Morris County / elevation 341 ft band", "Morris County / coords 40.8000, -74.4800", "Morris County / ZIP 07963 sector", "Morris County / primary ZIP 07960"]
+zillowHomeValueUsd: 887085
 ---
 
 **Engineering Notice for Morristown:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Morris County.

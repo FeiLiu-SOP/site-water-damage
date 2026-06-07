@@ -12,6 +12,7 @@ lng: -85.6400
 zipSample: ["40207"]
 zipCodes: ["40207"]
 localPaths: ["Jefferson County / ZIP 40207 sector", "Jefferson County / elevation 574 ft band", "Jefferson County / primary ZIP 40207", "Jefferson County / coords 38.2700, -85.6400"]
+zillowHomeValueUsd: 422547
 ---
 
 **Engineering Notice for Windy Hills:** System optimized for 172 mg/L hard water scaling factors in Windy Hills. Regional dispatch grid: Jefferson County.

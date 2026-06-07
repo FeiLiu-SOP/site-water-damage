@@ -12,6 +12,7 @@ lng: -76.8500
 zipSample: ["20703", "20706"]
 zipCodes: ["20706", "20703"]
 localPaths: ["Prince George's County / primary ZIP 20706", "Prince George's County / coords 38.9800, -76.8500", "Prince George's County / elevation 210 ft band", "Prince George's County / ZIP 20703 sector", "Prince George's County / ZIP 20706 sector"]
+zillowHomeValueUsd: 440022
 ---
 
 **Engineering Notice for Seabrook:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Prince George's County.

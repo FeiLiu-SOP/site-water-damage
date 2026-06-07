@@ -12,6 +12,7 @@ lng: -89.3200
 zipSample: ["39401", "39406", "39403", "39407", "39402"]
 zipCodes: ["39406", "39403", "39407", "39401", "39402"]
 localPaths: ["Forrest County / primary ZIP 39401", "Forrest County / ZIP 39402 sector", "Forrest County / ZIP 39401 sector", "Forrest County / ZIP 39407 sector", "Forrest County / ZIP 39406 sector"]
+zillowHomeValueUsd: 145889
 ---
 
 **Engineering Notice for Hattiesburg:** Structural loading calculated based on 223 ft terrain assessment. Regional dispatch grid: Forrest County.

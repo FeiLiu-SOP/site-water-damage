@@ -12,6 +12,7 @@ lng: -79.8000
 zipSample: ["15024"]
 zipCodes: ["15024"]
 localPaths: ["Allegheny County / ZIP 15024 sector", "Allegheny County / coords 40.5400, -79.8000", "Allegheny County / elevation 774 ft band", "Allegheny County / primary ZIP 15024"]
+zillowHomeValueUsd: 244205
 ---
 
 **Engineering Notice for Cheswick:** System optimized for 126 mg/L hard water scaling factors in Cheswick. Regional dispatch grid: Allegheny County.

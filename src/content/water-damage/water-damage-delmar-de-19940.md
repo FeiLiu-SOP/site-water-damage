@@ -12,6 +12,7 @@ lng: -75.5600
 zipSample: ["19940"]
 zipCodes: ["19940"]
 localPaths: ["Sussex County / primary ZIP 19940", "Sussex County / elevation 52 ft band", "Sussex County / coords 38.4700, -75.5600", "Sussex County / ZIP 19940 sector"]
+zillowHomeValueUsd: 335342
 ---
 
 **Engineering Notice for Delmar:** structural drying capacity optimized for 52ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sussex County. Relative Humidity Threshold: 84%. Sensor sync: Active.

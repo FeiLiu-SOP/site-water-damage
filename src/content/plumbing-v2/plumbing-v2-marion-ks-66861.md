@@ -12,6 +12,7 @@ lng: -97.0100
 zipSample: ["66861"]
 zipCodes: ["66861"]
 localPaths: ["Marion County / ZIP 66861 sector", "Marion County / elevation 1355 ft band", "Marion County / primary ZIP 66861", "Marion County / coords 38.3500, -97.0100"]
+zillowHomeValueUsd: 142221
 ---
 
 **Engineering Notice for Marion:** System optimized for 172 mg/L hard water scaling factors in Marion. Regional dispatch grid: Marion County.

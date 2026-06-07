@@ -12,6 +12,7 @@ lng: -78.5900
 zipSample: ["16630"]
 zipCodes: ["16630"]
 localPaths: ["Cambria County / primary ZIP 16630", "Cambria County / elevation 2070 ft band", "Cambria County / coords 40.4600, -78.5900", "Cambria County / ZIP 16630 sector"]
+zillowHomeValueUsd: 122063
 ---
 
 **Engineering Notice for Cresson:** structural drying capacity optimized for 2070ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Cambria County. Relative Humidity Threshold: 67%. Sensor sync: Active.

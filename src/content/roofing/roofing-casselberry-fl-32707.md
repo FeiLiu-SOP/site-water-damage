@@ -11,6 +11,7 @@ lng: -81.3200
 zipSample: ["32707", "32718"]
 zipCodes: ["32718", "32707"]
 localPaths: ["Seminole County / primary ZIP 32707", "Seminole County / elevation 66 ft band", "Seminole County / ZIP 32718 sector", "Seminole County / ZIP 32707 sector", "Seminole County / coords 28.6600, -81.3200"]
+zillowHomeValueUsd: 350087
 ---
 
 **Engineering Notice for Casselberry:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Seminole County.

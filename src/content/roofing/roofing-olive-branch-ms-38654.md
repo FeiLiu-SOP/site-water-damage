@@ -11,6 +11,7 @@ lng: -89.8500
 zipSample: ["38654"]
 zipCodes: ["38654"]
 localPaths: ["DeSoto County / coords 34.9600, -89.8500", "DeSoto County / ZIP 38654 sector", "DeSoto County / primary ZIP 38654", "DeSoto County / elevation 358 ft band"]
+zillowHomeValueUsd: 331940
 ---
 
 **Engineering Notice for Olive Branch:** Structural loading calculated based on 358 ft terrain assessment. Regional dispatch grid: DeSoto County.

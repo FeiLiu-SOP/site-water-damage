@@ -11,6 +11,7 @@ lng: -121.7700
 zipSample: ["95077", "95076", "95019"]
 zipCodes: ["95076", "95077", "95019"]
 localPaths: ["Santa Cruz County / primary ZIP 95076", "Santa Cruz County / ZIP 95076 sector", "Santa Cruz County / ZIP 95077 sector", "Santa Cruz County / elevation 66 ft band", "Santa Cruz County / coords 36.9200, -121.7700"]
+zillowHomeValueUsd: 839637
 ---
 
 **Engineering Notice for Watsonville:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Santa Cruz County.

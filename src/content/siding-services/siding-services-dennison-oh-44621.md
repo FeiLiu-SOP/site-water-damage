@@ -12,6 +12,7 @@ lng: -81.3300
 zipSample: ["44621"]
 zipCodes: ["44621"]
 localPaths: ["Tuscarawas County / elevation 860 ft band", "Tuscarawas County / coords 40.4000, -81.3300", "Tuscarawas County / primary ZIP 44621", "Tuscarawas County / ZIP 44621 sector"]
+zillowHomeValueUsd: 150210
 ---
 
 **Engineering Notice for Dennison:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Grid: Tuscarawas County.

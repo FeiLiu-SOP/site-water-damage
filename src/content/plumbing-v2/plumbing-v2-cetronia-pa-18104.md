@@ -12,6 +12,7 @@ lng: -75.5400
 zipSample: ["18104"]
 zipCodes: ["18104"]
 localPaths: ["Lehigh County / elevation 433 ft band", "Lehigh County / coords 40.5900, -75.5400", "Lehigh County / primary ZIP 18104", "Lehigh County / ZIP 18104 sector"]
+zillowHomeValueUsd: 393792
 ---
 
 **Engineering Notice for Cetronia:** System optimized for 163 mg/L hard water scaling factors in Cetronia. Regional dispatch grid: Lehigh County.

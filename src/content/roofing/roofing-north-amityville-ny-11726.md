@@ -11,6 +11,7 @@ lng: -73.4100
 zipSample: ["11701", "11726"]
 zipCodes: ["11726", "11701"]
 localPaths: ["Suffolk County / elevation 46 ft band", "Suffolk County / coords 40.7000, -73.4100", "Suffolk County / ZIP 11726 sector", "Suffolk County / ZIP 11701 sector", "Suffolk County / primary ZIP 11726"]
+zillowHomeValueUsd: 568498
 ---
 
 **Engineering Notice for North Amityville:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Suffolk County.

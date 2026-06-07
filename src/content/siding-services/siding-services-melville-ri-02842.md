@@ -12,6 +12,7 @@ lng: -71.2900
 zipSample: ["02871", "02842"]
 zipCodes: ["02871", "02842"]
 localPaths: ["Newport County / ZIP 02871 sector", "Newport County / coords 41.5600, -71.2900", "Newport County / ZIP 02842 sector", "Newport County / primary ZIP 02842", "Newport County / elevation 39 ft band"]
+zillowHomeValueUsd: 743010
 ---
 
 **Engineering Notice for Melville:** Panel Replacement was validated under stress factor 0.77; target tolerance set near 100 mph. Grid anchor: Newport County.

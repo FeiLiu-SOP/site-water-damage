@@ -12,6 +12,7 @@ lng: -75.6500
 zipSample: ["19733", "19720", "19709", "19701"]
 zipCodes: ["19720", "19709", "19733", "19701"]
 localPaths: ["New Castle County / ZIP 19733 sector", "New Castle County / primary ZIP 19720", "New Castle County / coords 39.5600, -75.6500", "New Castle County / ZIP 19720 sector", "New Castle County / elevation 39 ft band"]
+zillowHomeValueUsd: 280714
 ---
 
 **Engineering Notice for St. Georges:** System optimized for 138 mg/L hard water scaling factors in St. Georges. Regional dispatch grid: New Castle County.

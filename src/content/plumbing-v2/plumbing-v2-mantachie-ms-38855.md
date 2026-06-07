@@ -12,6 +12,7 @@ lng: -88.5000
 zipSample: ["38855"]
 zipCodes: ["38855"]
 localPaths: ["Itawamba County / elevation 364 ft band", "Itawamba County / primary ZIP 38855", "Itawamba County / coords 34.3300, -88.5000", "Itawamba County / ZIP 38855 sector"]
+zillowHomeValueUsd: 166724
 ---
 
 **Engineering Notice for Mantachie:** System optimized for 120 mg/L hard water scaling factors in Mantachie. Regional dispatch grid: Itawamba County.

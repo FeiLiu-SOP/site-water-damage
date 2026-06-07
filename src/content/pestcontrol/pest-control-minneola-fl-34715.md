@@ -11,6 +11,7 @@ lng: -81.7300
 zipSample: ["34715", "34755"]
 zipCodes: ["34715", "34755"]
 localPaths: ["Lake County / coords 28.6100, -81.7300", "Lake County / primary ZIP 34715", "Lake County / ZIP 34715 sector", "Lake County / ZIP 34755 sector", "Lake County / elevation 144 ft band"]
+zillowHomeValueUsd: 461791
 ---
 
 **Engineering Notice for Minneola:** Structural loading calculated based on 144 ft terrain assessment. Regional dispatch grid: Lake County.

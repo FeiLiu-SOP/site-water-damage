@@ -12,6 +12,7 @@ lng: -69.6600
 zipSample: ["04901", "04903"]
 zipCodes: ["04903", "04901"]
 localPaths: ["Kennebec County / ZIP 04901 sector", "Kennebec County / primary ZIP 04901", "Kennebec County / elevation 249 ft band", "Kennebec County / ZIP 04903 sector", "Kennebec County / coords 44.5400, -69.6600"]
+zillowHomeValueUsd: 264582
 ---
 
 **Engineering Notice for Waterville:** Structural loading calculated based on 249 ft terrain assessment. Regional dispatch grid: Kennebec County.

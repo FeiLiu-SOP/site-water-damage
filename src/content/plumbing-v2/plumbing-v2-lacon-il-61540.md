@@ -12,6 +12,7 @@ lng: -89.4100
 zipSample: ["61540"]
 zipCodes: ["61540"]
 localPaths: ["Marshall County / primary ZIP 61540", "Marshall County / coords 41.0200, -89.4100", "Marshall County / elevation 525 ft band", "Marshall County / ZIP 61540 sector"]
+zillowHomeValueUsd: 133500
 ---
 
 **Engineering Notice for Lacon:** System optimized for 137 mg/L hard water scaling factors in Lacon. Regional dispatch grid: Marshall County.

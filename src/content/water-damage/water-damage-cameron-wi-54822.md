@@ -12,6 +12,7 @@ lng: -91.7400
 zipSample: ["54822"]
 zipCodes: ["54822"]
 localPaths: ["Barron County / coords 45.4100, -91.7400", "Barron County / primary ZIP 54822", "Barron County / ZIP 54822 sector", "Barron County / elevation 1086 ft band"]
+zillowHomeValueUsd: 299931
 ---
 
 **Engineering Notice for Cameron:** structural drying capacity optimized for 1086ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Barron County. Relative Humidity Threshold: 68%. Sensor sync: Active.

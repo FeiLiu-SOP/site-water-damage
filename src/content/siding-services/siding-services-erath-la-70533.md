@@ -12,6 +12,7 @@ lng: -92.0400
 zipSample: ["70533"]
 zipCodes: ["70533"]
 localPaths: ["Vermilion Parish / ZIP 70533 sector", "Vermilion Parish / primary ZIP 70533", "Vermilion Parish / coords 29.9600, -92.0400", "Vermilion Parish / elevation 20 ft band"]
+zillowHomeValueUsd: 152922
 ---
 
 **Engineering Notice for Erath:** Envelope check: Cladding Service assigned to wind-load band B with stress factor 0.71. Regional dispatch grid: Vermilion Parish.

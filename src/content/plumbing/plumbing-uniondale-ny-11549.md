@@ -12,6 +12,7 @@ lng: -73.5900
 zipSample: ["11530", "11556", "11553", "11549", "11555"]
 zipCodes: ["11555", "11549", "11530", "11590", "11553", "11556"]
 localPaths: ["Nassau County / coords 40.7200, -73.5900", "Nassau County / ZIP 11553 sector", "Nassau County / ZIP 11530 sector", "Nassau County / ZIP 11549 sector", "Nassau County / primary ZIP 11549"]
+zillowHomeValueUsd: 661506
 ---
 
 **Engineering Notice for Uniondale:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Nassau County.

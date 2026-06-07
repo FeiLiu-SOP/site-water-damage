@@ -12,6 +12,7 @@ lng: -97.2600
 zipSample: ["67221", "67210"]
 zipCodes: ["67210", "67221"]
 localPaths: ["Sedgwick County / elevation 1345 ft band", "Sedgwick County / ZIP 67210 sector", "Sedgwick County / ZIP 67221 sector", "Sedgwick County / coords 37.6200, -97.2600", "Sedgwick County / primary ZIP 67210"]
+zillowHomeValueUsd: 223312
 ---
 
 **Engineering Notice for McConnell AFB:** structural drying capacity optimized for 1345ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sedgwick County. Relative Humidity Threshold: 69%. Sensor sync: Active.

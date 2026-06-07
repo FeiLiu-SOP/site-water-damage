@@ -12,6 +12,7 @@ lng: -93.3400
 zipSample: ["71019"]
 zipCodes: ["71019"]
 localPaths: ["Red River Parish / primary ZIP 71019", "Red River Parish / ZIP 71019 sector", "Red River Parish / elevation 161 ft band", "Red River Parish / coords 32.0300, -93.3400"]
+zillowHomeValueUsd: 150313
 ---
 
 **Engineering Notice for Coushatta:** System optimized for 169 mg/L hard water scaling factors in Coushatta. Regional dispatch grid: Red River Parish.

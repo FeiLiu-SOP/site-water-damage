@@ -12,6 +12,7 @@ lng: -74.6600
 zipSample: ["07921"]
 zipCodes: ["07921"]
 localPaths: ["Somerset County / ZIP 07921 sector", "Somerset County / primary ZIP 07921", "Somerset County / coords 40.6700, -74.6600", "Somerset County / elevation 154 ft band"]
+zillowHomeValueUsd: 511073
 ---
 
 **Engineering Notice for Bedminster:** structural drying capacity optimized for 154ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Somerset County. Relative Humidity Threshold: 69%. Sensor sync: Active.

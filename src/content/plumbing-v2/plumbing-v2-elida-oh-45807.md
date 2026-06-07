@@ -12,6 +12,7 @@ lng: -84.2000
 zipSample: ["45807"]
 zipCodes: ["45807"]
 localPaths: ["Allen County / ZIP 45807 sector", "Allen County / elevation 801 ft band", "Allen County / coords 40.7900, -84.2000", "Allen County / primary ZIP 45807"]
+zillowHomeValueUsd: 251739
 ---
 
 **Engineering Notice for Elida:** System optimized for 122 mg/L hard water scaling factors in Elida. Regional dispatch grid: Allen County.

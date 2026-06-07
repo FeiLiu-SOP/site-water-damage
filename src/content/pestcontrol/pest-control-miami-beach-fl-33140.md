@@ -11,6 +11,7 @@ lng: -80.1400
 zipSample: ["33141", "33139", "33109", "33239", "33119"]
 zipCodes: ["33139", "33141", "33239", "33109", "33140", "33119"]
 localPaths: ["Miami-Dade County / primary ZIP 33140", "Miami-Dade County / ZIP 33139 sector", "Miami-Dade County / elevation 10 ft band", "Miami-Dade County / coords 25.8200, -80.1400", "Miami-Dade County / ZIP 33109 sector"]
+zillowHomeValueUsd: 674424
 ---
 
 **Engineering Notice for Miami Beach:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

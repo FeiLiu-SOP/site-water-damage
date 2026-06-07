@@ -12,6 +12,7 @@ lng: -94.4600
 zipSample: ["56310"]
 zipCodes: ["56310"]
 localPaths: ["Stearns County / coords 45.6100, -94.4600", "Stearns County / elevation 1106 ft band", "Stearns County / ZIP 56310 sector", "Stearns County / primary ZIP 56310"]
+zillowHomeValueUsd: 386053
 ---
 
 **Engineering Notice for Avon:** System optimized for 122 mg/L hard water scaling factors in Avon. Regional dispatch grid: Stearns County.

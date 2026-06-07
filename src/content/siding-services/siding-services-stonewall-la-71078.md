@@ -12,6 +12,7 @@ lng: -93.8100
 zipSample: ["71078"]
 zipCodes: ["71078"]
 localPaths: ["De Soto Parish / primary ZIP 71078", "De Soto Parish / ZIP 71078 sector", "De Soto Parish / coords 32.2700, -93.8100", "De Soto Parish / elevation 276 ft band"]
+zillowHomeValueUsd: 354536
 ---
 
 **Engineering Notice for Stonewall:** Site context locked to De Soto Parish. Elevation: 276 ft AMSL. Exterior Cladding integrity verification recorded.

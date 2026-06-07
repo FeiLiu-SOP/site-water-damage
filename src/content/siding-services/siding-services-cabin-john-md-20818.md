@@ -12,6 +12,7 @@ lng: -77.1600
 zipSample: ["20818", "20817"]
 zipCodes: ["20817", "20818"]
 localPaths: ["Montgomery County / elevation 161 ft band", "Montgomery County / ZIP 20818 sector", "Montgomery County / primary ZIP 20818", "Montgomery County / ZIP 20817 sector", "Montgomery County / coords 38.9700, -77.1600"]
+zillowHomeValueUsd: 1264550
 ---
 
 **Engineering Notice for Cabin John:** Cladding verification uses 106 mph routing baseline; lateral pressure note: 13.9 psf. Grid: Montgomery County.

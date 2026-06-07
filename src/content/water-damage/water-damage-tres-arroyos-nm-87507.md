@@ -12,6 +12,7 @@ lng: -106.0400
 zipSample: ["87506", "87507"]
 zipCodes: ["87507", "87506"]
 localPaths: ["Santa Fe County / primary ZIP 87507", "Santa Fe County / elevation 6575 ft band", "Santa Fe County / coords 35.6800, -106.0400", "Santa Fe County / ZIP 87506 sector", "Santa Fe County / ZIP 87507 sector"]
+zillowHomeValueUsd: 458378
 ---
 
 **Engineering Notice for Tres Arroyos:** structural drying capacity optimized for 6575ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Santa Fe County. Relative Humidity Threshold: 69%. Sensor sync: Active.

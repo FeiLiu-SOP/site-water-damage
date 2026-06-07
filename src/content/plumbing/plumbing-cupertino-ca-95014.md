@@ -12,6 +12,7 @@ lng: -122.0500
 zipSample: ["95108", "95170", "95015", "95014"]
 zipCodes: ["95108", "95014", "95170", "95015"]
 localPaths: ["Santa Clara County / primary ZIP 95014", "Santa Clara County / ZIP 95170 sector", "Santa Clara County / ZIP 95108 sector", "Santa Clara County / coords 37.3200, -122.0500", "Santa Clara County / elevation 305 ft band"]
+zillowHomeValueUsd: 3188382
 ---
 
 **Engineering Notice for Cupertino:** Structural loading calculated based on 305 ft terrain assessment. Regional dispatch grid: Santa Clara County.

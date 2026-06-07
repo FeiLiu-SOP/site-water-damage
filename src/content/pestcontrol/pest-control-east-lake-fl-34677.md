@@ -11,6 +11,7 @@ lng: -82.6900
 zipSample: ["34688", "34685", "34677"]
 zipCodes: ["34685", "34677", "34688"]
 localPaths: ["Pinellas County / primary ZIP 34677", "Pinellas County / coords 28.1200, -82.6900", "Pinellas County / elevation 56 ft band", "Pinellas County / ZIP 34688 sector", "Pinellas County / ZIP 34685 sector"]
+zillowHomeValueUsd: 365826
 ---
 
 **Engineering Notice for East Lake:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Pinellas County.

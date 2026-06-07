@@ -12,6 +12,7 @@ lng: -84.3300
 zipSample: ["41040"]
 zipCodes: ["41040"]
 localPaths: ["Pendleton County / primary ZIP 41040", "Pendleton County / coords 38.6700, -84.3300", "Pendleton County / ZIP 41040 sector", "Pendleton County / elevation 581 ft band"]
+zillowHomeValueUsd: 209859
 ---
 
 **Engineering Notice for Falmouth:** System optimized for 150 mg/L hard water scaling factors in Falmouth. Regional dispatch grid: Pendleton County.

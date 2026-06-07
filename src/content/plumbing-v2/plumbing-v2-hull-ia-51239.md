@@ -12,6 +12,7 @@ lng: -96.1300
 zipSample: ["51239"]
 zipCodes: ["51239"]
 localPaths: ["Sioux County / coords 43.1900, -96.1300", "Sioux County / ZIP 51239 sector", "Sioux County / elevation 1440 ft band", "Sioux County / primary ZIP 51239"]
+zillowHomeValueUsd: 310259
 ---
 
 **Engineering Notice for Hull:** System optimized for 178 mg/L hard water scaling factors in Hull. Regional dispatch grid: Sioux County.

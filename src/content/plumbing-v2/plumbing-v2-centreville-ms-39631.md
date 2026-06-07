@@ -12,6 +12,7 @@ lng: -91.0700
 zipSample: ["39631"]
 zipCodes: ["39631"]
 localPaths: ["Wilkinson County / primary ZIP 39631", "Wilkinson County / coords 31.0900, -91.0700", "Wilkinson County / elevation 384 ft band", "Wilkinson County / ZIP 39631 sector"]
+zillowHomeValueUsd: 116904
 ---
 
 **Engineering Notice for Centreville:** System optimized for 167 mg/L hard water scaling factors in Centreville. Regional dispatch grid: Wilkinson County.

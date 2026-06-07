@@ -12,6 +12,7 @@ lng: -94.7100
 zipSample: ["66075"]
 zipCodes: ["66075"]
 localPaths: ["Linn County / ZIP 66075 sector", "Linn County / elevation 869 ft band", "Linn County / primary ZIP 66075", "Linn County / coords 38.1800, -94.7100"]
+zillowHomeValueUsd: 167227
 ---
 
 **Engineering Notice for Pleasanton:** Cladding verification uses 96 mph routing baseline; lateral pressure note: 12.7 psf. Grid: Linn County.

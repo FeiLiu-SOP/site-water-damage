@@ -12,6 +12,7 @@ lng: -85.3200
 zipSample: ["49040"]
 zipCodes: ["49040"]
 localPaths: ["St. Joseph County / primary ZIP 49040", "St. Joseph County / elevation 853 ft band", "St. Joseph County / coords 41.9600, -85.3200", "St. Joseph County / ZIP 49040 sector"]
+zillowHomeValueUsd: 199189
 ---
 
 **Engineering Notice for Colon:** System optimized for 177 mg/L hard water scaling factors in Colon. Regional dispatch grid: St. Joseph County.

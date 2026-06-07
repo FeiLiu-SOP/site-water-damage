@@ -12,6 +12,7 @@ lng: -124.1100
 zipSample: ["98595"]
 zipCodes: ["98595"]
 localPaths: ["Grays Harbor County / coords 46.8900, -124.1100", "Grays Harbor County / ZIP 98595 sector", "Grays Harbor County / primary ZIP 98595", "Grays Harbor County / elevation 20 ft band"]
+zillowHomeValueUsd: 310010
 ---
 
 **Engineering Notice for Westport:** System optimized for 138 mg/L hard water scaling factors in Westport. Regional dispatch grid: Grays Harbor County.

@@ -12,6 +12,7 @@ lng: -74.0700
 zipSample: ["08735", "08739"]
 zipCodes: ["08739", "08735"]
 localPaths: ["Ocean County / ZIP 08739 sector", "Ocean County / ZIP 08735 sector", "Ocean County / primary ZIP 08735", "Ocean County / elevation 3 ft band", "Ocean County / coords 39.9900, -74.0700"]
+zillowHomeValueUsd: 1146029
 ---
 
 **Engineering Notice for Dover Beaches North:** Envelope check: Wall Restoration assigned to wind-load band A with stress factor 0.96. Regional dispatch grid: Ocean County.

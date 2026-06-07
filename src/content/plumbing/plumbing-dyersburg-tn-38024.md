@@ -12,6 +12,7 @@ lng: -89.3800
 zipSample: ["38024", "38025"]
 zipCodes: ["38025", "38024"]
 localPaths: ["Dyer County / coords 36.0500, -89.3800", "Dyer County / primary ZIP 38024", "Dyer County / ZIP 38024 sector", "Dyer County / elevation 348 ft band", "Dyer County / ZIP 38025 sector"]
+zillowHomeValueUsd: 166563
 ---
 
 **Engineering Notice for Dyersburg:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Dyer County.

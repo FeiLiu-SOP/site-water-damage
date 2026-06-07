@@ -11,6 +11,7 @@ lng: -89.6500
 zipSample: ["63755"]
 zipCodes: ["63755"]
 localPaths: ["Cape Girardeau County / coords 37.3800, -89.6500", "Cape Girardeau County / primary ZIP 63755", "Cape Girardeau County / elevation 479 ft band", "Cape Girardeau County / ZIP 63755 sector"]
+zillowHomeValueUsd: 269457
 ---
 
 **Engineering Notice for Jackson:** Structural loading calculated based on 479 ft terrain assessment. Regional dispatch grid: Cape Girardeau County.

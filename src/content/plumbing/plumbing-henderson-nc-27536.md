@@ -12,6 +12,7 @@ lng: -78.4200
 zipSample: ["27536"]
 zipCodes: ["27536"]
 localPaths: ["Vance County / primary ZIP 27536", "Vance County / ZIP 27536 sector", "Vance County / elevation 469 ft band", "Vance County / coords 36.3300, -78.4200"]
+zillowHomeValueUsd: 116908
 ---
 
 **Engineering Notice for Henderson:** Structural loading calculated based on 469 ft terrain assessment. Regional dispatch grid: Vance County.

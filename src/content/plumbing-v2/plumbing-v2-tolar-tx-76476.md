@@ -12,6 +12,7 @@ lng: -97.9200
 zipSample: ["76476"]
 zipCodes: ["76476"]
 localPaths: ["Hood County / primary ZIP 76476", "Hood County / ZIP 76476 sector", "Hood County / elevation 1037 ft band", "Hood County / coords 32.3900, -97.9200"]
+zillowHomeValueUsd: 417081
 ---
 
 **Engineering Notice for Tolar:** System optimized for 163 mg/L hard water scaling factors in Tolar. Regional dispatch grid: Hood County.

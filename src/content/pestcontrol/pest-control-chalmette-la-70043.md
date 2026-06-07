@@ -11,6 +11,7 @@ lng: -89.9700
 zipSample: ["70032", "70043", "70044"]
 zipCodes: ["70032", "70043", "70044"]
 localPaths: ["St. Bernard Parish / ZIP 70044 sector", "St. Bernard Parish / primary ZIP 70043", "St. Bernard Parish / ZIP 70032 sector", "St. Bernard Parish / elevation 20 ft band", "St. Bernard Parish / ZIP 70043 sector"]
+zillowHomeValueUsd: 207652
 ---
 
 **Engineering Notice for Chalmette:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: St. Bernard Parish.

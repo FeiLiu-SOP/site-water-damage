@@ -12,6 +12,7 @@ lng: -97.9000
 zipSample: ["57062"]
 zipCodes: ["57062"]
 localPaths: ["Bon Homme County / primary ZIP 57062", "Bon Homme County / ZIP 57062 sector", "Bon Homme County / elevation 1286 ft band", "Bon Homme County / coords 42.8600, -97.9000"]
+zillowHomeValueUsd: 194496
 ---
 
 **Engineering Notice for Springfield:** Cladding verification uses 104 mph routing baseline; lateral pressure note: 13.7 psf. Elevation: 1286 ft AMSL. Grid: Bon Homme County.

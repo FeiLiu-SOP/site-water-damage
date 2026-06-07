@@ -12,6 +12,7 @@ lng: -78.5600
 zipSample: ["22824"]
 zipCodes: ["22824"]
 localPaths: ["Shenandoah County / primary ZIP 22824", "Shenandoah County / ZIP 22824 sector", "Shenandoah County / coords 38.8200, -78.5600", "Shenandoah County / elevation 830 ft band"]
+zillowHomeValueUsd: 341869
 ---
 
 **Engineering Notice for Edinburg:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Coordinates: 38.8200, -78.5600. Grid: Shenandoah County.

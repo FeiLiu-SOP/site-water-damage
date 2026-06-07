@@ -12,6 +12,7 @@ lng: -83.4100
 zipSample: ["45660"]
 zipCodes: ["45660"]
 localPaths: ["Adams County / coords 38.9500, -83.4100", "Adams County / ZIP 45660 sector", "Adams County / primary ZIP 45660", "Adams County / elevation 820 ft band"]
+zillowHomeValueUsd: 187082
 ---
 
 **Engineering Notice for Peebles:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Elevation: 820 ft AMSL. Coordinates: 38.9500, -83.4100. Grid: Adams County.

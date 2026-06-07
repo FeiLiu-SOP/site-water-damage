@@ -12,6 +12,7 @@ lng: -88.8700
 zipSample: ["53525"]
 zipCodes: ["53525"]
 localPaths: ["Rock County / primary ZIP 53525", "Rock County / elevation 968 ft band", "Rock County / ZIP 53525 sector", "Rock County / coords 42.5600, -88.8700"]
+zillowHomeValueUsd: 316289
 ---
 
 **Engineering Notice for Clinton:** System optimized for 128 mg/L hard water scaling factors in Clinton. Regional dispatch grid: Rock County.

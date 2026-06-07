@@ -12,6 +12,7 @@ lng: -88.7500
 zipSample: ["62411"]
 zipCodes: ["62411"]
 localPaths: ["Effingham County / coords 39.0600, -88.7500", "Effingham County / primary ZIP 62411", "Effingham County / elevation 623 ft band", "Effingham County / ZIP 62411 sector"]
+zillowHomeValueUsd: 160489
 ---
 
 **Engineering Notice for Altamont:** Panel Replacement was validated under stress factor 0.94; target tolerance set near 100 mph. Grid anchor: Effingham County.

@@ -12,6 +12,7 @@ lng: -104.7500
 zipSample: ["59330"]
 zipCodes: ["59330"]
 localPaths: ["Dawson County / elevation 2093 ft band", "Dawson County / coords 47.1100, -104.7500", "Dawson County / primary ZIP 59330", "Dawson County / ZIP 59330 sector"]
+zillowHomeValueUsd: 192011
 ---
 
 **Engineering Notice for West Glendive:** System optimized for 144 mg/L hard water scaling factors in West Glendive. Regional dispatch grid: Dawson County.

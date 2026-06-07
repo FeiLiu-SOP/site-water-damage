@@ -12,6 +12,7 @@ lng: -92.0600
 zipSample: ["71280", "71211"]
 zipCodes: ["71211", "71280"]
 localPaths: ["Ouachita Parish / ZIP 71280 sector", "Ouachita Parish / primary ZIP 71280", "Ouachita Parish / ZIP 71211 sector", "Ouachita Parish / coords 32.6900, -92.0600", "Ouachita Parish / elevation 85 ft band"]
+zillowHomeValueUsd: 228980
 ---
 
 **Engineering Notice for Sterlington:** System optimized for 155 mg/L hard water scaling factors in Sterlington. Regional dispatch grid: Ouachita Parish.

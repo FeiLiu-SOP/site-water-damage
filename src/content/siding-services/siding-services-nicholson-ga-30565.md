@@ -12,6 +12,7 @@ lng: -83.4300
 zipSample: ["30565"]
 zipCodes: ["30565"]
 localPaths: ["Jackson County / elevation 846 ft band", "Jackson County / ZIP 30565 sector", "Jackson County / primary ZIP 30565", "Jackson County / coords 34.1200, -83.4300"]
+zillowHomeValueUsd: 344466
 ---
 
 **Engineering Notice for Nicholson:** Cladding Retrofit was validated under stress factor 1.13; target tolerance set near 110 mph. Coordinates: 34.1200, -83.4300. Grid anchor: Jackson County.

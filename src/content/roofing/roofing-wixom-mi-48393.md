@@ -11,6 +11,7 @@ lng: -83.5300
 zipSample: ["48393"]
 zipCodes: ["48393"]
 localPaths: ["Oakland County / ZIP 48393 sector", "Oakland County / coords 42.5200, -83.5300", "Oakland County / primary ZIP 48393", "Oakland County / elevation 932 ft band"]
+zillowHomeValueUsd: 384738
 ---
 
 **Engineering Notice for Wixom:** Structural loading calculated based on 932 ft terrain assessment. Regional dispatch grid: Oakland County.

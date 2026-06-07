@@ -12,6 +12,7 @@ lng: -87.3400
 zipSample: ["37036"]
 zipCodes: ["37036"]
 localPaths: ["Dickson County / elevation 669 ft band", "Dickson County / primary ZIP 37036", "Dickson County / ZIP 37036 sector", "Dickson County / coords 36.1900, -87.3400"]
+zillowHomeValueUsd: 345301
 ---
 
 **Engineering Notice for Charlotte:** System optimized for 139 mg/L hard water scaling factors in Charlotte. Regional dispatch grid: Dickson County.

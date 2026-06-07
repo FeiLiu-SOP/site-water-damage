@@ -12,6 +12,7 @@ lng: -85.6300
 zipSample: ["46938"]
 zipCodes: ["46938"]
 localPaths: ["Grant County / elevation 837 ft band", "Grant County / primary ZIP 46938", "Grant County / coords 40.4800, -85.6300", "Grant County / ZIP 46938 sector"]
+zillowHomeValueUsd: 152665
 ---
 
 **Engineering Notice for Jonesboro:** System optimized for 163 mg/L hard water scaling factors in Jonesboro. Regional dispatch grid: Grant County.

@@ -12,6 +12,7 @@ lng: -149.1100
 zipSample: ["99515", "99516", "99502", "99514", "99509"]
 zipCodes: ["99513", "99515", "99522", "99501", "99530", "99540", "99516", "99505", "99518", "99511", "99502", "99508"]
 localPaths: ["Anchorage County / ZIP 99502 sector", "Anchorage County / ZIP 99516 sector", "Anchorage County / coords 61.1500, -149.1100", "Anchorage County / ZIP 99515 sector", "Anchorage County / primary ZIP 99518"]
+zillowHomeValueUsd: 332194
 ---
 
 **Engineering Notice for Anchorage:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Anchorage County.

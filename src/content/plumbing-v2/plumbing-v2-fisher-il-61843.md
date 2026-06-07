@@ -12,6 +12,7 @@ lng: -88.3500
 zipSample: ["61843"]
 zipCodes: ["61843"]
 localPaths: ["Champaign County / coords 40.3200, -88.3500", "Champaign County / ZIP 61843 sector", "Champaign County / primary ZIP 61843", "Champaign County / elevation 715 ft band"]
+zillowHomeValueUsd: 226704
 ---
 
 **Engineering Notice for Fisher:** System optimized for 138 mg/L hard water scaling factors in Fisher. Regional dispatch grid: Champaign County.

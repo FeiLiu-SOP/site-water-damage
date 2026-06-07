@@ -12,6 +12,7 @@ lng: -94.6300
 zipSample: ["75656"]
 zipCodes: ["75656"]
 localPaths: ["Cass County / coords 33.0000, -94.6300", "Cass County / primary ZIP 75656", "Cass County / ZIP 75656 sector", "Cass County / elevation 390 ft band"]
+zillowHomeValueUsd: 170260
 ---
 
 **Engineering Notice for Hughes Springs:** Envelope check: Vinyl Panels assigned to wind-load band A with stress factor 0.93. Elevation: 390 ft AMSL. Regional dispatch grid: Cass County.

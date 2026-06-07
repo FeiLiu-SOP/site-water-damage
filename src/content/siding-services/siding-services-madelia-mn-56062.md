@@ -12,6 +12,7 @@ lng: -94.4200
 zipSample: ["56062"]
 zipCodes: ["56062"]
 localPaths: ["Watonwan County / coords 44.0500, -94.4200", "Watonwan County / elevation 997 ft band", "Watonwan County / ZIP 56062 sector", "Watonwan County / primary ZIP 56062"]
+zillowHomeValueUsd: 204234
 ---
 
 **Engineering Notice for Madelia:** Site context locked to Watonwan County. Coordinates: 44.0500, -94.4200. Wall Restoration integrity verification recorded.

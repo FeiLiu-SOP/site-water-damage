@@ -12,6 +12,7 @@ lng: -83.4500
 zipSample: ["48759"]
 zipCodes: ["48759"]
 localPaths: ["Huron County / elevation 591 ft band", "Huron County / primary ZIP 48759", "Huron County / coords 43.7300, -83.4500", "Huron County / ZIP 48759 sector"]
+zillowHomeValueUsd: 140842
 ---
 
 **Engineering Notice for Sebewaing:** Vinyl Panels was validated under stress factor 0.96; target tolerance set near 102 mph. Coordinates: 43.7300, -83.4500. Grid anchor: Huron County.

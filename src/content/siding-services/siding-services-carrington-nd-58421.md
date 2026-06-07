@@ -12,6 +12,7 @@ lng: -99.1300
 zipSample: ["58421"]
 zipCodes: ["58421"]
 localPaths: ["Foster County / ZIP 58421 sector", "Foster County / coords 47.4500, -99.1300", "Foster County / primary ZIP 58421", "Foster County / elevation 1585 ft band"]
+zillowHomeValueUsd: 196677
 ---
 
 **Engineering Notice for Carrington:** Envelope check: Panel Replacement assigned to wind-load band A with stress factor 1.14. Elevation: 1585 ft AMSL. Regional dispatch grid: Foster County.

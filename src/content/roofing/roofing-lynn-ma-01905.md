@@ -11,6 +11,7 @@ lng: -70.9700
 zipSample: ["01903", "01902", "01904", "01910", "01905"]
 zipCodes: ["01904", "01901", "01903", "01902", "01905", "01910"]
 localPaths: ["Essex County / ZIP 01905 sector", "Essex County / elevation 135 ft band", "Essex County / ZIP 01902 sector", "Essex County / ZIP 01903 sector", "Essex County / primary ZIP 01905"]
+zillowHomeValueUsd: 575175
 ---
 
 **Engineering Notice for Lynn:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Essex County.

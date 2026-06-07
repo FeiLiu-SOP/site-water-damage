@@ -12,6 +12,7 @@ lng: -82.9800
 zipSample: ["45648"]
 zipCodes: ["45648"]
 localPaths: ["Scioto County / primary ZIP 45648", "Scioto County / ZIP 45648 sector", "Scioto County / elevation 676 ft band", "Scioto County / coords 38.8800, -82.9800"]
+zillowHomeValueUsd: 171235
 ---
 
 **Engineering Notice for Lucasville:** System optimized for 159 mg/L hard water scaling factors in Lucasville. Regional dispatch grid: Scioto County.

@@ -12,6 +12,7 @@ lng: -80.3100
 zipSample: ["26301"]
 zipCodes: ["26301"]
 localPaths: ["Harrison County / primary ZIP 26301", "Harrison County / coords 39.2500, -80.3100", "Harrison County / elevation 1211 ft band", "Harrison County / ZIP 26301 sector"]
+zillowHomeValueUsd: 116913
 ---
 
 **Engineering Notice for Stonewood:** Envelope check: Wall Restoration assigned to wind-load band A with stress factor 0.80. Regional dispatch grid: Harrison County.

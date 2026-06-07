@@ -12,6 +12,7 @@ lng: -82.7000
 zipSample: ["43011"]
 zipCodes: ["43011"]
 localPaths: ["Knox County / coords 40.3000, -82.7000", "Knox County / primary ZIP 43011", "Knox County / ZIP 43011 sector", "Knox County / elevation 1217 ft band"]
+zillowHomeValueUsd: 387788
 ---
 
 **Engineering Notice for Centerburg:** Structural integrity verification: Exterior Cladding calibrated for 96 mph localized wind load factor. Elevation: 1217 ft AMSL. Regional dispatch grid: Knox County.

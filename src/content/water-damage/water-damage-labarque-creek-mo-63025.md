@@ -12,6 +12,7 @@ lng: -90.6800
 zipSample: ["63051", "63016", "63025", "63069"]
 zipCodes: ["63069", "63025", "63051", "63016"]
 localPaths: ["Jefferson County / ZIP 63025 sector", "Jefferson County / ZIP 63016 sector", "Jefferson County / ZIP 63051 sector", "Jefferson County / elevation 620 ft band", "Jefferson County / ZIP 63069 sector"]
+zillowHomeValueUsd: 415567
 ---
 
 **Engineering Notice for LaBarque Creek:** structural drying capacity optimized for 620ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Jefferson County. Relative Humidity Threshold: 85%. Sensor sync: Active.

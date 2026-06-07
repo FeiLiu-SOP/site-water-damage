@@ -12,6 +12,7 @@ lng: -95.3400
 zipSample: ["74337"]
 zipCodes: ["74337"]
 localPaths: ["Mayes County / coords 36.1900, -95.3400", "Mayes County / ZIP 74337 sector", "Mayes County / elevation 633 ft band", "Mayes County / primary ZIP 74337"]
+zillowHomeValueUsd: 208453
 ---
 
 **Engineering Notice for Chouteau:** structural drying capacity optimized for 633ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Mayes County. Relative Humidity Threshold: 79%. Sensor sync: Active.

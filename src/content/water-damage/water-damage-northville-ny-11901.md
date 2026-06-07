@@ -12,6 +12,7 @@ lng: -72.6200
 zipSample: ["11901"]
 zipCodes: ["11901"]
 localPaths: ["Suffolk County / primary ZIP 11901", "Suffolk County / ZIP 11901 sector", "Suffolk County / elevation 62 ft band", "Suffolk County / coords 40.9700, -72.6200"]
+zillowHomeValueUsd: 635436
 ---
 
 **Engineering Notice for Northville:** structural drying capacity optimized for 62ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Suffolk County. Relative Humidity Threshold: 84%. Sensor sync: Active.

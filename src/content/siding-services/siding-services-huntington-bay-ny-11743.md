@@ -12,6 +12,7 @@ lng: -73.4200
 zipSample: ["11743"]
 zipCodes: ["11743"]
 localPaths: ["Suffolk County / ZIP 11743 sector", "Suffolk County / coords 40.9000, -73.4200", "Suffolk County / elevation 43 ft band", "Suffolk County / primary ZIP 11743"]
+zillowHomeValueUsd: 902362
 ---
 
 **Engineering Notice for Huntington Bay:** Structural integrity verification: Facade Renewal calibrated for 98 mph localized wind load factor. Elevation: 43 ft AMSL. Coordinates: 40.9000, -73.4200. Regional dispatch grid: Suffolk County.

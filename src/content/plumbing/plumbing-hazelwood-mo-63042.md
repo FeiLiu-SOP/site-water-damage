@@ -12,6 +12,7 @@ lng: -90.3900
 zipSample: ["63031", "63044", "63042"]
 zipCodes: ["63031", "63044", "63042"]
 localPaths: ["St. Louis County / ZIP 63031 sector", "St. Louis County / coords 38.7900, -90.3900", "St. Louis County / ZIP 63044 sector", "St. Louis County / elevation 479 ft band", "St. Louis County / ZIP 63042 sector"]
+zillowHomeValueUsd: 164353
 ---
 
 **Engineering Notice for Hazelwood:** Structural loading calculated based on 479 ft terrain assessment. Regional dispatch grid: St. Louis County.

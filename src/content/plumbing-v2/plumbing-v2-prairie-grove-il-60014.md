@@ -12,6 +12,7 @@ lng: -88.2700
 zipSample: ["60012", "60014", "60050"]
 zipCodes: ["60014", "60012", "60050"]
 localPaths: ["McHenry County / ZIP 60012 sector", "McHenry County / primary ZIP 60014", "McHenry County / ZIP 60050 sector", "McHenry County / coords 42.2800, -88.2700", "McHenry County / elevation 761 ft band"]
+zillowHomeValueUsd: 359989
 ---
 
 **Engineering Notice for Prairie Grove:** System optimized for 140 mg/L hard water scaling factors in Prairie Grove. Regional dispatch grid: McHenry County.

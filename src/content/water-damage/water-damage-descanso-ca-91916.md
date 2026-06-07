@@ -12,6 +12,7 @@ lng: -116.6300
 zipSample: ["91916"]
 zipCodes: ["91916"]
 localPaths: ["San Diego County / primary ZIP 91916", "San Diego County / elevation 3579 ft band", "San Diego County / ZIP 91916 sector", "San Diego County / coords 32.8700, -116.6300"]
+zillowHomeValueUsd: 670232
 ---
 
 **Engineering Notice for Descanso:** structural drying capacity optimized for 3579ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: San Diego County. Relative Humidity Threshold: 83%. Sensor sync: Active.

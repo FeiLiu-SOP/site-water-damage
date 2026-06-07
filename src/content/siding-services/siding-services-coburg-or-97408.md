@@ -12,6 +12,7 @@ lng: -123.0600
 zipSample: ["97408"]
 zipCodes: ["97408"]
 localPaths: ["Lane County / coords 44.1400, -123.0600", "Lane County / ZIP 97408 sector", "Lane County / elevation 400 ft band", "Lane County / primary ZIP 97408"]
+zillowHomeValueUsd: 613082
 ---
 
 **Engineering Notice for Coburg:** Cladding verification uses 96 mph routing baseline; lateral pressure note: 12.7 psf. Coordinates: 44.1400, -123.0600. Grid: Lane County.

@@ -12,6 +12,7 @@ lng: -85.0400
 zipSample: ["48829"]
 zipCodes: ["48829"]
 localPaths: ["Montcalm County / primary ZIP 48829", "Montcalm County / coords 43.4100, -85.0400", "Montcalm County / elevation 974 ft band", "Montcalm County / ZIP 48829 sector"]
+zillowHomeValueUsd: 194299
 ---
 
 **Engineering Notice for Edmore:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Coordinates: 43.4100, -85.0400. Grid: Montcalm County.

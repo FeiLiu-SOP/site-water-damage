@@ -12,6 +12,7 @@ lng: -84.3400
 zipSample: ["30295", "30292"]
 zipCodes: ["30292", "30295"]
 localPaths: ["Pike County / primary ZIP 30292", "Pike County / coords 33.0900, -84.3400", "Pike County / ZIP 30292 sector", "Pike County / ZIP 30295 sector", "Pike County / elevation 853 ft band"]
+zillowHomeValueUsd: 405569
 ---
 
 **Engineering Notice for Zebulon:** Panel Replacement was validated under stress factor 0.70; target tolerance set near 92 mph. Grid anchor: Pike County.

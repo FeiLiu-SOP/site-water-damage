@@ -11,6 +11,7 @@ lng: -121.9600
 zipSample: ["94565"]
 zipCodes: ["94565"]
 localPaths: ["Contra Costa County / ZIP 94565 sector", "Contra Costa County / elevation 52 ft band", "Contra Costa County / coords 38.0300, -121.9600", "Contra Costa County / primary ZIP 94565"]
+zillowHomeValueUsd: 569656
 ---
 
 **Engineering Notice for Bay Point:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Contra Costa County.

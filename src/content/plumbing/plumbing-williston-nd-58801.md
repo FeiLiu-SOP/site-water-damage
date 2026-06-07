@@ -12,6 +12,7 @@ lng: -103.6400
 zipSample: ["58801", "58802", "58803"]
 zipCodes: ["58801", "58802", "58803"]
 localPaths: ["Williams County / elevation 1903 ft band", "Williams County / ZIP 58803 sector", "Williams County / coords 48.1800, -103.6400", "Williams County / ZIP 58801 sector", "Williams County / ZIP 58802 sector"]
+zillowHomeValueUsd: 364364
 ---
 
 **Engineering Notice for Williston:** Structural loading calculated based on 1903 ft terrain assessment. Regional dispatch grid: Williams County.

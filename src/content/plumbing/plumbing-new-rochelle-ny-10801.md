@@ -12,6 +12,7 @@ lng: -73.7800
 zipSample: ["10801", "10804", "10802", "10805"]
 zipCodes: ["10804", "10802", "10801", "10805"]
 localPaths: ["Westchester County / ZIP 10804 sector", "Westchester County / ZIP 10802 sector", "Westchester County / ZIP 10801 sector", "Westchester County / coords 40.9300, -73.7800", "Westchester County / elevation 112 ft band"]
+zillowHomeValueUsd: 772769
 ---
 
 **Engineering Notice for New Rochelle:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Westchester County.

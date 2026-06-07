@@ -12,6 +12,7 @@ lng: -90.1600
 zipSample: ["63876"]
 zipCodes: ["63876"]
 localPaths: ["Dunklin County / elevation 256 ft band", "Dunklin County / coords 36.1300, -90.1600", "Dunklin County / ZIP 63876 sector", "Dunklin County / primary ZIP 63876"]
+zillowHomeValueUsd: 94408
 ---
 
 **Engineering Notice for Senath:** System optimized for 162 mg/L hard water scaling factors in Senath. Regional dispatch grid: Dunklin County.

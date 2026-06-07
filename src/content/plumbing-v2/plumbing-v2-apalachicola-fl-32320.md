@@ -12,6 +12,7 @@ lng: -84.9900
 zipSample: ["32329", "32320"]
 zipCodes: ["32320", "32329"]
 localPaths: ["Franklin County / primary ZIP 32320", "Franklin County / ZIP 32320 sector", "Franklin County / coords 29.7300, -84.9900", "Franklin County / ZIP 32329 sector", "Franklin County / elevation 43 ft band"]
+zillowHomeValueUsd: 282015
 ---
 
 **Engineering Notice for Apalachicola:** System optimized for 148 mg/L hard water scaling factors in Apalachicola. Regional dispatch grid: Franklin County.

@@ -12,6 +12,7 @@ lng: -80.2400
 zipSample: ["15027"]
 zipCodes: ["15027"]
 localPaths: ["Beaver County / ZIP 15027 sector", "Beaver County / elevation 823 ft band", "Beaver County / coords 40.6700, -80.2400", "Beaver County / primary ZIP 15027"]
+zillowHomeValueUsd: 197895
 ---
 
 **Engineering Notice for Conway:** structural drying capacity optimized for 823ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Beaver County. Relative Humidity Threshold: 70%. Sensor sync: Active.

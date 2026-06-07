@@ -12,6 +12,7 @@ lng: -89.2800
 zipSample: ["62548"]
 zipCodes: ["62548"]
 localPaths: ["Logan County / ZIP 62548 sector", "Logan County / coords 40.0100, -89.2800", "Logan County / primary ZIP 62548", "Logan County / elevation 682 ft band"]
+zillowHomeValueUsd: 150888
 ---
 
 **Engineering Notice for Mount Pulaski:** Envelope check: Panel Replacement assigned to wind-load band C with stress factor 0.99. Regional dispatch grid: Logan County.

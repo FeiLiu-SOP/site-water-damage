@@ -11,6 +11,7 @@ lng: -81.7100
 zipSample: ["32006", "32003"]
 zipCodes: ["32003", "32006"]
 localPaths: ["Clay County / ZIP 32003 sector", "Clay County / coords 30.1000, -81.7100", "Clay County / primary ZIP 32003", "Clay County / ZIP 32006 sector", "Clay County / elevation 30 ft band"]
+zillowHomeValueUsd: 437647
 ---
 
 **Engineering Notice for Fleming Island:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Clay County.

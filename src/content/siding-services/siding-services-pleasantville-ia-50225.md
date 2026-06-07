@@ -12,6 +12,7 @@ lng: -93.2700
 zipSample: ["50225"]
 zipCodes: ["50225"]
 localPaths: ["Marion County / elevation 915 ft band", "Marion County / coords 41.3900, -93.2700", "Marion County / ZIP 50225 sector", "Marion County / primary ZIP 50225"]
+zillowHomeValueUsd: 266215
 ---
 
 **Engineering Notice for Pleasantville:** Site context locked to Marion County. Elevation: 915 ft AMSL. Coordinates: 41.3900, -93.2700. Weather Barrier Wrap integrity verification recorded.

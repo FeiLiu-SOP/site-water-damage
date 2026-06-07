@@ -11,6 +11,7 @@ lng: -87.5300
 zipSample: ["35406", "35403", "35487", "35476", "35401"]
 zipCodes: ["35475", "35405", "35486", "35487", "35404", "35407", "35403", "35401", "35406", "35476"]
 localPaths: ["Tuscaloosa County / ZIP 35403 sector", "Tuscaloosa County / ZIP 35401 sector", "Tuscaloosa County / ZIP 35406 sector", "Tuscaloosa County / ZIP 35476 sector", "Tuscaloosa County / coords 33.2300, -87.5300"]
+zillowHomeValueUsd: 299996
 ---
 
 **Engineering Notice for Tuscaloosa:** Structural loading calculated based on 253 ft terrain assessment. Regional dispatch grid: Tuscaloosa County.

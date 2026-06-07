@@ -12,6 +12,7 @@ lng: -78.4800
 zipSample: ["14105"]
 zipCodes: ["14105"]
 localPaths: ["Niagara County / coords 43.2100, -78.4800", "Niagara County / elevation 525 ft band", "Niagara County / ZIP 14105 sector", "Niagara County / primary ZIP 14105"]
+zillowHomeValueUsd: 213147
 ---
 
 **Engineering Notice for Middleport:** System optimized for 139 mg/L hard water scaling factors in Middleport. Regional dispatch grid: Niagara County.

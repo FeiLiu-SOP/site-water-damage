@@ -12,6 +12,7 @@ lng: -71.0600
 zipSample: ["02176"]
 zipCodes: ["02176"]
 localPaths: ["Middlesex County / elevation 98 ft band", "Middlesex County / primary ZIP 02176", "Middlesex County / coords 42.4600, -71.0600", "Middlesex County / ZIP 02176 sector"]
+zillowHomeValueUsd: 908750
 ---
 
 **Engineering Notice for Melrose:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Middlesex County.

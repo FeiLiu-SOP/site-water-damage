@@ -12,6 +12,7 @@ lng: -73.9500
 zipSample: ["10511"]
 zipCodes: ["10511"]
 localPaths: ["Westchester County / elevation 135 ft band", "Westchester County / ZIP 10511 sector", "Westchester County / coords 41.2600, -73.9500", "Westchester County / primary ZIP 10511"]
+zillowHomeValueUsd: 577541
 ---
 
 **Engineering Notice for Buchanan:** System optimized for 139 mg/L hard water scaling factors in Buchanan. Regional dispatch grid: Westchester County.

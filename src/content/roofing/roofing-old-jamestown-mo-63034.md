@@ -11,6 +11,7 @@ lng: -90.2800
 zipSample: ["63034"]
 zipCodes: ["63034"]
 localPaths: ["St. Louis County / ZIP 63034 sector", "St. Louis County / elevation 558 ft band", "St. Louis County / primary ZIP 63034", "St. Louis County / coords 38.8400, -90.2800"]
+zillowHomeValueUsd: 272234
 ---
 
 **Engineering Notice for Old Jamestown:** Structural loading calculated based on 558 ft terrain assessment. Regional dispatch grid: St. Louis County.

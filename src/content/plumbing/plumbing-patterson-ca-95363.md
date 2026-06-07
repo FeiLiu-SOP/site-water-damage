@@ -12,6 +12,7 @@ lng: -121.1500
 zipSample: ["95363"]
 zipCodes: ["95363"]
 localPaths: ["Stanislaus County / elevation 108 ft band", "Stanislaus County / primary ZIP 95363", "Stanislaus County / ZIP 95363 sector", "Stanislaus County / coords 37.4800, -121.1500"]
+zillowHomeValueUsd: 510500
 ---
 
 **Engineering Notice for Patterson:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Stanislaus County.

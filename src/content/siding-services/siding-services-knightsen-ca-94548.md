@@ -12,6 +12,8 @@ lng: -121.6500
 zipSample: ["94548", "94513"]
 zipCodes: ["94513", "94548"]
 localPaths: ["Contra Costa County / coords 37.9600, -121.6500", "Contra Costa County / ZIP 94548 sector", "Contra Costa County / ZIP 94513 sector", "Contra Costa County / elevation 13 ft band", "Contra Costa County / primary ZIP 94548"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 873480
 ---
 
 **Engineering Notice for Knightsen:** Structural integrity verification: Surface Sheathing calibrated for 138 mph localized wind load factor. Elevation: 13 ft AMSL. Coordinates: 37.9600, -121.6500. Regional dispatch grid: Contra Costa County.

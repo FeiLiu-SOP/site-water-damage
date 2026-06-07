@@ -12,6 +12,7 @@ lng: -86.7400
 zipSample: ["35242", "35296", "35243", "35216", "35266"]
 zipCodes: ["35288", "35296", "35242", "35216", "35266", "35243"]
 localPaths: ["Jefferson County / ZIP 35243 sector", "Jefferson County / ZIP 35216 sector", "Jefferson County / ZIP 35296 sector", "Jefferson County / elevation 709 ft band", "Jefferson County / primary ZIP 35216"]
+zillowHomeValueUsd: 411557
 ---
 
 **Engineering Notice for Vestavia Hills:** Structural loading calculated based on 709 ft terrain assessment. Regional dispatch grid: Jefferson County.

@@ -12,6 +12,7 @@ lng: -78.4400
 zipSample: ["16749"]
 zipCodes: ["16749"]
 localPaths: ["McKean County / primary ZIP 16749", "McKean County / coords 41.8100, -78.4400", "McKean County / elevation 1476 ft band", "McKean County / ZIP 16749 sector"]
+zillowHomeValueUsd: 126332
 ---
 
 **Engineering Notice for Smethport:** Structural integrity verification: Vinyl Panels calibrated for 93 mph localized wind load factor. Coordinates: 41.8100, -78.4400. Regional dispatch grid: McKean County.

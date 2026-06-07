@@ -12,6 +12,7 @@ lng: -79.5800
 zipSample: ["15425"]
 zipCodes: ["15425"]
 localPaths: ["Fayette County / primary ZIP 15425", "Fayette County / coords 39.9900, -79.5800", "Fayette County / elevation 1293 ft band", "Fayette County / ZIP 15425 sector"]
+zillowHomeValueUsd: 145786
 ---
 
 **Engineering Notice for South Connellsville:** Site context locked to Fayette County. Coordinates: 39.9900, -79.5800. Facade Renewal integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -119.1700
 zipSample: ["99336", "99337", "99338"]
 zipCodes: ["99337", "99336", "99338"]
 localPaths: ["Benton County / elevation 554 ft band", "Benton County / coords 46.2000, -119.1700", "Benton County / primary ZIP 99337", "Benton County / ZIP 99338 sector", "Benton County / ZIP 99336 sector"]
+zillowHomeValueUsd: 432131
 ---
 
 **Engineering Notice for Kennewick:** Structural loading calculated based on 554 ft terrain assessment. Regional dispatch grid: Benton County.

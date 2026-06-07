@@ -12,6 +12,7 @@ lng: -89.2800
 zipSample: ["39744"]
 zipCodes: ["39744"]
 localPaths: ["Webster County / primary ZIP 39744", "Webster County / ZIP 39744 sector", "Webster County / elevation 420 ft band", "Webster County / coords 33.5400, -89.2800"]
+zillowHomeValueUsd: 139074
 ---
 
 **Engineering Notice for Eupora:** structural drying capacity optimized for 420ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Webster County. Relative Humidity Threshold: 76%. Sensor sync: Active.

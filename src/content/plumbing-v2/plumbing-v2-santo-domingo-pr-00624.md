@@ -12,6 +12,8 @@ lng: -66.7500
 zipSample: ["00624"]
 zipCodes: ["00624"]
 localPaths: ["Peñuelas County / primary ZIP 00624", "Peñuelas County / elevation 1188 ft band", "Peñuelas County / coords 18.0700, -66.7500", "Peñuelas County / ZIP 00624 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 358764
 ---
 
 **Engineering Notice for Santo Domingo:** System optimized for 177 mg/L hard water scaling factors in Santo Domingo. Regional dispatch grid: Peñuelas County.

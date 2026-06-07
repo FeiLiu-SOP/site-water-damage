@@ -12,6 +12,7 @@ lng: -93.0900
 zipSample: ["71913"]
 zipCodes: ["71913"]
 localPaths: ["Garland County / primary ZIP 71913", "Garland County / elevation 433 ft band", "Garland County / coords 34.4300, -93.0900", "Garland County / ZIP 71913 sector"]
+zillowHomeValueUsd: 261794
 ---
 
 **Engineering Notice for Lake Hamilton:** Envelope check: Exterior Envelope assigned to wind-load band C with stress factor 0.91. Regional dispatch grid: Garland County.

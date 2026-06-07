@@ -12,6 +12,7 @@ lng: -76.2600
 zipSample: ["17087"]
 zipCodes: ["17087"]
 localPaths: ["Lebanon County / primary ZIP 17087", "Lebanon County / coords 40.3600, -76.2600", "Lebanon County / ZIP 17087 sector", "Lebanon County / elevation 499 ft band"]
+zillowHomeValueUsd: 302158
 ---
 
 **Engineering Notice for Richland:** structural drying capacity optimized for 499ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Lebanon County. Relative Humidity Threshold: 78%. Sensor sync: Active.

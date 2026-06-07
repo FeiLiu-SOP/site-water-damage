@@ -12,6 +12,7 @@ lng: -93.3600
 zipSample: ["55427", "55422", "55428", "55429"]
 zipCodes: ["55428", "55429", "55422", "55427"]
 localPaths: ["Hennepin County / primary ZIP 55422", "Hennepin County / ZIP 55427 sector", "Hennepin County / ZIP 55422 sector", "Hennepin County / coords 45.0400, -93.3600", "Hennepin County / ZIP 55429 sector"]
+zillowHomeValueUsd: 339162
 ---
 
 **Engineering Notice for Crystal:** Structural loading calculated based on 892 ft terrain assessment. Regional dispatch grid: Hennepin County.

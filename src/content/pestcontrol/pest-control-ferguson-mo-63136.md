@@ -11,6 +11,7 @@ lng: -90.3000
 zipSample: ["63135", "63136"]
 zipCodes: ["63136", "63135"]
 localPaths: ["St. Louis County / elevation 574 ft band", "St. Louis County / ZIP 63136 sector", "St. Louis County / coords 38.7500, -90.3000", "St. Louis County / primary ZIP 63136", "St. Louis County / ZIP 63135 sector"]
+zillowHomeValueUsd: 85954
 ---
 
 **Engineering Notice for Ferguson:** Structural loading calculated based on 574 ft terrain assessment. Regional dispatch grid: St. Louis County.

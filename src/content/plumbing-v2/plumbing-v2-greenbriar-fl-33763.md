@@ -12,6 +12,7 @@ lng: -82.7500
 zipSample: ["34698", "33763"]
 zipCodes: ["34698", "33763"]
 localPaths: ["Pinellas County / ZIP 34698 sector", "Pinellas County / ZIP 33763 sector", "Pinellas County / coords 28.0100, -82.7500", "Pinellas County / elevation 66 ft band", "Pinellas County / primary ZIP 33763"]
+zillowHomeValueUsd: 201599
 ---
 
 **Engineering Notice for Greenbriar:** System optimized for 144 mg/L hard water scaling factors in Greenbriar. Regional dispatch grid: Pinellas County.

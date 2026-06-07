@@ -12,6 +12,7 @@ lng: -119.5000
 zipSample: ["98851"]
 zipCodes: ["98851"]
 localPaths: ["Grant County / elevation 1207 ft band", "Grant County / ZIP 98851 sector", "Grant County / coords 47.3800, -119.5000", "Grant County / primary ZIP 98851"]
+zillowHomeValueUsd: 300480
 ---
 
 **Engineering Notice for Lakeview:** Envelope check: Panel Replacement assigned to wind-load band A with stress factor 1.22. Regional dispatch grid: Grant County.

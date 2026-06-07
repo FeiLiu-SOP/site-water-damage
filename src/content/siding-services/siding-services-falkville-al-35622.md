@@ -12,6 +12,7 @@ lng: -86.9100
 zipSample: ["35622"]
 zipCodes: ["35622"]
 localPaths: ["Morgan County / ZIP 35622 sector", "Morgan County / primary ZIP 35622", "Morgan County / coords 34.3800, -86.9100", "Morgan County / elevation 600 ft band"]
+zillowHomeValueUsd: 207660
 ---
 
 **Engineering Notice for Falkville:** Site context locked to Morgan County. Elevation: 600 ft AMSL. Exterior Cladding integrity verification recorded.

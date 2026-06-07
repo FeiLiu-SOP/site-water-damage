@@ -12,6 +12,7 @@ lng: -85.5300
 zipSample: ["49032"]
 zipCodes: ["49032"]
 localPaths: ["St. Joseph County / ZIP 49032 sector", "St. Joseph County / coords 41.9200, -85.5300", "St. Joseph County / elevation 837 ft band", "St. Joseph County / primary ZIP 49032"]
+zillowHomeValueUsd: 236539
 ---
 
 **Engineering Notice for Centreville:** Site context locked to St. Joseph County. Elevation: 837 ft AMSL. Wall Restoration integrity verification recorded.

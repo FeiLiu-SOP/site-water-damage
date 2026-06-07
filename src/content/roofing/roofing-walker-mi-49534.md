@@ -11,6 +11,7 @@ lng: -85.7400
 zipSample: ["49544", "49534"]
 zipCodes: ["49544", "49534"]
 localPaths: ["Kent County / primary ZIP 49534", "Kent County / ZIP 49544 sector", "Kent County / ZIP 49534 sector", "Kent County / elevation 755 ft band", "Kent County / coords 42.9900, -85.7400"]
+zillowHomeValueUsd: 378666
 ---
 
 **Engineering Notice for Walker:** Structural loading calculated based on 755 ft terrain assessment. Regional dispatch grid: Kent County.

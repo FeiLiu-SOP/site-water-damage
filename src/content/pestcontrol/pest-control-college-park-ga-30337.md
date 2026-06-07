@@ -11,6 +11,7 @@ lng: -84.4600
 zipSample: ["30349", "30337"]
 zipCodes: ["30337", "30349"]
 localPaths: ["Fulton County / ZIP 30337 sector", "Fulton County / elevation 1050 ft band", "Fulton County / ZIP 30349 sector", "Fulton County / coords 33.6400, -84.4600", "Fulton County / primary ZIP 30337"]
+zillowHomeValueUsd: 301888
 ---
 
 **Engineering Notice for College Park:** Structural loading calculated based on 1050 ft terrain assessment. Regional dispatch grid: Fulton County.

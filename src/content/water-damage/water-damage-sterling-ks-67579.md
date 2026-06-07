@@ -12,6 +12,7 @@ lng: -98.2100
 zipSample: ["67579"]
 zipCodes: ["67579"]
 localPaths: ["Rice County / ZIP 67579 sector", "Rice County / primary ZIP 67579", "Rice County / elevation 1650 ft band", "Rice County / coords 38.2100, -98.2100"]
+zillowHomeValueUsd: 167311
 ---
 
 **Engineering Notice for Sterling:** structural drying capacity optimized for 1650ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Rice County. Relative Humidity Threshold: 83%. Sensor sync: Active.

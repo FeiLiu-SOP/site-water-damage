@@ -12,6 +12,7 @@ lng: -95.3300
 zipSample: ["75862"]
 zipCodes: ["75862"]
 localPaths: ["Trinity County / elevation 194 ft band", "Trinity County / ZIP 75862 sector", "Trinity County / primary ZIP 75862", "Trinity County / coords 30.9400, -95.3300"]
+zillowHomeValueUsd: 166375
 ---
 
 **Engineering Notice for Westwood Shores:** System optimized for 150 mg/L hard water scaling factors in Westwood Shores. Regional dispatch grid: Trinity County.

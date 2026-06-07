@@ -12,6 +12,7 @@ lng: -77.6100
 zipSample: ["27890"]
 zipCodes: ["27890"]
 localPaths: ["Halifax County / elevation 125 ft band", "Halifax County / ZIP 27890 sector", "Halifax County / primary ZIP 27890", "Halifax County / coords 36.4200, -77.6100"]
+zillowHomeValueUsd: 58943
 ---
 
 **Engineering Notice for Weldon:** Cladding verification uses 90 mph routing baseline; lateral pressure note: 12.0 psf. Elevation: 125 ft AMSL. Coordinates: 36.4200, -77.6100. Grid: Halifax County.

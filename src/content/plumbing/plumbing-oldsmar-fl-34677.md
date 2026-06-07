@@ -12,6 +12,7 @@ lng: -82.6700
 zipSample: ["34677"]
 zipCodes: ["34677"]
 localPaths: ["Pinellas County / coords 28.0500, -82.6700", "Pinellas County / elevation 39 ft band", "Pinellas County / primary ZIP 34677", "Pinellas County / ZIP 34677 sector"]
+zillowHomeValueUsd: 365836
 ---
 
 **Engineering Notice for Oldsmar:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Pinellas County.

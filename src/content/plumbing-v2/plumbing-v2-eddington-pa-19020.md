@@ -12,6 +12,7 @@ lng: -74.9400
 zipSample: ["19020"]
 zipCodes: ["19020"]
 localPaths: ["Bucks County / ZIP 19020 sector", "Bucks County / primary ZIP 19020", "Bucks County / elevation 82 ft band", "Bucks County / coords 40.0900, -74.9400"]
+zillowHomeValueUsd: 422404
 ---
 
 **Engineering Notice for Eddington:** System optimized for 156 mg/L hard water scaling factors in Eddington. Regional dispatch grid: Bucks County.

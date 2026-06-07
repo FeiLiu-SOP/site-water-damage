@@ -11,6 +11,7 @@ lng: -82.6500
 zipSample: ["29622", "29624", "29625", "29621"]
 zipCodes: ["29621", "29622", "29624", "29625"]
 localPaths: ["Anderson County / ZIP 29624 sector", "Anderson County / ZIP 29621 sector", "Anderson County / coords 34.5200, -82.6500", "Anderson County / ZIP 29622 sector", "Anderson County / primary ZIP 29625"]
+zillowHomeValueUsd: 263759
 ---
 
 **Engineering Notice for Anderson:** Structural loading calculated based on 791 ft terrain assessment. Regional dispatch grid: Anderson County.

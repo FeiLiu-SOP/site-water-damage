@@ -12,6 +12,7 @@ lng: -73.5800
 zipSample: ["12871"]
 zipCodes: ["12871"]
 localPaths: ["Saratoga County / coords 43.1000, -73.5800", "Saratoga County / elevation 125 ft band", "Saratoga County / ZIP 12871 sector", "Saratoga County / primary ZIP 12871"]
+zillowHomeValueUsd: 315263
 ---
 
 **Engineering Notice for Schuylerville:** Envelope check: Exterior Cladding assigned to wind-load band B with stress factor 0.75. Regional dispatch grid: Saratoga County.

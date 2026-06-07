@@ -12,6 +12,7 @@ lng: -118.0900
 zipSample: ["90661", "90660", "90662"]
 zipCodes: ["90661", "90662", "90660"]
 localPaths: ["Los Angeles County / primary ZIP 90660", "Los Angeles County / ZIP 90660 sector", "Los Angeles County / ZIP 90661 sector", "Los Angeles County / ZIP 90662 sector", "Los Angeles County / elevation 180 ft band"]
+zillowHomeValueUsd: 752998
 ---
 
 **Engineering Notice for Pico Rivera:** Structural loading calculated based on 180 ft terrain assessment. Regional dispatch grid: Los Angeles County.

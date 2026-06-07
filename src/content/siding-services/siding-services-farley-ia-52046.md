@@ -12,6 +12,7 @@ lng: -91.0100
 zipSample: ["52046"]
 zipCodes: ["52046"]
 localPaths: ["Dubuque County / primary ZIP 52046", "Dubuque County / elevation 1119 ft band", "Dubuque County / coords 42.4400, -91.0100", "Dubuque County / ZIP 52046 sector"]
+zillowHomeValueUsd: 306536
 ---
 
 **Engineering Notice for Farley:** Envelope check: Exterior Envelope assigned to wind-load band C with stress factor 1.21. Regional dispatch grid: Dubuque County.

@@ -11,6 +11,7 @@ lng: -76.9200
 zipSample: ["20746", "20748", "20744"]
 zipCodes: ["20748", "20746", "20744"]
 localPaths: ["Prince George's County / ZIP 20744 sector", "Prince George's County / primary ZIP 20744", "Prince George's County / ZIP 20746 sector", "Prince George's County / elevation 243 ft band", "Prince George's County / coords 38.8100, -76.9200"]
+zillowHomeValueUsd: 449013
 ---
 
 **Engineering Notice for Camp Springs:** Structural loading calculated based on 243 ft terrain assessment. Regional dispatch grid: Prince George's County.

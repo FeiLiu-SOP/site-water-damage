@@ -12,6 +12,7 @@ lng: -79.0500
 zipSample: ["24521"]
 zipCodes: ["24521"]
 localPaths: ["Amherst County / primary ZIP 24521", "Amherst County / elevation 702 ft band", "Amherst County / coords 37.5800, -79.0500", "Amherst County / ZIP 24521 sector"]
+zillowHomeValueUsd: 291606
 ---
 
 **Engineering Notice for Amherst:** Site context locked to Amherst County. Coordinates: 37.5800, -79.0500. Wall Restoration integrity verification recorded.

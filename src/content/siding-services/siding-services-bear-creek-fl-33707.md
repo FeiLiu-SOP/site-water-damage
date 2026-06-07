@@ -12,6 +12,7 @@ lng: -82.7300
 zipSample: ["33707"]
 zipCodes: ["33707"]
 localPaths: ["Pinellas County / elevation 16 ft band", "Pinellas County / ZIP 33707 sector", "Pinellas County / coords 27.7500, -82.7300", "Pinellas County / primary ZIP 33707"]
+zillowHomeValueUsd: 361635
 ---
 
 **Engineering Notice for Bear Creek:** Site context locked to Pinellas County. Elevation: 16 ft AMSL. Exterior Cladding integrity verification recorded.

@@ -12,6 +12,7 @@ lng: -111.8800
 zipSample: ["84320"]
 zipCodes: ["84320"]
 localPaths: ["Cache County / elevation 4505 ft band", "Cache County / ZIP 84320 sector", "Cache County / primary ZIP 84320", "Cache County / coords 41.9600, -111.8800"]
+zillowHomeValueUsd: 470310
 ---
 
 **Engineering Notice for Lewiston:** System optimized for 138 mg/L hard water scaling factors in Lewiston. Regional dispatch grid: Cache County.

@@ -12,6 +12,7 @@ lng: -81.6100
 zipSample: ["44108"]
 zipCodes: ["44108"]
 localPaths: ["Cuyahoga County / elevation 636 ft band", "Cuyahoga County / primary ZIP 44108", "Cuyahoga County / coords 41.5500, -81.6100", "Cuyahoga County / ZIP 44108 sector"]
+zillowHomeValueUsd: 75073
 ---
 
 **Engineering Notice for Bratenahl:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Elevation: 636 ft AMSL. Coordinates: 41.5500, -81.6100. Grid: Cuyahoga County.

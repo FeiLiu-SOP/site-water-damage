@@ -11,6 +11,7 @@ lng: -73.2600
 zipSample: ["11706"]
 zipCodes: ["11706"]
 localPaths: ["Suffolk County / primary ZIP 11706", "Suffolk County / ZIP 11706 sector", "Suffolk County / elevation 79 ft band", "Suffolk County / coords 40.7600, -73.2600"]
+zillowHomeValueUsd: 620334
 ---
 
 **Engineering Notice for North Bay Shore:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Suffolk County.

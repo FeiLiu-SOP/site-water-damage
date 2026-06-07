@@ -12,6 +12,7 @@ lng: -122.4500
 zipSample: ["94014"]
 zipCodes: ["94014"]
 localPaths: ["San Mateo County / elevation 180 ft band", "San Mateo County / coords 37.6800, -122.4500", "San Mateo County / ZIP 94014 sector", "San Mateo County / primary ZIP 94014"]
+zillowHomeValueUsd: 1017473
 ---
 
 **Engineering Notice for Colma:** System optimized for 158 mg/L hard water scaling factors in Colma. Regional dispatch grid: San Mateo County.

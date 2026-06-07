@@ -12,6 +12,7 @@ lng: -78.9800
 zipSample: ["28304", "28302", "28390", "28305", "28306"]
 zipCodes: ["28303", "28306", "28301", "28305", "28309", "28302", "28308", "28314", "28307", "28390", "28304", "28310"]
 localPaths: ["Cumberland County / ZIP 28306 sector", "Cumberland County / ZIP 28302 sector", "Cumberland County / primary ZIP 28390", "Cumberland County / elevation 233 ft band", "Cumberland County / ZIP 28390 sector"]
+zillowHomeValueUsd: 248017
 ---
 
 **Engineering Notice for Fayetteville:** Structural loading calculated based on 233 ft terrain assessment. Regional dispatch grid: Cumberland County.

@@ -12,6 +12,7 @@ lng: -82.8000
 zipSample: ["48097"]
 zipCodes: ["48097"]
 localPaths: ["St. Clair County / coords 43.1300, -82.8000", "St. Clair County / primary ZIP 48097", "St. Clair County / elevation 794 ft band", "St. Clair County / ZIP 48097 sector"]
+zillowHomeValueUsd: 247573
 ---
 
 **Engineering Notice for Yale:** System optimized for 143 mg/L hard water scaling factors in Yale. Regional dispatch grid: St. Clair County.

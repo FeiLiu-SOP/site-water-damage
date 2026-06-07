@@ -12,6 +12,7 @@ lng: -81.1300
 zipSample: ["25832"]
 zipCodes: ["25832"]
 localPaths: ["Raleigh County / ZIP 25832 sector", "Raleigh County / elevation 2480 ft band", "Raleigh County / primary ZIP 25832", "Raleigh County / coords 37.7200, -81.1300"]
+zillowHomeValueUsd: 283668
 ---
 
 **Engineering Notice for Daniels:** Exterior Cladding was validated under stress factor 1.14; target tolerance set near 92 mph. Coordinates: 37.7200, -81.1300. Grid anchor: Raleigh County.

@@ -12,6 +12,7 @@ lng: -82.2700
 zipSample: ["37620"]
 zipCodes: ["37620"]
 localPaths: ["Sullivan County / primary ZIP 37620", "Sullivan County / coords 36.5700, -82.2700", "Sullivan County / ZIP 37620 sector", "Sullivan County / elevation 1683 ft band"]
+zillowHomeValueUsd: 229911
 ---
 
 **Engineering Notice for Walnut Hill:** System optimized for 156 mg/L hard water scaling factors in Walnut Hill. Regional dispatch grid: Sullivan County.

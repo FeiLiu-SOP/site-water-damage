@@ -11,6 +11,7 @@ lng: -82.3000
 zipSample: ["29662", "29681", "29607"]
 zipCodes: ["29662", "29681", "29607"]
 localPaths: ["Greenville County / primary ZIP 29662", "Greenville County / ZIP 29681 sector", "Greenville County / coords 34.7800, -82.3000", "Greenville County / ZIP 29662 sector", "Greenville County / ZIP 29607 sector"]
+zillowHomeValueUsd: 295536
 ---
 
 **Engineering Notice for Mauldin:** Structural loading calculated based on 912 ft terrain assessment. Regional dispatch grid: Greenville County.

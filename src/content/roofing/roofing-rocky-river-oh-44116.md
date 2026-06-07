@@ -11,6 +11,7 @@ lng: -81.8500
 zipSample: ["44116"]
 zipCodes: ["44116"]
 localPaths: ["Cuyahoga County / primary ZIP 44116", "Cuyahoga County / coords 41.4700, -81.8500", "Cuyahoga County / ZIP 44116 sector", "Cuyahoga County / elevation 699 ft band"]
+zillowHomeValueUsd: 393359
 ---
 
 **Engineering Notice for Rocky River:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Cuyahoga County.

@@ -12,6 +12,7 @@ lng: -91.8500
 zipSample: ["70512", "70517", "70521"]
 zipCodes: ["70521", "70517", "70512"]
 localPaths: ["St. Martin Parish / ZIP 70517 sector", "St. Martin Parish / primary ZIP 70512", "St. Martin Parish / ZIP 70512 sector", "St. Martin Parish / coords 30.3400, -91.8500", "St. Martin Parish / ZIP 70521 sector"]
+zillowHomeValueUsd: 166372
 ---
 
 **Engineering Notice for Cecilia:** System optimized for 126 mg/L hard water scaling factors in Cecilia. Regional dispatch grid: St. Martin Parish.

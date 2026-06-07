@@ -12,6 +12,7 @@ lng: -100.8900
 zipSample: ["79226"]
 zipCodes: ["79226"]
 localPaths: ["Donley County / primary ZIP 79226", "Donley County / coords 34.9400, -100.8900", "Donley County / elevation 2749 ft band", "Donley County / ZIP 79226 sector"]
+zillowHomeValueUsd: 126112
 ---
 
 **Engineering Notice for Clarendon:** System optimized for 168 mg/L hard water scaling factors in Clarendon. Regional dispatch grid: Donley County.

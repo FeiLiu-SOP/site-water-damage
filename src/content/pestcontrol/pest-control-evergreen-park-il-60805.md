@@ -11,6 +11,7 @@ lng: -87.7000
 zipSample: ["60805"]
 zipCodes: ["60805"]
 localPaths: ["Cook County / primary ZIP 60805", "Cook County / elevation 630 ft band", "Cook County / coords 41.7200, -87.7000", "Cook County / ZIP 60805 sector"]
+zillowHomeValueUsd: 281424
 ---
 
 **Engineering Notice for Evergreen Park:** Structural loading calculated based on 630 ft terrain assessment. Regional dispatch grid: Cook County.

@@ -12,6 +12,7 @@ lng: -88.7200
 zipSample: ["39355"]
 zipCodes: ["39355"]
 localPaths: ["Clarke County / elevation 249 ft band", "Clarke County / primary ZIP 39355", "Clarke County / coords 32.0400, -88.7200", "Clarke County / ZIP 39355 sector"]
+zillowHomeValueUsd: 105504
 ---
 
 **Engineering Notice for Quitman:** structural drying capacity optimized for 249ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Clarke County. Relative Humidity Threshold: 77%. Sensor sync: Active.

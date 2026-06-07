@@ -12,6 +12,7 @@ lng: -124.0300
 zipSample: ["97367", "97388", "97341"]
 zipCodes: ["97388", "97341", "97367"]
 localPaths: ["Lincoln County / elevation 82 ft band", "Lincoln County / ZIP 97341 sector", "Lincoln County / ZIP 97388 sector", "Lincoln County / coords 44.8700, -124.0300", "Lincoln County / ZIP 97367 sector"]
+zillowHomeValueUsd: 544631
 ---
 
 **Engineering Notice for Lincoln Beach:** Weather Barrier Wrap was validated under stress factor 0.81; target tolerance set near 92 mph. Coordinates: 44.8700, -124.0300. Grid anchor: Lincoln County.

@@ -12,6 +12,7 @@ lng: -75.7900
 zipSample: ["18702"]
 zipCodes: ["18702"]
 localPaths: ["Luzerne County / coords 41.2900, -75.7900", "Luzerne County / primary ZIP 18702", "Luzerne County / elevation 991 ft band", "Luzerne County / ZIP 18702 sector"]
+zillowHomeValueUsd: 168326
 ---
 
 **Engineering Notice for Laflin:** System optimized for 130 mg/L hard water scaling factors in Laflin. Regional dispatch grid: Luzerne County.

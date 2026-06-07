@@ -12,6 +12,7 @@ lng: -83.5600
 zipSample: ["43044"]
 zipCodes: ["43044"]
 localPaths: ["Champaign County / elevation 1093 ft band", "Champaign County / coords 40.0700, -83.5600", "Champaign County / primary ZIP 43044", "Champaign County / ZIP 43044 sector"]
+zillowHomeValueUsd: 272706
 ---
 
 **Engineering Notice for Mechanicsburg:** System optimized for 149 mg/L hard water scaling factors in Mechanicsburg. Regional dispatch grid: Champaign County.

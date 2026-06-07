@@ -12,6 +12,7 @@ lng: -96.1100
 zipSample: ["75402", "75401"]
 zipCodes: ["75401", "75402"]
 localPaths: ["Hunt County / coords 33.1100, -96.1100", "Hunt County / elevation 577 ft band", "Hunt County / ZIP 75402 sector", "Hunt County / ZIP 75401 sector", "Hunt County / primary ZIP 75401"]
+zillowHomeValueUsd: 200697
 ---
 
 **Engineering Notice for Greenville:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Hunt County.

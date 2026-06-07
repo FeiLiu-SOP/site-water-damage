@@ -12,6 +12,7 @@ lng: -84.3500
 zipSample: ["49247"]
 zipCodes: ["49247"]
 localPaths: ["Lenawee County / coords 41.8600, -84.3500", "Lenawee County / ZIP 49247 sector", "Lenawee County / elevation 928 ft band", "Lenawee County / primary ZIP 49247"]
+zillowHomeValueUsd: 195975
 ---
 
 **Engineering Notice for Hudson:** System optimized for 139 mg/L hard water scaling factors in Hudson. Regional dispatch grid: Lenawee County.

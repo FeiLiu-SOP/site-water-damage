@@ -12,6 +12,7 @@ lng: -151.2900
 zipSample: ["99603"]
 zipCodes: ["99603"]
 localPaths: ["Kenai Peninsula County / ZIP 99603 sector", "Kenai Peninsula County / elevation 1280 ft band", "Kenai Peninsula County / primary ZIP 99603", "Kenai Peninsula County / coords 59.7500, -151.2900"]
+zillowHomeValueUsd: 397517
 ---
 
 **Engineering Notice for Fritz Creek:** structural drying capacity optimized for 1280ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Kenai Peninsula County. Relative Humidity Threshold: 82%. Sensor sync: Active.

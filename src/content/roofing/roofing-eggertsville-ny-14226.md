@@ -11,6 +11,7 @@ lng: -78.8100
 zipSample: ["14226"]
 zipCodes: ["14226"]
 localPaths: ["Erie County / coords 42.9700, -78.8100", "Erie County / primary ZIP 14226", "Erie County / elevation 630 ft band", "Erie County / ZIP 14226 sector"]
+zillowHomeValueUsd: 310867
 ---
 
 **Engineering Notice for Eggertsville:** Structural loading calculated based on 630 ft terrain assessment. Regional dispatch grid: Erie County.

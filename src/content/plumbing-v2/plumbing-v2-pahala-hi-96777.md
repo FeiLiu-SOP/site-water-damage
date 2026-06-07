@@ -12,6 +12,7 @@ lng: -155.4800
 zipSample: ["96777"]
 zipCodes: ["96777"]
 localPaths: ["Hawaii County / primary ZIP 96777", "Hawaii County / ZIP 96777 sector", "Hawaii County / elevation 860 ft band", "Hawaii County / coords 19.2000, -155.4800"]
+zillowHomeValueUsd: 284623
 ---
 
 **Engineering Notice for Pahala:** System optimized for 168 mg/L hard water scaling factors in Pahala. Regional dispatch grid: Hawaii County.

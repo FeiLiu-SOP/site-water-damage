@@ -11,6 +11,7 @@ lng: -119.2900
 zipSample: ["97838"]
 zipCodes: ["97838"]
 localPaths: ["Umatilla County / elevation 486 ft band", "Umatilla County / primary ZIP 97838", "Umatilla County / coords 45.8300, -119.2900", "Umatilla County / ZIP 97838 sector"]
+zillowHomeValueUsd: 340762
 ---
 
 **Engineering Notice for Hermiston:** Structural loading calculated based on 486 ft terrain assessment. Regional dispatch grid: Umatilla County.

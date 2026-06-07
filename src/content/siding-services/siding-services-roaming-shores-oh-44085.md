@@ -12,6 +12,7 @@ lng: -80.8200
 zipSample: ["44084", "44085"]
 zipCodes: ["44084", "44085"]
 localPaths: ["Ashtabula County / primary ZIP 44085", "Ashtabula County / coords 41.6400, -80.8200", "Ashtabula County / ZIP 44084 sector", "Ashtabula County / elevation 846 ft band", "Ashtabula County / ZIP 44085 sector"]
+zillowHomeValueUsd: 247167
 ---
 
 **Engineering Notice for Roaming Shores:** Structural integrity verification: Facade Renewal calibrated for 99 mph localized wind load factor. Regional dispatch grid: Ashtabula County.

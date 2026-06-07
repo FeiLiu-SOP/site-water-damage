@@ -12,6 +12,7 @@ lng: -105.2700
 zipSample: ["80540"]
 zipCodes: ["80540"]
 localPaths: ["Boulder County / ZIP 80540 sector", "Boulder County / coords 40.2200, -105.2700", "Boulder County / primary ZIP 80540", "Boulder County / elevation 5361 ft band"]
+zillowHomeValueUsd: 748440
 ---
 
 **Engineering Notice for Lyons:** structural drying capacity optimized for 5361ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Boulder County. Relative Humidity Threshold: 79%. Sensor sync: Active.

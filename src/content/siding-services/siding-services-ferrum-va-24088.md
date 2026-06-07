@@ -12,6 +12,7 @@ lng: -80.0100
 zipSample: ["24088"]
 zipCodes: ["24088"]
 localPaths: ["Franklin County / coords 36.9300, -80.0100", "Franklin County / ZIP 24088 sector", "Franklin County / elevation 1424 ft band", "Franklin County / primary ZIP 24088"]
+zillowHomeValueUsd: 251943
 ---
 
 **Engineering Notice for Ferrum:** Structural integrity verification: Exterior Envelope calibrated for 109 mph localized wind load factor. Coordinates: 36.9300, -80.0100. Regional dispatch grid: Franklin County.

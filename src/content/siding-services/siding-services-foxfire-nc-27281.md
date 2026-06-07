@@ -12,6 +12,7 @@ lng: -79.5600
 zipSample: ["27376", "27281"]
 zipCodes: ["27376", "27281"]
 localPaths: ["Moore County / elevation 486 ft band", "Moore County / ZIP 27376 sector", "Moore County / primary ZIP 27281", "Moore County / coords 35.1800, -79.5600", "Moore County / ZIP 27281 sector"]
+zillowHomeValueUsd: 370443
 ---
 
 **Engineering Notice for Foxfire:** Exterior Envelope was validated under stress factor 0.78; target tolerance set near 96 mph. Coordinates: 35.1800, -79.5600. Grid anchor: Moore County.

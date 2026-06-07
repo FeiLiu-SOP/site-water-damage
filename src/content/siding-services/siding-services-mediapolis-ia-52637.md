@@ -12,6 +12,7 @@ lng: -91.1600
 zipSample: ["52637"]
 zipCodes: ["52637"]
 localPaths: ["Des Moines County / ZIP 52637 sector", "Des Moines County / elevation 778 ft band", "Des Moines County / primary ZIP 52637", "Des Moines County / coords 41.0100, -91.1600"]
+zillowHomeValueUsd: 207473
 ---
 
 **Engineering Notice for Mediapolis:** Site context locked to Des Moines County. Elevation: 778 ft AMSL. Coordinates: 41.0100, -91.1600. Weather Barrier Wrap integrity verification recorded.

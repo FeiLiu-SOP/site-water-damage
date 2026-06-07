@@ -12,6 +12,7 @@ lng: -85.4400
 zipSample: ["36301"]
 zipCodes: ["36301"]
 localPaths: ["Houston County / elevation 249 ft band", "Houston County / coords 31.1200, -85.4400", "Houston County / primary ZIP 36301", "Houston County / ZIP 36301 sector"]
+zillowHomeValueUsd: 181243
 ---
 
 **Engineering Notice for Rehobeth:** System optimized for 163 mg/L hard water scaling factors in Rehobeth. Regional dispatch grid: Houston County.

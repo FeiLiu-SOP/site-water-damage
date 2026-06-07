@@ -12,6 +12,7 @@ lng: -75.2500
 zipSample: ["19082"]
 zipCodes: ["19082"]
 localPaths: ["Delaware County / elevation 125 ft band", "Delaware County / ZIP 19082 sector", "Delaware County / primary ZIP 19082", "Delaware County / coords 39.9600, -75.2500"]
+zillowHomeValueUsd: 201355
 ---
 
 **Engineering Notice for Millbourne:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Coordinates: 39.9600, -75.2500. Grid: Delaware County.

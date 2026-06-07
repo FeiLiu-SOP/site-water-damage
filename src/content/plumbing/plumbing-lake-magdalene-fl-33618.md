@@ -12,6 +12,7 @@ lng: -82.4800
 zipSample: ["33694", "33618", "33613", "33612", "33682"]
 zipCodes: ["33613", "33612", "33694", "33682", "33618"]
 localPaths: ["Hillsborough County / primary ZIP 33618", "Hillsborough County / ZIP 33618 sector", "Hillsborough County / ZIP 33612 sector", "Hillsborough County / elevation 52 ft band", "Hillsborough County / ZIP 33682 sector"]
+zillowHomeValueUsd: 470245
 ---
 
 **Engineering Notice for Lake Magdalene:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Hillsborough County.

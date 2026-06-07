@@ -12,6 +12,7 @@ lng: -90.0000
 zipSample: ["61531"]
 zipCodes: ["61531"]
 localPaths: ["Fulton County / coords 40.7000, -90.0000", "Fulton County / elevation 741 ft band", "Fulton County / primary ZIP 61531", "Fulton County / ZIP 61531 sector"]
+zillowHomeValueUsd: 113590
 ---
 
 **Engineering Notice for Farmington:** System optimized for 146 mg/L hard water scaling factors in Farmington. Regional dispatch grid: Fulton County.

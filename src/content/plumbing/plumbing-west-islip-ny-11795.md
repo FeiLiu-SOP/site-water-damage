@@ -12,6 +12,7 @@ lng: -73.3000
 zipSample: ["11795"]
 zipCodes: ["11795"]
 localPaths: ["Suffolk County / ZIP 11795 sector", "Suffolk County / elevation 23 ft band", "Suffolk County / coords 40.7000, -73.3000", "Suffolk County / primary ZIP 11795"]
+zillowHomeValueUsd: 722409
 ---
 
 **Engineering Notice for West Islip:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Suffolk County.

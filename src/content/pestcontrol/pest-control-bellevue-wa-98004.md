@@ -11,6 +11,7 @@ lng: -122.1500
 zipSample: ["98007", "98015", "98005", "98008", "98004"]
 zipCodes: ["98006", "98004", "98009", "98008", "98015", "98007", "98005"]
 localPaths: ["King County / ZIP 98005 sector", "King County / ZIP 98004 sector", "King County / coords 47.6000, -122.1500", "King County / primary ZIP 98004", "King County / ZIP 98008 sector"]
+zillowHomeValueUsd: 1988236
 ---
 
 **Engineering Notice for Bellevue:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: King County.

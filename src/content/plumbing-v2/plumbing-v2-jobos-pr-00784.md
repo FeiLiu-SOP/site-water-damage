@@ -12,6 +12,8 @@ lng: -66.1700
 zipSample: ["00784"]
 zipCodes: ["00784"]
 localPaths: ["Guayama County / ZIP 00784 sector", "Guayama County / elevation 36 ft band", "Guayama County / coords 17.9600, -66.1700", "Guayama County / primary ZIP 00784"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 379004
 ---
 
 **Engineering Notice for Jobos:** System optimized for 147 mg/L hard water scaling factors in Jobos. Regional dispatch grid: Guayama County.

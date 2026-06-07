@@ -12,6 +12,7 @@ lng: -75.9900
 zipSample: ["19609"]
 zipCodes: ["19609"]
 localPaths: ["Berks County / ZIP 19609 sector", "Berks County / primary ZIP 19609", "Berks County / elevation 322 ft band", "Berks County / coords 40.3100, -75.9900"]
+zillowHomeValueUsd: 287505
 ---
 
 **Engineering Notice for Lincoln Park:** System optimized for 139 mg/L hard water scaling factors in Lincoln Park. Regional dispatch grid: Berks County.

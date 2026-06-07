@@ -12,6 +12,7 @@ lng: -122.9200
 zipSample: ["98626", "98632"]
 zipCodes: ["98632", "98626"]
 localPaths: ["Cowlitz County / ZIP 98632 sector", "Cowlitz County / primary ZIP 98626", "Cowlitz County / elevation 266 ft band", "Cowlitz County / coords 46.1800, -122.9200", "Cowlitz County / ZIP 98626 sector"]
+zillowHomeValueUsd: 385851
 ---
 
 **Engineering Notice for Beacon Hill:** System optimized for 126 mg/L hard water scaling factors in Beacon Hill. Regional dispatch grid: Cowlitz County.

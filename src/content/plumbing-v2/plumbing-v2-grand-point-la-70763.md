@@ -12,6 +12,7 @@ lng: -90.7500
 zipSample: ["70763"]
 zipCodes: ["70763"]
 localPaths: ["St. James Parish / coords 30.0500, -90.7500", "St. James Parish / ZIP 70763 sector", "St. James Parish / primary ZIP 70763", "St. James Parish / elevation 13 ft band"]
+zillowHomeValueUsd: 309252
 ---
 
 **Engineering Notice for Grand Point:** System optimized for 153 mg/L hard water scaling factors in Grand Point. Regional dispatch grid: St. James Parish.

@@ -11,6 +11,7 @@ lng: -81.3500
 zipSample: ["32824"]
 zipCodes: ["32824"]
 localPaths: ["Orange County / primary ZIP 32824", "Orange County / ZIP 32824 sector", "Orange County / coords 28.3700, -81.3500", "Orange County / elevation 79 ft band"]
+zillowHomeValueUsd: 402707
 ---
 
 **Engineering Notice for Meadow Woods:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Orange County.

@@ -11,6 +11,7 @@ lng: -88.5600
 zipSample: ["54901", "54906", "54904", "54903", "54902"]
 zipCodes: ["54901", "54902", "54985", "54903", "54906", "54904"]
 localPaths: ["Winnebago County / coords 44.0200, -88.5600", "Winnebago County / ZIP 54901 sector", "Winnebago County / elevation 745 ft band", "Winnebago County / primary ZIP 54985", "Winnebago County / ZIP 54906 sector"]
+zillowHomeValueUsd: 222249
 ---
 
 **Engineering Notice for Oshkosh:** Structural loading calculated based on 745 ft terrain assessment. Regional dispatch grid: Winnebago County.

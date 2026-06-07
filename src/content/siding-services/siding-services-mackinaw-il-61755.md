@@ -12,6 +12,7 @@ lng: -89.3600
 zipSample: ["61755"]
 zipCodes: ["61755"]
 localPaths: ["Tazewell County / elevation 659 ft band", "Tazewell County / ZIP 61755 sector", "Tazewell County / coords 40.5300, -89.3600", "Tazewell County / primary ZIP 61755"]
+zillowHomeValueUsd: 250197
 ---
 
 **Engineering Notice for Mackinaw:** Cladding verification uses 90 mph routing baseline; lateral pressure note: 12.0 psf. Coordinates: 40.5300, -89.3600. Grid: Tazewell County.

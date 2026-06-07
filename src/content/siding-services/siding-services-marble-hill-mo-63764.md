@@ -12,6 +12,7 @@ lng: -89.9800
 zipSample: ["63764"]
 zipCodes: ["63764"]
 localPaths: ["Bollinger County / ZIP 63764 sector", "Bollinger County / primary ZIP 63764", "Bollinger County / coords 37.3000, -89.9800", "Bollinger County / elevation 430 ft band"]
+zillowHomeValueUsd: 186204
 ---
 
 **Engineering Notice for Marble Hill:** Envelope check: Panel Replacement assigned to wind-load band C with stress factor 1.02. Elevation: 430 ft AMSL. Regional dispatch grid: Bollinger County.

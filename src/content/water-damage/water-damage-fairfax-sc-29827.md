@@ -12,6 +12,7 @@ lng: -81.2400
 zipSample: ["29827"]
 zipCodes: ["29827"]
 localPaths: ["Allendale County / coords 32.9600, -81.2400", "Allendale County / primary ZIP 29827", "Allendale County / elevation 148 ft band", "Allendale County / ZIP 29827 sector"]
+zillowHomeValueUsd: 86404
 ---
 
 **Engineering Notice for Fairfax:** structural drying capacity optimized for 148ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Allendale County. Relative Humidity Threshold: 76%. Sensor sync: Active.

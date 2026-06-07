@@ -12,6 +12,7 @@ lng: -75.1500
 zipSample: ["08090"]
 zipCodes: ["08090"]
 localPaths: ["Gloucester County / coords 39.7900, -75.1500", "Gloucester County / primary ZIP 08090", "Gloucester County / ZIP 08090 sector", "Gloucester County / elevation 82 ft band"]
+zillowHomeValueUsd: 362633
 ---
 
 **Engineering Notice for Wenonah:** Surface Sheathing was validated under stress factor 1.10; target tolerance set near 95 mph. Coordinates: 39.7900, -75.1500. Grid anchor: Gloucester County.

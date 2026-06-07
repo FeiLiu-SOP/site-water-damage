@@ -12,6 +12,7 @@ lng: -104.7400
 zipSample: ["80610"]
 zipCodes: ["80610"]
 localPaths: ["Weld County / coords 40.5900, -104.7400", "Weld County / elevation 4954 ft band", "Weld County / ZIP 80610 sector", "Weld County / primary ZIP 80610"]
+zillowHomeValueUsd: 441174
 ---
 
 **Engineering Notice for Ault:** System optimized for 158 mg/L hard water scaling factors in Ault. Regional dispatch grid: Weld County.

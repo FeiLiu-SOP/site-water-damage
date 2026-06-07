@@ -12,6 +12,7 @@ lng: -86.5300
 zipSample: ["47451"]
 zipCodes: ["47451"]
 localPaths: ["Lawrence County / ZIP 47451 sector", "Lawrence County / primary ZIP 47451", "Lawrence County / elevation 568 ft band", "Lawrence County / coords 38.8900, -86.5300"]
+zillowHomeValueUsd: 173726
 ---
 
 **Engineering Notice for Oolitic:** Structural integrity verification: Surface Sheathing calibrated for 104 mph localized wind load factor. Regional dispatch grid: Lawrence County.

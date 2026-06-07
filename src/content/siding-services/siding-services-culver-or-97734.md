@@ -12,6 +12,7 @@ lng: -121.2100
 zipSample: ["97734"]
 zipCodes: ["97734"]
 localPaths: ["Jefferson County / coords 44.5200, -121.2100", "Jefferson County / ZIP 97734 sector", "Jefferson County / elevation 2635 ft band", "Jefferson County / primary ZIP 97734"]
+zillowHomeValueUsd: 408830
 ---
 
 **Engineering Notice for Culver:** Site context locked to Jefferson County. Vinyl Panels integrity verification recorded.

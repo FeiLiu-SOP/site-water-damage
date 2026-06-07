@@ -12,6 +12,7 @@ lng: -89.5600
 zipSample: ["54481"]
 zipCodes: ["54481"]
 localPaths: ["Portage County / coords 44.4900, -89.5600", "Portage County / ZIP 54481 sector", "Portage County / elevation 1063 ft band", "Portage County / primary ZIP 54481"]
+zillowHomeValueUsd: 254679
 ---
 
 **Engineering Notice for Whiting:** System optimized for 178 mg/L hard water scaling factors in Whiting. Regional dispatch grid: Portage County.

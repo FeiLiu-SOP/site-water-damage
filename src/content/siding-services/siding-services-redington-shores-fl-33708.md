@@ -12,6 +12,7 @@ lng: -82.8300
 zipSample: ["33730", "33708"]
 zipCodes: ["33708", "33730"]
 localPaths: ["Pinellas County / ZIP 33730 sector", "Pinellas County / elevation 0 ft band", "Pinellas County / primary ZIP 33708", "Pinellas County / ZIP 33708 sector", "Pinellas County / coords 27.8300, -82.8300"]
+zillowHomeValueUsd: 507668
 ---
 
 **Engineering Notice for Redington Shores:** Envelope check: Weather Barrier Wrap assigned to wind-load band A with stress factor 1.20. Regional dispatch grid: Pinellas County.

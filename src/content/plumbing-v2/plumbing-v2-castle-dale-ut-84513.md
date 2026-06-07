@@ -12,6 +12,7 @@ lng: -111.0200
 zipSample: ["84513"]
 zipCodes: ["84513"]
 localPaths: ["Emery County / coords 39.2200, -111.0200", "Emery County / primary ZIP 84513", "Emery County / ZIP 84513 sector", "Emery County / elevation 5801 ft band"]
+zillowHomeValueUsd: 301079
 ---
 
 **Engineering Notice for Castle Dale:** System optimized for 122 mg/L hard water scaling factors in Castle Dale. Regional dispatch grid: Emery County.

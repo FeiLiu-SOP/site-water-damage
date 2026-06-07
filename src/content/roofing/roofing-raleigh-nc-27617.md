@@ -11,6 +11,7 @@ lng: -78.6400
 zipSample: ["27697", "27607", "27622", "27636", "27676"]
 zipCodes: ["27610", "27616", "27608", "27620", "27602", "27624", "27606", "27627", "27626", "27650", "27617", "27690"]
 localPaths: ["Wake County / ZIP 27697 sector", "Wake County / coords 35.8300, -78.6400", "Wake County / elevation 344 ft band", "Wake County / ZIP 27676 sector", "Wake County / ZIP 27622 sector"]
+zillowHomeValueUsd: 443675
 ---
 
 **Engineering Notice for Raleigh:** Structural loading calculated based on 344 ft terrain assessment. Regional dispatch grid: Wake County.

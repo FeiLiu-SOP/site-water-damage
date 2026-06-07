@@ -12,6 +12,7 @@ lng: -118.4800
 zipSample: ["90402", "90406", "90403", "90401", "90409"]
 zipCodes: ["90411", "90410", "90407", "90406", "90401", "90405", "90409", "90402", "90408", "90403", "90404"]
 localPaths: ["Los Angeles County / ZIP 90406 sector", "Los Angeles County / elevation 135 ft band", "Los Angeles County / ZIP 90401 sector", "Los Angeles County / primary ZIP 90401", "Los Angeles County / ZIP 90403 sector"]
+zillowHomeValueUsd: 1317937
 ---
 
 **Engineering Notice for Santa Monica:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Los Angeles County.

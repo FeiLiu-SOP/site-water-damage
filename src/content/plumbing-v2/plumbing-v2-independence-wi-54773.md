@@ -12,6 +12,7 @@ lng: -91.4200
 zipSample: ["54612", "54747", "54773"]
 zipCodes: ["54747", "54773", "54612"]
 localPaths: ["Trempealeau County / ZIP 54747 sector", "Trempealeau County / ZIP 54612 sector", "Trempealeau County / coords 44.3300, -91.4200", "Trempealeau County / ZIP 54773 sector", "Trempealeau County / elevation 810 ft band"]
+zillowHomeValueUsd: 228791
 ---
 
 **Engineering Notice for Independence:** System optimized for 126 mg/L hard water scaling factors in Independence. Regional dispatch grid: Trempealeau County.

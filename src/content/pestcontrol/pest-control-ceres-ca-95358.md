@@ -11,6 +11,7 @@ lng: -120.9600
 zipSample: ["95351", "95358", "95307"]
 zipCodes: ["95351", "95307", "95358"]
 localPaths: ["Stanislaus County / primary ZIP 95358", "Stanislaus County / elevation 82 ft band", "Stanislaus County / ZIP 95307 sector", "Stanislaus County / ZIP 95351 sector", "Stanislaus County / ZIP 95358 sector"]
+zillowHomeValueUsd: 434057
 ---
 
 **Engineering Notice for Ceres:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Stanislaus County.

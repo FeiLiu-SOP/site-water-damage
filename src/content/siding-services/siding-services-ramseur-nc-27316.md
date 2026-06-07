@@ -12,6 +12,7 @@ lng: -79.6500
 zipSample: ["27316"]
 zipCodes: ["27316"]
 localPaths: ["Randolph County / primary ZIP 27316", "Randolph County / ZIP 27316 sector", "Randolph County / coords 35.7400, -79.6500", "Randolph County / elevation 525 ft band"]
+zillowHomeValueUsd: 230534
 ---
 
 **Engineering Notice for Ramseur:** Envelope check: Surface Sheathing assigned to wind-load band C with stress factor 0.81. Regional dispatch grid: Randolph County.

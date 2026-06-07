@@ -12,6 +12,7 @@ lng: -95.1500
 zipSample: ["56360"]
 zipCodes: ["56360"]
 localPaths: ["Douglas County / elevation 1358 ft band", "Douglas County / primary ZIP 56360", "Douglas County / ZIP 56360 sector", "Douglas County / coords 45.8600, -95.1500"]
+zillowHomeValueUsd: 273713
 ---
 
 **Engineering Notice for Osakis:** System optimized for 124 mg/L hard water scaling factors in Osakis. Regional dispatch grid: Douglas County.

@@ -11,6 +11,7 @@ lng: -103.1600
 zipSample: ["88244", "88240"]
 zipCodes: ["88244", "88240"]
 localPaths: ["Lea County / primary ZIP 88240", "Lea County / ZIP 88240 sector", "Lea County / ZIP 88244 sector", "Lea County / elevation 3648 ft band", "Lea County / coords 32.7300, -103.1600"]
+zillowHomeValueUsd: 191268
 ---
 
 **Engineering Notice for Hobbs:** Structural loading calculated based on 3648 ft terrain assessment. Regional dispatch grid: Lea County.

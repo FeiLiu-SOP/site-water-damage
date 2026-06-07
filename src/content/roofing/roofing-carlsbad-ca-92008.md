@@ -11,6 +11,7 @@ lng: -117.2800
 zipSample: ["92008", "92009", "92013", "92011", "92010"]
 zipCodes: ["92011", "92018", "92008", "92009", "92010", "92013"]
 localPaths: ["San Diego County / ZIP 92011 sector", "San Diego County / ZIP 92008 sector", "San Diego County / ZIP 92010 sector", "San Diego County / coords 33.1200, -117.2800", "San Diego County / elevation 305 ft band"]
+zillowHomeValueUsd: 1309751
 ---
 
 **Engineering Notice for Carlsbad:** Structural loading calculated based on 305 ft terrain assessment. Regional dispatch grid: San Diego County.

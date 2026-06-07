@@ -12,6 +12,7 @@ lng: -92.1100
 zipSample: ["70507", "70583", "70520"]
 zipCodes: ["70507", "70583", "70520"]
 localPaths: ["Lafayette Parish / elevation 46 ft band", "Lafayette Parish / ZIP 70583 sector", "Lafayette Parish / ZIP 70520 sector", "Lafayette Parish / coords 30.2800, -92.1100", "Lafayette Parish / ZIP 70507 sector"]
+zillowHomeValueUsd: 211682
 ---
 
 **Engineering Notice for Ossun:** System optimized for 147 mg/L hard water scaling factors in Ossun. Regional dispatch grid: Lafayette Parish.

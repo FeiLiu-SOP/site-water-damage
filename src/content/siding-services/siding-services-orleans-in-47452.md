@@ -12,6 +12,7 @@ lng: -86.4500
 zipSample: ["47452"]
 zipCodes: ["47452"]
 localPaths: ["Orange County / primary ZIP 47452", "Orange County / elevation 633 ft band", "Orange County / coords 38.6600, -86.4500", "Orange County / ZIP 47452 sector"]
+zillowHomeValueUsd: 194165
 ---
 
 **Engineering Notice for Orleans:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Coordinates: 38.6600, -86.4500. Grid: Orange County.

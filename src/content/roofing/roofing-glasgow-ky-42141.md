@@ -11,6 +11,7 @@ lng: -85.9300
 zipSample: ["42142", "42141"]
 zipCodes: ["42141", "42142"]
 localPaths: ["Barren County / elevation 774 ft band", "Barren County / ZIP 42142 sector", "Barren County / coords 37.0000, -85.9300", "Barren County / primary ZIP 42141", "Barren County / ZIP 42141 sector"]
+zillowHomeValueUsd: 214548
 ---
 
 **Engineering Notice for Glasgow:** Structural loading calculated based on 774 ft terrain assessment. Regional dispatch grid: Barren County.

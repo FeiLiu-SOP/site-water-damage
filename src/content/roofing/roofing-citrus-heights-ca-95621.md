@@ -11,6 +11,7 @@ lng: -121.2900
 zipSample: ["95611", "95621", "95610"]
 zipCodes: ["95621", "95610", "95611"]
 localPaths: ["Sacramento County / ZIP 95611 sector", "Sacramento County / elevation 157 ft band", "Sacramento County / primary ZIP 95621", "Sacramento County / ZIP 95610 sector", "Sacramento County / ZIP 95621 sector"]
+zillowHomeValueUsd: 454280
 ---
 
 **Engineering Notice for Citrus Heights:** Structural loading calculated based on 157 ft terrain assessment. Regional dispatch grid: Sacramento County.

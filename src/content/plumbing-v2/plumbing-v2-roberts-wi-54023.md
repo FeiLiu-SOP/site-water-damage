@@ -12,6 +12,7 @@ lng: -92.5500
 zipSample: ["54023"]
 zipCodes: ["54023"]
 localPaths: ["St. Croix County / elevation 978 ft band", "St. Croix County / coords 44.9700, -92.5500", "St. Croix County / primary ZIP 54023", "St. Croix County / ZIP 54023 sector"]
+zillowHomeValueUsd: 411180
 ---
 
 **Engineering Notice for Roberts:** System optimized for 164 mg/L hard water scaling factors in Roberts. Regional dispatch grid: St. Croix County.

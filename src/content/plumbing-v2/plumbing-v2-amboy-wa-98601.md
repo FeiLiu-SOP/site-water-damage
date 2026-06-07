@@ -12,6 +12,7 @@ lng: -122.4800
 zipSample: ["98675", "98601"]
 zipCodes: ["98601", "98675"]
 localPaths: ["Clark County / elevation 787 ft band", "Clark County / ZIP 98675 sector", "Clark County / ZIP 98601 sector", "Clark County / coords 45.9100, -122.4800", "Clark County / primary ZIP 98601"]
+zillowHomeValueUsd: 703397
 ---
 
 **Engineering Notice for Amboy:** System optimized for 173 mg/L hard water scaling factors in Amboy. Regional dispatch grid: Clark County.

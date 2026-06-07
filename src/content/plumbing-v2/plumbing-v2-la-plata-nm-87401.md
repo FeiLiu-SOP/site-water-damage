@@ -12,6 +12,7 @@ lng: -108.2000
 zipSample: ["87401", "87418"]
 zipCodes: ["87418", "87401"]
 localPaths: ["San Juan County / ZIP 87418 sector", "San Juan County / elevation 5732 ft band", "San Juan County / coords 36.9000, -108.2000", "San Juan County / ZIP 87401 sector", "San Juan County / primary ZIP 87401"]
+zillowHomeValueUsd: 265340
 ---
 
 **Engineering Notice for La Plata:** System optimized for 168 mg/L hard water scaling factors in La Plata. Regional dispatch grid: San Juan County.

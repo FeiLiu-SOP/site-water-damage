@@ -11,6 +11,7 @@ lng: -80.4100
 zipSample: ["33327", "33326", "33331", "33332"]
 zipCodes: ["33331", "33327", "33326", "33332"]
 localPaths: ["Broward County / coords 26.1000, -80.4100", "Broward County / ZIP 33326 sector", "Broward County / ZIP 33327 sector", "Broward County / elevation 23 ft band", "Broward County / primary ZIP 33326"]
+zillowHomeValueUsd: 559095
 ---
 
 **Engineering Notice for Weston:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Broward County.

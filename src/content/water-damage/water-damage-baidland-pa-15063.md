@@ -12,6 +12,7 @@ lng: -79.9500
 zipSample: ["15063"]
 zipCodes: ["15063"]
 localPaths: ["Washington County / coords 40.1900, -79.9500", "Washington County / ZIP 15063 sector", "Washington County / elevation 1099 ft band", "Washington County / primary ZIP 15063"]
+zillowHomeValueUsd: 148403
 ---
 
 **Engineering Notice for Baidland:** structural drying capacity optimized for 1099ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Washington County. Relative Humidity Threshold: 71%. Sensor sync: Active.

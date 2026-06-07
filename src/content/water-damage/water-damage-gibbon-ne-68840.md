@@ -12,6 +12,7 @@ lng: -98.8500
 zipSample: ["68840"]
 zipCodes: ["68840"]
 localPaths: ["Buffalo County / coords 40.7500, -98.8500", "Buffalo County / elevation 2070 ft band", "Buffalo County / primary ZIP 68840", "Buffalo County / ZIP 68840 sector"]
+zillowHomeValueUsd: 254901
 ---
 
 **Engineering Notice for Gibbon:** structural drying capacity optimized for 2070ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Buffalo County. Relative Humidity Threshold: 82%. Sensor sync: Active.

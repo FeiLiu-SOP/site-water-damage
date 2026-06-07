@@ -12,6 +12,7 @@ lng: -88.5500
 zipSample: ["39595", "39568", "39581", "39569", "39567"]
 zipCodes: ["39568", "39569", "39567", "39581", "39595"]
 localPaths: ["Jackson County / elevation 20 ft band", "Jackson County / ZIP 39568 sector", "Jackson County / ZIP 39595 sector", "Jackson County / primary ZIP 39581", "Jackson County / ZIP 39567 sector"]
+zillowHomeValueUsd: 139293
 ---
 
 **Engineering Notice for Pascagoula:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Jackson County.

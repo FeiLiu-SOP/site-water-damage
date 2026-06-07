@@ -11,6 +11,7 @@ lng: -81.4500
 zipSample: ["44087"]
 zipCodes: ["44087"]
 localPaths: ["Summit County / ZIP 44087 sector", "Summit County / elevation 971 ft band", "Summit County / coords 41.3200, -81.4500", "Summit County / primary ZIP 44087"]
+zillowHomeValueUsd: 353566
 ---
 
 **Engineering Notice for Twinsburg:** Structural loading calculated based on 971 ft terrain assessment. Regional dispatch grid: Summit County.

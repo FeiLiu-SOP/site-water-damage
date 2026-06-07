@@ -11,6 +11,7 @@ lng: -73.6400
 zipSample: ["11501"]
 zipCodes: ["11501"]
 localPaths: ["Nassau County / coords 40.7500, -73.6400", "Nassau County / elevation 118 ft band", "Nassau County / ZIP 11501 sector", "Nassau County / primary ZIP 11501"]
+zillowHomeValueUsd: 814874
 ---
 
 **Engineering Notice for Mineola:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Nassau County.

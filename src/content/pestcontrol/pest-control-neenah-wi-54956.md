@@ -11,6 +11,7 @@ lng: -88.4800
 zipSample: ["54957", "54956"]
 zipCodes: ["54957", "54956"]
 localPaths: ["Winnebago County / ZIP 54957 sector", "Winnebago County / primary ZIP 54956", "Winnebago County / coords 44.1700, -88.4800", "Winnebago County / elevation 751 ft band", "Winnebago County / ZIP 54956 sector"]
+zillowHomeValueUsd: 341626
 ---
 
 **Engineering Notice for Neenah:** Structural loading calculated based on 751 ft terrain assessment. Regional dispatch grid: Winnebago County.

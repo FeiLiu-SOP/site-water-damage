@@ -12,6 +12,7 @@ lng: -90.1400
 zipSample: ["39667"]
 zipCodes: ["39667"]
 localPaths: ["Walthall County / coords 31.1200, -90.1400", "Walthall County / ZIP 39667 sector", "Walthall County / elevation 331 ft band", "Walthall County / primary ZIP 39667"]
+zillowHomeValueUsd: 150822
 ---
 
 **Engineering Notice for Tylertown:** Envelope check: Exterior Cladding assigned to wind-load band C with stress factor 1.03. Regional dispatch grid: Walthall County.

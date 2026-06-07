@@ -12,6 +12,7 @@ lng: -77.0800
 zipSample: ["28584"]
 zipCodes: ["28584"]
 localPaths: ["Carteret County / elevation 23 ft band", "Carteret County / ZIP 28584 sector", "Carteret County / coords 34.6900, -77.0800", "Carteret County / primary ZIP 28584"]
+zillowHomeValueUsd: 401292
 ---
 
 **Engineering Notice for Cedar Point:** Site context locked to Carteret County. Elevation: 23 ft AMSL. Vinyl Panels integrity verification recorded.

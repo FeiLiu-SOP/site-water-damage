@@ -12,6 +12,7 @@ lng: -84.8700
 zipSample: ["31804"]
 zipCodes: ["31804"]
 localPaths: ["Harris County / coords 32.6600, -84.8700", "Harris County / ZIP 31804 sector", "Harris County / primary ZIP 31804", "Harris County / elevation 709 ft band"]
+zillowHomeValueUsd: 374571
 ---
 
 **Engineering Notice for Cataula:** System optimized for 179 mg/L hard water scaling factors in Cataula. Regional dispatch grid: Harris County.

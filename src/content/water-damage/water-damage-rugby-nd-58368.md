@@ -12,6 +12,7 @@ lng: -99.9900
 zipSample: ["58368"]
 zipCodes: ["58368"]
 localPaths: ["Pierce County / primary ZIP 58368", "Pierce County / elevation 1532 ft band", "Pierce County / ZIP 58368 sector", "Pierce County / coords 48.3700, -99.9900"]
+zillowHomeValueUsd: 199762
 ---
 
 **Engineering Notice for Rugby:** structural drying capacity optimized for 1532ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Pierce County. Relative Humidity Threshold: 70%. Sensor sync: Active.

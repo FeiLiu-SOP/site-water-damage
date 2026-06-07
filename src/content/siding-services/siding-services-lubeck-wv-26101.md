@@ -12,6 +12,7 @@ lng: -81.6300
 zipSample: ["26181", "26101"]
 zipCodes: ["26181", "26101"]
 localPaths: ["Wood County / ZIP 26101 sector", "Wood County / primary ZIP 26101", "Wood County / coords 39.2300, -81.6300", "Wood County / elevation 860 ft band", "Wood County / ZIP 26181 sector"]
+zillowHomeValueUsd: 132864
 ---
 
 **Engineering Notice for Lubeck:** Structural integrity verification: Wall Restoration calibrated for 93 mph localized wind load factor. Coordinates: 39.2300, -81.6300. Regional dispatch grid: Wood County.

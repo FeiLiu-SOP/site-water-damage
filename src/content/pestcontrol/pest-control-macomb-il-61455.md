@@ -11,6 +11,7 @@ lng: -90.6800
 zipSample: ["61455"]
 zipCodes: ["61455"]
 localPaths: ["McDonough County / elevation 643 ft band", "McDonough County / ZIP 61455 sector", "McDonough County / coords 40.4700, -90.6800", "McDonough County / primary ZIP 61455"]
+zillowHomeValueUsd: 105421
 ---
 
 **Engineering Notice for Macomb:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: McDonough County.

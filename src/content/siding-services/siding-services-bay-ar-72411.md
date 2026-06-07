@@ -12,6 +12,7 @@ lng: -90.5500
 zipSample: ["72411"]
 zipCodes: ["72411"]
 localPaths: ["Craighead County / ZIP 72411 sector", "Craighead County / coords 35.7500, -90.5500", "Craighead County / primary ZIP 72411", "Craighead County / elevation 223 ft band"]
+zillowHomeValueUsd: 136135
 ---
 
 **Engineering Notice for Bay:** Envelope check: Vinyl Panels assigned to wind-load band B with stress factor 0.83. Elevation: 223 ft AMSL. Regional dispatch grid: Craighead County.

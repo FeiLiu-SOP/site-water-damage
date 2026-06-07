@@ -12,6 +12,7 @@ lng: -94.1300
 zipSample: ["64862"]
 zipCodes: ["64862"]
 localPaths: ["Jasper County / primary ZIP 64862", "Jasper County / elevation 1181 ft band", "Jasper County / coords 37.0700, -94.1300", "Jasper County / ZIP 64862 sector"]
+zillowHomeValueUsd: 263949
 ---
 
 **Engineering Notice for Sarcoxie:** Cladding verification uses 104 mph routing baseline; lateral pressure note: 13.7 psf. Elevation: 1181 ft AMSL. Coordinates: 37.0700, -94.1300. Grid: Jasper County.

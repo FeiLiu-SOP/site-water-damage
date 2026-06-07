@@ -12,6 +12,7 @@ lng: -82.8200
 zipSample: ["41858"]
 zipCodes: ["41858"]
 localPaths: ["Letcher County / coords 37.1200, -82.8200", "Letcher County / primary ZIP 41858", "Letcher County / ZIP 41858 sector", "Letcher County / elevation 1184 ft band"]
+zillowHomeValueUsd: 101836
 ---
 
 **Engineering Notice for Whitesburg:** Structural integrity verification: Vinyl Panels calibrated for 91 mph localized wind load factor. Coordinates: 37.1200, -82.8200. Regional dispatch grid: Letcher County.

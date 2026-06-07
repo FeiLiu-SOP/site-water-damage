@@ -12,6 +12,7 @@ lng: -78.6200
 zipSample: ["27603", "27529", "27699"]
 zipCodes: ["27603", "27529", "27699"]
 localPaths: ["Wake County / ZIP 27603 sector", "Wake County / ZIP 27699 sector", "Wake County / elevation 302 ft band", "Wake County / ZIP 27529 sector", "Wake County / primary ZIP 27529"]
+zillowHomeValueUsd: 386822
 ---
 
 **Engineering Notice for Garner:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Wake County.

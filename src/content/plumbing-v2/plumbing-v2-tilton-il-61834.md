@@ -12,6 +12,7 @@ lng: -87.6400
 zipSample: ["61834", "61832", "61833"]
 zipCodes: ["61833", "61832", "61834"]
 localPaths: ["Vermilion County / ZIP 61832 sector", "Vermilion County / elevation 656 ft band", "Vermilion County / ZIP 61833 sector", "Vermilion County / ZIP 61834 sector", "Vermilion County / primary ZIP 61834"]
+zillowHomeValueUsd: 183453
 ---
 
 **Engineering Notice for Tilton:** System optimized for 161 mg/L hard water scaling factors in Tilton. Regional dispatch grid: Vermilion County.

@@ -12,6 +12,7 @@ lng: -98.4900
 zipSample: ["78212"]
 zipCodes: ["78212"]
 localPaths: ["Bexar County / primary ZIP 78212", "Bexar County / coords 29.4700, -98.4900", "Bexar County / elevation 764 ft band", "Bexar County / ZIP 78212 sector"]
+zillowHomeValueUsd: 284288
 ---
 
 **Engineering Notice for Olmos Park:** Cladding verification uses 145 mph routing baseline; lateral pressure note: 18.6 psf. Coordinates: 29.4700, -98.4900. Grid: Bexar County.

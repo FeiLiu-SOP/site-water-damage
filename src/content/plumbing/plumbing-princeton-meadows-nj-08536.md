@@ -12,6 +12,7 @@ lng: -74.5700
 zipSample: ["08512", "08536"]
 zipCodes: ["08536", "08512"]
 localPaths: ["Middlesex County / ZIP 08536 sector", "Middlesex County / primary ZIP 08536", "Middlesex County / coords 40.3300, -74.5700", "Middlesex County / ZIP 08512 sector", "Middlesex County / elevation 98 ft band"]
+zillowHomeValueUsd: 670454
 ---
 
 **Engineering Notice for Princeton Meadows:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Middlesex County.

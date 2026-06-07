@@ -12,6 +12,7 @@ lng: -86.1200
 zipSample: ["46504"]
 zipCodes: ["46504"]
 localPaths: ["Marshall County / ZIP 46504 sector", "Marshall County / primary ZIP 46504", "Marshall County / coords 41.3000, -86.1200", "Marshall County / elevation 856 ft band"]
+zillowHomeValueUsd: 234527
 ---
 
 **Engineering Notice for Bourbon:** System optimized for 134 mg/L hard water scaling factors in Bourbon. Regional dispatch grid: Marshall County.

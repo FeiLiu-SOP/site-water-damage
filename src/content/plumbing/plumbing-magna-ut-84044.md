@@ -12,6 +12,7 @@ lng: -112.1600
 zipSample: ["84044"]
 zipCodes: ["84044"]
 localPaths: ["Salt Lake County / elevation 4229 ft band", "Salt Lake County / primary ZIP 84044", "Salt Lake County / coords 40.7600, -112.1600", "Salt Lake County / ZIP 84044 sector"]
+zillowHomeValueUsd: 449010
 ---
 
 **Engineering Notice for Magna:** Structural loading calculated based on 4229 ft terrain assessment. Regional dispatch grid: Salt Lake County.

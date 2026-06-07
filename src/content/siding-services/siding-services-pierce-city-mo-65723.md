@@ -12,6 +12,7 @@ lng: -94.0000
 zipSample: ["65723"]
 zipCodes: ["65723"]
 localPaths: ["Lawrence County / coords 36.9500, -94.0000", "Lawrence County / elevation 1220 ft band", "Lawrence County / ZIP 65723 sector", "Lawrence County / primary ZIP 65723"]
+zillowHomeValueUsd: 207258
 ---
 
 **Engineering Notice for Pierce City:** Wall Restoration was validated under stress factor 1.18; target tolerance set near 106 mph. Coordinates: 36.9500, -94.0000. Grid anchor: Lawrence County.

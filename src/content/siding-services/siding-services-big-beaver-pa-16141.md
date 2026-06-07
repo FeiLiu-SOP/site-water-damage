@@ -12,6 +12,7 @@ lng: -80.3600
 zipSample: ["16136", "16115", "16157", "15010", "16141"]
 zipCodes: ["16136", "16157", "16115", "16141", "15010"]
 localPaths: ["Beaver County / ZIP 16141 sector", "Beaver County / coords 40.8200, -80.3600", "Beaver County / ZIP 16115 sector", "Beaver County / ZIP 15010 sector", "Beaver County / primary ZIP 16141"]
+zillowHomeValueUsd: 184043
 ---
 
 **Engineering Notice for Big Beaver:** Structural integrity verification: Vinyl Panels calibrated for 108 mph localized wind load factor. Elevation: 1106 ft AMSL. Coordinates: 40.8200, -80.3600. Regional dispatch grid: Beaver County.

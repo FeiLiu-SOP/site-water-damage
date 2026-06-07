@@ -12,6 +12,7 @@ lng: -77.8900
 zipSample: ["27534", "28551"]
 zipCodes: ["28551", "27534"]
 localPaths: ["Wayne County / elevation 125 ft band", "Wayne County / ZIP 28551 sector", "Wayne County / coords 35.3800, -77.8900", "Wayne County / primary ZIP 28551", "Wayne County / ZIP 27534 sector"]
+zillowHomeValueUsd: 185510
 ---
 
 **Engineering Notice for New Hope:** structural drying capacity optimized for 125ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wayne County. Relative Humidity Threshold: 73%. Sensor sync: Active.

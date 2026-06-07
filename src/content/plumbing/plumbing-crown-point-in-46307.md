@@ -12,6 +12,7 @@ lng: -87.3500
 zipSample: ["46307", "46308"]
 zipCodes: ["46308", "46307"]
 localPaths: ["Lake County / coords 41.4100, -87.3500", "Lake County / elevation 705 ft band", "Lake County / ZIP 46308 sector", "Lake County / primary ZIP 46307", "Lake County / ZIP 46307 sector"]
+zillowHomeValueUsd: 353905
 ---
 
 **Engineering Notice for Crown Point:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: Lake County.

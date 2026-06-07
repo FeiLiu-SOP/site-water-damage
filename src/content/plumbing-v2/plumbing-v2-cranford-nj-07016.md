@@ -12,6 +12,7 @@ lng: -74.3100
 zipSample: ["07016"]
 zipCodes: ["07016"]
 localPaths: ["Union County / elevation 85 ft band", "Union County / primary ZIP 07016", "Union County / coords 40.6500, -74.3100", "Union County / ZIP 07016 sector"]
+zillowHomeValueUsd: 764375
 ---
 
 **Engineering Notice for Cranford:** System optimized for 122 mg/L hard water scaling factors in Cranford. Regional dispatch grid: Union County.

@@ -12,6 +12,7 @@ lng: -82.5500
 zipSample: ["25507", "25704"]
 zipCodes: ["25704", "25507"]
 localPaths: ["Wayne County / elevation 541 ft band", "Wayne County / coords 38.4000, -82.5500", "Wayne County / primary ZIP 25704", "Wayne County / ZIP 25507 sector", "Wayne County / ZIP 25704 sector"]
+zillowHomeValueUsd: 131562
 ---
 
 **Engineering Notice for Ceredo:** Envelope check: Surface Sheathing assigned to wind-load band C with stress factor 0.97. Elevation: 541 ft AMSL. Regional dispatch grid: Wayne County.

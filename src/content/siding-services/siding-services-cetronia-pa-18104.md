@@ -12,6 +12,7 @@ lng: -75.5400
 zipSample: ["18104"]
 zipCodes: ["18104"]
 localPaths: ["Lehigh County / ZIP 18104 sector", "Lehigh County / coords 40.5900, -75.5400", "Lehigh County / elevation 433 ft band", "Lehigh County / primary ZIP 18104"]
+zillowHomeValueUsd: 393795
 ---
 
 **Engineering Notice for Cetronia:** Envelope check: Weather Barrier Wrap assigned to wind-load band B with stress factor 0.75. Regional dispatch grid: Lehigh County.

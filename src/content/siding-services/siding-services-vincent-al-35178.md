@@ -12,6 +12,7 @@ lng: -86.4100
 zipSample: ["35178"]
 zipCodes: ["35178"]
 localPaths: ["Shelby County / primary ZIP 35178", "Shelby County / coords 33.3800, -86.4100", "Shelby County / ZIP 35178 sector", "Shelby County / elevation 482 ft band"]
+zillowHomeValueUsd: 258060
 ---
 
 **Engineering Notice for Vincent:** Site context locked to Shelby County. Elevation: 482 ft AMSL. Cladding Retrofit integrity verification recorded.

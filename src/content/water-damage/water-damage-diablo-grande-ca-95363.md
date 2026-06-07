@@ -12,6 +12,7 @@ lng: -121.2600
 zipSample: ["95363"]
 zipCodes: ["95363"]
 localPaths: ["Stanislaus County / elevation 1027 ft band", "Stanislaus County / coords 37.4000, -121.2600", "Stanislaus County / ZIP 95363 sector", "Stanislaus County / primary ZIP 95363"]
+zillowHomeValueUsd: 510505
 ---
 
 **Engineering Notice for Diablo Grande:** structural drying capacity optimized for 1027ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Stanislaus County. Relative Humidity Threshold: 83%. Sensor sync: Active.

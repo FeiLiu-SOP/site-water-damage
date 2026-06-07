@@ -12,6 +12,7 @@ lng: -95.8800
 zipSample: ["75117"]
 zipCodes: ["75117"]
 localPaths: ["Van Zandt County / primary ZIP 75117", "Van Zandt County / ZIP 75117 sector", "Van Zandt County / coords 32.6900, -95.8800", "Van Zandt County / elevation 489 ft band"]
+zillowHomeValueUsd: 278835
 ---
 
 **Engineering Notice for Edgewood:** System optimized for 135 mg/L hard water scaling factors in Edgewood. Regional dispatch grid: Van Zandt County.

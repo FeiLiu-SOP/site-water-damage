@@ -12,6 +12,7 @@ lng: -82.1300
 zipSample: ["33922"]
 zipCodes: ["33922"]
 localPaths: ["Lee County / primary ZIP 33922", "Lee County / ZIP 33922 sector", "Lee County / coords 26.6400, -82.1300", "Lee County / elevation 10 ft band"]
+zillowHomeValueUsd: 359539
 ---
 
 **Engineering Notice for Pine Island Center:** System optimized for 155 mg/L hard water scaling factors in Pine Island Center. Regional dispatch grid: Lee County.

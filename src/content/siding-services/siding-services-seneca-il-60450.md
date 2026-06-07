@@ -12,6 +12,7 @@ lng: -88.5900
 zipSample: ["61360", "60450"]
 zipCodes: ["61360", "60450"]
 localPaths: ["LaSalle County / elevation 492 ft band", "LaSalle County / ZIP 61360 sector", "LaSalle County / coords 41.3200, -88.5900", "LaSalle County / ZIP 60450 sector", "LaSalle County / primary ZIP 60450"]
+zillowHomeValueUsd: 307990
 ---
 
 **Engineering Notice for Seneca:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Coordinates: 41.3200, -88.5900. Grid: LaSalle County.

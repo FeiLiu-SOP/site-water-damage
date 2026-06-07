@@ -12,6 +12,7 @@ lng: -82.2400
 zipSample: ["28782"]
 zipCodes: ["28782"]
 localPaths: ["Polk County / ZIP 28782 sector", "Polk County / coords 35.2100, -82.2400", "Polk County / elevation 1083 ft band", "Polk County / primary ZIP 28782"]
+zillowHomeValueUsd: 351565
 ---
 
 **Engineering Notice for Tryon:** System optimized for 150 mg/L hard water scaling factors in Tryon. Regional dispatch grid: Polk County.

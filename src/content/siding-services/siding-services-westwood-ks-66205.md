@@ -12,6 +12,7 @@ lng: -94.6200
 zipSample: ["66205"]
 zipCodes: ["66205"]
 localPaths: ["Johnson County / primary ZIP 66205", "Johnson County / ZIP 66205 sector", "Johnson County / coords 39.0400, -94.6200", "Johnson County / elevation 971 ft band"]
+zillowHomeValueUsd: 393996
 ---
 
 **Engineering Notice for Westwood:** Envelope check: Panel Replacement assigned to wind-load band C with stress factor 1.24. Regional dispatch grid: Johnson County.

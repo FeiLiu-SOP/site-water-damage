@@ -12,6 +12,7 @@ lng: -75.0200
 zipSample: ["08344"]
 zipCodes: ["08344"]
 localPaths: ["Gloucester County / ZIP 08344 sector", "Gloucester County / primary ZIP 08344", "Gloucester County / coords 39.5500, -75.0200", "Gloucester County / elevation 128 ft band"]
+zillowHomeValueUsd: 326790
 ---
 
 **Engineering Notice for Newfield:** System optimized for 121 mg/L hard water scaling factors in Newfield. Regional dispatch grid: Gloucester County.

@@ -12,6 +12,7 @@ lng: -101.4400
 zipSample: ["79241", "79221"]
 zipCodes: ["79221", "79241"]
 localPaths: ["Floyd County / ZIP 79221 sector", "Floyd County / elevation 3274 ft band", "Floyd County / primary ZIP 79241", "Floyd County / coords 34.1200, -101.4400", "Floyd County / ZIP 79241 sector"]
+zillowHomeValueUsd: 109078
 ---
 
 **Engineering Notice for Lockney:** structural drying capacity optimized for 3274ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Floyd County. Relative Humidity Threshold: 82%. Sensor sync: Active.

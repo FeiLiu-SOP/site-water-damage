@@ -12,6 +12,7 @@ lng: -83.5800
 zipSample: ["43608", "43656", "43697", "43613", "43604"]
 zipCodes: ["43666", "43697", "43656", "43652", "43614", "43604", "43603", "43660", "43607", "43609", "43623", "43657"]
 localPaths: ["Lucas County / coords 41.6600, -83.5800", "Lucas County / primary ZIP 43615", "Lucas County / ZIP 43613 sector", "Lucas County / ZIP 43604 sector", "Lucas County / elevation 600 ft band"]
+zillowHomeValueUsd: 178363
 ---
 
 **Engineering Notice for Toledo:** Structural loading calculated based on 600 ft terrain assessment. Regional dispatch grid: Lucas County.

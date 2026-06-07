@@ -12,6 +12,7 @@ lng: -92.0400
 zipSample: ["70533"]
 zipCodes: ["70533"]
 localPaths: ["Vermilion Parish / ZIP 70533 sector", "Vermilion Parish / coords 29.9600, -92.0400", "Vermilion Parish / primary ZIP 70533", "Vermilion Parish / elevation 20 ft band"]
+zillowHomeValueUsd: 152920
 ---
 
 **Engineering Notice for Erath:** System optimized for 160 mg/L hard water scaling factors in Erath. Regional dispatch grid: Vermilion Parish.

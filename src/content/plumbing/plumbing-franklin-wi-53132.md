@@ -12,6 +12,7 @@ lng: -88.0100
 zipSample: ["53132"]
 zipCodes: ["53132"]
 localPaths: ["Milwaukee County / elevation 755 ft band", "Milwaukee County / coords 42.8900, -88.0100", "Milwaukee County / ZIP 53132 sector", "Milwaukee County / primary ZIP 53132"]
+zillowHomeValueUsd: 439631
 ---
 
 **Engineering Notice for Franklin:** Structural loading calculated based on 755 ft terrain assessment. Regional dispatch grid: Milwaukee County.

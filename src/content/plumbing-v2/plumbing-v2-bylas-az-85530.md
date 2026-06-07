@@ -12,6 +12,8 @@ lng: -110.1200
 zipSample: ["85530"]
 zipCodes: ["85530"]
 localPaths: ["Graham County / coords 33.1300, -110.1200", "Graham County / elevation 2618 ft band", "Graham County / ZIP 85530 sector", "Graham County / primary ZIP 85530"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 423273
 ---
 
 **Engineering Notice for Bylas:** System optimized for 155 mg/L hard water scaling factors in Bylas. Regional dispatch grid: Graham County.

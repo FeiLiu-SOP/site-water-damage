@@ -12,6 +12,7 @@ lng: -90.0800
 zipSample: ["61250"]
 zipCodes: ["61250"]
 localPaths: ["Whiteside County / coords 41.6600, -90.0800", "Whiteside County / ZIP 61250 sector", "Whiteside County / elevation 597 ft band", "Whiteside County / primary ZIP 61250"]
+zillowHomeValueUsd: 168417
 ---
 
 **Engineering Notice for Erie:** System optimized for 154 mg/L hard water scaling factors in Erie. Regional dispatch grid: Whiteside County.

@@ -12,6 +12,7 @@ lng: -79.5400
 zipSample: ["29570"]
 zipCodes: ["29570"]
 localPaths: ["Marlboro County / primary ZIP 29570", "Marlboro County / ZIP 29570 sector", "Marlboro County / coords 34.6700, -79.5400", "Marlboro County / elevation 194 ft band"]
+zillowHomeValueUsd: 76232
 ---
 
 **Engineering Notice for McColl:** structural drying capacity optimized for 194ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Marlboro County. Relative Humidity Threshold: 76%. Sensor sync: Active.

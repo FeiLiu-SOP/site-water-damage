@@ -11,6 +11,7 @@ lng: -74.2300
 zipSample: ["07008"]
 zipCodes: ["07008"]
 localPaths: ["Middlesex County / primary ZIP 07008", "Middlesex County / elevation 16 ft band", "Middlesex County / coords 40.5800, -74.2300", "Middlesex County / ZIP 07008 sector"]
+zillowHomeValueUsd: 548084
 ---
 
 **Engineering Notice for Carteret:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Middlesex County.

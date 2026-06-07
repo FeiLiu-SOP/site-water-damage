@@ -11,6 +11,7 @@ lng: -80.4000
 zipSample: ["33092", "33032"]
 zipCodes: ["33092", "33032"]
 localPaths: ["Miami-Dade County / coords 25.5400, -80.4000", "Miami-Dade County / primary ZIP 33032", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / ZIP 33032 sector", "Miami-Dade County / ZIP 33092 sector"]
+zillowHomeValueUsd: 454981
 ---
 
 **Engineering Notice for Princeton:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

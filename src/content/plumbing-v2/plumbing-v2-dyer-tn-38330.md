@@ -12,6 +12,7 @@ lng: -88.9900
 zipSample: ["38330"]
 zipCodes: ["38330"]
 localPaths: ["Gibson County / elevation 344 ft band", "Gibson County / coords 36.0700, -88.9900", "Gibson County / ZIP 38330 sector", "Gibson County / primary ZIP 38330"]
+zillowHomeValueUsd: 147173
 ---
 
 **Engineering Notice for Dyer:** System optimized for 157 mg/L hard water scaling factors in Dyer. Regional dispatch grid: Gibson County.

@@ -12,6 +12,7 @@ lng: -95.3000
 zipSample: ["51002"]
 zipCodes: ["51002"]
 localPaths: ["Buena Vista County / elevation 1516 ft band", "Buena Vista County / coords 42.6700, -95.3000", "Buena Vista County / ZIP 51002 sector", "Buena Vista County / primary ZIP 51002"]
+zillowHomeValueUsd: 209417
 ---
 
 **Engineering Notice for Alta:** Cladding verification uses 108 mph routing baseline; lateral pressure note: 14.2 psf. Coordinates: 42.6700, -95.3000. Grid: Buena Vista County.

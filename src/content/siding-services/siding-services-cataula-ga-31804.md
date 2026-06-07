@@ -12,6 +12,7 @@ lng: -84.8700
 zipSample: ["31804"]
 zipCodes: ["31804"]
 localPaths: ["Harris County / ZIP 31804 sector", "Harris County / coords 32.6600, -84.8700", "Harris County / elevation 709 ft band", "Harris County / primary ZIP 31804"]
+zillowHomeValueUsd: 374572
 ---
 
 **Engineering Notice for Cataula:** Site context locked to Harris County. Elevation: 709 ft AMSL. Coordinates: 32.6600, -84.8700. Panel Replacement integrity verification recorded.

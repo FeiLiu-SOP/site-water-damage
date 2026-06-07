@@ -11,6 +11,7 @@ lng: -95.1700
 zipSample: ["77015"]
 zipCodes: ["77015"]
 localPaths: ["Harris County / ZIP 77015 sector", "Harris County / primary ZIP 77015", "Harris County / elevation 56 ft band", "Harris County / coords 29.7900, -95.1700"]
+zillowHomeValueUsd: 198965
 ---
 
 **Engineering Notice for Cloverleaf:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Harris County.

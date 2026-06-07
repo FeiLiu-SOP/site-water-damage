@@ -12,6 +12,8 @@ lng: -101.2400
 zipSample: ["57625"]
 zipCodes: ["57625"]
 localPaths: ["Dewey County / primary ZIP 57625", "Dewey County / elevation 2382 ft band", "Dewey County / ZIP 57625 sector", "Dewey County / coords 45.0200, -101.2400"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 297849
 ---
 
 **Engineering Notice for North Eagle Butte:** Structural integrity verification: Panel Replacement calibrated for 91 mph localized wind load factor. Regional dispatch grid: Dewey County.

@@ -11,6 +11,7 @@ lng: -73.4100
 zipSample: ["11747", "11775"]
 zipCodes: ["11775", "11747"]
 localPaths: ["Suffolk County / elevation 135 ft band", "Suffolk County / ZIP 11747 sector", "Suffolk County / primary ZIP 11747", "Suffolk County / ZIP 11775 sector", "Suffolk County / coords 40.7800, -73.4100"]
+zillowHomeValueUsd: 870073
 ---
 
 **Engineering Notice for Melville:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Suffolk County.

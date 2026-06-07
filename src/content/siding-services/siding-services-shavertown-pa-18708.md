@@ -12,6 +12,7 @@ lng: -75.9400
 zipSample: ["18708"]
 zipCodes: ["18708"]
 localPaths: ["Luzerne County / ZIP 18708 sector", "Luzerne County / elevation 1017 ft band", "Luzerne County / coords 41.3200, -75.9400", "Luzerne County / primary ZIP 18708"]
+zillowHomeValueUsd: 287049
 ---
 
 **Engineering Notice for Shavertown:** Facade Renewal was validated under stress factor 0.72; target tolerance set near 92 mph. Coordinates: 41.3200, -75.9400. Grid anchor: Luzerne County.

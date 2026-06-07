@@ -12,6 +12,7 @@ lng: -95.1500
 zipSample: ["56360"]
 zipCodes: ["56360"]
 localPaths: ["Douglas County / coords 45.8600, -95.1500", "Douglas County / primary ZIP 56360", "Douglas County / elevation 1358 ft band", "Douglas County / ZIP 56360 sector"]
+zillowHomeValueUsd: 273715
 ---
 
 **Engineering Notice for Osakis:** structural drying capacity optimized for 1358ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Douglas County. Relative Humidity Threshold: 66%. Sensor sync: Active.

@@ -12,6 +12,7 @@ lng: -89.7200
 zipSample: ["70083"]
 zipCodes: ["70083"]
 localPaths: ["Plaquemines Parish / coords 29.5000, -89.7200", "Plaquemines Parish / ZIP 70083 sector", "Plaquemines Parish / elevation 13 ft band", "Plaquemines Parish / primary ZIP 70083"]
+zillowHomeValueUsd: 147175
 ---
 
 **Engineering Notice for Port Sulphur:** System optimized for 121 mg/L hard water scaling factors in Port Sulphur. Regional dispatch grid: Plaquemines Parish.

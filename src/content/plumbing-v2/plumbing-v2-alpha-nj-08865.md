@@ -12,6 +12,7 @@ lng: -75.1600
 zipSample: ["08865"]
 zipCodes: ["08865"]
 localPaths: ["Warren County / elevation 279 ft band", "Warren County / ZIP 08865 sector", "Warren County / coords 40.6600, -75.1600", "Warren County / primary ZIP 08865"]
+zillowHomeValueUsd: 336584
 ---
 
 **Engineering Notice for Alpha:** System optimized for 143 mg/L hard water scaling factors in Alpha. Regional dispatch grid: Warren County.

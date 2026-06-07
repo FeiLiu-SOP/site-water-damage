@@ -12,6 +12,7 @@ lng: -98.9200
 zipSample: ["68862", "68859"]
 zipCodes: ["68862", "68859"]
 localPaths: ["Valley County / ZIP 68862 sector", "Valley County / elevation 2041 ft band", "Valley County / primary ZIP 68862", "Valley County / coords 41.6000, -98.9200", "Valley County / ZIP 68859 sector"]
+zillowHomeValueUsd: 193119
 ---
 
 **Engineering Notice for Ord:** Cladding verification uses 107 mph routing baseline; lateral pressure note: 14.0 psf. Coordinates: 41.6000, -98.9200. Grid: Valley County.

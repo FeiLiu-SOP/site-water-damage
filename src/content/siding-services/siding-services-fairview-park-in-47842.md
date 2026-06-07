@@ -12,6 +12,7 @@ lng: -87.4100
 zipSample: ["47842"]
 zipCodes: ["47842"]
 localPaths: ["Vermillion County / coords 39.6800, -87.4100", "Vermillion County / ZIP 47842 sector", "Vermillion County / primary ZIP 47842", "Vermillion County / elevation 509 ft band"]
+zillowHomeValueUsd: 131776
 ---
 
 **Engineering Notice for Fairview Park:** Cladding verification uses 102 mph routing baseline; lateral pressure note: 13.4 psf. Elevation: 509 ft AMSL. Grid: Vermillion County.

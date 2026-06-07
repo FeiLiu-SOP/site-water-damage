@@ -12,6 +12,7 @@ lng: -74.0400
 zipSample: ["07716", "07760"]
 zipCodes: ["07716", "07760"]
 localPaths: ["Monmouth County / ZIP 07760 sector", "Monmouth County / ZIP 07716 sector", "Monmouth County / elevation 148 ft band", "Monmouth County / primary ZIP 07716", "Monmouth County / coords 40.4000, -74.0400"]
+zillowHomeValueUsd: 804370
 ---
 
 **Engineering Notice for Navesink:** System optimized for 155 mg/L hard water scaling factors in Navesink. Regional dispatch grid: Monmouth County.

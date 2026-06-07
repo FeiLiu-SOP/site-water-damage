@@ -12,6 +12,7 @@ lng: -94.7100
 zipSample: ["66075"]
 zipCodes: ["66075"]
 localPaths: ["Linn County / coords 38.1800, -94.7100", "Linn County / primary ZIP 66075", "Linn County / elevation 869 ft band", "Linn County / ZIP 66075 sector"]
+zillowHomeValueUsd: 167226
 ---
 
 **Engineering Notice for Pleasanton:** System optimized for 170 mg/L hard water scaling factors in Pleasanton. Regional dispatch grid: Linn County.

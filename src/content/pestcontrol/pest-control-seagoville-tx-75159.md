@@ -11,6 +11,7 @@ lng: -96.5500
 zipSample: ["75159"]
 zipCodes: ["75159"]
 localPaths: ["Dallas County / ZIP 75159 sector", "Dallas County / primary ZIP 75159", "Dallas County / coords 32.6500, -96.5500", "Dallas County / elevation 456 ft band"]
+zillowHomeValueUsd: 281044
 ---
 
 **Engineering Notice for Seagoville:** Structural loading calculated based on 456 ft terrain assessment. Regional dispatch grid: Dallas County.

@@ -12,6 +12,7 @@ lng: -84.3400
 zipSample: ["30292", "30295"]
 zipCodes: ["30292", "30295"]
 localPaths: ["Pike County / ZIP 30292 sector", "Pike County / ZIP 30295 sector", "Pike County / coords 33.0900, -84.3400", "Pike County / primary ZIP 30292", "Pike County / elevation 853 ft band"]
+zillowHomeValueUsd: 405568
 ---
 
 **Engineering Notice for Zebulon:** System optimized for 175 mg/L hard water scaling factors in Zebulon. Regional dispatch grid: Pike County.

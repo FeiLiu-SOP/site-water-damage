@@ -12,6 +12,7 @@ lng: -85.5300
 zipSample: ["46148"]
 zipCodes: ["46148"]
 localPaths: ["Henry County / ZIP 46148 sector", "Henry County / coords 39.8000, -85.5300", "Henry County / elevation 938 ft band", "Henry County / primary ZIP 46148"]
+zillowHomeValueUsd: 218872
 ---
 
 **Engineering Notice for Knightstown:** Site context locked to Henry County. Coordinates: 39.8000, -85.5300. Facade Renewal integrity verification recorded.

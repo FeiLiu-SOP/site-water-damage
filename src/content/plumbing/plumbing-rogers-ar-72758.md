@@ -12,6 +12,7 @@ lng: -94.1500
 zipSample: ["72756", "72716", "72757", "72758"]
 zipCodes: ["72758", "72756", "72716", "72757"]
 localPaths: ["Benton County / ZIP 72758 sector", "Benton County / ZIP 72716 sector", "Benton County / coords 36.3200, -94.1500", "Benton County / primary ZIP 72758", "Benton County / elevation 1362 ft band"]
+zillowHomeValueUsd: 455836
 ---
 
 **Engineering Notice for Rogers:** Structural loading calculated based on 1362 ft terrain assessment. Regional dispatch grid: Benton County.

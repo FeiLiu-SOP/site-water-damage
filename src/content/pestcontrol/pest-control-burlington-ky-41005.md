@@ -11,6 +11,7 @@ lng: -84.7200
 zipSample: ["41005"]
 zipCodes: ["41005"]
 localPaths: ["Boone County / primary ZIP 41005", "Boone County / elevation 837 ft band", "Boone County / coords 39.0200, -84.7200", "Boone County / ZIP 41005 sector"]
+zillowHomeValueUsd: 323883
 ---
 
 **Engineering Notice for Burlington:** Structural loading calculated based on 837 ft terrain assessment. Regional dispatch grid: Boone County.

@@ -11,6 +11,7 @@ lng: -77.1900
 zipSample: ["20827", "20859", "20854", "20817"]
 zipCodes: ["20827", "20854", "20817", "20859"]
 localPaths: ["Montgomery County / ZIP 20817 sector", "Montgomery County / ZIP 20859 sector", "Montgomery County / elevation 305 ft band", "Montgomery County / ZIP 20854 sector", "Montgomery County / coords 39.0100, -77.1900"]
+zillowHomeValueUsd: 1309916
 ---
 
 **Engineering Notice for Potomac:** Structural loading calculated based on 305 ft terrain assessment. Regional dispatch grid: Montgomery County.

@@ -11,6 +11,7 @@ lng: -86.3900
 zipSample: ["46123", "46213"]
 zipCodes: ["46123", "46213"]
 localPaths: ["Hendricks County / coords 39.7600, -86.3900", "Hendricks County / ZIP 46213 sector", "Hendricks County / elevation 843 ft band", "Hendricks County / ZIP 46123 sector", "Hendricks County / primary ZIP 46123"]
+zillowHomeValueUsd: 350727
 ---
 
 **Engineering Notice for Avon:** Structural loading calculated based on 843 ft terrain assessment. Regional dispatch grid: Hendricks County.

@@ -11,6 +11,7 @@ lng: -121.2900
 zipSample: ["95240", "95242"]
 zipCodes: ["95242", "95240"]
 localPaths: ["San Joaquin County / coords 38.1200, -121.2900", "San Joaquin County / elevation 39 ft band", "San Joaquin County / ZIP 95242 sector", "San Joaquin County / ZIP 95240 sector", "San Joaquin County / primary ZIP 95240"]
+zillowHomeValueUsd: 472437
 ---
 
 **Engineering Notice for Lodi:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: San Joaquin County.

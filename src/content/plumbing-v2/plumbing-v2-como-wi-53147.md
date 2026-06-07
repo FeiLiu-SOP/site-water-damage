@@ -12,6 +12,7 @@ lng: -88.4900
 zipSample: ["53147"]
 zipCodes: ["53147"]
 localPaths: ["Walworth County / coords 42.6100, -88.4900", "Walworth County / ZIP 53147 sector", "Walworth County / primary ZIP 53147", "Walworth County / elevation 968 ft band"]
+zillowHomeValueUsd: 454095
 ---
 
 **Engineering Notice for Como:** System optimized for 150 mg/L hard water scaling factors in Como. Regional dispatch grid: Walworth County.

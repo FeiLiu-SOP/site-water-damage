@@ -12,6 +12,7 @@ lng: -76.6200
 zipSample: ["17033"]
 zipCodes: ["17033"]
 localPaths: ["Dauphin County / elevation 423 ft band", "Dauphin County / ZIP 17033 sector", "Dauphin County / coords 40.3000, -76.6200", "Dauphin County / primary ZIP 17033"]
+zillowHomeValueUsd: 404286
 ---
 
 **Engineering Notice for Palmdale:** structural drying capacity optimized for 423ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dauphin County. Relative Humidity Threshold: 65%. Sensor sync: Active.

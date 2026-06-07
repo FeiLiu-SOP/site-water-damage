@@ -12,6 +12,7 @@ lng: -80.1700
 zipSample: ["33181", "33161", "33167", "33160", "33261"]
 zipCodes: ["33160", "33167", "33168", "33181", "33261", "33161"]
 localPaths: ["Miami-Dade County / ZIP 33161 sector", "Miami-Dade County / ZIP 33181 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / coords 25.9000, -80.1700", "Miami-Dade County / ZIP 33167 sector"]
+zillowHomeValueUsd: 462305
 ---
 
 **Engineering Notice for North Miami:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

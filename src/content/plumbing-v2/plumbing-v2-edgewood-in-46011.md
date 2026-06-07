@@ -12,6 +12,7 @@ lng: -85.7400
 zipSample: ["46011"]
 zipCodes: ["46011"]
 localPaths: ["Madison County / elevation 883 ft band", "Madison County / coords 40.1000, -85.7400", "Madison County / primary ZIP 46011", "Madison County / ZIP 46011 sector"]
+zillowHomeValueUsd: 209990
 ---
 
 **Engineering Notice for Edgewood:** System optimized for 141 mg/L hard water scaling factors in Edgewood. Regional dispatch grid: Madison County.

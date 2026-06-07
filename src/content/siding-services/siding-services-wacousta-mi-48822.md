@@ -12,6 +12,7 @@ lng: -84.6900
 zipSample: ["48820", "48822", "48837"]
 zipCodes: ["48822", "48820", "48837"]
 localPaths: ["Clinton County / elevation 833 ft band", "Clinton County / ZIP 48820 sector", "Clinton County / ZIP 48837 sector", "Clinton County / primary ZIP 48822", "Clinton County / coords 42.8200, -84.6900"]
+zillowHomeValueUsd: 315590
 ---
 
 **Engineering Notice for Wacousta:** Site context locked to Clinton County. Coordinates: 42.8200, -84.6900. Wall Restoration integrity verification recorded.

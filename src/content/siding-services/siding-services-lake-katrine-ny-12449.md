@@ -12,6 +12,7 @@ lng: -73.9900
 zipSample: ["12449"]
 zipCodes: ["12449"]
 localPaths: ["Ulster County / coords 41.9900, -73.9900", "Ulster County / elevation 203 ft band", "Ulster County / primary ZIP 12449", "Ulster County / ZIP 12449 sector"]
+zillowHomeValueUsd: 353968
 ---
 
 **Engineering Notice for Lake Katrine:** Cladding verification uses 94 mph routing baseline; lateral pressure note: 12.5 psf. Elevation: 203 ft AMSL. Coordinates: 41.9900, -73.9900. Grid: Ulster County.

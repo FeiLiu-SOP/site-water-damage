@@ -11,6 +11,7 @@ lng: -90.5200
 zipSample: ["63302", "63301", "63303"]
 zipCodes: ["63303", "63301", "63302"]
 localPaths: ["St. Charles County / elevation 558 ft band", "St. Charles County / coords 38.8000, -90.5200", "St. Charles County / primary ZIP 63301", "St. Charles County / ZIP 63303 sector", "St. Charles County / ZIP 63301 sector"]
+zillowHomeValueUsd: 315140
 ---
 
 **Engineering Notice for St. Charles:** Structural loading calculated based on 558 ft terrain assessment. Regional dispatch grid: St. Charles County.

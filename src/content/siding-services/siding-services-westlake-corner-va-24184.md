@@ -12,6 +12,7 @@ lng: -79.7100
 zipSample: ["24121", "24184", "24101"]
 zipCodes: ["24121", "24101", "24184"]
 localPaths: ["Franklin County / ZIP 24184 sector", "Franklin County / ZIP 24101 sector", "Franklin County / primary ZIP 24184", "Franklin County / coords 37.1200, -79.7100", "Franklin County / elevation 997 ft band"]
+zillowHomeValueUsd: 448411
 ---
 
 **Engineering Notice for Westlake Corner:** Exterior Envelope was validated under stress factor 0.91; target tolerance set near 109 mph. Coordinates: 37.1200, -79.7100. Grid anchor: Franklin County.

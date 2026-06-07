@@ -12,6 +12,7 @@ lng: -80.8300
 zipSample: ["29115"]
 zipCodes: ["29115"]
 localPaths: ["Orangeburg County / coords 33.4900, -80.8300", "Orangeburg County / ZIP 29115 sector", "Orangeburg County / elevation 220 ft band", "Orangeburg County / primary ZIP 29115"]
+zillowHomeValueUsd: 123301
 ---
 
 **Engineering Notice for Wilkinson Heights:** Wall Restoration was validated under stress factor 0.81; target tolerance set near 90 mph. Coordinates: 33.4900, -80.8300. Grid anchor: Orangeburg County.

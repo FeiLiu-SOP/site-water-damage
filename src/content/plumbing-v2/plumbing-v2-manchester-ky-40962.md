@@ -12,6 +12,7 @@ lng: -83.7600
 zipSample: ["40962"]
 zipCodes: ["40962"]
 localPaths: ["Clay County / elevation 909 ft band", "Clay County / coords 37.1500, -83.7600", "Clay County / primary ZIP 40962", "Clay County / ZIP 40962 sector"]
+zillowHomeValueUsd: 123034
 ---
 
 **Engineering Notice for Manchester:** System optimized for 140 mg/L hard water scaling factors in Manchester. Regional dispatch grid: Clay County.

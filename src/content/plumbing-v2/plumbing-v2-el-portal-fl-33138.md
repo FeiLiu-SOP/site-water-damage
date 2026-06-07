@@ -12,6 +12,7 @@ lng: -80.2000
 zipSample: ["33138", "33150"]
 zipCodes: ["33150", "33138"]
 localPaths: ["Miami-Dade County / ZIP 33150 sector", "Miami-Dade County / ZIP 33138 sector", "Miami-Dade County / coords 25.8600, -80.2000", "Miami-Dade County / elevation 39 ft band", "Miami-Dade County / primary ZIP 33138"]
+zillowHomeValueUsd: 792351
 ---
 
 **Engineering Notice for El Portal:** System optimized for 131 mg/L hard water scaling factors in El Portal. Regional dispatch grid: Miami-Dade County.

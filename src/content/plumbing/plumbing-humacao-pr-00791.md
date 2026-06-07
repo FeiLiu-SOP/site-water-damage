@@ -12,6 +12,8 @@ lng: -65.8200
 zipSample: ["00792", "00791"]
 zipCodes: ["00791", "00792"]
 localPaths: ["Humacao County / ZIP 00792 sector", "Humacao County / elevation 66 ft band", "Humacao County / coords 18.1500, -65.8200", "Humacao County / primary ZIP 00791", "Humacao County / ZIP 00791 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 367108
 ---
 
 **Engineering Notice for Humacao:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Humacao County.

@@ -12,6 +12,7 @@ lng: -74.1600
 zipSample: ["07522", "07505", "07513", "07503", "07524"]
 zipCodes: ["07505", "07503", "07524", "07513", "07504", "07502", "07522", "07514", "07543", "07544", "07507", "07510"]
 localPaths: ["Passaic County / ZIP 07524 sector", "Passaic County / ZIP 07522 sector", "Passaic County / primary ZIP 07522", "Passaic County / ZIP 07513 sector", "Passaic County / ZIP 07505 sector"]
+zillowHomeValueUsd: 480786
 ---
 
 **Engineering Notice for Paterson:** Structural loading calculated based on 115 ft terrain assessment. Regional dispatch grid: Passaic County.

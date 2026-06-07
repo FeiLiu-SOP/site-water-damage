@@ -12,6 +12,7 @@ lng: -119.6800
 zipSample: ["89410"]
 zipCodes: ["89410"]
 localPaths: ["Douglas County / primary ZIP 89410", "Douglas County / ZIP 89410 sector", "Douglas County / coords 38.8900, -119.6800", "Douglas County / elevation 4990 ft band"]
+zillowHomeValueUsd: 623516
 ---
 
 **Engineering Notice for Ruhenstroth:** Envelope check: Facade Renewal assigned to wind-load band B with stress factor 0.93. Elevation: 4990 ft AMSL. Regional dispatch grid: Douglas County.

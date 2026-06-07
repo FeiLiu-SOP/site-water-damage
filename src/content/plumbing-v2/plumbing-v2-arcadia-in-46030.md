@@ -12,6 +12,7 @@ lng: -86.0200
 zipSample: ["46030"]
 zipCodes: ["46030"]
 localPaths: ["Hamilton County / primary ZIP 46030", "Hamilton County / ZIP 46030 sector", "Hamilton County / coords 40.1700, -86.0200", "Hamilton County / elevation 863 ft band"]
+zillowHomeValueUsd: 305174
 ---
 
 **Engineering Notice for Arcadia:** System optimized for 122 mg/L hard water scaling factors in Arcadia. Regional dispatch grid: Hamilton County.

@@ -12,6 +12,7 @@ lng: -96.0200
 zipSample: ["75148"]
 zipCodes: ["75148"]
 localPaths: ["Henderson County / primary ZIP 75148", "Henderson County / coords 32.1700, -96.0200", "Henderson County / ZIP 75148 sector", "Henderson County / elevation 371 ft band"]
+zillowHomeValueUsd: 277887
 ---
 
 **Engineering Notice for Malakoff:** Structural integrity verification: Weather Barrier Wrap calibrated for 150 mph localized wind load factor. Regional dispatch grid: Henderson County.

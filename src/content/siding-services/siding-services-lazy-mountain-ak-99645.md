@@ -12,6 +12,7 @@ lng: -148.9000
 zipSample: ["99645"]
 zipCodes: ["99645"]
 localPaths: ["Matanuska-Susitna County / ZIP 99645 sector", "Matanuska-Susitna County / primary ZIP 99645", "Matanuska-Susitna County / elevation 0 ft band", "Matanuska-Susitna County / coords 61.6500, -148.9000"]
+zillowHomeValueUsd: 434867
 ---
 
 **Engineering Notice for Lazy Mountain:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Elevation: 0 ft AMSL. Coordinates: 61.6500, -148.9000. Grid: Matanuska-Susitna County.

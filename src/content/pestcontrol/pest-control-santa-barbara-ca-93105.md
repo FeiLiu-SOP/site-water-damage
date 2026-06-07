@@ -11,6 +11,7 @@ lng: -119.7200
 zipSample: ["93130", "93101", "93120", "93121", "93190"]
 zipCodes: ["93109", "93105", "93121", "93101", "93102", "93190", "93103", "93120", "93130", "93140"]
 localPaths: ["Santa Barbara County / coords 34.4300, -119.7200", "Santa Barbara County / ZIP 93190 sector", "Santa Barbara County / ZIP 93101 sector", "Santa Barbara County / primary ZIP 93105", "Santa Barbara County / elevation 138 ft band"]
+zillowHomeValueUsd: 1912170
 ---
 
 **Engineering Notice for Santa Barbara:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Santa Barbara County.

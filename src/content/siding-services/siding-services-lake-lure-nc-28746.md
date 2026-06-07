@@ -12,6 +12,7 @@ lng: -82.2100
 zipSample: ["28746"]
 zipCodes: ["28746"]
 localPaths: ["Rutherford County / elevation 1119 ft band", "Rutherford County / ZIP 28746 sector", "Rutherford County / coords 35.4400, -82.2100", "Rutherford County / primary ZIP 28746"]
+zillowHomeValueUsd: 443803
 ---
 
 **Engineering Notice for Lake Lure:** Facade Renewal was validated under stress factor 1.03; target tolerance set near 97 mph. Coordinates: 35.4400, -82.2100. Grid anchor: Rutherford County.

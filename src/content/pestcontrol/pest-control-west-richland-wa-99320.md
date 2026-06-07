@@ -11,6 +11,7 @@ lng: -119.4000
 zipSample: ["99320", "99353"]
 zipCodes: ["99320", "99353"]
 localPaths: ["Benton County / primary ZIP 99320", "Benton County / ZIP 99320 sector", "Benton County / ZIP 99353 sector", "Benton County / elevation 446 ft band", "Benton County / coords 46.3100, -119.4000"]
+zillowHomeValueUsd: 428018
 ---
 
 **Engineering Notice for West Richland:** Structural loading calculated based on 446 ft terrain assessment. Regional dispatch grid: Benton County.

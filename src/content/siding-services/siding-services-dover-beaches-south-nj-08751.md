@@ -12,6 +12,7 @@ lng: -74.0800
 zipSample: ["08751"]
 zipCodes: ["08751"]
 localPaths: ["Ocean County / coords 39.9500, -74.0800", "Ocean County / elevation 7 ft band", "Ocean County / primary ZIP 08751", "Ocean County / ZIP 08751 sector"]
+zillowHomeValueUsd: 712594
 ---
 
 **Engineering Notice for Dover Beaches South:** Site context locked to Ocean County. Coordinates: 39.9500, -74.0800. Surface Sheathing integrity verification recorded.

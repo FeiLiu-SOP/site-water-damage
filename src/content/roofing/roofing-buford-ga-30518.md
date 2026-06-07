@@ -11,6 +11,7 @@ lng: -83.9900
 zipSample: ["30519", "30515", "30518"]
 zipCodes: ["30515", "30519", "30518"]
 localPaths: ["Gwinnett County / coords 34.1200, -83.9900", "Gwinnett County / ZIP 30518 sector", "Gwinnett County / elevation 1076 ft band", "Gwinnett County / primary ZIP 30518", "Gwinnett County / ZIP 30515 sector"]
+zillowHomeValueUsd: 464395
 ---
 
 **Engineering Notice for Buford:** Structural loading calculated based on 1076 ft terrain assessment. Regional dispatch grid: Gwinnett County.

@@ -12,6 +12,7 @@ lng: -103.2200
 zipSample: ["80720"]
 zipCodes: ["80720"]
 localPaths: ["Washington County / elevation 4682 ft band", "Washington County / coords 40.1600, -103.2200", "Washington County / primary ZIP 80720", "Washington County / ZIP 80720 sector"]
+zillowHomeValueUsd: 253022
 ---
 
 **Engineering Notice for Akron:** Site context locked to Washington County. Elevation: 4682 ft AMSL. Coordinates: 40.1600, -103.2200. Weather Barrier Wrap integrity verification recorded.

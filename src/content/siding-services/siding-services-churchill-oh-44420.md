@@ -12,6 +12,7 @@ lng: -80.6700
 zipSample: ["44420", "44505"]
 zipCodes: ["44505", "44420"]
 localPaths: ["Trumbull County / elevation 1083 ft band", "Trumbull County / primary ZIP 44420", "Trumbull County / ZIP 44505 sector", "Trumbull County / ZIP 44420 sector", "Trumbull County / coords 41.1700, -80.6700"]
+zillowHomeValueUsd: 142854
 ---
 
 **Engineering Notice for Churchill:** Site context locked to Trumbull County. Elevation: 1083 ft AMSL. Coordinates: 41.1700, -80.6700. Exterior Cladding integrity verification recorded.

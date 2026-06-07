@@ -12,6 +12,7 @@ lng: -94.4000
 zipSample: ["77659"]
 zipCodes: ["77659"]
 localPaths: ["Hardin County / coords 30.1400, -94.4000", "Hardin County / primary ZIP 77659", "Hardin County / elevation 62 ft band", "Hardin County / ZIP 77659 sector"]
+zillowHomeValueUsd: 269158
 ---
 
 **Engineering Notice for Sour Lake:** System optimized for 135 mg/L hard water scaling factors in Sour Lake. Regional dispatch grid: Hardin County.

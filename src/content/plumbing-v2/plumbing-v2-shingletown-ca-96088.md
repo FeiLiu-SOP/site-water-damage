@@ -12,6 +12,7 @@ lng: -121.8600
 zipSample: ["96088"]
 zipCodes: ["96088"]
 localPaths: ["Shasta County / coords 40.5000, -121.8600", "Shasta County / elevation 3681 ft band", "Shasta County / ZIP 96088 sector", "Shasta County / primary ZIP 96088"]
+zillowHomeValueUsd: 319253
 ---
 
 **Engineering Notice for Shingletown:** System optimized for 144 mg/L hard water scaling factors in Shingletown. Regional dispatch grid: Shasta County.

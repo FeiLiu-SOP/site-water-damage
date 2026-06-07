@@ -11,6 +11,7 @@ lng: -81.7300
 zipSample: ["29803", "29802", "29801"]
 zipCodes: ["29801", "29803", "29802"]
 localPaths: ["Aiken County / primary ZIP 29801", "Aiken County / elevation 525 ft band", "Aiken County / ZIP 29803 sector", "Aiken County / ZIP 29801 sector", "Aiken County / ZIP 29802 sector"]
+zillowHomeValueUsd: 214816
 ---
 
 **Engineering Notice for Aiken:** Structural loading calculated based on 525 ft terrain assessment. Regional dispatch grid: Aiken County.

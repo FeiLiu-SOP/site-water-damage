@@ -11,6 +11,7 @@ lng: -87.7500
 zipSample: ["60443", "60423"]
 zipCodes: ["60423", "60443"]
 localPaths: ["Cook County / ZIP 60423 sector", "Cook County / elevation 712 ft band", "Cook County / ZIP 60443 sector", "Cook County / coords 41.5100, -87.7500", "Cook County / primary ZIP 60423"]
+zillowHomeValueUsd: 487543
 ---
 
 **Engineering Notice for Matteson:** Structural loading calculated based on 712 ft terrain assessment. Regional dispatch grid: Cook County.

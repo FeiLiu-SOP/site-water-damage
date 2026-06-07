@@ -11,6 +11,7 @@ lng: -81.1000
 zipSample: ["32117", "32120", "32121", "32114", "32115"]
 zipCodes: ["32198", "32124", "32126", "32114", "32120", "32116", "32121", "32115", "32117", "32118", "32119"]
 localPaths: ["Volusia County / ZIP 32121 sector", "Volusia County / ZIP 32114 sector", "Volusia County / primary ZIP 32124", "Volusia County / ZIP 32117 sector", "Volusia County / ZIP 32115 sector"]
+zillowHomeValueUsd: 429584
 ---
 
 **Engineering Notice for Daytona Beach:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Volusia County.

@@ -12,6 +12,7 @@ lng: -122.5400
 zipSample: ["98249"]
 zipCodes: ["98249"]
 localPaths: ["Island County / primary ZIP 98249", "Island County / elevation 0 ft band", "Island County / ZIP 98249 sector", "Island County / coords 48.0200, -122.5400"]
+zillowHomeValueUsd: 741053
 ---
 
 **Engineering Notice for Freeland:** structural drying capacity optimized for 0ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Island County. Relative Humidity Threshold: 75%. Sensor sync: Active.

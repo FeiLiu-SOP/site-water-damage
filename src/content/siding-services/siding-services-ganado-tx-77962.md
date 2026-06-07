@@ -12,6 +12,7 @@ lng: -96.5100
 zipSample: ["77962"]
 zipCodes: ["77962"]
 localPaths: ["Jackson County / primary ZIP 77962", "Jackson County / elevation 75 ft band", "Jackson County / ZIP 77962 sector", "Jackson County / coords 29.0400, -96.5100"]
+zillowHomeValueUsd: 221048
 ---
 
 **Engineering Notice for Ganado:** Site context locked to Jackson County. Wall Restoration integrity verification recorded.

@@ -11,6 +11,7 @@ lng: -73.0400
 zipSample: ["00544", "00501", "11742"]
 zipCodes: ["00544", "11742", "00501"]
 localPaths: ["Suffolk County / primary ZIP 11742", "Suffolk County / ZIP 00501 sector", "Suffolk County / ZIP 11742 sector", "Suffolk County / coords 40.8100, -73.0400", "Suffolk County / ZIP 00544 sector"]
+zillowHomeValueUsd: 630876
 ---
 
 **Engineering Notice for Holtsville:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Suffolk County.

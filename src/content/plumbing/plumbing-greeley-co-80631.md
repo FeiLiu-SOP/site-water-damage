@@ -12,6 +12,7 @@ lng: -104.7700
 zipSample: ["80639", "80638", "80631", "80634", "80632"]
 zipCodes: ["80638", "80634", "80632", "80631", "80633", "80639"]
 localPaths: ["Weld County / primary ZIP 80631", "Weld County / ZIP 80639 sector", "Weld County / ZIP 80631 sector", "Weld County / ZIP 80634 sector", "Weld County / ZIP 80632 sector"]
+zillowHomeValueUsd: 366513
 ---
 
 **Engineering Notice for Greeley:** Structural loading calculated based on 4882 ft terrain assessment. Regional dispatch grid: Weld County.

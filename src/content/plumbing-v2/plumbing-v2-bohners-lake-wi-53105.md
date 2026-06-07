@@ -12,6 +12,7 @@ lng: -88.2900
 zipSample: ["53105"]
 zipCodes: ["53105"]
 localPaths: ["Racine County / elevation 810 ft band", "Racine County / coords 42.6200, -88.2900", "Racine County / ZIP 53105 sector", "Racine County / primary ZIP 53105"]
+zillowHomeValueUsd: 387454
 ---
 
 **Engineering Notice for Bohners Lake:** System optimized for 155 mg/L hard water scaling factors in Bohners Lake. Regional dispatch grid: Racine County.

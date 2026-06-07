@@ -11,6 +11,7 @@ lng: -121.6400
 zipSample: ["95993", "95991"]
 zipCodes: ["95991", "95993"]
 localPaths: ["Sutter County / elevation 59 ft band", "Sutter County / coords 39.1400, -121.6400", "Sutter County / primary ZIP 95991", "Sutter County / ZIP 95993 sector", "Sutter County / ZIP 95991 sector"]
+zillowHomeValueUsd: 404863
 ---
 
 **Engineering Notice for Yuba City:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Sutter County.

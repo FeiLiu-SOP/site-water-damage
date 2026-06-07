@@ -11,6 +11,7 @@ lng: -85.7700
 zipSample: ["47172", "47129"]
 zipCodes: ["47172", "47129"]
 localPaths: ["Clark County / primary ZIP 47129", "Clark County / coords 38.3200, -85.7700", "Clark County / elevation 472 ft band", "Clark County / ZIP 47172 sector", "Clark County / ZIP 47129 sector"]
+zillowHomeValueUsd: 203441
 ---
 
 **Engineering Notice for Clarksville:** Structural loading calculated based on 472 ft terrain assessment. Regional dispatch grid: Clark County.

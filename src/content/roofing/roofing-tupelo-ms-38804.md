@@ -11,6 +11,7 @@ lng: -88.7300
 zipSample: ["38802", "38804", "38803", "38801", "38826"]
 zipCodes: ["38801", "38803", "38802", "38826", "38804"]
 localPaths: ["Lee County / ZIP 38802 sector", "Lee County / elevation 285 ft band", "Lee County / coords 34.2700, -88.7300", "Lee County / ZIP 38803 sector", "Lee County / ZIP 38826 sector"]
+zillowHomeValueUsd: 193118
 ---
 
 **Engineering Notice for Tupelo:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Lee County.

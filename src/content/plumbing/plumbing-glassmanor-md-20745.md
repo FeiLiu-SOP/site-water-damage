@@ -12,6 +12,7 @@ lng: -76.9800
 zipSample: ["20745"]
 zipCodes: ["20745"]
 localPaths: ["Prince George's County / ZIP 20745 sector", "Prince George's County / primary ZIP 20745", "Prince George's County / elevation 177 ft band", "Prince George's County / coords 38.8200, -76.9800"]
+zillowHomeValueUsd: 361963
 ---
 
 **Engineering Notice for Glassmanor:** Structural loading calculated based on 177 ft terrain assessment. Regional dispatch grid: Prince George's County.

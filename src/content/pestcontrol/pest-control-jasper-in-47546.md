@@ -11,6 +11,7 @@ lng: -86.9400
 zipSample: ["47546", "47549"]
 zipCodes: ["47546", "47549"]
 localPaths: ["Dubois County / primary ZIP 47546", "Dubois County / elevation 479 ft band", "Dubois County / coords 38.3900, -86.9400", "Dubois County / ZIP 47546 sector", "Dubois County / ZIP 47549 sector"]
+zillowHomeValueUsd: 264713
 ---
 
 **Engineering Notice for Jasper:** Structural loading calculated based on 479 ft terrain assessment. Regional dispatch grid: Dubois County.

@@ -12,6 +12,7 @@ lng: -79.9600
 zipSample: ["29461"]
 zipCodes: ["29461"]
 localPaths: ["Berkeley County / coords 33.1000, -79.9600", "Berkeley County / elevation 20 ft band", "Berkeley County / primary ZIP 29461", "Berkeley County / ZIP 29461 sector"]
+zillowHomeValueUsd: 360106
 ---
 
 **Engineering Notice for Pimlico:** Cladding verification uses 109 mph routing baseline; lateral pressure note: 14.3 psf. Grid: Berkeley County.

@@ -12,6 +12,7 @@ lng: -89.4300
 zipSample: ["39168"]
 zipCodes: ["39168"]
 localPaths: ["Smith County / elevation 308 ft band", "Smith County / ZIP 39168 sector", "Smith County / coords 31.8300, -89.4300", "Smith County / primary ZIP 39168"]
+zillowHomeValueUsd: 145789
 ---
 
 **Engineering Notice for Taylorsville:** structural drying capacity optimized for 308ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Smith County. Relative Humidity Threshold: 71%. Sensor sync: Active.

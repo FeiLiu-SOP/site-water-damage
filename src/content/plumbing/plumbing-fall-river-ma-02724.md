@@ -12,6 +12,7 @@ lng: -71.1000
 zipSample: ["02724", "02717", "02722", "02790", "02723"]
 zipCodes: ["02790", "02723", "02720", "02721", "02747", "02717", "02724", "02722"]
 localPaths: ["Bristol County / ZIP 02717 sector", "Bristol County / elevation 108 ft band", "Bristol County / ZIP 02790 sector", "Bristol County / ZIP 02723 sector", "Bristol County / ZIP 02722 sector"]
+zillowHomeValueUsd: 431399
 ---
 
 **Engineering Notice for Fall River:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Bristol County.

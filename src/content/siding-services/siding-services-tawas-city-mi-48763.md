@@ -12,6 +12,7 @@ lng: -83.5200
 zipSample: ["48764", "48763"]
 zipCodes: ["48763", "48764"]
 localPaths: ["Iosco County / primary ZIP 48763", "Iosco County / ZIP 48764 sector", "Iosco County / elevation 594 ft band", "Iosco County / coords 44.2700, -83.5200", "Iosco County / ZIP 48763 sector"]
+zillowHomeValueUsd: 200805
 ---
 
 **Engineering Notice for Tawas City:** Cladding verification uses 92 mph routing baseline; lateral pressure note: 12.2 psf. Coordinates: 44.2700, -83.5200. Grid: Iosco County.

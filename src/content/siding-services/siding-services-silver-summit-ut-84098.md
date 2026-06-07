@@ -12,6 +12,7 @@ lng: -111.5100
 zipSample: ["84098"]
 zipCodes: ["84098"]
 localPaths: ["Summit County / elevation 6526 ft band", "Summit County / coords 40.7500, -111.5100", "Summit County / primary ZIP 84098", "Summit County / ZIP 84098 sector"]
+zillowHomeValueUsd: 1355168
 ---
 
 **Engineering Notice for Silver Summit:** Site context locked to Summit County. Elevation: 6526 ft AMSL. Panel Replacement integrity verification recorded.

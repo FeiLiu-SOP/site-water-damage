@@ -12,6 +12,7 @@ lng: -81.6600
 zipSample: ["44105"]
 zipCodes: ["44105"]
 localPaths: ["Cuyahoga County / primary ZIP 44105", "Cuyahoga County / ZIP 44105 sector", "Cuyahoga County / coords 41.4500, -81.6600", "Cuyahoga County / elevation 692 ft band"]
+zillowHomeValueUsd: 75396
 ---
 
 **Engineering Notice for Newburgh Heights:** System optimized for 143 mg/L hard water scaling factors in Newburgh Heights. Regional dispatch grid: Cuyahoga County.

@@ -12,6 +12,7 @@ lng: -86.9400
 zipSample: ["35640"]
 zipCodes: ["35640"]
 localPaths: ["Morgan County / elevation 659 ft band", "Morgan County / ZIP 35640 sector", "Morgan County / primary ZIP 35640", "Morgan County / coords 34.4400, -86.9400"]
+zillowHomeValueUsd: 244832
 ---
 
 **Engineering Notice for Hartselle:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Morgan County.

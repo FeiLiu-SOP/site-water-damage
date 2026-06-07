@@ -12,6 +12,7 @@ lng: -82.1100
 zipSample: ["29375", "29388", "29334"]
 zipCodes: ["29375", "29334", "29388"]
 localPaths: ["Spartanburg County / ZIP 29334 sector", "Spartanburg County / ZIP 29375 sector", "Spartanburg County / ZIP 29388 sector", "Spartanburg County / elevation 820 ft band", "Spartanburg County / coords 34.8700, -82.1100"]
+zillowHomeValueUsd: 309538
 ---
 
 **Engineering Notice for Reidville:** Structural integrity verification: Surface Sheathing calibrated for 97 mph localized wind load factor. Coordinates: 34.8700, -82.1100. Regional dispatch grid: Spartanburg County.

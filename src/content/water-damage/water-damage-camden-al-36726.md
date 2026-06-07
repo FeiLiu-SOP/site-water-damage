@@ -12,6 +12,7 @@ lng: -87.3000
 zipSample: ["36726"]
 zipCodes: ["36726"]
 localPaths: ["Wilcox County / coords 32.0000, -87.3000", "Wilcox County / ZIP 36726 sector", "Wilcox County / elevation 266 ft band", "Wilcox County / primary ZIP 36726"]
+zillowHomeValueUsd: 154313
 ---
 
 **Engineering Notice for Camden:** structural drying capacity optimized for 266ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Wilcox County. Relative Humidity Threshold: 84%. Sensor sync: Active.

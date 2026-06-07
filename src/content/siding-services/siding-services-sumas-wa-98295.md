@@ -12,6 +12,7 @@ lng: -122.2700
 zipSample: ["98295"]
 zipCodes: ["98295"]
 localPaths: ["Whatcom County / coords 49.0000, -122.2700", "Whatcom County / elevation 36 ft band", "Whatcom County / primary ZIP 98295", "Whatcom County / ZIP 98295 sector"]
+zillowHomeValueUsd: 457692
 ---
 
 **Engineering Notice for Sumas:** Cladding verification uses 107 mph routing baseline; lateral pressure note: 14.0 psf. Elevation: 36 ft AMSL. Coordinates: 49.0000, -122.2700. Grid: Whatcom County.

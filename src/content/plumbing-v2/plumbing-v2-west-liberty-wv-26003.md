@@ -12,6 +12,7 @@ lng: -80.6000
 zipSample: ["26074", "26003"]
 zipCodes: ["26003", "26074"]
 localPaths: ["Ohio County / ZIP 26074 sector", "Ohio County / ZIP 26003 sector", "Ohio County / primary ZIP 26003", "Ohio County / coords 40.1600, -80.6000", "Ohio County / elevation 1102 ft band"]
+zillowHomeValueUsd: 156614
 ---
 
 **Engineering Notice for West Liberty:** System optimized for 153 mg/L hard water scaling factors in West Liberty. Regional dispatch grid: Ohio County.

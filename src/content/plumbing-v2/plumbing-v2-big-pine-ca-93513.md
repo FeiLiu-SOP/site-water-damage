@@ -12,6 +12,7 @@ lng: -118.3000
 zipSample: ["93513"]
 zipCodes: ["93513"]
 localPaths: ["Inyo County / primary ZIP 93513", "Inyo County / coords 37.1700, -118.3000", "Inyo County / elevation 4022 ft band", "Inyo County / ZIP 93513 sector"]
+zillowHomeValueUsd: 426983
 ---
 
 **Engineering Notice for Big Pine:** System optimized for 165 mg/L hard water scaling factors in Big Pine. Regional dispatch grid: Inyo County.

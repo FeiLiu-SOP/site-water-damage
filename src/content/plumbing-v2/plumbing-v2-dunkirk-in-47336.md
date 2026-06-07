@@ -12,6 +12,7 @@ lng: -85.2100
 zipSample: ["47336"]
 zipCodes: ["47336"]
 localPaths: ["Jay County / coords 40.3700, -85.2100", "Jay County / primary ZIP 47336", "Jay County / elevation 948 ft band", "Jay County / ZIP 47336 sector"]
+zillowHomeValueUsd: 126690
 ---
 
 **Engineering Notice for Dunkirk:** System optimized for 145 mg/L hard water scaling factors in Dunkirk. Regional dispatch grid: Jay County.

@@ -11,6 +11,7 @@ lng: -92.2400
 zipSample: ["72118", "72124", "72214", "72116", "72115"]
 zipCodes: ["72214", "72116", "72113", "72124", "72117", "72115", "72118", "72190", "72114"]
 localPaths: ["Pulaski County / ZIP 72214 sector", "Pulaski County / ZIP 72116 sector", "Pulaski County / ZIP 72115 sector", "Pulaski County / coords 34.7800, -92.2400", "Pulaski County / ZIP 72118 sector"]
+zillowHomeValueUsd: 303801
 ---
 
 **Engineering Notice for North Little Rock:** Structural loading calculated based on 299 ft terrain assessment. Regional dispatch grid: Pulaski County.

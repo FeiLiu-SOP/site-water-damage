@@ -12,6 +12,7 @@ lng: -86.7200
 zipSample: ["35171"]
 zipCodes: ["35171"]
 localPaths: ["Chilton County / ZIP 35171 sector", "Chilton County / primary ZIP 35171", "Chilton County / elevation 692 ft band", "Chilton County / coords 32.9200, -86.7200"]
+zillowHomeValueUsd: 225394
 ---
 
 **Engineering Notice for Thorsby:** Surface Sheathing was validated under stress factor 0.78; target tolerance set near 92 mph. Grid anchor: Chilton County.

@@ -12,6 +12,7 @@ lng: -82.9300
 zipSample: ["48014"]
 zipCodes: ["48014"]
 localPaths: ["St. Clair County / primary ZIP 48014", "St. Clair County / ZIP 48014 sector", "St. Clair County / coords 43.0100, -82.9300", "St. Clair County / elevation 810 ft band"]
+zillowHomeValueUsd: 249945
 ---
 
 **Engineering Notice for Capac:** structural drying capacity optimized for 810ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: St. Clair County. Relative Humidity Threshold: 71%. Sensor sync: Active.

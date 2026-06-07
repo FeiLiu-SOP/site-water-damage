@@ -12,6 +12,7 @@ lng: -120.0500
 zipSample: ["93637"]
 zipCodes: ["93637"]
 localPaths: ["Madera County / coords 36.9300, -120.0500", "Madera County / primary ZIP 93637", "Madera County / ZIP 93637 sector", "Madera County / elevation 269 ft band"]
+zillowHomeValueUsd: 402709
 ---
 
 **Engineering Notice for Parkwood:** Cladding Service was validated under stress factor 0.97; target tolerance set near 146 mph. Coordinates: 36.9300, -120.0500. Grid anchor: Madera County.

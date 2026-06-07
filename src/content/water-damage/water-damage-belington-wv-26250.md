@@ -12,6 +12,7 @@ lng: -79.9400
 zipSample: ["26250"]
 zipCodes: ["26250"]
 localPaths: ["Barbour County / elevation 1706 ft band", "Barbour County / coords 39.0200, -79.9400", "Barbour County / ZIP 26250 sector", "Barbour County / primary ZIP 26250"]
+zillowHomeValueUsd: 107945
 ---
 
 **Engineering Notice for Belington:** structural drying capacity optimized for 1706ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Barbour County. Relative Humidity Threshold: 83%. Sensor sync: Active.

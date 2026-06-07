@@ -12,6 +12,7 @@ lng: -77.1800
 zipSample: ["22079"]
 zipCodes: ["22079"]
 localPaths: ["Fairfax County / elevation 43 ft band", "Fairfax County / ZIP 22079 sector", "Fairfax County / primary ZIP 22079", "Fairfax County / coords 38.6600, -77.1800"]
+zillowHomeValueUsd: 684788
 ---
 
 **Engineering Notice for Mason Neck:** structural drying capacity optimized for 43ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fairfax County. Relative Humidity Threshold: 72%. Sensor sync: Active.

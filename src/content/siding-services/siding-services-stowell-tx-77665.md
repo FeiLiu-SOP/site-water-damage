@@ -12,6 +12,7 @@ lng: -94.3800
 zipSample: ["77665", "77661"]
 zipCodes: ["77661", "77665"]
 localPaths: ["Chambers County / ZIP 77665 sector", "Chambers County / elevation 30 ft band", "Chambers County / primary ZIP 77665", "Chambers County / ZIP 77661 sector", "Chambers County / coords 29.7800, -94.3800"]
+zillowHomeValueUsd: 246181
 ---
 
 **Engineering Notice for Stowell:** Site context locked to Chambers County. Coordinates: 29.7800, -94.3800. Wall Restoration integrity verification recorded.

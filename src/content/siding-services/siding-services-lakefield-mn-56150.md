@@ -12,6 +12,7 @@ lng: -95.1700
 zipSample: ["56150"]
 zipCodes: ["56150"]
 localPaths: ["Jackson County / coords 43.6800, -95.1700", "Jackson County / ZIP 56150 sector", "Jackson County / elevation 1480 ft band", "Jackson County / primary ZIP 56150"]
+zillowHomeValueUsd: 204189
 ---
 
 **Engineering Notice for Lakefield:** Cladding verification uses 104 mph routing baseline; lateral pressure note: 13.7 psf. Elevation: 1480 ft AMSL. Grid: Jackson County.

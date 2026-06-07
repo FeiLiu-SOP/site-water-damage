@@ -12,6 +12,7 @@ lng: -96.9300
 zipSample: ["76682"]
 zipCodes: ["76682"]
 localPaths: ["McLennan County / primary ZIP 76682", "McLennan County / coords 31.4800, -96.9300", "McLennan County / ZIP 76682 sector", "McLennan County / elevation 495 ft band"]
+zillowHomeValueUsd: 256335
 ---
 
 **Engineering Notice for Riesel:** System optimized for 142 mg/L hard water scaling factors in Riesel. Regional dispatch grid: McLennan County.

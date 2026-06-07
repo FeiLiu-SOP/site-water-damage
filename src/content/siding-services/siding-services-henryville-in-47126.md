@@ -12,6 +12,7 @@ lng: -85.7700
 zipSample: ["47126"]
 zipCodes: ["47126"]
 localPaths: ["Clark County / elevation 505 ft band", "Clark County / coords 38.5400, -85.7700", "Clark County / primary ZIP 47126", "Clark County / ZIP 47126 sector"]
+zillowHomeValueUsd: 325458
 ---
 
 **Engineering Notice for Henryville:** Cladding verification uses 103 mph routing baseline; lateral pressure note: 13.6 psf. Elevation: 505 ft AMSL. Grid: Clark County.

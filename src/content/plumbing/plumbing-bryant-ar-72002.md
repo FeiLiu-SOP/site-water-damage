@@ -12,6 +12,7 @@ lng: -92.4900
 zipSample: ["72089", "72002", "72022"]
 zipCodes: ["72022", "72002", "72089"]
 localPaths: ["Saline County / coords 34.6200, -92.4900", "Saline County / elevation 390 ft band", "Saline County / ZIP 72002 sector", "Saline County / ZIP 72022 sector", "Saline County / primary ZIP 72002"]
+zillowHomeValueUsd: 249497
 ---
 
 **Engineering Notice for Bryant:** Structural loading calculated based on 390 ft terrain assessment. Regional dispatch grid: Saline County.

@@ -12,6 +12,7 @@ lng: -89.1800
 zipSample: ["42050"]
 zipCodes: ["42050"]
 localPaths: ["Fulton County / primary ZIP 42050", "Fulton County / coords 36.5600, -89.1800", "Fulton County / ZIP 42050 sector", "Fulton County / elevation 404 ft band"]
+zillowHomeValueUsd: 78628
 ---
 
 **Engineering Notice for Hickman:** Structural integrity verification: Facade Renewal calibrated for 104 mph localized wind load factor. Regional dispatch grid: Fulton County.

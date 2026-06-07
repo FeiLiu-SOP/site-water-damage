@@ -12,6 +12,7 @@ lng: -74.1100
 zipSample: ["12491", "12433", "12498"]
 zipCodes: ["12491", "12433", "12498"]
 localPaths: ["Ulster County / coords 42.0100, -74.1100", "Ulster County / primary ZIP 12491", "Ulster County / ZIP 12491 sector", "Ulster County / elevation 614 ft band", "Ulster County / ZIP 12498 sector"]
+zillowHomeValueUsd: 462448
 ---
 
 **Engineering Notice for West Hurley:** System optimized for 161 mg/L hard water scaling factors in West Hurley. Regional dispatch grid: Ulster County.

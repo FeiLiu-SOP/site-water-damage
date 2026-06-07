@@ -12,6 +12,7 @@ lng: -88.9700
 zipSample: ["61705", "61709", "61701", "61710", "61791"]
 zipCodes: ["61701", "61705", "61791", "61709", "61710", "61704"]
 localPaths: ["McLean County / coords 40.4800, -88.9700", "McLean County / ZIP 61705 sector", "McLean County / elevation 853 ft band", "McLean County / ZIP 61791 sector", "McLean County / ZIP 61701 sector"]
+zillowHomeValueUsd: 170917
 ---
 
 **Engineering Notice for Bloomington:** Structural loading calculated based on 853 ft terrain assessment. Regional dispatch grid: McLean County.

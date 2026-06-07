@@ -12,6 +12,7 @@ lng: -90.8800
 zipSample: ["39159"]
 zipCodes: ["39159"]
 localPaths: ["Sharkey County / coords 32.9100, -90.8800", "Sharkey County / ZIP 39159 sector", "Sharkey County / elevation 115 ft band", "Sharkey County / primary ZIP 39159"]
+zillowHomeValueUsd: 113569
 ---
 
 **Engineering Notice for Rolling Fork:** structural drying capacity optimized for 115ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Sharkey County. Relative Humidity Threshold: 70%. Sensor sync: Active.

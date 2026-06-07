@@ -12,6 +12,7 @@ lng: -80.1300
 zipSample: ["33060", "33061", "33062", "33097", "33069"]
 zipCodes: ["33062", "33097", "33074", "33064", "33069", "33060", "33061"]
 localPaths: ["Broward County / ZIP 33062 sector", "Broward County / coords 26.2400, -80.1300", "Broward County / primary ZIP 33060", "Broward County / ZIP 33061 sector", "Broward County / ZIP 33069 sector"]
+zillowHomeValueUsd: 430609
 ---
 
 **Engineering Notice for Pompano Beach:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Broward County.

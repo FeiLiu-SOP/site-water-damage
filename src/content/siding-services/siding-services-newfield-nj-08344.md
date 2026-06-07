@@ -12,6 +12,7 @@ lng: -75.0200
 zipSample: ["08344"]
 zipCodes: ["08344"]
 localPaths: ["Gloucester County / ZIP 08344 sector", "Gloucester County / coords 39.5500, -75.0200", "Gloucester County / elevation 128 ft band", "Gloucester County / primary ZIP 08344"]
+zillowHomeValueUsd: 326793
 ---
 
 **Engineering Notice for Newfield:** Envelope check: Surface Sheathing assigned to wind-load band C with stress factor 1.07. Regional dispatch grid: Gloucester County.

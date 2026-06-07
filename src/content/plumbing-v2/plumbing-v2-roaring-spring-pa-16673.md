@@ -12,6 +12,7 @@ lng: -78.4000
 zipSample: ["16673"]
 zipCodes: ["16673"]
 localPaths: ["Blair County / ZIP 16673 sector", "Blair County / primary ZIP 16673", "Blair County / elevation 1273 ft band", "Blair County / coords 40.3300, -78.4000"]
+zillowHomeValueUsd: 193918
 ---
 
 **Engineering Notice for Roaring Spring:** System optimized for 134 mg/L hard water scaling factors in Roaring Spring. Regional dispatch grid: Blair County.

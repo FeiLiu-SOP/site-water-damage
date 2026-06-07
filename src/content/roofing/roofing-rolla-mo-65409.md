@@ -11,6 +11,7 @@ lng: -91.7600
 zipSample: ["65409", "65402", "65401"]
 zipCodes: ["65402", "65401", "65409"]
 localPaths: ["Phelps County / elevation 1099 ft band", "Phelps County / ZIP 65409 sector", "Phelps County / coords 37.9500, -91.7600", "Phelps County / ZIP 65402 sector", "Phelps County / primary ZIP 65409"]
+zillowHomeValueUsd: 236336
 ---
 
 **Engineering Notice for Rolla:** Structural loading calculated based on 1099 ft terrain assessment. Regional dispatch grid: Phelps County.

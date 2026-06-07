@@ -11,6 +11,7 @@ lng: -72.1000
 zipSample: ["06320"]
 zipCodes: ["06320"]
 localPaths: ["Southeastern Connecticut County / coords 41.3500, -72.1000", "Southeastern Connecticut County / ZIP 06320 sector", "Southeastern Connecticut County / elevation 30 ft band", "Southeastern Connecticut County / primary ZIP 06320"]
+zillowHomeValueUsd: 312577
 ---
 
 **Engineering Notice for New London:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Southeastern Connecticut County.

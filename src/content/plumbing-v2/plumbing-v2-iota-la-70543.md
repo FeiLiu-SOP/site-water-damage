@@ -12,6 +12,7 @@ lng: -92.5000
 zipSample: ["70543"]
 zipCodes: ["70543"]
 localPaths: ["Acadia Parish / ZIP 70543 sector", "Acadia Parish / elevation 43 ft band", "Acadia Parish / primary ZIP 70543", "Acadia Parish / coords 30.3300, -92.5000"]
+zillowHomeValueUsd: 183750
 ---
 
 **Engineering Notice for Iota:** System optimized for 150 mg/L hard water scaling factors in Iota. Regional dispatch grid: Acadia Parish.

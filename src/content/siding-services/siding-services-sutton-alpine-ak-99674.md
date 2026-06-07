@@ -12,6 +12,7 @@ lng: -148.8500
 zipSample: ["99674"]
 zipCodes: ["99674"]
 localPaths: ["Matanuska-Susitna County / primary ZIP 99674", "Matanuska-Susitna County / ZIP 99674 sector", "Matanuska-Susitna County / coords 61.7400, -148.8500", "Matanuska-Susitna County / elevation 0 ft band"]
+zillowHomeValueUsd: 279287
 ---
 
 **Engineering Notice for Sutton-Alpine:** Envelope check: Exterior Envelope assigned to wind-load band B with stress factor 0.97. Elevation: 0 ft AMSL. Regional dispatch grid: Matanuska-Susitna County.

@@ -12,6 +12,7 @@ lng: -80.2300
 zipSample: ["15057"]
 zipCodes: ["15057"]
 localPaths: ["Washington County / elevation 984 ft band", "Washington County / primary ZIP 15057", "Washington County / coords 40.3700, -80.2300", "Washington County / ZIP 15057 sector"]
+zillowHomeValueUsd: 391665
 ---
 
 **Engineering Notice for McDonald:** Cladding verification uses 99 mph routing baseline; lateral pressure note: 13.1 psf. Elevation: 984 ft AMSL. Coordinates: 40.3700, -80.2300. Grid: Washington County.

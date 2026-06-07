@@ -11,6 +11,7 @@ lng: -81.2500
 zipSample: ["32136", "32135", "32164", "32142", "32137"]
 zipCodes: ["32164", "32143", "32135", "32142", "32137", "32136"]
 localPaths: ["Flagler County / coords 29.5400, -81.2500", "Flagler County / elevation 46 ft band", "Flagler County / ZIP 32164 sector", "Flagler County / primary ZIP 32164", "Flagler County / ZIP 32135 sector"]
+zillowHomeValueUsd: 322321
 ---
 
 **Engineering Notice for Palm Coast:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Flagler County.

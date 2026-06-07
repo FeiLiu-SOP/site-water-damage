@@ -12,6 +12,7 @@ lng: -79.9500
 zipSample: ["15063"]
 zipCodes: ["15063"]
 localPaths: ["Washington County / ZIP 15063 sector", "Washington County / primary ZIP 15063", "Washington County / elevation 1099 ft band", "Washington County / coords 40.1900, -79.9500"]
+zillowHomeValueUsd: 148402
 ---
 
 **Engineering Notice for Baidland:** Cladding verification uses 91 mph routing baseline; lateral pressure note: 12.1 psf. Elevation: 1099 ft AMSL. Coordinates: 40.1900, -79.9500. Grid: Washington County.

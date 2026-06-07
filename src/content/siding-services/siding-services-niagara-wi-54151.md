@@ -12,6 +12,7 @@ lng: -88.0000
 zipSample: ["54151"]
 zipCodes: ["54151"]
 localPaths: ["Marinette County / elevation 1066 ft band", "Marinette County / primary ZIP 54151", "Marinette County / coords 45.7800, -88.0000", "Marinette County / ZIP 54151 sector"]
+zillowHomeValueUsd: 180860
 ---
 
 **Engineering Notice for Niagara:** Envelope check: Exterior Cladding assigned to wind-load band C with stress factor 0.90. Regional dispatch grid: Marinette County.

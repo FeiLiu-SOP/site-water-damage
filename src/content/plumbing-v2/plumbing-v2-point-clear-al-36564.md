@@ -12,6 +12,8 @@ lng: -87.9100
 zipSample: ["36564", "36532"]
 zipCodes: ["36564", "36532"]
 localPaths: ["Baldwin County / coords 30.4900, -87.9100", "Baldwin County / ZIP 36564 sector", "Baldwin County / primary ZIP 36564", "Baldwin County / ZIP 36532 sector", "Baldwin County / elevation 43 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 212095
 ---
 
 **Engineering Notice for Point Clear:** System optimized for 158 mg/L hard water scaling factors in Point Clear. Regional dispatch grid: Baldwin County.

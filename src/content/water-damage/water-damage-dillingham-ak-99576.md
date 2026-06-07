@@ -12,6 +12,8 @@ lng: -158.5400
 zipSample: ["99576"]
 zipCodes: ["99576"]
 localPaths: ["Dillingham County / ZIP 99576 sector", "Dillingham County / coords 59.0500, -158.5400", "Dillingham County / primary ZIP 99576", "Dillingham County / elevation 102 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 367116
 ---
 
 **Engineering Notice for Dillingham:** structural drying capacity optimized for 102ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Dillingham County. Relative Humidity Threshold: 71%. Sensor sync: Active.

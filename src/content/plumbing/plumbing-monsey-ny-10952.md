@@ -12,6 +12,7 @@ lng: -74.0700
 zipSample: ["10952", "10977"]
 zipCodes: ["10952", "10977"]
 localPaths: ["Rockland County / primary ZIP 10952", "Rockland County / coords 41.1200, -74.0700", "Rockland County / elevation 554 ft band", "Rockland County / ZIP 10952 sector", "Rockland County / ZIP 10977 sector"]
+zillowHomeValueUsd: 1129921
 ---
 
 **Engineering Notice for Monsey:** Structural loading calculated based on 554 ft terrain assessment. Regional dispatch grid: Rockland County.

@@ -12,6 +12,7 @@ lng: -77.3800
 zipSample: ["27812"]
 zipCodes: ["27812"]
 localPaths: ["Pitt County / ZIP 27812 sector", "Pitt County / elevation 85 ft band", "Pitt County / primary ZIP 27812", "Pitt County / coords 35.8100, -77.3800"]
+zillowHomeValueUsd: 151467
 ---
 
 **Engineering Notice for Bethel:** Site context locked to Pitt County. Exterior Cladding integrity verification recorded.

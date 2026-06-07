@@ -12,6 +12,7 @@ lng: -78.8800
 zipSample: ["15904", "15902"]
 zipCodes: ["15902", "15904"]
 localPaths: ["Cambria County / ZIP 15902 sector", "Cambria County / coords 40.3100, -78.8800", "Cambria County / primary ZIP 15904", "Cambria County / ZIP 15904 sector", "Cambria County / elevation 1739 ft band"]
+zillowHomeValueUsd: 142458
 ---
 
 **Engineering Notice for Oakland:** Facade Renewal was validated under stress factor 1.12; target tolerance set near 90 mph. Coordinates: 40.3100, -78.8800. Grid anchor: Cambria County.

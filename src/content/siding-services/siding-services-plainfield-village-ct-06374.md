@@ -12,6 +12,7 @@ lng: -71.9200
 zipSample: ["06374"]
 zipCodes: ["06374"]
 localPaths: ["Northeastern Connecticut County / ZIP 06374 sector", "Northeastern Connecticut County / coords 41.6800, -71.9200", "Northeastern Connecticut County / primary ZIP 06374", "Northeastern Connecticut County / elevation 197 ft band"]
+zillowHomeValueUsd: 334184
 ---
 
 **Engineering Notice for Plainfield Village:** Envelope check: Facade Renewal assigned to wind-load band C with stress factor 0.99. Regional dispatch grid: Northeastern Connecticut County.

@@ -12,6 +12,7 @@ lng: -70.6200
 zipSample: ["02559"]
 zipCodes: ["02559"]
 localPaths: ["Barnstable County / elevation 20 ft band", "Barnstable County / ZIP 02559 sector", "Barnstable County / primary ZIP 02559", "Barnstable County / coords 41.6900, -70.6200"]
+zillowHomeValueUsd: 754057
 ---
 
 **Engineering Notice for Pocasset:** System optimized for 175 mg/L hard water scaling factors in Pocasset. Regional dispatch grid: Barnstable County.

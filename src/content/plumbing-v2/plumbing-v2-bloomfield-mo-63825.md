@@ -12,6 +12,7 @@ lng: -89.9300
 zipSample: ["63825"]
 zipCodes: ["63825"]
 localPaths: ["Stoddard County / ZIP 63825 sector", "Stoddard County / primary ZIP 63825", "Stoddard County / coords 36.8900, -89.9300", "Stoddard County / elevation 453 ft band"]
+zillowHomeValueUsd: 145428
 ---
 
 **Engineering Notice for Bloomfield:** System optimized for 176 mg/L hard water scaling factors in Bloomfield. Regional dispatch grid: Stoddard County.

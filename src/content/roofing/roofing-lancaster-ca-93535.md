@@ -11,6 +11,7 @@ lng: -118.1800
 zipSample: ["93535", "93534", "93584", "93539", "93536"]
 zipCodes: ["93535", "93539", "93534", "93584", "93536"]
 localPaths: ["Los Angeles County / coords 34.6900, -118.1800", "Los Angeles County / ZIP 93534 sector", "Los Angeles County / ZIP 93539 sector", "Los Angeles County / ZIP 93535 sector", "Los Angeles County / ZIP 93584 sector"]
+zillowHomeValueUsd: 430014
 ---
 
 **Engineering Notice for Lancaster:** Structural loading calculated based on 2346 ft terrain assessment. Regional dispatch grid: Los Angeles County.

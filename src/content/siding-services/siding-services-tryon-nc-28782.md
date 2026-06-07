@@ -12,6 +12,7 @@ lng: -82.2400
 zipSample: ["28782"]
 zipCodes: ["28782"]
 localPaths: ["Polk County / primary ZIP 28782", "Polk County / elevation 1083 ft band", "Polk County / coords 35.2100, -82.2400", "Polk County / ZIP 28782 sector"]
+zillowHomeValueUsd: 351566
 ---
 
 **Engineering Notice for Tryon:** Cladding verification uses 101 mph routing baseline; lateral pressure note: 13.3 psf. Elevation: 1083 ft AMSL. Coordinates: 35.2100, -82.2400. Grid: Polk County.

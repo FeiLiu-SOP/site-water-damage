@@ -12,6 +12,7 @@ lng: -114.4100
 zipSample: ["83352"]
 zipCodes: ["83352"]
 localPaths: ["Lincoln County / elevation 3973 ft band", "Lincoln County / primary ZIP 83352", "Lincoln County / ZIP 83352 sector", "Lincoln County / coords 42.9400, -114.4100"]
+zillowHomeValueUsd: 302800
 ---
 
 **Engineering Notice for Shoshone:** Site context locked to Lincoln County. Elevation: 3973 ft AMSL. Surface Sheathing integrity verification recorded.

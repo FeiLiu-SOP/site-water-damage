@@ -12,6 +12,7 @@ lng: -122.4000
 zipSample: ["98229"]
 zipCodes: ["98229"]
 localPaths: ["Whatcom County / ZIP 98229 sector", "Whatcom County / coords 48.7400, -122.4000", "Whatcom County / elevation 499 ft band", "Whatcom County / primary ZIP 98229"]
+zillowHomeValueUsd: 694565
 ---
 
 **Engineering Notice for Geneva:** Site context locked to Whatcom County. Coordinates: 48.7400, -122.4000. Weather Barrier Wrap integrity verification recorded.

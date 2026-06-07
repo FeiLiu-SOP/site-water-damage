@@ -12,6 +12,7 @@ lng: -76.5300
 zipSample: ["20714"]
 zipCodes: ["20714"]
 localPaths: ["Calvert County / elevation 26 ft band", "Calvert County / primary ZIP 20714", "Calvert County / ZIP 20714 sector", "Calvert County / coords 38.7100, -76.5300"]
+zillowHomeValueUsd: 414613
 ---
 
 **Engineering Notice for North Beach:** Envelope check: Cladding Retrofit assigned to wind-load band A with stress factor 0.80. Elevation: 26 ft AMSL. Regional dispatch grid: Calvert County.

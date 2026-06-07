@@ -12,6 +12,7 @@ lng: -81.0200
 zipSample: ["32709"]
 zipCodes: ["32709"]
 localPaths: ["Orange County / ZIP 32709 sector", "Orange County / coords 28.5600, -81.0200", "Orange County / elevation 62 ft band", "Orange County / primary ZIP 32709"]
+zillowHomeValueUsd: 475614
 ---
 
 **Engineering Notice for Christmas:** System optimized for 135 mg/L hard water scaling factors in Christmas. Regional dispatch grid: Orange County.

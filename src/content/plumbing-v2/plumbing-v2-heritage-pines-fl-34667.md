@@ -12,6 +12,7 @@ lng: -82.6300
 zipSample: ["34667"]
 zipCodes: ["34667"]
 localPaths: ["Pasco County / primary ZIP 34667", "Pasco County / coords 28.4300, -82.6300", "Pasco County / ZIP 34667 sector", "Pasco County / elevation 43 ft band"]
+zillowHomeValueUsd: 276821
 ---
 
 **Engineering Notice for Heritage Pines:** System optimized for 137 mg/L hard water scaling factors in Heritage Pines. Regional dispatch grid: Pasco County.

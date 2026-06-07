@@ -12,6 +12,7 @@ lng: -93.9600
 zipSample: ["56441"]
 zipCodes: ["56441"]
 localPaths: ["Crow Wing County / coords 46.4900, -93.9600", "Crow Wing County / elevation 1234 ft band", "Crow Wing County / primary ZIP 56441", "Crow Wing County / ZIP 56441 sector"]
+zillowHomeValueUsd: 240606
 ---
 
 **Engineering Notice for Crosby:** System optimized for 151 mg/L hard water scaling factors in Crosby. Regional dispatch grid: Crow Wing County.

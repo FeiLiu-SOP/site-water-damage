@@ -12,6 +12,7 @@ lng: -111.2700
 zipSample: ["84036"]
 zipCodes: ["84036"]
 localPaths: ["Summit County / ZIP 84036 sector", "Summit County / primary ZIP 84036", "Summit County / coords 40.6100, -111.2700", "Summit County / elevation 6594 ft band"]
+zillowHomeValueUsd: 1017827
 ---
 
 **Engineering Notice for Francis:** System optimized for 135 mg/L hard water scaling factors in Francis. Regional dispatch grid: Summit County.

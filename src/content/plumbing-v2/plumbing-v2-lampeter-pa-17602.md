@@ -12,6 +12,7 @@ lng: -76.2400
 zipSample: ["17537", "17602"]
 zipCodes: ["17602", "17537"]
 localPaths: ["Lancaster County / ZIP 17537 sector", "Lancaster County / coords 39.9900, -76.2400", "Lancaster County / ZIP 17602 sector", "Lancaster County / primary ZIP 17602", "Lancaster County / elevation 400 ft band"]
+zillowHomeValueUsd: 317031
 ---
 
 **Engineering Notice for Lampeter:** System optimized for 161 mg/L hard water scaling factors in Lampeter. Regional dispatch grid: Lancaster County.

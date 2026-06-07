@@ -12,6 +12,7 @@ lng: -98.2100
 zipSample: ["67579"]
 zipCodes: ["67579"]
 localPaths: ["Rice County / elevation 1650 ft band", "Rice County / ZIP 67579 sector", "Rice County / primary ZIP 67579", "Rice County / coords 38.2100, -98.2100"]
+zillowHomeValueUsd: 167310
 ---
 
 **Engineering Notice for Sterling:** Envelope check: Weather Barrier Wrap assigned to wind-load band C with stress factor 1.19. Elevation: 1650 ft AMSL. Regional dispatch grid: Rice County.

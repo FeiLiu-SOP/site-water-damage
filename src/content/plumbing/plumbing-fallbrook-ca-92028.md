@@ -12,6 +12,7 @@ lng: -117.2300
 zipSample: ["92088", "92028"]
 zipCodes: ["92088", "92028"]
 localPaths: ["San Diego County / ZIP 92028 sector", "San Diego County / primary ZIP 92028", "San Diego County / coords 33.3700, -117.2300", "San Diego County / ZIP 92088 sector", "San Diego County / elevation 705 ft band"]
+zillowHomeValueUsd: 885156
 ---
 
 **Engineering Notice for Fallbrook:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: San Diego County.

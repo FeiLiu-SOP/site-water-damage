@@ -12,6 +12,7 @@ lng: -83.5200
 zipSample: ["31793", "31794"]
 zipCodes: ["31793", "31794"]
 localPaths: ["Tift County / ZIP 31793 sector", "Tift County / coords 31.4600, -83.5200", "Tift County / ZIP 31794 sector", "Tift County / elevation 367 ft band", "Tift County / primary ZIP 31793"]
+zillowHomeValueUsd: 270635
 ---
 
 **Engineering Notice for Tifton:** Structural loading calculated based on 367 ft terrain assessment. Regional dispatch grid: Tift County.

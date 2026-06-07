@@ -11,6 +11,7 @@ lng: -81.5200
 zipSample: ["44132", "44117", "44123", "44119"]
 zipCodes: ["44119", "44117", "44123", "44132"]
 localPaths: ["Cuyahoga County / ZIP 44132 sector", "Cuyahoga County / primary ZIP 44132", "Cuyahoga County / ZIP 44117 sector", "Cuyahoga County / elevation 653 ft band", "Cuyahoga County / ZIP 44119 sector"]
+zillowHomeValueUsd: 148154
 ---
 
 **Engineering Notice for Euclid:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Cuyahoga County.

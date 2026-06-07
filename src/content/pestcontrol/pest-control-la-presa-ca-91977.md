@@ -11,6 +11,7 @@ lng: -117.0000
 zipSample: ["91977"]
 zipCodes: ["91977"]
 localPaths: ["San Diego County / coords 32.7100, -117.0000", "San Diego County / elevation 295 ft band", "San Diego County / primary ZIP 91977", "San Diego County / ZIP 91977 sector"]
+zillowHomeValueUsd: 768729
 ---
 
 **Engineering Notice for La Presa:** Structural loading calculated based on 295 ft terrain assessment. Regional dispatch grid: San Diego County.

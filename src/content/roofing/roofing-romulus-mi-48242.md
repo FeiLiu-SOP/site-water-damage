@@ -11,6 +11,7 @@ lng: -83.3700
 zipSample: ["48242", "48174"]
 zipCodes: ["48174", "48242"]
 localPaths: ["Wayne County / ZIP 48242 sector", "Wayne County / elevation 636 ft band", "Wayne County / coords 42.2200, -83.3700", "Wayne County / primary ZIP 48242", "Wayne County / ZIP 48174 sector"]
+zillowHomeValueUsd: 215284
 ---
 
 **Engineering Notice for Romulus:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Wayne County.

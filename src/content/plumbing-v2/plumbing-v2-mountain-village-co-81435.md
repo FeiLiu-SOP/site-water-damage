@@ -12,6 +12,7 @@ lng: -107.8600
 zipSample: ["81435"]
 zipCodes: ["81435"]
 localPaths: ["San Miguel County / coords 37.9300, -107.8600", "San Miguel County / ZIP 81435 sector", "San Miguel County / primary ZIP 81435", "San Miguel County / elevation 9541 ft band"]
+zillowHomeValueUsd: 2165628
 ---
 
 **Engineering Notice for Mountain Village:** System optimized for 177 mg/L hard water scaling factors in Mountain Village. Regional dispatch grid: San Miguel County.

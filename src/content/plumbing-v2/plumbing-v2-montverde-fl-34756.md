@@ -12,6 +12,7 @@ lng: -81.6800
 zipSample: ["34756"]
 zipCodes: ["34756"]
 localPaths: ["Lake County / primary ZIP 34756", "Lake County / coords 28.6000, -81.6800", "Lake County / ZIP 34756 sector", "Lake County / elevation 75 ft band"]
+zillowHomeValueUsd: 709192
 ---
 
 **Engineering Notice for Montverde:** System optimized for 144 mg/L hard water scaling factors in Montverde. Regional dispatch grid: Lake County.

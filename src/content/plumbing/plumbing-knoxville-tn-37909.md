@@ -12,6 +12,7 @@ lng: -83.9500
 zipSample: ["37922", "37921", "37939", "37909", "37927"]
 zipCodes: ["37996", "37920", "37928", "37919", "37916", "37995", "37921", "37902", "37927", "37915", "37909", "37922"]
 localPaths: ["Knox County / primary ZIP 37909", "Knox County / ZIP 37939 sector", "Knox County / ZIP 37927 sector", "Knox County / ZIP 37909 sector", "Knox County / coords 35.9700, -83.9500"]
+zillowHomeValueUsd: 376412
 ---
 
 **Engineering Notice for Knoxville:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Knox County.

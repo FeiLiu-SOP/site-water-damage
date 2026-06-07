@@ -12,6 +12,7 @@ lng: -111.8100
 zipSample: ["86001", "86015"]
 zipCodes: ["86001", "86015"]
 localPaths: ["Coconino County / coords 35.2400, -111.8100", "Coconino County / ZIP 86001 sector", "Coconino County / ZIP 86015 sector", "Coconino County / primary ZIP 86015", "Coconino County / elevation 7169 ft band"]
+zillowHomeValueUsd: 545346
 ---
 
 **Engineering Notice for Bellemont:** System optimized for 178 mg/L hard water scaling factors in Bellemont. Regional dispatch grid: Coconino County.

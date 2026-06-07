@@ -12,6 +12,7 @@ lng: -79.8600
 zipSample: ["15133"]
 zipCodes: ["15133"]
 localPaths: ["Allegheny County / primary ZIP 15133", "Allegheny County / elevation 919 ft band", "Allegheny County / ZIP 15133 sector", "Allegheny County / coords 40.3200, -79.8600"]
+zillowHomeValueUsd: 117563
 ---
 
 **Engineering Notice for Liberty:** System optimized for 180 mg/L hard water scaling factors in Liberty. Regional dispatch grid: Allegheny County.

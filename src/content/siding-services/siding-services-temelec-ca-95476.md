@@ -12,6 +12,7 @@ lng: -122.5000
 zipSample: ["95476"]
 zipCodes: ["95476"]
 localPaths: ["Sonoma County / ZIP 95476 sector", "Sonoma County / elevation 121 ft band", "Sonoma County / coords 38.2600, -122.5000", "Sonoma County / primary ZIP 95476"]
+zillowHomeValueUsd: 954496
 ---
 
 **Engineering Notice for Temelec:** Cladding verification uses 146 mph routing baseline; lateral pressure note: 18.7 psf. Elevation: 121 ft AMSL. Grid: Sonoma County.

@@ -12,6 +12,7 @@ lng: -116.9700
 zipSample: ["91941", "91976", "92020", "91977"]
 zipCodes: ["91976", "92020", "91941", "91977"]
 localPaths: ["San Diego County / coords 32.7600, -116.9700", "San Diego County / ZIP 91977 sector", "San Diego County / primary ZIP 91977", "San Diego County / ZIP 92020 sector", "San Diego County / ZIP 91941 sector"]
+zillowHomeValueUsd: 768731
 ---
 
 **Engineering Notice for Casa de Oro-Mount Helix:** Structural loading calculated based on 843 ft terrain assessment. Regional dispatch grid: San Diego County.

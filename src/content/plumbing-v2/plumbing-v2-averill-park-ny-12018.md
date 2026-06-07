@@ -12,6 +12,7 @@ lng: -73.5600
 zipSample: ["12018"]
 zipCodes: ["12018"]
 localPaths: ["Rensselaer County / coords 42.6400, -73.5600", "Rensselaer County / primary ZIP 12018", "Rensselaer County / elevation 774 ft band", "Rensselaer County / ZIP 12018 sector"]
+zillowHomeValueUsd: 373170
 ---
 
 **Engineering Notice for Averill Park:** System optimized for 158 mg/L hard water scaling factors in Averill Park. Regional dispatch grid: Rensselaer County.

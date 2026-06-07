@@ -11,6 +11,7 @@ lng: -76.1100
 zipSample: ["21078"]
 zipCodes: ["21078"]
 localPaths: ["Harford County / ZIP 21078 sector", "Harford County / elevation 157 ft band", "Harford County / coords 39.5500, -76.1100", "Harford County / primary ZIP 21078"]
+zillowHomeValueUsd: 404467
 ---
 
 **Engineering Notice for Havre de Grace:** Structural loading calculated based on 157 ft terrain assessment. Regional dispatch grid: Harford County.

@@ -12,6 +12,7 @@ lng: -74.7400
 zipSample: ["08202"]
 zipCodes: ["08202"]
 localPaths: ["Cape May County / ZIP 08202 sector", "Cape May County / elevation 10 ft band", "Cape May County / primary ZIP 08202", "Cape May County / coords 39.0900, -74.7400"]
+zillowHomeValueUsd: 2682887
 ---
 
 **Engineering Notice for Avalon:** Envelope check: Cladding Service assigned to wind-load band C with stress factor 0.77. Elevation: 10 ft AMSL. Regional dispatch grid: Cape May County.

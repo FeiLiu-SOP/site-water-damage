@@ -11,6 +11,7 @@ lng: -116.4000
 zipSample: ["83642", "83680", "83646"]
 zipCodes: ["83646", "83680", "83642"]
 localPaths: ["Ada County / ZIP 83642 sector", "Ada County / ZIP 83646 sector", "Ada County / ZIP 83680 sector", "Ada County / elevation 2608 ft band", "Ada County / primary ZIP 83646"]
+zillowHomeValueUsd: 524427
 ---
 
 **Engineering Notice for Meridian:** Structural loading calculated based on 2608 ft terrain assessment. Regional dispatch grid: Ada County.

@@ -12,6 +12,7 @@ lng: -94.4200
 zipSample: ["75979"]
 zipCodes: ["75979"]
 localPaths: ["Tyler County / elevation 240 ft band", "Tyler County / ZIP 75979 sector", "Tyler County / primary ZIP 75979", "Tyler County / coords 30.6800, -94.4200"]
+zillowHomeValueUsd: 148947
 ---
 
 **Engineering Notice for Ivanhoe:** System optimized for 140 mg/L hard water scaling factors in Ivanhoe. Regional dispatch grid: Tyler County.

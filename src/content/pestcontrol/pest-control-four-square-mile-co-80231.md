@@ -11,6 +11,7 @@ lng: -104.8900
 zipSample: ["80247", "80231"]
 zipCodes: ["80231", "80247"]
 localPaths: ["Arapahoe County / coords 39.6800, -104.8900", "Arapahoe County / ZIP 80231 sector", "Arapahoe County / primary ZIP 80231", "Arapahoe County / elevation 5456 ft band", "Arapahoe County / ZIP 80247 sector"]
+zillowHomeValueUsd: 412653
 ---
 
 **Engineering Notice for Four Square Mile:** Structural loading calculated based on 5456 ft terrain assessment. Regional dispatch grid: Arapahoe County.

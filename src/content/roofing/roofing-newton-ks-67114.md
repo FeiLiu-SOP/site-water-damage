@@ -11,6 +11,7 @@ lng: -97.3400
 zipSample: ["67114"]
 zipCodes: ["67114"]
 localPaths: ["Harvey County / ZIP 67114 sector", "Harvey County / primary ZIP 67114", "Harvey County / elevation 1453 ft band", "Harvey County / coords 38.0400, -97.3400"]
+zillowHomeValueUsd: 170257
 ---
 
 **Engineering Notice for Newton:** Structural loading calculated based on 1453 ft terrain assessment. Regional dispatch grid: Harvey County.

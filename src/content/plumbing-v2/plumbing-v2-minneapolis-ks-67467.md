@@ -12,6 +12,7 @@ lng: -97.7000
 zipSample: ["67467"]
 zipCodes: ["67467"]
 localPaths: ["Ottawa County / elevation 1316 ft band", "Ottawa County / ZIP 67467 sector", "Ottawa County / coords 39.1200, -97.7000", "Ottawa County / primary ZIP 67467"]
+zillowHomeValueUsd: 159690
 ---
 
 **Engineering Notice for Minneapolis:** System optimized for 167 mg/L hard water scaling factors in Minneapolis. Regional dispatch grid: Ottawa County.

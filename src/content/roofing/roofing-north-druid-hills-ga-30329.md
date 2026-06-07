@@ -11,6 +11,7 @@ lng: -84.3300
 zipSample: ["30033", "30359", "30329", "30324"]
 zipCodes: ["30324", "30329", "30359", "30033"]
 localPaths: ["DeKalb County / ZIP 30359 sector", "DeKalb County / ZIP 30324 sector", "DeKalb County / elevation 1017 ft band", "DeKalb County / ZIP 30329 sector", "DeKalb County / ZIP 30033 sector"]
+zillowHomeValueUsd: 524046
 ---
 
 **Engineering Notice for North Druid Hills:** Structural loading calculated based on 1017 ft terrain assessment. Regional dispatch grid: DeKalb County.

@@ -12,6 +12,7 @@ lng: -86.9000
 zipSample: ["35073", "35036", "35117", "35214"]
 zipCodes: ["35214", "35036", "35117", "35073"]
 localPaths: ["Jefferson County / coords 33.6400, -86.9000", "Jefferson County / ZIP 35117 sector", "Jefferson County / ZIP 35214 sector", "Jefferson County / elevation 640 ft band", "Jefferson County / ZIP 35036 sector"]
+zillowHomeValueUsd: 143772
 ---
 
 **Engineering Notice for Brookside:** System optimized for 159 mg/L hard water scaling factors in Brookside. Regional dispatch grid: Jefferson County.

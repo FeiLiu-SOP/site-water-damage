@@ -12,6 +12,7 @@ lng: -88.1600
 zipSample: ["60431", "60435"]
 zipCodes: ["60431", "60435"]
 localPaths: ["Will County / ZIP 60435 sector", "Will County / elevation 617 ft band", "Will County / coords 41.5700, -88.1600", "Will County / ZIP 60431 sector", "Will County / primary ZIP 60431"]
+zillowHomeValueUsd: 345403
 ---
 
 **Engineering Notice for Crystal Lawns:** structural drying capacity optimized for 617ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Will County. Relative Humidity Threshold: 73%. Sensor sync: Active.

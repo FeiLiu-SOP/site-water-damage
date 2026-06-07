@@ -12,6 +12,7 @@ lng: -77.0600
 zipSample: ["23837"]
 zipCodes: ["23837"]
 localPaths: ["Southampton County / primary ZIP 23837", "Southampton County / elevation 62 ft band", "Southampton County / ZIP 23837 sector", "Southampton County / coords 36.7100, -77.0600"]
+zillowHomeValueUsd: 284232
 ---
 
 **Engineering Notice for Courtland:** System optimized for 157 mg/L hard water scaling factors in Courtland. Regional dispatch grid: Southampton County.

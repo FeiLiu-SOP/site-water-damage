@@ -11,6 +11,7 @@ lng: -77.0800
 zipSample: ["22306"]
 zipCodes: ["22306"]
 localPaths: ["Fairfax County / coords 38.7500, -77.0800", "Fairfax County / elevation 43 ft band", "Fairfax County / primary ZIP 22306", "Fairfax County / ZIP 22306 sector"]
+zillowHomeValueUsd: 641873
 ---
 
 **Engineering Notice for Hybla Valley:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Fairfax County.

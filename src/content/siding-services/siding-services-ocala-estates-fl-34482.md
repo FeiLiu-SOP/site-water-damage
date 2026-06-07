@@ -12,6 +12,7 @@ lng: -82.3100
 zipSample: ["34482"]
 zipCodes: ["34482"]
 localPaths: ["Marion County / primary ZIP 34482", "Marion County / coords 29.2000, -82.3100", "Marion County / ZIP 34482 sector", "Marion County / elevation 89 ft band"]
+zillowHomeValueUsd: 297963
 ---
 
 **Engineering Notice for Ocala Estates:** Site context locked to Marion County. Elevation: 89 ft AMSL. Cladding Service integrity verification recorded.

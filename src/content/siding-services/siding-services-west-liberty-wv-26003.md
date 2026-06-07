@@ -12,6 +12,7 @@ lng: -80.6000
 zipSample: ["26003", "26074"]
 zipCodes: ["26003", "26074"]
 localPaths: ["Ohio County / coords 40.1600, -80.6000", "Ohio County / primary ZIP 26003", "Ohio County / ZIP 26003 sector", "Ohio County / ZIP 26074 sector", "Ohio County / elevation 1102 ft band"]
+zillowHomeValueUsd: 156617
 ---
 
 **Engineering Notice for West Liberty:** Surface Sheathing was validated under stress factor 0.91; target tolerance set near 109 mph. Grid anchor: Ohio County.

@@ -12,6 +12,7 @@ lng: -95.7800
 zipSample: ["74013", "74012", "74014", "74011"]
 zipCodes: ["74011", "74012", "74014", "74013"]
 localPaths: ["Tulsa County / coords 36.0400, -95.7800", "Tulsa County / ZIP 74012 sector", "Tulsa County / primary ZIP 74014", "Tulsa County / ZIP 74014 sector", "Tulsa County / elevation 728 ft band"]
+zillowHomeValueUsd: 300931
 ---
 
 **Engineering Notice for Broken Arrow:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Tulsa County.

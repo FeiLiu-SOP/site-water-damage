@@ -12,6 +12,7 @@ lng: -73.5100
 zipSample: ["11756", "11714", "11783"]
 zipCodes: ["11783", "11714", "11756"]
 localPaths: ["Nassau County / elevation 92 ft band", "Nassau County / ZIP 11783 sector", "Nassau County / ZIP 11714 sector", "Nassau County / primary ZIP 11714", "Nassau County / coords 40.7200, -73.5100"]
+zillowHomeValueUsd: 771252
 ---
 
 **Engineering Notice for Levittown:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Nassau County.

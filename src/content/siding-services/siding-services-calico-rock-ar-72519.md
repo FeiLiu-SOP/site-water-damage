@@ -12,6 +12,7 @@ lng: -92.1300
 zipSample: ["72519"]
 zipCodes: ["72519"]
 localPaths: ["Izard County / primary ZIP 72519", "Izard County / ZIP 72519 sector", "Izard County / coords 36.1400, -92.1300", "Izard County / elevation 535 ft band"]
+zillowHomeValueUsd: 199012
 ---
 
 **Engineering Notice for Calico Rock:** Site context locked to Izard County. Elevation: 535 ft AMSL. Weather Barrier Wrap integrity verification recorded.

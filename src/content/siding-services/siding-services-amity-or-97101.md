@@ -12,6 +12,7 @@ lng: -123.2000
 zipSample: ["97101"]
 zipCodes: ["97101"]
 localPaths: ["Yamhill County / primary ZIP 97101", "Yamhill County / ZIP 97101 sector", "Yamhill County / elevation 164 ft band", "Yamhill County / coords 45.1200, -123.2000"]
+zillowHomeValueUsd: 577585
 ---
 
 **Engineering Notice for Amity:** Exterior Cladding was validated under stress factor 0.81; target tolerance set near 97 mph. Grid anchor: Yamhill County.

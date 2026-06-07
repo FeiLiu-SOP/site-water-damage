@@ -12,6 +12,8 @@ lng: -71.2800
 zipSample: ["01731"]
 zipCodes: ["01731"]
 localPaths: ["Middlesex County / elevation 151 ft band", "Middlesex County / primary ZIP 01731", "Middlesex County / ZIP 01731 sector", "Middlesex County / coords 42.4600, -71.2800"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 684064
 ---
 
 **Engineering Notice for Hanscom AFB:** Structural integrity verification: Surface Sheathing calibrated for 100 mph localized wind load factor. Coordinates: 42.4600, -71.2800. Regional dispatch grid: Middlesex County.

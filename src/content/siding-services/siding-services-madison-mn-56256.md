@@ -12,6 +12,7 @@ lng: -96.1900
 zipSample: ["56256"]
 zipCodes: ["56256"]
 localPaths: ["Lac qui Parle County / primary ZIP 56256", "Lac qui Parle County / ZIP 56256 sector", "Lac qui Parle County / elevation 1093 ft band", "Lac qui Parle County / coords 45.0100, -96.1900"]
+zillowHomeValueUsd: 171239
 ---
 
 **Engineering Notice for Madison:** Site context locked to Lac qui Parle County. Elevation: 1093 ft AMSL. Coordinates: 45.0100, -96.1900. Vinyl Panels integrity verification recorded.

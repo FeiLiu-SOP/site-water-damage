@@ -12,6 +12,7 @@ lng: -82.0500
 zipSample: ["33950"]
 zipCodes: ["33950"]
 localPaths: ["Charlotte County / primary ZIP 33950", "Charlotte County / elevation 20 ft band", "Charlotte County / coords 26.9000, -82.0500", "Charlotte County / ZIP 33950 sector"]
+zillowHomeValueUsd: 367288
 ---
 
 **Engineering Notice for Charlotte Park:** Envelope check: Wall Restoration assigned to wind-load band C with stress factor 0.87. Regional dispatch grid: Charlotte County.

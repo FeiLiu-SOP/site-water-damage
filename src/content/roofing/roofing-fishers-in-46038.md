@@ -11,6 +11,7 @@ lng: -85.9700
 zipSample: ["46256", "46038", "46037", "46040", "46085"]
 zipCodes: ["46038", "46085", "46040", "46037", "46256"]
 localPaths: ["Hamilton County / elevation 804 ft band", "Hamilton County / ZIP 46037 sector", "Hamilton County / primary ZIP 46038", "Hamilton County / ZIP 46085 sector", "Hamilton County / ZIP 46038 sector"]
+zillowHomeValueUsd: 379039
 ---
 
 **Engineering Notice for Fishers:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Hamilton County.

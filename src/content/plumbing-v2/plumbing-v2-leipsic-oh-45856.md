@@ -12,6 +12,7 @@ lng: -83.9700
 zipSample: ["45856"]
 zipCodes: ["45856"]
 localPaths: ["Putnam County / ZIP 45856 sector", "Putnam County / elevation 745 ft band", "Putnam County / primary ZIP 45856", "Putnam County / coords 41.1100, -83.9700"]
+zillowHomeValueUsd: 210835
 ---
 
 **Engineering Notice for Leipsic:** System optimized for 126 mg/L hard water scaling factors in Leipsic. Regional dispatch grid: Putnam County.

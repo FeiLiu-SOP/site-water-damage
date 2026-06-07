@@ -12,6 +12,7 @@ lng: -81.5700
 zipSample: ["31558"]
 zipCodes: ["31558"]
 localPaths: ["Camden County / elevation 39 ft band", "Camden County / ZIP 31558 sector", "Camden County / coords 30.7600, -81.5700", "Camden County / primary ZIP 31558"]
+zillowHomeValueUsd: 309064
 ---
 
 **Engineering Notice for St. Marys:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Camden County.

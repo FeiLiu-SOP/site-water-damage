@@ -11,6 +11,7 @@ lng: -111.5300
 zipSample: ["85128", "85194", "85191"]
 zipCodes: ["85191", "85194", "85128"]
 localPaths: ["Pinal County / elevation 1414 ft band", "Pinal County / ZIP 85191 sector", "Pinal County / coords 32.9400, -111.5300", "Pinal County / ZIP 85128 sector", "Pinal County / ZIP 85194 sector"]
+zillowHomeValueUsd: 362273
 ---
 
 **Engineering Notice for Coolidge:** Structural loading calculated based on 1414 ft terrain assessment. Regional dispatch grid: Pinal County.

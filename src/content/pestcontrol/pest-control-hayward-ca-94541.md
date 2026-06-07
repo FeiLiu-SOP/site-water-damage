@@ -11,6 +11,7 @@ lng: -122.0800
 zipSample: ["94545", "94587", "94544", "94543", "94557"]
 zipCodes: ["94557", "94545", "94544", "94540", "94542", "94543", "94587", "94541"]
 localPaths: ["Alameda County / ZIP 94587 sector", "Alameda County / primary ZIP 94541", "Alameda County / ZIP 94543 sector", "Alameda County / ZIP 94557 sector", "Alameda County / elevation 23 ft band"]
+zillowHomeValueUsd: 783225
 ---
 
 **Engineering Notice for Hayward:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Alameda County.

@@ -11,6 +11,7 @@ lng: -90.1800
 zipSample: ["70002", "70006", "70004", "70005", "70033"]
 zipCodes: ["70005", "70004", "70010", "70055", "70006", "70002", "70011", "70001", "70009", "70003", "70033"]
 localPaths: ["Jefferson Parish / coords 30.0000, -90.1800", "Jefferson Parish / ZIP 70005 sector", "Jefferson Parish / ZIP 70033 sector", "Jefferson Parish / ZIP 70006 sector", "Jefferson Parish / ZIP 70002 sector"]
+zillowHomeValueUsd: 346930
 ---
 
 **Engineering Notice for Metairie:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Jefferson Parish.

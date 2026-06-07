@@ -12,6 +12,7 @@ lng: -96.1700
 zipSample: ["75143"]
 zipCodes: ["75143"]
 localPaths: ["Henderson County / elevation 371 ft band", "Henderson County / primary ZIP 75143", "Henderson County / coords 32.2800, -96.1700", "Henderson County / ZIP 75143 sector"]
+zillowHomeValueUsd: 276081
 ---
 
 **Engineering Notice for Tool:** Envelope check: Facade Renewal assigned to wind-load band A with stress factor 1.12. Regional dispatch grid: Henderson County.

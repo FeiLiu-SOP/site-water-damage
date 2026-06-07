@@ -12,6 +12,7 @@ lng: -121.7200
 zipSample: ["93907", "95012"]
 zipCodes: ["95012", "93907"]
 localPaths: ["Monterey County / primary ZIP 93907", "Monterey County / ZIP 93907 sector", "Monterey County / coords 36.8100, -121.7200", "Monterey County / ZIP 95012 sector", "Monterey County / elevation 154 ft band"]
+zillowHomeValueUsd: 837749
 ---
 
 **Engineering Notice for Elkhorn:** System optimized for 135 mg/L hard water scaling factors in Elkhorn. Regional dispatch grid: Monterey County.

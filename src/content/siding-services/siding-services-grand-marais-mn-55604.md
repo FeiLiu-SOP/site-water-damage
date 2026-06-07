@@ -12,6 +12,7 @@ lng: -90.3400
 zipSample: ["55604"]
 zipCodes: ["55604"]
 localPaths: ["Cook County / ZIP 55604 sector", "Cook County / coords 47.7600, -90.3400", "Cook County / elevation 879 ft band", "Cook County / primary ZIP 55604"]
+zillowHomeValueUsd: 407350
 ---
 
 **Engineering Notice for Grand Marais:** Cladding verification uses 110 mph routing baseline; lateral pressure note: 14.4 psf. Elevation: 879 ft AMSL. Grid: Cook County.

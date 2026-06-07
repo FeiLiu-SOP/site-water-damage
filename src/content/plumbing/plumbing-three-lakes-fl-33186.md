@@ -12,6 +12,7 @@ lng: -80.4000
 zipSample: ["33186"]
 zipCodes: ["33186"]
 localPaths: ["Miami-Dade County / primary ZIP 33186", "Miami-Dade County / elevation 20 ft band", "Miami-Dade County / coords 25.6400, -80.4000", "Miami-Dade County / ZIP 33186 sector"]
+zillowHomeValueUsd: 522114
 ---
 
 **Engineering Notice for Three Lakes:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Miami-Dade County.

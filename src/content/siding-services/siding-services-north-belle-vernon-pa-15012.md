@@ -12,6 +12,7 @@ lng: -79.8600
 zipSample: ["15012"]
 zipCodes: ["15012"]
 localPaths: ["Westmoreland County / primary ZIP 15012", "Westmoreland County / coords 40.1300, -79.8600", "Westmoreland County / ZIP 15012 sector", "Westmoreland County / elevation 915 ft band"]
+zillowHomeValueUsd: 185711
 ---
 
 **Engineering Notice for North Belle Vernon:** Surface Sheathing was validated under stress factor 0.71; target tolerance set near 100 mph. Coordinates: 40.1300, -79.8600. Grid anchor: Westmoreland County.

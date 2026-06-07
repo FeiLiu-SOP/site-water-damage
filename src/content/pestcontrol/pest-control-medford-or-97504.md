@@ -11,6 +11,7 @@ lng: -122.8500
 zipSample: ["97501", "97504"]
 zipCodes: ["97501", "97504"]
 localPaths: ["Jackson County / ZIP 97504 sector", "Jackson County / ZIP 97501 sector", "Jackson County / coords 42.3400, -122.8500", "Jackson County / elevation 1411 ft band", "Jackson County / primary ZIP 97504"]
+zillowHomeValueUsd: 442659
 ---
 
 **Engineering Notice for Medford:** Structural loading calculated based on 1411 ft terrain assessment. Regional dispatch grid: Jackson County.

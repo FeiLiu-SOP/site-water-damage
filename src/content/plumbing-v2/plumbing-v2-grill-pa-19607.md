@@ -12,6 +12,7 @@ lng: -75.9300
 zipSample: ["19607"]
 zipCodes: ["19607"]
 localPaths: ["Berks County / ZIP 19607 sector", "Berks County / elevation 341 ft band", "Berks County / primary ZIP 19607", "Berks County / coords 40.3000, -75.9300"]
+zillowHomeValueUsd: 271895
 ---
 
 **Engineering Notice for Grill:** System optimized for 163 mg/L hard water scaling factors in Grill. Regional dispatch grid: Berks County.

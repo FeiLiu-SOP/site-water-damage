@@ -12,6 +12,7 @@ lng: -100.5200
 zipSample: ["73932"]
 zipCodes: ["73932"]
 localPaths: ["Beaver County / coords 36.8100, -100.5200", "Beaver County / ZIP 73932 sector", "Beaver County / primary ZIP 73932", "Beaver County / elevation 2448 ft band"]
+zillowHomeValueUsd: 108615
 ---
 
 **Engineering Notice for Beaver:** structural drying capacity optimized for 2448ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Beaver County. Relative Humidity Threshold: 82%. Sensor sync: Active.

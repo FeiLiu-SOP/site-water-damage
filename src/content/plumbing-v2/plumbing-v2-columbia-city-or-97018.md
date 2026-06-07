@@ -12,6 +12,7 @@ lng: -122.8100
 zipSample: ["97018"]
 zipCodes: ["97018"]
 localPaths: ["Columbia County / coords 45.9000, -122.8100", "Columbia County / primary ZIP 97018", "Columbia County / ZIP 97018 sector", "Columbia County / elevation 85 ft band"]
+zillowHomeValueUsd: 480371
 ---
 
 **Engineering Notice for Columbia City:** System optimized for 178 mg/L hard water scaling factors in Columbia City. Regional dispatch grid: Columbia County.

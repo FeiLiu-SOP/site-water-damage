@@ -12,6 +12,7 @@ lng: -89.4100
 zipSample: ["38040"]
 zipCodes: ["38040"]
 localPaths: ["Lauderdale County / primary ZIP 38040", "Lauderdale County / ZIP 38040 sector", "Lauderdale County / elevation 338 ft band", "Lauderdale County / coords 35.8800, -89.4100"]
+zillowHomeValueUsd: 147180
 ---
 
 **Engineering Notice for Halls:** Structural integrity verification: Wall Restoration calibrated for 95 mph localized wind load factor. Elevation: 338 ft AMSL. Coordinates: 35.8800, -89.4100. Regional dispatch grid: Lauderdale County.

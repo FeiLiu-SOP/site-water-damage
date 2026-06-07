@@ -11,6 +11,7 @@ lng: -111.5600
 zipSample: ["85144", "85143", "85142", "85140"]
 zipCodes: ["85143", "85142", "85140", "85144"]
 localPaths: ["Pinal County / primary ZIP 85143", "Pinal County / ZIP 85140 sector", "Pinal County / ZIP 85144 sector", "Pinal County / elevation 1493 ft band", "Pinal County / coords 33.1800, -111.5600"]
+zillowHomeValueUsd: 376913
 ---
 
 **Engineering Notice for San Tan Valley:** Structural loading calculated based on 1493 ft terrain assessment. Regional dispatch grid: Pinal County.

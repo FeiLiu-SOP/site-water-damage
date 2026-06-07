@@ -12,6 +12,7 @@ lng: -84.3300
 zipSample: ["41040"]
 zipCodes: ["41040"]
 localPaths: ["Pendleton County / elevation 581 ft band", "Pendleton County / coords 38.6700, -84.3300", "Pendleton County / ZIP 41040 sector", "Pendleton County / primary ZIP 41040"]
+zillowHomeValueUsd: 209868
 ---
 
 **Engineering Notice for Falmouth:** Cladding Service was validated under stress factor 1.17; target tolerance set near 98 mph. Grid anchor: Pendleton County.

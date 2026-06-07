@@ -11,6 +11,7 @@ lng: -71.4900
 zipSample: ["03062", "03061", "03063", "03064", "03060"]
 zipCodes: ["03060", "03064", "03062", "03061", "03063"]
 localPaths: ["Hillsborough County / ZIP 03064 sector", "Hillsborough County / ZIP 03063 sector", "Hillsborough County / elevation 203 ft band", "Hillsborough County / ZIP 03061 sector", "Hillsborough County / coords 42.7500, -71.4900"]
+zillowHomeValueUsd: 542697
 ---
 
 **Engineering Notice for Nashua:** Structural loading calculated based on 203 ft terrain assessment. Regional dispatch grid: Hillsborough County.

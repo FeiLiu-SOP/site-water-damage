@@ -12,6 +12,7 @@ lng: -93.3900
 zipSample: ["72833"]
 zipCodes: ["72833"]
 localPaths: ["Yell County / primary ZIP 72833", "Yell County / elevation 358 ft band", "Yell County / ZIP 72833 sector", "Yell County / coords 35.0500, -93.3900"]
+zillowHomeValueUsd: 153591
 ---
 
 **Engineering Notice for Danville:** Structural integrity verification: Exterior Cladding calibrated for 96 mph localized wind load factor. Elevation: 358 ft AMSL. Coordinates: 35.0500, -93.3900. Regional dispatch grid: Yell County.

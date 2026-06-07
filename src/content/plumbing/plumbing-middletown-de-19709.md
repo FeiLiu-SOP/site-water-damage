@@ -12,6 +12,7 @@ lng: -75.7200
 zipSample: ["19709"]
 zipCodes: ["19709"]
 localPaths: ["New Castle County / coords 39.4500, -75.7200", "New Castle County / primary ZIP 19709", "New Castle County / elevation 69 ft band", "New Castle County / ZIP 19709 sector"]
+zillowHomeValueUsd: 530083
 ---
 
 **Engineering Notice for Middletown:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: New Castle County.

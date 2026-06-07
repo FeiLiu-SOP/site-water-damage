@@ -12,6 +12,7 @@ lng: -72.4600
 zipSample: ["06412"]
 zipCodes: ["06412"]
 localPaths: ["Lower Connecticut River Valley County / ZIP 06412 sector", "Lower Connecticut River Valley County / primary ZIP 06412", "Lower Connecticut River Valley County / coords 41.4000, -72.4600", "Lower Connecticut River Valley County / elevation 144 ft band"]
+zillowHomeValueUsd: 520505
 ---
 
 **Engineering Notice for Chester Center:** Envelope check: Vinyl Panels assigned to wind-load band A with stress factor 1.07. Regional dispatch grid: Lower Connecticut River Valley County.

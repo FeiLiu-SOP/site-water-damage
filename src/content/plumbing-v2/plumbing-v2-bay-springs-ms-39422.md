@@ -12,6 +12,7 @@ lng: -89.2800
 zipSample: ["39422"]
 zipCodes: ["39422"]
 localPaths: ["Jasper County / coords 31.9800, -89.2800", "Jasper County / ZIP 39422 sector", "Jasper County / elevation 430 ft band", "Jasper County / primary ZIP 39422"]
+zillowHomeValueUsd: 134355
 ---
 
 **Engineering Notice for Bay Springs:** System optimized for 179 mg/L hard water scaling factors in Bay Springs. Regional dispatch grid: Jasper County.

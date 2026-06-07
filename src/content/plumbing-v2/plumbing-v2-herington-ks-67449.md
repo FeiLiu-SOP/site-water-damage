@@ -12,6 +12,7 @@ lng: -96.8700
 zipSample: ["67449"]
 zipCodes: ["67449"]
 localPaths: ["Morris County / primary ZIP 67449", "Morris County / elevation 1411 ft band", "Morris County / ZIP 67449 sector", "Morris County / coords 38.6900, -96.8700"]
+zillowHomeValueUsd: 96071
 ---
 
 **Engineering Notice for Herington:** System optimized for 156 mg/L hard water scaling factors in Herington. Regional dispatch grid: Morris County.

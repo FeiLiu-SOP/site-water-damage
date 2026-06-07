@@ -12,6 +12,7 @@ lng: -80.4500
 zipSample: ["28025", "28124"]
 zipCodes: ["28025", "28124"]
 localPaths: ["Cabarrus County / coords 35.3800, -80.4500", "Cabarrus County / primary ZIP 28124", "Cabarrus County / elevation 659 ft band", "Cabarrus County / ZIP 28124 sector", "Cabarrus County / ZIP 28025 sector"]
+zillowHomeValueUsd: 381038
 ---
 
 **Engineering Notice for Mount Pleasant:** Structural integrity verification: Weather Barrier Wrap calibrated for 97 mph localized wind load factor. Regional dispatch grid: Cabarrus County.

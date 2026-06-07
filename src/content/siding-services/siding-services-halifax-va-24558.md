@@ -12,6 +12,7 @@ lng: -78.9300
 zipSample: ["24558"]
 zipCodes: ["24558"]
 localPaths: ["Halifax County / elevation 394 ft band", "Halifax County / ZIP 24558 sector", "Halifax County / primary ZIP 24558", "Halifax County / coords 36.7600, -78.9300"]
+zillowHomeValueUsd: 172280
 ---
 
 **Engineering Notice for Halifax:** Site context locked to Halifax County. Elevation: 394 ft AMSL. Facade Renewal integrity verification recorded.

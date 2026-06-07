@@ -12,6 +12,7 @@ lng: -80.5600
 zipSample: ["26426"]
 zipCodes: ["26426"]
 localPaths: ["Harrison County / coords 39.2800, -80.5600", "Harrison County / ZIP 26426 sector", "Harrison County / elevation 1181 ft band", "Harrison County / primary ZIP 26426"]
+zillowHomeValueUsd: 127260
 ---
 
 **Engineering Notice for Salem:** Cladding verification uses 95 mph routing baseline; lateral pressure note: 12.6 psf. Elevation: 1181 ft AMSL. Coordinates: 39.2800, -80.5600. Grid: Harrison County.

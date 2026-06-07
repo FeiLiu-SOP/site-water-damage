@@ -12,6 +12,7 @@ lng: -92.1900
 zipSample: ["50651"]
 zipCodes: ["50651"]
 localPaths: ["Black Hawk County / ZIP 50651 sector", "Black Hawk County / elevation 830 ft band", "Black Hawk County / coords 42.3100, -92.1900", "Black Hawk County / primary ZIP 50651"]
+zillowHomeValueUsd: 230454
 ---
 
 **Engineering Notice for La Porte City:** System optimized for 178 mg/L hard water scaling factors in La Porte City. Regional dispatch grid: Black Hawk County.

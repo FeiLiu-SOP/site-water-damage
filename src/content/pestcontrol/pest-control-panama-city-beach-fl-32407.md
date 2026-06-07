@@ -11,6 +11,7 @@ lng: -85.8800
 zipSample: ["32413", "32417", "32407"]
 zipCodes: ["32413", "32407", "32417"]
 localPaths: ["Bay County / ZIP 32413 sector", "Bay County / ZIP 32417 sector", "Bay County / elevation 46 ft band", "Bay County / coords 30.2400, -85.8800", "Bay County / primary ZIP 32407"]
+zillowHomeValueUsd: 396033
 ---
 
 **Engineering Notice for Panama City Beach:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Bay County.

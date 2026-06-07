@@ -11,6 +11,7 @@ lng: -97.1900
 zipSample: ["76799", "76702", "76708", "76701", "76703"]
 zipCodes: ["76798", "76712", "76797", "76708", "76701", "76799", "76703", "76707", "76706", "76714", "76711", "76702"]
 localPaths: ["McLennan County / ZIP 76702 sector", "McLennan County / primary ZIP 76798", "McLennan County / ZIP 76701 sector", "McLennan County / ZIP 76708 sector", "McLennan County / coords 31.5600, -97.1900"]
+zillowHomeValueUsd: 248949
 ---
 
 **Engineering Notice for Waco:** Structural loading calculated based on 531 ft terrain assessment. Regional dispatch grid: McLennan County.

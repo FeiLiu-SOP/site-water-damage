@@ -12,6 +12,7 @@ lng: -87.9900
 zipSample: ["62420"]
 zipCodes: ["62420"]
 localPaths: ["Clark County / coords 39.3000, -87.9900", "Clark County / primary ZIP 62420", "Clark County / elevation 653 ft band", "Clark County / ZIP 62420 sector"]
+zillowHomeValueUsd: 123474
 ---
 
 **Engineering Notice for Casey:** System optimized for 144 mg/L hard water scaling factors in Casey. Regional dispatch grid: Clark County.

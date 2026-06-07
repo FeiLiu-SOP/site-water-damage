@@ -11,6 +11,7 @@ lng: -97.8700
 zipSample: ["73703", "73702", "73705", "73706", "73701"]
 zipCodes: ["73705", "73706", "73701", "73703", "73702"]
 localPaths: ["Garfield County / ZIP 73701 sector", "Garfield County / primary ZIP 73701", "Garfield County / ZIP 73706 sector", "Garfield County / coords 36.4100, -97.8700", "Garfield County / elevation 1276 ft band"]
+zillowHomeValueUsd: 78581
 ---
 
 **Engineering Notice for Enid:** Structural loading calculated based on 1276 ft terrain assessment. Regional dispatch grid: Garfield County.

@@ -12,6 +12,7 @@ lng: -89.3900
 zipSample: ["39402"]
 zipCodes: ["39402"]
 localPaths: ["Forrest County / elevation 233 ft band", "Forrest County / primary ZIP 39402", "Forrest County / ZIP 39402 sector", "Forrest County / coords 31.3800, -89.3900"]
+zillowHomeValueUsd: 276471
 ---
 
 **Engineering Notice for Rawls Springs:** System optimized for 128 mg/L hard water scaling factors in Rawls Springs. Regional dispatch grid: Forrest County.

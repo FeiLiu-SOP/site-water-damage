@@ -12,6 +12,7 @@ lng: -76.7100
 zipSample: ["17342", "17360", "17403"]
 zipCodes: ["17403", "17360", "17342"]
 localPaths: ["York County / ZIP 17403 sector", "York County / ZIP 17360 sector", "York County / elevation 781 ft band", "York County / primary ZIP 17403", "York County / ZIP 17342 sector"]
+zillowHomeValueUsd: 250729
 ---
 
 **Engineering Notice for Loganville:** System optimized for 137 mg/L hard water scaling factors in Loganville. Regional dispatch grid: York County.

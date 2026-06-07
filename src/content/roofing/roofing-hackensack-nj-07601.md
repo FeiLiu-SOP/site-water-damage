@@ -11,6 +11,7 @@ lng: -74.0500
 zipSample: ["07602", "07601"]
 zipCodes: ["07601", "07602"]
 localPaths: ["Bergen County / ZIP 07601 sector", "Bergen County / primary ZIP 07601", "Bergen County / ZIP 07602 sector", "Bergen County / elevation 23 ft band", "Bergen County / coords 40.8900, -74.0500"]
+zillowHomeValueUsd: 464967
 ---
 
 **Engineering Notice for Hackensack:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Bergen County.

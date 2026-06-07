@@ -12,6 +12,7 @@ lng: -90.3900
 zipSample: ["61239", "61244", "61282"]
 zipCodes: ["61239", "61244", "61282"]
 localPaths: ["Rock Island County / elevation 640 ft band", "Rock Island County / primary ZIP 61244", "Rock Island County / coords 41.5000, -90.3900", "Rock Island County / ZIP 61282 sector", "Rock Island County / ZIP 61244 sector"]
+zillowHomeValueUsd: 143019
 ---
 
 **Engineering Notice for Carbon Cliff:** System optimized for 180 mg/L hard water scaling factors in Carbon Cliff. Regional dispatch grid: Rock Island County.

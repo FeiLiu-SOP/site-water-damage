@@ -12,6 +12,7 @@ lng: -121.6900
 zipSample: ["98251"]
 zipCodes: ["98251"]
 localPaths: ["Snohomish County / primary ZIP 98251", "Snohomish County / ZIP 98251 sector", "Snohomish County / coords 47.8600, -121.6900", "Snohomish County / elevation 203 ft band"]
+zillowHomeValueUsd: 480053
 ---
 
 **Engineering Notice for Gold Bar:** structural drying capacity optimized for 203ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Snohomish County. Relative Humidity Threshold: 85%. Sensor sync: Active.

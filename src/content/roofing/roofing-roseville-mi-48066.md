@@ -11,6 +11,7 @@ lng: -82.9400
 zipSample: ["48066"]
 zipCodes: ["48066"]
 localPaths: ["Macomb County / primary ZIP 48066", "Macomb County / ZIP 48066 sector", "Macomb County / coords 42.5100, -82.9400", "Macomb County / elevation 623 ft band"]
+zillowHomeValueUsd: 169021
 ---
 
 **Engineering Notice for Roseville:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Macomb County.

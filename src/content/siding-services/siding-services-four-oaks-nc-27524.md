@@ -12,6 +12,7 @@ lng: -78.4200
 zipSample: ["27524"]
 zipCodes: ["27524"]
 localPaths: ["Johnston County / ZIP 27524 sector", "Johnston County / primary ZIP 27524", "Johnston County / coords 35.4400, -78.4200", "Johnston County / elevation 210 ft band"]
+zillowHomeValueUsd: 310380
 ---
 
 **Engineering Notice for Four Oaks:** Structural integrity verification: Cladding Retrofit calibrated for 91 mph localized wind load factor. Elevation: 210 ft AMSL. Coordinates: 35.4400, -78.4200. Regional dispatch grid: Johnston County.

@@ -11,6 +11,7 @@ lng: -77.5100
 zipSample: ["23294", "23228"]
 zipCodes: ["23294", "23228"]
 localPaths: ["Henrico County / elevation 233 ft band", "Henrico County / coords 37.6400, -77.5100", "Henrico County / ZIP 23228 sector", "Henrico County / primary ZIP 23294", "Henrico County / ZIP 23294 sector"]
+zillowHomeValueUsd: 360230
 ---
 
 **Engineering Notice for Laurel:** Structural loading calculated based on 233 ft terrain assessment. Regional dispatch grid: Henrico County.

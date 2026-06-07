@@ -11,6 +11,7 @@ lng: -71.1200
 zipSample: ["02139", "02141", "02140", "02142", "02138"]
 zipCodes: ["02141", "02140", "02138", "02477", "02139", "02142", "02238"]
 localPaths: ["Middlesex County / ZIP 02139 sector", "Middlesex County / coords 42.3800, -71.1200", "Middlesex County / ZIP 02141 sector", "Middlesex County / primary ZIP 02142", "Middlesex County / ZIP 02142 sector"]
+zillowHomeValueUsd: 1311594
 ---
 
 **Engineering Notice for Cambridge:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Middlesex County.

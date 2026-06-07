@@ -11,6 +11,7 @@ lng: -93.7600
 zipSample: ["77631", "77630", "77632"]
 zipCodes: ["77631", "77632", "77630"]
 localPaths: ["Orange County / ZIP 77631 sector", "Orange County / elevation 23 ft band", "Orange County / primary ZIP 77630", "Orange County / ZIP 77632 sector", "Orange County / coords 30.1200, -93.7600"]
+zillowHomeValueUsd: 146839
 ---
 
 **Engineering Notice for Orange:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Orange County.

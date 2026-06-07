@@ -12,6 +12,7 @@ lng: -86.4500
 zipSample: ["40143"]
 zipCodes: ["40143"]
 localPaths: ["Breckinridge County / elevation 699 ft band", "Breckinridge County / coords 37.7800, -86.4500", "Breckinridge County / ZIP 40143 sector", "Breckinridge County / primary ZIP 40143"]
+zillowHomeValueUsd: 178756
 ---
 
 **Engineering Notice for Hardinsburg:** System optimized for 129 mg/L hard water scaling factors in Hardinsburg. Regional dispatch grid: Breckinridge County.

@@ -12,6 +12,7 @@ lng: -90.1600
 zipSample: ["61542"]
 zipCodes: ["61542"]
 localPaths: ["Fulton County / coords 40.4000, -90.1600", "Fulton County / elevation 594 ft band", "Fulton County / primary ZIP 61542", "Fulton County / ZIP 61542 sector"]
+zillowHomeValueUsd: 98389
 ---
 
 **Engineering Notice for Lewistown:** structural drying capacity optimized for 594ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fulton County. Relative Humidity Threshold: 66%. Sensor sync: Active.

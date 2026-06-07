@@ -12,6 +12,7 @@ lng: -86.7600
 zipSample: ["35756", "35758"]
 zipCodes: ["35758", "35756"]
 localPaths: ["Madison County / coords 34.7100, -86.7600", "Madison County / ZIP 35756 sector", "Madison County / elevation 686 ft band", "Madison County / primary ZIP 35756", "Madison County / ZIP 35758 sector"]
+zillowHomeValueUsd: 386854
 ---
 
 **Engineering Notice for Madison:** Structural loading calculated based on 686 ft terrain assessment. Regional dispatch grid: Madison County.

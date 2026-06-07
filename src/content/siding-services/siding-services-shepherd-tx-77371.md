@@ -12,6 +12,7 @@ lng: -95.0000
 zipSample: ["77371"]
 zipCodes: ["77371"]
 localPaths: ["San Jacinto County / coords 30.4900, -95.0000", "San Jacinto County / elevation 180 ft band", "San Jacinto County / primary ZIP 77371", "San Jacinto County / ZIP 77371 sector"]
+zillowHomeValueUsd: 207391
 ---
 
 **Engineering Notice for Shepherd:** Structural integrity verification: Cladding Retrofit calibrated for 147 mph localized wind load factor. Regional dispatch grid: San Jacinto County.

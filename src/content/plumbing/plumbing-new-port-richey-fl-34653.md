@@ -12,6 +12,7 @@ lng: -82.7200
 zipSample: ["34653", "34656", "34652"]
 zipCodes: ["34656", "34653", "34652"]
 localPaths: ["Pasco County / elevation 46 ft band", "Pasco County / primary ZIP 34653", "Pasco County / ZIP 34656 sector", "Pasco County / ZIP 34653 sector", "Pasco County / coords 28.2500, -82.7200"]
+zillowHomeValueUsd: 249447
 ---
 
 **Engineering Notice for New Port Richey:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Pasco County.

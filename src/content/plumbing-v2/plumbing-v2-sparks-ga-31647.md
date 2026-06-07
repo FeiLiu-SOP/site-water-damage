@@ -12,6 +12,7 @@ lng: -83.4400
 zipSample: ["31647"]
 zipCodes: ["31647"]
 localPaths: ["Cook County / primary ZIP 31647", "Cook County / ZIP 31647 sector", "Cook County / coords 31.1700, -83.4400", "Cook County / elevation 269 ft band"]
+zillowHomeValueUsd: 125718
 ---
 
 **Engineering Notice for Sparks:** System optimized for 169 mg/L hard water scaling factors in Sparks. Regional dispatch grid: Cook County.

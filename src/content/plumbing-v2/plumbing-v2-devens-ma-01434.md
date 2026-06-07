@@ -12,6 +12,7 @@ lng: -71.6100
 zipSample: ["01432", "01434"]
 zipCodes: ["01434", "01432"]
 localPaths: ["Worcester County / ZIP 01434 sector", "Worcester County / coords 42.5400, -71.6100", "Worcester County / ZIP 01432 sector", "Worcester County / elevation 318 ft band", "Worcester County / primary ZIP 01434"]
+zillowHomeValueUsd: 581548
 ---
 
 **Engineering Notice for Devens:** System optimized for 175 mg/L hard water scaling factors in Devens. Regional dispatch grid: Worcester County.

@@ -11,6 +11,7 @@ lng: -85.6700
 zipSample: ["49315", "49548"]
 zipCodes: ["49548", "49315"]
 localPaths: ["Kent County / primary ZIP 49548", "Kent County / ZIP 49315 sector", "Kent County / elevation 676 ft band", "Kent County / coords 42.8400, -85.6700", "Kent County / ZIP 49548 sector"]
+zillowHomeValueUsd: 250329
 ---
 
 **Engineering Notice for Cutlerville:** Structural loading calculated based on 676 ft terrain assessment. Regional dispatch grid: Kent County.

@@ -11,6 +11,7 @@ lng: -117.2900
 zipSample: ["92570"]
 zipCodes: ["92570"]
 localPaths: ["Riverside County / ZIP 92570 sector", "Riverside County / coords 33.8300, -117.2900", "Riverside County / primary ZIP 92570", "Riverside County / elevation 1663 ft band"]
+zillowHomeValueUsd: 580612
 ---
 
 **Engineering Notice for Mead Valley:** Structural loading calculated based on 1663 ft terrain assessment. Regional dispatch grid: Riverside County.

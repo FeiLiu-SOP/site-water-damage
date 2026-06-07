@@ -12,6 +12,7 @@ lng: -93.9400
 zipSample: ["50003", "50261"]
 zipCodes: ["50261", "50003"]
 localPaths: ["Dallas County / coords 41.5200, -93.9400", "Dallas County / primary ZIP 50261", "Dallas County / elevation 997 ft band", "Dallas County / ZIP 50261 sector", "Dallas County / ZIP 50003 sector"]
+zillowHomeValueUsd: 406044
 ---
 
 **Engineering Notice for Van Meter:** System optimized for 179 mg/L hard water scaling factors in Van Meter. Regional dispatch grid: Dallas County.

@@ -12,6 +12,7 @@ lng: -72.3100
 zipSample: ["11976", "11932", "11962"]
 zipCodes: ["11976", "11962", "11932"]
 localPaths: ["Suffolk County / ZIP 11932 sector", "Suffolk County / ZIP 11962 sector", "Suffolk County / ZIP 11976 sector", "Suffolk County / elevation 23 ft band", "Suffolk County / primary ZIP 11932"]
+zillowHomeValueUsd: 4586464
 ---
 
 **Engineering Notice for Bridgehampton:** System optimized for 140 mg/L hard water scaling factors in Bridgehampton. Regional dispatch grid: Suffolk County.

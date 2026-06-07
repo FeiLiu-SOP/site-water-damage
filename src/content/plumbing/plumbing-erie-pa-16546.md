@@ -12,6 +12,7 @@ lng: -80.0700
 zipSample: ["16541", "16510", "16534", "16544", "16514"]
 zipCodes: ["16538", "16514", "16504", "16510", "16541", "16546", "16534", "16508", "16550", "16553", "16522", "16501"]
 localPaths: ["Erie County / ZIP 16541 sector", "Erie County / ZIP 16514 sector", "Erie County / primary ZIP 16546", "Erie County / ZIP 16534 sector", "Erie County / coords 42.1200, -80.0700"]
+zillowHomeValueUsd: 261979
 ---
 
 **Engineering Notice for Erie:** Structural loading calculated based on 709 ft terrain assessment. Regional dispatch grid: Erie County.

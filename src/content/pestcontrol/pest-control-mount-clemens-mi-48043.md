@@ -11,6 +11,7 @@ lng: -82.8800
 zipSample: ["48043", "48046"]
 zipCodes: ["48046", "48043"]
 localPaths: ["Macomb County / ZIP 48043 sector", "Macomb County / primary ZIP 48043", "Macomb County / coords 42.6000, -82.8800", "Macomb County / elevation 614 ft band", "Macomb County / ZIP 48046 sector"]
+zillowHomeValueUsd: 174697
 ---
 
 **Engineering Notice for Mount Clemens:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Macomb County.

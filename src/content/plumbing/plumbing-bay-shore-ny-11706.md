@@ -12,6 +12,7 @@ lng: -73.2500
 zipSample: ["11706"]
 zipCodes: ["11706"]
 localPaths: ["Suffolk County / primary ZIP 11706", "Suffolk County / coords 40.7300, -73.2500", "Suffolk County / ZIP 11706 sector", "Suffolk County / elevation 30 ft band"]
+zillowHomeValueUsd: 620331
 ---
 
 **Engineering Notice for Bay Shore:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Suffolk County.

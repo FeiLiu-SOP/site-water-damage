@@ -12,6 +12,7 @@ lng: -83.9600
 zipSample: ["43072"]
 zipCodes: ["43072"]
 localPaths: ["Champaign County / coords 40.1300, -83.9600", "Champaign County / elevation 1227 ft band", "Champaign County / ZIP 43072 sector", "Champaign County / primary ZIP 43072"]
+zillowHomeValueUsd: 241065
 ---
 
 **Engineering Notice for St. Paris:** System optimized for 179 mg/L hard water scaling factors in St. Paris. Regional dispatch grid: Champaign County.

@@ -12,6 +12,7 @@ lng: -75.5900
 zipSample: ["19706"]
 zipCodes: ["19706"]
 localPaths: ["New Castle County / elevation 16 ft band", "New Castle County / coords 39.5700, -75.5900", "New Castle County / ZIP 19706 sector", "New Castle County / primary ZIP 19706"]
+zillowHomeValueUsd: 293970
 ---
 
 **Engineering Notice for Delaware City:** System optimized for 161 mg/L hard water scaling factors in Delaware City. Regional dispatch grid: New Castle County.

@@ -12,6 +12,7 @@ lng: -84.5600
 zipSample: ["48929", "48937", "48909", "48922", "48919"]
 zipCodes: ["48924", "48937", "48919", "48901", "48929", "48906", "48922", "48951", "48956", "48910", "48915", "48912"]
 localPaths: ["Ingham County / primary ZIP 48912", "Ingham County / ZIP 48929 sector", "Ingham County / ZIP 48937 sector", "Ingham County / ZIP 48922 sector", "Ingham County / ZIP 48909 sector"]
+zillowHomeValueUsd: 136550
 ---
 
 **Engineering Notice for Lansing:** Structural loading calculated based on 863 ft terrain assessment. Regional dispatch grid: Ingham County.

@@ -12,6 +12,7 @@ lng: -98.0400
 zipSample: ["67003"]
 zipCodes: ["67003"]
 localPaths: ["Harper County / coords 37.1600, -98.0400", "Harper County / ZIP 67003 sector", "Harper County / primary ZIP 67003", "Harper County / elevation 1378 ft band"]
+zillowHomeValueUsd: 84503
 ---
 
 **Engineering Notice for Anthony:** Structural integrity verification: Wall Restoration calibrated for 104 mph localized wind load factor. Regional dispatch grid: Harper County.

@@ -12,6 +12,7 @@ lng: -72.0000
 zipSample: ["06340", "06355"]
 zipCodes: ["06340", "06355"]
 localPaths: ["Southeastern Connecticut County / ZIP 06340 sector", "Southeastern Connecticut County / ZIP 06355 sector", "Southeastern Connecticut County / elevation 148 ft band", "Southeastern Connecticut County / primary ZIP 06355", "Southeastern Connecticut County / coords 41.3300, -72.0000"]
+zillowHomeValueUsd: 569560
 ---
 
 **Engineering Notice for Noank:** System optimized for 135 mg/L hard water scaling factors in Noank. Regional dispatch grid: Southeastern Connecticut County.

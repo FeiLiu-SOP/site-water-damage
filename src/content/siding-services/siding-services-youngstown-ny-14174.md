@@ -12,6 +12,7 @@ lng: -79.0400
 zipSample: ["14174"]
 zipCodes: ["14174"]
 localPaths: ["Niagara County / primary ZIP 14174", "Niagara County / ZIP 14174 sector", "Niagara County / elevation 312 ft band", "Niagara County / coords 43.2500, -79.0400"]
+zillowHomeValueUsd: 329460
 ---
 
 **Engineering Notice for Youngstown:** Cladding verification uses 104 mph routing baseline; lateral pressure note: 13.7 psf. Elevation: 312 ft AMSL. Grid: Niagara County.

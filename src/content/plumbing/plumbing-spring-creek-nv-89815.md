@@ -12,6 +12,7 @@ lng: -115.6000
 zipSample: ["89815"]
 zipCodes: ["89815"]
 localPaths: ["Elko County / primary ZIP 89815", "Elko County / coords 40.7400, -115.6000", "Elko County / elevation 5453 ft band", "Elko County / ZIP 89815 sector"]
+zillowHomeValueUsd: 400922
 ---
 
 **Engineering Notice for Spring Creek:** Structural loading calculated based on 5453 ft terrain assessment. Regional dispatch grid: Elko County.

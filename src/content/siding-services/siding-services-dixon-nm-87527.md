@@ -12,6 +12,8 @@ lng: -105.8800
 zipSample: ["87527"]
 zipCodes: ["87527"]
 localPaths: ["Rio Arriba County / coords 36.1900, -105.8800", "Rio Arriba County / primary ZIP 87527", "Rio Arriba County / elevation 6191 ft band", "Rio Arriba County / ZIP 87527 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 308755
 ---
 
 **Engineering Notice for Dixon:** Envelope check: Exterior Envelope assigned to wind-load band C with stress factor 0.85. Elevation: 6191 ft AMSL. Regional dispatch grid: Rio Arriba County.

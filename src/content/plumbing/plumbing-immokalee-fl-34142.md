@@ -12,6 +12,7 @@ lng: -81.4300
 zipSample: ["34142", "34143"]
 zipCodes: ["34143", "34142"]
 localPaths: ["Collier County / coords 26.4300, -81.4300", "Collier County / ZIP 34142 sector", "Collier County / primary ZIP 34142", "Collier County / elevation 52 ft band", "Collier County / ZIP 34143 sector"]
+zillowHomeValueUsd: 342533
 ---
 
 **Engineering Notice for Immokalee:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Collier County.

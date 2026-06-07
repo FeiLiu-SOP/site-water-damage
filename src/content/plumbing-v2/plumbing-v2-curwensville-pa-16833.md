@@ -12,6 +12,7 @@ lng: -78.5200
 zipSample: ["16833"]
 zipCodes: ["16833"]
 localPaths: ["Clearfield County / coords 40.9700, -78.5200", "Clearfield County / ZIP 16833 sector", "Clearfield County / primary ZIP 16833", "Clearfield County / elevation 1152 ft band"]
+zillowHomeValueUsd: 135089
 ---
 
 **Engineering Notice for Curwensville:** System optimized for 151 mg/L hard water scaling factors in Curwensville. Regional dispatch grid: Clearfield County.

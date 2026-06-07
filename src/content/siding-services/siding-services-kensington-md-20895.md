@@ -12,6 +12,7 @@ lng: -77.0700
 zipSample: ["20895", "20891"]
 zipCodes: ["20891", "20895"]
 localPaths: ["Montgomery County / elevation 302 ft band", "Montgomery County / ZIP 20895 sector", "Montgomery County / coords 39.0300, -77.0700", "Montgomery County / primary ZIP 20895", "Montgomery County / ZIP 20891 sector"]
+zillowHomeValueUsd: 819912
 ---
 
 **Engineering Notice for Kensington:** Site context locked to Montgomery County. Elevation: 302 ft AMSL. Panel Replacement integrity verification recorded.

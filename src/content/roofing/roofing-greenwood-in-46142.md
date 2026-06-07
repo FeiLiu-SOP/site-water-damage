@@ -11,6 +11,7 @@ lng: -86.1100
 zipSample: ["46143", "46142"]
 zipCodes: ["46142", "46143"]
 localPaths: ["Johnson County / ZIP 46143 sector", "Johnson County / elevation 807 ft band", "Johnson County / primary ZIP 46142", "Johnson County / ZIP 46142 sector", "Johnson County / coords 39.6000, -86.1100"]
+zillowHomeValueUsd: 317826
 ---
 
 **Engineering Notice for Greenwood:** Structural loading calculated based on 807 ft terrain assessment. Regional dispatch grid: Johnson County.

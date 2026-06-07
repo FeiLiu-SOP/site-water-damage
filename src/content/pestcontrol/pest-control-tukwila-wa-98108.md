@@ -11,6 +11,7 @@ lng: -122.2700
 zipSample: ["98190", "98138", "98168", "98178", "98108"]
 zipCodes: ["98138", "98190", "98168", "98188", "98108", "98178"]
 localPaths: ["King County / primary ZIP 98108", "King County / ZIP 98190 sector", "King County / ZIP 98138 sector", "King County / coords 47.4800, -122.2700", "King County / ZIP 98178 sector"]
+zillowHomeValueUsd: 703533
 ---
 
 **Engineering Notice for Tukwila:** Structural loading calculated based on 240 ft terrain assessment. Regional dispatch grid: King County.

@@ -12,6 +12,7 @@ lng: -72.9900
 zipSample: ["06460"]
 zipCodes: ["06460"]
 localPaths: ["South Central Connecticut County / coords 41.2300, -72.9900", "South Central Connecticut County / elevation 46 ft band", "South Central Connecticut County / primary ZIP 06460", "South Central Connecticut County / ZIP 06460 sector"]
+zillowHomeValueUsd: 494404
 ---
 
 **Engineering Notice for Woodmont:** structural drying capacity optimized for 46ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: South Central Connecticut County. Relative Humidity Threshold: 77%. Sensor sync: Active.

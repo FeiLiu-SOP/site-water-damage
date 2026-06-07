@@ -12,6 +12,7 @@ lng: -82.6400
 zipSample: ["32621"]
 zipCodes: ["32621"]
 localPaths: ["Levy County / ZIP 32621 sector", "Levy County / primary ZIP 32621", "Levy County / elevation 92 ft band", "Levy County / coords 29.4500, -82.6400"]
+zillowHomeValueUsd: 245929
 ---
 
 **Engineering Notice for Bronson:** Structural integrity verification: Surface Sheathing calibrated for 132 mph localized wind load factor. Elevation: 92 ft AMSL. Regional dispatch grid: Levy County.

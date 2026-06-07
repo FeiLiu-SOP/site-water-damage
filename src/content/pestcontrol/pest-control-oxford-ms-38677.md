@@ -11,6 +11,7 @@ lng: -89.5300
 zipSample: ["38677", "38655"]
 zipCodes: ["38677", "38655"]
 localPaths: ["Lafayette County / ZIP 38677 sector", "Lafayette County / primary ZIP 38677", "Lafayette County / elevation 486 ft band", "Lafayette County / ZIP 38655 sector", "Lafayette County / coords 34.3600, -89.5300"]
+zillowHomeValueUsd: 413647
 ---
 
 **Engineering Notice for Oxford:** Structural loading calculated based on 486 ft terrain assessment. Regional dispatch grid: Lafayette County.

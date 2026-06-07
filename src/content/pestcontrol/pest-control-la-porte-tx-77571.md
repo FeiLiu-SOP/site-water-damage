@@ -11,6 +11,7 @@ lng: -95.0500
 zipSample: ["77571", "77572"]
 zipCodes: ["77571", "77572"]
 localPaths: ["Harris County / elevation 23 ft band", "Harris County / ZIP 77572 sector", "Harris County / ZIP 77571 sector", "Harris County / coords 29.6700, -95.0500", "Harris County / primary ZIP 77571"]
+zillowHomeValueUsd: 257185
 ---
 
 **Engineering Notice for La Porte:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Harris County.

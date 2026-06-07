@@ -12,6 +12,7 @@ lng: -95.6900
 zipSample: ["75432"]
 zipCodes: ["75432"]
 localPaths: ["Delta County / coords 33.3700, -95.6900", "Delta County / primary ZIP 75432", "Delta County / ZIP 75432 sector", "Delta County / elevation 502 ft band"]
+zillowHomeValueUsd: 177290
 ---
 
 **Engineering Notice for Cooper:** System optimized for 137 mg/L hard water scaling factors in Cooper. Regional dispatch grid: Delta County.

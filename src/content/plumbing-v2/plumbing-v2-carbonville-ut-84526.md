@@ -12,6 +12,7 @@ lng: -110.8300
 zipSample: ["84501", "84526"]
 zipCodes: ["84501", "84526"]
 localPaths: ["Carbon County / ZIP 84526 sector", "Carbon County / coords 39.6300, -110.8300", "Carbon County / primary ZIP 84526", "Carbon County / elevation 5676 ft band", "Carbon County / ZIP 84501 sector"]
+zillowHomeValueUsd: 283369
 ---
 
 **Engineering Notice for Carbonville:** System optimized for 144 mg/L hard water scaling factors in Carbonville. Regional dispatch grid: Carbon County.

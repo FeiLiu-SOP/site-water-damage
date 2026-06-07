@@ -12,6 +12,7 @@ lng: -83.3800
 zipSample: ["48185", "48186"]
 zipCodes: ["48186", "48185"]
 localPaths: ["Wayne County / ZIP 48185 sector", "Wayne County / primary ZIP 48185", "Wayne County / elevation 676 ft band", "Wayne County / coords 42.3200, -83.3800", "Wayne County / ZIP 48186 sector"]
+zillowHomeValueUsd: 223254
 ---
 
 **Engineering Notice for Westland:** Structural loading calculated based on 676 ft terrain assessment. Regional dispatch grid: Wayne County.

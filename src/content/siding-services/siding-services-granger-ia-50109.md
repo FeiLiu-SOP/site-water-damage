@@ -12,6 +12,7 @@ lng: -93.8200
 zipSample: ["50109"]
 zipCodes: ["50109"]
 localPaths: ["Dallas County / elevation 889 ft band", "Dallas County / primary ZIP 50109", "Dallas County / ZIP 50109 sector", "Dallas County / coords 41.7600, -93.8200"]
+zillowHomeValueUsd: 375448
 ---
 
 **Engineering Notice for Granger:** Envelope check: Surface Sheathing assigned to wind-load band C with stress factor 1.11. Regional dispatch grid: Dallas County.

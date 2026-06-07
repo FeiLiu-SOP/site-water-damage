@@ -12,6 +12,7 @@ lng: -82.4800
 zipSample: ["45651"]
 zipCodes: ["45651"]
 localPaths: ["Vinton County / primary ZIP 45651", "Vinton County / coords 39.2500, -82.4800", "Vinton County / ZIP 45651 sector", "Vinton County / elevation 768 ft band"]
+zillowHomeValueUsd: 171647
 ---
 
 **Engineering Notice for McArthur:** System optimized for 139 mg/L hard water scaling factors in McArthur. Regional dispatch grid: Vinton County.

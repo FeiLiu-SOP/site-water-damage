@@ -12,6 +12,7 @@ lng: -81.7300
 zipSample: ["44282", "44281"]
 zipCodes: ["44282", "44281"]
 localPaths: ["Medina County / ZIP 44282 sector", "Medina County / ZIP 44281 sector", "Medina County / elevation 1168 ft band", "Medina County / primary ZIP 44281", "Medina County / coords 41.0300, -81.7300"]
+zillowHomeValueUsd: 310263
 ---
 
 **Engineering Notice for Wadsworth:** Structural loading calculated based on 1168 ft terrain assessment. Regional dispatch grid: Medina County.

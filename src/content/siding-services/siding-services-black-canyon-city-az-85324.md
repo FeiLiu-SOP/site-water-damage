@@ -12,6 +12,7 @@ lng: -112.1200
 zipSample: ["85324"]
 zipCodes: ["85324"]
 localPaths: ["Yavapai County / coords 34.0700, -112.1200", "Yavapai County / ZIP 85324 sector", "Yavapai County / primary ZIP 85324", "Yavapai County / elevation 2096 ft band"]
+zillowHomeValueUsd: 373540
 ---
 
 **Engineering Notice for Black Canyon City:** Structural integrity verification: Cladding Service calibrated for 98 mph localized wind load factor. Elevation: 2096 ft AMSL. Coordinates: 34.0700, -112.1200. Regional dispatch grid: Yavapai County.

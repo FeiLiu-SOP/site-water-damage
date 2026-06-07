@@ -12,6 +12,7 @@ lng: -117.2400
 zipSample: ["92084", "92085", "92083", "92081"]
 zipCodes: ["92083", "92085", "92081", "92084"]
 localPaths: ["San Diego County / ZIP 92083 sector", "San Diego County / elevation 443 ft band", "San Diego County / primary ZIP 92084", "San Diego County / ZIP 92084 sector", "San Diego County / ZIP 92081 sector"]
+zillowHomeValueUsd: 906254
 ---
 
 **Engineering Notice for Vista:** Structural loading calculated based on 443 ft terrain assessment. Regional dispatch grid: San Diego County.

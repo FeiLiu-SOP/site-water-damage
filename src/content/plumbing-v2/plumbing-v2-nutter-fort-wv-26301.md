@@ -12,6 +12,7 @@ lng: -80.3300
 zipSample: ["26301"]
 zipCodes: ["26301"]
 localPaths: ["Harrison County / ZIP 26301 sector", "Harrison County / primary ZIP 26301", "Harrison County / coords 39.2600, -80.3300", "Harrison County / elevation 1030 ft band"]
+zillowHomeValueUsd: 116905
 ---
 
 **Engineering Notice for Nutter Fort:** System optimized for 127 mg/L hard water scaling factors in Nutter Fort. Regional dispatch grid: Harrison County.

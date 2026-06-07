@@ -12,6 +12,7 @@ lng: -75.0900
 zipSample: ["19012"]
 zipCodes: ["19012"]
 localPaths: ["Montgomery County / coords 40.0600, -75.0900", "Montgomery County / ZIP 19012 sector", "Montgomery County / elevation 171 ft band", "Montgomery County / primary ZIP 19012"]
+zillowHomeValueUsd: 392216
 ---
 
 **Engineering Notice for Cheltenham Village:** System optimized for 165 mg/L hard water scaling factors in Cheltenham Village. Regional dispatch grid: Montgomery County.

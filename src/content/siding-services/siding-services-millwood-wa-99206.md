@@ -12,6 +12,7 @@ lng: -117.2800
 zipSample: ["99212", "99206"]
 zipCodes: ["99206", "99212"]
 localPaths: ["Spokane County / ZIP 99212 sector", "Spokane County / coords 47.6900, -117.2800", "Spokane County / elevation 1946 ft band", "Spokane County / ZIP 99206 sector", "Spokane County / primary ZIP 99206"]
+zillowHomeValueUsd: 418821
 ---
 
 **Engineering Notice for Millwood:** Structural integrity verification: Panel Replacement calibrated for 100 mph localized wind load factor. Regional dispatch grid: Spokane County.

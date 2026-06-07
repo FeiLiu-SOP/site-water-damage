@@ -12,6 +12,8 @@ lng: -66.9400
 zipSample: ["00637"]
 zipCodes: ["00637"]
 localPaths: ["Sabana Grande County / ZIP 00637 sector", "Sabana Grande County / elevation 207 ft band", "Sabana Grande County / primary ZIP 00637", "Sabana Grande County / coords 18.0400, -66.9400"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 370957
 ---
 
 **Engineering Notice for Liborio Negrón Torres:** System optimized for 146 mg/L hard water scaling factors in Liborio Negrón Torres. Regional dispatch grid: Sabana Grande County.

@@ -11,6 +11,7 @@ lng: -77.1800
 zipSample: ["22040", "22046"]
 zipCodes: ["22046", "22040"]
 localPaths: ["Falls Church County / primary ZIP 22046", "Falls Church County / elevation 338 ft band", "Falls Church County / ZIP 22046 sector", "Falls Church County / ZIP 22040 sector", "Falls Church County / coords 38.8800, -77.1800"]
+zillowHomeValueUsd: 1052539
 ---
 
 **Engineering Notice for Falls Church:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Falls Church County.

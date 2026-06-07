@@ -12,6 +12,7 @@ lng: -106.8100
 zipSample: ["88007"]
 zipCodes: ["88007"]
 localPaths: ["Doña Ana County / primary ZIP 88007", "Doña Ana County / ZIP 88007 sector", "Doña Ana County / coords 32.3600, -106.8100", "Doña Ana County / elevation 3914 ft band"]
+zillowHomeValueUsd: 325963
 ---
 
 **Engineering Notice for San Ysidro:** System optimized for 163 mg/L hard water scaling factors in San Ysidro. Regional dispatch grid: Doña Ana County.

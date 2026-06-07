@@ -12,6 +12,7 @@ lng: -118.1500
 zipSample: ["99122"]
 zipCodes: ["99122"]
 localPaths: ["Lincoln County / ZIP 99122 sector", "Lincoln County / primary ZIP 99122", "Lincoln County / elevation 2372 ft band", "Lincoln County / coords 47.6600, -118.1500"]
+zillowHomeValueUsd: 363553
 ---
 
 **Engineering Notice for Davenport:** Structural integrity verification: Cladding Retrofit calibrated for 95 mph localized wind load factor. Elevation: 2372 ft AMSL. Regional dispatch grid: Lincoln County.

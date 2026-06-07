@@ -11,6 +11,7 @@ lng: -81.5400
 zipSample: ["26103", "26104", "26101"]
 zipCodes: ["26104", "26101", "26103"]
 localPaths: ["Wood County / ZIP 26103 sector", "Wood County / ZIP 26104 sector", "Wood County / primary ZIP 26104", "Wood County / ZIP 26101 sector", "Wood County / coords 39.2600, -81.5400"]
+zillowHomeValueUsd: 172483
 ---
 
 **Engineering Notice for Parkersburg:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Wood County.

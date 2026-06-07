@@ -12,6 +12,7 @@ lng: -85.8200
 zipSample: ["46553"]
 zipCodes: ["46553"]
 localPaths: ["Elkhart County / coords 41.5000, -85.8200", "Elkhart County / elevation 830 ft band", "Elkhart County / ZIP 46553 sector", "Elkhart County / primary ZIP 46553"]
+zillowHomeValueUsd: 304815
 ---
 
 **Engineering Notice for New Paris:** Site context locked to Elkhart County. Elevation: 830 ft AMSL. Coordinates: 41.5000, -85.8200. Exterior Envelope integrity verification recorded.

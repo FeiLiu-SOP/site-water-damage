@@ -12,6 +12,7 @@ lng: -90.3000
 zipSample: ["39170"]
 zipCodes: ["39170"]
 localPaths: ["Hinds County / coords 32.1000, -90.3000", "Hinds County / primary ZIP 39170", "Hinds County / elevation 328 ft band", "Hinds County / ZIP 39170 sector"]
+zillowHomeValueUsd: 267907
 ---
 
 **Engineering Notice for Terry:** structural drying capacity optimized for 328ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Hinds County. Relative Humidity Threshold: 80%. Sensor sync: Active.

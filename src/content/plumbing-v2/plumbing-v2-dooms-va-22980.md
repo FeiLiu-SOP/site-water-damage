@@ -12,6 +12,7 @@ lng: -78.8500
 zipSample: ["22980"]
 zipCodes: ["22980"]
 localPaths: ["Augusta County / ZIP 22980 sector", "Augusta County / elevation 1332 ft band", "Augusta County / primary ZIP 22980", "Augusta County / coords 38.1000, -78.8500"]
+zillowHomeValueUsd: 313605
 ---
 
 **Engineering Notice for Dooms:** System optimized for 179 mg/L hard water scaling factors in Dooms. Regional dispatch grid: Augusta County.

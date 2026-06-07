@@ -12,6 +12,7 @@ lng: -85.3300
 zipSample: ["40071"]
 zipCodes: ["40071"]
 localPaths: ["Spencer County / primary ZIP 40071", "Spencer County / elevation 502 ft band", "Spencer County / coords 38.0400, -85.3300", "Spencer County / ZIP 40071 sector"]
+zillowHomeValueUsd: 364112
 ---
 
 **Engineering Notice for Taylorsville:** Facade Renewal was validated under stress factor 1.16; target tolerance set near 106 mph. Coordinates: 38.0400, -85.3300. Grid anchor: Spencer County.

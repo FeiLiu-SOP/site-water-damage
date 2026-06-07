@@ -12,6 +12,7 @@ lng: -83.9200
 zipSample: ["43318"]
 zipCodes: ["43318"]
 localPaths: ["Logan County / elevation 1004 ft band", "Logan County / coords 40.3100, -83.9200", "Logan County / ZIP 43318 sector", "Logan County / primary ZIP 43318"]
+zillowHomeValueUsd: 246757
 ---
 
 **Engineering Notice for De Graff:** System optimized for 150 mg/L hard water scaling factors in De Graff. Regional dispatch grid: Logan County.

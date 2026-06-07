@@ -12,6 +12,7 @@ lng: -84.3800
 zipSample: ["30541", "30513"]
 zipCodes: ["30513", "30541"]
 localPaths: ["Fannin County / coords 34.9500, -84.3800", "Fannin County / ZIP 30513 sector", "Fannin County / primary ZIP 30541", "Fannin County / elevation 1745 ft band", "Fannin County / ZIP 30541 sector"]
+zillowHomeValueUsd: 427826
 ---
 
 **Engineering Notice for Epworth:** structural drying capacity optimized for 1745ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Fannin County. Relative Humidity Threshold: 66%. Sensor sync: Active.

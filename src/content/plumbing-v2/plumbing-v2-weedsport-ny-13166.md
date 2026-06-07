@@ -12,6 +12,7 @@ lng: -76.5600
 zipSample: ["13166"]
 zipCodes: ["13166"]
 localPaths: ["Cayuga County / coords 43.0500, -76.5600", "Cayuga County / primary ZIP 13166", "Cayuga County / ZIP 13166 sector", "Cayuga County / elevation 407 ft band"]
+zillowHomeValueUsd: 225304
 ---
 
 **Engineering Notice for Weedsport:** System optimized for 122 mg/L hard water scaling factors in Weedsport. Regional dispatch grid: Cayuga County.

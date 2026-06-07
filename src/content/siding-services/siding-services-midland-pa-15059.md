@@ -12,6 +12,7 @@ lng: -80.4600
 zipSample: ["15059"]
 zipCodes: ["15059"]
 localPaths: ["Beaver County / coords 40.6400, -80.4600", "Beaver County / ZIP 15059 sector", "Beaver County / primary ZIP 15059", "Beaver County / elevation 774 ft band"]
+zillowHomeValueUsd: 104263
 ---
 
 **Engineering Notice for Midland:** Site context locked to Beaver County. Coordinates: 40.6400, -80.4600. Vinyl Panels integrity verification recorded.

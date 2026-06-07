@@ -11,6 +11,7 @@ lng: -80.6500
 zipSample: ["28075"]
 zipCodes: ["28075"]
 localPaths: ["Cabarrus County / elevation 597 ft band", "Cabarrus County / ZIP 28075 sector", "Cabarrus County / primary ZIP 28075", "Cabarrus County / coords 35.3100, -80.6500"]
+zillowHomeValueUsd: 502649
 ---
 
 **Engineering Notice for Harrisburg:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Cabarrus County.

@@ -12,6 +12,7 @@ lng: -80.4700
 zipSample: ["27041"]
 zipCodes: ["27041"]
 localPaths: ["Surry County / elevation 1115 ft band", "Surry County / coords 36.3900, -80.4700", "Surry County / ZIP 27041 sector", "Surry County / primary ZIP 27041"]
+zillowHomeValueUsd: 273967
 ---
 
 **Engineering Notice for Pilot Mountain:** Site context locked to Surry County. Elevation: 1115 ft AMSL. Coordinates: 36.3900, -80.4700. Exterior Cladding integrity verification recorded.

@@ -11,6 +11,7 @@ lng: -122.2100
 zipSample: ["98064", "98042", "98031", "98032", "98035"]
 zipCodes: ["98030", "98035", "98042", "98032", "98064", "98031", "98089"]
 localPaths: ["King County / primary ZIP 98031", "King County / ZIP 98042 sector", "King County / coords 47.3900, -122.2100", "King County / ZIP 98031 sector", "King County / ZIP 98064 sector"]
+zillowHomeValueUsd: 679973
 ---
 
 **Engineering Notice for Kent:** Structural loading calculated based on 400 ft terrain assessment. Regional dispatch grid: King County.

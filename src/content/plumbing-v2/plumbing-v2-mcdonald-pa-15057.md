@@ -12,6 +12,7 @@ lng: -80.2300
 zipSample: ["15057"]
 zipCodes: ["15057"]
 localPaths: ["Washington County / ZIP 15057 sector", "Washington County / coords 40.3700, -80.2300", "Washington County / elevation 984 ft band", "Washington County / primary ZIP 15057"]
+zillowHomeValueUsd: 391663
 ---
 
 **Engineering Notice for McDonald:** System optimized for 143 mg/L hard water scaling factors in McDonald. Regional dispatch grid: Washington County.

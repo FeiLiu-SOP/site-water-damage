@@ -12,6 +12,7 @@ lng: -92.9500
 zipSample: ["64658"]
 zipCodes: ["64658"]
 localPaths: ["Linn County / coords 39.7200, -92.9500", "Linn County / primary ZIP 64658", "Linn County / ZIP 64658 sector", "Linn County / elevation 869 ft band"]
+zillowHomeValueUsd: 134446
 ---
 
 **Engineering Notice for Marceline:** System optimized for 140 mg/L hard water scaling factors in Marceline. Regional dispatch grid: Linn County.

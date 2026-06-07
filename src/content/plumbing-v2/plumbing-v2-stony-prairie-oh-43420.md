@@ -12,6 +12,7 @@ lng: -83.1500
 zipSample: ["43420"]
 zipCodes: ["43420"]
 localPaths: ["Sandusky County / primary ZIP 43420", "Sandusky County / coords 41.3500, -83.1500", "Sandusky County / elevation 630 ft band", "Sandusky County / ZIP 43420 sector"]
+zillowHomeValueUsd: 173721
 ---
 
 **Engineering Notice for Stony Prairie:** System optimized for 164 mg/L hard water scaling factors in Stony Prairie. Regional dispatch grid: Sandusky County.

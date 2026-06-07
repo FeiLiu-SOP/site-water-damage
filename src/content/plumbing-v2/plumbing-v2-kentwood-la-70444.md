@@ -12,6 +12,7 @@ lng: -90.5200
 zipSample: ["70444"]
 zipCodes: ["70444"]
 localPaths: ["Tangipahoa Parish / coords 30.9300, -90.5200", "Tangipahoa Parish / ZIP 70444 sector", "Tangipahoa Parish / primary ZIP 70444", "Tangipahoa Parish / elevation 246 ft band"]
+zillowHomeValueUsd: 170625
 ---
 
 **Engineering Notice for Kentwood:** System optimized for 175 mg/L hard water scaling factors in Kentwood. Regional dispatch grid: Tangipahoa Parish.

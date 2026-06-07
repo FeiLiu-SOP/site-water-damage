@@ -11,6 +11,7 @@ lng: -87.8600
 zipSample: ["60161", "60160"]
 zipCodes: ["60161", "60160"]
 localPaths: ["Cook County / elevation 643 ft band", "Cook County / primary ZIP 60160", "Cook County / coords 41.9000, -87.8600", "Cook County / ZIP 60161 sector", "Cook County / ZIP 60160 sector"]
+zillowHomeValueUsd: 311391
 ---
 
 **Engineering Notice for Melrose Park:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Cook County.

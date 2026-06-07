@@ -12,6 +12,7 @@ lng: -87.7100
 zipSample: ["61817"]
 zipCodes: ["61817"]
 localPaths: ["Vermilion County / elevation 656 ft band", "Vermilion County / primary ZIP 61817", "Vermilion County / ZIP 61817 sector", "Vermilion County / coords 40.0700, -87.7100"]
+zillowHomeValueUsd: 166376
 ---
 
 **Engineering Notice for Catlin:** Envelope check: Exterior Cladding assigned to wind-load band B with stress factor 1.25. Regional dispatch grid: Vermilion County.

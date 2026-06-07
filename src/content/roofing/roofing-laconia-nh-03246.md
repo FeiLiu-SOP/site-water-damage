@@ -11,6 +11,7 @@ lng: -71.4800
 zipSample: ["03246"]
 zipCodes: ["03246"]
 localPaths: ["Belknap County / ZIP 03246 sector", "Belknap County / coords 43.5700, -71.4800", "Belknap County / elevation 587 ft band", "Belknap County / primary ZIP 03246"]
+zillowHomeValueUsd: 434162
 ---
 
 **Engineering Notice for Laconia:** Structural loading calculated based on 587 ft terrain assessment. Regional dispatch grid: Belknap County.

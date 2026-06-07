@@ -11,6 +11,7 @@ lng: -81.3400
 zipSample: ["44060", "44061"]
 zipCodes: ["44060", "44061"]
 localPaths: ["Lake County / ZIP 44060 sector", "Lake County / primary ZIP 44060", "Lake County / elevation 630 ft band", "Lake County / coords 41.6900, -81.3400", "Lake County / ZIP 44061 sector"]
+zillowHomeValueUsd: 271703
 ---
 
 **Engineering Notice for Mentor:** Structural loading calculated based on 630 ft terrain assessment. Regional dispatch grid: Lake County.

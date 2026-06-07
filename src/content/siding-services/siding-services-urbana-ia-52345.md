@@ -12,6 +12,7 @@ lng: -91.8900
 zipSample: ["52345"]
 zipCodes: ["52345"]
 localPaths: ["Benton County / elevation 915 ft band", "Benton County / primary ZIP 52345", "Benton County / coords 42.2300, -91.8900", "Benton County / ZIP 52345 sector"]
+zillowHomeValueUsd: 260846
 ---
 
 **Engineering Notice for Urbana:** Cladding verification uses 105 mph routing baseline; lateral pressure note: 13.8 psf. Coordinates: 42.2300, -91.8900. Grid: Benton County.

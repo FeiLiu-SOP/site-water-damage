@@ -12,6 +12,7 @@ lng: -83.6400
 zipSample: ["32331"]
 zipCodes: ["32331"]
 localPaths: ["Madison County / ZIP 32331 sector", "Madison County / elevation 144 ft band", "Madison County / primary ZIP 32331", "Madison County / coords 30.4700, -83.6400"]
+zillowHomeValueUsd: 218411
 ---
 
 **Engineering Notice for Greenville:** structural drying capacity optimized for 144ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Madison County. Relative Humidity Threshold: 75%. Sensor sync: Active.

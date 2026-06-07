@@ -11,6 +11,7 @@ lng: -102.3400
 zipSample: ["79763", "79768", "79761", "79762", "79765"]
 zipCodes: ["79763", "79768", "79765", "79761", "79762"]
 localPaths: ["Ector County / ZIP 79765 sector", "Ector County / ZIP 79761 sector", "Ector County / primary ZIP 79762", "Ector County / elevation 2946 ft band", "Ector County / ZIP 79763 sector"]
+zillowHomeValueUsd: 261327
 ---
 
 **Engineering Notice for Odessa:** Structural loading calculated based on 2946 ft terrain assessment. Regional dispatch grid: Ector County.

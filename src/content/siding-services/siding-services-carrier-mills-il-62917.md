@@ -12,6 +12,7 @@ lng: -88.6300
 zipSample: ["62917"]
 zipCodes: ["62917"]
 localPaths: ["Saline County / elevation 397 ft band", "Saline County / ZIP 62917 sector", "Saline County / coords 37.6900, -88.6300", "Saline County / primary ZIP 62917"]
+zillowHomeValueUsd: 74417
 ---
 
 **Engineering Notice for Carrier Mills:** Site context locked to Saline County. Coordinates: 37.6900, -88.6300. Facade Renewal integrity verification recorded.

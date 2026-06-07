@@ -12,6 +12,7 @@ lng: -88.5000
 zipSample: ["38855"]
 zipCodes: ["38855"]
 localPaths: ["Itawamba County / primary ZIP 38855", "Itawamba County / elevation 364 ft band", "Itawamba County / ZIP 38855 sector", "Itawamba County / coords 34.3300, -88.5000"]
+zillowHomeValueUsd: 166725
 ---
 
 **Engineering Notice for Mantachie:** Envelope check: Cladding Service assigned to wind-load band A with stress factor 1.10. Elevation: 364 ft AMSL. Regional dispatch grid: Itawamba County.

@@ -12,6 +12,7 @@ lng: -76.7400
 zipSample: ["28512"]
 zipCodes: ["28512"]
 localPaths: ["Carteret County / ZIP 28512 sector", "Carteret County / elevation 10 ft band", "Carteret County / primary ZIP 28512", "Carteret County / coords 34.7000, -76.7400"]
+zillowHomeValueUsd: 604438
 ---
 
 **Engineering Notice for Atlantic Beach:** System optimized for 137 mg/L hard water scaling factors in Atlantic Beach. Regional dispatch grid: Carteret County.

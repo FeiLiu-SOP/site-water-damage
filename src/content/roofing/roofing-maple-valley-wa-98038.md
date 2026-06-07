@@ -11,6 +11,7 @@ lng: -122.0400
 zipSample: ["98038"]
 zipCodes: ["98038"]
 localPaths: ["King County / elevation 541 ft band", "King County / coords 47.3700, -122.0400", "King County / ZIP 98038 sector", "King County / primary ZIP 98038"]
+zillowHomeValueUsd: 800437
 ---
 
 **Engineering Notice for Maple Valley:** Structural loading calculated based on 541 ft terrain assessment. Regional dispatch grid: King County.

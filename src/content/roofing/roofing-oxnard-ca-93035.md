@@ -11,6 +11,7 @@ lng: -119.1800
 zipSample: ["93032", "93036", "93031", "93030", "93033"]
 zipCodes: ["93030", "93032", "93036", "93031", "93035", "93034", "93033"]
 localPaths: ["Ventura County / primary ZIP 93035", "Ventura County / ZIP 93031 sector", "Ventura County / elevation 52 ft band", "Ventura County / ZIP 93030 sector", "Ventura County / ZIP 93032 sector"]
+zillowHomeValueUsd: 906983
 ---
 
 **Engineering Notice for Oxnard:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Ventura County.

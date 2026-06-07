@@ -12,6 +12,7 @@ lng: -122.6600
 zipSample: ["98366", "98367"]
 zipCodes: ["98367", "98366"]
 localPaths: ["Kitsap County / ZIP 98366 sector", "Kitsap County / elevation 236 ft band", "Kitsap County / ZIP 98367 sector", "Kitsap County / primary ZIP 98366", "Kitsap County / coords 47.5200, -122.6600"]
+zillowHomeValueUsd: 503721
 ---
 
 **Engineering Notice for Port Orchard:** Structural loading calculated based on 236 ft terrain assessment. Regional dispatch grid: Kitsap County.

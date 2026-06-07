@@ -12,6 +12,7 @@ lng: -90.2900
 zipSample: ["63133"]
 zipCodes: ["63133"]
 localPaths: ["St. Louis County / elevation 551 ft band", "St. Louis County / primary ZIP 63133", "St. Louis County / coords 38.6700, -90.2900", "St. Louis County / ZIP 63133 sector"]
+zillowHomeValueUsd: 78582
 ---
 
 **Engineering Notice for Wellston:** Envelope check: Cladding Retrofit assigned to wind-load band A with stress factor 0.95. Elevation: 551 ft AMSL. Regional dispatch grid: St. Louis County.

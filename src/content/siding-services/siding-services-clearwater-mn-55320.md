@@ -12,6 +12,7 @@ lng: -94.0400
 zipSample: ["55320"]
 zipCodes: ["55320"]
 localPaths: ["Wright County / coords 45.4100, -94.0400", "Wright County / primary ZIP 55320", "Wright County / elevation 994 ft band", "Wright County / ZIP 55320 sector"]
+zillowHomeValueUsd: 370517
 ---
 
 **Engineering Notice for Clearwater:** Site context locked to Wright County. Exterior Envelope integrity verification recorded.

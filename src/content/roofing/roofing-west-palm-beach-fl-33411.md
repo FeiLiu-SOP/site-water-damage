@@ -11,6 +11,7 @@ lng: -80.1300
 zipSample: ["33405", "33422", "33402", "33409", "33412"]
 zipCodes: ["33412", "33405", "33409", "33402", "33407", "33417", "33401", "33411", "33422"]
 localPaths: ["Palm Beach County / coords 26.7500, -80.1300", "Palm Beach County / ZIP 33409 sector", "Palm Beach County / primary ZIP 33411", "Palm Beach County / ZIP 33405 sector", "Palm Beach County / ZIP 33422 sector"]
+zillowHomeValueUsd: 465821
 ---
 
 **Engineering Notice for West Palm Beach:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Palm Beach County.

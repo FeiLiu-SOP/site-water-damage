@@ -11,6 +11,7 @@ lng: -72.8200
 zipSample: ["06492", "06494"]
 zipCodes: ["06494", "06492"]
 localPaths: ["South Central Connecticut County / ZIP 06494 sector", "South Central Connecticut County / ZIP 06492 sector", "South Central Connecticut County / coords 41.4500, -72.8200", "South Central Connecticut County / primary ZIP 06492", "South Central Connecticut County / elevation 128 ft band"]
+zillowHomeValueUsd: 412658
 ---
 
 **Engineering Notice for Wallingford Center:** Structural loading calculated based on 128 ft terrain assessment. Regional dispatch grid: South Central Connecticut County.

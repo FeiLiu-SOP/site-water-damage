@@ -12,6 +12,7 @@ lng: -74.5800
 zipSample: ["07938", "07920"]
 zipCodes: ["07938", "07920"]
 localPaths: ["Somerset County / primary ZIP 07920", "Somerset County / elevation 276 ft band", "Somerset County / ZIP 07938 sector", "Somerset County / coords 40.6600, -74.5800", "Somerset County / ZIP 07920 sector"]
+zillowHomeValueUsd: 916456
 ---
 
 **Engineering Notice for Liberty Corner:** structural drying capacity optimized for 276ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Somerset County. Relative Humidity Threshold: 77%. Sensor sync: Active.

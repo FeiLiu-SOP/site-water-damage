@@ -12,6 +12,7 @@ lng: -79.1700
 zipSample: ["27243"]
 zipCodes: ["27243"]
 localPaths: ["Orange County / ZIP 27243 sector", "Orange County / elevation 656 ft band", "Orange County / coords 36.0800, -79.1700", "Orange County / primary ZIP 27243"]
+zillowHomeValueUsd: 402780
 ---
 
 **Engineering Notice for Efland:** Structural integrity verification: Surface Sheathing calibrated for 106 mph localized wind load factor. Regional dispatch grid: Orange County.

@@ -12,6 +12,7 @@ lng: -95.7100
 zipSample: ["51579"]
 zipCodes: ["51579"]
 localPaths: ["Harrison County / primary ZIP 51579", "Harrison County / elevation 1109 ft band", "Harrison County / coords 41.7400, -95.7100", "Harrison County / ZIP 51579 sector"]
+zillowHomeValueUsd: 229372
 ---
 
 **Engineering Notice for Woodbine:** System optimized for 156 mg/L hard water scaling factors in Woodbine. Regional dispatch grid: Harrison County.

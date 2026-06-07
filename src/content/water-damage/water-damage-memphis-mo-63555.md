@@ -12,6 +12,7 @@ lng: -92.1700
 zipSample: ["63555"]
 zipCodes: ["63555"]
 localPaths: ["Scotland County / elevation 781 ft band", "Scotland County / ZIP 63555 sector", "Scotland County / primary ZIP 63555", "Scotland County / coords 40.4600, -92.1700"]
+zillowHomeValueUsd: 118563
 ---
 
 **Engineering Notice for Memphis:** structural drying capacity optimized for 781ft terrain assessment using Saturation saturation depth parameters. Regional dispatch grid: Scotland County. Relative Humidity Threshold: 85%. Sensor sync: Active.

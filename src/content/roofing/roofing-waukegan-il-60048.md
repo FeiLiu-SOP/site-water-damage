@@ -11,6 +11,7 @@ lng: -87.8700
 zipSample: ["60048", "60079", "60085", "60087"]
 zipCodes: ["60087", "60085", "60048", "60079"]
 localPaths: ["Lake County / ZIP 60079 sector", "Lake County / ZIP 60048 sector", "Lake County / primary ZIP 60048", "Lake County / elevation 719 ft band", "Lake County / ZIP 60087 sector"]
+zillowHomeValueUsd: 608288
 ---
 
 **Engineering Notice for Waukegan:** Structural loading calculated based on 719 ft terrain assessment. Regional dispatch grid: Lake County.

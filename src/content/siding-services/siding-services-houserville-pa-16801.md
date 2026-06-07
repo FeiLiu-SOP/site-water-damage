@@ -12,6 +12,7 @@ lng: -77.8200
 zipSample: ["16801"]
 zipCodes: ["16801"]
 localPaths: ["Centre County / elevation 1047 ft band", "Centre County / primary ZIP 16801", "Centre County / ZIP 16801 sector", "Centre County / coords 40.8300, -77.8200"]
+zillowHomeValueUsd: 407238
 ---
 
 **Engineering Notice for Houserville:** Wall Restoration was validated under stress factor 1.10; target tolerance set near 104 mph. Grid anchor: Centre County.

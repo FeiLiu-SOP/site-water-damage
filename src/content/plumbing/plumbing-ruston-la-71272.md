@@ -12,6 +12,7 @@ lng: -92.6400
 zipSample: ["71270", "71272"]
 zipCodes: ["71270", "71272"]
 localPaths: ["Lincoln Parish / ZIP 71272 sector", "Lincoln Parish / coords 32.5300, -92.6400", "Lincoln Parish / ZIP 71270 sector", "Lincoln Parish / primary ZIP 71272", "Lincoln Parish / elevation 331 ft band"]
+zillowHomeValueUsd: 225108
 ---
 
 **Engineering Notice for Ruston:** Structural loading calculated based on 331 ft terrain assessment. Regional dispatch grid: Lincoln Parish.

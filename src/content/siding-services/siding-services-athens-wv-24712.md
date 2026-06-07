@@ -12,6 +12,7 @@ lng: -81.0200
 zipSample: ["24712"]
 zipCodes: ["24712"]
 localPaths: ["Mercer County / coords 37.4200, -81.0200", "Mercer County / ZIP 24712 sector", "Mercer County / primary ZIP 24712", "Mercer County / elevation 2582 ft band"]
+zillowHomeValueUsd: 196878
 ---
 
 **Engineering Notice for Athens:** Envelope check: Cladding Retrofit assigned to wind-load band B with stress factor 1.20. Elevation: 2582 ft AMSL. Regional dispatch grid: Mercer County.

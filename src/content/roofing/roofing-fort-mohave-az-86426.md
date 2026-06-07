@@ -11,6 +11,7 @@ lng: -114.5700
 zipSample: ["86426", "86427"]
 zipCodes: ["86426", "86427"]
 localPaths: ["Mohave County / elevation 627 ft band", "Mohave County / coords 35.0000, -114.5700", "Mohave County / primary ZIP 86426", "Mohave County / ZIP 86426 sector", "Mohave County / ZIP 86427 sector"]
+zillowHomeValueUsd: 332474
 ---
 
 **Engineering Notice for Fort Mohave:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Mohave County.

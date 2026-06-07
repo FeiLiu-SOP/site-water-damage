@@ -11,6 +11,7 @@ lng: -94.9800
 zipSample: ["74464", "74465"]
 zipCodes: ["74465", "74464"]
 localPaths: ["Cherokee County / ZIP 74465 sector", "Cherokee County / elevation 830 ft band", "Cherokee County / coords 35.9100, -94.9800", "Cherokee County / primary ZIP 74464", "Cherokee County / ZIP 74464 sector"]
+zillowHomeValueUsd: 195844
 ---
 
 **Engineering Notice for Tahlequah:** Structural loading calculated based on 830 ft terrain assessment. Regional dispatch grid: Cherokee County.

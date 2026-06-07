@@ -12,6 +12,7 @@ lng: -97.6000
 zipSample: ["68715"]
 zipCodes: ["68715"]
 localPaths: ["Madison County / primary ZIP 68715", "Madison County / coords 42.0000, -97.6000", "Madison County / ZIP 68715 sector", "Madison County / elevation 1601 ft band"]
+zillowHomeValueUsd: 276609
 ---
 
 **Engineering Notice for Battle Creek:** Structural integrity verification: Panel Replacement calibrated for 99 mph localized wind load factor. Regional dispatch grid: Madison County.

@@ -11,6 +11,7 @@ lng: -117.0200
 zipSample: ["91942", "91941", "91944", "91943"]
 zipCodes: ["91944", "91942", "91941", "91943"]
 localPaths: ["San Diego County / ZIP 91943 sector", "San Diego County / ZIP 91941 sector", "San Diego County / primary ZIP 91941", "San Diego County / coords 32.7700, -117.0200", "San Diego County / ZIP 91944 sector"]
+zillowHomeValueUsd: 1030890
 ---
 
 **Engineering Notice for La Mesa:** Structural loading calculated based on 554 ft terrain assessment. Regional dispatch grid: San Diego County.

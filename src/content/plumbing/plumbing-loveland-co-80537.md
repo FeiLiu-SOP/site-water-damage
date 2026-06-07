@@ -12,6 +12,7 @@ lng: -105.0600
 zipSample: ["80539", "80538", "80537"]
 zipCodes: ["80538", "80539", "80537"]
 localPaths: ["Larimer County / ZIP 80538 sector", "Larimer County / ZIP 80539 sector", "Larimer County / elevation 5003 ft band", "Larimer County / ZIP 80537 sector", "Larimer County / primary ZIP 80537"]
+zillowHomeValueUsd: 497703
 ---
 
 **Engineering Notice for Loveland:** Structural loading calculated based on 5003 ft terrain assessment. Regional dispatch grid: Larimer County.

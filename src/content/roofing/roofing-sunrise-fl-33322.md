@@ -11,6 +11,7 @@ lng: -80.3000
 zipSample: ["33322", "33323", "33345", "33307", "33351"]
 zipCodes: ["33325", "33313", "33323", "33326", "33345", "33307", "33351", "33322"]
 localPaths: ["Broward County / ZIP 33351 sector", "Broward County / ZIP 33307 sector", "Broward County / elevation 20 ft band", "Broward County / ZIP 33345 sector", "Broward County / primary ZIP 33322"]
+zillowHomeValueUsd: 261596
 ---
 
 **Engineering Notice for Sunrise:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Broward County.

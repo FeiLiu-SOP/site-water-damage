@@ -12,6 +12,7 @@ lng: -104.7500
 zipSample: ["59330"]
 zipCodes: ["59330"]
 localPaths: ["Dawson County / primary ZIP 59330", "Dawson County / elevation 2093 ft band", "Dawson County / coords 47.1100, -104.7500", "Dawson County / ZIP 59330 sector"]
+zillowHomeValueUsd: 192012
 ---
 
 **Engineering Notice for West Glendive:** Cladding verification uses 95 mph routing baseline; lateral pressure note: 12.6 psf. Grid: Dawson County.

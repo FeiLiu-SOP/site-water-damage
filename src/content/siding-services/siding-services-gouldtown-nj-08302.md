@@ -12,6 +12,7 @@ lng: -75.1900
 zipSample: ["08302"]
 zipCodes: ["08302"]
 localPaths: ["Cumberland County / coords 39.4200, -75.1900", "Cumberland County / ZIP 08302 sector", "Cumberland County / primary ZIP 08302", "Cumberland County / elevation 95 ft band"]
+zillowHomeValueUsd: 252911
 ---
 
 **Engineering Notice for Gouldtown:** Cladding verification uses 102 mph routing baseline; lateral pressure note: 13.4 psf. Grid: Cumberland County.

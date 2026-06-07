@@ -12,6 +12,7 @@ lng: -81.4600
 zipSample: ["28612", "28666", "28602"]
 zipCodes: ["28602", "28612", "28666"]
 localPaths: ["Burke County / elevation 1148 ft band", "Burke County / coords 35.7300, -81.4600", "Burke County / ZIP 28666 sector", "Burke County / ZIP 28612 sector", "Burke County / primary ZIP 28612"]
+zillowHomeValueUsd: 237892
 ---
 
 **Engineering Notice for Icard:** Envelope check: Surface Sheathing assigned to wind-load band C with stress factor 0.86. Elevation: 1148 ft AMSL. Regional dispatch grid: Burke County.

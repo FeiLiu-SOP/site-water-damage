@@ -12,6 +12,7 @@ lng: -85.5300
 zipSample: ["46148"]
 zipCodes: ["46148"]
 localPaths: ["Henry County / coords 39.8000, -85.5300", "Henry County / primary ZIP 46148", "Henry County / elevation 938 ft band", "Henry County / ZIP 46148 sector"]
+zillowHomeValueUsd: 218871
 ---
 
 **Engineering Notice for Knightstown:** System optimized for 142 mg/L hard water scaling factors in Knightstown. Regional dispatch grid: Henry County.
