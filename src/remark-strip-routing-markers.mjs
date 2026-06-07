@@ -1,6 +1,6 @@
 /**
- * 从 Markdown AST 中移除生成器注入的「Internal routing markers: …」整段，
- * 避免最终 HTML 出现无意义 token 串（不改动源 .md，仅影响渲染）。
+ * Strip generator-injected Internal routing markers block from Markdown AST,
+ * so rendered HTML has no junk tokens (does not modify source .md).
  */
 export function remarkStripRoutingMarkers() {
   return (tree) => {
