@@ -20,7 +20,6 @@ import { ogThumbnailUrl } from "../lib/og-thumbnail-url";
 import { ACTIVE_COLLECTION } from "../active-collection";
 import {
   BRAND_CONFIG,
-  PUBLIC_NICHE_LABEL,
   canonicalPageUrl,
   getCanonicalBase,
   getNicheLabelForSeed,
@@ -88,38 +87,11 @@ import {
   buildRockwellMaineEntityGraph,
   matchesRockwellMaine,
 } from "../domain-templates/rockwell-maine-entity";
-import {
-  buildFixitGridEntityGraph,
-  matchesFixitGridEntity,
-} from "../domain-templates/fixitgrid.com-entity";
-import {
-  buildRealtorsEntityGraph,
-  matchesRealtorsEntity,
-} from "../domain-templates/realtorsatthebeach.com-entity";
-import ComplianceMatrix from "../components/ComplianceMatrix.astro";
-import LocalInfrastructureBrief from "../components/LocalInfrastructureBrief.astro";
-import FixitGridDispatchShellHeader from "../components/FixitGridDispatchShellHeader.astro";
-import FixitGridDispatchShellStyles from "../components/FixitGridDispatchShellStyles.astro";
-import { getDispatchCompliance } from "../lib/compliance-matrix";
-import { buildFixitGridFlClimateLead } from "../lib/fixitgrid-fl-climate";
-import {
-  FIXITGRID_DISPATCH_SHELL_FAQ_TITLE,
-  isFixitgridDispatchShell,
-} from "../lib/fixitgrid-dispatch-shell";
-import {
-  buildFixitgridServiceReference,
-  isFixitgridInfraBriefPanel,
-} from "../lib/fixitgrid-infra-brief";
-import {
-  entryPublicPathSegments,
-  isFixitgridNearMeBuild,
-  resolveContentEntrySlug,
-  stateAbbrFromNearMeSlug,
-} from "../lib/fixitgrid-near-me-url";
-import {
-  appendCommercialContactFaqIfSeed,
-  shouldForceFaqSectionVisible,
-} from "../lib/commercial-contact-faq";
+import PestBiodiversityPanel from "../components/PestBiodiversityPanel.astro";
+import FlashCouponAnchor from "../components/FlashCouponAnchor.astro";
+import FlashCouponVpcBridge from "../components/FlashCouponVpcBridge.astro";
+import { collectionUsesFlashCoupon } from "../lib/flash-coupon";
+import { buildPestBiodiversityBundle } from "../lib/pest-biodiversity";
 
 /** Physical-value tier: deterministic title/H1 (no stableHash) when home value clears bar. */
 const HIGH_VALUE_USD_TRIGGER = 300_000;
@@ -138,44 +110,31 @@ const isRoofingHub = ACTIVE_COLLECTION === "roofing";
 const isPestControlHub = ACTIVE_COLLECTION === "pestcontrol";
 /** Newtown Fellowship / church city pages (`npm run build:community-stewardship-*`). */
 const isCommunityStewardshipNpo = ACTIVE_COLLECTION.startsWith("community-stewardship-");
+/** Red Flash Offer bar — all 6 commercial hubs (not church / NPO). */
+const showFlashCoupon = collectionUsesFlashCoupon(ACTIVE_COLLECTION);
 
 export async function getStaticPaths() {
   const posts = await getCollection(ACTIVE_COLLECTION);
-  return posts.map((post) => {
-    const entrySlug = (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
-    if (isFixitgridNearMeBuild()) {
-      const st = (post.data.state ?? stateAbbrFromNearMeSlug(entrySlug) ?? "FL").trim();
-      const segments = entryPublicPathSegments(entrySlug, st);
-      return { params: { slug: segments.join("/") } };
-    }
-    return { params: { slug: entrySlug } };
-  });
+  return posts.map((post) => ({
+    params: { slug: (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "") },
+  }));
 }
 
 const { slug } = Astro.params;
 const posts = await getCollection(ACTIVE_COLLECTION);
-const entrySlugParam = resolveContentEntrySlug(slug ?? "");
+const entrySlugParam = (slug ?? "").replace(/\.(md|mdx)$/i, "");
 const entry =
   posts.find((p) => (p.slug ?? p.id ?? "").replace(/\.(md|mdx)$/i, "") === entrySlugParam) ?? null;
 if (!entry) {
   return new Response(null, { status: 404, statusText: "Not Found" });
 }
+const { Content } = await render(entry);
 const post = entry;
 const entrySlug = entrySlugParam || (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
-const pageUrl = isFixitgridNearMeBuild()
-  ? canonicalPageUrl(
-      ...entryPublicPathSegments(
-        entrySlug,
-        post.data.state ?? stateAbbrFromNearMeSlug(entrySlug) ?? "FL",
-      ),
-    )
-  : canonicalPageUrl(entrySlug);
+const pageUrl = canonicalPageUrl(entrySlug);
 const ogImageUrl = ogThumbnailUrl(entrySlug);
 const pageNicheLabel = getNicheLabelForSeed(entrySlug);
 const isRockwellMaine = matchesRockwellMaine({ domainOrUrl: siteConfig.canonicalOrigin });
-const isFixitGridSite = matchesFixitGridEntity({ domainOrUrl: siteConfig.canonicalOrigin });
-const isRealtorsSite =
-  !isFixitGridSite && matchesRealtorsEntity({ domainOrUrl: siteConfig.canonicalOrigin });
 const pageLocation = resolvePageLocation({
   collection: ACTIVE_COLLECTION,
   title: post.data.title,
@@ -195,28 +154,25 @@ function cityFromSlug(slugText: string) {
   const m = slugText.match(/^(.*)-([a-z]{2})-(\d{5})$/i);
   if (!m) return null;
   let prefixAndCity = m[1]!;
-  const pfx = `${String(ACTIVE_COLLECTION)}-`.toLowerCase();
-  if (prefixAndCity.toLowerCase().startsWith(pfx)) {
-    prefixAndCity = prefixAndCity.slice(pfx.length);
+  const stripPrefixes = [`${String(ACTIVE_COLLECTION)}-`.toLowerCase()];
+  if (ACTIVE_COLLECTION === "pestcontrol") stripPrefixes.push("pest-control-");
+  for (const pfx of stripPrefixes) {
+    if (prefixAndCity.toLowerCase().startsWith(pfx)) {
+      prefixAndCity = prefixAndCity.slice(pfx.length);
+      break;
+    }
   }
   const city = prefixAndCity.split("-").filter(Boolean).join(" ").trim();
   return city ? titleCase(city) : null;
 }
-const pageCity = cityFromSlug(entrySlug);
+const pageCityFromSlug = cityFromSlug(entrySlug);
+const pageCity = String(post.data.city ?? "").trim() || pageCityFromSlug;
 const trustDispatchPlace = pageCity?.trim() ? pageCity.trim() : "Area";
 const desktopDispatchZip =
   String(pageLocation?.zip ?? post.data.zipCode ?? "")
     .replace(/\D/g, "")
     .slice(0, 5) || "00000";
 const stateCodeFromSlug = (() => {
-  if (isFixitgridNearMeBuild()) {
-    const nearMeSt =
-      stateAbbrFromNearMeSlug(entrySlug) ??
-      String(post.data.state ?? "")
-        .trim()
-        .toUpperCase();
-    if (/^[A-Z]{2}$/.test(nearMeSt)) return nearMeSt;
-  }
   const m = entrySlug.match(/-([a-z]{2})-\d{5}$/i);
   return m ? m[1]!.toUpperCase() : null;
 })();
@@ -513,16 +469,16 @@ const waterVisualLine = pageCity
 const h1ComplianceLead = "No surprise trip framing · upfront scope notes — ";
 
 const plumbingVisualLine = pageCity
-  ? `Educational dispatch context for ${pageCity}. Public terrain references are illustrative only—not engineering reports or licensed contractor estimates.`
-  : `Educational dispatch context for this area. Public terrain references are illustrative only—not engineering reports or licensed contractor estimates.`;
+  ? `Our ${pageCity} dispatch node ensures state-compliant pricing. Cross-referenced with USGS infrastructure risk scores to prevent plumbing scams.`
+  : `Our dispatch node ensures state-compliant pricing. Cross-referenced with USGS infrastructure risk scores to prevent plumbing scams.`;
 
 const sidingVisualLine = pageCity
-  ? `Educational dispatch context for ${pageCity}. Envelope and exterior notes are illustrative only—not engineering reports or licensed contractor estimates.`
-  : `Educational dispatch context for this area. Envelope and exterior notes are illustrative only—not engineering reports or licensed contractor estimates.`;
+  ? `Our ${pageCity} dispatch node ensures state-compliant pricing. Cross-referenced with envelope risk scores to prevent exterior contractor scams.`
+  : `Our dispatch node ensures state-compliant pricing. Cross-referenced with envelope risk scores to prevent exterior contractor scams.`;
 
 const roofTerrainNotice = isRoofingHub
   ? pageCity
-    ? `Planning note for ${pageCity}: terrain-context on this page is illustrative only. Confirm scope, timing, and insurance questions with qualified professionals on site.`
+    ? `NOTICE: Your ${pageCity} property has a specific terrain-risk profile. Delaying repair could impact insurance eligibility.`
     : null
   : null;
 
@@ -903,10 +859,7 @@ const relatedTitleVariants = [
 ] as const;
 const relatedTitle =
   relatedTitleVariants[stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|relatedTitle`) % relatedTitleVariants.length]!;
-const forceFaqForContactSeed = shouldForceFaqSectionVisible(ACTIVE_COLLECTION, entrySlug);
-const showFaq =
-  forceFaqForContactSeed ||
-  stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|showFaq`) % 10 >= 3;
+const showFaq = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|showFaq`) % 10 >= 3;
 const showRelated = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|showRelated`) % 10 >= 3;
 const stateNotice = stateCodeFromSlug
   ? `Notice: This ${stateCodeFromSlug} page summarizes regional infrastructure maintenance coordination and local topographic context; it is not a government bulletin.`
@@ -953,6 +906,16 @@ const pestLatestDispatchLine =
     ? `Educational note for ZIP ${pageZipForPestPulse}: termite pressure varies by season—ask your coordinator for inspection-backed guidance (not a live incident feed).`
     : null;
 
+const pestBiodiversityBundle =
+  isPestControlHub && pageCity && stateCodeFromSlug
+    ? buildPestBiodiversityBundle({
+        entrySlug,
+        city: pageCity,
+        stateCode: stateCodeFromSlug,
+        stateLabel: stateLabelForBait(stateCodeFromSlug, post.data.state),
+      })
+    : null;
+
 // Action 3: Geo brief section data from frontmatter (truthy only; Astro just displays)
 const geo = {
   county: post.data.county as string | undefined,
@@ -995,26 +958,24 @@ function addendumForFaq(seedText: string) {
   return stableHash(seedText) % 2 === 0 ? pool[stableHash(seedText + "|p") % pool.length]! : null;
 }
 
-const pageFaqItemsBase = pageFaqItems.map((item, idx) => {
+const pageFaqItemsFinal = pageFaqItems.map((item, idx) => {
   const add = addendumForFaq(`${ACTIVE_COLLECTION}|${entrySlug}|faqAdd|${idx}`);
   return {
     question: item.question,
     answer: add ? `${item.answer} ${add}` : item.answer,
   };
 });
-const { items: pageFaqItemsFinal } = appendCommercialContactFaqIfSeed({
-  collection: ACTIVE_COLLECTION,
-  entrySlug,
-  city: String(post.data.city ?? pageCity ?? "").trim() || null,
-  stateCode: String(post.data.state ?? stateCodeFromSlug ?? "").trim() || null,
-  phoneDisplay: siteConfig.phoneDisplay,
-  items: pageFaqItemsBase,
-});
 
 const enableRealtorsAtTheBeachWaterDamageIsolation = matchesRealtorsAtTheBeachWaterDamage({
   domainOrUrl: siteConfig.canonicalOrigin,
   activeCollection: ACTIVE_COLLECTION,
 });
+
+const themeAccent = ACTIVE_COLLECTION === "plumbing-v2"
+  ? REALTORS_AT_THE_BEACH_PLUMBING_V2.theme.accent
+  : enableRealtorsAtTheBeachWaterDamageIsolation
+    ? REALTORS_AT_THE_BEACH_WATER_DAMAGE.theme.accent
+    : "#1d4ed8";
 
 const themeFontFamily = ACTIVE_COLLECTION === "plumbing-v2"
   ? REALTORS_AT_THE_BEACH_PLUMBING_V2.theme.fontFamily
@@ -1032,6 +993,7 @@ const domPrefix = ACTIVE_COLLECTION === "plumbing-v2"
       )}`
     : null;
 
+const vpcCalculatorRootId = domPrefix ? `${domPrefix}-value-calculator` : "value-calculator-root";
 const articleBodyId = domPrefix ? `${domPrefix}-article-md-body` : "article-md-body";
 const articleBodyClass = domPrefix ? `${domPrefix}--article-content` : "article-content";
 
@@ -1043,100 +1005,13 @@ const faqClass = domPrefix ? `${domPrefix}--faq` : "faq";
 const geoBriefTitleId = domPrefix ? `${domPrefix}-geo-brief-title` : "geo-brief-title";
 const faqTitleId = domPrefix ? `${domPrefix}-faq-title` : "faq-title";
 
-const fixitGridDispatchCompliance =
-  isFixitGridSite && stateCodeFromSlug
-    ? getDispatchCompliance({
-        stateCode: stateCodeFromSlug,
-        niche: ACTIVE_COLLECTION,
-        citySlug: entrySlug,
-        domainKey: "fixitgrid",
-      })
-    : null;
-
-const realtorsDispatchCompliance =
-  isRealtorsSite && stateCodeFromSlug
-    ? getDispatchCompliance({
-        stateCode: stateCodeFromSlug,
-        niche: ACTIVE_COLLECTION,
-        citySlug: entrySlug,
-        domainKey: "realtors",
-      })
-    : null;
-
-const dispatchComplianceForPage = fixitGridDispatchCompliance ?? realtorsDispatchCompliance;
-
-const infraBriefPanelActive = isFixitgridInfraBriefPanel({
-  isFixitGridSite,
-  infraBriefPanel: post.data.infraBriefPanel,
-});
-
-const dispatchShellActive = isFixitgridDispatchShell({
-  isFixitGridSite,
-  infraBriefPanel: post.data.infraBriefPanel,
-  fixitgridDispatchShell: post.data.fixitgridDispatchShell,
-});
-
-const themeAccent = dispatchShellActive
-  ? "#38bdf8"
-  : ACTIVE_COLLECTION === "plumbing-v2"
-    ? REALTORS_AT_THE_BEACH_PLUMBING_V2.theme.accent
-    : enableRealtorsAtTheBeachWaterDamageIsolation
-      ? REALTORS_AT_THE_BEACH_WATER_DAMAGE.theme.accent
-      : "#1d4ed8";
-
-const faqTitleDisplay = dispatchShellActive ? FIXITGRID_DISPATCH_SHELL_FAQ_TITLE : faqTitle;
-
-const fixitGridClimateLead =
-  infraBriefPanelActive && stateCodeFromSlug && pageCity
-    ? buildFixitGridFlClimateLead({
-        collection: ACTIVE_COLLECTION,
-        city: pageCity,
-        stateCode: stateCodeFromSlug,
-      })
-    : null;
-
-const fixitGridServiceReference =
-  (infraBriefPanelActive || dispatchShellActive) && stateCodeFromSlug
-    ? buildFixitgridServiceReference({
-        niche: ACTIVE_COLLECTION,
-        city: pageCity ?? String(post.data.city ?? "").trim(),
-        stateCode: stateCodeFromSlug,
-        zip: String(post.data.zipCode ?? "").trim(),
-      })
-    : null;
-
-const { Content } = await render(entry);
-
-const localBusinessSchema = isFixitGridSite
-  ? buildFixitGridEntityGraph({
-      collection: ACTIVE_COLLECTION,
-      pageDescription: pageMetaDescription,
-      pageUrl,
-      location: pageLocation,
-      entrySlug,
-      dispatchCompliance: fixitGridDispatchCompliance,
-      cityDisplay: pageLocation?.city ?? pageCity ?? null,
-      countyDisplay: String(post.data.county ?? "").trim() || null,
-    })
-  : isRealtorsSite
-    ? buildRealtorsEntityGraph({
-        collection: ACTIVE_COLLECTION,
-        pageDescription: pageMetaDescription,
-        pageUrl,
-        location: pageLocation,
-        entrySlug,
-        dispatchCompliance: realtorsDispatchCompliance,
-        cityDisplay: pageLocation?.city ?? pageCity ?? null,
-      })
-  : isRockwellMaine
+const localBusinessSchema = isRockwellMaine
   ? buildRockwellMaineEntityGraph({
       collection: ACTIVE_COLLECTION,
       pageDescription: pageMetaDescription,
       pageUrl,
       location: pageLocation,
       entrySlug,
-      countyDisplay: String(post.data.county ?? "").trim() || null,
-      cityDisplay: pageLocation?.city ?? pageCity ?? null,
     })
   : isCommunityStewardshipNpo
     ? buildNewtownFellowshipLocalBusinessSchema({
@@ -1154,7 +1029,7 @@ const localBusinessSchema = isFixitGridSite
         location: pageLocation,
         entrySlug,
       });
-const faqSchema = showFaq ? buildFaqSchema(pageFaqItemsFinal) : null;
+const faqSchema = buildFaqSchema(pageFaqItemsFinal);
 const seedAggregateRating = buildServiceAreaAggregateRating(entrySlug);
 const seedReviewCityDisplay = pageLocation?.city ?? pageCity ?? "Local";
 const seedLandmarks = getGscSeedLandmarks(entrySlug);
@@ -1166,7 +1041,7 @@ const seedLandmarksState =
 const breadcrumbListSchema = buildBreadcrumbListSchema(
   buildSlugPageBreadcrumbItems({
     canonicalPageUrl,
-    serviceHubLabel: PUBLIC_NICHE_LABEL,
+    serviceHubLabel: getNicheLabelForSeed("breadcrumb-hub"),
     stateCode: stateCodeFromSlug,
     cityDisplayName: pageCity,
     entrySlug,
@@ -1180,11 +1055,7 @@ const visibleBlocks = blocks.filter((k) => {
   if (k === "related") return showRelated;
   return true;
 });
-const blockOrder = dispatchShellActive || infraBriefPanelActive
-  ? (["content", "faq", "geo", "related"] as const).filter((k) =>
-      visibleBlocks.includes(k),
-    )
-  : ACTIVE_COLLECTION === "plumbing-v2"
+const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
   ? REALTORS_AT_THE_BEACH_PLUMBING_V2.blockOrder.filter((k) => visibleBlocks.includes(k))
   : enableRealtorsAtTheBeachWaterDamageIsolation
   ? REALTORS_AT_THE_BEACH_WATER_DAMAGE.blockOrder.filter((k) => visibleBlocks.includes(k))
@@ -1208,14 +1079,12 @@ const blockOrder = dispatchShellActive || infraBriefPanelActive
 
 <html
   lang="en"
-  class:list={[dispatchShellActive && "fixitgrid-dispatch-shell"]}
   style={`--theme-accent:${themeAccent};font-family:${themeFontFamily};`}
 >
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <SiteFavicon />
-    {dispatchShellActive ? <FixitGridDispatchShellStyles /> : null}
     <meta name="google-site-verification" content="e8639489520c639b" />
     <title>{pageTitle}</title>
     <meta name="description" content={pageMetaDescription} />
@@ -1235,9 +1104,7 @@ const blockOrder = dispatchShellActive || infraBriefPanelActive
     <meta name="twitter:image" content={ogImageUrl} />
     <script type="application/ld+json" set:html={JSON.stringify(breadcrumbListSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(localBusinessSchema)} />
-    {faqSchema ? (
-      <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
-    ) : null}
+    <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
     <style>
       :root {
         color-scheme: light;
@@ -1501,8 +1368,8 @@ const blockOrder = dispatchShellActive || infraBriefPanelActive
         overflow-wrap: anywhere;
         word-break: break-word;
       }
-      /* Engineering Notice highlight — suppressed when brief panel owns that data */
-      [id$="article-md-body"]:not(.infra-brief-demo-body) p:first-child {
+      /* Engineering Notice: always first paragraph emitted by generator */
+      [id$="article-md-body"] p:first-child {
         font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New",
           monospace;
         font-size: 0.92rem;
@@ -1554,6 +1421,24 @@ const blockOrder = dispatchShellActive || infraBriefPanelActive
     <main>
       <article>
         {
+          showFlashCoupon ? (
+            <>
+              <FlashCouponAnchor
+                city={pageCity}
+                entrySlug={entrySlug}
+                nicheLabel={pageNicheLabel}
+                phoneDisplay={siteConfig.phoneDisplay}
+                telHref={telHref}
+              />
+              <FlashCouponVpcBridge
+                city={pageCity}
+                entrySlug={entrySlug}
+                calculatorRootId={vpcCalculatorRootId}
+              />
+            </>
+          ) : null
+        }
+        {
           isWaterDamageHub ? (
             <>
               <OfficialRiskNodeHeader />
@@ -1564,6 +1449,7 @@ const blockOrder = dispatchShellActive || infraBriefPanelActive
                 accent={themeAccent}
                 domPrefix={domPrefix}
                 visualizedAssessmentLine={waterVisualLine}
+                couponLinkEnabled={showFlashCoupon}
               />
               <NichePartnerLogos />
               {pestInsuranceEquityNote ? <p class="pest-equity-insurance-note">{pestInsuranceEquityNote}</p> : null}
@@ -1610,6 +1496,7 @@ const blockOrder = dispatchShellActive || infraBriefPanelActive
                 visualizedAssessmentLine={
                   isSidingHub ? sidingVisualLine : plumbingVisualLine
                 }
+                couponLinkEnabled={showFlashCoupon}
               />
               <NichePartnerLogos />
               {pestInsuranceEquityNote ? <p class="pest-equity-insurance-note">{pestInsuranceEquityNote}</p> : null}
@@ -1643,6 +1530,7 @@ const blockOrder = dispatchShellActive || infraBriefPanelActive
                 domPrefix={domPrefix}
                 terrainRiskNotice={pestNestNotice}
                 presentation="value_protection"
+                couponLinkEnabled={showFlashCoupon}
               />
               <NichePartnerLogos />
               {pestInsuranceEquityNote ? <p class="pest-equity-insurance-note">{pestInsuranceEquityNote}</p> : null}
@@ -1664,19 +1552,9 @@ const blockOrder = dispatchShellActive || infraBriefPanelActive
                   accent={themeAccent}
                 />
               ) : null}
-            </>
-          ) : dispatchShellActive ? (
-            <>
-              <FixitGridDispatchShellHeader
-                city={pageCity}
-                stateCode={stateCodeFromSlug}
-                zip={(pageLocation?.zip ?? String(post.data.zipCode ?? "").trim()) || null}
-                nicheLabel={pageNicheLabel}
-                pageH1={pageH1Plain}
-                headerVariant={headerVariant}
-                serviceReference={fixitGridServiceReference}
-                dispatchCompliance={fixitGridDispatchCompliance}
-              />
+              {pestBiodiversityBundle ? (
+                <PestBiodiversityPanel bundle={pestBiodiversityBundle} city={pageCity} />
+              ) : null}
             </>
           ) : (
             <>
@@ -1694,6 +1572,7 @@ const blockOrder = dispatchShellActive || infraBriefPanelActive
                     domPrefix={domPrefix}
                     terrainRiskNotice={roofTerrainNotice}
                     presentation={isCommunityStewardshipNpo ? "stewardship_provision_guide" : "value_protection"}
+                    couponLinkEnabled={showFlashCoupon}
                   />
                   <NichePartnerLogos />
                 </>
@@ -1733,6 +1612,7 @@ const blockOrder = dispatchShellActive || infraBriefPanelActive
                     domPrefix={domPrefix}
                     terrainRiskNotice={roofTerrainNotice}
                     presentation={isCommunityStewardshipNpo ? "stewardship_provision_guide" : "value_protection"}
+                    couponLinkEnabled={showFlashCoupon}
                   />
                   <NichePartnerLogos />
                 </>
@@ -1753,7 +1633,7 @@ const blockOrder = dispatchShellActive || infraBriefPanelActive
             </>
           )
         }
-        <div class:list={[serviceInfoClass, dispatchShellActive && "fixitgrid-dispatch-intake"]}>
+        <div class={serviceInfoClass}>
           <h2>{ctaVariant.title}</h2>
           <p>{serviceLine}</p>
           <p class="service-meta">{ctaVariant.meta}</p>
@@ -1793,42 +1673,13 @@ const blockOrder = dispatchShellActive || infraBriefPanelActive
           blockOrder.map((k) => {
             if (k === "content") {
               return (
-                <div
-                  id={articleBodyId}
-                  class:list={[
-                    articleBodyClass,
-                    dispatchShellActive && "fixitgrid-dispatch-body",
-                    infraBriefPanelActive && "infra-brief-demo-body",
-                  ]}
-                >
+                <div id={articleBodyId} class={articleBodyClass}>
                   {sidingServiceLeadHtml ? <div set:html={sidingServiceLeadHtml} /> : null}
                   <Content />
                 </div>
               );
             }
             if (k === "geo") {
-              if (infraBriefPanelActive && fixitGridServiceReference) {
-                return (
-                  <LocalInfrastructureBrief
-                    cityDisplay={pageLocation?.city ?? pageCity ?? "Local"}
-                    stateCode={stateCodeFromSlug ?? "US"}
-                    nicheLabel={pageNicheLabel}
-                    county={geo.county}
-                    lat={geo.lat}
-                    lng={geo.lng}
-                    elevationFt={geo.elevationFt}
-                    zipCode={String(post.data.zipCode ?? pageLocation?.zip ?? "").trim() || undefined}
-                    zipSample={geo.zipSample}
-                    zipCodes={geo.zipCodes}
-                    localPaths={geo.localPaths}
-                    stateGeoFact={stateGeoFact}
-                    serviceReference={fixitGridServiceReference}
-                    dispatchCompliance={fixitGridDispatchCompliance}
-                    climateLine={fixitGridClimateLead}
-                    compact={true}
-                  />
-                );
-              }
               return showGeoSection ? (
                 <section class={geoBriefClass} aria-labelledby={geoBriefTitleId}>
                   <h2 id={geoBriefTitleId}>{geoTitle}</h2>
@@ -1875,11 +1726,8 @@ const blockOrder = dispatchShellActive || infraBriefPanelActive
             }
             if (k === "faq") {
               return showFaq ? (
-                <section
-                  class:list={[faqClass, dispatchShellActive && "fixitgrid-dispatch-faq"]}
-                  aria-labelledby={faqTitleId}
-                >
-                  <h2 id={faqTitleId}>{faqTitleDisplay}</h2>
+                <section class={faqClass} aria-labelledby={faqTitleId}>
+                  <h2 id={faqTitleId}>{faqTitle}</h2>
                   {pageFaqItemsFinal.map((item) => (
                     <details>
                       <summary>{item.question}</summary>
@@ -1920,22 +1768,6 @@ const blockOrder = dispatchShellActive || infraBriefPanelActive
         }
       </article>
     </main>
-    {
-      dispatchComplianceForPage && stateCodeFromSlug ? (
-        <ComplianceMatrix
-          compliance={dispatchComplianceForPage}
-          cityDisplay={pageLocation?.city ?? pageCity ?? "Local"}
-          stateCode={stateCodeFromSlug}
-          nicheLabel={pageNicheLabel}
-          brandName={isRealtorsSite ? "Realtors at the Beach" : "FixitGrid"}
-          sectionTitle={
-            isRealtorsSite
-              ? "Buyer & Service Network Compliance Audit"
-              : "Dispatch Gateway Compliance Audit"
-          }
-        />
-      ) : null
-    }
     <Footer
       extraLink={footerExtraLink}
       notice={stateNotice}
