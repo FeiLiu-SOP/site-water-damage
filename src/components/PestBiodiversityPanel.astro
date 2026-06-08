@@ -33,8 +33,10 @@ const { bundle, city } = Astro.props as {
               set:html={pest.svgPaths}
             />
           </div>
-          <h3 class="pest-bio__name">{pest.name}</h3>
-          <p class="pest-bio__desc">{pest.description}</p>
+          <div class="pest-bio__copy">
+            <h3 class="pest-bio__name">{pest.name}</h3>
+            <p class="pest-bio__desc">{pest.description}</p>
+          </div>
         </li>
       ))
     }
@@ -86,12 +88,20 @@ const { bundle, city } = Astro.props as {
     border: 1px solid #e2e8f0;
     border-radius: 10px;
     background: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     text-align: center;
+  }
+  .pest-bio__copy {
+    width: 100%;
+    min-width: 0;
   }
   .pest-bio__icon-wrap {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex: 0 0 auto;
     width: 52px;
     height: 52px;
     margin: 0 auto 0.45rem;
@@ -143,5 +153,54 @@ const { bundle, city } = Astro.props as {
   }
   .pest-bio__full-list li {
     margin-bottom: 0.35rem;
+  }
+  @media (max-width: 479px) {
+    .pest-bio {
+      width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+      padding: 0.95rem 0.85rem 1rem;
+    }
+    .pest-bio__grid {
+      grid-template-columns: 1fr;
+      gap: 0.5rem;
+    }
+    .pest-bio__card {
+      flex-direction: row;
+      align-items: flex-start;
+      gap: 0.65rem;
+      padding: 0.6rem 0.65rem;
+      text-align: left;
+    }
+    .pest-bio__icon-wrap {
+      width: 44px;
+      height: 44px;
+      margin: 0;
+      border-radius: 10px;
+    }
+    .pest-bio__icon {
+      width: 32px;
+      height: 32px;
+    }
+    .pest-bio__copy {
+      flex: 1 1 auto;
+    }
+    .pest-bio__name {
+      font-size: 0.9rem;
+    }
+    .pest-bio__desc {
+      font-size: 0.8rem;
+      line-height: 1.4;
+      overflow-wrap: anywhere;
+    }
+    .pest-bio__bottom-line {
+      border-left: none;
+      border-top: 4px solid #16a34a;
+      padding: 0.65rem 0.7rem;
+      overflow-wrap: anywhere;
+    }
+    .pest-bio__full-list {
+      overflow-wrap: anywhere;
+    }
   }
 </style>

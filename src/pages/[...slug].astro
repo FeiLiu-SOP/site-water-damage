@@ -9,6 +9,8 @@ import RelatedCities from "../components/RelatedCities.astro";
 import ValueProtectionCalculator from "../components/ValueProtectionCalculator.astro";
 import OfficialRiskNodeHeader from "../components/OfficialRiskNodeHeader.astro";
 import TrustBar from "../components/TrustBar.astro";
+import DispatchSectorRating from "../components/DispatchSectorRating.astro";
+import DispatchRadar from "../components/DispatchRadar.astro";
 import NationalDispatchDisclaimer from "../components/NationalDispatchDisclaimer.astro";
 import NichePartnerLogos from "../components/NichePartnerLogos.astro";
 import DispatchCommandBar from "../components/DispatchCommandBar.astro";
@@ -40,8 +42,13 @@ import {
   buildLocalBusinessSchema,
   buildNewtownFellowshipLocalBusinessSchema,
   buildServiceAreaAggregateRating,
-  getFaqByCollection,
+  getFaqPoolByCollection,
 } from "../lib/seo";
+import { buildHydratedPageFaqs, type FaqHydrationContext } from "../lib/faq-hydration";
+import {
+  buildTechnicalAuditBodyHtml,
+  usesTechnicalAuditReport,
+} from "../lib/technical-audit-report";
 import { resolvePageLocation } from "../lib/location";
 import {
   buildBaitPool2TitlesRoofing,
@@ -130,6 +137,7 @@ if (!entry) {
 }
 const { Content } = await render(entry);
 const post = entry;
+const markdownBody = typeof entry.body === "string" ? entry.body : "";
 const entrySlug = entrySlugParam || (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
 const pageUrl = canonicalPageUrl(entrySlug);
 const ogImageUrl = ogThumbnailUrl(entrySlug);
@@ -176,6 +184,20 @@ const stateCodeFromSlug = (() => {
   const m = entrySlug.match(/-([a-z]{2})-\d{5}$/i);
   return m ? m[1]!.toUpperCase() : null;
 })();
+const technicalAuditBodyHtml =
+  usesTechnicalAuditReport(ACTIVE_COLLECTION) && markdownBody
+    ? buildTechnicalAuditBodyHtml({
+        body: markdownBody,
+        fm: {
+          city: pageCity,
+          state: stateCodeFromSlug ?? String(post.data.state ?? ""),
+          county: String(post.data.county ?? ""),
+          zipCode: String(post.data.zipCode ?? ""),
+        },
+        slug: entrySlug,
+        nicheLabel: pageNicheLabel,
+      })
+    : null;
 // Action 1: footer random internal link from backup pool (state index + random city)
 const backupCandidates: { href: string; label: string }[] = [];
 if (stateCodeFromSlug) {
@@ -238,7 +260,7 @@ const slugDispatchFeedRecords: DispatchFeedRecord[] = (() => {
     }));
 })();
 
-const faqItems = getFaqByCollection(ACTIVE_COLLECTION);
+const faqPool = getFaqPoolByCollection(ACTIVE_COLLECTION);
 function stableHash(input: string) {
   let h = 2166136261;
   for (let i = 0; i < input.length; i++) {
@@ -676,8 +698,6 @@ function pickFaqSubset<T>(items: T[], seedText: string, count: number): T[] {
   }
   return copy.slice(0, Math.min(count, copy.length));
 }
-const faqCount = 3 + (stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|faqCount`) % 3); // 3–5
-const pageFaqItems = pickFaqSubset(faqItems, `${ACTIVE_COLLECTION}|${entrySlug}|faq`, faqCount);
 const ctaVariantsCommercial = [
   {
     title: `24/7 Local ${pageNicheLabel} Emergency Service`,
@@ -939,6 +959,8 @@ const geoPhysicalEnvLine = stateCodeFromSlug
   ? `Physical environment context (${stateGeoFact.label}): ${stateGeoFact.narrative}`
   : null;
 const showGeoSection = Boolean(geoCoordsLine || geoPhysicalEnvLine);
+/** Production: city detail pages with geo lat/lng render DispatchRadar. */
+const showDispatchRadar = typeof geo.lat === "number" && typeof geo.lng === "number";
 const localPathsText =
   geo.localPaths && geo.localPaths.length
     ? `Regional access notes: ${geo.localPaths.slice(0, 5).join(", ")}.`
@@ -958,13 +980,45 @@ function addendumForFaq(seedText: string) {
   return stableHash(seedText) % 2 === 0 ? pool[stableHash(seedText + "|p") % pool.length]! : null;
 }
 
-const pageFaqItemsFinal = pageFaqItems.map((item, idx) => {
-  const add = addendumForFaq(`${ACTIVE_COLLECTION}|${entrySlug}|faqAdd|${idx}`);
-  return {
-    question: item.question,
-    answer: add ? `${item.answer} ${add}` : item.answer,
-  };
-});
+const pageFaqItemsFinal = isRoofingHub
+  ? buildHydratedPageFaqs(
+      faqPool,
+      {
+        collection: ACTIVE_COLLECTION,
+        entrySlug,
+        city: pageCity,
+        county: String(post.data.county ?? geo.county ?? "").trim(),
+        state: stateCodeFromSlug,
+        zillowHomeValueUsd: zUsd,
+        localPaths: Array.isArray(post.data.localPaths)
+          ? (post.data.localPaths as string[])
+          : Array.isArray(geo.localPaths)
+            ? geo.localPaths
+            : [],
+        elevationFt:
+          typeof post.data.elevationFt === "number"
+            ? post.data.elevationFt
+            : typeof geo.elevationFt === "number"
+              ? geo.elevationFt
+              : null,
+      } satisfies FaqHydrationContext,
+      5,
+    )
+  : (() => {
+      const faqCount = 3 + (stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|faqCount`) % 3); // 3–5
+      const pageFaqItems = pickFaqSubset(
+        faqPool.map(({ question, answer }) => ({ question, answer })),
+        `${ACTIVE_COLLECTION}|${entrySlug}|faq`,
+        faqCount,
+      );
+      return pageFaqItems.map((item, idx) => {
+        const add = addendumForFaq(`${ACTIVE_COLLECTION}|${entrySlug}|faqAdd|${idx}`);
+        return {
+          question: item.question,
+          answer: add ? `${item.answer} ${add}` : item.answer,
+        };
+      });
+    })();
 
 const enableRealtorsAtTheBeachWaterDamageIsolation = matchesRealtorsAtTheBeachWaterDamage({
   domainOrUrl: siteConfig.canonicalOrigin,
@@ -1161,24 +1215,15 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
       .service-meta {
         font-size: 0.95rem;
       }
-      @keyframes ctaUrgencyFlash {
+      @keyframes ctaMobileShadowPulse {
         0%,
         100% {
-          opacity: 1;
-        }
-        50% {
-          opacity: 0.82;
-        }
-      }
-      @keyframes ctaPressurePulse {
-        0%,
-        100% {
-          transform: scale(1);
           box-shadow: 0 2px 10px rgba(185, 28, 28, 0.28);
         }
         50% {
-          transform: scale(1.02);
-          box-shadow: 0 6px 18px rgba(185, 28, 28, 0.45);
+          box-shadow:
+            0 0 0 10px rgba(185, 28, 28, 0),
+            0 4px 16px rgba(185, 28, 28, 0.38);
         }
       }
       .phone-btn,
@@ -1187,16 +1232,18 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
         flex-direction: column;
         align-items: center;
         justify-content: center;
+        width: 100%;
+        max-width: 100%;
         margin-top: 0.45rem;
         background: #b91c1c;
         color: #fff;
         padding: 0.7rem 1rem;
-        border-radius: 0;
+        border-radius: 8px;
         text-decoration: none;
         font-weight: 700;
         border: none;
         transform-origin: center;
-        animation: ctaUrgencyFlash 1.15s ease-in-out infinite, ctaPressurePulse 2.2s ease-in-out infinite;
+        animation: ctaMobileShadowPulse 3s ease-in-out infinite;
         box-sizing: border-box;
       }
       .phone-btn__main {
@@ -1298,6 +1345,12 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
           text-decoration: none;
         }
       }
+      @media (prefers-reduced-motion: reduce) {
+        .phone-btn,
+        [class$="--phone-btn"] {
+          animation: none;
+        }
+      }
       .dispatcher-hookup-line {
         margin: 0.55rem 0 0;
         font-size: 0.88rem;
@@ -1333,16 +1386,49 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
         border-radius: 8px;
         background: #f8fafc;
         margin-bottom: 0.6rem;
-        padding: 0.6rem 0.8rem;
+        padding: 0;
+        overflow: hidden;
       }
       .faq summary,
       [class$="--faq"] summary {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 0.65rem;
+        width: 100%;
+        min-height: 2.75rem;
+        padding: 0.7rem 0.85rem;
+        box-sizing: border-box;
         cursor: pointer;
         font-weight: 600;
+        list-style: none;
+        -webkit-tap-highlight-color: rgba(29, 78, 216, 0.12);
+      }
+      .faq summary::-webkit-details-marker,
+      [class$="--faq"] summary::-webkit-details-marker {
+        display: none;
+      }
+      .faq summary::after,
+      [class$="--faq"] summary::after {
+        flex: 0 0 auto;
+        content: "+";
+        font-size: 1.1rem;
+        font-weight: 700;
+        line-height: 1;
+        color: #64748b;
+      }
+      .faq details[open] summary::after,
+      [class$="--faq"] details[open] summary::after {
+        content: "−";
+      }
+      .faq details[open] summary,
+      [class$="--faq"] details[open] summary {
+        border-bottom: 1px solid #e2e8f0;
       }
       .faq p,
       [class$="--faq"] p {
-        margin: 0.55rem 0 0.1rem;
+        margin: 0;
+        padding: 0.65rem 0.85rem 0.75rem;
         color: #334155;
       }
       .geo-brief,
@@ -1369,19 +1455,22 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
         word-break: break-word;
       }
       /* Engineering Notice: always first paragraph emitted by generator */
-      [id$="article-md-body"] p:first-child {
+      [id$="article-md-body"] p:first-child,
+      [id$="article-md-body"] p.engineering-notice {
         font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New",
           monospace;
         font-size: 0.92rem;
-        line-height: 1.45;
+        line-height: 1.68;
+        letter-spacing: 0.02em;
         background: #0b1220;
         color: #e2e8f0;
         border: 1px solid rgba(226, 232, 240, 0.18);
         border-radius: 10px;
-        padding: 0.75rem 0.9rem;
+        padding: 0.85rem 0.95rem;
         margin: 0 0 1rem;
       }
-      [id$="article-md-body"] p:first-child strong {
+      [id$="article-md-body"] p:first-child strong,
+      [id$="article-md-body"] p.engineering-notice strong {
         color: #f8fafc;
         font-weight: 700;
       }
@@ -1393,6 +1482,271 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
       }
       [id$="article-md-body"] strong {
         color: #0f172a;
+      }
+      [id$="article-md-body"] .certified-technical-audit {
+        box-sizing: border-box;
+        margin: 0.25rem 0 1.1rem;
+        padding: 0;
+        border: 1px solid #cbd5e1;
+        border-radius: 10px;
+        background: #fff;
+        font-size: 0.9rem;
+        line-height: 1.62;
+        color: #334155;
+        overflow: hidden;
+      }
+      [id$="article-md-body"] .cta-audit-header {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New",
+          monospace;
+        font-size: 0.72rem;
+        font-weight: 700;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: #f8fafc;
+        background: #2d3436;
+        margin: 0;
+        padding: 0.55rem 0.75rem;
+      }
+      [id$="article-md-body"] .cta-node-sync {
+        margin: 0;
+        padding: 0.4rem 0.75rem;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New",
+          monospace;
+        font-size: 0.65rem;
+        font-weight: 600;
+        color: #475569;
+        background: #f8fafc;
+        border-bottom: 1px solid #e2e8f0;
+      }
+      [id$="article-md-body"] .cta-node-sync__dot {
+        color: #00b894;
+        margin-right: 0.25rem;
+        animation: cta-node-pulse 1.4s ease-in-out infinite;
+      }
+      @keyframes cta-node-pulse {
+        0%,
+        100% {
+          opacity: 1;
+        }
+        50% {
+          opacity: 0.35;
+        }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        [id$="article-md-body"] .cta-node-sync__dot {
+          animation: none;
+        }
+      }
+      [id$="article-md-body"] .cta-audit-body {
+        padding: 0.65rem 0.75rem 0.75rem;
+      }
+      [id$="article-md-body"] .cta-layer {
+        margin: 0 0 0.85rem;
+      }
+      [id$="article-md-body"] .cta-layer:last-child {
+        margin-bottom: 0;
+      }
+      [id$="article-md-body"] .cta-layer__title {
+        margin: 0 0 0.45rem;
+        font-size: 0.78rem;
+        font-weight: 800;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+        color: #0f172a;
+      }
+      [id$="article-md-body"] .cta-layer--environment {
+        background: transparent;
+        border-radius: 8px;
+        padding: 0;
+      }
+      [id$="article-md-body"] .cta-env-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 0.45rem;
+      }
+      @media (min-width: 480px) {
+        [id$="article-md-body"] .cta-env-grid {
+          grid-template-columns: 1fr 1fr;
+        }
+      }
+      [id$="article-md-body"] .cta-env-card {
+        display: flex;
+        gap: 0.4rem;
+        align-items: flex-start;
+        background: #f1f9f5;
+        border: 1px solid #d1f2e5;
+        border-left: 4px solid #00b894;
+        border-radius: 4px;
+        padding: 0.45rem 0.5rem;
+      }
+      [id$="article-md-body"] .cta-env-icon {
+        flex: 0 0 auto;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New",
+          monospace;
+        font-size: 0.62rem;
+        font-weight: 700;
+        color: #00896f;
+        margin-top: 0.12rem;
+      }
+      [id$="article-md-body"] .cta-env-card p,
+      [id$="article-md-body"] .cta-field-row p,
+      [id$="article-md-body"] .cta-directive-row p {
+        margin: 0;
+        font-size: 0.88rem;
+        line-height: 1.55;
+      }
+      [id$="article-md-body"] .cta-layer--field {
+        background: #f0f3ff;
+        border-radius: 8px;
+        padding: 0.5rem 0.55rem;
+      }
+      [id$="article-md-body"] .cta-field-row {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        gap: 0.45rem 0.55rem;
+        align-items: start;
+        padding: 0.4rem 0;
+        border-bottom: 1px solid #c7d2fe;
+      }
+      [id$="article-md-body"] .cta-field-row:last-child {
+        border-bottom: 0;
+      }
+      [id$="article-md-body"] .cta-field-code {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New",
+          monospace;
+        font-size: 0.7rem;
+        font-weight: 800;
+        color: #1e3a8a;
+        white-space: nowrap;
+      }
+      [id$="article-md-body"] .cta-directive-panel {
+        border: 1px dashed #d4a017;
+        border-radius: 8px;
+        padding: 0.55rem 0.65rem;
+        background: #fefce8;
+      }
+      [id$="article-md-body"] .cta-directive-row {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        gap: 0.35rem 0.55rem;
+        align-items: start;
+        margin: 0 0 0.4rem;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New",
+          monospace;
+        font-size: 0.82rem;
+      }
+      [id$="article-md-body"] .cta-directive-row:last-child {
+        margin-bottom: 0;
+      }
+      [id$="article-md-body"] .cta-directive-code {
+        color: #92400e;
+        font-weight: 700;
+      }
+      [id$="article-md-body"] .cta-directive-row p {
+        font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      }
+      [id$="article-md-body"] .cta-audit-verdict {
+        margin: 0;
+        padding: 0.65rem 0.75rem;
+        background: linear-gradient(180deg, #fff1f2 0%, #ffe4e6 100%);
+        border-top: 2px solid #f43f5e;
+      }
+      [id$="article-md-body"] .cta-audit-verdict__label {
+        display: block;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New",
+          monospace;
+        font-size: 0.68rem;
+        font-weight: 800;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: #be123c;
+        margin-bottom: 0.35rem;
+      }
+      [id$="article-md-body"] .cta-audit-verdict__text {
+        margin: 0;
+        font-size: 0.86rem;
+        font-weight: 700;
+        line-height: 1.45;
+        color: #881337;
+      }
+      [id$="article-md-body"] .cta-loc {
+        color: #1e3a5f;
+        font-weight: 700;
+      }
+      @media (max-width: 479px) {
+        main {
+          padding: 1.35rem 0.85rem;
+        }
+        [id$="article-md-body"] .cta-env-grid {
+          grid-template-columns: 1fr;
+        }
+        [id$="article-md-body"] .cta-env-card {
+          flex-direction: column;
+          gap: 0.3rem;
+          border-left: none;
+          border-top: 4px solid #00b894;
+          padding: 0.55rem 0.6rem 0.6rem;
+        }
+        [id$="article-md-body"] .cta-env-icon {
+          margin-top: 0;
+        }
+        [id$="article-md-body"] .cta-field-row,
+        [id$="article-md-body"] .cta-directive-row {
+          grid-template-columns: 1fr;
+          gap: 0.25rem;
+        }
+        [id$="article-md-body"] .cta-field-code,
+        [id$="article-md-body"] .cta-directive-code {
+          white-space: normal;
+          word-break: break-word;
+        }
+        [id$="article-md-body"] .cta-layer--field,
+        [id$="article-md-body"] .cta-directive-panel {
+          padding: 0.45rem 0.5rem;
+        }
+        [id$="article-md-body"] .cta-audit-header {
+          font-size: 0.6rem;
+          letter-spacing: 0.04em;
+          padding: 0.5rem 0.55rem;
+          overflow-wrap: anywhere;
+        }
+        [id$="article-md-body"] .cta-node-sync {
+          font-size: 0.58rem;
+          padding: 0.35rem 0.55rem;
+          overflow-wrap: anywhere;
+          line-height: 1.45;
+        }
+        [id$="article-md-body"] .cta-audit-body {
+          padding: 0.45rem 0.5rem 0.55rem;
+        }
+        [id$="article-md-body"] .cta-audit-verdict {
+          padding: 0.55rem 0.55rem;
+        }
+        [id$="article-md-body"] .cta-audit-verdict__text {
+          font-size: 0.82rem;
+          overflow-wrap: anywhere;
+        }
+        .faq summary,
+        [class$="--faq"] summary {
+          font-size: 0.92rem;
+          line-height: 1.4;
+          min-height: 3rem;
+          padding: 0.75rem 0.7rem;
+          overflow-wrap: anywhere;
+        }
+        .faq p,
+        [class$="--faq"] p {
+          font-size: 0.9rem;
+          padding: 0.6rem 0.7rem 0.7rem;
+          overflow-wrap: anywhere;
+        }
+        [id$="article-md-body"] p:first-child,
+        [id$="article-md-body"] p.engineering-notice {
+          font-size: 0.88rem;
+          line-height: 1.72;
+          letter-spacing: 0.02em;
+          padding: 0.8rem 0.85rem;
+        }
       }
       .h1-zmoney {
         color: #b91c1c;
@@ -1638,6 +1992,23 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
           <p>{serviceLine}</p>
           <p class="service-meta">{ctaVariant.meta}</p>
           <TrustBar collectionKey={ACTIVE_COLLECTION} />
+          {
+            !isCommunityStewardshipNpo ? (
+              <DispatchSectorRating
+                city={pageCity}
+                county={String(post.data.county ?? geo.county ?? "").trim()}
+                state={stateCodeFromSlug}
+                entrySlug={entrySlug}
+                localPaths={
+                  Array.isArray(post.data.localPaths)
+                    ? (post.data.localPaths as string[])
+                    : Array.isArray(geo.localPaths)
+                      ? geo.localPaths
+                      : []
+                }
+              />
+            ) : null
+          }
           <a class={`${phoneBtnClass} phone-dispatch-btn`} href={telHref} aria-label={phoneBtnAriaLabel}>
             <span class="phone-btn__main">
               <svg
@@ -1675,7 +2046,18 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
               return (
                 <div id={articleBodyId} class={articleBodyClass}>
                   {sidingServiceLeadHtml ? <div set:html={sidingServiceLeadHtml} /> : null}
-                  <Content />
+                  {
+                    technicalAuditBodyHtml ? (
+                      <>
+                        {technicalAuditBodyHtml.engineeringHtml ? (
+                          <div set:html={technicalAuditBodyHtml.engineeringHtml} />
+                        ) : null}
+                        <div set:html={technicalAuditBodyHtml.auditHtml} />
+                      </>
+                    ) : (
+                      <Content />
+                    )
+                  }
                 </div>
               );
             }
@@ -1683,6 +2065,19 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
               return showGeoSection ? (
                 <section class={geoBriefClass} aria-labelledby={geoBriefTitleId}>
                   <h2 id={geoBriefTitleId}>{geoTitle}</h2>
+                  {
+                    showDispatchRadar ? (
+                      <DispatchRadar
+                        lat={geo.lat}
+                        lng={geo.lng}
+                        city={pageCity}
+                        stateCode={stateCodeFromSlug ?? ""}
+                        county={String(post.data.county ?? geo.county ?? "").trim() || null}
+                        entrySlug={entrySlug}
+                        zipCode={pageZipForPestPulse ?? post.data.zipCode ?? null}
+                      />
+                    ) : null
+                  }
                   {geoCoordsLine ? <p>{geoCoordsLine}</p> : null}
                   {geoPhysicalEnvLine ? <p>{geoPhysicalEnvLine}</p> : null}
                   {localPathsText ? <p>{localPathsText}</p> : null}
