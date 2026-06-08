@@ -6,6 +6,7 @@ import { getPestcontrolSerpOverride } from "./pestcontrol-serp-overrides";
 import { getPlumbingSerpOverride } from "./plumbing-serp-overrides";
 import { getRoofingSerpOverride } from "./roofing-serp-overrides";
 import { normalizePhoneE164, siteConfig } from "../site-config";
+import { detailOpeningHoursSpecification } from "./live-dispatch-status";
 
 export type FaqItem = {
   question: string;
@@ -717,6 +718,8 @@ export function buildLocalBusinessSchema(params: {
         name: "US",
       };
 
+  const openingHoursSpecification = detailOpeningHoursSpecification(entrySlug);
+
   return {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
@@ -734,6 +737,7 @@ export function buildLocalBusinessSchema(params: {
             "Emergency dispatch",
           ]
         : [collection, serviceType, "Emergency service"],
+    ...(openingHoursSpecification ? { openingHoursSpecification } : {}),
     ...(aggregateRating ? { aggregateRating } : {}),
   };
 }

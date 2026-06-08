@@ -14,6 +14,9 @@ import DispatchRadar from "../components/DispatchRadar.astro";
 import NationalDispatchDisclaimer from "../components/NationalDispatchDisclaimer.astro";
 import NichePartnerLogos from "../components/NichePartnerLogos.astro";
 import DispatchCommandBar from "../components/DispatchCommandBar.astro";
+import LiveDispatchStatus from "../components/LiveDispatchStatus.astro";
+import { liveDispatchStatusEnabled } from "../lib/live-dispatch-status";
+import { resolveContentEntrySlug, stateAbbrFromNearMeSlug } from "../lib/fixitgrid-near-me-url";
 import RockwellGa4Events from "../components/RockwellGa4Events.astro";
 import ServiceAreaVerifiedReviews from "../components/ServiceAreaVerifiedReviews.astro";
 import ServiceAreaLocalLandmarks from "../components/ServiceAreaLocalLandmarks.astro";
@@ -95,6 +98,10 @@ import {
   buildRockwellMaineEntityGraph,
   matchesRockwellMaine,
 } from "../domain-templates/rockwell-maine-entity";
+import {
+  buildFixitGridEntityGraph,
+  matchesFixitGridEntity,
+} from "../domain-templates/fixitgrid.com-entity";
 import PestBiodiversityPanel from "../components/PestBiodiversityPanel.astro";
 import FlashCouponAnchor from "../components/FlashCouponAnchor.astro";
 import FlashCouponVpcBridge from "../components/FlashCouponVpcBridge.astro";
@@ -122,15 +129,20 @@ const isCommunityStewardshipNpo = ACTIVE_COLLECTION.startsWith("community-stewar
 const showFlashCoupon = collectionUsesFlashCoupon(ACTIVE_COLLECTION);
 
 export async function getStaticPaths() {
+  const { entryPublicPathSegments } = await import("../lib/fixitgrid-near-me-url");
   const posts = await getCollection(ACTIVE_COLLECTION);
-  return posts.map((post) => ({
-    params: { slug: (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "") },
-  }));
+  return posts.map((post) => {
+    const entrySlug = (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
+    const stateAbbr =
+      typeof post.data.state === "string" ? post.data.state.trim().slice(0, 2).toUpperCase() : undefined;
+    const segments = entryPublicPathSegments(entrySlug, stateAbbr);
+    return { params: { slug: segments.join("/") } };
+  });
 }
 
 const { slug } = Astro.params;
 const posts = await getCollection(ACTIVE_COLLECTION);
-const entrySlugParam = (slug ?? "").replace(/\.(md|mdx)$/i, "");
+const entrySlugParam = resolveContentEntrySlug(slug ?? "");
 const entry =
   posts.find((p) => (p.slug ?? p.id ?? "").replace(/\.(md|mdx)$/i, "") === entrySlugParam) ?? null;
 if (!entry) {
@@ -144,6 +156,7 @@ const pageUrl = canonicalPageUrl(entrySlug);
 const ogImageUrl = ogThumbnailUrl(entrySlug);
 const pageNicheLabel = getNicheLabelForSeed(entrySlug);
 const isRockwellMaine = matchesRockwellMaine({ domainOrUrl: siteConfig.canonicalOrigin });
+const isFixitGridSite = matchesFixitGridEntity({ domainOrUrl: siteConfig.canonicalOrigin });
 const pageLocation = resolvePageLocation({
   collection: ACTIVE_COLLECTION,
   title: post.data.title,
@@ -176,6 +189,9 @@ function cityFromSlug(slugText: string) {
 }
 const pageCityFromSlug = cityFromSlug(entrySlug);
 const pageCity = String(post.data.city ?? "").trim() || pageCityFromSlug;
+/** Opt-in live OPEN / after-hours bar — PUBLIC_LIVE_DISPATCH_STATUS=1; never on church pages. */
+const showLiveDispatchStatus =
+  liveDispatchStatusEnabled() && !isCommunityStewardshipNpo && Boolean(pageCity?.trim());
 const trustDispatchPlace = pageCity?.trim() ? pageCity.trim() : "Area";
 const desktopDispatchZip =
   String(pageLocation?.zip ?? post.data.zipCode ?? "")
@@ -1081,7 +1097,17 @@ const localBusinessSchema = isRockwellMaine
         pageUrl,
         location: pageLocation,
       })
-    : buildLocalBusinessSchema({
+    : isFixitGridSite
+      ? buildFixitGridEntityGraph({
+          collection: ACTIVE_COLLECTION,
+          pageDescription: pageMetaDescription,
+          pageUrl,
+          location: pageLocation,
+          entrySlug,
+          cityDisplay: pageCity,
+          countyDisplay: String(post.data.county ?? geo.county ?? "").trim() || null,
+        })
+      : buildLocalBusinessSchema({
         collection: ACTIVE_COLLECTION,
         pageTitle,
         pageDescription: pageMetaDescription,
@@ -1236,6 +1262,11 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
         transform-origin: center;
         animation: ctaMobileShadowPulse 3s ease-in-out infinite;
         box-sizing: border-box;
+        transition: transform 0.12s ease;
+      }
+      .phone-btn:active,
+      [class$="--phone-btn"]:active {
+        transform: scale(0.95);
       }
       .phone-btn__main {
         display: inline-flex;
@@ -1292,7 +1323,8 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
           transition:
             filter 0.2s ease,
             box-shadow 0.2s ease,
-            background-color 0.2s ease;
+            background-color 0.2s ease,
+            transform 0.12s ease;
         }
         .phone-btn:hover,
         [class$="--phone-btn"]:hover {
@@ -1340,6 +1372,11 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
         .phone-btn,
         [class$="--phone-btn"] {
           animation: none;
+          transition: none;
+        }
+        .phone-btn:active,
+        [class$="--phone-btn"]:active {
+          transform: none;
         }
       }
       .dispatcher-hookup-line {
@@ -1347,6 +1384,13 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
         font-size: 0.88rem;
         color: #475569;
         line-height: 1.4;
+      }
+      .dispatcher-scheduling-visibility {
+        margin: 0.2rem 0 0;
+        font-size: 10px;
+        opacity: 0.6;
+        line-height: 1.35;
+        color: #475569;
       }
       .pest-equity-insurance-note {
         margin: 0.55rem 0 0;
@@ -1984,6 +2028,21 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
           <p class="service-meta">{ctaVariant.meta}</p>
           <TrustBar collectionKey={ACTIVE_COLLECTION} />
           {
+            showLiveDispatchStatus ? (
+              <LiveDispatchStatus
+                city={pageCity}
+                stateCode={
+                  stateCodeFromSlug ??
+                  stateAbbrFromNearMeSlug(entrySlug) ??
+                  (String(post.data.state ?? "").trim().slice(0, 2).toUpperCase() || null)
+                }
+                entrySlug={entrySlug}
+                lat={geo.lat}
+                lng={geo.lng}
+              />
+            ) : null
+          }
+          {
             !isCommunityStewardshipNpo ? (
               <DispatchSectorRating
                 city={pageCity}
@@ -2027,8 +2086,9 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
             <NationalDispatchDisclaimer city={pageCity} slug={entrySlug} stewardshipReference={isCommunityStewardshipNpo} />
           </div>
           <p class="dispatcher-hookup-line">
-            Regional coordination desk ({dispatcherCountyLabel}): {dispatcherClaimsLineDisplay}
+            Regional coordination desk ({dispatcherCountyLabel}):
           </p>
+          <p class="dispatcher-scheduling-visibility">{dispatcherClaimsLineDisplay}</p>
           {pestLatestDispatchLine ? <p class="pest-zip-dispatch-pulse">{pestLatestDispatchLine}</p> : null}
         </div>
         {

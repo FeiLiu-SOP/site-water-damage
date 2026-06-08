@@ -8,6 +8,7 @@ import { buildDispatchComplianceSchema } from "../lib/compliance-matrix";
 import { buildPestControlServiceNode } from "../lib/pest-control-service-entity";
 import type { ParsedLocation } from "../lib/location";
 import { buildServiceAreaAggregateRating } from "../lib/seo";
+import { detailOpeningHoursSpecification } from "../lib/live-dispatch-status";
 import { getCanonicalBase, normalizePhoneE164, siteConfig } from "../site-config";
 import { FIXITGRID_DOMAIN } from "../lib/fixitgrid-domain";
 
@@ -64,6 +65,8 @@ export function buildFixitGridEntityGraph(params: {
       "Nationwide local dispatch network for roofing, plumbing, and pest control coordination. Licensed partners vary by county.",
   };
 
+  const openingHoursSpecification = detailOpeningHoursSpecification(params.entrySlug);
+
   const localBusiness: Record<string, unknown> = {
     "@type": ["LocalBusiness", "HomeAndConstructionBusiness"],
     "@id": localId,
@@ -72,6 +75,7 @@ export function buildFixitGridEntityGraph(params: {
     url: params.pageUrl,
     telephone: normalizePhoneE164(siteConfig.phoneE164),
     priceRange: "$$$–$$$$",
+    ...(openingHoursSpecification ? { openingHoursSpecification } : {}),
     areaServed: params.location
       ? {
           "@type": "AdministrativeArea",
