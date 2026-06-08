@@ -1,3 +1,6 @@
+import fs from "node:fs";
+import path from "node:path";
+
 export const COMMERCIAL_TECHNICAL_AUDIT_COLLECTIONS = new Set([
   "roofing",
   "plumbing",
@@ -186,6 +189,54 @@ function buildAuditHtml(
 
 export function usesTechnicalAuditReport(collection: string): boolean {
   return COMMERCIAL_TECHNICAL_AUDIT_COLLECTIONS.has(collection);
+}
+
+const FRONTMATTER_RE = /^---\r?\n[\s\S]*?\r?\n---\r?\n?/;
+
+export function stripMarkdownFrontmatter(raw: string): string {
+  return raw.replace(FRONTMATTER_RE, "");
+}
+
+/**
+ * Astro 6 glob loader may omit `entry.body` in large CF builds (`retainBody` / data store).
+ * Fall back to `filePath` or `src/content/<collection>/<id>.md` so audit SSR always runs.
+ */
+export function resolveCollectionEntryMarkdownBody(
+  entry: { body?: string; id?: string; filePath?: string },
+  collectionKey: string,
+): string {
+  const inline = typeof entry.body === "string" ? entry.body.trim() : "";
+  if (inline) return inline;
+
+  const candidates: string[] = [];
+  const filePath = String(entry.filePath ?? "").trim();
+  if (filePath) {
+    candidates.push(path.isAbsolute(filePath) ? filePath : path.join(process.cwd(), filePath));
+  }
+
+  const id = String(entry.id ?? "")
+    .replace(/\\/g, "/")
+    .replace(/\.(md|mdx)$/i, "");
+  if (id && collectionKey) {
+    const contentDir = path.join(process.cwd(), "src", "content", collectionKey);
+    candidates.push(
+      path.join(contentDir, `${id}.md`),
+      path.join(contentDir, `${id}.mdx`),
+      path.join(contentDir, `${path.basename(id)}.md`),
+      path.join(contentDir, `${path.basename(id)}.mdx`),
+    );
+  }
+
+  for (const candidate of candidates) {
+    try {
+      if (!fs.existsSync(candidate)) continue;
+      const body = stripMarkdownFrontmatter(fs.readFileSync(candidate, "utf8")).trim();
+      if (body) return body;
+    } catch {
+      /* try next candidate */
+    }
+  }
+  return "";
 }
 
 export function parseMarkdownBodyParagraphs(body: string): string[] {

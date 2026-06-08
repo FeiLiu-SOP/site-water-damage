@@ -47,6 +47,7 @@ import {
 import { buildHydratedPageFaqs, type FaqHydrationContext } from "../lib/faq-hydration";
 import {
   buildTechnicalAuditBodyHtml,
+  resolveCollectionEntryMarkdownBody,
   usesTechnicalAuditReport,
 } from "../lib/technical-audit-report";
 import { resolvePageLocation } from "../lib/location";
@@ -137,7 +138,7 @@ if (!entry) {
 }
 const { Content } = await render(entry);
 const post = entry;
-const markdownBody = typeof entry.body === "string" ? entry.body : "";
+const markdownBody = resolveCollectionEntryMarkdownBody(entry, ACTIVE_COLLECTION);
 const entrySlug = entrySlugParam || (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
 const pageUrl = canonicalPageUrl(entrySlug);
 const ogImageUrl = ogThumbnailUrl(entrySlug);
@@ -879,8 +880,13 @@ const relatedTitleVariants = [
 ] as const;
 const relatedTitle =
   relatedTitleVariants[stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|relatedTitle`) % relatedTitleVariants.length]!;
-const showFaq = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|showFaq`) % 10 >= 3;
-const showRelated = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|showRelated`) % 10 >= 3;
+/** Commercial hubs: always render FAQ + related; avoids “empty bottom” on ~30% of slugs. */
+const showFaq = isCommunityStewardshipNpo
+  ? stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|showFaq`) % 10 >= 3
+  : true;
+const showRelated = isCommunityStewardshipNpo
+  ? stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|showRelated`) % 10 >= 3
+  : true;
 const stateNotice = stateCodeFromSlug
   ? `Notice: This ${stateCodeFromSlug} page summarizes regional infrastructure maintenance coordination and local topographic context; it is not a government bulletin.`
   : "Notice: This page summarizes regional infrastructure maintenance coordination and local topographic context; it is not a government bulletin.";
@@ -1102,8 +1108,8 @@ const breadcrumbListSchema = buildBreadcrumbListSchema(
   }),
 );
 
-// Action 3: stable DOM section randomizer for 4 blocks (content / geo / faq / related)
-const blocks = ["content", "geo", "faq", "related"] as const;
+// Reading order: audit body → FAQ → map → related (no shuffle — map no longer jumps above content).
+const blocks = ["content", "faq", "geo", "related"] as const;
 const visibleBlocks = blocks.filter((k) => {
   if (k === "faq") return showFaq;
   if (k === "related") return showRelated;
@@ -1113,22 +1119,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
   ? REALTORS_AT_THE_BEACH_PLUMBING_V2.blockOrder.filter((k) => visibleBlocks.includes(k))
   : enableRealtorsAtTheBeachWaterDamageIsolation
   ? REALTORS_AT_THE_BEACH_WATER_DAMAGE.blockOrder.filter((k) => visibleBlocks.includes(k))
-  : (() => {
-      const orderSeed = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|order`);
-      const order = [...visibleBlocks];
-      {
-        let s = orderSeed;
-        for (let i = order.length - 1; i > 0; i--) {
-          s = Math.imul(s ^ (s >>> 13), 1274126177) >>> 0;
-          const j = s % (i + 1);
-          const a = order[i]!;
-          const b = order[j]!;
-          order[i] = b;
-          order[j] = a;
-        }
-      }
-      return order;
-    })();
+  : visibleBlocks;
 ---
 
 <html

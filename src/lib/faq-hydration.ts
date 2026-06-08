@@ -164,16 +164,19 @@ export function hydrateFaqItem(
   const stateSuffix = ctx.state ? `, ${ctx.state}` : "";
 
   const replaceTokens = (raw: string, appendLocalizationTail: boolean) => {
-    let text = resolveSpintax(raw, seed);
+    let text = raw;
     if (appendLocalizationTail) {
       text = ensureLocalizationPlaceholders(text);
     }
-    return text
+    // Must resolve {{city}}/{{county}} before spintax: `{{city}}` contains `}` and
+    // otherwise truncates `{a|b}` blocks at the first mustache closing brace.
+    text = text
       .replaceAll("{{city}}", ctx.city)
       .replaceAll("{{county}}", countyLabel)
       .replaceAll("{{state}}", ctx.state ?? "")
       .replaceAll("{{cityState}}", `${ctx.city}${stateSuffix}`)
       .replaceAll("{{localDataPoint}}", localDataPoint);
+    return resolveSpintax(text, seed);
   };
 
   return {

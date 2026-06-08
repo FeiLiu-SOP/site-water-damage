@@ -39,6 +39,17 @@ const warRoom = buildDispatchRadarBundle({
 const cityLabel = city.trim() || "Local";
 const tileGridPx = (warRoom.tileGridSize ?? 0) * (warRoom.tileSize ?? 256);
 const tileCenterIdx = Math.floor((warRoom.tileGridSize ?? 5) / 2);
+
+/** Always at least one line; duplicated in DOM for seamless -50% marquee loop. */
+const tickerLines =
+  warRoom.tickerLines.length > 0
+    ? warRoom.tickerLines
+    : [`[00:00:00] - Dispatch: ${cityLabel} sector nominal`];
+/** ~11 chars/s scroll speed; clamp keeps motion readable on mobile. */
+const tickerDurationSec = Math.max(
+  28,
+  Math.min(64, Math.round(tickerLines.join("").length / 11)),
+);
 ---
 
 <section
@@ -148,15 +159,31 @@ const tileCenterIdx = Math.floor((warRoom.tileGridSize ?? 5) / 2);
         <p class="dispatch-radar__node">{warRoom.nodeLabel}</p>
       </div>
 
-      <div class="dispatch-radar__ticker" aria-live="polite">
+      <div
+        class="dispatch-radar__ticker"
+        aria-live="polite"
+        aria-label={`Live dispatch monitor — ${cityLabel}`}
+      >
         <span class="dispatch-radar__online" aria-hidden="true">● ONLINE</span>
         <div class="dispatch-radar__ticker-viewport">
-          <div class="dispatch-radar__ticker-track">
-            {
-              warRoom.tickerLines.map((line) => (
-                <span class="dispatch-radar__ticker-item">{line}</span>
-              ))
-            }
+          <div
+            class="dispatch-radar__ticker-track"
+            style={`--dispatch-ticker-duration: ${tickerDurationSec}s`}
+          >
+            <div class="dispatch-radar__ticker-segment">
+              {
+                tickerLines.map((line) => (
+                  <span class="dispatch-radar__ticker-item">{line}</span>
+                ))
+              }
+            </div>
+            <div class="dispatch-radar__ticker-segment" aria-hidden="true">
+              {
+                tickerLines.map((line) => (
+                  <span class="dispatch-radar__ticker-item">{line}</span>
+                ))
+              }
+            </div>
           </div>
         </div>
       </div>
@@ -374,11 +401,18 @@ const tileCenterIdx = Math.floor((warRoom.tileGridSize ?? 5) / 2);
   .dispatch-radar__ticker-track {
     display: flex;
     align-items: center;
-    gap: 2.25rem;
+    flex-wrap: nowrap;
     width: max-content;
     min-height: 2rem;
+    will-change: transform;
+    animation: dispatch-ticker var(--dispatch-ticker-duration, 42s) linear infinite;
+  }
+  .dispatch-radar__ticker-segment {
+    display: flex;
+    align-items: center;
+    flex: 0 0 auto;
+    gap: 2.25rem;
     padding: 0.38rem 0.65rem;
-    animation: dispatch-ticker 42s linear infinite;
   }
   .dispatch-radar__ticker-item {
     flex: 0 0 auto;
@@ -393,7 +427,7 @@ const tileCenterIdx = Math.floor((warRoom.tileGridSize ?? 5) / 2);
       transform: translateX(0);
     }
     to {
-      transform: translateX(-100%);
+      transform: translateX(-50%);
     }
   }
   .dispatch-radar__footnote {
@@ -428,9 +462,18 @@ const tileCenterIdx = Math.floor((warRoom.tileGridSize ?? 5) / 2);
     .dispatch-radar__sonar,
     .dispatch-radar__ticker-track {
       animation: none;
+      transform: none;
     }
     .dispatch-radar__sonar {
       opacity: 0.35;
+    }
+    .dispatch-radar__ticker-segment[aria-hidden="true"] {
+      display: none;
+    }
+    .dispatch-radar__ticker-viewport {
+      overflow-x: auto;
+      overflow-y: hidden;
+      -webkit-overflow-scrolling: touch;
     }
   }
 </style>
