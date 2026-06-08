@@ -23,8 +23,8 @@ export function getNicheJitter(slug: string): NicheJitter {
   const tail = trimmed.length >= 4 ? trimmed.slice(-4) : trimmed;
   const h = stableHashUint32(`${tail}|${trimmed}|niche-jitter`);
   const sig = 100 + (h % 900);
-  const ch = 1 + ((h >> 10) % 99);
-  const micro = ((h >> 16) % 61) / 10;
+  const ch = 1 + ((h >>> 10) % 99);
+  const micro = ((h >>> 16) % 61) / 10;
   const hueRaw = trimmed.length % 2 === 1 ? micro - 3 : 3 - micro;
   const hueRotateDeg = Math.round(hueRaw * 10) / 10;
   return {

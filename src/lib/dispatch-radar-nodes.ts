@@ -286,7 +286,7 @@ export function buildDispatchTickerLines(input: {
   const county = String(input.county ?? "Regional").trim() || "Regional";
   const seed = stableHash(`${city}|${state}|${input.entrySlug}|dispatch-ticker`);
   const unitPrimary = 700 + (seed % 280);
-  const unitReserve = 500 + ((seed >> 5) % 420);
+  const unitReserve = 500 + ((seed >>> 5) % 420);
   const jitter = input.jitter ?? getNicheJitter(input.entrySlug);
   const sigCode = jitter.sigCode;
   const channel = jitter.channel;
@@ -299,7 +299,7 @@ export function buildDispatchTickerLines(input: {
     118_000,
     184_000,
     241_000,
-  ].map((base, i) => base + ((seed >> (i + 2)) % 9) * 1_000);
+  ].map((base, i) => base + ((seed >>> (i + 2)) % 9) * 1_000);
 
   const candidates = [
     `[${formatTickerClock(now - lookbacksMs[0]!)}] - Node Sync: ${city} sector armed`,
