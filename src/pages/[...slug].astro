@@ -15,6 +15,8 @@ import NationalDispatchDisclaimer from "../components/NationalDispatchDisclaimer
 import NichePartnerLogos from "../components/NichePartnerLogos.astro";
 import DispatchCommandBar from "../components/DispatchCommandBar.astro";
 import LiveDispatchStatus from "../components/LiveDispatchStatus.astro";
+import ServiceAreaEvidencePhoto from "../components/ServiceAreaEvidencePhoto.astro";
+import { getSeedEvidencePhoto } from "../lib/seed-evidence-images";
 import { liveDispatchStatusEnabled } from "../lib/live-dispatch-status";
 import { resolveContentEntrySlug, stateAbbrFromNearMeSlug } from "../lib/fixitgrid-near-me-url";
 import RockwellGa4Events from "../components/RockwellGa4Events.astro";
@@ -196,6 +198,9 @@ const pageCity = String(post.data.city ?? "").trim() || pageCityFromSlug;
 /** Opt-in live OPEN / after-hours bar — PUBLIC_LIVE_DISPATCH_STATUS=1; never on church pages. */
 const showLiveDispatchStatus =
   liveDispatchStatusEnabled() && !isCommunityStewardshipNpo && Boolean(pageCity?.trim());
+/** Seed-only field evidence photo (R2); manifest status must be `live`. */
+const seedEvidencePhoto =
+  !isCommunityStewardshipNpo ? getSeedEvidencePhoto(entrySlug) : null;
 const trustDispatchPlace = pageCity?.trim() ? pageCity.trim() : "Area";
 const desktopDispatchZip =
   String(pageLocation?.zip ?? post.data.zipCode ?? "")
@@ -2037,6 +2042,11 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
                 lat={geo.lat}
                 lng={geo.lng}
               />
+            ) : null
+          }
+          {
+            seedEvidencePhoto ? (
+              <ServiceAreaEvidencePhoto photo={seedEvidencePhoto} />
             ) : null
           }
           {
