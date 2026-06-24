@@ -33,7 +33,7 @@
       "climate": "desert_southwest",
       "alt": "Roof repair in progress on a residential home in Las Cruces, NM",
       "caption": "Las Cruces, NM 88012 — roof repair documentation (desert Southwest).",
-      "status": "pending"
+      "status": "live"
     },
     {
       "slug": "roofing-carlsbad-ca-92008",
@@ -47,7 +47,7 @@
       "climate": "socal_coastal",
       "alt": "Roof repair in progress on a residential home in Carlsbad, CA",
       "caption": "Carlsbad, CA 92008 — roof repair documentation (Southern California coastal).",
-      "status": "pending"
+      "status": "live"
     },
     {
       "slug": "plumbing-seatac-wa-98158",
@@ -61,7 +61,7 @@
       "climate": "pacific_nw",
       "alt": "Plumbing repair access at a residential property in SeaTac, WA",
       "caption": "SeaTac, WA 98158 — plumbing repair documentation.",
-      "status": "pending"
+      "status": "live"
     },
     {
       "slug": "plumbing-tacoma-wa-98422",
@@ -75,7 +75,7 @@
       "climate": "pacific_nw",
       "alt": "Plumbing repair access at a residential property in Tacoma, WA",
       "caption": "Tacoma, WA 98422 — plumbing repair documentation.",
-      "status": "pending"
+      "status": "live"
     },
     {
       "slug": "plumbing-bonney-lake-wa-98391",
@@ -89,7 +89,7 @@
       "climate": "pacific_nw",
       "alt": "Plumbing repair access at a residential property in Bonney Lake, WA",
       "caption": "Bonney Lake, WA 98391 — plumbing repair documentation.",
-      "status": "pending"
+      "status": "live"
     },
     {
       "slug": "pest-control-tacoma-wa-98422",
@@ -103,7 +103,7 @@
       "climate": "pacific_nw",
       "alt": "Perimeter pest treatment at a residential property in Tacoma, WA",
       "caption": "Tacoma, WA 98422 — pest control service documentation.",
-      "status": "pending"
+      "status": "live"
     },
     {
       "slug": "pest-control-gautier-ms-39553",
@@ -117,7 +117,7 @@
       "climate": "gulf_humid",
       "alt": "Perimeter pest treatment at a residential property in Gautier, MS",
       "caption": "Gautier, MS 39553 — pest control service documentation.",
-      "status": "pending"
+      "status": "live"
     },
     {
       "slug": "pest-control-seattle-wa-98109",
@@ -131,7 +131,7 @@
       "climate": "pacific_nw",
       "alt": "Perimeter pest treatment at a residential property in Seattle, WA",
       "caption": "Seattle, WA 98109 — pest control service documentation.",
-      "status": "pending"
+      "status": "live"
     },
     {
       "slug": "water-damage-cosmopolis-wa-98520",
@@ -145,7 +145,7 @@
       "climate": "pacific_nw",
       "alt": "Water damage mitigation at a residential property in Cosmopolis, WA",
       "caption": "Cosmopolis, WA 98520 — water damage mitigation documentation.",
-      "status": "pending"
+      "status": "live"
     },
     {
       "slug": "water-damage-fall-city-wa-98024",
@@ -159,7 +159,7 @@
       "climate": "pacific_nw",
       "alt": "Water damage mitigation at a residential property in Fall City, WA",
       "caption": "Fall City, WA 98024 — water damage mitigation documentation.",
-      "status": "pending"
+      "status": "live"
     },
     {
       "slug": "water-damage-gold-bar-wa-98251",
@@ -173,7 +173,7 @@
       "climate": "pacific_nw",
       "alt": "Water damage mitigation at a residential property in Gold Bar, WA",
       "caption": "Gold Bar, WA 98251 — water damage mitigation documentation.",
-      "status": "pending"
+      "status": "live"
     },
     {
       "slug": "siding-services-cosmopolis-wa-98520",
@@ -187,7 +187,7 @@
       "climate": "pacific_nw",
       "alt": "Siding repair in progress on a residential home in Cosmopolis, WA",
       "caption": "Cosmopolis, WA 98520 — siding repair documentation.",
-      "status": "pending"
+      "status": "live"
     },
     {
       "slug": "siding-services-fall-city-wa-98024",
@@ -201,7 +201,7 @@
       "climate": "pacific_nw",
       "alt": "Siding repair in progress on a residential home in Fall City, WA",
       "caption": "Fall City, WA 98024 — siding repair documentation.",
-      "status": "pending"
+      "status": "live"
     },
     {
       "slug": "siding-services-cle-elum-wa-98922",
@@ -215,7 +215,7 @@
       "climate": "pacific_nw",
       "alt": "Siding repair in progress on a residential home in Cle Elum, WA",
       "caption": "Cle Elum, WA 98922 — siding repair documentation.",
-      "status": "pending"
+      "status": "live"
     },
     {
       "slug": "plumbing-v2-cosmopolis-wa-98520",
@@ -229,7 +229,7 @@
       "climate": "pacific_nw",
       "alt": "Plumbing repair access at a residential property in Cosmopolis, WA",
       "caption": "Cosmopolis, WA 98520 — plumbing repair documentation.",
-      "status": "pending"
+      "status": "live"
     },
     {
       "slug": "plumbing-v2-tacoma-wa-98422",
@@ -243,7 +243,7 @@
       "climate": "pacific_nw",
       "alt": "Plumbing repair access at a residential property in Tacoma, WA",
       "caption": "Tacoma, WA 98422 — plumbing repair documentation.",
-      "status": "pending"
+      "status": "live"
     },
     {
       "slug": "plumbing-v2-fall-city-wa-98024",
@@ -257,7 +257,7 @@
       "climate": "pacific_nw",
       "alt": "Plumbing repair access at a residential property in Fall City, WA",
       "caption": "Fall City, WA 98024 — plumbing repair documentation.",
-      "status": "pending"
+      "status": "live"
     }
   ]
 }
