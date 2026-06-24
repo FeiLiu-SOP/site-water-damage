@@ -442,6 +442,7 @@ const plumbingConvHead =
         zLabelExact,
         highValue: isPlumbingHighValue,
         slug: entrySlug,
+        county: String(post.data.county ?? "").trim() || undefined,
       })
     : null;
 const pestConvHead =
@@ -622,6 +623,9 @@ const pageH1Plain = isWaterDamageHub
             zLabel,
             zLabelExact,
             highValue: isPlumbingHighValue,
+            slug: entrySlug,
+            stateCode: stateCodeFromSlug,
+            county: String(post.data.county ?? "").trim() || null,
           })
         : post.data.title)
     : isPlumbingV2Hub
