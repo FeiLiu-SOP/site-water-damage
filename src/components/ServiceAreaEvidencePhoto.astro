@@ -8,7 +8,8 @@ export interface Props {
 const { photo } = Astro.props;
 ---
 
-<figure class="service-area-evidence-photo">
+<figure class="service-area-evidence-photo" aria-label="Service-area field documentation">
+  <figcaption class="service-area-evidence-photo__kicker">Service-area field documentation</figcaption>
   <img
     src={photo.url}
     alt={photo.alt}
@@ -28,6 +29,15 @@ const { photo } = Astro.props;
     border-radius: 8px;
     overflow: hidden;
     background: #f8fafc;
+  }
+  .service-area-evidence-photo__kicker {
+    margin: 0;
+    padding: 0.55rem 1rem 0;
+    font-size: 0.6875rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #64748b;
   }
   .service-area-evidence-photo__img {
     display: block;
